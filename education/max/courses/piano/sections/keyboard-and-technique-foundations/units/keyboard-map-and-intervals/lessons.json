@@ -1,0 +1,86 @@
+[
+  {
+    "id": "identifying-all-notes-on-the-keyboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Identifying All Notes on the Keyboard",
+        "zh-Hans": "识别键盘上的所有音符",
+        "de": "Alle Noten auf der Tastatur erkennen",
+        "ja": "キーボード上のすべての音を識別する",
+        "pt-BR": "Identificando Todas as Notas no Teclado",
+        "es": "Identificación de todas las notas del teclado"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "whole-steps-half-steps-and-intervals",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Whole Steps, Half Steps, and Intervals",
+        "zh-Hans": "全音、半音与音程",
+        "de": "Ganztonschritte, Halbtonschritte und Intervalle",
+        "ja": "全音、半音、および音程",
+        "pt-BR": "Tons, Semitons e Intervalos",
+        "es": "Tonos, semitonos e intervalos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "simple-interval-exercises-using-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Simple Interval Exercises Using C Major",
+        "zh-Hans": "使用C大调的简单音程练习",
+        "de": "Einfache Intervallübungen in C-Dur",
+        "ja": "Cメジャーを使った簡単な音程練習",
+        "pt-BR": "Exercícios Simples de Intervalo Usando Dó Maior",
+        "es": "Ejercicios simples de intervalos usando Do Mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

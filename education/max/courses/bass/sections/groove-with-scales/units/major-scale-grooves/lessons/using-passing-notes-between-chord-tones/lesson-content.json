@@ -1,0 +1,73 @@
+{
+  "id": "using-passing-notes-between-chord-tones",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting chord tones with passing notes\nOn bass, **chord tones** (1–3–5) are your main “anchor” notes.\n\n**Passing notes** are the notes you use **between** those chord tones to make the line smoother and more melodic. In this lesson you’ll use C major to connect chord tones with **diatonic** (in the scale) and **chromatic** (one fret away) passing notes.",
+          "zh-Hans": "# 用经过音连接和弦音\n在贝斯上，**和弦音**（1、3、5）是你的主要“锚点”音。\n\n**经过音**就是用在这些和弦音**之间**的音，让你的低音线更顺、更有旋律感。本课中，你会在 C 大调里，用**音阶内的经过音**（自然音阶）和**半音经过音**（相邻一品）来连接和弦音。",
+          "de": "# Akkordtöne mit Durchgangstönen verbinden\nAuf dem Bass sind **Akkordtöne** (1–3–5) deine wichtigsten Anker.\n\n**Durchgangstöne** sind die Töne **zwischen** diesen Akkordtönen, die die Linie flüssiger und melodischer machen. In dieser Lektion nutzt du C-Dur, um Akkordtöne mit **diatonischen** (in der Skala) und **chromatischen** (einen Bund daneben) Durchgangstönen zu verbinden.",
+          "ja": "# 和音の音をパッシングノートでつなぐ\nベースでは、**コードトーン**（1度・3度・5度）がラインの“アンカー”になる音です。\n\n**パッシングノート（経過音）**は、そのコードトーン同士を**つないであげる音**で、ラインをなめらかに、メロディックにしてくれます。このレッスンでは Cメジャーを使って、**ダイアトニック（スケール内）**と**クロマチック（半音）**のパッシングノートでコードトーンをつないでいきます。",
+          "pt-BR": "# Usando notas de passagem entre notas do acorde\nNo baixo, as **notas do acorde** (1–3–5) são os seus principais pontos de apoio.\n\nAs **notas de passagem** são as notas que você usa **entre** essas notas do acorde para deixar a linha mais suave e melodiosa. Nesta lição você vai usar Dó maior para ligar notas do acorde com notas de passagem **diatônicas** (dentro da escala) e **cromáticas** (um traste ao lado).",
+          "es": "# Usando notas de paso entre notas del acorde\nEn el bajo, las **notas del acorde** (1–3–5) son tus puntos de apoyo principales.\n\nLas **notas de paso** son las notas que usas **entre** esas notas del acorde para que la línea sea más fluida y melódica. En esta lección usarás Do mayor para conectar notas del acorde con notas de paso **diatónicas** (dentro de la escala) y **cromáticas** (un traste al lado)."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Chord tones in C major\n4-string bass in E–A–D–G.\n\nWe’ll think about two chords: **C** and **F**.\n\n- **C chord tones (C–E–G)**\n  - C: 3rd string (A), 3rd fret\n  - E: 2nd string (D), 2nd fret\n  - G: 2nd string, 5th fret\n\n- **F chord tones (F–A–C)**\n  - F: 2nd string, 3rd fret\n  - A: 1st string (G), 2nd fret\n  - C: 1st string, 5th fret\n\nWe’ll keep these as our **strong notes** and fill the spaces between them.",
+          "zh-Hans": "# C 大调里的和弦音\n4 弦贝斯，E–A–D–G 定弦。\n\n这里先看两个和弦：**C** 和 **F**。\n\n- **C 和弦音（C–E–G）**\n  - C：第 3 弦（A）第 3 品\n  - E：第 2 弦（D）第 2 品\n  - G：第 2 弦第 5 品\n\n- **F 和弦音（F–A–C）**\n  - F：第 2 弦第 3 品\n  - A：第 1 弦（G）第 2 品\n  - C：第 1 弦第 5 品\n\n这些是我们的**强拍音 / 目标音**，其间的空隙就留给经过音来填。",
+          "de": "# Akkordtöne in C-Dur\n4-saitiger Bass in E–A–D–G-Stimmung.\n\nWir denken an zwei Akkorde: **C** und **F**.\n\n- **C-Akkordtöne (C–E–G)**\n  - C: 3. Saite (A), 3. Bund\n  - E: 2. Saite (D), 2. Bund\n  - G: 2. Saite, 5. Bund\n\n- **F-Akkordtöne (F–A–C)**\n  - F: 2. Saite, 3. Bund\n  - A: 1. Saite (G), 2. Bund\n  - C: 1. Saite, 5. Bund\n\nDiese Töne sind unsere **starken Zieltöne** – die Zwischenräume füllen wir mit Durchgangstönen.",
+          "ja": "# Cメジャーでのコードトーン\n4弦ベース（E–A–D–Gチューニング）。\n\nここでは **C** と **F** の2つのコードを考えます。\n\n- **Cのコードトーン（C–E–G）**\n  - C：3弦（A）3フレット\n  - E：2弦（D）2フレット\n  - G：2弦5フレット\n\n- **Fのコードトーン（F–A–C）**\n  - F：2弦3フレット\n  - A：1弦（G）2フレット\n  - C：1弦5フレット\n\nこれらを**強い音（着地ポイント）**として、その間をパッシングノートでつないでいきます。",
+          "pt-BR": "# Notas do acorde em Dó maior\nBaixo de 4 cordas afinado em E–A–D–G.\n\nVamos pensar em dois acordes: **C** e **F**.\n\n- **Notas do acorde de C (C–E–G)**\n  - C: 3ª corda (A), 3ª casa\n  - E: 2ª corda (D), 2ª casa\n  - G: 2ª corda, 5ª casa\n\n- **Notas do acorde de F (F–A–C)**\n  - F: 2ª corda, 3ª casa\n  - A: 1ª corda (G), 2ª casa\n  - C: 1ª corda, 5ª casa\n\nEssas serão nossas **notas fortes / de destino**. O espaço entre elas é onde entram as notas de passagem.",
+          "es": "# Notas del acorde en Do mayor\nBajo de 4 cuerdas afinado E–A–D–G.\n\nVamos usar dos acordes: **C** y **F**.\n\n- **Notas del acorde de C (C–E–G)**\n  - C: 3ª cuerda (A), traste 3\n  - E: 2ª cuerda (D), traste 2\n  - G: 2ª cuerda, traste 5\n\n- **Notas del acorde de F (F–A–C)**\n  - F: 2ª cuerda, traste 3\n  - A: 1ª cuerda (G), traste 2\n  - C: 1ª cuerda, traste 5\n\nEstas son nuestras **notas fuertes / objetivo**. El espacio entre ellas lo llenaremos con notas de paso."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove 1 – Diatonic passing notes\nWe’ll stay on a **C chord** and connect **C → E** using only notes from the C major scale.\n\nPlay as even 8th notes:\n- C – D – E – G – A – G – E – D\n\nOn the neck:\n- C: 3rd string, 3rd fret\n- D: 3rd string, 5th fret\n- E: 2nd string, 2nd fret\n- G: 2nd string, 5th fret\n- A: 1st string, 2nd fret\n\nHere **C, E, G** are chord tones and **D, A** are **diatonic passing notes**. Keep the chord tones on the **stronger beats** (1 and 3) when you can.",
+          "zh-Hans": "# Groove 1 – 音阶内经过音\n先停留在一个 **C 和弦** 上，用 C 大调的音阶音来连接 **C → E**。\n\n作为均匀的八分音符来弹：\n- C – D – E – G – A – G – E – D\n\n指板位置：\n- C：第 3 弦第 3 品\n- D：第 3 弦第 5 品\n- E：第 2 弦第 2 品\n- G：第 2 弦第 5 品\n- A：第 1 弦第 2 品\n\n这里 **C、E、G** 是和弦音，**D、A** 是 **音阶内经过音**。尽量让和弦音落在**强拍**（比如 1 和 3 拍）上。",
+          "de": "# Groove 1 – Diatonische Durchgangstöne\nWir bleiben auf einem **C-Akkord** und verbinden **C → E** nur mit Tönen aus der C-Dur-Tonleiter.\n\nAls gleichmäßige Achtelnoten gespielt:\n- C – D – E – G – A – G – E – D\n\nAuf dem Griffbrett:\n- C: 3. Saite, 3. Bund\n- D: 3. Saite, 5. Bund\n- E: 2. Saite, 2. Bund\n- G: 2. Saite, 5. Bund\n- A: 1. Saite, 2. Bund\n\nHier sind **C, E, G** Akkordtöne und **D, A** **diatonische Durchgangstöne**. Versuche, die Akkordtöne möglichst auf die **starken Zählzeiten** (z.B. 1 und 3) zu legen.",
+          "ja": "# グルーヴ1 – ダイアトニック・パッシングノート\nまずは **Cのコード**の上で、Cメジャー・スケールの音だけを使って **C → E** をつなぎます。\n\nまっすぐな8分音符で：\n- C – D – E – G – A – G – E – D\n\nポジション：\n- C：3弦3フレット\n- D：3弦5フレット\n- E：2弦2フレット\n- G：2弦5フレット\n- A：1弦2フレット\n\nここでは **C, E, G** がコードトーン、**D, A** が**ダイアトニックのパッシングノート**です。できるだけコードトーンが**強拍**（1拍目・3拍目など）に来るように意識してみましょう。",
+          "pt-BR": "# Groove 1 – Notas de passagem diatônicas\nVamos ficar em um **acorde de C** e ligar **C → E** usando só notas da escala de Dó maior.\n\nToque em colcheias retas:\n- C – D – E – G – A – G – E – D\n\nNo braço:\n- C: 3ª corda, 3ª casa\n- D: 3ª corda, 5ª casa\n- E: 2ª corda, 2ª casa\n- G: 2ª corda, 5ª casa\n- A: 1ª corda, 2ª casa\n\nAqui **C, E, G** são notas do acorde e **D, A** são **notas de passagem diatônicas**. Sempre que der, deixe as notas do acorde caírem nas **batidas fortes** (1 e 3).",
+          "es": "# Groove 1 – Notas de paso diatónicas\nNos quedamos en un **acorde de C** y conectamos **C → E** usando solo notas de la escala de Do mayor.\n\nToca como corcheas parejas:\n- C – D – E – G – A – G – E – D\n\nEn el mástil:\n- C: 3ª cuerda, traste 3\n- D: 3ª cuerda, traste 5\n- E: 2ª cuerda, traste 2\n- G: 2ª cuerda, traste 5\n- A: 1ª cuerda, traste 2\n\nAquí **C, E, G** son notas del acorde y **D, A** son **notas de paso diatónicas**. Intenta que las notas del acorde caigan en los **tiempos fuertes** (1 y 3) siempre que puedas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove 2 – Chromatic passing into F\nNow we’ll move from **C chord to F chord**, using a **chromatic passing note**.\n\nPlay as 8th notes:\n- C – E – G – A♭ – A – F – E – F\n\nOn the neck (one option):\n- C: 3rd string, 3rd fret\n- E: 2nd string, 2nd fret\n- G: 2nd string, 5th fret\n- A♭ (G#): 1st string, 1st fret\n- A: 1st string, 2nd fret\n- F: 2nd string, 3rd fret\n\nHere **G → A♭ → A** walks chromatically into the **A** of the F chord (its 3rd), then lands on **F**. Keep the chromatic note (A♭) on a **weaker beat** so it feels like a quick passing color, not a landing spot.",
+          "zh-Hans": "# Groove 2 – 用半音走向 F\n现在从 **C 和弦走向 F 和弦**，加一个**半音经过音**。\n\n当作八分音符来弹：\n- C – E – G – A♭ – A – F – E – F\n\n一种按法：\n- C：第 3 弦第 3 品\n- E：第 2 弦第 2 品\n- G：第 2 弦第 5 品\n- A♭ (G#)：第 1 弦第 1 品\n- A：第 1 弦第 2 品\n- F：第 2 弦第 3 品\n\n这里的 **G → A♭ → A** 是往 **F 和弦的 A（3 度）** 走的小半音线，然后落在 **F** 上。让半音的那个 **A♭** 尽量出现在**弱拍**上，听起来像一闪而过的颜色，而不是落脚点。",
+          "de": "# Groove 2 – Chromatischer Übergang nach F\nJetzt gehen wir vom **C-Akkord zu F** und benutzen einen **chromatischen Durchgangston**.\n\nAls Achtelnoten gespielt:\n- C – E – G – A♭ – A – F – E – F\n\nMögliche Lagen:\n- C: 3. Saite, 3. Bund\n- E: 2. Saite, 2. Bund\n- G: 2. Saite, 5. Bund\n- A♭ (G#): 1. Saite, 1. Bund\n- A: 1. Saite, 2. Bund\n- F: 2. Saite, 3. Bund\n\nHier führt **G → A♭ → A** chromatisch in das **A** des F-Akkords (seine Terz) und landet dann auf **F**. Setze den chromatischen Ton (A♭) möglichst auf eine **schwächere Zählzeit**, damit er wie ein kurzer Farbtupfer wirkt und nicht wie ein Zielton.",
+          "ja": "# グルーヴ2 – Fへのクロマチック・パッシング\n今度は **CのコードからFのコード**へ動きながら、**クロマチックのパッシングノート**を入れてみます。\n\n8分音符で：\n- C – E – G – A♭ – A – F – E – F\n\nポジション（1つの例）：\n- C：3弦3フレット\n- E：2弦2フレット\n- G：2弦5フレット\n- A♭ (G#)：1弦1フレット\n- A：1弦2フレット\n- F：2弦3フレット\n\nここでは **G → A♭ → A** という流れで、Fコードの3度である **A** にクロマチックに近づいてから **F** に着地しています。クロマチックの **A♭** はできるだけ**弱拍**に置いて、“通り道の色”として聴こえるようにしましょう。",
+          "pt-BR": "# Groove 2 – Passagem cromática para F\nAgora vamos sair do **acorde de C e ir para F**, usando uma **nota de passagem cromática**.\n\nToque em colcheias:\n- C – E – G – A♭ – A – F – E – F\n\nUma forma de tocar:\n- C: 3ª corda, 3ª casa\n- E: 2ª corda, 2ª casa\n- G: 2ª corda, 5ª casa\n- A♭ (G#): 1ª corda, 1ª casa\n- A: 1ª corda, 2ª casa\n- F: 2ª corda, 3ª casa\n\nAqui **G → A♭ → A** faz uma caminhada cromática até o **A** do acorde de F (a 3ª), e depois cai em **F**. Deixe a nota cromática (**A♭**) em um **tempo mais fraco**, para soar como uma cor rápida de passagem, não como ponto de chegada.",
+          "es": "# Groove 2 – Paso cromático hacia Fa\nAhora vamos del **acorde de C al acorde de F**, usando una **nota de paso cromática**.\n\nToca como corcheas:\n- C – E – G – A♭ – A – F – E – F\n\nUna posible digitación:\n- C: 3ª cuerda, traste 3\n- E: 2ª cuerda, traste 2\n- G: 2ª cuerda, traste 5\n- A♭ (G#): 1ª cuerda, traste 1\n- A: 1ª cuerda, traste 2\n- F: 2ª cuerda, traste 3\n\nAquí **G → A♭ → A** camina cromáticamente hacia el **A** del acorde de F (su tercera) y luego aterriza en **F**. Procura poner la nota cromática (A♭) en un **tiempo débil**, para que se sienta como un color de paso rápido y no como nota de llegada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice ideas\n- Loop a simple **C → F backing track** or metronome\n- First, play only **chord tones** on beats 1 and 3\n- Then add **one passing note** between them (scale note or chromatic) on the “&” counts\n- If the line still feels clear and supports the harmony, the passing note is working\n\nThink: **strong beats = chord tones**, **in-between = passing notes**. That simple rule already creates very musical bass lines.",
+          "zh-Hans": "# 练习思路\n- 放一个简单的 **C → F 伴奏**，或者只用节拍器\n- 先只在第 1、3 拍上弹**和弦音**\n- 然后在这些之间的 “+（and）” 上，加上一颗**经过音**（可以是音阶内，也可以是半音）\n- 如果低音线听起来依然清晰、还能托住和声，说明这个经过音是好用的\n\n可以这样记：**强拍 = 和弦音**，**中间空隙 = 经过音**。只靠这个简单规则，你已经能做出很有音乐性的低音线。",
+          "de": "# Übeideen\n- Nutze ein einfaches **C → F-Backing** oder nur ein Metronom\n- Spiele zuerst nur **Akkordtöne** auf Zählzeit 1 und 3\n- Ergänze dann **einen Durchgangston** dazwischen (Skalenton oder chromatisch) auf den „&“-Zählzeiten\n- Wenn die Linie immer noch klar klingt und die Harmonie trägt, passt der Durchgangston\n\nDenk dir: **starke Zählzeiten = Akkordtöne**, **dazwischen = Durchgangstöne**. Mit dieser simplen Regel entstehen schon sehr musikalische Basslinien.",
+          "ja": "# 練習アイデア\n- シンプルな **C → F のバッキング**か、メトロノームを流す\n- まずは1拍目と3拍目にだけ**コードトーン**を置いて弾く\n- その間の “&” のところに、**パッシングノートを1つだけ**入れてみる（スケール内でもクロマチックでもOK）\n- ラインがまだハーモニーをしっかり支えていて、聞いていてわかりやすければ、そのパッシングは「アリ」です\n\n考え方はシンプルでOK：**強拍 = コードトーン**、**その間 = パッシングノート**。これだけでも、かなり音楽的なベースラインが作れます。",
+          "pt-BR": "# Ideias de estudo\n- Coloque um backing simples de **C → F** ou só um metrônomo\n- Primeiro toque apenas **notas do acorde** nos tempos 1 e 3\n- Depois adicione **uma nota de passagem** entre elas (diatônica ou cromática) nas contagens de “e” / “&”\n- Se a linha continuar clara e segurando bem a harmonia, é porque a nota de passagem funcionou\n\nPense assim: **tempos fortes = notas do acorde**, **entre eles = notas de passagem**. Só essa regra simples já rende linhas de baixo bem musicais.",
+          "es": "# Ideas de práctica\n- Usa un backing sencillo **C → F** o solo un metrónomo\n- Primero toca solo **notas del acorde** en los tiempos 1 y 3\n- Luego añade **una nota de paso** entre ellas (diatónica o cromática) en los “&”\n- Si la línea sigue clara y sostiene bien la armonía, esa nota de paso está funcionando\n\nPiensa: **tiempos fuertes = notas del acorde**, **entremedios = notas de paso**. Con esa regla tan simple ya se consiguen líneas de bajo muy musicales."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

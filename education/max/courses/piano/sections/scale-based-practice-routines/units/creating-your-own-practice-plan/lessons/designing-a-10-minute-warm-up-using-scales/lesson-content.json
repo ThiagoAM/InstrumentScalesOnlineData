@@ -1,0 +1,86 @@
+{
+  "id": "designing-a-10-minute-warm-up-using-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Designing a 10-minute warm-up with scales\nIn this lesson you’ll build a **simple 10-minute warm-up** based almost entirely on **major scales**.\n\nThe idea is:\n- Always know **what** to practice when you sit down\n- Touch **technique, sound and control** in a short block\n- Finish warmed up but **not tired**",
+          "zh-Hans": "# 用音阶设计一个10分钟热身\n在本课中，你会搭建一个几乎完全基于**大调音阶**的**10分钟简单热身流程**。\n\n目标是：\n- 一坐到钢琴前就知道**该练什么**\n- 在很短时间内同时照顾**技术、音色和控制力**\n- 热好身，但不会**练到疲劳**",
+          "de": "# Ein 10-Minuten-Warm-up mit Tonleitern gestalten\nIn dieser Lektion erstellst du ein **einfaches 10-Minuten-Warm-up**, das fast nur aus **Dur-Tonleitern** besteht.\n\nDie Idee:\n- Du weißt immer, **was** du spielen kannst, wenn du dich ans Klavier setzt\n- Du berührst in kurzer Zeit **Technik, Klang und Kontrolle**\n- Du bist aufgewärmt, aber **nicht erschöpft**",
+          "ja": "# 音階を使った10分ウォームアップを作る\nこのレッスンでは、ほぼすべてを**メジャー・スケール**で組んだ、**10分のシンプルなウォームアップ**を作ります。\n\nねらいは：\n- ピアノに座ったときに「**何をやるか**」で迷わない\n- 短い時間で **テクニック・音色・コントロール** をひと通り触る\n- 体はあたためるけれど、**疲れ切らない**こと",
+          "pt-BR": "# Montando um aquecimento de 10 minutos com escalas\nNesta lição você vai montar um **aquecimento simples de 10 minutos**, quase todo baseado em **escalas maiores**.\n\nA ideia é:\n- Sempre saber **o que** praticar quando sentar no piano\n- Trabalhar **técnica, som e controle** em pouco tempo\n- Terminar aquecido, mas **sem ficar exausto**",
+          "es": "# Diseñar un calentamiento de 10 minutos con escalas\nEn esta lección vas a armar un **calentamiento sencillo de 10 minutos**, casi todo basado en **escalas mayores**.\n\nLa idea es:\n- Saber siempre **qué** practicar al sentarte al piano\n- Tocar **técnica, sonido y control** en poco tiempo\n- Terminar caliente pero **no agotado**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minutes 1–2: Easy flow in one key\nStart in **C major**, hands separate.\n\n- Right hand: one or two octaves up and down, very legato\n- Left hand: same thing, focusing on **even tone**\n- Last 30–40 seconds: hands together, still slow\n\nKeep the tempo so easy that you could talk while playing.",
+          "zh-Hans": "# 第1–2分钟：在一个调上放松流动\n先从**C大调**开始，双手分开练。\n\n- 右手：上下一到两组八度，尽量连音\n- 左手：同样内容，重点听**音量和音色是否均匀**\n- 最后30–40秒：双手合起来，但速度仍然很慢\n\n把速度放到轻松到可以一边说话一边弹的程度。",
+          "de": "# Minute 1–2: Lockerer Fluss in einer Tonart\nStarte in **C-Dur**, Hände getrennt.\n\n- Rechte Hand: eine oder zwei Oktaven auf- und abwärts, sehr legato\n- Linke Hand: dasselbe, mit Fokus auf **gleichmäßigem Klang**\n- Letzte 30–40 Sekunden: beide Hände zusammen, weiterhin langsam\n\nWähle ein Tempo, bei dem du theoretisch noch reden könntest, während du spielst.",
+          "ja": "# 1〜2分目：1つの調でやわらかく流す\nまずは**Cメジャー**で、片手ずつから始めます。\n\n- 右手：1〜2オクターブを上下に、なめらかにレガートで\n- 左手：同じことをしつつ、**音量と音色のそろい方**に集中\n- 最後の30〜40秒：両手を合わせる。ただしテンポはそのままゆっくり\n\n「これならしゃべりながらでも弾けるな」というくらいの速さに保ちましょう。",
+          "pt-BR": "# Minutos 1–2: Fluxo leve em uma tonalidade\nComece em **Dó maior (C)**, com as mãos separadas.\n\n- Mão direita: uma ou duas oitavas subindo e descendo, bem legato\n- Mão esquerda: a mesma coisa, focando em **som uniforme**\n- Últimos 30–40 segundos: mãos juntas, ainda devagar\n\nUse um andamento tão confortável que você conseguiria conversar enquanto toca.",
+          "es": "# Minutos 1–2: Flujo suave en una tonalidad\nEmpieza en **Do mayor (C)**, con manos separadas.\n\n- Mano derecha: una o dos octavas arriba y abajo, muy legato\n- Mano izquierda: lo mismo, buscando un **sonido parejo**\n- Últimos 30–40 segundos: manos juntas, todavía lento\n\nElige un tempo tan cómodo que podrías hablar mientras tocas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minutes 3–5: Articulation and rhythm\nStay in C major and add **simple variations**.\n\nEach 1-minute block, change one thing:\n- Minute 3: **staccato** up, legato down\n- Minute 4: **dynamics** – soft going up, louder coming down\n- Minute 5: keep legato but use **long–short** rhythm (quarter note + two eighth notes)\n\nThis keeps the same notes but wakes up your **control and touch**.",
+          "zh-Hans": "# 第3–5分钟：发音和节奏变化\n继续用C大调，加一些**简单的小变化**。\n\n每1分钟只改一件事：\n- 第3分钟：上行用**断音**，下行用连音\n- 第4分钟：玩**强弱** – 上行轻，下行略强一点\n- 第5分钟：保持连音，但改成**“长–短短”节奏**（四分音符 + 两个八分音符）\n\n音还是那些音，但能唤醒你的**触键和控制力**。",
+          "de": "# Minute 3–5: Artikulation und Rhythmus\nBleib in C-Dur und ergänze **kleine Variationen**.\n\nIn jedem 1-Minuten-Block änderst du nur eine Sache:\n- Minute 3: **staccato** aufwärts, legato abwärts\n- Minute 4: **Dynamik** – leise aufwärts, lauter abwärts\n- Minute 5: legato bleiben, aber **lang–kurz-kurz** im Rhythmus (Viertel + zwei Achtel)\n\nDie Töne bleiben gleich, aber deine **Kontrolle und Anschlagtechnik** werden richtig geweckt.",
+          "ja": "# 3〜5分目：アーティキュレーションとリズム\nそのままCメジャーで、**小さなバリエーション**をつけていきます。\n\n1分ずつ、変えるのは1ポイントだけ：\n- 3分目：上行を**スタッカート**、下行をレガート\n- 4分目：**強弱**で遊ぶ – 上行は弱く、下行は少し強めに\n- 5分目：レガートのまま、リズムを**「長–短短」**（四分音符＋八分音符二つ）にする\n\n使っている音は同じでも、**タッチとコントロール**が一気に目覚めます。",
+          "pt-BR": "# Minutos 3–5: Articulação e ritmo\nContinue em Dó maior e adicione **variações simples**.\n\nA cada bloco de 1 minuto, mude só uma coisa:\n- Minuto 3: **staccato** subindo, legato descendo\n- Minuto 4: **dinâmica** – subindo mais suave, descendo um pouco mais forte\n- Minuto 5: continue em legato, mas use ritmo **“longo–curto–curto”** (semínima + duas colcheias)\n\nAs notas são as mesmas, mas isso acorda sua **mão e seu controle**.",
+          "es": "# Minutos 3–5: Articulación y ritmo\nQuédate en Do mayor y añade **variaciones sencillas**.\n\nEn cada bloque de 1 minuto cambia solo una cosa:\n- Minuto 3: **staccato** subiendo, legato bajando\n- Minuto 4: **dinámica** – suave al subir, más fuerte al bajar\n- Minuto 5: sigue en legato pero usa ritmo **“largo–corto–corto”** (una negra + dos corcheas)\n\nLas notas no cambian, pero se despierta tu **control y tu toque**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minutes 6–8: Changing keys\nNow add **two more keys** with the same ideas.\n\n- Minute 6: G major (remember F♯)\n- Minute 7: F major (remember B♭)\n- Minute 8: alternate C and G each time you go up and down\n\nKeep the patterns very simple. The goal here is to wake up your **sense of key** and your fingers in different positions.",
+          "zh-Hans": "# 第6–8分钟：换不同的调\n现在在相同思路下加入**另外两个调**。\n\n- 第6分钟：G大调（记得 F♯）\n- 第7分钟：F大调（记得 B♭）\n- 第8分钟：一遍弹C大调，一遍弹G大调，上下交替\n\n不要追求复杂指型，保持很简单。这里的重点是唤醒你的**调性感**，以及在不同键位上的手感。",
+          "de": "# Minute 6–8: Tonarten wechseln\nJetzt kommen mit derselben Idee **zwei weitere Tonarten** dazu.\n\n- Minute 6: G-Dur (denk an F♯)\n- Minute 7: F-Dur (denk an B♭)\n- Minute 8: abwechselnd C-Dur und G-Dur – einmal rauf und runter in C, einmal in G\n\nHalte die Muster bewusst einfach. Ziel ist, dein **Tonartgefühl** und deine Finger in verschiedenen Lagen zu wecken.",
+          "ja": "# 6〜8分目：キーを変える\n同じ考え方のまま、**あと2つキーを追加**します。\n\n- 6分目：Gメジャー（F♯ を忘れずに）\n- 7分目：Fメジャー（B♭ を忘れずに）\n- 8分目：CメジャーとGメジャーを交互に、1往復ずつ\n\nパターンはあえてシンプルなままでOK。ここでは、**調性感**と「違うポジションで指を動かす感覚」を起こすのが目的です。",
+          "pt-BR": "# Minutos 6–8: Mudando de tonalidade\nAgora coloque a mesma ideia em **mais duas tonalidades**.\n\n- Minuto 6: Sol maior (G) – lembre do F♯\n- Minuto 7: Fá maior (F) – lembre do B♭\n- Minuto 8: alterne entre C e G a cada vez que subir e descer\n\nMantenha os desenhos bem simples. A meta aqui é despertar seu **sentido de tonalidade** e o dedo em posições diferentes.",
+          "es": "# Minutos 6–8: Cambiando de tonalidad\nAhora aplica la misma idea a **dos tonalidades más**.\n\n- Minuto 6: Sol mayor (G) – recuerda el F♯\n- Minuto 7: Fa mayor (F) – recuerda el B♭\n- Minuto 8: alterna entre C y G cada vez que subes y bajas\n\nMantén los patrones muy sencillos. La meta es despertar tu **sensación de tonalidad** y tus dedos en distintas posiciones."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minutes 9–10: Mini “musical” drill\nFinish with something that feels closer to **real music**.\n\nChoose one key from C, G or F and:\n- Left hand: hold simple chords or roots\n- Right hand: play **scale fragments** of 3–4 notes, aiming to land on a chord tone\n- Change the fragment every bar, but stay in time\n\nThink more about **phrasing** and less about “perfect scales”.",
+          "zh-Hans": "# 第9–10分钟：小型“音乐化”练习\n最后两分钟做一点更接近**真正音乐**的内容。\n\n从C、G或F中选一个调，然后：\n- 左手：弹简单的和弦或根音\n- 右手：弹3–4个音的小**音阶片段**，尽量落在和弦音上\n- 每小节换一个小片段，但节奏要稳定\n\n多去感受**乐句**的感觉，而不是只想着“音阶要完全正确”。",
+          "de": "# Minute 9–10: Kleine „musikalische“ Übung\nZum Schluss kommt etwas, das sich mehr wie **richtige Musik** anfühlt.\n\nWähle eine Tonart aus C, G oder F und:\n- Linke Hand: einfache Akkorde oder Grundtöne halten\n- Rechte Hand: **kleine Tonleiterfragmente** aus 3–4 Tönen spielen und möglichst auf einem Akkordton landen\n- In jedem Takt das Fragment leicht verändern, aber im Tempo bleiben\n\nDenk hier mehr an **Phrasierung** als an „perfekte Tonleiterübungen“. ",
+          "ja": "# 9〜10分目：小さな“音楽的”ドリル\n最後は、より**音楽らしく**感じるメニューで終わりましょう。\n\nC・G・Fのどれか1つを選んで：\n- 左手：シンプルなコードかルート音をのばす\n- 右手：3〜4音くらいの**スケールのかけら**を弾き、できるだけコードトーンで着地\n- 毎小節ごとに、その「かけら」を少しずつ変えながら、テンポは崩さない\n\nここでは「完璧な音階」よりも、**フレーズ感**を大事にしてみてください。",
+          "pt-BR": "# Minutos 9–10: Mini exercício “musical”\nFeche o aquecimento com algo que já pareça **música de verdade**.\n\nEscolha uma tonalidade entre C, G ou F e:\n- Mão esquerda: segure acordes simples ou só as fundamentais\n- Mão direita: toque **fragmentos de escala** de 3–4 notas, tentando sempre pousar em uma nota do acorde\n- Mude o fragmento a cada compasso, mas sem sair do tempo\n\nAqui, pense mais em **fraseado** e menos em “escala perfeita”.",
+          "es": "# Minutos 9–10: Mini ejercicio “musical”\nTermina con algo que se sienta más como **música real**.\n\nElige una tonalidad entre C, G o F y:\n- Mano izquierda: sostén acordes sencillos o solo las raíces\n- Mano derecha: toca **fragmentos de escala** de 3–4 notas, intentando caer siempre en una nota del acorde\n- Cambia el fragmento cada compás, pero mantén el pulso\n\nPiensa más en el **fraseo** y menos en la “escala perfecta”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this 10-minute plan feels easy, you can speed up the tempo a little, swap in new keys, or replace one block with another scale pattern you like.",
+          "zh-Hans": "当这个10分钟流程变得轻松自然时，你可以稍微加快速度、换别的调，或者用自己喜欢的其他音阶指型替换其中一个环节。",
+          "de": "Sobald sich dieser 10-Minuten-Plan leicht anfühlt, kannst du das Tempo etwas anziehen, neue Tonarten einbauen oder einen Baustein durch ein anderes Tonleitermuster ersetzen, das du magst.",
+          "ja": "この10分プランが余裕になってきたら、少しテンポを上げたり、別のキーに入れ替えたり、どこか1ブロックを自分好みのスケール練習に差し替えても大丈夫です。",
+          "pt-BR": "Quando esse plano de 10 minutos estiver tranquilo, você pode aumentar um pouco o andamento, trocar de tonalidades ou substituir um dos blocos por outro padrão de escala que você goste.",
+          "es": "Cuando este plan de 10 minutos se sienta fácil, puedes subir un poco el tempo, cambiar de tonalidades o sustituir uno de los bloques por otro patrón de escala que te guste."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

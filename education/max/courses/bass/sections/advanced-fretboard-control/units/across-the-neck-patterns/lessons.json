@@ -1,0 +1,86 @@
+[
+  {
+    "id": "three-notes-per-string-patterns-for-bass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "3-Notes-Per-String Patterns for Bass",
+        "zh-Hans": "贝斯的每弦三音型模式",
+        "de": "Drei-Noten-pro-Saite-Patterns für Bass",
+        "ja": "ベースの3ノート・パー・ストリング・パターン",
+        "pt-BR": "Padrões de três notas por corda para baixo",
+        "es": "Patrones de tres notas por cuerda para bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "diagonal-scale-shapes-up-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Diagonal Scale Shapes Up the Neck",
+        "zh-Hans": "指板上的斜向音阶形状",
+        "de": "Diagonale Tonleiterformen über das Griffbrett",
+        "ja": "ネック上を斜めに移動するスケール形",
+        "pt-BR": "Formas diagonais de escala pelo braço",
+        "es": "Formas diagonales de escala a lo largo del mástil"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-vertical-and-horizontal-movement",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Vertical and Horizontal Movement",
+        "zh-Hans": "结合纵向与横向移动",
+        "de": "Vertikale und horizontale Bewegungen kombinieren",
+        "ja": "縦方向と横方向の動きを組み合わせる",
+        "pt-BR": "Combinando movimento vertical e horizontal",
+        "es": "Combinando movimiento vertical y horizontal"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

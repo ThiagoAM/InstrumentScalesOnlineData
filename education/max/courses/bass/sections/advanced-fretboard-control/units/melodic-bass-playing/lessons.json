@@ -1,0 +1,86 @@
+[
+  {
+    "id": "creating-counter-melodies-with-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Counter-Melodies with Scales",
+        "zh-Hans": "使用音阶创作副旋律",
+        "de": "Kontermelodien mit Tonleitern erstellen",
+        "ja": "スケールを使ってカウンターメロディを作る",
+        "pt-BR": "Criando contramelodias com escalas",
+        "es": "Crear contramelodías con escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "chord-tone-emphasis-in-melodic-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord Tone Emphasis in Melodic Lines",
+        "zh-Hans": "旋律线中的和弦音强调",
+        "de": "Betonung von Akkordtönen in Melodielinien",
+        "ja": "メロディラインにおけるコードトーンの強調",
+        "pt-BR": "Ênfase nos tons do acorde em linhas melódicas",
+        "es": "Énfasis en los tonos del acorde en líneas melódicas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "building-melodic-etudes-from-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Building Melodic Etudes from Scales",
+        "zh-Hans": "用音阶构建旋律练习曲",
+        "de": "Melodische Etüden aus Tonleitern entwickeln",
+        "ja": "スケールから旋律練習曲を作る",
+        "pt-BR": "Construindo estudos melódicos a partir de escalas",
+        "es": "Construir estudios melódicos a partir de escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

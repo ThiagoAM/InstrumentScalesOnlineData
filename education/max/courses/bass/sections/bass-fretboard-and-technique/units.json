@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fretboard-landmarks-for-bass",
+    "name": {
+      "values": {
+        "en": "Fretboard Landmarks for Bass",
+        "zh-Hans": "贝斯指板的关键标记",
+        "de": "Orientierungspunkte auf dem Bass-Griffbrett",
+        "ja": "ベース指板のランドマーク",
+        "pt-BR": "Pontos de referência no braço do baixo",
+        "es": "Puntos de referencia en el diapasón del bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn essential visual and positional reference points on the bass fretboard.",
+        "zh-Hans": "学习贝斯指板上的重要视觉与位置参考点。",
+        "de": "Lerne wichtige visuelle und positionsbezogene Orientierungspunkte auf dem Bass-Griffbrett.",
+        "ja": "ベース指板上の重要な視覚的・位置的な基準点を学びましょう。",
+        "pt-BR": "Aprenda os principais pontos visuais e posicionais no braço do baixo.",
+        "es": "Aprende los puntos visuales y posicionales esenciales del diapasón del bajo."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "right-hand-technique",
+    "name": {
+      "values": {
+        "en": "Right-Hand Technique",
+        "zh-Hans": "右手技巧",
+        "de": "Rechte-Hand-Technik",
+        "ja": "右手の奏法",
+        "pt-BR": "Técnica da mão direita",
+        "es": "Técnica de mano derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Develop strong right-hand fundamentals for tone and groove.",
+        "zh-Hans": "培养稳固的右手基础技巧，以改进音色与节奏感。",
+        "de": "Entwickle solide Grundlagen der rechten Hand für Klang und Groove.",
+        "ja": "音色とグルーヴのために右手の基本技術を磨きましょう。",
+        "pt-BR": "Desenvolva fundamentos sólidos da mão direita para melhorar o timbre e o groove.",
+        "es": "Desarrolla bases sólidas de la mano derecha para mejorar el tono y el groove."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-and-minor-scale-foundations",
+    "name": {
+      "values": {
+        "en": "Major and Minor Scale Foundations",
+        "zh-Hans": "大调与小调音阶基础",
+        "de": "Grundlagen der Dur- und Moll-Tonleitern",
+        "ja": "メジャー／マイナー・スケールの基礎",
+        "pt-BR": "Fundamentos das escalas maior e menor",
+        "es": "Fundamentos de las escalas mayor y menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a solid understanding of major and minor scale structures.",
+        "zh-Hans": "建立对大调和小调音阶结构的扎实理解。",
+        "de": "Erwerbe ein solides Verständnis der Struktur von Dur- und Moll-Tonleitern.",
+        "ja": "メジャーとマイナーのスケール構造をしっかり理解しましょう。",
+        "pt-BR": "Construa uma compreensão sólida das estruturas das escalas maior e menor.",
+        "es": "Construye una comprensión sólida de las estructuras de las escalas mayor y menor."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

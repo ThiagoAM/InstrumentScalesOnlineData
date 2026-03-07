@@ -1,0 +1,73 @@
+{
+  "id": "a-minor-pentatonic-box-1",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A minor pentatonic – Box 1\nThe **A minor pentatonic scale** is one of the most used sounds in rock and blues.\n\n“Box 1” is a classic pattern at the **5th fret** that you’ll see in thousands of solos.",
+          "zh-Hans": "# A小调五声音阶 – 第1指型\n**A小调五声音阶** 是摇滚和布鲁斯中最常用的声音之一。\n\n“第1指型（Box 1）” 是在 **第5品附近** 的经典指型，你会在无数独奏中听到它。",
+          "de": "# A-Moll-Pentatonik – Box 1\nDie **A-Moll-Pentatonik** gehört zu den meistverwendeten Skalen im Rock und Blues.\n\n„Box 1“ ist ein klassisches Pattern am **5. Bund**, das du in unzähligen Soli wiederfinden wirst.",
+          "ja": "# Aマイナー・ペンタトニック – ボックス1\n**Aマイナー・ペンタトニック** は、ロックやブルースで最もよく使われるスケールの1つです。\n\nその中でも **5フレット** 周辺にある「ボックス1」は、数えきれないほど多くのソロに登場する定番パターンです。",
+          "pt-BR": "# Pentatônica de Lá menor – Desenho 1\nA **pentatônica de Lá menor** é uma das escalas mais usadas no rock e no blues.\n\nO **desenho 1 (Box 1)** fica na região do **5º traste** e aparece em milhares de solos por aí.",
+          "es": "# Pentatónica de La menor – Caja 1\nLa **pentatónica de La menor** es una de las escalas más usadas en rock y blues.\n\nLa **caja 1 (Box 1)** se toca en la zona del **traste 5** y aparece en miles de solos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The five notes\nThe scale has **five different notes**:\n\n- A\n- C\n- D\n- E\n- G\n\nOn the fretboard, we repeat these notes in different octaves, but the sound stays built from the same five.",
+          "zh-Hans": "# 五个音\n这个音阶只有 **五个不同的音**：\n\n- A\n- C\n- D\n- E\n- G\n\n在指板上，我们会在不同的八度重复这些音，但听起来始终是这五个音构成的味道。",
+          "de": "# Die fünf Töne\nDie Skala besteht aus **fünf verschiedenen Tönen**:\n\n- A\n- C\n- D\n- E\n- G\n\nAuf dem Griffbrett tauchen diese Töne in verschiedenen Oktaven wieder auf, aber der Klang entsteht immer aus diesen fünf.",
+          "ja": "# 5つの音\nこのスケールには **5つの音** しかありません。\n\n- A\n- C\n- D\n- E\n- G\n\n指板上では、これらの音が別のオクターブでも繰り返し現れますが、どこを弾いても“材料”はこの5つだけです。",
+          "pt-BR": "# As cinco notas\nA escala tem **cinco notas diferentes**:\n\n- A\n- C\n- D\n- E\n- G\n\nNo braço, essas notas se repetem em outras oitavas, mas o “sabor” da escala vem sempre dessas cinco.",
+          "es": "# Las cinco notas\nLa escala tiene **cinco notas distintas**:\n\n- A\n- C\n- D\n- E\n- G\n\nEn el diapasón estas notas se repiten en distintas octavas, pero el sonido siempre se construye con estas cinco."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Box 1 pattern (5th fret)\nWe’ll stay around the **5th fret**. Use this fingering:\n\n- **Fret 5**: index finger (1)\n- **Fret 7**: ring finger (3)\n- **Fret 8**: little finger (4)\n\nNow play this pattern slowly:\n\n- 6th string: 5th fret (A), 8th fret (C)\n- 5th string: 5th fret (D), 7th fret (E)\n- 4th string: 5th fret (G), 7th fret (A)\n- 3rd string: 5th fret (C), 7th fret (D)\n- 2nd string: 5th fret (E), 8th fret (G)\n- 1st string: 5th fret (A), 8th fret (C)",
+          "zh-Hans": "# 第1指型（第5品区域）\n我们在 **第5品附近** 练习，指法如下：\n\n- **第5品**：食指（1）\n- **第7品**：无名指（3）\n- **第8品**：小指（4）\n\n然后按下面的顺序慢慢弹：\n\n- 第6弦：5品 (A)，8品 (C)\n- 第5弦：5品 (D)，7品 (E)\n- 第4弦：5品 (G)，7品 (A)\n- 第3弦：5品 (C)，7品 (D)\n- 第2弦：5品 (E)，8品 (G)\n- 第1弦：5品 (A)，8品 (C)",
+          "de": "# Box-1-Pattern (5. Bund)\nWir bleiben rund um den **5. Bund**. Verwende diese Fingersätze:\n\n- **5. Bund**: Zeigefinger (1)\n- **7. Bund**: Ringfinger (3)\n- **8. Bund**: kleiner Finger (4)\n\nSpiele das Pattern langsam:\n\n- 6. Saite: 5. Bund (A), 8. Bund (C)\n- 5. Saite: 5. Bund (D), 7. Bund (E)\n- 4. Saite: 5. Bund (G), 7. Bund (A)\n- 3. Saite: 5. Bund (C), 7. Bund (D)\n- 2. Saite: 5. Bund (E), 8. Bund (G)\n- 1. Saite: 5. Bund (A), 8. Bund (C)",
+          "ja": "# ボックス1のパターン（5フレット周辺）\n**5フレット付近**に手を置いて、次の指使いで弾きます。\n\n- **5フレット**：人差し指（1）\n- **7フレット**：薬指（3）\n- **8フレット**：小指（4）\n\nこの順番で、ゆっくり弾いてみましょう：\n\n- 6弦：5フレット (A)、8フレット (C)\n- 5弦：5フレット (D)、7フレット (E)\n- 4弦：5フレット (G)、7フレット (A)\n- 3弦：5フレット (C)、7フレット (D)\n- 2弦：5フレット (E)、8フレット (G)\n- 1弦：5フレット (A)、8フレット (C)",
+          "pt-BR": "# Desenho 1 (região do 5º traste)\nVamos ficar em volta do **5º traste**. Use esta digitação:\n\n- **Traste 5**: dedo indicador (1)\n- **Traste 7**: dedo anelar (3)\n- **Traste 8**: dedo mínimo (4)\n\nAgora toque o padrão devagar:\n\n- 6ª corda: 5º traste (A), 8º traste (C)\n- 5ª corda: 5º traste (D), 7º traste (E)\n- 4ª corda: 5º traste (G), 7º traste (A)\n- 3ª corda: 5º traste (C), 7º traste (D)\n- 2ª corda: 5º traste (E), 8º traste (G)\n- 1ª corda: 5º traste (A), 8º traste (C)",
+          "es": "# Patrón de Caja 1 (traste 5)\nNos quedamos cerca del **traste 5**. Usa esta digitación:\n\n- **Traste 5**: dedo índice (1)\n- **Traste 7**: dedo anular (3)\n- **Traste 8**: dedo meñique (4)\n\nToca este patrón despacio:\n\n- 6ª cuerda: traste 5 (A), traste 8 (C)\n- 5ª cuerda: traste 5 (D), traste 7 (E)\n- 4ª cuerda: traste 5 (G), traste 7 (A)\n- 3ª cuerda: traste 5 (C), traste 7 (D)\n- 2ª cuerda: traste 5 (E), traste 8 (G)\n- 1ª cuerda: traste 5 (A), traste 8 (C)"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice idea\n1. Play the pattern **ascending**, from the 6th string up to the 1st\n2. Then play it **descending**, from the 1st string back to the 6th\n3. Use a **slow, steady beat** (metronome if you have one)\n4. Keep all notes even and let them ring clearly\n\nFocus on keeping your hand relaxed while your fingers reach for 7 and 8.",
+          "zh-Hans": "# 练习建议\n1. 先从第6弦到第1弦，**往上**按顺序弹一遍\n2. 再从第1弦回到第6弦，**往下**弹回来\n3. 用**缓慢、稳定的节拍**（有节拍器更好）\n4. 让每个音尽量平均、清晰地响出来\n\n注意在按到7品和8品时，手要保持放松，不要僵硬。",
+          "de": "# Übetipp\n1. Spiele das Pattern **aufwärts**, von der 6. bis zur 1. Saite\n2. Spiele es dann **abwärts**, von der 1. zurück zur 6. Saite\n3. Nutze ein **langsames, gleichmäßiges Tempo** (gern mit Metronom)\n4. Lass alle Töne gleichmäßig und klar klingen\n\nAchte darauf, dass die Hand locker bleibt, wenn du die Bünde 7 und 8 greifst.",
+          "ja": "# 練習のポイント\n1. まずは6弦から1弦まで、パターンを**上向き**に弾きます。\n2. つぎに1弦から6弦へ、**下向き**に弾き戻します。\n3. **ゆっくりとした一定のテンポ**で弾きましょう（メトロノームがあればなお良し）。\n4. どの音も同じ長さ・同じ強さで、はっきり鳴らすよう意識します。\n\n7フレット・8フレットを押さえるときも、手全体は力みすぎないようにしましょう。",
+          "pt-BR": "# Ideia de prática\n1. Toque o desenho **subindo**, da 6ª corda até a 1ª\n2. Depois toque **descendo**, da 1ª corda de volta para a 6ª\n3. Use um **tempo lento e estável** (de preferência com metrônomo)\n4. Deixe todas as notas soarem iguais e bem claras\n\nPreste atenção para manter a mão relaxada enquanto os dedos alcançam os trastes 7 e 8.",
+          "es": "# Idea de práctica\n1. Toca el patrón **subiendo**, desde la 6ª cuerda hasta la 1ª\n2. Luego tócalo **bajando**, desde la 1ª de vuelta a la 6ª\n3. Usa un **tempo lento y constante** (mejor si tienes metrónomo)\n4. Haz que todas las notas suenen parejas y claras\n\nFíjate en mantener la mano relajada mientras los dedos llegan a los trastes 7 y 8."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This box is a core shape for solos. Once it feels comfortable, you can start creating small licks and bends using only these notes.",
+          "zh-Hans": "这个指型是独奏中非常核心的形状。等你对它感到舒服之后，就可以只用这些音来编一点小乐句、做一些推弦了。",
+          "de": "Dieses Pattern ist ein Kernbaustein für Soli. Wenn es sich bequem anfühlt, kannst du anfangen, kleine Licks und Bendings nur mit diesen Tönen zu bauen.",
+          "ja": "このボックスは、ソロを弾くうえでの基本形のひとつです。無理なく弾けるようになってきたら、この音だけを使って小さなフレーズやチョーキングを作ってみましょう。",
+          "pt-BR": "Esse desenho é uma das bases dos solos. Quando ele estiver confortável, você já pode começar a criar pequenos licks e bends usando só essas notas.",
+          "es": "Esta caja es una forma básica para los solos. Cuando se sienta cómoda, ya puedes empezar a crear pequeños licks y bends usando solo estas notas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
+}

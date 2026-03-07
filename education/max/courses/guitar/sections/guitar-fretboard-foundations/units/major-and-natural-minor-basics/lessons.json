@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-scale-two-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Scale – Two Positions",
+        "zh-Hans": "C大调音阶 —— 两个把位",
+        "de": "C-Dur-Tonleiter – Zwei Positionen",
+        "ja": "Cメジャースケール – 2つのポジション",
+        "pt-BR": "Escala de Dó Maior – Duas Posições",
+        "es": "Escala de Do Mayor – Dos posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-natural-minor-scale-two-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Natural Minor Scale – Two Positions",
+        "zh-Hans": "A自然小调音阶 —— 两个把位",
+        "de": "a-Moll (natürlich) Tonleiter – Zwei Positionen",
+        "ja": "Aナチュラルマイナースケール – 2つのポジション",
+        "pt-BR": "Escala de Lá Menor Natural – Duas Posições",
+        "es": "Escala de La Menor Natural – Dos posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "connecting-major-and-relative-minor",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connecting Major and Relative Minor",
+        "zh-Hans": "连接大调与关系小调",
+        "de": "Verbindung von Dur und parallelem Moll",
+        "ja": "メジャーと平行調マイナーの接続",
+        "pt-BR": "Conectando Maior e Menor Relativo",
+        "es": "Conexión de mayor y menor relativo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

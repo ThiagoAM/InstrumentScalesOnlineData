@@ -1,0 +1,86 @@
+[
+  {
+    "id": "daily-pentatonic-routine-warm-up-patterns-licks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Daily Pentatonic Routine (Warm-Up, Patterns, Licks)",
+        "zh-Hans": "每日五声调式练习（热身、模式、乐句）",
+        "de": "Tägliche Pentatonik-Routine (Aufwärmen, Muster, Licks)",
+        "ja": "毎日のペンタトニックルーチン（ウォームアップ、パターン、リック）",
+        "pt-BR": "Rotina Pentatônica Diária (Aquecimento, Padrões, Licks)",
+        "es": "Rutina pentatónica diaria (calentamiento, patrones, licks)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-scale-routine-across-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Routine Across the Neck",
+        "zh-Hans": "指板上的大调音阶练习",
+        "de": "Dur-Skalen-Routine über den gesamten Hals",
+        "ja": "ネック全体でのメジャースケールルーチン",
+        "pt-BR": "Rotina de Escala Maior em Todo o Braço",
+        "es": "Rutina de escala mayor a lo largo del mástil"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "full-song-etude-using-multiple-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Full-Song Etude Using Multiple Positions",
+        "zh-Hans": "使用多个把位的完整歌曲练习曲",
+        "de": "Ganzsong-Etüde unter Verwendung mehrerer Positionen",
+        "ja": "複数のポジションを使ったフルソングエチュード",
+        "pt-BR": "Estudo de Música Completa Usando Múltiplas Posições",
+        "es": "Estudio de canción completa usando múltiples posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

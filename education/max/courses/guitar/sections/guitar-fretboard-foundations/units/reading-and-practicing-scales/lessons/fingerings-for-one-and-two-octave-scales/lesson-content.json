@@ -1,0 +1,73 @@
+{
+  "id": "fingerings-for-one-and-two-octave-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fingerings for one- and two-octave scales\nFingerings tell you **which left-hand finger** should play each note in a scale.\nGood fingerings feel:\n- **Efficient** (no big jumps)\n- **Repeatable** (you can play them the same way every time)\n- **Relaxed** (no painful stretches)\n\nMost of the time you’ll use a simple rule: **one finger per fret** inside a position.",
+          "zh-Hans": "# 一和两组八度音阶的指法\n指法就是告诉你，在音阶里每个音应该用**哪一个左手手指**来弹。\n好的指法应该：\n- **高效**（不用到处大跳）\n- **易重复**（每次都能用同样的方式弹）\n- **放松**（不需要疼痛的大幅拉伸）\n\n大多数情况下，你会用一个简单原则：在一个把位里，尽量做到 **一品一指**。",
+          "de": "# Fingersätze für ein- und zweioktavige Tonleitern\nFingersätze legen fest, **welcher linke Finger** welchen Ton der Tonleiter spielt.\nGute Fingersätze fühlen sich so an:\n- **Effizient** (keine unnötig großen Sprünge)\n- **Reproduzierbar** (du kannst sie jedes Mal gleich spielen)\n- **Entspannt** (keine schmerzhaften Überstreckungen)\n\nMeistens gilt dabei eine einfache Regel: **ein Finger pro Bund** innerhalb einer Lage.",
+          "ja": "# 1オクターブ／2オクターブ・スケールのフィンガリング\nフィンガリングは、「その音階の**どの音を左手のどの指で弾くか**」を決めるものです。\n良いフィンガリングは：\n- **ムダが少ない**（大きなジャンプがない）\n- **毎回同じように弾ける**（再現しやすい）\n- **力みがない**（ムリなストレッチをしない）\n\n基本の考え方はとてもシンプルで、多くの場合 **1フレット1フィンガー** を目指します。",
+          "pt-BR": "# Digitações para escalas de uma e duas oitavas\nA digitação define **qual dedo da mão esquerda** toca cada nota da escala.\nBoas digitações são:\n- **Eficientes** (sem pulos desnecessários)\n- **Repetíveis** (você consegue tocar igual toda vez)\n- **Relaxadas** (sem alongamentos doloridos)\n\nQuase sempre você segue uma regra simples: dentro de uma posição, use **um dedo por traste**.",
+          "es": "# Digitaciones para escalas de una y dos octavas\nLa digitación indica **qué dedo de la mano izquierda** toca cada nota de la escala.\nUna buena digitación se siente:\n- **Eficiente** (sin saltos exagerados)\n- **Repetible** (puedes tocarla igual cada vez)\n- **Relajada** (sin estiramientos dolorosos)\n\nLa regla básica la mayor parte del tiempo es: **un dedo por traste** dentro de una posición."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# One-octave scale fingerings\nWhen you see a **one-octave** shape in the diagrams:\n\n- Choose the position so your **index finger sits on the lowest fret** in the pattern.\n- Let each finger own one fret: index = lowest, then middle, ring, little finger going up the neck.\n- Keep your fingers close to the strings and avoid lifting them higher than needed.\n- On the way back down, use the **same fingering in reverse**.\n\nPlay with slow, even notes. If a stretch feels huge, slide the whole hand a little instead of forcing one finger to reach too far.",
+          "zh-Hans": "# 一组八度音阶的指法\n当你在图里看到一个**一组八度音阶**的指型时：\n\n- 先选好把位，让**食指负责最低的那个品位**。\n- 让每个手指各管一个品：食指 = 最低品，然后是中指、无名指、小指往上排。\n- 手指尽量靠近琴弦，不要抬得太高。\n- 下行时，用**和上行相反的指法**弹回来。\n\n先用慢而均匀的音来练习。如果某个拉伸太夸张，与其硬撑一个手指伸过去，不如稍微**移动整只手**。",
+          "de": "# Fingersätze für einoktavige Tonleitern\nWenn du in den Diagrammen eine **einoktavige** Form siehst:\n\n- Wähle die Lage so, dass dein **Zeigefinger auf dem tiefsten Bund** des Patterns steht.\n- Gib jedem Finger seinen Bund: Zeigefinger = tiefster Bund, dann Mittel-, Ring-, kleiner Finger Richtung Korpus.\n- Halte die Finger dicht über den Saiten und heb sie nicht höher als nötig an.\n- Abwärts spielst du die Skala mit **denselben Fingersätzen rückwärts**.\n\nSpiel zuerst langsam und gleichmäßig. Fühlt sich ein Stretch extrem an, schieb lieber kurz die **ganze Hand** etwas weiter, statt einen Finger zu weit ziehen zu wollen.",
+          "ja": "# 1オクターブ・スケールのフィンガリング\nダイアグラムで**1オクターブのスケール**が出てきたら：\n\n- まずそのパターンの中で**一番低いフレットに人差し指**が来るようにポジションを決めます。\n- そこから先はフレットを割り当てます：人差し指 = 一番低いフレット、その上を中指・薬指・小指が順番に担当。\n- 指は弦のすぐ上にキープして、必要以上に高く持ち上げないようにします。\n- 下りでは、**まったく同じ指づかいを逆順**で使いましょう。\n\n最初はゆっくり、音をそろえて弾きます。どうしても届かないストレッチがあれば、1本の指をムリに伸ばすのではなく、**手全体を少しスライド**させて対応します。",
+          "pt-BR": "# Digitação para escalas de uma oitava\nQuando você vir um desenho de **uma oitava** nos diagramas:\n\n- Escolha a posição de modo que o **dedo indicador fique no traste mais baixo** do padrão.\n- Deixe cada dedo cuidar de um traste: indicador = mais baixo, depois médio, anelar e mínimo subindo pelo braço.\n- Mantenha os dedos perto das cordas, sem levantar mais do que o necessário.\n- Na volta descendo, use **a mesma digitação ao contrário**.\n\nToque com notas lentas e por igual. Se um alongamento ficar absurdo, deslize um pouco a **mão inteira** em vez de tentar forçar um dedo a alcançar longe demais.",
+          "es": "# Digitación para escalas de una octava\nCuando veas una forma de **una octava** en los diagramas:\n\n- Elige la posición de forma que tu **índice quede en el traste más bajo** del patrón.\n- Asigna un traste a cada dedo: índice = traste más bajo, luego medio, anular y meñique hacia arriba en el mástil.\n- Mantén los dedos cerca de las cuerdas y evita levantarlos más de lo necesario.\n- Al bajar, usa **la misma digitación pero al revés**.\n\nEmpieza con notas lentas y parejas. Si un estiramiento parece enorme, mueve un poco la **mano completa** en lugar de forzar a um solo dedo a alcançar demais."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-octave scale fingerings\nTwo-octave shapes usually need a **position shift** or a small stretch.\n\nTypical approach:\n- To play the **first octave**, use the one-finger-per-fret idea in a comfortable position.\n- Notice where the diagram moves into the **second octave** (often by going to a thinner string or sliding the hand up a fret or two).\n- Plan the shift: move the **whole hand together** so your fingers land in a new, relaxed position.\n- From there, finish the second octave using the **same finger numbers every time**.\n\nRepeating the same fingering teaches your hand a clear path it can follow without thinking.",
+          "zh-Hans": "# 两组八度音阶的指法\n**两组八度音阶**通常需要一个小小的**换把**或轻微的拉伸。\n\n常见做法：\n- 先用一品一指的思路，在舒服的把位里弹完**第一组八度**。\n- 观察图里是如何进入**第二组八度**的（通常是换到更细的弦，或者手整体向琴桥方向滑一两品）。\n- 提前计划好换把：让**整只手一起移动**，落到一个新的、放松的把位。\n- 从这个新位置继续弹第二组八度，并且**每次都用同样的指法**。\n\n这样反复使用同一个指法，你的手就会记住一条清晰的“路线”，不需要每次都重新想。",
+          "de": "# Fingersätze für zweioktavige Tonleitern\n**Zweioktavige** Skalen brauchen meistens einen **Lagenwechsel** oder einen kleinen Stretch.\n\nTypisches Vorgehen:\n- Spiel die **erste Oktave** mit dem „ein Finger pro Bund“-Prinzip in einer bequemen Lage.\n- Achte darauf, wo das Diagramm in die **zweite Oktave** übergeht (oft durch Wechsel auf eine dünnere Saite oder ein kleines Rutschen der Hand nach oben).\n- Plane den Wechsel: bewege die **ganze Hand gemeinsam**, sodass deine Finger in einer neuen, entspannten Lage landen.\n- Von dort aus spielst du die zweite Oktave und benutzt dabei **jedes Mal dieselben Fingersätze**.\n\nWenn du konsequent dieselbe Digitation verwendest, lernt deine Hand einen klaren Weg, dem sie fast automatisch folgt.",
+          "ja": "# 2オクターブ・スケールのフィンガリング\n**2オクターブのスケール**では、たいていどこかで**ポジション移動**や少しのストレッチが必要になります。\n\n代表的な流れ：\n- まずは弾きやすいポジションで、1フレット1フィンガーを意識しながら**最初の1オクターブ**を弾きます。\n- ダイアグラムのどこで**2つ目のオクターブ**に入るかをチェックします（多くの場合、細い弦へ移るタイミングか、手を1〜2フレットぶんスライドする場所）。\n- そのポイントで、**手全体をいっしょに動かす**イメージでポジション移動をします。新しい位置でもラクに届くようにします。\n- あとは、そこで決めたフィンガリングを守りながら**毎回同じ指づかい**で2オクターブ目を弾き切ります。\n\nいつも同じフィンガリングを繰り返すことで、手がそのルートを“自動運転”でたどれるようになっていきます。",
+          "pt-BR": "# Digitação para escalas de duas oitavas\nEscalas de **duas oitavas** quase sempre pedem um **troca de posição** ou um pequeno alongamento.\n\nAbordagem comum:\n- Use a ideia de um dedo por traste para tocar a **primeira oitava** em uma posição confortável.\n- Repare onde o diagrama entra na **segunda oitava** (geralmente quando vai para uma corda mais fina ou quando a mão desliza um ou dois trastes para frente).\n- Planeje a troca: mova a **mão inteira de uma vez**, para que os dedos caiam em uma nova posição relaxada.\n- A partir daí, termine a segunda oitava usando **sempre os mesmos dedos** para cada nota.\n\nRepetir a mesma digitação ensina sua mão a seguir um caminho claro, quase sem precisar pensar.",
+          "es": "# Digitación para escalas de dos octavas\nLas escalas de **dos octavas** casi siempre necesitan un **cambio de posición** o un pequeño estiramiento.\n\nEnfoque típico:\n- Usa la idea de un dedo por traste para tocar la **primera octava** en una posición cómoda.\n- Fíjate en el punto del diagrama en el que se entra a la **segunda octava** (a menudo al pasar a una cuerda más fina o deslizando la mano uno o dos trastes hacia el puente).\n- Planea el cambio: mueve **toda la mano junta** para que los dedos caigan en una nueva posición relajada.\n- Desde ahí, termina la segunda octava usando **siempre los mismos números de dedos**.\n\nAl repetir la misma digitación, tu mano aprende un camino claro que puede seguir casi en piloto automático."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Pick one simple **one-octave** scale shape from your diagrams.\n2. Play it up and down slowly while whispering the finger numbers: `1–2–4` on one string, `1–3–4` on the next, and so on.\n3. Then choose a **two-octave** shape. Notice exactly where you shift position and loop that small section a few times.\n4. After it feels smooth, play the full scale with a slow click, trying to use **exactly the same fingering** every time.\n\nClean, consistent fingerings now will make all your future scales, arpeggios and licks much easier to learn.",
+          "zh-Hans": "# 小练习\n1. 从你的图里选一个简单的**一组八度音阶**指型。\n2. 慢慢上下弹一遍，一边轻声说出指法，比如：某一根弦是 `1–2–4`，下一根弦是 `1–3–4`，依此类推。\n3. 然后换成一个**两组八度**的指型，特别留意自己是在什么地方换把，并把那一小段单独反复练几次。\n4. 当换把变得顺滑以后，再配合慢速节拍器弹整条音阶，尽量**每次都用同样的指法**。\n\n现在把指法练干净、练固定，将来学任何音阶、分解和弦和lick都会轻松很多。",
+          "de": "# Kurze Übung\n1. Such dir aus deinen Diagrammen eine einfache **einoktavige** Skala aus.\n2. Spiel sie langsam auf- und abwärts und murmele dabei die Fingersätze vor dich hin, z.B. `1–2–4` auf einer Saite, `1–3–4` auf der nächsten usw.\n3. Nimm dir danach eine **zweioktavige** Form vor. Achte genau darauf, **wo** du die Lage wechselst, und wiederhole diesen kurzen Abschnitt ein paar Mal im Loop.\n4. Wenn sich der Wechsel flüssig anfühlt, spiel die komplette Skala mit einem langsamen Klick und versuche, **genau dieselbe Digitation** jedes Mal zu benutzen.\n\nSaubere, konsequente Fingersätze jetzt machen es dir später viel leichter, neue Skalen, Arpeggien und Licks zu lernen.",
+          "ja": "# さっとできる練習\n1. まずダイアグラムの中から、シンプルな**1オクターブ・スケール**を1つ選びます。\n2. ゆっくり上下に弾きながら、小さな声で指番号をつぶやきます（ある弦では `1–2–4`、次の弦では `1–3–4` など）。\n3. 次に**2オクターブのパターン**を選びます。どのタイミングでポジション移動しているかをよく観察し、その少しの区間だけを何度かループ練習します。\n4. 移動がスムーズになってきたら、ゆっくりしたクリックに合わせてスケール全体を弾き、**毎回まったく同じフィンガリング**を使うことを意識します。\n\nここでフィンガリングをきっちり固めておくと、これから出てくる音階・アルペジオ・フレーズの習得がぐっと楽になります。",
+          "pt-BR": "# Prática rápida\n1. Pegue um desenho de **uma oitava** bem simples nos seus diagramas.\n2. Toque subindo e descendo devagar, sussurrando os números dos dedos, por exemplo: `1–2–4` em uma corda, `1–3–4` na próxima, e assim por diante.\n3. Depois escolha um desenho de **duas oitavas**. Note exatamente **onde** você troca de posição e faça um loop só daquele pedacinho algumas vezes.\n4. Quando estiver suave, toque a escala inteira com um clique bem lento, tentando usar **sempre a mesma digitação**.\n\nDigitações limpas e consistentes agora vão deixar bem mais fácil aprender todas as suas próximas escalas, arpejos e licks.",
+          "es": "# Práctica rápida\n1. Elige en tus diagramas una forma de escala **de una octava** sencilla.\n2. Tócala subiendo y bajando despacio mientras susurras los números de los dedos, por ejemplo: `1–2–4` en una cuerda, `1–3–4` en la siguiente, etc.\n3. Luego elige una forma **de dos octavas**. Fíjate con atención en **dónde** cambias de posición y repite solo ese fragmento en bucle varias veces.\n4. Cuando se sienta fluido, toca la escala completa con un clic lento, intentando usar **exactamente la misma digitación** cada vez.\n\nDigitaciones limpias y consistentes ahora harán mucho más fácil aprender todas tus futuras escalas, arpegios y licks."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once these fingerings feel natural, your hands will spend less energy just finding notes and more energy making the scales actually **sound like music**.",
+          "zh-Hans": "当这些指法变得自然顺手时，你的手就不用再把精力花在“找音”上，而可以把更多注意力放在让音阶**真正听起来像音乐**上。",
+          "de": "Sobald sich diese Fingersätze selbstverständlich anfühlen, verbraucht deine Hand weniger Energie fürs „Noten Suchen“ und mehr dafür, die Skalen **wirklich musikalisch klingen zu lassen**.",
+          "ja": "これらのフィンガリングに慣れてくると、「音を探すこと」に使うエネルギーが減って、そのぶんスケールを**ちゃんと音楽らしく響かせること**に集中できるようになります。",
+          "pt-BR": "Quando essas digitações ficarem naturais, suas mãos vão gastar menos esforço só para achar nota, e mais energia para fazer as escalas **soarem como música de verdade**.",
+          "es": "Cuando estas digitaciones se sientan naturales, tus manos gastarán menos esfuerzo en buscar notas y más en hacer que las escalas **suenen realmente a música**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

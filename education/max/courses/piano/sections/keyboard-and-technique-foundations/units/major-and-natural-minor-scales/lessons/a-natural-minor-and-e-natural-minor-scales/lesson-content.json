@@ -1,0 +1,86 @@
+{
+  "id": "a-natural-minor-and-e-natural-minor-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A and E natural minor scales\nIn this lesson you’ll learn the **A natural minor** and **E natural minor** scales.\n\n- A natural minor uses **no sharps or flats** (same key as C major).\n- E natural minor uses **F♯** (same key as G major).\n\nThese are your first minor scales and they’re perfect for hearing that **darker, more relaxed** minor sound.",
+          "zh-Hans": "# A自然小调和E自然小调音阶\n在本课中，你会学习 **A自然小调** 和 **E自然小调** 音阶。\n\n- A自然小调里 **没有任何升号或降号**（和C大调用同一组琴键）。\n- E自然小调里有一个 **F♯**（和G大调是同一个调号）。\n\n这是你开始接触的前两个小调音阶，很适合感受小调那种**更暗一点、更放松**的声音气质。",
+          "de": "# A- und E-Natürlich-Moll-Tonleitern\nIn dieser Lektion lernst du die **A-Natürlich-Moll**- und **E-Natürlich-Moll**-Tonleiter.\n\n- A-Moll hat **keine Vorzeichen** (gleiche Tasten wie C-Dur).\n- E-Moll hat ein **F♯** (gleiche Vorzeichen wie G-Dur).\n\nDas sind deine ersten Moll-Tonleitern und sie helfen dir, den **dunkleren, ruhigeren** Klang von Moll kennenzulernen.",
+          "ja": "# AナチュラルマイナーとEナチュラルマイナー・スケール\nこのレッスンでは、**Aナチュラルマイナー** と **Eナチュラルマイナー** のスケールを学びます。\n\n- Aナチュラルマイナーには **シャープもフラットも出てきません**（Cメジャーと同じ鍵盤を使います）。\n- Eナチュラルマイナーには **F♯** が1つ入ります（Gメジャーと同じ調号です）。\n\nどちらも最初のマイナースケールとしてピッタリで、メジャーより少し**しっとり・落ち着いた**響きを味わえます。",
+          "pt-BR": "# Escalas de Lá menor natural (A) e Mi menor natural (E)\nNesta lição você vai aprender as escalas de **Lá menor natural (A)** e **Mi menor natural (E)**.\n\n- Lá menor natural não usa **nenhum sustenido ou bemol** (mesmas teclas de Dó maior).\n- Mi menor natural usa **F♯** (mesma armadura de Sol maior).\n\nSão ótimas primeiras escalas menores para sentir aquele som **mais escuro e relaxado** do modo menor.",
+          "es": "# Escalas de La menor natural (A) y Mi menor natural (E)\nEn esta lección vas a aprender las escalas de **La menor natural (A)** y **Mi menor natural (E)**.\n\n- La menor natural no tiene **ningún sostenido ni bemol** (mismas teclas que Do mayor).\n- Mi menor natural tiene **F♯** (misma armadura que Sol mayor).\n\nSon unas primeras escalas menores perfectas para escuchar ese sonido **más oscuro y relajado** del modo menor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A natural minor – notes and sound\nA natural minor uses the notes:\n\n**A – B – C – D – E – F – G – A**\n\nIt’s the **relative minor of C major** – same notes, different home base (A instead of C).\n\nThink: C major is “bright”, A minor is the same keyboard area but a bit more **melancholic**.",
+          "zh-Hans": "# A自然小调 – 音符和听感\nA自然小调包含这些音：\n\n**A – B – C – D – E – F – G – A**\n\n它是 **C大调的关系小调**——用的是同样的音，只是“家”的感觉从C换成了A。\n\n可以这样记：C大调比较“明亮”，而A小调是在同一块键盘区域上，多了一点**感伤、忧郁**的味道。",
+          "de": "# A-Natürlich-Moll – Töne und Klang\nA-Natürlich-Moll besteht aus:\n\n**A – B – C – D – E – F – G – A**\n\nEs ist die **Paralleltonart zu C-Dur** – dieselben Töne, aber ein anderer Grundton (A statt C).\n\nMan kann sich merken: C-Dur klingt eher „hell“, A-Moll nutzt dieselben Tasten, wirkt aber etwas **nachdenklicher**.",
+          "ja": "# Aナチュラルマイナー – 音と響き\nAナチュラルマイナーの音は：\n\n**A – B – C – D – E – F – G – A**\n\nこれは **Cメジャーの平行調のマイナー** で、使う音は同じですが、”帰ってくる場所”がCではなくAになります。\n\nイメージとしては、Cメジャーが明るいとしたら、Aマイナーは同じ鍵盤を使いながら少し**物悲しく**聞こえる感じです。",
+          "pt-BR": "# Lá menor natural (A) – notas e sonoridade\nA escala de Lá menor natural usa as notas:\n\n**A – B – C – D – E – F – G – A**\n\nEla é a **relativa menor de Dó maior** – mesmas notas, mas com outro “lar”: A em vez de C.\n\nPense assim: Dó maior é mais “claro”, e Lá menor é o mesmo conjunto de teclas com um clima um pouco mais **melancólico**.",
+          "es": "# La menor natural (A) – notas y sonido\nLa menor natural usa las notas:\n\n**A – B – C – D – E – F – G – A**\n\nEs la **relativa menor de Do mayor** – mismas notas, pero otra nota “casa”: A en vez de C.\n\nPiensa que Do mayor suena más “luminoso”, y La menor usa las mismas teclas pero con un aire más **melancólico**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A natural minor – basic fingerings (hands separate)\nUse one octave, **hands separate**, starting on A near middle C.\n\n**Right hand (A above middle C)**\n- Up: A (1) – B (2) – C (3) – D (1) – E (2) – F (3) – G (4) – A (5)\n- Down: A (5) – G (4) – F (3) – E (2) – D (1) – C (3) – B (2) – A (1)\n\n**Left hand (A below middle C)**\n- Up: A (5) – B (4) – C (3) – D (2) – E (1) – F (3) – G (2) – A (1)\n- Down: A (1) – G (2) – F (3) – E (1) – D (2) – C (3) – B (4) – A (5)\n\nThese fingerings feel very close to the C major scale – just starting and ending on A.",
+          "zh-Hans": "# A自然小调 – 基本指法（单双手分开）\n先只弹一组八度，**双手分开练习**，从靠近中央C的 A 开始。\n\n**右手（中央C上方的 A）**\n- 上行：A (1) – B (2) – C (3) – D (1) – E (2) – F (3) – G (4) – A (5)\n- 下行：A (5) – G (4) – F (3) – E (2) – D (1) – C (3) – B (2) – A (1)\n\n**左手（中央C下方的 A）**\n- 上行：A (5) – B (4) – C (3) – D (2) – E (1) – F (3) – G (2) – A (1)\n- 下行：A (1) – G (2) – F (3) – E (1) – D (2) – C (3) – B (4) – A (5)\n\n这个指法和C大调非常接近，只是**起点和终点换成了 A**。",
+          "de": "# A-Natürlich-Moll – Grundfingersätze (Hände getrennt)\nSpiele eine Oktave **mit getrennten Händen**, beginnend auf einem A in der Nähe des mittleren C.\n\n**Rechte Hand (A über dem mittleren C)**\n- Aufwärts: A (1) – B/H (2) – C (3) – D (1) – E (2) – F (3) – G (4) – A (5)\n- Abwärts: A (5) – G (4) – F (3) – E (2) – D (1) – C (3) – B/H (2) – A (1)\n\n**Linke Hand (A unter dem mittleren C)**\n- Aufwärts: A (5) – B/H (4) – C (3) – D (2) – E (1) – F (3) – G (2) – A (1)\n- Abwärts: A (1) – G (2) – F (3) – E (1) – D (2) – C (3) – B/H (4) – A (5)\n\nDie Fingersätze fühlen sich fast wie C-Dur an – du startest und endest nur auf A statt auf C.",
+          "ja": "# Aナチュラルマイナー – 基本フィンガリング（左右別々）\nまずは1オクターブを、**左右それぞれ別々に**、真ん中のCの近くのAから弾きます。\n\n**右手（真ん中のCより上のA）**\n- 上行：A (1) – B (2) – C (3) – D (1) – E (2) – F (3) – G (4) – A (5)\n- 下行：A (5) – G (4) – F (3) – E (2) – D (1) – C (3) – B (2) – A (1)\n\n**左手（真ん中のCより下のA）**\n- 上行：A (5) – B (4) – C (3) – D (2) – E (1) – F (3) – G (2) – A (1)\n- 下行：A (1) – G (2) – F (3) – E (1) – D (2) – C (3) – B (4) – A (5)\n\n運指の感覚はCメジャーととてもよく似ていて、**スタートとゴールだけをAに変えた**ようなイメージです。",
+          "pt-BR": "# Lá menor natural (A) – dedilhados básicos (mãos separadas)\nUse uma oitava, com **mãos separadas**, começando em um A perto do Dó central.\n\n**Mão direita (A acima do Dó central)**\n- Subindo: A (1) – B (2) – C (3) – D (1) – E (2) – F (3) – G (4) – A (5)\n- Descendo: A (5) – G (4) – F (3) – E (2) – D (1) – C (3) – B (2) – A (1)\n\n**Mão esquerda (A abaixo do Dó central)**\n- Subindo: A (5) – B (4) – C (3) – D (2) – E (1) – F (3) – G (2) – A (1)\n- Descendo: A (1) – G (2) – F (3) – E (1) – D (2) – C (3) – B (4) – A (5)\n\nA sensação é bem parecida com a escala de Dó maior – só que começando e terminando no **Lá**.",
+          "es": "# La menor natural (A) – digitaciones básicas (manos separadas)\nTrabaja una octava con **manos separadas**, empezando en un A cerca del Do central.\n\n**Mano derecha (A por encima del Do central)**\n- Ascendiendo: A (1) – B (2) – C (3) – D (1) – E (2) – F (3) – G (4) – A (5)\n- Descendiendo: A (5) – G (4) – F (3) – E (2) – D (1) – C (3) – B (2) – A (1)\n\n**Mano izquierda (A por debajo del Do central)**\n- Ascendiendo: A (5) – B (4) – C (3) – D (2) – E (1) – F (3) – G (2) – A (1)\n- Descendiendo: A (1) – G (2) – F (3) – E (1) – D (2) – C (3) – B (4) – A (5)\n\nLa sensación es muy parecida a la escala de Do mayor: cambias el inicio y el final para que el centro sea **La**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# E natural minor – notes and sound\nE natural minor uses the notes:\n\n**E – F♯ – G – A – B – C – D – E**\n\nIt is the **relative minor of G major** – same F♯, same key signature.\n\nThis scale keeps the minor mood but feels a bit more **open and bright** than A minor.",
+          "zh-Hans": "# E自然小调 – 音符和听感\nE自然小调包含这些音：\n\n**E – F♯ – G – A – B – C – D – E**\n\n它是 **G大调的关系小调**，调号中同样只有一个 F♯。\n\n它依然是小调的情绪，但相比A小调，听起来会稍微**更开阔、更亮一点**。",
+          "de": "# E-Natürlich-Moll – Töne und Klang\nE-Natürlich-Moll besteht aus:\n\n**E – F♯ – G – A – B/H – C – D – E**\n\nEs ist die **Paralleltonart zu G-Dur** – gleiche Vorzeichen (F♯).\n\nDer Klang bleibt klar Moll, wirkt aber etwas **offener und heller** als A-Moll.",
+          "ja": "# Eナチュラルマイナー – 音と響き\nEナチュラルマイナーの音は：\n\n**E – F♯ – G – A – B – C – D – E**\n\nこれは **Gメジャーの平行調のマイナー** で、調号はF♯が1つだけです。\n\nマイナーらしい切なさはありつつも、Aマイナーより少し**ひらけた・明るめ**に感じることが多いスケールです。",
+          "pt-BR": "# Mi menor natural (E) – notas e sonoridade\nA escala de Mi menor natural usa as notas:\n\n**E – F♯ – G – A – B – C – D – E**\n\nEla é a **relativa menor de Sol maior**, com o mesmo F♯ na armadura.\n\nO clima ainda é de escala menor, mas em geral soa um pouco mais **aberta e clara** do que Lá menor.",
+          "es": "# Mi menor natural (E) – notas y sonido\nMi menor natural usa las notas:\n\n**E – F♯ – G – A – B – C – D – E**\n\nEs la **relativa menor de Sol mayor**, con el mismo F♯ en la armadura.\n\nSigue teniendo carácter menor, pero suele sonar un poco más **abierta y luminosa** que La menor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# E natural minor – basic fingerings (hands separate)\nAgain use one octave, **hands separate**.\n\n**Right hand (E above middle C)**\n- Up: E (1) – F♯ (2) – G (3) – A (1) – B (2) – C (3) – D (4) – E (5)\n- Down: E (5) – D (4) – C (3) – B (2) – A (1) – G (3) – F♯ (2) – E (1)\n\n**Left hand (E below middle C)**\n- Up: E (5) – F♯ (4) – G (3) – A (2) – B (1) – C (3) – D (2) – E (1)\n- Down: E (1) – D (2) – C (3) – B (1) – A (2) – G (3) – F♯ (4) – E (5)\n\nThese fingerings feel almost identical to the G major scale, just centred on E.",
+          "zh-Hans": "# E自然小调 – 基本指法（单双手分开）\n同样只弹一组八度，**双手分开练习**。\n\n**右手（中央C上方的 E）**\n- 上行：E (1) – F♯ (2) – G (3) – A (1) – B (2) – C (3) – D (4) – E (5)\n- 下行：E (5) – D (4) – C (3) – B (2) – A (1) – G (3) – F♯ (2) – E (1)\n\n**左手（中央C下方的 E）**\n- 上行：E (5) – F♯ (4) – G (3) – A (2) – B (1) – C (3) – D (2) – E (1)\n- 下行：E (1) – D (2) – C (3) – B (1) – A (2) – G (3) – F♯ (4) – E (5)\n\n这些指法和G大调几乎一模一样，只是**重心换成了E**。",
+          "de": "# E-Natürlich-Moll – Grundfingersätze (Hände getrennt)\nAuch hier spielst du eine Oktave mit **getrennten Händen**.\n\n**Rechte Hand (E über dem mittleren C)**\n- Aufwärts: E (1) – F♯ (2) – G (3) – A (1) – B/H (2) – C (3) – D (4) – E (5)\n- Abwärts: E (5) – D (4) – C (3) – B/H (2) – A (1) – G (3) – F♯ (2) – E (1)\n\n**Linke Hand (E unter dem mittleren C)**\n- Aufwärts: E (5) – F♯ (4) – G (3) – A (2) – B/H (1) – C (3) – D (2) – E (1)\n- Abwärts: E (1) – D (2) – C (3) – B/H (1) – A (2) – G (3) – F♯ (4) – E (5)\n\nDie Fingersätze fühlen sich fast genau so an wie in G-Dur – nur mit E als neuem Mittelpunkt.",
+          "ja": "# Eナチュラルマイナー – 基本フィンガリング（左右別々）\nここでも1オクターブを、**左右別々に**練習します。\n\n**右手（真ん中のCより上のE）**\n- 上行：E (1) – F♯ (2) – G (3) – A (1) – B (2) – C (3) – D (4) – E (5)\n- 下行：E (5) – D (4) – C (3) – B (2) – A (1) – G (3) – F♯ (2) – E (1)\n\n**左手（真ん中のCより下のE）**\n- 上行：E (5) – F♯ (4) – G (3) – A (2) – B (1) – C (3) – D (2) – E (1)\n- 下行：E (1) – D (2) – C (3) – B (1) – A (2) – G (3) – F♯ (4) – E (5)\n\n運指の感覚はGメジャーのスケールとほとんど同じで、**中心の音だけEに変えた**と思って大丈夫です。",
+          "pt-BR": "# Mi menor natural (E) – dedilhados básicos (mãos separadas)\nDe novo, use uma oitava com **mãos separadas**.\n\n**Mão direita (E acima do Dó central)**\n- Subindo: E (1) – F♯ (2) – G (3) – A (1) – B (2) – C (3) – D (4) – E (5)\n- Descendo: E (5) – D (4) – C (3) – B (2) – A (1) – G (3) – F♯ (2) – E (1)\n\n**Mão esquerda (E abaixo do Dó central)**\n- Subindo: E (5) – F♯ (4) – G (3) – A (2) – B (1) – C (3) – D (2) – E (1)\n- Descendo: E (1) – D (2) – C (3) – B (1) – A (2) – G (3) – F♯ (4) – E (5)\n\nA sensação é praticamente a mesma da escala de Sol maior – só que agora o centro é o **Mi**.",
+          "es": "# Mi menor natural (E) – digitaciones básicas (manos separadas)\nUna vez más, trabaja una octava con **manos separadas**.\n\n**Mano derecha (E por encima del Do central)**\n- Ascendiendo: E (1) – F♯ (2) – G (3) – A (1) – B (2) – C (3) – D (4) – E (5)\n- Descendiendo: E (5) – D (4) – C (3) – B (2) – A (1) – G (3) – F♯ (2) – E (1)\n\n**Mano izquierda (E por debajo del Do central)**\n- Ascendiendo: E (5) – F♯ (4) – G (3) – A (2) – B (1) – C (3) – D (2) – E (1)\n- Descendiendo: E (1) – D (2) – C (3) – B (1) – A (2) – G (3) – F♯ (4) – E (5)\n\nLa sensación es casi idéntica a la escala de Sol mayor; solo cambias el centro al **Mi**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play **A natural minor** up and down, hands separate, 3–5 times each.\n2. Do the same with **E natural minor**.\n3. Then try this order with one hand:\n   - C major → A natural minor\n   - G major → E natural minor\n4. Stay at a tempo where every F♯ and every natural note feels **clear and relaxed**.\n\nYou’ll start to hear how each major scale has a **minor “partner”** built from the same notes.",
+          "zh-Hans": "## 快速练习\n1. 先练 **A自然小调**，上下行各 3–5 遍，左右手分开。\n2. 再用同样方法练习 **E自然小调**。\n3. 然后用同一只手试试这个顺序：\n   - C大调 → A自然小调\n   - G大调 → E自然小调\n4. 保持在一个速度里，让每个 F♯ 和每个自然音都**清楚、放松**地弹出来。\n\n慢慢你会听出来：每个大调旁边其实都站着一个由同样音构成的**“兄弟小调”**。",
+          "de": "## Kurze Übung\n1. Spiele **A-Natürlich-Moll** auf- und abwärts, Hände getrennt, je 3–5 Mal.\n2. Mach dasselbe mit **E-Natürlich-Moll**.\n3. Probiere dann mit einer Hand diese Reihenfolge:\n   - C-Dur → A-Moll\n   - G-Dur → E-Moll\n4. Wähle ein Tempo, in dem jeder Ton – besonders das F♯ – **klar und entspannt** klingt.\n\nSo hörst du nach und nach, dass jede Dur-Tonleiter eine **„Partner“-Molltonart** aus denselben Tönen hat.",
+          "ja": "## かんたん練習\n1. まず **Aナチュラルマイナー** を、左右別々に 上がって下りて を3〜5回ずつ弾きます。\n2. 次に同じように **Eナチュラルマイナー** を練習します。\n3. そのあと、片手ずつ次の順番で弾いてみましょう：\n   - Cメジャー → Aナチュラルマイナー\n   - Gメジャー → Eナチュラルマイナー\n4. どの音も、特にF♯を含むところが**はっきり・リラックスして**聞こえるテンポを保ちます。\n\nこうしていくと、「それぞれのメジャースケールには、同じ音からできた**ペアのマイナー**があるんだ」という感覚が少しずつ耳に染み込んできます。",
+          "pt-BR": "## Prática rápida\n1. Toque **Lá menor natural** subindo e descendo, mãos separadas, de 3 a 5 vezes cada.\n2. Faça o mesmo com **Mi menor natural**.\n3. Depois, com uma mão por vez, experimente esta sequência:\n   - Dó maior → Lá menor natural\n   - Sol maior → Mi menor natural\n4. Fique em um andamento onde cada F♯ (na escala de Mi) e cada nota natural saiam **claros e relaxados**.\n\nAos poucos você vai ouvir que cada escala maior tem uma **“parceira” menor** formada exatamente pelas mesmas notas.",
+          "es": "## Práctica rápida\n1. Toca **La menor natural** subiendo y bajando, manos separadas, 3–5 veces con cada una.\n2. Haz lo mismo con **Mi menor natural**.\n3. Luego, con una mano por vez, prueba este orden:\n   - Do mayor → La menor natural\n   - Sol mayor → Mi menor natural\n4. Mantente en un tempo donde cada F♯ (en Mi menor) y cada nota natural suenen **claras y relajadas**.\n\nCon el tiempo escucharás que cada escala mayor tiene una **escala menor “pareja”** construida con las mismas notas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

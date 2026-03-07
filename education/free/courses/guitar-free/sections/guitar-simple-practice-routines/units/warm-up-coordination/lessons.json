@@ -1,0 +1,58 @@
+[
+  {
+    "id": "chromatic-warm-up-one-string",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Chromatic Warm-Up on One String",
+        "zh-Hans": "单弦半音阶热身练习",
+        "de": "Chromatisches Aufwärmen auf einer Saite",
+        "ja": "1本の弦でのクロマチック・ウォームアップ",
+        "pt-BR": "Aquecimento cromático em uma corda",
+        "es": "Calentamiento cromático en una cuerda"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use a simple chromatic pattern on a single string to warm up your fingers.",
+        "zh-Hans": "在一根弦上用简单的半音阶模式为手指热身。",
+        "de": "Nutze ein einfaches chromatisches Pattern auf einer Saite, um deine Finger aufzuwärmen.",
+        "ja": "1本の弦でシンプルなクロマチック・パターンを使い、指をウォームアップします。",
+        "pt-BR": "Use um padrão cromático simples em uma única corda para aquecer os dedos.",
+        "es": "Usa un patrón cromático sencillo en una sola cuerda para calentar los dedos."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "four-finger-exercise-one-position",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Four-Finger Exercise Across One Position",
+        "zh-Hans": "同一把位的四指练习",
+        "de": "Vier-Finger-Übung in einer Lage",
+        "ja": "1ポジション内での4フィンガー・エクササイズ",
+        "pt-BR": "Exercício de quatro dedos em uma posição",
+        "es": "Ejercicio de cuatro dedos en una posición"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice using all four fretting fingers in one position for control and accuracy.",
+        "zh-Hans": "在同一把位中使用四个按弦手指练习，以提高控制力和准确性。",
+        "de": "Übe mit allen vier Greiffingern in einer Lage für Kontrolle und Genauigkeit.",
+        "ja": "1つのポジション内で4本の押弦指すべてを使い、コントロールと正確さを鍛えます。",
+        "pt-BR": "Pratique o uso dos quatro dedos da mão esquerda em uma posição para ganhar controle e precisão.",
+        "es": "Practica usando los cuatro dedos de la mano de trastes en una sola posición para ganar control y precisión."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

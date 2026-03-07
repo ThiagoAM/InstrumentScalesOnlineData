@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2025-08-15T12:00:00Z",
+  "updatedAt": "2025-08-15T12:00:00Z",
+  "courses": [
+    {
+      "id": "guitar-free",
+      "slug": "guitar",
+      "name": {
+        "values": {
+          "en": "Guitar",
+          "zh-Hans": "吉他",
+          "de": "Gitarre",
+          "ja": "ギター",
+          "pt-BR": "Guitarra",
+          "es": "Guitarra"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Start your journey with basic chords and techniques.",
+          "zh-Hans": "从基础和弦和基本技巧开始你的音乐之旅。",
+          "de": "Beginne deine Reise mit grundlegenden Akkorden und Techniken.",
+          "ja": "基本的なコードとテクニックから音楽の旅を始めましょう。",
+          "pt-BR": "Comece sua jornada com acordes e técnicas básicas.",
+          "es": "Empieza tu camino con acordes y técnicas básicas."
+        }
+      },
+      "image": {
+        "type": "url",
+        "value": "https://thiagoam.github.io/instrumentScales/api/education/free/images/guitar-free.jpg"
+      },
+      "tags": ["guitar", "beginner"],
+      "order": 1,
+      "createdAt": "2025-08-15T12:00:00Z",
+      "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+      "id": "bass-free",
+      "slug": "bass",
+      "name": {
+        "values": {
+          "en": "Bass",
+          "zh-Hans": "贝斯",
+          "de": "Bass",
+          "ja": "ベース",
+          "pt-BR": "Baixo",
+          "es": "Bajo"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Learn foundational grooves and fingerstyle technique.",
+          "zh-Hans": "学习基础律动和指弹技巧。",
+          "de": "Lerne grundlegende Grooves und Fingerstyle-Technik.",
+          "ja": "基礎的なグルーヴとフィンガースタイル奏法を身につけましょう。",
+          "pt-BR": "Aprenda grooves fundamentais e técnica de fingerstyle.",
+          "es": "Aprende grooves fundamentales y técnica de fingerstyle."
+        }
+      },
+      "image": {
+        "type": "url",
+        "value": "https://thiagoam.github.io/instrumentScales/api/education/free/images/bass-free.jpg"
+      },
+      "tags": ["bass", "beginner"],
+      "order": 2,
+      "createdAt": "2025-08-15T12:00:00Z",
+      "updatedAt": "2025-08-15T12:00:00Z"
+    },
+    {
+      "id": "piano-free",
+      "slug": "piano",
+      "name": {
+        "values": {
+          "en": "Piano",
+          "zh-Hans": "钢琴",
+          "de": "Klavier",
+          "ja": "ピアノ",
+          "pt-BR": "Piano",
+          "es": "Piano"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Posture, hand position and your first melodies.",
+          "zh-Hans": "正确的坐姿、手型以及你的第一首旋律。",
+          "de": "Körperhaltung, Handposition und deine ersten Melodien.",
+          "ja": "姿勢、手のフォーム、そして最初のメロディー。",
+          "pt-BR": "Postura, posição das mãos e suas primeiras melodias.",
+          "es": "Postura, posición de las manos y tus primeras melodías."
+        }
+      },
+      "image": {
+        "type": "url",
+        "value": "https://thiagoam.github.io/instrumentScales/api/education/free/images/piano-free.jpg"
+      },
+      "tags": ["piano", "beginner"],
+      "order": 3,
+      "createdAt": "2025-08-15T12:00:00Z",
+      "updatedAt": "2025-08-15T12:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "chromatic-warm-up-one-string",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Chromatic warm-up on one string\nThis exercise warms up your fingers and helps both hands move together.\n\nYou’ll play **one fret after another** on a single string – simple, but very effective.",
+          "zh-Hans": "# 单弦半音阶热身\n这个练习可以给手指热身，并训练双手的配合。\n\n你只需要在一根弦上 **一品接着一品** 地弹，非常简单，但效果很好。",
+          "de": "# Chromatisches Aufwärmen auf einer Saite\nDiese Übung wärmt deine Finger auf und hilft, beide Hände aufeinander abzustimmen.\n\nDu spielst auf einer Saite **Bund für Bund** nacheinander – simpel, aber sehr effektiv.",
+          "ja": "# 1本の弦で行うクロマチック・ウォームアップ\nこのエクササイズは、指のウォームアップと左右のタイミング合わせに役立ちます。\n\n1本の弦で **フレットを1つずつ順番に** 押さえて弾くだけですが、とても効果的です。",
+          "pt-BR": "# Aquecimento cromático em uma corda\nEste exercício aquece os dedos e ajuda as duas mãos a trabalharem juntas.\n\nVocê vai tocar **um traste depois do outro** em uma única corda – simples, mas bem eficiente.",
+          "es": "# Calentamiento cromático en una cuerda\nEste ejercicio calienta los dedos y ayuda a coordinar ambas manos.\n\nVas a tocar **un traste tras otro** en una sola cuerda: sencillo, pero muy efectivo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup\n1. Choose one string (for example, the **6th string – low E**).\n2. Rest your thumb lightly behind the neck.\n3. Keep your wrist relaxed and your fingers curved.\n\nWe’ll use one finger per fret:",
+          "zh-Hans": "# 准备\n1. 先选一根弦（比如 **第6弦·低音E弦**）。\n2. 大拇指轻轻顶在琴颈后面。\n3. 手腕放松，手指自然弯曲。\n\n我们采用“一品一指”的方式：",
+          "de": "# Vorbereitung\n1. Such dir eine Saite aus (zum Beispiel die **6. Saite – tiefe E-Saite**).\n2. Lege den Daumen locker hinter das Griffbrett.\n3. Halte das Handgelenk entspannt und die Finger leicht gekrümmt.\n\nWir benutzen einen Finger pro Bund:",
+          "ja": "# 準備\n1. まず弦を1本選びます（例：**6弦・低音E弦**）。\n2. 親指をネックの裏に軽く添えます。\n3. 手首はリラックスさせ、指は軽く丸めます。\n\nここでは「1フレットにつき1本の指」を使います：",
+          "pt-BR": "# Preparação\n1. Escolha uma corda (por exemplo, a **6ª corda – mizão**).\n2. Apoie o polegar levemente atrás do braço.\n3. Mantenha o pulso relaxado e os dedos curvados.\n\nVamos usar um dedo por traste:",
+          "es": "# Preparación\n1. Elige una cuerda (por ejemplo, la **6ª cuerda – mi grave**).\n2. Apoya el pulgar suavemente detrás del mástil.\n3. Mantén la muñeca relajada y los dedos curvados.\n\nUsaremos un dedo por traste:"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "- Fret 1 → finger 1 (index)\n- Fret 2 → finger 2 (middle)\n- Fret 3 → finger 3 (ring)\n- Fret 4 → finger 4 (pinky)\n\nNow play slowly:\n\n1. 6th string, fret 1–2–3–4 (up the neck)\n2. Then go back 4–3–2–1 (down the neck)\n3. Repeat a few times without stopping.",
+          "zh-Hans": "- 第1品 → 1指（食指）\n- 第2品 → 2指（中指）\n- 第3品 → 3指（无名指）\n- 第4品 → 4指（小指）\n\n现在慢慢弹：\n\n1. 第6弦：1–2–3–4品依次往上\n2. 然后从4–3–2–1品往下弹回来\n3. 不停顿地重复几遍。",
+          "de": "- 1. Bund → Finger 1 (Zeigefinger)\n- 2. Bund → Finger 2 (Mittelfinger)\n- 3. Bund → Finger 3 (Ringfinger)\n- 4. Bund → Finger 4 (kleiner Finger)\n\nSpiele nun langsam:\n\n1. 6. Saite: Bünde 1–2–3–4 aufwärts\n2. Dann 4–3–2–1 abwärts\n3. Wiederhole das einige Male ohne zu stoppen.",
+          "ja": "- 1フレット → 指1（人差し指）\n- 2フレット → 指2（中指）\n- 3フレット → 指3（薬指）\n- 4フレット → 指4（小指）\n\nでは、ゆっくり弾いてみましょう：\n\n1. 6弦で1→2→3→4フレットと上がっていく\n2. つぎに4→3→2→1フレットと下がって戻る\n3. 途中で止まらず、何回かくり返します。",
+          "pt-BR": "- Traste 1 → dedo 1 (indicador)\n- Traste 2 → dedo 2 (médio)\n- Traste 3 → dedo 3 (anelar)\n- Traste 4 → dedo 4 (mínimo)\n\nAgora toque devagar:\n\n1. Na 6ª corda, toque 1–2–3–4 (subindo pelos trastes)\n2. Depois volte 4–3–2–1 (descendo)\n3. Repita algumas vezes sem parar.",
+          "es": "- Traste 1 → dedo 1 (índice)\n- Traste 2 → dedo 2 (medio)\n- Traste 3 → dedo 3 (anular)\n- Traste 4 → dedo 4 (meñique)\n\nAhora toca despacio:\n\n1. En la 6ª cuerda, toca 1–2–3–4 (subiendo por los trastes)\n2. Luego vuelve 4–3–2–1 (bajando)\n3. Repite varias veces sin detenerte."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Timing and picking\n- Use **alternate picking** if you can (down–up–down–up)\n- Keep every note the **same volume** and **same length**\n- Go as slow as needed to stay relaxed\n\nIf it starts to feel messy, slow down again. Clean and controlled is the goal.",
+          "zh-Hans": "# 节奏和拨弦\n- 尽量使用**交替拨弦**（下–上–下–上）\n- 让每个音的**音量**和**时值**尽量一致\n- 速度可以很慢，前提是身体放松\n\n如果开始乱了，就再放慢一点。干净、可控，比快更重要。",
+          "de": "# Timing und Anschlag\n- Nutze nach Möglichkeit **Wechselschlag** (Ab–Auf–Ab–Auf)\n- Halte alle Töne **gleich laut** und **gleich lang**\n- Spiele so langsam, wie nötig, um entspannt zu bleiben\n\nWenn es unordentlich wird, nimm Tempo raus. Sauber und kontrolliert ist das Ziel.",
+          "ja": "# タイミングとピッキング\n- できれば**オルタネイト・ピッキング**（ダウン→アップ→ダウン→アップ）で弾きます。\n- すべての音を、**同じ音量**・**同じ長さ**でそろえるイメージで。\n- 力まず弾けるスピードまで、遠慮なくゆっくりにしてOKです。\n\nぐちゃっとしてきたら、もう一度テンポを落としましょう。速さよりも“きれいでコントロールできていること”が大事です。",
+          "pt-BR": "# Tempo e palhetada\n- Se conseguir, use **palhetada alternada** (baixo–cima–baixo–cima)\n- Mantenha cada nota com **o mesmo volume** e **a mesma duração**\n- Vá devagar o suficiente para continuar relaxado\n\nSe começar a ficar bagunçado, diminua o tempo. O objetivo é tocar limpo e sob controle.",
+          "es": "# Tiempo y púa\n- Si puedes, usa **púa alternada** (abajo–arriba–abajo–arriba)\n- Mantén cada nota con **el mismo volumen** y **la misma duración**\n- Ve tan despacio como haga falta para seguir relajado\n\nSi empieza a sonar desordenado, baja el tempo. Lo importante es que suene limpio y controlado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Do this for a minute or two at the start of your practice. It’s a small habit that makes your playing feel more precise.",
+          "zh-Hans": "每次练琴开始前，花一两分钟做这个热身。这个小习惯，会慢慢让你的弹奏变得更准确。",
+          "de": "Spiel diese Übung ein bis zwei Minuten am Anfang deiner Session. Diese kleine Gewohnheit macht dein Spiel nach und nach genauer.",
+          "ja": "毎回の練習の最初に、1〜2分だけでもこのウォームアップを入れてみてください。小さな習慣ですが、少しずつピッキングとフィンガリングの正確さが変わってきます。",
+          "pt-BR": "Faça este aquecimento por um ou dois minutos no começo do estudo. É um hábito pequeno que, com o tempo, deixa sua tocada bem mais precisa.",
+          "es": "Haz este calentamiento durante uno o dos minutos al inicio de tu práctica. Es un hábito pequeño que, con el tiempo, vuelve tu forma de tocar mucho más precisa."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
+}

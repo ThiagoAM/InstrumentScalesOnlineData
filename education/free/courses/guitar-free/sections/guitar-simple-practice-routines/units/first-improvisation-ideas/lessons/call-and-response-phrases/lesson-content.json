@@ -1,0 +1,86 @@
+{
+  "id": "call-and-response-phrases",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Call and response with simple phrases\nMusic often feels like a **conversation**.\nIn this lesson you’ll create a short **“question” phrase** and a short **“answer” phrase** using the A minor pentatonic scale.",
+          "zh-Hans": "# 用简短乐句做“问答”\n音乐常常像一段 **对话**。\n在本课中，你会用A小调五声音阶，编一个简单的 **“问句”乐句** 和一个 **“答句”乐句**。",
+          "de": "# Ruf-und-Antwort mit einfachen Phrasen\nMusik fühlt sich oft wie ein **Gespräch** an.\nIn dieser Lektion erstellst du eine kurze **„Frage“-Phrase** und eine kurze **„Antwort“-Phrase** mit der A-Moll-Pentatonik.",
+          "ja": "# シンプルなフレーズでコール＆レスポンス\n音楽はよく、**会話** のようだと言われます。\nこのレッスンでは、Aマイナー・ペンタトニックを使って、短い **“問いかけ”のフレーズ** と **“答え”のフレーズ** を作ってみましょう。",
+          "pt-BR": "# Pergunta e resposta com frases simples\nMuitas vezes a música parece uma **conversa**.\nNesta lição você vai criar uma **frase de “pergunta”** e uma **frase de “resposta”** usando a pentatônica de Lá menor.",
+          "es": "# Pregunta y respuesta con frases sencillas\nMuchas veces la música se siente como una **conversación**.\nEn esta lección crearás una **frase de “pregunta”** y una **frase de “respuesta”** usando la pentatónica de La menor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Pick a simple rhythm\nStart by clapping or counting a 2-bar rhythm in **4/4**:\n\n- Count: 1–2–3–4 | 1–2–3–4\n- Keep it slow and steady\n\nYou can even speak it out loud like a sentence: “How are you today? | I’m doing fine.”\nThis will later become your musical “question and answer”.",
+          "zh-Hans": "# 第一步 – 先选一个简单节奏\n先不碰吉他，用拍手或嘴里数的方式，先想一个两小节的 **4/4** 节奏：\n\n- 数拍：1–2–3–4 | 1–2–3–4\n- 保持缓慢而稳定\n\n你甚至可以像说话一样念出来：“你今天怎么样？ | 我挺好的。”\n待会儿这些就会变成你的音乐“问句”和“答句”。",
+          "de": "# Schritt 1 – Einen einfachen Rhythmus wählen\nBeginne ohne Gitarre und klatsche oder zähle einen 2-taktigen **4/4**-Rhythmus:\n\n- Zähle: 1–2–3–4 | 1–2–3–4\n- Halte das Tempo langsam und gleichmäßig\n\nDu kannst dir dazu sogar einen Satz denken wie: „Wie geht es dir? | Mir geht es gut.“\nSpäter wird daraus deine musikalische „Frage und Antwort“.",
+          "ja": "# ステップ1 – 簡単なリズムを決める\nまずはギターを置いて、手拍子やカウントで2小節分の **4/4** のリズムを作ってみます。\n\n- カウント例：1–2–3–4 | 1–2–3–4\n- ゆっくり、一定のテンポで続けます。\n\n「今日はどう？ | 元気だよ。」のように、実際の会話をイメージして声に出してもOKです。\nあとで、それが“問いかけ”と“答え”のフレーズになります。",
+          "pt-BR": "# Passo 1 – Escolha um ritmo simples\nComece longe da guitarra, batendo palma ou contando um ritmo de 2 compassos em **4/4**:\n\n- Contagem: 1–2–3–4 | 1–2–3–4\n- Mantenha lento e constante\n\nVocê pode até falar em voz alta como uma frase: “Como você está hoje? | Eu estou bem.”\nDepois isso vira a ideia de “pergunta e resposta” na música.",
+          "es": "# Paso 1 – Elige un ritmo sencillo\nEmpieza sin guitarra, aplaudiendo o contando un ritmo de 2 compases en **4/4**:\n\n- Cuenta: 1–2–3–4 | 1–2–3–4\n- Mantén el tempo lento y constante\n\nIncluso puedes decir en voz alta algo como: “¿Cómo estás hoy? | Estoy bien.”\nMás tarde eso se convertirá en tu “pregunta y respuesta” musical."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Create the “question”\nUse only a few notes of A minor pentatonic Box 1, for example:\n\n- C (6th string, 8th fret)\n- D (5th string, 5th fret)\n- E (5th string, 7th fret)\n\nMake a short phrase that **does not end on A** so it feels a bit open, like a question.\nPlay it over your first 2 bars.",
+          "zh-Hans": "# 第二步 – 做一个“问句”\n只用A小调五声音阶第1指型里的少量音，例如：\n\n- C（第6弦，第8品）\n- D（第5弦，第5品）\n- E（第5弦，第7品）\n\n编一个短乐句，让它 **不要落在A上**，这样听起来会有一点“悬着”的感觉，就像一个问句。\n把它放在前两小节里反复弹。",
+          "de": "# Schritt 2 – Die „Frage“ bauen\nNutze nur wenige Töne der A-Moll-Pentatonik Box 1, zum Beispiel:\n\n- C (6. Saite, 8. Bund)\n- D (5. Saite, 5. Bund)\n- E (5. Saite, 7. Bund)\n\nGestalte eine kurze Phrase, die **nicht auf A endet**, damit sie etwas offen klingt – wie eine Frage.\nSpiele sie über die ersten 2 Takte.",
+          "ja": "# ステップ2 – “問いかけ”フレーズを作る\nAマイナー・ペンタトニックのボックス1から、まずは少ない音だけ使います。たとえば：\n\n- C（6弦 8フレット）\n- D（5弦 5フレット）\n- E（5弦 7フレット）\n\nここで大事なのは、フレーズを **Aで終わらせない** ことです。少し落ち着かない感じが残って、“質問されている”雰囲気になります。\nこのフレーズを、最初の2小節に乗せて弾いてみましょう。",
+          "pt-BR": "# Passo 2 – Crie a “pergunta”\nUse poucas notas da pentatônica de Lá menor (desenho 1), por exemplo:\n\n- C (6ª corda, 8º traste)\n- D (5ª corda, 5º traste)\n- E (5ª corda, 7º traste)\n\nMonte uma frase curtinha que **não termine em A**, para ficar um pouco “no ar”, como uma pergunta.\nToque essa frase nos dois primeiros compassos.",
+          "es": "# Paso 2 – Crea la “pregunta”\nUsa pocas notas de la caja 1 de la pentatónica de La menor, por ejemplo:\n\n- C (6ª cuerda, traste 8)\n- D (5ª cuerda, traste 5)\n- E (5ª cuerda, traste 7)\n\nCrea una frase corta que **no termine en A**, para que suene un poco abierta, como una pregunta.\nTócala sobre los dos primeros compases."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Create the “answer”\nNow build a second phrase for the next 2 bars.\nUse a similar rhythm, but **change the ending** so it lands on A:\n\n- A (6th string, 5th fret)\n- or A (4th string, 7th fret)\n\nWhen the phrase resolves to A, it will feel like the answer to your question.",
+          "zh-Hans": "# 第三步 – 做一个“答句”\n现在为后两小节编一个第二个乐句。\n节奏可以和前面的“问句”相似，但要 **换一个结尾**，让它最后落在A上：\n\n- A（第6弦，第5品）\n- 或者 A（第4弦，第7品）\n\n当乐句最后落在A上时，听起来就像问题得到了回答，情绪落地了。",
+          "de": "# Schritt 3 – Die „Antwort“ bauen\nJetzt erstellst du eine zweite Phrase für die nächsten 2 Takte.\nNutze einen ähnlichen Rhythmus, aber **ändere das Ende**, sodass es auf A landet:\n\n- A (6. Saite, 5. Bund)\n- oder A (4. Saite, 7. Bund)\n\nWenn die Phrase auf A auflöst, fühlt es sich so an, als würde sie deine Frage beantworten.",
+          "ja": "# ステップ3 – “答え”のフレーズを作る\nつぎの2小節ぶんのフレーズを作りましょう。\nさっきの“問いかけ”と似たリズムでもかまいませんが、**最後だけ変えて** Aで終わるようにします。\n\n- A（6弦 5フレット）\n- もしくは A（4弦 7フレット）\n\n最後にAに着地すると、「さっきの質問に答えた」という感じで、耳が落ち着きます。",
+          "pt-BR": "# Passo 3 – Crie a “resposta”\nAgora crie uma segunda frase para os dois compassos seguintes.\nUse um ritmo parecido, mas **mude o final** para pousar em A:\n\n- A (6ª corda, 5º traste)\n- ou A (4ª corda, 7º traste)\n\nQuando a frase termina em A, dá a sensação de que ela respondeu à pergunta.",
+          "es": "# Paso 3 – Crea la “respuesta”\nAhora construye una segunda frase para los dos compases siguientes.\nUsa un ritmo similar, pero **cambia el final** para que termine en A:\n\n- A (6ª cuerda, traste 5)\n- o A (4ª cuerda, traste 7)\n\nCuando la frase resuelve en A, se siente como la respuesta a tu pregunta."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Put it together\n1. Play the **question** for 2 bars.\n2. Then play the **answer** for 2 bars.\n3. Leave a tiny bit of space between them – like taking a breath.\n4. Loop the 4-bar cycle several times.\n\nListen to how the two phrases relate, not just to the backing track.",
+          "zh-Hans": "# 把它们连起来\n1. 前两小节弹“问句”乐句。\n2. 后两小节弹“答句”乐句。\n3. 在两者中间留一点点空隙，就像说话时“喘口气”。\n4. 把这四小节循环好几遍。\n\n多注意听这两个乐句之间的关系，而不只是它们和伴奏的关系。",
+          "de": "# Alles zusammenfügen\n1. Spiele die **Frage** über 2 Takte.\n2. Spiele danach die **Antwort** über 2 Takte.\n3. Lass eine kleine Pause dazwischen – wie ein Atemzug in einem Gespräch.\n4. Wiederhole diesen 4-taktigen Ablauf mehrmals.\n\nAchte darauf, wie die beiden Phrasen miteinander „reden“, nicht nur auf den Backing-Track.",
+          "ja": "# つなげて弾いてみる\n1. 最初の2小節で “問いかけ” のフレーズを弾く。\n2. 次の2小節で “答え” のフレーズを弾く。\n3. その間に、会話の“息継ぎ”のような小さな間（ま）を少しだけ入れてみる。\n4. この4小節を、何度かループさせて練習する。\n\nバッキングだけでなく、2つのフレーズ同士が“どう会話しているか”を意識して聴いてみてください。",
+          "pt-BR": "# Juntando tudo\n1. Toque a **pergunta** por 2 compassos.\n2. Depois toque a **resposta** por mais 2 compassos.\n3. Deixe um pequeno espaço entre as duas, como se fosse um respiro.\n4. Repita esse ciclo de 4 compassos várias vezes.\n\nOuça como as duas frases “conversam” entre si, e não só como se encaixam no backing.",
+          "es": "# Júntalo todo\n1. Toca la **pregunta** durante 2 compases.\n2. Luego toca la **respuesta** durante otros 2 compases.\n3. Deja un pequeño espacio entre ambas, como si tomaras aire al hablar.\n4. Repite este ciclo de 4 compases varias veces.\n\nEscucha cómo las dos frases “conversan” entre sí, no solo cómo encajan con el acompañamiento."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this feels natural, cambia tiny things:\n- Start the question on a different beat.\n- Change just the last note of the answer.\n- Make the question busier and the answer simpler.\n\nYou’re already improvising – you’re just doing it in a clear, beginner-friendly way.",
+          "zh-Hans": "当这一切变得自然后，可以开始做一点小变化：\n- 让“问句”从不同的拍子上开始。\n- 只改一改“答句”的最后一个音。\n- 让问句更热闹一点，答句更简单一点。\n\n这时候你已经在做“即兴”了，只是以一种对初学者很友好的方式在进行。",
+          "de": "Wenn sich das natürlich anfühlt, verändere Kleinigkeiten:\n- Lass die Frage auf einer anderen Zählzeit beginnen.\n- Ändere nur den letzten Ton der Antwort.\n- Mach die Frage etwas „voller“ und die Antwort einfacher.\n\nDamit improvisierst du bereits – nur auf eine klare, anfängerfreundliche Art.",
+          "ja": "このやり方に慣れてきたら、少しずつ変化をつけてみましょう：\n- “問いかけ”を、別の拍のタイミングから始めてみる。\n- “答え”の最後の1音だけを変えてみる。\n- 問いかけを少しにぎやかにして、答えをあえてシンプルにしてみる。\n\nこれだけで、もう立派な“即興”になっています。初心者でも扱いやすい形で、ちゃんと自分のフレーズを作れている状態です。",
+          "pt-BR": "Quando isso estiver soando natural, mude pequenos detalhes:\n- Comece a pergunta em outro tempo do compasso.\n- Troque só a última nota da resposta.\n- Deixe a pergunta mais movimentada e a resposta mais simples.\n\nVocê já está improvisando – só que de um jeito claro e amigável para quem está começando.",
+          "es": "Cuando esto se sienta natural, cambia pequeñas cosas:\n- Empieza la pregunta en otro tiempo del compás.\n- Cambia solo la última nota de la respuesta.\n- Haz la pregunta más cargada y la respuesta más sencilla.\n\nYa estás improvisando, solo que de una forma clara y amigable para principiantes."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
+}

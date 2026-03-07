@@ -1,0 +1,59 @@
+[
+  {
+    "id": "guitar-getting-started-scales",
+    "name": {
+      "values": {
+        "en": "Getting Started with Guitar Scales",
+        "zh-Hans": "吉他音阶入门",
+        "de": "Einstieg in Gitarren-Tonleitern",
+        "ja": "ギター・スケール入門",
+        "pt-BR": "Introdução às escalas de guitarra",
+        "es": "Introducción a las escalas de guitarra"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Introductory scales and first shapes for beginners.",
+        "zh-Hans": "适合初学者的入门音阶和第一个指型。",
+        "de": "Einstiegs-Tonleitern und erste Griffbilder für Einsteiger.",
+        "ja": "初心者向けの基本的なスケールと最初のポジション。",
+        "pt-BR": "Escalas introdutórias e primeiros desenhos para iniciantes.",
+        "es": "Escalas introductorias y primeras digitaciones para principiantes."
+      }
+    },
+    "image": {
+      "type": "asset",
+      "name": "guitar_getting_started_scales_section"
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "guitar-simple-practice-routines",
+    "name": {
+      "values": {
+        "en": "Simple Practice Routines",
+        "zh-Hans": "简单练习例程",
+        "de": "Einfache Übungsroutinen",
+        "ja": "シンプルな練習ルーティン",
+        "pt-BR": "Rotinas simples de prática",
+        "es": "Rutinas simples de práctica"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Short practice routines using basic scales.",
+        "zh-Hans": "使用基础音阶的简短练习。",
+        "de": "Kurze Übungsroutinen mit grundlegenden Tonleitern.",
+        "ja": "基本的なスケールを使った短い練習ルーティン。",
+        "pt-BR": "Rotinas curtas de prática usando escalas básicas.",
+        "es": "Rutinas de práctica cortas usando escalas básicas."
+      }
+    },
+    "image": { "type": "asset", "name": "guitar_simple_practice_section" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

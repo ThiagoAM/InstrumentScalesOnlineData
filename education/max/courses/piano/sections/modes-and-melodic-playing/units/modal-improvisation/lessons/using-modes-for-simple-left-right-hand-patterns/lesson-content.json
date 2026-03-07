@@ -1,0 +1,73 @@
+{
+  "id": "using-modes-for-simple-left-right-hand-patterns",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using modes for simple left–right hand patterns\nIn this lesson you’ll use **modes** to build easy, loopable patterns:\n\n- Left hand: a **short repeating groove** (chord or bass)\n- Right hand: a **one-bar modal idea** (scale fragment)\n\nBy repeating these pieces like Lego blocks, you get a simple way to **sound melodic and rhythmic** without thinking about many chord changes.",
+          "zh-Hans": "# 用调式做简单的左右手型\n本课你会用**调式（modes）**来搭建容易循环的弹奏型：\n\n- 左手：一个**短小、重复的律动**（和弦或低音）\n- 右手：一个**一小节的调式小句**（音阶片段）\n\n像拼乐高一样把这些块反复拼接，你就能在不用管太多和弦变化的前提下，弹出既有**旋律感又有节奏感**的东西。",
+          "de": "# Modes für einfache Links-Rechts-Patterns\nIn dieser Lektion verwendest du **Modes**, um einfache, wiederholbare Patterns zu bauen:\n\n- Linke Hand: ein **kurzer wiederholter Groove** (Akkord oder Bassfigur)\n- Rechte Hand: eine **eintaktige modale Idee** (Stück aus der Tonleiter)\n\nIndem du diese Teile wie Bauklötze wiederholst, bekommst du eine einfache Methode, **melodisch und rhythmisch** zu klingen, ohne an viele Akkordwechsel denken zu müssen.",
+          "ja": "# モードを使ったシンプルな左右パターン\nこのレッスンでは、**モード（教会旋法）**を使って、ループしやすいパターンを作ります。\n\n- 左手：**短くて繰り返しやすいグルーヴ**（コードまたはベース）\n- 右手：**1小節ぶんのモーダルなフレーズ**（スケールの一部）\n\nこれらをレゴブロックのように組み合わせて繰り返すことで、難しいコード進行を考えなくても、**メロディとリズムの両方**が感じられる演奏になります。",
+          "pt-BR": "# Usando modos em padrões simples de mão esquerda e direita\nNesta lição você vai usar **modos** para montar padrões fáceis de repetir:\n\n- Mão esquerda: um **groove curto e repetido** (baixo ou acorde)\n- Mão direita: uma **idéia modal de um compasso** (pedacinho da escala)\n\nRepetindo esses blocos como peças de Lego, você ganha um jeito simples de soar **melódico e rítmico** sem ter que pensar em muitos acordes diferentes.",
+          "es": "# Usar modos en patrones simples de mano izquierda y derecha\nEn esta lección vas a usar **modos** para crear patrones fáciles de repetir:\n\n- Mano izquierda: un **groove corto y repetido** (bajo o acorde)\n- Mano derecha: una **idea modal de un compás** (fragmento de escala)\n\nRepitiendo estas piezas como bloques de Lego, tienes una forma sencilla de sonar **melódico y rítmico** sin pensar en muchos cambios de acordes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Pick a mode + chord pair\nChoose one of these to start (all use **only white keys**):\n\n- **C Ionian** over **Cmaj7**  \n  Bright, stable major\n- **D Dorian** over **Dm7**  \n  Minor, but open and hopeful\n- **G Mixolydian** over **G7**  \n  Major with a dominant / bluesy edge\n\nStay on **one pair for a few minutes** before you switch. That’s what makes it feel modal instead of like fast chord changes.",
+          "zh-Hans": "# 第一步 – 先选一个“调式 + 和弦”组合\n先从下面任意一个开始（都只用**白键**）：\n\n- **C Ionian** 配 **Cmaj7**  \n  明亮、稳定的大调\n- **D Dorian** 配 **Dm7**  \n  小调，但比较开阔、有希望感\n- **G Mixolydian** 配 **G7**  \n  大调里带一点属和弦 / blues 的味道\n\n一次先在**同一个组合上待几分钟**再换。这样才更像在弹“调式”，而不是匆忙追着和弦跑。",
+          "de": "# Schritt 1 – Mode-Akkord-Paar wählen\nSuch dir zuerst eines dieser Paare aus (alle nur mit **weißen Tasten**):\n\n- **C Ionian** über **Cmaj7**  \n  Helles, stabiles Dur\n- **D Dorisch** über **Dm7**  \n  Moll, aber offen und hoffnungsvoll\n- **G Mixolydian** über **G7**  \n  Dur mit dominant/bluesiger Kante\n\nBleib jeweils **einige Minuten bei einem Paar**, bevor du wechselst. So fühlt es sich wirklich „modal“ an und nicht wie schnelle Akkordwechsel.",
+          "ja": "# ステップ1 – モード＋コードの組み合わせを決める\nまずは次のどれか1つを選びましょう（どれも**白鍵だけ**で弾けます）：\n\n- **C Ionian** ＋ **Cmaj7**  \n  明るくて安定したメジャー\n- **D Dorian** ＋ **Dm7**  \n  マイナーだけど、少し開放的で前向き\n- **G Mixolydian** ＋ **G7**  \n  メジャー寄りだが、ドミナント／ブルージーな味つき\n\n一度選んだら、**しばらくその1組だけで**続けてみてください。そのほうが、忙しくコードチェンジを追うよりも、しっかり「モードの雰囲気」を感じられます。",
+          "pt-BR": "# Etapa 1 – Escolha um par modo + acorde\nEscolha um destes para começar (todos usam só **teclas brancas**):\n\n- **C Ionian** sobre **Cmaj7**  \n  Maior brilhante e estável\n- **D Dorian** sobre **Dm7**  \n  Menor, mas aberto e esperançoso\n- **G Mixolydian** sobre **G7**  \n  Maior com cara de dominante / blues\n\nFique **alguns minutos em um par só** antes de trocar. Isso ajuda a sentir o clima modal, e não só correr atrás de mudança de acorde.",
+          "es": "# Paso 1 – Elegir un par modo + acorde\nElige uno de estos para empezar (todos usan solo **teclas blancas**):\n\n- **C Ionian** sobre **Cmaj7**  \n  Mayor brillante y estable\n- **D Dorian** sobre **Dm7**  \n  Menor, pero abierto y esperanzador\n- **G Mixolydian** sobre **G7**  \n  Mayor con sabor dominante / blues\n\nQuédate **unos minutos en un solo par** antes de cambiar. Así se siente realmente modal, y no solo como cambios de acordes rápidos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Left-hand pattern\nKeep the left hand simple and **very steady**.\n\nTry one of these patterns for your chosen chord:\n\n1. **Bass + chord stab**  \n   - Beat 1: root in the bass (e.g. C, D or G)  \n   - Beat 2 or “& of 2”: light chord (Cmaj7, Dm7 or G7)\n\n2. **Broken-chord flow**  \n   - Play root–5th–7th–3rd as 8th notes, then repeat\n\n3. **Two-note groove**  \n   - Alternate root and 5th (e.g. G–D–G–D) on beats 1–3\n\nUse **one pattern only** at first so your right hand is free to focus on the mode.",
+          "zh-Hans": "# 第二步 – 左手模式\n左手要尽量简单、**节奏非常稳定**。\n\n对你选的和弦，可以先试这些模式之一：\n\n1. **低音 + 轻和弦**  \n   - 第 1 拍：弹根音（C、D 或 G）  \n   - 第 2 拍或“2 的后半拍”：轻轻弹一下和弦（Cmaj7、Dm7 或 G7）\n\n2. **分解和弦流动**  \n   - 用八分音符依次弹：根音–五度–七度–三度，然后重复\n\n3. **双音律动**  \n   - 在第 1 和第 3 拍交替弹根音和五度（例如 G–D–G–D）\n\n一开始先只用**一种左手模式**，让右手可以专心感受调式。",
+          "de": "# Schritt 2 – Pattern für die linke Hand\nHalte die linke Hand einfach und **sehr gleichmäßig**.\n\nFür deinen gewählten Akkord kannst du eines dieser Patterns ausprobieren:\n\n1. **Bass + Akkordschlag**  \n   - Schlag 1: Grundton im Bass (z. B. C, D oder G)  \n   - Schlag 2 oder „& von 2“: ein leichter Akkord (Cmaj7, Dm7 oder G7)\n\n2. **Gebrochener Akkord**  \n   - Spiele Grundton–Quinte–Septime–Terz als Achtelnoten, dann wiederholen\n\n3. **Zweiton-Groove**  \n   - Wechsle zwischen Grundton und Quinte (z. B. G–D–G–D) auf den Zählzeiten 1 und 3\n\nBleib anfangs bei **nur einem Pattern**, damit die rechte Hand sich auf den Mode konzentrieren kann.",
+          "ja": "# ステップ2 – 左手パターン\n左手はシンプルに、**リズムをカチッと安定させる**ことを優先します。\n\n選んだコードに対して、次のどれかを試してみましょう：\n\n1. **ベース＋軽いコード**  \n   - 1拍目：ベースにルート（C, D, G など）  \n   - 2拍目、または「2の裏」：Cmaj7 / Dm7 / G7 を軽く一度だけ鳴らす\n\n2. **分散和音フロー**  \n   - 8分音符で「ルート→5度→7度→3度」と弾き、くり返す\n\n3. **2音グルーヴ**  \n   - 1拍目と3拍目で、ルートと5度（例：G–D–G–D）を交互に弾く\n\n最初は**左手は1つのパターンだけ**にして、右手がモードに集中できるようにしましょう。",
+          "pt-BR": "# Etapa 2 – Padrão da mão esquerda\nDeixe a mão esquerda simples e **bem constante**.\n\nPara o acorde que você escolheu, experimente um destes padrões:\n\n1. **Baixo + acorde leve**  \n   - Tempo 1: nota fundamental no baixo (C, D ou G)  \n   - Tempo 2 ou “e do 2”: um acorde leve (Cmaj7, Dm7 ou G7)\n\n2. **Fluxo de arpejo**  \n   - Toque fundamental–quinta–sétima–terça em colcheias e repita\n\n3. **Groove de duas notas**  \n   - Alterne fundamental e quinta (ex.: G–D–G–D) nos tempos 1 e 3\n\nNo começo use **apenas um padrão** de mão esquerda, assim a direita pode focar no modo.",
+          "es": "# Paso 2 – Patrón de la mano izquierda\nMantén la mano izquierda simple y **muy estable**.\n\nPara el acorde que elegiste, prueba uno de estos patrones:\n\n1. **Bajo + golpe de acorde**  \n   - Tiempo 1: nota fundamental en el bajo (C, D o G)  \n   - Tiempo 2 o “& de 2”: un acorde suave (Cmaj7, Dm7 o G7)\n\n2. **Arpegio en flujo**  \n   - Toca fundamental–quinta–7ª–3ª en corcheas y repite\n\n3. **Groove de dos notas**  \n   - Alterna fundamental y quinta (ej.: G–D–G–D) en los tiempos 1 y 3\n\nAl principio usa **solo un patrón** en la izquierda, para que la derecha pueda centrarse en el modo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Right-hand modal patterns\nNow build **one-bar patterns** from the mode.\n\nExamples (for any of the three modes):\n\n1. **Straight 4-note climb**  \n   - Degrees: 1–2–3–5–3–2 (e.g. C–D–E–G–E–D in C Ionian)\n\n2. **Skip pattern**  \n   - Degrees: 1–3–2–4–3–5 (small thirds and steps)\n\n3. **Neighbor tone idea**  \n   - Target a chord tone (1, 3, 5 or 7), play **one step above, one step below**, then land on it.\n\nLoop each pattern until it feels boring – then **change only one note or one rhythm detail** and keep going.",
+          "zh-Hans": "# 第三步 – 右手的调式小句\n现在用调式来做**一小节的小句**。\n\n下面的例子可以用在这三个模式里的任意一个：\n\n1. **直接上行四音型**  \n   - 音级：1–2–3–5–3–2（例如在 C Ionian 中：C–D–E–G–E–D）\n\n2. **跳进 + 级进模式**  \n   - 音级：1–3–2–4–3–5（小三度和级进交替）\n\n3. **邻音句型**  \n   - 先选一个和弦音（1、3、5 或 7），弹**上方一级、下方一级**，再落回这个和弦音。\n\n让每个小句循环到有点无聊为止，再**只改一个音或者一个节奏细节**，继续玩下去。",
+          "de": "# Schritt 3 – Modale Patterns für die rechte Hand\nJetzt baust du **eintaktige Patterns** aus dem Mode.\n\nBeispiele (für jeden der drei Modes geeignet):\n\n1. **Gerade 4-Ton-Aufwärtsfigur**  \n   - Stufen: 1–2–3–5–3–2 (z. B. C–D–E–G–E–D in C Ionian)\n\n2. **Sprung-Pattern**  \n   - Stufen: 1–3–2–4–3–5 (kleine Terzen und Schritte)\n\n3. **Nebenton-Idee**  \n   - Such dir einen Akkordton (1, 3, 5 oder 7), spiel **einen Ton darüber, einen darunter** und lande dann auf dem Akkordton.\n\nLoop jedes Pattern so lange, bis es langweilig wird – dann **ändere nur eine Note oder ein kleines Rhythmusdetail** und mach weiter.",
+          "ja": "# ステップ3 – 右手のモーダル・パターン\nここからは、モードを使って**1小節のパターン**を作ります。\n\n以下の例は、どのモード（C Ionian / D Dorian / G Mixolydian）でも使えます：\n\n1. **まっすぐ4音上行**  \n   - 度数：1–2–3–5–3–2（例：C Ionian なら C–D–E–G–E–D）\n\n2. **スキップ・パターン**  \n   - 度数：1–3–2–4–3–5（小3度とステップの組み合わせ）\n\n3. **近接音（ネイバー・トーン）のアイデア**  \n   - コードトーン（1, 3, 5, 7）を1つ決めて、その**上の音→下の音→ターゲット**という順に弾く。\n\nそれぞれのパターンを、飽きてくるまでループさせてから、**音を1つだけ変える／リズムを少しずらす**といった小さな変化をつけて続けてみましょう。",
+          "pt-BR": "# Etapa 3 – Padrões modais na mão direita\nAgora crie **padrões de um compasso** usando o modo.\n\nExemplos (valem para qualquer um dos três modos):\n\n1. **Subida simples de 4 notas**  \n   - Graus: 1–2–3–5–3–2 (ex.: C–D–E–G–E–D em C Ionian)\n\n2. **Padrão com saltos**  \n   - Graus: 1–3–2–4–3–5 (mistura de terças pequenas e graus conjuntos)\n\n3. **Ideia com notas vizinhas**  \n   - Escolha uma nota do acorde (1, 3, 5 ou 7) e toque **um grau acima, um abaixo** e depois caia nela.\n\nDeixe cada padrão em loop até começar a ficar chato – aí **mude só uma nota ou um detalhe rítmico** e continue.",
+          "es": "# Paso 3 – Patrones modales en la mano derecha\nAhora vas a crear **patrones de un compás** a partir del modo.\n\nEjemplos (sirven para cualquiera de los tres modos):\n\n1. **Subida simple de 4 notas**  \n   - Grados: 1–2–3–5–3–2 (ej.: C–D–E–G–E–D en C Ionian)\n\n2. **Patrón con saltos**  \n   - Grados: 1–3–2–4–3–5 (terceras pequeñas y pasos conjuntos)\n\n3. **Idea de notas vecinas**  \n   - Elige una nota de acorde (1, 3, 5 o 7) y toca **un grado arriba, uno abajo** y luego cae en ella.\n\nRepite cada patrón en bucle hasta que se vuelva aburrido; entonces **cambia solo una nota o un detalle rítmico** y sigue tocando."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Pick **one mode + chord pair** and **one left-hand pattern**.\n2. Choose **one right-hand pattern** and loop it for 1–2 minutes without stopping.\n3. Change only the **starting note** (still inside the mode) and feel how the color shifts while the chord stays the same.\n4. Switch to a second mode (e.g. from C Ionian to D Dorian) and repeat the same left- and right-hand patterns.\n\nIf the patterns still feel musical after many repeats, you’re using modes the right way: as a **sound and groove**, not just as a scale exercise.",
+          "zh-Hans": "## 快速练习\n1. 先选好**一个“调式 + 和弦”组合**和**一个左手模式**。\n2. 再选一个**右手小句**，连续循环 1–2 分钟，中途不要停。\n3. 只改右手的**起始音**（仍然在同一个调式里），感受在和弦不变的情况下，色彩是怎么变化的。\n4. 换到第二个调式（例如从 C Ionian 换到 D Dorian），但先用**同样的左右手模式**再做一遍。\n\n当这些模式重复很多次听起来还是像音乐，而不是枯燥练习时，说明你在用“调式”作为一种**声音和律动**，而不只是当作音阶来跑。",
+          "de": "## Kurze Übung\n1. Wähle **ein Mode-Akkord-Paar** und **ein linkes Hand-Pattern**.\n2. Such dir **ein rechtes Hand-Pattern** aus und loop es 1–2 Minuten ohne zu stoppen.\n3. Ändere nur den **Startton** (bleib im selben Mode) und spüre, wie sich die Farbe verändert, obwohl der Akkord gleich bleibt.\n4. Wechsle zu einem zweiten Mode (z. B. von C Ionian zu D Dorisch) und wiederhole dieselben Links-/Rechts-Patterns.\n\nWenn sich die Patterns auch nach vielen Wiederholungen noch musikalisch anfühlen, nutzt du Modes genau richtig – als **Klang und Groove**, nicht nur als Tonleiterübung.",
+          "ja": "## かんたん練習\n1. **モード＋コードの組み合わせ**を1つと、**左手パターン**を1つ決めます。\n2. **右手パターン**を1つ選び、止まらずに1〜2分ループさせます。\n3. 右手の**出だしの音だけ**を変えてみてください（モードの中で）。コードは同じなのに、色合いが変わるのを感じてみましょう。\n4. 別のモードに切り替えます（例：C Ionian → D Dorian）ただし、左右のパターン自体は同じにして、もう一度試します。\n\n何度くり返しても“練習”というより**音楽のフレーズとグルーヴ**に聞こえていれば、モードをいい使い方で活かせているサインです。",
+          "pt-BR": "## Prática rápida\n1. Escolha **um par modo + acorde** e **um padrão de mão esquerda**.\n2. Pegue **um padrão de mão direita** e deixe em loop por 1–2 minutos sem parar.\n3. Mude apenas a **nota de início** (sempre dentro do modo) e sinta como a cor muda mesmo com o acorde igual.\n4. Troque para um segundo modo (ex.: de C Ionian para D Dorian) e repita os mesmos padrões de mão esquerda e direita.\n\nSe depois de muitas repetições os padrões ainda soarem musicais, é porque você está usando o modo do jeito certo: como **som e groove**, não só como exercício de escala.",
+          "es": "## Práctica rápida\n1. Elige **un par modo + acorde** y **un patrón de mano izquierda**.\n2. Toma **un patrón de mano derecha** y repítelo en bucle 1–2 minutos sin parar.\n3. Cambia solo la **nota de inicio** (siempre dentro del modo) y siente cómo cambia el color aunque el acorde siga igual.\n4. Cambia a un segundo modo (por ejemplo, de C Ionian a D Dorian) y repite los mismos patrones de mano izquierda y derecha.\n\nSi después de muchas repeticiones los patrones siguen sonando musicales, estás usando el modo de la forma correcta: como **sonido y groove**, no solo como un ejercicio de escala."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

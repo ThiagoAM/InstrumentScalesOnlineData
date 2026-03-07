@@ -1,0 +1,86 @@
+{
+  "id": "dorian-for-funk-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Dorian for funk grooves\nDorian is the **“funky minor”** sound. It’s a minor scale with a **natural 6th**, and that note gives a lot of classic funk lines their flavor.\n\nIn this lesson you’ll:\n- Hear how Dorian differs from natural minor\n- Learn a **D Dorian** pattern on the neck\n- Build a few **simple funk grooves** using the 6th and b7\n\nWe’ll keep it short and very playable, so you can drop it into real bass lines fast.",
+          "zh-Hans": "# 用 Dorian 模式做放克律动\nDorian（多利亚）可以理解成一种**“带点爵士味的自然小调”**，它最大的特点是有一个**自然 6 度音**，很多经典放克贝斯线就是靠这个 6 度味道支撑起来的。\n\n本课你会：\n- 听出 Dorian 和自然小调的区别\n- 学一个在指板上的 **D Dorian** 指型\n- 用 6 度和 b7 做几个简单的**放克 groove**\n\n内容会保持精简、好上手，方便你马上塞进真实贝斯线里用。",
+          "de": "# Dorian für Funk-Grooves\nDorian ist der **„funkige Moll“-Sound**. Es ist eine Mollskala mit einer **großen Sexte**, und genau diese Note gibt vielen klassischen Funk-Linien ihren Charakter.\n\nIn dieser Lektion wirst du:\n- Hören, wie sich Dorian von der natürlichen Molltonleiter unterscheidet\n- Ein **D-Dorisch**-Pattern auf dem Griffbrett lernen\n- Ein paar **einfache Funk-Grooves** mit Sexte und kleiner Septime bauen\n\nDie Ideen bleiben kurz und spielbar, damit du sie schnell in echte Basslinien einbauen kannst.",
+          "ja": "# ファンク・グルーヴのためのドリアン\nドリアンは、よく「**ファンキーなマイナー**」と言われるサウンドです。マイナー・スケールなのに **ナチュラル6度** を持っていて、この6度が多くのファンク・ラインの味になっています。\n\nこのレッスンでは：\n- ドリアンがナチュラル・マイナーとどう違うかを確認する\n- 指板上の **Dドリアン** の形を覚える\n- 6度と♭7を使った**シンプルなファンク・グルーヴ**を作る\n\n短くて実戦向きの内容なので、そのまま本番のベースラインに使えるようにしていきます。",
+          "pt-BR": "# Dórico para grooves de funk\nO modo dórico é o **“menor com cara de funk”**. É uma escala menor com **sexta maior**, e essa nota é a responsável pelo tempero de muitos grooves clássicos.\n\nNesta lição você vai:\n- Entender o que muda do dórico para o menor natural\n- Aprender um desenho de **D dórico** no braço\n- Montar alguns **grooves simples de funk** usando a 6ª e a b7\n\nA ideia é ser direto e tocável, pra você colocar esse som no repertório bem rápido.",
+          "es": "# Dórico para grooves de funk\nEl dórico es el **“menor con sabor funky”**. Es una escala menor con **sexta mayor**, y esa nota le da a muchas líneas clásicas de funk su carácter.\n\nEn esta lección vas a:\n- Oír en qué se diferencia el dórico del menor natural\n- Aprender un patrón de **Re dórico (D Dorian)** en el mástil\n- Construir algunos **grooves sencillos de funk** usando la 6ª y la ♭7\n\nTodo será corto y muy tocable, para que puedas meter este sonido en tus líneas de bajo enseguida."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What is Dorian?\nDorian is the **second mode** of the major scale.\n\nFormula (relative to the root):\n- 1 – 2 – ♭3 – 4 – 5 – 6 – ♭7\n\nCompare with natural minor (Aeolian):\n- Natural minor has **♭6**\n- Dorian has **natural 6**\n\nSo for **D Dorian** (from C major): D–E–F–G–A–B–C.  \nKey “funk” notes for bass lines: **D (1), F (♭3), A (5), B (6), C (♭7)**.",
+          "zh-Hans": "# 什么是 Dorian？\nDorian 是大调音阶的**第二顺阶模式**。\n\n从根音数的公式：\n- 1 – 2 – ♭3 – 4 – 5 – 6 – ♭7\n\n和自然小调对比：\n- 自然小调有 **♭6**\n- Dorian 用的是 **自然 6**\n\n以 **D Dorian** 为例（来自 C 大调）：D–E–F–G–A–B–C。  \n对贝斯 groove 特别关键的音有：**D (1)、F (♭3)、A (5)、B (6)、C (♭7)**。",
+          "de": "# Was ist Dorian?\nDorian ist der **zweite Modus** der Durtonleiter.\n\nFormel (vom Grundton aus gedacht):\n- 1 – 2 – ♭3 – 4 – 5 – 6 – ♭7\n\nVergleich mit natürlichem Moll (Äolisch):\n- Natürliches Moll hat eine **kleine Sexte (♭6)**\n- Dorian hat eine **große Sexte (6)**\n\nFür **D-Dorisch** (abgeleitet von C-Dur): D–E–F–G–A–B–C.  \nWichtige „Funk“-Töne im Bass: **D (1), F (♭3), A (5), B (6), C (♭7)**.",
+          "ja": "# ドリアンって何？\nドリアンはメジャー・スケールの**第2モード**です。\n\nルートから見た度数の並び：\n- 1 – 2 – ♭3 – 4 – 5 – 6 – ♭7\n\nナチュラル・マイナー（エオリアン）との違い：\n- ナチュラル・マイナーは **♭6**\n- ドリアンは **ナチュラル6**\n\n**Dドリアン**（Cメジャー由来）の音：D–E–F–G–A–B–C。  \nベース的に“ファンク感”が出やすい音は、**D (1), F (♭3), A (5), B (6), C (♭7)** あたりです。",
+          "pt-BR": "# O que é o dórico?\nO dórico é o **segundo modo** da escala maior.\n\nFórmula (a partir da tônica):\n- 1 – 2 – ♭3 – 4 – 5 – 6 – ♭7\n\nComparando com o menor natural (eólio):\n- Menor natural tem **♭6**\n- Dórico tem **6 natural**\n\nNo **D dórico** (derivado de Dó maior) as notas são: D–E–F–G–A–B–C.  \nPra groove de baixo, pense especialmente em: **D (1), F (♭3), A (5), B (6), C (♭7)**.",
+          "es": "# ¿Qué es el dórico?\nEl dórico es el **segundo modo** de la escala mayor.\n\nFórmula (desde la tónica):\n- 1 – 2 – ♭3 – 4 – 5 – 6 – ♭7\n\nComparado con el menor natural (eolio):\n- El menor natural tiene **♭6**\n- El dórico tiene **6 natural**\n\nEn **Re dórico (D Dorian)**, derivado de Do mayor: D–E–F–G–A–B–C.  \nPara grooves de bajo, las notas clave son: **D (1), F (♭3), A (5), B (6), C (♭7)**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# D Dorian pattern on the neck\n4-string bass in E–A–D–G. We’ll center the hand around **5th–7th fret**.\n\nPlay this D Dorian pattern up and down (D–E–F–G–A–B–C–D):\n\n- **A string**  \n  - 5th fret – **D** (1)  \n  - 7th fret – **E** (2)\n- **D string**  \n  - 3rd fret – **F** (♭3)  \n  - 5th fret – **G** (4)  \n  - 7th fret – **A** (5)\n- **G string**  \n  - 4th fret – **B** (6)  \n  - 5th fret – **C** (♭7)  \n  - 7th fret – **D** (1)\n\nUse **1–3–4** or **1–2–4** as needed. Don’t rush: lock in the sound of the 6 (**B**) against the minor feel.",
+          "zh-Hans": "# 指板上的 D Dorian 指型\n4 弦贝斯，E–A–D–G 定弦。我们把左手放在 **第 5–7 品附近**。\n\n上下弹这个 D Dorian 指型（D–E–F–G–A–B–C–D）：\n\n- **A 弦**  \n  - 第 5 品 – **D** (1)  \n  - 第 7 品 – **E** (2)\n- **D 弦**  \n  - 第 3 品 – **F** (♭3)  \n  - 第 5 品 – **G** (4)  \n  - 第 7 品 – **A** (5)\n- **G 弦**  \n  - 第 4 品 – **B** (6)  \n  - 第 5 品 – **C** (♭7)  \n  - 第 7 品 – **D** (1)\n\n根据手型用 **1–3–4** 或 **1–2–4** 都可以。别急着加速，先把那个带点明亮感的 6（**B**）和整体小调味道的对比听清楚。",
+          "de": "# D-Dorisch-Pattern auf dem Griffbrett\n4-saitiger Bass, E–A–D–G. Die Hand sitzt etwa im Bereich **5.–7. Bund**.\n\nSpiele dieses D-Dorisch-Pattern (D–E–F–G–A–B–C–D) auf- und abwärts:\n\n- **A-Saite**  \n  - 5. Bund – **D** (1)  \n  - 7. Bund – **E** (2)\n- **D-Saite**  \n  - 3. Bund – **F** (♭3)  \n  - 5. Bund – **G** (4)  \n  - 7. Bund – **A** (5)\n- **G-Saite**  \n  - 4. Bund – **B** (6)  \n  - 5. Bund – **C** (♭7)  \n  - 7. Bund – **D** (1)\n\nNutze je nach Handform **1–3–4** oder **1–2–4**. Lass dir Zeit und hör bewusst, wie die **große Sexte B** in den sonst molligen Klang hineinleuchtet.",
+          "ja": "# 指板上のDドリアン・パターン\n4弦ベース（E–A–D–G）。左手は**5〜7フレット**あたりに置きます。\n\nこのDドリアンの並び（D–E–F–G–A–B–C–D）を上下に弾きましょう：\n\n- **A弦**  \n  - 5フレット – **D** (1)  \n  - 7フレット – **E** (2)\n- **D弦**  \n  - 3フレット – **F** (♭3)  \n  - 5フレット – **G** (4)  \n  - 7フレット – **A** (5)\n- **G弦**  \n  - 4フレット – **B** (6)  \n  - 5フレット – **C** (♭7)  \n  - 7フレット – **D** (1)\n\n指づかいは **1–3–4** や **1–2–4** を使い分けてOK。急がず、マイナー感の中で**6度のBだけ少し明るく響く感じ**を耳でつかみましょう。",
+          "pt-BR": "# Desenho de D dórico no braço\nBaixo de 4 cordas (E–A–D–G). Vamos centralizar a mão entre as casas **5 e 7**.\n\nToque esse desenho de D dórico (D–E–F–G–A–B–C–D) subindo e descendo:\n\n- **Corda A**  \n  - Casa 5 – **D** (1)  \n  - Casa 7 – **E** (2)\n- **Corda D**  \n  - Casa 3 – **F** (♭3)  \n  - Casa 5 – **G** (4)  \n  - Casa 7 – **A** (5)\n- **Corda G**  \n  - Casa 4 – **B** (6)  \n  - Casa 5 – **C** (♭7)  \n  - Casa 7 – **D** (1)\n\nUse **1–3–4** ou **1–2–4**, o que ficar mais confortável. Não tenha pressa: preste atenção em como a **6 (B)** dá uma claridade diferente dentro do clima de menor.",
+          "es": "# Patrón de Re dórico en el mástil\nBajo de 4 cuerdas (E–A–D–G). Centramos la mano entre los trastes **5 y 7**.\n\nToca este patrón de Re dórico (D–E–F–G–A–B–C–D) subiendo y bajando:\n\n- **Cuerda A**  \n  - Traste 5 – **D** (1)  \n  - Traste 7 – **E** (2)\n- **Cuerda D**  \n  - Traste 3 – **F** (♭3)  \n  - Traste 5 – **G** (4)  \n  - Traste 7 – **A** (5)\n- **Cuerda G**  \n  - Traste 4 – **B** (6)  \n  - Traste 5 – **C** (♭7)  \n  - Traste 7 – **D** (1)\n\nPuedes usar **1–3–4** o **1–2–4** según la comodidad. No corras: escucha cómo la **6 (B)** se siente un poco más brillante dentro del color menor general."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Funk groove idea 1 – Root, b3, 6, b7\nKey: D Dorian. Think **one bar of 16th-note funk** in 4/4.\n\nTry this spoken rhythm first: “1 e & a 2 e & a 3 e & a 4 e & a”.  \nNow play:\n\n- Beat 1: **D (root)** – A string, 5th fret\n- Beat 2 “&”: **F (♭3)** – D string, 3rd fret\n- Beat 3: **B (6)** – G string, 4th fret\n- Beat 4 “&”: **C (♭7)** – G string, 5th fret\n\nLeave **small rests** and add a few **light ghost notes** (muted plucks) between hits to make it feel tight and funky.",
+          "zh-Hans": "# 放克 groove 思路 1 —— 根音、♭3、6、♭7\n调性：D Dorian。想象在 4/4 拍里有一小节 **十六分音符的放克节奏**。\n\n先嘴里默数节奏：“1 e & a 2 e & a 3 e & a 4 e & a”。  \n然后这样弹：\n\n- 第 1 拍：**D（根音）** —— A 弦第 5 品\n- 第 2 拍的“&”：**F（♭3）** —— D 弦第 3 品\n- 第 3 拍：**B（6）** —— G 弦第 4 品\n- 第 4 拍的“&”：**C（♭7）** —— G 弦第 5 品\n\n中间留出一些**很短的小休止**，再在间隙加几下**轻轻闷音（ghost note）**，整个 groove 会更紧、更有放克味。",
+          "de": "# Funk-Groove-Idee 1 – Grundton, ♭3, 6, ♭7\nTonart: D-Dorisch. Denk dir **einen 4/4-Takt mit 16tel-Funk-Feeling**.\n\nSprich den Rhythmus zuerst: „1 e & a 2 e & a 3 e & a 4 e & a“.  \nDann spiel:\n\n- Schlag 1: **D (Grundton)** – A-Saite, 5. Bund\n- Schlag 2 „&“: **F (♭3)** – D-Saite, 3. Bund\n- Schlag 3: **B (6)** – G-Saite, 4. Bund\n- Schlag 4 „&“: **C (♭7)** – G-Saite, 5. Bund\n\nLass kleine **Pausen** und füge dazwischen ein paar **Ghost Notes** (abgedämpfte Anschläge) ein, damit der Groove schön eng und funky wirkt.",
+          "ja": "# ファンク・グルーヴ案1 – ルート、♭3、6、♭7\nキー：Dドリアン。4/4拍の中で、**16分ノリの1小節ファンク**をイメージします。\n\nまず口でリズムを言ってみましょう：「1 e & a 2 e & a 3 e & a 4 e & a」。  \nそれから次のように弾きます：\n\n- 拍1：**D（ルート）** – A弦5フレット\n- 拍2の「&」：**F（♭3）** – D弦3フレット\n- 拍3：**B（6）** – G弦4フレット\n- 拍4の「&」：**C（♭7）** – G弦5フレット\n\n音と音の間に**短い休符**を入れて、すき間に**軽いゴーストノート（ミュート音）**を少し混ぜると、一気にタイトでファンキーな感じになります。",
+          "pt-BR": "# Ideia de groove 1 – tônica, ♭3, 6, ♭7\nTonalidade: D dórico. Pense em **um compasso de 4/4 com subdivisão em semicolcheias**.\n\nFale o ritmo antes: “1 e & a 2 e & a 3 e & a 4 e & a”.  \nDepois toque:\n\n- Tempo 1: **D (tônica)** – corda A, casa 5\n- Tempo 2 no “&”: **F (♭3)** – corda D, casa 3\n- Tempo 3: **B (6)** – corda G, casa 4\n- Tempo 4 no “&”: **C (♭7)** – corda G, casa 5\n\nDeixe **pequenos espaços** em branco e coloque algumas **ghost notes** (notas abafadas) entre os ataques pra deixar o groove mais apertado e funk.",
+          "es": "# Idea de groove 1 – tónica, ♭3, 6, ♭7\nTonalidad: Re dórico. Piensa en **un compás de 4/4 con subdivisión en semicorcheas**.\n\nPrimero habla el ritmo: “1 e & a 2 e & a 3 e & a 4 e & a”.  \nLuego toca:\n\n- Tiempo 1: **D (tónica)** – cuerda A, traste 5\n- Tiempo 2 en el “&”: **F (♭3)** – cuerda D, traste 3\n- Tiempo 3: **B (6)** – cuerda G, traste 4\n- Tiempo 4 en el “&”: **C (♭7)** – cuerda G, traste 5\n\nDeja **pequeños silencios** y mete algunas **ghost notes** (notas apagadas) entre los golpes para que el groove se sienta apretado y bien funky."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Funk groove idea 2 – Root/5th with Dorian color\nHere we keep a simple **root–5th funk pump** and drop in Dorian color notes.\n\nPlay in 4/4, mostly 8th-notes:\n\n- Bar 1: **D – A – D – A** (root–5th)  \n- Bar 2: **D – F – B – C** (1 – ♭3 – 6 – ♭7)  \n- Repeat\n\nFeel how bar 2 suddenly sounds more **modern and jazzy** than a normal minor line, mainly because of the **B (6)**.",
+          "zh-Hans": "# 放克 groove 思路 2 —— 根音/五度 + Dorian 色彩\n这次我们用很简单的 **根音 + 五度“踩踏”型**，中间插入 Dorian 的关键色彩音。\n\n4/4 拍，主要用八分音符：\n\n- 第 1 小节：**D – A – D – A**（根音–五度）  \n- 第 2 小节：**D – F – B – C**（1 – ♭3 – 6 – ♭7）  \n- 然后循环\n\n你会感觉第 2 小节一下子变得更**现代、更偏爵士**，核心原因就是那颗 **B（6 度）**。",
+          "de": "# Funk-Groove-Idee 2 – Grundton/Quinte mit dorischer Farbe\nHier bleibt die Basis ein einfacher **Grundton–Quinte-Funkpuls**, und wir streuen Dorian-Farbtöne ein.\n\nSpiele im 4/4, überwiegend Achtelnoten:\n\n- Takt 1: **D – A – D – A** (Grundton–Quinte)  \n- Takt 2: **D – F – B – C** (1 – ♭3 – 6 – ♭7)  \n- Dann wiederholen\n\nDu wirst merken, dass Takt 2 deutlich **moderner und jazziger** klingt als eine normale Moll-Linie – hauptsächlich wegen des **B (6)**.",
+          "ja": "# ファンク・グルーヴ案2 – ルート/5度＋ドリアンの色\nここでは、基本はシンプルな**ルート＋5度の“ドンドン”パターン**にして、その間にドリアンの色となる音を入れます。\n\n4/4拍で、メインは8分音符：\n\n- 1小節目：**D – A – D – A**（ルート–5度）  \n- 2小節目：**D – F – B – C**（1 – ♭3 – 6 – ♭7）  \n- そのままループ\n\n2小節目だけ急に**モダンでちょっとジャジー**に聞こえるのは、ほぼ**6度のB**のおかげです。",
+          "pt-BR": "# Ideia de groove 2 – tônica/quinta com cor dórica\nAqui a base é um **vai-e-volta de tônica com quinta**, bem simples, e a cor vem das notas do dórico.\n\nEm 4/4, principalmente em colcheias:\n\n- Compasso 1: **D – A – D – A** (tônica–quinta)  \n- Compasso 2: **D – F – B – C** (1 – ♭3 – 6 – ♭7)  \n- Depois é só repetir\n\nPerceba como o 2º compasso soa mais **moderno e meio “fusion”** do que um menor comum, principalmente por causa do **B (6)**.",
+          "es": "# Idea de groove 2 – tónica/quinta con color dórico\nAquí la base es un **vaivén de tónica y quinta** bien simple, y el color viene de las notas características del dórico.\n\nEn 4/4, sobre todo en corcheas:\n\n- Compás 1: **D – A – D – A** (tónica–quinta)  \n- Compás 2: **D – F – B – C** (1 – ♭3 – 6 – ♭7)  \n- Después repites\n\nNotarás que el compás 2 suena más **moderno y algo jazzy** que una línea menor normal, sobre todo por el **B (6)**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Loop a **Dm7 vamp** (or just a D on the keyboard/guitar) and stay on D Dorian\n- Isolate the sound of the **6 (B)**: play D–B–C–B slowly and feel the tension/release\n- Create your own 1–2 bar riffs using only **D, F, A, B, C**\n- Record a short jam and listen back: does it sound like **funky minor** rather than sad minor?\n\nOnce D Dorian feels natural under your fingers, move the exact same idea up two frets for **E Dorian** – another classic funk key.",
+          "zh-Hans": "# 练习建议\n- 弹循环和弦 **Dm7 vamp**（或者让键盘/吉他一直按一个 D），在上面只用 D Dorian 即可\n- 单独体验 **6 度（B）** 的味道：慢速弹 D–B–C–B，感受紧张和释放\n- 尝试只用 **D、F、A、B、C** 自己编 1–2 小节的小 riff\n- 录一段即兴回放听听：听起来是不是**带点 funk 味的小调**，而不是单纯伤感小调？\n\n当 D Dorian 在手上变得自然之后，把整个想法整体上移两品，变成 **E Dorian** —— 也是非常常见的放克调性。",
+          "de": "# Übetipps\n- Lege dir ein **Dm7-Vamp** (oder einfach ein langes D auf Keys/Gitarre) und bleib darüber in D-Dorisch\n- Isoliere den Klang der **großen Sexte (B)**: spiele langsam D–B–C–B und spüre Spannung und Auflösung\n- Baue eigene 1–2-taktige Riffs nur mit **D, F, A, B, C**\n- Nimm eine kleine Jam auf und hör sie dir an: klingt es nach **funkigem Moll** statt nach traurigem Moll?\n\nWenn sich D-Dorisch selbstverständlich anfühlt, verschiebe die Idee zwei Bünde nach oben zu **E-Dorisch** – einer weiteren Klassiker-Tonart im Funk.",
+          "ja": "# 練習のヒント\n- バッキングに**Dm7のバンプ**（またはキーボード/ギターでDを伸ばしっぱなし）を用意して、その上でDドリアンだけ使ってみる\n- **6度（B）** の響きを単独で確認：D–B–C–B をゆっくり弾き、緊張と解決の感じを味わう\n- **D, F, A, B, C** だけを使って、1〜2小節のオリジナル・リフを作ってみる\n- 少し録音して聴き返す：ただの“暗いマイナー”ではなく、**ファンキーなマイナー**に聞こえているかチェック\n\nDドリアンが手になじんできたら、そのまま形を2フレット上にずらして **Eドリアン** でも試してみましょう。これもファンクでは定番のキーです。",
+          "pt-BR": "# Dicas de estudo\n- Faça um **vamp em Dm7** (ou só deixe um D soando no teclado/violão) e fique explorando o D dórico por cima\n- Isole o som da **6 (B)**: toque devagar D–B–C–B e sinta a tensão e a volta\n- Crie riffs de 1–2 compassos usando só **D, F, A, B, C**\n- Grave uma jam curtinha e ouça: está soando como um **menor com pegada funk** ou como menor “triste” comum?\n\nQuando o D dórico estiver natural na mão, suba o mesmo desenho duas casas e experimente **E dórico** – outra tonalidade super comum no funk.",
+          "es": "# Consejos de práctica\n- Haz un **vamp en Dm7** (o simplemente mantén un Re en teclado/guitarra) y quédate en Re dórico encima\n- Aísla el sonido de la **6 (B)**: toca lento D–B–C–B y siente la tensión y la resolución\n- Crea riffs de 1–2 compases usando sólo **D, F, A, B, C**\n- Graba una pequeña improvisación y escucha: ¿suena a **menor con sabor funk** o a menor triste normal?\n\nCuando Re dórico se sienta natural en los dedos, mueve la misma idea dos trastes arriba para **Mi dórico (E Dorian)**, otra tonalidad muy usada en el funk."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

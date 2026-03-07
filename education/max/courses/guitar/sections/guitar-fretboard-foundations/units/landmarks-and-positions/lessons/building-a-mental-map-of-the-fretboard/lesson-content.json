@@ -1,0 +1,73 @@
+{
+  "id": "building-a-mental-map-of-the-fretboard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Building a mental map of the fretboard\nInstead of memorizing every note one by one, you’ll build a **simple mental map** using:\n\n- Landmarks (like 3rd, 5th, 7th, 12th frets)\n- String relationships and octaves\n- Small daily drills\n\nThe goal isn’t to know *all* notes instantly. The goal is: **“Where am I, and what’s nearby?”**",
+          "zh-Hans": "# 建立指板的“心中地图”\n与其一个一个去死记每个音，不如用一种更简单的方法，搭一张**指板心中地图**：\n\n- 地标位置（比如第3、5、7、12品）\n- 弦与弦之间的关系和八度形状\n- 每天一点点的小练习\n\n目标不是立刻认出**所有**音，而是能随时回答：**“我现在在什么位置，附近有什么？”**",
+          "de": "# Eine mentale Karte des Griffbretts aufbauen\nAnstatt jeden einzelnen Ton auswendig zu lernen, baust du dir eine **einfache mentale Karte** mit:\n\n- Orientierungspunkten (z.B. 3., 5., 7., 12. Bund)\n- Saitenbeziehungen und Oktaven\n- Kleinen täglichen Übungen\n\nDas Ziel ist nicht, *alle* Töne sofort zu wissen, sondern: **„Wo bin ich, und was liegt in der Nähe?“**",
+          "ja": "# 指板の“頭の中の地図”を作る\n1音ずつ全部を丸暗記する代わりに、次の要素を使って**シンプルな指板マップ**を作っていきます。\n\n- 3・5・7・12フレットなどの“目印”\n- 弦どうしの関係とオクターブの形\n- 毎日のちょっとしたドリル\n\nゴールは「全部の音を一瞬で当てる」ことではなく、**「今どこにいて、その周りに何があるか分かる」**ことです。",
+          "pt-BR": "# Construindo um mapa mental do braço\nEm vez de decorar cada nota isolada, você vai montar um **mapa mental simples** usando:\n\n- Marcos (3º, 5º, 7º, 12º trastes…)\n- Relação entre as cordas e oitavas\n- Pequenos exercícios diários\n\nO objetivo não é saber **todas** as notas na hora, e sim conseguir responder: **“Onde eu estou e o que tem perto?”**",
+          "es": "# Construyendo un mapa mental del diapasón\nEn lugar de memorizar cada nota una por una, vas a crear un **mapa mental sencillo** usando:\n\n- Puntos de referencia (trastes 3, 5, 7, 12…)\n- Relaciones entre cuerdas y octavas\n- Pequeñas rutinas diarias\n\nLa idea no es saber **todas** las notas al instante, sino poder responder: **“¿Dónde estoy y qué hay cerca?”**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 1. Start from your landmarks\nUse the landmarks you’ve already learned (on low E, A, etc.) as anchors:\n\n- Pick one string\n- Find its key frets (3rd, 5th, 7th, 12th)\n- Say the **note names** out loud\n\nIf you ever feel lost, don’t guess randomly. First, jump to the **nearest landmark** you know, then count up or down from there.",
+          "zh-Hans": "# 1. 从地标出发\n把你已经学过的那些地标（低音E弦、A弦等）当成“锚点”：\n\n- 先选一根弦\n- 找到它的关键品位（第3、5、7、12品）\n- 把这些位置上的**音名念出来**\n\n一旦迷路，不要随便猜。先跳回最近一个**你认识的地标**，再从那里往上或往下数。",
+          "de": "# 1. Von deinen Orientierungspunkten ausgehen\nNutze die Landmarken, die du schon kennst (auf der tiefen E-Saite, A-Saite usw.), als Anker:\n\n- Such dir eine Saite aus\n- Finde ihre wichtigen Bünde (3., 5., 7., 12.)\n- Sprich die **Notennamen** laut aus\n\nWenn du dich verirrst, rate nicht wild. Spring zuerst zu einem **bekannten Orientierungspunkt** und zähle von dort hoch oder runter.",
+          "ja": "# 1. まずは“目印”から考える\nこれまでに覚えた6弦や5弦の目印を、まず**アンカー**として使います。\n\n- どれか1本の弦を選ぶ\n- その弦の3・5・7・12フレットを押さえる\n- それぞれの**音名を声に出して言う**\n\n迷子になったときはテキトーに当てずっぽうで弾くのではなく、いったん一番近い**知っている目印**に戻って、そこから上か下へ数えていきましょう。",
+          "pt-BR": "# 1. Comece pelos seus marcos\nUse os marcos que você já aprendeu (na E grave, na A, etc.) como âncoras:\n\n- Escolha uma corda\n- Encontre os trastes-chave (3, 5, 7, 12)\n- Fale em voz alta os **nomes das notas**\n\nSe se perder, não saia chutando. Volte para o **marco mais próximo que você conhece** e conte a partir dele para cima ou para baixo.",
+          "es": "# 1. Empieza por tus puntos de referencia\nUsa los puntos de referencia que ya conoces (en la E grave, en la A, etc.) como anclas:\n\n- Elige una cuerda\n- Localiza sus trastes clave (3, 5, 7, 12)\n- Di en voz alta los **nombres de las notas**\n\nSi te pierdes, no adivines al azar. Vuelve primero al **punto de referencia más cercano** y cuenta desde ahí hacia arriba o hacia abajo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 2. Connect strings with octave shapes\nYour map becomes 3D when you link strings using octave shapes:\n\n- From low E to D, or from A to G, use the **“2 strings down, 2 frets up”** shape\n- Notice how the **same note** appears in more than one place\n- Think: *“If this is A here, it’s also A there and there.”*\n\nOctaves let you move a riff or a note **up the neck** without losing the note name.",
+          "zh-Hans": "# 2. 用八度形状把各根弦连起来\n当你用八度形状把不同的弦连起来时，指板地图就变成“立体”的：\n\n- 从低音E到D弦，或从A到G弦，可以用“**下两弦、前两品**”的八度形状\n- 注意，同一个**音名**会在多个位置出现\n- 试着在脑中想：*“这里是A，那边和那边其实也是A。”*\n\n八度形状能帮你把同一个riff或音**平移到琴颈更高的位置**，又不会丢掉音名。",
+          "de": "# 2. Saiten mit Oktav-Formen verbinden\nDeine Karte wird „dreidimensional“, wenn du die Saiten mit Oktaven verbindest:\n\n- Von tiefer E- zu D-Saite oder von A- zu G-Saite kannst du die **„2 Saiten runter, 2 Bünde rauf“**-Form nutzen\n- Achte darauf, wie derselbe **Tonname** an mehreren Stellen auftaucht\n- Denk in etwa: *„Wenn das hier ein A ist, dann ist es dort und dort auch A.“*\n\nMit Oktaven kannst du ein Riff oder einen Ton **weiter den Hals hinauf verschieben**, ohne die Note zu ändern.",
+          "ja": "# 2. オクターブの形で弦どうしをつなぐ\nオクターブの形を使って弦どうしを結びつけると、指板の地図が一気に“立体”になります。\n\n- 6弦→4弦、5弦→3弦などで使えるのが、**「2本下の弦・2フレット上」**のオクターブ形\n- 同じ**音名**が、指板上の別の場所にも現れることに気づきましょう\n- 心の中でこう考えてみてください：*「ここがAなら、あそこも、あっちもAだな」*\n\nオクターブを知っていると、フレーズや単音を**ネックの高い位置にそのまま移動**させても、音の名前を見失わずに済みます。",
+          "pt-BR": "# 2. Conecte as cordas com formas de oitava\nSeu mapa fica “3D” quando você liga as cordas usando formas de oitava:\n\n- Da E grave para a D, ou da A para a G, use o desenho de **“2 cordas abaixo, 2 trastes à frente”**\n- Perceba como o mesmo **nome de nota** aparece em vários lugares\n- Pense algo como: *“Se aqui é A, ali e ali também são A.”*\n\nAs oitavas permitem levar um riff ou uma nota **mais para cima no braço** sem perder o nome da nota.",
+          "es": "# 2. Conecta las cuerdas con formas de octava\nTu mapa se vuelve “3D” cuando conectas las cuerdas con formas de octava:\n\n- De la E grave a la D, o de la A a la G, usa la forma de **“2 cuerdas abajo, 2 trastes arriba”**\n- Fíjate en cómo el mismo **nombre de nota** aparece en varios lugares\n- Piensa algo como: *“Si aquí es A, allí y allí también son A.”*\n\nLas octavas te permiten mover un riff o una nota **más arriba en el mástil** sin cambiar el nombre de la nota."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 3. A short daily drill\nDo this for 3–5 minutes:\n\n1. **Pick a note name** (for example: C)\n2. Find it on the **low E** using your landmarks\n3. Find the **same note** on the A, D and G strings using octave shapes\n4. Each time you land on the note, say: *“C on 8th fret, low E”*, *“C on 3rd fret, A string”*, etc.\n\nYou don’t need speed. You need **accuracy and clarity** in your head.",
+          "zh-Hans": "# 3. 每天一个小练习\n每天做3–5分钟：\n\n1. **选一个音名**（比如：C）\n2. 先用地标在**低音E弦**上找到这个音\n3. 再用八度形状在A、D、G弦上找到**同名的音**\n4. 每次找到时说出来，比如：“第8品的C，在低音E弦”，“第3品的C，在A弦”等\n\n你不需要快，只需要**准确**，并且在脑中越来越清楚。",
+          "de": "# 3. Kurze tägliche Übung\nNimm dir 3–5 Minuten:\n\n1. **Such dir einen Ton** aus (z.B. C)\n2. Finde ihn zuerst auf der **tiefen E-Saite** mit Hilfe deiner Landmarken\n3. Finde denselben Ton auf A-, D- und G-Saite mit Oktav-Formen\n4. Sag jedes Mal laut, was du spielst: z.B. „C im 8. Bund, tiefe E-Saite“, „C im 3. Bund, A-Saite“\n\nTempo ist egal. Wichtig sind **Genauigkeit und ein klares Bild im Kopf**.",
+          "ja": "# 3. 毎日のショートドリル\n1日3〜5分でOKです：\n\n1. **音名を1つ決める**（例：C）\n2. まずは目印を使って、その音を**6弦**上で探す\n3. 次にオクターブの形を使って、A・D・G弦の**同じ音名**を探す\n4. 見つけるたびに、声に出して言いましょう：\n   - 「6弦8フレットのC」\n   - 「5弦3フレットのC」など\n\nスピードは気にしなくて大丈夫です。必要なのは、**正確さ**と頭の中の**はっきりしたイメージ**です。",
+          "pt-BR": "# 3. Um drill diário bem curto\nFaça isso por 3–5 minutos:\n\n1. **Escolha um nome de nota** (por exemplo: C/Dó)\n2. Ache essa nota primeiro na **corda E grave**, usando seus marcos\n3. Depois encontre a **mesma nota** nas cordas A, D e G usando as formas de oitava\n4. Cada vez que chegar na nota, fale algo como: “C no 8º traste da E grave”, “C no 3º traste da A”…\n\nNão precisa de velocidade. Você precisa de **precisão e clareza mental**.",
+          "es": "# 3. Una rutina diaria corta\nHaz esto durante 3–5 minutos:\n\n1. **Elige un nombre de nota** (por ejemplo: C/Do)\n2. Encuéntrala primero en la **E grave** usando tus puntos de referencia\n3. Luego busca la **misma nota** en las cuerdas A, D y G usando formas de octava\n4. Cada vez que llegues a la nota, di algo como: “C en el traste 8 de la E grave”, “C en el traste 3 de la A”…\n\nNo necesitas velocidad. Necesitas **precisión y una imagen clara** en tu cabeza."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Over time, these small habits turn the fretboard from a row of mysterious dots into a place you **recognize by sight and sound**.",
+          "zh-Hans": "慢慢地，这些小习惯会把指板从一堆看不懂的点，变成一个你**看得懂、听得清**的熟悉空间。",
+          "de": "Mit der Zeit verwandeln diese kleinen Gewohnheiten das Griffbrett von einer Reihe mysteriöser Punkte in einen Ort, den du **optisch und klanglich wiedererkennst**.",
+          "ja": "こうした小さな習慣を続けていくと、点だらけで謎だった指板が、**見ても聴いても分かる場所**に変わっていきます。",
+          "pt-BR": "Com o tempo, esses pequenos hábitos transformam o braço da guitarra de um monte de pontinhos misteriosos em um lugar que você **reconhece pelo olho e pelo ouvido**.",
+          "es": "Con el tiempo, estos pequeños hábitos convierten el diapasón de una fila de puntos misteriosos en un lugar que **reconoces por la vista y por el oído**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

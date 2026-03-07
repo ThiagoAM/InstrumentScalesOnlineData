@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    {
+      "id": "guitar",
+      "slug": "guitar",
+      "name": {
+        "values": {
+          "en": "Guitar",
+          "zh-Hans": "吉他",
+          "de": "Gitarre",
+          "ja": "ギター",
+          "pt-BR": "Guitarra",
+          "es": "Guitarra"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Advanced scale studies and fretboard control for guitar.",
+          "zh-Hans": "吉他的高级音阶学习与指板掌控。",
+          "de": "Fortgeschrittene Skalenstudien und Griffbrettkontrolle für Gitarre.",
+          "ja": "ギター向けの上級スケール練習と指板コントロール。",
+          "pt-BR": "Estudos avançados de escalas e controle do braço da guitarra.",
+          "es": "Estudios avanzados de escalas y control del diapasón de la guitarra."
+        }
+      },
+      "image": {
+        "type": "url",
+        "value": "https://thiagoam.github.io/instrumentScales/api/education/max/images/guitar.jpg"
+      },
+      "tags": ["guitar", "advanced"],
+      "order": 1,
+      "createdAt": "2025-12-01T00:00:00Z",
+      "updatedAt": "2025-12-01T00:00:00Z"
+    },
+    {
+      "id": "bass",
+      "slug": "bass",
+      "name": {
+        "values": {
+          "en": "Bass",
+          "zh-Hans": "贝斯",
+          "de": "Bass",
+          "ja": "ベース",
+          "pt-BR": "Baixo",
+          "es": "Bajo"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Advanced scale applications and groove development for bass.",
+          "zh-Hans": "贝斯高级音阶运用与律动开发。",
+          "de": "Fortgeschrittene Skalenanwendungen und Groove-Entwicklung für Bass.",
+          "ja": "ベースのための上級スケール応用とグルーヴの発展。",
+          "pt-BR": "Aplicações avançadas de escalas e desenvolvimento de groove para baixo.",
+          "es": "Aplicaciones avanzadas de escalas y desarrollo del groove para bajo."
+        }
+      },
+      "image": {
+        "type": "url",
+        "value": "https://thiagoam.github.io/instrumentScales/api/education/max/images/bass.jpg"
+      },
+      "tags": ["bass", "advanced"],
+      "order": 2,
+      "createdAt": "2025-12-01T00:00:00Z",
+      "updatedAt": "2025-12-01T00:00:00Z"
+    },
+    {
+      "id": "piano",
+      "slug": "piano",
+      "name": {
+        "values": {
+          "en": "Piano",
+          "zh-Hans": "钢琴",
+          "de": "Klavier",
+          "ja": "ピアノ",
+          "pt-BR": "Piano",
+          "es": "Piano"
+        }
+      },
+      "summary": {
+        "values": {
+          "en": "Keyboard-focused scale studies and applied harmony.",
+          "zh-Hans": "以键盘为核心的音阶学习与应用和声训练。",
+          "de": "Keyboard-orientierte Skalenstudien und angewandte Harmonie.",
+          "ja": "鍵盤に特化したスケール研究と応用ハーモニー。",
+          "pt-BR": "Estudos de escalas focados em teclado e harmonia aplicada.",
+          "es": "Estudios de escalas centrados en el teclado y armonía aplicada."
+        }
+      },
+      "image": {
+        "type": "url",
+        "value": "https://thiagoam.github.io/instrumentScales/api/education/max/images/piano.jpg"
+      },
+      "tags": ["piano", "advanced"],
+      "order": 3,
+      "createdAt": "2025-12-01T00:00:00Z",
+      "updatedAt": "2025-12-01T00:00:00Z"
+    }
+  ],
+  "createdAt": "2025-12-01T00:00:00Z",
+  "updatedAt": "2025-12-01T00:00:00Z"
+}

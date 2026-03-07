@@ -1,0 +1,73 @@
+{
+  "id": "building-melodic-etudes-from-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Building melodic etudes from scales\nA **melodic etude** is a short, written study that focuses on one idea. On bass, you can turn a simple scale into a small “song” that trains your ears, fingers and phrasing.\n\nIn this lesson you’ll:\n- Turn a **scale** into a mini etude\n- Use a **repeating motif** to keep it musical\n- Build a simple **4-bar study** you can practice with a metronome or backing track",
+          "zh-Hans": "# 用音阶构建旋律性练习曲\n所谓**旋律练习曲（etude）**，就是围绕一个想法写出来的一段短小练习。在贝斯上，你可以把一个简单音阶变成一段小“乐曲”，同时训练耳朵、手指和乐句感。\n\n本课你会：\n- 把一个**音阶**变成一段迷你练习曲\n- 用**重复动机**让它听起来像音乐而不是练习题\n- 搭建一个简单的 **4 小节练习**，可以配节拍器或伴奏来练",
+          "de": "# Melodische Etüden aus Tonleitern bauen\nEine **melodische Etüde** ist ein kurzes, auskomponiertes Studium mit einem klaren Fokus. Auf dem Bass kannst du aus einer schlichten Tonleiter ein kleines „Stückchen“ machen, das Ohren, Finger und Phrasierung trainiert.\n\nIn dieser Lektion wirst du:\n- Eine **Tonleiter** in eine Mini-Etüde verwandeln\n- Ein **wiederkehrendes Motiv** nutzen, damit es musikalisch bleibt\n- Eine einfache **4-taktige Studie** bauen, die du mit Metronom oder Playback üben kannst",
+          "ja": "# スケールからメロディック・エチュードを作る\n**メロディック・エチュード**とは、1つのアイデアに焦点を当てた短い練習曲のことです。ベースでも、単純なスケールから“小さな曲”を作って、耳・指・フレージングをまとめて鍛えることができます。\n\nこのレッスンでは：\n- **スケール**をミニ・エチュードに変える\n- 音楽的に聞こえるように **繰り返しのモチーフ** を使う\n- メトロノームやバッキングに合わせて弾ける、シンプルな**4小節の練習曲**を作ります",
+          "pt-BR": "# Construindo estudos melódicos a partir de escalas\nUm **estudo melódico (etude)** é uma peça curtinha escrita em cima de uma ideia só. No baixo, dá pra transformar uma escala simples em uma mini “música” que treina ouvido, dedos e fraseado.\n\nNesta lição você vai:\n- Transformar uma **escala** em um pequeno estudo\n- Usar um **motivo repetido** pra deixar tudo com cara de música\n- Montar um **estudo de 4 compassos** pra praticar com metrônomo ou backing track",
+          "es": "# Construir estudios melódicos a partir de escalas\nUn **estudio melódico (etude)** es una pieza corta escrita alrededor de una sola idea. En el bajo, puedes convertir una escala sencilla en una pequeña “canción” que entrena tu oído, tus dedos y tu fraseo.\n\nEn esta lección vas a:\n- Convertir una **escala** en un mini estudio\n- Usar un **motivo repetido** para que suene musical\n- Construir un **estudio de 4 compases** para practicar con metrónomo o backing track"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Pick a scale and a groove\nWe’ll work in **D major**: D–E–F#–G–A–B–C#.\n\nImagine a simple backing:\n- Bar 1–2: **D major**\n- Bar 3–4: **G major**\n\nFeel it in 4/4 with a steady 8th-note pulse.\nYour etude will live mostly in the **middle register** (around 5th–9th fret) so the notes sing more.",
+          "zh-Hans": "# 第一步——选一个音阶和节奏感\n我们用 **D 大调**：D–E–F#–G–A–B–C#。\n\n想象一个很简单的伴奏：\n- 第 1–2 小节：**D 大调和弦**\n- 第 3–4 小节：**G 大调和弦**\n\n4/4 拍，保持稳定的八分音符脉冲。\n练习曲主要放在**中音区**（大概 5–9 品附近），这样音更容易唱出来、有歌唱性。",
+          "de": "# Schritt 1 – Tonleiter und Groove wählen\nWir arbeiten in **D-Dur**: D–E–F#–G–A–B–C#.\n\nDazu ein einfaches Playback im Kopf:\n- Takt 1–2: **D-Dur-Akkord**\n- Takt 3–4: **G-Dur-Akkord**\n\nDenk in 4/4 mit gleichmäßigen Achteln.\nDie Etüde spielt vor allem in der **mittleren Lage** (ca. 5.–9. Bund), damit die Töne mehr „singen“.",
+          "ja": "# ステップ1 – スケールとグルーヴを決める\nここでは **Dメジャー** を使います：D–E–F#–G–A–B–C#。\n\n頭の中でシンプルなバッキングをイメージしましょう：\n- 1〜2小節目：**Dメジャー**\n- 3〜4小節目：**Gメジャー**\n\n4/4拍で、一定の8分音符のうねりを感じてください。\nエチュードは主に**中音域**（5〜9フレット周辺）で動かし、音が“歌う”感じを狙います。",
+          "pt-BR": "# Passo 1 – Escolha uma escala e um groove\nVamos usar **Ré maior (D)**: D–E–F#–G–A–B–C#.\n\nImagine um backing bem simples:\n- Compassos 1–2: **acorde de D maior**\n- Compassos 3–4: **acorde de G maior**\n\nSinta em 4/4 com pulsação de colcheias.\nO estudo vai ficar mais na **região média** (por volta das casas 5 a 9), onde o baixo canta melhor.",
+          "es": "# Paso 1 – Elegir una escala y un groove\nTrabajaremos en **Re mayor (D)**: D–E–F#–G–A–B–C#.\n\nImagina un acompañamiento sencillo:\n- Compases 1–2: **acorde de D mayor**\n- Compases 3–4: **acorde de G mayor**\n\nPiensa en 4/4 con una pulsación constante de corcheas.\nEl estudio va a vivir sobre todo en el **registro medio** (trastes 5 a 9 aprox.), donde las notas “cantan” más."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Create a simple motif\nA **motif** is a tiny melodic idea you can repeat and move.\nWe’ll build one bar over D, using only the D major scale.\n\nTry this 1-bar motif (4/4, mostly 8ths):\n- Beat 1: **D** – A string, 5th fret\n- Beat 2: **F#** – D string, 4th fret\n- Beat 3: **E** – D string, 2nd fret\n- Beat 4: **D** – D string, 0 or 7th fret (choose the tone you like)\n\nIt’s just **down then up** around the root, but already feels like a phrase.",
+          "zh-Hans": "# 第二步——先做一个简单“动机”\n**动机（motif）**就是一小段可以反复、可以移动的旋律想法。\n我们先在 D 和弦上做一个一小节的动机，只用 D 大调音阶。\n\n试试这个 1 小节的动机（4/4 拍，主要是八分音符）：\n- 第 1 拍：**D** —— A 弦第 5 品\n- 第 2 拍：**F#** —— D 弦第 4 品\n- 第 3 拍：**E** —— D 弦第 2 品\n- 第 4 拍：**D** —— D 弦空弦或第 7 品（选你喜欢的音色）\n\n其实就是围绕主音**先上后下**，但已经有“小乐句”的感觉了。",
+          "de": "# Schritt 2 – Ein einfaches Motiv bauen\nEin **Motiv** ist eine kleine melodische Idee, die man wiederholen und versetzen kann.\nWir bauen einen Takt über D, nur mit der D-Dur-Tonleiter.\n\nProbier dieses 1-Takt-Motiv (4/4, überwiegend Achtel):\n- Zählzeit 1: **D** – A-Saite, 5. Bund\n- Zählzeit 2: **F#** – D-Saite, 4. Bund\n- Zählzeit 3: **E** – D-Saite, 2. Bund\n- Zählzeit 4: **D** – D-Saite, leer oder 7. Bund (such dir den Klang aus)\n\nEs ist nur ein **Ab- und Aufstieg** um den Grundton herum, klingt aber schon wie eine kleine Phrase.",
+          "ja": "# ステップ2 – シンプルなモチーフを作る\n**モチーフ（motif）**は、くり返したり、移動させたりできる小さなメロディの種です。\nまずはDコード上で、Dメジャー・スケールだけを使った1小節のモチーフを作ります。\n\n次の1小節フレーズを試してみましょう（4/4拍・8分音符中心）：\n- 拍1：**D** – A弦5フレット\n- 拍2：**F#** – D弦4フレット\n- 拍3：**E** – D弦2フレット\n- 拍4：**D** – D弦開放 or 7フレット（好みの音を選んでOK）\n\nルートのまわりを**下ってまた戻る**だけですが、すでに1つのメロディとして成立しています。",
+          "pt-BR": "# Passo 2 – Crie um motivo simples\nUm **motivo** é uma ideia melódica bem pequena que você pode repetir e deslocar.\nVamos montar 1 compasso sobre D, só com a escala de D maior.\n\nExperimente este motivo de 1 compasso (4/4, majoritariamente colcheias):\n- Tempo 1: **D** – corda A, casa 5\n- Tempo 2: **F#** – corda D, casa 4\n- Tempo 3: **E** – corda D, casa 2\n- Tempo 4: **D** – corda D, solta ou casa 7 (escolha o timbre que preferir)\n\nÉ só **descer e voltar** em torno da tônica, mas já soa como uma frasezinha completa.",
+          "es": "# Paso 2 – Crear un motivo sencillo\nUn **motivo** es una idea melódica pequeña que puedes repetir y desplazar.\nVamos a construir un compás sobre D usando sólo la escala de Re mayor.\n\nPrueba este motivo de 1 compás (4/4, sobre todo corcheas):\n- Tiempo 1: **D** – cuerda A, traste 5\n- Tiempo 2: **F#** – cuerda D, traste 4\n- Tiempo 3: **E** – cuerda D, traste 2\n- Tiempo 4: **D** – cuerda D al aire o traste 7 (elige el sonido que más te guste)\n\nEs simplemente **bajar y volver** alrededor de la tónica, pero ya se siente como una frase."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Turn it into a 4-bar etude\nNow we **reuse and move** the motif to build a small study.\n\nSuggestion:\n- **Bar 1 (D chord)**: play the motif as written\n- **Bar 2 (D chord)**: start on **E** instead of D (E–G–F#–E)\n- **Bar 3 (G chord)**: move the idea so it starts on **G** (G–B–A–G)\n- **Bar 4 (G chord)**: answer more simply, e.g. **A–B–A–G**\n\nAll notes still come from **D major**, but the starting note and the chord underneath change the color.",
+          "zh-Hans": "# 第三步——把它扩展成 4 小节练习\n现在我们通过**重复和移动**这个动机，拼出一段小练习。\n\n建议结构：\n- **第 1 小节（D 和弦）**：按上面的动机原样弹\n- **第 2 小节（D 和弦）**：改成从 **E** 开始（E–G–F#–E）\n- **第 3 小节（G 和弦）**：把想法移到 **G** 上开始（G–B–A–G）\n- **第 4 小节（G 和弦）**：用更简单的回答，比如 **A–B–A–G**\n\n所有音依然来自 **D 大调音阶**，但起始音和下面的和弦在变，整段的色彩也随之变化。",
+          "de": "# Schritt 3 – Eine 4-taktige Etüde daraus machen\nJetzt **wiederholen und verschieben** wir das Motiv und formen so eine kleine Studie.\n\nVorschlag:\n- **Takt 1 (D-Akkord)**: Motiv wie oben spielen\n- **Takt 2 (D-Akkord)**: statt auf D nun auf **E** beginnen (E–G–F#–E)\n- **Takt 3 (G-Akkord)**: Idee nach **G** verschieben (G–B–A–G)\n- **Takt 4 (G-Akkord)**: einfacher antworten, z.B. **A–B–A–G**\n\nAlle Töne stammen weiterhin aus **D-Dur**, aber durch den neuen Startton und den Akkord darunter ändert sich die Farbe.",
+          "ja": "# ステップ3 – 4小節のエチュードに組み立てる\nここからは、モチーフを**くり返したり、移動させたり**して小さなエチュードにします。\n\n例：\n- **1小節目（Dコード）**：モチーフをそのまま\n- **2小節目（Dコード）**：今度は **E** から始める（E–G–F#–E）\n- **3小節目（Gコード）**：同じ形を **G** から始める（G–B–A–G）\n- **4小節目（Gコード）**：少しシンプルに“返事”をして、たとえば **A–B–A–G**\n\n使っている音はすべて **Dメジャー・スケール**の中ですが、スタートの音と下で鳴っているコードが変わることで、色合いも自然に変化します。",
+          "pt-BR": "# Passo 3 – Transformar em um estudo de 4 compassos\nAgora vamos **reaproveitar e deslocar** o motivo pra virar um mini estudo.\n\nSugestão:\n- **Compasso 1 (acorde de D)**: toque o motivo como está\n- **Compasso 2 (acorde de D)**: comece em **E** em vez de D (E–G–F#–E)\n- **Compasso 3 (acorde de G)**: leve a ideia pra começar em **G** (G–B–A–G)\n- **Compasso 4 (acorde de G)**: responda de forma mais simples, por exemplo **A–B–A–G**\n\nTodas as notas continuam dentro de **D maior**, mas o ponto de partida e o acorde embaixo mudam o clima da linha.",
+          "es": "# Paso 3 – Convertirlo en un estudio de 4 compases\nAhora vamos a **reutilizar y desplazar** el motivo para construir un pequeño estudio.\n\nPropuesta:\n- **Compás 1 (acorde de D)**: toca el motivo tal cual\n- **Compás 2 (acorde de D)**: empieza en **E** en lugar de D (E–G–F#–E)\n- **Compás 3 (acorde de G)**: mueve la idea para empezar en **G** (G–B–A–G)\n- **Compás 4 (acorde de G)**: responde de forma más simple, por ejemplo **A–B–A–G**\n\nTodas las notas siguen siendo de **Re mayor**, pero el punto de partida y el acorde de fondo cambian el color de la línea."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- First, **write your etude down** (notes or simple tab) so you play it the same way every time\n- Practice **slowly with a click**, focusing on even sound and clear shifts\n- Then change the scale: try the same process in **A minor, G major or E Dorian**\n- Finally, improvise by **loosely varying** the etude: change one bar at a time, but keep the motif idea\n\nThe goal is to get used to turning a **scale pattern** into something that sounds like real music, not just an exercise.",
+          "zh-Hans": "# 练习建议\n- 先把你的练习曲**写下来**（五线谱或简单六线谱都行），这样每次弹法一致\n- 用节拍器**慢速练习**，注意音色平均、换把干净\n- 换几个音阶重复同样流程，比如 **A 小调、G 大调或 E Dorian**\n- 最后可以在此基础上**即兴改编**：每次只改动一小节，但保留原来的动机思路\n\n目标是习惯于把一个**音阶指型**变成听起来像“音乐”的东西，而不只是左右手体操。",
+          "de": "# Übetipps\n- Schreib deine Etüde zuerst **auf** (Noten oder einfache Tab), damit du sie jedes Mal gleich spielst\n- Übe **langsam mit Metronom** und achte auf gleichmäßigen Ton und saubere Lagenwechsel\n- Wechsel dann die Tonleiter: probier denselben Prozess in **A-Moll, G-Dur oder E-Dorisch**\n- Zum Schluss kannst du die Etüde **frei variieren**: verändere jeweils nur einen Takt, behalte aber die Motiv-Idee bei\n\nZiel ist es, dich daran zu gewöhnen, aus einem **Tonleiter-Pattern** etwas zu machen, das wie música klingt – nicht nur wie eine Fingerübung.",
+          "ja": "# 練習のヒント\n- まず自分のエチュードを**譜面や簡単なタブで書き出して**、毎回同じ形で弾けるようにする\n- **メトロノームを使ってゆっくり練習**し、音量と音色のばらつき、ポジション移動の滑らかさをチェックする\n- 同じ手順を、**Aマイナー、Gメジャー、Eドリアン**など別のスケールでも試してみる\n- 最後に、エチュードをベースに**少しずつ崩して即興**してみる：1小節ずつ変えながらも、モチーフのアイデアは残しておく\n\nねらいは、単なる**スケール・パターン**を、“練習っぽさ”を超えて本当の音楽っぽく聞こえるものに変えていく感覚を身につけることです。",
+          "pt-BR": "# Dicas de estudo\n- Primeiro, **escreva o estudo** (notas ou uma tablatura simples), pra garantir que você toque sempre igual\n- Pratique **devagar com o metrônomo**, focando em som uniforme e mudanças de posição limpas\n- Depois mude a escala e repita o processo em **A menor, G maior ou E dórico**, por exemplo\n- Por fim, use a etude como base para **improvisar variações**: mude um compasso de cada vez, mantendo a ideia do motivo\n\nA ideia é se acostumar a transformar um **desenho de escala** em algo que soa como música de verdade, não só exercício mecânico.",
+          "es": "# Consejos de práctica\n- Primero **escribe tu estudio** (en notas o en una tablatura sencilla) para tocarlo siempre igual\n- Practica **despacio con metrónomo**, cuidando el sonido parejo y los cambios de posición limpios\n- Luego cambia de escala y repite el proceso en **La menor, Sol mayor o Mi dórico**, por ejemplo\n- Al final, usa el estudio como base para **improvisar variaciones**: cambia un compás por vez pero conserva la idea del motivo\n\nLa meta es acostumbrarte a convertir un **patrón de escala** en algo que suene como música real, no sólo como un ejercicio técnico."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

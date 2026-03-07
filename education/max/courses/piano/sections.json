@@ -1,0 +1,110 @@
+[
+  {
+    "id": "keyboard-and-technique-foundations",
+    "name": {
+        "values": {
+        "en": "Keyboard and Technique Foundations",
+        "zh-Hans": "键盘与技术基础",
+        "de": "Keyboard- und Technikgrundlagen",
+        "ja": "鍵盤とテクニックの基礎",
+        "pt-BR": "Fundamentos de teclado e técnica",
+        "es": "Fundamentos de teclado y técnica"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Map the keyboard and strengthen core technique.",
+        "zh-Hans": "熟悉键盘并强化核心技巧。",
+        "de": "Die Tastatur erfassen und die grundlegende Technik stärken.",
+        "ja": "鍵盤を把握し、基礎テクニックを強化する。",
+        "pt-BR": "Mapear o teclado e fortalecer a técnica essencial.",
+        "es": "Mapea el teclado y fortalece la técnica básica."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scales-chords-and-harmony",
+    "name": {
+        "values": {
+        "en": "Scales, Chords, and Harmony",
+        "zh-Hans": "音阶、和弦与和声",
+        "de": "Skalen, Akkorde und Harmonie",
+        "ja": "スケール、コード、ハーモニー",
+        "pt-BR": "Escalas, acordes e harmonia",
+        "es": "Escalas, acordes y armonía"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect scale theory to chord building and harmony.",
+        "zh-Hans": "将音阶理论与和弦构建和和声相连接。",
+        "de": "Skalentheorie mit Akkordaufbau und Harmonie verknüpfen.",
+        "ja": "スケール理論をコード構築とハーモニーに結び付ける。",
+        "pt-BR": "Conecte a teoria das escalas à formação de acordes e harmonia.",
+        "es": "Conecta la teoría de escalas con la construcción de acordes y la armonía."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modes-and-melodic-playing",
+    "name": {
+        "values": {
+        "en": "Modes and Melodic Playing",
+        "zh-Hans": "调式与旋律演奏",
+        "de": "Modi und melodisches Spiel",
+        "ja": "モードとメロディックな演奏",
+        "pt-BR": "Modos e execução melódica",
+        "es": "Modos y interpretación melódica"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Explore modes and apply them to melodic work.",
+        "zh-Hans": "探索调式并将其应用于旋律创作。",
+        "de": "Modi erkunden und auf melodische Arbeit anwenden.",
+        "ja": "モードを探究し、メロディ作りに活用する。",
+        "pt-BR": "Explore modos e aplique-os ao trabalho melódico.",
+        "es": "Explora los modos y aplícalos al trabajo melódico."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scale-based-practice-routines",
+    "name": {
+      "values": {
+        "en": "Scale-Based Practice Routines",
+        "zh-Hans": "基于音阶的练习方案",
+        "de": "Skalenbasierte Übungsroutinen",
+        "ja": "スケールを軸にした練習ルーティン",
+        "pt-BR": "Rotinas de prática baseadas em escalas",
+        "es": "Rutinas de práctica basadas en escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Daily routines that blend technique and applied scales.",
+        "zh-Hans": "将技巧与应用音阶结合的日常练习。",
+        "de": "Tägliche Routinen, die Technik mit angewandten Skalen verbinden.",
+        "ja": "テクニックとスケール運用を組み合わせた毎日のルーティン。",
+        "pt-BR": "Rotinas diárias que mesclam técnica e escalas aplicadas.",
+        "es": "Rutinas diarias que combinan técnica y escalas aplicadas."
+      }
+    },
+    "image": null,
+    "order": 4,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

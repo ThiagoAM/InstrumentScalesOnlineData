@@ -1,0 +1,86 @@
+[
+  {
+    "id": "minor-pentatonic-for-bass-riffs",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Minor Pentatonic for Bass Riffs",
+        "zh-Hans": "小调五声音阶用于贝斯即兴",
+        "de": "Moll-Pentatonik für Bass-Riffs",
+        "ja": "ベースリフのためのマイナーペンタトニック",
+        "pt-BR": "Pentatônica Menor para Riffs de Baixo",
+        "es": "Pentatónica menor para riffs de bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "blues-scale-grooves-in-a-and-e",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Scale Grooves in A and E",
+        "zh-Hans": "A和E调的布鲁斯音阶律动",
+        "de": "Blues-Skalen-Grooves in A und E",
+        "ja": "AとEでのブルーススケール・グルーヴ",
+        "pt-BR": "Grooves com Escala Blues em A e E",
+        "es": "Grooves con escala blues en A y E"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-simple-turnarounds",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Simple Turnarounds",
+        "zh-Hans": "创作简单的Turnarounds",
+        "de": "Einfache Turnarounds erstellen",
+        "ja": "シンプルなターンアラウンドの作り方",
+        "pt-BR": "Criando Turnarounds Simples",
+        "es": "Creando turnarounds simples"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

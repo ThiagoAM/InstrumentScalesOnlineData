@@ -1,0 +1,73 @@
+{
+  "id": "5th-and-7th-fret-landmarks-on-all-strings",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 5th and 7th fret landmarks on all strings\nIn this lesson you’ll use the **5th and 7th frets** on every string as clear **fretboard landmarks**.\n\nThese two frets show up all the time in bass lines, and they line up with important notes you already know.",
+          "zh-Hans": "# 所有弦上的第5品和第7品定位\n在本课中，你会利用每根弦上的**第5品**和**第7品**，作为清晰的**指板定位点**。\n\n这两个品位在贝斯走线里经常出现，而且都对应你已经熟悉的重要音。",
+          "de": "# 5. und 7. Bund als Orientierung auf allen Saiten\nIn dieser Lektion nutzt du auf jeder Saite den **5. und 7. Bund** als feste **Orientierungspunkte** auf dem Griffbrett.\n\nDiese beiden Bünde kommen in Basslinien ständig vor und stehen in Beziehung zu Tönen, die du schon kennst.",
+          "ja": "# すべての弦の5フレットと7フレットの目印\nこのレッスンでは、すべての弦の**5フレット**と**7フレット**を、わかりやすい**指板の目印**として使っていきます。\n\nこの2つのフレットはベースラインにしょっちゅう出てきて、すでに知っている大事な音とつながっています。",
+          "pt-BR": "# Referências na 5ª e 7ª casas em todas as cordas\nNesta lição você vai usar a **5ª e a 7ª casas** de cada corda como **pontos de referência** no braço do baixo.\n\nEssas casas aparecem o tempo todo nas linhas de baixo e se conectam com notas que você já conhece.",
+          "es": "# Referencias en los trastes 5 y 7 en todas las cuerdas\nEn esta lección vas a usar los **trastes 5 y 7** de cada cuerda como **puntos de referencia** en el diapasón.\n\nEstos dos trastes aparecen constantemente en las líneas de bajo y se relacionan con notas que ya conoces."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 5th fret: tuning landmarks\nOn a standard 4-string bass (E–A–D–G), the **5th fret** lines up with the **open string above**:\n\n- 4th string **E**, 5th fret → **A** (matches open A string)\n- 3rd string **A**, 5th fret → **D** (matches open D string)\n- 2nd string **D**, 5th fret → **G** (matches open G string)\n- 1st string **G**, 5th fret → **C** (not open, but a useful high C landmark)\n\nThis is why players often use the 5th fret to **check tuning between strings**.",
+          "zh-Hans": "# 第5品：调弦用的定位\n在标准 4 弦贝斯（E–A–D–G）上，第 **5 品**会和**上一根弦的空弦音**对上：\n\n- 第4弦 **E**，第5品 → **A**（和第3弦空弦 A 相同）\n- 第3弦 **A**，第5品 → **D**（和第2弦空弦 D 相同）\n- 第2弦 **D**，第5品 → **G**（和第1弦空弦 G 相同）\n- 第1弦 **G**，第5品 → **C**（不是空弦，但很好用的高音 C 定位点）\n\n这也是为什么很多贝斯手会用第5品来**互相对比各弦的音准**。",
+          "de": "# 5. Bund: Referenz zum Stimmen\nAuf einem Standard-Viersaiter (E–A–D–G) entspricht der **5. Bund** meist der **Leersaite darüber**:\n\n- 4. Saite **E**, 5. Bund → **A** (wie leere A-Saite)\n- 3. Saite **A**, 5. Bund → **D** (wie leere D-Saite)\n- 2. Saite **D**, 5. Bund → **G** (wie leere G-Saite)\n- 1. Saite **G**, 5. Bund → **C** (keine Leersaite, aber ein wichtiger hoher C-Punkt)\n\nDarum nutzt man den 5. Bund häufig, um die Saiten **gegeneinander zu stimmen**.",
+          "ja": "# 5フレット：チューニングの目印\n標準的な4弦ベース（E–A–D–G）では、**5フレット**は基本的に**1本上の弦の開放弦**と同じ音になります：\n\n- 4弦 **E** の5フレット → **A**（3弦の開放Aと同じ）\n- 3弦 **A** の5フレット → **D**（2弦の開放Dと同じ）\n- 2弦 **D** の5フレット → **G**（1弦の開放Gと同じ）\n- 1弦 **G** の5フレット → **C**（開放弦ではないが、高いCの良い目印）\n\nそのため、ベースでは5フレットを使って**弦どうしのチューニングを確認**することが多いです。",
+          "pt-BR": "# 5ª casa: referência de afinação\nNo baixo de 4 cordas padrão (E–A–D–G), a **5ª casa** geralmente coincide com a **corda de cima solta**:\n\n- 4ª corda **E**, 5ª casa → **A** (igual à 3ª corda solta A)\n- 3ª corda **A**, 5ª casa → **D** (igual à 2ª corda solta D)\n- 2ª corda **D**, 5ª casa → **G** (igual à 1ª corda solta G)\n- 1ª corda **G**, 5ª casa → **C** (não é corda solta, mas é um ótimo ponto de referência pro Dó agudo)\n\nPor isso muita gente usa a 5ª casa para **conferir a afinação entre as cordas**.",
+          "es": "# Traste 5: referencia para afinar\nEn un bajo estándar de 4 cuerdas (E–A–D–G), el **traste 5** suele coincidir con la **cuerda superior al aire**:\n\n- 4ª cuerda **E**, traste 5 → **A** (igual que la 3ª cuerda al aire A)\n- 3ª cuerda **A**, traste 5 → **D** (igual que la 2ª cuerda al aire D)\n- 2ª cuerda **D**, traste 5 → **G** (igual que la 1ª cuerda al aire G)\n- 1ª cuerda **G**, traste 5 → **C** (no es cuerda al aire, pero es un buen punto de referencia para el Do agudo)\n\nPor eso el traste 5 se usa mucho para **comparar y afinar entre cuerdas**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 7th fret: the “fifth” of the open string\nOn each string, the **7th fret** is the **perfect fifth** above the open string:\n\n- 4th string E → 7th fret **B**\n- 3rd string A → 7th fret **E**\n- 2nd string D → 7th fret **A**\n- 1st string G → 7th fret **D**\n\nRoots and fifths are the backbone of many bass lines, so these 7th-fret notes are must-know landmarks.",
+          "zh-Hans": "# 第7品：空弦的“五度音”\n在每一根弦上，第 **7 品**都是该空弦音的**纯五度**：\n\n- 第4弦 E → 第7品 **B**\n- 第3弦 A → 第7品 **E**\n- 第2弦 D → 第7品 **A**\n- 第1弦 G → 第7品 **D**\n\n主音和五度是很多贝斯走线的骨架，所以这些第7品的音是必须熟悉的定位点。",
+          "de": "# 7. Bund: die „Quinte“ der Leersaite\nAuf jeder Saite ist der **7. Bund** die **Quinte** zur Leersaite:\n\n- 4. Saite E → 7. Bund **B**\n- 3. Saite A → 7. Bund **E**\n- 2. Saite D → 7. Bund **A**\n- 1. Saite G → 7. Bund **D**\n\nGrundton und Quinte sind das Rückgrat vieler Basslinien – diese Töne im 7. Bund sind daher wichtige Orientierungspunkte.",
+          "ja": "# 7フレット：開放弦の「5度」の音\nそれぞれの弦で、**7フレット**はその開放弦に対する**完全5度**の音になります：\n\n- 4弦 E → 7フレット **B**\n- 3弦 A → 7フレット **E**\n- 2弦 D → 7フレット **A**\n- 1弦 G → 7フレット **D**\n\nルート（主音）と5度は多くのベースラインの土台なので、この7フレットの音は必ず覚えておきたい目印です。",
+          "pt-BR": "# 7ª casa: a “quinta” da corda solta\nEm cada corda, a **7ª casa** é a **quinta justa** da corda solta:\n\n- 4ª corda E → 7ª casa **B**\n- 3ª corda A → 7ª casa **E**\n- 2ª corda D → 7ª casa **A**\n- 1ª corda G → 7ª casa **D**\n\nTônica e quinta são a espinha dorsal de muitas linhas de baixo, então essas notas na 7ª casa são referências essenciais.",
+          "es": "# Traste 7: la “quinta” de la cuerda al aire\nEn cada cuerda, el **traste 7** es la **quinta justa** por encima de la cuerda al aire:\n\n- 4ª cuerda E → traste 7 **B**\n- 3ª cuerda A → traste 7 **E**\n- 2ª cuerda D → traste 7 **A**\n- 1ª cuerda G → traste 7 **D**\n\nTónica y quinta son la base de muchas líneas de bajo, así que estas notas del traste 7 son puntos de referencia clave."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting 5th and 7th fret shapes\nFor each string, you now have a **little three-note line**:\n\n- Open string (root)\n- 5th fret (usually the next string’s open note)\n- 7th fret (fifth of the open string)\n\nExample on the A string:\n- A (open) → D (5th fret) → E (7th fret)\n\nPlay this shape on **each string**, and say the note names as you go.",
+          "zh-Hans": "# 把第5品和第7品连成形状\n现在在每一根弦上，你都有一个**小小的三音组合**：\n\n- 空弦（主音）\n- 第5品（通常等于下一根弦的空弦音）\n- 第7品（空弦音的五度）\n\n以 A 弦为例：\n- A（空弦）→ D（第5品）→ E（第7品）\n\n在**每一根弦上**都练习这个形状，并且边弹边说出音名。",
+          "de": "# 5. und 7. Bund verbinden\nAuf jeder Saite hast du jetzt eine **kleine Dreiton-Linie**:\n\n- Leersaite (Grundton)\n- 5. Bund (oft die Leersaite der nächsthöheren Saite)\n- 7. Bund (Quinte der Leersaite)\n\nBeispiel auf der A-Saite:\n- A (leer) → D (5. Bund) → E (7. Bund)\n\nÜbe diese Form auf **allen Saiten** und sprich dabei die Notennamen mit.",
+          "ja": "# 5フレットと7フレットをつないだシェイプ\nこれで各弦ごとに、**3つの音からなる小さなライン**ができました：\n\n- 開放弦（ルート）\n- 5フレット（多くの場合、1本上の弦の開放音）\n- 7フレット（開放弦の5度）\n\nA弦の例：\n- A（開放）→ D（5フレット）→ E（7フレット）\n\nこの形を**すべての弦で**練習して、弾きながら音名も声に出してみましょう。",
+          "pt-BR": "# Ligando as referências da 5ª e da 7ª casas\nEm cada corda você agora tem uma **pequena linha de três notas**:\n\n- Corda solta (tônica)\n- 5ª casa (geralmente a mesma nota da corda de cima solta)\n- 7ª casa (quinta da corda solta)\n\nExemplo na corda A:\n- A (solta) → D (5ª casa) → E (7ª casa)\n\nToque esse desenho em **todas as cordas** e fale o nome das notas enquanto toca.",
+          "es": "# Conectando las referencias de los trastes 5 y 7\nEn cada cuerda ahora tienes una **pequeña línea de tres notas**:\n\n- Cuerda al aire (tónica)\n- Traste 5 (normalmente igual a la cuerda superior al aire)\n- Traste 7 (quinta de la cuerda al aire)\n\nEjemplo en la cuerda A:\n- A (al aire) → D (traste 5) → E (traste 7)\n\nPractica esta forma en **todas las cuerdas** y ve diciendo los nombres de las notas mientras tocas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. On each string, play: **open → 5th fret → 7th fret → 5th fret → open**, all as steady quarter notes.  \n2. Say the note names out loud (for example on the D string: “D – G – A – G – D”).  \n3. Repeat the pattern on all four strings from low to high, then high to low.  \n4. Do 3–4 slow rounds, keeping your hand relaxed.\n\nWith just these two frets and the open strings, you already have a simple map you can feel under your fingers anywhere on the neck.",
+          "zh-Hans": "# 快速练习流程\n1. 在每一根弦上弹：**空弦 → 第5品 → 第7品 → 第5品 → 空弦**，全部用稳定的四分音符。  \n2. 边弹边大声说出音名（例如在 D 弦上：“D – G – A – G – D”）。  \n3. 在四根弦上都做一遍，从低到高，再从高到低。  \n4. 慢速完整练 3–4 轮，手始终保持放松。\n\n只靠空弦加上第5和第7品，你就已经在手下形成了一张简单的“琴颈地图”，可以在任何位置用得上。",
+          "de": "# Kurze Übe-Routine\n1. Spiele auf jeder Saite: **leer → 5. Bund → 7. Bund → 5. Bund → leer**, alles als gleichmäßige Viertelnoten.  \n2. Sprich die Notennamen laut mit (z.B. auf der D-Saite: „D – G – A – G – D“).  \n3. Wiederhole das Muster auf allen vier Saiten, erst von tief nach hoch, dann von hoch nach tief.  \n4. Mach 3–4 langsame Durchgänge und lass die Hand locker.\n\nNur mit diesen zwei Bünden und den Leersaiten hast du bereits eine einfache „Karte“, die du überall auf dem Hals spüren kannst.",
+          "ja": "# かんたん練習ルーティン\n1. 各弦で次のパターンを4分音符で弾きます：**開放 → 5フレット → 7フレット → 5フレット → 開放**。  \n2. そのとき音名も声に出しましょう（たとえばD弦なら「D – G – A – G – D」）。  \n3. 4本すべての弦で、低いほうから高いほうへ、次に高いほうから低いほうへと順番にくり返します。  \n4. ゆっくり3〜4セット行い、手はずっとリラックスさせておきます。\n\n開放弦と5フレット、7フレットだけでも、指の下にシンプルな“ネックの地図”ができあがり、どのポジションでも役に立つようになります。",
+          "pt-BR": "# Rotina rápida de prática\n1. Em cada corda, toque: **solta → 5ª casa → 7ª casa → 5ª casa → solta**, todas em semínimas bem regulares.  \n2. Fale o nome das notas em voz alta (por exemplo, na corda D: “D – G – A – G – D”).  \n3. Repita o padrão nas quatro cordas, indo da mais grave para a mais aguda e depois voltando.  \n4. Faça de 3 a 4 voltas bem devagar, mantendo a mão relaxada.\n\nSó com essas duas casas e as cordas soltas você já tem um mapa simples sob os dedos, que ajuda a se achar em qualquer região do braço.",
+          "es": "# Rutina rápida de práctica\n1. En cada cuerda, toca: **al aire → traste 5 → traste 7 → traste 5 → al aire**, todo en negras bien regulares.  \n2. Di los nombres de las notas en voz alta (por ejemplo, en la cuerda D: “D – G – A – G – D”).  \n3. Repite el patrón en las cuatro cuerdas, de la más grave a la más aguda y luego de la más aguda a la más grave.  \n4. Haz de 3 a 4 vueltas lentas, manteniendo la mano relajada.\n\nSólo con estos dos trastes y las cuerdas al aire ya tienes un mapa sencillo bajo los dedos que puedes usar en cualquier zona del mástil."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

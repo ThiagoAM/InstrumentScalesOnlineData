@@ -1,0 +1,86 @@
+{
+  "id": "c-major-two-octave-scale-position-based",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major – two octaves in positions\nIn this lesson you’ll play a **two-octave C major scale** by connecting a **low position near the 3rd fret** with a **higher area on the G string**.\n\nYou’ll learn to:\n- Keep a **clear C major sound** over two octaves\n- Feel where the **lower and upper C “zones”** are on the neck\n- Make a **clean position shift** in the middle of the scale",
+          "zh-Hans": "# C 大调——用把位弹两组音\n在本课中，你会通过连接**第3品附近的低把位**和 **G 弦高把位**，来弹一条**两组音的 C 大调音阶**。\n\n你将学会：\n- 在两组音范围内保持**清晰的 C 大调音色**\n- 感受琴颈上 **“低音区 C” 和 “高音区 C”** 各在什么位置\n- 在音阶中间做一次**干净的换把**",
+          "de": "# C-Dur – zwei Oktaven in Lagen\nIn dieser Lektion spielst du eine **C-Dur-Tonleiter über zwei Oktaven**, indem du eine **tiefere Lage um den 3. Bund** mit einem **höheren Bereich auf der G-Saite** verbindest.\n\nDu lernst:\n- Einen klaren **C-Dur-Sound** über zwei Oktaven zu halten\n- Wo die **untere und obere C-„Zone“** auf dem Hals liegen\n- In der Mitte der Skala einen **sauberen Lagenwechsel** zu machen",
+          "ja": "# Cメジャー・スケール：ポジションをつないで2オクターブ\nこのレッスンでは、**3フレット付近の低いポジション**と、**G弦の高いエリア**をつなげて、**2オクターブのCメジャー・スケール**を弾きます。\n\n狙いは：\n- 2オクターブにわたって**はっきりしたCメジャーのサウンド**を出すこと\n- ネック上での**低いCのゾーン／高いCのゾーン**の位置をつかむこと\n- スケールの途中で**スムーズにポジション移動**をすること",
+          "pt-BR": "# Dó maior – duas oitavas por posições\nNesta lição você vai tocar uma **escala de Dó maior de duas oitavas**, ligando uma **posição baixa perto da 3ª casa** com uma **região mais aguda na corda G**.\n\nVocê vai aprender a:\n- Manter o som de **Dó maior bem claro** em duas oitavas\n- Sentir onde ficam as **“zonas de C” grave e aguda** no braço\n- Fazer um **shift de posição** limpo no meio da escala",
+          "es": "# Do mayor – dos octavas por posiciones\nEn esta lección vas a tocar una **escala de Do mayor de dos octavas**, uniendo una **posición baja cerca del traste 3** con una **zona más aguda en la cuerda G**.\n\nVas a aprender a:\n- Mantener un **sonido claro de Do mayor** en dos octavas\n- Sentir dónde están las **“zonas de Do” grave y aguda** en el mástil\n- Hacer un **cambio de posición** limpio en la mitad de la escala"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left-hand setup\nWe’ll use a **comfortable 2nd position** for the lower octave:\n- Let your **index (1)** sit around the **2nd fret**\n- Use **1–2–4** (index–middle–pinky) for frets 2–3–5\n- Keep your thumb roughly behind the **2nd–3rd fret**\n\nFor the upper octave we’ll **shift the hand up the G string** when we pass the first high C.",
+          "zh-Hans": "# 左手准备\n低八度我们用一个舒服的 **第2把位**：\n- 让**食指（1指）**大致落在**第2品**的位置\n- 用 **1–2–4 指法**（食指–中指–小指）来负责第2、3、5品\n- 大拇指大致放在**第2–3品**后面\n\n到了高八度，我们会在经过第一个高音 C 后，**沿着 G 弦把左手上移**。",
+          "de": "# Linke Hand – Setup\nFür die untere Oktave nutzen wir eine bequeme **2. Lage**:\n- Der **Zeigefinger (1)** „wohnt“ ungefähr im **2. Bund**\n- Nutze **1–2–4** (Zeige–Mittel–Kleiner Finger) für die Bünde 2–3–5\n- Der Daumen liegt grob hinter dem **2.–3. Bund**\n\nFür die obere Oktave **rutschst du die Hand auf der G-Saite nach oben**, nachdem du das erste hohe C erreicht hast.",
+          "ja": "# 左手のセットアップ\n低いオクターブでは、弾きやすい**第2ポジション**を使います：\n- **人差し指（1）**を**2フレット付近**に置いておく\n- フレット2・3・5を、**1–2–4（人差し指・中指・小指）**で担当\n- 親指はだいたい**2〜3フレットの裏あたり**に置く\n\n高いオクターブでは、最初の高いCを超えたあたりで、**G弦上を少し上にシフト**して弾き続けます。",
+          "pt-BR": "# Posição da mão esquerda\nNa oitava grave vamos usar uma **2ª posição** confortável:\n- Deixe o **indicador (1)** morar ali pela **2ª casa**\n- Use **1–2–4** (indicador–médio–mindinho) para as casas 2–3–5\n- O polegar fica mais ou menos atrás da **2ª–3ª casa**\n\nNa oitava aguda vamos **subir a mão pela corda G** depois de passar pelo primeiro Dó agudo.",
+          "es": "# Colocación de la mano izquierda\nEn la octava grave usaremos una **2ª posición** cómoda:\n- Deja el **índice (1)** más o menos sobre el **traste 2**\n- Usa **1–2–4** (índice–medio–meñique) para los trastes 2–3–5\n- El pulgar va aproximadamente detrás de los **trastes 2–3**\n\nEn la octava aguda **deslizarás la mano por la cuerda G hacia arriba** después de pasar por el primer Do agudo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Lower octave – C to C in 2nd position\nStandard tuning (E–A–D–G).\n\nOn **A, D and G strings**:\n- A string, 3rd fret – **C** (finger 2 or 1, depending on your reach)\n- A string, 5th fret – **D** (finger 4)\n- D string, 2nd fret – **E** (finger 1)\n- D string, 3rd fret – **F** (finger 2)\n- D string, 5th fret – **G** (finger 4)\n- G string, 2nd fret – **A** (finger 1)\n- G string, 4th fret – **B** (finger 3 or 4)\n- G string, 5th fret – **C** (finger 4)\n\nPlay this a few times **up and down** until it feels relaxed and clear.",
+          "zh-Hans": "# 低八度——第2把位的 C 到 C\n标准定弦（E–A–D–G）。\n\n在 **A、D、G 弦**上：\n- A 弦 第3品 – **C**（可用 2 指或 1 指，看你手的跨度）\n- A 弦 第5品 – **D**（4 指）\n- D 弦 第2品 – **E**（1 指）\n- D 弦 第3品 – **F**（2 指）\n- D 弦 第5品 – **G**（4 指）\n- G 弦 第2品 – **A**（1 指）\n- G 弦 第4品 – **B**（3 或 4 指）\n- G 弦 第5品 – **C**（4 指）\n\n先把这一组上下多弹几遍，确保手感放松、每个音都够清晰。",
+          "de": "# Untere Oktave – C bis C in 2. Lage\nStandardstimmung (E–A–D–G).\n\nAuf **A-, D- und G-Saite**:\n- A-Saite, 3. Bund – **C** (Finger 2 oder 1, je nach Handspanne)\n- A-Saite, 5. Bund – **D** (Finger 4)\n- D-Saite, 2. Bund – **E** (Finger 1)\n- D-Saite, 3. Bund – **F** (Finger 2)\n- D-Saite, 5. Bund – **G** (Finger 4)\n- G-Saite, 2. Bund – **A** (Finger 1)\n- G-Saite, 4. Bund – **B** (Finger 3 oder 4)\n- G-Saite, 5. Bund – **C** (Finger 4)\n\nSpiele diese Oktave ein paar Mal **auf- und abwärts**, bis sie sich entspannt und klar anfühlt.",
+          "ja": "# 低いオクターブ：第2ポジションでのC〜C\nスタンダード・チューニング（E–A–D–G）。\n\n**A弦・D弦・G弦**を使います：\n- A弦 3フレット – **C**（手のサイズに合わせて2指か1指）\n- A弦 5フレット – **D**（4指）\n- D弦 2フレット – **E**（1指）\n- D弦 3フレット – **F**（2指）\n- D弦 5フレット – **G**（4指）\n- G弦 2フレット – **A**（1指）\n- G弦 4フレット – **B**（3指または4指）\n- G弦 5フレット – **C**（4指）\n\nまずはこの1オクターブを、**上がり下がり**何回か弾いて、無理なくきれいに出せるようにしましょう。",
+          "pt-BR": "# Oitava grave – Dó a Dó na 2ª posição\nAfinação padrão (E–A–D–G).\n\nUsando as cordas **A, D e G**:\n- Corda A, 3ª casa – **C** (dedo 2 ou 1, dependendo do seu alcance)\n- Corda A, 5ª casa – **D** (dedo 4)\n- Corda D, 2ª casa – **E** (dedo 1)\n- Corda D, 3ª casa – **F** (dedo 2)\n- Corda D, 5ª casa – **G** (dedo 4)\n- Corda G, 2ª casa – **A** (dedo 1)\n- Corda G, 4ª casa – **B** (dedo 3 ou 4)\n- Corda G, 5ª casa – **C** (dedo 4)\n\nToque essa oitava algumas vezes **subindo e descendo**, até ficar natural e relaxado.",
+          "es": "# Octava grave – Do a Do en 2ª posición\nAfinación estándar (E–A–D–G).\n\nUsando las cuerdas **A, D y G**:\n- Cuerda A, traste 3 – **C** (dedo 2 o 1, según tu alcance)\n- Cuerda A, traste 5 – **D** (dedo 4)\n- Cuerda D, traste 2 – **E** (dedo 1)\n- Cuerda D, traste 3 – **F** (dedo 2)\n- Cuerda D, traste 5 – **G** (dedo 4)\n- Cuerda G, traste 2 – **A** (dedo 1)\n- Cuerda G, traste 4 – **B** (dedo 3 o 4)\n- Cuerda G, traste 5 – **C** (dedo 4)\n\nToca esta octava varias veces **subiendo y bajando** hasta que se sienta cómoda y clara."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Upper octave – C to C on the G string\nFrom the C at the **5th fret on the G string**, continue up the neck on the **same string**:\n\n- G string, 5th fret – **C** (already there)\n- G string, 7th fret – **D**\n- G string, 9th fret – **E**\n- G string, 10th fret – **F**\n- G string, 12th fret – **G**\n- G string, 14th fret – **A**\n- G string, 16th fret – **B**\n- G string, 17th fret – **C** (top C)\n\nYou’ll need to **shift your hand up** around the 9th–10th fret. Keep the thumb moving with the hand and stay relaxed.",
+          "zh-Hans": "# 高八度——G 弦上的 C 到 C\n从 G 弦 **第5品的 C** 继续往上，在**同一根弦**上完成高八度：\n\n- G 弦 第5品 – **C**（起点）\n- G 弦 第7品 – **D**\n- G 弦 第9品 – **E**\n- G 弦 第10品 – **F**\n- G 弦 第12品 – **G**\n- G 弦 第14品 – **A**\n- G 弦 第16品 – **B**\n- G 弦 第17品 – **C**（最高的 C）\n\n大概在第9–10品附近，你需要**整体把左手往上移**。拇指也跟着一起移动，手要保持放松。",
+          "de": "# Obere Oktave – C bis C auf der G-Saite\nVom C im **5. Bund der G-Saite** aus spielst du die obere Oktave auf **derselben Saite** weiter:\n\n- G-Saite, 5. Bund – **C** (Ausgangspunkt)\n- G-Saite, 7. Bund – **D**\n- G-Saite, 9. Bund – **E**\n- G-Saite, 10. Bund – **F**\n- G-Saite, 12. Bund – **G**\n- G-Saite, 14. Bund – **A**\n- G-Saite, 16. Bund – **B**\n- G-Saite, 17. Bund – **C** (oberes C)\n\nEtwa um den 9.–10. Bund herum musst du die Hand **als Block nach oben schieben**. Der Daumen rückt mit und die Hand bleibt locker.",
+          "ja": "# 高いオクターブ：G弦上のC〜C\nG弦 **5フレットのC** から、そのまま**同じG弦**上で上に進んで高いオクターブを弾きます：\n\n- G弦 5フレット – **C**（スタート）\n- G弦 7フレット – **D**\n- G弦 9フレット – **E**\n- G弦 10フレット – **F**\n- G弦 12フレット – **G**\n- G弦 14フレット – **A**\n- G弦 16フレット – **B**\n- G弦 17フレット – **C**（一番高いC）\n\n9〜10フレットあたりで、左手を**ひとかたまりで上にシフト**する必要があります。親指も一緒に動かし、力まないようにしましょう。",
+          "pt-BR": "# Oitava aguda – Dó a Dó na corda G\nA partir do Dó da **5ª casa da corda G**, seguimos pela **mesma corda** até o Dó agudo:\n\n- Corda G, 5ª casa – **C** (ponto de partida)\n- Corda G, 7ª casa – **D**\n- Corda G, 9ª casa – **E**\n- Corda G, 10ª casa – **F**\n- Corda G, 12ª casa – **G**\n- Corda G, 14ª casa – **A**\n- Corda G, 16ª casa – **B**\n- Corda G, 17ª casa – **C** (Dó mais agudo)\n\nPor volta da 9ª–10ª casa você vai precisar **subir a mão**. Deixe o polegar acompanhar esse movimento e mantenha tudo relaxado.",
+          "es": "# Octava aguda – Do a Do en la cuerda G\nDesde el Do del **traste 5 en la cuerda G**, seguimos por la **misma cuerda** hasta el Do agudo:\n\n- Cuerda G, traste 5 – **C** (punto de partida)\n- Cuerda G, traste 7 – **D**\n- Cuerda G, traste 9 – **E**\n- Cuerda G, traste 10 – **F**\n- Cuerda G, traste 12 – **G**\n- Cuerda G, traste 14 – **A**\n- Cuerda G, traste 16 – **B**\n- Cuerda G, traste 17 – **C** (Do más agudo)\n\nAlrededor de los trastes 9–10 tendrás que **subir la mano en bloque**. Deja que el pulgar se mueva con ella y mantén la mano relajada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Putting it together – two octaves up and down\n1. Start on **C (A string, 3rd fret)** and play the **lower octave pattern** up to **C (G string, 5th fret)**.  \n2. Continue on the G string through the **upper octave** up to the high **C (17th fret)**.  \n3. Come **back down** the exact same way.  \n4. Use **alternating right-hand fingers** (i–m–i–m…) and keep the tempo slow and steady.\n\nThink of it as one long C major line that just **changes position once**.",
+          "zh-Hans": "# 组合起来——两组音上下走\n1. 从 **A 弦第3品的 C** 开始，先弹完到 **G 弦第5品 C** 的**低八度指型**。  \n2. 然后继续在 G 弦上弹完上面的**高八度**，直到 **第17品的高音 C**。  \n3. 再按原路**从高往低弹回来**。  \n4. 右手始终用**食指–中指交替**（i–m–i–m…），速度保持慢而稳定。\n\n把这一切当成一条长长的 C 大调音阶，只是在中间**换了一次把位**。",
+          "de": "# Alles verbinden – zwei Oktaven rauf und runter\n1. Beginne bei **C (A-Saite, 3. Bund)** und spiele das **untere Oktavpattern** bis zum **C (G-Saite, 5. Bund)**.  \n2. Spiele auf der G-Saite weiter durch die **obere Oktave** bis zum hohen **C (17. Bund)**.  \n3. Gehe **genau denselben Weg wieder zurück**.  \n4. Nutze durchgehend **Wechselschlag rechts** (i–m–i–m…) und halte das Tempo langsam und gleichmäßig.\n\nStell dir das Ganze als eine einzige lange C-Dur-Linie vor, die nur **einmal die Lage wechselt**.",
+          "ja": "# つなげて弾く：2オクターブの上がり下がり\n1. **A弦3フレットのC** から始めて、**G弦5フレットのC** までの**低いオクターブのパターン**を弾く。  \n2. そのままG弦上で**高いオクターブ**をたどり、**17フレットの高いC** まで上がる。  \n3. 同じ道筋で、今度は**上から下へ**戻る。  \n4. 右手はずっと**人差し指・中指のオルタネイト**（i–m–i–m…）で、テンポはゆっくり一定に。\n\n「途中で**1回だけポジションを変える**Cメジャー・スケール」としてイメージすると分かりやすいです。",
+          "pt-BR": "# Juntando tudo – duas oitavas subindo e descendo\n1. Comece no **C (corda A, 3ª casa)** e toque o **desenho da oitava grave** até o **C (corda G, 5ª casa)**.  \n2. Continue na corda G pela **oitava aguda** até o **C da 17ª casa**.  \n3. Volte **pelo mesmo caminho**, descendo a escala.  \n4. Use sempre **alternância na mão direita** (i–m–i–m…) e mantenha o tempo lento e estável.\n\nPense nisso como uma única linha de Dó maior que apenas **muda de posição uma vez**.",
+          "es": "# Uniendo todo – dos octavas subiendo y bajando\n1. Empieza en **C (cuerda A, traste 3)** y toca el **patrón de la octava grave** hasta **C (cuerda G, traste 5)**.  \n2. Continúa en la cuerda G con la **octava aguda** hasta el **C del traste 17**.  \n3. Vuelve **por el mismo camino**, bajando la escala.  \n4. Usa siempre **alternancia en la mano derecha** (i–m–i–m…) y mantén el tempo lento y estable.\n\nPiensa en todo como una sola línea de Do mayor que sólo **cambia de posición una vez**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Play the **lower octave alone** (A–D–G strings) 3–4 times up and down.  \n2. Play the **upper octave alone** on the G string, focusing on the shift.  \n3. Play the **full two-octave scale** up and down 3 times with a slow, even click.  \n4. Finish by improvising a **very simple C major line** using notes from both octaves.\n\nThe more you repeat this, the more the neck will feel like a **connected map of C major**, not just a few isolated notes.",
+          "zh-Hans": "# 快速练习流程\n1. 先只弹**低八度**（A–D–G 弦），上下走 3–4 遍。  \n2. 再只在 G 弦上弹**高八度**，专注在换把是否顺畅。  \n3. 然后把**完整两组音音阶**上下各弹 3 遍，配合缓慢、稳定的节拍器。  \n4. 最后，用这两组音里的音随意编几个**非常简单的 C 大调小走线**。\n\n反复这样练，整根琴颈会越来越像一张**连在一起的 C 大调地图**，而不只是零散的几个音。",
+          "de": "# Kurze Übe-Routine\n1. Spiele zuerst nur die **untere Oktave** (A–D–G-Saite) 3–4 Mal rauf und runter.  \n2. Spiele dann nur die **obere Oktave** auf der G-Saite und konzentriere dich auf den Lagenwechsel.  \n3. Spiele die **komplette Zwei-Oktaven-Skala** drei Mal auf- und abwärts mit einem langsamen, gleichmäßigen Klick.  \n4. Beende die Einheit, indem du eine **ganz einfache C-Dur-Linie** improvisierst, die Töne aus beiden Oktaven nutzt.\n\nJe öfter du das wiederholst, desto mehr fühlt sich der Hals wie eine **zusammenhängende C-Dur-Landkarte** an – nicht wie ein paar einzelne Noten.",
+          "ja": "# かんたん練習ルーティン\n1. まずは**低いオクターブだけ**（A・D・G弦）を、上がり下がり3〜4回くり返す。  \n2. 次に、G弦だけで**高いオクターブ**を練習し、ポジション移動に集中する。  \n3. そのあと、**2オクターブ全部**をメトロノームのゆっくりしたクリックに合わせて、上下3回ずつ弾く。  \n4. 仕上げに、2オクターブの音を使って**ごく簡単なCメジャーのフレーズ**を少しだけ即興してみる。\n\nこれをくり返すほど、ネック全体が**つながったCメジャーの地図**として感じられるようになっていきます。",
+          "pt-BR": "# Rotina rápida de prática\n1. Toque só a **oitava grave** (cordas A–D–G) subindo e descendo 3–4 vezes.  \n2. Toque só a **oitava aguda** na corda G, cuidando do shift.  \n3. Toque a **escala completa de duas oitavas** 3 vezes pra cima e pra baixo com um clique bem lento e estável.  \n4. Termine improvisando uma **linha bem simples em Dó maior**, usando notas das duas oitavas.\n\nQuanto mais você repetir, mais o braço vai parecer um **mapa conectado de Dó maior**, e não só alguns pontos soltos.",
+          "es": "# Rutina rápida de práctica\n1. Toca sólo la **octava grave** (cuerdas A–D–G) subiendo y bajando 3–4 veces.  \n2. Toca sólo la **octava aguda** en la cuerda G, prestando atención al cambio de posición.  \n3. Toca la **escala completa de dos octavas** 3 veces arriba y abajo con un clic lento y parejo.  \n4. Termina improvisando una **línea muy sencilla en Do mayor**, usando notas de las dos octavas.\n\nCuanto más lo repitas, más el mástil se sentirá como un **mapa conectado de Do mayor**, y no sólo como unas pocas notas aisladas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

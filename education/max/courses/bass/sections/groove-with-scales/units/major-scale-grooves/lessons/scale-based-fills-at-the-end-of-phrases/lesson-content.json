@@ -1,0 +1,86 @@
+{
+  "id": "scale-based-fills-at-the-end-of-phrases",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Scale fills at the end of a phrase\nA **fill** is a short line you play at the **end of a phrase** to add energy and lead back into the groove.\n\nIn this lesson you’ll use the **C major scale** to build simple, clean fills that sit at the end of a 4-bar idea and land back on the root.",
+          "zh-Hans": "# 用音阶做乐句结尾的 Fill\n**Fill（填充乐句）** 是放在**乐句结尾**的一小段走线，用来增加能量并带回主节奏。\n\n本课中你会用 **C 大调音阶**，在 4 小节乐句的结尾做简单、干净的 fill，然后稳稳落回主音。",
+          "de": "# Skalen-Fills am Phrasenende\nEin **Fill** ist eine kurze Linie am **Ende einer Phrase**, die Spannung erzeugt und zurück in den Groove führt.\n\nIn dieser Lektion nutzt du die **C-Dur-Tonleiter**, um einfache, saubere Fills am Ende einer 4-Takt-Idee zu bauen, die wieder sicher auf dem Grundton landen.",
+          "ja": "# フレーズの最後で使うスケール・フィル\n**フィル**は、フレーズの**終わりに入れる短いライン**で、ちょっと盛り上げてからグルーヴに戻す役割があります。\n\nこのレッスンでは **Cメジャー・スケール** を使って、4小節フレーズの最後に置けるシンプルなフィルを作り、しっかりルートに着地させていきます。",
+          "pt-BR": "# Fills de escala no final da frase\nUm **fill** é uma frase curtinha que você toca no **final da frase** para dar uma levantada e voltar com estilo para o groove.\n\nNesta lição você vai usar a **escala de Dó maior** para criar fills simples no fim de uma ideia de 4 compassos, sempre voltando certinho para a tônica.",
+          "es": "# Fills con la escala al final de la frase\nUn **fill** es una línea corta que tocas al **final de la frase** para subir un poco la energía y volver al groove.\n\nEn esta lección vas a usar la **escala de Do mayor** para crear fills sencillos al final de una idea de 4 compases, regresando siempre a la tónica."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The scale area we’ll use\n4-string bass in E–A–D–G. We’ll stay around **C on the A string**:\n\n- C – 3rd string (A), 3rd fret\n- D – 3rd string, 5th fret\n- E – 2nd string (D), 2nd fret\n- F – 2nd string, 3rd fret\n- G – 2nd string, 5th fret\n- A – 1st string (G), 2nd fret\n- B – 1st string, 4th fret\n- C – 1st string, 5th fret\n\nKeep one finger per fret from 2–5 and let **C (3rd string, 3rd fret)** feel like home.",
+          "zh-Hans": "# 本课使用的音区\n4 弦贝斯，E–A–D–G 定弦。我们待在 **A 弦上的 C 附近**：\n\n- C – 第 3 弦（A），第 3 品\n- D – 第 3 弦，第 5 品\n- E – 第 2 弦（D），第 2 品\n- F – 第 2 弦，第 3 品\n- G – 第 2 弦，第 5 品\n- A – 第 1 弦（G），第 2 品\n- B – 第 1 弦，第 4 品\n- C – 第 1 弦，第 5 品\n\n左手尽量在第 **2–5 品一品一指**，把 **C（第 3 弦第 3 品）** 当作“家”。",
+          "de": "# Der Skalenbereich\n4-saitiger Bass in E–A–D–G. Wir bleiben um das **C auf der A-Saite** herum:\n\n- C – 3. Saite (A), 3. Bund\n- D – 3. Saite, 5. Bund\n- E – 2. Saite (D), 2. Bund\n- F – 2. Saite, 3. Bund\n- G – 2. Saite, 5. Bund\n- A – 1. Saite (G), 2. Bund\n- B – 1. Saite, 4. Bund\n- C – 1. Saite, 5. Bund\n\nNutze von Bund **2–5** möglichst einen Finger pro Bund und lass **C (3. Saite, 3. Bund)** wie dein Zuhause wirken.",
+          "ja": "# 使うスケールのポジション\n4弦ベース（E–A–D–Gチューニング）。**A弦上のC** 周辺を使います：\n\n- C – 3弦（A）3フレット\n- D – 3弦5フレット\n- E – 2弦（D）2フレット\n- F – 2弦3フレット\n- G – 2弦5フレット\n- A – 1弦（G）2フレット\n- B – 1弦4フレット\n- C – 1弦5フレット\n\n左手は **2〜5フレットを1フレット1本**でカバーして、**C（3弦3フレット）** を“帰る場所”として覚えておきましょう。",
+          "pt-BR": "# Região da escala que vamos usar\nBaixo de 4 cordas afinado em E–A–D–G. Vamos ficar perto do **C na corda A**:\n\n- C – 3ª corda (A), 3ª casa\n- D – 3ª corda, 5ª casa\n- E – 2ª corda (D), 2ª casa\n- F – 2ª corda, 3ª casa\n- G – 2ª corda, 5ª casa\n- A – 1ª corda (G), 2ª casa\n- B – 1ª corda, 4ª casa\n- C – 1ª corda, 5ª casa\n\nUse um dedo por casa entre as casas **2 e 5** e sinta **C (3ª corda, 3ª casa)** como seu “ponto de casa”.",
+          "es": "# Zona de la escala que usaremos\nBajo de 4 cuerdas afinado E–A–D–G. Nos quedamos cerca de **Do en la cuerda A**:\n\n- C – 3ª cuerda (A), traste 3\n- D – 3ª cuerda, traste 5\n- E – 2ª cuerda (D), traste 2\n- F – 2ª cuerda, traste 3\n- G – 2ª cuerda, traste 5\n- A – 1ª cuerda (G), traste 2\n- B – 1ª cuerda, traste 4\n- C – 1ª cuerda, traste 5\n\nUsa un dedo por traste entre **2 y 5** y siente **Do (3ª cuerda, traste 3)** como tu “casa”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Where the fill goes\nThink of a simple 4-bar groove on **C major**:\n\n- Bars 1–3: stay on a basic pattern, for example\n  - C – G – A – G (all 8th notes)\n- Bar 4: **first half = groove**, **second half = fill**\n\nA safe rule:\n- Keep **beat 1** of bar 4 on the root (C)\n- Use the **last two beats** (beats 3–4) for your scale fill\n- Land back on **C** on the next bar 1",
+          "zh-Hans": "# Fill 放在哪里？\n先想一个在 **C 大调** 上的 4 小节简单 groove：\n\n- 第 1–3 小节：保持基础型，比如\n  - C – G – A – G（都是八分音符）\n- 第 4 小节：**前半小节 = 继续 groove**，**后半小节 = 做 fill**\n\n一个稳妥的规则：\n- 第 4 小节的 **第 1 拍** 还是弹主音 C\n- 用最后 **两拍（第 3–4 拍）** 来做音阶 fill\n- 下一小节的第 1 拍再落回 **C**",
+          "de": "# Wo der Fill sitzt\nStell dir einen einfachen 4-Takt-Groove auf **C-Dur** vor:\n\n- Takte 1–3: bleib bei einem Basis-Pattern, z.B.\n  - C – G – A – G (alles Achtelnoten)\n- Takt 4: **erste Hälfte = Groove**, **zweite Hälfte = Fill**\n\nEine sichere Faustregel:\n- In Takt 4 liegt **Zählzeit 1** weiter auf dem Grundton (C)\n- Nutze die **letzten beiden Zählzeiten** (3–4) für deinen Skalen-Fill\n- Landen tust du wieder auf **C** auf der nächsten 1",
+          "ja": "# フィルを入れる位置\nまずは **Cメジャー** 上の4小節のシンプルなグルーヴをイメージします：\n\n- 1〜3小節目：基本パターンでキープ。例：\n  - C – G – A – G（全部8分音符）\n- 4小節目：**前半 = いつものグルーヴ**、**後半 = フィル**\n\n安全なルール：\n- 4小節目の **1拍目** はしっかりルートC\n- **3・4拍目** をスケール・フィルに使う\n- 次の小節の1拍目で、もう一度 **C** に着地する",
+          "pt-BR": "# Onde entra o fill\nPense em um groove simples de 4 compassos em **Dó maior**:\n\n- Compassos 1–3: fique em um padrão básico, por exemplo\n  - C – G – A – G (tudo em colcheias)\n- Compasso 4: **primeira metade = groove**, **segunda metade = fill**\n\nRegra segura:\n- No compasso 4, deixe a **batida 1** na tônica (C)\n- Use as **duas últimas batidas** (3 e 4) para o fill com a escala\n- Na volta, caia de novo em **C** no tempo 1 do próximo compasso",
+          "es": "# Dónde va el fill\nPiensa en un groove sencillo de 4 compases en **Do mayor**:\n\n- Compases 1–3: mantén un patrón básico, por ejemplo\n  - C – G – A – G (todas corcheas)\n- Compás 4: **primera mitad = groove**, **segunda mitad = fill**\n\nRegla segura:\n- En el compás 4, deja el **tiempo 1** en la tónica (C)\n- Usa los **dos últimos tiempos** (3 y 4) para tu fill con la escala\n- Vuelve a caer en **C** en el tiempo 1 del compás siguiente"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fill idea 1 – Straight scale climb\nAt the end of bar 4, play 8th notes on beats 3–4:\n\n- **E – F – G – A**, then land on **C** in the next bar\n\nOn the neck:\n- E – 2nd string, 2nd fret\n- F – 2nd string, 3rd fret\n- G – 2nd string, 5th fret\n- A – 1st string, 2nd fret\n- C – 3rd string, 3rd fret (next bar beat 1)\n\nIt’s just a small climb inside C major, but it clearly “lifts” the groove before you drop back to the root.",
+          "zh-Hans": "# Fill 思路 1 – 直接往上走音阶\n在第 4 小节的最后两拍，用八分音符：\n\n- **E – F – G – A**，然后在下一小节第 1 拍落在 **C**\n\n指板位置：\n- E – 第 2 弦第 2 品\n- F – 第 2 弦第 3 品\n- G – 第 2 弦第 5 品\n- A – 第 1 弦第 2 品\n- C – 第 3 弦第 3 品（下一小节第 1 拍）\n\n只是 C 大调里一个小小的上行，但能明显“抬一下”律动，再回到主音。",
+          "de": "# Fill-Idee 1 – Gerade Skalen-Aufwärtsbewegung\nAm Ende von Takt 4 spielst du Achtelnoten auf Zählzeit 3–4:\n\n- **E – F – G – A**, dann im nächsten Takt auf **C** landen\n\nAuf dem Griffbrett:\n- E – 2. Saite, 2. Bund\n- F – 2. Saite, 3. Bund\n- G – 2. Saite, 5. Bund\n- A – 1. Saite, 2. Bund\n- C – 3. Saite, 3. Bund (nächster Takt, Zählzeit 1)\n\nDas ist nur eine kurze Aufwärtsbewegung in C-Dur, hebt den Groove aber hörbar an, bevor du wieder auf dem Grundton landest.",
+          "ja": "# フィル案1 – まっすぐスケールを登る\n4小節目の最後2拍で、8分音符を弾きます：\n\n- **E – F – G – A** と弾いて、次の小節の1拍目で **C** に着地\n\nポジション：\n- E – 2弦2フレット\n- F – 2弦3フレット\n- G – 2弦5フレット\n- A – 1弦2フレット\n- C – 3弦3フレット（次の小節1拍目）\n\nCメジャーの中でちょっと登るだけですが、ルートに戻る前にグルーヴが“ふわっ”と持ち上がります。",
+          "pt-BR": "# Ideia de fill 1 – Subida reta na escala\nNo final do compasso 4, toque colcheias nos tempos 3 e 4:\n\n- **E – F – G – A**, e depois caia em **C** no compasso seguinte\n\nNo braço:\n- E – 2ª corda, 2ª casa\n- F – 2ª corda, 3ª casa\n- G – 2ª corda, 5ª casa\n- A – 1ª corda, 2ª casa\n- C – 3ª corda, 3ª casa (tempo 1 do próximo compasso)\n\nÉ só uma subidinha dentro de Dó maior, mas já dá aquela “levantada” antes de voltar para a tônica.",
+          "es": "# Idea de fill 1 – Subida directa por la escala\nAl final del compás 4, toca corcheas en los tiempos 3 y 4:\n\n- **E – F – G – A**, y luego aterriza en **C** en el siguiente compás\n\nEn el mástil:\n- E – 2ª cuerda, traste 2\n- F – 2ª cuerda, traste 3\n- G – 2ª cuerda, traste 5\n- A – 1ª cuerda, traste 2\n- C – 3ª cuerda, traste 3 (tiempo 1 del siguiente compás)\n\nEs solo una pequeña subida dentro de Do mayor, pero levanta claramente el groove antes de volver a la tónica."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fill idea 2 – Up then back down\nAnother option is to move and then **answer** it by coming back:\n\n8th notes on beats 3–4:\n- **D – E – G – E**, then land on **C** in the next bar\n\nOn the neck:\n- D – 3rd string, 5th fret\n- E – 2nd string, 2nd fret\n- G – 2nd string, 5th fret\n- E – 2nd string, 2nd fret again\n- C – 3rd string, 3rd fret (next bar)\n\nThis feels like a small question-and-answer built only from C major.",
+          "zh-Hans": "# Fill 思路 2 – 先上再回\n另一种思路是先往上动一下，再**回到原位**：\n\n在第 4 小节第 3–4 拍弹八分音符：\n- **D – E – G – E**，然后下一小节落在 **C**\n\n指板位置：\n- D – 第 3 弦第 5 品\n- E – 第 2 弦第 2 品\n- G – 第 2 弦第 5 品\n- E – 再一次第 2 弦第 2 品\n- C – 第 3 弦第 3 品（下一小节）\n\n听起来像是用 C 大调做的一个小“问答”句子。",
+          "de": "# Fill-Idee 2 – Hoch und wieder herunter\nHier bewegst du dich weg und **antwortest** dann, indem du zurückgehst:\n\nAchtelnoten auf Zählzeit 3–4:\n- **D – E – G – E**, dann im nächsten Takt auf **C** landen\n\nAuf dem Griffbrett:\n- D – 3. Saite, 5. Bund\n- E – 2. Saite, 2. Bund\n- G – 2. Saite, 5. Bund\n- E – wieder 2. Saite, 2. Bund\n- C – 3. Saite, 3. Bund (nächster Takt)\n\nDas wirkt wie eine kleine Frage-Antwort-Figur – komplett aus C-Dur gebaut.",
+          "ja": "# フィル案2 – 上がってから戻る\n今度は少し動いてから、**答えるように戻ってくる**パターンです：\n\n4小節目の3〜4拍目を8分音符で：\n- **D – E – G – E** と弾き、次の小節で **C** に着地\n\nポジション：\n- D – 3弦5フレット\n- E – 2弦2フレット\n- G – 2弦5フレット\n- E – もう一度 2弦2フレット\n- C – 3弦3フレット（次の小節）\n\nCメジャーだけでできた、小さな“問いかけ→答え”みたいなフィルになります。",
+          "pt-BR": "# Ideia de fill 2 – Sobe e volta\nAqui você se afasta um pouco e **responde** voltando:\n\nColcheias nos tempos 3 e 4:\n- **D – E – G – E**, depois caia em **C** no compasso seguinte\n\nNo braço:\n- D – 3ª corda, 5ª casa\n- E – 2ª corda, 2ª casa\n- G – 2ª corda, 5ª casa\n- E – de novo 2ª corda, 2ª casa\n- C – 3ª corda, 3ª casa (próximo compasso)\n\nParece uma mini frase de pergunta-e-resposta, toda feita só com a escala de Dó maior.",
+          "es": "# Idea de fill 2 – Subir y volver\nAquí te alejas un poco y **respondes** volviendo:\n\nCorcheas en los tiempos 3 y 4:\n- **D – E – G – E**, y luego caes en **C** en el siguiente compás\n\nEn el mástil:\n- D – 3ª cuerda, traste 5\n- E – 2ª cuerda, traste 2\n- G – 2ª cuerda, traste 5\n- E – otra vez 2ª cuerda, traste 2\n- C – 3ª cuerda, traste 3 (siguiente compás)\n\nSe siente como una pequeña pregunta-respuesta construida solo con la escala de Do mayor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice and keep it musical\n- Use a **metronome** or a C major backing track\n- First play 4 bars of just the basic groove\n- Then add **fill 1** on bar 4 every vez\n- Next round, use **fill 2** instead\n- Finally, decide **on the fly**: sometimes no fill, sometimes 1 or 2\n\nIf the groove still feels solid and the fill lands back on the root on time, you’re using scale-based fills the right way.",
+          "zh-Hans": "# 练习建议：让它保持“像音乐”\n- 用 **节拍器** 或 C 大调伴奏\n- 先只弹 4 小节基础 groove，不加 fill\n- 然后每次在第 4 小节加上 **fill 1**\n- 下一轮改成加 **fill 2**\n- 再下一轮就随机决定：有时不加，有时用 1，有时用 2\n\n只要整体 groove 还是稳的，并且 fill 能准时落回主音，你就在用一个正确、好听的音阶 fill 方法。",
+          "de": "# Üben und musikalisch bleiben\n- Nutze ein **Metronom** oder ein C-Dur-Backing\n- Spiele zuerst 4 Takte nur den Basis-Groove\n- Dann füge in Takt 4 jedes Mal **Fill 1** ein\n- In der nächsten Runde stattdessen **Fill 2**\n- Danach entscheide **spontan**: mal kein Fill, mal 1, mal 2\n\nWenn der Groove stabil bleibt und der Fill rechtzeitig wieder auf dem Grundton landet, setzt du deine Skalen-Fills genau richtig ein.",
+          "ja": "# 練習のポイント：音楽的にキープする\n- **メトロノーム**かCメジャーのバッキングを使う\n- まずは4小節ずっと基本グルーヴだけを弾く\n- 次に、毎回4小節目の終わりに **フィル1** を入れてみる\n- その次は **フィル2** に入れ替えて練習\n- 慣れてきたら、その場で判断：フィルなし / フィル1 / フィル2 をランダムに使い分ける\n\nグルーヴが崩れず、フィルがちゃんと時間どおりにルートへ戻ってこれていれば、スケール・フィルをいい使い方ができています。",
+          "pt-BR": "# Como praticar e manter musical\n- Use um **metrônomo** ou um backing em Dó maior\n- Primeiro toque 4 compassos só com o groove básico\n- Depois passe a colocar o **fill 1** sempre no compasso 4\n- Na rodada seguinte, use o **fill 2** no compasso 4\n- Por fim, decida **na hora**: às vezes sem fill, às vezes o 1, às vezes o 2\n\nSe o groove continuar firme e o fill cair de volta na tônica na hora certa, você está usando fills baseados em escala do jeito certo.",
+          "es": "# Practicar y mantenerlo musical\n- Usa un **metrónomo** o un backing en Do mayor\n- Primero toca 4 compases solo con el groove básico\n- Luego empieza a poner el **fill 1** siempre en el compás 4\n- En la siguiente vuelta, cambia al **fill 2**\n- Al final, decide **sobre la marcha**: a veces sin fill, a veces el 1, a veces el 2\n\nSi el groove sigue firme y el fill vuelve a la tónica a tiempo, estás usando los fills basados en escala de la manera correcta."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

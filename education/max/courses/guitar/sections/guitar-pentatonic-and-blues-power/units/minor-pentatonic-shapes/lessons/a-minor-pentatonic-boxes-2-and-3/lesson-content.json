@@ -1,0 +1,73 @@
+{
+  "id": "a-minor-pentatonic-boxes-2-and-3",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A minor pentatonic – Boxes 2 and 3\nIn this lesson you’ll move **up the neck** from A minor pentatonic box 1 into **boxes 2 and 3**.\n\nIt’s still the same five notes:\nA C D E G\n\nYou’ll learn to:\n- See how box 2 and box 3 **connect to box 1**\n- Find the **A root notes** in each shape\n- Walk smoothly through **three boxes in a row**",
+          "zh-Hans": "# A小调五声音阶 —— Box 2 和 Box 3\n这一课你会从 A小调五声音阶的 box 1 往**琴颈高把位**移动，进入 **box 2 和 box 3**。\n\n用的还是同样5个音：\nA C D E G\n\n你会学到：\n- 看懂 box 2 和 box 3 是如何**和 box 1 接在一起**的\n- 找到每个指型里所有的 **A（主音）**\n- 在指板上连续走过 **三个 box**，不被卡住",
+          "de": "# A-Moll-Pentatonik – Box 2 und 3\nIn dieser Lektion wanderst du vom A-Moll-Pentatonik Box 1 **weiter den Hals hinauf** in **Box 2 und Box 3**.\n\nEs bleiben dieselben fünf Töne:\nA C D E G\n\nDu lernst:\n- Wie Box 2 und Box 3 **an Box 1 anschließen**\n- Wo die **A-Grundtöne** in jeder Form liegen\n- Drei Boxen hintereinander **flüssig zu verbinden**",
+          "ja": "# Aマイナー・ペンタトニック – Box 2 と Box 3\nこのレッスンでは、Aマイナー・ペンタトニックのBox 1から、ネックの**上側**にある **Box 2 と Box 3** へつなげていきます。\n\n使う音はずっと同じ5音：\nA C D E G\n\nここでのねらい：\n- Box 2 と Box 3 が、Box 1 とどう**つながっているか**を理解する\n- それぞれの形の中にある **A（ルート）** の位置をつかむ\n- 3つのボックスを**切れ目なく行き来**できるようにする",
+          "pt-BR": "# Lá menor pentatônica – Boxes 2 e 3\nNesta lição você vai subir **a partir do Box 1** da pentatônica de Lá menor e entrar nos **Boxes 2 e 3**.\n\nContinuamos com as mesmas cinco notas:\nA C D E G\n\nVocê vai aprender a:\n- Ver como o box 2 e o box 3 **se encaixam no box 1**\n- Achar as **tônicas A** em cada desenho\n- Caminhar por **três boxes seguidos** sem travar",
+          "es": "# La menor pentatónica – Cajas 2 y 3\nEn esta lección vas a moverte **hacia arriba en el mástil** desde la caja 1 de La menor pentatónica hasta las **cajas 2 y 3**.\n\nSeguimos con las mismas cinco notas:\nA C D E G\n\nVas a aprender a:\n- Ver cómo la caja 2 y la caja 3 **se conectan con la caja 1**\n- Encontrar las **tónicas A** en cada forma\n- Recorrer **tres cajas seguidas** de forma fluida"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Box 2 – above box 1\nBox 2 sits **right above** box 1, starting around the 8th fret.\n\nOn each string (standard tuning):\n- 6th string: 8th (C) – 10th (D)\n- 5th string: 7th (E) – 10th (G)\n- 4th string: 7th (A) – 10th (C)\n- 3rd string: 7th (D) – 9th (E)\n- 2nd string: 8th (G) – 10th (A)\n- 1st string: 8th (C) – 10th (D)\n\nRoot notes (A) in box 2:\n- 4th string, 7th fret\n- 2nd string, 10th fret\n\nThink of box 2 as “**C-root box**” that continues the A minor pentatonic above box 1.",
+          "zh-Hans": "# Box 2 —— 在 box 1 的上方\nBox 2 就在 box 1 的**上面**，大约从第8品开始。\n\n标准定弦下，每根弦的品位：\n- 第6弦：8品 (C) – 10品 (D)\n- 第5弦：7品 (E) – 10品 (G)\n- 第4弦：7品 (A) – 10品 (C)\n- 第3弦：7品 (D) – 9品 (E)\n- 第2弦：8品 (G) – 10品 (A)\n- 第1弦：8品 (C) – 10品 (D)\n\n这个指型里的 **A（主音）** 是：\n- 第4弦，第7品\n- 第2弦，第10品\n\n可以把 box 2 当成一个以 **C 为根音的形状**，是 A小调五声音阶在 box 1 之上的自然延伸。",
+          "de": "# Box 2 – direkt über Box 1\nBox 2 liegt **direkt über** Box 1 und beginnt ungefähr am 8. Bund.\n\n(Pro Saite, Standardstimmung):\n- 6. Saite: 8. Bund (C) – 10. Bund (D)\n- 5. Saite: 7. Bund (E) – 10. Bund (G)\n- 4. Saite: 7. Bund (A) – 10. Bund (C)\n- 3. Saite: 7. Bund (D) – 9. Bund (E)\n- 2. Saite: 8. Bund (G) – 10. Bund (A)\n- 1. Saite: 8. Bund (C) – 10. Bund (D)\n\nA-Grundtöne in Box 2:\n- 4. Saite, 7. Bund\n- 2. Saite, 10. Bund\n\nDu kannst dir Box 2 als „**C-Root-Box**“ vorstellen, die die A-Moll-Pentatonik oberhalb von Box 1 fortsetzt.",
+          "ja": "# Box 2 ― Box 1のすぐ上\nBox 2は、Box 1 の**すぐ上**にあり、おおよそ8フレット前後から始まります。\n\n標準チューニングでの各弦のポジション：\n- 6弦：8F (C) – 10F (D)\n- 5弦：7F (E) – 10F (G)\n- 4弦：7F (A) – 10F (C)\n- 3弦：7F (D) – 9F (E)\n- 2弦：8F (G) – 10F (A)\n- 1弦：8F (C) – 10F (D)\n\nこのボックスの中の **A（ルート）**：\n- 4弦 7フレット\n- 2弦 10フレット\n\nBox 2は、Aマイナー・ペンタトニックをBox 1からさらに上へ伸ばした、**Cをルートに含む形**としてイメージすると分かりやすいです。",
+          "pt-BR": "# Box 2 – logo acima do box 1\nO box 2 fica **logo acima** do box 1, começando por volta da 8ª casa.\n\nEm cada corda (afinação padrão):\n- 6ª corda: casa 8 (C) – casa 10 (D)\n- 5ª corda: casa 7 (E) – casa 10 (G)\n- 4ª corda: casa 7 (A) – casa 10 (C)\n- 3ª corda: casa 7 (D) – casa 9 (E)\n- 2ª corda: casa 8 (G) – casa 10 (A)\n- 1ª corda: casa 8 (C) – casa 10 (D)\n\nTônicas A dentro do box 2:\n- 4ª corda, 7ª casa\n- 2ª corda, 10ª casa\n\nPense no box 2 como um “**box com raiz em C**” que continua a pentatônica de Lá menor acima do box 1.",
+          "es": "# Caja 2 – justo encima de la caja 1\nLa caja 2 se encuentra **justo encima** de la caja 1, empezando sobre el traste 8 aproximadamente.\n\nEn cada cuerda (afinación estándar):\n- 6ª cuerda: traste 8 (C) – traste 10 (D)\n- 5ª cuerda: traste 7 (E) – traste 10 (G)\n- 4ª cuerda: traste 7 (A) – traste 10 (C)\n- 3ª cuerda: traste 7 (D) – traste 9 (E)\n- 2ª cuerda: traste 8 (G) – traste 10 (A)\n- 1ª cuerda: traste 8 (C) – traste 10 (D)\n\nTónicas A dentro de la caja 2:\n- 4ª cuerda, traste 7\n- 2ª cuerda, traste 10\n\nPuedes pensar la caja 2 como una **forma con raíz en C** que continúa la pentatónica de La menor por encima de la caja 1."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Box 3 – higher again\nBox 3 keeps moving up the neck, starting around the 10th fret.\n\nOn each string:\n- 6th string: 10th (D) – 12th (E)\n- 5th string: 10th (G) – 12th (A)\n- 4th string: 10th (C) – 12th (D)\n- 3rd string: 9th (E) – 12th (G)\n- 2nd string: 10th (A) – 13th (C)\n- 1st string: 10th (D) – 12th (E)\n\nRoot notes (A) in box 3:\n- 5th string, 12th fret\n- 2nd string, 10th fret\n\nBox 3 feels tighter under the fingers, and it puts you close to the **12th fret area**, where the neck “restarts”.",
+          "zh-Hans": "# Box 3 —— 再往上移\nBox 3 继续往高把位走，大约从第10品开始。\n\n每根弦的品位：\n- 第6弦：10品 (D) – 12品 (E)\n- 第5弦：10品 (G) – 12品 (A)\n- 第4弦：10品 (C) – 12品 (D)\n- 第3弦：9品 (E) – 12品 (G)\n- 第2弦：10品 (A) – 13品 (C)\n- 第1弦：10品 (D) – 12品 (E)\n\n这个指型里的 **A（主音）**：\n- 第5弦，第12品\n- 第2弦，第10品\n\nBox 3 的手感更紧凑，也把你带到了靠近 **第12品** 的区域——那里相当于指板的一个“重新开始点”。",
+          "de": "# Box 3 – noch weiter oben\nBox 3 geht den Hals weiter hinauf und beginnt ungefähr am 10. Bund.\n\n(Pro Saite):\n- 6. Saite: 10. Bund (D) – 12. Bund (E)\n- 5. Saite: 10. Bund (G) – 12. Bund (A)\n- 4. Saite: 10. Bund (C) – 12. Bund (D)\n- 3. Saite: 9. Bund (E) – 12. Bund (G)\n- 2. Saite: 10. Bund (A) – 13. Bund (C)\n- 1. Saite: 10. Bund (D) – 12. Bund (E)\n\nA-Grundtöne in Box 3:\n- 5. Saite, 12. Bund\n- 2. Saite, 10. Bund\n\nBox 3 fühlt sich kompakter an und bringt dich in die Nähe des **12. Bundes**, wo sich das Griffbrett quasi „wiederholt“.",
+          "ja": "# Box 3 ― さらに上のポジション\nBox 3は、ネックをさらに上へ進んだ **10フレット前後** から始まります。\n\n各弦のフレット：\n- 6弦：10F (D) – 12F (E)\n- 5弦：10F (G) – 12F (A)\n- 4弦：10F (C) – 12F (D)\n- 3弦：9F (E) – 12F (G)\n- 2弦：10F (A) – 13F (C)\n- 1弦：10F (D) – 12F (E)\n\nこのボックスの **A（ルート）**：\n- 5弦 12フレット\n- 2弦 10フレット\n\nBox 3は指の収まりが少しタイトになり、同時にネックの“折り返し地点”ともいえる **12フレット付近** に近づきます。",
+          "pt-BR": "# Box 3 – mais acima ainda\nO box 3 continua subindo pelo braço, começando por volta da 10ª casa.\n\nEm cada corda:\n- 6ª corda: casa 10 (D) – casa 12 (E)\n- 5ª corda: casa 10 (G) – casa 12 (A)\n- 4ª corda: casa 10 (C) – casa 12 (D)\n- 3ª corda: casa 9 (E) – casa 12 (G)\n- 2ª corda: casa 10 (A) – casa 13 (C)\n- 1ª corda: casa 10 (D) – casa 12 (E)\n\nTônicas A no box 3:\n- 5ª corda, 12ª casa\n- 2ª corda, 10ª casa\n\nO box 3 é um pouco mais compacto na mão e te leva para perto da **região da 12ª casa**, onde o braço “recomeça” uma oitava acima.",
+          "es": "# Caja 3 – todavía más arriba\nLa caja 3 sigue subiendo por el mástil, empezando cerca del traste 10.\n\nEn cada cuerda:\n- 6ª cuerda: traste 10 (D) – traste 12 (E)\n- 5ª cuerda: traste 10 (G) – traste 12 (A)\n- 4ª cuerda: traste 10 (C) – traste 12 (D)\n- 3ª cuerda: traste 9 (E) – traste 12 (G)\n- 2ª cuerda: traste 10 (A) – traste 13 (C)\n- 1ª cuerda: traste 10 (D) – traste 12 (E)\n\nTónicas A en la caja 3:\n- 5ª cuerda, traste 12\n- 2ª cuerda, traste 10\n\nLa caja 3 se siente más compacta bajo los dedos y te deja cerca de la zona del **traste 12**, donde el mástil “se reinicia” una octava más alta."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting boxes 1–2–3\nTo really use these shapes in solos, you want to **connect** them instead of treating each box as a wall.\n\nTry this:\n1. Start in **box 1**, play up until you run out of notes.\n2. Slide your hand up and continue in **box 2**.\n3. From the top of box 2, keep going into **box 3**.\n4. Come back down: box 3 → box 2 → box 1, staying in each shape as long as possible.\n\nStay aware of where the **A notes** are in every box – they glue everything together.",
+          "zh-Hans": "# 连接 box 1–2–3\n想在独奏里真正用好这些指型，就要把它们**连成一条路**，而不是当成三堵墙。\n\n可以这样练：\n1. 从 **box 1** 开始往上弹，弹到这个指型的最高音。\n2. 手往上滑，顺势接到 **box 2** 继续往上。\n3. 在 box 2 顶部再往上走，进入 **box 3**。\n4. 下行时反过来：从 box 3 → box 2 → box 1，一路往下，能在一个指型里待多久就待多久。\n\n无论在哪个 box，都要随时知道 **A 在哪里**——它们是把所有形状黏在一起的“胶水”。",
+          "de": "# Box 1–2–3 verbinden\nDamit die Formen in Soli wirklich nützlich werden, solltest du sie **miteinander verbinden**, statt jede Box als eigene „Grenze“ zu sehen.\n\nÜbungsvorschlag:\n1. Starte in **Box 1** und spiel nach oben, bis dir die Töne ausgehen.\n2. Rutsche mit der Hand nach oben und spiel in **Box 2** weiter.\n3. Von der Spitze von Box 2 gehst du weiter hinauf in **Box 3**.\n4. Auf dem Rückweg: Box 3 → Box 2 → Box 1, und in jeder Form so lange bleiben, wie es bequem ist.\n\nBehalte in jeder Box im Blick, wo die **A-Töne** liegen – sie verbinden alles zu einem einzigen A-Moll-Gebiet.",
+          "ja": "# Box 1–2–3 をつなげる\nソロで本当に活かすためには、それぞれのボックスを“区切り”としてではなく、**つながった道**として感じられることが大事です。\n\nおすすめの練習：\n1. まず **Box 1** からスタートし、その形で行けるところまで上がる。\n2. そこから手を上にスライドして **Box 2** に入り、そのまま続けて上がる。\n3. Box 2 のいちばん上から、さらに上に進んで **Box 3** へ。\n4. 下がるときは逆順で：Box 3 → Box 2 → Box 1 と、1つずつボックスを戻りながら下がる。\n\nどのボックスにいても、常に **A（ルート）の位置** を意識しておきましょう。Aが、3つのボックスを1つのAマイナー空間としてまとめてくれます。",
+          "pt-BR": "# Conectando os boxes 1–2–3\nPara usar esses desenhos em solos de verdade, você precisa **ligar** tudo, em vez de tratar cada box como um bloco isolado.\n\nExperimente assim:\n1. Comece no **box 1** e suba até acabar as notas.\n2. Deslize a mão para cima e continue no **box 2**.\n3. Do topo do box 2, siga em frente e entre no **box 3**.\n4. Na volta, faça o caminho ao contrário: box 3 → box 2 → box 1, ficando em cada desenho o máximo que der.\n\nEm todos os momentos, saiba onde estão as **tônicas A** em cada box – elas são o fio que costura tudo em uma única região de Lá menor.",
+          "es": "# Conectando las cajas 1–2–3\nPara usar estas formas en solos, necesitas **conectarlas**, no tratarlas como cajas separadas.\n\nPrueba esto:\n1. Empieza en la **caja 1** y sube hasta que se acaben las notas.\n2. Desliza la mano hacia arriba y continúa en la **caja 2**.\n3. Desde la parte alta de la caja 2, sigue subiendo hasta la **caja 3**.\n4. De vuelta, recorre el camino inverso: caja 3 → caja 2 → caja 1, quedándote en cada forma todo lo que puedas.\n\nEn todo momento, ten claro dónde están las **tónicas A** en cada caja: ellas unen todo en una sola zona de La menor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Play **box 1 only**, then **box 2 only**, then **box 3 only**, slow and clean.\n2. Add a metronome and play **one box per run**, up and down.\n3. Now make a longer run: start in box 1, pass through 2, finish in box 3.\n4. Create tiny licks (3–6 notes) that **cross from one box to the next**, always landing on A.\n\nThe goal isn’t speed yet – it’s feeling that A minor pentatonic is **one big shape** spread across the neck, not three separate boxes.",
+          "zh-Hans": "# 小练习\n1. 先分别练：只弹 **box 1**，只弹 **box 2**，只弹 **box 3**，慢而干净。\n2. 加上节拍器，每次选一个 box，上下各弹一遍。\n3. 然后做一次长跑：从 box 1 开始，经过 box 2，最后在 box 3 收尾。\n4. 试着编一些 **3～6 个音** 的小乐句，刻意让它们从一个 box **跨到下一个**，并以 A 作为落点。\n\n目标还不是速度，而是让大脑和手指都感觉到：A小调五声音阶其实是**一整块形状**，只是铺在指板上的不同位置，而不是三个孤立的格子。",
+          "de": "# Kurze Übung\n1. Spiel zuerst **nur Box 1**, dann **nur Box 2**, dann **nur Box 3**, langsam und sauber.\n2. Nimm ein Metronom dazu und spiel jede Box einzeln **auf- und abwärts**.\n3. Mach dann einen längeren Lauf: Starte in Box 1, geh durch Box 2 und lande in Box 3.\n4. Erfinde kleine Licks (3–6 Töne), die **von einer Box in die nächste hinübergehen**, und versuche, auf A zu landen.\n\nEs geht noch nicht um Tempo, sondern darum zu spüren, dass die A-Moll-Pentatonik **eine große Form** über den ganzen Hals ist – nicht drei getrennte Kästchen.",
+          "ja": "# さっとできる練習\n1. まずは **Box 1だけ**, **Box 2だけ**, **Box 3だけ** をそれぞれゆっくり・クリーンに練習。\n2. メトロノームをつけて、1回のランで1つのボックスを**上がって下がる**練習をする。\n3. 次にロング・ラン：Box 1からスタート → Box 2を通過 → Box 3で終わる、という形で弾いてみる。\n4. 3〜6音くらいの短いリックを作って、意識的に**隣り合うボックスをまたぐ**ようにしながら、最後はAで着地してみる。\n\n狙いはスピードではなく、「Aマイナー・ペンタトニックはネック全体に広がった**1つの大きな形**なんだ」と体で感じることです。",
+          "pt-BR": "# Prática rápida\n1. Toque **apenas o box 1**, depois **apenas o box 2**, depois **apenas o box 3**, bem devagar e limpo.\n2. Coloque o metrônomo e faça **um box por vez**, subindo e descendo.\n3. Em seguida, faça um corredor maior: comece no box 1, passe pelo 2 e feche no box 3.\n4. Crie mini licks (3 a 6 notas) que **atravessem de um box para o outro**, sempre tentando pousar em A.\n\nA meta ainda não é velocidade, e sim sentir que a pentatônica de Lá menor é **um desenho só espalhado pelo braço**, e não três caixinhas separadas.",
+          "es": "# Práctica rápida\n1. Toca **solo la caja 1**, luego **solo la caja 2**, luego **solo la caja 3**, despacio y limpio.\n2. Añade metrónomo y toca **una caja por recorrido**, subiendo y bajando.\n3. Después haz un recorrido largo: empieza en la caja 1, pasa por la 2 y termina en la 3.\n4. Crea mini licks (3–6 notas) que **crucen de una caja a la siguiente**, intentando aterrizar siempre en A.\n\nLa idea aún no es la velocidad, sino sentir que la pentatónica de La menor es **una sola forma grande** repartida por todo el mástil, no tres cajas aisladas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

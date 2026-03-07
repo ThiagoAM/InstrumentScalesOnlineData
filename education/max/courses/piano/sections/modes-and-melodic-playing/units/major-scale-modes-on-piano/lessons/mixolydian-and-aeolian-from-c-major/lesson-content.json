@@ -1,0 +1,86 @@
+{
+  "id": "mixolydian-and-aeolian-from-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mixolydian and Aeolian from C major\nIn this lesson you’ll build **G Mixolydian** and **A Aeolian** using only the notes of **C major**.\n\n- **G Mixolydian** = major sound with a **flat 7**\n- **A Aeolian** = the **natural minor** built from C major\n\nSame white keys, but different **home notes and chords** give very different moods.",
+          "zh-Hans": "# 从 C 大调出发的 Mixolydian 和 Aeolian\n本课你会只用 **C 大调** 的音，在钢琴上练习 **G Mixolydian** 和 **A Aeolian**。\n\n- **G Mixolydian** = 带有 **降7** 的“大调感”\n- **A Aeolian** = 从 C 大调中得到的**自然小调**\n\n按的都是白键，但**“家”的音和和弦不同**，气氛就完全换了。",
+          "de": "# Mixolydisch und Äolisch aus C-Dur\nIn dieser Lektion baust du **G Mixolydian** und **A Aeolian** nur mit den Tönen von **C-Dur**.\n\n- **G Mixolydian** = Dur-Sound mit **kleiner Septime**\n- **A Aeolian** = die **natürliche Molltonleiter** aus C-Dur\n\nDu spielst dieselben weißen Tasten, doch andere **Grundtöne und Akkorde** erzeugen ganz andere Stimmungen.",
+          "ja": "# Cメジャーから作るミクソリディアンとエオリアン\nこのレッスンでは、**Cメジャー**の音だけを使って、**Gミクソリディアン** と **Aエオリアン** を弾いていきます。\n\n- **G Mixolydian** = **♭7** を含むメジャー系のサウンド\n- **A Aeolian** = Cメジャーから作られる**ナチュラル・マイナー（自然短音階）**\n\n弾いている鍵盤は同じ白鍵でも、**どの音とコードを“ホーム”に感じるか**で雰囲気が大きく変わります。",
+          "pt-BR": "# Mixolydian e Aeolian a partir de Dó maior\nNesta lição você vai montar **G Mixolydian** e **A Aeolian** usando apenas as notas de **Dó maior**.\n\n- **G Mixolydian** = som maior com **sétima menor**\n- **A Aeolian** = a **escala menor natural** tirada de Dó maior\n\nSão as mesmas teclas brancas, mas **notas e acordes de referência diferentes** criam climas bem diferentes.",
+          "es": "# Mixolydian y Aeolian a partir de Do mayor\nEn esta lección vas a construir **G Mixolydian** y **A Aeolian** usando solo las notas de **Do mayor**.\n\n- **G Mixolydian** = sonido mayor con **séptima menor**\n- **A Aeolian** = la **escala menor natural** que sale de Do mayor\n\nSon las mismas teclas blancas, pero cambiar la **nota y el acorde que se sienten como hogar** cambia mucho el ambiente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G Mixolydian – dominant major sound\nStart on **G** and use only C major notes:\n\nG – A – B – C – D – E – F – G\n\nThis is **G Mixolydian**.\n\nSound:\n- Feels **major**, but a bit rough and bluesy\n- The **F** (flat 7) makes it want to push back to **C**\n\nTry this:\n- Left hand: hold **G7** (G–B–D–F) or just G + F\n- Right hand: play G Mixolydian slowly up and down around middle C, then make short 1-bar phrases using only these notes.",
+          "zh-Hans": "# G Mixolydian – 属和弦式的大调色彩\n从 **G** 开始，只用 C 大调的音：\n\nG – A – B – C – D – E – F – G\n\n这就是 **G Mixolydian**。\n\n听感：\n- 整体是**大调**，但带一点粗糙、blues 的味道\n- **F**（降7）让它有点想往 **C** 再推回去\n\n试一试：\n- 左手：按 **G7**（G–B–D–F），或只按 G + F\n- 右手：在中央 C 附近慢慢上下弹 G Mixolydian，然后只用这些音编一些一小节的小句子。",
+          "de": "# G Mixolydian – dominanter Dur-Sound\nBeginne auf **G** und bleib in den C-Dur-Tönen:\n\nG – A – H – C – D – E – F – G\n\nDas ist **G Mixolydian**.\n\nKlang:\n- Fühlt sich **dur-haft** an, aber etwas rau und bluesig\n- Die **F** (kleine Septime) erzeugt Spannung zurück nach **C**\n\nProbier das:\n- Linke Hand: halte **G7** (G–H–D–F) oder einfach G + F\n- Rechte Hand: spiele G Mixolydian langsam rauf und runter um das eingestrichene C und bastle dann kurze 1-Takt-Phrasen nur mit diesen Tönen.",
+          "ja": "# G Mixolydian – ドミナント系のメジャー・サウンド\n**G** から始めて、Cメジャーの音だけを使います：\n\nG – A – B – C – D – E – F – G\n\nこれが **Gミクソリディアン** です。\n\nサウンド：\n- ベースは**メジャー**だけど、少し荒くてブルージー\n- **F**（♭7）のおかげで、どこか **C** に戻りたくなる感じがある\n\n試してみよう：\n- 左手：**G7**（G–B–D–F）か、G と F だけを押さえる\n- 右手：中央Cまわりで G Mixolydian をゆっくり上下させ、その音だけで1小節の短いフレーズを作ってみる。",
+          "pt-BR": "# G Mixolydian – som maior dominante\nComece em **G** e use apenas as notas de Dó maior:\n\nG – A – B – C – D – E – F – G\n\nIsso é **G Mixolydian**.\n\nSom:\n- É **maior**, mas com um certo peso/blues\n- A nota **F** (7ª menor) deixa tudo querendo empurrar de volta para **C**\n\nExperimente:\n- Mão esquerda: segure **G7** (G–B–D–F) ou só G + F\n- Mão direita: toque G Mixolydian devagar, subindo e descendo perto do dó central, depois crie frases de 1 compasso usando só essas notas.",
+          "es": "# G Mixolydian – sonido mayor dominante\nComienza en **G** usando solo notas de Do mayor:\n\nG – A – B – C – D – E – F – G\n\nEsto es **G Mixolydian**.\n\nSonido:\n- Se siente **mayor**, pero algo áspero y bluesy\n- La **F** (7ª menor) hace que todo quiera volver a **C**\n\nPrueba esto:\n- Mano izquierda: mantén **G7** (G–B–D–F) o solo G + F\n- Mano derecha: toca G Mixolydian despacio, arriba y abajo cerca del Do central, y luego inventa frases de 1 compás solo con estas notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A Aeolian – natural minor from C major\nNow start on **A** and keep the same white keys:\n\nA – B – C – D – E – F – G – A\n\nThis is **A Aeolian**, the **natural minor**.\n\nSound:\n- Clear **minor** color\n- Works well for sad, reflective or cinematic lines\n\nTry this:\n- Left hand: hold **Am** or **Am7**\n- Right hand: play A Aeolian slowly and listen to how different it feels from G Mixolydian, even with the same notes.",
+          "zh-Hans": "# A Aeolian – 从 C 大调来的自然小调\n现在从 **A** 开始，但还是用同一组白键：\n\nA – B – C – D – E – F – G – A\n\n这就是 **A Aeolian**，也就是**自然小调**。\n\n听感：\n- 明显的**小调**色彩\n- 很适合伤感、沉思、或带点电影感的旋律\n\n试一试：\n- 左手：按 **Am** 或 **Am7**\n- 右手：慢慢上下弹 A Aeolian，注意它和 G Mixolydian 比起来，虽然音相同，但感觉完全不同。",
+          "de": "# A Aeolian – natürliche Molltonleiter aus C-Dur\nBeginne nun auf **A**, die Töne bleiben gleich:\n\nA – H – C – D – E – F – G – A\n\nDas ist **A Aeolian**, die **natürliche Molltonleiter**.\n\nKlang:\n- Deutlich **mollig**\n- Funktioniert gut für traurige, nachdenkliche oder filmische Linien\n\nProbier das:\n- Linke Hand: halte **Am** oder **Am7**\n- Rechte Hand: spiele A Aeolian langsam und höre, wie anders es sich anfühlt als G Mixolydian, obwohl es dieselben Töne sind.",
+          "ja": "# A Aeolian – Cメジャーからできるナチュラル・マイナー\n今度は **A** からスタートし、やはり白鍵だけを使います：\n\nA – B – C – D – E – F – G – A\n\nこれが **Aエオリアン**、いわゆる**ナチュラル・マイナー（自然短音階）**です。\n\nサウンド：\n- はっきりとした**マイナー**の色\n- しっとりしたり、映画っぽい雰囲気のフレーズに合う\n\n試してみよう：\n- 左手：**Am** か **Am7** を押さえる\n- 右手：A Aeolian をゆっくり上下させ、同じ音を使っていても Gミクソリディアンとは空気がまったく違うことを感じてみてください。",
+          "pt-BR": "# A Aeolian – menor natural a partir de Dó maior\nAgora comece em **A**, mantendo as mesmas teclas brancas:\n\nA – B – C – D – E – F – G – A\n\nIsso é **A Aeolian**, a **escala menor natural**.\n\nSom:\n- Claramente **menor**\n- Funciona bem para linhas tristes, introspectivas ou mais “cinemáticas”\n\nExperimente:\n- Mão esquerda: segure **Am** ou **Am7**\n- Mão direita: toque A Aeolian devagar e repare como o clima é bem diferente de G Mixolydian, mesmo com as mesmas notas.",
+          "es": "# A Aeolian – menor natural a partir de Do mayor\nAhora empieza en **A** usando las mismas teclas blancas:\n\nA – B – C – D – E – F – G – A\n\nEsto es **A Aeolian**, la **escala menor natural**.\n\nSonido:\n- Claramente **menor**\n- Funciona bien para líneas tristes, reflexivas o más cinematográficas\n\nPrueba esto:\n- Mano izquierda: mantén **Am** o **Am7**\n- Mano derecha: toca A Aeolian despacio y escucha lo distinto que se siente respecto a G Mixolydian, aunque las notas sean las mismas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple right-hand fingerings\nUse the same basic movement as a C major scale.\n\n**G Mixolydian (one octave up)**\n- Notes: G–A–B–C–D–E–F–G\n- Fingering (RH): **1–2–3–1–2–3–4–5**\n\n**A Aeolian (one octave up)**\n- Notes: A–B–C–D–E–F–G–A\n- Fingering (RH, suggestion): **1–2–3–1–2–3–4–5**\n\nKeep the thumb light when it passes under, and let your hand stay **close to the keys**.",
+          "zh-Hans": "# 右手的简单指法\n手型动作和弹 C 大调音阶时一样。\n\n**G Mixolydian（上行一组音）**\n- 音：G–A–B–C–D–E–F–G\n- 右手指法：**1–2–3–1–2–3–4–5**\n\n**A Aeolian（上行一组音）**\n- 音：A–B–C–D–E–F–G–A\n- 右手指法（建议）：**1–2–3–1–2–3–4–5**\n\n拇指穿过去时要轻，不要用力戳键，整只手尽量**贴近琴键**。",
+          "de": "# Einfache Fingersätze rechts\nNutze dieselbe Grundbewegung wie bei der C-Dur-Tonleiter.\n\n**G Mixolydian (eine Oktave aufwärts)**\n- Töne: G–A–H–C–D–E–F–G\n- Fingersatz (rechte Hand): **1–2–3–1–2–3–4–5**\n\n**A Aeolian (eine Oktave aufwärts)**\n- Töne: A–H–C–D–E–F–G–A\n- Fingersatz (rechte Hand, Vorschlag): **1–2–3–1–2–3–4–5**\n\nLass den Daumen beim Untersetzen locker und halte die Hand **nah an den Tasten**.",
+          "ja": "# 右手のシンプルなフィンガリング\n基本の動きは Cメジャー・スケールと同じです。\n\n**G Mixolydian（1オクターブ上行）**\n- 音：G–A–B–C–D–E–F–G\n- 右手の指使い：**1–2–3–1–2–3–4–5**\n\n**A Aeolian（1オクターブ上行）**\n- 音：A–B–C–D–E–F–G–A\n- 右手の指使い（おすすめ）：**1–2–3–1–2–3–4–5**\n\n親指をくぐらせるときは力まないようにして、手全体を**鍵盤のすぐそば**に保ちましょう。",
+          "pt-BR": "# Dedilhados simples na mão direita\nUse o mesmo movimento básico da escala de Dó maior.\n\n**G Mixolydian (uma oitava subindo)**\n- Notas: G–A–B–C–D–E–F–G\n- Dedilhado (MD): **1–2–3–1–2–3–4–5**\n\n**A Aeolian (uma oitava subindo)**\n- Notas: A–B–C–D–E–F–G–A\n- Dedilhado (MD, sugestão): **1–2–3–1–2–3–4–5**\n\nDeixe o polegar leve quando passar por baixo e mantenha a mão **pertinho das teclas**.",
+          "es": "# Digitaciones sencillas para la mano derecha\nUsa el mismo movimiento básico que en la escala de Do mayor.\n\n**G Mixolydian (una octava ascendente)**\n- Notas: G–A–B–C–D–E–F–G\n- Digitación (MD): **1–2–3–1–2–3–4–5**\n\n**A Aeolian (una octava ascendente)**\n- Notas: A–B–C–D–E–F–G–A\n- Digitación (MD, sugerida): **1–2–3–1–2–3–4–5**\n\nMantén el pulgar ligero cuando pasa por debajo y la mano **cerca de las teclas**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two tiny mode patterns\nRight hand only.\n\n**G Mixolydian pattern (over G7)**\n- G – A – B – D – C – B – A – G\n\n**A Aeolian pattern (over Am or Am7)**\n- A – C – D – E – F – E – D – C\n\nPlay each pattern in a loop and notice:\n- Mixolydian feels like a **dominant build-up**\n- Aeolian feels like it wants to **stay in minor**, more settled but darker",
+          "zh-Hans": "# 两个很小的调式句型\n先只用右手。\n\n**G Mixolydian 句型（配 G7）**\n- G – A – B – D – C – B – A – G\n\n**A Aeolian 句型（配 Am 或 Am7）**\n- A – C – D – E – F – E – D – C\n\n把每个句型循环多弹几遍，注意：\n- Mixolydian 像是在做**属和弦式的铺垫**\n- Aeolian 更像是**停在小调里**，比较安静但偏暗",
+          "de": "# Zwei kleine Mode-Patterns\nNur rechte Hand.\n\n**G-Mixolydian-Pattern (über G7)**\n- G – A – H – D – C – H – A – G\n\n**A-Aeolian-Pattern (über Am oder Am7)**\n- A – C – D – E – F – E – D – C\n\nSpiele jedes Pattern im Loop und achte darauf:\n- Mixolydisch wirkt wie ein **dominanter Aufbau**\n- Äolisch wirkt, als wolle es **im Moll bleiben** – ruhiger, aber dunkler",
+          "ja": "# 小さなモード・パターンを2つ\n右手だけで弾きます。\n\n**Gミクソリディアンのパターン（G7 の上）**\n- G – A – B – D – C – B – A – G\n\n**Aエオリアンのパターン（Am または Am7 の上）**\n- A – C – D – E – F – E – D – C\n\nそれぞれをループさせて弾きながら感じてみてください：\n- ミクソリディアンは**ドミナントに向かって盛り上がる感じ**\n- エオリアンは**マイナーの中にとどまる感じ**で、落ち着いているけれど少し暗い",
+          "pt-BR": "# Dois mini padrões modais\nSó com a mão direita.\n\n**Padrão G Mixolydian (sobre G7)**\n- G – A – B – D – C – B – A – G\n\n**Padrão A Aeolian (sobre Am ou Am7)**\n- A – C – D – E – F – E – D – C\n\nToque cada padrão em loop e perceba:\n- Mixolydian parece um **acúmulo de tensão dominante**\n- Aeolian parece querer **ficar no menor**, mais estável porém mais escuro",
+          "es": "# Dos pequeños patrones modales\nSolo mano derecha.\n\n**Patrón G Mixolydian (sobre G7)**\n- G – A – B – D – C – B – A – G\n\n**Patrón A Aeolian (sobre Am o Am7)**\n- A – C – D – E – F – E – D – C\n\nToca cada patrón en bucle y nota:\n- Mixolydian se siente como una **acumulación dominante**\n- Aeolian se siente como que quiere **quedarse en menor**, más estable pero más oscuro"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Warm up: right hand plays **G Mixolydian**, left hand holds **G7**.\n2. Switch to **A Aeolian** in the right hand, with **Am** in the left.\n3. Alternate 4 bars of G Mixolydian over G7 and 4 bars of A Aeolian over Am.\n4. In each mode, create one simple **1–2 bar melody** using only white keys.\n\nListen for how the **same notes** can feel like either a dominant major (Mixolydian) or a natural minor (Aeolian), just by changing the **home chord and starting note**.",
+          "zh-Hans": "## 快速练习\n1. 热身：右手弹 **G Mixolydian**，左手按 **G7**。\n2. 然后右手改弹 **A Aeolian**，左手改成 **Am**。\n3. 轮流弹：4 小节 G Mixolydian + G7，接着 4 小节 A Aeolian + Am。\n4. 在每个调式里，用全是白键的音，自己编一个简单的 **1–2 小节旋律**。\n\n多听一听：只要**起点和“家”的和弦**一换，同样的音就可以变成**属味很强的大调（Mixolydian）**，或是**自然小调（Aeolian）**。",
+          "de": "## Kurze Übung\n1. Warm-up: rechte Hand spielt **G Mixolydian**, linke Hand hält **G7**.\n2. Wechsle dann zur **A-Aeolian** in der rechten Hand mit **Am** links.\n3. Wechsle immer wieder: 4 Takte G Mixolydian über G7, dann 4 Takte A Aeolian über Am.\n4. Erfinde in jedem Mode eine einfache **1–2-Takt-Melodie** nur mit weißen Tasten.\n\nAchte darauf, wie dieselben Töne je nach **Grundakkord und Startton** entweder wie ein dominanter Dur-Sound (Mixolydian) oder wie eine natürliche Molltonleiter (Aeolian) wirken.",
+          "ja": "## かんたん練習\n1. ウォームアップ：右手で **G Mixolydian**、左手で **G7** を支える。\n2. 次に右手を **A Aeolian** に変え、左手は **Am** にチェンジ。\n3. 4小節 G Mixolydian＋G7、続けて4小節 A Aeolian＋Am、という流れを交互にくり返す。\n4. それぞれのモードの中で、白鍵だけを使って**1〜2小節の短いメロディ**を作ってみる。\n\n同じ音でも、**スタートの音と「ホーム」のコード**を変えるだけで、メジャー寄りのドミナント感（Mixolydian）にも、自然なマイナー感（Aeolian）にも変わることを耳で確認してみてください。",
+          "pt-BR": "## Prática rápida\n1. Aqueça com a mão direita em **G Mixolydian** e a esquerda segurando **G7**.\n2. Depois mude a mão direita para **A Aeolian** e a esquerda para **Am**.\n3. Alterne 4 compassos de G Mixolydian sobre G7 com 4 compassos de A Aeolian sobre Am.\n4. Em cada modo, invente uma melodia simples de **1–2 compassos**, usando só as teclas brancas.\n\nPerceba como as **mesmas notas** podem soar como um maior dominante (Mixolydian) ou como um menor natural (Aeolian), só de trocar o **acorde de base e a nota de partida**.",
+          "es": "## Práctica rápida\n1. Calienta con la mano derecha en **G Mixolydian** y la izquierda sosteniendo **G7**.\n2. Luego cambia la mano derecha a **A Aeolian** y la izquierda a **Am**.\n3. Alterna 4 compases de G Mixolydian sobre G7 con 4 compases de A Aeolian sobre Am.\n4. En cada modo, inventa una melodía sencilla de **1–2 compases** usando solo teclas blancas.\n\nFíjate cómo las **mismas notas** pueden sentirse como un mayor dominante (Mixolydian) o como un menor natural (Aeolian), solo cambiando el **acorde base y la nota de inicio**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

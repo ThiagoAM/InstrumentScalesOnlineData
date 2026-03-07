@@ -1,0 +1,56 @@
+[
+  {
+    "id": "piano-layout-and-first-scales",
+    "name": {
+      "values": {
+        "en": "Piano Layout and First Scales",
+        "zh-Hans": "钢琴布局与首个音阶练习",
+        "de": "Klavierlayout und erste Tonleitern",
+        "ja": "ピアノの配置と最初のスケール",
+        "pt-BR": "Disposição do piano e primeiras escalas",
+        "es": "Distribución del piano y primeras escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn the keyboard layout and play your first major and minor scales.",
+        "zh-Hans": "学习键盘布局，并演奏你的第一个大调和小调音阶。",
+        "de": "Lerne den Aufbau der Klaviatur und spiele deine ersten Dur- und Molltonleitern.",
+        "ja": "キーボードの配置を学び、最初のメジャー／マイナーのスケールを弾きましょう。",
+        "pt-BR": "Aprenda a disposição das teclas e toque suas primeiras escalas maior e menor.",
+        "es": "Aprende la distribución del teclado y toca tus primeras escalas mayores y menores."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_layout_first_scales_section" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "hands-and-simple-patterns",
+    "name": {
+      "values": {
+        "en": "Hands and Simple Patterns",
+        "zh-Hans": "双手与简单音型",
+        "de": "Hände und einfache Patterns",
+        "ja": "両手とシンプルなパターン",
+        "pt-BR": "Mãos e padrões simples",
+        "es": "Manos y patrones simples"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Coordinate your hands and use scales in short musical ideas.",
+        "zh-Hans": "协调双手运作，并在简短的音乐想法中使用音阶。",
+        "de": "Koordiniere deine Hände und nutze Tonleitern in kurzen musikalischen Ideen.",
+        "ja": "両手の動きを調整し、短い音楽フレーズでスケールを活用しましょう。",
+        "pt-BR": "Coordene suas mãos e use escalas em pequenas ideias musicais.",
+        "es": "Coordina tus manos y usa escalas en ideas musicales cortas."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_hands_patterns_section" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ionian-dorian-and-mixolydian-overview",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ionian, Dorian, and Mixolydian Overview",
+        "zh-Hans": "伊奥尼亚、 多利亚与混合利底亚调式概览",
+        "de": "Überblick über Ionisch, Dorisch und Mixolydisch",
+        "ja": "アイオニアン、ドリアン、ミクソリディアンの概要",
+        "pt-BR": "Visão geral de Jônio, Dórico e Mixolídio",
+        "es": "Resumen de Jónico, Dórico y Mixolidio"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "d-dorian-shapes-and-common-chord-progressions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Dorian Shapes and Common Chord Progressions",
+        "zh-Hans": "D多利亚调的形态与常见和弦走向",
+        "de": "D-Dorisch: Griffbilder und gängige Akkordfolgen",
+        "ja": "Dドリアンの形とよく使われるコード進行",
+        "pt-BR": "Formas do Ré dórico e progressões de acordes comuns",
+        "es": "Formas de Re dórico y progresiones de acordes comunes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "g-mixolydian-over-dominant-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Mixolydian over Dominant Chords",
+        "zh-Hans": "在属和弦上使用G混合利底亚调式",
+        "de": "G-Mixolydisch über Dominantakkorde",
+        "ja": "ドミナントコード上でのGミクソリディアン",
+        "pt-BR": "G mixolídio sobre acordes dominantes",
+        "es": "G mixolidio sobre acordes dominantes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

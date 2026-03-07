@@ -1,0 +1,86 @@
+{
+  "id": "mixolydian-for-dominant-bass-lines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mixolydian for dominant bass lines\nMixolydian is the classic **dominant 7th sound**. It’s a major scale with a **flat 7**, perfect for G7, A7, D7 and other dominant chords.\n\nIn this lesson you’ll:\n- See how Mixolydian differs from the plain major scale\n- Learn a **G Mixolydian** pattern on the neck\n- Build a couple of short **dominant bass lines** that really outline 3 and ♭7\n\nWe’ll keep everything simple so you can plug it straight into blues, rock and funk tunes.",
+          "zh-Hans": "# 用 Mixolydian 做属七贝斯线\nMixolydian（混合利底亚）是典型的 **属七和弦音阶**。它是一个带有 **降 7 度** 的大调音阶，非常适合 G7、A7、D7 这些属和弦。\n\n本课你会：\n- 了解 Mixolydian 和普通大调的区别\n- 学一个指板上的 **G Mixolydian** 指型\n- 写出几条真正勾勒出 3 度和 ♭7 的**属七贝斯线**\n\n内容会保持简单直接，方便你马上用在布鲁斯、摇滚和放克里。",
+          "de": "# Mixolydisch für dominante Basslinien\nDie mixolydische Tonleiter ist der klassische **Dominantseptakkord-Sound**. Sie ist eine Durtonleiter mit **kleiner Septime** und passt perfekt zu G7, A7, D7 und anderen Dominantakkorden.\n\nIn dieser Lektion wirst du:\n- Sehen, wie sich Mixolydisch von der normalen Durtonleiter unterscheidet\n- Ein **G-Mixolydisch**-Pattern auf dem Griffbrett lernen\n- Ein paar kurze **dominante Basslinien** bauen, die 3 und ♭7 klar betonen\n\nAlles bleibt übersichtlich, damit du es direkt in Blues-, Rock- und Funk-Songs einsetzen kannst.",
+          "ja": "# ドミナント・ベースラインのためのミクソリディアン\nミクソリディアンは、いわゆる**ドミナント7th（7の和音）**の定番サウンドです。メジャー・スケールに **♭7** が付いた形で、G7、A7、D7 などのコードにピッタリ合います。\n\nこのレッスンでは：\n- ミクソリディアンが普通のメジャー・スケールとどう違うか\n- 指板上の **Gミクソリディアン** の形\n- 3度と♭7をしっかり聴かせる、短い**ドミナント・ベースライン**を作る\n\nシンプルにまとめてあるので、そのままブルースやロック、ファンクの曲に使えるようにしていきます。",
+          "pt-BR": "# Mixolídio para linhas de baixo dominantes\nO modo mixolídio é o clássico som de **acorde dominante (X7)**. É uma escala maior com **sétima menor**, perfeita para G7, A7, D7 e outros acordes dominantes.\n\nNesta lição você vai:\n- Entender o que muda do mixolídio para a escala maior comum\n- Aprender um desenho de **G mixolídio** no braço\n- Montar algumas **linhas de baixo dominantes** que destacam bem a 3ª e a ♭7\n\nA ideia é ser direto, pra você encaixar isso rápido em blues, rock e funk.",
+          "es": "# Mixolidio para líneas de bajo dominantes\nEl modo mixolidio es el sonido típico de **acorde dominante 7**. Es una escala mayor con **séptima menor**, ideal para G7, A7, D7 y otros acordes dominantes.\n\nEn esta lección vas a:\n- Ver en qué se diferencia el mixolidio de la escala mayor normal\n- Aprender un patrón de **Sol mixolidio (G Mixolydian)** en el mástil\n- Construir un par de **líneas de bajo dominantes** que marcan bien la 3ª y la ♭7\n\nTodo es sencillo para que lo puedas usar enseguida en temas de blues, rock y funk."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What is Mixolydian?\nMixolydian is the **fifth mode** of the major scale.\n\nFormula (from the root):\n- 1 – 2 – 3 – 4 – 5 – 6 – ♭7\n\nCompare with the major scale (Ionian):\n- Major: 1 – 2 – 3 – 4 – 5 – 6 – 7  \n- Mixolydian: only the **7 becomes ♭7**\n\nFor **G Mixolydian** (from C major) the notes are: G–A–B–C–D–E–F.\n\nThe “dominant” flavor comes from the **3 (B)** and the **♭7 (F)** together.",
+          "zh-Hans": "# 什么是 Mixolydian？\nMixolydian 是大调音阶的**第五顺阶模式**。\n\n从根音数的公式：\n- 1 – 2 – 3 – 4 – 5 – 6 – ♭7\n\n和普通大调（Ionian）对比：\n- 大调：1 – 2 – 3 – 4 – 5 – 6 – 7  \n- Mixolydian：只把 **7 变成 ♭7**\n\n以 **G Mixolydian** 为例（来自 C 大调），音为：G–A–B–C–D–E–F。\n\n“属七味道”主要来自 **3 度（B）** 和 **♭7（F）** 这两个音一起出现。",
+          "de": "# Was ist Mixolydisch?\nMixolydisch ist der **fünfte Modus** der Durtonleiter.\n\nFormel (vom Grundton aus):\n- 1 – 2 – 3 – 4 – 5 – 6 – ♭7\n\nIm Vergleich zur Durtonleiter (Ionisch):\n- Dur: 1 – 2 – 3 – 4 – 5 – 6 – 7  \n- Mixolydisch: nur die **7 wird zur ♭7**\n\nFür **G-Mixolydisch** (aus C-Dur) sind die Töne: G–A–B–C–D–E–F.\n\nDer dominante Charakter entsteht vor allem durch das Zusammenspiel von **3 (B)** und **♭7 (F)**.",
+          "ja": "# ミクソリディアンとは？\nミクソリディアンは、メジャー・スケールの**第5モード**です。\n\nルートから見た度数：\n- 1 – 2 – 3 – 4 – 5 – 6 – ♭7\n\nメジャー・スケール（アイオニアン）との違い：\n- メジャー：1 – 2 – 3 – 4 – 5 – 6 – 7  \n- ミクソリディアン：**7が♭7になるだけ**\n\n**Gミクソリディアン**（Cメジャー由来）の音：G–A–B–C–D–E–F。\n\nベースで“ドミナント感”が出るのは、この中の **3度（B）** と **♭7（F）** を一緒に使ったときです。",
+          "pt-BR": "# O que é o mixolídio?\nO mixolídio é o **quinto modo** da escala maior.\n\nFórmula (a partir da tônica):\n- 1 – 2 – 3 – 4 – 5 – 6 – ♭7\n\nComparando com a escala maior (jônica):\n- Maior: 1 – 2 – 3 – 4 – 5 – 6 – 7  \n- Mixolídio: só a **7 vira ♭7**\n\nEm **G mixolídio** (derivado de Dó maior), as notas são: G–A–B–C–D–E–F.\n\nO sabor dominante vem principalmente da combinação entre **3 (B)** e **♭7 (F)**.",
+          "es": "# ¿Qué es el mixolidio?\nEl mixolidio es el **quinto modo** de la escala mayor.\n\nFórmula (desde la tónica):\n- 1 – 2 – 3 – 4 – 5 – 6 – ♭7\n\nComparado con la escala mayor (jónica):\n- Mayor: 1 – 2 – 3 – 4 – 5 – 6 – 7  \n- Mixolidio: sólo la **7 pasa a ser ♭7**\n\nEn **Sol mixolidio (G Mixolydian)**, derivado de Do mayor, las notas son: G–A–B–C–D–E–F.\n\nEl color dominante aparece sobre todo cuando usas **3 (B)** junto con **♭7 (F)**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G Mixolydian pattern on the neck\n4-string bass in E–A–D–G. We’ll sit around **3rd–5th fret**.\n\nPlay this G Mixolydian pattern (G–A–B–C–D–E–F–G):\n\n- **E string**  \n  - 3rd fret – **G** (1)  \n  - 5th fret – **A** (2)\n- **A string**  \n  - 2nd fret – **B** (3)  \n  - 3rd fret – **C** (4)  \n  - 5th fret – **D** (5)\n- **D string**  \n  - 2nd fret – **E** (6)  \n  - 3rd fret – **F** (♭7)  \n  - 5th fret – **G** (1)\n\nUse relaxed **1–2–4 / 1–3–4** fingering. Really notice the sound of **F (♭7)** against G.",
+          "zh-Hans": "# 指板上的 G Mixolydian 指型\n4 弦贝斯，E–A–D–G 定弦。左手大致在 **第 3–5 品** 活动。\n\n上下弹这个 G Mixolydian 指型（G–A–B–C–D–E–F–G）：\n\n- **E 弦**  \n  - 第 3 品 – **G** (1)  \n  - 第 5 品 – **A** (2)\n- **A 弦**  \n  - 第 2 品 – **B** (3)  \n  - 第 3 品 – **C** (4)  \n  - 第 5 品 – **D** (5)\n- **D 弦**  \n  - 第 2 品 – **E** (6)  \n  - 第 3 品 – **F** (♭7)  \n  - 第 5 品 – **G** (1)\n\n根据手的大小选择 **1–2–4 或 1–3–4**。仔细听一听 **F（♭7）** 落在 G 上时那种“属七”的感觉。",
+          "de": "# G-Mixolydisch auf dem Griffbrett\n4-saitiger Bass in E–A–D–G. Wir bleiben in der Gegend um den **3.–5. Bund**.\n\nSpiele dieses G-Mixolydisch-Pattern (G–A–B–C–D–E–F–G):\n\n- **E-Saite**  \n  - 3. Bund – **G** (1)  \n  - 5. Bund – **A** (2)\n- **A-Saite**  \n  - 2. Bund – **B** (3)  \n  - 3. Bund – **C** (4)  \n  - 5. Bund – **D** (5)\n- **D-Saite**  \n  - 2. Bund – **E** (6)  \n  - 3. Bund – **F** (♭7)  \n  - 5. Bund – **G** (1)\n\nNutze eine entspannte **1–2–4 / 1–3–4**-Fingersatz-Kombi. Konzentrier dich besonders auf den Klang von **F (♭7)** über dem Grundton G.",
+          "ja": "# 指板上のGミクソリディアン・パターン\n4弦ベース（E–A–D–G）。左手はだいたい**3〜5フレット**周辺に置きます。\n\nこのGミクソリディアン（G–A–B–C–D–E–F–G）を上下に弾きましょう：\n\n- **E弦**  \n  - 3フレット – **G** (1)  \n  - 5フレット – **A** (2)\n- **A弦**  \n  - 2フレット – **B** (3)  \n  - 3フレット – **C** (4)  \n  - 5フレット – **D** (5)\n- **D弦**  \n  - 2フレット – **E** (6)  \n  - 3フレット – **F** (♭7)  \n  - 5フレット – **G** (1)\n\n指づかいは **1–2–4 / 1–3–4** を無理なく使い分けてOK。特に **F（♭7）** がGの上でどう響くかに耳を向けてください。",
+          "pt-BR": "# Desenho de G mixolídio no braço\nBaixo de 4 cordas em E–A–D–G. Vamos ficar ali pela região das **casas 3 a 5**.\n\nToque esse desenho de G mixolídio (G–A–B–C–D–E–F–G):\n\n- **Corda E**  \n  - Casa 3 – **G** (1)  \n  - Casa 5 – **A** (2)\n- **Corda A**  \n  - Casa 2 – **B** (3)  \n  - Casa 3 – **C** (4)  \n  - Casa 5 – **D** (5)\n- **Corda D**  \n  - Casa 2 – **E** (6)  \n  - Casa 3 – **F** (♭7)  \n  - Casa 5 – **G** (1)\n\nUse um dedilhado confortável em **1–2–4 / 1–3–4**. Repare com carinho em como o **F (♭7)** soa em relação ao G.",
+          "es": "# Patrón de Sol mixolidio en el mástil\nBajo de 4 cuerdas (E–A–D–G). Nos quedamos alrededor de los **trastes 3 al 5**.\n\nToca este patrón de Sol mixolidio (G–A–B–C–D–E–F–G) subiendo y bajando:\n\n- **Cuerda E**  \n  - Traste 3 – **G** (1)  \n  - Traste 5 – **A** (2)\n- **Cuerda A**  \n  - Traste 2 – **B** (3)  \n  - Traste 3 – **C** (4)  \n  - Traste 5 – **D** (5)\n- **Cuerda D**  \n  - Traste 2 – **E** (6)  \n  - Traste 3 – **F** (♭7)  \n  - Traste 5 – **G** (1)\n\nUsa una digitación cómoda **1–2–4 / 1–3–4**. Escucha con atención cómo suena el **F (♭7)** sobre el G."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Dominant line idea 1 – G7 to C\nA very common move is **G7 resolving to C** (V→I in C major).\n\nTry this 1-bar G7 line in 4/4 (mostly 8th notes):\n\n- Beat 1: **G (root)** – E string, 3rd fret\n- Beat 2: **B (3)** – A string, 2nd fret\n- Beat 3: **F (♭7)** – D string, 3rd fret\n- Beat 4: **E (6)** – D string, 2nd fret\n\nThen in the next bar, land strongly on **C** (A string, 3rd fret).\n\nYou’ll hear a clear **dominant pull** from the 3 and ♭7 resolving into the tonic chord.",
+          "zh-Hans": "# 属七贝斯线思路 1 —— 从 G7 到 C\n非常常见的一种走向是 **G7 走向 C**（在 C 大调里是 V→I）。\n\n试试这个 4/4 拍、主要用八分音符的 G7 一小节贝斯线：\n\n- 第 1 拍：**G（根音）** —— E 弦第 3 品\n- 第 2 拍：**B（3 度）** —— A 弦第 2 品\n- 第 3 拍：**F（♭7）** —— D 弦第 3 品\n- 第 4 拍：**E（6 度）** —— D 弦第 2 品\n\n然后在下一小节，稳稳地落在 **C**（A 弦第 3 品）。\n\n你会很明显听到 3 度和 ♭7 把声音**拉向主和弦** 的感觉。",
+          "de": "# Dominante Linien-Idee 1 – G7 nach C\nEin sehr typischer Ablauf ist **G7, der sich nach C auflöst** (V→I in C-Dur).\n\nProbier diese ein­taktige G7-Linie in 4/4 (meist Achtelnoten):\n\n- Schlag 1: **G (Grundton)** – E-Saite, 3. Bund\n- Schlag 2: **B (3)** – A-Saite, 2. Bund\n- Schlag 3: **F (♭7)** – D-Saite, 3. Bund\n- Schlag 4: **E (6)** – D-Saite, 2. Bund\n\nIm nächsten Takt landest du dann deutlich auf **C** (A-Saite, 3. Bund).\n\nSo hörst du sehr klar, wie **3 und ♭7** den Klang in Richtung des Tonika-Akkords ziehen.",
+          "ja": "# ドミナント・ライン案1 – G7 から C へ\nとてもよく出てくる進行が、**G7 から C への解決**（Cメジャーにおける V→I）です。\n\n4/4拍で、主に8分音符を使ったG7の1小節ラインを弾いてみましょう：\n\n- 拍1：**G（ルート）** – E弦3フレット\n- 拍2：**B（3度）** – A弦2フレット\n- 拍3：**F（♭7）** – D弦3フレット\n- 拍4：**E（6度）** – D弦2フレット\n\nその次の小節の頭で、しっかり **C**（A弦3フレット）に着地します。\n\n3度と♭7が作る、**トニックへギュッと引き寄せられる感じ**がよく分かるはずです。",
+          "pt-BR": "# Ideia de linha dominante 1 – G7 para C\nUm movimento super comum é **G7 resolvendo em C** (V→I em Dó maior).\n\nTeste essa linha de 1 compasso em G7, em 4/4 (principalmente colcheias):\n\n- Tempo 1: **G (tônica)** – corda E, casa 3\n- Tempo 2: **B (3ª)** – corda A, casa 2\n- Tempo 3: **F (♭7)** – corda D, casa 3\n- Tempo 4: **E (6ª)** – corda D, casa 2\n\nNo compasso seguinte, caia com força em **C** (corda A, casa 3).\n\nVocê vai ouvir claramente a **tensão dominante** criada pela 3ª e pela ♭7 puxando para o acorde de tônica.",
+          "es": "# Idea de línea dominante 1 – G7 a C\nUn movimiento muy típico es **G7 resolviendo en C** (V→I en Do mayor).\n\nPrueba esta línea de G7 de un compás en 4/4 (mayormente corcheas):\n\n- Tiempo 1: **G (tónica)** – cuerda E, traste 3\n- Tiempo 2: **B (3ª)** – cuerda A, traste 2\n- Tiempo 3: **F (♭7)** – cuerda D, traste 3\n- Tiempo 4: **E (6ª)** – cuerda D, traste 2\n\nEn el siguiente compás, cae con decisión en **C** (cuerda A, traste 3).\n\nSe escucha muy claro cómo la **3ª y la ♭7** generan la tensión dominante que pide resolver en la tónica."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Dominant line idea 2 – Simple G7 vamp\nNow build a short riff you can loop over a **G7 vamp**.\n\nThink 4/4 in 8th notes:\n\n- Beat 1: **G (root)** – E string, 3rd fret\n- Beat 2: **D (5)** – A string, 5th fret\n- Beat 3: **F (♭7)** – D string, 3rd fret\n- Beat 4: **B (3)** – A string, 2nd fret\n\nLoop this and slightly change the **rhythm and order** of F and B to make new variations, always staying inside **G Mixolydian**.",
+          "zh-Hans": "# 属七贝斯线思路 2 —— 简单 G7 循环\n现在做一个可以在 **G7 vamp** 上循环的小 riff。\n\n4/4 拍，用八分音符来想：\n\n- 第 1 拍：**G（根音）** —— E 弦第 3 品\n- 第 2 拍：**D（5 度）** —— A 弦第 5 品\n- 第 3 拍：**F（♭7）** —— D 弦第 3 品\n- 第 4 拍：**B（3 度）** —— A 弦第 2 品\n\n让这条线循环起来，再稍微改变 **F 和 B 的节奏与顺序**，就能在 **G Mixolydian** 里做出很多小变化。",
+          "de": "# Dominante Linien-Idee 2 – Einfacher G7-Vamp\nJetzt bauen wir ein kurzes Riff, das du über einen **G7-Vamp** loopen kannst.\n\nDenk in 4/4 mit Achtelnoten:\n\n- Schlag 1: **G (Grundton)** – E-Saite, 3. Bund\n- Schlag 2: **D (5)** – A-Saite, 5. Bund\n- Schlag 3: **F (♭7)** – D-Saite, 3. Bund\n- Schlag 4: **B (3)** – A-Saite, 2. Bund\n\nLass dieses Riff im Loop laufen und verändere leicht **Rhythmus und Reihenfolge** von F und B, um neue Varianten zu bauen – immer innerhalb von **G-Mixolydisch**.",
+          "ja": "# ドミナント・ライン案2 – シンプルなG7バンプ\n次は、**G7のバンプ**（G7を繰り返す進行）で回せる短いリフを作ります。\n\n4/4拍、8分音符ベースで考えましょう：\n\n- 拍1：**G（ルート）** – E弦3フレット\n- 拍2：**D（5度）** – A弦5フレット\n- 拍3：**F（♭7）** – D弦3フレット\n- 拍4：**B（3度）** – A弦2フレット\n\nこのリフをループさせつつ、**FとBの並びやリズム**を少しずつ入れ替えて、同じ **Gミクソリディアン**の中でいろいろなバリエーションを作ってみてください。",
+          "pt-BR": "# Ideia de linha dominante 2 – G7 em vamp simples\nAgora vamos montar um riff curtinho para tocar em loop sobre um **vamp em G7**.\n\nPense em 4/4, com colcheias:\n\n- Tempo 1: **G (tônica)** – corda E, casa 3\n- Tempo 2: **D (5ª)** – corda A, casa 5\n- Tempo 3: **F (♭7)** – corda D, casa 3\n- Tempo 4: **B (3ª)** – corda A, casa 2\n\nRepita esse riff e mude um pouco o **ritmo e a ordem** do F e do B pra criar novas variações, sempre dentro do **G mixolídio**.",
+          "es": "# Idea de línea dominante 2 – Vamp sencillo en G7\nAhora construimos un riff corto que puedas repetir sobre un **vamp en G7**.\n\nPiensa en 4/4 con corcheas:\n\n- Tiempo 1: **G (tónica)** – cuerda E, traste 3\n- Tiempo 2: **D (5ª)** – cuerda A, traste 5\n- Tiempo 3: **F (♭7)** – cuerda D, traste 3\n- Tiempo 4: **B (3ª)** – cuerda A, traste 2\n\nHaz un loop con esta línea y cambia ligeramente el **ritmo y el orden** de F y B para crear variaciones, siempre quedándote dentro de **Sol mixolidio**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Loop a **G7 chord** (or a simple G on keyboard/guitar) and stay in G Mixolydian\n- Target **3 (B)** and **♭7 (F)** on strong beats to really outline the chord\n- Practice resolving from **G7 to C** using short fills from the scale\n- Move the whole pattern to start on **A (A Mixolydian)** and **D (D Mixolydian)** for other common dominant keys\n\nWhen G Mixolydian feels natural, any time you see a **G7**, your fingers will already know where the tasty notes are.",
+          "zh-Hans": "# 练习建议\n- 让乐器或伴奏循环一个 **G7 和弦**（或简单拉一个 G），只用 G Mixolydian 来即兴\n- 尽量在强拍上落在 **3 度（B）** 和 **♭7（F）**，属七色彩会特别明显\n- 多练习从 **G7 走向 C**，用音阶里少量音做短填充\n- 把整个指型平移，从 **A** 开始（A Mixolydian）、从 **D** 开始（D Mixolydian），适应其他常见属和弦\n\n当 G Mixolydian 在手里变得自然时，只要看到一个 **G7**，你的手指基本就知道哪些音最“香”。",
+          "de": "# Übetipps\n- Lass einen **G7-Akkord** (oder einfach ein G) auf Keyboard/Gitarre loopen und bleib darüber in G-Mixolydisch\n- Ziele auf **3 (B)** und **♭7 (F)** auf starken Zählzeiten, um den Akkord klar zu umreißen\n- Übe kurze Fills aus der Skala, die von **G7 nach C** führen\n- Verschiebe das gesamte Pattern auf **A (A-Mixolydisch)** und **D (D-Mixolydisch)** für andere gängige Dominanttonarten\n\nWenn sich G-Mixolydisch selbstverständlich anfühlt, wissen deine Finger bei jedem **G7** automatisch, wo die guten Töne liegen.",
+          "ja": "# 練習のヒント\n- **G7コード**（またはGの単音）をループさせて、その上でGミクソリディアンだけを使ってみる\n- 強拍で **3度（B）** と **♭7（F）** に着地するよう意識すると、コード感がグッと出る\n- スケール内の少ない音数で、**G7 から C へ解決**する短いフィルをいくつか作ってみる\n- 形をそのまま **A始まり（Aミクソリディアン）** や **D始まり（Dミクソリディアン）** に移動させて、他のドミナント・キーにも慣れる\n\nGミクソリディアンが自然に弾けるようになると、楽譜に **G7** と書いてあるだけで、指がもう“おいしい音”の場所を知っている状態になります。",
+          "pt-BR": "# Dicas de estudo\n- Deixe um **acorde de G7** em loop (ou só um G soando) e explore o G mixolídio por cima\n- Mire **3 (B)** e **♭7 (F)** nos tempos fortes para deixar o acorde bem desenhado\n- Crie pequenos fills com a escala para resolver de **G7 para C**\n- Desloque o desenho inteiro para começar em **A (A mixolídio)** e **D (D mixolídio)**, cobrindo outras tonalidades dominantes comuns\n\nQuando o G mixolídio estiver natural na mão, sempre que aparecer um **G7**, seus dedos já vão saber onde estão as notas mais saborosas.",
+          "es": "# Consejos de práctica\n- Pon un **acorde de G7** (o una nota G larga) en loop y quédate en Sol mixolidio encima\n- Apunta la **3 (B)** y la **♭7 (F)** en tiempos fuertes para definir bien el acorde\n- Practica pequeños fills desde la escala para resolver de **G7 a C**\n- Mueve todo el patrón para empezar en **A (La mixolidio)** y **D (Re mixolidio)** y cubrir otras tonalidades dominantes típicas\n\nCuando Sol mixolidio se sienta natural en los dedos, cada vez que veas un **G7** tus manos ya sabrán dónde están las notas más sabrosas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

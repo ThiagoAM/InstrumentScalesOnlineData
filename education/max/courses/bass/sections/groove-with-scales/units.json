@@ -1,0 +1,83 @@
+[
+  {
+    "id": "roots-fifths-and-octaves",
+    "name": {
+      "values": {
+        "en": "Roots, Fifths, and Octaves",
+        "zh-Hans": "根音、五度与八度",
+        "de": "Grundtöne, Quinten und Oktaven",
+        "ja": "ルート、五度、オクターブ",
+        "pt-BR": "Tônicas, Quintas e Oitavas",
+        "es": "Tónicas, Quintas y Octavas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Roots, Fifths, and Octaves",
+        "zh-Hans": "根音、五度与八度",
+        "de": "Grundtöne, Quinten und Oktaven",
+        "ja": "ルート、五度、オクターブ",
+        "pt-BR": "Tônicas, Quintas e Oitavas",
+        "es": "Tónicas, Quintas y Octavas"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "pentatonic-and-blues-for-bass",
+    "name": {
+      "values": {
+        "en": "Pentatonic and Blues for Bass",
+        "zh-Hans": "贝斯五声音阶与布鲁斯",
+        "de": "Pentatonik und Blues für Bass",
+        "ja": "ベースのペンタトニックとブルース",
+        "pt-BR": "Pentatônica e Blues para Baixo",
+        "es": "Pentatónica y Blues para Bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pentatonic and Blues for Bass",
+        "zh-Hans": "贝斯五声音阶与布鲁斯",
+        "de": "Pentatonik und Blues für Bass",
+        "ja": "ベースのペンタトニックとブルース",
+        "pt-BR": "Pentatônica e Blues para Baixo",
+        "es": "Pentatónica y Blues para Bajo"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-scale-grooves",
+    "name": {
+      "values": {
+        "en": "Major Scale Grooves",
+        "zh-Hans": "大调音阶律动",
+        "de": "Grooves mit der Dur-Tonleiter",
+        "ja": "メジャースケール・グルーヴ",
+        "pt-BR": "Grooves com Escala Maior",
+        "es": "Grooves con Escala Mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Scale Grooves",
+        "zh-Hans": "大调音阶律动",
+        "de": "Grooves mit der Dur-Tonleiter",
+        "ja": "メジャースケール・グルーヴ",
+        "pt-BR": "Grooves com Escala Maior",
+        "es": "Grooves con Escala Mayor"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

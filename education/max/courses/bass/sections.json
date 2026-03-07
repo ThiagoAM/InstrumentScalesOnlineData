@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bass-fretboard-and-technique",
+    "name": {
+        "values": {
+        "en": "Bass Fretboard and Technique",
+        "zh-Hans": "贝斯指板与技巧",
+        "de": "Bass-Griffbrett und Technik",
+        "ja": "ベースの指板とテクニック",
+        "pt-BR": "Braço do baixo e técnica",
+        "es": "Diapasón y técnica de bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Neck landmarks and core right-hand control.",
+        "zh-Hans": "指板定位与核心右手控制。",
+        "de": "Griffbrett-Markierungen und grundlegende Rechtshandkontrolle.",
+        "ja": "指板の目印と右手の基本コントロール。",
+        "pt-BR": "Referências no braço e controle fundamental da mão direita.",
+        "es": "Puntos de referencia en el mástil y control básico de la mano derecha."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "groove-with-scales",
+    "name": {
+        "values": {
+        "en": "Groove with Scales",
+        "zh-Hans": "用音阶打造律动",
+        "de": "Grooven mit Skalen",
+        "ja": "スケールでグルーヴを作る",
+        "pt-BR": "Groove com escalas",
+        "es": "Groove con escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Blend groove vocabulary with scale tones.",
+        "zh-Hans": "将律动语汇与音阶音结合。",
+        "de": "Groove-Vokabular mit Skalentönen verbinden.",
+        "ja": "グルーヴの語彙とスケール音を組み合わせる。",
+        "pt-BR": "Misture o vocabulário de groove com as notas das escalas.",
+        "es": "Combina el vocabulario de groove con las notas de la escala."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "walking-bass-and-harmony",
+    "name": {
+        "values": {
+        "en": "Walking Bass and Harmony",
+        "zh-Hans": "行进贝斯与和声",
+        "de": "Walking Bass und Harmonie",
+        "ja": "ウォーキングベースとハーモニー",
+        "pt-BR": "Walking bass e harmonia",
+        "es": "Walking bass y armonía"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Construct walking lines and connect harmony with scales.",
+        "zh-Hans": "构建行进贝斯线并用音阶连接和声。",
+        "de": "Walking-Linien bauen und Harmonie mit Skalen verbinden.",
+        "ja": "ウォーキングラインを作り、スケールでハーモニーをつなぐ。",
+        "pt-BR": "Construa linhas de walking e conecte a harmonia com escalas.",
+        "es": "Construye líneas de walking y conecta la armonía con escalas."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "advanced-fretboard-control",
+    "name": {
+        "values": {
+        "en": "Advanced Fretboard Control",
+        "zh-Hans": "高级指板掌控",
+        "de": "Fortgeschrittene Griffbrettkontrolle",
+        "ja": "上級指板コントロール",
+        "pt-BR": "Controle avançado do braço",
+        "es": "Control avanzado del diapasón"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Move seamlessly across the neck with melodic ideas.",
+        "zh-Hans": "带着旋律想法在指板上顺畅移动。",
+        "de": "Mit melodischen Ideen nahtlos über das Griffbrett bewegen.",
+        "ja": "メロディックなアイデアで指板上をスムーズに移動する。",
+        "pt-BR": "Mover-se pelo braço sem esforço com ideias melódicas.",
+        "es": "Desplázate por el mástil sin esfuerzo con ideas melódicas."
+      }
+    },
+    "image": null,
+    "order": 4,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

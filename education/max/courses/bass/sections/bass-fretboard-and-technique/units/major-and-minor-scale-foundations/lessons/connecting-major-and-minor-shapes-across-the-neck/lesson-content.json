@@ -1,0 +1,86 @@
+{
+  "id": "connecting-major-and-minor-shapes-across-the-neck",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting major and minor shapes across the neck\nIn this lesson you’ll connect **major and minor scale shapes** so they feel like **one big map** on the neck.\n\nWe’ll mostly use **C major** and **A natural minor** (they share the same notes) and move them through a few positions.",
+          "zh-Hans": "# 在琴颈上连接大小调指型\n在本课中，你会把**大调和小调的音阶指型连在一起**，让它们在琴颈上更像**一整张地图**。\n\n我们主要用 **C 大调** 和 **A 自然小调**（它们用的是同一组音），并在几个不同的把位之间移动。",
+          "de": "# Dur- und Moll-Patterns über das Griffbrett verbinden\nIn dieser Lektion verbindest du **Dur- und Moll-Skalenformen**, sodass sie sich wie **eine zusammenhängende Karte** auf dem Hals anfühlen.\n\nWir benutzen hauptsächlich **C-Dur** und **A-Natürlich-Moll** (gleiche Töne) und bewegen sie durch mehrere Lagen.",
+          "ja": "# メジャーとマイナーの形をネック全体でつなぐ\nこのレッスンでは、**メジャーとマイナーのスケール・パターン**をつなげて、ネック上に**ひとつの地図**として感じられるようにしていきます。\n\nここでは、同じ音を共有している **Cメジャー** と **Aナチュラル・マイナー** を使って、いくつかのポジションをまたいで動かします。",
+          "pt-BR": "# Conectando desenhos maior e menor pelo braço\nNesta lição você vai conectar **desenhos de escala maior e menor** para que pareçam **um mapa único** no braço.\n\nVamos usar principalmente **Dó maior (C)** e **Lá menor natural (A)** (eles têm as mesmas notas) e levar esses desenhos por algumas posições.",
+          "es": "# Conectando dibujos mayor y menor a lo largo del mástil\nEn esta lección vas a conectar **patrones de escala mayor y menor** para que se sientan como **un solo mapa** en el mástil.\n\nUsaremos sobre todo **Do mayor (C)** y **La menor natural (A)** (comparten las mismas notas) y los moveremos por varias posiciones."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Same notes, different “home”\nC major notes:\n- **C – D – E – F – G – A – B**\n\nA natural minor notes:\n- **A – B – C – D – E – F – G**\n\nIt’s the **same seven notes**.  \nThe difference:\n- In **C major**, C feels like “home”.\n- In **A minor**, A feels like “home”.\n\nOn the neck, this means many **major and minor shapes overlap**, they just **label a different root**.",
+          "zh-Hans": "# 同一组音，不同“主音”\nC 大调的音：\n- **C – D – E – F – G – A – B**\n\nA 自然小调的音：\n- **A – B – C – D – E – F – G**\n\n其实是**同样的7个音**。\n区别在于：\n- 在 **C 大调** 里，C 像“家”（主音）。\n- 在 **A 小调** 里，A 像“家”。\n\n放到琴颈上，就意味着很多 **大调和小调指型是重叠的**，只是**主音标记的位置不一样**。",
+          "de": "# Gleiche Töne, anderes „Zuhause“\nC-Dur-Töne:\n- **C – D – E – F – G – A – B**\n\nA-Natürlich-Moll-Töne:\n- **A – B – C – D – E – F – G**\n\nEs sind **dieselben sieben Töne**.\nDer Unterschied:\n- In **C-Dur** fühlt sich C wie das „Zuhause“ an.\n- In **A-Moll** fühlt sich A wie das „Zuhause“ an.\n\nAuf dem Hals bedeutet das: Viele **Dur- und Moll-Patterns liegen übereinander**, sie markieren nur **einen anderen Grundton**.",
+          "ja": "# 同じ音でも「帰る場所」が違う\nCメジャーの音：\n- **C – D – E – F – G – A – B**\n\nAナチュラル・マイナーの音：\n- **A – B – C – D – E – F – G**\n\n使っているのは**同じ7つの音**です。\n違うのは：\n- **Cメジャー** では C が「家」（トニック）。\n- **Aマイナー** では A が「家」。\n\nネック上では、たくさんの **メジャーとマイナーの形が重なっていて**、ただ **どこをルートとして見るか** が変わるだけです。",
+          "pt-BR": "# Mesmas notas, “casa” diferente\nNotas de C maior:\n- **C – D – E – F – G – A – B**\n\nNotas de A menor natural:\n- **A – B – C – D – E – F – G**\n\nSão **as mesmas sete notas**.\nA diferença é:\n- Em **C maior**, C é a “casa”, o ponto de repouso.\n- Em **A menor**, A é essa “casa”.\n\nNo braço, isso quer dizer que muitos **desenhos maior e menor se sobrepõem** – você só **enxerga outro ponto como tônica**.",
+          "es": "# Mismas notas, distinta “casa”\nNotas de Do mayor:\n- **C – D – E – F – G – A – B**\n\nNotas de La menor natural:\n- **A – B – C – D – E – F – G**\n\nSon **las mismas siete notas**.\nLa diferencia:\n- En **Do mayor**, C se siente como la “casa”.\n- En **La menor**, A se siente como la “casa”.\n\nEn el mástil esto significa que muchos **dibujos mayor y menor se superponen**, sólo que **cambias qué nota llamas tónica**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Shape 1 – C major around the 3rd fret\nStandard tuning: E–A–D–G.\nA **C major** shape starting on the A string:\n\n- A string, 3rd fret – **C**\n- A string, 5th fret – **D**\n- D string, 2nd fret – **E**\n- D string, 3rd fret – **F**\n- D string, 5th fret – **G**\n- G string, 2nd fret – **A**\n- G string, 4th fret – **B**\n- G string, 5th fret – **C**\n\nPlay up and down slowly.  \nThis is your **“C home”** shape near the 3rd–5th frets.",
+          "zh-Hans": "# 指型1——第3品附近的 C 大调\n标准定弦：E–A–D–G。  \n一个从 A 弦开始的 **C 大调** 指型：\n\n- A 弦 第3品 – **C**\n- A 弦 第5品 – **D**\n- D 弦 第2品 – **E**\n- D 弦 第3品 – **F**\n- D 弦 第5品 – **G**\n- G 弦 第2品 – **A**\n- G 弦 第4品 – **B**\n- G 弦 第5品 – **C**\n\n慢慢上下弹一遍。  \n这就是你在第3–5品附近的 **“C 为家”** 的指型。",
+          "de": "# Form 1 – C-Dur um den 3. Bund\nStandardstimmung: E–A–D–G.  \nEine **C-Dur**-Form beginnend auf der A-Saite:\n\n- A-Saite, 3. Bund – **C**\n- A-Saite, 5. Bund – **D**\n- D-Saite, 2. Bund – **E**\n- D-Saite, 3. Bund – **F**\n- D-Saite, 5. Bund – **G**\n- G-Saite, 2. Bund – **A**\n- G-Saite, 4. Bund – **B**\n- G-Saite, 5. Bund – **C**\n\nSpiele die Skala langsam rauf und runter.  \nDas ist deine **„C als Zuhause“**-Form im Bereich 3.–5. Bund.",
+          "ja": "# 形1 – 3フレット付近のCメジャー\nスタンダード・チューニング：E–A–D–G。  \nA弦から始まる **Cメジャー** の形：\n\n- A弦 3フレット – **C**\n- A弦 5フレット – **D**\n- D弦 2フレット – **E**\n- D弦 3フレット – **F**\n- D弦 5フレット – **G**\n- G弦 2フレット – **A**\n- G弦 4フレット – **B**\n- G弦 5フレット – **C**\n\nゆっくり上下させて弾いてみましょう。  \nこれが3〜5フレットあたりの **「Cが家」の形** です。",
+          "pt-BR": "# Desenho 1 – C maior na região da 3ª casa\nAfinação padrão: E–A–D–G.  \nUm desenho de **Dó maior** começando na corda A:\n\n- Corda A, 3ª casa – **C**\n- Corda A, 5ª casa – **D**\n- Corda D, 2ª casa – **E**\n- Corda D, 3ª casa – **F**\n- Corda D, 5ª casa – **G**\n- Corda G, 2ª casa – **A**\n- Corda G, 4ª casa – **B**\n- Corda G, 5ª casa – **C**\n\nToque subindo e descendo devagar.  \nEsse é o seu desenho de **“C como casa”** ali pela 3ª–5ª casas.",
+          "es": "# Forma 1 – Do mayor cerca del traste 3\nAfinación estándar: E–A–D–G.  \nUn patrón de **Do mayor** empezando en la cuerda A:\n\n- Cuerda A, traste 3 – **C**\n- Cuerda A, traste 5 – **D**\n- Cuerda D, traste 2 – **E**\n- Cuerda D, traste 3 – **F**\n- Cuerda D, traste 5 – **G**\n- Cuerda G, traste 2 – **A**\n- Cuerda G, traste 4 – **B**\n- Cuerda G, traste 5 – **C**\n\nToca arriba y abajo despacio.  \nÉsta es tu forma de **“C como casa”** en la zona de los trastes 3–5."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Shape 2 – A minor box at the 5th fret\nNow an **A natural minor** box that overlaps this area:\n\n- E string, 5th fret – **A**\n- E string, 7th fret – **B**\n- E string, 8th fret – **C**\n- A string, 5th fret – **D**\n- A string, 7th fret – **E**\n- A string, 8th fret – **F**\n- D string, 5th fret – **G**\n- D string, 7th fret – **A**\n\nSame notes as C major, but now **A is the root**.  \nPlay up and down, really **hearing A as “home”** at both ends.",
+          "zh-Hans": "# 指型2——第5品的 A 小调“框”\n接下来是一个 **A 自然小调** 的框形，部分与上一块区域重叠：\n\n- E 弦 第5品 – **A**\n- E 弦 第7品 – **B**\n- E 弦 第8品 – **C**\n- A 弦 第5品 – **D**\n- A 弦 第7品 – **E**\n- A 弦 第8品 – **F**\n- D 弦 第5品 – **G**\n- D 弦 第7品 – **A**\n\n用的音跟 C 大调是一样的，但现在 **A 是主音**。  \n上下弹一遍，刻意去**把 A 听成“回到家”的感觉**。",
+          "de": "# Form 2 – A-Moll-Box im 5. Bund\nJetzt eine **A-Natürlich-Moll**-Box, die diesen Bereich überlappt:\n\n- E-Saite, 5. Bund – **A**\n- E-Saite, 7. Bund – **B**\n- E-Saite, 8. Bund – **C**\n- A-Saite, 5. Bund – **D**\n- A-Saite, 7. Bund – **E**\n- A-Saite, 8. Bund – **F**\n- D-Saite, 5. Bund – **G**\n- D-Saite, 7. Bund – **A**\n\nEs sind dieselben Töne wie C-Dur, aber **A ist jetzt der Grundton**.  \nSpiele die Skala auf- und abwärts und versuche, **A als „Zuhause“** zu hören.",
+          "ja": "# 形2 – 5フレット付近のAマイナー・ボックス\n次は、その近くに重なっている **Aナチュラル・マイナー** のボックスです：\n\n- E弦 5フレット – **A**\n- E弦 7フレット – **B**\n- E弦 8フレット – **C**\n- A弦 5フレット – **D**\n- A弦 7フレット – **E**\n- A弦 8フレット – **F**\n- D弦 5フレット – **G**\n- D弦 7フレット – **A**\n\n使っている音はCメジャーと同じですが、ここでは **Aがルート** です。  \n上下させて弾きながら、**Aに戻ると落ち着く感じ**を意識してみてください。",
+          "pt-BR": "# Desenho 2 – Box de A menor na 5ª casa\nAgora um box de **Lá menor natural** que se sobrepõe a essa área:\n\n- Corda E, 5ª casa – **A**\n- Corda E, 7ª casa – **B**\n- Corda E, 8ª casa – **C**\n- Corda A, 5ª casa – **D**\n- Corda A, 7ª casa – **E**\n- Corda A, 8ª casa – **F**\n- Corda D, 5ª casa – **G**\n- Corda D, 7ª casa – **A**\n\nSão as mesmas notas de C maior, mas agora **A é a tônica**.  \nToque subindo e descendo, tentando **sentir o A como ponto de repouso** nas duas pontas.",
+          "es": "# Forma 2 – Caja de La menor en el traste 5\nAhora una caja de **La menor natural** que se superpone a esta zona:\n\n- Cuerda E, traste 5 – **A**\n- Cuerda E, traste 7 – **B**\n- Cuerda E, traste 8 – **C**\n- Cuerda A, traste 5 – **D**\n- Cuerda A, traste 7 – **E**\n- Cuerda A, traste 8 – **F**\n- Cuerda D, traste 5 – **G**\n- Cuerda D, traste 7 – **A**\n\nSon las mismas notas que Do mayor, pero ahora **A es la tónica**.  \nToca arriba y abajo, tratando de **sentir el A como “casa”** en ambos extremos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting across the neck\nTry this slow exercise:\n\n1. Play the **C major shape** around the 3rd fret up and down once.  \n2. Slide your hand so your **index lines up with the 5th fret**.  \n3. Immediately play the **A minor box** from low A up to the higher A.  \n4. Repeat: C major → shift → A minor.\n\nListen for how the **sound stays related**, even though your hand moves and the root changes.",
+          "zh-Hans": "# 在琴颈上连起来\n试试这个慢速练习：\n\n1. 先在第3品附近弹一遍 **C 大调指型**，上行再下行。  \n2. 把左手整体滑动，让**食指对齐第5品**。  \n3. 立刻从低音 A 开始，弹一遍 **A 小调框形** 到高音 A。  \n4. 重复：C 大调 → 换把 → A 小调。\n\n注意听：即使手在移动、主音在变化，整体的**音色关系还是连在一起的**。",
+          "de": "# Verbindung über das Griffbrett\nProbiere diese langsame Übung:\n\n1. Spiele die **C-Dur-Form** um den 3. Bund einmal rauf und runter.  \n2. Schiebe die linke Hand so, dass dein **Zeigefinger am 5. Bund** ankommt.  \n3. Spiele direkt danach die **A-Moll-Box** vom tiefen A bis zum höheren A.  \n4. Wiederhole: C-Dur → Lagenwechsel → A-Moll.\n\nHöre darauf, wie der **Klang verwandt bleibt**, obwohl sich die Hand bewegt und der Grundton wechselt.",
+          "ja": "# ネック全体をつないでみる\n次のようなゆっくりした練習をしてみましょう：\n\n1. まず3フレット付近の **Cメジャーの形** を、上がり下がり1回ずつ弾く。  \n2. 左手をスライドさせて、**人差し指が5フレット付近にくる位置** まで移動。  \n3. すぐに、低いAから高いAまで **Aマイナー・ボックス** を弾く。  \n4. くり返し：Cメジャー → シフト → Aマイナー。\n\n手の位置とルートは変わっても、**響きのつながり**がちゃんと感じられるか、耳でチェックしてみてください。",
+          "pt-BR": "# Conectando pelo braço\nExperimente essa sequência bem lenta:\n\n1. Toque o desenho de **C maior** na região da 3ª casa, subindo e descendo uma vez.  \n2. Deslize a mão até o **indicador ficar alinhado com a 5ª casa**.  \n3. Toque imediatamente o **box de A menor**, do A grave até o A mais agudo.  \n4. Repita: C maior → shift → A menor.\n\nPerceba como o **clima sonoro continua aparentado**, mesmo mudando a posição da mão e a tônica.",
+          "es": "# Conectando a lo largo del mástil\nPrueba este ejercicio lento:\n\n1. Toca la **forma de Do mayor** cerca del traste 3 una vez arriba y abajo.  \n2. Desliza la mano hasta que tu **índice quede en la zona del traste 5**.  \n3. Toca enseguida la **caja de La menor**, desde el La grave hasta el La más agudo.  \n4. Repite: Do mayor → cambio de posición → La menor.\n\nEscucha cómo el **color sigue emparentado**, aunque se muevan la mano y la tónica cambie."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. **C major focus**  \n   - 2–3 times up and down in the C shape, always landing strong on **C**.\n2. **A minor focus**  \n   - 2–3 times up and down in the A minor box, always landing strong on **A**.\n3. **Connection drill**  \n   - C shape → slide → A minor box, repeat for 2–3 minutes.\n4. **Tiny groove**  \n   - Make a very simple line that moves from the C area into the A area, but only uses **these seven shared notes**.\n\nOver time, C major and A minor will feel like **one connected family** spread across the neck.",
+          "zh-Hans": "# 快速练习流程\n1. **C 大调专注阶段**  \n   - 在 C 指型中上下弹 2–3 遍，每次都用 **C 收尾**，让耳朵记住 C 的感觉。\n2. **A 小调专注阶段**  \n   - 在 A 小调框形中上下弹 2–3 遍，每次都用 **A 收尾**。\n3. **连接练习**  \n   - C 指型 → 滑把 → A 小调框形，循环练习 2–3 分钟。\n4. **小小 groove**  \n   - 编一个很简单的小乐句，从 C 区域走到 A 区域，但全程只用**这同一组7个音**。\n\n练一段时间后，C 大调和 A 小调会越来越像是**散布在琴颈上的一家人**，而不是两个完全分开的东西。",
+          "de": "# Kurze Übe-Routine\n1. **C-Dur-Fokus**  \n   - 2–3 Mal die C-Form rauf und runter, immer mit einem **deutlichen C** abschließen.\n2. **A-Moll-Fokus**  \n   - 2–3 Mal die A-Moll-Box rauf und runter, immer klar auf **A** landen.\n3. **Verbindungsübung**  \n   - C-Form → Rutschen → A-Moll-Box, 2–3 Minuten wiederholen.\n4. **Mini-Groove**  \n   - Erfinde eine ganz einfache Linie, die von der C-Zone in die A-Zone wandert, aber nur **diese sieben gemeinsamen Töne** benutzt.\n\nMit der Zeit fühlen sich C-Dur und A-Moll wie **eine verbundene Familie** an, die über den ganzen Hals verteilt ist.",
+          "ja": "# かんたん練習ルーティン\n1. **Cメジャーに集中**  \n   - Cの形を2〜3回上下させ、毎回しっかり **Cで終わる** ようにする。\n2. **Aマイナーに集中**  \n   - Aマイナーのボックスを2〜3回上下させ、毎回 **Aで着地** する。\n3. **接続ドリル**  \n   - Cの形 → スライド → Aマイナー・ボックス を2〜3分くり返す。\n4. **小さなグルーヴ**  \n   - C側からA側へ少し動く、シンプルなフレーズを作ってみる。ただし使っていいのは**この7音だけ**。\n\n続けていくうちに、CメジャーとAマイナーが、ネック全体に広がる**ひとつのファミリー**のように感じられてきます。",
+          "pt-BR": "# Rotina rápida de prática\n1. **Foco em C maior**  \n   - Toque o desenho de C 2–3 vezes, sempre **terminando em C** com firmeza.\n2. **Foco em A menor**  \n   - Toque o box de A menor 2–3 vezes, sempre **caindo em A**.\n3. **Drill de conexão**  \n   - C maior → desliza → A menor, repetindo por 2–3 minutos.\n4. **Mini groove**  \n   - Crie uma linha bem simples que saia da área de C e vá para a área de A, usando apenas **essas sete notas compartilhadas**.\n\nCom o tempo, C maior e A menor vão parecer **uma família só**, espalhada pelo braço inteiro.",
+          "es": "# Rutina rápida de práctica\n1. **Enfoque en Do mayor**  \n   - Toca la forma de C 2–3 veces, **terminando siempre en C** con intención.\n2. **Enfoque en La menor**  \n   - Toca la caja de A menor 2–3 veces, **aterrizando siempre en A**.\n3. **Ejercicio de conexión**  \n   - Do mayor → deslizas → La menor, repitiendo durante 2–3 minutos.\n4. **Pequeño groove**  \n   - Crea una línea muy sencilla que vaya de la zona de C a la zona de A, usando sólo **estas siete notas compartidas**.\n\nCon el tiempo, Do mayor y La menor se sentirán como **una sola familia conectada**, repartida por todo el mástil."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

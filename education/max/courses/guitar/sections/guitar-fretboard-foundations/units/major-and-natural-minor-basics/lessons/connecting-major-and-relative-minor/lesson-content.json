@@ -1,0 +1,86 @@
+{
+  "id": "connecting-major-and-relative-minor",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting major and relative minor\nEvery major scale has a **relative minor** that shares the exact same notes.\n\nExample:\n- C major: C D E F G A B C\n- A natural minor: A B C D E F G A\n\nSame notes, different **home note**.\n\nIn this lesson you’ll:\n- See how C major and A minor are connected\n- Learn how to find the **relative minor** of any major scale\n- Practice **switching “home base”** inside the same scale shapes",
+          "zh-Hans": "# 连接大调和关系小调\n每个大调都有一个和它共享**完全相同音符**的**关系小调**。\n\n例子：\n- C大调：C D E F G A B C\n- A自然小调：A B C D E F G A\n\n音是同一组，只是**“家”（主音）**换了。\n\n在本课中你会：\n- 看清 C大调 和 A小调 之间的联系\n- 学会如何找出任意大调的**关系小调**\n- 练习在同一个指型里**切换“家”的感觉**",
+          "de": "# Dur und paralleles Moll verbinden\nJede Dur-Tonleiter hat ein **paralleles Moll**, das genau **dieselben Töne** benutzt.\n\nBeispiel:\n- C-Dur: C D E F G A B C\n- A-Moll (A natural minor): A B C D E F G A\n\nGleiche Töne, aber ein anderer **Grundton**.\n\nIn dieser Lektion wirst du:\n- Sehen, wie C-Dur und A-Moll zusammenhängen\n- Lernen, das **parallele Moll** zu jeder Dur-Tonart zu finden\n- Üben, in denselben Griffbildern den **„Heimaton“ zu wechseln**",
+          "ja": "# メジャーと平行調マイナーをつなぐ\nすべてのメジャー・スケールには、音はまったく同じで**ルートだけが違う**「平行調のマイナー」があります。\n\n例：\n- Cメジャー：C D E F G A B C\n- Aナチュラル・マイナー：A B C D E F G A\n\n音の並びは同じで、**“家”と感じる音**が違うだけです。\n\nこのレッスンでは：\n- CメジャーとAマイナーのつながりを確認し\n- どのメジャーからでも**平行調マイナー**を見つける方法を学び\n- 同じポジションの中で**「どこを家にするか」**を切り替える練習をします。",
+          "pt-BR": "# Conectando o maior e o menor relativo\nToda escala maior tem um **menor relativo** que usa exatamente as **mesmas notas**.\n\nExemplo:\n- Dó maior: C D E F G A B C\n- Lá menor natural: A B C D E F G A\n\nMesmas notas, **outra nota de casa**.\n\nNesta lição você vai:\n- Ver como Dó maior e Lá menor se conectam\n- Aprender a achar o **menor relativo** de qualquer escala maior\n- Praticar trocar a **“nota de casa”** dentro dos mesmos desenhos de escala",
+          "es": "# Conectando la mayor y la menor relativa\nCada escala mayor tiene una **menor relativa** que comparte exactamente las **mismas notas**.\n\nEjemplo:\n- Do mayor: C D E F G A B C\n- La menor natural: A B C D E F G A\n\nMismas notas, diferente **nota de casa**.\n\nEn esta lección vas a:\n- Ver cómo se conectan Do mayor y La menor\n- Aprender a encontrar la **menor relativa** de cualquier escala mayor\n- Practicar cambiar la **“nota de casa”** dentro de los mismos dibujos de escala"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Same notes, different center\nThink of C major degrees:\n- C = 1, D = 2, E = 3, F = 4, G = 5, A = 6, B = 7\n\nIf you “rotate” the same notes so that **A becomes 1**, you get A natural minor:\n- A = 1, B = 2, C = b3, D = 4, E = 5, F = b6, G = b7\n\nNothing on the fretboard moved – your **ear** just decided that A is home instead of C.",
+          "zh-Hans": "# 相同的音，不同的中心\n先看C大调的音级：\n- C = 1, D = 2, E = 3, F = 4, G = 5, A = 6, B = 7\n\n如果你“旋转”这组音，让 **A 变成 1**，就得到A自然小调：\n- A = 1, B = 2, C = b3, D = 4, E = 5, F = b6, G = b7\n\n指板上没有任何东西改变，只是你的**耳朵**决定：这次以A为“家”，而不是C。",
+          "de": "# Gleiche Töne, anderer Mittelpunkt\nBetrachte die Stufen in C-Dur:\n- C = 1, D = 2, E = 3, F = 4, G = 5, A = 6, B = 7\n\n„Drehst“ du die Reihenfolge so, dass **A zur 1** wird, erhältst du A-Moll:\n- A = 1, B = 2, C = b3, D = 4, E = 5, F = b6, G = b7\n\nAuf dem Griffbrett hat sich nichts bewegt – nur dein **Ohr** entscheidet jetzt, dass A statt C der Mittelpunkt ist.",
+          "ja": "# 同じ音で、中心だけを変える\nまずCメジャーのディグリーを見てみます：\n- C = 1, D = 2, E = 3, F = 4, G = 5, A = 6, B = 7\n\nここで並びを**Aを1にするように**見直すと、Aナチュラル・マイナーになります：\n- A = 1, B = 2, C = b3, D = 4, E = 5, F = b6, G = b7\n\n指板上のポジションはまったく同じで、変わったのは「**どの音を中心として聴くか**」だけです。",
+          "pt-BR": "# Mesmas notas, centro diferente\nPense nos graus de Dó maior:\n- C = 1, D = 2, E = 3, F = 4, G = 5, A = 6, B = 7\n\nSe você “gira” essa sequência e deixa o **A como 1**, vira Lá menor natural:\n- A = 1, B = 2, C = b3, D = 4, E = 5, F = b6, G = b7\n\nNada se mexeu no braço – quem mudou foi o seu **ouvido**, escolhendo o Lá como casa em vez do Dó.",
+          "es": "# Mismas notas, centro distinto\nPiensa en los grados de Do mayor:\n- C = 1, D = 2, E = 3, F = 4, G = 5, A = 6, B = 7\n\nSi “giras” esta secuencia para que **A sea 1**, obtienes La menor natural:\n- A = 1, B = 2, C = b3, D = 4, E = 5, F = b6, G = b7\n\nEn el diapasón no se movió nada: lo que cambió es que tu **oído** ahora elige al La como centro en lugar de Do."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Finding the relative minor of any major\nFor any major key:\n- The **relative minor** starts on the **6th degree** of the major scale.\n\nExamples:\n- G major (G A B C D E F#) → **E minor** is the relative minor (6th = E)\n- D major (D E F# G A B C#) → **B minor** is the relative minor (6th = B)\n\nQuick trick:\n- From the major root, go **down three semitones** (three frets) to find the relative minor root.",
+          "zh-Hans": "# 找到任意大调的关系小调\n对于任何一个大调：\n- 它的**关系小调**从大调的**第6级**开始。\n\n例子：\n- G大调（G A B C D E F#）→ **E小调** 是它的关系小调（第6级 = E）\n- D大调（D E F# G A B C#）→ **B小调** 是它的关系小调（第6级 = B）\n\n一个小窍门：\n- 从大调主音往下走**三个半音**（指板上往低音方向退三个品），就是关系小调的主音。",
+          "de": "# Das parallele Moll jeder Dur-Tonart finden\nFür jede Dur-Tonart gilt:\n- Das **parallele Moll** beginnt auf der **6. Stufe** der Dur-Tonleiter.\n\nBeispiele:\n- G-Dur (G A B C D E F#) → **E-Moll** ist das parallele Moll (6. Stufe = E)\n- D-Dur (D E F# G A B C#) → **H-Moll** ist das parallele Moll (6. Stufe = H)\n\nSchneller Trick:\n- Vom Dur-Grundton **drei Halbtöne nach unten** gehen (drei Bünde zurück) – dort liegt der Grundton des Moll-Parallels.",
+          "ja": "# どのメジャーからでも平行調マイナーを見つける\nどんなメジャー・キーでも：\n- その**6度の音**から始まるスケールが、平行調のマイナーになります。\n\n例：\n- Gメジャー（G A B C D E F#）→ **Eマイナー** が平行調（6度 = E）\n- Dメジャー（D E F# G A B C#）→ **Bマイナー** が平行調（6度 = B）\n\n簡単なコツ：\n- メジャーのルートから**半音3つ分下**（フレットを3つ低いほうへ）に移動すると、それが平行調マイナーのルートです。",
+          "pt-BR": "# Como achar o menor relativo de qualquer maior\nPara qualquer tonalidade maior:\n- O **menor relativo** começa no **6º grau** da escala maior.\n\nExemplos:\n- G maior (G A B C D E F#) → **E menor** é o relativo (6º = E)\n- D maior (D E F# G A B C#) → **B menor** é o relativo (6º = B)\n\nTruque rápido:\n- A partir da tônica maior, desça **três semitons** (três casas para trás no braço) para achar a tônica do menor relativo.",
+          "es": "# Cómo encontrar la menor relativa de cualquier mayor\nPara cualquier tonalidad mayor:\n- La **menor relativa** empieza en el **6º grado** de la escala mayor.\n\nEjemplos:\n- Sol mayor (G A B C D E F#) → **Mi menor** es la relativa (6º = E)\n- Re mayor (D E F# G A B C#) → **Si menor** es la relativa (6º = B)\n\nTruco rápido:\n- Desde la tónica mayor, baja **tres semitonos** (tres trastes hacia la cejilla) para encontrar la tónica de la menor relativa."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using the same scale shapes\nThe great news: you don’t need new shapes.\n\nIf you already know **C major shapes** on the neck:\n- The **exact same fingerings** also give you **A natural minor**\n- The only change is **which note you treat as the root**\n\nTry this in one of your C major shapes:\n- To hear **C major**, start and end on C, and let C feel like “home”\n- To hear **A minor**, linger more on A notes, and let A be the “home” sound\n\nSame frets, same strings – your **target notes** change the mood.",
+          "zh-Hans": "# 用同一套指型\n好消息是：你并不需要一堆全新的指型。\n\n如果你已经会在指板上弹 **C大调** 的几个指型：\n- **同样的指法** 也能弹出 **A自然小调**\n- 唯一的区别是：你把**哪一个音当成主音（根音）**\n\n在某个C大调指型里试试：\n- 想听成 **C大调** 时，就从C出发、多停在C上，让C听起来像“回到家”\n- 想听成 **A小调** 时，多停在A这个音上，让A成为“回家”的感觉\n\n品位和弦都一样，只是你**瞄准的音**不同，音乐的情绪就跟着变了。",
+          "de": "# Dieselben Skalenformen nutzen\nDie gute Nachricht: Du brauchst keine neuen Griffbilder.\n\nWenn du bereits **C-Dur-Formen** auf dem Hals kennst:\n- Mit **denselben Fingersätzen** kannst du auch **A-Moll** spielen\n- Der einzige Unterschied ist, **welchen Ton du als Grundton behandelst**\n\nProbier das in einer deiner C-Dur-Formen:\n- Um **C-Dur** zu hören, startest und endest du öfter auf C und lässt C wie „Zuhause“ klingen\n- Um **A-Moll** zu hören, verweilst du mehr auf A und lässt A wie den „Heimaton“ wirken\n\nGleiche Bünde, gleiche Saiten – aber die **Zieltöne** ändern die Stimmung komplett.",
+          "ja": "# 同じスケール・ポジションを使い回す\nうれしいポイントは、**新しい形を覚えなくてもいい**ところです。\n\nもしあなたがネック上で **Cメジャーのポジション** をすでに知っていれば：\n- そのままのフィンガリングで **Aナチュラル・マイナー** も弾けます\n- 違うのは「**どの音をルートとして扱うか**」だけです。\n\nひとつのCメジャー・ポジションで試してみましょう：\n- **Cメジャーとして**聴きたいときは、Cから弾き始めてCで終わったり、Cに戻る感じを強く出す\n- **Aマイナーとして**聴きたいときは、Aの音でよく止まったり、Aに解決する感じを意識する\n\n同じポジションでも、狙っている**着地ポイント**が変わると、音楽の雰囲気がガラッと変わります。",
+          "pt-BR": "# Usando os mesmos desenhos de escala\nA boa notícia: você não precisa de novos desenhos.\n\nSe você já conhece **desenhos de Dó maior** pelo braço:\n- As **mesmas digitações** também servem para **Lá menor natural**\n- O que muda é **qual nota você trata como tônica**\n\nPegue um desses desenhos e teste:\n- Para soar como **Dó maior**, comece e termine mais em C e deixe o ouvido sentir que “voltou pra casa” no Dó\n- Para soar como **Lá menor**, pare mais em A, segure o A nas pausas e faça o ouvido sentir que o Lá é a casa\n\nMesmos trastes, mesmas cordas – são os seus **alvos** que mudam o clima da música.",
+          "es": "# Usando los mismos dibujos de escala\nLa buena noticia: no necesitas formas nuevas.\n\nSi ya conoces **dibujos de Do mayor** en el mástil:\n- Las **mismas digitaciones** también te dan **La menor natural**\n- Lo único que cambia es **qué nota tratas como tónica**\n\nPrueba en uno de tus dibujos de Do mayor:\n- Para oír **Do mayor**, empieza y termina más en C y deja que Do se sienta como “volver a casa”\n- Para oír **La menor**, quédate más tiempo en A y deja que La sea el lugar de descanso\n\nMismos trastes, mismas cuerdas: tus **notas objetivo** son las que cambian el carácter de la escala."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nUse any C major / A minor shape you know:\n\n1. Play **C major up and down**, ending on C. Listen to the bright, “resolved” major sound.\n2. Without moving your hand, play the **same notes**, but this time start and end on **A**. Notice the sadder, minor colour.\n3. Loop between these two versions: major (C as home) → minor (A as home).\n4. Try the same idea in other keys: G ↔ E minor, D ↔ B minor, etc.\n\nYou’re training your brain to see one set of notes, but **two possible centers**.",
+          "zh-Hans": "# 小练习\n用你熟悉的任意一个 C大调 / A小调 指型：\n\n1. 先弹一遍 **C大调上行、下行**，最后停在C上，感受明亮、稳定的“大调感”。\n2. 手不要动，弹**同样的音**，但这次从 **A** 开始并停在A上，听听变得更悲伤、更“内向”的小调味道。\n3. 在这两种版本之间来回循环：以C为家的大调 → 以A为家的小调。\n4. 然后在其他调里试同样的想法：G ↔ E小调，D ↔ B小调 等等。\n\n你在训练自己的大脑：看到的是同一组音符，但可以有 **两个不同的中心**。",
+          "de": "# Kurze Übung\nNimm irgendeine Form, in der du C-Dur / A-Moll spielen kannst:\n\n1. Spiel **C-Dur auf- und abwärts** und ende auf C. Hör auf den hellen, „aufgelösten“ Dur-Klang.\n2. Ohne die Hand zu verschieben, spiel **dieselben Töne**, aber starte und lande diesmal auf **A**. Achte auf die dunklere Moll-Farbe.\n3. Wechsle im Loop zwischen beiden Versionen: Dur (C als Zentrum) → Moll (A als Zentrum).\n4. Probier das gleiche Prinzip in anderen Tonarten: G ↔ E-Moll, D ↔ H-Moll usw.\n\nSo trainierst du dein Gehör darauf, in einem Tonvorrat **zwei verschiedene Mittelpunkte** zu erkennen.",
+          "ja": "# さっとできる練習\nCメジャー／Aマイナーが弾けるポジションを1つ選びます。\n\n1. まずその形で **Cメジャーを上下**に弾き、Cで終わります。明るくてスッと落ち着くメジャーの響きを意識しましょう。\n2. 手を動かさずに、**同じ音**を今度は **Aから始めてAで終わる**ように弾きます。少し切なく、マイナーらしい色合いに変わるのを感じてください。\n3. この2パターンをループさせます：Cを家にしたメジャー → Aを家にしたマイナー。\n4. 慣れてきたら、GとEマイナー、DとBマイナーなど、他のキーでも同じ練習をしてみましょう。\n\n1つの音のセットの中に、**2つの違う中心**を感じ取る耳を育てるトレーニングです。",
+          "pt-BR": "# Prática rápida\nUse qualquer desenho em que você consiga tocar Dó maior / Lá menor:\n\n1. Toque **Dó maior subindo e descendo**, terminando em C. Perceba o som maior, claro e “resolvido”.\n2. Sem mexer a mão, toque **as mesmas notas**, mas agora começando e terminando em **A**. Note como o clima fica mais triste, com cara de menor.\n3. Fique alternando entre essas duas versões: maior (C como casa) → menor (A como casa).\n4. Depois tente a mesma ideia em outras tonalidades: G ↔ E menor, D ↔ B menor, etc.\n\nVocê está treinando o cérebro para olhar para o **mesmo conjunto de notas**, mas reconhecer **dois centros possíveis**.",
+          "es": "# Práctica rápida\nUsa cualquier dibujo donde puedas tocar Do mayor / La menor:\n\n1. Toca **Do mayor subiendo y bajando**, terminando en C. Escucha el sonido mayor, claro y “resuelto”.\n2. Sin mover la mano, toca **las mismas notas**, pero empezando y terminando en **A**. Nota cómo el color se vuelve más triste, más menor.\n3. Alterna en bucle entre estas dos versiones: mayor (C como casa) → menor (A como casa).\n4. Luego prueba la misma idea en otras tonalidades: G ↔ Mi menor, D ↔ Si menor, etc.\n\nAsí entrenas al cerebro para ver un mismo grupo de notas, pero con **dos centros posibles**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this clicks, every major scale shape you know automatically gives you a **second flavour**: its relative minor, waiting right inside the same frets.",
+          "zh-Hans": "当这个概念“卡住”后，你学过的每一个大调指型，都会自动自带一个**第二种味道**：它的关系小调，就藏在同一组品位里。",
+          "de": "Sobald der Funke übergesprungen ist, liefert dir jede Dur-Skalenform automatisch einen **zweiten Klangcharakter** mit: das parallele Moll – direkt in denselben Bünden.",
+          "ja": "この感覚がつかめてくると、あなたが知っているすべてのメジャー・スケールの形が、そのまま**もう1つの味**――平行調マイナー――としても使えるようになります。",
+          "pt-BR": "Quando isso fizer sentido de verdade, cada desenho de escala maior que você sabe passa a ter um **segundo sabor embutido**: o menor relativo, morando nos mesmos trastes.",
+          "es": "Cuando esto encaja, cada dibujo de escala mayor que conoces te regala automáticamente un **segundo sabor**: su menor relativa, viviendo en los mismos trastes."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

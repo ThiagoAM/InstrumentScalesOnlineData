@@ -1,0 +1,73 @@
+{
+  "id": "alternating-fingers-index-middle",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Alternating index and middle fingers\nIn this lesson you’ll work on **alternating your right-hand index and middle fingers**.\n\nThis gives you:\n- **Even tone** and volume\n- Less **hand fatigue**\n- A solid base for faster, smoother lines later",
+          "zh-Hans": "# 交替使用右手食指和中指\n在本课中，你会练习**用右手食指和中指交替拨弦**。\n\n这样可以帮助你：\n- 获得更**均匀的音色**和音量\n- 减少右手的**疲劳感**\n- 为以后更快、更流畅的走线打下基础",
+          "de": "# Zeige- und Mittelfinger abwechselnd benutzen\nIn dieser Lektion übst du, mit der rechten Hand **Zeige- und Mittelfinger im Wechsel** zu spielen.\n\nDas bringt dir:\n- **Gleichmäßigeren Klang** und Lautstärke\n- Weniger **Ermüdung** der Hand\n- Eine solide Basis für schnellere, flüssige Linien später",
+          "ja": "# 右手の人差し指と中指を交互に使う\nこのレッスンでは、右手の**人差し指と中指を交互に使ってピッキングする**練習をします。\n\nこれができるようになると：\n- 音量と音色が**そろいやすく**なる\n- 右手が**疲れにくく**なる\n- あとで速くてスムーズなラインを弾くための土台になる",
+          "pt-BR": "# Alternando os dedos indicador e médio\nNesta lição você vai trabalhar em **alternar os dedos indicador e médio da mão direita**.\n\nIsso traz:\n- **Som mais uniforme** e mesma intensidade\n- Menos **cansaço** na mão\n- Uma base firme para tocar linhas mais rápidas e suaves depois",
+          "es": "# Alternando los dedos índice y medio\nEn esta lección vas a practicar **alternar los dedos índice y medio de la mano derecha**.\n\nEsto te da:\n- **Sonido más parejo** y volumen constante\n- Menos **fatiga** en la mano\n- Una base sólida para tocar líneas más rápidas y fluidas más adelante"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand position\n- Rest your **thumb** on the pickup or on the **E string** (or low B if you have 5 strings)\n- Let the **index (i)** and **middle (m)** fingers hover over the string you’re playing\n- Curve the fingers slightly and pluck **across the string**, towards your palm\n- Keep the wrist relaxed, not locked or bent too hard\n\nThe goal is a **comfortable, neutral** hand shape that you can keep for a long time.",
+          "zh-Hans": "# 右手位置\n- 用右手**大拇指**搭在拾音器上，或搭在 **E 弦**（若是5弦则搭在低 B 弦）上\n- 让**食指（i）**和**中指（m）**悬在你要拨的那根弦上方\n- 手指微微弯曲，向手掌方向**横向拨过弦**，而不是向上猛拉\n- 手腕保持放松，不要僵硬或过度弯曲\n\n目标是一个可以长时间保持的、**舒服而自然**的手型。",
+          "de": "# Handposition\n- Lege den **Daumen** auf den Pickup oder auf die **E-Saite** (bei einem Fünfsaiter auf die tiefe B-Saite)\n- Lass **Zeige- (i)** und **Mittelfinger (m)** über der Saite schweben, die du spielst\n- Finger leicht krümmen und **quer über die Saite** in Richtung Handfläche zupfen\n- Handgelenk entspannt halten, nicht steif oder stark abgeknickt\n\nZiel ist eine **bequeme, neutrale** Handhaltung, die du lange durchhalten kannst.",
+          "ja": "# 右手のフォーム\n- 右手の**親指**をピックアップ、または**E弦**（5弦ベースなら低B弦）の上に軽く置きます\n- **人差し指（i）**と**中指（m）**を、弾きたい弦の上にそっと構えます\n- 指を少し曲げて、手のひら側に向かって**弦を横に弾く**イメージでピッキングします\n- 手首は力を抜いて、固めたり強く曲げ過ぎたりしないようにします\n\n長く弾いてもつかれにくい、**自然でラクなフォーム**が目標です。",
+          "pt-BR": "# Posição da mão direita\n- Apoie o **polegar** no captador ou na **corda E** (ou na B grave, se for baixo de 5 cordas)\n- Deixe os dedos **indicador (i)** e **médio (m)** logo acima da corda que você vai tocar\n- Curve levemente os dedos e puxe **atravessando a corda**, em direção à palma da mão\n- Mantenha o punho relaxado, sem travar ou forçar demais\n\nA ideia é ter uma mão em posição **confortável e neutra**, que você consiga manter por bastante tempo.",
+          "es": "# Posición de la mano derecha\n- Apoya el **pulgar** sobre la pastilla o sobre la **cuerda E** (o la B grave si tienes 5 cuerdas)\n- Deja los dedos **índice (i)** y **medio (m)** justo encima de la cuerda que vas a tocar\n- Flexiona un poco los dedos y tira **a través de la cuerda**, hacia la palma\n- Mantén la muñeca relajada, sin bloquearla ni doblarla en exceso\n\nEl objetivo es una posición **cómoda y neutra** que puedas mantener durante mucho tiempo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic one-string alternation\nStart on the **A string** and play slow, steady quarter notes:\n\n- Pattern: **i – m – i – m – i – m…**  \n- Count: **1 – 2 – 3 – 4** (one pluck per beat)\n\nThen flip the pattern:\n- Pattern: **m – i – m – i – m – i…**\n\nListen for:\n- Same **volume** from both fingers\n- Same **tone** (no “weak” finger)\n- No extra noise from unused strings",
+          "zh-Hans": "# 单弦上的基础交替\n先在 **A 弦**上练习，弹慢速、稳定的四分音符：\n\n- 先用：**i – m – i – m – i – m…**（食指–中指交替）  \n- 数拍：**1 – 2 – 3 – 4**（每拍拨一次）\n\n然后把顺序反过来：\n- 模式：**m – i – m – i – m – i…**\n\n注意聆听：\n- 两个手指的**音量是否一致**\n- **音色是否接近**（不要有明显“弱指”）\n- 没有多余的杂音或其他弦被误碰",
+          "de": "# Grundübung auf einer Saite\nBeginne auf der **A-Saite** und spiele langsame, gleichmäßige Viertelnoten:\n\n- Muster: **i – m – i – m – i – m…**  \n- Zählzeit: **1 – 2 – 3 – 4** (ein Ton pro Schlag)\n\nDann kehr das Muster um:\n- Muster: **m – i – m – i – m – i…**\n\nAchte darauf:\n- **Gleiche Lautstärke** bei beiden Fingern\n- **Ähnlicher Klang** (kein „schwacher“ Finger)\n- Keine Nebengeräusche von unbenutzten Saiten",
+          "ja": "# 1本の弦での基本オルタネイト\nまずは **A弦**だけを使って、ゆっくりした4分音符で練習します：\n\n- パターン：**i – m – i – m – i – m…**（人差し指→中指のくり返し）  \n- カウント：**1・2・3・4**（1拍に1回ピッキング）\n\n次に、順番を入れ替えます：\n- パターン：**m – i – m – i – m – i…**\n\nチェックポイント：\n- どちらの指でも**音量がそろっているか**\n- **音色が近いか**（片方だけ弱々しくならないように）\n- 使っていない弦から余計なノイズが出ていないか",
+          "pt-BR": "# Alternando em uma corda só\nComece na **corda A** e toque semínimas lentas e regulares:\n\n- Padrão: **i – m – i – m – i – m…**  \n- Contagem: **1 – 2 – 3 – 4** (uma nota por tempo)\n\nDepois inverta o padrão:\n- Padrão: **m – i – m – i – m – i…**\n\nPreste atenção em:\n- Mesma **intensidade** com os dois dedos\n- Mesma **cara de som** (evitar um dedo “fraco”)\n- Ausência de ruídos extras das cordas que você não está usando",
+          "es": "# Alternando en una sola cuerda\nEmpieza en la **cuerda A** y toca negras lentas y constantes:\n\n- Patrón: **i – m – i – m – i – m…**  \n- Cuenta: **1 – 2 – 3 – 4** (una nota por pulso)\n\nLuego invierte el patrón:\n- Patrón: **m – i – m – i – m – i…**\n\nEscucha si:\n- La **intensidad** es la misma con ambos dedos\n- El **timbre** es parecido (que no haya un dedo “débil”)\n- No salen ruidos extra de cuerdas que no estás tocando"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# String crossing with alternation\nKeep the **i–m–i–m** pattern going while you move across strings:\n\n1. Play on **E string**: i – m – i – m  \n2. Move to **A string**: i – m – i – m  \n3. Then **D string**, then **G string** the same way\n\nImportant: **don’t restart** the pattern when you change strings. If you ended on **m**, the next pluck is **i**, even on a new string.",
+          "zh-Hans": "# 交替拨弦时的换弦练习\n保持**i–m–i–m**的节奏不变，同时在各弦之间移动：\n\n1. 先在 **E 弦**上弹：i – m – i – m  \n2. 然后换到 **A 弦**：i – m – i – m  \n3. 再到 **D 弦**，然后是 **G 弦**，同样的方式\n\n关键点：**换弦时不要重新开始模式**。如果上一根弦的最后一次拨弦是 **m**，那换弦后下一下就应该是 **i**，即使已经换到别的弦。",
+          "de": "# Saitenwechsel mit Wechselschlag\nHalte das **i–m–i–m**-Muster durch, während du zwischen den Saiten wechselst:\n\n1. Spiele auf der **E-Saite**: i – m – i – m  \n2. Wechsle auf die **A-Saite**: i – m – i – m  \n3. Dann genauso auf **D-Saite** und **G-Saite**\n\nWichtig: Beim Saitenwechsel **nicht von vorne anfangen**. Wenn du auf der vorherigen Saite mit **m** aufgehört hast, ist der nächste Schlag **i**, auch auf der neuen Saite.",
+          "ja": "# 弦移動をしながらのオルタネイト\n**i–m–i–m**のパターンを止めずに、そのまま弦を移動してみましょう：\n\n1. まず **E弦**で：i – m – i – m  \n2. 次に **A弦**へ移って：i – m – i – m  \n3. その後 **D弦**、**G弦**も同じように\n\n大事なポイント：弦を変えるときに**パターンをリセットしない**こと。前の弦の最後が**m**だったら、次の弦の最初は必ず**i**から始めます。",
+          "pt-BR": "# Troca de corda mantendo a alternância\nMantenha o padrão **i–m–i–m** enquanto muda de corda:\n\n1. Toque na **corda E**: i – m – i – m  \n2. Vá para a **corda A**: i – m – i – m  \n3. Depois faça o mesmo na **corda D** e na **corda G**\n\nImportante: **não reinicie** o padrão quando trocar de corda. Se você terminou na corda anterior com o **m**, a próxima nota, mesmo em outra corda, deve ser com o **i**.",
+          "es": "# Cambio de cuerda manteniendo la alternancia\nMantén el patrón **i–m–i–m** mientras te mueves entre cuerdas:\n\n1. Toca en la **cuerda E**: i – m – i – m  \n2. Pasa a la **cuerda A**: i – m – i – m  \n3. Luego haz lo mismo en las cuerdas **D** y **G**\n\nImportante: **no reinicies** el patrón al cambiar de cuerda. Si terminaste en la cuerda anterior con **m**, la siguiente nota, aunque sea en otra cuerda, va con **i**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. **Slow single-string drill**  \n   - 2 minutes on the A string: i–m–i–m, then m–i–m–i, very steady.\n2. **Slow string-crossing drill**  \n   - E → A → D → G, 4 notes per string, keep the alternation.\n3. **Tone check**  \n   - Close your eyes and play a few notes; try to **guess which finger** you used. If you can’t tell, that’s good.\n\nA few focused minutes with this every day will make your right hand feel much more **balanced and reliable**.",
+          "zh-Hans": "# 快速练习流程\n1. **慢速单弦练习**  \n   - 在 A 弦上练习约 2 分钟：先 i–m–i–m，再 m–i–m–i，节奏保持稳定。\n2. **慢速换弦练习**  \n   - E → A → D → G，每根弦弹 4 个音，全程保持交替拨弦。\n3. **音色检查**  \n   - 闭上眼睛弹几下，尝试**猜自己用的是哪根手指**。如果分不清，说明两指的音色已经很接近，这是好事。\n\n每天花几分钟专注练习这些内容，你的右手会变得更加**均衡、可靠**。",
+          "de": "# Kurze Übe-Routine\n1. **Langsame Ein-Saiten-Übung**  \n   - 2 Minuten auf der A-Saite: erst i–m–i–m, dann m–i–m–i, ganz gleichmäßig.\n2. **Langsame Saitenwechsel-Übung**  \n   - E → A → D → G, 4 Töne pro Saite, Wechselschlag durchhalten.\n3. **Klangcheck**  \n   - Augen schließen und ein paar Töne spielen; versuche zu **erraten, welcher Finger** gerade gespielt hat. Wenn du es nicht hören kannst, ist das ein gutes Zeichen.\n\nEin paar konzentrierte Minuten pro Tag damit, und deine rechte Hand fühlt sich deutlich **ausgeglichener und zuverlässiger** an.",
+          "ja": "# かんたん練習ルーティン\n1. **ゆっくり単弦ドリル**  \n   - A弦だけで約2分：まず i–m–i–m、そのあと m–i–m–i を、テンポ一定で続けます。\n2. **ゆっくり弦移動ドリル**  \n   - E → A → D → G と進みながら、各弦4音ずつ、オルタネイトを崩さずに弾きます。\n3. **音色チェック**  \n   - 目をつぶって何音か弾き、「いま弾いたのはどっちの指か」を**耳だけで当ててみる**。聞き分けられなくなってきたら、いい感じにそろってきている証拠です。\n\n毎日ほんの数分でも集中して続ければ、右手はぐっと**安定して、信頼できる**動きになっていきます。",
+          "pt-BR": "# Rotina rápida de prática\n1. **Exercício lento em uma corda**  \n   - 2 minutos na corda A: primeiro i–m–i–m, depois m–i–m–i, bem firme no tempo.\n2. **Exercício lento trocando de corda**  \n   - E → A → D → G, 4 notas por corda, mantendo a alternância.\n3. **Checagem de timbre**  \n   - Feche os olhos e toque algumas notas; tente **adivinhar qual dedo** você usou. Se não der pra distinguir pelo som, é ótimo sinal.\n\nAlguns minutos focados nisso todos os dias já deixam a mão direita muito mais **equilibrada e confiável**.",
+          "es": "# Rutina rápida de práctica\n1. **Ejercicio lento en una cuerda**  \n   - 2 minutos en la cuerda A: primero i–m–i–m, luego m–i–m–i, muy estable en el pulso.\n2. **Ejercicio lento con cambio de cuerda**  \n   - E → A → D → G, 4 notas por cuerda, manteniendo la alternancia.\n3. **Chequeo de sonido**  \n   - Cierra los ojos y toca algunas notas; intenta **adivinar con qué dedo** tocaste. Si no puedes distinguirlo por el sonido, es una buena señal.\n\nUnos pocos minutos enfocados en esto cada día harán que tu mano derecha se sienta mucho más **equilibrada y segura**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "inversions-of-major-and-minor-triads",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Inversions of major and minor triads\nIn this lesson you’ll learn **inversions** of major and minor triads.\n\nInstead of always having the **root in the bass**, you’ll move a chord’s notes around so a **different note is lowest**. This makes your chords smoother and more flexible on the keyboard.",
+          "zh-Hans": "# 大三和弦与小三和弦的转位\n本课你会学习大三和弦和小三和弦的**转位**。\n\n和弦不一定总是让**根音在最低**，你可以把和弦里的音重新排列，让**别的音出现在最低音**。这样弹出来的和弦会更顺手，也更容易平滑地衔接。",
+          "de": "# Umkehrungen von Dur- und Moll-Dreiklängen\nIn dieser Lektion lernst du die **Umkehrungen** von Dur- und Moll-Dreiklängen kennen.\n\nAnstatt immer den **Grundton im Bass** zu haben, ordnest du die Töne so um, dass **ein anderer Ton unten** liegt. Dadurch klingen Akkordfolgen auf der Klaviatur oft geschmeidiger und flexibler.",
+          "ja": "# メジャー／マイナー・トライアドの転回形\nこのレッスンでは、メジャーとマイナーのトライアドの**転回形（インヴァージョン）**を練習します。\n\nいつも**ルートが一番下**にある必要はなく、和音の並び替えをして**別の音を一番低い音**にできます。そうすると、コード進行がよりなめらかで弾きやすくなります。",
+          "pt-BR": "# Inversões de tríades maiores e menores\nNesta lição você vai aprender as **inversões** de tríades maiores e menores.\n\nEm vez de sempre ter a **tônica no baixo**, você pode reorganizar as notas do acorde para que **outra nota fique embaixo**. Isso deixa as mudanças de acordes muito mais suaves no teclado.",
+          "es": "# Inversiones de tríadas mayores y menores\nEn esta lección vas a aprender las **inversiones** de tríadas mayores y menores.\n\nEn lugar de tener siempre la **tónica en el bajo**, vas a reordenar las notas del acorde para que **otra nota quede abajo**. Esto hace que los cambios de acordes sean más suaves y flexibles en el teclado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Root position and inversions\nTake a C major triad:\n\n**C–E–G**\n\n- **Root position**: C–E–G (C is lowest)\n- **1st inversion**: E–G–C (E is lowest)\n- **2nd inversion**: G–C–E (G is lowest)\n\nSame three notes, **different note in the bass**. The chord’s name is still **C major** in every shape.",
+          "zh-Hans": "# 原位和转位\n先看 C 大三和弦：\n\n**C–E–G**\n\n- **原位和弦**：C–E–G（最低音是 C）\n- **第一转位**：E–G–C（最低音是 E）\n- **第二转位**：G–C–E（最低音是 G）\n\n三个和弦用的音完全一样，只是**最低音换了**。不管是哪一种排列，它们都还是 **C大三和弦**。",
+          "de": "# Grundstellung und Umkehrungen\nNehmen wir einen C-Dur-Dreiklang:\n\n**C–E–G**\n\n- **Grundstellung**: C–E–G (C ist der tiefste Ton)\n- **1. Umkehrung**: E–G–C (E ist unten)\n- **2. Umkehrung**: G–C–E (G ist unten)\n\nEs sind immer dieselben drei Töne, nur mit **anderem Basston**. Der Akkord heißt in allen Fällen weiterhin **C-Dur**.",
+          "ja": "# 原位と転回形\nCメジャー・トライアドを例にします。\n\n**C–E–G**\n\n- **原位**：C–E–G（Cが一番下）\n- **第1転回形**：E–G–C（Eが一番下）\n- **第2転回形**：G–C–E（Gが一番下）\n\nどれも同じ3つの音ですが、**一番低い音だけが違う**形です。名前はどれも **Cメジャー** のまま変わりません。",
+          "pt-BR": "# Posição fundamental e inversões\nUse a tríade de Dó maior como exemplo:\n\n**C–E–G**\n\n- **Posição fundamental**: C–E–G (C é a nota mais grave)\n- **1ª inversão**: E–G–C (E fica embaixo)\n- **2ª inversão**: G–C–E (G fica embaixo)\n\nSão as mesmas três notas, mas com **outra nota no baixo**. Em todas as formas ainda é um acorde de **Dó maior**.",
+          "es": "# Posición fundamental e inversiones\nTomemos la tríada de Do mayor:\n\n**C–E–G**\n\n- **Posición fundamental**: C–E–G (C es la nota más grave)\n- **1ª inversión**: E–G–C (E queda abajo)\n- **2ª inversión**: G–C–E (G queda abajo)\n\nSon las mismas tres notas, con **otra nota en el bajo**. En todos los casos el acorde sigue siendo **Do mayor**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Major triad example – C major\nOn the keyboard, try these with the **right hand**:\n\n- Root position: **C–E–G** (1–3–5)\n- 1st inversion: **E–G–C** (1–2–5 or 1–3–5)\n- 2nd inversion: **G–C–E** (1–3–5)\n\nTips:\n- Keep your hand in a **comfortable five-finger shape**.\n- Move the **top note down an octave** to get to the next inversion:\n  - C–E–G → (move C up) → E–G–C → (move E up) → G–C–E.",
+          "zh-Hans": "# 大三和弦示例 – C大三和弦\n在键盘上，用**右手**试一试：\n\n- 原位：**C–E–G**（手型 1–3–5）\n- 第一转位：**E–G–C**（可以用 1–2–5 或 1–3–5）\n- 第二转位：**G–C–E**（1–3–5）\n\n小提示：\n- 手保持在一个**舒服的五指形状**里，不要用力伸直。\n- 想切换转位时，可以把**最高的那个音搬到下一组八度**：\n  - C–E–G →（把 C 往上移）→ E–G–C →（再把 E 往上移）→ G–C–E。",
+          "de": "# Beispiel Dur-Dreiklang – C-Dur\nProbiere auf der Klaviatur mit der **rechten Hand**:\n\n- Grundstellung: **C–E–G** (Finger 1–3–5)\n- 1. Umkehrung: **E–G–C** (z.B. 1–2–5 oder 1–3–5)\n- 2. Umkehrung: **G–C–E** (1–3–5)\n\nTipps:\n- Halte die Hand in einer **bequemen Fünf-Finger-Form**.\n- Um zur nächsten Umkehrung zu kommen, **verschiebst du den obersten Ton eine Oktave nach oben**:\n  - C–E–G → (C nach oben) → E–G–C → (E nach oben) → G–C–E.",
+          "ja": "# メジャー・トライアドの例 – Cメジャー\nキーボードで、**右手**を使って次を試しましょう。\n\n- 原位：**C–E–G**（指 1–3–5）\n- 第1転回形：**E–G–C**（1–2–5 または 1–3–5）\n- 第2転回形：**G–C–E**（1–3–5）\n\nポイント：\n- 手は**無理のない5本指の形**をキープします。\n- 次の転回形に行くときは、**一番上の音を1オクターブ上に移動**させるイメージです。\n  - C–E–G →（Cを上へ）→ E–G–C →（Eを上へ）→ G–C–E。",
+          "pt-BR": "# Exemplo de tríade maior – Dó maior\nNo teclado, experimente com a **mão direita**:\n\n- Posição fundamental: **C–E–G** (dedos 1–3–5)\n- 1ª inversão: **E–G–C** (1–2–5 ou 1–3–5)\n- 2ª inversão: **G–C–E** (1–3–5)\n\nDicas:\n- Mantenha a mão em um formato **confortável de cinco dedos**.\n- Para ir de uma forma para outra, pense em **subir a nota de cima uma oitava**:\n  - C–E–G → (C sobe) → E–G–C → (E sobe) → G–C–E.",
+          "es": "# Ejemplo de tríada mayor – Do mayor\nEn el teclado, prueba esto con la **mano derecha**:\n\n- Posición fundamental: **C–E–G** (dedos 1–3–5)\n- 1ª inversión: **E–G–C** (1–2–5 o 1–3–5)\n- 2ª inversión: **G–C–E** (1–3–5)\n\nConsejos:\n- Mantén la mano en una **forma cómoda de cinco dedos**.\n- Para pasar a la siguiente inversión, **súbele una octava a la nota más aguda**:\n  - C–E–G → (C sube) → E–G–C → (E sube) → G–C–E."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minor triad example – A minor\nNow do the same with **A minor**:\n\n**A–C–E**\n\n- Root position: A–C–E\n- 1st inversion: C–E–A\n- 2nd inversion: E–A–C\n\nUse similar fingerings to C major. Notice how the **shape is almost the same**, but the sound is more **minor and mellow**.",
+          "zh-Hans": "# 小三和弦示例 – A小三和弦\n现在用同样的方法看 **A小三和弦**：\n\n**A–C–E**\n\n- 原位：A–C–E\n- 第一转位：C–E–A\n- 第二转位：E–A–C\n\n手型可以参考你在 C 大三和弦里用的指法。形状几乎一样，但听起来会更**小调、更柔和**。",
+          "de": "# Beispiel Moll-Dreiklang – a-Moll\nJetzt dasselbe mit **a-Moll**:\n\n**A–C–E**\n\n- Grundstellung: A–C–E\n- 1. Umkehrung: C–E–A\n- 2. Umkehrung: E–A–C\n\nDie Fingersätze können fast wie bei C-Dur sein. Die Form fühlt sich ähnlich an, aber der Klang ist deutlich **molliger und weicher**.",
+          "ja": "# マイナー・トライアドの例 – Aマイナー\n次に、同じことを **Aマイナー** でやってみます。\n\n**A–C–E**\n\n- 原位：A–C–E\n- 第1転回形：C–E–A\n- 第2転回形：E–A–C\n\nフィンガリングは、Cメジャーのときとほぼ同じ感覚でOKです。形は似ていても、響きはぐっと**マイナーで落ち着いた**印象になります。",
+          "pt-BR": "# Exemplo de tríade menor – Lá menor\nAgora faça o mesmo com **Lá menor**:\n\n**A–C–E**\n\n- Posição fundamental: A–C–E\n- 1ª inversão: C–E–A\n- 2ª inversão: E–A–C\n\nOs dedilhados podem ser praticamente os mesmos de Dó maior. A forma na mão é parecida, mas o som é mais **menor, mais suave**.",
+          "es": "# Ejemplo de tríada menor – La menor\nAhora haz lo mismo con **La menor**:\n\n**A–C–E**\n\n- Posición fundamental: A–C–E\n- 1ª inversión: C–E–A\n- 2ª inversión: E–A–C\n\nPuedes usar digitaciones muy parecidas a las de Do mayor. La forma en la mano casi no cambia, pero el sonido es claramente más **menor y suave**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# How inversions help\nInversions let you:\n- Keep chords **closer together** (less jumping)\n- Make the **bass line smoother**\n- Change the **color** of the same chord\n\nFor example, compare:\n- C – G – Am – F (all root position)\n- C – G/B – Am – F/C (with inversions)\n\nThe second version usually feels more **connected**.",
+          "zh-Hans": "# 转位的好处\n和弦转位可以帮助你：\n- 让和弦彼此**离得更近**，手不用大幅跳动\n- 让**低音线更平滑**\n- 改变同一个和弦的**颜色和感觉**\n\n比如对比：\n- C – G – Am – F（全是原位）\n- C – G/B – Am – F/C（加入转位）\n\n第二行通常听起来会**更连贯、更顺滑**。",
+          "de": "# Warum Umkehrungen nützlich sind\nMit Umkehrungen kannst du:\n- Akkorde **näher beieinander** halten (weniger Sprünge)\n- Die **Basslinie glatter** gestalten\n- Die **Farbe** eines Akkords verändern, ohne den Akkord selbst zu wechseln\n\nZum Beispiel:\n- C – G – Am – F (alles Grundstellungen)\n- C – G/H – Am – F/C (mit Umkehrungen)\n\nDie zweite Variante wirkt meist deutlich **verbundener**.",
+          "ja": "# 転回形が役に立つ理由\n転回形を使うと：\n- コード同士を**近い位置**に保てて、手のジャンプが減る\n- **ベースラインをなめらか**にできる\n- 同じコードでも**響きの色合い**を変えられる\n\nたとえば次の2つを比べてみましょう。\n- C – G – Am – F（全部原位）\n- C – G/B – Am – F/C（転回形あり）\n\n後者のほうが、流れがより**自然でつながって**聞こえるはずです。",
+          "pt-BR": "# Por que usar inversões\nAs inversões ajudam você a:\n- Manter os acordes **mais próximos** (menos pulos na mão)\n- Deixar a **linha de baixo mais suave**\n- Mudar a **cor** do mesmo acorde sem trocar de acorde\n\nCompare:\n- C – G – Am – F (tudo em posição fundamental)\n- C – G/B – Am – F/C (usando inversões)\n\nA segunda versão costuma soar bem mais **ligada e fluida**.",
+          "es": "# Por qué usar inversiones\nLas inversiones te permiten:\n- Mantener los acordes **más cerca** (menos saltos en la mano)\n- Hacer la **línea de bajo más suave**\n- Cambiar el **color** de un mismo acorde\n\nPor ejemplo, compara:\n- C – G – Am – F (todas en posición fundamental)\n- C – G/B – Am – F/C (con inversiones)\n\nLa segunda versión suele sentirse mucho más **conectada**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. With the right hand, play **C – C/E – C/G – C/E – C** slowly.\n2. Do the same with **A minor**: **Am – Am/C – Am/E – Am/C – Am**.\n3. Then try this pattern, still hands separate:\n   - C – G/B – Am – F/C – C\n4. Keep a **steady tempo** and focus on moving the **smallest distance** between shapes.\n\nWhen these moves feel easy, start using inversions in your own progressions and songs.",
+          "zh-Hans": "## 快速练习\n1. 先用右手慢慢弹：**C – C/E – C/G – C/E – C**。\n2. 用同样的节奏练习 **A小和弦**：**Am – Am/C – Am/E – Am/C – Am**。\n3. 然后（仍然单双手分开）试试这个小走向：\n   - C – G/B – Am – F/C – C\n4. 保持**稳定的节奏**，注意每次换和弦时手只做**最小的位移**。\n\n当这些转换变得轻松自然时，就可以把转位用到你自己的和弦进行和创作里了。",
+          "de": "## Kurze Übung\n1. Spiele mit der rechten Hand langsam: **C – C/E – C/G – C/E – C**.\n2. Mach dasselbe mit **a-Moll**: **Am – Am/C – Am/E – Am/C – Am**.\n3. Probiere dann folgende Folge (weiterhin Hände getrennt):\n   - C – G/H – Am – F/C – C\n4. Halte ein **gleichmäßiges Tempo** und achte darauf, immer nur die **kleinste nötige Bewegung** zwischen den Formen zu machen.\n\nWenn sich diese Wechsel leicht anfühlen, kannst du Umkehrungen gezielt in deinen eigenen Akkordfolgen und Songs einsetzen.",
+          "ja": "## かんたん練習\n1. 右手でゆっくり、**C – C/E – C/G – C/E – C** を弾きます。\n2. 同じリズムで **Aマイナー** も：**Am – Am/C – Am/E – Am/C – Am**。\n3. そのあと（まだ左右別々でOK）、次の進行を試しましょう。\n   - C – G/B – Am – F/C – C\n4. **一定のテンポ**を保ちながら、コード間を**最小限の動き**でつなぐことを意識します。\n\nこれらの動きがスムーズになってきたら、自分のコード進行や曲作りの中でも、どんどん転回形を使ってみてください。",
+          "pt-BR": "## Prática rápida\n1. Com a mão direita, toque devagar: **C – C/E – C/G – C/E – C**.\n2. Repita a ideia com **Lá menor**: **Am – Am/C – Am/E – Am/C – Am**.\n3. Depois (ainda com as mãos separadas) experimente esta sequência:\n   - C – G/B – Am – F/C – C\n4. Mantenha um **tempo constante** e tente sempre mover a mão a **menor distância possível** entre uma forma e outra.\n\nQuando esses movimentos estiverem fáceis, comece a usar inversões nas suas próprias progressões e músicas.",
+          "es": "## Práctica rápida\n1. Con la mano derecha, toca despacio: **C – C/E – C/G – C/E – C**.\n2. Repite la idea con **La menor**: **Am – Am/C – Am/E – Am/C – Am**.\n3. Luego (todavía con manos separadas) prueba esta secuencia:\n   - C – G/B – Am – F/C – C\n4. Mantén un **tempo constante** y procura mover la mano la **menor distancia posible** entre cada forma.\n\nCuando estos movimientos se sientan fáciles, empieza a usar inversiones en tus propias progresiones y canciones."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

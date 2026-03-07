@@ -1,0 +1,73 @@
+{
+  "id": "how-to-read-scale-degrees-and-intervals",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# How to read scale degrees and intervals\nWhen you see numbers like **1, 3, 5** in a scale diagram, they’re not finger numbers. They’re **scale degrees** – the position of a note inside the scale.\n\nIf the scale is C major (C D E F G A B):\n- **1** = C (the root)\n- **2** = D\n- **3** = E\n- **4** = F\n- **5** = G\n- **6** = A\n- **7** = B\n\nChange the key and the *note names* change, but **1–7 always keep the same roles** inside the scale.",
+          "zh-Hans": "# 如何阅读音级和音程\n在音阶图里看到 **1、3、5** 这样的数字时，它们不是左手指法编号，而是**音级（scale degrees）**——音在音阶里的位置。\n\n如果音阶是C大调（C D E F G A B）：\n- **1** = C（主音 / 根音）\n- **2** = D\n- **3** = E\n- **4** = F\n- **5** = G\n- **6** = A\n- **7** = B\n\n换一个调，具体的音名会变，但 **1–7 在音阶里的“角色”不变**。",
+          "de": "# Wie man Stufen und Intervalle liest\nWenn du in einem Skalen-Diagramm Zahlen wie **1, 3, 5** siehst, sind das keine Fingernummern. Es sind **Stufen** – die Position eines Tons innerhalb der Tonleiter.\n\nWenn die Tonleiter C-Dur ist (C D E F G A B):\n- **1** = C (Grundton)\n- **2** = D\n- **3** = E\n- **4** = F\n- **5** = G\n- **6** = A\n- **7** = B\n\nÄndert sich die Tonart, ändern sich die **Notennamen**, aber die Rollen von **1–7** bleiben gleich.",
+          "ja": "# スケール・ディグリーとインターバルの読み方\nスケール図に **1, 3, 5** などの数字が出てきたら、それは左手の指番号ではなく、**スケール・ディグリー（音度）**＝音階の中での位置を表しています。\n\nCメジャー・スケール（C D E F G A B）なら：\n- **1** = C（トニック / ルート）\n- **2** = D\n- **3** = E\n- **4** = F\n- **5** = G\n- **6** = A\n- **7** = B\n\nキーが変わると音名は変わりますが、**1〜7 の“役割”はどのキーでも同じ**です。",
+          "pt-BR": "# Como ler graus da escala e intervalos\nQuando você vê números como **1, 3, 5** em um diagrama de escala, eles não são os dedos da mão. São **graus da escala** – a posição da nota dentro da escala.\n\nSe a escala for Dó maior (C D E F G A B):\n- **1** = C (tônica / raiz)\n- **2** = D\n- **3** = E\n- **4** = F\n- **5** = G\n- **6** = A\n- **7** = B\n\nTrocou a tonalidade? Os **nomes das notas** mudam, mas os papéis de **1–7** dentro da escala continuam os mesmos.",
+          "es": "# Cómo leer grados de la escala e intervalos\nCuando ves números como **1, 3, 5** en un diagrama de escala, no son números de dedos. Son **grados de la escala**: la posición de la nota dentro de la escala.\n\nSi la escala es Do mayor (C D E F G A B):\n- **1** = C (tónica / raíz)\n- **2** = D\n- **3** = E\n- **4** = F\n- **5** = G\n- **6** = A\n- **7** = B\n\nSi cambias de tonalidad, los **nombres de las notas** cambian, pero los roles de **1–7** dentro de la escala se mantienen."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Degrees vs intervals\n- A **scale degree** answers: *“Which step of the scale is this?”* (1, 2, 3…)\n- An **interval** answers: *“How far apart are these two notes?”*\n\nIn C major:\n- C (1) to D (2) = a **2nd** (second)\n- C (1) to E (3) = a **3rd**\n- C (1) to G (5) = a **5th**\n- C (1) to the next C (1 up) = an **octave (8ve)**\n\nSo degrees label a **single note** in the scale. Intervals describe the **distance between notes**.",
+          "zh-Hans": "# 音级 vs. 音程\n- **音级**回答的是：*“这是音阶里的第几级？”*（1、2、3…）\n- **音程**回答的是：*“这两个音之间相隔多远？”*\n\n在C大调中：\n- C（1）到 D（2）= **二度音程**\n- C（1）到 E（3）= **三度音程**\n- C（1）到 G（5）= **五度音程**\n- C（1）到上方的 C（1）= **八度音程**\n\n简单说：音级是给**单个音**贴标签；音程是描述**两个音之间的距离**。",
+          "de": "# Stufen vs. Intervalle\n- Eine **Stufe** beantwortet: *„Die wievielte Stufe der Tonleiter ist das?“* (1, 2, 3 …)\n- Ein **Intervall** beantwortet: *„Wie weit sind zwei Töne voneinander entfernt?“*\n\nIn C-Dur:\n- C (1) nach D (2) = eine **Sekunde**\n- C (1) nach E (3) = eine **Terz**\n- C (1) nach G (5) = eine **Quinte**\n- C (1) zum nächsten C (1 oben) = eine **Oktave**\n\nStufen beschriften also einen **einzelnen Ton** in der Skala, Intervalle beschreiben den **Abstand zwischen zwei Tönen**.",
+          "ja": "# ディグリーとインターバルの違い\n- **スケール・ディグリー**は「この音はスケールの**何番目**か？」という情報（1, 2, 3…）。\n- **インターバル（音程）**は「この2つの音は**どれくらい離れているか？**」という情報です。\n\nCメジャーの場合：\n- C（1）→ D（2）= **2度**\n- C（1）→ E（3）= **3度**\n- C（1）→ G（5）= **5度**\n- C（1）→ 上のC（1）= **オクターブ（8度）**\n\nまとめると：ディグリーは**1つの音の位置**、インターバルは**2つの音の距離**を表します。",
+          "pt-BR": "# Graus x intervalos\n- Um **grau da escala** responde: *“Que passo da escala é esse?”* (1, 2, 3…)\n- Um **intervalo** responde: *“Qual a distância entre esses dois sons?”*\n\nEm Dó maior:\n- C (1) até D (2) = **2ª** (segunda)\n- C (1) até E (3) = **3ª**\n- C (1) até G (5) = **5ª**\n- C (1) até o próximo C (1) = **8ª / oitava**\n\nOu seja: grau é o rótulo de **uma nota na escala**; intervalo é a **distância entre duas notas**.",
+          "es": "# Grados vs intervalos\n- Un **grado de la escala** responde: *“¿Qué paso de la escala es este?”* (1, 2, 3…)\n- Un **intervalo** responde: *“¿Qué distancia hay entre estas dos notas?”*\n\nEn Do mayor:\n- C (1) a D (2) = **2ª** (segunda)\n- C (1) a E (3) = **3ª**\n- C (1) a G (5) = **5ª**\n- C (1) al siguiente C (1) = **8ª / octava**\n\nLos grados etiquetan **una nota dentro de la escala**; los intervalos describen la **distancia entre dos notas**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Symbols you’ll see in diagrams\nIn scale and arpeggio diagrams you’ll often see:\n\n- **1, 3, 5, 7…** = scale degrees\n- **b3, b7, #4** = *altered* degrees (flat 3rd, flat 7th, sharp 4th)\n- **R** = root (same as 1)\n\nExamples:\n- Minor pentatonic uses **1, b3, 4, 5, b7**\n- A power chord is just **1 + 5** (root and fifth)\n\nOnce you can read these numbers, you can reuse the **same shapes** in any key.",
+          "zh-Hans": "# 图里常见的符号\n在音阶或分解和弦（琶音）的图里，你经常会看到：\n\n- **1、3、5、7…** = 音级\n- **b3、b7、#4** = 变化音级（降3、降7、升4）\n- **R** = 根音（等同于1）\n\n例子：\n- 小调五声音阶 = **1, b3, 4, 5, b7**\n- Power chord（五度和弦）只用 **1 + 5**（根音和五度）\n\n一旦习惯这些数字，你就可以在任何调上复用**同一套按法**。",
+          "de": "# Symbole in Skalen-Diagrammen\nIn Skalen- und Arpeggio-Diagrammen tauchen oft diese Zeichen auf:\n\n- **1, 3, 5, 7 …** = Stufen\n- **b3, b7, #4** = veränderte Stufen (kleine Terz, kleine Septime, übermäßige Quarte)\n- **R** = Root / Grundton (gleich wie 1)\n\nBeispiele:\n- Die Moll-Pentatonik verwendet **1, b3, 4, 5, b7**\n- Ein Powerchord besteht nur aus **1 + 5** (Grundton und Quinte)\n\nWenn du diese Zahlen lesen kannst, kannst du **dieselben Griffbilder** in jeder Tonart verwenden.",
+          "ja": "# ダイアグラムでよく見る記号\nスケールやアルペジオの図では、次のような表記がよく出てきます。\n\n- **1, 3, 5, 7…** = スケール・ディグリー\n- **b3, b7, #4** = 変化したディグリー（フラット3度、フラット7度、シャープ4度など）\n- **R** = ルート（1と同じ意味）\n\n例：\n- マイナー・ペンタトニック = **1, b3, 4, 5, b7**\n- パワーコードは **1 + 5**（ルートと5度）だけ\n\nこの数字の読み方に慣れると、同じポジションや形を**どのキーでも使い回せる**ようになります。",
+          "pt-BR": "# Símbolos que aparecem nos diagramas\nEm diagramas de escalas e arpejos você vai ver com frequência:\n\n- **1, 3, 5, 7…** = graus da escala\n- **b3, b7, #4** = graus alterados (terça menor, sétima menor, quarta aumentada)\n- **R** = root / raiz (igual ao grau 1)\n\nExemplos:\n- Pentatônica menor usa **1, b3, 4, 5, b7**\n- Um power chord é só **1 + 5** (raiz e quinta)\n\nQuando você entende esses números, consegue reaproveitar os **mesmos desenhos** em qualquer tonalidade.",
+          "es": "# Símbolos que verás en los diagramas\nEn diagramas de escalas y arpegios aparecen mucho estos símbolos:\n\n- **1, 3, 5, 7…** = grados de la escala\n- **b3, b7, #4** = grados alterados (3ª menor, 7ª menor, 4ª aumentada)\n- **R** = root / raíz (igual al grado 1)\n\nEjemplos:\n- La pentatónica menor usa **1, b3, 4, 5, b7**\n- Un power chord es simplemente **1 + 5** (raíz y quinta)\n\nUna vez que lees estos números, puedes reutilizar los **mismos dibujos** en cualquier tonalidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nTry this away from the guitar or with it in your hands:\n\n1. Pick a key, for example **G major**.\n2. Say the notes: G A B C D E F#.\n3. Now say the **degrees out loud** as you go: “G = 1, A = 2, B = 3…”\n4. On the guitar, play only **1, 3, 5** of that scale in different places and say: “1… 3… 5…”.\n\nYou’re training your brain to see both the **note name** and the **number** at the same time.",
+          "zh-Hans": "# 小练习\n可以拿着吉他练，也可以离开吉他做心算练习：\n\n1. 选一个调，例如 **G大调**。\n2. 先把音名说出来：G A B C D E F#。\n3. 再一边说音名，一边报**音级编号**： “G = 1，A = 2，B = 3 … ”\n4. 拿起吉他，在不同位置只弹这个音阶的 **1、3、5**，一边弹一边说：“1… 3… 5…”。\n\n这样你就在同时训练：既看到**音名**，又看到**数字（音级）**。",
+          "de": "# Kurze Übung\nDas kannst du mit oder ohne Gitarre machen:\n\n1. Such dir eine Tonart aus, z.B. **G-Dur**.\n2. Sprich die Töne: G A B C D E F#.\n3. Geh sie noch einmal durch und sag die **Stufen dazu**: „G = 1, A = 2, B = 3 …“\n4. Nimm die Gitarre und spiel an verschiedenen Stellen nur die **1, 3, 5** dieser Skala und sag dabei: „1… 3… 5…“\n\nSo trainierst du dein Gehirn, gleichzeitig den **Notennamen** und die **Zahl (Stufe)** zu sehen.",
+          "ja": "# さっとできる練習\nギターを持っていても、持っていなくてもできる練習です。\n\n1. まずキーを1つ決めます（例：**Gメジャー**）。\n2. 音名を順番に言います：G A B C D E F#。\n3. もう一度たどりながら、今度は**ディグリーも声に出す**：\n   - 「G = 1、A = 2、B = 3 …」\n4. ギターを持って、スケールの **1・3・5** だけをいろいろな場所で弾き、「1… 3… 5…」と言いながら練習しましょう。\n\nこれで、頭の中で**音名**と**数字（ディグリー）**を同時にイメージする力が育っていきます。",
+          "pt-BR": "# Prática rápida\nDá para fazer essa prática com a guitarra na mão ou só pensando:\n\n1. Escolha uma tonalidade, por exemplo **G maior**.\n2. Fale as notas: G A B C D E F#.\n3. Agora repita dizendo também os **graus**: “G = 1, A = 2, B = 3 …”.\n4. Na guitarra, toque só os graus **1, 3 e 5** dessa escala em lugares diferentes e diga em voz alta: “1… 3… 5…”.\n\nAssim você treina o cérebro a enxergar ao mesmo tempo o **nome da nota** e o **número do grau**.",
+          "es": "# Práctica rápida\nPuedes hacer esto con la guitarra o solo pensando:\n\n1. Elige una tonalidad, por ejemplo **Sol mayor (G)**.\n2. Di las notas: G A B C D E F#.\n3. Repítelas diciendo también los **grados**: “G = 1, A = 2, B = 3 …”.\n4. En la guitarra, toca solo los grados **1, 3 y 5** de esa escala en distintas posiciones y di en voz alta: “1… 3… 5…”.\n\nAsí entrenas al cerebro para ver al mismo tiempo el **nombre de la nota** y el **número del grado**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once degrees and intervals feel natural, scale diagrams stop being dots on strings and start telling you **exactly which sounds you’re aiming for**.",
+          "zh-Hans": "当你习惯了音级和音程，音阶图就不再只是“弦上的一堆点”，而是在告诉你：**你现在要的就是这些具体的声音**。",
+          "de": "Wenn sich Stufen und Intervalle natürlich anfühlen, sind Skalen-Diagramme keine zufälligen Punkte mehr, sondern zeigen dir **ganz genau, welche Klänge du triffst**.",
+          "ja": "ディグリーとインターバルに慣れてくると、スケール図はただの“点の集まり”ではなく、「今どんな**響きを狙っているのか**」を教えてくれる地図になります。",
+          "pt-BR": "Quando graus e intervalos ficarem naturais, o diagrama de escala deixa de ser um monte de bolinhas e passa a dizer **exatamente que tipo de som você está buscando**.",
+          "es": "Cuando los grados e intervalos se sienten naturales, el diagrama de escala deja de ser puntos sueltos y empieza a decirte **exactamente qué sonido estás buscando**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

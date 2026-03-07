@@ -1,0 +1,86 @@
+{
+  "id": "adding-the-octave-to-pentatonic-lines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Adding the octave to pentatonic lines\nIn this lesson you’ll take your **root + fifth grooves** and make them more musical by **adding the octave** on top.\n\nWe’ll stay in **A minor pentatonic** so you can build rock / pop lines that are simple, strong, and still easy to play.",
+          "zh-Hans": "# 在五声音阶乐句中加入八度音\n在本课中，你会在原本的 **主音 + 五度律动** 上，再加入**高八度音**，让乐句更有音乐性。\n\n我们继续用 **A 小调五声音阶**，这样可以做出简单又有力、但依然好弹的摇滚/流行贝斯线。",
+          "de": "# Die Oktave zu Pentatonik-Linien hinzufügen\nIn dieser Lektion erweiterst du deine **Grundton+Quinte-Grooves**, indem du oben die **Oktave** dazunimmst.\n\nWir bleiben in **A-Moll-Pentatonik**, damit du Rock-/Pop-Linien bauen kannst, die simpel, druckvoll und trotzdem leicht spielbar sind.",
+          "ja": "# ペンタトニックのラインにオクターブを足す\nこのレッスンでは、今までの **ルート＋5度のグルーヴ** に、上の**オクターブ**を足して、より音楽的なラインにしていきます。\n\nスケールは引き続き **Aマイナー・ペンタトニック** を使って、シンプルだけどしっかりしたロック／ポップ系のベースラインを作ります。",
+          "pt-BR": "# Adicionando a oitava às linhas pentatônicas\nNesta lição você vai pegar seus grooves de **tônica + quinta** e deixá-los mais musicais adicionando a **oitava** por cima.\n\nVamos continuar em **Lá menor pentatônica**, pra criar linhas de rock/pop simples, fortes e fáceis de tocar.",
+          "es": "# Añadiendo la octava a líneas pentatónicas\nEn esta lección vas a tomar tus grooves de **tónica + quinta** y hacerlos más musicales añadiendo la **octava** arriba.\n\nNos quedamos en **La menor pentatónica**, para crear líneas de rock/pop simples, sólidas y fáciles de tocar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A minor pentatonic and the octave\nA minor pentatonic uses:\n\n**A – C – D – E – G** (1, b3, 4, 5, b7)\n\nWe’ll focus on these three “anchor” notes:\n- **Root A** – E string, 5th fret\n- **Fifth E** – A string, 7th fret\n- **Octave A** – D string, 7th fret\n\nThat gives you a tight **R–5–8 shape** all under your fingers.",
+          "zh-Hans": "# A 小调五声音阶和八度音\nA 小调五声音阶的音是：\n\n**A – C – D – E – G**（1，降3，4，5，降7）\n\n本课重点用到这三个“锚点”音：\n- **主音 A** —— E 弦第5品\n- **五度 E** —— A 弦第7品\n- **高八度 A** —— D 弦第7品\n\n这样你手下就有一个很紧凑的 **1–5–8 形状** 可以玩。",
+          "de": "# A-Moll-Pentatonik und die Oktave\nA-Moll-Pentatonik besteht aus:\n\n**A – C – D – E – G** (1, b3, 4, 5, b7)\n\nWir konzentrieren uns auf diese drei „Anker“-Töne:\n- **Grundton A** – E-Saite, 5. Bund\n- **Quinte E** – A-Saite, 7. Bund\n- **Oktave A** – D-Saite, 7. Bund\n\nDamit hast du eine kompakte **1–5–8-Form** direkt unter den Fingern.",
+          "ja": "# Aマイナー・ペンタトニックとオクターブ\nAマイナー・ペンタトニックの音は：\n\n**A – C – D – E – G**（1，b3，4，5，b7）\n\nここでは、この3つの“アンカー”音に絞ります：\n- **ルートA** – E弦5フレット\n- **5度E** – A弦7フレット\n- **オクターブA** – D弦7フレット\n\nこの3つで、手の中にコンパクトな **1–5–8の形** ができます。",
+          "pt-BR": "# Lá menor pentatônica e a oitava\nA menor pentatônica usa as notas:\n\n**A – C – D – E – G** (1, b3, 4, 5, b7)\n\nAqui vamos focar nesses três “pontos de apoio”:\n- **Tônica A** – corda E, 5ª casa\n- **Quinta E** – corda A, 7ª casa\n- **Oitava A** – corda D, 7ª casa\n\nIsso forma um desenho bem compacto de **1–5–8** embaixo dos dedos.",
+          "es": "# La menor pentatónica y la octava\nLa menor pentatónica usa:\n\n**A – C – D – E – G** (1, b3, 4, 5, b7)\n\nNos vamos a centrar en estas tres notas “ancla”:\n- **Tónica A** – cuerda E, traste 5\n- **Quinta E** – cuerda A, traste 7\n- **Octava A** – cuerda D, traste 7\n\nCon eso tienes una forma compacta de **1–5–8** justo bajo tus dedos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Shape and hand position\nLeft hand:\n- Keep your **index** around the 5th fret\n- Use **ring (3)** or **pinky (4)** on the 7th fret\n- Stay relaxed as you hop between E, A and D strings\n\nRight hand:\n- Alternate **index–middle** (i–m–i–m…)\n- Let unused strings be **lightly muted** by both hands so the octave stays clean and clear",
+          "zh-Hans": "# 手型和位置\n左手：\n- **食指**守在第5品附近\n- 第7品用 **无名指（3）** 或 **小指（4）**\n- 在 E、A、D 三根弦之间走动时保持放松\n\n右手：\n- **食指–中指**交替拨弦（i–m–i–m…）\n- 左右手都要稍微帮忙**消音**没用到的弦，让高八度听起来干净",
+          "de": "# Form und Handposition\nLinke Hand:\n- Lass den **Zeigefinger** in der Nähe des 5. Bundes „wohnen“\n- Nutze im 7. Bund den **Ringfinger (3)** oder **kleinen Finger (4)**\n- Bleib locker, wenn du zwischen E-, A- und D-Saite wechselst\n\nRechte Hand:\n- Wechselschlag **Zeige–Mittel** (i–m–i–m…)\n- Dämpfe unbenutzte Saiten leicht mit beiden Händen, damit die Oktave **sauber** klingt",
+          "ja": "# 形と手のポジション\n左手：\n- **人差し指**は5フレット付近を担当\n- 7フレットは **薬指(3)** か **小指(4)** を使う\n- E弦・A弦・D弦を行き来するときも、力を抜いて動かす\n\n右手：\n- **人差し指→中指**のオルタネイト（i–m–i–m…）\n- 使っていない弦は両手で軽くミュートして、オクターブの音が**クリアに**聞こえるようにします",
+          "pt-BR": "# Desenho e posição da mão\nMão esquerda:\n- Deixe o **indicador** ali pela 5ª casa\n- Use **anelar (3)** ou **mindinho (4)** na 7ª casa\n- Fique relaxado ao pular entre as cordas E, A e D\n\nMão direita:\n- Alterne **indicador–médio** (i–m–i–m…)\n- Abafe levemente as cordas que não estiver usando com as duas mãos, pra oitava soar **limpa**",
+          "es": "# Forma y posición de la mano\nMano izquierda:\n- Mantén el **índice** cerca del traste 5\n- Usa el **anular (3)** o el **meñique (4)** en el traste 7\n- Permanece relajado al saltar entre las cuerdas E, A y D\n\nMano derecha:\n- Alterna **índice–medio** (i–m–i–m…)\n- Mutea suavemente las cuerdas que no usas con ambas manos para que la octava suene **clara y limpia**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove idea 1 – root, fifth, octave\nCount **“1 & 2 & 3 & 4 &”** and play:\n\n- 1 & – **A A** (root, E string 5th fret)\n- 2 & – **E E** (fifth, A string 7th fret)\n- 3 & – **A A** (octave, D string 7th fret)\n- 4 & – **E E** (back to the fifth)\n\nSo the bar feels like:\n> A A – E E – A(8) A(8) – E E\n\nKeep it **even and punchy**. Think of it as saying: “root – fifth – octave – fifth”.",
+          "zh-Hans": "# Groove 想法 1 —— 主音、五度、八度\n嘴里数 **“1 & 2 & 3 & 4 &”**，这样弹：\n\n- 1 & —— **A A**（主音，E 弦第5品）\n- 2 & —— **E E**（五度，A 弦第7品）\n- 3 & —— **A A**（高八度，D 弦第7品）\n- 4 & —— **E E**（回到五度）\n\n一小节的感觉就像：\n> A A – E E – A(8) A(8) – E E\n\n保持**均匀、有冲击力**，好像在反复说：“主音 – 五度 – 八度 – 五度”。",
+          "de": "# Groove-Idee 1 – Grundton, Quinte, Oktave\nZähle **„1 & 2 & 3 & 4 &“** und spiele:\n\n- 1 & – **A A** (Grundton, E-Saite 5. Bund)\n- 2 & – **E E** (Quinte, A-Saite 7. Bund)\n- 3 & – **A A** (Oktave, D-Saite 7. Bund)\n- 4 & – **E E** (zurück zur Quinte)\n\nDer Takt fühlt sich so an:\n> A A – E E – A(8) A(8) – E E\n\nSpiel das **gleichmäßig und knackig** – wie ein Mantra: „Grundton – Quinte – Oktave – Quinte“. ",
+          "ja": "# グルーヴ・アイデア1 – ルート、5度、オクターブ\n**「1 & 2 & 3 & 4 &」** とカウントしながら：\n\n- 1 & – **A A**（ルート、E弦5フレット）\n- 2 & – **E E**（5度、A弦7フレット）\n- 3 & – **A A**（オクターブ、D弦7フレット）\n- 4 & – **E E**（もう一度5度）\n\n1小節の流れはこんな感じ：\n> A A – E E – A(8) A(8) – E E\n\n**そろえて、タイトに**弾きましょう。「ルート – 5度 – オクターブ – 5度」としゃべっているイメージです。",
+          "pt-BR": "# Ideia de groove 1 – tônica, quinta, oitava\nConte **“1 e 2 e 3 e 4 e”** e toque:\n\n- 1 e – **A A** (tônica, corda E 5ª casa)\n- 2 e – **E E** (quinta, corda A 7ª casa)\n- 3 e – **A A** (oitava, corda D 7ª casa)\n- 4 e – **E E** (volta pra quinta)\n\nO compasso fica com essa cara:\n> A A – E E – A(8) A(8) – E E\n\nMantenha tudo **reto e estalado**. Pense como uma frase: “tônica – quinta – oitava – quinta”.",
+          "es": "# Idea de groove 1 – tónica, quinta, octava\nCuenta **“1 y 2 y 3 y 4 y”** y toca:\n\n- 1 y – **A A** (tónica, cuerda E traste 5)\n- 2 y – **E E** (quinta, cuerda A traste 7)\n- 3 y – **A A** (octava, cuerda D traste 7)\n- 4 y – **E E** (de vuelta a la quinta)\n\nEl compás se siente así:\n> A A – E E – A(8) A(8) – E E\n\nTócalo **parejo y con pegada**. Piensa que dices: “tónica – quinta – octava – quinta”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove idea 2 – adding a pentatonic passing note\nNow drop in one extra **pentatonic note** between the root and the octave.\n\nTry this one-bar riff:\n- Beat 1 – **A** (root, E5)\n- Beat 2 – **C** (b3, E8)\n- Beat 3 – **D** (4, A5)\n- Beat 4 – **A** (octave, D7)\n\nPlayed as **steady eighth notes**, it feels like a small climb up the pentatonic to the octave.\n\nYou can also swap D for **E (A7)** on beat 3 when you want a brighter push.",
+          "zh-Hans": "# Groove 想法 2 —— 加一个五声音阶“经过音”\n现在在主音和八度之间，塞进一个**五声音阶里的额外音**。\n\n试试这一小节的乐句：\n- 第1拍 – **A**（主音，E 弦第5品）\n- 第2拍 – **C**（降3，E 弦第8品）\n- 第3拍 – **D**（4，A 弦第5品）\n- 第4拍 – **A**（高八度，D 弦第7品）\n\n用**连续八分音符**来弹，就像沿着五声音阶往上走，最后落在八度。\n\n想要更明亮一点时，你可以把第3拍的 D 换成 **E（A 弦第7品）**。",
+          "de": "# Groove-Idee 2 – Pentatonik-Ton als Durchgang\nJetzt fügen wir zwischen Grundton und Oktave einen zusätzlichen **Pentatonik-Ton** ein.\n\nProbier dieses Ein-Takt-Riff:\n- Schlag 1 – **A** (Grundton, E5)\n- Schlag 2 – **C** (b3, E8)\n- Schlag 3 – **D** (4, A5)\n- Schlag 4 – **A** (Oktave, D7)\n\nAls **gleichmäßige Achtel** gespielt, wirkt es wie ein kleiner Aufstieg durch die Pentatonik bis zur Oktave.\n\nFür einen helleren Schub kannst du auf Schlag 3 das D gegen **E (A7)** austauschen.",
+          "ja": "# グルーヴ・アイデア2 – ペンタトニックの経過音を足す\n次は、ルートとオクターブの間に、**ペンタトニック内の音**を1つはさみます。\n\nこんな1小節のリフを試してみましょう：\n- 1拍目 – **A**（ルート、E弦5フレット）\n- 2拍目 – **C**（♭3、E弦8フレット）\n- 3拍目 – **D**（4、A弦5フレット）\n- 4拍目 – **A**（オクターブ、D弦7フレット）\n\nこれを**ずっと8分音符**で弾くと、ペンタトニックをスッと登ってオクターブに着地する感じになります。\n\n少し明るく押し出したいときは、3拍目のDを **E（A弦7フレット）** に変えてみてもOKです。",
+          "pt-BR": "# Ideia de groove 2 – colocando um note de passagem pentatônica\nAgora vamos colocar uma **nota da pentatônica** entre a tônica e a oitava.\n\nExperimente este riff de 1 compasso:\n- Tempo 1 – **A** (tônica, E5)\n- Tempo 2 – **C** (b3, E8)\n- Tempo 3 – **D** (4, A5)\n- Tempo 4 – **A** (oitava, D7)\n\nTocado em **colcheias retas**, parece uma pequena subida pela pentatônica até a oitava.\n\nSe quiser um empurrão mais brilhante, troque o D do tempo 3 por **E (A7)**.",
+          "es": "# Idea de groove 2 – añadiendo una nota pentatónica de paso\nAhora ponemos una **nota de la pentatónica** entre la tónica y la octava.\n\nPrueba este riff de un compás:\n- Tiempo 1 – **A** (tónica, E5)\n- Tiempo 2 – **C** (b3, E8)\n- Tiempo 3 – **D** (4, A5)\n- Tiempo 4 – **A** (octava, D7)\n\nTocado como **corcheas constantes**, se siente como una pequeña subida por la pentatónica hasta la octava.\n\nCuando quieras un empuje más brillante, puedes cambiar el D del tiempo 3 por **E (A7)**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. **Anchor drill** – Play just the three notes: A (E5) → E (A7) → A (D7) up and down for 1–2 minutes.\n2. **Groove 1 loop** – Repeat the root–fifth–octave groove for 8–16 bars with a click.\n3. **Groove 2 loop** – Play the pentatonic passing-note riff for 8–16 bars.\n4. **Mix them** – Freely switch between Groove 1 and Groove 2 without stopping.\n\nWhen this feels easy, move the whole shape to a new root (for example **G at E3** or **C at A3**) and keep the same ideas.",
+          "zh-Hans": "# 快速练习流程\n1. **锚点练习** —— 只弹这三个音：A (E5) → E (A7) → A (D7)，上下走 1–2 分钟。\n2. **Groove 1 循环** —— 用节拍器把“主音–五度–八度”的律动连弹 8–16 小节。\n3. **Groove 2 循环** —— 把带“经过音”的五声音阶律动连弹 8–16 小节。\n4. **自由混合** —— 不停下来，在 Groove 1 和 Groove 2 之间自由切换。\n\n当这些变得轻松后，把整个形状挪到别的主音上（比如 **G 在 E3**，或 **C 在 A3**），继续用同样的想法练习。",
+          "de": "# Kurze Übe-Routine\n1. **Anker-Drill** – Spiele nur die drei Töne A (E5) → E (A7) → A (D7) rauf und runter für 1–2 Minuten.\n2. **Groove-1-Loop** – Wiederhole den Grundton–Quinte–Oktave-Groove 8–16 Takte lang mit Metronom.\n3. **Groove-2-Loop** – Spiele das Pentatonik-Riff mit Durchgangston 8–16 Takte lang.\n4. **Mischen** – Wechsle frei zwischen Groove 1 und Groove 2, ohne anzuhalten.\n\nWenn sich das locker anfühlt, verschiebe die ganze Form auf einen neuen Grundton (z.B. **G auf E3** oder **C auf A3**) und behalte die gleichen Ideen bei.",
+          "ja": "# かんたん練習ルーティン\n1. **アンカー練習** – A (E5) → E (A7) → A (D7) の3音だけを、上がり下がり1〜2分。\n2. **グルーヴ1ループ** – ルート–5度–オクターブのグルーヴを、メトロノームに合わせて8〜16小節くり返す。\n3. **グルーヴ2ループ** – 経過音入りのペンタトニック・リフを、8〜16小節くり返す。\n4. **混ぜて使う** – 止まらずに、グルーヴ1とグルーヴ2を好きなタイミングで切り替えてみる。\n\n慣れてきたら、この形を別のルート（たとえば **G(E弦3フレット)** や **C(A弦3フレット)**）にそのまま移動して、同じアイデアを使って練習してみましょう。",
+          "pt-BR": "# Rotina rápida de prática\n1. **Drill dos pontos de apoio** – Toque só as três notas A (E5) → E (A7) → A (D7) subindo e descendo por 1–2 minutos.\n2. **Loop do Groove 1** – Repita o groove de tônica–quinta–oitava por 8–16 compassos com metrônomo.\n3. **Loop do Groove 2** – Toque o riff com nota de passagem pentatônica por 8–16 compassos.\n4. **Misture os dois** – Vá alternando entre Groove 1 e Groove 2 sem parar.\n\nQuando isso estiver fácil, mova o desenho inteiro pra outra tônica (por exemplo **G na E3** ou **C na A3**) e mantenha as mesmas ideias.",
+          "es": "# Rutina rápida de práctica\n1. **Ejercicio de anclas** – Toca sólo las tres notas A (E5) → E (A7) → A (D7) subiendo y bajando durante 1–2 minutos.\n2. **Loop del Groove 1** – Repite el groove tónica–quinta–octava durante 8–16 compases con metrónomo.\n3. **Loop del Groove 2** – Toca el riff con nota de paso pentatónica durante 8–16 compases.\n4. **Mézclalos** – Cambia libremente entre Groove 1 y Groove 2 sin detenerte.\n\nCuando esto sea fácil, mueve toda la forma a otra tónica (por ejemplo **G en E3** o **C en A3**) y conserva las mismas ideas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

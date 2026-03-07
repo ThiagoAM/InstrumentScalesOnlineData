@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-minor-pentatonic-box-1",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Minor Pentatonic – Box 1",
+        "zh-Hans": "A小调五声音阶 —— 第1指型",
+        "de": "a-Moll-Pentatonik – Box 1",
+        "ja": "Aマイナーペンタトニック – ボックス1",
+        "pt-BR": "Lá Menor Pentatônica – Caixa 1",
+        "es": "La Menor Pentatónica – Caja 1"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-minor-pentatonic-boxes-2-and-3",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Minor Pentatonic – Boxes 2 and 3",
+        "zh-Hans": "A小调五声音阶 —— 第2和第3指型",
+        "de": "a-Moll-Pentatonik – Boxen 2 und 3",
+        "ja": "Aマイナーペンタトニック – ボックス2と3",
+        "pt-BR": "Lá Menor Pentatônica – Caixas 2 e 3",
+        "es": "La Menor Pentatónica – Cajas 2 y 3"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "linking-boxes-1-3-across-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Linking Boxes 1–3 Across the Neck",
+        "zh-Hans": "在指板上连接第1-3指型",
+        "de": "Verbindung der Boxen 1–3 über den Hals",
+        "ja": "ネック全体でボックス1–3をリンクする",
+        "pt-BR": "Ligando Caixas 1–3 ao Longo do Braço",
+        "es": "Vinculación de las cajas 1-3 a lo largo del mástil"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

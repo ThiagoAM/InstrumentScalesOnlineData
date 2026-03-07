@@ -1,0 +1,86 @@
+[
+  {
+    "id": "stepwise-motion-in-major-keys",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Stepwise Motion in Major Keys",
+        "zh-Hans": "大调中的级进运动",
+        "de": "Schrittweise Bewegung in Dur-Tonarten",
+        "ja": "メジャーキーにおけるステップワイズモーション",
+        "pt-BR": "Movimento Conjunto em Tonalidades Maiores",
+        "es": "Movimiento conjunto en tonalidades mayores"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-thirds-and-fifths-in-walking-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Thirds and Fifths in Walking Lines",
+        "zh-Hans": "在行进贝斯中使用三度与五度",
+        "de": "Terzen und Quinten in Walking Lines verwenden",
+        "ja": "ウォーキングラインでの3度と5度の活用",
+        "pt-BR": "Usando Terças e Quintas em Linhas de Walking Bass",
+        "es": "Uso de terceras y quintas en líneas de walking bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "chromatic-approaches-to-chord-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chromatic Approaches to Chord Tones",
+        "zh-Hans": "和弦音的半音接近技巧",
+        "de": "Chromatische Annäherungen an Akkordtöne",
+        "ja": "コードトーンへのクロマチックアプローチ",
+        "pt-BR": "Abordagens Cromáticas aos Tons do Acorde",
+        "es": "Enfoques cromáticos hacia notas de acorde"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

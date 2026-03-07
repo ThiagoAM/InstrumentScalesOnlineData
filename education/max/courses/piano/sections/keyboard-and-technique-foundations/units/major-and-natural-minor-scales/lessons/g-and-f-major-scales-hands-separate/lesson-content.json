@@ -1,0 +1,99 @@
+{
+  "id": "g-and-f-major-scales-hands-separate",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G and F major scales – hands separate\nIn this lesson you’ll practice **one-octave G major and F major scales**, with **each hand separate**.\n\nG major has **F♯**. F major has **B♭**.\nLearning these two shapes gives you your first sharp key and your first flat key on the piano.",
+          "zh-Hans": "# G大调和F大调音阶（单双手分开）\n本课你会分别用左手和右手练习 **G大调和F大调的一组八度音阶**。\n\nG大调里有 **F♯**（升F），F大调里有 **B♭**（降B）。\n这两个音阶分别是你在钢琴上练习的第一个“升号调”和第一个“降号调”。",
+          "de": "# G- und F-Dur-Tonleitern – Hände getrennt\nIn dieser Lektion übst du die **G-Dur- und F-Dur-Tonleiter über eine Oktave**, jeweils **mit einer Hand allein**.\n\nG-Dur hat ein **F♯**, F-Dur hat ein **B♭**.\nMit diesen beiden Tonleitern bekommst du deine erste „Kreuztonart“ und deine erste „B-Tonart“ auf dem Klavier.",
+          "ja": "# GメジャーとFメジャーのスケール（左右別々）\nこのレッスンでは、**GメジャーとFメジャーのスケールを1オクターブ**、左右それぞれ**片手ずつ**で練習します。\n\nGメジャーには **F♯** が、Fメジャーには **B♭** が出てきます。\nこの2つのスケールで、「シャープの調」と「フラットの調」を最初に体験していきます。",
+          "pt-BR": "# Escalas de Sol (G) e Fá (F) – mãos separadas\nNesta lição você vai praticar as escalas de **Sol maior (G)** e **Fá maior (F)** em **uma oitava**, com **cada mão separadamente**.\n\nSol maior usa **F♯**. Fá maior usa **B♭**.\nCom essas duas escalas você ganha sua primeira tonalidade com sustenido e sua primeira tonalidade com bemol no piano.",
+          "es": "# Escalas de Sol (G) y Fa (F) – manos separadas\nEn esta lección vas a practicar las escalas de **Sol mayor (G)** y **Fa mayor (F)** en **una octava**, con **cada mano por separado**.\n\nSol mayor tiene **F♯**. Fa mayor tiene **B♭**.\nCon estas dos escalas consigues tu primera tonalidad con sostenido y tu primera tonalidad con bemol en el piano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Key shapes and setup\n- Sit so your forearms are **roughly parallel to the floor**.\n- Curve your fingers and keep the wrist light and loose.\n- Remember where the black keys are:\n  - **F♯** – the black key **just to the right of F**.\n  - **B♭** – the black key **just to the left of B**.\n\nUse **one note per beat** at first. Slow and steady is perfect.",
+          "zh-Hans": "# 调性形状和准备\n- 坐姿让前臂**大致与地面平行**。\n- 手指自然弯曲，手腕轻松放松。\n- 记住两个黑键的位置：\n  - **F♯**：在白键 F **右边**的那个黑键。\n  - **B♭**：在白键 B **左边**的那个黑键。\n\n一开始先用**每拍一个音**的速度，慢稳比快更重要。",
+          "de": "# Tonartenform und Vorbereitung\n- Sitze so, dass deine Unterarme **ungefähr parallel zum Boden** sind.\n- Finger locker krümmen, Handgelenk leicht und entspannt halten.\n- Merke dir die schwarzen Tasten:\n  - **F♯** – die schwarze Taste **direkt rechts neben F**.\n  - **B♭** – die schwarze Taste **direkt links neben B/H**.\n\nStarte mit **einem Ton pro Schlag**. Langsam und gleichmäßig ist ideal.",
+          "ja": "# 調の形と準備\n- 前腕が**床とほぼ平行**になる高さに座ります。\n- 指を軽く丸めて、手首はふわっとリラックス。\n- 黒鍵の場所をしっかり意識しましょう：\n  - **F♯** … 白鍵Fの**右側**の黒鍵。\n  - **B♭** … 白鍵Bの**左側**の黒鍵。\n\n最初は**1拍に1音**でOK。ゆっくり・安定していることが一番大事です。",
+          "pt-BR": "# Formato das escalas e preparação\n- Sente-se de modo que os antebraços fiquem **mais ou menos paralelos ao chão**.\n- Curve levemente os dedos e deixe o pulso solto.\n- Lembre onde estão as teclas pretas importantes:\n  - **F♯** – tecla preta **logo à direita do F**.\n  - **B♭** – tecla preta **logo à esquerda do B**.\n\nComece com **uma nota por tempo**. Devagar e constante é o ideal.",
+          "es": "# Forma de las tonalidades y preparación\n- Siéntate de forma que tus antebrazos queden **más o menos paralelos al suelo**.\n- Curva ligeramente los dedos y mantén la muñeca suelta.\n- Recuerda dónde están estas teclas negras:\n  - **F♯** – tecla negra **justo a la derecha de F**.\n  - **B♭** – tecla negra **justo a la izquierda de B**.\n\nEmpieza con **una nota por pulso**. Despacio y estable es perfecto."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G major – right hand\nStart on the **G above middle C**.\n\nAscending (up):\n- G (1) – A (2) – B (3)\n- C (1) – D (2) – E (3) – F♯ (4) – G (5)\n\nDescending (down):\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1) – B (3) – A (2) – G (1)\n\nWatch that **finger 4** lands confidently on F♯. Keep the thumb-under move (C after B) small and smooth.",
+          "zh-Hans": "# G大调 – 右手\n从**中央C上方的 G** 开始。\n\n上行：\n- G (1) – A (2) – B (3)\n- C (1) – D (2) – E (3) – F♯ (4) – G (5)\n\n下行：\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1) – B (3) – A (2) – G (1)\n\n注意让 **4指** 稳稳地按在 F♯ 上。B 之后换到 C 时，拇指“钻过去”的动作要小而顺滑。",
+          "de": "# G-Dur – Rechte Hand\nBeginne auf dem **G über dem mittleren C**.\n\nAufwärts:\n- G (1) – A (2) – B/H (3)\n- C (1) – D (2) – E (3) – F♯ (4) – G (5)\n\nAbwärts:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1) – B/H (3) – A (2) – G (1)\n\nAchte darauf, dass **Finger 4** sicher auf F♯ landet. Die Untersetzung des Daumens (von B/H nach C) bleibt klein und geschmeidig.",
+          "ja": "# Gメジャー – 右手\n**真ん中のCより上のG**から始めます。\n\n上行：\n- G (1) – A (2) – B (3)\n- C (1) – D (2) – E (3) – F♯ (4) – G (5)\n\n下行：\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1) – B (3) – A (2) – G (1)\n\n**4の指**でF♯の黒鍵をしっかり押さえることを意識してください。BからCへの親指の“くぐり”は小さく、なめらかに。",
+          "pt-BR": "# Sol maior (G) – mão direita\nComece no **G acima do Dó central**.\n\nSubindo:\n- G (1) – A (2) – B (3)\n- C (1) – D (2) – E (3) – F♯ (4) – G (5)\n\nDescendo:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1) – B (3) – A (2) – G (1)\n\nObserve **o dedo 4** caindo com segurança no F♯. A passagem do polegar (de B para C) deve ser pequena e suave.",
+          "es": "# Sol mayor (G) – mano derecha\nEmpieza en el **G por encima del Do central**.\n\nAscendiendo:\n- G (1) – A (2) – B (3)\n- C (1) – D (2) – E (3) – F♯ (4) – G (5)\n\nDescendiendo:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1) – B (3) – A (2) – G (1)\n\nFíjate en que el **dedo 4** llegue con confianza a F♯. El movimiento del pulgar por debajo (de B a C) debe ser pequeño y fluido."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G major – left hand\nStart on the **G below middle C**.\n\nAscending (up):\n- G (5) – A (4) – B (3) – C (2) – D (1)\n- E (3) – F♯ (2) – G (1)\n\nDescending (down):\n- G (1) – F♯ (2) – E (3)\n- D (1) – C (2) – B (3) – A (4) – G (5)\n\nLet **finger 3** cross over the thumb smoothly on E when going up, and the thumb slide under from E to D when going down.",
+          "zh-Hans": "# G大调 – 左手\n从**中央C下面的 G** 开始。\n\n上行：\n- G (5) – A (4) – B (3) – C (2) – D (1)\n- E (3) – F♯ (2) – G (1)\n\n下行：\n- G (1) – F♯ (2) – E (3)\n- D (1) – C (2) – B (3) – A (4) – G (5)\n\n上行时，**3指** 要顺畅地跨在拇指上弹 E；下行时，让拇指从 E 下方穿到 D，动作要轻松自然。",
+          "de": "# G-Dur – Linke Hand\nBeginne auf dem **G unter dem mittleren C**.\n\nAufwärts:\n- G (5) – A (4) – B/H (3) – C (2) – D (1)\n- E (3) – F♯ (2) – G (1)\n\nAbwärts:\n- G (1) – F♯ (2) – E (3)\n- D (1) – C (2) – B/H (3) – A (4) – G (5)\n\nLass **Finger 3** beim Aufwärts-Spiel weich über den Daumen zu E kreuzen und beim Abwärts-Spiel den Daumen entspannt von E nach D untersetzen.",
+          "ja": "# Gメジャー – 左手\n**真ん中のCより1つ下のG**から始めます。\n\n上行：\n- G (5) – A (4) – B (3) – C (2) – D (1)\n- E (3) – F♯ (2) – G (1)\n\n下行：\n- G (1) – F♯ (2) – E (3)\n- D (1) – C (2) – B (3) – A (4) – G (5)\n\n上がるときは、**3の指**が親指の上をなめらかにまたいでEへ行くイメージで。下がるときは、EからDへ親指をそっとくぐらせます。",
+          "pt-BR": "# Sol maior (G) – mão esquerda\nComece no **G abaixo do Dó central**.\n\nSubindo:\n- G (5) – A (4) – B (3) – C (2) – D (1)\n- E (3) – F♯ (2) – G (1)\n\nDescendo:\n- G (1) – F♯ (2) – E (3)\n- D (1) – C (2) – B (3) – A (4) – G (5)\n\nNa subida, deixe o **dedo 3** cruzar por cima do polegar até o E de forma suave. Na descida, o polegar passa por baixo de E para D sem tensão.",
+          "es": "# Sol mayor (G) – mano izquierda\nEmpieza en el **G que está por debajo del Do central**.\n\nAscendiendo:\n- G (5) – A (4) – B (3) – C (2) – D (1)\n- E (3) – F♯ (2) – G (1)\n\nDescendiendo:\n- G (1) – F♯ (2) – E (3)\n- D (1) – C (2) – B (3) – A (4) – G (5)\n\nAl subir, deja que el **dedo 3** cruce por encima del pulgar hacia E de forma suave; al bajar, el pulgar pasa por debajo de E hacia D sin tensión."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# F major – right hand\nStart on the **F above middle C**.\n\nAscending (up):\n- F (1) – G (2) – A (3) – B♭ (4)\n- C (1) – D (2) – E (3) – F (4)\n\nDescending (down):\n- F (4) – E (3) – D (2) – C (1)\n- B♭ (4) – A (3) – G (2) – F (1)\n\nLet **finger 4** take B♭ and the top F. Keep the hand comfortable on the black key, not stretched or stiff.",
+          "zh-Hans": "# F大调 – 右手\n从**中央C上方的 F** 开始。\n\n上行：\n- F (1) – G (2) – A (3) – B♭ (4)\n- C (1) – D (2) – E (3) – F (4)\n\n下行：\n- F (4) – E (3) – D (2) – C (1)\n- B♭ (4) – A (3) – G (2) – F (1)\n\n让 **4指** 负责 B♭ 和高音 F。按黑键时手要自然靠近，不要刻意拉长或僵硬。",
+          "de": "# F-Dur – Rechte Hand\nBeginne auf dem **F über dem mittleren C**.\n\nAufwärts:\n- F (1) – G (2) – A (3) – B♭ (4)\n- C (1) – D (2) – E (3) – F (4)\n\nAbwärts:\n- F (4) – E (3) – D (2) – C (1)\n- B♭ (4) – A (3) – G (2) – F (1)\n\nHier übernimmt **Finger 4** das B♭ und das obere F. Die Hand soll sich auf der schwarzen Taste wohl fühlen – nicht überstreckt und nicht verkrampft.",
+          "ja": "# Fメジャー – 右手\n**真ん中のCより上のF**から始めます。\n\n上行：\n- F (1) – G (2) – A (3) – B♭ (4)\n- C (1) – D (2) – E (3) – F (4)\n\n下行：\n- F (4) – E (3) – D (2) – C (1)\n- B♭ (4) – A (3) – G (2) – F (1)\n\n**4の指**がB♭と一番上のFを担当します。黒鍵を押さえるときも、手が無理に伸びたり固くならないように。",
+          "pt-BR": "# Fá maior (F) – mão direita\nComece no **F acima do Dó central**.\n\nSubindo:\n- F (1) – G (2) – A (3) – B♭ (4)\n- C (1) – D (2) – E (3) – F (4)\n\nDescendo:\n- F (4) – E (3) – D (2) – C (1)\n- B♭ (4) – A (3) – G (2) – F (1)\n\nAqui o **dedo 4** cuida do B♭ e do F de cima. Deixe a mão chegar perto da tecla preta de forma confortável, sem esticar nem travar os dedos.",
+          "es": "# Fa mayor (F) – mano derecha\nEmpieza en el **F por encima del Do central**.\n\nAscendiendo:\n- F (1) – G (2) – A (3) – B♭ (4)\n- C (1) – D (2) – E (3) – F (4)\n\nDescendiendo:\n- F (4) – E (3) – D (2) – C (1)\n- B♭ (4) – A (3) – G (2) – F (1)\n\nAquí el **dedo 4** se encarga de B♭ y del F superior. Mantén la mano cómoda sobre la tecla negra, sin estirarte ni ponerte rígido."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# F major – left hand\nStart on the **F below middle C**.\n\nAscending (up):\n- F (5) – G (4) – A (3) – B♭ (2) – C (1)\n- D (3) – E (2) – F (1)\n\nDescending (down):\n- F (1) – E (2) – D (3)\n- C (1) – B♭ (2) – A (3) – G (4) – F (5)\n\nLet **finger 2** handle B♭. Notice how the hand shifts slightly closer to the black key but keeps the same relaxed curve.",
+          "zh-Hans": "# F大调 – 左手\n从**中央C下面的 F** 开始。\n\n上行：\n- F (5) – G (4) – A (3) – B♭ (2) – C (1)\n- D (3) – E (2) – F (1)\n\n下行：\n- F (1) – E (2) – D (3)\n- C (1) – B♭ (2) – A (3) – G (4) – F (5)\n\n这里由 **2指** 负责 B♭。注意手会稍微靠近黑键一点，但整体弧度和放松感要保持不变。",
+          "de": "# F-Dur – Linke Hand\nBeginne auf dem **F unter dem mittleren C**.\n\nAufwärts:\n- F (5) – G (4) – A (3) – B♭ (2) – C (1)\n- D (3) – E (2) – F (1)\n\nAbwärts:\n- F (1) – E (2) – D (3)\n- C (1) – B♭ (2) – A (3) – G (4) – F (5)\n\nHier übernimmt **Finger 2** das B♭. Die Hand rückt ein wenig näher zur schwarzen Taste, behält aber ihre lockere, leicht gekrümmte Form.",
+          "ja": "# Fメジャー – 左手\n**真ん中のCより1つ下のF**から始めます。\n\n上行：\n- F (5) – G (4) – A (3) – B♭ (2) – C (1)\n- D (3) – E (2) – F (1)\n\n下行：\n- F (1) – E (2) – D (3)\n- C (1) – B♭ (2) – A (3) – G (4) – F (5)\n\nここでは **2の指** がB♭を担当します。黒鍵に近づくぶん手は少し前に出ますが、指のカーブとリラックスした感覚はそのままキープしましょう。",
+          "pt-BR": "# Fá maior (F) – mão esquerda\nComece no **F abaixo do Dó central**.\n\nSubindo:\n- F (5) – G (4) – A (3) – B♭ (2) – C (1)\n- D (3) – E (2) – F (1)\n\nDescendo:\n- F (1) – E (2) – D (3)\n- C (1) – B♭ (2) – A (3) – G (4) – F (5)\n\nAqui o **dedo 2** pega o B♭. Perceba como a mão chega um pouco mais perto da tecla preta, mas mantém a mesma curva relaxada dos dedos.",
+          "es": "# Fa mayor (F) – mano izquierda\nEmpieza en el **F que está por debajo del Do central**.\n\nAscendiendo:\n- F (5) – G (4) – A (3) – B♭ (2) – C (1)\n- D (3) – E (2) – F (1)\n\nDescendiendo:\n- F (1) – E (2) – D (3)\n- C (1) – B♭ (2) – A (3) – G (4) – F (5)\n\nAquí el **dedo 2** se encarga de B♭. Nota cómo la mano se acerca un poco más a la tecla negra, pero conserva la misma curva relajada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play **G major** one octave **right hand only**, up and down 3–5 times.\n2. Repeat with **left hand only**.\n3. Do the same routine with **F major**.\n4. When it feels comfortable, alternate: **one G major, one F major**, same hand, without stopping.\n\nStay at a tempo where every F♯ and B♭ feels accurate and relaxed. Speed can come later.",
+          "zh-Hans": "## 快速练习\n1. 先练 **G大调**：只用右手，一组八度上下各弹 3–5 遍。\n2. 再只用左手重复同样练习。\n3. 然后用同样的流程练习 **F大调**。\n4. 熟练以后，试着交替弹：同一只手先一遍 G 大调，再一遍 F 大调，中间不停。\n\n保持在一个能让 F♯ 和 B♭ 都弹得**准、又放松**的速度。速度完全可以以后再加。",
+          "de": "## Kurze Übung\n1. Spiele **G-Dur** über eine Oktave **nur rechte Hand**, auf- und abwärts, 3–5 Mal.\n2. Wiederhole dasselbe **nur mit der linken Hand**.\n3. Mach die gleiche Routine mit **F-Dur**.\n4. Wenn es sich sicher anfühlt, wechsle ab: **einmal G-Dur, einmal F-Dur** mit derselben Hand, ohne Pause.\n\nWähle ein Tempo, in dem jedes F♯ und jedes B♭ **genau und entspannt** klingt. Mehr Tempo kommt später von allein.",
+          "ja": "## かんたん練習\n1. まず **Gメジャー** を1オクターブ、**右手だけ**で上がって下りてを3〜5回。\n2. つぎに **左手だけ**で同じことをします。\n3. 同じ流れを **Fメジャー** でも行います。\n4. 余裕が出てきたら、同じ手で **Gメジャー → Fメジャー** を続けて弾いてみましょう（止まらず交互に）。\n\nF♯ と B♭ が**正確に、かつリラックスして**押せる速さをキープしてください。速さは後からいくらでも上げられます。",
+          "pt-BR": "## Prática rápida\n1. Toque **Sol maior (G)** em uma oitava **só com a mão direita**, subindo e descendo de 3 a 5 vezes.\n2. Repita o mesmo **só com a mão esquerda**.\n3. Faça a mesma rotina com **Fá maior (F)**.\n4. Quando estiver confortável, alterne: **uma vez Sol maior, uma vez Fá maior**, com a mesma mão, sem parar.\n\nFique em um andamento em que todo F♯ e todo B♭ saiam **certinhos e relaxados**. A velocidade pode vir depois.",
+          "es": "## Práctica rápida\n1. Toca **Sol mayor (G)** en una octava **solo con la mano derecha**, subiendo y bajando 3–5 veces.\n2. Repite lo mismo **solo con la mano izquierda**.\n3. Haz la misma rutina con **Fa mayor (F)**.\n4. Cuando se sienta cómodo, alterna: **una vez Sol mayor, una vez Fa mayor**, con la misma mano, sin detenerte.\n\nMantente en un tempo donde cada F♯ y cada B♭ se sientan **precisos y relajados**. La velocidad puede llegar más adelante."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "blues-scale-grooves-in-a-and-e",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Blues scale grooves in A and E\nThe **blues scale** is the minor pentatonic plus one extra note, the **“blue note”** (b5).\n\nIn this lesson you’ll use the **A blues scale** and move the same shape to **E** to build solid, gritty bass grooves.",
+          "zh-Hans": "# A 和 E 调上的布鲁斯音阶律动\n**布鲁斯音阶**是在小调五声音阶的基础上加上一颗额外的 **“蓝音”（减五度）**。\n\n在本课中，你会用 **A 布鲁斯音阶**，然后把同样的形状移动到 **E**，做出扎实又有点“脏”的贝斯律动。",
+          "de": "# Blues-Skalen-Grooves in A und E\nDie **Blues-Skala** ist die Moll-Pentatonik mit einem extra Ton, der **„Blue Note“** (b5).\n\nIn dieser Lektion nutzt du die **A-Blues-Skala** und verschiebst dasselbe Pattern nach **E**, um fette, dreckige Bass-Grooves zu bauen.",
+          "ja": "# A と E のブルース・スケール・グルーヴ\n**ブルース・スケール**は、マイナー・ペンタトニックに 1 音（**ブルーノート = ♭5**）を足したものです。\n\nこのレッスンでは **A ブルース・スケール** を使い、その同じ形を **E** に移動して、芯のあるグルーヴィなベースラインを作っていきます。",
+          "pt-BR": "# Grooves com escala blues em A e E\nA **escala blues** é a pentatônica menor com uma nota extra, a **“blue note”** (quinta diminuta, b5).\n\nNesta lição você vai usar a **escala blues de A** e depois levar o mesmo desenho para **E** para criar grooves de baixo cheios de atitude.",
+          "es": "# Grooves con escala blues en La y Mi\nLa **escala blues** es la pentatónica menor con una nota extra, la **“blue note”** (quinta bemol, b5).\n\nEn esta lección vas a usar la **escala blues de La (A)** y mover el mismo dibujo a **Mi (E)** para crear grooves de bajo con bastante carácter."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A blues scale shape (5th fret)\n4-string bass in E–A–D–G:\n\n**A blues scale notes:** A – C – D – Eb – E – G – A\n\nOn the neck:\n- 4th string (E), 5th fret – **A** (root)\n- 4th string, 8th fret – **C**\n- 3rd string (A), 5th fret – **D**\n- 3rd string, 6th fret – **Eb** (blue note)\n- 3rd string, 7th fret – **E**\n- 2nd string (D), 5th fret – **G**\n- 2nd string, 7th fret – **A** (octave)\n\nKeep one finger per fret from 5 to 8 and let your hand stay relaxed.",
+          "zh-Hans": "# A 调布鲁斯音阶指型（第 5 品）\n4 弦贝斯，E–A–D–G 定弦：\n\n**A 布鲁斯音阶音：** A – C – D – Eb – E – G – A\n\n指板上的位置：\n- 第 4 弦（E），第 5 品 – **A**（主音）\n- 第 4 弦，第 8 品 – **C**\n- 第 3 弦（A），第 5 品 – **D**\n- 第 3 弦，第 6 品 – **Eb**（蓝音）\n- 第 3 弦，第 7 品 – **E**\n- 第 2 弦（D），第 5 品 – **G**\n- 第 2 弦，第 7 品 – **A**（高八度）\n\n左手尽量做到 5–8 品 **一品一指**，手放松，不要用力过猛。",
+          "de": "# A-Blues-Skala (5. Bund)\n4-saitiger Bass in E–A–D–G-Stimmung:\n\n**Töne der A-Blues-Skala:** A – C – D – Eb – E – G – A\n\nAuf dem Griffbrett:\n- 4. Saite (E), 5. Bund – **A** (Grundton)\n- 4. Saite, 8. Bund – **C**\n- 3. Saite (A), 5. Bund – **D**\n- 3. Saite, 6. Bund – **Eb** (Blue Note)\n- 3. Saite, 7. Bund – **E**\n- 2. Saite (D), 5. Bund – **G**\n- 2. Saite, 7. Bund – **A** (Oktave)\n\nNutze von Bund 5 bis 8 möglichst **einen Finger pro Bund** und lass die Hand locker.",
+          "ja": "# A ブルース・スケールの形（5 フレット・ポジション）\n4 弦ベース（E–A–D–G チューニング）：\n\n**A ブルース・スケールの音：** A – C – D – Eb – E – G – A\n\n指板上の位置：\n- 4 弦（E）5 フレット – **A**（ルート）\n- 4 弦 8 フレット – **C**\n- 3 弦（A）5 フレット – **D**\n- 3 弦 6 フレット – **Eb**（ブルーノート）\n- 3 弦 7 フレット – **E**\n- 2 弦（D）5 フレット – **G**\n- 2 弦 7 フレット – **A**（オクターブ）\n\n5〜8 フレットはできるだけ **1 フレット 1 本**で押さえて、手はリラックスさせましょう。",
+          "pt-BR": "# Desenho da escala blues de A (5ª casa)\nBaixo de 4 cordas afinado em E–A–D–G:\n\n**Notas da escala blues de A:** A – C – D – Eb – E – G – A\n\nNo braço:\n- 4ª corda (E), 5ª casa – **A** (tônica)\n- 4ª corda, 8ª casa – **C**\n- 3ª corda (A), 5ª casa – **D**\n- 3ª corda, 6ª casa – **Eb** (blue note)\n- 3ª corda, 7ª casa – **E**\n- 2ª corda (D), 5ª casa – **G**\n- 2ª corda, 7ª casa – **A** (oitava)\n\nTente usar **um dedo por casa** do 5 ao 8 e mantenha a mão bem solta.",
+          "es": "# Dibujo de la escala blues de La (traste 5)\nBajo de 4 cuerdas afinado en E–A–D–G:\n\n**Notas de la escala blues de La:** A – C – D – Eb – E – G – A\n\nEn el mástil:\n- 4ª cuerda (E), traste 5 – **A** (tónica)\n- 4ª cuerda, traste 8 – **C**\n- 3ª cuerda (A), traste 5 – **D**\n- 3ª cuerda, traste 6 – **Eb** (blue note)\n- 3ª cuerda, traste 7 – **E**\n- 2ª cuerda (D), traste 5 – **G**\n- 2ª cuerda, traste 7 – **A** (octava)\n\nIntenta usar **un dedo por traste** del 5 al 8 y mantén la mano relajada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove 1 – A blues shuffle\nPlay these as steady **8th notes** with a light shuffle feel:\n\n- A – C – D – C – A – G – E – D\n\nFingering suggestion:\n- A (4th string, 5th fret)\n- C (4th string, 8th fret)\n- D (3rd string, 5th fret)\n- G (2nd string, 5th fret)\n- E (3rd string, 7th fret)\n\nLoop the 8-note pattern, keep your right hand alternating (index–middle), and let the notes be a bit **short** for a tighter groove.",
+          "zh-Hans": "# Groove 1 – A 调布鲁斯 shuffle\n把下面这些音当作**八分音符**来弹，可以带一点 shuffle 摇摆感：\n\n- A – C – D – C – A – G – E – D\n\n指板位置建议：\n- A（第 4 弦 第 5 品）\n- C（第 4 弦 第 8 品）\n- D（第 3 弦 第 5 品）\n- G（第 2 弦 第 5 品）\n- E（第 3 弦 第 7 品）\n\n不断循环这 8 个音的模式，右手始终交替食指–中指，让音略微**短一点**，律动会更紧凑。",
+          "de": "# Groove 1 – A-Blues-Shuffle\nSpiele diese Töne als gleichmäßige **Achtelnoten** mit leichtem Shuffle-Feeling:\n\n- A – C – D – C – A – G – E – D\n\nLagen-Vorschlag:\n- A (4. Saite, 5. Bund)\n- C (4. Saite, 8. Bund)\n- D (3. Saite, 5. Bund)\n- G (2. Saite, 5. Bund)\n- E (3. Saite, 7. Bund)\n\nWiederhole das 8-Noten-Pattern in einer Schleife, halte die Anschlaghand im Wechsel (Zeige–Mittel) und spiel die Noten etwas **kürzer** für einen straffen Groove.",
+          "ja": "# グルーヴ 1 – A ブルース・シャッフル\n次の並びを **8 分音符** で、少しシャッフル気味に弾きます：\n\n- A – C – D – C – A – G – E – D\n\nポジションの例：\n- A（4 弦 5 フレット）\n- C（4 弦 8 フレット）\n- D（3 弦 5 フレット）\n- G（2 弦 5 フレット）\n- E（3 弦 7 フレット）\n\nこの 8 音をループさせて、右手は人差し指–中指のオルタネイトをキープ。音は少し **短め** に切ると、グルーヴが締まります。",
+          "pt-BR": "# Groove 1 – Shuffle em A blues\nToque essa sequência em **colcheias** bem constantes, com um leve shuffle:\n\n- A – C – D – C – A – G – E – D\n\nSugestão de posição:\n- A (4ª corda, 5ª casa)\n- C (4ª corda, 8ª casa)\n- D (3ª corda, 5ª casa)\n- G (2ª corda, 5ª casa)\n- E (3ª corda, 7ª casa)\n\nFique repetindo esse padrão de 8 notas, mantenha a mão direita alternando (indicador–médio) e deixe as notas um pouco **curtas** para o groove ficar mais apertado.",
+          "es": "# Groove 1 – Shuffle blues en La\nToca esta secuencia como **corcheas** constantes, con un ligero shuffle:\n\n- A – C – D – C – A – G – E – D\n\nSugerencia de posiciones:\n- A (4ª cuerda, traste 5)\n- C (4ª cuerda, traste 8)\n- D (3ª cuerda, traste 5)\n- G (2ª cuerda, traste 5)\n- E (3ª cuerda, traste 7)\n\nRepite en bucle este patrón de 8 notas, mantén la mano derecha alternando (índice–medio) y haz las notas un poco **cortas** para un groove más ajustado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove 2 – Move the shape to E\nFor **E blues** you can reuse the same idea, just move the shape so that **E is the root**:\n\n**E blues scale notes:** E – G – A – Bb – B – D – E\n\nTry this groove (again as 8th notes):\n- E – G – A – G – E – D – B – A\n\nOne way to finger it:\n- E (3rd string, 2nd fret or 2nd string, 7th fret)\n- G (3rd string, 5th fret or 2nd string, 10th fret)\n- A (2nd string, 7th fret)\n- D (1st string, 7th fret)\n- B (1st string, 4th fret)\n\nPick one comfortable position and keep the feel the same as in A.",
+          "zh-Hans": "# Groove 2 – 把形状移到 E\n在 **E 调布鲁斯** 里，你可以用同样的想法，只是把形状移动，让 **E 变成主音**：\n\n**E 布鲁斯音阶音：** E – G – A – Bb – B – D – E\n\n试试下面这个律动（同样当作八分音符）：\n- E – G – A – G – E – D – B – A\n\n一种按法示例：\n- E（第 3 弦 第 2 品，或第 2 弦 第 7 品）\n- G（第 3 弦 第 5 品，或第 2 弦 第 10 品）\n- A（第 2 弦 第 7 品）\n- D（第 1 弦 第 7 品）\n- B（第 1 弦 第 4 品）\n\n选择一个你觉得舒服的把位，保持和 A 调 groove 相同的感觉。",
+          "de": "# Groove 2 – Shape nach E verschieben\nFür **E-Blues** kannst du dieselbe Idee nutzen, nur wird jetzt **E der Grundton**:\n\n**Töne der E-Blues-Skala:** E – G – A – Bb – B – D – E\n\nProbiere diesen Groove (wieder als Achtelnoten):\n- E – G – A – G – E – D – B – A\n\nMögliche Lagen:\n- E (3. Saite, 2. Bund oder 2. Saite, 7. Bund)\n- G (3. Saite, 5. Bund oder 2. Saite, 10. Bund)\n- A (2. Saite, 7. Bund)\n- D (1. Saite, 7. Bund)\n- B (1. Saite, 4. Bund)\n\nSuch dir eine bequeme Lage aus und behalte denselben Feel wie beim Groove in A.",
+          "ja": "# グルーヴ 2 – 形を E に移動\n**E ブルース**では、同じ考え方で、今度は **E をルート** にします：\n\n**E ブルース・スケールの音：** E – G – A – Bb – B – D – E\n\nこんなグルーヴを 8 分音符で試してみましょう：\n- E – G – A – G – E – D – B – A\n\n押さえ方の例：\n- E（3 弦 2 フレット、または 2 弦 7 フレット）\n- G（3 弦 5 フレット、または 2 弦 10 フレット）\n- A（2 弦 7 フレット）\n- D（1 弦 7 フレット）\n- B（1 弦 4 フレット）\n\n自分が押さえやすいポジションを選んで、A で弾いたときと同じフィールをキープしましょう。",
+          "pt-BR": "# Groove 2 – Levando o desenho para E\nPara o **blues em E**, você reaproveita a mesma ideia, só que agora **E é a tônica**:\n\n**Notas da escala blues de E:** E – G – A – Bb – B – D – E\n\nTeste este groove (também em colcheias):\n- E – G – A – G – E – D – B – A\n\nUma forma de digitar:\n- E (3ª corda, 2ª casa, ou 2ª corda, 7ª casa)\n- G (3ª corda, 5ª casa, ou 2ª corda, 10ª casa)\n- A (2ª corda, 7ª casa)\n- D (1ª corda, 7ª casa)\n- B (1ª corda, 4ª casa)\n\nEscolha a região que ficar mais confortável e mantenha o mesmo feel que você usou no groove em A.",
+          "es": "# Groove 2 – Llevando el dibujo a Mi\nPara el **blues en Mi (E)** puedes usar la misma idea, pero ahora **E es la tónica**:\n\n**Notas de la escala blues de Mi:** E – G – A – Bb – B – D – E\n\nPrueba este groove (también en corcheas):\n- E – G – A – G – E – D – B – A\n\nUna forma de digitarlo:\n- E (3ª cuerda, traste 2, o 2ª cuerda, traste 7)\n- G (3ª cuerda, traste 5, o 2ª cuerda, traste 10)\n- A (2ª cuerda, traste 7)\n- D (1ª cuerda, traste 7)\n- B (1ª cuerda, traste 4)\n\nElige la posición que te resulte más cómoda y mantén el mismo feel que en el groove en La."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Putting it together\n- Practice Groove 1 over an **A7** vamp\n- Practice Groove 2 over an **E7** vamp\n- Then switch A → E every 4 bars to simulate a simple blues progression\n\nOnce both shapes feel easy, you can start mixing notes from A and E blues scales to create your own riffs.",
+          "zh-Hans": "# 组合练习\n- 在一个 **A7 和弦循环** 上练 Groove 1\n- 在一个 **E7 和弦循环** 上练 Groove 2\n- 然后每 4 小节在 A 和 E 之间切换，模拟一个简单的布鲁斯走向\n\n当这两个形状都变得轻松顺手时，就可以开始把 A 和 E 布鲁斯音阶的音混在一起，做出你自己的 riff。",
+          "de": "# Alles zusammenfügen\n- Übe Groove 1 über einem **A7-Vamp**\n- Übe Groove 2 über einem **E7-Vamp**\n- Wechsle dann alle 4 Takte von A nach E, um eine einfache Blues-Form zu simulieren\n\nSobald sich beide Shapes locker anfühlen, kannst du Töne aus den A- und E-Blues-Skalen mischen und eigene Riffs erfinden.",
+          "ja": "# まとめて応用\n- **A7 のループ** の上でグルーヴ 1 を練習\n- **E7 のループ** の上でグルーヴ 2 を練習\n- そのあと 4 小節ごとに A → E と切り替えて、シンプルなブルース進行をイメージしてみましょう\n\n両方の形がラクに弾けるようになったら、A と E のブルース・スケールを混ぜて、自分だけのリフを作ってみてください。",
+          "pt-BR": "# Juntando tudo\n- Pratique o Groove 1 em um **vamp de A7**\n- Pratique o Groove 2 em um **vamp de E7**\n- Depois, troque de A para E a cada 4 compassos para simular uma progressão de blues simples\n\nQuando os dois desenhos estiverem confortáveis, comece a misturar notas das escalas blues de A e de E para criar os seus próprios riffs.",
+          "es": "# Juntando todo\n- Practica el Groove 1 sobre un **vamp de A7**\n- Practica el Groove 2 sobre un **vamp de E7**\n- Luego cambia de La a Mi cada 4 compases para simular una progresión de blues sencilla\n\nCuando ambos dibujos se sientan cómodos, empieza a mezclar notas de las escalas blues de La y de Mi para crear tus propios riffs."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

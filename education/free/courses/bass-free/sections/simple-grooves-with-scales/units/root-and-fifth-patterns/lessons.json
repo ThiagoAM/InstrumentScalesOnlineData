@@ -1,0 +1,58 @@
+[
+  {
+    "id": "playing-roots-quarter-notes",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Playing Roots with Quarter Notes",
+        "zh-Hans": "用四分音符演奏根音",
+        "de": "Grundtöne mit Viertelnoten spielen",
+        "ja": "ルート音を4分音符で弾く",
+        "pt-BR": "Tocando tônicas com semínimas",
+        "es": "Tocar tónicas con negras"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock in time by playing root notes as steady quarter notes.",
+        "zh-Hans": "通过以稳定的四分音符演奏根音来保持节奏稳固。",
+        "de": "Halte das Timing, indem du Grundtöne als gleichmäßige Viertelnoten spielst.",
+        "ja": "ルート音を安定した4分音符で弾いて、タイム感を固めましょう。",
+        "pt-BR": "Mantenha o tempo tocando tônicas como semínimas constantes.",
+        "es": "Asegura el tiempo tocando tónicas como negras constantes."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "adding-the-fifth-using-pentatonic-notes",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Adding the Fifth Using Pentatonic Notes",
+        "zh-Hans": "使用五声音阶加入五度音",
+        "de": "Die Quinte mithilfe der Pentatonik hinzufügen",
+        "ja": "ペンタトニックを使って5度を追加する",
+        "pt-BR": "Adicionando a quinta usando notas da pentatônica",
+        "es": "Añadiendo la quinta usando notas pentatónicas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Expand the groove by adding the fifth from the A minor pentatonic pattern.",
+        "zh-Hans": "通过加入A小调五声音阶中的五度音来丰富律动。",
+        "de": "Erweitere den Groove, indem du die Quinte aus der A-Moll-Pentatonik hinzufügst.",
+        "ja": "Aマイナー・ペンタトニックから5度音を加えて、グルーヴを広げましょう。",
+        "pt-BR": "Expanda o groove adicionando a quinta da pentatônica de Lá menor.",
+        "es": "Expande el groove añadiendo la quinta de la pentatónica de La menor."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

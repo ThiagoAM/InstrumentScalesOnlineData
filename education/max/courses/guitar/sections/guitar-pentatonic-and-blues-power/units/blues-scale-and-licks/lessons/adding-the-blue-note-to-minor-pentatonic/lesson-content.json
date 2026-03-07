@@ -1,0 +1,60 @@
+{
+  "id": "adding-the-blue-note-to-minor-pentatonic",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Adding the blue note to minor pentatonic\nYou already know the **minor pentatonic scale**. To make it sound more like **real blues**, we add one extra note: the **blue note**.\n\nFor A minor pentatonic:\n- A minor pentatonic: **A C D E G**\n- A blues scale: **A C D Eb E G**\n\nThat extra **Eb (b5)** is the blue note. It adds tension and “squeeze” to your lines.",
+          "zh-Hans": "# 在小调五声音阶中加入蓝调音\n你已经会弹**小调五声音阶**了。想要更有**布鲁斯味**，我们会多加一个音：**蓝调音（blue note）**。\n\n在 A 小调里：\n- A 小调五声音阶：**A C D E G**\n- A 布鲁斯音阶：**A C D Eb E G**\n\n多出来的这个 **Eb（降五，b5）** 就是蓝调音，它会给乐句带来一种“挤压感”和张力。",
+          "de": "# Die Blue Note zur Moll-Pentatonik hinzufügen\nDu kennst bereits die **Moll-Pentatonik**. Damit es mehr nach **echtem Blues** klingt, fügen wir eine zusätzliche Note hinzu: die **Blue Note**.\n\nFür A-Moll-Pentatonik:\n- A-Moll-Pentatonik: **A C D E G**\n- A-Blues-Tonleiter: **A C D Eb E G**\n\nDie extra Note **Eb (b5)** ist die Blue Note. Sie sorgt für Spannung und dieses typische „Quetsch“-Gefühl.",
+          "ja": "# マイナー・ペンタにブルーノートを足す\nすでに**マイナー・ペンタトニック**は弾けると思います。そこに1つだけ音を足すと、より**本物のブルースらしい**響きになります。それが **ブルーノート** です。\n\nAマイナーの場合：\n- Aマイナー・ペンタ：**A C D E G**\n- Aブルース・スケール：**A C D Eb E G**\n\nこの追加された **Eb（フラット5、b5）** がブルーノートで、フレーズに独特の緊張感・絞り出すようなニュアンスを足してくれます。",
+          "pt-BR": "# Adicionando a blue note na pentatônica menor\nVocê já conhece a **escala pentatônica menor**. Para soar mais como **blues de verdade**, a gente adiciona uma nota extra: a **blue note**.\n\nNo caso de Lá menor:\n- Pentatônica de A menor: **A C D E G**\n- Escala blues de A: **A C D Eb E G**\n\nEssa **Eb (quinta bemol, b5)** é a blue note. Ela traz tensão e aquele “aperto” típico do blues.",
+          "es": "# Añadiendo la blue note a la pentatónica menor\nYa conoces la **escala pentatónica menor**. Para que suene más a **blues real**, añadimos una nota extra: la **blue note**.\n\nEn La menor:\n- Pentatónica de La menor: **A C D E G**\n- Escala blues de La: **A C D Eb E G**\n\nEsa **Eb (quinta bemol, b5)** es la blue note. Añade tensión y ese carácter “estrujado” típico del blues."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Where the blue note lives (A minor box 1)\nUse **A minor pentatonic box 1** at the 5th fret.\n\nStandard box 1:\n- 6th string: 5 (A) – 8 (C)\n- 5th string: 5 (D) – 7 (E)\n- 4th string: 5 (G) – 7 (A)\n- 3rd string: 5 (C) – 7 (D)\n- 2nd string: 5 (E) – 8 (G)\n- 1st string: 5 (A) – 8 (C)\n\nAdd the **blue note (Eb)** here:\n- 5th string, **6th fret** (between D and E)\n- Optional: 3rd string, **8th fret** (another Eb, just above D)\n\nYou don’t need to sit on it for long – it works best as a **quick passing note**.",
+          "zh-Hans": "# 蓝调音在指板上的位置（A 小调 Box 1）\n用第 5 品位置的 **A 小调五声音阶 Box 1**。\n\n标准 box 1（A 小调）：\n- 第6弦：5品 (A) – 8品 (C)\n- 第5弦：5品 (D) – 7品 (E)\n- 第4弦：5品 (G) – 7品 (A)\n- 第3弦：5品 (C) – 7品 (D)\n- 第2弦：5品 (E) – 8品 (G)\n- 第1弦：5品 (A) – 8品 (C)\n\n把 **蓝调音 Eb** 加在这里：\n- 第5弦 **6品**（在 D 和 E 之间）\n- 可选：第3弦 **8品**（在 D 上面再高半音，也是 Eb）\n\n通常不用在这个音上停很久，把它当成一个**快速略过的经过音**会更自然。",
+          "de": "# Wo die Blue Note liegt (A-Moll Box 1)\nWir benutzen **A-Moll-Pentatonik Box 1** am 5. Bund.\n\nStandard-Box 1:\n- 6. Saite: 5 (A) – 8 (C)\n- 5. Saite: 5 (D) – 7 (E)\n- 4. Saite: 5 (G) – 7 (A)\n- 3. Saite: 5 (C) – 7 (D)\n- 2. Saite: 5 (E) – 8 (G)\n- 1. Saite: 5 (A) – 8 (C)\n\nHier fügst du die **Blue Note (Eb)** ein:\n- 5. Saite, **6. Bund** (zwischen D und E)\n- Optional: 3. Saite, **8. Bund** (noch ein Eb, direkt über D)\n\nDu musst nicht lange auf ihr „stehen“ – am besten funktioniert sie als **kurzer Durchgangston**.",
+          "ja": "# ブルーノートの位置（Aマイナー Box 1）\n5フレット周辺の **Aマイナー・ペンタ Box 1** を使います。\n\n標準的なBox 1（Aマイナー）：\n- 6弦：5F (A) – 8F (C)\n- 5弦：5F (D) – 7F (E)\n- 4弦：5F (G) – 7F (A)\n- 3弦：5F (C) – 7F (D)\n- 2弦：5F (E) – 8F (G)\n- 1弦：5F (A) – 8F (C)\n\nここに **ブルーノート Eb** を足します：\n- 5弦 **6フレット**（D と E の間）\n- オプション：3弦 **8フレット**（D の半音上、もう1つの Eb）\n\n長く伸ばす必要はなく、**サッと通り過ぎる経過音**として使うと自然に聞こえます。",
+          "pt-BR": "# Onde fica a blue note (A menor box 1)\nUse o **Box 1 da pentatônica de A menor** na 5ª casa.\n\nDesenho padrão do box 1:\n- 6ª corda: casa 5 (A) – casa 8 (C)\n- 5ª corda: casa 5 (D) – casa 7 (E)\n- 4ª corda: casa 5 (G) – casa 7 (A)\n- 3ª corda: casa 5 (C) – casa 7 (D)\n- 2ª corda: casa 5 (E) – casa 8 (G)\n- 1ª corda: casa 5 (A) – casa 8 (C)\n\nAgora adicione a **blue note (Eb)** aqui:\n- 5ª corda, **casa 6** (entre D e E)\n- Opcional: 3ª corda, **casa 8** (outro Eb, logo acima do D)\n\nGeralmente você não fica parado nela; ela funciona melhor como **nota de passagem rápida**.",
+          "es": "# Dónde vive la blue note (La menor caja 1)\nUsa la **caja 1 de La menor pentatónica** en el traste 5.\n\nCaja 1 estándar:\n- 6ª cuerda: traste 5 (A) – 8 (C)\n- 5ª cuerda: traste 5 (D) – 7 (E)\n- 4ª cuerda: traste 5 (G) – 7 (A)\n- 3ª cuerda: traste 5 (C) – 7 (D)\n- 2ª cuerda: traste 5 (E) – 8 (G)\n- 1ª cuerda: traste 5 (A) – 8 (C)\n\nAñade la **blue note (Eb)** aquí:\n- 5ª cuerda, **traste 6** (entre D y E)\n- Opcional: 3ª cuerda, **traste 8** (otro Eb, justo encima de D)\n\nNo hace falta quedarse mucho tiempo en ella; funciona mejor como **nota de paso rápida**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# How to use the blue note\nThink of the blue note as a **spice**, not the main ingredient.\n\nGood ways to use it:\n- **Walk through it**: D → Eb → E on the 5th string (5–6–7)\n- **Slide into it**: slide 5 → 6 on the 5th string, then go to 7\n- **Bend to it**: bend D (5th fret, 3rd string) slightly towards Eb before releasing\n\nTry to:\n- Hit it **on weak beats** or in the middle of a phrase\n- Resolve to a **strong note** (A, C, E, G) right after\n\nIf you hold it too long, it sounds very tense – use that on purpose, not by accident.",
+          "zh-Hans": "# 怎么用蓝调音\n可以把蓝调音当成**调味料**，而不是主菜。\n\n一些好用法：\n- **穿过去**：在第5弦弹 D → Eb → E（5–6–7 品）\n- **滑过去**：在第5弦从 5 滑到 6，再到 7\n- **略微推弦**：在第3弦 5品（D）上轻轻往上推一点，接近 Eb 再放回\n\n小建议：\n- 尽量在**弱拍**或乐句中间碰一下蓝调音\n- 紧接着回到一个**稳定的音**（A、C、E、G）\n\n如果在 Eb 上拖得太久，张力会非常强——要用也可以，但最好是**你有意为之**。",
+          "de": "# Wie du die Blue Note einsetzt\nDenk an die Blue Note wie an ein **Gewürz**, nicht wie an die Hauptzutat.\n\nGute Einsatzmöglichkeiten:\n- **Durchlaufen**: D → Eb → E auf der 5. Saite (Bünde 5–6–7)\n- **Hineinsliden**: auf der 5. Saite von Bund 5 auf 6 sliden, dann weiter auf 7\n- **Hinbiegen**: den Ton D (3. Saite, 5. Bund) leicht Richtung Eb ziehen und wieder lösen\n\nVersuche:\n- Sie eher auf **schwachen Zählzeiten** oder mitten in der Phrase zu spielen\n- Direkt danach auf einem **stabilen Ton** (A, C, E, G) zu landen\n\nWenn du sie lange hältst, klingt es sehr angespannt – das ist cool, solange du es **absichtlich** machst.",
+          "ja": "# ブルーノートの使い方\nブルーノートは**「調味料」**だと思ってください。メインの材料ではありません。\n\nおすすめの使い方：\n- **通り道として使う**：5弦で D → Eb → E（5–6–7フレット）\n- **スライドでなぞる**：5弦 5F から 6F にスライドして、すぐ 7F へ行く\n- **チョーキングで触れる**：3弦 5F（D）を、ほんの少しだけ Eb 方向にチョーキングして戻す\n\n意識したいこと：\n- **弱拍**やフレーズの途中で軽く触る\n- そのすぐ後に **安定した音**（A・C・E・G）へ着地する\n\nEb を長く伸ばすとかなり不安定に聞こえるので、やるなら**狙ってやる**ようにしましょう。",
+          "pt-BR": "# Como usar a blue note\nPense na blue note como um **tempero**, não como o ingrediente principal.\n\nBoas maneiras de usar:\n- **Passando por ela**: na 5ª corda faça D → Eb → E (casas 5–6–7)\n- **Com slide**: na 5ª corda deslize da casa 5 para a 6 e depois vá para a 7\n- **Com bend**: na 3ª corda, casa 5 (D), dê um bend de leve em direção a Eb e volte\n\nTente:\n- Acertar essa nota em **tempos fracos** ou no meio da frase\n- Resolver logo em seguida em uma nota **forte** (A, C, E ou G)\n\nSe você segurar Eb por muito tempo, a tensão fica enorme – use isso de forma **intencional**, não por acidente.",
+          "es": "# Cómo usar la blue note\nPiensa en la blue note como en un **condimento**, no como el ingrediente principal.\n\nFormas útiles de usarla:\n- **Pasar por ella**: en la 5ª cuerda toca D → Eb → E (trastes 5–6–7)\n- **Con slide**: en la 5ª cuerda desliza de 5 a 6 y luego ve a 7\n- **Con bending**: en la 3ª cuerda, traste 5 (D), haz un bending suave hacia Eb y vuelve\n\nIntenta:\n- Tocar esa nota en **tiempos débiles** o en medio de la frase\n- Resolver enseguida en una nota **fuerte** (A, C, E o G)\n\nSi la mantienes demasiado tiempo, suena muy tensa; úsalo a propósito, no por descuido."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Warm-up: play A minor pentatonic box 1 **without** the blue note, up and down.\n2. Add the pattern on the 5th string: **5–6–7–6–5** (D–Eb–E–Eb–D). Feel the tension and release.\n3. Make a 4–6 note lick that **must include** the blue note and then land on A, C or E.\n4. Put on an A blues / A7 backing track and drop the blue note in **only once per phrase** at first. Later, try using it twice.\n\nThe goal is simple: keep the **minor pentatonic sound** you already know, and let the blue note add just a bit of extra dirt and emotion.",
+          "zh-Hans": "# 小练习\n1. 热身：先只弹不带蓝调音的 A 小调五声音阶 box 1，上下各一遍。\n2. 在第5弦练习这个模式：**5–6–7–6–5**（D–Eb–E–Eb–D），感受张力和放松的对比。\n3. 编一个 4～6 个音的小乐句，要求里面**必须带上蓝调音**，最后落在 A、C 或 E 上。\n4. 放一段 A 调布鲁斯 / A7 伴奏，一开始每个乐句里**只用一次**蓝调音；熟悉之后可以试试用两次。\n\n目标很简单：保持你已经熟悉的**小调五声音阶**的味道，让蓝调音只是在上面**多抹一层“脏感”和情绪”**。",
+          "de": "# Kurze Übung\n1. Warm-up: spiel A-Moll-Pentatonik Box 1 **ohne** Blue Note auf- und abwärts.\n2. Übe dann auf der 5. Saite das Muster **5–6–7–6–5** (D–Eb–E–Eb–D) und spüre Spannung und Auflösung.\n3. Erfinde ein Lick mit 4–6 Tönen, das **mindestens einmal** die Blue Note enthält und auf A, C oder E endet.\n4. Spiel über ein A-Blues- / A7-Backing und baue die Blue Note anfangs pro Phrase **nur einmal** ein. Später kannst du sie auch zweimal verwenden.\n\nZiel: Deinen vertrauten **Moll-Pentatonik-Sound** behalten und die Blue Note nur als kleine Extra-Portion Dreck und Emotion oben drauf setzen.",
+          "ja": "# かんたん練習\n1. ウォームアップ：まずはブルーノートなしで、Aマイナー・ペンタのBox 1を上下に1往復。\n2. 次に5弦でこのパターンを練習：**5–6–7–6–5**（D–Eb–E–Eb–D）。張りと解決の差を感じてみましょう。\n3. 4〜6音くらいの短いフレーズを作り、その中に**必ず1回ブルーノートを入れて**、最後は A・C・E のどれかに着地させます。\n4. Aブルース / A7 のバッキングを流して、最初は1フレーズにつき**1回だけ**ブルーノートを使うように意識。慣れてきたら2回に増やしてみてください。\n\n狙いはシンプルです：いつもの**マイナー・ペンタのサウンド**をベースにして、その上にブルーノートで**少しだけ“汚れ”と感情**を足していきます。",
+          "pt-BR": "# Prática rápida\n1. Aquecimento: toque o box 1 da pentatônica de A menor **sem** a blue note, subindo e descendo.\n2. Depois faça na 5ª corda o padrão **5–6–7–6–5** (D–Eb–E–Eb–D) e sinta a tensão indo e voltando.\n3. Crie um lick de 4 a 6 notas que **obrigatoriamente** use a blue note e termine em A, C ou E.\n4. Coloque um playback em A blues / A7 e, no começo, use a blue note **só uma vez por frase**. Mais tarde, experimente usar duas.\n\nA ideia é simples: manter o som de **pentatônica menor** que você já domina e deixar a blue note só dar aquele toque extra de sujeira e emoção.",
+          "es": "# Práctica rápida\n1. Calentamiento: toca la caja 1 de pentatónica de La menor **sin** la blue note, subiendo y bajando.\n2. Luego practica en la 5ª cuerda el patrón **5–6–7–6–5** (D–Eb–E–Eb–D) y siente la tensión y la resolución.\n3. Crea un lick de 4–6 notas que **tenga que incluir** la blue note y termine en A, C o E.\n4. Pon una base de A blues / A7 y, al principio, usa la blue note **solo una vez por frase**. Más adelante, prueba a usarla dos veces.\n\nLa meta es sencilla: mantener el sonido de **pentatónica menor** que ya conoces, y dejar que la blue note añada solo un poco más de suciedad y emoción."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

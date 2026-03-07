@@ -1,0 +1,73 @@
+{
+  "id": "walking-bass-line-with-a-natural-minor",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Walking with the A natural minor scale\nIn this lesson you’ll build a **simple walking bass line** using only the **A natural minor scale**.\n\nYou’ll play **four quarter notes per bar**, keeping the line moving while clearly outlining the chords.",
+          "zh-Hans": "# 用A自然小调练习行进贝斯\n在本课中，你会只用 **A自然小调音阶** 来编一个简单的**行进贝斯（walking bass）**。\n\n每小节弹 **4个四分音符**，既要让低音线持续前进，又要清楚地勾勒出和弦。",
+          "de": "# Walking Bass mit der A-Natürlich-Moll-Tonleiter\nIn dieser Lektion baust du eine **einfache Walking-Bass-Linie** nur mit der **A-Natürlich-Moll-Tonleiter**.\n\nDu spielst **vier Viertelnoten pro Takt**, damit die Linie fließt und die Akkorde klar hörbar bleiben.",
+          "ja": "# Aナチュラル・マイナーでウォーキング・ベース\nこのレッスンでは、**Aナチュラル・マイナー・スケール**だけを使って、シンプルな**ウォーキング・ベース・ライン**を作ります。\n\n1小節に**4つの4分音符**を入れて、コードをはっきり感じさせながら、ラインを前に進めていきます。",
+          "pt-BR": "# Walking bass com a escala de Lá menor natural\nNesta lição você vai montar uma **linha simples de walking bass**, usando apenas a **escala de Lá menor natural**.\n\nA ideia é tocar **quatro semínimas por compasso**, fazendo a linha andar e, ao mesmo tempo, deixar os acordes bem claros.",
+          "es": "# Walking bass con la escala de La menor natural\nEn esta lección vas a crear una **línea sencilla de walking bass** usando sólo la **escala de La menor natural**.\n\nVas a tocar **cuatro negras por compás**, haciendo que la línea avance mientras marcas bien los acordes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The A natural minor scale\nA natural minor has **no sharps or flats**, like C major, but starts on A:\n\n**A – B – C – D – E – F – G – A**\n\nFor this lesson, every note in your walking line comes from this scale.",
+          "zh-Hans": "# A自然小调音阶\nA自然小调和C大调一样，**没有升号或降号**，只是从A开始：\n\n**A – B – C – D – E – F – G – A**\n\n在本课中，你的行进贝斯所有音都只从这个音阶中选择。",
+          "de": "# Die A-Natürlich-Moll-Tonleiter\nA-Natürlich-Moll hat **keine Vorzeichen**, genau wie C-Dur, beginnt aber auf A:\n\n**A – B – C – D – E – F – G – A**\n\nIn dieser Lektion stammen alle Töne deiner Walking-Linie aus dieser Tonleiter.",
+          "ja": "# Aナチュラル・マイナー・スケール\nAナチュラル・マイナーはCメジャーと同じく、**シャープもフラットもありません**。ただしAから始まります：\n\n**A – B – C – D – E – F – G – A**\n\nこのレッスンでは、ウォーキング・ラインの音はすべてこのスケールから選びます。",
+          "pt-BR": "# A escala de Lá menor natural\nLá menor natural tem **nenhum sustenido ou bemol**, como Dó maior, mas começa em A:\n\n**A – B – C – D – E – F – G – A**\n\nNesta lição, todas as notas da sua linha de walking vêm dessa escala.",
+          "es": "# La escala de La menor natural\nLa menor natural tiene **ningún sostenido ni bemol**, igual que Do mayor, pero empieza en A:\n\n**A – B – C – D – E – F – G – A**\n\nEn esta lección, todas las notas de la línea de walking salen de esta escala."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The walking feel\nA basic walking feel in minor is the same idea:\n\n- **4 quarter notes per bar**\n- Notes mostly move by **step** (next to each other in the scale)\n- You **land on the root** when the chord changes\n\nThink of it as taking small steps inside the A minor scale between chord roots.",
+          "zh-Hans": "# 行进的感觉\n在小调中，行进贝斯的基本思路是一样的：\n\n- 每小节 **4 个四分音符**\n- 音与音之间主要用**级进**（在音阶中相邻）\n- 和弦变化时，要**落在新的主音**上\n\n可以把它理解为：在A小调音阶里，用一个个小步子在各个主音之间走路。",
+          "de": "# Das Walking-Gefühl in Moll\nIm Moll funktioniert das Walking-Gefühl genauso:\n\n- **4 Viertelnoten pro Takt**\n- Die Töne bewegen sich meist **schrittweise** in der Tonleiter\n- Beim Akkordwechsel **landest du auf dem Grundton**\n\nStell dir vor, du machst kleine Schritte innerhalb der A-Moll-Tonleiter, um von Grundton zu Grundton zu kommen.",
+          "ja": "# マイナーでのウォーキングの感覚\nマイナーでも、ウォーキング・ベースの基本は同じです：\n\n- 1小節に **4つの4分音符**\n- 音と音の動きは、できるだけ**スケール上で隣どうし**\n- コードが変わるところで、しっかり**新しいルートに着地**する\n\nAマイナー・スケールの中を、小さな歩幅でルートからルートへ歩いていくイメージです。",
+          "pt-BR": "# O feeling do walking em menor\nEm menor, a ideia do walking é a mesma:\n\n- **4 semínimas por compasso**\n- As notas andam principalmente em **grau conjunto** na escala\n- Quando o acorde muda, você **cai na tônica** dele\n\nPense como dar passos curtos dentro da escala de Lá menor, ligando as tônicas dos acordes.",
+          "es": "# El feel del walking en menor\nEn menor, la idea del walking es la misma:\n\n- **4 negras por compás**\n- Las notas se mueven sobre todo por **movimiento conjunto**\n- Cuando cambia el acorde, **caes en su fundamental**\n\nPiensa que das pasos cortos dentro de la escala de La menor para ir de una fundamental a otra."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Example: 4-bar walking line in A minor\nUse this simple minor progression:\n\n- Bar 1: **A minor (Am)**\n- Bar 2: **D minor (Dm)**\n- Bar 3: **E minor (Em)**\n- Bar 4: **A minor (Am)**\n\nExample walking line (each letter = one quarter note):\n\n- Bar 1 (Am): **A – B – C – E**\n- Bar 2 (Dm): **D – E – F – A**\n- Bar 3 (Em): **E – F – G – B**\n- Bar 4 (Am): **A – C – E – C**\n\nAll notes are inside the A natural minor scale, and each bar **starts on the root** of the chord.",
+          "zh-Hans": "# 示例：A小调4小节行进贝斯\n我们用一个简单的小调和弦进行：\n\n- 第1小节：**A小三和弦 (Am)**\n- 第2小节：**D小三和弦 (Dm)**\n- 第3小节：**E小三和弦 (Em)**\n- 第4小节：**A小三和弦 (Am)**\n\n示例行进贝斯（每个字母 = 一个四分音符）：\n\n- 第1小节（Am）：**A – B – C – E**\n- 第2小节（Dm）：**D – E – F – A**\n- 第3小节（Em）：**E – F – G – B**\n- 第4小节（Am）：**A – C – E – C**\n\n所有音都在A自然小调里，并且每小节都**从对应和弦的主音开始**。",
+          "de": "# Beispiel: 4-taktige Walking-Linie in A-Moll\nNimm diese einfache Moll-Akkordfolge:\n\n- Takt 1: **A-Moll (Am)**\n- Takt 2: **D-Moll (Dm)**\n- Takt 3: **E-Moll (Em)**\n- Takt 4: **A-Moll (Am)**\n\nBeispiel für eine Walking-Linie (jeder Buchstabe = eine Viertelnote):\n\n- Takt 1 (Am): **A – B – C – E**\n- Takt 2 (Dm): **D – E – F – A**\n- Takt 3 (Em): **E – F – G – B**\n- Takt 4 (Am): **A – C – E – C**\n\nAlle Töne stammen aus A-Natürlich-Moll, und jeder Takt **beginnt auf dem Grundton** des Akkords.",
+          "ja": "# 例：Aマイナーで4小節のウォーキング・ライン\nこんなシンプルなマイナー進行を使ってみます：\n\n- 1小節目：**Aマイナー (Am)**\n- 2小節目：**Dマイナー (Dm)**\n- 3小節目：**Eマイナー (Em)**\n- 4小節目：**Aマイナー (Am)**\n\nウォーキング・ラインの例（1文字 = 4分音符1つ）：\n\n- 1小節目（Am）：**A – B – C – E**\n- 2小節目（Dm）：**D – E – F – A**\n- 3小節目（Em）：**E – F – G – B**\n- 4小節目（Am）：**A – C – E – C**\n\nすべてAナチュラル・マイナー・スケールの中の音で、どの小節も**その小節のコードのルートからスタート**しています。",
+          "pt-BR": "# Exemplo: linha de 4 compassos em Lá menor\nUse esta progressão simples em menor:\n\n- Compasso 1: **Lá menor (Am)**\n- Compasso 2: **Ré menor (Dm)**\n- Compasso 3: **Mi menor (Em)**\n- Compasso 4: **Lá menor (Am)**\n\nLinha de walking sugerida (cada letra = uma semínima):\n\n- Compasso 1 (Am): **A – B – C – E**\n- Compasso 2 (Dm): **D – E – F – A**\n- Compasso 3 (Em): **E – F – G – B**\n- Compasso 4 (Am): **A – C – E – C**\n\nTodas as notas estão dentro da escala de Lá menor natural, e cada compasso **começa na tônica** do acorde.",
+          "es": "# Ejemplo: línea de 4 compases en La menor\nPrueba con esta progresión sencilla en menor:\n\n- Compás 1: **La menor (Am)**\n- Compás 2: **Re menor (Dm)**\n- Compás 3: **Mi menor (Em)**\n- Compás 4: **La menor (Am)**\n\nEjemplo de línea de walking (cada letra = una negra):\n\n- Compás 1 (Am): **A – B – C – E**\n- Compás 2 (Dm): **D – E – F – A**\n- Compás 3 (Em): **E – F – G – B**\n- Compás 4 (Am): **A – C – E – C**\n\nTodas las notas están dentro de la escala de La menor natural y cada compás **empieza en la fundamental** del acorde."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Set a metronome to **70–90 BPM**.\n2. Loop the 4-bar line, always playing **4 quarter notes per bar**.\n3. Count out loud: “1-2-3-4” and say the **chord name** at the start of each bar.\n4. When this feels easy, change one or two middle notes per bar, but **keep the root on beat 1**.\n\nIf the groove stays steady while you change notes, your walking in A minor is on the right track.",
+          "zh-Hans": "# 快速练习方案\n1. 把节拍器调到 **70–90 BPM**。\n2. 把这4小节循环弹，始终保持**每小节4个四分音符**。\n3. 大声数拍：“1-2-3-4”，并在每小节开头说出当前的**和弦名**。\n4. 觉得轻松之后，可以每小节改动一两颗中间的音，但**第1拍一定要落在主音上**。\n\n如果你在变换音符时，律动依然稳，那说明你的A小调行进贝斯已经走在正确的路上了。",
+          "de": "# Kurze Übe-Routine\n1. Stell das Metronom auf **70–90 BPM**.\n2. Spiele die 4 Takte in einer Schleife, immer mit **4 Viertelnoten pro Takt**.\n3. Zähle laut „1-2-3-4“ und sag zu Beginn jedes Takts den **Akkordnamen**.\n4. Wenn das leicht fällt, verändere ein oder zwei Mitteltöne pro Takt, aber **lass den Grundton auf Zählzeit 1**.\n\nWenn der Groove stabil bleibt, während du Töne austauschst, bist du mit deinem Walking in A-Moll auf einem guten Weg.",
+          "ja": "# かんたん練習ルーティン\n1. メトロノームを **70〜90 BPM** に設定します。\n2. この4小節のラインをループしながら、常に**1小節4つの4分音符**をキープします。\n3. 声に出して「1-2-3-4」と数え、各小節の頭で**コード名**も言ってみましょう。\n4. 慣れてきたら、各小節の真ん中の音を1〜2個入れ替えてOK。ただし、**1拍目のルートだけは必ず死守**します。\n\nそれでもグルーヴが崩れなければ、Aマイナーでのウォーキング・ベースはかなりいい感じに育ってきています。",
+          "pt-BR": "# Rotina rápida de prática\n1. Coloque o metrônomo em **70–90 BPM**.\n2. Toque essa linha de 4 compassos em loop, sempre com **4 semínimas por compasso**.\n3. Conte em voz alta: “1-2-3-4” e fale o **nome do acorde** no começo de cada compasso.\n4. Quando estiver fácil, mude uma ou duas notas do meio em cada compasso, mas **mantenha a tônica no tempo 1**.\n\nSe o groove continuar firme mesmo trocando algumas notas, o seu walking em Lá menor está no caminho certo.",
+          "es": "# Rutina rápida de práctica\n1. Pon el metrónomo en **70–90 BPM**.\n2. Toca esta línea de 4 compases en bucle, siempre con **4 negras por compás**.\n3. Cuenta en voz alta: “1-2-3-4” y di el **nombre del acorde** al empezar cada compás.\n4. Cuando esto sea fácil, cambia una o dos notas del medio en cada compás, pero **mantén la fundamental en el tiempo 1**.\n\nSi el groove sigue estable mientras cambias algunas notas, tu walking en La menor va por buen camino."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

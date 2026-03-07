@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-and-a-minor-pentatonic-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major and A Minor Pentatonic Scales",
+        "zh-Hans": "C大调与A小调五声音阶",
+        "de": "C-Dur- und a-Moll-Pentatonik",
+        "ja": "CメジャーとAマイナーのペンタトニックスケール",
+        "pt-BR": "Escalas Pentatônicas de Dó Maior e Lá Menor",
+        "es": "Escalas pentatónicas de Do Mayor y La Menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "blues-scale-in-c-patterns-and-riffs",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Scale in C – Patterns and Riffs",
+        "zh-Hans": "C调布鲁斯音阶 —— 模式与乐句",
+        "de": "Blues-Skala in C – Muster und Riffs",
+        "ja": "Cブルーススケール – パターンとリフ",
+        "pt-BR": "Escala Blues em Dó – Padrões e Riffs",
+        "es": "Escala de Blues en Do – Patrones y riffs"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "simple-blues-improvisation-with-right-hand",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Simple Blues Improvisation with Right Hand",
+        "zh-Hans": "右手简单的布鲁斯即兴",
+        "de": "Einfache Blues-Improvisation mit der rechten Hand",
+        "ja": "右手の簡単なブルース即興",
+        "pt-BR": "Improvisação Simples de Blues com a Mão Direita",
+        "es": "Improvisación simple de blues con la mano derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "major-scale-modes-on-piano",
+    "name": {
+      "values": {
+        "en": "Major Scale Modes on Piano",
+        "zh-Hans": "钢琴上的大调调式",
+        "de": "Dur-Tonleiter-Modi auf dem Klavier",
+        "ja": "ピアノでのメジャースケールモード",
+        "pt-BR": "Modos da Escala Maior no Piano",
+        "es": "Modos de la escala mayor en el piano"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Scale Modes on Piano",
+        "zh-Hans": "钢琴上的大调调式",
+        "de": "Dur-Tonleiter-Modi auf dem Klavier",
+        "ja": "ピアノでのメジャースケールモード",
+        "pt-BR": "Modos da Escala Maior no Piano",
+        "es": "Modos de la escala mayor en el piano"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modal-improvisation",
+    "name": {
+      "values": {
+        "en": "Modal Improvisation",
+        "zh-Hans": "调式即兴",
+        "de": "Modale Improvisation",
+        "ja": "モード即興",
+        "pt-BR": "Improvisação Modal",
+        "es": "Improvisación modal"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Modal Improvisation",
+        "zh-Hans": "调式即兴",
+        "de": "Modale Improvisation",
+        "ja": "モード即興",
+        "pt-BR": "Improvisação Modal",
+        "es": "Improvisación modal"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "melodic-etudes",
+    "name": {
+      "values": {
+        "en": "Melodic Etudes",
+        "zh-Hans": "旋律练习曲",
+        "de": "Melodische Etüden",
+        "ja": "メロディックエチュード",
+        "pt-BR": "Estudos Melódicos",
+        "es": "Estudios melódicos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Melodic Etudes",
+        "zh-Hans": "旋律练习曲",
+        "de": "Melodische Etüden",
+        "ja": "メロディックエチュード",
+        "pt-BR": "Estudos Melódicos",
+        "es": "Estudios melódicos"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

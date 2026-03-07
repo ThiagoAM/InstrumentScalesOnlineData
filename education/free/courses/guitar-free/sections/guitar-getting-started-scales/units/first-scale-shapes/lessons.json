@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c-major-one-octave-open",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave (Open Position)",
+        "zh-Hans": "C大调音阶——一组音（开放把位）",
+        "de": "C-Dur-Tonleiter – Eine Oktave (offene Lage)",
+        "ja": "Cメジャー・スケール ― 1オクターブ（オープンポジション）",
+        "pt-BR": "Escala de Dó maior – Uma oitava (posição aberta)",
+        "es": "Escala de Do mayor – Una octava (posición abierta)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play a one-octave C major scale in open position using simple fingering.",
+        "zh-Hans": "在开放把位上，用简单指法弹奏一组音的C大调音阶。",
+        "de": "Spiele eine einoktavige C-Dur-Tonleiter in offener Lage mit einfacher Fingering.",
+        "ja": "シンプルなフィンガリングで、オープンポジションの1オクターブCメジャー・スケールを弾きます。",
+        "pt-BR": "Toque uma escala de Dó maior de uma oitava em posição aberta com digitação simples.",
+        "es": "Toca una escala de Do mayor de una octava en posición abierta con digitación sencilla."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "a-minor-pentatonic-box-1",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "A Minor Pentatonic – Box 1",
+        "zh-Hans": "A小调五声音阶——第1指型",
+        "de": "A-Moll-Pentatonik – Box 1",
+        "ja": "Aマイナー・ペンタトニック ― ボックス1",
+        "pt-BR": "Pentatônica de Lá menor – Desenho 1",
+        "es": "Pentatónica de La menor – Caja 1"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn the classic A minor pentatonic box 1 shape for rock and blues.",
+        "zh-Hans": "学习经典的A小调五声音阶第1指型，适用于摇滚和布鲁斯。",
+        "de": "Lerne die klassische A-Moll-Pentatonik-Box 1 für Rock und Blues.",
+        "ja": "ロックやブルースで定番のAマイナー・ペンタトニック、ボックス1の形を学びます。",
+        "pt-BR": "Aprenda o clássico desenho 1 da pentatônica de Lá menor para rock e blues.",
+        "es": "Aprende la clásica caja 1 de la pentatónica de La menor para rock y blues."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

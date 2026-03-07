@@ -1,0 +1,86 @@
+[
+  {
+    "id": "parallel-motion-scales-two-octaves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Parallel Motion Scales, Two Octaves",
+        "zh-Hans": "两个八度的平行运动音阶",
+        "de": "Tonleitern in Parallelbewegung, zwei Oktaven",
+        "ja": "2オクターブの平行進行スケール",
+        "pt-BR": "Escalas em Movimento Paralelo, Duas Oitavas",
+        "es": "Escalas en movimiento paralelo, dos octavas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "contrary-motion-scales-in-c-and-g",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Contrary Motion Scales in C and G",
+        "zh-Hans": "C大调与G大调的反向运动音阶",
+        "de": "Tonleitern in Gegenbewegung in C und G",
+        "ja": "CとGの反進行スケール",
+        "pt-BR": "Escalas em Movimento Contrário em Dó e Sol",
+        "es": "Escalas en movimiento contrario en Do y Sol"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scale-sequences-in-thirds-and-sixths",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Sequences in Thirds and Sixths",
+        "zh-Hans": "三度与六度模进音阶",
+        "de": "Skalensequenzen in Terzen und Sexten",
+        "ja": "3度と6度のスケールシーケンス",
+        "pt-BR": "Sequências de Escala em Terças e Sextas",
+        "es": "Secuencias de escalas en terceras y sextas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

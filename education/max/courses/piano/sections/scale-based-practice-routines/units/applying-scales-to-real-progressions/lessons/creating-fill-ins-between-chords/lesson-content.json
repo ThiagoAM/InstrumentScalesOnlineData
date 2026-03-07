@@ -1,0 +1,86 @@
+{
+  "id": "creating-fill-ins-between-chords",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Creating fill-ins between chords\nIn this lesson you’ll use the **C major scale** to create short **fill-ins** in the gaps between chords.\n\nInstead of holding every chord for the whole bar, you’ll keep a simple groove and let the right hand play 1–2 beat ideas that lead smoothly into the next chord.",
+          "zh-Hans": "# 在和弦之间做小填充\n在本课中，你会用 **C大调音阶** 在和弦之间做一些简短的 **填充乐句（fill-ins）**。\n\n不再把每个和弦都按满一整小节，而是在保持简单律动的同时，让右手用 1–2 拍的小乐句顺滑地带入下一个和弦。",
+          "de": "# Fill-ins zwischen Akkorden gestalten\nIn dieser Lektion benutzt du die **C-Dur-Tonleiter**, um kurze **Fill-ins** in die Lücken zwischen den Akkorden zu setzen.\n\nAnstatt jeden Akkord den ganzen Takt zu halten, behältst du einen einfachen Groove bei und lässt die rechte Hand 1–2 schlagige Ideen spielen, die sanft in den nächsten Akkord führen.",
+          "ja": "# コードの間にフィルを入れる\nこのレッスンでは、**Cメジャー・スケール**を使って、コードとコードの間に短い**フィル（fill-in）**を入れていきます。\n\n1小節まるごとコードをのばすのではなく、シンプルなグルーヴを保ちながら、右手で1〜2拍くらいの小さなフレーズを弾いて、次のコードへ自然につなげるのが狙いです。",
+          "pt-BR": "# Criando fills entre os acordes\nNesta lição você vai usar a **escala de Dó maior (C)** para criar pequenos **fills** nos espaços entre os acordes.\n\nEm vez de segurar cada acorde o compasso inteiro, você mantém um groove simples e deixa a mão direita tocar ideias de 1–2 tempos que levam de forma suave para o próximo acorde.",
+          "es": "# Crear fills entre los acordes\nEn esta lección vas a usar la **escala de Do mayor (C)** para crear pequeños **fills** en los huecos entre los acordes.\n\nEn lugar de sostener cada acorde durante todo el compás, mantendrás un groove sencillo y dejarás que la mano derecha toque ideas de 1–2 tiempos que conduzcan con suavidad al siguiente acorde."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Chord framework\nUse the pop progression **C – G – Am – F** in 4/4.\n\n**Left hand** (simple triads):\n- C: C–E–G\n- G: G–B–D\n- Am: A–C–E\n- F: F–A–C\n\nPlay **one chord per bar**. Start each bar by playing (or lightly rolling) the chord, then let it ring while the right hand creates a fill near the end of the bar.",
+          "zh-Hans": "# 和弦框架\n使用4/4拍的流行和弦进行 **C – G – Am – F**。\n\n**左手**（简单三和弦）：\n- C：C–E–G\n- G：G–B–D\n- Am：A–C–E\n- F：F–A–C\n\n每小节弹**一个和弦**。在小节开头弹出（或轻轻滚奏）和弦，让它延音；接近小节末尾时，再由右手加上一个小填充乐句。",
+          "de": "# Akkordrahmen\nVerwende die Pop-Folge **C – G – Am – F** im 4/4-Takt.\n\n**Linke Hand** (einfache Dreiklänge):\n- C: C–E–G\n- G: G–B/H–D\n- Am: A–C–E\n- F: F–A–C\n\nSpiele **einen Akkord pro Takt**. Am Anfang jedes Taktes spielst du den Akkord (oder rollst ihn leicht) und lässt ihn klingen, während die rechte Hand gegen Ende des Taktes ein Fill einfügt.",
+          "ja": "# コードの土台\n4/4で **C – G – Am – F** のポップス定番進行を使います。\n\n**左手**（シンプルな3和音）：\n- C：C–E–G\n- G：G–B–D\n- Am：A–C–E\n- F：F–A–C\n\n1小節につき**1つのコード**を弾きます。小節の頭でコードを弾いて（軽くアルペジオにしてもOK）、そのままのばしつつ、小節の終わり付近で右手がフィルを入れるイメージです。",
+          "pt-BR": "# Estrutura de acordes\nUse a progressão pop **C – G – Am – F** em 4/4.\n\n**Mão esquerda** (tríades simples):\n- C: C–E–G\n- G: G–B–D\n- Am: A–C–E\n- F: F–A–C\n\nToque **um acorde por compasso**. No início do compasso toque (ou arpeje de leve) o acorde e deixe soar, enquanto a mão direita cria o fill perto do final do compasso.",
+          "es": "# Marco de acordes\nUsa la progresión pop **C – G – Am – F** en 4/4.\n\n**Mano izquierda** (tríadas simples):\n- C: C–E–G\n- G: G–B–D\n- Am: A–C–E\n- F: F–A–C\n\nToca **un acorde por compás**. Al comienzo de cada compás toca (o arpegia suavemente) el acorde y déjalo sonar, mientras la mano derecha crea el fill cerca del final del compás."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fill type 1 – Step up into the next chord\nWe’ll start with fills on **beat 4** using C major.\n\nExample over the first two bars:\n- Bar 1 (C → G):\n  - Beats 1–3: hold C chord\n  - Beat 4 (right hand): **E–F–G** (three 8th notes, aiming at G)\n- Bar 2 (G → Am):\n  - Beats 1–3: hold G chord\n  - Beat 4: **A–B–C** (aiming at a chord tone of Am)\n\nUse **small stepwise climbs** that land on a note from the next chord right on beat 1.",
+          "zh-Hans": "# 填充类型1 – 级进上行，走向下一个和弦\n先从落在 **第4拍** 的填充开始，用C大调音阶。\n\n前两小节示例：\n- 第1小节（C → G）：\n  - 第1–3拍：按住C和弦\n  - 第4拍（右手）：**E–F–G**（三个八分音符，以 G 为目标）\n- 第2小节（G → Am）：\n  - 第1–3拍：按住G和弦\n  - 第4拍：**A–B–C**（落在Am的和弦音上）\n\n关键是用**级进上行的小片段**，并在下一小节的第1拍刚好落在下一个和弦的音上。",
+          "de": "# Fill-Typ 1 – Schrittweise aufwärts in den nächsten Akkord\nWir beginnen mit Fills auf **Zählzeit 4** in C-Dur.\n\nBeispiel über die ersten beiden Takte:\n- Takt 1 (C → G):\n  - Zählzeit 1–3: C-Akkord halten\n  - Zählzeit 4 (rechte Hand): **E–F–G** (drei Achtel, Ziel G)\n- Takt 2 (G → Am):\n  - Zählzeit 1–3: G-Akkord halten\n  - Zählzeit 4: **A–B/H–C** (Zielton aus dem Am-Akkord)\n\nBenutze **kleine, schrittweise Aufwärtsläufe**, die auf Zählzeit 1 genau auf einem Ton des nächsten Akkords landen.",
+          "ja": "# フィル1 – 次のコードへ向かう上行ステップ\nまずは **4拍目** に入れるフィルから始めます。音はCメジャー・スケールを使います。\n\n最初の2小節の例：\n- 1小節目（C → G）：\n  - 拍1〜3：Cコードをホールド\n  - 拍4（右手）：**E–F–G**（8分音符3つ。Gに向かって上がる）\n- 2小節目（G → Am）：\n  - 拍1〜3：Gコードをホールド\n  - 拍4：**A–B–C**（次のAmの構成音に着地）\n\nポイントは、**音階を1音ずつ上がる小さなフレーズ**で、次の小節の頭でしっかり次のコードの音に着地することです。",
+          "pt-BR": "# Tipo de fill 1 – Subida por graus conjuntos até o próximo acorde\nVamos começar com fills na **batida 4**, usando a escala de Dó maior.\n\nExemplo nos dois primeiros compassos:\n- Compasso 1 (C → G):\n  - Tempos 1–3: segura o acorde de C\n  - Tempo 4 (mão direita): **E–F–G** (três colcheias, apontando para G)\n- Compasso 2 (G → Am):\n  - Tempos 1–3: segura o acorde de G\n  - Tempo 4: **A–B–C** (chegando em um som do acorde de Am)\n\nUse **subidas por graus conjuntos**, pequenas, que pousam em uma nota do próximo acorde exatamente no tempo 1.",
+          "es": "# Tipo de fill 1 – Subir por grados hacia el siguiente acorde\nEmpezaremos con fills en el **tiempo 4**, usando Do mayor.\n\nEjemplo sobre los dos primeros compases:\n- Compás 1 (C → G):\n  - Tiempos 1–3: sostener el acorde de C\n  - Tiempo 4 (mano derecha): **E–F–G** (tres corcheas, apuntando a G)\n- Compás 2 (G → Am):\n  - Tiempos 1–3: sostener el acorde de G\n  - Tiempo 4: **A–B–C** (aterrizando en una nota del acorde de Am)\n\nLa idea es usar **pequeñas subidas por grados conjuntos** que aterricen en una nota del siguiente acorde justo en el tiempo 1."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fill type 2 – Step down into the next chord\nNow try **descending** fills.\n\nExample:\n- Bar 3 (Am → F):\n  - Beats 1–3: hold Am\n  - Beat 4: **E–D–C** (down the scale, landing near F chord tones)\n- Bar 4 (F → back to C):\n  - Beats 1–3: hold F\n  - Beat 4: **G–F–E** (leading back toward C or E)\n\nMix ascending and descending fills so your lines don’t always move in one direction.",
+          "zh-Hans": "# 填充类型2 – 级进下行，走向下一个和弦\n现在试试**下行**的填充。\n\n示例：\n- 第3小节（Am → F）：\n  - 第1–3拍：按住Am\n  - 第4拍：**E–D–C**（音阶下行，靠近F和弦相关音）\n- 第4小节（F → 回到C）：\n  - 第1–3拍：按住F\n  - 第4拍：**G–F–E**（引回C或E）\n\n把上行和下行的填充混合使用，这样旋律就不会一直朝一个方向走。",
+          "de": "# Fill-Typ 2 – Schrittweise abwärts in den nächsten Akkord\nJetzt probierst du **absteigende** Fills.\n\nBeispiel:\n- Takt 3 (Am → F):\n  - Zählzeit 1–3: Am halten\n  - Zählzeit 4: **E–D–C** (Tonleiter abwärts, in der Nähe der F-Akkordtöne)\n- Takt 4 (F → zurück zu C):\n  - Zählzeit 1–3: F halten\n  - Zählzeit 4: **G–F–E** (führt zurück zu C oder E)\n\nKombiniere aufsteigende und absteigende Fills, damit deine Linien nicht immer nur in eine Richtung laufen.",
+          "ja": "# フィル2 – 次のコードへ向かう下行ステップ\n次は**下向きのフィル**を試してみましょう。\n\n例：\n- 3小節目（Am → F）：\n  - 拍1〜3：Amをホールド\n  - 拍4：**E–D–C**（スケールを下りながらFコードの音域に近づく）\n- 4小節目（F → Cに戻る）：\n  - 拍1〜3：Fをホールド\n  - 拍4：**G–F–E**（CやEに戻っていく感じ）\n\n上行フィルと下行フィルを混ぜて使うと、フレーズの動きが一方向だけにならず、より自然に聞こえます。",
+          "pt-BR": "# Tipo de fill 2 – Descendo até o próximo acorde\nAgora experimente fills **descendo**.\n\nExemplo:\n- Compasso 3 (Am → F):\n  - Tempos 1–3: segure Am\n  - Tempo 4: **E–D–C** (descendo na escala, chegando perto dos sons do acorde de F)\n- Compasso 4 (F → volta para C):\n  - Tempos 1–3: segure F\n  - Tempo 4: **G–F–E** (voltando em direção a C ou E)\n\nMisture fills subindo e descendo para que suas linhas não sigam sempre a mesma direção.",
+          "es": "# Tipo de fill 2 – Bajar hacia el siguiente acorde\nAhora prueba fills **descendentes**.\n\nEjemplo:\n- Compás 3 (Am → F):\n  - Tiempos 1–3: sostener Am\n  - Tiempo 4: **E–D–C** (bajando por la escala, acercándose a los tonos del acorde de F)\n- Compás 4 (F → regreso a C):\n  - Tiempos 1–3: sostener F\n  - Tiempo 4: **G–F–E** (volviendo hacia C o E)\n\nMezcla fills ascendentes y descendentes para que tus líneas no se muevan siempre en la misma dirección."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fill type 3 – Chord tone plus neighbor\nA very safe, musical fill:\n\n1. Choose a **chord tone of the next chord**.\n2. Play a **neighbor note** (one step above or below) and come back.\n\nExample, G → Am:\n- Aim note (next chord): **A**\n- Fill on beat 4: **B–A–G–A** or **G–A–G–A** (4 quick 16th notes, or two 8ths if you prefer)\n\nThis gives a little “question–answer” sound right before the chord change.",
+          "zh-Hans": "# 填充类型3 – 和弦音 + 邻音\n这一种既安全又好听：\n\n1. 先选好**下一个和弦的和弦音**。\n2. 用一个**邻音**（高一度或低一度）绕一下再回到目标音。\n\n例如 G → Am：\n- 目标音（下一个和弦的音）：**A**\n- 第4拍的填充：**B–A–G–A** 或 **G–A–G–A**（可以当作4个十六分音符，也可以只用两个八分音符简单处理）\n\n这样在换和弦前，会产生一个小小的“问–答”式效果。",
+          "de": "# Fill-Typ 3 – Akkordton plus Nebenton\nEin sehr sicherer, musikalischer Fill:\n\n1. Wähle einen **Akkordton des nächsten Akkords**.\n2. Spiele einen **Nebenton** (einen Schritt darüber oder darunter) und kehre zurück.\n\nBeispiel G → Am:\n- Zieltont (nächster Akkord): **A**\n- Fill auf Zählzeit 4: **B/H–A–G–A** oder **G–A–G–A** (als vier Sechzehntel oder einfacher als zwei Achtel)\n\nSo entsteht direkt vor dem Akkordwechsel ein kleiner „Frage–Antwort“-Effekt.",
+          "ja": "# フィル3 – コードトーン＋隣接音\nとても安全で音楽的なフィルです。\n\n1. まず、**次のコードの構成音**を1つ決めます。\n2. その音の**隣の音（上か下に1度）**を通って、また戻ってきます。\n\n例：G → Am のとき\n- ねらいの音（次のコードの音）：**A**\n- 4拍目のフィル：**B–A–G–A** や **G–A–G–A**（速めなら16分音符4つ、ゆっくりなら8分音符2つでもOK）\n\nコードチェンジ直前に、ちょっとした「問いかけ→答え」のような響きが生まれます。",
+          "pt-BR": "# Tipo de fill 3 – Nota do acorde + vizinha\nUm fill bem seguro e musical:\n\n1. Escolha uma **nota do acorde seguinte**.\n2. Toque uma **nota vizinha** (um grau acima ou abaixo) e volte para a nota alvo.\n\nExemplo, G → Am:\n- Nota alvo (do próximo acorde): **A**\n- Fill no tempo 4: **B–A–G–A** ou **G–A–G–A** (pode pensar em 4 semicolcheias ou simplificar em 2 colcheias)\n\nIsso cria um pequeno efeito de “pergunta–resposta” logo antes da troca de acorde.",
+          "es": "# Tipo de fill 3 – Nota de acorde + vecina\nUn fill muy seguro y musical:\n\n1. Elige una **nota del acorde siguiente**.\n2. Toca una **nota vecina** (un grado arriba o abajo) y vuelve a la nota objetivo.\n\nEjemplo, G → Am:\n- Nota objetivo (del acorde siguiente): **A**\n- Fill en el tiempo 4: **B–A–G–A** o **G–A–G–A** (puede sentirse como 4 semicorcheas o simplificarse en 2 corcheas)\n\nAsí consigues un pequeño efecto de “pregunta–respuesta” justo antes del cambio de acorde."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice plan\n1. **Hands separate**\n   - Left hand: loop C – G – Am – F, one bar each.\n   - Right hand: practice each fill type alone on beat 4.\n2. **Hands together, slow**\n   - Start around ♩ = 60.\n   - Keep chords soft and fills clearly in time.\n3. **Mix and match**\n   - On each bar, choose either an **up**, **down** or **neighbor** fill.\n   - Leave some bars with **no fill** so the texture can breathe.\n\nAs this gets comfortable, move the same idea to other keys and progressions you like.",
+          "zh-Hans": "# 练习计划\n1. **分手练习**\n   - 左手：循环弹 C – G – Am – F，每个和弦一小节。\n   - 右手：单独练三种不同类型的填充，都放在第4拍上。\n2. **双手合起来，慢速**\n   - 从大约 ♩ = 60 开始。\n   - 和弦弹得柔和一点，填充要在节拍上清晰出现。\n3. **自由组合**\n   - 每小节自由选择：**上行填充、下行填充或邻音填充**之一。\n   - 有些小节可以**不加填充**，让音乐有呼吸空间。\n\n当这些都变得自然之后，就可以把同样的思路移到别的调性和你喜欢的其他和弦进行上。",
+          "de": "# Übeplan\n1. **Getrennte Hände**\n   - Linke Hand: C – G – Am – F in Dauerschleife, je ein Takt pro Akkord.\n   - Rechte Hand: jeden Fill-Typ einzeln auf Zählzeit 4 üben.\n2. **Beide Hände, langsam**\n   - Starte bei etwa ♩ = 60.\n   - Akkorde weich spielen, Fills klar im Zeitraster platzieren.\n3. **Mischen und variieren**\n   - Wähle pro Takt entweder ein **aufwärts-, abwärts-** oder **Nachbarton-Fill**.\n   - Lass zwischendurch Takte **ganz ohne Fill**, damit die Textur atmen kann.\n\nWenn sich das bequem anfühlt, übertrage dieselbe Idee auf andere Tonarten und Progressionen, die du magst.",
+          "ja": "# 練習プラン\n1. **片手ずつ**\n   - 左手：C – G – Am – F をループし、各コード1小節ずつ。\n   - 右手：3種類のフィルを、それぞれ単独で4拍目に入れる練習。\n2. **両手でゆっくり**\n   - ♩ = 60 前後から始めましょう。\n   - コードはやわらかく、フィルはリズムにピッタリ乗るように意識します。\n3. **組み合わせて遊ぶ**\n   - 各小節ごとに、**上行フィル・下行フィル・隣接音フィル**のどれかを選んで入れてみます。\n   - ときどきあえて**フィルを入れない小節**も作って、サウンドに余白を残しましょう。\n\n慣れてきたら、同じアイデアを他のキーや好きな進行にも移してみてください。",
+          "pt-BR": "# Plano de estudo\n1. **Mãos separadas**\n   - Mão esquerda: faça um loop em C – G – Am – F, um compasso para cada acorde.\n   - Mão direita: pratique cada tipo de fill sozinho na batida 4.\n2. **Mãos juntas, devagar**\n   - Comece por volta de ♩ = 60.\n   - Deixe os acordes suaves e coloque os fills bem em cima do tempo.\n3. **Misture os tipos**\n   - Em cada compasso, escolha um fill **subindo, descendo ou com nota vizinha**.\n   - De vez em quando, deixe um compasso **sem fill** para a textura poder respirar.\n\nQuando isso estiver confortável, leve a mesma ideia para outras tonalidades e progressões que você gosta.",
+          "es": "# Plan de práctica\n1. **Manos separadas**\n   - Mano izquierda: haz un bucle con C – G – Am – F, un compás por acorde.\n   - Mano derecha: practica cada tipo de fill por separado en el tiempo 4.\n2. **Manos juntas, despacio**\n   - Empieza alrededor de ♩ = 60.\n   - Mantén los acordes suaves y coloca los fills bien dentro del pulso.\n3. **Combina y juega**\n   - En cada compás, elige un fill **ascendente, descendente o con nota vecina**.\n   - Deja algunos compases **sin fill** para que la textura respire.\n\nCuando esto se sienta cómodo, lleva la misma idea a otras tonalidades y progresiones que te gusten."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "designing-a-10-minute-warm-up-using-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Designing a 10-Minute Warm-Up Using Scales",
+        "zh-Hans": "设计基于音阶的10分钟热身练习",
+        "de": "Gestaltung eines 10-minütigen Aufwärmtrainings mit Skalen",
+        "ja": "スケールを使った10分間のウォームアップの設計",
+        "pt-BR": "Projetando um Aquecimento de 10 Minutos Usando Escalas",
+        "es": "Diseño de un calentamiento de 10 minutos usando escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "balancing-technique-theory-and-creativity",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Balancing Technique, Theory, and Creativity",
+        "zh-Hans": "平衡技巧、理论与创造力",
+        "de": "Balance zwischen Technik, Theorie und Kreativität",
+        "ja": "テクニック、理論、創造性のバランス",
+        "pt-BR": "Equilibrando Técnica, Teoria e Criatividade",
+        "es": "Equilibrio entre técnica, teoría y creatividad"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

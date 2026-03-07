@@ -1,0 +1,86 @@
+[
+  {
+    "id": "open-strings-and-octave-shapes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Open Strings and Octave Shapes",
+        "zh-Hans": "空弦与八度音形",
+        "de": "Leersaiten und Oktavformen",
+        "ja": "オープン弦とオクターブ形",
+        "pt-BR": "Cordas soltas e formas de oitava",
+        "es": "Cuerdas al aire y formas de octava"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "5th-and-7th-fret-landmarks-on-all-strings",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "5th and 7th Fret Landmarks on All Strings",
+        "zh-Hans": "所有弦的第5与第7品定位点",
+        "de": "Orientierungspunkte am 5. und 7. Bund auf allen Saiten",
+        "ja": "全ての弦における5フレットと7フレットのランドマーク",
+        "pt-BR": "Pontos de referência nos trastes 5 e 7 em todas as cordas",
+        "es": "Puntos de referencia en los trastes 5 y 7 en todas las cuerdas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve。",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "visualizing-the-neck-in-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Visualizing the Neck in Positions",
+        "zh-Hans": "按位置可视化指板",
+        "de": "Das Griffbrett positionsweise visualisieren",
+        "ja": "ポジションごとにネックをイメージする",
+        "pt-BR": "Visualizando o braço em posições",
+        "es": "Visualizar el mástil por posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve。",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

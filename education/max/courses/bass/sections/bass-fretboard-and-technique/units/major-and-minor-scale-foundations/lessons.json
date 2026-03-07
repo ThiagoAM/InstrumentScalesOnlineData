@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-two-octave-scale-position-based",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Two-Octave Scale – Position-Based",
+        "zh-Hans": "C大调两组八度音阶（基于位置）",
+        "de": "C-Dur-Zweioctaven-Tonleiter – positionsbasiert",
+        "ja": "Cメジャー2オクターブ・スケール（ポジション基準）",
+        "pt-BR": "Escala de Dó maior em duas oitavas — baseada em posições",
+        "es": "Escala de Do mayor de dos octavas — basada en posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-natural-minor-scale-in-multiple-positions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Natural Minor Scale in Multiple Positions",
+        "zh-Hans": "A自然小调音阶（多位置）",
+        "de": "A-Natürlich-Moll in mehreren Positionen",
+        "ja": "Aナチュラルマイナースケール（複数ポジション）",
+        "pt-BR": "Escala de Lá menor natural em múltiplas posições",
+        "es": "Escala de La menor natural en múltiples posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "connecting-major-and-minor-shapes-across-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connecting Major and Minor Shapes Across the Neck",
+        "zh-Hans": "在指板上连接大调与小调音型",
+        "de": "Dur- und Moll-Formen über das Griffbrett verbinden",
+        "ja": "ネック全体でメジャー／マイナーの形をつなぐ",
+        "pt-BR": "Conectando formas maiores e menores pelo braço",
+        "es": "Conectando formas mayores y menores a lo largo del mástil"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

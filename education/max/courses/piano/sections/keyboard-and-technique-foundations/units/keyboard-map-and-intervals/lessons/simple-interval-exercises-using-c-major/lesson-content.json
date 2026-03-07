@@ -1,0 +1,86 @@
+{
+  "id": "simple-interval-exercises-using-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple interval exercises in C major\nIn this lesson you’ll practice **intervals** using only the notes of the C major scale around middle C.\n\nYou’ll play:\n- 2nds (neighbor notes)\n- 3rds\n- 4ths and 5ths\n\nAll with very small, friendly shapes.",
+          "zh-Hans": "# 用C大调练习简单音程\n本课你会在中央C附近，只用 C 大调音阶的音来练习**音程**。\n\n你会弹到：\n- 二度（相邻的两个音）\n- 三度\n- 四度和五度\n\n这些都是手型很小、很好上手的音程。",
+          "de": "# Einfache Intervallübungen in C-Dur\nIn dieser Lektion übst du **Intervalle** nur mit den Tönen der C-Dur-Tonleiter rund um das mittlere C.\n\nDu spielst:\n- Sekunden (Nachbartöne)\n- Terzen\n- Quarten und Quinten\n\nAlles in kleinen, gut greifbaren Formen.",
+          "ja": "# Cメジャーでのかんたんな音程練習\nこのレッスンでは、真ん中のCのまわりで、Cメジャー・スケールの音だけを使って**音程**を練習します。\n\n練習するのは：\n- 2度（となり合う音）\n- 3度\n- 4度と5度\n\nどれも手の形が小さくて、弾きやすいものばかりです。",
+          "pt-BR": "# Exercícios simples de intervalos em Dó maior\nNesta lição você vai treinar **intervalos** usando só as notas da escala de Dó maior em volta do Dó central.\n\nVocê vai tocar:\n- 2as (notas vizinhas)\n- 3as\n- 4as e 5as\n\nTudo com desenhos bem pequenos e amigáveis para a mão.",
+          "es": "# Ejercicios simples de intervalos en Do mayor\nEn esta lección vas a practicar **intervalos** usando solo las notas de la escala de Do mayor alrededor del Do central.\n\nVas a tocar:\n- 2ªs (notas vecinas)\n- 3ªs\n- 4ªs y 5ªs\n\nTodo con formas muy pequeñas y cómodas para la mano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Set up: C major around middle C\n1. Find **middle C**.\n2. Right hand: put your **thumb (1)** on C, then 2–3–4–5 on D–E–F–G.\n3. Left hand: put your **little finger (5)** on the C below middle C, then 4–3–2–1 on D–E–F–G.\n\nPlay each exercise **hands separate** first. Keep your wrist relaxed and press the keys gently.",
+          "zh-Hans": "# 准备手型：中央C附近的C大调\n1. 先找到**中央C**。\n2. 右手：把**拇指（1指）**放在 C 上，2–3–4–5 分别放在 D–E–F–G 上。\n3. 左手：把**小指（5指）**放在中央C下面的那个 C 上，4–3–2–1 分别放在 D–E–F–G 上。\n\n一开始先用**单手**练习每个小练习。手腕放松，轻松下键，不要用力砸键。",
+          "de": "# Ausgangsposition: C-Dur um das mittlere C\n1. Finde das **mittlere C**.\n2. Rechte Hand: **Daumen (1)** auf C, dann 2–3–4–5 auf D–E–F–G.\n3. Linke Hand: **kleiner Finger (5)** auf das C unter dem mittleren C, dann 4–3–2–1 auf D–E–F–G.\n\nSpiele jede Übung zuerst **mit getrennten Händen**. Halte das Handgelenk locker und drücke die Tasten sanft.",
+          "ja": "# 準備：真ん中のCを中心にCメジャー\n1. まず**真ん中のC（ミドルC）**を見つけます。\n2. 右手：**親指（1の指）**をCに置き、2–3–4–5の指をD–E–F–Gに乗せます。\n3. 左手：**小指（5の指）**を真ん中のCの1つ下のCに置き、4–3–2–1の指をD–E–F–Gに乗せます。\n\n最初は必ず**片手ずつ**練習しましょう。手首はリラックスさせて、鍵盤はやさしく押します。",
+          "pt-BR": "# Preparando a mão: Dó maior em volta do Dó central\n1. Encontre o **Dó central**.\n2. Mão direita: coloque o **polegar (1)** no C, depois 2–3–4–5 no D–E–F–G.\n3. Mão esquerda: coloque o **mindinho (5)** no C abaixo do Dó central, depois 4–3–2–1 no D–E–F–G.\n\nToque cada exercício primeiro com as mãos **separadas**. Mantenha o pulso solto e pressione as teclas com leveza.",
+          "es": "# Preparación: Do mayor alrededor del Do central\n1. Encuentra el **Do central**.\n2. Mano derecha: pon el **pulgar (1)** en C, luego 2–3–4–5 en D–E–F–G.\n3. Mano izquierda: pon el **meñique (5)** en el C por debajo del Do central, luego 4–3–2–1 en D–E–F–G.\n\nToca cada ejercicio primero con las manos **por separado**. Mantén la muñeca suelta y presiona las teclas con suavidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 1 – 2nds (stepwise)\nPlay pairs of neighbor notes, up and down the scale.\n\nRight hand:\n- C–D, D–E, E–F, F–G, G–A, A–B\n- Then back down: B–A, A–G, G–F, F–E, E–D, D–C\n\nDo the same pattern with the **left hand**.\n\nAim for:\n- Even sound between both notes\n- Smooth connection (no gaps or overlap)\n- Slow, steady tempo",
+          "zh-Hans": "# 练习1 – 二度（级进）\n用二度音程，也就是相邻的两个音，上下弹一遍音阶。\n\n右手：\n- C–D, D–E, E–F, F–G, G–A, A–B\n- 再下行：B–A, A–G, G–F, F–E, E–D, D–C\n\n用**左手**做一遍同样的模式。\n\n练习目标：\n- 两个音的音量尽量均匀\n- 连接要顺滑（不要断、也不要糊在一起）\n- 速度可以慢，但要稳定",
+          "de": "# Übung 1 – Sekunden (Schrittweise Bewegung)\nSpiele Paare aus benachbarten Tönen aufwärts und abwärts.\n\nRechte Hand:\n- C–D, D–E, E–F, F–G, G–A, A–B\n- Dann abwärts: B–A, A–G, G–F, F–E, E–D, D–C\n\nSpiele dasselbe Muster mit der **linken Hand**.\n\nZiele:\n- Gleichmäßige Lautstärke beider Töne\n- Weiche Verbindung (keine Lücken, kein Überlappen)\n- Langsames, stabiles Tempo",
+          "ja": "# エクササイズ1 – 2度（となりどうし）\n2度＝となり合う音のペアを、スケールにそって上下に弾きます。\n\n右手：\n- C–D, D–E, E–F, F–G, G–A, A–B\n- そのあと下向き：B–A, A–G, G–F, F–E, E–D, D–C\n\n同じパターンを**左手**でも行いましょう。\n\nポイント：\n- 2つの音の音量をそろえる\n- 音と音のつながりをなめらかに（切れたり、重なりすぎたりしない）\n- ゆっくりでかまわないのでテンポを一定に",
+          "pt-BR": "# Exercício 1 – 2as (movimento de grau conjunto)\nToque pares de notas vizinhas, subindo e descendo a escala.\n\nMão direita:\n- C–D, D–E, E–F, F–G, G–A, A–B\n- Depois descendo: B–A, A–G, G–F, F–E, E–D, D–C\n\nRepita o mesmo padrão com a **mão esquerda**.\n\nBusque:\n- Som equilibrado entre as duas notas\n- Ligação suave (sem buracos e sem “embolado”)\n- Tempo lento, mas constante",
+          "es": "# Ejercicio 1 – 2ªs (movimiento conjunto)\nToca pares de notas vecinas, subiendo y bajando la escala.\n\nMano derecha:\n- C–D, D–E, E–F, F–G, G–A, A–B\n- Luego hacia abajo: B–A, A–G, G–F, F–E, E–D, D–C\n\nHaz el mismo patrón con la **mano izquierda**.\n\nObjetivo:\n- Sonido equilibrado entre las dos notas\n- Conexión suave (sin cortes ni solaparse demasiado)\n- Tempo lento pero estable"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 2 – 3rds\nNow skip one note in between.\n\nPlay:\n- C–E, D–F, E–G, F–A, G–B\n- Then back down: B–G, A–F, G–E, F–D, E–C\n\nPlay with the right hand, then with the left hand.\n\nListen for:\n- The slightly **wider, sweeter** sound of 3rds\n- Both notes starting and ending **exactly together**",
+          "zh-Hans": "# 练习2 – 三度\n现在每一对音中间**跳过一个音**。\n\n弹：\n- C–E, D–F, E–G, F–A, G–B\n- 再下行：B–G, A–F, G–E, F–D, E–C\n\n先用右手弹，再用左手弹。\n\n注意听：\n- 三度的声音比二度**更宽、更甜**\n- 两个音要**同时按下、同时放开**",
+          "de": "# Übung 2 – Terzen\nJetzt lässt du immer **einen Ton dazwischen** aus.\n\nSpiele:\n- C–E, D–F, E–G, F–A, G–B\n- Dann abwärts: B–G, A–F, G–E, F–D, E–C\n\nZuerst mit der rechten Hand, dann mit der linken.\n\nAchte darauf:\n- Terzen klingen **weiter und „süßer“** als Sekunden\n- Beide Töne sollen **genau gleichzeitig** beginnen und enden",
+          "ja": "# エクササイズ2 – 3度\nこんどは音を1つ**飛ばして**弾きます。\n\n次のように弾きましょう：\n- C–E, D–F, E–G, F–A, G–B\n- そのあと下向き：B–G, A–F, G–E, F–D, E–C\n\nまず右手で、次に左手で行います。\n\nよく聞いてほしいポイント：\n- 3度は2度より少し**広くて、やわらかい**響き\n- 2つの音が**ぴったり同時に**鳴って、同時に離れること",
+          "pt-BR": "# Exercício 2 – 3as\nAgora você vai **pular uma nota** entre cada par.\n\nToque:\n- C–E, D–F, E–G, F–A, G–B\n- Depois descendo: B–G, A–F, G–E, F–D, E–C\n\nToque primeiro com a mão direita, depois com a esquerda.\n\nPreste atenção em:\n- Como a 3ª soa **um pouco mais aberta e “doce”** que a 2ª\n- As duas notas devem começar e terminar **exatamente juntas**",
+          "es": "# Ejercicio 2 – 3ªs\nAhora vas a **saltar una nota** entre cada par.\n\nToca:\n- C–E, D–F, E–G, F–A, G–B\n- Luego hacia abajo: B–G, A–F, G–E, F–D, E–C\n\nHazlo primero con la mano derecha y luego con la izquierda.\n\nEscucha:\n- El sonido de la 3ª, **algo más ancho y “dulce”** que la 2ª\n- Que las dos notas empiecen y terminen **exactamente a la vez**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 3 – 4ths and 5ths\nUse C as a reference.\n\n4ths:\n- C–F, D–G, E–A, F–B\n\n5ths:\n- C–G, D–A, E–B\n\nPlay each pair slowly, holding both notes together. Practice with right hand, then left hand.\n\nNotice:\n- 4ths feel a bit **open and bright**\n- 5ths feel **very open and stable** (like the backbone of many chords)",
+          "zh-Hans": "# 练习3 – 四度和五度\n以 C 为参照点来感受更大的音程。\n\n四度：\n- C–F, D–G, E–A, F–B\n\n五度：\n- C–G, D–A, E–B\n\n每一对音都要慢慢弹，同时按下并保持。先右手，再左手练习。\n\n注意感受：\n- 四度听起来比较**开阔、明亮**\n- 五度听起来**非常开阔、很稳定**（就像很多和弦的“骨架”）",
+          "de": "# Übung 3 – Quarten und Quinten\nNutze C als Ausgangspunkt, um größere Intervalle zu spüren.\n\nQuarten:\n- C–F, D–G, E–A, F–B\n\nQuinten:\n- C–G, D–A, E–B\n\nSpiele jedes Intervall langsam und halte beide Töne gemeinsam. Übe zuerst rechts, dann links.\n\nAchte darauf:\n- Quarten klingen **offen und etwas hell**\n- Quinten klingen **sehr offen und stabil** (wie das „Rückgrat“ vieler Akkorde)",
+          "ja": "# エクササイズ3 – 4度と5度\nC を基準にして、少し大きめの音程を感じてみましょう。\n\n4度：\n- C–F, D–G, E–A, F–B\n\n5度：\n- C–G, D–A, E–B\n\nそれぞれのペアをゆっくり同時に押さえて、音をしっかり伸ばします。右手、左手の順に練習しましょう。\n\n注目ポイント：\n- 4度は**少し明るく、開いた**感じの響き\n- 5度は**とても開いていて安定した**響き（たくさんのコードの“骨組み”になる間隔）",
+          "pt-BR": "# Exercício 3 – 4as e 5as\nUse o C como referência para sentir intervalos maiores.\n\n4as:\n- C–F, D–G, E–A, F–B\n\n5as:\n- C–G, D–A, E–B\n\nToque cada par devagar, segurando as duas notas juntas. Pratique primeiro com a mão direita e depois com a esquerda.\n\nPerceba:\n- A 4ª soa **aberta e um pouco brilhante**\n- A 5ª soa **bem aberta e muito estável** (como a “espinha dorsal” de muitos acordes)",
+          "es": "# Ejercicio 3 – 4ªs y 5ªs\nUsa el Do como referencia para sentir intervalos más grandes.\n\n4ªs:\n- C–F, D–G, E–A, F–B\n\n5ªs:\n- C–G, D–A, E–B\n\nToca cada par despacio, manteniendo las dos notas juntas. Practica primero con la mano derecha y luego con la izquierda.\n\nFíjate en:\n- La 4ª suena **abierta y algo brillante**\n- La 5ª suena **muy abierta y estable** (como la “columna vertebral” de muchos acordes)"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Choose one interval type (2nds, 3rds, 4ths or 5ths).\n2. Play it **up and down** the C major scale with the right hand.\n3. Repeat with the left hand.\n4. Finally, try playing **right and left hands together**, same interval, same notes.\n\nAfter a few days of this, the sound and feel of these intervals in C major will start to feel very natural.",
+          "zh-Hans": "## 快速练习\n1. 先选一种音程（比如二度、三度、四度或五度）。\n2. 用右手在 C 大调音阶上，**上行和下行**弹这个音程。\n3. 再用左手重复同样的练习。\n4. 最后试试 **双手一起**，在键盘上弹同样的音程和音名。\n\n坚持练上几天，这些 C 大调里的音程听起来和弹起来都会变得非常自然。",
+          "de": "## Kurze Abschlussübung\n1. Wähle einen Intervalltyp (Sekunden, Terzen, Quarten oder Quinten).\n2. Spiele dieses Intervall **auf- und abwärts** über die C-Dur-Tonleiter mit der rechten Hand.\n3. Wiederhole das Ganze mit der linken Hand.\n4. Zum Schluss: versuche, **beide Hände gleichzeitig** dasselbe Intervall auf denselben Tönen spielen zu lassen.\n\nNach ein paar Tagen wird sich der Klang und das Gefühl dieser Intervalle in C-Dur ganz selbstverständlich anfühlen.",
+          "ja": "## 仕上げのかんたん練習\n1. まず1種類の音程（2度・3度・4度・5度のどれか）を選びます。\n2. 右手でCメジャー・スケールにそって、その音程を**上行・下行**で弾きます。\n3. 同じことを左手でもくり返します。\n4. 最後に、**両手いっしょに**同じ音程・同じ音名を弾いてみましょう。\n\nこれを何日か続けるだけで、Cメジャーの中での音程の“距離感”がとても自然に感じられるようになります。",
+          "pt-BR": "## Prática rápida\n1. Escolha um tipo de intervalo (2as, 3as, 4as ou 5as).\n2. Toque esse intervalo **subindo e descendo** a escala de Dó maior com a mão direita.\n3. Repita o mesmo com a mão esquerda.\n4. Por fim, tente tocar **as duas mãos juntas**, com o mesmo intervalo nas mesmas notas.\n\nDepois de alguns dias fazendo isso, o som e a sensação desses intervalos em Dó maior vão ficar bem naturais para você.",
+          "es": "## Práctica rápida\n1. Elige un tipo de intervalo (2ªs, 3ªs, 4ªs o 5ªs).\n2. Tócalo **subiendo y bajando** la escala de Do mayor con la mano derecha.\n3. Repite lo mismo con la mano izquierda.\n4. Por último, intenta tocar **las dos manos juntas**, mismo intervalo y mismas notas.\n\nDespués de algunos días, el sonido y la sensación de estos intervalos en Do mayor te resultarán muy naturales."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

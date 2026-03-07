@@ -1,0 +1,73 @@
+{
+  "id": "g-mixolydian-over-dominant-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G Mixolydian over dominant grooves\nIn this lesson you’ll improvise with **G Mixolydian** over **dominant grooves** built on G (G7-style vamps).\n\nThe goal is to lock into a **strong rhythm** with the left hand and use the right hand to bring out the **bluesy major** color of G Mixolydian.",
+          "zh-Hans": "# 在属和弦律动上的 G Mixolydian 即兴\n本课你会在以 G 为根音的 **属和弦律动（G7 类型 vamp）** 上，用 **G Mixolydian 调式**做即兴。\n\n目标是：左手先打好**稳固的律动**，右手用 G Mixolydian 弹出那种**带点蓝调味的大调色彩**。",
+          "de": "# G Mixolydian über dominanten Grooves\nIn dieser Lektion improvisierst du mit **G Mixolydian** über **dominante Grooves** auf G (G7-Vamps).\n\nZiel ist es, mit der linken Hand einen **stabilen Groove** zu halten und mit der rechten Hand den **bluesigen Dur-Charakter** von G Mixolydian herauszuholen.",
+          "ja": "# ドミナント・グルーヴ上での Gミクソリディアン\nこのレッスンでは、G を土台にした **ドミナント系のグルーヴ（G7 のヴァンプ）** の上で、**G Mixolydian** で即興していきます。\n\nねらいは、左手で**しっかりしたリズム**をキープしながら、右手で Gミクソリディアンの**ブルージーなメジャー感**を引き出すことです。",
+          "pt-BR": "# G Mixolydian sobre grooves dominantes\nNesta lição você vai improvisar com **G Mixolydian** em cima de **grooves dominantes** em G (vamps tipo G7).\n\nA ideia é travar um **ritmo forte** com a mão esquerda e deixar a mão direita mostrar a cor de **maior com tempero blues** do G Mixolydian.",
+          "es": "# G Mixolydian sobre grooves dominantes\nEn esta lección vas a improvisar con **G Mixolydian** sobre **grooves dominantes** en G (vamps tipo G7).\n\nLa idea es fijar un **ritmo sólido** con la mano izquierda y usar la mano derecha para resaltar el color de **mayor con sabor a blues** de G Mixolydian."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Scale and left-hand groove\n**G Mixolydian scale**:\n- Notes: **G – A – B – C – D – E – F – G**\n- Flat 7 (**F**) is the key color tone.\n\n**Left hand groove ideas:**\n- Simple vamp: low **G** on beat 1 of every bar\n- Octave groove: G (low) – G (higher octave) on beats 1 and 3\n- Chord groove: light **G7** (G–B–D–F) in a short pattern (e.g. 1–&–2, rest on 3–4)\n\nKeep it **steady and not too loud** – the right hand is the lead voice.",
+          "zh-Hans": "# 第一步 – 音阶和左手律动\n**G Mixolydian 音阶**：\n- 音：**G – A – B – C – D – E – F – G**\n- 其中降7（**F**）是关键色彩音。\n\n**左手律动示例：**\n- 简单 vamp：每小节第 1 拍弹一个低音 **G**\n- 八度律动：在第 1 和第 3 拍弹 G（低八度）–G（高八度）\n- 和弦律动：轻轻弹一个 **G7**（G–B–D–F）的短型（比如 1–&–2 上弹，3–4 休止）\n\n左手要**稳定、偏小声**，把主角位置留给右手。",
+          "de": "# Schritt 1 – Tonleiter und linker Groove\n**G-Mixolydisch-Tonleiter**:\n- Töne: **G – A – H – C – D – E – F – G**\n- Die kleine Septime (**F**) ist der wichtigste Farbeton.\n\n**Groove-Ideen für die linke Hand:**\n- Einfacher Vamp: tiefes **G** auf Schlag 1 jedes Takts\n- Oktav-Groove: G (tief) – G (Oktave höher) auf 1 und 3\n- Akkord-Groove: leicht angeschlagener **G7** (G–H–D–F) in kurzem Pattern (z. B. auf 1–&–2, Pause auf 3–4)\n\nHalte die linke Hand **stabil und eher leise** – die rechte Hand führt die Melodie.",
+          "ja": "# ステップ1 – スケールと左手グルーヴ\n**G Mixolydian スケール**：\n- 音：**G – A – B – C – D – E – F – G**\n- フラット7の **F** が、いちばん効くカラー・トーンです。\n\n**左手グルーヴの例：**\n- シンプル・ヴァンプ：毎小節1拍目に低い **G**\n- オクターブ・グルーヴ：1拍目と3拍目に G（低）–G（高オクターブ）\n- コード・グルーヴ：**G7**（G–B–D–F）を、たとえば 1–&–2 だけ軽く刻み、3–4 は休む\n\n左手は**一定で控えめな音量**にして、右手を主役にします。",
+          "pt-BR": "# Etapa 1 – Escala e groove da mão esquerda\n**Escala G Mixolydian**:\n- Notas: **G – A – B – C – D – E – F – G**\n- A 7ª menor (**F**) é a principal nota de cor.\n\n**Ideias de groove na mão esquerda:**\n- Vamp simples: **G** grave no tempo 1 de cada compasso\n- Groove em oitavas: G (baixo) – G (oitava acima) nos tempos 1 e 3\n- Groove com acorde: **G7** leve (G–B–D–F) em um desenho curto (ex.: toca em 1–&–2, silêncio em 3–4)\n\nMantenha a mão esquerda **estável e discreta** – quem canta é a mão direita.",
+          "es": "# Paso 1 – Escala y groove de la mano izquierda\n**Escala G Mixolydian**:\n- Notas: **G – A – B – C – D – E – F – G**\n- La 7ª menor (**F**) es la nota de color principal.\n\n**Ideas de groove para la mano izquierda:**\n- Vamp simple: **G** grave en el tiempo 1 de cada compás\n- Groove en octavas: G (grave) – G (octava arriba) en los tiempos 1 y 3\n- Groove con acorde: **G7** suave (G–B–D–F) en un patrón corto (ej.: tocar en 1–&–2, silencio en 3–4)\n\nMantén la mano izquierda **estable y no muy fuerte**: la mano derecha es la que lidera."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Target notes and bluesy color\nOn G Mixolydian, some notes are “home” and some add tension:\n\n- **Chord tones (G7)**: G, B, D, F\n- **Extension tones**: A (9), C (11), E (13)\n- **Bluesy color**: move between **B and C**, and between **E and F**\n\nGood landing notes:\n- Strong: **G** and **D**\n- Tense but tasty: **F** and **C**\n\nAim phrases so they often **resolve back to G or D**, after visiting F or C for tension.",
+          "zh-Hans": "# 第二步 – 目标音和蓝调色彩\n在 G Mixolydian 里，有些音像“家”，有些音多一点张力：\n\n- **G7 的和弦音**：G、B、D、F\n- **延伸音**：A（9）、C（11）、E（13）\n- **蓝调味的动作**：在 **B 和 C** 之间、以及 **E 和 F** 之间来回滑动\n\n适合落地的音：\n- 特别稳：**G**、**D**\n- 有张力但好听：**F**、**C**\n\n可以先让句子多以 **G 或 D** 收尾，在中间去碰一碰 F 或 C，制造一点“拉扯感”。",
+          "de": "# Schritt 2 – Zieltöne und bluesige Farbe\nIn G Mixolydian gibt es „Zuhause-Töne“ und Töne mit extra Spannung:\n\n- **Akkordtöne (G7)**: G, H, D, F\n- **Erweiterungen**: A (9), C (11), E (13)\n- **Bluesige Farbe**: hin- und hergehen zwischen **H und C** sowie **E und F**\n\nGute Zieltöne:\n- Sehr stabil: **G** und **D**\n- Spannend, aber lecker: **F** und **C**\n\nForme deine Phrasen so, dass sie nach etwas Spannung auf F oder C gerne wieder zu **G oder D** zurückfallen.",
+          "ja": "# ステップ2 – 着地ポイントとブルージーな色\nGミクソリディアンの中には、「家」の音と、少しだけ緊張を足す音があります。\n\n- **G7 のコードトーン**：G, B, D, F\n- **テンション（拡張音）**：A（9）、C（11）、E（13）\n- **ブルージーな動き**：**B⇄C**、**E⇄F** を小さく行き来する\n\n着地させやすい音：\n- とても安定：**G**, **D**\n- 緊張感はあるけどおいしい：**F**, **C**\n\nフレーズの途中で F や C に触れてから、**G や D に戻って落ち着かせる**イメージで組み立ててみてください。",
+          "pt-BR": "# Etapa 2 – Notas-alvo e cor bluesy\nNo G Mixolydian, algumas notas são “casa” e outras trazem tensão:\n\n- **Notas do acorde (G7)**: G, B, D, F\n- **Extensões**: A (9), C (11), E (13)\n- **Cor bluesy**: movimentar entre **B e C**, e entre **E e F**\n\nBoas notas de chegada:\n- Bem estáveis: **G** e **D**\n- Tensões saborosas: **F** e **C**\n\nMonte frases que passeiam por F ou C para criar tensão e depois **resolvem de volta em G ou D**.",
+          "es": "# Paso 2 – Notas objetivo y color bluesy\nEn G Mixolydian hay notas que son “hogar” y otras que añaden tensión:\n\n- **Notas de acorde (G7)**: G, B, D, F\n- **Extensiones**: A (9), C (11), E (13)\n- **Color bluesy**: moverte entre **B y C**, y entre **E y F**\n\nBuenas notas de llegada:\n- Muy estables: **G** y **D**\n- Con tensión rica: **F** y **C**\n\nApunta tus frases para que, después de visitar F o C para crear tensión, **vuelvan a G o D** para relajarse."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Simple dominant licks\nUse only G Mixolydian notes and try these short licks with your right hand:\n\n1. **Up then snap back**  \n   G – A – B – D – C – B – G\n\n2. **Bluesy enclosure**  \n   B – C – B – A – G\n\n3. **Tension and release**  \n   E – F – E – D – B – G\n\nPlay each lick several times over your G7 groove until it feels easy, then change the **rhythm** but keep the same notes.",
+          "zh-Hans": "# 第三步 – 简单的属和弦小句\n只用 G Mixolydian 的音，右手可以先试这些短句子：\n\n1. **先上行再“弹回”**  \n   G – A – B – D – C – B – G\n\n2. **蓝调式包围**  \n   B – C – B – A – G\n\n3. **张力–释放**  \n   E – F – E – D – B – G\n\n在 G7 循环上，把每个小句多弹几遍，先让手指记住感觉，然后再换各种**节奏型**，但暂时先不换音高。",
+          "de": "# Schritt 3 – Einfache dominante Licks\nBenutze nur Töne aus G Mixolydian und probiere diese kurzen Licks mit der rechten Hand:\n\n1. **Aufwärts, dann zurückschnappen**  \n   G – A – H – D – C – H – G\n\n2. **Bluesige Umspielung**  \n   H – C – H – A – G\n\n3. **Spannung und Auflösung**  \n   E – F – E – D – H – G\n\nSpiele jedes Lick mehrmals über deinen G7-Groove, bis es locker sitzt. Dann verändere den **Rhythmus**, aber behalte zuerst dieselben Töne bei.",
+          "ja": "# ステップ3 – かんたんなドミナント・リック\nGミクソリディアンの音だけを使って、右手で次のような短いリックを試してみましょう：\n\n1. **上がってから“パチン”と戻る**  \n   G – A – B – D – C – B – G\n\n2. **ブルージーな囲い込み**  \n   B – C – B – A – G\n\n3. **テンション→解決**  \n   E – F – E – D – B – G\n\nG7 のグルーヴに乗せて、それぞれを何度かくり返し、慣れてきたら**リズムだけ変えて**同じ音で遊んでみてください。",
+          "pt-BR": "# Etapa 3 – Licks dominantes simples\nUsando só as notas de G Mixolydian, teste estes licks curtinhos na mão direita:\n\n1. **Sobe e volta rápido**  \n   G – A – B – D – C – B – G\n\n2. **Envoltória bluesy**  \n   B – C – B – A – G\n\n3. **Tensão e resolução**  \n   E – F – E – D – B – G\n\nToque cada lick várias vezes em cima do groove de G7 até ficar confortável. Depois, mude o **ritmo**, mas mantenha as mesmas notas por um tempo.",
+          "es": "# Paso 3 – Licks dominantes sencillos\nUsando solo notas de G Mixolydian, prueba estos licks cortos con la mano derecha:\n\n1. **Subir y volver de golpe**  \n   G – A – B – D – C – B – G\n\n2. **Envoltura bluesy**  \n   B – C – B – A – G\n\n3. **Tensión y resolución**  \n   E – F – E – D – B – G\n\nToca cada lick varias veces sobre tu groove de G7 hasta que se sienta cómodo; luego cambia el **ritmo**, pero conserva las mismas notas por un rato."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Set up a **G7 vamp** with the left hand and loop it for a few minutes.\n2. Improvise using only **G, A, B, D, F** (chord + a bit of color) until the groove feels solid.\n3. Add **C and E** for more color, but always come back to **G or D** when you want to “land”.\n4. Practice each of the three licks, then create **your own lick** using the same idea: tension on F or C, resolution on G or D.\n\nIf you can comfortably stay on G Mixolydian over a dominant groove and keep your ideas moving, you’re ready to start applying this sound to **real songs and turnarounds**.",
+          "zh-Hans": "## 快速练习\n1. 用左手搭一个 **G7 循环**，连续弹几分钟。\n2. 右手先只用 **G, A, B, D, F**（和弦音 + 一点色彩）即兴，先把律动踩稳。\n3. 再加上 **C 和 E** 增加色彩，但想“落地”时多回到 **G 或 D**。\n4. 把上面的三个小句都练一练，然后照着同样的思路自己编一个：在 **F 或 C** 上制造张力，再在 **G 或 D** 上解决。\n\n当你能在 G Mixolydian 上轻松待一阵子、还不缺想法时，就已经可以开始把这种声音用到**真实的歌曲和循环保进程**里了。",
+          "de": "## Kurze Übung\n1. Richte dir einen **G7-Vamp** mit der linken Hand ein und lass ihn ein paar Minuten laufen.\n2. Improvisiere erst nur mit **G, A, H, D, F** (Akkord + etwas Farbe), bis sich der Groove stabil anfühlt.\n3. Füge **C und E** für mehr Farbe hinzu, lande aber immer wieder auf **G oder D**, wenn du zur Ruhe kommen willst.\n4. Übe die drei Licks von oben und erfinde dann **dein eigenes Lick** mit derselben Idee: Spannung auf F oder C, Auflösung auf G oder D.\n\nWenn du entspannt in G Mixolydian über einen dominanten Groove bleiben kannst und die Ideen weiterfließen, bist du bereit, diesen Sound in **echten Songs und Turnarounds** zu benutzen.",
+          "ja": "## かんたん練習\n1. 左手で **G7 のヴァンプ**を作り、数分間ループさせます。\n2. 右手はまず **G, A, B, D, F** だけで即興し、グルーヴに慣れていきます。\n3. 慣れてきたら **C と E** も足して色を増やしつつ、着地したいときは **G か D** に戻るようにします。\n4. 先ほどの3つのリックを練習したあと、同じ発想で**自分のリック**を1つ作ってみてください：F や C でテンションを作り、G や D で解決させる、という流れです。\n\nGミクソリディアンでドミナント・グルーヴの上に気持ちよく乗れるようになったら、そのサウンドを**実際の曲やターンアラウンド**に少しずつ混ぜていきましょう。",
+          "pt-BR": "## Prática rápida\n1. Monte um **vamp de G7** com a mão esquerda e deixe rolando por alguns minutos.\n2. Improvise só com **G, A, B, D, F** (acorde + um pouco de cor) até o groove ficar bem firme.\n3. Depois acrescente **C e E** para mais cor, mas sempre volte em **G ou D** quando quiser “pousar”.\n4. Pratique os três licks acima e crie **seu próprio lick** usando a mesma ideia: tensão em F ou C, resolução em G ou D.\n\nQuando você conseguir ficar confortável em G Mixolydian sobre um groove dominante, com ideias fluindo, já está pronto para levar esse som para **músicas reais e turnarounds**.",
+          "es": "## Práctica rápida\n1. Monta un **vamp de G7** con la mano izquierda y déjalo en bucle varios minutos.\n2. Improvisa solo con **G, A, B, D, F** (acorde + un poco de color) hasta que el groove se sienta firme.\n3. Luego añade **C y E** para más color, pero vuelve a **G o D** cuando quieras “aterrizar”.\n4. Practica los tres licks y luego crea **tu propio lick** usando la misma idea: tensión en F o C, resolución en G o D.\n\nCuando puedas quedarte cómodo en G Mixolydian sobre un groove dominante y mantener las ideas fluyendo, estás listo para llevar este sonido a **canciones reales y turnarounds**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

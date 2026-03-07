@@ -1,0 +1,73 @@
+{
+  "id": "using-thirds-and-fifths-in-walking-lines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Thirds and fifths in walking bass\nIn walking lines the **root** tells the ear *which chord* it is.\nThe **3rd and 5th** tell the ear **what kind of chord** it is (major, minor, dominant) and make the harmony feel solid.\n\nIn this lesson you’ll build quarter-note walking lines in **C major** that lean on roots, 3rds and 5ths.",
+          "zh-Hans": "# 行进贝斯中的三度和五度\n在行进贝斯里，**根音**告诉耳朵“这是哪个和弦”。\n**三度和五度**则告诉耳朵这是**哪种和弦**（大三、小三、属和弦），让和声听起来更稳、更清晰。\n\n本课中你会在 **C 大调** 里，用根音、三度和五度来写四分音符的行进低音线。",
+          "de": "# Terz und Quinte im Walking Bass\nIn Walking-Linien sagt der **Grundton**, *welcher Akkord* gerade klingt.\nDie **Terz und Quinte** verraten, **welche Art Akkord** es ist (Dur, Moll, Dominant) und machen die Harmonie stabil.\n\nIn dieser Lektion baust du Walking-Linien in **C-Dur** mit Viertelnoten, die sich stark auf Grundton, Terz und Quinte stützen.",
+          "ja": "# ウォーキング・ベースでの3度と5度\nウォーキング・ラインでは、**ルート**が「どのコードか」を耳に伝えます。\n**3度と5度**は、そのコードが **メジャーなのか、マイナーなのか、ドミナントなのか** をはっきりさせて、ハーモニーを安定させます。\n\nこのレッスンでは **Cメジャー** の中で、ルート・3度・5度に寄りかかった4分音符のウォーキング・ラインを作っていきます。",
+          "pt-BR": "# Terças e quintas no walking bass\nNo walking, a **tônica** diz para o ouvido *qual acorde* está soando.\nA **terça e a quinta** dizem **que tipo de acorde** é (maior, menor, dominante) e deixam a harmonia bem definida.\n\nNesta lição você vai montar linhas de walking em **Dó maior**, em semínimas, usando bastante tônicas, terças e quintas.",
+          "es": "# Terceras y quintas en el walking bass\nEn las líneas de walking, la **tónica** le dice al oído *qué acorde* está sonando.\nLa **tercera y la quinta** le dicen **qué tipo de acorde** es (mayor, menor, dominante) y hacen que la armonía se sienta firme.\n\nEn esta lección vas a construir líneas de walking en **Do mayor**, en negras, apoyándote mucho en tónicas, terceras y quintas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Chord tones in our C major area\n4-string bass tuned E–A–D–G. We’ll stay around **C on the A string** and outline three chords: **Cmaj7, Dm7, G7**.\n\n**Cmaj7 (C–E–G)**\n- C: 3rd string (A), 3rd fret\n- E: 2nd string (D), 2nd fret\n- G: 2nd string, 5th fret\n\n**Dm7 (D–F–A)**\n- D: 3rd string, 5th fret\n- F: 2nd string, 3rd fret\n- A: 1st string (G), 2nd fret\n\n**G7 (G–B–D)**\n- G: 2nd string, 5th fret\n- B: 1st string, 4th fret\n- D: 2nd string, open\n\nThese roots, 3rds and 5ths will be your **main targets** when you walk.",
+          "zh-Hans": "# 我们要用的 C 大调和弦音区域\n4 弦贝斯，E–A–D–G 定弦。我们围绕 **A 弦上的 C** 来勾勒三个和弦：**Cmaj7、Dm7、G7**。\n\n**Cmaj7（C–E–G）**\n- C：第 3 弦（A）第 3 品\n- E：第 2 弦（D）第 2 品\n- G：第 2 弦第 5 品\n\n**Dm7（D–F–A）**\n- D：第 3 弦第 5 品\n- F：第 2 弦第 3 品\n- A：第 1 弦（G）第 2 品\n\n**G7（G–B–D）**\n- G：第 2 弦第 5 品\n- B：第 1 弦第 4 品\n- D：第 2 弦空弦\n\n这些根音、三度和五度，就是你行进时的**主要目标音**。",
+          "de": "# Akkordtöne im C-Dur-Bereich\n4-saitiger Bass, Stimmung E–A–D–G. Wir bleiben um das **C auf der A-Saite** und umspielen drei Akkorde: **Cmaj7, Dm7, G7**.\n\n**Cmaj7 (C–E–G)**\n- C: 3. Saite (A), 3. Bund\n- E: 2. Saite (D), 2. Bund\n- G: 2. Saite, 5. Bund\n\n**Dm7 (D–F–A)**\n- D: 3. Saite, 5. Bund\n- F: 2. Saite, 3. Bund\n- A: 1. Saite (G), 2. Bund\n\n**G7 (G–B–D)**\n- G: 2. Saite, 5. Bund\n- B: 1. Saite, 4. Bund\n- D: 2. Saite, leer\n\nDiese Grundtöne, Terzen und Quinten sind deine **wichtigsten Zieltöne**, wenn du gehst.",
+          "ja": "# Cメジャーの中で使うコードトーン\n4弦ベース（E–A–D–Gチューニング）。**A弦上のC** 周辺で、**Cmaj7・Dm7・G7** の3つのコードをアウトラインしていきます。\n\n**Cmaj7（C–E–G）**\n- C：3弦（A）3フレット\n- E：2弦（D）2フレット\n- G：2弦5フレット\n\n**Dm7（D–F–A）**\n- D：3弦5フレット\n- F：2弦3フレット\n- A：1弦（G）2フレット\n\n**G7（G–B–D）**\n- G：2弦5フレット\n- B：1弦4フレット\n- D：2弦開放\n\nこれらのルート・3度・5度が、ウォーキングするときの**主な着地ポイント**になります。",
+          "pt-BR": "# Notas dos acordes na nossa região em Dó\nBaixo de 4 cordas afinado em E–A–D–G. Vamos ficar perto do **C na corda A** e trabalhar três acordes: **Cmaj7, Dm7, G7**.\n\n**Cmaj7 (C–E–G)**\n- C: 3ª corda (A), 3ª casa\n- E: 2ª corda (D), 2ª casa\n- G: 2ª corda, 5ª casa\n\n**Dm7 (D–F–A)**\n- D: 3ª corda, 5ª casa\n- F: 2ª corda, 3ª casa\n- A: 1ª corda (G), 2ª casa\n\n**G7 (G–B–D)**\n- G: 2ª corda, 5ª casa\n- B: 1ª corda, 4ª casa\n- D: 2ª corda solta\n\nEssas tônicas, terças e quintas serão seus **principais alvos** na hora de caminhar.",
+          "es": "# Notas de los acordes en nuestra zona de Do\nBajo de 4 cuerdas afinado E–A–D–G. Nos quedamos cerca de **Do en la cuerda A** y trabajamos tres acordes: **Cmaj7, Dm7, G7**.\n\n**Cmaj7 (C–E–G)**\n- C: 3ª cuerda (A), traste 3\n- E: 2ª cuerda (D), traste 2\n- G: 2ª cuerda, traste 5\n\n**Dm7 (D–F–A)**\n- D: 3ª cuerda, traste 5\n- F: 2ª cuerda, traste 3\n- A: 1ª cuerda (G), traste 2\n\n**G7 (G–B–D)**\n- G: 2ª cuerda, traste 5\n- B: 1ª cuerda, traste 4\n- D: 2ª cuerda al aire\n\nEstas tónicas, terceras y quintas serán tus **principales notas objetivo** al caminar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Cmaj7 walking line – roots, 3rds and 5ths\nStart with a two-bar line over **Cmaj7**, in quarter notes, using only **C, E, G**.\n\n- Bar 1: C – E – G – E  \n- Bar 2: C (octave) – G – E – C\n\nOn the neck (one option):\n- C: 3rd string, 3rd fret  \n- E: 2nd string, 2nd fret  \n- G: 2nd string, 5th fret  \n- C (octave): 1st string, 5th fret\n\nLoop these 2 bars and listen: even without any passing notes, the **chord quality is very clear**.",
+          "zh-Hans": "# Cmaj7 上的行进线 —— 根音、三度和五度\n先在 **Cmaj7** 上做一个两小节的行进线，全是四分音符，只用 **C、E、G**。\n\n- 第 1 小节：C – E – G – E  \n- 第 2 小节：C（高八度）– G – E – C\n\n指板（其中一种按法）：\n- C：第 3 弦第 3 品  \n- E：第 2 弦第 2 品  \n- G：第 2 弦第 5 品  \n- C（高八度）：第 1 弦第 5 品\n\n循环这两小节听一下：就算没有经过音，**和弦的感觉已经非常明显**。",
+          "de": "# Cmaj7-Walking-Linie – Grundton, Terz und Quinte\nBeginne mit einer zweitägigen Linie über **Cmaj7**, nur in Viertelnoten und nur mit **C, E, G**.\n\n- Takt 1: C – E – G – E  \n- Takt 2: C (Oktave) – G – E – C\n\nAuf dem Griffbrett (eine Möglichkeit):\n- C: 3. Saite, 3. Bund  \n- E: 2. Saite, 2. Bund  \n- G: 2. Saite, 5. Bund  \n- C (Oktave): 1. Saite, 5. Bund\n\nSpiel diese 2 Takte in der Schleife und hör hin: Auch ohne Durchgangstöne ist der **Akkordklang sofort zu erkennen**.",
+          "ja": "# Cmaj7のウォーキング・ライン – ルート・3度・5度\nまずは **Cmaj7** の上で、4分音符だけ・**C, E, G** だけを使った2小節のラインを作ります。\n\n- 1小節目：C – E – G – E  \n- 2小節目：C（オクターブ）– G – E – C\n\nポジション（1つの例）：\n- C：3弦3フレット  \n- E：2弦2フレット  \n- G：2弦5フレット  \n- C（オクターブ）：1弦5フレット\n\nこの2小節をループして聴くと、パッシング・ノートがなくても、**コードのキャラクターがはっきり伝わる**のが分かります。",
+          "pt-BR": "# Walking em Cmaj7 – tônica, terça e quinta\nComece com uma linha de dois compassos sobre **Cmaj7**, em semínimas, usando só **C, E, G**.\n\n- Compasso 1: C – E – G – E  \n- Compasso 2: C (oitava) – G – E – C\n\nNo braço (uma opção):\n- C: 3ª corda, 3ª casa  \n- E: 2ª corda, 2ª casa  \n- G: 2ª corda, 5ª casa  \n- C (oitava): 1ª corda, 5ª casa\n\nRepita esses 2 compassos e perceba: mesmo sem nota de passagem, a **sonoridade do acorde já fica muito clara**.",
+          "es": "# Walking sobre Cmaj7 – tónica, tercera y quinta\nEmpieza con una línea de dos compases sobre **Cmaj7**, en negras, usando sólo **C, E, G**.\n\n- Compás 1: C – E – G – E  \n- Compás 2: C (octava) – G – E – C\n\nEn el mástil (una opción):\n- C: 3ª cuerda, traste 3  \n- E: 2ª cuerda, traste 2  \n- G: 2ª cuerda, traste 5  \n- C (octava): 1ª cuerda, traste 5\n\nHaz un bucle con estos 2 compases: incluso sin notas de paso, el **color del acorde se escucha muy claramente**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# II–V–I line focusing on 3rds and 5ths\nNow use roots, 3rds and 5ths over a **II–V–I in C**.\n\nChords: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nQuarter-note line:\n- Bar 1 (Dm7): D – F – A – F  \n- Bar 2 (G7): G – B – D – B  \n- Bar 3 (Cmaj7): C – E – G – E  \n- Bar 4 (Cmaj7): G – E – C – G\n\nThis line:\n- Always hits a **root or 3rd** on beat 1 of each bar  \n- Uses **3rds and 5ths** to spell out the chord quality  \n- Still moves in a simple, singable way",
+          "zh-Hans": "# 在 II–V–I 上用三度和五度\n现在在 **C 调的 II–V–I** 上，用根音、三度和五度来行走。\n\n和弦：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n\n四分音符行进线：\n- 第 1 小节（Dm7）：D – F – A – F  \n- 第 2 小节（G7）：G – B – D – B  \n- 第 3 小节（Cmaj7）：C – E – G – E  \n- 第 4 小节（Cmaj7）：G – E – C – G\n\n这条线：\n- 每个小节的第 1 拍都落在 **根音或三度** 上  \n- 用 **三度和五度** 来说明和弦性质  \n- 走向仍然很简单、好唱",
+          "de": "# II–V–I-Linie mit Fokus auf Terz und Quinte\nJetzt nutzen wir Grundton, Terz und Quinte über einer **II–V–I in C**.\n\nAkkorde: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nViertelnoten-Linie:\n- Takt 1 (Dm7): D – F – A – F  \n- Takt 2 (G7): G – B – D – B  \n- Takt 3 (Cmaj7): C – E – G – E  \n- Takt 4 (Cmaj7): G – E – C – G\n\nDiese Linie:\n- Trifft auf Zählzeit 1 immer **Grundton oder Terz**  \n- Nutzt **Terz und Quinte**, um die Akkordqualität hörbar zu machen  \n- Bewegt sich trotzdem einfach und singbar",
+          "ja": "# II–V–Iで3度と5度を目立たせるライン\n次は **CメジャーのII–V–I** の上で、ルート・3度・5度を中心にウォーキングしてみます。\n\nコード：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n\n4分音符のライン：\n- 1小節目（Dm7）：D – F – A – F  \n- 2小節目（G7）：G – B – D – B  \n- 3小節目（Cmaj7）：C – E – G – E  \n- 4小節目（Cmaj7）：G – E – C – G\n\nこのラインは：\n- 各小節の1拍目で必ず **ルートか3度** に着地し  \n- **3度と5度** でコードの性格をはっきりさせ  \n- 動き自体はシンプルで歌いやすい形になっています。",
+          "pt-BR": "# Linha II–V–I destacando terças e quintas\nAgora use tônicas, terças e quintas em um **II–V–I em Dó**.\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLinha em semínimas:\n- Compasso 1 (Dm7): D – F – A – F  \n- Compasso 2 (G7): G – B – D – B  \n- Compasso 3 (Cmaj7): C – E – G – E  \n- Compasso 4 (Cmaj7): G – E – C – G\n\nEssa linha:\n- Coloca sempre **tônica ou terça** no tempo 1 de cada compasso  \n- Usa **terças e quintas** para deixar a qualidade do acorde bem clara  \n- Continua simples e “cantável”",
+          "es": "# Línea II–V–I centrada en terceras y quintas\nAhora usa tónicas, terceras y quintas sobre un **II–V–I en Do**.\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLínea en negras:\n- Compás 1 (Dm7): D – F – A – F  \n- Compás 2 (G7): G – B – D – B  \n- Compás 3 (Cmaj7): C – E – G – E  \n- Compás 4 (Cmaj7): G – E – C – G\n\nEsta línea:\n- Coloca siempre **tónica o tercera** en el tiempo 1 de cada compás  \n- Usa **terceras y quintas** para dibujar claramente el carácter del acorde  \n- Sigue siendo sencilla y fácil de cantar"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Put on a **slow swing feel** (metronome on 2 and 4, around 60–80 bpm)\n- First, walk using **only roots and 5ths** on each chord\n- Then add the **3rd** on beat 3 of each bar and hear how the chord quality pops out\n- Next, create your own II–V–I lines where **every bar has at least one 3rd and one 5th**\n- Finally, move the same ideas to a new key (for example **G major**)\n\nIf you can keep steady time and clearly hear the changes just from your bass line, your use of 3rds and 5ths is working.",
+          "zh-Hans": "# 练习建议\n- 用一个**慢一点的 swing 感**来练（节拍器打在第 2、4 拍，大约 60–80 bpm）\n- 先只用每个和弦的 **根音和五度** 来走\n- 然后在每小节的第 3 拍加上 **三度**，感受一下和弦性质一下子变清楚\n- 接着自己编一些 II–V–I 行进线，要求**每小节至少出现一次三度和一次五度**\n- 最后把同样的想法移到别的调（比如 **G 大调**）\n\n如果你在节奏稳的前提下，只听低音线就能**听出和弦在变换**，说明你对三度和五度的运用已经很到位了。",
+          "de": "# Übetipps\n- Spiele zu einem **langsamen Swing-Feeling** (Metronom auf 2 und 4, ca. 60–80 bpm)\n- Starte damit, pro Akkord nur mit **Grundton und Quinte** zu gehen\n- Füge dann auf Zählzeit 3 in jedem Takt die **Terz** ein und hör, wie der Akkordcharakter deutlicher wird\n- Baue als Nächstes eigene II–V–I-Linien, in denen **jeder Takt mindestens eine Terz und eine Quinte** enthält\n- Übertrage zum Schluss die gleichen Ideen in eine andere Tonart (z.B. **G-Dur**)\n\nWenn du im Timing bleibst und die Harmoniewechsel **nur aus der Basslinie heraus** klar hörst, funktioniert dein Einsatz von Terz und Quinte.",
+          "ja": "# 練習のコツ\n- **ゆっくりめのスウィング**で練習する（メトロノームを2拍目・4拍目に、60〜80bpmくらい）\n- まずは各コードで **ルートと5度だけ** を使ってウォーキングする\n- そのあと、毎小節の3拍目に **3度** を入れてみて、コードのキャラクターがグッと出るのを確認する\n- 次に、自分でII–V–Iのラインを作り、**各小節に必ず3度と5度が1回は出てくる**ようにしてみる\n- 慣れてきたら、同じアイデアを別のキー（例えば **Gメジャー**）に移してみる\n\nテンポが安定したまま、ベースラインだけで**コードの変化が耳に分かる**ようになってきたら、3度と5度をいい感じで使えている証拠です。",
+          "pt-BR": "# Dicas de estudo\n- Toque em um **swing lento**, com o metrônomo nos tempos 2 e 4 (por volta de 60–80 bpm)\n- Comece caminhando em cada acorde com **apenas tônica e quinta**\n- Depois coloque a **terça** no tempo 3 de cada compasso e repare como a cara do acorde aparece\n- Em seguida, crie suas próprias linhas de II–V–I em que **todo compasso tenha pelo menos uma terça e uma quinta**\n- Por fim, leve as mesmas ideias para outra tonalidade (por exemplo **G maior**)\n\nSe você consegue manter o tempo firme e ouvir claramente as mudanças de acorde **só pela linha de baixo**, seu uso de terças e quintas está funcionando.",
+          "es": "# Consejos de práctica\n- Toca con un **swing lento**, con el metrónomo en 2 y 4 (alrededor de 60–80 bpm)\n- Empieza caminando en cada acorde usando **solo tónica y quinta**\n- Luego añade la **tercera** en el tiempo 3 de cada compás y escucha cómo aparece el carácter del acorde\n- Después, crea tus propias líneas II–V–I donde **cada compás tenga al menos una tercera y una quinta**\n- Al final, pasa las mismas ideas a otra tonalidad (por ejemplo **Sol mayor**)\n\nSi puedes mantener el tiempo firme y oír claramente los cambios de acorde **solo a través de tu línea de bajo**, tu uso de terceras y quintas está funcionando bien."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

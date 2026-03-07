@@ -1,0 +1,73 @@
+{
+  "id": "c-major-one-octave-open",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major in open position\nIn this lesson you’ll play a **one-octave C major scale** using open strings and the first three frets.\n\nIt’s a smooth way to hear a full major scale without big stretches.",
+          "zh-Hans": "# 开放把位中的C大调\n在本课中，你将用**开放弦和前3品**来演奏一组音的C大调音阶。\n\n这是在没有大跨度的情况下，听完整大调音阶的轻松方法。",
+          "de": "# C-Dur in offener Lage\nIn dieser Lektion spielst du eine **einoktavige C-Dur-Tonleiter** mit Leersaiten und den ersten drei Bünden.\n\nSo hörst du eine komplette Dur-Tonleiter, ohne große Griffe machen zu müssen.",
+          "ja": "# オープンポジションでのCメジャー\nこのレッスンでは、**開放弦と1〜3フレット**を使って、1オクターブ分のCメジャー・スケールを弾きます。\n\n大きく手を広げなくても、メジャー・スケールの流れをしっかり感じられる形です。",
+          "pt-BR": "# Dó maior em posição aberta\nNesta lição você vai tocar uma **escala de Dó maior de uma oitava**, usando cordas soltas e os três primeiros trastes.\n\nÉ um jeito bem tranquilo de ouvir a escala maior completa sem precisar de grandes alongamentos.",
+          "es": "# Do mayor en posición abierta\nEn esta lección vas a tocar una **escala de Do mayor de una octava**, usando cuerdas al aire y los tres primeros trastes.\n\nEs una forma suave de escuchar una escala mayor completa sin hacer estiramientos grandes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand position\n- Stay in **open position** (frets 1–3)\n- Let your **index finger** cover fret 1\n- **Middle finger**: fret 2\n- **Ring finger**: fret 3\n\nKeep your thumb roughly behind the 2nd fret and relax your wrist.",
+          "zh-Hans": "# 手型位置\n- 保持在**开放把位**（第1–3品）\n- 让**食指**负责第1品\n- **中指**负责第2品\n- **无名指**负责第3品\n\n大拇指大致放在第2品后面，手腕放松。",
+          "de": "# Handposition\n- Bleib in der **offenen Lage** (Bünde 1–3)\n- **Zeigefinger** für den 1. Bund\n- **Mittelfinger** für den 2. Bund\n- **Ringfinger** für den 3. Bund\n\nDer Daumen liegt grob hinter dem 2. Bund, das Handgelenk bleibt entspannt.",
+          "ja": "# 手のポジション\n- **オープンポジション**（1〜3フレット）に手を置きます。\n- **人差し指**が1フレット\n- **中指**が2フレット\n- **薬指**が3フレットを担当\n\n親指はだいたい2フレットの裏あたりに置き、手首はリラックスさせましょう。",
+          "pt-BR": "# Posição da mão\n- Fique em **posição aberta** (trastes 1 a 3)\n- **Dedo indicador** cuida do traste 1\n- **Dedo médio** cuida do traste 2\n- **Dedo anelar** cuida do traste 3\n\nDeixe o polegar mais ou menos atrás do 2º traste e mantenha o pulso relaxado.",
+          "es": "# Posición de la mano\n- Quédate en **posición abierta** (trastes 1 a 3)\n- **Dedo índice** en el traste 1\n- **Dedo medio** en el traste 2\n- **Dedo anular** en el traste 3\n\nColoca el pulgar más o menos detrás del traste 2 y mantén la muñeca relajada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Notes and fingering\nWe’ll start on **C** at the 3rd fret of the 5th string (A string) and go up to the next **C**.\n\nPlay slowly, one note at a time:\n\n- 5th string, 3rd fret – **C** (finger 3)\n- 4th string, open – **D**\n- 4th string, 2nd fret – **E** (finger 2)\n- 4th string, 3rd fret – **F** (finger 3)\n- 3rd string, open – **G**\n- 3rd string, 2nd fret – **A** (finger 2)\n- 2nd string, open – **B**\n- 2nd string, 1st fret – **C** (finger 1)",
+          "zh-Hans": "# 音和指法\n我们从第5弦第3品的 **C** 开始，一直到下一个 **C**。\n\n慢慢地，一次弹一个音：\n\n- 第5弦，第3品 – **C**（3指）\n- 第4弦，空弦 – **D**\n- 第4弦，第2品 – **E**（2指）\n- 第4弦，第3品 – **F**（3指）\n- 第3弦，空弦 – **G**\n- 第3弦，第2品 – **A**（2指）\n- 第2弦，空弦 – **B**\n- 第2弦，第1品 – **C**（1指）",
+          "de": "# Töne und Fingersätze\nWir beginnen bei **C** im 3. Bund der 5. Saite (A-Saite) und gehen bis zum nächsten **C** hinauf.\n\nSpiele langsam, Ton für Ton:\n\n- 5. Saite, 3. Bund – **C** (Finger 3)\n- 4. Saite, leer – **D**\n- 4. Saite, 2. Bund – **E** (Finger 2)\n- 4. Saite, 3. Bund – **F** (Finger 3)\n- 3. Saite, leer – **G**\n- 3. Saite, 2. Bund – **A** (Finger 2)\n- 2. Saite, leer – **B**\n- 2. Saite, 1. Bund – **C** (Finger 1)",
+          "ja": "# 音とフィンガリング\n5弦3フレットの **C** から始めて、その上の **C** まで登っていきます。\n\nゆっくり、1音ずつ弾きましょう：\n\n- 5弦 3フレット – **C**（3の指）\n- 4弦 開放 – **D**\n- 4弦 2フレット – **E**（2の指）\n- 4弦 3フレット – **F**（3の指）\n- 3弦 開放 – **G**\n- 3弦 2フレット – **A**（2の指）\n- 2弦 開放 – **B**\n- 2弦 1フレット – **C**（1の指）",
+          "pt-BR": "# Notas e digitação\nVamos começar no **C** (Dó) da 5ª corda, 3º traste, e subir até o próximo **C**.\n\nToque devagar, nota por nota:\n\n- 5ª corda, 3º traste – **C** (dedo 3)\n- 4ª corda, solta – **D**\n- 4ª corda, 2º traste – **E** (dedo 2)\n- 4ª corda, 3º traste – **F** (dedo 3)\n- 3ª corda, solta – **G**\n- 3ª corda, 2º traste – **A** (dedo 2)\n- 2ª corda, solta – **B**\n- 2ª corda, 1º traste – **C** (dedo 1)",
+          "es": "# Notas y digitación\nEmpezaremos en **C** (Do) en el traste 3 de la 5ª cuerda (cuerda A) y subiremos hasta el siguiente **C**.\n\nToca despacio, nota por nota:\n\n- 5ª cuerda, traste 3 – **C** (dedo 3)\n- 4ª cuerda, al aire – **D**\n- 4ª cuerda, traste 2 – **E** (dedo 2)\n- 4ª cuerda, traste 3 – **F** (dedo 3)\n- 3ª cuerda, al aire – **G**\n- 3ª cuerda, traste 2 – **A** (dedo 2)\n- 2ª cuerda, al aire – **B**\n- 2ª cuerda, traste 1 – **C** (dedo 1)"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Up and down\n1. Play the notes **up** the scale (C → C)\n2. Then play the same notes **back down** (C → C)\n3. Keep a **steady tempo**, even if it’s slow\n4. Let each note ring clearly before moving on\n\nA few slow, clean runs are better than many rushed ones.",
+          "zh-Hans": "# 上行和下行\n1. 先按顺序从低到高弹一遍（C → 上面的C）\n2. 再按相反顺序从高到低弹回来（C → 下面的C）\n3. 保持**稳定的节奏**，哪怕很慢也没关系\n4. 每个音要先听清楚再移动到下一个\n\n几遍慢而干净的练习，比很多匆忙的练习更有用。",
+          "de": "# Auf- und Abwärts spielen\n1. Spiele die Töne **aufwärts** (C → C)\n2. Spiele dann dieselben Töne **abwärts** (C → C)\n3. Halte ein **gleichmäßiges Tempo**, auch wenn es langsam ist\n4. Lass jeden Ton sauber klingen, bevor du weitergehst\n\nEin paar langsame, saubere Durchgänge bringen mehr als viele hektische.",
+          "ja": "# 上がり下がりを練習\n1. まずはスケールを**上向き**に弾きます（下のC → 上のC）\n2. 次に同じ音を**下向き**に弾き戻します（上のC → 下のC）\n3. **一定のテンポ**をキープしましょう。ゆっくりでOKです。\n4. 1音ずつ、きちんと響かせてから次の音へ進みます。\n\n速く雑に弾くより、ゆっくりきれいに弾くほうが上達は早いです。",
+          "pt-BR": "# Subindo e descendo\n1. Toque as notas **subindo** a escala (C → C)\n2. Depois toque as mesmas notas **descendo** (C → C)\n3. Mantenha um **tempo constante**, mesmo que seja bem lento\n4. Deixe cada nota soar limpa antes de ir para a próxima\n\nAlgumas passadas lentas e limpas valem mais do que várias corridas apressadas.",
+          "es": "# Subir y bajar\n1. Toca las notas **subiendo** la escala (C → C)\n2. Luego toca las mismas notas **bajando** (C → C)\n3. Mantén un **tempo constante**, aunque sea lento\n4. Deja que cada nota suene clara antes de pasar a la siguiente\n\nUnas pocas pasadas lentas y limpias valen más que muchas tocadas con prisa."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this shape feels natural, you’re ready to connect it with other C major patterns and simple melodies.",
+          "zh-Hans": "当这个指型弹起来变得自然顺手时，你就已经准备好把它和其他C大调的指型以及简单旋律连接起来了。",
+          "de": "Sobald sich dieses Pattern natürlich anfühlt, bist du bereit, es mit anderen C-Dur-Lagen und einfachen Melodien zu verbinden.",
+          "ja": "この形が自然に弾けるようになったら、ほかのCメジャーのパターンや簡単なメロディとつなげていく準備はもうできています。",
+          "pt-BR": "Quando esse desenho começar a ficar natural, você já está pronto para ligá-lo a outros desenhos de Dó maior e a melodias simples.",
+          "es": "Cuando este dibujo se sienta natural, ya estarás listo para conectarlo con otros patrones de Do mayor y con melodías sencillas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
+}

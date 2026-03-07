@@ -1,0 +1,73 @@
+{
+  "id": "walking-bass-line-with-c-major-scale",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Walking with the C major scale\nIn this lesson you’ll build a **simple walking bass line** using only the **C major scale**.\n\nYou’ll play **four quarter notes per bar**, connecting chords with stepwise motion so the line keeps moving and the harmony stays clear.",
+          "zh-Hans": "# 用C大调练习行进贝斯\n在本课中，你会只用 **C大调音阶** 来编一个简单的**行进贝斯（walking bass）**。\n\n每小节弹 **四个四分音符**，用级进的方式连接和弦，让低音线既在前进，又能清楚地表达和声。",
+          "de": "# Walking Bass mit der C-Dur-Tonleiter\nIn dieser Lektion baust du eine **einfache Walking-Bass-Linie** nur mit der **C-Dur-Tonleiter**.\n\nDu spielst **vier Viertelnoten pro Takt** und verbindest die Akkorde mit kleinen, schrittweisen Bewegungen, damit die Linie fließt und die Harmonie klar bleibt.",
+          "ja": "# Cメジャー・スケールでウォーキング・ベース\nこのレッスンでは、**Cメジャー・スケール**だけを使って、シンプルな**ウォーキング・ベース・ライン**を作ります。\n\n1小節に**4つの4分音符**を入れて、コード同士をスケールの音でつなぎ、ラインが止まらず前に進む感じを作ります。",
+          "pt-BR": "# Walking bass com a escala de Dó maior\nNesta lição você vai montar uma **linha simples de walking bass**, usando apenas a **escala de Dó maior**.\n\nA ideia é tocar **quatro semínimas por compasso**, ligando os acordes com movimentos de grau conjunto, para a linha andar e a harmonia ficar clara.",
+          "es": "# Walking bass con la escala de Do mayor\nEn esta lección vas a crear una **línea sencilla de walking bass** usando sólo la **escala de Do mayor**.\n\nVas a tocar **cuatro negras por compás**, conectando los acordes con movimiento conjunto para que la línea avance y la armonía se escuche clara."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The C major scale\nC major has **no sharps or flats**:\n\n**C – D – E – F – G – A – B – C**\n\nUse the C major shape you already know on the neck. For this lesson, every note in the line comes from this scale.",
+          "zh-Hans": "# C大调音阶\nC大调里**没有升号或降号**：\n\n**C – D – E – F – G – A – B – C**\n\n用你已经在指板上学过的C大调指型。本课中的行进贝斯，所有音都只从这个音阶里选。",
+          "de": "# Die C-Dur-Tonleiter\nC-Dur hat **keine Vorzeichen**:\n\n**C – D – E – F – G – A – B – C**\n\nNutze das C-Dur-Pattern, das du schon auf dem Griffbrett kennst. In dieser Lektion stammen alle Töne der Walking-Linie nur aus dieser Tonleiter.",
+          "ja": "# Cメジャー・スケール\nCメジャーには**シャープもフラットもありません**：\n\n**C – D – E – F – G – A – B – C**\n\nすでに練習したCメジャーのポジションをそのまま使いましょう。このレッスンでは、ウォーキング・ラインの音はすべてこのスケールから選びます。",
+          "pt-BR": "# A escala de Dó maior\nDó maior não tem **sustenidos nem bemóis**:\n\n**C – D – E – F – G – A – B – C**\n\nUse o desenho de Dó maior que você já conhece no braço. Nesta lição, todas as notas da linha vêm apenas dessa escala.",
+          "es": "# La escala de Do mayor\nDo mayor no tiene **sostenidos ni bemoles**:\n\n**C – D – E – F – G – A – B – C**\n\nUsa la posición de Do mayor que ya conoces en el mástil. En esta lección, todas las notas de la línea salen sólo de esta escala."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The walking feel\nA basic walking feel is:\n\n- **4 quarter notes per bar**\n- Notes mostly move by **step** (next to each other in the scale)\n- You **land strongly on the root** when the chord changes\n\nThink of it like taking small steps between roots, instead of jumping around at random.",
+          "zh-Hans": "# 行进的感觉\n基础的行进贝斯感觉：\n\n- 每小节 **4 个四分音符**\n- 音与音之间主要是**级进**（在音阶中相邻）\n- 和弦变化时，**强烈地落在主音上**\n\n可以把它想象成：在主音之间走小步，而不是随意“乱跳”。",
+          "de": "# Das Walking-Gefühl\nEin einfacher Walking-Feel ist:\n\n- **4 Viertelnoten pro Takt**\n- Die Töne bewegen sich meist **schrittweise** (Nachbartöne der Tonleiter)\n- Beim Akkordwechsel **landest du klar auf dem Grundton**\n\nStell dir vor, du machst kleine Schritte von Grundton zu Grundton, statt wild auf dem Hals herumzuspringen.",
+          "ja": "# ウォーキングらしいノリ\n基本的なウォーキング・ベースの感覚は：\n\n- 1小節に **4つの4分音符**\n- 音と音の動きは、なるべく**スケール上で隣どうし（ステップ）**\n- コードが変わるところでは、しっかり**ルートに着地**する\n\nルート同士を、ランダムに飛び回るのではなく、小さな歩幅でつないでいくイメージです。",
+          "pt-BR": "# O feeling do walking\nUm walking básico tem:\n\n- **4 semínimas por compasso**\n- Notas andando principalmente em **grau conjunto** (notas vizinhas na escala)\n- **Tônica bem marcada** quando o acorde muda\n\nPense como dar passos curtos entre as tônicas, em vez de sair pulando aleatoriamente pelo braço.",
+          "es": "# El feel del walking\nUn walking básico tiene:\n\n- **4 negras por compás**\n- Las notas se mueven sobre todo por **movimiento conjunto** (notas vecinas en la escala)\n- **Cae con fuerza en la fundamental** cuando cambia el acorde\n\nPiensa que das pasos cortos entre fundamentales, en lugar de saltar por el mástil sin dirección."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Example: 4-bar walking line in C\nTry this simple progression:\n\n- Bar 1: **C major**\n- Bar 2: **F major**\n- Bar 3: **G7**\n- Bar 4: **C major**\n\nExample walking line (each letter = one quarter note):\n\n- Bar 1 (C): **C – D – E – G**\n- Bar 2 (F): **F – G – A – C**\n- Bar 3 (G): **G – A – B – D**\n- Bar 4 (C): **C – E – G – E**\n\nAll notes are inside the C major scale. Notice how each bar **starts on the root** of the chord.",
+          "zh-Hans": "# 示例：C调4小节行进贝斯\n先用一个很常见的和弦进行：\n\n- 第1小节：**C 大三和弦**\n- 第2小节：**F 大三和弦**\n- 第3小节：**G7**\n- 第4小节：**C 大三和弦**\n\n示例行进贝斯（每个字母 = 一个四分音符）：\n\n- 第1小节（C）：**C – D – E – G**\n- 第2小节（F）：**F – G – A – C**\n- 第3小节（G）：**G – A – B – D**\n- 第4小节（C）：**C – E – G – E**\n\n所有音都在C大调范围内。注意每小节都**从当前和弦的主音开始**。",
+          "de": "# Beispiel: 4-taktige Walking-Linie in C\nNimm diese einfache Akkordfolge:\n\n- Takt 1: **C-Dur**\n- Takt 2: **F-Dur**\n- Takt 3: **G7**\n- Takt 4: **C-Dur**\n\nBeispiel für eine Walking-Linie (jeder Buchstabe = eine Viertelnote):\n\n- Takt 1 (C): **C – D – E – G**\n- Takt 2 (F): **F – G – A – C**\n- Takt 3 (G): **G – A – B – D**\n- Takt 4 (C): **C – E – G – E**\n\nAlle Töne stammen aus C-Dur. Achte darauf, dass jeder Takt **auf dem Grundton des Akkords beginnt**.",
+          "ja": "# 例：Cで4小節のウォーキング・ライン\nまずは、よくある進行を使ってみます：\n\n- 1小節目：**Cメジャー**\n- 2小節目：**Fメジャー**\n- 3小節目：**G7**\n- 4小節目：**Cメジャー**\n\nウォーキング・ラインの例（1文字 = 4分音符1つ）：\n\n- 1小節目（C）：**C – D – E – G**\n- 2小節目（F）：**F – G – A – C**\n- 3小節目（G）：**G – A – B – D**\n- 4小節目（C）：**C – E – G – E**\n\nすべてCメジャー・スケールの中の音です。どの小節も、**その小節のコードのルートからスタート**していることに注目してください。",
+          "pt-BR": "# Exemplo: linha de 4 compassos em Dó\nUse esta progressão bem comum:\n\n- Compasso 1: **Dó maior (C)**\n- Compasso 2: **Fá maior (F)**\n- Compasso 3: **Sol7 (G7)**\n- Compasso 4: **Dó maior (C)**\n\nLinha de walking sugerida (cada letra = uma semínima):\n\n- Compasso 1 (C): **C – D – E – G**\n- Compasso 2 (F): **F – G – A – C**\n- Compasso 3 (G): **G – A – B – D**\n- Compasso 4 (C): **C – E – G – E**\n\nTodas as notas estão dentro da escala de Dó maior. Repare que cada compasso **começa na tônica do acorde**.",
+          "es": "# Ejemplo: línea de 4 compases en Do\nPrueba con esta progresión sencilla:\n\n- Compás 1: **Do mayor (C)**\n- Compás 2: **Fa mayor (F)**\n- Compás 3: **Sol7 (G7)**\n- Compás 4: **Do mayor (C)**\n\nEjemplo de línea de walking (cada letra = una negra):\n\n- Compás 1 (C): **C – D – E – G**\n- Compás 2 (F): **F – G – A – C**\n- Compás 3 (G): **G – A – B – D**\n- Compás 4 (C): **C – E – G – E**\n\nTodas las notas están dentro de la escala de Do mayor. Fíjate en que cada compás **empieza en la fundamental del acorde**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Set a metronome to **70–90 BPM**.\n2. Play the 4-bar line on loop, always with **4 quarter notes per bar**.\n3. Count out loud: “1-2-3-4” and say the **chord name** at the start of each bar.\n4. When this feels easy, change the middle notes but **keep the roots on beat 1**.\n\nIf the groove still feels steady while you change notes, you’re really starting to walk.",
+          "zh-Hans": "# 快速练习方案\n1. 把节拍器调到 **70–90 BPM**。\n2. 把这4小节反复循环，始终保持**每小节4个四分音符**。\n3. 大声数拍：“1-2-3-4”，并在每小节开头说出当前的**和弦名**。\n4. 觉得轻松之后，可以改动每小节中间的音，但**第1拍一定要落在主音上**。\n\n如果你能自由换一些音，而律动依然稳，那就说明你的行进贝斯已经开始成型了。",
+          "de": "# Kurze Übe-Routine\n1. Stell das Metronom auf **70–90 BPM**.\n2. Spiele die 4 Takte in einer Schleife, immer mit **4 Viertelnoten pro Takt**.\n3. Zähle laut „1-2-3-4“ und sage zu Beginn jedes Takts den **Akkordnamen**.\n4. Wenn das leicht fällt, verändere die mittleren Töne, aber **lass den Grundton auf Zählzeit 1**.\n\nWenn der Groove stabil bleibt, obwohl du Töne austauschst, bist du wirklich im Walking-Bass-Modus.",
+          "ja": "# かんたん練習ルーティン\n1. メトロノームを **70〜90 BPM** に設定します。\n2. この4小節のラインをループしながら、常に**1小節4つの4分音符**をキープします。\n3. 声に出して「1-2-3-4」と数え、各小節の頭で**コード名**も言ってみましょう。\n4. 慣れてきたら、小節の真ん中の音は入れ替えてOK。その代わり、**1拍目のルートは必ずキープ**します。\n\n音を少し変えてもグルーヴが崩れなくなってきたら、もう立派にウォーキング・ベースができ始めています。",
+          "pt-BR": "# Rotina rápida de prática\n1. Coloque o metrônomo em **70–90 BPM**.\n2. Toque essa linha de 4 compassos em loop, sempre com **4 semínimas por compasso**.\n3. Conte em voz alta: “1-2-3-4” e fale o **nome do acorde** no começo de cada compasso.\n4. Quando estiver fácil, mude as notas do meio, mas **mantenha a tônica no tempo 1**.\n\nSe o groove continua firme mesmo trocando algumas notas, é sinal de que você está realmente começando a “andar” no walking bass.",
+          "es": "# Rutina rápida de práctica\n1. Pon el metrónomo en **70–90 BPM**.\n2. Toca esta línea de 4 compases en bucle, siempre con **4 negras por compás**.\n3. Cuenta en voz alta: “1-2-3-4” y di el **nombre del acorde** al empezar cada compás.\n4. Cuando esto sea fácil, cambia las notas del medio pero **mantén la fundamental en el tiempo 1**.\n\nSi el groove sigue firme mientras cambias algunas notas, es que de verdad estás empezando a caminar con tu walking bass."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

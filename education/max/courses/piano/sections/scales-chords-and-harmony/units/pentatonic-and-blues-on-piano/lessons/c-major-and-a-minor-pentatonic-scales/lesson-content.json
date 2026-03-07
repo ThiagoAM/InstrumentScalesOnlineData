@@ -1,0 +1,86 @@
+{
+  "id": "c-major-and-a-minor-pentatonic-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major and A minor pentatonic scales\nIn this lesson you’ll learn the **C major pentatonic** and **A minor pentatonic** scales on the keyboard.\n\nThey share the **same five notes**, but feel different depending on which note you treat as “home”.",
+          "zh-Hans": "# C大调和A小调五声音阶\n本课你会在键盘上学习 **C大调五声音阶** 和 **A小调五声音阶**。\n\n它们用的是**同样的五个音**，只是“家”的感觉不同，听起来性格也会不一样。",
+          "de": "# C-Dur- und a-Moll-Pentatonik\nIn dieser Lektion lernst du die **C-Dur-Pentatonik** und die **a-Moll-Pentatonik** auf dem Keyboard.\n\nBeide verwenden **dieselben fünf Töne**, wirken aber anders, je nachdem welchen Ton du als „Zuhause“ empfindest.",
+          "ja": "# Cメジャーと Aマイナーのペンタトニック\nこのレッスンでは、キーボードで **Cメジャー・ペンタトニック** と **Aマイナー・ペンタトニック** を練習します。\n\n使うのは**同じ5つの音**ですが、どの音を“ホーム”と感じるかで雰囲気が変わります。",
+          "pt-BR": "# Escalas pentatônicas de Dó maior e Lá menor\nNesta lição você vai aprender as escalas **pentatônicas de Dó maior** e **Lá menor** no teclado.\n\nElas usam **as mesmas cinco notas**, mas soam diferentes dependendo de qual nota você sente como “casa”.",
+          "es": "# Escalas pentatónicas de Do mayor y La menor\nEn esta lección vas a aprender las escalas **pentatónicas de Do mayor** y **La menor** en el teclado.\n\nComparten **las mismas cinco notas**, pero se sienten distintas según qué nota tomes como “hogar”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major pentatonic – notes and sound\nStart from the C major scale:\n\nC – D – E – F – G – A – B – C\n\nNow **remove** the 4th and 7th degrees (F and B). You get:\n\n**C major pentatonic**: **C – D – E – G – A**\n\nIt sounds **open, bright and simple**, great for melodies and riffs.",
+          "zh-Hans": "# C大调五声音阶 – 音和听感\n从 C 大调音阶开始：\n\nC – D – E – F – G – A – B – C\n\n把第4和第7级（F 和 B）去掉，得到：\n\n**C大调五声音阶**：**C – D – E – G – A**\n\n听起来**明亮、开阔、简单好用**，很适合旋律和小动机。",
+          "de": "# C-Dur-Pentatonik – Töne und Klang\nAus der C-Dur-Tonleiter:\n\nC – D – E – F – G – A – H – C\n\nEntferne nun die 4. und 7. Stufe (F und H). Es bleibt:\n\n**C-Dur-Pentatonik**: **C – D – E – G – A**\n\nSie klingt **offen, hell und klar** – ideal für Melodien und Riffs.",
+          "ja": "# Cメジャー・ペンタトニック – 音とサウンド\nまず Cメジャー・スケールから：\n\nC – D – E – F – G – A – B – C\n\nここから4度と7度（F と B）を**抜きます**。\n\n**Cメジャー・ペンタトニック**：**C – D – E – G – A**\n\nとても **明るく、開放的でシンプル** な響きになり、メロディやリフに使いやすいスケールです。",
+          "pt-BR": "# Pentatônica de Dó maior – notas e som\nComece pela escala de Dó maior:\n\nC – D – E – F – G – A – B – C\n\nAgora **tire** o 4º e o 7º graus (F e B). Fica assim:\n\n**Pentatônica de Dó maior**: **C – D – E – G – A**\n\nO som é **aberto, brilhante e direto**, ótimo para melodias e pequenos riffs.",
+          "es": "# Pentatónica de Do mayor – notas y sonido\nPartimos de la escala de Do mayor:\n\nC – D – E – F – G – A – B – C\n\nAhora **quitamos** el 4º y el 7º grado (F y B). Queda:\n\n**Pentatónica de Do mayor**: **C – D – E – G – A**\n\nSuena **abierta, brillante y sencilla**, muy útil para melodías y riffs."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A minor pentatonic – relative shape\nTake the notes from C major pentatonic and start on **A**:\n\n**A – C – D – E – G**\n\nThis is **A minor pentatonic**.\n\nSame notes, new center:\n- C major pentatonic feels **major and bright**\n- A minor pentatonic feels more **minor and soulful**",
+          "zh-Hans": "# A小调五声音阶 – 关系指型\n把 C 大调五声音阶的音换个顺序，从 **A** 开始：\n\n**A – C – D – E – G**\n\n这就是 **A小调五声音阶**。\n\n音没变，只是“中心”变了：\n- C 大调五声听起来更**大调、明亮**\n- A 小调五声则更**小调、带一点灵魂味**",
+          "de": "# a-Moll-Pentatonik – verwandte Form\nNimm die Töne der C-Dur-Pentatonik und beginne auf **A**:\n\n**A – C – D – E – G**\n\nDas ist die **a-Moll-Pentatonik**.\n\nGleiche Töne, anderer Schwerpunkt:\n- C-Dur-Pentatonik wirkt **dur-haft und hell**\n- a-Moll-Pentatonik klingt eher **mollig und „soulful“**",
+          "ja": "# Aマイナー・ペンタトニック – 関係する形\nさきほどの Cメジャー・ペンタトニックの音を、今度は **A** から並べます。\n\n**A – C – D – E – G**\n\nこれが **Aマイナー・ペンタトニック** です。\n\n音は同じでも、中心が変わるとキャラクターが変わります。\n- Cメジャー・ペンタは **明るくメジャー寄り**\n- Aマイナー・ペンタは **少し哀愁のあるマイナー寄り** の雰囲気になります。",
+          "pt-BR": "# Pentatônica de Lá menor – forma relativa\nPegue as notas da pentatônica de Dó maior e comece em **A**:\n\n**A – C – D – E – G**\n\nIsso é a **pentatônica de Lá menor**.\n\nMesmas notas, centro diferente:\n- A pentatônica de Dó maior soa mais **maior e brilhante**\n- A pentatônica de Lá menor soa mais **menor e emotiva**",
+          "es": "# Pentatónica de La menor – forma relativa\nToma las notas de la pentatónica de Do mayor y empieza en **A**:\n\n**A – C – D – E – G**\n\nEsta es la **pentatónica de La menor**.\n\nMismas notas, centro distinto:\n- La pentatónica de Do mayor se siente más **mayor y luminosa**\n- La pentatónica de La menor se siente más **menor y expresiva**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic fingerings (right and left hand)\nUse the mid-register keys (around middle C).\n\n**Right hand – C major pentatonic (5-note pattern)**\n- C–D–E–G–A\n- Fingering: **1–2–3–1–2**\n\n**Right hand – A minor pentatonic (5-note pattern)**\n- A–C–D–E–G\n- Fingering: **1–2–3–1–2**\n\n**Left hand – mirror shapes**\n- C pentatonic C–D–E–G–A: **5–4–3–2–1**\n- A pentatonic A–C–D–E–G: **5–3–2–1–2** (one easy option)\n\nKeep your hand relaxed and let your fingers **stay close to the keys**.",
+          "zh-Hans": "# 基本指法（左右手）\n在中间区域练习（中央C附近）。\n\n**右手 – C大调五声（5个音型）**\n- C–D–E–G–A\n- 指法：**1–2–3–1–2**\n\n**右手 – A小调五声（5个音型）**\n- A–C–D–E–G\n- 指法：**1–2–3–1–2**\n\n**左手 – 对称手型（示例）**\n- C 五声 C–D–E–G–A：**5–4–3–2–1**\n- A 五声 A–C–D–E–G：**5–3–2–1–2**（一种简单选择）\n\n手保持放松，手指**贴近琴键**，不要抬得太高。",
+          "de": "# Grundlegende Fingersätze (rechte und linke Hand)\nÜbe im mittleren Bereich (um das eingestrichene C).\n\n**Rechte Hand – C-Dur-Pentatonik (5-Ton-Muster)**\n- C–D–E–G–A\n- Fingersatz: **1–2–3–1–2**\n\n**Rechte Hand – a-Moll-Pentatonik (5-Ton-Muster)**\n- A–C–D–E–G\n- Fingersatz: **1–2–3–1–2**\n\n**Linke Hand – Spiegel-Varianten**\n- C-Pentatonik C–D–E–G–A: **5–4–3–2–1**\n- A-Pentatonik A–C–D–E–G: **5–3–2–1–2** (eine einfache Möglichkeit)\n\nHalte die Hand locker und die Finger **nah an den Tasten**.",
+          "ja": "# 基本フィンガリング（右手・左手）\n中央Cまわりの中音域で練習しましょう。\n\n**右手 – Cメジャー・ペンタトニック（5音パターン）**\n- C–D–E–G–A\n- 指使い：**1–2–3–1–2**\n\n**右手 – Aマイナー・ペンタトニック（5音パターン）**\n- A–C–D–E–G\n- 指使い：**1–2–3–1–2**\n\n**左手 – おおよその対称形**\n- Cペンタ C–D–E–G–A：**5–4–3–2–1**\n- Aペンタ A–C–D–E–G：**5–3–2–1–2**（弾きやすい一例）\n\n手はリラックスさせて、指が**鍵盤のすぐ上にある状態**を保ちましょう。",
+          "pt-BR": "# Dedilhados básicos (mão direita e esquerda)\nUse a região central do teclado (perto do dó central).\n\n**Mão direita – pentatônica de Dó maior (padrão de 5 notas)**\n- C–D–E–G–A\n- Dedos: **1–2–3–1–2**\n\n**Mão direita – pentatônica de Lá menor (padrão de 5 notas)**\n- A–C–D–E–G\n- Dedos: **1–2–3–1–2**\n\n**Mão esquerda – formas espelhadas**\n- Pentatônica de C (C–D–E–G–A): **5–4–3–2–1**\n- Pentatônica de A (A–C–D–E–G): **5–3–2–1–2** (uma opção simples)\n\nMantenha a mão relaxada e os dedos **bem perto das teclas**.",
+          "es": "# Digitaciones básicas (mano derecha e izquierda)\nTrabaja en la zona central del teclado (cerca del Do central).\n\n**Mano derecha – pentatónica de Do mayor (patrón de 5 notas)**\n- C–D–E–G–A\n- Dedos: **1–2–3–1–2**\n\n**Mano derecha – pentatónica de La menor (patrón de 5 notas)**\n- A–C–D–E–G\n- Dedos: **1–2–3–1–2**\n\n**Mano izquierda – formas en espejo**\n- Pentatónica de C (C–D–E–G–A): **5–4–3–2–1**\n- Pentatónica de A (A–C–D–E–G): **5–3–2–1–2** (una opción sencilla)\n\nMantén la mano relajada y los dedos **cerca de las teclas**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple patterns to feel the shape\nTry these with the right hand first:\n\n1. **Straight up and down**\n   - C pentatonic: C–D–E–G–A–G–E–D (repeat)\n   - A pentatonic: A–C–D–E–G–E–D–C (repeat)\n2. **“Call and response” on one chord**\n   - Over C: C–D–E–G (up), then E–D–C–D (answer)\n   - Over Am: A–C–D–E (up), then E–D–C–A (answer)\n\nKeep the wrist loose and aim for **even tone and timing**.",
+          "zh-Hans": "# 体验指型的简单句型\n先用右手练习下面这些：\n\n1. **直接上行下行**\n   - C 五声：C–D–E–G–A–G–E–D（循环）\n   - A 五声：A–C–D–E–G–E–D–C（循环）\n2. **同一和弦上的“问答”**\n   - 在 C 上：C–D–E–G（上行），然后 E–D–C–D（回答）\n   - 在 Am 上：A–C–D–E（上行），然后 E–D–C–A（回答）\n\n手腕放松，注意**音量和节奏尽量平均**。",
+          "de": "# Einfache Muster, um die Form zu spüren\nProbiere zuerst mit der rechten Hand:\n\n1. **Gerade rauf und runter**\n   - C-Pentatonik: C–D–E–G–A–G–E–D (wiederholen)\n   - A-Pentatonik: A–C–D–E–G–E–D–C (wiederholen)\n2. **„Ruf und Antwort“ auf einem Akkord**\n   - Über C: C–D–E–G (hoch), dann E–D–C–D (Antwort)\n   - Über Am: A–C–D–E (hoch), dann E–D–C–A (Antwort)\n\nHalte das Handgelenk locker und achte auf **gleichmäßigen Klang und Puls**.",
+          "ja": "# 形をつかむためのシンプルなパターン\nまず右手だけで次を試してみましょう。\n\n1. **まっすぐ上がって下がる**\n   - Cペンタ：C–D–E–G–A–G–E–D（くり返し）\n   - Aペンタ：A–C–D–E–G–E–D–C（くり返し）\n2. **1つのコード上での「呼びかけ」と「答え」**\n   - C 上：C–D–E–G（上行）、E–D–C–D（答え）\n   - Am 上：A–C–D–E（上行）、E–D–C–A（答え）\n\n手首は柔らかく、**音量とリズムをそろえる**ことを意識しましょう。",
+          "pt-BR": "# Padrões simples para sentir o desenho\nTeste primeiro com a mão direita:\n\n1. **Subindo e descendo reto**\n   - Pentatônica de C: C–D–E–G–A–G–E–D (repete)\n   - Pentatônica de A: A–C–D–E–G–E–D–C (repete)\n2. **“Pergunta e resposta” em um acorde só**\n   - Sobre C: C–D–E–G (sobe), depois E–D–C–D (responde)\n   - Sobre Am: A–C–D–E (sobe), depois E–D–C–A (responde)\n\nMantenha o pulso solto e busque **som e tempo bem regulares**.",
+          "es": "# Patrones sencillos para sentir la forma\nPrueba primero con la mano derecha:\n\n1. **Subir y bajar directo**\n   - Pentatónica de C: C–D–E–G–A–G–E–D (repetir)\n   - Pentatónica de A: A–C–D–E–G–E–D–C (repetir)\n2. **“Pregunta y respuesta” en un solo acorde**\n   - Sobre C: C–D–E–G (sube), luego E–D–C–D (respuesta)\n   - Sobre Am: A–C–D–E (sube), luego E–D–C–A (respuesta)\n\nMantén la muñeca suelta y busca **tono y pulso parejos**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Right hand: play **C major pentatonic** up and down for 2–4 bars, then switch to **A minor pentatonic** without stopping.\n2. Left hand: hold a **C chord** under C pentatonic, and an **Am chord** under A pentatonic.\n3. Change randomly between “C as home” and “A as home” and listen to how the **mood shifts** even though the notes are the same.\n\nOnce this feels comfortable, you’ll be ready to use these two pentatonic scales in riffs, solos and simple improvisation.",
+          "zh-Hans": "## 快速练习\n1. 右手：先弹 **C大调五声音阶** 上下跑 2–4 小节，然后不停顿直接换成 **A小调五声音阶**。\n2. 左手：在 C 五声时按住 **C 和弦**，在 A 五声时按住 **Am 和弦**。\n3. 随机在“以 C 为家”和“以 A 为家”之间切换，注意听：虽然音完全一样，**情绪却在变化**。\n\n当这些变得轻松自然时，你就可以开始在即兴、小旋律和独奏里自由使用这两种五声音阶了。",
+          "de": "## Kurze Übung\n1. Rechte Hand: spiele die **C-Dur-Pentatonik** 2–4 Takte lang rauf und runter und wechsle dann ohne Pause zur **a-Moll-Pentatonik**.\n2. Linke Hand: halte unter der C-Pentatonik einen **C-Dur-Akkord**, unter der A-Pentatonik einen **a-Moll-Akkord**.\n3. Wechsle nach Belieben zwischen „C als Zuhause“ und „A als Zuhause“ und höre, wie sich die **Stimmung ändert**, obwohl die Töne gleich bleiben.\n\nWenn sich das gut anfühlt, bist du bereit, diese beiden Pentatoniken in Riffs, kleinen Soli und einfachen Improvisationen zu verwenden.",
+          "ja": "## かんたん練習\n1. 右手：まず **Cメジャー・ペンタトニック** を2〜4小節分、上下に弾き、そのまま止まらずに **Aマイナー・ペンタトニック** に切り替えます。\n2. 左手：Cペンタのときは **Cコード**、Aペンタのときは **Amコード** を押さえておきます。\n3. 「C がホーム」と「A がホーム」をランダムに切り替えてみて、同じ音なのに**雰囲気がどう変わるか**をよく聴いてみてください。\n\nこれがスムーズにできるようになれば、この2つのペンタトニックを使ってリフや簡単なソロ、即興にどんどん応用していけます。",
+          "pt-BR": "## Prática rápida\n1. Mão direita: toque a **pentatônica de Dó maior** subindo e descendo por 2–4 compassos e, sem parar, mude para a **pentatônica de Lá menor**.\n2. Mão esquerda: segure um **acorde de C** embaixo da pentatônica de C e um **acorde de Am** embaixo da pentatônica de A.\n3. Troque aleatoriamente entre “C como centro” e “A como centro” e repare como o **clima muda**, mesmo com as mesmas notas.\n\nQuando isso estiver confortável, você estará pronto para usar essas duas pentatônicas em riffs, solos e pequenas improvisações.",
+          "es": "## Práctica rápida\n1. Mano derecha: toca la **pentatónica de Do mayor** subiendo y bajando durante 2–4 compases y, sin parar, cambia a la **pentatónica de La menor**.\n2. Mano izquierda: sostén un **acorde de C** debajo de la pentatónica de C y un **acorde de Am** debajo de la pentatónica de A.\n3. Cambia de forma aleatoria entre “C como centro” y “A como centro” y escucha cómo el **ambiente cambia**, aunque las notas sean las mismas.\n\nCuando esto se sienta cómodo, estarás listo para usar estas dos pentatónicas en riffs, solos y pequeñas improvisaciones."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

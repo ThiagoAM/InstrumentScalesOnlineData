@@ -1,0 +1,58 @@
+[
+  {
+    "id": "open-strings-first-position-notes",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Open Strings and First-Position Notes",
+        "zh-Hans": "开放弦和第一把位音符",
+        "de": "Leersaiten und Noten in der ersten Lage",
+        "ja": "開放弦と第1ポジションの音",
+        "pt-BR": "Cordas soltas e notas na primeira posição",
+        "es": "Cuerdas al aire y notas en primera posición"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Name the open strings and learn the first few fretted notes on each.",
+        "zh-Hans": "认识各根弦的空弦名称，并学习每根弦上前几个按弦音。",
+        "de": "Benenne die Leersaiten und lerne die ersten gegriffenen Töne auf jeder Saite.",
+        "ja": "各弦の開放弦の名前を覚え、それぞれの弦で最初のいくつかの押さえた音を学びましょう。",
+        "pt-BR": "Nomeie as cordas soltas e aprenda as primeiras notas pressionadas em cada uma delas.",
+        "es": "Nombra las cuerdas al aire y aprende las primeras notas pisadas en cada una."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "finding-same-note-different-strings",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Finding the Same Note on Different Strings",
+        "zh-Hans": "在不同弦上找到相同的音",
+        "de": "Den gleichen Ton auf verschiedenen Saiten finden",
+        "ja": "異なる弦で同じ音を見つける",
+        "pt-BR": "Encontrando a mesma nota em cordas diferentes",
+        "es": "Encontrar la misma nota en distintas cuerdas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Locate matching pitches in multiple places to understand the fretboard layout.",
+        "zh-Hans": "在指板的不同位置找到相同的音高，以理解指板布局。",
+        "de": "Finde dieselben Töne an mehreren Stellen, um das Griffbrettlayout zu verstehen.",
+        "ja": "指板上のさまざまな場所で同じ音程を探し、指板の配置を理解しましょう。",
+        "pt-BR": "Encontre o mesmo som em vários lugares para entender melhor o mapa do braço.",
+        "es": "Localiza el mismo sonido en varios puntos para entender la distribución del diapasón."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

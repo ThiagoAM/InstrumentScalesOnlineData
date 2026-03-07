@@ -1,0 +1,73 @@
+{
+  "id": "playing-roots-quarter-notes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Root notes in quarter notes\nIn this lesson you’ll groove using **only root notes**, played as **steady quarter notes**.\n\nThis is the most basic bass job: keep time, hit the root, and make the band feel solid.",
+          "zh-Hans": "# 用四分音符弹主音\n在本课中，你会只用**主音**，以**稳定的四分音符**来营造律动。\n\n这是贝斯最基础的职责：稳定节奏、落在主音上，让整体听起来扎实。",
+          "de": "# Grundtöne in Viertelnoten\nIn dieser Lektion groovst du nur mit **Grundtönen**, gespielt als **gleichmäßige Viertelnoten**.\n\nDas ist der Basis-Job des Basses: Tempo halten, den Grundton treffen und die Band stabil klingen lassen.",
+          "ja": "# ルート音を4分音符で弾く\nこのレッスンでは、**ルート音だけ**を使って、**一定の4分音符**でグルーヴを作ります。\n\nベースのいちばん基本的な役割は「時間をキープして、ルートをしっかり支える」ことです。",
+          "pt-BR": "# Tocar a tônica em semínimas\nNesta lição você vai tocar apenas a **tônica (root)** em **semínimas (quarter notes)**, bem constantes.\n\nEsse é o trabalho mais básico do baixo: segurar o tempo, acertar a tônica e deixar tudo firme.",
+          "es": "# Tocar la fundamental en negras\nEn esta lección vas a hacer groove usando sólo la **fundamental (root)** en **negras (quarter notes)** bien parejas.\n\nEste es el trabajo más básico del bajo: mantener el tiempo, tocar la fundamental y hacer que todo suene firme."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What is the root?\nThe **root** is the note that gives the chord or scale its name.\n\nExamples:\n- In **C major**, C is the root\n- In **A minor**, A is the root\n\nOn bass, landing clearly on the root tells everyone “this is the chord we’re on right now”.",
+          "zh-Hans": "# 什么是主音？\n**主音**就是给和弦或音阶命名的那个音。\n\n例如：\n- 在 **C 大调** 中，C 是主音\n- 在 **A 小调** 中，A 是主音\n\n在贝斯上，清楚地落在主音上，就是在告诉所有人：“现在的和弦是这个。”",
+          "de": "# Was ist der Grundton?\nDer **Grundton** ist der Ton, der Akkord oder Tonleiter den Namen gibt.\n\nBeispiele:\n- In **C-Dur** ist C der Grundton\n- In **A-Moll** ist A der Grundton\n\nAuf dem Bass zeigt ein klar gespielter Grundton der Band: „Hier sind wir gerade im Akkord.“",
+          "ja": "# ルート音って？\n**ルート音（root）**は、そのコードやスケールの名前になっている音です。\n\n例：\n- **Cメジャー** なら C がルート\n- **Aマイナー** なら A がルート\n\nベースがはっきりルートに着地すると、「今はこのコードだよ」とバンド全体に知らせることができます。",
+          "pt-BR": "# O que é a tônica?\nA **tônica** (root) é a nota que dá nome ao acorde ou à escala.\n\nExemplos:\n- Em **Dó maior**, C é a tônica\n- Em **Lá menor**, A é a tônica\n\nNo baixo, cair certinho na tônica avisa para todo mundo: “é esse acorde que está soando agora”.",
+          "es": "# ¿Qué es la fundamental?\nLa **fundamental (root)** es la nota que le da nombre al acorde o a la escala.\n\nEjemplos:\n- En **Do mayor**, C es la fundamental\n- En **La menor**, A es la fundamental\n\nEn el bajo, caer de forma clara en la fundamental le dice a todos: “este es el acorde en el que estamos ahora”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic exercise\nPick one root note to work with. For example:\n- **A** on the 4th string, 5th fret\n\nNow:\n1. Set a metronome to **60–70 BPM**\n2. Play that root as **quarter notes** on beats 1-2-3-4\n3. Let each note ring until the next beat\n4. Keep your plucking consistent (same finger order, same strength)\n\nStay on this one note for a full minute without losing the pulse.",
+          "zh-Hans": "# 基础练习\n先选一个主音来练习，比如：\n- 第4弦第5品的 **A**\n\n然后：\n1. 把节拍器调到 **60–70 BPM**\n2. 在每小节的 1-2-3-4 拍上，用**四分音符**弹这个主音\n3. 每个音让它延续到下一拍\n4. 右手拨弦要保持一致（手指顺序、力度尽量相同）\n\n尽量坚持整整一分钟都不“掉拍”。",
+          "de": "# Basisübung\nSuch dir einen Grundton aus, zum Beispiel:\n- **A** auf der 4. Saite, 5. Bund\n\nDann:\n1. Metronom auf **60–70 BPM** stellen\n2. Diesen Grundton als **Viertelnoten** auf Zählzeit 1-2-3-4 spielen\n3. Jeden Ton bis zur nächsten Zählzeit klingen lassen\n4. Anschlag gleichmäßig halten (gleiche Fingerfolge, gleiche Stärke)\n\nBleib mindestens eine Minute lang auf diesem einen Ton, ohne den Puls zu verlieren.",
+          "ja": "# 基本エクササイズ\nまず、練習用にルート音を1つ決めます。例：\n- 4弦5フレットの **A**\n\nそのうえで：\n1. メトロノームを **60〜70 BPM** に設定\n2. 1-2-3-4 の各拍で、そのルートを**4分音符**で弾きます\n3. 1音ずつ、次の拍までしっかり伸ばす\n4. 右手はできるだけ同じ指順・同じ強さで弾きます\n\nこの1音だけで、1分間テンポを崩さずにキープしてみましょう。",
+          "pt-BR": "# Exercício básico\nEscolha uma tônica para trabalhar. Por exemplo:\n- **A** na 4ª corda, 5º traste\n\nAgora:\n1. Coloque o metrônomo em **60–70 BPM**\n2. Toque essa tônica em **semínimas**, nos tempos 1-2-3-4\n3. Deixe cada nota soar até a próxima batida\n4. Mantenha o ataque da mão direita consistente (mesma sequência de dedos, mesma força)\n\nFique nesse único som por um minuto inteiro sem perder o pulso.",
+          "es": "# Ejercicio básico\nElige una fundamental para trabajar. Por ejemplo:\n- **A** en la 4ª cuerda, traste 5\n\nLuego:\n1. Pon el metrónomo en **60–70 BPM**\n2. Toca esa nota en **negras**, en los tiempos 1-2-3-4\n3. Deja que cada nota suene hasta el siguiente pulso\n4. Mantén el ataque de la mano derecha parejo (mismo orden de dedos, misma fuerza)\n\nQuédate en esta sola nota durante un minuto completo sin perder el pulso."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Moving to simple progressions\nWhen that feels steady, try using roots over **two chords**. For example:\n\n- 2 bars of **A minor** (root = A)\n- 2 bars of **D minor** (root = D)\n\nPlay quarter notes on each root:\n- A A A A | A A A A\n- D D D D | D D D D\n\nChange cleanly on bar 3 without rushing or dragging.",
+          "zh-Hans": "# 移动到简单和弦走向\n当单个音已经很稳定时，试试在**两个和弦**之间切换主音。例如：\n\n- 2 小节 **A 小调**（主音 = A）\n- 2 小节 **D 小调**（主音 = D）\n\n每个和弦都用四分音符弹主音：\n- A A A A | A A A A\n- D D D D | D D D D\n\n在第 3 小节换到 D 时，要干净利落，不要抢拍也不要拖拍。",
+          "de": "# Wechsel auf einfache Akkordfolgen\nWenn sich das stabil anfühlt, probiere **zwei Akkorde** aus. Zum Beispiel:\n\n- 2 Takte **A-Moll** (Grundton = A)\n- 2 Takte **D-Moll** (Grundton = D)\n\nSpiel Viertelnoten auf den Grundtönen:\n- A A A A | A A A A\n- D D D D | D D D D\n\nWechsle im 3. Takt sauber auf D, ohne zu hetzen oder zu schleppen.",
+          "ja": "# シンプルな進行で練習\n1音で安定してきたら、**2つのコード**でルートを弾いてみましょう。例：\n\n- 2小節 **Aマイナー**（ルート = A）\n- 2小節 **Dマイナー**（ルート = D）\n\nそれぞれのルートを4分音符で：\n- A A A A | A A A A\n- D D D D | D D D D\n\n3小節目の頭で、あわてず・遅れずに D に切り替えることを意識します。",
+          "pt-BR": "# Indo para pequenas progressões\nQuando isso estiver firme, use as tônicas em **dois acordes**. Por exemplo:\n\n- 2 compassos de **Lá menor** (tônica = A)\n- 2 compassos de **Ré menor** (tônica = D)\n\nToque semínimas na tônica de cada acorde:\n- A A A A | A A A A\n- D D D D | D D D D\n\nTroque para D no 3º compasso de forma limpa, sem correr nem atrasar.",
+          "es": "# Pasar a progresiones sencillas\nCuando eso se sienta firme, usa las fundamentales sobre **dos acordes**. Por ejemplo:\n\n- 2 compases de **La menor** (root = A)\n- 2 compases de **Re menor** (root = D)\n\nToca negras en la fundamental de cada acorde:\n- A A A A | A A A A\n- D D D D | D D D D\n\nCambia a D en el compás 3 de forma limpia, sin adelantarte ni quedarte atrás."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Next step\nWhen quarter-note roots feel boring (in a good way), you’re ready to add the **fifth** and create more movement while keeping the same solid pulse.",
+          "zh-Hans": "# 下一步\n当你觉得用四分音符弹主音已经“无聊到很稳”时（这是一件好事），就可以开始加入**五度音**，在不破坏稳定节奏的前提下，让线条更有动感了。",
+          "de": "# Nächster Schritt\nWenn Viertelnoten auf dem Grundton sich „langweilig stabil“ anfühlen (im positiven Sinne), bist du bereit, die **Quinte** dazuzunehmen und mehr Bewegung zu erzeugen, ohne den soliden Puls zu verlieren.",
+          "ja": "# 次のステップ\n4分音符のルートだけで「いい意味で退屈」になってきたら、次は**5度**を足すタイミングです。同じ安定した脈をキープしたまま、ラインに動きをつけていきましょう。",
+          "pt-BR": "# Próximo passo\nQuando tocar só tônica em semínimas ficar “entediantemente estável” (no bom sentido), é sinal de que você está pronto para adicionar a **quinta** e criar mais movimento sem perder o pulso firme.",
+          "es": "# Siguiente paso\nCuando tocar sólo la fundamental en negras se sienta “aburridamente estable” (en el buen sentido), es señal de que ya estás listo para añadir la **quinta** y darle más movimiento a la línea sin perder el pulso sólido."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

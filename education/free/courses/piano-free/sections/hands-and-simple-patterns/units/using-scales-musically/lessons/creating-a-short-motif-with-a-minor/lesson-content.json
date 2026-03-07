@@ -1,0 +1,86 @@
+{
+  "id": "creating-a-short-motif-with-a-minor",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Creating a short motif with A minor\nIn this lesson you’ll build a **tiny musical idea** (a motif) using the **A natural minor scale**.\n\nA motif is a **short, repeatable pattern** you can reuse and vary to make your playing sound more musical.",
+          "zh-Hans": "# 用A小调创作一个短动机\n在本课中，你会用 **A自然小调音阶** 做出一个**很小的音乐片段（动机）**。\n\n“动机”就是一个可以**反复使用、稍作变化**的小型音乐句子，让你的弹奏更有音乐味道。",
+          "de": "# Ein kurzes Motiv mit A-Moll erstellen\nIn dieser Lektion baust du aus der **A natürlich Moll-Tonleiter** eine **kleine musikalische Idee** – ein Motiv.\n\nEin Motiv ist ein **kurzes, wiederholbares Muster**, das du immer wieder benutzen und leicht verändern kannst, damit dein Spiel musikalischer wirkt.",
+          "ja": "# Aマイナーで短いモチーフを作る\nこのレッスンでは、**Aナチュラル・マイナー・スケール**を使って、**小さな音のかたまり（モチーフ）**を作っていきます。\n\nモチーフとは、**何度もくり返したり、少し変化させたりできる短いフレーズ**のことです。",
+          "pt-BR": "# Criando um motivo curto em Lá menor\nNesta lição você vai criar uma **pequena ideia musical** (um motivo) usando a **escala de Lá menor natural**.\n\nUm motivo é um **padrinho curto e repetível** que você reaproveita e varia para deixar o seu toque mais musical.",
+          "es": "# Creando un motivo corto en La menor\nEn esta lección vas a crear una **pequeña idea musical** (un motivo) usando la **escala de La menor natural**.\n\nUn motivo es un **patrón corto y repetible** que puedes reutilizar y variar para que tu forma de tocar suene más musical."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup: notes and hand position\nWe’ll use **right hand** on **A natural minor** starting on the **A above middle C**:\n\n- Notes in A natural minor: **A–B–C–D–E–F–G–A**\n- Place **thumb (1)** on that A\n- Fingers **2–3–4–5** on B–C–D–E\n- Keep a light, relaxed hand and count **“1–2–3–4”** for each bar\n\nPlay softly so you can focus on the pattern, not on force.",
+          "zh-Hans": "# 准备：音与手型\n我们用**右手**弹 **A自然小调**，从**中央C上方的那个A**开始：\n\n- A自然小调的音：**A–B–C–D–E–F–G–A**\n- **1指（大拇指）**放在这个A上\n- **2–3–4–5 指**分别放在 B–C–D–E\n- 手保持轻松，节拍按每小节 **“1–2–3–4”** 来数\n\n一开始轻一点弹，把注意力放在音型本身，而不是用力大小。",
+          "de": "# Vorbereitung: Töne und Handposition\nWir benutzen die **rechte Hand** in **A natürlich Moll**, beginnend auf dem **A über dem mittleren C**:\n\n- Töne in A natürlich Moll: **A–B–C–D–E–F–G–A**\n- **Daumen (1)** auf dieses A\n- Finger **2–3–4–5** auf B–C–D–E\n- Hand locker halten und pro Takt **„1–2–3–4“** zählen\n\nSpiel leise, damit du dich auf das Muster konzentrieren kannst – nicht auf Kraft.",
+          "ja": "# セットアップ：音と手の位置\nここでは **右手**で、**ミドルCの1つ上のA**から始まる **Aナチュラル・マイナー**を使います：\n\n- Aナチュラル・マイナーの音：**A–B–C–D–E–F–G–A**\n- **1の指（親指）**をそのAに置く\n- **2・3・4・5の指**をB・C・D・Eの上に置く\n- 手をリラックスさせて、1小節ごとに「**1・2・3・4**」と数えます\n\n最初はそっと弾いて、力よりも**パターンの形**に意識を向けましょう。",
+          "pt-BR": "# Preparação: notas e posição da mão\nVamos usar a **mão direita** em **Lá menor natural**, começando no **Lá logo acima do Dó central**:\n\n- Notas de Lá menor natural: **A–B–C–D–E–F–G–A**\n- Coloque o **polegar (1)** nesse Lá\n- Dedos **2–3–4–5** em B–C–D–E\n- Mantenha a mão leve e conte **“1–2–3–4”** em cada compasso\n\nComece tocando suave, focando no desenho do padrão, não na força.",
+          "es": "# Preparación: notas y posición de la mano\nUsaremos la **mano derecha** en **La menor natural**, empezando en el **La justo por encima del Do central**:\n\n- Notas de La menor natural: **A–B–C–D–E–F–G–A**\n- Coloca el **pulgar (1)** en ese La\n- Dedos **2–3–4–5** en B–C–D–E\n- Mantén la mano ligera y cuenta **“1–2–3–4”** por compás\n\nEmpieza tocando suave para concentrarte en el patrón y no en la fuerza."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Your core motif\nWe’ll build a 1-bar motif using the A minor triad (A–C–E):\n\n**Motif (1 bar, all quarter notes)**  \nA – C – E – C  \n(count: 1 – 2 – 3 – 4)\n\nSuggested fingering (right hand):\n- A – finger **1**\n- C – finger **3**\n- E – finger **5**\n- C – finger **3**\n\nPlay this slowly until it feels like one clear, tiny “word” in the A minor language.",
+          "zh-Hans": "# 第1步——你的核心动机\n我们先用 A 小三和弦（A–C–E）做一个 1 小节的动机：\n\n**动机（1小节，全是四分音符）**  \nA – C – E – C  \n（数拍：1 – 2 – 3 – 4）\n\n右手推荐指法：\n- A – **1指**\n- C – **3指**\n- E – **5指**\n- C – **3指**\n\n慢慢练到它听起来像 A 小调里的一个清晰的小“词”，而不是四个散开的音。",
+          "de": "# Schritt 1 – Dein Kernmotiv\nWir bauen ein ein­taktiges Motiv aus dem A-Moll-Dreiklang (A–C–E):\n\n**Motiv (1 Takt, alles Viertelnoten)**  \nA – C – E – C  \n(Zählzeit: 1 – 2 – 3 – 4)\n\nVorgeschlagener Fingersatz (rechte Hand):\n- A – Finger **1**\n- C – Finger **3**\n- E – Finger **5**\n- C – Finger **3**\n\nSpiel es so lange langsam, bis es sich wie ein kleines, klares „Wort“ in der Sprache von A-Moll anfühlt.",
+          "ja": "# ステップ1 – コアになるモチーフ\nまず、Aマイナーのトライアド（A–C–E）を使って、1小節のモチーフを作ります：\n\n**モチーフ（1小節、すべて4分音符）**  \nA – C – E – C  \n（カウント：1 – 2 – 3 – 4）\n\n右手のおすすめフィンガリング：\n- A – **1の指**\n- C – **3の指**\n- E – **5の指**\n- C – **3の指**\n\nゆっくり練習して、この形がAマイナーの中の**1つのはっきりした“言葉”**のように感じられるまで慣れていきましょう。",
+          "pt-BR": "# Etapa 1 – Seu motivo principal\nVamos montar um motivo de 1 compasso usando o tríade de Lá menor (A–C–E):\n\n**Motivo (1 compasso, todas semínimas)**  \nA – C – E – C  \n(contagem: 1 – 2 – 3 – 4)\n\nSugestão de digitação (mão direita):\n- A – dedo **1**\n- C – dedo **3**\n- E – dedo **5**\n- C – dedo **3**\n\nToque devagar até isso soar como uma **palavrinha clara em Lá menor**, e não apenas quatro notas soltas.",
+          "es": "# Paso 1 – Tu motivo principal\nVamos crear un motivo de 1 compás usando la tríada de La menor (A–C–E):\n\n**Motivo (1 compás, todas negras)**  \nA – C – E – C  \n(cuenta: 1 – 2 – 3 – 4)\n\nDigitación sugerida (mano derecha):\n- A – dedo **1**\n- C – dedo **3**\n- E – dedo **5**\n- C – dedo **3**\n\nTócalo despacio hasta que se sienta como una **palabrita clara en “idioma” La menor**, y no sólo cuatro notas sueltas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Repeat and answer the motif\nNow turn your motif into a **2-bar phrase**:\n\n- **Bar 1:** A – C – E – C (original motif)  \n- **Bar 2:** G – B – D – B (same shape, moved down one step in the scale)\n\nSuggested fingering for bar 2:\n- G – finger **1**\n- B – finger **3**\n- D – finger **5**\n- B – finger **3**\n\nThink of bar 1 as a **question** and bar 2 as a **soft answer**.",
+          "zh-Hans": "# 第2步——重复并“回答”动机\n现在把动机变成一个**两小节的乐句**：\n\n- **第1小节：** A – C – E – C（原来的动机）  \n- **第2小节：** G – B – D – B（把同样的形状在音阶里下移一度）\n\n第2小节推荐指法：\n- G – **1指**\n- B – **3指**\n- D – **5指**\n- B – **3指**\n\n可以把第1小节当成一个**提问**，第2小节当成一个**温和的回答**。",
+          "de": "# Schritt 2 – Motiv wiederholen und beantworten\nJetzt machst du aus deinem Motiv eine **zweitaktige Phrase**:\n\n- **Takt 1:** A – C – E – C (ursprüngliches Motiv)  \n- **Takt 2:** G – B – D – B (gleiche Form, eine Stufe in der Skala nach unten verschoben)\n\nVorgeschlagener Fingersatz für Takt 2:\n- G – Finger **1**\n- B (H) – Finger **3**\n- D – Finger **5**\n- B (H) – Finger **3**\n\nDenk Takt 1 als **Frage** und Takt 2 als **sanfte Antwort**.",
+          "ja": "# ステップ2 – モチーフをくり返して“こたえる”\n次に、このモチーフを使って**2小節のフレーズ**にします：\n\n- **1小節目：** A – C – E – C（元のモチーフ）  \n- **2小節目：** G – B – D – B（同じ形を、スケール上で1度だけ下にずらしたもの）\n\n2小節目のおすすめフィンガリング：\n- G – **1の指**\n- B – **3の指**\n- D – **5の指**\n- B – **3の指**\n\n1小節目を**質問**、2小節目を**やさしい答え**だとイメージして弾いてみましょう。",
+          "pt-BR": "# Etapa 2 – Repetir e responder o motivo\nAgora vamos transformar o motivo em uma **frase de 2 compassos**:\n\n- **Compasso 1:** A – C – E – C (motivo original)  \n- **Compasso 2:** G – B – D – B (mesmo desenho, descendo um grau na escala)\n\nSugestão de digitação para o 2º compasso:\n- G – dedo **1**\n- B – dedo **3**\n- D – dedo **5**\n- B – dedo **3**\n\nPense no 1º compasso como uma **pergunta** e no 2º como uma **resposta suave**.",
+          "es": "# Paso 2 – Repetir y responder el motivo\nAhora convierte tu motivo en una **frase de 2 compases**:\n\n- **Compás 1:** A – C – E – C (motivo original)  \n- **Compás 2:** G – B – D – B (misma forma, bajada un grado en la escala)\n\nDigitación sugerida para el compás 2:\n- G – dedo **1**\n- B – dedo **3**\n- D – dedo **5**\n- B – dedo **3**\n\nPiensa en el compás 1 como una **pregunta** y en el compás 2 como una **respuesta suave**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Simple variations\nOnce the basic 2-bar idea feels easy, try these **small variations**:\n\n- **Rhythm change:**  \n  Make the last note of each bar a **half note** (hold for beats 3–4).\n- **Direction change:**  \n  Play E–C–A–C instead of A–C–E–C (start from the top and come down).\n- **Scale move:**  \n  Start the motif on **E** (E–G–B–G) and then on **D** (D–F–A–F).\n\nKeep the idea short. You’re just “playing with” your tiny A minor phrase.",
+          "zh-Hans": "# 第3步——做一些小变化\n当这两小节的基本型变得轻松之后，可以尝试这些**小变体**：\n\n- **节奏变化：**  \n  让每小节最后一个音变成**二分音符**（占第3和第4拍）。\n- **进行方向变化：**  \n  把 A–C–E–C 改成 E–C–A–C，从上往下走一遍。\n- **音级移动：**  \n  试着从 **E** 开始同样的形状（E–G–B–G），再从 **D** 开始（D–F–A–F）。\n\n保持句子很短就好，你只是用不同方式在“玩”这个 A 小调的小片段。",
+          "de": "# Schritt 3 – Einfache Variationen\nWenn sich die zweitaktige Idee leicht anfühlt, probiere diese **kleinen Varianten** aus:\n\n- **Rhythmus ändern:**  \n  Mach den letzten Ton jedes Takts zur **Halben** (halte auf Zählzeit 3–4).\n- **Richtung ändern:**  \n  Spiel E–C–A–C statt A–C–E–C, also von oben nach unten.\n- **In der Skala verschieben:**  \n  Starte das Motiv auf **E** (E–G–B–G) und dann auf **D** (D–F–A–F).\n\nHalte die Idee kurz. Du „spielst“ nur auf verschiedene Arten mit deinem kleinen A-Moll-Satz.",
+          "ja": "# ステップ3 – かんたんなバリエーション\n基本の2小節がラクに弾けるようになったら、こんな**小さな変化**を試してみましょう：\n\n- **リズムを変える：**  \n  各小節の最後の音を**2分音符**にして、3〜4拍目まで伸ばします。\n- **進行方向を変える：**  \n  A–C–E–C の代わりに E–C–A–C と弾いて、上から下におりてくる形にします。\n- **スケール上で動かす：**  \n  同じ形を **E** から始めてみる（E–G–B–G）、さらに **D** からも試してみる（D–F–A–F）。\n\nフレーズは短いままでOK。Aマイナーの小さなフレーズで、いろいろ**遊んでいる**イメージです。",
+          "pt-BR": "# Etapa 3 – Variações simples\nQuando a ideia básica de 2 compassos estiver tranquila, experimente estas **pequenas variações**:\n\n- **Mudar o ritmo:**  \n  Transforme a última nota de cada compasso em uma **mínima** (segura nos tempos 3–4).\n- **Mudar a direção:**  \n  Toque E–C–A–C em vez de A–C–E–C, começando de cima para baixo.\n- **Mover na escala:**  \n  Comece o mesmo desenho a partir de **E** (E–G–B–G) e depois a partir de **D** (D–F–A–F).\n\nMantenha a ideia curtinha. A ideia é só **brincar** com a sua pequena frase em Lá menor.",
+          "es": "# Paso 3 – Variaciones sencillas\nCuando la idea básica de 2 compases se sienta fácil, prueba estas **pequeñas variaciones**:\n\n- **Cambiar el ritmo:**  \n  Convierte la última nota de cada compás en **blanca** (sostenida en los tiempos 3–4).\n- **Cambiar la dirección:**  \n  Toca E–C–A–C en lugar de A–C–E–C, empezando desde arriba hacia abajo.\n- **Moverla en la escala:**  \n  Empieza el mismo dibujo desde **E** (E–G–B–G) y luego desde **D** (D–F–A–F).\n\nMantén la idea corta. Sólo estás **jugando** con tu pequeña frase en La menor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Play the **core motif** (A–C–E–C) 4 times in a row, counting 1–2–3–4.  \n2. Add the **“answer” bar** (G–B–D–B) and play the 2-bar phrase 4 times.  \n3. Try **one variation** each round (change rhythm, direction, or starting note).  \n4. Finish by picking your **favorite version** and playing it a few extra times.\n\nWhen this feels natural, you’ll already have a small A minor motif you can drop into other songs and improvisations.",
+          "zh-Hans": "# 快速练习流程\n1. 连续弹 **核心动机**（A–C–E–C）4 遍，一直数 1–2–3–4。  \n2. 加上“**回答**”小节（G–B–D–B），把这两小节当一组，连弹 4 遍。  \n3. 每一轮试着加**一种小变化**（改节奏、改走向或换起始音）。  \n4. 最后选出你**最喜欢的版本**，多弹几遍让它更自然。\n\n当这些练习变得顺手时，你就已经拥有了一个可以用在其他曲子和即兴里的 A 小调小动机。",
+          "de": "# Kurze Übe-Routine\n1. Spiele das **Kernmotiv** (A–C–E–C) 4-mal hintereinander und zähle 1–2–3–4.  \n2. Füge den **„Antwort“-Takt** (G–B–D–B) hinzu und spiel die zweitaktige Phrase 4-mal.  \n3. Nimm in jeder Runde **eine kleine Variation** dazu (Rhythmus, Richtung oder Startton ändern).  \n4. Such dir am Ende deine **Lieblingsversion** aus und spiel sie ein paar Extrarunden.\n\nWenn sich das natürlich anfühlt, hast du bereits ein kleines A-Moll-Motiv, das du in andere Stücke und in Improvisationen einbauen kannst.",
+          "ja": "# かんたん練習ルーティン\n1. **コア・モチーフ**（A–C–E–C）を4回続けて弾き、ずっと「1・2・3・4」と数えます。  \n2. そこに**“こたえ”の小節**（G–B–D–B）を加えて、2小節セットを4回くり返します。  \n3. 1セットごとに、**1つだけバリエーション**を入れてみましょう（リズム・方向・出発音のどれかを変える）。  \n4. 最後に、自分が**一番しっくりくるバージョン**を選んで、何回か多めに弾いてみてください。\n\nここまでが自然にできれば、もうあなたは他の曲や即興の中に差し込める、小さなAマイナーのモチーフを手に入れています。",
+          "pt-BR": "# Rotina rápida de prática\n1. Toque o **motivo principal** (A–C–E–C) 4 vezes seguidas, contando 1–2–3–4.  \n2. Depois, acrescente o compasso de **“resposta”** (G–B–D–B) e toque a frase de 2 compassos 4 vezes.  \n3. Em cada rodada, teste **uma variação** (mudar o ritmo, a direção ou a nota de partida).  \n4. No fim, escolha a **versão que você mais gostou** e toque ela mais algumas vezes.\n\nQuando isso estiver natural, você já terá um pequeno motivo em Lá menor pronto para usar em outras músicas e em improvisos.",
+          "es": "# Rutina rápida de práctica\n1. Toca el **motivo principal** (A–C–E–C) 4 veces seguidas, contando 1–2–3–4.  \n2. Añade el compás de **“respuesta”** (G–B–D–B) y toca la frase de 2 compases 4 veces.  \n3. En cada vuelta, prueba **una variación** (cambia el ritmo, la dirección o la nota de inicio).  \n4. Al final, elige tu **versión favorita** y tócala unas cuantas veces más.\n\nCuando esto se sienta natural, ya tendrás un pequeño motivo en La menor listo para usar en otras canciones y en tus improvisaciones."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

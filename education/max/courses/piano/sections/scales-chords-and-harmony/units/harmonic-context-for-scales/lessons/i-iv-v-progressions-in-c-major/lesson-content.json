@@ -1,0 +1,73 @@
+{
+  "id": "i-iv-v-progressions-in-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# I–IV–V progressions in C major\nIn this lesson you’ll use the **C major scale** to build and play the classic **I–IV–V chord progression**.\n\nIn C major, that means the chords **C, F and G**. These three chords are the backbone of thousands of songs.",
+          "zh-Hans": "# C大调中的 I–IV–V 进行\n本课你会用 **C大调音阶** 来搭建并弹奏经典的 **I–IV–V 和弦进行**。\n\n在 C 大调里，这三个和弦就是 **C、F 和 G**。它们是无数歌曲的“骨架”。",
+          "de": "# I–IV–V-Kadenzen in C-Dur\nIn dieser Lektion nutzt du die **C-Dur-Tonleiter**, um die klassische **I–IV–V-Akkordfolge** zu spielen.\n\nIn C-Dur sind das die Akkorde **C, F und G**. Diese drei Akkorde bilden das Rückgrat von Tausenden Songs.",
+          "ja": "# Cメジャーでの I–IV–V 進行\nこのレッスンでは、**Cメジャー・スケール**から作ったおなじみの **I–IV–V コード進行** を使って練習します。\n\nCメジャーでは、これは **C・F・G** の3つのコードを意味します。無数の曲の土台になっている超・基本セットです。",
+          "pt-BR": "# Progressões I–IV–V em Dó maior\nNesta lição você vai usar a **escala de Dó maior** para tocar a clássica progressão de acordes **I–IV–V**.\n\nEm Dó maior, isso significa os acordes **C, F e G**. Esses três acordes são a espinha dorsal de milhares de músicas.",
+          "es": "# Progresiones I–IV–V en Do mayor\nEn esta lección vas a usar la **escala de Do mayor** para tocar la clásica progresión de acordes **I–IV–V**.\n\nEn Do mayor, esto significa los acordes **C, F y G**. Estos tres acordes son la columna vertebral de miles de canciones."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The I, IV and V chords in C major\nFrom the C major scale **C–D–E–F–G–A–B–C**:\n\n- **I (C major)**: C–E–G\n- **IV (F major)**: F–A–C\n- **V (G major)**: G–B–D\n\nRight hand (root position): use **1–3–5** on each chord.\nLeft hand: use **5–3–1**.\n\nPlay each chord as a **block chord** and listen to how I feels like “home”, IV like “away”, and V like “tension wanting to go back”.",
+          "zh-Hans": "# C大调中的 I、IV、V 和弦\n从 C 大调音阶 **C–D–E–F–G–A–B–C** 出发：\n\n- **I（C大三和弦）**：C–E–G\n- **IV（F大三和弦）**：F–A–C\n- **V（G大三和弦）**：G–B–D\n\n右手（原位）：每个和弦用 **1–3–5指**。\n左手：用 **5–3–1指**。\n\n先把每个和弦当作**齐奏和弦**按下，感受：I 像“家”，IV 像“离开一下”，V 带着“想回家的紧张感”。",
+          "de": "# Die I-, IV- und V-Akkorde in C-Dur\nAus der C-Dur-Tonleiter **C–D–E–F–G–A–H–C** ergeben sich:\n\n- **I (C-Dur)**: C–E–G\n- **IV (F-Dur)**: F–A–C\n- **V (G-Dur)**: G–H–D\n\nRechte Hand (Grundstellung): jeweils **Finger 1–3–5**.\nLinke Hand: **5–3–1**.\n\nSpiele jeden Akkord als **Blockakkord** und höre hin: I fühlt sich wie „Zuhause“ an, IV wie „weiter weg“, V nach **Spannung, die zurück will**.",
+          "ja": "# Cメジャーの I・IV・V コード\nCメジャー・スケール **C–D–E–F–G–A–B–C** から：\n\n- **I（Cメジャー）**：C–E–G\n- **IV（Fメジャー）**：F–A–C\n- **V（Gメジャー）**：G–B–D\n\n右手（ルートポジション）：どのコードも **1–3–5**。\n左手：**5–3–1** を使います。\n\nまずはそれぞれを**固まりのコード**として弾き分けてみてください。I は“家”、IV は“少し離れた場所”、V は“早く家に戻りたい感じの緊張”として聴こえるはずです。",
+          "pt-BR": "# Os acordes I, IV e V em Dó maior\nA partir da escala de Dó maior **C–D–E–F–G–A–B–C**:\n\n- **I (Dó maior)**: C–E–G\n- **IV (Fá maior)**: F–A–C\n- **V (Sol maior)**: G–B–D\n\nMão direita (posição fundamental): use **1–3–5** em cada acorde.\nMão esquerda: use **5–3–1**.\n\nToque cada acorde como **acorde em bloco** e perceba: I soa como “casa”, IV como “dar uma volta” e V como uma **tensão pedindo para voltar**.",
+          "es": "# Los acordes I, IV y V en Do mayor\nDesde la escala de Do mayor **C–D–E–F–G–A–B–C** obtenemos:\n\n- **I (Do mayor)**: C–E–G\n- **IV (Fa mayor)**: F–A–C\n- **V (Sol mayor)**: G–B–D\n\nMano derecha (posición fundamental): **1–3–5** en cada acorde.\nMano izquierda: **5–3–1**.\n\nToca cada acorde como un **acorde en bloque** y escucha: I suena a “hogar”, IV a “irse un poco” y V a **tensión que quiere volver**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic I–IV–V patterns\nTry these simple 4-bar patterns, hands separate at first.\n\n1. **I–IV–V–I**\n   - C | F | G | C\n2. **I–V–IV–I**\n   - C | G | F | C\n\nHold each chord for **4 beats**. Count out loud: “1-2-3-4” for every bar.\n\nFocus on **clean changes** and even time, not speed.",
+          "zh-Hans": "# 基本 I–IV–V 走向\n先用单双手分开，试试这些简单的 4 小节模式：\n\n1. **I–IV–V–I**\n   - C | F | G | C\n2. **I–V–IV–I**\n   - C | G | F | C\n\n每个和弦先按住 **4拍**，边弹边数：“1-2-3-4”。\n\n重点是**干净地换和弦**和稳定的节奏，而不是弹快。",
+          "de": "# Einfache I–IV–V-Muster\nProbiere diese einfachen 4-Takt-Folgen, zunächst mit getrennten Händen:\n\n1. **I–IV–V–I**\n   - C | F | G | C\n2. **I–V–IV–I**\n   - C | G | F | C\n\nHalte jeden Akkord **4 Schläge** lang. Zähle laut „1-2-3-4“ pro Takt.\n\nWichtiger als Tempo sind **saubere Wechsel** und ein ruhiger Puls.",
+          "ja": "# 基本の I–IV–V パターン\nまずは左右別々で、シンプルな4小節パターンを弾いてみましょう。\n\n1. **I–IV–V–I**\n   - C | F | G | C\n2. **I–V–IV–I**\n   - C | G | F | C\n\n各コードを **4拍** ずつ伸ばしながら、「1-2-3-4」と声に出して数えます。\n\n速さよりも、**きれいなコードチェンジ**と一定のリズムを大事にしてください。",
+          "pt-BR": "# Padrões básicos I–IV–V\nTeste estes padrões simples de 4 compassos, primeiro com as mãos separadas:\n\n1. **I–IV–V–I**\n   - C | F | G | C\n2. **I–V–IV–I**\n   - C | G | F | C\n\nSegure cada acorde por **4 tempos**. Conte em voz alta: “1-2-3-4” em cada compasso.\n\nFoque em **trocas limpas** e tempo constante, não em tocar rápido.",
+          "es": "# Patrones básicos I–IV–V\nPrueba estos patrones sencillos de 4 compases, primero con las manos por separado:\n\n1. **I–IV–V–I**\n   - C | F | G | C\n2. **I–V–IV–I**\n   - C | G | F | C\n\nMantén cada acorde durante **4 pulsos**. Cuenta en voz alta: “1-2-3-4” en cada compás.\n\nConcéntrate en **cambios limpios** y un pulso estable, más que en la velocidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Linking scales and chords\nUse the **C major scale** as a melody on top of I–IV–V.\n\nFor example, right hand:\n- Play a short scale fragment: C–D–E–G\n- Land on a **chord tone** when the chord changes:\n  - Over C: end on **C** or **E**\n  - Over F: end on **F** or **A**\n  - Over G: end on **G** or **B**\n\nYou’re training your ear to hear how **scale notes fit inside the chords**.",
+          "zh-Hans": "# 把音阶和和弦连起来\n在 I–IV–V 的和弦下面，用 **C大调音阶** 做一个简单旋律。\n\n例如右手：\n- 弹一个短音阶片段：C–D–E–G\n- 和弦要换时，让旋律停在对应的**和弦音**上：\n  - C 和弦时落在 **C** 或 **E**\n  - F 和弦时落在 **F** 或 **A**\n  - G 和弦时落在 **G** 或 **B**\n\n这样你在训练耳朵，去听每个**音阶音如何“嵌”进和弦**里。",
+          "de": "# Skalen und Akkorde verbinden\nNutze die **C-Dur-Tonleiter** als kleine Melodie über I–IV–V.\n\nZum Beispiel rechte Hand:\n- Spiele ein kurzes Skalenfragment: C–D–E–G\n- Lande bei jedem Akkordwechsel auf einem **Akkordton**:\n  - Über C: auf **C** oder **E**\n  - Über F: auf **F** oder **A**\n  - Über G: auf **G** oder **H**\n\nSo schulst du dein Gehör dafür, wie **Skalentöne in die Akkorde passen**.",
+          "ja": "# スケールとコードをつなぐ\nI–IV–V のコードの上で、右手で **Cメジャー・スケール** を使った短いメロディを弾いてみます。\n\n例：右手\n- 小さなフレーズ：C–D–E–G\n- コードが変わるタイミングで、そのコードの**構成音**に着地するようにします。\n  - C のときは **C** または **E**\n  - F のときは **F** または **A**\n  - G のときは **G** または **B**\n\nこうすることで、**スケールの音がコードの中でどんな役割をしているか**を耳で覚えていけます。",
+          "pt-BR": "# Ligando escalas e acordes\nUse a **escala de Dó maior** como uma mini melodia por cima do I–IV–V.\n\nPor exemplo, na mão direita:\n- Toque um fragmento da escala: C–D–E–G\n- Quando o acorde mudar, tente terminar em um **som de acorde**:\n  - Sobre C: termine em **C** ou **E**\n  - Sobre F: termine em **F** ou **A**\n  - Sobre G: termine em **G** ou **B**\n\nAssim você treina o ouvido para perceber como os **sons da escala se encaixam nos acordes**.",
+          "es": "# Conectando escalas y acordes\nUsa la **escala de Do mayor** como pequeña melodía por encima del I–IV–V.\n\nPor ejemplo, mano derecha:\n- Toca un fragmento de escala: C–D–E–G\n- Cuando cambie el acorde, intenta terminar en un **tono del acorde**:\n  - Sobre C: termina en **C** o **E**\n  - Sobre F: termina en **F** o **A**\n  - Sobre G: termina en **G** o **B**\n\nAsí entrenas tu oído para escuchar cómo los **sonidos de la escala encajan dentro de los acordes**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play **I–IV–V–I** (C–F–G–C) with the left hand only, 4 beats each.\n2. Add the right hand playing just **single chord tones** (C/E/G, F/A/C, G/B/D).\n3. Then let the right hand play **short C major scale fragments** that land on chord tones.\n4. Swap roles: right hand plays chords, left hand plays simple scale tones.\n\nWhen this feels comfortable, you’ll have a solid sense of how the **C major scale sits inside the I–IV–V harmony**.",
+          "zh-Hans": "## 快速练习\n1. 先只用左手弹 **I–IV–V–I**（C–F–G–C），每个和弦 4 拍。\n2. 右手加进来，只弹对应的**和弦单音**（C/E/G，F/A/C，G/B/D）。\n3. 接着让右手改成弹一些 **C大调音阶的小片段**，在换和弦时落在和弦音上。\n4. 然后交换角色：右手弹和弦，左手弹简单的音阶音。\n\n当这些都变得自然好弹时，你对 **C大调音阶在 I–IV–V 和声里的位置**就会有很扎实的感觉了。",
+          "de": "## Kurze Übung\n1. Spiele **I–IV–V–I** (C–F–G–C) nur mit der linken Hand, jeweils 4 Schläge.\n2. Ergänze die rechte Hand mit einzelnen **Akkordtönen** (C/E/G, F/A/C, G/H/D).\n3. Lass die rechte Hand dann kleine **C-Dur-Skalenfragmente** spielen, die auf Akkordtönen landen.\n4. Tausche die Rollen: rechte Hand spielt die Akkorde, linke Hand einfache Skalentöne.\n\nWenn sich das entspannt anfühlt, hast du ein gutes Gefühl dafür, wie die **C-Dur-Tonleiter in der I–IV–V-Harmonie steckt**.",
+          "ja": "## かんたん練習\n1. まず左手だけで **I–IV–V–I**（C–F–G–C）を弾き、各コードを4拍ずつ伸ばします。\n2. 右手を足して、最初はそれぞれのコードの**構成音だけ**（C/E/G、F/A/C、G/B/D）を単音で弾きます。\n3. 次に右手を、和音の上で **Cメジャー・スケールの短いフレーズ** に変え、コードチェンジのときに構成音に着地するようにします。\n4. 役割を入れ替えます。右手がコード、左手がシンプルなスケール音を担当します。\n\nここまでが自然にできるようになれば、**Cメジャー・スケールが I–IV–V のハーモニーの中にどう収まっているか**を体でつかめているはずです。",
+          "pt-BR": "## Prática rápida\n1. Toque **I–IV–V–I** (C–F–G–C) só com a mão esquerda, 4 tempos em cada acorde.\n2. Acrescente a mão direita tocando apenas **notas soltas do acorde** (C/E/G, F/A/C, G/B/D).\n3. Depois deixe a mão direita tocar **pequenos trechos da escala de Dó maior**, sempre pousando em sons do acorde quando ele mudar.\n4. Inverta os papéis: mão direita nos acordes, mão esquerda em notas simples da escala.\n\nQuando isso estiver confortável, você vai ter uma boa sensação de como a **escala de Dó maior vive dentro da harmonia I–IV–V**.",
+          "es": "## Práctica rápida\n1. Toca **I–IV–V–I** (C–F–G–C) solo con la mano izquierda, 4 pulsos por acorde.\n2. Añade la mano derecha tocando solo **notas sueltas del acorde** (C/E/G, F/A/C, G/B/D).\n3. Luego deja que la mano derecha toque **pequeños fragmentos de la escala de Do mayor**, aterrizando en tonos del acorde cuando este cambie.\n4. Cambia los roles: mano derecha en los acordes, mano izquierda en notas simples de la escala.\n\nCuando esto se sienta cómodo, tendrás una buena sensación de cómo la **escala de Do mayor se acomoda dentro de la armonía I–IV–V**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

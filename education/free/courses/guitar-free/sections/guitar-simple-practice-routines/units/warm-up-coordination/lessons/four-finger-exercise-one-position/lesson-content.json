@@ -1,0 +1,73 @@
+{
+  "id": "four-finger-exercise-one-position",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Four-finger exercise in one position\nThis classic exercise trains **finger independence** and keeps your hand in one place on the neck.\n\nIt feels simple, but it quietly improves your control a lot.",
+          "zh-Hans": "# 同一把位的四指练习\n这个经典练习可以训练**手指独立性**，让你的手在琴颈上的同一位置稳定工作。\n\n看起来很简单，但会悄悄地大幅提升你的控制力。",
+          "de": "# Vier-Finger-Übung in einer Lage\nDiese klassische Übung trainiert die **Unabhängigkeit der Finger** und hält deine Hand in einer festen Position auf dem Griffbrett.\n\nSie wirkt simpel, verbessert aber deine Kontrolle enorm.",
+          "ja": "# 1ポジション内での4フィンガー・エクササイズ\nこの定番エクササイズは、**指の独立性**を鍛え、同じポジションで安定して弾くための練習です。\n\nシンプルに見えますが、コントロール力をしっかり底上げしてくれます。",
+          "pt-BR": "# Exercício de quatro dedos em uma posição\nEste exercício clássico treina a **independência dos dedos** e mantém a mão em um único ponto do braço.\n\nParece simples, mas melhora muito o controle sem você perceber.",
+          "es": "# Ejercicio de cuatro dedos en una posición\nEste ejercicio clásico entrena la **independencia de los dedos** y mantiene la mano en un solo lugar del mástil.\n\nParece sencillo, pero mejora mucho el control con el tiempo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# One finger per fret\nChoose a comfortable area, for example starting at **fret 5**.\n\nAssign one finger to each fret:\n\n- Fret 5 → finger 1 (index)\n- Fret 6 → finger 2 (middle)\n- Fret 7 → finger 3 (ring)\n- Fret 8 → finger 4 (pinky)\n\nKeep your thumb behind the neck and avoid squeezing too hard.",
+          "zh-Hans": "# 一品一指\n选择一个感觉舒服的区域，比如从 **第5品** 开始。\n\n给每个品格固定一根手指：\n\n- 第5品 → 1指（食指）\n- 第6品 → 2指（中指）\n- 第7品 → 3指（无名指）\n- 第8品 → 4指（小指）\n\n大拇指放在琴颈后面，不要用力死抓。",
+          "de": "# Ein Finger pro Bund\nSuch dir eine bequeme Stelle aus, zum Beispiel ab dem **5. Bund**.\n\nOrdne jedem Bund einen Finger zu:\n\n- 5. Bund → Finger 1 (Zeigefinger)\n- 6. Bund → Finger 2 (Mittelfinger)\n- 7. Bund → Finger 3 (Ringfinger)\n- 8. Bund → Finger 4 (kleiner Finger)\n\nDer Daumen bleibt hinter dem Hals, ohne zu fest zuzudrücken.",
+          "ja": "# 1フレットにつき1本の指\n弾きやすい位置を選びます。たとえば **5フレット** から始めてみましょう。\n\n各フレットに指を割り当てます：\n\n- 5フレット → 指1（人差し指）\n- 6フレット → 指2（中指）\n- 7フレット → 指3（薬指）\n- 8フレット → 指4（小指）\n\n親指はネックの裏に軽く置き、強く握りすぎないようにします。",
+          "pt-BR": "# Um dedo por traste\nEscolha uma região confortável, por exemplo começando no **5º traste**.\n\nSepare um dedo para cada traste:\n\n- Traste 5 → dedo 1 (indicador)\n- Traste 6 → dedo 2 (médio)\n- Traste 7 → dedo 3 (anelar)\n- Traste 8 → dedo 4 (mínimo)\n\nDeixe o polegar atrás do braço, sem apertar demais.",
+          "es": "# Un dedo por traste\nElige una zona cómoda, por ejemplo empezando en el **traste 5**.\n\nAsigna un dedo a cada traste:\n\n- Traste 5 → dedo 1 (índice)\n- Traste 6 → dedo 2 (medio)\n- Traste 7 → dedo 3 (anular)\n- Traste 8 → dedo 4 (meñique)\n\nMantén el pulgar detrás del mástil, sin apretar en exceso."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic pattern across the strings\nWe’ll play the same 1–2–3–4 pattern on four strings.\n\nExample (starting on the 6th string):\n\n1. 6th string: frets 5–6–7–8 (1–2–3–4)\n2. 5th string: frets 5–6–7–8 (1–2–3–4)\n3. 4th string: frets 5–6–7–8 (1–2–3–4)\n4. 3rd string: frets 5–6–7–8 (1–2–3–4)\n\nThen go back up:\n\n- 3rd string: 8–7–6–5\n- 4th string: 8–7–6–5\n- 5th string: 8–7–6–5\n- 6th string: 8–7–6–5",
+          "zh-Hans": "# 穿弦的基本模式\n我们在四根弦上都弹同样的1–2–3–4模式。\n\n例如，从第6弦开始：\n\n1. 第6弦：5–6–7–8品（1–2–3–4指）\n2. 第5弦：5–6–7–8品（1–2–3–4指）\n3. 第4弦：5–6–7–8品（1–2–3–4指）\n4. 第3弦：5–6–7–8品（1–2–3–4指）\n\n然后反向返回：\n\n- 第3弦：8–7–6–5\n- 第4弦：8–7–6–5\n- 第5弦：8–7–6–5\n- 第6弦：8–7–6–5",
+          "de": "# Grundpattern über mehrere Saiten\nWir spielen dasselbe 1–2–3–4-Muster auf vier Saiten.\n\nBeispiel (beginnend auf der 6. Saite):\n\n1. 6. Saite: Bünde 5–6–7–8 (Finger 1–2–3–4)\n2. 5. Saite: Bünde 5–6–7–8 (1–2–3–4)\n3. 4. Saite: Bünde 5–6–7–8 (1–2–3–4)\n4. 3. Saite: Bünde 5–6–7–8 (1–2–3–4)\n\nDann wieder zurück:\n\n- 3. Saite: 8–7–6–5\n- 4. Saite: 8–7–6–5\n- 5. Saite: 8–7–6–5\n- 6. Saite: 8–7–6–5",
+          "ja": "# 弦をまたいだ基本パターン\n同じ「1–2–3–4」の動きを、複数の弦でくり返します。\n\n例：6弦からスタートする場合\n\n1. 6弦：5–6–7–8フレット（指1–2–3–4）\n2. 5弦：5–6–7–8フレット（1–2–3–4）\n3. 4弦：5–6–7–8フレット（1–2–3–4）\n4. 3弦：5–6–7–8フレット（1–2–3–4）\n\nそのあと逆戻りします：\n\n- 3弦：8–7–6–5\n- 4弦：8–7–6–5\n- 5弦：8–7–6–5\n- 6弦：8–7–6–5",
+          "pt-BR": "# Padrão básico atravessando as cordas\nVamos tocar o mesmo padrão 1–2–3–4 em quatro cordas.\n\nExemplo (começando na 6ª corda):\n\n1. 6ª corda: trastes 5–6–7–8 (dedos 1–2–3–4)\n2. 5ª corda: trastes 5–6–7–8 (1–2–3–4)\n3. 4ª corda: trastes 5–6–7–8 (1–2–3–4)\n4. 3ª corda: trastes 5–6–7–8 (1–2–3–4)\n\nDepois volte:\n\n- 3ª corda: 8–7–6–5\n- 4ª corda: 8–7–6–5\n- 5ª corda: 8–7–6–5\n- 6ª corda: 8–7–6–5",
+          "es": "# Patrón básico a través de las cuerdas\nTocaremos el mismo patrón 1–2–3–4 en cuatro cuerdas.\n\nEjemplo (empezando en la 6ª cuerda):\n\n1. 6ª cuerda: trastes 5–6–7–8 (dedos 1–2–3–4)\n2. 5ª cuerda: trastes 5–6–7–8 (1–2–3–4)\n3. 4ª cuerda: trastes 5–6–7–8 (1–2–3–4)\n4. 3ª cuerda: trastes 5–6–7–8 (1–2–3–4)\n\nLuego vuelve:\n\n- 3ª cuerda: 8–7–6–5\n- 4ª cuerda: 8–7–6–5\n- 5ª cuerda: 8–7–6–5\n- 6ª cuerda: 8–7–6–5"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Coordination tips\n- Use **alternate picking** if possible\n- Keep your fingers close to the strings (don’t lift them too high)\n- Move only the finger that is playing, keep the others relaxed\n- Start slow and increase speed only when it feels easy\n\nA few careful minutes with this exercise can make every scale you play feel smoother.",
+          "zh-Hans": "# 协调小贴士\n- 尽量使用**交替拨弦**\n- 手指尽量靠近琴弦（不要抬得太高）\n- 只移动正在按弦的那一指，其它手指保持轻松贴近\n- 先慢速练习，感觉轻松后再稍微加快\n\n每天花几分钟认真做这个练习，会让你之后弹任何音阶都更顺畅。",
+          "de": "# Tipps für die Koordination\n- Nutze nach Möglichkeit **Wechselschlag**\n- Halte die Finger nah an den Saiten (nicht zu weit abheben)\n- Bewege nur den Finger, der gerade spielt, die anderen bleiben locker\n- Starte langsam und erhöhe das Tempo erst, wenn es sich leicht anfühlt\n\nEin paar konzentrierte Minuten mit dieser Übung lassen später jede Tonleiter geschmeidiger wirken.",
+          "ja": "# コーディネーションのコツ\n- できれば**オルタネイト・ピッキング**を使いましょう\n- 指は弦のすぐ上にキープし、高く振り上げすぎない\n- 実際に押さえている指だけを動かし、ほかの指は力を抜いて近くに置いておく\n- まずはゆっくりから始めて、「余裕がある」と感じたら少しずつテンポを上げる\n\nこのエクササイズに毎日少しだけ集中して取り組むと、その後に弾く音階全体がなめらかに感じられるようになります。",
+          "pt-BR": "# Dicas de coordenação\n- Use **palhetada alternada** sempre que puder\n- Mantenha os dedos perto das cordas (sem levantar demais)\n- Mexa só o dedo que está tocando e deixe os outros relaxados\n- Comece devagar e aumente a velocidade só quando estiver fácil\n\nAlguns minutos bem feitos com esse exercício deixam qualquer escala muito mais suave de tocar.",
+          "es": "# Consejos de coordinación\n- Usa **púa alternada** siempre que puedas\n- Mantén los dedos cerca de las cuerdas (sin levantarlos demasiado)\n- Mueve solo el dedo que toca y deja los demás relajados\n- Empieza despacio y sube la velocidad solo cuando se sienta fácil\n\nUnos pocos minutos concentrados con este ejercicio harán que cualquier escala que toques se sienta más fluida."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use this as a quick check-in at the start of your practice: if this exercise feels smooth, your hands are ready for scales, chords, and songs.",
+          "zh-Hans": "可以把这个练习当作每天练琴前的小测试：如果它弹起来很顺，你的双手就已经为后面的音阶、和弦和曲子做好准备了。",
+          "de": "Nutze diese Übung als kurzen Check zu Beginn deiner Session: Wenn sie sich flüssig anfühlt, sind deine Hände bereit für Tonleitern, Akkorde und Songs.",
+          "ja": "このエクササイズを、毎回の練習前の“チェック”として使ってみてください。これがスムーズに弾ければ、もう音階やコード、曲の練習に入る準備はできています。",
+          "pt-BR": "Use este exercício como um check rápido no começo do estudo: se ele estiver soando suave, suas mãos estão prontas para encarar escalas, acordes e músicas.",
+          "es": "Usa este ejercicio como una comprobación rápida al inicio de la práctica: si se siente fluido, tus manos están listas para escalas, acordes y canciones."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
+}

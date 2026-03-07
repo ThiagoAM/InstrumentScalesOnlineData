@@ -1,0 +1,58 @@
+[
+  {
+    "id": "soloing-with-d-dorian-over-a-ii-v-progression",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Soloing with D Dorian over a ii–V Progression",
+        "zh-Hans": "在 ii–V 进行上使用 D 多利亚调即兴",
+        "de": "Improvisieren mit D-Dorisch über eine ii–V-Progression",
+        "ja": "ii–V進行でDドリアンを使ってソロを弾く",
+        "pt-BR": "Improvisando com D Dórico sobre uma progressão ii–V",
+        "es": "Solear con D dórico sobre una progresión ii–V"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "mixolydian-for-rock-and-blues-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mixolydian for Rock and Blues Grooves",
+        "zh-Hans": "用于摇滚与布鲁斯节奏的混合利底亚调式",
+        "de": "Mixolydisch für Rock- und Blues-Grooves",
+        "ja": "ロックとブルースのグルーヴにおけるミクソリディアン",
+        "pt-BR": "Mixolídio para grooves de rock e blues",
+        "es": "Mixolidio para grooves de rock y blues"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

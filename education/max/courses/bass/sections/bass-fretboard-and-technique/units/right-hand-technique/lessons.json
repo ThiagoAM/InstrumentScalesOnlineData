@@ -1,0 +1,86 @@
+[
+  {
+    "id": "alternating-fingers-index-middle",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Alternating Fingers (Index/Middle)",
+        "zh-Hans": "交替拨弦（食指/中指）",
+        "de": "Wechselnde Finger (Zeige-/Mittelfinger)",
+        "ja": "交互運指（人差し指／中指）",
+        "pt-BR": "Dedos alternados (indicador/médio)",
+        "es": "Dedos alternados (índice/medio)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "consistent-plucking-dynamics",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Consistent Plucking Dynamics",
+        "zh-Hans": "均匀拨弦力度",
+        "de": "Konstante Anschlagsdynamik",
+        "ja": "一定したピッキングのダイナミクス",
+        "pt-BR": "Dinâmica consistente na palhetada/dedilhado",
+        "es": "Dinámica consistente al pulsar las cuerdas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "string-crossing-with-scale-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "String Crossing with Scale Patterns",
+        "zh-Hans": "结合音阶型的跨弦练习",
+        "de": "Saitenwechsel mit Tonleitermustern",
+        "ja": "スケールパターンを使った弦移動",
+        "pt-BR": "Troca de cordas com padrões de escala",
+        "es": "Cruce de cuerdas con patrones de escala"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

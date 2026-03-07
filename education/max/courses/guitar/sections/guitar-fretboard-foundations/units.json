@@ -1,0 +1,83 @@
+[
+  {
+    "id": "landmarks-and-positions",
+    "name": {
+      "values": {
+        "en": "Landmarks and Positions",
+        "zh-Hans": "指板地标与位置",
+        "de": "Orientierungspunkte und Positionen",
+        "ja": "ランドマークとポジション",
+        "pt-BR": "Pontos de Referência e Posições",
+        "es": "Puntos de referencia y posiciones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Landmarks and Positions",
+        "zh-Hans": "指板地标与位置",
+        "de": "Orientierungspunkte und Positionen",
+        "ja": "ランドマークとポジション",
+        "pt-BR": "Pontos de Referência e Posições",
+        "es": "Puntos de referencia y posiciones"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "reading-and-practicing-scales",
+    "name": {
+      "values": {
+        "en": "Reading and Practicing Scales",
+        "zh-Hans": "读谱与音阶练习",
+        "de": "Lesen und Üben von Skalen",
+        "ja": "スケールの読み方と練習",
+        "pt-BR": "Lendo e Praticando Escalas",
+        "es": "Lectura y práctica de escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Reading and Practicing Scales",
+        "zh-Hans": "读谱与音阶练习",
+        "de": "Lesen und Üben von Skalen",
+        "ja": "スケールの読み方と練習",
+        "pt-BR": "Lendo e Praticando Escalas",
+        "es": "Lectura y práctica de escalas"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-and-natural-minor-basics",
+    "name": {
+      "values": {
+        "en": "Major and Natural Minor Basics",
+        "zh-Hans": "大调与自然小调基础",
+        "de": "Grundlagen von Dur und natürlichem Moll",
+        "ja": "メジャーとナチュラルマイナーの基礎",
+        "pt-BR": "Fundamentos de Maior e Menor Natural",
+        "es": "Conceptos básicos de mayor y menor natural"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major and Natural Minor Basics",
+        "zh-Hans": "大调与自然小调基础",
+        "de": "Grundlagen von Dur und natürlichem Moll",
+        "ja": "メジャーとナチュラルマイナーの基礎",
+        "pt-BR": "Fundamentos de Maior e Menor Natural",
+        "es": "Conceptos básicos de mayor y menor natural"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

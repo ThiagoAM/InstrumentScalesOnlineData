@@ -1,0 +1,73 @@
+{
+  "id": "creating-bass-lines-from-c-major-scale",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Turning C major into bass lines\nThe **C major scale** (C–D–E–F–G–A–B) is a clean, bright sound that works for pop, rock and worship.\n\nHere you’ll use one simple C major shape on the neck and turn it into short bass lines that sit well in a groove.",
+          "zh-Hans": "# 用 C 大调做低音走线\n**C 大调音阶**（C–D–E–F–G–A–B）声音干净、明亮，适合流行、摇滚、敬拜等风格。\n\n这里你会用一个简单的 C 大调指型，在指板上把它变成好用又好 groove 的低音走线。",
+          "de": "# Aus der C-Dur-Tonleiter Basslinien bauen\nDie **C-Dur-Tonleiter** (C–D–E–F–G–A–B) klingt klar und hell und passt gut zu Pop, Rock und Worship.\n\nHier verwendest du ein einfaches C-Dur-Pattern auf dem Griffbrett und formst daraus kurze Basslinien, die gut grooven.",
+          "ja": "# Cメジャーからベースラインを作る\n**Cメジャー・スケール**（C–D–E–F–G–A–B）は、明るくてクセが少なく、ポップスやロック、ワーシップなどにぴったりのサウンドです。\n\nこのレッスンでは、1つのシンプルなCメジャーの形を使って、グルーヴにしっかりハマるベースラインにしていきます。",
+          "pt-BR": "# Transformando a escala de Dó maior em linhas de baixo\nA **escala de Dó maior** (C–D–E–F–G–A–B) tem um som limpo e brilhante, perfeito para pop, rock e worship.\n\nAqui você vai usar um desenho simples de Dó maior no braço e transformar em linhas de baixo curtas que encaixam bem no groove.",
+          "es": "# Convirtiendo la escala de Do mayor en líneas de bajo\nLa **escala de Do mayor** (C–D–E–F–G–A–B) tiene un sonido limpio y brillante, ideal para pop, rock y worship.\n\nAquí vas a usar una forma sencilla de Do mayor en el mástil y convertirla en líneas de bajo cortas que se sienten bien en el groove."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major shape on the neck\n4-string bass in E–A–D–G.\n\nWe’ll center everything around **C on the A string**:\n\n- 3rd string (A), 3rd fret – **C** (root)\n- 3rd string, 5th fret – **D**\n- 2nd string (D), 2nd fret – **E**\n- 2nd string, 3rd fret – **F**\n- 2nd string, 5th fret – **G**\n- 1st string (G), 2nd fret – **A**\n- 1st string, 4th fret – **B**\n- 1st string, 5th fret – **C** (octave)\n\nKeep one finger per fret from **2 to 5** and let C (3rd string, 3rd fret) feel like “home base”.",
+          "zh-Hans": "# 指板上的 C 大调指型\n4 弦贝斯，E–A–D–G 定弦。\n\n我们以 **A 弦上的 C** 为中心：\n\n- 第 3 弦（A 弦）第 3 品 – **C**（主音）\n- 第 3 弦 第 5 品 – **D**\n- 第 2 弦（D 弦）第 2 品 – **E**\n- 第 2 弦 第 3 品 – **F**\n- 第 2 弦 第 5 品 – **G**\n- 第 1 弦（G 弦）第 2 品 – **A**\n- 第 1 弦 第 4 品 – **B**\n- 第 1 弦 第 5 品 – **C**（高八度）\n\n左手尽量在 **第 2 到第 5 品** 做到一品一指，让 C（第 3 弦第 3 品）成为你的“家”位置。",
+          "de": "# C-Dur-Shape auf dem Griffbrett\n4-saitiger Bass, Stimmung E–A–D–G.\n\nWir bauen alles um **C auf der A-Saite** herum:\n\n- 3. Saite (A), 3. Bund – **C** (Grundton)\n- 3. Saite, 5. Bund – **D**\n- 2. Saite (D), 2. Bund – **E**\n- 2. Saite, 3. Bund – **F**\n- 2. Saite, 5. Bund – **G**\n- 1. Saite (G), 2. Bund – **A**\n- 1. Saite, 4. Bund – **B**\n- 1. Saite, 5. Bund – **C** (Oktave)\n\nNutze möglichst einen Finger pro Bund von **2 bis 5** und lass C (3. Saite, 3. Bund) sich wie dein „Zuhause“ anfühlen.",
+          "ja": "# 指板上のCメジャーの形\n4弦ベース（E–A–D–Gチューニング）。\n\nここでは **A弦上のC** を中心にします：\n\n- 3弦（A）3フレット – **C**（ルート）\n- 3弦 5フレット – **D**\n- 2弦（D）2フレット – **E**\n- 2弦 3フレット – **F**\n- 2弦 5フレット – **G**\n- 1弦（G）2フレット – **A**\n- 1弦 4フレット – **B**\n- 1弦 5フレット – **C**（オクターブ）\n\n左手はできるだけ **2〜5フレットを1フレット1本**でカバーして、C（3弦3フレット）を“帰ってくる場所”として覚えましょう。",
+          "pt-BR": "# Desenho de Dó maior no braço\nBaixo de 4 cordas afinado em E–A–D–G.\n\nVamos colocar tudo em volta do **C na corda A**:\n\n- 3ª corda (A), 3ª casa – **C** (tônica)\n- 3ª corda, 5ª casa – **D**\n- 2ª corda (D), 2ª casa – **E**\n- 2ª corda, 3ª casa – **F**\n- 2ª corda, 5ª casa – **G**\n- 1ª corda (G), 2ª casa – **A**\n- 1ª corda, 4ª casa – **B**\n- 1ª corda, 5ª casa – **C** (oitava)\n\nTente usar um dedo por casa entre a **2 e a 5** e sinta o C (3ª corda, 3ª casa) como seu “ponto de casa”.",
+          "es": "# Dibujo de Do mayor en el mástil\nBajo de 4 cuerdas afinado E–A–D–G.\n\nVamos centrar todo alrededor de **Do en la cuerda A**:\n\n- 3ª cuerda (A), traste 3 – **C** (tónica)\n- 3ª cuerda, traste 5 – **D**\n- 2ª cuerda (D), traste 2 – **E**\n- 2ª cuerda, traste 3 – **F**\n- 2ª cuerda, traste 5 – **G**\n- 1ª cuerda (G), traste 2 – **A**\n- 1ª cuerda, traste 4 – **B**\n- 1ª cuerda, traste 5 – **C** (octava)\n\nUsa un dedo por traste entre **2 y 5** y siente el Do (3ª cuerda, traste 3) como tu “casa”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove idea 1 – Root, fifth, sixth\nPerfect for a C major or Cmaj7 chord. Play everything as **even 8th notes**:\n\n- C – G – A – G – C – G – A – G\n\nOn the neck:\n- C (3rd string, 3rd fret)\n- G (2nd string, 5th fret)\n- A (1st string, 2nd fret)\n\nLock in with the kick drum and keep all notes short and round, not too long.",
+          "zh-Hans": "# Groove 想法 1 – 根音 + 五度 + 六度\n适合 C 大三和弦或 Cmaj7。全部当作**均匀八分音符**来弹：\n\n- C – G – A – G – C – G – A – G\n\n指板位置：\n- C（第 3 弦第 3 品）\n- G（第 2 弦第 5 品）\n- A（第 1 弦第 2 品）\n\n尽量和底鼓一起“锁”在一起，让音符**短一点、饱满一点**，不要拖太长。",
+          "de": "# Groove-Idee 1 – Grundton, Quinte, Sexte\nPasst gut zu einem C-Dur- oder Cmaj7-Akkord. Spiele alles als **gleichmäßige Achtelnoten**:\n\n- C – G – A – G – C – G – A – G\n\nAuf dem Griffbrett:\n- C (3. Saite, 3. Bund)\n- G (2. Saite, 5. Bund)\n- A (1. Saite, 2. Bund)\n\nSpiel zusammen mit der Bassdrum und halte die Noten eher kurz und rund, nicht zu lang.",
+          "ja": "# グルーヴ・アイデア1 – ルート＋5度＋6度\nCメジャーやCmaj7のコードにぴったり。全部 **まっすぐな8分音符** で弾きます：\n\n- C – G – A – G – C – G – A – G\n\nポジション：\n- C（3弦3フレット）\n- G（2弦5フレット）\n- A（1弦2フレット）\n\nバスドラムとしっかり噛み合わせて、音は**短めでコロッ**とした感じに。伸ばしすぎないのがポイントです。",
+          "pt-BR": "# Groove ideia 1 – Tônica, quinta, sexta\nFunciona muito bem em um acorde de C maior ou Cmaj7. Toque tudo em **colcheias retas**:\n\n- C – G – A – G – C – G – A – G\n\nNo braço:\n- C (3ª corda, 3ª casa)\n- G (2ª corda, 5ª casa)\n- A (1ª corda, 2ª casa)\n\nTrave com o bumbo da bateria e mantenha as notas **curtas e redondas**, sem deixar tudo muito longo.",
+          "es": "# Idea de groove 1 – Tónica, quinta, sexta\nVa perfecto sobre un acorde de Do mayor o Cmaj7. Toca todo como **corcheas parejas**:\n\n- C – G – A – G – C – G – A – G\n\nEn el mástil:\n- C (3ª cuerda, traste 3)\n- G (2ª cuerda, traste 5)\n- A (1ª cuerda, traste 2)\n\nConéctate con el bombo y deja las notas **cortas y redondas**, sin sostenerlas demasiado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove idea 2 – Walking within the scale\nNow use more scale notes to create a small “walk” while still sitting on a C chord.\n\nPlay as 8th notes:\n- C – D – E – G – A – G – E – D\n\nOn the neck:\n- C (3rd string, 3rd fret)\n- D (3rd string, 5th fret)\n- E (2nd string, 2nd fret)\n- G (2nd string, 5th fret)\n- A (1st string, 2nd fret)\n\nKeep a steady pulse and make sure **C** still feels like the home note of the line.",
+          "zh-Hans": "# Groove 想法 2 – 在音阶里面走路\n现在用更多的音阶音，在 C 和弦上做一个小小的“行进”低音。\n\n当作八分音符来弹：\n- C – D – E – G – A – G – E – D\n\n指板位置：\n- C（第 3 弦第 3 品）\n- D（第 3 弦第 5 品）\n- E（第 2 弦第 2 品）\n- G（第 2 弦第 5 品）\n- A（第 1 弦第 2 品）\n\n保持节拍稳定，让乐句听起来还是以 **C** 为“家”的感觉。",
+          "de": "# Groove-Idee 2 – Kleine Walking-Linie in der Skala\nJetzt nutzt du mehr Töne der Tonleiter, um eine kleine „Walking“-Linie zu bauen, bleibst aber auf einem C-Akkord.\n\nAls Achtelnoten gespielt:\n- C – D – E – G – A – G – E – D\n\nAuf dem Griffbrett:\n- C (3. Saite, 3. Bund)\n- D (3. Saite, 5. Bund)\n- E (2. Saite, 2. Bund)\n- G (2. Saite, 5. Bund)\n- A (1. Saite, 2. Bund)\n\nHalte den Puls gleichmäßig und achte darauf, dass **C** weiterhin wie der „Zuhause“-Ton der Linie wirkt.",
+          "ja": "# グルーヴ・アイデア2 – スケール内のウォーキング\n今度はスケールの音をもう少し使って、Cのコード上で小さな“ウォーキング”ラインを作ります。\n\n8分音符で：\n- C – D – E – G – A – G – E – D\n\nポジション：\n- C（3弦3フレット）\n- D（3弦5フレット）\n- E（2弦2フレット）\n- G（2弦5フレット）\n- A（1弦2フレット）\n\n脈（パルス）を一定に保ちつつ、ラインの中心が**C**に戻ってくる感じを大事にしましょう。",
+          "pt-BR": "# Groove ideia 2 – Caminhando dentro da escala\nAgora use mais notas da escala para criar uma pequena “caminhada” mesmo ficando em um acorde de C.\n\nToque em colcheias:\n- C – D – E – G – A – G – E – D\n\nNo braço:\n- C (3ª corda, 3ª casa)\n- D (3ª corda, 5ª casa)\n- E (2ª corda, 2ª casa)\n- G (2ª corda, 5ª casa)\n- A (1ª corda, 2ª casa)\n\nMantenha o pulso constante e faça **C** continuar soando como a nota “de casa” da frase.",
+          "es": "# Idea de groove 2 – Caminando dentro de la escala\nAhora usa más notas de la escala para crear un pequeño “walking” mientras sigues sobre un acorde de Do.\n\nToca como corcheas:\n- C – D – E – G – A – G – E – D\n\nEn el mástil:\n- C (3ª cuerda, traste 3)\n- D (3ª cuerda, traste 5)\n- E (2ª cuerda, traste 2)\n- G (2ª cuerda, traste 5)\n- A (1ª cuerda, traste 2)\n\nMantén el pulso firme y asegúrate de que **C** siga sintiéndose como la nota “casa” de la línea."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Put on a **simple C major backing track** or metronome\n- Loop groove 1 for a while, then switch to groove 2 without stopping\n- Try starting on **E or G** instead of C and see how the mood changes\n- Once it feels easy, move the **same shape** up the neck (D major starting at the 5th fret, etc.)\n\nIf the line supports the song and the tempo feels solid, your scale work is doing its job.",
+          "zh-Hans": "# 练习小建议\n- 找一个简单的 **C 大调伴奏** 或者只用节拍器\n- 先循环弹一段时间 groove 1，然后在不停下的情况下切换到 groove 2\n- 试着用 **E 或 G** 开头，而不是 C，感受一下氛围如何变化\n- 熟练以后，把同一个**指型往上移动**（比如从第 5 品开始弹 D 大调）\n\n只要你的低音线能托住歌曲、节奏稳，说明这套音阶练习已经在帮你说话了。",
+          "de": "# Übetipps\n- Nutze ein **einfaches C-Dur-Playback** oder nur ein Metronom\n- Spiele eine Weile Groove 1 in der Schleife und wechsle dann zu Groove 2, ohne anzuhalten\n- Starte testweise mal auf **E oder G** statt auf C und hör, wie sich der Charakter ändert\n- Wenn es locker läuft, verschiebe dasselbe **Shape** den Hals hinauf (z.B. D-Dur ab dem 5. Bund)\n\nWenn deine Linie den Song trägt und das Tempo stabil bleibt, macht deine Skalenarbeit genau das, was sie soll.",
+          "ja": "# 練習のコツ\n- **Cメジャーの簡単なバッキング**か、メトロノームを流す\n- まずはグルーヴ1をしばらくループして、止まらずにグルーヴ2へ切り替える\n- 今度はCではなく **E や G** から始めて、雰囲気がどう変わるか聴いてみる\n- 余裕が出てきたら、同じ**形をネック上にずらして**（5フレットからDメジャー、など）試してみる\n\nラインが曲をしっかり支えていて、テンポが安定していれば、そのスケール練習はもう十分役に立っています。",
+          "pt-BR": "# Dicas de estudo\n- Use um **backing track simples em Dó maior** ou só um metrônomo\n- Fique um tempo repetindo o groove 1 e depois mude para o groove 2 sem parar\n- Experimente começar em **E ou G** em vez de C e perceba como o clima muda\n- Quando estiver fácil, leve o **mesmo desenho** para outras regiões do braço (D maior a partir da 5ª casa, por exemplo)\n\nSe a linha estiver sustentando bem a música e o tempo estiver firme, seu estudo de escala está cumprindo o papel.",
+          "es": "# Consejos de práctica\n- Usa un **backing track sencillo en Do mayor** o solo un metrónomo\n- Repite el groove 1 un buen rato y luego cambia al groove 2 sin frenar\n- Prueba a empezar en **E o G** en lugar de C y escucha cómo cambia el ambiente\n- Cuando se sienta fácil, mueve el **mismo dibujo** a otras zonas del mástil (Re mayor empezando en el traste 5, por ejemplo)\n\nSi la línea sostiene bien la canción y el tempo está firme, tu trabajo con la escala está cumpliendo su función."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

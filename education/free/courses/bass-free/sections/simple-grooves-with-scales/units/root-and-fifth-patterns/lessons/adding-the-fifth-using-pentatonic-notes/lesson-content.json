@@ -1,0 +1,73 @@
+{
+  "id": "adding-the-fifth-using-pentatonic-notes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Adding the fifth with pentatonic notes\nIn this lesson you’ll add the **fifth** to your root grooves, using notes from the **minor pentatonic scale**.\n\nRoot + fifth gives you an instant, musical pattern that works in almost any style.",
+          "zh-Hans": "# 用五声音阶加入五度音\n在本课中，你会在原来的主音律动上加入**五度音**，并且只用**小调五声音阶**里的音。\n\n“主音 + 五度”几乎适合任何风格，是一种立刻就能听起来很有音乐感的模式。",
+          "de": "# Die Quinte mit Pentatonik-Tönen hinzufügen\nIn dieser Lektion fügst du deinen Grundton-Grooves die **Quinte** hinzu – nur mit Tönen aus der **Moll-Pentatonik**.\n\nGrundton + Quinte ergibt ein sofort musikalisches Pattern, das in fast jedem Stil funktioniert.",
+          "ja": "# ペンタトニックの音で5度を足す\nこのレッスンでは、これまでのルートだけのグルーヴに**5度**を足していきます。使うのは**マイナー・ペンタトニック・スケール**の音だけです。\n\nルート + 5度だけでも、ほとんどどんなスタイルでも使える、とても音楽的なパターンになります。",
+          "pt-BR": "# Adicionando a quinta com notas da pentatônica\nNesta lição você vai acrescentar a **quinta** aos seus grooves de tônica, usando só notas da **pentatônica menor**.\n\nTônica + quinta já cria um padrão super musical, que funciona em praticamente qualquer estilo.",
+          "es": "# Añadiendo la quinta con notas pentatónicas\nEn esta lección vas a añadir la **quinta** a tus grooves de fundamental, usando sólo notas de la **pentatónica menor**.\n\nFundamental + quinta crea un patrón muy musical que funciona en casi cualquier estilo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Root + fifth in A minor pentatonic\nWe’ll use the **A minor pentatonic** box you learned before:\n\nA – C – D – E – G\n\n- **Root (1)** = A  \n- **Fifth (5)** = E\n\nOn a 4-string bass in standard tuning:\n- Root A: 4th string, 5th fret\n- Fifth E: 3rd string, 7th fret (one string higher, two frets up)",
+          "zh-Hans": "# A 小调五声音阶中的主音和五度\n我们用你之前学过的 **A 小调五声音阶** 框型：\n\nA – C – D – E – G\n\n- **主音（1）** = A  \n- **五度（5）** = E\n\n在标准 4 弦贝斯上：\n- 主音 A：第 4 弦，第 5 品\n- 五度 E：第 3 弦，第 7 品（往细一根弦、再往上两个品）",
+          "de": "# Grundton + Quinte in der A-Moll-Pentatonik\nWir nutzen die **A-Moll-Pentatonik**-Box, die du vorher gelernt hast:\n\nA – C – D – E – G\n\n- **Grundton (1)** = A  \n- **Quinte (5)** = E\n\nAuf einem 4-saitigen Bass in Standardstimmung:\n- Grundton A: 4. Saite, 5. Bund\n- Quinte E: 3. Saite, 7. Bund (eine Saite höher, zwei Bünde weiter)",
+          "ja": "# Aマイナー・ペンタトニックのルートと5度\nここでは、前に練習した **Aマイナー・ペンタトニック** のボックスを使います：\n\nA – C – D – E – G\n\n- **ルート（1度）** = A  \n- **5度** = E\n\n4弦ベースの標準チューニングでは：\n- ルート A：4弦 5フレット\n- 5度 E：3弦 7フレット（1本細い弦に移動して、さらに2フレット上）",
+          "pt-BR": "# Tônica + quinta na pentatônica de Lá menor\nVamos usar o box de **Lá menor pentatônica** que você viu antes:\n\nA – C – D – E – G\n\n- **Tônica (1)** = A  \n- **Quinta (5)** = E\n\nNo baixo de 4 cordas em afinação padrão:\n- Tônica A: 4ª corda, 5º traste\n- Quinta E: 3ª corda, 7º traste (sobe uma corda e dois trastes)",
+          "es": "# Fundamental + quinta en La menor pentatónica\nUsaremos la caja de **La menor pentatónica** que viste antes:\n\nA – C – D – E – G\n\n- **Fundamental (1)** = A  \n- **Quinta (5)** = E\n\nEn un bajo de 4 cuerdas en afinación estándar:\n- Fundamental A: 4ª cuerda, traste 5\n- Quinta E: 3ª cuerda, traste 7 (una cuerda más aguda y dos trastes arriba)"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic root–fifth pattern\nTry this 2-bar groove in **A minor**:\n\n- Bar 1: A A A A  \n- Bar 2: A A E E\n\nPlay them as **quarter notes** with a metronome:\n1. Set the tempo to 60–80 BPM  \n2. Let each note ring to the next beat  \n3. Keep your hand relaxed and the volume even",
+          "zh-Hans": "# 基础主音–五度型\n先在 **A 小调** 上练一个 2 小节的 groove：\n\n- 第 1 小节：A A A A  \n- 第 2 小节：A A E E\n\n都弹成**四分音符**并配合节拍器：\n1. 把速度调在 60–80 BPM  \n2. 每个音让它响到下一拍  \n3. 手放松，音量尽量保持平均",
+          "de": "# Einfaches Grundton–Quinte-Pattern\nProbier diesen 2-Takte-Groove in **A-Moll**:\n\n- Takt 1: A A A A  \n- Takt 2: A A E E\n\nSpiel alles als **Viertelnoten** mit Metronom:\n1. Tempo auf 60–80 BPM stellen  \n2. Jeden Ton bis zur nächsten Zählzeit klingen lassen  \n3. Hand locker lassen und auf gleichmäßige Lautstärke achten",
+          "ja": "# 基本のルート–5度パターン\nまずは **Aマイナー** で 2小節のグルーヴを作ってみましょう：\n\n- 1小節目：A A A A  \n- 2小節目：A A E E\n\nすべてを**4分音符**で、メトロノームに合わせて弾きます：\n1. テンポを 60〜80 BPM に設定  \n2. それぞれの音を次の拍までしっかり伸ばす  \n3. 手をリラックスさせて、音量がそろうように意識しましょう",
+          "pt-BR": "# Padrão básico tônica–quinta\nExperimente este groove de 2 compassos em **Lá menor**:\n\n- Compasso 1: A A A A  \n- Compasso 2: A A E E\n\nToque tudo em **semínimas**, com metrônomo:\n1. Coloque o tempo em 60–80 BPM  \n2. Deixe cada nota soar até a próxima batida  \n3. Mantenha a mão relaxada e o volume o mais uniforme possível",
+          "es": "# Patrón básico fundamental–quinta\nPrueba este groove de 2 compases en **La menor**:\n\n- Compás 1: A A A A  \n- Compás 2: A A E E\n\nTócalo todo en **negras** con metrónomo:\n1. Pon el tempo en 60–80 BPM  \n2. Deja que cada nota suene hasta el siguiente pulso  \n3. Mantén la mano relajada y el volumen lo más parejo posible"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two chords with roots and fifths\nNow use the same idea over two chords:\n\n- 2 bars of **A minor** – roots and fifths: A and E  \n- 2 bars of **D minor** – roots and fifths: D and A  \n\nExample (each letter = a quarter note):\n\n- A A E E | A A E E  \n- D D A A | D D A A  \n\nChange smoothly on bar 3 and keep the pulse locked.",
+          "zh-Hans": "# 在两个和弦上使用主音和五度\n现在把同样的想法放到两个和弦上：\n\n- 2 小节 **A 小调** – 主音和五度：A 和 E  \n- 2 小节 **D 小调** – 主音和五度：D 和 A  \n\n示例（每个字母 = 一个四分音符）：\n\n- A A E E | A A E E  \n- D D A A | D D A A  \n\n在第 3 小节干净地换到 D 小调，同时保持拍子稳定。",
+          "de": "# Zwei Akkorde mit Grundton und Quinte\nJetzt derselbe Ansatz über zwei Akkorde:\n\n- 2 Takte **A-Moll** – Grundton und Quinte: A und E  \n- 2 Takte **D-Moll** – Grundton und Quinte: D und A  \n\nBeispiel (jeder Buchstabe = eine Viertelnote):\n\n- A A E E | A A E E  \n- D D A A | D D A A  \n\nWechsle im 3. Takt sauber und bleib fest im Puls.",
+          "ja": "# 2つのコードでルートと5度を使う\n同じアイデアを、今度は2つのコードに乗せてみます：\n\n- 2小節 **Aマイナー** – ルートと5度：A と E  \n- 2小節 **Dマイナー** – ルートと5度：D と A  \n\n例（1文字 = 1つの4分音符）：\n\n- A A E E | A A E E  \n- D D A A | D D A A  \n\n3小節目の頭でスムーズに Dマイナーに切り替えつつ、テンポをしっかりキープしましょう。",
+          "pt-BR": "# Dois acordes com tônica e quinta\nAgora aplique a mesma ideia em dois acordes:\n\n- 2 compassos de **Lá menor** – tônica e quinta: A e E  \n- 2 compassos de **Ré menor** – tônica e quinta: D e A  \n\nExemplo (cada letra = uma semínima):\n\n- A A E E | A A E E  \n- D D A A | D D A A  \n\nFaça a troca no 3º compasso de forma bem limpa e sem sair do pulso.",
+          "es": "# Dos acordes con fundamental y quinta\nAhora aplica la misma idea sobre dos acordes:\n\n- 2 compases de **La menor** – fundamental y quinta: A y E  \n- 2 compases de **Re menor** – fundamental y quinta: D y A  \n\nEjemplo (cada letra = una negra):\n\n- A A E E | A A E E  \n- D D A A | D D A A  \n\nCambia al acorde de Re menor en el compás 3 de forma suave, sin salirte del pulso."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Pick a key (A minor, E minor, etc.)  \n2. Find the **root and fifth** from its minor pentatonic box  \n3. Make a 2-bar pattern using only root and fifth  \n4. Loop it for a couple of minutes without losing the groove  \n\nWhen this feels easy, you’re ready to add one more pentatonic note (like the flat 7 or 3) to make your lines more melodic.",
+          "zh-Hans": "# 快速练习方案\n1. 选一个调（例如 A 小调、E 小调等）  \n2. 在对应的小调五声音阶框型里找出**主音和五度**  \n3. 用这两个音编一个 2 小节的小模式  \n4. 循环弹几分钟，尽量不丢拍、不飘节奏  \n\n当这样练起来觉得轻松时，就可以再加入一个五声音阶里的音（比如降 7 或 3），让你的贝斯线更有旋律感。",
+          "de": "# Kurze Übe-Routine\n1. Such dir eine Tonart aus (A-Moll, E-Moll usw.)  \n2. Finde **Grundton und Quinte** in der entsprechenden Moll-Pentatonik-Box  \n3. Bau ein 2-taktiges Pattern nur aus Grundton und Quinte  \n4. Wiederhole es ein paar Minuten, ohne den Groove zu verlieren  \n\nWenn sich das leicht anfühlt, bist du bereit, noch einen Pentatonik-Ton (z. B. die b7 oder die 3) dazuzunehmen und die Linien melodischer zu machen.",
+          "ja": "# かんたん練習ルーティン\n1. まずキーを1つ決めます（AマイナーやEマイナーなど）  \n2. そのキーのマイナー・ペンタトニックのボックスから、**ルートと5度**を探す  \n3. その2つだけを使って、2小節のパターンを作る  \n4. グルーヴを崩さないように、そのパターンを数分間ループする  \n\nこれがラクに感じられるようになったら、さらにペンタトニックの別の音（♭7 や 3度など）を足して、フレーズをもっとメロディックにしていきましょう。",
+          "pt-BR": "# Rotina rápida de prática\n1. Escolha uma tonalidade (Lá menor, Mi menor, etc.)  \n2. Ache a **tônica e a quinta** no box da pentatônica menor dessa tonalidade  \n3. Monte um padrão de 2 compassos usando só tônica e quinta  \n4. Fique repetindo por alguns minutos sem perder o groove  \n\nQuando isso estiver fácil, você já pode adicionar mais uma nota da pentatônica (como a sétima menor ou a terça) para deixar as linhas mais melódicas.",
+          "es": "# Rutina rápida de práctica\n1. Elige una tonalidad (La menor, Mi menor, etc.)  \n2. Encuentra la **fundamental y la quinta** en la caja de pentatónica menor de esa tonalidad  \n3. Crea un patrón de 2 compases usando sólo fundamental y quinta  \n4. Repítelo durante un par de minutos sin perder el groove  \n\nCuando esto se sienta fácil, ya puedes añadir otra nota de la pentatónica (como la 7ª menor o la 3ª) para que tus líneas sean más melódicas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

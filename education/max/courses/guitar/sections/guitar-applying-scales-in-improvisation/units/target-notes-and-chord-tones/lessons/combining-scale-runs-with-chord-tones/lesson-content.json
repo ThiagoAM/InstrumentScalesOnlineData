@@ -1,0 +1,73 @@
+{
+  "id": "combining-scale-runs-with-chord-tones",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Combining scale runs with chord tones\nGood solos often sound like this:\n- **Run of notes** → **clear landing**\n\nIn this lesson you’ll:\n- Use **scale runs** for movement\n- Use **chord tones** for landing points\n- Practice connecting both so your lines feel like **sentences**, not random notes",
+          "zh-Hans": "# 把音阶跑动和和弦音结合起来\n很多好听的独奏，听起来像这样：\n- 一小段**音阶跑动** → 一个很**清楚的落点**\n\n本课你会：\n- 用**音阶跑动**制造运动感\n- 用**和弦音**作为落地的目标\n- 练习把两者连起来，让乐句像**一句一句的话**，而不是一堆随机音符",
+          "de": "# Skalenläufe mit Akkordtönen verbinden\nGute Solos klingen oft so:\n- **Skalenlauf** → **klare Landung**\n\nIn dieser Lektion wirst du:\n- **Skalenläufe** für Bewegung nutzen\n- **Akkordtöne** als Landepunkte einsetzen\n- Beides verbinden, damit deine Linien wie **Sätze** wirken und nicht wie zufällige Töne",
+          "ja": "# スケール・ランとコードトーンを組み合わせる\n良いソロはこんな流れになっていることが多いです：\n- **スケールの流れ** → **ハッキリした着地**\n\nこのレッスンでは：\n- 動きを出すために**スケール・ラン**を使い\n- 着地地点として**コードトーン**を狙い\n- その2つをつないで、フレーズが**ちゃんとした“文”**に聞こえるようにします",
+          "pt-BR": "# Combinando corridas de escala com notas do acorde\nMuitos solos legais soam assim:\n- Uma **corrida de escala** → uma **aterrissagem clara**\n\nNesta lição você vai:\n- Usar **corridas de escala** para criar movimento\n- Usar **notas do acorde** como pontos de chegada\n- Praticar ligar as duas coisas para que suas frases soem como **frases de verdade**, e não notas jogadas",
+          "es": "# Combinando corridas de escala con notas de acorde\nMuchos buenos solos suenan así:\n- **Corrida de escala** → **aterrizaje claro**\n\nEn esta lección vas a:\n- Usar **corridas de escala** para crear movimiento\n- Usar **notas de acorde** como puntos de llegada\n- Practicar unir ambas cosas para que tus líneas suenen como **frases**, no como notas al azar"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Run first, then land\nPick one chord and a matching scale, for example:\n- Chord: **C** → Scale: **C major**\n- Or chord: **Am** → Scale: **A natural minor** or **A minor pentatonic**\n\nExercise:\n1. Start **anywhere in the scale**.\n2. Play a **short run** (3–6 notes, stepwise up or down).\n3. **End the run** on a chord tone (1, 3, 5, or 7) on a **strong beat**.\n\nThink: *“move, move, move… now land”*.",
+          "zh-Hans": "# 先跑再落\n选一个和弦和对应音阶，例如：\n- 和弦：**C** → 音阶：**C 大调**\n- 或 和弦：**Am** → 音阶：**A 自然小调** 或 **A 小调五声音阶**\n\n练习：\n1. 从音阶里的**任意位置**开始。\n2. 弹一小段**短跑**（3–6 个音，按音阶上下走）。\n3. 在一个**强拍**上，把这段跑动**收在和弦音**（1、3、5 或 7 度）上。\n\n心里默念：*“跑、跑、跑……现在落地”*。",
+          "de": "# Erst laufen, dann landen\nWähle einen Akkord mit passender Skala, zum Beispiel:\n- Akkord: **C** → Skala: **C-Dur**\n- Oder Akkord: **Am** → Skala: **A natürlich Moll** oder **A-Moll-Pentatonik**\n\nÜbung:\n1. Starte **irgendwo in der Skala**.\n2. Spiele einen **kurzen Lauf** (3–6 Töne stufenweise rauf oder runter).\n3. **Beende den Lauf** auf einem Akkordton (1, 3, 5 oder 7) auf einer **starken Zählzeit**.\n\nDenke: *„laufen, laufen, laufen… und landen“*.",
+          "ja": "# まず走ってから着地する\nコードと、それに合うスケールを1組選びます。例：\n- コード：**C** → スケール：**Cメジャー**\n- コード：**Am** → スケール：**Aナチュラルマイナー** または **Aマイナーペンタ**\n\n練習：\n1. スケールの**どこから始めてもOK**。\n2. **3〜6音くらいの短いラン**を、スケールに沿って上か下に弾く。\n3. そのランを、**強拍**で**コードトーン（1度・3度・5度・7度）**に着地させる。\n\nイメージは：*「走る、走る、走る……はい着地」*。",
+          "pt-BR": "# Primeiro corre, depois aterrissa\nEscolha um acorde e uma escala que combine, por exemplo:\n- Acorde: **C** → Escala: **C maior**\n- Ou acorde: **Am** → Escala: **A menor natural** ou **A menor pentatônica**\n\nExercício:\n1. Comece **de qualquer nota da escala**.\n2. Faça uma **corrida curta** (3–6 notas, subindo ou descendo em graus conjuntos).\n3. **Termine a corrida** em uma nota do acorde (1ª, 3ª, 5ª ou 7ª) em um **tempo forte**.\n\nPense: *“anda, anda, anda… agora pousa”*.",
+          "es": "# Primero correr, luego aterrizar\nElige un acorde y una escala que encaje, por ejemplo:\n- Acorde: **C** → Escala: **Do mayor**\n- O acorde: **Am** → Escala: **La menor natural** o **La menor pentatónica**\n\nEjercicio:\n1. Empieza **en cualquier nota de la escala**.\n2. Haz una **corrida corta** (3–6 notas, subiendo o bajando por grados conjuntos).\n3. **Termina la corrida** en una nota de acorde (1, 3, 5 o 7) en un **tiempo fuerte**.\n\nPiensa: *«muevo, muevo, muevo… y ahora aterrizo»*."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Varying length and direction\nDon’t always run the same way.\n\nTry these options:\n- **Short run up, land down:** run up the scale, then drop down to the nearest chord tone.\n- **Short run down, land up:** step down, then jump up to a chord tone.\n- **Across the bar line:** start your run at the end of the bar and **land the chord tone on beat 1** of the next bar.\n\nSame idea every time: the run is **movement**, the chord tone is the **comma or full stop**.",
+          "zh-Hans": "# 改变跑动的长度和方向\n不要老是用同一种跑法。\n\n可以试试：\n- **向上跑、向下落**：音阶往上跑几下，再往下**跳回最近的和弦音**。\n- **向下跑、向上落**：先顺阶往下走，再**跳到上方的和弦音**。\n- **跨小节跑**：在小节末开始跑动，把**和弦音落在下一小节的第 1 拍**。\n\n核心始终一样：跑动制造**运动**，和弦音就是**逗号或句号**。",
+          "de": "# Länge und Richtung variieren\nSpiel die Läufe nicht immer auf die gleiche Art.\n\nProbier diese Varianten:\n- **Kurz rauf, dann runter landen:** ein Stück die Skala hinauf, dann nach unten auf den nächstgelegenen Akkordton springen.\n- **Kurz runter, dann hoch landen:** stufenweise abwärts, dann nach oben zu einem Akkordton springen.\n- **Über den Taktstrich:** den Lauf am Ende des Takts beginnen und den **Akkordton auf Zählzeit 1** des nächsten Takts landen.\n\nDie Idee bleibt gleich: Der Lauf bringt **Bewegung**, der Akkordton ist das **Komma oder der Punkt**.",
+          "ja": "# 長さと向きを変える\n毎回同じ方向・同じ長さで走らないようにしましょう。\n\n例えば：\n- **上に走って、下に着地**：スケールを上に走らせてから、近くの**下側のコードトーン**にストンと落ちる。\n- **下に走って、上に着地**：順番に下りていってから、**上側のコードトーンへジャンプ**する。\n- **小節をまたいで走る**：小節の終わりから走り始めて、**次の小節1拍目でコードトーンに着地**する。\n\nどの場合も同じで、「ラン＝**動き**、コードトーン＝**句読点**」というイメージです。",
+          "pt-BR": "# Variando o tamanho e a direção\nNão faça sempre a mesma corrida.\n\nExperimente:\n- **Corre pra cima, cai pra baixo:** sobe alguns graus da escala e depois **cai para a nota do acorde mais próxima abaixo**.\n- **Corre pra baixo, cai pra cima:** desce em graus conjuntos e depois **salta para uma nota do acorde acima**.\n- **Corrida atravessando o compasso:** começa a corrida no fim do compasso e **aterrissa a nota do acorde no tempo 1** do próximo compasso.\n\nA ideia é sempre a mesma: a corrida traz **movimento**, a nota do acorde é a **vírgula ou o ponto final**.",
+          "es": "# Variar la longitud y la dirección\nNo hagas siempre la misma corrida.\n\nPrueba estas opciones:\n- **Correr hacia arriba, caer hacia abajo:** sube por la escala y luego **cae a la nota de acorde más cercana por debajo**.\n- **Correr hacia abajo, caer hacia arriba:** baja por grados conjuntos y luego **salta a una nota de acorde más alta**.\n- **Cruzar la barra de compás:** empieza la corrida al final del compás y **aterriza la nota de acorde en el tiempo 1** del siguiente.\n\nLa idea es siempre la misma: la corrida es **movimiento**, la nota de acorde es la **coma o el punto**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mixing arpeggios and runs\nYou don’t have to choose between “scale” and “arpeggio”. Use both.\n\nTry this pattern:\n1. Play a **small arpeggio fragment** (for example 1–3–5 of the chord).\n2. From that chord tone, play a **short scale run** (2–4 notes).\n3. **Land again** on a new chord tone.\n\nSo it becomes: **chord tone → run → chord tone**.\nThis keeps the harmony clear while adding **fluid lines** between strong notes.",
+          "zh-Hans": "# 把琶音和音阶跑动一起用\n你不需要在“音阶”和“琶音”之间二选一，可以一起用。\n\n试试这个套路：\n1. 先弹一个**小的琶音片段**（比如和弦的 1–3–5）。\n2. 从那个和弦音开始，弹一个**2–4 个音的短音阶跑动**。\n3. 最后再**落回另一个和弦音**。\n\n结构就是：**和弦音 → 跑动 → 和弦音**。\n这样既能保持和声清晰，又在强音之间加上了**流畅的线条**。",
+          "de": "# Arpeggios und Skalenläufe mischen\nDu musst dich nicht zwischen „Skala“ und „Arpeggio“ entscheiden – nutze beides.\n\nPattern-Idee:\n1. Spiele ein **kleines Arpeggio-Fragment** (z. B. 1–3–5 des Akkords).\n2. Von diesem Akkordton aus spielst du einen **kurzen Skalenlauf** (2–4 Töne).\n3. **Lande wieder** auf einem neuen Akkordton.\n\nAlso: **Akkordton → Lauf → Akkordton**.\nSo bleibt die Harmonie klar, und zwischen den starken Tönen entstehen **flüssige Linien**.",
+          "ja": "# アルペジオとランをミックスする\n「スケールを弾くか、アルペジオを弾くか」の二択ではなく、**両方使えます**。\n\nこんなパターンを試してみましょう：\n1. まず**小さなアルペジオの切れ端**を弾く（例：コードの1–3–5）。\n2. そのコードトーンから、**2〜4音くらいの短いスケール・ラン**を入れる。\n3. そしてまた別の**コードトーンに着地**する。\n\nつまり流れは：**コードトーン → ラン → コードトーン**。\nこうすると、ハーモニーははっきりしつつ、その間を**なめらかなライン**でつなげられます。",
+          "pt-BR": "# Misturando arpejos e corridas\nVocê não precisa escolher entre “tocar escala” ou “tocar arpejo”. Dá pra usar os dois.\n\nExperimente este padrão:\n1. Toque um **pedacinho de arpejo** (por exemplo 1–3–5 do acorde).\n2. A partir dessa nota do acorde, faça uma **corrida curta de escala** (2–4 notas).\n3. **Aterrise de novo** em outra nota do acorde.\n\nFica assim: **nota do acorde → corrida → nota do acorde**.\nAssim você mantém a harmonia clara e, entre as notas fortes, coloca **linhas mais fluidas**.",
+          "es": "# Mezclando arpegios y corridas\nNo tienes que elegir entre “escala” y “arpegio”. Puedes usar ambos.\n\nPrueba este patrón:\n1. Toca un **pequeño fragmento de arpegio** (por ejemplo 1–3–5 del acorde).\n2. Desde esa nota de acorde, haz una **corrida corta de escala** (2–4 notas).\n3. **Aterriza de nuevo** en otra nota de acorde.\n\nQueda así: **nota de acorde → corrida → nota de acorde**.\nDe esta forma mantienes la armonía clara y, entre las notas fuertes, añades **líneas más fluidas**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nFor 5–10 minutes over a simple backing track:\n1. Choose **one chord** and its scale.\n2. Only play **short runs that end on chord tones**.\n3. Vary the run length (3–6 notes) and direction (up/down, across the bar).\n4. When that feels natural, add the pattern **chord tone → run → chord tone**.\n\nIf your lines start to sound like **melodies that clearly fit the chord**, you’re combining scale runs and chord tones the right way.",
+          "zh-Hans": "# 小练习\n在一个简单伴奏上练习 5–10 分钟：\n1. 选一个**和弦 + 对应音阶**。\n2. 只允许自己弹**最后一定落在和弦音上的短跑动**。\n3. 改变跑动的长度（3–6 个音）和方向（向上 / 向下 / 跨小节）。\n4. 熟练之后，加入 **和弦音 → 跑动 → 和弦音** 的套路。\n\n当你的乐句开始听起来像是**非常贴合当前和弦的旋律**时，说明你已经在正确地把音阶跑动和和弦音结合起来了。",
+          "de": "# Kurze Übung\nSpiele 5–10 Minuten über ein einfaches Backing:\n1. Wähle **einen Akkord** und die passende Skala.\n2. Spiele nur **kurze Läufe, die auf Akkordtönen enden**.\n3. Variiere die Länge (3–6 Töne) und die Richtung (rauf/runter, über den Taktstrich).\n4. Wenn sich das natürlich anfühlt, nutze das Muster **Akkordton → Lauf → Akkordton**.\n\nSobald deine Linien wie **Melodien klingen, die klar zum Akkord passen**, kombinierst du Skalenläufe und Akkordtöne auf eine gute Art.",
+          "ja": "# かんたん練習\nシンプルなバッキングに合わせて5〜10分：\n1. **1つのコードと、そのスケール**を選ぶ。\n2. **必ずコードトーンで終わる短いラン**だけを弾くルールにする。\n3. ランの長さ（3〜6音）や方向（上行・下行・小節またぎ）を変えてみる。\n4. 慣れてきたら、**コードトーン → ラン → コードトーン** のパターンも混ぜる。\n\n弾いていて、「**コードにちゃんとハマったメロディ**になってきたな」と感じられたら、スケール・ランとコードトーンをうまく組み合わせられているサインです。",
+          "pt-BR": "# Prática rápida\nPor 5–10 minutos, em um playback simples:\n1. Escolha **um acorde** e a escala correspondente.\n2. Toque apenas **corridas curtas que terminam em notas do acorde**.\n3. Varie o tamanho da corrida (3–6 notas) e a direção (subindo, descendo, atravessando o compasso).\n4. Quando isso estiver natural, use também o padrão **nota do acorde → corrida → nota do acorde**.\n\nQuando suas frases começarem a soar como **melodias que encaixam claramente no acorde**, é sinal de que você está combinando corridas de escala e notas do acorde do jeito certo.",
+          "es": "# Práctica rápida\nDurante 5–10 minutos sobre una base sencilla:\n1. Elige **un acorde** y su escala.\n2. Toca sólo **corridas cortas que terminen en notas de acorde**.\n3. Varía la duración (3–6 notas) y la dirección (subiendo, bajando, cruzando la barra).\n4. Cuando se sienta natural, añade el patrón **nota de acorde → corrida → nota de acorde**.\n\nCuando tus líneas empiecen a sonar como **melodías que encajan claramente con el acorde**, es que estás combinando bien las corridas de escala con las notas de acorde."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "creating-your-own-walking-practice-loops",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Creating your own walking practice loops\nInstead of relying only on play-along tracks, it’s powerful to have **your own simple loops** for practicing walking lines.\n\nIn this lesson you’ll:\n- Build **short chord cycles** you can repeat for minutes\n- Choose a **tempo and feel** that match your level\n- Use loops to practice **time, chord tones and smooth connections**\n\nThink of these loops as your personal **walking laboratory**.",
+          "zh-Hans": "# 自己制作 walking 练习循环\n除了现成的伴奏音源，拥有几套自己做的**简单循环**来练 walking 非常有用。\n\n在本课中你会：\n- 搭建可以反复演奏几分钟的**短和弦循环**\n- 选择适合自己水平的**速度和律动感**\n- 用循环来练习**节奏感、和弦音和顺畅连接**\n\n把这些循环当成你个人的 **walking 实验室** 就对了。",
+          "de": "# Eigene Walking-Übeloops erstellen\nAnstatt nur Play-Alongs zu benutzen, ist es extrem hilfreich, **eigene einfache Loops** für Walking-Übungen zu haben.\n\nIn dieser Lektion wirst du:\n- **Kurze Akkordzyklen** bauen, die du minutenlang wiederholen kannst\n- **Tempo und Feel** passend zu deinem Level wählen\n- Loops nutzen, um **Timing, Akkordtöne und flüssige Verbindungen** zu üben\n\nDenk an diese Loops als dein persönliches **Walking-Labor**.",
+          "ja": "# 自分用のウォーキング練習ループを作る\n既製のプレイアロングだけに頼らず、**自分で作ったシンプルなループ**を持っておくとウォーキングの練習が一気にやりやすくなります。\n\nこのレッスンでは：\n- 何分も回せる**短いコード循環**を作る\n- 自分のレベルに合った**テンポとフィール**を決める\n- ループを使って**タイム感・コードトーン・スムーズなつながり**を鍛える\n\nこれらのループは、あなた専用の**ウォーキング実験室**だと思ってください。",
+          "pt-BR": "# Criando seus próprios loops de walking\nEm vez de depender só de play-along prontos, é muito útil ter **loops simples feitos por você** para estudar walking.\n\nNesta lição você vai:\n- Montar **ciclos curtos de acordes** que podem se repetir por vários minutos\n- Escolher **tempo e feel** que combinem com o seu nível\n- Usar esses loops para treinar **tempo, notas do acorde e conexões suaves**\n\nPense nesses loops como o seu **laboratório pessoal de walking**.",
+          "es": "# Crear tus propios loops de walking\nEn lugar de depender sólo de pistas de acompañamiento, es muy potente tener **tus propios loops sencillos** para practicar walking.\n\nEn esta lección vas a:\n- Construir **ciclos cortos de acordes** que puedas repetir durante minutos\n- Elegir **tempo y feel** acordes a tu nivel\n- Usar los loops para practicar **tiempo, notas del acorde y conexiones suaves**\n\nPiensa en estos loops como tu **laboratorio personal de walking**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Pick key, tempo and feel\nStart simple and playable:\n\n- Choose **one key** for a session (C, F or Bb are great to start)\n- Tempo: **60–80 BPM** while you’re learning\n- Feel: start **straight**, then try a light **swing** later\n\nTurn on the metronome and, if you’re working on swing, let it click on **beats 2 and 4**. The loop doesn’t need to be fancy – it just has to be **steady**.",
+          "zh-Hans": "# 第一步 —— 选择调性、速度和律动\n先从简单、好弹的设置开始：\n\n- 一次练习只选**一个调**（C、F、降 B 都是好选择）\n- 速度：先用 **60–80 BPM**\n- 律动：先用**直拍**，熟练后再加一点 **swing**\n\n打开节拍器，如果在练 swing，可以只让它打在**第 2、4 拍**。循环不需要花哨，最重要是**稳定**。",
+          "de": "# Schritt 1 – Tonart, Tempo und Feel wählen\nStarte mit etwas Einfachem und gut Spielbarem:\n\n- Wähle für eine Session **eine Tonart** (C, F oder Bb sind ein guter Einstieg)\n- Tempo: **60–80 BPM**, solange du noch übst\n- Feel: erst **gerade** spielen, später leichtes **Swing-Feeling** ausprobieren\n\nSchalte das Metronom ein; für Swing kannst du es auf **Zählzeit 2 und 4** klicken lassen. Der Loop muss nicht komplex sein – nur **stabil**.",
+          "ja": "# ステップ1 – キー・テンポ・フィールを決める\nまずはシンプルで弾きやすい設定からいきましょう：\n\n- 1回の練習では**キーを1つだけ**（C、F、Bb あたりがおすすめ）\n- テンポ：**60〜80BPM**くらいでゆっくり\n- フィール：最初は**ストレート**、慣れてきたら軽く**スウィング**させる\n\nメトロノームを使う場合、スウィングなら**2拍目と4拍目**にクリックを置くと雰囲気が出ます。ループはカッコよくなくてOK、とにかく**タイムが安定**していることが大事です。",
+          "pt-BR": "# Passo 1 – escolha tonalidade, tempo e feel\nComece com algo simples e confortável:\n\n- Escolha **uma tonalidade por sessão** (C, F ou Bb são ótimos começos)\n- Tempo: **60–80 BPM** enquanto estiver aprendendo\n- Feel: comece **reto**, depois experimente um **swing de leve**\n\nLigue o metrônomo e, se estiver estudando swing, deixe o clique em **2 e 4**. O loop não precisa ser elaborado – ele só precisa ser **bem firme**.",
+          "es": "# Paso 1 – elegir tonalidad, tempo y feel\nArranca con algo sencillo y cómodo:\n\n- Elige **una tonalidad por sesión** (Do, Fa o Sib son buenos inicios)\n- Tempo: **60–80 BPM** mientras estés aprendiendo\n- Feel: empieza **recto**, luego prueba un **swing suave**\n\nEnciende el metrónomo y, si trabajas swing, deja el click en **2 y 4**. El loop no tiene que ser espectacular: lo importante es que sea **estable**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Build simple chord cycles\nNow choose a **short harmonic loop** to walk over. Examples in C major:\n\n- **II–V–I**: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n- **I–VI–II–V**: | Cmaj7 | Am7 | Dm7 | G7 |\n- **Blues fragment**: | C7 | F7 | C7 | G7 |\n\nPick **one** cycle and stick with it for a while. Fewer chords means more focus on:\n- Clear **root movement**\n- Hitting **chord tones** on beat 1\n- Connecting bars smoothly",
+          "zh-Hans": "# 第二步 —— 设计简单的和弦循环\n现在选一个**短小的和声循环**来踩 walking。C 大调中的一些例子：\n\n- **II–V–I**：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n- **I–VI–II–V**：| Cmaj7 | Am7 | Dm7 | G7 |\n- **布鲁斯片段**：| C7 | F7 | C7 | G7 |\n\n一次只选**一个循环**练一阵子。和弦越少，你越能专注在：\n- 清晰的**根音移动**\n- 在第 1 拍压实**和弦音**\n- 小节之间的顺畅连接",
+          "de": "# Schritt 2 – Einfache Akkordzyklen bauen\nWähle nun einen **kurzen harmonischen Loop**, über den du walkst. Beispiele in C-Dur:\n\n- **II–V–I**: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n- **I–VI–II–V**: | Cmaj7 | Am7 | Dm7 | G7 |\n- **Blues-Fragment**: | C7 | F7 | C7 | G7 |\n\nSuche dir **einen** dieser Zyklen aus und bleib eine Weile dabei. Weniger Akkorde bedeuten mehr Fokus auf:\n- Klare **Grundtonbewegung**\n- **Akkordtöne** auf Zählzeit 1\n- Weiche Verbindungen zwischen den Takten",
+          "ja": "# ステップ2 – シンプルなコード循環を作る\n次に、ウォーキングするための**短いコードのループ**を決めます。Cメジャーの例：\n\n- **II–V–I**：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n- **I–VI–II–V**：| Cmaj7 | Am7 | Dm7 | G7 |\n- **ブルース風フレーズ**：| C7 | F7 | C7 | G7 |\n\nこの中から**1種類だけ**選んで、しばらくそれだけを回しましょう。コードが少ないほうが、\n- **ルートの動き**\n- 1拍目でしっかり踏む**コードトーン**\n- 小節どうしの**スムーズなつながり**\nに集中しやすくなります。",
+          "pt-BR": "# Passo 2 – monte ciclos simples de acordes\nAgora escolha um **ciclo harmônico curtinho** para caminhar por cima. Exemplos em Dó maior:\n\n- **II–V–I**: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n- **I–VI–II–V**: | Cmaj7 | Am7 | Dm7 | G7 |\n- **Trecho de blues**: | C7 | F7 | C7 | G7 |\n\nEscolha **apenas um** ciclo e fique nele por um tempo. Menos acordes = mais foco em:\n- Movimento claro de **tônicas**\n- Cair em **notas do acorde** no tempo 1\n- Conectar um compasso no outro com suavidade",
+          "es": "# Paso 2 – construir ciclos sencillos de acordes\nAhora elige un **ciclo armónico corto** para caminar encima. Ejemplos en Do mayor:\n\n- **II–V–I**: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n- **I–VI–II–V**: | Cmaj7 | Am7 | Dm7 | G7 |\n- **Fragmento de blues**: | C7 | F7 | C7 | G7 |\n\nEscoge **sólo un** ciclo y quédate con él un rato. Menos acordes significa más foco en:\n- Movimiento claro de **tónicas**\n- Pisar **notas del acorde** en el tiempo 1\n- Conectar los compases de forma fluida"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – How to actually loop it\nYou have a few options:\n\n- **Looper pedal**: record the chords (or just roots) on guitar/keys and loop\n- **DAW / phone app**: program simple chord hits on beats 1 and 3 and loop 4–8 bars\n- **Metronome only**: say the chord names out loud and walk the bass\n\nDon’t overproduce it. One clear chord hit per bar is enough – your job is to make the **bass line create the movement**.",
+          "zh-Hans": "# 第三步 —— 实际怎么做成循环\n你可以用很多方式做循环：\n\n- **Loop 踏板**：用吉他/键盘录下和弦（或仅根音），然后循环\n- **宿主软件 / 手机 App**：在第 1、3 拍写上简单的和弦击打，做一个 4–8 小节的循环\n- **只用节拍器**：嘴里小声报当前和弦名，用贝斯自己走出和声\n\n不用把伴奏做得太复杂。每小节一个清晰的和弦音就够了，你的任务是用 **贝斯走线来制造运动感**。",
+          "de": "# Schritt 3 – Wie du den Loop praktisch baust\nDu hast mehrere Möglichkeiten:\n\n- **Looper-Pedal**: Akkorde (oder nur Grundtöne) auf Gitarre/Keys einspielen und loopen\n- **DAW / Handy-App**: einfache Akkordschläge auf Zählzeit 1 und 3 programmieren, 4–8 Takte loopen\n- **Nur Metronom**: Akkordnamen leise mitsprechen und dazu die Walking-Basslinie spielen\n\nProduziere das Ganze nicht über. Ein klarer Akkordschlag pro Takt reicht – deine Aufgabe ist es, dass **die Basslinie die Bewegung erzeugt**.",
+          "ja": "# ステップ3 – 実際にどうループを作るか\nループを作る方法はいくつかあります：\n\n- **ルーパー・ペダル**：ギターやキーボードでコード（またはルートだけ）を録ってループさせる\n- **DAW / スマホアプリ**：1拍目や3拍目にコードを置いた4〜8小節のパターンを作ってループ\n- **メトロノームだけ**：口でコード名をつぶやきながら、ベースだけでウォーキングする\n\n伴奏を作り込みすぎる必要はありません。1小節に**1回コードを鳴らすだけ**でもOK。実際に音楽を動かすのは、あなたの**ベースライン**です。",
+          "pt-BR": "# Passo 3 – como transformar isso em loop\nVocê tem algumas opções:\n\n- **Looper pedal**: grave os acordes (ou só as tônicas) no violão/teclas e deixe em loop\n- **DAW / app no celular**: programe batidas simples de acorde nos tempos 1 e 3 e faça um loop de 4–8 compassos\n- **Só metrônomo**: fale o nome dos acordes em voz baixa e faça o walking no baixo\n\nNão precisa produzir demais. Um ataque claro de acorde por compasso já é suficiente – quem tem que criar a **sensação de movimento é a linha de baixo**.",
+          "es": "# Paso 3 – cómo loopearlo de verdad\nTienes varias opciones:\n\n- **Pedal looper**: graba los acordes (o sólo las tónicas) en guitarra/teclas y haz el loop\n- **DAW / app de móvil**: programa golpes sencillos de acordes en los tiempos 1 y 3 y haz un loop de 4–8 compases\n- **Sólo metrónomo**: di en voz baja el nombre de los acordes y haz el walking en el bajo\n\nNo hace falta producir algo complejo. Un golpe claro de acorde por compás basta: quien tiene que crear el **movimiento es tu línea de bajo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 4 – Walking goals over your loop\nWith your loop running, pick **one focus at a time**:\n\n- Chorus 1: only **roots and fifths**\n- Chorus 2: add **3rds and 7ths** on strong beats\n- Chorus 3: connect chords with **scale steps** between chord tones\n- Later: mix in **chromatic approaches** (from above/below)\n\nRecord a few choruses and listen back. If the **time feels steady** and you can clearly hear the **chord changes from your line alone**, your loop is doing its job.",
+          "zh-Hans": "# 第四步 —— 在循环上设定 walking 目标\n循环开始转动后，每次只选**一个练习重点**：\n\n- 第 1 轮：只用**根音和五度**\n- 第 2 轮：在强拍上加入**三度和七度**\n- 第 3 轮：用**音阶音**连接不同小节的和弦音\n- 后面再加入：从上方/下方的**半音接近音**\n\n录几轮回放听一听。如果整体**节奏稳定**，而且光听你的贝斯就能把**和弦变化听出来**，说明这个循环已经非常有效了。",
+          "de": "# Schritt 4 – Ziele für dein Walking über dem Loop\nWenn der Loop läuft, nimm dir immer **ein klares Übeziel** vor:\n\n- Chorus 1: nur **Grundtöne und Quinten**\n- Chorus 2: **Terzen und Septimen** auf starken Zählzeiten ergänzen\n- Chorus 3: Akkorde mit **Skalenschritten** zwischen Akkordtönen verbinden\n- Später: **chromatische Annäherungen** von oben/unten einbauen\n\nNimm ein paar Durchläufe auf und hör sie dir an. Wenn das **Timing stabil** ist und man die **Akkordwechsel allein durch deine Basslinie** hören kann, erfüllt dein Loop seinen Zweck.",
+          "ja": "# ステップ4 – ループ上でのウォーキングの目標\nループが回り始めたら、毎回**テーマを1つだけ決めて**練習します：\n\n- 1コーラス目：**ルートと5度**だけで歩く\n- 2コーラス目：強拍に**3度・7度**を入れてみる\n- 3コーラス目：コードトーン同士を**スケールのステップ**でつなぐ\n- 慣れてきたら：上下からの**クロマチック・アプローチ**を混ぜる\n\n何コーラスか録音して聴き返してみましょう。**タイムが安定**していて、ベースだけで**コードチェンジがちゃんと聞こえる**なら、そのループはしっかり役目を果たしています。",
+          "pt-BR": "# Passo 4 – objetivos de walking em cima do loop\nCom o loop rodando, escolha **um foco por vez**:\n\n- Chorus 1: só **tônicas e quintas**\n- Chorus 2: colocar **terças e sétimas** nos tempos fortes\n- Chorus 3: ligar os acordes com **passos de escala** entre as notas do acorde\n- Mais pra frente: misturar **aproximações cromáticas** (por cima e por baixo)\n\nGrave alguns choruses e ouça. Se o **tempo estiver firme** e der pra ouvir claramente as **trocas de acorde só pela sua linha**, seu loop está cumprindo muito bem o papel dele.",
+          "es": "# Paso 4 – objetivos de walking sobre tu loop\nCon el loop sonando, elige **un foco por vez**:\n\n- Coro 1: sólo **tónicas y quintas**\n- Coro 2: añadir **terceras y séptimas** en tiempos fuertes\n- Coro 3: conectar acordes con **pasos de la escala** entre las notas del acorde\n- Más adelante: mezclar **aproximaciones cromáticas** (desde arriba y abajo)\n\nGraba varios coros y escucha. Si el **tiempo se mantiene sólido** y se pueden oír claramente los **cambios de acorde sólo por tu línea**, tu loop está haciendo su trabajo."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

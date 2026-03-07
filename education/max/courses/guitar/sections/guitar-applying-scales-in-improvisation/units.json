@@ -1,0 +1,83 @@
+[
+  {
+    "id": "phrasing-and-rhythm",
+    "name": {
+      "values": {
+        "en": "Phrasing and Rhythm",
+        "zh-Hans": "乐句划分与节奏",
+        "de": "Phrasierung und Rhythmus",
+        "ja": "フレージングとリズム",
+        "pt-BR": "Fraseado e Ritmo",
+        "es": "Fraseo y ritmo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Phrasing and Rhythm",
+        "zh-Hans": "乐句划分与节奏",
+        "de": "Phrasierung und Rhythmus",
+        "ja": "フレージングとリズム",
+        "pt-BR": "Fraseado e Ritmo",
+        "es": "Fraseo y ritmo"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "target-notes-and-chord-tones",
+    "name": {
+      "values": {
+        "en": "Target Notes and Chord Tones",
+        "zh-Hans": "目标音与和弦音",
+        "de": "Zielnoten und Akkordtöne",
+        "ja": "ターゲットノートとコードトーン",
+        "pt-BR": "Notas Alvo e Tons de Acordes",
+        "es": "Notas objetivo y tonos de acorde"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Target Notes and Chord Tones",
+        "zh-Hans": "目标音与和弦音",
+        "de": "Zielnoten und Akkordtöne",
+        "ja": "ターゲットノートとコードトーン",
+        "pt-BR": "Notas Alvo e Tons de Acordes",
+        "es": "Notas objetivo y tonos de acorde"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "practice-routines-and-etudes",
+    "name": {
+      "values": {
+        "en": "Practice Routines and Etudes",
+        "zh-Hans": "练习常规与练习曲",
+        "de": "Übungsroutinen und Etüden",
+        "ja": "練習ルーチンとエチュード",
+        "pt-BR": "Rotinas de Prática e Estudos",
+        "es": "Rutinas de práctica y estudios"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice Routines and Etudes",
+        "zh-Hans": "练习常规与练习曲",
+        "de": "Übungsroutinen und Etüden",
+        "ja": "練習ルーチンとエチュード",
+        "pt-BR": "Rotinas de Prática e Estudos",
+        "es": "Rutinas de práctica y estudios"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

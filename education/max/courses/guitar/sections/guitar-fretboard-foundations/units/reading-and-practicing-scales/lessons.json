@@ -1,0 +1,86 @@
+[
+  {
+    "id": "how-to-read-scale-degrees-and-intervals",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "How to Read Scale Degrees and Intervals",
+        "zh-Hans": "如何阅读音级与音程",
+        "de": "Wie man Skalenstufen und Intervalle liest",
+        "ja": "スケール度数と音程の読み方",
+        "pt-BR": "Como Ler Graus de Escala e Intervalos",
+        "es": "Cómo leer grados de escala e intervalos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "fingerings-for-one-and-two-octave-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Fingerings for One- and Two-Octave Scales",
+        "zh-Hans": "一个和两个八度音阶的指法",
+        "de": "Fingersätze für ein- und zweioktavige Skalen",
+        "ja": "1オクターブおよび2オクターブスケールの運指",
+        "pt-BR": "Dedilhados para Escalas de Uma e Duas Oitavas",
+        "es": "Digitaciones para escalas de una y dos octavas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "alternate-picking-for-scale-practice",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Alternate Picking for Scale Practice",
+        "zh-Hans": "音阶练习中的交替拨弦",
+        "de": "Wechselschlag für Skalenübungen",
+        "ja": "スケール練習のためのオルタネイトピッキング",
+        "pt-BR": "Palhetada Alternada para Prática de Escalas",
+        "es": "Púa alternada para práctica de escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

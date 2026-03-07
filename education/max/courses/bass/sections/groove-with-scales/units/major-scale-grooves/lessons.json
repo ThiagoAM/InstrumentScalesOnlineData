@@ -1,0 +1,86 @@
+[
+  {
+    "id": "creating-bass-lines-from-c-major-scale",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Bass Lines from C Major Scale",
+        "zh-Hans": "使用C大调音阶创作贝斯线",
+        "de": "Basslinien aus der C-Dur-Tonleiter entwickeln",
+        "ja": "Cメジャースケールから作るベースライン",
+        "pt-BR": "Criando Linhas de Baixo a partir da Escala de Dó Maior",
+        "es": "Creando líneas de bajo a partir de la escala de Do mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-passing-notes-between-chord-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Passing Notes Between Chord Tones",
+        "zh-Hans": "在和弦音之间使用过渡音",
+        "de": "Durchgangsnoten zwischen Akkordtönen verwenden",
+        "ja": "コードトーンの間にパッシングノートを使う",
+        "pt-BR": "Usando Notas de Passagem entre Notas do Acorde",
+        "es": "Usar notas de paso entre tonos del acorde"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "scale-based-fills-at-the-end-of-phrases",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale-Based Fills at the End of Phrases",
+        "zh-Hans": "在乐句结尾使用基于音阶的填充",
+        "de": "Skalenbasierte Fills am Ende von Phrasen",
+        "ja": "フレーズ終わりのスケールベースのフィル",
+        "pt-BR": "Fills Baseados em Escalas no Final das Frases",
+        "es": "Rellenos basados en escalas al final de las frases"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

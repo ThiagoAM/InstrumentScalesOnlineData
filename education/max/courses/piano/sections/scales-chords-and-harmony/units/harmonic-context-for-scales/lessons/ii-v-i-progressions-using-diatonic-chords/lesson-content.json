@@ -1,0 +1,86 @@
+{
+  "id": "ii-v-i-progressions-using-diatonic-chords",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# ii–V–I progressions using diatonic chords\nIn this lesson you’ll use **diatonic chords from the C major scale** to play the classic **ii–V–I progression**.\n\nIn C major that gives you the chords **Dm → G → C**. This progression is everywhere in jazz, pop and film music.",
+          "zh-Hans": "# 用自然音级和弦演奏 ii–V–I 进行\n本课你会用 **C大调音阶中的自然和弦** 来弹常见的 **ii–V–I 和弦进行**。\n\n在 C 大调里，就是 **Dm → G → C** 这三个和弦。这种进行在爵士、流行、电影配乐里随处可见。",
+          "de": "# ii–V–I-Kadenzen mit diatonischen Akkorden\nIn dieser Lektion verwendest du **diatonische Akkorde aus der C-Dur-Tonleiter**, um die klassische **ii–V–I-Kadenz** zu spielen.\n\nIn C-Dur bedeutet das die Akkorde **Dm → G → C**. Diese Folge hört man ständig in Jazz, Pop und Filmmusik.",
+          "ja": "# ダイアトニック・コードを使った ii–V–I 進行\nこのレッスンでは、**Cメジャー・スケールから作ったダイアトニック・コード**で、定番の **ii–V–I 進行** を練習します。\n\nCメジャーでは、コードは **Dm → G → C** になります。ジャズやポップス、映画音楽など、あらゆるところで使われる進行です。",
+          "pt-BR": "# Progressões ii–V–I usando acordes diatônicos\nNesta lição você vai usar **acordes diatônicos da escala de Dó maior** para tocar a clássica progressão **ii–V–I**.\n\nEm Dó maior, isso vira os acordes **Dm → G → C**. Essa sequência aparece o tempo todo no jazz, no pop e em trilhas de filme.",
+          "es": "# Progresiones ii–V–I usando acordes diatónicos\nEn esta lección vas a usar **acordes diatónicos de la escala de Do mayor** para tocar la clásica progresión **ii–V–I**.\n\nEn Do mayor eso se convierte en los acordes **Dm → G → C**. Esta secuencia aparece por todas partes en jazz, pop y música de cine."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Diatonic chords in C major\nFrom the C major scale:\n\n**C – D – E – F – G – A – B – C**\n\nBuild triads (1–3–5) on each note:\n- I: **C** major = C–E–G\n- ii: **D** minor = D–F–A\n- V: **G** major = G–B–D\n\nOur ii–V–I in C major is:\n\n**Dm → G → C**\n\nAll notes come from the **same scale** – that’s why these chords fit together so well.",
+          "zh-Hans": "# 第一步 – C大调中的自然音级和弦\n先看 C 大调音阶：\n\n**C – D – E – F – G – A – B – C**\n\n在每个音上按 1–3–5 搭三和弦：\n- I：**C** 大和弦 = C–E–G\n- ii：**D** 小和弦 = D–F–A\n- V：**G** 大和弦 = G–B–D\n\n所以 C 大调里的 ii–V–I 是：\n\n**Dm → G → C**\n\n这三个和弦全部来自同一个音阶，这也是它们听起来**特别和谐**的原因。",
+          "de": "# Schritt 1 – Diatonische Akkorde in C-Dur\nAus der C-Dur-Tonleiter:\n\n**C – D – E – F – G – A – H – C**\n\nBaue Dreiklänge (1–3–5) auf jedem Ton:\n- I: **C**-Dur = C–E–G\n- ii: **d**-Moll = D–F–A\n- V: **G**-Dur = G–H–D\n\nUnsere ii–V–I in C-Dur lautet:\n\n**Dm → G → C**\n\nAlle Töne stammen aus **derselben Tonleiter** – deshalb passen diese Akkorde so gut zueinander.",
+          "ja": "# ステップ1 – Cメジャーのダイアトニック・コード\nまず Cメジャー・スケール：\n\n**C – D – E – F – G – A – B – C**\n\nそれぞれの音から 1–3–5 でトライアドを作ると：\n- I：**C** メジャー = C–E–G\n- ii：**D** マイナー = D–F–A\n- V：**G** メジャー = G–B–D\n\nなので、Cメジャーの ii–V–I は：\n\n**Dm → G → C**\n\n全部同じスケールから取った音なので、**自然に気持ちよく**つながります。",
+          "pt-BR": "# Etapa 1 – Acordes diatônicos em Dó maior\nA partir da escala de Dó maior:\n\n**C – D – E – F – G – A – B – C**\n\nMontando tríades (1–3–5) em cada grau:\n- I: **C** maior = C–E–G\n- ii: **D** menor = D–F–A\n- V: **G** maior = G–B–D\n\nO nosso ii–V–I em Dó maior fica:\n\n**Dm → G → C**\n\nTodas as notas vêm da **mesma escala**, por isso esses acordes combinam tão bem.",
+          "es": "# Paso 1 – Acordes diatónicos en Do mayor\nDesde la escala de Do mayor:\n\n**C – D – E – F – G – A – B – C**\n\nConstruimos tríadas (1–3–5) en cada nota:\n- I: **C** mayor = C–E–G\n- ii: **D** menor = D–F–A\n- V: **G** mayor = G–B–D\n\nNuestro ii–V–I en Do mayor es:\n\n**Dm → G → C**\n\nTodas las notas vienen de la **misma escala**, por eso estos acordes encajan tan bien entre sí."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Playing ii–V–I in root position\nStart with simple **root position triads**, hands separate.\n\n**Right hand (1–3–5):**\n- Dm: D–F–A\n- G: G–B–D\n- C: C–E–G\n\n**Left hand (5–3–1):**\n- Dm: D–F–A\n- G: G–B–D\n- C: C–E–G\n\nPlay: **Dm | G | C | C**\n\nHold each chord for **4 beats**. Listen to how:\n- ii feels like **soft movement away**\n- V adds **tension**\n- I feels like a **clear resolution**",
+          "zh-Hans": "# 第二步 – 原位三和弦的 ii–V–I\n先用最简单的**原位三和弦**，单双手分开练习。\n\n**右手（1–3–5）**：\n- Dm：D–F–A\n- G：G–B–D\n- C：C–E–G\n\n**左手（5–3–1）**：\n- Dm：D–F–A\n- G：G–B–D\n- C：C–E–G\n\n先弹：**Dm | G | C | C**\n\n每个和弦按住 **4拍**，感受：\n- ii 是**轻微离开**的感觉\n- V 带来**明显的紧张**\n- I 则是**清楚的落地**",
+          "de": "# Schritt 2 – ii–V–I in Grundstellung spielen\nBeginne mit einfachen **Dreiklängen in Grundstellung**, Hände getrennt.\n\n**Rechte Hand (1–3–5):**\n- Dm: D–F–A\n- G: G–H–D\n- C: C–E–G\n\n**Linke Hand (5–3–1):**\n- Dm: D–F–A\n- G: G–H–D\n- C: C–E–G\n\nSpiele: **Dm | G | C | C**\n\nHalte jeden Akkord **4 Schläge** und höre:\n- ii fühlt sich wie ein **sanftes Wegbewegen** an\n- V baut **Spannung** auf\n- I bringt eine klare **Auflösung**",
+          "ja": "# ステップ2 – ルートポジションでの ii–V–I\nまずはシンプルに、**ルートポジションのトライアド**で左右別々に練習します。\n\n**右手（1–3–5）**\n- Dm：D–F–A\n- G：G–B–D\n- C：C–E–G\n\n**左手（5–3–1）**\n- Dm：D–F–A\n- G：G–B–D\n- C：C–E–G\n\nパターン：**Dm | G | C | C**\n\n各コードを **4拍** 伸ばしながら聴いてみましょう。\n- ii は、**少し離れていく感じ**\n- V は、戻りたくなるような**緊張感**\n- I は、しっかりと**落ち着く場所**",
+          "pt-BR": "# Etapa 2 – Tocando ii–V–I em posição fundamental\nComece com as tríades em **posição fundamental**, mãos separadas.\n\n**Mão direita (1–3–5):**\n- Dm: D–F–A\n- G: G–B–D\n- C: C–E–G\n\n**Mão esquerda (5–3–1):**\n- Dm: D–F–A\n- G: G–B–D\n- C: C–E–G\n\nToque: **Dm | G | C | C**\n\nSegure cada acorde por **4 tempos** e repare:\n- ii soa como um **deslocamento suave**\n- V cria **tensão**\n- I traz uma **resolução nítida**",
+          "es": "# Paso 2 – Tocar ii–V–I en posición fundamental\nEmpieza con tríadas en **posición fundamental**, manos separadas.\n\n**Mano derecha (1–3–5):**\n- Dm: D–F–A\n- G: G–B–D\n- C: C–E–G\n\n**Mano izquierda (5–3–1):**\n- Dm: D–F–A\n- G: G–B–D\n- C: C–E–G\n\nToca: **Dm | G | C | C**\n\nMantén cada acorde **4 pulsos** y escucha cómo:\n- ii se siente como un **movimiento suave hacia fuera**\n- V añade **tensión**\n- I da una **resolución clara**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Adding 7ths (optional upgrade)\nYou can make the sound richer by adding the **7th** of each chord, still using only notes from C major:\n\n- Dm7: **D–F–A–C** (ii7)\n- G7: **G–B–D–F** (V7)\n- Cmaj7: **C–E–G–B** (Imaj7)\n\nRight hand fingerings (one option):\n- Dm7: 1–2–3–5\n- G7: 1–2–3–5\n- Cmaj7: 1–2–3–5\n\nThese are the classic **jazz ii–V–I** chords, but they work in many styles.",
+          "zh-Hans": "# 第三步 – 加上七和弦（可选进阶）\n想要声音更丰满，可以给每个和弦加上它的**七度音**，依然只用 C 大调里的音：\n\n- Dm7：**D–F–A–C**（ii7）\n- G7：**G–B–D–F**（V7）\n- Cmaj7：**C–E–G–B**（Imaj7）\n\n一种常见的右手指法：\n- Dm7：1–2–3–5\n- G7：1–2–3–5\n- Cmaj7：1–2–3–5\n\n这就是经典的**爵士风 ii–V–I** 和弦，但在很多风格里都很好用。",
+          "de": "# Schritt 3 – Septakkorde hinzufügen (optionales Upgrade)\nDu kannst den Klang voller machen, indem du die **Septime** hinzufügst – weiterhin nur mit Tönen aus C-Dur:\n\n- Dm7: **D–F–A–C** (ii7)\n- G7: **G–H–D–F** (V7)\n- Cmaj7: **C–E–G–H** (Imaj7)\n\nMögliche rechte-Hand-Fingersätze:\n- Dm7: 1–2–3–5\n- G7: 1–2–3–5\n- Cmaj7: 1–2–3–5\n\nDas sind die typischen **Jazz-ii–V–I**-Akkorde, funktionieren aber auch in vielen anderen Stilen.",
+          "ja": "# ステップ3 – 7th を足してサウンドをグレードアップ\nさらに**7度の音**を加えると、よりリッチな響きになります。まだ Cメジャーの音だけを使います。\n\n- Dm7：**D–F–A–C**（ii7）\n- G7：**G–B–D–F**（V7）\n- Cmaj7：**C–E–G–B**（Imaj7）\n\n右手の一例：\n- Dm7：1–2–3–5\n- G7：1–2–3–5\n- Cmaj7：1–2–3–5\n\nこれはいわゆる**ジャズの ii–V–I** ですが、他のジャンルでもそのまま使えます。",
+          "pt-BR": "# Etapa 3 – Acrescentando as 7as (opcional)\nVocê pode deixar o som mais cheio adicionando a **sétima** em cada acorde, ainda só com notas de Dó maior:\n\n- Dm7: **D–F–A–C** (ii7)\n- G7: **G–B–D–F** (V7)\n- Cmaj7: **C–E–G–B** (Imaj7)\n\nSugestão de dedos na mão direita:\n- Dm7: 1–2–3–5\n- G7: 1–2–3–5\n- Cmaj7: 1–2–3–5\n\nEsses são os acordes clássicos de um **ii–V–I de jazz**, mas funcionam muito bem em vários estilos.",
+          "es": "# Paso 3 – Añadiendo séptimas (mejora opcional)\nPuedes enriquecer el sonido añadiendo la **séptima** en cada acorde, usando solo notas de Do mayor:\n\n- Dm7: **D–F–A–C** (ii7)\n- G7: **G–B–D–F** (V7)\n- Cmaj7: **C–E–G–B** (Imaj7)\n\nDigitaciones posibles en la mano derecha:\n- Dm7: 1–2–3–5\n- G7: 1–2–3–5\n- Cmaj7: 1–2–3–5\n\nEstos son los acordes típicos de un **ii–V–I de jazz**, pero funcionan en muchos otros estilos también."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 4 – Linking scales and chord tones\nUse the **C major scale** over the whole ii–V–I and aim for **chord tones on strong beats**.\n\nExample with the right hand (quarter notes):\n- Over Dm: D – F – E – F\n- Over G: G – B – A – G\n- Over C: E – D – C – C\n\nYou’re mostly playing scale notes, but landing on **D–F–A**, **G–B–D**, **C–E–G** gives a clear sense of the harmony.",
+          "zh-Hans": "# 第四步 – 把音阶和和弦音连起来\n在整个 ii–V–I 上都用 **C大调音阶**，尽量让**和弦音落在强拍**上。\n\n右手四分音符示例：\n- 在 Dm 上：D – F – E – F\n- 在 G 上：G – B – A – G\n- 在 C 上：E – D – C – C\n\n基本上都是音阶音，但关键时刻落在 **D–F–A、G–B–D、C–E–G**，和声感觉就会很清楚。",
+          "de": "# Schritt 4 – Skalen und Akkordtöne verbinden\nNutze die **C-Dur-Tonleiter** über die ganze ii–V–I-Folge und versuche, auf **Akkordtönen auf den starken Zählzeiten** zu landen.\n\nBeispiel rechte Hand (Viertelnoten):\n- Über Dm: D – F – E – F\n- Über G: G – H – A – G\n- Über C: E – D – C – C\n\nDu spielst größtenteils Skalentöne, aber das Landen auf **D–F–A**, **G–H–D**, **C–E–G** macht die Harmonie deutlich hörbar.",
+          "ja": "# ステップ4 – スケールとコードトーンをつなぐ\nii–V–I 全体の上で **Cメジャー・スケール** を使いながら、**強拍ではコードトーンに着地する** ことを意識します。\n\n右手・4分音符の例：\n- Dm の上：D – F – E – F\n- G の上：G – B – A – G\n- C の上：E – D – C – C\n\nやっていることはほとんどスケールの音ですが、要所で **D–F–A、G–B–D、C–E–G** に乗ることで、ハーモニーがはっきり感じられます。",
+          "pt-BR": "# Etapa 4 – Ligando escala e notas do acorde\nUse a **escala de Dó maior** em todo o ii–V–I e tente cair em **notas do acorde nos tempos fortes**.\n\nExemplo na mão direita (semínimas):\n- Sobre Dm: D – F – E – F\n- Sobre G: G – B – A – G\n- Sobre C: E – D – C – C\n\nVocê está basicamente tocando notas da escala, mas pousar em **D–F–A**, **G–B–D**, **C–E–G** deixa a harmonia bem clara.",
+          "es": "# Paso 4 – Conectando escala y notas del acorde\nUsa la **escala de Do mayor** sobre todo el ii–V–I y procura caer en **notas del acorde en los tiempos fuertes**.\n\nEjemplo con la mano derecha (negras):\n- Sobre Dm: D – F – E – F\n- Sobre G: G – B – A – G\n- Sobre C: E – D – C – C\n\nEn su mayoría tocas notas de la escala, pero aterrizar en **D–F–A**, **G–B–D**, **C–E–G** hace que la armonía se escuche muy clara."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play **Dm → G → C → C** with triads, hands separate, 4 beats each.\n2. Repeat using **Dm7 → G7 → Cmaj7**.\n3. With the right hand, improvise tiny C major scale fragments but always **start or end on a chord tone**.\n4. When this feels easy, try the same ii–V–I idea in other major keys (for example: **Em7–A7–Dmaj7** in D major).\n\nOnce ii–V–I feels natural under your fingers, you’ll start hearing it inside a lot of the music you listen to.",
+          "zh-Hans": "## 快速练习\n1. 先用三和弦弹 **Dm → G → C → C**，单双手分开，每个和弦 4 拍。\n2. 再用 **Dm7 → G7 → Cmaj7** 练一遍。\n3. 右手用 C 大调音阶即兴一些小短句，但记得**从和弦音起，或在和弦音上收尾**。\n4. 熟练后，把同样的 ii–V–I 思路搬到别的调上，比如 D 大调里的 **Em7–A7–Dmaj7**。\n\n当 ii–V–I 在手上变得自然后，你会开始在大量音乐里**听见它的存在**。",
+          "de": "## Kurze Übung\n1. Spiele **Dm → G → C → C** als Dreiklänge, Hände getrennt, jeweils 4 Schläge.\n2. Wiederhole das Ganze mit **Dm7 → G7 → Cmaj7**.\n3. Improvisiere mit der rechten Hand kleine C-Dur-Skalenfragmente, achte aber darauf, **auf Akkordtönen zu starten oder zu landen**.\n4. Wenn das locker geht, probiere dasselbe ii–V–I-Konzept in anderen Dur-Tonarten (z.B. **Em7–A7–Dmaj7** in D-Dur).\n\nSobald sich ii–V–I unter den Fingern natürlich anfühlt, wirst du diese Folge in sehr vielen Stücken wiedererkennen.",
+          "ja": "## かんたん練習\n1. まずは三和音で **Dm → G → C → C** を、左右別々に各4拍ずつ弾きます。\n2. 次に **Dm7 → G7 → Cmaj7** でも同じように練習します。\n3. 右手で Cメジャー・スケールを使った短いフレーズを即興しつつ、**始まりか終わりを必ずコードトーンにする**ことを意識します。\n4. 慣れてきたら、同じ ii–V–I の考え方を他のメジャー・キーでも試してみましょう（例：Dメジャーなら **Em7–A7–Dmaj7**）。\n\nii–V–I が自然に弾けるようになると、聴いている音楽の中でも**「あ、これだ」**と気づく場面が一気に増えてきます。",
+          "pt-BR": "## Prática rápida\n1. Toque **Dm → G → C → C** com tríades, mãos separadas, 4 tempos em cada acorde.\n2. Repita usando **Dm7 → G7 → Cmaj7**.\n3. Com a mão direita, improvise pequenos trechos da escala de Dó maior, sempre **começando ou terminando em notas do acorde**.\n4. Quando estiver fácil, leve a mesma ideia de ii–V–I para outros tons maiores (por exemplo: **Em7–A7–Dmaj7** em Ré maior).\n\nQuando o ii–V–I ficar natural nos dedos, você vai começar a **reconhecer esse movimento** em um monte de músicas que ouve.",
+          "es": "## Práctica rápida\n1. Toca **Dm → G → C → C** con tríadas, manos separadas, 4 pulsos por acorde.\n2. Repite usando **Dm7 → G7 → Cmaj7**.\n3. Con la mano derecha, improvisa pequeños fragmentos de la escala de Do mayor, siempre **empezando o terminando en notas del acorde**.\n4. Cuando esto se sienta fácil, lleva la misma idea de ii–V–I a otras tonalidades mayores (por ejemplo: **Em7–A7–Dmaj7** en Re mayor).\n\nCuando el ii–V–I se sienta natural bajo tus dedos, empezarás a **reconocer este movimiento** en muchísima música que escuchas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

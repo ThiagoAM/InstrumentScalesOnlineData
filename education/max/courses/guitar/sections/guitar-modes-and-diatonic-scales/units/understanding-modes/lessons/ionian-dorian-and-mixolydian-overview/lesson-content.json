@@ -1,0 +1,73 @@
+{
+  "id": "ionian-dorian-and-mixolydian-overview",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Ionian, Dorian and Mixolydian – overview\nModes can feel abstract, but these three show up **all the time** in real music:\n\n- **Ionian** – the regular **major scale** sound\n- **Dorian** – a **minor** sound with a brighter 6th\n- **Mixolydian** – a **major** sound with a bluesy flat 7\n\nIn this lesson you’ll learn what they *sound* like and **when to use each one**.",
+          "zh-Hans": "# Ionian、Dorian 和 Mixolydian 概览\n调式有时听起来很抽象，但这三个在实际音乐里**经常出现**：\n\n- **Ionian（伊奥尼亚）** – 就是我们熟悉的**大调音阶**的声音\n- **Dorian（多利亚）** – 带有明亮 6 度的**小调**色彩\n- **Mixolydian（混合利地亚）** – 带有降 7 的**大调 + 布鲁斯**味道\n\n在这节课里，你会了解它们的**听感**，以及在什么场景下使用它们。",
+          "de": "# Ionisch, Dorisch und Mixolydisch – Überblick\nModi können theoretisch wirken, aber diese drei hörst du **ständig** in Songs:\n\n- **Ionisch** – der ganz normale **Dur-Tonleiter-Sound**\n- **Dorisch** – ein **Moll-Sound** mit heller großer Sexte\n- **Mixolydisch** – ein **Dur-Sound** mit bluesiger, kleiner Septime\n\nIn dieser Lektion geht es darum, wie sie **klingen** und **wann du welchen Modus einsetzt**.",
+          "ja": "# アイオニアン・ドリアン・ミクソリディアン概要\nモードは少し難しく感じますが、この3つは現実の音楽で**めちゃくちゃよく出てきます**：\n\n- **Ionian（アイオニアン）** – ふつうの**メジャー・スケール**の響き\n- **Dorian（ドリアン）** – 明るい6度を持った**マイナー系**の響き\n- **Mixolydian（ミクソリディアン）** – ♭7を含む、すこしブルージーな**メジャー系**の響き\n\nこのレッスンでは、それぞれの**サウンドの違い**と、**どんなときに使うか**をつかんでいきます。",
+          "pt-BR": "# Visão geral: Jônio, Dórico e Mixolídio\nModos podem parecer teóricos demais, mas esses três aparecem **o tempo todo** na música real:\n\n- **Jônio (Ionian)** – o som da **escala maior “normal”**\n- **Dórico (Dorian)** – um som **menor** com sexta maior, mais brilhante\n- **Mixolídio (Mixolydian)** – um som **maior** com sétima menor, meio blueseiro\n\nNesta lição você vai entender **como cada um soa** e **quando usar cada modo**.",
+          "es": "# Resumen de jónico, dórico y mixolidio\nLos modos pueden parecer teóricos, pero estos tres aparecen **todo el tiempo** en la música real:\n\n- **Jónico (Ionian)** – el sonido de la **escala mayor normal**\n- **Dórico (Dorian)** – un sonido **menor** con una 6ª mayor más brillante\n- **Mixolidio (Mixolydian)** – un sonido **mayor** con 7ª menor, un poco bluesy\n\nEn esta lección vas a aprender cómo **suena cada uno** y **cuándo usarlo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The basic formulas\nThink of all three as **variations of the major scale**:\n\n- **Ionian** → 1 2 3 4 5 6 7  (plain major)\n- **Dorian** → 1 2 ♭3 4 5 6 ♭7  (minor with natural 6)\n- **Mixolydian** → 1 2 3 4 5 6 ♭7  (major with flat 7)\n\nIf you know a major scale shape, you already have the notes — the mode is about **which note feels like “home”**.",
+          "zh-Hans": "# 基本公式\n可以把这三个都看成是**大调音阶的变体**：\n\n- **Ionian** → 1 2 3 4 5 6 7  （标准大调）\n- **Dorian** → 1 2 ♭3 4 5 6 ♭7  （带自然 6 的小调）\n- **Mixolydian** → 1 2 3 4 5 6 ♭7  （带降 7 的大调）\n\n只要你会一个大调指型，音其实都在那儿——不同的调式只是**“哪一个音听上去像家”**变了而已。",
+          "de": "# Die Grundformeln\nDenk alle drei als **Abwandlungen der Dur-Tonleiter**:\n\n- **Ionisch** → 1 2 3 4 5 6 7  (reines Dur)\n- **Dorisch** → 1 2 ♭3 4 5 6 ♭7  (Moll mit großer Sexte)\n- **Mixolydisch** → 1 2 3 4 5 6 ♭7  (Dur mit kleiner Septime)\n\nWenn du ein Dur-Pattern kennst, hast du die Töne schon – der Modus entscheidet nur, **welcher Ton sich wie „Zuhause“ anfühlt**.",
+          "ja": "# 基本の形（フォーミュラ）\nこの3つは、どれも**メジャー・スケールのバリエーション**として考えられます：\n\n- **Ionian** → 1 2 3 4 5 6 7  （ふつうのメジャー）\n- **Dorian** → 1 2 ♭3 4 5 6 ♭7  （ナチュラル6を持ったマイナー）\n- **Mixolydian** → 1 2 3 4 5 6 ♭7  （♭7を持つメジャー）\n\nメジャー・スケールの形を1つ覚えていれば、音はもう全部そこにあります。モードの違いは、**どの音を“ホーム”に感じるか**という感覚の違いです。",
+          "pt-BR": "# As fórmulas básicas\nPense nos três como **versões da escala maior**:\n\n- **Jônio** → 1 2 3 4 5 6 7  (maior “pura”)\n- **Dórico** → 1 2 ♭3 4 5 6 ♭7  (menor com sexta maior)\n- **Mixolídio** → 1 2 3 4 5 6 ♭7  (maior com sétima menor)\n\nSe você já conhece um desenho de escala maior, as notas estão lá — o modo muda **qual nota soa como repouso, como “casa”**.",
+          "es": "# Las fórmulas básicas\nPiensa los tres como **variaciones de la escala mayor**:\n\n- **Jónico** → 1 2 3 4 5 6 7  (mayor “pura”)\n- **Dórico** → 1 2 ♭3 4 5 6 ♭7  (menor con 6ª mayor)\n- **Mixolidio** → 1 2 3 4 5 6 ♭7  (mayor con 7ª menor)\n\nSi ya conoces un dibujo de escala mayor, las notas ya están ahí: el modo decide **qué nota se siente como “casa”**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Same notes, new home base\nA simple way to hear modes is to stay in **one parent scale** but change the **root**:\n\nUsing **C major** notes (C D E F G A B):\n- Over **Cmaj / Cmaj7** → think **C Ionian** (C is home)\n- Over **Dm / Dm7** → think **D Dorian** (D is home, minor feel)\n- Over **G7** → think **G Mixolydian** (G is home, dominant feel)\n\nSame seven notes – three different moods, depending on **which chord and root** your ear locks onto.",
+          "zh-Hans": "# 同一组音，不同“主心骨”\n想听出调式差别，一个简单办法是：音一直用**同一个大调**，只换**根音和和弦**。\n\n以 **C 大调** 的音（C D E F G A B）为例：\n- 在 **Cmaj / Cmaj7** 上 → 当成 **C Ionian**（C 是“家”，大调感觉）\n- 在 **Dm / Dm7** 上 → 当成 **D Dorian**（D 是“家”，小调感觉）\n- 在 **G7** 上 → 当成 **G Mixolydian**（G 是“家”，带属和弦感觉）\n\n音符没变，情绪却不同——关键在于耳朵认定的**主和弦和根音**是哪一个。",
+          "de": "# Gleiche Töne, neuer Grundton\nEine einfache Hörübung: bleib in **einer Dur-Tonleiter**, wechsel aber den **Grundton**.\n\nMit den Tönen von **C-Dur** (C D E F G A B):\n- Über **Cmaj / Cmaj7** → denke **C Ionisch** (C ist „Zuhause“)\n- Über **Dm / Dm7** → denke **D Dorisch** (D ist „Zuhause“, Moll-Charakter)\n- Über **G7** → denke **G Mixolydisch** (G ist „Zuhause“, Dominant-Charakter)\n\nEs sind dieselben sieben Töne – aber **drei Stimmungen**, je nachdem an welchem Akkord und Grundton sich dein Ohr festhält.",
+          "ja": "# 同じ音、違うホーム\nモードの違いを実感する簡単な方法は、**1つのメジャー・スケールだけ**を使って、**ルート（ホーム）**を変えることです。\n\n**Cメジャー** の音（C D E F G A B）を使って：\n- **Cmaj / Cmaj7** の上では → **C Ionian** として聴く（Cがホーム）\n- **Dm / Dm7** の上では → **D Dorian**（Dがホームで、マイナーな雰囲気）\n- **G7** の上では → **G Mixolydian**（Gがホームで、ドミナントっぽい雰囲気）\n\n使っている7音は同じでも、**どのコード／ルートに耳が落ち着くか**で、まったく別のモードに聞こえます。",
+          "pt-BR": "# Mesmas notas, outro “centro”\nUm jeito simples de ouvir os modos é ficar em **uma escala maior só** e trocar o **centro** (a tônica):\n\nUsando as notas de **Dó maior** (C D E F G A B):\n- Sobre **Cmaj / Cmaj7** → pense em **C Jônio** (C é a casa)\n- Sobre **Dm / Dm7** → pense em **D Dórico** (D é a casa, clima menor)\n- Sobre **G7** → pense em **G Mixolídio** (G é a casa, clima de dominante)\n\nAs sete notas são as mesmas – o que muda é **qual acorde e qual nota o ouvido enxerga como repouso**.",
+          "es": "# Mismas notas, nueva “casa”\nUna forma sencilla de oír los modos es quedarse en **una sola escala mayor** y cambiar la **raíz**:\n\nCon las notas de **Do mayor** (C D E F G A B):\n- Sobre **Cmaj / Cmaj7** → piensa en **C jónico** (C es la casa)\n- Sobre **Dm / Dm7** → piensa en **D dórico** (D es la casa, color menor)\n- Sobre **G7** → piensa en **G mixolidio** (G es la casa, color dominante)\n\nSon las mismas siete notas, pero **tres climas distintos**, según en qué acorde y raíz se apoya tu oído."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What each mode *feels* like (quick guide)\nUse this as a mental shortcut:\n\n- **Ionian (major)**  \n  - Emotion: clear, stable, “home base”  \n  - Use over: I chord in pop, rock, worship, folk  \n  - Example vibe: simple major melodies that want to **resolve**\n\n- **Dorian (minor with 6)**  \n  - Emotion: minor but hopeful, slightly funky  \n  - Use over: **ii chord** vamps (like Dm–G in C), minor grooves  \n  - Example vibe: modern rock/funk minor jams that **don’t feel super dark**\n\n- **Mixolydian (major with ♭7)**  \n  - Emotion: major but edgy / bluesy  \n  - Use over: **V7 chord** (G7 in key of C), rock and blues turnarounds  \n  - Example vibe: classic rock riffs and bluesy dominant sounds",
+          "zh-Hans": "# 每个调式的“感觉”（速记版）\n可以这样快速记住它们的气质：\n\n- **Ionian（大调）**  \n  - 情绪：清晰、稳定、像“回到家”  \n  - 常用：流行、摇滚、敬拜、民谣里的 I 级和弦  \n  - 感觉：简单的大调旋律，最后很想**落回主音**\n\n- **Dorian（带自然 6 的小调）**  \n  - 情绪：是小调，但不阴暗，有一点 funk 味  \n  - 常用：**ii 级和弦** 循环（比如 C 大调里的 Dm–G）、各种小调 groove  \n  - 感觉：现代摇滚 / funk 里那种**不太丧**的 minor 即兴\n\n- **Mixolydian（带 ♭7 的大调）**  \n  - 情绪：大调里带点锋利、布鲁斯的味道  \n  - 常用：**属七和弦 V7**（C 调里的 G7）、摇滚和布鲁斯的尾句  \n  - 感觉：经典摇滚 riff、布鲁斯式的属和弦声音",
+          "de": "# Wie sich jeder Modus *anfühlt* (Schnellübersicht)\nMerke dir grob dieses Bild:\n\n- **Ionisch (Dur)**  \n  - Gefühl: klar, stabil, „Zuhause“  \n  - Einsatz: I-Akkord in Pop, Rock, Worship, Folk  \n  - Vibe: einfache Dur-Melodien, die gerne **auf dem Grundton landen**\n\n- **Dorisch (Moll mit großer Sexte)**  \n  - Gefühl: Moll, aber hoffnungsvoll, etwas funky  \n  - Einsatz: **ii-Vamps** (z.B. Dm–G in C), groovige Moll-Jams  \n  - Vibe: moderne Rock/Funk-Moll-Grooves, die **nicht super dunkel** klingen\n\n- **Mixolydisch (Dur mit ♭7)**  \n  - Gefühl: Dur mit kantigem, bluesigem Touch  \n  - Einsatz: **V7-Akkord** (G7 in C), Rock- und Blues-Turnarounds  \n  - Vibe: Classic-Rock-Riffs und bluesige Dominant-Sounds",
+          "ja": "# モードごとの“体感”ざっくりガイド\nざっくり、こういうキャラとして覚えておくとラクです：\n\n- **Ionian（メジャー）**  \n  - 感情：はっきり、安定、「家に帰ってきた」感じ  \n  - 用途：ポップス・ロック・ワーシップ・フォークの Iコード  \n  - 雰囲気：シンプルなメロディで、最後は**主音に落ち着きたくなる**\n\n- **Dorian（ナチュラル6を持つマイナー）**  \n  - 感情：マイナーだけど前向き、少しファンキー  \n  - 用途：**iiコードのバンプ**（Cメジャーなら Dm–G など）、マイナー系グルーヴ  \n  - 雰囲気：あまり暗すぎない、モダンなロック／ファンク系のマイナー・ジャム\n\n- **Mixolydian（♭7を持つメジャー）**  \n  - 感情：メジャーだけど少しとがっていて、ブルージー  \n  - 用途：**V7コード**（Cメジャーの G7）、ロックやブルースのターンアラウンド  \n  - 雰囲気：クラシック・ロックのリフ、ブルースっぽいドミナントのサウンド",
+          "pt-BR": "# O “clima” de cada modo (guia rápido)\nUse isso como atalho mental:\n\n- **Jônio (maior)**  \n  - Emoção: claro, estável, sensação de “cheguei em casa”  \n  - Use sobre: acorde de **I grau** em pop, rock, louvor, folk  \n  - Clima: melodias maiores simples que **querem resolver** na tônica\n\n- **Dórico (menor com 6)**  \n  - Emoção: menor, mas esperançoso, um pouco funky  \n  - Use sobre: vamps no **ii grau** (tipo Dm–G em C), grooves em menor  \n  - Clima: jams modernas de rock/funk em menor que **não são super sombrias**\n\n- **Mixolídio (maior com ♭7)**  \n  - Emoção: maior, mas com borda blueseira  \n  - Use sobre: acorde **V7** (G7 no tom de C), finais de frases em rock e blues  \n  - Clima: riffs de classic rock e aquele som de dominante de blues",
+          "es": "# Cómo se *siente* cada modo (guía rápida)\nÚsalo como atajo mental:\n\n- **Jónico (mayor)**  \n  - Emoción: claro, estable, sensación de “casa”  \n  - Úsalo sobre: acorde de **I grado** en pop, rock, worship, folk  \n  - Clima: melodías mayores sencillas que **quieren resolver** en la tónica\n\n- **Dórico (menor con 6)**  \n  - Emoción: menor pero con luz, algo funky  \n  - Úsalo sobre: **vamps en ii** (como Dm–G en Do), grooves en menor  \n  - Clima: jams modernas de rock/funk en menor que **no suenan súper oscuras**\n\n- **Mixolidio (mayor con ♭7)**  \n  - Emoción: mayor pero con filo / sabor blues  \n  - Úsalo sobre: acorde **V7** (G7 en Do), turnarounds de rock y blues  \n  - Clima: riffs de classic rock y sonidos de dominante bluseros"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nTry these short experiments (all with **C major notes only**):\n\n1. **Ionian** – loop **Cmaj7 → Fmaj7** and solo aiming to end phrases on **C or E**.\n2. **Dorian** – loop **Dm7 → G** and solo aiming to end on **D or F**, enjoy the **B natural (6)** over Dm.\n3. **Mixolydian** – loop **G7 → C** and solo aiming to land on **G or F**, really hear the **F (♭7)** against G7.\n\nSame fretboard shapes, same notes — you’re just shifting the **center of gravity** to taste each mode.",
+          "zh-Hans": "# 小练习\n试试这些小实验（全程只用 **C 大调** 的音）：\n\n1. **Ionian** – 循环弹 **Cmaj7 → Fmaj7**，即兴时多让乐句**落在 C 或 E** 上。\n2. **Dorian** – 循环 **Dm7 → G**，即兴时多落在 **D 或 F** 上，认真听 Dm 上的 **B（自然 6 度）** 的味道。\n3. **Mixolydian** – 循环 **G7 → C**，即兴时多落在 **G 或 F** 上，好好感受 G7 上的 **F（♭7）**。\n\n指板形状没变，音也没变——你只是在移动**重心**，让耳朵一口一口品尝每个调式的味道。",
+          "de": "# Kurze Praxisübung\nProbier diese Mini-Experimente (alles mit den **C-Dur-Tönen**):\n\n1. **Ionisch** – Loops **Cmaj7 → Fmaj7**, improvisiere und lass Phrasen gern auf **C oder E** enden.\n2. **Dorisch** – Loops **Dm7 → G**, lande öfter auf **D oder F** und hör dir das **B (die große Sexte)** über Dm an.\n3. **Mixolydisch** – Loops **G7 → C**, lande gern auf **G oder F** und genieße das **F (♭7)** über G7.\n\nDie Griffbrett-Formen bleiben gleich, die Töne auch – du verschiebst nur den **Schwerpunkt**, um jeden Modus einzeln zu schmecken.",
+          "ja": "# かんたん練習\n次のプチ実験をやってみましょう（すべて **Cメジャーの音だけ** を使用）：\n\n1. **Ionian** – **Cmaj7 → Fmaj7** をループして、ソロの着地点を **CかE** にすることを意識。\n2. **Dorian** – **Dm7 → G** をループして、**DかF** に着地しやすくする。Dmの上で鳴る **B（ナチュラル6）** の響きをよく味わう。\n3. **Mixolydian** – **G7 → C** をループして、**GかF** に着地してみる。G7に対する **F（♭7）** の強いキャラをしっかり聴く。\n\n使っている形も音も同じですが、**重心をどこに置くか**を変えるだけで、それぞれのモードの味がはっきり分かるようになります。",
+          "pt-BR": "# Prática rápida\nFaça esses testes curtos (sempre com as **notas de Dó maior**):\n\n1. **Jônio** – deixe em loop **Cmaj7 → Fmaj7** e improvise tentando finalizar frases em **C ou E**.\n2. **Dórico** – deixe em loop **Dm7 → G** e tente cair mais em **D ou F**, sentindo o **B (a 6 maior)** em cima de Dm.\n3. **Mixolídio** – deixe em loop **G7 → C** e termine frases em **G ou F**, ouvindo bem o **F (♭7)** contra o G7.\n\nOs desenhos no braço são os mesmos, as notas são as mesmas — você só muda o **centro de gravidade** pra provar o sabor de cada modo.",
+          "es": "# Práctica rápida\nPrueba estos experimentos cortos (siempre con las **notas de Do mayor**):\n\n1. **Jónico** – pon en loop **Cmaj7 → Fmaj7** e improvisa buscando cerrar frases en **C o E**.\n2. **Dórico** – pon en loop **Dm7 → G** y termina más seguido en **D o F**, escuchando el **B (6ª mayor)** sobre Dm.\n3. **Mixolidio** – pon en loop **G7 → C** y cae en **G o F**, sintiendo bien el **F (♭7)** contra G7.\n\nLas posiciones en el mástil son las mismas, las notas también: solo estás moviendo el **centro de gravedad** para saborear cada modo por separado."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

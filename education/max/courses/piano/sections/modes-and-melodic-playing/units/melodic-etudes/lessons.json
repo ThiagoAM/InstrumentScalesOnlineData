@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-etude-for-right-hand",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Etude for Right Hand",
+        "zh-Hans": "C大调右手练习曲",
+        "de": "C-Dur-Etüde für die rechte Hand",
+        "ja": "右手のCメジャーエチュード",
+        "pt-BR": "Estudo em Dó Maior para Mão Direita",
+        "es": "Estudio en Do Mayor para mano derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "two-hands-etude-using-broken-chords-and-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hands Etude Using Broken Chords and Scales",
+        "zh-Hans": "使用分解和弦与音阶的双手练习曲",
+        "de": "Etüde für beide Hände mit gebrochenen Akkorden und Skalen",
+        "ja": "分散和音とスケールを使った両手のエチュード",
+        "pt-BR": "Estudo para Duas Mãos Usando Acordes Quebrados e Escalas",
+        "es": "Estudio a dos manos usando acordes rotos y escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modal-etude-combining-dorian-and-mixolydian",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Modal Etude Combining Dorian and Mixolydian",
+        "zh-Hans": "结合多利亚与混合利底亚的调式练习曲",
+        "de": "Modale Etüde mit Dorisch und Mixolydisch",
+        "ja": "ドリアンとミクソリディアを組み合わせたモードエチュード",
+        "pt-BR": "Estudo Modal Combinando Dórico e Mixolídio",
+        "es": "Estudio modal combinando Dórico y Mixolidio"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

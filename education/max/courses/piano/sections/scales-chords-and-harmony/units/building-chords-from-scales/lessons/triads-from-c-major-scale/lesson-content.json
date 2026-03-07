@@ -1,0 +1,86 @@
+{
+  "id": "triads-from-c-major-scale",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Triads from the C major scale\nIn this lesson you will build **triads** (three note chords) using only the notes of the **C major scale**.\n\nYou will see how every note of the scale can become the **root** of a chord, and how this creates a full family of chords inside one key.",
+          "zh-Hans": "# 从C大调音阶构建三和弦\n本课你会用 **C大调音阶** 的音来搭建 **三和弦**（由3个音组成的和弦）。\n\n你会看到：音阶里的每一个音都可以变成和弦的**根音**，这样在同一个调里就会形成一整组相关的和弦。",
+          "de": "# Dreiklänge aus der C-Dur-Tonleiter\nIn dieser Lektion baust du **Dreiklänge** (Drei-Noten-Akkorde) nur aus den Tönen der **C-Dur-Tonleiter**.\n\nDu lernst, wie jeder Ton der Tonleiter zum **Grundton** eines Akkords werden kann und so eine ganze Akkordfamilie innerhalb einer Tonart entsteht.",
+          "ja": "# Cメジャー・スケールから作るトライアド\nこのレッスンでは、**Cメジャー・スケール** の音だけを使って **トライアド（三和音）** を作っていきます。\n\nスケールのそれぞれの音が和音の**ルート（根音）**になり、1つのキーの中に家族のように並んだコードができることを確認していきましょう。",
+          "pt-BR": "# Tríades a partir da escala de Dó maior\nNesta lição você vai montar **tríades** (acordes de três notas) usando apenas as notas da **escala de Dó maior**.\n\nVocê vai ver como cada nota da escala pode virar a **tônica** de um acorde e formar uma família completa de acordes dentro de uma mesma tonalidade.",
+          "es": "# Tríadas a partir de la escala de Do mayor\nEn esta lección vas a construir **tríadas** (acordes de tres notas) usando solo las notas de la **escala de Do mayor**.\n\nVerás cómo cada nota de la escala puede convertirse en la **tónica** de un acorde y formar una familia completa de acordes dentro de una misma tonalidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – C major scale\nFirst, remember the C major scale:\n\n**C – D – E – F – G – A – B – C**\n\nWe will build triads by stacking notes in a **1–3–5** pattern: start on a note, **skip one**, take the next, skip one, take the next.",
+          "zh-Hans": "# 第一步 – C大调音阶\n先回顾一下C大调音阶：\n\n**C – D – E – F – G – A – B – C**\n\n我们用 **1–3–5** 的方式来搭建三和弦：从某个音开始，**隔一个音取一个**，再隔一个音再取一个。",
+          "de": "# Schritt 1 – C-Dur-Tonleiter\nZur Erinnerung, die C-Dur-Tonleiter lautet:\n\n**C – D – E – F – G – A – H – C**\n\nWir bauen Dreiklänge nach dem Muster **1–3–5**: bei einem Ton beginnen, **einen Ton überspringen**, den nächsten nehmen, wieder einen überspringen und den nächsten nehmen.",
+          "ja": "# ステップ1 – Cメジャー・スケールの確認\nまずCメジャー・スケールを確認します。\n\n**C – D – E – F – G – A – B – C**\n\nトライアドは **1–3–5** のパターンで作ります。スタートの音から始めて、**1音飛ばして次の音**、また1音飛ばして次の音を重ねます。",
+          "pt-BR": "# Etapa 1 – Escala de Dó maior\nPrimeiro, relembre a escala de Dó maior:\n\n**C – D – E – F – G – A – B – C**\n\nVamos montar as tríades usando o padrão **1–3–5**: começamos em uma nota, **pulamos uma**, pegamos a próxima, pulamos outra e pegamos a próxima.",
+          "es": "# Paso 1 – Escala de Do mayor\nPrimero, recuerda la escala de Do mayor:\n\n**C – D – E – F – G – A – B – C**\n\nConstruiremos las tríadas usando el patrón **1–3–5**: empezamos en una nota, **saltamos una**, tomamos la siguiente, volvemos a saltar una y tomamos la siguiente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – What is a triad?\nA triad is a chord with:\n- **Root** – the starting note\n- **Third** – two scale steps above the root\n- **Fifth** – four scale steps above the root\n\nFrom C: root C, third E, fifth G → **C–E–G**.",
+          "zh-Hans": "# 第二步 – 什么是三和弦？\n三和弦包含三个部分：\n- **根音**：起始的那个音\n- **三度音**：从根音往上数两个音阶级\n- **五度音**：从根音往上数四个音阶级\n\n例如从 C 开始：根音 C，三度 E，五度 G → **C–E–G**。",
+          "de": "# Schritt 2 – Was ist ein Dreiklang?\nEin Dreiklang besteht aus:\n- **Grundton** – der Startton\n- **Terz** – zwei Skalenstufen über dem Grundton\n- **Quinte** – vier Skalenstufen über dem Grundton\n\nVon C aus: Grundton C, Terz E, Quinte G → **C–E–G**.",
+          "ja": "# ステップ2 – トライアドとは？\nトライアドは次の3つの音でできています。\n- **ルート**：出発点の音\n- **3度**：ルートからスケール上で2つ上の音\n- **5度**：ルートからスケール上で4つ上の音\n\nCから作ると、ルートC・3度E・5度Gで **C–E–G** となります。",
+          "pt-BR": "# Etapa 2 – O que é uma tríade?\nUma tríade é um acorde formado por:\n- **Tônica** – a nota de partida\n- **Terça** – dois graus da escala acima da tônica\n- **Quinta** – quatro graus da escala acima da tônica\n\nPor exemplo, a partir de C: tônica C, terça E, quinta G → **C–E–G**.",
+          "es": "# Paso 2 – ¿Qué es una tríada?\nUna tríada es un acorde formado por:\n- **Tónica** – la nota de inicio\n- **Tercera** – dos grados de escala por encima de la tónica\n- **Quinta** – cuatro grados de escala por encima de la tónica\n\nPor ejemplo, desde C: tónica C, tercera E, quinta G → **C–E–G**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Triads on each note of C major\nBuild 1–3–5 on every scale note:\n\n- **C major (I)**: C–E–G\n- **D minor (ii)**: D–F–A\n- **E minor (iii)**: E–G–B\n- **F major (IV)**: F–A–C\n- **G major (V)**: G–B–D\n- **A minor (vi)**: A–C–E\n- **B diminished (vii°)**: B–D–F\n\nC, F, G are **major**; D, E, A are **minor**; B–D–F is **diminished**, a tighter, tense sound.",
+          "zh-Hans": "# 第三步 – C大调中每个音上的三和弦\n在每个音上按 1–3–5 搭和弦：\n\n- **C大三和弦 (I)**：C–E–G\n- **D小三和弦 (ii)**：D–F–A\n- **E小三和弦 (iii)**：E–G–B\n- **F大三和弦 (IV)**：F–A–C\n- **G大三和弦 (V)**：G–B–D\n- **A小三和弦 (vi)**：A–C–E\n- **B减三和弦 (vii°)**：B–D–F\n\nC、F、G 是**大三和弦**，D、E、A 是**小三和弦**，B–D–F 是**减三和弦**，声音更紧张一些。",
+          "de": "# Schritt 3 – Dreiklänge auf jedem Ton von C-Dur\nBaue auf jedem Skalenton 1–3–5:\n\n- **C-Dur (I)**: C–E–G\n- **d-Moll (ii)**: D–F–A\n- **e-Moll (iii)**: E–G–H\n- **F-Dur (IV)**: F–A–C\n- **G-Dur (V)**: G–H–D\n- **a-Moll (vi)**: A–C–E\n- **h-vermindert (vii°)**: H–D–F\n\nC, F und G sind **Dur-Dreiklänge**, D, E und A sind **Moll-Dreiklänge**, H–D–F ist **vermindert** und klingt gespannter.",
+          "ja": "# ステップ3 – Cメジャーの各音にトライアドを作る\nスケールの各音で 1–3–5 を積み上げます。\n\n- **Cメジャー (I)**: C–E–G\n- **Dマイナー (ii)**: D–F–A\n- **Eマイナー (iii)**: E–G–B\n- **Fメジャー (IV)**: F–A–C\n- **Gメジャー (V)**: G–B–D\n- **Aマイナー (vi)**: A–C–E\n- **Bディミニッシュ (vii°)**: B–D–F\n\nC・F・G は**メジャー・トライアド**、D・E・A は**マイナー・トライアド**、B–D–F は**ディミニッシュ**で、少し緊張した響きになります。",
+          "pt-BR": "# Etapa 3 – Tríades em cada nota de Dó maior\nMonte 1–3–5 em cada grau da escala:\n\n- **Dó maior (I)**: C–E–G\n- **Ré menor (ii)**: D–F–A\n- **Mi menor (iii)**: E–G–B\n- **Fá maior (IV)**: F–A–C\n- **Sol maior (V)**: G–B–D\n- **Lá menor (vi)**: A–C–E\n- **Si diminuto (vii°)**: B–D–F\n\nC, F e G são tríades **maiores**; D, E e A são **menores**; B–D–F é **diminuta**, com um som mais tenso e apertado.",
+          "es": "# Paso 3 – Tríadas en cada nota de Do mayor\nConstruye 1–3–5 en cada grado de la escala:\n\n- **Do mayor (I)**: C–E–G\n- **Re menor (ii)**: D–F–A\n- **Mi menor (iii)**: E–G–B\n- **Fa mayor (IV)**: F–A–C\n- **Sol mayor (V)**: G–B–D\n- **La menor (vi)**: A–C–E\n- **Si disminuido (vii°)**: B–D–F\n\nC, F y G son tríadas **mayores**; D, E y A son **menores**; B–D–F es **disminuida**, con un sonido más tenso."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 4 – Playing the triads on the keyboard\nTry them in **root position**:\n\n- Right hand: use fingers **1–3–5** on each triad (thumb on the root).\n- Left hand: use **5–3–1** (little finger on the root).\n\nPlay slowly up the scale:\nC – Dm – Em – F – G – Am – Bdim – C\n\nListen to how the quality changes as you move through the chords.",
+          "zh-Hans": "# 第四步 – 在键盘上弹出这些三和弦\n先用**原位和弦**来弹：\n\n- 右手：每个和弦用 **1–3–5指**（拇指在根音上）。\n- 左手：用 **5–3–1指**（小指在根音上）。\n\n慢慢按音阶顺序弹：\nC – Dm – Em – F – G – Am – Bdim – C\n\n一边弹一边听，不同和弦的**感觉和情绪**是如何在一路上变化的。",
+          "de": "# Schritt 4 – Dreiklänge auf der Klaviatur spielen\nSpiele die Akkorde zuerst in **Grundstellung**:\n\n- Rechte Hand: für jeden Akkord **Finger 1–3–5** (Daumen auf dem Grundton).\n- Linke Hand: **Finger 5–3–1** (kleiner Finger auf dem Grundton).\n\nSpiele langsam die Reihe hinauf:\nC – Dm – Em – F – G – Am – Bdim – C\n\nHöre hin, wie sich die **Klangfarbe** verändert, während du durch die Akkorde gehst.",
+          "ja": "# ステップ4 – キーボードでトライアドを弾く\nまずは全部 **根音が一番下の形（ルートポジション）** で弾きます。\n\n- 右手: それぞれのコードを **1–3–5の指** で弾く（親指がルート）。\n- 左手: **5–3–1の指** を使う（小指がルート）。\n\nゆっくりスケール順に並べて弾いてみましょう。\nC – Dm – Em – F – G – Am – Bdim – C\n\n進んでいくにつれて、和音の**性格や雰囲気**がどう変わるかをよく耳で感じてください。",
+          "pt-BR": "# Etapa 4 – Tocando as tríades no teclado\nToque todas em **posição fundamental**:\n\n- Mão direita: use **1–3–5** em cada acorde (polegar na tônica).\n- Mão esquerda: use **5–3–1** (mínimo na tônica).\n\nToque devagar, subindo pela escala:\nC – Dm – Em – F – G – Am – Bdim – C\n\nPerceba como a **cor do som** muda à medida que você passa de um acorde para o outro.",
+          "es": "# Paso 4 – Tocando las tríadas en el teclado\nTócalas primero en **posición fundamental**:\n\n- Mano derecha: usa **1–3–5** en cada acorde (pulgar en la tónica).\n- Mano izquierda: usa **5–3–1** (meñique en la tónica).\n\nToca despacio subiendo por la escala:\nC – Dm – Em – F – G – Am – Bdim – C\n\nEscucha cómo va cambiando la **sensación** a medida que avanzas por los acordes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play all seven triads **hands separate**, up and down.\n2. Hold each chord for **two or four beats** and listen to its mood.\n3. Try this simple progression: **C – Am – F – G – C**.\n\nOnce these shapes feel easy, you are ready to combine them into real chord progressions and songs.",
+          "zh-Hans": "## 快速练习\n1. 把这七个三和弦用左右手**分别**弹一遍，上行再下行。\n2. 每个和弦按住 **2或4拍**，认真听它的情绪感觉。\n3. 试一试这个简单走向：**C – Am – F – G – C**。\n\n当这些形状都变得轻松好弹时，你就可以开始把它们串成各种真正的和弦进行和歌曲了。",
+          "de": "## Kurze Übung\n1. Spiele alle sieben Dreiklänge **mit getrennten Händen**, auf- und abwärts.\n2. Halte jeden Akkord **zwei oder vier Schläge** und höre auf seine Stimmung.\n3. Probiere diese einfache Kadenz: **C – Am – F – G – C**.\n\nSobald sich diese Formen selbstverständlich anfühlen, kannst du sie in echte Akkordfolgen und Songs einbauen.",
+          "ja": "## かんたん練習\n1. 7つすべてのトライアドを、左右それぞれで**別々に**上行・下行して弾きます。\n2. 各コードを **2〜4拍** ずつ伸ばして、その雰囲気をじっくり聴きましょう。\n3. 次のシンプルな進行も試してみてください。**C – Am – F – G – C**。\n\nこれらの形がスムーズに押さえられるようになったら、実際のコード進行や曲にどんどん応用していけます。",
+          "pt-BR": "## Prática rápida\n1. Toque as sete tríades **com as mãos separadas**, subindo e descendo.\n2. Segure cada acorde por **2 ou 4 tempos** e repare no clima que ele cria.\n3. Experimente esta progressão simples: **C – Am – F – G – C**.\n\nQuando essas formas estiverem fáceis, você estará pronto para juntar as tríades em progressões reais e em músicas de verdade.",
+          "es": "## Práctica rápida\n1. Toca las siete tríadas **con manos separadas**, subiendo y bajando.\n2. Mantén cada acorde **dos o cuatro pulsos** y escucha su carácter.\n3. Prueba esta progresión sencilla: **C – Am – F – G – C**.\n\nCuando estas formas te resulten cómodas, estarás listo para combinarlas en progresiones reales y en canciones completas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

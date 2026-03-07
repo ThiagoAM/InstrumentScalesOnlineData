@@ -1,0 +1,73 @@
+{
+  "id": "a-string-landmarks-and-octave-shapes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A string landmarks and octave shapes\nNow we move one string down to the **A string**. You’ll lock in a few landmark notes and learn a simple octave shape that repeats all over the neck.\n\nOn the A string these frets are especially useful:\n- 3rd fret – **C**\n- 5th fret – **D**\n- 7th fret – **E**\n- 12th fret – **A** (one octave above the open string)\n\nThey line up with the dot markers and pair nicely with your low E landmarks, so the neck starts to feel like a few clear note zones instead of random dots.",
+          "zh-Hans": "# A弦上的地标和八度形状\n现在我们往下一根弦走到 **A弦**。你会锁定几个地标音，并学一个在整个指板上反复出现的简单八度形状。\n\n在A弦上，这几个品位特别实用：\n- 第3品 – **C**\n- 第5品 – **D**\n- 第7品 – **E**\n- 第12品 – **A**（比空弦高一个八度）\n\n它们和指板上的点标记对齐，又能和你在低音E弦上的地标配合，让指板看起来像几个清晰的“音区”，而不是一堆零散的点。",
+          "de": "# Orientierungspunkte auf der A-Saite und Oktav-Griffe\nJetzt gehen wir eine Saite nach unten zur **A-Saite**. Du prägst dir ein paar Orientierungstöne ein und lernst einen einfachen Oktav-Griff, der sich über das ganze Griffbrett wiederholt.\n\nAuf der A-Saite sind diese Bünde besonders wichtig:\n- 3. Bund – **C**\n- 5. Bund – **D**\n- 7. Bund – **E**\n- 12. Bund – **A** (eine Oktave über der leeren Saite)\n\nSie liegen bei den Punktmarkierungen und passen gut zu deinen Landmarken auf der tiefen E-Saite – so fühlt sich das Griffbrett eher wie ein paar klare Noten-Zonen an statt wie zufällige Punkte.",
+          "ja": "# A弦の目印とオクターブの形\nここでは1本下の**A弦**に移動します。いくつかの目印になる音を覚えて、指板のあちこちで使えるシンプルなオクターブ形を覚えましょう。\n\nA弦では、このフレットが特に便利です：\n- 3フレット – **C**\n- 5フレット – **D**\n- 7フレット – **E**\n- 12フレット – **A**（開放弦より1オクターブ上）\n\nドットマークときれいに揃っていて、低音E弦の目印ともセットで使えるので、ネックが「バラバラの点」ではなく、いくつかのはっきりした音のエリアに見えてきます。",
+          "pt-BR": "# Marcos na corda A e formas de oitava\nAgora descemos uma corda e vamos para a **corda A**. Você vai fixar alguns marcos importantes e aprender uma forma simples de oitava que se repete pelo braço inteiro.\n\nNa corda A, estes trastes são especialmente úteis:\n- 3º traste – **C** (Dó)\n- 5º traste – **D** (Ré)\n- 7º traste – **E** (Mi)\n- 12º traste – **A** (Lá, uma oitava acima da corda solta)\n\nEles batem com as bolinhas do braço e combinam bem com os marcos da corda E grave, então o braço começa a parecer um conjunto de **zonas de notas** em vez de um monte de pontos aleatórios.",
+          "es": "# Puntos de referencia en la cuerda A y formas de octava\nAhora bajamos una cuerda hasta la **cuerda A**. Vas a fijar algunas notas de referencia y aprender una forma sencilla de octava que se repite por todo el mástil.\n\nEn la cuerda A, estos trastes son especialmente útiles:\n- Traste 3 – **C** (Do)\n- Traste 5 – **D** (Re)\n- Traste 7 – **E** (Mi)\n- Traste 12 – **A** (La, una octava por encima de la cuerda al aire)\n\nCoinciden con los puntos del diapasón y encajan bien con tus referencias de la cuerda E grave, así que el mástil empieza a sentirse como **zonas claras de notas**, y no como puntos sueltos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A string as a second reference line\nUse the A string just like the low E:\n\n- Around **3rd fret (C)** you’re in a **C area** for chords and riffs\n- Around **5th fret (D)** you’ll find lots of rock and funk shapes\n- Around **7th fret (E)** many scale patterns and pentatonics sit comfortably\n- At **12th fret (A)** the pattern repeats like a mirror of the open string\n\nWhen you shift positions, quickly ask: **“What note am I on on the A string?”** That one answer anchors your whole hand.",
+          "zh-Hans": "# 把A弦当作第二条参照线\n像用低音E弦那样使用A弦：\n\n- 在**第3品（C）**附近，你处在适合和弦、riff的 **C 区域**\n- 在**第5品（D）**附近，会出现很多摇滚和放克常用的形状\n- 在**第7品（E）**附近，很多音阶和五声音阶指型都很舒服\n- 到了**第12品（A）**，就像空弦的镜像，整个模式开始重复\n\n换把时，快速问自己一句：**“我现在在A弦上弹的是什么音？”** 这个答案就能帮你把整只手“定住”。",
+          "de": "# Die A-Saite als zweite Referenzlinie\nBenutze die A-Saite genau wie die tiefe E-Saite:\n\n- In der Nähe vom **3. Bund (C)** bist du im **C-Bereich** für Akkorde und Riffs\n- In der Nähe vom **5. Bund (D)** findest du viele typische Rock- und Funk-Shapes\n- In der Nähe vom **7. Bund (E)** liegen bequem viele Skalen- und Pentatonik-Patterns\n- Am **12. Bund (A)** wiederholt sich das Muster wie ein Spiegelbild der leeren Saite\n\nWenn du die Lage wechselst, frag kurz: **„Auf welchem Ton bin ich gerade auf der A-Saite?“** Diese eine Info verankert deine ganze Hand.",
+          "ja": "# A弦を“第2の基準ライン”として使う\nA弦は、低音E弦と同じように「基準ライン」として使えます。\n\n- **3フレット（C）**付近：コードやリフのための**Cあたりのエリア**\n- **5フレット（D）**付近：ロックやファンク系の形がよく出てくる場所\n- **7フレット（E）**付近：スケールやペンタトニックのパターンが収まりやすい位置\n- **12フレット（A）**：開放弦Aの鏡のような場所で、ここからパターンが繰り返されます。\n\nポジション移動をするときは、心の中でサッと **「今、A弦の何の音の上にいる？」** と確認してみてください。それだけで手全体の位置がグッと安定します。",
+          "pt-BR": "# Corda A como segunda linha de referência\nUse a corda A da mesma forma que a E grave:\n\n- Perto do **3º traste (C)** você está na **região de Dó** para acordes e riffs\n- Perto do **5º traste (D)** aparecem muitos desenhos clássicos de rock e funk\n- Perto do **7º traste (E)** várias escalas e pentatônicas se encaixam bem\n- No **12º traste (A)** o padrão se repete como um espelho da corda solta\n\nQuando mudar de posição, faça uma checagem rápida: **“Em que nota da corda A eu estou?”** Essa resposta já é suficiente para ancorar a posição da sua mão.",
+          "es": "# La cuerda A como segunda línea de referencia\nUsa la cuerda A igual que la E grave:\n\n- Cerca del **traste 3 (C)** estás en la **zona de Do** para acordes y riffs\n- Cerca del **traste 5 (D)** aparecen muchas figuras típicas de rock y funk\n- Cerca del **traste 7 (E)** se acomodan bien muchos patrones de escala y pentatónicas\n- En el **traste 12 (A)** el patrón se repite como un espejo de la cuerda al aire\n\nCuando cambies de posición, pregúntate rápido: **“¿En qué nota de la cuerda A estoy?”** Solo esa respuesta ya fija la posición de toda tu mano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Root–octave shape from the A string\nFrom any note on the A string you can grab its octave with one small shape:\n\n1. Start on the A string, any fret – this is your **root**\n2. Go **two strings down** (to the G string)\n3. Go **two frets higher** (toward the bridge)\n\nThat note on the G string is the **same note, one octave up**.\n\nExample:\n- A string, 3rd fret – **C**\n- G string, 5th fret – **C** (octave)\n\nThis works for C, D, E, A and every other note on the A string, and gives you an instant tight **root + octave** sound for grooves, riffs and double-stops.",
+          "zh-Hans": "# 从A弦找到八度音的形状\n在A弦上的任何音，你都可以用一个小小的形状抓到它的八度音：\n\n1. 从A弦任意品开始，这个音是你的**根音**\n2. 向下跨**两根弦**（到G弦）\n3. 再向琴桥方向移动**两个品位**\n\nG弦上的这个音，就是同名的**高一个八度**的音。\n\n例子：\n- A弦第3品 – **C**\n- G弦第5品 – **C**（八度）\n\n这个形状对C、D、E、A以及A弦上的任何音都有效，可以立刻做出紧凑的**根音 + 八度音**效果，用在groove、riff和双音里都很好听。",
+          "de": "# Grundton–Oktav-Form von der A-Saite\nVon jedem Ton auf der A-Saite kannst du mit einem kleinen Griff seine Oktave finden:\n\n1. Starte auf der A-Saite, irgendein Bund – das ist dein **Grundton**\n2. Geh **zwei Saiten nach unten** (zur G-Saite)\n3. Geh **zwei Bünde nach oben** (Richtung Steg)\n\nDer Ton auf der G-Saite ist derselbe **Ton eine Oktave höher**.\n\nBeispiel:\n- A-Saite, 3. Bund – **C**\n- G-Saite, 5. Bund – **C** (Oktave)\n\nDas funktioniert für C, D, E, A und jeden anderen Ton auf der A-Saite und gibt dir sofort diesen engen **Grundton + Oktave**-Sound für Grooves, Riffs und Double-Stops.",
+          "ja": "# A弦から探すルート＋オクターブ形\nA弦上のどの音からでも、次の小さな形で簡単にオクターブ上の音をつかめます：\n\n1. まずA弦の任意のフレットに指を置く → これが**ルート音**\n2. そこから**2本下の弦**（G弦）へ移動\n3. さらに**ブリッジ側へ2フレット**ずらす\n\nG弦上のその音が、同じ名前の**1オクターブ上の音**になります。\n\n例：\n- A弦 3フレット – **C**\n- G弦 5フレット – **C**（オクターブ）\n\nこの形はC、D、E、Aはもちろん、A弦上のあらゆる音で使えます。手軽にタイトな**ルート＋オクターブ**の響きを作れるので、グルーヴ、リフ、ダブルストップにとても便利です。",
+          "pt-BR": "# Forma de raiz + oitava a partir da corda A\nA partir de qualquer nota na corda A você consegue achar a oitava com um desenho bem simples:\n\n1. Comece em qualquer traste da corda A – essa é a sua **raiz**\n2. Desça **duas cordas** (até a corda G)\n3. Ande **dois trastes para frente** (em direção à ponte)\n\nA nota que você encontrar na corda G é a **mesma nota, uma oitava acima**.\n\nExemplo:\n- Corda A, 3º traste – **C** (Dó)\n- Corda G, 5º traste – **C** (Dó, oitava)\n\nIsso funciona para C, D, E, A e qualquer outra nota na corda A, e te dá na hora aquele som apertadinho de **raiz + oitava** para grooves, riffs e double-stops.",
+          "es": "# Forma de raíz + octava desde la cuerda A\nDesde cualquier nota en la cuerda A puedes encontrar su octava con una forma muy sencilla:\n\n1. Empieza en la cuerda A, en cualquier traste: esa es tu **raíz**\n2. Baja **dos cuerdas** (hasta la cuerda G)\n3. Sube **dos trastes** (hacia el puente)\n\nLa nota que suena en la cuerda G es la **misma nota, una octava arriba**.\n\nEjemplo:\n- Cuerda A, traste 3 – **C** (Do)\n- Cuerda G, traste 5 – **C** (Do, octava)\n\nEsto funciona para C, D, E, A y cualquier otra nota en la cuerda A, y te da al instante ese sonido ajustado de **raíz + octava** para grooves, riffs y dobles notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Play the A string open, then 3rd, 5th, 7th and 12th frets. Say the note names: **A, C, D, E, A**.\n2. For C, D and E, find the octave on the G string using the **2-strings-down, 2-frets-up** shape.\n3. Loop a tiny groove: root on the A string, octave on the G string (for example C–C, D–D, E–E).\n\nA few focused minutes a day with this will make the middle of the neck feel much smaller and easier to navigate.",
+          "zh-Hans": "# 小练习\n1. 先弹A弦空弦，然后依次弹第3、5、7、12品，并把音名念出来：**A、C、D、E、A**。\n2. 对C、D、E这三个音，用“**下两弦、前两品**”的形状在G弦上找到它们的八度音。\n3. 做一个小groove循环：在A弦上弹根音，在G弦上弹八度音（例如 C–C、D–D、E–E）。\n\n每天花几分钟专心练这个，你会发现琴颈中间那一块一下子变得更小、更好认路。",
+          "de": "# Kurze Übung\n1. Spiel die A-Saite leer und dann im 3., 5., 7. und 12. Bund. Sag die Notennamen laut: **A, C, D, E, A**.\n2. Such für C, D und E jeweils die Oktave auf der G-Saite mit der **„2 Saiten runter, 2 Bünde rauf“**-Form.\n3. Bau dir einen Mini-Groove: Grundton auf der A-Saite, Oktave auf der G-Saite (zum Beispiel C–C, D–D, E–E).\n\nEin paar konzentrierte Minuten am Tag reichen, damit sich der mittlere Bereich des Halses viel kleiner und übersichtlicher anfühlt.",
+          "ja": "# さっとできる練習\n1. A弦の開放を弾き、そのあと3・5・7・12フレットを順番に弾きます。**A, C, D, E, A** と音名も声に出してみましょう。\n2. C、D、Eそれぞれについて、「**2本下の弦、2フレット上**」の形でG弦上のオクターブ音を探します。\n3. 小さなグルーヴを作ってループしましょう：A弦でルート、G弦でオクターブ（例：C–C、D–D、E–E）。\n\nこれを毎日数分だけでも集中して続けると、ネックの真ん中あたりがぐっと狭く、そして分かりやすく感じられるようになります。",
+          "pt-BR": "# Prática rápida\n1. Toque a corda A solta e depois nos trastes 3, 5, 7 e 12. Fale os nomes das notas: **A, C, D, E, A**.\n2. Para C, D e E, ache a oitava na corda G usando o desenho de **“2 cordas abaixo, 2 trastes à frente”**.\n3. Monte um mini groove: raiz na corda A, oitava na corda G (por exemplo C–C, D–D, E–E).\n\nAlguns minutos bem focados por dia já deixam o meio do braço parecendo bem menor e muito mais fácil de navegar.",
+          "es": "# Práctica rápida\n1. Toca la cuerda A al aire y luego en los trastes 3, 5, 7 y 12. Di los nombres de las notas: **A, C, D, E, A**.\n2. Para C, D y E, encuentra la octava en la cuerda G usando la forma de **“2 cuerdas abajo, 2 trastes arriba”**.\n3. Haz un pequeño groove en bucle: raíz en la cuerda A, octava en la cuerda G (por ejemplo C–C, D–D, E–E).\n\nUnos pocos minutos bien enfocados al día harán que la parte media del mástil se sienta mucho más pequeña y fácil de recorrer."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "When these landmarks and octave shapes feel easy, combine them with the low E string and you’ll have a solid map of the lower half of the neck.",
+          "zh-Hans": "当这些地标和八度形状变得顺手之后，把它们和低音E弦的地标结合起来，你就等于拿到了一张清晰的“琴颈下半部分地图”。",
+          "de": "Wenn sich diese Orientierungspunkte und Oktav-Griffe selbstverständlich anfühlen, kombiniere sie mit den Landmarken der tiefen E-Saite – dann hast du eine richtig solide Karte für die untere Halshälfte.",
+          "ja": "これらの目印とオクターブ形がラクに使えるようになったら、低音E弦の目印と組み合わせてみましょう。ネック下半分の**しっかりした地図**が頭の中にできあがります。",
+          "pt-BR": "Quando esses marcos e formas de oitava estiverem fáceis, junte tudo com os marcadores da corda E grave e você vai ter um **mapa bem sólido da metade de baixo do braço**.",
+          "es": "Cuando estos puntos de referencia y formas de octava te salgan fáciles, combínalos con las referencias de la cuerda E grave y tendrás un **mapa sólido de la mitad inferior del mástil**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

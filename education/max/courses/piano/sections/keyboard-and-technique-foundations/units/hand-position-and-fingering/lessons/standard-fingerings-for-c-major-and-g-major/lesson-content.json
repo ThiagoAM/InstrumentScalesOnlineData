@@ -1,0 +1,99 @@
+{
+  "id": "standard-fingerings-for-c-major-and-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Standard fingerings for C and G major\nIn this lesson you’ll learn the **standard piano fingerings** for one-octave C major and G major scales.\n\nThese are the “default” fingerings used in most books and exams. Once they feel easy, other keys become much simpler.",
+          "zh-Hans": "# C大调和G大调的标准指法\n本课你会学习钢琴上一组八度 **C大调和G大调音阶的标准指法**。\n\n这些指法是教材和考试中最常用的“默认方案”。当它们变得熟练后，练习其他调就会轻松很多。",
+          "de": "# Standard-Fingersätze für C- und G-Dur\nIn dieser Lektion lernst du die **üblichen Klavierfingersätze** für die C-Dur- und G-Dur-Tonleiter über eine Oktave.\n\nDas sind die „Standard“-Fingersätze, die in den meisten Schulen und Prüfungen benutzt werden. Wenn sie sich leicht anfühlen, werden andere Tonarten viel einfacher.",
+          "ja": "# CメジャーとGメジャーの標準フィンガリング\nこのレッスンでは、1オクターブ分の **CメジャーとGメジャーのスケール** の、標準的なフィンガリングを覚えます。\n\nこれは多くの教本や試験で使われる“基本の運指”です。これが楽に弾けるようになると、他の調もずっとラクになります。",
+          "pt-BR": "# Dedilhados padrão para Dó maior (C) e Sol maior (G)\nNesta lição você vai aprender os **dedilhados padrão de piano** para as escalas de Dó maior e Sol maior, com uma oitava.\n\nEsses são os dedilhados “oficiais” que aparecem na maioria dos métodos e provas. Quando eles estiverem fáceis, os outros tons ficam bem mais simples.",
+          "es": "# Digitaciones estándar para Do mayor (C) y Sol mayor (G)\nEn esta lección vas a aprender las **digitaciones estándar de piano** para las escalas de Do mayor y Sol mayor, de una octava.\n\nSon las digitaciones “por defecto” que se usan en la mayoría de los métodos y exámenes. Cuando se sienten fáciles, las demás tonalidades se vuelven mucho más sencillas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# General rules\nA few simple rules make scale fingerings easier:\n\n- Use the **thumb (1)** only on white keys (for now)\n- In the right hand, the thumb usually goes **under finger 3**\n- In the left hand, **finger 3 goes over the thumb**\n- Keep fingers close to the keys and the hand relaxed\n\nWe’ll keep everything **one octave** and start on notes around middle C.",
+          "zh-Hans": "# 一些通用的小规则\n下面这些简单规则会让音阶指法更好记：\n\n- 目前先只让**拇指（1指）**弹白键\n- 右手时，通常是拇指 **从3指下面穿过去**\n- 左手时，通常是 **3指从拇指上面跨过去**\n- 手指贴近琴键，手型放松\n\n本课所有音阶都只弹 **一个八度**，起点在中央C附近。",
+          "de": "# Allgemeine Regeln\nMit ein paar einfachen Regeln werden Fingersätze für Tonleitern übersichtlicher:\n\n- Der **Daumen (1)** spielt (erst einmal) nur weiße Tasten\n- In der rechten Hand geht der Daumen meist **unter Finger 3** hindurch\n- In der linken Hand geht **Finger 3 über den Daumen** hinweg\n- Finger dicht über den Tasten halten, Hand locker lassen\n\nWir bleiben bei **einer Oktave** und starten auf Tönen rund um das mittlere C.",
+          "ja": "# 共通ルール\nスケールの運指を覚えやすくするために、まずは次のルールを意識します：\n\n- しばらくは **親指（1の指）** を白鍵だけに使う\n- 右手では、親指がよく **3の指の下をくぐる**\n- 左手では、**3の指が親指の上をまたぐ** ことが多い\n- 指先は鍵盤の近くに、手はリラックス\n\nここではすべて **1オクターブ** のスケールで、真ん中のCまわりから始めます。",
+          "pt-BR": "# Regrinhas gerais\nAlgumas regras simples deixam os dedilhados bem mais claros:\n\n- Por enquanto, use o **polegar (1)** só em teclas brancas\n- Na mão direita, o polegar quase sempre passa **por baixo do dedo 3**\n- Na mão esquerda, o **dedo 3 passa por cima do polegar**\n- Mantenha os dedos perto das teclas e a mão relaxada\n\nVamos tocar tudo em **uma oitava**, começando em notas perto do Dó central.",
+          "es": "# Reglas generales\nUnas reglas simples hacen que las digitaciones de escalas sean más fáciles:\n\n- Por ahora, usa el **pulgar (1)** solo en teclas blancas\n- En la mano derecha, el pulgar suele pasar **por debajo del dedo 3**\n- En la mano izquierda, el **dedo 3 pasa por encima del pulgar**\n- Mantén los dedos cerca de las teclas y la mano relajada\n\nEn esta lección tocaremos todo en **una octava**, empezando en notas cercanas al Do central."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major – right hand fingering\nStart on **middle C** with the right hand.\n\nAscending (up):\n- C (1) – D (2) – E (3)\n- Thumb under to F (1)\n- G (2) – A (3) – B (4) – C (5)\n\nDescending (down):\n- C (5) – B (4) – A (3) – G (2)\n- F (1)\n- Cross **3 over**: E (3) – D (2) – C (1)\n\nPractice this **very slowly**, one note per beat, keeping the motion of the thumb-under smooth and small.",
+          "zh-Hans": "# C大调 – 右手指法\n右手从**中央C**开始。\n\n上行：\n- C (1) – D (2) – E (3)\n- 拇指从下方穿到 F：F (1)\n- G (2) – A (3) – B (4) – C (5)\n\n下行：\n- C (5) – B (4) – A (3) – G (2)\n- F (1)\n- **3指跨过**拇指：E (3) – D (2) – C (1)\n\n一开始要**非常慢**地练习，每拍一个音，让拇指“钻过去”的动作小而顺滑。",
+          "de": "# C-Dur – Rechte Hand Fingersatz\nBeginne mit der rechten Hand auf dem **mittleren C**.\n\nAufwärts:\n- C (1) – D (2) – E (3)\n- Daumen untersetzen zu F (1)\n- G (2) – A (3) – B (4) – C (5)\n\nAbwärts:\n- C (5) – B (4) – A (3) – G (2)\n- F (1)\n- **3 über 1**: E (3) – D (2) – C (1)\n\nÜbe das **sehr langsam**, ein Ton pro Schlag, und halte die Daumenbewegung klein und geschmeidig.",
+          "ja": "# Cメジャー – 右手のフィンガリング\n右手で**真ん中のC**から始めます。\n\n上行：\n- C (1) – D (2) – E (3)\n- 親指をくぐらせて F (1)\n- G (2) – A (3) – B (4) – C (5)\n\n下行：\n- C (5) – B (4) – A (3) – G (2)\n- F (1)\n- **3の指を親指の上にかぶせて**：E (3) – D (2) – C (1)\n\n最初は**とてもゆっくり**、1拍に1音ずつ弾きながら、親指の“くぐり”を小さく、なめらかに動かしてみてください。",
+          "pt-BR": "# Dó maior (C) – dedilhado da mão direita\nComece com a mão direita no **Dó central**.\n\nSubindo:\n- C (1) – D (2) – E (3)\n- Passe o polegar por baixo até F (1)\n- G (2) – A (3) – B (4) – C (5)\n\nDescendo:\n- C (5) – B (4) – A (3) – G (2)\n- F (1)\n- **3 passa por cima** do polegar: E (3) – D (2) – C (1)\n\nPratique **bem devagar**, uma nota por tempo, deixando o movimento do polegar-curvando-se-por-baixo pequeno e suave.",
+          "es": "# Do mayor (C) – digitación mano derecha\nEmpieza con la mano derecha en el **Do central**.\n\nAscendiendo:\n- C (1) – D (2) – E (3)\n- Pulgar por debajo hasta F (1)\n- G (2) – A (3) – B (4) – C (5)\n\nDescendiendo:\n- C (5) – B (4) – A (3) – G (2)\n- F (1)\n- **3 pasa por encima** del pulgar: E (3) – D (2) – C (1)\n\nPractica **muy despacio**, una nota por pulso, haciendo que el movimiento del pulgar por debajo sea pequeño y fluido."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major – left hand fingering\nStart on the **C below middle C** with the left hand.\n\nAscending (up):\n- C (5) – D (4) – E (3) – F (2)\n- G (1)\n- Cross **3 over**: A (3) – B (2) – C (1)\n\nDescending (down):\n- C (1) – B (2) – A (3)\n- Thumb under to G (1)\n- F (2) – E (3) – D (4) – C (5)\n\nKeep the hand weight light and let the arm help the crossing movement instead of twisting the wrist.",
+          "zh-Hans": "# C大调 – 左手指法\n左手从**中央C下面的那个 C** 开始。\n\n上行：\n- C (5) – D (4) – E (3) – F (2)\n- G (1)\n- **3指跨上去**：A (3) – B (2) – C (1)\n\n下行：\n- C (1) – B (2) – A (3)\n- 拇指从下方穿到 G：G (1)\n- F (2) – E (3) – D (4) – C (5)\n\n让手的重量保持轻松，用整条手臂带动“跨指”的动作，而不是大幅扭动手腕。",
+          "de": "# C-Dur – Linke Hand Fingersatz\nBeginne mit der linken Hand auf dem **C unter dem mittleren C**.\n\nAufwärts:\n- C (5) – D (4) – E (3) – F (2)\n- G (1)\n- **3 über 1**: A (3) – B (2) – C (1)\n\nAbwärts:\n- C (1) – B (2) – A (3)\n- Daumen untersetzen zu G (1)\n- F (2) – E (3) – D (4) – C (5)\n\nHalte die Hand leicht und lass den Arm die Über- und Untersetzbewegung unterstützen, statt das Handgelenk stark zu verdrehen.",
+          "ja": "# Cメジャー – 左手のフィンガリング\n左手で、**真ん中のCより1つ低いC**から始めます。\n\n上行：\n- C (5) – D (4) – E (3) – F (2)\n- G (1)\n- **3の指を親指の上にまたがせて**：A (3) – B (2) – C (1)\n\n下行：\n- C (1) – B (2) – A (3)\n- 親指をくぐらせて G (1)\n- F (2) – E (3) – D (4) – C (5)\n\n手の重さは軽く保ち、手首だけをねじるのではなく、腕全体の動きで“またぎ”や“くぐり”を助けるイメージにしましょう。",
+          "pt-BR": "# Dó maior (C) – dedilhado da mão esquerda\nComece com a mão esquerda no **C logo abaixo do Dó central**.\n\nSubindo:\n- C (5) – D (4) – E (3) – F (2)\n- G (1)\n- **3 passa por cima** do polegar: A (3) – B (2) – C (1)\n\nDescendo:\n- C (1) – B (2) – A (3)\n- Passe o polegar por baixo até G (1)\n- F (2) – E (3) – D (4) – C (5)\n\nMantenha a mão leve e use o braço para ajudar o movimento de cruzar os dedos, em vez de torcer o pulso demais.",
+          "es": "# Do mayor (C) – digitación mano izquierda\nEmpieza con la mano izquierda en el **C que está por debajo del Do central**.\n\nAscendiendo:\n- C (5) – D (4) – E (3) – F (2)\n- G (1)\n- **3 pasa por encima** del pulgar: A (3) – B (2) – C (1)\n\nDescendiendo:\n- C (1) – B (2) – A (3)\n- Pulgar por debajo hasta G (1)\n- F (2) – E (3) – D (4) – C (5)\n\nMantén la mano ligera y deja que el brazo ayude en el cruce, en lugar de girar demasiado la muñeca."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G major – right hand fingering\nG major is almost the same as C major, but with **F♯** instead of F.\n\nStart on the G above middle C.\n\nAscending:\n- G (1) – A (2) – B (3)\n- Thumb under to C (1)\n- D (2) – E (3) – F♯ (4) – G (5)\n\nDescending:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1)\n- Cross **3 over**: B (3) – A (2) – G (1)\n\nWatch that finger 4 lands confidently on the black key F♯.",
+          "zh-Hans": "# G大调 – 右手指法\nG大调和C大调几乎一样，只是用 **F♯** 代替 F。\n\n从中央C上方的 G 开始。\n\n上行：\n- G (1) – A (2) – B (3)\n- 拇指从下方穿到 C：C (1)\n- D (2) – E (3) – F♯ (4) – G (5)\n\n下行：\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1)\n- **3指跨过**拇指：B (3) – A (2) – G (1)\n\n注意让4指稳稳地落在黑键 F♯ 上，不要紧张缩手。",
+          "de": "# G-Dur – Rechte Hand Fingersatz\nG-Dur ist fast gleich wie C-Dur, nur mit **F♯** statt F.\n\nBeginne auf dem G über dem mittleren C.\n\nAufwärts:\n- G (1) – A (2) – B/H (3)\n- Daumen untersetzen zu C (1)\n- D (2) – E (3) – F♯ (4) – G (5)\n\nAbwärts:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1)\n- **3 über 1**: B/H (3) – A (2) – G (1)\n\nAchte darauf, dass Finger 4 sicher auf der schwarzen Taste F♯ landet.",
+          "ja": "# Gメジャー – 右手のフィンガリング\nGメジャーはCメジャーとほとんど同じで、Fの代わりに **F♯** を使います。\n\n真ん中のCより上のGから始めます。\n\n上行：\n- G (1) – A (2) – B (3)\n- 親指をくぐらせて C (1)\n- D (2) – E (3) – F♯ (4) – G (5)\n\n下行：\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1)\n- **3の指を親指の上にかぶせて**：B (3) – A (2) – G (1)\n\n特に、4の指で黒鍵 F♯ を**はっきり狙って押さえる**ことを意識しましょう。",
+          "pt-BR": "# Sol maior (G) – dedilhado da mão direita\nSol maior é quase igual a Dó maior, mas com **F♯** no lugar do F.\n\nComece no G acima do Dó central.\n\nSubindo:\n- G (1) – A (2) – B (3)\n- Passe o polegar por baixo até C (1)\n- D (2) – E (3) – F♯ (4) – G (5)\n\nDescendo:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1)\n- **3 passa por cima** do polegar: B (3) – A (2) – G (1)\n\nFique atento para que o dedo 4 caia com segurança na tecla preta F♯.",
+          "es": "# Sol mayor (G) – digitación mano derecha\nSol mayor es casi igual que Do mayor, pero con **F♯** en lugar de F.\n\nEmpieza en el G por encima del Do central.\n\nAscendiendo:\n- G (1) – A (2) – B (3)\n- Pulgar por debajo hasta C (1)\n- D (2) – E (3) – F♯ (4) – G (5)\n\nDescendiendo:\n- G (5) – F♯ (4) – E (3) – D (2)\n- C (1)\n- **3 pasa por encima** del pulgar: B (3) – A (2) – G (1)\n\nAsegúrate de que el dedo 4 llegue con confianza a la tecla negra F♯."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G major – left hand fingering\nStart on the **G below middle C** with the left hand.\n\nAscending:\n- G (5) – A (4) – B (3) – C (2)\n- D (1)\n- Cross **3 over**: E (3) – F♯ (2) – G (1)\n\nDescending:\n- G (1) – F♯ (2) – E (3)\n- Thumb under to D (1)\n- C (2) – B (3) – A (4) – G (5)\n\nKeep the same relaxed shape you used in C major; only the F becomes F♯.",
+          "zh-Hans": "# G大调 – 左手指法\n左手从**中央C下面的 G** 开始。\n\n上行：\n- G (5) – A (4) – B (3) – C (2)\n- D (1)\n- **3指跨过**拇指：E (3) – F♯ (2) – G (1)\n\n下行：\n- G (1) – F♯ (2) – E (3)\n- 拇指从下方穿到 D：D (1)\n- C (2) – B (3) – A (4) – G (5)\n\n手型和在C大调时保持一样放松，只是把 F 换成了 F♯。",
+          "de": "# G-Dur – Linke Hand Fingersatz\nBeginne mit der linken Hand auf dem **G unter dem mittleren C**.\n\nAufwärts:\n- G (5) – A (4) – B/H (3) – C (2)\n- D (1)\n- **3 über 1**: E (3) – F♯ (2) – G (1)\n\nAbwärts:\n- G (1) – F♯ (2) – E (3)\n- Daumen untersetzen zu D (1)\n- C (2) – B/H (3) – A (4) – G (5)\n\nBehalte dieselbe entspannte Handform wie in C-Dur bei – nur das F wird zu F♯.",
+          "ja": "# Gメジャー – 左手のフィンガリング\n左手で、**真ん中のCより1つ低いG**から始めます。\n\n上行：\n- G (5) – A (4) – B (3) – C (2)\n- D (1)\n- **3の指を親指の上にまたがせて**：E (3) – F♯ (2) – G (1)\n\n下行：\n- G (1) – F♯ (2) – E (3)\n- 親指をくぐらせて D (1)\n- C (2) – B (3) – A (4) – G (5)\n\nCメジャーのときと同じ、リラックスした手の形をキープして、F だけを F♯ に変えるイメージです。",
+          "pt-BR": "# Sol maior (G) – dedilhado da mão esquerda\nComece com a mão esquerda no **G abaixo do Dó central**.\n\nSubindo:\n- G (5) – A (4) – B (3) – C (2)\n- D (1)\n- **3 passa por cima** do polegar: E (3) – F♯ (2) – G (1)\n\nDescendo:\n- G (1) – F♯ (2) – E (3)\n- Passe o polegar por baixo até D (1)\n- C (2) – B (3) – A (4) – G (5)\n\nMantenha a mesma mão solta usada em Dó maior; a única mudança real é o F virando F♯.",
+          "es": "# Sol mayor (G) – digitación mano izquierda\nEmpieza con la mano izquierda en el **G que está por debajo del Do central**.\n\nAscendiendo:\n- G (5) – A (4) – B (3) – C (2)\n- D (1)\n- **3 pasa por encima** del pulgar: E (3) – F♯ (2) – G (1)\n\nDescendiendo:\n- G (1) – F♯ (2) – E (3)\n- Pulgar por debajo hasta D (1)\n- C (2) – B (3) – A (4) – G (5)\n\nConserva la misma mano relajada que en Do mayor; la única diferencia real es que el F se convierte en F♯."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play **C major** hands separate, up and down, 3–5 times each.\n2. Do the same with **G major**.\n3. Then alternate: one C major scale, one G major scale, without stopping.\n4. When it feels easy, try **hands together slowly**, still one note per beat.\n\nIf the crossing spots feel messy, stop there and loop just those 3–4 notes until they feel smooth.",
+          "zh-Hans": "## 快速练习\n1. 先弹 **C大调** 单手音阶，上下各 3–5 遍。\n2. 再用同样方法练习 **G大调**。\n3. 然后交替弹：一遍 C 大调、一遍 G 大调，中间不停顿。\n4. 当感觉轻松时，试着 **双手一起慢慢弹**，仍然保持每拍一个音。\n\n如果在“换指”的位置总是乱，就单独把那 3–4 个音拿出来，反复小循环，直到感觉顺滑为止。",
+          "de": "## Kurze Übung\n1. Spiele **C-Dur** mit getrennten Händen, auf- und abwärts, je 3–5 Mal.\n2. Mach dasselbe mit **G-Dur**.\n3. Wechsle dann ab: einmal C-Dur, einmal G-Dur, ohne Pause.\n4. Wenn es leicht läuft, probiere **beide Hände zusammen**, langsam, weiterhin ein Ton pro Schlag.\n\nWenn die Über- und Untersetzungen unsauber wirken, halte dort an und wiederhole genau diese 3–4 Töne in einer kleinen Schleife, bis sie glatt funktionieren.",
+          "ja": "## かんたん練習\n1. まず **Cメジャー** のスケールを、片手ずつ 上がって下りて を3〜5回ずつ弾きます。\n2. 次に同じように **Gメジャー** を練習します。\n3. そのあと、Cメジャー → Gメジャー → Cメジャー… と、止まらずに交互に弾いてみましょう。\n4. 余裕が出てきたら、**両手いっしょにゆっくり**、1拍に1音で弾いてみます。\n\n指をくぐらせたりまたいだりする場所がごちゃっとする場合は、その前後3〜4音だけを取り出して、なめらかになるまで小さくループ練習してみてください。",
+          "pt-BR": "## Prática rápida\n1. Toque a escala de **Dó maior** com as mãos separadas, subindo e descendo, de 3 a 5 vezes cada.\n2. Faça o mesmo com **Sol maior**.\n3. Depois alterne: uma vez Dó maior, uma vez Sol maior, sem parar.\n4. Quando estiver confortável, experimente **as duas mãos juntas bem devagar**, ainda com uma nota por tempo.\n\nSe a parte do “cruzar os dedos” estiver embolando, pare ali e repita só aquelas 3–4 notas em loop, até o movimento ficar suave.",
+          "es": "## Práctica rápida\n1. Toca la escala de **Do mayor** con manos separadas, subiendo y bajando, 3–5 veces cada una.\n2. Haz lo mismo con **Sol mayor**.\n3. Luego alterna: una vez Do mayor, una vez Sol mayor, sin detenerte.\n4. Cuando se sienta cómodo, prueba **las dos manos juntas muy despacio**, aún una nota por pulso.\n\nSi la zona del cruce de dedos se desordena, detente ahí y repite solo esas 3–4 notas en bucle hasta que el movimiento se sienta fluido."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

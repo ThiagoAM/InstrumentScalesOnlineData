@@ -1,0 +1,83 @@
+[
+  {
+    "id": "minor-pentatonic-shapes",
+    "name": {
+      "values": {
+        "en": "Minor Pentatonic Shapes",
+        "zh-Hans": "小调五声音阶形状",
+        "de": "Moll-Pentatonik-Formen",
+        "ja": "マイナーペンタトニックシェイプ",
+        "pt-BR": "Formas da Pentatônica Menor",
+        "es": "Formas de pentatónica menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Minor Pentatonic Shapes",
+        "zh-Hans": "小调五声音阶形状",
+        "de": "Moll-Pentatonik-Formen",
+        "ja": "マイナーペンタトニックシェイプ",
+        "pt-BR": "Formas da Pentatônica Menor",
+        "es": "Formas de pentatónica menor"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-pentatonic-and-conversions",
+    "name": {
+      "values": {
+        "en": "Major Pentatonic and Conversions",
+        "zh-Hans": "大调五声音阶与转换",
+        "de": "Dur-Pentatonik und Umwandlungen",
+        "ja": "メジャーペンタトニックと変換",
+        "pt-BR": "Pentatônica Maior e Conversões",
+        "es": "Pentatónica mayor y conversiones"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major Pentatonic and Conversions",
+        "zh-Hans": "大调五声音阶与转换",
+        "de": "Dur-Pentatonik und Umwandlungen",
+        "ja": "メジャーペンタトニックと変換",
+        "pt-BR": "Pentatônica Maior e Conversões",
+        "es": "Pentatónica mayor y conversiones"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "blues-scale-and-licks",
+    "name": {
+      "values": {
+        "en": "Blues Scale and Licks",
+        "zh-Hans": "布鲁斯音阶与乐句",
+        "de": "Blues-Skala und Licks",
+        "ja": "ブルーススケールとリック",
+        "pt-BR": "Escala Blues e Licks",
+        "es": "Escala de blues y licks"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Blues Scale and Licks",
+        "zh-Hans": "布鲁斯音阶与乐句",
+        "de": "Blues-Skala und Licks",
+        "ja": "ブルーススケールとリック",
+        "pt-BR": "Escala Blues e Licks",
+        "es": "Escala de blues y licks"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "minor-pentatonic-simple-groove",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Improvising with A Minor Pentatonic",
+        "zh-Hans": "使用A小调五声音阶即兴演奏",
+        "de": "Improvisieren mit der A-Moll-Pentatonik",
+        "ja": "Aマイナー・ペンタトニックでの簡単なアドリブ",
+        "pt-BR": "Improvisando com a pentatônica de Lá menor",
+        "es": "Improvisando con la pentatónica de La menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use the A minor pentatonic box 1 to create simple phrases over a basic groove.",
+        "zh-Hans": "使用A小调五声音阶第1指型，在基础伴奏上创造简单乐句。",
+        "de": "Nutze die A-Moll-Pentatonik Box 1, um einfache Phrasen über einem Grund-Groove zu spielen.",
+        "ja": "Aマイナー・ペンタトニックのボックス1を使い、シンプルなグルーブ上でフレーズを作ります。",
+        "pt-BR": "Use o desenho 1 da pentatônica de Lá menor para criar frases simples sobre um groove básico.",
+        "es": "Usa la caja 1 de la pentatónica de La menor para crear frases sencillas sobre un groove básico."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "call-and-response-phrases",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Phrases",
+        "zh-Hans": "呼应式乐句练习",
+        "de": "Frage-und-Antwort-Phrasen",
+        "ja": "コール＆レスポンス・フレーズ",
+        "pt-BR": "Frases de pergunta e resposta",
+        "es": "Frases de llamada y respuesta"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create simple call-and-response ideas using the same small group of scale notes.",
+        "zh-Hans": "用同一组少量音阶音，创造简单的呼应式乐句。",
+        "de": "Erstelle einfache Frage-und-Antwort-Phrasen mit einer kleinen Gruppe von Tonleiternoten.",
+        "ja": "少ないスケール音だけを使って、シンプルなコール＆レスポンスのアイデアを作ります。",
+        "pt-BR": "Crie ideias simples de pergunta e resposta usando o mesmo pequeno grupo de notas da escala.",
+        "es": "Crea ideas sencillas de llamada y respuesta usando el mismo pequeño grupo de notas de la escala."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

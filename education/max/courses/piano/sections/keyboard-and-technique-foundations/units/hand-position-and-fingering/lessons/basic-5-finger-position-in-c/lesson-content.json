@@ -1,0 +1,86 @@
+{
+  "id": "basic-5-finger-position-in-c",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic 5-finger position in C\nThe 5-finger position is a simple way to keep **each finger on its own key**.\n\nIn this lesson you’ll set both hands in a **C major 5-finger position** around middle C and play short patterns to make the shape feel natural.",
+          "zh-Hans": "# C大调的基础五指位置\n“五指位置”能让每个手指各管一键，是非常简单实用的手型。\n\n本课中你会在中央C附近，把双手放在 **C大调的五指位置**，并用小练习让这个手型变得自然。",
+          "de": "# Grundlegende Fünf-Finger-Position in C\nDie Fünf-Finger-Position hilft dir, dass **jeder Finger seine eigene Taste** hat.\n\nIn dieser Lektion bringst du beide Hände in eine **C-Dur-Fünf-Finger-Position** um das mittlere C und spielst kurze Muster, bis sich die Form natürlich anfühlt.",
+          "ja": "# Cメジャーの基本5フィンガー・ポジション\n5フィンガー・ポジションは、**それぞれの指が1つの鍵を担当する**シンプルな手の形です。\n\nこのレッスンでは、真ん中のCのまわりで両手を **Cメジャーの5音ポジション** に置き、この形に慣れるための短いパターンを弾きます。",
+          "pt-BR": "# Posição básica de 5 dedos em Dó (C)\nA posição de 5 dedos é um jeito simples de deixar **cada dedo em sua própria tecla**.\n\nNesta lição você vai colocar as duas mãos na **posição de 5 dedos em Dó maior** em volta do Dó central e tocar pequenos padrões até a forma ficar natural.",
+          "es": "# Posición básica de 5 dedos en Do (C)\nLa posición de 5 dedos es una forma sencilla de hacer que **cada dedo tenga su propia tecla**.\n\nEn esta lección vas a colocar ambas manos en una **posición de 5 dedos en Do mayor** alrededor del Do central y tocar pequeños patrones hasta que la forma se sienta natural."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand shape and posture\n- Sit so your forearms are roughly **parallel to the floor**\n- Relax your shoulders and let your elbows hang comfortably\n- Curve your fingers like you’re gently **holding a small ball**\n- Keep the wrist loose (not collapsed down, not lifted too high)\n\nIf anything feels tense, shake out your hands and reset.",
+          "zh-Hans": "# 手型和坐姿\n- 坐好，让前臂大致与**地面平行**\n- 肩膀放松，让手肘自然下垂\n- 手指微微弯曲，好像在轻轻**握一个小球**\n- 手腕保持放松（不要塌得太低，也不要抬得太高）\n\n如果感觉哪里紧绷，先抖抖手，再重新摆好位置。",
+          "de": "# Handform und Haltung\n- Sitze so, dass deine Unterarme ungefähr **parallel zum Boden** sind\n- Lass die Schultern locker und die Ellbogen entspannt hängen\n- Wölbe die Finger leicht, als würdest du **einen kleinen Ball** locker halten\n- Halte das Handgelenk entspannt (nicht nach unten geknickt, nicht zu hoch angehoben)\n\nWenn sich etwas verspannt anfühlt, schüttle kurz die Hände aus und richte dich neu ein.",
+          "ja": "# 手の形と姿勢\n- 腕が**床とほぼ平行**になるように座ります\n- 肩の力を抜き、ひじは楽な位置に\n- 指を少し丸めて、やさしく**小さなボールを持っている**イメージにします\n- 手首はリラックスさせ、下に折れすぎたり、高く上がりすぎたりしないようにします\n\nどこかに力が入っていると感じたら、一度手を振ってほぐしてからもう一度セットしましょう。",
+          "pt-BR": "# Forma da mão e postura\n- Sente-se de modo que os antebraços fiquem **mais ou menos paralelos ao chão**\n- Relaxe os ombros e deixe os cotovelos confortáveis\n- Curve levemente os dedos, como se estivesse segurando **uma bolinha** com delicadeza\n- Mantenha o pulso solto (nem caído demais, nem muito levantado)\n\nSe sentir qualquer tensão, balance as mãos um pouco e monte a posição de novo.",
+          "es": "# Forma de la mano y postura\n- Siéntate de forma que tus antebrazos queden **más o menos paralelos al suelo**\n- Relaja los hombros y deja los codos en una posición cómoda\n- Curva ligeramente los dedos, como si sujetaras **una pequeña pelota** con suavidad\n- Mantén la muñeca suelta (ni caída hacia abajo ni demasiado alta)\n\nSi notas tensión en algún sitio, sacude las manos un momento y vuelve a colocarlas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right hand in C position\n1. Find **middle C**.\n2. Put your **thumb (1)** on C.\n3. Place fingers 2–5 on **D–E–F–G**.\n\nEach finger now “owns” one key:\n- 1 → C\n- 2 → D\n- 3 → E\n- 4 → F\n- 5 → G",
+          "zh-Hans": "# 右手：C位置的五指摆放\n1. 先找到**中央C**。\n2. 把**拇指（1指）**放在这个 C 上。\n3. 把 2–5 指依次放在 **D–E–F–G** 上。\n\n现在每个手指各管一键：\n- 1 → C\n- 2 → D\n- 3 → E\n- 4 → F\n- 5 → G",
+          "de": "# Rechte Hand in C-Position\n1. Finde das **mittlere C**.\n2. Lege deinen **Daumen (1)** auf dieses C.\n3. Platziere die Finger 2–5 auf **D–E–F–G**.\n\nJetzt hat jeder Finger seine Taste:\n- 1 → C\n- 2 → D\n- 3 → E\n- 4 → F\n- 5 → G",
+          "ja": "# 右手のCポジション\n1. まず**真ん中のC**を見つけます。\n2. そのCに**親指（1の指）**を置きます。\n3. 指2〜5を、順に **D–E–F–G** の上に置きます。\n\nこれで、それぞれの指が1つの鍵を担当します：\n- 1 → C\n- 2 → D\n- 3 → E\n- 4 → F\n- 5 → G",
+          "pt-BR": "# Mão direita na posição de C\n1. Encontre o **Dó central (C)**.\n2. Coloque o **polegar (1)** nesse C.\n3. Apoie os dedos 2–5 nas teclas **D–E–F–G**.\n\nAgora cada dedo “é dono” de uma tecla:\n- 1 → C\n- 2 → D\n- 3 → E\n- 4 → F\n- 5 → G",
+          "es": "# Mano derecha en posición de C\n1. Encuentra el **Do central (C)**.\n2. Pon el **pulgar (1)** en ese C.\n3. Coloca los dedos 2–5 en **D–E–F–G**.\n\nAhora cada dedo “tiene” una tecla:\n- 1 → C\n- 2 → D\n- 3 → E\n- 4 → F\n- 5 → G"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left hand in C position\n1. Find the **C just below middle C**.\n2. Put your **little finger (5)** on this C.\n3. Place fingers 4–1 on **D–E–F–G**.\n\nNow:\n- 5 → C\n- 4 → D\n- 3 → E\n- 2 → F\n- 1 → G",
+          "zh-Hans": "# 左手：C位置的五指摆放\n1. 找到**中央C下面的那个 C**。\n2. 把**小指（5指）**放在这个 C 上。\n3. 把 4–1 指依次放在 **D–E–F–G** 上。\n\n现在：\n- 5 → C\n- 4 → D\n- 3 → E\n- 2 → F\n- 1 → G",
+          "de": "# Linke Hand in C-Position\n1. Finde das **C direkt unter dem mittleren C**.\n2. Lege deinen **kleinen Finger (5)** auf dieses C.\n3. Platziere die Finger 4–1 auf **D–E–F–G**.\n\nJetzt gilt:\n- 5 → C\n- 4 → D\n- 3 → E\n- 2 → F\n- 1 → G",
+          "ja": "# 左手のCポジション\n1. **真ん中のCの1つ下のC**を見つけます。\n2. そのCに**小指（5の指）**を置きます。\n3. 指4〜1を、順に **D–E–F–G** の上に置きます。\n\nこれで：\n- 5 → C\n- 4 → D\n- 3 → E\n- 2 → F\n- 1 → G",
+          "pt-BR": "# Mão esquerda na posição de C\n1. Encontre o **C logo abaixo do Dó central**.\n2. Coloque o **mindinho (5)** nesse C.\n3. Coloque os dedos 4–1 nas teclas **D–E–F–G**.\n\nFica assim:\n- 5 → C\n- 4 → D\n- 3 → E\n- 2 → F\n- 1 → G",
+          "es": "# Mano izquierda en posición de C\n1. Encuentra el **C que está justo por debajo del Do central**.\n2. Pon el **meñique (5)** en ese C.\n3. Coloca los dedos 4–1 en **D–E–F–G**.\n\nQueda así:\n- 5 → C\n- 4 → D\n- 3 → E\n- 2 → F\n- 1 → G"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise – 5 notes up and down\nPlay slowly, **one note per beat**.\n\nRight hand:\n- C–D–E–F–G, then back down G–F–E–D–C\n\nLeft hand:\n- C–D–E–F–G, then back down G–F–E–D–C\n\nKeep all fingers resting on the keys. Only the finger that plays should press down.",
+          "zh-Hans": "# 练习 – 五个音上行和下行\n慢慢弹，每拍一个音。\n\n右手：\n- C–D–E–F–G，然后 G–F–E–D–C 下行\n\n左手：\n- C–D–E–F–G，然后 G–F–E–D–C 下行\n\n所有手指都轻放在键盘上，只让需要弹的那个手指往下按键。",
+          "de": "# Übung – 5 Töne auf- und abwärts\nSpiele langsam, **einen Ton pro Schlag**.\n\nRechte Hand:\n- C–D–E–F–G, dann wieder hinunter G–F–E–D–C\n\nLinke Hand:\n- C–D–E–F–G, dann wieder hinunter G–F–E–D–C\n\nLass alle Finger auf den Tasten liegen. Nur der Finger, der gerade spielt, drückt die Taste nach unten.",
+          "ja": "# エクササイズ – 5つの音を上がって下がる\nゆっくりと、**1拍に1音**のペースで弾きます。\n\n右手：\n- C–D–E–F–G と上がり、G–F–E–D–C と下ります。\n\n左手：\n- C–D–E–F–G と上がり、G–F–E–D–C と下ります。\n\n指はすべて鍵盤の上に軽く置いたままにして、弾くときだけその指を下に押さえます。",
+          "pt-BR": "# Exercício – 5 notas subindo e descendo\nToque devagar, **uma nota por tempo**.\n\nMão direita:\n- C–D–E–F–G, depois descendo G–F–E–D–C\n\nMão esquerda:\n- C–D–E–F–G, depois descendo G–F–E–D–C\n\nMantenha todos os dedos descansando nas teclas. Só o dedo que vai tocar é que pressiona a tecla para baixo.",
+          "es": "# Ejercicio – 5 notas subiendo y bajando\nToca despacio, **una nota por pulso**.\n\nMano derecha:\n- C–D–E–F–G, luego bajando G–F–E–D–C\n\nMano izquierda:\n- C–D–E–F–G, luego bajando G–F–E–D–C\n\nDeja todos los dedos apoyados sobre las teclas. Solo el dedo que toca en ese momento debe presionar hacia abajo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice: hands together and simple rhythms\nWhen each hand feels comfortable alone:\n1. Play the 5-note pattern **hands together**, same notes at the same time.\n2. Try a **long–short** rhythm: hold C for 2 beats, then play D–E–F–G each for 1 beat.\n3. Swap: play up **legato** (connected), and down **staccato** (short).\n\nStay slow and relaxed. A clean, even sound matters more than speed.",
+          "zh-Hans": "## 快速练习：双手与节奏变化\n当单手弹起来已经感觉放松时：\n1. 用**双手同时**弹这个五音上行下行的练习，左右手弹同样的音。\n2. 试试**长–短**节奏：C 保持 2 拍，D–E–F–G 各 1 拍。\n3. 再换一种：上行时用 **连音（legato）**，下行时用 **断音（staccato）**。\n\n始终保持慢速、放松。干净、均匀的声音比速度更重要。",
+          "de": "## Kurze Zusatzübung: beide Hände und einfache Rhythmen\nWenn sich jede Hand für sich sicher anfühlt:\n1. Spiele das Fünf-Ton-Muster **mit beiden Händen gleichzeitig**, gleiche Töne zur gleichen Zeit.\n2. Probiere einen **lang–kurz**-Rhythmus: halte C 2 Schläge, spiele D–E–F–G je 1 Schlag.\n3. Variante: aufwärts **legato** (gebunden), abwärts **staccato** (kurz).\n\nBleib langsam und entspannt. Ein sauberer, gleichmäßiger Klang ist wichtiger als Tempo.",
+          "ja": "## 仕上げ練習：両手とリズムのバリエーション\n片手ずつが楽に弾けるようになったら：\n1. **両手いっしょに**同じ5音パターンを、同じ音で同時に弾きます。\n2. **長–短**のリズムを試します：Cを2拍伸ばし、そのあとD–E–F–Gをそれぞれ1拍ずつ。\n3. さらに、上がるときは **レガート（つなげて）**、下がるときは **スタッカート（短く）** で弾いてみましょう。\n\nいつもゆっくり、リラックスして。きれいでそろった音の方が、速さよりずっと大事です。",
+          "pt-BR": "## Prática rápida: mãos juntas e ritmos simples\nQuando cada mão estiver confortável sozinha:\n1. Toque o padrão de 5 notas **com as duas mãos juntas**, mesmas notas ao mesmo tempo.\n2. Experimente um ritmo **longo–curto**: segure o C por 2 tempos e toque D–E–F–G com 1 tempo cada.\n3. Troque: suba **legato** (bem ligado) e desça **staccato** (notas curtinhas).\n\nFique sempre devagar e relaxado. Um som limpo e uniforme vale mais do que tocar rápido.",
+          "es": "## Práctica rápida: manos juntas y ritmos sencillos\nCuando cada mano se sienta cómoda por separado:\n1. Toca el patrón de 5 notas **con las dos manos a la vez**, mismas notas al mismo tiempo.\n2. Prueba un ritmo **largo–corto**: mantén C durante 2 pulsos y toca D–E–F–G con 1 pulso cada una.\n3. Cambia: sube **legato** (ligado) y baja **staccato** (notas cortas).\n\nMantente siempre despacio y relajado. Un sonido limpio y parejo es más importante que la velocidad."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

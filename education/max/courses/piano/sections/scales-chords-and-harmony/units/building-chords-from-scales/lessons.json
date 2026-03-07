@@ -1,0 +1,86 @@
+[
+  {
+    "id": "triads-from-c-major-scale",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Triads from C Major Scale",
+        "zh-Hans": "C大调音阶中的三和弦",
+        "de": "Dreiklänge aus der C-Dur-Tonleiter",
+        "ja": "Cメジャースケールのトライアド",
+        "pt-BR": "Tríades da Escala de Dó Maior",
+        "es": "Tríadas de la escala de Do Mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "inversions-of-major-and-minor-triads",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Inversions of Major and Minor Triads",
+        "zh-Hans": "大三和弦与小三和弦的转位",
+        "de": "Umkehrungen von Dur- und Moll-Dreiklängen",
+        "ja": "メジャーとマイナートライアドの転回形",
+        "pt-BR": "Inversões de Tríades Maiores e Menores",
+        "es": "Inversiones de tríadas mayores y menores"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "broken-chord-patterns-using-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Broken Chord Patterns Using Scales",
+        "zh-Hans": "使用音阶的分解和弦模式",
+        "de": "Gebrochene Akkordmuster unter Verwendung von Skalen",
+        "ja": "スケールを使った分散和音パターン",
+        "pt-BR": "Padrões de Acordes Quebrados Usando Escalas",
+        "es": "Patrones de acordes rotos usando escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

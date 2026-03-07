@@ -1,0 +1,73 @@
+{
+  "id": "balancing-technique-theory-and-creativity",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Balancing technique, theory and creativity\nThis lesson helps you build a practice plan where **scales do three jobs**:\n- Train your **technique**\n- Strengthen your **theory understanding**\n- Feed your **creativity**\n\nYou will not add more minutes. You will **reuse the same scale work** in different ways.",
+          "zh-Hans": "# 在技术、乐理和创造力之间取得平衡\n本课教你如何用一套练习，让**音阶同时完成三件事**：\n- 训练你的**技术**\n- 加强你的**乐理理解**\n- 滋养你的**创造力**\n\n不需要增加练琴时长，而是**用同一组音阶练习做不同的事情**。",
+          "de": "# Technik, Theorie und Kreativität ausbalancieren\nIn dieser Lektion baust du einen Übeplan, in dem **Tonleitern drei Aufgaben erfüllen**:\n- Sie trainieren deine **Technik**\n- Sie vertiefen dein **Theoriewissen**\n- Sie füttern deine **Kreativität**\n\nDu brauchst dafür keine zusätzlichen Minuten – du **nutzt dieselben Tonleiterübungen auf verschiedene Arten**.",
+          "ja": "# テクニック・理論・クリエイティビティのバランス\nこのレッスンでは、音階練習に**3つの役割**を持たせます：\n- **テクニック**を鍛える\n- **理論の理解**を深める\n- **創造性**の材料にする\n\n練習時間を増やすのではなく、**同じ音階を別の視点から何度も使う**のがポイントです。",
+          "pt-BR": "# Equilibrando técnica, teoria e criatividade\nNesta lição você vai montar um plano em que as **escalas fazem três trabalhos**:\n- Treinam sua **técnica**\n- Reforçam sua **teoria**\n- Alimentam sua **criatividade**\n\nVocê não vai aumentar o tempo de estudo, e sim **reaproveitar o mesmo estudo de escala de jeitos diferentes**.",
+          "es": "# Equilibrar técnica, teoría y creatividad\nEn esta lección vas a diseñar un plan donde las **escalas cumplen tres funciones**:\n- Entrenan tu **técnica**\n- Refuerzan tu **teoría**\n- Alimentan tu **creatividad**\n\nNo hace falta sumar más minutos. Simplemente **reutilizas el mismo trabajo de escalas de distintas maneras**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Split your practice time\nPick a key (for example **C, G or F major**) and divide your session into three equal blocks.\n\nIf you have **30 minutes**:\n- 10 minutes → **technique with scales**\n- 10 minutes → **theory inside the same scales**\n- 10 minutes → **creative play based on the same material**\n\nIf you only have **15 minutes**, just make it **5 + 5 + 5**.",
+          "zh-Hans": "# 第1步 – 划分练习时间\n先选一个调（比如 **C、G 或 F大调**），再把练琴时间分成三份。\n\n如果你有 **30 分钟**：\n- 10 分钟 → **用音阶练技术**\n- 10 分钟 → **在同一组音阶里做乐理练习**\n- 10 分钟 → **用同样素材做创作/即兴**\n\n如果只有 **15 分钟**，那就变成 **5 + 5 + 5**。",
+          "de": "# Schritt 1 – Teile deine Übezeit auf\nWähle eine Tonart (z.B. **C-, G- oder F-Dur**) und teile deine Einheit in drei gleich große Blöcke.\n\nBei **30 Minuten**:\n- 10 Minuten → **Technik mit Tonleitern**\n- 10 Minuten → **Theorie in denselben Tonleitern**\n- 10 Minuten → **kreatives Spielen mit demselben Material**\n\nBei nur **15 Minuten** machst du einfach **5 + 5 + 5**.",
+          "ja": "# ステップ1 – 練習時間を3つに分ける\nまずは1つキーを決めます（例：**C・G・Fメジャー**など）。そして練習時間を3等分します。\n\nもし **30分** あるなら：\n- 10分 → **音階でテクニック**\n- 10分 → **同じ音階を使った理論の練習**\n- 10分 → **同じ素材を使った創作・即興**\n\n**15分** しかない日も、**5 + 5 + 5** にすればOKです。",
+          "pt-BR": "# Passo 1 – Divida seu tempo de estudo\nEscolha uma tonalidade (por exemplo **C, G ou F maior**) e divida o estudo em três partes iguais.\n\nSe você tiver **30 minutos**:\n- 10 minutos → **técnica com escalas**\n- 10 minutos → **teoria dentro das mesmas escalas**\n- 10 minutos → **criação usando o mesmo material**\n\nSe tiver só **15 minutos**, faça **5 + 5 + 5**.",
+          "es": "# Paso 1 – Divide tu tiempo de práctica\nElige una tonalidad (por ejemplo **Do, Sol o Fa mayor**) y reparte la sesión en tres partes iguales.\n\nSi tienes **30 minutos**:\n- 10 minutos → **técnica con escalas**\n- 10 minutos → **teoría dentro de esas mismas escalas**\n- 10 minutos → **creatividad usando el mismo material**\n\nSi solo tienes **15 minutos**, conviértelo en **5 + 5 + 5**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Technique: clean scales first\nUse your first block just for **physical control**.\n\nIdeas:\n- Play the scale **hands separate**, then together\n- Use **legato**, then a **light staccato**\n- Change **dynamics**: soft up, louder down\n\nStay with **one or two keys** per day. Depth is better than jumping through many keys quickly.",
+          "zh-Hans": "# 第2步 – 技术：先把音阶弹干净\n第一段时间只管手感和控制，不考虑复杂乐理。\n\n可以做的事：\n- 先**左右手分开**弹音阶，再双手一起\n- 先用 **连音**，再试 **轻断音**\n- 换一换**强弱**：上行弱一点，下行稍微强一点\n\n每天只练 **1–2 个调** 就够了，比起“跑遍所有调”，**扎实**更重要。",
+          "de": "# Schritt 2 – Technik: saubere Tonleitern zuerst\nIm ersten Block geht es nur um **körperliche Kontrolle**.\n\nMögliche Inhalte:\n- Tonleiter **Hände getrennt**, dann zusammen\n- Erst **legato**, dann **leicht staccato**\n- **Dynamik** variieren: leise aufwärts, kräftiger abwärts\n\nBleib pro Tag bei **ein bis zwei Tonarten**. Tiefe ist wichtiger, als viele Tonarten schnell zu überfliegen.",
+          "ja": "# ステップ2 – テクニック：まずは音階をきれいに\n最初のブロックは、**指とタッチのコントロールだけ**に集中します。\n\n例えば：\n- 音階を**片手ずつ**弾いてから、両手で弾く\n- 最初は**レガート**、次に**軽いスタッカート**で\n- **強弱**を変える：上りを弱く、下りを少し強めに\n\n1日に練習するキーは **1〜2個** で十分です。たくさんのキーを浅くやるより、**少なく深く**やった方が身につきます。",
+          "pt-BR": "# Passo 2 – Técnica: primeiro, escalas limpas\nUse o primeiro bloco só para **controle físico**.\n\nAlgumas ideias:\n- Toque a escala **mãos separadas** e depois juntas\n- Use **legato**, depois um **staccato leve**\n- Brinque com a **dinâmica**: subindo suave, descendo um pouco mais forte\n\nFique em **uma ou duas tonalidades** por dia. É melhor ter profundidade do que passar correndo por vários tons.",
+          "es": "# Paso 2 – Técnica: primero, escalas limpias\nUsa el primer bloque solo para **control físico**.\n\nIdeas:\n- Toca la escala con **manos separadas** y luego juntas\n- Empieza **legato** y luego prueba un **staccato ligero**\n- Varía la **dinámica**: suave al subir, un poco más fuerte al bajar\n\nTrabaja **una o dos tonalidades** por día. Es mejor profundizar que pasar rápido por muchas tonalidades."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Theory: name what you play\nNext, use the same scale for **theory inside your hands**.\n\nExamples:\n- Say **scale degrees** out loud: “1–2–3–4–5–6–7–1”\n- Say **note names** and which chord they fit: “E – 3rd of C, 5th of Am”\n- Play **I–IV–V chords** in the key, then run the scale once and notice which notes are chord tones\n\nGo slowly enough that your **brain keeps up with your fingers**.",
+          "zh-Hans": "# 第3步 – 乐理：把弹的东西“叫”出来\n现在，用同一条音阶做**带着乐理的练习**。\n\n例如：\n- 出声说出**音级**： “1–2–3–4–5–6–7–1”\n- 说出**音名**和它属于哪些和弦：比如“E – C和弦的3度，也是Am和弦的5度”\n- 在该调里弹 **I–IV–V 和弦**，再跑一遍音阶，注意哪些音是和弦音\n\n速度要慢到让你的**大脑能跟上手指**。",
+          "de": "# Schritt 3 – Theorie: benenne, was du spielst\nJetzt nutzt du dieselbe Tonleiter für **Theorie direkt im Spiel**.\n\nBeispiele:\n- Sprich **Stufen** laut mit: „1–2–3–4–5–6–7–1“\n- Nenne **Notennamen** und dazugehörige Akkordfunktionen: „E – Terz von C, Quinte von Am“\n- Spiele die Akkorde **I–IV–V** der Tonart, dann einmal die Tonleiter und achte darauf, welche Töne Akkordtöne sind\n\nSpiele so langsam, dass dein **Kopf mit den Fingern Schritt halten kann**.",
+          "ja": "# ステップ3 – 理論：弾いているものに名前をつける\n次は、同じ音階を使って**理論を手の中で確認**します。\n\n例えば：\n- 声に出して**度数**を言う：「1–2–3–4–5–6–7–1」\n- **音名**と、どのコードの何度かを言う：「E は Cコードの3度で、Amコードの5度」など\n- そのキーの **I–IV–Vコード** を弾いてから、音階を1回弾き、どの音がコードトーンか意識する\n\n大事なのは、**頭が指に追いつけるスピード**で弾くことです。",
+          "pt-BR": "# Passo 3 – Teoria: dê nome ao que você toca\nAgora use a mesma escala para trabalhar **teoria na própria mão**.\n\nAlguns exemplos:\n- Fale em voz alta os **graus da escala**: “1–2–3–4–5–6–7–1”\n- Diga o **nome da nota** e em quais acordes ela encaixa: “E – 3ª de C, 5ª de Am”\n- Toque os acordes **I–IV–V** da tonalidade e depois uma vez a escala, percebendo quais notas são notas do acorde\n\nToque devagar o bastante para que o **cérebro acompanhe os dedos**.",
+          "es": "# Paso 3 – Teoría: ponle nombre a lo que tocas\nAhora usa la misma escala para hacer **teoría dentro de tus manos**.\n\nPor ejemplo:\n- Di en voz alta los **grados de la escala**: “1–2–3–4–5–6–7–1”\n- Di el **nombre de la nota** y qué función tiene: “E – 3ª de C, 5ª de Am”\n- Toca los acordes **I–IV–V** de la tonalidad y luego una vez la escala, fijándote en qué notas son tonos de acorde\n\nVe lo bastante despacio como para que tu **cabeza vaya a la misma velocidad que tus dedos**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 4 – Creativity: small games with the same scale\nFinish by turning the same material into **simple musical ideas**.\n\nTry one or two of these each day:\n- Improvise a **4-bar melody** using only the current scale\n- Make a **question–answer** pair: 2 bars going up, 2 bars answering\n- Hold a left-hand chord and create **short motifs** (3–5 notes) that always land on a chord tone\n\nKeep it playful. Mistakes are fine here – the goal is to **hear the scale as music, not just exercise**.",
+          "zh-Hans": "# 第4步 – 创造力：用同一条音阶做小游戏\n最后，把同样的素材变成一些**小小的音乐想法**。\n\n每天从下面选一到两个来玩：\n- 只用当前这条音阶，即兴编一段 **4小节小旋律**\n- 做一个 **“问答”乐句**：前2小节往上走，后2小节给出回应\n- 左手按住一个和弦，右手用 3–5 个音组成**短动机**，尽量都落在和弦音上\n\n保持“玩”的心态，这一部分允许出错。重点是让你**把音阶听成音乐，而不只是练习题**。",
+          "de": "# Schritt 4 – Kreativität: kleine Spiele mit derselben Tonleiter\nZum Schluss machst du aus dem Material **kleine musikalische Ideen**.\n\nProbier jeden Tag ein oder zwei dieser Spiele:\n- Improvisiere eine **4-taktige Melodie** nur mit der aktuellen Tonleiter\n- Baue ein **Frage–Antwort-Motiv**: 2 Takte „Frage“, 2 Takte „Antwort“\n- Halte links einen Akkord und erfinde **kurze Motive** (3–5 Töne), die auf einem Akkordton landen\n\nNimm das spielerisch. Fehler sind hier erlaubt – Ziel ist, die **Tonleiter als Musik zu hören, nicht nur als Übung**.",
+          "ja": "# ステップ4 – クリエイティビティ：同じ音階で小さなゲーム\n最後のブロックでは、同じ音階を**小さな音楽のアイデア**に変えていきます。\n\n毎回、次のうち1〜2個を試してみてください：\n- 今練習している音階だけを使って、**4小節のメロディ**を即興で作る\n- **「質問→答え」** のペアを作る：前半2小節が質問、後半2小節が答え\n- 左手でコードを押さえ、右手で 3〜5音の**短いモチーフ**を作り、できるだけコードトーンで着地する\n\nあくまで“遊び”としてやりましょう。ここでのミスは問題ありません。**音階を「ただの練習」ではなく「音楽」として耳に入れていく**のが目的です。",
+          "pt-BR": "# Passo 4 – Criatividade: joguinhos com a mesma escala\nFeche o estudo transformando o mesmo material em **ideias musicais simples**.\n\nTente um ou dois destes por dia:\n- Improvise uma **melodia de 4 compassos** usando só a escala do dia\n- Crie um par de **“pergunta–resposta”**: 2 compassos subindo, 2 respondendo\n- Segure um acorde na mão esquerda e faça **motivos curtos** (3–5 notas) na direita, sempre pousando em nota do acorde\n\nLeve isso como brincadeira. Erros aqui são bem-vindos – a ideia é **ouvir a escala como música, não só como exercício**.",
+          "es": "# Paso 4 – Creatividad: pequeños juegos con la misma escala\nTermina convirtiendo el mismo material en **pequeñas ideas musicales**.\n\nPrueba uno o dos de estos cada día:\n- Improvisa una **melodía de 4 compases** usando solo la escala del día\n- Crea un par **“pregunta–respuesta”**: 2 compases que suben, 2 que responden\n- Mantén un acorde en la mano izquierda y crea **motivos cortos** (3–5 notas) que siempre caigan en una nota del acorde\n\nTómalo como un juego. Los errores aquí están permitidos: la meta es **escuchar la escala como música, no solo como ejercicio**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

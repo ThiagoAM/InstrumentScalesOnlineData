@@ -1,0 +1,99 @@
+{
+  "id": "a-natural-minor-scale-in-multiple-positions",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A natural minor in multiple positions\nIn this lesson you’ll play the **A natural minor scale** in a few different spots on the neck.\n\nSeeing the same scale in more than one position helps you:\n- Move lines **up and down the neck**\n- Stay comfortable in different **frets and registers**\n- Hear that it’s the **same sound**, just in a new place",
+          "zh-Hans": "# 多把位弹 A 自然小调\n在本课中，你会在琴颈上的几个不同位置弹 **A 自然小调音阶**。\n\n在不止一个把位看同一个音阶，可以帮助你：\n- 让乐句在琴颈上**上下移动更自如**\n- 适应不同的**品位和音区**\n- 听出这是**同一个音阶**，只是换了位置而已",
+          "de": "# A-Natürlich-Moll in mehreren Lagen\nIn dieser Lektion spielst du die **A-Natürlich-Moll-Tonleiter** an verschiedenen Stellen auf dem Hals.\n\nDie gleiche Skala in mehreren Lagen zu sehen hilft dir:\n- Linien **über den ganzen Hals** zu bewegen\n- Dich in verschiedenen **Bundhöhen und Lagen** wohlzufühlen\n- Zu hören, dass es **derselbe Klang** ist – nur an einem anderen Ort",
+          "ja": "# いくつかのポジションで弾く A ナチュラル・マイナー\nこのレッスンでは、**Aナチュラル・マイナー・スケール**をネック上のいくつか違う場所で弾いてみます。\n\n同じスケールを複数のポジションで見ることで：\n- フレーズをネック上で**上下に動かしやすく**なり\n- いろいろな**フレットや音域**でも落ち着いて弾けるようになり\n- 場所が変わっても**同じスケールの響き**だと感じられるようになります",
+          "pt-BR": "# A menor natural em várias posições\nNesta lição você vai tocar a **escala de A (Lá) menor natural** em alguns lugares diferentes do braço.\n\nEnxergar a mesma escala em mais de uma posição ajuda você a:\n- Mover linhas **pra cima e pra baixo no braço**\n- Ficar à vontade em **casas e registros** diferentes\n- Perceber que é o **mesmo som**, só que em outro lugar",
+          "es": "# La menor natural en varias posiciones\nEn esta lección vas a tocar la **escala de La menor natural** en varios puntos del mástil.\n\nVer la misma escala en más de una posición te ayuda a:\n- Mover líneas **arriba y abajo del mástil**\n- Sentirte cómodo en distintos **trastes y registros**\n- Oír que es el **mismo sonido**, sólo en otro lugar"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Notes of A natural minor\nA natural minor uses these notes:\n\n**A – B – C – D – E – F – G**\n\nYou can think of it as:\n- The **C major scale** starting on A, or\n- A major scale with **b3, b6 and b7** compared to A major",
+          "zh-Hans": "# A 自然小调的音\nA 自然小调包含这些音：\n\n**A – B – C – D – E – F – G**\n\n可以这样理解：\n- 是从 A 开始的 **C 大调音阶**，或者\n- 和 A 大调比起来，把 **3、6、7 级都降半音**（b3、b6、b7）",
+          "de": "# Töne von A-Natürlich-Moll\nA-Natürlich-Moll besteht aus diesen Tönen:\n\n**A – B – C – D – E – F – G**\n\nDu kannst es dir so merken:\n- Es ist die **C-Dur-Tonleiter**, die bei A startet, oder\n- Eine A-Dur-Tonleiter mit **kleiner Terz, kleiner Sexte und kleiner Septime** (b3, b6, b7)",
+          "ja": "# Aナチュラル・マイナーの音\nAナチュラル・マイナーには次の音が含まれます：\n\n**A – B – C – D – E – F – G**\n\n覚え方の例：\n- **Cメジャー・スケールをAから始めたもの**として考えるか\n- Aメジャーと比べて **3度・6度・7度を半音下げたスケール**（b3, b6, b7）として考える",
+          "pt-BR": "# Notas da escala de A menor natural\nA menor natural usa estas notas:\n\n**A – B – C – D – E – F – G**\n\nVocê pode pensar assim:\n- É a **escala de Dó maior** começando em A, ou\n- É a escala maior de A com **b3, b6 e b7** em relação a A maior",
+          "es": "# Notas de La menor natural\nLa menor natural usa estas notas:\n\n**A – B – C – D – E – F – G**\n\nPuedes pensarlo así:\n- Es la **escala de Do mayor** empezando en La, o\n- Es una escala mayor de La con **b3, b6 y b7** comparada con La mayor"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Position 1 – open A minor\nStandard tuning: E–A–D–G.\nWe’ll start with a one-octave pattern in **open position**:\n\n- A string, open – **A**\n- A string, 2nd fret – **B**\n- A string, 3rd fret – **C**\n- D string, open – **D**\n- D string, 2nd fret – **E**\n- D string, 3rd fret – **F**\n- G string, open – **G**\n- G string, 2nd fret – **A**\n\nPlay slowly up and down with alternating right-hand fingers. Let the **open strings ring** clearly.",
+          "zh-Hans": "# 第1把位——开放位置的 A 小调\n标准定弦：E–A–D–G。\n先从**开放把位**的一组音开始：\n\n- A 弦 空弦 – **A**\n- A 弦 第2品 – **B**\n- A 弦 第3品 – **C**\n- D 弦 空弦 – **D**\n- D 弦 第2品 – **E**\n- D 弦 第3品 – **F**\n- G 弦 空弦 – **G**\n- G 弦 第2品 – **A**\n\n用右手交替拨弦，慢慢上下弹，让**空弦的音**干净地响出来。",
+          "de": "# 1. Lage – A-Moll in offener Position\nStandardstimmung: E–A–D–G.\nWir starten mit einer einoktavigen Figur in der **offenen Lage**:\n\n- A-Saite, leer – **A**\n- A-Saite, 2. Bund – **B**\n- A-Saite, 3. Bund – **C**\n- D-Saite, leer – **D**\n- D-Saite, 2. Bund – **E**\n- D-Saite, 3. Bund – **F**\n- G-Saite, leer – **G**\n- G-Saite, 2. Bund – **A**\n\nSpiel die Skala langsam auf- und abwärts mit Wechselschlag der rechten Hand. Lass die **Leersaiten klar klingen**.",
+          "ja": "# 第1ポジション – オープン・ポジションのAマイナー\nスタンダード・チューニング：E–A–D–G。\nまずは**オープン・ポジション**で1オクターブ分を弾きます：\n\n- A弦 開放 – **A**\n- A弦 2フレット – **B**\n- A弦 3フレット – **C**\n- D弦 開放 – **D**\n- D弦 2フレット – **E**\n- D弦 3フレット – **F**\n- G弦 開放 – **G**\n- G弦 2フレット – **A**\n\n右手はオルタネイトで、ゆっくり上下させましょう。**開放弦**がきれいに伸びるように意識してみてください。",
+          "pt-BR": "# Posição 1 – A menor em posição aberta\nAfinação padrão: E–A–D–G.\nVamos começar com um desenho de uma oitava na **posição aberta**:\n\n- Corda A, solta – **A**\n- Corda A, 2ª casa – **B**\n- Corda A, 3ª casa – **C**\n- Corda D, solta – **D**\n- Corda D, 2ª casa – **E**\n- Corda D, 3ª casa – **F**\n- Corda G, solta – **G**\n- Corda G, 2ª casa – **A**\n\nToque devagar subindo e descendo, alternando os dedos da mão direita. Deixe as **cordas soltas** soarem bem limpas.",
+          "es": "# Posición 1 – La menor en posición abierta\nAfinación estándar: E–A–D–G.\nEmpezamos con un patrón de una octava en **posición abierta**:\n\n- Cuerda A, al aire – **A**\n- Cuerda A, traste 2 – **B**\n- Cuerda A, traste 3 – **C**\n- Cuerda D, al aire – **D**\n- Cuerda D, traste 2 – **E**\n- Cuerda D, traste 3 – **F**\n- Cuerda G, al aire – **G**\n- Cuerda G, traste 2 – **A**\n\nToca lento subiendo y bajando, alternando los dedos de la mano derecha. Deja que las **cuerdas al aire** suenen claras."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Position 2 – 5th-fret A minor box\nNow play the same octave starting on **A at the 5th fret of the E string**:\n\n- E string, 5th fret – **A**\n- E string, 7th fret – **B**\n- E string, 8th fret – **C**\n- A string, 5th fret – **D**\n- A string, 7th fret – **E**\n- A string, 8th fret – **F**\n- D string, 5th fret – **G**\n- D string, 7th fret – **A**\n\nKeep your **index** near the 5th fret and use a comfortable **1–3–4** or **1–2–4** fingering for the fretted notes.",
+          "zh-Hans": "# 第2把位——E 弦第5品的 A 小调“框”\n现在从 **E 弦第5品的 A** 开始弹同样的一组音：\n\n- E 弦 第5品 – **A**\n- E 弦 第7品 – **B**\n- E 弦 第8品 – **C**\n- A 弦 第5品 – **D**\n- A 弦 第7品 – **E**\n- A 弦 第8品 – **F**\n- D 弦 第5品 – **G**\n- D 弦 第7品 – **A**\n\n让**食指**大致待在第5品附近，其余音可以用 **1–3–4** 或 **1–2–4** 的指法来按，选你感觉舒服的方式。",
+          "de": "# 2. Lage – A-Moll-Box im 5. Bund\nJetzt spielst du dieselbe Oktave, beginnend bei **A im 5. Bund der E-Saite**:\n\n- E-Saite, 5. Bund – **A**\n- E-Saite, 7. Bund – **B**\n- E-Saite, 8. Bund – **C**\n- A-Saite, 5. Bund – **D**\n- A-Saite, 7. Bund – **E**\n- A-Saite, 8. Bund – **F**\n- D-Saite, 5. Bund – **G**\n- D-Saite, 7. Bund – **A**\n\nHalte den **Zeigefinger** in der Nähe des 5. Bundes und benutze ein bequemes **1–3–4**- oder **1–2–4**-Fingersystem für die gegriffenen Töne.",
+          "ja": "# 第2ポジション – E弦5フレット起点のAマイナー・ボックス\n次は、**E弦5フレットのA** から始めて同じ1オクターブを弾きます：\n\n- E弦 5フレット – **A**\n- E弦 7フレット – **B**\n- E弦 8フレット – **C**\n- A弦 5フレット – **D**\n- A弦 7フレット – **E**\n- A弦 8フレット – **F**\n- D弦 5フレット – **G**\n- D弦 7フレット – **A**\n\n**人差し指**を5フレット付近に置きつつ、押さえるときは **1–3–4** か **1–2–4** など、自分の手に合うフィンガリングを使ってください。",
+          "pt-BR": "# Posição 2 – Box de A menor na 5ª casa\nAgora toque a mesma oitava começando no **A da 5ª casa da corda E**:\n\n- Corda E, 5ª casa – **A**\n- Corda E, 7ª casa – **B**\n- Corda E, 8ª casa – **C**\n- Corda A, 5ª casa – **D**\n- Corda A, 7ª casa – **E**\n- Corda A, 8ª casa – **F**\n- Corda D, 5ª casa – **G**\n- Corda D, 7ª casa – **A**\n\nDeixe o **indicador** por volta da 5ª casa e use um desenho confortável de **1–3–4** ou **1–2–4** para as notas pressionadas.",
+          "es": "# Posición 2 – Caja de La menor en el traste 5\nAhora toca la misma octava empezando en **La del traste 5 de la cuerda E**:\n\n- Cuerda E, traste 5 – **A**\n- Cuerda E, traste 7 – **B**\n- Cuerda E, traste 8 – **C**\n- Cuerda A, traste 5 – **D**\n- Cuerda A, traste 7 – **E**\n- Cuerda A, traste 8 – **F**\n- Cuerda D, traste 5 – **G**\n- Cuerda D, traste 7 – **A**\n\nMantén el **índice** cerca del traste 5 y usa un digitado cómodo **1–3–4** o **1–2–4** para las notas pulsadas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Position 3 – 12th-fret A minor box\nNow mirror that shape higher up the neck, starting on **A at the 12th fret of the A string**:\n\n- A string, 12th fret – **A**\n- A string, 14th fret – **B**\n- A string, 15th fret – **C**\n- D string, 12th fret – **D**\n- D string, 14th fret – **E**\n- D string, 15th fret – **F**\n- G string, 12th fret – **G**\n- G string, 14th fret – **A**\n\nIt’s the same A minor sound, just **one octave higher** and in a brighter register.",
+          "zh-Hans": "# 第3把位——A 弦第12品的 A 小调“框”\n现在把刚才的形状搬到琴颈更高的位置，从 **A 弦第12品的 A** 开始：\n\n- A 弦 第12品 – **A**\n- A 弦 第14品 – **B**\n- A 弦 第15品 – **C**\n- D 弦 第12品 – **D**\n- D 弦 第14品 – **E**\n- D 弦 第15品 – **F**\n- G 弦 第12品 – **G**\n- G 弦 第14品 – **A**\n\n这是同样的 A 小调，只是**高了一个八度**，音色也会更明亮一些。",
+          "de": "# 3. Lage – A-Moll-Box im 12. Bund\nJetzt spielst du dieselbe Form weiter oben auf dem Hals, beginnend bei **A im 12. Bund der A-Saite**:\n\n- A-Saite, 12. Bund – **A**\n- A-Saite, 14. Bund – **B**\n- A-Saite, 15. Bund – **C**\n- D-Saite, 12. Bund – **D**\n- D-Saite, 14. Bund – **E**\n- D-Saite, 15. Bund – **F**\n- G-Saite, 12. Bund – **G**\n- G-Saite, 14. Bund – **A**\n\nEs ist derselbe A-Moll-Klang, nur **eine Oktave höher** und in einem helleren Register.",
+          "ja": "# 第3ポジション – A弦12フレット起点のAマイナー・ボックス\n次は、ネックの高いポジションで同じ形を使います。スタートは **A弦12フレットのA**：\n\n- A弦 12フレット – **A**\n- A弦 14フレット – **B**\n- A弦 15フレット – **C**\n- D弦 12フレット – **D**\n- D弦 14フレット – **E**\n- D弦 15フレット – **F**\n- G弦 12フレット – **G**\n- G弦 14フレット – **A**\n\n同じAマイナーのスケールですが、**1オクターブ高い**、明るい音域での形になります。",
+          "pt-BR": "# Posição 3 – Box de A menor na 12ª casa\nAgora espelhe esse desenho mais acima no braço, começando em **A na 12ª casa da corda A**:\n\n- Corda A, 12ª casa – **A**\n- Corda A, 14ª casa – **B**\n- Corda A, 15ª casa – **C**\n- Corda D, 12ª casa – **D**\n- Corda D, 14ª casa – **E**\n- Corda D, 15ª casa – **F**\n- Corda G, 12ª casa – **G**\n- Corda G, 14ª casa – **A**\n\nÉ o mesmo som de A menor, só que **uma oitava acima**, em um registro mais brilhante.",
+          "es": "# Posición 3 – Caja de La menor en el traste 12\nAhora refleja esa forma más arriba en el mástil, empezando en **La del traste 12 de la cuerda A**:\n\n- Cuerda A, traste 12 – **A**\n- Cuerda A, traste 14 – **B**\n- Cuerda A, traste 15 – **C**\n- Cuerda D, traste 12 – **D**\n- Cuerda D, traste 14 – **E**\n- Cuerda D, traste 15 – **F**\n- Cuerda G, traste 12 – **G**\n- Cuerda G, traste 14 – **A**\n\nEs el mismo sonido de La menor, sólo que **una octava más arriba**, en un registro más brillante."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Connecting the positions\nEach pattern uses the same notes:\n\n**A – B – C – D – E – F – G – A**\n\nTry this:\n1. Play the scale once in **open position**.\n2. Shift up and play it in the **5th-fret position**.\n3. Shift again and play it in the **12th-fret position**.\n\nKeep the tempo slow and listen for the **same A minor colour** in all three places.",
+          "zh-Hans": "# 连接这些把位\n每一种指型用到的都是同样的音：\n\n**A – B – C – D – E – F – G – A**\n\n试试这样练：\n1. 先在**开放把位**弹一遍音阶。  \n2. 再上移到**第5品把位**，弹同样一遍。  \n3. 再上移到**第12品把位**，再弹一遍。\n\n速度保持很慢，留心听三处位置里是否都有同样的 **A 小调味道**。",
+          "de": "# Lagen miteinander verbinden\nJedes Pattern benutzt dieselben Töne:\n\n**A – B – C – D – E – F – G – A**\n\nProbiere Folgendes:\n1. Spiele die Skala einmal in der **offenen Lage**.  \n2. Rutsche hoch und spiele sie in der **5.-Bund-Lage**.  \n3. Rutsche noch einmal und spiele sie in der **12.-Bund-Lage**.\n\nHalte das Tempo langsam und höre auf denselben **A-Moll-Charakter** in allen drei Bereichen.",
+          "ja": "# ポジション同士をつなげる\nどのパターンでも使っている音は同じです：\n\n**A – B – C – D – E – F – G – A**\n\n次のように練習してみましょう：\n1. まず**オープン・ポジション**でスケールを1回。  \n2. そのあと**5フレット付近のポジション**にシフトして、同じように1回。  \n3. さらに**12フレット付近のポジション**にシフトして、もう1回。\n\nテンポはゆっくりのまま、どの場所でも同じ**Aマイナーの色合い**が感じられるかを意識して聴いてみてください。",
+          "pt-BR": "# Conectando as posições\nCada desenho usa as mesmas notas:\n\n**A – B – C – D – E – F – G – A**\n\nTente isso:\n1. Toque a escala uma vez na **posição aberta**.  \n2. Suba e toque na **posição da 5ª casa**.  \n3. Suba de novo e toque na **posição da 12ª casa**.\n\nMantenha o tempo bem lento e ouça se o **clima de A menor** é o mesmo nas três regiões.",
+          "es": "# Conectando las posiciones\nCada patrón usa las mismas notas:\n\n**A – B – C – D – E – F – G – A**\n\nPrueba esto:\n1. Toca la escala una vez en **posición abierta**.  \n2. Sube y tócala en la **posición del traste 5**.  \n3. Sube otra vez y tócala en la **posición del traste 12**.\n\nMantén el tempo lento y escucha el mismo **color de La menor** en los tres lugares."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Pick a **slow, comfortable tempo** (with or without a click).\n2. Play A natural minor **up and down** in one position 3 times.\n3. Move to the next position and repeat.\n4. Finish by improvising a **short A minor groove or melody**, changing positions while you keep the same scale notes.\n\nWith a bit of repetition, A minor starts to feel like a **shape that lives all over the neck**, not just one box.",
+          "zh-Hans": "# 快速练习流程\n1. 先选一个**慢而舒服的速度**（可以用节拍器，也可以不用）。  \n2. 在某一个把位上，把 A 自然小调**上下弹 3 遍**。  \n3. 换到下一个把位，再重复同样的练习。  \n4. 最后，用这些音随便编一点点 **A 小调的 groove 或小旋律**，在不同把位之间切换。\n\n多重复几次之后，A 小调会变成一种**遍布整条琴颈的形状**，而不只是单独的一个小格子。",
+          "de": "# Kurze Übe-Routine\n1. Such dir ein **langsames, bequemes Tempo** (mit oder ohne Metronom).  \n2. Spiele A-Natürlich-Moll in einer Lage **dreimal auf- und abwärts**.  \n3. Wechsel in die nächste Lage und wiederhole das.  \n4. Beende die Einheit, indem du einen **kleinen A-Moll-Groove oder eine Melodie** improvisierst und dabei zwischen den Lagen wechselst.\n\nMit etwas Wiederholung fühlt sich A-Moll wie eine **Form an, die über den ganzen Hals verteilt ist**, nicht nur wie ein einziges Kästchen.",
+          "ja": "# かんたん練習ルーティン\n1. まずは**ゆっくりめで弾きやすいテンポ**を決めます（メトロノームを使ってもOK）。  \n2. 1つのポジションを選び、その中でAナチュラル・マイナーを**上下3回**弾きます。  \n3. 次のポジションに移動して、同じことをくり返します。  \n4. 最後に、スケール内の音だけを使って**短いAマイナーのグルーヴやフレーズ**を作りながら、ポジションを行き来してみましょう。\n\nこれを繰り返していくと、Aマイナーは「1つの箱」ではなく、ネック全体に広がる**ひと続きの形**として感じられるようになっていきます。",
+          "pt-BR": "# Rotina rápida de prática\n1. Escolha um **tempo lento e confortável** (com ou sem metrônomo).  \n2. Toque a escala de A menor natural **subindo e descendo** em uma posição 3 vezes.  \n3. Vá para a próxima posição e repita.  \n4. Termine improvisando um **groove ou melodia curtinha em A menor**, trocando de posição mas usando sempre as mesmas notas da escala.\n\nCom um pouco de repetição, A menor começa a parecer uma **forma que ocupa o braço inteiro**, e não só um único desenho.",
+          "es": "# Rutina rápida de práctica\n1. Elige un **tempo lento y cómodo** (con o sin metrónomo).  \n2. Toca la escala de La menor natural **subiendo y bajando** en una posición 3 veces.  \n3. Pasa a la siguiente posición y repite.  \n4. Termina improvisando un **pequeño groove o melodía en La menor**, cambiando de posición mientras mantienes las mismas notas de la escala.\n\nCon un poco de repetición, La menor empieza a sentirse como una **forma que vive en todo el mástil**, no sólo como una sola caja."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

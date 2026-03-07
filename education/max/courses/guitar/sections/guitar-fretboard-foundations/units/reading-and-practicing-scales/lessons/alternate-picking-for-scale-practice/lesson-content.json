@@ -1,0 +1,73 @@
+{
+  "id": "alternate-picking-for-scale-practice",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Alternate picking for scale practice\nAlternate picking means **down–up–down–up** with the pick, like a pendulum.\n\nWhen you use it on scales, you get:\n- More **control** over rhythm\n- More **even tone** from note to note\n- A picking motion you can reuse for **riffs, solos and arpeggios**\n\nIn this lesson you’ll connect your scale shapes to a simple, reliable right-hand pattern.",
+          "zh-Hans": "# 用交替拨弦练音阶\n交替拨弦就是用拨片按 **下–上–下–上** 的顺序来回拨弦，就像钟摆一样。\n\n把它用在音阶上，可以带来：\n- 更好的节奏**控制力**\n- 更**平均**的音色和音量\n- 一种可以在 **riff、独奏、分解和弦** 中反复复用的拨弦动作\n\n在本课中，你会把已经学过的音阶指型，配上一个简单、可靠的右手节奏模式。",
+          "de": "# Wechselschlag für Tonleiter-Übungen\nWechselschlag bedeutet mit dem Plektrum **ab–auf–ab–auf** zu spielen, wie ein Pendel.\n\nAuf Tonleitern angewendet bringt das:\n- Mehr **Kontrolle** über den Rhythmus\n- Gleichmäßigeren, **ausgewogenen Klang** von Note zu Note\n- Einen Anschlag, den du für **Riffs, Soli und Arpeggien** wiederverwenden kannst\n\nIn dieser Lektion verbindest du deine Skalen-Griffe mit einem einfachen, verlässlichen Anschlagsmuster der rechten Hand.",
+          "ja": "# 音階練習のためのオルタネイト・ピッキング\nオルタネイト・ピッキングとは、ピックの**ダウン→アップ→ダウン→アップ**を振り子のように繰り返す弾き方です。\n\nこれをスケールに合わせると：\n- リズムの**コントロール**がしやすくなり\n- 1音1音の**音量と音色がそろい**\n- **リフやソロ、アルペジオ**にもそのまま使える右手の動きが身につきます。\n\nこのレッスンでは、身につけたスケールの形に、シンプルで安定した右手パターンを結びつけていきます。",
+          "pt-BR": "# Palhetada alternada para praticar escalas\nPalhetada alternada é tocar **baixo–cima–baixo–cima** com a palheta, como um pêndulo.\n\nUsando isso nas escalas você ganha:\n- Mais **controle** de ritmo\n- Som mais **uniforme** de nota para nota\n- Um movimento de palheta que serve para **riffs, solos e arpejos**\n\nNesta lição você vai ligar seus desenhos de escala a um padrão simples e confiável de mão direita.",
+          "es": "# Púa alternada para practicar escalas\nLa púa alternada significa tocar **abajo–arriba–abajo–arriba**, como un péndulo.\n\nAl usarla en las escalas obtienes:\n- Más **control** sobre el ritmo\n- Un sonido más **parejo** entre notas\n- Un movimiento de púa que puedes reutilizar en **riffs, solos y arpegios**\n\nEn esta lección vas a conectar tus dibujos de escala con un patrón sencillo y fiable de mano derecha."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic alternate picking motion\nStart with a comfortable scale shape you already know.\n\n- Use a **small pick motion**, just enough to clear the string\n- Keep the pick slightly angled instead of perfectly flat\n- Let the motion come mainly from the **wrist**, not the whole arm\n- Keep the pattern going: **down–up–down–up…**, even when you change strings\n\nThink more about **steady movement** than about speed.",
+          "zh-Hans": "# 基本交替拨弦动作\n先选一个你已经熟悉的音阶指型。\n\n- 拨片动作要**小而精准**，刚好越过琴弦即可\n- 拨片略微**斜着**碰弦，不必完全水平\n- 主要用**手腕**带动，而不是整个手臂在大幅度摆动\n- 不管是否换弦，都要让 **下–上–下–上…** 连续保持\n\n重点先放在**稳定的往返动作**上，而不是速度。",
+          "de": "# Grundbewegung des Wechselschlags\nNimm dir eine Tonleiter-Form, die du schon kennst.\n\n- Nutze eine **kleine Plektrum-Bewegung**, gerade groß genug, um die Saite zu überqueren\n- Halte das Plektrum leicht **angewinkelt**, nicht völlig flach\n- Lass die Bewegung hauptsächlich aus dem **Handgelenk** kommen, nicht aus dem ganzen Arm\n- Halte das Muster durch: **ab–auf–ab–auf…**, auch beim Saitenwechsel\n\nDenk zuerst an **gleichmäßige Bewegung**, nicht an Tempo.",
+          "ja": "# オルタネイトの基本動作\nまずは、すでに慣れているスケール・ポジションを1つ選びます。\n\n- 弦を**かろうじて超えるくらいの小さなピッキング**にします\n- ピックは完全に水平ではなく、少しだけ**斜め**に当てます\n- 動きの中心は**手首**にして、腕全体を大きく振り回さないようにします\n- 弦が変わっても、**ダウン→アップ→ダウン→アップ…** の流れを止めないこと\n\nいきなり速く弾こうとせず、まずは**一定の往復運動**を体になじませるイメージで練習しましょう。",
+          "pt-BR": "# Movimento básico da palhetada alternada\nComece com um desenho de escala que você já conhece bem.\n\n- Use um **movimento pequeno de palheta**, só o suficiente para passar pela corda\n- Deixe a palheta levemente **angulada**, não totalmente plana\n- Faça o movimento vir principalmente do **pulso**, não do braço inteiro\n- Mantenha o padrão rolando: **baixo–cima–baixo–cima…**, mesmo quando trocar de corda\n\nPense mais em **movimento constante** do que em velocidade.",
+          "es": "# Movimiento básico de la púa alternada\nEmpieza con un dibujo de escala que ya conozcas.\n\n- Usa un **movimiento pequeño de púa**, solo lo justo para pasar la cuerda\n- Mantén la púa ligeramente **angulada**, no completamente plana\n- Deja que el movimiento venga sobre todo de la **muñeca**, no de todo el brazo\n- Mantén el patrón: **abajo–arriba–abajo–arriba…**, incluso cuando cambies de cuerda\n\nConcéntrate en un **movimiento estable**, no en la velocidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Crossing strings cleanly\nWhen you change strings, don’t restart the pattern – just keep alternating.\n\nExample (3 notes per string):\n- 6th string: **down–up–down**\n- 5th string: **up–down–up**\n\nSometimes the pick moves **toward** the next string (outside picking) and sometimes **away from** it (inside picking). Both feel a bit different, but you want to be **comfortable with both**.",
+          "zh-Hans": "# 干净地换弦\n换弦时，不要重新开始数“下–上”。只要一直保持交替就好。\n\n例如（每弦3个音）：\n- 第6弦：**下–上–下**\n- 第5弦：**上–下–上**\n\n有时拨片会朝着下一根弦方向移动（所谓 **outside picking**），有时会远离下一根弦（**inside picking**）。两种感觉略有不同，但你要练到对**两种都自然适应**。",
+          "de": "# Sauberer Saitenwechsel\nBeim Saitenwechsel fängst du das Muster nicht neu an – du **setzt den Wechselschlag einfach fort**.\n\nBeispiel (3 Töne pro Saite):\n- 6. Saite: **ab–auf–ab**\n- 5. Saite: **auf–ab–auf**\n\nManchmal bewegt sich das Plektrum **zur nächsten Saite hin** (Outside Picking), manchmal **davon weg** (Inside Picking). Beides fühlt sich etwas anders an, aber du willst dich mit **beiden Varianten wohlfühlen**.",
+          "ja": "# 弦移動をきれいにする\n弦をまたぐときに、「ダウンからやり直し」にはしません。**オルタネイトをそのまま続ける**のがポイントです。\n\n例（1弦につき3音のパターン）：\n- 6弦：**ダウン→アップ→ダウン**\n- 5弦：**アップ→ダウン→アップ**\n\nこのとき、次の弦に**近づきながら**弾くこともあれば（いわゆる outside picking）、次の弦から**離れる向き**に弾くこともあります（inside picking）。どちらも少し感覚が違いますが、**両方とも自然に弾ける**ようにしていきましょう。",
+          "pt-BR": "# Trocando de corda sem bagunçar\nAo trocar de corda, você não recomeça a contagem da palhetada – **continua alternando**.\n\nExemplo (3 notas por corda):\n- 6ª corda: **baixo–cima–baixo**\n- 5ª corda: **cima–baixo–cima**\n\nÀs vezes a palheta se move **em direção** à próxima corda (outside picking) e às vezes **se afasta** dela (inside picking). A sensação muda um pouco, mas a ideia é ficar **confortável dos dois jeitos**.",
+          "es": "# Cambio de cuerda limpio\nAl cambiar de cuerda, no reinicies el patrón: **sigue alternando**.\n\nEjemplo (3 notas por cuerda):\n- 6ª cuerda: **abajo–arriba–abajo**\n- 5ª cuerda: **arriba–abajo–arriba**\n\nA veces la púa se mueve **hacia** la siguiente cuerda (outside picking) y otras **se aleja** de ella (inside picking). Se sienten un poco distinto, pero quieres estar **cómodo con ambos**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nTry this with any scale shape you like:\n\n1. Play **one note per beat** with a metronome, strict down–up. Focus on even sound.\n2. Then play **two notes per beat** (down–up, down–up…). Keep the hand relaxed.\n3. Then **four notes per beat**. If the picking starts to tense up, slow the tempo.\n4. Finally, run the scale **up and down once** without stopping the alternate pattern, even when you cross strings.\n\nStop the moment it gets messy, slow down, and rebuild the same **smooth motion**.",
+          "zh-Hans": "# 小练习\n用你熟悉的任意一个音阶指型来试试：\n\n1. 先配合节拍器，一拍**弹一个音**，严格下–上交替，专注让每个音听起来平均。\n2. 接着一拍**弹两个音**（下–上，下–上…），注意右手保持放松。\n3. 再试一拍**弹四个音**。如果感觉拨弦变得紧张，就把速度降下来。\n4. 最后，从低到高、再从高到低把整条音阶跑一遍，全程**不停下–上交替**，包括换弦的时候。\n\n一旦听起来开始乱，就立刻停下，放慢速度，用同样的**顺滑动作**重新搭好基础。",
+          "de": "# Kurze Übung\nDas kannst du mit jeder beliebigen Skalen-Form machen:\n\n1. Spiel mit Metronom **eine Note pro Schlag**, strikt ab–auf. Konzentrier dich auf gleichmäßigen Klang.\n2. Dann **zwei Noten pro Schlag** (ab–auf, ab–auf …). Halte die Hand entspannt.\n3. Danach **vier Noten pro Schlag**. Wenn der Anschlag verkrampft, reduziere das Tempo.\n4. Zum Schluss spielst du die Tonleiter **einmal hoch und wieder runter**, ohne den Wechselschlag zu unterbrechen – auch nicht beim Saitenwechsel.\n\nSobald es matschig wird, stopp, geh langsamer und bau wieder dieselbe **flüssige Bewegung** auf.",
+          "ja": "# さっとできる練習\n好きなスケール・ポジションを1つ選んで試してみましょう。\n\n1. メトロノームに合わせて、まずは**1拍につき1音**。ダウン→アップを守りながら、音量とタイミングをそろえます。\n2. 次に**1拍2音**（ダウン→アップ／ダウン→アップ…）。右手が力まないように意識します。\n3. さらに**1拍4音**にチャレンジ。ピッキングが固くなってきたら、すぐにテンポを落としましょう。\n4. 最後に、スケールを下から上、上から下へと**1往復**しながら、弦移動のあいだもオルタネイトを止めずに続けます。\n\n音がぐちゃっとし始めたら一度止めて、テンポを落とし、同じ**なめらかな動き**を取り戻すことを優先してください。",
+          "pt-BR": "# Prática rápida\nUse qualquer desenho de escala que você já conheça:\n\n1. Toque **uma nota por batida** com o metrônomo, sempre baixo–cima. Foque em deixar todas as notas iguais.\n2. Depois toque **duas notas por batida** (baixo–cima, baixo–cima…). Mantenha a mão solta.\n3. Em seguida, **quatro notas por batida**. Se perceber que a mão está travando, reduza o tempo.\n4. Por fim, suba e desça a escala **uma vez completa**, sem parar a palhetada alternada nem nos momentos de troca de corda.\n\nAssim que começar a embolar, pare, diminua o tempo e reconstrua o mesmo movimento **suave e contínuo**.",
+          "es": "# Práctica rápida\nHaz esto con cualquier dibujo de escala que te guste:\n\n1. Toca **una nota por pulso** con metrónomo, siempre abajo–arriba. Busca un sonido parejo.\n2. Luego **dos notas por pulso** (abajo–arriba, abajo–arriba…). Mantén la mano relajada.\n3. Después **cuatro notas por pulso**. Si la mano se tensa, baja el tempo.\n4. Al final, recorre la escala **una vez arriba y abajo**, sin romper el patrón de púa alternada, incluso al cambiar de cuerda.\n\nEn cuanto todo suene sucio, detente, baja la velocidad y reconstruye el mismo movimiento **suave y controlado**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "With solid alternate picking, your scale work stops being just a finger exercise and starts to feel like **real right-hand technique** you can use in songs.",
+          "zh-Hans": "当交替拨弦变得扎实可靠，你的音阶练习就不再只是“手指体操”，而会变成能在歌曲里随时拿出来用的**真实右手技术**。",
+          "de": "Mit einem soliden Wechselschlag sind Tonleitern nicht mehr nur „Fingertraining“, sondern echte **Rechte-Hand-Technik**, die du direkt in Songs einsetzen kannst.",
+          "ja": "オルタネイト・ピッキングが安定してくると、音階練習は単なる“指の体操”ではなく、曲の中でそのまま使える**本物の右手テクニック**になっていきます。",
+          "pt-BR": "Com a palhetada alternada bem firme, o estudo de escalas deixa de ser só “ginástica de dedo” e vira **técnica real de mão direita** para usar em músicas de verdade.",
+          "es": "Con una púa alternada sólida, el estudio de escalas deja de ser solo “gimnasia de dedos” y se convierte en **técnica real de mano derecha** para usar en tus canciones."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

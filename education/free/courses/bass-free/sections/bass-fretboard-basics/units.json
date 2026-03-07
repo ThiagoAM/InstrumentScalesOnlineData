@@ -1,0 +1,56 @@
+[
+  {
+    "id": "getting-oriented-neck",
+    "name": {
+      "values": {
+        "en": "Getting Oriented on the Neck",
+        "zh-Hans": "熟悉琴颈",
+        "de": "Orientierung auf dem Basshals",
+        "ja": "ネックに慣れる",
+        "pt-BR": "Orientando-se no braço do baixo",
+        "es": "Orientarse en el mástil"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn open strings and where notes repeat across strings.",
+        "zh-Hans": "学习空弦以及音符在不同弦上如何重复出现。",
+        "de": "Lerne die Leersaiten und wo sich Töne über die Saiten hinweg wiederholen.",
+        "ja": "開放弦と、音が弦をまたいでどこで繰り返されるかを学びましょう。",
+        "pt-BR": "Aprenda as cordas soltas e onde as notas se repetem entre as cordas.",
+        "es": "Aprende las cuerdas al aire y dónde se repiten las notas entre las cuerdas."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_unit_getting_oriented_neck" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "first-scales-for-bass",
+    "name": {
+      "values": {
+        "en": "First Scales for Bass",
+        "zh-Hans": "贝斯的第一个音阶练习",
+        "de": "Erste Skalen für Bass",
+        "ja": "ベースの最初のスケール",
+        "pt-BR": "Primeiras escalas para baixo",
+        "es": "Primeras escalas para bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play your first major and pentatonic patterns in low positions.",
+        "zh-Hans": "在低把位演奏你的第一个大调和五声音阶指型。",
+        "de": "Spiele deine ersten Dur- und Pentatonik-Patterns in tiefen Lagen.",
+        "ja": "低いポジションで、最初のメジャー・スケールとペンタトニックのパターンを弾きましょう。",
+        "pt-BR": "Toque seus primeiros desenhos de escala maior e pentatônica em posições graves.",
+        "es": "Toca tus primeros patrones de escala mayor y pentatónica en posiciones graves."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_unit_first_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

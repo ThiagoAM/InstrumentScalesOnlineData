@@ -1,0 +1,73 @@
+{
+  "id": "basic-rock-groove-using-root-and-fifth",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic rock groove with root and fifth\nIn this lesson you’ll build a **simple rock bass groove** using just the **root** and **fifth** of the chord.\n\nWe’ll use **A** as our root, so you get a solid, classic rock feel without worrying about too many notes.",
+          "zh-Hans": "# 用主音和五度做基础摇滚律动\n在本课中，你会用和弦的**主音（根音）**和**五度音**做一个简单的**摇滚贝斯律动**。\n\n我们用 **A** 作为主音，这样可以先把摇滚的感觉打稳，不用一下子管太多音。",
+          "de": "# Einfacher Rock-Groove mit Grundton und Quinte\nIn dieser Lektion baust du einen **simplen Rock-Bassgroove** nur mit **Grundton** und **Quinte**.\n\nWir nehmen **A** als Grundton, damit du einen soliden, klassischen Rock-Sound bekommst, ohne zu viele Töne im Kopf haben zu müssen.",
+          "ja": "# ルートと5度で作る基本ロック・グルーヴ\nこのレッスンでは、コードの**ルート（根音）**と**5度**だけを使って、シンプルな**ロック・ベースのグルーヴ**を作っていきます。\n\nルートには **A** を使って、音数を増やしすぎずに、まずはしっかりしたロック感を作るのが狙いです。",
+          "pt-BR": "# Groove rock básico com tônica e quinta\nNesta lição você vai montar um **groove de rock bem simples** usando só a **tônica (root)** e a **quinta** do acorde.\n\nVamos usar **A (Lá)** como tônica, pra ter aquele clima de rock clássico sem se preocupar com muitas notas.",
+          "es": "# Groove de rock básico con tónica y quinta\nEn esta lección vas a crear un **groove de rock sencillo** usando sólo la **tónica (root)** y la **quinta** del acorde.\n\nUsaremos **A (La)** como tónica, para lograr un feel de rock clásico sin preocuparte por demasiadas notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fretboard setup – root and fifth in A\nStandard tuning: E–A–D–G.\n\nWe’ll place the notes like this:\n- **Root A** – E string, 5th fret\n- **Fifth E** – A string, 7th fret\n\nKeep your hand around the **5th–7th frets**:\n- Index near 5th fret\n- Ring or pinky on 7th fret\n\nRight hand: alternate **index and middle** and let unused strings stay muted.",
+          "zh-Hans": "# 指板准备——A 和它的五度\n标准定弦：E–A–D–G。\n\n我们这样摆放音：\n- **主音 A** —— E 弦第5品\n- **五度 E** —— A 弦第7品\n\n左手大致待在 **第5–7品**：\n- 食指在第5品附近\n- 无名指或小指负责第7品\n\n右手用**食指和中指交替拨弦**，同时让没用到的弦保持消音。",
+          "de": "# Griffbrett-Setup – Grundton und Quinte in A\nStandardstimmung: E–A–D–G.\n\nWir legen die Töne so hin:\n- **Grundton A** – E-Saite, 5. Bund\n- **Quinte E** – A-Saite, 7. Bund\n\nDie linke Hand bleibt um den **5.–7. Bund**:\n- Zeigefinger in der Nähe des 5. Bundes\n- Ringfinger oder kleiner Finger im 7. Bund\n\nRechte Hand: **Zeige- und Mittelfinger im Wechsel** und die unbenutzten Saiten gut abdämpfen.",
+          "ja": "# ポジションの準備 – Aとその5度\nスタンダード・チューニング：E–A–D–G。\n\n今回は次の配置で弾きます：\n- **ルートA** – E弦5フレット\n- **5度E** – A弦7フレット\n\n左手はだいたい**5〜7フレット**のあたりにまとめておきます：\n- 人差し指：5フレット付近\n- 薬指または小指：7フレット\n\n右手は**人差し指・中指のオルタネイト**で、使っていない弦はしっかりミュートしましょう。",
+          "pt-BR": "# Posição no braço – tônica e quinta em A\nAfinação padrão: E–A–D–G.\n\nVamos colocar as notas assim:\n- **Tônica A** – corda E, 5ª casa\n- **Quinta E** – corda A, 7ª casa\n\nDeixe a mão esquerda na região da **5ª a 7ª casa**:\n- Indicador perto da 5ª\n- Anelar ou mindinho na 7ª\n\nNa mão direita, alterne **indicador e médio** e mantenha as cordas que não estão tocando bem abafadas.",
+          "es": "# Configuración en el mástil – tónica y quinta en A\nAfinación estándar: E–A–D–G.\n\nUbicaremos las notas así:\n- **Tónica A** – cuerda E, traste 5\n- **Quinta E** – cuerda A, traste 7\n\nLa mano izquierda se queda en la zona de los **trastes 5–7**:\n- Índice cerca del traste 5\n- Anular o meñique en el traste 7\n\nEn la mano derecha, alterna **índice y medio** y mantén bien muteadas las cuerdas que no usas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove 1 – simple quarter notes\nFirst, lock in the **basic pulse** with quarter notes.\n\nCount **“1 2 3 4”** and play:\n- Beat 1 – **A** (root)\n- Beat 2 – **A** (root)\n- Beat 3 – **E** (fifth)\n- Beat 4 – **E** (fifth)\n\nSo one bar looks like:\n> A – A – E – E\n\nPlay this slowly with a metronome and focus on **even volume** and **steady time**.",
+          "zh-Hans": "# Groove 1 —— 简单的四分音符\n先用四分音符把**基本脉冲**锁住。\n\n嘴里数 **“1 2 3 4”**，然后这样弹：\n- 拍子 1 —— **A**（主音）\n- 拍子 2 —— **A**（主音）\n- 拍子 3 —— **E**（五度）\n- 拍子 4 —— **E**（五度）\n\n也就是一小节：\n> A – A – E – E\n\n配合节拍器慢慢练，注意**音量要均匀**、节奏要**稳**。",
+          "de": "# Groove 1 – einfache Viertelnoten\nZuerst stabilisieren wir den **Grundpuls** mit Viertelnoten.\n\nZähle **„1 2 3 4“** und spiele:\n- Schlag 1 – **A** (Grundton)\n- Schlag 2 – **A** (Grundton)\n- Schlag 3 – **E** (Quinte)\n- Schlag 4 – **E** (Quinte)\n\nAlso ein Takt:\n> A – A – E – E\n\nSpiel das langsam mit Metronom und achte auf **gleichmäßige Lautstärke** und **stabile Zeit**.",
+          "ja": "# グルーヴ1 – シンプルな4分音\nまずは4分音で**基本の拍**を固めます。\n\n**「1 2 3 4」** とカウントしながら、こう弾きます：\n- 1拍目 – **A**（ルート）\n- 2拍目 – **A**（ルート）\n- 3拍目 – **E**（5度）\n- 4拍目 – **E**（5度）\n\n1小節にすると：\n> A – A – E – E\n\nメトロノームに合わせてゆっくり弾き、**音量のそろい方**と**リズムの安定**に集中しましょう。",
+          "pt-BR": "# Groove 1 – Semínimas simples\nPrimeiro, vamos travar o **pulso básico** com semínimas.\n\nConte **“1 2 3 4”** e toque:\n- Tempo 1 – **A** (tônica)\n- Tempo 2 – **A** (tônica)\n- Tempo 3 – **E** (quinta)\n- Tempo 4 – **E** (quinta)\n\nOu seja, um compasso assim:\n> A – A – E – E\n\nToque devagar com metrônomo e foque em **volume uniforme** e **tempo bem firme**.",
+          "es": "# Groove 1 – Negras simples\nPrimero vamos fijar el **pulso básico** con negras.\n\nCuenta **“1 2 3 4”** y toca:\n- Tiempo 1 – **A** (tónica)\n- Tiempo 2 – **A** (tónica)\n- Tiempo 3 – **E** (quinta)\n- Tiempo 4 – **E** (quinta)\n\nO sea, un compás:\n> A – A – E – E\n\nTócalo despacio con metrónomo y concéntrate en un **volumen parejo** y un **tiempo sólido**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove 2 – driving eighth-note rock feel\nNow turn it into a more **driving rock groove** with eighth notes.\n\nCount **“1 & 2 & 3 & 4 &”** and play:\n- 1 & – **A A** (root twice)\n- 2 & – **A A** (root twice)\n- 3 & – **E E** (fifth twice)\n- 4 & – **E E** (fifth twice)\n\nSo the bar is:\n> A A – A A – E E – E E\n\nKeep your right hand **alternating i–m–i–m…** and let each note be short and punchy (slight muting with both hands).",
+          "zh-Hans": "# Groove 2 —— 带推动感的八分音符摇滚\n现在把它变成更有**推动感的摇滚律动**，用八分音符来弹。\n\n嘴里数 **“1 & 2 & 3 & 4 &”**，然后这样弹：\n- 1 & —— **A A**（主音两下）\n- 2 & —— **A A**（主音两下）\n- 3 & —— **E E**（五度两下）\n- 4 & —— **E E**（五度两下）\n\n整小节就是：\n> A A – A A – E E – E E\n\n右手持续 **i–m–i–m…** 交替拨弦，两只手一起轻轻做点消音，让每个音**短而有力**。",
+          "de": "# Groove 2 – treibender Rock-Feel mit Achteln\nJetzt machen wir daraus einen **treibenderen Rock-Groove** mit Achteln.\n\nZähle **„1 & 2 & 3 & 4 &“** und spiele:\n- 1 & – **A A** (zweimal Grundton)\n- 2 & – **A A** (zweimal Grundton)\n- 3 & – **E E** (zweimal Quinte)\n- 4 & – **E E** (zweimal Quinte)\n\nDer ganze Takt:\n> A A – A A – E E – E E\n\nRechte Hand bleibt im Wechsel **i–m–i–m…**, und die Töne dürfen ruhig **kurz und knackig** sein (mit leichtem Dämpfen beider Hände).",
+          "ja": "# グルーヴ2 – 8分音でドライブ感アップ\n次は、8分音を使ってもう少し**ドライブ感のあるロック・グルーヴ**にします。\n\n**「1 & 2 & 3 & 4 &」** とカウントしながら：\n- 1 & – **A A**（ルートを2回）\n- 2 & – **A A**（ルートを2回）\n- 3 & – **E E**（5度を2回）\n- 4 & – **E E**（5度を2回）\n\n1小節はこうなります：\n> A A – A A – E E – E E\n\n右手は **i–m–i–m…** のオルタネイトを崩さず、両手で軽くミュートして、音を**短くタイト**に出すとロックっぽくなります。",
+          "pt-BR": "# Groove 2 – Rock levado em colcheias\nAgora vamos transformar isso num groove de rock **mais “andando”** com colcheias.\n\nConte **“1 e 2 e 3 e 4 e”** e toque:\n- 1 e – **A A** (tônica duas vezes)\n- 2 e – **A A** (tônica duas vezes)\n- 3 e – **E E** (quinta duas vezes)\n- 4 e – **E E** (quinta duas vezes)\n\nO compasso fica:\n> A A – A A – E E – E E\n\nMantenha a mão direita alternando **i–m–i–m…** e deixe cada nota **curta e estalada**, usando um pouco de abafamento com as duas mãos.",
+          "es": "# Groove 2 – Feel de rock con corcheas\nAhora lo convertimos en un groove de rock **más empujado** con corcheas.\n\nCuenta **“1 y 2 y 3 y 4 y”** (o “1 & 2 &…”) y toca:\n- 1 y – **A A** (tónica dos veces)\n- 2 y – **A A** (tónica dos veces)\n- 3 y – **E E** (quinta dos veces)\n- 4 y – **E E** (quinta dos veces)\n\nEl compás queda así:\n> A A – A A – E E – E E\n\nMantén la mano derecha alternando **i–m–i–m…** y haz las notas **cortas y con pegada**, con un poco de muteo en ambas manos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. **Warm-up:** 1–2 minutes of alternating i–m on the open E string.\n2. Play **Groove 1 (quarter notes)** for 8 bars, focusing on solid time.\n3. Switch to **Groove 2 (eighth notes)** for 8 bars without stopping.\n4. Loop 4 bars of Groove 1 + 4 bars of Groove 2 and try changing **how hard you dig in** to feel different dynamics.\n\nOnce this feels easy, you’re ready to move this same root–fifth idea to other keys and songs.",
+          "zh-Hans": "# 快速练习流程\n1. **热身：** 在空 E 弦上用 i–m 交替拨弦 1–2 分钟。\n2. 练习 **Groove 1（四分音符）** 8 小节，重点是节奏稳。\n3. 不停下来，直接切换到 **Groove 2（八分音符）** 再弹 8 小节。\n4. 循环练习：4 小节 Groove 1 + 4 小节 Groove 2，试着改变**用力大小**，感受不同的动态和力度。\n\n当这一切变得轻松之后，你就可以把同样的 **主音+五度** 思路搬到其它调和歌曲里用了。",
+          "de": "# Kurze Übe-Routine\n1. **Warm-up:** 1–2 Minuten Wechselschlag i–m auf der leeren E-Saite.\n2. Spiele **Groove 1 (Viertel)** 8 Takte lang, mit Fokus auf stabilem Timing.\n3. Wechsle ohne Pause zu **Groove 2 (Achtel)** und spiel weitere 8 Takte.\n4. Wiederhole: 4 Takte Groove 1 + 4 Takte Groove 2 und variiere dabei, **wie kräftig du anschlägst**, um verschiedene Dynamiken zu spüren.\n\nWenn sich das entspannt anfühlt, bist du bereit, diese **Grundton–Quinte-Idee** in andere Tonarten und Songs zu übertragen.",
+          "ja": "# かんたん練習ルーティン\n1. **ウォームアップ：** 開放E弦で i–m のオルタネイトを1〜2分。\n2. **グルーヴ1（4分音）** を8小節、タイムの安定だけに集中して弾く。\n3. 止まらずそのまま **グルーヴ2（8分音）** に切り替えて、さらに8小節。\n4. 4小節グルーヴ1 + 4小節グルーヴ2 をループしながら、**ピッキングの強さ**を変えてダイナミクスの違いを感じてみる。\n\nこれがラクに感じられるようになったら、同じ **ルート＋5度** のアイデアを他のキーや曲にもどんどん移していけます。",
+          "pt-BR": "# Rotina rápida de prática\n1. **Aquecimento:** 1–2 minutos alternando i–m na corda E solta.\n2. Toque o **Groove 1 (semínimas)** por 8 compassos, focando só em manter o tempo firme.\n3. Sem parar, mude para o **Groove 2 (colcheias)** por mais 8 compassos.\n4. Depois, repita 4 compassos de Groove 1 + 4 de Groove 2 em loop, mudando **a intensidade da mão direita** pra sentir diferentes dinâmicas.\n\nQuando isso ficar fácil, você está pronto pra levar essa ideia de **tônica + quinta** pra outros tons e músicas.",
+          "es": "# Rutina rápida de práctica\n1. **Calentamiento:** 1–2 minutos alternando i–m en la cuerda E al aire.\n2. Toca el **Groove 1 (negras)** durante 8 compases, centrado en un tiempo sólido.\n3. Sin parar, cambia al **Groove 2 (corcheas)** durante otros 8 compases.\n4. Luego repite 4 compases de Groove 1 + 4 de Groove 2 en bucle, cambiando **la fuerza del ataque** para sentir distintas dinámicas.\n\nCuando esto se sienta fácil, estarás listo para llevar esta idea de **tónica + quinta** a otras tonalidades y canciones."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

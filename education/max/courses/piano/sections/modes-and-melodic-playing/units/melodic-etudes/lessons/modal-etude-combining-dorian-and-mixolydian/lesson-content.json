@@ -1,0 +1,73 @@
+{
+  "id": "modal-etude-combining-dorian-and-mixolydian",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Modal etude: Dorian into Mixolydian\nIn this etude you connect two modes that live inside **C major**:\n- **D Dorian** (over Dm7)\n- **G Mixolydian** (over G7)\n\nYou’ll play a short four-bar melody that shifts from Dm7 to G7 while staying on the white keys.",
+          "zh-Hans": "# 调式练习：从D多利亚到G混合利底亚\n在这个练习中，你会连接同属 **C大调** 的两个调式：\n- **D多利亚**（弹在 Dm7 上）\n- **G混合利底亚**（弹在 G7 上）\n\n你将弹一段简短的四小节旋律，在 Dm7 和 G7 之间切换，但始终只用白键。",
+          "de": "# Modal-Etüde: Dorisch in Mixolydisch\nIn dieser Etüde verbindest du zwei Modi innerhalb von **C-Dur**:\n- **D-Dorisch** (über Dm7)\n- **G-Mixolydisch** (über G7)\n\nDu spielst eine kurze viertaktige Melodie, die von Dm7 nach G7 wechselt und trotzdem nur auf den weißen Tasten bleibt.",
+          "ja": "# モード・エチュード：ドリアンからミクソリディアンへ\nこのエチュードでは、**Cメジャー**の中にある2つのモードをつなげます。\n- **Dドリアン**（Dm7 上で使用）\n- **Gミクソリディアン**（G7 上で使用）\n\n白鍵だけを使いながら、Dm7 から G7 へ移っていく4小節の短いメロディを弾きます。",
+          "pt-BR": "# Etude modal: Dórico para Mixolídio\nNesta etude você conecta dois modos que vivem dentro de **Dó maior (C major)**:\n- **D Dórico** (sobre Dm7)\n- **G Mixolídio** (sobre G7)\n\nVocê vai tocar uma melodia curta de quatro compassos que muda de Dm7 para G7 usando apenas as teclas brancas.",
+          "es": "# Etude modal: de dórico a mixolidio\nEn esta etude conectas dos modos que viven dentro de **Do mayor (C mayor)**:\n- **Re dórico** (sobre Dm7)\n- **Sol mixolidio** (sobre G7)\n\nVas a tocar una melodía corta de cuatro compases que pasa de Dm7 a G7 usando solo las teclas blancas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand setup\n- Sit so that **middle C** is roughly in front of your nose.\n- **Right hand**: thumb (1) on **D above middle C**, cover D–A with fingers 1–5.\n- **Left hand**: play simple roots and shells:\n  - Over Dm7: **D** and **A** (or D and F).\n  - Over G7: **G** and **F** (or G and B).\n\nKeep both hands relaxed and let your wrist float, not collapse.",
+          "zh-Hans": "# 手型与位置\n- 坐下时让**中央C**大致在你鼻子正前方。\n- **右手**：拇指（1指）放在中央C上方的 **D**，用1–5指覆盖从D到A的区域。\n- **左手**：弹简单的根音和结构音：\n  - 在 Dm7 上：弹 **D** 和 **A**（或 D 和 F）。\n  - 在 G7 上：弹 **G** 和 **F**（或 G 和 B）。\n\n双手保持放松，让手腕略微悬空，不要塌下去。",
+          "de": "# Handhaltung\n- Setz dich so hin, dass **mittleres C** ungefähr vor deiner Nase liegt.\n- **Rechte Hand**: Daumen (1) auf dem **D über dem mittleren C**, Finger 1–5 decken den Bereich D–A ab.\n- **Linke Hand**: spiele einfache Grundtöne und „Shells“:\n  - Über Dm7: **D** und **A** (oder D und F).\n  - Über G7: **G** und **F** (oder G und H/B).\n\nHalte beide Hände entspannt und lass das Handgelenk frei schweben, nicht einknicken.",
+          "ja": "# 手のセットアップ\n- **中央ド (middle C)** がちょうど鼻の前あたりにくるように座ります。\n- **右手**：親指（1の指）を中央ドの上の **レ (D)** に置き、1〜5の指で D〜A の範囲をカバーします。\n- **左手**：シンプルなルートとシェルを弾きます。\n  - Dm7 では：**D** と **A**（または D と F）。\n  - G7 では：**G** と **F**（または G と B）。\n\n両手ともリラックスさせ、手首がつぶれないように軽く浮かせておきましょう。",
+          "pt-BR": "# Posição das mãos\n- Sente-se de modo que o **Dó central (middle C)** fique mais ou menos na linha do seu nariz.\n- **Mão direita**: polegar (1) no **D acima do Dó central**, cobrindo de D até A com os dedos 1–5.\n- **Mão esquerda**: toque apenas as tônicas e \"shells\":\n  - Sobre Dm7: **D** e **A** (ou D e F).\n  - Sobre G7: **G** e **F** (ou G e B).\n\nMantenha as duas mãos soltas e deixe o pulso flutuar, sem afundar.",
+          "es": "# Colocación de las manos\n- Siéntate de forma que el **Do central (middle C)** quede más o menos frente a tu nariz.\n- **Mano derecha**: pulgar (1) en el **Re (D) sobre el Do central**, cubriendo de D a A con los dedos 1–5.\n- **Mano izquierda**: toca raíces y \"shells\" sencillos:\n  - Sobre Dm7: **D** y **A** (o D y F).\n  - Sobre G7: **G** y **F** (o G y B/SI).\n\nMantén ambas manos relajadas y deja que la muñeca flote un poco, sin hundirse."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The etude line\nEach chord lasts **two bars** in 4/4.\n\n**Bars 1–2 – D Dorian over Dm7**\nRight hand (all white keys):\n- Bar 1: D–E–F–G going up (one note per beat), then A–G–F–E coming down.\n- Bar 2: repeat the same idea.\n\nLeft hand:\n- Hold a low **D** in whole notes, or play D–A–D–A in quarter notes.\n\n**Bars 3–4 – G Mixolydian over G7**\nRight hand:\n- Bar 3: G–A–B–C up, then D–C–B–A down.\n- Bar 4: repeat the same idea.\n\nLeft hand:\n- Hold a low **G**, or play G–D–G–D in quarter notes.",
+          "zh-Hans": "# 练习旋律\n每个和弦在 4/4 拍中占 **两小节**。\n\n**第1–2小节：Dm7 上的 D多利亚**\n右手（全是白键）：\n- 第1小节：D–E–F–G 上行（每拍一个音），然后 A–G–F–E 下行。\n- 第2小节：重复同样的想法。\n\n左手：\n- 可以用全音符按住低音 **D**，或者用四分音符弹 D–A–D–A。\n\n**第3–4小节：G7 上的 G混合利底亚**\n右手：\n- 第3小节：G–A–B–C 上行，然后 D–C–B–A 下行。\n- 第4小节：重复同样的想法。\n\n左手：\n- 可以用全音符按住低音 **G**，或者用四分音符弹 G–D–G–D。",
+          "de": "# Die Etüden-Linie\nJeder Akkord dauert **zwei Takte** im 4/4-Takt.\n\n**Takte 1–2 – D-Dorisch über Dm7**\nRechte Hand (nur weiße Tasten):\n- Takt 1: D–E–F–G aufwärts (eine Note pro Schlag), dann A–G–F–E abwärts.\n- Takt 2: dieselbe Idee wiederholen.\n\nLinke Hand:\n- Halte ein tiefes **D** in ganzen Noten oder spiele D–A–D–A in Vierteln.\n\n**Takte 3–4 – G-Mixolydisch über G7**\nRechte Hand:\n- Takt 3: G–A–B/H–C aufwärts, dann D–C–B/H–A abwärts.\n- Takt 4: dieselbe Idee wiederholen.\n\nLinke Hand:\n- Halte ein tiefes **G** oder spiele G–D–G–D in Vierteln.",
+          "ja": "# エチュードのフレーズ\nそれぞれのコードは 4/4 拍で**2小節ずつ**続きます。\n\n**1〜2小節目：Dm7 上の Dドリアン**\n右手（すべて白鍵）：\n- 1小節目：D–E–F–G と上昇（1拍に1音）、続けて A–G–F–E と下降。\n- 2小節目：同じアイデアをくり返します。\n\n左手：\n- 低い **D** を全音符で伸ばしてもよいですし、D–A–D–A を4分音符で弾いてもOKです。\n\n**3〜4小節目：G7 上の Gミクソリディアン**\n右手：\n- 3小節目：G–A–B–C と上昇し、D–C–B–A と下降します。\n- 4小節目：同じアイデアをくり返します。\n\n左手：\n- 低い **G** を全音符で伸ばすか、G–D–G–D を4分音符で弾きましょう。",
+          "pt-BR": "# A linha da etude\nCada acorde dura **dois compassos** em 4/4.\n\n**Compassos 1–2 – D Dórico sobre Dm7**\nMão direita (todas as teclas brancas):\n- Compasso 1: D–E–F–G subindo (uma nota por tempo), depois A–G–F–E descendo.\n- Compasso 2: repita a mesma ideia.\n\nMão esquerda:\n- Segure um **D** grave em semibreves, ou toque D–A–D–A em semínimas.\n\n**Compassos 3–4 – G Mixolídio sobre G7**\nMão direita:\n- Compasso 3: G–A–B–C subindo, depois D–C–B–A descendo.\n- Compasso 4: repita a mesma ideia.\n\nMão esquerda:\n- Segure um **G** grave, ou toque G–D–G–D em semínimas.",
+          "es": "# La línea de la etude\nCada acorde dura **dos compases** en 4/4.\n\n**Compases 1–2 – Re dórico sobre Dm7**\nMano derecha (solo teclas blancas):\n- Compás 1: D–E–F–G subiendo (una nota por pulso) y luego A–G–F–E bajando.\n- Compás 2: repite la misma idea.\n\nMano izquierda:\n- Mantén un **D** grave en redondas o toca D–A–D–A en negras.\n\n**Compases 3–4 – Sol mixolidio sobre G7**\nMano derecha:\n- Compás 3: G–A–B–C subiendo y luego D–C–B–A bajando.\n- Compás 4: repite la misma idea.\n\nMano izquierda:\n- Mantén un **G** grave o toca G–D–G–D en negras."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# How to practice\n1. Start around **♩ = 60** and keep the rhythm absolutely steady.\n2. Aim for a **singing tone** in the right hand and a soft, supportive left hand.\n3. Listen to the color change when you move from Dm7 (D Dorian) to G7 (G Mixolydian).\n4. When it feels easy, improvise small variations but keep:\n   - Dorian ideas over Dm7\n   - Mixolydian ideas over G7",
+          "zh-Hans": "# 练习方法\n1. 先从大约 **♩ = 60** 开始，把节奏保持得非常稳定。\n2. 右手追求**歌唱般的音色**，左手轻一点，只做支撑。\n3. 在从 Dm7（D多利亚）走向 G7（G混合利底亚）时，认真听颜色的变化。\n4. 当这段变得轻松之后，可以开始做一点小即兴，但要保持：\n   - 在 Dm7 上仍然用多利亚式的想法\n   - 在 G7 上仍然用混合利底亚式的想法",
+          "de": "# So übst du die Etüde\n1. Starte bei etwa **♩ = 60** und halte den Rhythmus absolut gleichmäßig.\n2. Ziele auf einen **singenden Klang** in der rechten Hand und eine weiche, stützende linke Hand.\n3. Höre auf die Farbänderung, wenn du von Dm7 (D-Dorisch) zu G7 (G-Mixolydisch) wechselst.\n4. Wenn es sich leicht anfühlt, improvisiere kleine Variationen, aber behalte bei:\n   - dorische Ideen über Dm7\n   - mixolydische Ideen über G7",
+          "ja": "# 練習のポイント\n1. まずは **♩ = 60** 前後から始めて、リズムをとにかく安定させます。\n2. 右手は**よく歌う音色**を目指し、左手はやわらかく伴奏に徹します。\n3. Dm7（Dドリアン）から G7（Gミクソリディアン）に移るときの、響きの変化を注意して聴きましょう。\n4. 余裕が出てきたら、少しずつフレーズを変えて即興してみます。ただし：\n   - Dm7 ではドリアン的なアイデア\n   - G7 ではミクソリディアン的なアイデア\n   をキープするようにします。",
+          "pt-BR": "# Como estudar\n1. Comece por volta de **♩ = 60** e mantenha o pulso totalmente estável.\n2. Busque um **som cantado** na mão direita e uma mão esquerda suave, só dando apoio.\n3. Preste atenção na mudança de cor quando você sai de Dm7 (D Dórico) e vai para G7 (G Mixolídio).\n4. Quando estiver fácil, comece a improvisar pequenas variações, mas mantendo:\n   - ideias dórico sobre Dm7\n   - ideias mixolídio sobre G7",
+          "es": "# Cómo practicar\n1. Empieza alrededor de **♩ = 60** y mantén el pulso totalmente estable.\n2. Busca un **tono cantado** en la mano derecha y una mano izquierda suave, que solo acompañe.\n3. Escucha el cambio de color cuando pasas de Dm7 (Re dórico) a G7 (Sol mixolidio).\n4. Cuando se sienta fácil, improvisa pequeñas variaciones pero mantén:\n   - ideas dóricas sobre Dm7\n   - ideas mixolidias sobre G7"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this etude feels comfortable, try moving the same idea to other keys and notice how the Dorian → Mixolydian shift keeps its character even as the notes change.",
+          "zh-Hans": "当这段练习变得熟练自然后，可以把同样的想法移到其他调上，看看在音高改变时，多利亚 → 混合利底亚的那种色彩感是如何保持下来的。",
+          "de": "Wenn sich diese Etüde vertraut anfühlt, übertrage dieselbe Idee in andere Tonarten und achte darauf, wie der Wechsel Dorisch → Mixolydisch seinen Charakter behält, auch wenn sich die Töne ändern.",
+          "ja": "このエチュードがラクに弾けるようになったら、同じアイデアを別の調にも移してみましょう。音は変わっても、「ドリアン → ミクソリディアン」のキャラクターがそのまま残っていることに注目してみてください。",
+          "pt-BR": "Quando essa etude estiver confortável, experimente levar a mesma ideia para outros tons e perceba como a passagem de Dórico → Mixolídio mantém o caráter, mesmo com notas diferentes.",
+          "es": "Cuando esta etude se sienta cómoda, prueba a llevar la misma idea a otras tonalidades y fíjate en cómo el cambio de dórico → mixolidio mantiene su carácter aunque cambien las notas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

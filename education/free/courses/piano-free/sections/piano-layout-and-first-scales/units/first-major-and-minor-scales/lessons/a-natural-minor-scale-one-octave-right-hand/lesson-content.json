@@ -1,0 +1,73 @@
+{
+  "id": "a-natural-minor-scale-one-octave-right-hand",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A natural minor – one octave (right hand)\nIn this lesson you’ll play a **one-octave A natural minor scale** with your **right hand**, starting on the **A above middle C**.\n\nA natural minor uses the same notes as C major, but A feels like the “home” note.",
+          "zh-Hans": "# A自然小调——右手一组音\n在本课中，你会用**右手**从**中央C上方的那个A**开始，弹一组音的 **A自然小调音阶**。\n\nA自然小调和C大调用的是同样的音，但A会听起来像“家”一样的落点。",
+          "de": "# A natürlich Moll – eine Oktave (rechte Hand)\nIn dieser Lektion spielst du eine **einoktavige A-Natürlich-Moll-Tonleiter** mit der **rechten Hand**, beginnend auf dem **A über dem mittleren C**.\n\nA natürlich Moll benutzt dieselben Töne wie C-Dur, aber A fühlt sich wie der „Zielton“ an.",
+          "ja": "# Aナチュラル・マイナー – 右手で1オクターブ\nこのレッスンでは、**ミドルCの1つ上のA**から始めて、右手で**Aナチュラル・マイナー・スケールを1オクターブ**弾きます。\n\n音はCメジャーと同じですが、「帰ってきた感じ」がするのはAの音です。",
+          "pt-BR": "# Escala de Lá menor natural – uma oitava (mão direita)\nNesta lição você vai tocar uma **escala de Lá menor natural de uma oitava** com a **mão direita**, começando no **Lá logo acima do Dó central**.\n\nLá menor natural usa as mesmas notas de Dó maior, mas o “ponto de chegada” passa a ser o Lá.",
+          "es": "# Escala de La menor natural – una octava (mano derecha)\nEn esta lección vas a tocar una **escala de La menor natural de una octava** con la **mano derecha**, empezando en el **La justo por encima del Do central**.\n\nLa menor natural usa las mismas notas que Do mayor, pero la nota que se siente como “casa” es La."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand position\n- Locate **middle C**, then find the **A just above it** (C–D–E–F–G–A)\n- Place your **thumb (1)** on that A\n- Let fingers **2–3–4–5** rest on B–C–D–E\n- Keep your fingers relaxed and slightly curved, wrist floating above the keys\n\nMake sure your hand feels balanced, not stretched or tense.",
+          "zh-Hans": "# 手型位置\n- 先找到**中央C**，然后往右数到**上方的那个A**（C–D–E–F–G–A）\n- 把**1指（大拇指）**放在这个A上\n- **2–3–4–5 指**自然落在右边的 B–C–D–E 上\n- 手指放松、略微弯曲，手腕漂浮在键盘上，不要塌下去\n\n感觉一下手是否平衡，不要让手指被撑得很紧。",
+          "de": "# Handposition\n- Finde zuerst das **mittlere C**, dann das **A direkt darüber** (C–D–E–F–G–A)\n- Lege den **Daumen (Finger 1)** auf dieses A\n- Lass die Finger **2–3–4–5** auf B–C–D–E liegen\n- Finger locker und leicht gekrümmt, Handgelenk schwebend über den Tasten\n\nAchte darauf, dass die Hand sich ausgeglichen anfühlt – nicht verkrampft oder überstreckt.",
+          "ja": "# 手のポジション\n- まず**ミドルC**を見つけ、そこから右に進んで**その上のA**（C–D–E–F–G–A）を探します\n- そのAに**1の指（親指）**を置く\n- **2・3・4・5の指**は、その右側のB・C・D・Eの上に軽く乗せる\n- 指先はゆるく丸めて、手首は鍵盤の上にふわっと浮かせておきます\n\n手がムリに伸びていないか、力んでいないかを確認しましょう。",
+          "pt-BR": "# Posição da mão\n- Encontre o **Dó central** e, a partir dele, conte até o **Lá logo acima** (C–D–E–F–G–A)\n- Coloque o **polegar (dedo 1)** nesse Lá\n- Deixe os dedos **2–3–4–5** apoiados em B–C–D–E\n- Mantenha os dedos relaxados e levemente curvados, com o punho flutuando sobre as teclas\n\nVeja se a mão está equilibrada, sem esticar demais nem ficar tensa.",
+          "es": "# Posición de la mano\n- Encuentra el **Do central** y, desde ahí, localiza el **La que está justo encima** (C–D–E–F–G–A)\n- Coloca el **pulgar (dedo 1)** en ese La\n- Deja los dedos **2–3–4–5** sobre B–C–D–E\n- Mantén los dedos relajados y ligeramente curvados, con la muñeca flotando sobre las teclas\n\nComprueba que la mano se sienta equilibrada, sin tensión ni estirarse demasiado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fingering – going up (ascending)\nWe’ll play from **A up to the next A** using standard right-hand minor fingering (same pattern as C major):\n\nNotes and fingers:\n- A – finger **1** (thumb)\n- B – finger **2**\n- C – finger **3**\n- D – finger **1** (thumb crosses under)\n- E – finger **2**\n- F – finger **3**\n- G – finger **4**\n- A – finger **5**\n\nTake your time crossing the thumb between C and D so the hand doesn’t jerk or tense up.",
+          "zh-Hans": "# 向上指法（上行）\n我们从一个 **A 弹到上方的 A**，右手用和C大调相同的标准指法：\n\n音和指法：\n- A – **1指**（大拇指）\n- B – **2指**\n- C – **3指**\n- D – **1指**（大拇指从下面穿过去）\n- E – **2指**\n- F – **3指**\n- G – **4指**\n- A – **5指**\n\n在 C 到 D 换指时，慢一点，让大拇指穿过去的动作平顺，不要突然用力。",
+          "de": "# Fingersatz – aufwärts\nWir spielen von **A bis zum nächsten A** mit dem Standard-Fingersatz (gleiche Bewegung wie in C-Dur):\n\nTöne und Finger:\n- A – Finger **1** (Daumen)\n- B (H) – Finger **2**\n- C – Finger **3**\n- D – Finger **1** (Daumen geht unten durch)\n- E – Finger **2**\n- F – Finger **3**\n- G – Finger **4**\n- A – Finger **5**\n\nNimm dir Zeit für den Daumenwechsel zwischen C und D, damit die Hand locker bleibt und nicht „ruckt“. ",
+          "ja": "# 上行のフィンガリング\n**A から上のAまで**、Cメジャーと同じ指使いのパターンで弾きます：\n\n音と指番号：\n- A – **1の指**（親指）\n- B – **2の指**\n- C – **3の指**\n- D – **1の指**（親指を下からくぐらせる）\n- E – **2の指**\n- F – **3の指**\n- G – **4の指**\n- A – **5の指**\n\nC から D に行くときの**親指のクロス**を、あわてずゆっくり行いましょう。手がガクッと動かないように意識します。",
+          "pt-BR": "# Digitação – subindo (ascendente)\nVamos do **Lá até o próximo Lá** usando a mesma “lógica” de digitação da escala de Dó maior:\n\nNotas e dedos:\n- A – dedo **1** (polegar)\n- B – dedo **2**\n- C – dedo **3**\n- D – dedo **1** (polegar passa por baixo)\n- E – dedo **2**\n- F – dedo **3**\n- G – dedo **4**\n- A – dedo **5**\n\nCapriche na passagem do polegar entre C e D, fazendo o movimento de forma calma para não travar a mão.",
+          "es": "# Digitación – subiendo (ascendente)\nVamos de **La al siguiente La** usando la misma lógica de digitación que en la escala de Do mayor:\n\nNotas y dedos:\n- A – dedo **1** (pulgar)\n- B – dedo **2**\n- C – dedo **3**\n- D – dedo **1** (pulgar cruza por debajo)\n- E – dedo **2**\n- F – dedo **3**\n- G – dedo **4**\n- A – dedo **5**\n\nTómate tu tiempo en el cruce del pulgar entre C y D para que la mano no se tense ni dé tirones."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fingering – coming down (descending)\nNow come back **from the top A down to the starting A**:\n\nNotes and fingers:\n- A – finger **5**\n- G – finger **4**\n- F – finger **3**\n- E – finger **2**\n- D – finger **1**\n- C – finger **3** (3 crosses over)\n- B – finger **2**\n- A – finger **1**\n\nThe crossing happens between D and C: after D with the thumb, let **finger 3 step over** to C smoothly.",
+          "zh-Hans": "# 向下指法（下行）\n现在从**上方的 A 回到起始的 A**：\n\n音和指法：\n- A – **5指**\n- G – **4指**\n- F – **3指**\n- E – **2指**\n- D – **1指**\n- C – **3指**（3指从上面跨过去）\n- B – **2指**\n- A – **1指**\n\n换指发生在 D 和 C 之间：用1指弹完 D 后，让**3指轻轻从上面跨到 C**，动作要顺滑。",
+          "de": "# Fingersatz – abwärts\nJetzt gehst du vom **oberen A zurück zum Ausgangs-A**:\n\nTöne und Finger:\n- A – Finger **5**\n- G – Finger **4**\n- F – Finger **3**\n- E – Finger **2**\n- D – Finger **1**\n- C – Finger **3** (3 geht oben drüber)\n- B (H) – Finger **2**\n- A – Finger **1**\n\nDer Wechsel passiert zwischen D und C: Nach dem D mit dem Daumen lässt du **Finger 3 weich über die Hand** nach C wechseln.",
+          "ja": "# 下行のフィンガリング\nこんどは、**上のAから最初のAまで**戻ります：\n\n音と指番号：\n- A – **5の指**\n- G – **4の指**\n- F – **3の指**\n- E – **2の指**\n- D – **1の指**\n- C – **3の指**（3の指を上からクロスさせる）\n- B – **2の指**\n- A – **1の指**\n\nD を1の指で弾いたあと、**3の指を上からCにクロス**させるところがポイントです。動きを止めず、音が途切れないようにつなげましょう。",
+          "pt-BR": "# Digitação – descendo (descendente)\nAgora voltamos do **Lá de cima até o Lá inicial**:\n\nNotas e dedos:\n- A – dedo **5**\n- G – dedo **4**\n- F – dedo **3**\n- E – dedo **2**\n- D – dedo **1**\n- C – dedo **3** (3 passa por cima)\n- B – dedo **2**\n- A – dedo **1**\n\nA troca acontece entre D e C: depois de tocar D com o polegar, deixe o **dedo 3 cruzar por cima** e cair suave no C.",
+          "es": "# Digitación – bajando (descendente)\nAhora volvemos **del La de arriba al La inicial**:\n\nNotas y dedos:\n- A – dedo **5**\n- G – dedo **4**\n- F – dedo **3**\n- E – dedo **2**\n- D – dedo **1**\n- C – dedo **3** (el 3 cruza por encima)\n- B – dedo **2**\n- A – dedo **1**\n\nEl cruce ocurre entre D y C: después de tocar D con el pulgar, deja que el **dedo 3 cruce por encima** y caiga suave sobre C."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Set a slow tempo (**60–70 BPM**) or count “1–2–3–4” yourself.\n2. Play the A natural minor scale **up and down**, one note per beat, without stopping at the top A.\n3. Keep the notes **even in volume** and watch that the rhythm doesn’t rush at the crossings.\n4. Do 3–5 slow repetitions, then rest your hand.\n\nWhen this feels easy, try connecting this scale to simple melodies in A minor that start or end on A.",
+          "zh-Hans": "# 快速练习小套路\n1. 把速度定在 **60–70 BPM** 左右，或者自己数“1–2–3–4”。\n2. 把 A 自然小调音阶**上行再下行**，每拍一个音，不要在最高的 A 停顿太久。\n3. 让每个音的**音量尽量均匀**，在换指的地方也不要突然加快。\n4. 连续慢速弹 3–5 遍，然后让手休息一下。\n\n当这个练习变得轻松时，可以试着用同样的指法，弹一些以 A 为开头或结尾的简单 A 小调旋律。",
+          "de": "# Kurze Übe-Routine\n1. Stell ein langsames Tempo ein (**60–70 BPM**) oder zähle selbst „1–2–3–4“.\n2. Spiele die A natürlich Moll-Tonleiter **auf- und abwärts**, ein Ton pro Schlag, ohne oben auf dem A lange zu stoppen.\n3. Achte darauf, dass alle Töne **gleichmäßig laut** sind und das Tempo an den Fingersätzen nicht anzieht.\n4. Mach 3–5 langsame Durchgänge und gönn deiner Hand danach eine Pause.\n\nWenn sich das leicht anfühlt, verbinde diese Tonleiter mit kleinen Melodien in A-Moll, die auf A beginnen oder auf A enden.",
+          "ja": "# かんたん練習ルーティン\n1. テンポをゆっくりめの **60〜70 BPM** にするか、自分で「1・2・3・4」と数えます。\n2. Aナチュラル・マイナー・スケールを**上がって下りる**まで通して弾き、1拍につき1音ずつ、上のAで長く止まらないようにします。\n3. どの音も**音量がそろうように**意識し、クロスのところでテンポが速くならないよう気をつけましょう。\n4. ゆっくり3〜5回くり返したら、いったん手を休ませます。\n\nこれがスムーズにできるようになったら、同じ指使いで、Aから始まったりAで終わったりするAマイナーの簡単なメロディも試してみましょう。",
+          "pt-BR": "# Rotina rápida de prática\n1. Use um tempo bem lento (**60–70 BPM**) ou conte “1–2–3–4” por conta própria.\n2. Toque a escala de Lá menor natural **subindo e descendo**, uma nota por tempo, sem ficar parado no Lá de cima.\n3. Procure deixar todas as notas com **volume parecido** e não acelerar nas passagens de dedo.\n4. Faça de 3 a 5 repetições bem devagar e depois descanse a mão.\n\nQuando isso estiver tranquilo, experimente usar a mesma digitação em pequenas melodias em Lá menor que comecem ou terminem no Lá.",
+          "es": "# Rutina rápida de práctica\n1. Usa un tempo lento (**60–70 BPM**) o cuenta tú mismo “1–2–3–4”.\n2. Toca la escala de La menor natural **subiendo y bajando**, una nota por pulso, sin quedarte parado en el La de arriba.\n3. Mantén las notas con un **volumen parejo** y cuida que el ritmo no se acelere en los cruces de dedos.\n4. Haz de 3 a 5 repeticiones lentas y luego descansa la mano.\n\nCuando esto se sienta fácil, prueba a conectar esta escala con melodías sencillas en La menor que empiecen o acaben en La."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

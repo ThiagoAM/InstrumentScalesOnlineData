@@ -1,0 +1,73 @@
+{
+  "id": "using-c-major-scale-over-pop-progressions",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using C major over pop progressions\nIn this lesson you’ll use the **C major scale** over two very common pop progressions:\n- **I–V–vi–IV** → C – G – Am – F\n- **vi–IV–I–V** → Am – F – C – G\n\nYou’ll keep the **left hand on simple chords or roots** and let the **right hand improvise with the C major scale**.",
+          "zh-Hans": "# 在流行和弦进行上使用C大调音阶\n在本课中，你会用 **C大调音阶** 练两种非常常见的流行乐和弦进行：\n- **I–V–vi–IV** → C – G – Am – F\n- **vi–IV–I–V** → Am – F – C – G\n\n左手只弹**简单和弦或根音**，右手则用 **C大调音阶** 做小即兴。",
+          "de": "# C-Dur über Pop-Akkordfolgen\nIn dieser Lektion benutzt du die **C-Dur-Tonleiter** über zwei sehr typische Pop-Folgen:\n- **I–V–vi–IV** → C – G – Am – F\n- **vi–IV–I–V** → Am – F – C – G\n\nDie **linke Hand** spielt einfache Akkorde oder Grundtöne, die **rechte Hand** improvisiert mit der C-Dur-Tonleiter.",
+          "ja": "# Cメジャースケールをポップス進行で使う\nこのレッスンでは、**Cメジャー・スケール**を使って、よくあるポップスの進行2つの上で弾いてみます：\n- **I–V–vi–IV** → C – G – Am – F\n- **vi–IV–I–V** → Am – F – C – G\n\n左手は**シンプルなコードかルート音**だけ、右手は **Cメジャー・スケール**で軽く即興していきます。",
+          "pt-BR": "# Usando a escala de Dó maior em progressões pop\nNesta lição você vai usar a **escala de Dó maior (C)** em duas progressões muito comuns no pop:\n- **I–V–vi–IV** → C – G – Am – F\n- **vi–IV–I–V** → Am – F – C – G\n\nA **mão esquerda** fica em acordes ou notas fundamentais simples, e a **mão direita** improvisa usando a escala de Dó maior.",
+          "es": "# Usar la escala de Do mayor sobre progresiones pop\nEn esta lección vas a usar la **escala de Do mayor (C)** sobre dos progresiones muy comunes en el pop:\n- **I–V–vi–IV** → C – G – Am – F\n- **vi–IV–I–V** → Am – F – C – G\n\nLa **mano izquierda** toca acordes o raíces sencillas, y la **mano derecha** improvisa con la escala de Do mayor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left-hand blueprint\nPick one of these options:\n\n**Option A – Roots only**\n- Bar 1: C\n- Bar 2: G\n- Bar 3: A (for Am)\n- Bar 4: F\n\n**Option B – Simple triads (blocked)**\n- C: C–E–G\n- G: G–B–D\n- Am: A–C–E\n- F: F–A–C\n\nHold each chord for **one full bar in 4/4**. Keep the sound soft so the right hand can sing on top.",
+          "zh-Hans": "# 左手基础形态\n先选下面一种方式：\n\n**方案A – 只弹根音**\n- 第1小节：C\n- 第2小节：G\n- 第3小节：A（代表Am）\n- 第4小节：F\n\n**方案B – 简单三和弦（和声音块）**\n- C：C–E–G\n- G：G–B–D\n- Am：A–C–E\n- F：F–A–C\n\n每个和弦在 **4/4 中占一整小节**。左手音量要柔和，让右手“唱”在上面。",
+          "de": "# Bauplan für die linke Hand\nWähle eine dieser Varianten:\n\n**Variante A – Nur Grundtöne**\n- Takt 1: C\n- Takt 2: G\n- Takt 3: A (für Am)\n- Takt 4: F\n\n**Variante B – Einfache Dreiklänge (blockiert)**\n- C: C–E–G\n- G: G–B/H–D\n- Am: A–C–E\n- F: F–A–C\n\nHalte jeden Akkord **einen ganzen 4/4-Takt** lang. Spiel die linke Hand eher leise, damit die rechte Hand darüber „singen“ kann.",
+          "ja": "# 左手の設計図\nまずは、どちらかのパターンを選びます。\n\n**パターンA – ルート音だけ**\n- 1小節目：C\n- 2小節目：G\n- 3小節目：A（Am のルート）\n- 4小節目：F\n\n**パターンB – シンプルな3和音（ブロック）**\n- C：C–E–G\n- G：G–B–D\n- Am：A–C–E\n- F：F–A–C\n\nそれぞれの和音を **4/4で1小節ずつ** 伸ばして弾きます。左手は控えめな音量にして、右手のメロディが乗りやすいようにしましょう。",
+          "pt-BR": "# Esqueleto da mão esquerda\nEscolha uma destas opções:\n\n**Opção A – Só notas fundamentais**\n- Compasso 1: C\n- Compasso 2: G\n- Compasso 3: A (para Am)\n- Compasso 4: F\n\n**Opção B – Tríades simples (blocos)**\n- C: C–E–G\n- G: G–B–D\n- Am: A–C–E\n- F: F–A–C\n\nSegure cada acorde por **um compasso inteiro em 4/4**. Mantenha a mão esquerda mais suave para a direita poder “cantar” por cima.",
+          "es": "# Plano para la mano izquierda\nElige una de estas opciones:\n\n**Opción A – Solo raíces**\n- Compás 1: C\n- Compás 2: G\n- Compás 3: A (para Am)\n- Compás 4: F\n\n**Opción B – Tríadas simples (en bloque)**\n- C: C–E–G\n- G: G–B–D\n- Am: A–C–E\n- F: F–A–C\n\nMantén cada acorde durante **un compás completo de 4/4**. Deja la mano izquierda suave para que la derecha pueda “cantar” encima."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right-hand: C major “safe notes”\nYou can use **any note** from the C major scale:\n\n> C – D – E – F – G – A – B\n\nBut the chords have **favorite notes**:\n- Over **C**: C, E, G\n- Over **G**: G, B, D\n- Over **Am**: A, C, E\n- Over **F**: F, A, C\n\nAim to land on these notes on **beats 1 and 3**. The other scale notes can fill the spaces in between.",
+          "zh-Hans": "# 右手：C大调的“安全音”\n你可以使用C大调音阶里的**任何一个音**：\n\n> C – D – E – F – G – A – B\n\n但每个和弦有自己的**偏爱音**：\n- 在 **C** 上：C, E, G\n- 在 **G** 上：G, B, D\n- 在 **Am** 上：A, C, E\n- 在 **F** 上：F, A, C\n\n尽量让这些音落在**第1拍和第3拍**。其余的音阶音可以填在中间，用来连接。",
+          "de": "# Rechte Hand: „Sichere“ Töne in C-Dur\nDu darfst **jeden Ton** der C-Dur-Tonleiter verwenden:\n\n> C – D – E – F – G – A – B/H\n\nAber die Akkorde haben **Lieblingstöne**:\n- Über **C**: C, E, G\n- Über **G**: G, B/H, D\n- Über **Am**: A, C, E\n- Über **F**: F, A, C\n\nVersuche, auf diesen Tönen auf **Zählzeit 1 und 3** zu landen. Die anderen Tonleitertöne füllen die Räume dazwischen.",
+          "ja": "# 右手：Cメジャーの“安全な音”\n右手はCメジャー・スケールの**どの音を使ってもOK**です：\n\n> C – D – E – F – G – A – B\n\nただし、各コードには**特に響きやすい音**があります：\n- **C** の上：C, E, G\n- **G** の上：G, B, D\n- **Am** の上：A, C, E\n- **F** の上：F, A, C\n\nできれば、これらの音を**1拍目と3拍目**に置くようにして、その間を他のスケール音でつないでいくと安定して聴こえます。",
+          "pt-BR": "# Mão direita: “notas seguras” da escala de C\nVocê pode usar **qualquer nota** da escala de Dó maior:\n\n> C – D – E – F – G – A – B\n\nMas cada acorde tem suas **notas favoritas**:\n- Sobre **C**: C, E, G\n- Sobre **G**: G, B, D\n- Sobre **Am**: A, C, E\n- Sobre **F**: F, A, C\n\nTente cair nessas notas nos **tempos 1 e 3**. As outras notas da escala preenchem o caminho entre elas.",
+          "es": "# Mano derecha: notas “seguras” en Do mayor\nPuedes usar **cualquier nota** de la escala de Do mayor:\n\n> C – D – E – F – G – A – B\n\nPero cada acorde tiene sus **notas favoritas**:\n- Sobre **C**: C, E, G\n- Sobre **G**: G, B, D\n- Sobre **Am**: A, C, E\n- Sobre **F**: F, A, C\n\nIntenta aterrizar en estas notas en los **tiempos 1 y 3**. Las demás notas de la escala pueden llenar el espacio entre ellas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple 4-bar line (I–V–vi–IV)\nTry this light, singable pattern first. Use **quarter notes**:\n\n- Bar 1 (C): C – D – E – G\n- Bar 2 (G): D – E – G – B\n- Bar 3 (Am): E – G – A – C\n- Bar 4 (F): D – F – A – C\n\nLoop these 4 bars several times. Keep the tempo slow enough that nothing feels rushed.",
+          "zh-Hans": "# 简单的4小节乐句（I–V–vi–IV）\n先试试这个轻松、好唱的模式，用**四分音符**：\n\n- 第1小节（C）：C – D – E – G\n- 第2小节（G）：D – E – G – B\n- 第3小节（Am）：E – G – A – C\n- 第4小节（F）：D – F – A – C\n\n把这4小节循环弹几遍，速度放慢一点，不要有“赶”的感觉。",
+          "de": "# Einfache 4-Takt-Linie (I–V–vi–IV)\nProbier zuerst dieses leichte, singbare Muster mit **Viertelnoten**:\n\n- Takt 1 (C): C – D – E – G\n- Takt 2 (G): D – E – G – B/H\n- Takt 3 (Am): E – G – A – C\n- Takt 4 (F): D – F – A – C\n\nSpiele diese 4 Takte mehrmals in einer Schleife. Wähle ein Tempo, in dem sich nichts gehetzt anfühlt.",
+          "ja": "# シンプルな4小節フレーズ（I–V–vi–IV）\nまずは、歌いやすいこのパターンから。すべて**4分音符**です：\n\n- 1小節目（C）：C – D – E – G\n- 2小節目（G）：D – E – G – B\n- 3小節目（Am）：E – G – A – C\n- 4小節目（F）：D – F – A – C\n\nこの4小節を何度かループさせて弾きましょう。テンポは、慌てず余裕を持って弾ける速さに保ってください。",
+          "pt-BR": "# Frase simples de 4 compassos (I–V–vi–IV)\nComece com este padrão leve e cantável. Tudo em **semínimas**:\n\n- Compasso 1 (C): C – D – E – G\n- Compasso 2 (G): D – E – G – B\n- Compasso 3 (Am): E – G – A – C\n- Compasso 4 (F): D – F – A – C\n\nRepita esses 4 compassos em loop várias vezes. Use um andamento em que nada pareça corrido.",
+          "es": "# Frase simple de 4 compases (I–V–vi–IV)\nEmpieza con este patrón ligero y cantable. Usa **negras**:\n\n- Compás 1 (C): C – D – E – G\n- Compás 2 (G): D – E – G – B\n- Compás 3 (Am): E – G – A – C\n- Compás 4 (F): D – F – A – C\n\nRepite estos 4 compases en bucle varias veces. Mantén un tempo lo bastante lento para no sentir prisa."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice plan\n1. **C major only** – Play the 4-bar pattern on I–V–vi–IV until it feels easy.\n2. **Free scale** – Keep the same chords, but make up your own **C major** melodies, always trying to land on chord tones.\n3. **Switch progression** – Use the same idea on **vi–IV–I–V** (Am – F – C – G).\n4. Add simple rhythm changes: two eighth notes on beat 4, or a small rest before the next bar.\n\nAs this becomes natural in C, you’ll be ready to move the same concept to other keys.",
+          "zh-Hans": "# 练习计划\n1. **先固定乐句** – 在 I–V–vi–IV 上反复弹这4小节，直到感觉很轻松。\n2. **自由音阶** – 保持同样的和弦，只用 C大调自己编一些旋律，但尽量让乐句落在和弦音上。\n3. **换进行** – 把同样的想法放到 **vi–IV–I–V**（Am – F – C – G）上练习。\n4. 加一点节奏变化：比如在第4拍用两个八分音符，或在下小节前留一个短暂停顿。\n\n当这些在C调里变得自然后，你就可以把同样的思路迁移到其他调上了。",
+          "de": "# Übeplan\n1. **Nur das feste Pattern** – Spiele die 4-Takt-Linie über I–V–vi–IV, bis sie sich leicht anfühlt.\n2. **Freie Tonleiter** – Lass die Akkorde gleich, aber erfinde deine eigenen **C-Dur**-Melodien und versuche, auf Akkordtönen zu landen.\n3. **Progression wechseln** – Nutze dieselbe Idee über **vi–IV–I–V** (Am – F – C – G).\n4. Baue einfache Rhythmusvarianten ein: z.B. zwei Achtelnoten auf Zählzeit 4 oder eine kleine Pause vor dem nächsten Takt.\n\nWenn sich das in C natürlich anfühlt, kannst du das Konzept in andere Tonarten übertragen.",
+          "ja": "# 練習プラン\n1. **まずは固定フレーズ** – I–V–vi–IV 上で、この4小節フレーズを楽に感じるまで繰り返します。\n2. **自由なスケール** – コードは同じまま、右手だけ **Cメジャー**で自由にメロディを作り、できるだけ和音の構成音で着地するように意識します。\n3. **進行をチェンジ** – 同じ考え方を **vi–IV–I–V**（Am – F – C – G）の進行に移して練習します。\n4. リズムに少し変化をつけます：例えば4拍目を8分音符2つにしたり、次の小節の前に短い休符を入れたり。\n\nCで自然にできるようになったら、同じ発想をほかのキーにも移していけます。",
+          "pt-BR": "# Plano de estudo\n1. **Só o padrão fixo** – Toque a frase de 4 compassos em I–V–vi–IV até ficar bem confortável.\n2. **Escala livre** – Mantenha os mesmos acordes e crie suas próprias melodias em **C maior**, tentando sempre pousar em notas do acorde.\n3. **Mude a progressão** – Leve a mesma ideia para **vi–IV–I–V** (Am – F – C – G).\n4. Adicione variações simples de ritmo: duas colcheias no tempo 4 ou uma pequena pausa antes do próximo compasso.\n\nQuando isso estiver natural em C, você estará pronto para levar o mesmo conceito para outras tonalidades.",
+          "es": "# Plan de práctica\n1. **Solo el patrón fijo** – Toca la frase de 4 compases sobre I–V–vi–IV hasta que se sienta fácil.\n2. **Escala libre** – Mantén los mismos acordes y crea tus propias melodías en **Do mayor**, intentando caer siempre en notas del acorde.\n3. **Cambia la progresión** – Lleva la misma idea a **vi–IV–I–V** (Am – F – C – G).\n4. Añade cambios rítmicos sencillos: dos corcheas en el tiempo 4 o un pequeño silencio antes del siguiente compás.\n\nCuando esto se sienta natural en C, estarás listo para llevar el mismo concepto a otras tonalidades."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "basic-scale-concepts",
+    "name": {
+      "values": {
+        "en": "Basic Scale Concepts",
+        "zh-Hans": "基础音阶概念",
+        "de": "Grundlagen der Tonleitern",
+        "ja": "スケールの基本概念",
+        "pt-BR": "Conceitos básicos de escalas",
+        "es": "Conceptos básicos de escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Understand what scales are and how steps work.",
+        "zh-Hans": "了解什么是音阶以及全音和半音是如何运作的。",
+        "de": "Verstehe, was Tonleitern sind und wie Ganz- und Halbtonschritte funktionieren.",
+        "ja": "スケールとは何か、全音と半音の仕組みを理解します。",
+        "pt-BR": "Entenda o que são escalas e como funcionam os tons e semitons.",
+        "es": "Entiende qué son las escalas y cómo funcionan los tonos y semitonos."
+      }
+    },
+    "image": { "type": "asset", "name": "guitar_unit_basic_scale_concepts" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "first-scale-shapes",
+    "name": {
+      "values": {
+        "en": "First Scale Shapes",
+        "zh-Hans": "第一个音阶指型",
+        "de": "Erste Tonleiter-Patterns",
+        "ja": "最初のスケール・ポジション",
+        "pt-BR": "Primeiros desenhos de escala",
+        "es": "Primeras digitaciones de escala"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn your first major and pentatonic scale shapes on the fretboard.",
+        "zh-Hans": "在指板上学习你的第一个大调和五声音阶指型。",
+        "de": "Lerne deine ersten Dur- und Pentatonik-Patterns auf dem Griffbrett.",
+        "ja": "指板上で最初のメジャーとペンタトニック・スケールの形を学びます。",
+        "pt-BR": "Aprenda seus primeiros desenhos de escala maior e pentatônica no braço.",
+        "es": "Aprende tus primeras digitaciones de escalas mayor y pentatónica en el diapasón."
+      }
+    },
+    "image": { "type": "asset", "name": "guitar_unit_first_scale_shapes" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

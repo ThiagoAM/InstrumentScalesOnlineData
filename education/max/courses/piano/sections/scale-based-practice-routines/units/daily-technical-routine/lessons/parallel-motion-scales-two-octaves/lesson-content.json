@@ -1,0 +1,73 @@
+{
+  "id": "parallel-motion-scales-two-octaves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Parallel motion scales – two octaves\nIn this routine you’ll practice **two-octave scales in parallel motion**: both hands moving in the same direction, at the same time.\n\nGoal: build **even tone, steady rhythm and reliable finger crossings** you can reuse in any key.",
+          "zh-Hans": "# 平行运动两组八度音阶\n在这个练习中，你会弹 **双手同向移动的两组八度音阶（平行运动）**。\n\n目标：练出在任何调性中都能复用的**均匀音色、稳定节奏和可靠的换指**。",
+          "de": "# Tonleitern in Parallelbewegung – zwei Oktaven\nIn dieser Übung spielst du **zweioctavige Tonleitern in Parallelbewegung**: beide Hände gehen gleichzeitig in dieselbe Richtung.\n\nZiel: einen **gleichmäßigen Klang, stabilen Puls und saubere Fingerwechsel** aufbauen, die du in jeder Tonart verwenden kannst.",
+          "ja": "# 平行運動の2オクターブ・スケール\nこのルーティンでは、両手が同じ方向に動く**平行運動の2オクターブ・スケール**を練習します。\n\n目標：どのキーでも使えるような、**ムラのない音色・安定したリズム・確実な指くぐり**を身につけることです。",
+          "pt-BR": "# Escalas em movimento paralelo – duas oitavas\nNesta rotina você vai praticar **escalas de duas oitavas em movimento paralelo**: as duas mãos indo na mesma direção ao mesmo tempo.\n\nObjetivo: construir **som uniforme, ritmo firme e trocas de dedo confiáveis** que funcionem em qualquer tonalidade.",
+          "es": "# Escalas en movimiento paralelo – dos octavas\nEn esta rutina vas a practicar **escalas de dos octavas en movimiento paralelo**: ambas manos yendo en la misma dirección al mismo tiempo.\n\nObjetivo: construir **sonido uniforme, pulso estable y cambios de dedo seguros** que puedas usar en cualquier tonalidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup and key choice\nStart with **C major** (all white keys):\n\n- Sit so that **middle C** is in front of you.\n- **Right hand**: thumb (1) on middle C.\n- **Left hand**: little finger (5) on the C an octave below.\n- Use standard scale fingerings (no stretches or “invented” fingerings).\n\nOnce C feels easy, you can move the same idea to G, D, F, etc.",
+          "zh-Hans": "# 准备和选调\n先从 **C大调** 开始（全是白键）：\n\n- 坐好，让**中央C**在身体正前方。\n- **右手**：拇指（1指）放在中央C。\n- **左手**：小指（5指）放在低一个八度的C上。\n- 使用标准的音阶指法，不要随意“发明”指法或大跨度。\n\n当C大调变得轻松后，再把同样的练习移到G、D、F等调上。",
+          "de": "# Vorbereitung und Tonart\nBeginne mit **C-Dur** (nur weiße Tasten):\n\n- Setz dich so, dass das **mittlere C** direkt vor dir liegt.\n- **Rechte Hand**: Daumen (1) auf dem mittleren C.\n- **Linke Hand**: kleiner Finger (5) auf dem C eine Oktave darunter.\n- Verwende die **standardmäßigen Fingersätze** für Tonleitern, ohne zu strecken oder dir neue Fingerungen auszudenken.\n\nWenn C-Dur leicht geht, überträgst du dieselbe Idee auf G, D, F usw.",
+          "ja": "# セットアップと調の選び方\nまずは **Cメジャー**（白鍵のみ）から始めましょう。\n\n- **中央ド（middle C）** が体の正面にくるように座ります。\n- **右手**：親指（1の指）を中央ドに置きます。\n- **左手**：小指（5の指）を1オクターブ下のドに置きます。\n- スケールには**標準的なフィンガリング**を使い、無理な指使いや独自ルールは避けましょう。\n\nCメジャーがスムーズになったら、同じ考え方をG、D、Fなどのキーにも移していきます。",
+          "pt-BR": "# Preparação e escolha da tonalidade\nComece por **Dó maior (C)** (apenas teclas brancas):\n\n- Sente-se de modo que o **Dó central (middle C)** fique bem à sua frente.\n- **Mão direita**: polegar (1) no Dó central.\n- **Mão esquerda**: mínimo (5) no Dó uma oitava abaixo.\n- Use as **digitações padrão de escalas**, sem inventar dedos ou fazer alongamentos estranhos.\n\nQuando Dó maior estiver fácil, leve a mesma ideia para G, D, F e outras tonalidades.",
+          "es": "# Preparación y elección de tonalidad\nEmpieza con **Do mayor (C)** (solo teclas blancas):\n\n- Siéntate de forma que el **Do central (middle C)** quede justo frente a ti.\n- **Mano derecha**: pulgar (1) en el Do central.\n- **Mano izquierda**: meñique (5) en el Do una octava por debajo.\n- Usa los **digitados estándar de escala**, sin estirar de más ni inventar dedos raros.\n\nCuando Do mayor sea cómodo, lleva la misma idea a Sol, Re, Fa, etc."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic pattern – C major, two octaves\nThink in **four-beat groups** with a metronome.\n\nRight hand (C major, parallel motion):\n- Ascend two octaves using standard fingering (1–2–3, thumb under, then 1–2–3–4, and repeat the same crossings in the second octave).\n- Descend two octaves, mirroring the same crossings.\n\nLeft hand:\n- Same notes as the right hand, but with the usual left-hand fingering (5–4–3–2–1, then 3–2–1, and repeat in the second octave).\n\nAlways keep both hands **starting and arriving on each C together**.",
+          "zh-Hans": "# 基本形态：C大调，两组八度\n配合节拍器，把音阶拆成**四拍一组**来弹。\n\n右手（C大调，平行运动）：\n- 上行两组八度，用标准指法：先 1–2–3，然后拇指钻到下面，再 1–2–3–4；第二个八度重复同样的换指逻辑。\n- 下行两组八度，做相反方向的换指。\n\n左手：\n- 和右手是同样的音，但使用左手常见的音阶指法（5–4–3–2–1，然后 3–2–1，第二个八度重复）。\n\n始终让双手在每个 **C 上同时出发、同时到达**。",
+          "de": "# Grundmuster – C-Dur, zwei Oktaven\nDenke mit Metronom in **Viererschlägen**.\n\nRechte Hand (C-Dur, Parallelbewegung):\n- Spiele zwei Oktaven aufwärts mit dem Standardsatz: erst 1–2–3, Daumenuntersatz, dann 1–2–3–4; im zweiten Oktavraum wiederholst du dieses Muster.\n- Spiele zwei Oktaven abwärts und spiegelst dabei die gleichen Fingerwechsel.\n\nLinke Hand:\n- Dieselben Töne wie die rechte Hand, aber mit der üblichen linken Tonleiter-Fingerung (5–4–3–2–1, dann 3–2–1, im zweiten Oktavraum wiederholt).\n\nAchte darauf, dass beide Hände auf jedem **C gleichzeitig starten und ankommen**.",
+          "ja": "# 基本パターン：Cメジャー、2オクターブ\nメトロノームを使い、**4拍ごとのまとまり**で考えます。\n\n右手（Cメジャー、平行運動）：\n- 2オクターブ上行では、標準的な指使いを使います：1–2–3 → 親指くぐり → 1–2–3–4、そのパターンを2オクターブ目でもくり返します。\n- 2オクターブ下行では、同じ指くぐりを逆方向で行います。\n\n左手：\n- 出てくる音は右手と同じですが、左手の標準スケール指使い（5–4–3–2–1、次に 3–2–1）を使い、2オクターブ目でも同じパターンを続けます。\n\n常に、両手がそれぞれの **ド（C）で同時に出発し、同時に到着**することを意識しましょう。",
+          "pt-BR": "# Padrão básico – Dó maior, duas oitavas\nPense em **grupos de quatro tempos** com o metrônomo.\n\nMão direita (Dó maior, movimento paralelo):\n- Suba duas oitavas usando a digitação padrão: 1–2–3, polegar por baixo, depois 1–2–3–4; na segunda oitava você repete a mesma lógica de cruzamentos.\n- Desça duas oitavas espelhando os mesmos cruzamentos.\n\nMão esquerda:\n- Mesmas notas da mão direita, mas com a digitação típica da mão esquerda (5–4–3–2–1, depois 3–2–1, repetindo na segunda oitava).\n\nO tempo todo, garanta que as duas mãos **comecem e cheguem em cada Dó ao mesmo tempo**.",
+          "es": "# Patrón básico – Do mayor, dos octavas\nPiensa en **grupos de cuatro pulsos** con el metrónomo.\n\nMano derecha (Do mayor, movimiento paralelo):\n- Sube dos octavas usando el digitado estándar: 1–2–3, pulgar por debajo, luego 1–2–3–4; en la segunda octava repites la misma lógica de cruces.\n- Baja dos octavas espejando los mismos cruces.\n\nMano izquierda:\n- Las mismas notas que la mano derecha, pero con el digitado típico de la mano izquierda (5–4–3–2–1, luego 3–2–1, repitiendo en la segunda octava).\n\nEn todo momento, cuida que ambas manos **salgan y lleguen a cada Do al mismo tiempo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Daily routine\nUse this simple ladder each day:\n\n1. **Slow round** – ♩ = 60–72\n   - One time up and down in C major.\n   - Focus on **legato** and relaxed shoulders.\n2. **Control round** – ♩ = 80–92\n   - Two times up and down without stopping.\n   - Listen for even volume between hands.\n3. **Challenge round** – a bit faster\n   - Stay at a tempo where you can still play cleanly.\n   - If it gets messy, slow back down.",
+          "zh-Hans": "# 每日练习流程\n每天可以按这个“阶梯”来练：\n\n1. **慢速轮** – ♩ = 60–72\n   - C大调上行下行各一遍。\n   - 注意**连贯（连音）**和肩膀放松。\n2. **控制轮** – ♩ = 80–92\n   - 不停顿地上下各两遍。\n   - 听一听双手音量是否均匀。\n3. **挑战轮** – 稍快一点\n   - 保持在你仍然能弹干净的速度。\n   - 一旦变乱，就退回到慢一点的速度。",
+          "de": "# Tägliche Routine\nNutze diese kleine „Leiter“ jeden Tag:\n\n1. **Langsame Runde** – ♩ = 60–72\n   - Einmal auf- und abwärts in C-Dur.\n   - Achte auf **legato** und entspannte Schultern.\n2. **Kontrollrunde** – ♩ = 80–92\n   - Zwei Mal auf- und abwärts ohne Pause.\n   - Hör hin, ob beide Hände gleich laut sind.\n3. **Challenge-Runde** – etwas schneller\n   - Wähle ein Tempo, bei dem es noch sauber bleibt.\n   - Wenn es unsauber wird, geh wieder langsamer.",
+          "ja": "# 毎日のルーティン\n毎日、次のような「階段」を意識して練習しましょう。\n\n1. **スローラウンド** – ♩ = 60〜72\n   - Cメジャーを上行・下行1往復。\n   - **レガート**と、肩の力を抜くことに集中します。\n2. **コントロールラウンド** – ♩ = 80〜92\n   - 止まらずに2往復。\n   - 両手の音量バランスが揃っているか、よく聴きます。\n3. **チャレンジラウンド** – 少しテンポアップ\n   - まだきれいに弾ける範囲のテンポにします。\n   - 乱れてきたら、素直にテンポを戻しましょう。",
+          "pt-BR": "# Rotina diária\nUse esta “escadinha” simples todos os dias:\n\n1. **Rodada lenta** – ♩ = 60–72\n   - Uma vez subindo e descendo em Dó maior.\n   - Foque em **legato** e ombros relaxados.\n2. **Rodada de controle** – ♩ = 80–92\n   - Duas voltas completas sem parar.\n   - Ouça se o volume das duas mãos está equilibrado.\n3. **Rodada de desafio** – um pouco mais rápida\n   - Fique em um andamento em que ainda dá para tocar limpo.\n   - Se começar a embolar, volte para um tempo mais tranquilo.",
+          "es": "# Rutina diaria\nUsa esta pequeña “escalera” cada día:\n\n1. **Vuelta lenta** – ♩ = 60–72\n   - Una vez subiendo y bajando en Do mayor.\n   - Concéntrate en el **legato** y en tener los hombros relajados.\n2. **Vuelta de control** – ♩ = 80–92\n   - Dos vueltas completas sin parar.\n   - Escucha si el volumen entre las dos manos es parejo.\n3. **Vuelta de desafío** – un poco más rápida\n   - Mantente en un tempo donde todavía puedas tocar limpio.\n   - Si se vuelve desordenado, baja de nuevo la velocidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "When C major feels solid, repeat the same three rounds in one or two new keys each week. Over time, your parallel-motion scales will feel automatic instead of “work”.",
+          "zh-Hans": "当C大调已经非常稳了，每周再选一到两个新调，用同样的三轮练习。久而久之，平行音阶会变得像本能一样，而不再是“辛苦的功课”。",
+          "de": "Wenn C-Dur sicher sitzt, wiederhole dieselben drei Runden jede Woche in ein bis zwei neuen Tonarten. Mit der Zeit fühlen sich Tonleitern in Parallelbewegung automatisch an – nicht mehr wie „harte Arbeit“. ",
+          "ja": "Cメジャーが安定してきたら、毎週1〜2個のキーを追加して同じ3ラウンドを行いましょう。時間がたつほど、平行運動のスケールは「作業」ではなく、ほぼ自動的に出てくる動きになっていきます。",
+          "pt-BR": "Quando Dó maior estiver bem firme, repita as mesmas três rodadas em uma ou duas tonalidades novas por semana. Com o tempo, as escalas em movimento paralelo vão parecer algo automático, e não mais um “trabalho pesado”.",
+          "es": "Cuando Do mayor esté bien firme, repite las mismas tres vueltas en una o dos tonalidades nuevas cada semana. Con el tiempo, las escalas en movimiento paralelo se sentirán automáticas, y ya no como un “trabajo pesado”."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

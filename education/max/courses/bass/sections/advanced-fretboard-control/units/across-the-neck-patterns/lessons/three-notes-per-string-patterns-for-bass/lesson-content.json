@@ -1,0 +1,73 @@
+{
+  "id": "three-notes-per-string-patterns-for-bass",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Three-notes-per-string patterns for bass\nThree-notes-per-string (3NPS) patterns put **three scale notes on each string**.\n\nOn bass this helps you:\n- Play **fast, even scale runs**\n- Move **across the neck** instead of only up and down\n- Keep your right hand in a **steady alternation** (i–m)\n\nWe’ll start with one clear major scale pattern you can move to other keys.",
+          "zh-Hans": "# 贝斯上的三音一弦指型\n“三音一弦”（3NPS）就是在每根弦上放**同一音阶的三个音**。\n\n在贝斯上，这能帮你：\n- 弹出**均匀、流畅的音阶跑动**\n- 多向**横向移动**，不只是在指板上上下爬\n- 让右手的交替拨弦（i–m）保持**稳定**\n\n我们先从一个清晰的大小调指型开始，再把它搬到其他调上。",
+          "de": "# Drei-Noten-pro-Saite-Patterns für Bass\nDrei-Noten-pro-Saite (3NPS) bedeutet: auf jeder Saite liegen **drei Töne derselben Tonleiter**.\n\nAuf dem Bass hilft dir das:\n- **Schnelle, gleichmäßige Skalenläufe** zu spielen\n- **Quer über das Griffbrett** zu gehen, nicht nur rauf und runter\n- Die rechte Hand im **stabilen Wechselschlag** (i–m) zu halten\n\nWir starten mit einem klaren Dur-Skalenpattern, das du später in andere Tonarten verschieben kannst.",
+          "ja": "# ベースの3ノート・パー・ストリング・パターン\n“3 notes per string（3NPS）”は、1本の弦に**同じスケールの音を3つ**並べるパターンです。\n\nベースではこれによって：\n- **速くて均一なスケール・ラン**が弾きやすくなる\n- ネックを上下だけでなく**横方向にも移動**しやすくなる\n- 右手のオルタネイト（i–m）が**安定**しやすくなる\n\nまずは1つの分かりやすいメジャー・スケール型から始めて、そこから他のキーに移していきます。",
+          "pt-BR": "# Padrões de três notas por corda no baixo\nOs padrões de três notas por corda (3NPS) colocam **três notas da escala em cada corda**.\n\nNo baixo isso te ajuda a:\n- Fazer **corridas de escala rápidas e regulares**\n- Andar mais **na horizontal do braço**, não só para cima e para baixo\n- Manter a mão direita em **alternância estável** (i–m)\n\nVamos começar com um desenho claro de escala maior que você pode depois mover para outras tonalidades.",
+          "es": "# Patrones de tres notas por cuerda en el bajo\nLos patrones de tres notas por cuerda (3NPS) ponen **tres notas de la escala en cada cuerda**.\n\nEn el bajo esto te ayuda a:\n- Tocar **corridas de escala rápidas y parejas**\n- Moverte **a lo ancho del mástil**, no sólo arriba y abajo\n- Mantener la mano derecha en **alternancia estable** (i–m)\n\nEmpezaremos con un patrón claro de escala mayor que luego podrás mover a otras tonalidades."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand setup\n4-string bass in E–A–D–G.\n\nTo keep things comfortable:\n- Work first around **5th–9th fret** (less stretching)\n- Use mainly **1–2–4** on lower strings, **1–3–4** higher up\n- Keep the thumb roughly **behind the middle finger**\n\nIf a stretch hurts, **shift the whole hand** instead of forcing the span.",
+          "zh-Hans": "# 手型与姿势\n4 弦贝斯，E–A–D–G 定弦。\n\n为了舒服好弹：\n- 先在 **第 5–9 品** 附近练（拉伸更轻松）\n- 低音弦优先用 **1–2–4 指法**，高一点可以用 **1–3–4**\n- 大拇指大致在**中指的后方**\n\n如果拉伸不舒服，就**整手换把**，不要硬撑手指跨度。",
+          "de": "# Handposition\n4-saitiger Bass in E–A–D–G.\n\nFür eine entspannte Spieltechnik:\n- Übe zuerst im Bereich **5.–9. Bund** (weniger Dehnung)\n- Auf den tiefen Saiten meist **1–2–4**, weiter oben gern **1–3–4**\n- Der Daumen bleibt ungefähr **hinter dem Mittelfinger**\n\nWenn sich eine Dehnung unangenehm anfühlt, lieber **die ganze Hand verschieben**, statt sie zu erzwingen.",
+          "ja": "# 手のセットアップ\n4弦ベース、E–A–D–G チューニング。\n\n弾きやすくするために：\n- まずは **5〜9フレット付近**で練習（ストレッチが楽）\n- 低い弦では基本 **1–2–4**、高めのポジションは **1–3–4** も使う\n- 親指はだいたい**中指の裏あたり**に置く\n\nもしストレッチが痛いと感じたら、無理をせず**手ごとポジション移動**しましょう。",
+          "pt-BR": "# Ajuste da mão\nBaixo de 4 cordas em E–A–D–G.\n\nPra ficar confortável:\n- Comece trabalhando entre os **trastes 5 a 9** (menos alongamento)\n- Em cordas graves use mais **1–2–4**, e mais pra cima pode usar **1–3–4**\n- Mantenha o polegar mais ou menos **atrás do dedo médio**\n\nSe o alongamento incomodar, **desloque a mão inteira** em vez de forçar a abertura.",
+          "es": "# Colocación de la mano\nBajo de 4 cuerdas en E–A–D–G.\n\nPara que sea cómodo:\n- Trabaja primero entre los **trastes 5 y 9** (menos estiramiento)\n- En cuerdas graves usa sobre todo **1–2–4**, más arriba puedes usar **1–3–4**\n- Mantén el pulgar más o menos **detrás del dedo medio**\n\nSi el estiramiento molesta, **mueve toda la mano** en lugar de forzar la apertura."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G major 3NPS pattern across the neck\nLet’s build a **G major** (G–A–B–C–D–E–F#) 3NPS pattern starting on the low G.\n\n- E string: 3rd fret **G** (1), 5th fret **A** (2), 7th fret **B** (4)\n- A string: 3rd fret **C** (1), 5th fret **D** (2), 7th fret **E** (4)\n- D string: 4th fret **F#** (1), 5th fret **G** (2), 7th fret **A** (4)\n- G string: 4th fret **B** (1), 5th fret **C** (2), 7th fret **D** (4)\n\nPlay up and down:\n1. One note per beat (quarter notes)  \n2. Then two notes per beat (eighth notes), keeping **i–m–i–m** in the right hand\n\nFocus on **even sound**: every note same length and volume.",
+          "zh-Hans": "# G 大调横向三音一弦指型\n我们先做一个从低音 G 开始的 **G 大调**（G–A–B–C–D–E–F#）三音一弦指型。\n\n- E 弦：3 品 **G**（1 指）、5 品 **A**（2 指）、7 品 **B**（4 指）\n- A 弦：3 品 **C**（1 指）、5 品 **D**（2 指）、7 品 **E**（4 指）\n- D 弦：4 品 **F#**（1 指）、5 品 **G**（2 指）、7 品 **A**（4 指）\n- G 弦：4 品 **B**（1 指）、5 品 **C**（2 指）、7 品 **D**（4 指）\n\n上下练习：\n1. 先一拍一音（四分音符）  \n2. 再两音一拍（八分音符），右手保持 **i–m–i–m** 交替\n\n注意**音色要均匀**：每个音时值和音量尽量一致。",
+          "de": "# G-Dur-3NPS-Pattern quer über den Hals\nWir bauen ein **G-Dur**-Pattern (G–A–B–C–D–E–F#), beginnend beim tiefen G.\n\n- E-Saite: 3. Bund **G** (1), 5. Bund **A** (2), 7. Bund **B** (4)\n- A-Saite: 3. Bund **C** (1), 5. Bund **D** (2), 7. Bund **E** (4)\n- D-Saite: 4. Bund **F#** (1), 5. Bund **G** (2), 7. Bund **A** (4)\n- G-Saite: 4. Bund **B** (1), 5. Bund **C** (2), 7. Bund **D** (4)\n\nÜbe auf- und abwärts:\n1. Zuerst **eine Note pro Schlag** (Viertelnoten)  \n2. Dann **zwei Noten pro Schlag** (Achtelnoten) mit konsequentem **i–m–i–m**\n\nAchte auf **gleichmäßigen Klang**: alle Töne ähnlich lang und laut.",
+          "ja": "# Gメジャーの3ノート・パー・ストリング・パターン\nまず、低いGから始まる **Gメジャー**（G–A–B–C–D–E–F#）の3ノート・パターンを作ってみます。\n\n- E弦：3フレット **G**（1）、5フレット **A**（2）、7フレット **B**（4）\n- A弦：3フレット **C**（1）、5フレット **D**（2）、7フレット **E**（4）\n- D弦：4フレット **F#**（1）、5フレット **G**（2）、7フレット **A**（4）\n- G弦：4フレット **B**（1）、5フレット **C**（2）、7フレット **D**（4）\n\nこれを上下に弾きます：\n1. まずは1拍1音（4分音符）  \n2. 次に1拍2音（8分音符）で、右手は **i–m–i–m** をキープ\n\nポイントは**音をそろえること**。すべての音を同じくらいの長さと音量で出しましょう。",
+          "pt-BR": "# Padrão 3NPS de G maior atravessando o braço\nVamos montar um padrão de **G maior** (G–A–B–C–D–E–F#) começando no G grave.\n\n- Corda E: casa 3 **G** (1), casa 5 **A** (2), casa 7 **B** (4)\n- Corda A: casa 3 **C** (1), casa 5 **D** (2), casa 7 **E** (4)\n- Corda D: casa 4 **F#** (1), casa 5 **G** (2), casa 7 **A** (4)\n- Corda G: casa 4 **B** (1), casa 5 **C** (2), casa 7 **D** (4)\n\nToque subindo e descendo:\n1. Primeiro **uma nota por tempo** (semínimas)  \n2. Depois **duas notas por tempo** (colcheias), mantendo a mão direita em **i–m–i–m**\n\nFoque em **som uniforme**: todas as notas com duração e volume parecidos.",
+          "es": "# Patrón 3NPS de Sol mayor a lo ancho del mástil\nConstruyamos un patrón de **Sol mayor** (G–A–B–C–D–E–F#) empezando en el Sol grave.\n\n- Cuerda E: traste 3 **G** (1), traste 5 **A** (2), traste 7 **B** (4)\n- Cuerda A: traste 3 **C** (1), traste 5 **D** (2), traste 7 **E** (4)\n- Cuerda D: traste 4 **F#** (1), traste 5 **G** (2), traste 7 **A** (4)\n- Cuerda G: traste 4 **B** (1), traste 5 **C** (2), traste 7 **D** (4)\n\nTócalo subiendo y bajando:\n1. Primero **una nota por pulso** (negras)  \n2. Luego **dos notas por pulso** (corcheas), manteniendo la derecha en **i–m–i–m**\n\nBusca un **sonido parejo**: todas las notas con duración y volumen similares."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Moving the pattern to other keys\nOnce G feels comfortable, move the same **shape**:\n\n- Up a whole step for **A major** (start on E string 5th fret)\n- Down a whole step for **F major** (adjust notes: Bb instead of B, etc.)\n- Start the pattern on the **A string** to cover higher registers\n\nThink: *“same spacing, new starting fret”*. Your eyes follow **groups of three**, not single notes.",
+          "zh-Hans": "# 把指型移动到其他调\nG 大调熟练后，把同样的**形状**平移：\n\n- 向上移全音变成 **A 大调**（从 E 弦第 5 品开始）\n- 向下移全音到 **F 大调**（注意把 B 换成 Bb 等音）\n- 把同样的三音一弦从 **A 弦** 开始，用来覆盖更高音区\n\n脑子里可以想：**“间距不变，只是起点变了”**。让眼睛习惯追踪**三音一组**，而不是孤立的单个音。",
+          "de": "# Das Pattern in andere Tonarten verschieben\nWenn sich G sicher anfühlt, verschiebe dieselbe **Form**:\n\n- Einen Ganzton höher für **A-Dur** (Start: E-Saite 5. Bund)\n- Einen Ganzton tiefer für **F-Dur** (Töne anpassen: Bb statt B usw.)\n- Starte das Pattern auf der **A-Saite**, um höhere Lagen abzudecken\n\nDenk dir: **„gleiche Abstände, neuer Startbund“**. Deine Augen verfolgen **Dreiergruppen**, nicht einzelne Töne.",
+          "ja": "# パターンを他のキーへ動かす\nGで楽に弾けるようになったら、同じ**形**を動かしてみます：\n\n- 全音上げて **Aメジャー** に（E弦5フレット始まり）\n- 全音下げて **Fメジャー** に（BをBbに変えるなど音を調整）\n- 同じ3ノート・パターンを **A弦スタート** にして、高いエリアもカバー\n\nイメージは「**間隔は同じ、スタート地点だけ変える**」。1音ずつではなく、**3つの音のかたまり**としてネックを見るクセをつけましょう。",
+          "pt-BR": "# Levando o padrão para outras tonalidades\nQuando G estiver confortável, use o mesmo **desenho** em outros lugares:\n\n- Suba um tom para **A maior** (começando na corda E casa 5)\n- Desça um tom para **F maior** (ajustando as notas, por exemplo B vira Bb)\n- Comece o padrão na **corda A** para cobrir regiões mais agudas\n\nPense: **“mesmo espaçamento, outro traste de partida”**. Treine enxergar o braço em **grupos de três notas**, não nota por nota isolada.",
+          "es": "# Mover el patrón a otras tonalidades\nCuando Sol se sienta cómodo, mueve la misma **forma**:\n\n- Un tono arriba para **La mayor** (empezando en cuerda E traste 5)\n- Un tono abajo para **Fa mayor** (ajustando notas: Sib en lugar de Si, etc.)\n- Empieza el patrón en la **cuerda A** para cubrir registros más agudos\n\nPiensa: **“mismas distancias, otro traste de inicio”**. Acostumbra la vista a seguir **grupos de tres notas**, no notas sueltas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice ideas\n- Use a **metronome** and stay relaxed; clean first, fast later\n- Accent **the first note on each string** to feel the shape\n- Practice **up in 3NPS, down in regular position** (and the opposite)\n- Try short **4-bar grooves** using only notes from the pattern\n\nIf the pattern starts to feel like **one connected lane across the neck**, you’re getting exactly what 3NPS is for.",
+          "zh-Hans": "# 练习建议\n- 一定用**节拍器**，保持放松：先干净，再加速\n- 强调每根弦的**第一个音**，帮助大脑记住形状\n- 练习“**三音一弦上行 + 常规指型下行**”（反过来也试试）\n- 只用这个指型里的音做**简短的 4 小节 groove**\n\n当你开始感觉这个指型像是一条**横跨指板的高速公路**时，三音一弦的目的就达到了。",
+          "de": "# Übeideen\n- Nutze ein **Metronom** und bleib locker – erst sauber, dann schneller\n- Betone **den ersten Ton auf jeder Saite**, um die Form zu spüren\n- Übe **aufwärts im 3NPS-Pattern, abwärts in „normaler“ Lage** (und umgekehrt)\n- Spiele kleine **4-Takt-Grooves** nur mit Tönen aus diesem Pattern\n\nWenn sich das Pattern wie **eine zusammenhängende Spur quer über den Hals** anfühlt, nutzt du 3NPS genau richtig.",
+          "ja": "# 練習アイデア\n- **メトロノーム**を使い、まずはクリーンに。速さはあとからでOK\n- 各弦の**1つ目の音にアクセント**を付けて、形を体で覚える\n- **上りは3NPS、下りは通常ポジション**（逆パターンも）で練習してみる\n- このパターンの音だけを使って、**4小節くらいの簡単なグルーヴ**を作ってみる\n\nこのパターンが、ネック上に**一本のレーンとしてつながって感じられる**ようになってきたら、3NPSの狙いはバッチリ達成できています。",
+          "pt-BR": "# Ideias de estudo\n- Use **metrônomo** e toque relaxado: primeiro limpo, depois rápido\n- Dê acento na **primeira nota de cada corda** para sentir o desenho\n- Estude **subindo em 3NPS e descendo em posição normal** (e o contrário também)\n- Crie **grooves de 4 compassos** usando só notas desse padrão\n\nQuando esse desenho começar a parecer **uma faixa contínua atravessando o braço**, você está tirando exatamente o que o 3NPS oferece.",
+          "es": "# Ideas de práctica\n- Usa **metrónomo** y mantente relajado: limpio primero, rápido después\n- Acentúa **la primera nota de cada cuerda** para sentir la forma\n- Practica **subir en 3NPS y bajar en posición normal** (y al revés)\n- Prueba **grooves de 4 compases** usando sólo notas de este patrón\n\nCuando el patrón empiece a sentirse como **un carril continuo a lo ancho del mástil**, estás aprovechando justo para lo que sirve el 3NPS."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

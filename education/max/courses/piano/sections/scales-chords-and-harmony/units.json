@@ -1,0 +1,83 @@
+[
+  {
+    "id": "building-chords-from-scales",
+    "name": {
+      "values": {
+        "en": "Building Chords from Scales",
+        "zh-Hans": "从音阶构建和弦",
+        "de": "Akkorde aus Skalen bilden",
+        "ja": "スケールからのコード構築",
+        "pt-BR": "Construindo Acordes a partir de Escalas",
+        "es": "Construcción de acordes a partir de escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Building Chords from Scales",
+        "zh-Hans": "从音阶构建和弦",
+        "de": "Akkorde aus Skalen bilden",
+        "ja": "スケールからのコード構築",
+        "pt-BR": "Construindo Acordes a partir de Escalas",
+        "es": "Construcción de acordes a partir de escalas"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "harmonic-context-for-scales",
+    "name": {
+      "values": {
+        "en": "Harmonic Context for Scales",
+        "zh-Hans": "音阶的和声语境",
+        "de": "Harmonischer Kontext für Skalen",
+        "ja": "スケールの和声的コンテキスト",
+        "pt-BR": "Contexto Harmônico para Escalas",
+        "es": "Contexto armónico para escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Harmonic Context for Scales",
+        "zh-Hans": "音阶的和声语境",
+        "de": "Harmonischer Kontext für Skalen",
+        "ja": "スケールの和声的コンテキスト",
+        "pt-BR": "Contexto Harmônico para Escalas",
+        "es": "Contexto armónico para escalas"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "pentatonic-and-blues-on-piano",
+    "name": {
+      "values": {
+        "en": "Pentatonic and Blues on Piano",
+        "zh-Hans": "钢琴上的五声音阶与布鲁斯",
+        "de": "Pentatonik und Blues auf dem Klavier",
+        "ja": "ピアノでのペンタトニックとブルース",
+        "pt-BR": "Pentatônica e Blues no Piano",
+        "es": "Pentatónica y Blues en el piano"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pentatonic and Blues on Piano",
+        "zh-Hans": "钢琴上的五声音阶与布鲁斯",
+        "de": "Pentatonik und Blues auf dem Klavier",
+        "ja": "ピアノでのペンタトニックとブルース",
+        "pt-BR": "Pentatônica e Blues no Piano",
+        "es": "Pentatónica y Blues en el piano"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

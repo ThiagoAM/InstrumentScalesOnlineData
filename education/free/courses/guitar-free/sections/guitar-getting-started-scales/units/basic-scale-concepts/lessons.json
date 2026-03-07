@@ -1,0 +1,58 @@
+[
+  {
+    "id": "what-is-a-scale-steps",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "What Is a Scale? Whole Steps and Half Steps",
+        "zh-Hans": "什么是音阶？全音与半音",
+        "de": "Was ist eine Tonleiter? Ganz- und Halbtöne",
+        "ja": "スケールとは？全音と半音",
+        "pt-BR": "O que é uma escala? Tons e semitons",
+        "es": "¿Qué es una escala? Tonos y semitonos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn what a scale is and how whole steps and half steps build it.",
+        "zh-Hans": "学习什么是音阶，以及全音和半音是如何构成音阶的。",
+        "de": "Lerne, was eine Tonleiter ist und wie Ganz- und Halbtöne sie aufbauen.",
+        "ja": "スケールとは何か、そして全音と半音がどのようにスケールを作るかを学びます。",
+        "pt-BR": "Aprenda o que é uma escala e como tons e semitons a constroem.",
+        "es": "Aprende qué es una escala y cómo los tonos y semitonos la construyen."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "reading-scale-diagrams-fingering",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Reading Scale Diagrams and Fingering",
+        "zh-Hans": "阅读音阶指板图与指法",
+        "de": "Tonleiterdiagramme und Fingering lesen",
+        "ja": "スケール・ダイアグラムとフィンガリングの読み方",
+        "pt-BR": "Lendo diagramas de escala e digitação",
+        "es": "Leer diagramas de escalas y digitación"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Understand how to read scale diagrams, string positions, and finger numbers.",
+        "zh-Hans": "理解如何阅读音阶图、弦的位置以及手指编号。",
+        "de": "Verstehe, wie man Tonleiterdiagramme, Saitenpositionen und Fingernummern liest.",
+        "ja": "スケール図の見方や弦の位置、指番号の意味を理解します。",
+        "pt-BR": "Entenda como ler diagramas de escala, posições das cordas e números dos dedos.",
+        "es": "Comprende cómo leer diagramas de escalas, posiciones de cuerdas y números de dedos."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

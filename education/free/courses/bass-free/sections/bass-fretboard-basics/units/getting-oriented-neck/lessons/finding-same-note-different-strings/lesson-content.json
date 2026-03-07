@@ -1,0 +1,73 @@
+{
+  "id": "finding-same-note-different-strings",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Same note on different strings\nOn bass, the **same note** can be found on more than one string.\n\nLearning these spots helps you:\n- change position without changing the note\n- pick the sound you like (rounder or brighter)\n- play lines more smoothly with less hand movement.",
+          "zh-Hans": "# 不同弦上的同一个音\n在贝斯上，同一个**音高**往往可以在多根弦上找到。\n\n学会这些位置可以帮助你：\n- 换把位而不换音\n- 选择更圆润或更明亮的音色\n- 用更少的手部移动弹出更流畅的乐句。",
+          "de": "# Gleicher Ton auf verschiedenen Saiten\nAuf dem Bass kannst du denselben **Ton** auf mehreren Saiten finden.\n\nWenn du diese Stellen kennst, kannst du:\n- die Lage wechseln, ohne den Ton zu ändern\n- den Klang wählen (runder oder heller)\n- Linien mit weniger Handbewegung flüssiger spielen.",
+          "ja": "# 別の弦で同じ音を探す\nベースでは、同じ**音**が複数の弦に現れます。\n\nこれを理解しておくと：\n- ポジションを変えても音を変えずにすむ\n- 丸い音／明るい音など、好みのニュアンスを選べる\n- 手の移動を減らして、フレーズをなめらかに弾けるようになります。",
+          "pt-BR": "# Mesma nota em cordas diferentes\nNo baixo, a **mesma nota** pode aparecer em mais de uma corda.\n\nQuando você sabe onde elas estão, fica mais fácil:\n- mudar de posição sem trocar a nota\n- escolher o timbre que prefere (mais aveludado ou mais brilhante)\n- tocar linhas mais suaves, com menos movimento da mão.",
+          "es": "# La misma nota en cuerdas diferentes\nEn el bajo, la **misma nota** puede encontrarse en varias cuerdas.\n\nAl conocer estos lugares puedes:\n- cambiar de posición sin cambiar la nota\n- elegir el tipo de sonido que quieres (más redondo o más brillante)\n- tocar líneas más fluidas con menos movimiento de la mano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The 5th-fret rule\nIn standard tuning, an open string matches the **5th fret** of the next higher string:\n\n- 4th string E = 3rd string, 5th fret **E**\n- 3rd string A = 2nd string, 5th fret **A**\n- 2nd string D = 1st string, 5th fret **D**\n\nPlay each pair slowly and listen: they should sound like the **same pitch**.",
+          "zh-Hans": "# 第5品法则\n在标准定弦中，某根弦的空弦音，会等于下面那根弦**第5品**的音：\n\n- 第4弦 E = 第3弦 第5品 **E**\n- 第3弦 A = 第2弦 第5品 **A**\n- 第2弦 D = 第1弦 第5品 **D**\n\n慢慢把每一对音弹出来，注意听：它们应该是**同一个音高**。",
+          "de": "# Die 5.-Bund-Regel\nIn Standardstimmung entspricht eine Leersaite dem Ton im **5. Bund** der nächsthöheren Saite:\n\n- 4. Saite E = 3. Saite, 5. Bund **E**\n- 3. Saite A = 2. Saite, 5. Bund **A**\n- 2. Saite D = 1. Saite, 5. Bund **D**\n\nSpiel jede Ton-Paarung langsam und hör genau hin: Sie sollten **gleich hoch** klingen.",
+          "ja": "# 5フレットのルール\n標準チューニングでは、ある弦の開放弦は、ひとつ細い弦の**5フレット**と同じ音になります：\n\n- 4弦 E = 3弦 5フレット **E**\n- 3弦 A = 2弦 5フレット **A**\n- 2弦 D = 1弦 5フレット **D**\n\nそれぞれのペアをゆっくり弾いて、よく聞いてみましょう。同じ高さで**重なって**聞こえるはずです。",
+          "pt-BR": "# A regra do 5º traste\nNa afinação padrão, a corda solta bate com o **5º traste** da corda vizinha mais aguda:\n\n- 4ª corda E = 3ª corda, 5º traste **E**\n- 3ª corda A = 2ª corda, 5º traste **A**\n- 2ª corda D = 1ª corda, 5º traste **D**\n\nToque cada par devagar e repare: eles devem soar como a **mesma altura** de nota.",
+          "es": "# La regla del traste 5\nEn afinación estándar, una cuerda al aire coincide con el **traste 5** de la cuerda vecina más aguda:\n\n- 4ª cuerda E = 3ª cuerda, traste 5 **E**\n- 3ª cuerda A = 2ª cuerda, traste 5 **A**\n- 2ª cuerda D = 1ª cuerda, traste 5 **D**\n\nToca cada par despacio y escucha: deberían sonar con la **misma altura**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Example: finding A\nTry this with the note **A**:\n- 3rd string, open – A\n- 4th string, 5th fret – A\n\nThen higher on the neck:\n- 3rd string, 12th fret – A\n- 2nd string, 7th fret – A\n\nThey’re all As, just in different spots (and sometimes different octaves).",
+          "zh-Hans": "# 示例：寻找 A\n用音符 **A** 来试试：\n- 第3弦 空弦 – A\n- 第4弦 第5品 – A\n\n然后到高把位：\n- 第3弦 第12品 – A\n- 第2弦 第7品 – A\n\n这些都是 A，只是位置不同（有时也在不同的八度）。",
+          "de": "# Beispiel: A finden\nProbier das mit dem Ton **A**:\n- 3. Saite, leer – A\n- 4. Saite, 5. Bund – A\n\nDann weiter oben auf dem Griffbrett:\n- 3. Saite, 12. Bund – A\n- 2. Saite, 7. Bund – A\n\nDas sind alles As, nur an verschiedenen Stellen (und teils in anderen Oktaven).",
+          "ja": "# 例：A を探してみる\n音 **A** で試してみましょう：\n- 3弦 開放 – A\n- 4弦 5フレット – A\n\nネックの上の方でも：\n- 3弦 12フレット – A\n- 2弦 7フレット – A\n\nすべて A ですが、場所（そしてオクターブ）が違うだけです。",
+          "pt-BR": "# Exemplo: encontrando o A\nTeste isso com a nota **A**:\n- 3ª corda, solta – A\n- 4ª corda, 5º traste – A\n\nDepois, mais para cima no braço:\n- 3ª corda, 12º traste – A\n- 2ª corda, 7º traste – A\n\nTodos são As, só mudam o lugar (e às vezes a oitava).",
+          "es": "# Ejemplo: encontrar A\nPrueba esto con la nota **A**:\n- 3ª cuerda, al aire – A\n- 4ª cuerda, traste 5 – A\n\nLuego, más arriba en el mástil:\n- 3ª cuerda, traste 12 – A\n- 2ª cuerda, traste 7 – A\n\nTodos son As, sólo cambia el lugar (y a veces la octava)."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Pick one note name: **D**, **E** or **G**.\n2. Find it on one string.\n3. Use the 5th-fret rule to find the same note on a neighbour string.\n4. Go back and forth between the two spots in time with a slow click.\n\nDo this with different notes until you can jump between strings without thinking too much.",
+          "zh-Hans": "# 快速练习\n1. 先选一个音名：例如 **D**、**E** 或 **G**。\n2. 在一根弦上找到它。\n3. 用“第5品法则”在相邻的弦上找到同一个音。\n4. 跟着慢速节拍，在这两个位置之间来回弹。\n\n换不同的音名练习，直到你几乎不用想就能在不同弦之间跳转。",
+          "de": "# Kurze Übe-Routine\n1. Such dir einen Notennamen aus, z. B. **D**, **E** oder **G**.\n2. Finde ihn auf einer Saite.\n3. Nutze die 5.-Bund-Regel, um denselben Ton auf der Nachbarsaite zu finden.\n4. Spiel in langsamem Tempo hin und her zwischen diesen beiden Stellen.\n\nMach das mit verschiedenen Noten, bis du fast automatisch zwischen den Saiten springen kannst.",
+          "ja": "# かんたん練習ルーティン\n1. **D**、**E**、**G** など、音名をひとつ選びます。\n2. まずは1本の弦でその音を探します。\n3. 5フレットのルールを使って、となりの弦で同じ音を見つけます。\n4. ゆっくりしたクリックに合わせて、その2つの場所を行き来しましょう。\n\nいろいろな音名で繰り返して、あまり考えなくても弦をまたいで動ける感覚を身につけます。",
+          "pt-BR": "# Rotina rápida de prática\n1. Escolha um nome de nota: **D**, **E** ou **G**, por exemplo.\n2. Encontre essa nota em uma corda.\n3. Use a regra do 5º traste para achar a mesma nota na corda vizinha.\n4. Vá e volte entre esses dois pontos em um tempo bem lento.\n\nRepita com notas diferentes até conseguir pular de corda quase sem pensar.",
+          "es": "# Rutina rápida de práctica\n1. Elige un nombre de nota: por ejemplo **D**, **E** o **G**.\n2. Encuentra esa nota en una cuerda.\n3. Usa la regla del traste 5 para encontrar la misma nota en la cuerda vecina.\n4. Ve y vuelve entre esos dos puntos con un tempo lento.\n\nHazlo con notas distintas hasta que puedas saltar entre cuerdas casi sin pensarlo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this feels natural, you’ll be ready to connect positions all over the neck and choose fingerings that fit the groove, not just whatever is closest.",
+          "zh-Hans": "当这种移动变得自然以后，你就能在整个指板上连接不同把位，根据节奏感选择更顺手、更好听的指法，而不是只选最近的那个。",
+          "de": "Sobald sich das natürlich anfühlt, kannst du die Lagen auf dem ganzen Hals verbinden und deine Fingersätze nach dem Groove wählen – nicht nur nach dem nächstgelegenen Ton.",
+          "ja": "これが自然にできるようになると、ネック全体でポジションをつなげて、ただ近い場所ではなく「グルーヴに合う」運指を選べるようになります。",
+          "pt-BR": "Quando isso estiver soando natural, você vai conseguir ligar posições pelo braço inteiro e escolher a digitação que combina com o groove, não só a que está mais perto.",
+          "es": "Cuando esto se sienta natural, podrás conectar posiciones por todo el mástil y elegir las digitaciones que mejor sirvan al groove, no sólo las que están más cerca."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bass-fretboard-basics",
+    "name": {
+      "values": {
+        "en": "Bass Fretboard Basics",
+        "zh-Hans": "贝斯指板基础",
+        "de": "Grundlagen des Bass-Griffbretts",
+        "ja": "ベース指板の基礎",
+        "pt-BR": "Noções básicas do braço do baixo",
+        "es": "Fundamentos del diapasón del bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Get oriented on the neck and start your first scales.",
+        "zh-Hans": "熟悉琴颈位置并开始练习你的第一个音阶。",
+        "de": "Orientiere dich auf dem Hals und beginne mit deinen ersten Tonleitern.",
+        "ja": "ネック上の位置関係に慣れて、最初のスケール練習を始めましょう。",
+        "pt-BR": "Oriente-se pelo braço do instrumento e comece suas primeiras escalas.",
+        "es": "Ubícate en el mástil y empieza con tus primeras escalas."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_fretboard_basics_section" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "simple-grooves-with-scales",
+    "name": {
+      "values": {
+        "en": "Simple Grooves with Scales",
+        "zh-Hans": "用音阶打造简单律动",
+        "de": "Einfache Grooves mit Skalen",
+        "ja": "スケールを使ったシンプルなグルーヴ",
+        "pt-BR": "Grooves simples com escalas",
+        "es": "Grooves sencillos con escalas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use scales to build foundational bass grooves.",
+        "zh-Hans": "运用音阶来构建扎实的贝斯基础律动。",
+        "de": "Nutze Skalen, um grundlegende Bass-Grooves zu entwickeln.",
+        "ja": "スケールを使って、ベースの基本的なグルーヴを作りましょう。",
+        "pt-BR": "Use escalas para construir grooves fundamentais de baixo.",
+        "es": "Usa escalas para construir grooves fundamentales de bajo."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_simple_grooves_section" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

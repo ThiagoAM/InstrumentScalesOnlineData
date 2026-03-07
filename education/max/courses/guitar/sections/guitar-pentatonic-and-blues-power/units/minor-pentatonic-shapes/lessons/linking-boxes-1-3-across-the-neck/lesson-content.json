@@ -1,0 +1,73 @@
+{
+  "id": "linking-boxes-1-3-across-the-neck",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Linking boxes 1–3 across the neck\nYou already know **A minor pentatonic** in box 1, 2 and 3.\n\nNow the goal is to stop thinking in **separate boxes** and start feeling **one long road** up and down the neck.\n\nIn this lesson you’ll:\n- Connect box 1 → 2 → 3 smoothly\n- Use **slides** to move between positions\n- Aim for **A root notes** as safe landing spots",
+          "zh-Hans": "# 把 Box 1–3 串成一条线\n你已经会在 Box 1、2、3 中弹 **A小调五声音阶** 了。\n\n现在的目标是：不再只把它们当成**分开的格子**，而是当成一条可以上下走的**长路线**。\n\n本课你会：\n- 顺畅地在 box 1 → 2 → 3 之间移动\n- 用**滑音**在不同把位之间换位\n- 以 **A 主音** 作为安全的落脚点",
+          "de": "# Box 1–3 über den Hals verbinden\nDu kennst die **A-Moll-Pentatonik** bereits in Box 1, 2 und 3.\n\nJetzt geht es darum, die Formen nicht mehr als **Einzelkästchen** zu sehen, sondern als **eine lange Straße** über den Hals.\n\nIn dieser Lektion wirst du:\n- Box 1 → 2 → 3 flüssig verbinden\n- Mit **Slides** zwischen den Lagen wechseln\n- Die **A-Grundtöne** als sichere Landepunkte nutzen",
+          "ja": "# Box 1〜3 をネック全体でつなげる\nすでに **Aマイナー・ペンタトニック** を Box 1、2、3 で弾ける状態だと思います。\n\nここからの目標は、それぞれをバラバラの“箱”ではなく、ネック全体に伸びた**1本の道**として感じられるようにすることです。\n\nこのレッスンでは：\n- Box 1 → 2 → 3 をスムーズにつなげる\n- 位置を変えるときに **スライド** を使う\n- どのポジションでも **A（ルート）** を安全な着地点として意識する",
+          "pt-BR": "# Ligando os boxes 1–3 pelo braço\nVocê já conhece a pentatônica de **Lá menor** nos boxes 1, 2 e 3.\n\nAgora a ideia é parar de enxergar **caixinhas soltas** e começar a sentir **uma estrada só** subindo e descendo o braço.\n\nNesta lição você vai:\n- Conectar box 1 → 2 → 3 de forma fluida\n- Usar **slides** para mudar de posição\n- Mirar nas **tônicas A** como pontos seguros de chegada",
+          "es": "# Conectando las cajas 1–3 a lo largo del mástil\nYa conoces la pentatónica de **La menor** en las cajas 1, 2 y 3.\n\nAhora el objetivo es dejar de verlas como **cajas separadas** y empezar a sentir **un solo camino largo** por el mástil.\n\nEn esta lección vas a:\n- Conectar caja 1 → 2 → 3 con fluidez\n- Usar **slides** para cambiar de posición\n- Usar las **tónicas A** como lugares seguros donde caer"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Overview of the three boxes\nQuick reminder of where each box lives (standard tuning):\n- **Box 1**: around the **5th fret** (your “home” box)\n- **Box 2**: overlapping above box 1, around **7th–10th fret**\n- **Box 3**: above that, around **9th–12th/13th fret**\n\nThe important thing:\n- Each box **shares notes** with the next one\n- There are spots where the fingerings overlap – perfect places to **slide** into the next shape",
+          "zh-Hans": "# 三个 Box 的位置总览\n快速回顾一下三个 Box 在哪一带（标准定弦）：\n- **Box 1**：大约在 **第5品** 附近（“主场”位置）\n- **Box 2**：在 box 1 上方重叠，大约 **第7–10品**\n- **Box 3**：再往上，大约 **第9–12/13品**\n\n关键点：\n- 每个 box 和下一个 box 都有**共同的音**\n- 指型之间有重叠的地方，非常适合用**滑音**顺势切换到下一个形状",
+          "de": "# Überblick über die drei Boxen\nKurze Erinnerung, wo die Boxen ungefähr liegen (Standardstimmung):\n- **Box 1**: rund um den **5. Bund** (dein „Zuhause“)\n- **Box 2**: überlappend über Box 1, etwa **7.–10. Bund**\n- **Box 3**: darüber, etwa **9.–12./13. Bund**\n\nWichtig ist:\n- Jede Box **teilt sich Töne** mit der nächsten\n- In den Überlappungsbereichen kannst du ideal mit **Slides** in die nächste Form wechseln",
+          "ja": "# 3つのボックスのざっくり位置\n各ボックスがおおよそどのあたりにあるか（標準チューニング）：\n- **Box 1**：**5フレット前後**（一番の“ホーム”）\n- **Box 2**：Box 1 と重なりつつその上、**7〜10フレット**あたり\n- **Box 3**：さらに上の **9〜12/13フレット**あたり\n\n大事なポイント：\n- それぞれのボックスは、隣のボックスと**共通する音**を持っている\n- その重なり部分で **スライド** すると、自然に次の形へつながる",
+          "pt-BR": "# Visão geral dos três boxes\nSó pra relembrar onde cada box fica (afinação padrão):\n- **Box 1**: em volta da **5ª casa** (seu “box base”)\n- **Box 2**: logo acima, cruzando a região da **7ª à 10ª casa**\n- **Box 3**: mais acima, perto da **9ª à 12ª/13ª casa**\n\nO importante:\n- Cada box **divide notas** com o próximo\n- Nessas regiões de overlap é fácil usar **slides** e cair direto no desenho seguinte",
+          "es": "# Vista general de las tres cajas\nUn recordatorio rápido de dónde vive cada caja (afinación estándar):\n- **Caja 1**: alrededor del **traste 5** (tu caja “base”)\n- **Caja 2**: superpuesta por encima de la 1, entre **trastes 7–10** aprox.\n- **Caja 3**: más arriba, entre **trastes 9–12/13**\n\nLo importante:\n- Cada caja **comparte notas** con la siguiente\n- En las zonas de solapamiento es donde puedes usar **slides** para entrar en la siguiente forma"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Vertical “highway” exercise\nWe’ll build a straight line from low to high using all three boxes.\n\nTry this on the **6th, 5th and 4th strings only**:\n1. Start in **box 1** around the 5th fret and climb up the scale.\n2. When you hit notes that also belong to **box 2**, **slide** the same finger up into box 2 and keep going.\n3. Do the same from **box 2 into box 3**.\n4. On the way back down, stay in each box as long as you can, then slide **down** into the previous one.\n\nKeep your picking simple – focus on **clean slides and timing**.",
+          "zh-Hans": "# 垂直“高速路”练习\n我们先在指板上从低到高铺一条直线，把三个 Box 串起来。\n\n先只用 **第6、5、4弦** 练习：\n1. 从 **box 1** 的第5品一带开始往上弹音阶。\n2. 一旦碰到同时属于 **box 2** 的音，就用同一根手指**滑到更高的品**，顺势进入 box 2 继续往上。\n3. 从 **box 2 到 box 3** 也用同样的方法滑上去。\n4. 下行时，尽量在当前的 box 里多走几步，再**滑回**前一个 box。\n\n拨弦保持简单，把注意力放在**滑音是否干净、节奏是否稳**上。",
+          "de": "# Vertikale „Autobahn“-Übung\nWir bauen jetzt eine gerade Linie von tief nach hoch, die alle drei Boxen nutzt.\n\nÜbe das zuerst nur auf der **6., 5. und 4. Saite**:\n1. Starte in **Box 1** um den 5. Bund und spiel die Skala aufwärts.\n2. Sobald du Töne erreichst, die auch zu **Box 2** gehören, mach mit demselben Finger einen **Slide** nach oben in Box 2 und spiel weiter.\n3. Wiederhole das von **Box 2 in Box 3**.\n4. Beim Abwärtsweg bleibst du jeweils so lange wie möglich in der aktuellen Box und slidest dann **nach unten** in die vorige.\n\nHalte den Anschlag simpel – wichtiger sind **saubere Slides und gutes Timing**.",
+          "ja": "# 縦方向の“ハイウェイ”エクササイズ\n3つのボックスを使って、低音側から高音側までまっすぐつながる“道路”を作ってみます。\n\nまずは **6・5・4弦だけ** を使って練習しましょう：\n1. **Box 1**（5フレット付近）からスケールを上向きに弾き始める。\n2. その中で、**Box 2 にも含まれる音**に来たら、その指のままフレットを**上にスライド**して Box 2 に入り、そのまま続けて上がる。\n3. **Box 2 から Box 3** に上がるときも同じようにスライド。\n4. 下りでは、まず今いるボックスの中でできるだけ下まで下がり、そこから**スライドして1つ下のボックス**に戻る。\n\nピッキングはシンプルでOK。今は**スライドのきれいさとリズムの安定**を優先しましょう。",
+          "pt-BR": "# Exercício de “rodovia” vertical\nVamos montar uma linha reta, do grave para o agudo, usando os três boxes.\n\nComece só nas **cordas 6, 5 e 4**:\n1. Inicie no **box 1**, ali pela 5ª casa, e suba a escala.\n2. Quando chegar em notas que também fazem parte do **box 2**, use o mesmo dedo para **dar um slide** e cair dentro do box 2, continuando a subida.\n3. Repita a ideia saindo do **box 2 para o box 3**.\n4. Na descida, fique o máximo que der em cada box e depois deslize **de volta** para o anterior.\n\nDeixe a palhetada simples. A prioridade é ter **slides limpos e tempo firme**.",
+          "es": "# Ejercicio de “autopista” vertical\nVamos construir una línea recta de grave a agudo usando las tres cajas.\n\nEmpieza solo en las **cuerdas 6, 5 y 4**:\n1. Arranca en la **caja 1** por el traste 5 y sube por la escala.\n2. Cuando llegues a notas que también pertenecen a la **caja 2**, usa el mismo dedo para hacer un **slide** hacia arriba y entrar en la caja 2.\n3. Haz lo mismo para pasar de la **caja 2 a la 3**.\n4. Al bajar, quédate en cada caja todo lo que puedas y luego desliza **hacia abajo** a la caja anterior.\n\nMantén la púa sencilla; lo importante aquí son los **slides limpios y el buen tiempo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Diagonal licks across boxes\nNow turn the “highway” into short musical ideas.\n\nTry this approach:\n- Start a lick in **box 1** (for example on the 5th or 6th string)\n- Climb 2–3 notes, then **slide** into box 2 on the same string\n- Finish the phrase on an **A** in box 2 or box 3\n\nThen flip it:\n- Start high in **box 3**, slide down into box 2, and resolve on **A in box 1**.\n\nThese diagonal lines sound much more like real solos than staying locked in one box.",
+          "zh-Hans": "# 在 Box 之间对角线移动的小乐句\n现在把那条“高速路”变成一个个短小的乐句。\n\n可以试试这样练：\n- 在 **box 1** 里开始一个乐句（比如从第5或第6弦）\n- 往上弹2～3个音，然后在同一根弦上**滑到 box 2**\n- 在 **box 2 或 box 3 里的 A** 上结束这个乐句\n\n再把方向反过来：\n- 在 **box 3** 的高把位开始，滑回 box 2，最后落在 **box 1 里的 A** 上。\n\n这种对角线式的移动，比一直困在一个 box 里听起来更像真正的独奏。",
+          "de": "# Diagonale Licks über mehrere Boxen\nJetzt machen wir aus der „Autobahn“ kleine musikalische Phrasen.\n\nVorgehensweise:\n- Starte ein Lick in **Box 1** (z.B. auf der 5. oder 6. Saite)\n- Spiel 2–3 Töne aufwärts und mach dann auf derselben Saite einen **Slide** in Box 2\n- Beende die Phrase auf einem **A** in Box 2 oder Box 3\n\nDanach umkehren:\n- Starte oben in **Box 3**, slidest nach unten in Box 2 und löst auf einem **A in Box 1** auf.\n\nSolche diagonalen Linien klingen deutlich mehr nach „echtem Solo“ als wenn du in einer Box gefangen bleibst.",
+          "ja": "# Box をまたぐ斜めフレーズ\n今度は、その“ハイウェイ”を使って短いフレーズを作ってみましょう。\n\nおすすめのやり方：\n- まず **Box 1**（5〜6弦あたり）でフレーズを始める\n- 2〜3音ほど登ったら、同じ弦上で **Box 2 に向かってスライド** する\n- フレーズの終わりを、**Box 2 か Box 3 のA** に着地させる\n\n次は逆パターン：\n- **Box 3** の高音側でスタートし、スライドで Box 2 に降りてから、最後は **Box 1 のA** で解決させる。\n\nこういう斜めのラインは、1つのボックスだけにこもって弾くより、グッと“ソロっぽく”聞こえます。",
+          "pt-BR": "# Frases diagonais entre os boxes\nAgora vamos transformar a “rodovia” em frases curtas de verdade.\n\nExperimento sugerido:\n- Comece um lick no **box 1** (por exemplo na 5ª ou 6ª corda)\n- Suba 2 ou 3 notas e, na mesma corda, dê um **slide** entrando no box 2\n- Termine a frase em um **A** no box 2 ou no box 3\n\nDepois faça o oposto:\n- Comece lá em cima no **box 3**, deslize para o box 2 e encerre no **A do box 1**.\n\nEssas linhas diagonais soam muito mais como solo “de verdade” do que ficar preso em um único box.",
+          "es": "# Licks diagonales entre cajas\nAhora convierte la “autopista” en ideas musicales cortas.\n\nPrueba este enfoque:\n- Empieza un lick en la **caja 1** (por ejemplo en la 5ª o 6ª cuerda)\n- Sube 2–3 notas y, en esa misma cuerda, haz un **slide** para entrar en la caja 2\n- Termina la frase en un **A** dentro de la caja 2 o 3\n\nLuego hazlo al revés:\n- Empieza arriba en la **caja 3**, desliza hacia la caja 2 y resuelve en el **A de la caja 1**.\n\nEstas líneas diagonales suenan mucho más a solo real que quedarse encerrado en una sola caja."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Warm up by playing **each box separately** (1, 2, 3) up and down.\n2. Play the **vertical highway**: box 1 → 2 → 3 on strings 6–4, then try 4–2.\n3. Create **3–6 note licks** that must cross from one box into the next.\n4. Always try to **start or end on A** when you change boxes.\n\nWhen these moves feel natural, A minor pentatonic will stop being “three boxes” and start feeling like **one connected playground** across the neck.",
+          "zh-Hans": "# 小练习\n1. 先热身：分别在 **box 1、2、3** 里上下各弹一遍。\n2. 练一遍 **垂直高速路**：在第6–4弦上从 box 1 → 2 → 3，再试试第4–2弦。\n3. 编一些 **3～6个音** 的小乐句，要求每句都要跨过至少一个 Box。\n4. 换 Box 时，尽量让乐句的**开始或结束落在 A 上**。\n\n当这些移动变得自然后，A小调五声音阶在你手里就不再是“三个格子”，而是变成铺满整个指板的**一个大游乐场**。",
+          "de": "# Kurze Übung\n1. Wärm dich auf, indem du **jede Box einzeln** (1, 2, 3) auf- und abwärts spielst.\n2. Spiel die **vertikale „Autobahn“**: Box 1 → 2 → 3 auf den Saiten 6–4, später auch 4–2.\n3. Erfinde **3–6-Ton-Licks**, die mindestens einmal von einer Box in die nächste wechseln.\n4. Versuche beim Boxwechsel möglichst oft auf einem **A zu starten oder zu landen**.\n\nWenn sich diese Bewegungen natürlich anfühlen, ist A-Moll-Pentatonik nicht mehr „drei Kästchen“, sondern ein **zusammenhängender Spielplatz** über den ganzen Hals.",
+          "ja": "# さっとできる練習\n1. まずはウォームアップとして、**Box 1・2・3 をそれぞれ単独**で上下に弾く。\n2. 次に **縦のハイウェイ**：6〜4弦で Box 1 → 2 → 3、とつないで弾き、慣れてきたら4〜2弦でも試す。\n3. **3〜6音** くらいの短いフレーズを作り、それぞれ必ずどこかで1つ隣の Box に**またぐ**ようにする。\n4. Box を変えるときは、できるだけ **A から始めるか A で終わる**ように意識する。\n\nこうした動きが自然になってくると、Aマイナー・ペンタトニックは「3つの箱」ではなく、ネック全体に広がった**1つの遊び場**として感じられるようになります。",
+          "pt-BR": "# Prática rápida\n1. Aqueça tocando **cada box separado** (1, 2 e 3) subindo e descendo.\n2. Faça a **rodovia vertical**: box 1 → 2 → 3 nas cordas 6–4; depois tente nas cordas 4–2.\n3. Crie licks de **3 a 6 notas** que obrigatoriamente cruzem de um box para o outro.\n4. Sempre que trocar de box, tente **começar ou terminar em A**.\n\nQuando esses movimentos ficarem naturais, a pentatônica de Lá menor deixa de ser “três caixinhas” e vira **um grande parque de diversões** espalhado pelo braço inteiro.",
+          "es": "# Práctica rápida\n1. Calienta tocando **cada caja por separado** (1, 2 y 3) subiendo y bajando.\n2. Haz la **autopista vertical**: caja 1 → 2 → 3 en las cuerdas 6–4; luego prueba en 4–2.\n3. Crea licks de **3–6 notas** que tengan que cruzar de una caja a la siguiente.\n4. Siempre que cambies de caja, intenta **empezar o terminar en A**.\n\nCuando estos movimientos se sientan naturales, la pentatónica de La menor dejará de ser “tres cajas” y pasará a sentirse como **un solo terreno de juego conectado** por todo el mástil."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

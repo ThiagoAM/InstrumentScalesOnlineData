@@ -1,0 +1,86 @@
+{
+  "id": "combining-chord-arpeggios-with-scale-runs",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Combining chord arpeggios with scale runs\nIn this lesson you’ll mix **chord arpeggios** and **scale runs** in the key of C.\n\nWe’ll use the pop progression **C – G – Am – F** and build a short right-hand pattern that already sounds more like a real piano part than a plain scale exercise.",
+          "zh-Hans": "# 把分解和弦和音阶跑动结合起来\n在本课中，你会在C大调里把**和弦分解（分解和弦）**和**音阶跑动**结合起来练习。\n\n我们会用流行乐里常见的和弦进行 **C – G – Am – F**，做一个右手小型乐句，让它听起来更像真正的钢琴伴奏，而不是单纯的音阶练习。",
+          "de": "# Akkord-Arpeggios mit Tonleiterläufen verbinden\nIn dieser Lektion mischst du **Akkord-Arpeggios** mit **Tonleiterläufen** in C-Dur.\n\nWir benutzen die Pop-Folge **C – G – Am – F** und bauen ein kurzes Muster für die rechte Hand, das schon deutlich mehr wie ein echtes Piano-Pattern klingt als eine bloße Tonleiterübung.",
+          "ja": "# 分散和音とスケール・ランを組み合わせる\nこのレッスンでは、Cメジャーの中で**コードのアルペジオ（分散和音）**と**スケール・ラン**を組み合わせて弾いてみます。\n\n使うコード進行はポップスでよく出てくる **C – G – Am – F**。右手に、ただのスケール練習ではなく、ちゃんとしたピアノパートらしく聞こえる短いフレーズを作っていきます。",
+          "pt-BR": "# Combinando arpejos de acordes com corridas de escala\nNesta lição você vai misturar **arpejos de acordes** com **corridas de escala** em Dó maior.\n\nVamos usar a progressão pop **C – G – Am – F** e montar um padrão curto na mão direita que já soa bem mais como uma parte real de piano do que como um exercício de escala.",
+          "es": "# Combinando arpegios de acordes con pasajes de escala\nEn esta lección vas a mezclar **arpegios de acordes** con **corridas de escala** en Do mayor.\n\nUsaremos la progresión pop **C – G – Am – F** y construiremos un patrón corto para la mano derecha que suena más a parte real de piano que a simple ejercicio de escala."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left-hand foundation\nKeep the left hand simple so you can focus on the right hand:\n\n- **Option A – roots only**\n  - C, G, A, F (one whole note each bar)\n- **Option B – triads**\n  - C: C–E–G\n  - G: G–B–D\n  - Am: A–C–E\n  - F: F–A–C\n\nHold each chord for **one bar of 4/4**, soft and steady.",
+          "zh-Hans": "# 左手基础\n左手尽量简单，让注意力放在右手上：\n\n- **方案A – 只弹根音**\n  - C、G、A、F（每小节弹一个全音符）\n- **方案B – 三和弦**\n  - C：C–E–G\n  - G：G–B–D\n  - Am：A–C–E\n  - F：F–A–C\n\n每个和弦在 **4/4 拍中占一整小节**，声音温和、稳定。",
+          "de": "# Fundament der linken Hand\nHalte die linke Hand einfach, damit du dich auf die rechte Hand konzentrieren kannst:\n\n- **Variante A – nur Grundtöne**\n  - C, G, A, F (jeweils als ganze Note pro Takt)\n- **Variante B – Dreiklänge**\n  - C: C–E–G\n  - G: G–B/H–D\n  - Am: A–C–E\n  - F: F–A–C\n\nHalte jeden Akkord **einen vollen 4/4-Takt** lang, weich und gleichmäßig.",
+          "ja": "# 左手の土台\n右手に集中できるように、左手はシンプルにします。\n\n- **パターンA – ルート音だけ**\n  - C, G, A, F（各コードを1小節まるごと全音符）\n- **パターンB – 3和音**\n  - C：C–E–G\n  - G：G–B–D\n  - Am：A–C–E\n  - F：F–A–C\n\nどちらを選んでも、各コードを **4/4で1小節分** 伸ばして、音量は控えめ・安定した感じで弾きましょう。",
+          "pt-BR": "# Base da mão esquerda\nDeixe a mão esquerda simples, para poder focar na direita:\n\n- **Opção A – só fundamentais**\n  - C, G, A, F (uma semibreve por compasso)\n- **Opção B – tríades**\n  - C: C–E–G\n  - G: G–B–D\n  - Am: A–C–E\n  - F: F–A–C\n\nSegure cada acorde por **um compasso de 4/4**, suave e estável.",
+          "es": "# Base de la mano izquierda\nMantén la mano izquierda sencilla para poder concentrarte en la derecha:\n\n- **Opción A – solo raíces**\n  - C, G, A, F (una redonda por compás)\n- **Opción B – tríadas**\n  - C: C–E–G\n  - G: G–B–D\n  - Am: A–C–E\n  - F: F–A–C\n\nSostén cada acorde durante **un compás de 4/4**, suave y estable."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right hand: arpeggios on each chord\nUse **8th notes** (1 & 2 & 3 & 4 &). Start with a pure arpeggio pattern:\n\n- Bar 1 – C: **C–E–G–E–C–E–G–E**\n- Bar 2 – G: **G–B–D–B–G–B–D–B**\n- Bar 3 – Am: **A–C–E–C–A–C–E–C**\n- Bar 4 – F: **F–A–C–A–F–A–C–A**\n\nPlay this a few times, very steady, until it feels automatic.",
+          "zh-Hans": "# 右手：每个和弦上的分解\n右手用**八分音符**（1 & 2 & 3 & 4 &）。先从纯分解和弦开始：\n\n- 第1小节 – C：**C–E–G–E–C–E–G–E**\n- 第2小节 – G：**G–B–D–B–G–B–D–B**\n- 第3小节 – Am：**A–C–E–C–A–C–E–C**\n- 第4小节 – F：**F–A–C–A–F–A–C–A**\n\n先把这4小节多弹几遍，节奏尽量稳，当它几乎“自动”时再往下走。",
+          "de": "# Rechte Hand: Arpeggios auf jedem Akkord\nNutze **Achtelnoten** (1 & 2 & 3 & 4 &). Starte mit einem reinen Arpeggio-Muster:\n\n- Takt 1 – C: **C–E–G–E–C–E–G–E**\n- Takt 2 – G: **G–B/H–D–B/H–G–B/H–D–B/H**\n- Takt 3 – Am: **A–C–E–C–A–C–E–C**\n- Takt 4 – F: **F–A–C–A–F–A–C–A**\n\nSpiele diese 4 Takte mehrmals sehr gleichmäßig, bis sich das Muster fast automatisch anfühlt.",
+          "ja": "# 右手：コードごとのアルペジオ\n右手は**8分音符**（1 & 2 & 3 & 4 &）で、まずはシンプルなアルペジオから始めます。\n\n- 1小節目 – C：**C–E–G–E–C–E–G–E**\n- 2小節目 – G：**G–B–D–B–G–B–D–B**\n- 3小節目 – Am：**A–C–E–C–A–C–E–C**\n- 4小節目 – F：**F–A–C–A–F–A–C–A**\n\nこの4小節を、テンポをしっかりキープしながら何度か繰り返し、あまり考えずに弾けるくらいまで慣らしましょう。",
+          "pt-BR": "# Mão direita: arpejos em cada acorde\nUse **colcheias** (1 & 2 & 3 & 4 &). Comece com um padrão só de arpejos:\n\n- Compasso 1 – C: **C–E–G–E–C–E–G–E**\n- Compasso 2 – G: **G–B–D–B–G–B–D–B**\n- Compasso 3 – Am: **A–C–E–C–A–C–E–C**\n- Compasso 4 – F: **F–A–C–A–F–A–C–A**\n\nToque esse ciclo algumas vezes, bem firme no tempo, até o desenho ficar quase automático.",
+          "es": "# Mano derecha: arpegios en cada acorde\nUsa **corcheas** (1 & 2 & 3 & 4 &). Empieza con un patrón de arpegio puro:\n\n- Compás 1 – C: **C–E–G–E–C–E–G–E**\n- Compás 2 – G: **G–B–D–B–G–B–D–B**\n- Compás 3 – Am: **A–C–E–C–A–C–E–C**\n- Compás 4 – F: **F–A–C–A–F–A–C–A**\n\nToca este ciclo varias veces, muy estable, hasta que se sienta casi automático."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add scale runs between chords\nNow turn the **end of each bar** into a small scale run that leads to the next chord.\n\nExample: from **C** to **G**\n- Keep the first 4 eighths the same: **C–E–G–E**\n- Use the last 4 eighths as a C major run aiming at a G-chord tone:\n  - **F–G–A–B** (you end close to B, a strong note for G)\n\nYou can do the same idea on the other bars:\n- From G, run toward a note of Am.\n- From Am, run toward a note of F.\n\nThink: **arpeggio at the start, scale at the end**.",
+          "zh-Hans": "# 在和弦之间加入音阶跑动\n现在把**每小节的结尾**换成一个小小的音阶跑动，用来引向下一个和弦。\n\n例子：从 **C** 走向 **G**\n- 前4个八分音符保持不变：**C–E–G–E**\n- 后4个八分音符改成C大调的小跑动，目标是G和弦的音：\n  - **F–G–A–B**（最后停在靠近 B 的位置，B 是G和弦的强音之一）\n\n其他小节也可以用同样思路：\n- 从 G 的结尾跑向 Am 的某个和弦音。\n- 从 Am 的结尾跑向 F 的某个和弦音。\n\n心里可以这样想：前半小节是**和弦分解**，后半小节是**音阶跑动**。",
+          "de": "# Tonleiterläufe zwischen den Akkorden einbauen\nJetzt machst du aus dem **Ende jedes Taktes** einen kleinen Tonleiterlauf, der zum nächsten Akkord hinführt.\n\nBeispiel: von **C** nach **G**\n- Lass die ersten 4 Achtel wie gehabt: **C–E–G–E**\n- Verwandle die letzten 4 Achtel in einen C-Dur-Lauf, der auf einen G-Akkordton zielt:\n  - **F–G–A–B/H** (du landest in der Nähe von H, einem starken Ton für G)\n\nDasselbe Prinzip kannst du auf die anderen Takte anwenden:\n- Vom G-Takt aus in Richtung eines Am-Tones laufen.\n- Vom Am-Takt aus in Richtung eines F-Tones laufen.\n\nDenk dir: **am Anfang Arpeggio, am Ende Tonleiterlauf**.",
+          "ja": "# コードの間にスケール・ランを入れる\nここからは、**各小節の終わり**を小さなスケール・ランに変えて、次のコードへつなげます。\n\n例：**C** から **G** へ行くとき\n- 最初の4つの8分音符はそのまま：**C–E–G–E**\n- 残り4つの8分音符をCメジャーのランにして、Gコードの音へ近づけます：\n  - **F–G–A–B**（BはGコードの強い構成音の1つ）\n\n同じアイデアを他の小節にも使えます：\n- Gの小節の終わりから、Amの構成音に向かってランを作る。\n- Amの小節から、Fの構成音に向かってランを作る。\n\nイメージは、**小節の前半がアルペジオ、後半がスケール・ラン** という感じです。",
+          "pt-BR": "# Colocando corridas de escala entre os acordes\nAgora transforme o **final de cada compasso** em uma pequena corrida de escala que leva para o próximo acorde.\n\nExemplo: de **C** para **G**\n- Deixe as 4 primeiras colcheias como antes: **C–E–G–E**\n- Use as últimas 4 colcheias como uma corrida em Dó maior apontando para um som do acorde de G:\n  - **F–G–A–B** (você termina perto do B, que é um tom forte do acorde de G)\n\nRepita a mesma ideia nos outros compassos:\n- Saindo de G, corra em direção a uma nota do acorde de Am.\n- Saindo de Am, corra em direção a uma nota do acorde de F.\n\nPense assim: **começo de compasso = arpejo, final de compasso = corrida de escala**.",
+          "es": "# Añadir corridas de escala entre acordes\nAhora convierte el **final de cada compás** en una pequeña corrida de escala que te lleve al siguiente acorde.\n\nEjemplo: de **C** a **G**\n- Deja iguales las primeras 4 corcheas: **C–E–G–E**\n- Usa las últimas 4 corcheas como una corrida en Do mayor que apunte a una nota del acorde de G:\n  - **F–G–A–B** (terminas cerca de B, una nota fuerte del acorde de G)\n\nPuedes aplicar la misma idea a los otros compases:\n- Desde G, corre hacia una nota del acorde de Am.\n- Desde Am, corre hacia una nota del acorde de F.\n\nPiensa: **arpegio al principio, escala al final**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice routine\n1. **Hands separate**\n   - Left hand: play the chords alone, counting 4 steady beats per bar.\n   - Right hand: first the pure arpeggios, then add the scale-run endings.\n2. **Hands together, slow**\n   - Start around ♩ = 60.\n   - Make sure both hands change chords **at the same time**.\n3. **Loop the 4 bars**\n   - Repeat C–G–Am–F several times.\n   - When you feel relaxed, start changing the exact notes in your scale runs while keeping the same idea.",
+          "zh-Hans": "# 练习流程\n1. **分手练习**\n   - 左手：单独弹和弦，每小节稳稳数4拍。\n   - 右手：先练纯分解和弦，再加入带音阶结尾的版本。\n2. **双手合起来，慢速**\n   - 从大约 ♩ = 60 开始。\n   - 注意双手要在**同一拍**换到下一个和弦。\n3. **循环4小节**\n   - 把 C–G–Am–F 这4小节反复弹。\n   - 当感觉很放松时，开始改变音阶结尾里具体的音，但保留“前半分解 + 后半音阶”的思路。",
+          "de": "# Übeplan\n1. **Getrennte Hände**\n   - Linke Hand: nur die Akkorde spielen und jeden Takt ruhig bis 4 zählen.\n   - Rechte Hand: zuerst nur die Arpeggios, dann die Version mit Tonleiter-Endungen.\n2. **Beide Hände, langsam**\n   - Starte bei etwa ♩ = 60.\n   - Achte darauf, dass beide Hände **gleichzeitig** den Akkord wechseln.\n3. **Die 4 Takte loopen**\n   - Wiederhole C–G–Am–F mehrmals hintereinander.\n   - Wenn es entspannt wirkt, verändere die genauen Töne in deinen Läufen, behalte aber die Idee bei.",
+          "ja": "# 練習ルーティン\n1. **片手ずつ練習**\n   - 左手：コードだけを弾き、1小節にきちんと4拍数えます。\n   - 右手：まずは純粋なアルペジオ、そのあと音階ランを足したバージョンを練習。\n2. **両手でゆっくり**\n   - ♩ = 60 前後から始めましょう。\n   - 両手が**同じ拍**で次のコードに変わるかを確認します。\n3. **4小節をループ**\n   - C–G–Am–F の4小節を何度もくり返します。\n   - 余裕が出てきたら、ランの中の具体的な音は少し変えてもよいですが、「前半アルペジオ＋後半スケール」という考え方はキープします。",
+          "pt-BR": "# Rotina de estudo\n1. **Mãos separadas**\n   - Mão esquerda: toque só os acordes, contando 4 tempos bem firmes por compasso.\n   - Mão direita: primeiro os arpejos “puros”, depois a versão com corridas de escala no final.\n2. **Mãos juntas, devagar**\n   - Comece por volta de ♩ = 60.\n   - Garanta que as duas mãos mudam de acorde **ao mesmo tempo**.\n3. **Faça loop dos 4 compassos**\n   - Repita C–G–Am–F várias vezes.\n   - Quando estiver relaxado, comece a variar as notas exatas das corridas, mantendo a mesma ideia geral.",
+          "es": "# Rutina de práctica\n1. **Manos separadas**\n   - Mano izquierda: toca solo los acordes, contando 4 pulsos estables por compás.\n   - Mano derecha: primero los arpegios puros y luego la versión con corridas de escala al final.\n2. **Manos juntas, despacio**\n   - Empieza alrededor de ♩ = 60.\n   - Asegúrate de que ambas manos cambian de acorde **al mismo tiempo**.\n3. **Haz un bucle de los 4 compases**\n   - Repite C–G–Am–F varias veces.\n   - Cuando te sientas relajado, comienza a cambiar las notas exactas de las corridas manteniendo la misma idea."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "As this feels natural, you can reuse the same idea in other keys and over other progressions: **arpeggios to show the chord, scale runs to connect the chords**.",
+          "zh-Hans": "当这种感觉变得自然之后，你可以在其他调、其他和弦进行里复用同样的思路：用**分解和弦来说明和声，用音阶跑动把和弦串联起来**。",
+          "de": "Wenn sich das natürlich anfühlt, kannst du dieselbe Idee in anderen Tonarten und über andere Progressionen verwenden: **Arpeggios, um den Akkord zu zeigen, Tonleiterläufe, um die Akkorde zu verbinden**.",
+          "ja": "この動きが自然になってきたら、ほかのキーや別の進行でも同じ発想を使えます。**アルペジオでコードをはっきりさせて、スケール・ランでコード同士をつなぐ**、というイメージです。",
+          "pt-BR": "Quando isso estiver natural, você pode reaproveitar a mesma ideia em outras tonalidades e progressões: **arpejos para mostrar o acorde, corridas de escala para ligar um acorde ao outro**.",
+          "es": "Cuando esto se sienta natural, podrás reutilizar la misma idea en otras tonalidades y progresiones: **arpegios para mostrar el acorde, corridas de escala para conectar los acordes**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

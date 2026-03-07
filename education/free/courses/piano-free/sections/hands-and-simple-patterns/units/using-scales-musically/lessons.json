@@ -1,0 +1,58 @@
+[
+  {
+    "id": "simple-melody-using-c-major-scale",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Simple Melody Using C Major Scale",
+        "zh-Hans": "使用C大调音阶的简易旋律",
+        "de": "Einfache Melodie mit der C-Dur-Tonleiter",
+        "ja": "Cメジャー・スケールを使ったシンプルなメロディー",
+        "pt-BR": "Melodia simples usando a escala de Dó maior",
+        "es": "Melodía sencilla usando la escala de Do mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create a short melody that sticks to the C major notes.",
+        "zh-Hans": "创作一段仅使用C大调音符的简短旋律。",
+        "de": "Erstelle eine kurze Melodie, die sich an die Töne der C-Dur-Tonleiter hält.",
+        "ja": "Cメジャーの音だけを使って短いメロディーを作りましょう。",
+        "pt-BR": "Crie uma pequena melodia usando apenas notas da escala de Dó maior.",
+        "es": "Crea una pequeña melodía usando solo notas de la escala de Do mayor."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "creating-a-short-motif-with-a-minor",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Creating a Short Motif with A Minor",
+        "zh-Hans": "使用A小调创作简短动机",
+        "de": "Kurzes Motiv mit A-Moll erstellen",
+        "ja": "Aマイナーで短いモチーフを作る",
+        "pt-BR": "Criando um motivo curto com Lá menor",
+        "es": "Crear un motivo corto con La menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use A minor scale tones to build a repeating motif.",
+        "zh-Hans": "使用A小调音阶的音符构建重复动机。",
+        "de": "Nutze die Töne der A-Moll-Tonleiter, um ein wiederholendes Motiv zu erstellen.",
+        "ja": "Aマイナー・スケールの音を使って繰り返しのモチーフを作りましょう。",
+        "pt-BR": "Use as notas da escala de Lá menor para criar um motivo repetitivo.",
+        "es": "Usa los tonos de la escala de La menor para crear un motivo repetitivo."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

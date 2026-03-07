@@ -1,0 +1,86 @@
+{
+  "id": "whole-steps-half-steps-and-intervals",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Whole steps, half steps and intervals\nNow that you can name the keys, the next step is to understand the **distance between notes**.\n\nOn piano we usually talk about:\n- **Half steps** (semitones)\n- **Whole steps** (tones)\n- Bigger **intervals** like 3rds, 4ths, 5ths and octaves",
+          "zh-Hans": "# 全音、半音和音程\n现在你已经会说出每个键的名字，下一步就是理解**音与音之间的距离**。\n\n在钢琴上，我们通常会提到：\n- **半音**（semitone）\n- **全音**（tone）\n- 更大的**音程**，比如三度、四度、五度和八度",
+          "de": "# Ganztöne, Halbtöne und Intervalle\nJetzt, wo du die Tasten benennen kannst, geht es darum, die **Abstände zwischen den Tönen** zu verstehen.\n\nAm Klavier sprechen wir meistens über:\n- **Halbtonschritte** (Halbtöne)\n- **Ganztonschritte** (Ganztöne)\n- Größere **Intervalle** wie Terz, Quart, Quint und Oktave",
+          "ja": "# 全音・半音・音程\n鍵の名前が分かるようになったら、次は**音同士の距離**を理解していきます。\n\nピアノではよく次のような言い方をします：\n- **半音**\n- **全音**\n- それより大きい **音程**（3度、4度、5度、オクターブ など）",
+          "pt-BR": "# Tons inteiros, meios tons e intervalos\nAgora que você já sabe nomear as teclas, o próximo passo é entender a **distância entre as notas**.\n\nNo piano a gente costuma falar de:\n- **Meio tom** (semítom)\n- **Tom inteiro**\n- **Intervalos** maiores, como 3ª, 4ª, 5ª e oitava",
+          "es": "# Tonos enteros, medios tonos e intervalos\nAhora que ya puedes nombrar las teclas, el siguiente paso es entender la **distancia entre las notas**.\n\nEn el piano solemos hablar de:\n- **Medios tonos** (semitonos)\n- **Tonos enteros**\n- **Intervalos** más grandes como 3ª, 4ª, 5ª y octava"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Half steps: to the very next key\nA **half step** is the smallest distance on the piano:\n\n- You move from one key to the **very next key** (white or black)\n- There is **no other key in between**\n\nExamples:\n- C → C♯ is a half step\n- E → F is a half step (no black key between)\n- G♯ → A is a half step\n\nGoing down works the same: F → E is also a half step.",
+          "zh-Hans": "# 半音：移动到紧挨着的下一个键\n**半音**是钢琴上最小的距离：\n\n- 从一个键移动到**紧挨着的下一个键**（白键或黑键）\n- 中间**没有别的键**\n\n例子：\n- C → C♯ 是半音\n- E → F 是半音（中间没有黑键）\n- G♯ → A 是半音\n\n向下走也一样：F → E 也是半音。",
+          "de": "# Halbtonschritte: zur direkt nächsten Taste\nEin **Halbtonschritt** ist der kleinste Abstand am Klavier:\n\n- Du gehst von einer Taste zur **direkt nächsten Taste** (weiß oder schwarz)\n- Dazwischen liegt **keine weitere Taste**\n\nBeispiele:\n- C → C♯ ist ein Halbtonschritt\n- E → F ist ein Halbtonschritt (keine schwarze Taste dazwischen)\n- G♯ → A ist ein Halbtonschritt\n\nAbwärts gilt das Gleiche: F → E ist ebenfalls ein Halbtonschritt.",
+          "ja": "# 半音：すぐとなりの鍵まで\n**半音**は、ピアノでいちばん小さな距離です。\n\n- ある鍵から、**すぐとなりの鍵**（白鍵でも黒鍵でもOK）に動く\n- そのあいだに**ほかの鍵が1つもない**\n\n例：\n- C → C♯ は半音\n- E → F は半音（あいだに黒鍵がない）\n- G♯ → A も半音\n\n下に動くときも同じで、F → E も半音です。",
+          "pt-BR": "# Meio tom: até a tecla imediatamente ao lado\nUm **meio tom** é a menor distância no piano:\n\n- Você vai de uma tecla para a **próxima tecla colada nela** (branca ou preta)\n- **Não existe outra tecla no meio**\n\nExemplos:\n- C → C♯ é meio tom\n- E → F é meio tom (não há tecla preta entre elas)\n- G♯ → A é meio tom\n\nDescendo é igual: F → E também é meio tom.",
+          "es": "# Medio tono: hasta la tecla inmediatamente vecina\nUn **medio tono** es la distancia más pequeña en el piano:\n\n- Vas de una tecla a la **siguiente tecla pegada a ella** (blanca o negra)\n- **No hay ninguna otra tecla en medio**\n\nEjemplos:\n- C → C♯ es un medio tono\n- E → F es un medio tono (no hay tecla negra entre ellas)\n- G♯ → A es un medio tono\n\nHacia abajo es igual: F → E también es un medio tono."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Whole steps: two half steps\nA **whole step** is made of **two half steps**:\n\n- You skip exactly **one key** in the middle\n\nExamples:\n- C → D is a whole step (C → C♯ → D)\n- E → F♯ is a whole step (E → F → F♯)\n- A♭ → B♭ is a whole step\n\nIf you see **one key between** two notes, the distance is a whole step.",
+          "zh-Hans": "# 全音：两个半音\n一个**全音**由**两个半音**组成：\n\n- 中间会**跳过一个键**\n\n例子：\n- C → D 是全音（C → C♯ → D）\n- E → F♯ 是全音（E → F → F♯）\n- A♭ → B♭ 是全音\n\n如果两颗音之间**正好隔着一个键**，这个距离就是全音。",
+          "de": "# Ganztöne: zwei Halbtöne\nEin **Ganztonschritt** besteht aus **zwei Halbtonschritten**:\n\n- Du überspringst genau **eine Taste** dazwischen\n\nBeispiele:\n- C → D ist ein Ganztonschritt (C → C♯ → D)\n- E → F♯ ist ein Ganztonschritt (E → F → F♯)\n- A♭ → B♭ ist ein Ganztonschritt\n\nWenn du zwischen zwei Tönen **genau eine Taste** siehst, ist der Abstand ein Ganztonschritt.",
+          "ja": "# 全音：半音が2つ分\n**全音**は、**半音2つ分**の距離です。\n\n- 間に**1つ鍵をはさんで**進みます\n\n例：\n- C → D は全音（C → C♯ → D）\n- E → F♯ は全音（E → F → F♯）\n- A♭ → B♭ も全音\n\n2つの音のあいだに**鍵が1つだけはさまっている**なら、その距離は全音だと考えられます。",
+          "pt-BR": "# Tom inteiro: dois meios tons\nUm **tom inteiro** é formado por **dois meios tons**:\n\n- Você **pula exatamente uma tecla** no meio\n\nExemplos:\n- C → D é um tom inteiro (C → C♯ → D)\n- E → F♯ é um tom inteiro (E → F → F♯)\n- A♭ → B♭ é um tom inteiro\n\nSe você vê **uma tecla entre** duas notas, a distância entre elas é um tom inteiro.",
+          "es": "# Tono entero: dos medios tonos\nUn **tono entero** está formado por **dos medios tonos**:\n\n- Saltas exactamente **una tecla** en medio\n\nEjemplos:\n- C → D es un tono entero (C → C♯ → D)\n- E → F♯ es un tono entero (E → F → F♯)\n- A♭ → B♭ es un tono entero\n\nSi ves **una tecla en medio** de dos notas, la distancia es un tono entero."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Naming intervals by number\nIn music, the distance between two notes is called an **interval**.\nWe name intervals by:\n1. **Number** – how many letter names you count\n2. (Later) **Quality** – major, minor, perfect, etc.\n\nFor now, focus on the number:\n- C to D = 2 letter names → a **2nd**\n- C to E = 3 letter names → a **3rd**\n- C to F = 4 letter names → a **4th**\n- C to G = 5 letter names → a **5th**\n- C to C (higher) = 8 letter names → an **octave**",
+          "zh-Hans": "# 用数字给音程命名\n在乐理里，两颗音之间的距离叫做**音程**。\n我们给音程命名时会看两点：\n1. **数字**：需要数几个字母名\n2. （之后）**性质**：大、小、纯等\n\n现在先专注在数字上：\n- C 到 D：经过 2 个字母 → **二度**\n- C 到 E：3 个字母 → **三度**\n- C 到 F：4 个字母 → **四度**\n- C 到 G：5 个字母 → **五度**\n- C 到高一个 C：8 个字母 → **八度**",
+          "de": "# Intervalle mit Zahlen benennen\nIn der Musik nennt man den Abstand zwischen zwei Tönen ein **Intervall**.\nWir beschreiben Intervalle mit:\n1. Der **Zahl** – wie viele Buchstaben du zählst\n2. (Später) der **Qualität** – Dur, moll, rein usw.\n\nFür jetzt reicht die Zahl:\n- C nach D: 2 Buchstaben → eine **Sekunde** (2.)\n- C nach E: 3 Buchstaben → eine **Terz** (3.)\n- C nach F: 4 Buchstaben → eine **Quart** (4.)\n- C nach G: 5 Buchstaben → eine **Quint** (5.)\n- C nach C (eine Stufe höher): 8 Buchstaben → eine **Oktave** (8.)",
+          "ja": "# 数字で音程に名前を付ける\n音と音の距離のことを**音程**と言います。\n音程は主に次の2つで説明します：\n1. **度数**：いくつ分の音名を数えるか\n2. （あとで学ぶ）**種類**：長、短、完全 など\n\nここでは度数だけを意識しましょう：\n- C から D：音名が2つ分 → **2度**\n- C から E：3つ分 → **3度**\n- C から F：4つ分 → **4度**\n- C から G：5つ分 → **5度**\n- C から上の C：8つ分 → **8度（オクターブ）**",
+          "pt-BR": "# Nomeando intervalos pelo número\nEm música, a distância entre duas notas é chamada de **intervalo**.\nNós descrevemos os intervalos por:\n1. **Número** – quantas letras de nota você conta\n2. (Mais pra frente) **qualidade** – maior, menor, perfeito etc.\n\nPor enquanto, foque no número:\n- C até D: 2 letras → **2ª**\n- C até E: 3 letras → **3ª**\n- C até F: 4 letras → **4ª**\n- C até G: 5 letras → **5ª**\n- C até o próximo C (mais agudo): 8 letras → **8ª (oitava)**",
+          "es": "# Nombrar intervalos por número\nEn música, la distancia entre dos notas se llama **intervalo**.\nNombramos los intervalos según:\n1. **Número**: cuántas letras de nota contamos\n2. (Más adelante) **calidad**: mayor, menor, perfecto, etc.\n\nPor ahora, céntrate en el número:\n- C a D: 2 letras → **2ª**\n- C a E: 3 letras → **3ª**\n- C a F: 4 letras → **4ª**\n- C a G: 5 letras → **5ª**\n- C al siguiente C más agudo: 8 letras → **8ª (octava)**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Putting steps and numbers together\nHalf/whole steps and interval numbers describe the **same distance** in different ways:\n\n- C to C♯ = 1 half step → usually a **minor 2nd**\n- C to D = 1 whole step (2 half steps) → usually a **major 2nd**\n- C to E = 2 whole steps (4 half steps) → usually a **major 3rd**\n\nYou do not need to memorize every name yet. Just keep in mind:\n- **Half step** = smallest move\n- **Whole step** = two half steps\n- Bigger intervals are built from chains of half and whole steps.",
+          "zh-Hans": "# 把“全音/半音”和“度数”连在一起\n半音、全音和音程数字，其实是在不同角度描述**同一段距离**：\n\n- C 到 C♯：1 个半音 → 通常是**小二度**\n- C 到 D：1 个全音（2 个半音）→ 通常是**大二度**\n- C 到 E：2 个全音（4 个半音）→ 通常是**大三度**\n\n现在不必把所有名字都背下来，只要记住：\n- **半音** = 最小的移动\n- **全音** = 两个半音\n- 更大的音程，就是由一串全音和半音堆起来的。",
+          "de": "# Schritte und Zahlen verbinden\nHalbton/Ganzton und Intervallzahlen beschreiben **denselben Abstand** auf verschiedene Weise:\n\n- C nach C♯: 1 Halbton → meist eine **kleine Sekunde**\n- C nach D: 1 Ganzton (2 Halbtöne) → meist eine **große Sekunde**\n- C nach E: 2 Ganztöne (4 Halbtöne) → meist eine **große Terz**\n\nDu musst dir jetzt noch nicht alle Namen merken. Wichtig ist nur:\n- **Halbtonschritt** = kleinste Bewegung\n- **Ganztonschritt** = zwei Halbtonschritte\n- Größere Intervalle bestehen aus Ketten von Halb- und Ganztönen.",
+          "ja": "# 全音・半音と度数をつなげて考える\n半音・全音と度数は、同じ距離を別の言い方で説明しているだけです。\n\n- C → C♯：半音1つ → ふつう **短2度**\n- C → D：全音1つ（半音2つ）→ ふつう **長2度**\n- C → E：全音2つ（半音4つ）→ ふつう **長3度**\n\n今の時点で、全部の名前を覚える必要はありません。まずは：\n- **半音** = いちばん小さい動き\n- **全音** = 半音が2つ分\n- 大きな音程は、全音と半音をつなげて作られている、という感覚でOKです。",
+          "pt-BR": "# Ligando passos e números\nMeio tom, tom inteiro e o número do intervalo descrevem **a mesma distância** de jeitos diferentes:\n\n- C até C♯: 1 meio tom → normalmente **2ª menor**\n- C até D: 1 tom inteiro (2 meios tons) → normalmente **2ª maior**\n- C até E: 2 tons inteiros (4 meios tons) → normalmente **3ª maior**\n\nVocê ainda não precisa decorar todos os nomes. Só lembre:\n- **Meio tom** = menor movimento possível\n- **Tom inteiro** = dois meios tons\n- Intervalos maiores são construídos somando meios tons e tons inteiros.",
+          "es": "# Juntando pasos y números\nMedios tonos, tonos enteros y números de intervalo describen **la misma distancia** de distintas formas:\n\n- C a C♯: 1 medio tono → normalmente **2ª menor**\n- C a D: 1 tono entero (2 medios tonos) → normalmente **2ª mayor**\n- C a E: 2 tonos enteros (4 medios tonos) → normalmente **3ª mayor**\n\nTodavía no hace falta memorizar todos los nombres. Solo ten en mente:\n- **Medio tono** = movimiento más pequeño\n- **Tono entero** = dos medios tonos\n- Los intervalos más grandes se construyen encadenando medios tonos y tonos enteros."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. On your keyboard, choose any note and:\n   - Move one key up: say “half step” and name the new note.\n   - Move two half steps up: say “whole step” and name the new note.\n2. Pick C and find:\n   - A note a **half step** above\n   - A note a **whole step** above\n   - A note a **major 3rd** above (two whole steps)\n3. Repeat the same exercise starting from **F** and **A**.\n\nGo slowly and say the note names and intervals out loud. After a few minutes of this, the distances on the keyboard will start to feel very clear.",
+          "zh-Hans": "## 快速练习\n1. 在键盘上随便选一个音：\n   - 向上移动一个键：说出“半音”，并念出新的音名。\n   - 再向上多走一个半音（总共两个半音）：说“全音”，并念出新的音名。\n2. 以 C 为起点，找出：\n   - 高半音的那个音\n   - 高全音的那个音\n   - 高 **大三度** 的那个音（两个全音）\n3. 用同样的方法，从 **F** 和 **A** 再做一遍。\n\n慢慢来，一边按键一边把音名和音程大声读出来。坚持几分钟，键盘上的距离感会越来越清晰。",
+          "de": "## Kurze Übung\n1. Such dir eine beliebige Note auf deinem Keyboard:\n   - Geh eine Taste nach oben: sage „Halbtonschritt“ und benenne den neuen Ton.\n   - Geh noch einen Halbton weiter (insgesamt zwei Halbtöne): sage „Ganztonschritt“ und benenne den Ton.\n2. Nimm C als Ausgangspunkt und finde:\n   - Einen Ton **einen Halbton** über C\n   - Einen Ton **einen Ganzton** über C\n   - Einen Ton **eine große Terz** über C (zwei Ganztöne)\n3. Wiederhole dieselbe Übung mit **F** und **A** als Startnoten.\n\nMach das langsam und sprich Notennamen und Intervalle laut aus. Nach ein paar Minuten werden dir die Abstände auf der Tastatur viel klarer vorkommen.",
+          "ja": "## かんたん練習\n1. 鍵盤の上で好きな音を1つ選びます：\n   - 上に1つとなりの鍵へ動く：『半音』と言って、新しい音の名前を言います。\n   - さらに半音でもう1つ上へ（合計 半音2つ分）：『全音』と言って、その音の名前を言います。\n2. C をスタートにして、次を探します：\n   - **半音上** の音\n   - **全音上** の音\n   - **長3度上** の音（全音2つ分）\n3. 同じ練習を、今度は **F** と **A** からもやってみましょう。\n\nゆっくりでいいので、鍵を押しながら音名と音程を声に出して言ってください。数分続けるだけで、鍵盤上の距離感がだいぶハッキリしてきます。",
+          "pt-BR": "## Prática rápida\n1. No seu teclado, escolha qualquer nota:\n   - Suba uma tecla: diga “meio tom” e fale o nome da nova nota.\n   - Suba mais um meio tom (total de dois): diga “um tom inteiro” e fale o nome da nota.\n2. Use o C como ponto de partida e encontre:\n   - Uma nota **meio tom acima**\n   - Uma nota **um tom acima**\n   - Uma nota **3ª maior acima** (dois tons inteiros)\n3. Repita o mesmo exercício começando em **F** e em **A**.\n\nVá devagar e fale em voz alta o nome das notas e dos intervalos. Depois de alguns minutos, as distâncias no teclado começam a ficar bem naturais.",
+          "es": "## Práctica rápida\n1. En tu teclado, elige cualquier nota:\n   - Sube una tecla: di “medio tono” y nombra la nueva nota.\n   - Sube otro medio tono (dos en total): di “un tono entero” y nombra la nota.\n2. Usa C como punto de partida y encuentra:\n   - Una nota **un medio tono por encima**\n   - Una nota **un tono por encima**\n   - Una nota **una 3ª mayor por encima** (dos tonos enteros)\n3. Repite el mismo ejercicio empezando desde **F** y desde **A**.\n\nHazlo despacio y di en voz alta los nombres de las notas y de los intervalos. Después de unos minutos, las distancias en el teclado se empiezan a sentir muy claras."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

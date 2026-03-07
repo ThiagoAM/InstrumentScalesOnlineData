@@ -1,0 +1,56 @@
+[
+  {
+    "id": "root-and-fifth-patterns",
+    "name": {
+      "values": {
+        "en": "Root and Fifth Patterns",
+        "zh-Hans": "根音与五度音型",
+        "de": "Grundton- und Quinten-Patterns",
+        "ja": "ルートと5度のパターン",
+        "pt-BR": "Padrões de tônica e quinta",
+        "es": "Patrones de tónica y quinta"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build steady quarter-note lines with roots and fifths.",
+        "zh-Hans": "使用根音和五度音构建稳定的四分音符低音线。",
+        "de": "Baue gleichmäßige Viertelnoten-Linien mit Grundtönen und Quinten.",
+        "ja": "ルート音と5度音を使って安定した4分音ラインを作りましょう。",
+        "pt-BR": "Crie linhas de semínimas estáveis usando tônicas e quintas.",
+        "es": "Construye líneas de negras estables usando tónicas y quintas."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_unit_root_and_fifth" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "walking-with-major-and-minor",
+    "name": {
+      "values": {
+        "en": "Walking with Major and Minor",
+        "zh-Hans": "用大调与小调行进",
+        "de": "Walking mit Dur und Moll",
+        "ja": "メジャーとマイナーでウォーキング",
+        "pt-BR": "Walking com maior e menor",
+        "es": "Walking con mayor y menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use major and minor scales to create simple walking lines.",
+        "zh-Hans": "使用大调与小调音阶创建简单的行进贝斯线。",
+        "de": "Nutze Dur- und Mollskalen, um einfache Walking-Linien zu erzeugen.",
+        "ja": "メジャーとマイナーのスケールを使ってシンプルなウォーキングラインを作りましょう。",
+        "pt-BR": "Use escalas maior e menor para criar linhas de walking simples.",
+        "es": "Usa escalas mayores y menores para crear líneas de walking sencillas."
+      }
+    },
+    "image": { "type": "asset", "name": "bass_unit_walking_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

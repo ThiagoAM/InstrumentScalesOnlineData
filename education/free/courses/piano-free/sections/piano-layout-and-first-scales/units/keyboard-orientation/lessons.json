@@ -1,0 +1,58 @@
+[
+  {
+    "id": "finding-cs-and-middle-c-on-the-keyboard",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Finding Cs and Middle C on the Keyboard",
+        "zh-Hans": "在键盘上找到所有的C和中央C",
+        "de": "Alle Cs und das mittlere C auf der Klaviatur finden",
+        "ja": "キーボード上の全てのCと中央Cを見つける",
+        "pt-BR": "Encontrando todos os Dós e o Dó central no teclado",
+        "es": "Encontrar todos los Do y el Do central en el teclado"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Locate every C on the keyboard and anchor yourself at middle C.",
+        "zh-Hans": "在键盘上找到所有的C音，并以中央C作为定位点。",
+        "de": "Finde alle C-Töne auf der Klaviatur und orientiere dich am mittleren C.",
+        "ja": "キーボード上のすべてのCを見つけ、中央Cを基準にしましょう。",
+        "pt-BR": "Localize todos os Dós no teclado e use o Dó central como referência.",
+        "es": "Localiza todos los Do del teclado y toma el Do central como referencia."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "understanding-white-keys-and-note-names",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Understanding White Keys and Note Names",
+        "zh-Hans": "理解白键及其音名",
+        "de": "Weiße Tasten und Notennamen verstehen",
+        "ja": "白鍵と音名を理解する",
+        "pt-BR": "Entendendo as teclas brancas e os nomes das notas",
+        "es": "Entender las teclas blancas y los nombres de las notas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Memorize the repeating pattern of white keys and their letter names.",
+        "zh-Hans": "记住白键的重复模式及其对应的音名。",
+        "de": "Präge dir das sich wiederholende Muster der weißen Tasten und ihre Buchstabennamen ein.",
+        "ja": "白鍵の繰り返しパターンとその音名を覚えましょう。",
+        "pt-BR": "Memorize o padrão repetitivo das teclas brancas e seus nomes.",
+        "es": "Memoriza el patrón repetitivo de las teclas blancas y sus nombres."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

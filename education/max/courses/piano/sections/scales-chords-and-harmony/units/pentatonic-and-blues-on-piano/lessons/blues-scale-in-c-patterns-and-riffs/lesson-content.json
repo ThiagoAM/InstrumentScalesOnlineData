@@ -1,0 +1,99 @@
+{
+  "id": "blues-scale-in-c-patterns-and-riffs",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C blues scale – patterns and riffs\nIn this lesson you’ll learn the **C blues scale** on the keyboard and turn it into a few **simple patterns and riffs**.\n\nThe goal is to get a **gritty, bluesy sound** that you can reuse over many chords.",
+          "zh-Hans": "# C蓝调音阶 – 型与小乐句\n本课你会在键盘上学习 **C蓝调音阶**，并把它变成几个简单的**指型和小乐句**。\n\n目标是做出那种**粗糙、有蓝调味**的声音，能在很多和弦上反复使用。",
+          "de": "# C-Blues-Tonleiter – Patterns und Riffs\nIn dieser Lektion lernst du die **C-Blues-Tonleiter** auf dem Keyboard und formst daraus ein paar **einfache Patterns und Riffs**.\n\nZiel ist ein **rauer, bluesiger Klang**, den du über viele Akkorde benutzen kannst.",
+          "ja": "# Cブルース・スケール – パターンとリフ\nこのレッスンでは、キーボードで **Cブルース・スケール** を覚え、いくつかの**簡単なパターンとリフ**にしていきます。\n\n狙いは、いろいろなコードの上で使い回せる、**少しザラっとしたブルージーなサウンド**を手に入れることです。",
+          "pt-BR": "# Escala blues em Dó – padrões e riffs\nNesta lição você vai aprender a **escala blues em Dó (C)** no teclado e transformá-la em alguns **padrões e pequenos riffs**.\n\nA ideia é conseguir um som **rasgado e bluesy**, que você pode reaproveitar em vários acordes.",
+          "es": "# Escala blues en Do – patrones y riffs\nEn esta lección vas a aprender la **escala blues en Do (C)** en el teclado y convertirla en algunos **patrones y riffs sencillos**.\n\nLa idea es lograr un sonido **áspero y “bluesy”** que puedas reutilizar sobre muchos acordes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Notes of the C blues scale\nStart from C and use this formula: **1 – ♭3 – 4 – ♭5 – 5 – ♭7 – 1**.\n\nThat gives:\n\n**C – E♭ – F – G♭ – G – B♭ – C**\n\n- **E♭** (flat 3) and **B♭** (flat 7) give a **minor/bluesy color**\n- **G♭** (flat 5) is the classic **“blue note”**",
+          "zh-Hans": "# C蓝调音阶的音\n从 C 开始，用公式：**1 – ♭3 – 4 – ♭5 – 5 – ♭7 – 1**。\n\n得到：\n\n**C – E♭ – F – G♭ – G – B♭ – C**\n\n- **E♭**（降三）和 **B♭**（降七）带来**小调/蓝调的色彩**\n- **G♭**（降五）就是典型的 **“蓝调音”**",
+          "de": "# Töne der C-Blues-Tonleiter\nAusgehend von C verwendest du die Formel: **1 – ♭3 – 4 – ♭5 – 5 – ♭7 – 1**.\n\nDas ergibt:\n\n**C – E♭ – F – G♭ – G – B♭ – C**\n\n- **E♭** (kleine Terz) und **B♭** (kleine Septime) geben den **moll/bluesigen Charakter**\n- **G♭** (verminderte Quinte) ist die typische **„Blue Note“**",
+          "ja": "# Cブルース・スケールの音\nC から始めて、次の公式を使います：**1 – ♭3 – 4 – ♭5 – 5 – ♭7 – 1**。\n\nこうなります：\n\n**C – E♭ – F – G♭ – G – B♭ – C**\n\n- **E♭**（♭3）と **B♭**（♭7）が、**マイナー寄りのブルース感**を出します。\n- **G♭**（♭5）が、いわゆる定番の **“ブルーノート”** です。",
+          "pt-BR": "# Notas da escala blues em Dó\nA partir de C, usamos a fórmula: **1 – ♭3 – 4 – ♭5 – 5 – ♭7 – 1**.\n\nIsso dá:\n\n**C – E♭ – F – G♭ – G – B♭ – C**\n\n- **E♭** (terceira menor) e **B♭** (sétima menor) dão o **clima menor/blues**\n- **G♭** (quinta diminuta) é a clássica **“blue note”**",
+          "es": "# Notas de la escala blues en Do\nDesde Do usamos la fórmula: **1 – ♭3 – 4 – ♭5 – 5 – ♭7 – 1**.\n\nQueda:\n\n**C – E♭ – F – G♭ – G – B♭ – C**\n\n- **E♭** (tercera menor) y **B♭** (séptima menor) dan un color **menor/blues**\n- **G♭** (quinta disminuida) es la típica **“blue note”**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic right-hand fingering (one octave)\nPlay around **middle C**.\n\n**C blues scale ascending (right hand):**\n- C (1) – E♭ (2) – F (3) – G♭ (4) – G (1) – B♭ (2) – C (3)\n\nDescending, reverse the fingering.\n\nKeep the wrist loose and let your thumb slide comfortably under on **G**.",
+          "zh-Hans": "# 右手一组音的基本指法\n在中央C附近练习。\n\n**C蓝调音阶上行（右手）**：\n- C (1) – E♭ (2) – F (3) – G♭ (4) – G (1) – B♭ (2) – C (3)\n\n下行时反向用同样指法。\n\n手腕放松，在 **G** 处把拇指自然地穿过去，不要用力挤。",
+          "de": "# Grundfingersatz rechts (eine Oktave)\nÜbe in der Nähe des eingestrichenen C.\n\n**C-Blues-Tonleiter aufwärts (rechte Hand):**\n- C (1) – E♭ (2) – F (3) – G♭ (4) – G (1) – B♭ (2) – C (3)\n\nAbwärts den Fingersatz einfach umkehren.\n\nHalte das Handgelenk locker und lass den Daumen bei **G** bequem unter der Hand durchgleiten.",
+          "ja": "# 右手の基本フィンガリング（1オクターブ）\n中央Cあたりで練習します。\n\n**Cブルース・スケール上行（右手）**\n- C (1) – E♭ (2) – F (3) – G♭ (4) – G (1) – B♭ (2) – C (3)\n\n下行では、この指使いを逆順に辿ります。\n\n手首はやわらかく保ち、**G** で親指を自然にくぐらせるイメージで弾きましょう。",
+          "pt-BR": "# Dedilhado básico da mão direita (uma oitava)\nToque perto do **dó central**.\n\n**Escala blues em C subindo (mão direita):**\n- C (1) – E♭ (2) – F (3) – G♭ (4) – G (1) – B♭ (2) – C (3)\n\nDescendo, use o mesmo dedilhado ao contrário.\n\nDeixe o punho solto e faça o polegar passar por baixo com conforto em **G**.",
+          "es": "# Digitación básica mano derecha (una octava)\nPractica cerca del **Do central**.\n\n**Escala blues en C ascendiendo (mano derecha):**\n- C (1) – E♭ (2) – F (3) – G♭ (4) – G (1) – B♭ (2) – C (3)\n\nAl bajar, invierte la digitación.\n\nMantén la muñeca relajada y deja que el pulgar pase por debajo con comodidad en **G**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pattern 1 – straight blues run\nRight hand, eighth notes:\n\n**C – E♭ – F – G♭ – G – B♭ – C – B♭ – G – G♭ – F – E♭ – C**\n\nTips:\n- Keep the rhythm **steady**, like a slow shuffle\n- Let **G♭** “lean” into **G** – don’t rush that slide\n\nThis is a classic up-and-down blues run you can use at the **end of a phrase**.",
+          "zh-Hans": "# 模式一 – 直线式蓝调跑句\n右手用八分音符：\n\n**C – E♭ – F – G♭ – G – B♭ – C – B♭ – G – G♭ – F – E♭ – C**\n\n提示：\n- 节奏要**稳定**，可以想成慢一点的 shuffle 摇摆\n- 让 **G♭** 稍微“靠”一下 **G**，不要太急着过去\n\n这是很经典的上下跑句，适合放在**一句话的结尾**。",
+          "de": "# Pattern 1 – Gerader Blues-Lauf\nRechte Hand in Achteln:\n\n**C – E♭ – F – G♭ – G – B♭ – C – B♭ – G – G♭ – F – E♭ – C**\n\nTipps:\n- Halte den Rhythmus **gleichmäßig**, gerne wie ein langsamer Shuffle\n- Lass **G♭** leicht in **G** „hineinrutschen“ – nicht hektisch werden\n\nDas ist ein klassischer Auf-und-ab-Blueslauf, ideal für das **Ende einer Phrase**.",
+          "ja": "# パターン1 – まっすぐなブルース・ラン\n右手で8分音符：\n\n**C – E♭ – F – G♭ – G – B♭ – C – B♭ – G – G♭ – F – E♭ – C**\n\nポイント：\n- **一定のリズム**をキープして、ゆっくりめのシャッフルをイメージ\n- **G♭** から **G** へは、少し“にじませる”ように。あわてて移動しない\n\nフレーズの**締めくくり**にそのまま使える、王道のブルース・ランです。",
+          "pt-BR": "# Padrão 1 – Corrida blues reta\nMão direita em colcheias:\n\n**C – E♭ – F – G♭ – G – B♭ – C – B♭ – G – G♭ – F – E♭ – C**\n\nDicas:\n- Mantenha o ritmo **bem constante**, pensando em um shuffle mais lento\n- Deixe o **G♭** “escorregar” para o **G** – não apresse essa passagem\n\nÉ um clássico “sobe e desce” de blues, ótimo para usar no **fim de uma frase**.",
+          "es": "# Patrón 1 – Recorrido blues directo\nMano derecha en corcheas:\n\n**C – E♭ – F – G♭ – G – B♭ – C – B♭ – G – G♭ – F – E♭ – C**\n\nConsejos:\n- Mantén el ritmo **estable**, como un shuffle lento\n- Deja que **G♭** “se apoye” en **G**, sin apresurar ese desliz\n\nEs un recorrido blues clásico de subida y bajada que puedes usar al **final de una frase**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pattern 2 – call and response lick\nStill in C blues, right hand only.\n\n**Call (bar 1):**\n- C – E♭ – F – G – F – E♭ – C\n\n**Response (bar 2):**\n- G – B♭ – G – F – E♭ – C\n\nPlay it over a **C7 chord** in the left hand.\n\nThink of the first bar as a **question**, and the second as a **short answer**.",
+          "zh-Hans": "# 模式二 – 呼应式小乐句\n仍然用 C 蓝调，先只练右手。\n\n**“问句”（第1小节）**：\n- C – E♭ – F – G – F – E♭ – C\n\n**“答句”（第2小节）**：\n- G – B♭ – G – F – E♭ – C\n\n左手配一个 **C7 和弦**。\n\n想象第一小节是一个**提问**，第二小节是一个**简短的回答**。",
+          "de": "# Pattern 2 – Ruf-und-Antwort-Lick\nBleib in C-Blues, zunächst nur rechte Hand.\n\n**Ruf (Takt 1):**\n- C – E♭ – F – G – F – E♭ – C\n\n**Antwort (Takt 2):**\n- G – B♭ – G – F – E♭ – C\n\nSpiele das über einem **C7-Akkord** in der linken Hand.\n\nDenk den ersten Takt als **Frage**, den zweiten als **kurze Antwort**.",
+          "ja": "# パターン2 – コール＆レスポンスのリック\nCブルースのまま、まずは右手だけで。\n\n**コール（1小節目）**\n- C – E♭ – F – G – F – E♭ – C\n\n**レスポンス（2小節目）**\n- G – B♭ – G – F – E♭ – C\n\n左手では **C7コード** を押さえます。\n\n1小節目を**質問**、2小節目を**短い答え**としてイメージしてみてください。",
+          "pt-BR": "# Padrão 2 – Lick de pergunta e resposta\nAinda na escala blues em C, só mão direita.\n\n**Pergunta (compasso 1):**\n- C – E♭ – F – G – F – E♭ – C\n\n**Resposta (compasso 2):**\n- G – B♭ – G – F – E♭ – C\n\nToque isso sobre um **acorde de C7** na mão esquerda.\n\nPense no primeiro compasso como uma **pergunta**, e no segundo como uma **resposta curta**.",
+          "es": "# Patrón 2 – Lick de pregunta y respuesta\nSeguimos en Do blues, solo mano derecha.\n\n**Pregunta (compás 1):**\n- C – E♭ – F – G – F – E♭ – C\n\n**Respuesta (compás 2):**\n- G – B♭ – G – F – E♭ – C\n\nTócalo sobre un **acorde de C7** en la mano izquierda.\n\nPiensa en el primer compás como una **pregunta** y el segundo como una **respuesta corta**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pattern 3 – left-hand groove idea\nUse the **low register** for the left hand.\n\nOver **C7**, try this repeating figure:\n\nC – E♭ – E – G – A – G – E – E♭\n\nPlay it in a **swing feel** (the first of each pair a bit longer).\n\nYou can loop this while the right hand plays any of the **C blues scale patterns** from above.",
+          "zh-Hans": "# 模式三 – 左手律动想法\n左手用**偏低的区域**。\n\n在 **C7** 上试试这个循环：\n\nC – E♭ – E – G – A – G – E – E♭\n\n用**摇摆（swing）感觉**来弹，每一对音里第一个稍长一点。\n\n你可以一边循环这个左手型，一边让右手用前面学过的任意 **C蓝调音阶指型** 来即兴。",
+          "de": "# Pattern 3 – Groove-Idee für die linke Hand\nNutze den **tiefen Bereich** für die linke Hand.\n\nÜber **C7** kannst du diese Figur wiederholen:\n\nC – E♭ – E – G – A – G – E – E♭\n\nSpiele sie mit **Swing-Feeling** (der erste Ton jedes Paares etwas länger).\n\nWährenddessen kann die rechte Hand frei mit den oben geübten **C-Blues-Patterns** improvisieren.",
+          "ja": "# パターン3 – 左手のグルーヴ・アイデア\n左手は**低音域**を使います。\n\n**C7** の上で、次のフレーズをループしましょう：\n\nC – E♭ – E – G – A – G – E – E♭\n\n**スウィング感**をつけて、2音セットのうち1音目を少し長めに。\n\nこの左手パターンを回しながら、右手は上で練習した **Cブルース・スケールのパターン** を自由に重ねて構いません。",
+          "pt-BR": "# Padrão 3 – Ideia de groove na mão esquerda\nUse a **região grave** para a mão esquerda.\n\nSobre **C7**, experimente repetir:\n\nC – E♭ – E – G – A – G – E – E♭\n\nToque em **feel de swing** (o primeiro de cada par um pouco mais longo).\n\nVocê pode ficar em loop com esse groove na esquerda enquanto a mão direita toca qualquer um dos **padrões da escala blues em C** que vimos.",
+          "es": "# Patrón 3 – Idea de groove para la mano izquierda\nUsa el **registro grave** para la mano izquierda.\n\nSobre **C7**, prueba esta figura repetida:\n\nC – E♭ – E – G – A – G – E – E♭\n\nTócala con **sensación de swing** (el primer sonido de cada pareja un poco más largo).\n\nPuedes dejar este groove en bucle mientras la mano derecha toca cualquiera de los **patrones de la escala blues en C** de arriba."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play the **C blues scale** slowly up and down with a steady, light swing.\n2. Add **Pattern 1** at the end of the scale as a “tag”.\n3. Practice **Pattern 2** (call and response) over a C7 chord until it feels natural.\n4. When you’re ready, loop **Pattern 3** in the left hand and mix any short ideas from the scale in the right hand.\n\nDon’t worry about playing fast – focus on **good timing, strong rhythm and confident blue notes**.",
+          "zh-Hans": "## 快速练习\n1. 慢速用一点点 swing 感，把 **C蓝调音阶** 上下各弹几遍。\n2. 在音阶的结尾加上**模式一**，当作“收尾句”。\n3. 在 C7 和弦上反复练习**模式二**（问答句），直到感觉自然顺口。\n4. 准备好后，让左手循环**模式三**，右手用蓝调音阶随意拼一些短句。\n\n不用追求快，先把**节奏、拍子和蓝调音的自信味道**做好。",
+          "de": "## Kurze Übung\n1. Spiele die **C-Blues-Tonleiter** langsam auf- und abwärts mit leichtem Swing.\n2. Hänge **Pattern 1** am Ende der Tonleiter als kleines „Tag“ an.\n3. Übe **Pattern 2** (Ruf und Antwort) über einem C7-Akkord, bis es sich natürlich anfühlt.\n4. Wenn du soweit bist, lass **Pattern 3** in der linken Hand im Loop laufen und mische dazu kurze Ideen aus der Tonleiter in der rechten Hand.\n\nMach dir keine Sorgen um Geschwindigkeit – wichtiger sind **Timing, fester Groove und selbstbewusste Blue Notes**.",
+          "ja": "## かんたん練習\n1. まずは **Cブルース・スケール** を、軽くスウィングさせながらゆっくり上下に弾きます。\n2. スケールの終わりに **パターン1** を“しめの一言”として付け足してみましょう。\n3. **パターン2**（コール＆レスポンス）を C7コードの上で何度も練習し、自然に出てくるところまで持っていきます。\n4. 準備ができたら、左手で **パターン3** をループさせ、右手ではブルース・スケールから短いフレーズを自由に組み合わせてみてください。\n\n速さは気にせず、まずは **タイミング・リズム感・ブルーノートの“言い切り感”** を大事にしましょう。",
+          "pt-BR": "## Prática rápida\n1. Toque a **escala blues em C** devagar, subindo e descendo, com um leve swing.\n2. No final da escala, acrescente o **Padrão 1** como um “arremate”.\n3. Pratique o **Padrão 2** (pergunta e resposta) sobre um acorde de C7 até ficar natural.\n4. Quando se sentir à vontade, deixe o **Padrão 3** em loop na mão esquerda e misture pequenas ideias da escala na mão direita.\n\nNão se preocupe em tocar rápido – foque em **bom timing, ritmo firme e blue notes seguras**.",
+          "es": "## Práctica rápida\n1. Toca la **escala blues en C** despacio, subiendo y bajando, con un ligero swing.\n2. Al final de la escala, añade el **Patrón 1** como “remate”.\n3. Practica el **Patrón 2** (pregunta y respuesta) sobre un acorde de C7 hasta que se sienta natural.\n4. Cuando estés listo, deja el **Patrón 3** en bucle en la mano izquierda y mezcla pequeñas ideas de la escala en la mano derecha.\n\nNo te preocupes por la velocidad: céntrate en **buen timing, ritmo sólido y blue notes tocadas con seguridad**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d-dorian-over-a-static-dm7-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Dorian over a Static Dm7 Groove",
+        "zh-Hans": "在静态Dm7律动上的D多利亚练习",
+        "de": "D-Dorisch über einen statischen Dm7-Groove",
+        "ja": "静的なDm7グルーヴ上のDドリアン",
+        "pt-BR": "Ré Dórico sobre um Groove Estático de Dm7",
+        "es": "Re Dórico sobre un groove estático de Rem7"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "g-mixolydian-over-dominant-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Mixolydian over Dominant Grooves",
+        "zh-Hans": "在属律动上的G混合利底亚练习",
+        "de": "G-Mixolydisch über Dominant-Grooves",
+        "ja": "ドミナントグルーヴ上のGミクソリディア",
+        "pt-BR": "Sol Mixolídio sobre Grooves Dominantes",
+        "es": "Sol Mixolidio sobre grooves dominantes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-modes-for-simple-left-right-hand-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Modes for Simple Left-Right Hand Patterns",
+        "zh-Hans": "使用调式进行简单的左右手配合",
+        "de": "Verwendung von Modi für einfache Muster der linken und rechten Hand",
+        "ja": "左右の手の簡単なパターンにモードを使用する",
+        "pt-BR": "Usando Modos para Padrões Simples de Mão Esquerda e Direita",
+        "es": "Uso de modos para patrones simples de mano izquierda y derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c-major-one-octave-2nd-position",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave (2nd Position)",
+        "zh-Hans": "C大调音阶——一个八度（第2把位）",
+        "de": "C-Dur-Tonleiter – Eine Oktave (2. Lage)",
+        "ja": "Cメジャー・スケール 1オクターブ（第2ポジション）",
+        "pt-BR": "Escala de Dó Maior – Uma oitava (2ª posição)",
+        "es": "Escala de Do mayor – Una octava (2.ª posición)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play a one-octave C major scale starting in second position.",
+        "zh-Hans": "在第二把位上演奏一个八度的C大调音阶。",
+        "de": "Spiele eine C-Dur-Tonleiter über eine Oktave aus der 2. Lage.",
+        "ja": "第2ポジションから、1オクターブのCメジャー・スケールを弾きましょう。",
+        "pt-BR": "Toque uma escala de Dó Maior de uma oitava começando na 2ª posição.",
+        "es": "Toca una escala de Do mayor de una octava empezando en la 2.ª posición."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "a-minor-pentatonic-basic-box",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "A Minor Pentatonic – Basic Box Shape",
+        "zh-Hans": "A小调五声音阶——基础箱形指型",
+        "de": "A-Moll-Pentatonik – Grundlegende Box-Form",
+        "ja": "Aマイナー・ペンタトニック 基本ボックス・ポジション",
+        "pt-BR": "Pentatônica de Lá menor – Desenho box básico",
+        "es": "Pentatónica de La menor – Forma de caja básica"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn a simple A minor pentatonic box that fits common bass lines.",
+        "zh-Hans": "学习一个适合常见贝斯线的简单A小调五声音阶箱形指型。",
+        "de": "Lerne eine einfache A-Moll-Pentatonik-Box, die zu typischen Basslinien passt.",
+        "ja": "よく使われるベースラインにフィットする、シンプルなAマイナー・ペンタトニックのボックス・ポジションを覚えましょう。",
+        "pt-BR": "Aprenda um desenho simples de pentatônica de Lá menor que se encaixa em linhas de baixo comuns.",
+        "es": "Aprende una forma sencilla de pentatónica de La menor que encaja con líneas de bajo habituales."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

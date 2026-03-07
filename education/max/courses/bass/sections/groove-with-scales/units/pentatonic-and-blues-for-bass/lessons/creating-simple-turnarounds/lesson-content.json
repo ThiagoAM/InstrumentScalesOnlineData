@@ -1,0 +1,60 @@
+{
+  "id": "creating-simple-turnarounds",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What is a turnaround?\nA **turnaround** is a short line you play at the **end of a section** to lead back to the beginning.\n\nIn blues and rock, it often lives in the **last bar** and tells the band: “we’re going around again”. In this lesson you’ll build simple turnarounds using the **A and E blues scales**.",
+          "zh-Hans": "# 什么是 Turnaround？\n**Turnaround（转回乐句）** 是放在**一段结尾**的短旋律，用来自然地带回到开头。\n\n在布鲁斯和摇滚里，它通常出现在**最后一小节**，相当于在告诉乐队：“我们再来一遍”。本课中，你会用 **A 和 E 布鲁斯音阶** 来做几个简单的 turnaround。",
+          "de": "# Was ist ein Turnaround?\nEin **Turnaround** ist eine kurze Linie am **Ende eines Abschnitts**, die zurück zum Anfang führt.\n\nIm Blues und Rock liegt er oft im **letzten Takt** und signalisiert der Band: „Wir gehen noch mal von vorn.“ In dieser Lektion baust du einfache Turnarounds mit den **A- und E-Blues-Skalen**.",
+          "ja": "# ターンアラウンドって何？\n**ターンアラウンド**は、フレーズやフォームの**最後に入れる短いライン**で、もう一度頭に戻るための合図です。\n\nブルースやロックでは、たいてい**最後の小節**に入り、「もう一周いくよ」というサインになります。このレッスンでは、**A と E のブルース・スケール**を使ってシンプルなターンアラウンドを作っていきます。",
+          "pt-BR": "# O que é um turnaround?\nUm **turnaround** é uma frase curtinha que você toca no **fim de uma parte** para voltar com estilo para o começo.\n\nNo blues e no rock ele costuma ficar no **último compasso**, avisando para a banda: “vamos rodar de novo”. Nesta lição você vai criar turnarounds simples usando as escalas blues de **A e de E**.",
+          "es": "# ¿Qué es un turnaround?\nUn **turnaround** es una frase corta que se toca al **final de una sección** para volver con naturalidad al principio.\n\nEn blues y rock suele aparecer en el **último compás**, y le dice a la banda: “vamos otra vez desde el inicio”. En esta lección vas a crear turnarounds sencillos usando las escalas blues de **La (A) y Mi (E)**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Turnaround 1 – Stay in A (A blues scale)\nUse the **A blues scale** around the 5th fret and play all notes as **8th notes**.\n\n**Notes (A blues):** A – C – D – Eb – E – G – A\n\n**Line for the last bar before repeating A:**\n- A (4th string, 5th fret)\n- C (4th string, 8th fret)\n- D (3rd string, 5th fret)\n- Eb (3rd string, 6th fret)\n- E (3rd string, 7th fret)\n- G (2nd string, 5th fret)\n- E (3rd string, 7th fret)\n- A (4th string, 5th fret)\n\nLet the **last A** land strongly on beat 1 when the form starts again.",
+          "zh-Hans": "# Turnaround 1 – 留在 A 调（A 布鲁斯音阶）\n用 5 品附近的 **A 布鲁斯音阶**，所有音都弹成**八分音符**。\n\n**A 布鲁斯音阶音：** A – C – D – Eb – E – G – A\n\n**在回到 A 之前的最后一小节可以这样弹：**\n- A（第 4 弦，第 5 品）\n- C（第 4 弦，第 8 品）\n- D（第 3 弦，第 5 品）\n- Eb（第 3 弦，第 6 品）\n- E（第 3 弦，第 7 品）\n- G（第 2 弦，第 5 品）\n- E（第 3 弦，第 7 品）\n- A（第 4 弦，第 5 品）\n\n让最后那个 **A** 清晰地落在下一轮开始时的强拍上。",
+          "de": "# Turnaround 1 – In A bleiben (A-Blues-Skala)\nNutze die **A-Blues-Skala** um den 5. Bund und spiele alle Töne als **Achtelnoten**.\n\n**Töne der A-Blues-Skala:** A – C – D – Eb – E – G – A\n\n**Linie für den letzten Takt, bevor A wieder beginnt:**\n- A (4. Saite, 5. Bund)\n- C (4. Saite, 8. Bund)\n- D (3. Saite, 5. Bund)\n- Eb (3. Saite, 6. Bund)\n- E (3. Saite, 7. Bund)\n- G (2. Saite, 5. Bund)\n- E (3. Saite, 7. Bund)\n- A (4. Saite, 5. Bund)\n\nLass das **letzte A** deutlich auf Zählzeit 1 landen, wenn die Form wieder von vorn beginnt.",
+          "ja": "# ターンアラウンド 1 – A にとどまる（A ブルース・スケール）\n5 フレット周辺の **A ブルース・スケール**を使い、すべて **8 分音符** で弾きます。\n\n**A ブルース・スケールの音：** A – C – D – Eb – E – G – A\n\n**A に戻る前の最後の小節で使えるライン：**\n- A（4 弦 5 フレット）\n- C（4 弦 8 フレット）\n- D（3 弦 5 フレット）\n- Eb（3 弦 6 フレット）\n- E（3 弦 7 フレット）\n- G（2 弦 5 フレット）\n- E（3 弦 7 フレット）\n- A（4 弦 5 フレット）\n\nフォームが頭に戻るとき、**最後の A** をしっかり 1 拍目に置きましょう。",
+          "pt-BR": "# Turnaround 1 – Ficar em A (escala blues de A)\nUse a **escala blues de A** em volta da 5ª casa e toque tudo em **colcheias**.\n\n**Notas da blues de A:** A – C – D – Eb – E – G – A\n\n**Linha para o último compasso antes de voltar para A:**\n- A (4ª corda, 5ª casa)\n- C (4ª corda, 8ª casa)\n- D (3ª corda, 5ª casa)\n- Eb (3ª corda, 6ª casa)\n- E (3ª corda, 7ª casa)\n- G (2ª corda, 5ª casa)\n- E (3ª corda, 7ª casa)\n- A (4ª corda, 5ª casa)\n\nDeixe o **último A** cair forte no tempo 1 quando a forma recomeçar.",
+          "es": "# Turnaround 1 – Quedarse en La (escala blues de A)\nUsa la **escala blues de La** alrededor del traste 5 y toca todo como **corcheas**.\n\n**Notas de la blues de La:** A – C – D – Eb – E – G – A\n\n**Línea para el último compás antes de volver a La:**\n- A (4ª cuerda, traste 5)\n- C (4ª cuerda, traste 8)\n- D (3ª cuerda, traste 5)\n- Eb (3ª cuerda, traste 6)\n- E (3ª cuerda, traste 7)\n- G (2ª cuerda, traste 5)\n- E (3ª cuerda, traste 7)\n- A (4ª cuerda, traste 5)\n\nHaz que el **último La** caiga bien firme en el tiempo 1 cuando la forma empiece de nuevo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Turnaround 2 – Leading back to A from E\nIn many blues in A, the **last bar** is an **E7** chord that leads back to **A7**.\n\nYou can use a tiny **chromatic walk** from E up to A:\n\n1. Over the last bar on E7, play 4 even 8th notes:\n   - E (4th string, open or 3rd string, 2nd fret)\n   - F (4th string, 1st fret)\n   - F# (4th string, 2nd fret)\n   - G (4th string, 3rd fret)\n2. Then hit **A (4th string, 5th fret)** strong on the downbeat of the new chorus.\n\nThis “E–F–F#–G → A” move is simple, clear and works at many tempos.",
+          "zh-Hans": "# Turnaround 2 – 从 E 回到 A\n很多 A 调布鲁斯里，**最后一小节**是 **E7** 和弦，用来带回 **A7**。\n\n你可以从 E 往上做一个小小的**半音走音**：\n\n1. 在最后一小节的 E7 上，弹 4 个均匀的八分音符：\n   - E（第 4 弦空弦，或第 3 弦第 2 品）\n   - F（第 4 弦第 1 品）\n   - F#（第 4 弦第 2 品）\n   - G（第 4 弦第 3 品）\n2. 然后在新一轮开始时的强拍，重重落在 **A（第 4 弦第 5 品）**。\n\n这个 “E–F–F#–G → A” 的走法简单、清晰，而且在各种速度下都很好用。",
+          "de": "# Turnaround 2 – Von E zurück nach A\nIn vielen Blues-Schemata in A ist der **letzte Takt** ein **E7**, der zurück nach **A7** führt.\n\nDu kannst einen kleinen **chromatischen Aufgang** von E nach A spielen:\n\n1. Im letzten Takt über E7 spielst du 4 gleichmäßige Achtelnoten:\n   - E (4. Saite leer oder 3. Saite, 2. Bund)\n   - F (4. Saite, 1. Bund)\n   - F# (4. Saite, 2. Bund)\n   - G (4. Saite, 3. Bund)\n2. Dann schlägst du **A (4. Saite, 5. Bund)** kräftig auf die 1 des neuen Durchgangs.\n\nDiese „E–F–F#–G → A“-Bewegung ist simpel, deutlich und funktioniert in vielen Tempi.",
+          "ja": "# ターンアラウンド 2 – E から A へ戻る\nA のブルースでは、**最後の小節**が **E7** になっていて、そこから **A7** に戻る形がよくあります。\n\nそこで、E から A への小さな**半音階のウォークアップ**を使ってみましょう：\n\n1. 最後の小節（E7）の上で、均等な 8 分音符を 4 つ弾きます：\n   - E（4 弦開放、または 3 弦 2 フレット）\n   - F（4 弦 1 フレット）\n   - F#（4 弦 2 フレット）\n   - G（4 弦 3 フレット）\n2. そのあと、新しいコーラスの 1 拍目で **A（4 弦 5 フレット）** をしっかり鳴らします。\n\nこの「E–F–F#–G → A」という動きは、シンプルで分かりやすく、いろんなテンポで使えます。",
+          "pt-BR": "# Turnaround 2 – Voltando de E para A\nEm muitos blues em A, o **último compasso** é um **E7**, que puxa de volta para o **A7**.\n\nVocê pode usar uma pequena **caminhada cromática** subindo de E até A:\n\n1. No último compasso em E7, toque 4 colcheias bem regulares:\n   - E (4ª corda solta ou 3ª corda, 2ª casa)\n   - F (4ª corda, 1ª casa)\n   - F# (4ª corda, 2ª casa)\n   - G (4ª corda, 3ª casa)\n2. Depois, acerte **A (4ª corda, 5ª casa)** bem firme no tempo 1 do novo ciclo.\n\nEsse movimento “E–F–F#–G → A” é simples, claro e funciona em vários andamentos.",
+          "es": "# Turnaround 2 – Volviendo de Mi a La\nEn muchos blues en La, el **último compás** es un **E7**, que lleva de regreso a **A7**.\n\nPuedes usar un pequeño **camino cromático** subiendo desde E hasta A:\n\n1. En el último compás sobre E7, toca 4 corcheas iguales:\n   - E (4ª cuerda al aire o 3ª cuerda, traste 2)\n   - F (4ª cuerda, traste 1)\n   - F# (4ª cuerda, traste 2)\n   - G (4ª cuerda, traste 3)\n2. Luego golpea **A (4ª cuerda, traste 5)** bien fuerte en el tiempo 1 del nuevo ciclo.\n\nEste movimiento “E–F–F#–G → A” es sencillo, claro y funciona en muchos tempos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Create your own\n- Pick a **target root** (A or E)\n- Start 3–4 notes **below or above** it\n- Use notes from the **blues scale**, and add 1–2 chromatic steps if they still groove\n- Keep the rhythm simple (8th notes or a mix of 8ths and quarters)\n\nIf the line clearly **points into the next root** and stays in time, you’ve created a useful turnaround.",
+          "zh-Hans": "# 自己动手做 Turnaround\n- 先选好下一个要落的**主音**（A 或 E）\n- 从它**上方或下方 3–4 个音**开始走\n- 主要用 **布鲁斯音阶** 的音，如果听起来还在 groove 里，可以加 1–2 个半音经过音\n- 节奏保持简单（全是八分音符，或者八分音符加四分音符）\n\n只要这个乐句能清楚地**指向下一个主音**，而且节奏稳，你就做出了一个很好用的 turnaround。",
+          "de": "# Eigene Turnarounds bauen\n- Such dir zuerst den **Zielgrundton** aus (A oder E)\n- Starte 3–4 Töne **darunter oder darüber**\n- Nutze vor allem Töne aus der **Blues-Skala** und ergänze 1–2 chromatische Zwischenschritte, solange es groovt\n- Halt den Rhythmus simpel (nur Achtel oder eine Mischung aus Achteln und Vierteln)\n\nWenn die Linie klar **in den nächsten Grundton hineinführt** und im Timing bleibt, hast du einen brauchbaren Turnaround gebaut.",
+          "ja": "# 自分のターンアラウンドを作る\n- まず次に行きたい**ルート音**（A か E）を決める\n- その**少し下または上から 3〜4 音**でスタートする\n- 基本は **ブルース・スケール** の音を使い、グルーヴが崩れなければ 1〜2 音だけクロマチックを足してもOK\n- リズムはシンプルに（8 分音符中心、または 8 分＋4 分の組み合わせ）\n\nフレーズがはっきりと**次のルートに向かって進んでいて**、リズムが安定していれば、それはもう立派なターンアラウンドです。",
+          "pt-BR": "# Criando o seu\n- Escolha primeiro a **tônica de chegada** (A ou E)\n- Comece 3–4 notas **abaixo ou acima** dela\n- Use as notas da **escala blues** e, se o groove continuar firme, acrescente 1–2 notas cromáticas de passagem\n- Mantenha o ritmo simples (colcheias, ou colcheias misturadas com semínimas)\n\nSe a frase **aponta com clareza para a próxima tônica** e fica no tempo, você acabou de criar um ótimo turnaround.",
+          "es": "# Crea los tuyos\n- Elige primero la **tónica de llegada** (A o E)\n- Empieza 3–4 notas **por debajo o por encima** de ella\n- Usa sobre todo notas de la **escala blues** y añade 1–2 pasos cromáticos si el groove se mantiene\n- Mantén el ritmo sencillo (corcheas, o corcheas mezcladas con negras)\n\nSi la línea **conduce claramente a la siguiente tónica** y se mantiene a tiempo, ya creaste un turnaround muy útil."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

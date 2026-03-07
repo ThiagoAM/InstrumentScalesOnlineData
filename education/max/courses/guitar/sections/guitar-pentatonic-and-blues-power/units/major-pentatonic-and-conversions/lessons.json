@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c-major-pentatonic-box-1",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "C Major Pentatonic – Box 1",
+        "zh-Hans": "C大调五声音阶 —— 第1指型",
+        "de": "C-Dur-Pentatonik – Box 1",
+        "ja": "Cメジャーペンタトニック – ボックス1",
+        "pt-BR": "Dó Maior Pentatônica – Caixa 1",
+        "es": "Do Mayor Pentatónica – Caja 1"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "converting-minor-pentatonic-shapes-to-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Converting Minor Pentatonic Shapes to Major",
+        "zh-Hans": "将小调五声音阶形状转换为大调",
+        "de": "Umwandlung von Moll-Pentatonik-Formen in Dur",
+        "ja": "マイナーペンタトニックシェイプをメジャーに変換する",
+        "pt-BR": "Convertendo Formas Pentatônicas Menores para Maiores",
+        "es": "Conversión de formas pentatónicas menores a mayores"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "switching-major-minor-over-the-same-progression",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Switching Major/Minor Over the Same Progression",
+        "zh-Hans": "在同一和弦进行中切换大/小调",
+        "de": "Wechsel von Dur/Moll über dieselbe Progression",
+        "ja": "同じ進行でのメジャー/マイナーの切り替え",
+        "pt-BR": "Alternando Maior/Menor Sobre a Mesma Progressão",
+        "es": "Cambio de mayor/menor sobre la misma progresión"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

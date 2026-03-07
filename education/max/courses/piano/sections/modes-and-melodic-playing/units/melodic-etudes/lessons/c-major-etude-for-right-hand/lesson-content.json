@@ -1,0 +1,73 @@
+{
+  "id": "c-major-etude-for-right-hand",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major etude for right hand\nThis short etude is a **melodic workout in C major** for your right hand.\n\nIt stays around middle C and uses only **white keys**, so you can focus on:\n- Smooth **legato**\n- Even **8th-note timing**\n- Shaping a simple, clear **musical phrase**",
+          "zh-Hans": "# C大调右手练习曲\n这首短小的练习曲是给右手用的 **C大调旋律练习**。\n\n它主要在中央C附近活动，只用**白键**，这样你可以专心练习：\n- 顺滑的**连音（legato）**\n- 均匀的**八分音节奏**\n- 让简单乐句有清晰的**音乐起伏**",
+          "de": "# C-Dur-Etüde für die rechte Hand\nDiese kurze Etüde ist ein **melodisches C-Dur-Workout** für deine rechte Hand.\n\nSie bleibt in der Nähe des mittleren C und benutzt nur **weiße Tasten**, sodass du dich konzentrieren kannst auf:\n- Sauberes **Legato**\n- Gleichmäßige **Achtelnoten**\n- Eine einfache, klar geformte **musikalische Phrase**",
+          "ja": "# 右手のためのCメジャー・エチュード\nこの短いエチュードは、右手のための **Cメジャーのメロディ練習** です。\n\n中央Cまわりを中心に動き、使うのは**白鍵だけ**なので、次のポイントに集中できます：\n- なめらかな**レガート**\n- そろった**8分音符のリズム**\n- シンプルでもよく歌う**フレーズ作り**",
+          "pt-BR": "# Estudo em dó maior para a mão direita\nEste pequeno estudo é um **treino melódico em dó maior** para a mão direita.\n\nEle fica perto do dó central e usa apenas **teclas brancas**, para você focar em:\n- **Legato** bem suave\n- **Colcheias** bem regulares\n- Dar forma a uma **frase musical simples e clara**",
+          "es": "# Estudio en do mayor para la mano derecha\nEste estudio corto es un **ejercicio melódico en do mayor** para la mano derecha.\n\nSe queda cerca del do central y usa solo **teclas blancas**, así puedes concentrarte en:\n- Un **legato** suave\n- **Corcheas** bien parejas\n- Dar forma a una **frase musical simple y clara**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## The 8-bar line\nThink of the etude as four 2-bar patterns:\n\n**Bars 1–2 – Opening shape**  \nC–D–E–G–E–D–C–D–E–F–G–E\n\n**Bars 3–4 – Answer**  \nE–F–G–A–G–F–E–D–C–E–D–C\n\n**Bars 5–6 – Climb and peak**  \nC–D–E–F–G–A–G–F–E–D–E–F\n\n**Bars 7–8 – Relax and close**  \nG–F–E–D–C–D–E–C–B–C–D–C\n\nCount each group as steady 8th notes: **1 & 2 & 3 & 4 &**.",
+          "zh-Hans": "## 这条 8 小节的旋律\n可以把这首练习曲当成四个 2 小节的小块：\n\n**第 1–2 小节 – 开头的形状**  \nC–D–E–G–E–D–C–D–E–F–G–E\n\n**第 3–4 小节 – 回答**  \nE–F–G–A–G–F–E–D–C–E–D–C\n\n**第 5–6 小节 – 向上爬并到达高点**  \nC–D–E–F–G–A–G–F–E–D–E–F\n\n**第 7–8 小节 – 放松并收尾**  \nG–F–E–D–C–D–E–C–B–C–D–C\n\n每一串都按均匀的八分音符来数：**1 & 2 & 3 & 4 &**。",
+          "de": "## Die 8-taktige Linie\nStell dir die Etüde als vier 2-Takt-Patterns vor:\n\n**Takte 1–2 – Eröffnungsfigur**  \nC–D–E–G–E–D–C–D–E–F–G–E\n\n**Takte 3–4 – Antwort**  \nE–F–G–A–G–F–E–D–C–E–D–C\n\n**Takte 5–6 – Anstieg und Höhepunkt**  \nC–D–E–F–G–A–G–F–E–D–E–F\n\n**Takte 7–8 – Entspannen und schließen**  \nG–F–E–D–C–D–E–C–H–C–D–C\n\nZähl jede Gruppe als gleichmäßige Achtel: **1 & 2 & 3 & 4 &**.",
+          "ja": "## 8小節のライン\nこのエチュードは、4つの2小節パターンと考えると分かりやすいです。\n\n**1〜2小節目 – オープニングの形**  \nC–D–E–G–E–D–C–D–E–F–G–E\n\n**3〜4小節目 – こたえのフレーズ**  \nE–F–G–A–G–F–E–D–C–E–D–C\n\n**5〜6小節目 – 登ってピークへ**  \nC–D–E–F–G–A–G–F–E–D–E–F\n\n**7〜8小節目 – 力を抜いて終わりへ**  \nG–F–E–D–C–D–E–C–B–C–D–C\n\nどの並びも、**1 & 2 & 3 & 4 &** と一定の8分音符でカウントします。",
+          "pt-BR": "## A linha de 8 compassos\nPense no estudo como quatro padrões de 2 compassos:\n\n**Compassos 1–2 – Desenho de abertura**  \nC–D–E–G–E–D–C–D–E–F–G–E\n\n**Compassos 3–4 – Resposta**  \nE–F–G–A–G–F–E–D–C–E–D–C\n\n**Compassos 5–6 – Subida e ponto alto**  \nC–D–E–F–G–A–G–F–E–D–E–F\n\n**Compassos 7–8 – Relaxa e encerra**  \nG–F–E–D–C–D–E–C–B–C–D–C\n\nConte cada grupo como colcheias bem regulares: **1 & 2 & 3 & 4 &**.",
+          "es": "## La línea de 8 compases\nPiensa en el estudio como cuatro patrones de 2 compases:\n\n**Compases 1–2 – Motivo inicial**  \nC–D–E–G–E–D–C–D–E–F–G–E\n\n**Compases 3–4 – Respuesta**  \nE–F–G–A–G–F–E–D–C–E–D–C\n\n**Compases 5–6 – Subida y punto máximo**  \nC–D–E–F–G–A–G–F–E–D–E–F\n\n**Compases 7–8 – Relajar y cerrar**  \nG–F–E–D–C–D–E–C–B–C–D–C\n\nCuenta cada grupo como corcheas parejitas: **1 & 2 & 3 & 4 &**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Hand position and fingering\n- Place **thumb (1) on middle C**\n- Let fingers 2–3–4–5 fall on D–E–F–G\n- When you reach **A**, gently extend finger 5\n- Keep the hand low and relaxed; avoid lifting the wrist too high\n\nIf a spot feels awkward, slow it down and experiment with a nearby fingering, but try to **avoid big hand jumps**.",
+          "zh-Hans": "## 手型和指法\n- 让**拇指（1）放在中央C** 上\n- 2–3–4–5 指自然落在 D–E–F–G\n- 需要弹到 **A** 时，可以轻轻用 5 指往前伸一点\n- 手型保持低而放松，尽量不要把手腕抬得太高\n\n如果某个地方觉得别扭，就放慢速度，试试附近的其他指法，但尽量**不要大幅度挪整个手**。",
+          "de": "## Handhaltung und Fingersatz\n- Lege den **Daumen (1) auf das mittlere C**\n- Finger 2–3–4–5 liegen natürlich auf D–E–F–G\n- Für **A** kannst du den 5. Finger leicht nach vorne strecken\n- Halte die Hand tief und entspannt; vermeide ein zu hohes Handgelenk\n\nWenn eine Stelle sich unbequem anfühlt, spiel sie langsamer und probiere einen angrenzenden Fingersatz, aber vermeide **große Handsprünge**.",
+          "ja": "## 手のポジションと指使い\n- **親指（1）を中央C** に置きます\n- 2・3・4・5の指が自然に D–E–F–G に乗るようにします\n- **A** に行くときは、5の指を少し前に伸ばしてとどきます\n- 手は低くリラックスさせ、手首を必要以上に持ち上げないようにします\n\n弾きにくい場所があればテンポを落として、近い指で少し入れ替えを試しつつ、**手全体の大きなジャンプはなるべく避け**ましょう。",
+          "pt-BR": "## Posição da mão e digitação\n- Coloque o **polegar (1) no dó central**\n- Deixe os dedos 2–3–4–5 caírem naturalmente em D–E–F–G\n- Quando chegar em **A**, estenda o dedo 5 com calma, sem travar a mão\n- Mantenha a mão baixa e relaxada; evite levantar demais o punho\n\nSe algum trecho ficar estranho, diminua o tempo e teste pequenas variações de digitação, mas tente **evitar grandes pulos com a mão**.",
+          "es": "## Posición de la mano y digitación\n- Coloca el **pulgar (1) en el do central**\n- Deja que los dedos 2–3–4–5 caigan sobre D–E–F–G\n- Al llegar a **A**, estira suavemente el dedo 5\n- Mantén la mano baja y relajada; evita subir demasiado la muñeca\n\nSi algún lugar se siente torpe, bájale al tempo y prueba una digitación cercana, pero intenta **evitar saltos grandes con toda la mano**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Phrasing and dynamics\nGive the etude a simple dynamic shape:\n- Bars 1–2: **mezzo-piano (mp)** – gentle opening\n- Bars 3–4: grow to **mezzo-forte (mf)**\n- Bars 5–6: **peak** – your strongest sound\n- Bars 7–8: slowly **fade back down**\n\nLet the highest note of each 2-bar group sing a little more than the others.",
+          "zh-Hans": "## 乐句和力度\n给这首练习一个简单的力度走向：\n- 第 1–2 小节：**中弱（mp）**，温和地开头\n- 第 3–4 小节：往上推到 **中强（mf）**\n- 第 5–6 小节：达到**最强的点**\n- 第 7–8 小节：慢慢**减弱收回**\n\n每个 2 小节块里，最高的那个音可以**稍微强调一点**，像是在“说重点”。",
+          "de": "## Phrasierung und Dynamik\nGib der Etüde eine einfache Form in der Lautstärke:\n- Takte 1–2: **mezzo-piano (mp)** – sanfter Einstieg\n- Takte 3–4: steigere zu **mezzo-forte (mf)**\n- Takte 5–6: **Höhepunkt** – dein kräftigster Klang\n- Takte 7–8: langsam wieder **leiser werden**\n\nLass den höchsten Ton jedes 2-Takt-Abschnitts ein wenig mehr „singen“ als die anderen.",
+          "ja": "## フレージングと強弱\nこのエチュードに、シンプルな強弱のカーブをつけてみましょう：\n- 1〜2小節目：**mp（メッゾ・ピアノ）** – やさしく始める\n- 3〜4小節目：**mf（メッゾ・フォルテ）** まで少し強く\n- 5〜6小節目：**一番盛り上がるポイント**\n- 7〜8小節目：だんだんと**力を抜いて終わりへ**\n\nそれぞれの2小節ごとに、一番高い音を少しだけ目立たせて“歌わせる”イメージで弾いてみてください。",
+          "pt-BR": "## Fraseado e dinâmica\nDê ao estudo um formato simples de dinâmica:\n- Compassos 1–2: **mp (mezzo-piano)** – começo suave\n- Compassos 3–4: crescendo até **mf (mezzo-forte)**\n- Compassos 5–6: **ponto de maior intensidade**\n- Compassos 7–8: vá **diminuindo o volume** até fechar\n\nEm cada bloco de 2 compassos, deixe a nota mais aguda **“cantar” um pouco mais** que as outras.",
+          "es": "## Fraseo y dinámica\nDale al estudio una forma simple de dinámica:\n- Compases 1–2: **mp (mezzo-piano)** – inicio suave\n- Compases 3–4: sube a **mf (mezzo-forte)**\n- Compases 5–6: **punto más fuerte**\n- Compases 7–8: empieza a **bajar el volumen**\n\nEn cada grupo de 2 compases, deja que la nota más aguda **“cante” un poco más** que las demás."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. First, tap the **8th-note pulse** and count “1 & 2 & 3 & 4 &”.\n2. Learn **bars 1–2 only**, right hand alone. When that feels easy, add bars 3–4.\n3. Practice **bars 5–6** and **7–8** as separate little phrases, then connect all 8 bars.\n4. Play the whole etude slowly with a **metronome**, then bring the tempo up in small steps.\n\nWhen this feels comfortable, try re-using the same 8-bar rhythm shape in another key or mode and build your own melodic etude.",
+          "zh-Hans": "## 快速练习\n1. 先不用弹琴，用手**打出八分音符律动**，嘴里数“1 & 2 & 3 & 4 &”。\n2. 只学**第 1–2 小节**，先右手单独练。熟练后再加上 3–4 小节。\n3. 把 **5–6 小节** 和 **7–8 小节** 当成两个小乐句单独练，然后再连成完整的 8 小节。\n4. 用**节拍器**慢速弹完整的练习曲，再一点点把速度提上去。\n\n当这首曲子变得轻松时，可以把同样的 8 小节节奏框架搬到别的调式或调性里，自己编一条新的旋律练习。",
+          "de": "## Kurze Übung\n1. Klopfe zuerst den **Achtel-Puls** und zähle „1 & 2 & 3 & 4 &“.\n2. Lerne zunächst nur **Takte 1–2** mit der rechten Hand allein. Wenn das locker geht, ergänze Takte 3–4.\n3. Übe **Takte 5–6** und **7–8** jeweils als eigene kleine Phrasen und verbinde dann alle 8 Takte.\n4. Spiele die ganze Etüde langsam mit **Metronom** und erhöhe das Tempo in kleinen Schritten.\n\nWenn sich das sicher anfühlt, nimm dasselbe 8-Takt-Rhythmus-Gerüst in eine andere Tonart oder einen anderen Mode mit und bastle dir deine eigene melodische Etüde.",
+          "ja": "## かんたん練習\n1. まずは鍵盤を弾かずに、**8分音符の脈**を手で軽く叩きながら「1 & 2 & 3 & 4 &」とカウントします。\n2. つぎに、右手だけで **1〜2小節目** を覚えます。慣れてきたら 3〜4小節目を足します。\n3. **5〜6小節目** と **7〜8小節目** をそれぞれ別の小さなフレーズとして練習し、最後に8小節すべてをつなげます。\n4. 全体をゆっくりと**メトロノーム**に合わせて弾き、安定してきたら少しずつテンポを上げてみましょう。\n\n弾きやすくなってきたら、この8小節のリズムの形をそのまま別の調やモードに移して、自分だけのメロディック・エチュードを作ってみてください。",
+          "pt-BR": "## Prática rápida\n1. Primeiro, bata o **pulso de colcheias** com a mão e conte “1 & 2 & 3 & 4 &”.\n2. Aprenda só os **compassos 1–2**, só com a mão direita. Quando estiver confortável, junte 3–4.\n3. Estude os **compassos 5–6** e **7–8** como duas pequenas frases separadas e, depois, conecte os 8 compassos.\n4. Toque o estudo inteiro devagar com **metrônomo**, e vá aumentando o andamento em passos pequenos.\n\nQuando estiver tranquilo, reaproveite o mesmo desenho rítmico de 8 compassos em outra tonalidade ou modo e crie o seu próprio estudo melódico.",
+          "es": "## Práctica rápida\n1. Primero, marca el **pulso de corcheas** con la mano y cuenta “1 & 2 & 3 & 4 &”.\n2. Aprende solo los **compases 1–2** con la mano derecha. Cuando se sientan fáciles, añade 3–4.\n3. Trabaja los **compases 5–6** y **7–8** como dos frases pequeñas, y luego une los 8 compases completos.\n4. Toca todo el estudio despacio con **metrónomo**, y ve subiendo el tempo en pasos pequeños.\n\nCuando esto sea cómodo, reutiliza la misma forma rítmica de 8 compases en otra tonalidad o modo y construye tu propio estudio melódico."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

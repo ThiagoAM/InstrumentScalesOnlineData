@@ -1,0 +1,83 @@
+[
+  {
+    "id": "daily-technical-routine",
+    "name": {
+      "values": {
+        "en": "Daily Technical Routine",
+        "zh-Hans": "日常技术练习",
+        "de": "Tägliche technische Routine",
+        "ja": "毎日のテクニックルーチン",
+        "pt-BR": "Rotina Técnica Diária",
+        "es": "Rutina técnica diaria"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Daily Technical Routine",
+        "zh-Hans": "日常技术练习",
+        "de": "Tägliche technische Routine",
+        "ja": "毎日のテクニックルーチン",
+        "pt-BR": "Rotina Técnica Diária",
+        "es": "Rutina técnica diaria"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "applying-scales-to-real-progressions",
+    "name": {
+      "values": {
+        "en": "Applying Scales to Real Progressions",
+        "zh-Hans": "将音阶应用于实际和弦进行",
+        "de": "Anwendung von Skalen auf echte Progressionen",
+        "ja": "実際の進行へのスケールの応用",
+        "pt-BR": "Aplicando Escalas a Progressões Reais",
+        "es": "Aplicación de escalas a progresiones reales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Applying Scales to Real Progressions",
+        "zh-Hans": "将音阶应用于实际和弦进行",
+        "de": "Anwendung von Skalen auf echte Progressionen",
+        "ja": "実際の進行へのスケールの応用",
+        "pt-BR": "Aplicando Escalas a Progressões Reais",
+        "es": "Aplicación de escalas a progresiones reales"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-your-own-practice-plan",
+    "name": {
+      "values": {
+        "en": "Creating Your Own Practice Plan",
+        "zh-Hans": "制定你自己的练习计划",
+        "de": "Erstellung eines eigenen Übungsplans",
+        "ja": "独自の練習プランの作成",
+        "pt-BR": "Criando Seu Próprio Plano de Estudo",
+        "es": "Creación de tu propio plan de práctica"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Creating Your Own Practice Plan",
+        "zh-Hans": "制定你自己的练习计划",
+        "de": "Erstellung eines eigenen Übungsplans",
+        "ja": "独自の練習プランの作成",
+        "pt-BR": "Criando Seu Próprio Plano de Estudo",
+        "es": "Creación de tu propio plan de práctica"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "building-walking-lines",
+    "name": {
+      "values": {
+        "en": "Building Walking Lines",
+        "zh-Hans": "构建行进贝斯线",
+        "de": "Walking Basslines entwickeln",
+        "ja": "ウォーキングラインを作る",
+        "pt-BR": "Construindo Linhas de Walking Bass",
+        "es": "Construyendo líneas de walking bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Building Walking Lines",
+        "zh-Hans": "构建行进贝斯线",
+        "de": "Walking Basslines entwickeln",
+        "ja": "ウォーキングラインを作る",
+        "pt-BR": "Construindo Linhas de Walking Bass",
+        "es": "Construyendo líneas de walking bass"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "ii-v-i-and-jazz-basics",
+    "name": {
+      "values": {
+        "en": "ii–V–I and Jazz Basics",
+        "zh-Hans": "ii–V–I 与爵士基础",
+        "de": "ii–V–I und Jazz-Grundlagen",
+        "ja": "ii–V–I とジャズの基本",
+        "pt-BR": "ii–V–I e Fundamentos de Jazz",
+        "es": "ii–V–I y fundamentos del jazz"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "ii–V–I and Jazz Basics",
+        "zh-Hans": "ii–V–I 与爵士基础",
+        "de": "ii–V–I und Jazz-Grundlagen",
+        "ja": "ii–V–I とジャズの基本",
+        "pt-BR": "ii–V–I e Fundamentos de Jazz",
+        "es": "ii–V–I y fundamentos del jazz"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "practice-routines-for-bassists",
+    "name": {
+      "values": {
+        "en": "Practice Routines for Bassists",
+        "zh-Hans": "贝斯手练习方案",
+        "de": "Übungsroutinen für Bassisten",
+        "ja": "ベーシストのための練習ルーティン",
+        "pt-BR": "Rotinas de Prática para Baixistas",
+        "es": "Rutinas de práctica para bajistas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice Routines for Bassists",
+        "zh-Hans": "贝斯手练习方案",
+        "de": "Übungsroutinen für Bassisten",
+        "ja": "ベーシストのための練習ルーティン",
+        "pt-BR": "Rotinas de Prática para Baixistas",
+        "es": "Rutinas de práctica para bajistas"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

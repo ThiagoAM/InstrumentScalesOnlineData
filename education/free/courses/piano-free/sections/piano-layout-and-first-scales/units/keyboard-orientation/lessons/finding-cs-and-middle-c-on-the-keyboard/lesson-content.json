@@ -1,0 +1,73 @@
+{
+  "id": "finding-cs-and-middle-c-on-the-keyboard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Finding C and middle C\nOn piano, **C** is the reference point for many scales and chords.\n\nIn this lesson you’ll learn how to spot **every C** on the keyboard and how to quickly find **middle C**, the C closest to the center of the keyboard.",
+          "zh-Hans": "# 找到所有的C和中央C\n在钢琴上，**C 音**是很多音阶和和弦的参考点。\n\n本课会教你如何在键盘上找到**所有的 C**，以及如何快速找到**中央 C**——也就是靠近键盘中间的那个 C。",
+          "de": "# Alle Cs und das mittlere C finden\nAuf dem Klavier ist **C** für viele Tonleitern und Akkorde der Bezugspunkt.\n\nIn dieser Lektion lernst du, wie du **alle Cs** auf der Klaviatur erkennst und wie du schnell das **mittlere C** findest – also das C in der Nähe der Mitte der Tastatur.",
+          "ja": "# すべてのCと真ん中のCを見つける\nピアノでは、**C（ド）**は多くのスケールやコードの基準になる音です。\n\nこのレッスンでは、鍵盤上の**すべてのC**の見つけ方と、鍵盤の真ん中付近にある**ミドルC（中央ド）**を素早く見つけるコツを練習します。",
+          "pt-BR": "# Encontrando os Cs e o Dó central\nNo piano, o **Dó (C)** é o ponto de referência de muitas escalas e acordes.\n\nNesta lição você vai aprender a enxergar **todos os Cs** do teclado e a achar rapidinho o **Dó central**, o C que fica mais perto do meio do instrumento.",
+          "es": "# Encontrar los Do (C) y el Do central\nEn el piano, **Do (C)** es el punto de referencia de muchas escalas y acordes.\n\nEn esta lección vas a aprender a localizar **todos los C** del teclado y a encontrar rápido el **Do central**, el C que está más cerca del centro del instrumento."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The pattern: C is left of the 2 black keys\nLook for the groups of **two black keys** (not the group of three).\n\n- Find a group of two black keys\n- The **white key immediately to the left** of that group is **C**\n- This works the same way everywhere on the keyboard\n\nScan left and right: every time you see two black keys together, you’ve found a new C just before them.",
+          "zh-Hans": "# 记住这个规律：C 在两颗黑键的左边\n先观察键盘上的**两颗黑键一组**（不是三颗那组）。\n\n- 找到一组两颗连在一起的黑键\n- 这组黑键**左边紧挨着的白键**就是 **C**\n- 整个键盘上，规律都是一样的\n\n左右扫一眼：每当你看到两颗黑键连在一起，它们左边紧挨的白键就是一个新的 C。",
+          "de": "# Das Muster: C liegt links von den 2 schwarzen Tasten\nSuch dir die Gruppen aus **zwei schwarzen Tasten** (nicht die Dreiergruppen).\n\n- Finde eine Zweiergruppe schwarzer Tasten\n- Die **weiße Taste direkt links** daneben ist **C**\n- Dieses Muster gilt überall auf der Klaviatur\n\nSchau nach links und rechts: Immer wenn du zwei schwarze Tasten zusammen siehst, liegt direkt davor ein neues C.",
+          "ja": "# パターン：Cは「黒鍵2つの左」\nまず、鍵盤上の**黒鍵2つセット**（3つ並びではない方）を探します。\n\n- 黒鍵が2つ並んでいるところを見つける\n- その**すぐ左隣の白鍵**が **C（ド）**\n- 鍵盤のどこでも、このルールは同じです\n\n左右に目を走らせて、黒鍵2つセットを見るたびに「左の白鍵 = C」と確認してみましょう。",
+          "pt-BR": "# O padrão: o C fica à esquerda das 2 teclas pretas\nProcure pelos grupos de **duas teclas pretas** (não o grupo de três).\n\n- Encontre um grupo de duas pretas\n- A **tecla branca imediatamente à esquerda** desse grupo é o **C (Dó)**\n- Isso vale em qualquer região do teclado\n\nPasse o olho da esquerda para a direita: sempre que aparecerem duas pretas juntas, a branca logo antes delas é mais um C.",
+          "es": "# El patrón: el C está a la izquierda de las 2 teclas negras\nBusca los grupos de **dos teclas negras** (no el grupo de tres).\n\n- Encuentra un grupo de dos negras seguidas\n- La **tecla blanca justo a la izquierda** de ese grupo es **C (Do)**\n- Esto funciona igual en toda la extensión del teclado\n\nMira hacia los lados: cada vez que veas dos negras juntas, la blanca que está justo antes es otro C."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Find all the Cs on your keyboard\n1. Colocate your hand near the **lowest end** of the keyboard.\n2. Find the first group of two black keys and the C to its left.\n3. Play that C, then move right to the next group of two black keys and play the next C.\n4. Keep going until you reach the **highest C** on your keyboard.\n\nCount how many Cs you have. Say “C” out loud every time you play one.",
+          "zh-Hans": "# 在自己的键盘上找到所有的 C\n1. 把手放在键盘的**最左边（最低音）**附近。\n2. 找到第一组两颗黑键，以及它左边的那颗 C。\n3. 弹一下这个 C，然后往右移动，到下一组两颗黑键，再弹它左边的 C。\n4. 一直这样往右走，直到找到键盘上**最高的那个 C**。\n\n数一数：你的键盘上有多少个 C？每弹一个，可以大声说一句“C”。",
+          "de": "# Finde alle Cs auf deiner Klaviatur\n1. Geh mit der Hand an das **linke (tiefste)** Ende der Tastatur.\n2. Such die erste Zweiergruppe schwarzer Tasten und das C links davon.\n3. Spiele dieses C, geh dann nach rechts zur nächsten Zweiergruppe und spiele das nächste C.\n4. Mach so weiter, bis du beim **höchsten C** deines Instruments angekommen bist.\n\nZähle, wie viele Cs dein Keyboard hat. Sag bei jedem Ton laut „C“, während du ihn spielst.",
+          "ja": "# 自分の鍵盤にあるCを全部探そう\n1. まず手を鍵盤の**一番左（低い方）**に置きます。\n2. 黒鍵2つセットと、その左隣のCを見つけます。\n3. そのCを弾いてから、右へ進み、次の黒鍵2つセット → 左のC…という順で弾いていきます。\n4. これを繰り返して、鍵盤の**一番高いC**までたどり着きましょう。\n\n全部で何個Cがあったか、数えてみてください。弾くたびに「C！」と声に出して言うと覚えやすくなります。",
+          "pt-BR": "# Achando todos os Cs do seu teclado\n1. Coloque a mão perto da **extremidade esquerda** do teclado.\n2. Ache o primeiro grupo de duas teclas pretas e o C à esquerda delas.\n3. Toque esse C, depois ande para a direita até o próximo grupo de duas pretas e toque o próximo C.\n4. Continue assim até chegar ao **C mais agudo** do seu teclado.\n\nConte quantos Cs o seu teclado tem. Fale “C” (ou “Dó”) em voz alta cada vez que tocar um.",
+          "es": "# Encontrando todos los C en tu teclado\n1. Coloca la mano cerca del **extremo izquierdo** del teclado.\n2. Busca el primer grupo de dos teclas negras y el C que está a su izquierda.\n3. Toca ese C, luego avanza hacia la derecha hasta el siguiente grupo de dos negras y toca el siguiente C.\n4. Sigue hasta llegar al **C más agudo** de tu teclado.\n\nCuenta cuántos C tiene tu instrumento. Di “C” (o “Do”) en voz alta cada vez que toques uno."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What is middle C?\n**Middle C** is simply the C that sits **near the physical center** of your keyboard.\n\nOn a typical full-sized keyboard:\n- It’s roughly under the **brand logo** in the middle\n- It feels about halfway between the lowest and highest keys\n\nUse the same trick: find the group of two black keys closest to the center, then play the white key just to the left — that’s your **middle C**.",
+          "zh-Hans": "# 什么是中央 C？\n**中央 C（middle C）** 就是靠近键盘**物理中心**位置的那个 C。\n\n在常见的全尺寸键盘上：\n- 大致在琴面**品牌标志**的正下方附近\n- 感觉上差不多是最低音和最高音的中间位置\n\n还是用同样的规律：在键盘中间附近找一组两颗黑键，然后弹它左边紧挨着的白键——那就是你的**中央 C**。",
+          "de": "# Was ist das mittlere C?\nDas **mittlere C** ist einfach das C, das **nahe der Mitte** deiner Tastatur liegt.\n\nAuf einer typischen, vollgroßen Klaviatur:\n- Liegt es ungefähr unter dem **Markenlogo** in der Mitte\n- Es fühlt sich etwa gleich weit von den tiefsten und höchsten Tasten entfernt an\n\nNutze wieder den gleichen Trick: Finde die Zweiergruppe schwarzer Tasten in der Nähe der Mitte und spiele die weiße Taste direkt links davon – das ist dein **mittleres C**.",
+          "ja": "# ミドルC（中央ド）とは？\n**ミドルC（中央ド）**は、鍵盤の**物理的な中央付近**にあるCのことです。\n\n一般的なフルサイズの鍵盤では：\n- 本体中央の**メーカー・ロゴ**の下あたりにあります\n- 一番低い鍵と一番高い鍵の、だいたい真ん中あたりにあるCです\n\nここでも同じルールを使います：鍵盤の真ん中に一番近い「黒鍵2つセット」を見つけ、その**左隣の白鍵**を弾きましょう。これがあなたの**ミドルC**です。",
+          "pt-BR": "# O que é o Dó central?\nO **Dó central (middle C)** é simplesmente o C que fica **perto do meio físico** do teclado.\n\nEm um teclado ou piano de tamanho padrão:\n- Ele costuma ficar mais ou menos embaixo do **logo da marca**, no centro\n- A sensação é de estar no meio do caminho entre as notas mais graves e as mais agudas\n\nUse o mesmo truque: ache o grupo de duas pretas mais próximo do centro e toque a tecla branca imediatamente à esquerda dele — esse é o seu **Dó central**.",
+          "es": "# ¿Qué es el Do central?\nEl **Do central (middle C)** es simplemente el C que está **cerca del centro físico** del teclado.\n\nEn un teclado o piano de tamaño estándar:\n- Suele quedar más o menos debajo del **logo de la marca**, en el centro\n- Se siente como un punto medio entre las teclas más graves y las más agudas\n\nUsa el mismo truco: busca el grupo de dos negras más cercano al centro y toca la blanca que está justo a su izquierda; ese es tu **Do central**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Find **middle C** and play it with your **right-hand thumb** 8 times as slow, steady quarter notes.\n2. Find the **C below** middle C and play it 8 times with your **left-hand thumb**.\n3. Alternate: left-hand C (below), right-hand middle C, and then the **C above** middle C with your right-hand 2nd or 3rd finger.\n\nDo this for a minute or two. When middle C starts to feel like “home base” under your fingers, you’re ready to use it in your first scales and melodies.",
+          "zh-Hans": "# 小练习：让中央 C 变成你的“家”\n1. 找到**中央 C**，用**右手大拇指**以稳定的四分音符弹 8 下。\n2. 找到中央 C **下面的那个 C**，用**左手大拇指**同样弹 8 下。\n3. 交替练习：左手弹下面的 C，右手弹中央 C，然后再用右手 2 指或 3 指弹中央 C **上面的那个 C**。\n\n持续练习一两分钟。当你一上手就自然摸到中央 C 时，它就真正变成你在键盘上的“出发点”了，可以开始在上面练音阶和小旋律。",
+          "de": "# Kurze Übe-Routine\n1. Finde das **mittlere C** und spiele es 8-mal als ruhige Viertelnoten mit deinem **rechten Daumen**.\n2. Finde das **C unterhalb** des mittleren C und spiele es 8-mal mit deinem **linken Daumen**.\n3. Wechsle ab: linke Hand das tiefere C, rechte Hand das mittlere C, dann das **C oberhalb** des mittleren C mit Finger 2 oder 3 der rechten Hand.\n\nMach das ein bis zwei Minuten lang. Wenn sich das mittlere C wie ein natürlicher „Startpunkt“ anfühlt, bist du bereit, es in deinen ersten Tonleitern und Melodien zu benutzen.",
+          "ja": "# かんたん練習ルーティン\n1. **ミドルC**を見つけて、**右手の親指**でゆっくりした4分音符を8回弾きます。\n2. ミドルCの**1つ下のC**を探して、今度は**左手の親指**で同じように8回弾きます。\n3. 交互に練習しましょう：左手で下のC → 右手でミドルC → 右手の2指か3指で、ミドルCの**1つ上のC**を弾く…という流れで回します。\n\n1〜2分続けていると、ミドルCが指にとっての“ホームポジション”のように感じられてきます。そうなったら、いよいよここからスケールやメロディの練習に進めます。",
+          "pt-BR": "# Rotina rápida de prática\n1. Encontre o **Dó central** e toque-o 8 vezes em semínimas bem calmas com o **polegar da mão direita**.\n2. Ache o **C logo abaixo** do Dó central e toque-o 8 vezes com o **polegar da mão esquerda**.\n3. Depois, alterne: C grave com a esquerda, Dó central com a direita e, em seguida, o **C acima do Dó central** com o dedo 2 ou 3 da mão direita.\n\nFaça isso por um ou dois minutos. Quando o Dó central começar a parecer o seu “ponto de partida” natural no teclado, você está pronto para usá-lo nas primeiras escalas e melodias.",
+          "es": "# Rutina rápida de práctica\n1. Encuentra el **Do central** y tócalo 8 veces en negras lentas y constantes con el **pulgar de la mano derecha**.\n2. Busca el **C justo por debajo** del Do central y tócalo 8 veces con el **pulgar de la mano izquierda**.\n3. Luego alterna: C grave con la izquierda, Do central con la derecha y después el **C por encima del Do central** con el dedo 2 o 3 de la mano derecha.\n\nHaz esto durante uno o dos minutos. Cuando el Do central empiece a sentirse como tu “base” en el teclado, ya estarás listo para usarlo en tus primeras escalas y melodías."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

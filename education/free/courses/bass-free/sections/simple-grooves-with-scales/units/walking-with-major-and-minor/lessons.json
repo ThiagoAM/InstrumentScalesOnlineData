@@ -1,0 +1,58 @@
+[
+  {
+    "id": "walking-bass-line-with-c-major-scale",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Walking Bass Line with C Major Scale",
+        "zh-Hans": "使用C大调音阶的行进贝斯线",
+        "de": "Walking-Bass-Linie mit der C-Dur-Tonleiter",
+        "ja": "Cメジャー・スケールを使ったウォーキング・ベースライン",
+        "pt-BR": "Walking bass com a escala de Dó maior",
+        "es": "Walking bass con la escala de Do mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create a short walking line using the C major scale.",
+        "zh-Hans": "使用C大调音阶创作一个简短的行进贝斯线。",
+        "de": "Erstelle eine kurze Walking-Linie mit der C-Dur-Tonleiter.",
+        "ja": "Cメジャー・スケールを使って短いウォーキングラインを作りましょう。",
+        "pt-BR": "Crie uma pequena linha de walking usando a escala de Dó maior.",
+        "es": "Crea una línea corta de walking usando la escala de Do mayor."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "walking-bass-line-with-a-natural-minor",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Walking Bass Line with A Natural Minor",
+        "zh-Hans": "使用A自然小调的行进贝斯线",
+        "de": "Walking-Bass-Linie mit der A-Natürlich-Moll-Tonleiter",
+        "ja": "Aナチュラル・マイナーを使ったウォーキング・ベースライン",
+        "pt-BR": "Walking bass com a escala de Lá menor natural",
+        "es": "Walking bass con la escala de La menor natural"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a simple walking idea using the A natural minor scale.",
+        "zh-Hans": "使用A自然小调音阶构建一个简单的行进贝斯想法。",
+        "de": "Erstelle eine einfache Walking-Idee mit der A-Natürlich-Moll-Tonleiter.",
+        "ja": "Aナチュラル・マイナー・スケールを使ってシンプルなウォーキングアイデアを作りましょう。",
+        "pt-BR": "Crie uma ideia simples de walking usando a escala de Lá menor natural.",
+        "es": "Crea una idea sencilla de walking usando la escala de La menor natural."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

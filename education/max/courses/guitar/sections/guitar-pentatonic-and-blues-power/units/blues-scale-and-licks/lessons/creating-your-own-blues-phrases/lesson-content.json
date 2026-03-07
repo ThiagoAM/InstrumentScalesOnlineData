@@ -1,0 +1,73 @@
+{
+  "id": "creating-your-own-blues-phrases",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Creating your own blues phrases\nSo far you’ve learned **blues scale notes** and some **ready-made licks**.\n\nNow it’s time to start building **your own phrases**.\n\nIn this lesson you’ll:\n- Turn tiny **motifs** into full lines\n- Use **call and response** in 12-bar blues\n- Shape phrases with **rhythm, space and bends**",
+          "zh-Hans": "# 创作你自己的布鲁斯乐句\n到目前为止，你已经学过 **布鲁斯音阶的音**，也练了一些 **现成的小乐句（lick）**。\n\n现在，是时候开始拼出你自己的**布鲁斯句子**了。\n\n在这节课里你会：\n- 把很短的小**动机**变成长一点的乐句\n- 在 12 小节布鲁斯里用好**“呼唤–回答”**结构\n- 用**节奏、留白和推弦**来塑造乐句的表情",
+          "de": "# Eigene Blues-Phrasen entwickeln\nBisher hast du die **Blues-Tonleiter** und ein paar **fertige Licks** kennengelernt.\n\nJetzt geht es darum, **eigene Phrasen** zu bauen.\n\nIn dieser Lektion wirst du:\n- Kleine **Motive** zu längeren Linien ausbauen\n- **Call-and-Response** im 12-Takte-Blues nutzen\n- Phrasen mit **Rhythmus, Pausen und Bendings** formen",
+          "ja": "# 自分だけのブルース・フレーズを作る\nここまでで、**ブルース・スケールの音**と、いくつかの**定番リック**を覚えました。\n\nここからは、それをもとに**自分のフレーズ**を組み立てていきます。\n\nこのレッスンでは：\n- 小さな**モチーフ**からフレーズをふくらませる\n- 12小節ブルースの中で **コール＆レスポンス** を使う\n- **リズム、間（ま）、チョーキング**でフレーズの表情をつける",
+          "pt-BR": "# Criando suas próprias frases de blues\nAté agora você viu as notas da **escala blues** e alguns **licks prontos**.\n\nAgora é a hora de montar **as suas próprias frases**.\n\nNesta lição você vai:\n- Transformar pequenos **motivos** em linhas completas\n- Usar **pergunta e resposta** dentro do blues de 12 compassos\n- Moldar as frases com **ritmo, silêncio e bends**",
+          "es": "# Crear tus propias frases de blues\nHasta ahora has aprendido las notas de la **escala blues** y algunos **licks ya hechos**.\n\nAhora toca empezar a construir **tus propias frases**.\n\nEn esta lección vas a:\n- Convertir pequeños **motivos** en líneas completas\n- Usar **pregunta y respuesta** dentro del blues de 12 compases\n- Dar forma a las frases con **ritmo, espacios y bends**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Start with a tiny motif\nA good blues phrase often starts from a **short idea** (motif).\n\nFor example, in A blues box 1 around 5th fret:\n- 3rd string: **5 → 7 → 5** (C–D–C)\n- Add a little **bend** on the D if you like\n\nThat’s already a usable motif.\n\nTips:\n- Keep it **2–4 notes** long\n- Make the **rhythm clear** (for example: 1-&-2)\n- Repeat it until it feels comfortable to your hands and ears",
+          "zh-Hans": "# 从一个小动机开始\n很多好的布鲁斯乐句，都是从一个很短的**小想法（动机）**发展出来的。\n\n比如，在 A 调 box 1（第 5 品附近）：\n- 第3弦：**5 → 7 → 5**（C–D–C）\n- 如果愿意，可以在 D 上**轻轻推弦**再放回\n\n这本身就已经是一个可以用的小动机。\n\n小建议：\n- 先控制在 **2–4 个音** 这么短\n- 让节奏轮廓**很清楚**（比如：在“1-&-2”上弹）\n- 多重复几遍，直到手感和听感都觉得自然",
+          "de": "# Mit einem kleinen Motiv anfangen\nViele gute Blues-Phrasen entstehen aus einer **sehr kurzen Idee** (Motiv).\n\nBeispiel in A-Blues, Box 1 um den 5. Bund:\n- 3. Saite: **5 → 7 → 5** (C–D–C)\n- Wenn du magst, gib dem D einen kleinen **Bend**\n\nDas ist schon ein brauchbares Motiv.\n\nTipps:\n- Halte es am Anfang bei **2–4 Tönen**\n- Mach den **Rhythmus klar erkennbar** (z.B. auf „1-&-2“)\n- Wiederhole das Motiv, bis Hände und Ohren sich daran gewöhnt haben",
+          "ja": "# 小さなモチーフから始める\n良いブルース・フレーズは、たいてい**短いアイデア（モチーフ）**から始まります。\n\n例：Aブルース、5フレット周辺のBox 1 なら\n- 3弦で **5 → 7 → 5**（C–D–C）\n- Dの音に少しだけ**チョーキング**をかけてもOK\n\nこれだけで、もう立派なモチーフです。\n\nポイント：\n- 最初は **2〜4音** くらいに収める\n- **リズムの形**をはっきりさせる（例：「1-&-2」で弾く）\n- 何度も繰り返して、手と耳にしっくりなじませる",
+          "pt-BR": "# Comece com um motivo bem pequeno\nMuita frase boa de blues nasce de uma ideia **bem curtinha** (um motivo).\n\nPor exemplo, em A blues, box 1 na 5ª casa:\n- 3ª corda: **5 → 7 → 5** (C–D–C)\n- Se quiser, dê um **bend leve** no D antes de voltar\n\nIsso já é um motivo útil.\n\nDicas:\n- Comece com **2 a 4 notas** só\n- Deixe o **ritmo bem claro** (por exemplo: tocar em “1-e-2”) \n- Repita até a mão e o ouvido ficarem bem confortáveis com o desenho",
+          "es": "# Empieza con un motivo pequeño\nMuchas buenas frases de blues salen de una idea **muy corta** (motivo).\n\nPor ejemplo, en La blues, caja 1 en el traste 5:\n- 3ª cuerda: **5 → 7 → 5** (C–D–C)\n- Si quieres, haz un **bend suave** en D antes de volver\n\nEso ya es un motivo usable.\n\nConsejos:\n- Empieza con **2–4 notas**\n- Haz que el **ritmo se entienda** (por ejemplo: tocar en “1-y-2”) \n- Repítelo hasta que tus manos y tus oídos se sientan cómodos con él"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Call and response\nIn a 12-bar blues, think in **short sentences**.\n\nBasic idea:\n- Bar 1–2: **Call** → play your tiny motif\n- Bar 3–4: **Response** → change the ending or rhythm\n\nExample with the motif C–D–C on 3rd string:\n- Call: 3rd string **5–7–5**, then rest\n- Response: 3rd string **5–7–5**, then go to **4th string 7** (A)\n\nIt’s the same idea with a **slightly different ending**, so it feels like a musical conversation.",
+          "zh-Hans": "# “呼唤–回答”结构\n在 12 小节布鲁斯里，可以把乐句想成一串**短句子**。\n\n一个简单模型：\n- 第 1–2 小节：**提问（Call）** → 弹你的小动机\n- 第 3–4 小节：**回答（Response）** → 结尾或节奏稍微改一下\n\n用刚才的 C–D–C 为例（第3弦）：\n- 提问：第3弦 **5–7–5**，然后停一下\n- 回答：第3弦 **5–7–5**，接着落在 **第4弦 7 品（A）**\n\n同一个想法，只是**结尾有点变化**，听起来就像一问一答的对话。",
+          "de": "# Call and Response\nIm 12-Takte-Blues kannst du in **kurzen Sätzen** denken.\n\nGrundidee:\n- Takte 1–2: **Call** → dein kleines Motiv spielen\n- Takte 3–4: **Response** → das Ende oder den Rhythmus leicht verändern\n\nBeispiel mit dem Motiv C–D–C auf der 3. Saite:\n- Call: 3. Saite **5–7–5**, dann Pause\n- Response: 3. Saite **5–7–5**, dann **4. Saite, 7. Bund (A)**\n\nEs ist dieselbe Idee mit einem **leicht anderen Ende** – so entsteht ein musikalischer Dialog.",
+          "ja": "# コール＆レスポンス\n12小節ブルースの中では、**短い文**で会話しているイメージを持つと弾きやすいです。\n\n基本形：\n- 1〜2小節目：**コール（呼びかけ）** → さっきのモチーフを弾く\n- 3〜4小節目：**レスポンス（返事）** → 終わり方やリズムを少し変える\n\nさきほどの C–D–C（3弦）を使うと：\n- コール：3弦 **5–7–5** を弾いて、少し休む\n- レスポンス：3弦 **5–7–5** のあとに、**4弦7F（A）** に着地\n\n同じアイデアに**ちょっと違う終わり**をつけるだけで、音楽的な会話っぽく聞こえます。",
+          "pt-BR": "# Pergunta e resposta\nDentro do blues de 12 compassos, pense em **frases curtas**.\n\nIdeia básica:\n- Compassos 1–2: **pergunta (call)** → toque o seu motivo\n- Compassos 3–4: **resposta (response)** → mude só o final ou o ritmo\n\nExemplo com o motivo C–D–C na 3ª corda:\n- Pergunta: 3ª corda **5–7–5** e depois faz uma pausa\n- Resposta: 3ª corda **5–7–5**, e cai na **4ª corda casa 7 (A)**\n\nÉ a mesma ideia com um **final um pouco diferente**, o que dá sensação de conversa musical.",
+          "es": "# Pregunta y respuesta\nEn un blues de 12 compases, piensa en **frases cortas**.\n\nIdea básica:\n- Compases 1–2: **pregunta (call)** → tocas tu motivo\n- Compases 3–4: **respuesta (response)** → cambias solo el final o el ritmo\n\nEjemplo con el motivo C–D–C en la 3ª cuerda:\n- Pregunta: 3ª cuerda **5–7–5** y luego un silencio\n- Respuesta: 3ª cuerda **5–7–5** y terminas en la **4ª cuerda traste 7 (A)**\n\nEs la misma idea con un **final un poco distinto**, y suena como una conversación musical."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Use rhythm, space and the blue note\nGood blues players don’t just change notes – they shape **time and feel**.\n\nTry this with your motif:\n- Play it **on beat 1** once, then\n- Play the same notes starting on **beat 2**\n- Then try starting on the **“& of 1”** (slightly later)\n\nAlso experiment with:\n- Leaving a **full bar of silence** after a strong phrase\n- Dropping in the **blue note (Eb)** as a quick passing tone\n- Hitting one note **louder** and the next **softer**\n\nSmall changes like this make simple phrases sound much more alive.",
+          "zh-Hans": "# 用好节奏、留白和蓝调音\n好的布鲁斯吉他手，不只是换几个音，更是在玩**时间和感觉**。\n\n拿你的动机做个试验：\n- 先在 **第 1 拍** 开头弹一遍\n- 然后把完全一样的音，改成从 **第 2 拍** 开始\n- 再试试从 **“1-&” 的 & 上** 开始（稍微晚一点）\n\n还可以多尝试：\n- 在一个有力的乐句后面，留出 **整整一小节的空白**\n- 偶尔把 **蓝调音 Eb** 当作快速经过音插进去\n- 某一个音弹得 **更重一点**，下一个音刻意弹得 **轻一点**\n\n这些小变化，会让很简单的乐句听起来有生命、有表情。",
+          "de": "# Rhythmus, Pausen und die Blue Note nutzen\nGute Blues-Spieler wechseln nicht nur Töne, sie gestalten **Zeit und Gefühl**.\n\nProbiere mit deinem Motiv:\n- Einmal **auf Zählzeit 1** beginnen\n- Dann dieselben Töne auf **Zählzeit 2** starten\n- Und dann auf dem **„& von 1“** (etwas später) einsetzen\n\nExperimentiere außerdem mit:\n- Einer **ganzen Taktpause**, nachdem du eine starke Phrase gespielt hast\n- Der **Blue Note (Eb)** als kurzem Durchgangston\n- Einem Ton bewusst **lauter** und dem nächsten **leiser**\n\nSolche Kleinigkeiten lassen simple Phrasen viel lebendiger wirken.",
+          "ja": "# リズム・間・ブルーノートを使う\nうまいブルース・ギタリストは、音だけでなく**時間とノリ**をコントロールしています。\n\nあなたのモチーフで試してみましょう：\n- まずは **1拍目の頭** から弾く\n- 次に、同じ音を **2拍目の頭** から始めてみる\n- さらに、**「1-&」の & から** ずらして入ってみる\n\nほかにも：\n- 強いフレーズを弾いたあとに、**1小節まるごと無音**にしてみる\n- **ブルーノート（Eb）** を短い経過音として差し込む\n- ある音をわざと **強く**、次の音を **弱く** 弾いてみる\n\nこういう小さな工夫で、シンプルなフレーズが一気に生き生きしてきます。",
+          "pt-BR": "# Use ritmo, silêncio e a blue note\nBons guitarristas de blues não mudam só as notas – eles brincam com o **tempo e o feeling**.\n\nFaça esse teste com o seu motivo:\n- Toque começando na **batida 1** uma vez\n- Depois toque as mesmas notas começando na **batida 2**\n- Depois comece no **“e” do 1** (um pouquinho depois da batida)\n\nTambém experimente:\n- Deixar um **compasso inteiro de silêncio** depois de uma frase forte\n- Colocar a **blue note (Eb)** como nota de passagem rápida\n- Tocar um som **mais forte** e o próximo **bem mais suave**\n\nEssas pequenas mudanças fazem frases simples soarem muito mais vivas.",
+          "es": "# Usa ritmo, silencio y la blue note\nLos buenos guitarristas de blues no solo cambian notas, también moldean el **tiempo y el feel**.\n\nPrueba esto con tu motivo:\n- Tócalo empezando en el **tiempo 1** una vez\n- Luego las mismas notas empezando en el **tiempo 2**\n- Después empiézalo en el **“y” de 1** (un poco más tarde)\n\nY experimenta con:\n- Dejar un **compás entero de silencio** después de una frase fuerte\n- Meter la **blue note (Eb)** como nota de paso rápida\n- Tocar una nota **más fuerte** y la siguiente **más suave**\n\nCambios pequeños como estos hacen que frases simples suenen mucho más vivas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Pick **one small motif** in A blues box 1 (2–4 notes).\n2. Loop a **12-bar blues in A** backing track.\n3. Play that motif as a **call** in bars 1–2.\n4. Create a **response** in bars 3–4 by changing:\n   - The **ending note**, or\n   - The **rhythm**, or\n   - Where the phrase **starts in the bar**.\n5. Repeat the idea over **D7 and E7**, still using the same motif area.\n\nYour goal isn’t to be perfect – it’s to get used to **repeating, slightly changing, and answering yourself** so the solo starts to sound like a voice, not just a scale.",
+          "zh-Hans": "# 小练习\n1. 在 A 调 box 1 选一个你喜欢的**小动机**（2–4 个音）。\n2. 放一段 **A 调 12 小节布鲁斯** 伴奏循环。\n3. 在第 1–2 小节，用这个动机当作**“提问”**。\n4. 在第 3–4 小节，做一个**“回答”**，可以改：\n   - 乐句的**落音**，或者\n   - **节奏型**，或者\n   - 乐句**在小节里的起点**。\n5. 当和弦走到 **D7 和 E7** 时，仍然围绕这个动机区域做类似的问答。\n\n目标不是弹得完美，而是习惯**重复自己、稍微改一点、再回答自己**——这样你的独奏会更像“说话”，而不只是上下跑音阶。",
+          "de": "# Kurze Übung\n1. Such dir in A-Blues, Box 1 **ein kleines Motiv** (2–4 Töne) aus.\n2. Lass ein **12-Takte-Blues-Backing in A** in Schleife laufen.\n3. Nutze das Motiv in den Takten 1–2 als **Call**.\n4. Bau in den Takten 3–4 eine **Response**, indem du veränderst:\n   - Den **Endton**, oder\n   - Den **Rhythmus**, oder\n   - Den Punkt, an dem die Phrase **im Takt einsetzt**.\n5. Wiederhole die Idee auch über **D7 und E7**, weiterhin in derselben Griffbrett-Gegend.\n\nDas Ziel ist nicht, fehlerfrei zu sein, sondern dich daran zu gewöhnen, **Dinge zu wiederholen, leicht zu verändern und dir selbst zu antworten**, damit dein Solo wie eine Stimme klingt – nicht nur wie eine Tonleiter rauf und runter.",
+          "ja": "# かんたん練習\n1. AブルースのBox 1から、**2〜4音の小さなモチーフ**を1つ選ぶ。\n2. **Aの12小節ブルース** のバッキングをループ再生する。\n3. 1〜2小節目で、そのモチーフを**コール**として弾く。\n4. 3〜4小節目で、次のどれかを変えて**レスポンス**を作る：\n   - **終わりの音**\n   - **リズム**\n   - フレーズが小節の中で**どこから始まるか**\n5. 和音が **D7 や E7** に行っても、同じエリアのモチーフで問答を続ける。\n\n完璧に弾くことが目的ではありません。大事なのは、**同じアイデアをくり返しつつ、少しずつ変えたり、自分に返事をしたり**する感覚に慣れること。そうすると、ソロがただのスケール練習ではなく、だんだん“歌っている”ように聞こえてきます。",
+          "pt-BR": "# Prática rápida\n1. Escolha **um motivo pequeno** na região do box 1 de A blues (2 a 4 notas).\n2. Coloque um playback de **blues 12 compassos em A** em loop.\n3. Use esse motivo como **pergunta** nos compassos 1–2.\n4. Nos compassos 3–4, crie uma **resposta** mudando:\n   - A **nota final**, ou\n   - O **ritmo**, ou\n   - O ponto em que a frase **entra dentro do compasso**.\n5. Repita a mesma lógica quando a harmonia for para **D7 e E7**, ainda na mesma região do braço.\n\nO objetivo não é tocar perfeito, e sim acostumar o ouvido e a mão a **repetir, mudar um pouco e responder a si mesmo**, até o solo começar a soar como uma voz — não só como uma escala indo e voltando.",
+          "es": "# Práctica rápida\n1. Elige **un motivo pequeño** en la caja 1 de La blues (2–4 notas).\n2. Pon en loop una base de **blues de 12 compases en A**.\n3. Usa ese motivo como **pregunta** en los compases 1–2.\n4. En los compases 3–4 crea una **respuesta** cambiando:\n   - La **nota final**, o\n   - El **ritmo**, o\n   - El punto donde la frase **entra en el compás**.\n5. Repite la misma idea cuando la progresión vaya a **D7 y E7**, todavía en la misma zona del mástil.\n\nLa meta no es ser perfecto, sino acostumbrarte a **repetir, variar un poco y contestarte a ti mismo**, para que el solo empiece a sonar como una voz y no solo como una escala arriba y abajo."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

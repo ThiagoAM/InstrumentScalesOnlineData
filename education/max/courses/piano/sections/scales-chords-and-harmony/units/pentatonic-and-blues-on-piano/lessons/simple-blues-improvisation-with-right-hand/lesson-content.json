@@ -1,0 +1,86 @@
+{
+  "id": "simple-blues-improvisation-with-right-hand",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple blues improvisation with the right hand\nIn this lesson you’ll use the **C blues scale** to improvise short, simple blues phrases with your **right hand**.\n\nWe’ll keep the left hand very basic so you can focus on **sound, rhythm and feel**.",
+          "zh-Hans": "# 用右手做简单蓝调即兴\n本课你会用 **C 蓝调音阶**，让右手做一些简单的蓝调即兴小句子。\n\n左手会保持**非常简单**，这样你可以专注在**音色、节奏和感觉**上。",
+          "de": "# Einfache Blues-Improvisation mit der rechten Hand\nIn dieser Lektion nutzt du die **C-Blues-Tonleiter**, um mit der **rechten Hand** kurze, einfache Blues-Linien zu improvisieren.\n\nDie linke Hand bleibt **sehr schlicht**, damit du dich auf **Sound, Rhythmus und Feel** konzentrieren kannst.",
+          "ja": "# 右手だけで始めるシンプルなブルース即興\nこのレッスンでは、**Cブルース・スケール**を使って、右手だけで短くてシンプルなブルース・フレーズを即興してみます。\n\n左手はあえて**とてもシンプル**にして、**音色・リズム・ノリ**に集中できるようにします。",
+          "pt-BR": "# Improvisação blues simples com a mão direita\nNesta lição você vai usar a **escala blues em C** para criar frases de blues curtas e simples com a **mão direita**.\n\nVamos deixar a mão esquerda **bem básica**, para você focar em **som, ritmo e sensação**.",
+          "es": "# Improvisación blues sencilla con la mano derecha\nEn esta lección vas a usar la **escala blues en C** para crear frases de blues cortas y sencillas con la **mano derecha**.\n\nLa mano izquierda se queda **muy básica**, para que puedas concentrarte en **sonido, ritmo y feeling**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Your note and chord set\nWe’ll stay in **C blues**.\n\n- **Scale**: C – E♭ – F – G♭ – G – B♭ – C (C blues scale)\n- **Left hand**: hold a simple **C7 feel**\n  - Easiest option: just play **C** (low) on beat 1 of each bar\n  - Or hold a full **C7 chord** if you’re comfortable\n\nFor now, keep everything around **middle C** so the hand doesn’t need to move much.",
+          "zh-Hans": "# 第一步 – 可用的音和和弦\n我们待在 **C 蓝调** 里。\n\n- **音阶**：C – E♭ – F – G♭ – G – B♭ – C（C 蓝调音阶）\n- **左手**：营造一个简单的 **C7 感觉**\n  - 最简单：每小节第 1 拍弹一个低音 **C**\n  - 或者如果你熟练，可以按住一个完整的 **C7 和弦**\n\n暂时都在**中央 C 附近**活动，让手不需要大范围移动。",
+          "de": "# Schritt 1 – Noten- und Akkordmaterial\nWir bleiben im **C-Blues**.\n\n- **Tonleiter**: C – E♭ – F – G♭ – G – B♭ – C (C-Blues-Tonleiter)\n- **Linke Hand**: einfacher **C7-Charakter**\n  - Einfachste Variante: spiele nur ein tiefes **C** auf Zählzeit 1 jedes Takts\n  - Oder halte einen vollen **C7-Akkord**, wenn du dich damit wohlfühlst\n\nBleib vorerst in der Nähe des **eingestrichenen C**, damit die Hand wenig wandern muss.",
+          "ja": "# ステップ1 – 使う音とコードを決める\nキーは **Cブルース** です。\n\n- **スケール**：C – E♭ – F – G♭ – G – B♭ – C（Cブルース・スケール）\n- **左手**：シンプルな **C7 の雰囲気**\n  - いちばん簡単：毎小節の 1拍目に低い **C** を1回弾くだけ\n  - 余裕があれば、ずっと **C7コード** を押さえてもOK\n\nしばらくは**中央Cまわり**で弾いて、あまり手を動かさなくていいようにしましょう。",
+          "pt-BR": "# Etapa 1 – Conjunto de notas e acorde\nVamos ficar no **blues em C**.\n\n- **Escala**: C – E♭ – F – G♭ – G – B♭ – C (escala blues em C)\n- **Mão esquerda**: um clima simples de **C7**\n  - Opção mais fácil: tocar só um **C** grave no tempo 1 de cada compasso\n  - Ou segurar um **acorde de C7** inteiro, se estiver confortável\n\nPor enquanto, mantenha tudo perto do **dó central**, sem precisar mover muito a mão.",
+          "es": "# Paso 1 – Conjunto de notas y acorde\nNos quedamos en **blues en C**.\n\n- **Escala**: C – E♭ – F – G♭ – G – B♭ – C (escala blues en C)\n- **Mano izquierda**: un ambiente sencillo de **C7**\n  - Opción más fácil: tocar solo un **C** grave en el tiempo 1 de cada compás\n  - O sostener un **acorde de C7** completo si te resulta cómodo\n\nPor ahora, quédate cerca del **Do central** para no tener que mover mucho la mano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – One-bar motifs\nStart with **tiny ideas**: one bar of 4 or 8 notes.\n\nExamples (right hand, all in C blues scale):\n- Motif A: C – E♭ – F – G – F – E♭ – C\n- Motif B: E♭ – F – G♭ – G – F – E♭ – C\n\nPlay one motif **several times in a row** until it feels easy.\n\nFocus on:\n- Even timing\n- Letting the **G♭ slide into G** a little for extra blues feel",
+          "zh-Hans": "# 第二步 – 一小节的小动机\n先从**很小的想法**开始：一小节里放 4 个或 8 个音。\n\n示例（右手，全用 C 蓝调音阶）：\n- 动机 A：C – E♭ – F – G – F – E♭ – C\n- 动机 B：E♭ – F – G♭ – G – F – E♭ – C\n\n先把某一个动机**连着重复几遍**，直到完全不紧张。\n\n注意：\n- 节奏要均匀\n- 让 **G♭ 稍微“擦”一下 G**，增加一点蓝调味",
+          "de": "# Schritt 2 – Ein-Takt-Motive\nStarte mit **winzigen Ideen**: ein Takt mit 4 oder 8 Noten.\n\nBeispiele (rechte Hand, alles aus C-Blues):\n- Motiv A: C – E♭ – F – G – F – E♭ – C\n- Motiv B: E♭ – F – G♭ – G – F – E♭ – C\n\nSpiele ein Motiv **mehrmals hintereinander**, bis es sich leicht anfühlt.\n\nAchte auf:\n- Gleichmäßiges Timing\n- Ein leichtes „Hineingleiten“ von **G♭ nach G** für den Blues-Touch",
+          "ja": "# ステップ2 – 1小節のモチーフを作る\nまずは**小さなアイデア**から。1小節の中に4〜8音を入れます。\n\n例（右手、すべて Cブルース・スケール）：\n- モチーフA：C – E♭ – F – G – F – E♭ – C\n- モチーフB：E♭ – F – G♭ – G – F – E♭ – C\n\nどれか1つを選んで、**何度もくり返し**弾いて、余裕が出るまで慣らしましょう。\n\nポイント：\n- タイミングをそろえる\n- **G♭ から G への動き**を、少し“にじませる”イメージで弾くとブルース感が出ます。",
+          "pt-BR": "# Etapa 2 – Motivos de um compasso\nComece com **ideias bem pequenas**: um compasso com 4 ou 8 notas.\n\nExemplos (mão direita, todas na escala blues em C):\n- Motivo A: C – E♭ – F – G – F – E♭ – C\n- Motivo B: E♭ – F – G♭ – G – F – E♭ – C\n\nToque um motivo **várias vezes seguidas**, até ficar muito confortável.\n\nFoque em:\n- Tempo bem regular\n- Deixar o **G♭ “escorregar” para o G** para dar aquele sabor de blues",
+          "es": "# Paso 2 – Motivos de un compás\nEmpieza con **ideas muy pequeñas**: un compás con 4 u 8 notas.\n\nEjemplos (mano derecha, todo en escala blues en C):\n- Motivo A: C – E♭ – F – G – F – E♭ – C\n- Motivo B: E♭ – F – G♭ – G – F – E♭ – C\n\nToca un motivo **varias veces seguidas** hasta que se sienta fácil.\n\nConcéntrate en:\n- Un tempo parejo\n- Dejar que **G♭ “se deslice” hacia G** para conseguir más sabor blues"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Question and answer\nNow connect **two bars**:\n\n1. Bar 1 = **question** (motif)\n2. Bar 2 = **answer** (same motif with a small change)\n\nExample (right hand):\n- Question: C – E♭ – F – G – F – E♭ – C\n- Answer:  G – B♭ – G – F – E♭ – C\n\nRepeat this 2-bar idea several times while the left hand keeps the **C7 feel**.",
+          "zh-Hans": "# 第三步 – 问答句\n现在把 **两小节** 连起来：\n\n1. 第 1 小节 = **问题**（一个动机）\n2. 第 2 小节 = **回答**（在这个动机上做一点小改动）\n\n示例（右手）：\n- 问：C – E♭ – F – G – F – E♭ – C\n- 答：G – B♭ – G – F – E♭ – C\n\n左手继续维持 **C7 的感觉**，一边弹，一边多次重复这 2 小节的问答。",
+          "de": "# Schritt 3 – Frage und Antwort\nJetzt verbindest du **zwei Takte**:\n\n1. Takt 1 = **Frage** (Motiv)\n2. Takt 2 = **Antwort** (gleiches Motiv mit kleiner Veränderung)\n\nBeispiel (rechte Hand):\n- Frage: C – E♭ – F – G – F – E♭ – C\n- Antwort: G – B♭ – G – F – E♭ – C\n\nWiederhole dieses 2-Takt-Muster mehrmals, während die linke Hand den **C7-Charakter** hält.",
+          "ja": "# ステップ3 – 質問と答えの形\n次は **2小節** をセットでつなげます。\n\n1. 1小節目 = **質問**（モチーフ）\n2. 2小節目 = **答え**（そのモチーフを少し変えたもの）\n\n例（右手）：\n- 質問：C – E♭ – F – G – F – E♭ – C\n- 答え： G – B♭ – G – F – E♭ – C\n\n左手で **C7 の感じ**をキープしながら、この2小節の「質問→答え」を何度もくり返してみましょう。",
+          "pt-BR": "# Etapa 3 – Pergunta e resposta\nAgora junte **dois compassos**:\n\n1. Compasso 1 = **pergunta** (motivo)\n2. Compasso 2 = **resposta** (o mesmo motivo com uma pequena mudança)\n\nExemplo (mão direita):\n- Pergunta: C – E♭ – F – G – F – E♭ – C\n- Resposta:  G – B♭ – G – F – E♭ – C\n\nRepita essa ideia de 2 compassos várias vezes enquanto a mão esquerda mantém o clima de **C7**.",
+          "es": "# Paso 3 – Pregunta y respuesta\nAhora conecta **dos compases**:\n\n1. Compás 1 = **pregunta** (motivo)\n2. Compás 2 = **respuesta** (el mismo motivo con un pequeño cambio)\n\nEjemplo (mano derecha):\n- Pregunta: C – E♭ – F – G – F – E♭ – C\n- Respuesta:  G – B♭ – G – F – E♭ – C\n\nRepite esta idea de 2 compases varias veces mientras la mano izquierda mantiene el ambiente de **C7**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 4 – Simple 4-bar chorus\nPut it together into **4 bars**:\n\n1. Bar 1–2: question + answer (one idea)\n2. Bar 3–4: question + answer (same idea, slightly changed)\n\nExample structure (right hand):\n- Bars 1–2: use the example from Step 3\n- Bars 3–4: start the same, but **end higher** (for example, finish on G or B♭)\n\nThis already sounds like a mini **blues solo**.",
+          "zh-Hans": "# 第四步 – 简单的 4 小节“段落”\n把内容变成一个 **4 小节** 的小段落：\n\n1. 第 1–2 小节：问 + 答（第一个想法）\n2. 第 3–4 小节：问 + 答（同一个想法，结尾稍微不一样）\n\n结构示例（右手）：\n- 第 1–2 小节：用第三步里的问答\n- 第 3–4 小节：前半相同，但**结尾往上走一点**（比如最后落在 G 或 B♭）\n\n这样听起来已经像一个迷你**蓝调独奏段**了。",
+          "de": "# Schritt 4 – Einfacher 4-Takt-Chorus\nForme daraus einen **4-Takt-Abschnitt**:\n\n1. Takt 1–2: Frage + Antwort (erste Idee)\n2. Takt 3–4: Frage + Antwort (gleiche Idee, leicht verändert)\n\nBeispielaufbau (rechte Hand):\n- Takt 1–2: benutze das Beispiel aus Schritt 3\n- Takt 3–4: beginne gleich, aber **ende höher** (z.B. auf G oder B♭)\n\nSo klingt es bereits wie ein kleiner **Blues-Solo-Abschnitt**.",
+          "ja": "# ステップ4 – 4小節のミニ・コーラス\nこれをまとめて **4小節** のフレーズにします。\n\n1. 1〜2小節目：質問＋答え（1つ目のアイデア）\n2. 3〜4小節目：質問＋答え（同じアイデアだが、終わりを少し変える）\n\n構成例（右手）：\n- 1〜2小節目：ステップ3の例をそのまま使う\n- 3〜4小節目：出だしは同じだが、**最後を少し高めに終わる**（たとえば G や B♭ で終わる）\n\nこれだけで、すでに小さな**ブルース・ソロの1コーラス**のように聞こえます。",
+          "pt-BR": "# Etapa 4 – Mini “chorus” de 4 compassos\nAgora junte tudo em **4 compassos**:\n\n1. Compasso 1–2: pergunta + resposta (primeira ideia)\n2. Compasso 3–4: pergunta + resposta (mesma ideia, com final um pouco diferente)\n\nExemplo de estrutura (mão direita):\n- Compassos 1–2: use o exemplo da Etapa 3\n- Compassos 3–4: comece igual, mas **termine mais agudo** (por exemplo, em G ou B♭)\n\nIsso já soa como um pequeno **chorus de solo de blues**.",
+          "es": "# Paso 4 – Mini “chorus” de 4 compases\nAhora júntalo en **4 compases**:\n\n1. Compás 1–2: pregunta + respuesta (primera idea)\n2. Compás 3–4: pregunta + respuesta (misma idea, con un final diferente)\n\nEjemplo de estructura (mano derecha):\n- Compases 1–2: usa el ejemplo del Paso 3\n- Compases 3–4: empieza igual, pero **termina más arriba** (por ejemplo, en G o B♭)\n\nAsí ya suena como un pequeño **chorus de solo de blues**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Warm up by playing the **C blues scale** up and down with the right hand.\n2. Choose **one 1-bar motif** and repeat it until it feels automatic.\n3. Turn that motif into a **2-bar question and answer**.\n4. Build a **4-bar chorus** by repeating and slightly changing your motif.\n5. Record yourself (even on your phone) and listen back for:\n   - Steady timing\n   - Clear blue notes (E♭, G♭, B♭)\n   - Phrases that **breathe** (tiny spaces between ideas)\n\nWhen this feels comfortable, you can drop the same right-hand ideas on a simple **12-bar blues in C** and they will still work.",
+          "zh-Hans": "## 快速练习\n1. 用右手把 **C 蓝调音阶** 上下跑几遍当热身。\n2. 选一个**一小节的小动机**，重复到几乎不用想就能弹。\n3. 把这个动机变成**两小节的问答句**。\n4. 用重复和小变化，把它扩展成一个**4 小节的小段落**。\n5. 用手机之类简单录一下自己，回放时注意：\n   - 节奏稳不稳\n   - 蓝调音（E♭、G♭、B♭）有没有弹清楚\n   - 乐句之间有没有**留一点空隙**让音乐“喘气”\n\n当这些变得轻松自然时，把同样的右手想法放到一个简单的 **C 调 12 小节蓝调** 上，一样很好用。",
+          "de": "## Kurze Übung\n1. Wärm dich auf, indem du die **C-Blues-Tonleiter** mit der rechten Hand rauf- und runterspielst.\n2. Such dir **ein Ein-Takt-Motiv** und wiederhole es, bis es fast automatisch läuft.\n3. Mach daraus eine **2-Takt-Frage-und-Antwort**.\n4. Baue daraus einen **4-Takt-Chorus**, indem du das Motiv wiederholst und leicht veränderst.\n5. Nimm dich (zur Not mit dem Handy) auf und achte beim Anhören auf:\n   - Stabiles Timing\n   - Klar gespielte Blue Notes (E♭, G♭, B♭)\n   - Phrasen, die **atmen** (kleine Pausen zwischen den Ideen)\n\nWenn sich das sicher anfühlt, kannst du dieselben rechten-Hand-Ideen über ein einfaches **12-Takte-Blues in C** legen – sie funktionieren dort genauso.",
+          "ja": "## かんたん練習\n1. まず右手で **Cブルース・スケール** を上下に弾いてウォームアップします。\n2. **1小節のモチーフを1つ**選び、ほとんど考えずに弾けるまでくり返します。\n3. そのモチーフを使って、**2小節の「質問＋答え」**に発展させます。\n4. 繰り返しと少しの変化で、**4小節のミニ・コーラス**に仕上げます。\n5. スマホなどで自分を録音して、次のポイントを聴いてみましょう：\n   - タイミングが安定しているか\n   - ブルーノート（E♭, G♭, B♭）がはっきり聞こえるか\n   - フレーズの間に**小さな「間」**があって、音楽がちゃんと呼吸しているか\n\nここまでが自然にできるようになったら、同じ右手のアイデアをシンプルな **C の12小節ブルース**の上でも使ってみましょう。",
+          "pt-BR": "## Prática rápida\n1. Aqueça tocando a **escala blues em C** subindo e descendo com a mão direita.\n2. Escolha **um motivo de 1 compasso** e repita até ficar automático.\n3. Transforme esse motivo em uma **pergunta e resposta de 2 compassos**.\n4. Monte um **chorus de 4 compassos** repetindo e mudando levemente o motivo.\n5. Grave-se (pode ser no celular) e depois ouça prestando atenção em:\n   - Tempo firme\n   - Blue notes claras (E♭, G♭, B♭)\n   - Frases que **respiram** (pequenas pausas entre as ideias)\n\nQuando isso estiver confortável, use as mesmas ideias de mão direita em um **blues de 12 compassos em C** – elas vão funcionar muito bem.",
+          "es": "## Práctica rápida\n1. Calienta tocando la **escala blues en C** subiendo y bajando con la mano derecha.\n2. Elige **un motivo de 1 compás** y repítelo hasta que salga casi automático.\n3. Convierte ese motivo en una **pregunta y respuesta de 2 compases**.\n4. Construye un **chorus de 4 compases** repitiendo y cambiando un poco el motivo.\n5. Grábate (aunque sea con el móvil) y escucha después fijándote en:\n   - Tiempo estable\n   - Blue notes claras (E♭, G♭, B♭)\n   - Frases que **respiran** (pequeños espacios entre ideas)\n\nCuando esto se sienta cómodo, prueba las mismas ideas de mano derecha sobre un **blues de 12 compases en C** y verás que siguen funcionando muy bien."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

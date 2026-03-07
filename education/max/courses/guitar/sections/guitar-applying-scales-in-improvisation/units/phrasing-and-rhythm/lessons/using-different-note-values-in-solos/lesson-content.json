@@ -1,0 +1,73 @@
+{
+  "id": "using-different-note-values-in-solos",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using different note values in solos\nIf every note has the **same length**, your solo quickly feels flat.\n\nIn this lesson you’ll practice:\n- Mixing **long and short notes**\n- Switching between **quarters, 8ths and 16ths**\n- Letting the rhythm change the **energy** of your lines\n\nUse any scale you already know and focus on **how long each note lasts**, not on finding new notes.",
+          "zh-Hans": "# 在独奏中使用不同时值\n如果每个音的**时值都一样长**，独奏很容易变得平淡。\n\n本课你会练习：\n- 混合使用**长音和短音**\n- 在**四分音符、八分音符、十六分音符**之间切换\n- 用节奏变化来改变乐句的**能量感**\n\n用你已经熟悉的任何音阶，把注意力放在**每个音要拉多长**，而不是找新音上。",
+          "de": "# Unterschiedliche Notenlängen im Solo einsetzen\nWenn alle Töne **gleich lang** sind, klingt dein Solo schnell langweilig.\n\nIn dieser Lektion übst du:\n- **Lange und kurze Noten** zu mischen\n- Zwischen **Vierteln, Achteln und Sechzehnteln** zu wechseln\n- Mit der Rhythmik die **Energie deiner Linien** zu steuern\n\nNutze eine Skala, die du schon kennst, und konzentriere dich darauf, **wie lange jeder Ton klingt**, statt neue Töne zu suchen.",
+          "ja": "# ソロでいろいろな音価を使う\nすべての音の**長さが同じ**だと、ソロはすぐに平坦に聞こえます。\n\nこのレッスンでは次を練習します：\n- **長い音と短い音**を混ぜる\n- **4分音符・8分音符・16分音符**を行き来する\n- リズムの変化でフレーズの**エネルギー感**を変える\n\n使うスケールは、すでに知っているものでOK。新しい音ではなく、**音をどれくらい伸ばすか**に意識を向けましょう。",
+          "pt-BR": "# Usando diferentes valores de nota nos solos\nSe todas as notas têm **o mesmo comprimento**, o solo fica reto e sem dinâmica.\n\nNesta lição você vai praticar:\n- Misturar **notas longas e curtas**\n- Alternar entre **semínimas, colcheias e semicolcheias**\n- Deixar que o ritmo mude a **energia das frases**\n\nUse qualquer escala que você já conhece e foque em **quanto tempo cada nota dura**, não em achar notas novas.",
+          "es": "# Usar diferentes valores de nota en los solos\nSi todas las notas tienen **la misma duración**, tu solo se vuelve plano muy rápido.\n\nEn esta lección vas a practicar:\n- Mezclar **notas largas y cortas**\n- Cambiar entre **negras, corcheas y semicorcheas**\n- Dejar que el ritmo cambie la **energía de tus líneas**\n\nUsa cualquier escala que ya conozcas y céntrate en **cuánto tiempo dura cada nota**, no en buscar notas nuevas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Basic note values and feel\nThink of a slow 4/4 groove:\n\n- **Quarter notes (1 note per beat)** – steady, strong, relaxed\n- **8th-notes (2 per beat)** – flowing, singable\n- **16th-notes (4 per beat)** – busy, energetic\n\nPlay one **scale up and down** three times:\n1. Only **quarter notes**\n2. Only **8th-notes**\n3. Only **16th-notes**\n\nSame notes, three very different **levels of intensity**.",
+          "zh-Hans": "# 基本时值和整体感觉\n先想象一个慢速的 4/4 节奏：\n\n- **四分音符（每拍 1 个音）**——稳定、有力、放松\n- **八分音符（每拍 2 个音）**——流畅、好唱\n- **十六分音符（每拍 4 个音）**——繁忙、有冲劲\n\n用同一个音阶**上行再下行**各弹三遍：\n1. 只用**四分音符**\n2. 只用**八分音符**\n3. 只用**十六分音符**\n\n音完全一样，但整体的**强度和紧张感**会非常不同。",
+          "de": "# Grundlegende Notenwerte und ihr Charakter\nStell dir einen langsamen 4/4-Groove vor:\n\n- **Viertelnoten (1 Ton pro Schlag)** – stabil, klar, entspannt\n- **Achtelnoten (2 pro Schlag)** – fließend, melodisch\n- **Sechzehntel (4 pro Schlag)** – dicht, energiegeladen\n\nSpiele eine **Skala rauf und runter** jeweils dreimal:\n1. Nur **Viertel**\n2. Nur **Achtel**\n3. Nur **Sechzehntel**\n\nGleiche Töne, aber drei sehr unterschiedliche **Intensitätsstufen**.",
+          "ja": "# 基本的な音価とキャラクター\nゆっくりした4/4のグルーヴをイメージしましょう：\n\n- **4分音符（1拍に1音）** … 安定していて、どっしり、落ち着いている\n- **8分音符（1拍に2音）** … なめらかで、歌いやすい\n- **16分音符（1拍に4音）** … せわしなくて、エネルギッシュ\n\n同じスケールを**上がって下がる**のを3通りで弾きます：\n1. 4分音符だけ\n2. 8分音符だけ\n3. 16分音符だけ\n\n音はまったく同じなのに、**テンションと密度**が全然違って聞こえるはずです。",
+          "pt-BR": "# Valores básicos e a sensação de cada um\nPense em um groove lento em 4/4:\n\n- **Semínimas (1 nota por tempo)** – estável, forte, relaxado\n- **Colcheias (2 por tempo)** – fluindo, bem melódico\n- **Semicolcheias (4 por tempo)** – cheio, energético\n\nToque a **mesma escala subindo e descendo** três vezes:\n1. Só com **semínimas**\n2. Só com **colcheias**\n3. Só com **semicolcheias**\n\nSão as mesmas notas, mas com **três níveis de intensidade** diferentes.",
+          "es": "# Valores básicos y su carácter\nPiensa en un groove lento en 4/4:\n\n- **Negras (1 nota por tiempo)** – estable, fuerte, relajado\n- **Corcheas (2 por tiempo)** – fluido, cantable\n- **Semicorcheas (4 por tiempo)** – denso, con mucha energía\n\nToca la **misma escala subiendo y bajando** tres veces:\n1. Sólo **negras**\n2. Sólo **corcheas**\n3. Sólo **semicorcheas**\n\nSon las mismas notas, pero con **tres niveles de intensidad** muy distintos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Long notes as “anchors”\nGood phrasing uses long notes like **commas and full stops**.\n\nTry this:\n- Play **3–5 short notes** (8ths or 16ths)\n- Then hold **one long note** (a quarter or half note)\n- Let the long note land on a **strong beat** (1 or 3)\n\nThe short notes create **movement**, the long note gives your ear a place to **rest and listen**.",
+          "zh-Hans": "# 把长音当成“锚点”\n好的乐句会用长音当作**逗号或句号**。\n\n试试这样：\n- 先弹 **3–5 个短音**（八分音符或十六分音符）\n- 然后拉住 **一个长音**（四分或二分音符）\n- 让这个长音落在**强拍**上（第 1 拍或第 3 拍）\n\n短音带来**运动感**，长音给耳朵一个**休息、消化**的空间。",
+          "de": "# Lange Töne als „Anker“\nGute Phrasen nutzen längere Töne wie **Kommas und Punkte**.\n\nÜbung:\n- Spiele **3–5 kurze Töne** (Achtel oder Sechzehntel)\n- Halte danach **einen langen Ton** (Viertel oder Halbe)\n- Lass den langen Ton auf einem **starken Schlag** landen (1 oder 3)\n\nDie kurzen Töne sorgen für **Bewegung**, der lange Ton gibt dem Ohr einen **Ruhepunkt**.",
+          "ja": "# 長い音を“アンカー”として使う\nいいフレーズは、長い音を**句読点**のように使います。\n\n次のように練習してみましょう：\n- まず **3〜5音の短い音**（8分や16分）を弾く\n- そのあとに **1つ長い音**（4分音符や2分音符）を伸ばす\n- できればその長い音を**強拍（1拍目や3拍目）**に置く\n\n短い音で**動き**が生まれ、長い音が**落ち着く場所**を作ってくれます。",
+          "pt-BR": "# Notas longas como “âncoras”\nUm bom fraseado usa notas longas como **vírgulas e pontos finais**.\n\nExperimente:\n- Toque **3–5 notas curtas** (colcheias ou semicolcheias)\n- Depois segure **uma nota longa** (semínima ou mínima)\n- Tente fazer essa nota longa cair num **tempo forte** (1 ou 3)\n\nAs notas curtas criam **movimento**, a nota longa dá ao ouvido um lugar para **parar e ouvir**.",
+          "es": "# Notas largas como “anclas”\nUn buen fraseo usa notas largas como **comas y puntos**.\n\nPrueba esto:\n- Toca **3–5 notas cortas** (corcheas o semicorcheas)\n- Luego mantén **una nota larga** (negra o blanca)\n- Intenta que la nota larga caiga en un **tiempo fuerte** (1 o 3)\n\nLas notas cortas crean **movimiento**, la nota larga le da al oído un lugar para **descansar y escuchar**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mixing 8ths and 16ths for “bursts”\nNow use **8ths as your default**, and add **16ths in small bursts**:\n\n1. Play one bar mostly in **8th-notes**\n2. In just **one beat** of the bar, play **4 quick 16ths**\n3. Go back to 8ths\n\nThose little 16th-note bursts feel like **tiny pushes of energy** inside an otherwise relaxed line.",
+          "zh-Hans": "# 用八分音符和十六分音符做“小加速”\n现在让 **八分音符当主角**，用 **十六分音符做小爆点**：\n\n1. 一小节里大部分时间都用**八分音符**\n2. 选其中 **一拍**（比如第 2 拍），在那一拍里弹 **4 个十六分音符**\n3. 弹完这组之后回到八分音符\n\n这些十六分的小爆点会像在原本放松的乐句里加了几下**能量小冲刺**。",
+          "de": "# Achtel und Sechzehntel für „Energie-Schübe“ mischen\nJetzt nimmst du **Achtel als Standard** und setzt **Sechzehntel als kurze Ausbrüche** ein:\n\n1. Spiele einen Takt überwiegend in **Achteln**\n2. In **einem Schlag** des Takts spielst du **4 schnelle Sechzehntel**\n3. Danach wieder zurück zu Achteln\n\nDiese kleinen Sechzehntel-Ausbrüche wirken wie **kleine Energieschübe** in einer sonst entspannten Linie.",
+          "ja": "# 8分と16分を混ぜて“加速ポイント”を作る\nここでは **8分音符を基本** にして、**16分音符を小さなスパイス**として入れます：\n\n1. 1小節のほとんどを**8分音符**で弾く\n2. 小節の中の**どこか1拍**（例：2拍目）だけ、**4つの16分音符**を入れる\n3. そのあとはまた8分音符に戻る\n\nこの16分の“かたまり”が、落ち着いたラインの中に出てくる**小さなエネルギーのブースト**になります。",
+          "pt-BR": "# Misturando colcheias e semicolcheias para dar “trancos”\nAgora use **colcheias como base** e coloque **semicolcheias em pequenos ataques**:\n\n1. Toque um compasso quase todo em **colcheias**\n2. Em **apenas um tempo** do compasso, toque **4 semicolcheias**\n3. Volte para as colcheias\n\nEsses grupinhos de semicolcheias soam como **mini explosões de energia** dentro de uma frase mais tranquila.",
+          "es": "# Mezclar corcheas y semicorcheas para dar “empujes”\nAhora usa **corcheas como base** y añade **semicorcheas en pequeños estallidos**:\n\n1. Toca un compás casi todo en **corcheas**\n2. En **sólo un tiempo** del compás, toca **4 semicorcheas**\n3. Vuelve a las corcheas\n\nEsos grupos de semicorcheas se sienten como **pequeños empujes de energía** dentro de una línea más relajada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nFor 5–10 minutes over a slow backing track:\n1. Play one chorus using **only 8th-notes**.\n2. Next chorus: mix **8ths + a few 16th bursts**.\n3. Next chorus: add **long held notes** at the end of your phrases.\n\nAsk yourself after each chorus: *Did the solo feel more like **a story** when I changed the note lengths?* If yes, you’re using rhythm in a musical way.",
+          "zh-Hans": "# 小练习\n在一个慢速伴奏上练习 5–10 分钟：\n1. 第一轮：只用**八分音符**来独奏。\n2. 第二轮：用**八分音符为主 + 偶尔插入十六分小爆点**。\n3. 第三轮：在每句结尾加上**拉长的长音**。\n\n每一轮之后问问自己：*当我改变时值时，这段独奏有更像**讲故事**的感觉吗？* 如果答案是“有”，说明你已经在用更有音乐性的节奏了。",
+          "de": "# Kurze Übung\nSpiele 5–10 Minuten über ein langsames Backing:\n1. Erster Chorus: Solo mit **nur Achtelnoten**.\n2. Zweiter Chorus: **Achtel plus ein paar Sechzehntel-Ausbrüche** mischen.\n3. Dritter Chorus: Am Ende deiner Phrasen **längere gehaltene Töne** einbauen.\n\nFrag dich nach jedem Chorus: *Hat sich das Solo mehr wie **eine Geschichte** angefühlt, als ich die Notenlängen verändert habe?* Wenn ja, nutzt du Rhythmik musikalisch.",
+          "ja": "# かんたん練習\nゆっくりめのバッキングに合わせて5〜10分：\n1. 1コーラス目：**8分音符だけ**でソロを取る。\n2. 2コーラス目：**8分メイン＋ところどころ16分のかたまり**を入れる。\n3. 3コーラス目：フレーズの終わりに**長く伸ばす音**を足してみる。\n\n各コーラスのあとで自分に聞いてみてください：\n*音の長さを変えたときの方が、ソロが**“物語”っぽく**聞こえた？* もし「うん」と思えたなら、リズムをうまく音楽的に使えています。",
+          "pt-BR": "# Prática rápida\nPor 5–10 minutos, em um playback lento:\n1. 1º chorus: faça um solo usando **só colcheias**.\n2. 2º chorus: misture **colcheias + pequenos ataques de semicolcheia**.\n3. 3º chorus: coloque **notas longas** no final das frases.\n\nDepois de cada chorus, se pergunte: *Quando eu mudei a duração das notas, o solo pareceu mais com **uma história**?* Se a resposta for sim, você está usando o ritmo de um jeito musical.",
+          "es": "# Práctica rápida\nDurante 5–10 minutos sobre una base lenta:\n1. Primer chorus: haz un solo usando **sólo corcheas**.\n2. Segundo chorus: mezcla **corcheas + pequeños estallidos de semicorcheas**.\n3. Tercer chorus: añade **notas largas** al final de tus frases.\n\nDespués de cada chorus pregúntate: *¿El solo se sintió más como **una historia** cuando cambié la duración de las notas?* Si la respuesta es sí, estás usando el ritmo de forma musical."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

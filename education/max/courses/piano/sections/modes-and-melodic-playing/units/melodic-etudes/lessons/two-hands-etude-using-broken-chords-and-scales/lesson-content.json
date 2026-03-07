@@ -1,0 +1,86 @@
+{
+  "id": "two-hands-etude-using-broken-chords-and-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-hands etude using broken chords and scales\nThis etude puts **both hands to work** in C major:\n\n- Left hand: repeating **broken-chord patterns**\n- Right hand: **8th-note scale lines** that fit each chord\n\nIt stays on **white keys around middle C**, so you can focus on coordination, even timing, and a clear melodic shape.",
+          "zh-Hans": "# 双手分解和弦与音阶练习曲\n这首练习曲在 C 大调里同时训练你的**左右手**：\n\n- 左手：重复的**分解和弦型**\n- 右手：配合和弦的**八分音符音阶线条**\n\n整首曲子都在中央 C 附近、只用**白键**，让你可以专注在配合、节奏平均和清晰的旋律线条上。",
+          "de": "# Etüde für beide Hände mit gebrochenen Akkorden und Tonleitern\nDiese Etüde trainiert **beide Hände** in C-Dur:\n\n- Linke Hand: sich wiederholende **gebrochene Akkordmuster**\n- Rechte Hand: **Achtel-Tonleiterlinien**, die zu jedem Akkord passen\n\nSie bleibt auf den **weißen Tasten rund um das mittlere C**, damit du dich auf Koordination, gleichmäßiges Timing und eine klare Melodielinie konzentrieren kannst.",
+          "ja": "# 分散和音とスケールを使った両手エチュード\nこのエチュードは、ハ長調で**両手を同時に鍛える**練習です。\n\n- 左手：くり返しの**分散和音パターン**\n- 右手：各コードに合った**8分音符のスケール・ライン**\n\n中央Cまわりの**白鍵だけ**を使うので、左右のタイミング合わせや、安定したリズム、はっきりしたメロディ作りに集中できます。",
+          "pt-BR": "# Estudo com duas mãos usando arpejos e escalas\nEste estudo coloca **as duas mãos para trabalhar** em dó maior:\n\n- Mão esquerda: padrões de **acordes quebrados (arpejos)** em loop\n- Mão direita: linhas de **colcheias em escala** que encaixam em cada acorde\n\nTudo fica nas **teclas brancas perto do dó central**, para você focar em coordenação, tempo uniforme e uma melodia clara.",
+          "es": "# Estudio a dos manos usando arpegios y escalas\nEste estudio pone a trabajar **ambas manos** en do mayor:\n\n- Mano izquierda: patrones repetidos de **acordes rotos (arpegios)**\n- Mano derecha: líneas de **corcheas en escala** que encajan con cada acorde\n\nSe mantiene en las **teclas blancas alrededor del do central**, para que puedas concentrarte en la coordinación, el tiempo parejo y una línea melódica clara."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Form of the etude\nThink of it as **8 bars in C major**, grouped in 4 two-bar cells:\n\n- **Bars 1–2:** C harmony (C)\n- **Bars 3–4:** A minor harmony (Am)\n- **Bars 5–6:** F harmony (F)\n- **Bars 7–8:** G harmony resolving back to C (G → C)\n\nYou can loop bars **1–8** as many times as you like.",
+          "zh-Hans": "# 练习曲的结构\n可以把这首曲子看成 C 大调里的 **8 小节**，分成 4 个两小节小块：\n\n- **第 1–2 小节：** C 和声（C）\n- **第 3–4 小节：** A 小调和声（Am）\n- **第 5–6 小节：** F 和声（F）\n- **第 7–8 小节：** G 和声回到 C（G → C）\n\n你可以把 **1–8 小节** 当成一个循环，反复弹很多遍。",
+          "de": "# Form der Etüde\nDenk an **8 Takte in C-Dur**, eingeteilt in 4 Zweitakt-Gruppen:\n\n- **Takte 1–2:** C-Harmonie (C)\n- **Takte 3–4:** a-Moll-Harmonie (Am)\n- **Takte 5–6:** F-Harmonie (F)\n- **Takte 7–8:** G-Harmonie mit Auflösung nach C (G → C)\n\nDu kannst die Takte **1–8** beliebig oft im Loop spielen.",
+          "ja": "# エチュードの構成\nハ長調の**8小節**を、2小節ずつ4つのかたまりとして考えます。\n\n- **1〜2小節目：** C の和声（C）\n- **3〜4小節目：** A マイナーの和声（Am）\n- **5〜6小節目：** F の和声（F）\n- **7〜8小節目：** G の和声から C への解決（G → C）\n\n1〜8小節を1セットとして、何回でもループして構いません。",
+          "pt-BR": "# Forma do estudo\nPense em **8 compassos em dó maior**, divididos em 4 blocos de 2 compassos:\n\n- **Compassos 1–2:** harmonia de C (C)\n- **Compassos 3–4:** harmonia de Am (Am)\n- **Compassos 5–6:** harmonia de F (F)\n- **Compassos 7–8:** harmonia de G resolvendo para C (G → C)\n\nVocê pode tocar os compassos **1–8** em loop quantas vezes quiser.",
+          "es": "# Forma del estudio\nPiensa en **8 compases en do mayor**, agrupados en 4 células de dos compases:\n\n- **Compases 1–2:** armonía de C (C)\n- **Compases 3–4:** armonía de Am (Am)\n- **Compases 5–6:** armonía de F (F)\n- **Compases 7–8:** armonía de G resolviendo a C (G → C)\n\nPuedes repetir los compases **1–8** en bucle tantas veces como quieras."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left hand – broken-chord pattern\nUse steady **8th notes** in the left hand.\n\nSuggested pattern (root–5th–3rd–5th):\n- Over **C**: C–G–E–G (repeat each bar)\n- Over **Am**: A–E–C–E\n- Over **F**: F–C–A–C\n- Over **G**: G–D–B–D\n- Final bar on **C** (bar 8): C–G–E–C (quarter notes) to let it settle\n\nKeep the wrist loose and the motion small, like you’re **rocking gently** between the notes.",
+          "zh-Hans": "# 左手 – 分解和弦型\n左手用稳定的**八分音符**来弹分解和弦。\n\n推荐的模式（根音–五度–三度–五度）：\n- 在 **C** 上：C–G–E–G（每小节重复一次）\n- 在 **Am** 上：A–E–C–E\n- 在 **F** 上：F–C–A–C\n- 在 **G** 上：G–D–B–D\n- **第 8 小节** 回到 C：C–G–E–C（四分音符），让乐句安静收尾\n\n手腕保持放松，动作幅度小，像在键盘上**轻轻摇摆**一样。",
+          "de": "# Linke Hand – gebrochene Akkorde\nIn der linken Hand spielst du gleichmäßige **Achtelnoten**.\n\nVorgeschlagenes Pattern (Grundton–Quinte–Terz–Quinte):\n- Über **C**: C–G–E–G (pro Takt wiederholen)\n- Über **Am**: A–E–C–E\n- Über **F**: F–C–A–C\n- Über **G**: G–D–H–D\n- Im letzten Takt auf **C** (Takt 8): C–G–E–C (Viertelnoten), damit sich alles beruhigt\n\nHalte das Handgelenk locker und die Bewegung klein, als würdest du **sanft zwischen den Tönen schaukeln**.",
+          "ja": "# 左手 – 分散和音パターン\n左手は**8分音符**で安定した分散和音を弾きます。\n\nおすすめのパターン（ルート–5度–3度–5度）：\n- **C** 上：C–G–E–G（1小節ごとにくり返し）\n- **Am** 上：A–E–C–E\n- **F** 上：F–C–A–C\n- **G** 上：G–D–B–D\n- **8小節目** の C：C–G–E–C（4分音符）で、フレーズを落ち着かせる\n\n手首はやわらかく、動きは小さく保ち、鍵盤の上で**ゆっくり揺れる**ようなイメージで弾きましょう。",
+          "pt-BR": "# Mão esquerda – padrão de arpejo\nNa mão esquerda, use **colcheias regulares** tocando arpejos.\n\nPadrão sugerido (fundamental–quinta–terça–quinta):\n- Sobre **C**: C–G–E–G (repete a cada compasso)\n- Sobre **Am**: A–E–C–E\n- Sobre **F**: F–C–A–C\n- Sobre **G**: G–D–B–D\n- No **8º compasso**, em C: C–G–E–C (semínimas) para fechar com calma\n\nMantenha o punho solto e o movimento pequeno, como se estivesse **balançando de leve** entre as notas.",
+          "es": "# Mano izquierda – patrón de acorde roto\nEn la mano izquierda toca **corcheas parejas** en arpegios.\n\nPatrón sugerido (fundamental–quinta–3ª–quinta):\n- Sobre **C**: C–G–E–G (repite en cada compás)\n- Sobre **Am**: A–E–C–E\n- Sobre **F**: F–C–A–C\n- Sobre **G**: G–D–B–D\n- En el **compás 8**, sobre C: C–G–E–C (negras) para cerrar con calma\n\nMantén la muñeca suelta y el movimiento pequeño, como si **te mecieras suavemente** entre las notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right hand – scale-based melody\nThe right hand plays 8th-note melodies using only **C major scale notes**.\n\nExample 8-bar line:\n- **Bars 1–2 (C harmony)**  \n  C–D–E–G–E–D–C–B  \n  D–E–F–A–F–E–D–C\n\n- **Bars 3–4 (Am harmony)**  \n  A–B–C–E–C–B–A–G  \n  B–C–D–F–D–C–B–A\n\n- **Bars 5–6 (F harmony)**  \n  F–G–A–C–A–G–F–E  \n  G–A–B–D–B–A–G–F\n\n- **Bars 7–8 (G → C)**  \n  G–A–B–D–B–A–G–F  \n  E–D–C–B–C–D–E–C\n\nPlay everything **legato**, keeping each finger close to the keys.",
+          "zh-Hans": "# 右手 – 基于音阶的旋律\n右手用 **C 大调音阶** 的音来弹八分音符旋律。\n\n示例的 8 小节旋律：\n- **第 1–2 小节（C 和声）**  \n  C–D–E–G–E–D–C–B  \n  D–E–F–A–F–E–D–C\n\n- **第 3–4 小节（Am 和声）**  \n  A–B–C–E–C–B–A–G  \n  B–C–D–F–D–C–B–A\n\n- **第 5–6 小节（F 和声）**  \n  F–G–A–C–A–G–F–E  \n  G–A–B–D–B–A–G–F\n\n- **第 7–8 小节（G → C）**  \n  G–A–B–D–B–A–G–F  \n  E–D–C–B–C–D–E–C\n\n整条旋律尽量**连音（legato）**，手指贴近琴键，不要抬得太高。",
+          "de": "# Rechte Hand – tonleiterbasierte Melodie\nDie rechte Hand spielt Achtelmelodien nur mit Tönen der **C-Dur-Tonleiter**.\n\nBeispiel für eine 8-taktige Linie:\n- **Takte 1–2 (C-Harmonie)**  \n  C–D–E–G–E–D–C–H  \n  D–E–F–A–F–E–D–C\n\n- **Takte 3–4 (a-Moll-Harmonie)**  \n  A–H–C–E–C–H–A–G  \n  H–C–D–F–D–C–H–A\n\n- **Takte 5–6 (F-Harmonie)**  \n  F–G–A–C–A–G–F–E  \n  G–A–H–D–H–A–G–F\n\n- **Takte 7–8 (G → C)**  \n  G–A–H–D–H–A–G–F  \n  E–D–C–H–C–D–E–C\n\nSpiele alles **legato** und halte die Finger nah an den Tasten.",
+          "ja": "# 右手 – スケールに基づくメロディ\n右手は、**ハ長調のスケール**だけを使って8分音符のメロディを弾きます。\n\n8小節の例：\n- **1〜2小節目（C の和声）**  \n  C–D–E–G–E–D–C–B  \n  D–E–F–A–F–E–D–C\n\n- **3〜4小節目（Am の和声）**  \n  A–B–C–E–C–B–A–G  \n  B–C–D–F–D–C–B–A\n\n- **5〜6小節目（F の和声）**  \n  F–G–A–C–A–G–F–E  \n  G–A–B–D–B–A–G–F\n\n- **7〜8小節目（G → C）**  \n  G–A–B–D–B–A–G–F  \n  E–D–C–B–C–D–E–C\n\nすべてを**レガート**でつなげ、指先を鍵盤の近くに保ちながら弾きましょう。",
+          "pt-BR": "# Mão direita – melodia baseada em escala\nA mão direita toca colcheias usando apenas notas da **escala de dó maior**.\n\nLinha de 8 compassos (exemplo):\n- **Compassos 1–2 (harmonia de C)**  \n  C–D–E–G–E–D–C–B  \n  D–E–F–A–F–E–D–C\n\n- **Compassos 3–4 (harmonia de Am)**  \n  A–B–C–E–C–B–A–G  \n  B–C–D–F–D–C–B–A\n\n- **Compassos 5–6 (harmonia de F)**  \n  F–G–A–C–A–G–F–E  \n  G–A–B–D–B–A–G–F\n\n- **Compassos 7–8 (G → C)**  \n  G–A–B–D–B–A–G–F  \n  E–D–C–B–C–D–E–C\n\nToque tudo em **legato**, mantendo os dedos bem próximos das teclas.",
+          "es": "# Mano derecha – melodía basada en escala\nLa mano derecha toca melodías de corcheas usando solo notas de la **escala de do mayor**.\n\nEjemplo de línea de 8 compases:\n- **Compases 1–2 (armonía de C)**  \n  C–D–E–G–E–D–C–B  \n  D–E–F–A–F–E–D–C\n\n- **Compases 3–4 (armonía de Am)**  \n  A–B–C–E–C–B–A–G  \n  B–C–D–F–D–C–B–A\n\n- **Compases 5–6 (armonía de F)**  \n  F–G–A–C–A–G–F–E  \n  G–A–B–D–B–A–G–F\n\n- **Compases 7–8 (G → C)**  \n  G–A–B–D–B–A–G–F  \n  E–D–C–B–C–D–E–C\n\nToca todo en **legato**, manteniendo los dedos cerca de las teclas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Putting hands together\nWhen you combine both hands:\n- Start **very slowly** – even half-tempo is fine\n- Make sure **left-hand arpeggios** stay steady like a backing track\n- Let the right-hand melody **sing above** without forcing\n\nIf something falls apart, stop, isolate **just 1–2 bars**, and fix them hands together before you run the full 8 bars again.",
+          "zh-Hans": "## 双手合起来\n把左右手合起来时：\n- 一开始要**非常慢**，甚至一半速度都可以\n- 先保证左手分解和弦像伴奏带一样**稳定不停**\n- 右手旋律在上面**自然歌唱**，不要用力去“砸”键盘\n\n如果某一段总是乱掉，就先停下来，只抽出那 **1–2 小节**，双手一起慢慢修好，再回去弹完整的 8 小节。",
+          "de": "## Beide Hände zusammen\nWenn du beide Hände kombinierst:\n- Fang **sehr langsam** an – halbes Tempo ist völlig okay\n- Achte darauf, dass die **Arpeggien der linken Hand** stabil wie ein Backing-Track laufen\n- Lass die Melodie rechts darüber **leicht „singen“**, ohne zu drücken\n\nWenn eine Stelle auseinanderfällt, stoppe und nimm dir nur **1–2 Takte** heraus. Übe sie mit beiden Händen, bevor du wieder alle 8 Takte am Stück spielst.",
+          "ja": "## 両手を合わせる\n両手を合わせるときは：\n- まずは**かなりゆっくり**でOK（テンポ半分くらいでも大丈夫）\n- 左手のアルペジオが、伴奏トラックのように**安定して流れ続ける**ことを優先\n- 右手のメロディは、その上で**自然に歌わせる**イメージで、力で叩かない\n\nどこかで崩れてしまうなら、一度止まって、その**1〜2小節だけ**を取り出して両手で直し、それからまた8小節全部に戻りましょう。",
+          "pt-BR": "## Juntando as duas mãos\nNa hora de juntar as mãos:\n- Comece **bem devagar** – até metade do andamento está ótimo\n- Garanta que os **arpejos da esquerda** fiquem estáveis, como uma base gravada\n- Deixe a melodia da direita **“cantar por cima”**, sem precisar bater forte\n\nSe algum trecho desandar, pare e isole **apenas 1–2 compassos**. Arrume-os com as duas mãos juntas e só depois volte a tocar os 8 compassos inteiros.",
+          "es": "## Juntando las dos manos\nAl combinar ambas manos:\n- Empieza **muy despacio**; incluso a medio tempo está bien\n- Asegúrate de que los **arpegios de la izquierda** se mantengan estables, como una base grabada\n- Deja que la melodía de la derecha **“cante por encima”**, sin golpear fuerte\n\nSi algo se desarma, detente y aísla **solo 1–2 compases**. Arréglalos con las dos manos juntas antes de volver a tocar los 8 compases completos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Learn the **left-hand arpeggios** by themselves until they feel automatic.\n2. Learn the **right-hand line** alone, focusing on smooth legato.\n3. Put hands together for **bars 1–2 only**, then 3–4, 5–6, and 7–8.\n4. Finally, play all 8 bars in a loop with a **slow metronome**, raising the tempo a little when it feels easy.\n\nLater, try reusing the same left-hand broken-chord pattern while inventing **new right-hand scale melodies** in C or other modes.",
+          "zh-Hans": "## 快速练习\n1. 先单独学会**左手分解和弦**，直到几乎不用想就能弹。\n2. 再单独练**右手旋律**，注意保持连音顺滑。\n3. 合手时先只练 **第 1–2 小节**，再练 3–4、5–6、7–8 小节。\n4. 最后，用**慢速节拍器**把 8 小节连起来循环弹，感觉轻松后再慢慢提速。\n\n等你熟练之后，可以保留同样的左手分解和弦，在右手用 C 调或别的调式**自己编新的音阶旋律**。",
+          "de": "## Kurze Übung\n1. Lerne zuerst die **Arpeggien der linken Hand** allein, bis sie fast automatisch laufen.\n2. Lerne dann die **Melodielinie rechts** allein und achte auf sauberes Legato.\n3. Spiele beide Hände nur für **Takte 1–2**, dann für 3–4, 5–6 und 7–8.\n4. Spiele schließlich alle 8 Takte im Loop mit einem **langsamen Metronom** und erhöhe das Tempo, wenn es sich leicht anfühlt.\n\nSpäter kannst du dasselbe gebrochene Akkordpattern in der linken Hand behalten und dir in C oder in anderen Modes **eigene Tonleiter-Melodien** in der rechten Hand ausdenken.",
+          "ja": "## かんたん練習\n1. まずは**左手のアルペジオ**だけを単独で練習し、ほぼ自動で回せるくらいにします。\n2. 次に**右手のメロディ**を片手で練習し、なめらかなレガートを意識します。\n3. 両手を合わせるときは、まず **1〜2小節目** だけ、そのあと 3〜4、5〜6、7〜8小節目と順に練習します。\n4. 最後に、**ゆっくりめのメトロノーム**に合わせて8小節全部をループし、余裕が出てきたら少しずつテンポを上げましょう。\n\n慣れてきたら、左手の分散和音パターンはそのままにして、右手でCのスケールや別のモードを使った**オリジナルのメロディ**を作ってみてください。",
+          "pt-BR": "## Prática rápida\n1. Aprenda primeiro os **arpejos da mão esquerda** sozinhos, até ficarem quase automáticos.\n2. Depois estude a **linha da mão direita** sozinha, focando em legato suave.\n3. Junte as mãos só nos **compassos 1–2**, depois 3–4, 5–6 e 7–8.\n4. Por fim, toque os 8 compassos em loop com um **metrônomo lento**, aumentando o andamento aos poucos quando estiver fácil.\n\nMais pra frente, mantenha o mesmo padrão de arpejo na esquerda e invente **novas melodias de escala** na mão direita, em dó ou em outros modos.",
+          "es": "## Práctica rápida\n1. Aprende primero los **arpegios de la mano izquierda** por separado, hasta que se sientan casi automáticos.\n2. Luego estudia la **línea de la derecha** sola, cuidando un legato suave.\n3. Junta las manos solo en los **compases 1–2**, luego 3–4, 5–6 y 7–8.\n4. Finalmente, toca los 8 compases en bucle con un **metrónomo lento**, subiendo el tempo poco a poco cuando se sienta fácil.\n\nMás adelante, conserva el mismo patrón de acorde roto en la izquierda e inventa **nuevas melodías de escala** en la derecha, en do o en otros modos."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

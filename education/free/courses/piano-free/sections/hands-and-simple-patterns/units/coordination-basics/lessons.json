@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c-major-scale-one-octave-left-hand",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave, Left Hand",
+        "zh-Hans": "C大调音阶——一八度，左手",
+        "de": "C-Dur-Tonleiter – Eine Oktave, linke Hand",
+        "ja": "Cメジャー・スケール 1オクターブ（左手）",
+        "pt-BR": "Escala de Dó maior – Uma oitava, mão esquerda",
+        "es": "Escala de Do mayor – Una octava, mano izquierda"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice a steady left-hand fingering for one octave of C major.",
+        "zh-Hans": "练习左手稳定的指法，演奏一个八度的C大调音阶。",
+        "de": "Übe eine gleichmäßige linkshändige Fingersetzung für eine Oktave C-Dur.",
+        "ja": "左手で1オクターブのCメジャー・スケールを安定したフィンガリングで練習しましょう。",
+        "pt-BR": "Pratique uma digitação estável da mão esquerda para uma oitava de Dó maior.",
+        "es": "Practica una digitación estable con la mano izquierda para una octava de Do mayor."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "c-major-scale-hands-separate-with-simple-rhythm",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – Hands Separate with Simple Rhythm",
+        "zh-Hans": "C大调音阶——双手分开练习，配合简单节奏",
+        "de": "C-Dur-Tonleiter – Hände getrennt mit einfachem Rhythmus",
+        "ja": "Cメジャー・スケール 両手別々＋シンプルなリズム",
+        "pt-BR": "Escala de Dó maior – Mãos separadas com ritmo simples",
+        "es": "Escala de Do mayor – Manos separadas con ritmo simple"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play C major separately in each hand while keeping a basic rhythm.",
+        "zh-Hans": "分别用左右手演奏C大调音阶，并保持基础节奏。",
+        "de": "Spiele C-Dur mit jeder Hand getrennt und halte dabei einen einfachen Rhythmus.",
+        "ja": "Cメジャー・スケールを左右それぞれの手で別々に弾き、基本的なリズムを保ちましょう。",
+        "pt-BR": "Toque a escala de Dó maior separadamente em cada mão, mantendo um ritmo básico.",
+        "es": "Toca la escala de Do mayor por separado en cada mano mientras mantienes un ritmo básico."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

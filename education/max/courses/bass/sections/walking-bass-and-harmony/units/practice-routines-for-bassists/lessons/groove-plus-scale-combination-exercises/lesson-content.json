@@ -1,0 +1,73 @@
+{
+  "id": "groove-plus-scale-combination-exercises",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove + scale combination exercises\nThese exercises glue together **bass grooves** and **scale movement**.\n\nYou’ll:\n- Keep a **solid groove** on the root\n- Add **short scale runs** without breaking the time\n- Prepare your hands for both **walking lines and song-style bass lines**\n\nUse a metronome, start slow, and don’t sacrifice feel just to play more notes.",
+          "zh-Hans": "# Groove + 音阶结合练习\n这些练习把贝斯的**律动型**和**音阶跑动**粘在一起。\n\n你会：\n- 在根音上保持**稳定 groove**\n- 加入**短小的音阶跑动**而不打乱节奏\n- 让双手同时适应**walking 走线和常见歌曲式贝斯线**\n\n配合节拍器，慢速开始，不要为了多弹几颗音就牺牲整体的感觉。",
+          "de": "# Groove- und Skalenkombinationsübungen\nDiese Übungen verbinden **Bassgrooves** mit **Skalenbewegung**.\n\nDu wirst:\n- Einen **stabilen Groove** auf der Grundnote halten\n- **Kurze Skalenläufe** einbauen, ohne das Timing zu verlieren\n- Deine Hände auf **Walking-Linien und Song-Basslines** vorbereiten\n\nNutze ein Metronom, starte langsam und opfere niemals das Feeling, nur um mehr Noten zu spielen.",
+          "ja": "# グルーヴ＋スケールのコンビネーション練習\nこのレッスンでは、ベースの**グルーヴ・フレーズ**と**スケールの動き**をつなげる練習をします。\n\n狙いは：\n- ルートで**安定したグルーヴ**をキープする\n- **短いスケールのラン**を入れてもリズムを崩さない\n- **ウォーキング・ライン**にも、普通の曲のベースラインにも対応できる手を作ること\n\nメトロノームを使って、ゆっくりから。ノートの数より**ノリの良さ**を優先しましょう。",
+          "pt-BR": "# Exercícios de combinação de groove + escala\nEsses exercícios juntam o **groove de baixo** com o **movimento de escala**.\n\nVocê vai:\n- Manter um **groove firme** na tônica\n- Colocar **pequenas corridas de escala** sem perder o tempo\n- Preparar as mãos tanto para **walking** quanto para linhas de música mais comuns\n\nUse metrônomo, comece devagar e não sacrifique o feeling só para tocar mais notas.",
+          "es": "# Ejercicios de combinación groove + escala\nEstos ejercicios pegan el **groove de bajo** con el **movimiento de la escala**.\n\nVas a:\n- Mantener un **groove sólido** en la tónica\n- Añadir **pequeñas corridas de escala** sin romper el tiempo\n- Preparar tus manos tanto para **walkings** como para líneas de bajo de canciones\n\nUsa metrónomo, empieza lento y no sacrifiques el feeling sólo por tocar más notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 1 – 2 bars groove, 2 bars scale (C)\nTuning: 4-string E–A–D–G.\nKey: **C major**, staying around frets 3–5.\n\nPattern (4 bars):\n1. Bar 1–2: **groove on C**  \n   - Notes: C–G–C–G (root–5th), all quarter notes  \n   - C: A string 3rd fret, G: D string 5th fret\n2. Bar 3–4: **C major scale run**  \n   - Bar 3 up: C–D–E–F  \n   - Bar 4 up then down: G–A–B–C, then back C–B–A–G next time you repeat\n\nLoop it: 2 bars groove, 2 bars scale, semibreve-style solid time, no rushing.",
+          "zh-Hans": "# 练习1 —— 2 小节 groove + 2 小节音阶（C 调）\n定弦：4 弦贝斯 E–A–D–G。\n调性：**C 大调**，手大致在 3–5 品。\n\n4 小节模式：\n1. 第 1–2 小节：**在 C 上 groove**  \n   - 音符：C–G–C–G（1 度–5 度），全部四分音符  \n   - C：A 弦第 3 品；G：D 弦第 5 品\n2. 第 3–4 小节：**C 大调音阶跑动**  \n   - 第 3 小节上行：C–D–E–F  \n   - 第 4 小节上行再下行：G–A–B–C，下次循环时再从 C–B–A–G 回来\n\n循环时保持：2 小节 groove，2 小节音阶，节奏像节拍器一样稳定，不要抢拍。",
+          "de": "# Übung 1 – 2 Takte Groove, 2 Takte Skale (C)\nStimmung: 4-saitiger Bass E–A–D–G.\nTonart: **C-Dur**, ungefähr in den Bünden 3–5.\n\n4-Takt-Muster:\n1. Takt 1–2: **Groove auf C**  \n   - Noten: C–G–C–G (Grundton–Quinte), alles Viertelnoten  \n   - C: A-Saite 3. Bund, G: D-Saite 5. Bund\n2. Takt 3–4: **C-Dur-Skalenlauf**  \n   - Takt 3 aufwärts: C–D–E–F  \n   - Takt 4 weiter aufwärts: G–A–B–C, beim nächsten Durchlauf wieder abwärts C–B–A–G\n\nLoopen: 2 Takte Groove, 2 Takte Skale, Zeitempfinden wie ein Click – ruhig und stabil.",
+          "ja": "# エクササイズ1 – 2小節グルーヴ＋2小節スケール（C）\nチューニング：4弦ベース E–A–D–G。\nキー：**Cメジャー**。3〜5フレット周辺を使います。\n\n4小節パターン：\n1. 1〜2小節目：**Cでのグルーヴ**  \n   - 音：C–G–C–G（ルート–5度）、すべて4分音符  \n   - C：A弦3フレット、G：D弦5フレット\n2. 3〜4小節目：**Cメジャー・スケールのラン**  \n   - 3小節目 上行：C–D–E–F  \n   - 4小節目 上行：G–A–B–C、次のループでは C–B–A–G と下行\n\n「2小節グルーヴ＋2小節スケール」を繰り返し、クリックのような安定したタイムをキープしましょう。",
+          "pt-BR": "# Exercício 1 – 2 compassos de groove, 2 de escala (C)\nAfinação: baixo 4 cordas E–A–D–G.\nTonalidade: **Dó maior**, ficando ali pelas casas 3 a 5.\n\nPadrão de 4 compassos:\n1. Compassos 1–2: **groove em C**  \n   - Notas: C–G–C–G (tônica–quinta), todas em semínimas  \n   - C: corda A casa 3; G: corda D casa 5\n2. Compassos 3–4: **corrida de escala em Dó maior**  \n   - Compasso 3 subindo: C–D–E–F  \n   - Compasso 4 subindo: G–A–B–C; no próximo loop volte C–B–A–G\n\nFique repetindo: 2 compassos de groove, 2 de escala, com tempo firme e sem correr.",
+          "es": "# Ejercicio 1 – 2 compases de groove, 2 de escala (C)\nAfinación: bajo de 4 cuerdas E–A–D–G.\nTonalidad: **Do mayor**, moviéndose por los trastes 3–5.\n\nPatrón de 4 compases:\n1. Compases 1–2: **groove en C**  \n   - Notas: C–G–C–G (tónica–quinta), todas en negras  \n   - C: cuerda A traste 3; G: cuerda D traste 5\n2. Compases 3–4: **corrida de escala de Do mayor**  \n   - Compás 3 subiendo: C–D–E–F  \n   - Compás 4 subiendo: G–A–B–C; en el siguiente loop vuelve C–B–A–G\n\nRepítelo como ciclo: 2 compases de groove y 2 de escala, con el tiempo bien estable."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 2 – Groove on I, scale into IV\nNow we’ll **walk into the next chord** using the scale.\n\nKey: C major. Progression: | C | C | F | F |\n\n1. Bar 1–2 – Groove on **C**  \n   - Same C–G–C–G pattern as before\n2. Bar 3 – **Scale into F**  \n   - Notes: C–D–E–F (quarter notes)  \n   - Land on F (A string 8th fret or D string 3rd fret)\n3. Bar 4 – Groove on **F**  \n   - Simple pattern: F–C–F–C (root–5th)\n\nFeel how the scale in bar 3 pulls your ear **from C into F** without breaking the groove.",
+          "zh-Hans": "# 练习2 —— I 和弦上 groove，用音阶走向 IV\n现在我们用音阶把线**走向下一个和弦**。\n\n调性：C 大调。和弦：| C | C | F | F |\n\n1. 第 1–2 小节 —— 在 **C** 上 groove  \n   - 继续用前面的 C–G–C–G 模式\n2. 第 3 小节 —— 用音阶走向 **F**  \n   - 音：C–D–E–F（全是四分音符）  \n   - F 可以弹 A 弦第 8 品，或 D 弦第 3 品\n3. 第 4 小节 —— 在 **F** 上 groove  \n   - 简单模式：F–C–F–C（根音–五度）\n\n注意第 3 小节的音阶是如何在不断 groove 的同时，把听感**从 C 自然带到 F** 的。",
+          "de": "# Übung 2 – Groove auf I, Skale hin zur IV\nJetzt **führst du in den nächsten Akkord hinein** – mit der Skale.\n\nTonart: C-Dur. Kadenz: | C | C | F | F |\n\n1. Takt 1–2 – Groove auf **C**  \n   - Dasselbe C–G–C–G-Muster wie zuvor\n2. Takt 3 – **Skale hin zu F**  \n   - Noten: C–D–E–F (Viertelnoten)  \n   - F z.B. auf A-Saite 8. Bund oder D-Saite 3. Bund\n3. Takt 4 – Groove auf **F**  \n   - Einfaches Pattern: F–C–F–C (Grundton–Quinte)\n\nAchte darauf, wie die Skale in Takt 3 dein Ohr **von C nach F führt**, ohne dass der Groove abreißt.",
+          "ja": "# エクササイズ2 – Iでグルーヴして、スケールでIVに入る\nここではスケールを使って、**次のコードに歩いて入っていきます**。\n\nキー：Cメジャー。進行：| C | C | F | F |\n\n1. 1〜2小節目 – **C上でのグルーヴ**  \n   - さっきと同じ C–G–C–G パターン\n2. 3小節目 – スケールで **F へ向かう**  \n   - 音：C–D–E–F（すべて4分音符）  \n   - F は A弦8フレット か D弦3フレット など、押さえやすい場所でOK\n3. 4小節目 – **F上でのグルーヴ**  \n   - シンプルに：F–C–F–C（ルート–5度）\n\n3小節目のスケールが、グルーヴを崩さずに**C から F へ耳を引っ張っていく**感覚を味わってください。",
+          "pt-BR": "# Exercício 2 – groove no I, escala entrando no IV\nAgora vamos **entrar no próximo acorde** usando a escala.\n\nTonalidade: Dó maior. Progressão: | C | C | F | F |\n\n1. Compassos 1–2 – Groove em **C**  \n   - Mesmo padrão C–G–C–G do exercício anterior\n2. Compasso 3 – **Escala indo para F**  \n   - Notas: C–D–E–F (todas em semínimas)  \n   - F pode ser na corda A casa 8 ou na corda D casa 3\n3. Compasso 4 – Groove em **F**  \n   - Padrão simples: F–C–F–C (tônica–quinta)\n\nPerceba como a escala do compasso 3 puxa o ouvido **de C para F**, sem quebrar o groove.",
+          "es": "# Ejercicio 2 – groove en I, escala hacia IV\nAhora vamos a **caminar hacia el siguiente acorde** usando la escala.\n\nTonalidad: Do mayor. Progresión: | C | C | F | F |\n\n1. Compases 1–2 – Groove en **C**  \n   - Mismo patrón C–G–C–G del ejercicio anterior\n2. Compás 3 – **Escala hacia F**  \n   - Notas: C–D–E–F (todas negras)  \n   - F puede ser en la cuerda A traste 8 o cuerda D traste 3\n3. Compás 4 – Groove en **F**  \n   - Patrón simple: F–C–F–C (tónica–quinta)\n\nFíjate cómo la escala del compás 3 lleva tu oído **de C a F** sin romper el groove."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 3 – From groove to walking (I–VI–II–V)\nLast one: turn a groove into a **simple walking phrase**.\n\nKey: C major. Progression: | C | Am | Dm | G7 |\n\n1. Bar 1 – Groove on **C**  \n   - C–G–C–G (root–5th)\n2. Bar 2 – Scale into **Am**  \n   - G–A–B–A (walk up from G into A minor)\n3. Bar 3 – Groove on **Dm**  \n   - D–A–D–A (root–5th)\n4. Bar 4 – Scale into **G7**  \n   - A–B–C–D (quarter notes, landing on D which leads strongly to G next time)\n\nLoop these 4 bars and listen how it starts to feel like a **real walking line with clear groove anchors**.",
+          "zh-Hans": "# 练习3 —— 从 groove 过渡到 walking（I–VI–II–V）\n最后一个：把一个 groove 变成**简单的 walking 乐句**。\n\n调性：C 大调。和弦：| C | Am | Dm | G7 |\n\n1. 第 1 小节 —— 在 **C** 上 groove  \n   - C–G–C–G（1 度–5 度）\n2. 第 2 小节 —— 用音阶走向 **Am**  \n   - G–A–B–A（从 G 走到 A 小三和弦）\n3. 第 3 小节 —— 在 **Dm** 上 groove  \n   - D–A–D–A（1 度–5 度）\n4. 第 4 小节 —— 用音阶走向 **G7**  \n   - A–B–C–D（四分音符，落在 D 上，为下一次循环的 G 做铺垫）\n\n循环这 4 小节，你会发现它已经很像一条**既有 groove 支点，又有行进感的 walking 线**。",
+          "de": "# Übung 3 – Vom Groove zum Walking (I–VI–II–V)\nZum Schluss: Wir verwandeln einen Groove in eine **einfache Walking-Phrase**.\n\nTonart: C-Dur. Kadenz: | C | Am | Dm | G7 |\n\n1. Takt 1 – Groove auf **C**  \n   - C–G–C–G (Grundton–Quinte)\n2. Takt 2 – Skale hin zu **Am**  \n   - G–A–B–A (von G in A-Moll hinauf)\n3. Takt 3 – Groove auf **Dm**  \n   - D–A–D–A (Grundton–Quinte)\n4. Takt 4 – Skale hin zu **G7**  \n   - A–B–C–D (Viertelnoten, D führt stark zum G beim nächsten Durchlauf)\n\nLoope diese 4 Takte und hör, wie sich das wie eine **richtige Walking-Linie mit klaren Groove-Ankern** anfühlt.",
+          "ja": "# エクササイズ3 – グルーヴからウォーキングへ（I–VI–II–V）\n最後は、グルーヴ・フレーズを**シンプルなウォーキング・フレーズ**に変えてみます。\n\nキー：Cメジャー。進行：| C | Am | Dm | G7 |\n\n1. 1小節目 – **Cでグルーヴ**  \n   - C–G–C–G（ルート–5度）\n2. 2小節目 – スケールで **Am へ**  \n   - G–A–B–A（G から歩いて Aマイナーに入る感じ）\n3. 3小節目 – **Dmでグルーヴ**  \n   - D–A–D–A（ルート–5度）\n4. 4小節目 – スケールで **G7 へ**  \n   - A–B–C–D（4分音符。D で終わることで、次のループの G に強くつながる）\n\nこの4小節をループすると、**グルーヴの芯を残しつつ、ちゃんと歩いているウォーキング・ライン**の感覚が出てきます。",
+          "pt-BR": "# Exercício 3 – do groove ao walking (I–VI–II–V)\nPra fechar: transformar um groove em uma **frase simples de walking**.\n\nTonalidade: Dó maior. Progressão: | C | Am | Dm | G7 |\n\n1. Compasso 1 – Groove em **C**  \n   - C–G–C–G (tônica–quinta)\n2. Compasso 2 – Escala entrando em **Am**  \n   - G–A–B–A (subindo de G até o Am)\n3. Compasso 3 – Groove em **Dm**  \n   - D–A–D–A (tônica–quinta)\n4. Compasso 4 – Escala entrando em **G7**  \n   - A–B–C–D (semínimas; terminar em D puxa forte para o G na próxima volta)\n\nRepita esses 4 compassos e perceba como já soa como uma **linha de walking de verdade, com pontos de groove bem claros**.",
+          "es": "# Ejercicio 3 – del groove al walking (I–VI–II–V)\nPara cerrar: convertir un groove en una **frase sencilla de walking**.\n\nTonalidad: Do mayor. Progresión: | C | Am | Dm | G7 |\n\n1. Compás 1 – Groove en **C**  \n   - C–G–C–G (tónica–quinta)\n2. Compás 2 – Escala hacia **Am**  \n   - G–A–B–A (sube desde G y entra en el Am)\n3. Compás 3 – Groove en **Dm**  \n   - D–A–D–A (tónica–quinta)\n4. Compás 4 – Escala hacia **G7**  \n   - A–B–C–D (negras; terminar en D empuja fuerte hacia G en el siguiente ciclo)\n\nRepite estos 4 compases y escucha cómo empieza a sonar como una **línea de walking real, con anclas claras de groove**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Start **straight** (no swing), then try a light **swing feel**.\n- Keep your **right hand** steady – the groove must not change when the notes change.\n- Play each exercise in at least **two other keys** (G and F are good next steps).\n- Record yourself and check: does the time stay solid when you add the scale runs?\n\nIf the groove still feels strong while the notes move more, you’re doing it right.",
+          "zh-Hans": "# 练习小贴士\n- 先用**直八**感觉（不 swing），熟练后再加一点**swing 味道**。\n- 右手节奏要像机器一样稳，**换音不能换 groove**。\n- 至少用其他 **两个调** 练这些练习（G、F 是不错的下一步）。\n- 录音听听看：一旦加入音阶跑动，节奏是不是还能稳住？\n\n如果在音越来越活的同时，groove 依然扎实，那你就练对了。",
+          "de": "# Übetipps\n- Starte **gerade** (ohne Swing) und probiere später ein leichtes **Swing-Feeling**.\n- Die **rechte Hand** bleibt konstant – der Groove darf sich nicht ändern, nur weil die Noten sich ändern.\n- Spiele jede Übung in mindestens **zwei weiteren Tonarten** (G und F sind gute nächste Kandidaten).\n- Nimm dich auf und hör nach: bleibt das Timing stabil, wenn du die Skalenläufe einbaust?\n\nWenn der Groove stark bleibt, obwohl mehr Bewegung in den Noten ist, bist du auf dem richtigen Weg.",
+          "ja": "# 練習のコツ\n- 最初は**ストレート**（スウィングなし）で、慣れてきたら少し**スウィング感**を足してみる。\n- **右手のリズム**は常に一定に。音が変わっても、グルーヴは変わらないように。\n- それぞれの練習を、少なくとも**あと2つのキー**でも試してみよう（G と F あたりがおすすめ）。\n- 自分を録音してチェック：スケールのランを入れても、タイムは崩れていないか？\n\n音が動いてもグルーヴがズレないなら、その練習はうまくいっています。",
+          "pt-BR": "# Dicas de estudo\n- Comece **reto** (sem swing) e depois experimente um **swing de leve**.\n- A **mão direita** tem que ficar firme – o groove não pode mudar só porque você mudou as notas.\n- Toque cada exercício em pelo menos **mais duas tonalidades** (Sol e Fá são bons próximos passos).\n- Grave e ouça: o tempo continua firme quando você coloca as corridas de escala?\n\nSe o groove continua forte mesmo com mais movimento nas notas, você está no caminho certo.",
+          "es": "# Consejos de práctica\n- Empieza **recto** (sin swing) y luego prueba con un **swing suave**.\n- Mantén la **mano derecha** estable: el groove no debe cambiar sólo porque cambian las notas.\n- Toca cada ejercicio en por lo menos **dos tonalidades más** (Sol y Fa son buenos siguientes pasos).\n- Grábate y revisa: ¿el tiempo sigue sólido cuando añades las corridas de escala?\n\nSi el groove se siente fuerte aunque las notas se muevan más, lo estás haciendo bien."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

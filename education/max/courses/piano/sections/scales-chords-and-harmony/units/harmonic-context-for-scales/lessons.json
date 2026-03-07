@@ -1,0 +1,86 @@
+[
+  {
+    "id": "i-iv-v-progressions-in-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "I–IV–V Progressions in C Major",
+        "zh-Hans": "C大调中的I–IV–V进行",
+        "de": "I–IV–V-Progressionen in C-Dur",
+        "ja": "CメジャーのI–IV–V進行",
+        "pt-BR": "Progressões I–IV–V em Dó Maior",
+        "es": "Progresiones I–IV–V en Do Mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "ii-v-i-progressions-using-diatonic-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "ii–V–I Progressions Using Diatonic Chords",
+        "zh-Hans": "使用自然和弦的ii–V–I进行",
+        "de": "ii–V–I-Progressionen mit diatonischen Akkorden",
+        "ja": "ダイアトニックコードを使ったii–V–I進行",
+        "pt-BR": "Progressões ii–V–I Usando Acordes Diatônicos",
+        "es": "Progresiones ii–V–I usando acordes diatónicos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-scales-to-connect-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Scales to Connect Chords",
+        "zh-Hans": "使用音阶连接和弦",
+        "de": "Verwendung von Skalen zur Verbindung von Akkorden",
+        "ja": "スケールを使ったコードの接続",
+        "pt-BR": "Usando Escalas para Conectar Acordes",
+        "es": "Uso de escalas para conectar acordes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

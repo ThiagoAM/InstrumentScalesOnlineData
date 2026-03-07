@@ -1,0 +1,86 @@
+[
+  {
+    "id": "five-position-system-for-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "5-Position System for C Major",
+        "zh-Hans": "C大调的五位置体系",
+        "de": "5-Positionen-System für C-Dur",
+        "ja": "Cメジャーの5ポジション・システム",
+        "pt-BR": "Sistema de 5 posições para Dó maior",
+        "es": "Sistema de 5 posiciones para Do mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "three-notes-per-string-patterns-in-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "3-Notes-Per-String Patterns in C Major",
+        "zh-Hans": "C大调的每弦三音型模式",
+        "de": "Drei-Noten-pro-Saite-Patterns in C-Dur",
+        "ja": "Cメジャーの3ノート・パー・ストリング・パターン",
+        "pt-BR": "Padrões de três notas por corda em Dó maior",
+        "es": "Patrones de tres notas por cuerda en Do mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "connecting-positions-horizontally",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connecting Positions Horizontally",
+        "zh-Hans": "横向连接各个位置",
+        "de": "Positionen horizontal verbinden",
+        "ja": "ポジションを横方向に繋ぐ",
+        "pt-BR": "Conectando posições horizontalmente",
+        "es": "Conectando posiciones horizontalmente"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

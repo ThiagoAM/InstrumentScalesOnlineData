@@ -1,0 +1,86 @@
+{
+  "id": "broken-chord-patterns-using-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Broken chord patterns using scales\nIn this lesson you’ll turn **triads from the scale** into simple **broken chord (arpeggio) patterns**.\n\nInstead of playing all notes of a chord together, you’ll play them **one by one** in a pattern. This is the basis of many piano accompaniments.",
+          "zh-Hans": "# 用音阶构建分解和弦型\n本课你会把**音阶里的三和弦**变成简单的**分解和弦（琶音）型**。\n\n不再把和弦的音同时按下，而是按照一定的**顺序一个个弹**。这是很多钢琴伴奏的基础做法。",
+          "de": "# Gebrochene Akkordmuster mit Tonleitern\nIn dieser Lektion verwandelst du **Dreiklänge aus der Tonleiter** in einfache **gebrochene Akkordmuster (Arpeggien)**.\n\nStatt alle Töne eines Akkords gleichzeitig zu spielen, spielst du sie **nacheinander** in einem festen Muster. Das ist die Grundlage vieler Klavierbegleitungen.",
+          "ja": "# 音階から作るブロークンコード・パターン\nこのレッスンでは、**スケール上のトライアド**を使って、シンプルな**ブロークンコード（アルペジオ）**のパターンにしていきます。\n\n和音を同時に鳴らすのではなく、決まった順番で**1音ずつ並べて弾く**やり方です。多くのピアノ伴奏のベースになっています。",
+          "pt-BR": "# Padrões de acordes quebrados usando escalas\nNesta lição você vai transformar **tríades da escala** em padrões simples de **acordes quebrados (arpejos)**.\n\nEm vez de tocar todas as notas do acorde juntas, você vai tocá-las **uma de cada vez** em um padrão. Isso é a base de muitos acompanhamentos de piano.",
+          "es": "# Patrones de acordes rotos usando escalas\nEn esta lección vas a convertir **tríadas de la escala** en patrones sencillos de **acordes rotos (arpegios)**.\n\nEn lugar de tocar todas las notas del acorde a la vez, las tocarás **una por una** siguiendo un patrón. Esta es la base de muchos acompañamientos de piano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# From triads to broken chords\nWe’ll stay in **C major** and use its triads:\n\nC – Dm – Em – F – G – Am – Bdim – C\n\nA **broken chord** is just a triad played one note at a time:\n- Triad: C–E–G\n- Broken chord: C–E–G–E (for example)\n\nSame notes, but now you can create **movement and rhythm**.",
+          "zh-Hans": "# 从三和弦到分解和弦\n我们还是用 **C大调** 里的三和弦：\n\nC – Dm – Em – F – G – Am – Bdim – C\n\n**分解和弦** 就是把三和弦拆开来，一个个弹：\n- 和弦：C–E–G\n- 分解和弦示例：C–E–G–E\n\n音还是一样的，只是变成可以**制造流动感和节奏感**的线条。",
+          "de": "# Vom Dreiklang zum gebrochenen Akkord\nWir bleiben in **C-Dur** und benutzen die Dreiklänge:\n\nC – Dm – Em – F – G – Am – Bdim – C\n\nEin **gebrochener Akkord** ist einfach ein Dreiklang, bei dem die Töne nacheinander gespielt werden:\n- Dreiklang: C–E–G\n- Gebrochener Akkord (Beispiel): C–E–G–E\n\nEs sind dieselben Töne, aber jetzt entstehen **Bewegung und Rhythmus**.",
+          "ja": "# トライアドからブロークンコードへ\nここでは **Cメジャー** のトライアドを使います。\n\nC – Dm – Em – F – G – Am – Bdim – C\n\n**ブロークンコード** は、トライアドを1音ずつ弾いたものです。\n- 和音：C–E–G\n- ブロークンコード例：C–E–G–E\n\n使う音は同じですが、**動きとリズム**が生まれます。",
+          "pt-BR": "# Das tríades para acordes quebrados\nVamos ficar em **Dó maior** e usar suas tríades:\n\nC – Dm – Em – F – G – Am – Bdim – C\n\nUm **acorde quebrado** é só a tríade tocada nota por nota:\n- Tríade: C–E–G\n- Acorde quebrado (exemplo): C–E–G–E\n\nAs notas são as mesmas, mas agora você cria **movimento e ritmo**.",
+          "es": "# De tríadas a acordes rotos\nNos quedaremos en **Do mayor** y usaremos sus tríadas:\n\nC – Dm – Em – F – G – Am – Bdim – C\n\nUn **acorde roto** es simplemente la tríada tocada nota por nota:\n- Tríada: C–E–G\n- Acorde roto (ejemplo): C–E–G–E\n\nSon las mismas notas, pero ahora puedes crear **movimiento y ritmo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pattern 1 – simple up-and-down\nStart with **C major** in the right hand:\n\n- Notes: C–E–G–E (repeat)\n- Fingering: 1–3–5–3\n\nPlay it slowly in **even eighth notes** (1 & 2 & 3 & 4 &).\n\nThen try the same idea on **Am**:\n- A–C–E–C (1–2–4–2)\n\nYou’ve turned two static chords (C, Am) into **flowing lines**.",
+          "zh-Hans": "# 模式一 – 上下往返\n先用右手弹 **C大和弦**：\n\n- 音：C–E–G–E（循环）\n- 指法：1–3–5–3\n\n用**均匀的八分音符**慢慢弹（1 & 2 & 3 & 4 &）。\n\n然后把同样的想法用在 **Am** 上：\n- A–C–E–C（1–2–4–2）\n\n原本静止的 C 和 Am，现在变成了**流动的线条**。",
+          "de": "# Muster 1 – Einfaches Auf und Ab\nBeginne mit **C-Dur** in der rechten Hand:\n\n- Töne: C–E–G–E (wiederholen)\n- Fingersatz: 1–3–5–3\n\nSpiele langsam in **gleichmäßigen Achteln** (1 & 2 & 3 & 4 &).\n\nDann übertrage die Idee auf **a-Moll**:\n- A–C–E–C (1–2–4–2)\n\nAus zwei statischen Akkorden (C, Am) werden so **fließende Linien**.",
+          "ja": "# パターン1 – シンプルな上下パターン\nまず右手で **Cメジャー** を弾きます。\n\n- 音：C–E–G–E（くり返し）\n- 指：1–3–5–3\n\n**均等な8分音符**でゆっくり弾きましょう（1 & 2 & 3 & 4 &）。\n\n同じアイデアを **Am** にも移します。\n- A–C–E–C（1–2–4–2）\n\n止まっていたCとAmのコードが、**流れるフレーズ**に変わります。",
+          "pt-BR": "# Padrão 1 – Sobe e desce simples\nComece com **Dó maior** na mão direita:\n\n- Notas: C–E–G–E (repete)\n- Dedos: 1–3–5–3\n\nToque devagar em **colcheias regulares** (1 & 2 & 3 & 4 &).\n\nDepois faça a mesma ideia em **Lá menor**:\n- A–C–E–C (1–2–4–2)\n\nVocê acabou de transformar dois acordes parados (C, Am) em **linhas que se movem**.",
+          "es": "# Patrón 1 – Subida y bajada sencilla\nEmpieza con **Do mayor** en la mano derecha:\n\n- Notas: C–E–G–E (repetir)\n- Dedos: 1–3–5–3\n\nTócalo despacio en **corcheas parejas** (1 & 2 & 3 & 4 &).\n\nLuego prueba la misma idea en **La menor**:\n- A–C–E–C (1–2–4–2)\n\nHas convertido dos acordes estáticos (C, Am) en **líneas en movimiento**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pattern 2 – left-hand accompaniment\nNow use the **left hand** to create a simple accompaniment.\n\nOn **C major**:\n- Notes: C–G–E–G (5–1–2–1)\n\nThink **bass–top–middle–top**.\n\nOn **F major** do the same shape:\n- F–C–A–C (5–1–2–1)\n\nThis kind of broken chord works well under melodies in the right hand.",
+          "zh-Hans": "# 模式二 – 左手伴奏型\n现在用**左手**做一个简单伴奏。\n\n在 **C大和弦** 上：\n- 音：C–G–E–G（5–1–2–1）\n\n可以理解成：**低音–高音–中音–高音**。\n\n在 **F大和弦** 上用同样形状：\n- F–C–A–C（5–1–2–1）\n\n这种分解和弦非常适合放在右手旋律下面当伴奏。",
+          "de": "# Muster 2 – Begleitung in der linken Hand\nJetzt baust du mit der **linken Hand** eine einfache Begleitung.\n\nÜber **C-Dur**:\n- Töne: C–G–E–G (5–1–2–1)\n\nDenke: **Bass – oben – Mitte – oben**.\n\nÜber **F-Dur** bleibt die Form gleich:\n- F–C–A–C (5–1–2–1)\n\nSo ein gebrochener Akkord funktioniert gut als Begleitung unter einer Melodie in der rechten Hand.",
+          "ja": "# パターン2 – 左手の伴奏スタイル\n次は **左手** で簡単な伴奏パターンを作ります。\n\n**Cメジャー** で：\n- 音：C–G–E–G（5–1–2–1）\n\nイメージは **低音 → 一番上 → 真ん中 → 一番上** です。\n\n**Fメジャー** でも同じ形を使えます。\n- F–C–A–C（5–1–2–1）\n\nこのタイプのブロークンコードは、右手のメロディの下で使う**伴奏パターン**としてとても便利です。",
+          "pt-BR": "# Padrão 2 – Acompanhamento na mão esquerda\nAgora use a **mão esquerda** para criar um acompanhamento simples.\n\nEm **Dó maior**:\n- Notas: C–G–E–G (5–1–2–1)\n\nPense em **baixo–topo–meio–topo**.\n\nEm **Fá maior** use o mesmo desenho:\n- F–C–A–C (5–1–2–1)\n\nEsse tipo de acorde quebrado funciona muito bem embaixo de melodias na mão direita.",
+          "es": "# Patrón 2 – Acompañamiento con la mano izquierda\nAhora usa la **mano izquierda** para crear un acompañamiento sencillo.\n\nEn **Do mayor**:\n- Notas: C–G–E–G (5–1–2–1)\n\nPiensa en **bajo–agudo–medio–agudo**.\n\nEn **Fa mayor** usa la misma forma:\n- F–C–A–C (5–1–2–1)\n\nEste tipo de acorde roto funciona muy bien como acompañamiento bajo una melodía en la mano derecha."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pattern 3 – through the C major scale\nNow connect broken chords **along the scale**.\n\nRight hand, one bar each, pattern **1–3–5–3**:\n- C: C–E–G–E\n- Dm: D–F–A–F\n- Em: E–G–B–G\n- F: F–A–C–A\n- G: G–B–D–B\n- Am: A–C–E–C\n\nPlay them in order up and down. Keep a **steady pulse** and listen to how the harmony moves while the pattern stays the same.",
+          "zh-Hans": "# 模式三 – 沿着C大调音阶的分解和弦\n现在把分解和弦**沿着音阶串起来**。\n\n右手，每个和弦一小节，模式都是 **1–3–5–3**：\n- C：C–E–G–E\n- Dm：D–F–A–F\n- Em：E–G–B–G\n- F：F–A–C–A\n- G：G–B–D–B\n- Am：A–C–E–C\n\n按顺序上行再下行，保持**稳定的节拍**，注意听：模式没变，**和声却一直在移动**。",
+          "de": "# Muster 3 – Durch die C-Dur-Tonleiter\nJetzt verbindest du gebrochene Akkorde **entlang der Tonleiter**.\n\nRechte Hand, pro Akkord ein Takt, Muster **1–3–5–3**:\n- C: C–E–G–E\n- Dm: D–F–A–F\n- Em: E–G–H–G\n- F: F–A–C–A\n- G: G–H–D–H\n- Am: A–C–E–C\n\nSpiele sie der Reihe nach auf- und abwärts. Halte den **Puls gleichmäßig** und höre, wie sich die Harmonie verändert, obwohl das Muster gleich bleibt.",
+          "ja": "# パターン3 – Cメジャー・スケールに沿って\nこんどは分解和音を**スケールに沿ってつなげて**みます。\n\n右手で、1つのコードにつき1小節、パターンはすべて **1–3–5–3**：\n- C：C–E–G–E\n- Dm：D–F–A–F\n- Em：E–G–B–G\n- F：F–A–C–A\n- G：G–B–D–B\n- Am：A–C–E–C\n\n順番に上ってから下りてきてください。**一定の拍**をキープしながら、パターンは同じなのに**ハーモニーだけが変わっていく**感じをよく聴きましょう。",
+          "pt-BR": "# Padrão 3 – Ao longo da escala de Dó maior\nAgora ligue os acordes quebrados **ao longo da escala**.\n\nMão direita, um compasso para cada, padrão **1–3–5–3**:\n- C: C–E–G–E\n- Dm: D–F–A–F\n- Em: E–G–B–G\n- F: F–A–C–A\n- G: G–B–D–B\n- Am: A–C–E–C\n\nToque na ordem subindo e depois descendo. Mantenha um **pulso constante** e perceba como a harmonia muda enquanto o padrão rítmico continua igual.",
+          "es": "# Patrón 3 – A lo largo de la escala de Do mayor\nAhora conecta acordes rotos **a lo largo de la escala**.\n\nMano derecha, un compás por acorde, patrón **1–3–5–3**:\n- C: C–E–G–E\n- Dm: D–F–A–F\n- Em: E–G–B–G\n- F: F–A–C–A\n- G: G–B–D–B\n- Am: A–C–E–C\n\nTócalos en orden subiendo y luego bajando. Mantén un **pulso estable** y escucha cómo la armonía cambia mientras el patrón se mantiene igual."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Choose a simple progression, for example: **C – Am – F – G – C**.\n2. Right hand: use Pattern 1 (1–3–5–3) on every chord.\n3. Left hand: try Pattern 2 (5–1–3–1) on every chord.\n4. When each hand feels comfortable alone, **combine them** slowly.\n\nYou’ve now turned basic scale triads into real, usable broken-chord accompaniments.",
+          "zh-Hans": "## 快速练习\n1. 先选一个简单走向，比如：**C – Am – F – G – C**。\n2. 右手：在每个和弦上用模式一（1–3–5–3）。\n3. 左手：在每个和弦上用模式二（5–1–3–1）。\n4. 当左右手各自都熟练后，再**慢慢合在一起弹**。\n\n这样你就把最基础的音阶三和弦，变成了真正可用的分解和弦伴奏。",
+          "de": "## Kurze Übung\n1. Suche dir eine einfache Akkordfolge, z.B.: **C – Am – F – G – C**.\n2. Rechte Hand: nutze Muster 1 (1–3–5–3) auf jedem Akkord.\n3. Linke Hand: nutze Muster 2 (5–1–3–1) auf jedem Akkord.\n4. Wenn jede Hand für sich sicher ist, **kombiniere sie langsam**.\n\nSo werden einfache Dreiklänge aus der Tonleiter zu echten, brauchbaren Begleitmustern mit gebrochenen Akkorden.",
+          "ja": "## かんたん練習\n1. まずシンプルな進行を1つ選びます。例：**C – Am – F – G – C**。\n2. 右手：すべてのコードでパターン1（1–3–5–3）を使います。\n3. 左手：すべてのコードでパターン2（5–1–3–1）を弾きます。\n4. それぞれの手が安定してきたら、**ゆっくり両手を合わせて**みましょう。\n\nこれで、スケール上の基本的なトライアドが、実際に使えるブロークンコード伴奏に変わります。",
+          "pt-BR": "## Prática rápida\n1. Escolha uma progressão simples, por exemplo: **C – Am – F – G – C**.\n2. Mão direita: use o Padrão 1 (1–3–5–3) em cada acorde.\n3. Mão esquerda: use o Padrão 2 (5–1–3–1) em cada acorde.\n4. Quando cada mão estiver confortável sozinha, **junte as duas** bem devagar.\n\nAssim você transforma tríades básicas da escala em acompanhamentos de acordes quebrados prontos para usar.",
+          "es": "## Práctica rápida\n1. Elige una progresión sencilla, por ejemplo: **C – Am – F – G – C**.\n2. Mano derecha: usa el Patrón 1 (1–3–5–3) en cada acorde.\n3. Mano izquierda: usa el Patrón 2 (5–1–3–1) en cada acorde.\n4. Cuando cada mano se sienta cómoda por separado, **júntalas** despacio.\n\nAsí conviertes las tríadas básicas de la escala en acompañamientos de acordes rotos listos para usar."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

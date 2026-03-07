@@ -1,0 +1,86 @@
+[
+  {
+    "id": "walking-over-a-simple-ii-v-i-in-c",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Walking over a Simple ii–V–I in C",
+        "zh-Hans": "在 C 调简单 ii–V–I 上行进低音",
+        "de": "Walking über eine einfache ii–V–I in C",
+        "ja": "C のシンプルな ii–V–I でのウォーキングベース",
+        "pt-BR": "Walking em um simples ii–V–I em Dó",
+        "es": "Walking sobre un simple ii–V–I en Do"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-modes-for-walking-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Modes for Walking Lines",
+        "zh-Hans": "在行进低音中使用调式",
+        "de": "Modi für Walking Lines verwenden",
+        "ja": "ウォーキングラインでモードを活用する",
+        "pt-BR": "Usando Modos para Linhas de Walking Bass",
+        "es": "Uso de modos en líneas de walking bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-scale-and-arpeggio-tones",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Scale and Arpeggio Tones",
+        "zh-Hans": "结合音阶音与分解和弦音",
+        "de": "Skalen- und Arpeggiotöne kombinieren",
+        "ja": "スケール音とアルペジオ音の組み合わせ",
+        "pt-BR": "Combinando Notas da Escala e do Arpejo",
+        "es": "Combinación de notas de escala y arpegio"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

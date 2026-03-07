@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dorian-for-funk-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dorian for Funk Grooves",
+        "zh-Hans": "用于放克律动的多利亚调式",
+        "de": "Dorisch für Funk-Grooves",
+        "ja": "ファンク・グルーヴのためのドリアン",
+        "pt-BR": "Dórico para grooves de funk",
+        "es": "Dórico para grooves de funk"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "mixolydian-for-dominant-bass-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mixolydian for Dominant Bass Lines",
+        "zh-Hans": "用于属低音线的混合利底亚调式",
+        "de": "Mixolydisch für dominante Basslinien",
+        "ja": "ドミナント系ベースラインのためのミクソリディアン",
+        "pt-BR": "Mixolídio para linhas de baixo dominantes",
+        "es": "Mixolidio para líneas de bajo dominantes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "aeolian-for-rock-and-metal-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Aeolian for Rock and Metal Lines",
+        "zh-Hans": "用于摇滚与金属低音线的自然小调（艾奥利亚调式）",
+        "de": "Äolisch für Rock- und Metal-Linien",
+        "ja": "ロック／メタルラインのためのエオリアン（ナチュラルマイナー）",
+        "pt-BR": "Eólio para linhas de rock e metal",
+        "es": "Eólico para líneas de rock y metal"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

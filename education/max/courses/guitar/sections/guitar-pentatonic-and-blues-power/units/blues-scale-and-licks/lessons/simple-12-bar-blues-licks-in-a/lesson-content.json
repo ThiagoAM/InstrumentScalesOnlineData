@@ -1,0 +1,86 @@
+{
+  "id": "simple-12-bar-blues-licks-in-a",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple 12-bar blues licks in A\nIn this lesson you’ll plug your **A minor pentatonic / A blues scale** into a **12-bar blues in A**.\n\nThe goal isn’t to learn fancy theory – it’s to have a few **go-to licks** you can drop right into a backing track.",
+          "zh-Hans": "# A 调简单 12 小节布鲁斯乐句\n本课会把你已经会的 **A 小调五声音阶 / A 蓝调音阶** 放进一个标准的 **A 调 12 小节布鲁斯** 里用起来。\n\n重点不是高级乐理，而是让你手上多几个可以直接丢进伴奏里的**实战小乐句**。",
+          "de": "# Einfache 12-Takte-Blues-Licks in A\nIn dieser Lektion setzt du deine **A-Moll-Pentatonik / A-Blues-Tonleiter** in einen **12-Takte-Blues in A** ein.\n\nZiel ist nicht viel Theorie, sondern ein paar **praktische Standard-Licks**, die du direkt über ein Backing spielen kannst.",
+          "ja": "# Aのシンプルな12小節ブルース・リック\nこのレッスンでは、あなたがすでに弾ける **Aマイナー・ペンタトニック／Aブルース・スケール** を、**Aの12小節ブルース** にそのまま乗せて使っていきます。\n\n難しい理論ではなく、バッキングにすぐ使える**定番リックを何個かストックする**ことが目的です。",
+          "pt-BR": "# Licks simples de blues 12 compassos em A\nNesta lição você vai encaixar a **pentatônica menor de A / escala blues de A** em um **blues 12 compassos em Lá**.\n\nA ideia não é encher de teoria, e sim te dar alguns **licks prontos** para usar direto num playback.",
+          "es": "# Licks simples de blues de 12 compases en A\nEn esta lección vas a usar tu **pentatónica menor de La / escala blues de La** sobre un **blues de 12 compases en A**.\n\nLa idea no es estudiar teoría complicada, sino tener unos cuantos **licks listos** para tirar encima de una base."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The 12-bar map in A\nWe’ll think of a **basic A blues** like this (each item = 1 bar):\n\n1–4: **A7**  \n5–6: **D7**  \n7–8: **A7**  \n9: **E7**  \n10: **D7**  \n11–12: **A7 (or E7 turnaround)**\n\nYou don’t need to hit every chord tone perfectly – just remember:\n- Bars **1–4, 7–8, 11–12** → feel like **“A area”**\n- Bars **5–6** → feel like **“D area”**\n- Bar **9** → feels like **“E area”**",
+          "zh-Hans": "# A 调 12 小节的基本结构\n我们先用一个最常见的 **A 调布鲁斯** 模型（每一项 = 1 小节）：\n\n1–4：**A7**  \n5–6：**D7**  \n7–8：**A7**  \n9：**E7**  \n10：**D7**  \n11–12：**A7（有时 12 小节会用 E7 作尾声）**\n\n你不需要每个和弦都“算音”，只要记住：\n- 第 **1–4、7–8、11–12 小节** → 都像是 **“A 的地盘”**\n- 第 **5–6 小节** → 是 **“D 的地盘”**\n- 第 **9 小节** → 是 **“E 的地盘”**",
+          "de": "# Die 12-Takte-Struktur in A\nWir nehmen einen einfachen **A-Blues** (jede Zeile = 1 Takt):\n\n1–4: **A7**  \n5–6: **D7**  \n7–8: **A7**  \n9: **E7**  \n10: **D7**  \n11–12: **A7 (oder E7 als Turnaround)**\n\nDu musst nicht jeden Akkordton perfekt treffen – merk dir einfach:\n- Takte **1–4, 7–8, 11–12** → fühlen sich nach **„A-Bereich“** an\n- Takte **5–6** → sind der **„D-Bereich“**\n- Takt **9** → ist der **„E-Bereich“**",
+          "ja": "# A の12小節のざっくりマップ\nまずは典型的な **Aの12小節ブルース** をこう覚えます（1行 = 1小節）：\n\n1–4：**A7**  \n5–6：**D7**  \n7–8：**A7**  \n9：**E7**  \n10：**D7**  \n11–12：**A7（12小節目をE7にするパターンも多い）**\n\n全部のコードトーンを完璧に狙う必要はありません。ざっくり：\n- **1〜4、7〜8、11〜12小節** → ずっと **「Aのエリア」**\n- **5〜6小節** → **「Dのエリア」**\n- **9小節目** → **「Eのエリア」**\nと感じておけばOKです。",
+          "pt-BR": "# O mapa do 12 compassos em A\nVamos pensar num **blues básico em Lá** assim (cada item = 1 compasso):\n\n1–4: **A7**  \n5–6: **D7**  \n7–8: **A7**  \n9: **E7**  \n10: **D7**  \n11–12: **A7 (ou E7 no turnaround)**\n\nNão precisa acertar todos os tons do acorde. Lembra só que:\n- Compassos **1–4, 7–8, 11–12** → são a **“região do A”**\n- Compassos **5–6** → são a **“região do D”**\n- Compasso **9** → é a **“região do E”**",
+          "es": "# El mapa de 12 compases en A\nTomamos un **blues básico en La** así (cada ítem = 1 compás):\n\n1–4: **A7**  \n5–6: **D7**  \n7–8: **A7**  \n9: **E7**  \n10: **D7**  \n11–12: **A7 (o E7 como turnaround)**\n\nNo hace falta clavar todos los acordes nota por nota. Solo recuerda:\n- Compases **1–4, 7–8, 11–12** → son la **“zona de A”**\n- Compases **5–6** → son la **“zona de D”**\n- Compás **9** → es la **“zona de E”**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Lick 1 – Opening phrase over A7 (bars 1–2)\nUse **A blues scale box 1** around the 5th fret.\n\nPlay this slowly in 8th-notes (one note per “1-&-2-&…”):\n- 4th string: **5 → 7** (G → A)\n- 3rd string: **5 → 7** (C → D)\n- 2nd string: **5 → 8** (E → G), then back to **5** (E)\n\nLet the last **E** ring into bar 2.\n\nThis gives you a simple “call” that clearly says **A blues** without being too busy.",
+          "zh-Hans": "# 乐句 1 —— A7 上的开头句（第 1–2 小节）\n这里用的是第 5 品一带的 **A 蓝调音阶 box 1**。\n\n用八分音符慢慢弹（“1-&-2-&…” 一拍一个音）：\n- 第4弦：**5 → 7**（G → A）\n- 第3弦：**5 → 7**（C → D）\n- 第2弦：**5 → 8**（E → G），再回到 **5**（E）\n\n让最后的 **E** 延音进第 2 小节。\n\n这是一个很简单的“提问”式开头，清楚地说出 **A 调布鲁斯**，又不会显得太复杂。",
+          "de": "# Lick 1 – Eröffnungsphrase über A7 (Takte 1–2)\nWir benutzen die **A-Blues-Tonleiter Box 1** um den 5. Bund.\n\nSpiel das langsam in Achteln (pro „1-&-2-&…“ ein Ton):\n- 4. Saite: **5 → 7** (G → A)\n- 3. Saite: **5 → 7** (C → D)\n- 2. Saite: **5 → 8** (E → G), dann zurück auf **5** (E)\n\nLass das letzte **E** in den 2. Takt hinein klingen.\n\nSo bekommst du einen einfachen „Call“, der ganz klar **A-Blues** sagt, ohne überladen zu sein.",
+          "ja": "# リック1 – A7上のオープニング（1〜2小節）\nここでは5フレット周辺の **Aブルース・スケール Box 1** を使います。\n\nゆっくり8分音符で（「1-&-2-&…」ごとに1音）：\n- 4弦：**5 → 7**（G → A）\n- 3弦：**5 → 7**（C → D）\n- 2弦：**5 → 8**（E → G）、そして **5**（E）に戻る\n\n最後の **E** を2小節目まで伸ばしておきましょう。\n\nとてもシンプルな“呼びかけ”フレーズですが、これだけでしっかり **Aブルース感** が出せます。",
+          "pt-BR": "# Lick 1 – Frase de abertura em A7 (compassos 1–2)\nUse a **escala blues de A – box 1** na região da 5ª casa.\n\nToque devagar em colcheias (um som por “1-e-2-e…”):\n- 4ª corda: **casa 5 → 7** (G → A)\n- 3ª corda: **5 → 7** (C → D)\n- 2ª corda: **5 → 8** (E → G), voltando depois para **5** (E)\n\nDeixe esse último **E** soar entrando no compasso 2.\n\nÉ um “call” bem simples, que já deixa claro o clima de **blues em A** sem encher demais.",
+          "es": "# Lick 1 – Frase de apertura sobre A7 (compases 1–2)\nAquí usamos la **escala blues de La – caja 1** alrededor del traste 5.\n\nToca despacio en corcheas (una nota por “1-y-2-y…”):\n- 4ª cuerda: **5 → 7** (G → A)\n- 3ª cuerda: **5 → 7** (C → D)\n- 2ª cuerda: **5 → 8** (E → G), y vuelves a **5** (E)\n\nDeja que ese último **E** suene entrando al compás 2.\n\nEs un “call” sencillo que ya dice **blues en A** sin complicarse demasiado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Lick 2 – Answer over D7 (bars 5–6)\nWhen the blues moves to **D7** (bars 5–6), stay in the same box but aim at **D**.\n\nTry this:\n- 5th string: **5** (D) – hold slightly\n- 4th string: **5 → 7** (G → A)\n- 3rd string: **5 → 7** (C → D) and **end on that D**\n\nIt feels like an “answer” to lick 1, but now it leans into the **IV chord (D7)**.",
+          "zh-Hans": "# 乐句 2 —— D7 上的“回答”（第 5–6 小节）\n当进程走到 **D7**（第 5–6 小节）时，手型可以不动，但要更常**落在 D 上**。\n\n可以这样弹：\n- 第5弦：**5品**（D），稍微多顶一会儿\n- 第4弦：**5 → 7**（G → A）\n- 第3弦：**5 → 7**（C → D），在这个 **D 上结束**\n\n这听起来像是对乐句 1 的一个“回答”，只是重心转向了 **IV 级和弦 D7**。",
+          "de": "# Lick 2 – Antwort über D7 (Takte 5–6)\nWenn der Blues zu **D7** wechselt (Takte 5–6), bleibst du in derselben Box, zielst aber stärker auf **D**.\n\nVorschlag:\n- 5. Saite: **5. Bund** (D) – kurz anhalten\n- 4. Saite: **5 → 7** (G → A)\n- 3. Saite: **5 → 7** (C → D) und **auf diesem D enden**\n\nSo wirkt das wie eine „Antwort“ auf Lick 1, nur dass es jetzt deutlich in den **IV-Akkord (D7)** hineinzieht.",
+          "ja": "# リック2 – D7上の“答え”（5〜6小節）\n進行が **D7**（5〜6小節）に移ったら、ポジションはそのままで、**Dに着地**するよう意識します。\n\nこんな感じで弾いてみましょう：\n- 5弦：**5F**（D）を少し長めに伸ばす\n- 4弦：**5 → 7**（G → A）\n- 3弦：**5 → 7**（C → D）で、最後はこの **Dで終わる**\n\nリック1への“返事”のようなフレーズですが、今度は重心が **IVコードのD7** に寄っていきます。",
+          "pt-BR": "# Lick 2 – Resposta em D7 (compassos 5–6)\nQuando o blues vai para **D7** (compassos 5–6), você continua no mesmo box, mas mira na nota **D**.\n\nExperimente:\n- 5ª corda: **casa 5** (D) – segura um pouquinho\n- 4ª corda: **5 → 7** (G → A)\n- 3ª corda: **5 → 7** (C → D) e **termina nesse D**\n\nEle soa como uma “resposta” ao lick 1, só que agora puxando claro para o **acorde IV (D7)**.",
+          "es": "# Lick 2 – Respuesta sobre D7 (compases 5–6)\nCuando el blues pasa a **D7** (compases 5–6), te quedas en la misma caja pero apuntas más a **D**.\n\nPrueba esto:\n- 5ª cuerda: **traste 5** (D) – sujétalo un poco\n- 4ª cuerda: **5 → 7** (G → A)\n- 3ª cuerda: **5 → 7** (C → D) y **acabas en ese D**\n\nSuena como una respuesta al lick 1, pero ahora apoyándose claramente en el **acorde IV (D7)**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Lick 3 – Simple turnaround idea (bars 11–12)\nFor the last two bars, a tiny **descending turnaround** works great.\n\nTry this, still in the same position:\n- 1st string: **8 → 5** (C → A)\n- 2nd string: **8 → 5** (G → E)\n- 3rd string: **7 → 5** (D → C)\n- Then hit **4th string, 7th fret (A)** or strum an **A7 chord** to start the next chorus.\n\nCount it as steady 8th-notes and keep it relaxed.",
+          "zh-Hans": "# 乐句 3 —— 简单的尾声（第 11–12 小节）\n最后两小节，用一个很短的**下行尾声（turnaround）** 就够用了。\n\n手型还是不动，试试这样：\n- 第1弦：**8 → 5**（C → A）\n- 第2弦：**8 → 5**（G → E）\n- 第3弦：**7 → 5**（D → C）\n- 最后弹一下 **第4弦 7 品（A）**，或者扫一个 **A7 和弦** 进入下一轮 12 小节。\n\n用均匀的八分音符来数，手放松就好。",
+          "de": "# Lick 3 – Einfacher Turnaround (Takte 11–12)\nIn den letzten beiden Takten funktioniert ein kleiner **absteigender Turnaround** sehr gut.\n\nBleib in derselben Lage und spiel:\n- 1. Saite: **8 → 5** (C → A)\n- 2. Saite: **8 → 5** (G → E)\n- 3. Saite: **7 → 5** (D → C)\n- Zum Schluss **4. Saite, 7. Bund (A)** oder einen **A7-Akkord** anschlagen, um in den nächsten Chorus zu starten.\n\nSpiel das in gleichmäßigen Achteln und bleib locker.",
+          "ja": "# リック3 – シンプルなターンアラウンド（11〜12小節）\n最後の2小節は、短い**下降ターンアラウンド**を入れるとキレイにまとまります。\n\nポジションはそのままで、こう弾いてみましょう：\n- 1弦：**8 → 5**（C → A）\n- 2弦：**8 → 5**（G → E）\n- 3弦：**7 → 5**（D → C）\n- 最後に **4弦7F（A）** を鳴らすか、**A7コード**をジャーンと弾いて次のコーラスへ。\n\n一定の8分音符のリズムで、リラックスして弾くのがポイントです。",
+          "pt-BR": "# Lick 3 – Turnaround simples (compassos 11–12)\nNos dois últimos compassos, um **turnaround descendente** bem curtinho funciona muito bem.\n\nAinda na mesma posição, experimente:\n- 1ª corda: **8 → 5** (C → A)\n- 2ª corda: **8 → 5** (G → E)\n- 3ª corda: **7 → 5** (D → C)\n- Depois toque a **4ª corda na 7ª casa (A)** ou um **acorde de A7** para começar o próximo chorus.\n\nConte em colcheias bem regulares e mantenha a mão solta.",
+          "es": "# Lick 3 – Turnaround sencillo (compases 11–12)\nEn los dos últimos compases, un **turnaround descendente** muy simple funciona perfecto.\n\nSin moverte de posición, prueba:\n- 1ª cuerda: **8 → 5** (C → A)\n- 2ª cuerda: **8 → 5** (G → E)\n- 3ª cuerda: **7 → 5** (D → C)\n- Luego toca la **4ª cuerda en el traste 7 (A)** o un **acorde de A7** para arrancar el siguiente chorus.\n\nCuéntalo en corcheas regulares y tócalo relajado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Loop a **12-bar blues in A** backing track.\n2. Play **lick 1** over bars 1–2, then improvise freely with A minor pentatonic for bars 3–4.\n3. Use **lick 2** when the song hits **D7 (bars 5–6)**, then go back to A minor pentatonic.\n4. Use **lick 3** in bars **11–12** as your turnaround, then repeat the form.\n\nOnce these feel comfortable, start **changing the endings** of each lick, or sneak in the **blue note (Eb)** here and there to make the phrases your own.",
+          "zh-Hans": "# 小练习\n1. 放一段 **A 调 12 小节布鲁斯** 的伴奏循环播放。\n2. 在第 1–2 小节用 **乐句 1**，第 3–4 小节随意用 A 小调五声音阶即兴。\n3. 歌走到 **D7（第 5–6 小节）** 时用 **乐句 2**，再回到 A 小调五声音阶。\n4. 在 **第 11–12 小节** 用 **乐句 3** 做尾声，然后从头再来一轮。\n\n等这些套路弹顺了，再开始**改一改每个乐句的结尾**，或者偶尔加入前一课学到的 **蓝调音 Eb**，把这些乐句慢慢变成你自己的。",
+          "de": "# Kurze Übung\n1. Such dir ein **12-Takte-Blues-Backing in A** und lass es in Schleife laufen.\n2. Spiel in den Takten 1–2 **Lick 1**, in 3–4 improvisierst du frei mit der A-Moll-Pentatonik.\n3. Wenn der Song zu **D7 (Takte 5–6)** geht, spiel **Lick 2**, danach wieder A-Moll-Pentatonik.\n4. In den Takten **11–12** nutzt du **Lick 3** als Turnaround und startest dann wieder von vorne.\n\nSobald sich das sicher anfühlt, fang an, die **Enden der Licks zu verändern** oder hier und da die **Blue Note (Eb)** einzubauen, damit die Phrasen wirklich nach dir klingen.",
+          "ja": "# かんたん練習\n1. **Aの12小節ブルース** のバッキングをループ再生します。\n2. 1〜2小節目に **リック1**、3〜4小節目はAマイナー・ペンタで自由にフレーズを作る。\n3. 進行が **D7（5〜6小節）** に行ったら **リック2** を使い、そのあとまたAマイナー・ペンタに戻る。\n4. **11〜12小節目** に **リック3** を入れてターンアラウンドし、また最初の小節に戻る。\n\nこれがスムーズに回せるようになってきたら、少しずつ**リックの終わり方を変えてみたり**、前のレッスンで触れた **ブルーノート（Eb）** をところどころに混ぜて、自分だけのフレーズに育てていきましょう。",
+          "pt-BR": "# Prática rápida\n1. Coloque um playback de **blues 12 compassos em A** em loop.\n2. Use o **lick 1** nos compassos 1–2 e improvise livre com pentatônica de A menor nos compassos 3–4.\n3. Quando a harmonia for para **D7 (compassos 5–6)**, use o **lick 2** e depois volte para a pentatônica de A menor.\n4. Nos compassos **11–12**, toque o **lick 3** como turnaround e volte para o começo da forma.\n\nQuando isso estiver confortável, comece a **mudar os finais** de cada lick, ou a salpicar a **blue note (Eb)** aqui e ali, até que essas frases soem cada vez mais com a sua cara.",
+          "es": "# Práctica rápida\n1. Pon en loop una base de **blues de 12 compases en A**.\n2. Usa el **lick 1** en los compases 1–2 y en 3–4 improvisa libre con pentatónica de La menor.\n3. Cuando la progresión vaya a **D7 (compases 5–6)**, toca el **lick 2** y luego vuelve a la pentatónica de A menor.\n4. En los compases **11–12**, mete el **lick 3** como turnaround y vuelve al principio de la forma.\n\nCuando esto se sienta cómodo, empieza a **cambiar los finales** de cada lick o a meter de vez en cuando la **blue note (Eb)** para que las frases suenen cada vez más tuyas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

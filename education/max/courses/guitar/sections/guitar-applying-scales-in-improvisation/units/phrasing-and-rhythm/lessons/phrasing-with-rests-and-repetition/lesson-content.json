@@ -1,0 +1,73 @@
+{
+  "id": "phrasing-with-rests-and-repetition",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Phrasing with rests and repetition\nGood solos don’t fill every second with notes. They **breathe**.\n\nIn this lesson you’ll practice:\n- Leaving **rests** on purpose\n- Repeating **short ideas** so they sound like phrases, not random notes\n\nUse **any scale you already know** (for example C major or A minor pentatonic) and focus only on phrasing.",
+          "zh-Hans": "# 用停顿和重复来塑造乐句\n好的独奏不会把每一秒都塞满音符，它们会**呼吸**。\n\n本课你会练习：\n- 有意识地加入**停顿（休止）**\n- 重复**短小的动机**，让它听起来像有句子，而不是乱弹\n\n用你已经熟悉的**任何音阶**（比如 C 大调、A 小调五声音阶），重点只放在“乐句感”上。",
+          "de": "# Phrasierung mit Pausen und Wiederholung\nGute Solos füllen nicht jede Sekunde mit Tönen – sie **atmen**.\n\nIn dieser Lektion übst du:\n- **Pausen** ganz bewusst zu setzen\n- **Kurze Ideen** zu wiederholen, damit sie wie Phrasen und nicht zufällige Töne wirken\n\nVerwende dafür **jede Skala, die du schon kennst** (z. B. C-Dur oder A-Moll-Pentatonik) und konzentriere dich nur auf die Phrasierung.",
+          "ja": "# 休符と反復でフレーズ感を出す\nいいソロは、常に音でぎっしりではなく、ちゃんと**息をして**います。\n\nこのレッスンでは次のことを練習します：\n- 意識して**休符（休み）**を入れる\n- **短いフレーズ**をくり返して、ランダムではない“言葉”にする\n\n使うスケールは、あなたがすでに知っているものでOKです（Cメジャー、Aマイナーペンタなど）。今日はとにかくフレーズ作りに集中します。",
+          "pt-BR": "# Fraseando com pausas e repetição\nBons solos não enchem cada segundo de nota. Eles **respiram**.\n\nNesta lição você vai praticar:\n- Colocar **pausas** de propósito\n- Repetir **ideias curtinhas** para soar como frases, e não como notas aleatórias\n\nUse **qualquer escala que você já conheça** (por exemplo, Dó maior ou A menor pentatônica) e foque na forma de frasear.",
+          "es": "# Fraseo con silencios y repetición\nUn buen solo no llena cada segundo de notas. **Respira**.\n\nEn esta lección vas a practicar:\n- Dejar **silencios** a propósito\n- Repetir **ideas cortas** para que suenen a frases, no a notas al azar\n\nUsa **cualquier escala que ya conozcas** (por ejemplo Do mayor o La menor pentatónica) y céntrate sólo en el fraseo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Short phrases and “breathing”\nThink in **short sentences**, not long walls of notes.\n\nTry this over a simple 4-bar groove:\n- Bar 1–2: play a **short idea** (1–2 beats of notes)\n- Then **stop** for at least 1 beat\n- Bar 3–4: play another short idea, then **rest again**\n\nCount out loud if it helps: “1-2-play, 3-4-rest”. Let the band (or backing track) keep talking while you breathe.",
+          "zh-Hans": "# 短乐句和“呼吸感”\n多想成**短句子**，而不是一整面墙的音符。\n\n在简单的 4 小节伴奏上试试：\n- 第 1–2 小节：弹一个**很短的想法**（1–2 拍的音）\n- 然后**至少空 1 拍**不弹\n- 第 3–4 小节：再弹一个短乐句，然后**再停一下**\n\n需要的话可以出声数拍：“1-2-弹，3-4-停”。让鼓和伴奏继续“说话”，你则在中间喘口气。",
+          "de": "# Kurze Phrasen und „Atmen“\nDenke in **kurzen Sätzen**, nicht in endlosen Notenketten.\n\nProbier das über einen einfachen 4-Takte-Groove:\n- Takt 1–2: spiel eine **kurze Idee** (1–2 Zählzeiten mit Tönen)\n- Dann **mindestens 1 Zählzeit Pause**\n- Takt 3–4: spiel eine weitere kurze Idee, dann **wieder Pause**\n\nZähle laut mit, wenn es hilft: „1-2-spielen, 3-4-Pause“. Die Band (oder das Backing) spielt weiter, während du Luft holst.",
+          "ja": "# 短いフレーズと“呼吸”\n長い音のかたまりではなく、**短い文（センテンス）**として考えましょう。\n\nシンプルな4小節のグルーヴに合わせて：\n- 1〜2小節目：**1〜2拍だけ**の短いフレーズを弾く\n- そのあとを**最低1拍は何も弾かない**\n- 3〜4小節目：また別の短いフレーズ → **また休む**\n\n声に出して数えてもOKです：「1-2弾く、3-4休む」。バンド（またはバッキング）がしゃべり続けている間、あなたはちゃんと息をします。",
+          "pt-BR": "# Frases curtas e “respirar”\nPense em **frases curtas**, não em um muro infinito de notas.\n\nExperimente em um groove simples de 4 compassos:\n- Compassos 1–2: toque uma **ideia bem curta** (1–2 tempos de notas)\n- Depois **pare** por pelo menos 1 tempo\n- Compassos 3–4: toque outra frase curta e **descanse de novo**\n\nSe ajudar, conte em voz alta: “1-2 toca, 3-4 pausa”. Deixe a banda (ou o playback) continuar falando enquanto você respira.",
+          "es": "# Frases cortas y “respirar”\nPiensa en **frases cortas**, no en una pared infinita de notas.\n\nPrueba esto sobre un groove sencillo de 4 compases:\n- Compases 1–2: toca una **idea muy corta** (1–2 tiempos de notas)\n- Luego **para** al menos 1 tiempo\n- Compases 3–4: toca otra frase corta y **vuelve a dejar silencio**\n\nSi te ayuda, cuenta en voz alta: “1-2 toco, 3-4 silencio”. Deja que la banda (o la base) siga hablando mientras tú respiras."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using repetition like a hook\nRepetition makes listeners feel **“oh, I know this line”**.\n\nTry this drill:\n1. Make a **tiny phrase**: 2–4 notes, same rhythm each time.\n2. Play it **three times in a row**.\n3. The **4th time**, change **just one thing**:\n   - Last note goes higher or lower\n   - Or same notes, but rhythm shifted by a beat\n\nThink of the first three as the **question**, and the last one as a **slightly different answer**.",
+          "zh-Hans": "# 像副歌一样用“重复”\n重复会让听众产生 **“这句我听过”** 的感觉。\n\n试试这个练习：\n1. 想一个**超短的乐句**：2–4 个音，节奏保持一样。\n2. 连续**弹 3 遍一模一样**的乐句。\n3. 第 **4 遍** 时，只改动 **一件小事**：\n   - 最后一个音高一点或低一点\n   - 或者音不变，只把节奏往后错一拍\n\n可以把前 3 遍当成**同一个问题**，最后一遍是**略微不同的答案**。",
+          "de": "# Wiederholung als „Hook“ verwenden\nWiederholung sorgt dafür, dass die Hörer denken: **„Ah, das Motiv kenne ich schon“**.\n\nÜbungsvorschlag:\n1. Erfinde eine **winzige Phrase**: 2–4 Töne, immer mit dem gleichen Rhythmus.\n2. Spiele sie **dreimal genau gleich**.\n3. Beim **4. Mal** änderst du **nur eine Kleinigkeit**:\n   - Der letzte Ton geht höher oder tiefer\n   - Oder gleiche Töne, aber der Rhythmus verschiebt sich um einen Schlag\n\nDenk dir die ersten drei als **Frage**, und die letzte als **leicht veränderte Antwort**.",
+          "ja": "# フレーズを“フック”としてくり返す\n同じフレーズをくり返すと、聴き手は **「あ、このライン知ってる」** と感じます。\n\nこんなドリルをやってみましょう：\n1. **とても小さなフレーズ**を作る：2〜4音で、リズムは毎回同じ。\n2. それを**3回続けてまったく同じように**弾く。\n3. **4回目**だけ、**どこか1か所だけ変える**：\n   - 最後の音を少し上か下に変える\n   - もしくは同じ音で、リズムだけ1拍ずらす\n\n最初の3回が**同じ質問**、最後の1回が**少し違う答え**というイメージです。",
+          "pt-BR": "# Usando repetição como se fosse um “hook”\nRepetição faz o ouvinte pensar **“opa, essa frase eu já conheço”**.\n\nExperimente este exercício:\n1. Crie uma **frase minúscula**: 2–4 notas, sempre com o mesmo ritmo.\n2. Toque essa frase **três vezes iguais**.\n3. Na **4ª vez**, mude **só uma coisa**:\n   - Leve a última nota um pouco mais alta ou mais baixa\n   - Ou mantenha as notas e mude a posição do ritmo em 1 tempo\n\nPense nas três primeiras como a **mesma pergunta**, e na última como uma **resposta ligeiramente diferente**.",
+          "es": "# Usar la repetición como un “hook”\nLa repetición hace que el oyente sienta **“ah, esta frase ya me la sé”**.\n\nPrueba este ejercicio:\n1. Crea una **frase muy pequeña**: 2–4 notas, siempre con el mismo ritmo.\n2. Tócala **tres veces iguales**.\n3. La **4ª vez**, cambia **sólo una cosa**:\n   - La última nota va un poco más arriba o abajo\n   - O mantén las mismas notas pero desplaza el ritmo un tiempo\n\nPiensa en las tres primeras como la **misma pregunta**, y la última como una **respuesta un poco distinta**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Putting rests and repetition together\nNow combine both ideas over a simple backing track:\n\n1. Create **one short phrase** (2–4 notes).\n2. Play it, then leave **at least 1 beat of rest**.\n3. Repeat the phrase **once or twice** with the same rhythm.\n4. On the last repeat, **change the ending note** and then leave **a longer rest** (half a bar or a full bar).\n\nYou should feel a **mini conversation**: same idea, small twist, then silence.",
+          "zh-Hans": "# 把停顿和重复合在一起\n现在在简单伴奏上，把这两个概念合并起来：\n\n1. 先做出**一个短乐句**（2–4 个音）。\n2. 弹完后，留出**至少 1 拍的空白**。\n3. 用**同样节奏**重复这句 1–2 次。\n4. 最后一次重复时，**把结尾音换掉**，然后留一个**更长的停顿**（半小节甚至一小节）。\n\n你应该能感觉到像一段**小对话**：同一个想法，轻微变化，然后是安静。",
+          "de": "# Pausen und Wiederholung verbinden\nJetzt kombinierst du beide Ideen über ein einfaches Backing:\n\n1. Erfinde **eine kurze Phrase** (2–4 Töne).\n2. Spiele sie und lass danach **mindestens 1 Zählzeit Pause**.\n3. Wiederhole die Phrase **ein- bis zweimal** mit gleichem Rhythmus.\n4. Beim letzten Mal **änderst du den Schlusston** und lässt danach eine **längere Pause** (eine halbe oder ganze Taktlänge).\n\nSo entsteht eine Art **Mini-Gespräch**: gleiche Idee, kleine Wendung, dann Stille.",
+          "ja": "# 休符と反復を組み合わせる\n今度はシンプルなバッキングに合わせて、両方をまとめて使ってみましょう：\n\n1. **2〜4音の短いフレーズ**を1つ作る。\n2. 弾いたら、**最低1拍は何も弾かない**。\n3. 同じリズムで、そのフレーズを**あと1〜2回くり返す**。\n4. 最後のくり返しだけ、**終わりの音を変えて**から、**長めの休み**（半小節〜1小節）を置く。\n\n同じアイデアが続いて、ちょっとだけひねってから、静かになるという、**小さな会話**のように感じられるはずです。",
+          "pt-BR": "# Juntando pausas e repetição\nAgora junte as duas ideias em um playback simples:\n\n1. Crie **uma frase curta** (2–4 notas).\n2. Toque a frase e depois deixe **pelo menos 1 tempo de silêncio**.\n3. Repita a frase **uma ou duas vezes** com o mesmo ritmo.\n4. Na última repetição, **troque a nota final** e depois faça uma **pausa maior** (meio compasso ou um compasso inteiro).\n\nA sensação deve ser de uma **mini conversa**: mesma ideia, um pequeno desvio, e depois silêncio.",
+          "es": "# Juntando silencios y repetición\nAhora combina ambas ideas sobre una base sencilla:\n\n1. Crea **una frase corta** (2–4 notas).\n2. Tócala y luego deja **al menos 1 tiempo de silencio**.\n3. Repite la frase **una o dos veces** con el mismo ritmo.\n4. En la última repetición, **cambia la nota final** y deja un **silencio más largo** (medio compás o un compás entero).\n\nLa sensación debe ser la de una **mini conversación**: misma idea, un pequeño giro y luego silencio."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nFor 5–10 minutes:\n1. Pick **one scale** and a **slow backing track**.\n2. Only play **2–4 note phrases**.\n3. After every phrase, leave **at least 1 beat of rest**.\n4. Use **repetition + tiny changes** instead of new random ideas.\n\nIf your solo starts to sound like **little melodies you could sing back**, you’re using rests and repetition well.",
+          "zh-Hans": "# 小练习\n练习 5–10 分钟：\n1. 选**一个音阶**和一个**慢速伴奏**。\n2. 只允许自己弹 **2–4 个音的短乐句**。\n3. 每句之后，都要留**至少 1 拍的空白**。\n4. 多用**重复 + 小改动**，而不是不停丢出新想法。\n\n当你的独奏开始听起来像一些**可以哼出来的小旋律**时，说明你已经在好好利用停顿和重复了。",
+          "de": "# Kurze Übung\nFür 5–10 Minuten:\n1. Wähle **eine Skala** und ein **langsames Backing**.\n2. Spiele nur **Phrasen mit 2–4 Tönen**.\n3. Nach jeder Phrase lässt du **mindestens 1 Zählzeit Pause**.\n4. Nutze **Wiederholung + kleine Veränderungen**, statt ständig neue Ideen zu werfen.\n\nWenn dein Solo klingt, als wären es **kleine Melodien, die man nachsingen könnte**, setzt du Pausen und Wiederholung genau richtig ein.",
+          "ja": "# かんたん練習\n5〜10分だけ、次のルールで弾いてみましょう：\n1. **1つのスケール**と**ゆっくりめのバッキング**を選ぶ。\n2. いつも **2〜4音だけのフレーズ** にする。\n3. フレーズを弾いたら、毎回**最低1拍は休む**。\n4. どんどん新しいネタを出すのではなく、**同じフレーズの反復＋ちょっとした変化**を使う。\n\nソロがだんだん、**歌えそうな小さなメロディ**に聞こえてきたら、休符と反復をうまく使えているサインです。",
+          "pt-BR": "# Prática rápida\nPor 5–10 minutos, siga estas regras:\n1. Escolha **uma escala** e um **playback lento**.\n2. Toque apenas **frases de 2–4 notas**.\n3. Depois de cada frase, faça **no mínimo 1 tempo de silêncio**.\n4. Use **repetição + pequenas mudanças**, em vez de inventar ideias novas o tempo todo.\n\nSe o seu solo começar a soar como **melodias curtinhas que você conseguiria cantar**, é porque você está usando bem as pausas e a repetição.",
+          "es": "# Práctica rápida\nDurante 5–10 minutos:\n1. Elige **una escala** y una **base lenta**.\n2. Toca sólo **frases de 2–4 notas**.\n3. Después de cada frase, deja **al menos 1 tiempo de silencio**.\n4. Usa **repetición + pequeños cambios**, en lugar de lanzar ideas nuevas sin parar.\n\nSi tu solo empieza a sonar como **melodías cortas que podrías cantar**, es que estás usando bien los silencios y la repetición."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

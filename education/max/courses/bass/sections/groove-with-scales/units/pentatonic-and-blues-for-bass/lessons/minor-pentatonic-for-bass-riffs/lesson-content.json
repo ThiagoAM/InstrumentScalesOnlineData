@@ -1,0 +1,60 @@
+{
+  "id": "minor-pentatonic-for-bass-riffs",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minor pentatonic = riff gold\nThe minor pentatonic scale gives you **ready-made shapes** for rock, blues and funk bass lines.\n\nHere we’ll use **A minor pentatonic** around the 5th fret and turn it into short, punchy riff ideas.",
+          "zh-Hans": "# 小调五声音阶 = 低音即兴宝库\n小调五声音阶能给你很多**现成的形状**，非常适合摇滚、布鲁斯和放克的贝斯线。\n\n这里我们用 5 品附近的 **A 小调五声音阶**，把它变成短小、有冲击力的 riff。",
+          "de": "# Moll-Pentatonik = Riff-Gold\nDie Moll-Pentatonik liefert dir **fertige Shapes** für Rock-, Blues- und Funk-Basslinien.\n\nHier nutzen wir die **A-Moll-Pentatonik** um den 5. Bund und machen daraus kurze, knackige Riff-Ideen.",
+          "ja": "# マイナーペンタ＝リフのネタ帳\nマイナーペンタトニックは、ロックやブルース、ファンク系の**定番ベースライン**がすぐ作れるスケールです。\n\nここでは 5 フレット周辺の **A マイナーペンタトニック** を使って、短くてキレのあるリフにしていきます。",
+          "pt-BR": "# Pentatônica menor = mina de riffs\nA escala pentatônica menor dá **desenhos prontos** para linhas de baixo de rock, blues e funk.\n\nAqui vamos usar a **pentatônica de Lá menor (A)** em volta da 5ª casa e transformar em ideias curtas e marcantes de riff.",
+          "es": "# Pentatónica menor = fábrica de riffs\nLa escala pentatónica menor te da **dibujos listos** para líneas de bajo de rock, blues y funk.\n\nAquí vamos a usar la **pentatónica de La menor (A)** alrededor del 5º traste y convertirla en ideas de riffs cortos y contundentes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Shape on the neck (A minor pentatonic)\n4-string bass tuned E–A–D–G:\n\n- 4th string (E), 5th fret – **A** (root)\n- 4th string, 8th fret – **C**\n- 3rd string (A), 5th fret – **D**\n- 3rd string, 7th fret – **E**\n- 2nd string (D), 5th fret – **G**\n- 2nd string, 7th fret – **A** (octave)\n\nUse one finger per fret (index on 5, middle on 6, ring on 7, pinky on 8).",
+          "zh-Hans": "# 指板上的形状（A 小调五声音阶）\n4 弦贝斯，标准 E–A–D–G 定弦：\n\n- 第 4 弦（E 弦）第 5 品 – **A**（主音）\n- 第 4 弦 第 8 品 – **C**\n- 第 3 弦（A 弦）第 5 品 – **D**\n- 第 3 弦 第 7 品 – **E**\n- 第 2 弦（D 弦）第 5 品 – **G**\n- 第 2 弦 第 7 品 – **A**（高八度）\n\n左手尽量做到**一品一指**（食指按 5，中指按 6，无名指按 7，小指按 8）。",
+          "de": "# Shape auf dem Griffbrett (A-Moll-Pentatonik)\n4-saitiger Bass in E–A–D–G-Stimmung:\n\n- 4. Saite (E), 5. Bund – **A** (Grundton)\n- 4. Saite, 8. Bund – **C**\n- 3. Saite (A), 5. Bund – **D**\n- 3. Saite, 7. Bund – **E**\n- 2. Saite (D), 5. Bund – **G**\n- 2. Saite, 7. Bund – **A** (Oktave)\n\nNutze einen Finger pro Bund (Zeigefinger bei 5, Mittelfinger bei 6, Ringfinger bei 7, kleiner Finger bei 8).",
+          "ja": "# ネック上の型（A マイナーペンタ）\n4 弦ベース（E–A–D–G チューニング）：\n\n- 4 弦（E）5 フレット – **A**（ルート）\n- 4 弦 8 フレット – **C**\n- 3 弦（A）5 フレット – **D**\n- 3 弦 7 フレット – **E**\n- 2 弦（D）5 フレット – **G**\n- 2 弦 7 フレット – **A**（オクターブ）\n\n左手は 1 フレット 1 本ずつ担当（人差し指 = 5、中指 = 6、薬指 = 7、小指 = 8）で構えましょう。",
+          "pt-BR": "# Desenho no braço (Lá menor pentatônica)\nBaixo de 4 cordas afinado em E–A–D–G:\n\n- 4ª corda (E), 5ª casa – **A** (tônica)\n- 4ª corda, 8ª casa – **C**\n- 3ª corda (A), 5ª casa – **D**\n- 3ª corda, 7ª casa – **E**\n- 2ª corda (D), 5ª casa – **G**\n- 2ª corda, 7ª casa – **A** (oitava)\n\nUse um dedo por casa (indicador na 5, médio na 6, anelar na 7, mínimo na 8).",
+          "es": "# Dibujo en el mástil (La menor pentatónica)\nBajo de 4 cuerdas afinado E–A–D–G:\n\n- 4ª cuerda (E), traste 5 – **A** (tónica)\n- 4ª cuerda, traste 8 – **C**\n- 3ª cuerda (A), traste 5 – **D**\n- 3ª cuerda, traste 7 – **E**\n- 2ª cuerda (D), traste 5 – **G**\n- 2ª cuerda, traste 7 – **A** (octava)\n\nUsa un dedo por traste (índice en 5, medio en 6, anular en 7, meñique en 8)."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two simple riff ideas\nPlay everything as steady **8th notes** with a relaxed right hand.\n\n**Riff 1 – Root and fifth hook**\n- A (4th string, 5th fret)\n- E (3rd string, 7th fret)\n- A (2nd string, 7th fret)\n- E (3rd string, 7th fret)\n\nLoop this pattern over one chord.\n\n**Riff 2 – Minor color**\n- A (4th string, 5th fret)\n- C (4th string, 8th fret)\n- D (3rd string, 5th fret)\n- G (2nd string, 5th fret)\n\nKeep the notes short and a little bit staccato for a tighter groove.",
+          "zh-Hans": "# 两个简单的 riff 想法\n所有音都当作**八分音符**来弹，右手保持放松。\n\n**Riff 1 – 主音 + 五度钩子**\n- A（第 4 弦 第 5 品）\n- E（第 3 弦 第 7 品）\n- A（第 2 弦 第 7 品）\n- E（第 3 弦 第 7 品）\n\n在同一个和弦上不断循环这个模式。\n\n**Riff 2 – 小调味道**\n- A（第 4 弦 第 5 品）\n- C（第 4 弦 第 8 品）\n- D（第 3 弦 第 5 品）\n- G（第 2 弦 第 5 品）\n\n把音弹得稍微短一点、靠近断音（staccato），律动会更紧凑。",
+          "de": "# Zwei einfache Riff-Ideen\nSpiele alles als gleichmäßige **Achtelnoten** mit entspannter Anschlaghand.\n\n**Riff 1 – Grundton und Quinte**\n- A (4. Saite, 5. Bund)\n- E (3. Saite, 7. Bund)\n- A (2. Saite, 7. Bund)\n- E (3. Saite, 7. Bund)\n\nWiederhole dieses Pattern über demselben Akkord.\n\n**Riff 2 – Moll-Farbe**\n- A (4. Saite, 5. Bund)\n- C (4. Saite, 8. Bund)\n- D (3. Saite, 5. Bund)\n- G (2. Saite, 5. Bund)\n\nHalte die Noten kurz und leicht staccato für einen straffen Groove.",
+          "ja": "# 簡単なリフを 2 つ\nすべて **8 分音符** で、右手は力を抜いて弾きます。\n\n**リフ 1 – ルートと 5 度のフック**\n- A（4 弦 5 フレット）\n- E（3 弦 7 フレット）\n- A（2 弦 7 フレット）\n- E（3 弦 7 フレット）\n\n同じコードの上でこのパターンをループします。\n\n**リフ 2 – マイナーっぽい響き**\n- A（4 弦 5 フレット）\n- C（4 弦 8 フレット）\n- D（3 弦 5 フレット）\n- G（2 弦 5 フレット）\n\n音を少し短く切って（スタッカート気味に）弾くと、タイトなグルーヴになります。",
+          "pt-BR": "# Dois riffs simples\nToque tudo em **colcheias** bem regulares, com a mão direita relaxada.\n\n**Riff 1 – Tônica e quinta**\n- A (4ª corda, 5ª casa)\n- E (3ª corda, 7ª casa)\n- A (2ª corda, 7ª casa)\n- E (3ª corda, 7ª casa)\n\nRepita o padrão sobre o mesmo acorde.\n\n**Riff 2 – Sabor menor**\n- A (4ª corda, 5ª casa)\n- C (4ª corda, 8ª casa)\n- D (3ª corda, 5ª casa)\n- G (2ª corda, 5ª casa)\n\nDeixe as notas mais curtas, levemente staccato, para um groove mais apertado.",
+          "es": "# Dos ideas de riff sencillas\nToca todo como **corcheas** regulares, con la mano derecha relajada.\n\n**Riff 1 – Tónica y quinta**\n- A (4ª cuerda, traste 5)\n- E (3ª cuerda, traste 7)\n- A (2ª cuerda, traste 7)\n- E (3ª cuerda, traste 7)\n\nRepite el patrón sobre el mismo acorde.\n\n**Riff 2 – Color menor**\n- A (4ª cuerda, traste 5)\n- C (4ª cuerda, traste 8)\n- D (3ª cuerda, traste 5)\n- G (2ª cuerda, traste 5)\n\nMantén las notas cortas, un poco staccato, para un groove más ajustado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# How to practice\n- Use a **metronome** and stay locked to the click\n- Keep your right hand alternating index–middle\n- Start slow, then push the tempo only when it feels relaxed\n- Try moving the **same shape** to other roots (G, E, D) to get new riffs quickly\n\nIf the notes groove, the scale is working.",
+          "zh-Hans": "# 练习建议\n- 用 **节拍器** 练习，尽量和点击完全对齐\n- 右手一直交替使用食指和中指\n- 先慢速练，感觉轻松以后再加快速度\n- 把同样的**形状**移到别的主音（G、E、D 等）上，很快就能得到新的 riff\n\n只要听起来在 groove 里，这个音阶就已经帮到你了。",
+          "de": "# So übst du\n- Nutze ein **Metronom** und bleib exakt auf dem Klick\n- Wechsle mit der Anschlaghand konsequent zwischen Zeige- und Mittelfinger\n- Starte langsam und erhöhe das Tempo erst, wenn es sich locker anfühlt\n- Verschiebe das **gleiche Shape** auf andere Grundtöne (G, E, D), um schnell neue Riffs zu finden\n\nWenn es groovt, macht die Skala ihren Job.",
+          "ja": "# 練習のコツ\n- **メトロノーム**を使ってクリックにピッタリ合わせる\n- 右手は人差し指→中指のオルタネイトをキープ\n- まずはゆっくり、ラクに弾けてきたらテンポを上げる\n- 同じ**型**を、他のルート（G、E、D など）にずらして、新しいリフを作ってみる\n\nしっかりグルーヴしていれば、そのスケールはもう味方です。",
+          "pt-BR": "# Como estudar\n- Use um **metrônomo** e trave com o clique\n- Mantenha a mão direita alternando indicador–médio\n- Comece devagar e só aumente o tempo quando estiver confortável\n- Experimente mover o **mesmo desenho** para outras tônicas (G, E, D) para criar riffs novos rápido\n\nSe estiver soando com groove, a escala está funcionando.",
+          "es": "# Cómo practicar\n- Usa un **metrónomo** y quédate pegado al clic\n- Mantén la mano derecha alternando índice–medio\n- Empieza lento y sube el tempo solo cuando se sienta cómodo\n- Prueba mover el **mismo dibujo** a otras tónicas (G, E, D) para sacar riffs nuevos rápido\n\nSi el bajo está haciendo groove, la escala está funcionando."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

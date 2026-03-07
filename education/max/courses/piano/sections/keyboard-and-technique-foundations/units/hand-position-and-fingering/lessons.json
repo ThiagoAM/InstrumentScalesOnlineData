@@ -1,0 +1,86 @@
+[
+  {
+    "id": "basic-5-finger-position-in-c",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Basic 5-Finger Position in C",
+        "zh-Hans": "C调基本五指位置",
+        "de": "Grundlegende 5-Finger-Position in C",
+        "ja": "Cの基本的な5本指のポジション",
+        "pt-BR": "Posição Básica de 5 Dedos em Dó",
+        "es": "Posición básica de 5 dedos en Do"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "standard-fingerings-for-c-major-and-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Standard Fingerings for C Major and G Major",
+        "zh-Hans": "C大调与G大调的标准指法",
+        "de": "Standard-Fingersätze für C-Dur und G-Dur",
+        "ja": "CメジャーとGメジャーの標準的な運指",
+        "pt-BR": "Dedilhados Padrão para Dó Maior e Sol Maior",
+        "es": "Digitaciones estándar para Do Mayor y Sol Mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "finger-independence-exercises",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Finger Independence Exercises",
+        "zh-Hans": "手指独立性练习",
+        "de": "Übungen zur Fingerunabhängigkeit",
+        "ja": "指の独立練習",
+        "pt-BR": "Exercícios de Independência dos Dedos",
+        "es": "Ejercicios de independencia de dedos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

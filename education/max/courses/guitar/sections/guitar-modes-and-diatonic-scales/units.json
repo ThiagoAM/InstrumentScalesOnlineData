@@ -1,0 +1,83 @@
+[
+  {
+    "id": "major-scale-positions",
+    "name": {
+      "values": {
+        "en": "Major Scale Positions",
+        "zh-Hans": "大调音阶的位置",
+        "de": "Dur-Tonleiter-Positionen",
+        "ja": "メジャースケールのポジション",
+        "pt-BR": "Posições da escala maior",
+        "es": "Posiciones de la escala mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn the main finger positions for the major scale across the instrument.",
+        "zh-Hans": "学习乐器上大调音阶的主要指位模式。",
+        "de": "Lerne die wichtigsten Fingersätze für die Dur-Tonleiter auf dem Instrument.",
+        "ja": "楽器全体で使われるメジャースケールの主要な指使いポジションを学びましょう。",
+        "pt-BR": "Aprenda as principais posições de digitação para a escala maior no instrumento.",
+        "es": "Aprende las principales posiciones de digitación de la escala mayor en el instrumento."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "understanding-modes",
+    "name": {
+      "values": {
+        "en": "Understanding Modes",
+        "zh-Hans": "理解调式",
+        "de": "Modi verstehen",
+        "ja": "モードの理解",
+        "pt-BR": "Entendendo os modos",
+        "es": "Comprender los modos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Understand how modes are built and how they relate to the major scale.",
+        "zh-Hans": "理解调式的构成方式及其与大调音阶的关系。",
+        "de": "Verstehe, wie Modi aufgebaut sind und wie sie sich zur Dur-Tonleiter verhalten.",
+        "ja": "モードがどのように構成され、メジャースケールとどう関連するのかを理解しましょう。",
+        "pt-BR": "Entenda como os modos são formados e como se relacionam com a escala maior.",
+        "es": "Comprende cómo se construyen los modos y cómo se relacionan con la escala mayor."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modes-in-real-music",
+    "name": {
+      "values": {
+        "en": "Modes in Real Music",
+        "zh-Hans": "真实音乐中的调式",
+        "de": "Modi in echter Musik",
+        "ja": "実際の音楽におけるモード",
+        "pt-BR": "Modos na música real",
+        "es": "Modos en la música real"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hear and recognize modal sounds in real musical contexts.",
+        "zh-Hans": "在真实音乐情境中聆听并辨识调式音色。",
+        "de": "Höre und erkenne modale Klänge in realen musikalischen Kontexten.",
+        "ja": "実際の音楽の中でモードのサウンドを聴き分けましょう。",
+        "pt-BR": "Ouça e reconheça sonoridades modais em contextos musicais reais.",
+        "es": "Escucha y reconoce los sonidos modales en contextos musicales reales."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

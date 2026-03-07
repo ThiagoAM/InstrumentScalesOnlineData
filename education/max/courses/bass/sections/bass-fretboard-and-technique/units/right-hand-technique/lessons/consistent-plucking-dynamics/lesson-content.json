@@ -1,0 +1,86 @@
+{
+  "id": "consistent-plucking-dynamics",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Consistent plucking dynamics\nIn this lesson you’ll work on keeping your **plucking volume and tone steady**.\n\nGood dynamics mean:\n- Notes are **even** (no random loud or weak ones)\n- You can play **soft or loud on purpose**\n- Grooves feel **solid** and controlled",
+          "zh-Hans": "# 稳定的拨弦力度\n在本课中，你会练习让右手拨弦的**音量和音色更稳定**。\n\n好的力度控制意味着：\n- 每个音都比较**均匀**（没有突然特别大或特别小）\n- 你可以**有意识地**弹轻或弹重\n- groove（节奏感）听起来更**稳、更有控制**",
+          "de": "# Gleichmäßige Anschlagsdynamik\nIn dieser Lektion arbeitest du daran, **Lautstärke und Klang** deiner Anschläge gleichmäßig zu halten.\n\nGute Dynamik bedeutet:\n- Die Töne sind **ausgeglichen** (keine zufälligen lauten oder schwachen Noten)\n- Du kannst **bewusst leise oder laut** spielen\n- Grooves klingen **stabil** und kontrolliert",
+          "ja": "# そろったピッキングのダイナミクス\nこのレッスンでは、右手のピッキングで出る**音量と音色をそろえる**ことを練習します。\n\nダイナミクスをコントロールできると：\n- 1音1音が**ばらつかず**にそろう\n- **わざと**小さく・大きく弾き分けられる\n- グルーヴが**安定して、締まった印象**になる",
+          "pt-BR": "# Dinâmica de ataque consistente\nNesta lição você vai trabalhar para manter a **intensidade e o timbre** do ataque da mão direita mais estáveis.\n\nBoa dinâmica significa:\n- Notas **por igual** (sem umas estourando e outras sumindo)\n- Você toca **baixo ou alto de propósito**\n- Os grooves soam **firmes** e controlados",
+          "es": "# Dinámica de ataque consistente\nEn esta lección vas a trabajar para mantener la **intensidad y el timbre** de tu mano derecha más parejos.\n\nUna buena dinámica significa:\n- Notas **uniformes** (sin golpes al azar muy fuertes o muy débiles)\n- Puedes tocar **suave o fuerte a propósito**\n- Los grooves se sienten **sólidos** y controlados"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup: tone and touch\n- Rest your **thumb** on a string or pickup so the hand feels stable\n- Use **index and middle** fingers like in alternating-finger technique\n- Pluck **across the string**, not yanking it up\n- Aim for a **clean, round** sound (no harsh click)\n\nPlay a few notes on the **A string** and listen carefully before starting the exercises.",
+          "zh-Hans": "# 准备：手感与音色\n- 用大拇指搭在某根弦或拾音器上，让右手感觉稳定\n- 像交替拨弦那样，用**食指和中指**来拨弦\n- 让手指**横向划过琴弦**，而不是向外猛拉\n- 尽量得到**干净、圆润**的音色（不要很刺耳的“啪”声）\n\n先在 **A 弦**上随便弹几下，认真听一听自己的音色，再开始练习。",
+          "de": "# Setup: Klang und Anschlag\n- Lege den **Daumen** auf eine Saite oder den Pickup, damit die Hand stabil ist\n- Benutze **Zeige- und Mittelfinger** wie beim Wechselschlag\n- Zupfe **quer über die Saite**, nicht nach oben weg\n- Ziel ist ein **klarer, runder** Ton (kein hartes Klicken)\n\nSpiel ein paar Töne auf der **A-Saite** und hör genau hin, bevor du mit den Übungen startest.",
+          "ja": "# セットアップ：音色とタッチ\n- 右手の**親指**を弦かピックアップに軽く乗せて、手の安定感をつくる\n- オルタネイトと同じように、**人差し指と中指**でピッキングする\n- 弦を**横に押し出して離す**イメージで、上に強く引っ張らない\n- **丸くてクリアな**音を目標にする（カチッとしたノイズを減らす）\n\nまずは **A弦**で何音か弾いて、自分の音をよく聞いてからエクササイズに入っていきましょう。",
+          "pt-BR": "# Preparação: som e toque\n- Apoie o **polegar** em uma corda ou no captador para a mão ficar estável\n- Use os dedos **indicador e médio**, como na técnica de alternância\n- Puxe **atravessando a corda**, sem “chicotear” pra cima\n- Busque um som **limpo e arredondado** (sem estalo exagerado)\n\nToque algumas notas na **corda A** e preste atenção no som antes de começar os exercícios.",
+          "es": "# Preparación: sonido y toque\n- Apoya el **pulgar** en una cuerda o en la pastilla para que la mano esté estable\n- Usa los dedos **índice y medio**, igual que en la técnica de alternancia\n- Tira **a través de la cuerda**, sin arrancarla hacia arriba\n- Apunta a un sonido **limpio y redondo** (sin demasiado “clic” duro)\n\nToca algunas notas en la **cuerda A** y escucha con atención antes de empezar los ejercicios."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 1 – Even notes on one string\nGoal: every note **same volume, same tone**.\n\nOn the **A string**:\n- Play **8 slow quarter notes** with alternating fingers (i–m–i–m…)\n- Count **1–2–3–4**, twice\n- Watch that your **hand doesn’t tense up** as you try to play evenly\n\nIf one note jumps out or disappears, slow down and adjust your touch until everything feels level.",
+          "zh-Hans": "# 练习1——同一根弦上的均匀音量\n目标：每个音的**音量和音色尽量一致**。\n\n在 **A 弦**上：\n- 用交替拨弦弹 **8 个慢速四分音符**（i–m–i–m…）\n- 按 **1–2–3–4** 数两小节\n- 注意在追求均匀时，右手**不要变得紧张**\n\n如果有某个音特别大或小，就先放慢一点，微调手指触弦的力度，让整体听起来平衡。",
+          "de": "# Übung 1 – Gleichmäßige Töne auf einer Saite\nZiel: Jeder Ton hat **ähnliche Lautstärke und Klang**.\n\nAuf der **A-Saite**:\n- Spiele **8 langsame Viertelnoten** mit Wechselschlag (i–m–i–m…)\n- Zähle **1–2–3–4**, zwei Takte lang\n- Achte darauf, dass die **Hand nicht verkrampft**, während du gleichmäßig bleiben willst\n\nWenn ein Ton heraussticht oder verschwindet, werd langsamer und passe den Anschlag an, bis alles gleichmäßig wirkt.",
+          "ja": "# エクササイズ1 – 1本の弦で音量をそろえる\nゴール：1音1音の**大きさと音色をそろえる**こと。\n\n**A弦**で：\n- オルタネイトで**ゆっくり8つの4分音符**を弾きます（i–m–i–m…）\n- 「1・2・3・4」と2小節ぶんカウント\n- そろえようとして**右手に力が入りすぎない**ように注意します\n\nもしある音だけ飛び出したり、弱すぎたりしたら、テンポを落としてタッチを調整し、全体がフラットに聞こえるようにしていきましょう。",
+          "pt-BR": "# Exercício 1 – Notas iguais em uma corda\nObjetivo: cada nota com **mesma intensidade e mesmo tipo de som**.\n\nNa **corda A**:\n- Toque **8 semínimas bem lentas** alternando os dedos (i–m–i–m…)\n- Conte **1–2–3–4**, duas vezes\n- Repare se a **mão não está travando** enquanto você tenta nivelar as notas\n\nSe uma nota “estoura” ou quase some, diminua o tempo e ajuste o toque até tudo soar por igual.",
+          "es": "# Ejercicio 1 – Notas parejas en una cuerda\nObjetivo: cada nota con **misma intensidad y timbre**.\n\nEn la **cuerda A**:\n- Toca **8 negras lentas** alternando los dedos (i–m–i–m…)\n- Cuenta **1–2–3–4**, dos veces\n- Fíjate en que la **mano no se ponga tensa** mientras buscas la uniformidad\n\nSi una nota sobresale o casi no se oye, baja el tempo y ajusta tu toque hasta que todo se sienta nivelado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 2 – Controlled accents\nNow you’ll **choose** which notes are louder.\n\nOn the A string, play groups of 4 notes:\n- Pattern 1: **Accent beat 1**  \n  > LOUD – soft – soft – soft\n- Pattern 2: **Accent beat 2**  \n  > soft – LOUD – soft – soft\n- Pattern 3: **Accent beat 3**  \n  > soft – soft – LOUD – soft\n- Pattern 4: **Accent beat 4**  \n  > soft – soft – soft – LOUD\n\nKeep the soft notes really together and round. The accent should **stand out**, but not turn into an ugly hit.",
+          "zh-Hans": "# 练习2——可控的重音\n现在由你来**决定哪一个音更大声**。\n\n在 A 弦上，每4个音为一组：\n- 模式1：**第1拍重音**  \n  > 大 – 小 – 小 – 小\n- 模式2：**第2拍重音**  \n  > 小 – 大 – 小 – 小\n- 模式3：**第3拍重音**  \n  > 小 – 小 – 大 – 小\n- 模式4：**第4拍重音**  \n  > 小 – 小 – 小 – 大\n\n保持“轻”的那些音**紧凑、圆润**。重音要能**清楚跳出来**，但不要变成很难听的“砸弦”。",
+          "de": "# Übung 2 – Bewusste Akzente\nJetzt entscheidest **du**, welche Töne lauter sind.\n\nAuf der A-Saite, in Vierergruppen:\n- Muster 1: **Zählzeit 1 betonen**  \n  > LAUT – leise – leise – leise\n- Muster 2: **Zählzeit 2 betonen**  \n  > leise – LAUT – leise – leise\n- Muster 3: **Zählzeit 3 betonen**  \n  > leise – leise – LAUT – leise\n- Muster 4: **Zählzeit 4 betonen**  \n  > leise – leise – leise – LAUT\n\nDie leisen Töne sollen **schön zusammen** und rund klingen. Der Akzent soll **klar herauskommen**, aber nicht wie ein hässlicher Schlag wirken.",
+          "ja": "# エクササイズ2 – 重心（アクセント）をコントロールする\nここでは、**どの拍を強くするか自分で決めて**弾きます。\n\nA弦で、4つずつのまとまりで練習：\n- パターン1：**1拍目にアクセント**  \n  > 強 – 弱 – 弱 – 弱\n- パターン2：**2拍目にアクセント**  \n  > 弱 – 強 – 弱 – 弱\n- パターン3：**3拍目にアクセント**  \n  > 弱 – 弱 – 強 – 弱\n- パターン4：**4拍目にアクセント**  \n  > 弱 – 弱 – 弱 – 強\n\n弱い音は**そろえて、丸く**出すのがポイントです。アクセントは**ちゃんと目立つ**けど、ガツンと汚くならないようにコントロールしましょう。",
+          "pt-BR": "# Exercício 2 – Acidentes controlados\nAgora você vai **escolher** quais notas ficam mais fortes.\n\nNa corda A, toque em grupos de 4 notas:\n- Padrão 1: **acento no tempo 1**  \n  > FORTE – fraca – fraca – fraca\n- Padrão 2: **acento no tempo 2**  \n  > fraca – FORTE – fraca – fraca\n- Padrão 3: **acento no tempo 3**  \n  > fraca – fraca – FORTE – fraca\n- Padrão 4: **acento no tempo 4**  \n  > fraca – fraca – fraca – FORTE\n\nDeixe as notas fracas **bem juntinhas e redondas**. O acento deve **destacar**, mas sem virar uma pancada feia.",
+          "es": "# Ejercicio 2 – Acentos controlados\nAhora vas a **decidir** qué notas son más fuertes.\n\nEn la cuerda A, toca en grupos de 4 notas:\n- Patrón 1: **acento en el tiempo 1**  \n  > FUERTE – suave – suave – suave\n- Patrón 2: **acento en el tiempo 2**  \n  > suave – FUERTE – suave – suave\n- Patrón 3: **acento en el tiempo 3**  \n  > suave – suave – FUERTE – suave\n- Patrón 4: **acento en el tiempo 4**  \n  > suave – suave – suave – FUERTE\n\nMantén las notas suaves **muy parejas y redondas**. El acento debe **resaltar**, pero sin convertirse en un golpe feo o roto."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Exercise 3 – Soft, medium, loud\nNow practice **three clear levels** of dynamics:\n\nOn any string:\n- Play 4 notes **soft** (imagine “whisper”)\n- Then 4 notes **medium** (normal speaking voice)\n- Then 4 notes **loud** (strong but not smashed)\n\nRepeat a few times. The jump from soft → medium → loud should feel **smooth and controlled**, not like three different techniques.",
+          "zh-Hans": "# 练习3——小声、中等、大声\n接下来练习**三种清晰的力度等级**：\n\n在任意一根弦上：\n- 先弹 4 个**小声**的音（想象“轻声说话”甚至“耳语”）\n- 再弹 4 个**中等音量**的音（正常说话）\n- 最后弹 4 个**偏大声**的音（有力但不暴力）\n\n重复几遍。从小 → 中 → 大 的变化要**流畅、有控制感**，而不是三种完全不同的动作。",
+          "de": "# Übung 3 – Leise, mittel, laut\nJetzt übst du **drei klare Lautstärkestufen**:\n\nAuf einer beliebigen Saite:\n- Spiele 4 Töne **leise** (wie ein „Flüstern“)\n- Dann 4 Töne **mittel** (normale Sprechlautstärke)\n- Dann 4 Töne **laut** (kräftig, aber nicht brutal)\n\nWiederhole das ein paar Mal. Der Übergang von leise → mittel → laut sollte sich **weich und kontrolliert** anfühlen, nicht wie drei ganz verschiedene Techniken.",
+          "ja": "# エクササイズ3 – 小・中・大の3段階\nここでは**3つのはっきりした音量レベル**を作ります。\n\n好きな弦で：\n- まず**小さめ**で4音（ささやくようなイメージ）\n- 次に**ふつうの大きさ**で4音（日常会話くらい）\n- 最後に**大きめ**で4音（力強いけど、叩きつけない）\n\nこれを何回かくり返します。小 → 中 → 大の変化が、**なめらかでコントロールされている**感覚になるまで練習しましょう。",
+          "pt-BR": "# Exercício 3 – Fraco, médio e forte\nAgora vamos praticar **três níveis claros** de dinâmica:\n\nEm qualquer corda:\n- Toque 4 notas **bem fracas** (pense em “sussurro”)\n- Depois 4 notas em volume **médio** (voz normal)\n- Depois 4 notas **fortes** (cheias, mas sem espancar a corda)\n\nRepita algumas vezes. A transição de fraco → médio → forte deve ser **suave e controlada**, não três técnicas totalmente diferentes.",
+          "es": "# Ejercicio 3 – Suave, medio y fuerte\nAhora practica **tres niveles claros** de dinámica:\n\nEn cualquier cuerda:\n- Toca 4 notas **suaves** (imagina un “susurro”) \n- Luego 4 notas a volumen **medio** (voz normal)\n- Luego 4 notas **fuertes** (con energía pero sin golpear la cuerda)\n\nRepítelo varias veces. El paso de suave → medio → fuerte debe sentirse **suave y controlado**, no como tres técnicas distintas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. 2 minutes of **even notes** on one string (Exercise 1).  \n2. 2 minutes of **accent patterns** (move the accent through beats 1–4).  \n3. 2 minutes of **soft–medium–loud** ladders on different strings.\n\nStay relaxed, listen more than you think you need to, and let your right hand learn what **controlled dynamics** feel like.",
+          "zh-Hans": "# 快速练习流程\n1. 练习 **均匀音量** 2 分钟（练习1，在同一根弦上）。  \n2. 练习 **重音模式** 2 分钟（在第1–4拍之间移动重音）。  \n3. 在不同弦上做 **小声–中声–大声** 的三级练习 2 分钟。\n\n保持身体放松，多用耳朵检查，比你想象的还要多听一点，让右手慢慢记住**受控力度**的感觉。",
+          "de": "# Kurze Übe-Routine\n1. 2 Minuten **gleichmäßige Töne** auf einer Saite (Übung 1).  \n2. 2 Minuten **Akzentmuster** (den Akzent über Zählzeit 1–4 wandern lassen).  \n3. 2 Minuten **leise–mittel–laut**-Leitern auf verschiedenen Saiten.\n\nBleib locker, hör genauer hin, als du denkst, dass nötig ist, und lass die rechte Hand lernen, wie sich **kontrollierte Dynamik** anfühlt.",
+          "ja": "# かんたん練習ルーティン\n1. **音量そろえエクササイズ**を2分（エクササイズ1・同じ弦で）。  \n2. **アクセント移動エクササイズ**を2分（1〜4拍のどこに置くかを変える）。  \n3. いろんな弦で **小→中→大エクササイズ**を2分。\n\n力を抜いて、思っている以上にしっかり耳を使いながら、右手に**コントロールされたダイナミクス**の感覚を覚えさせていきましょう。",
+          "pt-BR": "# Rotina rápida de prática\n1. 2 minutos de **notas niveladas** em uma corda (Exercício 1).  \n2. 2 minutos de **padrões de acento** (deixando o acento passear pelos tempos 1–4).  \n3. 2 minutos de **fraco–médio–forte** em escadinha, em cordas diferentes.\n\nFique relaxado, ouça mais do que você acha que precisa, e deixe a mão direita decorar como é a sensação de ter **dinâmica sob controle**.",
+          "es": "# Rutina rápida de práctica\n1. 2 minutos de **notas parejas** en una cuerda (Ejercicio 1).  \n2. 2 minutos de **patrones de acento** (moviendo el acento entre los tiempos 1–4).  \n3. 2 minutos de **suave–medio–fuerte** en forma de escalera, en distintas cuerdas.\n\nMantente relajado, escucha más de lo que crees que hace falta y deja que tu mano derecha aprenda cómo se siente tener la **dinámica bajo control**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

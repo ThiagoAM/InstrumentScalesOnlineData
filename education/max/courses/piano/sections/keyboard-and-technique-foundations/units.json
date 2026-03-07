@@ -1,0 +1,83 @@
+[
+  {
+    "id": "keyboard-map-and-intervals",
+    "name": {
+      "values": {
+        "en": "Keyboard Map and Intervals",
+        "zh-Hans": "键盘图解与音程",
+        "de": "Tastaturbelegung und Intervalle",
+        "ja": "キーボードマップと音程",
+        "pt-BR": "Mapa do Teclado e Intervalos",
+        "es": "Mapa del teclado e intervalos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Keyboard Map and Intervals",
+        "zh-Hans": "键盘图解与音程",
+        "de": "Tastaturbelegung und Intervalle",
+        "ja": "キーボードマップと音程",
+        "pt-BR": "Mapa do Teclado e Intervalos",
+        "es": "Mapa del teclado e intervalos"
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "hand-position-and-fingering",
+    "name": {
+      "values": {
+        "en": "Hand Position and Fingering",
+        "zh-Hans": "手型与指法",
+        "de": "Handposition und Fingersatz",
+        "ja": "手の位置と運指",
+        "pt-BR": "Posição da Mão e Dedilhado",
+        "es": "Posición de la mano y digitación"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hand Position and Fingering",
+        "zh-Hans": "手型与指法",
+        "de": "Handposition und Fingersatz",
+        "ja": "手の位置と運指",
+        "pt-BR": "Posição da Mão e Dedilhado",
+        "es": "Posición de la mano y digitación"
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-and-natural-minor-scales",
+    "name": {
+      "values": {
+        "en": "Major and Natural Minor Scales",
+        "zh-Hans": "大调与自然小调音阶",
+        "de": "Dur- und natürliche Moll-Tonleitern",
+        "ja": "メジャーおよびナチュラルマイナースケール",
+        "pt-BR": "Escalas Maiores e Menores Naturais",
+        "es": "Escalas mayores y menores naturales"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Major and Natural Minor Scales",
+        "zh-Hans": "大调与自然小调音阶",
+        "de": "Dur- und natürliche Moll-Tonleitern",
+        "ja": "メジャーおよびナチュラルマイナースケール",
+        "pt-BR": "Escalas Maiores e Menores Naturais",
+        "es": "Escalas mayores y menores naturales"
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

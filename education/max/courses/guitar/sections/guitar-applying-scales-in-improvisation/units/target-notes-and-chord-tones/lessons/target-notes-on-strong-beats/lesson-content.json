@@ -1,0 +1,73 @@
+{
+  "id": "target-notes-on-strong-beats",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Target notes on strong beats\nTarget notes sound most solid when they land on **strong beats** of the bar.\n\nIn this lesson you’ll:\n- Feel the **strong beats** in 4/4\n- Aim **chord tones** at those beats\n- Make your lines sound more **grounded and musical**\n\nYou can use any scale you know, but we’ll think in **4/4 with beats 1 and 3** as our main anchors.",
+          "zh-Hans": "# 在强拍上落到目标音\n当目标音落在小节的**强拍**上时，听起来会特别稳定、有底气。\n\n本课你会：\n- 感受 4/4 中的**强拍**\n- 让**和弦音**落在这些拍子上\n- 让你的乐句听起来更**扎实、更有音乐感**\n\n可以用任何你熟悉的音阶，这里假定是 **4/4 拍，中间第 1 拍和第 3 拍最“重”**。",
+          "de": "# Zieltöne auf starken Zählzeiten\nZieltöne klingen am stabilsten, wenn sie auf **starken Zählzeiten** des Taktes landen.\n\nIn dieser Lektion wirst du:\n- Die **starken Zählzeiten** im 4/4-Takt fühlen\n- **Akkordtöne** gezielt auf diese Zählzeiten legen\n- Deine Linien **geerdeter und musikalischer** klingen lassen\n\nDu kannst jede dir vertraute Skala verwenden. Wir denken im **4/4-Takt, mit 1 und 3 als Hauptankerpunkte**.",
+          "ja": "# 強拍にターゲットノートを置く\nターゲットノートは、小節の**強拍**に着地したときにいちばん安定して聞こえます。\n\nこのレッスンでは：\n- 4/4の中の**強拍**を感じて\n- その拍に**コードトーン**を狙って置き\n- ラインをより**安定して音楽的**にしていきます。\n\n使うスケールは何でもOKですが、ここでは **4/4で1拍目と3拍目** をメインのアンカーとして考えます。",
+          "pt-BR": "# Notas-alvo em tempos fortes\nAs notas-alvo soam mais firmes quando caem em **tempos fortes** do compasso.\n\nNesta lição você vai:\n- Sentir os **tempos fortes** no 4/4\n- Mirar **notas do acorde** nesses tempos\n- Deixar suas frases mais **firmes e musicais**\n\nUse qualquer escala que já conheça. Vamos pensar em **4/4, com os tempos 1 e 3** como principais pontos de apoio.",
+          "es": "# Notas objetivo en los tiempos fuertes\nLas notas objetivo suenan más sólidas cuando caen en los **tiempos fuertes** del compás.\n\nEn esta lección vas a:\n- Sentir los **tiempos fuertes** en 4/4\n- Apuntar **notas de acorde** a esos tiempos\n- Hacer que tus líneas suenen más **firmes y musicales**\n\nPuedes usar cualquier escala que ya conozcas. Pensaremos en **4/4, con los tiempos 1 y 3** como anclas principales."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hearing strong beats\nCount a 4/4 bar out loud:\n> **ONE** 2 **THREE** 4\n\nLet **1 and 3** feel heavier:\n- Tap your foot on every beat\n- Nod a little stronger on **1** and **3**\n\nNow loop a simple chord (for example **C** or **Am**) and just:\n- Play **one chord tone** on beat 1\n- Rest on 2, 3, 4\n\nThis exaggerates how “important” beat 1 is for your target notes.",
+          "zh-Hans": "# 听出强拍\n大声数一个 4/4 小节：\n> **ONE** 2 **THREE** 4（可以用中文：**一** 2 **三** 4）\n\n让 **1 和 3** 感觉更重：\n- 每一拍都用脚打拍子\n- 在 **1 和 3** 上点头、身体带一点重心\n\n现在循环一个简单和弦（比如 **C** 或 **Am**），只做一件事：\n- 在第 1 拍弹**一个和弦音**\n- 2、3、4 拍都休止\n\n故意夸张之后，你会更清楚第 1 拍对目标音有多“关键”。",
+          "de": "# Starke Zählzeiten hören\nZähle einen 4/4-Takt laut:\n> **EINS** 2 **DREI** 4\n\nLass **1 und 3** schwerer wirken:\n- Tipp mit dem Fuß auf jede Zählzeit\n- Nicke auf **1** und **3** ein bisschen stärker\n\nLoop nun einen einfachen Akkord (z. B. **C** oder **Am**) und:\n- Spiele auf Zählzeit 1 **einen Akkordton**\n- Lass 2, 3 und 4 **frei**\n\nSo übertreibst du die Bedeutung von Zählzeit 1 und merkst, wie wichtig sie für deine Zieltöne ist.",
+          "ja": "# 強拍を耳と体で感じる\nまず4/4を声に出して数えます：\n> **ONE** 2 **THREE** 4（日本語なら「**イチ** 2 **サン** 4」など）\n\n**1拍目と3拍目**を少し重く感じましょう：\n- 全ての拍で足を踏む\n- 特に **1拍目と3拍目** で、少し大きくうなずく\n\n次に、シンプルなコード（例：**C** や **Am**）をループさせて：\n- 1拍目にだけ**コードトーンを1つ**弾く\n- 2、3、4拍目は何も弾かない\n\nちょっと大げさなくらいにやると、1拍目がターゲットノートにとってどれだけ大事か、体で分かってきます。",
+          "pt-BR": "# Sentindo os tempos fortes\nConte um compasso de 4/4 em voz alta:\n> **UM** 2 **TRÊS** 4\n\nDeixe o **1 e o 3** mais pesados:\n- Bata o pé em todos os tempos\n- Dê uma enfatizada maior no **1** e no **3**\n\nAgora faça um loop de um acorde simples (por exemplo **C** ou **Am**) e só:\n- Toque **uma nota do acorde** no tempo 1\n- Deixe 2, 3 e 4 em silêncio\n\nEsse exagero deixa bem claro o quanto o tempo 1 é importante para as notas-alvo.",
+          "es": "# Escuchando los tiempos fuertes\nCuenta un compás de 4/4 en voz alta:\n> **UNO** 2 **TRES** 4\n\nHaz que **1 y 3** se sientan más pesados:\n- Marca todos los tiempos con el pie\n- Asiente un poco más en **1** y **3**\n\nAhora haz un loop con un acorde sencillo (por ejemplo **C** o **Am**) y simplemente:\n- Toca **una nota del acorde** en el tiempo 1\n- Deja 2, 3 y 4 en silencio\n\nEsta exageración deja claro lo importante que es el tiempo 1 para tus notas objetivo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hitting chord tones on 1 and 3\nPick one chord and a matching scale (for example C over **C major scale**).\n\nPlay **constant 8th-notes**:\n> 1 & 2 & 3 & 4 &\n\nYour rule:\n- On beat **1** → play a **chord tone**\n- On beat **3** → play a **chord tone**\n- On the **&’s** in between → any scale notes you like\n\nDon’t worry about being clever. Just keep the flow of 8ths and make sure **1 and 3 always land on 1, 3, or 5** of the chord.",
+          "zh-Hans": "# 让和弦音落在第 1 和第 3 拍\n选一个和弦和对应音阶（比如 C 和 **C 大调音阶**）。\n\n弹一串**连续八分音符**：\n> 1 & 2 & 3 & 4 &\n\n给自己定个规则：\n- 在第 **1 拍** → 必须弹**和弦音**\n- 在第 **3 拍** → 也必须弹**和弦音**\n- 中间所有的 **& 拍** → 随便用音阶里的其它音\n\n不用想花招，只要让八分音符不断，然后保证 **1 和 3 拍永远落在 1、3 或 5 度** 上就行。",
+          "de": "# Akkordtöne auf 1 und 3 treffen\nWähle einen Akkord und eine passende Skala (z. B. C über die **C-Dur-Tonleiter**).\n\nSpiele **durchgehende Achtelnoten**:\n> 1 & 2 & 3 & 4 &\n\nDeine Regel:\n- Auf Zählzeit **1** → immer ein **Akkordton**\n- Auf Zählzeit **3** → ebenfalls ein **Akkordton**\n- Auf den **&** dazwischen → beliebige Skalentöne\n\nMach dir keine Sorgen um „coole“ Licks. Wichtig ist nur: der Achtel-Flow bleibt und **1 und 3 landen immer auf 1, 3 oder 5** des Akkords.",
+          "ja": "# 1拍目と3拍目にコードトーンを当てる\n1つコードを選び、それに合うスケールを使います（例：Cに対して **Cメジャー・スケール**）。\n\n**ずっと8分音符**で弾きます：\n> 1 & 2 & 3 & 4 &\n\nルールはシンプル：\n- **1拍目** → 必ず**コードトーン**を弾く\n- **3拍目** → ここも必ず**コードトーン**\n- その間の **＆（裏拍）** → スケールの中なら何を弾いてもOK\n\nカッコいいフレーズを作ろうとしなくて大丈夫。とにかく8分を流し続けて、**1拍目と3拍目だけは必ず1度・3度・5度に着地**させます。",
+          "pt-BR": "# Acertando notas do acorde nos tempos 1 e 3\nEscolha um acorde e uma escala que combine com ele (por exemplo C com a **escala de C maior**).\n\nToque **colcheias o tempo todo**:\n> 1 & 2 & 3 & 4 &\n\nRegra do jogo:\n- No tempo **1** → tem que ser **nota do acorde**\n- No tempo **3** → também **nota do acorde**\n- Nos **&** entre eles → qualquer nota da escala\n\nNão se preocupe em ser criativo. Só mantenha o fluxo de colcheias e garanta que **1 e 3 sempre caiam na 1ª, 3ª ou 5ª** do acorde.",
+          "es": "# Acertar notas de acorde en 1 y 3\nElige un acorde y una escala que le encaje (por ejemplo C con la **escala de Do mayor**).\n\nToca **corcheas constantes**:\n> 1 & 2 & 3 & 4 &\n\nRegla:\n- En el tiempo **1** → tiene que ser una **nota de acorde**\n- En el tiempo **3** → también una **nota de acorde**\n- En las **&** entre medio → cualquier nota de la escala\n\nNo intentes ser ingenioso. Sólo mantén el flujo de corcheas y asegúrate de que **1 y 3 siempre caigan en 1, 3 o 5** del acorde."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# When chords change\nNow use two chords, for example:\n> | C | F |\n\nOver **C**:\n- Beat 1 and 3 → chord tones of **C** (C–E–G)\n\nWhen the bar changes to **F**:\n- Beat 1 and 3 → chord tones of **F** (F–A–C)\n\nKeep 8th-notes running, but **switch your target notes** when the chord changes.\n\nEven with simple lines, the solo will suddenly sound like it’s really **following the progression**.",
+          "zh-Hans": "# 当和弦发生变化时\n现在用两个和弦，比如：\n> | C | F |\n\n在 **C** 这一小节：\n- 第 1、3 拍 → 用 **C 和弦音**（C–E–G）\n\n当小节换到 **F** 时：\n- 第 1、3 拍 → 用 **F 和弦音**（F–A–C）\n\n仍然保持八分音符不断，只是在和弦一变时，**目标音也跟着换**。\n\n哪怕旋律本身很简单，独奏立刻会听起来更像真的在**跟着和弦走**。",
+          "de": "# Wenn sich die Akkorde ändern\nNimm jetzt zwei Akkorde, zum Beispiel:\n> | C | F |\n\nÜber **C**:\n- Zählzeit 1 und 3 → Akkordtöne von **C** (C–E–G)\n\nWenn der Takt zu **F** wechselt:\n- Zählzeit 1 und 3 → Akkordtöne von **F** (F–A–C)\n\nDie Achtel laufen durch, aber du **wechselst deine Zieltöne**, sobald der Akkord wechselt.\n\nSelbst mit einfachen Linien klingt dein Solo plötzlich so, als würde es wirklich **der Akkordfolge folgen**.",
+          "ja": "# コードチェンジに合わせてターゲットを変える\n今度はコードを2つ使います。例：\n> | C | F |\n\n**Cの小節** では：\n- 1拍目と3拍目 → **Cコードのトーン**（C–E–G）を狙う\n\n次の小節が **F** に変わったら：\n- 1拍目と3拍目 → **Fコードのトーン**（F–A–C）に切り替える\n\n8分音符は止めずに、そのまま流しつつ、コードが変わった瞬間に**ターゲットノートも切り替える**イメージです。\n\nライン自体はシンプルでも、急にソロが**コード進行をちゃんと追いかけている**ように聞こえてきます。",
+          "pt-BR": "# Quando o acorde troca\nAgora use dois acordes, por exemplo:\n> | C | F |\n\nNo compasso de **C**:\n- Tempos 1 e 3 → notas do acorde de **C** (C–E–G)\n\nQuando o compasso vai para **F**:\n- Tempos 1 e 3 → notas do acorde de **F** (F–A–C)\n\nAs colcheias continuam rolando, mas você **troca as notas-alvo** quando o acorde muda.\n\nMesmo com frases simples, o solo passa a soar como se estivesse realmente **seguindo a progressão**.",
+          "es": "# Cuando cambian los acordes\nAhora usa dos acordes, por ejemplo:\n> | C | F |\n\nSobre **C**:\n- Tiempos 1 y 3 → notas de acorde de **C** (C–E–G)\n\nCuando el compás pasa a **F**:\n- Tiempos 1 y 3 → notas de acorde de **F** (F–A–C)\n\nLas corcheas siguen corriendo, pero **cambias tus notas objetivo** cuando cambia el acorde.\n\nAunque las líneas sean sencillas, el solo de pronto suena como si realmente **siguiera la progresión**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nFor 5–10 minutes:\n1. Pick **one chord** and its scale.\n2. Play 8th-note lines where **beats 1 and 3 are always chord tones**.\n3. When that feels easy, use **two chords** (like C → F or Am → Dm) and switch your targets when the chord changes.\n\nIf the harmony still feels clear when you **mute the backing track in your head**, you’re really nailing target notes on strong beats.",
+          "zh-Hans": "# 小练习\n练习 5–10 分钟：\n1. 先选**一个和弦 + 对应音阶**。\n2. 弹一串八分音符，让**每小节的第 1 和第 3 拍始终是和弦音**。\n3. 觉得轻松之后，改用 **两个和弦**（比如 C → F 或 Am → Dm），在换和弦时也换目标音。\n\n如果哪怕在脑子里**把伴奏静音**，你也能从你的独奏里清楚听到和声的走向，那就说明你真的在强拍上稳稳抓住了目标音。",
+          "de": "# Kurze Übung\nFür 5–10 Minuten:\n1. Wähle **einen Akkord** und eine passende Skala.\n2. Spiele Achtellinien, bei denen **in jedem Takt die Zählzeiten 1 und 3 Akkordtöne sind**.\n3. Wenn das sitzt, nimm **zwei Akkorde** (z. B. C → F oder Am → Dm) und wechsel deine Zieltöne mit dem Akkord.\n\nWenn du dir innerlich das Backing **wegdenkst** und trotzdem die Harmonie in deinem Solo hörst, triffst du deine Zieltöne auf den starken Zählzeiten richtig gut.",
+          "ja": "# かんたん練習\n5〜10分だけ、次の流れでやってみてください：\n1. まずは **1つのコード＋そのスケール** を選ぶ。\n2. 8分音符のラインを弾きつつ、**毎小節の1拍目と3拍目は必ずコードトーン**にする。\n3. 慣れてきたら、**2つのコード**（例：C → F、Am → Dm）を使って、コードチェンジに合わせてターゲットも切り替える。\n\n頭の中でバッキングを**ミュートしたとしても**、ソロの中からコード進行がなんとなく聞こえてくるなら、強拍でのターゲットノートはかなりいい感じです。",
+          "pt-BR": "# Prática rápida\nPor 5–10 minutos:\n1. Escolha **um acorde** e a escala correspondente.\n2. Toque linhas em colcheias onde **os tempos 1 e 3 sejam sempre notas do acorde**.\n3. Quando isso estiver tranquilo, use **dois acordes** (tipo C → F ou Am → Dm) e troque as notas-alvo quando o acorde mudar.\n\nSe mesmo **imaginando o playback em silêncio** você ainda escuta claramente a harmonia dentro do seu solo, é porque você está acertando bem as notas-alvo nos tempos fortes.",
+          "es": "# Práctica rápida\nDurante 5–10 minutos:\n1. Elige **un acorde** y su escala.\n2. Toca líneas de corcheas donde **los tiempos 1 y 3 sean siempre notas de acorde**.\n3. Cuando eso sea fácil, usa **dos acordes** (por ejemplo C → F o Am → Dm) y cambia tus notas objetivo cuando cambie el acorde.\n\nSi aun **imaginando la base en silencio** sigues escuchando claramente la armonía dentro de tu solo, es que estás clavando bien las notas objetivo en los tiempos fuertes."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

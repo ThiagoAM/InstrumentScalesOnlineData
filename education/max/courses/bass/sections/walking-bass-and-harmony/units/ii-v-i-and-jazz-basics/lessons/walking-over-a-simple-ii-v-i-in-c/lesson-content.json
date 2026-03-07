@@ -1,0 +1,73 @@
+{
+  "id": "walking-over-a-simple-ii-v-i-in-c",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Walking over a simple II–V–I in C\nThe **II–V–I** is the most common jazz progression. In C major it’s:\n\n- **Dm7** (II)\n- **G7** (V)\n- **Cmaj7** (I)\n\nIn this lesson you’ll walk in **quarter notes**, keeping clear roots on each bar and a steady swing feel.",
+          "zh-Hans": "# 在 C 调简单 II–V–I 上行进\n在爵士乐里，**II–V–I** 是最常见的和弦进行。在 C 大调里是：\n\n- **Dm7**（II）\n- **G7**（V）\n- **Cmaj7**（I）\n\n本课你会用**四分音符**来走线，让每小节的根音清楚、节奏稳定、有 swing 感。",
+          "de": "# Walking über eine einfache II–V–I in C\nDie **II–V–I** ist die häufigste Jazz-Kadenz. In C-Dur lautet sie:\n\n- **Dm7** (II)\n- **G7** (V)\n- **Cmaj7** (I)\n\nIn dieser Lektion spielst du **Viertelnoten-Walking**, mit klaren Grundtönen pro Takt und einem stabilen Swing-Feeling.",
+          "ja": "# Cメジャーのシンプルな II–V–I でウォーキング\nジャズで一番よく出てくる進行が **II–V–I** です。Cメジャーでは：\n\n- **Dm7**（II）\n- **G7**（V）\n- **Cmaj7**（I）\n\nこのレッスンでは、各小節のルートをハッキリさせながら、**4分音符**でシンプルにウォーキングしていきます。",
+          "pt-BR": "# Walking em um II–V–I simples em Dó\nO **II–V–I** é a progressão mais comum do jazz. Em Dó maior ela é:\n\n- **Dm7** (II)\n- **G7** (V)\n- **Cmaj7** (I)\n\nNesta lição você vai caminhar em **semínimas**, mantendo as tônicas bem claras em cada compasso e um swing firme.",
+          "es": "# Walking sobre un II–V–I simple en Do\nLa **II–V–I** es la progresión más típica del jazz. En Do mayor es:\n\n- **Dm7** (II)\n- **G7** (V)\n- **Cmaj7** (I)\n\nEn esta lección vas a caminar en **negras**, con tónicas claras en cada compás y un swing estable."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Roots on the neck\n4-string bass tuned E–A–D–G. We’ll stay in the middle of the neck:\n\n- **D (Dm7)** – 3rd string (A), 5th fret\n- **G (G7)** – 2nd string (D), 5th fret\n- **C (Cmaj7)** – 3rd string (A), 3rd fret\n\nKeep your hand relaxed around frets 3–5. These root notes are your **home base** for this progression.",
+          "zh-Hans": "# 指板上的根音\n4 弦贝斯，E–A–D–G 定弦。我们在指板中间这一带：\n\n- **D（Dm7）** – 第 3 弦（A），第 5 品\n- **G（G7）** – 第 2 弦（D），第 5 品\n- **C（Cmaj7）** – 第 3 弦（A），第 3 品\n\n左手大致在第 3–5 品一带，放松握住。这些根音就是你这套进行里的**基地**。",
+          "de": "# Grundtöne auf dem Griffbrett\n4-saitiger Bass, Stimmung E–A–D–G. Wir bleiben in der Mitte des Griffbretts:\n\n- **D (Dm7)** – 3. Saite (A), 5. Bund\n- **G (G7)** – 2. Saite (D), 5. Bund\n- **C (Cmaj7)** – 3. Saite (A), 3. Bund\n\nHalte die Hand locker um die Bünde 3–5. Diese Grundtöne sind deine **Basis** für diese Kadenz.",
+          "ja": "# ネック上のルート\n4弦ベース（E–A–D–Gチューニング）。ネックの真ん中あたりを使います：\n\n- **D（Dm7）** – 3弦（A）5フレット\n- **G（G7）** – 2弦（D）5フレット\n- **C（Cmaj7）** – 3弦（A）3フレット\n\n左手は3〜5フレットあたりをゆったり構えておきましょう。これらのルートが、この進行での**出発点と帰る場所**です。",
+          "pt-BR": "# Tônicas no braço\nBaixo de 4 cordas afinado em E–A–D–G. Vamos ficar no meio do braço:\n\n- **D (Dm7)** – 3ª corda (A), 5ª casa\n- **G (G7)** – 2ª corda (D), 5ª casa\n- **C (Cmaj7)** – 3ª corda (A), 3ª casa\n\nDeixe a mão relaxada ali entre as casas 3 e 5. Essas tônicas são a sua **base** para essa progressão.",
+          "es": "# Tónicas en el mástil\nBajo de 4 cuerdas afinado E–A–D–G. Nos quedamos en la zona media del mástil:\n\n- **D (Dm7)** – 3ª cuerda (A), traste 5\n- **G (G7)** – 2ª cuerda (D), traste 5\n- **C (Cmaj7)** – 3ª cuerda (A), traste 3\n\nMantén la mano relajada entre los trastes 3 y 5. Estas tónicas son tu **punto de apoyo** para esta progresión."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# First step – roots only\nStart with the simplest possible walking line: **only roots**, all quarter notes.\n\nChords: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLine:\n- Bar 1: D – D – D – D\n- Bar 2: G – G – G – G\n- Bar 3: C – C – C – C\n- Bar 4: C – C – C – C\n\nFocus on:\n- **Solid timing** (no rushing)\n- **Even sound** on every note\n- A light **swing feel** (don’t play too stiff)",
+          "zh-Hans": "# 第一步 —— 只弹根音\n先从最简单的行进线开始：**只弹根音**，全部是四分音符。\n\n和弦：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n\n行进线：\n- 第 1 小节：D – D – D – D\n- 第 2 小节：G – G – G – G\n- 第 3 小节：C – C – C – C\n- 第 4 小节：C – C – C – C\n\n注意：\n- **节奏要稳**（不抢拍、不拖拍）\n- 每个音的**音量和音色尽量一致**\n- 带一点**swing 的感觉**（不要弹得太“直”）",
+          "de": "# Erster Schritt – nur Grundtöne\nStarte mit der einfachsten Walking-Linie: **nur Grundtöne**, alles Viertelnoten.\n\nAkkorde: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLinie:\n- Takt 1: D – D – D – D\n- Takt 2: G – G – G – G\n- Takt 3: C – C – C – C\n- Takt 4: C – C – C – C\n\nAchte auf:\n- **Stabiles Timing** (nicht hetzen)\n- **Gleichmäßigen Klang** bei allen Noten\n- Ein leichtes **Swing-Feeling** (nicht zu starr spielen)",
+          "ja": "# 最初のステップ – ルートだけ\nまずは一番シンプルなウォーキングから：**ルートだけ**、全部4分音符です。\n\nコード：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nライン：\n- 1小節目：D – D – D – D\n- 2小節目：G – G – G – G\n- 3小節目：C – C – C – C\n- 4小節目：C – C – C – C\n\n意識したいポイント：\n- **タイムをしっかりキープ**（走らない）\n- どの音も**同じくらいの音量・音質**で出す\n- 少しだけ**スウィング感**をつけて、ガチガチに真っ直ぐ弾かないこと",
+          "pt-BR": "# Primeiro passo – só tônicas\nComece com a linha de walking mais simples possível: **apenas tônicas**, todas em semínimas.\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLinha:\n- Compasso 1: D – D – D – D\n- Compasso 2: G – G – G – G\n- Compasso 3: C – C – C – C\n- Compasso 4: C – C – C – C\n\nFoque em:\n- **Tempo firme** (sem correr)\n- **Som uniforme** em todas as notas\n- Um leve **swing** (sem tocar “quadrado” demais)",
+          "es": "# Primer paso – sólo tónicas\nEmpieza con la línea de walking más simple: **sólo tónicas**, todas en negras.\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLínea:\n- Compás 1: D – D – D – D\n- Compás 2: G – G – G – G\n- Compás 3: C – C – C – C\n- Compás 4: C – C – C – C\n\nConcéntrate en:\n- **Tiempo sólido** (sin adelantar)\n- **Sonido parejo** en todas las notas\n- Un ligero **swing** (que no suene rígido)"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Adding simple motion with the scale\nNext, keep the same chords but add a bit of motion using **C major scale notes**.\n\nChords: | Dm7 | G7 | Cmaj7 | Cmaj7 |\nQuarter-note line:\n\n- Bar 1 (Dm7): D – E – F – G\n- Bar 2 (G7): G – A – B – C\n- Bar 3 (Cmaj7): C – D – E – G\n- Bar 4 (Cmaj7): C – B – A – G\n\nEverything is still inside **C major**, but it already sounds much more like a walking line than just roots.",
+          "zh-Hans": "# 用音阶加一点走向\n接下来保持同样的和弦，但用 **C 大调音阶** 加一点移动感。\n\n和弦：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n四分音符行进线：\n\n- 第 1 小节（Dm7）：D – E – F – G\n- 第 2 小节（G7）：G – A – B – C\n- 第 3 小节（Cmaj7）：C – D – E – G\n- 第 4 小节（Cmaj7）：C – B – A – G\n\n所有音都还在 **C 大调** 里，但听起来已经比只弹根音更像真正的行进贝斯了。",
+          "de": "# Einfache Bewegung mit der Tonleiter\nAls Nächstes bleiben die Akkorde gleich, aber du fügst etwas Bewegung mit der **C-Dur-Tonleiter** hinzu.\n\nAkkorde: | Dm7 | G7 | Cmaj7 | Cmaj7 |\nViertelnoten-Linie:\n\n- Takt 1 (Dm7): D – E – F – G\n- Takt 2 (G7): G – A – B – C\n- Takt 3 (Cmaj7): C – D – E – G\n- Takt 4 (Cmaj7): C – B – A – G\n\nAlles bleibt in **C-Dur**, aber die Linie klingt jetzt deutlich mehr nach echtem Walking als nur die Grundtöne.",
+          "ja": "# スケールで少し動きをつける\n次は、コードは同じままにして、**Cメジャー・スケール**の音を使って少しだけ動きを足します。\n\nコード：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n4分音符のライン：\n\n- 1小節目（Dm7）：D – E – F – G\n- 2小節目（G7）：G – A – B – C\n- 3小節目（Cmaj7）：C – D – E – G\n- 4小節目（Cmaj7）：C – B – A – G\n\nまだ全部 **Cメジャーの中の音**ですが、ルートだけのときよりも、かなり“ウォーキング・ベースらしい”ラインになってきます。",
+          "pt-BR": "# Adicionando movimento com a escala\nAgora, mantenha os mesmos acordes e coloque um pouco de movimento usando a **escala de Dó maior**.\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\nLinha em semínimas:\n\n- Compasso 1 (Dm7): D – E – F – G\n- Compasso 2 (G7): G – A – B – C\n- Compasso 3 (Cmaj7): C – D – E – G\n- Compasso 4 (Cmaj7): C – B – A – G\n\nTudo continua dentro de **Dó maior**, mas já soa muito mais como uma linha de walking do que apenas as tônicas.",
+          "es": "# Añadiendo movimiento con la escala\nAhora mantenemos los mismos acordes, pero añadimos algo de movimiento usando la **escala de Do mayor**.\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\nLínea en negras:\n\n- Compás 1 (Dm7): D – E – F – G\n- Compás 2 (G7): G – A – B – C\n- Compás 3 (Cmaj7): C – D – E – G\n- Compás 4 (Cmaj7): C – B – A – G\n\nTodo sigue dentro de **Do mayor**, pero ya suena mucho más a walking bass que sólo con tónicas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Put on a **slow swing** (metronome on 2 and 4)\n- Play 8 bars with **roots only**, then 8 bars with the **scale-based line**\n- Say the chords out loud: “Dm7 – G7 – Cmaj7 – Cmaj7” while you play\n- Aim for a **smooth connection** between bars, no gaps or rushed notes\n- When this feels easy, start changing **one bar at a time** and invent your own lines\n\nIf the time is steady and the roots are clear, you’re already walking over a II–V–I in a very musical way.",
+          "zh-Hans": "# 练习建议\n- 用一个**慢速 swing** 来练（节拍器打在第 2、4 拍）\n- 先用**只含根音的行进线**弹 8 小节，再用**带音阶移动的行进线**弹 8 小节\n- 一边弹一边小声说出和弦名：“Dm7 – G7 – Cmaj7 – Cmaj7”\n- 追求小节之间的**平滑连接**，不要有空拍或者匆忙的音\n- 当这些都变得轻松以后，开始**一次改一小节**，自己创造新走法\n\n只要节奏稳、根音清楚，你就已经在用一个很音乐化的方式走过 II–V–I 了。",
+          "de": "# Übetipps\n- Spiele zu einem **langsamen Swing** (Metronom auf 2 und 4)\n- Spiele zuerst 8 Takte mit **nur Grundtönen**, dann 8 Takte mit der **Tonleiter-Linie**\n- Sprich die Akkorde leise mit: „Dm7 – G7 – Cmaj7 – Cmaj7“, während du spielst\n- Achte auf **weiche Verbindungen** zwischen den Takten, keine Lücken oder gehetzten Noten\n- Wenn das leicht fällt, ändere **jeweils einen Takt** und erfinde eigene Linien\n\nWenn dein Timing stabil ist und die Grundtöne klar sind, gehst du bereits sehr musikalisch über eine II–V–I.",
+          "ja": "# 練習のコツ\n- **ゆっくりめのスウィング**で練習する（メトロノームは2拍目・4拍目）\n- まずは **ルートだけのライン** で8小節、そのあと **スケールを使ったライン** で8小節\n- 弾きながら小さな声で「Dm7 – G7 – Cmaj7 – Cmaj7」とコード名を言ってみる\n- 小節と小節のつながりを**なめらかに**して、休みすぎたり急いだりしない\n- 慣れてきたら、**1小節ずつ入れ替え**ながら、自分のウォーキング・ラインを作っていく\n\nタイムが安定していて、ルートがはっきり聞こえていれば、それだけでかなり音楽的なII–V–Iウォーキングになっています。",
+          "pt-BR": "# Dicas de estudo\n- Toque em um **swing lento** (metrônomo nos tempos 2 e 4)\n- Toque 8 compassos com **apenas tônicas**, depois 8 compassos com a **linha usando a escala**\n- Fale os acordes em voz baixa: “Dm7 – G7 – Cmaj7 – Cmaj7” enquanto toca\n- Busque uma **conexão suave** entre os compassos, sem buracos nem notas atropeladas\n- Quando isso estiver fácil, comece a mudar **um compasso por vez** e inventar suas próprias linhas\n\nSe o tempo estiver firme e as tônicas claras, você já está caminhando sobre um II–V–I de um jeito bem musical.",
+          "es": "# Consejos de práctica\n- Toca con un **swing lento** (metrónomo en 2 y 4)\n- Toca 8 compases con **sólo tónicas**, luego 8 compases con la **línea usando la escala**\n- Di los acordes en voz baja: “Dm7 – G7 – Cmaj7 – Cmaj7” mientras tocas\n- Busca una **conexión suave** entre compases, sin huecos ni notas apuradas\n- Cuando esto se sienta fácil, empieza a cambiar **un compás cada vez** e inventar tus propias líneas\n\nSi el tiempo es estable y las tónicas se escuchan claras, ya estás caminando sobre un II–V–I de una forma muy musical."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

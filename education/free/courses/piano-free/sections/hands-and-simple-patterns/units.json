@@ -1,0 +1,56 @@
+[
+  {
+    "id": "coordination-basics",
+    "name": {
+      "values": {
+        "en": "Coordination Basics",
+        "zh-Hans": "基本协调能力",
+        "de": "Grundlagen der Koordination",
+        "ja": "コーディネーションの基本",
+        "pt-BR": "Noções básicas de coordenação",
+        "es": "Conceptos básicos de coordinación"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen left-hand motion and keep rhythm steady.",
+        "zh-Hans": "强化左手动作并保持稳定的节奏。",
+        "de": "Stärke die Bewegung der linken Hand und halte den Rhythmus stabil.",
+        "ja": "左手の動きを強化し、リズムを安定させましょう。",
+        "pt-BR": "Fortaleça o movimento da mão esquerda e mantenha o ritmo estável.",
+        "es": "Fortalece el movimiento de la mano izquierda y mantén el ritmo estable."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_coordination_basics" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "using-scales-musically",
+    "name": {
+      "values": {
+        "en": "Using Scales Musically",
+        "zh-Hans": "音乐化地运用音阶",
+        "de": "Tonleitern musikalisch nutzen",
+        "ja": "スケールを音楽的に使う",
+        "pt-BR": "Usando escalas de forma musical",
+        "es": "Usar escalas de manera musical"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale notes into short melodies and motifs.",
+        "zh-Hans": "将音阶音符转化为简短的旋律与动机。",
+        "de": "Verwandle Tonleiternoten in kurze Melodien und Motive.",
+        "ja": "スケールの音を短いメロディやモチーフに変えましょう。",
+        "pt-BR": "Transforme notas de escalas em pequenas melodias e motivos.",
+        "es": "Convierte notas de escalas en pequeñas melodías y motivos."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_using_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

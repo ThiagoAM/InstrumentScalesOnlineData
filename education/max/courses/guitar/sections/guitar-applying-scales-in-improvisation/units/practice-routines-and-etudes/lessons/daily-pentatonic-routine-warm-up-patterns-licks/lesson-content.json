@@ -1,0 +1,73 @@
+{
+  "id": "daily-pentatonic-routine-warm-up-patterns-licks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Daily pentatonic routine: warm-up, patterns, licks\nThis is a **10–15 minute** daily routine built around the **minor pentatonic box**.\n\nYou’ll cycle through:\n- A quick **finger and picking warm-up**\n- A few **simple scale patterns**\n- Short **ready-to-use licks**\n\nUse **A minor pentatonic (5th fret)** if you’re not sure where to start, but you can move the whole routine to any key.",
+          "zh-Hans": "# 每日五声音阶练习：热身、指型、乐句\n这是一个围绕**小调五声音阶 Box** 的每日练习，大约 **10–15 分钟**。\n\n内容包含：\n- 快速的**手指和拨弦热身**\n- 几个简单的**音阶指型模式**\n- 几条**随时可用的小乐句（licks）**\n\n如果不知道从哪开始，就用 **A 小调五声音阶（5 品位置）**，之后可以把整套练习挪到任何调上。",
+          "de": "# Tägliche Pentatonik-Routine: Warm-up, Patterns, Licks\nDas ist eine **10–15-minütige** Tagesroutine rund um die **Moll-Pentatonik-Box**.\n\nDu gehst dabei durch:\n- Ein kurzes **Finger- und Picking-Warm-up**\n- Ein paar einfache **Skalen-Patterns**\n- Kurze **sofort spielbare Licks**\n\nWenn du unsicher bist, starte mit der **A-Moll-Pentatonik im 5. Bund**. Später kannst du die komplette Routine in jede Tonart verschieben.",
+          "ja": "# 毎日のペンタトニック・ルーティン：ウォームアップ・パターン・リック\nこれは **マイナー・ペンタトニックのボックス** を使った、約 **10〜15分** のデイリー・ルーティンです。\n\n流れは：\n- 手とピッキングの**軽いウォームアップ**\n- いくつかの**シンプルなスケール・パターン**\n- すぐ使える**短いリック**\n\nどこから始めるか迷ったら、まずは **Aマイナー・ペンタ（5フレットのボックス）** から始めて、慣れてきたら他のキーにも移動してみましょう。",
+          "pt-BR": "# Rotina diária de pentatônica: aquecimento, padrões e licks\nEsta é uma rotina diária de **10–15 minutos** focada no **box da pentatônica menor**.\n\nVocê vai passar por:\n- Um **aquecimento rápido** de dedos e palhetada\n- Alguns **padrões simples de escala**\n- Pequenos **licks prontos para usar**\n\nSe não souber por onde começar, use a **pentatônica de A menor na 5ª casa**. Depois você pode levar a mesma rotina para qualquer tom.",
+          "es": "# Rutina diaria de pentatónica: calentamiento, patrones y licks\nEsta es una rutina diaria de **10–15 minutos** basada en la **caja de pentatónica menor**.\n\nIncluye:\n- Un **calentamiento rápido** de dedos y púa\n- Algunos **patrones sencillos de escala**\n- Pequeños **licks listos para usar**\n\nSi no sabes por dónde empezar, usa la **pentatónica de La menor en el 5º traste** y luego mueve la misma rutina a otras tonalidades."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Warm up the box\nStay in **A minor pentatonic box 1** (5th fret):\n- Play **up and down the box** with strict alternate picking\n- Use **quarter or 8th-notes** with a slow click\n- Focus on **clean fretting, relaxed hands, even tone**\n\n2–3 slow, clean passes are enough – this is just to wake up your hands.",
+          "zh-Hans": "# 第一步 – 用 box 热身\n先待在 **A 小调五声音阶 Box 1（5 品）**：\n- 用严格的**交替拨弦**，把整个 box **从低到高、再从高到低**弹一遍\n- 用**四分音符或八分音符**配合慢速节拍器\n- 专注在：**按弦干净、手放松、音色均匀**\n\n慢而干净地来个 2–3 遍就够了，这一步只是**叫醒你的双手**。",
+          "de": "# Schritt 1 – Box aufwärmen\nBleib in **A-Moll-Pentatonik Box 1** (5. Bund):\n- Spiele die Box **auf- und abwärts** mit sauberem Wechselschlag\n- Nutze **Viertel- oder Achtelnoten** bei langsamem Metronom\n- Achte auf **saubere Greifhand, lockere Hände und gleichmäßigen Ton**\n\n2–3 langsame, saubere Durchgänge reichen – hier geht es nur darum, die Hände aufzuwärmen.",
+          "ja": "# ステップ1 – ボックスでウォームアップ\nまずは **Aマイナー・ペンタのボックス1（5フレット）** だけを使います：\n- **オルタネイト・ピッキング**でボックスを**上がって下がる**\n- ゆっくりしたテンポで**4分音符か8分音符**にそろえる\n- **左手のクリアさ・力みのなさ・音のばらつき**をチェック\n\nゆっくり・きれいに 2〜3往復すれば十分。ここはあくまで**手を起こす時間**です。",
+          "pt-BR": "# Passo 1 – Aquecendo o box\nFique na **pentatônica de A menor box 1** (5ª casa):\n- Toque o box **subindo e descendo** com palhetada alternada\n- Use **semínimas ou colcheias** com um metrônomo lento\n- Foque em **digitação limpa, mãos relaxadas e som parelho**\n\n2–3 passadas lentas e bem limpas são suficientes – é só para **acordar as mãos**.",
+          "es": "# Paso 1 – Calentar la caja\nQuédate en la **pentatónica de La menor, caja 1** (5º traste):\n- Toca la caja **subiendo y bajando** con púa alternada estricta\n- Usa **negras o corcheas** con un metrónomo lento\n- Concéntrate en **digitación limpia, manos relajadas y tono uniforme**\n\nCon 2–3 pasadas lentas y limpias basta: es sólo para **despertar las manos**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Simple pentatonic patterns\nStill in the same box, add some **light pattern work**:\n\nTry for 2–3 minutes:\n- **2-notes-per-string**: play each string twice (up–up–down–down feel)\n- **3-note groups**: C–D–E → D–E–G → E–G–A, etc.\n- Start on different strings so your fingers feel the **shape in more ways**\n\nKeep it musical: aim for **even timing** and a steady groove, not speed.",
+          "zh-Hans": "# 第二步 – 简单的五声音阶指型\n还在同一个 box 里，加入一点**简单的模式练习**：\n\n练 2–3 分钟即可：\n- **每弦 2 个音**：在同一弦上弹两次，再换弦（类似 up–up–down–down 的感觉）\n- **3 音小组**：例如 C–D–E → D–E–G → E–G–A …\n- 从不同的弦开始，让手指从**多种角度感受同一个形状**\n\n让它保持“像音乐”：更在意**节奏均匀、律动稳定**，而不是速度。",
+          "de": "# Schritt 2 – Einfache Pentatonik-Patterns\nBleib in derselben Box und bau etwas **leichte Pattern-Arbeit** ein:\n\nÜbe 2–3 Minuten lang:\n- **Zwei Töne pro Saite**: jede Saite zweimal spielen, dann wechseln\n- **Dreiergruppen**: z. B. C–D–E → D–E–G → E–G–A …\n- Auf verschiedenen Saiten starten, damit sich die Finger die **Form vielseitig merken**\n\nWichtig: Es soll **musikalisch** bleiben – lieber gleichmäßiger Groove als Tempo.",
+          "ja": "# ステップ2 – シンプルなペンタのパターン\n同じボックスのまま、**かんたんなパターン練習**を足していきます：\n\n2〜3分ほど練習：\n- **1弦につき2音**：同じ弦を2音ずつ弾いてから次の弦へ\n- **3音グループ**：C–D–E → D–E–G → E–G–A … のようにずらしていく\n- 始める弦を変えて、指が**いろいろな向きから同じ形を感じる**ようにする\n\nポイントは“音楽っぽさ”。**テンポの安定**と**ノリ**を優先して、速さは二の次でOKです。",
+          "pt-BR": "# Passo 2 – Padrões simples na pentatônica\nAinda no mesmo box, coloque um pouco de **trabalho de padrão**:\n\nPor 2–3 minutos, experimente:\n- **2 notas por corda**: toque duas notas em cada corda e mude\n- **Grupos de 3 notas**: C–D–E → D–E–G → E–G–A …\n- Comece em cordas diferentes para sentir o **desenho de vários jeitos**\n\nMantenha musical: priorize **tempo uniforme** e um groove constante, não velocidade.",
+          "es": "# Paso 2 – Patrones sencillos de pentatónica\nEn la misma caja, añade un poco de **trabajo de patrones**:\n\nDurante 2–3 minutos prueba:\n- **2 notas por cuerda**: toca dos notas en cada cuerda y cambia\n- **Grupos de 3 notas**: C–D–E → D–E–G → E–G–A …\n- Empieza en distintas cuerdas para sentir la **figura desde varios ángulos**\n\nQue suene musical: prioriza **tiempo parejo** y un groove estable, no la velocidad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Short licks from the same box\nNow turn the box into **music**.\n\nFor 4–5 minutes:\n- Create **2–4 beat licks** using only A minor pentatonic box 1\n- Add **one expression** to each lick: a bend, slide, hammer-on or pull-off\n- Repeat each lick a few times, then **move it to a new starting note** in the same box\n\nThink in **call-and-response**: one lick is a “question”, the next is an “answer”.",
+          "zh-Hans": "# 第三步 – 在同一个 box 里做短乐句\n现在把这个 box 变成**真正的乐句**。\n\n练 4–5 分钟：\n- 只用 A 小调五声音阶 Box 1，创作**2–4 拍长的小乐句（lick）**\n- 每个乐句加上一种**表现手法**：推弦、滑音、击弦、勾弦等\n- 每条乐句重复几遍，然后在同个 box 里**换一个起点再试**\n\n用**问答式**思路：一条乐句像“问题”，下一条像“回答”。",
+          "de": "# Schritt 3 – Kurze Licks aus derselben Box\nJetzt wird aus der Box **Musik**.\n\nFür 4–5 Minuten:\n- Erfinde **2–4-schlägige Licks** nur mit A-Moll-Pentatonik Box 1\n- Gib jedem Lick **eine Artikulation**: Bend, Slide, Hammer-On oder Pull-Off\n- Wiederhole jedes Lick ein paar Mal und **starte es dann von einem anderen Ton** in der Box\n\nDenk in **Frage–Antwort-Phrasen**: ein Lick ist die „Frage“, das nächste die „Antwort“. ",
+          "ja": "# ステップ3 – 同じボックスから短いリックを作る\nここからは、そのボックスを**音楽に変える**ステップです。\n\n4〜5分かけて：\n- Aマイナー・ペンタのボックス1だけで、**2〜4拍くらいの短いリック**を作る\n- 各リックに必ず何か1つ**表情づけ**を足す（ベンド・スライド・ハンマリング・プリングなど）\n- 同じリックを数回くり返し、慣れたら**別の始点の音から同じアイデアを弾いてみる**\n\n考え方は**コール＆レスポンス**：1つ目のリックが“質問”、次のリックが“答え”のイメージです。",
+          "pt-BR": "# Passo 3 – Licks curtinhos no mesmo box\nAgora é hora de transformar o box em **música**.\n\nPor 4–5 minutos:\n- Crie **licks de 2 a 4 tempos** usando só a pentatônica de A menor box 1\n- Coloque **alguma expressão** em cada lick: bend, slide, hammer-on ou pull-off\n- Repita o mesmo lick algumas vezes e depois **comece a mesma ideia em outra nota** dentro do box\n\nPense em **pergunta e resposta**: um lick é a “pergunta”, o seguinte é a “resposta”.",
+          "es": "# Paso 3 – Licks cortos en la misma caja\nAhora convierte la caja en **música real**.\n\nDurante 4–5 minutos:\n- Crea **licks de 2–4 tiempos** usando sólo la pentatónica de La menor, caja 1\n- Añade **alguna expresión** a cada lick: bend, slide, hammer-on o pull-off\n- Repite cada lick varias veces y luego **empieza la misma idea desde otra nota** de la caja\n\nPiensa en **pregunta y respuesta**: un lick es la “pregunta” y el siguiente es la “respuesta”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Putting it together – daily plan\nUse this as a simple daily checklist:\n1. **2–3 min** – Box warm-up (up/down with alternate picking)\n2. **2–3 min** – Patterns (2-notes-per-string and 3-note groups)\n3. **5–8 min** – Licks (create, repeat, move starting note)\n\nOnce this feels easy in **A minor**, move the entire routine to **G minor, C minor, E minor**, etc. Same shapes, new keys.",
+          "zh-Hans": "# 整体安排 – 每日小计划\n可以把这套当作简单的每日清单：\n1. **2–3 分钟** – Box 热身（交替拨弦，上下各几遍）\n2. **2–3 分钟** – 模式练习（每弦 2 音、3 音小组）\n3. **5–8 分钟** – 乐句练习（编、重复、换起点）\n\n当这些在 **A 小调** 里变得轻松之后，把整套流程搬到 **G 小调、C 小调、E 小调** 等其他调。形状一样，只是**根音不同**。",
+          "de": "# Alles zusammen – Tagesplan\nNutze das als einfache Tages-Checkliste:\n1. **2–3 Min** – Box-Warm-up (auf/ab mit Wechselschlag)\n2. **2–3 Min** – Patterns (2 Töne pro Saite und Dreiergruppen)\n3. **5–8 Min** – Licks (erfinden, wiederholen, Startton verschieben)\n\nWenn sich das in **A-Moll** leicht anfühlt, verschiebe die komplette Routine nach **G-Moll, C-Moll, E-Moll** usw. Gleiche Shapes, neue Tonarten.",
+          "ja": "# まとめ – 毎日のプラン\nこのルーティンを、こんなチェックリストにして使ってください：\n1. **2〜3分** – ボックスのウォームアップ（オルタネイトで上下）\n2. **2〜3分** – パターン練習（2音/弦・3音グループ）\n3. **5〜8分** – リック（作る→くり返す→始点を変える）\n\nこれが **Aマイナー** でラクに回せるようになったら、そのまま **Gマイナー、Cマイナー、Eマイナー** などに移動してみましょう。形は同じで、**ルートだけが変わる**イメージです。",
+          "pt-BR": "# Juntando tudo – plano diário\nUse assim como um checklist simples do dia:\n1. **2–3 min** – Aquecimento no box (subindo/descendo com palhetada alternada)\n2. **2–3 min** – Padrões (2 notas por corda e grupos de 3 notas)\n3. **5–8 min** – Licks (criar, repetir, mudar o ponto de partida)\n\nQuando isso estiver fácil em **A menor**, leve a mesma rotina para **G menor, C menor, E menor**, etc. Mesmos desenhos, **tons diferentes**.",
+          "es": "# Juntándolo todo – plan diario\nÚsalo como una pequeña lista diaria:\n1. **2–3 min** – Calentamiento en la caja (subir/bajar con púa alternada)\n2. **2–3 min** – Patrones (2 notas por cuerda y grupos de 3 notas)\n3. **5–8 min** – Licks (crear, repetir, cambiar la nota de inicio)\n\nCuando esto se sienta fácil en **La menor**, mueve la misma rutina a **Sol menor, Do menor, Mi menor**, etc. Mismas figuras, **tonalidades nuevas**."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

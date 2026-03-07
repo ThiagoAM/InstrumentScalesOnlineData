@@ -1,0 +1,86 @@
+[
+  {
+    "id": "basic-rock-groove-using-root-and-fifth",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Basic Rock Groove Using Root and Fifth",
+        "zh-Hans": "使用根音和五度的基础摇滚律动",
+        "de": "Grundlegender Rock-Groove mit Grundton und Quinte",
+        "ja": "ルートと5度を使った基本的なロックグルーヴ",
+        "pt-BR": "Groove Rock Básico Usando Tônica e Quinta",
+        "es": "Groove de rock básico usando tónica y quinta"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "adding-the-octave-to-pentatonic-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Adding the Octave to Pentatonic Lines",
+        "zh-Hans": "在五声音阶乐句中加入八度音",
+        "de": "Oktaven in Pentatonik-Linien hinzufügen",
+        "ja": "ペンタトニックラインにオクターブを追加する",
+        "pt-BR": "Adicionando a Oitava em Linhas Pentatônicas",
+        "es": "Añadiendo la octava a líneas pentatónicas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-scale-notes-with-groove-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Scale Notes with Groove Patterns",
+        "zh-Hans": "将音阶音符与律动型结合",
+        "de": "Tonleiternoten mit Groove-Mustern kombinieren",
+        "ja": "スケール音とグルーヴパターンを組み合わせる",
+        "pt-BR": "Combinando Notas da Escala com Padrões de Groove",
+        "es": "Combinando notas de escala con patrones de groove"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

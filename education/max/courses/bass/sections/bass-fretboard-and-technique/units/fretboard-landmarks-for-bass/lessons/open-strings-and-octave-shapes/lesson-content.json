@@ -1,0 +1,73 @@
+{
+  "id": "open-strings-and-octave-shapes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Open strings and octave shapes\nIn this lesson you’ll use the **open strings** and a couple of **simple octave shapes** to lock in some fretboard landmarks.\n\nOnce you feel these shapes under your fingers, finding notes all over the neck becomes much easier.",
+          "zh-Hans": "# 空弦和八度形状\n在本课中，你会利用**空弦**和几个非常简单的**八度形状**，来建立清晰的指板定位点。\n\n一旦这些形状在手里变得自然，你在琴颈各个位置找音都会轻松很多。",
+          "de": "# Leersaiten und Oktavformen\nIn dieser Lektion nutzt du die **Leersaiten** und ein paar einfache **Oktavformen**, um feste Orientierungspunkte auf dem Griffbrett zu bekommen.\n\nSobald sich diese Formen vertraut anfühlen, findest du Töne überall auf dem Hals viel leichter.",
+          "ja": "# 開放弦とオクターブ・シェイプ\nこのレッスンでは、**開放弦**と、いくつかのシンプルな**オクターブ・シェイプ**を使って、指板上の目印を作っていきます。\n\nこの形が指に馴染んでくると、ネック全体で音を探すのがぐっと楽になります。",
+          "pt-BR": "# Cordas soltas e desenhos de oitava\nNesta lição você vai usar as **cordas soltas** e alguns **desenhos simples de oitava** para criar pontos de referência no braço do baixo.\n\nQuando esses desenhos ficarem naturais na mão, achar notas em qualquer parte do braço fica muito mais fácil.",
+          "es": "# Cuerdas al aire y formas de octava\nEn esta lección vas a usar las **cuerdas al aire** y algunas **formas sencillas de octava** para crear puntos de referencia en el diapasón.\n\nCuando estas formas se sientan naturales en la mano, encontrar notas en todo el mástil se vuelve mucho más fácil."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The four open strings\nStandard 4-string bass (thickest to thinnest):\n- 4th string – **E**\n- 3rd string – **A**\n- 2nd string – **D**\n- 1st string – **G**\n\nPluck each open string slowly and say the name out loud a few times: “E – A – D – G”.",
+          "zh-Hans": "# 四根空弦\n标准 4 弦贝斯（从最粗到最细）：\n- 第4弦 – **E**\n- 第3弦 – **A**\n- 第2弦 – **D**\n- 第1弦 – **G**\n\n慢慢拨一次每根空弦，并大声说出名字几遍：“E – A – D – G”。",
+          "de": "# Die vier Leersaiten\nStandard-Viersaiter (von der dicksten zur dünnsten Saite):\n- 4. Saite – **E**\n- 3. Saite – **A**\n- 2. Saite – **D**\n- 1. Saite – **G**\n\nZupfe jede Leersaite langsam an und sprich den Namen ein paar Mal laut mit: „E – A – D – G“.",
+          "ja": "# 4本の開放弦\n標準的な4弦ベース（太い弦から細い弦へ）：\n- 4弦 – **E**\n- 3弦 – **A**\n- 2弦 – **D**\n- 1弦 – **G**\n\nそれぞれの開放弦をゆっくり1回ずつ弾きながら、「E – A – D – G」と声に出して名前を確認しましょう。",
+          "pt-BR": "# As quatro cordas soltas\nBaixo de 4 cordas padrão (da mais grossa para a mais fina):\n- 4ª corda – **E**\n- 3ª corda – **A**\n- 2ª corda – **D**\n- 1ª corda – **G**\n\nToque cada corda solta devagar e fale o nome em voz alta algumas vezes: “E – A – D – G”.",
+          "es": "# Las cuatro cuerdas al aire\nBajo estándar de 4 cuerdas (de la más gruesa a la más fina):\n- 4ª cuerda – **E**\n- 3ª cuerda – **A**\n- 2ª cuerda – **D**\n- 1ª cuerda – **G**\n\nPulsa cada cuerda al aire despacio y di el nombre en voz alta varias veces: “E – A – D – G”."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-string octave shape\nAn **octave** is the “same” note higher or lower.\n\nOn bass, a very common octave shape is:\n- From a note on the **E string**, its octave is **two frets higher on the D string**\n- From a note on the **A string**, its octave is **two frets higher on the G string**\n\nTry it with open strings:\n- Open **E** → D string, **2nd fret** (E an octave up)\n- Open **A** → G string, **2nd fret** (A an octave up)\n\nKeep your hand relaxed and use the same finger pattern for both shapes.",
+          "zh-Hans": "# 两根弦之间的八度形状\n**八度**就是同名高音或低音。\n\n在贝斯上，一个非常常见的八度形状是：\n- 从 **E 弦**上的某个音出发，它的八度音在**高两根的 D 弦上，前进 2 品**的位置\n- 从 **A 弦**上的某个音出发，它的八度音在**高两根的 G 弦上，前进 2 品**的位置\n\n先用空弦试一试：\n- 空弦 **E** → D 弦 **第2品**（高八度的 E）\n- 空弦 **A** → G 弦 **第2品**（高八度的 A）\n\n让手保持放松，两种形状都尽量用同样的手型去完成。",
+          "de": "# Zweisaitige Oktavform\nEine **Oktave** ist derselbe Ton höher oder tiefer.\n\nAuf dem Bass gibt es eine sehr typische Oktavform:\n- Von einem Ton auf der **E-Saite** liegt seine Oktave **zwei Bünde höher auf der D-Saite**\n- Von einem Ton auf der **A-Saite** liegt seine Oktave **zwei Bünde höher auf der G-Saite**\n\nProbier das mit Leersaiten aus:\n- Leere **E-Saite** → D-Saite, **2. Bund** (E eine Oktave höher)\n- Leere **A-Saite** → G-Saite, **2. Bund** (A eine Oktave höher)\n\nHalte die Hand entspannt und benutze für beide Formen möglichst das gleiche Griffmuster.",
+          "ja": "# 2本の弦を使ったオクターブ・シェイプ\n**オクターブ**は、「同じ名前の音」の高いほう／低いほうです。\n\nベースでよく使うオクターブの形は次のとおりです：\n- **E弦**のある音から見ると、そのオクターブは**2本上のD弦で、2フレット前**に行ったところ\n- **A弦**のある音から見ると、そのオクターブは**2本上のG弦で、2フレット前**に行ったところ\n\nまずは開放弦で試してみましょう：\n- 開放 **E** → D弦 **2フレット**（1オクターブ上のE）\n- 開放 **A** → G弦 **2フレット**（1オクターブ上のA）\n\n手をリラックスさせて、どちらの形も同じような手のカタチで押さえられるように意識します。",
+          "pt-BR": "# Desenho de oitava em duas cordas\nUma **oitava** é a “mesma” nota mais aguda ou mais grave.\n\nNo baixo, um desenho de oitava muito comum é:\n- A partir de uma nota na **corda E**, a oitava está **duas casas à frente na corda D**\n- A partir de uma nota na **corda A**, a oitava está **duas casas à frente na corda G**\n\nTeste isso com as cordas soltas:\n- **E** solta → corda D, **2ª casa** (E uma oitava acima)\n- **A** solta → corda G, **2ª casa** (A uma oitava acima)\n\nMantenha a mão relaxada e tente usar o mesmo desenho de dedos para as duas formas.",
+          "es": "# Forma de octava en dos cuerdas\nUna **octava** es la misma nota más aguda o más grave.\n\nEn el bajo hay una forma de octava muy típica:\n- Desde una nota en la **cuerda E**, su octava está **dos trastes más arriba en la cuerda D**\n- Desde una nota en la **cuerda A**, su octava está **dos trastes más arriba en la cuerda G**\n\nPruébalo con cuerdas al aire:\n- **E** al aire → cuerda D, **traste 2** (E una octava más agudo)\n- **A** al aire → cuerda G, **traste 2** (A una octava más agudo)\n\nMantén la mano relajada y usa el mismo patrón de dedos para ambas formas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Same-string octave landmark\nThe octave of any note on a string is also **12 frets higher on the same string**.\n\nFor open strings:\n- Open E → **12th fret E**\n- Open A → **12th fret A**\n- Open D → **12th fret D**\n- Open G → **12th fret G**\n\nThese 12th-fret notes match the open strings and are great “middle of the neck” landmarks.",
+          "zh-Hans": "# 同一根弦上的八度定位\n同一根弦上的任意一个音，它的八度音也会出现在**高 12 品的位置**。\n\n对空弦来说：\n- 空弦 E → **E 弦第12品**\n- 空弦 A → **A 弦第12品**\n- 空弦 D → **D 弦第12品**\n- 空弦 G → **G 弦第12品**\n\n这些第12品的音和各自的空弦同名，是琴颈“中间位置”非常好用的定位点。",
+          "de": "# Oktavorientierung auf derselben Saite\nDie Oktave eines Tons auf einer Saite liegt immer **12 Bünde höher auf derselben Saite**.\n\nBei den Leersaiten heißt das:\n- Leere E-Saite → **E-Saite, 12. Bund**\n- Leere A-Saite → **A-Saite, 12. Bund**\n- Leere D-Saite → **D-Saite, 12. Bund**\n- Leere G-Saite → **G-Saite, 12. Bund**\n\nDiese Töne im 12. Bund entsprechen den Leersaiten und sind super Orientierungspunkte in der „Mitte“ des Halses.",
+          "ja": "# 同じ弦上のオクターブの目印\n同じ弦の上では、どの音でもそのオクターブは**12フレット上**にあります。\n\n開放弦の場合はこうなります：\n- 開放E → **E弦12フレット**\n- 開放A → **A弦12フレット**\n- 開放D → **D弦12フレット**\n- 開放G → **G弦12フレット**\n\n12フレットのこれらの音は、それぞれの開放弦と同じ音名で、ネックの“真ん中あたり”のとても便利な目印になります。",
+          "pt-BR": "# Oitava na mesma corda\nNa mesma corda, a oitava de qualquer nota fica **12 casas acima na própria corda**.\n\nCom as cordas soltas, isso vira:\n- E solta → **E na 12ª casa**\n- A solta → **A na 12ª casa**\n- D solta → **D na 12ª casa**\n- G solta → **G na 12ª casa**\n\nEssas notas na 12ª casa batem com as cordas soltas e são ótimos pontos de referência no “meio” do braço.",
+          "es": "# Octava en la misma cuerda\nEn la misma cuerda, la octava de cualquier nota está **12 trastes más arriba en esa misma cuerda**.\n\nCon las cuerdas al aire queda así:\n- E al aire → **E en el traste 12**\n- A al aire → **A en el traste 12**\n- D al aire → **D en el traste 12**\n- G al aire → **G en el traste 12**\n\nEstas notas en el traste 12 coinciden con las cuerdas al aire y son puntos de referencia muy útiles en la “mitad” del mástil."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. Play the four **open strings** slowly (E–A–D–G), saying the note names.  \n2. For E and A, add their **two-string octave** (E with its D-string octave, A with its G-string octave).  \n3. Then find the **12th-fret octaves** for all four strings and let them ring.  \n4. Repeat the whole sequence 3–4 times.\n\nYou’ll start to feel the neck as a map: open strings at the bottom, 12th-fret octaves in the middle, and simple shapes connecting them.",
+          "zh-Hans": "# 快速练习流程\n1. 慢慢弹一遍四根**空弦**（E–A–D–G），边弹边说出音名。  \n2. 对 E 和 A，加上它们的**两弦八度音**（E 配它在 D 弦的八度，A 配它在 G 弦的八度）。  \n3. 然后在四根弦上都找到各自**第12品的八度音**，让声音充分延音。  \n4. 把整个流程重复 3–4 遍。\n\n你会开始把琴颈当成一张地图：最下面是空弦，中间是第12品的八度音，之间由几个简单的形状把它们连接起来。",
+          "de": "# Kurze Übe-Routine\n1. Spiele die vier **Leersaiten** langsam (E–A–D–G) und sprich die Notennamen mit.  \n2. Ergänze bei E und A jeweils die **zweisaitige Oktave** (E plus seine Oktave auf der D-Saite, A plus seine Oktave auf der G-Saite).  \n3. Finde dann die **Oktaven im 12. Bund** auf allen vier Saiten und lass sie ausklingen.  \n4. Wiederhole die ganze Abfolge 3–4-mal.\n\nSo fängst du an, den Hals wie eine Landkarte zu fühlen: Leersaiten unten, Oktaven im 12. Bund in der Mitte – verbunden durch einfache Formen dazwischen.",
+          "ja": "# かんたん練習ルーティン\n1. 4本の**開放弦**（E–A–D–G）をゆっくり弾きながら、音名を声に出して言います。  \n2. E と A については、それぞれの**2本弦オクターブ**も加えましょう（E と、そのD弦上のオクターブ／A と、そのG弦上のオクターブ）。  \n3. つぎに4本すべての弦で、**12フレット上のオクターブ**を探して鳴らし、しっかり伸ばします。  \n4. この流れを 3〜4 セットくり返します。\n\nこうしていくと、ネック全体が1枚の地図のように感じられてきます：一番下に開放弦、その真ん中あたりに12フレットのオクターブがあり、それらをシンプルなシェイプがつないでくれるイメージです。",
+          "pt-BR": "# Rotina rápida de prática\n1. Toque devagar as quatro **cordas soltas** (E–A–D–G), falando os nomes das notas.  \n2. Para E e A, acrescente a **oitava em duas cordas** (E com a oitava na corda D, A com a oitava na corda G).  \n3. Depois, ache as **oitavas na 12ª casa** em todas as cordas e deixe soar.  \n4. Repita a sequência completa de 3 a 4 vezes.\n\nVocê começa a sentir o braço como um mapa: cordas soltas lá embaixo, oitavas na 12ª casa no meio, e alguns desenhos simples ligando esses pontos.",
+          "es": "# Rutina rápida de práctica\n1. Toca despacio las cuatro **cuerdas al aire** (E–A–D–G), diciendo los nombres de las notas.  \n2. Para E y A, añade su **octava en dos cuerdas** (E con su octava en la cuerda D, A con su octava en la cuerda G).  \n3. Luego encuentra las **octavas en el traste 12** de las cuatro cuerdas y deja que suenen.  \n4. Repite toda la secuencia 3–4 veces.\n\nEmpezarás a sentir el mástil como un mapa: cuerdas al aire abajo, octavas en el traste 12 en el centro, y unas formas sencillas que conectan esos puntos."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

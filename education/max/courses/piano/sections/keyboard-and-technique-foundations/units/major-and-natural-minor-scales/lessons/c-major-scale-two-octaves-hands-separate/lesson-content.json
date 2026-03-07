@@ -1,0 +1,99 @@
+{
+  "id": "c-major-scale-two-octaves-hands-separate",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major scale – two octaves (hands separate)\nIn this lesson you’ll play a **two-octave C major scale** with each hand **separately**.\n\nYou’ll reuse the standard C major fingering and simply **extend it across two octaves**, keeping the sound even and relaxed.",
+          "zh-Hans": "# C大调音阶 – 两个八度（单双手分开）\n本课你会让左右手**分别**弹一遍 **两个八度的C大调音阶**。\n\n我们会继续使用标准的C大调指法，只是把它**延长到两个八度**，让音色保持均匀、放松。",
+          "de": "# C-Dur-Tonleiter – zwei Oktaven (Hände getrennt)\nIn dieser Lektion spielst du die **C-Dur-Tonleiter über zwei Oktaven**, jeweils **mit einer Hand allein**.\n\nDu verwendest den normalen C-Dur-Fingersatz und **erweiterst ihn einfach auf zwei Oktaven**, mit gleichmäßigem, entspanntem Klang.",
+          "ja": "# Cメジャー・スケール – 2オクターブ（左右別々）\nこのレッスンでは、**Cメジャー・スケールを2オクターブ分**、左右それぞれ**片手ずつ**で弾きます。\n\nすでに覚えたCメジャーの運指をそのまま使って、**2オクターブまで伸ばす**イメージで、音をムラなく・力まずに出していきましょう。",
+          "pt-BR": "# Escala de Dó maior – duas oitavas (mãos separadas)\nNesta lição você vai tocar a **escala de Dó maior em duas oitavas**, com cada mão **separadamente**.\n\nVamos reaproveitar o dedilhado padrão de Dó maior e **estender para duas oitavas**, mantendo o som uniforme e relaxado.",
+          "es": "# Escala de Do mayor – dos octavas (manos separadas)\nEn esta lección vas a tocar la **escala de Do mayor en dos octavas**, con cada mano **por separado**.\n\nUsaremos la digitación estándar de Do mayor y la **extenderemos a dos octavas**, buscando un sonido parejo y relajado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup and starting notes\n- Sit so your forearms are roughly **parallel to the floor**.\n- Curve your fingers and keep the wrist loose.\n- Choose a **C** where you have room for two octaves:\n  - Right hand: pick a C where you can go **two octaves up**.\n  - Left hand: pick a C where you can go **two octaves down**.\n\nUse **one note per beat** at first. Slow and clean is the goal.",
+          "zh-Hans": "# 准备和起始音\n- 坐姿让前臂大致与**地面平行**。\n- 手指自然弯曲，手腕放松。\n- 选择一个有足够空间弹两个八度的 **C**：\n  - 右手：选一个可以向上弹 **两个八度** 的C。\n  - 左手：选一个可以向下弹 **两个八度** 的C。\n\n一开始先用**每拍一个音**的速度。目标是慢而干净，而不是快。",
+          "de": "# Vorbereitung und Ausgangstöne\n- Sitze so, dass deine Unterarme **ungefähr parallel zum Boden** sind.\n- Finger locker wölben, Handgelenk entspannt.\n- Wähle ein **C**, bei dem du zwei Oktaven Platz hast:\n  - Rechte Hand: ein C, von dem aus du **zwei Oktaven nach oben** gehen kannst.\n  - Linke Hand: ein C, von dem aus du **zwei Oktaven nach unten** gehen kannst.\n\nSpiele anfangs **einen Ton pro Schlag**. Langsam und sauber ist das Ziel.",
+          "ja": "# セットアップとスタート音\n- 前腕が**床とほぼ平行**になる高さに座ります。\n- 指を軽く丸め、手首はリラックス。\n- **2オクターブ分**動けるCを選びます：\n  - 右手：そこから**2オクターブ上**に行けるC。\n  - 左手：そこから**2オクターブ下**に行けるC。\n\n最初は**1拍に1音**のペースでOK。速さより「ゆっくり・きれい」が大事です。",
+          "pt-BR": "# Preparação e notas de partida\n- Sente-se de modo que os antebraços fiquem **mais ou menos paralelos ao chão**.\n- Curve levemente os dedos e deixe o pulso solto.\n- Escolha um **C** em que caibam duas oitavas:\n  - Mão direita: um C de onde dê para subir **duas oitavas**.\n  - Mão esquerda: um C de onde dê para descer **duas oitavas**.\n\nComece com **uma nota por tempo**. O objetivo é tocar devagar e limpo.",
+          "es": "# Preparación y notas de inicio\n- Siéntate de forma que los antebrazos queden **más o menos paralelos al suelo**.\n- Curva ligeramente los dedos y mantén la muñeca suelta.\n- Elige un **C** donde quepan dos octavas:\n  - Mano derecha: un C desde el que puedas subir **dos octavas**.\n  - Mano izquierda: un C desde el que puedas bajar **dos octavas**.\n\nEmpieza con **una nota por pulso**. La prioridad es tocar despacio y limpio."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right hand – C major, two octaves up\nUse the repeating pattern **1–2–3–1–2–3–4** and finish on **5**.\n\nAscending (two octaves):\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4)\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4) – C (5)\n\nTips:\n- Let the **thumb slide under** smoothly on F and on the second-octave F.\n- Keep the hand low over the keys; avoid big jumps or lifting the wrist.",
+          "zh-Hans": "# 右手 – C大调向上两个八度\n用一再重复的指法模式 **1–2–3–1–2–3–4**，最后在高音C用 **5指** 收尾。\n\n上行（两个八度）：\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4)\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4) – C (5)\n\n提示：\n- 在两个 F 的位置，让**拇指顺滑地从下方穿过去**。\n- 手保持贴近键盘，不要大幅抬高手腕或整只手。",
+          "de": "# Rechte Hand – C-Dur, zwei Oktaven aufwärts\nVerwende das sich wiederholende Muster **1–2–3–1–2–3–4** und beende auf dem höchsten C mit **Finger 5**.\n\nAufwärts (zwei Oktaven):\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B/H (4)\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B/H (4) – C (5)\n\nTipps:\n- Lass den **Daumen sanft untersetzen** bei F und beim F der zweiten Oktave.\n- Halte die Hand dicht über den Tasten, ohne große Sprünge oder starkes Anheben des Handgelenks.",
+          "ja": "# 右手 – Cメジャー 2オクターブ上行\nパターンはずっと **1–2–3–1–2–3–4** をくり返し、いちばん上のCを **5の指** で終わります。\n\n上行（2オクターブ）：\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4)\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4) – C (5)\n\nポイント：\n- F と、2オクターブ目のFのところで、**親指をなめらかに下にもぐらせる**イメージで動かします。\n- 手は鍵盤のすぐ上にキープして、手首や手全体を大げさに持ち上げないようにしましょう。",
+          "pt-BR": "# Mão direita – Dó maior, duas oitavas subindo\nUse o padrão que se repete **1–2–3–1–2–3–4** e termine no Dó mais agudo com o **dedo 5**.\n\nSubindo (duas oitavas):\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4)\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4) – C (5)\n\nDicas:\n- Deixe o **polegar passar por baixo** com suavidade nos Fs (primeiro e segundo F).\n- Mantenha a mão baixa, perto das teclas, sem levantar demais o pulso.",
+          "es": "# Mano derecha – Do mayor, dos octavas ascendentes\nUsa el patrón repetido **1–2–3–1–2–3–4** y termina en el Do más agudo con el **dedo 5**.\n\nAscendiendo (dos octavas):\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4)\n- C (1) – D (2) – E (3)\n- F (1) – G (2) – A (3) – B (4) – C (5)\n\nConsejos:\n- Deja que el **pulgar pase por debajo** suavemente en los F (el de cada octava).\n- Mantén la mano cerca de las teclas, sin levantar en exceso la muñeca."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right hand – two octaves down\nDescending (from the top C back to the starting C):\n- C (5) – B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n- B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n\nThink of it as the same pattern in reverse. Keep the thumb-under and finger-over moves **small and relaxed**.",
+          "zh-Hans": "# 右手 – 两个八度下行\n从最高的 C 回到起始 C：\n- C (5) – B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n- B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n\n可以把它看成是上行指法的**反向版本**。拇指穿下去、手指跨上来的动作都要保持**小而放松**。",
+          "de": "# Rechte Hand – zwei Oktaven abwärts\nAbwärts (vom höchsten C zurück zum Start-C):\n- C (5) – B/H (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n- B/H (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n\nStell dir den Fingersatz einfach als **umgekehrtes Muster** vor. Daumen-unter und Finger-über bleiben **klein und locker**.",
+          "ja": "# 右手 – 2オクターブ下行\nいちばん上のCからスタートCまで下がります：\n- C (5) – B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n- B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n\n基本的には、上行のパターンを**そのまま逆再生**したイメージです。親指の“くぐり”や指の“またぎ”は、できるだけ**小さく・リラックス**して行いましょう。",
+          "pt-BR": "# Mão direita – duas oitavas descendo\nDescendo (do Dó mais agudo de volta ao Dó inicial):\n- C (5) – B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n- B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n\nPense como o mesmo padrão, só que **ao contrário**. Deixe os movimentos de passar o polegar por baixo e cruzar o dedo por cima **pequenos e relaxados**.",
+          "es": "# Mano derecha – dos octavas descendentes\nDescendiendo (del Do más agudo de vuelta al Do inicial):\n- C (5) – B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n- B (4) – A (3) – G (2) – F (1)\n- E (3) – D (2) – C (1)\n\nPiensa que es el mismo patrón **al revés**. Mantén los movimientos de pulgar-debajo y dedo-encima **pequeños y relajados**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left hand – C major, two octaves up\nFor the left hand, the multi-octave pattern mirrors the right hand.\n\nAscending (two octaves):\n- C (5) – D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n- D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n\nLet finger **3 cross over** and finger **4 cross over** smoothly when needed. Keep the wrist calm and let the arm help the movement.",
+          "zh-Hans": "# 左手 – C大调向上两个八度\n左手的多八度指法基本是右手的“镜像版本”。\n\n上行（两个八度）：\n- C (5) – D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n- D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n\n需要换指时，让 **3指和4指顺畅地跨过去**。手腕保持稳定，用整条手臂轻轻带动动作。",
+          "de": "# Linke Hand – C-Dur, zwei Oktaven aufwärts\nFür die linke Hand ist der Mehr-Oktaven-Fingersatz die **Spiegelung** der rechten Hand.\n\nAufwärts (zwei Oktaven):\n- C (5) – D (4) – E (3) – F (2) – G (1)\n- A (3) – B/H (2) – C (1)\n- D (4) – E (3) – F (2) – G (1)\n- A (3) – B/H (2) – C (1)\n\nLass Finger **3** und **4** weich über den Daumen kreuzen, wenn es dran ist. Das Handgelenk bleibt ruhig, der Arm unterstützt die Bewegung.",
+          "ja": "# 左手 – Cメジャー 2オクターブ上行\n左手のマルチオクターブ運指は、基本的に右手の**鏡写し**です。\n\n上行（2オクターブ）：\n- C (5) – D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n- D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n\n必要なところで **3の指** や **4の指** がスムーズに親指の上をまたぐように意識します。手首は静かに保ち、腕全体で動きをサポートしましょう。",
+          "pt-BR": "# Mão esquerda – Dó maior, duas oitavas subindo\nNa mão esquerda, o padrão de várias oitavas é como um **espelho** da mão direita.\n\nSubindo (duas oitavas):\n- C (5) – D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n- D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n\nDeixe os dedos **3** e **4** cruzarem por cima do polegar com suavidade. Mantenha o pulso calmo e use o braço para ajudar o movimento.",
+          "es": "# Mano izquierda – Do mayor, dos octavas ascendentes\nEn la mano izquierda, el patrón de varias octavas es básicamente el **espejo** de la mano derecha.\n\nAscendiendo (dos octavas):\n- C (5) – D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n- D (4) – E (3) – F (2) – G (1)\n- A (3) – B (2) – C (1)\n\nDeja que los dedos **3** y **4** crucen por encima del pulgar de forma suave. Mantén la muñeca tranquila y deja que el brazo ayude al movimiento."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left hand – two octaves down\nDescending (from the top C back to the starting C):\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4)\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4) – C (5)\n\nUse the same hand shape as when going up. Let the thumb-under moves stay small and relaxed.",
+          "zh-Hans": "# 左手 – 两个八度下行\n从最高的 C 回到起始 C：\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4)\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4) – C (5)\n\n手型保持和上行时一样稳定。拇指从下方穿过去的动作要小、轻松，不要用力顶键。",
+          "de": "# Linke Hand – zwei Oktaven abwärts\nAbwärts (vom höchsten C zurück zum Start-C):\n- C (1) – B/H (2) – A (3)\n- G (1) – F (2) – E (3) – D (4)\n- C (1) – B/H (2) – A (3)\n- G (1) – F (2) – E (3) – D (4) – C (5)\n\nBenutze dieselbe Handform wie beim Aufwärts-Spiel. Die Daumenuntersetzungen bleiben **klein und locker**.",
+          "ja": "# 左手 – 2オクターブ下行\nいちばん上のCからスタートCまで下がります：\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4)\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4) – C (5)\n\n上行のときと同じ手の形をキープしながら、親指をくぐらせる動きを**小さく・力まず**行ってください。",
+          "pt-BR": "# Mão esquerda – duas oitavas descendo\nDescendo (do Dó mais agudo de volta ao Dó inicial):\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4)\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4) – C (5)\n\nUse a mesma forma de mão da subida. Deixe os movimentos de passar o polegar por baixo **pequenos e relaxados**.",
+          "es": "# Mano izquierda – dos octavas descendentes\nDescendiendo (del Do más agudo de vuelta al Do inicial):\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4)\n- C (1) – B (2) – A (3)\n- G (1) – F (2) – E (3) – D (4) – C (5)\n\nMantén la misma forma de la mano que al subir. Haz que los movimientos de pulgar-debajo sean **pequeños y relajados**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Practice **right hand only**, two octaves up and down, 3–5 times.\n2. Do the same with the **left hand**.\n3. Stay at a tempo where every thumb-under and cross-over feels **easy and controlled**.\n4. When that feels comfortable, try:\n   - Two notes per beat (slow **eighth-notes**)\n   - Soft one run, then loud the next\n\nA few slow, focused runs per day will make two-octave scales feel normal very quickly.",
+          "zh-Hans": "## 快速练习\n1. 先只练 **右手** 两个八度上下行，各 3–5 遍。\n2. 再用同样方法练 **左手**。\n3. 保持在一个速度里，让每次拇指穿越和手指跨越都感觉**轻松、可控**。\n4. 熟练之后可以尝试：\n   - 每拍弹两个音（慢速“八分音符”感觉）\n   - 一遍轻声、一遍大声交替练习\n\n每天花一点时间做这些慢速、专注的练习，很快两个八度的音阶就会变成“日常动作”。",
+          "de": "## Kurze Übungseinheit\n1. Übe zuerst **nur rechte Hand**, zwei Oktaven auf- und abwärts, 3–5 Mal.\n2. Mach dasselbe mit der **linken Hand**.\n3. Wähle ein Tempo, in dem sich jede Unter- und Übersetzung **leicht und kontrolliert** anfühlt.\n4. Wenn das gut klappt, probiere:\n   - Zwei Noten pro Schlag (langsame **Achtelnoten**)\n   - Einen Durchgang leise, den nächsten laut\n\nEin paar langsame, konzentrierte Durchgänge pro Tag reichen, damit sich Zwei-Oktaven-Tonleitern schnell ganz normal anfühlen.",
+          "ja": "## かんたん練習\n1. まずは **右手だけ** で2オクターブの上行・下行を3〜5回くり返します。\n2. 次に同じことを **左手** でも行います。\n3. どの親指くぐり・指またぎも**楽にコントロールできる**テンポにとどめましょう。\n4. 余裕が出てきたら、次のことも試してみます：\n   - 1拍に2音（ゆっくりした**8分音符**の感じ）\n   - 1回目は弱く、2回目は強く、と音量を交互に変える\n\n毎日少しだけでも、ゆっくり丁寧に弾いていくと、2オクターブのスケールがあっという間に“ふつうの動き”になっていきます。",
+          "pt-BR": "## Prática rápida\n1. Treine **apenas a mão direita**, duas oitavas subindo e descendo, de 3 a 5 vezes.\n2. Faça o mesmo com a **mão esquerda**.\n3. Fique em um andamento em que cada passagem de polegar e cada cruzamento pareçam **fáceis e sob controle**.\n4. Quando estiver confortável, experimente:\n   - Duas notas por tempo (sensação de **colcheias** bem lentas)\n   - Uma passada bem suave e a próxima mais forte, alternando dinâmica\n\nAlguns minutos de passagens lentas e focadas por dia são suficientes para fazer as escalas de duas oitavas parecerem naturais bem rápido.",
+          "es": "## Práctica rápida\n1. Practica **solo la mano derecha**, dos octavas subiendo y bajando, 3–5 veces.\n2. Haz lo mismo con la **mano izquierda**.\n3. Mantente en un tempo donde cada cruce y cada pulgar-debajo se sientan **fáciles y controlados**.\n4. Cuando eso sea cómodo, prueba:\n   - Dos notas por pulso (sensación de **corcheas** lentas)\n   - Una pasada suave y la siguiente fuerte, alternando la dinámica\n\nUnos pocos minutos de pasadas lentas y concentradas cada día harán que las escalas de dos octavas se sientan muy naturales en poco tiempo."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

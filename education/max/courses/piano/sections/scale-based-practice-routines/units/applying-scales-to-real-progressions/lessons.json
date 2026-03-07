@@ -1,0 +1,86 @@
+[
+  {
+    "id": "using-c-major-scale-over-pop-progressions",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using C Major Scale over Pop Progressions",
+        "zh-Hans": "在流行音乐和弦进行中使用C大调音阶",
+        "de": "Verwendung der C-Dur-Tonleiter über Pop-Progressionen",
+        "ja": "ポップスの進行におけるCメジャースケールの使用",
+        "pt-BR": "Usando a Escala de Dó Maior sobre Progressões Pop",
+        "es": "Uso de la escala de Do Mayor sobre progresiones pop"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "combining-chord-arpeggios-with-scale-runs",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Combining Chord Arpeggios with Scale Runs",
+        "zh-Hans": "结合和弦琶音与音阶跑动",
+        "de": "Kombination von Akkordarpeggios mit Skalenläufen",
+        "ja": "コードアルペジオとスケールランの組み合わせ",
+        "pt-BR": "Combinando Arpejos de Acordes com Corridas de Escala",
+        "es": "Combinación de arpegios de acordes con ejecuciones de escala"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-fill-ins-between-chords",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Fill-Ins Between Chords",
+        "zh-Hans": "在和弦之间创作填充乐句",
+        "de": "Erstellen von Fill-Ins zwischen Akkorden",
+        "ja": "コード間のフィルインの作成",
+        "pt-BR": "Criando Preenchimentos Entre Acordes",
+        "es": "Creación de rellenos entre acordes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

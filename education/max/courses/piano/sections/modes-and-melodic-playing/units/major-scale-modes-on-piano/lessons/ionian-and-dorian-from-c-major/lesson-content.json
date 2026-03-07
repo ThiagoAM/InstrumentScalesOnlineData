@@ -1,0 +1,86 @@
+{
+  "id": "ionian-and-dorian-from-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Ionian and Dorian from C major\nIn this lesson you’ll build your first two **modes** on piano using only the notes of **C major**.\n\n- **C Ionian** = C major scale (C feels like home)\n- **D Dorian** = same notes, but D feels like home\n\nYou’ll hear how changing the **home note and chord** changes the mood, even with the same keys.",
+          "zh-Hans": "# 从 C 大调出发的 Ionian 和 Dorian 调式\n本课你会只用 **C 大调** 的音，在钢琴上建立前两个**调式（mode）**。\n\n- **C Ionian** = C 大调音阶（C 像是“家”）\n- **D Dorian** = 用同样的音，但 D 像是“家”\n\n你会听出：只要把**“家”的音和和弦**换一下，气氛就会变，哪怕按的键还是同一组。",
+          "de": "# Ionisch und Dorisch aus C-Dur\nIn dieser Lektion baust du deine ersten zwei **Modes** am Klavier – nur mit den Tönen von **C-Dur**.\n\n- **C Ionian** = C-Dur-Tonleiter (C fühlt sich wie Zuhause an)\n- **D Dorian** = dieselben Töne, aber D wirkt wie das Zuhause\n\nDu hörst, wie sich die Stimmung ändert, wenn sich **Grundton und Akkordzentrum** ändern, obwohl du dieselben Tasten spielst.",
+          "ja": "# Cメジャーから作るアイオニアンとドリアン\nこのレッスンでは、**Cメジャー**の音だけを使って、ピアノで最初の2つの**モード（教会旋法）**を作っていきます。\n\n- **C Ionian** = Cメジャー・スケール（C が“帰る場所”）\n- **D Dorian** = 同じ音だが、D が“帰る場所”になる\n\n同じ鍵盤を弾いていても、**どの音とコードを「ホーム」に感じるか**で雰囲気がどう変わるかを体感できます。",
+          "pt-BR": "# Ionian e Dorian a partir de Dó maior\nNesta lição você vai montar seus dois primeiros **modos** no piano usando apenas as notas de **Dó maior**.\n\n- **C Ionian** = escala de Dó maior (C é o centro, a “casa”)\n- **D Dorian** = mesmas notas, mas D vira a “casa”\n\nVocê vai perceber como trocar a **nota e o acorde de referência** muda o clima, mesmo usando as mesmas teclas.",
+          "es": "# Ionian y Dorian a partir de Do mayor\nEn esta lección vas a construir tus dos primeros **modos** en el piano usando solo las notas de **Do mayor**.\n\n- **C Ionian** = escala de Do mayor (C se siente como el centro)\n- **D Dorian** = las mismas notas, pero D se siente como el centro\n\nVerás cómo cambiar la **nota y el acorde que se sienten como “hogar”** cambia el ambiente, aunque toques las mismas teclas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C Ionian – C major as a mode\nNotes of **C Ionian**:\n\nC – D – E – F – G – A – B – C\n\nSound:\n- Bright and **stable**\n- Feels like a natural place to **end**\n\nTry this:\n- Left hand: hold **C** or a **Cmaj7** chord\n- Right hand: play C Ionian up and down around middle C, slowly and evenly",
+          "zh-Hans": "# C Ionian – 把 C 大调当作一个调式\n**C Ionian** 的音：\n\nC – D – E – F – G – A – B – C\n\n听感：\n- 明亮、**稳定**\n- 很像一句话**自然结束**的地方\n\n试一试：\n- 左手：按住一个 **C** 低音，或一个 **Cmaj7** 和弦\n- 右手：在中央 C 附近，上下弹 C Ionian，放慢速度，让每个音都平均、干净",
+          "de": "# C Ionian – C-Dur als Mode\nTöne von **C Ionian**:\n\nC – D – E – F – G – A – H – C\n\nKlang:\n- Hell und **stabil**\n- Fühlt sich wie ein natürlicher **Schlusspunkt** an\n\nProbier das:\n- Linke Hand: halte ein tiefes **C** oder einen **Cmaj7**\n- Rechte Hand: spiele C Ionian langsam auf- und abwärts um das eingestrichene C",
+          "ja": "# C Ionian – モードとしての Cメジャー\n**C Ionian** の音：\n\nC – D – E – F – G – A – B – C\n\nサウンド：\n- 明るくて、**安定感**が強い\n- フレーズの**終わり**としてとても自然に感じる\n\n試してみよう：\n- 左手：低い **C**、または **Cmaj7** のコードを押さえる\n- 右手：中央Cまわりで C Ionian をゆっくり上下させて、音をそろえて弾く",
+          "pt-BR": "# C Ionian – Dó maior como modo\nNotas de **C Ionian**:\n\nC – D – E – F – G – A – B – C\n\nSom:\n- Brilhante e **estável**\n- Passa sensação de **final natural**\n\nTeste assim:\n- Mão esquerda: segure um **C** grave ou um acorde de **Cmaj7**\n- Mão direita: toque C Ionian subindo e descendo perto do dó central, devagar e bem regular",
+          "es": "# C Ionian – Do mayor como modo\nNotas de **C Ionian**:\n\nC – D – E – F – G – A – B – C\n\nSonido:\n- Brillante y **estable**\n- Se siente como un lugar natural para **terminar**\n\nPrueba esto:\n- Mano izquierda: mantén un **C** grave o un acorde de **Cmaj7**\n- Mano derecha: toca C Ionian subiendo y bajando cerca del Do central, lento y parejo"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# D Dorian – minor color from the same notes\nNow start on **D** and keep the C major notes:\n\nD – E – F – G – A – B – C – D\n\nThis is **D Dorian**.\n\nSound:\n- Minor, but a bit **open and hopeful**\n- The note **B** (the natural 6th) keeps it from sounding too dark\n\nTry this:\n- Left hand: hold **Dm** or **Dm7**\n- Right hand: play D Dorian up and down and notice how the mood changes compared to C Ionian",
+          "zh-Hans": "# D Dorian – 用同样的音做小调色彩\n现在从 **D** 开始，但仍然只用 C 大调的音：\n\nD – E – F – G – A – B – C – D\n\n这就是 **D Dorian**。\n\n听感：\n- 属于小调，但感觉**比较开阔、有一点希望感**\n- 因为有自然的 6 度 **B**，不会太阴暗\n\n试一试：\n- 左手：按住 **Dm** 或 **Dm7**\n- 右手：上下弹 D Dorian，留意它和 C Ionian 相比，气氛有什么变化",
+          "de": "# D Dorian – Mollfarbe aus denselben Tönen\nJetzt beginnst du auf **D**, behältst aber die C-Dur-Töne bei:\n\nD – E – F – G – A – H – C – D\n\nDas ist **D Dorisch**.\n\nKlang:\n- Mollig, aber **offen und etwas hoffnungsvoll**\n- Der Ton **H** (die große Sexte) verhindert, dass es zu düster wirkt\n\nProbier das:\n- Linke Hand: halte **Dm** oder **Dm7**\n- Rechte Hand: spiele D Dorian auf- und abwärts und höre, wie sich die Stimmung im Vergleich zu C Ionian verändert",
+          "ja": "# D Dorian – 同じ音から生まれるマイナー系の色\n今度は **D** から始めますが、使う音は Cメジャーと同じです：\n\nD – E – F – G – A – B – C – D\n\nこれが **D Dorian** です。\n\nサウンド：\n- マイナー寄りだが、**少し明るさや開放感**がある\n- 自然な6度の **B** があるおかげで、暗くなりすぎない\n\n試してみよう：\n- 左手：**Dm** または **Dm7** を押さえる\n- 右手：D Dorian を上下に弾いて、C Ionian と比べて雰囲気がどう変わるかを聴いてみる",
+          "pt-BR": "# D Dorian – cor menor com as mesmas notas\nAgora comece em **D**, mas continue usando as notas de Dó maior:\n\nD – E – F – G – A – B – C – D\n\nIsso é **D Dorian**.\n\nSom:\n- Menor, mas com sensação **mais aberta e esperançosa**\n- A nota **B** (a 6ª maior) evita que o som fique muito escuro\n\nExperimente:\n- Mão esquerda: segure **Dm** ou **Dm7**\n- Mão direita: toque D Dorian subindo e descendo e repare como o clima muda em relação ao C Ionian",
+          "es": "# D Dorian – color menor con las mismas notas\nAhora empezamos en **D**, pero seguimos con las notas de Do mayor:\n\nD – E – F – G – A – B – C – D\n\nEsto es **D Dorian**.\n\nSonido:\n- Menor, pero algo más **abierto y esperanzador**\n- La nota **B** (la 6ª mayor) hace que no suene tan oscuro\n\nPrueba esto:\n- Mano izquierda: mantén **Dm** o **Dm7**\n- Mano derecha: toca D Dorian subiendo y bajando y escucha cómo cambia el ambiente comparado con C Ionian"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple right-hand fingerings\nStay near middle C.\n\n**C Ionian (one octave up)**\n- Notes: C–D–E–F–G–A–B–C\n- Fingering (RH): **1–2–3–1–2–3–4–5**\n\n**D Dorian (one octave up)**\n- Notes: D–E–F–G–A–B–C–D\n- Fingering (RH, suggestion): **1–2–3–1–2–3–4–5**\n\nUse the **same movement** you use for a C major scale, just starting and finishing on a different note.",
+          "zh-Hans": "# 右手的简单指法\n在中央 C 附近练习。\n\n**C Ionian（上行一组音）**\n- 音：C–D–E–F–G–A–B–C\n- 右手指法：**1–2–3–1–2–3–4–5**\n\n**D Dorian（上行一组音）**\n- 音：D–E–F–G–A–B–C–D\n- 右手指法（建议）：**1–2–3–1–2–3–4–5**\n\n也就是和平常弹 C 大调音阶时的**手型动作一样**，只是起点和终点换到了别的键。",
+          "de": "# Einfache Fingersätze für die rechte Hand\nBleib in der Nähe des eingestrichenen C.\n\n**C Ionian (eine Oktave aufwärts)**\n- Töne: C–D–E–F–G–A–H–C\n- Fingersatz rechts: **1–2–3–1–2–3–4–5**\n\n**D Dorian (eine Oktave aufwärts)**\n- Töne: D–E–F–G–A–H–C–D\n- Fingersatz rechts (Vorschlag): **1–2–3–1–2–3–4–5**\n\nNutze also im Grunde dieselbe **Bewegung wie bei der C-Dur-Tonleiter**, nur dass Start- und Endton andere sind.",
+          "ja": "# 右手のかんたんな指使い\n中央Cの近くで弾きましょう。\n\n**C Ionian（1オクターブ上行）**\n- 音：C–D–E–F–G–A–B–C\n- 右手の指使い：**1–2–3–1–2–3–4–5**\n\n**D Dorian（1オクターブ上行）**\n- 音：D–E–F–G–A–B–C–D\n- 右手の指使い（おすすめ）：**1–2–3–1–2–3–4–5**\n\n基本的には Cメジャー・スケールと**同じ動き**を使い、スタートとゴールだけ別の音にしたイメージです。",
+          "pt-BR": "# Dedilhados simples para a mão direita\nFique próximo ao dó central.\n\n**C Ionian (uma oitava subindo)**\n- Notas: C–D–E–F–G–A–B–C\n- Dedilhado (mão direita): **1–2–3–1–2–3–4–5**\n\n**D Dorian (uma oitava subindo)**\n- Notas: D–E–F–G–A–B–C–D\n- Dedilhado (mão direita, sugestão): **1–2–3–1–2–3–4–5**\n\nÉ basicamente o mesmo **movimento da escala de Dó maior**, só que começando e terminando em outra nota.",
+          "es": "# Digitaciones sencillas para la mano derecha\nQuédate cerca del Do central.\n\n**C Ionian (una octava ascendente)**\n- Notas: C–D–E–F–G–A–B–C\n- Digitación (MD): **1–2–3–1–2–3–4–5**\n\n**D Dorian (una octava ascendente)**\n- Notas: D–E–F–G–A–B–C–D\n- Digitación (MD, sugerida): **1–2–3–1–2–3–4–5**\n\nUsas prácticamente el mismo **movimiento que en la escala de Do mayor**, solo que el inicio y el final están en otra nota."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two tiny mode patterns\nUse your right hand only.\n\n**Ionian pattern (over C or Cmaj7)**\n- C – D – E – G – E – D – C\n\n**Dorian pattern (over Dm or Dm7)**\n- D – F – G – A – G – F – E\n\nPlay each one several times and silently **hear the first note in your head** (C for Ionian, D for Dorian). That first note pulls the ear into the mode.",
+          "zh-Hans": "# 两个很小的调式句型\n先只用右手。\n\n**Ionian 句型（配 C 或 Cmaj7）**\n- C – D – E – G – E – D – C\n\n**Dorian 句型（配 Dm 或 Dm7）**\n- D – F – G – A – G – F – E\n\n每个句型多弹几遍，在心里默默**听住第一个音**（Ionian 时是 C，Dorian 时是 D）。这个起点会把耳朵“拉进”对应的调式里。",
+          "de": "# Zwei kleine Mode-Patterns\nNur rechte Hand.\n\n**Ionian-Pattern (über C oder Cmaj7)**\n- C – D – E – G – E – D – C\n\n**Dorian-Pattern (über Dm oder Dm7)**\n- D – F – G – A – G – F – E\n\nSpiele jedes Pattern mehrmals und **höre den ersten Ton innerlich nach** (C bei Ionian, D bei Dorian). Dieser Startton zieht das Ohr in den jeweiligen Mode.",
+          "ja": "# 小さなモード・パターンを2つ\n右手だけで弾いてみましょう。\n\n**アイオニアンのパターン（C または Cmaj7 の上）**\n- C – D – E – G – E – D – C\n\n**ドリアンのパターン（Dm または Dm7 の上）**\n- D – F – G – A – G – F – E\n\nそれぞれを何度かくり返しながら、心の中で**最初の音を強くイメージ**してみてください（アイオニアンなら C、ドリアンなら D）。その出だしの音が、耳をそのモードの世界に引き込んでくれます。",
+          "pt-BR": "# Dois mini padrões modais\nUse apenas a mão direita.\n\n**Padrão Ionian (sobre C ou Cmaj7)**\n- C – D – E – G – E – D – C\n\n**Padrão Dorian (sobre Dm ou Dm7)**\n- D – F – G – A – G – F – E\n\nToque cada um várias vezes e tente **ouvir mentalmente o primeiro som** (C no Ionian, D no Dorian). Esse início é o que puxa o ouvido para dentro do modo.",
+          "es": "# Dos pequeños patrones modales\nUsa solo la mano derecha.\n\n**Patrón Ionian (sobre C o Cmaj7)**\n- C – D – E – G – E – D – C\n\n**Patrón Dorian (sobre Dm o Dm7)**\n- D – F – G – A – G – F – E\n\nToca cada uno varias veces y trata de **escuchar mentalmente la primera nota** (C en Ionian, D en Dorian). Ese comienzo es lo que arrastra el oído hacia el modo correspondiente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Warm up with **C Ionian** up and down, right hand only.\n2. Switch to **D Dorian** without changing any keys – only change the **starting note and left-hand chord**.\n3. Alternate 4 bars of **C Ionian over Cmaj7** and 4 bars of **D Dorian over Dm7**.\n4. Make up your own **one-bar patterns** in each mode, keeping the rhythm simple.\n\nOnce the contrast between Ionian and Dorian feels clear under your fingers, the other modes of the major scale will be much easier to hear and use.",
+          "zh-Hans": "## 快速练习\n1. 用右手上下弹几遍 **C Ionian** 当热身。\n2. 换成 **D Dorian**，不要换键，只是把**起点和左手和弦**改成 D / Dm 或 Dm7。\n3. 轮流弹：4 小节 **C Ionian 配 Cmaj7**，再 4 小节 **D Dorian 配 Dm7**。\n4. 在每个调式里自己编一些**一小节的小句子**，节奏先保持简单。\n\n当你能清楚感觉到 Ionian 和 Dorian 的差别时，今后再学大调的其他调式，会容易很多，也更容易在音乐里听出来和用出来。",
+          "de": "## Kurze Übung\n1. Wärm dich auf, indem du **C Ionian** mit der rechten Hand auf- und abwärts spielst.\n2. Wechsle zu **D Dorian**, ohne andere Tasten zu benutzen – ändere nur **Startton und linken Handakkord**.\n3. Wechsle immer wieder: 4 Takte **C Ionian über Cmaj7**, dann 4 Takte **D Dorian über Dm7**.\n4. Denke dir in jedem Mode eigene **Ein-Takt-Patterns** aus, mit einfachem Rhythmus.\n\nSobald sich der Unterschied zwischen Ionian und Dorian klar anfühlt, werden die anderen Modes der Dur-Tonleiter viel leichter zu hören und zu benutzen sein.",
+          "ja": "## かんたん練習\n1. 右手だけで **C Ionian** を上下に弾いてウォームアップする。\n2. 鍵盤は変えずに、**D Dorian** に切り替える。変えるのは**スタートの音と左手のコード**だけ（Dm や Dm7）。\n3. 4小節 **C Ionian＋Cmaj7**、続けて4小節 **D Dorian＋Dm7**、というふうに交互に繰り返す。\n4. それぞれのモードの中で、リズムをシンプルに保ちながら**1小節の短いパターン**を自分でも作ってみる。\n\nIonian と Dorian のコントラストが指先と耳でハッキリ分かるようになれば、メジャー・スケールの他のモードもずっと掴みやすくなります。",
+          "pt-BR": "## Prática rápida\n1. Aqueça tocando **C Ionian** para cima e para baixo só com a mão direita.\n2. Depois mude para **D Dorian** sem trocar de teclas – troque apenas a **nota de partida e o acorde da mão esquerda**.\n3. Alterne 4 compassos de **C Ionian sobre Cmaj7** com 4 compassos de **D Dorian sobre Dm7**.\n4. Em cada modo, invente seus próprios **padrões de um compasso**, com ritmo simples.\n\nQuando a diferença entre Ionian e Dorian estiver clara nos seus dedos e no ouvido, os outros modos da escala maior vão ficar muito mais fáceis de perceber e usar.",
+          "es": "## Práctica rápida\n1. Calienta tocando **C Ionian** arriba y abajo solo con la mano derecha.\n2. Cambia a **D Dorian** sin cambiar de teclas: solo cambia la **nota de inicio y el acorde de la mano izquierda**.\n3. Alterna 4 compases de **C Ionian sobre Cmaj7** y 4 compases de **D Dorian sobre Dm7**.\n4. En cada modo, inventa tus propios **patrones de un compás**, con un ritmo sencillo.\n\nCuando el contraste entre Ionian y Dorian se sienta claro en tus dedos y en tu oído, los demás modos de la escala mayor serán mucho más fáciles de escuchar y de usar."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

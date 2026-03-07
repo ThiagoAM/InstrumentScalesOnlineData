@@ -1,0 +1,56 @@
+[
+  {
+    "id": "keyboard-orientation",
+    "name": {
+      "values": {
+        "en": "Keyboard Orientation",
+        "zh-Hans": "键盘定位",
+        "de": "Orientierung auf der Klaviatur",
+        "ja": "キーボードの位置把握",
+        "pt-BR": "Orientação no teclado",
+        "es": "Orientación en el teclado"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Find Cs, middle C, and the repeating white-key pattern.",
+        "zh-Hans": "找到所有的C音、中音C，以及白键的重复模式。",
+        "de": "Finde alle Cs, das mittlere C und das sich wiederholende Muster der weißen Tasten.",
+        "ja": "すべてのC音、中央C、そして白鍵の繰り返しパターンを見つけましょう。",
+        "pt-BR": "Encontre todos os Dós, o Dó central e o padrão repetitivo das teclas brancas.",
+        "es": "Encuentra los Do, el Do central y el patrón repetitivo de las teclas blancas."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_keyboard_orientation" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "first-major-and-minor-scales",
+    "name": {
+      "values": {
+        "en": "First Major and Minor Scales",
+        "zh-Hans": "首个大调与小调音阶",
+        "de": "Erste Dur- und Molltonleitern",
+        "ja": "最初のメジャー／マイナー・スケール",
+        "pt-BR": "Primeiras escalas maior e menor",
+        "es": "Primeras escalas mayor y menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play C major and A natural minor in a single octave.",
+        "zh-Hans": "在一个八度范围内演奏C大调和A自然小调音阶。",
+        "de": "Spiele C-Dur und A-Natürlich-Moll über eine Oktave.",
+        "ja": "1オクターブの範囲でCメジャーとAナチュラル・マイナーを弾きましょう。",
+        "pt-BR": "Toque as escalas de Dó maior e Lá menor natural em uma única oitava.",
+        "es": "Toca Do mayor y La menor natural en una sola octava."
+      }
+    },
+    "image": { "type": "asset", "name": "piano_unit_first_scales" },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

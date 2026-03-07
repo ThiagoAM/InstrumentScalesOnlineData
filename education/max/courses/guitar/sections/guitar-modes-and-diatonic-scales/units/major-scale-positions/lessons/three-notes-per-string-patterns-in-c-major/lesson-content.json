@@ -1,0 +1,60 @@
+{
+  "id": "three-notes-per-string-patterns-in-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Three-notes-per-string patterns in C major\nIn this lesson you’ll take the **same C major scale** and play it using **three-notes-per-string (3NPS) patterns**.\n\nWhy 3NPS?\n- Very **even picking** (3 notes on every string)\n- Great for **alternate picking** and **legato**\n- Lets you cover a lot of fretboard with **long, flowing lines**",
+          "zh-Hans": "# C 大调中的每弦三音指型\n在本课中，你会用 **每弦三音（3NPS）** 的方式来弹**同样的 C 大调音阶**。\n\n为什么要练 3NPS？\n- 每根弦都是 **3 个音**，右手节奏很平均\n- 非常适合 **交替拨弦** 和 **连音（legato）**\n- 可以用又长又顺的乐句，**快速覆盖指板**",
+          "de": "# Drei-Noten-pro-Saite-Patterns in C-Dur\nIn dieser Lektion spielst du die **gleiche C-Dur-Tonleiter** mit **Drei-Noten-pro-Saite (3NPS) Patterns**.\n\nWarum 3NPS?\n- **Gleichmäßiges Picking** (3 Töne auf jeder Saite)\n- Ideal für **Wechselschlag** und **Legato-Läufe**\n- Du kannst mit **langen, fließenden Linien** viel Griffbrett abdecken",
+          "ja": "# Cメジャーの3ノート・パー・ストリング・パターン\nこのレッスンでは、いつもの **Cメジャー・スケール** を、**1弦につき3音（3NPS）** で弾いてみます。\n\nなぜ3NPSを使うのか？\n- 各弦が**必ず3音**なので、右手のリズムがそろいやすい\n- **オルタネイト・ピッキング**や**レガート**の練習に向いている\n- **長く流れるようなライン**で、指板を一気に広くカバーできる",
+          "pt-BR": "# Desenhos de três notas por corda em Dó maior\nNesta lição você vai pegar a **mesma escala de Dó maior** e tocá-la usando desenhos de **três notas por corda (3NPS)**.\n\nPor que 3NPS?\n- **3 notas em toda corda**, o que deixa a palhetada bem regular\n- Ótimo para **palhetada alternada** e **legato**\n- Permite criar linhas longas e **bem fluídas pelo braço inteiro**",
+          "es": "# Patrones de tres notas por cuerda en Do mayor\nEn esta lección vas a usar la **misma escala de Do mayor**, pero tocándola con patrones de **tres notas por cuerda (3NPS)**.\n\n¿Por qué 3NPS?\n- **3 notas en cada cuerda**, lo que hace el picking muy regular\n- Ideal para practicar **púa alternada** y **legato**\n- Te permite hacer líneas largas y **fluídas que recorren el mástil**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The basic 3NPS shape for C major\nHere’s a common C major 3NPS shape starting at the **8th fret** on the 6th string:\n\n- 6th string: **8–10–12** (C–D–E)\n- 5th string: **8–10–12** (F–G–A)\n- 4th string: **9–10–12** (B–C–D)\n- 3rd string: **9–10–12** (E–F–G)\n- 2nd string: **10–12–13** (A–B–C)\n- 1st string: **10–12–13** (D–E–F)\n\nIt’s still just **C major**: C D E F G A B, but the spacing makes runs feel very smooth.",
+          "zh-Hans": "# C 大调的一个常用 3NPS 形状\n下面是一个很常用的 C 大调 3NPS 指型，从 **第 6 弦第 8 品** 开始：\n\n- 第6弦：**8–10–12**（C–D–E）\n- 第5弦：**8–10–12**（F–G–A）\n- 第4弦：**9–10–12**（B–C–D）\n- 第3弦：**9–10–12**（E–F–G）\n- 第2弦：**10–12–13**（A–B–C）\n- 第1弦：**10–12–13**（D–E–F）\n\n音还是同一个 **C 大调音阶**：C D E F G A B，只是间距变成每弦三音，跑动会更顺。",
+          "de": "# Das grundlegende 3NPS-Pattern für C-Dur\nHier ist eine typische C-Dur-3NPS-Form, beginnend am **8. Bund der 6. Saite**:\n\n- 6. Saite: **8–10–12** (C–D–E)\n- 5. Saite: **8–10–12** (F–G–A)\n- 4. Saite: **9–10–12** (B–C–D)\n- 3. Saite: **9–10–12** (E–F–G)\n- 2. Saite: **10–12–13** (A–B–C)\n- 1. Saite: **10–12–13** (D–E–F)\n\nDas sind immer noch nur die Töne von **C-Dur**: C D E F G A B – die Aufteilung macht Läufe aber sehr geschmeidig.",
+          "ja": "# Cメジャーの基本3NPSパターン\nまずは、**6弦8フレット**（C）から始まる、よく使われるCメジャー3NPSパターンです：\n\n- 6弦：**8–10–12**（C–D–E）\n- 5弦：**8–10–12**（F–G–A）\n- 4弦：**9–10–12**（B–C–D）\n- 3弦：**9–10–12**（E–F–G）\n- 2弦：**10–12–13**（A–B–C）\n- 1弦：**10–12–13**（D–E–F）\n\n中身はずっと **Cメジャーの音階（C D E F G A B）** ですが、1弦3音にそろえることで、ランがとてもスムーズになります。",
+          "pt-BR": "# O desenho básico 3NPS de Dó maior\nAqui vai um desenho bem comum de Dó maior em 3NPS, começando na **6ª corda, casa 8**:\n\n- 6ª corda: **8–10–12** (C–D–E)\n- 5ª corda: **8–10–12** (F–G–A)\n- 4ª corda: **9–10–12** (B–C–D)\n- 3ª corda: **9–10–12** (E–F–G)\n- 2ª corda: **10–12–13** (A–B–C)\n- 1ª corda: **10–12–13** (D–E–F)\n\nContinua sendo **a mesma escala de Dó maior**: C D E F G A B – o que muda é o espaçamento de 3 notas por corda, que deixa os runs bem suaves.",
+          "es": "# El patrón básico 3NPS de Do mayor\nEste es un patrón muy usado de Do mayor en 3NPS, empezando en el **traste 8 de la 6ª cuerda**:\n\n- 6ª cuerda: **8–10–12** (C–D–E)\n- 5ª cuerda: **8–10–12** (F–G–A)\n- 4ª cuerda: **9–10–12** (B–C–D)\n- 3ª cuerda: **9–10–12** (E–F–G)\n- 2ª cuerda: **10–12–13** (A–B–C)\n- 1ª cuerda: **10–12–13** (D–E–F)\n\nSiguen siendo solo las notas de **Do mayor**: C D E F G A B; el truco es repartirlas en 3 por cuerda para que los recorridos se sientan muy fluidos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Fingering and picking tips\nFor this pattern, a common fingering is:\n- Frets that are **2 apart** → fingers **1–2–4**\n- Frets that are **1–2 apart** (like 10–12–13) → fingers **1–3–4**\n\nPicking ideas:\n- Start with strict **alternate picking**: down–up–down on each string\n- When you cross to the next string, keep the motion small and relaxed\n- Later you can experiment with **economy picking** or hammer-ons/pull-offs,\n  but first make it feel solid with alternate picking.",
+          "zh-Hans": "# 手指和拨弦小建议\n这组指型常见的按法：\n- 相隔 **2 品** 的位置 → 用 **1–2–4 指**\n- 像 10–12–13 这样 **1 品 + 2 品** 的 → 用 **1–3–4 指**\n\n拨弦建议：\n- 先用严格的 **交替拨弦**：每根弦上都是下–上–下\n- 换弦时手的动作保持**小而放松**\n- 熟练后再去试 **经济拨弦** 或者连音（hammer-on / pull-off），\n  但一开始先把交替拨弦打稳。",
+          "de": "# Fingersatz- und Picking-Tipps\nFür dieses Pattern bietet sich folgender Fingersatz an:\n- Bünde mit **2 Bünden Abstand** → Finger **1–2–4**\n- Bünde mit **1 + 2 Bünden Abstand** (z.B. 10–12–13) → Finger **1–3–4**\n\nPicking-Ideen:\n- Starte mit sauberem **Wechselschlag**: down–up–down auf jeder Saite\n- Halte die Bewegung beim Saitenwechsel **klein und entspannt**\n- Später kannst du mit **Economy Picking** oder Hammer-Ons/Pull-Offs experimentieren –\n  aber zuerst sollte es mit Wechselschlag wirklich sicher sitzen.",
+          "ja": "# 運指とピッキングのコツ\nこのパターンでよく使われる運指は：\n- フレット間が**2フレット**空いているところ → 指 **1–2–4**\n- 10–12–13 のように **1 + 2フレット** の並び → 指 **1–3–4**\n\nピッキングのポイント：\n- まずはきっちり **オルタネイト・ピッキング**（各弦でダウン–アップ–ダウン）から\n- 弦をまたぐときは、動きを**小さく・リラックス**しておく\n- 慣れてきたら **エコノミー・ピッキング** やハンマリング／プリングも試してOK。\n  ただし最初はオルタネイトでしっかり安定させるのが大事です。",
+          "pt-BR": "# Dicas de digitação e palhetada\nPara esse desenho, uma digitação bem comum é:\n- Quando as casas estão **separadas por 2 trastes** → dedos **1–2–4**\n- Quando é um padrão de **1 + 2 trastes** (como 10–12–13) → dedos **1–3–4**\n\nNa palhetada:\n- Comece com **palhetada alternada** bem certinha: down–up–down em cada corda\n- Na troca de corda, mantenha o movimento **pequeno e relaxado**\n- Depois você pode testar **economy picking** ou hammer-ons/pull-offs,\n  mas primeiro deixe tudo firme com a palhetada alternada.",
+          "es": "# Consejos de digitación y picking\nPara este patrón, una digitación típica es:\n- Trastes separados por **2 trastes** → dedos **1–2–4**\n- Patrones de **1 + 2 trastes** (por ejemplo 10–12–13) → dedos **1–3–4**\n\nEn la púa:\n- Empieza con **púa alternada** bien estricta: down–up–down en cada cuerda\n- Al pasar a la siguiente cuerda, mantén el movimiento **corto y relajado**\n- Más adelante puedes probar **economy picking** o ligados,\n  pero primero haz que se sienta sólido con púa alternada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Set a **slow tempo** on a metronome (for example ♩ = 70–80).\n2. Play the C major 3NPS pattern **up and down** using strict alternate picking.\n3. When it feels clean, try:\n   - Playing only on **one string at a time** (e.g. just 6th string 8–10–12 up and down)\n   - Starting on a **different note** of the pattern but staying inside the shape\n4. Finally, put on a **C major or Am backing track** and improvise using **only this pattern** for a few minutes.\n\nThe goal is not speed – it’s to make this 3NPS shape feel like a **comfortable home base** for C major lines.",
+          "zh-Hans": "# 小练习\n1. 打开节拍器，先设一个**比较慢的速度**（比如 ♩ = 70–80）。\n2. 用严格交替拨弦，把这个 C 大调 3NPS 指型**完整地上一遍、下一遍**。\n3. 觉得干净后，再试试看：\n   - 一次只练 **一根弦**（比如只在第 6 弦上做 8–10–12 上下反复）\n   - 换成从指型里的**不同音开始**，但始终待在同一个形状里\n4. 最后，放一个 **C 大调或 A 小调的伴奏**，限定自己只用这个 3NPS 指型即兴几分钟。\n\n目标不是速度，而是让这个 3NPS 形状变成你在 C 大调里**顺手、好呆的“家”**。",
+          "de": "# Kurze Übung\n1. Stell ein **langsames Tempo** am Metronom ein (z.B. ♩ = 70–80).\n2. Spiel das C-Dur-3NPS-Pattern mit sauberem Wechselschlag **auf- und abwärts**.\n3. Wenn es sauber klingt, probiere:\n   - Nur **eine Saite auf einmal** zu üben (z.B. 6. Saite 8–10–12 rauf und runter)\n   - Auf einem **anderen Ton des Patterns** zu starten, aber in derselben Form zu bleiben\n4. Zum Schluss nimm ein **C-Dur- oder A-Moll-Backing** und improvisiere ein paar Minuten **nur mit diesem Pattern**.\n\nDas Ziel ist nicht Tempo, sondern dass sich diese 3NPS-Form wie ein **bequemer Ausgangspunkt** für deine C-Dur-Linien anfühlt.",
+          "ja": "# かんたん練習\n1. メトロノームで**ゆっくりめのテンポ**をセット（例：♩ = 70〜80）。\n2. Cメジャー3NPSパターンを、オルタネイト・ピッキングで**上昇→下降**と往復する。\n3. きれいに弾けてきたら、次を試す：\n   - **1本の弦だけ**を集中的に（例：6弦 8–10–12 をひたすら上り下り）\n   - 同じ形の中で、**別の音から弾き始める**（でもポジションは変えない）\n4. 最後に、**CメジャーかAマイナーのバッキング**を流して、\n   数分間この3NPSパターン**だけ**を使って即興してみる。\n\n狙いはスピードではなく、この3NPSの形をCメジャーの**安心できる“ホームポジション”**にしてしまうことです。",
+          "pt-BR": "# Prática rápida\n1. Coloque o metrônomo em um **tempo confortável e lento** (por exemplo ♩ = 70–80).\n2. Toque o desenho 3NPS de Dó maior **subindo e descendo**, com palhetada alternada bem certinha.\n3. Quando estiver limpo, experimente:\n   - Ficar só em **uma corda por vez** (ex.: 6ª corda 8–10–12 indo e voltando)\n   - Começar a escala em **notas diferentes** dentro do mesmo desenho\n4. Por fim, coloque um playback em **C maior ou A menor** e improvise alguns minutos usando **apenas esse padrão 3NPS**.\n\nO foco aqui não é velocidade, e sim fazer esse desenho 3NPS virar um **ponto de apoio confortável** para suas frases em Dó maior.",
+          "es": "# Práctica rápida\n1. Pon el metrónomo a un **tempo lento y cómodo** (por ejemplo ♩ = 70–80).\n2. Toca el patrón 3NPS de Do mayor **subiendo y bajando** con púa alternada.\n3. Cuando suene limpio, prueba:\n   - Practicar **una sola cuerda** por vez (ej.: 6ª cuerda 8–10–12 arriba y abajo)\n   - Empezar la escala en **notas distintas** dentro del mismo dibujo\n4. Por último, pon una base en **Do mayor o La menor** e improvisa unos minutos usando **solo este patrón 3NPS**.\n\nLa meta no es la velocidad, sino que este patrón 3NPS se sienta como una **base cómoda** para tus líneas en Do mayor."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

@@ -1,0 +1,103 @@
+{
+  "whatsNew": {
+    "en": [
+      {
+        "title": "Version 3.0",
+        "description": "We’ve completely redesigned the app with exciting new features, including a fresh interface, Scale Search with Apple Intelligence, interactive Courses, and stunning new color themes!"
+      }
+    ],
+    "pt-BR": [
+      {
+        "title": "Versão 3.0",
+        "description": "Reformulamos completamente o app com recursos incríveis, incluindo uma nova interface, Busca de Escalas com suporte à Apple Intelligence, Cursos interativos e novos temas de cores incríveis!"
+      }
+    ],
+    "ja": [
+      {
+        "title": "バージョン 3.0",
+        "description": "アプリを完全にリニューアルし、新しいインターフェース、Apple Intelligence 対応のスケール検索、インタラクティブなコース、そして美しい新しいカラーテーマなど、エキサイティングな新機能を追加しました！"
+      }
+    ],
+    "zh-CN": [
+      {
+        "title": "版本 3.0",
+        "description": "我们彻底重新设计了应用，带来了令人兴奋的新功能，包括全新的界面、支持 Apple Intelligence 的音阶搜索、互动课程以及令人惊艳的新配色主题！"
+      }
+    ],
+    "de": [
+      {
+        "title": "Version 3.0",
+        "description": "Wir haben die App komplett neu gestaltet – mit spannenden neuen Funktionen wie einer frischen Benutzeroberfläche, Skalen-Suche mit Apple Intelligence, interaktiven Kursen und beeindruckenden neuen Farbthemen!"
+      }
+    ],
+    "es": [
+      {
+        "title": "Versión 3.0",
+        "description": "Hemos rediseñado completamente la aplicación con emocionantes funciones nuevas, incluyendo una interfaz renovada, búsqueda de escalas con Apple Intelligence, cursos interactivos y nuevos y sorprendentes temas de color."
+      }
+    ]
+  },
+  "tips": {
+    "en": [
+      {
+        "title": "Use Scale Tabs",
+        "description": "Did you know you can tap the '+' button in the bottom-right corner of the Scales tab to open a new tab? This lets you quickly switch between different instruments and scale setups!"
+      },
+      {
+        "title": "Note Sounds",
+        "description": "In the Scales tab, you can tap anywhere on your instrument to hear the sound of each note."
+      }
+    ],
+    "pt-BR": [
+      {
+        "title": "Use Abas de Escalas",
+        "description": "Você sabia que é possível tocar no botão “+” no canto inferior direito da aba Escalas para abrir uma nova aba? Assim, você pode alternar facilmente entre diferentes instrumentos e configurações de escalas!"
+      },
+      {
+        "title": "Sons de Notas",
+        "description": "Na aba Escalas, você pode tocar em qualquer parte do instrumento para ouvir o som de cada nota."
+      }
+    ],
+    "ja": [
+      {
+        "title": "スケールタブを使おう",
+        "description": "スケールタブの右下にある「＋」ボタンをタップすると、新しいタブを開くことができます。これにより、さまざまな楽器やスケール設定を素早く切り替えることができます！"
+      },
+      {
+        "title": "音を聞いてみよう",
+        "description": "スケールタブでは、楽器のどこでもタップすると各音符のサウンドを聞くことができます。"
+      }
+    ],
+    "zh-CN": [
+      {
+        "title": "使用音阶标签页",
+        "description": "你知道吗？你可以点击音阶标签页右下角的“+”按钮来打开一个新标签页！这样你就能快速在不同的乐器和音阶设置之间切换。"
+      },
+      {
+        "title": "音符声音",
+        "description": "在音阶标签页中，你可以点击乐器上的任意位置来听取每个音符的声音。"
+      }
+    ],
+    "de": [
+      {
+        "title": "Verwende Skalen-Tabs",
+        "description": "Wusstest du, dass du mit der „+“-Taste in der unteren rechten Ecke des Skalen-Tabs einen neuen Tab öffnen kannst? So kannst du schnell zwischen verschiedenen Instrumenten und Skalen-Setups wechseln!"
+      },
+      {
+        "title": "Notenklänge",
+        "description": "Im Skalen-Tab kannst du irgendwo auf dein Instrument tippen, um den Klang jeder Note zu hören."
+      }
+    ],
+    "es": [
+      {
+        "title": "Usa pestañas de escalas",
+        "description": "¿Sabías que puedes tocar el botón “+” en la esquina inferior derecha de la pestaña de Escalas para abrir una nueva pestaña? ¡Así podrás cambiar rápidamente entre diferentes instrumentos y configuraciones de escalas!"
+      },
+      {
+        "title": "Sonidos de notas",
+        "description": "En la pestaña de Escalas, puedes tocar en cualquier parte de tu instrumento para escuchar el sonido de cada nota."
+      }
+    ]
+  },
+  "updatedAt": "2025-10-08T01:40:00Z"
+}

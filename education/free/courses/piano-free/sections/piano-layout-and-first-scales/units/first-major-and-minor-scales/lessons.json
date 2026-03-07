@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c-major-scale-one-octave-right-hand",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "C Major Scale – One Octave, Right Hand",
+        "zh-Hans": "C大调音阶——一八度，右手",
+        "de": "C-Dur-Tonleiter – Eine Oktave, rechte Hand",
+        "ja": "Cメジャー・スケール 1オクターブ（右手）",
+        "pt-BR": "Escala de Dó maior – Uma oitava, mão direita",
+        "es": "Escala de Do mayor – Una octava, mano derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Play a one-octave C major scale with comfortable right-hand fingering.",
+        "zh-Hans": "使用舒适的右手指法演奏一个八度的C大调音阶。",
+        "de": "Spiele eine C-Dur-Tonleiter über eine Oktave mit einer angenehmen rechten Fingersetzung.",
+        "ja": "右手で弾きやすいフィンガリングを使って、1オクターブのCメジャー・スケールを弾きましょう。",
+        "pt-BR": "Toque uma escala de Dó maior de uma oitava usando uma digitação confortável da mão direita.",
+        "es": "Toca una escala de Do mayor de una octava con una digitación cómoda en la mano derecha."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "a-natural-minor-scale-one-octave-right-hand",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "A Natural Minor Scale – One Octave, Right Hand",
+        "zh-Hans": "A自然小调音阶——一八度，右手",
+        "de": "A-Natürlich-Moll-Tonleiter – Eine Oktave, rechte Hand",
+        "ja": "Aナチュラル・マイナー・スケール 1オクターブ（右手）",
+        "pt-BR": "Escala de Lá menor natural – Uma oitava, mão direita",
+        "es": "Escala de La menor natural – Una octava, mano derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn a right-hand fingering for a one-octave A natural minor scale.",
+        "zh-Hans": "学习右手指法来演奏一个八度的A自然小调音阶。",
+        "de": "Lerne eine rechte Fingersetzung für eine A-Natürlich-Moll-Tonleiter über eine Oktave.",
+        "ja": "1オクターブのAナチュラル・マイナー・スケールを右手で弾くためのフィンガリングを学びましょう。",
+        "pt-BR": "Aprenda uma digitação da mão direita para uma oitava de Lá menor natural.",
+        "es": "Aprende una digitación para la mano derecha para una escala de La menor natural de una octava."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

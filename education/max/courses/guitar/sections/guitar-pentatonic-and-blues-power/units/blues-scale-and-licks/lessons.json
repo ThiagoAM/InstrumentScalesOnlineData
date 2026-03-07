@@ -1,0 +1,86 @@
+[
+  {
+    "id": "adding-the-blue-note-to-minor-pentatonic",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Adding the Blue Note to Minor Pentatonic",
+        "zh-Hans": "在小调五声音阶中加入布鲁斯音",
+        "de": "Hinzufügen der Blue Note zur Moll-Pentatonik",
+        "ja": "マイナーペンタトニックにブルーノートを追加する",
+        "pt-BR": "Adicionando a Blue Note à Pentatônica Menor",
+        "es": "Añadir la nota blue a la pentatónica menor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "simple-12-bar-blues-licks-in-a",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Simple 12-Bar Blues Licks in A",
+        "zh-Hans": "A调简单的12小节布鲁斯乐句",
+        "de": "Einfache 12-Takt-Blues-Licks in A",
+        "ja": "Aの簡単な12小節ブルースリック",
+        "pt-BR": "Licks Simples de Blues de 12 Compassos em Lá",
+        "es": "Licks simples de blues de 12 compases en La"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-your-own-blues-phrases",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Your Own Blues Phrases",
+        "zh-Hans": "创作你自己的布鲁斯乐句",
+        "de": "Erstellung eigener Blues-Phrasen",
+        "ja": "独自のブルースフレーズを作成する",
+        "pt-BR": "Criando Suas Próprias Frases de Blues",
+        "es": "Creación de tus propias frases de blues"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

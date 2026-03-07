@@ -1,0 +1,60 @@
+{
+  "id": "low-e-string-landmarks-3rd-5th-7th-12th-frets",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Low E string landmarks: 3rd, 5th, 7th, 12th frets\nThe low E string is your **reference line** for the whole fretboard. In this lesson you’ll memorize the notes on four key frets:\n\n- 3rd fret – **G**\n- 5th fret – **A**\n- 7th fret – **B**\n- 12th fret – **E** (one octave up)\n\nThese frets usually have **dots** on the neck, so they’re easy to see even at a glance.",
+          "zh-Hans": "# 低音E弦上的地标：3、5、7、12品\n低音E弦是整块指板的**参照线**。在本课中，你要记住四个关键品格上的音：\n\n- 第3品 – **G**\n- 第5品 – **A**\n- 第7品 – **B**\n- 第12品 – **E**（高一个八度）\n\n这些品位通常会有指板上的**点标记**，所以一眼就能看到。",
+          "de": "# Orientierungspunkte auf der tiefen E-Saite: 3., 5., 7. und 12. Bund\nDie tiefe E-Saite ist deine **Referenzlinie** für das ganze Griffbrett. In dieser Lektion prägst du dir die Töne auf vier wichtigen Bünden ein:\n\n- 3. Bund – **G**\n- 5. Bund – **A**\n- 7. Bund – **B**\n- 12. Bund – **E** (eine Oktave höher)\n\nAuf diesen Bünden findest du meist **Punkte** auf dem Hals – man erkennt sie sofort.",
+          "ja": "# 6弦Eの目印：3・5・7・12フレット\n6弦（低音E弦）は指板全体の**基準ライン**です。このレッスンでは、4つの大事なフレット上の音を覚えます。\n\n- 3フレット – **G**\n- 5フレット – **A**\n- 7フレット – **B**\n- 12フレット – **E**（1オクターブ上）\n\n多くのギターでは、これらの位置に**ドットマーク**が付いているので、一目で見つけられます。",
+          "pt-BR": "# Marcos na corda E grave: 3º, 5º, 7º e 12º trastes\nA corda E grave é a sua **linha de referência** para todo o braço. Nesta lição você vai decorar as notas em quatro trastes importantes:\n\n- 3º traste – **G** (Sol)\n- 5º traste – **A** (Lá)\n- 7º traste – **B** (Si)\n- 12º traste – **E** (Mi, uma oitava acima)\n\nEsses trastes normalmente têm **bolinhas** no braço, então ficam fáceis de enxergar de longe.",
+          "es": "# Puntos de referencia en la cuerda E grave: trastes 3, 5, 7 y 12\nLa cuerda E grave es tu **línea de referencia** para todo el diapasón. En esta lección vas a memorizar las notas en cuatro trastes clave:\n\n- Traste 3 – **G** (Sol)\n- Traste 5 – **A** (La)\n- Traste 7 – **B** (Si)\n- Traste 12 – **E** (Mi, una octava arriba)\n\nEn estos trastes casi siempre hay **puntos** en el mástil, así que se ven rápido de un vistazo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using them as position markers\nThink of each landmark as a “home base” for your hand:\n\n- Around **3rd fret (G)**: you’re in the **G area** of the neck\n- Around **5th fret (A)**: classic spot for many riffs and power chords\n- Around **7th fret (B)**: leads and arpeggios often sit here\n- At **12th fret (E)**: same open string note, one octave higher; the pattern repeats above this\n\nWhen you shift, aim your first finger or your hand so it lands cleanly near one of these frets.",
+          "zh-Hans": "# 把它们当成位置“基地”\n把每个地标当成手的“基地”：\n\n- **第3品（G）**附近：你在琴颈的**G 区域**\n- **第5品（A）**附近：很多riff和power chord都用这个位置\n- **第7品（B）**附近：常见的独奏和分解和弦区域\n- **第12品（E）**：和空弦E同名，高一个八度；从这里往上，指板的模式会重复\n\n换把的时候，试着让你的食指或整只手**稳稳落在**这些品位附近。",
+          "de": "# Als Lagen-Marken benutzen\nDenk jeden Orientierungspunkt wie einen kleinen „Stützpunkt“ für deine Hand:\n\n- In der Nähe des **3. Bunds (G)**: du bist im **G-Bereich** des Halses\n- In der Nähe des **5. Bunds (A)**: klassischer Platz für viele Riffs und Powerchords\n- In der Nähe des **7. Bunds (B)**: hier liegen oft Leads und Arpeggien\n- Am **12. Bund (E)**: gleicher Ton wie die leere E-Saite, eine Oktave höher – ab hier wiederholt sich das Muster\n\nWenn du die Lage wechselst, „ziel“ mit der Hand so, dass du sauber in der Nähe eines dieser Bünde landest.",
+          "ja": "# ポジションの目安として使う\nそれぞれの目印を、手の「ホームポジション」として考えましょう。\n\n- **3フレット（G）**周辺：ネックの**Gあたり**のエリア\n- **5フレット（A）**周辺：多くのリフやパワーコードでよく使う場所\n- **7フレット（B）**周辺：リードやアルペジオがよく置かれる辺り\n- **12フレット（E）**：開放弦Eと同じ音の1オクターブ上。ここから上は同じパターンが繰り返されます。\n\nポジション移動をするときは、まずこのどれかのフレット付近に**スッと手が着地する**ように意識してみてください。",
+          "pt-BR": "# Usando como marcadores de posição\nPense em cada marco como uma “base” para a sua mão:\n\n- Perto do **3º traste (G)**: você está na **região de G (Sol)** do braço\n- Perto do **5º traste (A)**: ponto clássico para muitos riffs e power chords\n- Perto do **7º traste (B)**: região comum para leads e arpejos\n- No **12º traste (E)**: mesmo som da corda solta E, uma oitava acima; daqui pra frente o padrão se repete\n\nQuando for mudar de posição, mire para que a mão ou o indicador **pouse firme** perto de um desses trastes.",
+          "es": "# Usarlos como marcadores de posición\nPiensa en cada punto como una “base” para tu mano:\n\n- Cerca del **traste 3 (G)**: estás en la **zona de G (Sol)** del mástil\n- Cerca del **traste 5 (A)**: lugar clásico para muchos riffs y power chords\n- Cerca del **traste 7 (B)**: zona típica para leads y arpegios\n- En el **traste 12 (E)**: mismo sonido que la cuerda al aire E, una octava más arriba; a partir de aquí el patrón se repite\n\nCuando cambies de posición, intenta que tu mano o tu dedo índice **aterrice** limpio cerca de uno de estos trastes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Play the low E string open, then **3rd fret (G)**. Listen to the change.\n2. Do the same E → 5th (A), E → 7th (B), E → 12th (E).\n3. Say the note names out loud each time you land on them.\n4. Now mix them up: have someone call “G, A, B or E (12th)” and jump straight to that fret.\n\nDo this for a couple of minutes a day until you can find each fret **without looking for long**.",
+          "zh-Hans": "# 小练习\n1. 先弹低音E空弦，然后弹**第3品（G）**，注意音高的变化。\n2. 用同样的方法练习：E → 第5品（A）、E → 第7品（B）、E → 第12品（E）。\n3. 每次落在目标品位时，把音名**大声念出来**。\n4. 然后打乱顺序：让别人随机说“G、A、B 或第12品的 E”，你马上找到对应的品位。\n\n每天花几分钟练习，直到你几乎**不用看太久**就能找到这些位置。",
+          "de": "# Kurze Übung\n1. Spiel die tiefe E-Saite leer, dann den **3. Bund (G)** und hör genau auf den Unterschied.\n2. Mach dasselbe mit E → 5. Bund (A), E → 7. Bund (B), E → 12. Bund (E).\n3. Sag den Notennamen laut, jedes Mal wenn du auf einem Landmark landest.\n4. Misch es dann: Lass dir „G, A, B oder E (12. Bund)“ zurufen und spring direkt zu diesem Bund.\n\nMach diese Übung ein paar Minuten am Tag, bis du jeden dieser Bünde **fast ohne Hinschauen** findest.",
+          "ja": "# さっとできる練習\n1. まず6弦の開放Eを弾き、そのあとに**3フレット（G）**を弾いて、音の変化をよく聴きます。\n2. 同じように E → 5フレット（A）、E → 7フレット（B）、E → 12フレット（E）を練習します。\n3. 目標のフレットに着いたら、そのたびに**音名を声に出して**言ってみましょう。\n4. 慣れてきたら順番をバラバラにして、「G、A、B、12フレットのE」などを誰かに言ってもらい、その音へ一気に飛んでみます。\n\n毎日数分でいいので続けて、ほとんど**じっくり見なくても**指が自然にそこへ行く状態を目指しましょう。",
+          "pt-BR": "# Prática rápida\n1. Toque a corda E grave solta e depois o **3º traste (G)**. Repare na mudança de altura.\n2. Faça o mesmo com E → 5º (A), E → 7º (B), E → 12º (E).\n3. Toda vez que chegar em um desses trastes, **fale o nome da nota em voz alta**.\n4. Depois misture: peça para alguém falar “G, A, B ou E (12º)” e vá direto para o traste certo.\n\nFaça isso alguns minutos por dia, até conseguir achar cada traste **sem precisar ficar encarando o braço**.",
+          "es": "# Práctica rápida\n1. Toca la cuerda E grave al aire y luego el **traste 3 (G)**. Escucha bien el cambio.\n2. Haz lo mismo con E → traste 5 (A), E → traste 7 (B), E → traste 12 (E).\n3. Cada vez que caigas en uno de esos trastes, **di el nombre de la nota en voz alta**.\n4. Luego mézclalo: pídele a alguien que diga “G, A, B o E (12)” y salta directo al traste correcto.\n\nPractica esto unos minutos al día hasta que puedas encontrar cada traste **sin tener que mirar mucho el mástil**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once these four spots feel automatic, the low E string stops being a mystery line and starts working as a clear map for the whole neck.",
+          "zh-Hans": "当这四个位置变得下意识、顺手之后，低音E弦就不再是“神秘的一条线”，而会变成你看懂整块指板的一条清晰路线。",
+          "de": "Sobald sich diese vier Punkte automatisch anfühlen, ist die tiefe E-Saite keine Rätsel-Saite mehr, sondern eine klare Landkarte für den ganzen Hals.",
+          "ja": "この4か所が体に染みついてくると、6弦Eは“よく分からない線”ではなく、ネック全体を読むための**わかりやすい地図**になってくれます。",
+          "pt-BR": "Quando esses quatro pontos ficarem automáticos, a corda E grave deixa de ser uma linha misteriosa e vira um **mapa claro** para o braço inteiro.",
+          "es": "Cuando estos cuatro puntos se sientan automáticos, la cuerda E grave deja de ser una línea misteriosa y se convierte en un **mapa claro** para todo el mástil."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

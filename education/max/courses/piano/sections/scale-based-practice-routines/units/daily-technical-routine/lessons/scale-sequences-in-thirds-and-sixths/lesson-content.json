@@ -1,0 +1,86 @@
+{
+  "id": "scale-sequences-in-thirds-and-sixths",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Scale sequences in 3rds and 6ths\nIn this routine you turn a simple C major scale into **short patterns in 3rds and 6ths**.\n\nGoal: make your fingers comfortable **skipping notes inside the scale**, so lines and melodies feel easier later.",
+          "zh-Hans": "# 三度与六度音阶序列\n在这套练习中，你会把简单的C大调音阶变成**三度和六度的小型序列**。\n\n目标：让手指习惯在音阶里**跳过音**，以后弹旋律和乐句会更轻松。",
+          "de": "# Tonleitersequenzen in Terzen und Sexten\nIn dieser Routine verwandelst du die einfache C-Dur-Tonleiter in **kleine Muster in Terzen und Sexten**.\n\nZiel: deine Finger sollen sich daran gewöhnen, **Töne innerhalb der Tonleiter zu überspringen**, damit Linien und Melodien später leichter von der Hand gehen.",
+          "ja": "# 3度・6度のスケール・シーケンス\nこのルーティンでは、シンプルなCメジャー・スケールを**3度と6度のパターン**に変えて練習します。\n\n目的は、音階の中で音を**飛ばして進む動き**に指を慣らし、あとでフレーズやメロディが弾きやすくなるようにすることです。",
+          "pt-BR": "# Sequências de escala em terças e sextas\nNesta rotina você transforma a escala simples de Dó maior em **pequenos padrões em terças e sextas**.\n\nObjetivo: deixar seus dedos confortáveis em **pular notas dentro da escala**, para que linhas e melodias fiquem mais fáceis depois.",
+          "es": "# Secuencias de escala en terceras y sextas\nEn esta rutina conviertes la escala sencilla de Do mayor en **pequeños patrones en terceras y sextas**.\n\nObjetivo: que tus dedos se acostumbren a **saltarse notas dentro de la escala**, para que luego las líneas y melodías sean más fáciles."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup\n- Use **C major** (all white keys).\n- Start with **right-hand thumb (1) on middle C**.\n- Left hand can either:\n  - Play simple **C–G–C–G** patterns, or\n  - Stay out for a moment while you learn the right-hand patterns.\n\nUse a metronome and think in **two-note groups**, not single notes.",
+          "zh-Hans": "# 准备\n- 使用 **C大调**（全是白键）。\n- 右手从**中央C上的拇指（1指）**开始。\n- 左手可以：\n  - 简单弹 **C–G–C–G** 做和声支撑，或\n  - 暂时不弹，先专注在右手模式。\n\n配合节拍器，把音乐当成**两音一组**来感觉，而不是单个音。",
+          "de": "# Vorbereitung\n- Spiele in **C-Dur** (nur weiße Tasten).\n- Rechte Hand: beginne mit dem **Daumen (1) auf dem mittleren C**.\n- Linke Hand kann entweder\n  - einfache **C–G–C–G**-Begleitungen spielen oder\n  - zunächst pausieren, während du die Muster der rechten Hand lernst.\n\nNutze ein Metronom und denke in **Zwei-Noten-Gruppen**, nicht in Einzeltönen.",
+          "ja": "# セットアップ\n- 使うのは **Cメジャー**（白鍵のみ）。\n- 右手は**中央ドに親指（1の指）**を置いてスタートします。\n- 左手は次のどちらか：\n  - 簡単に **C–G–C–G** と支えるだけにする\n  - いったん休ませて、右手のパターンに集中する\n\nメトロノームを使い、1音ずつではなく**2音セット**で感じながら弾きましょう。",
+          "pt-BR": "# Preparação\n- Vamos usar **Dó maior (C)** (apenas teclas brancas).\n- Mão direita: comece com o **polegar (1) no Dó central**.\n- Mão esquerda pode:\n  - Fazer um apoio simples em **C–G–C–G**, ou\n  - Ficar parada por enquanto, enquanto você aprende os padrões da direita.\n\nUse um metrônomo e pense em **grupos de duas notas**, não em notas soltas.",
+          "es": "# Preparación\n- Usa **Do mayor (C)** (solo teclas blancas).\n- Mano derecha: empieza con el **pulgar (1) en el Do central**.\n- La mano izquierda puede:\n  - Hacer un acompañamiento sencillo **C–G–C–G**, o\n  - Quedarse quieta al principio mientras aprendes los patrones de la derecha.\n\nUsa metrónomo y piensa en **grupos de dos notas**, no en notas sueltas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major in 3rds\nPlay the scale as **broken 3rds**, two notes per beat.\n\nRight hand pattern (ascending):\n- C–E, D–F, E–G, F–A, G–B, A–C, B–D, C–E\n\nThen descend using the same idea in reverse:\n- C–A, B–G, A–F, G–E, F–D, E–C, D–B, C–A\n\nTips:\n- Keep the **top note smooth**, don’t jab at it.\n- Let the hand move as a **small unit**, not finger-by-finger grabbing.",
+          "zh-Hans": "# C大调的三度序列\n把音阶弹成**断奏三度**，每拍两音。\n\n右手上行模式：\n- C–E，D–F，E–G，F–A，G–B，A–C，B–D，C–E\n\n下行时反方向使用同样的思路：\n- C–A，B–G，A–F，G–E，F–D，E–C，D–B，C–A\n\n小提示：\n- 让**上面的音连贯、顺滑**，不要猛戳。\n- 尽量让整只手像一个**小整体**移动，而不是每个手指单独去抓键。",
+          "de": "# C-Dur in Terzsequenzen\nSpiele die Tonleiter als **gebrochene Terzen**, zwei Noten pro Schlag.\n\nRechthändige Folge aufwärts:\n- C–E, D–F, E–G, F–A, G–B/H, A–C, B/H–D, C–E\n\nAbwärts mit derselben Idee umgekehrt:\n- C–A, B/H–G, A–F, G–E, F–D, E–C, D–B/H, C–A\n\nTipps:\n- Lass den **oberen Ton weich und verbunden** klingen.\n- Bewege die Hand wie eine **kleine Einheit**, nicht als einzelne „greifende“ Finger.",
+          "ja": "# Cメジャーの3度シーケンス\nスケールを**3度の分散パターン**として、1拍に2音ずつ弾きます。\n\n右手の上行パターン：\n- C–E, D–F, E–G, F–A, G–B, A–C, B–D, C–E\n\n下行では同じ考え方を逆にたどります：\n- C–A, B–G, A–F, G–E, F–D, E–C, D–B, C–A\n\nポイント：\n- **上側の音**がなめらかにつながるように、強く突かないこと。\n- 手全体を**小さなユニット**として動かし、指1本ずつバラバラに掴みにいかないようにしましょう。",
+          "pt-BR": "# Dó maior em terças\nToque a escala em **terças quebradas**, duas notas por tempo.\n\nPadrão da mão direita (subindo):\n- C–E, D–F, E–G, F–A, G–B, A–C, B–D, C–E\n\nDepois desça usando a mesma ideia ao contrário:\n- C–A, B–G, A–F, G–E, F–D, E–C, D–B, C–A\n\nDicas:\n- Mantenha o **som da nota de cima bem ligado**, sem “cutucar”.\n- Deixe a mão se mover como um **bloquinho só**, em vez de cada dedo sair correndo sozinho.",
+          "es": "# Do mayor en terceras\nToca la escala como **terceras quebradas**, dos notas por pulso.\n\nPatrón de la mano derecha (ascendiendo):\n- C–E, D–F, E–G, F–A, G–B, A–C, B–D, C–E\n\nLuego baja usando la misma idea al revés:\n- C–A, B–G, A–F, G–E, F–D, E–C, D–B, C–A\n\nConsejos:\n- Cuida que la **nota de arriba** suene fluida y conectada.\n- Deja que la mano se mueva como una **pequeña unidad**, no dedo por dedo agarrando teclas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major in 6ths\nNow stretch the pattern into **6ths**, still two notes per beat.\n\nRight hand ascending:\n- C–A, D–B, E–C, F–D, G–E, A–F, B–G, C–A\n\nDescending:\n- C–E, B–D, A–C, G–B, F–A, E–G, D–F, C–E\n\nThese shapes are wider, so:\n- Keep the wrist loose.\n- Release each pair **together** before moving to the next.",
+          "zh-Hans": "# C大调的六度序列\n现在把模式拉开成**六度**，仍然是每拍两音。\n\n右手上行：\n- C–A，D–B，E–C，F–D，G–E，A–F，B–G，C–A\n\n下行：\n- C–E，B–D，A–C，G–B，F–A，E–G，D–F，C–E\n\n这些形状跨度更大，所以：\n- 手腕保持放松。\n- 每一对音要**一起放开**，再移动到下一组。",
+          "de": "# C-Dur in Sexten\nJetzt weitest du das Muster zu **Sexten** aus, weiterhin zwei Noten pro Schlag.\n\nRechte Hand aufwärts:\n- C–A, D–B/H, E–C, F–D, G–E, A–F, B/H–G, C–A\n\nAbwärts:\n- C–E, B/H–D, A–C, G–B/H, F–A, E–G, D–F, C–E\n\nDiese Griffbilder sind weiter, deshalb:\n- Halte das Handgelenk locker.\n- Lass jedes Paar **gemeinsam los**, bevor du zur nächsten Gruppe gehst.",
+          "ja": "# Cメジャーの6度シーケンス\n次はパターンを**6度**の幅に広げ、同じく1拍2音で弾きます。\n\n右手の上行：\n- C–A, D–B, E–C, F–D, G–E, A–F, B–G, C–A\n\n下行：\n- C–E, B–D, A–C, G–B, F–A, E–G, D–F, C–E\n\n6度は幅が広いので：\n- 手首の力を抜いておくこと。\n- それぞれのペアを**同時に離して**から、次のグループへ移動しましょう。",
+          "pt-BR": "# Dó maior em sextas\nAgora abra o desenho para **sextas**, ainda com duas notas por tempo.\n\nMão direita subindo:\n- C–A, D–B, E–C, F–D, G–E, A–F, B–G, C–A\n\nDescendo:\n- C–E, B–D, A–C, G–B, F–A, E–G, D–F, C–E\n\nComo os intervalos são mais largos:\n- Deixe o pulso bem solto.\n- Solte cada par de notas **ao mesmo tempo**, antes de mudar para o próximo.",
+          "es": "# Do mayor en sextas\nAhora abre el patrón a **sextas**, todavía con dos notas por pulso.\n\nMano derecha ascendiendo:\n- C–A, D–B, E–C, F–D, G–E, A–F, B–G, C–A\n\nDescendiendo:\n- C–E, B–D, A–C, G–B, F–A, E–G, D–F, C–E\n\nComo las figuras son más amplias:\n- Mantén la muñeca suelta.\n- Suelta cada par de notas **a la vez** antes de pasar al siguiente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Daily routine\nA simple plan:\n1. **3rds, slow** – ♩ = 60\n   - Up and down once in C major.\n2. **3rds, medium** – a bit faster\n   - Up and down without stopping.\n3. **6ths, slow** – back to ♩ = 60\n   - Up and down once.\n\nIf you have extra time, repeat the whole set in **G major** (remember F♯).",
+          "zh-Hans": "# 每日流程\n一个简单的安排：\n1. **三度（慢速）** – ♩ = 60\n   - C大调上行下行各一遍。\n2. **三度（中速）** – 稍微加快\n   - 不停顿地上下各一遍。\n3. **六度（慢速）** – 回到 ♩ = 60\n   - 上行下行各一遍。\n\n如果还有时间，把整套再在 **G大调** 里做一遍（记得F♯）。",
+          "de": "# Tägliche Routine\nEin einfacher Plan:\n1. **Terzen, langsam** – ♩ = 60\n   - Einmal auf- und abwärts in C-Dur.\n2. **Terzen, mittleres Tempo** – etwas schneller\n   - Auf- und abwärts ohne Pause.\n3. **Sexten, langsam** – zurück zu ♩ = 60\n   - Einmal auf- und abwärts.\n\nWenn du noch Zeit hast, wiederhole das Ganze in **G-Dur** (denk an F♯).",
+          "ja": "# 毎日のルーティン\nシンプルなメニュー：\n1. **3度・ゆっくり** – ♩ = 60\n   - Cメジャーで上行・下行を1往復。\n2. **3度・中くらいの速さ** – 少しテンポアップ\n   - 止まらずに1往復。\n3. **6度・ゆっくり** – ふたたび ♩ = 60 に戻す\n   - 上行・下行を1往復。\n\n時間に余裕があれば、同じセットを **Gメジャー** でも行いましょう（F♯ を忘れずに）。",
+          "pt-BR": "# Rotina diária\nUm plano simples:\n1. **Terças – devagar** – ♩ = 60\n   - Uma ida e volta em Dó maior.\n2. **Terças – médio** – um pouco mais rápido\n   - Subir e descer sem parar.\n3. **Sextas – devagar** – voltando para ♩ = 60\n   - Uma ida e volta.\n\nSe sobrar tempo, repita tudo em **Sol maior** (lembre do F♯).",
+          "es": "# Rutina diaria\nUn plan sencillo:\n1. **Terceras, lento** – ♩ = 60\n   - Una subida y bajada en Do mayor.\n2. **Terceras, medio** – un poco más rápido\n   - Subir y bajar sin detenerte.\n3. **Sextas, lento** – vuelve a ♩ = 60\n   - Una subida y bajada.\n\nSi te queda tiempo, repite todo en **Sol mayor** (no olvides el F♯)."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Over time, these 3rd and 6th patterns become the building blocks of real melodies, not just “exercises on a page”.",
+          "zh-Hans": "坚持一段时间后，这些三度和六度的形状会变成真正旋律的“积木”，而不只是谱子上的枯燥练习。",
+          "de": "Mit der Zeit werden diese Terz- und Sextmuster zu Bausteinen echter Melodien – nicht nur zu „Übungen auf Papier“.",
+          "ja": "続けていくうちに、3度・6度のパターンは、ただの“教則本の練習”ではなく、本物のメロディを作るパーツとして自然に使えるようになっていきます。",
+          "pt-BR": "Com o tempo, esses desenhos em terças e sextas viram blocos de montar para melodias de verdade, e não só “exercícios no papel”.",
+          "es": "Con el tiempo, estos dibujos en terceras y sextas se convierten en piezas para melodías reales, no solo en “ejercicios en la partitura”."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

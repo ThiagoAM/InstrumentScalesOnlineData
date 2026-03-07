@@ -1,0 +1,73 @@
+{
+  "id": "syncopated-scale-patterns",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Syncopated scale patterns\nSyncopation means **pushing or delaying** notes so they land **off the beat**.\n\nIn this lesson you’ll:\n- Use a **simple scale pattern** (any scale you like)\n- Shift notes to **off-beats**\n- Make your lines feel **less square, more groovy**\n\nPick one scale you already know well (C major, A minor pentatonic, etc.) so your brain can focus on **rhythm only**.",
+          "zh-Hans": "# 带切分节奏的音阶指型\n“切分”就是把音**提前或推迟**，让它们落在**强拍之外**。\n\n本课你会：\n- 用一个**简单的音阶指型**（任何你熟的音阶都行）\n- 把音往**弱拍 / & 拍**上挪\n- 让你的乐句听起来**不那么死板，更有律动**\n\n先选一个你已经很熟的音阶（C 大调、A 小调五声音阶等），把注意力都放在**节奏**上。",
+          "de": "# Synkopierte Skalenpatterns\nSynkopation bedeutet, Töne leicht zu **verschieben oder zu verzögern**, sodass sie **neben dem Grundschlag** landen.\n\nIn dieser Lektion wirst du:\n- Ein **einfaches Skalenpattern** verwenden\n- Töne bewusst auf **Offbeats** legen\n- Deine Linien **weniger eckig und grooviger** klingen lassen\n\nNimm eine Skala, die du gut kennst (C-Dur, A-Moll-Pentatonik usw.), damit dein Kopf sich voll auf den **Rhythmus** konzentrieren kann.",
+          "ja": "# シンコペーションを使ったスケール・パターン\nシンコペーションは、音を**少しずらして**、**拍の裏側**に乗せることです。\n\nこのレッスンでは：\n- **シンプルなスケール・パターン**を使って\n- 意識的に**裏拍**に音を置き\n- フレーズを**カクカクではなく、グルーヴィ**にしていきます。\n\nまずはよく知っているスケール（Cメジャー、Aマイナーペンタなど）を1つ選び、**リズムだけ**に集中しましょう。",
+          "pt-BR": "# Padrões de escala sincopados\nSíncope é quando você **adianta ou atrasa** as notas para elas caírem **fora do tempo forte**.\n\nNesta lição você vai:\n- Usar um **padrão simples de escala** (qualquer escala que já conheça)\n- Jogar notas para os **contratempos**\n- Fazer seus licks soarem **menos quadrados e mais groove**\n\nEscolha uma escala que você já domina (Dó maior, A menor pentatônica, etc.) para o cérebro focar só em **ritmo**.",
+          "es": "# Patrones de escala sincopados\nLa síncopa consiste en **adelantar o retrasar** notas para que caigan **fuera del tiempo fuerte**.\n\nEn esta lección vas a:\n- Usar un **patrón sencillo de escala** (cualquier escala que ya conozcas)\n- Mover notas a los **contratiempos**\n- Hacer que tus líneas suenen **menos cuadradas y con más groove**\n\nElige una escala que ya domines (Do mayor, La menor pentatónica, etc.) para poder concentrarte sólo en el **ritmo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Off-beat accents on “&”\nCount in 4/4:\n> 1 & 2 & 3 & 4 &\n\nStart by **playing only on the &’s** with your scale:\n- Say the count out loud\n- Stay silent on **1, 2, 3, 4**\n- Play one scale note on every **&**\n\nIt will feel weird at first, but that’s the **syncopation feeling** you want to get used to.",
+          "zh-Hans": "# 在 “& 拍” 上强调\n先用 4/4 数拍：\n> 1 & 2 & 3 & 4 &\n\n先练习只在 **& 拍** 上弹音阶：\n- 大声数拍\n- 在 **1、2、3、4** 上保持安静\n- 每个 **& 拍** 弹一个音阶里的音\n\n一开始会觉得有点“歪”，但这种感觉就是你要熟悉的**切分味道**。",
+          "de": "# Offbeat-Betonungen auf „&“\nZähle im 4/4-Takt:\n> 1 & 2 & 3 & 4 &\n\nÜbung: Spiele deine Skala **nur auf den Offbeats (&)**:\n- Zähle laut mit\n- Auf **1, 2, 3, 4** spielst du nichts\n- Auf jedem **&** spielst du einen Skalenton\n\nDas fühlt sich anfangs komisch an – genau dieses Gefühl von **neben dem Beat** ist Synkopation.",
+          "ja": "# “＆”の裏拍にアクセントを置く\n4/4でカウントします：\n> 1 & 2 & 3 & 4 &\n\nまずは、スケールを使って**「＆」のところだけ**弾いてみましょう：\n- 声に出してカウントする\n- **1, 2, 3, 4** では弾かない\n- それぞれの **＆** でスケールの音を1音弾く\n\n最初はかなりヘンな感じがしますが、この**拍の裏に乗る感覚**こそがシンコペーションです。",
+          "pt-BR": "# Acentuando os contratempos (os “&”)\nConte em 4/4:\n> 1 & 2 & 3 & 4 &\n\nAgora toque sua escala **apenas nos “&”**:\n- Conte em voz alta\n- Fique em silêncio no **1, 2, 3, 4**\n- Toque uma nota da escala em cada **&**\n\nVai parecer estranho no começo, mas essa estranheza é justamente a **sensação de síncope** que você quer acostumar o ouvido.",
+          "es": "# Acentos en los contratiempos (“&”)\nCuenta en 4/4:\n> 1 & 2 & 3 & 4 &\n\nEmpieza tocando tu escala **solo en los “&”**:\n- Cuenta en voz alta\n- No toques nada en **1, 2, 3, 4**\n- Toca una nota de la escala en cada **&**\n\nAl principio se sentirá raro, pero esa sensación es justamente la **síncopa** que quieres interiorizar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# 3-note patterns over 4/4\nNow take any **3-note scale pattern**, for example:\n> C–D–E, then D–E–F, then E–F–G…\n\nPlay them as **straight 8th-notes**:\n> 1 & 2 & 3 & 4 &\n\nBecause the pattern has **3 notes** and the bar has **4 beats**, the accents will **shift across the bar**.\n\nKeep the picking even, but **listen** for how the strong notes land in different places each bar – that’s natural syncopation.",
+          "zh-Hans": "# 3 个音的指型跨 4/4\n现在选一个任意的**3 音音阶指型**，比如：\n> C–D–E，然后 D–E–F，然后 E–F–G ……\n\n把它们当作**八分音符**连续弹：\n> 1 & 2 & 3 & 4 &\n\n因为指型是 **3 个音一组**，而小节是 **4 拍**，重音会在每小节里**慢慢“错位”**。\n\n右手保持均匀，但要**认真听**：每一小节感觉“重”的音落在不同地方，这就是一种自然的切分。",
+          "de": "# Dreiton-Patterns über 4/4\nNimm nun ein **Dreiton-Skalenpattern**, z. B.:\n> C–D–E, dann D–E–F, dann E–F–G …\n\nSpiele es als **gleichmäßige Achtel**:\n> 1 & 2 & 3 & 4 &\n\nWeil dein Pattern **3 Töne** hat und der Takt **4 Schläge**, verschieben sich die Betonungen **quer durch den Takt**.\n\nHalte dein Picking gleichmäßig, aber **höre** darauf, wie sich die „starken“ Töne von Takt zu Takt verschieben – das ist natürliche Synkopation.",
+          "ja": "# 3音パターンを4/4の上に乗せる\n今度は、任意の**3音スケール・パターン**を使います。例：\n> C–D–E、その次は D–E–F、その次は E–F–G …\n\nこれを**8分音符**として並べて弾きます：\n> 1 & 2 & 3 & 4 &\n\nパターンは **3音**、小節は **4拍** なので、アクセントが小節の中で**少しずつずれていきます**。\n\nピッキングは均等に保ちつつ、「どの音が強く聞こえるか」をよく**耳で追いかける**と、自然なシンコペーションの感じがつかめます。",
+          "pt-BR": "# Padrão de 3 notas em cima do 4/4\nAgora pegue um **padrão de 3 notas** da escala, por exemplo:\n> C–D–E, depois D–E–F, depois E–F–G…\n\nToque tudo em **colcheias contínuas**:\n> 1 & 2 & 3 & 4 &\n\nComo o padrão tem **3 notas** e o compasso tem **4 tempos**, as acentuações vão **se deslocando pelo compasso**.\n\nMantenha a palhetada bem regular, mas **preste atenção** em como as notas fortes vão caindo em lugares diferentes a cada volta – isso é síncope natural.",
+          "es": "# Patrones de 3 notas sobre 4/4\nAhora toma un **patrón de 3 notas** de la escala, por ejemplo:\n> C–D–E, luego D–E–F, luego E–F–G…\n\nTócalo como **corcheas seguidas**:\n> 1 & 2 & 3 & 4 &\n\nComo el patrón tiene **3 notas** y el compás **4 tiempos**, los acentos se irán **desplazando a través del compás**.\n\nMantén la púa uniforme, pero **escucha** cómo las notas fuertes caen en sitios distintos cada vez: eso es síncopa natural."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Turning patterns into musical lines\nNow mix the ideas:\n- Start with a **3-note pattern**\n- Let the shifting accents create **syncopation**\n- Occasionally **stop for a beat** or **repeat a small chunk**\n\nAim for **short 2–4 bar phrases** instead of endless scale runs. If you can tap your foot on the beat and still feel the notes **pushing and pulling around it**, the syncopation is working.",
+          "zh-Hans": "# 把指型变成真正的乐句\n现在把这些想法混在一起：\n- 用 **3 音指型** 开头\n- 让“错位”的重音自然形成**切分**\n- 偶尔**停一拍**，或**重复一小段**指型\n\n目标是做出**2–4 小节的小乐句**，而不是无止尽地跑音阶。如果你能脚踩稳在强拍上，却感觉音符在周围**推拉、游走**，说明切分已经开始起作用了。",
+          "de": "# Aus Patterns musikalische Linien machen\nKombiniere jetzt alles:\n- Starte mit einem **Dreiton-Pattern**\n- Lass die wandernden Betonungen für **Synkopation** sorgen\n- Baue zwischendurch **Pausen** ein oder **wiederhole kleine Ausschnitte**\n\nZiel sind **kurze Phrasen über 2–4 Takte**, keine endlosen Skalenläufe. Wenn dein Fuß den Beat stabil hält und die Töne trotzdem **drumherum schieben und ziehen**, funktioniert deine Synkopation.",
+          "ja": "# パターンを“音楽的なフレーズ”に変える\nここで全部まとめます：\n- まずは **3音パターン** からスタート\n- ずれていくアクセントで自然に**シンコペーション**を作る\n- ところどころで**1拍休む**／**小さなかたまりをくり返す**\n\n目標は、**2〜4小節の短いフレーズ**を作ることで、ただの「スケールの垂れ流し」にはしないこと。足でしっかり表のビートを踏みながら、音がそのまわりで**押したり引いたり**して聞こえたら、シンコペーションはうまく働いています。",
+          "pt-BR": "# Transformando padrões em frases musicais\nAgora junte as ideias:\n- Comece com um **padrão de 3 notas**\n- Deixe as acentuações que se deslocam criarem a **síncope**\n- De vez em quando **pare 1 tempo** ou **repita um trechinho** do padrão\n\nBusque **frases de 2–4 compassos**, não apenas correrias de escala. Se você consegue bater o pé no tempo e sentir as notas **empurrando e puxando em volta do pulso**, é sinal de que a síncope está funcionando.",
+          "es": "# Convertir los patrones en frases musicales\nAhora mezcla las ideas:\n- Empieza con un **patrón de 3 notas**\n- Deja que los acentos que se desplazan creen la **síncopa**\n- De vez en cuando **para 1 tiempo** o **repite un fragmento** del patrón\n\nApunta a **frases de 2–4 compases**, no a correr la escala sin fin. Si puedes marcar el pulso con el pie y sentir que las notas **empujan y tiran alrededor del beat**, la síncopa está funcionando."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nFor 5–10 minutes:\n1. Pick one scale and one position.\n2. Warm up with **notes on the &’s only**.\n3. Then play **3-note patterns as 8th-notes** across the bar.\n4. Finish by improvising **short phrases** that mix:\n   - Straight notes on the beat\n   - Off-beat notes on the &\n   - Little 3-note runs\n\nIf your lines make you want to **nod your head** instead of just count, you’re building good syncopated feel.",
+          "zh-Hans": "# 小练习\n用 5–10 分钟做完这一套：\n1. 选一个音阶和一个固定把位。\n2. 先用 **只在 & 拍上弹音** 来热身。\n3. 然后把 **3 音指型当成八分音符** 连续弹过小节。\n4. 最后即兴一些**短乐句**，里面混合：\n   - 落在强拍上的直白音符\n   - 落在 & 拍上的弱拍音\n   - 小段 3 音跑动\n\n如果你的乐句让你更想**点头跟着晃**，而不仅仅是在数拍，那就说明你的切分感在变好。",
+          "de": "# Kurze Übung\nNimm dir 5–10 Minuten und:\n1. Wähle eine Skala in einer Lage.\n2. Wärm dich auf, indem du **nur auf den &-Zählzeiten** spielst.\n3. Spiele dann **Dreiton-Patterns als Achtel** über den Takt.\n4. Zum Schluss improvisiere **kurze Phrasen**, in denen du mischst:\n   - Gerade Noten auf den Zählzeiten\n   - Offbeats auf den &\n   - Kleine Dreiton-Läufe\n\nWenn deine Linien dir eher Lust machen, **mit dem Kopf zu nicken** als nur mitzuzählen, wächst dein Gefühl für synkopierten Groove.",
+          "ja": "# かんたん練習\n5〜10分だけ、この流れでやってみましょう：\n1. スケールを1つ、ポジションを1カ所決める。\n2. **「＆」だけで弾く練習**でウォームアップ。\n3. 続けて、**3音パターンを8分音符**で小節をまたいで弾く。\n4. 最後に、次を混ぜた**短いフレーズ**で即興する：\n   - 表拍に置いたまっすぐな音\n   - 裏拍（＆）に置いた音\n   - 小さな3音ラン\n\nフレーズを弾いていて、ただ拍を数えるだけでなく、**自然に頭がうなずきたくなったら**、シンコペーションのノリが育ってきています。",
+          "pt-BR": "# Prática rápida\nEm 5–10 minutos, faça assim:\n1. Escolha uma escala e uma região do braço.\n2. Aqueça tocando **apenas nas contagens de &**.\n3. Depois toque **padrões de 3 notas em colcheias**, atravessando o compasso.\n4. Termine improvisando **frases curtinhas** que misturam:\n   - Notas retas no tempo forte\n   - Notas no contratempo (&)\n   - Pequenas corridas de 3 notas\n\nSe, tocando, você sente mais vontade de **balançar a cabeça no groove** do que de ficar só contando, seu senso de síncope está no caminho certo.",
+          "es": "# Práctica rápida\nEn 5–10 minutos:\n1. Elige una escala y una posición.\n2. Calienta tocando **sólo en los “&”**.\n3. Luego toca **patrones de 3 notas en corcheas**, cruzando el compás.\n4. Termina improvisando **frases cortas** que mezclen:\n   - Notas rectas en el tiempo fuerte\n   - Notas en el contratiempo (&)\n   - Pequeñas corridas de 3 notas\n\nSi tus líneas te dan ganas de **mover la cabeza con el groove** y no sólo de contar, significa que tu sensación de síncopa está creciendo."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "soloing-with-d-dorian-over-a-ii-v-progression",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Soloing with D Dorian over a ii–V progression\nA super common jazz / fusion sound is to treat **ii–V** as one long **D Dorian** moment instead of switching scales.\n\nIn C major:\n- ii = **Dm7**\n- V = **G7**\n\nD Dorian uses the same notes as C major:\n> D E F G A B C\n\nIn this lesson you’ll keep that sound going **across both chords**, using one mode and good target notes.",
+          "zh-Hans": "# 用 D Dorian 在 ii–V 进行上即兴\n在爵士 / 融合风格里，一个常见做法是把 **ii–V** 当成一整段 **D Dorian** 的颜色，而不是不停换音阶。\n\n在 C 大调里：\n- ii = **Dm7**\n- V = **G7**\n\nD Dorian 和 C 大调用的是同一组音：\n> D E F G A B C\n\n在这节课里，你会在这两个和弦上**一直保持 D Dorian 的味道**，靠的是一个音阶加上聪明的落点。",
+          "de": "# Mit D-Dorisch über eine ii–V-Verbindung solieren\nEin typischer Jazz-/Fusion-Sound ist, eine **ii–V-Verbindung** wie einen langen **D-dorischen** Vamp zu behandeln, statt dauernd die Tonleiter zu wechseln.\n\nIn C-Dur:\n- ii = **Dm7**\n- V = **G7**\n\nD-Dorisch hat die gleichen Töne wie C-Dur:\n> D E F G A B C\n\nIn dieser Lektion hältst du diesen Sound **über beide Akkorde** mit nur einem Modus und guten Zieltönen.",
+          "ja": "# ii–V進行でDドリアンを使ってソロする\nジャズやフュージョンでよくあるのが、**ii–V進行**を1つの長い**Dドリアンの色**として扱うやり方です。スケールを細かく切り替えません。\n\nCメジャーの場合：\n- ii = **Dm7**\n- V = **G7**\n\nDドリアンの音はCメジャーと同じ：\n> D E F G A B C\n\nこのレッスンでは、この2つのコードをまたいで**ずっとDドリアンのサウンドをキープする**方法を練習します。",
+          "pt-BR": "# Improvisando com D Dórico em uma progressão ii–V\nUm som bem comum em jazz / fusion é tratar a **ii–V** como um grande momento **D Dórico**, em vez de ficar trocando de escala toda hora.\n\nEm Dó maior:\n- ii = **Dm7**\n- V = **G7**\n\nD Dórico usa as mesmas notas de C maior:\n> D E F G A B C\n\nNesta lição você vai manter esse som **nos dois acordes**, usando um único modo e escolhendo bem onde pousar.",
+          "es": "# Solear con Re dórico sobre una progresión ii–V\nUn sonido muy típico de jazz / fusión es tratar la **ii–V** como un solo momento **Re dórico**, en lugar de cambiar de escala todo el tiempo.\n\nEn Do mayor:\n- ii = **Dm7**\n- V = **G7**\n\nRe dórico usa las mismas notas que Do mayor:\n> D E F G A B C\n\nEn esta lección vas a mantener ese color **a lo largo de ambos acordes**, usando un solo modo y buenos puntos de llegada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The progression and the “modal” mindset\nUse this simple ii–V loop:\n\n`| Dm7 | G7 | Dm7 | G7 |`\n\nInstead of:\n- Dm7 = “D Dorian”\n- G7 = “G Mixolydian”\n\n…you’ll think:\n- **Everything is D Dorian**\n- **D feels like home** the whole time\n\nSo even when the chord moves to G7, your lines still **lean back to D**, not to C.",
+          "zh-Hans": "# 和弦进行和“调式思维”\n先用这个简单的 ii–V 循环：\n\n`| Dm7 | G7 | Dm7 | G7 |`\n\n传统做法：\n- Dm7 = “D Dorian”\n- G7 = “G Mixolydian”\n\n在这里我们改成：\n- 全程都当成 **D Dorian**\n- 让 **D 一直像“家”** 一样存在\n\n这样即使和弦走到 G7，你的乐句也会**往 D 靠回去**，而不是往 C 解決。",
+          "de": "# Die Progression und der „modale“ Blick\nBenutze diesen einfachen ii–V-Loop:\n\n`| Dm7 | G7 | Dm7 | G7 |`\n\nStatt zu denken:\n- Dm7 = „D-Dorisch“\n- G7 = „G-Mixolydisch“\n\n…denkst du jetzt:\n- **Alles ist D-Dorisch**\n- **D bleibt durchgehend das Zuhause**\n\nAuch wenn der Akkord zu G7 wechselt, ziehen deine Linien das Ohr wieder **zurück nach D**, nicht nach C.",
+          "ja": "# 進行と“モーダルな”考え方\nまずはこのシンプルなii–Vループを使います：\n\n`| Dm7 | G7 | Dm7 | G7 |`\n\nよくある捉え方：\n- Dm7 = 「Dドリアン」\n- G7 = 「Gミクソリディアン」\n\nここではこう考えます：\n- 全部まとめて **Dドリアン**\n- ずっと **Dが“ホーム”** のまま\n\nなのでコードがG7に変わっても、フレーズは**CではなくDに戻りたがる**感じをキープします。",
+          "pt-BR": "# A progressão e o jeito “modal” de pensar\nUse este loop de ii–V:\n\n`| Dm7 | G7 | Dm7 | G7 |`\n\nEm vez de pensar:\n- Dm7 = “D Dórico”\n- G7 = “G Mixolídio”\n\n…a ideia aqui é:\n- **Tudo é D Dórico**\n- **D é a casa o tempo todo**\n\nAssim, mesmo quando entra o G7, suas frases ainda tendem a **puxar de volta pro D**, e não pra C.",
+          "es": "# La progresión y la mentalidad “modal”\nUsa este loop sencillo de ii–V:\n\n`| Dm7 | G7 | Dm7 | G7 |`\n\nEn vez de:\n- Dm7 = “Re dórico”\n- G7 = “Sol mixolidio”\n\n…vas a pensar:\n- **Todo es Re dórico**\n- **Re se siente como casa** todo el tiempo\n\nAsí, incluso cuando el acorde pasa a G7, tus líneas siguen **tirando hacia Re**, no hacia Do."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Target notes over Dm7 and G7\nYou’re always using **D Dorian: D E F G A B C**.\n\nOver **Dm7**:\n- Strong tones: **D, F, A, C** (chord tones)\n- Color tone: **B** (the natural 6 – very Dorian)\n\nOver **G7** (still thinking D Dorian):\n- Strong tones: **G, B, D, F**\n- You can connect using nearby scale notes: **E ↔ F**, **A ↔ G**, **C ↔ B**\n\nA simple rule:\n- Let phrases on **Dm7** often **land on D or F**\n- Let phrases on **G7** often **touch G or F**, then **fall back to D**",
+          "zh-Hans": "# 在 Dm7 和 G7 上的目标音\n全程只用 **D Dorian：D E F G A B C**。\n\n在 **Dm7** 上：\n- 强音：**D、F、A、C**（和弦音）\n- 特色音：**B**（自然 6 度，很有 Dorian 味）\n\n在 **G7** 上（仍然按 D Dorian 来想）：\n- 强音：**G、B、D、F**\n- 用周围的音级来连线：**E ↔ F**、**A ↔ G**、**C ↔ B**\n\n一个简单原则：\n- 在 **Dm7** 上的乐句，可以多**落在 D 或 F**\n- 在 **G7** 上时，多**碰一下 G 或 F**，然后再**滑回 D**",
+          "de": "# Zieltöne über Dm7 und G7\nDu spielst durchgehend **D-Dorisch: D E F G A B C**.\n\nÜber **Dm7**:\n- Starke Töne: **D, F, A, C** (Akkordtöne)\n- Farbtöne: **B** (die große Sexte – typisch dorisch)\n\nÜber **G7** (immer noch D-Dorisch gedacht):\n- Starke Töne: **G, B, D, F**\n- Verbindung über Nachbartöne: **E ↔ F**, **A ↔ G**, **C ↔ B**\n\nEinfacher Merksatz:\n- Auf **Dm7** gern auf **D oder F** landen\n- Auf **G7** ruhig **G oder F** berühren und dann wieder **zurück zu D** fallen",
+          "ja": "# Dm7とG7でのターゲットノート\n使うのはずっと **Dドリアン：D E F G A B C** です。\n\n**Dm7** 上では：\n- 強い音：**D, F, A, C**（コードトーン）\n- キャラの強い音：**B**（ナチュラル6。ドリアンぽさの源）\n\n**G7** 上（頭の中はまだDドリアン）：\n- 強い音：**G, B, D, F**\n- 近いスケール音でつなぐ：**E ↔ F**, **A ↔ G**, **C ↔ B**\n\nシンプルなルール：\n- **Dm7** ではフレーズを **DかF** に着地させることが多め\n- **G7** では一度 **GかF** に触れてから、**Dに戻ってくる**イメージ",
+          "pt-BR": "# Notas-alvo em Dm7 e G7\nVocê vai usar o tempo todo **D Dórico: D E F G A B C**.\n\nEm **Dm7**:\n- Notas fortes: **D, F, A, C** (notas do acorde)\n- Nota de cor: **B** (a 6 maior – cara de dórico)\n\nEm **G7** (ainda pensando em D Dórico):\n- Notas fortes: **G, B, D, F**\n- Ligações por notas vizinhas: **E ↔ F**, **A ↔ G**, **C ↔ B**\n\nRegra simples:\n- Em **Dm7**, deixe muitas frases **cair em D ou F**\n- Em **G7**, passe bastante por **G ou F** e depois **deixe a linha voltar pro D**",
+          "es": "# Notas objetivo sobre Dm7 y G7\nVas a usar siempre **Re dórico: D E F G A B C**.\n\nSobre **Dm7**:\n- Notas fuertes: **D, F, A, C** (notas del acorde)\n- Nota de color: **B** (la 6ª mayor, muy dórica)\n\nSobre **G7** (sigues pensando en Re dórico):\n- Notas fuertes: **G, B, D, F**\n- Conexiones con notas vecinas: **E ↔ F**, **A ↔ G**, **C ↔ B**\n\nRegla sencilla:\n- En **Dm7**, deja que muchas frases **caigan en D o F**\n- En **G7**, pasa por **G o F** y luego **vuelve a caer en D**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Simple call–and–response idea\nTry this 4-bar pattern:\n\n1. **Bar 1 – Dm7**  \n   - Play a short idea using **D, F, A, B**.\n2. **Bar 2 – G7**  \n   - Answer it using mostly **G, B, D, F**, but keep the **rhythm similar**.\n3. **Bar 3 – Dm7**  \n   - Repeat or vary your first idea.\n4. **Bar 4 – G7**  \n   - Answer again and **guide the line back to D**.\n\nSame D Dorian notes. What changes is **which chord tones you lean on**.",
+          "zh-Hans": "# 简单的“问答”乐句练习\n试试这个 4 小节模式：\n\n1. **第 1 小节 – Dm7**  \n   - 用 **D、F、A、B** 做一个短小的“问题”乐句。\n2. **第 2 小节 – G7**  \n   - 用 **G、B、D、F** 为主做一个“回答”，**节奏尽量和第 1 小节相似**。\n3. **第 3 小节 – Dm7**  \n   - 重复或稍微变化第 1 小节的乐句。\n4. **第 4 小节 – G7**  \n   - 再做一个回答，这次**慢慢把线条引回 D**。\n\n音始终都是 D Dorian，只是你在不同和弦上**偏向的和弦音**不同。",
+          "de": "# Einfache Call-and-Response-Idee\nProbier dieses 4-taktige Muster:\n\n1. **Takt 1 – Dm7**  \n   - Erfinde eine kurze „Frage“ mit **D, F, A, B**.\n2. **Takt 2 – G7**  \n   - Antworte mit vor allem **G, B, D, F**, aber mit **ähnlichem Rhythmus**.\n3. **Takt 3 – Dm7**  \n   - Wiederhole oder variiere deine erste Idee.\n4. **Takt 4 – G7**  \n   - Antworte wieder und **führe die Linie zurück zu D**.\n\nDie Tonleiter bleibt D-Dorisch, nur die **betonten Akkordtöne** wechseln je nach Akkord.",
+          "ja": "# かんたんなコール＆レスポンス練習\nこんな4小節パターンをやってみましょう：\n\n1. **1小節目 – Dm7**  \n   - **D, F, A, B** を使って、短い“質問フレーズ”を作る。\n2. **2小節目 – G7**  \n   - 今度は主に **G, B, D, F** を使って“答え”のフレーズを作る。**リズムは1小節目と近く**してみる。\n3. **3小節目 – Dm7**  \n   - 1小節目のフレーズをそのままか、少し変えてもう一度。\n4. **4小節目 – G7**  \n   - もう一度答えのフレーズを作り、**最後はDに戻っていく**ようにする。\n\n使っている音はずっとDドリアン。同じでも、**どの和音のトーンに寄りかかるか**で表情が変わります。",
+          "pt-BR": "# Ideia simples de pergunta e resposta\nExperimente este padrão de 4 compassos:\n\n1. **Compasso 1 – Dm7**  \n   - Crie uma “pergunta” curtinha usando **D, F, A, B**.\n2. **Compasso 2 – G7**  \n   - Responda usando principalmente **G, B, D, F**, mantendo o **ritmo parecido** com o do 1º compasso.\n3. **Compasso 3 – Dm7**  \n   - Repita ou varie a ideia do 1º compasso.\n4. **Compasso 4 – G7**  \n   - Responda de novo e **leve a linha de volta pro D**.\n\nAs notas continuam sendo D Dórico; o que muda é **quais notas de acorde você enfatiza** em cada momento.",
+          "es": "# Idea sencilla de llamada y respuesta\nPrueba este patrón de 4 compases:\n\n1. **Compás 1 – Dm7**  \n   - Crea una “pregunta” corta usando **D, F, A, B**.\n2. **Compás 2 – G7**  \n   - Respóndele usando sobre todo **G, B, D, F**, manteniendo un **ritmo parecido**.\n3. **Compás 3 – Dm7**  \n   - Repite o varía tu primera idea.\n4. **Compás 4 – G7**  \n   - Responde otra vez y **guía la línea de vuelta a D**.\n\nLas notas siguen siendo Re dórico; lo que cambia es **qué notas de acorde enfatizas** en cada compás."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\n1. Put a **Dm7–G7 backing track** in a slow tempo.  \n2. For a few minutes, solo using **only D Dorian**, no other notes.  \n3. First chorus: focus on **clean quarter-note rhythms**, landing on D or F on Dm7 and G or F on G7.  \n4. Next choruses: add 8th-notes, small slides and bends, but keep **D as the final “rest” note**.\n\nIf the whole ii–V starts to feel like **one long minor groove that never fully resolves**, you’re really hearing D Dorian over the progression.",
+          "zh-Hans": "# 小练习\n1. 找一个 **Dm7–G7 的伴奏**，速度先放慢。  \n2. 几分钟内只用 **D Dorian** 即兴，不加其他音。  \n3. 第一个轮次：先用简单的**四分音符节奏**，在 Dm7 上多落 **D 或 F**，在 G7 上多落 **G 或 F**。  \n4. 后面几轮：加入八分音符、小滑音、推弦等，但让**最后真正“休息”的音多是 D**。\n\n当这段 ii–V 听起来像是一个**一直没完全解決的酷酷小调 groove** 时，你就真的在用 D Dorian 看待这条进行了。",
+          "de": "# Kurze Übung\n1. Such dir ein **Dm7–G7-Backing** in langsamem Tempo.  \n2. Improvisiere ein paar Minuten lang **nur mit D-Dorisch**, keine anderen Töne.  \n3. Im ersten Chorus: spiel vor allem **Viertelnoten**, lande auf D oder F bei Dm7 und auf G oder F bei G7.  \n4. In den nächsten Chorussen: ergänze Achtel, kleine Slides und Bends, aber lass **D immer wieder dein Ruhepunkt** sein.\n\nWenn sich die ganze ii–V-Verbindung wie ein **langer Minor-Groove anfühlt, der nie ganz auflöst**, hörst du D-Dorisch genau richtig über diese Progression.",
+          "ja": "# かんたん練習\n1. ゆっくりめのテンポで **Dm7–G7のバッキング** を用意する。  \n2. しばらくの間、**Dドリアンだけ** を使ってソロをとる（他の音は無し）。  \n3. 1コーラス目：**4分音符メイン**で、Dm7ではDかF、G7ではGかFに着地するよう意識。  \n4. その後のコーラス：8分音符や小さなスライド、チョーキングを足しながらも、**最終的な“休憩ポイント”はD** にしておく。\n\nii–V全体が「**最後まで解決しきらない、かっこいいマイナー・グルーヴ**」に聞こえてきたら、Dドリアンでこの進行をちゃんと捉えられています。",
+          "pt-BR": "# Prática rápida\n1. Pegue um **playback de Dm7–G7** em andamento lento.  \n2. Improvise por alguns minutos usando **apenas D Dórico**, sem outras notas.  \n3. No primeiro chorus: foque em **ritmos de semínima**, caindo em D ou F no Dm7 e em G ou F no G7.  \n4. Nos próximos: adicione colcheias, pequenos slides e bends, mas mantenha **o D como nota final de repouso**.\n\nSe a ii–V começar a soar como um **grande groove em menor que nunca resolve de verdade**, é sinal de que você está ouvindo D Dórico por cima da progressão.",
+          "es": "# Práctica rápida\n1. Consigue una **base de Dm7–G7** a tempo lento.  \n2. Improvisa unos minutos usando **solo Re dórico**, sin notas extra.  \n3. Primer chorus: céntrate en **ritmos de negras**, cayendo en D o F sobre Dm7 y en G o F sobre G7.  \n4. Siguientes choruses: añade corcheas, pequeños slides y bends, pero mantén **Re como nota final de descanso**.\n\nSi la ii–V empieza a sentirse como un **gran groove menor que nunca termina de resolver**, estás escuchando bien Re dórico sobre la progresión."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

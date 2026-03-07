@@ -1,0 +1,86 @@
+[
+  {
+    "id": "low-e-string-landmarks-3rd-5th-7th-12th-frets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Low E String Landmarks (3rd, 5th, 7th, 12th Frets)",
+        "zh-Hans": "低音E弦地标（第3、5、7、12品）",
+        "de": "Orientierungspunkte auf der tiefen E-Saite (3., 5., 7., 12. Bund)",
+        "ja": "ローE弦のランドマーク（3、5、7、12フレット）",
+        "pt-BR": "Pontos de Referência na Corda Mi Grave (Casas 3, 5, 7, 12)",
+        "es": "Puntos de referencia en la cuerda Mi grave (trastes 3, 5, 7, 12)"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "a-string-landmarks-and-octave-shapes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A String Landmarks and Octave Shapes",
+        "zh-Hans": "A弦地标与八度形状",
+        "de": "Orientierungspunkte auf der A-Saite und Oktavformen",
+        "ja": "A弦のランドマークとオクターブの形",
+        "pt-BR": "Pontos de Referência na Corda Lá e Formas de Oitava",
+        "es": "Puntos de referencia en la cuerda La y formas de octava"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "building-a-mental-map-of-the-fretboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Building a Mental Map of the Fretboard",
+        "zh-Hans": "建立指板的心理地图",
+        "de": "Aufbau einer mentalen Karte des Griffbretts",
+        "ja": "指板のメンタルマップの構築",
+        "pt-BR": "Construindo um Mapa Mental do Braço",
+        "es": "Construcción de un mapa mental del diapasón"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

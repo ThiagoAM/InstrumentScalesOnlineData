@@ -1,0 +1,86 @@
+{
+  "id": "string-crossing-with-scale-patterns",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# String crossing with scale patterns\nIn this lesson you’ll combine **alternating fingers** with **simple scale patterns** that move across strings.\n\nThe goal is to cross strings smoothly while keeping:\n- The **i–m–i–m** pattern intact\n- **Even tone and volume**\n- No extra noise from unused strings",
+          "zh-Hans": "# 用音阶指型练习换弦\n在本课中，你会把右手的**交替拨弦**和会跨弦的**简单音阶指型**结合起来练习。\n\n目标是：\n- 换弦时依然保持 **i–m–i–m** 的顺序\n- 让音色和音量尽量**均匀**\n- 尽量避免没弹到的弦发出**多余杂音**",
+          "de": "# Saitenwechsel mit Tonleiter-Patterns\nIn dieser Lektion kombinierst du **abwechselnde Fingeranschläge** mit **einfachen Tonleitermustern**, die über mehrere Saiten gehen.\n\nDas Ziel ist, die Saiten möglichst geschmeidig zu wechseln und dabei:\n- Das **i–m–i–m**-Muster beizubehalten\n- **Klang und Lautstärke gleichmäßig** zu halten\n- **Störgeräusche von nicht gespielten Saiten** zu vermeiden",
+          "ja": "# スケール・パターンを使った弦移動\nこのレッスンでは、**指のオルタネイト（i–m）**と、弦をまたいで動く**シンプルなスケール・パターン**を組み合わせて練習します。\n\nねらいは、弦をなめらかに移動しながら：\n- **i–m–i–m** のパターンを崩さない\n- **音色と音量をそろえる**\n- 使っていない弦から出る**余計なノイズを減らす**ことです",
+          "pt-BR": "# Troca de cordas com desenhos de escala\nNesta lição você vai juntar o **dedilhado alternado** com **desenhos simples de escala** que atravessam as cordas.\n\nA meta é trocar de corda de forma suave mantendo:\n- O padrão **i–m–i–m** intacto\n- **Som e volume por igual**\n- Sem ruídos extras das cordas que não estão sendo tocadas",
+          "es": "# Cruce de cuerdas con patrones de escala\nEn esta lección vas a combinar los **dedos alternados** con **patrones de escala sencillos** que se mueven entre cuerdas.\n\nEl objetivo es cruzar cuerdas con suavidad manteniendo:\n- El patrón **i–m–i–m** intacto\n- Un **tono y volumen parejos**\n- Sin ruidos extra de las cuerdas que no estás usando"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Right-hand setup\n- Use **index (i)** and **middle (m)** fingers in strict alternation\n- Rest your **thumb** on the pickup or on the lowest string you’re not playing\n- Pluck **across the string** towards your palm\n- Let your fingers come to rest on the **next string** when possible (rest stroke)\n\nThis gives you a stable base for clean string changes.",
+          "zh-Hans": "# 右手准备\n- 严格使用 **食指 (i)** 和 **中指 (m)** 交替拨弦\n- **大拇指**搭在拾音器上，或搭在你此刻没有弹到的最低那根弦上\n- 手指向手掌方向**横向拨弦**，不要往外猛抠\n- 尽量让拨完弦的手指**落在下一根弦上**（rest stroke），帮助消音\n\n这样可以让换弦时更稳定、更干净。",
+          "de": "# Rechte-Hand-Position\n- Verwende **Zeigefinger (i)** und **Mittelfinger (m)** in strenger Abwechslung\n- Lege den **Daumen** auf den Pickup oder auf die tiefste Saite, die du gerade nicht spielst\n- Zupfe **quer zur Saite** in Richtung Handfläche\n- Lass den Finger nach dem Anschlag möglichst auf der **nächsten Saite** zur Ruhe kommen (Rest-Stroke)\n\nSo bekommst du eine stabile Basis für saubere Saitenwechsel.",
+          "ja": "# 右手のセッティング\n- **人差し指 (i)** と **中指 (m)** をきっちり交互に使う\n- **親指**はピックアップか、「今弾いていない一番低い弦」の上に軽く置く\n- 弦を**手のひらの方向へ横に払うように**弾く\n- 可能なときは、弾いた指をそのまま**隣の弦の上で止める**（レストストローク）\n\nこれで、クリーンな弦移動のための安定した土台ができます。",
+          "pt-BR": "# Ajuste da mão direita\n- Use os dedos **indicador (i)** e **médio (m)** em alternância rígida\n- Apoie o **polegar** no captador ou na corda mais grave que você não estiver tocando\n- Toque **atravessando a corda** em direção à palma da mão\n- Sempre que der, deixe o dedo parar na **próxima corda** (rest stroke)\n\nIsso te dá uma base bem estável para fazer trocas de corda limpas.",
+          "es": "# Configuración de la mano derecha\n- Usa los dedos **índice (i)** y **medio (m)** en alternancia estricta\n- Apoya el **pulgar** en la pastilla o en la cuerda más grave que no estés tocando\n- Pulsa **a través de la cuerda**, hacia la palma\n- Cuando sea posible, deja que los dedos descansen en la **siguiente cuerda** (rest stroke)\n\nAsí consigues una base estable para cambios de cuerda limpios."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-string C major pattern (A and D strings)\nWe’ll use a small **C major** pattern that crosses one string.\n\nOn the **A and D strings**:\n- A string, 3rd fret – **C**  \n- A string, 5th fret – **D**  \n- D string, 2nd fret – **E**  \n- D string, 3rd fret – **F**\n\nRight hand:\n- Play **i – m – i – m** the whole time  \n- When you move from A → D, **don’t restart** with the same finger – keep the pattern going\n\nLoop C–D–E–F up and down a few times and focus on **smooth, quiet** string crossing.",
+          "zh-Hans": "# A、D 弦上的 C 大调两弦指型\n先用一个只跨一根弦的小 **C 大调**指型。\n\n在 **A 弦和 D 弦**上：\n- A 弦 第3品 – **C**  \n- A 弦 第5品 – **D**  \n- D 弦 第2品 – **E**  \n- D 弦 第3品 – **F**\n\n右手：\n- 全程保持 **i – m – i – m** 的顺序  \n- 从 A 弦换到 D 弦时，**不要重新从同一根手指开始**，顺着模式继续\n\n把 C–D–E–F 上下反复几遍，重点感受换弦时的**连贯和安静**。",
+          "de": "# C-Dur-Pattern auf zwei Saiten (A- und D-Saite)\nWir benutzen ein kleines **C-Dur**-Pattern, das über eine Saite hinweggeht.\n\nAuf der **A- und D-Saite**:\n- A-Saite, 3. Bund – **C**  \n- A-Saite, 5. Bund – **D**  \n- D-Saite, 2. Bund – **E**  \n- D-Saite, 3. Bund – **F**\n\nRechte Hand:\n- Spiele die ganze Zeit **i – m – i – m**  \n- Wenn du von A → D wechselst, **fang nicht neu** mit demselben Finger an – das Muster läuft weiter\n\nLoop C–D–E–F mehrmals rauf und runter und konzentriere dich auf **weiche, leise** Saitenwechsel.",
+          "ja": "# 2本の弦でのCメジャー・パターン（A弦とD弦）\nまずは、1本だけ弦をまたぐ小さな **Cメジャー** のパターンから始めます。\n\n使うのは **A弦とD弦**：\n- A弦 3フレット – **C**  \n- A弦 5フレット – **D**  \n- D弦 2フレット – **E**  \n- D弦 3フレット – **F**\n\n右手：\n- ずっと **i – m – i – m** と交互に弾く  \n- A弦からD弦に移るときも、**同じ指からやり直さない**で、そのままパターンを続ける\n\nC–D–E–F を上下に何回かループしながら、**なめらかで静かな**弦移動に集中しましょう。",
+          "pt-BR": "# Desenho de Dó maior em duas cordas (A e D)\nVamos usar um pequeno desenho de **C (Dó) maior** que cruza uma corda.\n\nNas cordas **A e D**:\n- Corda A, casa 3 – **C**  \n- Corda A, casa 5 – **D**  \n- Corda D, casa 2 – **E**  \n- Corda D, casa 3 – **F**\n\nMão direita:\n- Toque sempre **i – m – i – m**  \n- Quando for da A → D, **não recomece** com o mesmo dedo – deixe o padrão seguir\n\nFaça loops subindo e descendo C–D–E–F algumas vezes, focando em uma troca de corda **suave e silenciosa**.",
+          "es": "# Patrón de Do mayor en dos cuerdas (A y D)\nUsaremos un pequeño patrón de **Do mayor** que cruza una cuerda.\n\nEn las cuerdas **A y D**:\n- Cuerda A, traste 3 – **C**  \n- Cuerda A, traste 5 – **D**  \n- Cuerda D, traste 2 – **E**  \n- Cuerda D, traste 3 – **F**\n\nMano derecha:\n- Toca todo el tiempo **i – m – i – m**  \n- Al pasar de A → D, **no vuelvas a empezar** con el mismo dedo: deja que el patrón continúe\n\nHaz loops subiendo y bajando C–D–E–F varias veces y céntrate en un cruce de cuerdas **suave y silencioso**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Three-string C major pattern (A, D and G strings)\nNow extend to a full **one-octave C major** across three strings.\n\nOn **A, D and G strings**:\n- A string, 3rd fret – **C**  \n- A string, 5th fret – **D**  \n- D string, 2nd fret – **E**  \n- D string, 3rd fret – **F**  \n- D string, 5th fret – **G**  \n- G string, 2nd fret – **A**  \n- G string, 4th fret – **B**  \n- G string, 5th fret – **C**\n\nPlay up and then back down, always alternating **i–m–i–m…**.\n\nIf you get lost, stop and say out loud which finger should come next before you play.",
+          "zh-Hans": "# A、D、G 弦上的 C 大调三弦指型\n现在把它扩展成跨三根弦的 **一组音 C 大调**。\n\n在 **A、D、G 弦**上：\n- A 弦 第3品 – **C**  \n- A 弦 第5品 – **D**  \n- D 弦 第2品 – **E**  \n- D 弦 第3品 – **F**  \n- D 弦 第5品 – **G**  \n- G 弦 第2品 – **A**  \n- G 弦 第4品 – **B**  \n- G 弦 第5品 – **C**\n\n上行一遍再下行一遍，全程都保持 **i–m–i–m…** 的交替。\n\n如果手指顺序乱了，就先停下来，**先用嘴巴说出下一个应该用哪根手指**，再弹。",
+          "de": "# C-Dur-Pattern über drei Saiten (A, D und G)\nJetzt erweitern wir das Ganze zu einer **C-Dur-Tonleiter über eine Oktave** auf drei Saiten.\n\nAuf **A-, D- und G-Saite**:\n- A-Saite, 3. Bund – **C**  \n- A-Saite, 5. Bund – **D**  \n- D-Saite, 2. Bund – **E**  \n- D-Saite, 3. Bund – **F**  \n- D-Saite, 5. Bund – **G**  \n- G-Saite, 2. Bund – **A**  \n- G-Saite, 4. Bund – **B**  \n- G-Saite, 5. Bund – **C**\n\nSpiele die Tonleiter aufwärts und wieder abwärts, immer mit **i–m–i–m…**.\n\nWenn du durcheinanderkommst, halte kurz an und sage laut, **welcher Finger als Nächstes dran ist**, bevor du weiterspielst.",
+          "ja": "# 3本の弦でのCメジャー・パターン（A・D・G弦）\n次は、3本の弦を使って**1オクターブ分のCメジャー**を弾いてみましょう。\n\n使うのは **A弦・D弦・G弦**：\n- A弦 3フレット – **C**  \n- A弦 5フレット – **D**  \n- D弦 2フレット – **E**  \n- D弦 3フレット – **F**  \n- D弦 5フレット – **G**  \n- G弦 2フレット – **A**  \n- G弦 4フレット – **B**  \n- G弦 5フレット – **C**\n\n上がって下りるまで、ずっと **i–m–i–m…** と交互に弾き続けます。\n\nもし指の順番が分からなくなったら、一度止まって「次はどの指か」を声に出してから弾きましょう。",
+          "pt-BR": "# Desenho de Dó maior em três cordas (A, D e G)\nAgora vamos estender para uma **escala de C (Dó) maior de uma oitava** passando por três cordas.\n\nNas cordas **A, D e G**:\n- Corda A, casa 3 – **C**  \n- Corda A, casa 5 – **D**  \n- Corda D, casa 2 – **E**  \n- Corda D, casa 3 – **F**  \n- Corda D, casa 5 – **G**  \n- Corda G, casa 2 – **A**  \n- Corda G, casa 4 – **B**  \n- Corda G, casa 5 – **C**\n\nSuba e desça tocando sempre em alternância **i–m–i–m…**.\n\nSe se perder, pare e diga em voz alta **qual dedo vem agora** antes de tocar de novo.",
+          "es": "# Patrón de Do mayor en tres cuerdas (A, D y G)\nAhora amplía a una **escala de Do mayor de una octava** repartida en tres cuerdas.\n\nEn las cuerdas **A, D y G**:\n- Cuerda A, traste 3 – **C**  \n- Cuerda A, traste 5 – **D**  \n- Cuerda D, traste 2 – **E**  \n- Cuerda D, traste 3 – **F**  \n- Cuerda D, traste 5 – **G**  \n- Cuerda G, traste 2 – **A**  \n- Cuerda G, traste 4 – **B**  \n- Cuerda G, traste 5 – **C**\n\nToca hacia arriba y luego hacia abajo, siempre alternando **i–m–i–m…**.\n\nSi te pierdes, para un momento y di en voz alta **qué dedo toca después** antes de seguir."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# String-crossing drill ideas\nTry these ways of slicing the pattern:\n\n1. **Two notes per string**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **One note per string**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **Back-and-forth crossing**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\nIn every case, keep the **right hand pattern** more important than speed. Slow and clean wins.",
+          "zh-Hans": "# 换弦练习的小变体\n可以用几种不同的方式“切片”这个指型：\n\n1. **每弦两个音**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **每弦一个音**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **来回式换弦**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\n无论用哪一种，**右手的交替顺序**都比速度更重要——慢而干净永远比快而乱更有用。",
+          "de": "# Ideen für Saitenwechsel-Übungen\nProbiere, das Pattern auf diese Arten zu „portionieren“:\n\n1. **Zwei Noten pro Saite**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **Eine Note pro Saite**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **Hin-und-her-Wechsel**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\nIn allen Varianten ist das **rechte-Hand-Muster** wichtiger als das Tempo. Langsam und sauber ist besser als schnell und schlampig.",
+          "ja": "# 弦移動ドリルのアイデア\nこのパターンを、いろいろな切り方で練習してみましょう：\n\n1. **1本の弦につき2音**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **1本の弦につき1音**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **行ったり来たりの弦移動**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\nどのパターンでも、**右手のオルタネイトの維持**がスピードより大事です。ゆっくりでも、きれいに弾けるほうが価値があります。",
+          "pt-BR": "# Ideias de exercícios de troca de corda\nExperimente “fatiar” o desenho dessas maneiras:\n\n1. **Duas notas por corda**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **Uma nota por corda**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **Vai-e-volta entre as cordas**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\nEm todos os casos, o mais importante é manter o **padrão da mão direita**, não a velocidade. Devagar e limpo vale mais do que rápido e embolado.",
+          "es": "# Ideas de ejercicios de cruce de cuerdas\nPrueba a “rebanar” el patrón de estas formas:\n\n1. **Dos notas por cuerda**  \n   - C (A3) – D (A5) → E (D2) – F (D3) → G (D5) – A (G2)…\n2. **Una nota por cuerda**  \n   - C (A3) → E (D2) → G (D5) → B (G4)…\n3. **Cruce ida y vuelta**  \n   - C (A3) → E (D2) → D (A5) → F (D3)…\n\nEn todos los casos, mantén el **patrón de la mano derecha** por encima de la velocidad. Lento y limpio gana."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice routine\n1. **Warm-up:** 1–2 minutes of alternating i–m on a single string (any note).  \n2. **Two-string pattern:** C–D–E–F on A and D strings, up and down 4–5 times.  \n3. **Three-string pattern:** full C major across A–D–G, very slow, focus on clean crossings.  \n4. **Variation:** pick one of the drill ideas and loop it for a minute.\n\nAfter a few days of this, scale patterns that cross strings will start to feel **automatic** in your right hand.",
+          "zh-Hans": "# 快速练习流程\n1. **热身：** 在任意一根弦上用 i–m 交替拨同一个音 1–2 分钟。  \n2. **两弦指型：** 在 A、D 弦上练 C–D–E–F，上下各弹 4–5 遍。  \n3. **三弦指型：** 在 A–D–G 弦上完整弹一组 C 大调，速度放慢，专注在干净换弦。  \n4. **小变体：** 从上面的练习变体中选一个，循环约 1 分钟。\n\n坚持练几天，跨弦的音阶指型在右手上就会开始变得**自然顺手**。",
+          "de": "# Kurze Übe-Routine\n1. **Aufwärmen:** 1–2 Minuten i–m im Wechsel auf einer einzigen Saite (beliebiger Ton).  \n2. **Zwei-Saiten-Pattern:** C–D–E–F auf A- und D-Saite, 4–5 Mal rauf und runter.  \n3. **Drei-Saiten-Pattern:** komplette C-Dur-Skala über A–D–G, sehr langsam, Fokus auf saubere Saitenwechsel.  \n4. **Variation:** Such dir eine der Drill-Ideen aus und wiederhole sie etwa eine Minute lang.\n\nNach ein paar Tagen fühlt sich das Überqueren der Saiten in Tonleiter-Patterns in deiner rechten Hand immer mehr **automatisch** an.",
+          "ja": "# かんたん練習ルーティン\n1. **ウォームアップ：** どの音でもいいので、1本の弦で i–m のオルタネイトを1〜2分。  \n2. **2本の弦のパターン：** A・D弦で C–D–E–F を4〜5回、上下に往復。  \n3. **3本の弦のパターン：** A–D–G弦でCメジャー1オクターブをすごくゆっくり弾き、弦移動のクリーンさに集中。  \n4. **バリエーション：** 上のドリルのどれか1つを選んで、1分ほどループする。\n\nこれを数日続けると、弦をまたぐスケール・パターンが右手の中でだんだんと**自動的**に感じられるようになります。",
+          "pt-BR": "# Rotina rápida de estudo\n1. **Aquecimento:** 1–2 minutos alternando i–m em uma única corda (qualquer nota).  \n2. **Desenho em duas cordas:** C–D–E–F nas cordas A e D, subindo e descendo 4–5 vezes.  \n3. **Desenho em três cordas:** C maior completo em A–D–G, bem devagar, focando em trocas limpas.  \n4. **Variação:** escolha uma das ideias de drill e repita por cerca de um minuto.\n\nDepois de alguns dias, os desenhos de escala que cruzam cordas começam a parecer **automáticos** na mão direita.",
+          "es": "# Rutina rápida de práctica\n1. **Calentamiento:** 1–2 minutos alternando i–m en una sola cuerda (cualquier nota).  \n2. **Patrón en dos cuerdas:** C–D–E–F en las cuerdas A y D, subiendo y bajando 4–5 veces.  \n3. **Patrón en tres cuerdas:** Do mayor completo en A–D–G, muy lento, centrado en cruces limpios.  \n4. **Variación:** elige una de las ideas de ejercicio y repítela durante un minuto.\n\nDespués de unos días, los patrones de escala que cruzan cuerdas empiezan a sentirse **automáticos** en tu mano derecha."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

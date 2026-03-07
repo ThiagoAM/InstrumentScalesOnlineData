@@ -1,0 +1,86 @@
+{
+  "id": "creating-counter-melodies-with-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Creating counter-melodies with scales\nCounter-melodies are **simple melodic lines** that move against the main melody.\nOn bass, they add interest without stealing the spotlight.\n\nIn this lesson you'll:\n- Use **major or minor scales** to build counter-melodies\n- Keep lines singable and easy to remember\n- Practice in **G major** so you can move the idea to other keys later\n\nWe'll stay practical: short phrases you can drop into real songs.",
+          "zh-Hans": "# 用音阶创作贝斯对位旋律\n“对位旋律”就是在主旋律旁边走的一条**简单旋律线**。\n在贝斯上，它能增加趣味，但不会抢走主角。\n\n本课你会：\n- 用**大调或小调音阶**来写对位旋律\n- 让旋律线好唱、好记\n- 在 **G 大调** 中练习，之后可以挪到别的调上\n\n重点都是实用：几句可以直接丢进真实歌曲里的短句子。",
+          "de": "# Gegenmelodien mit Tonleitern bauen\nGegenmelodien sind **einfache Melodielinien**, die sich zur Hauptmelodie bewegen.\nAuf dem Bass bringen sie Spannung, ohne in den Vordergrund zu drängen.\n\nIn dieser Lektion wirst du:\n- Mit **Dur- und Molltonleitern** Gegenmelodien aufbauen\n- Linien schaffen, die sich leicht mitsingen lassen\n- In **G-Dur** üben, damit du die Idee später auf andere Tonarten übertragen kannst\n\nWir bleiben praxisnah: kurze Phrasen, die du direkt in Songs verwenden kannst.",
+          "ja": "# 音階を使ってカウンター・メロディを作る\nカウンター・メロディは、メインのメロディと**絡み合って動くシンプルな旋律**です。\nベースで入れると、主役を奪わずに曲に彩りを足せます。\n\nこのレッスンでは：\n- **長調・短調のスケール**を使ってカウンター・メロディを作る\n- 歌えるくらいシンプルで覚えやすいラインにする\n- 後で他のキーにも移せるよう、**Gメジャー**で練習する\n\n狙いは実戦向き：そのまま曲に差し込める短いフレーズを作っていきます。",
+          "pt-BR": "# Criando contramelodias com escalas\nContramelodias são **linhas melódicas simples** que se movem contra a melodia principal.\nNo baixo, elas trazem interesse sem roubar o protagonismo.\n\nNesta lição você vai:\n- Usar **escalas maiores ou menores** para criar contramelodias\n- Manter as linhas cantáveis e fáceis de lembrar\n- Praticar em **G (Sol) maior**, pra depois levar a ideia pra outros tons\n\nA ideia é ser prático: frases curtas que você possa encaixar direto nas músicas.",
+          "es": "# Crear contramelodías con escalas\nLas contramelodías son **líneas melódicas sencillas** que se mueven junto pero distinto a la melodía principal.\nEn el bajo, añaden interés sin quitarle el protagonismo a la voz o a la guitarra.\n\nEn esta lección vas a:\n- Usar **escalas mayores o menores** para construir contramelodías\n- Mantener las líneas cantables y fáciles de recordar\n- Practicar en **Sol mayor (G)** para luego mover la idea a otras tonalidades\n\nTodo será práctico: frases cortas que puedas meter directamente en tus temas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What makes a good bass counter-melody?\nA useful counter line usually:\n- Stays **rhythmically simpler** than the main melody\n- Leaves **space on beat 1** for the groove and the kick\n- Lives mostly in a **higher register** (above the root) so the mix doesn't get muddy\n- Uses **stepwise motion** with a few small jumps\n\nIf you can sing it easily, you're probably on the right track.",
+          "zh-Hans": "# 一条好的贝斯对位要具备什么？\n实用的对位贝斯线通常会：\n- 在节奏上比主旋律**更简单**\n- 在第 1 拍留出**空间**，让鼓和主低音说话\n- 大多待在**稍高一点的音区**（高于根音），避免混浊\n- 以**级进**为主，只带少量小跳进\n\n如果你能轻松哼出来，多半方向就是对的。",
+          "de": "# Was macht eine gute Bass-Gegenmelodie aus?\nEine brauchbare Gegenlinie:\n- Ist rhythmisch meist **einfacher** als die Hauptmelodie\n- Lässt auf Zählzeit 1 ein bisschen **Luft** für Groove und Kick\n- Spielt vor allem in einer **höheren Lage** (über dem Grundton), damit der Mix nicht matscht\n- Nutzt überwiegend **Schrittbewegung** mit ein paar kleinen Sprüngen\n\nWenn du die Linie problemlos mitsingen kannst, bist du meistens auf dem richtigen Weg.",
+          "ja": "# いいベース・カウンターの条件\n使えるカウンター・ラインはたいてい：\n- 主旋律より**リズムがシンプル**\n- 1拍目に**少しスペース**を空けて、キックとグルーヴを優先する\n- 主に**やや高めのポジション**（ルートより上）で動き、サウンドを濁らせない\n- **順次進行**が中心で、小さな跳躍が少しだけ入る\n\n自分で楽に口ずさめるなら、だいたい良いラインになっています。",
+          "pt-BR": "# O que faz uma boa contramelodia de baixo?\nUma boa linha de contra normalmente:\n- É **ritmicamente mais simples** do que a melodia principal\n- Deixa **espaço no tempo 1** pro bumbo e pro groove\n- Fica mais na **região média/alta** (acima da tônica) pra não embolar o som\n- Usa **movimento conjunto** (passinho de nota em nota) com poucos saltos pequenos\n\nSe você consegue cantar a linha sem esforço, provavelmente está no caminho certo.",
+          "es": "# ¿Qué hace buena a una contramelodía de bajo?\nUna contralínea útil normalmente:\n- Es **rítmicamente más simple** que la melodía principal\n- Deja **espacio en el tiempo 1** para el bombo y el groove\n- Vive sobre todo en un **registro un poco más alto** (por encima de la tónica) para que la mezcla no se ensucie\n- Usa sobre todo **movimiento conjunto** con pocos saltos pequeños\n\nSi puedes cantarla sin esfuerzo, seguramente vas bien."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using the scale as your note pool\nWe'll work in **G major**: G–A–B–C–D–E–F#.\n\nFor a basic G chord:\n- Strong tones: **G (1), B (3), D (5)**\n- Color tones: **A (2), E (6)**\n- Careful with **C (4)**: use it as a passing note, not a long stop\n\nStart lines on chord tones, and use neighboring scale notes to **walk into** the next target tone.",
+          "zh-Hans": "# 把音阶当作“音池”\n我们先在 **G 大调** 里练习：G–A–B–C–D–E–F#。\n\n当和弦是 G 时：\n- 强音：**G (1)、B (3)、D (5)**\n- 色彩音：**A (2)、E (6)**\n- **C (4)** 要小心：更适合作为**经过音**，不要长时间停在上面\n\n让你的乐句从和弦音开始，用附近的音阶音去**走向下一个目标音**。",
+          "de": "# Die Tonleiter als Notenvorrat\nWir arbeiten hier in **G-Dur**: G–A–B–C–D–E–F#.\n\nÜber einem einfachen G-Akkord:\n- Starke Töne: **G (1), B (3), D (5)**\n- Farbnoten: **A (2), E (6)**\n- Mit **C (4)** vorsichtig sein: lieber als **Durchgangston** nutzen, nicht als langer Liegeton\n\nStarte deine Linien auf Akkordtönen und nutze benachbarte Skalentöne, um **in den nächsten Zieltton hineinzulaufen**.",
+          "ja": "# スケールを“音のプール”として使う\nここでは **Gメジャー** を使います：G–A–B–C–D–E–F#。\n\nコードがGのとき：\n- 強い音：**G (1)、B (3)、D (5)**\n- 色づけの音：**A (2)、E (6)**\n- **C (4)** は要注意：**経過音**として通過させる方が安全で、長く伸ばさないほうがいいことが多いです。\n\nラインはいつもコードトーンから始めて、周りのスケール音で次のターゲットに**滑り込んでいく**イメージを持ちましょう。",
+          "pt-BR": "# Usando a escala como seu “balde de notas”\nVamos trabalhar em **G (Sol) maior**: G–A–B–C–D–E–F#.\n\nSobre um acorde simples de G:\n- Notas fortes: **G (1), B (3), D (5)**\n- Notas de cor: **A (2), E (6)**\n- **C (4)** pede cuidado: use mais como **nota de passagem**, não como ponto de parada\n\nComece as frases em notas do acorde e use as notas vizinhas da escala pra **caminhar até o próximo alvo**.",
+          "es": "# Usar la escala como “depósito de notas”\nTrabajaremos en **Sol mayor (G)**: G–A–B–C–D–E–F#.\n\nSobre un acorde simple de G:\n- Notas fuertes: **G (1), B (3), D (5)**\n- Notas de color: **A (2), E (6)**\n- Cuidado con **C (4)**: úsala mejor como **nota de paso**, no como nota larga\n\nEmpieza tus líneas en notas del acorde y usa las notas vecinas de la escala para **caminar hacia el siguiente objetivo**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# One-bar counter-melody example\nImagine the band is holding a **G chord for one bar**.\nTry this simple counter line in 4/4 (mostly 8th notes), up in the middle register:\n\n- Beat 1: rest (let the groove breathe)\n- Beat 2: **B (3)** – G string, 4th fret\n- Beat 3: **A (2)** – G string, 2nd fret\n- Beat 4: **G (1)** – D string, 5th fret\n\nIt feels like a small **answer** to the main melody: it moves, then gently falls back to the root.",
+          "zh-Hans": "# 一小节对位旋律示例\n想象乐队在一个小节里一直按着 **G 和弦**。\n在 4/4 拍中，试试这个主要用八分音符、位于中音区的对位线：\n\n- 第 1 拍：休止（让 groove 先出来）\n- 第 2 拍：**B (3)** —— G 弦第 4 品\n- 第 3 拍：**A (2)** —— G 弦第 2 品\n- 第 4 拍：**G (1)** —— D 弦第 5 品\n\n这听起来像是对主旋律的一个小**回答**：先往上动一动，然后轻轻回到根音。",
+          "de": "# Beispiel für eine ein­taktige Gegenmelodie\nStell dir vor, die Band hält einen **G-Akkord über einen ganzen Takt**.\nProbier diese einfache Gegenlinie in 4/4 (meist Achtel) in mittlerer Lage:\n\n- Zählzeit 1: Pause (lass den Groove atmen)\n- Zählzeit 2: **B (3)** – G-Saite, 4. Bund\n- Zählzeit 3: **A (2)** – G-Saite, 2. Bund\n- Zählzeit 4: **G (1)** – D-Saite, 5. Bund\n\nDie Linie wirkt wie eine kleine **Antwort** auf die Hauptmelodie: sie bewegt sich kurz und fällt dann sanft zurück auf den Grundton.",
+          "ja": "# 1小節のカウンター・メロディ例\nバンドが1小節まるごと **Gコードを伸ばしている**とイメージしてみましょう。\n4/4拍で、中音域を使ったシンプルなラインを試します（8分音符中心）：\n\n- 拍1：休符（まずグルーヴにスペースをあげる）\n- 拍2：**B (3)** – G弦4フレット\n- 拍3：**A (2)** – G弦2フレット\n- 拍4：**G (1)** – D弦5フレット\n\nメインメロディに対して、ちょっとした**返事**をするような感じで動いてから、そっとルートに戻ってきます。",
+          "pt-BR": "# Exemplo de contramelodia de 1 compasso\nImagine que a banda está segurando um **acorde de G** por um compasso inteiro.\nEm 4/4, teste essa linha simples em colcheias, na região média do baixo:\n\n- Tempo 1: pausa (deixa o groove respirar)\n- Tempo 2: **B (3)** – corda G, casa 4\n- Tempo 3: **A (2)** – corda G, casa 2\n- Tempo 4: **G (1)** – corda D, casa 5\n\nEla soa como uma pequena **resposta** à melodia principal: se move um pouco e cai de volta, de leve, na tônica.",
+          "es": "# Ejemplo de contramelodía de un compás\nImagina que la banda está sosteniendo un **acorde de G** durante un compás entero.\nEn 4/4, prueba esta línea sencilla, sobre todo en corcheas y en registro medio:\n\n- Tiempo 1: silencio (deja respirar al groove)\n- Tiempo 2: **B (3)** – cuerda G, traste 4\n- Tiempo 3: **A (2)** – cuerda G, traste 2\n- Tiempo 4: **G (1)** – cuerda D, traste 5\n\nSuena como una pequeña **respuesta** a la melodía principal: se mueve un poco y vuelve suavemente a la tónica."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-bar call-and-response idea\nOver two bars of G:\n- Bar 1: play the line above (B–A–G)\n- Bar 2: answer with **D–E–D** in 8ths (D string 5th–7th–5th fret)\n\nYou get a simple **question/answer shape** that repeats.\nKeep the rhythm almost the same so it feels like a hook, not random notes.",
+          "zh-Hans": "# 两小节“问答”型对位\n在连续两个小节的 G 上：\n- 第 1 小节：弹上面那条线（B–A–G）\n- 第 2 小节：用 8 分音符弹 **D–E–D** 作为回答（D 弦第 5–7–5 品）\n\n这样你得到一个简单的 **“问–答”轮廓**，可以反复使用。\n保持节奏几乎一样，这样听起来像一个小 hook，而不是随便乱弹的音。",
+          "de": "# Zweitaktige Call-and-Response-Idee\nÜber zwei Takte G:\n- Takt 1: spiele die Linie von oben (B–A–G)\n- Takt 2: antworte mit **D–E–D** in Achteln (D-Saite 5.–7.–5. Bund)\n\nSo entsteht eine einfache **Frage-Antwort-Gestalt**, die du loopen kannst.\nLass den Rhythmus fast gleich, damit es wie ein Hook wirkt und nicht wie zufällige Noten.",
+          "ja": "# 2小節のコール＆レスポンス\nGが2小節続くとして：\n- 1小節目：さきほどのライン（B–A–G）を弾く\n- 2小節目：8分音符で **D–E–D** と“返事”をする（D弦5–7–5フレット）\n\nこれでシンプルな**質問／回答の形**ができて、ループしやすくなります。\nリズムはほとんど同じにしておくと、「たまたまの音」ではなく**フレーズとしてのフック**に聞こえます。",
+          "pt-BR": "# Ideia de 2 compassos em pergunta e resposta\nEm dois compassos de G:\n- Compasso 1: toque a linha anterior (B–A–G)\n- Compasso 2: responda com **D–E–D** em colcheias (corda D, casas 5–7–5)\n\nVocê ganha um desenho simples de **pergunta e resposta** que pode ficar repetindo.\nMantenha o ritmo quase igual nos dois compassos pra soar como um pequeno hook, e não como notas aleatórias.",
+          "es": "# Idea de dos compases en pregunta y respuesta\nSobre dos compases de G:\n- Compás 1: toca la línea anterior (B–A–G)\n- Compás 2: responde con **D–E–D** en corcheas (cuerda D, trastes 5–7–5)\n\nAsí obtienes una **forma sencilla de pregunta/respuesta** que puedes repetir.\nMantén casi igual el ritmo en ambos compases para que se sienta como un pequeño hook y no como notas al azar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Sing or hum the **vocal/guitar melody**, then answer it on the bass using only scale notes\n- Limit yourself to **3 or 4 notes** from the scale for each idea\n- Record a loop in G, then try counter-melodies in **G major, G mixolydian, and E minor** to hear the mood change\n- Always check: does my line **support the song**, or is it fighting the lead?\n\nIf it still grooves when you **mute the main melody**, and also makes sense when the melody is back, your counter-melody is doing its job.",
+          "zh-Hans": "# 练习小贴士\n- 先**唱或哼主旋律**（人声/吉他），然后用纯音阶音在贝斯上给它“回一句”\n- 给自己限制：每个想法只用**3～4 个音**\n- 录一个 G 的循环伴奏，然后分别在上面用 **G 大调、G Mixolydian、E 小调** 做对位，感受情绪的变化\n- 随时问自己：这条线是在**帮歌**，还是在跟主旋律打架？\n\n一个小测试：把主旋律**静音**，看看贝斯线还能不能自己成句；再把主旋律打开，两者是否还能配得很好——如果是，你的对位就完成任务了。",
+          "de": "# Übetipps\n- Sing oder summe zuerst die **Gesangs-/Gitarrenmelodie** und antworte dann auf dem Bass nur mit Skalentönen\n- Beschränke dich pro Idee auf **3–4 Noten** aus der Skala\n- Nimm einen Loop in G auf und probiere Gegenmelodien in **G-Dur, G-Mixolydisch und E-Moll**, um die unterschiedlichen Stimmungen zu hören\n- Frag dich immer: Unterstützt meine Linie gerade **den Song**, oder kämpft sie gegen die Leadstimme?\n\nGuter Check: Wenn der Groove auch noch funktioniert, wenn du die **Hauptmelodie stumm schaltest**, und trotzdem gut mit ihr zusammenklingt, wenn du sie wieder dazunimmst, macht deine Gegenmelodie ihren Job.",
+          "ja": "# 練習のコツ\n- まず**ボーカルやギターのメロディを口で歌って**みて、それに対してベースでスケールの音だけを使って“返事”をする\n- 1つのアイデアにつき、使う音は**3〜4音まで**と決めてみる\n- Gのループを録音して、その上で **Gメジャー、Gミクソリディアン、Eマイナー** それぞれでカウンター・メロディを作り、雰囲気の違いを感じる\n- いつも確認：このラインは**曲を支えている**のか、それともリードとケンカしているのか？\n\n小テストとして、主旋律を一度**ミュート**してみて、それでもベースラインだけでフレーズとして成立しているかを聴いてみましょう。戻したときに両方が気持ちよく重なれば、そのカウンター・メロディはうまくいっています。",
+          "pt-BR": "# Dicas de estudo\n- Cante ou assobie a **melodia da voz/guitarra** e depois responda a ela no baixo usando só notas da escala\n- Se limite a **3 ou 4 notas** da escala em cada ideia\n- Grave um loop em G e teste contramelodias em **G maior, G mixolídio e E menor**, ouvindo como o clima muda\n- Pergunte sempre: minha linha está **ajudando a música** ou brigando com a melodia principal?\n\nUm bom teste: mute a **melodia principal** e veja se o baixo ainda soa como uma frase com sentido. Depois volte a melodia: se as duas coisas continuam funcionando juntas, sua contramelodia está cumprindo o papel dela.",
+          "es": "# Consejos de práctica\n- Primero **canta o tararea la melodía de voz/guitarra** y luego respóndele en el bajo usando sólo notas de la escala\n- Limítate a **3 o 4 notas** de la escala por idea\n- Graba un loop en Sol y prueba contramelodías en **Sol mayor, Sol mixolidio y Mi menor**, escuchando cómo cambia el clima\n- Pregúntate siempre: ¿mi línea está **apoyando la canción** o está peleando con la melodía principal?\n\nBuen test: silencia la **melodía principal** y fíjate si la línea de bajo por sí sola sigue teniendo sentido. Luego vuelve a activar la melodía; si las dos cosas siguen funcionando bien juntas, tu contramelodía está cumpliendo su función."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

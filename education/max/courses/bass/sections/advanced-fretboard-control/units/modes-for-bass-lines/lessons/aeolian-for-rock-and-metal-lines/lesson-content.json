@@ -1,0 +1,86 @@
+{
+  "id": "aeolian-for-rock-and-metal-lines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Aeolian for rock and metal lines\nAeolian is the **natural minor** sound – dark, direct and perfect for rock and metal.\n\nIn this lesson you’ll:\n- See what makes Aeolian darker than Dorian\n- Learn an **E Aeolian** pattern built around the low E string\n- Build a couple of **simple rock/metal bass lines** using ♭3, ♭6 and ♭7\n\nWe’ll keep things riff-friendly so you can drop them straight under heavy guitars.",
+          "zh-Hans": "# 用 Aeolian（自然小调）做摇滚和金属贝斯线\nAeolian 就是常说的**自然小调**，声音更暗、更直接，很适合摇滚和金属。\n\n本课你会：\n- 看看 Aeolian 为什么比 Dorian 更“暗”\n- 学一个围绕低音 E 弦的 **E Aeolian** 指型\n- 用 ♭3、♭6 和 ♭7 写出几条简单的**摇滚/金属贝斯线**\n\n内容会偏向“riff 风格”，方便直接放到厚重的吉他下面用。",
+          "de": "# Äolisch für Rock- und Metal-Linien\nÄolisch ist der **natürliche Moll-Sound** – dunkel, direkt und perfekt für Rock und Metal.\n\nIn dieser Lektion wirst du:\n- Verstehen, warum Äolisch dunkler klingt als Dorisch\n- Ein **E-Äolisch**-Pattern rund um die tiefe E-Saite lernen\n- Ein paar **einfache Rock-/Metal-Basslinien** mit ♭3, ♭6 und ♭7 bauen\n\nWir bleiben riff-orientiert, damit du alles direkt unter verzerrte Gitarren legen kannst.",
+          "ja": "# ロック＆メタル・ラインのためのエオリアン\nエオリアンは、いわゆる**ナチュラル・マイナー**の響きです。暗くてストレートなので、ロックやメタルと相性バツグンです。\n\nこのレッスンでは：\n- エオリアンがドリアンより**なぜ暗く聞こえるか**\n- 低いE弦を中心にした **Eエオリアン** のパターン\n- ♭3、♭6、♭7を使った、シンプルな**ロック/メタル系ベースライン**を作ります。\n\nリフにそのまま使える内容にしているので、重たいギターの下で即戦力になります。",
+          "pt-BR": "# Eólio para linhas de rock e metal\nO modo eólio é o nosso **menor natural** – escuro, direto e perfeito para rock e metal.\n\nNesta lição você vai:\n- Entender por que o eólio é mais “dark” que o dórico\n- Aprender um desenho de **E eólio** em volta da corda E solta\n- Montar algumas **linhas simples de rock/metal** usando ♭3, ♭6 e ♭7\n\nA ideia aqui é bem focada em riff, pra você colocar direto embaixo das guitarras distorcidas.",
+          "es": "# Eolio para líneas de rock y metal\nEl modo eolio es el **menor natural**: oscuro, directo y perfecto para rock y metal.\n\nEn esta lección vas a:\n- Ver por qué el eolio suena más oscuro que el dórico\n- Aprender un patrón de **Mi eolio (E Aeolian)** alrededor de la cuerda E grave\n- Construir algunas **líneas sencillas de rock/metal** usando ♭3, ♭6 y ♭7\n\nTodo está pensado para riffs, para que lo puedas poner directo debajo de guitarras pesadas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What is Aeolian?\nAeolian is the **sixth mode** of the major scale and is the same as **natural minor**.\n\nFormula (from the root):\n- 1 – 2 – ♭3 – 4 – 5 – ♭6 – ♭7\n\nCompare with Dorian:\n- Dorian: 1 – 2 – ♭3 – 4 – 5 – **6** – ♭7\n- Aeolian: 1 – 2 – ♭3 – 4 – 5 – **♭6** – ♭7\n\nThat **♭6** is what makes the sound more **sad/doom** and less funky.\nFor **E Aeolian** (from G major): E–F#–G–A–B–C–D.",
+          "zh-Hans": "# 什么是 Aeolian？\nAeolian 是大调音阶的**第六顺阶模式**，也就是我们熟悉的**自然小调**。\n\n从根音数的公式：\n- 1 – 2 – ♭3 – 4 – 5 – ♭6 – ♭7\n\n和 Dorian 对比：\n- Dorian：1 – 2 – ♭3 – 4 – 5 – **6** – ♭7\n- Aeolian：1 – 2 – ♭3 – 4 – 5 – **♭6** – ♭7\n\n这个 **♭6** 让声音更偏**悲伤 / 压抑（doom 感）**，而不是偏 funk。\n\n**E Aeolian**（来自 G 大调）的音为：E–F#–G–A–B–C–D。",
+          "de": "# Was ist Äolisch?\nÄolisch ist der **sechste Modus** der Durtonleiter und entspricht dem **natürlichen Moll**.\n\nFormel (vom Grundton aus):\n- 1 – 2 – ♭3 – 4 – 5 – ♭6 – ♭7\n\nIm Vergleich zu Dorisch:\n- Dorisch: 1 – 2 – ♭3 – 4 – 5 – **6** – ♭7\n- Äolisch: 1 – 2 – ♭3 – 4 – 5 – **♭6** – ♭7\n\nDie **kleine Sexte (♭6)** macht den Sound **düsterer und melancholischer**, weniger funky.\n\nFür **E-Äolisch** (aus G-Dur) sind die Töne: E–F#–G–A–B–C–D.",
+          "ja": "# エオリアンとは？\nエオリアンは、メジャー・スケールの**第6モード**で、いわゆる**ナチュラル・マイナー**と同じです。\n\nルートから見た度数：\n- 1 – 2 – ♭3 – 4 – 5 – ♭6 – ♭7\n\nドリアンとの違い：\n- ドリアン：1 – 2 – ♭3 – 4 – 5 – **6** – ♭7\n- エオリアン：1 – 2 – ♭3 – 4 – 5 – **♭6** – ♭7\n\nこの **♭6** があることで、サウンドがより**暗く、ドゥーム寄り**になって、ファンクっぽさは減ります。\n\n**Eエオリアン**（Gメジャー由来）の音：E–F#–G–A–B–C–D。",
+          "pt-BR": "# O que é o eólio?\nO eólio é o **sexto modo** da escala maior, o mesmo que o **menor natural**.\n\nFórmula (a partir da tônica):\n- 1 – 2 – ♭3 – 4 – 5 – ♭6 – ♭7\n\nComparando com o dórico:\n- Dórico: 1 – 2 – ♭3 – 4 – 5 – **6** – ♭7\n- Eólio: 1 – 2 – ♭3 – 4 – 5 – **♭6** – ♭7\n\nÉ essa **♭6** que deixa o som mais **triste/pesado**, com cara de doom, e menos funk.\n\nNo **E eólio** (derivado de G maior), as notas são: E–F#–G–A–B–C–D.",
+          "es": "# ¿Qué es el eolio?\nEl eolio es el **sexto modo** de la escala mayor y coincide con el **menor natural**.\n\nFórmula (desde la tónica):\n- 1 – 2 – ♭3 – 4 – 5 – ♭6 – ♭7\n\nComparado con el dórico:\n- Dórico: 1 – 2 – ♭3 – 4 – 5 – **6** – ♭7\n- Eolio: 1 – 2 – ♭3 – 4 – 5 – **♭6** – ♭7\n\nEsa **♭6** hace que el sonido sea más **triste/oscuro**, menos funky.\n\nEn **Mi eolio (E Aeolian)**, derivado de Sol mayor, las notas son: E–F#–G–A–B–C–D."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# E Aeolian pattern on the neck\nWe’ll use an **open E**-based pattern, very common in rock and metal.\n\n4-string bass in E–A–D–G.\n\nPlay this E Aeolian shape (E–F#–G–A–B–C–D–E):\n\n- **E string**  \n  - Open – **E** (1)  \n  - 2nd fret – **F#** (2)  \n  - 3rd fret – **G** (♭3)\n- **A string**  \n  - Open – **A** (4)  \n  - 2nd fret – **B** (5)  \n  - 3rd fret – **C** (♭6)\n- **D string**  \n  - Open – **D** (♭7)  \n  - 2nd fret – **E** (1)\n\nUse **palm muting** or a tight right-hand attack if you want a more metal-style sound.",
+          "zh-Hans": "# 指板上的 E Aeolian 指型\n我们用一个基于**空弦 E** 的指型，这是摇滚、金属里非常常见的区域。\n\n4 弦贝斯，E–A–D–G 定弦。\n\n上下弹这个 E Aeolian 指型（E–F#–G–A–B–C–D–E）：\n\n- **E 弦**  \n  - 空弦 – **E** (1)  \n  - 第 2 品 – **F#** (2)  \n  - 第 3 品 – **G** (♭3)\n- **A 弦**  \n  - 空弦 – **A** (4)  \n  - 第 2 品 – **B** (5)  \n  - 第 3 品 – **C** (♭6)\n- **D 弦**  \n  - 空弦 – **D** (♭7)  \n  - 第 2 品 – **E** (1)\n\n如果想要更金属一点的质感，可以多用**掌根闷弦（palm mute）**，或者右手拨弦更紧、更靠近琴桥。",
+          "de": "# E-Äolisch auf dem Griffbrett\nWir nutzen ein Pattern um die **leere E-Saite**, wie man es in Rock und Metal ständig hört.\n\n4-saitiger Bass in E–A–D–G.\n\nSpiele diese E-Äolisch-Form (E–F#–G–A–B–C–D–E):\n\n- **E-Saite**  \n  - Leer – **E** (1)  \n  - 2. Bund – **F#** (2)  \n  - 3. Bund – **G** (♭3)\n- **A-Saite**  \n  - Leer – **A** (4)  \n  - 2. Bund – **B** (5)  \n  - 3. Bund – **C** (♭6)\n- **D-Saite**  \n  - Leer – **D** (♭7)  \n  - 2. Bund – **E** (1)\n\nFür mehr Metal-Charakter kannst du mit **Palm Muting** oder einem sehr knackigen Anschlag nahe der Brücke spielen.",
+          "ja": "# 指板上のEエオリアン・パターン\nここでは、ロックやメタルでおなじみの**開放E弦**まわりの形を使います。\n\n4弦ベース（E–A–D–G）。\n\nこのEエオリアン（E–F#–G–A–B–C–D–E）を上下に弾きましょう：\n\n- **E弦**  \n  - 開放 – **E** (1)  \n  - 2フレット – **F#** (2)  \n  - 3フレット – **G** (♭3)\n- **A弦**  \n  - 開放 – **A** (4)  \n  - 2フレット – **B** (5)  \n  - 3フレット – **C** (♭6)\n- **D弦**  \n  - 開放 – **D** (♭7)  \n  - 2フレット – **E** (1)\n\nよりメタル寄りの音にしたいときは、**パームミュート**を使ったり、右手をブリッジ寄りでタイトに弾いてみてください。",
+          "pt-BR": "# Desenho de E eólio no braço\nVamos usar um desenho em volta da **corda E solta**, muito comum em rock e metal.\n\nBaixo de 4 cordas em E–A–D–G.\n\nToque esse E eólio (E–F#–G–A–B–C–D–E):\n\n- **Corda E**  \n  - Solta – **E** (1)  \n  - Casa 2 – **F#** (2)  \n  - Casa 3 – **G** (♭3)\n- **Corda A**  \n  - Solta – **A** (4)  \n  - Casa 2 – **B** (5)  \n  - Casa 3 – **C** (♭6)\n- **Corda D**  \n  - Solta – **D** (♭7)  \n  - Casa 2 – **E** (1)\n\nPra soar mais metal, use **palm muting** ou um ataque de mão direita bem firme, perto da ponte.",
+          "es": "# Patrón de Mi eolio en el mástil\nUsaremos un patrón basado en la **cuerda E al aire**, muy típico en rock y metal.\n\nBajo de 4 cuerdas (E–A–D–G).\n\nToca este Mi eolio (E–F#–G–A–B–C–D–E) subiendo y bajando:\n\n- **Cuerda E**  \n  - Al aire – **E** (1)  \n  - Traste 2 – **F#** (2)  \n  - Traste 3 – **G** (♭3)\n- **Cuerda A**  \n  - Al aire – **A** (4)  \n  - Traste 2 – **B** (5)  \n  - Traste 3 – **C** (♭6)\n- **Cuerda D**  \n  - Al aire – **D** (♭7)  \n  - Traste 2 – **E** (1)\n\nSi quieres un sonido más metal, usa **palm muting** o un ataque de mano derecha muy ajustado cerca del puente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Rock/metal line idea 1 – Root chug with ♭7\nClassic move: **chug the root**, jump to ♭7.\n\nPlay in 4/4, mostly 8th notes:\n\n- Beats 1–2: **E, E, E, E** (open E, steady chug)  \n- Beat 3: **D (♭7)** – D string open  \n- Beat 4: back to **E** (open E)\n\nYou can play the Es as **palm-muted 8ths** and hit the D more open and loud so the ♭7 color jumps out.",
+          "zh-Hans": "# 摇滚/金属贝斯线思路 1 —— 根音扫弦 + ♭7\n非常经典的一招：**根音连续扫（chug）**，然后跳到 ♭7。\n\n4/4 拍，主要是八分音符：\n\n- 第 1–2 拍：**E, E, E, E**（E 空弦，稳稳连续扫）  \n- 第 3 拍：**D（♭7）** —— D 弦空弦  \n- 第 4 拍：回到 **E**（E 空弦）\n\n你可以把所有的 E 都当作**掌根闷弦的八分音符**来扫，而第 3 拍的 D 用更开放、更大声的音量，让 ♭7 的颜色一下子冒出来。",
+          "de": "# Rock-/Metal-Linien-Idee 1 – Grundton-Chug mit ♭7\nKlassischer Move: **Grundton durchhämmern**, dann zur ♭7 springen.\n\nSpiele in 4/4, überwiegend Achtelnoten:\n\n- Zählzeit 1–2: **E, E, E, E** (leere E-Saite, gleichmäßiger Chug)  \n- Zählzeit 3: **D (♭7)** – D-Saite leer  \n- Zählzeit 4: zurück zu **E** (leere E-Saite)\n\nSpiel die E’s als **palm-gedämpfte Achtel** und lass das D etwas offener und lauter erklingen, damit die ♭7-Farbe deutlich zu hören ist.",
+          "ja": "# ロック/メタル・ライン案1 – ルートのチャグ＋♭7\n定番パターン：**ルートをひたすらチャグ**して、♭7に飛ぶ動きです。\n\n4/4拍、メインは8分音符：\n\n- 拍1〜2：**E, E, E, E**（開放E弦でひたすら刻み）  \n- 拍3：**D（♭7）** – D弦開放  \n- 拍4：ふたたび **E**（開放E弦）\n\nEの部分は**パームミュートの8分**でタイトに刻み、拍3のDだけ少しオープンで強めに弾くと、♭7の色がグッと前に出ます。",
+          "pt-BR": "# Ideia de linha rock/metal 1 – chug na tônica com ♭7\nMovimento clássico: **chugar a tônica** e pular pra ♭7.\n\nEm 4/4, basicamente em colcheias:\n\n- Tempos 1–2: **E, E, E, E** (corda E solta, chug contínuo)  \n- Tempo 3: **D (♭7)** – corda D solta  \n- Tempo 4: volta para **E** (E solta)\n\nToque os E como **colcheias abafadas com palm mute**, e deixe o D mais aberto e alto, pra cor da ♭7 aparecer bem.",
+          "es": "# Idea de línea rock/metal 1 – Chug de tónica con ♭7\nMovimiento clásico: **chug de la tónica**, salto a la ♭7.\n\nEn 4/4, principalmente corcheas:\n\n- Tiempos 1–2: **E, E, E, E** (E al aire, chug constante)  \n- Tiempo 3: **D (♭7)** – cuerda D al aire  \n- Tiempo 4: vuelta a **E** (E al aire)\n\nToca los E como **corcheas con palm mute** y deja el D más abierto y fuerte para que el color de la ♭7 se note bien."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Rock/metal line idea 2 – Using ♭3 and ♭6\nNow we add the **♭3 (G)** and **♭6 (C)** to make it more melodic but still heavy.\n\nTry this in 4/4, 8th notes:\n\n- Beat 1: **E** (open E)  \n- Beat 2: **G (♭3)** – E string, 3rd fret  \n- Beat 3: **C (♭6)** – A string, 3rd fret  \n- Beat 4: **B (5)** – A string, 2nd fret\n\nLoop it and mix in some **extra E chugs** between bars to make it feel like a real riff.",
+          "zh-Hans": "# 摇滚/金属贝斯线思路 2 —— 加入 ♭3 和 ♭6\n现在我们把 **♭3（G）** 和 **♭6（C）** 也加进来，让线条更有旋律感，但还是很厚重。\n\n4/4 拍，八分音符：\n\n- 第 1 拍：**E**（E 空弦）  \n- 第 2 拍：**G（♭3）** —— E 弦第 3 品  \n- 第 3 拍：**C（♭6）** —— A 弦第 3 品  \n- 第 4 拍：**B（5）** —— A 弦第 2 品\n\n让这个小节循环，再在小节之间多插一些**额外的 E 扫弦**，马上就会有真正“riff”的感觉。",
+          "de": "# Rock-/Metal-Linien-Idee 2 – Mit ♭3 und ♭6\nJetzt nehmen wir **♭3 (G)** und **♭6 (C)** dazu – etwas melodischer, aber immer noch schwer.\n\nIn 4/4, Achtelnoten:\n\n- Schlag 1: **E** (leere E-Saite)  \n- Schlag 2: **G (♭3)** – E-Saite, 3. Bund  \n- Schlag 3: **C (♭6)** – A-Saite, 3. Bund  \n- Schlag 4: **B (5)** – A-Saite, 2. Bund\n\nLass das im Loop laufen und streu zwischen den Takten ein paar **zusätzliche E-Chugs** ein, damit es wie ein echtes Riff wirkt.",
+          "ja": "# ロック/メタル・ライン案2 – ♭3と♭6を使う\nここでは **♭3（G）** と **♭6（C）** を入れて、少しメロディックだけどまだ重いラインにします。\n\n4/4拍、8分音符：\n\n- 拍1：**E**（開放E弦）  \n- 拍2：**G（♭3）** – E弦3フレット  \n- 拍3：**C（♭6）** – A弦3フレット  \n- 拍4：**B（5度）** – A弦2フレット\n\nこの1小節をループしつつ、小節のあいだに**Eのチャグ**を何発か足していくと、一気に“本物のリフ”っぽくなります。",
+          "pt-BR": "# Ideia de linha rock/metal 2 – usando ♭3 e ♭6\nAgora vamos trazer a **♭3 (G)** e a **♭6 (C)** pra deixar a linha mais melódica, mas ainda pesada.\n\nEm 4/4, em colcheias:\n\n- Tempo 1: **E** (corda E solta)  \n- Tempo 2: **G (♭3)** – corda E, casa 3  \n- Tempo 3: **C (♭6)** – corda A, casa 3  \n- Tempo 4: **B (5)** – corda A, casa 2\n\nFaça o loop desse compasso e coloque alguns **chugs extras em E** entre os compassos pra soar como um riff de verdade.",
+          "es": "# Idea de línea rock/metal 2 – Usando ♭3 y ♭6\nAhora añadimos la **♭3 (G)** y la **♭6 (C)** para que la línea sea más melódica pero siga pesada.\n\nEn 4/4, corcheas:\n\n- Tiempo 1: **E** (E al aire)  \n- Tiempo 2: **G (♭3)** – cuerda E, traste 3  \n- Tiempo 3: **C (♭6)** – cuerda A, traste 3  \n- Tiempo 4: **B (5)** – cuerda A, traste 2\n\nHaz un loop de este compás y mete **chugs extra en E** entre compases para que suene como un riff real."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Start with **straight 8ths on E** and drop in ♭7, ♭3 or ♭6 on beat 3 or 4\n- Try different right-hand feels: strict downstrokes, alternate picking, or two-finger chug\n- Play the same ideas in **A Aeolian (5th fret)** to get out of the open-string zone\n- Jam over a simple **Em or Em–C–D** backing track and stay in E Aeolian\n\nIf you can hear and grab **♭3, ♭6 and ♭7** without thinking, you’ve got the Aeolian rock/metal sound under your fingers.",
+          "zh-Hans": "# 练习建议\n- 先只在 **E 上用八分音符扫**，再在第 3 或第 4 拍插入 ♭7、♭3 或 ♭6\n- 尝试不同右手感觉：全程下拨、交替拨弦，或者两指“chug”\n- 把同样的想法搬到 **A Aeolian（第 5 品一带）**，训练不依赖空弦的指型\n- 找一个简单的 **Em 或 Em–C–D** 伴奏，在上面只用 E Aeolian 即兴\n\n当你能不用多想就抓到 **♭3、♭6、♭7** 并且听得出它们的味道时，说明 Aeolian 的摇滚/金属声音已经在你手上了。",
+          "de": "# Übetipps\n- Fang mit **durchgehenden Achteln auf E** an und setze auf Zählzeit 3 oder 4 ♭7, ♭3 oder ♭6 ein\n- Experimentiere mit der rechten Hand: nur Abschläge, Wechselschlag oder Zweifinger-Chug\n- Spiele dieselben Ideen in **A-Äolisch (ab 5. Bund)**, um aus der „nur Leersaiten“-Zone rauszukommen\n- Jame über ein einfaches **Em- oder Em–C–D-Playback** und bleib in E-Äolisch\n\nWenn du **♭3, ♭6 und ♭7** hörst und greifen kannst, ohne groß nachzudenken, sitzt der äolische Rock-/Metal-Sound in deinen Fingern.",
+          "ja": "# 練習のヒント\n- まずは **Eでひたすら8分刻み**をして、拍3や拍4に♭7・♭3・♭6を差し込んでみる\n- 右手は色々試す：全ダウン、オルタネイト、2フィンガーのチャグなど\n- 同じアイデアを **Aエオリアン（5フレット付近）** でも弾いて、開放弦ゾーンから抜ける練習をする\n- シンプルな **Em や Em–C–D** のバッキングトラックを流して、Eエオリアンだけでジャムしてみる\n\n考えなくても自然に **♭3・♭6・♭7** に手が伸びるようになってきたら、エオリアンのロック/メタル・サウンドがしっかり自分のものになっています。",
+          "pt-BR": "# Dicas de estudo\n- Comece com **colcheias retas em E** e coloque ♭7, ♭3 ou ♭6 no tempo 3 ou 4\n- Teste diferentes “pegadas” de mão direita: só downstroke, alternado, ou dois dedos em chug\n- Toque as mesmas ideias em **A eólio (região da 5ª casa)** pra não ficar preso só em corda solta\n- Improvise em cima de um playback simples em **Em ou Em–C–D**, ficando em E eólio\n\nQuando você conseguir ouvir e pegar **♭3, ♭6 e ♭7** sem pensar muito, o som eólio de rock/metal já está nas suas mãos.",
+          "es": "# Consejos de práctica\n- Empieza con **corcheas rectas en E** y mete la ♭7, ♭3 o ♭6 en los tiempos 3 o 4\n- Prueba distintos ataques de mano derecha: sólo golpes hacia abajo, alternado o chug con dos dedos\n- Toca las mismas ideas en **La eolio (A Aeolian, traste 5)** para salir de la zona de cuerdas al aire\n- Improvisa sobre un backing simple de **Em o Em–C–D** y quédate en Mi eolio\n\nCuando puedas oír y encontrar **♭3, ♭6 y ♭7** sin pensarlo demasiado, tendrás el sonido eolio de rock/metal en tus dedos."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

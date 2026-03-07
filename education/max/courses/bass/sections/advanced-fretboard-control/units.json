@@ -1,0 +1,83 @@
+[
+  {
+    "id": "across-the-neck-patterns",
+    "name": {
+      "values": {
+        "en": "Across-the-Neck Patterns",
+        "zh-Hans": "横跨指板的音型模式",
+        "de": "Lagenübergreifende Muster auf dem Griffbrett",
+        "ja": "ネック横断パターン",
+        "pt-BR": "Padrões através do braço",
+        "es": "Patrones a través del diapasón"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Explore patterns that move horizontally across the neck.",
+        "zh-Hans": "学习在指板上横向移动的音型模式。",
+        "de": "Erkunde Muster, die sich horizontal über das Griffbrett bewegen.",
+        "ja": "指板を横方向に移動するパターンを探求しましょう。",
+        "pt-BR": "Explore padrões que se deslocam horizontalmente pelo braço.",
+        "es": "Explora patrones que se desplazan horizontalmente por el diapasón."
+      }
+    },
+    "image": null,
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "modes-for-bass-lines",
+    "name": {
+      "values": {
+        "en": "Modes for Bass Lines",
+        "zh-Hans": "贝斯线路中的调式应用",
+        "de": "Modi für Basslinien",
+        "ja": "ベースラインのためのモード",
+        "pt-BR": "Modos para linhas de baixo",
+        "es": "Modos para líneas de bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn how different modes shape the color of bass lines.",
+        "zh-Hans": "学习不同调式如何影响贝斯线路的音色。",
+        "de": "Lerne, wie verschiedene Modi den Klang von Basslinien prägen.",
+        "ja": "さまざまなモードがベースラインの響きをどう変えるかを学びましょう。",
+        "pt-BR": "Aprenda como diferentes modos influenciam o caráter das linhas de baixo.",
+        "es": "Aprende cómo distintos modos moldean el color de las líneas de bajo."
+      }
+    },
+    "image": null,
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "melodic-bass-playing",
+    "name": {
+      "values": {
+        "en": "Melodic Bass Playing",
+        "zh-Hans": "旋律化贝斯演奏",
+        "de": "Melodisches Bassspiel",
+        "ja": "メロディックなベース演奏",
+        "pt-BR": "Baixo melódico",
+        "es": "Interpretación melódica en el bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use melodic shapes to create expressive bass lines.",
+        "zh-Hans": "运用旋律型音型打造富有表现力的贝斯线。",
+        "de": "Erzeuge ausdrucksstarke Basslinien mithilfe melodischer Muster.",
+        "ja": "メロディックなパターンを使って表現力のあるベースラインを作りましょう。",
+        "pt-BR": "Use padrões melódicos para criar linhas de baixo expressivas.",
+        "es": "Utiliza patrones melódicos para crear líneas de bajo expresivas."
+      }
+    },
+    "image": null,
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

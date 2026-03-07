@@ -1,0 +1,86 @@
+[
+  {
+    "id": "phrasing-with-rests-and-repetition",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Phrasing with Rests and Repetition",
+        "zh-Hans": "使用休止符与重复的乐句",
+        "de": "Phrasierung mit Pausen und Wiederholungen",
+        "ja": "休符と反復を使ったフレージング",
+        "pt-BR": "Fraseado com Pausas e Repetição",
+        "es": "Fraseo con silencios y repetición"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "syncopated-scale-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Scale Patterns",
+        "zh-Hans": "切分音阶模式",
+        "de": "Synkopierte Skalenmuster",
+        "ja": "シンコペーションのスケールパターン",
+        "pt-BR": "Padrões de Escala Sincopados",
+        "es": "Patrones de escala sincopados"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "using-different-note-values-in-solos",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Using Different Note Values in Solos",
+        "zh-Hans": "在独奏中使用不同的音符时值",
+        "de": "Verwendung verschiedener Notenwerte in Soli",
+        "ja": "ソロで異なる音符の長さを使用する",
+        "pt-BR": "Usando Diferentes Valores de Nota em Solos",
+        "es": "Uso de diferentes valores de nota en solos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

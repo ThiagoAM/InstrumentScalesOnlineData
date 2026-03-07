@@ -1,0 +1,86 @@
+{
+  "id": "identifying-all-notes-on-the-keyboard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Finding every note on the keyboard\nIn this lesson you’ll learn a simple way to name **every key** on a piano, from left to right.\n\nWe’ll use the pattern of black keys (groups of 2 and 3) to find C, then build the rest of the notes from there.",
+          "zh-Hans": "# 在键盘上找到每一个音\n本课会用一个简单的方法，让你能从左到右说出钢琴上**每一个键**的名称。\n\n我们会先利用黑键的规律（两黑键、三黑键）找到 C，然后从 C 推出其他音名。",
+          "de": "# Alle Tasten auf dem Keyboard finden\nIn dieser Lektion lernst du eine einfache Methode, um **jede Taste** auf dem Klavier von links nach rechts zu benennen.\n\nWir nutzen das Muster der schwarzen Tasten (Gruppen aus 2 und 3), um C zu finden und bauen von dort die anderen Noten auf.",
+          "ja": "# キーボード上のすべての音を見つける\nこのレッスンでは、ピアノの**すべての鍵**の名前を、左から右まで分かるシンプルな方法を学びます。\n\nまず黒鍵の並び（2つ・3つのグループ）から C を見つけて、そこから他の音名を作っていきます。",
+          "pt-BR": "# Encontrando todas as notas no teclado\nNesta lição você vai aprender um jeito simples de nomear **todas as teclas** do piano, da esquerda para a direita.\n\nVamos usar o desenho das teclas pretas (grupos de 2 e de 3) para achar o Dó (C) e, a partir dele, montar o resto das notas.",
+          "es": "# Encontrar todas las notas en el teclado\nEn esta lección vas a aprender una forma sencilla de nombrar **todas las teclas** del piano, de izquierda a derecha.\n\nUsaremos el patrón de teclas negras (grupos de 2 y de 3) para encontrar el Do (C) y, desde ahí, construir las demás notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Use the black-key groups\nLook at the pattern of black keys:\n\n- They come in **groups of 2 and 3**\n- The **white key just to the left** of any group of 2 black keys is **C**\n- The **white key in the middle** of any group of 2 black keys is **D**\n- The **white key to the right** of that group is **E**\n\nFind a group of 2 black keys near the middle of your keyboard and label C–D–E around it.",
+          "zh-Hans": "# 第1步：利用黑键分组\n观察黑键的规律：\n\n- 黑键总是以 **2 个一组、3 个一组** 出现\n- 每一组 **2 个黑键左边** 的白键是 **C**\n- 这 2 个黑键 **中间** 的白键是 **D**\n- 这 2 个黑键 **右边** 的白键是 **E**\n\n先在键盘中间附近找一组 2 个黑键，在它们周围标出 C–D–E。",
+          "de": "# Schritt 1 – Die Gruppen der schwarzen Tasten\nSchau dir das Muster der schwarzen Tasten an:\n\n- Sie erscheinen in **Gruppen aus 2 und 3**\n- Die **weiße Taste direkt links** von jeder 2er-Gruppe ist **C**\n- Die **weiße Taste zwischen** diesen zwei schwarzen Tasten ist **D**\n- Die **weiße Taste rechts** von dieser Gruppe ist **E**\n\nSuch dir in der Mitte deines Keyboards eine 2er-Gruppe und benenne die Tasten darum herum mit C–D–E.",
+          "ja": "# ステップ1 – 黒鍵のグループを使う\n黒鍵の並び方をよく見ると：\n\n- **2つの黒鍵** と **3つの黒鍵** のグループがくり返し出てきます\n- どの **2つ並んだ黒鍵のすぐ左の白鍵** も **C**\n- その **2つの黒鍵の間の白鍵** が **D**\n- その **右側の白鍵** が **E** です\n\nまずは鍵盤の真ん中あたりで 2つの黒鍵のグループを探して、そのまわりに C–D–E と名前を付けてみましょう。",
+          "pt-BR": "# Passo 1 – Use os grupos de teclas pretas\nRepare no desenho das teclas pretas:\n\n- Elas aparecem em **grupos de 2 e de 3**\n- A **tecla branca logo à esquerda** de qualquer grupo de 2 pretas é o **C (Dó)**\n- A **tecla branca entre** essas duas pretas é o **D (Ré)**\n- A **tecla branca à direita** do grupo é o **E (Mi)**\n\nEncontre um grupo de 2 teclas pretas perto do meio do teclado e marque C–D–E em volta dele.",
+          "es": "# Paso 1 – Usa los grupos de teclas negras\nFíjate en el patrón de las teclas negras:\n\n- Aparecen en **grupos de 2 y de 3**\n- La **tecla blanca justo a la izquierda** de cualquier grupo de 2 negras es **C (Do)**\n- La **tecla blanca entre** esas dos negras es **D (Re)**\n- La **tecla blanca a la derecha** del grupo es **E (Mi)**\n\nBusca un grupo de 2 teclas negras cerca del centro del teclado y marca C–D–E a su alrededor."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Fill in the white-key names\nOnce you have C–D–E, keep going in the alphabet:\n\n- To the **right of E** is **F**, then **G**\n- After **G**, the letters start again at **A**, then **B**\n- So one full sequence is: **C D E F G A B**, then back to **C**\n\nMove left and right from your first C and label every white key with these letters repeating.",
+          "zh-Hans": "# 第2步：补全白键字母\n有了 C–D–E 之后，继续按字母顺序往右：\n\n- **E 右边** 是 **F**，再往右是 **G**\n- 过了 **G**，字母又从 **A** 开始，然后是 **B**\n- 完整的一组顺序是：**C D E F G A B**，然后又回到 **C**\n\n从你找到的第一个 C 开始，向左右移动，用这些字母反复给每个白键命名。",
+          "de": "# Schritt 2 – Die weißen Tasten benennen\nWenn du C–D–E gefunden hast, gehst du im Alphabet weiter:\n\n- Rechts von **E** kommt **F**, dann **G**\n- Nach **G** beginnen die Buchstaben wieder bei **A**, dann **B**\n- Eine komplette Folge lautet also: **C D E F G A B**, dann wieder **C**\n\nBewege dich von deinem ersten C nach links und rechts und benenne jede weiße Taste mit diesen Buchstaben in der Schleife.",
+          "ja": "# ステップ2 – 白鍵の名前を埋めていく\nC–D–E が分かったら、アルファベット順に右へ進めます：\n\n- **E の右** が **F**、その右が **G**\n- **G** の次はまた **A** に戻り、そのあとが **B**\n- 1セットの並びは **C D E F G A B**、そしてまた **C** に戻ります\n\n最初に見つけた C から左右に動きながら、この並びをくり返してすべての白鍵に名前を付けてみましょう。",
+          "pt-BR": "# Passo 2 – Complete os nomes das teclas brancas\nDepois de achar C–D–E, continue no alfabeto:\n\n- À **direita do E** vem o **F**, depois o **G**\n- Depois de **G**, as letras recomeçam em **A**, depois **B**\n- Uma sequência completa fica: **C D E F G A B**, e então volta para **C**\n\nA partir do primeiro C que você marcou, ande para a esquerda e para a direita e nomeie todas as teclas brancas repetindo essas letras.",
+          "es": "# Paso 2 – Completa los nombres de las teclas blancas\nUna vez que tengas C–D–E, sigue el alfabeto:\n\n- A la **derecha de E** está **F**, luego **G**\n- Después de **G**, las letras vuelven a empezar en **A**, luego **B**\n- Una secuencia completa es: **C D E F G A B**, y después vuelve a **C**\n\nDesde el primer C que marcaste, muévete hacia la izquierda y hacia la derecha y pon estos nombres a todas las teclas blancas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Name the black keys (sharps and flats)\nEach black key sits **between two white keys**, so it can have two names:\n\n- The black key between **C and D** is **C♯** (C sharp) or **D♭** (D flat)\n- Between **D and E**: **D♯ / E♭**\n- Between **F and G**: **F♯ / G♭**\n- Between **G and A**: **G♯ / A♭**\n- Between **A and B**: **A♯ / B♭**\n\nFor now, just remember: **every pair of white keys with a gap has one black key between them.**",
+          "zh-Hans": "# 第3步：给黑键命名（升号和降号）\n每一个黑键都在 **两个白键之间**，所以通常有两个名字：\n\n- **C 和 D 之间** 的黑键叫 **C♯**（升 C）或 **D♭**（降 D）\n- **D 和 E 之间**：**D♯ / E♭**\n- **F 和 G 之间**：**F♯ / G♭**\n- **G 和 A 之间**：**G♯ / A♭**\n- **A 和 B 之间**：**A♯ / B♭**\n\n现在先记住这一点就好：**只要两个白键中间有空隙，中间就有一颗黑键。**",
+          "de": "# Schritt 3 – Die schwarzen Tasten benennen (Kreuze und Bs)\nJede schwarze Taste liegt **zwischen zwei weißen Tasten**, deshalb hat sie oft zwei Namen:\n\n- Zwischen **C und D** liegt **C♯** (Cis) oder **D♭** (Des)\n- Zwischen **D und E**: **D♯ / E♭**\n- Zwischen **F und G**: **F♯ / G♭**\n- Zwischen **G und A**: **G♯ / A♭**\n- Zwischen **A und B**: **A♯ / B♭**\n\nFür den Anfang genügt: **Wo zwischen zwei weißen Tasten eine Lücke ist, liegt genau eine schwarze Taste dazwischen.**",
+          "ja": "# ステップ3 – 黒鍵の名前（シャープとフラット）\n黒鍵はそれぞれ **2つの白鍵のあいだ** にあるので、ふつうは名前が2つあります：\n\n- **C と D の間** の黒鍵は **C♯（C シャープ）** または **D♭（D フラット）**\n- **D と E の間**：**D♯ / E♭**\n- **F と G の間**：**F♯ / G♭**\n- **G と A の間**：**G♯ / A♭**\n- **A と B の間**：**A♯ / B♭**\n\n今はまず、**白鍵と白鍵のあいだにすき間があれば、その間には必ず1つ黒鍵がある** と覚えておけばOKです。",
+          "pt-BR": "# Passo 3 – Nomeando as teclas pretas (sustenidos e bemóis)\nCada tecla preta fica **entre duas teclas brancas**, por isso ela costuma ter dois nomes:\n\n- Entre **C e D** fica **C♯** (Dó sustenido) ou **D♭** (Ré bemol)\n- Entre **D e E**: **D♯ / E♭**\n- Entre **F e G**: **F♯ / G♭**\n- Entre **G e A**: **G♯ / A♭**\n- Entre **A e B**: **A♯ / B♭**\n\nPor enquanto, lembre só disso: **sempre que duas teclas brancas têm um espaço entre elas, existe uma tecla preta no meio.**",
+          "es": "# Paso 3 – Nombrar las teclas negras (sostenidos y bemoles)\nCada tecla negra está **entre dos teclas blancas**, así que normalmente tiene dos nombres:\n\n- Entre **C y D** está **C♯** (Do sostenido) o **D♭** (Re bemol)\n- Entre **D y E**: **D♯ / E♭**\n- Entre **F y G**: **F♯ / G♭**\n- Entre **G y A**: **G♯ / A♭**\n- Entre **A y B**: **A♯ / B♭**\n\nPor ahora, quédate con esta idea: **cada par de teclas blancas con un hueco tiene una tecla negra en medio.**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 4 – See the repeating pattern\nThe keyboard is just the same 12 notes repeating:\n\n- Every time you find a **group of 2 black keys**, you can rebuild **C–D–E**\n- The same letter names (A–G) appear again **higher** and **lower**\n- The **C near the middle** of the keyboard is often called **middle C**\n\nIf you can find one C and say the alphabet from C to B, you can name **every key** on the whole piano.",
+          "zh-Hans": "# 第4步：看懂重复的模式\n整个键盘就是同样的 12 个音不停重复：\n\n- 每当你看到一组 **2 个黑键**，就可以重新标出 **C–D–E**\n- 字母名（A–G）会在键盘的**高音区**和**低音区**一再出现\n- 靠近键盘中间的那个 **C** 通常叫做 **中央 C**\n\n只要你能找到一个 C，并从 C 到 B 把字母顺一遍，就能给整架钢琴上的**每一个键**命名。",
+          "de": "# Schritt 4 – Das sich wiederholende Muster erkennen\nDas Keyboard besteht nur aus denselben 12 Tönen, die sich wiederholen:\n\n- Immer wenn du eine **2er-Gruppe schwarzer Tasten** siehst, kannst du dort wieder **C–D–E** aufbauen\n- Die Buchstaben (A–G) tauchen **weiter oben** und **weiter unten** immer wieder auf\n- Das **C in der Mitte** des Keyboards nennt man oft **mittleres C**\n\nWenn du ein C finden kannst und das Alphabet von C bis B aufsagen kannst, kannst du **jede Taste** auf dem ganzen Klavier benennen.",
+          "ja": "# ステップ4 – くり返しているパターンを見る\n鍵盤は、同じ12個の音がずっとくり返しているだけです：\n\n- **2つの黒鍵のグループ** を見つけるたびに、そこでまた **C–D–E** を作れます\n- 文字（A〜G）は、鍵盤の**高い方**にも**低い方**にも何度も出てきます\n- 鍵盤の真ん中あたりにある **C** は、よく **真ん中のC（middle C）** と呼ばれます\n\n1つ C を見つけて、C から B までアルファベットを言えれば、ピアノの**すべての鍵**に名前を付けられるようになります。",
+          "pt-BR": "# Passo 4 – Enxergue o padrão que se repete\nO teclado nada mais é do que os mesmos 12 sons se repetindo:\n\n- Sempre que você achar um **grupo de 2 teclas pretas**, dá para reconstruir ali o **C–D–E**\n- As letras (A–G) aparecem de novo **mais agudo** e **mais grave**\n- O **C que fica perto do meio** do teclado é chamado de **Dó central (middle C)**\n\nSe você consegue achar um C e falar o “alfabeto musical” de C até B, consegue nomear **todas as teclas** do piano inteiro.",
+          "es": "# Paso 4 – Ver el patrón repetido\nEl teclado solo son las mismas 12 notas repitiéndose:\n\n- Cada vez que veas un **grupo de 2 teclas negras**, puedes reconstruir ahí **C–D–E**\n- Las letras (A–G) aparecen otra vez **más agudo** y **más grave**\n- El **C que está cerca del centro** del teclado se llama a menudo **Do central (middle C)**\n\nSi puedes encontrar un C y decir el “alfabeto musical” de C a B, puedes nombrar **todas las teclas** de todo el piano."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Find **three different Cs** on your keyboard and name the white keys around each one.\n2. Pick any random key and work out its name by using the **2–3 black-key pattern** and the **C–B sequence**.\n3. Say the note names **out loud** as you touch each key.\n\nDo this for a few minutes a day and the layout of the keyboard will start to feel obvious.",
+          "zh-Hans": "## 快速练习\n1. 在键盘上找到 **3 个不同的 C**，并说出每个 C 周围白键的名字。\n2. 随机按下任意一个键，用 **2–3 黑键的规律** 和 **C–B 的顺序** 推出它的音名。\n3. 一边触键，一边把音名**大声读出来**。\n\n每天练几分钟，键盘的布局很快就会变得一目了然。",
+          "de": "## Kurze Übung\n1. Such dir **drei verschiedene Cs** auf deinem Keyboard und benenne die weißen Tasten um jedes C herum.\n2. Drücke eine beliebige Taste zufällig und finde ihren Namen mit Hilfe des **2–3-Schwarz-Tasten-Musters** und der **C–B-Folge**.\n3. Sprich die Notennamen **laut aus**, während du jede Taste berührst.\n\nWenn du das ein paar Minuten pro Tag machst, wirkt die Tastaturaufteilung schnell ganz selbstverständlich.",
+          "ja": "## かんたんな練習\n1. 鍵盤の上で **3つのちがう C** を見つけて、それぞれのまわりの白鍵の名前を言ってみましょう。\n2. 適当に1つ鍵を押して、**2つ・3つの黒鍵のパターン** と **C〜B の並び** を使って、その音名を考えてみます。\n3. 鍵に触れながら、音の名前を**声に出して**言ってみましょう。\n\nこれを毎日数分くり返すだけで、鍵盤のしくみがどんどん当たり前に感じられるようになります。",
+          "pt-BR": "## Prática rápida\n1. Encontre **três Cs diferentes** no teclado e diga o nome das teclas brancas ao redor de cada um.\n2. Aperte qualquer tecla aleatória e descubra o nome dela usando o **padrão de 2 e 3 pretas** e a sequência **C até B**.\n3. Fale os nomes das notas **em voz alta** enquanto encosta em cada tecla.\n\nCom alguns minutos por dia, o desenho do teclado vai começar a parecer óbvio.",
+          "es": "## Práctica rápida\n1. Encuentra **tres Cs diferentes** en el teclado y di el nombre de las teclas blancas alrededor de cada uno.\n2. Pulsa cualquier tecla al azar y averigua su nombre usando el **patrón de 2 y 3 negras** y la secuencia **de C a B**.\n3. Di los nombres de las notas **en voz alta** mientras tocas cada tecla.\n\nCon unos minutos al día, el diseño del teclado empezará a sentirse obvio."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

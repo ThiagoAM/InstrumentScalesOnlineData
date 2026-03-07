@@ -1,0 +1,86 @@
+{
+  "id": "a-minor-pentatonic-basic-box",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A minor pentatonic – basic box\nIn this lesson you’ll learn a **one-octave A minor pentatonic scale** using the classic box shape around the 5th fret.\n\nThis pattern shows up in rock, blues, pop, funk — it’s one of the most used sounds on bass.",
+          "zh-Hans": "# A小调五声音阶——基础框型\n在本课中，你会在第5品附近，用经典的“**框型指法**”弹一组 **一组音的A小调五声音阶**。\n\n这个指型经常出现在摇滚、布鲁斯、流行、放克里——是贝斯上最常用的音阶声音之一。",
+          "de": "# A-Moll-Pentatonik – Basic-Box\nIn dieser Lektion lernst du eine **einoktavige A-Moll-Pentatonik** mit der klassischen Box-Form um den 5. Bund herum.\n\nDieses Pattern taucht in Rock, Blues, Pop und Funk ständig auf – einer der meistgespielten Sounds auf dem Bass.",
+          "ja": "# Aマイナー・ペンタトニック – 基本ボックス\nこのレッスンでは、5フレット周辺のクラシックな**ボックス型**を使って、1オクターブの **Aマイナー・ペンタトニック・スケール** を弾きます。\n\nロック、ブルース、ポップス、ファンクなど、ベースでとにかくよく出てくる定番のサウンドです。",
+          "pt-BR": "# Lá menor pentatônica – box básico\nNesta lição você vai aprender uma **escala de Lá menor pentatônica de uma oitava**, usando o box clássico em volta do 5º traste.\n\nEsse desenho aparece em rock, blues, pop, funk… é um dos sons mais usados no baixo.",
+          "es": "# La menor pentatónica – caja básica\nEn esta lección vas a aprender una **escala pentatónica de La menor de una octava**, usando la caja clásica alrededor del traste 5.\n\nEste patrón aparece en rock, blues, pop, funk… es uno de los sonidos más usados en el bajo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The sound\nA minor pentatonic has 5 notes:\n\n**A – C – D – E – G**\n\nThere is no 2nd or 6th, so it sounds **strong and clear**. Perfect for riffs and simple fills.",
+          "zh-Hans": "# 这个音阶的感觉\nA小调五声音阶由5个音组成：\n\n**A – C – D – E – G**\n\n没有2级和6级音，所以听起来**结实、干净**，非常适合即兴段和简单的填充乐句。",
+          "de": "# Der Klang\nDie A-Moll-Pentatonik besteht aus 5 Tönen:\n\n**A – C – D – E – G**\n\nEs gibt keine 2 und keine 6 – dadurch klingt sie **kräftig und klar**. Ideal für Riffs und einfache Fills.",
+          "ja": "# 音のキャラクター\nAマイナー・ペンタトニックは5つの音でできています：\n\n**A – C – D – E – G**\n\n2度と6度がないので、サウンドがとても**力強くてスッキリ**します。リフや簡単なフィルにぴったりです。",
+          "pt-BR": "# O som\nA menor pentatônica tem 5 notas:\n\n**A – C – D – E – G**\n\nEla não tem 2ª nem 6ª, então o som fica **forte e direto**. Perfeita para riffs e fills simples.",
+          "es": "# El sonido\nLa pentatónica menor de La tiene 5 notas:\n\n**A – C – D – E – G**\n\nNo tiene 2ª ni 6ª, así que suena **fuerte y clara**. Perfecta para riffs y rellenos sencillos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand position\nWe’ll stay around the **5th–8th frets**:\n\n- **Index** = fret 5\n- **Middle** = fret 6 (you’ll rarely use it here)\n- **Ring** = fret 7\n- **Little** = fret 8\n\nKeep your thumb roughly behind fret 6 and let your fingers hover close to the strings.",
+          "zh-Hans": "# 手型位置\n我们主要活动在 **第5–8品**：\n\n- **食指** = 第5品\n- **中指** = 第6品（这一形中不常用）\n- **无名指** = 第7品\n- **小指** = 第8品\n\n大拇指大致放在第6品后面，让手指放松、靠近琴弦。",
+          "de": "# Handposition\nWir bewegen uns rund um die **Bünde 5–8**:\n\n- **Zeigefinger** = 5. Bund\n- **Mittelfinger** = 6. Bund (hier kaum gebraucht)\n- **Ringfinger** = 7. Bund\n- **Kleiner Finger** = 8. Bund\n\nDer Daumen liegt ungefähr hinter dem 6. Bund, die Finger schweben locker nah über den Saiten.",
+          "ja": "# 手のポジション\n使うのは主に **5〜8フレット** です：\n\n- **人差し指** = 5フレット\n- **中指** = 6フレット（この形ではあまり使いません）\n- **薬指** = 7フレット\n- **小指** = 8フレット\n\n親指は6フレット裏あたりに置き、指先を丸くして弦の近くに構えましょう。",
+          "pt-BR": "# Posição da mão\nVamos ficar ali pelos **trastes 5 a 8**:\n\n- **Dedo indicador** = 5º traste\n- **Dedo médio** = 6º traste (quase não aparece aqui)\n- **Dedo anelar** = 7º traste\n- **Dedo mínimo** = 8º traste\n\nDeixe o polegar mais ou menos atrás do 6º traste e mantenha os dedos relaxados, perto das cordas.",
+          "es": "# Posición de la mano\nNos vamos a mover entre los **trastes 5–8**:\n\n- **Dedo índice** = traste 5\n- **Dedo medio** = traste 6 (aquí casi no se usa)\n- **Dedo anular** = traste 7\n- **Dedo meñique** = traste 8\n\nPon el pulgar más o menos detrás del traste 6 y mantén los dedos relajados, cerca de las cuerdas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Notes and fingering (ascending)\nStart on **A** at the 5th fret of the 4th string and go up to the next **A**.\n\nPlay slowly, one note at a time:\n\n- 4th string (E), 5th fret – **A** (finger 1)\n- 4th string, 8th fret – **C** (finger 4)\n- 3rd string (A), 5th fret – **D** (finger 1)\n- 3rd string, 7th fret – **E** (finger 3)\n- 2nd string (D), 5th fret – **G** (finger 1)\n- 2nd string, 7th fret – **A** (finger 3)\n\nThat’s your basic A minor pentatonic box.",
+          "zh-Hans": "# 上行的音和指法\n从第4弦第5品的 **A** 开始，一直到上一个 **A**。\n\n慢慢地，一次弹一个音：\n\n- 第4弦（E），第5品 – **A**（1指）\n- 第4弦，第8品 – **C**（4指）\n- 第3弦（A），第5品 – **D**（1指）\n- 第3弦，第7品 – **E**（3指）\n- 第2弦（D），第5品 – **G**（1指）\n- 第2弦，第7品 – **A**（3指）\n\n这就是标准的 A 小调五声音阶基础框型。",
+          "de": "# Töne und Fingersätze (aufwärts)\nWir starten beim **A** im 5. Bund der 4. Saite und gehen bis zum nächsten **A**.\n\nSpiele langsam, Ton für Ton:\n\n- 4. Saite (E), 5. Bund – **A** (Finger 1)\n- 4. Saite, 8. Bund – **C** (Finger 4)\n- 3. Saite (A), 5. Bund – **D** (Finger 1)\n- 3. Saite, 7. Bund – **E** (Finger 3)\n- 2. Saite (D), 5. Bund – **G** (Finger 1)\n- 2. Saite, 7. Bund – **A** (Finger 3)\n\nDas ist deine grundlegende A-Moll-Pentatonik-Box.",
+          "ja": "# 上行の音とフィンガリング\n4弦5フレットの **A** から始めて、次の **A** まで登っていきます。\n\nゆっくり、1音ずつ弾きましょう：\n\n- 4弦（E） 5フレット – **A**（1の指）\n- 4弦 8フレット – **C**（4の指）\n- 3弦（A） 5フレット – **D**（1の指）\n- 3弦 7フレット – **E**（3の指）\n- 2弦（D） 5フレット – **G**（1の指）\n- 2弦 7フレット – **A**（3の指）\n\nこれが基本的な Aマイナー・ペンタトニックのボックス型です。",
+          "pt-BR": "# Notas e digitação (subindo)\nComece no **A** do 5º traste da 4ª corda e suba até o próximo **A**.\n\nToque devagar, nota por nota:\n\n- 4ª corda (E), 5º traste – **A** (dedo 1)\n- 4ª corda, 8º traste – **C** (dedo 4)\n- 3ª corda (A), 5º traste – **D** (dedo 1)\n- 3ª corda, 7º traste – **E** (dedo 3)\n- 2ª corda (D), 5º traste – **G** (dedo 1)\n- 2ª corda, 7º traste – **A** (dedo 3)\n\nEsse é o seu box básico de Lá menor pentatônica.",
+          "es": "# Notas y digitación (ascendente)\nEmpieza en **A** en el traste 5 de la 4ª cuerda y sube hasta el siguiente **A**.\n\nToca despacio, nota por nota:\n\n- 4ª cuerda (E), traste 5 – **A** (dedo 1)\n- 4ª cuerda, traste 8 – **C** (dedo 4)\n- 3ª cuerda (A), traste 5 – **D** (dedo 1)\n- 3ª cuerda, traste 7 – **E** (dedo 3)\n- 2ª cuerda (D), traste 5 – **G** (dedo 1)\n- 2ª cuerda, traste 7 – **A** (dedo 3)\n\nEsa es tu caja básica de La menor pentatónica."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Up, down, and in rhythm\n1. Play the notes **up** the scale (A → A)\n2. Then come **back down** (A → A)\n3. Use a slow, steady click and play only **quarter notes**\n4. Then try **eighth notes** while keeping your hand relaxed\n\nAim for even volume and no extra string noise.",
+          "zh-Hans": "# 上下行加上节奏\n1. 先把音阶 **从低到高** 弹一遍（A → A）\n2. 再 **从高到低** 弹回来（A → A）\n3. 用慢速、稳定的节拍器，只弹 **四分音符**\n4. 然后改成 **八分音符**，手保持放松\n\n目标是：音量均匀，换弦时尽量没有多余杂音。",
+          "de": "# Auf- und abwärts im Groove\n1. Spiele die Töne **aufwärts** (A → A)\n2. Spiele sie dann **abwärts** zurück (A → A)\n3. Nutze ein langsames, gleichmäßiges Klicken und spiel zuerst nur **Viertelnoten**\n4. Wechsle dann zu **Achtelnoten**, während die Hand locker bleibt\n\nAchte auf gleichmäßige Lautstärke und möglichst keine Nebengeräusche der Saiten.",
+          "ja": "# 上がり下がり＋リズム練習\n1. まずスケールを **下のAから上のAまで** 上向きに弾きます。\n2. つぎに同じ音を **上のAから下のAまで** 下向きに弾きます。\n3. ゆっくりしたテンポのクリックに合わせて、まずは **4分音符** だけで練習します。\n4. 慣れてきたら、手をリラックスさせたまま **8分音符** に変えてみましょう。\n\n弦をまたいでも音量がそろうこと、余計なノイズが出ないことを意識してください。",
+          "pt-BR": "# Subindo, descendo e com ritmo\n1. Toque as notas **subindo** a escala (A → A)\n2. Depois volte **descendo** (A → A)\n3. Use um clique lento e estável e toque só em **semínimas (quarter notes)**\n4. Depois tente **colcheias (eighth notes)**, mantendo a mão relaxada\n\nBusque um volume uniforme e o mínimo possível de ruído extra das cordas.",
+          "es": "# Subir, bajar y con ritmo\n1. Toca las notas **subiendo** la escala (A → A)\n2. Luego vuelve **bajando** (A → A)\n3. Usa un clic lento y constante y toca sólo **negras (quarter notes)**\n4. Después prueba con **corcheas (eighth notes)** manteniendo la mano relajada\n\nApunta a un volumen parejo y sin ruidos extra de las cuerdas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Once this box feels easy, try looping a simple groove on A (for example **A–C–D–C**) and then move the whole shape to other roots by sliding it up and down the neck.",
+          "zh-Hans": "当这个框型弹起来比较轻松时，试着在 A 上循环一个简单的groove（比如 **A–C–D–C**），然后把整个指型在琴颈上上移或下移，用在其他主音上。",
+          "de": "Wenn sich diese Box entspannt anfühlt, spiel einen einfachen Groove auf A in Schleife (z. B. **A–C–D–C**) und verschiebe dann die ganze Form am Hals nach oben oder unten, um sie über anderen Grundtönen zu verwenden.",
+          "ja": "このボックスがラクに弾けるようになってきたら、**A–C–D–C** のような簡単なグルーヴをAでループしてみましょう。そのあと、ネック上で形ごとスライドさせて、別のルート音でも同じパターンを試してみてください。",
+          "pt-BR": "Quando esse box estiver tranquilo, experimente ficar repetindo um groove simples em A (por exemplo **A–C–D–C**) e depois deslize o desenho inteiro pelo braço para tocar a mesma ideia em outros tons.",
+          "es": "Cuando esta caja se sienta fácil, prueba a repetir un groove sencillo en A (por ejemplo **A–C–D–C**) y luego desliza toda la forma por el mástil para usar la misma idea sobre otras notas raíz."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

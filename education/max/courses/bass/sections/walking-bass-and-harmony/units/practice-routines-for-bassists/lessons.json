@@ -1,0 +1,86 @@
+[
+  {
+    "id": "daily-scale-routine-for-fingerboard-mastery",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Daily Scale Routine for Fingerboard Mastery",
+        "zh-Hans": "提升指板掌握度的每日音阶练习",
+        "de": "Tägliche Skalenroutine zur Griffbrettsicherheit",
+        "ja": "指板習熟のための毎日のスケールルーティン",
+        "pt-BR": "Rotina Diária de Escalas para Domínio do Braço",
+        "es": "Rutina Diaria de Escalas para Dominar el Diapasón"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 1,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "groove-plus-scale-combination-exercises",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Groove + Scale Combination Exercises",
+        "zh-Hans": "律动＋音阶组合练习",
+        "de": "Groove- und Skalenkombinationsübungen",
+        "ja": "グルーヴ＋スケールの組み合わせ練習",
+        "pt-BR": "Exercícios de Combinação entre Groove e Escala",
+        "es": "Ejercicios de Combinación de Groove y Escala"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 2,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "creating-your-own-walking-practice-loops",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Creating Your Own Walking Practice Loops",
+        "zh-Hans": "创建你自己的行进贝司练习循环",
+        "de": "Eigene Walking-Übungsschleifen erstellen",
+        "ja": "自分だけのウォーキング練習ループを作る",
+        "pt-BR": "Criando Seus Próprios Loops de Walking Bass",
+        "es": "Crear tus propios loops de práctica de walking bass"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lesson content coming soon.",
+        "zh-Hans": "内容即将上线。",
+        "de": "Inhalt folgt in Kürze.",
+        "ja": "コンテンツはまもなく追加されます。",
+        "pt-BR": "Conteúdo chegando em breve.",
+        "es": "Contenido disponible pronto."
+      }
+    },
+    "order": 3,
+    "createdAt": "2025-12-01T00:00:00Z",
+    "updatedAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "stepwise-motion-in-major-keys",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Stepwise motion in major keys\nIn walking bass, **stepwise motion** means moving mostly by **one scale step at a time** (up or down).\n\nIn this lesson you’ll walk in **quarter notes** using the **C major scale**, keeping the line smooth and always connected to the chords.",
+          "zh-Hans": "# 大调中的级进走向\n在行进贝斯里，所谓的 **级进**，就是大部分时候按音阶一步一步地**上行或下行**。\n\n本课你会用 **C 大调音阶** 做 **四分音符** 行进，让低音线听起来顺畅、连贯，又跟和弦紧紧相连。",
+          "de": "# Stufenweise Bewegung in Dur-Tonarten\nIm Walking Bass bedeutet **stufenweise Bewegung**, dass du dich meistens in **Skalenschritten** (einen Ton rauf oder runter) bewegst.\n\nIn dieser Lektion läufst du in **Viertelnoten** durch die **C-Dur-Tonleiter** und hältst die Linie dabei glatt und eng an den Akkorden.",
+          "ja": "# メジャーキーでのステップワイズ・モーション\nウォーキング・ベースでの **ステップワイズ・モーション** とは、主に**スケールを1音ずつ上がったり下がったり**しながら進むことです。\n\nこのレッスンでは **Cメジャー・スケール** を使って、**4分音符**でなめらかに歩くラインを作り、コードにしっかり寄り添わせていきます。",
+          "pt-BR": "# Movimento conjunto em tonalidades maiores\nNo walking bass, **movimento conjunto** é quando você anda, na maior parte do tempo, **de um grau da escala para o outro**, para cima ou para baixo.\n\nNesta lição você vai caminhar em **semínimas** usando a **escala de Dó maior**, deixando a linha suave e bem ligada aos acordes.",
+          "es": "# Movimiento conjunto en tonalidades mayores\nEn el walking bass, el **movimiento conjunto** significa moverse la mayoría del tiempo en **pasos de escala** (un grado arriba o abajo).\n\nEn esta lección caminarás en **negras** usando la **escala de Do mayor**, manteniendo la línea fluida y bien conectada con los acordes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major scale area on the neck\n4-string bass tuned E–A–D–G. We’ll stay in one comfortable position around **C on the A string**:\n\n- C – 3rd string (A), 3rd fret\n- D – 3rd string, 5th fret\n- E – 2nd string (D), 2nd fret\n- F – 2nd string, 3rd fret\n- G – 2nd string, 5th fret\n- A – 1st string (G), 2nd fret\n- B – 1st string, 4th fret\n- C – 1st string, 5th fret\n\nUse **one finger per fret** from 2–5 and keep your hand relaxed. This is your main “walking zone” in C.",
+          "zh-Hans": "# C 大调在指板上的区域\n4 弦贝斯，E–A–D–G 定弦。我们在 **A 弦上的 C** 附近用一个舒服的把位：\n\n- C – 第 3 弦（A），第 3 品\n- D – 第 3 弦，第 5 品\n- E – 第 2 弦（D），第 2 品\n- F – 第 2 弦，第 3 品\n- G – 第 2 弦，第 5 品\n- A – 第 1 弦（G），第 2 品\n- B – 第 1 弦，第 4 品\n- C – 第 1 弦，第 5 品\n\n尽量在 **第 2–5 品一品一指**，手放松。这就是你在 C 调里主要的“行走区域”。",
+          "de": "# C-Dur-Bereich auf dem Griffbrett\n4-saitiger Bass, Stimmung E–A–D–G. Wir bleiben in einer bequemen Lage um das **C auf der A-Saite**:\n\n- C – 3. Saite (A), 3. Bund\n- D – 3. Saite, 5. Bund\n- E – 2. Saite (D), 2. Bund\n- F – 2. Saite, 3. Bund\n- G – 2. Saite, 5. Bund\n- A – 1. Saite (G), 2. Bund\n- B – 1. Saite, 4. Bund\n- C – 1. Saite, 5. Bund\n\nNutze **einen Finger pro Bund** von 2–5 und lass die Hand locker. Das ist deine Haupt-„Walking-Zone“ in C.",
+          "ja": "# 指板上のCメジャーのエリア\n4弦ベース（E–A–D–Gチューニング）。**A弦上のC** を中心にした弾きやすいポジションで弾きます：\n\n- C – 3弦（A）3フレット\n- D – 3弦5フレット\n- E – 2弦（D）2フレット\n- F – 2弦3フレット\n- G – 2弦5フレット\n- A – 1弦（G）2フレット\n- B – 1弦4フレット\n- C – 1弦5フレット\n\n**2〜5フレットを1フレット1本**で押さえつつ、手はリラックス。このあたりがCメジャーでのメインの“ウォーキング・ゾーン”です。",
+          "pt-BR": "# Região de Dó maior no braço\nBaixo de 4 cordas afinado em E–A–D–G. Vamos ficar em uma posição confortável perto do **C na corda A**:\n\n- C – 3ª corda (A), 3ª casa\n- D – 3ª corda, 5ª casa\n- E – 2ª corda (D), 2ª casa\n- F – 2ª corda, 3ª casa\n- G – 2ª corda, 5ª casa\n- A – 1ª corda (G), 2ª casa\n- B – 1ª corda, 4ª casa\n- C – 1ª corda, 5ª casa\n\nUse **um dedo por casa** entre as casas 2 e 5, com a mão solta. Essa é sua principal “zona de caminhada” em Dó.",
+          "es": "# Zona de Do mayor en el mástil\nBajo de 4 cuerdas afinado E–A–D–G. Nos quedamos en una posición cómoda cerca de **Do en la cuerda A**:\n\n- C – 3ª cuerda (A), traste 3\n- D – 3ª cuerda, traste 5\n- E – 2ª cuerda (D), traste 2\n- F – 2ª cuerda, traste 3\n- G – 2ª cuerda, traste 5\n- A – 1ª cuerda (G), traste 2\n- B – 1ª cuerda, traste 4\n- C – 1ª cuerda, traste 5\n\nUsa **un dedo por traste** entre los trastes 2 y 5 y mantén la mano relajada. Ésta es tu principal “zona de walking” en Do."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Stepwise walk over a C chord\nStart with a simple **four-bar line** over C major (Cmaj7 sound), using mostly steps.\n\nEach note is a **quarter note**:\n\n- Bar 1: C – D – E – F\n- Bar 2: G – A – B – C (octave)\n- Bar 3: C – B – A – G\n- Bar 4: F – E – D – C\n\nAll notes come from the **C major scale**, and every move is just **one step up or down**. Loop the 4 bars and feel how smooth it sounds.",
+          "zh-Hans": "# 在 C 和弦上的级进行进\n先在 C 大调（带一点 Cmaj7 的感觉）上做一个简单的 **4 小节行进线**，几乎全是级进：\n\n每个音都是**四分音符**：\n\n- 第 1 小节：C – D – E – F\n- 第 2 小节：G – A – B – C（高八度）\n- 第 3 小节：C – B – A – G\n- 第 4 小节：F – E – D – C\n\n所有音都来自 **C 大调音阶**，每一步只是**上或下一个音阶音**。循环这 4 小节，感受一下这种平滑的连贯感。",
+          "de": "# Stufenweiser Walk über einen C-Akkord\nWir starten mit einer einfachen **4-Takt-Linie** über C-Dur (Cmaj7-Sound), fast nur in Schritten.\n\nJeder Ton ist eine **Viertelnote**:\n\n- Takt 1: C – D – E – F\n- Takt 2: G – A – B – C (Oktave)\n- Takt 3: C – B – A – G\n- Takt 4: F – E – D – C\n\nAlle Töne stammen aus der **C-Dur-Tonleiter**, und jede Bewegung ist nur **ein Schritt rauf oder runter**. Spiele die 4 Takte in der Schleife und hör, wie glatt das klingt.",
+          "ja": "# Cコード上でのステップワイズ・ウォーク\nまずは Cメジャー（Cmaj7っぽい響き）の上で、ほぼステップだけを使った **4小節のライン** を作ります。\n\nすべて **4分音符**：\n\n- 1小節目：C – D – E – F\n- 2小節目：G – A – B – C（オクターブ）\n- 3小節目：C – B – A – G\n- 4小節目：F – E – D – C\n\nすべて **Cメジャー・スケール**の音で、動きは全部**1音ずつ上か下**に進むだけ。この4小節をループさせて、どれくらいなめらかに聞こえるか確かめてみましょう。",
+          "pt-BR": "# Caminhada conjunta em um acorde de C\nComece com uma **linha de 4 compassos** em Dó maior (som de Cmaj7), usando quase só movimento conjunto.\n\nCada nota é uma **semínima**:\n\n- Compasso 1: C – D – E – F\n- Compasso 2: G – A – B – C (oitava)\n- Compasso 3: C – B – A – G\n- Compasso 4: F – E – D – C\n\nTodas as notas vêm da **escala de Dó maior**, e cada movimento é só **um passo pra cima ou pra baixo**. Faça um loop desses 4 compassos e sinta como a linha flui sem trancos.",
+          "es": "# Walking conjunto sobre un acorde de Do\nEmpieza con una **línea de 4 compases** en Do mayor (sonido de Cmaj7), usando casi sólo pasos conjuntos.\n\nCada nota es una **negra**:\n\n- Compás 1: C – D – E – F\n- Compás 2: G – A – B – C (octava)\n- Compás 3: C – B – A – G\n- Compás 4: F – E – D – C\n\nTodas las notas salen de la **escala de Do mayor**, y cada movimiento es sólo **un paso arriba o abajo**. Haz un bucle con estos 4 compases y escucha lo fluida que suena la línea."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Stepwise walk through a II–V–I\nNow use mostly steps over a classic **II–V–I in C**:\n\nChords: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nQuarter-note line (all from C major):\n- Bar 1 (Dm7): D – E – F – G\n- Bar 2 (G7): G – A – B – C\n- Bar 3 (Cmaj7): C – B – A – G\n- Bar 4 (Cmaj7): F – E – D – C\n\nNotice how each bar **ends on or near a chord tone** of the next chord, and the motion is still almost completely stepwise.",
+          "zh-Hans": "# 在 II–V–I 上的级进行进\n现在在经典的 **C 调 II–V–I** 上用级进来行走：\n\n和弦：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n\n四分音符行进线（全部来自 C 大调）：\n- 第 1 小节（Dm7）：D – E – F – G\n- 第 2 小节（G7）：G – A – B – C\n- 第 3 小节（Cmaj7）：C – B – A – G\n- 第 4 小节（Cmaj7）：F – E – D – C\n\n可以注意到，每一小节都**落在下一个和弦的和弦音或附近**，而整体走向几乎一直是级进。",
+          "de": "# Stufenweiser Walk über II–V–I\nJetzt nutzen wir hauptsächlich Schritte über eine klassische **II–V–I in C**:\n\nAkkorde: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nViertelnoten-Linie (alles aus C-Dur):\n- Takt 1 (Dm7): D – E – F – G\n- Takt 2 (G7): G – A – B – C\n- Takt 3 (Cmaj7): C – B – A – G\n- Takt 4 (Cmaj7): F – E – D – C\n\nAchte darauf, wie jeder Takt **auf einem Akkordton (oder nah dran) des nächsten Akkords** endet, während die Bewegung fast komplett stufenweise bleibt.",
+          "ja": "# II–V–Iでのステップワイズ・ウォーク\n次は、定番の **CメジャーのII–V–I** の上で、ほぼステップだけで歩いてみます：\n\nコード：| Dm7 | G7 | Cmaj7 | Cmaj7 |\n\n4分音符のライン（全部Cメジャーの音）：\n- 1小節目（Dm7）：D – E – F – G\n- 2小節目（G7）：G – A – B – C\n- 3小節目（Cmaj7）：C – B – A – G\n- 4小節目（Cmaj7）：F – E – D – C\n\nそれぞれの小節が、**次のコードのコードトーン（またはその近く）で終わっている**のに注目してください。動きはほとんどずっとステップワイズのままです。",
+          "pt-BR": "# Caminhando em conjunto no II–V–I\nAgora use principalmente movimento conjunto em um **II–V–I em Dó**:\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLinha em semínimas (tudo em Dó maior):\n- Compasso 1 (Dm7): D – E – F – G\n- Compasso 2 (G7): G – A – B – C\n- Compasso 3 (Cmaj7): C – B – A – G\n- Compasso 4 (Cmaj7): F – E – D – C\n\nPerceba como cada compasso **termina em uma nota do acorde (ou bem perto) do próximo acorde**, e o movimento ainda é quase totalmente conjunto.",
+          "es": "# Walking conjunto en un II–V–I\nAhora usa principalmente pasos conjuntos sobre un **II–V–I en Do**:\n\nAcordes: | Dm7 | G7 | Cmaj7 | Cmaj7 |\n\nLínea en negras (todo de la escala de Do mayor):\n- Compás 1 (Dm7): D – E – F – G\n- Compás 2 (G7): G – A – B – C\n- Compás 3 (Cmaj7): C – B – A – G\n- Compás 4 (Cmaj7): F – E – D – C\n\nFíjate cómo cada compás **termina en una nota del acorde (o muy cerca) del siguiente acorde**, y el movimiento sigue siendo casi completamente conjunto."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Put on a **slow metronome** (around 60–80 bpm)\n- First, walk only on **Cmaj7**, using just C major in steps up and down\n- Then add the **II–V–I** and use the line above\n- Next, keep the same chords but invent your **own stepwise lines** (one new bar at a time)\n- Finally, move everything to a new key (for example **G major**) by shifting the same scale pattern\n\nIf the line feels smooth, stays in time, and you can clearly hear the chords, your stepwise motion is doing its job.",
+          "zh-Hans": "# 练习建议\n- 先用一个**较慢的节拍器**（大约 60–80 bpm）\n- 一开始只在 **Cmaj7** 上行走，用 C 大调音阶上下级进\n- 然后加上上面的 **II–V–I** 行进线\n- 接着保持同样的和弦，自己去编一些**新的级进小节**（一次改一小节）\n- 最后，把整套东西移到新的调性（比如 **G 大调**），用同样的思路走\n\n如果你的低音线听起来顺畅、节奏稳，而且能清楚听出和弦走向，那说明你的级进已经在好好工作了。",
+          "de": "# Übetipps\n- Nutze ein **langsames Metronom** (ca. 60–80 bpm)\n- Starte damit, nur über **Cmaj7** zu laufen und in C-Dur stufenweise rauf und runter zu gehen\n- Füge dann die **II–V–I**-Folge hinzu und spiele die Linie von oben\n- Als Nächstes behältst du dieselben Akkorde und erfindest **eigene stufenweise Linien** (jeweils einen Takt neu)\n- Zum Schluss verschiebst du alles in eine neue Tonart (z.B. **G-Dur**), indem du dasselbe Skalen-Pattern anpasst\n\nWenn sich die Linie glatt anfühlt, im Timing bleibt und du die Akkorde klar hörst, macht deine stufenweise Bewegung genau das, was sie soll.",
+          "ja": "# 練習のコツ\n- まずは **ゆっくりめのメトロノーム**（60〜80bpmくらい）を使う\n- 最初は **Cmaj7** だけの上で、Cメジャー・スケールをステップで上がったり下がったりして歩く\n- そのあと **II–V–I** を足して、上のラインを弾く\n- 次のステップとして、同じコード進行のまま、自分で**新しいステップワイズの1小節**を作って差し替えていく\n- 慣れてきたら、今度はキーを変えて（たとえば **Gメジャー**）、同じ考え方で歩いてみる\n\nラインがなめらかで、リズムが安定していて、コードの流れがハッキリ聴こえるなら、ステップワイズ・モーションはうまく機能しています。",
+          "pt-BR": "# Dicas de estudo\n- Use um **metrônomo lento** (por volta de 60–80 bpm)\n- Comece caminhando só em **Cmaj7**, subindo e descendo em Dó maior por graus conjuntos\n- Depois adicione o **II–V–I** e toque a linha sugerida\n- Em seguida, mantenha os mesmos acordes e crie **suas próprias linhas conjuntas**, trocando um compasso de cada vez\n- Por fim, leve tudo para outra tonalidade (por exemplo **G maior**), apenas mudando a posição do desenho da escala\n\nSe a linha estiver fluindo, no tempo, e você conseguir ouvir bem os acordes através dela, seu movimento conjunto está funcionando como deve.",
+          "es": "# Consejos de práctica\n- Usa un **metrónomo lento** (alrededor de 60–80 bpm)\n- Empieza caminando sólo sobre **Cmaj7**, subiendo y bajando por Do mayor en pasos conjuntos\n- Luego añade el **II–V–I** y toca la línea de arriba\n- Después, mantén los mismos acordes pero inventa **tus propias líneas conjuntas**, cambiando un compás cada vez\n- Al final, pásalo todo a otra tonalidad (por ejemplo **Sol mayor**) moviendo el mismo dibujo de la escala\n\nSi la línea se siente fluida, va a tiempo y deja oír claramente los acordes, tu movimiento conjunto está cumpliendo su función."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

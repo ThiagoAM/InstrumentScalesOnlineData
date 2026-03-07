@@ -1,0 +1,86 @@
+{
+  "id": "contrary-motion-scales-in-c-and-g",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Contrary motion scales in C and G\nIn this routine you practice **one-octave contrary motion scales**: the hands move **out from the center** and then **back in**.\nYou’ll start in **C major**, then repeat the same idea in **G major**.\nGoal: improve hand coordination, mirror feeling, and your sense of the scale’s center.",
+          "zh-Hans": "# C和G调的反向音阶\n在这个练习中，你要练习**一组八度的反向音阶**：双手同时从中间向**外**走，再一起回到**中心**。\n先从 **C大调** 开始，然后用同样的方法练 **G大调**。\n目标：加强双手协调、镜像感，以及对音阶中心音的听觉。",
+          "de": "# Tonleitern in Gegenbewegung in C und G\nIn dieser Übung spielst du **einoktavige Tonleitern in Gegenbewegung**: die Hände gehen gleichzeitig **auseinander** und wieder **zur Mitte zurück**.\nDu beginnst in **C-Dur** und wiederholst dieselbe Idee dann in **G-Dur**.\nZiel: bessere Handkoordination, ein sicheres Spiegelgefühl und ein klareres Empfinden für das Zentrum der Tonleiter.",
+          "ja": "# 反進行スケール：CとG\nこのルーティンでは、両手が**中心から外側へ**、そして**また中心に戻る**、**1オクターブの反進行スケール**を練習します。\nまずは **Cメジャー** から始め、そのあと同じアイデアを **Gメジャー** でも行います。\nねらいは、両手の連携、鏡のような動きの感覚、そしてスケールの中心の響きを強くすることです。",
+          "pt-BR": "# Escalas em movimento contrário em C e G\nNesta rotina você pratica **escalas de uma oitava em movimento contrário**: as mãos saem **do centro para fora** e depois voltam **de volta para o centro**.\nVocê começa em **Dó maior (C)** e repete a mesma ideia em **Sol maior (G)**.\nObjetivo: melhorar a coordenação das mãos, a sensação de espelho e a noção do centro da escala.",
+          "es": "# Escalas en movimiento contrario en C y G\nEn esta rutina practicas **escalas de una octava en movimiento contrario**: las manos salen **del centro hacia afuera** y luego vuelven **otra vez al centro**.\nEmpiezas en **Do mayor (C)** y repites la misma idea en **Sol mayor (G)**.\nObjetivo: mejorar la coordinación de las manos, la sensación de espejo y tu percepción del centro de la escala."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand setup\n- Sit so **middle C** is in the center of your body.\n- Place **both thumbs (1)** together on middle C.\n- The right hand plays notes going **up** from C.\n- The left hand plays notes going **down** from C.\nKeep your fingers curved and close to the keys so the motion stays small and controlled.",
+          "zh-Hans": "# 手型和准备\n- 坐好，让**中央C**大致在身体正中间。\n- 把**两只拇指（1指）**都放在中央C上。\n- 右手负责从C开始向**上行**的音。\n- 左手负责从C开始向**下行**的音。\n手指保持自然弯曲，靠近琴键，让动作小而可控。",
+          "de": "# Handhaltung und Vorbereitung\n- Setz dich so hin, dass das **mittlere C** genau in der Mitte vor dir liegt.\n- Lege **beide Daumen (1)** auf das mittlere C.\n- Die rechte Hand übernimmt die Töne **aufwärts** von C.\n- Die linke Hand übernimmt die Töne **abwärts** von C.\nHalte die Finger leicht gekrümmt und dicht an den Tasten, damit die Bewegung klein und kontrolliert bleibt.",
+          "ja": "# 手の準備\n- **中央ド（middle C）** が体の真ん中にくるように座ります。\n- **両方の親指（1の指）** を中央ドにそろえて置きます。\n- 右手はCから**上向き**の音域を担当します。\n- 左手はCから**下向き**の音域を担当します。\n指は軽く丸め、鍵盤の近くで動かして、動きを小さくコントロールしやすくしましょう。",
+          "pt-BR": "# Preparação das mãos\n- Sente-se de forma que o **Dó central (middle C)** fique bem no meio do seu corpo.\n- Coloque **os dois polegares (dedo 1)** juntos no Dó central.\n- A mão direita cuida das notas que vão **subindo** a partir do C.\n- A mão esquerda cuida das notas que vão **descendo** a partir do C.\nMantenha os dedos curvados e perto das teclas, para que o movimento seja pequeno e controlado.",
+          "es": "# Preparación de las manos\n- Siéntate de forma que el **Do central (middle C)** quede justo en el centro de tu cuerpo.\n- Coloca **ambos pulgares (dedo 1)** juntos sobre el Do central.\n- La mano derecha se encarga de las notas que van **hacia arriba** desde C.\n- La mano izquierda se encarga de las notas que van **hacia abajo** desde C.\nMantén los dedos curvados y cerca de las teclas, para que el movimiento sea pequeño y controlado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major in contrary motion\n1. Start with both thumbs together on **middle C**.\n2. Move **outward**, one note per beat:\n   - Right hand: C–D–E–F–G–A–B–C (up)\n   - Left hand: C–B–A–G–F–E–D–C (down)\n3. Then reverse direction and come **back in** to middle C.\n4. Keep everything **legato** and try to make both hands equally loud.\n\nUse your usual C major scale fingering, just mirrored between the hands.",
+          "zh-Hans": "# C大调反向音阶\n1. 两个拇指一起从**中央C**出发。\n2. **向外**移动，每拍一个音：\n   - 右手：C–D–E–F–G–A–B–C（上行）\n   - 左手：C–B–A–G–F–E–D–C（下行）\n3. 然后反方向走，把音阶**走回中心**的C。\n4. 尽量保持**连音**，并让双手的音量尽量一样。\n\n指法上，用你平时的C大调音阶指法，只是左右手做镜像。",
+          "de": "# C-Dur in Gegenbewegung\n1. Beide Daumen starten gemeinsam auf dem **mittleren C**.\n2. Bewege dich **nach außen**, eine Note pro Schlag:\n   - Rechte Hand: C–D–E–F–G–A–B/H–C (aufwärts)\n   - Linke Hand: C–B/H–A–G–F–E–D–C (abwärts)\n3. Kehre dann um und gehe wieder **zurück zur Mitte**, zum C.\n4. Spiele möglichst **legato** und versuche, beide Hände gleich laut klingen zu lassen.\n\nVerwende deinen gewohnten C-Dur-Tonleiterfingersatz, nur gespiegelt zwischen den Händen.",
+          "ja": "# Cメジャーの反進行\n1. まず両方の親指で、**中央ド** を同時に弾きます。\n2. そこから、1拍に1音ずつ**外側へ**進みます：\n   - 右手：C–D–E–F–G–A–B–C（上行）\n   - 左手：C–B–A–G–F–E–D–C（下行）\n3. つぎに向きを変え、**中央ドへ戻る**ようにたどりなおします。\n4. できるだけ**レガート**で弾き、両手の音量がそろうように意識しましょう。\n\n指づかいは、いつものCメジャー・スケールの指づかいを左右で鏡にした感じで使ってOKです。",
+          "pt-BR": "# Dó maior em movimento contrário\n1. Comece com os dois polegares juntos no **Dó central**.\n2. Ande **para fora**, uma nota por tempo:\n   - Mão direita: C–D–E–F–G–A–B–C (subindo)\n   - Mão esquerda: C–B–A–G–F–E–D–C (descendo)\n3. Depois inverta o caminho e volte **para o centro**, terminando de novo no Dó central.\n4. Procure tocar **legato** e deixar as duas mãos com volumes parecidos.\n\nUse a digitação de escala de Dó que você já conhece, só que espelhada entre as mãos.",
+          "es": "# Do mayor en movimiento contrario\n1. Empieza con los dos pulgares en el **Do central** al mismo tiempo.\n2. Muévete **hacia afuera**, una nota por pulso:\n   - Mano derecha: C–D–E–F–G–A–B–C (subiendo)\n   - Mano izquierda: C–B–A–G–F–E–D–C (bajando)\n3. Luego invierte la dirección y vuelve **hacia el centro**, terminando otra vez en el Do central.\n4. Intenta tocar **legato** y que ambas manos suenen con un volumen parecido.\n\nUsa tu digitación habitual de la escala de Do, simplemente reflejada entre las manos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# G major in contrary motion\nNow move the same shape to **G major** (one sharp: F♯):\n\n1. Shift your hands so the right-hand thumb (1) is on the **G above middle C** and the left-hand thumb is on the **G below middle C**. Those two Gs are your meeting point.\n2. Play outward:\n   - Right hand: G–A–B–C–D–E–F♯–G (up)\n   - Left hand: G–F♯–E–D–C–B–A–G (down)\n3. Then come back in to the center G.\n4. Watch the **F♯** carefully so you don’t slip back to all white keys.",
+          "zh-Hans": "# G大调反向音阶\n接下来把同样的形状移到只有一个升号（F♯）的 **G大调**：\n\n1. 移动双手，让右手拇指（1指）放在**中央C上方的G**，左手拇指放在**中央C下方的G**，这两个G就是“相遇点”。\n2. 向外弹出：\n   - 右手：G–A–B–C–D–E–F♯–G（上行）\n   - 左手：G–F♯–E–D–C–B–A–G（下行）\n3. 再把音阶走回中间的G。\n4. 特别注意 **F♯**，不要不小心又变回全白键。",
+          "de": "# G-Dur in Gegenbewegung\nJetzt verschiebst du das Muster nach **G-Dur** (ein Kreuz: F♯):\n\n1. Verschiebe beide Hände, sodass der rechte Daumen (1) auf dem **G über dem mittleren C** liegt und der linke Daumen auf dem **G unter dem mittleren C**. Diese beiden Gs sind dein Treffpunkt.\n2. Spiele nach außen:\n   - Rechte Hand: G–A–B/H–C–D–E–F♯–G (aufwärts)\n   - Linke Hand: G–F♯–E–D–C–B/H–A–G (abwärts)\n3. Gehe dann wieder zurück zur mittleren G-Note.\n4. Achte besonders auf das **F♯**, damit du nicht aus Versehen wieder nur weiße Tasten spielst.",
+          "ja": "# Gメジャーの反進行\nつぎに、1つのシャープ（F♯）をもつ **Gメジャー** に同じ形を移します。\n\n1. 両手を少しずらし、右手の親指（1の指）を**中央ドの上のG**に、左手の親指を**中央ドの下のG**に置きます。この2つのGが合流ポイントです。\n2. 外側へ向かって弾きます：\n   - 右手：G–A–B–C–D–E–F♯–G（上行）\n   - 左手：G–F♯–E–D–C–B–A–G（下行）\n3. そのあと、再び真ん中のGに戻るように弾きます。\n4. とくに **F♯** を弾きそこねて、全部白鍵になってしまわないように気をつけましょう。",
+          "pt-BR": "# Sol maior em movimento contrário\nAgora leve o mesmo desenho para **Sol maior (G)**, que tem um sustenido: **F♯**.\n\n1. Desloque as mãos para que o polegar da direita (1) fique no **G acima do Dó central** e o polegar da esquerda no **G abaixo do Dó central**. Esses dois G são o seu ponto de encontro.\n2. Toque para fora:\n   - Mão direita: G–A–B–C–D–E–F♯–G (subindo)\n   - Mão esquerda: G–F♯–E–D–C–B–A–G (descendo)\n3. Depois volte para dentro, terminando de novo nesse G central.\n4. Fique de olho no **F♯** para não cair de volta no desenho só com teclas brancas.",
+          "es": "# Sol mayor en movimiento contrario\nAhora lleva el mismo patrón a **Sol mayor (G)**, que tiene un sostenido: **F♯**.\n\n1. Desplaza las manos para que el pulgar derecho (1) quede en el **G encima del Do central** y el pulgar izquierdo en el **G debajo del Do central**. Esas dos notas G son tu punto de encuentro.\n2. Toca hacia afuera:\n   - Mano derecha: G–A–B–C–D–E–F♯–G (subiendo)\n   - Mano izquierda: G–F♯–E–D–C–B–A–G (bajando)\n3. Después vuelve hacia dentro y termina de nuevo en ese G central.\n4. Vigila bien el **F♯** para no volver sin querer al patrón de solo teclas blancas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Daily mini-routine\n- Start at **♩ = 60** and play C major out and back **twice**.\n- Do the same in G major.\n- Repeat this cycle 3–5 times, giving your hands a short rest between cycles.\nIf anything feels tense or messy, slow the tempo, make the motions smaller, and focus on both thumbs arriving **together** on the center note.",
+          "zh-Hans": "# 每日小流程\n- 先在 **♩ = 60** 左右，把C大调从中间走到外面再走回来，连做**两遍**。\n- 用同样方法练G大调。\n- 做完整个循环 3–5 次，中间让手指稍微休息一下。\n如果觉得紧、乱或不均匀，就把速度放慢，减小动作幅度，专注让两个拇指同时到达中心音。",
+          "de": "# Kleine tägliche Routine\n- Starte bei etwa **♩ = 60** und spiele C-Dur nach außen und zurück **zweimal**.\n- Mach dasselbe mit G-Dur.\n- Wiederhole den kompletten Durchgang 3–5 Mal und gönn deinen Händen kurze Pausen dazwischen.\nWenn sich etwas angespannt oder unsauber anfühlt, werde langsamer, verkleinere die Bewegung und achte darauf, dass beide Daumen gleichzeitig auf dem Mittenton landen.",
+          "ja": "# 毎日のミニ・ルーティン\n- まず **♩ = 60** 前後から始めて、Cメジャーを外側→中央と**2往復**します。\n- 同じことをGメジャーでも行います。\n- これを1セットとして、3〜5セットくり返し、合間に手を少し休ませましょう。\nもしどこかがきつかったり音が乱れたりしたら、テンポを落として動きを小さくし、両方の親指が中心の音で**同時にそろう**ことに集中してください。",
+          "pt-BR": "# Mini-rotina diária\n- Comece em **♩ = 60** e toque Dó maior saindo do centro e voltando **duas vezes**.\n- Faça a mesma coisa em Sol maior.\n- Repita esse ciclo 3–5 vezes, dando uma pausa rápida para relaxar as mãos entre os ciclos.\nSe começar a ficar tenso ou embolado, reduza o andamento, diminua o tamanho do movimento e foque em fazer os polegares chegarem **juntos** na nota central.",
+          "es": "# Mini rutina diaria\n- Empieza en **♩ = 60** y toca Do mayor saliendo del centro y volviendo **dos veces**.\n- Haz lo mismo en Sol mayor.\n- Repite todo el ciclo 3–5 veces, haciendo una pequeña pausa para relajar las manos entre ciclos.\nSi algo se siente tenso o desordenado, baja el tempo, reduce el tamaño del movimiento y céntrate en que los pulgares lleguen **juntos** a la nota central."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "When C and G feel easy in contrary motion, you can add more keys or extend the exercise to two octaves for an extra challenge.",
+          "zh-Hans": "当C和G调的反向音阶都变得轻松自然时，可以加入更多调性，或者拉长到两组八度作为额外挑战。",
+          "de": "Wenn C- und G-Dur in Gegenbewegung leicht von der Hand gehen, kannst du weitere Tonarten hinzufügen oder auf zwei Oktaven erweitern, um dich weiter zu fordern.",
+          "ja": "CとGの反進行スケールがスムーズに弾けるようになったら、ほかのキーでも試したり、2オクターブに伸ばしたりして、少しずつレベルを上げていきましょう。",
+          "pt-BR": "Quando C e G estiverem tranquilos em movimento contrário, você pode adicionar outras tonalidades ou estender o exercício para duas oitavas para deixar o treino mais puxado.",
+          "es": "Cuando C y G se sientan fáciles en movimiento contrario, puedes añadir más tonalidades o ampliar el ejercicio a dos octavas para un reto extra."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

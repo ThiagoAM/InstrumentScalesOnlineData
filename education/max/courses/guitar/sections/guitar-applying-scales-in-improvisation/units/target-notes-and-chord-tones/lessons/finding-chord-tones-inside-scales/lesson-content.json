@@ -1,0 +1,73 @@
+{
+  "id": "finding-chord-tones-inside-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Finding chord tones inside scales\nWhen you solo, **chord tones** are your “safe notes”. They are simply the notes of the chord you’re playing over.\n\nIn this lesson you’ll:\n- Take a **scale you already know**\n- Find the **1, 3, 5 (and 7)** of the chord inside that scale shape\n- Practice **landing on those notes** so your solos sound more connected to the harmony",
+          "zh-Hans": "# 在音阶里找到和弦音\n即兴时，**和弦音**就是你的“安全音”。它们就是当前和弦本身的音。\n\n本课你会：\n- 用一个**你已经熟悉的音阶**\n- 在这个音阶指型里找到和弦的 **1、3、5（和 7）度**\n- 练习**落在这些音上**，让你的独奏更贴合和声",
+          "de": "# Akkordtöne in Skalen finden\nBeim Solospiel sind **Akkordtöne** deine „Sicherheitsnoten“. Das sind einfach die Töne des Akkords, der gerade klingt.\n\nIn dieser Lektion wirst du:\n- Eine **Skala, die du schon kennst**, verwenden\n- Die **1, 3, 5 (und 7)** des Akkords in dieser Skalenlage finden\n- Üben, **auf diesen Tönen zu landen**, damit dein Solo stärker mit der Harmonie verbunden klingt",
+          "ja": "# スケールの中からコードトーンを見つける\nソロを弾くとき、**コードトーン**は「安全な音」です。今なっているコードを作っている音そのものです。\n\nこのレッスンでは：\n- すでに知っている**スケール**を1つ使って\n- そのポジションの中からコードの **1度・3度・5度（と7度）** を見つけて\n- その音に**着地する練習**をして、ソロをコードにしっかり結びつけます",
+          "pt-BR": "# Encontrando notas do acorde dentro das escalas\nQuando você sola, as **notas do acorde** são as suas “notas seguras”. São simplesmente as notas do acorde que está soando.\n\nNesta lição você vai:\n- Usar uma **escala que já conhece**\n- Achar dentro desse desenho as notas **1, 3, 5 (e 7)** do acorde\n- Praticar **cair nessas notas** para o seu solo soar mais ligado à harmonia",
+          "es": "# Encontrar notas de acorde dentro de las escalas\nCuando haces un solo, las **notas del acorde** son tus “notas seguras”. Son simplemente las notas del acorde que está sonando.\n\nEn esta lección vas a:\n- Usar una **escala que ya conozcas**\n- Encontrar dentro de ese dibujo la **1, 3, 5 (y 7)** del acorde\n- Practicar **caer en esas notas** para que tu solo suene más conectado con la armonía"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Pick a chord and scale\nStart simple:\n- Chord: **C major** (notes C–E–G)\n- Scale: **C major scale** in any position you like\n\nOr in minor:\n- Chord: **Am** (notes A–C–E)\n- Scale: **A natural minor** or **A minor pentatonic**\n\nInside your scale shape, **circle or mark** every:\n- **Root (1)** – C or A\n- **3rd** – E (for C), C (for Am)\n- **5th** – G (for C), E (for Am)\n\nThese are the notes we’ll aim for when we want a **strong, stable sound**.",
+          "zh-Hans": "# 第一步 – 选一个和弦和对应音阶\n先从最简单的开始：\n- 和弦：**C 大三和弦**（音：C–E–G）\n- 音阶：任意把位的 **C 大调音阶**\n\n或者用小调：\n- 和弦：**Am**（音：A–C–E）\n- 音阶：**A 自然小调** 或 **A 小调五声音阶**\n\n在你的音阶指型里，把下面这些音**圈出来或标记**：\n- **主音（1 度）** – C 或 A\n- **三度（3 度）** – C 和弦时是 E；Am 和弦时是 C\n- **五度（5 度）** – C 和弦时是 G；Am 和弦时是 E\n\n这些就是你想要**稳稳落地**时要找的音。",
+          "de": "# Schritt 1 – Akkord und Skala wählen\nStarte ganz einfach:\n- Akkord: **C-Dur** (Töne C–E–G)\n- Skala: **C-Dur-Tonleiter** in einer beliebigen Lage\n\nOder in Moll:\n- Akkord: **Am** (Töne A–C–E)\n- Skala: **A natürlich Moll** oder **A-Moll-Pentatonik**\n\nMarkiere in deinem Skalenpattern alle:\n- **Grundtöne (1)** – C oder A\n- **Terzen (3)** – bei C-Dur: E, bei Am: C\n- **Quinten (5)** – bei C-Dur: G, bei Am: E\n\nAuf diese Töne zielen wir, wenn der Sound **stabil und klar** sein soll.",
+          "ja": "# ステップ1 – コードとスケールを決める\nシンプルにいきましょう：\n- コード：**Cメジャー**（音：C–E–G）\n- スケール：好きなポジションの **Cメジャー・スケール**\n\nマイナーでやりたい場合：\n- コード：**Am**（音：A–C–E）\n- スケール：**Aナチュラルマイナー** か **Aマイナーペンタ**\n\n選んだスケールポジションの中で、次の音に**印をつけます**：\n- **ルート（1度）** – C または A\n- **3度** – Cメジャーなら E、Amなら C\n- **5度** – Cメジャーなら G、Amなら E\n\nこれらが、落ち着いた**安定した響き**を出したいときに狙う音です。",
+          "pt-BR": "# Passo 1 – Escolha um acorde e uma escala\nComece simples:\n- Acorde: **C maior** (notas C–E–G)\n- Escala: **escala de C maior** em qualquer posição\n\nOu em menor:\n- Acorde: **Am** (notas A–C–E)\n- Escala: **A menor natural** ou **A menor pentatônica**\n\nDentro do desenho da escala, **marque** todas as:\n- **Tônicas (1)** – C ou A\n- **Terças (3)** – em C maior é E; em Am é C\n- **Quintas (5)** – em C maior é G; em Am é E\n\nSão essas notas que vamos mirar quando quisermos um som **forte e estável**.",
+          "es": "# Paso 1 – Elige un acorde y una escala\nEmpieza simple:\n- Acorde: **Do mayor** (notas C–E–G)\n- Escala: **escala de Do mayor** en cualquier posición\n\nO en menor:\n- Acorde: **La menor (Am)** (notas A–C–E)\n- Escala: **La menor natural** o **La menor pentatónica**\n\nDentro del dibujo de la escala, **marca** todas las:\n- **Tónicas (1)** – C o A\n- **Terceras (3)** – en C mayor es E; en Am es C\n- **Quintas (5)** – en C mayor es G; en Am es E\n\nÉstas son las notas a las que apuntamos cuando queremos un sonido **firme y estable**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Playing the scale, stopping on chord tones\nPut on a simple backing track with just that chord (C or Am).\n\n1. Play **up and down the scale** slowly.\n2. Every time you reach a **chord tone** (1, 3 or 5),\n   - **Hold it longer** (2 beats or a full bar)\n   - Listen to how “finished” it feels.\n3. Pass quickly over non-chord tones, but **always land** on a chord tone.\n\nYou’re teaching your ear: *“these notes feel like home”*.",
+          "zh-Hans": "# 第二步 – 跑音阶但停在和弦音上\n放一个只包含这个和弦（C 或 Am）的简单伴奏。\n\n1. 慢慢地**上行、下行弹音阶**。\n2. 每次遇到一个**和弦音**（1、3 或 5 度）时：\n   - 把它**拉长一点**（2 拍或整小节）\n   - 听听这种“到家”的感觉\n3. 非和弦音可以快速带过，但**结尾一定要落**在和弦音上。\n\n这样你在训练耳朵：*“这些音听起来像家一样踏实”*。",
+          "de": "# Schritt 2 – Skala spielen und auf Akkordtönen stoppen\nStarte ein einfaches Backing, das nur diesen Akkord spielt (C oder Am).\n\n1. Spiele die Skala **langsam auf und ab**.\n2. Jedes Mal, wenn du auf einen **Akkordton** (1, 3 oder 5) kommst:\n   - **Halte ihn länger** (2 Schläge oder einen ganzen Takt)\n   - Hör, wie „fertig“ und stabil er klingt.\n3. Über Nicht-Akkordtöne kannst du schneller hinwegspielen, aber **lande am Ende** immer auf einem Akkordton.\n\nSo trainierst du dein Ohr darauf: *„Diese Töne fühlen sich wie Zuhause an.“*",
+          "ja": "# ステップ2 – スケールを弾きつつ、コードトーンで止まる\nまず、そのコード（CかAm）だけが鳴っているシンプルなバッキングを流します。\n\n1. スケールを**ゆっくり上下**に弾く。\n2. **コードトーン（1度・3度・5度）**に来たら：\n   - その音を**少し長めに伸ばす**（2拍〜1小節）\n   - どれくらい「落ち着いて聞こえるか」をよく聴く\n3. コードトーン以外の音はさらっと通り過ぎてOKですが、**必ず着地はコードトーン**にします。\n\nこうやって耳に「*ここが帰る場所だ*」と覚えさせていきます。",
+          "pt-BR": "# Passo 2 – Tocar a escala parando nas notas do acorde\nColoque um playback bem simples só com esse acorde (C ou Am).\n\n1. Toque a escala **subindo e descendo**, devagar.\n2. Sempre que cair em uma **nota do acorde** (1, 3 ou 5):\n   - **Segure essa nota** (2 tempos ou um compasso inteiro)\n   - Ouça como ela soa “resolvida”.\n3. Passe mais rápido pelas notas que não são do acorde, mas **sempre termine** em uma nota do acorde.\n\nVocê está ensinando o ouvido: *“essas notas aqui são casa”*.",
+          "es": "# Paso 2 – Tocar la escala y detenerse en notas de acorde\nPon una base sencilla que use sólo ese acorde (C o Am).\n\n1. Toca la escala **subiendo y bajando**, despacio.\n2. Cada vez que llegues a una **nota del acorde** (1, 3 o 5):\n   - **Mantenla más tiempo** (2 tiempos o un compás)\n   - Escucha lo “resuelta” que suena.\n3. Pasa más rápido por las notas que no son del acorde, pero **siempre termina** en una nota de acorde.\n\nAsí le enseñas a tu oído: *“estas notas se sienten como casa”*."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Arpeggios inside the scale shape\nNow turn the chord tones into a **mini pattern** inside your scale:\n\nFor C major:\n- Find **C–E–G–C** in your position\n- Play them **up and down** like a small arpeggio\n\nFor Am:\n- Find **A–C–E–A** in your position\n- Again, play them up and down\n\nThen **mix**:\n- A few **stepwise scale notes**\n- Jump to a **chord tone**\n- Back to scale notes\n\nYou’re learning to **weave the arpeggio** inside the scale instead of treating them as two separate things.",
+          "zh-Hans": "# 第三步 – 在音阶指型里弹琶音\n现在把和弦音变成音阶里的一个**小指型**：\n\nC 大调时：\n- 在当前位置找到 **C–E–G–C**\n- 像小琶音一样**上行、下行**弹\n\nAm 时：\n- 在当前位置找到 **A–C–E–A**\n- 同样上行、下行弹\n\n然后开始**混合**：\n- 先弹几下**按音阶顺阶走的音**\n- 再**跳到一个和弦音**\n- 然后回到顺阶的音\n\n你在训练自己把**琶音织进音阶**，而不是把两者当成完全分开的东西。",
+          "de": "# Schritt 3 – Arpeggios im Skalenpattern\nJetzt machst du aus den Akkordtönen ein **kleines Pattern** innerhalb der Skala:\n\nFür C-Dur:\n- Such dir in deiner Lage **C–E–G–C** heraus\n- Spiele diese Töne **auf- und abwärts** wie ein Mini-Arpeggio\n\nFür Am:\n- Finde in deiner Lage **A–C–E–A**\n- Spiele sie ebenfalls auf- und abwärts\n\nDann **mische**:\n- Ein paar **stufenweise Skalentöne**\n- Einen **Sprung zu einem Akkordton**\n- Wieder zurück zu Skalentönen\n\nSo lernst du, das **Arpeggio in die Skala einzuflechten**, statt beides getrennt zu behandeln.",
+          "ja": "# ステップ3 – スケールの中でアルペジオを弾く\n次は、コードトーンだけを取り出して、スケールの中に**小さなパターン**を作ります。\n\nCメジャーなら：\n- そのポジションの中から **C–E–G–C** を見つける\n- それを**上がって下がる**アルペジオとして弾く\n\nAmなら：\n- ポジションの中から **A–C–E–A** を見つける\n- 同じように上行・下行で弾く\n\nそのうえで、次を**ミックス**します：\n- いくつかの**スケールを順番に弾く動き**\n- そこから**コードトーンにジャンプ**\n- またスケールに戻る\n\nこうすることで、スケールとアルペジオを別々ではなく、**スケールの中にアルペジオを織り込む**感覚が身についていきます。",
+          "pt-BR": "# Passo 3 – Arpejos dentro do desenho da escala\nAgora transforme as notas do acorde em um **mini padrão** dentro da escala:\n\nPara C maior:\n- Encontre **C–E–G–C** nessa mesma região\n- Toque esses tons **subindo e descendo**, como um arpejo pequeno\n\nPara Am:\n- Encontre **A–C–E–A** na posição\n- Também suba e desça nesses tons\n\nDepois, **misture**:\n- Alguns **passos de escala em sequência**\n- Um **pulo para uma nota do acorde**\n- De volta para notas da escala\n\nVocê está aprendendo a **tecer o arpejo dentro da escala**, em vez de tratar os dois como coisas separadas.",
+          "es": "# Paso 3 – Arpegios dentro del dibujo de la escala\nAhora convierte las notas del acorde en un **mini patrón** dentro de la escala:\n\nPara Do mayor:\n- Encuentra **C–E–G–C** en esa misma posición\n- Tócalas **subiendo y bajando**, como un pequeño arpegio\n\nPara Am:\n- Encuentra **A–C–E–A** en la posición\n- También súbelas y bájalas\n\nLuego **mezcla**:\n- Algunos **pasos de escala seguidos**\n- Un **salto a una nota de acorde**\n- De vuelta a notas de la escala\n\nAsí aprendes a **tejer el arpegio dentro de la escala**, en lugar de tratarlos como dos cosas separadas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Quick practice\nFor 5–10 minutes:\n1. Choose **one chord and one scale** that fits it.\n2. Mark all **1, 3, 5 (and 7)** inside your favorite scale position.\n3. Over a backing track with that chord:\n   - Play simple scale lines\n   - Always **start or end** phrases on a chord tone\n4. If that feels easy, add the **arpeggio pattern** (1–3–5–7) inside your lines.\n\nWhen your solos start to sound like they “follow the chords” even with simple notes, you’re finding chord tones correctly.",
+          "zh-Hans": "# 小练习\n练习 5–10 分钟：\n1. 选一个**和弦 + 对应音阶**。\n2. 在你最常用的指型里标出所有 **1、3、5（和 7）度**。\n3. 放这个和弦的伴奏，然后：\n   - 弹一些简单的音阶乐句\n   - 让乐句**起点或终点**总是落在和弦音上\n4. 如果这样已经不难了，就在乐句里加入 **1–3–5–7 的小琶音指型**。\n\n当你发现，即便只用简单音符，你的独奏也开始听起来像是**真的在跟着和弦走**，就说明你已经在正确地找到和弦音了。",
+          "de": "# Kurze Übung\nFür 5–10 Minuten:\n1. Wähle **einen Akkord und eine passende Skala**.\n2. Markiere in deiner Lieblingslage alle **1, 3, 5 (und 7)**.\n3. Über ein Backing mit diesem Akkord:\n   - Spiele einfache Skalenlinien\n   - Lass Phrasen **immer auf einem Akkordton beginnen oder enden**\n4. Wenn das leicht fällt, baue das **Arpeggio-Pattern** (1–3–5–7) in deine Linien ein.\n\nWenn deine Solos plötzlich so klingen, als würden sie **den Akkorden folgen**, obwohl die Noten simpel sind, findest du die Akkordtöne richtig.",
+          "ja": "# かんたん練習\n5〜10分だけ、次の流れでやってみましょう：\n1. **1つのコードと、それに合うスケール**を選ぶ。\n2. よく使うポジションの中で、**1度・3度・5度（と7度）** に印をつける。\n3. そのコードだけのバッキングに合わせて：\n   - シンプルなスケールのフレーズを弾く\n   - フレーズの**始まりか終わり**を必ずコードトーンにする\n4. 余裕が出てきたら、フレーズの中に **1–3–5–7 のミニ・アルペジオ**を混ぜてみる。\n\n使っている音自体はシンプルでも、ソロがちゃんと**コード進行を追いかけているように聞こえ始めたら**、コードトーンをうまく見つけられている証拠です。",
+          "pt-BR": "# Prática rápida\nPor 5–10 minutos:\n1. Escolha **um acorde e uma escala** que combine com ele.\n2. Na sua posição favorita, marque todas as notas **1, 3, 5 (e 7)**.\n3. Com um playback desse acorde:\n   - Toque linhas simples de escala\n   - Faça as frases **começarem ou terminarem** em notas do acorde\n4. Se isso estiver tranquilo, inclua o **padrão de arpejo** (1–3–5–7) dentro das frases.\n\nQuando seus solos começarem a soar como se **estivessem seguindo os acordes**, mesmo com notas simples, é porque você está encontrando os chord tones do jeito certo.",
+          "es": "# Práctica rápida\nDurante 5–10 minutos:\n1. Elige **un acorde y una escala** que encaje con él.\n2. En tu posición favorita, marca todas las **1, 3, 5 (y 7)**.\n3. Con una base que use ese acorde:\n   - Toca líneas sencillas de escala\n   - Haz que las frases **empiecen o terminen** en notas de acorde\n4. Si eso se siente fácil, añade el **patrón de arpegio** (1–3–5–7) dentro de tus líneas.\n\nCuando tus solos empiecen a sonar como si **siguieran a los acordes**, aunque uses notas simples, es que estás encontrando bien las notas del acorde."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

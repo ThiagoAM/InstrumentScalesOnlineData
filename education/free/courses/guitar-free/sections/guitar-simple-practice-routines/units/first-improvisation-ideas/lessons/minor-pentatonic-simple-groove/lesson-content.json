@@ -1,0 +1,73 @@
+{
+  "id": "minor-pentatonic-simple-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Improvising with A minor pentatonic\nIn this lesson you’ll use the **A minor pentatonic Box 1** pattern to play over a simple groove.\n\nThe goal is not to play fast – it’s to make a few notes sound musical and confident.",
+          "zh-Hans": "# 用A小调五声音阶即兴\n本课中，你将用 **A小调五声音阶第1指型（Box 1）** 在一个简单的节奏上做即兴。\n\n目标不是弹得快，而是用少量音符弹出有音乐感、很自信的声音。",
+          "de": "# Improvisieren mit der A-Moll-Pentatonik\nIn dieser Lektion benutzt du das **A-Moll-Pentatonik Box-1-Pattern**, um über einen einfachen Groove zu spielen.\n\nZiel ist nicht, schnell zu spielen, sondern ein paar Töne **musikalisch und sicher** klingen zu lassen.",
+          "ja": "# Aマイナー・ペンタトニックで即興\nこのレッスンでは、**Aマイナー・ペンタトニックのボックス1** を使って、シンプルなグルーヴの上で即興してみます。\n\n速く弾くことが目的ではなく、少ない音でも“音楽っぽく、自信を持って”弾けることが狙いです。",
+          "pt-BR": "# Improvisando com a pentatônica de Lá menor\nNesta lição você vai usar o **desenho 1 da pentatônica de Lá menor** para tocar em cima de um groove simples.\n\nA ideia não é tocar rápido, e sim fazer **poucas notas** soarem musicais e seguras.",
+          "es": "# Improvisando con la pentatónica de La menor\nEn esta lección vas a usar la **caja 1 de la pentatónica de La menor** para tocar sobre un groove sencillo.\n\nEl objetivo no es tocar rápido, sino hacer que **pocas notas** suenen musicales y con seguridad."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup\n1. Use the **A minor pentatonic Box 1** around fret 5.\n2. If you have a backing track or drum loop in A minor, use it.\n3. If not, just tap your foot and count **1–2–3–4** at a slow tempo.\n\nWe’ll focus on only a few notes at first.",
+          "zh-Hans": "# 准备\n1. 使用 **第5品附近的A小调五声音阶第1指型**。\n2. 如果你有A小调的伴奏或鼓Loop，可以配合使用。\n3. 没有也没关系，只要自己踩脚打拍子，慢速数 **1–2–3–4** 即可。\n\n一开始我们只关注少量音符。",
+          "de": "# Vorbereitung\n1. Nutze die **A-Moll-Pentatonik Box 1** rund um den 5. Bund.\n2. Wenn du ein Backing-Track oder Drum-Loop in A-Moll hast, verwende es.\n3. Wenn nicht, reicht es, mit dem Fuß mitzuwippen und langsam **1–2–3–4** zu zählen.\n\nWir konzentrieren uns zuerst nur auf wenige Töne.",
+          "ja": "# 準備\n1. **5フレット周辺のAマイナー・ペンタトニック（ボックス1）** を使います。\n2. Aマイナーのバッキングトラックやドラムループがあれば、それに合わせてください。\n3. なくても大丈夫です。足でリズムを取りながら、ゆっくり **1–2–3–4** とカウントしましょう。\n\n最初は、使う音をあえて少なくして練習します。",
+          "pt-BR": "# Preparação\n1. Use o **desenho 1 da pentatônica de Lá menor** na região do 5º traste.\n2. Se tiver um backing track ou um loop de bateria em Lá menor, use junto.\n3. Se não tiver, basta bater o pé no chão e contar **1–2–3–4** em um tempo lento.\n\nVamos focar em poucas notas no começo.",
+          "es": "# Preparación\n1. Usa la **caja 1 de la pentatónica de La menor** en la zona del traste 5.\n2. Si tienes un backing track o un loop de batería en La menor, úsalo.\n3. Si no, simplemente marca el pulso con el pie y cuenta **1–2–3–4** a un tempo lento.\n\nAl principio nos centraremos solo en unas pocas notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Start with two notes\nBegin with just **A and C** on the 6th string:\n\n- 6th string, 5th fret – A\n- 6th string, 8th fret – C\n\nTry this pattern:\n\n- Beat 1: A\n- Beat 2: C\n- Beat 3: A\n- Beat 4: (rest – do nothing)\n\nLoop this for a while. Listen to how the groove feels, not just which notes you play.",
+          "zh-Hans": "# 只用两个音开始\n先只用第6弦上的 **A 和 C**：\n\n- 第6弦，第5品 – A\n- 第6弦，第8品 – C\n\n试试这个节奏：\n\n- 拍1：A\n- 拍2：C\n- 拍3：A\n- 拍4：休止（什么也不弹）\n\n循环多次。注意听整体律动，而不只是你按了哪些音。",
+          "de": "# Starte mit zwei Tönen\nBeginne nur mit **A und C** auf der 6. Saite:\n\n- 6. Saite, 5. Bund – A\n- 6. Saite, 8. Bund – C\n\nProbiere folgendes Pattern:\n\n- Schlag 1: A\n- Schlag 2: C\n- Schlag 3: A\n- Schlag 4: Pause (nichts spielen)\n\nWiederhole das eine Zeit lang. Achte mehr auf den Groove als auf „richtige“ Noten.",
+          "ja": "# まずは2つの音だけ\n最初は6弦上の **A と C** だけを使います。\n\n- 6弦 5フレット – A\n- 6弦 8フレット – C\n\nこんなリズムを試してみましょう：\n\n- 1拍目：A\n- 2拍目：C\n- 3拍目：A\n- 4拍目：休符（何も弾かない）\n\nこれを何度か繰り返して、どんなグルーヴになるか耳で感じてみてください。",
+          "pt-BR": "# Comece com duas notas\nComece usando só **A e C** na 6ª corda:\n\n- 6ª corda, 5º traste – A\n- 6ª corda, 8º traste – C\n\nExperimente este padrão:\n\n- Tempo 1: A\n- Tempo 2: C\n- Tempo 3: A\n- Tempo 4: silêncio (não toque nada)\n\nRepita por um tempo. Preste mais atenção no **groove** do que em “tocar coisas difíceis”.",
+          "es": "# Empieza con dos notas\nEmpieza usando solo **A y C** en la 6ª cuerda:\n\n- 6ª cuerda, traste 5 – A\n- 6ª cuerda, traste 8 – C\n\nPrueba este patrón:\n\n- Tiempo 1: A\n- Tiempo 2: C\n- Tiempo 3: A\n- Tiempo 4: silencio (no toques nada)\n\nRepítelo varias veces. Escucha más el **groove** que la “dificultad” de las notas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add a small lick\nWhen that feels easy, add one more note, **D**:\n\n- 5th string, 5th fret – D\n\nNow try a simple 4-beat phrase:\n\n- Beat 1: A (6th string, 5th fret)\n- Beat 2: C (6th string, 8th fret)\n- Beat 3: D (5th string, 5th fret)\n- Beat 4: A (5th string, 7th fret) – optional if you know it\n\nPlay it slowly, then change the order of the same notes to find your own little lick.",
+          "zh-Hans": "# 加入一个小乐句\n当上面的练习已经很轻松时，再加一个音 **D**：\n\n- 第5弦，第5品 – D\n\n现在可以试一个简单的四拍乐句：\n\n- 拍1：A（第6弦，第5品）\n- 拍2：C（第6弦，第8品）\n- 拍3：D（第5弦，第5品）\n- 拍4：A（第5弦，第7品）——如果你已经熟悉这个位置\n\n先慢慢弹，然后尝试把这几个音换个顺序，自己组合出小乐句。",
+          "de": "# Ein kleines Lick hinzufügen\nWenn das leicht fällt, füge einen weiteren Ton hinzu, **D**:\n\n- 5. Saite, 5. Bund – D\n\nProbiere nun eine einfache Vier-Schläge-Phrase:\n\n- Schlag 1: A (6. Saite, 5. Bund)\n- Schlag 2: C (6. Saite, 8. Bund)\n- Schlag 3: D (5. Saite, 5. Bund)\n- Schlag 4: A (5. Saite, 7. Bund) – optional, falls dir die Lage vertraut ist\n\nSpiele das langsam und ändere dann die Reihenfolge der gleichen Töne, um dein eigenes kleines Lick zu finden.",
+          "ja": "# 小さなフレーズを足す\nさっきのパターンに慣れてきたら、もう1音 **D** を足します。\n\n- 5弦 5フレット – D\n\n次のような、4拍のシンプルなフレーズを試してみましょう：\n\n- 1拍目：A（6弦 5フレット）\n- 2拍目：C（6弦 8フレット）\n- 3拍目：D（5弦 5フレット）\n- 4拍目：A（5弦 7フレット）※このポジションに慣れていれば\n\nゆっくり弾いてから、同じ音の並びを入れ替えて、自分なりの“ちょっとしたフレーズ”を作ってみてください。",
+          "pt-BR": "# Adicione um pequeno lick\nQuando estiver fácil, adicione mais uma nota, o **D**:\n\n- 5ª corda, 5º traste – D\n\nAgora experimente uma frase simples de 4 tempos:\n\n- Tempo 1: A (6ª corda, 5º traste)\n- Tempo 2: C (6ª corda, 8º traste)\n- Tempo 3: D (5ª corda, 5º traste)\n- Tempo 4: A (5ª corda, 7º traste) – opcional, se você já estiver confortável\n\nToque devagar e depois mude a ordem dessas mesmas notas para achar seu próprio pequeno lick.",
+          "es": "# Añade un pequeño lick\nCuando eso te salga fácil, añade una nota más, **D**:\n\n- 5ª cuerda, traste 5 – D\n\nPrueba ahora una frase sencilla de 4 tiempos:\n\n- Tiempo 1: A (6ª cuerda, traste 5)\n- Tiempo 2: C (6ª cuerda, traste 8)\n- Tiempo 3: D (5ª cuerda, traste 5)\n- Tiempo 4: A (5ª cuerda, traste 7) – opcional, si ya conoces bien esa posición\n\nToca lentamente y luego cambia el orden de esas mismas notas para encontrar tu propio lick pequeño."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For this lesson, keep it simple:\n- Stay inside the A minor pentatonic Box 1\n- Use only a few notes at a time\n- Focus on timing and feel\n\nFancy ideas can come later – first make the groove feel solid.",
+          "zh-Hans": "在本课中，请刻意保持简单：\n- 只在A小调五声音阶第1指型里活动\n- 每次只用少量音符\n- 把注意力放在节奏和手感上\n\n花哨的东西以后再说，先让你的律动感变得扎实。",
+          "de": "Halte es für diese Lektion bewusst einfach:\n- Bleib in der A-Moll-Pentatonik Box 1\n- Nutze jeweils nur wenige Töne\n- Konzentriere dich auf Timing und Feeling\n\nDie ausgefallenen Ideen können später kommen – zuerst soll der Groove stabil sein.",
+          "ja": "このレッスンでは、あえてシンプルにいきましょう：\n- Aマイナー・ペンタトニックのボックス1の中だけで弾く\n- いっぺんに使う音は少なめにする\n- 何よりも“タイミングとグルーヴ”に意識を向ける\n\n難しいフレーズは後からいくらでも覚えられます。まずは足元のグルーヴをしっかり固めていきましょう。",
+          "pt-BR": "Nesta lição, a ideia é ser simples de propósito:\n- Fique dentro do desenho 1 da pentatônica de Lá menor\n- Use poucas notas por vez\n- Foque no tempo e na sensação de groove\n\nAs ideias mais “malucas” podem vir depois – primeiro faça o groove ficar firme.",
+          "es": "En esta lección, la idea es mantenerlo simple a propósito:\n- Quédate dentro de la caja 1 de la pentatónica de La menor\n- Usa pocas notas cada vez\n- Concéntrate en el tiempo y en el groove\n\nLas ideas más “locas” pueden venir después; primero haz que el groove sea sólido."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-27T00:00:00Z",
+  "updatedAt": "2025-11-27T00:00:00Z"
+}

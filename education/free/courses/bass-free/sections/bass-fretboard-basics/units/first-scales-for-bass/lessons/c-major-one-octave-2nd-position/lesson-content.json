@@ -1,0 +1,73 @@
+{
+  "id": "c-major-one-octave-2nd-position",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# C major – one octave in 2nd position\nIn this lesson you’ll play a **one-octave C major scale** starting on the 3rd fret of the A string.\n\nYou’ll stay around frets **2–5**, so there are no big stretches and the pattern is easy to repeat anywhere on the neck.",
+          "zh-Hans": "# 第二把位的一组C大调\n在本课中，你会从 A 弦第3品开始，演奏一组 **一组音的C大调音阶**。\n\n整个指型主要在 **第2–5品**，没有大跨度，容易记住，也方便在琴颈其他位置“平移”使用。",
+          "de": "# C-Dur – eine Oktave in der 2. Lage\nIn dieser Lektion spielst du eine **einoktavige C-Dur-Tonleiter**, beginnend im 3. Bund der A-Saite.\n\nDu bleibst etwa zwischen den **Bünden 2–5**, also ohne große Griffe – ein Pattern, das du leicht an andere Stellen des Halses verschieben kannst.",
+          "ja": "# 2ポジションでのCメジャー1オクターブ\nこのレッスンでは、A弦3フレットから始まる **1オクターブのCメジャー・スケール** を弾きます。\n\n使うのは主に **2〜5フレット** なので、無理なストレッチがなく、ネックの別の場所にも移動しやすい形です。",
+          "pt-BR": "# Dó maior – uma oitava na 2ª posição\nNesta lição você vai tocar uma **escala de Dó maior de uma oitava**, começando no 3º traste da corda A.\n\nVocê fica ali pelos **trastes 2 a 5**, sem alongamentos exagerados, em um desenho fácil de repetir em outras regiões do braço.",
+          "es": "# Do mayor – una octava en 2ª posición\nEn esta lección vas a tocar una **escala de Do mayor de una octava**, empezando en el traste 3 de la cuerda A.\n\nTe vas a mover sólo entre los trastes **2–5**, sin estiramientos grandes, en un patrón fácil de repetir en otras partes del mástil."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hand position\n- Stay in **2nd position** (index at fret 2)\n- **Index finger** = fret 2\n- **Middle finger** = fret 3\n- **Ring finger** = fret 4\n- **Little finger** = fret 5\n\nKeep your thumb roughly behind frets 2–3 and let your fingers hover close to the strings.",
+          "zh-Hans": "# 手型位置\n- 保持在**第二把位**（食指在第2品附近）\n- **食指** = 第2品\n- **中指** = 第3品\n- **无名指** = 第4品\n- **小指** = 第5品\n\n大拇指大致在第2–3品的后方，手指自然弯曲，贴近琴弦。",
+          "de": "# Handposition\n- Bleib in der **2. Lage** (Zeigefinger im Bereich des 2. Bundes)\n- **Zeigefinger** = 2. Bund\n- **Mittelfinger** = 3. Bund\n- **Ringfinger** = 4. Bund\n- **Kleiner Finger** = 5. Bund\n\nDer Daumen liegt ungefähr hinter Bund 2–3, die Finger bleiben locker nah über den Saiten.",
+          "ja": "# 手のポジション\n- **2ポジション**（人差し指が2フレット付近）に手を置きます。\n- **人差し指** = 2フレット\n- **中指** = 3フレット\n- **薬指** = 4フレット\n- **小指** = 5フレット\n\n親指は2〜3フレット裏あたりに置き、指先を丸くして弦の近くにキープしましょう。",
+          "pt-BR": "# Posição da mão\n- Fique na **2ª posição** (indicador na região do 2º traste)\n- **Dedo indicador** = 2º traste\n- **Dedo médio** = 3º traste\n- **Dedo anelar** = 4º traste\n- **Dedo mínimo** = 5º traste\n\nDeixe o polegar mais ou menos atrás dos trastes 2–3 e mantenha os dedos curvados, bem próximos das cordas.",
+          "es": "# Posición de la mano\n- Quédate en **2ª posición** (índice a la altura del traste 2)\n- **Dedo índice** = traste 2\n- **Dedo medio** = traste 3\n- **Dedo anular** = traste 4\n- **Dedo meñique** = traste 5\n\nColoca el pulgar más o menos detrás de los trastes 2–3 y mantén los dedos curvados, cerca de las cuerdas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Notes and fingering\nWe’ll start on **C** at the 3rd fret of the 3rd string (A string) and go up to the next **C**.\n\nPlay slowly, one note at a time:\n\n- 3rd string (A), 3rd fret – **C** (finger 2)\n- 3rd string, 5th fret – **D** (finger 4)\n- 2nd string (D), 2nd fret – **E** (finger 1)\n- 2nd string, 3rd fret – **F** (finger 2)\n- 2nd string, 5th fret – **G** (finger 4)\n- 1st string (G), 2nd fret – **A** (finger 1)\n- 1st string, 4th fret – **B** (finger 3)\n- 1st string, 5th fret – **C** (finger 4)",
+          "zh-Hans": "# 音和指法\n我们从第3弦（A弦）第3品的 **C** 开始，一直到上一个 **C**。\n\n慢慢地，一次弹一个音：\n\n- 第3弦（A），第3品 – **C**（2指）\n- 第3弦，第5品 – **D**（4指）\n- 第2弦（D），第2品 – **E**（1指）\n- 第2弦，第3品 – **F**（2指）\n- 第2弦，第5品 – **G**（4指）\n- 第1弦（G），第2品 – **A**（1指）\n- 第1弦，第4品 – **B**（3指）\n- 第1弦，第5品 – **C**（4指）",
+          "de": "# Töne und Fingersätze\nWir beginnen beim **C** im 3. Bund der 3. Saite (A-Saite) und gehen bis zum nächsten **C** hinauf.\n\nSpiele langsam, Ton für Ton:\n\n- 3. Saite (A), 3. Bund – **C** (Finger 2)\n- 3. Saite, 5. Bund – **D** (Finger 4)\n- 2. Saite (D), 2. Bund – **E** (Finger 1)\n- 2. Saite, 3. Bund – **F** (Finger 2)\n- 2. Saite, 5. Bund – **G** (Finger 4)\n- 1. Saite (G), 2. Bund – **A** (Finger 1)\n- 1. Saite, 4. Bund – **B** (Finger 3)\n- 1. Saite, 5. Bund – **C** (Finger 4)",
+          "ja": "# 音とフィンガリング\n3弦（A弦）3フレットの **C** から始めて、その上の **C** まで登っていきます。\n\nゆっくり、1音ずつ弾きましょう：\n\n- 3弦（A） 3フレット – **C**（2の指）\n- 3弦 5フレット – **D**（4の指）\n- 2弦（D） 2フレット – **E**（1の指）\n- 2弦 3フレット – **F**（2の指）\n- 2弦 5フレット – **G**（4の指）\n- 1弦（G） 2フレット – **A**（1の指）\n- 1弦 4フレット – **B**（3の指）\n- 1弦 5フレット – **C**（4の指）",
+          "pt-BR": "# Notas e digitação\nVamos começar no **C** (Dó) do 3º traste da 3ª corda (corda A) e subir até o próximo **C**.\n\nToque devagar, nota por nota:\n\n- 3ª corda (A), 3º traste – **C** (dedo 2)\n- 3ª corda, 5º traste – **D** (dedo 4)\n- 2ª corda (D), 2º traste – **E** (dedo 1)\n- 2ª corda, 3º traste – **F** (dedo 2)\n- 2ª corda, 5º traste – **G** (dedo 4)\n- 1ª corda (G), 2º traste – **A** (dedo 1)\n- 1ª corda, 4º traste – **B** (dedo 3)\n- 1ª corda, 5º traste – **C** (dedo 4)",
+          "es": "# Notas y digitación\nEmpezaremos en **C** (Do) en el traste 3 de la 3ª cuerda (cuerda A) y subiremos hasta el siguiente **C**.\n\nToca despacio, nota por nota:\n\n- 3ª cuerda (A), traste 3 – **C** (dedo 2)\n- 3ª cuerda, traste 5 – **D** (dedo 4)\n- 2ª cuerda (D), traste 2 – **E** (dedo 1)\n- 2ª cuerda, traste 3 – **F** (dedo 2)\n- 2ª cuerda, traste 5 – **G** (dedo 4)\n- 1ª cuerda (G), traste 2 – **A** (dedo 1)\n- 1ª cuerda, traste 4 – **B** (dedo 3)\n- 1ª cuerda, traste 5 – **C** (dedo 4)"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Up and down\n1. Play the notes **up** the scale (C → C)\n2. Then play the same notes **back down** (C → C)\n3. Keep a **steady tempo** – slow is fine\n4. Let each note ring clearly before you move on\n\nFocus on even volume between strings and smooth string crossings.",
+          "zh-Hans": "# 上行和下行\n1. 先按顺序从低到高弹一遍音阶（C → 上面的C）\n2. 再按相反顺序从高到低弹回来（C → 下面的C）\n3. 保持**稳定的节奏**——慢一点完全没问题\n4. 每个音都要先听清楚，再移动到下一个\n\n注意不同琴弦之间音量一致，以及换弦时要流畅、干净。",
+          "de": "# Auf- und abwärts\n1. Spiele die Töne **aufwärts** durch die Tonleiter (C → C)\n2. Spiele dann dieselben Töne **abwärts** zurück (C → C)\n3. Halte ein **gleichmäßiges Tempo** – langsam ist okay\n4. Lass jeden Ton sauber ausklingen, bevor du weitergehst\n\nAchte auf gleichmäßige Lautstärke zwischen den Saiten und weiche Saitenwechsel.",
+          "ja": "# 上がり下がりの練習\n1. まずスケールを**上向き**に弾きます（下のC → 上のC）\n2. 次に同じ音を**下向き**に弾き戻します（上のC → 下のC）\n3. **一定のテンポ**をキープしましょう。ゆっくりでOKです。\n4. 1音ずつ、しっかり鳴らしてから次の音へ進みます。\n\n弦が変わっても音量が揃うように、滑らかな弦移動を意識してください。",
+          "pt-BR": "# Subindo e descendo\n1. Toque as notas **subindo** a escala (C → C)\n2. Depois toque as mesmas notas **descendo** (C → C)\n3. Mantenha um **tempo constante** – devagar está ótimo\n4. Deixe cada nota soar limpa antes de trocar\n\nPreste atenção para manter o volume parecido entre as cordas e fazer trocas de corda suaves.",
+          "es": "# Subir y bajar\n1. Toca las notas **subiendo** la escala (C → C)\n2. Luego toca las mismas notas **bajando** (C → C)\n3. Mantén un **tempo constante** – lento está bien\n4. Deja que cada nota suene clara antes de pasar a la siguiente\n\nFíjate en mantener el mismo volumen entre cuerdas y cambios de cuerda suaves."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "When this pattern feels comfortable, try starting on the same **C** but using different rhythms or simple grooves. It’s the same notes, just making more music out of them.",
+          "zh-Hans": "当这个指型变得顺手之后，试着从同一个 **C** 出发，用不同的节奏或简单的律动来演奏。同样的音符，可以慢慢变成真正的音乐。",
+          "de": "Wenn sich dieses Pattern gut anfühlt, starte beim gleichen **C** und probiere andere Rhythmen oder kleine Grooves aus. Es sind dieselben Töne – du holst nur mehr Musik aus ihnen heraus.",
+          "ja": "このパターンに慣れてきたら、同じ **C** からスタートして、リズムや簡単なグルーヴを変えてみましょう。同じ音でも、弾き方次第でどんどん“音楽”になっていきます。",
+          "pt-BR": "Quando esse desenho estiver confortável, comece no mesmo **C** e experimente outros ritmos ou pequenos grooves. As notas são as mesmas, você só está tirando mais música delas.",
+          "es": "Cuando este patrón se sienta cómodo, empieza en el mismo **C** y prueba otros ritmos o pequeños grooves. Son las mismas notas, sólo estás sacando más música de ellas."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "d-dorian-over-a-static-dm7-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# D Dorian over a static Dm7 groove\nIn this lesson you’ll improvise using **D Dorian** over a **static Dm7 vamp** – one chord, one mode.\n\nThe idea is to relax on a single groove and let your right hand explore **color, rhythm and space** without worrying about chord changes.",
+          "zh-Hans": "# 在固定 Dm7 循环上的 D Dorian 即兴\n本课你会在一个**固定的 Dm7 循环（vamp）**上，用 **D Dorian 调式**做即兴。\n\n核心想法：先只待在一个和弦里，让右手安心地探索**色彩、节奏和留白**，不用急着跟着和弦变化跑。",
+          "de": "# D Dorisch über einem statischen Dm7-Groove\nIn dieser Lektion improvisierst du mit **D Dorisch** über einem **statischen Dm7-Vamp** – ein Akkord, ein Mode.\n\nDie Idee: Du bleibst entspannt auf einem Groove und lässt die rechte Hand **Farbe, Rhythmus und Pausen** erkunden, ohne an Akkordwechsel denken zu müssen.",
+          "ja": "# 固定した Dm7 グルーヴ上での Dドリアン\nこのレッスンでは、**1つの Dm7 のヴァンプ**の上で、**D Dorian** を使って即興していきます。\n\nねらいは、コード進行を気にせず、1つのグルーヴの中で右手が**音の色・リズム・間（スペース）**をゆっくり探っていくことです。",
+          "pt-BR": "# D Dorian sobre um groove estático de Dm7\nNesta lição você vai improvisar usando **D Dorian** em cima de um **vamp estático de Dm7** – um acorde, um modo só.\n\nA ideia é relaxar em um único groove e deixar a mão direita explorar **cor, ritmo e espaço**, sem se preocupar com mudanças de acorde.",
+          "es": "# D Dorian sobre un groove estático de Dm7\nEn esta lección vas a improvisar usando **D Dorian** sobre un **vamp estático de Dm7**: un solo acorde, un solo modo.\n\nLa idea es relajarte en un único groove y dejar que la mano derecha explore **color, ritmo y espacio**, sin preocuparte por cambios de acordes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – The mode and the groove\n**D Dorian scale**:\n- Notes: **D – E – F – G – A – B – C – D**\n\n**Left hand vamp (choose one):**\n- Simple: low **D** on beat 1 of each bar\n- Groove: D–A (octaves) on beats 1 and 3\n- Rich: **Dm7** chord (D–F–A–C) held or played in a light rhythm\n\nKeep the left hand **steady and soft**, like a looped backing track.",
+          "zh-Hans": "# 第一步 – 调式和伴奏律动\n**D Dorian 音阶**：\n- 音：**D – E – F – G – A – B – C – D**\n\n**左手循环（选其一即可）：**\n- 最简单：每小节第 1 拍弹一个低音 **D**\n- 有点律动：在第 1 和第 3 拍弹 D–A（八度）\n- 更丰富：轻轻弹或分解 **Dm7 和弦**（D–F–A–C）\n\n左手要**稳定、轻一点**，像一条无限循环的伴奏带。",
+          "de": "# Schritt 1 – Mode und Groove\n**D-Dorisch-Tonleiter**:\n- Töne: **D – E – F – G – A – H – C – D**\n\n**Linke-Hand-Vamp (such dir eine Variante aus):**\n- Einfach: tiefes **D** auf Zählzeit 1 jeden Takts\n- Groove: D–A (Oktaven) auf 1 und 3\n- Voller: **Dm7** (D–F–A–C) gehalten oder leicht rhythmisch angeschlagen\n\nDie linke Hand bleibt **ruhig und leise**, wie ein geloopter Backing-Track.",
+          "ja": "# ステップ1 – モードとグルーヴを作る\n**D Dorian スケール**：\n- 音：**D – E – F – G – A – B – C – D**\n\n**左手のヴァンプ（どれか1つでOK）：**\n- 超シンプル：毎小節の1拍目に低い **D**\n- すこしグルーヴ：1拍目と3拍目に D–A（オクターブ）\n- もう少しリッチ：**Dm7**（D–F–A–C）を軽いリズムで刻むか、ゆるく伸ばす\n\n左手は**一定でやわらかく**、ループしているバッキングのように保ちます。",
+          "pt-BR": "# Etapa 1 – O modo e o groove\n**Escala D Dorian**:\n- Notas: **D – E – F – G – A – B – C – D**\n\n**Vamp da mão esquerda (escolha um):**\n- Simples: **D** grave no tempo 1 de cada compasso\n- Com groove: D–A (oitavas) nos tempos 1 e 3\n- Mais cheio: acorde de **Dm7** (D–F–A–C) segurando ou em um ritmo leve\n\nDeixe a mão esquerda **estável e suave**, como se fosse uma base em loop.",
+          "es": "# Paso 1 – El modo y el groove\n**Escala D Dorian**:\n- Notas: **D – E – F – G – A – B – C – D**\n\n**Vamp de la mano izquierda (elige uno):**\n- Simple: **D** grave en el tiempo 1 de cada compás\n- Con groove: D–A (octavas) en los tiempos 1 y 3\n- Más lleno: acorde **Dm7** (D–F–A–C) sostenido o en un ritmo ligero\n\nMantén la mano izquierda **estable y suave**, como una base en bucle."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Target notes and safe shapes\nOn D Dorian, some notes are extra strong:\n- **Chord tones**: D, F, A, C (tones of Dm7)\n- **Color tone**: **B** (natural 6 – gives the Dorian flavor)\n\nTwo safe right-hand shapes near middle D:\n- **Shape 1 (chord tones)**: D–F–A–C\n- **Shape 2 (Dorian color)**: E–F–G–A–B\n\nFirst, just make little **2–3 note ideas** using these shapes, always landing back on **D or F**.",
+          "zh-Hans": "# 第二步 – 目标音和“安全区域”\n在 D Dorian 里，有些音特别稳：\n- **和弦音**：D、F、A、C（Dm7 的构成音）\n- **色彩音**：**B**（自然 6 度，带来 Dorian 的味道）\n\n右手在中央 D 附近可以先用这两个“安全指型”：\n- **指型 1（和弦音）**：D–F–A–C\n- **指型 2（Dorian 色彩）**：E–F–G–A–B\n\n先只用其中 2～3 个音，做**很短的小想法**，最后多落在 **D 或 F** 上收尾，会更稳定好听。",
+          "de": "# Schritt 2 – Zieltöne und sichere Formen\nIn D Dorisch sind manche Töne besonders stark:\n- **Akkordtöne**: D, F, A, C (Töne von Dm7)\n- **Farbeton**: **H** (große Sexte – gibt den dorischen Klang)\n\nZwei sichere Formen für die rechte Hand in der Nähe des eingestrichenen D:\n- **Form 1 (Akkordtöne)**: D–F–A–C\n- **Form 2 (dorische Farbe)**: E–F–G–A–H\n\nBaue zuerst kleine **2–3-Ton-Ideen** aus diesen Formen und lande am besten auf **D oder F**, damit es stabil klingt.",
+          "ja": "# ステップ2 – 着地ポイントと安心ゾーン\nD Dorian の中でも、とくに強い音があります：\n- **コードトーン**：D, F, A, C（Dm7 を作る音）\n- **カラー・トーン**：**B**（ナチュラル6度。ドリアンらしさの源）\n\n中央Dまわりで使いやすい右手の形：\n- **形1（コードトーン）**：D–F–A–C\n- **形2（ドリアンの色）**：E–F–G–A–B\n\nまずはこの中から **2〜3音だけ**選んで短いフレーズを作り、最後はできるだけ **D か F** で落ち着かせると安定して聞こえます。",
+          "pt-BR": "# Etapa 2 – Notas-alvo e “zonas seguras”\nNo D Dorian, algumas notas são especialmente fortes:\n- **Notas do acorde**: D, F, A, C (Dm7)\n- **Nota de cor**: **B** (6ª maior – dá o sabor Dorian)\n\nDuas formas seguras na mão direita, perto do D central:\n- **Forma 1 (notas do acorde)**: D–F–A–C\n- **Forma 2 (cor Dorian)**: E–F–G–A–B\n\nComece criando **idéias curtinhas de 2–3 notas** usando essas formas, sempre voltando para **D ou F** como nota de chegada.",
+          "es": "# Paso 2 – Notas objetivo y zonas seguras\nEn D Dorian hay notas especialmente fuertes:\n- **Notas de acorde**: D, F, A, C (Dm7)\n- **Nota de color**: **B** (6ª mayor, da el sabor dórico)\n\nDos formas seguras para la mano derecha cerca del D central:\n- **Forma 1 (notas de acorde)**: D–F–A–C\n- **Forma 2 (color Dorian)**: E–F–G–A–B\n\nEmpieza creando **ideas muy cortas de 2–3 notas** con estas formas, y procura caer de vuelta en **D o F**, que suenan más estables."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Rhythm first, notes second\nTo sound musical, rhythm matters as much as note choice.\n\nTry these **right-hand rhythms** over the Dm7 vamp:\n- Four **even 8th notes** per bar (1 & 2 & 3 & 4 &)\n- Two 8ths, then a **quarter rest** (play–play–space)\n- A **syncopated** hit on the “& of 2” or “& of 3”\n\nKeep the notes simple (2–4 notes from your shapes) and change only the **rhythm pattern** for a while.",
+          "zh-Hans": "# 第三步 – 先有节奏，再挑音\n要听起来像音乐，节奏和选音一样重要。\n\n在 Dm7 循环上试试这些**右手机器节奏**：\n- 每小节 4 个**平均的八分音符**（1 & 2 & 3 & 4 &）\n- 两个八分音符 + 一个**四分休止**（弹–弹–停）\n- 在“2 的后半拍”或“3 的后半拍”上做一个**切分**重音\n\n先不要玩太多音高变化，就在 2–4 个熟悉的音里动，把重点放在**节奏型的变化**上。",
+          "de": "# Schritt 3 – Rhythmus zuerst, Töne danach\nDamit es musikalisch klingt, ist Rhythmus mindestens so wichtig wie die Töne.\n\nProbier diese **rechte-Hand-Rhythmen** über dem Dm7-Vamp:\n- Vier **gleichmäßige Achtelnoten** pro Takt (1 & 2 & 3 & 4 &)\n- Zwei Achtel, dann eine **Viertelpause** (spielen–spielen–Pause)\n- **Synkope** auf dem „&“ von 2 oder auf dem „&“ von 3\n\nHalte die Töne simpel (2–4 Töne aus deinen Formen) und verändere eine Zeit lang nur das **Rhythmus-Muster**.",
+          "ja": "# ステップ3 – 音より先にリズム\n音選びと同じくらい、リズムも大事です。\n\nDm7 のヴァンプの上で、右手でこんな**リズム・パターン**を試してみましょう：\n- 1小節に**均等な8分音符4つ**（1 & 2 & 3 & 4 &）\n- 8分音符2つ＋**4分休符**（鳴らす–鳴らす–休む）\n- 「2の裏」や「3の裏」で**シンコペーション**のアクセントを入れる\n\n使う音は 2〜4音に絞ってOK。そのまましばらくは**リズムだけを変える練習**に集中してみてください。",
+          "pt-BR": "# Etapa 3 – Ritmo em primeiro lugar\nPara soar musical, o ritmo é tão importante quanto as notas.\n\nExperimente estes **padrões rítmicos** na mão direita, sobre o vamp de Dm7:\n- Quatro **colcheias bem regulares** por compasso (1 & 2 & 3 & 4 &)\n- Duas colcheias e depois uma **pausa de semínima** (toca–toca–silêncio)\n- Um ataque **síncopado** no “e do 2” ou “e do 3”\n\nMantenha as notas simples (2–4 notas das suas formas) e mude só o **desenho rítmico** por um tempo.",
+          "es": "# Paso 3 – Ritmo primero, notas después\nPara sonar musical, el ritmo importa tanto como la elección de notas.\n\nPrueba estos **ritmos de mano derecha** sobre el vamp de Dm7:\n- Cuatro **corcheas parejas** por compás (1 & 2 & 3 & 4 &)\n- Dos corcheas y luego una **negra de silencio** (tocar–tocar–espacio)\n- Un acento **síncopado** en el “& de 2” o “& de 3”\n\nMantén las notas simples (2–4 notas de tus formas) y cambia solo el **patrón rítmico** durante un rato."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Set up a **Dm7 vamp** (left hand only) and keep it looping.\n2. Play only **chord tones** (D, F, A, C) with the right hand until it feels easy.\n3. Add the Dorian color tone **B**, but always **resolve back** to D or F.\n4. Pick one simple **rhythm pattern** and improvise for 1–2 minutes without stopping.\n5. Then change the rhythm but keep the **same few notes**, and notice how the groove changes.\n\nIf you can stay on D Dorian for a few minutes without getting bored, you’re really starting to think and hear **modally**, not just running scales.",
+          "zh-Hans": "## 快速练习\n1. 先搭好一个只用左手弹的 **Dm7 循环**，让它一直转。\n2. 右手只弹 **和弦音**（D, F, A, C），直到觉得非常轻松。\n3. 再加入 Dorian 的色彩音 **B**，但记得常常**回到 D 或 F** 收尾。\n4. 选一个简单的**节奏型**，连续即兴 1–2 分钟，中途不要停。\n5. 然后换一个节奏型，但尽量用**同一组少量音**，感受一下律动是怎么变的。\n\n当你能在 D Dorian 上待上几分钟都不觉得无聊时，说明你真的开始用**调式的耳朵和思维**在弹，而不仅仅是在跑音阶。",
+          "de": "## Kurze Übung\n1. Richte dir einen **Dm7-Vamp** ein (nur linke Hand) und lass ihn durchlaufen.\n2. Spiele mit der rechten Hand nur **Akkordtöne** (D, F, A, C), bis es sich ganz leicht anfühlt.\n3. Füge den dorischen Farbeton **H** hinzu, aber **löse oft zurück** nach D oder F.\n4. Such dir ein einfaches **Rhythmuspattern** aus und improvisiere 1–2 Minuten am Stück.\n5. Dann wechsle den Rhythmus, behalte aber **dieselben paar Töne** und höre, wie sich der Groove verändert.\n\nWenn du ein paar Minuten auf D Dorisch bleiben kannst, ohne dich zu langweilen, fängst du wirklich an, **modal zu denken und zu hören**, statt nur Tonleitern rauf und runter zu spielen.",
+          "ja": "## かんたん練習\n1. まず左手だけで **Dm7 のヴァンプ**を作り、ずっとループさせます。\n2. 右手は **コードトーン**（D, F, A, C）だけでフレーズを作り、楽に回せるまで続けます。\n3. そこに Dorian のカラー・トーン **B** を足しつつ、ときどき必ず **D か F に戻って**着地させます。\n4. シンプルな**リズム・パターンを1つ**決めて、1〜2分止まらずに即興してみましょう。\n5. 次に、使う音はほぼそのままで**リズムだけ変えて**弾き、グルーヴの雰囲気がどう変わるかを感じてみてください。\n\nD Dorian ひとつで数分楽しめるようになってきたら、ただスケールを上下しているのではなく、ちゃんと**モードとして捉えて弾けている**サインです。",
+          "pt-BR": "## Prática rápida\n1. Monte um **vamp de Dm7** (só com a mão esquerda) e deixe rodando.\n2. Toque apenas as **notas do acorde** (D, F, A, C) com a mão direita até ficar muito fácil.\n3. Adicione a nota de cor Dorian **B**, mas sempre **resolva de volta** em D ou F.\n4. Escolha um **padrão rítmico simples** e improvise por 1–2 minutos sem parar.\n5. Depois mude o ritmo, mantendo **as mesmas poucas notas**, e perceba como o groove muda.\n\nSe você consegue ficar alguns minutos só em D Dorian sem enjoar, é sinal de que está começando a pensar e ouvir de forma **modal**, e não apenas “subindo e descendo escala”.",
+          "es": "## Práctica rápida\n1. Monta un **vamp de Dm7** (solo mano izquierda) y déjalo en bucle.\n2. Con la mano derecha toca solo las **notas del acorde** (D, F, A, C) hasta que se sienta muy cómodo.\n3. Añade la nota de color dórico **B**, pero **resuelve a menudo** en D o F.\n4. Elige un **patrón rítmico sencillo** e improvisa 1–2 minutos sin parar.\n5. Luego cambia el ritmo pero mantén **las mismas pocas notas**, y nota cómo cambia el groove.\n\nSi puedes quedarte varios minutos en D Dorian sin aburrirte, es que de verdad estás empezando a pensar y escuchar de forma **modal**, no solo a correr escalas arriba y abajo."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

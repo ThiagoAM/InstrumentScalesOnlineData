@@ -1,0 +1,73 @@
+{
+  "id": "using-scales-to-connect-chords",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Using scales to connect chords\nIn this lesson you’ll use **scale notes as “glue”** between chords.\n\nInstead of jumping straight from chord to chord, you’ll add **stepwise notes from the scale** so your lines sound smoother and more melodic.",
+          "zh-Hans": "# 用音阶把和弦连起来\n本课你会用**音阶音做“胶水”**来连接和弦。\n\n不再只是从一个和弦直接跳到下一个，而是在中间加入**顺阶的音阶音**，让旋律听起来更平滑、更有歌唱性。",
+          "de": "# Skalen nutzen, um Akkorde zu verbinden\nIn dieser Lektion verwendest du **Töne der Tonleiter als „Kleber“** zwischen Akkorden.\n\nStatt von Akkord zu Akkord zu springen, fügst du **schrittweise Skalentöne** dazwischen ein, damit deine Linien weicher und melodischer klingen.",
+          "ja": "# スケールを使ってコードをつなぐ\nこのレッスンでは、**スケールの音を“のり”のように使って**コード同士をつなぎます。\n\nコードからコードへただ飛ぶのではなく、その間に**スケール上の順次進行**を入れて、よりなめらかで歌いやすいフレーズにしていきます。",
+          "pt-BR": "# Usando escalas para conectar acordes\nNesta lição você vai usar **notas da escala como “cola”** entre os acordes.\n\nEm vez de pular direto de um acorde para o outro, você vai colocar **notas em movimento conjunto da escala** no meio, deixando as linhas mais suaves e melódicas.",
+          "es": "# Usar escalas para conectar acordes\nEn esta lección vas a usar **notas de la escala como “pegamento”** entre los acordes.\n\nEn lugar de saltar directamente de un acorde a otro, vas a añadir **notas de la escala en movimiento conjunto**, para que tus líneas suenen más suaves y melódicas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Chord tones and scale steps\nWe’ll stay in **C major**.\n\n- **Chord tones**: notes that belong to the chord (for C: C–E–G)\n- **Scale steps**: notes that move by step in the scale (…C–D–E–F–G…)\n\nThe idea:\n- Aim for **chord tones on strong beats**\n- Use **nearby scale notes** on weaker beats to lead into the next chord tone",
+          "zh-Hans": "# 和弦音与音阶级进\n我们先待在 **C大调** 里。\n\n- **和弦音**：属于和弦本身的音（比如 C 和弦：C–E–G）\n- **音阶级进**：在音阶里按级进移动的音（…C–D–E–F–G…）\n\n核心想法：\n- 让**强拍落在和弦音**上\n- 在弱拍用**附近的音阶音**，把耳朵“带”到下一个和弦音上",
+          "de": "# Akkordtöne und Skalenschritte\nWir bleiben in **C-Dur**.\n\n- **Akkordtöne**: Töne, die zum Akkord gehören (bei C: C–E–G)\n- **Skalenschritte**: Töne, die sich in der Tonleiter Schritt für Schritt bewegen (…C–D–E–F–G…)\n\nDie Idee:\n- **Starke Zählzeiten** möglichst auf **Akkordtönen** landen\n- Dazwischen **nahe Skalentöne** nutzen, um in den nächsten Akkordton hineinzuführen",
+          "ja": "# コードトーンとスケールのステップ\nここでは **Cメジャー** を使います。\n\n- **コードトーン**：そのコードに含まれる音（C の場合：C–E–G）\n- **スケールのステップ**：スケール上を1音ずつ進む音列（…C–D–E–F–G…）\n\nポイント：\n- **強拍ではコードトーン**に着地する\n- その合間の弱拍で、**近いスケール音**を使って次のコードトーンへ導く",
+          "pt-BR": "# Notas do acorde e graus da escala\nVamos ficar em **Dó maior**.\n\n- **Notas do acorde**: notas que formam o acorde (no C: C–E–G)\n- **Graus da escala**: notas que andam de passo em passo na escala (…C–D–E–F–G…)\n\nA ideia é:\n- Colocar as **batidas fortes** em **notas do acorde**\n- Usar **notas vizinhas da escala** nas partes fracas para conduzir até a próxima nota do acorde",
+          "es": "# Notas del acorde y grados de la escala\nNos quedamos en **Do mayor**.\n\n- **Notas del acorde**: notas que pertenecen al acorde (para C: C–E–G)\n- **Grados de la escala**: notas que avanzan paso a paso en la escala (…C–D–E–F–G…)\n\nLa idea es:\n- Colocar los **tiempos fuertes** en **notas del acorde**\n- Usar **notas vecinas de la escala** en los tiempos débiles para guiar hacia la siguiente nota del acorde"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Example 1 – Connecting I to IV (C to F)\nChord change: **C → F**\n\nRight hand, quarter notes:\n- Over C: **C – D – E – G**\n- Then move into F: **F – E – F – A**\n\nWhat’s happening:\n- Start on a **chord tone** (C)\n- Walk **by step** (C–D–E) before landing on G\n- On F, again aim for **F or A**, filling the space with nearby scale notes",
+          "zh-Hans": "# 示例一 – 从 I 到 IV（C 到 F）\n和弦变化：**C → F**\n\n右手用四分音符：\n- 在 C 上弹：**C – D – E – G**\n- 然后进入 F：**F – E – F – A**\n\n这里发生了什么：\n- 从一个**和弦音**（C）出发\n- 用音阶的**级进**（C–D–E）走一走再落在 G 上\n- 换到 F 和弦时，再次瞄准 **F 或 A**，中间用附近的音阶音填充",
+          "de": "# Beispiel 1 – I nach IV verbinden (C nach F)\nAkkordwechsel: **C → F**\n\nRechte Hand, Viertelnoten:\n- Über C: **C – D – E – G**\n- Dann nach F: **F – E – F – A**\n\nWas passiert hier?\n- Beginn auf einem **Akkordton** (C)\n- **Schrittweise** Bewegung (C–D–E), bevor du auf G landest\n- Beim F-Akkord zielst du wieder auf **F oder A**, und füllst den Weg mit benachbarten Skalentönen",
+          "ja": "# 例1 – I から IV へ（C から F）\nコード進行：**C → F**\n\n右手で4分音符：\n- C の上で：**C – D – E – G**\n- そのあと F へ：**F – E – F – A**\n\n起きていること：\n- まず **コードトーン**（C）からスタート\n- C–D–E と**順次進行**してから G に着地\n- F のコードでは、また **F や A** などのコードトーンに向かいながら、近くのスケール音で道をつないでいる",
+          "pt-BR": "# Exemplo 1 – Conectando I com IV (C para F)\nMudança de acorde: **C → F**\n\nMão direita em semínimas:\n- Sobre C: **C – D – E – G**\n- Depois entrando em F: **F – E – F – A**\n\nO que está acontecendo:\n- Você começa em uma **nota do acorde** (C)\n- Caminha em **movimento conjunto** (C–D–E) antes de cair em G\n- No acorde de F, mira de novo em **F ou A**, preenchendo o caminho com notas vizinhas da escala",
+          "es": "# Ejemplo 1 – Conectando I con IV (C a F)\nCambio de acorde: **C → F**\n\nMano derecha en negras:\n- Sobre C: **C – D – E – G**\n- Luego entrando en F: **F – E – F – A**\n\nQué pasa aquí:\n- Empiezas en una **nota del acorde** (C)\n- Caminas **por grados conjuntos** (C–D–E) antes de caer en G\n- En el acorde de F vuelves a apuntar a **F o A**, rellenando el camino con notas cercanas de la escala"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Example 2 – Connecting ii–V–I (Dm → G → C)\nProgression: **Dm | G | C | C**\n\nRight hand idea (all in C major):\n- Over Dm: **D – E – F – A**\n- Over G: **G – A – B – D**\n- Over C: **E – D – C – C**\n\nYou’re:\n- Starting and landing on **chord tones**\n- Filling the space with **nearby scale notes**\n\nIt’s still just the C major scale, but now it **traces the harmony** clearly.",
+          "zh-Hans": "# 示例二 – 连接 ii–V–I（Dm → G → C）\n和弦走向：**Dm | G | C | C**\n\n右手示例（全部用 C 大调音）：\n- 在 Dm 上：**D – E – F – A**\n- 在 G 上：**G – A – B – D**\n- 在 C 上：**E – D – C – C**\n\n这里你在做的是：\n- 用**和弦音作为起点和落点**\n- 中间空间用**附近的音阶音**填满\n\n听起来像是在跑音阶，但其实是在**清楚勾勒和声**。",
+          "de": "# Beispiel 2 – ii–V–I verbinden (Dm → G → C)\nFolge: **Dm | G | C | C**\n\nRechte Hand (nur C-Dur-Töne):\n- Über Dm: **D – E – F – A**\n- Über G: **G – A – H – D**\n- Über C: **E – D – C – C**\n\nDu:\n- Startest und landest auf **Akkordtönen**\n- Füllst den Weg mit **benachbarten Skalentönen**\n\nEs ist weiterhin nur die C-Dur-Tonleiter, aber sie **zeichnet die Harmonie** deutlich nach.",
+          "ja": "# 例2 – ii–V–I をつなぐ（Dm → G → C）\n進行：**Dm | G | C | C**\n\n右手の例（すべて Cメジャーの音）：\n- Dm の上で：**D – E – F – A**\n- G の上で：**G – A – B – D**\n- C の上で：**E – D – C – C**\n\nここでやっていること：\n- **コードトーンを出発点とゴール**に使い\n- その間を**近くのスケール音**でつないでいる\n\n使っているのは Cメジャー・スケールだけですが、しっかりと**ハーモニーの流れをなぞって**います。",
+          "pt-BR": "# Exemplo 2 – Conectando ii–V–I (Dm → G → C)\nProgressão: **Dm | G | C | C**\n\nIdeia para a mão direita (tudo em Dó maior):\n- Sobre Dm: **D – E – F – A**\n- Sobre G: **G – A – B – D**\n- Sobre C: **E – D – C – C**\n\nVocê está:\n- Começando e terminando em **notas do acorde**\n- Preenchendo o caminho com **notas vizinhas da escala**\n\nContinua sendo apenas a escala de Dó maior, mas agora ela **desenha claramente a harmonia**.",
+          "es": "# Ejemplo 2 – Conectando ii–V–I (Dm → G → C)\nProgresión: **Dm | G | C | C**\n\nIdea para la mano derecha (todo en Do mayor):\n- Sobre Dm: **D – E – F – A**\n- Sobre G: **G – A – B – D**\n- Sobre C: **E – D – C – C**\n\nLo que haces es:\n- Empezar y terminar en **notas del acorde**\n- Rellenar el espacio con **notas vecinas de la escala**\n\nSigue siendo solo la escala de Do mayor, pero ahora **dibuja claramente la armonía**."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Choose one progression in C major, for example:\n   - **C – F – G – C** or **Dm – G – C – C**.\n2. Left hand: play **simple block chords** (root position), 4 beats each.\n3. Right hand: for each bar:\n   - Start on a **chord tone**\n   - Move using **C major scale steps**\n   - Land on a **chord tone of the next chord** when it changes\n4. Keep the tempo slow and focus on **smooth, stepwise motion**.\n\nOnce this feels natural, start experimenting with **different rhythms** while keeping the idea the same: chord tones on the strong beats, scale notes connecting everything.",
+          "zh-Hans": "## 快速练习\n1. 在 C 大调里选一个和弦走向，例如：\n   - **C – F – G – C** 或 **Dm – G – C – C**。\n2. 左手：先只弹**原位齐奏和弦**，每个和弦 4 拍。\n3. 右手：每小节这样设计旋律：\n   - 从当前和弦的**和弦音**开始\n   - 中间用 **C 大调音阶的级进**走动\n   - 换和弦时，落在**下一个和弦的和弦音**上\n4. 速度放慢，重点放在**平滑的级进线条**上。\n\n当这一切变得自然后，可以开始尝试**不同的节奏型**，但保留核心原则：强拍用和弦音，音阶音负责把所有东西顺畅地连起来。",
+          "de": "## Kurze Übung\n1. Wähle eine Akkordfolge in C-Dur, z.B.:\n   - **C – F – G – C** oder **Dm – G – C – C**.\n2. Linke Hand: spiele **einfache Blockakkorde** in Grundstellung, jeweils 4 Schläge.\n3. Rechte Hand: gestalte für jeden Takt eine Linie:\n   - Beginne auf einem **Akkordton**\n   - Bewege dich mit **Schritten der C-Dur-Tonleiter**\n   - Lande beim Akkordwechsel auf einem **Akkordton des nächsten Akkords**\n4. Halte das Tempo langsam und konzentriere dich auf **weiche, schrittweise Bewegung**.\n\nWenn sich das natürlich anfühlt, experimentiere mit **anderen Rhythmen**, aber behalte die Idee bei: Akkordtöne auf den starken Zählzeiten, Skalentöne als Verbindung.",
+          "ja": "## かんたん練習\n1. Cメジャーの中から1つコード進行を選びます。例：\n   - **C – F – G – C** または **Dm – G – C – C**。\n2. 左手：**ルートポジションの和音**をブロックで弾き、各コード4拍ずつキープします。\n3. 右手：各小節で次のようにフレーズを作ります。\n   - 今のコードの**コードトーン**からスタート\n   - 間を **Cメジャー・スケールの順次進行**でつなぐ\n   - コードチェンジのタイミングで、**次のコードのコードトーン**に着地する\n4. テンポはゆっくり、**なめらかなステップ進行**を最優先にします。\n\n慣れてきたら、**リズムだけ変えながら**同じ考え方を保ってみてください。強拍にコードトーン、スケール音でその間をつなぐ、という軸はずっと同じです。",
+          "pt-BR": "## Prática rápida\n1. Escolha uma progressão em Dó maior, por exemplo:\n   - **C – F – G – C** ou **Dm – G – C – C**.\n2. Mão esquerda: toque **acordes em bloco** em posição fundamental, 4 tempos cada.\n3. Mão direita: em cada compasso:\n   - Comece em uma **nota do acorde atual**\n   - Caminhe usando **graus da escala de Dó maior**\n   - Caia em uma **nota do próximo acorde** quando ele entrar\n4. Mantenha o andamento lento e foque em um **movimento conjunto bem suave**.\n\nQuando isso estiver natural, comece a testar **outros ritmos**, mas mantendo a mesma ideia: notas do acorde nos tempos fortes e notas da escala conectando tudo.",
+          "es": "## Práctica rápida\n1. Elige una progresión en Do mayor, por ejemplo:\n   - **C – F – G – C** o **Dm – G – C – C**.\n2. Mano izquierda: toca **acordes en bloque** en posición fundamental, 4 pulsos cada uno.\n3. Mano derecha: en cada compás:\n   - Empieza en una **nota del acorde actual**\n   - Muévete usando **grados de la escala de Do mayor**\n   - Aterriza en una **nota del siguiente acorde** cuando cambie\n4. Mantén el tempo lento y concéntrate en un **movimiento conjunto suave**.\n\nCuando esto se sienta natural, empieza a probar **distintos ritmos**, manteniendo la misma idea: notas del acorde en los tiempos fuertes y notas de la escala uniendo todo."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-12-02T00:00:00Z",
+  "updatedAt": "2025-12-02T00:00:00Z"
+}

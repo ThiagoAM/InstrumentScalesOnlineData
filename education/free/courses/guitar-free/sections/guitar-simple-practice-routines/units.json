@@ -1,0 +1,59 @@
+[
+  {
+    "id": "warm-up-coordination",
+    "name": {
+      "values": {
+        "en": "Warm-Up & Coordination",
+        "zh-Hans": "热身与协调",
+        "de": "Aufwärmen & Koordination",
+        "ja": "ウォームアップ＆コーディネーション",
+        "pt-BR": "Aquecimento e coordenação",
+        "es": "Calentamiento y coordinación"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Short exercises to warm up your fingers and improve coordination.",
+        "zh-Hans": "通过短练习为手指热身并提高手指协调性。",
+        "de": "Kurze Übungen zum Aufwärmen der Finger und zur Verbesserung der Koordination.",
+        "ja": "指のウォームアップと運指の連携を高めるための短いエクササイズ。",
+        "pt-BR": "Exercícios curtos para aquecer os dedos e melhorar a coordenação.",
+        "es": "Ejercicios cortos para calentar los dedos y mejorar la coordinación."
+      }
+    },
+    "image": { "type": "asset", "name": "guitar_unit_warm_up_coordination" },
+    "order": 1,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  },
+  {
+    "id": "first-improvisation-ideas",
+    "name": {
+      "values": {
+        "en": "First Improvisation Ideas",
+        "zh-Hans": "初步即兴创意",
+        "de": "Erste Improvisationsideen",
+        "ja": "最初のインプロビゼーション・アイデア",
+        "pt-BR": "Primeiras ideias de improviso",
+        "es": "Primeras ideas de improvisación"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Start using scales to create simple improvisation phrases.",
+        "zh-Hans": "开始使用音阶创造简单的即兴乐句。",
+        "de": "Beginne, Tonleitern zu nutzen, um einfache Improvisationsphrasen zu erstellen.",
+        "ja": "スケールを使って簡単なインプロフレーズを作り始めましょう。",
+        "pt-BR": "Comece a usar escalas para criar frases simples de improviso.",
+        "es": "Empieza a usar escalas para crear frases sencillas de improvisación."
+      }
+    },
+    "image": {
+      "type": "asset",
+      "name": "guitar_unit_first_improvisation_ideas"
+    },
+    "order": 2,
+    "createdAt": "2025-11-27T00:00:00Z",
+    "updatedAt": "2025-11-27T00:00:00Z"
+  }
+]

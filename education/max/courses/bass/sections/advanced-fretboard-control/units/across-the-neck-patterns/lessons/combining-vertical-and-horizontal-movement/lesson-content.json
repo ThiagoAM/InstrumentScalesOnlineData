@@ -1,0 +1,73 @@
+{
+  "id": "combining-vertical-and-horizontal-movement",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Combining vertical and horizontal movement\nBass lines feel much more free when you can move **up and down a position (vertical)** and also **along the neck (horizontal)**.\n\nIn this lesson you will:\n- Mix **position playing** with **shifts up the neck**\n- Connect **small box shapes** into longer lines\n- Make fills that travel **without losing the groove**\n\nThink of the neck as a grid: you’re learning to move both **up/down** and **left/right** on purpose.",
+          "zh-Hans": "# 结合纵向和横向的移动\n当你既能在一个把位里**上下移动（纵向）**，又能沿着琴颈**左右移动（横向）**时，贝斯线会自由很多。\n\n本课你会：\n- 把**固定把位**和**向上换把**结合起来\n- 把小的“格子指型”连成**更长的线条**\n- 做出既能“跑动”又**不丢 groove** 的填充\n\n把指板想成一个网格：你要学会有意识地在里面**上下 + 左右**移动。",
+          "de": "# Vertikale und horizontale Bewegung kombinieren\nBasslinien werden viel freier, wenn du dich **in einer Lage rauf und runter (vertikal)** und auch **den Hals entlang (horizontal)** bewegen kannst.\n\nIn dieser Lektion wirst du:\n- **Lagenspiel** mit **Lagenwechseln nach oben** kombinieren\n- Kleine **„Box“-Patterns** zu längeren Linien verbinden\n- Fills spielen, die sich bewegen, aber **den Groove nicht verlieren**\n\nStell dir das Griffbrett wie ein Gitter vor: du lernst, dich bewusst **auf und ab** und **hin und her** zu bewegen.",
+          "ja": "# 縦方向と横方向の動きを組み合わせる\nベースラインは、1つのポジションで**上下（縦）に動く**だけでなく、ネックを**横方向（横）に移動**できるようになると一気に自由になります。\n\nこのレッスンでは：\n- **ポジション内の動き**と**ネックを登るシフト**を組み合わせる\n- 小さな“ボックス型”をつなげて**長いライン**を作る\n- 動きのあるフィルを入れても**グルーヴを崩さない**ようにする\n\n指板をマス目のようにイメージして、**上下＋左右**に意図的に動けるようにするのが狙いです。",
+          "pt-BR": "# Combinando movimento vertical e horizontal\nAs linhas de baixo ficam muito mais soltas quando você consegue se mover **pra cima e pra baixo na posição (vertical)** e também **ao longo do braço (horizontal)**.\n\nNesta lição você vai:\n- Misturar **toque em posição** com **subidas pelo braço**\n- Ligar pequenos **“quadrados” de escala** em linhas mais longas\n- Criar fills que viajam sem **quebrar o groove**\n\nPense no braço como uma grade: você está aprendendo a se mover **pra cima/baixo** e **pros lados** de forma consciente.",
+          "es": "# Combinando movimiento vertical y horizontal\nLas líneas de bajo se sienten mucho más libres cuando puedes moverte **arriba y abajo en una posición (vertical)** y también **a lo largo del mástil (horizontal)**.\n\nEn esta lección vas a:\n- Mezclar **tocar en posición** con **desplazamientos hacia arriba**\n- Conectar pequeñas **“cajas” de escala** en líneas más largas\n- Crear fills que se muevan sin **perder el groove**\n\nImagina el mástil como una cuadrícula: vas a aprender a moverte **arriba/abajo** y **a los lados** con intención."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 1 – Vertical scale fragment in one position\nKey: **C major**. We’ll start in 3rd position (frets 3–5).\n\nPlay this **vertical fragment** up and down:\n- A string: 3rd fret **C**, 5th fret **D**\n- D string: 2nd fret **E**, 3rd fret **F**, 5th fret **G**\n- G string: 2nd fret **A**, 4th fret **B**, 5th fret **C**\n\nStay in this position for a while. Get used to **hearing C major** without moving the hand up the neck.",
+          "zh-Hans": "# 第一步 —— 在单一把位里的纵向音阶片段\n调性：**C 大调**。先在第 3 把位附近练（大约 3–5 品）。\n\n先在一个把位里做这个**纵向片段**，上下弹：\n- A 弦：3 品 **C**，5 品 **D**\n- D 弦：2 品 **E**，3 品 **F**，5 品 **G**\n- G 弦：2 品 **A**，4 品 **B**，5 品 **C**\n\n先只在这个把位多待一会儿，习惯在**不换把**的情况下听出 C 大调的声音。",
+          "de": "# Schritt 1 – Vertikales Skalenfragment in einer Lage\nTonart: **C-Dur**. Wir starten etwa in der 3. Lage (Bünde 3–5).\n\nSpiele dieses **vertikale Fragment** auf- und abwärts:\n- A-Saite: 3. Bund **C**, 5. Bund **D**\n- D-Saite: 2. Bund **E**, 3. Bund **F**, 5. Bund **G**\n- G-Saite: 2. Bund **A**, 4. Bund **B**, 5. Bund **C**\n\nBleib eine Weile in dieser Lage. Gewöhn dich daran, **C-Dur zu hören**, ohne die Hand den Hals hinaufzuschieben.",
+          "ja": "# ステップ1 – 1つのポジションでの縦方向スケール・フレーズ\nキー：**Cメジャー**。まずは3フレット周辺のポジション（3〜5フレット）から始めます。\n\nこの**縦方向のフレーズ**を上下に弾きましょう：\n- A弦：3フレット **C**、5フレット **D**\n- D弦：2フレット **E**、3フレット **F**、5フレット **G**\n- G弦：2フレット **A**、4フレット **B**、5フレット **C**\n\nしばらくはこのポジションのまま。手を移動させずに、**Cメジャーの響き**をしっかり感じるのが目的です。",
+          "pt-BR": "# Passo 1 – Fragmento vertical de escala em uma posição\nTonalidade: **Dó maior**. Vamos começar ali pela 3ª posição (casas 3 a 5).\n\nToque esse **fragmento vertical** subindo e descendo:\n- Corda A: casa 3 **C**, casa 5 **D**\n- Corda D: casa 2 **E**, casa 3 **F**, casa 5 **G**\n- Corda G: casa 2 **A**, casa 4 **B**, casa 5 **C**\n\nFique um tempo só nessa posição. A ideia é se acostumar a ouvir **Dó maior** sem ainda subir pelo braço.",
+          "es": "# Paso 1 – Fragmento de escala vertical en una posición\nTonalidad: **Do mayor**. Empezamos alrededor de la 3ª posición (trastes 3–5).\n\nToca este **fragmento vertical** subiendo y bajando:\n- Cuerda A: traste 3 **C**, traste 5 **D**\n- Cuerda D: traste 2 **E**, traste 3 **F**, traste 5 **G**\n- Cuerda G: traste 2 **A**, traste 4 **B**, traste 5 **C**\n\nQuédate un rato sólo en esta posición. Acostúmbrate a escuchar **Do mayor** sin mover todavía la mano por el mástil."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 2 – Add a horizontal shift\nNow we connect this box to a higher one using a **single shift**.\n\nFrom the previous fragment, do this:\n1. Play up to the high **C** on G string, 5th fret\n2. Slide your **3rd or 4th finger** from G string 5th fret **up to 9th fret (E)**\n3. From there, play:  \n   - G string 9th fret **E**, 10th fret **F**, 12th fret **G**  \n   - D string 10th fret **C**, 12th fret **D**\n\nYou just moved **vertically first**, then made one **horizontal jump** and continued vertically again in a new area.",
+          "zh-Hans": "# 第二步 —— 加入一次横向换把\n现在我们用一次**横向换把**，把这个格子和更高的位置连起来。\n\n在上一段的基础上这样做：\n1. 先往上弹到 G 弦 5 品的高音 **C**\n2. 用 **3 指或 4 指** 从 G 弦 5 品 **滑到 9 品（音 E）**\n3. 从那里继续：  \n   - G 弦 9 品 **E**，10 品 **F**，12 品 **G**  \n   - D 弦 10 品 **C**，12 品 **D**\n\n你刚才做的是：先**纵向上行**，然后做了一次**横向跳跃**，再在新的区域里继续纵向移动。",
+          "de": "# Schritt 2 – Einen horizontalen Wechsel hinzufügen\nJetzt verbinden wir diese Box mit einer höheren Lage durch **einen einzigen Shift**.\n\nAusgehend vom vorherigen Fragment:\n1. Spiele bis zum hohen **C** auf der G-Saite, 5. Bund\n2. Rutsche mit dem **3. oder 4. Finger** von G-Saite 5. Bund **hoch in den 9. Bund (E)**\n3. Von dort aus spielst du:  \n   - G-Saite 9. Bund **E**, 10. Bund **F**, 12. Bund **G**  \n   - D-Saite 10. Bund **C**, 12. Bund **D**\n\nDu bist also zuerst **vertikal aufgestiegen**, hast dann einen **horizontalen Sprung** gemacht und anschließend wieder vertikal in einer neuen Region weitergespielt.",
+          "ja": "# ステップ2 – 横方向のシフトを1回だけ足す\nここからは、**1回だけのシフト**で今のボックスと上のポジションをつなげます。\n\nさきほどのフレーズから続けて：\n1. G弦5フレットの高い **C** まで上がる\n2. **3指か4指**で、G弦5フレットから**9フレット（E）までスライド**\n3. その位置から次のように弾く：  \n   - G弦9フレット **E**、10フレット **F**、12フレット **G**  \n   - D弦10フレット **C**、12フレット **D**\n\nつまり、まずは**縦に登って**から、1度だけ**横にジャンプ**し、別のエリアでまた縦方向に進んでいることになります。",
+          "pt-BR": "# Passo 2 – Adicione um deslocamento horizontal\nAgora vamos ligar esse “quadrado” a outro mais agudo com **apenas uma troca de posição**.\n\nA partir do fragmento anterior:\n1. Suba até o **C** agudo na corda G, casa 5\n2. Com o **dedo 3 ou 4**, deslize da corda G casa 5 **até a casa 9 (nota E)**\n3. A partir daí toque:  \n   - Corda G casa 9 **E**, casa 10 **F**, casa 12 **G**  \n   - Corda D casa 10 **C**, casa 12 **D**\n\nVocê acabou de subir **na vertical primeiro**, depois fez um **salto horizontal** e continuou na vertical em uma região nova do braço.",
+          "es": "# Paso 2 – Añadir un desplazamiento horizontal\nAhora conectamos esta caja con otra más aguda usando **un solo cambio de posición**.\n\nDesde el fragmento anterior, haz esto:\n1. Sube hasta el **C** agudo en la cuerda G, traste 5\n2. Con el **3º o 4º dedo**, desliza desde traste 5 de la cuerda G **hasta el traste 9 (E)**\n3. Desde ahí toca:  \n   - Cuerda G traste 9 **E**, traste 10 **F**, traste 12 **G**  \n   - Cuerda D traste 10 **C**, traste 12 **D**\n\nAcabas de moverte primero **en vertical**, luego hiciste un **salto horizontal** y continuaste de nuevo en vertical en otra zona del mástil."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Step 3 – Turn it into a musical phrase\nNow put the movement into a **4-bar idea**.\n\nPlay in 4/4, one note per beat:\n- Bar 1: vertical fragment in 3rd position (C–D–E–F)  \n- Bar 2: continue up (G–A–B–C) and then do the **slide to E** on the “&” of 4  \n- Bar 3: new high fragment (E–F–G–C)  \n- Bar 4: walk **back down** towards the original position\n\nCount out loud while you play. It should sound like a **smooth climb and return**, not two separate scales stitched together.",
+          "zh-Hans": "# 第三步 —— 变成一个有音乐味的乐句\n现在把这些移动变成一个有音乐感的 **4 小节想法**。\n\n4/4 拍，每拍一音：\n- 第 1 小节：在第 3 把位的纵向片段（C–D–E–F）  \n- 第 2 小节：继续上行（G–A–B–C），在第 4 拍的“+”做**滑音到 E**  \n- 第 3 小节：在高把位的新片段（E–F–G–C）  \n- 第 4 小节：**走回去**，往原来的把位落\n\n一边弹一边数拍子。整体听起来应该像一条**顺畅地爬上又回来的线**，而不是两段硬剪在一起的音阶。",
+          "de": "# Schritt 3 – Eine musikalische Phrase daraus machen\nJetzt packen wir die Bewegung in eine **4-taktige Idee**.\n\nIn 4/4, eine Note pro Schlag:\n- Takt 1: vertikales Fragment in der 3. Lage (C–D–E–F)  \n- Takt 2: weiter aufwärts (G–A–B–C) und auf die „&“ von 4 den **Slide zum E**  \n- Takt 3: neues hohes Fragment (E–F–G–C)  \n- Takt 4: **zurückgehen** in Richtung der Ausgangslage\n\nZähle laut mit. Es sollte wie ein **sanftes Aufsteigen und Zurückkehren** klingen, nicht wie zwei aneinandergenähte Skalen.",
+          "ja": "# ステップ3 – 音楽的なフレーズにする\nここからは、この動きを**4小節のフレーズ**の中に入れてみます。\n\n4/4拍で、1拍1音：\n- 1小節目：3ポジションでの縦フレーズ（C–D–E–F）  \n- 2小節目：さらに上へ（G–A–B–C）、4拍目の「＆」で**Eへのスライド**  \n- 3小節目：高いポジションでの新しいフレーズ（E–F–G–C）  \n- 4小節目：**元のポジションに向かって下りながら**戻る\n\n声に出してカウントしながら弾いてみてください。2つのスケールを無理やりくっつけた感じではなく、**自然に登って戻ってくる1つの流れ**に聞こえるのが理想です。",
+          "pt-BR": "# Passo 3 – Transforme em uma frase musical\nAgora vamos colocar esse movimento dentro de uma **ideia de 4 compassos**.\n\nEm 4/4, uma nota por tempo:\n- Compasso 1: fragmento vertical na 3ª posição (C–D–E–F)  \n- Compasso 2: continue subindo (G–A–B–C) e faça o **slide para E** no “e” do tempo 4  \n- Compasso 3: novo fragmento mais agudo (E–F–G–C)  \n- Compasso 4: **volte descendo** em direção à posição original\n\nConte em voz alta enquanto toca. A ideia é soar como uma **subida e volta suave**, não como duas escalas separadas coladas uma na outra.",
+          "es": "# Paso 3 – Convertirlo en una frase musical\nAhora metemos el movimiento en una **idea de 4 compases**.\n\nEn 4/4, una nota por pulso:\n- Compás 1: fragmento vertical en 3ª posición (C–D–E–F)  \n- Compás 2: sigue subiendo (G–A–B–C) y haz el **slide a E** en el “y” del 4  \n- Compás 3: nuevo fragmento agudo (E–F–G–C)  \n- Compás 4: **vuelve bajando** hacia la posición original\n\nCuenta en voz alta mientras tocas. Debería sonar como una **subida y regreso suave**, no como dos escalas separadas pegadas sin más."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice tips\n- Start with **quarter notes**, then try **eighth notes** once it’s clean\n- Keep the **right hand** steady – the shift should not change your timing\n- Practice the **slide alone** as a mini-exercise until it feels relaxed\n- Try the same idea in **G major and F major** to train your fretboard map\n\nIf you can move from a low box to a higher one and back **without thinking too hard**, you’re really combining vertical and horizontal movement in a musical way.",
+          "zh-Hans": "# 练习小贴士\n- 先用**四分音符**，干净稳定之后再试 **八分音符**\n- 右手节奏要像机器一样稳，**换把时节奏不能乱**\n- 把那个**滑音动作单独拎出来**练，直到完全放松\n- 把同样的想法搬到 **G 大调和 F 大调**，训练你的指板地图\n\n当你能在低把位和高把位之间来回走，**不用再费劲去想按哪里**，说明你已经在用音乐的方式结合纵向和横向移动了。",
+          "de": "# Übetipps\n- Starte mit **Viertelnoten**, und nimm **Achtelnoten** dazu, sobald alles sauber klingt\n- Die **rechte Hand** bleibt konstant – der Lagenwechsel darf dein Timing nicht stören\n- Übe den **Slide einzeln** als Miniübung, bis er sich entspannt anfühlt\n- Übertrage die Idee auf **G-Dur und F-Dur**, um dein Griffbrett besser zu kennen\n\nWenn du von einer tiefen Box in eine höhere und wieder zurück kommst, **ohne viel nachdenken zu müssen**, kombinierst du vertikale und horizontale Bewegung wirklich musikalisch.",
+          "ja": "# 練習のコツ\n- まずは**4分音符**で安定させてから、慣れてきたら**8分音符**にトライ\n- **右手のリズム**は常に一定。シフトしてもタイミングが乱れないように\n- あの**スライドだけを切り出して**、ミニ練習として何度もやってみる\n- 同じアイデアを **GメジャーやFメジャー** でも試して、指板の地図を育てる\n\n低いボックスから高いボックスへ、そしてまた戻る動きが**あまり考えなくても自然に出てくる**ようになったら、縦と横の動きを音楽的にしっかり組み合わせられている証拠です。",
+          "pt-BR": "# Dicas de estudo\n- Comece em **semínimas** e só depois tente **colcheias** quando estiver limpo\n- Mantenha a **mão direita** firme – a troca de posição não pode bagunçar o tempo\n- Treine o **slide isolado** como um mini exercício até ficar bem relaxado\n- Leve a mesma ideia para **G maior e F maior** para treinar o “mapa” do braço\n\nQuando você consegue ir de um desenho grave para outro mais agudo e voltar **sem pensar demais**, é porque está combinando movimento vertical e horizontal de um jeito realmente musical.",
+          "es": "# Consejos de práctica\n- Empieza con **negras** y luego prueba **corcheas** cuando todo esté limpio\n- Mantén la **mano derecha** estable: el cambio de posición no debe mover tu tempo\n- Practica el **slide solo** como mini-ejercicio hasta que se sienta relajado\n- Prueba la misma idea en **Sol mayor y Fa mayor** para entrenar tu mapa del mástil\n\nCuando puedas ir de una caja grave a otra más aguda y volver **sin pensarlo demasiado**, estarás combinando movimiento vertical y horizontal de una forma realmente musical."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2025-11-30T00:00:00Z",
+  "updatedAt": "2025-11-30T00:00:00Z"
+}
