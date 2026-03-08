@@ -65,9 +65,35 @@
           "es": "# Consejos de práctica\n- Toca con un **swing lento** (metrónomo en 2 y 4)\n- Toca 8 compases con **sólo tónicas**, luego 8 compases con la **línea usando la escala**\n- Di los acordes en voz baja: “Dm7 – G7 – Cmaj7 – Cmaj7” mientras tocas\n- Busca una **conexión suave** entre compases, sin huecos ni notas apuradas\n- Cuando esto se sienta fácil, empieza a cambiar **un compás cada vez** e inventar tus propias líneas\n\nSi el tiempo es estable y las tónicas se escuchan claras, ya estás caminando sobre un II–V–I de una forma muy musical."
         }
       }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nTake **Walking over a simple II–V–I in C** out of exercise mode and place it inside a short 4-bar swing loop. Keep beat 1 absolutely clear, then use beats 2-4 to shape direction, tension, and release. Start with the written version, then change only **one note per bar** so you can hear exactly which choices strengthen the line and which ones blur the harmony.\n\nA useful test is this: if the chord instrument drops out for a moment, can a listener still hear the progression from your bass line alone?",
+          "zh-Hans": "## 音乐应用\n将 **在 C** 中走过简单的 II–V–I 动作从锻炼模式中取出，并将其置于短的 4 杆摆动循环内。保持节拍 1 绝对清晰，然后使用节拍 2-4 来塑造方向、张力和释放。从书面版本开始，然后仅更改**每个小节一个音符**，这样您就可以准确地听到哪些选择加强了线条，哪些选择模糊了和声。\n\n一个有用的测试是这样的：如果和弦乐器暂时停止，听众是否仍然可以单独听到低音线的进展？",
+          "de": "## Musikalische Anwendung\nNehmen Sie **Gehen über ein einfaches II–V–I in C** aus dem Übungsmodus und platzieren Sie es in einer kurzen 4-Takt-Schwungschleife. Halten Sie Schlag 1 absolut klar und verwenden Sie dann Schlag 2–4, um Richtung, Spannung und Entspannung zu bestimmen. Beginnen Sie mit der geschriebenen Version und ändern Sie dann nur **eine Note pro Takt**, damit Sie genau hören können, welche Entscheidungen die Linie verstärken und welche die Harmonie verwischen.\n\nEin nützlicher Test ist dieser: Wenn das Akkordinstrument für einen Moment ausfällt, kann ein Zuhörer dann immer noch die Progression Ihrer Basslinie allein hören?",
+          "ja": "## 音楽アプリケーション\n**C でのシンプルな II-V-I の上を歩く** をエクササイズ モードから外し、短い 4 バーのスイング ループの中に入れます。ビート 1 を明確に保ち、​​ビート 2 ～ 4 を使用して方向、テンション、リリースを形成します。書かれたバージョンから始めて、**1 小節につき 1 音** だけを変更することで、どの選択がラインを強化し、どの選択がハーモニーをぼやけているかを正確に聞くことができます。\n\n役に立つテストは次のとおりです。コード楽器が一瞬途切れた場合でも、リスナーはベース ラインだけの進行を聞くことができますか?",
+          "pt-BR": "## Aplicação musical\nLeve **Walking em um II–V–I simples em Dó** para um walking bass real sobre um blues lento, um standard simples ou um ii-V-I. Primeiro deixe raiz, terça e sétima muito claras nos tempos fortes; depois use aproximações cromáticas e notas de passagem para ligar um acorde ao outro sem perder o pulso. A linha precisa caminhar com direção e deixar a harmonia evidente, não apenas desfilar pela escala.\n\nPergunta-chave: se eu tirar os enfeites, a linha ainda mostra com clareza para onde a harmonia está indo?",
+          "es": "## Aplicación musical\nLleva **Walking sobre un II–V–I simple en Do** a un walking bass real sobre un blues lento, un standard sencillo o un ii-V-I. Primero deja muy claras la tónica, la tercera y la séptima en los tiempos fuertes; después usa aproximaciones cromáticas y notas de paso para conectar un acorde con otro sin perder el pulso. La línea debe caminar con dirección y dejar clara la armonía, no solo recorrer la escala.\n\nPregunta clave: si quito los adornos, ¿la línea todavía muestra con claridad hacia dónde va la armonía?"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\nWork through three passes:\n1. **Technical pass**: slow tempo, metronome on 2 and 4, no rushed quarter notes.\n2. **Musical pass**: vary note length slightly, shape the phrase dynamically, and make each bar lead naturally into the next.\n3. **Transfer pass**: move the same concept to two new keys and keep the feel relaxed.\n\nRecord one chorus and listen for steady time, smooth bar-to-bar connection, and whether your resolutions sound intentional instead of accidental.",
+          "zh-Hans": "## 高级挑战\n通过三遍工作：\n1. **技术通过**：慢节奏，节拍器在 2 和 4 上，没有仓促的四分音符。\n2. **音乐通行证**：稍微改变音符长度，动态塑造乐句，并使每个小节自然地引导到下一个小节。\n3. **转移通行证**：将相同的概念转移到两个新键上并保持轻松的感觉。\n\n录制一首副歌并聆听稳定的时间、流畅的小节连接以及您的决定听起来是否是有意的而不是偶然的。",
+          "de": "## Fortgeschrittene Herausforderung\nArbeiten Sie drei Durchgänge durch:\n1. **Technischer Durchgang**: langsames Tempo, Metronom auf 2 und 4, keine überstürzten Viertelnoten.\n2. **Musikalischer Durchgang**: Variieren Sie die Notenlänge leicht, gestalten Sie die Phrase dynamisch und sorgen Sie dafür, dass jeder Takt auf natürliche Weise in den nächsten übergeht.\n3. **Transfer-Pass**: Verschieben Sie das gleiche Konzept auf zwei neue Tasten und sorgen Sie für ein entspanntes Gefühl.\n\nNehmen Sie einen Refrain auf und achten Sie auf einen gleichmäßigen Takt, eine reibungslose Verbindung zwischen den Takten und darauf, ob Ihre Vorsätze absichtlich und nicht zufällig klingen.",
+          "ja": "## 高度なチャレンジ\n3 つのパスを実行します。\n1. **テクニカル パス**: 遅いテンポ、2 と 4 のメトロノーム、急ぐ 4 分音符はありません。\n2. **ミュージカルパス**: 音符の長さをわずかに変更し、フレーズをダイナミックに形成し、各小節が自然に次の小節につながるようにします。\n3. **トランスファーパス**: 同じコンセプトを 2 つの新しいキーに移し、リラックスした感触を保ちます。\n\nコーラスを 1 つ録音し、安定したタイム、スムーズな小節間のつながり、そして解像度が偶然ではなく意図的に聞こえるかどうかを聞きます。",
+          "pt-BR": "## Desafio avançado\nTrabalhe em três etapas:\n1. **Pulso**: caminhe em semínimas firmes por 8 compassos sem acelerar.\n2. **Conexão harmônica**: faça os tempos fortes caírem em notas do acorde, especialmente nas trocas de harmonia.\n3. **Narrativa**: monte uma linha de 12 compassos com pelo menos duas aproximações cromáticas diferentes sem perder clareza.\n\nGrave 30 segundos e confira se o walking continua sólido mesmo quando você adiciona mais movimento.",
+          "es": "## Desafío avanzado\nTrabaja en tres etapas:\n1. **Pulso**: camina en negras firmes durante 8 compases sin acelerar.\n2. **Conexión armónica**: haz que los tiempos fuertes caigan en notas del acorde, sobre todo en los cambios de armonía.\n3. **Narrativa**: construye una línea de 12 compases con al menos dos aproximaciones cromáticas distintas sin perder claridad.\n\nGraba 30 segundos y comprueba si el walking sigue sólido incluso cuando añades más movimiento."
+        }
+      }
     }
   ],
   "tests": [],
   "createdAt": "2025-11-30T00:00:00Z",
-  "updatedAt": "2025-11-30T00:00:00Z"
+  "updatedAt": "2026-03-08T00:00:00Z"
 }

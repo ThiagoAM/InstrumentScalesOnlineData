@@ -65,9 +65,35 @@
           "es": "# Rutina rápida de práctica\n1. En cada cuerda, toca: **al aire → traste 5 → traste 7 → traste 5 → al aire**, todo en negras bien regulares.  \n2. Di los nombres de las notas en voz alta (por ejemplo, en la cuerda D: “D – G – A – G – D”).  \n3. Repite el patrón en las cuatro cuerdas, de la más grave a la más aguda y luego de la más aguda a la más grave.  \n4. Haz de 3 a 4 vueltas lentas, manteniendo la mano relajada.\n\nSólo con estos dos trastes y las cuerdas al aire ya tienes un mapa sencillo bajo los dedos que puedes usar en cualquier zona del mástil."
         }
       }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nDo not leave **5th and 7th fret landmarks on all strings** as a purely technical drill. After you play the written version cleanly, place it inside a short groove, a two-bar pattern, or a call-and-response phrase. This immediately shows whether the concept survives when real time, articulation, and string changes enter the picture.\n\nThe deeper skill here is to make the neck feel organized while the groove still feels relaxed.",
+          "zh-Hans": "## 音乐应用\n不要在所有琴弦上留下**第 5 品和第 7 品的标志**作为纯粹的技术练习。当你干净地演奏完书面版本后，将其放入短节奏、两小节模式或呼叫和响应短语中。这立即表明当实时、清晰度和弦乐变化进入画面时，这个概念是否仍然存在。\n\n这里更深层次的技巧是让颈部感觉井井有条，同时凹槽仍然感觉放松。",
+          "de": "## Musikalische Anwendung\nBelassen Sie **den 5. und 7. Bund nicht als rein technische Übung auf allen Saiten**. Nachdem Sie die geschriebene Version sauber gespielt haben, platzieren Sie sie in einem kurzen Groove, einem zweitaktigen Muster oder einer Call-and-Response-Phrase. Dies zeigt sofort, ob das Konzept überlebt, wenn Echtzeit, Artikulation und Saitenwechsel ins Spiel kommen.\n\nDie tiefere Fähigkeit besteht hier darin, den Hals zu organisieren, während sich die Rille dennoch entspannt anfühlt.",
+          "ja": "## 音楽アプリケーション\n純粋に技術的な練習として、**すべての弦の 5 フレットと 7 フレットの目印**を残さないでください。書かれたバージョンをきれいに演奏したら、それを短いグルーブ、2 小節のパターン、またはコール アンド レスポンス フレーズの中に配置します。これにより、リアルタイム、アーティキュレーション、弦の変更が入ったときにコンセプトが存続するかどうかがすぐにわかります。\n\nここでのより深いスキルは、グルーヴがリラックスしたままでありながら、ネックが整理されているように感じることです。",
+          "pt-BR": "## Aplicação musical\nUse **Referências na 5ª e 7ª casas em todas as cordas** para consolidar som limpo, tempo firme e leitura do braço. Toque devagar, com articulação consistente, e depois mova a mesma ideia para outra corda ou outra região sem perder clareza. Quando a base técnica fica sólida, fica muito mais fácil transformar escala em groove, frase ou linha de baixo.\n\nPergunta-chave: cada nota saiu com intenção e tempo estável, ou a mão ainda está correndo na frente da escuta?",
+          "es": "## Aplicación musical\nUsa **Referencias en los trastes 5 y 7 en todas las cuerdas** para consolidar sonido limpio, tiempo firme y lectura del mástil. Toca despacio, con articulación consistente, y luego mueve la misma idea a otra cuerda o a otra región sin perder claridad. Cuando la base técnica se vuelve sólida, es mucho más fácil transformar una escala en groove, frase o línea de bajo.\n\nPregunta clave: ¿cada nota salió con intención y tiempo estable, o la mano todavía corre por delante del oído?"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\nTry three passes:\n1. **Clarity pass**: even tone, relaxed plucking hand, clean left-hand placement.\n2. **Awareness pass**: name notes, roots, or interval functions as you play.\n3. **Transfer pass**: move the same idea to a new string set or a new key center.\n\nIf you can keep the sound full while your brain understands what each note is doing, you are building strong long-term technique.",
+          "zh-Hans": "## 高级挑战\n尝试三遍：\n1. **清晰度关**：音色均匀，拨弦手放松，左手放置干净。\n2. **意识通行证**：在演奏时说出音符、根音或音程函数的名称。\n3. **转移传递**：将相同的想法转移到新的弦组或新的调中心。\n\n如果你能在大脑理解每个音符的作用的同时保持声音饱满，那么你就正在建立强大的长期技术。",
+          "de": "## Fortgeschrittene Herausforderung\nProbieren Sie drei Durchgänge aus:\n1. **Klarheitsdurchgang**: gleichmäßiger Ton, entspannte Zupfhand, saubere Platzierung auf der linken Hand.\n2. **Bewusstseinspass**: Benennen Sie Noten, Grundtöne oder Intervallfunktionen, während Sie spielen.\n3. **Übertragungsdurchlauf**: Dieselbe Idee auf einen neuen Saitensatz oder ein neues Tastenzentrum verschieben.\n\nWenn Sie den Klang voll halten können, während Ihr Gehirn versteht, was jede Note tut, bauen Sie eine starke, langfristige Technik auf.",
+          "ja": "## 高度なチャレンジ\n3 つのパスを試してください。\n1. **クラリティパス**: 均一なトーン、リラックスした弾く手、きれいな左手の配置。\n2. **認識パス**: 演奏しながら、ノート、ルート、またはインターバル関数に名前を付けます。\n3. **パスの転送**: 同じアイデアを新しい文字列セットまたは新しいキー センターに移動します。\n\n各音符が何をしているのかを脳が理解している間、サウンドを豊かに保ち続けることができれば、長期的に強力なテクニックを構築することができます。",
+          "pt-BR": "## Desafio avançado\nTrabalhe em três etapas:\n1. **Som**: deixe todas as notas com ataque limpo e volume parecido.\n2. **Localização**: toque a mesma ideia em outra corda ou outra oitava sem hesitar.\n3. **Controle**: transforme o exercício em uma pequena linha musical de 2 ou 4 compassos.\n\nO objetivo é sair do treino mecânico e chegar a um controle que já soe musical.",
+          "es": "## Desafío avanzado\nTrabaja en tres etapas:\n1. **Sonido**: consigue que todas las notas tengan ataque limpio y volumen parecido.\n2. **Ubicación**: toca la misma idea en otra cuerda u otra octava sin dudar.\n3. **Control**: transforma el ejercicio en una pequeña línea musical de 2 o 4 compases.\n\nLa meta es salir del entrenamiento mecánico y llegar a un control que ya suene musical."
+        }
+      }
     }
   ],
   "tests": [],
   "createdAt": "2025-11-30T00:00:00Z",
-  "updatedAt": "2025-11-30T00:00:00Z"
+  "updatedAt": "2026-03-08T00:00:00Z"
 }

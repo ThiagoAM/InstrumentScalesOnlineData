@@ -65,9 +65,35 @@
           "es": "## Práctica rápida\n1. Elige una progresión en Do mayor, por ejemplo:\n   - **C – F – G – C** o **Dm – G – C – C**.\n2. Mano izquierda: toca **acordes en bloque** en posición fundamental, 4 pulsos cada uno.\n3. Mano derecha: en cada compás:\n   - Empieza en una **nota del acorde actual**\n   - Muévete usando **grados de la escala de Do mayor**\n   - Aterriza en una **nota del siguiente acorde** cuando cambie\n4. Mantén el tempo lento y concéntrate en un **movimiento conjunto suave**.\n\nCuando esto se sienta natural, empieza a probar **distintos ritmos**, manteniendo la misma idea: notas del acorde en los tiempos fuertes y notas de la escala uniendo todo."
         }
       }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nTreat **Using scales to connect chords** as harmonic vocabulary, not just keyboard information. Play the material in one register first, then in another, and listen to how the same notes change weight and color. Keep the left hand simple enough that the right hand can clearly reveal the chord quality, inversion, or connection you are studying.\n\nThe best test is whether someone listening could hear the harmonic function, not just a string of correct notes.",
+          "zh-Hans": "## 音乐应用\n将**使用音阶连接和弦**视为和声词汇，而不仅仅是键盘信息。首先在一个音域中演奏素材，然后在另一个音域中演奏，并聆听相同的音符如何改变重量和颜色。保持左手足够简单，以便右手可以清楚地显示您正在学习的和弦质量、转位或连接。\n\n最好的测试是听的人是否能听到和声函数，而不仅仅是一串正确的音符。",
+          "de": "## Musikalische Anwendung\nBehandeln Sie **Skalen zum Verbinden von Akkorden** als harmonisches Vokabular und nicht nur als Tastaturinformationen. Spielen Sie das Material zuerst in einem Register, dann in einem anderen und hören Sie, wie dieselben Noten Gewicht und Farbe ändern. Halten Sie die linke Hand so einfach, dass die rechte Hand die Akkordqualität, Umkehrung oder Verbindung, die Sie studieren, deutlich erkennen kann.\n\nDer beste Test besteht darin, ob jemand, der zuhört, die harmonische Funktion hören kann und nicht nur eine Reihe korrekter Noten.",
+          "ja": "## 音楽アプリケーション\n**スケールを使用してコードを接続する** ことを、単なるキーボード情報ではなく、和声語彙として扱います。最初にある音域で素材を再生し、次に別の音域で再生し、同じ音の重みと色がどのように変化するかを聞いてください。左手はシンプルにして、右手で学習しているコードの質、転回形、接続を明確に表示できるようにします。\n\n最良のテストは、聞いている人が正しい音符の羅列だけでなく、倍音関数を聞き取れるかどうかです。",
+          "pt-BR": "## Aplicação musical\nAplique **Usando escalas para conectar acordes** dentro de uma progressão real. Deixe a mão esquerda esclarecer os acordes e use a direita para conectar arpejos, notas de escala e pequenas melodias sem perder a função harmônica. Quando a escala passa a servir a harmonia, a prática fica muito mais musical e útil.\n\nPergunta-chave: minhas escolhas reforçam a função de cada acorde ou só preenchem espaço entre um acorde e outro?",
+          "es": "## Aplicación musical\nAplica **Usar escalas para conectar acordes** dentro de una progresión real. Deja que la mano izquierda aclare los acordes y usa la derecha para conectar arpegios, notas de escala y pequeñas melodías sin perder la función armónica. Cuando la escala empieza a servir a la armonía, la práctica se vuelve mucho más musical y útil.\n\nPregunta clave: ¿mis elecciones refuerzan la función de cada acorde o solo rellenan espacio entre un acorde y otro?"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\nPractice in three phases:\n1. **Structure phase**: play slowly and name roots, thirds, fifths, sevenths, or chord qualities out loud.\n2. **Connection phase**: move between chords with minimal hand motion where possible.\n3. **Creative phase**: turn the same material into a short accompaniment pattern or fill between chords.\n\nRecord a few progressions and check whether the harmony sounds clear, balanced, and intentional without relying on pedal to hide weak connections.",
+          "zh-Hans": "## 高级挑战\n练习分三个阶段：\n1. **结构阶段**：缓慢演奏并大声说出根音、三度、五度、七度或和弦特性。\n2. **连接阶段**：尽可能以最小的手部动作在和弦之间移动。\n3. **创作阶段**：将相同的素材变成短伴奏型或和弦之间的填充。\n\n录制一些进行并检查和声听起来是否清晰、平衡和有意，而无需依靠踏板来隐藏薄弱的连接。",
+          "de": "## Fortgeschrittene Herausforderung\nÜben Sie in drei Phasen:\n1. **Strukturphase**: Spielen Sie langsam und nennen Sie Grundtöne, Terzen, Quinten, Septimen oder Akkordqualitäten laut.\n2. **Verbindungsphase**: Wechseln Sie zwischen den Akkorden mit möglichst minimalen Handbewegungen.\n3. **Kreative Phase**: Verwandeln Sie dasselbe Material in ein kurzes Begleitmuster oder füllen Sie es zwischen Akkorden.\n\nNehmen Sie einige Abfolgen auf und prüfen Sie, ob die Harmonie klar, ausgewogen und absichtlich klingt, ohne sich auf das Pedal zu verlassen, um schwache Verbindungen zu verbergen.",
+          "ja": "## 高度なチャレンジ\n3 つのフェーズに分けて練習します。\n1. **ストラクチャーフェーズ**: ゆっくりと演奏し、ルート、3度、5度、7度、またはコードの性質を声に出して言います。\n2. **接続フェーズ**: 可能な限り最小限の手の動きでコード間を移動します。\n3. **クリエイティブフェーズ**: 同じ素材を短い伴奏パターンに変えたり、コードの間を埋めたりします。\n\nいくつかの進行を録音し、弱い接続を隠すためにペダルに頼ることなく、ハーモニーがクリアでバランスが取れており、意図的に聞こえるかどうかを確認します。",
+          "pt-BR": "## Desafio avançado\nExperimente três passagens:\n1. **Clareza harmônica**: faça cada mudança de acorde soar nítida.\n2. **Conexão melódica**: una os acordes com notas de escala ou arpejo sem perder o pulso.\n3. **Aplicação**: crie 4 compassos de acompanhamento ou fill que aproveitem o material da lição.\n\nA meta é ouvir claramente a função dos acordes, não apenas tocar mais notas entre eles.",
+          "es": "## Desafío avanzado\nPrueba tres pasadas:\n1. **Claridad armónica**: haz que cada cambio de acorde suene nítido.\n2. **Conexión melódica**: une los acordes con notas de escala o arpegio sin perder el pulso.\n3. **Aplicación**: crea 4 compases de acompañamiento o fill usando el material de la lección.\n\nLa meta es oír con claridad la función de los acordes, no solo tocar más notas entre ellos."
+        }
+      }
     }
   ],
   "tests": [],
   "createdAt": "2025-12-02T00:00:00Z",
-  "updatedAt": "2025-12-02T00:00:00Z"
+  "updatedAt": "2026-03-08T00:00:00Z"
 }

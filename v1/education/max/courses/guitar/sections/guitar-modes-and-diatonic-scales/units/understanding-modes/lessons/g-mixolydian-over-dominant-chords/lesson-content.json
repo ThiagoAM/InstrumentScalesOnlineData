@@ -65,9 +65,35 @@
           "es": "# Práctica rápida\n1. Aprende **el Dibujo 1** despacio, diciendo en voz alta los **nombres de las notas** (G A B C D E F).  \n2. Pon una **base en G7 o un rock/blues en Sol** e improvisa sólo dentro del Dibujo 1, buscando **caer en G o F** al final de las frases.  \n3. Luego pasa al **Dibujo 2** (el 3NPS de Do mayor) y toca sobre un vamp en G7, tratando las notas Sol como tus destinos principales.  \n4. Por último, toca sobre `| G7 | Cmaj7 |` y **cambia claramente el enfoque**: Sol mixolidio sobre G7, Do jónico sobre Cmaj7.\n\nSi te suena como un **acorde mayor con una 7ª muy presente y algo picante**, estás escuchando bien a Sol mixolidio funcionando sobre acordes dominantes."
         }
       }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nUse **G Mixolydian over dominant chords** over a drone, vamp, or loop that lets the color of the mode stay exposed. Play the pattern once as a map, then stop thinking in boxes and start listening for the note that gives the mode its personality. When you can emphasize that color note and resolve it intentionally, the mode stops being theory vocabulary and starts becoming sound.\n\nThe advanced move is to compare one modal phrase against a more neutral major or minor phrase so your ear can hear the difference immediately.",
+          "zh-Hans": "## 音乐应用\n在无人机、vamp 或循环上使用 **G Mixolydian 主导和弦**，让模式的颜色保持暴露。将模式作为地图播放一次，然后停止思考，开始聆听赋予模式个性的音符。当你可以强调那个颜色音符并有意识地解决它时，模式就不再是理论词汇，而是开始变得健全。\n\n高级步骤是将一个情态短语与一个更中性的大调或小调短语进行比较，这样你的耳朵就能立即听到差异。",
+          "de": "## Musikalische Anwendung\nVerwenden Sie **G Mixolydian über dominanten Akkorden** über einem Bordun, Vamp oder Loop, damit die Farbe des Modus sichtbar bleibt. Spielen Sie das Muster einmal als Karte ab, hören Sie dann auf, in Kästchen zu denken, und beginnen Sie, auf die Note zu achten, die dem Modus seine Persönlichkeit verleiht. Wenn Sie diese Farbnote betonen und absichtlich auflösen können, hört der Modus auf, theoretisches Vokabular zu sein, und beginnt, Klang zu werden.\n\nDer fortgeschrittene Schritt besteht darin, eine modale Phrase mit einer neutraleren Dur- oder Moll-Phrase zu vergleichen, damit Ihr Ohr den Unterschied sofort hören kann.",
+          "ja": "## 音楽アプリケーション\n**ドミナント コードに G ミクソリディアン** をドローン、ヴァンプ、またはループ上で使用すると、モードのカラーが露出したままになります。パターンをマップとして一度再生してから、枠内で考えるのをやめて、モードに個性を与えるノートに耳を傾け始めます。その色のノートを強調し、それを意図的に解決できるとき、そのモードは理論的な語彙ではなくなり、健全なものになり始めます。\n\n高度な方法は、1 つのモーダル フレーズを、より中立的なメジャー フレーズまたはマイナー フレーズと比較して、耳で違いをすぐに聞き取ることです。",
+          "pt-BR": "## Aplicação musical\nUse **G Mixolídio em acordes dominantes** sobre um drone, vamp ou groove estático que deixe a cor do modo bem exposta. Toque o shape uma vez como mapa e depois pare de pensar em caixas: passe a destacar a nota que realmente dá personalidade ao modo. Quando você consegue enfatizar essa cor e resolver com intenção, o modo deixa de ser teoria e vira som.\n\nPergunta-chave: se eu tocar mais devagar e com mais espaço, a identidade do modo ainda fica clara?",
+          "es": "## Aplicación musical\nUsa **Sol mixolidio sobre acordes dominantes** sobre un drone, vamp o groove estático que deje muy expuesto el color del modo. Toca el shape una vez como mapa y luego deja de pensar en cajas: empieza a resaltar la nota que realmente le da personalidad al modo. Cuando puedes enfatizar ese color y resolver con intención, el modo deja de ser teoría y empieza a convertirse en sonido.\n\nPregunta clave: si toco más despacio y con más espacio, ¿la identidad del modo sigue siendo clara?"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\nPractice in three rounds:\n1. **Mapping round**: roots, characteristic notes, and position changes all identified clearly.\n2. **Ear round**: hold or repeat the key color note against the harmony and listen to its tension.\n3. **Phrase round**: create two short motifs, one stable and one more tense, then alternate them.\n\nWhen possible, move the same modal idea to another key and check whether you still hear the same color, not just the same fingering.",
+          "zh-Hans": "## 高级挑战\n练习分三轮：\n1. **映射回合**：词根、特征音符、位置变化都清晰可辨。\n2. **耳轮**：按住或重复和声的主色音符，听其张力。\n3. **短语循环**：创建两个短主题，一个稳定，一个紧张，然后交替使用。\n\n如果可能，将相同的模态想法移至另一个琴键，并检查您是否仍然听到相同的颜色，而不仅仅是相同的指法。",
+          "de": "## Fortgeschrittene Herausforderung\nÜben Sie in drei Runden:\n1. **Mapping-Runde**: Wurzeln, charakteristische Noten und Positionsänderungen werden alle klar identifiziert.\n2. **Ohrrunde**: Halten oder wiederholen Sie die Grundtonnote gegen die Harmonie und achten Sie auf deren Spannung.\n3. **Runde Phrase**: Erstellen Sie zwei kurze Motive, eines stabil und eines eher angespannt, und wechseln Sie sie dann ab.\n\nWenn möglich, verschieben Sie dieselbe modale Idee auf eine andere Tonart und prüfen Sie, ob Sie immer noch dieselbe Farbe und nicht nur denselben Fingersatz hören.",
+          "ja": "## 高度なチャレンジ\n3 ラウンドに分けて練習します。\n1. **マッピング ラウンド**: ルート、特徴的なノート、位置の変更がすべて明確に識別されます。\n2. **耳を傾ける**: ハーモニーに対してキーカラーの音を長押しするか繰り返し、その緊張感を聴きます。\n3. **フレーズラウンド**: 安定したモチーフと緊張感のあるモチーフの 2 つの短いモチーフを作成し、交互に配置します。\n\n可能であれば、同じモーダルアイデアを別のキーに移動し、同じ運指だけでなく同じ色がまだ聞こえるかどうかを確認してください。",
+          "pt-BR": "## Desafio avançado\nTrabalhe em três etapas:\n1. **Som**: toque devagar, com articulação clara e sem depender de velocidade.\n2. **Cor modal**: sustente ou revisite a nota mais característica do modo em momentos importantes.\n3. **Frase**: escreva uma ideia de 4 compassos que deixe o modo reconhecível mesmo com bastante espaço.\n\nSe o modo continua evidente quando você desacelera, você está realmente ouvindo sua cor.",
+          "es": "## Desafío avanzado\nTrabaja en tres etapas:\n1. **Sonido**: toca despacio, con articulación clara y sin depender de la velocidad.\n2. **Color modal**: sostén o recupera la nota más característica del modo en momentos importantes.\n3. **Frase**: escribe una idea de 4 compases que deje el modo reconocible incluso con bastante espacio.\n\nSi el modo sigue siendo evidente cuando desaceleras, de verdad estás oyendo su color."
+        }
+      }
     }
   ],
   "tests": [],
   "createdAt": "2025-11-30T00:00:00Z",
-  "updatedAt": "2025-11-30T00:00:00Z"
+  "updatedAt": "2026-03-08T00:00:00Z"
 }

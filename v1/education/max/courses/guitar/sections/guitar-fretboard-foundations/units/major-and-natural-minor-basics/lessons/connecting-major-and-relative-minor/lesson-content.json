@@ -78,9 +78,35 @@
           "es": "Cuando esto encaja, cada dibujo de escala mayor que conoces te regala automáticamente un **segundo sabor**: su menor relativa, viviendo en los mismos trastes."
         }
       }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nUse **Connecting major and relative minor** as a way to make the fretboard more readable in real time. Play the pattern once slowly, then stop at random points and name the note, degree, or landmark before you continue. Finally, connect the same idea to a nearby position so the lesson becomes navigation, not just repetition.\n\nA strong fretboard exercise is only useful if it helps you make better decisions while actually playing music.",
+          "zh-Hans": "## 音乐应用\n使用**连接大调和相对小调**作为使指板更具实时可读性的方法。缓慢地播放该模式一次，然后在随机点停止并命名音符、程度或地标，然后再继续。最后，将相同的想法与附近的位置联系起来，以便课程成为导航，而不仅仅是重复。\n\n强大的指板练习只有在帮助您在实际演奏音乐时做出更好的决定时才有用。",
+          "de": "## Musikalische Anwendung\nVerwenden Sie **Dur und relatives Moll verbinden**, um das Griffbrett in Echtzeit besser lesbar zu machen. Spielen Sie das Muster einmal langsam ab, halten Sie dann an zufälligen Punkten an und benennen Sie die Note, den Grad oder den Orientierungspunkt, bevor Sie fortfahren. Verbinden Sie schließlich dieselbe Idee mit einer nahegelegenen Position, damit die Lektion zur Navigation und nicht nur zur Wiederholung wird.\n\nEine starke Griffbrettübung ist nur dann sinnvoll, wenn sie Ihnen hilft, bessere Entscheidungen zu treffen, während Sie tatsächlich Musik spielen.",
+          "ja": "## 音楽アプリケーション\nフレットボードをリアルタイムで読みやすくする方法として、**メジャーと相対マイナーの接続** を使用します。パターンをゆっくりと 1 回再生し、ランダムなポイントで停止し、音符、度数、またはランドマークに名前を付けてから、続行します。最後に、同じアイデアを近くの位置に関連付けて、レッスンが単なる繰り返しではなくナビゲーションになるようにします。\n\n強力なフレットボードの練習は、実際に音楽を演奏する際により良い意思決定を下すのに役立つ場合にのみ役立ちます。",
+          "pt-BR": "## Aplicação musical\nUse **Conectando o maior e o menor relativo** para ligar regiões do braço com segurança. Toque lentamente, observe mudanças de corda, dedilhado e localização das tônicas, e depois conecte duas posições sem perder pulso nem limpeza. O objetivo aqui é construir uma visão do instrumento que permita tocar com liberdade mais adiante.\n\nPergunta-chave: eu realmente sei onde estou no braço, ou só reconheço a figura quando ela aparece debaixo da mão?",
+          "es": "## Aplicación musical\nUsa **Conectando la mayor y la menor relativa** para conectar zonas del mástil con seguridad. Toca despacio, observa cambios de cuerda, mano derecha y ubicación de las tónicas, y después une dos posiciones sin perder pulso ni limpieza. El objetivo aquí es construir una visión del instrumento que más adelante te permita tocar con libertad real.\n\nPregunta clave: ¿de verdad sé dónde estoy en el mástil, o solo reconozco la figura cuando aparece bajo la mano?"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\nWork through three layers:\n1. **Accuracy layer**: relaxed hands, clear picking, no collapsing fingerings.\n2. **Awareness layer**: identify roots, intervals, or repeated note locations as you play.\n3. **Musical layer**: turn the same material into a short phrase that starts and ends with intention.\n\nWhen it feels comfortable, move it to another key area of the neck without looking back at the diagram.",
+          "zh-Hans": "## 高级挑战\n通过三层工作：\n1. **精度层**：双手放松，拨弦清晰，指法不崩。\n2. **意识层**：在演奏时识别根音、音程或重复音符位置。\n3. **音乐层**：将相同的材料变成一个开头和结尾都有意图的简短短语。\n\n当感觉舒服时，将其移至颈部的另一个关键区域，不要回头看图。",
+          "de": "## Fortgeschrittene Herausforderung\nArbeiten Sie drei Schichten durch:\n1. **Genauigkeitsebene**: entspannte Hände, klares Zupfen, keine zusammenbrechenden Fingersätze.\n2. **Bewusstseinsebene**: Identifizieren Sie Grundtöne, Intervalle oder wiederholte Notenpositionen beim Spielen.\n3. **Musikalische Ebene**: Verwandeln Sie dasselbe Material in eine kurze Phrase, die mit einer Absicht beginnt und endet.\n\nWenn es sich angenehm anfühlt, bewegen Sie es zu einem anderen Schlüsselbereich des Halses, ohne noch einmal auf das Diagramm zu schauen.",
+          "ja": "## 高度なチャレンジ\n3 つのレイヤーを介して作業します。\n1. **正確性レイヤー**: リラックスした手、明確なピッキング、崩れない運指。\n2. **認識レイヤー**: 演奏中にルート、インターバル、または繰り返されるノートの位置を特定します。\n3. **音楽レイヤー**: 同じ素材を、意図的に始まり、意図的に終わる短いフレーズに変換します。\n\n快適に感じたら、図を見返さずに首の別の重要な領域に移動します。",
+          "pt-BR": "## Desafio avançado\nTrabalhe em três etapas:\n1. **Mapa**: localize tônicas e pontos de referência antes de tocar.\n2. **Conexão**: una duas posições com transição limpa e tempo estável.\n3. **Aplicação**: improvise por 4 compassos usando conscientemente as duas regiões.\n\nSe você consegue se mover pelo braço sem se perder, a fundação está ficando confiável.",
+          "es": "## Desafío avanzado\nTrabaja en tres etapas:\n1. **Mapa**: localiza tónicas y puntos de referencia antes de tocar.\n2. **Conexión**: une dos posiciones con una transición limpia y tiempo estable.\n3. **Aplicación**: improvisa durante 4 compases usando conscientemente ambas regiones.\n\nSi puedes moverte por el mástil sin perderte, la base ya se está volviendo confiable."
+        }
+      }
     }
   ],
   "tests": [],
   "createdAt": "2025-11-30T00:00:00Z",
-  "updatedAt": "2025-11-30T00:00:00Z"
+  "updatedAt": "2026-03-08T00:00:00Z"
 }
