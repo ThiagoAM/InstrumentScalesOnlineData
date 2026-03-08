@@ -26,7 +26,7 @@
       },
       "image": {
         "type": "url",
-        "value": "https://thiagoam.github.io/instrumentScales/api/education/max/images/guitar.jpg"
+        "value": "https://thiagoam.github.io/instrumentScales/api/v1/education/max/images/guitar.jpg"
       },
       "tags": ["guitar", "advanced"],
       "order": 1,
@@ -58,7 +58,7 @@
       },
       "image": {
         "type": "url",
-        "value": "https://thiagoam.github.io/instrumentScales/api/education/max/images/bass.jpg"
+        "value": "https://thiagoam.github.io/instrumentScales/api/v1/education/max/images/bass.jpg"
       },
       "tags": ["bass", "advanced"],
       "order": 2,
@@ -90,7 +90,7 @@
       },
       "image": {
         "type": "url",
-        "value": "https://thiagoam.github.io/instrumentScales/api/education/max/images/piano.jpg"
+        "value": "https://thiagoam.github.io/instrumentScales/api/v1/education/max/images/piano.jpg"
       },
       "tags": ["piano", "advanced"],
       "order": 3,
