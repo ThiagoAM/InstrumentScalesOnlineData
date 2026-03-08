@@ -28,7 +28,7 @@
       },
       "image": {
         "type": "url",
-        "value": "https://thiagoam.github.io/instrumentScales/api/v1/education/free/images/guitar-free.jpg"
+        "value": "https://thiagoam.github.io/InstrumentScalesOnlineData/v1/education/free/images/guitar-free.jpg"
       },
       "tags": ["guitar", "beginner"],
       "order": 1,
@@ -60,7 +60,7 @@
       },
       "image": {
         "type": "url",
-        "value": "https://thiagoam.github.io/instrumentScales/api/v1/education/free/images/bass-free.jpg"
+        "value": "https://thiagoam.github.io/InstrumentScalesOnlineData/v1/education/free/images/bass-free.jpg"
       },
       "tags": ["bass", "beginner"],
       "order": 2,
@@ -92,7 +92,7 @@
       },
       "image": {
         "type": "url",
-        "value": "https://thiagoam.github.io/instrumentScales/api/v1/education/free/images/piano-free.jpg"
+        "value": "https://thiagoam.github.io/InstrumentScalesOnlineData/v1/education/free/images/piano-free.jpg"
       },
       "tags": ["piano", "beginner"],
       "order": 3,
