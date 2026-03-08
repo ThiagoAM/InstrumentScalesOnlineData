@@ -2,11 +2,19 @@
   "whatsNew": {
     "en": [
       {
+        "title": "Version 3.0.2",
+        "description": "Bug fixes; Support for iOS 18 and macOS 15; New lessons"
+      },
+      {
         "title": "Version 3.0",
         "description": "We’ve completely redesigned the app with exciting new features, including a fresh interface, Scale Search with Apple Intelligence, interactive Courses, and stunning new color themes!"
       }
     ],
     "pt-BR": [
+      {
+        "title": "Versão 3.0.2",
+        "description": "Correções de bugs; Suporte ao iOS 18 e macOS 15; Novas lições"
+      },
       {
         "title": "Versão 3.0",
         "description": "Reformulamos completamente o app com recursos incríveis, incluindo uma nova interface, Busca de Escalas com suporte à Apple Intelligence, Cursos interativos e novos temas de cores incríveis!"
@@ -14,11 +22,19 @@
     ],
     "ja": [
       {
+        "title": "バージョン 3.0.2",
+        "description": "バグ修正、iOS 18 と macOS 15 への対応、新しいレッスンを追加しました"
+      },
+      {
         "title": "バージョン 3.0",
         "description": "アプリを完全にリニューアルし、新しいインターフェース、Apple Intelligence 対応のスケール検索、インタラクティブなコース、そして美しい新しいカラーテーマなど、エキサイティングな新機能を追加しました！"
       }
     ],
     "zh-CN": [
+      {
+        "title": "版本 3.0.2",
+        "description": "问题修复；支持 iOS 18 和 macOS 15；新增课程"
+      },
       {
         "title": "版本 3.0",
         "description": "我们彻底重新设计了应用，带来了令人兴奋的新功能，包括全新的界面、支持 Apple Intelligence 的音阶搜索、互动课程以及令人惊艳的新配色主题！"
@@ -26,11 +42,19 @@
     ],
     "de": [
       {
+        "title": "Version 3.0.2",
+        "description": "Fehlerbehebungen; Unterstützung für iOS 18 und macOS 15; Neue Lektionen"
+      },
+      {
         "title": "Version 3.0",
         "description": "Wir haben die App komplett neu gestaltet – mit spannenden neuen Funktionen wie einer frischen Benutzeroberfläche, Skalen-Suche mit Apple Intelligence, interaktiven Kursen und beeindruckenden neuen Farbthemen!"
       }
     ],
     "es": [
+      {
+        "title": "Versión 3.0.2",
+        "description": "Corrección de errores; Compatibilidad con iOS 18 y macOS 15; Nuevas lecciones"
+      },
       {
         "title": "Versión 3.0",
         "description": "Hemos rediseñado completamente la aplicación con emocionantes funciones nuevas, incluyendo una interfaz renovada, búsqueda de escalas con Apple Intelligence, cursos interactivos y nuevos y sorprendentes temas de color."
@@ -99,5 +123,5 @@
       }
     ]
   },
-  "updatedAt": "2025-10-08T01:40:00Z"
+  "updatedAt": "2026-03-08T20:02:04Z"
 }
