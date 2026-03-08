@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "singable-phrases-in-the-upper-register",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Singable Phrases in the Upper Register",
+        "zh-Hans": "高音区可唱的乐句",
+        "de": "Singbare Phrasen im oberen Register",
+        "ja": "高音域で歌いやすいフレーズ",
+        "pt-BR": "Frases Cantáveis no Registro Superior",
+        "es": "Frases cantables en el registro superior"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Develop melodic bass ideas that still sound connected to harmony.",
+        "zh-Hans": "开发听起来仍与和声相关的旋律贝斯创意。",
+        "de": "Entwickeln Sie melodische Bassideen, die dennoch harmonisch klingen.",
+        "ja": "ハーモニーと結びついて聞こえるメロディックなベースのアイデアを開発します。",
+        "pt-BR": "Desenvolva ideias de baixo melódico que ainda soem conectadas à harmonia.",
+        "es": "Desarrolla ideas de bajo melódico que aún suenen conectadas a la armonía."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

@@ -1,0 +1,99 @@
+{
+  "id": "left-hand-blues-ostinato-with-right-hand-licks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left-Hand Blues Ostinato with Right-Hand Licks\nBlues piano starts feeling real when the hands stop fighting each other. In this lesson the left hand keeps a steady ostinato while the right hand answers with short licks and fills.",
+          "zh-Hans": "# 左手布鲁斯固定音节与右手舔\n当双手停止互相争斗时，布鲁斯钢琴开始感觉真实。在本课程中，左手保持稳定的固定音，而右手则以短的舔音和加音来回答。",
+          "de": "# Blues-Ostinato für die linke Hand mit Licks für die rechte Hand\nBlues-Piano fühlt sich erst dann echt an, wenn die Hände aufhören, gegeneinander zu kämpfen. In dieser Lektion hält die linke Hand ein gleichmäßiges Ostinato, während die rechte Hand mit kurzen Licks und Fills antwortet.",
+          "ja": "# 左手のブルース・オスティナートと右手のリック\nブルースピアノは、手がお互いに争うのをやめたとき、本物のように感じられ始めます。このレッスンでは、左手は安定したオスティナートを保ち、右手は短いリックとフィルで答えます。",
+          "pt-BR": "# Ostinato de Blues para a mão esquerda com licks para a mão direita\nO piano blues começa a parecer real quando as mãos param de lutar entre si. Nesta lição, a mão esquerda mantém um ostinato constante enquanto a mão direita responde com lambidas e preenchimentos curtos.",
+          "es": "# Ostinato de blues para la mano izquierda con licks para la mano derecha\nEl piano de blues empieza a parecer real cuando las manos dejan de luchar entre sí. En esta lección, la mano izquierda mantiene un ostinato constante mientras la mano derecha responde con lamidos cortos y rellenos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- The left hand provides time and character.\n- The right hand should phrase around that groove instead of landing on top of it constantly.\n- Simple material sounds stronger than crowded material when the groove is solid.",
+          "zh-Hans": "# 主要思想\n- 左手提供时间和性格。\n- 右手应该围绕该凹槽发声，而不是不断落在其顶部。\n- 当凹槽坚固时，简单材料的声音比拥挤材料的声音更强。",
+          "de": "# Hauptidee\n- Die linke Hand sorgt für Zeit und Charakter.\n- Die rechte Hand sollte um diesen Groove herumphrasieren, anstatt ständig darauf zu landen.\n- Einfaches Material klingt stärker als überfülltes Material, wenn der Groove fest ist.",
+          "ja": "# 主なアイデア\n- 左手は時間と個性を与えます。\n- 右手は、常にグルーヴの上に着地するのではなく、そのグルーヴの周りでフレーズする必要があります。\n- シンプルな素材は、グルーブがしっかりしている場合、混雑した素材よりも強く聞こえます。",
+          "pt-BR": "#Ideia principal\n- A mão esquerda fornece tempo e caráter.\n- A mão direita deve frasear em torno desse sulco em vez de pousar em cima dele constantemente.\n- O material simples soa mais forte do que o material aglomerado quando o sulco é sólido.",
+          "es": "# idea principal\n- La mano izquierda aporta tiempo y carácter.\n- La mano derecha debe frasear alrededor de ese surco en lugar de aterrizar encima de él constantemente.\n- El material simple suena más fuerte que el material abarrotado cuando el surco es sólido."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Build a simple left-hand pattern in C.\n2. Loop it until it feels automatic.\n3. Add a right-hand blues lick of only 3 to 5 notes.\n4. Leave space before the next lick so the groove can breathe.\n5. Keep both hands relaxed and quieter than you think.",
+          "zh-Hans": "# 引导钻\n1. 用 C 语言构建一个简单的左手模式。\n2. 循环播放直到感觉自动完成。\n3. 添加仅 3 到 5 个音符的右手布鲁斯乐句。\n4. 在下次舔之前留出空间，以便沟槽可以呼吸。\n5. 保持双手放松，比你想象的更安静。",
+          "de": "# Geführter Bohrer\n1. Erstellen Sie ein einfaches Muster für die linke Hand in C.\n2. Machen Sie eine Schleife, bis es sich automatisch anfühlt.\n3. Fügen Sie einen Blues-Lick für die rechte Hand mit nur 3 bis 5 Noten hinzu.\n4. Lassen Sie vor dem nächsten Lecken Platz, damit die Rille atmen kann.\n5. Halten Sie beide Hände entspannt und ruhiger, als Sie denken.",
+          "ja": "# ガイド付きドリル\n1. C で単純な左手パターンを作成します。\n2. 自動的に感じられるまでループします。\n3. 3 ～ 5 音だけの右手のブルース リックを追加します。\n4. グルーヴが呼吸できるように、次のリックの前にスペースを空けておきます。\n5. 両手はリラックスして、思っているよりも静かに保ちます。",
+          "pt-BR": "# Broca guiada\n1. Construa um padrão simples para a esquerda em C.\n2. Faça um loop até que pareça automático.\n3. Adicione um lick de blues à direita com apenas 3 a 5 notas.\n4. Deixe espaço antes da próxima lambida para que o sulco possa respirar.\n5. Mantenha ambas as mãos relaxadas e mais silenciosas do que você imagina.",
+          "es": "# Taladro guiado\n1. Construya un patrón simple para la izquierda en C.\n2. Haga un bucle hasta que se sienta automático.\n3. Añade un lick de blues con la mano derecha de sólo 3 a 5 notas.\n4. Deje espacio antes de la siguiente lamida para que el surco pueda respirar.\n5. Mantén ambas manos relajadas y más tranquilas de lo que crees."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nTreat the right hand like a singer answering the band. Each lick should have a clear start and end, and the left hand should never lose the pulse just because the right hand gets excited.",
+          "zh-Hans": "# 让它变得音乐化\n像对待乐队的歌手一样对待右手。每次舔都应该有明确的开始和结束，决不能因为右手兴奋而左手失去脉搏。",
+          "de": "# Mach es musikalisch\nBehandeln Sie die rechte Hand wie einen Sänger, der der Band antwortet. Jedes Lecken sollte einen klaren Anfang und ein klares Ende haben und die linke Hand sollte niemals den Puls verlieren, nur weil die rechte Hand aufgeregt ist.",
+          "ja": "#音楽的にする\n右手をバンドに応える歌手のように扱います。それぞれのなめる音の始まりと終わりが明確である必要があり、右手が興奮したからといって左手の脈動を失わないようにしてください。",
+          "pt-BR": "# Torne-o musical\nTrate a mão direita como um cantor respondendo à banda. Cada lambida deve ter início e fim claros, e a mão esquerda nunca deve perder o pulso só porque a mão direita fica excitada.",
+          "es": "# Hazlo musical\nTrate la mano derecha como un cantante respondiendo a la banda. Cada lamida debe tener un comienzo y un final claros, y la mano izquierda nunca debe perder el pulso sólo porque la mano derecha se excite."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play left hand alone for 2 minutes.\n2. Add one repeating lick in the right hand.\n3. Change only the rhythm of the lick, not the notes.\n4. Finish with a 12-bar pass that leaves at least one empty beat in every phrase.",
+          "zh-Hans": "## 快速练习\n1. 左手单独弹奏2分钟。\n2. 在右手中添加一次重复舔。\n3. 仅更改舔音的节奏，而不更改音符。\n4. 以 12 小节的通行结束，每个乐句至少留下一个空拍。",
+          "de": "## Schnelles Üben\n1. Spielen Sie 2 Minuten lang alleine mit der linken Hand.\n2. Fügen Sie einen wiederholten Lick in der rechten Hand hinzu.\n3. Ändern Sie nur den Rhythmus des Licks, nicht die Noten.\n4. Schließen Sie mit einem 12-Takt-Pass ab, der in jeder Phrase mindestens einen leeren Schlag lässt.",
+          "ja": "## 簡単な練習\n1. 左手だけで 2 分間演奏します。\n2. 右手で繰り返しなめる音を 1 回追加します。\n3. ノートではなく、リックのリズムのみを変更します。\n4. すべてのフレーズに少なくとも 1 拍の空拍を残す 12 小節のパスで終了します。",
+          "pt-BR": "## Prática rápida\n1. Toque apenas com a mão esquerda por 2 minutos.\n2. Adicione uma lambida repetida na mão direita.\n3. Mude apenas o ritmo do lick, não as notas.\n4. Termine com uma passagem de 12 compassos que deixe pelo menos uma batida vazia em cada frase.",
+          "es": "## Práctica rápida\n1. Toca solo con la mano izquierda durante 2 minutos.\n2. Añade una lamida repetida en la mano derecha.\n3. Cambia sólo el ritmo del lick, no las notas.\n4. Termina con un pase de 12 compases que deje al menos un tiempo vacío en cada frase."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nThis setup is useful for solo piano, accompaniment, songwriting, and learning to improvise without sounding disconnected. It teaches groove, independence, and restraint at the same time.",
+          "zh-Hans": "## 音乐应用\n此设置对于钢琴独奏、伴奏、歌曲创作以及学习即兴创作非常有用，而不会听起来断断续续。它同时教导节奏、独立和克制。",
+          "de": "## Musikalische Anwendung\nDieses Setup ist nützlich für Solo-Klavier, Begleitung, Songwriting und das Erlernen des Improvisierens, ohne unzusammenhängend zu klingen. Es lehrt Groove, Unabhängigkeit und Zurückhaltung zugleich.",
+          "ja": "## 音楽アプリケーション\nこのセットアップは、ソロピアノ、伴奏、作曲、そして途切れることなく即興演奏することを学ぶのに役立ちます。グルーヴ感、自主性、自制心を同時に教えます。",
+          "pt-BR": "## Aplicação musical\nEsta configuração é útil para piano solo, acompanhamento, composição e aprendizado de improvisação sem parecer desconectado. Ensina groove, independência e moderação ao mesmo tempo.",
+          "es": "## Aplicación musical\nEsta configuración es útil para piano solo, acompañamiento, composición de canciones y aprender a improvisar sin sonar desconectado. Enseña ritmo, independencia y moderación al mismo tiempo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Keep the left-hand ostinato going for a full minute without stopping.\n2. Improvise right-hand answers using only the C blues scale.\n3. Make every new phrase rhythmically different from the previous one.\n\nIf the groove stays confident while the right hand stays conversational, the blues feel is starting to lock in.",
+          "zh-Hans": "## 高级挑战\n1. 保持左手固定音整整一分钟，不要停止。\n2. 仅使用 C 布鲁斯音阶即兴右手答案。\n3. 使每个新乐句在节奏上与前一个乐句有所不同。\n\n如果节奏保持自信，而右手保持对话，布鲁斯的感觉就开始锁定。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Lassen Sie das Ostinato der linken Hand eine ganze Minute lang laufen, ohne anzuhalten.\n2. Improvisieren Sie Antworten für die rechte Hand, indem Sie nur die C-Blues-Tonleiter verwenden.\n3. Machen Sie jede neue Phrase rhythmisch anders als die vorherige.\n\nWenn der Groove souverän bleibt, während die rechte Hand gesprächig bleibt, fängt das Blues-Feeling an, sich festzusetzen.",
+          "ja": "## 高度なチャレンジ\n1. 左手のオスティナートを 1 分間、止まらずに続けます。\n2. C ブルース スケールのみを使用して右手の答えを即興で作ります。\n3. 新しいフレーズはすべて、前のフレーズとはリズミカルに異なるものにします。\n\nグルーヴに自信があり、右手が会話的なままであれば、ブルースの雰囲気が定着し始めています。",
+          "pt-BR": "## Desafio avançado\n1. Mantenha o ostinato da mão esquerda funcionando por um minuto inteiro sem parar.\n2. Improvise respostas da mão direita usando apenas a escala C blues.\n3. Faça com que cada nova frase seja ritmicamente diferente da anterior.\n\nSe o groove permanecer confiante enquanto a mão direita permanece conversadora, a sensação do blues está começando a se firmar.",
+          "es": "## Desafío avanzado\n1. Mantenga el ostinato de la mano izquierda durante un minuto completo sin parar.\n2. Improvisar respuestas con la mano derecha utilizando únicamente la escala de blues C.\n3. Haz que cada nueva frase sea rítmicamente diferente a la anterior.\n\nSi el ritmo se mantiene seguro mientras la mano derecha permanece conversacional, la sensación de blues comienza a fijarse."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

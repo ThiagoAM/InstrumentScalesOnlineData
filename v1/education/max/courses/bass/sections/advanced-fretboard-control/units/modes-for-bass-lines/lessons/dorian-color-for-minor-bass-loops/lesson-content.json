@@ -1,0 +1,99 @@
+{
+  "id": "dorian-color-for-minor-bass-loops",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Dorian Color for Minor Bass Loops\nMinor grooves can sound dark in several different ways. In this lesson you will use Dorian to keep the minor sound while adding a brighter color through the natural 6.",
+          "zh-Hans": "# 小低音循环的 Dorian 颜色\n小凹槽可以通过几种不同的方式听起来很暗。在本课程中，您将使用 Dorian 保留小调声音，同时通过自然 6 添加更明亮的颜色。",
+          "de": "# Dorische Farbe für Moll-Bass-Loops\nMoll-Grooves können auf verschiedene Weise düster klingen. In dieser Lektion verwenden Sie Dorian, um den Moll-Klang beizubehalten, während Sie durch die natürliche 6 eine hellere Farbe hinzufügen.",
+          "ja": "# マイナーベースループのドリアンカラー\nマイナーグルーブは、いくつかの異なる方法で暗く聞こえることがあります。このレッスンでは、ドリアンを使用してマイナー サウンドを維持しながら、ナチュラル 6 を通して明るい色を追加します。",
+          "pt-BR": "# Dorian Color para loops de baixo menores\nGrooves menores podem soar sombrios de várias maneiras diferentes. Nesta lição você usará Dorian para manter o som menor enquanto adiciona uma cor mais brilhante através do 6 natural.",
+          "es": "# Color Dorian para bucles de bajo menores\nLos ritmos menores pueden sonar oscuros de varias maneras diferentes. En esta lección usarás Dorian para mantener el sonido menor mientras agregas un color más brillante a través del 6 natural."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- Compare A natural minor: A B C D E F G with A Dorian: A B C D E F# G.\n- The note F# is the color note that separates Dorian from Aeolian.\n- You do not need to hit it constantly. You only need to place it where the ear can notice it.",
+          "zh-Hans": "# 主要思想\n- 比较自然小调：A B C D E F G 与多利安小调：A B C D E F# G。\n- F# 音符是区分 Dorian 和 Aeolian 的颜色音符。\n- 你不需要不断地敲击它。您只需将其放置在耳朵可以注意到的地方即可。",
+          "de": "# Hauptidee\n- Vergleichen Sie A natürliches Moll: A B C D E F G mit A Dorian: A B C D E F# G.\n- Die Note F# ist die Farbnote, die das Dorische vom Äolischen trennt.\n- Sie müssen nicht ständig darauf schlagen. Sie müssen es nur dort platzieren, wo das Ohr es wahrnehmen kann.",
+          "ja": "# 主なアイデア\n- ナチュラルマイナー: A B C D E F G とドリアン: A B C D E F# G を比較します。\n- F# の音は、ドリアンとエオリアンを分けるカラー音です。\n- 常に叩く必要はありません。耳の目に留まる場所に置くだけで十分です。",
+          "pt-BR": "#Ideia principal\n- Compare Lá menor natural: A B C D E F G com A Dorian: A B C D E F# G.\n- A nota F# é a nota colorida que separa Dorian de Eólia.\n- Você não precisa bater constantemente. Você só precisa colocá-lo onde o ouvido possa perceber.",
+          "es": "# idea principal\n- Comparar La menor natural: A B C D E F G con La dórica: A B C D E F# G.\n- La nota Fa# es la nota de color que separa a dórico de eólico.\n- No es necesario golpearlo constantemente. Sólo necesitas colocarlo donde el oído pueda notarlo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Set a one-chord Am7 loop.\n2. Play only root, b3, 5, and b7 for one minute.\n3. Add the natural 6 on the upbeat or near the end of the phrase.\n4. Resolve back to A or C so the groove still feels grounded.",
+          "zh-Hans": "# 引导钻\n1. 设置单和弦 Am7 循环。\n2. 仅弹奏 root、b3、5 和 b7 一分钟。\n3. 在乐句或接近乐句结尾处添加自然 6。\n4. 回到 A 或 C，这样凹槽仍然感觉接地。",
+          "de": "# Geführter Bohrer\n1. Legen Sie einen Am7-Loop mit einem Akkord fest.\n2. Spielen Sie eine Minute lang nur Grundton, b3, 5 und b7.\n3. Fügen Sie die natürliche 6 am Auftakt oder gegen Ende der Phrase hinzu.\n4. Gehen Sie zurück zu A oder C, damit sich die Rille immer noch geerdet anfühlt.",
+          "ja": "# ガイド付きドリル\n1. ワンコードのAm7ループを設定します。\n2. root、b3、5、b7 だけを 1 分間再生します。\n3. 明るい拍子またはフレーズの終わり近くに自然な 6 を追加します。\n4. A または C に戻り、グルーブがまだ接地していると感じられるようにします。",
+          "pt-BR": "# Broca guiada\n1. Defina um loop Am7 de um acorde.\n2. Toque apenas raiz, b3, 5 e b7 por um minuto.\n3. Adicione o 6 natural na batida otimista ou próximo ao final da frase.\n4. Volte para A ou C para que a ranhura ainda pareça aterrada.",
+          "es": "# Taladro guiado\n1. Configure un bucle Am7 de un acorde.\n2. Juegue sólo raíz, b3, 5 y b7 durante un minuto.\n3. Añade el 6 natural en el tiempo positivo o cerca del final de la frase.\n4. Vuelva a resolver A o C para que el ritmo todavía se sienta arraigado."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nTrade two versions of the same groove: one that sounds like natural minor and one that sounds like Dorian. If the second version feels a little more open and soulful, you are hearing the mode correctly.",
+          "zh-Hans": "# 让它变得音乐化\n交换同一律动的两个版本：一种听起来像自然小调，另一种听起来像多里安。如果第二个版本感觉更加开放和深情，那么您听到的模式是正确的。",
+          "de": "# Mach es musikalisch\nTauschen Sie zwei Versionen desselben Grooves: eine, die wie natürliches Moll klingt, und eine, die wie Dorian klingt. Wenn sich die zweite Version etwas offener und gefühlvoller anfühlt, hören Sie den Modus richtig.",
+          "ja": "#音楽的にする\n同じグルーヴの 2 つのバージョンを交換します。1 つはナチュラル マイナーのような音、もう 1 つはドリアンのような音です。 2 番目のバージョンがもう少しオープンでソウルフルに感じられる場合は、モードが正しく聞こえていることになります。",
+          "pt-BR": "# Torne-o musical\nTroque duas versões do mesmo groove: uma que soa como menor natural e outra que soa como Dorian. Se a segunda versão parecer um pouco mais aberta e comovente, você está ouvindo o modo corretamente.",
+          "es": "# Hazlo musical\nIntercambia dos versiones del mismo ritmo: una que suene como menor natural y otra que suene como Dorian. Si la segunda versión parece un poco más abierta y conmovedora, estás escuchando el modo correctamente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Stay in one key for 3 minutes.\n2. Limit yourself to short phrases of 3 to 5 notes.\n3. Use the natural 6 only once or twice per phrase.\n4. Listen for whether the color note sounds chosen, not accidental.",
+          "zh-Hans": "## 快速练习\n1、一键停留3分钟。\n2. 限制自己使用 3 到 5 个音符的简短短语。\n3. 每个乐句仅使用自然 6 一次或两次。\n4. 听听颜色音符听起来是否是经过选择的，而不是偶然的。",
+          "de": "## Schnelles Üben\n1. Bleiben Sie 3 Minuten lang in einer Taste.\n2. Beschränken Sie sich auf kurze Sätze mit 3 bis 5 Noten.\n3. Verwenden Sie die natürliche 6 nur ein- oder zweimal pro Satz.\n4. Achten Sie darauf, ob die Farbnote gewählt und nicht zufällig klingt.",
+          "ja": "## 簡単な練習\n1. 1 つのキーを 3 分間押し続けます。\n2. 3 ～ 5 音符の短いフレーズに限定します。\n3. 自然な 6 はフレーズごとに 1 回か 2 回だけ使用します。\n4. カラーノートが偶然ではなく、選ばれたように聞こえるかどうかを聞いてください。",
+          "pt-BR": "## Prática rápida\n1. Fique na mesma tecla por 3 minutos.\n2. Limite-se a frases curtas de 3 a 5 notas.\n3. Use o 6 natural apenas uma ou duas vezes por frase.\n4. Ouça se a nota colorida soa escolhida, não acidental.",
+          "es": "## Práctica rápida\n1. Permanezca en una tecla durante 3 minutos.\n2. Limítate a frases cortas de 3 a 5 notas.\n3. Utilice el 6 natural sólo una o dos veces por frase.\n4. Escuche si la nota de color suena elegida, no accidentalmente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nDorian works beautifully in funk, neo-soul, jam grooves, and modal pop because it keeps the bass line minor without making it heavy all the time. It is a great way to sound sophisticated with only one extra note choice.",
+          "zh-Hans": "## 音乐应用\nDorian 在放克、新灵魂乐、即兴节奏和调式流行音乐中表现出色，因为它使低音线保持较小，但又不会一直变得沉重。这是一种只需一个额外音符选择即可听起来复杂的好方法。",
+          "de": "## Musikalische Anwendung\nDorian eignet sich wunderbar für Funk, Neo-Soul, Jam-Grooves und modalen Pop, weil er die Basslinie in Moll hält, ohne sie ständig schwer zu machen. Es ist eine großartige Möglichkeit, mit nur einer zusätzlichen Notenauswahl anspruchsvoll zu klingen.",
+          "ja": "## 音楽アプリケーション\nドリアンは、ベースラインを常に重くすることなくマイナーに保つため、ファンク、ネオソウル、ジャムグルーヴ、モーダルポップで美しく機能します。追加の音を 1 つ選択するだけで、洗練されたサウンドを実現する素晴らしい方法です。",
+          "pt-BR": "## Aplicação musical\nDorian funciona lindamente em funk, neo-soul, jam grooves e pop modal porque mantém a linha do baixo menor sem torná-la pesada o tempo todo. É uma ótima maneira de soar sofisticado com apenas uma escolha de nota extra.",
+          "es": "## Aplicación musical\nDorian funciona maravillosamente en funk, neo-soul, jam grooves y pop modal porque mantiene la línea de bajo menor sin volverla pesada todo el tiempo. Es una excelente manera de sonar sofisticado con solo una opción de nota adicional."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Record 8 bars of an A minor groove without the natural 6.\n2. Record another 8 bars using the natural 6 in two different places.\n3. Compare which version sounds more alive without sounding too clever.\n\nIf the color note changes the mood while the pocket stays solid, you are using mode as music, not theory trivia.",
+          "zh-Hans": "## 高级挑战\n1. 录制 A 小调律动的 8 小节，不含自然 6。\n2. 在两个不同的地方使用自然 6 录制另外 8 个小节。\n3. 比较哪个版本听起来更生动，但听起来又不太聪明。\n\n如果颜色音符改变了情绪，而口袋保持坚固，那么您正在将模式用作音乐，而不是理论琐事。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Nehmen Sie 8 Takte einer a-Moll-Groove ohne die natürliche 6 auf.\n2. Nehmen Sie weitere 8 Takte mit der natürlichen 6 an zwei verschiedenen Stellen auf.\n3. Vergleichen Sie, welche Version lebendiger klingt, ohne zu clever zu klingen.\n\nWenn die Farbnote die Stimmung ändert, während die Tasche stabil bleibt, verwenden Sie den Modus als Musik und nicht als theoretisches Wissen.",
+          "ja": "## 高度なチャレンジ\n1. ナチュラル 6 を除いた A マイナー グルーブの 8 小節を録音します。\n2. 2 つの異なる場所でナチュラル 6 を使用して、さらに 8 小節を録音します。\n3. どちらのバージョンが賢くなりすぎず、より生き生きと聞こえるかを比較してください。\n\nポケットがしっかりしているのに、色のノートが雰囲気を変える場合、あなたは理論的なトリビアではなく、音楽としてモードを使用していることになります。",
+          "pt-BR": "## Desafio avançado\n1. Grave 8 compassos de um groove lá menor sem o 6 natural.\n2. Grave mais 8 compassos usando o 6 natural em dois lugares diferentes.\n3. Compare qual versão soa mais viva sem parecer muito inteligente.\n\nSe a nota colorida mudar o clima enquanto o bolso permanecer sólido, você estará usando o modo como música, não como curiosidades teóricas.",
+          "es": "## Desafío avanzado\n1. Grabe 8 compases de un ritmo en La menor sin el 6 natural.\n2. Graba otros 8 compases usando el 6 natural en dos lugares diferentes.\n3. Compara qué versión suena más viva sin parecer demasiado inteligente.\n\nSi la nota de color cambia el estado de ánimo mientras el bolsillo permanece sólido, estás usando el modo como música, no como una trivia teórica."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

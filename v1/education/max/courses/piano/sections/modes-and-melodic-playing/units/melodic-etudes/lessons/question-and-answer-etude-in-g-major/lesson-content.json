@@ -1,0 +1,99 @@
+{
+  "id": "question-and-answer-etude-in-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Question and Answer Etude in G Major\nA convincing melody usually feels like it is speaking. In this lesson you will build a short etude in G major based on question and answer phrasing so your melodic ideas sound connected and complete.",
+          "zh-Hans": "# G大调练习曲问答\n令人信服的旋律通常感觉像是在说话。在本课程中，您将根据问答乐句构建一首 G 大调短练习曲，以便您的旋律想法听起来连贯且完整。",
+          "de": "# Frage-und-Antwort-Etüde in G-Dur\nEine überzeugende Melodie fühlt sich normalerweise so an, als würde sie sprechen. In dieser Lektion erstellen Sie eine kurze Etüde in G-Dur, die auf Frage- und Antwortphrasierung basiert, sodass Ihre melodischen Ideen zusammenhängend und vollständig klingen.",
+          "ja": "# 問答エチュード ト長調\n説得力のあるメロディーは、通常、それが語っているように感じられます。このレッスンでは、質問と回答のフレーズに基づいてト長調の短い練習曲を作成し、メロディーのアイデアがつながって完成したように聞こえます。",
+          "pt-BR": "# Estudo de perguntas e respostas em Sol maior\nUma melodia convincente geralmente parece estar falando. Nesta lição, você construirá um pequeno estudo em Sol maior baseado em perguntas e respostas para que suas ideias melódicas pareçam conectadas e completas.",
+          "es": "# Estudio de preguntas y respuestas en sol mayor\nUna melodía convincente suele dar la sensación de que habla. En esta lección, crearás un breve estudio en sol mayor basado en frases de preguntas y respuestas para que tus ideas melódicas suenen conectadas y completas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- A question phrase usually feels open and unfinished.\n- An answer phrase usually feels more settled.\n- Both phrases should belong to the same world: related rhythm, shape, or note material.",
+          "zh-Hans": "# 主要思想\n- 疑问句通常给人开放且未完成的感觉。\n- 回答短语通常感觉更稳定。\n- 两个乐句应该属于同一个世界：相关的节奏、形状或音符材料。",
+          "de": "# Hauptidee\n- Ein Fragesatz fühlt sich normalerweise offen und unvollendet an.\n- Ein Antwortsatz fühlt sich normalerweise ruhiger an.\n- Beide Phrasen sollten zur gleichen Welt gehören: verwandter Rhythmus, Form oder Notenmaterial.",
+          "ja": "# 主なアイデア\n- 質問フレーズは通常、オープンで未完成に感じられます。\n- 答えのフレーズは通常、より落ち着いたものに感じられます。\n- 両方のフレーズが同じ世界、つまり関連するリズム、形状、または音符の素材に属している必要があります。",
+          "pt-BR": "#Ideia principal\n- Uma frase interrogativa geralmente parece aberta e inacabada.\n- Uma frase de resposta geralmente parece mais estabelecida.\n- Ambas as frases devem pertencer ao mesmo mundo: ritmo, forma ou material de nota relacionado.",
+          "es": "# idea principal\n- Una frase interrogativa suele parecer abierta e inacabada.\n- Una frase de respuesta suele parecer más establecida.\n- Ambas frases deben pertenecer al mismo mundo: ritmo, forma o material de notas relacionados."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Write a 2-bar question in G major.\n2. End it on a note that leaves a little tension, such as A or D.\n3. Write a 2-bar answer that resolves more clearly to G or B.\n4. Play the full 4 bars until it sounds like one complete thought.",
+          "zh-Hans": "# 引导钻\n1. 写一个 G 大调 2 小节问题。\n2. 以留下一点张力的音符结尾，例如 A 或 D。\n3. 写出一个 2 小节答案，更清楚地解析为 G 或 B。\n4. 弹奏完整的 4 个小节，直到听起来像是一个完整的想法。",
+          "de": "# Geführter Bohrer\n1. Schreiben Sie eine zweitaktige Frage in G-Dur.\n2. Beenden Sie es mit einer Note, die ein wenig Spannung hinterlässt, z. B. A oder D.\n3. Schreiben Sie eine Antwort mit zwei Takten, die sich eindeutiger auf G oder B auflösen lässt.\n4. Spielen Sie die gesamten 4 Takte, bis es wie ein vollständiger Gedanke klingt.",
+          "ja": "# ガイド付きドリル\n1. ト長調で 2 小節の質問を書きます。\n2. A や D など、少し緊張感を残す音で終了します。\n3. G または B をより明確に解決する 2 小節の答えを書きます。\n4. 1 つの完全な思考のように聞こえるまで、4 小節全体を演奏します。",
+          "pt-BR": "# Broca guiada\n1. Escreva uma pergunta de 2 compassos em Sol maior.\n2. Termine com uma nota que deixe um pouco de tensão, como A ou D.\n3. Escreva uma resposta de 2 compassos que resolva mais claramente para G ou B.\n4. Toque os 4 compassos completos até soar como um pensamento completo.",
+          "es": "# Taladro guiado\n1. Escribe una pregunta de 2 compases en sol mayor.\n2. Termine con una nota que deje un poco de tensión, como A o D.\n3. Escribe una respuesta de 2 compases que se resuelva más claramente en G o B.\n4. Toque los 4 compases completos hasta que suene como un pensamiento completo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nShape the question with a small lift in dynamics and the answer with a calmer release. The difference should be easy to hear even if the notes are simple.",
+          "zh-Hans": "# 让它变得音乐化\n通过稍微提升动态来塑造问题，并通过更平静的释放来塑造答案。即使音符很简单，也应该很容易听出差异。",
+          "de": "# Mach es musikalisch\nGestalten Sie die Frage mit einer kleinen Steigerung der Dynamik und die Antwort mit einer ruhigeren Entspannung. Der Unterschied sollte auch bei einfachen Noten leicht zu hören sein.",
+          "ja": "#音楽的にする\nダイナミクスを少し高めて質問を形作り、穏やかな解放で答えを形作ります。たとえ簡単な音符であっても、違いが聞き取りやすいはずです。",
+          "pt-BR": "# Torne-o musical\nMolde a pergunta com um pequeno aumento na dinâmica e a resposta com uma liberação mais calma. A diferença deve ser fácil de ouvir, mesmo que as notas sejam simples.",
+          "es": "# Hazlo musical\nDale forma a la pregunta con un pequeño aumento de la dinámica y a la respuesta con una liberación más tranquila. La diferencia debería ser fácil de escuchar incluso si las notas son simples."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Start with right hand only.\n2. Add a light left-hand support note or chord.\n3. Try a second answer phrase with a different rhythm.\n4. Record the best version and listen for balance, pacing, and breathing room.",
+          "zh-Hans": "## 快速练习\n1. 只从右手开始。\n2. 添加轻柔的左手支持音符或和弦。\n3. 尝试使用不同节奏的第二个答案短语。\n4. 录制最佳版本并聆听平衡、节奏和呼吸空间。",
+          "de": "## Schnelles Üben\n1. Beginnen Sie nur mit der rechten Hand.\n2. Fügen Sie eine leichte Unterstützungsnote oder einen leichten Akkord für die linke Hand hinzu.\n3. Versuchen Sie es mit einem zweiten Antwortsatz mit einem anderen Rhythmus.\n4. Nehmen Sie die beste Version auf und achten Sie auf Gleichgewicht, Tempo und Freiraum zum Atmen.",
+          "ja": "## 簡単な練習\n1. 右手のみから始めます。\n2. 左手の軽いサポートノートまたはコードを追加します。\n3. 別のリズムで 2 番目の解答フレーズを試してください。\n4. 最良のバージョンを録音し、バランス、ペース、呼吸の余裕を聴きます。",
+          "pt-BR": "## Prática rápida\n1. Comece apenas com a mão direita.\n2. Adicione uma nota ou acorde leve de suporte para a mão esquerda.\n3. Experimente uma segunda frase de resposta com um ritmo diferente.\n4. Grave a melhor versão e ouça o equilíbrio, o ritmo e o espaço para respirar.",
+          "es": "## Práctica rápida\n1. Comience sólo con la mano derecha.\n2. Agregue una nota o acorde ligero de apoyo para la mano izquierda.\n3. Pruebe con una segunda frase de respuesta con un ritmo diferente.\n4. Grabe la mejor versión y escuche el equilibrio, el ritmo y el espacio para respirar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nQuestion-and-answer writing helps with melodies, fills, improvisation, and composition. It gives structure to short ideas and keeps a phrase from feeling like endless scale motion.",
+          "zh-Hans": "## 音乐应用\n问答写作有助于旋律、填充、即兴创作和作曲。它为简短的想法提供了结构，并防止短语感觉像是无休止的规模运动。",
+          "de": "## Musikalische Anwendung\nDas Schreiben von Fragen und Antworten hilft bei Melodien, Fills, Improvisation und Komposition. Es verleiht kurzen Ideen Struktur und verhindert, dass sich eine Phrase wie eine endlose Tonleiterbewegung anfühlt.",
+          "ja": "## 音楽アプリケーション\n質疑応答の書き方は、メロディー、フィル、即興演奏、作曲に役立ちます。短いアイデアに構造を与え、フレーズが無限のスケールの動きのように感じられるのを防ぎます。",
+          "pt-BR": "## Aplicação musical\nA escrita de perguntas e respostas ajuda com melodias, preenchimentos, improvisação e composição. Dá estrutura a ideias curtas e evita que uma frase pareça um movimento em escala infinita.",
+          "es": "## Aplicación musical\nLa escritura de preguntas y respuestas ayuda con las melodías, los rellenos, la improvisación y la composición. Da estructura a ideas breves y evita que una frase parezca un movimiento de escala sin fin."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Expand the etude to 8 bars by adding a second question-and-answer pair.\n2. Make the second pair slightly more intense than the first.\n3. Keep the ending clear and satisfying without becoming overly busy.\n\nIf the listener can feel the conversation inside the phrase, the etude is doing real musical work.",
+          "zh-Hans": "## 高级挑战\n1. 通过添加第二个问答对将练习曲扩展至 8 小节。\n2. 让第二对比第一对稍微强烈一些。\n3. 保持结局清晰且令人满意，但不要变得过于忙碌。\n\n如果听者能感受到乐句中的对话，那么练习曲就是真正的音乐作品。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Erweitern Sie die Etüde auf 8 Takte, indem Sie ein zweites Frage-Antwort-Paar hinzufügen.\n2. Machen Sie das zweite Paar etwas intensiver als das erste.\n3. Halten Sie das Ende klar und zufriedenstellend, ohne übermäßig beschäftigt zu werden.\n\nWenn der Zuhörer die Konversation innerhalb der Phrase spüren kann, leistet die Etüde echte musikalische Arbeit.",
+          "ja": "## 高度なチャレンジ\n1. 2 番目の質問と回答のペアを追加して、練習曲を 8 小節に拡張します。\n2. 2 番目のペアを最初のペアよりもわずかに強くします。\n3. 過度に忙しくせずに、結末を明確で満足のいくものにしてください。\n\n聴き手がフレーズの中に会話を感じることができれば、練習曲は本物の音楽的な仕事をしていることになります。",
+          "pt-BR": "## Desafio avançado\n1. Expanda o estudo para 8 compassos adicionando um segundo par de perguntas e respostas.\n2. Faça o segundo par um pouco mais intenso que o primeiro.\n3. Mantenha o final claro e satisfatório, sem ficar muito ocupado.\n\nSe o ouvinte puder sentir a conversa dentro da frase, o estudo estará realizando um verdadeiro trabalho musical.",
+          "es": "## Desafío avanzado\n1. Amplíe el estudio a 8 compases agregando un segundo par de preguntas y respuestas.\n2. Haz que el segundo par sea un poco más intenso que el primero.\n3. Mantenga el final claro y satisfactorio sin estar demasiado ocupado.\n\nSi el oyente puede sentir la conversación dentro de la frase, el estudio está realizando un verdadero trabajo musical."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

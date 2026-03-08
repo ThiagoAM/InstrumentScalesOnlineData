@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "question-and-answer-etude-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Question and Answer Etude in G Major",
+        "zh-Hans": "G大调练习曲问答",
+        "de": "Frage-und-Antwort-Etüde in G-Dur",
+        "ja": "問答エチュード ト長調",
+        "pt-BR": "Estudo de perguntas e respostas em Sol maior",
+        "es": "Estudio de preguntas y respuestas en sol mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice phrasing and form by building a short etude from paired melodic ideas.",
+        "zh-Hans": "通过根据配对的旋律想法构建简短的练习曲来练习乐句和形式。",
+        "de": "Üben Sie Phrasierung und Form, indem Sie aus gepaarten melodischen Ideen eine kurze Etüde erstellen.",
+        "ja": "ペアになったメロディーのアイデアから短いエチュードを作成して、フレージングと形式を練習します。",
+        "pt-BR": "Pratique o fraseado e a forma construindo um pequeno estudo a partir de ideias melódicas emparelhadas.",
+        "es": "Practique el fraseo y la forma construyendo un breve estudio a partir de ideas melódicas emparejadas."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

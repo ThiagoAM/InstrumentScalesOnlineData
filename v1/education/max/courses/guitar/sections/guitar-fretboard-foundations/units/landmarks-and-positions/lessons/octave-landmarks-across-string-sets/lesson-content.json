@@ -1,0 +1,99 @@
+{
+  "id": "octave-landmarks-across-string-sets",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Octave Landmarks Across String Sets\nWhen you can spot octaves quickly, the fretboard stops feeling like six separate roads. In this lesson you will connect common octave shapes so the same note name becomes easier to find across the neck.",
+          "zh-Hans": "# 跨弦乐组的八度地标\n当您可以快速识别八度音阶时，指板就不再感觉像六条独立的道路。在本课程中，您将连接常见的八度音阶形状，以便在琴颈上更容易找到相同的音符名称。",
+          "de": "# Oktav-Sehenswürdigkeiten über Saitensätze hinweg\nWenn Sie Oktaven schnell erkennen können, fühlt sich das Griffbrett nicht mehr wie sechs separate Straßen an. In dieser Lektion verbinden Sie gängige Oktavformen, damit der gleiche Notenname am Hals leichter zu finden ist.",
+          "ja": "# 文字列セット全体のオクターブ ランドマーク\nオクターブを素早く認識できるようになると、指板が 6 つの別々の道のように感じなくなります。このレッスンでは、共通のオクターブ形状を接続して、ネック全体で同じ音名を見つけやすくします。",
+          "pt-BR": "# Marcos de oitava em conjuntos de cordas\nQuando você consegue identificar oitavas rapidamente, o braço da guitarra deixa de parecer seis estradas separadas. Nesta lição, você conectará formas de oitava comuns para que o mesmo nome da nota seja mais fácil de encontrar no braço.",
+          "es": "# Puntos de referencia de octava en juegos de cuerdas\nCuando puedes detectar octavas rápidamente, el diapasón deja de parecer seis caminos separados. En esta lección conectarás formas de octavas comunes para que sea más fácil encontrar el mismo nombre de nota en todo el mástil."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- From string 6 to 4 and from string 5 to 3, the octave is two frets up and two strings over.\n- From string 4 to 2, the shape stays the same.\n- From string 3 to 1, the tuning shift changes the visual feel, so slow repetition matters.\n- The real goal is instant orientation, not just memorizing shapes in isolation.",
+          "zh-Hans": "# 主要思想\n- 从第 6 弦到第 4 弦以及从第 5 弦到第 3 弦，八度音高两个品格，高出两个琴弦。\n- 从第 4 根弦到第 2 根弦，形状保持不变。\n- 从第 3 弦到第 1 弦，调音转换会改变视觉感觉，因此缓慢的重复很重要。\n- 真正的目标是即时定位，而不仅仅是孤立地记住形状。",
+          "de": "# Hauptidee\n- Von Saite 6 bis 4 und von Saite 5 bis 3 ist die Oktave zwei Bünde höher und zwei Saiten darüber.\n- Von Saite 4 bis 2 bleibt die Form gleich.\n- Von Saite 3 auf 1 verändert die Stimmverschiebung das visuelle Gefühl, daher ist eine langsame Wiederholung wichtig.\n- Das eigentliche Ziel ist die sofortige Orientierung und nicht nur das isolierte Auswendiglernen von Formen.",
+          "ja": "# 主なアイデア\n- 6 弦から 4 弦まで、および 5 弦から 3 弦までは、オクターブは 2 フレット上、2 弦上です。\n・4弦から2弦までは形状は変わりません。\n- 3 弦から 1 弦までは、チューニングの変化により視覚的な感覚が変化するため、ゆっくりと繰り返すことが重要です。\n- 本当の目標は、単に形状を単独で記憶することではなく、瞬時に方向を把握することです。",
+          "pt-BR": "#Ideia principal\n- Da corda 6 à 4 e da corda 5 à 3, a oitava está dois trastes acima e duas cordas acima.\n- Do barbante 4 ao 2, o formato permanece o mesmo.\n- Da corda 3 para a 1, a mudança de afinação muda a sensação visual, portanto a repetição lenta é importante.\n- O verdadeiro objetivo é a orientação instantânea, não apenas memorizar formas isoladamente.",
+          "es": "# idea principal\n- De la cuerda 6 a la 4 y de la cuerda 5 a la 3, la octava está dos trastes arriba y dos cuerdas arriba.\n- De la cuerda 4 a la 2, la forma sigue siendo la misma.\n- De la cuerda 3 a la 1, el cambio de afinación cambia la sensación visual, por lo que la repetición lenta es importante.\n- El verdadero objetivo es la orientación instantánea, no sólo memorizar formas de forma aislada."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Pick one note, like G.\n2. Find it on string 6.\n3. Jump to its octave on string 4.\n4. Repeat the process through other string sets and say the note name every time.\n5. Use a metronome and keep the jumps calm and accurate.",
+          "zh-Hans": "# 引导钻\n1. 选择一个音符，例如 G。\n2. 在字符串 6 上找到它。\n3. 跳到第 4 弦上的八度。\n4. 对其他字符串组重复此过程，并每次说出音符名称。\n5. 使用节拍器并保持跳跃平静和准确。",
+          "de": "# Geführter Bohrer\n1. Wählen Sie eine Note aus, z. B. G.\n2. Suchen Sie es in Zeichenfolge 6.\n3. Springen Sie zur Oktave auf Saite 4.\n4. Wiederholen Sie den Vorgang mit anderen Saitensätzen und sagen Sie jedes Mal den Notennamen.\n5. Benutzen Sie ein Metronom und halten Sie die Sprünge ruhig und präzise.",
+          "ja": "# ガイド付きドリル\n1. G などの音を 1 つ選びます。\n2. 文字列 6 でそれを見つけます。\n3. 弦 4 のオクターブにジャンプします。\n4. 他の文字列セットでもこのプロセスを繰り返し、毎回音名を発音します。\n5. メトロノームを使用し、落ち着いて正確にジャンプを続けてください。",
+          "pt-BR": "# Broca guiada\n1. Escolha uma nota, como G.\n2. Encontre-o na corda 6.\n3. Salte para a oitava na corda 4.\n4. Repita o processo através de outros conjuntos de cordas e diga sempre o nome da nota.\n5. Use um metrônomo e mantenha os saltos calmos e precisos.",
+          "es": "# Taladro guiado\n1. Elige una nota, como G.\n2. Encuéntrelo en la cuerda 6.\n3. Salta a su octava en la cuerda 4.\n4. Repita el proceso con otros conjuntos de cuerdas y diga el nombre de la nota cada vez.\n5. Utiliza un metrónomo y mantén los saltos tranquilos y precisos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nTurn the drill into a riff. Play a low note, answer it with its octave, then move to a nearby chord tone. The octave jump should sound like part of a phrase, not like a geometry exercise.",
+          "zh-Hans": "# 让它变得音乐化\n将练习变成即兴演奏。弹奏一个低音，用它的八度回应它，然后移动到附近的和弦音。八度跳跃听起来应该像乐句的一部分，而不是几何练习。",
+          "de": "# Mach es musikalisch\nVerwandle die Übung in ein Riff. Spielen Sie eine tiefe Note, beantworten Sie sie mit ihrer Oktave und wechseln Sie dann zu einem nahegelegenen Akkordton. Der Oktavsprung sollte wie ein Teil einer Phrase klingen, nicht wie eine Geometrieübung.",
+          "ja": "#音楽的にする\nドリルをリフに変えましょう。低い音を演奏し、そのオクターブで応答してから、近くのコード トーンに移動します。オクターブ ジャンプは、幾何学の練習のように聞こえるのではなく、フレーズの一部のように聞こえる必要があります。",
+          "pt-BR": "# Torne-o musical\nTransforme a broca em um riff. Toque uma nota baixa, responda com sua oitava e depois passe para um tom de acorde próximo. O salto de oitava deve soar como parte de uma frase, não como um exercício de geometria.",
+          "es": "# Hazlo musical\nConvierte el ejercicio en un riff. Toque una nota baja, responda con su octava y luego pase a un tono de acorde cercano. El salto de octava debe sonar como parte de una frase, no como un ejercicio de geometría."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Choose two note names only.\n2. Find each one in three places.\n3. Connect them with quarter notes first.\n4. Then try the same map in eighth notes without panicking.\n5. Stop if accuracy falls apart; speed is not the point yet.",
+          "zh-Hans": "## 快速练习\n1. 仅选择两个音符名称。\n2. 在三个地方找到每一个。\n3.先用四分音符连接起来。\n4. 然后在八分音符中尝试相同的映射，不要惊慌。\n5. 如果精度下降，请停止；速度还不是重点。",
+          "de": "## Schnelles Üben\n1. Wählen Sie nur zwei Notennamen.\n2. Finden Sie jedes an drei Stellen.\n3. Verbinden Sie sie zunächst mit Viertelnoten.\n4. Probieren Sie dann die gleiche Map in Achtelnoten aus, ohne in Panik zu geraten.\n5. Hören Sie auf, wenn die Genauigkeit nachlässt; Geschwindigkeit ist noch nicht der Punkt.",
+          "ja": "## 簡単な練習\n1. 音名を 2 つだけ選択します。\n2. 3 つの場所でそれぞれを見つけます。\n3. まずは四分音符で繋ぎます。\n4. 次に、パニックにならずに、8 分音符で同じマップを試してください。\n5. 精度が崩れた場合は停止します。スピードはまだ重要ではありません。",
+          "pt-BR": "## Prática rápida\n1. Escolha apenas dois nomes de notas.\n2. Encontre cada um em três lugares.\n3. Conecte-os primeiro com semínimas.\n4. Em seguida, tente o mesmo mapa em colcheias sem entrar em pânico.\n5. Pare se a precisão falhar; a velocidade ainda não é o ponto.",
+          "es": "## Práctica rápida\n1. Elija solo dos nombres de notas.\n2. Encuentra cada uno en tres lugares.\n3. Conéctelos primero con negras.\n4. Luego prueba el mismo mapa en corcheas sin entrar en pánico.\n5. Deténgase si la precisión falla; La velocidad aún no es el punto."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nOctave landmarks help with riffs, fills, chord-tone targeting, and seeing melodies in more than one register. Once your eye trusts the map, improvisation becomes much less random.",
+          "zh-Hans": "## 音乐应用\n八度音程标志有助于即兴演奏、加花、和弦音定位以及在多个音域中查看旋律。一旦你的眼睛信任了地图，即兴创作就变得不那么随意了。",
+          "de": "## Musikalische Anwendung\nOktavmarkierungen helfen bei Riffs, Fills, der Ausrichtung auf Akkordtöne und der Anzeige von Melodien in mehr als einem Register. Sobald Ihr Auge der Karte vertraut, wird die Improvisation viel weniger zufällig.",
+          "ja": "## 音楽アプリケーション\nオクターブ ランドマークは、リフ、フィル、コード トーンのターゲット設定、および複数の音域でのメロディーの確認に役立ちます。自分の目が地図を信頼できるようになると、即興演奏はランダムではなくなります。",
+          "pt-BR": "## Aplicação musical\nOs marcos de oitava ajudam com riffs, preenchimentos, direcionamento de tons de acordes e visualização de melodias em mais de um registro. Uma vez que seus olhos confiam no mapa, a improvisação se torna muito menos aleatória.",
+          "es": "## Aplicación musical\nLos puntos de referencia de octava ayudan con riffs, rellenos, selección de tonos de acordes y para ver melodías en más de un registro. Una vez que tu vista confía en el mapa, la improvisación se vuelve mucho menos aleatoria."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Pick four note names at random.\n2. Find each one in three registers without stopping the pulse.\n3. Build a 4-bar phrase that uses at least two octave jumps but still sounds smooth.\n\nIf the listener hears shape and melody instead of a fretboard drill, you are using the map correctly.",
+          "zh-Hans": "## 高级挑战\n1. 随机选择四个音符名称。\n2. 在不停止脉冲的情况下找到三个寄存器中的每一个。\n3. 构建一个 4 小节乐句，至少使用两个八度跳跃，但听起来仍然平滑。\n\n如果听众听到的是形状和旋律而不是指板练习，那么您就正确使用了地图。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Wählen Sie zufällig vier Notennamen aus.\n2. Finden Sie jedes in drei Registern, ohne den Impuls zu stoppen.\n3. Erstellen Sie eine 4-Takt-Phrase, die mindestens zwei Oktavsprünge verwendet, aber dennoch weich klingt.\n\nWenn der Zuhörer Form und Melodie anstelle einer Griffbrettübung hört, verwenden Sie die Karte richtig.",
+          "ja": "## 高度なチャレンジ\n1. 4 つの音名をランダムに選択します。\n2. パルスを停止せずに 3 つのレジスタのそれぞれを検索します。\n3. 少なくとも 2 オクターブのジャンプを使用しながらも滑らかに聞こえる 4 小節のフレーズを作成します。\n\nリスナーがフレットボードのドリルの代わりに形とメロディーを聞く場合、マップは正しく使用されています。",
+          "pt-BR": "## Desafio avançado\n1. Escolha aleatoriamente quatro nomes de notas.\n2. Encontre cada um em três registros sem parar o pulso.\n3. Construa uma frase de 4 compassos que use pelo menos dois saltos de oitava, mas que ainda soe suave.\n\nSe o ouvinte ouvir a forma e a melodia em vez de um exercício de braço da guitarra, você está usando o mapa corretamente.",
+          "es": "## Desafío avanzado\n1. Elige cuatro nombres de notas al azar.\n2. Encuentra cada uno en tres registros sin detener el pulso.\n3. Construya una frase de 4 compases que utilice al menos dos saltos de octava pero que aún suene suave.\n\nSi el oyente escucha la forma y la melodía en lugar de un ejercicio de diapasón, está utilizando el mapa correctamente."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "smooth-thumb-crossings-in-scale-motion",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Smooth Thumb Crossings in Scale Motion\nMany scale problems are not really about speed. They are about awkward thumb movement. In this lesson you will smooth out thumb crossings so the hand keeps flowing instead of breaking the line.",
+          "zh-Hans": "# 音阶运动中的平滑拇指交叉\n许多规模问题实际上与速度无关。它们是关于笨拙的拇指运动。在本课程中，您将平滑拇指交叉处，以便手保持流畅，而不是破坏线条。",
+          "de": "# Sanfte Daumenkreuzungen in Skalenbewegung\nBei vielen Skalierungsproblemen geht es nicht wirklich um Geschwindigkeit. Dabei handelt es sich um eine unbeholfene Bewegung des Daumens. In dieser Lektion werden Sie die Daumenkreuzungen glätten, sodass die Hand fließend bleibt, anstatt die Linie zu unterbrechen.",
+          "ja": "# スケールモーションでの親指のスムーズな交差\nスケールの問題の多くは実際には速度に関するものではありません。親指のぎこちない動きについてです。このレッスンでは、親指の交差を滑らかにして、手がラインを壊さずに流れ続けるようにします。",
+          "pt-BR": "# Cruzamentos suaves do polegar em movimento de escala\nMuitos problemas de escala não têm realmente a ver com velocidade. Eles tratam de movimentos estranhos do polegar. Nesta lição, você suavizará os cruzamentos dos polegares para que a mão continue fluindo em vez de quebrar a linha.",
+          "es": "# Cruces suaves del pulgar en movimiento de escala\nMuchos problemas de escala no tienen que ver realmente con la velocidad. Se trata de movimientos incómodos del pulgar. En esta lección suavizarás los cruces del pulgar para que la mano siga fluyendo en lugar de romper la línea."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- The thumb should move early and quietly, not as a last-second jump.\n- Keep the wrist relaxed and the fingers close to the keys.\n- Listen for even sound before you ask for more tempo.",
+          "zh-Hans": "# 主要思想\n- 拇指应该尽早且安静地移动，而不是最后一秒跳跃。\n- 保持手腕放松，手指靠近琴键。\n- 在要求更快的节奏之前先听听是否有均匀的声音。",
+          "de": "# Hauptidee\n- Der Daumen sollte sich früh und leise bewegen, nicht in letzter Sekunde.\n- Halten Sie das Handgelenk entspannt und die Finger nah an den Tasten.\n- Achten Sie auf einen gleichmäßigen Klang, bevor Sie mehr Tempo verlangen.",
+          "ja": "# 主なアイデア\n- 親指は最後の瞬間にジャンプするのではなく、早めに静かに動かす必要があります。\n- 手首をリラックスさせ、指をキーに近づけてください。\n- テンポを速くする前に、均一な音を聞いてください。",
+          "pt-BR": "#Ideia principal\n- O polegar deve mover-se cedo e silenciosamente, e não como um salto de último segundo.\n- Mantenha o pulso relaxado e os dedos próximos às teclas.\n- Ouça o som uniforme antes de pedir mais andamento.",
+          "es": "# idea principal\n- El pulgar debe moverse temprano y silenciosamente, no como un salto de último segundo.\n- Mantener la muñeca relajada y los dedos cerca de las teclas.\n- Escuche un sonido uniforme antes de pedir más tempo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Play C major slowly, hands separate.\n2. Stop before the thumb crossing and prepare the move.\n3. Play through without accenting the thumb.\n4. Repeat the same idea in G major.\n5. Only increase tempo if the tone stays even.",
+          "zh-Hans": "# 引导钻\n1. 双手分开，缓慢弹奏C大调。\n2. 在拇指交叉之前停下来准备动作。\n3. 连续演奏，不要用拇指重音。\n4. 在G大调中重复同样的想法。\n5. 只有在音调保持均匀的情况下才增加速度。",
+          "de": "# Geführter Bohrer\n1. Spielen Sie langsam C-Dur, die Hände getrennt.\n2. Halten Sie vor dem Daumenkreuz an und bereiten Sie die Bewegung vor.\n3. Spielen Sie durch, ohne den Daumen zu betonen.\n4. Wiederholen Sie denselben Gedanken in G-Dur.\n5. Erhöhen Sie das Tempo nur, wenn der Ton gleichmäßig bleibt.",
+          "ja": "# ガイド付きドリル\n1. ハ長調をゆっくりと演奏し、両手を離します。\n2. 親指を交差させる前に停止し、動きの準備をします。\n3. 親指を強調せずに演奏します。\n4. 同じアイデアをト長調で繰り返します。\n5. 音が均一な場合にのみテンポを上げます。",
+          "pt-BR": "# Broca guiada\n1. Toque Dó maior lentamente, com as mãos separadas.\n2. Pare antes do cruzamento do polegar e prepare o movimento.\n3. Toque sem acentuar o polegar.\n4. Repita a mesma ideia em Sol maior.\n5. Aumente o andamento apenas se o tom permanecer uniforme.",
+          "es": "# Taladro guiado\n1. Toque Do mayor lentamente, con las manos separadas.\n2. Detente antes del cruce del pulgar y prepara el movimiento.\n3. Toque sin acentuar el pulgar.\n4. Repita la misma idea en sol mayor.\n5. Aumente el tempo sólo si el tono se mantiene uniforme."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nTurn the scale into a phrase. Crescendo for four notes, then relax for four notes. The crossing should disappear inside the line instead of feeling like a bump in the road.",
+          "zh-Hans": "# 让它变得音乐化\n将音阶变成短语。渐强四个音符，然后放松四个音符。交叉口应该消失在线路内，而不是感觉像路上的一个颠簸。",
+          "de": "# Mach es musikalisch\nVerwandeln Sie die Skala in eine Phrase. Crescendo für vier Noten, dann Entspannung für vier Noten. Die Kreuzung sollte innerhalb der Linie verschwinden, anstatt sich wie eine Unebenheit auf der Straße anzufühlen.",
+          "ja": "#音楽的にする\nスケールをフレーズに変えます。 4 つの音符でクレッシェンドし、4 つの音符でリラックスします。交差点は道路の段差のように感じるのではなく、線の内側に消える必要があります。",
+          "pt-BR": "# Torne-o musical\nTransforme a escala em uma frase. Crescendo por quatro notas e depois relaxe por quatro notas. A travessia deve desaparecer dentro da linha em vez de parecer um solavanco na estrada.",
+          "es": "# Hazlo musical\nConvierte la escala en una frase. Crescendo durante cuatro notas, luego relájese durante cuatro notas. El cruce debería desaparecer dentro de la línea en lugar de sentirse como un bache en el camino."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Spend 2 minutes on right hand only.\n2. Spend 2 minutes on left hand only.\n3. Spend 2 minutes with both hands at a slow tempo.\n4. End with one relaxed take instead of one fast take.",
+          "zh-Hans": "## 快速练习\n1. 仅用右手练习 2 分钟。\n2. 仅用左手练习 2 分钟。\n3. 双手慢速练习2分钟。\n4. 以一首轻松的镜头结束，而不是一首快速的镜头。",
+          "de": "## Schnelles Üben\n1. Verbringen Sie 2 Minuten nur mit der rechten Hand.\n2. Verbringen Sie 2 Minuten nur mit der linken Hand.\n3. Verbringen Sie 2 Minuten mit beiden Händen in einem langsamen Tempo.\n4. Beenden Sie mit einer entspannten Aufnahme statt einer schnellen Aufnahme.",
+          "ja": "## 簡単な練習\n1. 右手だけで 2 分間過ごします。\n2. 左手だけで 2 分間過ごします。\n3. ゆっくりとしたテンポで両手で2分間過ごします。\n4. 速いテイクを 1 つではなく、リラックスしたテイクを 1 つで終了します。",
+          "pt-BR": "## Prática rápida\n1. Passe 2 minutos apenas com a mão direita.\n2. Passe 2 minutos apenas com a mão esquerda.\n3. Passe 2 minutos com as duas mãos em um ritmo lento.\n4. Termine com uma tomada relaxada em vez de uma tomada rápida.",
+          "es": "## Práctica rápida\n1. Pase 2 minutos únicamente en la mano derecha.\n2. Dedique 2 minutos únicamente a la mano izquierda.\n3. Pase 2 minutos con ambas manos a un ritmo lento.\n4. Termine con una toma relajada en lugar de una toma rápida."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nSmooth thumb crossings matter in scales, arpeggios, fills, and melodic playing. If the transition is calm, the listener hears shape and direction instead of mechanical effort.",
+          "zh-Hans": "## 音乐应用\n平滑的拇指交叉在音阶、琶音、加花和旋律演奏中很重要。如果过渡是平静的，听众会听到形状和方向，而不是机械的力度。",
+          "de": "## Musikalische Anwendung\nSanfte Daumenübergänge sind bei Tonleitern, Arpeggios, Fills und melodischem Spiel wichtig. Ist der Übergang ruhig, hört der Zuhörer Form und Richtung statt mechanischer Anstrengung.",
+          "ja": "## 音楽アプリケーション\n親指をスムーズにクロスさせることは、スケール、アルペジオ、フィル、メロディックな演奏において重要です。変化が穏やかであれば、リスナーは機械的な力ではなく、形と方向を聞くことができます。",
+          "pt-BR": "## Aplicação musical\nCruzamentos suaves do polegar são importantes em escalas, arpejos, preenchimentos e execução melódica. Se a transição for calma, o ouvinte ouve forma e direção em vez de esforço mecânico.",
+          "es": "## Aplicación musical\nLos cruces suaves del pulgar son importantes en escalas, arpegios, rellenos y ejecución melódica. Si la transición es tranquila, el oyente escucha la forma y la dirección en lugar del esfuerzo mecánico."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Play C major and G major hands together at a moderate tempo.\n2. Keep every note the same dynamic for one pass.\n3. On the next pass, shape the line musically without making the crossings obvious.\n\nIf the phrase sounds connected and your hand still feels relaxed, the technique is improving correctly.",
+          "zh-Hans": "## 高级挑战\n1. 以适中的速度同时弹奏 C 大调和 G 大调。\n2. 在一次传递中保持每个音符的动态相同。\n3. 在下一次通过时，以音乐的方式塑造线条，但不要使交叉点变得明显。\n\n如果这句话听起来是有联系的，并且你的手仍然感觉放松，那么这项技术正在正确改进。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Spielen Sie C-Dur- und G-Dur-Hände zusammen in moderatem Tempo.\n2. Behalten Sie für einen Durchgang bei jeder Note die gleiche Dynamik bei.\n3. Gestalten Sie beim nächsten Durchgang die Linie musikalisch, ohne die Kreuzungen deutlich zu machen.\n\nWenn der Satz zusammenhängend klingt und sich Ihre Hand immer noch entspannt anfühlt, verbessert sich die Technik richtig.",
+          "ja": "## 高度なチャレンジ\n1. ハ長調とト長調の手を適度なテンポで合わせて演奏します。\n2. 1 つのパスではすべてのノートを同じダイナミクスに保ちます。\n3. 次のパスでは、交差を目立たせないように音楽的にラインを形成します。\n\nフレーズがつながって聞こえ、手がまだリラックスしているように感じられる場合は、テクニックは正しく上達しています。",
+          "pt-BR": "## Desafio avançado\n1. Toque as mãos em Dó maior e Sol maior juntas em um andamento moderado.\n2. Mantenha cada nota com a mesma dinâmica por uma passagem.\n3. Na próxima passagem, modele a linha musicalmente sem deixar os cruzamentos óbvios.\n\nSe a frase soar conectada e sua mão ainda estiver relaxada, a técnica está melhorando corretamente.",
+          "es": "## Desafío avanzado\n1. Toque las manos de Do mayor y Sol mayor juntas a un ritmo moderado.\n2. Mantenga cada nota con la misma dinámica durante una pasada.\n3. En la siguiente pasada, da forma a la línea musicalmente sin que los cruces sean evidentes.\n\nSi la frase suena conectada y tu mano todavía se siente relajada, la técnica está mejorando correctamente."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

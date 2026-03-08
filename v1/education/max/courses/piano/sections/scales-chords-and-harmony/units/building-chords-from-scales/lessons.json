@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "diatonic-seventh-chords-from-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Diatonic Seventh Chords from C Major",
+        "zh-Hans": "C大调全音阶第七和弦",
+        "de": "Diatonische Septakkorde aus C-Dur",
+        "ja": "Cメジャーからのダイアトニックセブンスコード",
+        "pt-BR": "Acordes diatônicos de sétima em dó maior",
+        "es": "Acordes de séptima diatónica de do mayor"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build seventh chords from one scale and hear how each degree has its own function.",
+        "zh-Hans": "从一个音阶构建七和弦，听听每个音阶如何有其自己的功能。",
+        "de": "Bilden Sie Septakkorde aus einer Tonleiter und hören Sie, wie jede Stufe ihre eigene Funktion hat.",
+        "ja": "1 つのスケールからセブンス コードを作成し、各次数がどのように独自の機能を持っているかを確認してください。",
+        "pt-BR": "Construa acordes de sétima a partir de uma escala e ouça como cada grau tem sua própria função.",
+        "es": "Construya acordes de séptima a partir de una escala y escuche cómo cada grado tiene su propia función."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

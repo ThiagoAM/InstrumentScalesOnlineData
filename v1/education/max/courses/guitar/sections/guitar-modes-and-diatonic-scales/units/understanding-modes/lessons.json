@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "hearing-dorian-and-aeolian-on-the-same-root",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Hearing Dorian and Aeolian on the Same Root",
+        "zh-Hans": "听多利安和伊奥利亚同根同源",
+        "de": "Dorian und Äolisch auf derselben Wurzel hören",
+        "ja": "ドリアンとエオリアンを同じ根で聞く",
+        "pt-BR": "Ouvindo Dorian e Aeolian na mesma raiz",
+        "es": "Escuchar a Dorian y Aeolian en la misma raíz"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your ear to hear the difference between natural 6 and flat 6 on the same minor root.",
+        "zh-Hans": "训练你的耳朵听出同一个小根音上的自然 6 度和降 6 度之间的区别。",
+        "de": "Trainieren Sie Ihr Gehör, um den Unterschied zwischen der natürlichen 6 und der flachen 6 auf demselben Moll-Grundton zu hören.",
+        "ja": "同じマイナールートのナチュラル 6 とフラット 6 の違いを聞き取れるように耳を鍛えてください。",
+        "pt-BR": "Treine seu ouvido para ouvir a diferença entre o 6 natural e o 6 bemol na mesma tônica menor.",
+        "es": "Entrena tu oído para escuchar la diferencia entre el 6 natural y el 6 bemol en la misma raíz menor."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

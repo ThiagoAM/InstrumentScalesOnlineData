@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "octave-landmarks-across-string-sets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Landmarks Across String Sets",
+        "zh-Hans": "跨弦乐组的八度地标",
+        "de": "Oktav-Wahrzeichen über Saitensätze hinweg",
+        "ja": "文字列セット全体のオクターブ ランドマーク",
+        "pt-BR": "Marcos de oitava em conjuntos de cordas",
+        "es": "Puntos de referencia de octava en juegos de cuerdas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use octave shapes to find the same note quickly in different areas of the neck.",
+        "zh-Hans": "使用八度音阶形状可以在颈部的不同区域快速找到相同的音符。",
+        "de": "Verwenden Sie Oktavformen, um in verschiedenen Bereichen des Halses schnell die gleiche Note zu finden.",
+        "ja": "オクターブ形状を使用すると、首のさまざまな領域で同じ音をすばやく見つけることができます。",
+        "pt-BR": "Use formas de oitava para encontrar rapidamente a mesma nota em diferentes áreas do braço.",
+        "es": "Utilice formas de octava para encontrar rápidamente la misma nota en diferentes áreas del mástil."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "dorian-color-for-minor-bass-loops",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dorian Color for Minor Bass Loops",
+        "zh-Hans": "适用于小低音循环的 Dorian 颜色",
+        "de": "Dorische Farbe für Moll-Bass-Loops",
+        "ja": "マイナーベースループのドリアンカラー",
+        "pt-BR": "Dorian Color para loops de baixo menores",
+        "es": "Color Dorian para bucles de bajo menores"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make minor grooves sound deeper by highlighting the natural 6.",
+        "zh-Hans": "通过突出自然 6 音，使小凹槽听起来更深沉。",
+        "de": "Lassen Sie Moll-Grooves tiefer klingen, indem Sie die natürliche 6 hervorheben.",
+        "ja": "自然な6を強調することで、マイナーグルーヴをより深く響かせます。",
+        "pt-BR": "Faça com que os grooves menores soem mais profundos, destacando o 6 natural.",
+        "es": "Haga que los ritmos menores suenen más profundos resaltando el 6 natural."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

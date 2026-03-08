@@ -1,0 +1,99 @@
+{
+  "id": "singable-phrases-in-the-upper-register",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Singable Phrases in the Upper Register\nThe upper register can sound beautiful on bass, but it can also feel disconnected if every phrase turns into a fast lick. In this lesson you will build short, singable ideas that stay melodic and still respect the harmony underneath.",
+          "zh-Hans": "# 高音区可唱的乐句\n高音区在低音上听起来很优美，但如果每个乐句都变成快速的舔音，它也会让人感觉脱节。在本课程中，您将构建简短、可唱的想法，既保持旋律，又尊重底层的和谐。",
+          "de": "# Singbare Phrasen im oberen Register\nDas obere Register kann beim Bass wunderbar klingen, aber es kann sich auch unzusammenhängend anfühlen, wenn jede Phrase zu einem schnellen Lick wird. In dieser Lektion werden Sie kurze, singbare Ideen entwickeln, die melodisch bleiben und dennoch die darunter liegende Harmonie respektieren.",
+          "ja": "# 高音域で歌えるフレーズ\n高音域はベースでは美しく聞こえますが、すべてのフレーズが速いリックに変わってしまうと、つながりがなくなっているように感じられることもあります。このレッスンでは、メロディックでありながらその根底にあるハーモニーを尊重した、短くて歌いやすいアイデアを構築します。",
+          "pt-BR": "# Frases Cantáveis no Registro Superior\nO registro superior pode soar bonito no baixo, mas também pode parecer desconectado se cada frase se transformar em um lick rápido. Nesta lição você construirá ideias curtas e cantáveis ​​que permanecem melódicas e ainda respeitam a harmonia subjacente.",
+          "es": "# Frases cantables en el registro superior\nEl registro superior puede sonar hermoso en el bajo, pero también puede parecer desconectado si cada frase se convierte en un lamido rápido. En esta lección, desarrollará ideas breves y cantables que se mantengan melódicas y respeten la armonía subyacente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- Think like a vocalist: clear contour, space, and a believable ending point.\n- Use chord tones as your landing spots.\n- Let one or two expressive notes do the work instead of filling every beat.",
+          "zh-Hans": "# 主要思想\n- 像歌手一样思考：清晰的轮廓、空间和可信的终点。\n- 使用和弦音作为你的着陆点。\n- 让一两个富有表现力的音符来完成工作，而不是填充每个节拍。",
+          "de": "# Hauptidee\n- Denken Sie wie ein Sänger: klare Konturen, Raum und ein glaubwürdiger Endpunkt.\n- Verwenden Sie Akkordtöne als Landepunkte.\n- Lassen Sie ein oder zwei ausdrucksstarke Noten die Arbeit erledigen, anstatt jeden Schlag zu füllen.",
+          "ja": "# 主なアイデア\n- ボーカリストのように考えてください: 明確な輪郭、空間、信頼できる終点。\n- コードトーンを着地点として使用します。\n- すべてのビートを埋めるのではなく、表情豊かな 1 つまたは 2 つの音符で仕事をさせます。",
+          "pt-BR": "#Ideia principal\n- Pense como um vocalista: contorno claro, espaço e um ponto final confiável.\n- Use tons de acordes como pontos de aterrissagem.\n- Deixe uma ou duas notas expressivas fazerem o trabalho em vez de preencher cada batida.",
+          "es": "# idea principal\n- Piensa como un vocalista: contorno claro, espacio y un punto final creíble.\n- Utilice tonos de acordes como puntos de aterrizaje.\n- Deje que una o dos notas expresivas hagan el trabajo en lugar de llenar cada tiempo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Choose a slow groove or drone in G major.\n2. Stay in the upper register for 4 bars.\n3. Play only phrases of 3 to 5 notes.\n4. End each phrase on B, D, or G so the harmony stays clear.",
+          "zh-Hans": "# 引导钻\n1. 选择G大调的慢节奏或低音。\n2. 保持在高音区 4 小节。\n3. 仅弹奏 3 至 5 个音符的乐句。\n4. 以 B、D 或 G 结束每个乐句，使和声保持清晰。",
+          "de": "# Geführter Bohrer\n1. Wählen Sie einen langsamen Groove oder Bordun in G-Dur.\n2. Bleiben Sie 4 Takte lang im oberen Register.\n3. Spielen Sie nur Phrasen mit 3 bis 5 Noten.\n4. Beenden Sie jede Phrase auf H, D oder G, damit die Harmonie klar bleibt.",
+          "ja": "# ガイド付きドリル\n1. ト長調のスローなグルーヴまたはドローンを選択します。\n2. 4 小節の間、高音域を維持します。\n3. 3 ～ 5 音符のフレーズのみを演奏します。\n4. 各フレーズを B、D、または G で終了し、ハーモニーがクリアになるようにします。",
+          "pt-BR": "# Broca guiada\n1. Escolha um groove lento ou drone em Sol maior.\n2. Permaneça no registro superior por 4 compassos.\n3. Toque apenas frases de 3 a 5 notas.\n4. Termine cada frase em B, D ou G para que a harmonia permaneça clara.",
+          "es": "# Taladro guiado\n1. Elija un ritmo lento o un zumbido en sol mayor.\n2. Permanezca en el registro superior durante 4 compases.\n3. Toque sólo frases de 3 a 5 notas.\n4. Termine cada frase en B, D o G para que la armonía permanezca clara."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nAnswer your own line. Play a short phrase in bar 1, leave space in bar 2, then play a related answer in bar 3. If you can remember the phrase after one listen, you are probably on the right track.",
+          "zh-Hans": "# 让它变得音乐化\n回答你自己的线路。在第 1 小节中播放一个简短的乐句，在第 2 小节中留出空间，然后在第 3 小节中播放相关答案。如果您听完之后就能记住该乐句，那么您可能就走对了。",
+          "de": "# Mach es musikalisch\nBeantworten Sie Ihre eigene Zeile. Spielen Sie in Takt 1 eine kurze Phrase, lassen Sie in Takt 2 Platz und spielen Sie dann in Takt 3 eine entsprechende Antwort. Wenn Sie sich die Phrase nach einmaligem Anhören merken können, sind Sie wahrscheinlich auf dem richtigen Weg.",
+          "ja": "#音楽的にする\n自分のラインに答えてください。 1 小節目で短いフレーズを演奏し、2 小節目でスペースを空けてから、3 小節目で関連する答えを演奏します。1 回聞いてフレーズを思い出せる場合は、おそらく正しいトラックにいます。",
+          "pt-BR": "# Torne-o musical\nResponda sua própria linha. Toque uma frase curta no compasso 1, deixe espaço no compasso 2 e, em seguida, toque uma resposta relacionada no compasso 3. Se você conseguir se lembrar da frase depois de ouvi-la, provavelmente está no caminho certo.",
+          "es": "# Hazlo musical\nResponde tu propia línea. Reproduzca una frase corta en el compás 1, deje espacio en el compás 2 y luego reproduzca una respuesta relacionada en el compás 3. Si puede recordar la frase después de escucharla una vez, probablemente esté en el camino correcto."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Hum a phrase before touching the bass.\n2. Find it in one register only.\n3. Repeat it with one small rhythmic change.\n4. Finish with one take that uses as much space as sound.",
+          "zh-Hans": "## 快速练习\n1. 在弹奏贝斯之前先哼一段乐句。\n2. 仅在一个寄存器中查找它。\n3. 以一个小的节奏变化重复该动作。\n4. 以占用与声音一样多的空间的一段录音作为结束。",
+          "de": "## Schnelles Üben\n1. Summen Sie eine Phrase, bevor Sie den Bass berühren.\n2. Finden Sie es nur in einem Register.\n3. Wiederholen Sie es mit einer kleinen rhythmischen Änderung.\n4. Schließen Sie mit einem Take ab, der genauso viel Platz wie Ton einnimmt.",
+          "ja": "## 簡単な練習\n1. ベースを触る前にフレーズをハミングします。\n2. 1 つのレジスタのみで検索します。\n3. 小さなリズミカルな変化を加えてこれを繰り返します。\n4. サウンドと同じくらいのスペースを使用した 1 テイクで終了します。",
+          "pt-BR": "## Prática rápida\n1. Cantarole uma frase antes de tocar o baixo.\n2. Encontre-o em apenas um cadastro.\n3. Repita com uma pequena mudança rítmica.\n4. Finalize com um take que ocupe tanto espaço quanto o som.",
+          "es": "## Práctica rápida\n1. Tararea una frase antes de tocar el bajo.\n2. Encuéntrelo en un solo registro.\n3. Repítelo con un pequeño cambio rítmico.\n4. Termina con una toma que utilice tanto espacio como sonido."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nUpper-register melodies work well in intros, breakdowns, duo settings, and modern arrangements where the bass briefly steps forward. The goal is not to prove range. The goal is to add something lyrical and memorable.",
+          "zh-Hans": "## 音乐应用\n高音区旋律在前奏、分解、二重奏设置以及低音短暂向前推进的现代编曲中效果很好。目标不是证明射程。目标是添加一些抒情且令人难忘的东西。",
+          "de": "## Musikalische Anwendung\nMelodien in höheren Lagen eignen sich gut für Intros, Breakdowns, Duo-Besetzungen und moderne Arrangements, bei denen der Bass kurz nach vorne tritt. Das Ziel besteht nicht darin, die Reichweite nachzuweisen. Das Ziel besteht darin, etwas Lyrisches und Einprägsames hinzuzufügen.",
+          "ja": "## 音楽アプリケーション\n高音域のメロディーは、イントロ、ブレイクダウン、デュオ設定、ベースが一瞬前に出るモダンなアレンジなどで効果を発揮します。目標は航続距離を証明することではありません。目標は、叙情的で記憶に残る何かを追加することです。",
+          "pt-BR": "## Aplicação musical\nMelodias de registro superior funcionam bem em introduções, breakouts, configurações de duo e arranjos modernos onde o baixo avança brevemente. O objetivo não é provar alcance. O objetivo é adicionar algo lírico e memorável.",
+          "es": "## Aplicación musical\nLas melodías de registro superior funcionan bien en introducciones, rupturas, configuraciones de dúo y arreglos modernos donde el bajo avanza brevemente. El objetivo no es demostrar alcance. El objetivo es agregar algo lírico y memorable."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Write an 8-bar melody in the upper register over a static groove.\n2. Use at least two long notes and at least two rests.\n3. Keep the phrase singable enough that you can hum it back after recording it.\n\nIf the line feels like a melody instead of a bass solo exercise, the lesson is landing.",
+          "zh-Hans": "## 高级挑战\n1. 在静态凹槽上方的高音区写入 8 小节旋律。\n2. 至少使用两个长音符和至少两个休止符。\n3. 保持乐句足够可唱，以便在录制后可以哼唱。\n\n如果这句歌词感觉像是一首旋律而不是贝斯独奏练习，那么这节课就已经结束了。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Schreiben Sie eine 8-taktige Melodie im oberen Register über einen statischen Groove.\n2. Verwenden Sie mindestens zwei lange Noten und mindestens zwei Pausen.\n3. Sorgen Sie dafür, dass die Phrase so singbar ist, dass Sie sie nach der Aufnahme noch einmal summen können.\n\nWenn sich die Zeile wie eine Melodie anfühlt und nicht wie eine Bass-Solo-Übung, ist die Lektion erfolgreich.",
+          "ja": "## 高度なチャレンジ\n1. 静的なグルーブの上に高音域の 8 小節のメロディーを書きます。\n2. 少なくとも 2 つの長音符と少なくとも 2 つの休符を使用します。\n3. 録音後に口ずさめる程度にフレーズを歌いやすくしておきます。\n\nそのラインがベースソロの練習ではなくメロディーのように感じられたら、レッスンは終了です。",
+          "pt-BR": "## Desafio avançado\n1. Escreva uma melodia de 8 compassos no registro superior sobre um groove estático.\n2. Use pelo menos duas notas longas e pelo menos duas pausas.\n3. Mantenha a frase cantável o suficiente para que você possa cantarolá-la depois de gravá-la.\n\nSe a linha parecer uma melodia em vez de um exercício de solo de baixo, a lição está chegando.",
+          "es": "## Desafío avanzado\n1. Escriba una melodía de 8 compases en el registro superior sobre un ritmo estático.\n2. Utilice al menos dos notas largas y al menos dos silencios.\n3. Mantenga la frase lo suficientemente cantable como para poder tararearla después de grabarla.\n\nSi la línea parece una melodía en lugar de un ejercicio de solo de bajo, la lección está aterrizando."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

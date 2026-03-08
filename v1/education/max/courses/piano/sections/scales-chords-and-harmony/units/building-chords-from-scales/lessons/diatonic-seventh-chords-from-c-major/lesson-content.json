@@ -1,0 +1,99 @@
+{
+  "id": "diatonic-seventh-chords-from-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Diatonic Seventh Chords from C Major\nTriads are only the first layer of harmony. In this lesson you will stack one more note on each degree of C major and hear how seventh chords create richer function and color.",
+          "zh-Hans": "# C 大调全音阶第七和弦\n三和弦只是和谐的第一层。在本课程中，您将在 C 大调的每个音阶上再叠加一个音符，并聆听七和弦如何创造更丰富的功能和色彩。",
+          "de": "# Diatonische Septakkorde aus C-Dur\nDreiklänge sind nur die erste Ebene der Harmonie. In dieser Lektion stapeln Sie eine weitere Note auf jeder Tonstufe von C-Dur und hören, wie Septakkorde eine reichere Funktion und Farbe erzeugen.",
+          "ja": "# Cメジャーからのダイアトニックセブンスコード\nトライアドはハーモニーの最初の層にすぎません。このレッスンでは、ハ長調の各度にもう 1 つ音を重ね、セブンス コードがどのようにより豊かな機能と色彩を生み出すのかを聞きます。",
+          "pt-BR": "# Acordes diatônicos de sétima em dó maior\nAs tríades são apenas a primeira camada de harmonia. Nesta lição, você empilhará mais uma nota em cada grau de dó maior e ouvirá como os acordes de sétima criam funções e cores mais ricas.",
+          "es": "# Acordes de séptima diatónica de do mayor\nLas tríadas son sólo la primera capa de armonía. En esta lección, acumularás una nota más en cada grado de Do mayor y escucharás cómo los acordes de séptima crean funciones y colores más ricos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- Cmaj7, Dm7, Em7, Fmaj7, G7, Am7, and Bm7b5 all come from the same scale.\n- The quality changes because each degree starts on a different note.\n- You are not memorizing names only. You are learning to hear function: tonic, predominant, dominant, and tension.",
+          "zh-Hans": "# 主要思想\n- Cmaj7、Dm7、Em7、Fmaj7、G7、Am7 和 Bm7b5 均来自同一音阶。\n- 质量会发生变化，因为每个学位的开始都有不同的音符。\n- 你不只是记住名字。你正在学习聆听功能：主音、主音、主导音和紧张音。",
+          "de": "# Hauptidee\n- Cmaj7, Dm7, Em7, Fmaj7, G7, Am7 und Bm7b5 stammen alle aus derselben Tonleiter.\n- Die Qualität ändert sich, weil jeder Abschluss mit einer anderen Note beginnt.\n- Sie merken sich nicht nur Namen. Sie lernen, Funktionen zu hören: Tonika, Vorherrschaft, Dominante und Spannung.",
+          "ja": "# 主なアイデア\n- Cmaj7、Dm7、Em7、Fmaj7、G7、Am7、Bm7b5 はすべて同じスケールです。\n- 各学位が異なる音から始まるため、品質が変わります。\n- 名前だけを覚えているわけではありません。あなたは、トニック、ドミナント、ドミナント、テンションという機能を聞くことを学んでいます。",
+          "pt-BR": "#Ideia principal\n- Cmaj7, Dm7, Em7, Fmaj7, G7, Am7 e Bm7b5 vêm todos da mesma escala.\n- A qualidade muda porque cada grau começa com uma nota diferente.\n- Você não está memorizando apenas nomes. Você está aprendendo a ouvir a função: tônica, predominante, dominante e tensora.",
+          "es": "# idea principal\n- Cmaj7, Dm7, Em7, Fmaj7, G7, Am7 y Bm7b5 provienen todos de la misma escala.\n- La calidad cambia porque cada grado comienza con una nota diferente.\n- No estás memorizando sólo nombres. Estás aprendiendo a escuchar la función: tónica, predominante, dominante y tensión."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Play the C major scale slowly.\n2. Stack every other note to build each seventh chord.\n3. Say the chord quality out loud.\n4. Play them again and notice which ones feel stable and which ones want to move.",
+          "zh-Hans": "# 引导钻\n1. 缓慢弹奏C大调音阶。\n2. 堆叠所有其他音符以构建每个七和弦。\n3. 大声说出和弦的品质。\n4. 再玩一遍，注意哪些感觉稳定，哪些想要移动。",
+          "de": "# Geführter Bohrer\n1. Spielen Sie langsam die C-Dur-Tonleiter.\n2. Stapeln Sie jede zweite Note, um jeden Septakkord zu bilden.\n3. Sagen Sie die Akkordqualität laut.\n4. Spielen Sie sie noch einmal ab und achten Sie darauf, welche sich stabil anfühlen und welche sich bewegen möchten.",
+          "ja": "# ガイド付きドリル\n1. Cメジャースケールをゆっくりと演奏します。\n2. 1 つおきの音を重ねて、それぞれの 7 番目のコードを構築します。\n3. コードの質を声に出して言います。\n4. もう一度プレイして、どれが安定しているか、どれが動かしたいかを確認します。",
+          "pt-BR": "# Broca guiada\n1. Toque a escala Dó maior lentamente.\n2. Empilhe todas as outras notas para construir cada acorde de sétima.\n3. Diga a qualidade do acorde em voz alta.\n4. Toque-os novamente e observe quais deles parecem estáveis ​​e quais desejam se mover.",
+          "es": "# Taladro guiado\n1. Toque la escala de Do mayor lentamente.\n2. Apila una nota sí y otra no para construir cada acorde de séptima.\n3. Di la calidad del acorde en voz alta.\n4. Vuelva a reproducirlos y observe cuáles se sienten estables y cuáles quieren moverse."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nTurn the chords into a short progression such as Dm7-G7-Cmaj7 or Am7-Dm7-G7-Cmaj7. Let the ear connect theory to actual sound immediately.",
+          "zh-Hans": "# 让它变得音乐化\n将和弦变成短进行，例如 Dm7-G7-Cmaj7 或 Am7-Dm7-G7-Cmaj7。让耳朵立即将理论与实际声音联系起来。",
+          "de": "# Mach es musikalisch\nVerwandeln Sie die Akkorde in eine kurze Akkordfolge wie Dm7-G7-Cmaj7 oder Am7-Dm7-G7-Cmaj7. Lassen Sie das Ohr die Theorie sofort mit dem tatsächlichen Klang verbinden.",
+          "ja": "#音楽的にする\nコードを Dm7-G7-Cmaj7 や Am7-Dm7-G7-Cmaj7 などの短い進行に変換します。理論をすぐに実際の音に耳で結びつけましょう。",
+          "pt-BR": "# Torne-o musical\nTransforme os acordes em uma progressão curta, como Dm7-G7-Cmaj7 ou Am7-Dm7-G7-Cmaj7. Deixe o ouvido conectar a teoria ao som real imediatamente.",
+          "es": "# Hazlo musical\nConvierta los acordes en una progresión corta como Dm7-G7-Cmaj7 o Am7-Dm7-G7-Cmaj7. Deje que el oído conecte inmediatamente la teoría con el sonido real."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Build all seven chords once with note names.\n2. Build them again without looking at the keyboard.\n3. Play three short progressions using only diatonic seventh chords.\n4. End by holding each chord long enough to hear its character.",
+          "zh-Hans": "## 快速练习\n1. 使用音符名称构建所有七个和弦一次。\n2. 不看键盘再次构建它们。\n3. 仅使用全音阶七和弦演奏三个短进行曲。\n4. 最后保持每个和弦足够长的时间以听到其特征。",
+          "de": "## Schnelles Üben\n1. Bilden Sie alle sieben Akkorde einmal mit Notennamen.\n2. Bauen Sie sie erneut auf, ohne auf die Tastatur zu schauen.\n3. Spielen Sie drei kurze Akkorde, wobei Sie ausschließlich diatonische Septakkorde verwenden.\n4. Halten Sie zum Schluss jeden Akkord lange genug gedrückt, um seinen Charakter zu hören.",
+          "ja": "## 簡単な練習\n1. 7 つのコードすべてを音名を付けて一度作成します。\n2. キーボードを見ずに再度ビルドします。\n3. ダイアトニックセブンスコードのみを使用して、3 つの短い進行を演奏します。\n4. 最後に、各コードの特徴を聞き取れる程度に長く押し続けます。",
+          "pt-BR": "## Prática rápida\n1. Construa todos os sete acordes de uma vez com nomes de notas.\n2. Construa-os novamente sem olhar para o teclado.\n3. Toque três progressões curtas usando apenas acordes diatônicos de sétima.\n4. Termine segurando cada acorde por tempo suficiente para ouvir seu caráter.",
+          "es": "## Práctica rápida\n1. Construya los siete acordes una vez con los nombres de las notas.\n2. Vuelva a construirlos sin mirar el teclado.\n3. Toque tres progresiones cortas utilizando únicamente acordes de séptima diatónica.\n4. Termine sosteniendo cada acorde el tiempo suficiente para escuchar su carácter."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nThis lesson helps with accompaniment, arranging, improvisation, and reading lead sheets. Once the seventh-chord qualities feel familiar, progressions become much easier to understand and voice.",
+          "zh-Hans": "## 音乐应用\n本课程有助于伴奏、编曲、即兴创作和阅读主谱。一旦感觉熟悉了第七和弦的品质，进行就会变得更容易理解和发声。",
+          "de": "## Musikalische Anwendung\nDiese Lektion hilft beim Begleiten, Arrangieren, Improvisieren und Lesen von Lead Sheets. Sobald sich die Qualitäten des Septakkords vertraut anfühlen, sind Progressionen viel einfacher zu verstehen und auszusprechen.",
+          "ja": "## 音楽アプリケーション\nこのレッスンは、伴奏、アレンジ、即興演奏、リードシートの読み方などに役立ちます。セブンスコードの性質に親しみを感じると、進行がはるかに理解しやすくなり、発音しやすくなります。",
+          "pt-BR": "## Aplicação musical\nEsta lição ajuda com acompanhamento, arranjos, improvisação e leitura de folhas de introdução. Uma vez que as qualidades do sétimo acorde pareçam familiares, as progressões se tornam muito mais fáceis de entender e expressar.",
+          "es": "## Aplicación musical\nEsta lección ayuda con el acompañamiento, los arreglos, la improvisación y la lectura de hojas principales. Una vez que las cualidades del acorde de séptima te resultan familiares, las progresiones se vuelven mucho más fáciles de entender y expresar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Play all seven diatonic seventh chords in root position.\n2. Then connect I-vi-ii-V-I using the smoothest possible motion.\n3. Name each quality before you play it.\n\nIf your hands and your ear agree on what each chord is doing, the theory is becoming practical.",
+          "zh-Hans": "## 高级挑战\n1. 在根音位置弹奏所有七个全音阶七和弦。\n2. 然后使用尽可能平滑的运动连接 I-vi-ii-V-I。\n3. 在演奏之前为每种品质命名。\n\n如果你的手和耳朵都同意每个和弦的作用，那么这个理论就变得实用了。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Spielen Sie alle sieben diatonischen Septakkorde im Grundton.\n2. Verbinden Sie dann I-vi-ii-V-I mit einer möglichst gleichmäßigen Bewegung.\n3. Benennen Sie jede Qualität, bevor Sie sie spielen.\n\nWenn Ihre Hände und Ihr Ohr sich darüber einig sind, was jeder Akkord bewirkt, wird die Theorie zur Praxis.",
+          "ja": "## 高度なチャレンジ\n1. 7 つのダイアトニック セブンス コードをすべてルート ポジションで演奏します。\n2. 次に、可能な限りスムーズな動きを使用して I-vi-ii-V-I を接続します。\n3. 再生する前に、それぞれの品質に名前を付けます。\n\n各コードが何をしているのか手と耳が一致すれば、その理論は実用的になります。",
+          "pt-BR": "## Desafio avançado\n1. Toque todos os sete acordes diatônicos de sétima na posição fundamental.\n2. Em seguida, conecte I-vi-ii-V-I usando o movimento mais suave possível.\n3. Nomeie cada qualidade antes de tocá-la.\n\nSe suas mãos e seu ouvido concordarem sobre o que cada acorde faz, a teoria se tornará prática.",
+          "es": "## Desafío avanzado\n1. Toque los siete acordes diatónicos de séptima en posición fundamental.\n2. Luego conecte I-vi-ii-V-I usando el movimiento más suave posible.\n3. Nombra cada cualidad antes de jugarla.\n\nSi tus manos y tu oído están de acuerdo en lo que hace cada acorde, la teoría se vuelve práctica."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

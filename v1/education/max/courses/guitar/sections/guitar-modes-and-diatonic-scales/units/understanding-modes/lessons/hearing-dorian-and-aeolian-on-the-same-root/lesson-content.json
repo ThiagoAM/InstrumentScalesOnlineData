@@ -1,0 +1,99 @@
+{
+  "id": "hearing-dorian-and-aeolian-on-the-same-root",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Hearing Dorian and Aeolian on the Same Root\nA lot of players can play a mode shape before they can hear what makes the mode special. In this lesson you will compare Dorian and Aeolian on the same root so your ear learns the difference, not just your fingers.",
+          "zh-Hans": "# 听多里安和伊奥利亚同根同源\n许多玩家在听出该模式有何特别之处之前就可以玩该模式。在本课程中，您将在同一根上比较 Dorian 和 Aeolian，以便您的耳朵（而不仅仅是您的手指）了解差异。",
+          "de": "# Dorian und Äolisch auf derselben Wurzel hören\nViele Spieler können eine Modusform spielen, bevor sie hören, was den Modus besonders macht. In dieser Lektion vergleichen Sie Dorian und Äolisch am gleichen Wortstamm, sodass Ihr Ohr den Unterschied lernt und nicht nur Ihre Finger.",
+          "ja": "# ドリアンとエオリアンを同根で聞く\n多くのプレイヤーは、モードの特徴を聞く前に、モード シェイプをプレイすることができます。このレッスンでは、同じルートのドリアンとエオリアンを比較して、指だけでなく耳でも違いを理解できるようにします。",
+          "pt-BR": "# Ouvindo Dorian e Aeolian na mesma raiz\nMuitos jogadores podem jogar um modo antes de ouvir o que torna o modo especial. Nesta lição você comparará Dorian e Eólio na mesma raiz para que seu ouvido aprenda a diferença, não apenas seus dedos.",
+          "es": "# Escuchar a Dorian y Aeolian en la misma raíz\nMuchos jugadores pueden jugar una forma de modo antes de poder escuchar qué hace que el modo sea especial. En esta lección compararás dórico y eólico en la misma raíz para que tu oído aprenda la diferencia, no solo tus dedos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- D Dorian contains B natural.\n- D Aeolian contains Bb.\n- That single note changes the emotional color of the whole sound.\n- Your job is to notice the mood change clearly and then use it on purpose.",
+          "zh-Hans": "# 主要思想\n- D多利安含有B天然。\n- D 风神包含 Bb。\n- 这个单一的音符改变了整个声音的情感色彩。\n- 你的工作是清楚地注意到情绪的变化，然后有目的地使用它。",
+          "de": "# Hauptidee\n- D Dorian enthält natürliches B.\n- D Äolisch enthält Bb.\n- Diese einzelne Note verändert die emotionale Farbe des gesamten Klangs.\n- Ihre Aufgabe ist es, den Stimmungswechsel deutlich zu bemerken und ihn dann gezielt zu nutzen.",
+          "ja": "# 主なアイデア\n- DドリアンにはBナチュラルが含まれています。\n- DエオリアンにはBbが含まれます。\n－その一音でサウンド全体のエモーショナルな色が変わります。\n- あなたの仕事は、気分の変化に明確に気づき、それを意図的に使用することです。",
+          "pt-BR": "#Ideia principal\n- D Dorian contém B natural.\n- D Eólico contém Bb.\n- Essa única nota muda a cor emocional de todo o som.\n- Seu trabalho é perceber claramente a mudança de humor e então usá-la de propósito.",
+          "es": "# idea principal\n- D Dorian contiene B natural.\n- D Aeolian contiene Bb.\n- Esa única nota cambia el color emocional de todo el sonido.\n- Tu trabajo es notar claramente el cambio de humor y luego usarlo a propósito."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Set a static Dm groove.\n2. Play a short phrase ending on B natural.\n3. Repeat the same phrase but end on Bb instead.\n4. Go back and forth until the color shift is obvious.\n5. Keep the rhythm identical so the note choice is the only big change.",
+          "zh-Hans": "# 引导钻\n1、设置静态Dm槽。\n2. 播放一段以 B 自然结尾的短乐句。\n3. 重复相同的乐句，但以 Bb 结尾。\n4. 来回移动直至颜色变化明显。\n5. 保持节奏相同，因此音符选择是唯一的大变化。",
+          "de": "# Geführter Bohrer\n1. Stellen Sie eine statische Dm-Groove ein.\n2. Spielen Sie eine kurze Phrase, die auf B natural endet.\n3. Wiederholen Sie dieselbe Phrase, beenden Sie sie jedoch stattdessen mit Bb.\n4. Gehen Sie hin und her, bis die Farbverschiebung offensichtlich ist.\n5. Halten Sie den Rhythmus identisch, sodass die Wahl der Noten die einzige große Änderung darstellt.",
+          "ja": "# ガイド付きドリル\n1. 静的 Dm グルーブを設定します。\n2. B ナチュラルで終わる短いフレーズを演奏します。\n3. 同じフレーズを繰り返しますが、代わりに Bb で終わります。\n4. 色の変化が明らかになるまで前後に動かします。\n5. リズムを同じに保つため、大きな変更は音の選択だけです。",
+          "pt-BR": "# Broca guiada\n1. Defina uma ranhura Dm estática.\n2. Toque uma frase curta terminando em B natural.\n3. Repita a mesma frase, mas termine em Bb.\n4. Vá para frente e para trás até que a mudança de cor seja óbvia.\n5. Mantenha o ritmo idêntico para que a escolha da nota seja a única grande mudança.",
+          "es": "# Taladro guiado\n1. Establezca una ranura Dm estática.\n2. Toque una frase corta que termine en Si natural.\n3. Repita la misma frase pero termine en Bb.\n4. Avanza y retrocede hasta que el cambio de color sea evidente.\n5. Mantenga el ritmo idéntico para que la elección de la nota sea el único gran cambio."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nBuild two 2-bar phrases with the same rhythm. Let the first sound open and hopeful with Dorian, and let the second sound darker with Aeolian. When the contrast is clear, the mode has become an expressive tool.",
+          "zh-Hans": "# 让它变得音乐化\n构建两个具有相同节奏的 2 小节乐句。 Dorian 的第一个声音开放且充满希望，Aeolian 的第二个声音更阴暗。当对比清晰时，模式就成为一种表达工具。",
+          "de": "# Mach es musikalisch\nBilden Sie zwei zweitaktige Phrasen mit demselben Rhythmus. Lassen Sie das erste mit Dorian offen und hoffnungsvoll klingen, und lassen Sie das zweite mit Aeolian düsterer klingen. Wenn der Kontrast klar ist, ist der Modus zu einem Ausdrucksmittel geworden.",
+          "ja": "#音楽的にする\n同じリズムの 2 小節のフレーズを 2 つ構築します。最初のサウンドはドリアンでオープンで希望に満ちたサウンドに、2 番目のサウンドはエオリアンでダークなサウンドにしましょう。コントラストがはっきりしていると、モードは表現力豊かなツールになります。",
+          "pt-BR": "# Torne-o musical\nConstrua duas frases de 2 compassos com o mesmo ritmo. Deixe o primeiro soar aberto e esperançoso com Dorian, e deixe o segundo soar mais sombrio com Aeolian. Quando o contraste é nítido, o modo se torna uma ferramenta expressiva.",
+          "es": "# Hazlo musical\nConstruye dos frases de 2 compases con el mismo ritmo. Dejemos que el primero suene abierto y esperanzador con Dorian, y que el segundo suene más oscuro con Aeolian. Cuando el contraste es claro, el modo se ha convertido en una herramienta expresiva."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Spend 1 minute on Dorian only.\n2. Spend 1 minute on Aeolian only.\n3. Spend 2 minutes alternating every bar.\n4. End by singing the color note before you play it.",
+          "zh-Hans": "## 快速练习\n1. 只花 1 分钟在 Dorian 上。\n2. 只花 1 分钟在 Aeolian 上。\n3. 花 2 分钟交替每个小节。\n4. 在演奏之前先唱出彩色音符作为结束。",
+          "de": "## Schnelles Üben\n1. Verbringen Sie 1 Minute nur mit Dorian.\n2. Verbringen Sie 1 Minute nur mit Aeolian.\n3. Verbringen Sie 2 Minuten damit, jeden Takt abzuwechseln.\n4. Singen Sie zum Schluss die Farbnote, bevor Sie sie spielen.",
+          "ja": "## 簡単な練習\n1. ドリアンのみに 1 分間時間を費やします。\n2.エオリアンのみに1分間費やします。\n3. 2 分間を小節ごとに交互に繰り返します。\n4. カラーノートを演奏する前に歌って終了します。",
+          "pt-BR": "## Prática rápida\n1. Gaste 1 minuto apenas com Dorian.\n2. Gaste 1 minuto apenas em Eólias.\n3. Passe 2 minutos alternando cada barra.\n4. Termine cantando a nota colorida antes de tocá-la.",
+          "es": "## Práctica rápida\n1. Dedica 1 minuto únicamente a Dorian.\n2. Dedica 1 minuto únicamente a Eolias.\n3. Pase 2 minutos alternando cada compás.\n4. Termine cantando la nota de color antes de tocarla."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nThis comparison is useful in modal rock, fusion, film music, and songwriting because a single pitch change can reshape the emotional feel without changing the root or groove.",
+          "zh-Hans": "## 音乐应用\n这种比较在模态摇滚、融合、电影音乐和歌曲创作中很有用，因为单个音高变化可以重塑情感感觉，而无需改变根音或律动。",
+          "de": "## Musikalische Anwendung\nDieser Vergleich ist bei Modal-Rock, Fusion, Filmmusik und Songwriting nützlich, da eine einzige Tonhöhenänderung das emotionale Gefühl neu formen kann, ohne den Grundton oder Groove zu verändern.",
+          "ja": "## 音楽アプリケーション\nこの比較は、モーダル ロック、フュージョン、映画音楽、ソングライティングに役立ちます。ピッチを 1 つ変えるだけで、ルートやグルーヴを変えることなく感情的な雰囲気を作り変えることができるからです。",
+          "pt-BR": "## Aplicação musical\nEssa comparação é útil em rock modal, fusão, música para filmes e composições porque uma única mudança de tom pode remodelar a sensação emocional sem alterar a raiz ou o ritmo.",
+          "es": "## Aplicación musical\nEsta comparación es útil en rock modal, fusión, música de cine y composición de canciones porque un solo cambio de tono puede remodelar la sensación emocional sin cambiar la raíz o el ritmo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Record one 8-bar solo over Dm using only Dorian color.\n2. Record another using only Aeolian color.\n3. Listen back without looking and identify which is which by ear alone.\n\nIf you can hear the difference immediately, the lesson has moved from theory to instinct.",
+          "zh-Hans": "## 高级挑战\n1. 仅使用 Dorian 颜色在 Dm 上录制一首 8 小节独奏。\n2. 仅使用风色记录另一个。\n3. 不看而回听，仅凭耳朵辨别哪个是哪个。\n\n如果您能立即听出其中的差异，则课程已从理论转向本能。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Nehmen Sie ein 8-taktiges Solo über Dm auf, wobei Sie ausschließlich dorische Farben verwenden.\n2. Nehmen Sie ein weiteres Bild nur mit äolischer Farbe auf.\n3. Hören Sie zu, ohne hinzusehen, und erkennen Sie anhand des Gehörs, wer welcher ist.\n\nWenn Sie den Unterschied sofort hören können, hat sich der Unterricht von der Theorie zum Instinkt entwickelt.",
+          "ja": "## 高度なチャレンジ\n1. ドリアンカラーのみを使用して、Dm 上に 8 小節のソロを 1 つ録音します。\n2. エオリアン カラーのみを使用して別の記録を行います。\n3. 見ずに聞き返し、耳だけでどれがどれであるかを識別します。\n\n違いをすぐに聞き取ることができれば、レッスンは理論から直感に移ったことになります。",
+          "pt-BR": "## Desafio avançado\n1. Grave um solo de 8 compassos sobre Dm usando apenas a cor Dorian.\n2. Grave outro usando apenas a cor Eólia.\n3. Ouça sem olhar e identifique qual é qual apenas de ouvido.\n\nSe você conseguir ouvir a diferença imediatamente, a lição passou da teoria para o instinto.",
+          "es": "## Desafío avanzado\n1. Grabe un solo de 8 compases sobre Dm utilizando únicamente el color Dorian.\n2. Graba otro utilizando únicamente el color eólico.\n3. Escuche sin mirar e identifique cuál es cuál sólo de oído.\n\nSi puedes escuchar la diferencia inmediatamente, la lección ha pasado de la teoría al instinto."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

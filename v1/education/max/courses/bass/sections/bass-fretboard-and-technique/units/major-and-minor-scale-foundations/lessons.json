@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-scale-sequences-in-thirds-on-bass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Sequences in Thirds on Bass",
+        "zh-Hans": "贝斯三度大调音阶序列",
+        "de": "Dur-Sequenzen in Terzen im Bass",
+        "ja": "ベースの 3 度のメジャー スケール シーケンス",
+        "pt-BR": "Sequências de escala maior em terças no baixo",
+        "es": "Secuencias de escala mayor en terceras en bajo"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn straight scale practice into melodic patterns that improve fretboard control.",
+        "zh-Hans": "将直接音阶练习转化为旋律模式，以提高指板控制。",
+        "de": "Verwandeln Sie das Üben von geraden Tonleitern in melodische Muster, die die Kontrolle über das Griffbrett verbessern.",
+        "ja": "ストレートスケールの練習をメロディックなパターンに変え、フレットボードのコントロールを向上させます。",
+        "pt-BR": "Transforme a prática de escala direta em padrões melódicos que melhoram o controle do braço da guitarra.",
+        "es": "Convierta la práctica de escalas rectas en patrones melódicos que mejoren el control del diapasón."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

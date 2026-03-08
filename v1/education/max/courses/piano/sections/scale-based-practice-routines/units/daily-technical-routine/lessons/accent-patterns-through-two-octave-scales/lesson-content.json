@@ -1,0 +1,99 @@
+{
+  "id": "accent-patterns-through-two-octave-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Accent Patterns Through Two-Octave Scales\nScales become much more useful when you stop treating every note the same way. In this lesson you will use accent patterns to improve rhythmic control, touch, and awareness inside a two-octave scale.",
+          "zh-Hans": "# 两个八度音阶的重音模式\n当你不再以同样的方式对待每个音符时，音阶就会变得更加有用。在本课程中，您将使用重音模式来提高两个八度音阶内的节奏控制、触感和意识。",
+          "de": "# Akzentmuster durch Zwei-Oktav-Tonleitern\nSkalen werden viel nützlicher, wenn man aufhört, jede Note gleich zu behandeln. In dieser Lektion verwenden Sie Akzentmuster, um die rhythmische Kontrolle, den Anschlag und das Bewusstsein innerhalb einer Zwei-Oktaven-Tonleiter zu verbessern.",
+          "ja": "# 2 オクターブスケールによるアクセントパターン\nすべての音を同じように扱うのをやめると、スケールはさらに便利になります。このレッスンでは、アクセント パターンを使用して、2 オクターブ スケール内のリズミカルなコントロール、タッチ、意識を向上させます。",
+          "pt-BR": "# Padrões de acento por meio de escalas de duas oitavas\nAs escalas tornam-se muito mais úteis quando você para de tratar todas as notas da mesma maneira. Nesta lição você usará padrões de acento para melhorar o controle rítmico, o toque e a consciência dentro de uma escala de duas oitavas.",
+          "es": "# Patrones de acento a través de escalas de dos octavas\nLas escalas se vuelven mucho más útiles cuando dejas de tratar cada nota de la misma manera. En esta lección utilizarás patrones de acento para mejorar el control rítmico, el tacto y la conciencia dentro de una escala de dos octavas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- Accenting every 3rd or 4th note changes how the scale feels in your hands.\n- The non-accented notes must stay relaxed and controlled.\n- This is not about hitting harder. It is about shaping the line with intention.",
+          "zh-Hans": "# 主要思想\n- 每第三个或第四个音符的重音都会改变你手中的音阶感觉。\n- 非重音音符必须保持放松和受控。\n- 这并不是要打得更猛烈。这是有意识地塑造线条。",
+          "de": "# Hauptidee\n- Durch die Betonung jeder 3. oder 4. Note verändert sich, wie sich die Tonleiter in Ihren Händen anfühlt.\n- Die nicht akzentuierten Noten müssen entspannt und kontrolliert bleiben.\n- Hier geht es nicht darum, härter zuzuschlagen. Es geht darum, die Linie mit Absicht zu gestalten.",
+          "ja": "# 主なアイデア\n- 3 番目または 4 番目の音符ごとにアクセントを付けると、スケールが手の中でどのように感じられるかが変わります。\n- アクセントのない音符は、リラックスしてコントロールされたままでなければなりません。\n- これは強く打つことではありません。意図を持ってラインを形成することです。",
+          "pt-BR": "#Ideia principal\n- Acentuar cada 3ª ou 4ª nota muda a sensação da escala em suas mãos.\n- As notas não acentuadas devem permanecer relaxadas e controladas.\n- Não se trata de bater com mais força. Trata-se de moldar a linha com intenção.",
+          "es": "# idea principal\n- Acentuar cada tercera o cuarta nota cambia la sensación de la escala en tus manos.\n- Las notas no acentuadas deben permanecer relajadas y controladas.\n- No se trata de pegar más fuerte. Se trata de dar forma a la línea con intención."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Play a two-octave C major scale.\n2. Accent every 4th note for one pass.\n3. Accent every 3rd note for the next pass.\n4. Keep the tempo steady and the wrist loose.\n5. Repeat in G major once the pattern feels stable.",
+          "zh-Hans": "# 引导钻\n1. 演奏两个八度的 C 大调音阶。\n2. 每 4 个音符重音一次。\n3. 为下一遍重音每第三个音符。\n4、保持节奏稳定，手腕放松。\n5. 当节奏感觉稳定后，以 G 大调重复。",
+          "de": "# Geführter Bohrer\n1. Spielen Sie eine C-Dur-Tonleiter mit zwei Oktaven.\n2. Betonen Sie jede vierte Note für einen Durchgang.\n3. Betonen Sie jede dritte Note für den nächsten Durchgang.\n4. Halten Sie das Tempo konstant und das Handgelenk locker.\n5. Wiederholen Sie den Vorgang in G-Dur, sobald sich das Muster stabil anfühlt.",
+          "ja": "# ガイド付きドリル\n1. 2 オクターブの C メジャー スケールを演奏します。\n2. 1 パスにつき 4 番目の音符ごとにアクセントを付けます。\n3. 次のパスでは 3 番目の音符ごとにアクセントを付けます。\n4. テンポを一定に保ち、手首を緩めます。\n5. パターンが安定したと感じたら、ト長調で繰り返します。",
+          "pt-BR": "# Broca guiada\n1. Toque uma escala de dó maior de duas oitavas.\n2. Acentue cada quarta nota em uma passagem.\n3. Acentue cada terceira nota para a próxima passagem.\n4. Mantenha o ritmo constante e o pulso solto.\n5. Repita em Sol maior quando o padrão parecer estável.",
+          "es": "# Taladro guiado\n1. Toque una escala de do mayor de dos octavas.\n2. Acentúe cada cuarta nota en una pasada.\n3. Acentúe cada tercera nota para el siguiente pase.\n4. Mantenga el tempo constante y la muñeca suelta.\n5. Repita en sol mayor una vez que el patrón se sienta estable."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nListen to how each accent pattern creates a different groove. One feels square, another feels like it is leaning across the bar. That rhythmic awareness can later feed real phrasing and improvisation.",
+          "zh-Hans": "# 让它变得音乐化\n聆听每种重音模式如何创造不同的律动。一种感觉是方形的，另一种感觉像是倾斜在横杆上。这种节奏意识可以为真正的乐句和即兴创作提供支持。",
+          "de": "# Mach es musikalisch\nHören Sie, wie jedes Akzentmuster einen anderen Groove erzeugt. Einer fühlt sich quadratisch an, ein anderer hat das Gefühl, als würde er sich über die Bar beugen. Dieses rhythmische Bewusstsein kann später zu echter Phrasierung und Improvisation beitragen.",
+          "ja": "#音楽的にする\nそれぞれのアクセントパターンがどのように異なるグルーヴを生み出すのかに注目してください。あるものは直角に感じられ、別のものはバーの上に傾いているように感じられます。そのリズミカルな意識は、後で実際のフレージングや即興演奏を養うことができます。",
+          "pt-BR": "# Torne-o musical\nOuça como cada padrão de acento cria um ritmo diferente. Um parece quadrado, outro parece estar inclinado sobre o bar. Essa consciência rítmica pode mais tarde alimentar o fraseado e a improvisação reais.",
+          "es": "# Hazlo musical\nEscuche cómo cada patrón de acento crea un ritmo diferente. Uno se siente cuadrado, otro se siente como si estuviera inclinado sobre la barra. Esa conciencia rítmica puede luego alimentar el fraseo y la improvisación reales."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. One pass with no accents.\n2. One pass accenting every 4th note.\n3. One pass accenting every 3rd note.\n4. One pass where you shape a small crescendo instead of a strong accent.\n5. End with the quietest controlled take you can play.",
+          "zh-Hans": "## 快速练习\n1. 一张通行证，没有重音。\n2. 每四个音符重音一次。\n3. 每第三个音符重音一次。\n4. 一次通过，您可以塑造一个小渐强而不是重音。\n5. 以您能演奏的最安静的受控演奏结束。",
+          "de": "## Schnelles Üben\n1. Ein Durchgang ohne Akzente.\n2. Ein Durchgang mit Akzentuierung jeder 4. Note.\n3. Ein Durchgang mit Akzentuierung jeder dritten Note.\n4. Ein Durchgang, bei dem Sie ein kleines Crescendo anstelle eines starken Akzents formen.\n5. Beenden Sie mit dem ruhigsten kontrollierten Take, den Sie spielen können.",
+          "ja": "## 簡単な練習\n1. アクセントのない 1 つのパス。\n2. 4 番目の音符ごとに 1 パスアクセントを付けます。\n3. 3 番目の音ごとに 1 パスでアクセントを付けます。\n4. 強いアクセントの代わりに小さなクレッシェンドを形作る 1 つのパス。\n5. 再生できる中で最も静かにコントロールされたテイクで終了します。",
+          "pt-BR": "## Prática rápida\n1. Uma passagem sem acentos.\n2. Uma passagem acentuando cada 4ª nota.\n3. Uma passagem acentuando cada terceira nota.\n4. Uma passagem onde você forma um pequeno crescendo em vez de um sotaque forte.\n5. Termine com a tomada controlada mais silenciosa que você puder tocar.",
+          "es": "## Práctica rápida\n1. Una pasada sin acentos.\n2. Una pasada acentuando cada cuarta nota.\n3. Una pasada acentuando cada tercera nota.\n4. Una pasada en la que das forma a un pequeño crescendo en lugar de un acento fuerte.\n5. Termina con la toma controlada más silenciosa que puedas tocar."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nAccent work improves scale runs, accompaniment patterns, and finger control because it teaches you how to organize motion instead of letting the hands go on autopilot.",
+          "zh-Hans": "## 音乐应用\n重音练习可以改善音阶运行、伴奏模式和手指控制，因为它教你如何组织动作，而不是让双手自动驾驶。",
+          "de": "## Musikalische Anwendung\nDurch die Arbeit mit Akzenten werden Tonleiterläufe, Begleitmuster und die Fingerkontrolle verbessert, da Sie dadurch lernen, Bewegungen zu organisieren, anstatt die Hände auf Autopilot laufen zu lassen.",
+          "ja": "## 音楽アプリケーション\nアクセントワークは、手を自動操縦させる代わりに動きを組織化する方法を教えるため、スケールラン、伴奏パターン、指のコントロールを改善します。",
+          "pt-BR": "## Aplicação musical\nO trabalho de sotaque melhora as escalas, os padrões de acompanhamento e o controle dos dedos porque ensina como organizar o movimento em vez de deixar as mãos no piloto automático.",
+          "es": "## Aplicación musical\nEl trabajo de acento mejora las escalas, los patrones de acompañamiento y el control de los dedos porque te enseña cómo organizar el movimiento en lugar de dejar que las manos vayan en piloto automático."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Play two octaves up and down with accents every 3rd note.\n2. Without stopping, switch to accents every 4th note.\n3. Keep the sound even enough that the accents feel shaped, not punched.\n\nIf the line remains calm while the accent pattern changes, your control is growing in a real musical way.",
+          "zh-Hans": "## 高级挑战\n1. 上下演奏两个八度音阶，每三个音符都有重音。\n2. 不间断地，每四个音符切换到重音。\n3. 保持声音足够均匀，使重音感觉有形状，而不是被打孔。\n\n如果在重音模式发生变化时线条保持平静，那么您的控制力就会以真正的音乐方式增强。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Spielen Sie zwei Oktaven auf und ab mit Akzenten bei jeder dritten Note.\n2. Wechseln Sie, ohne anzuhalten, bei jeder vierten Note zu den Akzenten.\n3. Halten Sie den Klang so gleichmäßig, dass die Akzente geformt und nicht gestanzt wirken.\n\nWenn die Linie ruhig bleibt, während sich das Akzentmuster ändert, wächst Ihre Kontrolle auf echte musikalische Weise.",
+          "ja": "## 高度なチャレンジ\n1. 3 番目の音ごとにアクセントをつけて、2 オクターブ上下に演奏します。\n2. 止まらずに、4音目ごとにアクセントに切り替えます。\n3. アクセントがパンチではなく形作られているように感じられる程度に、サウンドを均一に保ちます。\n\nアクセントパターンが変化してもラインが穏やかなままであれば、コントロールは真の音楽的な方法で成長しています。",
+          "pt-BR": "## Desafio avançado\n1. Toque duas oitavas para cima e para baixo com acentos a cada terceira nota.\n2. Sem parar, mude para acentos a cada 4 notas.\n3. Mantenha o som uniforme o suficiente para que os acentos pareçam moldados, e não perfurados.\n\nSe a linha permanecer calma enquanto o padrão de acento muda, seu controle estará crescendo de uma forma realmente musical.",
+          "es": "## Desafío avanzado\n1. Toque dos octavas hacia arriba y hacia abajo con acentos cada tercera nota.\n2. Sin parar, cambie a acentos cada cuarta nota.\n3. Mantenga el sonido lo suficientemente uniforme como para que los acentos se sientan moldeados, no perforados.\n\nSi la línea permanece tranquila mientras el patrón de acento cambia, su control aumentará de una manera musical real."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

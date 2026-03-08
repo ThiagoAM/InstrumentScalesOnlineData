@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "smooth-thumb-crossings-in-scale-motion",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Smooth Thumb Crossings in Scale Motion",
+        "zh-Hans": "音阶运动中拇指的平滑交叉",
+        "de": "Sanfte Daumenkreuzungen in Skalenbewegung",
+        "ja": "スケールモーションでの親指のスムーズな交差",
+        "pt-BR": "Cruzamentos suaves dos polegares em movimento de escala",
+        "es": "Cruces suaves del pulgar en movimiento de escala"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make scale fingerings feel connected and relaxed instead of bumpy or tense.",
+        "zh-Hans": "让音阶指法感觉连贯且放松，而不是颠簸或紧张。",
+        "de": "Sorgen Sie dafür, dass sich die Fingersätze der Tonleiter zusammenhängend und entspannt anfühlen, statt holprig oder angespannt.",
+        "ja": "スケールの運指を、でこぼこしたり緊張したりするのではなく、つながりとリラックスを感じさせます。",
+        "pt-BR": "Faça com que os dedilhados da escala pareçam conectados e relaxados, em vez de acidentados ou tensos.",
+        "es": "Haga que las digitaciones de escala se sientan conectadas y relajadas en lugar de agitadas o tensas."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

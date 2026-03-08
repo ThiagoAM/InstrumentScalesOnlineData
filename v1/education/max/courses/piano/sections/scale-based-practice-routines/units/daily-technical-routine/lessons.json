@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "accent-patterns-through-two-octave-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Accent Patterns Through Two-Octave Scales",
+        "zh-Hans": "两个八度音阶的重音模式",
+        "de": "Akzentmuster durch Zwei-Oktav-Tonleitern",
+        "ja": "2オクターブスケールによるアクセントパターン",
+        "pt-BR": "Padrões de acento em escalas de duas oitavas",
+        "es": "Patrones de acento a través de escalas de dos octavas"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use accents to improve control, rhythm, and awareness inside familiar scale patterns.",
+        "zh-Hans": "在熟悉的音阶模式中使用重音来提高控制力、节奏和意识。",
+        "de": "Verwenden Sie Akzente, um die Kontrolle, den Rhythmus und das Bewusstsein innerhalb bekannter Skalenmuster zu verbessern.",
+        "ja": "アクセントを使用して、馴染みのあるスケール パターン内のコントロール、リズム、意識を向上させます。",
+        "pt-BR": "Use acentos para melhorar o controle, o ritmo e a consciência dentro de padrões de escala familiares.",
+        "es": "Utilice acentos para mejorar el control, el ritmo y la conciencia dentro de patrones de escala familiares."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

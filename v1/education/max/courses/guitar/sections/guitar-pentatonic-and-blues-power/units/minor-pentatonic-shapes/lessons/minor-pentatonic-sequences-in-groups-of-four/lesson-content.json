@@ -1,0 +1,99 @@
+{
+  "id": "minor-pentatonic-sequences-in-groups-of-four",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Minor Pentatonic Sequences in Groups of Four\nBox patterns can get stale when you always run them the same way. In this lesson you will use groups of four to make your minor pentatonic ideas sound more deliberate, rhythmic, and energetic.",
+          "zh-Hans": "# 四声一组的小五声音序\n当您总是以相同的方式运行盒子模式时，它们可能会变得陈旧。在本课程中，您将使用四人一组的方式让您的小五声音阶想法听起来更加深思熟虑、更有节奏、更有活力。",
+          "de": "# Moll-pentatonische Sequenzen in Vierergruppen\nBoxmuster können veraltet sein, wenn Sie sie immer auf die gleiche Weise ausführen. In dieser Lektion werden Sie Vierergruppen verwenden, um Ihre Moll-Pentatonik-Ideen bewusster, rhythmischer und energischer klingen zu lassen.",
+          "ja": "# 4 つのグループのマイナー ペンタトニック シーケンス\nボックス パターンを常に同じ方法で実行すると、ボックス パターンが古くなってしまう可能性があります。このレッスンでは、4 人のグループを使用して、マイナー ペンタトニックのアイデアをより意図的で、リズミカルで、エネルギー的に聞こえるようにします。",
+          "pt-BR": "# Sequências Pentatônicas Menores em Grupos de Quatro\nOs padrões de caixa podem ficar obsoletos quando você os executa sempre da mesma maneira. Nesta lição você usará grupos de quatro para fazer com que suas ideias pentatônicas menores soem mais deliberadas, rítmicas e energéticas.",
+          "es": "# Secuencias Pentatónicas Menores en Grupos de Cuatro\nLos patrones de cajas pueden volverse obsoletos si siempre los ejecutas de la misma manera. En esta lección utilizarás grupos de cuatro para hacer que tus ideas pentatónicas menores suenen más deliberadas, rítmicas y enérgicas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- A sequence might go: notes 1-2-3-4, then 2-3-4-5, then 3-4-5-1.\n- The pattern gives motion, but your articulation decides whether it sounds musical.\n- Keep the hand relaxed so the sequence does not turn into tension practice.",
+          "zh-Hans": "# 主要思想\n- 顺序可能是：注释 1-2-3-4，然后是 2-3-4-5，然后是 3-4-5-1。\n- 模式给出了动感，但你的发音决定了它听起来是否有音乐感。\n- 保持手放松，这样序列就不会变成紧张练习。",
+          "de": "# Hauptidee\n- Eine Reihenfolge könnte lauten: Noten 1-2-3-4, dann 2-3-4-5, dann 3-4-5-1.\n- Das Muster gibt Bewegung, aber Ihre Artikulation entscheidet darüber, ob es musikalisch klingt.\n- Halten Sie die Hand entspannt, damit die Sequenz nicht zu einer Spannungsübung wird.",
+          "ja": "# 主なアイデア\n- シーケンスは次のようになります: ノート 1-2-3-4、次に 2-3-4-5、そして 3-4-5-1。\n- パターンは動きを与えますが、それが音楽的に聞こえるかどうかはアーティキュレーションによって決まります。\n- シーケンスが緊張した練習にならないように、手をリラックスさせておいてください。",
+          "pt-BR": "#Ideia principal\n- Uma sequência pode ser: notas 1-2-3-4, depois 2-3-4-5 e depois 3-4-5-1.\n- O padrão dá movimento, mas a sua articulação decide se soa musical.\n- Mantenha a mão relaxada para que a sequência não se transforme em prática de tensão.",
+          "es": "# idea principal\n- Una secuencia podría ser: notas 1-2-3-4, luego 2-3-4-5, luego 3-4-5-1.\n- El patrón da movimiento, pero tu articulación decide si suena musical.\n- Mantén la mano relajada para que la secuencia no se convierta en una práctica de tensión."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Stay in A minor pentatonic box 1.\n2. Play a four-note sequence ascending.\n3. Repeat it descending.\n4. Accent only the first note of each group so the rhythm stays clear.\n5. Move the same idea into box 2 when it feels comfortable.",
+          "zh-Hans": "# 引导钻\n1. 留在小调五声音阶盒 1 中。\n2. 弹奏一个四音符升序序列。\n3. 降序重复。\n4. 仅重音每组的第一个音符，以保持节奏清晰。\n5. 当感觉舒服时，将相同的想法移入方框 2。",
+          "de": "# Geführter Bohrer\n1. Bleiben Sie im a-Moll-Pentatonikkasten 1.\n2. Spielen Sie eine aufsteigende Vier-Noten-Sequenz.\n3. Wiederholen Sie den Vorgang absteigend.\n4. Betonen Sie nur die erste Note jeder Gruppe, damit der Rhythmus klar bleibt.\n5. Verschieben Sie dieselbe Idee in Feld 2, wenn Sie sich wohl fühlen.",
+          "ja": "# ガイド付きドリル\n1. Aマイナーペンタトニックボックス1に留まります。\n2. 4 つの音符シーケンスを上順に演奏します。\n3.下降を繰り返します。\n4. リズムが明確になるように、各グループの最初の音のみにアクセントを付けます。\n5. 納得したら、同じアイデアをボックス 2 に移します。",
+          "pt-BR": "# Broca guiada\n1. Fique na caixa pentatônica menor 1.\n2. Toque uma sequência ascendente de quatro notas.\n3. Repita descendo.\n4. Acentue apenas a primeira nota de cada grupo para que o ritmo fique claro.\n5. Mova a mesma ideia para a caixa 2 quando for confortável.",
+          "es": "# Taladro guiado\n1. Permanecer en la caja pentatónica menor 1.\n2. Toque una secuencia de cuatro notas ascendente.\n3. Repítelo de forma descendente.\n4. Acentúe sólo la primera nota de cada grupo para que el ritmo se mantenga claro.\n5. Mueva la misma idea al cuadro 2 cuando le resulte cómodo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nUse the sequence for only one beat or one bar inside a solo, then return to a simpler phrase. That contrast is what makes the line sound exciting instead of constant exercise mode.",
+          "zh-Hans": "# 让它变得音乐化\n仅将该序列用于独奏中的一个节拍或一个小节，然后返回到一个更简单的乐句。这种对比使得这条线听起来令人兴奋，而不是持续的锻炼模式。",
+          "de": "# Mach es musikalisch\nVerwenden Sie die Sequenz nur für einen Schlag oder einen Takt innerhalb eines Solos und kehren Sie dann zu einer einfacheren Phrase zurück. Dieser Kontrast ist es, der die Linie spannend klingen lässt und nicht nach einem ständigen Trainingsmodus.",
+          "ja": "#音楽的にする\nソロ内の 1 ビートまたは 1 小節だけシーケンスを使用し、その後はシンプルなフレーズに戻ります。そのコントラストが、このセリフを絶え間ない運動モードではなくエキサイティングに聞こえるものにしています。",
+          "pt-BR": "# Torne-o musical\nUse a sequência para apenas uma batida ou um compasso dentro de um solo e depois retorne para uma frase mais simples. Esse contraste é o que faz a linha parecer emocionante, em vez de um modo de exercício constante.",
+          "es": "# Hazlo musical\nUtilice la secuencia solo para un tiempo o un compás dentro de un solo y luego regrese a una frase más simple. Ese contraste es lo que hace que la línea suene emocionante en lugar de un modo de ejercicio constante."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play the sequence at a slow tempo for 2 minutes.\n2. Add slides or hammer-ons on one string set only.\n3. Leave one beat of rest between repetitions.\n4. Finish by inserting the idea into a 12-bar blues backing track.",
+          "zh-Hans": "## 快速练习\n1. 慢速播放该序列 2 分钟。\n2. 仅在一组琴弦上添加滑轨或弦槌。\n3. 重复之间留出一拍的休息时间。\n4. 最后将想法插入 12 小节布鲁斯背景音乐中。",
+          "de": "## Schnelles Üben\n1. Spielen Sie die Sequenz 2 Minuten lang in einem langsamen Tempo ab.\n2. Fügen Sie Slides oder Hammer-Ons nur auf einem Saitensatz hinzu.\n3. Lassen Sie zwischen den Wiederholungen einen Schlag Pause.\n4. Fügen Sie zum Abschluss die Idee in einen 12-taktigen Blues-Backing-Track ein.",
+          "ja": "## 簡単な練習\n1. シーケンスを遅いテンポで 2 分間再生します。\n2. 1 つの弦セットにのみスライドまたはハンマリングオンを追加します。\n3. 繰り返しの間に 1 拍の休符を置きます。\n4. 最後に、そのアイデアを 12 小節のブルースのバッキング トラックに挿入します。",
+          "pt-BR": "## Prática rápida\n1. Toque a sequência em ritmo lento por 2 minutos.\n2. Adicione slides ou martelos em apenas um conjunto de cordas.\n3. Deixe um intervalo de descanso entre as repetições.\n4. Finalize inserindo a ideia em uma faixa de apoio de blues de 12 compassos.",
+          "es": "## Práctica rápida\n1. Reproduzca la secuencia a un ritmo lento durante 2 minutos.\n2. Agregue diapositivas o martillos en un solo juego de cuerdas.\n3. Deja un tiempo de descanso entre repeticiones.\n4. Termine insertando la idea en una pista de acompañamiento de blues de 12 compases."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nShort sequences are great for building intensity before a bend, a rest, or a strong target note. Used in small doses, they make familiar pentatonic shapes sound much fresher.",
+          "zh-Hans": "## 音乐应用\n短序列非常适合在弯曲、休息或强烈的目标音符之前增强强度。小剂量使用，它们可以使熟悉的五声音型听起来更加新鲜。",
+          "de": "## Musikalische Anwendung\nKurze Sequenzen eignen sich hervorragend zum Aufbau der Intensität vor einer Kurve, einer Pause oder einem starken Zielton. In kleinen Dosen eingesetzt, lassen sie bekannte pentatonische Formen deutlich frischer klingen.",
+          "ja": "## 音楽アプリケーション\n短いシーケンスは、ベンド、休符、または強いターゲットノートの前に強度を高めるのに最適です。少量使用すると、馴染みのあるペンタトニックの形がより新鮮に聞こえます。",
+          "pt-BR": "## Aplicação musical\nSequências curtas são ótimas para aumentar a intensidade antes de uma curva, uma pausa ou uma nota alvo forte. Usados ​​em pequenas doses, eles fazem com que as formas pentatônicas familiares soem muito mais frescas.",
+          "es": "## Aplicación musical\nLas secuencias cortas son excelentes para desarrollar la intensidad antes de una curva, un silencio o una nota objetivo fuerte. Usados ​​en pequeñas dosis, hacen que las formas pentatónicas familiares suenen mucho más frescas."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Write a 4-bar lick that uses one group-of-four sequence and one held note.\n2. Play it in box 1 first, then move it to box 2.\n3. Keep the phrasing relaxed enough that the lick still sounds singable.\n\nIf the idea feels like a real lick and not a finger exercise, you found the balance.",
+          "zh-Hans": "## 高级挑战\n1. 编写一个 4 小节舔音，使用一组四个音序和一个保持音符。\n2. 先在方框 1 中播放，然后将其移动到方框 2。\n3. 保持乐句足够放松，使舔音听起来仍然可以唱。\n\n如果这个想法感觉像是真正的舔而不是手指练习，那么您就找到了平衡。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Schreiben Sie einen 4-taktigen Lick, der eine Vierergruppe-Sequenz und eine gehaltene Note verwendet.\n2. Spielen Sie es zuerst in Box 1 ab und verschieben Sie es dann in Box 2.\n3. Halten Sie die Phrasierung so entspannt, dass das Lick immer noch singbar klingt.\n\nWenn sich die Idee wie ein echter Leckerbissen und nicht wie eine Fingerübung anfühlt, haben Sie die Balance gefunden.",
+          "ja": "## 高度なチャレンジ\n1. 1 つのグループ 4 シーケンスと 1 つの長音符を使用する 4 小節のリックを作成します。\n2. 最初にボックス 1 で再生し、次にボックス 2 に移動します。\n3. リックがまだ歌いやすいように聞こえる程度に、フレージングをリラックスした状態に保ちます。\n\nアイデアが指の練習ではなく、実際になめるように感じられれば、バランスは取れています。",
+          "pt-BR": "## Desafio avançado\n1. Escreva um lick de 4 compassos que use uma sequência de grupo de quatro e uma nota sustentada.\n2. Jogue-o primeiro na caixa 1 e depois mova-o para a caixa 2.\n3. Mantenha o fraseado relaxado o suficiente para que o lick ainda pareça cantável.\n\nSe a ideia parece uma verdadeira lambida e não um exercício com os dedos, você encontrou o equilíbrio.",
+          "es": "## Desafío avanzado\n1. Escribe un lick de 4 compases que utilice una secuencia de grupo de cuatro y una nota sostenida.\n2. Juégalo primero en la casilla 1 y luego muévelo a la casilla 2.\n3. Mantenga el fraseo lo suficientemente relajado como para que el lick todavía suene cantable.\n\nSi la idea parece una lamida real y no un ejercicio con los dedos, has encontrado el equilibrio."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

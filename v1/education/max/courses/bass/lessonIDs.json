@@ -9,9 +9,11 @@
     "bass/bass-fretboard-and-technique/major-and-minor-scale-foundations/c-major-two-octave-scale-position-based",
     "bass/bass-fretboard-and-technique/major-and-minor-scale-foundations/a-natural-minor-scale-in-multiple-positions",
     "bass/bass-fretboard-and-technique/major-and-minor-scale-foundations/connecting-major-and-minor-shapes-across-the-neck",
+    "bass/bass-fretboard-and-technique/major-and-minor-scale-foundations/major-scale-sequences-in-thirds-on-bass",
     "bass/groove-with-scales/roots-fifths-and-octaves/basic-rock-groove-using-root-and-fifth",
     "bass/groove-with-scales/roots-fifths-and-octaves/adding-the-octave-to-pentatonic-lines",
     "bass/groove-with-scales/roots-fifths-and-octaves/combining-scale-notes-with-groove-patterns",
+    "bass/groove-with-scales/roots-fifths-and-octaves/eighth-note-octave-grooves-for-chorus-energy",
     "bass/groove-with-scales/pentatonic-and-blues-for-bass/minor-pentatonic-for-bass-riffs",
     "bass/groove-with-scales/pentatonic-and-blues-for-bass/blues-scale-grooves-in-a-and-e",
     "bass/groove-with-scales/pentatonic-and-blues-for-bass/creating-simple-turnarounds",
@@ -21,6 +23,7 @@
     "bass/walking-bass-and-harmony/building-walking-lines/stepwise-motion-in-major-keys",
     "bass/walking-bass-and-harmony/building-walking-lines/using-thirds-and-fifths-in-walking-lines",
     "bass/walking-bass-and-harmony/building-walking-lines/chromatic-approaches-to-chord-tones",
+    "bass/walking-bass-and-harmony/building-walking-lines/enclosures-into-walking-target-notes",
     "bass/walking-bass-and-harmony/ii-v-i-and-jazz-basics/walking-over-a-simple-ii-v-i-in-c",
     "bass/walking-bass-and-harmony/ii-v-i-and-jazz-basics/using-modes-for-walking-lines",
     "bass/walking-bass-and-harmony/ii-v-i-and-jazz-basics/combining-scale-and-arpeggio-tones",
@@ -33,10 +36,12 @@
     "bass/advanced-fretboard-control/modes-for-bass-lines/dorian-for-funk-grooves",
     "bass/advanced-fretboard-control/modes-for-bass-lines/mixolydian-for-dominant-bass-lines",
     "bass/advanced-fretboard-control/modes-for-bass-lines/aeolian-for-rock-and-metal-lines",
+    "bass/advanced-fretboard-control/modes-for-bass-lines/dorian-color-for-minor-bass-loops",
     "bass/advanced-fretboard-control/melodic-bass-playing/creating-counter-melodies-with-scales",
     "bass/advanced-fretboard-control/melodic-bass-playing/chord-tone-emphasis-in-melodic-lines",
-    "bass/advanced-fretboard-control/melodic-bass-playing/building-melodic-etudes-from-scales"
+    "bass/advanced-fretboard-control/melodic-bass-playing/building-melodic-etudes-from-scales",
+    "bass/advanced-fretboard-control/melodic-bass-playing/singable-phrases-in-the-upper-register"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2025-12-01T00:00:00Z"
+  "updatedAt": "2026-03-08T00:00:00Z"
 }

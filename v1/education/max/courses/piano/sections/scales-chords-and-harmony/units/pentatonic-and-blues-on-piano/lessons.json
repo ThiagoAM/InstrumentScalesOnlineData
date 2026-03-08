@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "left-hand-blues-ostinato-with-right-hand-licks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Left-Hand Blues Ostinato with Right-Hand Licks",
+        "zh-Hans": "左手布鲁斯固定音节与右手舔",
+        "de": "Blues-Ostinato für die linke Hand mit Licks für die rechte Hand",
+        "ja": "左手のブルース・オスティナートと右手のリック",
+        "pt-BR": "Ostinato de blues para a mão esquerda com licks para a mão direita",
+        "es": "Ostinato de blues para la mano izquierda con licks para la mano derecha"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a real blues texture by keeping the groove steady under simple right-hand phrases.",
+        "zh-Hans": "通过在简单的右手乐句下保持稳定的节奏来构建真正的布鲁斯纹理。",
+        "de": "Bauen Sie eine echte Blues-Textur auf, indem Sie den Groove unter einfachen Phrasen der rechten Hand stabil halten.",
+        "ja": "シンプルな右手のフレーズの下でグルーヴを安定させて、本物のブルースのテクスチャーを構築します。",
+        "pt-BR": "Crie uma verdadeira textura de blues mantendo o ritmo constante sob frases simples para a mão direita.",
+        "es": "Crea una textura de blues real manteniendo el ritmo estable bajo frases simples de la mano derecha."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

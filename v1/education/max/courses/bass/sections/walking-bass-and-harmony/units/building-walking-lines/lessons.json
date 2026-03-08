@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "enclosures-into-walking-target-notes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Enclosures into Walking Target Notes",
+        "zh-Hans": "将行走的目标笔记封装起来",
+        "de": "Beilagen zu Wanderzielnotizen",
+        "ja": "ウォーキングターゲットノートへのエンクロージャ",
+        "pt-BR": "Anexos em notas de alvo ambulante",
+        "es": "Recintos en notas de objetivos andantes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Approach chord tones from above and below without losing the pulse.",
+        "zh-Hans": "从上方和下方接近和弦音而不失去脉动。",
+        "de": "Gehen Sie Akkordtöne von oben und unten an, ohne den Puls zu verlieren.",
+        "ja": "脈動を失わずに上からも下からもコードトーンにアプローチします。",
+        "pt-BR": "Aproxime-se dos tons dos acordes de cima e de baixo sem perder o pulso.",
+        "es": "Acérquese a los tonos de los acordes desde arriba y desde abajo sin perder el pulso."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

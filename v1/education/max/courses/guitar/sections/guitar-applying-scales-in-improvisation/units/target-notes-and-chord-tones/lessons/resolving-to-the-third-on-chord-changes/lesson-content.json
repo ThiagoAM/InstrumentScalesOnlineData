@@ -1,0 +1,99 @@
+{
+  "id": "resolving-to-the-third-on-chord-changes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Resolving to the Third on Chord Changes\nThe 3rd tells the listener whether a chord sounds major or minor. In this lesson you will target the 3rd when the harmony changes so your solo sounds connected to the chords instead of floating above them.",
+          "zh-Hans": "# 解决和弦变化的第三度问题\n第三个和弦告诉听者一个和弦听起来是大调还是小调。在本课程中，当和声发生变化时，您将瞄准第三个和弦，以便您的独奏听起来与和弦相连，而不是漂浮在和弦上方。",
+          "de": "# Auflösung der Terz bei Akkordwechseln\nDie Terz sagt dem Zuhörer, ob ein Akkord Dur oder Moll klingt. In dieser Lektion konzentrieren Sie sich auf die Terz, wenn sich die Harmonie ändert, damit Ihr Solo mit den Akkorden verbunden klingt, anstatt über ihnen zu schweben.",
+          "ja": "# コード変更時の 3 度音への解決\n3 番目のコードは、コードがメジャーに聞こえるかマイナーに聞こえるかをリスナーに伝えます。このレッスンでは、ハーモニーが変化するときに 3 度音をターゲットにして、ソロがコードの上に浮かぶのではなく、コードとつながって聞こえるようにします。",
+          "pt-BR": "# Resolvendo para a terça nas mudanças de acordes\nA 3ª informa ao ouvinte se um acorde soa maior ou menor. Nesta lição você terá como alvo a 3ª quando a harmonia muda para que seu solo soe conectado aos acordes em vez de flutuar acima deles.",
+          "es": "# Resolver a la tercera en cambios de acordes\nLa tercera le dice al oyente si un acorde suena mayor o menor. En esta lección, te centrarás en la tercera cuando la armonía cambie para que tu solo suene conectado a los acordes en lugar de flotar sobre ellos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- Over Dm7, the 3rd is F.\n- Over G7, the 3rd is B.\n- Over Cmaj7, the 3rd is E.\n- If those notes arrive in the right place, even a simple line starts sounding much smarter.",
+          "zh-Hans": "# 主要思想\n- 超过 Dm7，第三个是 F。\n- 在G7上，第三个是B。\n- 在 Cmaj7 上，第三个是 E。\n- 如果这些音符到达正确的位置，即使是简单的线条也开始听起来更聪明。",
+          "de": "# Hauptidee\n- Über Dm7 ist die Terz F.\n- Über G7 ist der 3. B.\n- Über Cmaj7 ist die 3. E.\n- Wenn diese Notizen an der richtigen Stelle ankommen, klingt selbst eine einfache Zeile viel intelligenter.",
+          "ja": "# 主なアイデア\n- Dm7を超えて、3番目はFです。\n・G7を超えて3位はB。\n・Cmaj7を超えて3位はE。\n- これらの音符が適切な場所に到着すると、単純なラインでもはるかにスマートに聞こえ始めます。",
+          "pt-BR": "#Ideia principal\n- Acima de Dm7, a 3ª é F.\n- Acima do G7, o 3º é B.\n- Acima de Cmaj7, o 3º é E.\n- Se essas notas chegarem no lugar certo, até mesmo uma linha simples começará a soar muito mais inteligente.",
+          "es": "# idea principal\n- Sobre Dm7, el 3º es F.\n- Sobre el G7, el 3º es el B.\n- Sobre Cmaj7, el 3º es E.\n- Si esas notas llegan al lugar correcto, incluso una simple línea empieza a sonar mucho más inteligente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Use a slow ii-V-I in C.\n2. Improvise freely between chord changes.\n3. On the first strong beat of each new chord, land on its 3rd.\n4. Keep the approach simple at first: one or two notes before the target is enough.",
+          "zh-Hans": "# 引导钻\n1. 在 C 语言中使用慢速 ii-V-I。\n2. 在和弦变化之间自由即兴发挥。\n3. 在每个新和弦的第一个强拍上，落在第三个和弦上。\n4. 首先保持方法简单：在目标之前一两个注释就足够了。",
+          "de": "# Geführter Bohrer\n1. Verwenden Sie ein langsames ii-V-I in C.\n2. Improvisieren Sie frei zwischen den Akkordwechseln.\n3. Landen Sie beim ersten starken Schlag jedes neuen Akkords beim dritten.\n4. Halten Sie den Ansatz zunächst einfach: Ein oder zwei Noten vor dem Ziel reichen aus.",
+          "ja": "# ガイド付きドリル\n1. C で遅い ii-V-I を使用します。\n2. コードチェンジの間に自由に即興演奏します。\n3. 新しい各コードの最初の強いビートで、その 3 番目のビートに着地します。\n4. 最初はアプローチをシンプルにしてください。ターゲットの前に 1 つまたは 2 つの音符で十分です。",
+          "pt-BR": "# Broca guiada\n1. Use um ii-V-I lento em C.\n2. Improvise livremente entre as mudanças de acordes.\n3. Na primeira batida forte de cada novo acorde, chegue à 3ª.\n4. Mantenha a abordagem simples no início: uma ou duas notas antes do alvo são suficientes.",
+          "es": "# Taladro guiado\n1. Utilice un ii-V-I lento en C.\n2. Improvisar libremente entre cambios de acordes.\n3. En el primer tiempo fuerte de cada acorde nuevo, aterrice en el tercero.\n4. Mantenga el enfoque simple al principio: una o dos notas antes del objetivo son suficientes."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nThink of the target note as the end of a sentence, not the whole sentence. You still need shape, rhythm, and space before it. The best lines sound like they are arriving somewhere on purpose.",
+          "zh-Hans": "# 让它变得音乐化\n将目标注释视为句子的结尾，而不是整个句子。在它之前你仍然需要形状、节奏和空间。最好的台词听起来像是故意到达某个地方。",
+          "de": "# Mach es musikalisch\nStellen Sie sich die Zielnote als das Ende eines Satzes vor, nicht als den ganzen Satz. Davor braucht es noch Form, Rhythmus und Raum. Die besten Zeilen klingen, als würden sie absichtlich irgendwo ankommen.",
+          "ja": "#音楽的にする\nターゲットノートは文全体ではなく、文の終わりであると考えてください。形、リズム、その前にスペースが必要です。最高のセリフは、まるで意図的にどこかに到着しているように聞こえます。",
+          "pt-BR": "# Torne-o musical\nPense na nota alvo como o final de uma frase, não como a frase inteira. Você ainda precisa de forma, ritmo e espaço antes disso. As melhores falas parecem chegar a algum lugar de propósito.",
+          "es": "# Hazlo musical\nPiense en la nota objetivo como el final de una oración, no como la oración completa. Todavía necesitas forma, ritmo y espacio antes. Las mejores líneas suenan como si llegaran a algún lugar a propósito."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Play only the 3rds of the progression for 1 minute.\n2. Add one approach note before each target.\n3. Add one short scale fragment between targets.\n4. Record a slow pass and check whether the harmony sounds clear with no backing chords.",
+          "zh-Hans": "## 快速练习\n1. 只演奏该进程的第三个乐段，持续 1 分钟。\n2. 在每个目标之前添加一个方法注释。\n3. 在目标之间添加一个短尺度片段。\n4. 录制一段慢速通道，检查在没有和弦的情况下和声是否清晰。",
+          "de": "## Schnelles Üben\n1. Spielen Sie 1 Minute lang nur die Terzen der Progression.\n2. Fügen Sie vor jedem Ziel eine Anflugnotiz hinzu.\n3. Fügen Sie zwischen den Zielen ein kurzes Fragment hinzu.\n4. Nehmen Sie einen langsamen Durchgang auf und prüfen Sie, ob die Harmonie klar und ohne Hintergrundakkorde klingt.",
+          "ja": "## 簡単な練習\n1. 進行の 3 度だけを 1 分間再生します。\n2. 各ターゲットの前にアプローチノートを 1 つ追加します。\n3. ターゲット間に短いスケール フラグメントを 1 つ追加します。\n4. スローパスを録音し、バッキングコードがなくてもハーモニーがクリアに聞こえるかどうかを確認します。",
+          "pt-BR": "## Prática rápida\n1. Toque apenas os 3ºs da progressão por 1 minuto.\n2. Adicione uma nota de abordagem antes de cada alvo.\n3. Adicione um fragmento de escala curta entre os alvos.\n4. Grave uma passagem lenta e verifique se a harmonia soa clara, sem acordes de apoio.",
+          "es": "## Práctica rápida\n1. Juega sólo los 3º de la progresión durante 1 minuto.\n2. Agregue una nota de aproximación antes de cada objetivo.\n3. Agregue un fragmento de escala corta entre los objetivos.\n4. Grabe un pase lento y compruebe si la armonía suena clara sin acordes de acompañamiento."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nStrong target notes make solos sound more vocal and more harmonic at the same time. This is one of the fastest upgrades from scale-running to real improvisation.",
+          "zh-Hans": "## 音乐应用\n强烈的目标音符使独奏听起来更有声音，同时也更和谐。这是从规模化运行到真正的即兴创作最快的升级之一。",
+          "de": "## Musikalische Anwendung\nStarke Zielnoten lassen Soli gleichzeitig stimmlicher und harmonischer klingen. Dies ist einer der schnellsten Upgrades vom Scale-Running zur echten Improvisation.",
+          "ja": "## 音楽アプリケーション\nターゲットノートが強いと、ソロがよりボーカルになり、同時により倍音的に聞こえます。これは、スケールランニングから実際の即興演奏への最速のアップグレードの 1 つです。",
+          "pt-BR": "## Aplicação musical\nNotas alvo fortes fazem os solos soarem mais vocais e mais harmônicos ao mesmo tempo. Esta é uma das atualizações mais rápidas da execução em escala para a improvisação real.",
+          "es": "## Aplicación musical\nLas notas objetivo fuertes hacen que los solos suenen más vocales y más armónicos al mismo tiempo. Esta es una de las actualizaciones más rápidas desde la ejecución a escala hasta la improvisación real."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Solo over ii-V-I for 16 bars.\n2. Hit the 3rd of every chord on a strong beat at least once.\n3. On the second pass, vary the rhythm while keeping the targets intact.\n\nIf the line still sounds connected after you change the rhythm, your ear is leading the fingers.",
+          "zh-Hans": "## 高级挑战\n1. ii-V-I 独奏 16 小节。\n2. 强拍下每个和弦的第三个和弦至少敲击一次。\n3. 在第二遍时，改变节奏，同时保持目标不变。\n\n如果改变节奏后线路听起来仍然连接，则说明您的耳朵在引导手指。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Solo über ii-V-I für 16 Takte.\n2. Schlagen Sie die Terz jedes Akkords mindestens einmal mit kräftigem Schlag an.\n3. Variieren Sie beim zweiten Durchgang den Rhythmus und lassen Sie dabei die Ziele intakt.\n\nWenn die Leitung nach dem Ändern des Rhythmus immer noch verbunden klingt, führt Ihr Ohr die Finger.",
+          "ja": "## 高度なチャレンジ\n1. ii-V-I を 16 小節ソロで演奏します。\n2. 強いビートですべてのコードの 3 度音を少なくとも 1 回は押します。\n3. 2 回目のパスでは、ターゲットをそのままにしながらリズムを変化させます。\n\nリズムを変更した後もラインがつながっているように聞こえる場合は、耳が指をリードしています。",
+          "pt-BR": "## Desafio avançado\n1. Solo sobre ii-V-I por 16 compassos.\n2. Toque a terça de cada acorde em uma batida forte pelo menos uma vez.\n3. Na segunda passagem, varie o ritmo mantendo os alvos intactos.\n\nSe a linha ainda soar conectada depois que você mudar o ritmo, seu ouvido estará conduzindo os dedos.",
+          "es": "## Desafío avanzado\n1. Solo sobre ii-V-I durante 16 compases.\n2. Toca la tercera de cada acorde en un tiempo fuerte al menos una vez.\n3. En la segunda pasada, variar el ritmo manteniendo intactos los objetivos.\n\nSi la línea sigue sonando conectada después de cambiar el ritmo, tu oído está guiando los dedos."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

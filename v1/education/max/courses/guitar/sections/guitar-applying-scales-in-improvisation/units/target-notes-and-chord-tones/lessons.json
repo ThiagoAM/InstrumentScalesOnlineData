@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "resolving-to-the-third-on-chord-changes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Resolving to the Third on Chord Changes",
+        "zh-Hans": "解决和弦变化的第三度",
+        "de": "Auflösung der Terz bei Akkordwechseln",
+        "ja": "コードチェンジで3度音に解決する",
+        "pt-BR": "Resolvendo para a terça nas mudanças de acordes",
+        "es": "Resolver a la tercera en cambios de acordes"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make your solos sound more connected to harmony by aiming for the 3rd of each chord.",
+        "zh-Hans": "通过瞄准每个和弦的第三个和弦，让你的独奏听起来更与和声相关。",
+        "de": "Lassen Sie Ihre Soli harmonischer klingen, indem Sie die Terz jedes Akkords anstreben.",
+        "ja": "各コードの 3 度を狙うことで、ソロがよりハーモニーと結びついて聞こえるようになります。",
+        "pt-BR": "Faça seus solos soarem mais conectados à harmonia visando a 3ª de cada acorde.",
+        "es": "Haz que tus solos suenen más conectados con la armonía apuntando a la tercera de cada acorde."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

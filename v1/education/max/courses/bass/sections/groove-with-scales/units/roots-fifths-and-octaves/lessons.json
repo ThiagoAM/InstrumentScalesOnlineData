@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "eighth-note-octave-grooves-for-chorus-energy",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Eighth-Note Octave Grooves for Chorus Energy",
+        "zh-Hans": "用于合唱能量的八分音符八度凹槽",
+        "de": "Achtelnoten-Oktav-Grooves für Chorus-Energie",
+        "ja": "コーラスエネルギーのための 8 分音符のオクターブ グルーブ",
+        "pt-BR": "Grooves de oitava de colcheia para energia do coro",
+        "es": "Grooves de octava de octava nota para energía de coro"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use roots, fifths, and octaves to lift a groove without overplaying.",
+        "zh-Hans": "使用根音、五度音阶和八度音阶来提升节奏，而不会演奏过度。",
+        "de": "Verwenden Sie Grundtöne, Quinten und Oktaven, um einen Groove anzuheben, ohne zu überspielen.",
+        "ja": "ルート、5度、オクターブを使用して、演奏しすぎずにグルーヴを高めます。",
+        "pt-BR": "Use raízes, quintas e oitavas para levantar um groove sem exagerar.",
+        "es": "Utilice raíces, quintas y octavas para realzar un ritmo sin tocar demasiado."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-08T00:00:00Z",
+    "updatedAt": "2026-03-08T00:00:00Z"
   }
 ]

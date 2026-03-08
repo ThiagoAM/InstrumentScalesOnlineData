@@ -1,0 +1,99 @@
+{
+  "id": "major-scale-sequences-in-thirds-on-bass",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Major Scale Sequences in Thirds on Bass\nRunning a scale straight up and down is useful, but it can sound mechanical. In this lesson you will play major scales in thirds so your ear starts hearing harmony inside the line, not just finger order.",
+          "zh-Hans": "# 贝斯三度大调音阶序列\n垂直向上和向下运行音阶很有用，但听起来很机械。在本课程中，您将以三度音阶演奏大调音阶，这样您的耳朵就会开始听到线条内的和声，而不仅仅是手指的顺序。",
+          "de": "# Dur-Sequenzen in Terzen im Bass\nEs ist nützlich, eine Skala direkt nach oben und unten laufen zu lassen, aber es kann mechanisch klingen. In dieser Lektion spielen Sie Dur-Tonleitern in Terzen, sodass Ihr Ohr Harmonien innerhalb der Linie wahrnimmt und nicht nur die Reihenfolge der Finger.",
+          "ja": "# ベースの 3 度のメジャー スケール シーケンス\nスケールをまっすぐ上下に動かすのは便利ですが、機械的に聞こえる場合があります。このレッスンでは、長音階を 3 度で演奏して、指の順序だけでなく、ライン内のハーモニーが耳で聞こえるようにします。",
+          "pt-BR": "# Sequências de escala maior em terças no baixo\nExecutar uma escala para cima e para baixo é útil, mas pode parecer mecânico. Nesta lição você tocará escalas maiores em terças para que seu ouvido comece a ouvir a harmonia dentro da linha, não apenas a ordem dos dedos.",
+          "es": "# Secuencias de escala mayor en tercios en bajo\nEs útil mover una escala hacia arriba y hacia abajo, pero puede parecer mecánico. En esta lección tocarás escalas mayores en terceras para que tu oído comience a escuchar la armonía dentro de la línea, no solo el orden de los dedos."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Main idea\n- In C major, the pattern is C-E, D-F, E-G, F-A, and so on.\n- Thirds sound more melodic because they hint at chord color inside the scale.\n- Keep your tone even and do not let the string changes rush the rhythm.",
+          "zh-Hans": "# 主要思想\n- 在C大调中，模式是C-E、D-F、E-G、F-A等。\n- 三度听起来更有旋律，因为它们暗示了音阶内的和弦颜色。\n- 保持音调均匀，不要让弦乐变化影响节奏。",
+          "de": "# Hauptidee\n- In C-Dur ist das Muster C-E, D-F, E-G, F-A usw.\n- Terzen klingen melodischer, weil sie auf die Akkordfarbe innerhalb der Tonleiter hinweisen.\n- Achten Sie auf einen gleichmäßigen Ton und lassen Sie nicht zu, dass die Saitenwechsel den Rhythmus überstürzen.",
+          "ja": "# 主なアイデア\n- ハ長調では、C-E、D-F、E-G、F-A などのパターンになります。\n- 3 度の音は、スケール内のコードの色を暗示するため、よりメロディックに聞こえます。\n- 音程を均一に保ち、弦の変化でリズムを急かさないようにしてください。",
+          "pt-BR": "#Ideia principal\n- Em Dó maior, o padrão é CE, DF, EG, F-A e assim por diante.\n- As terças soam mais melódicas porque sugerem a cor do acorde dentro da escala.\n- Mantenha o tom uniforme e não deixe que as mudanças de cordas acelerem o ritmo.",
+          "es": "# idea principal\n- En do mayor, el patrón es C-E, D-F, E-G, F-A, etc.\n- Las terceras suenan más melódicas porque insinúan el color de los acordes dentro de la escala.\n- Mantén tu tono uniforme y no dejes que los cambios de cuerda aceleren el ritmo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guided drill\n1. Play the pattern slowly in one position.\n2. Move the same idea to a second position without stopping the pulse.\n3. Descend with the same spacing and listen for the line to stay connected.\n4. Say the note names out loud if your fingers try to move faster than your ear.",
+          "zh-Hans": "# 引导钻\n1. 在一个位置缓慢地弹奏该模式。\n2. 在不停止脉冲的情况下将相同的想法移至第二个位置。\n3. 以相同的间距下降并聆听线路是否保持连接。\n4. 如果您的手指移动速度比耳朵快，请大声说出音符名称。",
+          "de": "# Geführter Bohrer\n1. Spielen Sie das Muster langsam in einer Position.\n2. Verschieben Sie dieselbe Idee an eine zweite Position, ohne den Puls anzuhalten.\n3. Steigen Sie im gleichen Abstand ab und achten Sie darauf, dass die Leitung verbunden bleibt.\n4. Sprechen Sie die Notennamen laut aus, wenn Ihre Finger versuchen, sich schneller als Ihr Ohr zu bewegen.",
+          "ja": "# ガイド付きドリル\n1. パターンを 1 つの位置でゆっくりと再生します。\n2. パルスを停止せずに、同じアイデアを 2 番目の位置に移動します。\n3. 同じ間隔で下降し、ラインが接続されたままになるかどうかを確認します。\n4. 指が耳よりも早く動かそうとする場合は、音名を声に出して言います。",
+          "pt-BR": "# Broca guiada\n1. Toque o padrão lentamente em uma posição.\n2. Mova a mesma ideia para uma segunda posição sem parar o pulso.\n3. Desça com o mesmo espaçamento e ouça a linha permanecer conectada.\n4. Diga os nomes das notas em voz alta se seus dedos tentarem se mover mais rápido que o ouvido.",
+          "es": "# Taladro guiado\n1. Toque el patrón lentamente en una posición.\n2. Mueve la misma idea a una segunda posición sin detener el pulso.\n3. Baje con el mismo espacio y escuche hasta que la línea permanezca conectada.\n4. Di los nombres de las notas en voz alta si tus dedos intentan moverse más rápido que tu oído."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nPut on a simple C-F-G-Am loop. Instead of playing full scales, answer each chord with a short third-based idea of only two or four notes. The goal is to make the pattern sound like a phrase, not a worksheet.",
+          "zh-Hans": "# 让它变得音乐化\n进行简单的 C-F-G-Am 循环。不要演奏完整的音阶，而是用只有两个或四个音符的简短的基于三度的想法来回答每个和弦。目标是使模式听起来像一个短语，而不是一个工作表。",
+          "de": "# Mach es musikalisch\nLegen Sie eine einfache C-F-G-Am-Schleife an. Anstatt volle Tonleitern zu spielen, beantworten Sie jeden Akkord mit einer kurzen Terz-basierten Idee von nur zwei oder vier Noten. Das Ziel besteht darin, dass das Muster wie eine Phrase und nicht wie ein Arbeitsblatt klingt.",
+          "ja": "#音楽的にする\nシンプルな C-F-G-Am ループをつけます。フルスケールを演奏する代わりに、わずか 2 音または 4 音からなる短い 3 度ベースのアイデアで各コードに答えます。目標は、パターンをワークシートではなくフレーズのように聞こえるようにすることです。",
+          "pt-BR": "# Torne-o musical\nColoque um loop C-F-G-Am simples. Em vez de tocar escalas completas, responda a cada acorde com uma ideia curta baseada na terça de apenas duas ou quatro notas. O objetivo é fazer com que o padrão pareça uma frase, não uma planilha.",
+          "es": "# Hazlo musical\nRealice un bucle C-F-G-Am simple. En lugar de tocar escalas completas, responda a cada acorde con una breve idea basada en una tercera de sólo dos o cuatro notas. El objetivo es hacer que el patrón suene como una frase, no como una hoja de trabajo."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Quick practice\n1. Spend 2 minutes on one clean position.\n2. Spend 2 minutes connecting two positions.\n3. Spend 2 minutes creating fills from thirds at the end of a bar.\n4. Finish with one slow take where every note rings clearly.",
+          "zh-Hans": "## 快速练习\n1. 在一个干净的位置上花 2 分钟。\n2. 花 2 分钟连接两个位置。\n3. 花 2 分钟在小节末尾的三度处创建过花。\n4. 以一个缓慢的录音结束，每个音符都清晰响亮。",
+          "de": "## Schnelles Üben\n1. Verbringen Sie 2 Minuten mit einer sauberen Position.\n2. Verbringen Sie 2 Minuten damit, zwei Positionen zu verbinden.\n3. Verbringen Sie 2 Minuten damit, am Ende eines Takts Füllungen aus Terzen zu erstellen.\n4. Beenden Sie mit einem langsamen Take, bei dem jede Note deutlich erklingt.",
+          "ja": "## 簡単な練習\n1. 1 つのきれいな位置で 2 分間過ごします。\n2. 2 分間かけて 2 つの位置を接続します。\n3. 2 分間かけて、小節の終わりの 3 度音からフィルを作成します。\n4. すべての音がはっきりと聞こえる、ゆっくりとしたテイクで終了します。",
+          "pt-BR": "## Prática rápida\n1. Passe 2 minutos em uma posição limpa.\n2. Passe 2 minutos conectando duas posições.\n3. Passe 2 minutos criando preenchimentos a partir de terços no final de um compasso.\n4. Termine com uma tomada lenta onde cada nota soa claramente.",
+          "es": "## Práctica rápida\n1. Dedique 2 minutos a una posición limpia.\n2. Dedica 2 minutos a conectar dos posiciones.\n3. Dedique 2 minutos a crear rellenos de tercios al final de un compás.\n4. Termine con una toma lenta en la que cada nota suene claramente."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Musical application\nThird-based sequences are useful for fills, melodic turnarounds, and connecting one bass register to another. They outline the harmony more clearly than straight scalar motion, so they sound intentional even when the rhythm stays simple.",
+          "zh-Hans": "## 音乐应用\n基于三度的序列对于填充、旋律转换以及将一个低音音域连接到另一个低音音域非常有用。它们比直接的标量运动更清晰地勾勒出和声，因此即使节奏保持简单，它们听起来也是有意的。",
+          "de": "## Musikalische Anwendung\nTerzbasierte Sequenzen sind nützlich für Fills, melodische Wendungen und die Verbindung eines Bassregisters mit einem anderen. Sie umreißen die Harmonie klarer als reine Skalarbewegungen, sodass sie auch dann gewollt klingen, wenn der Rhythmus einfach bleibt.",
+          "ja": "## 音楽アプリケーション\n3 度ベースのシーケンスは、フィル、メロディーのターンアラウンド、およびある低音域を別の低音域に接続する場合に便利です。直線的なスカラーモーションよりもハーモニーの輪郭が明確になるため、リズムがシンプルなままでも意図的に聞こえます。",
+          "pt-BR": "## Aplicação musical\nSequências baseadas em terceiras são úteis para preenchimentos, reviravoltas melódicas e conexão de um registro de baixo a outro. Eles delineiam a harmonia com mais clareza do que o movimento escalar reto, de modo que soam intencionais mesmo quando o ritmo permanece simples.",
+          "es": "## Aplicación musical\nLas secuencias basadas en terceros son útiles para rellenos, cambios melódicos y para conectar un registro de bajo con otro. Delinean la armonía más claramente que el movimiento escalar directo, por lo que suenan intencionales incluso cuando el ritmo sigue siendo simple."
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Advanced challenge\n1. Record 8 bars in C major and 8 bars in G major.\n2. Keep a steady quarter-note pulse first, then repeat the idea in eighth notes.\n3. End each phrase on a strong chord tone instead of always falling back to the root.\n\nIf the line still sounds smooth after the position shift, you are not just memorizing a shape; you are hearing the pattern.",
+          "zh-Hans": "## 高级挑战\n1. 录制C大调8小节和G大调8小节。\n2. 首先保持稳定的四分音符脉冲，然后用八分音符重复这个想法。\n3. 以强烈的和弦音结束每个乐句，而不是总是回到根音。\n\n如果位置移动后线条听起来仍然平滑，则说明您不仅仅是记住了形状；而是记住了形状。你正在听到这个模式。",
+          "de": "## Fortgeschrittene Herausforderung\n1. Nehmen Sie 8 Takte in C-Dur und 8 Takte in G-Dur auf.\n2. Behalten Sie zunächst einen gleichmäßigen Viertelnotenimpuls bei und wiederholen Sie dann die Idee in Achtelnoten.\n3. Beenden Sie jede Phrase mit einem starken Akkordton, anstatt immer zum Grundton zurückzukehren.\n\nWenn die Linie nach der Positionsverschiebung immer noch glatt klingt, merken Sie sich nicht nur eine Form; Sie hören das Muster.",
+          "ja": "## 高度なチャレンジ\n1. ハ長調 8 小節とト長調 8 小節を録音します。\n2. 最初は安定した 4 分音符のパルスを維持し、次にそのアイデアを 8 分音符で繰り返します。\n3. 常にルートに戻るのではなく、各フレーズを強いコードトーンで終了します。\n\n位置を移動しても線が滑らかに聞こえる場合は、単に形状を記憶しているだけではありません。あなたはパターンを聞いています。",
+          "pt-BR": "## Desafio avançado\n1. Grave 8 compassos em Dó maior e 8 compassos em Sol maior.\n2. Mantenha primeiro uma pulsação constante de semínima e depois repita a ideia em colcheias.\n3. Termine cada frase com um tom de acorde forte, em vez de sempre voltar à tônica.\n\nSe a linha ainda soar suave após a mudança de posição, você não está apenas memorizando uma forma; você está ouvindo o padrão.",
+          "es": "## Desafío avanzado\n1. Grabe 8 compases en do mayor y 8 compases en sol mayor.\n2. Primero mantenga un pulso constante de negra y luego repita la idea en corcheas.\n3. Termine cada frase con un tono de acorde fuerte en lugar de volver siempre a la raíz.\n\nSi la línea todavía suena suave después del cambio de posición, no sólo estás memorizando una forma; estás escuchando el patrón."
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-08T00:00:00Z",
+  "updatedAt": "2026-03-08T00:00:00Z"
+}

@@ -15,7 +15,7 @@ At the moment the repository holds:
 - 6 course entries
 - 18 sections
 - 48 units
-- 130 lessons
+- 145 lessons
 - 6 course cover images
 
 ## Top-level structure
