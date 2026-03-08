@@ -5,12 +5,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Same note on different strings\nOn bass, the **same note** can be found on more than one string.\n\nLearning these spots helps you:\n- change position without changing the note\n- pick the sound you like (rounder or brighter)\n- play lines more smoothly with less hand movement.",
-          "zh-Hans": "# 不同弦上的同一个音\n在贝斯上，同一个**音高**往往可以在多根弦上找到。\n\n学会这些位置可以帮助你：\n- 换把位而不换音\n- 选择更圆润或更明亮的音色\n- 用更少的手部移动弹出更流畅的乐句。",
-          "de": "# Gleicher Ton auf verschiedenen Saiten\nAuf dem Bass kannst du denselben **Ton** auf mehreren Saiten finden.\n\nWenn du diese Stellen kennst, kannst du:\n- die Lage wechseln, ohne den Ton zu ändern\n- den Klang wählen (runder oder heller)\n- Linien mit weniger Handbewegung flüssiger spielen.",
-          "ja": "# 別の弦で同じ音を探す\nベースでは、同じ**音**が複数の弦に現れます。\n\nこれを理解しておくと：\n- ポジションを変えても音を変えずにすむ\n- 丸い音／明るい音など、好みのニュアンスを選べる\n- 手の移動を減らして、フレーズをなめらかに弾けるようになります。",
-          "pt-BR": "# Mesma nota em cordas diferentes\nNo baixo, a **mesma nota** pode aparecer em mais de uma corda.\n\nQuando você sabe onde elas estão, fica mais fácil:\n- mudar de posição sem trocar a nota\n- escolher o timbre que prefere (mais aveludado ou mais brilhante)\n- tocar linhas mais suaves, com menos movimento da mão.",
-          "es": "# La misma nota en cuerdas diferentes\nEn el bajo, la **misma nota** puede encontrarse en varias cuerdas.\n\nAl conocer estos lugares puedes:\n- cambiar de posición sin cambiar la nota\n- elegir el tipo de sonido que quieres (más redondo o más brillante)\n- tocar líneas más fluidas con menos movimiento de la mano."
+          "en": "# Same note, different string\nOne of the coolest things on bass is that the **same pitch** can often be played in more than one place.\n\nThat gives you options: you can choose the spot that sounds better, feels easier, or keeps the groove smoother.",
+          "zh-Hans": "# 同一个音，不同的弦\n贝斯上很酷的一点是：**同一个音高** 往往能在不止一个位置找到。\n\n这给了你选择空间：你可以选听起来更好、弹起来更顺手，或者更适合 groove 的位置。",
+          "de": "# Derselbe Ton auf verschiedenen Saiten\nEine der coolsten Sachen am Bass ist: **dieselbe Tonhöhe** lässt sich oft an mehr als einer Stelle spielen.\n\nDadurch hast du Auswahl. Du kannst die Position nehmen, die besser klingt, leichter liegt oder den Groove flüssiger macht.",
+          "ja": "# 同じ音を別の弦で弾く\nベースの面白いところは、**同じ高さの音**を複数の場所で弾けることです。\n\nそのおかげで、より弾きやすい場所や、より良い音色、より滑らかなグルーヴを選べます。",
+          "pt-BR": "# A mesma nota em cordas diferentes\nUma das coisas mais legais do baixo é que a **mesma altura** pode aparecer em mais de um lugar.\n\nIsso te dá opções: você pode escolher a posição que soa melhor, que fica mais confortável ou que deixa o groove mais fluido.",
+          "es": "# La misma nota en distintas cuerdas\nUna de las cosas más interesantes del bajo es que **la misma altura** puede tocarse en más de un lugar.\n\nEso te da opciones: puedes elegir la posición que suena mejor, que se siente más cómoda o que hace el groove más fluido."
         }
       }
     },
@@ -18,12 +18,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# The 5th-fret rule\nIn standard tuning, an open string matches the **5th fret** of the next higher string:\n\n- 4th string E = 3rd string, 5th fret **E**\n- 3rd string A = 2nd string, 5th fret **A**\n- 2nd string D = 1st string, 5th fret **D**\n\nPlay each pair slowly and listen: they should sound like the **same pitch**.",
-          "zh-Hans": "# 第5品法则\n在标准定弦中，某根弦的空弦音，会等于下面那根弦**第5品**的音：\n\n- 第4弦 E = 第3弦 第5品 **E**\n- 第3弦 A = 第2弦 第5品 **A**\n- 第2弦 D = 第1弦 第5品 **D**\n\n慢慢把每一对音弹出来，注意听：它们应该是**同一个音高**。",
-          "de": "# Die 5.-Bund-Regel\nIn Standardstimmung entspricht eine Leersaite dem Ton im **5. Bund** der nächsthöheren Saite:\n\n- 4. Saite E = 3. Saite, 5. Bund **E**\n- 3. Saite A = 2. Saite, 5. Bund **A**\n- 2. Saite D = 1. Saite, 5. Bund **D**\n\nSpiel jede Ton-Paarung langsam und hör genau hin: Sie sollten **gleich hoch** klingen.",
-          "ja": "# 5フレットのルール\n標準チューニングでは、ある弦の開放弦は、ひとつ細い弦の**5フレット**と同じ音になります：\n\n- 4弦 E = 3弦 5フレット **E**\n- 3弦 A = 2弦 5フレット **A**\n- 2弦 D = 1弦 5フレット **D**\n\nそれぞれのペアをゆっくり弾いて、よく聞いてみましょう。同じ高さで**重なって**聞こえるはずです。",
-          "pt-BR": "# A regra do 5º traste\nNa afinação padrão, a corda solta bate com o **5º traste** da corda vizinha mais aguda:\n\n- 4ª corda E = 3ª corda, 5º traste **E**\n- 3ª corda A = 2ª corda, 5º traste **A**\n- 2ª corda D = 1ª corda, 5º traste **D**\n\nToque cada par devagar e repare: eles devem soar como a **mesma altura** de nota.",
-          "es": "# La regla del traste 5\nEn afinación estándar, una cuerda al aire coincide con el **traste 5** de la cuerda vecina más aguda:\n\n- 4ª cuerda E = 3ª cuerda, traste 5 **E**\n- 3ª cuerda A = 2ª cuerda, traste 5 **A**\n- 2ª cuerda D = 1ª cuerda, traste 5 **D**\n\nToca cada par despacio y escucha: deberían sonar con la **misma altura**."
+          "en": "# The 5th-fret bridge\nIn standard tuning, each open string matches the **5th fret of the next higher string**:\n\n- Open E = A string, 5th fret **E**\n- Open A = D string, 5th fret **A**\n- Open D = G string, 5th fret **D**\n\nThink of the 5th fret as a little **bridge** between neighbor strings.",
+          "zh-Hans": "# 5 品桥梁\n标准调弦里，每根空弦都等于**上面那根弦的 5 品**：\n\n- 空 E = A 弦 5 品的 **E**\n- 空 A = D 弦 5 品的 **A**\n- 空 D = G 弦 5 品的 **D**\n\n可以把 5 品想成连接相邻两根弦的一座**小桥**。",
+          "de": "# Die 5.-Bund-Brücke\nIn Standardstimmung entspricht jede Leersaite dem **5. Bund der nächsthöheren Saite**:\n\n- Leeres E = **E** auf der A-Saite, 5. Bund\n- Leeres A = **A** auf der D-Saite, 5. Bund\n- Leeres D = **D** auf der G-Saite, 5. Bund\n\nDenk an den 5. Bund wie an eine kleine **Brücke** zwischen benachbarten Saiten.",
+          "ja": "# 5フレットの橋\n標準チューニングでは、各開放弦は**1つ上の弦の5フレット**と同じ音になります：\n\n- 開放E = A弦5フレットの **E**\n- 開放A = D弦5フレットの **A**\n- 開放D = G弦5フレットの **D**\n\n5フレットを、隣り合う弦をつなぐ小さな**橋**だと思ってみましょう。",
+          "pt-BR": "# A ponte do 5º traste\nNa afinação padrão, cada corda solta corresponde ao **5º traste da corda de cima**:\n\n- E solta = **E** na corda A, 5º traste\n- A solta = **A** na corda D, 5º traste\n- D solta = **D** na corda G, 5º traste\n\nPense no 5º traste como uma pequena **ponte** entre cordas vizinhas.",
+          "es": "# El puente del 5º traste\nEn afinación estándar, cada cuerda al aire coincide con el **5º traste de la cuerda superior**:\n\n- E al aire = **E** en la cuerda A, 5º traste\n- A al aire = **A** en la cuerda D, 5º traste\n- D al aire = **D** en la cuerda G, 5º traste\n\nPiensa en el 5º traste como un pequeño **puente** entre cuerdas vecinas."
         }
       }
     },
@@ -31,12 +31,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Example: finding A\nTry this with the note **A**:\n- 3rd string, open – A\n- 4th string, 5th fret – A\n\nThen higher on the neck:\n- 3rd string, 12th fret – A\n- 2nd string, 7th fret – A\n\nThey’re all As, just in different spots (and sometimes different octaves).",
-          "zh-Hans": "# 示例：寻找 A\n用音符 **A** 来试试：\n- 第3弦 空弦 – A\n- 第4弦 第5品 – A\n\n然后到高把位：\n- 第3弦 第12品 – A\n- 第2弦 第7品 – A\n\n这些都是 A，只是位置不同（有时也在不同的八度）。",
-          "de": "# Beispiel: A finden\nProbier das mit dem Ton **A**:\n- 3. Saite, leer – A\n- 4. Saite, 5. Bund – A\n\nDann weiter oben auf dem Griffbrett:\n- 3. Saite, 12. Bund – A\n- 2. Saite, 7. Bund – A\n\nDas sind alles As, nur an verschiedenen Stellen (und teils in anderen Oktaven).",
-          "ja": "# 例：A を探してみる\n音 **A** で試してみましょう：\n- 3弦 開放 – A\n- 4弦 5フレット – A\n\nネックの上の方でも：\n- 3弦 12フレット – A\n- 2弦 7フレット – A\n\nすべて A ですが、場所（そしてオクターブ）が違うだけです。",
-          "pt-BR": "# Exemplo: encontrando o A\nTeste isso com a nota **A**:\n- 3ª corda, solta – A\n- 4ª corda, 5º traste – A\n\nDepois, mais para cima no braço:\n- 3ª corda, 12º traste – A\n- 2ª corda, 7º traste – A\n\nTodos são As, só mudam o lugar (e às vezes a oitava).",
-          "es": "# Ejemplo: encontrar A\nPrueba esto con la nota **A**:\n- 3ª cuerda, al aire – A\n- 4ª cuerda, traste 5 – A\n\nLuego, más arriba en el mástil:\n- 3ª cuerda, traste 12 – A\n- 2ª cuerda, traste 7 – A\n\nTodos son As, sólo cambia el lugar (y a veces la octava)."
+          "en": "# Hear it with one note\nTest the idea with **A**:\n\n- 3rd string open = **A**\n- 4th string, 5th fret = **A**\n\nThen try a few more:\n\n- D string open and G string, 5th fret\n- E string open and A string, 5th fret\n- G on E string, 3rd fret and G on D string, 5th fret\n\nPlay each pair slowly and listen for the \"same note, different color\" effect.",
+          "zh-Hans": "# 用一个音来听出来\n先拿 **A** 来试试：\n\n- 第3弦空弦 = **A**\n- 第4弦 5 品 = **A**\n\n再试几个：\n\n- D 弦空弦 与 G 弦 5 品\n- E 弦空弦 与 A 弦 5 品\n- E 弦 3 品的 G 与 D 弦 5 品的 G\n\n慢慢弹每一组，感受“同一个音，不同的色彩”。",
+          "de": "# Hör es an einem Ton\nProbier es zuerst mit **A**:\n\n- 3. Saite leer = **A**\n- 4. Saite, 5. Bund = **A**\n\nDann noch ein paar weitere Beispiele:\n\n- leere D-Saite und G-Saite, 5. Bund\n- leere E-Saite und A-Saite, 5. Bund\n- G auf der E-Saite, 3. Bund, und G auf der D-Saite, 5. Bund\n\nSpiele jedes Paar langsam und hör auf den Effekt: gleicher Ton, andere Farbe.",
+          "ja": "# 1つの音で確かめる\nまずは **A** で試します：\n\n- 3弦開放 = **A**\n- 4弦5フレット = **A**\n\nさらに次も試してみましょう：\n\n- D弦開放 と G弦5フレット\n- E弦開放 と A弦5フレット\n- E弦3フレットのG と D弦5フレットのG\n\nそれぞれをゆっくり弾いて、「同じ音、違う色」の感じを聴き取ってください。",
+          "pt-BR": "# Ouça isso com uma nota\nTeste primeiro com **A**:\n\n- 3ª corda solta = **A**\n- 4ª corda, 5º traste = **A**\n\nDepois experimente mais alguns pares:\n\n- corda D solta e corda G, 5º traste\n- corda E solta e corda A, 5º traste\n- G na corda E, 3º traste, e G na corda D, 5º traste\n\nToque cada par devagar e perceba o efeito de “mesma nota, cor diferente”.",
+          "es": "# Escúchalo con una nota\nPrueba primero con **A**:\n\n- 3ª cuerda al aire = **A**\n- 4ª cuerda, 5º traste = **A**\n\nLuego prueba algunos pares más:\n\n- cuerda D al aire y cuerda G, 5º traste\n- cuerda E al aire y cuerda A, 5º traste\n- G en la cuerda E, 3º traste, y G en la cuerda D, 5º traste\n\nToca cada pareja despacio y escucha ese efecto de “misma nota, color distinto”."
         }
       }
     },
@@ -44,12 +44,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Quick practice routine\n1. Pick one note name: **D**, **E** or **G**.\n2. Find it on one string.\n3. Use the 5th-fret rule to find the same note on a neighbour string.\n4. Go back and forth between the two spots in time with a slow click.\n\nDo this with different notes until you can jump between strings without thinking too much.",
-          "zh-Hans": "# 快速练习\n1. 先选一个音名：例如 **D**、**E** 或 **G**。\n2. 在一根弦上找到它。\n3. 用“第5品法则”在相邻的弦上找到同一个音。\n4. 跟着慢速节拍，在这两个位置之间来回弹。\n\n换不同的音名练习，直到你几乎不用想就能在不同弦之间跳转。",
-          "de": "# Kurze Übe-Routine\n1. Such dir einen Notennamen aus, z. B. **D**, **E** oder **G**.\n2. Finde ihn auf einer Saite.\n3. Nutze die 5.-Bund-Regel, um denselben Ton auf der Nachbarsaite zu finden.\n4. Spiel in langsamem Tempo hin und her zwischen diesen beiden Stellen.\n\nMach das mit verschiedenen Noten, bis du fast automatisch zwischen den Saiten springen kannst.",
-          "ja": "# かんたん練習ルーティン\n1. **D**、**E**、**G** など、音名をひとつ選びます。\n2. まずは1本の弦でその音を探します。\n3. 5フレットのルールを使って、となりの弦で同じ音を見つけます。\n4. ゆっくりしたクリックに合わせて、その2つの場所を行き来しましょう。\n\nいろいろな音名で繰り返して、あまり考えなくても弦をまたいで動ける感覚を身につけます。",
-          "pt-BR": "# Rotina rápida de prática\n1. Escolha um nome de nota: **D**, **E** ou **G**, por exemplo.\n2. Encontre essa nota em uma corda.\n3. Use a regra do 5º traste para achar a mesma nota na corda vizinha.\n4. Vá e volte entre esses dois pontos em um tempo bem lento.\n\nRepita com notas diferentes até conseguir pular de corda quase sem pensar.",
-          "es": "# Rutina rápida de práctica\n1. Elige un nombre de nota: por ejemplo **D**, **E** o **G**.\n2. Encuentra esa nota en una cuerda.\n3. Usa la regla del traste 5 para encontrar la misma nota en la cuerda vecina.\n4. Ve y vuelve entre esos dos puntos con un tempo lento.\n\nHazlo con notas distintas hasta que puedas saltar entre cuerdas casi sin pensarlo."
+          "en": "# Movement exercise\nPut on a slow click and alternate between two versions of the same note:\n\n1. Play note A in one place for four beats.\n2. Move to the other A for four beats.\n3. Keep the time steady and avoid extra string noise.\n4. Repeat with D, E, or G.\n\nThe challenge is not speed. The challenge is to move without the groove wobbling.",
+          "zh-Hans": "# 移动练习\n配合一个慢拍，在同一个音的两个位置之间来回：\n\n1. 在第一个位置弹 A，持续四拍。\n2. 换到另一个 A，再弹四拍。\n3. 节奏保持稳定，不要出现多余的杂音。\n4. 再用 D、E 或 G 重复。\n\n重点不是速度，而是换弦时 groove 不能晃。",
+          "de": "# Bewegungsübung\nMit einem langsamen Klick wechselst du zwischen zwei Versionen desselben Tons:\n\n1. Spiele A an der ersten Stelle vier Schläge lang.\n2. Wechsle zur zweiten Stelle und spiele wieder vier Schläge.\n3. Halte den Puls stabil und vermeide Nebengeräusche.\n4. Wiederhole das mit D, E oder G.\n\nEs geht nicht um Tempo. Es geht darum, sich zu bewegen, ohne dass der Groove wackelt.",
+          "ja": "# 移動の練習\nゆっくりしたクリックに合わせて、同じ音の2つの場所を行き来します：\n\n1. 1つ目の場所で A を4拍。\n2. もう1つの A に移って4拍。\n3. リズムを安定させ、余計なノイズを出さない。\n4. D、E、Gでも繰り返す。\n\n大事なのは速さではなく、動いてもグルーヴが揺れないことです。",
+          "pt-BR": "# Exercício de movimento\nCom um clique lento, alterne entre duas versões da mesma nota:\n\n1. Toque A em um lugar por quatro tempos.\n2. Mude para o outro A por mais quatro tempos.\n3. Mantenha o pulso firme e sem ruídos extras.\n4. Repita com D, E ou G.\n\nA meta não é velocidade. A meta é se mover sem deixar o groove balançar.",
+          "es": "# Ejercicio de movimiento\nCon un pulso lento, alterna entre dos versiones de la misma nota:\n\n1. Toca A en un lugar durante cuatro pulsos.\n2. Cambia al otro A durante otros cuatro pulsos.\n3. Mantén el tiempo estable y evita ruidos extra.\n4. Repite con D, E o G.\n\nNo se trata de velocidad. Se trata de moverte sin que el groove se tambalee."
         }
       }
     },
@@ -57,12 +57,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "Once this feels natural, you’ll be ready to connect positions all over the neck and choose fingerings that fit the groove, not just whatever is closest.",
-          "zh-Hans": "当这种移动变得自然以后，你就能在整个指板上连接不同把位，根据节奏感选择更顺手、更好听的指法，而不是只选最近的那个。",
-          "de": "Sobald sich das natürlich anfühlt, kannst du die Lagen auf dem ganzen Hals verbinden und deine Fingersätze nach dem Groove wählen – nicht nur nach dem nächstgelegenen Ton.",
-          "ja": "これが自然にできるようになると、ネック全体でポジションをつなげて、ただ近い場所ではなく「グルーヴに合う」運指を選べるようになります。",
-          "pt-BR": "Quando isso estiver soando natural, você vai conseguir ligar posições pelo braço inteiro e escolher a digitação que combina com o groove, não só a que está mais perto.",
-          "es": "Cuando esto se sienta natural, podrás conectar posiciones por todo el mástil y elegir las digitaciones que mejor sirvan al groove, no sólo las que están más cerca."
+          "en": "# Why this matters musically\nIn real bass lines, this skill helps you avoid awkward jumps and choose a better tone.\n\nTry this: play the same tiny groove twice, once using lower-string notes and once using higher-string notes. Notice how the line changes character even when the note names stay the same.",
+          "zh-Hans": "# 这在音乐里为什么重要\n在真正的贝斯线里，这个能力能帮你避开别扭的大跳，也能选择更合适的音色。\n\n试试同一个小 groove，用低把位弹一遍，再用高弦位置弹一遍。即使音名相同，整条线的感觉也会不同。",
+          "de": "# Warum das musikalisch wichtig ist\nIn echten Basslinien hilft dir dieses Wissen, unbequeme Sprünge zu vermeiden und den besseren Klang zu wählen.\n\nSpiel einen kleinen Groove einmal in tiefer Lage und einmal höher auf anderen Saiten. Obwohl die Notennamen gleich bleiben, verändert sich der Charakter der Linie.",
+          "ja": "# 音楽でなぜ大切か\n実際のベースラインでは、この知識が不自然な大跳躍を避けたり、より良い音色の場所を選んだりするのに役立ちます。\n\n同じ小さなグルーヴを、低い位置で1回、高い弦の位置で1回弾いてみましょう。音名が同じでも、ラインのキャラクターは変わります。",
+          "pt-BR": "# Por que isso importa musicalmente\nEm linhas reais de baixo, essa habilidade ajuda a evitar saltos ruins e a escolher um timbre melhor.\n\nToque o mesmo groove curtinho duas vezes: uma em região mais grave e outra em cordas mais altas. Mesmo com os mesmos nomes de nota, o caráter da linha muda.",
+          "es": "# Por qué esto importa musicalmente\nEn líneas reales de bajo, esta habilidad te ayuda a evitar saltos incómodos y a elegir un mejor color de sonido.\n\nToca el mismo groove pequeño dos veces: una en zona grave y otra en cuerdas más altas. Aunque los nombres de las notas sean los mismos, el carácter de la línea cambia."
         }
       }
     }

@@ -5,12 +5,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Root notes in quarter notes\nIn this lesson you’ll groove using **only root notes**, played as **steady quarter notes**.\n\nThis is the most basic bass job: keep time, hit the root, and make the band feel solid.",
-          "zh-Hans": "# 用四分音符弹主音\n在本课中，你会只用**主音**，以**稳定的四分音符**来营造律动。\n\n这是贝斯最基础的职责：稳定节奏、落在主音上，让整体听起来扎实。",
-          "de": "# Grundtöne in Viertelnoten\nIn dieser Lektion groovst du nur mit **Grundtönen**, gespielt als **gleichmäßige Viertelnoten**.\n\nDas ist der Basis-Job des Basses: Tempo halten, den Grundton treffen und die Band stabil klingen lassen.",
-          "ja": "# ルート音を4分音符で弾く\nこのレッスンでは、**ルート音だけ**を使って、**一定の4分音符**でグルーヴを作ります。\n\nベースのいちばん基本的な役割は「時間をキープして、ルートをしっかり支える」ことです。",
-          "pt-BR": "# Tocar a tônica em semínimas\nNesta lição você vai tocar apenas a **tônica (root)** em **semínimas (quarter notes)**, bem constantes.\n\nEsse é o trabalho mais básico do baixo: segurar o tempo, acertar a tônica e deixar tudo firme.",
-          "es": "# Tocar la fundamental en negras\nEn esta lección vas a hacer groove usando sólo la **fundamental (root)** en **negras (quarter notes)** bien parejas.\n\nEste es el trabajo más básico del bajo: mantener el tiempo, tocar la fundamental y hacer que todo suene firme."
+          "en": "# Root notes with quarter notes\nThis may look simple, but it is real bass playing. If you can make one note feel good, you are learning the job.\n\nIn this lesson you will groove using **steady quarter-note roots**.",
+          "zh-Hans": "# 用四分音符弹根音\n这看起来很简单，但它就是实打实的贝斯工作。只要你能把一个音弹得稳、弹得好，你就在学真正的基本功。\n\n这一课你会用**稳定的四分音符根音**来做 groove。",
+          "de": "# Grundtöne in Vierteln\nDas wirkt simpel, ist aber echte Bassarbeit. Wenn du einen einzigen Ton gut klingen lassen kannst, lernst du bereits den Kern des Jobs.\n\nIn dieser Lektion groovst du mit **stetigen Viertelnoten auf dem Grundton**.",
+          "ja": "# 4分音符でルートを弾く\nとても簡単に見えますが、これは本物のベースの仕事です。1つの音を気持ちよく鳴らせるなら、大事な基礎をちゃんと学んでいます。\n\nこのレッスンでは、**安定した4分音符のルート**でグルーヴを作ります。",
+          "pt-BR": "# Tônicas em semínimas\nParece simples, mas isso é trabalho de baixo de verdade. Se você consegue fazer uma nota só soar bem, já está aprendendo a base da função.\n\nNesta lição você vai tocar groove com **tônicas em semínimas bem firmes**.",
+          "es": "# Tónicas en negras\nParece simple, pero esto es trabajo real de bajo. Si puedes hacer que una sola nota suene bien, ya estás aprendiendo lo esencial.\n\nEn esta lección vas a tocar groove con **tónicas en negras bien estables**."
         }
       }
     },
@@ -18,12 +18,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# What is the root?\nThe **root** is the note that gives the chord or scale its name.\n\nExamples:\n- In **C major**, C is the root\n- In **A minor**, A is the root\n\nOn bass, landing clearly on the root tells everyone “this is the chord we’re on right now”.",
-          "zh-Hans": "# 什么是主音？\n**主音**就是给和弦或音阶命名的那个音。\n\n例如：\n- 在 **C 大调** 中，C 是主音\n- 在 **A 小调** 中，A 是主音\n\n在贝斯上，清楚地落在主音上，就是在告诉所有人：“现在的和弦是这个。”",
-          "de": "# Was ist der Grundton?\nDer **Grundton** ist der Ton, der Akkord oder Tonleiter den Namen gibt.\n\nBeispiele:\n- In **C-Dur** ist C der Grundton\n- In **A-Moll** ist A der Grundton\n\nAuf dem Bass zeigt ein klar gespielter Grundton der Band: „Hier sind wir gerade im Akkord.“",
-          "ja": "# ルート音って？\n**ルート音（root）**は、そのコードやスケールの名前になっている音です。\n\n例：\n- **Cメジャー** なら C がルート\n- **Aマイナー** なら A がルート\n\nベースがはっきりルートに着地すると、「今はこのコードだよ」とバンド全体に知らせることができます。",
-          "pt-BR": "# O que é a tônica?\nA **tônica** (root) é a nota que dá nome ao acorde ou à escala.\n\nExemplos:\n- Em **Dó maior**, C é a tônica\n- Em **Lá menor**, A é a tônica\n\nNo baixo, cair certinho na tônica avisa para todo mundo: “é esse acorde que está soando agora”.",
-          "es": "# ¿Qué es la fundamental?\nLa **fundamental (root)** es la nota que le da nombre al acorde o a la escala.\n\nEjemplos:\n- En **Do mayor**, C es la fundamental\n- En **La menor**, A es la fundamental\n\nEn el bajo, caer de forma clara en la fundamental le dice a todos: “este es el acorde en el que estamos ahora”."
+          "en": "# What the root does\nThe **root** is the note that names the chord:\n\n- C is the root of **C major**\n- A is the root of **A minor**\n\nWhen a bassist lands clearly on the root, the whole band feels more grounded.",
+          "zh-Hans": "# 根音的作用\n**根音**是给和弦命名的那个音：\n\n- **C 大调**的根音是 C\n- **A 小调**的根音是 A\n\n当贝斯手把根音落得清楚时，整个乐队都会更稳。",
+          "de": "# Was der Grundton macht\nDer **Grundton** ist der Ton, nach dem ein Akkord benannt ist:\n\n- In **C-Dur** ist C der Grundton\n- In **a-Moll** ist A der Grundton\n\nWenn ein Bassist klar auf dem Grundton landet, fühlt sich die ganze Band stabiler an.",
+          "ja": "# ルートの役割\n**ルート**は、そのコードの名前になる音です：\n\n- **Cメジャー**なら C\n- **Aマイナー**なら A\n\nベーシストがルートをはっきり置くと、バンド全体がぐっと安定して聞こえます。",
+          "pt-BR": "# O papel da tônica\nA **tônica** é a nota que dá nome ao acorde:\n\n- Em **Dó maior**, C é a tônica\n- Em **Lá menor**, A é a tônica\n\nQuando o baixista cai bem na tônica, a banda inteira soa mais firme.",
+          "es": "# Qué hace la tónica\nLa **tónica** es la nota que da nombre al acorde:\n\n- En **Do mayor**, C es la tónica\n- En **La menor**, A es la tónica\n\nCuando el bajista cae con claridad en la tónica, toda la banda se siente más estable."
         }
       }
     },
@@ -31,12 +31,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Basic exercise\nPick one root note to work with. For example:\n- **A** on the 4th string, 5th fret\n\nNow:\n1. Set a metronome to **60–70 BPM**\n2. Play that root as **quarter notes** on beats 1-2-3-4\n3. Let each note ring until the next beat\n4. Keep your plucking consistent (same finger order, same strength)\n\nStay on this one note for a full minute without losing the pulse.",
-          "zh-Hans": "# 基础练习\n先选一个主音来练习，比如：\n- 第4弦第5品的 **A**\n\n然后：\n1. 把节拍器调到 **60–70 BPM**\n2. 在每小节的 1-2-3-4 拍上，用**四分音符**弹这个主音\n3. 每个音让它延续到下一拍\n4. 右手拨弦要保持一致（手指顺序、力度尽量相同）\n\n尽量坚持整整一分钟都不“掉拍”。",
-          "de": "# Basisübung\nSuch dir einen Grundton aus, zum Beispiel:\n- **A** auf der 4. Saite, 5. Bund\n\nDann:\n1. Metronom auf **60–70 BPM** stellen\n2. Diesen Grundton als **Viertelnoten** auf Zählzeit 1-2-3-4 spielen\n3. Jeden Ton bis zur nächsten Zählzeit klingen lassen\n4. Anschlag gleichmäßig halten (gleiche Fingerfolge, gleiche Stärke)\n\nBleib mindestens eine Minute lang auf diesem einen Ton, ohne den Puls zu verlieren.",
-          "ja": "# 基本エクササイズ\nまず、練習用にルート音を1つ決めます。例：\n- 4弦5フレットの **A**\n\nそのうえで：\n1. メトロノームを **60〜70 BPM** に設定\n2. 1-2-3-4 の各拍で、そのルートを**4分音符**で弾きます\n3. 1音ずつ、次の拍までしっかり伸ばす\n4. 右手はできるだけ同じ指順・同じ強さで弾きます\n\nこの1音だけで、1分間テンポを崩さずにキープしてみましょう。",
-          "pt-BR": "# Exercício básico\nEscolha uma tônica para trabalhar. Por exemplo:\n- **A** na 4ª corda, 5º traste\n\nAgora:\n1. Coloque o metrônomo em **60–70 BPM**\n2. Toque essa tônica em **semínimas**, nos tempos 1-2-3-4\n3. Deixe cada nota soar até a próxima batida\n4. Mantenha o ataque da mão direita consistente (mesma sequência de dedos, mesma força)\n\nFique nesse único som por um minuto inteiro sem perder o pulso.",
-          "es": "# Ejercicio básico\nElige una fundamental para trabajar. Por ejemplo:\n- **A** en la 4ª cuerda, traste 5\n\nLuego:\n1. Pon el metrónomo en **60–70 BPM**\n2. Toca esa nota en **negras**, en los tiempos 1-2-3-4\n3. Deja que cada nota suene hasta el siguiente pulso\n4. Mantén el ataque de la mano derecha parejo (mismo orden de dedos, misma fuerza)\n\nQuédate en esta sola nota durante un minuto completo sin perder el pulso."
+          "en": "# One-note groove challenge\nStart with one note, for example **A** on the E string, 5th fret:\n\n1. Set a metronome around **60-70 BPM**.\n2. Play A on beats **1-2-3-4**.\n3. Let each note ring the full beat.\n4. Keep your plucking hand calm and even.\n\nYour mission is to make four identical notes feel confident, not robotic.",
+          "zh-Hans": "# 单音 groove 挑战\n先从一个音开始，比如 E 弦 5 品的 **A**：\n\n1. 节拍器设在 **60-70 BPM**。\n2. 在 **1-2-3-4** 四拍上都弹 A。\n3. 让每个音都撑满整拍。\n4. 右手动作要平稳、均匀。\n\n你的目标，是让四个一样的音听起来可靠，而不是机械。",
+          "de": "# Ein-Ton-Groove-Challenge\nStarte mit nur einem Ton, zum Beispiel **A** auf der E-Saite im 5. Bund:\n\n1. Stell das Metronom auf **60-70 BPM**.\n2. Spiele A auf **1-2-3-4**.\n3. Lass jeden Ton den ganzen Schlag klingen.\n4. Halte die Anschlagshand ruhig und gleichmäßig.\n\nDeine Aufgabe ist, vier gleiche Töne überzeugend und nicht mechanisch klingen zu lassen.",
+          "ja": "# 1音グルーヴ・チャレンジ\nまずは1つの音だけで始めましょう。たとえば E 弦 5 フレットの **A**：\n\n1. メトロノームを **60-70 BPM** に設定する。\n2. **1-2-3-4** のすべてで A を弾く。\n3. 各音を1拍しっかり伸ばす。\n4. 右手は落ち着いて均等に動かす。\n\n目標は、4つ同じ音を機械的でなく、頼もしく聞かせることです。",
+          "pt-BR": "# Desafio do groove com uma nota\nComece com uma nota só, por exemplo **A** na corda E, 5º traste:\n\n1. Ajuste o metrônomo para **60-70 BPM**.\n2. Toque A nos tempos **1-2-3-4**.\n3. Deixe cada nota soar o tempo inteiro.\n4. Mantenha a mão direita calma e uniforme.\n\nA missão é fazer quatro notas iguais soarem confiantes, não mecânicas.",
+          "es": "# Reto del groove con una nota\nEmpieza con una sola nota, por ejemplo **A** en la cuerda E, 5º traste:\n\n1. Pon el metrónomo en **60-70 BPM**.\n2. Toca A en los tiempos **1-2-3-4**.\n3. Deja que cada nota dure todo el pulso.\n4. Mantén la mano derecha tranquila y pareja.\n\nLa meta es hacer que cuatro notas iguales suenen seguras, no mecánicas."
         }
       }
     },
@@ -44,12 +44,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Moving to simple progressions\nWhen that feels steady, try using roots over **two chords**. For example:\n\n- 2 bars of **A minor** (root = A)\n- 2 bars of **D minor** (root = D)\n\nPlay quarter notes on each root:\n- A A A A | A A A A\n- D D D D | D D D D\n\nChange cleanly on bar 3 without rushing or dragging.",
-          "zh-Hans": "# 移动到简单和弦走向\n当单个音已经很稳定时，试试在**两个和弦**之间切换主音。例如：\n\n- 2 小节 **A 小调**（主音 = A）\n- 2 小节 **D 小调**（主音 = D）\n\n每个和弦都用四分音符弹主音：\n- A A A A | A A A A\n- D D D D | D D D D\n\n在第 3 小节换到 D 时，要干净利落，不要抢拍也不要拖拍。",
-          "de": "# Wechsel auf einfache Akkordfolgen\nWenn sich das stabil anfühlt, probiere **zwei Akkorde** aus. Zum Beispiel:\n\n- 2 Takte **A-Moll** (Grundton = A)\n- 2 Takte **D-Moll** (Grundton = D)\n\nSpiel Viertelnoten auf den Grundtönen:\n- A A A A | A A A A\n- D D D D | D D D D\n\nWechsle im 3. Takt sauber auf D, ohne zu hetzen oder zu schleppen.",
-          "ja": "# シンプルな進行で練習\n1音で安定してきたら、**2つのコード**でルートを弾いてみましょう。例：\n\n- 2小節 **Aマイナー**（ルート = A）\n- 2小節 **Dマイナー**（ルート = D）\n\nそれぞれのルートを4分音符で：\n- A A A A | A A A A\n- D D D D | D D D D\n\n3小節目の頭で、あわてず・遅れずに D に切り替えることを意識します。",
-          "pt-BR": "# Indo para pequenas progressões\nQuando isso estiver firme, use as tônicas em **dois acordes**. Por exemplo:\n\n- 2 compassos de **Lá menor** (tônica = A)\n- 2 compassos de **Ré menor** (tônica = D)\n\nToque semínimas na tônica de cada acorde:\n- A A A A | A A A A\n- D D D D | D D D D\n\nTroque para D no 3º compasso de forma limpa, sem correr nem atrasar.",
-          "es": "# Pasar a progresiones sencillas\nCuando eso se sienta firme, usa las fundamentales sobre **dos acordes**. Por ejemplo:\n\n- 2 compases de **La menor** (root = A)\n- 2 compases de **Re menor** (root = D)\n\nToca negras en la fundamental de cada acorde:\n- A A A A | A A A A\n- D D D D | D D D D\n\nCambia a D en el compás 3 de forma limpia, sin adelantarte ni quedarte atrás."
+          "en": "# Two-chord version\nNow give the root a job in a progression:\n\n- 2 bars of **A minor** = A A A A | A A A A\n- 2 bars of **D minor** = D D D D | D D D D\n\nChange notes exactly when the bar changes. That clean handoff is what makes the groove feel trustworthy.",
+          "zh-Hans": "# 两个和弦的版本\n现在让根音在和弦进行里真正工作起来：\n\n- 2 小节 **A 小调** = A A A A | A A A A\n- 2 小节 **D 小调** = D D D D | D D D D\n\n在小节切换时准确换音。这种干净的交接，会让 groove 听起来值得信赖。",
+          "de": "# Version mit zwei Akkorden\nJetzt bekommt der Grundton eine Aufgabe in einer Akkordfolge:\n\n- 2 Takte **a-Moll** = A A A A | A A A A\n- 2 Takte **d-Moll** = D D D D | D D D D\n\nWechsle exakt mit dem neuen Takt. Dieser saubere Übergang macht den Groove verlässlich.",
+          "ja": "# 2コード版\n次はルートをコード進行の中で使います：\n\n- **Aマイナー** 2小節 = A A A A | A A A A\n- **Dマイナー** 2小節 = D D D D | D D D D\n\n小節が変わる瞬間にきっちり音を変えましょう。この切り替えがきれいだと、グルーヴが信頼できるものになります。",
+          "pt-BR": "# Versão com dois acordes\nAgora a tônica ganha uma função numa progressão:\n\n- 2 compassos de **Lá menor** = A A A A | A A A A\n- 2 compassos de **Ré menor** = D D D D | D D D D\n\nTroque de nota exatamente na mudança de compasso. Essa virada limpa é o que faz o groove parecer sólido.",
+          "es": "# Versión con dos acordes\nAhora la tónica tiene una función dentro de una progresión:\n\n- 2 compases de **La menor** = A A A A | A A A A\n- 2 compases de **Re menor** = D D D D | D D D D\n\nCambia exactamente al comenzar el compás nuevo. Ese relevo limpio hace que el groove resulte fiable."
         }
       }
     },
@@ -57,12 +57,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Next step\nWhen quarter-note roots feel boring (in a good way), you’re ready to add the **fifth** and create more movement while keeping the same solid pulse.",
-          "zh-Hans": "# 下一步\n当你觉得用四分音符弹主音已经“无聊到很稳”时（这是一件好事），就可以开始加入**五度音**，在不破坏稳定节奏的前提下，让线条更有动感了。",
-          "de": "# Nächster Schritt\nWenn Viertelnoten auf dem Grundton sich „langweilig stabil“ anfühlen (im positiven Sinne), bist du bereit, die **Quinte** dazuzunehmen und mehr Bewegung zu erzeugen, ohne den soliden Puls zu verlieren.",
-          "ja": "# 次のステップ\n4分音符のルートだけで「いい意味で退屈」になってきたら、次は**5度**を足すタイミングです。同じ安定した脈をキープしたまま、ラインに動きをつけていきましょう。",
-          "pt-BR": "# Próximo passo\nQuando tocar só tônica em semínimas ficar “entediantemente estável” (no bom sentido), é sinal de que você está pronto para adicionar a **quinta** e criar mais movimento sem perder o pulso firme.",
-          "es": "# Siguiente paso\nCuando tocar sólo la fundamental en negras se sienta “aburridamente estable” (en el buen sentido), es señal de que ya estás listo para añadir la **quinta** y darle más movimiento a la línea sin perder el pulso sólido."
+          "en": "# Make it feel like music\nAfter a few loops, experiment with tiny feel changes:\n\n- play a little shorter\n- play a little longer\n- accent beat 1 slightly\n- keep the body moving with the pulse\n\nIf quarter notes start to feel solid and almost boring, that is progress. Solid time is supposed to feel dependable.",
+          "zh-Hans": "# 让它更像音乐\n循环几遍后，试着做一些很小的变化：\n\n- 音弹得短一点\n- 音弹得长一点\n- 稍微强调第 1 拍\n- 身体跟着拍子轻轻动\n\n如果四分音符开始让你觉得“稳得有点无聊”，那反而说明你在进步。好的时间感本来就应该可靠。",
+          "de": "# Mach Musik daraus\nNach ein paar Durchläufen probier winzige Veränderungen:\n\n- etwas kürzer spielen\n- etwas länger spielen\n- Zählzeit 1 leicht betonen\n- den Körper locker mit dem Puls bewegen\n\nWenn sich Viertelnoten irgendwann stabil und fast „langweilig“ anfühlen, ist das ein gutes Zeichen. Gute Time soll verlässlich wirken.",
+          "ja": "# 音楽らしくする\n何周かしたら、小さな変化を加えてみます：\n\n- 少し短く弾く\n- 少し長く弾く\n- 1拍目を少し強調する\n- 体を拍に合わせて軽く動かす\n\n4分音符が“いい意味で少し退屈”に感じるようになったら、それは前進です。良いタイム感は、安心して乗れるものだからです。",
+          "pt-BR": "# Deixe musical\nDepois de alguns loops, experimente mudanças bem pequenas:\n\n- tocar mais curto\n- tocar mais longo\n- acentuar levemente o tempo 1\n- deixar o corpo acompanhar o pulso\n\nSe as semínimas começarem a parecer estáveis e até “um pouco sem graça” no bom sentido, isso é progresso. Um bom tempo precisa soar confiável.",
+          "es": "# Haz que suene musical\nDespués de unas vueltas, prueba cambios muy pequeños:\n\n- tocar un poco más corto\n- tocar un poco más largo\n- acentuar ligeramente el tiempo 1\n- mover el cuerpo con el pulso\n\nSi las negras empiezan a sentirse estables y hasta “aburridas” en el buen sentido, eso es avance. Un buen tiempo tiene que sonar confiable."
         }
       }
     }

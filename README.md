@@ -144,6 +144,8 @@ When adding content, keep the tree and the parent indexes in sync:
 5. Keep `order`, locale coverage, and timestamps consistent with nearby entries.
 6. If you add media, place it under the correct image folder and reference the final hosted URL.
 
+When editing localized content, update **every existing locale** in that payload, not just `en`. In `education`, lesson and catalog text is expected to stay aligned across `en`, `pt-BR`, `es`, `de`, `ja`, and `zh-Hans` unless there is an explicit product decision to ship an incomplete translation.
+
 ## Maintenance notes
 
 - There is no build step in this repo; correctness comes from the file layout and valid JSON.

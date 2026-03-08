@@ -5,12 +5,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Open strings and first position\nIn this lesson you’ll learn the **open strings** on a 4-string bass and the most important **first-position notes** (frets 1–4).\n\nKnowing these gives you a solid map of the lower part of the neck.",
-          "zh-Hans": "# 开放弦与第一把位\n在本课中，你会认识4弦贝斯的**开放弦**，以及最重要的**第一把位音**（第1–4品）。\n\n熟悉这些音，可以帮你建立琴颈低把位的清晰地图。",
-          "de": "# Leersaiten und erste Lage\nIn dieser Lektion lernst du die **Leersaiten** eines 4-saitigen Basses und die wichtigsten **Töne in der ersten Lage** (Bünde 1–4) kennen.\n\nDamit bekommst du eine stabile Orientierung im tiefen Bereich des Griffbretts.",
-          "ja": "# 開放弦とファーストポジション\nこのレッスンでは、4弦ベースの**開放弦**と、**ファーストポジション（1〜4フレット）**でよく使う音を覚えます。\n\nここを押さえておくと、ネックの低いポジションがぐっと分かりやすくなります。",
-          "pt-BR": "# Cordas soltas e primeira posição\nNesta lição você vai aprender as **cordas soltas** do baixo de 4 cordas e as principais **notas da primeira posição** (trastes 1 a 4).\n\nSaber isso dá um ótimo mapa da parte baixa do braço.",
-          "es": "# Cuerdas al aire y primeira posición\nEn esta lección vas a aprender las **cuerdas al aire** de un bajo de 4 cuerdas y las notas más importantes de la **primera posición** (trastes 1 a 4).\n\nCon esto tendrás un buen mapa de la zona baja del mástil."
+          "en": "# Open strings and first position\nThis lesson is your **bass home base**. If the first few frets feel familiar, everything else on the neck gets less mysterious.\n\nToday you will learn the four open strings and the most useful note landmarks in **first position** (frets 1-4).",
+          "zh-Hans": "# 空弦与第一把位\n这一课是你的**贝斯起点**。当前几品变得熟悉之后，整个琴颈都会没那么神秘。\n\n今天你要学会四根空弦，以及**第一把位**（1-4 品）最重要的音位。",
+          "de": "# Leersaiten und erste Lage\nDiese Lektion ist dein **Startpunkt auf dem Bass**. Wenn sich die ersten Bünde vertraut anfühlen, wirkt der ganze Hals viel weniger geheimnisvoll.\n\nHeute lernst du die vier Leersaiten und die wichtigsten Töne in der **ersten Lage** (Bünde 1-4).",
+          "ja": "# 開放弦と第1ポジション\nこのレッスンは、ベースでの**スタート地点**です。最初の数フレットに慣れると、ネック全体がずっと分かりやすくなります。\n\n今日は4本の開放弦と、**第1ポジション**（1〜4フレット）の大事な音を覚えます。",
+          "pt-BR": "# Cordas soltas e primeira posição\nEsta lição é a sua **base no baixo**. Quando os primeiros trastes ficam familiares, o braço inteiro deixa de parecer misterioso.\n\nHoje você vai aprender as quatro cordas soltas e as notas mais importantes da **primeira posição** (trastes 1-4).",
+          "es": "# Cuerdas al aire y primera posición\nEsta lección es tu **base en el bajo**. Cuando los primeros trastes se vuelven familiares, todo el mástil deja de parecer misterioso.\n\nHoy vas a aprender las cuatro cuerdas al aire y las notas más importantes de la **primera posición** (trastes 1-4)."
         }
       }
     },
@@ -18,12 +18,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Open strings\nStandard tuning (from lowest/thickest to highest/thinnest):\n\n- 4th string – **E**\n- 3rd string – **A**\n- 2nd string – **D**\n- 1st string – **G**\n\nAn **open string** means you pluck the string with no left-hand finger on any fret.",
-          "zh-Hans": "# 开放弦\n标准定弦（从最粗、最低的弦到最细、最高的弦）：\n\n- 第4弦 – **E**\n- 第3弦 – **A**\n- 第2弦 – **D**\n- 第1弦 – **G**\n\n**开放弦**就是左手不按任何品位，只用右手拨弦发声。",
-          "de": "# Leersaiten\nStandardstimmung (von der tiefsten/dicksten zur höchsten/dünnsten Saite):\n\n- 4. Saite – **E**\n- 3. Saite – **A**\n- 2. Saite – **D**\n- 1. Saite – **G**\n\nEine **Leersaite** klingt, wenn du die Saite anschlägst, ohne mit der linken Hand einen Bund zu greifen.",
-          "ja": "# 開放弦\n標準チューニング（低くて太い弦から高くて細い弦へ）：\n\n- 4弦 – **E**\n- 3弦 – **A**\n- 2弦 – **D**\n- 1弦 – **G**\n\n**開放弦**は、左手でどのフレットも押さえずに、そのまま弦を弾いた音のことです。",
-          "pt-BR": "# Cordas soltas\nAfinação padrão (da corda mais grave/mais grossa para a mais aguda/mais fina):\n\n- 4ª corda – **E**\n- 3ª corda – **A**\n- 2ª corda – **D**\n- 1ª corda – **G**\n\nUma **corda solta** é quando você toca a corda sem apertar nenhum traste com a mão esquerda.",
-          "es": "# Cuerdas al aire\nAfinación estándar (de la cuerda más grave/más gruesa a la más aguda/más fina):\n\n- 4ª cuerda – **E**\n- 3ª cuerda – **A**\n- 2ª cuerda – **D**\n- 1ª cuerda – **G**\n\nUna **cuerda al aire** suena cuando la tocas sin presionar ningún traste con la mano izquierda."
+          "en": "# Your four open strings\nStandard 4-string bass tuning goes from low to high like this:\n\n- 4th string: **E**\n- 3rd string: **A**\n- 2nd string: **D**\n- 1st string: **G**\n\nA quick memory trick: each string is a **launch point**. Before you learn lots of frets, know where each string begins.",
+          "zh-Hans": "# 你的四根空弦\n标准四弦贝斯从低到高是：\n\n- 第4弦：**E**\n- 第3弦：**A**\n- 第2弦：**D**\n- 第1弦：**G**\n\n一个好记的方法：每根弦都是一个**出发点**。先记住每根弦从哪个音开始，再去认识更多品位。",
+          "de": "# Deine vier Leersaiten\nDie Standardstimmung eines 4-saitigen Basses von tief nach hoch ist:\n\n- 4. Saite: **E**\n- 3. Saite: **A**\n- 2. Saite: **D**\n- 1. Saite: **G**\n\nEin guter Merksatz: Jede Saite ist ein **Startpunkt**. Bevor du viele Bünde lernst, solltest du wissen, mit welchem Ton jede Saite beginnt.",
+          "ja": "# 4本の開放弦\n4弦ベースの標準チューニングは、低い方からこうです：\n\n- 4弦：**E**\n- 3弦：**A**\n- 2弦：**D**\n- 1弦：**G**\n\n覚え方のコツは、各弦を**出発点**として考えることです。たくさんのフレットを覚える前に、まず各弦がどの音から始まるかを知りましょう。",
+          "pt-BR": "# As quatro cordas soltas\nA afinação padrão do baixo de 4 cordas, da mais grave para a mais aguda, é:\n\n- 4ª corda: **E (Mi)**\n- 3ª corda: **A (Lá)**\n- 2ª corda: **D (Ré)**\n- 1ª corda: **G (Sol)**\n\nUma boa ideia é pensar em cada corda como um **ponto de partida**. Antes de decorar muitos trastes, saiba de onde cada corda começa.",
+          "es": "# Tus cuatro cuerdas al aire\nLa afinación estándar del bajo de 4 cuerdas, de grave a agudo, es:\n\n- 4ª cuerda: **E**\n- 3ª cuerda: **A**\n- 2ª cuerda: **D**\n- 1ª cuerda: **G**\n\nUna forma útil de recordarlo es pensar que cada cuerda es un **punto de partida**. Antes de aprender muchos trastes, conviene saber con qué nota empieza cada cuerda."
         }
       }
     },
@@ -31,12 +31,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# First-position hand setup\n- Stay in **first position** (frets 1–4)\n- **Index** = fret 1\n- **Middle** = fret 2\n- **Ring** = fret 3\n- **Little** = fret 4\n\nKeep your thumb roughly behind fret 2 and let your fingers hover close to the strings.",
-          "zh-Hans": "# 第一把位的手型\n- 保持在**第一把位**（第1–4品）\n- **食指** = 第1品\n- **中指** = 第2品\n- **无名指** = 第3品\n- **小指** = 第4品\n\n大拇指大致放在第2品后面，让手指自然弯曲、靠近琴弦。",
-          "de": "# Handhaltung in der ersten Lage\n- Bleib in der **ersten Lage** (Bünde 1–4)\n- **Zeigefinger** = 1. Bund\n- **Mittelfinger** = 2. Bund\n- **Ringfinger** = 3. Bund\n- **Kleiner Finger** = 4. Bund\n\nDer Daumen liegt ungefähr hinter dem 2. Bund, die Finger schweben locker nah über den Saiten.",
-          "ja": "# ファーストポジションの手の形\n- **ファーストポジション**（1〜4フレット）に手を置きます\n- **人差し指** = 1フレット\n- **中指** = 2フレット\n- **薬指** = 3フレット\n- **小指** = 4フレット\n\n親指はだいたい2フレットの裏あたりに置き、指先を丸くして弦の近くに構えましょう。",
-          "pt-BR": "# Posição da mão na primeira posição\n- Fique na **primeira posição** (trastes 1 a 4)\n- **Dedo indicador** = traste 1\n- **Dedo médio** = traste 2\n- **Dedo anelar** = traste 3\n- **Dedo mínimo** = traste 4\n\nDeixe o polegar mais ou menos atrás do 2º traste e mantenha os dedos curvados, perto das cordas.",
-          "es": "# Colocación de la mano en primera posición\n- Quédate en la **primera posición** (trastes 1 a 4)\n- **Dedo índice** = traste 1\n- **Dedo medio** = traste 2\n- **Dedo anular** = traste 3\n- **Dedo meñique** = traste 4\n\nPon el pulgar más o menos detrás del traste 2 y mantén los dedos curvados, cerca de las cuerdas."
+          "en": "# First-position setup\nStay around frets **1-4**:\n\n- Index = fret 1\n- Middle = fret 2\n- Ring = fret 3\n- Little finger = fret 4\n\nKeep your thumb relaxed behind the neck and let your fingers hover over the strings instead of flying away after every note.",
+          "zh-Hans": "# 第一把位手型\n把手放在 **1-4 品**附近：\n\n- 食指 = 1 品\n- 中指 = 2 品\n- 无名指 = 3 品\n- 小指 = 4 品\n\n拇指轻松放在琴颈后方，让手指停留在弦附近，而不是每弹一个音就抬得很高。",
+          "de": "# Handhaltung in der ersten Lage\nBleib ungefähr bei den Bünden **1-4**:\n\n- Zeigefinger = 1. Bund\n- Mittelfinger = 2. Bund\n- Ringfinger = 3. Bund\n- kleiner Finger = 4. Bund\n\nLass den Daumen locker hinter dem Hals und halte die Finger nah an den Saiten, statt sie nach jedem Ton weit anzuheben.",
+          "ja": "# 第1ポジションの手の形\n手は **1〜4フレット**のあたりに置きます：\n\n- 人差し指 = 1フレット\n- 中指 = 2フレット\n- 薬指 = 3フレット\n- 小指 = 4フレット\n\n親指は力を入れすぎずネックの後ろへ。弾くたびに指が大きく離れないよう、弦の近くに保ちます。",
+          "pt-BR": "# Mão na primeira posição\nFique na região dos **trastes 1-4**:\n\n- indicador = traste 1\n- médio = traste 2\n- anelar = traste 3\n- mínimo = traste 4\n\nDeixe o polegar relaxado atrás do braço e mantenha os dedos perto das cordas, sem voarem para longe depois de cada nota.",
+          "es": "# Mano en primera posición\nQuédate alrededor de los **trastes 1-4**:\n\n- índice = traste 1\n- medio = traste 2\n- anular = traste 3\n- meñique = traste 4\n\nMantén el pulgar relajado detrás del mástil y deja los dedos cerca de las cuerdas, sin levantarlos demasiado después de cada nota."
         }
       }
     },
@@ -44,12 +44,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Key notes to memorize\nHere are useful notes from open to fret 4 on each string:\n\n**4th string (E)**\n- F – fret 1\n- G – fret 3\n\n**3rd string (A)**\n- B – fret 2\n- C – fret 3\n\n**2nd string (D)**\n- E – fret 2\n- F – fret 3\n\n**1st string (G)**\n- A – fret 2\n- B – fret 4\n\nDon’t rush. Get comfortable finding each note without looking at the screen too much.",
-          "zh-Hans": "# 需要记住的关键音\n下面是每根弦从开放到第4品的一些常用音：\n\n**第4弦（E）**\n- F – 第1品\n- G – 第3品\n\n**第3弦（A）**\n- B – 第2品\n- C – 第3品\n\n**第2弦（D）**\n- E – 第2品\n- F – 第3品\n\n**第1弦（G）**\n- A – 第2品\n- B – 第4品\n\n不用急，先慢慢来。尽量在不用一直盯着屏幕的情况下，也能找到这些音。",
-          "de": "# Wichtige Töne zum Merken\nHier sind nützliche Töne von leer bis Bund 4 auf jeder Saite:\n\n**4. Saite (E)**\n- F – 1. Bund\n- G – 3. Bund\n\n**3. Saite (A)**\n- B – 2. Bund\n- C – 3. Bund\n\n**2. Saite (D)**\n- E – 2. Bund\n- F – 3. Bund\n\n**1. Saite (G)**\n- A – 2. Bund\n- B – 4. Bund\n\nLass dir Zeit. Übe, diese Töne zu finden, ohne ständig auf den Bildschirm zu schauen.",
-          "ja": "# 覚えておきたい主な音\n各弦で、開放弦から4フレットまでのよく使う音です：\n\n**4弦（E）**\n- F – 1フレット\n- G – 3フレット\n\n**3弦（A）**\n- B – 2フレット\n- C – 3フレット\n\n**2弦（D）**\n- E – 2フレット\n- F – 3フレット\n\n**1弦（G）**\n- A – 2フレット\n- B – 4フレット\n\nあせらず、ゆっくりで大丈夫です。画面を見すぎなくても、指で場所が分かるようにしていきましょう。",
-          "pt-BR": "# Notas importantes para decorar\nAqui vão algumas notas úteis, da corda solta até o 4º traste em cada corda:\n\n**4ª corda (E)**\n- F – 1º traste\n- G – 3º traste\n\n**3ª corda (A)**\n- B – 2º traste\n- C – 3º traste\n\n**2ª corda (D)**\n- E – 2º traste\n- F – 3º traste\n\n**1ª corda (G)**\n- A – 2º traste\n- B – 4º traste\n\nSem pressa. Treine até conseguir achar cada nota sem precisar olhar tanto para a tela.",
-          "es": "# Notas clave para memorizar\nAquí tienes algunas notas útiles, desde la cuerda al aire hasta el traste 4 en cada cuerda:\n\n**4ª cuerda (E)**\n- F – traste 1\n- G – traste 3\n\n**3ª cuerda (A)**\n- B – traste 2\n- C – traste 3\n\n**2ª cuerda (D)**\n- E – traste 2\n- F – traste 3\n\n**1ª cuerda (G)**\n- A – traste 2\n- B – traste 4\n\nNo te apures. Practica hasta poder encontrar estas notas sin mirar tanto la pantalla."
+          "en": "# Notes worth memorizing first\nYou do **not** need every note at once. Start with these easy anchors:\n\n**4th string (E)**\n- F = fret 1\n- G = fret 3\n\n**3rd string (A)**\n- B = fret 2\n- C = fret 3\n\n**2nd string (D)**\n- E = fret 2\n- F = fret 3\n\n**1st string (G)**\n- A = fret 2\n- B = fret 4\n\nThese notes show up constantly in beginner grooves and scale patterns.",
+          "zh-Hans": "# 先记住这些音位\n你**不用一次背完所有音**。先抓住这些容易用到的锚点：\n\n**第4弦（E）**\n- F = 1 品\n- G = 3 品\n\n**第3弦（A）**\n- B = 2 品\n- C = 3 品\n\n**第2弦（D）**\n- E = 2 品\n- F = 3 品\n\n**第1弦（G）**\n- A = 2 品\n- B = 4 品\n\n这些音在初级 groove 和音阶里会一直出现。",
+          "de": "# Diese Töne zuerst merken\nDu musst **nicht sofort jeden Ton** kennen. Starte mit diesen wichtigen Ankern:\n\n**4. Saite (E)**\n- F = 1. Bund\n- G = 3. Bund\n\n**3. Saite (A)**\n- B = 2. Bund\n- C = 3. Bund\n\n**2. Saite (D)**\n- E = 2. Bund\n- F = 3. Bund\n\n**1. Saite (G)**\n- A = 2. Bund\n- B = 4. Bund\n\nDiese Töne tauchen ständig in einfachen Grooves und Skalen auf.",
+          "ja": "# まず覚えたい音\n**全部を一度に覚える必要はありません**。まずは次の目印を押さえましょう：\n\n**4弦（E）**\n- F = 1フレット\n- G = 3フレット\n\n**3弦（A）**\n- B = 2フレット\n- C = 3フレット\n\n**2弦（D）**\n- E = 2フレット\n- F = 3フレット\n\n**1弦（G）**\n- A = 2フレット\n- B = 4フレット\n\nこれらの音は、初心者向けのグルーヴやスケールで何度も出てきます。",
+          "pt-BR": "# Notas para memorizar primeiro\nVocê **não precisa decorar tudo de uma vez**. Comece por estes pontos de referência:\n\n**4ª corda (E)**\n- F = traste 1\n- G = traste 3\n\n**3ª corda (A)**\n- B = traste 2\n- C = traste 3\n\n**2ª corda (D)**\n- E = traste 2\n- F = traste 3\n\n**1ª corda (G)**\n- A = traste 2\n- B = traste 4\n\nEssas notas aparecem o tempo todo em grooves e escalas de iniciante.",
+          "es": "# Notas para memorizar primero\n**No hace falta memorizar todo de golpe**. Empieza con estos puntos de referencia:\n\n**4ª cuerda (E)**\n- F = traste 1\n- G = traste 3\n\n**3ª cuerda (A)**\n- B = traste 2\n- C = traste 3\n\n**2ª cuerda (D)**\n- E = traste 2\n- F = traste 3\n\n**1ª cuerda (G)**\n- A = traste 2\n- B = traste 4\n\nEstas notas aparecen constantemente en grooves y escalas para principiantes."
         }
       }
     },
@@ -57,12 +57,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Quick practice routine\n1. Play each string **open**, from E to G, saying the names out loud.\n2. On each string, play: open → fret 1 → fret 2 → fret 3 (→ fret 4 on the G string), naming the notes.\n3. Mix it up: pick a note name (like **F**) and find it on different strings.\n\nA few minutes a day with this routine will make the first position feel like home.",
-          "zh-Hans": "# 快速练习方案\n1. 先从E到G依次弹**每根弦的开放弦**，并把音名念出来。\n2. 在每根弦上练习：空弦 → 第1品 → 第2品 → 第3品（G弦上再加第4品），边弹边说出音名。\n3. 换着玩：随便说一个音名（比如 **F**），试着在不同的弦上把它找出来。\n\n每天花几分钟做这个练习，第一把位很快就会变得非常熟悉。",
-          "de": "# Kurze Übe-Routine\n1. Spiele nacheinander alle **Leersaiten** von E bis G und sprich die Notennamen laut mit.\n2. Auf jeder Saite: spiele leer → 1. Bund → 2. Bund → 3. Bund (auf der G-Saite auch 4. Bund) und nenne die Töne.\n3. Variiere: such dir einen Notennamen aus (z. B. **F**) und finde ihn auf verschiedenen Saiten.\n\nEin paar Minuten pro Tag mit dieser Routine reichen, damit sich die erste Lage wie „zu Hause“ anfühlt.",
-          "ja": "# かんたん練習ルーティン\n1. E弦からG弦まで、**各弦の開放弦**を順番に弾き、音名を声に出して言います。\n2. 各弦で「開放 → 1フレット → 2フレット → 3フレット（G弦は4フレットも）」の順に弾きながら、音名を言いましょう。\n3. 遊び感覚で：例えば **F** など1つ音名を決めて、違う弦でその場所を探してみます。\n\n毎日ほんの数分でも続ければ、ファーストポジションがすぐに“ホームポジション”のように感じられるようになります。",
-          "pt-BR": "# Rotina rápida de prática\n1. Toque as **cordas soltas** de E até G, dizendo os nomes em voz alta.\n2. Em cada corda, toque: solta → traste 1 → traste 2 → traste 3 (→ traste 4 na corda G), sempre falando as notas.\n3. Brinque um pouco: escolha um nome de nota (por exemplo **F**) e tente encontrá-la em cordas diferentes.\n\nAlguns minutos por dia com essa rotina já deixam a primeira posição com cara de “casa”.",
-          "es": "# Rutina rápida de práctica\n1. Toca las **cuerdas al aire** de E a G, diciendo los nombres en voz alta.\n2. En cada cuerda, toca: al aire → traste 1 → traste 2 → traste 3 (→ traste 4 en la cuerda G), nombrando cada nota.\n3. Juega un poco: elige un nombre de nota (por ejemplo **F**) e intenta encontrarla en distintas cuerdas.\n\nCon unos minutos al día de esta rutina, la primera posición va a empezar a sentirse como tu casa."
+          "en": "# 60-second note hunt\nTry this little game:\n\n1. Play the open strings from low to high, saying **E-A-D-G** out loud.\n2. Then find **F, C, E, and A** on the neck without rushing.\n3. Put on a slow pulse and play: open string -> target note -> back to open string.\n4. Finish by asking yourself, \"Can I find that note without staring for five seconds?\"\n\nIf you repeat this for a few minutes a day, first position stops feeling like random metal bars and starts feeling like a map.",
+          "zh-Hans": "# 60 秒找音小游戏\n试试这个小练习：\n\n1. 从低到高弹空弦，并大声说出 **E-A-D-G**。\n2. 然后去找 **F、C、E 和 A**。\n3. 配合一个慢速拍子，弹：空弦 -> 目标音 -> 回到空弦。\n4. 最后问自己：“我能不能不用盯着屏幕五秒钟就找到它？”\n\n每天练几分钟，第一把位就会从“几根金属条”变成真正的地图。",
+          "de": "# 60-Sekunden-Notensuche\nProbier dieses kleine Spiel:\n\n1. Spiele die Leersaiten von tief nach hoch und sag **E-A-D-G** laut.\n2. Finde dann **F, C, E und A** auf dem Hals.\n3. Mit einem langsamen Puls spielst du: Leersaite -> Zielton -> zurück zur Leersaite.\n4. Frag dich danach: „Finde ich den Ton, ohne fünf Sekunden lang zu suchen?“\n\nEin paar Minuten pro Tag reichen, damit sich die erste Lage wie eine echte Landkarte anfühlt.",
+          "ja": "# 60秒ノート探しゲーム\n次の練習をやってみましょう：\n\n1. 低い弦から高い弦へ開放弦を弾き、**E-A-D-G** と声に出します。\n2. 次に **F、C、E、A** を探します。\n3. ゆっくりした拍に合わせて、開放弦 -> 目標の音 -> 開放弦と弾きます。\n4. 最後に「5秒も探さずに見つけられるかな？」と自分に聞いてみましょう。\n\n毎日数分で、第1ポジションがただの金属の棒ではなく、ちゃんとした地図に変わっていきます。",
+          "pt-BR": "# Caça às notas em 60 segundos\nExperimente este jogo:\n\n1. Toque as cordas soltas da mais grave para a mais aguda dizendo **E-A-D-G** em voz alta.\n2. Depois encontre **F, C, E e A** no braço.\n3. Com um pulso lento, toque: corda solta -> nota-alvo -> corda solta.\n4. No fim, pergunte a si mesmo: “Consigo achar essa nota sem ficar cinco segundos procurando?”\n\nAlguns minutos por dia já fazem a primeira posição parecer um mapa de verdade.",
+          "es": "# Búsqueda de notas en 60 segundos\nPrueba este pequeño juego:\n\n1. Toca las cuerdas al aire de grave a agudo diciendo **E-A-D-G** en voz alta.\n2. Luego busca **F, C, E y A** en el mástil.\n3. Con un pulso lento toca: cuerda al aire -> nota objetivo -> cuerda al aire.\n4. Al final pregúntate: “¿Puedo encontrar esa nota sin mirar cinco segundos?”\n\nCon unos minutos al día, la primera posición empieza a sentirse como un mapa real."
         }
       }
     }

@@ -5,12 +5,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# What is a scale?\nA scale is just a group of notes arranged in order, usually from low to high.\n\nYou can think of it like a musical staircase: each note is one step higher (or lower) than the last.",
-          "zh-Hans": "# 什么是音阶？\n音阶就是一组按照顺序排列的音，高低依次上升或下降。\n\n你可以把它想象成一段“音乐楼梯”：每一个音都是比前一个高（或低）一级的台阶。",
-          "de": "# Was ist eine Tonleiter?\nEine Tonleiter ist einfach eine Gruppe von Tönen, die der Reihe nach geordnet sind, meistens von tief nach hoch.\n\nDu kannst dir das wie eine musikalische Treppe vorstellen: Jeder Ton ist eine Stufe höher (oder tiefer) als der vorige.",
-          "ja": "# スケールとは？\nスケールは、低い音から高い音へ（またはその逆に）、順番に並んだ音の集まりです。\n\n音階を“音の階段”だと思ってください。1つ1つの音が、前の音より少し高い（または低い）段になっています。",
-          "pt-BR": "# O que é uma escala?\nUma escala é só um grupo de notas organizadas em ordem, geralmente da mais grave para a mais aguda.\n\nVocê pode imaginar como uma escada musical: cada nota é um degrau acima (ou abaixo) da anterior.",
-          "es": "# ¿Qué es una escala?\nUna escala es simplemente un grupo de notas ordenadas, normalmente de grave a agudo.\n\nPuedes imaginarla como una escalera musical: cada nota es un peldaño más alto (o más bajo) que la anterior."
+          "en": "# What a scale really is\nA scale is not just homework. It is a **set of notes that belongs together**.\n\nYou can think of it as a color palette: once you know the notes, you can build melodies, riffs, solos, and little musical ideas from them.",
+          "zh-Hans": "# 音阶到底是什么\n音阶不只是作业，它是一组**彼此搭配得很好**的音。\n\n你可以把它当成一个颜色盘：一旦知道有哪些音，就能用它们做旋律、riff、solo 和各种小音乐想法。",
+          "de": "# Was eine Tonleiter wirklich ist\nEine Tonleiter ist nicht einfach nur Hausaufgabe. Sie ist eine **Gruppe von Tönen, die gut zusammengehören**.\n\nDu kannst sie wie eine Farbpalette sehen: Wenn du die Töne kennst, kannst du daraus Melodien, Riffs, Soli und kleine musikalische Ideen bauen.",
+          "ja": "# スケールとは本当は何か\nスケールは単なる宿題ではありません。**相性のいい音の集まり**です。\n\n色のパレットのようなものだと思ってください。どの音を使うか分かれば、メロディ、リフ、ソロ、小さな音楽のアイデアを作れます。",
+          "pt-BR": "# O que uma escala realmente é\nUma escala não é só lição de casa. Ela é um **conjunto de notas que combina entre si**.\n\nPense nela como uma paleta de cores: quando você conhece essas notas, pode criar melodias, riffs, solos e pequenas ideias musicais com elas.",
+          "es": "# Qué es realmente una escala\nUna escala no es sólo tarea. Es un **conjunto de notas que funciona bien junto**.\n\nPuedes pensar en ella como una paleta de colores: cuando conoces esas notas, puedes construir melodías, riffs, solos y pequeñas ideas musicales con ellas."
         }
       }
     },
@@ -18,12 +18,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Whole steps and half steps\nOn the guitar, a **half step** is the distance of **one fret**.\nA **whole step** is the distance of **two frets**.\n\n- Half step: 3rd fret → 4th fret\n- Whole step: 3rd fret → 5th fret",
-          "zh-Hans": "# 全音和半音\n在吉他上，**半音** 等于 **一个品格** 的距离。\n**全音** 等于 **两个品格** 的距离。\n\n- 半音：3品 → 4品\n- 全音：3品 → 5品",
-          "de": "# Ganzton und Halbton\nAuf der Gitarre ist ein **Halbton** der Abstand von **einem Bund**.\nEin **Ganzton** ist der Abstand von **zwei Bünden**.\n\n- Halbton: 3. Bund → 4. Bund\n- Ganzton: 3. Bund → 5. Bund",
-          "ja": "# 全音と半音\nギターでは、**半音** は **フレット1つ分** の距離です。\n**全音** は **フレット2つ分** の距離です。\n\n- 半音：3フレット → 4フレット\n- 全音：3フレット → 5フレット",
-          "pt-BR": "# Tons inteiros e semitons\nNo violão/guitarra, um **semitom** é a distância de **um traste**.\nUm **tom** (tom inteiro) é a distância de **dois trastes**.\n\n- Semitom: 3º traste → 4º traste\n- Tom inteiro: 3º traste → 5º traste",
-          "es": "# Tonos y semitonos\nEn la guitarra, un **semitono** es la distancia de **un traste**.\nUn **tono** (tono entero) es la distancia de **dos trastes**.\n\n- Semitono: traste 3 → traste 4\n- Tono: traste 3 → traste 5"
+          "en": "# Whole steps and half steps\nOn guitar:\n\n- a **half step** = 1 fret\n- a **whole step** = 2 frets\n\nSo 3rd fret -> 4th fret is a half step, and 3rd fret -> 5th fret is a whole step. Tiny moves like this are the building blocks of every scale shape you will learn.",
+          "zh-Hans": "# 全音与半音\n在吉他上：\n\n- **半音** = 1 个品格\n- **全音** = 2 个品格\n\n所以 3 品到 4 品是半音，3 品到 5 品是全音。这些小小的移动，就是以后所有音阶形状的积木。",
+          "de": "# Ganzton und Halbton\nAuf der Gitarre gilt:\n\n- **Halbton** = 1 Bund\n- **Ganzton** = 2 Bünde\n\nAlso ist 3. Bund zu 4. Bund ein Halbton und 3. Bund zu 5. Bund ein Ganzton. Diese kleinen Bewegungen sind die Bausteine aller Skalenformen, die du später lernst.",
+          "ja": "# 全音と半音\nギターでは：\n\n- **半音** = 1フレット\n- **全音** = 2フレット\n\nつまり3フレットから4フレットは半音、3フレットから5フレットは全音です。こうした小さな動きが、これから学ぶすべてのスケール形の土台になります。",
+          "pt-BR": "# Tons inteiros e semitons\nNa guitarra:\n\n- **semitom** = 1 traste\n- **tom inteiro** = 2 trastes\n\nEntão 3º traste para 4º traste é um semitom, e 3º traste para 5º traste é um tom inteiro. Esses pequenos movimentos são os blocos de todas as formas de escala que você vai aprender.",
+          "es": "# Tonos y semitonos\nEn la guitarra:\n\n- **semitono** = 1 traste\n- **tono** = 2 trastes\n\nAsí que del traste 3 al 4 hay un semitono, y del 3 al 5 hay un tono. Estos pequeños movimientos son los bloques de todas las formas de escala que aprenderás después."
         }
       }
     },
@@ -31,12 +31,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "On a piano, a half step is from one key to the very next key.\nA whole step skips one key in between.\n\nYou don’t need a piano to understand this — just remember:\n- Half step = smallest move\n- Whole step = two half steps",
-          "zh-Hans": "在钢琴上，半音是从一个键到紧挨着的下一个键。\n全音则会中间跳过一个键。\n\n你不需要真的有钢琴，只要记住：\n- 半音 = 最小的移动\n- 全音 = 两个半音",
-          "de": "Auf dem Klavier ist ein Halbton der Schritt von einer Taste zur direkt nächsten.\nEin Ganzton überspringt dabei eine Taste dazwischen.\n\nDu brauchst kein Klavier, um das zu verstehen – merke dir einfach:\n- Halbton = kleinste Bewegung\n- Ganzton = zwei Halbtöne",
-          "ja": "ピアノでは、半音はある鍵からそのすぐ隣の鍵までの距離です。\n全音は、間に1つ鍵をはさんで移動する距離です。\n\n実物のピアノがなくても大丈夫です。こう覚えておきましょう：\n- 半音 = いちばん小さい動き\n- 全音 = 半音2つ分",
-          "pt-BR": "No piano, um semitom é ir de uma tecla para a tecla logo ao lado.\nUm tom inteiro pula uma tecla no meio.\n\nVocê não precisa ter um piano para entender isso, basta lembrar:\n- Semitom = menor movimento\n- Tom inteiro = dois semitons",
-          "es": "En el piano, un semitono es ir de una tecla a la siguiente inmediata.\nUn tono entero salta una tecla en el medio.\n\nNo necesitas tener un piano para entenderlo, solo recuerda:\n- Semitono = movimiento más pequeño\n- Tono entero = dos semitonos"
+          "en": "# Hear the pattern in C major\nThe C major scale is:\n\n**C D E F G A B C**\n\nIts step pattern is:\n- C -> D = whole\n- D -> E = whole\n- E -> F = half\n- F -> G = whole\n- G -> A = whole\n- A -> B = whole\n- B -> C = half\n\nThose two half steps, **E-F** and **B-C**, are especially worth noticing.",
+          "zh-Hans": "# 在 C 大调里听这个规律\nC 大调音阶是：\n\n**C D E F G A B C**\n\n它的步进规律是：\n- C -> D = 全音\n- D -> E = 全音\n- E -> F = 半音\n- F -> G = 全音\n- G -> A = 全音\n- A -> B = 全音\n- B -> C = 半音\n\n其中 **E-F** 和 **B-C** 这两个半音特别值得注意。",
+          "de": "# Hör das Muster in C-Dur\nDie C-Dur-Tonleiter ist:\n\n**C D E F G A B C**\n\nIhr Schrittmuster lautet:\n- C -> D = ganz\n- D -> E = ganz\n- E -> F = halb\n- F -> G = ganz\n- G -> A = ganz\n- A -> B = ganz\n- B -> C = halb\n\nVor allem die beiden Halbtonschritte **E-F** und **B-C** solltest du dir gut merken.",
+          "ja": "# Cメジャーでパターンを聴く\nCメジャー・スケールは：\n\n**C D E F G A B C**\n\n並び方はこうです：\n- C -> D = 全音\n- D -> E = 全音\n- E -> F = 半音\n- F -> G = 全音\n- G -> A = 全音\n- A -> B = 全音\n- B -> C = 半音\n\n特に **E-F** と **B-C** の半音はよく意識しましょう。",
+          "pt-BR": "# Ouça o padrão em Dó maior\nA escala de Dó maior é:\n\n**C D E F G A B C**\n\nO padrão de passos é:\n- C -> D = tom\n- D -> E = tom\n- E -> F = semitom\n- F -> G = tom\n- G -> A = tom\n- A -> B = tom\n- B -> C = semitom\n\nVale a pena prestar atenção especial nos dois semitons: **E-F** e **B-C**.",
+          "es": "# Escucha el patrón en Do mayor\nLa escala de Do mayor es:\n\n**C D E F G A B C**\n\nSu patrón de pasos es:\n- C -> D = tono\n- D -> E = tono\n- E -> F = semitono\n- F -> G = tono\n- G -> A = tono\n- A -> B = tono\n- B -> C = semitono\n\nMerece la pena fijarse especialmente en los dos semitonos: **E-F** y **B-C**."
         }
       }
     },
@@ -44,12 +44,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Example: C major scale\nThe C major scale uses a specific pattern of whole and half steps.\n\nNotes: **C D E F G A B C**\n\nBetween these notes:\n- C → D = whole step\n- D → E = whole step\n- E → F = half step\n- F → G = whole step\n- G → A = whole step\n- A → B = whole step\n- B → C = half step",
-          "zh-Hans": "# 例子：C大调音阶\nC大调音阶使用特定的全音、半音排列模式。\n\n音：**C D E F G A B C**\n\n相邻音之间：\n- C → D = 全音\n- D → E = 全音\n- E → F = 半音\n- F → G = 全音\n- G → A = 全音\n- A → B = 全音\n- B → C = 半音",
-          "de": "# Beispiel: C-Dur-Tonleiter\nDie C-Dur-Tonleiter folgt einem bestimmten Muster aus Ganz- und Halbtönen.\n\nTöne: **C D E F G A B C**\n\nZwischen den Tönen:\n- C → D = Ganzton\n- D → E = Ganzton\n- E → F = Halbton\n- F → G = Ganzton\n- G → A = Ganzton\n- A → B = Ganzton\n- B → C = Halbton",
-          "ja": "# 例：Cメジャー・スケール\nCメジャー・スケールには、決まった全音と半音の並びがあります。\n\n音：**C D E F G A B C**\n\nそれぞれの間隔：\n- C → D = 全音\n- D → E = 全音\n- E → F = 半音\n- F → G = 全音\n- G → A = 全音\n- A → B = 全音\n- B → C = 半音",
-          "pt-BR": "# Exemplo: escala de Dó maior\nA escala de Dó maior usa um padrão específico de tons e semitons.\n\nNotas: **C D E F G A B C**\n\nEntre essas notas:\n- C → D = tom inteiro\n- D → E = tom inteiro\n- E → F = semitom\n- F → G = tom inteiro\n- G → A = tom inteiro\n- A → B = tom inteiro\n- B → C = semitom",
-          "es": "# Ejemplo: escala de Do mayor\nLa escala de Do mayor usa un patrón específico de tonos y semitonos.\n\nNotas: **C D E F G A B C**\n\nEntre estas notas:\n- C → D = tono\n- D → E = tono\n- E → F = semitono\n- F → G = tono\n- G → A = tono\n- A → B = tono\n- B → C = semitono"
+          "en": "# One-string experiment\nTry this on a single string so your ear can focus:\n\n1. Pick one string.\n2. Play a note.\n3. Move up one fret and hear the half step.\n4. Move up two frets and hear the whole step.\n5. Mix the two sizes of movement until you can feel the difference.\n\nThis is a great moment to listen, not just look.",
+          "zh-Hans": "# 单弦实验\n在一根弦上试试，这样耳朵会更专注：\n\n1. 选一根弦。\n2. 弹一个音。\n3. 上移 1 品，听半音。\n4. 上移 2 品，听全音。\n5. 把这两种移动混起来，直到你能明显感觉出差别。\n\n这是一个“多听、少看”的好时机。",
+          "de": "# Experiment auf einer Saite\nProbier das auf nur einer Saite, damit sich dein Ohr besser konzentrieren kann:\n\n1. Such dir eine Saite aus.\n2. Spiel einen Ton.\n3. Geh einen Bund höher und hör den Halbton.\n4. Geh zwei Bünde höher und hör den Ganzton.\n5. Misch beide Schrittgrößen, bis du den Unterschied wirklich fühlst.\n\nHier geht es ums Hören, nicht nur ums Hinschauen.",
+          "ja": "# 1本の弦で実験\n耳を集中させるために、1本の弦だけで試してみます：\n\n1. 弦を1本選ぶ。\n2. 1つ音を鳴らす。\n3. 1フレット上がって半音を聴く。\n4. 2フレット上がって全音を聴く。\n5. 2つの動きを混ぜて、違いをはっきり感じられるまで試す。\n\nここでは“見る”より“聴く”ことが大事です。",
+          "pt-BR": "# Experimento em uma corda\nFaça isso em uma só corda para o ouvido focar melhor:\n\n1. Escolha uma corda.\n2. Toque uma nota.\n3. Suba 1 traste e ouça o semitom.\n4. Suba 2 trastes e ouça o tom inteiro.\n5. Misture esses dois tamanhos de passo até sentir claramente a diferença.\n\nEste é um ótimo momento para ouvir, não apenas olhar.",
+          "es": "# Experimento en una cuerda\nHaz esto en una sola cuerda para que el oído se concentre mejor:\n\n1. Elige una cuerda.\n2. Toca una nota.\n3. Sube 1 traste y escucha el semitono.\n4. Sube 2 trastes y escucha el tono.\n5. Mezcla ambos tipos de movimiento hasta sentir bien la diferencia.\n\nAquí toca escuchar, no sólo mirar."
         }
       }
     },
@@ -57,12 +57,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Try this on your guitar\nPick one string (for example, the **5th string – A string**):\n\n1. Play the open string.\n2. Move up **two frets** (whole step).\n3. Then move **one fret** (half step).\n4. Keep going, mixing whole and half steps.\n\nYou’re already walking through a scale — one step at a time.",
-          "zh-Hans": "# 在吉他上试一试\n选一根弦（比如 **第5弦——A弦**）：\n\n1. 弹空弦。\n2. 向上走 **两个品格**（一个全音）。\n3. 再走 **一个品格**（一个半音）。\n4. 继续向上，混合全音和半音。\n\n这样你已经在“走”一条音阶了——一步一步往上。",
-          "de": "# Probiere es auf der Gitarre aus\nSuch dir eine Saite aus (zum Beispiel die **5. Saite – A-Saite**):\n\n1. Spiele die leere Saite.\n2. Gehe **zwei Bünde** nach oben (ein Ganzton).\n3. Dann **einen Bund** (ein Halbton).\n4. Mach weiter und mische Ganz- und Halbtöne.\n\nSo läufst du bereits eine Tonleiter entlang – Schritt für Schritt.",
-          "ja": "# ギターで試してみよう\n1本の弦を選びます（例：**5弦・A弦**）：\n\n1. 開放弦を弾く。\n2. **2フレット分**上がる（全音）。\n3. そのあと **1フレット** 上がる（半音）。\n4. 全音と半音を混ぜながら、さらにフレットを進んでみる。\n\nこれだけで、もう音階の上を“歩いている”ことになります。",
-          "pt-BR": "# Teste isso na sua guitarra\nEscolha uma corda (por exemplo, a **5ª corda – corda A**):\n\n1. Toque a corda solta.\n2. Suba **dois trastes** (um tom inteiro).\n3. Depois suba **um traste** (um semitom).\n4. Continue subindo, misturando tons e semitons.\n\nVocê já está caminhando por uma escala — um passo de cada vez.",
-          "es": "# Prueba esto en tu guitarra\nElige una cuerda (por ejemplo, la **5ª cuerda – cuerda A**):\n\n1. Toca la cuerda al aire.\n2. Sube **dos trastes** (un tono).\n3. Luego sube **un traste** (un semitono).\n4. Sigue subiendo, mezclando tonos y semitonos.\n\nYa estás recorriendo una escala, paso a paso."
+          "en": "# Tiny ear game\nPlay two nearby notes and ask yourself: did I move by **one fret** or **two**?\n\nYou do not have to answer instantly. The point is to connect your fingers, your eyes, and your ears.",
+          "zh-Hans": "# 小耳朵游戏\n弹两个相邻的音，然后问自己：我是移动了**1 品**还是**2 品**？\n\n不需要立刻答出来。重点是把手指、眼睛和耳朵连在一起。",
+          "de": "# Kleines Ohr-Spiel\nSpiel zwei nahe Töne und frag dich: Habe ich mich um **einen Bund** oder **zwei Bünde** bewegt?\n\nDu musst nicht sofort richtig antworten. Es geht darum, Finger, Augen und Ohren zu verbinden.",
+          "ja": "# 耳のミニゲーム\n近い2つの音を弾いて、「今は**1フレット**動いた？ それとも**2フレット**？」と自分に聞いてみましょう。\n\nすぐ答えられなくても大丈夫。指、目、耳をつなぐことが目的です。",
+          "pt-BR": "# Jogo rápido de ouvido\nToque duas notas próximas e pergunte a si mesmo: andei **1 traste** ou **2 trastes**?\n\nVocê não precisa acertar na hora. A ideia é conectar dedos, olhos e ouvidos.",
+          "es": "# Mini juego de oído\nToca dos notas cercanas y pregúntate: ¿me moví **1 traste** o **2 trastes**?\n\nNo hace falta responderlo al instante. La idea es conectar dedos, ojos y oído."
         }
       }
     },
@@ -70,12 +70,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "You don’t have to memorize everything right now.\n\nFor this lesson, the main idea is:\n- Scales are ordered notes.\n- They’re built from whole steps and half steps.\n\nWe’ll use this idea in the next lessons to build real shapes on the fretboard.",
-          "zh-Hans": "现在不需要把所有内容都背下来。\n\n这一课只要记住几点：\n- 音阶是有顺序的音。\n- 它们由全音和半音组成。\n\n在接下来的课程里，我们会用这个概念，在指板上画出真正的指型。",
-          "de": "Du musst dir jetzt noch nicht alles merken.\n\nFür diese Lektion reicht es, wenn du dir merkst:\n- Tonleitern sind geordnete Töne.\n- Sie werden aus Ganz- und Halbtönen gebaut.\n\nIn den nächsten Lektionen nutzen wir diese Idee, um echte Griffbilder auf dem Griffbrett aufzubauen.",
-          "ja": "今はすべてを丸暗記する必要はありません。\n\nこのレッスンで覚えておきたいポイントは：\n- スケールは並び順のある音の集まり。\n- その並びは、全音と半音の組み合わせでできている。\n\n次のレッスンでは、この考え方を使って、実際の指板上の形を作っていきます。",
-          "pt-BR": "Você não precisa decorar tudo agora.\n\nPara esta lição, o importante é:\n- Escalas são notas em uma certa ordem.\n- Elas são construídas com tons inteiros e semitons.\n\nNas próximas lições, vamos usar essa ideia para montar desenhos reais no braço da guitarra.",
-          "es": "No hace falta memorizar todo ahora mismo.\n\nEn esta lección, quédate con esto:\n- Las escalas son notas ordenadas.\n- Se construyen con tonos y semitonos.\n\nEn las próximas lecciones usaremos esta idea para formar dibujos reales en el diapasón."
+          "en": "# Main takeaway\nFor now, remember only this:\n\n- scales are notes in order\n- the order comes from whole and half steps\n- once you understand the step pattern, fretboard shapes make much more sense\n\nIn the next lessons, those abstract steps will turn into real guitar patterns you can actually play.",
+          "zh-Hans": "# 本课重点\n现在只要记住这三件事：\n\n- 音阶是按顺序排列的音\n- 这种顺序来自全音和半音\n- 一旦理解了步进规律，指板上的形状就会清楚很多\n\n接下来的课程里，这些抽象的“步子”会变成你真正能弹的吉他形状。",
+          "de": "# Wichtigste Idee\nFürs Erste reicht das:\n\n- Tonleitern sind geordnete Töne\n- diese Ordnung entsteht aus Ganz- und Halbtönen\n- wenn du das Schrittmuster verstehst, ergeben Griffbrettformen viel mehr Sinn\n\nIn den nächsten Lektionen werden diese abstrakten Schritte zu echten Gitarrenmustern, die du spielen kannst.",
+          "ja": "# このレッスンの要点\n今は次の3つだけ覚えてください：\n\n- スケールは順番に並んだ音\n- その並びは全音と半音でできている\n- このパターンが分かると、指板の形がずっと理解しやすくなる\n\n次のレッスンでは、この抽象的な“歩幅”が実際に弾ける形になります。",
+          "pt-BR": "# Ideia principal\nPor enquanto, basta guardar isto:\n\n- escalas são notas em ordem\n- essa ordem vem de tons e semitons\n- quando você entende o padrão de passos, os desenhos no braço fazem muito mais sentido\n\nNas próximas lições, esses passos abstratos vão virar padrões reais de guitarra que você pode tocar.",
+          "es": "# Idea principal\nPor ahora quédate con esto:\n\n- las escalas son notas ordenadas\n- ese orden viene de tonos y semitonos\n- cuando entiendes el patrón de pasos, las formas en el diapasón tienen mucho más sentido\n\nEn las próximas lecciones, esos pasos abstractos se convertirán en patrones reales de guitarra que sí puedes tocar."
         }
       }
     }

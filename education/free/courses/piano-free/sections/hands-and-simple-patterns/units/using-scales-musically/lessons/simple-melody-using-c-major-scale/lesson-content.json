@@ -5,12 +5,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Simple melody with the C major scale\nIn this lesson you’ll turn the **C major scale** into a **short, singable melody**.\n\nYou’ll only use **white keys** and notes you already know: C–D–E–F–G–A–B–C.",
-          "zh-Hans": "# 用C大调音阶写一个简单小旋律\n在本课中，你会把熟悉的 **C大调音阶** 变成一个**短小、好哼的小旋律**。\n\n只用你已经认识的白键：C–D–E–F–G–A–B–C。",
-          "de": "# Einfache Melodie mit der C-Dur-Tonleiter\nIn dieser Lektion machst du aus der **C-Dur-Tonleiter** eine **kurze, gut singbare Melodie**.\n\nDu verwendest nur **weiße Tasten** und Töne, die du schon kennst: C–D–E–F–G–A–B–C.",
-          "ja": "# Cメジャー・スケールで作るかんたんメロディ\nこのレッスンでは、**Cメジャー・スケール**を使って、**短くて口ずさみやすいメロディ**を作って弾いてみます。\n\n使うのは、もうおなじみの白鍵だけ：C–D–E–F–G–A–B–C。",
-          "pt-BR": "# Melodia simples usando a escala de Dó maior\nNesta lição você vai transformar a **escala de Dó maior** em uma **melodia curtinha e fácil de cantar**.\n\nVamos usar só as **teclas brancas** e notas que você já conhece: C–D–E–F–G–A–B–C.",
-          "es": "# Melodía sencilla con la escala de Do mayor\nEn esta lección vas a convertir la **escala de Do mayor** en una **melodía corta y fácil de cantar**.\n\nUsarás sólo **teclas blancas** y notas que ya conoces: C–D–E–F–G–A–B–C."
+          "en": "# Make a melody from C major\nA scale becomes much more exciting when it stops sounding like a ladder and starts sounding like a tune.\n\nIn this lesson you will turn the **C major scale** into a short melody.",
+          "zh-Hans": "# 用 C 大调做旋律\n当音阶不再像楼梯，而开始像一段旋律时，它会立刻变得更有趣。\n\n这一课你会把 **C 大调音阶**变成一个短小的旋律。",
+          "de": "# Mach eine Melodie aus C-Dur\nSobald eine Tonleiter nicht mehr wie eine Leiter, sondern wie eine kleine Melodie klingt, wird sie sofort spannender.\n\nIn dieser Lektion verwandelst du die **C-Dur-Tonleiter** in eine kurze Melodie.",
+          "ja": "# Cメジャーからメロディを作る\nスケールがただの階段ではなく、メロディのように聞こえ始めると、一気に面白くなります。\n\nこのレッスンでは **Cメジャー・スケール** を短いメロディに変えます。",
+          "pt-BR": "# Faça uma melodia com Dó maior\nQuando a escala deixa de soar como uma escada e começa a soar como uma melodia, tudo fica muito mais interessante.\n\nNesta lição você vai transformar a **escala de Dó maior** em uma melodia curta.",
+          "es": "# Haz una melodía con Do mayor\nCuando la escala deja de sonar como una escalera y empieza a sonar como una melodía, todo se vuelve mucho más interesante.\n\nEn esta lección vas a transformar la **escala de Do mayor** en una melodía corta."
         }
       }
     },
@@ -18,12 +18,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Hand and rhythm setup\n- Use your **right hand** and start on **middle C** with finger 1 (thumb)\n- Let fingers 2–3–4–5 rest on D–E–F–G\n- We’ll use **quarter notes and longer notes**\n- Count out loud: **“1–2–3–4”** for each bar\n\nPlay softly first so you can focus on the **shape** of the melody, not on speed.",
-          "zh-Hans": "# 手型和节奏准备\n- 用**右手**，从**中央C**开始，1指（大拇指）在C上\n- 2–3–4–5 指自然落在 D–E–F–G\n- 旋律里只用**四分音符和更长的音**\n- 每小节数拍：“**1–2–3–4**”\n\n一开始轻一点弹，把注意力放在旋律的**走向**上，而不是速度。",
-          "de": "# Hand- und Rhythmus-Setup\n- Spiele mit der **rechten Hand** und beginne auf dem **mittleren C** mit Finger 1 (Daumen)\n- Finger 2–3–4–5 liegen auf D–E–F–G\n- Wir benutzen **Viertelnoten und längere Noten**\n- Zähle laut: **„1–2–3–4“** pro Takt\n\nSpiel am Anfang leise, damit du dich auf die **Linie der Melodie** konzentrieren kannst, nicht auf das Tempo.",
-          "ja": "# 手の形とリズムの準備\n- **右手**を使い、**ミドルC**に1の指（親指）を置きます\n- 2・3・4・5の指は D・E・F・G の上に軽く乗せます\n- 使うのは**4分音符と、それより長い音**だけ\n- 1小節ごとに「**1・2・3・4**」と数えましょう\n\n最初は小さな音で弾いて、速さよりもメロディの**形・流れ**を意識します。",
-          "pt-BR": "# Mão e ritmo\n- Use a **mão direita** e comece no **Dó central** com o dedo 1 (polegar)\n- Deixe os dedos 2–3–4–5 em D–E–F–G\n- Vamos usar **semínimas e notas mais longas**\n- Conte em voz alta: **“1–2–3–4”** em cada compasso\n\nComece tocando de leve, prestando atenção principalmente no **desenho** da melodia, não na velocidade.",
-          "es": "# Mano y ritmo\n- Usa la **mano derecha** y empieza en el **Do central** con el dedo 1 (pulgar)\n- Coloca los dedos 2–3–4–5 en D–E–F–G\n- Usaremos **negras y notas más largas**\n- Cuenta en voz alta: **“1–2–3–4”** en cada compás\n\nEmpieza tocando suave, concentrándote en la **forma** de la melodía, no en la velocidad."
+          "en": "# Setup\nUse the right hand with thumb on **middle C**. Keep a gentle pulse of **1-2-3-4**.\n\nThe goal is not speed. The goal is to make the notes feel singable.",
+          "zh-Hans": "# 准备\n右手拇指放在**中央 C**。保持轻轻的 **1-2-3-4** 拍子。\n\n目标不是速度，而是让这些音听起来像可以唱出来。",
+          "de": "# Setup\nNimm die rechte Hand mit dem Daumen auf **mittlerem C**. Halte einen sanften Puls von **1-2-3-4**.\n\nZiel ist nicht Tempo, sondern dass die Töne singbar klingen.",
+          "ja": "# 準備\n右手の親指を**ミドルC**に置きます。やさしく **1-2-3-4** の拍を感じましょう。\n\n目標は速さではなく、音を“歌える”ようにすることです。",
+          "pt-BR": "# Preparação\nUse a mão direita com o polegar no **Dó central**. Mantenha um pulso leve de **1-2-3-4**.\n\nA meta não é velocidade, e sim fazer as notas soarem cantáveis.",
+          "es": "# Preparación\nUsa la mano derecha con el pulgar en el **Do central**. Mantén un pulso suave de **1-2-3-4**.\n\nLa meta no es la velocidad, sino que las notas suenen cantables."
         }
       }
     },
@@ -31,12 +31,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# A short C major melody\nHere’s a simple 4-bar melody using only C major notes:\n\n**Bar 1 (all quarter notes)**  \nC – D – E – G  \n(count: 1 – 2 – 3 – 4)\n\n**Bar 2**  \nG (half note, hold 1–2) – E (half note, hold 3–4)\n\n**Bar 3 (all quarter notes)**  \nD – C – D – E\n\n**Bar 4**  \nC (whole note, hold 1–2–3–4)\n\nPlay it slowly until it feels like a small “song” rather than just separate notes.",
-          "zh-Hans": "# 一个简单的C大调小旋律\n下面是一个只用 C 大调音的 4 小节简单旋律：\n\n**第1小节（全是四分音符）**  \nC – D – E – G  \n（数拍：1 – 2 – 3 – 4）\n\n**第2小节**  \nG（半音符，按住 1–2 拍）– E（半音符，按住 3–4 拍）\n\n**第3小节（全是四分音符）**  \nD – C – D – E\n\n**第4小节**  \nC（全音符，按住 1–2–3–4 拍）\n\n慢慢弹几遍，让它听起来更像一段“小歌曲”，而不是一串单独的音。",
-          "de": "# Eine kurze C-Dur-Melodie\nHier ist eine einfache 4-taktige Melodie nur mit C-Dur-Tönen:\n\n**Takt 1 (alles Viertelnoten)**  \nC – D – E – G  \n(Zählzeit: 1 – 2 – 3 – 4)\n\n**Takt 2**  \nG (Halbe, halten auf 1–2) – E (Halbe, halten auf 3–4)\n\n**Takt 3 (alles Viertelnoten)**  \nD – C – D – E\n\n**Takt 4**  \nC (Ganze, halten auf 1–2–3–4)\n\nSpiel so langsam, bis es sich wie ein kleines „Lied“ anfühlt – nicht nur wie einzelne Töne hintereinander.",
-          "ja": "# Cメジャーだけで作った短いメロディ\nCメジャーの音だけを使った、4小節のかんたんなメロディです：\n\n**1小節目（すべて4分音符）**  \nC – D – E – G  \n（カウント：1 – 2 – 3 – 4）\n\n**2小節目**  \nG（2分音符、1–2拍のあいだ伸ばす）– E（2分音符、3–4拍のあいだ伸ばす）\n\n**3小節目（すべて4分音符）**  \nD – C – D – E\n\n**4小節目**  \nC（全音符、1–2–3–4拍のあいだ伸ばす）\n\nゆっくりでかまわないので、何度かくり返して、「ただの音列」ではなく**1つの小さな歌**に聞こえるようにしてみましょう。",
-          "pt-BR": "# Uma pequena melodia em Dó maior\nAqui vai uma melodia simples de 4 compassos usando apenas notas de Dó maior:\n\n**Compasso 1 (todas semínimas)**  \nC – D – E – G  \n(contagem: 1 – 2 – 3 – 4)\n\n**Compasso 2**  \nG (mínima, segura nos tempos 1–2) – E (mínima, segura nos tempos 3–4)\n\n**Compasso 3 (todas semínimas)**  \nD – C – D – E\n\n**Compasso 4**  \nC (semibreve, segura nos tempos 1–2–3–4)\n\nToque bem devagar até que isso soe como uma pequena “música”, e não apenas notas soltas.",
-          "es": "# Una melodía corta en Do mayor\nAquí tienes una melodía sencilla de 4 compases usando sólo notas de Do mayor:\n\n**Compás 1 (todas negras)**  \nC – D – E – G  \n(cuenta: 1 – 2 – 3 – 4)\n\n**Compás 2**  \nG (blanca, mantén en 1–2) – E (blanca, mantén en 3–4)\n\n**Compás 3 (todas negras)**  \nD – C – D – E\n\n**Compás 4**  \nC (redonda, mantén en 1–2–3–4)\n\nTócala despacio varias veces hasta que se sienta como una pequeña “canción”, no sólo como notas sueltas."
+          "en": "# A simple 4-bar melody\nTry this:\n\n- Bar 1: C - D - E - G\n- Bar 2: G (hold) - E (hold)\n- Bar 3: D - C - D - E\n- Bar 4: C (hold)\n\nPlay it until it feels like one small musical sentence.",
+          "zh-Hans": "# 一个简单的 4 小节旋律\n试试这个：\n\n- 第1小节：C - D - E - G\n- 第2小节：G（保持）- E（保持）\n- 第3小节：D - C - D - E\n- 第4小节：C（保持）\n\n一直弹到它听起来像一句完整的小音乐。",
+          "de": "# Eine einfache 4-Takt-Melodie\nProbier das hier:\n\n- Takt 1: C - D - E - G\n- Takt 2: G (halten) - E (halten)\n- Takt 3: D - C - D - E\n- Takt 4: C (halten)\n\nSpiel es so lange, bis es wie ein kleiner zusammenhängender Satz klingt.",
+          "ja": "# シンプルな4小節メロディ\n次を試します：\n\n- 1小節目：C - D - E - G\n- 2小節目：G（伸ばす）- E（伸ばす）\n- 3小節目：D - C - D - E\n- 4小節目：C（伸ばす）\n\nひとつの小さな音楽の文に聞こえるまで弾いてみましょう。",
+          "pt-BR": "# Uma melodia simples de 4 compassos\nExperimente isto:\n\n- Compasso 1: C - D - E - G\n- Compasso 2: G (segura) - E (segura)\n- Compasso 3: D - C - D - E\n- Compasso 4: C (segura)\n\nToque até isso soar como uma pequena frase musical completa.",
+          "es": "# Una melodía sencilla de 4 compases\nPrueba esto:\n\n- Compás 1: C - D - E - G\n- Compás 2: G (mantén) - E (mantén)\n- Compás 3: D - C - D - E\n- Compás 4: C (mantén)\n\nTócalo hasta que suene como una pequeña frase musical completa."
         }
       }
     },
@@ -44,12 +44,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Make it musical\nTry these small changes to make the melody feel more expressive:\n\n- Play the first bar **a little softer**, and the second bar a bit **stronger**\n- In bar 4, **let the last C really ring** until the sound fades\n- Hum or sing along on “la, la, la” while you play\n\nYou’re still just on the C major scale, but now you’re telling a tiny musical story.",
-          "zh-Hans": "# 让旋律更“有音乐感”\n试试下面这些小变化，让旋律更有表情：\n\n- 第1小节稍微**轻一点**，第2小节可以**稍微用力一点**\n- 第4小节的最后一个 C，**尽量让它多响一会儿**，听它慢慢消失\n- 一边弹一边用“啦啦啦”轻轻哼旋律\n\n你依然只是在弹 C 大调音阶里的音，但现在已经是在讲一个小小的音乐故事了。",
-          "de": "# Mehr Musikalität hineinbringen\nMit ein paar Details wirkt die Melodie gleich lebendiger:\n\n- Spiele den ersten Takt **etwas leiser**, den zweiten Takt **etwas stärker**\n- Lass im 4. Takt das letzte C **wirklich lange klingen**, bis der Ton fast weg ist\n- Summe oder singe „la, la, la“ mit, während du spielst\n\nDu benutzt immer noch nur die C-Dur-Tonleiter, erzählst damit aber schon eine kleine musikalische Geschichte.",
-          "ja": "# メロディに表情をつける\n少し工夫すると、すぐに“音楽っぽさ”が増します：\n\n- 1小節目は**少し静かめ**に、2小節目は**ほんの少し強め**に弾いてみる\n- 4小節目の最後のCは、**音が消えそうになるまでしっかり伸ばす**\n- 弾きながら「ラ・ラ・ラ」と小さな声で一緒に歌ってみる\n\nやっていることは Cメジャー・スケールの音だけですが、それだけで**小さな物語**を語ることができます。",
-          "pt-BR": "# Deixando mais musical\nAlguns detalhes já deixam a melodia com mais cara de música de verdade:\n\n- Toque o 1º compasso **um pouco mais suave** e o 2º **um pouco mais forte**\n- No 4º compasso, **deixe o último Dó soar bastante**, até quase sumir\n- Experimente cantar ou cantarolar “lá, lá, lá” enquanto toca\n\nVocê continua só na escala de Dó maior, mas agora já está contando uma pequena história musical.",
-          "es": "# Haciéndola más musical\nCon unos pequeños detalles, la melodía se vuelve más expresiva:\n\n- Toca el primer compás **un poco más suave** y el segundo **un poco más fuerte**\n- En el compás 4, **deja que el último Do suene largo**, hasta que casi se apague\n- Prueba a tararear o cantar “la, la, la” mientras tocas\n\nSigues usando sólo la escala de Do mayor, pero ya estás contando una pequeña historia musical."
+          "en": "# Add expression\nNow make it more alive:\n\n- play bar 1 softly\n- let bar 2 sing a bit more\n- hold the final C all the way through bar 4\n- try humming along while you play\n\nDynamics and breathing space turn notes into music.",
+          "zh-Hans": "# 加一点表情\n现在让它更有生命：\n\n- 第1小节轻一点\n- 第2小节唱得更开一点\n- 第4小节把最后那个 C 真的保持住\n- 试着一边弹一边轻声哼\n\n强弱和呼吸感，会把音变成音乐。",
+          "de": "# Gib ihm Ausdruck\nJetzt mach die Melodie lebendiger:\n\n- spiel Takt 1 etwas leiser\n- lass Takt 2 etwas mehr singen\n- halte das letzte C in Takt 4 wirklich aus\n- summ leise mit, während du spielst\n\nDynamik und Atem machen aus Tönen Musik.",
+          "ja": "# 表情をつける\n次はもっと生きた感じにします：\n\n- 1小節目は少しやわらかく\n- 2小節目は少しよく歌うように\n- 4小節目の最後のCはしっかり伸ばす\n- 弾きながら軽くハミングする\n\n強弱と呼吸が、音を音楽に変えてくれます。",
+          "pt-BR": "# Coloque expressão\nAgora deixe a melodia mais viva:\n\n- toque o compasso 1 mais suave\n- faça o compasso 2 “cantar” mais\n- segure de verdade o último C no compasso 4\n- experimente cantarolar junto\n\nDinâmica e respiração transformam notas em música.",
+          "es": "# Ponle expresión\nAhora haz que la melodía cobre vida:\n\n- toca el compás 1 más suave\n- deja que el compás 2 cante más\n- mantén de verdad el último C del compás 4\n- prueba a tararear mientras tocas\n\nLa dinámica y la respiración convierten las notas en música."
         }
       }
     },
@@ -57,12 +57,12 @@
       "type": "text",
       "value": {
         "values": {
-          "en": "# Quick practice routine\n1. Play the melody **3 times slowly**, focusing on even rhythm.  \n2. Play it 2–3 more times, this time adding **dynamics** (soft then strong).  \n3. Finally, try to **change just one or two notes** but keep the same rhythm, and see if you like your new version.\n\nWhen changing notes feels natural, you’re already starting to **improvise** using the C major scale.",
-          "zh-Hans": "# 快速练习流程\n1. 先把这段旋律**慢速弹 3 遍**，重点是节奏平均。  \n2. 再弹 2–3 遍，这次加入**强弱变化**（先轻后稍强）。  \n3. 最后，试着只**改动一两颗音**，节奏不变，听听你是否喜欢这个“新版本”。\n\n当你开始自然地改动音高时，其实已经在用 C 大调音阶做**简单即兴**了。",
-          "de": "# Kurze Übe-Routine\n1. Spiele die Melodie **3-mal langsam**, mit Fokus auf gleichmäßigen Rhythmus.  \n2. Spiele sie noch 2–3-mal und füge jetzt **Dynamik** hinzu (erst leiser, dann etwas kräftiger).  \n3. Versuch zum Schluss, **ein oder zwei Töne zu verändern**, aber den Rhythmus gleich zu lassen – gefällt dir deine neue Version?\n\nWenn dir das Verändern der Töne natürlich vorkommt, beginnst du bereits, mit der C-Dur-Tonleiter zu **improvisieren**.",
-          "ja": "# かんたん練習ルーティン\n1. まずはこのメロディを**ゆっくり3回**弾き、リズムがそろっているかを意識します。  \n2. 次に2〜3回くり返し、今度は**強弱（ダイナミクス）**をつけて弾いてみます（最初は弱く、そのあと少し強め）。  \n3. 最後に、リズムはそのままで、**1〜2音だけ違う音に変えて**弾いてみてください。自分の“別バージョン”が気に入るか試してみましょう。\n\n音を少し変えるのが自然に感じられてきたら、もうすでにCメジャー・スケールで**かんたんな即興**を始めていることになります。",
-          "pt-BR": "# Rotina rápida de prática\n1. Toque a melodia **3 vezes bem devagar**, cuidando do ritmo certinho.  \n2. Toque mais 2–3 vezes, agora colocando **dinâmica** (primeiro suave, depois um pouco mais forte).  \n3. Por fim, tente **mudar só uma ou duas notas**, mantendo o mesmo ritmo, e veja se você gosta da sua nova versão.\n\nQuando trocar algumas notas começa a ficar natural, você já está dando os primeiros passos para **improvisar** usando a escala de Dó maior.",
-          "es": "# Rutina rápida de práctica\n1. Toca la melodía **3 veces muy despacio**, cuidando que el ritmo sea parejo.  \n2. Tócala 2–3 veces más, esta vez añadiendo **dinámica** (primero suave, luego un poco más fuerte).  \n3. Al final, intenta **cambiar sólo una o dos notas**, manteniendo el mismo ritmo, y mira si te gusta tu nueva versión.\n\nCuando cambiar algunas notas se sienta natural, ya estás empezando a **improvisar** usando la escala de Do mayor."
+          "en": "# Your version\nKeep the same rhythm, but change one or two notes.\n\nIf the new version still feels smooth and ends clearly on C, you have already started composing with the scale instead of just repeating it.",
+          "zh-Hans": "# 你的版本\n保持同样的节奏，只改一两个音。\n\n如果新版本依然顺耳、而且清楚地落在 C 上，那你就已经开始用音阶作曲，而不是只是在重复它。",
+          "de": "# Deine Version\nBehalte den Rhythmus und verändere nur ein oder zwei Töne.\n\nWenn die neue Version immer noch flüssig klingt und klar auf C endet, beginnst du bereits, mit der Skala zu komponieren statt sie nur zu wiederholen.",
+          "ja": "# あなたの版\nリズムはそのままで、音を1つか2つだけ変えてみましょう。\n\n新しい版でも自然に流れ、C にきれいに終わるなら、あなたはもうスケールをただ繰り返すのではなく、使って作り始めています。",
+          "pt-BR": "# Sua versão\nMantenha o mesmo ritmo e mude só uma ou duas notas.\n\nSe a nova versão continuar fluida e terminar claramente em C, você já começou a compor com a escala em vez de apenas repeti-la.",
+          "es": "# Tu versión\nMantén el mismo ritmo y cambia sólo una o dos notas.\n\nSi la nueva versión sigue fluyendo y termina con claridad en C, ya estás empezando a componer con la escala en lugar de sólo repetirla."
         }
       }
     }
