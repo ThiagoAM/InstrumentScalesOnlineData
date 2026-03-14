@@ -28,6 +28,14 @@ Every generated `lesson-content.json` must contain between `4` and `10` text blo
 
 Open Claw must treat this as a required depth rule, not a suggestion. Fewer than `4` blocks is too shallow. More than `10` blocks is too fragmented.
 
+If invalid lessons already exist in the tree because they violate the `4`-to-`10` block rule, prefer this cleanup command instead of removing them manually:
+
+```text
+node scripts/remove-invalid-lessons.js
+```
+
+Use that script when the job is to remove already-existing invalid lessons and keep `lessons.json`, lesson directories, and course `lessonIDs.json` in sync automatically.
+
 ## Non-negotiable workflow
 
 When creating a lesson, Open Claw must:
@@ -259,6 +267,31 @@ If `node scripts/create-lesson.js` fails, fix the underlying issue and rerun it.
 - the block separator is malformed and not exactly `<!-- block -->` on its own line
 
 Do not bypass these errors by switching to manual JSON edits unless there is a real repository-level reason the script cannot be used.
+
+## Cleanup invalid lessons
+
+When the repository already contains lessons that violate the `4`-to-`10` block rule, Open Claw should use:
+
+```text
+node scripts/remove-invalid-lessons.js
+```
+
+Optional form:
+
+```text
+node scripts/remove-invalid-lessons.js --root /absolute/path/to/v1/education
+```
+
+What the cleanup script does:
+
+1. Finds lessons whose `lesson-content.json.blocks` is missing, not an array, or outside the `4`-to-`10` range.
+2. Removes those lessons from the owning unit `lessons.json`.
+3. Renumbers the remaining lesson `order` values if needed.
+4. Regenerates the affected course `lessonIDs.json`.
+5. Deletes the invalid lesson directories.
+6. Validates the resulting education tree.
+
+When removing invalid lessons for this specific rule, prefer the cleanup script over manual JSON and filesystem edits.
 
 ## What files the script writes
 
