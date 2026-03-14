@@ -1,0 +1,21 @@
+{
+  "id": "rhythmic-variations-for-scale-practice",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Rhythmic Variations for Scale Practice\nUse a metronome and cycle through quarter notes, triplets, and rests so the groove stays alive. Accent different beats to train your ear while your fingers memorize the shapes. Mix syncopated sticking with short rests so the exercise feels musical instead of mechanical.",
+          "pt-BR": "# Variações rítmicas para prática de escalas\nUse um metrônomo e intercale colcheias, tercinas e pausas para manter o groove vivo. Acentue batidas diferentes para treinar o ouvido enquanto os dedos decoram as formas. Misture toques sincopados com descansos curtos para que o exercício soe musical e não mecânico.",
+          "es": "# Variaciones rítmicas para practicar escalas\nUsa un metrónomo y alterna corcheas, ternas y silencios para que el groove siga presente. Acentúa distintos tiempos para entrenar el oído mientras los dedos memorizan las formas. Combina golpes sincopados con descansos breves para que el ejercicio suene musical en lugar de mecánico.",
+          "de": "# Rhythmische Variationen für Skalenübungen\nNutze ein Metronom und wechsle zwischen Vierteln, Triolets und Pausen, damit der Groove lebendig bleibt. Setze Akzente auf verschiedene Schläge, um das Ohr zu schulen, während die Finger die Formen verinnerlichen. Kombiniere synkopierte Muster mit kurzen Ruhephasen, damit die Übung musikalisch statt mechanisch klingt.",
+          "ja": "# スケール練習のためのリズムバリエーション\nメトロノームを使い、四分音符、三連符、休符を交互に弾いてグルーブを保ちましょう。異なる拍にアクセントを置いて、耳が拍を追いながら指が形を覚えるようにします。シンコペーションと短い休みを組み合わせて、練習が音楽的で自然に聞こえるようにします。",
+          "zh-Hans": "# 音阶练习的节奏变化\n用节拍器交替演奏四分音符、三连音和休止符，让律动一直在线。强调不同的拍子，让耳朵关注节奏、手指记住型。把切分音和短暂的停顿结合起来，让练习听起来更像音乐而不是机械动作。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-14T06:45:40Z",
+  "updatedAt": "2026-03-14T06:45:40Z"
+}

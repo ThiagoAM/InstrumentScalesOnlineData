@@ -1,0 +1,21 @@
+{
+  "id": "chord-tone-skeletons-within-scale-patterns",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Chord-Tone Skeletons within Scale Patterns\nChoose a scale shape and lean on the root, third, and fifth every few notes so the harmony stays clear. Hear how these tones keep things anchored even when you add passing notes. Move through multiple positions so the skeleton feels tidy in every area of the neck.",
+          "pt-BR": "# Esqueletos de notas de acorde dentro de padrões de escala\nEscolha um padrão de escala e priorize a tônica, a terça e a quinta a cada poucos sons para manter a harmonia clara. Perceba como esses tons mantêm tudo ancorado mesmo quando você insere notas de passagem. Percorra várias posições para que o esqueleto soe organizado em todas as áreas do braço.",
+          "es": "# Esqueletos de tonos de acorde dentro de patrones de escala\nElige una forma de escala y apóyate en la tónica, tercera y quinta cada pocos sonidos para que la armonía se mantenga clara. Siente cómo esos tonos sujetan el lugar incluso cuando metes notas de paso. Recorre varias posiciones para que el esqueleto suene ordenado en todo el diapasón.",
+          "de": "# Akkordton-Skelette innerhalb von Skalenmustern\nWähle eine Skalenform und betone alle paar Töne Grundton, Terz und Quinte, damit die Harmonie klar bleibt. Höre, wie diese Töne alles stabil halten, selbst wenn du Durchgangstöne einschiebst. Wechsle mehrere Positionen durch, damit das Skelett überall auf dem Griffbrett ordentlich klingt.",
+          "ja": "# スケールパターン内のコードトーンスケルトン\nスケールの形を選び、数音ごとにルート、3度、5度を強調して和声を明瞭に保ちます。これらの音が通過音を挟んでも土台を保つのを耳で確認しましょう。複数のポジションを行き来して、どこでも骨格が整って聞こえるようにします。",
+          "zh-Hans": "# 音阶模式中的和弦音骨架\n挑选一个音阶形状，每隔几音强调根音、三度和五度，让和声保持清晰。注意这些音即使穿插经过音也能支撑住听感。穿越多个位置，让骨架在指板每一段都听起来稳当。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-14T06:45:40Z",
+  "updatedAt": "2026-03-14T06:45:40Z"
+}

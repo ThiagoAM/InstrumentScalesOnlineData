@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "targeting-guide-tones-with-scale-patterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Targeting Guide Tones with Scale Patterns",
+        "pt-BR": "Mirando as notas guia com padrões de escala",
+        "es": "Apuntar a las notas guía con patrones de escala",
+        "de": "Leitton-Ziele mit Skalenmustern",
+        "ja": "スケールパターンでガイドトーンを狙う",
+        "zh-Hans": "用音阶模式锁定引导音"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Aim for the chord’s third and seventh while running scales so the harmony stays focused.",
+        "pt-BR": "Mire as terceiras e sétimas do acorde ao tocar escalas para manter a harmonia centrada.",
+        "es": "Apunta a las terceras y séptimas del acorde mientras tocas escalas para mantener la armonía enfocada.",
+        "de": "Ziele beim Skalierspiel auf die Terzen und Septimen des Akkords, damit die Harmonie im Fokus bleibt.",
+        "ja": "スケールを弾きながらコードの3度と7度を狙って、和声の焦点を保ちます。",
+        "zh-Hans": "弹音阶时瞄准和弦的三度和七度，让和声始终聚焦。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-14T06:45:40Z",
+    "updatedAt": "2026-03-14T06:45:40Z"
   }
 ]
