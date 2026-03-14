@@ -156,6 +156,76 @@ When adding content, keep the tree and the parent indexes in sync:
 
 When editing localized content, update **every existing locale** in that payload, not just `en`. In `education`, lesson and catalog text is expected to stay aligned across `en`, `pt-BR`, `es`, `de`, `ja`, and `zh-Hans` unless there is an explicit product decision to ship an incomplete translation.
 
+## Create a lesson
+
+This repository now includes an interactive lesson creator:
+
+```text
+node scripts/create-lesson.js
+```
+
+The wizard lets you choose the tier, course, section, and unit from the existing tree, then asks for:
+
+- the new lesson slug
+- insert position inside the unit
+- lesson level
+- lesson difficulty
+
+By default, it creates six locale markdown templates in a temporary directory outside `v1/education`, waits for you to fill them, then imports them into:
+
+- the target unit `lessons.json`
+- `lessons/<lesson-id>/lesson-content.json`
+- the course `lessonIDs.json`
+
+The script also renumbers `order` values when needed and runs the education validator automatically after writing.
+
+### Reuse an existing markdown directory
+
+If you already prepared the locale markdown files, you can skip template generation:
+
+```text
+node scripts/create-lesson.js --markdown-dir /absolute/path/to/lesson-markdown
+```
+
+You can also point the creator at another education tree for testing:
+
+```text
+node scripts/create-lesson.js --root /absolute/path/to/v1/education
+```
+
+### Markdown template format
+
+The creator expects exactly these files in the markdown directory:
+
+- `en.md`
+- `pt-BR.md`
+- `es.md`
+- `de.md`
+- `ja.md`
+- `zh-Hans.md`
+
+Each file must use this structure:
+
+```text
+---
+name: Localized lesson name
+description: Localized short description
+---
+First localized text block.
+
+<!-- block -->
+
+Second localized text block.
+```
+
+Rules:
+
+- `name` and `description` are required and must be non-empty.
+- Every locale file must exist.
+- Every locale file must contain the same number of blocks.
+- Use `<!-- block -->` on its own line to separate blocks.
+- The script stops before writing any repo files if the markdown input is incomplete or malformed.
+
 ## Validate `v1/education`
 
 This repository now includes a cross-platform validator at `scripts/validate-education.js`. It checks the full `v1/education` tree, including:

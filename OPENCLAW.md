@@ -189,6 +189,8 @@ In that unit, Open Claw must update:
 2. `lessons/<new-lesson-id>/lesson-content.json`
 3. the course-level `lessonIDs.json`
 
+For local authoring, prefer `node scripts/create-lesson.js` when the goal is to add a lesson to an existing unit. The script scaffolds the lesson path, updates `lessons.json`, regenerates `lessonIDs.json`, and runs validation automatically. The structural rules below still apply, especially for IDs, locale coverage, timestamps, and path layout.
+
 ## Step 1: Choose the exact path
 
 The lesson path must be:

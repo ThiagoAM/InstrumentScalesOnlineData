@@ -2,12 +2,14 @@
 
 const fs = require("node:fs");
 const path = require("node:path");
-
-const REQUIRED_LOCALES = ["en", "pt-BR", "es", "de", "ja", "zh-Hans"];
-const REQUIRED_LOCALE_KEY = [...REQUIRED_LOCALES].sort().join("|");
-const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
-const ISO_UTC_PATTERN = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/;
-const EXPECTED_TIERS = ["free", "max"];
+const {
+  REQUIRED_LOCALES,
+  REQUIRED_LOCALE_KEY,
+  SLUG_PATTERN,
+  ISO_UTC_PATTERN,
+  EXPECTED_TIERS,
+  defaultEducationRoot,
+} = require("./education-utils");
 
 function addError(errors, filePath, message) {
   errors.push({ path: filePath, message });
@@ -681,7 +683,7 @@ function validateCourseTree(rootDir, tierName, course, errors, counts) {
   validateLessonIdsFile(path.join(courseDir, "lessonIDs.json"), lessonIds, errors);
 }
 
-function validateEducation(rootDir = path.join(__dirname, "..", "v1", "education")) {
+function validateEducation(rootDir = defaultEducationRoot()) {
   const resolvedRoot = path.resolve(rootDir);
   const errors = [];
   const counts = {
@@ -753,7 +755,7 @@ function formatSuccess(result) {
 }
 
 function main(argv = process.argv.slice(2)) {
-  const rootDir = argv[0] || path.join(__dirname, "..", "v1", "education");
+  const rootDir = argv[0] || defaultEducationRoot();
   const result = validateEducation(rootDir);
 
   if (!result.valid) {
