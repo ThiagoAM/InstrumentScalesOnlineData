@@ -156,6 +156,88 @@ When adding content, keep the tree and the parent indexes in sync:
 
 When editing localized content, update **every existing locale** in that payload, not just `en`. In `education`, lesson and catalog text is expected to stay aligned across `en`, `pt-BR`, `es`, `de`, `ja`, and `zh-Hans` unless there is an explicit product decision to ship an incomplete translation.
 
+## Validate `v1/education`
+
+This repository now includes a cross-platform validator at `scripts/validate-education.js`. It checks the full `v1/education` tree, including:
+
+- JSON parsing and required file presence
+- `id` and directory-name alignment
+- slug format for IDs, lesson levels, and lesson difficulties
+- `order` sequences in `courses.json`, `sections.json`, `units.json`, and `lessons.json`
+- required locale coverage for localized text fields
+- `createdAt` and `updatedAt` timestamp format and ordering
+- `lessonIDs.json` correctness against the generated lesson paths
+- unexpected files or directories inside `v1/education` such as `.DS_Store`
+
+### Prerequisite
+
+Install Node.js so the `node` command is available in your terminal:
+
+```text
+node --version
+```
+
+The validator uses only the Node.js standard library, so there is nothing else to install.
+
+### Run the validator
+
+From the repository root, run:
+
+```text
+node scripts/validate-education.js
+```
+
+That validates the default path:
+
+```text
+v1/education
+```
+
+You can also pass a custom path explicitly:
+
+```text
+node scripts/validate-education.js v1/education
+```
+
+Or use an absolute path if you want to validate a copied dataset somewhere else:
+
+```text
+node scripts/validate-education.js /absolute/path/to/v1/education
+```
+
+These commands work the same way on Windows, Linux, and macOS as long as Node.js is installed.
+
+### Understand the result
+
+- Exit code `0`: validation passed
+- Exit code `1`: validation failed
+
+When validation passes, the script prints a short summary with the number of tiers, courses, sections, units, and lessons it checked.
+
+When validation fails, the script prints grouped errors by path, followed by a total error count. Fix every reported issue before committing.
+
+### When to run it
+
+Run the validator before committing any newly added or edited education content, especially if you changed:
+
+- `courses.json`
+- `sections.json`
+- `units.json`
+- `lessons.json`
+- `lesson-content.json`
+- `lessonIDs.json`
+- directory names anywhere under `v1/education`
+
+Because the validator is strict about filesystem shape, unexpected files under `v1/education` are treated as errors. That includes OS metadata files such as `.DS_Store`.
+
+### Run the automated tests
+
+The validator also has a Node built-in test suite. Run it from the repository root with:
+
+```text
+node --test tests/validate-education.test.js
+```
+
 ## Maintenance notes
 
 - There is no build step in this repo; correctness comes from the file layout and valid JSON.
