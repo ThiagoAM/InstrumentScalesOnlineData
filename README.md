@@ -222,9 +222,28 @@ Rules:
 
 - `name` and `description` are required and must be non-empty.
 - Every locale file must exist.
+- Every locale file must contain between `4` and `10` blocks.
 - Every locale file must contain the same number of blocks.
 - Use `<!-- block -->` on its own line to separate blocks.
 - The script stops before writing any repo files if the markdown input is incomplete or malformed.
+
+## Remove invalid lessons
+
+This repository also includes a cleanup script for lessons that violate the `4`-to-`10` block rule:
+
+```text
+node scripts/remove-invalid-lessons.js
+```
+
+By default, it scans `v1/education`, removes lessons whose `lesson-content.json.blocks` is missing, not an array, or outside the `4`-to-`10` range, rewrites the affected unit `lessons.json` files, regenerates the affected course `lessonIDs.json` files, and deletes the lesson directories.
+
+To run it against another education tree:
+
+```text
+node scripts/remove-invalid-lessons.js --root /absolute/path/to/v1/education
+```
+
+Use this script when block-count-invalid lessons already exist in the tree and you want a consistent cleanup pass without manually editing `lessons.json`, `lessonIDs.json`, and lesson directories by hand.
 
 ## Validate `v1/education`
 

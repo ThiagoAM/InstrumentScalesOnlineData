@@ -9,6 +9,8 @@ const {
   REQUIRED_LOCALES,
   LEVEL_OPTIONS,
   DIFFICULTY_OPTIONS,
+  MIN_LESSON_BLOCKS,
+  MAX_LESSON_BLOCKS,
   SLUG_PATTERN,
   defaultEducationRoot,
   isPlainObject,
@@ -35,8 +37,6 @@ const {
 
 const BLOCK_DELIMITER = "<!-- block -->";
 const TEMPLATE_PREFIX = "lesson-markdown-";
-const MIN_LESSON_BLOCKS = 4;
-const MAX_LESSON_BLOCKS = 10;
 
 class CreateLessonError extends Error {}
 

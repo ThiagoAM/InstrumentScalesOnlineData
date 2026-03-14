@@ -6,6 +6,8 @@ const REQUIRED_LOCALE_KEY = [...REQUIRED_LOCALES].sort().join("|");
 const EXPECTED_TIERS = ["free", "max"];
 const LEVEL_OPTIONS = ["beginner", "intermediate"];
 const DIFFICULTY_OPTIONS = ["easy", "medium"];
+const MIN_LESSON_BLOCKS = 4;
+const MAX_LESSON_BLOCKS = 10;
 const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const ISO_UTC_PATTERN = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/;
 
@@ -134,6 +136,8 @@ module.exports = {
   EXPECTED_TIERS,
   LEVEL_OPTIONS,
   DIFFICULTY_OPTIONS,
+  MIN_LESSON_BLOCKS,
+  MAX_LESSON_BLOCKS,
   SLUG_PATTERN,
   ISO_UTC_PATTERN,
   defaultEducationRoot,
