@@ -163,3 +163,4 @@ When editing localized content, update **every existing locale** in that payload
 - Static hosting must preserve the current path structure.
 - App clients should always fetch through the versioned base path, for example `/v1/education/...` instead of `/education/...`.
 - A root `.gitignore` now ignores `.DS_Store` and common editor junk so Finder metadata does not get committed again.
+- Open Claw bot is free to add new lessons, but must follow all the rules
