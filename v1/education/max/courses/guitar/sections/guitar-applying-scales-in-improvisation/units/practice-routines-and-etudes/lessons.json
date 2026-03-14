@@ -110,33 +110,5 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
-  },
-  {
-    "id": "rhythmic-displacement-etude",
-    "level": "intermediate",
-    "difficulty": "medium",
-    "name": {
-      "values": {
-        "en": "Rhythmic Displacement Etude",
-        "zh-Hans": "节奏错位练习曲",
-        "de": "Rhythmusverschiebungs-Étude",
-        "ja": "リズム・ディスプレイスメント・エチュード",
-        "pt-BR": "Etude de Deslocamento Rítmico",
-        "es": "Estudio de desplazamiento rítmico"
-      }
-    },
-    "description": {
-      "values": {
-        "en": "Shift short phrases by different beats to hear how rhythm reshapes scale material.",
-        "zh-Hans": "将短句在不同拍子上错位，感受节奏如何重新塑造音阶素材。",
-        "de": "Verschiebe kurze Phrasen über verschiedene Schläge, um zu hören, wie Rhythmus das Skalenmaterial verändert.",
-        "ja": "短いフレーズをさまざまな拍にずらし、リズムがスケールの素材をどう変えるかを聴いてみましょう。",
-        "pt-BR": "Desloque frases curtas por diferentes batidas para ouvir como o ritmo reformula o material da escala.",
-        "es": "Desplaza frases cortas por distintos golpes para escuchar cómo el ritmo rehace el material de escala."
-      }
-    },
-    "order": 5,
-    "createdAt": "2026-03-14T05:30:00Z",
-    "updatedAt": "2026-03-14T05:30:00Z"
   }
 ]

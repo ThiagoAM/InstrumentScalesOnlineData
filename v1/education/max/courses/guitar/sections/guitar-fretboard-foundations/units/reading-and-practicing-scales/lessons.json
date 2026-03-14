@@ -82,33 +82,5 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
-  },
-  {
-    "id": "rhythmic-variations-for-scale-practice",
-    "level": "intermediate",
-    "difficulty": "medium",
-    "name": {
-      "values": {
-        "en": "Rhythmic Variations for Scale Practice",
-        "pt-BR": "Variações rítmicas para prática de escalas",
-        "es": "Variaciones rítmicas para practicar escalas",
-        "de": "Rhythmische Variationen für Skalenübungen",
-        "ja": "スケール練習のためのリズムバリエーション",
-        "zh-Hans": "音阶练习的节奏变化"
-      }
-    },
-    "description": {
-      "values": {
-        "en": "Shift accents and subdivisions to keep your scale practice grooving.",
-        "pt-BR": "Mude acentos e subdivisões para manter o groove durante a prática de escalas.",
-        "es": "Cambia acentos y subdivisiones para que tu práctica de escalas mantenga el groove.",
-        "de": "Variiere Akzente und Unterteilungen, damit deine Skalenübung im Groove bleibt.",
-        "ja": "アクセントと細かい刻みを変えて、スケール練習のグルーブを保ちましょう。",
-        "zh-Hans": "通过改变重音和细分，让音阶练习保持律动感。"
-      }
-    },
-    "order": 4,
-    "createdAt": "2026-03-14T06:45:40Z",
-    "updatedAt": "2026-03-14T06:45:40Z"
   }
 ]

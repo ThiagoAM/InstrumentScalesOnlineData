@@ -35,6 +35,8 @@ const {
 
 const BLOCK_DELIMITER = "<!-- block -->";
 const TEMPLATE_PREFIX = "lesson-markdown-";
+const MIN_LESSON_BLOCKS = 4;
+const MAX_LESSON_BLOCKS = 10;
 
 class CreateLessonError extends Error {}
 
@@ -302,6 +304,14 @@ function parseLocaleMarkdownFile(filePath) {
   };
 }
 
+function assertLessonBlockCount(blockCount, label) {
+  if (blockCount < MIN_LESSON_BLOCKS || blockCount > MAX_LESSON_BLOCKS) {
+    throw new CreateLessonError(
+      `${label} must contain between ${MIN_LESSON_BLOCKS} and ${MAX_LESSON_BLOCKS} blocks.`
+    );
+  }
+}
+
 function parseMarkdownDirectory(markdownDir) {
   const localizedFiles = {};
 
@@ -310,6 +320,7 @@ function parseMarkdownDirectory(markdownDir) {
   }
 
   const expectedBlockCount = localizedFiles[REQUIRED_LOCALES[0]].blocks.length;
+  assertLessonBlockCount(expectedBlockCount, "Localized lesson content");
 
   for (const locale of REQUIRED_LOCALES.slice(1)) {
     if (localizedFiles[locale].blocks.length !== expectedBlockCount) {
@@ -376,6 +387,8 @@ function assertLocalizedContent(localizedContent) {
   if (localizedContent.blocks.length === 0) {
     throw new CreateLessonError("Localized lesson content must contain at least one block.");
   }
+
+  assertLessonBlockCount(localizedContent.blocks.length, "Localized lesson content");
 
   localizedContent.blocks.forEach((block, index) => {
     if (!isPlainObject(block) || block.type !== "text" || !isPlainObject(block.value)) {
@@ -640,7 +653,9 @@ async function runCli(argv = process.argv.slice(2), io = {}) {
       generateLocaleMarkdownTemplates(markdownDir);
       output.write(`\nCreated locale templates in: ${markdownDir}\n`);
       output.write(`Fill ${REQUIRED_LOCALES.join(", ")} markdown files before continuing.\n`);
-      output.write(`Each file must use front matter for name/description and "${BLOCK_DELIMITER}" between blocks.\n`);
+      output.write(
+        `Each file must use front matter for name/description and "${BLOCK_DELIMITER}" between 4 and 10 blocks.\n`
+      );
       await ask("Press Enter when the markdown files are ready: ");
     }
 
@@ -686,6 +701,8 @@ if (require.main === module) {
 module.exports = {
   BLOCK_DELIMITER,
   CreateLessonError,
+  MAX_LESSON_BLOCKS,
+  MIN_LESSON_BLOCKS,
   createLesson,
   generateLocaleMarkdownTemplates,
   parseCliArgs,

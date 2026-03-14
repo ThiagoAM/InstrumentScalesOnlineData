@@ -6,6 +6,8 @@ const path = require("node:path");
 
 const {
   CreateLessonError,
+  MAX_LESSON_BLOCKS,
+  MIN_LESSON_BLOCKS,
   createLesson,
   parseMarkdownDirectory,
   runCli,
@@ -88,6 +90,14 @@ function lessonContent(id) {
       {
         type: "text",
         value: localized(`${id} block 2`),
+      },
+      {
+        type: "text",
+        value: localized(`${id} block 3`),
+      },
+      {
+        type: "text",
+        value: localized(`${id} block 4`),
       },
     ],
     tests: [],
@@ -219,7 +229,12 @@ function writeMarkdownDir(rootDir, options = {}) {
   const markdownDir = fs.mkdtempSync(path.join(os.tmpdir(), "lesson-markdown-fixture-"));
 
   for (const locale of LOCALES) {
-    const blocks = options.blocks || [`First block (${locale})`, `Second block (${locale})`];
+    const blocks = options.blocks || [
+      `First block (${locale})`,
+      `Second block (${locale})`,
+      `Third block (${locale})`,
+      `Fourth block (${locale})`,
+    ];
     const body = blocks.join("\n\n<!-- block -->\n\n");
     const content = [
       "---",
@@ -233,6 +248,10 @@ function writeMarkdownDir(rootDir, options = {}) {
   }
 
   return markdownDir;
+}
+
+function makeMarkdownBlocks(count, locale) {
+  return Array.from({ length: count }, (_, index) => `Block ${index + 1} (${locale})`);
 }
 
 function createPromptApi(answers) {
@@ -321,7 +340,7 @@ test("runCli creates a lesson at the default append position", async () => {
       "utf8"
     )
   );
-  assert.equal(lessonContentJson.blocks.length, 2);
+  assert.equal(lessonContentJson.blocks.length, MIN_LESSON_BLOCKS);
   assert.equal(lessonContentJson.blocks[0].value.values.de, "First block (de)");
 
   const validationResult = validateEducation(rootDir);
@@ -474,6 +493,223 @@ test("runCli fails before repo mutation on malformed block delimiter", async () 
   );
 
   assert.equal(fs.readFileSync(lessonsPath, "utf8"), before);
+});
+
+test("runCli creates a lesson when markdown produces exactly the minimum block count", async () => {
+  const rootDir = makeTempDir();
+  buildFixture(rootDir);
+  const markdownDir = writeMarkdownDir(rootDir, {
+    blocks: makeMarkdownBlocks(MIN_LESSON_BLOCKS, "en"),
+  });
+  const output = createOutputBuffer();
+
+  for (const locale of LOCALES) {
+    const body = makeMarkdownBlocks(MIN_LESSON_BLOCKS, locale).join("\n\n<!-- block -->\n\n");
+    writeText(
+      path.join(markdownDir, `${locale}.md`),
+      [
+        "---",
+        `name: Lesson name ${locale}`,
+        `description: Lesson description ${locale}`,
+        "---",
+        body,
+        "",
+      ].join("\n")
+    );
+  }
+
+  await runCli(["--root", rootDir, "--markdown-dir", markdownDir], {
+    output: output.stream,
+    promptApi: createPromptApi(["2", "1", "1", "1", "minimum-block-lesson", "", "1", "1"]),
+  });
+
+  const lessonContentJson = JSON.parse(
+    fs.readFileSync(
+      path.join(
+        rootDir,
+        "max",
+        "courses",
+        "guitar",
+        "sections",
+        "max-section",
+        "units",
+        "target-unit",
+        "lessons",
+        "minimum-block-lesson",
+        "lesson-content.json"
+      ),
+      "utf8"
+    )
+  );
+  assert.equal(lessonContentJson.blocks.length, MIN_LESSON_BLOCKS);
+});
+
+test("runCli creates a lesson when markdown produces exactly the maximum block count", async () => {
+  const rootDir = makeTempDir();
+  buildFixture(rootDir);
+  const markdownDir = writeMarkdownDir(rootDir);
+
+  for (const locale of LOCALES) {
+    const body = makeMarkdownBlocks(MAX_LESSON_BLOCKS, locale).join("\n\n<!-- block -->\n\n");
+    writeText(
+      path.join(markdownDir, `${locale}.md`),
+      [
+        "---",
+        `name: Lesson name ${locale}`,
+        `description: Lesson description ${locale}`,
+        "---",
+        body,
+        "",
+      ].join("\n")
+    );
+  }
+
+  await runCli(["--root", rootDir, "--markdown-dir", markdownDir], {
+    output: createOutputBuffer().stream,
+    promptApi: createPromptApi(["2", "1", "1", "1", "maximum-block-lesson", "", "1", "1"]),
+  });
+
+  const lessonContentJson = JSON.parse(
+    fs.readFileSync(
+      path.join(
+        rootDir,
+        "max",
+        "courses",
+        "guitar",
+        "sections",
+        "max-section",
+        "units",
+        "target-unit",
+        "lessons",
+        "maximum-block-lesson",
+        "lesson-content.json"
+      ),
+      "utf8"
+    )
+  );
+  assert.equal(lessonContentJson.blocks.length, MAX_LESSON_BLOCKS);
+});
+
+test("runCli fails before repo mutation when markdown produces fewer than the minimum block count", async () => {
+  const rootDir = makeTempDir();
+  buildFixture(rootDir);
+  const markdownDir = writeMarkdownDir(rootDir);
+  const lessonsPath = path.join(
+    rootDir,
+    "max",
+    "courses",
+    "guitar",
+    "sections",
+    "max-section",
+    "units",
+    "target-unit",
+    "lessons.json"
+  );
+  const before = fs.readFileSync(lessonsPath, "utf8");
+
+  for (const locale of LOCALES) {
+    const body = makeMarkdownBlocks(MIN_LESSON_BLOCKS - 1, locale).join("\n\n<!-- block -->\n\n");
+    writeText(
+      path.join(markdownDir, `${locale}.md`),
+      [
+        "---",
+        `name: Lesson name ${locale}`,
+        `description: Lesson description ${locale}`,
+        "---",
+        body,
+        "",
+      ].join("\n")
+    );
+  }
+
+  await assert.rejects(
+    () =>
+      runCli(["--root", rootDir, "--markdown-dir", markdownDir], {
+        output: createOutputBuffer().stream,
+        promptApi: createPromptApi(["2", "1", "1", "1", "too-short-lesson", "", "1", "1"]),
+      }),
+    /between 4 and 10 blocks/
+  );
+
+  assert.equal(fs.readFileSync(lessonsPath, "utf8"), before);
+  assert.equal(
+    fs.existsSync(
+      path.join(
+        rootDir,
+        "max",
+        "courses",
+        "guitar",
+        "sections",
+        "max-section",
+        "units",
+        "target-unit",
+        "lessons",
+        "too-short-lesson"
+      )
+    ),
+    false
+  );
+});
+
+test("runCli fails before repo mutation when markdown produces more than the maximum block count", async () => {
+  const rootDir = makeTempDir();
+  buildFixture(rootDir);
+  const markdownDir = writeMarkdownDir(rootDir);
+  const lessonsPath = path.join(
+    rootDir,
+    "max",
+    "courses",
+    "guitar",
+    "sections",
+    "max-section",
+    "units",
+    "target-unit",
+    "lessons.json"
+  );
+  const before = fs.readFileSync(lessonsPath, "utf8");
+
+  for (const locale of LOCALES) {
+    const body = makeMarkdownBlocks(MAX_LESSON_BLOCKS + 1, locale).join("\n\n<!-- block -->\n\n");
+    writeText(
+      path.join(markdownDir, `${locale}.md`),
+      [
+        "---",
+        `name: Lesson name ${locale}`,
+        `description: Lesson description ${locale}`,
+        "---",
+        body,
+        "",
+      ].join("\n")
+    );
+  }
+
+  await assert.rejects(
+    () =>
+      runCli(["--root", rootDir, "--markdown-dir", markdownDir], {
+        output: createOutputBuffer().stream,
+        promptApi: createPromptApi(["2", "1", "1", "1", "too-long-lesson", "", "1", "1"]),
+      }),
+    /between 4 and 10 blocks/
+  );
+
+  assert.equal(fs.readFileSync(lessonsPath, "utf8"), before);
+  assert.equal(
+    fs.existsSync(
+      path.join(
+        rootDir,
+        "max",
+        "courses",
+        "guitar",
+        "sections",
+        "max-section",
+        "units",
+        "target-unit",
+        "lessons",
+        "too-long-lesson"
+      )
+    ),
+    false
+  );
 });
 
 test("createLesson rejects an invalid lesson slug", () => {

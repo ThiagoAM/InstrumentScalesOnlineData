@@ -82,33 +82,5 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
-  },
-  {
-    "id": "modal-pedal-point-explorations",
-    "level": "intermediate",
-    "difficulty": "medium",
-    "name": {
-      "values": {
-        "en": "Modal Pedal Point Explorations",
-        "zh-Hans": "调式踏板点探索",
-        "de": "Modale Pedalpunkt-Experimente",
-        "ja": "モーダルペダルポイントの探求",
-        "pt-BR": "Explorações de pedal modal",
-        "es": "Exploraciones de pedal modal"
-      }
-    },
-    "description": {
-      "values": {
-        "en": "Hold a pedal tone while moving modal lines to highlight color notes.",
-        "zh-Hans": "保持踏板音，同时移动调式线条以突出色彩音。",
-        "de": "Halte einen Pedalton, während du modale Linien bewegst, um Farbtöne hervorzuheben.",
-        "ja": "ペダル音を保ちながらモーダルなラインを動かして彩度のある音を際立たせましょう。",
-        "pt-BR": "Segure um pedal tone enquanto movimenta linhas modais para destacar notas coloridas.",
-        "es": "Mantén un pedal point mientras mueves líneas modales para resaltar notas de color."
-      }
-    },
-    "order": 4,
-    "createdAt": "2026-03-14T05:30:00Z",
-    "updatedAt": "2026-03-14T05:30:00Z"
   }
 ]

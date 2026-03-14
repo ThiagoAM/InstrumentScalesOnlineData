@@ -110,33 +110,5 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
-  },
-  {
-    "id": "chord-tone-skeletons-within-scale-patterns",
-    "level": "intermediate",
-    "difficulty": "medium",
-    "name": {
-      "values": {
-        "en": "Chord-Tone Skeletons within Scale Patterns",
-        "pt-BR": "Esqueletos de notas de acorde dentro de padrões de escala",
-        "es": "Esqueletos de tonos de acorde dentro de patrones de escala",
-        "de": "Akkordton-Skelette innerhalb von Skalenmustern",
-        "ja": "スケールパターン内のコードトーンスケルトン",
-        "zh-Hans": "音阶模式中的和弦音骨架"
-      }
-    },
-    "description": {
-      "values": {
-        "en": "Outline root, third, and fifth shapes inside scales so harmony stays clear while you move around the neck.",
-        "pt-BR": "Trace formas de tônica, terça e quinta dentro das escalas para manter a harmonia clara enquanto se desloca pelo braço.",
-        "es": "Traza formas de tónica, tercera y quinta dentro de las escalas para mantener la armonía clara mientras te desplazas por el diapasón.",
-        "de": "Zeichne Grundton-, Terz- und Quintformen in die Skalen, damit die Harmonie klar bleibt, während du über das Griffbrett wanderst.",
-        "ja": "ルート、3度、5度の形をスケール内に描き、指板上を移動しても和声を明瞭に保ちます。",
-        "zh-Hans": "在音阶中描绘根音、三度、五度的形状，让和声在指板移动时保持清晰。"
-      }
-    },
-    "order": 5,
-    "createdAt": "2026-03-14T06:45:40Z",
-    "updatedAt": "2026-03-14T06:45:40Z"
   }
 ]

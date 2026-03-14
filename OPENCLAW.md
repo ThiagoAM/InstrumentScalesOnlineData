@@ -2,23 +2,325 @@
 
 This file gives explicit instructions to Open Claw for adding a new lesson to this repository.
 
-Follow these instructions exactly. The repository is a static content bundle, so correctness depends on path layout, JSON format, localization completeness, timestamps, and index files staying in sync.
+## Default rule
 
-## Goal
+If the task is "add a lesson to an existing unit", the default and preferred workflow is:
 
-When creating a new lesson, Open Claw must:
+```text
+node scripts/create-lesson.js
+```
 
-1. Pull the latest `main` branch before changing anything.
-2. Put the lesson in the correct place under `v1/education/`.
-3. Use a valid lesson `id` and matching directory name.
-4. Update the parent `lessons.json`.
-5. Create a valid `lesson-content.json`.
-6. Update the course-level `lessonIDs.json`.
-7. Keep all required localizations aligned.
-8. Run the validation script and the test suite.
-9. If everything passes, commit and push directly to the `main` branch.
+Do not start by hand-editing JSON unless there is a specific reason the script cannot be used. The script already knows the repository layout, creates the lesson folder, writes `lesson-content.json`, updates the unit `lessons.json`, regenerates the course `lessonIDs.json`, normalizes lesson order, preserves the existing `lessonIDs.json.createdAt`, and validates the entire education tree before and after writing.
 
-## Repository structure
+Manual editing is a fallback or a reference path, not the primary path.
+
+Open Claw must not attempt to create, edit, or attach lesson images. Image work is out of scope here. Focus only on lesson metadata and localized markdown content.
+
+## Lesson quality rule
+
+Every new lesson must be:
+
+- fun
+- challenging
+- high quality
+
+Every generated `lesson-content.json` must contain between `4` and `10` text blocks.
+
+Open Claw must treat this as a required depth rule, not a suggestion. Fewer than `4` blocks is too shallow. More than `10` blocks is too fragmented.
+
+## Non-negotiable workflow
+
+When creating a lesson, Open Claw must:
+
+1. Update the local repository first.
+2. Use `node scripts/create-lesson.js` for lesson creation whenever the lesson belongs to an existing unit.
+3. Provide all six required locales.
+4. Keep IDs, timestamps, ordering, and path layout valid.
+5. Run the validator and the test suite before committing.
+6. If everything passes, commit and push directly to the `main` branch.
+
+## Step 0: Sync `main` before doing anything
+
+Before planning the lesson details, before preparing locale markdown, and before running the script, update the repository:
+
+```text
+git checkout main
+git pull --ff-only origin main
+```
+
+Do not create lesson files from a stale branch.
+
+## The script-first workflow
+
+The normal command from the repository root is:
+
+```text
+node scripts/create-lesson.js
+```
+
+Optional flags:
+
+```text
+node scripts/create-lesson.js [--root <path>] [--markdown-dir <path>]
+```
+
+Options:
+
+- `--root <path>` points to the `v1/education` directory. If omitted, the script uses this repository's default path: `v1/education`.
+- `--markdown-dir <path>` tells the script to reuse a directory that already contains the six locale markdown files. If omitted, the script creates a temporary directory with templates and pauses until they are filled in.
+- `--help` prints the script usage text.
+
+In normal repository usage, run it from the repo root without arguments unless there is a real need to override the defaults.
+
+## What the script does automatically
+
+When `node scripts/create-lesson.js` succeeds, it:
+
+1. Validates the existing `v1/education` tree before making changes.
+2. Prompts for tier, course, section, and unit.
+3. Prompts for the new lesson ID.
+4. Prompts for the insert position inside the unit.
+5. Prompts for `level` and `difficulty`.
+6. Loads localized content from six markdown files.
+7. Writes the new lesson entry into the unit `lessons.json`.
+8. Renumbers lesson `order` values so they stay contiguous starting at `1`.
+9. Updates `updatedAt` on shifted lesson entries when their order changes.
+10. Creates `lessons/<lesson-id>/lesson-content.json`.
+11. Regenerates the course-level `lessonIDs.json`.
+12. Validates the full education tree again after writing.
+
+Open Claw should rely on this behavior instead of trying to duplicate it manually.
+
+## Interactive flow in detail
+
+When the script runs, it prompts in this order:
+
+1. Choose a tier.
+2. Choose a course.
+3. Choose a section.
+4. Choose a unit.
+5. Enter the new lesson ID.
+6. Enter the insert position.
+7. Choose the lesson level.
+8. Choose the lesson difficulty.
+9. Prepare or point to the six locale markdown files.
+
+Important details:
+
+- Tier choices come from the repository and normally include `free` and `max`.
+- Course, section, and unit choices are shown as numbered menus.
+- Menu labels usually appear as `<id> - <English name>` when that localized name exists.
+- The new lesson ID must match `^[a-z0-9]+(?:-[a-z0-9]+)*$`.
+- The insert position must be an integer from `1` to `current lesson count + 1`.
+- The supported lesson levels are `beginner` and `intermediate`.
+- The supported lesson difficulties are `easy` and `medium`.
+
+If the script rejects an answer, fix the value and continue rather than bypassing the script.
+
+## Recommended usage pattern
+
+The safest workflow is:
+
+1. Run `node scripts/create-lesson.js`.
+2. Choose the correct tier, course, section, and unit from the prompts.
+3. Enter a valid slug for the new lesson ID.
+4. Choose where it should appear in the unit.
+5. Choose the appropriate `level` and `difficulty`.
+6. Let the script generate locale markdown templates.
+7. Fill in all six markdown files carefully.
+8. Return to the terminal and press Enter so the script can continue.
+9. Let the script write the lesson files and validate the tree.
+10. Run the test suite manually.
+11. Review the generated JSON before committing.
+
+## How the temporary markdown template flow works
+
+If `--markdown-dir` is not supplied, the script creates a temporary directory and prints its path. That directory contains exactly these files:
+
+```text
+en.md
+pt-BR.md
+es.md
+de.md
+ja.md
+zh-Hans.md
+```
+
+Each file starts with this template:
+
+```text
+---
+name:
+description:
+---
+```
+
+Open Claw must fill in every file before returning to the script.
+
+Rules for each locale markdown file:
+
+- The file must use front matter bounded by `---` lines.
+- The front matter must include non-empty `name:` and `description:` fields.
+- The body must not be empty.
+- The body must be markdown content for that locale.
+- The lesson body must be split into between `4` and `10` text blocks.
+- Use `<!-- block -->` on its own line to split the lesson body into those text blocks.
+- Those blocks should together produce a lesson that feels fun, challenging, and high quality.
+- Do not use malformed HTML comments as separators.
+- Do not leave placeholder text behind.
+
+Illustrative snippet:
+
+```md
+---
+name: Fretboard notes on the G string
+description: Learn the main landmark notes on the G string.
+---
+# Fretboard notes on the G string
+This lesson introduces the main note landmarks on the G string.
+
+<!-- block -->
+
+## Practice idea
+Play the landmarks slowly, say the note names out loud, and connect them to nearby octave shapes.
+```
+
+That snippet is abbreviated only to show the file format. A real lesson must contain between `4` and `10` blocks.
+
+## Locale markdown requirements
+
+The script parses all six locale files together. They must stay aligned.
+
+Required locale set:
+
+- `en`
+- `pt-BR`
+- `es`
+- `de`
+- `ja`
+- `zh-Hans`
+
+Alignment rules:
+
+- Every locale file must exist.
+- Every locale file must define `name` and `description`.
+- Every locale file must contain between `4` and `10` body blocks.
+- Every locale file must contain the same number of blocks.
+- Block `1` in one locale must correspond to block `1` in every other locale.
+- Block `2` must correspond to block `2`, and so on.
+
+This means Open Claw should write the English structure first, decide the exact `4`-to-`10` block boundaries, and then mirror those same boundaries across the other five locale files.
+
+## Using `--markdown-dir`
+
+Use `--markdown-dir` when the localized markdown files were prepared in advance and should be reused directly.
+
+Example:
+
+```text
+node scripts/create-lesson.js --markdown-dir /absolute/path/to/lesson-markdown
+```
+
+That directory must already contain:
+
+```text
+en.md
+pt-BR.md
+es.md
+de.md
+ja.md
+zh-Hans.md
+```
+
+Use this mode when:
+
+- the lesson copy is being drafted outside the interactive script flow
+- the locale files need repeated review before writing JSON
+- the content was prepared in a persistent working directory instead of a temp directory
+
+Do not point `--markdown-dir` at a partial directory. The script will fail if any required locale file is missing or malformed.
+
+## Common script failure modes
+
+If `node scripts/create-lesson.js` fails, fix the underlying issue and rerun it. Common causes include:
+
+- the current `v1/education` tree is already invalid before lesson creation
+- the selected course, section, or unit does not exist
+- the lesson ID is not a valid slug
+- the lesson ID already exists in that unit
+- the target lesson directory already exists
+- the insert position is outside the allowed range
+- a locale markdown file is missing
+- a locale file is missing `name` or `description`
+- a locale file has an empty body
+- the lesson has fewer than `4` blocks
+- the lesson has more than `10` blocks
+- the locale files do not have matching block counts
+- the block separator is malformed and not exactly `<!-- block -->` on its own line
+
+Do not bypass these errors by switching to manual JSON edits unless there is a real repository-level reason the script cannot be used.
+
+## What files the script writes
+
+For a new lesson in an existing unit, the script writes or updates exactly these core files:
+
+1. `v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons.json`
+2. `v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/lesson-content.json`
+3. `v1/education/<tier>/courses/<course-id>/lessonIDs.json`
+
+It also creates the lesson directory:
+
+```text
+v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/
+```
+
+## What the script does not do
+
+Open Claw must still handle these responsibilities:
+
+- choose the correct educational content and translations
+- ensure the translations are pedagogically aligned
+- run the test suite after the script succeeds
+- review the generated files before commit
+- commit and push
+
+Do not assume the script replaces editorial judgment.
+
+Open Claw must not try to add images as part of lesson creation.
+
+## Post-script checks
+
+After the script succeeds, Open Claw must still run:
+
+```text
+node scripts/validate-education.js
+node --test tests/validate-education.test.js
+```
+
+The script already validates the education tree internally, but the required workflow still includes running the validator and test suite explicitly before commit.
+
+Both commands must pass before committing.
+
+## Final checklist
+
+Before finishing, Open Claw must confirm all of the following:
+
+- the lesson was created with `node scripts/create-lesson.js`
+- the lesson `id` is valid
+- the lesson directory matches the lesson `id`
+- `lessons.json` contains the new lesson
+- lesson `order` values are contiguous
+- `lesson-content.json` exists and its `id` matches the directory
+- `lesson-content.json.blocks` contains between `4` and `10` text blocks
+- all six locales are present in metadata and content blocks
+- the lesson content is fun, challenging, and high quality
+- `lessonIDs.json` includes the correct flattened lesson path
+- no unexpected files were created under `v1/education`
+- `node scripts/validate-education.js` passed
+- `node --test tests/validate-education.test.js` passed
+- the changes were reviewed before commit
+
+## Repository structure reference
 
 Education content lives under:
 
@@ -33,7 +335,6 @@ Each tier contains:
 ```text
 v1/education/<tier>/
   courses.json
-  images/
   courses/<course-id>/
 ```
 
@@ -69,41 +370,11 @@ Each lesson contains:
   lesson-content.json
 ```
 
-Some lessons may also contain an optional `images/` directory:
-
-```text
-.../lessons/<lesson-id>/
-  lesson-content.json
-  images/
-```
-
-Do not create extra files or directories anywhere else under `v1/education`. The validator will fail on unexpected files such as `.DS_Store`.
-
-## Required locale set
-
-Every localized text payload in `v1/education` must contain exactly these locale keys:
-
-- `en`
-- `pt-BR`
-- `es`
-- `de`
-- `ja`
-- `zh-Hans`
-
-Do not add only English. Do not omit any locale. Do not rename locale keys.
-
-Whenever Open Claw edits or creates:
-
-- `name.values`
-- `summary.values`
-- `description.values`
-- `value.values` inside lesson content blocks
-
-it must fill in all six locales.
+Do not create extra files or directories anywhere else under `v1/education`. Validation fails on unexpected files such as `.DS_Store`.
 
 ## ID rules
 
-All IDs must be slug-like strings using this format:
+All IDs must use this format:
 
 ```text
 ^[a-z0-9]+(?:-[a-z0-9]+)*$
@@ -132,11 +403,11 @@ Examples of invalid IDs:
 - `major scale`
 - `major.scale`
 
-The lesson directory name must match the lesson `id` exactly.
+The lesson directory name must exactly match the lesson `id`.
 
 ## Timestamps
 
-Every new or updated JSON object that has timestamps must use:
+Every new or updated JSON object with timestamps must use:
 
 ```text
 YYYY-MM-DDTHH:MM:SSZ
@@ -150,106 +421,17 @@ Example:
 
 Rules:
 
-- use UTC format with trailing `Z`
+- use UTC with trailing `Z`
 - keep valid ISO-8601 syntax
 - `updatedAt` must not be earlier than `createdAt`
 - for a brand new lesson, `createdAt` and `updatedAt` can be the same
 - if editing an existing object, update `updatedAt`
 
-## When creating a new lesson
+The script handles these timestamps when it creates the lesson files.
 
-These instructions assume the lesson is being added to an existing unit.
+## Generated JSON shape reference
 
-Before editing any file, Open Claw must update the local repository first:
-
-```text
-git checkout main
-git pull --ff-only origin main
-```
-
-Do this before planning the lesson details, before editing JSON, and before creating any new directories.
-
-Before changing files, identify:
-
-- tier: `free` or `max`
-- course ID
-- section ID
-- unit ID
-- new lesson ID
-
-Example target unit:
-
-```text
-v1/education/max/courses/guitar/sections/guitar-fretboard-foundations/units/landmarks-and-positions/
-```
-
-In that unit, Open Claw must update:
-
-1. `lessons.json`
-2. `lessons/<new-lesson-id>/lesson-content.json`
-3. the course-level `lessonIDs.json`
-
-For local authoring, prefer `node scripts/create-lesson.js` when the goal is to add a lesson to an existing unit. The script scaffolds the lesson path, updates `lessons.json`, regenerates `lessonIDs.json`, and runs validation automatically. The structural rules below still apply, especially for IDs, locale coverage, timestamps, and path layout.
-
-## Step 1: Choose the exact path
-
-The lesson path must be:
-
-```text
-v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/
-```
-
-The content file must be:
-
-```text
-v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/lesson-content.json
-```
-
-The flattened lesson ID entry in `lessonIDs.json` must be:
-
-```text
-<course-id>/<section-id>/<unit-id>/<lesson-id>
-```
-
-## Step 2: Update the unit `lessons.json`
-
-File:
-
-```text
-v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons.json
-```
-
-This file is an array of lesson metadata objects.
-
-Add a new object for the lesson with:
-
-- `id`
-- `level`
-- `difficulty`
-- `name`
-- `description`
-- `order`
-- `createdAt`
-- `updatedAt`
-
-Use slug-like strings for:
-
-- `id`
-- `level`
-- `difficulty`
-
-Current data commonly uses values like:
-
-- `beginner`
-- `intermediate`
-- `easy`
-- `medium`
-
-Stay consistent with the surrounding unit unless there is a clear reason not to.
-
-The `order` values inside the file must stay contiguous, starting at `1`. If a new lesson is inserted in the middle, Open Claw must renumber all lesson entries in that file so there are no gaps or duplicates.
-
-Template:
+The unit `lessons.json` entry created by the script has this shape:
 
 ```json
 {
@@ -282,49 +464,7 @@ Template:
 }
 ```
 
-## Step 3: Create the lesson directory
-
-Create:
-
-```text
-v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/
-```
-
-The final folder name must exactly match the new lesson `id`.
-
-Only put expected content there:
-
-- `lesson-content.json`
-- optional `images/` directory if the lesson truly needs image assets
-
-Do not place temporary files there.
-
-## Step 4: Create `lesson-content.json`
-
-File:
-
-```text
-v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/lesson-content.json
-```
-
-Required top-level fields:
-
-- `id`
-- `blocks`
-- `tests`
-- `createdAt`
-- `updatedAt`
-
-Rules:
-
-- `id` must equal the lesson directory name
-- `blocks` must be an array
-- each block must currently use `type: "text"`
-- each text block must have `value.values` with all six locales
-- `tests` must exist and must be an array
-- if no quiz/test content is being added, keep `tests` as `[]`
-
-Template:
+The `lesson-content.json` created by the script has this shape. The real `blocks` array must contain between `4` and `10` entries, even though the sample below is intentionally compact:
 
 ```json
 {
@@ -350,88 +490,27 @@ Template:
 }
 ```
 
-## Step 5: If needed, add lesson images
-
-Only create a lesson `images/` directory if the lesson actually needs lesson-specific assets.
-
-Allowed path:
-
-```text
-v1/education/<tier>/courses/<course-id>/sections/<section-id>/units/<unit-id>/lessons/<lesson-id>/images/
-```
-
-Rules:
-
-- keep only files inside that directory
-- do not nest more directories
-- do not create unrelated files there
-- keep filenames stable and clean
-
-If the lesson does not need images, do not create the directory.
-
-## Step 6: Update the course-level `lessonIDs.json`
-
-File:
-
-```text
-v1/education/<tier>/courses/<course-id>/lessonIDs.json
-```
-
-This file contains the flattened list of lesson identifiers for the entire course.
-
-Open Claw must add the new lesson entry in the correct order:
-
-```text
-<course-id>/<section-id>/<unit-id>/<lesson-id>
-```
-
-Important:
-
-- the list must match the generated lesson traversal order
-- do not forget this file
-- if the lesson order changes in `lessons.json`, `lessonIDs.json` must still match the full course order after the change
-
-Template:
-
-```json
-{
-  "lessonIDs": [
-    "course-id/section-id/unit-id/older-lesson",
-    "course-id/section-id/unit-id/new-lesson-id"
-  ],
-  "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-03-14T00:00:00Z"
-}
-```
-
-For an existing `lessonIDs.json`, keep the original `createdAt` unless the file is being created from scratch, and update `updatedAt`.
-
 ## Localization requirements in detail
 
 Open Claw must not produce partial localization.
 
-For each localized field:
+Whenever Open Claw edits or creates:
 
-- write all six locales in the same change
-- keep meaning aligned across languages
-- avoid leaving one locale as English unless that is already the established content strategy, which it is not for `v1/education`
-- keep the same pedagogical meaning across all locales
-- keep lesson names short and clean
-- keep descriptions short in metadata
-- put detailed teaching content in lesson `blocks`
+- `name.values`
+- `description.values`
+- `value.values` inside lesson content blocks
 
-Localization checklist for a new lesson:
+it must fill in all six locales.
 
-1. `lessons.json` `name.values.en`
-2. `lessons.json` `name.values.pt-BR`
-3. `lessons.json` `name.values.es`
-4. `lessons.json` `name.values.de`
-5. `lessons.json` `name.values.ja`
-6. `lessons.json` `name.values.zh-Hans`
-7. `lessons.json` `description.values.*`
-8. `lesson-content.json` for every block under `value.values.*`
+Checklist:
+
+1. `lessons.json` `name.values.*`
+2. `lessons.json` `description.values.*`
+3. every `lesson-content.json` block under `value.values.*`
 
 If there are multiple blocks, every block must contain all six locales.
+
+Every new lesson should use those blocks to deliver a fun, challenging, and high-quality learning experience.
 
 ## JSON quality rules
 
@@ -444,11 +523,11 @@ Open Claw must keep JSON valid and consistent:
 - no missing required fields
 - no extra stray files in the directory tree
 
-The validator checks structure aggressively. If Open Claw forgets a file, creates the wrong directory name, skips a locale, breaks timestamps, or forgets `lessonIDs.json`, validation will fail.
+The validator checks structure aggressively. If Open Claw forgets a file, creates the wrong directory name, skips a locale, breaks timestamps, or leaves `lessonIDs.json` out of sync, validation will fail.
 
-## Example workflow
+## Example script-driven workflow
 
-Example lesson target:
+Example target:
 
 ```text
 Tier: max
@@ -458,7 +537,26 @@ Unit: landmarks-and-positions
 Lesson ID: fretboard-notes-on-the-g-string
 ```
 
-Files to touch:
+Recommended execution:
+
+```text
+git checkout main
+git pull --ff-only origin main
+node scripts/create-lesson.js
+```
+
+Then select:
+
+1. `max`
+2. `guitar`
+3. `guitar-fretboard-foundations`
+4. `landmarks-and-positions`
+5. `fretboard-notes-on-the-g-string`
+6. the desired insert position
+7. `beginner` or `intermediate`
+8. `easy` or `medium`
+
+Then fill the generated locale markdown files, return to the prompt, and let the script write:
 
 ```text
 v1/education/max/courses/guitar/sections/guitar-fretboard-foundations/units/landmarks-and-positions/lessons.json
@@ -466,96 +564,16 @@ v1/education/max/courses/guitar/sections/guitar-fretboard-foundations/units/land
 v1/education/max/courses/guitar/lessonIDs.json
 ```
 
-If lesson-specific assets are needed:
-
-```text
-v1/education/max/courses/guitar/sections/guitar-fretboard-foundations/units/landmarks-and-positions/lessons/fretboard-notes-on-the-g-string/images/
-```
-
-## Run validation
-
-From the repository root, Open Claw must run:
-
-```text
-node scripts/validate-education.js
-```
-
-This validates the entire `v1/education` tree.
-
-Validation passes only if:
-
-- all expected files exist
-- IDs match directory names
-- locale sets are complete
-- timestamps are valid
-- order sequences are contiguous
-- `lessonIDs.json` is aligned
-- there are no unexpected files
-
-## Run the test suite
-
-After validation passes, Open Claw must run:
-
-```text
-node --test tests/validate-education.test.js
-```
-
-This checks the validator itself.
-
-Both commands must pass before committing.
-
 ## Git workflow for Open Claw
 
-Open Claw is allowed to commit and push directly to the `main` branch after the checks pass.
+Open Claw is allowed to commit and push directly to the `main` branch after checks pass.
 
 Required workflow:
 
 1. Ensure the work is on `main`.
 2. Ensure the local branch is up to date.
-3. Make the lesson changes.
+3. Create the lesson with `node scripts/create-lesson.js`.
 4. Run validation.
 5. Run tests.
 6. Commit.
 7. Push directly to `main`.
-
-Suggested command sequence:
-
-```text
-git checkout main
-git pull --ff-only origin main
-node scripts/validate-education.js
-node --test tests/validate-education.test.js
-git status
-git add <changed-files>
-git commit -m "Add <lesson-id> lesson"
-git push origin main
-```
-
-Rules:
-
-- do not commit before validation passes
-- do not push before tests pass
-- do not leave unrelated files in the working tree
-- do not create a side branch unless explicitly instructed otherwise
-- direct push to `main` is allowed for this repository once checks pass
-
-## Final checklist
-
-Before finishing, Open Claw must confirm all of the following:
-
-- lesson `id` is valid
-- lesson directory name matches `id`
-- `lessons.json` contains the new lesson
-- `order` values are contiguous
-- `lesson-content.json` exists
-- `lesson-content.json.id` matches the directory name
-- every localized field contains all six locales
-- `tests` exists and is an array
-- `lessonIDs.json` contains the new flattened lesson path
-- no unexpected files were created
-- `node scripts/validate-education.js` passed
-- `node --test tests/validate-education.test.js` passed
-- commit was created
-- commit was pushed directly to `main`
-
-If any item above is not true, the work is not complete.
