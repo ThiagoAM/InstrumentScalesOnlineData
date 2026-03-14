@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "chromatic-approach-notes-for-pentatonic-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chromatic Approach Notes for Pentatonic Grooves",
+        "zh-Hans": "五声音阶律动的半音接近音",
+        "de": "Chromatische Annäherungsnoten für pentatonische Grooves",
+        "ja": "ペンタトニック・グルーヴのためのクロマティック接近音",
+        "pt-BR": "Notas cromáticas de aproximação para grooves pentatônicos",
+        "es": "Notas cromáticas de aproximación para grooves pentatónicos"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Drop chromatic neighbor tones around target chord pitches to spice pentatonic grooves.",
+        "zh-Hans": "在和弦目标音周围加入半音邻接音，让五声音阶律动更有味道。",
+        "de": "Füge chromatische Nachbartöne um die Zielnoten der Akkorde hinzu, um pentatonische Grooves aufzupeppen.",
+        "ja": "コードのターゲット音の周りに半音の近接音を加えて、ペンタトニック・グルーヴを彩ります。",
+        "pt-BR": "Adicione notas cromáticas vizinhas em torno dos tons-alvo dos acordes para dar sabor aos grooves pentatônicos.",
+        "es": "Deja notas cromáticas vecinas alrededor de los tonos objetivo de los acordes para dar sabor a los grooves pentatónicos."
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-14T05:30:00Z",
+    "updatedAt": "2026-03-14T05:30:00Z"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "id": "rhythmic-displacement-etude",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick a two-bar segment of a familiar scale. Play it straight, then repeat while delaying the starting point by one or two beats so the phrase overlaps different metric points. Keep the same notes but let the rhythm shift before returning to the downbeat and linking to the next idea.",
+          "pt-BR": "Escolha um segmento de duas medidas de uma escala conhecida. Toque-o normalmente e depois repita atrasando o início por um ou dois tempos, para que a frase bata em diferentes pontos métricos. Mantenha as mesmas notas e deixe o ritmo circular antes de voltar ao tempo forte e seguir para a próxima ideia.",
+          "es": "Elige un segmento de dos compases de una escala familiar. Tócalo al frente y luego repítelo retrasando el inicio uno o dos golpes, de modo que la frase caiga en distintos puntos métricos. Conserva las mismas notas y deja que el ritmo viaje antes de regresar a los tiempos fuertes y enlazar con la siguiente idea.",
+          "de": "Wähle einen zwei Takte langen Abschnitt einer vertrauten Skala. Spiel ihn geradeaus, wiederhole ihn dann, indem du den Start um ein oder zwei Schläge verschiebst, sodass die Phrase auf anderen metrischen Punkten landet. Behalte die gleichen Noten, aber lasse den Rhythmus schweifen, bevor du zum starken Schlag zurückkehrst und die nächste Idee anschließt.",
+          "ja": "よく知っているスケールの2小節分のフレーズを選びます。そのまま弾いた後、スタートを1〜2拍遅らせて繰り返し、フレーズが異なるメトリックポイントにかかるようにします。同じ音を使いながらリズムを移動させ、強拍に戻って次のアイデアに繋げてください。",
+          "zh-Hans": "挑选一个熟悉音阶的两小节片段。先按原拍演奏，再重来一次，将起点延后1或2拍，让短句落在不同的节奏点。保持相同的音符，随着节奏游走，然后回到强拍并连接下一个想法。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-14T05:30:00Z",
+  "updatedAt": "2026-03-14T05:30:00Z"
+}
