@@ -8,14 +8,15 @@ Follow these instructions exactly. The repository is a static content bundle, so
 
 When creating a new lesson, Open Claw must:
 
-1. Put the lesson in the correct place under `v1/education/`.
-2. Use a valid lesson `id` and matching directory name.
-3. Update the parent `lessons.json`.
-4. Create a valid `lesson-content.json`.
-5. Update the course-level `lessonIDs.json`.
-6. Keep all required localizations aligned.
-7. Run the validation script and the test suite.
-8. If everything passes, commit and push directly to the `main` branch.
+1. Pull the latest `main` branch before changing anything.
+2. Put the lesson in the correct place under `v1/education/`.
+3. Use a valid lesson `id` and matching directory name.
+4. Update the parent `lessons.json`.
+5. Create a valid `lesson-content.json`.
+6. Update the course-level `lessonIDs.json`.
+7. Keep all required localizations aligned.
+8. Run the validation script and the test suite.
+9. If everything passes, commit and push directly to the `main` branch.
 
 ## Repository structure
 
@@ -158,6 +159,15 @@ Rules:
 ## When creating a new lesson
 
 These instructions assume the lesson is being added to an existing unit.
+
+Before editing any file, Open Claw must update the local repository first:
+
+```text
+git checkout main
+git pull --ff-only origin main
+```
+
+Do this before planning the lesson details, before editing JSON, and before creating any new directories.
 
 Before changing files, identify:
 
