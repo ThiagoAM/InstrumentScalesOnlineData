@@ -73,6 +73,7 @@ After creation, run:
 - `node scripts/validate-education.js`
 - `node --test tests/validate-education.test.js`
 - review the generated JSON changes before commit
+- if everything is valid, commit and push the changes
 
 If the script fails, fix the underlying input problem and rerun it. Common failures are:
 
