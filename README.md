@@ -256,7 +256,7 @@ This repository now includes a cross-platform validator at `scripts/validate-edu
 - required locale coverage for localized text fields
 - `createdAt` and `updatedAt` timestamp format and ordering
 - `lessonIDs.json` correctness against the generated lesson paths
-- unexpected files or directories inside `v1/education` such as `.DS_Store`
+- unexpected files or directories inside `v1/education`, except for a small allowlist of common OS metadata files
 
 ### Prerequisite
 
@@ -317,7 +317,7 @@ Run the validator before committing any newly added or edited education content,
 - `lessonIDs.json`
 - directory names anywhere under `v1/education`
 
-Because the validator is strict about filesystem shape, unexpected files under `v1/education` are treated as errors. That includes OS metadata files such as `.DS_Store`.
+Because the validator is strict about filesystem shape, unexpected files under `v1/education` are treated as errors. The only exception is a narrow allowlist of common OS metadata files: `.DS_Store`, `._*`, `Thumbs.db`, and `Desktop.ini`.
 
 ### Run the automated tests
 
@@ -333,5 +333,5 @@ node --test tests/validate-education.test.js
 - Because the app reads by path, renaming an `id` means renaming both JSON references and directories.
 - Static hosting must preserve the current path structure.
 - App clients should always fetch through the versioned base path, for example `/v1/education/...` instead of `/education/...`.
-- A root `.gitignore` now ignores `.DS_Store` and common editor junk so Finder metadata does not get committed again.
+- A root `.gitignore` ignores common OS metadata files such as `.DS_Store`, `._*`, `Thumbs.db`, and `Desktop.ini` so they do not get committed.
 - Open Claw bot is free to add new lessons, but must follow all the rules

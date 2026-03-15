@@ -321,11 +321,25 @@ test("lessonIDs drift fails", () => {
   );
 });
 
-test("unexpected DS_Store file fails", () => {
+test("allowlisted OS metadata files are ignored", () => {
   const rootDir = makeTempDir();
   buildValidFixture(rootDir);
 
   writeText(path.join(rootDir, "free", ".DS_Store"), "junk");
+  writeText(path.join(rootDir, "free", "Thumbs.db"), "junk");
+  writeText(path.join(rootDir, "free", "Desktop.ini"), "junk");
+  writeText(path.join(rootDir, "free", "._courses.json"), "junk");
+
+  const result = validateEducation(rootDir);
+
+  assert.equal(result.valid, true);
+});
+
+test("unexpected non-allowlisted file still fails", () => {
+  const rootDir = makeTempDir();
+  buildValidFixture(rootDir);
+
+  writeText(path.join(rootDir, "free", "random.tmp"), "junk");
 
   const result = validateEducation(rootDir);
 

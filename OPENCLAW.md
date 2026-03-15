@@ -403,7 +403,7 @@ Each lesson contains:
   lesson-content.json
 ```
 
-Do not create extra files or directories anywhere else under `v1/education`. Validation fails on unexpected files such as `.DS_Store`.
+Do not create extra files or directories anywhere else under `v1/education`. The validator tolerates only a narrow allowlist of common OS metadata files such as `.DS_Store`, `._*`, `Thumbs.db`, and `Desktop.ini`. Other unexpected files or directories still fail validation.
 
 ## ID rules
 

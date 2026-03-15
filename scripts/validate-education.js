@@ -42,6 +42,19 @@ function listDir(dirPath, errors) {
   }
 }
 
+function isIgnorableSystemFile(dirent) {
+  if (!dirent || !dirent.isFile()) {
+    return false;
+  }
+
+  return (
+    dirent.name === ".DS_Store" ||
+    dirent.name === "Thumbs.db" ||
+    dirent.name === "Desktop.ini" ||
+    dirent.name.startsWith("._")
+  );
+}
+
 function validateRequiredEntries(dirPath, expectedNames, errors) {
   const dirents = listDir(dirPath, errors);
 
@@ -58,6 +71,10 @@ function validateRequiredEntries(dirPath, expectedNames, errors) {
   }
 
   for (const dirent of dirents) {
+    if (isIgnorableSystemFile(dirent)) {
+      continue;
+    }
+
     if (!expectedNames.includes(dirent.name)) {
       addError(
         errors,
@@ -84,6 +101,10 @@ function validateLessonDirectoryEntries(dirPath, errors) {
   }
 
   for (const dirent of dirents) {
+    if (isIgnorableSystemFile(dirent)) {
+      continue;
+    }
+
     if (dirent.name !== "lesson-content.json" && dirent.name !== "images") {
       addError(
         errors,
