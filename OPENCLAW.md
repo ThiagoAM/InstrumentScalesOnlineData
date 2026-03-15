@@ -9,7 +9,11 @@ Before creating a lesson, sync the local repository:
 - `git checkout main`
 - `git pull --ff-only origin main`
 
+The AI must create lessons only for the `max` tier. Never create new lessons for the `free` tier.
+
 Use `node scripts/create-lesson.js` for adding a lesson to an existing unit. Do not hand-edit JSON unless the script cannot be used.
+
+When the script prompts for tier, always choose `max`.
 
 Optional:
 
@@ -72,6 +76,7 @@ After creation, run:
 
 If the script fails, fix the underlying input problem and rerun it. Common failures are:
 
+- choosing `free` is invalid agent behavior even though the script still exposes it
 - the existing `v1/education` tree is already invalid
 - the selected course, section, or unit does not exist
 - invalid insert position
