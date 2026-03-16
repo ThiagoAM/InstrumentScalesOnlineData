@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "syncopated-major-groove-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Major Groove Builder",
+        "pt-BR": "Groove maior sincopado",
+        "es": "Groove mayor sincopado",
+        "de": "Synkopierter Dur-Groove-Builder",
+        "ja": "シンコペーション・メジャー・グルーヴ",
+        "zh-Hans": "切分大调律动构建"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create punchy bass grooves by syncing a major scale with tight rhythm accents.",
+        "pt-BR": "Crie grooves de baixo com pegada usando escala maior e acentos rítmicos precisos.",
+        "es": "Crea grooves de bajo con pegada usando la escala mayor y acentos rítmicos precisos.",
+        "de": "Baue druckvolle Bassgrooves, indem du eine Dur-Tonleiter mit präzisen Akzenten kombinierst.",
+        "ja": "メジャー・スケールと的確なアクセントでパンチのあるベース・グルーヴを作ろう。",
+        "zh-Hans": "用大调音阶和精准重音打造有冲击力的贝斯律动。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-16T00:06:48Z",
+    "updatedAt": "2026-03-16T00:06:48Z"
   }
 ]

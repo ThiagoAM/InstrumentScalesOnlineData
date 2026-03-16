@@ -1,0 +1,73 @@
+{
+  "id": "syncopated-major-groove-builder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove grid: Set a metronome at 80 bpm and count “1-e-&-a.” Play the root on beat 1 and the fifth on beat 3. Rest on the other counts.",
+          "pt-BR": "Grade do groove: Ajuste o metrônomo para 80 bpm e conte “1-e-&-a”. Toque a tônica no tempo 1 e a quinta no tempo 3. Descanse nos outros tempos.",
+          "es": "Cuadrícula del groove: Ajusta el metrónomo a 80 bpm y cuenta “1-e-&-a”. Toca la tónica en el tiempo 1 y la quinta en el tiempo 3. Descansa en los demás tiempos.",
+          "de": "Groove-Raster: Stell das Metronom auf 80 bpm und zähle „1-e-&-a“. Spiele den Grundton auf 1 und die Quinte auf 3. Auf den anderen Zählzeiten pausieren.",
+          "ja": "グルーヴの枠: メトロノームを80 bpmに設定し、「1-e-&-a」と数える。1拍目にルート、3拍目に5度。ほかは休符。",
+          "zh-Hans": "律动框架：把节拍器设为80 bpm，数“1-e-&-a”。第1拍弹根音，第3拍弹五度，其余位置休止。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add scale color: In G major, add the 6 on “a of 2” and the 7 on “& of 3.” Keep everything short and even.",
+          "pt-BR": "Cor de escala: Em Sol maior, adicione a 6 no “a do 2” e a 7 no “& do 3”. Mantenha tudo curto e uniforme.",
+          "es": "Color de escala: En Sol mayor, añade la 6 en el “a de 2” y la 7 en el “& de 3”. Mantén todo corto y uniforme.",
+          "de": "Skalenfarbe: In G-Dur spiele die 6 auf „a von 2“ und die 7 auf „& von 3“. Halte alles kurz und gleichmäßig.",
+          "ja": "スケールの色付け: Gメジャーで「2のa」に6度、「3の&」に7度を入れる。短く均等に。",
+          "zh-Hans": "加入音阶色彩：在G大调中，“2的a”弹6度，“3的&”弹7度。保持短促均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Ghost note spice: Add muted ghost notes on “e of 1” and “e of 4.” Keep your right hand consistent and clean.",
+          "pt-BR": "Tempero de ghost notes: Adicione notas fantasma abafadas no “e do 1” e no “e do 4”. Mantenha a mão direita consistente e limpa.",
+          "es": "Sabor de ghost notes: Añade notas fantasma apagadas en el “e de 1” y en el “e de 4”. Mantén la mano derecha consistente y limpia.",
+          "de": "Ghost-Note-Würze: Setze gedämpfte Ghost Notes auf „e von 1“ und „e von 4“. Halte die rechte Hand konstant und sauber.",
+          "ja": "ゴーストノートのスパイス: 「1のe」と「4のe」にミュートしたゴーストノートを入れる。右手のタッチを一定に。",
+          "zh-Hans": "幽灵音调味：在“1的e”和“4的e”加入闷音幽灵音。右手触弦保持稳定干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Move the groove: Shift the pattern to C, F, and Bb (circle of fourths). Don’t change the rhythm—only the scale.",
+          "pt-BR": "Mova o groove: Transfira o padrão para Dó, Fá e Sib (círculo de quartas). Não mude o ritmo — só a escala.",
+          "es": "Mueve el groove: Traslada el patrón a Do, Fa y Sib (círculo de cuartas). No cambies el ritmo, solo la escala.",
+          "de": "Groove verschieben: Übertrage das Muster nach C, F und Bb (Quartenkreis). Ändere nicht den Rhythmus, nur die Skala.",
+          "ja": "グルーヴを移動: パターンをC、F、Bb（4度進行）に移す。リズムは変えず、スケールだけ変える。",
+          "zh-Hans": "移动律动：把模式移到C、F、Bb（四度圈）。节奏不变，只换音阶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: Build a 2-bar groove and add a 1-bar fill every 4 bars. Record one minute and keep your tightest take.",
+          "pt-BR": "Desafio: Crie um groove de 2 compassos e adicione um fill de 1 compasso a cada 4 compassos. Grave um minuto e fique com a tomada mais precisa.",
+          "es": "Desafío: Crea un groove de 2 compases y añade un fill de 1 compás cada 4 compases. Graba un minuto y quédate con la toma más sólida.",
+          "de": "Challenge: Baue einen 2-taktigen Groove und füge alle 4 Takte einen 1-taktigen Fill hinzu. Nimm eine Minute auf und behalte den tightesten Take.",
+          "ja": "チャレンジ: 2小節のグルーヴを作り、4小節ごとに1小節のフィルを入れる。1分録音して一番タイトなテイクを残そう。",
+          "zh-Hans": "挑战：制作一个2小节律动，每4小节加入1小节fill。录1分钟，保留最紧的那段。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-16T00:06:48Z",
+  "updatedAt": "2026-03-16T00:06:48Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "blues-call-and-response-licks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: In A minor blues box 1, play A–C–D–Eb–E–G ascending and descending with a slow swing. Count “1-&-2-&-3-&-4-&” and keep notes even.",
+          "pt-BR": "Aquecimento: No box 1 de blues em Lá menor, toque A–C–D–Eb–E–G subindo e descendo com swing lento. Conte “1-&-2-&-3-&-4-&” e mantenha as notas uniformes.",
+          "es": "Calentamiento: En el box 1 de blues en La menor, toca A–C–D–Eb–E–G ascendiendo y descendiendo con swing lento. Cuenta “1-&-2-&-3-&-4-&” y mantén las notas parejas.",
+          "de": "Aufwärmen: In der A-Moll-Blues-Box 1 spiele A–C–D–Eb–E–G auf- und abwärts mit langsamem Swing. Zähle „1-&-2-&-3-&-4-&“ und halte die Noten gleichmäßig.",
+          "ja": "ウォームアップ：Aマイナーブルース・ボックス1で A–C–D–Eb–E–G を上行・下行。ゆっくりスウィングしながら「1-&-2-&-3-&-4-&」と数えて均等に。",
+          "zh-Hans": "热身：在A小调布鲁斯盒型1中演奏 A–C–D–Eb–E–G，上行下行，慢速摇摆。数“1-&-2-&-3-&-4-&”，让每个音均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Write a 2-bar “call” lick that ends on C (the b3). Play it four times without changing the rhythm.",
+          "pt-BR": "Escreva um lick de “pergunta” de 2 compassos que termine em C (a b3). Toque quatro vezes sem mudar o ritmo.",
+          "es": "Escribe un lick de “llamada” de 2 compases que termine en C (la b3). Tócalo cuatro veces sin cambiar el ritmo.",
+          "de": "Schreibe ein 2-taktiges „Call“-Lick, das auf C (b3) endet. Spiele es viermal, ohne den Rhythmus zu ändern.",
+          "ja": "2小節の「コール」リックを作り、C（b3）で終わらせよう。リズムを変えずに4回繰り返す。",
+          "zh-Hans": "写一个2小节的“呼叫”短句，以C（b3）结束。保持节奏不变，重复4次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a 2-bar “response” lick that answers the call by hitting the blue note (Eb) and resolving to A. Match the call’s rhythm.",
+          "pt-BR": "Crie um lick de “resposta” de 2 compassos que responda batendo na blue note (Eb) e resolvendo em A. Iguale o ritmo da pergunta.",
+          "es": "Crea un lick de “respuesta” de 2 compases que conteste golpeando la blue note (Eb) y resolviendo en A. Iguala el ritmo de la llamada.",
+          "de": "Erstelle ein 2-taktiges „Response“-Lick, das die Blue Note (Eb) trifft und nach A auflöst. Übernimm den Rhythmus des Calls.",
+          "ja": "2小節の「レスポンス」リックを作成し、ブルーノート（Eb）に触れてAへ解決。コールのリズムを合わせる。",
+          "zh-Hans": "写一个2小节的“回应”短句，触及蓝音（Eb）并回到A。节奏与呼叫一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Timing twist: shift the call lick one eighth-note later (start on “& of 1”), but keep the response starting on beat 1. Notice the new groove.",
+          "pt-BR": "Variação de tempo: atrase a pergunta em uma colcheia (comece no “& do 1”), mas mantenha a resposta começando no tempo 1. Note o novo groove.",
+          "es": "Giro de tiempo: retrasa la llamada una corchea (empieza en el “& de 1”), pero mantén la respuesta empezando en el tiempo 1. Nota el nuevo groove.",
+          "de": "Timing-Variante: Verschiebe das Call-Lick um eine Achtel nach hinten (Start auf „& von 1“), aber starte die Response weiter auf Zählzeit 1. Spüre den neuen Groove.",
+          "ja": "タイミングのひねり：コールを8分音符ぶん後ろにずらして（「1の&」から開始）、レスポンスは1拍目から始める。新しいグルーヴを感じよう。",
+          "zh-Hans": "节奏变化：把呼叫短句延后一个八分音符（从“1的&”开始），但回应仍从第1拍开始。感受新的律动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: Trade 4s with a metronome or drum loop for 3 minutes. Record it and keep your best three call/response pairs.",
+          "pt-BR": "Desafio: Faça troca de 4 compassos com um metrônomo ou loop de bateria por 3 minutos. Grave e guarde os três melhores pares de pergunta/resposta.",
+          "es": "Desafío: Intercambia 4 compases con un metrónomo o un loop de batería por 3 minutos. Graba y conserva tus tres mejores pares de llamada/respuesta.",
+          "de": "Challenge: Tausche 4er mit Metronom oder Drum-Loop für 3 Minuten. Nimm es auf und behalte deine drei besten Call/Response-Paare.",
+          "ja": "チャレンジ：メトロノームまたはドラム・ループと4小節ずつ交換を3分間。録音してベストな3組を残す。",
+          "zh-Hans": "挑战：用节拍器或鼓循环进行4小节互答，持续3分钟。录音并保留你最好的三组呼应。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-16T00:05:27Z",
+  "updatedAt": "2026-03-16T00:05:27Z"
+}

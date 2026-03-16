@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "blues-call-and-response-licks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Call-and-Response Licks",
+        "pt-BR": "Licks de blues em pergunta e resposta",
+        "es": "Licks de blues en llamada y respuesta",
+        "de": "Blues-Licks im Call-and-Response",
+        "ja": "ブルースのコール＆レスポンス・リック",
+        "zh-Hans": "布鲁斯呼应式短句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build blues phrasing by trading short licks inside the A minor blues box.",
+        "pt-BR": "Desenvolva fraseado de blues trocando licks curtos dentro do box de Lá menor.",
+        "es": "Construye fraseo de blues intercambiando licks cortos dentro del box de La menor.",
+        "de": "Baue Blues-Phrasierung, indem du kurze Licks im A-Moll-Box tauschst.",
+        "ja": "Aマイナーブルース・ボックス内で短いリックを交換してフレージングを鍛えよう。",
+        "zh-Hans": "在A小调布鲁斯盒型中交换短句，训练布鲁斯乐句感。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-16T00:05:27Z",
+    "updatedAt": "2026-03-16T00:05:27Z"
   }
 ]

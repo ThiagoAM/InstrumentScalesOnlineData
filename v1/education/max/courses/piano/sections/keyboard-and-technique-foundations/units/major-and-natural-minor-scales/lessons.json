@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "hands-together-scale-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Hands-Together Scale Relay",
+        "pt-BR": "Revezamento de escalas mãos juntas",
+        "es": "Relevo de escalas manos juntas",
+        "de": "Hand-zu-Hand-Tonleiter-Staffel",
+        "ja": "両手スケール・リレー",
+        "zh-Hans": "双手音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build coordination by running scales in both hands with rhythmic challenges.",
+        "pt-BR": "Desenvolva coordenação tocando escalas com as duas mãos e desafios rítmicos.",
+        "es": "Desarrolla coordinación tocando escalas con ambas manos y retos rítmicos.",
+        "de": "Baue Koordination auf, indem du Tonleitern beidhändig mit Rhythmus-Challenges spielst.",
+        "ja": "両手でスケールを走らせ、リズム課題で協調性を高めよう。",
+        "zh-Hans": "通过双手音阶与节奏挑战提升协调性。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-16T00:08:08Z",
+    "updatedAt": "2026-03-16T00:08:08Z"
   }
 ]
