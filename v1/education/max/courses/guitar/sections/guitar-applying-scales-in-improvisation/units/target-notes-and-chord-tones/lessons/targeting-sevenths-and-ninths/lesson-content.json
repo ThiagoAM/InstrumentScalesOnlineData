@@ -1,0 +1,73 @@
+{
+  "id": "targeting-sevenths-and-ninths",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "You already know the chord tones. Now we’ll add color tones that still sound “inside”: the 7th and 9th. Work in **G major** with a simple ii–V–I: **Am7 – D7 – Gmaj7**.",
+          "pt-BR": "Você já conhece os tons do acorde. Agora vamos adicionar tons de cor que continuam soando “dentro”: a 7ª e a 9ª. Trabalhe em **Sol maior** com um ii–V–I simples: **Am7 – D7 – Gmaj7**.",
+          "es": "Ya conoces los tonos del acorde. Ahora añadiremos tonos de color que siguen sonando “dentro”: la 7ª y la 9ª. Trabaja en **Sol mayor** con un ii–V–I simple: **Am7 – D7 – Gmaj7**.",
+          "de": "Du kennst die Akkordtöne bereits. Jetzt fügen wir Farb‑Töne hinzu, die trotzdem „innen“ klingen: die 7 und die 9. Arbeite in **G-Dur** mit einem einfachen ii–V–I: **Am7 – D7 – Gmaj7**.",
+          "ja": "コードトーンはもう知っていますね。今回は「中に聴こえる」色音、**7度**と**9度**を追加します。**Gメジャー**の ii–V–I、**Am7 – D7 – Gmaj7** で練習しましょう。",
+          "zh-Hans": "你已经熟悉和弦音。现在加入仍然很“内”的色彩音：**7度**和**9度**。在 **G大调** 上练习 ii–V–I：**Am7 – D7 – Gmaj7**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Map the targets on two adjacent strings. For each chord, find the **7th** and **9th** in one position:\n- Am7: 7th = G, 9th = B\n- D7: 7th = C, 9th = E\n- Gmaj7: 7th = F#, 9th = A\nSay the notes out loud while you fret them.",
+          "pt-BR": "Mapeie os alvos em duas cordas adjacentes. Para cada acorde, encontre a **7ª** e a **9ª** em uma posição:\n- Am7: 7ª = G, 9ª = B\n- D7: 7ª = C, 9ª = E\n- Gmaj7: 7ª = F#, 9ª = A\nFale os nomes das notas enquanto as toca.",
+          "es": "Mapa los objetivos en dos cuerdas adyacentes. Para cada acorde, encuentra la **7ª** y la **9ª** en una posición:\n- Am7: 7ª = G, 9ª = B\n- D7: 7ª = C, 9ª = E\n- Gmaj7: 7ª = F#, 9ª = A\nDi las notas en voz alta mientras las tocas.",
+          "de": "Lege die Ziele auf zwei benachbarten Saiten. Finde pro Akkord die **7** und die **9** in einer Lage:\n- Am7: 7 = G, 9 = B\n- D7: 7 = C, 9 = E\n- Gmaj7: 7 = F#, 9 = A\nSprich die Noten laut, während du sie greifst.",
+          "ja": "隣り合う2本の弦でターゲットを探します。各コードで**7度**と**9度**を1ポジションで見つけてください。\n- Am7: 7度 = G, 9度 = B\n- D7: 7度 = C, 9度 = E\n- Gmaj7: 7度 = F#, 9度 = A\n弾きながら音名を声に出しましょう。",
+          "zh-Hans": "在两根相邻的弦上定位目标音。每个和弦都找到**7度**和**9度**（同一把位）：\n- Am7: 7度 = G，9度 = B\n- D7: 7度 = C，9度 = E\n- Gmaj7: 7度 = F#，9度 = A\n一边弹一边说出音名。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Approach drill (8th-notes):** play one scale tone, then the target, then resolve by step.\nExample over D7: **E – C – B** (9th → 7th → 6th). Keep it smooth and in time.",
+          "pt-BR": "**Exercício de aproximação (colcheias):** toque uma nota da escala, depois o alvo, e então resolva por grau conjunto.\nExemplo sobre D7: **E – C – B** (9ª → 7ª → 6ª). Mantenha suave e no tempo.",
+          "es": "**Ejercicio de aproximación (corcheas):** toca una nota de la escala, luego el objetivo y después resuelve por grado conjunto.\nEjemplo sobre D7: **E – C – B** (9ª → 7ª → 6ª). Manténlo suave y a tiempo.",
+          "de": "**Approach-Drill (Achtelnoten):** spiele einen Skalenton, dann den Zielton, dann löse schrittweise auf.\nBeispiel über D7: **E – C – B** (9 → 7 → 6). Bleib weich und im Tempo.",
+          "ja": "**アプローチ練習（8分音符）:** スケール音 → ターゲット → 階段的に解決。\nD7の例: **E – C – B**（9度 → 7度 → 6度）。滑らかに、テンポをキープ。",
+          "zh-Hans": "**接近练习（八分音符）：** 先弹一个音阶音，再弹目标音，然后顺级解决。\nD7示例：**E – C – B**（9度 → 7度 → 6度）。保持顺滑、对准节拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Phrase challenge:** create a 2‑bar phrase for each chord. On beat 1, land on the **7th**. On beat 3, land on the **9th**. Use slides or hammer‑ons to make it sing.",
+          "pt-BR": "**Desafio de frase:** crie uma frase de 2 compassos para cada acorde. No tempo 1, caia na **7ª**. No tempo 3, caia na **9ª**. Use slides ou hammer‑ons para dar expressividade.",
+          "es": "**Desafío de fraseo:** crea una frase de 2 compases para cada acorde. En el tiempo 1, cae en la **7ª**. En el tiempo 3, cae en la **9ª**. Usa slides o hammer‑ons para hacerlo cantar.",
+          "de": "**Phrasen-Challenge:** baue pro Akkord eine 2‑taktige Phrase. Auf Schlag 1 landest du auf der **7**, auf Schlag 3 auf der **9**. Nutze Slides oder Hammer‑ons für mehr Gesang.",
+          "ja": "**フレーズ課題:** 各コードにつき2小節のフレーズを作成。1拍目で**7度**、3拍目で**9度**に着地。スライドやハンマリングで歌わせよう。",
+          "zh-Hans": "**乐句挑战：** 为每个和弦写2小节乐句。第1拍落在**7度**，第3拍落在**9度**。用滑音或击弦让它更有歌唱性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Mini jam:** loop the ii–V–I and improvise for 2 minutes. Your rule: every bar must include either a 7th or 9th as a target note. Record yourself and pick your best bar.",
+          "pt-BR": "**Mini jam:** faça um loop do ii–V–I e improvise por 2 minutos. Regra: todo compasso deve incluir uma 7ª ou 9ª como nota alvo. Grave e escolha o seu melhor compasso.",
+          "es": "**Mini jam:** haz un loop del ii–V–I e improvisa por 2 minutos. Regla: cada compás debe incluir una 7ª o 9ª como nota objetivo. Grábate y elige tu mejor compás.",
+          "de": "**Mini-Jam:** loope den ii–V–I und improvisiere 2 Minuten. Regel: jeder Takt muss eine 7 oder 9 als Zielton enthalten. Nimm dich auf und wähle deinen besten Takt.",
+          "ja": "**ミニジャム:** ii–V–I をループして2分間即興。ルール：各小節に7度または9度のターゲットを必ず入れる。録音して最高の1小節を選ぼう。",
+          "zh-Hans": "**迷你即兴：** 循环 ii–V–I 即兴2分钟。规则：每小节必须包含一个7度或9度目标音。录下来，挑出你最满意的一小节。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-17T00:05:42Z",
+  "updatedAt": "2026-03-17T00:05:42Z"
+}

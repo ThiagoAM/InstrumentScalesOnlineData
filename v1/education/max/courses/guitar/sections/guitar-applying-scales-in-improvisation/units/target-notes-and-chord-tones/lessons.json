@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "targeting-sevenths-and-ninths",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Targeting 7ths and 9ths for Color\"",
+        "pt-BR": "\"Mirando 7ªs e 9ªs para dar cor\"",
+        "es": "\"Apuntar a 7ªs y 9ªs para dar color\"",
+        "de": "\"7 und 9 als Zieltöne für mehr Farbe\"",
+        "ja": "\"7度と9度を狙って色付けする\"",
+        "zh-Hans": "\"瞄准7度和9度增添色彩\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Add richer color to your lines by landing on 7ths and 9ths over chord changes.\"",
+        "pt-BR": "\"Deixe suas linhas mais coloridas mirando 7ªs e 9ªs nas trocas de acordes.\"",
+        "es": "\"Dale más color a tus líneas aterrizando en 7ªs y 9ªs durante los cambios de acordes.\"",
+        "de": "\"Gib deinen Linien mehr Farbe, indem du bei Akkordwechseln 7 und 9 ansteuerst.\"",
+        "ja": "\"コードチェンジで7度と9度に着地して、フレーズに色彩を加えよう。\"",
+        "zh-Hans": "\"在和弦变化中落在7度与9度，让你的线条更有色彩。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-17T00:05:42Z",
+    "updatedAt": "2026-03-17T00:05:42Z"
   }
 ]

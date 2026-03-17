@@ -1,0 +1,73 @@
+{
+  "id": "ghost-notes-and-dynamic-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today’s mission: make a **C major** groove feel bigger by adding **ghost notes** and **dynamic accents**. Set a metronome at 90 bpm and keep your right hand relaxed.",
+          "pt-BR": "Missão de hoje: fazer um groove em **Dó maior** soar maior com **ghost notes** e **acentos dinâmicos**. Ajuste o metrônomo para 90 bpm e mantenha a mão direita relaxada.",
+          "es": "Misión de hoy: hacer que un groove en **Do mayor** suene más grande con **ghost notes** y **acentos dinámicos**. Pon el metrónomo a 90 bpm y mantén la mano derecha relajada.",
+          "de": "Heutige Mission: Einen Groove in **C-Dur** mit **Ghost Notes** und **dynamischen Akzenten** größer klingen lassen. Stell das Metronom auf 90 bpm und halte die rechte Hand locker.",
+          "ja": "今日のミッションは、**Cメジャー**のグルーヴに**ゴーストノート**と**ダイナミクスのアクセント**を加えて、より大きく聴かせること。メトロノームは90 bpm、右手はリラックス。",
+          "zh-Hans": "今天的任务：在 **C大调** 律动中加入**幽灵音**和**动态重音**，让它听起来更饱满。节拍器设为90 bpm，右手保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Ghost-note placement:** lightly mute the string and strike 16th‑notes between main beats. Start with this count: **1 (ghost) 2 (ghost) 3 4**. The ghost notes should be soft and percussive, not pitched.",
+          "pt-BR": "**Posicionamento de ghost notes:** abafe levemente a corda e toque semínimas? Não—use **semicolcheias** entre as batidas principais. Comece com a contagem: **1 (ghost) 2 (ghost) 3 4**. As ghost notes devem ser suaves e percussivas, sem altura definida.",
+          "es": "**Colocación de ghost notes:** silencia ligeramente la cuerda y toca **semicorcheas** entre los beats principales. Empieza con esta cuenta: **1 (ghost) 2 (ghost) 3 4**. Las ghost notes deben ser suaves y percusivas, sin altura definida.",
+          "de": "**Ghost-Note-Platzierung:** dämpfe die Saite leicht und spiele **Sechzehntel** zwischen den Hauptbeats. Starte mit dieser Zählweise: **1 (ghost) 2 (ghost) 3 4**. Die Ghost Notes sollen leise und perkussiv sein, ohne klare Tonhöhe.",
+          "ja": "**ゴーストノートの配置:** 弦を軽くミュートして、主拍の間に**16分音符**を入れます。まずは **1 (ghost) 2 (ghost) 3 4** のカウントで。音程は出さず、軽くパーカッシブに。",
+          "zh-Hans": "**幽灵音位置：** 轻轻闷住弦，在主拍之间加入**十六分音符**。先用这个数法：**1 (ghost) 2 (ghost) 3 4**。幽灵音要轻且有打击感，不要有清晰音高。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Accent map:** choose three strong tones from the scale (C, G, A). Play them louder, and keep everything else lighter. You’re creating contrast, not volume wars.",
+          "pt-BR": "**Mapa de acentos:** escolha três notas fortes da escala (C, G, A). Toque-as mais forte e mantenha o restante mais leve. É contraste, não guerra de volume.",
+          "es": "**Mapa de acentos:** elige tres notas fuertes de la escala (C, G, A). Tócalas más fuerte y mantén todo lo demás más ligero. Es contraste, no una guerra de volumen.",
+          "de": "**Akzent-Map:** wähle drei starke Töne der Skala (C, G, A). Spiele sie lauter und halte alles andere leichter. Es geht um Kontrast, nicht um Lautstärke-Wettkampf.",
+          "ja": "**アクセント・マップ:** スケールから強い音（C, G, A）を3つ選び、それを強く。他は軽めに。狙いはコントラストです。",
+          "zh-Hans": "**重音地图：** 从音阶里选三个强音（C、G、A）。把它们弹得更重，其余音轻一些。目标是对比，而不是拼音量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Two‑bar groove builder:**\n- Bar 1: **C – (ghost) – E – G**\n- Bar 2: **A – (ghost) – G – E**\nLock to the kick drum feel, even if you’re playing alone.",
+          "pt-BR": "**Construtor de groove em 2 compassos:**\n- Compasso 1: **C – (ghost) – E – G**\n- Compasso 2: **A – (ghost) – G – E**\nTrave no “kick”, mesmo tocando sozinho.",
+          "es": "**Constructor de groove de 2 compases:**\n- Compás 1: **C – (ghost) – E – G**\n- Compás 2: **A – (ghost) – G – E**\nBloquéate al bombo, incluso si tocas solo.",
+          "de": "**2‑Takt-Groove-Baukasten:**\n- Takt 1: **C – (ghost) – E – G**\n- Takt 2: **A – (ghost) – G – E**\nHäng dich an die Kick‑Feelings, auch wenn du alleine spielst.",
+          "ja": "**2小節グルーヴ作成:**\n- 小節1: **C – (ghost) – E – G**\n- 小節2: **A – (ghost) – G – E**\n一人でもキックのノリに合わせてロックしよう。",
+          "zh-Hans": "**两小节律动构建：**\n- 小节1：**C – (ghost) – E – G**\n- 小节2：**A – (ghost) – G – E**\n即使独奏，也要锁定“底鼓”的感觉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Challenge:** write a 4‑bar groove using **at least two ghost notes per bar**. Record it and check if the accents pop without rushing.",
+          "pt-BR": "**Desafio:** escreva um groove de 4 compassos usando **pelo menos duas ghost notes por compasso**. Grave e verifique se os acentos aparecem sem adiantar o tempo.",
+          "es": "**Desafío:** escribe un groove de 4 compases usando **al menos dos ghost notes por compás**. Grábate y comprueba si los acentos destacan sin correr el tempo.",
+          "de": "**Challenge:** schreibe einen 4‑Takt‑Groove mit **mindestens zwei Ghost Notes pro Takt**. Nimm dich auf und prüfe, ob die Akzente hervorstechen, ohne zu eilen.",
+          "ja": "**チャレンジ:** **1小節につきゴーストノート2つ以上**で4小節のグルーヴを書いてみよう。録音して、アクセントが立っているかチェック。",
+          "zh-Hans": "**挑战：** 写一个4小节的律动，每小节**至少两个幽灵音**。录下来，检查重音是否清晰又不抢拍。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-17T00:06:50Z",
+  "updatedAt": "2026-03-17T00:06:50Z"
+}

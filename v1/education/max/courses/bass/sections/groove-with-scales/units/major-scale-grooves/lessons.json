@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-16T00:06:48Z",
     "updatedAt": "2026-03-16T00:06:48Z"
+  },
+  {
+    "id": "ghost-notes-and-dynamic-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Ghost Notes and Dynamics in Major Grooves\"",
+        "pt-BR": "\"Ghost notes e dinâmica em grooves maiores\"",
+        "es": "\"Ghost notes y dinámica en grooves mayores\"",
+        "de": "\"Ghost Notes und Dynamik in Dur-Grooves\"",
+        "ja": "\"ゴーストノートとダイナミクスで作るメジャー・グルーヴ\"",
+        "zh-Hans": "\"大调律动中的幽灵音与动态\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use ghost notes and accents to make major-scale grooves punchy and alive.\"",
+        "pt-BR": "\"Use ghost notes e acentos para deixar grooves em escala maior mais vivos e marcantes.\"",
+        "es": "\"Usa ghost notes y acentos para que los grooves en escala mayor suenen más vivos y con pegada.\"",
+        "de": "\"Nutze Ghost Notes und Akzente, damit Dur-Grooves punchy und lebendig klingen.\"",
+        "ja": "\"ゴーストノートとアクセントで、メジャー・グルーヴにパンチと生命感を。\"",
+        "zh-Hans": "\"用幽灵音和重音让大调律动更有冲击力、更有生命力。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-17T00:06:50Z",
+    "updatedAt": "2026-03-17T00:06:50Z"
   }
 ]
