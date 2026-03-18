@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "two-hand-scale-sync-challenge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Scale Sync Challenge",
+        "pt-BR": "Desafio de Sincronia das Duas Mãos",
+        "es": "Desafío de sincronía de dos manos",
+        "de": "Zwei-Hände-Sync-Challenge",
+        "ja": "両手シンク・チャレンジ",
+        "zh-Hans": "双手同步挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sync both hands with rhythmic grids and dynamics for clean piano scales.",
+        "pt-BR": "Sincronize as mãos com grades rítmicas e dinâmica para escalas limpas no piano.",
+        "es": "Sincroniza ambas manos con rejillas rítmicas y dinámica para escalas limpias en piano.",
+        "de": "Synchronisiere beide Hände mit Rhythmusgittern und Dynamik für saubere Klavierskalen.",
+        "ja": "リズムグリッドとダイナミクスで両手を同期し、きれいなピアノスケールに。",
+        "zh-Hans": "用节奏网格和力度变化让双手同步，练出干净的钢琴音阶。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-18T00:07:00Z",
+    "updatedAt": "2026-03-18T00:07:00Z"
   }
 ]

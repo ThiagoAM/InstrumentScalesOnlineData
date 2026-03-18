@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "metronome-ladder-for-clean-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Metronome Ladder for Clean Scales",
+        "pt-BR": "Escada de Metrônomo para Escalas Limpas",
+        "es": "Escalera de metrónomo para escalas limpias",
+        "de": "Metronom-Leiter für saubere Skalen",
+        "ja": "クリーンなスケールのためのメトロノーム・ラダー",
+        "zh-Hans": "干净音阶的节拍器阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build speed and accuracy with a fun click-track ladder on guitar.",
+        "pt-BR": "Aumente velocidade e precisão com uma escada divertida de clique na guitarra.",
+        "es": "Sube velocidad y precisión con una escalera de clic divertida en guitarra.",
+        "de": "Steigere Tempo und Präzision mit einer spaßigen Klick-Leiter auf der Gitarre.",
+        "ja": "メトロノームのラダー練習でギターの速度と正確さを楽しく上げよう。",
+        "zh-Hans": "用有趣的节拍器阶梯练习提升吉他速度与准确度。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-18T00:03:07Z",
+    "updatedAt": "2026-03-18T00:03:07Z"
   }
 ]

@@ -1,0 +1,60 @@
+{
+  "id": "major-scale-groove-builder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick a key: A major at the 5th fret. Set the metronome to 80 bpm and play root–octave to lock in.",
+          "pt-BR": "Escolha a tonalidade: Lá maior na 5ª casa. Metrônomo a 80 bpm e toque tônica–oitava para firmar.",
+          "es": "Elige la tonalidad: La mayor en el 5º traste. Metrónomo a 80 bpm y toca tónica–octava para fijarlo.",
+          "de": "Wähle die Tonart: A-Dur am 5. Bund. Metronom auf 80 bpm, spiele Grundton–Oktave zum Einrasten.",
+          "ja": "キーを選ぶ：5フレットのAメジャー。メトロノーム80 bpmでルートとオクターブを固定。",
+          "zh-Hans": "选调：A大调第5品。节拍器80 bpm，先弹主音–八度锁定节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove cell: scale degrees 1-2-3-5-6 as eighth notes; loop it for 2 bars.",
+          "pt-BR": "Célula de groove: graus 1-2-3-5-6 em colcheias; repita por 2 compassos.",
+          "es": "Célula de groove: grados 1-2-3-5-6 en corcheas; repite 2 compases.",
+          "de": "Groove-Zelle: Stufen 1-2-3-5-6 als Achtelnoten; 2 Takte loopen.",
+          "ja": "グルーヴセル：度数1-2-3-5-6を8分音符で2小節ループ。",
+          "zh-Hans": "律动单元：音级1-2-3-5-6，八分音符，循环2小节。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add ghost notes on beats 2 and 4, keeping the left hand muting cleanly.",
+          "pt-BR": "Adicione ghost notes nos tempos 2 e 4, mantendo a mão esquerda abafando com precisão.",
+          "es": "Añade notas fantasma en los tiempos 2 y 4, con la mano izquierda apagando con limpieza.",
+          "de": "Füge Ghost Notes auf Zählzeit 2 und 4 hinzu, linke Hand dämpft sauber.",
+          "ja": "2拍目と4拍目にゴーストノートを入れ、左手でミュート。",
+          "zh-Hans": "在2拍和4拍加入幽灵音，左手闷音要干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: record 4 bars, then shift to D major without stopping.",
+          "pt-BR": "Desafio: grave 4 compassos e depois mude para Ré maior sem parar.",
+          "es": "Reto: graba 4 compases y luego cambia a Re mayor sin parar.",
+          "de": "Challenge: Nimm 4 Takte auf und wechsle dann nach D-Dur ohne anzuhalten.",
+          "ja": "チャレンジ：4小節録音し、そのままDメジャーへ移調。",
+          "zh-Hans": "挑战：录4小节，然后不停顿转到D大调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-18T00:05:03Z",
+  "updatedAt": "2026-03-18T00:05:03Z"
+}

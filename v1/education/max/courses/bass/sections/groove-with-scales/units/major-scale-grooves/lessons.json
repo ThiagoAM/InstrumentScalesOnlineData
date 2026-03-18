@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-17T00:06:50Z",
     "updatedAt": "2026-03-17T00:06:50Z"
+  },
+  {
+    "id": "major-scale-groove-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Groove Builder",
+        "pt-BR": "Construtor de Groove com Escala Maior",
+        "es": "Constructor de groove con escala mayor",
+        "de": "Groove-Bauer mit der Durtonleiter",
+        "ja": "メジャースケール・グルーヴビルダー",
+        "zh-Hans": "大调音阶律动构建器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn the major scale into tight bass grooves with ghost notes and accents.",
+        "pt-BR": "Transforme a escala maior em grooves sólidos de baixo com ghost notes e acentos.",
+        "es": "Convierte la escala mayor en grooves de bajo firmes con notas fantasma y acentos.",
+        "de": "Mach aus der Durtonleiter fette Bass-Grooves mit Ghost Notes und Akzenten.",
+        "ja": "メジャースケールをゴーストノートとアクセントでベースのグルーヴに変える。",
+        "zh-Hans": "用大调音阶、幽灵音和重音做出扎实的贝斯律动。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-18T00:05:03Z",
+    "updatedAt": "2026-03-18T00:05:03Z"
   }
 ]
