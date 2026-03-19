@@ -1,0 +1,73 @@
+{
+  "id": "scale-rhythm-grid-challenge",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose one scale and two positions. Set a metronome to 70–90 bpm. Use alternate picking and a clean tone.",
+          "pt-BR": "Configuração: escolha uma escala e duas posições. Metrônomo 70–90 bpm. Palhetada alternada e som limpo.",
+          "es": "Configuración: elige una escala y dos posiciones. Metrónomo 70–90 bpm. Púa alternada y sonido limpio.",
+          "de": "Setup: Wähle eine Skala und zwei Lagen. Metronom 70–90 bpm. Wechselschlag, sauberer Ton.",
+          "ja": "準備：1つのスケールと2つのポジションを選ぶ。メトロノーム70〜90 bpm。オルタネイトでクリーンに。",
+          "zh-Hans": "准备：选择一个音阶和两个把位。节拍器70–90 bpm。交替拨弦，音色干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a 4-cell rhythm grid: A = quarter notes, B = eighth notes, C = triplets, D = sixteenth notes. Play ascending using A B C D, one octave per cell.",
+          "pt-BR": "Monte a grade de 4 células: A = semínimas, B = colcheias, C = tercinas, D = semicolcheias. Toque subindo usando A B C D, uma oitava por célula.",
+          "es": "Crea la cuadrícula de 4 celdas: A = negras, B = corcheas, C = ternas, D = semicorcheas. Sube usando A B C D, una octava por celda.",
+          "de": "Baue ein 4-Zellen-Rhythmusgitter: A = Viertel, B = Achtel, C = Triolen, D = Sechzehntel. Spiele aufwärts mit A B C D, je eine Oktave pro Zelle.",
+          "ja": "4セルのリズムグリッドを作る：A = 4分音符、B = 8分音符、C = 3連符、D = 16分音符。上行でA→B→C→D、各1オクターブ。",
+          "zh-Hans": "建立4格节奏网：A = 四分音符，B = 八分音符，C = 三连音，D = 十六分音符。上行按A B C D，每格一八度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Descend with the reverse order D C B A and shift position at the midpoint.",
+          "pt-BR": "Desça invertendo a ordem D C B A e troque de posição no meio do caminho.",
+          "es": "Baja invirtiendo el orden D C B A y cambia de posición a mitad del recorrido.",
+          "de": "Abwärts die Reihenfolge D C B A und in der Mitte die Lage wechseln.",
+          "ja": "下行はD→C→B→Aに逆順、途中でポジション移動。",
+          "zh-Hans": "下行把顺序改为D C B A，并在中途换把位。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accent game: accent beat 2, then beat 4; then accent every 3rd note. Keep the pulse relaxed.",
+          "pt-BR": "Jogo de acentos: acentue o tempo 2 e depois o 4; em seguida acentue cada 3ª nota. Mantenha o pulso relaxado.",
+          "es": "Juego de acentos: acentúa el tiempo 2 y luego el 4; después acentúa cada 3ª nota. Mantén el pulso relajado.",
+          "de": "Akzent-Spiel: Akzent auf Zählzeit 2, dann 4; danach jeden 3. Ton betonen. Puls entspannt halten.",
+          "ja": "アクセントゲーム：2拍目を強調→4拍目→次に3音ごとにアクセント。力を抜いて拍を保つ。",
+          "zh-Hans": "重音游戏：先强调第2拍，再强调第4拍；然后每3个音强调一次。保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: 3 clean rounds. Record yourself and note which rhythm breaks; bump the tempo by +5 bpm.",
+          "pt-BR": "Desafio: 3 rodadas sem erros. Grave e anote qual ritmo falhou; suba +5 bpm.",
+          "es": "Desafío: 3 rondas sin errores. Graba y anota qué ritmo se rompe; sube +5 bpm.",
+          "de": "Challenge: 3 fehlerfreie Runden. Nimm auf und notiere, welcher Rhythmus wackelt; Tempo +5 bpm.",
+          "ja": "チャレンジ：ミスなしで3周。録音して崩れるリズムをメモし、+5 bpm。",
+          "zh-Hans": "挑战：连续3轮无失误。录音并记录哪个节奏崩；速度+5 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-19T00:02:49Z",
+  "updatedAt": "2026-03-19T00:02:49Z"
+}

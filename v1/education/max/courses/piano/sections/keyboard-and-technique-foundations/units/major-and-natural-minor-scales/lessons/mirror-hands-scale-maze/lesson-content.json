@@ -1,0 +1,73 @@
+{
+  "id": "mirror-hands-scale-maze",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose a major scale, standard fingering in the right hand and mirrored fingering in the left. 60–80 bpm.",
+          "pt-BR": "Configuração: escolha uma escala maior, dedilhado padrão na mão direita e espelhado na esquerda. 60–80 bpm.",
+          "es": "Configuración: elige una escala mayor, digitación estándar en la mano derecha y espejo en la izquierda. 60–80 bpm.",
+          "de": "Setup: Wähle eine Durtonleiter, Standardfingersatz rechts und gespiegelt links. 60–80 bpm.",
+          "ja": "準備：長音階を選び、右手は標準運指、左手は鏡運指。60〜80 bpm。",
+          "zh-Hans": "准备：选择一条大调音阶，右手用标准指法，左手镜像指法。60–80 bpm。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Contrary motion: start on middle C, right hand ascends while left hand descends until you meet at the octave.",
+          "pt-BR": "Movimento contrário: comece no dó central, a direita sobe e a esquerda desce até se encontrarem na oitava.",
+          "es": "Movimiento contrario: empieza en el do central, la derecha sube y la izquierda baja hasta encontrarse en la octava.",
+          "de": "Gegenbewegung: starte am mittleren C, rechte Hand hoch, linke runter, bis ihr euch in der Oktave trefft.",
+          "ja": "反行：中央ドから開始、右手は上行・左手は下行でオクターブで合流。",
+          "zh-Hans": "反向运动：从中央C开始，右手上行、左手下行，在八度处相遇。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Switch to parallel motion, but with different rhythms: right hand in quarters, left hand in eighths.",
+          "pt-BR": "Troque para movimento paralelo, mas com ritmos diferentes: direita em semínimas, esquerda em colcheias.",
+          "es": "Cambia a movimiento paralelo, pero con ritmos distintos: derecha en negras, izquierda en corcheas.",
+          "de": "Wechsle zu paralleler Bewegung, aber mit unterschiedlichen Rhythmen: rechts Viertel, links Achtel.",
+          "ja": "並行運動に切り替え、リズムは別々：右手は4分、左手は8分。",
+          "zh-Hans": "切换为同向运动，但节奏不同：右手四分，左手八分。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze turns: stop on scale degrees 3 and 6, hold for 2 beats, then continue. Keep shoulders relaxed.",
+          "pt-BR": "Curvas do labirinto: pare nos graus 3 e 6, segure 2 tempos e depois continue. Mantenha os ombros relaxados.",
+          "es": "Giros del laberinto: detente en los grados 3 y 6, sostén 2 tiempos y continúa. Mantén los hombros relajados.",
+          "de": "Labyrinth-Kurven: halte bei Stufe 3 und 6, 2 Zählzeiten, dann weiter. Schultern locker.",
+          "ja": "迷路の曲がり角：3度と6度で止めて2拍キープ、続ける。肩はリラックス。",
+          "zh-Hans": "迷宫转弯：在3级和6级停住2拍再继续。肩膀放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: 2 keys back-to-back without breaks. रिकॉर्ड yourself and add +5 bpm when it’s clean.",
+          "pt-BR": "Desafio: 2 tonalidades seguidas sem pausa. Grave e aumente +5 bpm quando ficar limpo.",
+          "es": "Desafío: 2 tonalidades seguidas sin pausa. Graba y sube +5 bpm cuando salga limpio.",
+          "de": "Challenge: 2 Tonarten hintereinander ohne Pause. Aufnehmen und +5 bpm, wenn sauber.",
+          "ja": "チャレンジ：2つのキーを休みなしで連続。録音してきれいなら+5 bpm。",
+          "zh-Hans": "挑战：连续两种调性不中断。录音，干净后+5 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-19T00:07:12Z",
+  "updatedAt": "2026-03-19T00:07:12Z"
+}

@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "pocket-groove-scale-loop",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Groove Scale Loop",
+        "pt-BR": "Loop de Groove no Bolso com Escalas",
+        "es": "Loop de groove en el bolsillo con escalas",
+        "de": "Pocket-Groove-Skalenloop",
+        "ja": "ポケット・グルーヴのスケールループ",
+        "zh-Hans": "口袋律动音阶循环"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock your scale practice to a groove with ghost notes, rests, and feel.",
+        "pt-BR": "Trave sua prática de escalas no groove com ghost notes, pausas e sensação rítmica.",
+        "es": "Asegura tu práctica de escalas al groove con ghost notes, silencios y sensación rítmica.",
+        "de": "Verankere deine Skalenpraxis im Groove mit Ghost Notes, Pausen und Feel.",
+        "ja": "ゴーストノートと休符で、スケール練習をグルーヴに固定しよう。",
+        "zh-Hans": "用幽灵音与休止把音阶练习锁进律动。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-19T00:05:03Z",
+    "updatedAt": "2026-03-19T00:05:03Z"
   }
 ]

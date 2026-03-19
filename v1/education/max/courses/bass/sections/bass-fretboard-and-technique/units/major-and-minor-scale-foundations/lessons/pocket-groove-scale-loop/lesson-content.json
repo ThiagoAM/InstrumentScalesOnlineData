@@ -1,0 +1,73 @@
+{
+  "id": "pocket-groove-scale-loop",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose a major scale, start on the low root, and play two octaves. Metronome at 80 bpm. Alternate index and middle fingers.",
+          "pt-BR": "Configuração: escolha uma escala maior, comece na tônica grave e toque duas oitavas. Metrônomo em 80 bpm. Alterne indicador e médio.",
+          "es": "Configuración: elige una escala mayor, comienza en la tónica grave y toca dos octavas. Metrónomo a 80 bpm. Alterna índice y medio.",
+          "de": "Setup: Wähle eine Durtonleiter, starte auf dem tiefen Grundton und spiele zwei Oktaven. Metronom 80 bpm. Wechsle Zeige- und Mittelfinger.",
+          "ja": "準備：長音階を1つ選び、低いルートから2オクターブ。メトロノーム80 bpm。人差し指と中指を交互に。",
+          "zh-Hans": "准备：选择一条大调音阶，从低音主音开始弹两八度。节拍器80 bpm。食指/中指交替。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a 1-bar groove: beat 1 = root (quarter), beat 2 = rest, beat 3 = 3rd (two eighths), beat 4 = 5th (quarter). Loop it.",
+          "pt-BR": "Crie um groove de 1 compasso: tempo 1 = tônica (semínima), tempo 2 = pausa, tempo 3 = 3ª (duas colcheias), tempo 4 = 5ª (semínima). Faça loop.",
+          "es": "Crea un groove de 1 compás: tiempo 1 = tónica (negra), tiempo 2 = silencio, tiempo 3 = 3ª (dos corcheas), tiempo 4 = 5ª (negra). Repite.",
+          "de": "Baue einen 1-Takt-Groove: Zählzeit 1 = Grundton (Viertel), Zählzeit 2 = Pause, Zählzeit 3 = Terz (zwei Achtel), Zählzeit 4 = Quinte (Viertel). Loopen.",
+          "ja": "1小節グルーヴ：1拍目=ルート(4分)、2拍目=休符、3拍目=3度(8分×2)、4拍目=5度(4分)。ループ。",
+          "zh-Hans": "做一个1小节律动：第1拍=主音(四分)，第2拍=休止，第3拍=三度(两个八分)，第4拍=五度(四分)。循环。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shift the whole groove up the scale each bar (1-2-3-5, then 2-3-4-6, etc.) until you reach the top and back down.",
+          "pt-BR": "Desloque o groove um grau por compasso (1-2-3-5, depois 2-3-4-6 etc.) até o topo e volte.",
+          "es": "Desplaza el groove un grado por compás (1-2-3-5, luego 2-3-4-6, etc.) hasta arriba y vuelve.",
+          "de": "Verschiebe den Groove pro Takt eine Stufe (1-2-3-5, dann 2-3-4-6 usw.) bis oben und zurück.",
+          "ja": "各小節でスケール度数を1つ上げる（1-2-3-5→2-3-4-6...）。上まで行ったら戻る。",
+          "zh-Hans": "每小节整体上移一个级数（1-2-3-5，接着2-3-4-6...），到顶再返回。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add ghost notes on the rests and accent beats 2 and 4. Keep notes short and even.",
+          "pt-BR": "Adicione ghost notes nas pausas e acentue os tempos 2 e 4. Mantenha as notas curtas e uniformes.",
+          "es": "Añade ghost notes en los silencios y acentúa los tiempos 2 y 4. Mantén las notas cortas y parejas.",
+          "de": "Füge Ghost Notes in die Pausen und akzentuiere Zählzeit 2 und 4. Kurze, gleichmäßige Noten.",
+          "ja": "休符にゴーストノートを入れ、2拍目と4拍目を強調。短く均一に。",
+          "zh-Hans": "在休止处加幽灵音，并强调第2拍和第4拍。音要短而均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: 4-bar loop without rushing. Record and mark where the groove drifts; raise tempo +5 bpm.",
+          "pt-BR": "Desafio: loop de 4 compassos sem correr. Grave e marque onde o groove sai; aumente +5 bpm.",
+          "es": "Desafío: loop de 4 compases sin acelerarte. Graba y marca dónde se va el groove; sube +5 bpm.",
+          "de": "Challenge: 4-Takt-Loop ohne zu hetzen. Nimm auf und markiere, wo der Groove driftet; Tempo +5 bpm.",
+          "ja": "チャレンジ：4小節ループを走らずに。録音してズレる場所をメモ、+5 bpm。",
+          "zh-Hans": "挑战：4小节循环不抢拍。录音并标记漂移处；速度+5 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-19T00:05:03Z",
+  "updatedAt": "2026-03-19T00:05:03Z"
+}

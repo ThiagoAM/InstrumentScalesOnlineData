@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-16T00:08:08Z",
     "updatedAt": "2026-03-16T00:08:08Z"
+  },
+  {
+    "id": "mirror-hands-scale-maze",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mirror Hands Scale Maze",
+        "pt-BR": "Labirinto de Escalas com Mãos Espelhadas",
+        "es": "Laberinto de escalas con manos espejadas",
+        "de": "Skalenlabyrinth mit gespiegelten Händen",
+        "ja": "ミラーハンド・スケール迷路",
+        "zh-Hans": "镜像双手音阶迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate scales with mirrored hands and contrary motion for coordination.",
+        "pt-BR": "Navegue pelas escalas com mãos espelhadas e movimento contrário para coordenação.",
+        "es": "Recorre las escalas con manos espejadas y movimiento contrario para coordinación.",
+        "de": "Navigiere Skalen mit gespiegelten Händen und Gegenbewegung für bessere Koordination.",
+        "ja": "鏡のような運指と反行で、スケールの協調性を鍛えよう。",
+        "zh-Hans": "用镜像指法与反向运动提升音阶协调性。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-19T00:07:12Z",
+    "updatedAt": "2026-03-19T00:07:12Z"
   }
 ]

@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-18T00:03:07Z",
     "updatedAt": "2026-03-18T00:03:07Z"
+  },
+  {
+    "id": "scale-rhythm-grid-challenge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Grid Challenge for Scales",
+        "pt-BR": "Desafio da Grade Rítmica para Escalas",
+        "es": "Desafío de cuadrícula rítmica para escalas",
+        "de": "Rhythmus-Gitter-Challenge für Skalen",
+        "ja": "スケールのリズムグリッド・チャレンジ",
+        "zh-Hans": "音阶节奏网格挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a rhythmic game that improves timing, accents, and position shifts.",
+        "pt-BR": "Transforme a prática de escalas em um jogo rítmico que melhora timing, acentos e mudanças de posição.",
+        "es": "Convierte la práctica de escalas en un juego rítmico que mejora el pulso, los acentos y los cambios de posición.",
+        "de": "Mach das Skalenüben zu einem Rhythmusspiel, das Timing, Akzente und Lagenwechsel verbessert.",
+        "ja": "スケール練習をリズムゲームに変えて、タイミング・アクセント・ポジション移動を鍛えよう。",
+        "zh-Hans": "把音阶练习变成节奏游戏，提升时值感、重音与把位移动。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-19T00:02:49Z",
+    "updatedAt": "2026-03-19T00:02:49Z"
   }
 ]
