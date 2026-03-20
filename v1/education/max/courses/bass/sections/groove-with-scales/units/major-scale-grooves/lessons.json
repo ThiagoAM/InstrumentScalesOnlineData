@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-03-18T00:05:03Z",
     "updatedAt": "2026-03-18T00:05:03Z"
+  },
+  {
+    "id": "call-and-response-major-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Major Grooves",
+        "pt-BR": "Grooves Maiores de Chamada e Resposta",
+        "es": "Grooves mayores de llamada y respuesta",
+        "de": "Dur-Grooves im Call-and-Response",
+        "ja": "メジャーグルーヴのコール＆レスポンス",
+        "zh-Hans": "大调律动的呼应练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build groove vocabulary by answering your own bass phrases.",
+        "pt-BR": "Construa vocabulário de groove respondendo às suas próprias frases de baixo.",
+        "es": "Construye vocabulario de groove respondiendo a tus propias frases de bajo.",
+        "de": "Baue Groove-Vokabular auf, indem du deine eigenen Bassphrasen beantwortest.",
+        "ja": "自分のフレーズに答えてグルーヴ語彙を増やそう。",
+        "zh-Hans": "用自己回应自己的贝斯乐句来扩展律动语汇。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-20T00:07:14Z",
+    "updatedAt": "2026-03-20T00:07:14Z"
   }
 ]

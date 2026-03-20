@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-18T00:07:00Z",
     "updatedAt": "2026-03-18T00:07:00Z"
+  },
+  {
+    "id": "dynamic-arc-scale-ladders",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dynamic Arc Scale Ladders",
+        "pt-BR": "Escadas de Escalas com Arco Dinâmico",
+        "es": "Escaleras de escalas con arco dinámico",
+        "de": "Dynamische Bogen-Skalenleiter",
+        "ja": "ダイナミック・アーク・スケールラダー",
+        "zh-Hans": "动态弧线音阶阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Blend crescendo/decrescendo control with tempo steps.",
+        "pt-BR": "Combine controle de crescendo/decrescendo com degraus de tempo.",
+        "es": "Combina control de crescendo/decrescendo con escalones de tempo.",
+        "de": "Verbinde Crescendo/Decrescendo-Kontrolle mit Tempostufen.",
+        "ja": "クレッシェンド／デクレッシェンドのコントロールをテンポ段階と組み合わせる。",
+        "zh-Hans": "将渐强/渐弱控制与速度阶梯结合。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-20T00:08:32Z",
+    "updatedAt": "2026-03-20T00:08:32Z"
   }
 ]

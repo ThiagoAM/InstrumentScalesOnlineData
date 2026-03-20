@@ -1,0 +1,73 @@
+{
+  "id": "call-and-response-major-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose a key (G major or A major) and a 2-bar groove cell using scale degrees 1-2-3-5. Tap the pulse.",
+          "pt-BR": "Escolha uma tonalidade (Sol maior ou Lá maior) e uma célula de groove de 2 compassos usando os graus 1-2-3-5. Marque o pulso.",
+          "es": "Elige una tonalidad (Sol mayor o La mayor) y una célula de groove de 2 compases con grados 1-2-3-5. Marca el pulso.",
+          "de": "Wähle eine Tonart (G-Dur oder A-Dur) und eine 2-Takt-Groove-Zelle mit den Stufen 1-2-3-5. Klopfe den Puls.",
+          "ja": "キー（GメジャーかAメジャー）を選び、度数1-2-3-5で2小節のグルーヴセルを作る。脈を足で刻む。",
+          "zh-Hans": "选择调性（G大调或A大调），用1-2-3-5级做一个2小节的律动单元，并用脚打拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Call-and-response: bars 1–2 play the groove cell, bars 3–4 answer with a variation using another scale tone or passing note.",
+          "pt-BR": "Chamada e resposta: nos compassos 1–2 toque a célula, nos compassos 3–4 responda com uma variação usando outra nota da escala ou uma nota de passagem.",
+          "es": "Llamada y respuesta: en los compases 1–2 toca la célula, en los compases 3–4 responde con una variación usando otra nota de la escala o una nota de paso.",
+          "de": "Call-and-Response: Spiele in Takt 1–2 die Zelle, antworte in Takt 3–4 mit einer Variation und nutze einen anderen Skalenton oder einen Durchgangston.",
+          "ja": "コール＆レスポンス：1〜2小節はセル、3〜4小節は別のスケール音やパッシングノートで変化を付けて答える。",
+          "zh-Hans": "呼应练习：第1–2小节演奏单元，第3–4小节用另一个音阶音或经过音做变化回应。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lock the rhythm by accenting beat 1 and the “and” of 2. Add one ghost note per bar for punch.",
+          "pt-BR": "Trave o ritmo acentuando o tempo 1 e o “e” do 2. Adicione uma ghost note por compasso para dar punch.",
+          "es": "Fija el ritmo acentuando el tiempo 1 y el “y” de 2. Añade una ghost note por compás para darle pegada.",
+          "de": "Verschraube den Rhythmus, indem du Schlag 1 und das „und“ von 2 betonst. Füge pro Takt eine Ghost Note für Punch hinzu.",
+          "ja": "1拍と2拍裏にアクセントを置いてリズムを固める。1小節に1つゴーストノートを入れてパンチを出す。",
+          "zh-Hans": "通过强调第1拍和第2拍的“&”来锁定节奏。每小节加入一个幽灵音增强力度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Cycle the starting degree each round (1, 2, 3, then 5) while keeping the same rhythm.",
+          "pt-BR": "A cada rodada, mude o grau inicial (1, 2, 3, depois 5) mantendo o mesmo ritmo.",
+          "es": "En cada ronda cambia el grado inicial (1, 2, 3 y luego 5) manteniendo el mismo ritmo.",
+          "de": "Wechsle in jeder Runde den Startton (1, 2, 3, dann 5), behalte aber denselben Rhythmus.",
+          "ja": "各ラウンドで開始度数を1→2→3→5に変え、リズムは同じに保つ。",
+          "zh-Hans": "每轮把起始级改为1、2、3、5，但保持相同节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: record four cycles and listen back for even note lengths. Adjust left-hand muting until it feels tight.",
+          "pt-BR": "Desafio: grave quatro ciclos e escute se as durações das notas estão uniformes. Ajuste a mão esquerda para abafar até ficar firme.",
+          "es": "Desafío: graba cuatro ciclos y escucha si las duraciones de las notas son uniformes. Ajusta el apagado de la mano izquierda hasta que suene firme.",
+          "de": "Challenge: Nimm vier Durchläufe auf und prüfe, ob die Notenlängen gleichmäßig sind. Passe das Dämpfen der linken Hand an, bis es tight ist.",
+          "ja": "チャレンジ：4サイクル録音して音の長さが揃っているか確認。左手のミュートを調整してタイトに。",
+          "zh-Hans": "挑战：录下4个循环，回听音值是否均匀。调整左手消音直到紧实。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-20T00:07:14Z",
+  "updatedAt": "2026-03-20T00:07:14Z"
+}

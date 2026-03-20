@@ -1,0 +1,73 @@
+{
+  "id": "position-shift-scale-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick a major scale you know well (A minor works too). Mark two adjacent positions on the neck and set a metronome at a comfortable tempo.",
+          "pt-BR": "Escolha uma escala maior que você conheça bem (Lá menor também serve). Marque duas posições adjacentes no braço e ajuste o metrônomo em um tempo confortável.",
+          "es": "Elige una escala mayor que conozcas bien (La menor también funciona). Marca dos posiciones adyacentes en el mástil y pon un metrónomo a un tempo cómodo.",
+          "de": "Wähle eine Dur-Tonleiter, die du gut kennst (A-Moll geht auch). Markiere zwei benachbarte Lagen auf dem Griffbrett und stelle ein Metronom auf ein bequemes Tempo.",
+          "ja": "よく知っているメジャースケールを選ぶ（AマイナーでもOK）。指板上の隣接する2つのポジションを決め、メトロノームを無理のないテンポに設定する。",
+          "zh-Hans": "选择你熟悉的大调音阶（A小调也可以）。在指板上标出相邻的两个把位，并把节拍器设在舒适的速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Relay drill: play 4 notes in position 1, then shift to position 2 for the next 4 notes. Keep the rhythm steady and loop the relay.",
+          "pt-BR": "Exercício de revezamento: toque 4 notas na posição 1, depois mude para a posição 2 nas próximas 4 notas. Mantenha o ritmo firme e repita.",
+          "es": "Ejercicio de relevo: toca 4 notas en la posición 1 y luego cambia a la posición 2 para las siguientes 4 notas. Mantén el ritmo estable y repite.",
+          "de": "Staffel-Drill: Spiele 4 Noten in Position 1, wechsle dann für die nächsten 4 Noten in Position 2. Halte den Puls stabil und wiederhole.",
+          "ja": "リレードリル：ポジション1で4音弾いたら、次の4音はポジション2へ移動。リズムを一定に保って繰り返す。",
+          "zh-Hans": "接力练习：在把位1弹4个音，然后切换到把位2再弹4个音。保持节奏稳定并循环。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add an accent on the first note after each shift. Use strict alternate picking and listen for string noise during the move.",
+          "pt-BR": "Acentue a primeira nota após cada mudança. Use palhetada alternada estrita e ouça ruídos de corda durante o movimento.",
+          "es": "Acentúa la primera nota después de cada cambio. Usa púa alternada estricta y escucha ruidos de cuerdas durante el cambio.",
+          "de": "Setze auf die erste Note nach jedem Wechsel einen Akzent. Spiele strikt im Wechselschlag und achte auf Saitengeräusche beim Übergang.",
+          "ja": "移動後の最初の音にアクセントを付ける。オルタネイトピッキングを徹底し、移動中の弦ノイズを確認。",
+          "zh-Hans": "在每次切换后的第一个音上加重音。严格使用交替拨弦，注意移动时的弦噪。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Reverse the relay: shift back to position 1 after the next 4 notes. Try starting on different strings to test consistency.",
+          "pt-BR": "Inverta o revezamento: após as próximas 4 notas, volte para a posição 1. Comece em cordas diferentes para testar a consistência.",
+          "es": "Invierte el relevo: después de las siguientes 4 notas, vuelve a la posición 1. Empieza en distintas cuerdas para probar la consistencia.",
+          "de": "Drehe die Staffel um: Wechsle nach den nächsten 4 Noten zurück in Position 1. Starte auf verschiedenen Saiten, um die Konstanz zu testen.",
+          "ja": "リレーを逆にする：次の4音の後にポジション1へ戻る。開始弦を変えて安定度を試す。",
+          "zh-Hans": "反向接力：再弹4个音后回到把位1。尝试从不同弦开始，检验一致性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: run a 60-second ladder. Every 4 bars, increase the tempo by 5 bpm. Log your clean top speed.",
+          "pt-BR": "Desafio: faça uma escada de 60 segundos. A cada 4 compassos, aumente 5 bpm. Anote sua velocidade máxima limpa.",
+          "es": "Desafío: haz una escalera de 60 segundos. Cada 4 compases, sube 5 bpm. Anota tu velocidad máxima limpia.",
+          "de": "Challenge: Spiele eine 60-Sekunden-Leiter. Erhöhe alle 4 Takte das Tempo um 5 bpm. Notiere dein sauberes Top-Tempo.",
+          "ja": "チャレンジ：60秒のテンポ・ラダー。4小節ごとに5 bpm上げる。クリーンに弾けた最高テンポを記録。",
+          "zh-Hans": "挑战：做一个60秒速度阶梯。每4小节提高5 bpm，记录你最干净的最高速度。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-20T00:06:00Z",
+  "updatedAt": "2026-03-20T00:06:00Z"
+}

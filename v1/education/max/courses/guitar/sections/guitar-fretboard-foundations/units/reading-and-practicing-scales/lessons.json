@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-19T00:02:49Z",
     "updatedAt": "2026-03-19T00:02:49Z"
+  },
+  {
+    "id": "position-shift-scale-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Position-Shift Scale Relay",
+        "pt-BR": "Revezamento de Mudança de Posição na Escala",
+        "es": "Relevo de Cambios de Posición en la Escala",
+        "de": "Positionswechsel-Staffel für Skalen",
+        "ja": "ポジション移動スケール・リレー",
+        "zh-Hans": "把位切换音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train clean shifts between scale positions with a timed relay drill.",
+        "pt-BR": "Treine mudanças limpas entre posições da escala com um exercício de revezamento cronometrado.",
+        "es": "Entrena cambios limpios entre posiciones de la escala con un ejercicio de relevo cronometrado.",
+        "de": "Trainiere saubere Wechsel zwischen Skalenpositionen mit einem zeitgesteuerten Staffel-Drill.",
+        "ja": "タイムドリルでスケールのポジション間をクリーンに移動する練習をしよう。",
+        "zh-Hans": "用计时接力练习，训练音阶把位之间的干净切换。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-20T00:06:00Z",
+    "updatedAt": "2026-03-20T00:06:00Z"
   }
 ]
