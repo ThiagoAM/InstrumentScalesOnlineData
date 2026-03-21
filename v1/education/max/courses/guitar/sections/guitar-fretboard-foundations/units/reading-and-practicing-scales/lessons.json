@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-03-20T00:06:00Z",
     "updatedAt": "2026-03-20T00:06:00Z"
+  },
+  {
+    "id": "guitar-scale-degree-roadmap",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Degree Roadmap",
+        "pt-BR": "Roteiro dos Graus da Escala",
+        "es": "Mapa de Grados de la Escala",
+        "de": "Stufen-Route der Skala",
+        "ja": "スケール度数ロードマップ",
+        "zh-Hans": "音阶级数路线图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a quick map of scale degrees so you can navigate any scale shape on guitar.",
+        "pt-BR": "Monte um mapa rápido dos graus para navegar qualquer desenho de escala no violão/guitarra.",
+        "es": "Crea un mapa rápido de grados para navegar cualquier forma de escala en guitarra.",
+        "de": "Erstelle eine schnelle Stufenkarte, um jede Skalenform auf der Gitarre zu navigieren.",
+        "ja": "ギターのどんなスケール形でも迷わない度数マップを作ろう。",
+        "zh-Hans": "做一张快速级数地图，轻松导航任何吉他音阶形状。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-21T00:02:07Z",
+    "updatedAt": "2026-03-21T00:02:07Z"
   }
 ]

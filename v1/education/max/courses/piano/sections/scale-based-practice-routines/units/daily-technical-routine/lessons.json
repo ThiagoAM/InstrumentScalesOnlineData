@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-03-20T00:08:32Z",
     "updatedAt": "2026-03-20T00:08:32Z"
+  },
+  {
+    "id": "piano-scale-timer-laps",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Scale Timer Laps",
+        "pt-BR": "Voltas cronometradas da escala",
+        "es": "Vueltas cronometradas de escala",
+        "de": "Skalen-Zeitrunden",
+        "ja": "スケール・タイマーラップ",
+        "zh-Hans": "音阶计时圈"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use short timed laps to make your daily scale practice focused and fun.",
+        "pt-BR": "Use voltas curtas no cronômetro para deixar o treino diário focado e divertido.",
+        "es": "Usa vueltas cortas con temporizador para un estudio diario enfocado y divertido.",
+        "de": "Nutze kurze Timer-Runden, damit dein tägliches Skalenüben fokussiert und spaßig bleibt.",
+        "ja": "短いタイマーラップで毎日のスケール練習を集中＆楽しく。",
+        "zh-Hans": "用短时间的计时圈让每日音阶练习更专注、更有趣。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-21T00:05:52Z",
+    "updatedAt": "2026-03-21T00:05:52Z"
   }
 ]

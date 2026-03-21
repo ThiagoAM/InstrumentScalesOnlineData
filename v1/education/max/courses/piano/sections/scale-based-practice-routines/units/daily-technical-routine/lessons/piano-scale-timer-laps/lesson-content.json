@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-timer-laps",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll run “timer laps” — short bursts that keep your scale practice sharp and exciting.",
+          "pt-BR": "Hoje você fará “voltas cronometradas” — blocos curtos que deixam a prática de escalas afiada e empolgante.",
+          "es": "Hoy harás “vueltas cronometradas”: ráfagas cortas que hacen la práctica de escalas más precisa y entretenida.",
+          "de": "Heute läufst du „Zeitrunden“ – kurze Abschnitte, die deine Skalenpraxis frisch und konzentriert halten.",
+          "ja": "今日は「タイマーラップ」を走ります。短い区切りで集中力と楽しさを保ちましょう。",
+          "zh-Hans": "今天我们跑“计时圈”——用短小的练习段保持专注和新鲜感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick one scale (C major is fine). Set a timer for 60 seconds and play hands separately, slow and relaxed.",
+          "pt-BR": "Escolha uma escala (Dó maior serve). Ajuste 60 segundos e toque mãos separadas, devagar e relaxado.",
+          "es": "Elige una escala (Do mayor está bien). Pon 60 segundos y toca manos separadas, lento y relajado.",
+          "de": "Wähle eine Skala (C-Dur passt). Stelle 60 Sekunden ein und spiele Hände getrennt, langsam und entspannt.",
+          "ja": "スケールを1つ選びます（CメジャーでOK）。60秒にセットし、片手ずつゆっくり弾きます。",
+          "zh-Hans": "选一个音阶（C大调即可）。设定60秒，双手分开慢速演奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Reset the timer. Now play hands together, still slow, aiming for even tone and smooth thumb turns.",
+          "pt-BR": "Reinicie o timer. Agora toque mãos juntas, ainda lento, buscando timbre uniforme e passagens de polegar suaves.",
+          "es": "Reinicia el temporizador. Ahora toca manos juntas, aún lento, buscando un sonido parejo y cruces de pulgar suaves.",
+          "de": "Timer neu starten. Jetzt Hände zusammen, immer noch langsam, mit gleichmäßigem Ton und sauberen Daumenuntersätzen.",
+          "ja": "タイマーをリセット。両手で、まだゆっくり。音色の均一さと親指のくぐりを丁寧に。",
+          "zh-Hans": "重置计时器。双手合起来，仍然慢速，追求均匀音色和顺滑的拇指穿指。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Third lap: switch rhythm (long–short or short–long) while keeping the same notes. Stay in control.",
+          "pt-BR": "Terceira volta: mude o ritmo (longa–curta ou curta–longa) mantendo as mesmas notas. Controle total.",
+          "es": "Tercera vuelta: cambia el ritmo (larga–corta o corta–larga) con las mismas notas. Mantén el control.",
+          "de": "Dritte Runde: Rhythmus wechseln (lang–kurz oder kurz–lang), gleiche Noten. Bleib kontrolliert.",
+          "ja": "3周目：リズムを変える（長-短 / 短-長）。同じ音でコントロール重視。",
+          "zh-Hans": "第三圈：改变节奏（长-短或短-长），音不变，保持控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Fourth lap: change the dynamic — start soft and grow to medium, then back to soft.",
+          "pt-BR": "Quarta volta: mude a dinâmica — comece piano, cresça até mezzo-forte e volte ao piano.",
+          "es": "Cuarta vuelta: cambia la dinámica — empieza suave, sube a mezzo-forte y vuelve a suave.",
+          "de": "Vierte Runde: Dynamik wechseln – leise starten, bis mezzoforte steigern, dann zurück.",
+          "ja": "4周目：ダイナミクスを変える。小さく始めて中くらいまで上げ、また小さく。",
+          "zh-Hans": "第四圈：改变力度——从弱开始到中等再回弱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by writing down one win and one thing to improve tomorrow. Consistency beats speed.",
+          "pt-BR": "Finalize anotando uma vitória e um ponto a melhorar amanhã. Consistência vence velocidade.",
+          "es": "Termina anotando una victoria y una mejora para mañana. La constancia gana a la velocidad.",
+          "de": "Zum Schluss notiere einen Erfolg und eine Sache für morgen. Konstanz schlägt Tempo.",
+          "ja": "最後に、今日の成功と明日の改善点を1つずつメモ。継続がスピードに勝ちます。",
+          "zh-Hans": "最后写下一个收获和一个明天要改进的点。稳定性胜过速度。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-21T00:05:52Z",
+  "updatedAt": "2026-03-21T00:05:52Z"
+}

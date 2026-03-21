@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-03-20T00:07:14Z",
     "updatedAt": "2026-03-20T00:07:14Z"
+  },
+  {
+    "id": "bass-major-groove-pockets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Groove Pockets",
+        "pt-BR": "Bolsões de Groove em Maior",
+        "es": "Bolsillos de Groove en Mayor",
+        "de": "Groove-Pockets in Dur",
+        "ja": "メジャーグルーヴ・ポケット",
+        "zh-Hans": "大调律动口袋"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock in major-scale grooves by building tight two-bar bass patterns.",
+        "pt-BR": "Trave grooves da escala maior criando padrões de baixo em dois compassos.",
+        "es": "Afianza grooves de la escala mayor creando patrones de bajo en dos compases.",
+        "de": "Stabilisiere Dur-Grooves, indem du zwei-taktige Bassmuster baust.",
+        "ja": "メジャースケールで2小節のベースパターンを作り、グルーヴを固めよう。",
+        "zh-Hans": "用大调音阶做两小节贝斯型，稳稳锁住律动。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-03-21T00:03:57Z",
+    "updatedAt": "2026-03-21T00:03:57Z"
   }
 ]
