@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-03-21T00:05:52Z",
     "updatedAt": "2026-03-21T00:05:52Z"
+  },
+  {
+    "id": "hands-together-burst-routine",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Hands‑Together Burst Routine\"",
+        "pt-BR": "\"Rotina de Burst com Mãos Juntas\"",
+        "es": "\"Rutina de burst a manos juntas\"",
+        "de": "\"Burst‑Routine mit beiden Händen\"",
+        "ja": "\"両手バースト・ルーティン\"",
+        "zh-Hans": "\"双手爆发练习\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build speed safely with short bursts inside a daily scale routine.\"",
+        "pt-BR": "\"Ganhe velocidade com bursts curtos dentro da rotina diária de escalas.\"",
+        "es": "\"Gana velocidad con bursts cortos dentro de la rutina diaria de escalas.\"",
+        "de": "\"Baue Tempo mit kurzen Bursts in der täglichen Skalenroutine auf.\"",
+        "ja": "\"短いバーストで安全にスピードを上げる日課。\"",
+        "zh-Hans": "\"在日常音阶中用短促爆发安全提速。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-03-22T00:06:30Z",
+    "updatedAt": "2026-03-22T00:06:30Z"
   }
 ]

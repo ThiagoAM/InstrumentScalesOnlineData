@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-03-21T00:02:07Z",
     "updatedAt": "2026-03-21T00:02:07Z"
+  },
+  {
+    "id": "metronome-ladder-scale-reading",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Metronome Ladder: Scale Reading Workout\"",
+        "pt-BR": "\"Escada de Metrônomo: Leitura de Escala\"",
+        "es": "\"Escalera de metrónomo: lectura de escalas\"",
+        "de": "\"Metronom-Leiter: Skalenlesen-Workout\"",
+        "ja": "\"メトロノーム階段：スケール読みトレ\"",
+        "zh-Hans": "\"节拍器阶梯：音阶阅读训练\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Climb tempo ladders while reading a scale pattern in position.\"",
+        "pt-BR": "\"Suba o BPM enquanto lê um padrão de escala na posição.\"",
+        "es": "\"Sube el tempo mientras lees un patrón de escala en posición.\"",
+        "de": "\"Steigere das Tempo, während du ein Skalenmuster in Position liest.\"",
+        "ja": "\"ポジションでスケールパターンを読みながらテンポを上げる。\"",
+        "zh-Hans": "\"在固定把位阅读音阶模式，同时提高速度。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-03-22T00:04:06Z",
+    "updatedAt": "2026-03-22T00:04:06Z"
   }
 ]

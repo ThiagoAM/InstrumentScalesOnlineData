@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-03-21T00:03:57Z",
     "updatedAt": "2026-03-21T00:03:57Z"
+  },
+  {
+    "id": "groove-ladder-g-major",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Groove Ladder in G Major\"",
+        "pt-BR": "\"Escada de Groove em Sol Maior\"",
+        "es": "\"Escalera de groove en Sol mayor\"",
+        "de": "\"Groove‑Leiter in G‑Dur\"",
+        "ja": "\"Gメジャーのグルーヴ階段\"",
+        "zh-Hans": "\"G大调律动阶梯\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a tight bass groove while climbing the tempo ladder.\"",
+        "pt-BR": "\"Construa um groove firme enquanto sobe o BPM.\"",
+        "es": "\"Construye un groove sólido mientras subes el tempo.\"",
+        "de": "\"Baue einen tighten Bass‑Groove auf, während du das Tempo steigerst.\"",
+        "ja": "\"テンポを上げながらタイトなグルーヴを作る。\"",
+        "zh-Hans": "\"在提高速度的同时建立扎实的贝斯律动。\""
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-03-22T00:05:16Z",
+    "updatedAt": "2026-03-22T00:05:16Z"
   }
 ]

@@ -1,0 +1,60 @@
+{
+  "id": "metronome-ladder-scale-reading",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick C major in 5th position (one octave). Say every note name out loud as you play.",
+          "pt-BR": "Escolha Dó maior na 5ª posição (uma oitava). Diga o nome de cada nota em voz alta enquanto toca.",
+          "es": "Elige Do mayor en 5ª posición (una octava). Di el nombre de cada nota en voz alta al tocar.",
+          "de": "Wähle C-Dur in der 5. Lage (eine Oktave). Sprich jeden Notennamen laut aus, während du spielst.",
+          "ja": "5ポジションのCメジャー（1オクターブ）を選ぶ。弾きながら音名を声に出す。",
+          "zh-Hans": "选择第五把位的C大调（一组音）。弹奏时大声说出每个音名。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Metronome ladder: start at 60 BPM. Play the pattern cleanly 4 times. If it’s perfect, add +5 BPM. First mistake? Drop back 5 BPM and lock it in.",
+          "pt-BR": "Escada de metrônomo: comece a 60 BPM. Toque o padrão limpo 4 vezes. Se estiver perfeito, aumente +5 BPM. Errou? Volte 5 BPM e firme.",
+          "es": "Escalera de metrónomo: empieza a 60 BPM. Toca el patrón limpio 4 veces. Si está perfecto, suma +5 BPM. ¿Error? Baja 5 BPM y asegura.",
+          "de": "Metronom-Leiter: starte bei 60 BPM. Spiele das Muster 4‑mal sauber. Wenn es perfekt ist, +5 BPM. Fehler? 5 BPM zurück und festigen.",
+          "ja": "メトロノーム階段：60 BPMから開始。パターンをきれいに4回。完璧なら+5 BPM。ミスしたら5 BPM下げて固める。",
+          "zh-Hans": "节拍器阶梯：从60 BPM开始。干净地弹4遍。完美就+5 BPM。有失误就降5 BPM并稳住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm twist: 2 bars of straight 8ths, then 2 bars with offbeat accents (accent the “and”). Keep your fretting hand relaxed.",
+          "pt-BR": "Desafio rítmico: 2 compassos de colcheias retas, depois 2 compassos com acentos no contratempo (acentue o “e”). Mão esquerda relaxada.",
+          "es": "Giro rítmico: 2 compases de corcheas rectas, luego 2 compases con acentos a contratiempo (acentúa el “y”). Mano izquierda relajada.",
+          "de": "Rhythmus‑Twist: 2 Takte gerade Achtel, dann 2 Takte mit Offbeat‑Akzenten (betone das „und“). Greifhand locker.",
+          "ja": "リズムのひねり：8分音符を2小節、その後オフビートにアクセントを2小節（「裏」を強調）。左手はリラックス。",
+          "zh-Hans": "节奏变化：2小节直八分，然后2小节强调反拍（重读“and”）。按弦手保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mini performance: improvise a 4‑bar lick using only the scale notes and end on C or E. Write down your highest clean tempo.",
+          "pt-BR": "Mini performance: improvise um lick de 4 compassos usando só as notas da escala e termine em Dó ou Mi. Anote o maior BPM limpo.",
+          "es": "Mini performance: improvisa un lick de 4 compases usando solo notas de la escala y termina en Do o Mi. Anota tu BPM limpio más alto.",
+          "de": "Mini‑Performance: improvisiere ein 4‑taktiges Lick nur mit Skalentönen und ende auf C oder E. Notiere dein höchstes sauberes Tempo.",
+          "ja": "ミニ演奏：スケール音だけで4小節のリックを作り、CかEで終える。最高のクリーンテンポを記録。",
+          "zh-Hans": "迷你演出：只用音阶音做一个4小节乐句，以C或E收尾。记录最高的干净速度。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-22T00:04:06Z",
+  "updatedAt": "2026-03-22T00:04:06Z"
+}
