@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-03-22T00:06:30Z",
     "updatedAt": "2026-03-22T00:06:30Z"
+  },
+  {
+    "id": "rhythm-shift-scale-drill",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Rhythm-Shift Scale Drill\"",
+        "pt-BR": "\"Drill de Escala com Troca de Ritmo\"",
+        "es": "\"Ejercicio de Escala con Cambio Rítmico\"",
+        "de": "\"Rhythmuswechsel-Übung mit Tonleitern\"",
+        "ja": "\"リズム切り替えスケールドリル\"",
+        "zh-Hans": "\"节奏切换音阶训练\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Run one scale while switching between eighths, triplets, and sixteenths at the same tempo.\"",
+        "pt-BR": "\"Toque uma escala alternando colcheias, tercinas e semicolcheias no mesmo tempo.\"",
+        "es": "\"Toca una escala alternando corcheas, tresillos y semicorcheas al mismo tempo.\"",
+        "de": "\"Spiele eine Tonleiter und wechsle zwischen Achteln, Triolen und Sechzehnteln im selben Tempo.\"",
+        "ja": "\"同じテンポで8分音符・3連符・16分音符を切り替えてスケールを弾く。\"",
+        "zh-Hans": "\"在同一速度下，用八分、三连、十六分切换演奏一条音阶。\""
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-03-23T00:08:54Z",
+    "updatedAt": "2026-03-23T00:08:54Z"
   }
 ]

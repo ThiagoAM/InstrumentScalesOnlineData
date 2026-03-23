@@ -19,6 +19,7 @@
     "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/a-minor-pentatonic-boxes-2-and-3",
     "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/linking-boxes-1-3-across-the-neck",
     "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/minor-pentatonic-sequences-in-groups-of-four",
+    "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/minor-pentatonic-call-and-response",
     "guitar/guitar-pentatonic-and-blues-power/major-pentatonic-and-conversions/c-major-pentatonic-box-1",
     "guitar/guitar-pentatonic-and-blues-power/major-pentatonic-and-conversions/converting-minor-pentatonic-shapes-to-major",
     "guitar/guitar-pentatonic-and-blues-power/major-pentatonic-and-conversions/switching-major-minor-over-the-same-progression",
@@ -49,5 +50,5 @@
     "guitar/guitar-applying-scales-in-improvisation/practice-routines-and-etudes/call-and-response-improv-etude"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-03-22T00:04:06Z"
+  "updatedAt": "2026-03-23T00:06:01Z"
 }

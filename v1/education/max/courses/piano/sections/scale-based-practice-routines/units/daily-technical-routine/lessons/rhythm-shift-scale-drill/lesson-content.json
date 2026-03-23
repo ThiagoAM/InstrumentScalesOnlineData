@@ -1,0 +1,73 @@
+{
+  "id": "rhythm-shift-scale-drill",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# One scale, three rhythms\nYou’ll take a single scale and switch rhythmic feels **without changing the tempo**. This builds control, focus, and the ability to groove inside any subdivision.",
+          "pt-BR": "# Uma escala, três ritmos\nVocê vai tocar uma mesma escala mudando a subdivisão **sem mexer no BPM**. Isso desenvolve controle, foco e groove.",
+          "es": "# Una escala, tres ritmos\nVas a tocar una sola escala cambiando la subdivisión **sin mover el BPM**. Esto mejora control, enfoque y groove.",
+          "de": "# Eine Tonleiter, drei Rhythmen\nDu spielst eine einzige Tonleiter und wechselst die Unterteilung **ohne das Tempo zu ändern**. Das trainiert Kontrolle, Fokus und Groove.",
+          "ja": "# 1つのスケールで3つのリズム\nテンポを変えずに、同じスケールで**リズムの細分**を切り替えます。コントロールと集中力、グルーヴ感を鍛えましょう。",
+          "zh-Hans": "# 一条音阶，三种节奏\n你将演奏同一条音阶并切换细分，**速度不变**。这能提升控制力、专注度和律动感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Base setup\nUse **C major**, two octaves, hands together. Set the metronome to **60–80 BPM** and play **straight eighth notes** up and down with relaxed fingers.",
+          "pt-BR": "# Configuração base\nUse **Dó maior**, duas oitavas, mãos juntas. Ajuste o metrônomo para **60–80 BPM** e toque **colcheias retas** subindo e descendo com dedos relaxados.",
+          "es": "# Configuración base\nUsa **Do mayor**, dos octavas, manos juntas. Pon el metrónomo en **60–80 BPM** y toca **corcheas rectas** subiendo y bajando con dedos relajados.",
+          "de": "# Grundeinstellung\nNimm **C‑Dur**, zwei Oktaven, Hände zusammen. Stelle das Metronom auf **60–80 BPM** und spiele **gerade Achtel** auf und ab, mit lockeren Fingern.",
+          "ja": "# 基本セットアップ\n**Cメジャー**を2オクターブ、両手で。メトロノームは **60〜80 BPM**。**8分音符**で上がり下がりし、指はリラックス。",
+          "zh-Hans": "# 基本设置\n用 **C大调**，两组八度，双手一起。节拍器设为 **60–80 BPM**，用**八分音符**上下行，手指放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Shift the subdivision\nWithout stopping the metronome:\n- Switch to **triplets** for one full scale\n- Then switch to **sixteenth notes** for one full scale\nCount out loud (\"1‑trip‑let\" / \"1‑e‑&‑a\") to keep your time honest.",
+          "pt-BR": "# Troque a subdivisão\nSem parar o metrônomo:\n- Passe para **tercinas** por uma escala inteira\n- Depois para **semicolcheias** por uma escala inteira\nConte em voz alta (\"1‑tri‑ple\" / \"1‑e‑&‑a\") para manter o tempo honesto.",
+          "es": "# Cambia la subdivisión\nSin detener el metrónomo:\n- Cambia a **tresillos** durante una escala completa\n- Luego a **semicorcheas** durante una escala completa\nCuenta en voz alta (\"1‑tri‑plet\" / \"1‑e‑&‑a\") para mantener el tiempo honesto.",
+          "de": "# Unterteilung wechseln\nOhne das Metronom zu stoppen:\n- Wechsle zu **Triolen** für eine ganze Tonleiter\n- Danach zu **Sechzehnteln** für eine ganze Tonleiter\nZähle laut (\"1‑tri‑o‑le\" / \"1‑e‑&‑a\"), damit der Puls sauber bleibt.",
+          "ja": "# 細分を切り替える\nメトロノームは止めずに：\n- **3連符**で1往復\n- 次に **16分音符**で1往復\n声に出してカウント（「1‑トリ‑プレ」/「1‑e‑&‑a」）し、拍を正直に。",
+          "zh-Hans": "# 切换细分\n不停止节拍器：\n- 用**三连音**完成一遍音阶\n- 再用**十六分音符**完成一遍\n大声数拍（“1‑tri‑plet” / “1‑e‑&‑a”），让节拍更稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Accent game\nOn the next pass, accent:\n- Every **3rd** note on the way up\n- Every **4th** note on the way down\nKeep the left hand softer than the right. The goal is control, not speed.",
+          "pt-BR": "# Jogo de acentos\nNa próxima rodada, acentue:\n- Cada **3ª** nota na subida\n- Cada **4ª** nota na descida\nDeixe a mão esquerda mais suave que a direita. O foco é controle, não velocidade.",
+          "es": "# Juego de acentos\nEn la siguiente pasada, acentúa:\n- Cada **3ª** nota al subir\n- Cada **4ª** nota al bajar\nMantén la mano izquierda más suave que la derecha. El objetivo es control, no velocidad.",
+          "de": "# Akzent-Spiel\nBeim nächsten Durchgang akzentuiere:\n- Jede **3.** Note aufwärts\n- Jede **4.** Note abwärts\nDie linke Hand bleibt leiser als die rechte. Es geht um Kontrolle, nicht um Tempo.",
+          "ja": "# アクセント遊び\n次のラウンドでは：\n- 上りは **3音ごと**にアクセント\n- 下りは **4音ごと**にアクセント\n左手は右手より弱め。スピードよりコントロール重視です。",
+          "zh-Hans": "# 重音游戏\n下一轮：\n- 上行每 **第3** 个音加重\n- 下行每 **第4** 个音加重\n左手比右手轻。目标是控制而不是速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge\nCreate a 3‑step tempo ladder: +5 BPM each step. At each tempo, complete **eighths → triplets → sixteenths** without mistakes. Record one take and listen for steady pulse.",
+          "pt-BR": "# Desafio\nCrie uma escada de 3 tempos: +5 BPM a cada etapa. Em cada tempo, complete **colcheias → tercinas → semicolcheias** sem errar. Grave e ouça a pulsação.",
+          "es": "# Desafío\nCrea una escalera de 3 tempos: +5 BPM por paso. En cada tempo, completa **corcheas → tresillos → semicorcheas** sin errores. Graba y escucha el pulso.",
+          "de": "# Challenge\nBaue eine 3‑stufige Tempo‑Leiter: +5 BPM pro Stufe. In jedem Tempo: **Achtel → Triolen → Sechzehntel** ohne Fehler. Nimm eine Version auf und prüfe den Puls.",
+          "ja": "# チャレンジ\nテンポを3段階で上げる（各 +5 BPM）。各テンポで **8分→3連→16分** をノーミスで。1テイク録音して脈が安定しているか確認。",
+          "zh-Hans": "# 挑战\n做一个3级速度阶梯：每级 +5 BPM。每个速度完成 **八分→三连→十六分** 不出错。录一遍，检查脉冲是否稳定。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-23T00:08:54Z",
+  "updatedAt": "2026-03-23T00:08:54Z"
+}

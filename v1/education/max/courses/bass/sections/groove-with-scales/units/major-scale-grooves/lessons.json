@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-03-22T00:05:16Z",
     "updatedAt": "2026-03-22T00:05:16Z"
+  },
+  {
+    "id": "two-bar-major-groove-variations",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Two-Bar Major Groove Variations\"",
+        "pt-BR": "\"Variações de Groove Maior em 2 Compassos\"",
+        "es": "\"Variaciones de Groove Mayor en 2 Compases\"",
+        "de": "\"Zwei-Takt-Groove-Variationen in Dur\"",
+        "ja": "\"2小節メジャー・グルーヴのバリエーション\"",
+        "zh-Hans": "\"两小节大调律动变体\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a 2-bar groove in G major and swap the second bar to create motion.\"",
+        "pt-BR": "\"Crie um groove em Sol maior e troque o segundo compasso para gerar movimento.\"",
+        "es": "\"Crea un groove en Sol mayor y cambia el segundo compás para generar movimiento.\"",
+        "de": "\"Baue einen 2-Takt-Groove in G-Dur und tausche den zweiten Takt für Bewegung.\"",
+        "ja": "\"Gメジャーで2小節のグルーヴを作り、2小節目を入れ替えて動きを出す。\"",
+        "zh-Hans": "\"在G大调中做两小节律动，并替换第二小节制造变化。\""
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-03-23T00:07:44Z",
+    "updatedAt": "2026-03-23T00:07:44Z"
   }
 ]

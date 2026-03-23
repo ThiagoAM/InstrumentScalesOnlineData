@@ -1,0 +1,73 @@
+{
+  "id": "two-bar-major-groove-variations",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# A 2-bar groove that moves\nYou’ll build a solid 2-bar bass groove in **G major** and learn to swap the second bar for quick variations. The goal is steady time with musical movement.",
+          "pt-BR": "# Um groove de 2 compassos que anda\nVocê vai montar um groove firme de **2 compassos** em **Sol maior** e aprender a variar o segundo compasso. A meta é tempo sólido com movimento musical.",
+          "es": "# Un groove de 2 compases que se mueve\nVas a construir un groove sólido de **2 compases** en **Sol mayor** y aprender a variar el segundo compás. La meta es tiempo firme con movimiento musical.",
+          "de": "# Ein 2‑Takt‑Groove mit Bewegung\nDu baust einen stabilen **2‑Takt‑Groove** in **G‑Dur** und variierst den zweiten Takt. Ziel: klares Timing mit musikalischer Bewegung.",
+          "ja": "# 動きのある2小節グルーヴ\n**Gメジャー**で2小節のグルーヴを作り、2小節目を変えてバリエーションを作ります。狙いは安定したタイム感と音楽的な動きです。",
+          "zh-Hans": "# 会“走”的两小节律动\n你将用 **G大调** 做一个两小节的稳定律动，并替换第二小节来制造变化。目标是稳的节拍 + 音乐性的移动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Bar 1 foundation\nKeep Bar 1 consistent:\n- Use **G–A–B–D** (1–2–3–5)\n- Stay on eighth notes with a light swing or straight feel\n- Lock your right hand and keep the notes short and punchy\nThink “simple and strong.”",
+          "pt-BR": "# Base do compasso 1\nMantenha o compasso 1 sempre igual:\n- Use **G–A–B–D** (1–2–3–5)\n- Toque em colcheias (reta ou com leve swing)\n- Trave a mão direita e deixe as notas curtas e definidas\nPense “simples e forte”.",
+          "es": "# Base del compás 1\nMantén el compás 1 siempre igual:\n- Usa **G–A–B–D** (1–2–3–5)\n- Toca corcheas (rectas o con un ligero swing)\n- Mantén la mano derecha estable y las notas cortas y definidas\nPiensa “simple y fuerte”.",
+          "de": "# Takt‑1‑Basis\nHalte Takt 1 konstant:\n- Nutze **G–A–B–D** (1–2–3–5)\n- Spiele Achtel (gerade oder leicht geshuffelt)\n- Rechte Hand stabil, Noten kurz und knackig\nDenke „einfach und stark“.",
+          "ja": "# 1小節目の土台\n1小節目は固定：\n- **G–A–B–D**（1–2–3–5）\n- 8分音符で（ストレート or 軽いスウィング）\n- 右手を安定させ、短くパンチのある音で\n「シンプルで強い」を意識。",
+          "zh-Hans": "# 第一小节基础\n第一小节保持不变：\n- 使用 **G–A–B–D**（1–2–3–5）\n- 八分音符（直拍或轻微摇摆）\n- 右手稳定，音短而有力\n记住“简单但有力量”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Bar 2 options\nPick one variation at a time:\n- **Option A (stepwise)**: B–C–D–E–F#–G\n- **Option B (approach)**: D–C#–D–B–A–G\nPlay Bar 1 + Bar 2 as a loop. Make sure the **downbeat of Bar 1** stays solid every time.",
+          "pt-BR": "# Opções para o compasso 2\nEscolha uma variação por vez:\n- **Opção A (por graus)**: B–C–D–E–F#–G\n- **Opção B (aproximação)**: D–C#–D–B–A–G\nToque compasso 1 + compasso 2 em loop. Garanta que o **primeiro tempo do compasso 1** fique firme sempre.",
+          "es": "# Opciones para el compás 2\nElige una variación por vez:\n- **Opción A (por grados)**: B–C–D–E–F#–G\n- **Opción B (aproximación)**: D–C#–D–B–A–G\nToca compás 1 + compás 2 en loop. Asegúrate de que el **primer tiempo del compás 1** esté firme siempre.",
+          "de": "# Optionen für Takt 2\nWähle jeweils eine Variation:\n- **Option A (schrittweise)**: B–C–D–E–F#–G\n- **Option B (Annäherung)**: D–C#–D–B–A–G\nSpiele Takt 1 + Takt 2 als Loop. Der **Downbeat von Takt 1** muss jedes Mal sitzen.",
+          "ja": "# 2小節目の選択肢\n1回につき1つ選ぶ：\n- **A案（順次）**：B–C–D–E–F#–G\n- **B案（アプローチ）**：D–C#–D–B–A–G\n1小節目＋2小節目をループ。**1小節目の頭**が毎回揺れないように。",
+          "zh-Hans": "# 第二小节选项\n一次选一个：\n- **选项A（级进）**：B–C–D–E–F#–G\n- **选项B（逼近）**：D–C#–D–B–A–G\n把第一小节 + 第二小节循环起来。**第一小节的重拍**必须一直稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove control\n- Accent beats **2** and **4** slightly\n- Add **one ghost note** before beat 4 if it helps the pocket\n- Use left-hand muting so everything stays tight\nIf the feel wobbles, slow down and keep Bar 1 identical every pass.",
+          "pt-BR": "# Controle do groove\n- Acentue levemente os tempos **2** e **4**\n- Adicione **uma ghost note** antes do tempo 4 se ajudar o pocket\n- Use abafamento da mão esquerda para manter tudo limpo\nSe o groove oscilar, diminua o BPM e mantenha o compasso 1 idêntico.",
+          "es": "# Control del groove\n- Acentúa ligeramente los tiempos **2** y **4**\n- Añade **una ghost note** antes del tiempo 4 si ayuda al pocket\n- Usa apagado con la mano izquierda para mantener todo limpio\nSi el groove se tambalea, baja el BPM y deja el compás 1 idéntico.",
+          "de": "# Groove‑Kontrolle\n- Akzentuiere die Zählzeiten **2** und **4** leicht\n- Setze **eine Ghost Note** vor Zählzeit 4, wenn es hilft\n- Dämpfe mit der linken Hand, damit alles tight bleibt\nWenn es wackelt, langsamer werden und Takt 1 identisch lassen.",
+          "ja": "# グルーヴ管理\n- **2**と**4**を軽くアクセント\n- 必要なら4拍目前に**ゴーストノート**を1つ\n- 左手ミュートでタイトに保つ\n揺れるならテンポを落として1小節目を同じに。",
+          "zh-Hans": "# 律动控制\n- 轻微强调 **2** 和 **4** 拍\n- 如有需要，在第4拍前加**一个鬼音**\n- 用左手消音保持紧凑\n如果感觉摇晃，先降速并让第一小节完全一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge\nCreate **4 different Bar 2 variations** (write them down). Loop the 2-bar groove 8 times and rotate the variations. Record and listen for:\n- Timing\n- Consistent tone\n- Clear endings on G",
+          "pt-BR": "# Desafio\nCrie **4 variações** para o compasso 2 (anote). Faça o loop 8 vezes e gire as variações. Grave e avalie:\n- Tempo\n- Consistência do timbre\n- Final claro em G",
+          "es": "# Desafío\nCrea **4 variaciones** para el compás 2 (anótalas). Haz el loop 8 veces y rota las variaciones. Graba y evalúa:\n- Tiempo\n- Consistencia de tono\n- Final claro en G",
+          "de": "# Challenge\nErstelle **4 verschiedene Takt‑2‑Variationen** (aufschreiben). Loop den 2‑Takt‑Groove 8 Mal und rotiere die Variationen. Aufnahme checken:\n- Timing\n- Konstanter Ton\n- Klares Ende auf G",
+          "ja": "# チャレンジ\n2小節目の**バリエーションを4つ**作成（書き出す）。8回ループして順番に回す。録音してチェック：\n- タイミング\n- 音色の一貫性\n- Gでの明確な着地",
+          "zh-Hans": "# 挑战\n写出**4个第二小节变体**。循环8次并轮换变体。录音回听：\n- 时值是否稳\n- 音色是否一致\n- 是否清楚落在G上"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-23T00:07:44Z",
+  "updatedAt": "2026-03-23T00:07:44Z"
+}
