@@ -1,0 +1,73 @@
+{
+  "id": "guitar-scale-accents-and-shifts",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll make a plain scale feel musical by adding accents and shifting positions. Use a metronome and aim for clean, even tone.",
+          "pt-BR": "Hoje você vai transformar uma escala comum em algo musical usando acentos e mudanças de posição. Use metrônomo e mantenha timbre uniforme.",
+          "es": "Hoy harás que una escala suene musical con acentos y cambios de posición. Usa metrónomo y busca un tono parejo.",
+          "de": "Heute machst du aus einer einfachen Skala Musik, indem du Akzente setzt und die Lage wechselst. Nutze ein Metronom und achte auf gleichmäßigen Ton.",
+          "ja": "今日はアクセントとポジション移動で、ただのスケールを音楽的にします。メトロノームを使い、音色を均一に。",
+          "zh-Hans": "今天用重音和把位移动把普通音阶变得更有音乐性。用节拍器，保持音色均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accent pattern: play a two-octave A minor scale. Accent every 3rd note (1-2-3 ACCENT). Start at 60 bpm, then 80. Notice how the accents move across strings.",
+          "pt-BR": "Padrão de acento: toque uma escala de Lá menor em duas oitavas. Acentue cada 3ª nota (1-2-3 ACENTO). Comece em 60 bpm e depois 80. Perceba como os acentos mudam de corda.",
+          "es": "Patrón de acento: toca una escala de La menor en dos octavas. Acentúa cada 3ª nota (1-2-3 ACENTO). Empieza a 60 bpm y luego 80. Nota cómo los acentos se mueven entre cuerdas.",
+          "de": "Akzentmuster: Spiele eine zweioctavige a-Moll-Skala. Betone jede 3. Note (1-2-3 AKZENT). Starte bei 60 bpm, dann 80. Beobachte, wie die Akzente über die Saiten wandern.",
+          "ja": "アクセントパターン：Aマイナースケールを2オクターブで弾き、3音ごとにアクセント（1-2-3 アクセント）。60 bpmから始めて80へ。アクセントが弦をまたいで移動する感覚を確認。",
+          "zh-Hans": "重音模式：弹两八度A小调音阶，每3个音强调一次（1-2-3 重音）。从60 bpm开始，再到80。注意重音如何在弦间移动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shift drill: play the same scale in position I, then slide to position V on the next A note without breaking time. Keep fingers close to the fretboard.",
+          "pt-BR": "Exercício de deslocamento: toque a mesma escala na posição I e deslize para a posição V na próxima nota Lá sem perder o tempo. Mantenha os dedos perto do braço.",
+          "es": "Ejercicio de desplazamiento: toca la misma escala en la posición I y desliza a la posición V en la siguiente nota La sin romper el tiempo. Mantén los dedos cerca del diapasón.",
+          "de": "Lagenwechsel-Drill: Spiele die Skala in Lage I und rutsche bei der nächsten A-Note in Lage V, ohne den Puls zu verlieren. Halte die Finger nah am Griffbrett.",
+          "ja": "移動ドリル：同じスケールをポジションIで弾き、次のA音でポジションVへスライド。テンポを崩さず、指は指板に近く。",
+          "zh-Hans": "换把位练习：在I把位弹同一音阶，在下一个A音滑到V把位，不要断拍。手指保持贴近指板。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mini-phrase challenge: create a 2-bar lick using the scale. Bar 1 uses position I, bar 2 uses position V. End on A or C.",
+          "pt-BR": "Desafio de mini-frase: crie um lick de 2 compassos usando a escala. Compasso 1 na posição I, compasso 2 na posição V. Termine em Lá ou Dó.",
+          "es": "Reto de mini-frase: crea un lick de 2 compases usando la escala. Compás 1 en posición I, compás 2 en posición V. Termina en La o Do.",
+          "de": "Mini-Phrase-Challenge: Erfinde ein 2-Takt-Lick mit der Skala. Takt 1 in Lage I, Takt 2 in Lage V. Ende auf A oder C.",
+          "ja": "ミニフレーズ課題：スケールで2小節のリックを作る。1小節目はポジションI、2小節目はポジションV。AまたはCで終わる。",
+          "zh-Hans": "迷你乐句挑战：用该音阶写一个2小节的lick。第1小节在I把位，第2小节在V把位。结尾落在A或C。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: can you keep the accents steady while shifting? If yes, try 90 bpm or change to E minor.",
+          "pt-BR": "Checkpoint: você consegue manter os acentos enquanto muda de posição? Se sim, tente 90 bpm ou mude para Mi menor.",
+          "es": "Punto de control: ¿puedes mantener los acentos mientras cambias de posición? Si sí, prueba 90 bpm o cambia a Mi menor.",
+          "de": "Checkpoint: Schaffst du die Akzente trotz Lagenwechsel? Wenn ja, versuche 90 bpm oder wechsle zu e-Moll.",
+          "ja": "チェックポイント：移動しながらアクセントを保てますか？できたら90 bpm、またはEマイナーに変更。",
+          "zh-Hans": "检查点：你能在换把位时保持重音吗？如果可以，试90 bpm或改成E小调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-24T00:03:51Z",
+  "updatedAt": "2026-03-24T00:03:51Z"
+}

@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-03-22T00:04:06Z",
     "updatedAt": "2026-03-22T00:04:06Z"
+  },
+  {
+    "id": "guitar-scale-accents-and-shifts",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Accents and Shifts",
+        "pt-BR": "Acentos e Deslocamentos na Escala",
+        "es": "Acentos y Desplazamientos en la Escala",
+        "de": "Skalenakzente und Lagenwechsel",
+        "ja": "スケールのアクセントとポジション移動",
+        "zh-Hans": "音阶重音与把位移动"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Add groove and smooth position changes to your scale practice.",
+        "pt-BR": "Dê groove e trocas de posição suaves ao praticar escalas.",
+        "es": "Añade groove y cambios de posición suaves a tu práctica de escalas.",
+        "de": "Gib deiner Skalenübung Groove und flüssige Positionswechsel.",
+        "ja": "スケール練習にグルーヴと滑らかな移動を加える。",
+        "zh-Hans": "让音阶练习更有律动并顺滑换把位。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-03-24T00:03:51Z",
+    "updatedAt": "2026-03-24T00:03:51Z"
   }
 ]

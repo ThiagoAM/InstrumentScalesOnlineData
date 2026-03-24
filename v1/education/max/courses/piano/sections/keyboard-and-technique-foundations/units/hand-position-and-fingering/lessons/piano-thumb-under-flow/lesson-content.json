@@ -1,0 +1,73 @@
+{
+  "id": "piano-thumb-under-flow",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Focus on a relaxed hand, curved fingers, and a quiet wrist. The goal is a smooth thumb-under motion.",
+          "pt-BR": "Concentre-se na mão relaxada, dedos curvos e pulso tranquilo. O objetivo é um polegar por baixo suave.",
+          "es": "Enfócate en una mano relajada, dedos curvos y muñeca tranquila. El objetivo es un pulgar por debajo fluido.",
+          "de": "Achte auf eine entspannte Hand, gekrümmte Finger und ein ruhiges Handgelenk. Ziel ist ein flüssiges Daumenuntersetzen.",
+          "ja": "手はリラックス、指は丸く、手首は柔らかく。目的はスムーズな親指くぐりです。",
+          "zh-Hans": "手放松、手指弧形、手腕轻松。目标是顺滑的拇指穿越。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Drill: play C major right hand two octaves. Pause briefly at each thumb-under, then continue.",
+          "pt-BR": "Exercício: toque Dó maior na mão direita em duas oitavas. Pare brevemente em cada polegar por baixo e continue.",
+          "es": "Ejercicio: toca Do mayor con la mano derecha en dos octavas. Pausa brevemente en cada pulgar por debajo y continúa.",
+          "de": "Übung: Spiele C-Dur mit der rechten Hand über zwei Oktaven. Pausiere kurz bei jedem Daumenuntersetzen und spiele weiter.",
+          "ja": "ドリル：右手でCメジャーを2オクターブ。親指くぐりで一瞬止まり、続ける。",
+          "zh-Hans": "练习：右手C大调两八度。每次拇指穿越时短暂停一下再继续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mirror: play C major left hand. Let the wrist rotate slightly as finger 3 crosses over 1.",
+          "pt-BR": "Espelho: toque Dó maior na mão esquerda. Deixe o pulso girar levemente quando o dedo 3 passa sobre o 1.",
+          "es": "Espejo: toca Do mayor con la mano izquierda. Deja que la muñeca rote ligeramente cuando el dedo 3 pase sobre el 1.",
+          "de": "Spiegel: Spiele C-Dur mit der linken Hand. Lass das Handgelenk leicht rotieren, wenn Finger 3 über 1 geht.",
+          "ja": "ミラー：左手でCメジャー。3が1を越えるとき手首を少し回す。",
+          "zh-Hans": "镜像：左手C大调。3指越过1指时手腕轻微旋转。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Coordination: hands together one octave. First staccato, then legato, same tempo.",
+          "pt-BR": "Coordenação: mãos juntas em uma oitava. Primeiro staccato, depois legato, mesmo tempo.",
+          "es": "Coordinación: manos juntas una octava. Primero staccato, luego legato, mismo tempo.",
+          "de": "Koordination: Hände zusammen eine Oktave. Erst staccato, dann legato, gleiches Tempo.",
+          "ja": "連携：両手で1オクターブ。まずスタッカート、次にレガート、同じテンポ。",
+          "zh-Hans": "协调：双手一起一八度。先断奏，再连奏，速度不变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: increase to 90 bpm or switch to G major; keep your tone even.",
+          "pt-BR": "Checkpoint: aumente para 90 bpm ou mude para Sol maior; mantenha o timbre uniforme.",
+          "es": "Punto de control: sube a 90 bpm o cambia a Sol mayor; mantén el tono parejo.",
+          "de": "Checkpoint: Erhöhe auf 90 bpm oder wechsle zu G-Dur; halte den Ton gleichmäßig.",
+          "ja": "チェックポイント：90 bpmに上げるかGメジャーへ変更。音を均一に。",
+          "zh-Hans": "检查点：提高到90 bpm或换G大调；保持音色均匀。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-24T00:08:54Z",
+  "updatedAt": "2026-03-24T00:08:54Z"
+}

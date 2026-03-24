@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-19T00:05:03Z",
     "updatedAt": "2026-03-19T00:05:03Z"
+  },
+  {
+    "id": "bass-scale-target-notes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Target Notes for Bass Lines",
+        "pt-BR": "Notas-Alvo para Linhas de Baixo",
+        "es": "Notas Objetivo para Líneas de Bajo",
+        "de": "Zieltöne für Basslinien",
+        "ja": "ベースラインのターゲットノート",
+        "zh-Hans": "低音线的目标音"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Aim for chord tones while keeping your groove steady.",
+        "pt-BR": "Mire nas notas do acorde mantendo o groove firme.",
+        "es": "Apunta a las notas del acorde mientras mantienes el groove.",
+        "de": "Zielt auf Akkordtöne, während der Groove stabil bleibt.",
+        "ja": "グルーヴを保ちながらコードトーンを狙う。",
+        "zh-Hans": "在保持律动的同时锁定和弦音。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-24T00:06:18Z",
+    "updatedAt": "2026-03-24T00:06:18Z"
   }
 ]

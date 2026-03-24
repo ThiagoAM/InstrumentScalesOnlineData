@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "piano-thumb-under-flow",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Thumb-Under Flow",
+        "pt-BR": "Fluidez do Polegar por Baixo",
+        "es": "Flujo del Pulgar por Debajo",
+        "de": "Daumenuntersetzung im Fluss",
+        "ja": "親指くぐりの流れ",
+        "zh-Hans": "拇指穿越流畅度"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Smooth out thumb crossings for even piano scales.",
+        "pt-BR": "Suavize as passagens do polegar para escalas uniformes.",
+        "es": "Suaviza los cruces del pulgar para escalas parejas.",
+        "de": "Glätte die Daumenübertritte für gleichmäßige Skalen.",
+        "ja": "親指のくぐりを滑らかにして均一なスケールに。",
+        "zh-Hans": "让拇指穿越更顺滑，音阶更均匀。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-24T00:08:54Z",
+    "updatedAt": "2026-03-24T00:08:54Z"
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "id": "bass-scale-target-notes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll make your scales sound like real bass lines by aiming for chord tones on strong beats. Keep a steady pulse.",
+          "pt-BR": "Hoje você vai fazer as escalas soarem como linhas reais de baixo mirando notas do acorde nos tempos fortes. Mantenha o pulso estável.",
+          "es": "Hoy harás que las escalas suenen como líneas reales de bajo apuntando a los tonos del acorde en los tiempos fuertes. Mantén el pulso estable.",
+          "de": "Heute lässt du Skalen wie echte Basslinien klingen, indem du auf starken Zählzeiten Akkordtöne ansteuerst. Halte den Puls konstant.",
+          "ja": "今日は強拍でコードトーンを狙い、スケールを本物のベースラインのように聴かせます。安定したパルスを保ちましょう。",
+          "zh-Hans": "今天在强拍上锁定和弦音，让音阶听起来像真正的贝斯线条。保持稳定节拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Exercise: play a two-octave D minor scale. On beat 1, accent D. On beat 3, accent A. Repeat at 70 bpm, then 90.",
+          "pt-BR": "Exercício: toque uma escala de Ré menor em duas oitavas. No tempo 1, acentue Ré. No tempo 3, acentue Lá. Repita a 70 bpm e depois 90.",
+          "es": "Ejercicio: toca una escala de Re menor en dos octavas. En el tiempo 1, acentúa Re. En el tiempo 3, acentúa La. Repite a 70 bpm y luego 90.",
+          "de": "Übung: Spiele eine zweioctavige d-Moll-Skala. Auf Zählzeit 1 akzentuiere D, auf Zählzeit 3 akzentuiere A. Wiederhole bei 70 bpm, dann 90.",
+          "ja": "エクササイズ：Dマイナースケールを2オクターブで弾く。拍1でDを強調し、拍3でAを強調。70 bpmから始めて90へ。",
+          "zh-Hans": "练习：弹两八度D小调音阶。第1拍重音D，第3拍重音A。70 bpm开始，再到90。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Approach notes: run the scale but land on chord tones on each downbeat. Use a half-step below as a lead-in when possible.",
+          "pt-BR": "Notas de aproximação: faça a escala, mas pouse nas notas do acorde em cada tempo forte. Use meio tom abaixo como aproximação quando possível.",
+          "es": "Notas de aproximación: recorre la escala pero aterriza en tonos del acorde en cada tiempo fuerte. Usa un semitono abajo como aproximación cuando sea posible.",
+          "de": "Annäherungstöne: Spiele die Skala, lande aber auf jedem Downbeat auf Akkordtönen. Nutze, wenn möglich, einen Halbton darunter als Anlauf.",
+          "ja": "アプローチノート：スケールを進行しつつ、各ダウンビートでコードトーンに着地する。可能なら半音下からアプローチ。",
+          "zh-Hans": "靠近音：继续走音阶，但在每个强拍落在和弦音上。尽量用低半音作引导。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove challenge: write a 2-bar line. Beat 1 is D or A, beat 3 is F or C. Keep eighth-notes even.",
+          "pt-BR": "Desafio de groove: escreva uma linha de 2 compassos. Tempo 1 é Ré ou Lá, tempo 3 é Fá ou Dó. Mantenha as colcheias regulares.",
+          "es": "Reto de groove: escribe una línea de 2 compases. Tiempo 1 es Re o La, tiempo 3 es Fa o Do. Mantén las corcheas parejas.",
+          "de": "Groove-Challenge: Schreibe eine 2-Takt-Linie. Zählzeit 1 ist D oder A, Zählzeit 3 ist F oder C. Halte die Achtel gleichmäßig.",
+          "ja": "グルーヴ課題：2小節のラインを書く。拍1はDまたはA、拍3はFまたはC。8分音符を均一に。",
+          "zh-Hans": "律动挑战：写一个2小节线条。第1拍是D或A，第3拍是F或C。八分音符要均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: record yourself and listen for solid time and clear targets. If it feels easy, move to G major.",
+          "pt-BR": "Checkpoint: grave e ouça o tempo firme e os alvos claros. Se estiver fácil, mude para Sol maior.",
+          "es": "Punto de control: grábate y escucha el tiempo firme y los objetivos claros. Si es fácil, pasa a Sol mayor.",
+          "de": "Checkpoint: Nimm dich auf und achte auf festen Puls und klare Ziele. Wenn es leicht ist, wechsle zu G-Dur.",
+          "ja": "チェックポイント：録音してタイムと狙いが明確か確認。簡単ならGメジャーに変更。",
+          "zh-Hans": "检查点：录音听是否拍稳、目标清晰。觉得简单就改为G大调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-24T00:06:18Z",
+  "updatedAt": "2026-03-24T00:06:18Z"
+}
