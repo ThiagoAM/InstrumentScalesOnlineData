@@ -1,0 +1,73 @@
+{
+  "id": "bass-blues-walkup-fills",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll build bluesy fills on bass using the A minor blues scale. The goal: spice up the groove without losing time.",
+          "pt-BR": "Hoje você vai criar fills blues no baixo usando a escala blues de Lá menor. A meta: temperar o groove sem perder o tempo.",
+          "es": "Hoy crearás fills blues en el bajo con la escala blues de La menor. La meta: darle sabor al groove sin perder el tiempo.",
+          "de": "Heute baust du bluesige Fills am Bass mit der a-Moll-Blues-Skala. Ziel: das Groove würzen, ohne den Puls zu verlieren.",
+          "ja": "今日はAマイナー・ブルーススケールでベースのブルース・フィルを作ります。目的はタイムを崩さずグルーヴにスパイスを加えること。",
+          "zh-Hans": "今天用A小调布鲁斯音阶在贝斯上做蓝调填充。目标是增加味道但不丢拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove base: play a steady A–E–A–E pattern at 70 bpm (quarter notes). Count 1-2-3-4 out loud.",
+          "pt-BR": "Base do groove: toque um padrão constante A–E–A–E a 70 bpm (semínimas). Conte 1-2-3-4 em voz alta.",
+          "es": "Base del groove: toca un patrón constante A–E–A–E a 70 bpm (negras). Cuenta 1-2-3-4 en voz alta.",
+          "de": "Groove-Basis: Spiele ein gleichmäßiges A–E–A–E-Muster bei 70 bpm (Viertel). Zähle 1-2-3-4 laut.",
+          "ja": "グルーヴの土台：A–E–A–Eのパターンを70 bpmの4分音符で安定して弾く。1-2-3-4と数える。",
+          "zh-Hans": "基础groove：70 bpm下稳定弹A–E–A–E（四分音符）。大声数1-2-3-4。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Fill drill: in bar 4, replace beat 3-4 with A–C–D–D#–E (8th notes), then return to the groove.",
+          "pt-BR": "Exercício de fill: no compasso 4, substitua os tempos 3-4 por A–C–D–D#–E (colcheias) e volte ao groove.",
+          "es": "Ejercicio de fill: en el compás 4, reemplaza los tiempos 3-4 por A–C–D–D#–E (corcheas) y vuelve al groove.",
+          "de": "Fill-Drill: Im 4. Takt ersetze Schlag 3-4 durch A–C–D–D#–E (Achtel) und kehre zum Groove zurück.",
+          "ja": "フィル練習：4小節目で3-4拍をA–C–D–D#–E（8分音符）に置き換え、グルーヴへ戻す。",
+          "zh-Hans": "填充练习：第4小节把第3-4拍换成A–C–D–D#–E（八分音符），然后回到groove。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Ghost note push: add a muted hit on beat 4 of bar 3 to lead into the fill.",
+          "pt-BR": "Empurrão com ghost note: adicione uma nota abafada no tempo 4 do compasso 3 para puxar o fill.",
+          "es": "Impulso con ghost note: añade un golpe apagado en el tiempo 4 del compás 3 para entrar al fill.",
+          "de": "Ghost-Note-Schub: Füge im 3. Takt auf Schlag 4 eine gedämpfte Note hinzu, um ins Fill zu führen.",
+          "ja": "ゴーストノートの推進：3小節目の4拍にミュートを入れてフィルへつなぐ。",
+          "zh-Hans": "鬼音推进：在第3小节第4拍加一个闷音来带入填充。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: record 4 bars. If timing stays solid, move the idea to D blues.",
+          "pt-BR": "Checkpoint: grave 4 compassos. Se o timing estiver firme, leve a ideia para blues em Ré.",
+          "es": "Punto de control: graba 4 compases. Si el tiempo sigue firme, pasa la idea a blues en Re.",
+          "de": "Checkpoint: Nimm 4 Takte auf. Wenn das Timing stabil bleibt, übertrage die Idee nach D-Blues.",
+          "ja": "チェックポイント：4小節を録音。タイムが安定していればDブルースに移してみる。",
+          "zh-Hans": "检查点：录4小节。如果节奏稳定，把思路移到D蓝调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-25T00:06:56Z",
+  "updatedAt": "2026-03-25T00:06:56Z"
+}

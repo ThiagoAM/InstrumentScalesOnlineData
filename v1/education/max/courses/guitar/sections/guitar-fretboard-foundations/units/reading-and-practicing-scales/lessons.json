@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-03-24T00:03:51Z",
     "updatedAt": "2026-03-24T00:03:51Z"
+  },
+  {
+    "id": "guitar-string-skip-scale-bounces",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "String-Skip Scale Bounces",
+        "pt-BR": "Saltos de corda na escala",
+        "es": "Saltos de cuerda en la escala",
+        "de": "Saitensprung-Skalenbounces",
+        "ja": "弦飛びスケール・バウンス",
+        "zh-Hans": "跳弦音阶弹跳"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Jump strings inside a G major scale to build control and playful phrasing.",
+        "pt-BR": "Pule cordas dentro da escala de Sol maior para ganhar controle e frases brincalhonas.",
+        "es": "Salta cuerdas dentro de la escala de Sol mayor para ganar control y frases juguetonas.",
+        "de": "Springe in der G-Dur-Tonleiter zwischen Saiten, um Kontrolle und verspielte Phrasen zu trainieren.",
+        "ja": "Gメジャー内で弦を飛ばし、コントロールと弾むフレーズ感を鍛える。",
+        "zh-Hans": "在G大调中跳弦练习，提升控制力和俏皮的乐句感。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-03-25T00:05:52Z",
+    "updatedAt": "2026-03-25T00:05:52Z"
   }
 ]

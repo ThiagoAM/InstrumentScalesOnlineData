@@ -1,0 +1,73 @@
+{
+  "id": "guitar-string-skip-scale-bounces",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll make your major scale pop by skipping strings. This builds accuracy and creates bouncy, modern-sounding lines.",
+          "pt-BR": "Hoje você vai fazer a escala maior saltar as cordas. Isso aumenta a precisão e cria linhas modernas e saltitantes.",
+          "es": "Hoy harás que la escala mayor salte cuerdas. Esto mejora la precisión y crea líneas modernas y saltarinas.",
+          "de": "Heute lässt du die Durtonleiter mit Saitensprüngen aufpoppen. Das schärft die Genauigkeit und klingt modern und federnd.",
+          "ja": "今日は弦飛びでメジャースケールを弾き、音の精度と跳ねるフレーズ感を鍛えます。",
+          "zh-Hans": "今天用跳弦让大调音阶更有弹性，提升准确度并得到更现代的线条。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: play a two-octave G major scale with alternate picking. Start at 60 bpm, 8th notes, clean tone.",
+          "pt-BR": "Preparação: toque a escala de Sol maior em duas oitavas com palhetada alternada. Comece em 60 bpm, colcheias, timbre limpo.",
+          "es": "Preparación: toca la escala de Sol mayor en dos octavas con púa alternada. Empieza a 60 bpm, corcheas, tono limpio.",
+          "de": "Setup: Spiele eine zweioctavige G-Dur-Tonleiter mit Wechselschlag. Starte bei 60 bpm, Achtel, sauberer Ton.",
+          "ja": "準備：Gメジャーを2オクターブ、オルタネイトで。60 bpmの8分音符、クリアな音で。",
+          "zh-Hans": "准备：用交替拨弦弹两八度G大调。60 bpm、八分音符，音色干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "String-skip pattern: play scale degrees 1-3-2-4 on each step (skip over a string each time). Keep fingers close to the fretboard.",
+          "pt-BR": "Padrão de salto: toque os graus 1-3-2-4 em cada passo (pulando uma corda a cada vez). Mantenha os dedos perto do braço.",
+          "es": "Patrón de salto: toca los grados 1-3-2-4 en cada paso (saltando una cuerda cada vez). Mantén los dedos cerca del diapasón.",
+          "de": "Saitensprung-Muster: Spiele pro Schritt die Stufen 1-3-2-4 (jedes Mal eine Saite überspringen). Halte die Finger nah am Griffbrett.",
+          "ja": "弦飛びパターン：各ステップで1-3-2-4を弾く（毎回1弦飛ばす）。指は指板に近く。",
+          "zh-Hans": "跳弦模式：每一步弹1-3-2-4级（每次跳过一根弦）。手指贴近指板。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm game: accent every 4th note while keeping the skips. If it gets messy, slow down and reset.",
+          "pt-BR": "Jogo rítmico: acentue cada 4ª nota mantendo os saltos. Se ficar bagunçado, diminua e reinicie.",
+          "es": "Juego rítmico: acentúa cada 4ª nota manteniendo los saltos. Si se ensucia, baja la velocidad y reinicia.",
+          "de": "Rhythmusspiel: Betone jede 4. Note, während du weiter springst. Wenn es unsauber wird, verlangsame und starte neu.",
+          "ja": "リズムゲーム：弦飛びを保ったまま4音ごとにアクセント。崩れたらテンポを落としてリセット。",
+          "zh-Hans": "节奏小游戏：保持跳弦，每4个音重读一次。乱了就降速重来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: write a 2-bar lick using the skip pattern. End on G or B and try 80 bpm.",
+          "pt-BR": "Desafio: crie um lick de 2 compassos com o padrão de salto. Termine em Sol ou Si e tente 80 bpm.",
+          "es": "Reto: crea un lick de 2 compases con el patrón de salto. Termina en Sol o Si y prueba 80 bpm.",
+          "de": "Challenge: Erfinde ein 2-Takt-Lick mit dem Sprungmuster. Ende auf G oder H und versuche 80 bpm.",
+          "ja": "チャレンジ：弦飛びパターンで2小節のリックを作る。GかBで終わらせ、80 bpmに挑戦。",
+          "zh-Hans": "挑战：用跳弦模式写一个2小节lick，结尾落在G或B，尝试80 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-25T00:05:52Z",
+  "updatedAt": "2026-03-25T00:05:52Z"
+}

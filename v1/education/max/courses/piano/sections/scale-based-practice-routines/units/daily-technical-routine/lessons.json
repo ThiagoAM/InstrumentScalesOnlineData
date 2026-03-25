@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-03-23T00:08:54Z",
     "updatedAt": "2026-03-23T00:08:54Z"
+  },
+  {
+    "id": "piano-scale-sprint-resets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Sprint Resets",
+        "pt-BR": "Sprints e resets de escala",
+        "es": "Sprints y reinicios de escala",
+        "de": "Skalen-Sprint-Resets",
+        "ja": "スケール・スプリント・リセット",
+        "zh-Hans": "音阶冲刺重置"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Short scale bursts to build endurance and focus.",
+        "pt-BR": "Rajadas curtas de escala para resistência e foco.",
+        "es": "Ráfagas cortas de escala para resistencia y enfoque.",
+        "de": "Kurze Skalen-Bursts für Ausdauer und Fokus.",
+        "ja": "短いスプリントで持久力と集中力を鍛える。",
+        "zh-Hans": "用短冲刺建立耐力与专注。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-03-25T00:08:09Z",
+    "updatedAt": "2026-03-25T00:08:09Z"
   }
 ]

@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "bass-blues-walkup-fills",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Walk-Up Fills",
+        "pt-BR": "Fills de caminhada blues",
+        "es": "Fills blues ascendentes",
+        "de": "Blues-Run-Up-Fills",
+        "ja": "ブルース・ウォークアップ・フィル",
+        "zh-Hans": "布鲁斯上行填充"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Add tasty A minor blues fills without breaking the groove.",
+        "pt-BR": "Adicione fills saborosos em Lá menor sem quebrar o groove.",
+        "es": "Añade fills sabrosos en La menor sin romper el groove.",
+        "de": "Würzige A-Moll-Blues-Fills, ohne den Groove zu verlieren.",
+        "ja": "Aマイナーのブルースフィルでグルーヴを崩さず味付けする。",
+        "zh-Hans": "在A小调蓝调中做出好听的填充而不丢掉groove。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-25T00:06:56Z",
+    "updatedAt": "2026-03-25T00:06:56Z"
   }
 ]
