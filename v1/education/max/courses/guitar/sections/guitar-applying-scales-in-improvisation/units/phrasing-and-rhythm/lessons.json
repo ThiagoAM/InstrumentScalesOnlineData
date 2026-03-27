@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "call-and-response-phrasing",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Phrasing",
+        "pt-BR": "Fraseado de Pergunta e Resposta",
+        "es": "Fraseo de Pregunta y Respuesta",
+        "de": "Frage-und-Antwort-Phrasing",
+        "ja": "コール＆レスポンスのフレージング",
+        "zh-Hans": "问答式乐句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build musical conversations using scale fragments, rests, and dynamics.",
+        "pt-BR": "Crie conversas musicais usando fragmentos de escala, pausas e dinâmica.",
+        "es": "Construye conversaciones musicales con fragmentos de escala, silencios y dinámica.",
+        "de": "Baue musikalische Gespräche mit Skalenfragmenten, Pausen und Dynamik.",
+        "ja": "スケール断片と休符、ダイナミクスで会話のように弾く。",
+        "zh-Hans": "用音阶片段、休止和力度打造音乐对话。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-27T00:06:55Z",
+    "updatedAt": "2026-03-27T00:06:55Z"
   }
 ]

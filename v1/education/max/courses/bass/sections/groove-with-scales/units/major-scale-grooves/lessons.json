@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-03-23T00:07:44Z",
     "updatedAt": "2026-03-23T00:07:44Z"
+  },
+  {
+    "id": "syncopated-root-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Root Grooves",
+        "pt-BR": "Grooves Sincopados de Fundamentais",
+        "es": "Grooves Sincopados de Fundamentales",
+        "de": "Synkopierte Grundton-Grooves",
+        "ja": "シンコペーションのルート・グルーヴ",
+        "zh-Hans": "切分根音律动"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock in roots with rests, ghost notes, and scale approach tones.",
+        "pt-BR": "Trave as fundamentais com pausas, ghost notes e notas de aproximação da escala.",
+        "es": "Asegura las fundamentales con silencios, ghost notes y notas de aproximación de la escala.",
+        "de": "Verankere Grundtöne mit Pausen, Ghost Notes und Skalen‑Annäherungen.",
+        "ja": "休符、ゴーストノート、スケールのアプローチでルートをロックする。",
+        "zh-Hans": "用休止、幽灵音和音阶趋近音锁定根音。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-03-27T00:08:22Z",
+    "updatedAt": "2026-03-27T00:08:22Z"
   }
 ]

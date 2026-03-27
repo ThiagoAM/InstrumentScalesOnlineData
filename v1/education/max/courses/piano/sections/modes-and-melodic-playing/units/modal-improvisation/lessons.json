@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "dorian-color-shifts",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dorian Color Shifts",
+        "pt-BR": "Mudanças de Cor Dórica",
+        "es": "Cambios de Color Dórico",
+        "de": "Dorische Farbwechsel",
+        "ja": "ドリアンの色彩シフト",
+        "zh-Hans": "多利亚色彩变化"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use the Dorian 6th to brighten minor grooves.",
+        "pt-BR": "Use a sexta dórica para clarear grooves menores.",
+        "es": "Usa la sexta dórica para iluminar grooves menores.",
+        "de": "Nutze die dorische Sexte, um Moll‑Grooves aufzuhellen.",
+        "ja": "ドリアンの6度でマイナー・グルーヴを明るくする。",
+        "zh-Hans": "用多利亚的6度点亮小调律动。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-27T00:09:44Z",
+    "updatedAt": "2026-03-27T00:09:44Z"
   }
 ]
