@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-03-27T00:08:22Z",
     "updatedAt": "2026-03-27T00:08:22Z"
+  },
+  {
+    "id": "palm-muted-scale-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Palm-Muted Scale Groove\"",
+        "pt-BR": "\"Groove de Escala com Palm Mute\"",
+        "es": "\"Groove de escala con palm mute\"",
+        "de": "\"Palm‑Mute‑Skalen‑Groove\"",
+        "ja": "\"パームミュート・スケールグルーヴ\"",
+        "zh-Hans": "\"掌根消音音阶律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Blend palm muting, ghost notes, and major-scale tones to lock in a tight bass pocket.\"",
+        "pt-BR": "\"Misture palm mute, ghost notes e tons da escala maior para travar um groove firme.\"",
+        "es": "\"Mezcla palm mute, ghost notes y tonos de escala mayor para un groove sólido.\"",
+        "de": "\"Verbinde Palm‑Muting, Ghost Notes und Durton‑Töne für einen tightenen Bass‑Groove.\"",
+        "ja": "\"パームミュートとゴーストノート、大調スケール音でタイトなグルーヴを作る。\"",
+        "zh-Hans": "\"结合掌根消音、幽灵音与大调音阶音，锁定紧实的贝斯律动。\""
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-03-28T00:06:51Z",
+    "updatedAt": "2026-03-28T00:06:51Z"
   }
 ]

@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-03-25T00:08:09Z",
     "updatedAt": "2026-03-25T00:08:09Z"
+  },
+  {
+    "id": "scale-echo-bursts",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Echo Bursts\"",
+        "pt-BR": "\"Burst de Escala em Eco\"",
+        "es": "\"Ráfagas de escala en eco\"",
+        "de": "\"Echo‑Skalen‑Bursts\"",
+        "ja": "\"スケール・エコー・バースト\"",
+        "zh-Hans": "\"音阶回声爆发\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Trade short scale bursts between hands to build control and listening.\"",
+        "pt-BR": "\"Troque bursts curtos de escala entre as mãos para ganhar controle e escuta.\"",
+        "es": "\"Intercambia ráfagas cortas de escala entre manos para mejorar control y escucha.\"",
+        "de": "\"Wechsle kurze Skalenbursts zwischen den Händen, um Kontrolle und Gehör zu schärfen.\"",
+        "ja": "\"短いスケールバーストを両手で投げ合い、コントロールと聴く力を鍛える。\"",
+        "zh-Hans": "\"双手交替短促音阶爆发，提升控制与聆听。\""
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-03-28T00:08:05Z",
+    "updatedAt": "2026-03-28T00:08:05Z"
   }
 ]

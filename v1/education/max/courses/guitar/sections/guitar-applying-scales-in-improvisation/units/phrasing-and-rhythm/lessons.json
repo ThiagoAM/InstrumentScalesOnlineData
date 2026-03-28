@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-27T00:06:55Z",
     "updatedAt": "2026-03-27T00:06:55Z"
+  },
+  {
+    "id": "rhythm-dice-scale-phrases",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Rhythm Dice Scale Phrases\"",
+        "pt-BR": "\"Frases de Escala com Dados Rítmicos\"",
+        "es": "\"Frases de escala con dados rítmicos\"",
+        "de": "\"Skalenphrasen mit Rhythmuswürfeln\"",
+        "ja": "\"リズムダイス・スケールフレーズ\"",
+        "zh-Hans": "\"节奏骰子音阶乐句\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use a rhythm-dice game to build punchy scale phrases with space and accents.\"",
+        "pt-BR": "\"Use um jogo de dados rítmicos para criar frases de escala com espaço e acentos.\"",
+        "es": "\"Usa un juego de dados rítmicos para crear frases con espacio y acentos.\"",
+        "de": "\"Nutze ein Rhythmuswürfel‑Spiel, um Skalenphrasen mit Raum und Akzenten zu bauen.\"",
+        "ja": "\"リズムダイスのゲームで、間とアクセントのあるスケールフレーズを作ろう。\"",
+        "zh-Hans": "\"用节奏骰子游戏打造有空隙与重音的音阶乐句。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-28T00:05:42Z",
+    "updatedAt": "2026-03-28T00:05:42Z"
   }
 ]
