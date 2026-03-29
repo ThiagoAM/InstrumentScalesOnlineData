@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-03-25T00:05:52Z",
     "updatedAt": "2026-03-25T00:05:52Z"
+  },
+  {
+    "id": "octave-hop-scale-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Octave Hop Scale Map\"",
+        "pt-BR": "\"Mapa de Saltos de Oitava na Escala\"",
+        "es": "\"Mapa de Saltos de Octava en la Escala\"",
+        "de": "\"Oktavsprung-Skalenkarte\"",
+        "ja": "\"オクターブジャンプ・スケールマップ\"",
+        "zh-Hans": "\"八度跳跃音阶地图\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Hop between octave shapes to map a scale across the neck and stay oriented.\"",
+        "pt-BR": "\"Salte entre formas de oitava para mapear uma escala pelo braço e se orientar.\"",
+        "es": "\"Salta entre formas de octava para mapear una escala por el mástil y orientarte.\"",
+        "de": "\"Springe zwischen Oktavformen, um eine Skala über das Griffbrett zu kartieren und orientiert zu bleiben.\"",
+        "ja": "\"オクターブ形を飛び移りながら、指板上のスケールを迷わずマップする。\"",
+        "zh-Hans": "\"在八度形之间跳跃，绘制指板音阶地图并保持方向感。\""
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-03-29T00:02:32Z",
+    "updatedAt": "2026-03-29T00:02:32Z"
   }
 ]

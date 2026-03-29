@@ -1,0 +1,73 @@
+{
+  "id": "octave-hop-scale-map",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Grab your metronome. Pick G major (or any scale you know). Goal: see the same scale in two octaves without getting lost.",
+          "pt-BR": "Pegue o metrônomo. Escolha Sol maior (ou qualquer escala que você conheça). Objetivo: enxergar a mesma escala em duas oitavas sem se perder.",
+          "es": "Toma el metrónomo. Elige Sol mayor (o cualquier escala que conozcas). Meta: ver la misma escala en dos octavas sin perderte.",
+          "de": "Schnapp dir das Metronom. Wähle G-Dur (oder eine Skala, die du kennst). Ziel: dieselbe Skala in zwei Oktaven sehen, ohne dich zu verlieren.",
+          "ja": "メトロノームを用意。Gメジャー（または知っているスケール）を選ぶ。目的は、2オクターブで同じスケールを見失わないこと。",
+          "zh-Hans": "拿起节拍器，选择G大调（或你熟悉的任何音阶）。目标：在两个八度里看清同一音阶，不迷路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Find two octave shapes for the root on adjacent strings (E→D, A→G). Mark them with your index and pinky. Say the scale degree numbers out loud.",
+          "pt-BR": "Encontre duas formas de oitava para a tônica em cordas adjacentes (E→D, A→G). Marque com indicador e mindinho. Fale em voz alta os graus da escala.",
+          "es": "Encuentra dos formas de octava para la tónica en cuerdas adyacentes (E→D, A→G). Márcalas con índice y meñique. Di en voz alta los grados de la escala.",
+          "de": "Finde zwei Oktavformen für den Grundton auf benachbarten Saiten (E→D, A→G). Markiere sie mit Zeige- und kleinem Finger. Sprich die Stufen laut aus.",
+          "ja": "隣接弦でルートのオクターブ形を2つ見つける（E→D、A→G）。人差し指と小指で印をつけ、スケール度数を声に出す。",
+          "zh-Hans": "在相邻弦上找到两个主音八度形（E→D，A→G）。用食指和小指标记，并大声说出音阶级数。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play one octave ascending, then “hop” to the higher root and finish the second octave. Descend back, hopping to the lower root at the turn. Keep alternate picking.",
+          "pt-BR": "Toque uma oitava ascendente, depois “salte” para a tônica superior e conclua a segunda oitava. Volte descendo, saltando para a tônica inferior na virada. Mantenha palhetada alternada.",
+          "es": "Toca una octava ascendente y luego “salta” a la tónica superior para terminar la segunda octava. Desciende de vuelta saltando a la tónica inferior en el giro. Mantén púa alternada.",
+          "de": "Spiele eine Oktave aufwärts und „springe“ dann zum höheren Grundton, um die zweite Oktave zu beenden. Abwärts zurück, mit Sprung zum tieferen Grundton an der Wende. Wechselschlag beibehalten.",
+          "ja": "1オクターブ上行したら、高いルートへ「ジャンプ」して2オクターブ目を完成。戻るときは折り返しで低いルートへジャンプ。オルタネイト・ピッキングを維持。",
+          "zh-Hans": "先上行一个八度，然后“跳”到更高的主音完成第二个八度。下行返回时在转折处跳回低主音。保持交替拨弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm grid: play the scale in 8ths, then 8th‑note triplets, then 16ths. If you crash, drop back a tempo and rebuild.",
+          "pt-BR": "Grade rítmica: toque a escala em colcheias, depois tercinas de colcheia, depois semicolcheias. Se travar, volte o tempo e reconstrua.",
+          "es": "Cuadrícula rítmica: toca la escala en corcheas, luego tresillos de corchea, luego semicorcheas. Si te trabas, baja el tempo y reconstruye.",
+          "de": "Rhythmus-Grid: spiele die Skala in Achteln, dann Achteltriolen, dann Sechzehnteln. Wenn du abstürzt, Tempo runter und wieder aufbauen.",
+          "ja": "リズムグリッド：8分音符→8分三連→16分音符で演奏。崩れたらテンポを下げて再構築。",
+          "zh-Hans": "节奏网格：先用八分音符，再用八分三连音，最后用十六分音符演奏。如果崩了就降速重建。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mini jam: loop a simple I–IV–V backing track. Improvise using only notes that are on your mapped octave roots and their neighbors. Write one cool lick you discovered.",
+          "pt-BR": "Mini jam: faça um loop simples de I–IV–V. Improvise usando apenas notas que estejam nas suas tônicas de oitava mapeadas e seus vizinhos. Anote um lick legal que você descobriu.",
+          "es": "Mini jam: usa un loop sencillo I–IV–V. Improvisa usando solo notas que estén en tus tónicas de octava mapeadas y sus vecinas. Anota un lick genial que descubriste.",
+          "de": "Mini-Jam: Loopen einen einfachen I–IV–V-Track. Improvisiere nur mit Noten, die auf deinen gemappten Oktav-Grundtönen und deren Nachbarn liegen. Notiere ein cooles Lick, das du entdeckt hast.",
+          "ja": "ミニジャム：シンプルなI–IV–Vのバッキングをループ。マップしたオクターブルートとその隣の音だけで即興し、発見したクールなリックを1つ書き留めよう。",
+          "zh-Hans": "迷你即兴：循环一个简单的I–IV–V伴奏。只用你标记的八度主音及其邻近音来即兴，记下你发现的一条酷炫乐句。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-29T00:02:32Z",
+  "updatedAt": "2026-03-29T00:02:32Z"
+}

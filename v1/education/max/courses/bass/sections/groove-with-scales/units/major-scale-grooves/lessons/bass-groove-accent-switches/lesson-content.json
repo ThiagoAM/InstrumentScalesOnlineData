@@ -1,0 +1,86 @@
+{
+  "id": "bass-groove-accent-switches",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick C major and set a steady 90 BPM. Your mission: keep the groove steady while the accents move.",
+          "pt-BR": "Escolha Dó maior e ajuste 90 BPM. Missão: manter o groove firme enquanto os acentos se movem.",
+          "es": "Elige Do mayor y pon 90 BPM. Misión: mantener el groove sólido mientras los acentos se desplazan.",
+          "de": "Wähle C-Dur und stelle 90 BPM ein. Mission: Groove stabil halten, während die Akzente wandern.",
+          "ja": "Cメジャーを選び、90 BPMに設定。目的は、アクセントを動かしてもグルーヴを崩さないこと。",
+          "zh-Hans": "选择C大调，设定90 BPM。任务：在重音移动时仍保持律动稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play a two‑bar groove using scale degrees 1–2–3–5–6 (roots and steps). Accent beat 1 for two bars, then accent beat 3 for two bars.",
+          "pt-BR": "Toque um groove de dois compassos usando graus 1–2–3–5–6 (tônica e passos). Acentue o tempo 1 por dois compassos e depois o tempo 3 por dois compassos.",
+          "es": "Toca un groove de dos compases usando grados 1–2–3–5–6 (tónica y pasos). Acentúa el tiempo 1 por dos compases y luego el tiempo 3 por dos compases.",
+          "de": "Spiele einen Zwei‑Takt‑Groove mit den Stufen 1–2–3–5–6 (Grundton und Schritte). Akzent auf Zählzeit 1 für zwei Takte, dann Akzent auf 3 für zwei Takte.",
+          "ja": "度数1–2–3–5–6で2小節のグルーヴを作る。2小節は1拍目を強調し、次の2小節は3拍目を強調。",
+          "zh-Hans": "用1–2–3–5–6级做两小节律动。先两小节强调第1拍，再两小节强调第3拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now accent the “&” of 2 and the “&” of 4. Keep notes even, let the accents punch. Use right‑hand muting to keep it tight.",
+          "pt-BR": "Agora acentue o “e” do 2 e o “e” do 4. Mantenha as notas iguais e deixe os acentos saltarem. Use abafamento da mão direita para soar firme.",
+          "es": "Ahora acentúa el “y” de 2 y el “y” de 4. Mantén las notas parejas y deja que los acentos destaquen. Usa apagado con la mano derecha para apretar el sonido.",
+          "de": "Jetzt akzentuiere das „und“ von 2 und das „und“ von 4. Halte die Noten gleichmäßig und lass die Akzente knallen. Dämpfe mit der rechten Hand.",
+          "ja": "次は2拍目の「＆」と4拍目の「＆」を強調。音量は揃え、アクセントだけはっきり。右手ミュートでタイトに。",
+          "zh-Hans": "现在强调第2拍的“&”和第4拍的“&”。音量保持均匀，让重音突出。用右手闷音保持紧实。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add ghost notes on the unaccented beats. If the groove gets messy, strip back to roots and rebuild the accents.",
+          "pt-BR": "Adicione notas fantasmas nos tempos sem acento. Se embolar, volte para as tônicas e reconstrua os acentos.",
+          "es": "Agrega notas fantasma en los tiempos sin acento. Si se desordena, vuelve a la tónica y reconstruye los acentos.",
+          "de": "Füge Ghost Notes auf den unbetonten Schlägen hinzu. Wenn es wackelt, zurück zu den Grundtönen und Akzente neu aufbauen.",
+          "ja": "アクセントのない拍にゴーストノートを追加。崩れたらルートに戻してアクセントを再構築。",
+          "zh-Hans": "在非重音拍加入鬼音。如果乱了，退回主音并重新建立重音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: mute the metronome for two bars (or use a click with gaps). When it returns, land on beat 1 cleanly.",
+          "pt-BR": "Desafio: silencie o metrônomo por dois compassos (ou use clique com espaços). Quando voltar, acerte o tempo 1 limpo.",
+          "es": "Ronda desafío: silencia el metrónomo por dos compases (o usa un clic con huecos). Cuando vuelva, cae en el tiempo 1 limpio.",
+          "de": "Challenge: Metronom zwei Takte stummschalten (oder Click mit Lücken). Wenn es zurückkommt, sauber auf die 1 landen.",
+          "ja": "チャレンジ：メトロノームを2小節だけ消す（または間引きクリック）。戻ったら1拍目にきれいに着地。",
+          "zh-Hans": "挑战回合：让节拍器静音两小节（或用带空拍的点击）。它回来时准确落在第1拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a 4‑bar groove that cycles through three accent patterns. Record it and write one sentence about which accent felt best and why.",
+          "pt-BR": "Crie um groove de 4 compassos que gire por três padrões de acento. Grave e escreva uma frase sobre qual acento soou melhor e por quê.",
+          "es": "Crea un groove de 4 compases que recorra tres patrones de acento. Grábalo y escribe una frase sobre qué acento se sintió mejor y por qué.",
+          "de": "Baue einen 4‑Takt‑Groove mit drei Akzentmustern. Nimm ihn auf und schreibe einen Satz, welcher Akzent sich am besten anfühlte und warum.",
+          "ja": "3種類のアクセントパターンが回る4小節グルーヴを作成。録音して、どのアクセントが一番気持ちよかったか一文で書こう。",
+          "zh-Hans": "创作一个4小节律动，循环三种重音模式。录下来，写一句话说明哪种重音最舒服以及原因。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-29T00:04:19Z",
+  "updatedAt": "2026-03-29T00:04:19Z"
+}

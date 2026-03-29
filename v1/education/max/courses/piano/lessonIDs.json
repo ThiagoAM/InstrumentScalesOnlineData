@@ -13,6 +13,7 @@
     "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/a-natural-minor-and-e-natural-minor-scales",
     "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/hands-together-scale-relay",
     "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/mirror-hands-scale-maze",
+    "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/piano-scale-color-swaps",
     "piano/scales-chords-and-harmony/building-chords-from-scales/triads-from-c-major-scale",
     "piano/scales-chords-and-harmony/building-chords-from-scales/inversions-of-major-and-minor-triads",
     "piano/scales-chords-and-harmony/building-chords-from-scales/broken-chord-patterns-using-scales",
@@ -54,5 +55,5 @@
     "piano/scale-based-practice-routines/creating-your-own-practice-plan/balancing-technique-theory-and-creativity"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-03-28T00:08:05Z"
+  "updatedAt": "2026-03-29T00:06:13Z"
 }

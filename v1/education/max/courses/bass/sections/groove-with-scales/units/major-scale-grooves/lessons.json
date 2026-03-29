@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-03-28T00:06:51Z",
     "updatedAt": "2026-03-28T00:06:51Z"
+  },
+  {
+    "id": "bass-groove-accent-switches",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Bass Groove Accent Switches\"",
+        "pt-BR": "\"Trocas de Acento no Groove de Baixo\"",
+        "es": "\"Cambios de Acento en el Groove de Bajo\"",
+        "de": "\"Akzentwechsel im Bass‑Groove\"",
+        "ja": "\"ベース・グルーヴのアクセント切り替え\"",
+        "zh-Hans": "\"贝斯律动重音切换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Shift accents across a major-scale groove to lock timing and feel.\"",
+        "pt-BR": "\"Mude os acentos em um groove de escala maior para travar o tempo e o feeling.\"",
+        "es": "\"Mueve los acentos en un groove de escala mayor para asegurar tiempo y feel.\"",
+        "de": "\"Verschiebe Akzente in einem Dur‑Groove, um Timing und Feel zu festigen.\"",
+        "ja": "\"メジャースケールのグルーヴでアクセントを動かし、タイム感とフィールを鍛える。\"",
+        "zh-Hans": "\"在大调律动中移动重音，稳固节拍感与律动感。\""
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-03-29T00:04:19Z",
+    "updatedAt": "2026-03-29T00:04:19Z"
   }
 ]

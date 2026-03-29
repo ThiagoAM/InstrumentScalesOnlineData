@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-19T00:07:12Z",
     "updatedAt": "2026-03-19T00:07:12Z"
+  },
+  {
+    "id": "piano-scale-color-swaps",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "\"Piano Scale Color Swaps\"",
+        "pt-BR": "\"Trocas de Cor nas Escalas do Piano\"",
+        "es": "\"Cambios de Color en Escalas de Piano\"",
+        "de": "\"Farbwechsel der Klavierskalen\"",
+        "ja": "\"ピアノのスケール・カラー交換\"",
+        "zh-Hans": "\"钢琴音阶色彩互换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Flip a few notes to hear how major and minor colors change the mood.\"",
+        "pt-BR": "\"Mude algumas notas para ouvir como o clima entre maior e menor se transforma.\"",
+        "es": "\"Cambia unas notas para oír cómo el mayor y el menor transforman el ánimo.\"",
+        "de": "\"Ändere ein paar Töne und höre, wie Dur und Moll die Stimmung drehen.\"",
+        "ja": "\"数音を入れ替えて、長調と短調のムードの変化を体感する。\"",
+        "zh-Hans": "\"改动几颗音，感受大调与小调情绪的变化。\""
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-29T00:06:13Z",
+    "updatedAt": "2026-03-29T00:06:13Z"
   }
 ]
