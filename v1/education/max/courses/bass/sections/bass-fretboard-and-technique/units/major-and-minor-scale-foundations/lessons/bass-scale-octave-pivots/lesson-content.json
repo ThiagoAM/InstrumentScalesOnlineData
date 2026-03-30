@@ -1,0 +1,73 @@
+{
+  "id": "bass-scale-octave-pivots",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose A natural minor over two octaves. Start at the 5th fret on the E string. Metronome 60 BPM.",
+          "pt-BR": "Preparação: escolha Lá menor natural em duas oitavas. Comece na 5ª casa da corda E. Metrônomo a 60 BPM.",
+          "es": "Preparación: elige La menor natural en dos octavas. Empieza en el 5º traste de la cuerda E. Metrónomo a 60 BPM.",
+          "de": "Setup: Wähle a-Moll natürlich über zwei Oktaven. Start bei Bund 5 auf der E-Saite. Metronom 60 BPM.",
+          "ja": "セットアップ：Aナチュラルマイナーを2オクターブ。E弦5フレットから。メトロノーム60 BPM。",
+          "zh-Hans": "准备：选择A自然小调，两八度。从E弦5品开始。节拍器60 BPM。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pivot pass: play root to octave, then continue the scale to the top. Repeat descending, landing on the lower octave.",
+          "pt-BR": "Passada com pivô: toque a tônica até a oitava e continue a escala até o topo. Repita descendo, aterrissando na oitava grave.",
+          "es": "Pasada con pivote: toca la tónica hasta la octava y continúa la escala hasta arriba. Repite descendiendo y aterriza en la octava grave.",
+          "de": "Pivot-Durchgang: Spiele Grundton bis Oktave, dann weiter bis oben. Abwärts wiederholen und auf der tiefen Oktave landen.",
+          "ja": "ピボット走行：主音からオクターブへ跳び、上までスケールを続ける。下降は低いオクターブに着地。",
+          "zh-Hans": "支点走法：从主音跳到八度，再继续到最高音。下行重复并落到低八度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove layer: add a light ghost note before each octave jump to keep time.",
+          "pt-BR": "Camada de groove: adicione um ghost note leve antes de cada salto de oitava para manter o tempo.",
+          "es": "Capa de groove: añade una ghost note ligera antes de cada salto de octava para mantener el pulso.",
+          "de": "Groove-Schicht: Vor jedem Oktavsprung eine leichte Ghost Note setzen, um den Puls zu halten.",
+          "ja": "グルーヴ層：各オクターブ跳躍の前に軽いゴーストノートを入れてタイムを保つ。",
+          "zh-Hans": "律动层：每次八度跳跃前加入轻微的幽灵音，保持拍点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Reverse pivot: start from the top octave, drop to the lower octave mid-run, then finish descending.",
+          "pt-BR": "Pivô reverso: comece pela oitava aguda, desça para a oitava grave no meio da corrida e termine descendo.",
+          "es": "Pivote inverso: empieza en la octava aguda, baja a la octava grave a mitad de la pasada y termina descendiendo.",
+          "de": "Reverse-Pivot: Beginne in der oberen Oktave, springe in der Mitte zur unteren Oktave und beende abwärts.",
+          "ja": "逆ピボット：上のオクターブから始め、途中で下のオクターブへ移り、下降で終える。",
+          "zh-Hans": "反向支点：从高八度开始，中途跳到低八度，再完成下行。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: loop four bars — bar 1 straight scale, bar 2 pivots, bar 3 pivots + ghosts, bar 4 improv using only scale tones.",
+          "pt-BR": "Desafio: loop de quatro compassos — compasso 1 escala reta, 2 pivôs, 3 pivôs + ghosts, 4 improviso só com notas da escala.",
+          "es": "Desafío: bucle de cuatro compases — compás 1 escala recta, 2 pivotes, 3 pivotes + ghosts, 4 improvisa usando solo notas de la escala.",
+          "de": "Challenge: Vier Takte loopen — Takt 1 gerade Skala, Takt 2 Pivots, Takt 3 Pivots + Ghosts, Takt 4 improvisiere nur mit Skalentönen.",
+          "ja": "チャレンジ：4小節ループ—1小節目ストレート、2小節目ピボット、3小節目ピボット＋ゴースト、4小節目はスケール音のみで即興。",
+          "zh-Hans": "挑战：循环四小节——第1小节直线音阶，第2小节支点，第3小节支点+幽灵音，第4小节只用音阶音即兴。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-30T00:06:15Z",
+  "updatedAt": "2026-03-30T00:06:15Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-fingering-sprints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick C major and A natural minor. Hands separate. Set 60 BPM. Play four-note groups (1-2-3-4), stop.",
+          "pt-BR": "Escolha Dó maior e Lá menor natural. Mãos separadas. 60 BPM. Toque grupos de quatro notas (1-2-3-4) e pare.",
+          "es": "Elige Do mayor y La menor natural. Manos separadas. 60 BPM. Toca grupos de cuatro notas (1-2-3-4) y detente.",
+          "de": "Wähle C-Dur und a-Moll natürlich. Hände getrennt. 60 BPM. Spiele Vierergruppen (1-2-3-4) und stoppe.",
+          "ja": "CメジャーとAナチュラルマイナーを選ぶ。片手ずつ。60 BPM。4音グループ（1-2-3-4）で弾いて停止。",
+          "zh-Hans": "选择C大调和A自然小调。双手分开。60 BPM。以四音一组（1-2-3-4）弹完就停。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sprint up: play the next four notes, stop, reset. Continue to the top, then back down.",
+          "pt-BR": "Sprint para cima: toque as próximas quatro notas, pare, reinicie. Continue até o topo e volte descendo.",
+          "es": "Sprint hacia arriba: toca las siguientes cuatro notas, detente y reinicia. Continúa hasta arriba y vuelve bajando.",
+          "de": "Sprint nach oben: die nächsten vier Töne spielen, stoppen, neu ansetzen. Bis nach oben und wieder herunter.",
+          "ja": "上行スプリント：次の4音を弾いて止め、リセット。上まで行き、下りで戻る。",
+          "zh-Hans": "上行冲刺：再弹下一组四音，停一下再继续。到顶后再下行回到起点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Connect: play eight notes at a time with clean thumb crossings. Keep relaxed wrists.",
+          "pt-BR": "Conexão: toque oito notas por vez com passagens de polegar limpas. Punhos relaxados.",
+          "es": "Conecta: toca ocho notas por vez con cruces de pulgar limpios. Muñecas relajadas.",
+          "de": "Verbinden: Acht Töne am Stück mit sauberen Daumenuntersetzungen. Handgelenke locker.",
+          "ja": "接続：8音ずつつなげ、親指くぐりをきれいに。手首はリラックス。",
+          "zh-Hans": "连接：一次弹八个音，拇指穿越要干净，手腕放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Hands together: one octave up and down, accents on beats 2 and 4, staccato.",
+          "pt-BR": "Mãos juntas: uma oitava subindo e descendo, acentos nos tempos 2 e 4, staccato.",
+          "es": "Manos juntas: una octava arriba y abajo, acentos en los tiempos 2 y 4, staccato.",
+          "de": "Hände zusammen: eine Oktave rauf und runter, Akzente auf Zählzeit 2 und 4, staccato.",
+          "ja": "両手：1オクターブ上下、拍2と4にアクセント、スタッカート。",
+          "zh-Hans": "双手合奏：一八度上行下行，重音在第2拍和第4拍，断奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Cooldown: choose the tougher scale and play legato once. Note any uneven crossings to fix tomorrow.",
+          "pt-BR": "Desaquecimento: escolha a escala mais difícil e toque uma vez legato. Anote onde as passagens ficaram irregulares.",
+          "es": "Enfriamiento: elige la escala más difícil y tócala una vez legato. Anota dónde los cruces quedaron desparejos.",
+          "de": "Cooldown: nimm die schwierigere Skala und spiele sie einmal legato. Notiere ungleichmäßige Kreuzungen.",
+          "ja": "クールダウン：難しい方のスケールをレガートで1回。崩れたクロスをメモ。",
+          "zh-Hans": "收尾：选更难的那条音阶，连奏一次。记下不均匀的穿越点。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-30T00:08:36Z",
+  "updatedAt": "2026-03-30T00:08:36Z"
+}

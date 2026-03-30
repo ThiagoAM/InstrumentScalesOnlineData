@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-03-24T00:06:18Z",
     "updatedAt": "2026-03-24T00:06:18Z"
+  },
+  {
+    "id": "bass-scale-octave-pivots",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Octave Pivot Scale Drill\"",
+        "pt-BR": "\"Treino de Pivô de Oitava na Escala\"",
+        "es": "\"Ejercicio de Pivote de Octava en la Escala\"",
+        "de": "\"Oktav-Pivot-Skalendril\"",
+        "ja": "\"オクターブ・ピボット・スケールドリル\"",
+        "zh-Hans": "\"八度支点音阶训练\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use octave jumps to lock in scale shape and left-hand shifts.\"",
+        "pt-BR": "\"Use saltos de oitava para firmar o desenho da escala e as trocas de mão esquerda.\"",
+        "es": "\"Usa saltos de octava para fijar la forma de la escala y los cambios de mano izquierda.\"",
+        "de": "\"Nutze Oktavsprünge, um die Skalenform und Lagenwechsel zu festigen.\"",
+        "ja": "\"オクターブ跳躍でスケール形と左手シフトを固める。\"",
+        "zh-Hans": "\"用八度跳跃巩固音阶形状与左手换把位。\""
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-30T00:06:15Z",
+    "updatedAt": "2026-03-30T00:06:15Z"
   }
 ]

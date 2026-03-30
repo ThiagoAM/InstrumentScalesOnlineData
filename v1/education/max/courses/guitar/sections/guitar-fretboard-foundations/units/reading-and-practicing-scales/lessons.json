@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-03-29T00:02:32Z",
     "updatedAt": "2026-03-29T00:02:32Z"
+  },
+  {
+    "id": "guitar-scale-accent-switchback",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Accent Switchback\"",
+        "pt-BR": "\"Escala com Troca de Acentos\"",
+        "es": "\"Cambio de Acentos en la Escala\"",
+        "de": "\"Skalen-Akzentwechsel\"",
+        "ja": "\"スケール・アクセント切り替え\"",
+        "zh-Hans": "\"音阶重音切换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Shift accents across a scale to build timing and clean position changes.\"",
+        "pt-BR": "\"Desloque os acentos pela escala para melhorar o tempo e as mudanças de posição.\"",
+        "es": "\"Desplaza los acentos en la escala para mejorar el pulso y los cambios de posición.\"",
+        "de": "\"Verschiebe die Akzente in der Skala, um Timing und Positionswechsel zu verbessern.\"",
+        "ja": "\"アクセント位置をずらしてタイミングとポジション移動を磨く。\"",
+        "zh-Hans": "\"在音阶中移动重音，提升节奏感与换把位的干净度。\""
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-03-30T00:03:53Z",
+    "updatedAt": "2026-03-30T00:03:53Z"
   }
 ]

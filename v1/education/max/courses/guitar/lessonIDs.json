@@ -15,6 +15,7 @@
     "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/guitar-scale-accents-and-shifts",
     "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/guitar-string-skip-scale-bounces",
     "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/octave-hop-scale-map",
+    "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/guitar-scale-accent-switchback",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/c-major-scale-two-positions",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/a-natural-minor-scale-two-positions",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/connecting-major-and-relative-minor",
@@ -55,5 +56,5 @@
     "guitar/guitar-applying-scales-in-improvisation/practice-routines-and-etudes/call-and-response-improv-etude"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-03-29T00:02:32Z"
+  "updatedAt": "2026-03-30T00:03:53Z"
 }

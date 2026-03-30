@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-03-29T00:06:13Z",
     "updatedAt": "2026-03-29T00:06:13Z"
+  },
+  {
+    "id": "piano-scale-fingering-sprints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Piano Scale Fingering Sprints\"",
+        "pt-BR": "\"Sprints de Dedilhado na Escala do Piano\"",
+        "es": "\"Sprints de Digitación en Escala de Piano\"",
+        "de": "\"Klavier-Skalen-Fingeringsprints\"",
+        "ja": "\"ピアノ・スケール指使いスプリント\"",
+        "zh-Hans": "\"钢琴音阶指法冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Short bursts that lock in fingering for major and natural minor scales.\"",
+        "pt-BR": "\"Explosões curtas para fixar o dedilhado em escalas maiores e menores naturais.\"",
+        "es": "\"Ráfagas cortas para fijar la digitación en escalas mayores y menores naturales.\"",
+        "de": "\"Kurze Sprints, um die Fingersätze für Dur- und natürliche Mollskalen zu festigen.\"",
+        "ja": "\"短いスプリントで長調・ナチュラルマイナーの指使いを定着させる。\"",
+        "zh-Hans": "\"用短冲刺巩固大调与自然小调的指法。\""
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-30T00:08:36Z",
+    "updatedAt": "2026-03-30T00:08:36Z"
   }
 ]
