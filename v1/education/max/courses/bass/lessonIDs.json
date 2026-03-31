@@ -34,6 +34,7 @@
     "bass/groove-with-scales/major-scale-grooves/syncopated-root-grooves",
     "bass/groove-with-scales/major-scale-grooves/palm-muted-scale-groove",
     "bass/groove-with-scales/major-scale-grooves/bass-groove-accent-switches",
+    "bass/groove-with-scales/major-scale-grooves/root-third-bounce-grooves",
     "bass/walking-bass-and-harmony/building-walking-lines/stepwise-motion-in-major-keys",
     "bass/walking-bass-and-harmony/building-walking-lines/using-thirds-and-fifths-in-walking-lines",
     "bass/walking-bass-and-harmony/building-walking-lines/chromatic-approaches-to-chord-tones",
@@ -57,5 +58,5 @@
     "bass/advanced-fretboard-control/melodic-bass-playing/singable-phrases-in-the-upper-register"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-03-30T00:06:15Z"
+  "updatedAt": "2026-03-31T00:06:59Z"
 }

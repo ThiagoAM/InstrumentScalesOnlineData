@@ -34,6 +34,7 @@
     "guitar/guitar-modes-and-diatonic-scales/major-scale-positions/five-position-system-for-c-major",
     "guitar/guitar-modes-and-diatonic-scales/major-scale-positions/three-notes-per-string-patterns-in-c-major",
     "guitar/guitar-modes-and-diatonic-scales/major-scale-positions/connecting-positions-horizontally",
+    "guitar/guitar-modes-and-diatonic-scales/major-scale-positions/c-major-position-shift-relay",
     "guitar/guitar-modes-and-diatonic-scales/understanding-modes/ionian-dorian-and-mixolydian-overview",
     "guitar/guitar-modes-and-diatonic-scales/understanding-modes/d-dorian-shapes-and-common-chord-progressions",
     "guitar/guitar-modes-and-diatonic-scales/understanding-modes/g-mixolydian-over-dominant-chords",
@@ -56,5 +57,5 @@
     "guitar/guitar-applying-scales-in-improvisation/practice-routines-and-etudes/call-and-response-improv-etude"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-03-30T00:03:53Z"
+  "updatedAt": "2026-03-31T00:05:54Z"
 }

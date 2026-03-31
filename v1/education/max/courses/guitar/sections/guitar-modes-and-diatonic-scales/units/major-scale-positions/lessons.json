@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "c-major-position-shift-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Position-Shift Relay in C Major\"",
+        "pt-BR": "\"Revezamento de Trocas de Posição em Dó Maior\"",
+        "es": "\"Relevo de Cambios de Posición en Do Mayor\"",
+        "de": "\"Positionswechsel-Staffel in C-Dur\"",
+        "ja": "\"Cメジャーのポジション移動リレー\"",
+        "zh-Hans": "\"C大调位置切换接力\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Connect C major positions with smooth shifts and rhythmic confidence.\"",
+        "pt-BR": "\"Conecte posições de Dó maior com trocas suaves e confiança rítmica.\"",
+        "es": "\"Conecta posiciones de Do mayor con cambios suaves y seguridad rítmica.\"",
+        "de": "\"Verbinde C-Dur-Positionen mit sanften Wechseln und rhythmischer Sicherheit.\"",
+        "ja": "\"Cメジャーのポジションを滑らかに繋ぎ、リズムの安定感を高めよう。\"",
+        "zh-Hans": "\"用顺滑的换把与稳固节奏把C大调位置连起来。\""
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-31T00:05:54Z",
+    "updatedAt": "2026-03-31T00:05:54Z"
   }
 ]

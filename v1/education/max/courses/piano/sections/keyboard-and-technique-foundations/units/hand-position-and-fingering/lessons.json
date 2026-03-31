@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-24T00:08:54Z",
     "updatedAt": "2026-03-24T00:08:54Z"
+  },
+  {
+    "id": "finger-pivot-mini-arps",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Finger-Pivot Mini-Arps in C\"",
+        "pt-BR": "\"Mini-Arpejos com Pivô de Dedos em Dó\"",
+        "es": "\"Mini-Arpegios con Pivote de Dedos en Do\"",
+        "de": "\"Mini-Arpeggien mit Finger-Pivot in C\"",
+        "ja": "\"Cメジャーのフィンガー・ピボット・ミニアルペジオ\"",
+        "zh-Hans": "\"C大调指尖支点迷你琶音\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use small finger pivots to make scale motion smooth and musical.\"",
+        "pt-BR": "\"Use pequenos pivôs de dedos para deixar o movimento da escala suave e musical.\"",
+        "es": "\"Usa pequeños pivotes de dedos para que el movimiento de la escala sea suave y musical.\"",
+        "de": "\"Mit kleinen Finger-Pivots wird die Skalenbewegung weich und musikalisch.\"",
+        "ja": "\"小さな指のピボットでスケールの動きを滑らかにしよう。\"",
+        "zh-Hans": "\"用小幅指尖支点让音阶动作更顺滑、更有音乐性。\""
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-31T00:08:16Z",
+    "updatedAt": "2026-03-31T00:08:16Z"
   }
 ]

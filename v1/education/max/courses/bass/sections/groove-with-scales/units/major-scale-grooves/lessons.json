@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-03-29T00:04:19Z",
     "updatedAt": "2026-03-29T00:04:19Z"
+  },
+  {
+    "id": "root-third-bounce-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Root-to-Third Bounce Grooves\"",
+        "pt-BR": "\"Grooves de Salto entre Tônica e Terça\"",
+        "es": "\"Grooves de Rebote entre Tónica y Tercera\"",
+        "de": "\"Root‑Third‑Bounce‑Grooves\"",
+        "ja": "\"ルート→サードのバウンス・グルーヴ\"",
+        "zh-Hans": "\"根音到三度的弹跳律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build major-scale grooves by bouncing between roots and thirds with rhythmic punch.\"",
+        "pt-BR": "\"Construa grooves em escala maior alternando tônica e terça com pegada rítmica.\"",
+        "es": "\"Crea grooves de escala mayor rebotando entre tónica y tercera con pegada rítmica.\"",
+        "de": "\"Baue Dur‑Grooves, indem du zwischen Grundton und Terz mit rhythmischem Punch springst.\"",
+        "ja": "\"ルートとサードを跳ねさせて、メジャースケールのグルーヴを作ろう。\"",
+        "zh-Hans": "\"在大调音阶中用根音与三度的弹跳打造有力节奏。\""
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-03-31T00:06:59Z",
+    "updatedAt": "2026-03-31T00:06:59Z"
   }
 ]
