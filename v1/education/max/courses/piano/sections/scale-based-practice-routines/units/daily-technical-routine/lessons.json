@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-03-28T00:08:05Z",
     "updatedAt": "2026-03-28T00:08:05Z"
+  },
+  {
+    "id": "mirror-hands-scale-sprints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Mirror Hands Scale Sprints\"",
+        "pt-BR": "\"Sprints de Escala com Mãos Espelhadas\"",
+        "es": "\"Sprints de Escala con Manos Espejo\"",
+        "de": "\"Skalen-Sprints mit Spiegelhänden\"",
+        "ja": "\"ミラーハンド・スケールスプリント\"",
+        "zh-Hans": "\"镜像双手音阶冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build evenness with mirrored hands, contrary motion, and short speed bursts.\"",
+        "pt-BR": "\"Construa uniformidade com mãos espelhadas, movimento contrário e sprints de velocidade.\"",
+        "es": "\"Construye uniformidad con manos espejadas, movimiento contrario y ráfagas de velocidad.\"",
+        "de": "\"Baue Gleichmäßigkeit mit spiegelnden Händen, Gegenbewegung und kurzen Tempobursts auf.\"",
+        "ja": "\"鏡のような両手、反行、短いスピードバーストで均一さを鍛える。\"",
+        "zh-Hans": "\"通过镜像双手、反向运动和短促加速练出均匀度。\""
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-04-01T00:07:57Z",
+    "updatedAt": "2026-04-01T00:07:57Z"
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "id": "syncopated-scale-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose G major. Play a steady root–fifth pulse on beats 1 and 3 at 80 bpm, keeping notes short.",
+          "pt-BR": "Setup: escolha Sol maior. Toque um pulso firme de tônica–quinta nos tempos 1 e 3 a 80 bpm, com notas curtas.",
+          "es": "Setup: elige Sol mayor. Toca un pulso firme de tónica–quinta en los tiempos 1 y 3 a 80 bpm, con notas cortas.",
+          "de": "Setup: Wähle G-Dur. Spiele einen festen Grundton–Quinte-Puls auf Zählzeit 1 und 3 bei 80 bpm, mit kurzen Noten.",
+          "ja": "セットアップ：Gメジャーを選ぶ。80 bpmで拍の1と3にルート–5度のパルスを短く弾く。",
+          "zh-Hans": "设置：选择G大调。80 bpm下在第1拍和第3拍弹根音–五度脉冲，音要短。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm cell: add scale tones on the “&” of 2 and the “a” of 3 (count 1-e-&-a). Loop it until it feels relaxed.",
+          "pt-BR": "Célula rítmica: adicione notas da escala no “&” do 2 e no “a” do 3 (conte 1-e-&-a). Faça loop até ficar confortável.",
+          "es": "Célula rítmica: añade notas de la escala en el “&” de 2 y en el “a” de 3 (cuenta 1-e-&-a). Repite hasta que sea cómodo.",
+          "de": "Rhythmuszelle: füge Skalentöne auf dem „&“ von 2 und dem „a“ von 3 hinzu (zähl 1-e-&-a). Loopen, bis es entspannt ist.",
+          "ja": "リズムセル：2の“&”と3の“a”にスケール音を足す（1-e-&-aで数える）。楽に感じるまでループ。",
+          "zh-Hans": "节奏单元：在第2拍的“&”和第3拍的“a”加入音阶音（数1-e-&-a）。循环到感觉放松为止。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Ghost-note spice: mute the strings and add two ghost notes between beat 2 and 3. Keep the groove, not the volume.",
+          "pt-BR": "Tempero de ghost notes: abafe as cordas e coloque duas ghost notes entre o tempo 2 e 3. Priorize o groove, não o volume.",
+          "es": "Sabor de ghost notes: silencia las cuerdas y agrega dos ghost notes entre los tiempos 2 y 3. Prioriza el groove, no el volumen.",
+          "de": "Ghost-Note-Würze: dämpfe die Saiten und setze zwei Ghost Notes zwischen Zählzeit 2 und 3. Groove vor Lautstärke.",
+          "ja": "ゴーストノートの味付け：弦をミュートし、2と3の間にゴーストノートを2つ入れる。音量よりグルーヴ優先。",
+          "zh-Hans": "幽灵音调味：闷住琴弦，在第2拍和第3拍之间加入两个幽灵音。先顾律动，再顾音量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Two-bar groove: bar 1 stays on G, bar 2 walks up the scale to D (G-A-B-C-D). Accent the first note of each bar.",
+          "pt-BR": "Groove de dois compassos: compasso 1 fica no Sol, compasso 2 sobe a escala até Ré (G-A-B-C-D). Acentue a primeira nota de cada compasso.",
+          "es": "Groove de dos compases: el compás 1 se queda en Sol, el compás 2 sube la escala hasta Re (G-A-B-C-D). Acentúa la primera nota de cada compás.",
+          "de": "Zwei-Takt-Groove: Takt 1 bleibt auf G, Takt 2 steigt die Skala bis D auf (G-A-B-C-D). Betone die erste Note jedes Takts.",
+          "ja": "2小節グルーヴ：1小節目はG、2小節目でDまで上行（G-A-B-C-D）。各小節の頭をアクセント。",
+          "zh-Hans": "两小节律动：第1小节停在G，第2小节沿音阶上行到D（G-A-B-C-D）。每小节的第一个音加重音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: record 8 bars clean at 90 bpm. Then write one variation that swaps a scale tone for a ghost note.",
+          "pt-BR": "Checkpoint: grave 8 compassos limpos a 90 bpm. Depois escreva uma variação trocando uma nota da escala por ghost note.",
+          "es": "Checkpoint: graba 8 compases limpios a 90 bpm. Luego escribe una variación cambiando una nota de la escala por ghost note.",
+          "de": "Checkpoint: Nimm 8 Takte sauber bei 90 bpm auf. Schreibe dann eine Variation und ersetze einen Skalenton durch eine Ghost Note.",
+          "ja": "チェックポイント：90 bpmで8小節をクリーンに録音。次にスケール音を1つゴーストノートに置き換えた変奏を書く。",
+          "zh-Hans": "检查点：90 bpm下干净录8小节。然后写一个把某个音阶音换成幽灵音的变化。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-01T00:05:41Z",
+  "updatedAt": "2026-04-01T00:05:41Z"
+}

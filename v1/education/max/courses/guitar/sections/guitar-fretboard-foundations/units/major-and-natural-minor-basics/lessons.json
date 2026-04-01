@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "interval-jumps-through-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Interval Jumps Through Scales\"",
+        "pt-BR": "\"Saltos de Intervalo pelas Escalas\"",
+        "es": "\"Saltos de Intervalo en las Escalas\"",
+        "de": "\"Intervallsprünge durch Tonleitern\"",
+        "ja": "\"スケールを跳躍で駆け抜ける\"",
+        "zh-Hans": "\"用跳进穿越音阶\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Make major and natural minor scales sound musical by leaping in 3rds, 4ths, and 5ths.\"",
+        "pt-BR": "\"Deixe as escalas maior e menor natural soarem musicais com saltos de 3as, 4as e 5as.\"",
+        "es": "\"Haz que las escalas mayor y menor natural suenen musicales con saltos de 3ras, 4tas y 5tas.\"",
+        "de": "\"Lass Dur- und natürliche Moll-Tonleitern musikalisch klingen mit Sprüngen in 3zen, 4ten und 5ten.\"",
+        "ja": "\"メジャーとナチュラルマイナーを3度・4度・5度の跳躍で音楽的に。\"",
+        "zh-Hans": "\"用3度、4度、5度跳进让大调和自然小调更有音乐感。\""
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-01T00:03:21Z",
+    "updatedAt": "2026-04-01T00:03:21Z"
   }
 ]

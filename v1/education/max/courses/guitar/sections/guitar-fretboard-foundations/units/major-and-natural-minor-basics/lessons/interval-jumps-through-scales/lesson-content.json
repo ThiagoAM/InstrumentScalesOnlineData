@@ -1,0 +1,73 @@
+{
+  "id": "interval-jumps-through-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warmup map: choose C major and A natural minor. Play two positions you already know at 70 bpm, and say the scale degrees aloud.",
+          "pt-BR": "Mapa de aquecimento: escolha Dó maior e Lá menor natural. Toque duas posições que você já conhece a 70 bpm e fale os graus em voz alta.",
+          "es": "Mapa de calentamiento: elige Do mayor y La menor natural. Toca dos posiciones que ya conoces a 70 bpm y di los grados en voz alta.",
+          "de": "Warm-up-Plan: Wähle C-Dur und a-Moll natürlich. Spiele zwei Positionen, die du kennst, bei 70 bpm und sprich die Tonstufen laut.",
+          "ja": "ウォームアップマップ：CメジャーとAナチュラルマイナーを選ぶ。知っている2つのポジションを70 bpmで弾き、度数を声に出す。",
+          "zh-Hans": "热身地图：选择C大调和A自然小调。用你熟悉的两个把位以70 bpm演奏，并大声说出度数。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "3rds ladder: play 1-3-2-4-3-5... ascending, then 8-6-7-5-6-4... descending. Keep alternate picking steady.",
+          "pt-BR": "Escada de 3as: toque 1-3-2-4-3-5... subindo, depois 8-6-7-5-6-4... descendo. Mantenha a palhetada alternada firme.",
+          "es": "Escalera de 3ras: toca 1-3-2-4-3-5... ascendiendo, luego 8-6-7-5-6-4... descendiendo. Mantén la púa alternada estable.",
+          "de": "3zen-Leiter: spiele 1-3-2-4-3-5... aufwärts, dann 8-6-7-5-6-4... abwärts. Halte die Wechselschlagbewegung stabil.",
+          "ja": "3度ラダー：1-3-2-4-3-5...と上行し、8-6-7-5-6-4...と下行。オルタネイトを安定させる。",
+          "zh-Hans": "3度阶梯：上行弹1-3-2-4-3-5...，下行弹8-6-7-5-6-4...。保持稳定的交替拨弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "4ths/5ths challenge: jump strings with 1-4-2-5-3-6 patterns. Use a metronome and accent every 4th note for groove.",
+          "pt-BR": "Desafio de 4as/5as: salte as cordas com padrões 1-4-2-5-3-6. Use o metrônomo e acentue cada 4ª nota para o groove.",
+          "es": "Desafío de 4tas/5tas: salta cuerdas con patrones 1-4-2-5-3-6. Usa metrónomo y acentúa cada 4ª nota para el groove.",
+          "de": "4ten/5ten-Challenge: springe über Saiten mit 1-4-2-5-3-6 Mustern. Nutze Metronom und betone jede 4. Note für den Groove.",
+          "ja": "4度/5度チャレンジ：1-4-2-5-3-6パターンで弦を飛び越える。メトロノームを使い4拍ごとにアクセント。",
+          "zh-Hans": "4度/5度挑战：用1-4-2-5-3-6的模式跨弦。用节拍器，并每4拍做一次重音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Improvisation game: 2 bars of straight scale, 2 bars of interval jumps. Record a take and circle your tastiest leap.",
+          "pt-BR": "Jogo de improviso: 2 compassos de escala reta, 2 compassos de saltos. Grave uma passada e marque o salto mais saboroso.",
+          "es": "Juego de improvisación: 2 compases de escala recta, 2 compases de saltos. Graba una toma y marca tu salto más sabroso.",
+          "de": "Impro-Spiel: 2 Takte gerade Tonleiter, 2 Takte Sprünge. Nimm einen Take auf und markiere deinen leckersten Sprung.",
+          "ja": "即興ゲーム：2小節は順行スケール、2小節は跳躍。録音して一番おいしい跳躍を丸で囲む。",
+          "zh-Hans": "即兴游戏：2小节直行音阶，2小节跳进。录一遍，圈出你最有味道的跳进。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: clean run at 90 bpm in both positions. Write one lick that uses a leap and resolves to the root.",
+          "pt-BR": "Checkpoint: execução limpa a 90 bpm nas duas posições. Escreva um lick que use um salto e resolva na tônica.",
+          "es": "Checkpoint: ejecución limpia a 90 bpm en ambas posiciones. Escribe un lick que use un salto y resuelva en la tónica.",
+          "de": "Checkpoint: sauber bei 90 bpm in beiden Positionen. Schreib ein Lick mit Sprung und Auflösung zur Tonika.",
+          "ja": "チェックポイント：両ポジションで90 bpmをクリーンに。跳躍を使い主音に解決するリックを1つ書く。",
+          "zh-Hans": "检查点：两个把位都能以90 bpm干净完成。写一个带跳进并回到主音的lick。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-01T00:03:21Z",
+  "updatedAt": "2026-04-01T00:03:21Z"
+}

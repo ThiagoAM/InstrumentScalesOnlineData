@@ -1,0 +1,73 @@
+{
+  "id": "mirror-hands-scale-sprints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose C major, two octaves. Hands together at 60 bpm, relaxed wrists and curved fingers.",
+          "pt-BR": "Setup: escolha Dó maior, duas oitavas. Mãos juntas a 60 bpm, punhos relaxados e dedos curvos.",
+          "es": "Setup: elige Do mayor, dos octavas. Manos juntas a 60 bpm, muñecas relajadas y dedos curvos.",
+          "de": "Setup: Wähle C-Dur, zwei Oktaven. Hände zusammen bei 60 bpm, entspannte Handgelenke und runde Finger.",
+          "ja": "セットアップ：Cメジャーを2オクターブ。60 bpmで両手同時、手首はリラックス、指は丸く。",
+          "zh-Hans": "设置：选择C大调，两组八度。60 bpm双手同奏，手腕放松，手指弯曲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mirror move: RH goes up while LH goes down (contrary motion) for 4 notes, then reset. Keep both hands equally loud.",
+          "pt-BR": "Movimento espelho: a mão direita sobe enquanto a esquerda desce (movimento contrário) por 4 notas, depois reinicie. Mesmo volume nas duas mãos.",
+          "es": "Movimiento espejo: la mano derecha sube mientras la izquierda baja (movimiento contrario) por 4 notas, luego reinicia. Mismo volumen en ambas manos.",
+          "de": "Spiegelbewegung: Rechte Hand aufwärts, linke abwärts (Gegenbewegung) für 4 Noten, dann neu starten. Gleiche Lautstärke in beiden Händen.",
+          "ja": "ミラー動作：右手が上行、左手が下行（反行）で4音、その後リセット。両手の音量を揃える。",
+          "zh-Hans": "镜像动作：右手上行、左手下行（反向运动）4个音后重置。两手音量要一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sprint drill: 4 beats slow, 1 beat fast burst. Repeat for 8 cycles without losing finger control.",
+          "pt-BR": "Drill de sprint: 4 tempos lentos, 1 tempo rápido. Repita por 8 ciclos sem perder o controle dos dedos.",
+          "es": "Drill de sprint: 4 tiempos lentos, 1 tiempo rápido. Repite 8 ciclos sin perder el control de los dedos.",
+          "de": "Sprint-Drill: 4 Schläge langsam, 1 Schlag schnell. Wiederhole 8 Zyklen ohne die Fingerkontrolle zu verlieren.",
+          "ja": "スプリント練習：4拍ゆっくり、1拍だけ速く。指のコントロールを保って8サイクル。",
+          "zh-Hans": "冲刺练习：慢4拍、快1拍。连续8轮，不要丢掉手指控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accent trick: accent every 3rd note (1-2-3, 1-2-3...). This breaks autopilot and locks in timing.",
+          "pt-BR": "Truque de acento: acentue cada 3ª nota (1-2-3, 1-2-3...). Isso quebra o piloto automático e firma o tempo.",
+          "es": "Truco de acentos: acentúa cada 3ª nota (1-2-3, 1-2-3...). Esto rompe el piloto automático y fija el pulso.",
+          "de": "Akzent-Trick: betone jede 3. Note (1-2-3, 1-2-3...). Das bricht den Autopilot und stabilisiert das Timing.",
+          "ja": "アクセント技：3音ごとにアクセント（1-2-3, 1-2-3...）。オートパイロットを切ってタイミングを固定。",
+          "zh-Hans": "重音技巧：每3个音加一次重音（1-2-3, 1-2-3...）。打破自动驾驶，稳住时值。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: record three clean runs at 80 bpm. Write one sentence about where tension showed up.",
+          "pt-BR": "Checkpoint: grave três execuções limpas a 80 bpm. Escreva uma frase sobre onde apareceu tensão.",
+          "es": "Checkpoint: graba tres ejecuciones limpias a 80 bpm. Escribe una frase sobre dónde apareció la tensión.",
+          "de": "Checkpoint: Nimm drei saubere Durchläufe bei 80 bpm auf. Schreib einen Satz, wo Spannung auftauchte.",
+          "ja": "チェックポイント：80 bpmでクリーンに3回録音。緊張が出た場所を一文で書く。",
+          "zh-Hans": "检查点：80 bpm下干净录三遍。写一句话说明紧张出现的位置。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-01T00:07:57Z",
+  "updatedAt": "2026-04-01T00:07:57Z"
+}

@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-03-31T00:06:59Z",
     "updatedAt": "2026-03-31T00:06:59Z"
+  },
+  {
+    "id": "syncopated-scale-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Syncopated Scale Groove\"",
+        "pt-BR": "\"Groove Sincopado com Escala\"",
+        "es": "\"Groove Sincopado con Escala\"",
+        "de": "\"Synkopierter Skalen-Groove\"",
+        "ja": "\"シンコペーションのスケール・グルーヴ\"",
+        "zh-Hans": "\"切分节奏的音阶律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a punchy major-scale groove with syncopation, ghost notes, and clean muting.\"",
+        "pt-BR": "\"Construa um groove de escala maior com síncopes, ghost notes e abafamento limpo.\"",
+        "es": "\"Construye un groove de escala mayor con síncopas, ghost notes y apagado limpio.\"",
+        "de": "\"Baue einen knackigen Dur-Skalen-Groove mit Synkopen, Ghost Notes und sauberem Abdämpfen.\"",
+        "ja": "\"シンコペーション、ゴーストノート、ミュートでメジャースケールのグルーヴを作ろう。\"",
+        "zh-Hans": "\"用切分、幽灵音和干净的闷音打造有力的大小调音阶律动。\""
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-04-01T00:05:41Z",
+    "updatedAt": "2026-04-01T00:05:41Z"
   }
 ]
