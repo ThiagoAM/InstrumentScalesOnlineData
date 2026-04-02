@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-mirror-swaps",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Scale Mirror Swaps. You’ll play mirrored hands and practice switching which hand is “in charge” without losing balance.",
+          "pt-BR": "Bem-vindo às Trocas Espelhadas de Escala. Você vai tocar com mãos espelhadas e treinar a troca de liderança sem perder o equilíbrio.",
+          "es": "Bienvenido a los Cambios Espejados de Escala. Tocarás con manos en espejo y practicarás cambiar el liderazgo sin perder el equilibrio.",
+          "de": "Willkommen bei den Skalen‑Spiegelwechseln. Du spielst spiegelnde Hände und übst den Führungswechsel ohne das Gleichgewicht zu verlieren.",
+          "ja": "スケール・ミラー・スワップへようこそ。両手を鏡のように動かし、リーダー交代を練習します。",
+          "zh-Hans": "欢迎来到音阶镜像交换。你将以镜像方式演奏，并练习在不失衡的情况下切换领奏手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose C major, two octaves. Start in contrary motion (hands move outward, then back inward) at 60–70 BPM.",
+          "pt-BR": "Setup: escolha Dó maior, duas oitavas. Comece em movimento contrário (mãos se afastam e depois se aproximam) a 60–70 BPM.",
+          "es": "Preparación: elige Do mayor, dos octavas. Comienza en movimiento contrario (manos se separan y luego se acercan) a 60–70 BPM.",
+          "de": "Setup: Wähle C‑Dur, zwei Oktaven. Starte in Gegenbewegung (Hände auseinander, dann wieder zusammen) bei 60–70 BPM.",
+          "ja": "準備：Cメジャー、2オクターブ。反行（手が外へ、そして内へ）で60〜70 BPMから。",
+          "zh-Hans": "准备：选择C大调，两八度。用反向运动开始（双手向外再向内），速度60–70 BPM。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: the right hand leads. Let the left hand copy the right hand’s timing and tone exactly. Play two bars, then pause.",
+          "pt-BR": "Rodada 1: a mão direita lidera. A esquerda copia exatamente o tempo e o timbre. Toque dois compassos e pare.",
+          "es": "Ronda 1: la mano derecha lidera. La izquierda copia exactamente el tiempo y el tono. Toca dos compases y pausa.",
+          "de": "Runde 1: Die rechte Hand führt. Die linke kopiert Timing und Klang exakt. Spiele zwei Takte, dann Pause.",
+          "ja": "ラウンド1：右手がリード。左手はタイミングと音色を正確にコピー。2小節弾いて休憩。",
+          "zh-Hans": "第1轮：右手领奏。左手精确复制右手的节奏与音色。弹两小节后停。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: swap leadership. Now the left hand leads and the right hand mirrors. Keep the same tempo and relaxed wrists.",
+          "pt-BR": "Rodada 2: troque a liderança. Agora a mão esquerda lidera e a direita espelha. Mantenha o mesmo tempo e os punhos relaxados.",
+          "es": "Ronda 2: cambia el liderazgo. Ahora la mano izquierda lidera y la derecha espeja. Mantén el mismo tempo y las muñecas relajadas.",
+          "de": "Runde 2: Wechsel die Führung. Jetzt führt die linke Hand und die rechte spiegelt. Gleiches Tempo, entspannte Handgelenke.",
+          "ja": "ラウンド2：リードを交代。左手がリードし、右手が鏡になる。テンポは同じで手首はリラックス。",
+          "zh-Hans": "第2轮：交换领奏。现在左手领奏，右手镜像。保持同样速度，手腕放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: add accents on the first note of each group of four, then repeat the swaps using eighth‑note triplets.",
+          "pt-BR": "Desafio: adicione acentos na primeira nota de cada grupo de quatro e repita as trocas usando tercinas de colcheia.",
+          "es": "Desafío: añade acentos en la primera nota de cada grupo de cuatro y repite los cambios usando tresillos de corchea.",
+          "de": "Challenge: Setze Akzente auf die erste Note jeder Vierergruppe und wiederhole die Wechsel mit Achtel‑Triolen.",
+          "ja": "チャレンジ：4音ごとの最初にアクセントを付け、8分3連符で交代を繰り返す。",
+          "zh-Hans": "挑战：在每组四个音的第一个音加重音，再用八分三连音重复交换。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-02T00:07:27Z",
+  "updatedAt": "2026-04-02T00:07:27Z"
+}

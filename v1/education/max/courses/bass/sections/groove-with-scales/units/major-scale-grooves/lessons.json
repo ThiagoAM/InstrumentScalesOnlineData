@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-04-01T00:05:41Z",
     "updatedAt": "2026-04-01T00:05:41Z"
+  },
+  {
+    "id": "bass-pocket-landing-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Pocket Landing Groove\"",
+        "pt-BR": "\"Groove de Aterrissagem no Pocket\"",
+        "es": "\"Groove de Aterrizaje en el Pocket\"",
+        "de": "\"Pocket‑Landings‑Groove\"",
+        "ja": "\"ポケット・ランディング・グルーヴ\"",
+        "zh-Hans": "\"口袋着陆律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use scale steps, rests, and accents to land on strong beats with a tight bass pocket.\"",
+        "pt-BR": "\"Use passos de escala, pausas e acentos para aterrissar nos tempos fortes com um pocket firme.\"",
+        "es": "\"Usa pasos de escala, silencios y acentos para aterrizar en los tiempos fuertes con un pocket firme.\"",
+        "de": "\"Nutze Skalen‑Schritte, Pausen und Akzente, um auf den starken Zählzeiten sauber zu landen.\"",
+        "ja": "\"スケールのステップ、休符、アクセントで強拍に着地し、タイトなポケットを作ります。\"",
+        "zh-Hans": "\"用音阶步进、休止与重音，在强拍上稳稳着陆。\""
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-04-02T00:05:19Z",
+    "updatedAt": "2026-04-02T00:05:19Z"
   }
 ]

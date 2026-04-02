@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-04-01T00:07:57Z",
     "updatedAt": "2026-04-01T00:07:57Z"
+  },
+  {
+    "id": "piano-scale-mirror-swaps",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Mirror Swaps\"",
+        "pt-BR": "\"Trocas Espelhadas de Escala\"",
+        "es": "\"Cambios Espejados de Escala\"",
+        "de": "\"Skalen‑Spiegelwechsel\"",
+        "ja": "\"スケール・ミラー・スワップ\"",
+        "zh-Hans": "\"音阶镜像交换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Swap which hand leads while keeping mirrored scales even, relaxed, and musical.\"",
+        "pt-BR": "\"Troque qual mão lidera enquanto mantém as escalas espelhadas uniformes e musicais.\"",
+        "es": "\"Cambia qué mano lidera mientras mantienes las escalas en espejo parejas y musicales.\"",
+        "de": "\"Wechsle die führende Hand, während gespiegelte Skalen gleichmäßig und musikalisch bleiben.\"",
+        "ja": "\"鏡のようなスケールを保ちながら、どちらの手がリードするかを切り替えます。\"",
+        "zh-Hans": "\"在保持镜像音阶均匀的同时，交换哪只手领奏。\""
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-04-02T00:07:27Z",
+    "updatedAt": "2026-04-02T00:07:27Z"
   }
 ]

@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-03-30T00:03:53Z",
     "updatedAt": "2026-03-30T00:03:53Z"
+  },
+  {
+    "id": "guitar-scale-compass-jam",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Compass Jam\"",
+        "pt-BR": "\"Jam da Bússola da Escala\"",
+        "es": "\"Jam de la Brújula de la Escala\"",
+        "de": "\"Skalen‑Kompass‑Jam\"",
+        "ja": "\"スケール・コンパス・ジャム\"",
+        "zh-Hans": "\"音阶指南针即兴\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Navigate a scale across the neck using north/south/east/west moves and a metronome game.\"",
+        "pt-BR": "\"Navegue uma escala pelo braço com movimentos norte/sul/leste/oeste e um jogo com metrônomo.\"",
+        "es": "\"Navega una escala por el mástil con movimientos norte/sur/este/oeste y un juego con metrónomo.\"",
+        "de": "\"Navigiere eine Skala über das Griffbrett mit Nord/Süd/Ost/West‑Bewegungen und einem Metronom‑Spiel.\"",
+        "ja": "\"北/南/東/西の動きとメトロノームのゲームで、スケールを指板上でナビゲートします。\"",
+        "zh-Hans": "\"用北/南/东/西的移动和节拍器游戏，在指板上导航音阶。\""
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-04-02T00:03:13Z",
+    "updatedAt": "2026-04-02T00:03:13Z"
   }
 ]
