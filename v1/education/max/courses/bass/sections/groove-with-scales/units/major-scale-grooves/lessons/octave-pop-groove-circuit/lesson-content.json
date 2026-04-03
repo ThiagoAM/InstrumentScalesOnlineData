@@ -1,0 +1,86 @@
+{
+  "id": "octave-pop-groove-circuit",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome at 90 BPM in C major. Find C on the 3rd fret of the A string and its octave on the 5th fret of the G string.",
+          "pt-BR": "Ajuste o metrônomo em 90 BPM em Dó maior. Encontre o Dó na 3ª casa da corda A e a oitava na 5ª casa da corda G.",
+          "es": "Ajusta el metrónomo a 90 BPM en Do mayor. Encuentra el Do en el traste 3 de la cuerda A y su octava en el traste 5 de la cuerda G.",
+          "de": "Stell das Metronom auf 90 BPM in C‑Dur. Finde C im 3. Bund der A‑Saite und die Oktave im 5. Bund der G‑Saite.",
+          "ja": "メトロノームを90 BPM、キーはCメジャー。A弦3フレットのCと、G弦5フレットのオクターブを確認。",
+          "zh-Hans": "把节拍器设为90 BPM，调性C大调。找到A弦3品的C和G弦5品的八度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Bar 1 groove: hit the root on beat 1 and 3, add light ghost notes on 2& and 4&. Keep the right hand relaxed.",
+          "pt-BR": "Groove do compasso 1: toque a tônica no tempo 1 e 3, adicione ghost notes leves no 2& e 4&. Mão direita relaxada.",
+          "es": "Groove del compás 1: toca la tónica en los tiempos 1 y 3, añade ghost notes suaves en 2& y 4&. Mano derecha relajada.",
+          "de": "Groove Takt 1: Grundton auf Zählzeit 1 und 3, leichte Ghost Notes auf 2& und 4&. Rechte Hand locker.",
+          "ja": "1小節目のグルーヴ：1拍と3拍でルート、2&と4&に軽いゴーストノート。右手はリラックス。",
+          "zh-Hans": "第1小节律动：1拍和3拍打根音，2&和4&加轻微幽灵音。右手保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a scale walk: approach the octave with 1-2-3-5, then pop the octave on beat 1 of the next bar.",
+          "pt-BR": "Adicione a caminhada da escala: aproxime a oitava com 1-2-3-5 e estoure a oitava no tempo 1 do próximo compasso.",
+          "es": "Añade el paseo de escala: aproxima la octava con 1-2-3-5 y “pop” de octava en el tiempo 1 del siguiente compás.",
+          "de": "Skalenlauf hinzufügen: nähere die Oktave mit 1-2-3-5 an und „popp“ die Oktave auf Zählzeit 1 des nächsten Takts.",
+          "ja": "スケールの歩き：1-2-3-5でオクターブに近づき、次の小節の1拍でオクターブをポップ。",
+          "zh-Hans": "加入音阶步进：用1-2-3-5靠近八度，在下一小节的1拍“弹”出八度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Dynamics check: make the octave pop brighter, and palm‑mute the roots for contrast. Aim for a clear “call and answer.”",
+          "pt-BR": "Checagem de dinâmica: deixe a oitava mais brilhante e faça palm mute nas tônicas para contraste. Busque um “chamada e resposta”.",
+          "es": "Chequeo dinámico: haz que la octava suene más brillante y aplica palm mute en las tónicas para contraste. Busca un “llamada y respuesta”.",
+          "de": "Dynamik-Check: die Oktave heller, die Grundtöne palm-muten für Kontrast. Ziel: klares „Call and Response“.",
+          "ja": "ダイナミクス確認：オクターブを明るく、ルートはパームミュートで対比。\"コール＆レスポンス\"を狙う。",
+          "zh-Hans": "动态检查：让八度更亮，根音做掌根消音形成对比，做出清晰的“问答”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Two-bar circuit: bar 1 straight eighths, bar 2 anticipate beat 1 by hitting the octave on the “& of 4.” Repeat 8 times.",
+          "pt-BR": "Circuito de dois compassos: compasso 1 em colcheias retas, compasso 2 antecipe o tempo 1 tocando a oitava no “& de 4”. Repita 8 vezes.",
+          "es": "Circuito de dos compases: compás 1 con corcheas rectas, compás 2 anticipa el tiempo 1 tocando la octava en el “& de 4”. Repite 8 veces.",
+          "de": "Zwei-Takt-Zirkel: Takt 1 gerade Achtel, Takt 2 antizipiere Zählzeit 1, indem du die Oktave auf dem „& von 4“ spielst. 8 Wiederholungen.",
+          "ja": "2小節回路：1小節目はまっすぐ8分、2小節目は4拍裏でオクターブを入れて1拍を先取り。8回繰り返す。",
+          "zh-Hans": "两小节回路：第1小节直八分，第2小节在“4拍后半”提前八度，制造对1拍的预感。重复8次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checklist: steady time, clean muting, and even ghost notes. Record yourself and see if the groove still feels solid at 100 BPM.",
+          "pt-BR": "Checklist: tempo firme, abafamento limpo e ghost notes uniformes. Grave e veja se o groove continua sólido a 100 BPM.",
+          "es": "Checklist: pulso firme, muteo limpio y ghost notes parejas. Grábate y comprueba si el groove sigue sólido a 100 BPM.",
+          "de": "Checklist: stabiles Timing, sauberes Dämpfen und gleichmäßige Ghost Notes. Nimm dich auf und prüfe den Groove bei 100 BPM.",
+          "ja": "チェックリスト：安定したタイム、きれいなミュート、均一なゴースト。録音して100 BPMでも崩れないか確認。",
+          "zh-Hans": "检查清单：节拍稳定、闷音干净、幽灵音均匀。录音检查100 BPM时是否依然稳。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-03T00:05:59Z",
+  "updatedAt": "2026-04-03T00:05:59Z"
+}

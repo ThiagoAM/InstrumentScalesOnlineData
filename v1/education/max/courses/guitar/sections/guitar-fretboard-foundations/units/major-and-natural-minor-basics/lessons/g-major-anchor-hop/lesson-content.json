@@ -1,0 +1,86 @@
+{
+  "id": "g-major-anchor-hop",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up by finding G anchors on the 6th and 1st strings (3rd fret). Say the note names out loud and keep your thumb relaxed.",
+          "pt-BR": "Aqueça encontrando as âncoras de Sol nas cordas 6 e 1 (3ª casa). Diga os nomes em voz alta e mantenha o polegar relaxado.",
+          "es": "Calienta encontrando las anclas de Sol en las cuerdas 6 y 1 (traste 3). Di los nombres en voz alta y mantén el pulgar relajado.",
+          "de": "Wärme dich auf, indem du die G-Anker auf Saite 6 und 1 (3. Bund) findest. Sage die Notennamen laut und halte den Daumen locker.",
+          "ja": "ウォームアップ：6弦と1弦の3フレットにあるGのアンカーを探す。音名を声に出し、親指はリラックス。",
+          "zh-Hans": "热身：找到6弦和1弦3品的G锚点。大声说出音名，拇指保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play a two-octave G major scale in position 1. Pause on every G note for one beat so your ears lock in the home base.",
+          "pt-BR": "Toque uma escala de Sol maior em duas oitavas na posição 1. Pare em cada Sol por um tempo para firmar o centro tonal.",
+          "es": "Toca una escala de Sol mayor de dos octavas en posición 1. Pausa en cada Sol un tiempo para fijar el centro tonal.",
+          "de": "Spiele eine zweiöktavige G-Dur-Tonleiter in Position 1. Halte jeden G‑Ton einen Schlag, damit sich das Zuhause einprägt.",
+          "ja": "ポジション1で2オクターブのGメジャースケールを弾く。各Gで1拍止まり、ホーム感を耳に刻む。",
+          "zh-Hans": "在把位1弹两八度G大调音阶。每个G停一拍，让耳朵锁定“家”的感觉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Target-hop drill: play degrees 1-2-3-5-3-2-1 in position 1, then shift to position 2 and repeat. Keep the shifts quiet.",
+          "pt-BR": "Exercício de salto-alvo: toque os graus 1-2-3-5-3-2-1 na posição 1, depois mude para a posição 2 e repita. Deixe a troca silenciosa.",
+          "es": "Ejercicio de salto objetivo: toca los grados 1-2-3-5-3-2-1 en posición 1, luego cambia a posición 2 y repite. Haz los cambios silenciosos.",
+          "de": "Ziel-Sprung-Drill: Spiele die Stufen 1-2-3-5-3-2-1 in Position 1, wechsle dann in Position 2 und wiederhole. Die Wechsel sollen leise sein.",
+          "ja": "ターゲットホップ練習：度数1-2-3-5-3-2-1をポジション1で弾き、ポジション2に移動して繰り返す。移動は静かに。",
+          "zh-Hans": "目标跳跃练习：在把位1弹1-2-3-5-3-2-1度数，然后换到把位2重复。换把要安静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "String-crossing challenge: ascend using only strings 6–4, descend using only strings 3–1. Aim for even tone on every string.",
+          "pt-BR": "Desafio de cordas: suba usando apenas as cordas 6–4 e desça usando apenas as cordas 3–1. Busque timbre uniforme.",
+          "es": "Desafío de cruces: asciende usando solo las cuerdas 6–4 y desciende usando solo las cuerdas 3–1. Busca un timbre parejo.",
+          "de": "Saitenwechsel-Challenge: Aufsteigen nur auf den Saiten 6–4, absteigen nur auf den Saiten 3–1. Achte auf gleichmäßigen Ton.",
+          "ja": "弦跨ぎチャレンジ：上行は6〜4弦だけ、下行は3〜1弦だけで弾く。音色を均一に。",
+          "zh-Hans": "跨弦挑战：上行只用6–4弦，下行只用3–1弦。追求每根弦音色均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove mini-jam: loop G–C–D for 4 bars and improvise using only G, B, and D on strong beats. Fill the gaps with scale steps.",
+          "pt-BR": "Mini jam de groove: faça um loop G–C–D por 4 compassos e improvise usando apenas G, B e D nos tempos fortes. Preencha com notas da escala.",
+          "es": "Mini jam de groove: haz un loop G–C–D por 4 compases e improvisa usando solo G, B y D en tiempos fuertes. Rellena con notas de la escala.",
+          "de": "Groove‑Mini‑Jam: Loope G–C–D für 4 Takte und improvisiere, indem du auf den starken Zählzeiten nur G, H und D triffst. Fülle mit Skalentönen.",
+          "ja": "グルーヴ・ミニジャム：G–C–Dを4小節ループし、強拍はG・B・Dだけで即興。隙間はスケール音で埋める。",
+          "zh-Hans": "律动小即兴：循环4小节G–C–D，强拍只落在G、B、D上，其余用音阶级进填充。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checklist: clean shifts, relaxed fretting hand, and steady time. Spend 2 minutes slow, then bump the metronome +5 BPM.",
+          "pt-BR": "Checklist: trocas limpas, mão relaxada e tempo firme. Faça 2 minutos lento e depois aumente o metrônomo +5 BPM.",
+          "es": "Checklist: cambios limpios, mano relajada y pulso firme. Haz 2 minutos lento y luego sube el metrónomo +5 BPM.",
+          "de": "Checklist: saubere Wechsel, entspannte Greifhand und stabiler Puls. 2 Minuten langsam, dann Metronom +5 BPM.",
+          "ja": "チェックリスト：きれいな移動、力まない左手、安定したテンポ。2分ゆっくり→メトロノームを+5 BPM。",
+          "zh-Hans": "检查清单：换把干净、左手放松、节拍稳定。先慢练2分钟，再把节拍器+5 BPM。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-03T00:04:53Z",
+  "updatedAt": "2026-04-03T00:04:53Z"
+}

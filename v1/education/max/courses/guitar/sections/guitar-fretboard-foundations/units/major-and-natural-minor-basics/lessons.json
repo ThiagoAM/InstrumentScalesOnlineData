@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-04-01T00:03:21Z",
     "updatedAt": "2026-04-01T00:03:21Z"
+  },
+  {
+    "id": "g-major-anchor-hop",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"G Major Anchor Hop\"",
+        "pt-BR": "\"Salto de Âncoras em Sol Maior\"",
+        "es": "\"Salto de Anclas en Sol Mayor\"",
+        "de": "\"Anker-Sprünge in G-Dur\"",
+        "ja": "\"Gメジャー・アンカーホップ\"",
+        "zh-Hans": "\"G大调锚点跳跃\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Map anchor notes and hop between positions to make the G major scale musical.\"",
+        "pt-BR": "\"Mapeie notas âncora e salte entre posições para deixar a escala de Sol maior musical.\"",
+        "es": "\"Mapa notas ancla y salta entre posiciones para hacer musical la escala de Sol mayor.\"",
+        "de": "\"Karte Anker-Töne und springe zwischen Positionen, damit die G-Dur-Tonleiter musikalisch klingt.\"",
+        "ja": "\"アンカーノートを地図化してポジション間を跳び、Gメジャースケールを音楽的にする。\"",
+        "zh-Hans": "\"标出锚点音并在把位间跳转，让G大调音阶更有音乐性。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-03T00:04:53Z",
+    "updatedAt": "2026-04-03T00:04:53Z"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "id": "velocity-slot-scale-circuit",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose D major and set the metronome to 80 BPM. Play hands together, two octaves, with a relaxed wrist.",
+          "pt-BR": "Escolha Ré maior e ajuste o metrônomo para 80 BPM. Toque com as duas mãos, duas oitavas, pulso relaxado.",
+          "es": "Elige Re mayor y ajusta el metrónomo a 80 BPM. Toca manos juntas, dos octavas, con muñeca relajada.",
+          "de": "Wähle D‑Dur und stelle das Metronom auf 80 BPM. Spiele beidhändig, zwei Oktaven, mit lockerem Handgelenk.",
+          "ja": "Dメジャーを選び、メトロノームを80 BPMに設定。両手で2オクターブ、手首はリラックス。",
+          "zh-Hans": "选择D大调，节拍器80 BPM。双手两八度，手腕放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Slot 1: play the first octave at piano (p) and the second octave at mezzo‑forte (mf). Keep the tempo steady.",
+          "pt-BR": "Faixa 1: toque a primeira oitava em piano (p) e a segunda em mezzo‑forte (mf). Mantenha o tempo estável.",
+          "es": "Franja 1: toca la primera octava en piano (p) y la segunda en mezzo‑forte (mf). Mantén el tempo estable.",
+          "de": "Slot 1: erste Oktave piano (p), zweite Oktave mezzo‑forte (mf). Tempo bleibt stabil.",
+          "ja": "スロット1：1オクターブ目をp、2オクターブ目をmfで。テンポは一定。",
+          "zh-Hans": "档位1：第一八度用p，第二八度用mf。保持速度稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Slot 2: repeat the scale but accent every 3rd note. Let the accents stay at mf while the rest stays at p.",
+          "pt-BR": "Faixa 2: repita a escala acentuando cada 3ª nota. Os acentos ficam em mf e o restante em p.",
+          "es": "Franja 2: repite la escala acentuando cada 3ª nota. Los acentos quedan en mf y el resto en p.",
+          "de": "Slot 2: wiederhole die Skala und akzentuiere jede 3. Note. Akzente auf mf, der Rest auf p.",
+          "ja": "スロット2：スケールを繰り返し、3音ごとにアクセント。アクセントはmf、それ以外はp。",
+          "zh-Hans": "档位2：重复音阶，每3个音做一个重音。重音在mf，其余保持p。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Slot 3: go legato up and staccato down. Keep the dynamic level consistent within each direction.",
+          "pt-BR": "Faixa 3: suba em legato e desça em staccato. Mantenha o nível dinâmico consistente em cada direção.",
+          "es": "Franja 3: sube en legato y baja en staccato. Mantén el nivel dinámico consistente en cada dirección.",
+          "de": "Slot 3: aufwärts legato, abwärts staccato. Das Dynamikniveau bleibt je Richtung konstant.",
+          "ja": "スロット3：上行はレガート、下行はスタッカート。各方向でダイナミクスを揃える。",
+          "zh-Hans": "档位3：上行连奏、下行断奏。每个方向的力度保持一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Circuit challenge: run p → mf → f as three back‑to‑back laps without stopping. Breathe on the bar lines.",
+          "pt-BR": "Desafio do circuito: faça p → mf → f em três voltas seguidas sem parar. Respire nas barras.",
+          "es": "Desafío de circuito: realiza p → mf → f en tres vueltas seguidas sin parar. Respira en las barras.",
+          "de": "Zirkel‑Challenge: p → mf → f als drei Runden ohne Pause. Atme an den Taktstrichen.",
+          "ja": "回路チャレンジ：p → mf → fを休まず3周。小節線で息を入れる。",
+          "zh-Hans": "回路挑战：p → mf → f连续三圈不停。小节线处呼吸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checklist: even tone, loose shoulders, and clean finger transitions. If it’s solid, bump the tempo +4 BPM.",
+          "pt-BR": "Checklist: timbre uniforme, ombros soltos e transições limpas. Se estiver sólido, suba o tempo +4 BPM.",
+          "es": "Checklist: tono uniforme, hombros sueltos y transiciones limpias. Si está sólido, sube el tempo +4 BPM.",
+          "de": "Checklist: gleichmäßiger Ton, lockere Schultern, saubere Übergänge. Wenn es sitzt, Tempo +4 BPM.",
+          "ja": "チェックリスト：均一な音色、肩の力を抜く、指の移行をきれいに。安定したらテンポ+4 BPM。",
+          "zh-Hans": "检查清单：音色均匀、肩膀放松、指法转换干净。稳定后节拍器+4 BPM。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-03T00:07:05Z",
+  "updatedAt": "2026-04-03T00:07:05Z"
+}

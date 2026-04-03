@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-04-02T00:05:19Z",
     "updatedAt": "2026-04-02T00:05:19Z"
+  },
+  {
+    "id": "octave-pop-groove-circuit",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Octave Pop Groove Circuit\"",
+        "pt-BR": "\"Circuito de Groove com Oitava\"",
+        "es": "\"Circuito de Groove con Octava\"",
+        "de": "\"Oktav-Pop-Groove-Zirkel\"",
+        "ja": "\"オクターブ・ポップ・グルーヴ回路\"",
+        "zh-Hans": "\"八度弹跳律动回路\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a major-scale groove by bouncing between root and octave with tight rhythmic pops.\"",
+        "pt-BR": "\"Construa um groove em escala maior alternando tônica e oitava com pegada rítmica.\"",
+        "es": "\"Construye un groove de escala mayor alternando tónica y octava con golpes rítmicos.\"",
+        "de": "\"Baue einen Dur-Groove, indem du zwischen Grundton und Oktave hüpfst.\"",
+        "ja": "\"ルートとオクターブを跳ねさせてメジャースケールのグルーヴを作る。\"",
+        "zh-Hans": "\"用根音与八度的弹跳构建大调音阶律动。\""
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-04-03T00:05:59Z",
+    "updatedAt": "2026-04-03T00:05:59Z"
   }
 ]

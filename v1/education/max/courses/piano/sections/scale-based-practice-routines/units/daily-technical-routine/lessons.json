@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-04-02T00:07:27Z",
     "updatedAt": "2026-04-02T00:07:27Z"
+  },
+  {
+    "id": "velocity-slot-scale-circuit",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Velocity Slot Scale Circuit\"",
+        "pt-BR": "\"Circuito de Escalas por Faixas de Velocidade\"",
+        "es": "\"Circuito de Escalas por Franjas de Velocidad\"",
+        "de": "\"Skalen‑Zirkel mit Dynamik‑Slots\"",
+        "ja": "\"ベロシティ・スロット・スケール回路\"",
+        "zh-Hans": "\"力度档位音阶回路\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Lock in dynamic slots (p, mf, f) while running two‑octave scales.\"",
+        "pt-BR": "\"Trave faixas dinâmicas (p, mf, f) ao tocar escalas em duas oitavas.\"",
+        "es": "\"Fija franjas dinámicas (p, mf, f) al tocar escalas de dos octavas.\"",
+        "de": "\"Fixiere Dynamik‑Slots (p, mf, f), während du Zwei‑Oktaven‑Skalen spielst.\"",
+        "ja": "\"p・mf・fのダイナミクス枠を固定しながら2オクターブのスケールを回す。\"",
+        "zh-Hans": "\"在p、mf、f的力度档位中练习两八度音阶。\""
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-04-03T00:07:05Z",
+    "updatedAt": "2026-04-03T00:07:05Z"
   }
 ]
