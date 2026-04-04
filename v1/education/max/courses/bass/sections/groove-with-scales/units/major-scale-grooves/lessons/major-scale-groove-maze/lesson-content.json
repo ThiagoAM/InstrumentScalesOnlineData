@@ -1,0 +1,73 @@
+{
+  "id": "major-scale-groove-maze",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose a one-octave C major pattern on bass. Set the metronome to 90 bpm and play quarter notes on the roots to lock in.",
+          "pt-BR": "Escolha um padrão de uma oitava de Dó maior no baixo. Metrônomo a 90 bpm, toque semínimas nos tônicos para firmar o tempo.",
+          "es": "Elige un patrón de una octava de Do mayor en el bajo. Metrónomo a 90 bpm, toca negras en las tónicas para fijar el pulso.",
+          "de": "Wähle ein einoktaviges C‑Dur‑Pattern am Bass. Metronom auf 90 bpm, spiele Viertel auf den Grundtönen.",
+          "ja": "ベースでCメジャー1オクターブのパターンを選ぶ。メトロノーム90 bpm、ルートを四分音符で鳴らして脈を固定。",
+          "zh-Hans": "选择贝斯上一八度的C大调指型。节拍器90 bpm，用四分音符弹根音稳住节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze rule 1: build a 2-bar groove using scale degrees 1–2–3–5–6. No open strings unless it’s C or G.",
+          "pt-BR": "Regra do labirinto 1: crie um groove de 2 compassos usando os graus 1–2–3–5–6. Sem cordas soltas, exceto Dó ou Sol.",
+          "es": "Regla del laberinto 1: crea un groove de 2 compases usando los grados 1–2–3–5–6. Sin cuerdas al aire salvo Do o Sol.",
+          "de": "Labyrinth‑Regel 1: Baue einen 2‑Takt‑Groove mit den Stufen 1–2–3–5–6. Keine leeren Saiten außer C oder G.",
+          "ja": "迷路ルール1：度数1–2–3–5–6だけで2小節のグルーヴを作る。開放弦はCかGのみ。",
+          "zh-Hans": "迷宫规则1：用级数1–2–3–5–6写一个2小节的groove。除C或G外不要用空弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze rule 2: add ghost notes on the “e” or “a” of the beat, but keep the main notes on beats 1 and 3.",
+          "pt-BR": "Regra 2: adicione ghost notes no “e” ou “a” do tempo, mas mantenha as notas principais nos tempos 1 e 3.",
+          "es": "Regla 2: añade ghost notes en el “e” o el “a” del tiempo, pero deja las notas principales en los tiempos 1 y 3.",
+          "de": "Regel 2: Füge Ghost Notes auf das „e“ oder „a“ des Schlags, aber die Hauptnoten bleiben auf 1 und 3.",
+          "ja": "ルール2：「え」や「あ」にゴーストノートを入れてよいが、主音は1拍目と3拍目に置く。",
+          "zh-Hans": "规则2：可以在拍子的“e”或“a”上加幽灵音，但主音落在第1和第3拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shift the entrance: start the groove on degree 3, then degree 5, without changing the rhythm.",
+          "pt-BR": "Mude a entrada: comece o groove no grau 3 e depois no grau 5, sem alterar o ritmo.",
+          "es": "Cambia la entrada: empieza el groove en el grado 3 y luego en el grado 5 sin cambiar el ritmo.",
+          "de": "Einstieg verschieben: Starte den Groove auf Stufe 3 und dann auf Stufe 5, ohne den Rhythmus zu ändern.",
+          "ja": "入口チェンジ：同じリズムのまま、度数3から、次は度数5から始める。",
+          "zh-Hans": "改变起点：在不改节奏的情况下，让groove从3级开始，再从5级开始。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: loop the groove for 60 seconds without repeating the exact same rhythm twice; write down your favorite.",
+          "pt-BR": "Desafio: repita o groove por 60 segundos sem repetir exatamente o mesmo ritmo; anote o seu favorito.",
+          "es": "Desafío: mantén el groove por 60 segundos sin repetir exactamente el mismo ritmo; anota tu favorito.",
+          "de": "Challenge: Spiele den Groove 60 Sekunden lang, ohne exakt denselben Rhythmus zweimal zu wiederholen; notiere deinen Favoriten.",
+          "ja": "チャレンジ：60秒間、同じリズムを二度と完全に繰り返さずに回し、ベストを記録。",
+          "zh-Hans": "挑战：连续60秒演奏，完全不重复同一个节奏；写下你最喜欢的。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-04T00:06:59Z",
+  "updatedAt": "2026-04-04T00:06:59Z"
+}

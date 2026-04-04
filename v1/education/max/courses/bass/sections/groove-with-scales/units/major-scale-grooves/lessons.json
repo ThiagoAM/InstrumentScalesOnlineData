@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-04-03T00:05:59Z",
     "updatedAt": "2026-04-03T00:05:59Z"
+  },
+  {
+    "id": "major-scale-groove-maze",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Groove Maze",
+        "pt-BR": "Labirinto de groove na escala maior",
+        "es": "Laberinto de groove en la escala mayor",
+        "de": "Groove-Labyrinth in der Durtonleiter",
+        "ja": "メジャースケール・グルーヴ迷路",
+        "zh-Hans": "大调音阶律动迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove maze using major scale degrees and rhythmic rules.",
+        "pt-BR": "Monte um labirinto de grooves usando graus da escala maior e regras rítmicas.",
+        "es": "Construye un laberinto de grooves con grados de la escala mayor y reglas rítmicas.",
+        "de": "Baue ein Groove-Labyrinth mit Durtonleiter-Stufen und Rhythmusregeln.",
+        "ja": "メジャースケールの度数とリズムルールでグルーヴ迷路を作ろう。",
+        "zh-Hans": "用大调音阶级数和节奏规则打造律动迷宫。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-04-04T00:06:59Z",
+    "updatedAt": "2026-04-04T00:06:59Z"
   }
 ]

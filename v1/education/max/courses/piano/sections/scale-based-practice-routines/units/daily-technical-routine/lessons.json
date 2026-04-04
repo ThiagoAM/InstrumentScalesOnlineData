@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-04-03T00:07:05Z",
     "updatedAt": "2026-04-03T00:07:05Z"
+  },
+  {
+    "id": "two-hand-scale-mirror-drill",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Scale Mirror Drill",
+        "pt-BR": "Treino espelho de escala com duas mãos",
+        "es": "Ejercicio espejo de escala a dos manos",
+        "de": "Zwei-Hand-Skalen-Spiegel-Drill",
+        "ja": "両手ミラー・スケール練習",
+        "zh-Hans": "双手镜像音阶练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Mirror your hands in a scale to build coordination, tone, and control.",
+        "pt-BR": "Espelhe as mãos na escala para ganhar coordenação, timbre e controle.",
+        "es": "Refleja las manos en la escala para mejorar coordinación, sonido y control.",
+        "de": "Spiegle beide Hände in der Skala für Koordination, Klang und Kontrolle.",
+        "ja": "スケールで両手を鏡のように動かし、協調・音色・コントロールを鍛えよう。",
+        "zh-Hans": "用镜像音阶训练双手协调、音色与控制力。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-04-04T00:08:14Z",
+    "updatedAt": "2026-04-04T00:08:14Z"
   }
 ]

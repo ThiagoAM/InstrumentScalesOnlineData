@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-28T00:05:42Z",
     "updatedAt": "2026-03-28T00:05:42Z"
+  },
+  {
+    "id": "syncopated-scale-call-and-response",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Scale Call-and-Response",
+        "pt-BR": "Chamada e resposta sincopadas na escala",
+        "es": "Llamada y respuesta sincopadas en la escala",
+        "de": "Synkopierter Call-and-Response in der Skala",
+        "ja": "シンコペーションのコール＆レスポンス",
+        "zh-Hans": "音阶切分的呼叫与回应"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Trade rhythmic phrases inside a scale to boost groove and phrasing.",
+        "pt-BR": "Troque frases rítmicas na escala para turbinar groove e fraseado.",
+        "es": "Intercambia frases rítmicas en la escala para mejorar groove y fraseo.",
+        "de": "Tausche rhythmische Phrasen in der Skala, um Groove und Phrasing zu pushen.",
+        "ja": "スケール内でリズムフレーズを交換し、グルーヴとフレーズ力を高めよう。",
+        "zh-Hans": "在音阶里交换节奏短句，提升律动与乐句感。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-04T00:05:40Z",
+    "updatedAt": "2026-04-04T00:05:40Z"
   }
 ]
