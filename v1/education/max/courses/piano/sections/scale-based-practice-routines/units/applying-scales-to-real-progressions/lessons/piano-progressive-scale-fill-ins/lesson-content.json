@@ -1,0 +1,86 @@
+{
+  "id": "piano-progressive-scale-fill-ins",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use a I–V–vi–IV progression in C (C–G–Am–F). Play left‑hand block chords at 70–90 bpm.",
+          "pt-BR": "Use a progressão I–V–vi–IV em Dó (C–G–Am–F). Toque acordes em bloco na mão esquerda a 70–90 bpm.",
+          "es": "Usa una progresión I–V–vi–IV en Do (C–G–Am–F). Toca acordes en bloque con la mano izquierda a 70–90 bpm.",
+          "de": "Nutze eine I–V–vi–IV‑Progression in C (C–G–Am–F). Spiele linke Hand Blockakkorde bei 70–90 bpm.",
+          "ja": "CのI–V–vi–IV進行（C–G–Am–F）を使う。左手はブロックコードで70〜90 bpm。",
+          "zh-Hans": "使用C调的I–V–vi–IV进行（C–G–Am–F）。左手以70–90 bpm弹分解成块的和弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In the right hand, add a 3‑note scale pickup into each chord (ex: G–A–B into C).",
+          "pt-BR": "Na mão direita, adicione uma preparação de 3 notas da escala para cada acorde (ex.: G–A–B chegando em C).",
+          "es": "En la mano derecha, añade una preparación de 3 notas de la escala hacia cada acorde (ej.: G–A–B entrando en C).",
+          "de": "In der rechten Hand fügst du einen 3‑Noten‑Skalen‑Pickup in jeden Akkord ein (z. B. G–A–B nach C).",
+          "ja": "右手で各コードに向かう3音のスケール・ピックアップを入れる（例：G–A–B→C）。",
+          "zh-Hans": "右手在每个和弦前加入3音的音阶引子（例：G–A–B进入C）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Keep fills in eighth notes and land on a chord tone right on beat 1.",
+          "pt-BR": "Mantenha os preenchimentos em colcheias e aterrise em uma nota do acorde exatamente no tempo 1.",
+          "es": "Mantén los rellenos en corcheas y aterriza en una nota del acorde justo en el tiempo 1.",
+          "de": "Halte die Fills in Achteln und lande genau auf Zählzeit 1 auf einem Akkordton.",
+          "ja": "フィルは8分音符で統一し、1拍目はコードトーンに着地。",
+          "zh-Hans": "填充用八分音符，1拍必须落在和弦音上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a two‑bar phrase: bar 1 ascends, bar 2 descends with a different ending.",
+          "pt-BR": "Crie uma frase de dois compassos: o compasso 1 sobe, o compasso 2 desce com final diferente.",
+          "es": "Crea una frase de dos compases: el compás 1 asciende, el compás 2 desciende con final distinto.",
+          "de": "Baue eine Zwei‑Takt‑Phrase: Takt 1 steigt auf, Takt 2 steigt ab und endet anders.",
+          "ja": "2小節フレーズを作成：1小節目は上行、2小節目は下行で終わり方を変える。",
+          "zh-Hans": "做一个两小节乐句：第1小节上行，第2小节下行并换一个结尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level up: move the same idea to G major or A minor and add a gentle mp→mf swell.",
+          "pt-BR": "Suba o nível: leve a mesma ideia para Sol maior ou Lá menor e faça um leve crescendo de mp→mf.",
+          "es": "Sube el nivel: mueve la idea a Sol mayor o La menor y agrega un suave crescendo de mp→mf.",
+          "de": "Level up: Übertrage die Idee nach G‑Dur oder A‑Moll und füge ein sanftes mp→mf‑Crescendo hinzu.",
+          "ja": "レベルアップ：GメジャーやAマイナーに移し、mp→mfのゆるいクレッシェンドを追加。",
+          "zh-Hans": "加码：把同样的思路移到G大调或A小调，并加入轻微的mp→mf渐强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Record one clean take and check balance between hands, clarity of the fill, and timing.",
+          "pt-BR": "Grave um take limpo e confira o balanço entre as mãos, a clareza do fill e o timing.",
+          "es": "Graba una toma limpia y revisa el balance entre manos, claridad del fill y el timing.",
+          "de": "Nimm einen sauberen Take auf und prüfe Balance der Hände, Klarheit der Fills und Timing.",
+          "ja": "クリーンなテイクを録音し、両手のバランス、フィルの明瞭さ、タイミングを確認。",
+          "zh-Hans": "录一遍干净的take，检查双手平衡、填充清晰度与节奏。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-05T00:08:16Z",
+  "updatedAt": "2026-04-05T00:08:16Z"
+}

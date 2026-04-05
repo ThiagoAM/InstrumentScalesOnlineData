@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-04-04T00:05:40Z",
     "updatedAt": "2026-04-04T00:05:40Z"
+  },
+  {
+    "id": "guitar-offbeat-scale-hooks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Offbeat Scale Hooks",
+        "pt-BR": "Ganchos de Escala no Contratempo",
+        "es": "Ganchos de Escala a Contratiempo",
+        "de": "Offbeat‑Skalen‑Hooks",
+        "ja": "オフビート・スケールフック",
+        "zh-Hans": "离拍音阶钩子"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build catchy offbeat scale phrases with space, accents, and answer lines.",
+        "pt-BR": "Crie frases de escala marcantes no contratempo com espaço, acentos e resposta.",
+        "es": "Crea frases de escala pegajosas a contratiempo con espacio, acentos y respuesta.",
+        "de": "Baue eingängige Offbeat‑Skalenphrasen mit Platz, Akzenten und Antworten.",
+        "ja": "間とアクセント、返しを使ってキャッチーなオフビートのスケールフレーズを作ろう。",
+        "zh-Hans": "用留白、重音和回应做出抓耳的离拍音阶乐句。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-04-05T00:06:08Z",
+    "updatedAt": "2026-04-05T00:06:08Z"
   }
 ]

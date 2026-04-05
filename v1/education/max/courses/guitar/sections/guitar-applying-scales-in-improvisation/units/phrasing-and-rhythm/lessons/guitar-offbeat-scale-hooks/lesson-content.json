@@ -1,0 +1,86 @@
+{
+  "id": "guitar-offbeat-scale-hooks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick one scale you know (A minor pentatonic or G major works). Set a metronome at 70–90 bpm and count “1 & 2 & 3 & 4 &” out loud.",
+          "pt-BR": "Escolha uma escala que você já conhece (pentatônica menor de Lá ou Sol maior funcionam). Ajuste o metrônomo para 70–90 bpm e conte “1 e 2 e 3 e 4 e” em voz alta.",
+          "es": "Elige una escala que ya conozcas (pentatónica menor de La o Sol mayor sirven). Ajusta el metrónomo a 70–90 bpm y cuenta “1 y 2 y 3 y 4 y” en voz alta.",
+          "de": "Wähle eine Skala, die du kennst (A‑Moll‑Pentatonik oder G‑Dur passt). Stell das Metronom auf 70–90 bpm und zähle „1 und 2 und 3 und 4 und“.",
+          "ja": "知っているスケールを1つ選びます（AマイナーペンタやGメジャーでOK）。メトロノームを70〜90 bpmにして「1と2と3と4と」と声に出して数えます。",
+          "zh-Hans": "选择你熟悉的一条音阶（A小调五声音阶或G大调都可以）。将节拍器设为70–90 bpm，口数“1和2和3和4和”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Clap a two‑bar rhythm that accents the “&” of 2 and the “&” of 4. Keep the downbeats silent so the offbeats feel strong.",
+          "pt-BR": "Bata palmas em um ritmo de dois compassos acentuando o “e” do 2 e o “e” do 4. Deixe os tempos fortes em silêncio para reforçar o contratempo.",
+          "es": "Aplaude un ritmo de dos compases acentuando el “y” del 2 y el “y” del 4. Deja los tiempos fuertes en silencio para que el contratiempo se sienta.",
+          "de": "Klatsche einen Zwei‑Takt‑Rhythmus mit Akzenten auf dem „und“ von 2 und dem „und“ von 4. Lass die Downbeats stumm.",
+          "ja": "2小節のリズムを手拍子で作り、2の「と」と4の「と」を強くします。ダウンビートは鳴らさずに。",
+          "zh-Hans": "拍两小节的节奏，把重音放在2的“和”和4的“和”。让强拍保持安静，突出离拍感觉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "On guitar, play 3–5 note scale fragments only on offbeats. Let beats 1, 2, 3, 4 be rests.",
+          "pt-BR": "Na guitarra, toque fragmentos de 3–5 notas da escala apenas nos contratempos. Deixe os tempos 1, 2, 3, 4 como pausas.",
+          "es": "En la guitarra, toca fragmentos de 3–5 notas de la escala solo en los contratiempos. Deja los tiempos 1, 2, 3, 4 en silencio.",
+          "de": "Spiele auf der Gitarre 3–5‑Noten‑Fragmente nur auf den Offbeats. Die Zählzeiten 1, 2, 3, 4 bleiben Pausen.",
+          "ja": "ギターで3〜5音のスケール断片をオフビートだけで弾きます。1,2,3,4拍は休符。",
+          "zh-Hans": "在吉他上只在离拍弹3–5音的音阶片段。1、2、3、4拍都留空。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Write a two‑bar call‑and‑response: bar 1 is a hooky offbeat phrase, bar 2 answers with a different contour.",
+          "pt-BR": "Crie um call-and-response de dois compassos: o compasso 1 é um gancho no contratempo, o compasso 2 responde com contorno diferente.",
+          "es": "Crea un call‑and‑response de dos compases: el compás 1 es un gancho a contratiempo, el compás 2 responde con otro contorno.",
+          "de": "Baue ein Zwei‑Takt‑Call‑and‑Response: Takt 1 ist ein Offbeat‑Hook, Takt 2 antwortet mit anderem Verlauf.",
+          "ja": "2小節のコール＆レスポンスを作成。1小節目はオフビートのフック、2小節目は別の輪郭で返答。",
+          "zh-Hans": "写一个两小节的呼应：第1小节是离拍钩子，第2小节用不同走向回答。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level up: switch to triplets for one bar or move the accents forward by one eighth note each bar.",
+          "pt-BR": "Suba o nível: use tercinas por um compasso ou mova os acentos uma colcheia à frente a cada compasso.",
+          "es": "Sube el nivel: cambia a tresillos por un compás o mueve los acentos una corchea hacia delante en cada compás.",
+          "de": "Level up: Wechsle für einen Takt zu Triolen oder schiebe die Akzente in jedem Takt um eine Achtel nach vorne.",
+          "ja": "レベルアップ：1小節だけ三連符にするか、各小節でアクセントを8分音符分前へずらす。",
+          "zh-Hans": "加码：其中一小节改成三连音，或每小节把重音向前移一个八分音符。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Record three takes. Choose the tightest groove and note which offbeat accents made it feel catchy.",
+          "pt-BR": "Grave três takes. Escolha o groove mais firme e anote quais acentos no contratempo deixaram a frase mais catchy.",
+          "es": "Graba tres tomas. Elige el groove más firme y anota qué acentos a contratiempo lo hicieron pegajoso.",
+          "de": "Nimm drei Takes auf. Wähle den tightesten Groove und notiere, welche Offbeat‑Akzente ihn catchy machen.",
+          "ja": "3回録音し、一番タイトなグルーヴを選び、キャッチーに聞こえたアクセントをメモ。",
+          "zh-Hans": "录三遍，选最紧的律动，记下哪些离拍重音最抓耳。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-05T00:06:08Z",
+  "updatedAt": "2026-04-05T00:06:08Z"
+}

@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "piano-progressive-scale-fill-ins",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Progressive Scale Fill‑Ins",
+        "pt-BR": "Preenchimentos de Escala Progressivos",
+        "es": "Rellenos de Escala Progresivos",
+        "de": "Progressive Skalen‑Fill‑Ins",
+        "ja": "プログレッシブ・スケール・フィル",
+        "zh-Hans": "递进式音阶填充"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Weave short scale fill‑ins between chord changes with control and tone.",
+        "pt-BR": "Trance preenchimentos curtos entre trocas de acordes com controle e timbre.",
+        "es": "Teje rellenos cortos entre cambios de acordes con control y buen sonido.",
+        "de": "Flechte kurze Skalen‑Fill‑Ins zwischen Akkordwechseln mit Kontrolle und Klang.",
+        "ja": "コードチェンジの間に短いスケールフィルを織り込み、コントロールと音色を磨こう。",
+        "zh-Hans": "在和弦转换之间编织短音阶填充，练出控制力与音色。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-05T00:08:16Z",
+    "updatedAt": "2026-04-05T00:08:16Z"
   }
 ]
