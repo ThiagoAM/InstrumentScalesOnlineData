@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-04-03T00:04:53Z",
     "updatedAt": "2026-04-03T00:04:53Z"
+  },
+  {
+    "id": "g-major-box-shift-game",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"G Major Box-Shift Game\"",
+        "pt-BR": "\"Jogo de Troca de Box em Sol Maior\"",
+        "es": "\"Juego de cambio de cajas en Sol mayor\"",
+        "de": "\"G-Dur-Positionswechsel-Spiel\"",
+        "ja": "\"Gメジャー・ボックスシフト・ゲーム\"",
+        "zh-Hans": "\"G大调盒型换把游戏\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Jump between two G major positions using anchor notes and rhythmic cues.\"",
+        "pt-BR": "\"Salte entre duas posições de Sol maior usando notas âncora e pistas rítmicas.\"",
+        "es": "\"Salta entre dos posiciones de Sol mayor usando notas ancla y pistas rítmicas.\"",
+        "de": "\"Springe zwischen zwei G-Dur-Positionen mit Ankernoten und rhythmischen Hinweisen.\"",
+        "ja": "\"アンカーノートとリズムの合図で、Gメジャーの2つのポジションを行き来しよう。\"",
+        "zh-Hans": "\"用锚点音和节奏提示，在两个G大调位置之间跳转。\""
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-06T00:05:44Z",
+    "updatedAt": "2026-04-06T00:05:44Z"
   }
 ]

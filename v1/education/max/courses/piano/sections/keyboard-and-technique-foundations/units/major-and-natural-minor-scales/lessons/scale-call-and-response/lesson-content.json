@@ -1,0 +1,86 @@
+{
+  "id": "scale-call-and-response",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Get ready for a musical conversation. You’ll play a short call in one hand and answer in the other.",
+          "pt-BR": "Prepare-se para uma conversa musical. Você tocará uma chamada em uma mão e responderá com a outra.",
+          "es": "Prepárate para una conversación musical. Tocarás una llamada con una mano y responderás con la otra.",
+          "de": "Mach dich bereit für ein musikalisches Gespräch. Du spielst einen kurzen Call in einer Hand und antwortest mit der anderen.",
+          "ja": "音楽的な会話を始めよう。片手で短いコールを弾き、もう片手で答える。",
+          "zh-Hans": "准备好来一场音乐对话。你会用一只手发出短“呼叫”，另一只手做出回应。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: C major, hands separate — play a 5-note up-and-down (C–D–E–F–G–F–E–D–C).",
+          "pt-BR": "Aquecimento: Dó maior, mãos separadas — toque 5 notas subindo e descendo (Dó–Ré–Mi–Fá–Sol–Fá–Mi–Ré–Dó).",
+          "es": "Calentamiento: Do mayor, manos separadas — toca 5 notas arriba y abajo (Do–Re–Mi–Fa–Sol–Fa–Mi–Re–Do).",
+          "de": "Aufwärmen: C-Dur, Hände getrennt — 5 Töne auf und ab (C–D–E–F–G–F–E–D–C).",
+          "ja": "ウォームアップ：Cメジャー、片手ずつ。5音の上り下り（C–D–E–F–G–F–E–D–C）。",
+          "zh-Hans": "热身：C大调，双手分开——5音上行下行（C–D–E–F–G–F–E–D–C）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Call/response: right hand plays a 3-note call (C–D–E), left hand responds (E–D–C). Swap roles.",
+          "pt-BR": "Chamada/resposta: mão direita faz a chamada de 3 notas (Dó–Ré–Mi), mão esquerda responde (Mi–Ré–Dó). Troque os papéis.",
+          "es": "Llamada/respuesta: la mano derecha hace una llamada de 3 notas (Do–Re–Mi), la izquierda responde (Mi–Re–Do). Cambia los roles.",
+          "de": "Call/Response: rechte Hand spielt einen 3-Noten-Call (C–D–E), linke Hand antwortet (E–D–C). Rollen tauschen.",
+          "ja": "コール／レスポンス：右手が3音のコール（C–D–E）、左手がレスポンス（E–D–C）。役割を入れ替える。",
+          "zh-Hans": "呼叫/回应：右手弹3音呼叫（C–D–E），左手回应（E–D–C）。交换角色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Dynamics: play the call forte and the response piano. Keep the tempo at 72 bpm.",
+          "pt-BR": "Dinâmica: toque a chamada forte e a resposta piano. Mantenha o tempo em 72 bpm.",
+          "es": "Dinámica: toca la llamada forte y la respuesta piano. Mantén el tempo en 72 bpm.",
+          "de": "Dynamik: spiele den Call forte und die Antwort piano. Tempo 72 bpm.",
+          "ja": "ダイナミクス：コールはフォルテ、レスポンスはピアノ。テンポは72 bpm。",
+          "zh-Hans": "力度：呼叫用强奏，回应用弱奏。速度保持72 bpm。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm twist: call uses two eighths + quarter; response uses quarter + two eighths.",
+          "pt-BR": "Variação rítmica: a chamada usa duas colcheias + semínima; a resposta usa semínima + duas colcheias.",
+          "es": "Giro rítmico: la llamada usa dos corcheas + negra; la respuesta usa negra + dos corcheas.",
+          "de": "Rhythmus-Twist: der Call nutzt zwei Achtel + Viertel; die Antwort nutzt Viertel + zwei Achtel.",
+          "ja": "リズム変化：コールは八分2つ＋四分、レスポンスは四分＋八分2つ。",
+          "zh-Hans": "节奏变化：呼叫用“两个八分＋四分”，回应用“四分＋两个八分”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: move to G major or A minor and keep the conversation smooth. Note your best tempo.",
+          "pt-BR": "Checkpoint: mude para Sol maior ou Lá menor e mantenha a conversa fluida. Anote seu melhor tempo.",
+          "es": "Checkpoint: pasa a Sol mayor o La menor y mantén la conversación fluida. Anota tu mejor tempo.",
+          "de": "Checkpoint: wechsle zu G-Dur oder A-Moll und halte das Gespräch flüssig. Notiere dein bestes Tempo.",
+          "ja": "チェックポイント：GメジャーまたはAマイナーに移動して、会話をなめらかに保つ。最高テンポを記録。",
+          "zh-Hans": "检查点：移到G大调或A小调，保持对话顺滑。记录你的最佳速度。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-06T00:08:45Z",
+  "updatedAt": "2026-04-06T00:08:45Z"
+}

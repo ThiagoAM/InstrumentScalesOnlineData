@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-03-30T00:08:36Z",
     "updatedAt": "2026-03-30T00:08:36Z"
+  },
+  {
+    "id": "scale-call-and-response",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Call-and-Response\"",
+        "pt-BR": "\"Chamada e Resposta nas Escalas\"",
+        "es": "\"Llamada y Respuesta en Escalas\"",
+        "de": "\"Skalen-Call-and-Response\"",
+        "ja": "\"スケール・コール＆レスポンス\"",
+        "zh-Hans": "\"音阶呼叫与回应\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Trade short scale phrases between hands to build control and listening.\"",
+        "pt-BR": "\"Troque frases curtas de escala entre as mãos para ganhar controle e escuta.\"",
+        "es": "\"Intercambia frases cortas de escala entre manos para ganar control y escucha.\"",
+        "de": "\"Tausche kurze Skalenphrasen zwischen den Händen, um Kontrolle und Gehör zu stärken.\"",
+        "ja": "\"短いスケールフレーズを左右の手で交換して、コントロールと耳を鍛える。\"",
+        "zh-Hans": "\"在左右手之间交换短音阶乐句，提升控制与聆听。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-06T00:08:45Z",
+    "updatedAt": "2026-04-06T00:08:45Z"
   }
 ]

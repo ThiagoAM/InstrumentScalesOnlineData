@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-03-30T00:06:15Z",
     "updatedAt": "2026-03-30T00:06:15Z"
+  },
+  {
+    "id": "root-fifth-ghost-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Root-Fifth Ghost Groove\"",
+        "pt-BR": "\"Groove Fantasma de Tônica e Quinta\"",
+        "es": "\"Groove Fantasma de Tónica y Quinta\"",
+        "de": "\"Grundton-Quinte-Ghost-Groove\"",
+        "ja": "\"ルート＆フィフス・ゴーストグルーヴ\"",
+        "zh-Hans": "\"根音-五度幽灵律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Lock your scale tones to a groove with roots, fifths, and ghost notes.\"",
+        "pt-BR": "\"Trave os sons da escala no groove com tônicas, quintas e ghost notes.\"",
+        "es": "\"Ancla los sonidos de la escala al groove con tónicas, quintas y ghost notes.\"",
+        "de": "\"Verankere Skalentöne im Groove mit Grundtönen, Quinten und Ghost Notes.\"",
+        "ja": "\"ルートと5度、ゴーストノートでスケールをグルーヴに固定しよう。\"",
+        "zh-Hans": "\"用根音、五度和幽灵音把音阶锁进律动。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-06T00:07:05Z",
+    "updatedAt": "2026-04-06T00:07:05Z"
   }
 ]
