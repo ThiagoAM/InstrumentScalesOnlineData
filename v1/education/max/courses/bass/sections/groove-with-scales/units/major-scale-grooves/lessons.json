@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-04-04T00:06:59Z",
     "updatedAt": "2026-04-04T00:06:59Z"
+  },
+  {
+    "id": "bass-major-scale-groove-kitchen",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Major Scale Groove Kitchen\"",
+        "pt-BR": "\"Cozinha de grooves em escala maior\"",
+        "es": "\"Cocina de grooves en escala mayor\"",
+        "de": "\"Groove-Küche mit der Durtonleiter\"",
+        "ja": "\"メジャー・スケールのグルーヴ・キッチン\"",
+        "zh-Hans": "\"大调音阶 Groove 厨房\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Cook up bass grooves from the major scale by balancing roots, passing tones, space, and pocket.\"",
+        "pt-BR": "\"Cozinhe grooves de baixo com a escala maior equilibrando tônicas, passagens, espaço e pocket.\"",
+        "es": "\"Cocina grooves de bajo con la escala mayor equilibrando tónicas, notas de paso, espacio y pocket.\"",
+        "de": "\"Koche Bassgrooves aus der Durtonleiter, indem du Grundtöne, Durchgangstöne, Raum und Pocket ausbalancierst.\"",
+        "ja": "\"ルート、経過音、スペース、ポケットのバランスでメジャー・スケールのベースグルーヴを料理しよう。\"",
+        "zh-Hans": "\"用大调音阶做贝斯 groove，在根音、经过音、留白和 pocket 之间找到平衡。\""
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-04-09T00:08:16Z",
+    "updatedAt": "2026-04-09T00:08:16Z"
   }
 ]

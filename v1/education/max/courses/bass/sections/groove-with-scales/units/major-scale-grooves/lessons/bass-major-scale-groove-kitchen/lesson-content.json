@@ -1,0 +1,73 @@
+{
+  "id": "bass-major-scale-groove-kitchen",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Apron on, groove chef\nToday you’re building a **D major bass groove** like it’s a recipe.\n\nYour ingredient list:\n> D E F♯ G A B C♯\n\nThe goal is not to play every note. The goal is to choose the **right note at the right rhythmic moment** so the groove feels delicious instead of overcrowded.",
+          "pt-BR": "# Avental no lugar, chef do groove\nHoje você vai montar um **groove de baixo em Ré maior** como se fosse uma receita.\n\nSua lista de ingredientes:\n> D E F♯ G A B C♯\n\nO objetivo não é tocar todas as notas. O objetivo é escolher a **nota certa no momento rítmico certo** para o groove ficar saboroso, e não lotado.",
+          "es": "# Delantal puesto, chef del groove\nHoy vas a construir un **groove de bajo en Re mayor** como si fuera una receta.\n\nTu lista de ingredientes:\n> D E F♯ G A B C♯\n\nLa meta no es tocar todas las notas. La meta es elegir la **nota correcta en el momento rítmico correcto** para que el groove sea sabroso y no esté saturado.",
+          "de": "# Schürze an, Groove-Koch\nHeute baust du einen **Bassgroove in D-Dur** wie ein Rezept.\n\nDeine Zutatenliste:\n> D E F♯ G A B C♯\n\nDas Ziel ist nicht, jeden Ton zu spielen. Das Ziel ist, den **richtigen Ton im richtigen rhythmischen Moment** zu wählen, damit der Groove lecker und nicht überfüllt klingt.",
+          "ja": "# エプロン装着、グルーヴ・シェフ\n今日は **Dメジャーのベースグルーヴ** を、料理のレシピみたいに組み立てます。\n\n材料はこちらです：\n> D E F♯ G A B C♯\n\n目標は全部の音を弾くことではありません。目標は、**正しい音を正しいリズムの場所に置くこと**で、混みすぎずにおいしいグルーヴを作ることです。",
+          "zh-Hans": "# 系上围裙，开始做 groove\n今天你要像写菜谱一样，做一个 **D大调贝斯 groove**。\n\n材料表：\n> D E F♯ G A B C♯\n\n目标不是把所有音都弹出来，而是在**对的节奏位置放对的音**，让 groove 好吃、不拥挤。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Core ingredients\nStart with these roles:\n- **D** = home base\n- **A** = strong support\n- **F♯** = major flavor\n- **E, G, B, C♯** = passing colors\n\nMake a 2-bar groove where beat **1** always feels strong. Then test how little you can play while still making the line feel complete. Pocket before pasta.",
+          "pt-BR": "# Ingredientes principais\nComece com estas funções:\n- **D** = casa\n- **A** = apoio forte\n- **F♯** = sabor maior\n- **E, G, B, C♯** = cores de passagem\n\nMonte um groove de 2 compassos em que o tempo **1** sempre soe firme. Depois teste o quão pouco você consegue tocar sem o baixo perder sentido. Pocket antes de macarrão.",
+          "es": "# Ingredientes principales\nEmpieza con estos papeles:\n- **D** = casa\n- **A** = apoyo fuerte\n- **F♯** = sabor mayor\n- **E, G, B, C♯** = colores de paso\n\nHaz un groove de 2 compases donde el tiempo **1** siempre se sienta fuerte. Luego prueba cuánto poco puedes tocar sin que la línea pierda sentido. Pocket antes que pasta.",
+          "de": "# Grundzutaten\nStarte mit diesen Funktionen:\n- **D** = Zuhause\n- **A** = starke Stütze\n- **F♯** = Dur-Farbe\n- **E, G, B, C♯** = Durchgangsfarben\n\nBaue einen 2-taktigen Groove, bei dem die **1** immer stark wirkt. Teste dann, wie wenig du spielen kannst, ohne dass die Linie leer wirkt. Erst Pocket, dann Pasta.",
+          "ja": "# 基本の材料\nまずは役割を決めます：\n- **D** = 帰る場所\n- **A** = 強い支え\n- **F♯** = メジャーらしい味\n- **E, G, B, C♯** = 経過の色\n\n2小節のグルーヴを作り、**1拍目** が必ず強く感じられるようにします。そのあと、意味を失わずにどこまで音数を減らせるか試してみましょう。パスタの前にポケットです。",
+          "zh-Hans": "# 核心材料\n先把这些角色分清楚：\n- **D** = 回家的感觉\n- **A** = 强支撑\n- **F♯** = 大调味道\n- **E, G, B, C♯** = 经过色彩\n\n做一个2小节 groove，让 **第1拍** 永远稳。然后测试一下：在不让线条失去意义的前提下，你能少弹到什么程度？先有 pocket，再谈面条。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two-bar recipe\nOver `| D | D |`, try this process:\n\n1. Bar 1: begin with **D** on beat 1  \n2. Add **A** or **F♯** on beat 3  \n3. Use one passing tone on an offbeat  \n4. Leave at least one clear space\n\nThen rewrite the groove with the **same notes** but a different rhythm. If the rhythm changes the attitude, congratulations: you’re thinking like a bassist.",
+          "pt-BR": "# Receita de 2 compassos\nSobre `| D | D |`, faça este processo:\n\n1. Compasso 1: comece com **D** no tempo 1  \n2. Coloque **A** ou **F♯** no tempo 3  \n3. Use uma nota de passagem em um contratempo  \n4. Deixe pelo menos um espaço claro\n\nDepois reescreva o groove com **as mesmas notas**, mas outro ritmo. Se o ritmo mudar a atitude, parabéns: você está pensando como baixista.",
+          "es": "# Receta de dos compases\nSobre `| D | D |`, prueba este proceso:\n\n1. Compás 1: empieza con **D** en el tiempo 1  \n2. Añade **A** o **F♯** en el tiempo 3  \n3. Usa una nota de paso en un contratiempo  \n4. Deja al menos un espacio claro\n\nLuego reescribe el groove con **las mismas notas** pero con otro ritmo. Si el ritmo cambia la actitud, felicidades: estás pensando como bajista.",
+          "de": "# Zwei-Takt-Rezept\nÜber `| D | D |` probierst du Folgendes:\n\n1. Takt 1: beginne mit **D** auf Zählzeit 1  \n2. Setze **A** oder **F♯** auf Zählzeit 3  \n3. Nutze einen Durchgangston auf einem Offbeat  \n4. Lass mindestens eine klare Lücke\n\nSchreibe den Groove dann mit **denselben Tönen**, aber einem anderen Rhythmus neu. Wenn der Rhythmus die Haltung verändert, denkst du bereits wie ein Bassist.",
+          "ja": "# 2小節レシピ\n`| D | D |` の上で次を試します：\n\n1. 1小節目は **D** を1拍目に置く  \n2. 3拍目に **A** か **F♯** を入れる  \n3. 裏拍に経過音を1つ使う  \n4. はっきりした休符を少なくとも1つ残す\n\n次に、**同じ音** を使ったまま別のリズムで書き直してください。リズムがキャラクターを変えるなら、もうベーシストの考え方です。",
+          "zh-Hans": "# 两小节配方\n在 `| D | D |` 上试这个流程：\n\n1. 第1小节第1拍用 **D** 开始  \n2. 在第3拍加入 **A** 或 **F♯**  \n3. 在弱拍加一个经过音  \n4. 至少留一个明显的空白\n\n然后用**同样的音**，换一个节奏再写一版。如果节奏一变，性格也变了，恭喜你：你在像贝斯手一样思考。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Spice test\nNow season the groove in three ways:\n- **Cleaner**: mostly roots and fifths\n- **Sweeter**: add the 3rd (**F♯**) more often\n- **Busier**: add passing tones, but never lose beat 1\n\nRecord 20 seconds of each version. Which one actually makes you want to nod your head? That’s the one to study, not the one with the most notes.",
+          "pt-BR": "# Teste de tempero\nAgora tempere o groove de três formas:\n- **Mais limpo**: quase só tônicas e quintas\n- **Mais doce**: use mais a 3ª (**F♯**)\n- **Mais ocupado**: acrescente passagens, mas sem perder o tempo 1\n\nGrave 20 segundos de cada versão. Qual delas realmente dá vontade de balançar a cabeça? Essa é a que merece estudo, não a que tem mais notas.",
+          "es": "# Prueba de condimento\nAhora sazona el groove de tres maneras:\n- **Más limpio**: casi sólo tónicas y quintas\n- **Más dulce**: usa más la 3ª (**F♯**)\n- **Más cargado**: añade notas de paso, pero sin perder el tiempo 1\n\nGraba 20 segundos de cada versión. ¿Cuál de verdad te hace mover la cabeza? Esa es la que merece estudio, no la que tiene más notas.",
+          "de": "# Gewürztest\nWürze den Groove jetzt auf drei Arten:\n- **Sauberer**: mostly Grundton und Quinte\n- **Süßer**: benutze öfter die Terz (**F♯**)\n- **Geschäftiger**: mehr Durchgangstöne, aber ohne die 1 zu verlieren\n\nNimm von jeder Version 20 Sekunden auf. Bei welcher nickt dein Kopf wirklich mit? Genau diese Version lohnt sich zu untersuchen, nicht die mit den meisten Tönen.",
+          "ja": "# 味付けテスト\n今度は3種類に味付けします：\n- **よりクリーン**: ほぼルートと5度だけ\n- **より甘い**: 3度（**F♯**）を多めに使う\n- **より忙しい**: 経過音を増やすが、1拍目は絶対に失わない\n\nそれぞれ20秒ずつ録音してください。本当に首が動きたくなるのはどれですか？ 音数が多いものではなく、そのバージョンを研究しましょう。",
+          "zh-Hans": "# 调味测试\n现在把 groove 调成三种口味：\n- **更干净**：基本只用根音和五度\n- **更甜**：多用三度（**F♯**）\n- **更忙**：多加经过音，但绝不能丢掉第1拍\n\n每种版本录20秒。哪一个真的让你想点头？研究那个版本，而不是音最多的那个。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Final plate challenge\nBuild a 4-bar groove in D major that:\n- starts simply\n- grows in bars 2 and 3\n- lands clearly in bar 4\n- never sounds rushed\n\nBonus challenge: move the exact rhythmic idea to **A major**. If the pocket survives the key change, your groove recipe is solid.",
+          "pt-BR": "# Desafio do prato final\nCrie um groove de 4 compassos em Ré maior que:\n- comece simples\n- cresça nos compassos 2 e 3\n- pouse com clareza no compasso 4\n- nunca pareça apressado\n\nBônus: leve a mesma ideia rítmica para **Lá maior**. Se o pocket sobreviver à mudança de tom, sua receita está boa.",
+          "es": "# Desafío del plato final\nConstruye un groove de 4 compases en Re mayor que:\n- empiece simple\n- crezca en los compases 2 y 3\n- aterrice claro en el compás 4\n- nunca suene apresurado\n\nBonus: mueve la misma idea rítmica a **La mayor**. Si el pocket sobrevive al cambio de tonalidad, tu receta funciona.",
+          "de": "# Finale-Platte-Challenge\nBaue einen 4-taktigen Groove in D-Dur, der:\n- einfach beginnt\n- in Takt 2 und 3 wächst\n- in Takt 4 klar landet\n- nie gehetzt klingt\n\nBonus: übertrage dieselbe rhythmische Idee nach **A-Dur**. Wenn das Pocket den Tonartwechsel überlebt, ist dein Rezept stark.",
+          "ja": "# 最後の一皿チャレンジ\nDメジャーで4小節のグルーヴを作ります。条件は：\n- 最初はシンプルに始まる\n- 2小節目と3小節目で少し成長する\n- 4小節目でしっかり着地する\n- 急いで聞こえない\n\nおまけ：同じリズムのアイデアを **Aメジャー** に移してみましょう。キーが変わってもポケットが残るなら、レシピは本物です。",
+          "zh-Hans": "# 最终摆盘挑战\n写一个 D 大调的4小节 groove，要求：\n- 开头简单\n- 第2和第3小节逐渐发展\n- 第4小节清楚落地\n- 听起来绝不着急\n\n加分挑战：把完全一样的节奏想法搬到 **A大调**。如果换调以后 pocket 还在，说明你的配方靠谱。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-09T00:08:16Z",
+  "updatedAt": "2026-04-09T00:08:16Z"
+}

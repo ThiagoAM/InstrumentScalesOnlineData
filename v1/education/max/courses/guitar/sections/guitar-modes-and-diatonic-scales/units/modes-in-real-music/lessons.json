@@ -54,5 +54,33 @@
     "order": 2,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "g-lydian-lift-off",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Lydian Lift-Off Over a Major Vamp\"",
+        "pt-BR": "\"Decolagem Lídia Sobre um Vamp Maior\"",
+        "es": "\"Despegue lidio sobre un vamp mayor\"",
+        "de": "\"Lydischer Lift-off über einem Dur-Vamp\"",
+        "ja": "\"メジャー・ヴァンプ上のリディアン離陸\"",
+        "zh-Hans": "\"大调 Vamp 上的利底亚起飞\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use the #4 to make a major vamp sound bright, floating, and unmistakably lydian.\"",
+        "pt-BR": "\"Use a #4 para fazer um vamp maior soar brilhante, suspenso e claramente lídio.\"",
+        "es": "\"Usa la #4 para que un vamp mayor suene brillante, suspendido e inequívocamente lidio.\"",
+        "de": "\"Nutze die #4, damit ein Dur-Vamp hell, schwebend und eindeutig lydisch klingt.\"",
+        "ja": "\"#4 を使って、メジャーのヴァンプを明るく浮遊感のある、はっきりリディアンな響きにしよう。\"",
+        "zh-Hans": "\"用 #4 让一个大调 vamp 听起来明亮、悬浮，而且一耳朵就是利底亚。\""
+      }
+    },
+    "order": 3,
+    "createdAt": "2026-04-09T00:06:11Z",
+    "updatedAt": "2026-04-09T00:06:11Z"
   }
 ]

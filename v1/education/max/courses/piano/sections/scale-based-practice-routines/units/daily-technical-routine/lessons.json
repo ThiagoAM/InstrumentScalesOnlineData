@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-04-04T00:08:14Z",
     "updatedAt": "2026-04-04T00:08:14Z"
+  },
+  {
+    "id": "piano-scale-traffic-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Traffic Control for Two Hands\"",
+        "pt-BR": "\"Controle de tráfego de escalas para duas mãos\"",
+        "es": "\"Control de tráfico de escalas para dos manos\"",
+        "de": "\"Skalen-Flugkontrolle für zwei Hände\"",
+        "ja": "\"両手のためのスケール交通管制\"",
+        "zh-Hans": "\"双手音阶交通管制\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Train both hands to keep a scale flowing smoothly while one hand changes dynamics, articulation, or rhythm.\"",
+        "pt-BR": "\"Treine as duas mãos para manter a escala fluindo enquanto uma delas muda dinâmica, articulação ou ritmo.\"",
+        "es": "\"Entrena ambas manos para mantener una escala fluida mientras una mano cambia dinámica, articulación o ritmo.\"",
+        "de": "\"Trainiere beide Hände so, dass eine Skala flüssig bleibt, während eine Hand Dynamik, Artikulation oder Rhythmus verändert.\"",
+        "ja": "\"片手がダイナミクスやアーティキュレーションやリズムを変えても、両手のスケールをなめらかに保つ練習。\"",
+        "zh-Hans": "\"训练双手在一只手改变力度、触键或节奏时，仍然让音阶顺畅流动。\""
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-04-09T00:09:34Z",
+    "updatedAt": "2026-04-09T00:09:34Z"
   }
 ]
