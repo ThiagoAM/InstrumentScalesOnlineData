@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "improv-survival-rounds",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Improv Survival Rounds",
+        "pt-BR": "Rodadas de sobrevivência na improvisação",
+        "es": "Rondas de supervivencia para improvisar",
+        "de": "Impro-Survival-Runden",
+        "ja": "即興サバイバル・ラウンド",
+        "zh-Hans": "即兴生存回合"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a flexible solo by rotating scale tasks like a musical obstacle course.",
+        "pt-BR": "Monte um solo flexível girando tarefas de escala como se fosse uma pista de obstáculos musical.",
+        "es": "Construye un solo flexible rotando tareas de escala como si fuera una pista de obstáculos musical.",
+        "de": "Baue ein flexibles Solo, indem du Skalenaufgaben wie einen musikalischen Hindernisparcours rotierst.",
+        "ja": "音階ミッションを回しながら、障害物コースのように柔軟なソロを作ろう。",
+        "zh-Hans": "像闯音乐障碍赛一样轮换音阶任务，练出更灵活的独奏。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-10T00:05:19Z",
+    "updatedAt": "2026-04-10T00:05:19Z"
   }
 ]

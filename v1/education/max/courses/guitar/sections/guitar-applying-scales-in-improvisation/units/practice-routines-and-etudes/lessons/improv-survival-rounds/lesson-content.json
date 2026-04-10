@@ -1,0 +1,73 @@
+{
+  "id": "improv-survival-rounds",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Turn your practice space into a mini game. Choose **A minor pentatonic** or **C major**, set a slow backing track, and play four bars using only **three notes**. The goal is not speed—it's survival with great rhythm and confident tone.",
+          "pt-BR": "Transforme seu treino em um mini jogo. Escolha **Lá menor pentatônica** ou **Dó maior**, ligue um playback lento e toque quatro compassos usando apenas **três notas**. O objetivo não é velocidade — é sobreviver com ritmo firme e som confiante.",
+          "es": "Convierte tu práctica en un mini juego. Elige **La menor pentatónica** o **Do mayor**, pon una base lenta y toca cuatro compases usando solo **tres notas**. La meta no es la velocidad: es sobrevivir con buen ritmo y sonido seguro.",
+          "de": "Mach aus deiner Übezeit ein Mini-Spiel. Wähle **A-Moll-Pentatonik** oder **C-Dur**, starte ein langsames Backing-Track und spiele vier Takte nur mit **drei Tönen**. Es geht nicht um Tempo, sondern ums Überleben mit starkem Rhythmus und sicherem Ton.",
+          "ja": "練習をミニゲームに変えましょう。**Aマイナー・ペンタトニック** か **Cメジャー** を選び、ゆっくりした伴奏に合わせて **3音だけ** で4小節弾きます。目標は速さではなく、良いリズムと自信ある音で“生き残る”ことです。",
+          "zh-Hans": "把练习变成一个小游戏。选择 **A小调五声音阶** 或 **C大调**，放一条慢速伴奏，只用 **3个音** 演奏4小节。目标不是速度，而是在稳定节奏和自信音色中“生存下来”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: keep the same scale, but now every phrase must **start on a different scale degree**. If bar 1 starts on 1, bar 2 cannot. This forces you to stop autopiloting and actually see the fretboard.",
+          "pt-BR": "Rodada 2: mantenha a mesma escala, mas agora cada frase deve **começar em um grau diferente da escala**. Se o compasso 1 começa no grau 1, o compasso 2 não pode. Isso obriga você a sair do piloto automático e realmente enxergar o braço.",
+          "es": "Ronda 2: mantén la misma escala, pero ahora cada frase debe **empezar en un grado distinto de la escala**. Si el compás 1 empieza en 1, el compás 2 no puede. Esto te obliga a salir del piloto automático y ver realmente el diapasón.",
+          "de": "Runde 2: Bleib in derselben Skala, aber jetzt muss jede Phrase **auf einer anderen Skalenstufe beginnen**. Wenn Takt 1 auf der 1 startet, darf Takt 2 das nicht. So verlässt du den Autopiloten und siehst das Griffbrett wirklich.",
+          "ja": "ラウンド2では同じスケールを使いますが、各フレーズは **毎回ちがうスケール度数から始める** こと。1小節目が1度なら、2小節目は別の度数です。これでオートパイロットをやめて、指板を本当に見るようになります。",
+          "zh-Hans": "第2回合：继续用同一条音阶，但每一句都必须 **从不同的音阶级数开始**。如果第1小节从1级开始，第2小节就不能再这样。这样你会被迫离开自动驾驶，真正看清指板。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3: add one dramatic move. In each four-bar phrase, include **one bend, slide, or position shift**. The trick is to land the move cleanly on a strong beat so it sounds intentional, not accidental.",
+          "pt-BR": "Rodada 3: adicione um movimento dramático. Em cada frase de quatro compassos, inclua **um bend, slide ou mudança de posição**. O truque é fazer esse movimento cair limpo em um tempo forte para soar intencional, não acidental.",
+          "es": "Ronda 3: añade un movimiento dramático. En cada frase de cuatro compases incluye **un bend, un slide o un cambio de posición**. El truco es caer limpio en un tiempo fuerte para que suene intencional y no accidental.",
+          "de": "Runde 3: Füge eine dramatische Bewegung hinzu. In jeder Vier-Takt-Phrase baust du **einen Bend, Slide oder Lagenwechsel** ein. Der Trick ist, sauber auf einer starken Zählzeit zu landen, damit es absichtlich und nicht zufällig klingt.",
+          "ja": "ラウンド3ではドラマを1つ追加します。4小節の各フレーズに **1回だけベンド、スライド、またはポジション移動** を入れましょう。強拍にきれいに着地させるのがコツです。偶然ではなく意図して聞こえます。",
+          "zh-Hans": "第3回合：加入一个戏剧性动作。每个4小节乐句里都要加入 **一次推弦、滑音或把位移动**。关键是要在强拍上干净落地，这样听起来就是有意设计，而不是失手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 4 is the rescue mission: after every busier idea, answer it with a **shorter, simpler phrase**. Think movie dialogue—one character gets excited, the other cools the scene down. That contrast makes solos feel musical.",
+          "pt-BR": "A rodada 4 é a missão de resgate: depois de cada ideia mais movimentada, responda com uma **frase mais curta e mais simples**. Pense em diálogo de filme — um personagem se empolga, o outro esfria a cena. Esse contraste deixa o solo mais musical.",
+          "es": "La ronda 4 es la misión de rescate: después de cada idea más cargada, respóndela con una **frase más corta y más simple**. Piensa en diálogo de película: un personaje se emociona y el otro calma la escena. Ese contraste vuelve el solo más musical.",
+          "de": "Runde 4 ist die Rettungsmission: Nach jeder dichteren Idee antwortest du mit einer **kürzeren, einfacheren Phrase**. Denk an Filmdialoge — eine Figur dreht auf, die andere beruhigt die Szene. Dieser Kontrast macht Soli musikalischer.",
+          "ja": "ラウンド4はレスキューミッション。動きの多いアイデアのあとには、**もっと短くてシンプルな返答フレーズ** を入れます。映画の会話のように、一人が盛り上がったら、もう一人が場面を落ち着かせる感じです。この対比がソロを音楽的にします。",
+          "zh-Hans": "第4回合是“救援任务”：每次你弹完较密集的想法后，都要用一个 **更短、更简单的回应句** 来回答。把它想成电影对白——一个角色激动起来，另一个角色把场面稳住。这种对比会让独奏更有音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: play three survival rounds in a row, then rate yourself from 1 to 5 on **time, phrasing, and fretboard awareness**. Write one tiny upgrade for tomorrow, like “clearer bends” or “leave more space.” Tiny fixes turn random noodling into real improvisation.",
+          "pt-BR": "Desafio final: toque três rodadas seguidas e depois se dê uma nota de 1 a 5 em **tempo, fraseado e consciência do braço**. Anote uma micro melhora para amanhã, como “bends mais claros” ou “deixar mais espaço”. Pequenos ajustes transformam noodling aleatório em improvisação de verdade.",
+          "es": "Reto final: toca tres rondas seguidas y luego califícate del 1 al 5 en **tempo, fraseo y conciencia del diapasón**. Escribe una mejora mínima para mañana, como “bends más claros” o “dejar más espacio”. Los arreglos pequeños convierten el noodling al azar en improvisación real.",
+          "de": "Abschluss-Challenge: Spiele drei Survival-Runden hintereinander und bewerte dich von 1 bis 5 in **Timing, Phrasierung und Griffbrett-Überblick**. Notiere ein Mini-Upgrade für morgen, etwa „sauberere Bends“ oder „mehr Raum lassen“. Kleine Korrekturen machen aus ziellosem Gedudel echte Improvisation.",
+          "ja": "最後の挑戦です。サバイバル・ラウンドを3回続けて行い、**タイム感、フレージング、指板把握** を1〜5で自己採点してください。そして「ベンドをもっと明確に」や「空間をもっと残す」など、明日の小さな改善点を1つ書きます。小さな修正が、なんとなく弾く癖を本物の即興へ変えます。",
+          "zh-Hans": "最终挑战：连续完成3轮生存回合，然后分别给自己的 **节拍、乐句处理、指板意识** 打1到5分。再写下明天要提升的一件小事，比如“推弦更清楚”或“多留一点空间”。小修正，才会把随手乱弹变成真正的即兴。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-10T00:05:19Z",
+  "updatedAt": "2026-04-10T00:05:19Z"
+}

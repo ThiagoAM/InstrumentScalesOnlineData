@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-04-09T00:09:34Z",
     "updatedAt": "2026-04-09T00:09:34Z"
+  },
+  {
+    "id": "traffic-lights-for-scale-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Traffic Lights for Scale Control",
+        "pt-BR": "Semáforos para controlar a escala",
+        "es": "Semáforos para controlar la escala",
+        "de": "Ampeln für Skalenkontrolle",
+        "ja": "スケール・コントロールの信号機",
+        "zh-Hans": "音阶控制红绿灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use stop, slow, and go zones to clean up rushing hands and uneven tone.",
+        "pt-BR": "Use zonas de parar, reduzir e seguir para corrigir mãos apressadas e timbre desigual.",
+        "es": "Usa zonas de parar, reducir y avanzar para corregir manos apuradas y sonido desigual.",
+        "de": "Nutze Stopp-, Langsam- und Los-Zonen, um eilende Hände und ungleichmäßigen Ton zu zähmen.",
+        "ja": "止まる・ゆっくり・進むのゾーンを使って、急ぐ手と不ぞろいな音を整えよう。",
+        "zh-Hans": "用停止、减速、通行区间，修正手部抢拍和音色不均。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-04-10T00:07:20Z",
+    "updatedAt": "2026-04-10T00:07:20Z"
   }
 ]

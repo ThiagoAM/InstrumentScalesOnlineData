@@ -530,5 +530,33 @@
     "order": 19,
     "createdAt": "2026-04-09T00:08:16Z",
     "updatedAt": "2026-04-09T00:08:16Z"
+  },
+  {
+    "id": "pocket-detective-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Detective in G Major",
+        "pt-BR": "Detetive do pocket em Sol maior",
+        "es": "Detective del pocket en Sol mayor",
+        "de": "Pocket-Detektiv in G-Dur",
+        "ja": "Gメジャーのポケット探偵",
+        "zh-Hans": "G大调律动侦探"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Solve groove clues with scale tones, rests, and accents until the pocket clicks.",
+        "pt-BR": "Resolva pistas de groove com notas da escala, pausas e acentos até o pocket encaixar.",
+        "es": "Resuelve pistas de groove con notas de escala, silencios y acentos hasta que el pocket encaje.",
+        "de": "Löse Groove-Spuren mit Skalentönen, Pausen und Akzenten, bis das Pocket einrastet.",
+        "ja": "音階音、休符、アクセントの手がかりを解きながら、グルーヴのポケットをつかもう。",
+        "zh-Hans": "用音阶音、休止和重音破解律动线索，直到 pocket 真正锁住。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-04-10T00:06:25Z",
+    "updatedAt": "2026-04-10T00:06:25Z"
   }
 ]
