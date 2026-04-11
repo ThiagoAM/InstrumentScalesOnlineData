@@ -1,0 +1,86 @@
+{
+  "id": "rhythm-maze-in-a-dorian",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the maze: you only get out by making **A Dorian** sound intentional instead of like a random scale run. Set a metronome to a relaxed tempo, loop an **Am7–D7** vamp if you can, and play the scale once ascending and descending to hear the color of the **natural 6 (F#)**.",
+          "pt-BR": "Bem-vindo ao labirinto: você só sai dele se fizer **Lá dórico** soar intencional, e não como uma corrida aleatória de escala. Coloque o metrônomo em um andamento confortável, faça um loop de **Am7–D7** se puder, e toque a escala subindo e descendo para ouvir a cor da **6ª maior (F#)**.",
+          "es": "Bienvenido al laberinto: solo sales si haces que **La dórico** suene intencional y no como una carrera aleatoria de escala. Pon el metrónomo a un tempo cómodo, usa un vamp de **Am7–D7** si puedes, y toca la escala ascendiendo y descendiendo para escuchar el color de la **6ª mayor (F#)**.",
+          "de": "Willkommen im Labyrinth: Du kommst nur heraus, wenn **A-Dorisch** absichtlich klingt und nicht wie ein zufälliger Skalenlauf. Stell das Metronom auf ein entspanntes Tempo, nutze wenn möglich einen **Am7–D7**-Vamp und spiele die Skala auf- und abwärts, um die Farbe der **großen Sexte (F#)** zu hören.",
+          "ja": "迷路へようこそ。ここから出るには、**Aドリアン**をただの指運動ではなく、意図のあるサウンドにしなければいけません。ゆったりしたテンポでメトロノームを鳴らし、できれば **Am7–D7** のバンプを流して、まずは上行・下行で弾き、**長6度（F#）** の色を耳で確認しましょう。",
+          "zh-Hans": "欢迎来到迷宫：你只有把 **A多利亚** 弹得像“有意图的音乐”，而不是随手跑音阶，才能出去。把节拍器放在舒服的速度，如果可以就循环 **Am7–D7**，先完整上下行一遍，感受 **大六度（F#）** 带来的多利亚色彩。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now make the maze trickier: play only **three-note phrases**, then leave an **eighth-note rest** before your next idea. The goal is to stop sounding like a machine gun. If every phrase starts on beat 1, you're not escaping the maze yet.",
+          "pt-BR": "Agora deixe o labirinto mais traiçoeiro: toque apenas **frases de três notas** e depois faça uma **pausa de colcheia** antes da próxima ideia. O objetivo é parar de soar como metralhadora. Se toda frase começa no tempo 1, você ainda não escapou.",
+          "es": "Ahora complica el laberinto: toca solo **frases de tres notas** y deja un **silencio de corchea** antes de la siguiente idea. El objetivo es dejar de sonar como una metralleta. Si todas tus frases empiezan en el tiempo 1, todavía no has escapado.",
+          "de": "Jetzt wird das Labyrinth gemeiner: Spiele nur **Drei-Noten-Phrasen** und lass vor der nächsten Idee eine **Achtelpause**. Ziel ist, nicht wie ein Maschinengewehr zu klingen. Wenn jede Phrase auf Zählzeit 1 beginnt, bist du noch nicht draußen.",
+          "ja": "次は迷路を少し難しくします。**3音だけのフレーズ**を弾き、そのあとに**8分休符**を入れてから次のアイデアへ進みます。マシンガンのように弾き続けないのが目的です。毎回1拍目から始まるなら、まだ脱出できていません。",
+          "zh-Hans": "现在把迷宫难度调高：每次只弹**三音短句**，然后留一个**八分休止**再进入下一句。目标是别像机关枪一样一直往前冲。如果每句都从第1拍开始，你还没走出迷宫。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint one: land your phrase endings on **A, C, E, or F#**. Those notes give your lines a home base or a cool Dorian glow. Improvise for two minutes and notice which target note makes the phrase sound calm, bright, or suspenseful.",
+          "pt-BR": "Checkpoint um: termine as frases em **A, C, E ou F#**. Essas notas dão base às linhas ou aquele brilho típico do dórico. Improvise por dois minutos e perceba qual nota-alvo faz a frase soar calma, luminosa ou suspensa.",
+          "es": "Punto de control uno: termina tus frases en **A, C, E o F#**. Esas notas dan base a la línea o ese brillo dórico tan especial. Improvisa durante dos minutos y nota qué nota objetivo hace que la frase suene tranquila, brillante o en suspenso.",
+          "de": "Kontrollpunkt eins: Beende deine Phrasen auf **A, C, E oder F#**. Diese Töne geben der Linie ein Zuhause oder den typischen dorischen Glanz. Improvisiere zwei Minuten und achte darauf, welcher Zielton ruhig, hell oder spannend wirkt.",
+          "ja": "チェックポイント1です。フレーズの終わりを **A、C、E、F#** のどれかに着地させましょう。これらの音は安定感やドリアンらしい輝きを作ってくれます。2分ほど即興して、どのターゲット音が落ち着き、明るさ、緊張感を生むか比べてください。",
+          "zh-Hans": "第一检查点：让你的句子落在 **A、C、E、F#** 上。它们会让乐句更有归属感，或者带出漂亮的多利亚味道。连续即兴两分钟，观察哪一个目标音会让句子听起来更平静、更明亮，或者更有悬念。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next trap: shift your accents. Play the same notes, but accent different parts of the beat—first the downbeats, then the offbeats. Suddenly the same scale can sound grounded, dancing, or slightly sneaky.",
+          "pt-BR": "Próxima armadilha: mude os acentos. Toque as mesmas notas, mas acentue partes diferentes do pulso — primeiro os tempos fortes, depois os contratempos. De repente, a mesma escala pode soar firme, dançante ou levemente malandra.",
+          "es": "Siguiente trampa: cambia los acentos. Toca las mismas notas, pero acentúa distintas partes del pulso: primero los tiempos fuertes y luego los contratiempos. De pronto, la misma escala puede sonar estable, bailable o un poco traviesa.",
+          "de": "Nächste Falle: Verschiebe die Akzente. Spiele dieselben Töne, aber betone unterschiedliche Teile des Pulses — zuerst die schweren Zählzeiten, dann die Offbeats. Plötzlich kann dieselbe Skala geerdet, tanzend oder leicht listig klingen.",
+          "ja": "次の罠はアクセント移動です。同じ音を使いながら、強調する位置だけを変えます。まずは表拍、次は裏拍。すると同じスケールでも、どっしり、踊るよう、あるいは少しずる賢い雰囲気に変わります。",
+          "zh-Hans": "下一道陷阱是移动重音。音还是那些音，但把重音位置换掉：先强调正拍，再强调反拍。忽然之间，同一条音阶可以听起来很稳、很会跳舞，或者有点狡黠。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss room: create a **call-and-response solo**. Your “call” is one short phrase in the lower register. Your “response” answers it higher on the neck, with a different rhythm. Keep both phrases in A Dorian, but make them sound like two characters arguing politely.",
+          "pt-BR": "Sala do chefe: crie um **solo de pergunta e resposta**. A “pergunta” é uma frase curta no registro grave. A “resposta” devolve mais agudo no braço, com outro ritmo. Mantenha tudo em Lá dórico, mas faça soar como dois personagens discutindo com educação.",
+          "es": "Sala del jefe: crea un **solo de llamada y respuesta**. La “llamada” es una frase corta en el registro grave. La “respuesta” contesta más arriba en el mástil, con otro ritmo. Mantén todo en La dórico, pero haz que parezca una conversación entre dos personajes educadamente tercos.",
+          "de": "Boss-Raum: Erfinde ein **Call-and-Response-Solo**. Der „Call“ ist eine kurze Phrase in tiefer Lage. Die „Response“ antwortet höher auf dem Hals und mit anderem Rhythmus. Bleib in A-Dorisch, aber lass es wie zwei höflich streitende Figuren klingen.",
+          "ja": "ボス部屋では **コール＆レスポンスのソロ** を作ります。「コール」は低いポジションの短いフレーズ。「レスポンス」はネックの高い位置から別のリズムで返答します。音はAドリアンのまま、礼儀正しく言い合う二人の会話のようにしてみましょう。",
+          "zh-Hans": "来到 boss 房：写一个**问答式 solo**。你的“问句”是在低把位的短句；“答句”则在更高把位、用不同节奏回应。全程保持在 A 多利亚里，但要像两个角色在礼貌地辩论。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final escape challenge: record or repeat **four bars** where bar 1 is spacious, bar 2 is busier, bar 3 uses a strong target note, and bar 4 ends with confidence on A or E. If the shape of the solo feels like a story instead of scale homework, you beat the maze.",
+          "pt-BR": "Desafio final de fuga: grave ou repita **quatro compassos** em que o compasso 1 tem espaço, o 2 é mais movimentado, o 3 usa uma nota-alvo forte e o 4 termina com confiança em A ou E. Se o solo parecer uma história em vez de dever de casa de escala, você venceu o labirinto.",
+          "es": "Desafío final de escape: graba o repite **cuatro compases** donde el compás 1 tenga espacio, el 2 sea más activo, el 3 use una nota objetivo fuerte y el 4 termine con seguridad en A o E. Si el solo parece una historia y no tarea de escala, venciste el laberinto.",
+          "de": "Letzte Flucht-Challenge: Nimm **vier Takte** auf oder wiederhole sie, wobei Takt 1 luftig ist, Takt 2 dichter, Takt 3 einen starken Zielton nutzt und Takt 4 selbstbewusst auf A oder E endet. Wenn sich das Solo wie eine Geschichte statt wie Skalenhausaufgaben anfühlt, hast du gewonnen.",
+          "ja": "最後の脱出チャレンジです。**4小節**を録音するか繰り返してください。1小節目は空間を多めに、2小節目は少し密度を上げ、3小節目は強いターゲット音を使い、4小節目は A か E に自信を持って着地します。スケール練習ではなく物語のように聞こえたらクリアです。",
+          "zh-Hans": "最终逃脱挑战：录下或重复 **4小节**，第1小节留白多一些，第2小节更密一点，第3小节用明确的目标音，第4小节自信地停在 A 或 E 上。如果这段 solo 听起来像故事，而不是音阶作业，你就通关了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-11T00:05:43Z",
+  "updatedAt": "2026-04-11T00:05:43Z"
+}

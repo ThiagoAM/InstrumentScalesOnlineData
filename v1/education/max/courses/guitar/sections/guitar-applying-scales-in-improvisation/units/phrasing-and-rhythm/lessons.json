@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-04-05T00:06:08Z",
     "updatedAt": "2026-04-05T00:06:08Z"
+  },
+  {
+    "id": "rhythm-maze-in-a-dorian",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Maze in A Dorian",
+        "pt-BR": "Labirinto Rítmico em Lá Dórico",
+        "es": "Laberinto Rítmico en La Dórico",
+        "de": "Rhythmus-Labyrinth in A-Dorisch",
+        "ja": "Aドリアンのリズム迷路",
+        "zh-Hans": "A多利亚节奏迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape a rhythmic maze by threading A Dorian scale notes through rests, accents, and smart phrasing.",
+        "pt-BR": "Saia de um labirinto rítmico costurando notas de Lá dórico com pausas, acentos e fraseado inteligente.",
+        "es": "Escapa de un laberinto rítmico enlazando notas de La dórico con silencios, acentos y fraseo inteligente.",
+        "de": "Entkomme einem Rhythmus-Labyrinth, indem du Töne aus A-Dorisch mit Pausen, Akzenten und kluger Phrasierung verbindest.",
+        "ja": "Aドリアンの音を休符、アクセント、賢いフレージングでつなぎ、リズム迷路から脱出しよう。",
+        "zh-Hans": "用A多利亚音阶中的音、停顿、重音和聪明的乐句设计，闯出节奏迷宫。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-11T00:05:43Z",
+    "updatedAt": "2026-04-11T00:05:43Z"
   }
 ]

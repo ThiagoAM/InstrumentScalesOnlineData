@@ -558,5 +558,33 @@
     "order": 20,
     "createdAt": "2026-04-10T00:06:25Z",
     "updatedAt": "2026-04-10T00:06:25Z"
+  },
+  {
+    "id": "g-major-pocket-factory",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Pocket Factory",
+        "pt-BR": "Fábrica de Pocket em Sol Maior",
+        "es": "Fábrica de Pocket en Sol Mayor",
+        "de": "Pocket-Fabrik in G-Dur",
+        "ja": "Gメジャー・ポケット工場",
+        "zh-Hans": "G大调律动工厂"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove assembly line in G major with rests, ghost notes, and tight pocket decisions.",
+        "pt-BR": "Monte uma linha de produção de grooves em Sol maior com pausas, ghost notes e decisões certeiras de pocket.",
+        "es": "Construye una línea de producción de grooves en Sol mayor con silencios, ghost notes y decisiones firmes de pocket.",
+        "de": "Baue eine Groove-Produktionslinie in G-Dur mit Pausen, Ghost Notes und präzisen Pocket-Entscheidungen.",
+        "ja": "休符、ゴーストノート、タイトな判断で、Gメジャーのベースグルーヴを工場のように組み立てよう。",
+        "zh-Hans": "用休止、幽灵音和精准的 pocket 决策，把 G 大调音阶组装成一条贝斯律动生产线。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-04-11T00:06:58Z",
+    "updatedAt": "2026-04-11T00:06:58Z"
   }
 ]

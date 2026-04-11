@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-04-10T00:07:20Z",
     "updatedAt": "2026-04-10T00:07:20Z"
+  },
+  {
+    "id": "scale-traffic-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Traffic Lights",
+        "pt-BR": "Semáforos da Escala",
+        "es": "Semáforos de la Escala",
+        "de": "Ampeln für die Tonleiter",
+        "ja": "スケール信号機",
+        "zh-Hans": "音阶红绿灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use red, yellow, and green practice zones to clean up piano scales without losing musical flow.",
+        "pt-BR": "Use zonas vermelha, amarela e verde para limpar suas escalas no piano sem perder o fluxo musical.",
+        "es": "Usa zonas roja, amarilla y verde para limpiar tus escalas al piano sin perder el flujo musical.",
+        "de": "Nutze rote, gelbe und grüne Zonen, um Klavier-Tonleitern sauber zu machen, ohne den musikalischen Fluss zu verlieren.",
+        "ja": "赤・黄・緑の練習ゾーンを使って、音楽の流れを失わずにピアノスケールを整えよう。",
+        "zh-Hans": "用红、黄、绿三个练习区，清理钢琴音阶中的问题，同时保留音乐流动感。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-04-11T00:07:49Z",
+    "updatedAt": "2026-04-11T00:07:49Z"
   }
 ]
