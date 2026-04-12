@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2026-04-09T00:06:11Z",
     "updatedAt": "2026-04-09T00:06:11Z"
+  },
+  {
+    "id": "bb-mixolydian-vamp-riff-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "B♭ Mixolydian Vamp Riff Lab",
+        "pt-BR": "Laboratório de riffs com vamp em Si♭ mixolídio",
+        "es": "Laboratorio de riffs sobre vamp en Si♭ mixolidio",
+        "de": "B♭-Mixolydisch-Vamp Riff-Labor",
+        "ja": "B♭ミクソリディアン・ヴァンプのリフ実験室",
+        "zh-Hans": "B♭混合利底亚Vamp即兴riff实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build punchy guitar riffs over a dominant vamp by aiming at Mixolydian color tones and rhythmic accents.",
+        "pt-BR": "Construa riffs de guitarra marcantes sobre um vamp dominante mirando cores mixolídias e acentos rítmicos.",
+        "es": "Construye riffs de guitarra con pegada sobre un vamp dominante apuntando a colores mixolidios y acentos rítmicos.",
+        "de": "Baue prägnante Gitarrenriffs über einen Dominant-Vamp mit mixolydischen Farbtönen und rhythmischen Akzenten.",
+        "ja": "ミクソリディアンの色合いとリズムのアクセントを使って、ドミナント・ヴァンプ上で印象的なギターリフを作ります。",
+        "zh-Hans": "在属七和弦vamp上用混合利底亚色彩音和节奏重音打造有冲击力的吉他riff。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-12T00:04:35Z",
+    "updatedAt": "2026-04-12T00:04:35Z"
   }
 ]

@@ -586,5 +586,33 @@
     "order": 21,
     "createdAt": "2026-04-11T00:06:58Z",
     "updatedAt": "2026-04-11T00:06:58Z"
+  },
+  {
+    "id": "ghost-note-maze-for-major-scale-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost-Note Maze for Major Scale Grooves",
+        "pt-BR": "Labirinto de ghost notes para grooves com escala maior",
+        "es": "Laberinto de ghost notes para grooves de escala mayor",
+        "de": "Ghost-Note-Labyrinth für Grooves in der Durtonleiter",
+        "ja": "メジャースケール・グルーヴのためのゴーストノート迷路",
+        "zh-Hans": "大调groove幽灵音迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock major-scale bass notes into a danceable groove by weaving in ghost notes, space, and strong subdivision control.",
+        "pt-BR": "Prenda as notas da escala maior em um groove dançante usando ghost notes, espaço e controle firme da subdivisão.",
+        "es": "Encaja las notas de la escala mayor en un groove bailable usando ghost notes, espacio y control fuerte de subdivisión.",
+        "de": "Verbinde Durtonleiter-Töne mit einem tanzbaren Bassgroove durch Ghost Notes, Raum und starke Unterteilungskontrolle.",
+        "ja": "ゴーストノート、間、そして細かい拍感のコントロールで、メジャースケールの音を踊れるベースグルーヴに変えます。",
+        "zh-Hans": "用幽灵音、留白和稳定细分控制，把大调音阶音编进会让人点头的贝斯groove里。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-04-12T00:04:35Z",
+    "updatedAt": "2026-04-12T00:04:35Z"
   }
 ]

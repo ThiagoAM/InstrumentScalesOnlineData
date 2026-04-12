@@ -54,5 +54,33 @@
     "order": 2,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "two-hand-sequence-engine-for-ii-v-i",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Sequence Engine for ii-V-I",
+        "pt-BR": "Motor de sequências a duas mãos para ii-V-I",
+        "es": "Motor de secuencias a dos manos para ii-V-I",
+        "de": "Zweihändiger Sequenz-Motor für ii-V-I",
+        "ja": "ii-V-Iのための両手シーケンス・エンジン",
+        "zh-Hans": "ii-V-I双手音型引擎"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale fragments into a musical ii-V-I routine by coordinating both hands, voice-leading targets, and rhythmic discipline.",
+        "pt-BR": "Transforme fragmentos de escala em uma rotina musical de ii-V-I coordenando as duas mãos, notas-alvo e disciplina rítmica.",
+        "es": "Convierte fragmentos de escala en una rutina musical de ii-V-I coordinando ambas manos, notas objetivo y disciplina rítmica.",
+        "de": "Verwandle Skalenfragmente in eine musikalische ii-V-I-Routine mit koordinierter Zweihandtechnik, Zieltönen und rhythmischer Disziplin.",
+        "ja": "スケール断片を、両手の連携・ターゲット音・リズム管理を使った音楽的なii-V-I練習に変えます。",
+        "zh-Hans": "用双手配合、目标音连接和节奏纪律，把音阶片段变成真正有音乐性的ii-V-I钢琴练习。"
+      }
+    },
+    "order": 3,
+    "createdAt": "2026-04-12T00:04:35Z",
+    "updatedAt": "2026-04-12T00:04:35Z"
   }
 ]
