@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-04-10T00:05:19Z",
     "updatedAt": "2026-04-10T00:05:19Z"
+  },
+  {
+    "id": "solo-story-arc-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Story Arc Etude",
+        "pt-BR": "Estudo de Arco Narrativo para Solo",
+        "es": "Estudio de arco narrativo para solo",
+        "de": "Solo-Etüde mit Spannungsbogen",
+        "ja": "ソロ物語アーク・エチュード",
+        "zh-Hans": "独奏故事弧线练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Shape a guitar solo like a mini movie by planning tension, release, and position changes.",
+        "pt-BR": "Modele um solo de guitarra como um mini filme, planejando tensão, resolução e mudanças de posição.",
+        "es": "Da forma a un solo de guitarra como una mini película, planificando tensión, resolución y cambios de posición.",
+        "de": "Forme ein Gitarrensolo wie einen Kurzfilm mit geplanter Spannung, Auflösung und Positionswechseln.",
+        "ja": "緊張感、解決、ポジション移動を設計して、ギターソロを短い映画のように組み立てよう。",
+        "zh-Hans": "通过设计张力、释放和把位移动，把吉他独奏练成一部迷你电影。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-13T00:06:06Z",
+    "updatedAt": "2026-04-13T00:06:06Z"
   }
 ]

@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-04-11T00:07:49Z",
     "updatedAt": "2026-04-11T00:07:49Z"
+  },
+  {
+    "id": "checkpoint-scale-race",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Checkpoint Scale Race",
+        "pt-BR": "Corrida da escala com checkpoints",
+        "es": "Carrera de escala con checkpoints",
+        "de": "Tonleiter-Rennen mit Checkpoints",
+        "ja": "チェックポイント式スケールレース",
+        "zh-Hans": "检查点音阶赛跑"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn daily piano scales into a clean, strategic race with checkpoints for tone, rhythm, and relaxation.",
+        "pt-BR": "Transforme as escalas diárias no piano em uma corrida estratégica, com checkpoints de timbre, ritmo e relaxamento.",
+        "es": "Convierte las escalas diarias de piano en una carrera estratégica con checkpoints de sonido, ritmo y relajación.",
+        "de": "Verwandle tägliche Klavier-Tonleitern in ein strategisches Rennen mit Kontrollpunkten für Klang, Rhythmus und Lockerheit.",
+        "ja": "音色、リズム、脱力のチェックポイントを置いて、毎日のピアノスケールを戦略的なレースに変えよう。",
+        "zh-Hans": "给每日钢琴音阶练习加上音色、节奏和放松检查点，把它变成一场有策略的比赛。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-04-13T00:07:51Z",
+    "updatedAt": "2026-04-13T00:07:51Z"
   }
 ]

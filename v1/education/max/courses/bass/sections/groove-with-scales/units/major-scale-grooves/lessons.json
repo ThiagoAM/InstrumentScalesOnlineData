@@ -614,5 +614,33 @@
     "order": 22,
     "createdAt": "2026-04-12T00:04:35Z",
     "updatedAt": "2026-04-12T00:04:35Z"
+  },
+  {
+    "id": "pocket-relay-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Relay in G Major",
+        "pt-BR": "Revezamento de pocket em Sol maior",
+        "es": "Relevo de pocket en Sol mayor",
+        "de": "Pocket-Staffel in G-Dur",
+        "ja": "Gメジャーのポケット・リレー",
+        "zh-Hans": "G大调律动接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pass a tight groove between rhythmic roles while keeping the bass pocket alive in G major.",
+        "pt-BR": "Passe um groove firme entre funções rítmicas sem perder o pocket do baixo em Sol maior.",
+        "es": "Pasa un groove firme entre funciones rítmicas sin perder el pocket del bajo en Sol mayor.",
+        "de": "Reiche einen tighten Groove zwischen rhythmischen Rollen weiter, ohne das Bass-Pocket in G-Dur zu verlieren.",
+        "ja": "Gメジャーでベースのポケットを保ったまま、リズムの役割を受け渡していこう。",
+        "zh-Hans": "在 G 大调中把律动在不同节奏角色之间传递，同时守住贝斯 pocket。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-04-13T00:07:02Z",
+    "updatedAt": "2026-04-13T00:07:02Z"
   }
 ]

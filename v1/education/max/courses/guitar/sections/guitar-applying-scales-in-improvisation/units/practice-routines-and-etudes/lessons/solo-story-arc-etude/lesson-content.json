@@ -1,0 +1,86 @@
+{
+  "id": "solo-story-arc-etude",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Think of this etude as a three-scene short film for your fingers. You will improvise in **A minor pentatonic** while moving through three energy levels: calm opening, rising action, and bold finish. The goal is not to play more notes — it is to make each phrase feel intentional.",
+          "pt-BR": "Pense neste estudo como um curta-metragem de três cenas para os seus dedos. Você vai improvisar em **lá menor pentatônica** passando por três níveis de energia: abertura calma, ação crescente e final marcante. O objetivo não é tocar mais notas — é fazer cada frase soar intencional.",
+          "es": "Piensa en este estudio como un cortometraje de tres escenas para tus dedos. Vas a improvisar en **la menor pentatónica** pasando por tres niveles de energía: apertura tranquila, acción en aumento y final decidido. El objetivo no es tocar más notas, sino hacer que cada frase se sienta intencional.",
+          "de": "Stell dir diese Etüde wie einen Kurzfilm in drei Szenen für deine Finger vor. Du improvisierst in **A-Moll-Pentatonik** und bewegst dich durch drei Energienstufen: ruhiger Anfang, steigende Handlung und selbstbewusstes Finale. Das Ziel ist nicht, mehr Noten zu spielen, sondern jede Phrase bewusst wirken zu lassen.",
+          "ja": "このエチュードは、指で演じる3シーンの短編映画だと思ってください。**Aマイナー・ペンタトニック**で即興しながら、静かな導入、盛り上がる中盤、堂々とした締めくくりという3つのエネルギー段階を進みます。目標はノート数を増やすことではなく、すべてのフレーズに意図を持たせることです。",
+          "zh-Hans": "把这节练习想象成一部由手指演出的三幕短片。你要在 **A 小调五声音阶** 上即兴，并经历三种能量阶段：平静开场、渐强推进、强力收尾。目标不是弹更多音，而是让每一句都像经过设计。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a loop or metronome at **72-88 BPM**. Spend four bars in **5th position**, four bars in **8th position**, then four bars mixing both. In scene 1, use mostly quarter notes and leave space after each phrase. In scene 2, add one rhythmic surprise per bar: a rest, syncopation, or longer note. In scene 3, connect both positions and aim to land strongly on **A** or **E** at the end of each phrase.",
+          "pt-BR": "Use um loop ou metrônomo em **72-88 BPM**. Passe quatro compassos na **5ª posição**, quatro na **8ª posição** e quatro misturando as duas. Na cena 1, use principalmente semínimas e deixe espaço após cada frase. Na cena 2, adicione uma surpresa rítmica por compasso: uma pausa, uma síncope ou uma nota mais longa. Na cena 3, conecte as duas posições e tente pousar com força em **A** ou **E** no fim de cada frase.",
+          "es": "Usa un loop o metrónomo a **72-88 BPM**. Toca cuatro compases en **quinta posición**, cuatro en **octava posición** y cuatro mezclando ambas. En la escena 1 usa sobre todo negras y deja espacio después de cada frase. En la escena 2 agrega una sorpresa rítmica por compás: un silencio, una síncopa o una nota más larga. En la escena 3 conecta ambas posiciones e intenta caer con fuerza en **A** o **E** al final de cada frase.",
+          "de": "Nutze einen Loop oder ein Metronom bei **72-88 BPM**. Spiele vier Takte in der **5. Lage**, vier Takte in der **8. Lage** und vier Takte mit beiden Lagen gemischt. In Szene 1 spielst du vor allem Viertelnoten und lässt nach jeder Phrase Raum. In Szene 2 baust du pro Takt eine rhythmische Überraschung ein: eine Pause, eine Synkope oder einen längeren Ton. In Szene 3 verbindest du beide Lagen und landest am Ende jeder Phrase möglichst klar auf **A** oder **E**.",
+          "ja": "ループまたはメトロノームを **72-88 BPM** に設定します。**5ポジション**で4小節、**8ポジション**で4小節、最後の4小節で両方を混ぜます。シーン1では主に4分音符を使い、各フレーズのあとに間を残します。シーン2では各小節に1つ、休符、シンコペーション、長い音のいずれかのリズムの驚きを入れます。シーン3では両ポジションをつなぎ、各フレーズの終わりを **A** または **E** にしっかり着地させましょう。",
+          "zh-Hans": "把循环或节拍器设在 **72-88 BPM**。先在 **第5把位** 练4小节，再在 **第8把位** 练4小节，最后4小节把两个把位连起来。第一幕主要用四分音符，并在每句后留出空间。第二幕每小节加入一个节奏惊喜：休止、切分，或更长的音。第三幕把两个把位连通，并尽量让每句结束稳稳落在 **A** 或 **E**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Scene 1 challenge: limit yourself to **three notes per phrase**. This forces you to focus on tone, bends, vibrato, and timing instead of speed. If a phrase sounds boring, do not add extra notes immediately — first try changing articulation or where the phrase ends.",
+          "pt-BR": "Desafio da cena 1: limite-se a **três notas por frase**. Isso obriga você a focar em timbre, bends, vibrato e tempo em vez de velocidade. Se a frase soar sem graça, não coloque mais notas de imediato — primeiro tente mudar a articulação ou o ponto onde a frase termina.",
+          "es": "Desafío de la escena 1: limítate a **tres notas por frase**. Eso te obliga a centrarte en el sonido, los bends, el vibrato y el tiempo en vez de la velocidad. Si una frase suena aburrida, no añadas notas de inmediato: primero cambia la articulación o el punto donde termina.",
+          "de": "Herausforderung für Szene 1: Erlaube dir nur **drei Noten pro Phrase**. So konzentrierst du dich auf Klang, Bends, Vibrato und Timing statt auf Geschwindigkeit. Wenn eine Phrase langweilig klingt, füge nicht sofort mehr Noten hinzu — ändere zuerst die Artikulation oder den Zielton.",
+          "ja": "シーン1の課題は、**1フレーズ3音まで** に制限することです。そうすることで速さではなく、音色、チョーキング、ビブラート、タイム感に集中できます。フレーズが退屈に感じたら、すぐに音を増やすのではなく、まずアーティキュレーションや終わり方を変えてみてください。",
+          "zh-Hans": "第一幕挑战：**每句只准三音**。这样你会被迫把注意力放在音色、推弦、揉弦和节拍上，而不是速度上。如果一句听起来无聊，不要立刻加音，先试着改变触弦方式或结尾音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Scene 2 challenge: answer every phrase with a variation. Keep the rhythm but change the ending note, or keep the contour but shift it to the new position. This is your call-and-response engine. Your listener should hear that the second phrase is related to the first, not random.",
+          "pt-BR": "Desafio da cena 2: responda cada frase com uma variação. Mantenha o ritmo e mude a nota final, ou mantenha o desenho melódico e leve-o para a nova posição. Esse é o motor do seu call and response. Quem ouve precisa perceber que a segunda frase é parente da primeira, não aleatória.",
+          "es": "Desafío de la escena 2: responde cada frase con una variación. Mantén el ritmo y cambia la nota final, o conserva el contorno y muévelo a la nueva posición. Ese es tu motor de llamada y respuesta. Quien escucha debe notar que la segunda frase está emparentada con la primera, no que apareció al azar.",
+          "de": "Herausforderung für Szene 2: Beantworte jede Phrase mit einer Variation. Behalte den Rhythmus und ändere den Schlusston, oder behalte die Kontur und verschiebe sie in die neue Lage. Das ist dein Call-and-Response-Motor. Für Zuhörerinnen und Zuhörer sollte klar sein, dass die zweite Phrase zur ersten gehört und nicht zufällig entstand.",
+          "ja": "シーン2の課題は、すべてのフレーズに変化形で答えることです。リズムは保って終わりの音だけ変える、あるいは輪郭を保ったまま新しいポジションへ移す方法でもかまいません。これがコール＆レスポンスのエンジンです。聴き手には、2つ目のフレーズが1つ目と関係していると伝わる必要があります。",
+          "zh-Hans": "第二幕挑战：每一句都要有一个“回答版”。你可以保持节奏不变，只换结束音；也可以保留轮廓，把它移到新的把位。这就是你的呼应引擎。听众应该能听出第二句和第一句是亲戚，不是突然乱入。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Scene 3 challenge: build a final four-bar arc. Bar 1 should start low and simple. Bar 2 should climb or get louder. Bar 3 should contain your boldest rhythmic idea or bend. Bar 4 must resolve clearly, as if you are closing the chapter instead of wandering off the page.",
+          "pt-BR": "Desafio da cena 3: construa um arco final de quatro compassos. O compasso 1 deve começar grave e simples. O compasso 2 deve subir ou ganhar volume. O compasso 3 deve conter sua ideia rítmica mais ousada ou bend mais expressivo. O compasso 4 precisa resolver com clareza, como se você estivesse fechando o capítulo em vez de se perder no final.",
+          "es": "Desafío de la escena 3: construye un arco final de cuatro compases. El compás 1 debe empezar grave y simple. El compás 2 debe subir o ganar volumen. El compás 3 debe contener tu idea rítmica más atrevida o tu bend más expresivo. El compás 4 tiene que resolver con claridad, como si cerraras el capítulo en lugar de perderte al final.",
+          "de": "Herausforderung für Szene 3: Baue einen abschließenden Vier-Takt-Bogen. Takt 1 beginnt tief und schlicht. Takt 2 steigt an oder wird lauter. Takt 3 enthält deine mutigste rhythmische Idee oder deinen ausdrucksstärksten Bend. Takt 4 muss klar auflösen, als würdest du ein Kapitel schließen statt einfach auszulaufen.",
+          "ja": "シーン3の課題は、最後の4小節で明確なアークを作ることです。1小節目は低くシンプルに始めます。2小節目で上昇するか音量を増やします。3小節目には、最も大胆なリズムのアイデアか、最も印象的なチョーキングを入れます。4小節目は、物語の章を閉じるようにはっきり解決してください。",
+          "zh-Hans": "第三幕挑战：做出最后4小节的完整弧线。第1小节低音区、简单开头。第2小节向上爬升，或者加大力度。第3小节放进你最大胆的节奏点子或最有存在感的推弦。第4小节必须清楚解决，像在合上章节，而不是迷路收尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "After three full runs, score yourself from 1 to 5 in **space**, **position shifts**, and **ending control**. If one score is low, repeat the etude with a rule that exaggerates the weak area. For example: double the amount of silence, force one shift every two bars, or only end on chord tones. A great solo story is not just exciting — it is edited well.",
+          "pt-BR": "Depois de três execuções completas, dê notas de 1 a 5 para **espaço**, **mudanças de posição** e **controle das resoluções**. Se alguma nota ficar baixa, repita o estudo com uma regra que exagere esse ponto fraco. Por exemplo: dobre a quantidade de silêncio, force uma mudança a cada dois compassos ou termine apenas em notas do acorde. Uma boa história em solo não é só empolgante — ela também é bem editada.",
+          "es": "Después de tres pasadas completas, puntúate del 1 al 5 en **espacio**, **cambios de posición** y **control de cierres**. Si una nota sale baja, repite el estudio con una regla que exagere ese punto débil. Por ejemplo: duplica el silencio, obliga un cambio cada dos compases o termina solo en notas del acorde. Una gran historia solista no solo emociona: también está bien editada.",
+          "de": "Nach drei kompletten Durchläufen bewertest du dich von 1 bis 5 in **Raum**, **Positionswechseln** und **Auflösungskontrolle**. Wenn ein Wert schwach ist, wiederhole die Etüde mit einer Regel, die genau diesen Bereich überzeichnet. Zum Beispiel: doppelt so viel Stille, mindestens ein Wechsel alle zwei Takte oder nur auf Akkordtönen enden. Eine starke Solo-Geschichte ist nicht nur spannend — sie ist auch gut geschnitten.",
+          "ja": "3回通して弾いたら、**間の使い方**、**ポジション移動**、**終止のコントロール** をそれぞれ1〜5で採点します。どれかが低ければ、その弱点を強調するルールでやり直しましょう。たとえば、沈黙を2倍にする、2小節ごとに必ず移動する、終わりをコードトーンだけにする、などです。良いソロの物語は、刺激的なだけでなく、編集も上手いのです。",
+          "zh-Hans": "完整跑三遍之后，给自己在 **留白**、**把位转换**、**结尾控制** 三项上各打 1 到 5 分。如果某项偏低，就用一条夸张规则重练那个弱点。比如：把静默翻倍、每两小节必须换一次把位，或者只能落在和弦音上。好的独奏故事不只是刺激，还得剪辑得漂亮。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-13T00:06:06Z",
+  "updatedAt": "2026-04-13T00:06:06Z"
+}
