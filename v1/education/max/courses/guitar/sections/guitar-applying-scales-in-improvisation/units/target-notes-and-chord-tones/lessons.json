@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-03-17T00:05:42Z",
     "updatedAt": "2026-03-17T00:05:42Z"
+  },
+  {
+    "id": "landing-on-the-third-over-chord-changes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Landing on the 3rd Over Chord Changes",
+        "pt-BR": "Caindo na terça nas mudanças de acorde",
+        "es": "Aterrizar en la tercera sobre los cambios de acorde",
+        "de": "Auf der Terz bei Akkordwechseln landen",
+        "ja": "コードチェンジで3度に着地する",
+        "zh-Hans": "在和弦变化时落到三音上"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your ear and fretboard map by targeting the 3rd of each chord inside a simple progression.",
+        "pt-BR": "Treine o ouvido e o braço mirando a terça de cada acorde dentro de uma progressão simples.",
+        "es": "Entrena el oído y el diapasón apuntando a la tercera de cada acorde dentro de una progresión sencilla.",
+        "de": "Trainiere Ohr und Griffbrett, indem du in einer einfachen Progression die Terz jedes Akkords ansteuerst.",
+        "ja": "シンプルな進行の中で各コードの3度を狙い、耳と指板感覚を鍛えます。",
+        "zh-Hans": "通过在简单进行中瞄准每个和弦的三音，训练你的耳朵和指板定位。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-14T00:08:48Z",
+    "updatedAt": "2026-04-14T00:08:48Z"
   }
 ]

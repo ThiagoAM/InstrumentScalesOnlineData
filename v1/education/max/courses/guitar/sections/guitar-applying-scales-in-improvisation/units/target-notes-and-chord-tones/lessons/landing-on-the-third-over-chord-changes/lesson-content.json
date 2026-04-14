@@ -1,0 +1,86 @@
+{
+  "id": "landing-on-the-third-over-chord-changes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Landing on the 3rd over chord changes\nIf your solo sounds like it knows where the harmony is going, chances are you are hitting strong target notes. One of the best targets is the **3rd** of each chord, because it tells the listener whether the chord feels major or minor.\n\nIn this lesson you will follow a simple progression, aim for the 3rd on each change, and turn scale practice into musical storytelling instead of random wandering.",
+          "pt-BR": "# Caindo na terça nas mudanças de acorde\nSe o seu solo soa como se soubesse para onde a harmonia está indo, há uma boa chance de você estar acertando notas-alvo fortes. Uma das melhores é a **terça** de cada acorde, porque ela mostra se o acorde soa maior ou menor.\n\nNesta lição você vai seguir uma progressão simples, mirar a terça em cada troca e transformar o estudo de escalas em música com direção, em vez de passeio aleatório pelo braço.",
+          "es": "# Aterrizar en la tercera sobre los cambios de acorde\nSi tu solo suena como si supiera adónde va la armonía, seguramente estás cayendo en notas objetivo fuertes. Una de las mejores es la **tercera** de cada acorde, porque le dice al oyente si el acorde suena mayor o menor.\n\nEn esta lección seguirás una progresión sencilla, apuntarás a la tercera en cada cambio y convertirás el estudio de escalas en narración musical en lugar de paseo aleatorio.",
+          "de": "# Auf der Terz bei Akkordwechseln landen\nWenn dein Solo so klingt, als wüsste es genau, wohin die Harmonie geht, triffst du wahrscheinlich starke Zielnoten. Eine der besten Zielnoten ist die **Terz** des jeweiligen Akkords, denn sie verrät sofort, ob der Akkord Dur oder Moll ist.\n\nIn dieser Lektion folgst du einer einfachen Progression, zielst bei jedem Wechsel auf die Terz und machst aus Skalenpraxis musikalisches Erzählen statt zufälligem Herumirren.",
+          "ja": "# コードチェンジで3度に着地する\nソロが「ちゃんとハーモニーの行き先をわかっている」ように聞こえるなら、強いターゲットノートに着地できている可能性が高いです。その中でも特に強力なのが各コードの **3度** です。3度は、そのコードがメジャーかマイナーかをすぐに示してくれます。\n\nこのレッスンではシンプルな進行を追いかけながら、コードが変わる瞬間に3度を狙い、スケール練習をただの移動ではなく音楽的な語りに変えていきます。",
+          "zh-Hans": "# 在和弦变化时落到三音上\n如果你的独奏听起来像是“知道和声要往哪里走”，那多半是因为你落在了强有力的目标音上。其中最好用的目标音之一就是每个和弦的 **三音**，因为它能立刻告诉听众这个和弦是大三和弦还是小三和弦。\n\n这节课里，你会跟着一个简单的和弦进行，在每次换和弦时瞄准三音，把音阶练习从“乱逛指板”变成真正有方向的音乐表达。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Why the 3rd matters so much\nCompare these chord tones:\n- **Root**: stable, obvious, safe\n- **5th**: solid, but not very revealing\n- **3rd**: the note that instantly tells the chord's character\n\nOver **C major**, the note **E** is the 3rd. Over **A minor**, the note **C** is the 3rd. When you land on those notes at the right moment, your line suddenly sounds connected to the backing track instead of floating above it.\n\nThink of the 3rd as the note that says, \"Yes, I know exactly what chord just arrived.\"",
+          "pt-BR": "# Por que a terça importa tanto\nCompare estas funções:\n- **Tônica**: estável, óbvia, segura\n- **Quinta**: sólida, mas não entrega muito\n- **Terça**: a nota que revela o caráter do acorde na hora\n\nSobre **C maior**, a nota **E** é a terça. Sobre **A menor**, a nota **C** é a terça. Quando você pousa nessas notas no momento certo, a frase passa a soar ligada ao acompanhamento, em vez de flutuar por cima dele.\n\nPense na terça como a nota que diz: \"Sim, eu sei exatamente qual acorde acabou de chegar.\"",
+          "es": "# Por qué la tercera importa tanto\nCompara estas funciones:\n- **Tónica**: estable, obvia, segura\n- **Quinta**: sólida, pero no revela demasiado\n- **Tercera**: la nota que muestra el carácter del acorde al instante\n\nSobre **Do mayor**, la nota **Mi** es la tercera. Sobre **La menor**, la nota **Do** es la tercera. Cuando aterrizas en esas notas justo en el momento correcto, tu frase empieza a sonar conectada con la base en vez de flotar por encima.\n\nPiensa en la tercera como la nota que dice: \"Sí, sé exactamente qué acorde acaba de llegar\".",
+          "de": "# Warum die Terz so wichtig ist\nVergleiche diese Akkordtöne:\n- **Grundton**: stabil, offensichtlich, sicher\n- **Quinte**: solide, aber wenig aussagekräftig\n- **Terz**: der Ton, der den Charakter des Akkords sofort zeigt\n\nÜber **C-Dur** ist **E** die Terz. Über **A-Moll** ist **C** die Terz. Wenn du genau im richtigen Moment auf diesen Tönen landest, klingt deine Linie plötzlich mit dem Playback verbunden statt darüber zu schweben.\n\nDenk an die Terz als den Ton, der sagt: \"Ja, ich weiß genau, welcher Akkord gerade angekommen ist.\"",
+          "ja": "# なぜ3度がそんなに大事なのか\n次の役割を比べてみましょう。\n- **ルート**: 安定していてわかりやすい\n- **5度**: しっかりしているが情報量は少なめ\n- **3度**: コードのキャラクターを一瞬で示す音\n\n**Cメジャー** では **E** が3度です。**Aマイナー** では **C** が3度です。コードが変わるちょうどその瞬間にその音へ着地できると、フレーズは伴奏から浮くのではなく、しっかり結びついて聞こえます。\n\n3度は「今来たコードをちゃんと理解しています」と言ってくれる音だと思ってください。",
+          "zh-Hans": "# 为什么三音这么重要\n比较一下这些和弦音：\n- **根音**：稳定、明显、安全\n- **五音**：扎实，但信息量不大\n- **三音**：能瞬间说明和弦性格的音\n\n在 **C 大调和弦** 上，**E** 是三音。在 **A 小调和弦** 上，**C** 是三音。当你在正确的时刻落到这些音上时，乐句会突然和伴奏紧紧连在一起，而不是飘在上面。\n\n可以把三音理解成那个会说：“没错，我知道现在到了哪个和弦。” 的音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mini map: a friendly progression\nUse this progression:\n**| C | Am | F | G |**\n\nYour target notes are:\n- Over **C**, target **E**\n- Over **Am**, target **C**\n- Over **F**, target **A**\n- Over **G**, target **B**\n\nStay in one comfortable position and use the **C major scale** as your note pool. The challenge is not to play more notes. The challenge is to make sure your phrase **arrives** on the right one when the chord changes.",
+          "pt-BR": "# Mini mapa: uma progressão amigável\nUse esta progressão:\n**| C | Am | F | G |**\n\nSuas notas-alvo são:\n- Sobre **C**, mire em **E**\n- Sobre **Am**, mire em **C**\n- Sobre **F**, mire em **A**\n- Sobre **G**, mire em **B**\n\nFique em uma posição confortável e use a **escala de C maior** como seu conjunto de notas. O desafio não é tocar mais. O desafio é fazer a frase **chegar** na nota certa quando o acorde mudar.",
+          "es": "# Mini mapa: una progresión amable\nUsa esta progresión:\n**| C | Am | F | G |**\n\nTus notas objetivo son:\n- Sobre **C**, apunta a **E**\n- Sobre **Am**, apunta a **C**\n- Sobre **F**, apunta a **A**\n- Sobre **G**, apunta a **B**\n\nQuédate en una posición cómoda y usa la **escala de Do mayor** como tu reserva de notas. El reto no es tocar más. El reto es hacer que la frase **llegue** a la nota correcta cuando cambia el acorde.",
+          "de": "# Mini-Karte: eine freundliche Progression\nNutze diese Progression:\n**| C | Am | F | G |**\n\nDeine Zieltöne sind:\n- Über **C** ziele auf **E**\n- Über **Am** ziele auf **C**\n- Über **F** ziele auf **A**\n- Über **G** ziele auf **B**\n\nBleib in einer bequemen Lage und nutze die **C-Dur-Tonleiter** als Tonvorrat. Die Aufgabe ist nicht, mehr Noten zu spielen. Die Aufgabe ist, dass deine Phrase beim Akkordwechsel auf dem richtigen Ton **ankommt**.",
+          "ja": "# ミニ地図: やさしい進行\nこの進行を使います。\n**| C | Am | F | G |**\n\n狙う音は次の通りです。\n- **C** では **E** を狙う\n- **Am** では **C** を狙う\n- **F** では **A** を狙う\n- **G** では **B** を狙う\n\n弾きやすいポジションにとどまり、音の材料は **Cメジャースケール** にします。課題は音数を増やすことではありません。コードが変わった瞬間に、フレーズが正しい音へ **到着** することです。",
+          "zh-Hans": "# 小地图：一个友好的进行\n使用这个进行：\n**| C | Am | F | G |**\n\n你的目标音是：\n- 在 **C** 上，瞄准 **E**\n- 在 **Am** 上，瞄准 **C**\n- 在 **F** 上，瞄准 **A**\n- 在 **G** 上，瞄准 **B**\n\n待在一个舒服的把位里，用 **C 大调音阶** 作为你的音池。挑战不是弹更多音，而是让你的乐句在和弦变化时 **准确到达** 正确的音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Practice game: late, early, perfect\nPlay short 2-beat or 1-bar phrases and experiment with three versions:\n1. Land on the target note **too early**\n2. Land on it **exactly on the chord change**\n3. Land on it **slightly late**\n\nListen carefully. The \"exactly on the change\" version usually sounds the most confident. The early and late versions are useful too, because they teach you how timing changes the emotional pull of the line.\n\nThis is where rhythm and harmony become teammates.",
+          "pt-BR": "# Jogo de prática: cedo, tarde, perfeito\nToque frases curtas de 2 tempos ou 1 compasso e experimente três versões:\n1. Chegar na nota-alvo **cedo demais**\n2. Chegar **exatamente na troca de acorde**\n3. Chegar **um pouco atrasado**\n\nOuça com atenção. A versão \"bem na troca\" costuma soar a mais confiante. As outras duas também servem, porque mostram como o timing muda a tensão e o empurrão emocional da frase.\n\nÉ aqui que ritmo e harmonia viram parceiros de verdade.",
+          "es": "# Juego de práctica: tarde, pronto, perfecto\nToca frases cortas de 2 tiempos o 1 compás y prueba tres versiones:\n1. Llegar a la nota objetivo **demasiado pronto**\n2. Llegar **justo en el cambio de acorde**\n3. Llegar **un poco tarde**\n\nEscucha con atención. La versión \"justo en el cambio\" suele sonar más segura. Las otras dos también son útiles, porque te enseñan cómo el tiempo cambia la tensión emocional de la frase.\n\nAquí es donde ritmo y armonía se vuelven compañeros.",
+          "de": "# Übungsspiel: früh, spät, perfekt\nSpiele kurze Phrasen über 2 Zählzeiten oder 1 Takt und probiere drei Varianten:\n1. Auf dem Zielton **zu früh** landen\n2. **Genau beim Akkordwechsel** landen\n3. **Etwas zu spät** landen\n\nHör genau hin. Die Version \"genau auf dem Wechsel\" klingt meist am sichersten. Die frühen und späten Varianten helfen ebenfalls, weil sie zeigen, wie Timing den emotionalen Zug einer Phrase verändert.\n\nHier arbeiten Rhythmus und Harmonie als Team.",
+          "ja": "# 練習ゲーム: 早い、遅い、ぴったり\n2拍や1小節の短いフレーズを作り、次の3パターンを試しましょう。\n1. ターゲットノートに **早く着きすぎる**\n2. **コードチェンジの瞬間にぴったり** 着く\n3. **少し遅れて** 着く\n\nよく聴くと、「ちょうど変化の瞬間」のバージョンが最も自信ありげに聞こえることが多いです。早い着地や遅い着地も、タイミングがフレーズの引力をどう変えるかを教えてくれます。\n\nここでリズムとハーモニーがチームになります。",
+          "zh-Hans": "# 练习游戏：早一点、晚一点、刚刚好\n弹一些 2 拍或 1 小节的短句，分别尝试这三种版本：\n1. **太早** 落到目标音上\n2. **正好在换和弦时** 落到目标音上\n3. **稍微晚一点** 才落到目标音上\n\n仔细听。通常“刚好在变化点上”的版本会显得最有把握。早一点和晚一点也很有价值，因为它们会让你体会到节奏如何改变乐句的情绪拉力。\n\n这就是节奏和和声开始联手的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Musical challenge\nCreate four mini phrases, one for each chord, with these rules:\n- Start each phrase on a different scale note\n- End each phrase on that chord's **3rd**\n- Use at least one slide, hammer-on, or bend somewhere in the chorus\n- Leave at least one small silence so the line can breathe\n\nBonus challenge: play the same chorus again, but make the target notes happen with **less motion**. Lazy hands, smart ears.",
+          "pt-BR": "# Desafio musical\nCrie quatro mini frases, uma para cada acorde, com estas regras:\n- Comece cada frase em uma nota diferente da escala\n- Termine cada frase na **terça** daquele acorde\n- Use pelo menos um slide, hammer-on ou bend em algum ponto do chorus\n- Deixe pelo menos um pequeno silêncio para a frase respirar\n\nDesafio extra: toque o mesmo chorus de novo, mas faça as notas-alvo acontecerem com **menos movimento**. Mão preguiçosa, ouvido esperto.",
+          "es": "# Desafío musical\nCrea cuatro mini frases, una para cada acorde, con estas reglas:\n- Empieza cada frase desde una nota distinta de la escala\n- Termina cada frase en la **tercera** de ese acorde\n- Usa al menos un slide, hammer-on o bend en algún momento del chorus\n- Deja al menos un pequeño silencio para que la frase respire\n\nDesafío extra: toca el mismo chorus otra vez, pero haz que las notas objetivo aparezcan con **menos movimiento**. Manos tranquilas, oído despierto.",
+          "de": "# Musikalische Herausforderung\nErfinde vier Mini-Phrasen, eine pro Akkord, mit diesen Regeln:\n- Jede Phrase beginnt auf einem anderen Skalenton\n- Jede Phrase endet auf der **Terz** des jeweiligen Akkords\n- Verwende irgendwo im Chorus mindestens einen Slide, Hammer-on oder Bend\n- Lass mindestens eine kleine Pause, damit die Linie atmen kann\n\nBonus: Spiele denselben Chorus noch einmal, aber lass die Zieltöne mit **weniger Bewegung** entstehen. Faule Hände, kluge Ohren.",
+          "ja": "# 音楽的チャレンジ\n各コードに対して1つずつ、合計4つのミニフレーズを作ってください。ルールは次の通りです。\n- 各フレーズは違うスケール音から始める\n- 各フレーズはそのコードの **3度** で終える\n- コーラスのどこかでスライド、ハンマリング、またはベンドを1回以上使う\n- 少なくとも1か所、小さな休符を入れて息をさせる\n\n追加チャレンジ: 同じコーラスをもう一度弾き、**より少ない動き** でターゲットノートに着地してみましょう。手は省エネ、耳は賢く。",
+          "zh-Hans": "# 音乐挑战\n写出四个迷你乐句，每个和弦对应一个，并遵守这些规则：\n- 每个乐句从不同的音阶音开始\n- 每个乐句都落在该和弦的 **三音** 上结束\n- 整个一遍里至少使用一次滑音、击弦或推弦\n- 至少留出一次小停顿，让乐句会呼吸\n\n加分挑战：再弹一遍同样的进行，但用 **更少的手部移动** 完成这些目标音。手越省，耳越聪明。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Take it into real improvisation\nWhen you improvise, you do not need to think about target notes on every single beat. But if you can hear and find the 3rd when a chord arrives, your solos gain direction fast.\n\nTry recording yourself over **| C | Am | F | G |**. Then ask:\n- Did the chord changes sound clear in my line?\n- Did I rush past the target notes?\n- Did the phrase sound sung, or just fingered?\n\nA great improviser does not only know scales. They know where the important notes live, and they show up there on purpose.",
+          "pt-BR": "## Leve isso para a improvisação real\nAo improvisar, você não precisa pensar em notas-alvo a cada batida. Mas se consegue ouvir e achar a terça quando o acorde chega, seu solo ganha direção muito rápido.\n\nTente gravar sobre **| C | Am | F | G |** e depois pergunte:\n- As mudanças de acorde ficaram claras na minha frase?\n- Passei correndo pelas notas-alvo?\n- Soou cantável ou apenas \"dedilhado\"?\n\nUm grande improvisador não conhece só escalas. Ele sabe onde moram as notas importantes e aparece nelas de propósito.",
+          "es": "## Llévalo a la improvisación real\nCuando improvisas, no hace falta pensar en notas objetivo en cada pulso. Pero si puedes oír y encontrar la tercera cuando llega el acorde, tus solos ganan dirección muy rápido.\n\nGrábate sobre **| C | Am | F | G |** y pregúntate:\n- ¿Se entendieron los cambios de acorde en mi frase?\n- ¿Pasé demasiado rápido por las notas objetivo?\n- ¿La frase sonó cantable o solo mecánica?\n\nUn gran improvisador no solo conoce escalas. Sabe dónde viven las notas importantes y aparece allí con intención.",
+          "de": "## In echte Improvisation übertragen\nBeim Improvisieren musst du nicht auf jedem Schlag an Zielnoten denken. Aber wenn du die Terz beim Eintreffen des Akkords hören und finden kannst, bekommen deine Soli sehr schnell Richtung.\n\nNimm dich über **| C | Am | F | G |** auf und frage dich:\n- Waren die Akkordwechsel in meiner Linie klar hörbar?\n- Bin ich an den Zieltönen vorbeigehetzt?\n- Klang die Phrase gesungen oder nur gegriffen?\n\nEin guter Improvisator kennt nicht nur Skalen. Er weiß, wo die wichtigen Töne wohnen, und trifft sie mit Absicht.",
+          "ja": "## 実際の即興へ持ち込む\n即興では、毎拍ターゲットノートを考え続ける必要はありません。でもコードが来た瞬間に3度を聴き取り、見つけられるなら、ソロは一気に方向感を持ちます。\n\n**| C | Am | F | G |** の上で自分を録音して、次を確認してください。\n- フレーズの中でコードチェンジがはっきり聞こえたか\n- ターゲットノートを急いで通り過ぎていないか\n- フレーズが歌っているように聞こえるか、それとも指だけで動いているか\n\n優れた即興者はスケールを知っているだけではありません。大事な音がどこにあるかを知り、そこへ意図して到着します。",
+          "zh-Hans": "## 带进真实即兴里\n即兴时，你不必每一拍都想着目标音。但如果在和弦到来时，你能听到并找到三音，你的独奏会很快拥有明确方向。\n\n试着在 **| C | Am | F | G |** 上录下自己，然后问：\n- 我的乐句里，和弦变化是否足够清楚？\n- 我是不是太快掠过了目标音？\n- 乐句听起来像在歌唱，还是只是手指在跑？\n\n优秀的即兴演奏者不只是知道音阶。他们知道重要的音住在哪里，并且会有意识地去那里。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-14T00:08:48Z",
+  "updatedAt": "2026-04-14T00:08:48Z"
+}

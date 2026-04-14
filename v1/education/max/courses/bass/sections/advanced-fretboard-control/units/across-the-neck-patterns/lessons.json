@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "diagonal-major-scale-relay-on-bass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Diagonal Major Scale Relay on Bass",
+        "pt-BR": "Revezamento diagonal da escala maior no baixo",
+        "es": "Relevo diagonal de la escala mayor en bajo",
+        "de": "Diagonale Durtonleiter-Staffel auf dem Bass",
+        "ja": "ベースでの対角線メジャースケール・リレー",
+        "zh-Hans": "贝斯上的对角大调音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect one major scale across strings and positions without losing groove or note clarity.",
+        "pt-BR": "Conecte uma escala maior por cordas e posições diferentes sem perder groove nem clareza das notas.",
+        "es": "Conecta una escala mayor a través de cuerdas y posiciones sin perder groove ni claridad.",
+        "de": "Verbinde eine Durtonleiter über Saiten und Lagen hinweg, ohne Groove oder Tonklarheit zu verlieren.",
+        "ja": "グルーヴと発音の明瞭さを保ちながら、1つのメジャースケールを複数の弦とポジションでつなげます。",
+        "zh-Hans": "在不丢掉律动和发音清晰度的前提下，把一个大调音阶跨弦跨把位连起来。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-14T00:10:34Z",
+    "updatedAt": "2026-04-14T00:10:34Z"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "id": "diagonal-major-scale-relay-on-bass",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Diagonal major scale relay on bass\nMany bass players learn scales in neat boxes, then get stuck there like the neck suddenly turns into lava outside the shape. This lesson is about escaping the box by moving **diagonally** across the fingerboard while keeping the groove calm and solid.\n\nYour mission: connect one major scale through multiple strings and positions without sounding like a panicked exercise robot.",
+          "pt-BR": "# Revezamento diagonal da escala maior no baixo\nMuitos baixistas aprendem escalas em boxes bonitinhos e depois ficam presos neles, como se o braço virasse lava fora do desenho. Esta lição é sobre escapar do box movendo-se **na diagonal** pelo braço sem perder o groove nem a firmeza do som.\n\nSua missão: conectar uma escala maior por várias cordas e posições sem soar como um exercício em pânico.",
+          "es": "# Relevo diagonal de la escala mayor en bajo\nMuchos bajistas aprenden escalas en cajas ordenadas y luego se quedan atrapados allí, como si el mástil se volviera lava fuera del dibujo. Esta lección trata de salir de la caja moviéndote **en diagonal** por el diapasón sin perder groove ni solidez.\n\nTu misión: conectar una escala mayor por varias cuerdas y posiciones sin sonar como un robot de ejercicio nervioso.",
+          "de": "# Diagonale Durtonleiter-Staffel auf dem Bass\nViele Bassistinnen und Bassisten lernen Skalen in sauberen Boxen und bleiben dann darin stecken, als wäre der Rest des Halses plötzlich Lava. In dieser Lektion befreist du dich aus der Box, indem du dich **diagonal** über das Griffbrett bewegst, ohne Groove oder Stabilität zu verlieren.\n\nDeine Mission: eine Durtonleiter über mehrere Saiten und Lagen verbinden, ohne wie ein nervöses Technikprogramm zu klingen.",
+          "ja": "# ベースでの対角線メジャースケール・リレー\n多くのベーシストはスケールをきれいなボックスで覚えますが、その外に出ると急に指板が溶岩になったみたいに動けなくなります。このレッスンでは、**対角線方向** に指板を移動しながら、グルーヴを崩さずにボックスを抜け出します。\n\nミッションは、1つのメジャースケールを複数の弦とポジションにまたがってつなぎつつ、焦った練習マシンのように聞こえないようにすることです。",
+          "zh-Hans": "# 贝斯上的对角大调音阶接力\n很多贝斯手把音阶学成整齐的盒子，一离开那个图形就像指板外面全是岩浆。这节课要做的，就是在保持律动稳定的同时，沿着指板 **对角线移动**，从盒子里走出来。\n\n你的任务是：把一个大调音阶跨越多根弦和多个把位连接起来，同时不要听起来像一台慌张的练习机器人。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What diagonal movement really means\nVertical playing keeps you mostly in one position. Diagonal playing means you gradually shift up or down the neck as the scale continues.\n\nFor example, in **G major** you might:\n- start on low **G** at the 3rd fret of the E string\n- continue through the scale\n- shift smoothly so the line climbs into a new position instead of staying trapped in one box\n\nThe goal is not flashy movement. The goal is to make the whole neck feel like one connected map.",
+          "pt-BR": "# O que movimento diagonal realmente significa\nTocar na vertical mantém você quase sempre na mesma posição. Tocar na diagonal significa subir ou descer pelo braço aos poucos enquanto a escala continua.\n\nPor exemplo, em **Sol maior (G)** você pode:\n- começar no **G** grave da 3ª casa da corda E\n- continuar pela escala\n- mudar de posição suavemente para a linha subir pelo braço em vez de ficar presa num único box\n\nA meta não é fazer movimento chamativo. A meta é sentir o braço inteiro como um mapa só.",
+          "es": "# Qué significa realmente moverse en diagonal\nTocar en vertical te mantiene casi siempre en la misma posición. Tocar en diagonal significa subir o bajar por el mástil poco a poco mientras la escala continúa.\n\nPor ejemplo, en **Sol mayor (G)** puedes:\n- empezar en el **G** grave del traste 3 de la cuerda E\n- seguir con la escala\n- cambiar de posición con suavidad para que la línea suba por el mástil en vez de quedarse encerrada en una sola caja\n\nLa meta no es moverse de forma llamativa. La meta es sentir todo el mástil como un solo mapa conectado.",
+          "de": "# Was diagonale Bewegung wirklich bedeutet\nVertikales Spiel hält dich meist in einer Lage. Diagonales Spiel bedeutet, dass du beim Weiterlaufen der Skala nach und nach auf dem Hals nach oben oder unten wanderst.\n\nIn **G-Dur** könntest du zum Beispiel:\n- mit dem tiefen **G** im 3. Bund der E-Saite beginnen\n- die Skala fortsetzen\n- sanft die Lage wechseln, damit die Linie auf dem Hals aufsteigt, statt in einer einzigen Box gefangen zu bleiben\n\nDas Ziel ist nicht spektakuläre Bewegung. Das Ziel ist, den ganzen Hals als zusammenhängende Karte zu fühlen.",
+          "ja": "# 対角線移動とは何か\n縦方向の演奏は、ほぼ同じポジションにとどまります。対角線移動とは、スケールを続けながら少しずつネックの上や下へ移っていくことです。\n\nたとえば **Gメジャー** なら、\n- E弦3フレットの低い **G** から始める\n- そのままスケールを続ける\n- 新しいポジションへ自然に移って、1つの箱に閉じ込められずにラインを上昇させる\n\n目的は派手な移動ではありません。ネック全体を1枚のつながった地図として感じることです。",
+          "zh-Hans": "# 什么叫对角线移动\n纵向弹法通常让你待在同一个把位附近。对角线移动则意味着在继续弹音阶的同时，逐步沿着琴颈向上或向下移动。\n\n比如在 **G 大调** 中，你可以：\n- 从 E 弦 3 品的低音 **G** 开始\n- 继续往上弹音阶\n- 平滑地换把，让乐句进入新的位置，而不是被困在一个盒子里\n\n目标不是炫耀移动，而是让整条琴颈都像一张连贯的地图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Your route in G major\nUse this note path as a guide:\n- **G A B** on the E string / A string area\n- **C D E** across the A and D strings\n- **F# G** as you shift into the next position\n\nPlay slowly and say the note names out loud if needed. Watch for two common problems:\n1. The shift makes the time wobble\n2. The new note speaks weaker than the old one\n\nIf either happens, slow down and make the move smaller and smoother.",
+          "pt-BR": "# Seu caminho em G maior\nUse este trajeto como guia:\n- **G A B** na região entre as cordas E e A\n- **C D E** atravessando as cordas A e D\n- **F# G** enquanto você entra na próxima posição\n\nToque devagar e diga os nomes das notas em voz alta se precisar. Observe dois problemas comuns:\n1. A troca de posição balança o tempo\n2. A nota nova sai mais fraca que a anterior\n\nSe qualquer um deles acontecer, diminua o andamento e faça a transição menor e mais suave.",
+          "es": "# Tu ruta en G mayor\nUsa este recorrido como guía:\n- **G A B** en la zona de las cuerdas E y A\n- **C D E** cruzando las cuerdas A y D\n- **F# G** mientras entras en la siguiente posición\n\nToca despacio y di los nombres de las notas en voz alta si hace falta. Vigila dos problemas típicos:\n1. El cambio de posición hace tambalear el tiempo\n2. La nueva nota suena más débil que la anterior\n\nSi pasa cualquiera de las dos cosas, baja el tempo y haz el movimiento más pequeño y suave.",
+          "de": "# Deine Route in G-Dur\nNutze diesen Weg als Orientierung:\n- **G A B** im Bereich von E- und A-Saite\n- **C D E** über A- und D-Saite hinweg\n- **F# G** beim Wechsel in die nächste Lage\n\nSpiele langsam und sprich die Notennamen bei Bedarf laut mit. Achte auf zwei typische Probleme:\n1. Der Lagenwechsel bringt das Timing ins Wanken\n2. Der neue Ton klingt schwächer als der vorherige\n\nFalls eines davon passiert, reduziere das Tempo und mache die Bewegung kleiner und flüssiger.",
+          "ja": "# Gメジャーでのルート\n次の音の流れを目安にしてください。\n- E弦とA弦まわりで **G A B**\n- A弦とD弦をまたいで **C D E**\n- 次のポジションへ入るときに **F# G**\n\nゆっくり弾き、必要なら音名を声に出しましょう。よくある問題は2つです。\n1. ポジション移動でテンポが揺れる\n2. 新しい音の発音が前の音より弱くなる\n\nどちらかが起きたら、テンポを落として動きをもっと小さく滑らかにしてください。",
+          "zh-Hans": "# 你的 G 大调路线\n可以先按这条路线来：\n- 在 E 弦和 A 弦区域弹 **G A B**\n- 跨 A 弦和 D 弦弹 **C D E**\n- 换到下一把位时弹 **F# G**\n\n慢慢弹，必要时把音名念出来。注意两个常见问题：\n1. 换把让节奏开始摇晃\n2. 新位置上的音比前一个音更虚弱\n\n如果出现任意一种情况，就放慢速度，让动作更小、更顺。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove first, travel second\nSet a metronome to a relaxed tempo. Play the scale in quarter notes, then eighth notes, while keeping every note the same length and weight.\n\nNow add this rule: when you shift positions, your plucking hand must stay as steady as your fretting hand. No dramatic rescue attack, no mystery accent, no \"oops-here-comes-the-shift\" face.\n\nA good diagonal scale should sound like a bass line that happens to travel, not a travel plan that happens to use bass.",
+          "pt-BR": "# Groove primeiro, viagem depois\nColoque o metrônomo em um andamento confortável. Toque a escala em semínimas e depois em colcheias, mantendo todas as notas com o mesmo peso e duração.\n\nAgora adicione esta regra: quando mudar de posição, a mão direita precisa ficar tão estável quanto a esquerda. Nada de ataque dramático para se salvar, nenhum acento misterioso, nenhuma cara de \"ih, chegou a mudança\".\n\nUma boa escala diagonal deve soar como uma linha de baixo que resolveu viajar, não como um plano de viagem usando baixo.",
+          "es": "# Primero el groove, después el viaje\nPon el metrónomo a un tempo relajado. Toca la escala en negras y luego en corcheas, manteniendo todas las notas con el mismo peso y duración.\n\nAhora añade esta regla: cuando cambies de posición, tu mano derecha debe permanecer tan estable como la izquierda. Nada de ataque dramático de rescate, ningún acento misterioso, ninguna cara de \"uy, aquí viene el cambio\".\n\nUna buena escala diagonal debe sonar como una línea de bajo que viaja, no como un plan de viaje tocado en bajo.",
+          "de": "# Erst Groove, dann Reise\nStell das Metronom auf ein entspanntes Tempo. Spiele die Skala in Vierteln, dann in Achteln, und halte jede Note gleich lang und gleich schwer.\n\nJetzt kommt diese Regel dazu: Beim Lagenwechsel muss deine Anschlagshand genauso ruhig bleiben wie die Greifhand. Kein dramatischer Rettungsanschlag, kein geheimnisvoller Akzent, kein \"oh oh, jetzt kommt der Wechsel\"-Gesicht.\n\nEine gute diagonale Skala sollte wie eine Basslinie klingen, die sich bewegt – nicht wie ein Reiseplan mit Bassbegleitung.",
+          "ja": "# 先にグルーヴ、移動はその次\nメトロノームをゆったりしたテンポに設定し、まず4分音符、次に8分音符でスケールを弾きます。すべての音の長さと重さをそろえましょう。\n\nさらにこのルールを加えます。ポジション移動のときも、右手は左手と同じくらい安定していなければなりません。救済アタックも、謎のアクセントも、「やばい移動だ」という顔もなしです。\n\n良い対角線スケールは、移動するための計画ではなく、たまたま移動しているベースラインのように聞こえるべきです。",
+          "zh-Hans": "# 先保住 groove，再谈旅行\n把节拍器调到轻松的速度，先用四分音符弹，再用八分音符弹，保证每个音的长度和力度都尽量一致。\n\n现在加一条规则：换把时，你的右手必须和左手一样稳定。不要突然加重攻击，不要冒出奇怪重音，也不要露出“糟了要换把了”的表情。\n\n好的对角线音阶应该听起来像一条顺便在移动的贝斯线，而不是一份拿贝斯执行的旅行计划。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nCreate a 2-bar groove in G major using only scale notes, with these rules:\n- Start low and finish higher on the neck\n- Include at least one diagonal shift\n- Repeat one rhythmic idea so it still feels groovy\n- End on a strong chord tone: **G**, **B**, or **D**\n\nThen reverse it: start higher and travel back down without the pulse sagging. Bonus points if both versions feel danceable.",
+          "pt-BR": "# Rodada de desafio\nCrie um groove de 2 compassos em G maior usando apenas notas da escala, com estas regras:\n- Comece grave e termine mais agudo no braço\n- Inclua pelo menos uma mudança diagonal\n- Repita uma ideia rítmica para continuar groovando\n- Termine em um tom forte do acorde: **G**, **B** ou **D**\n\nDepois faça o caminho inverso: comece mais agudo e volte descendo sem deixar o pulso cair. Ponto extra se as duas versões derem vontade de mexer a cabeça.",
+          "es": "# Ronda de desafío\nCrea un groove de 2 compases en G mayor usando solo notas de la escala, con estas reglas:\n- Empieza grave y termina más arriba en el mástil\n- Incluye al menos un cambio diagonal\n- Repite una idea rítmica para que siga habiendo groove\n- Termina en un tono fuerte del acorde: **G**, **B** o **D**\n\nLuego haz el camino inverso: empieza arriba y vuelve hacia abajo sin que el pulso se caiga. Puntos extra si ambas versiones hacen mover la cabeza.",
+          "de": "# Herausforderungsrunde\nBaue einen 2-taktigen Groove in G-Dur nur mit Skalennoten und beachte diese Regeln:\n- Starte tief und ende höher auf dem Hals\n- Baue mindestens einen diagonalen Wechsel ein\n- Wiederhole eine rhythmische Idee, damit es groovt\n- Ende auf einem starken Akkordton: **G**, **B** oder **D**\n\nDann dreh die Richtung um: Starte höher und wandere wieder nach unten, ohne dass der Puls absackt. Bonuspunkte, wenn beide Versionen tanzbar wirken.",
+          "ja": "# チャレンジラウンド\nGメジャーで2小節のグルーヴを、スケール音だけで作ってみましょう。条件は次の通りです。\n- 低い音域から始めて、ネックの高い位置で終える\n- 少なくとも1回は対角線の移動を入れる\n- グルーヴ感を保つため、同じリズムのアイデアを1回以上繰り返す\n- 最後は **G**、**B**、**D** のどれかで締める\n\n次に逆方向でもやってみましょう。高い位置から始めて、脈が弱くならないまま下へ戻ります。両方とも体が動きたくなるならボーナスポイントです。",
+          "zh-Hans": "# 挑战回合\n只用 G 大调音阶音，写一个 2 小节 groove，并满足这些条件：\n- 从低音区开始，在更高的把位结束\n- 至少包含一次对角线换把\n- 重复一个节奏想法，让它依然有律动\n- 最后落在强和弦音上：**G**、**B** 或 **D**\n\n然后把方向反过来：从高把位开始往下走，同时不要让脉冲松掉。如果两个版本都让人想点头，那就加分。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Make it musical\nAcross-the-neck playing becomes useful when it helps you reach a better register, shape a phrase, or set up the next bar more naturally.\n\nRecord yourself and check:\n- Did the shift stay in time?\n- Did all notes speak evenly?\n- Did it sound like groove, or just transportation?\n\nThe best bass movement is efficient. If the listener notices the shift less than the groove, you are doing it right.",
+          "pt-BR": "## Transforme isso em música\nTocar pelo braço todo fica útil quando ajuda você a encontrar um registro melhor, desenhar uma frase ou preparar o próximo compasso com mais naturalidade.\n\nGrave-se e confira:\n- A mudança ficou no tempo?\n- Todas as notas saíram com volume parecido?\n- Soou como groove ou só como deslocamento?\n\nO melhor movimento no baixo é eficiente. Se o ouvinte percebe menos a mudança do que o groove, você acertou.",
+          "es": "## Vuelve esto música\nTocar a lo largo del mástil se vuelve útil cuando te ayuda a encontrar un mejor registro, dar forma a una frase o preparar el siguiente compás con más naturalidad.\n\nGrábate y revisa:\n- ¿El cambio quedó en tiempo?\n- ¿Todas las notas sonaron con volumen parejo?\n- ¿Sonó a groove o solo a desplazamiento?\n\nEl mejor movimiento en el bajo es eficiente. Si el oyente nota menos el cambio que el groove, lo estás haciendo bien.",
+          "de": "## Mach Musik daraus\nDas Spiel über den ganzen Hals wird dann nützlich, wenn es dir hilft, ein besseres Register zu erreichen, eine Phrase zu formen oder den nächsten Takt natürlicher vorzubereiten.\n\nNimm dich auf und prüfe:\n- Blieb der Wechsel im Timing?\n- Klangen alle Töne gleichmäßig?\n- Klang es nach Groove oder nur nach Fortbewegung?\n\nDie beste Bewegung auf dem Bass ist effizient. Wenn der Hörer den Wechsel weniger bemerkt als den Groove, machst du es richtig.",
+          "ja": "## 音楽として使う\nネック全体を使う演奏が本当に役立つのは、より良い音域に行けるとき、フレーズの形を整えられるとき、あるいは次の小節を自然に準備できるときです。\n\n録音して次を確認してください。\n- 移動はテンポの中に収まっていたか\n- すべての音が均等に鳴っていたか\n- グルーヴとして聞こえたか、それともただの移動だったか\n\nベースでの最良の移動は効率的です。聴き手が移動よりグルーヴを強く感じるなら、うまくいっています。",
+          "zh-Hans": "## 把它变成音乐\n跨指板演奏真正有用的时候，是它能帮你找到更合适的音区、塑造乐句，或者更自然地连接到下一小节。\n\n录下自己，然后检查：\n- 换把有没有保持在拍子里？\n- 所有音的发声是否均匀？\n- 听起来像 groove，还是只是移动？\n\n最好的贝斯移动是高效的。如果听众更先注意到 groove，而不是你的换把，那你就做对了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-14T00:10:34Z",
+  "updatedAt": "2026-04-14T00:10:34Z"
+}

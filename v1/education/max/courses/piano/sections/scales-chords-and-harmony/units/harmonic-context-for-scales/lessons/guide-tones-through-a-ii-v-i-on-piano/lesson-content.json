@@ -1,0 +1,86 @@
+{
+  "id": "guide-tones-through-a-ii-v-i-on-piano",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Guide tones through a ii-V-I on piano\nA lot of players know the full scale, the full chord, the full dramatic hand motion... and still make a ii-V-I sound clunky. The secret is often smaller: **guide tones**. These are the notes that reveal the harmony most clearly, especially the **3rd** and **7th** of each chord.\n\nIn this lesson you will make a ii-V-I in C major sound smooth by following those notes like a set of elegant rails.",
+          "pt-BR": "# Guide tones em um ii-V-I no piano\nMuita gente conhece a escala inteira, o acorde inteiro, o gesto dramático inteiro da mão... e mesmo assim faz um ii-V-I soar duro. O segredo muitas vezes é menor: os **guide tones**. São as notas que revelam a harmonia com mais clareza, especialmente a **terça** e a **sétima** de cada acorde.\n\nNesta lição você vai fazer um ii-V-I em Dó maior soar macio seguindo essas notas como se fossem trilhos elegantes.",
+          "es": "# Guide tones en un ii-V-I al piano\nMuchos músicos conocen la escala completa, el acorde completo y hasta el gesto dramático completo de la mano... y aun así hacen que un ii-V-I suene torpe. El secreto suele ser más pequeño: los **guide tones**. Son las notas que muestran la armonía con más claridad, sobre todo la **tercera** y la **séptima** de cada acorde.\n\nEn esta lección harás que un ii-V-I en Do mayor suene fluido siguiendo esas notas como si fueran rieles elegantes.",
+          "de": "# Guide Tones durch ein ii-V-I auf dem Klavier\nViele Spielerinnen und Spieler kennen die ganze Skala, den ganzen Akkord und die ganze dramatische Handbewegung – und trotzdem klingt ein ii-V-I noch holprig. Das Geheimnis ist oft kleiner: **Guide Tones**. Das sind die Töne, die die Harmonie am klarsten zeigen, besonders **Terz** und **Septime** jedes Akkords.\n\nIn dieser Lektion lässt du ein ii-V-I in C-Dur flüssig klingen, indem du diesen Tönen wie eleganten Schienen folgst.",
+          "ja": "# ピアノで ii-V-I を guide tone でつなぐ\nスケール全部、コード全部、手の動きも全部わかっているのに、ii-V-I がまだゴツゴツ聞こえる人は多いです。そこで効いてくるのが **guide tone** です。特に各コードの **3度** と **7度** は、和声の正体をいちばんはっきり見せてくれます。\n\nこのレッスンでは、Cメジャーの ii-V-I を、それらの音を上品なレールのようにたどることで、滑らかに響かせます。",
+          "zh-Hans": "# 在钢琴上用 guide tone 穿过 ii-V-I\n很多人知道完整音阶、完整和弦，手势也很大，但弹出来的 ii-V-I 还是有点笨重。秘诀往往更小：**guide tone**。尤其是每个和弦的 **三音** 和 **七音**，最能清楚地说明和声在做什么。\n\n这节课里，你会通过追踪这些音，让 C 大调里的 ii-V-I 像沿着优雅轨道一样顺滑地连接起来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The progression and the important notes\nUse this progression:\n**| Dm7 | G7 | Cmaj7 |**\n\nNow find the guide tones:\n- **Dm7**: F (3rd) and C (7th)\n- **G7**: B (3rd) and F (7th)\n- **Cmaj7**: E (3rd) and B (7th)\n\nNotice the magic: some notes stay the same, and others move by a tiny step. That is why guide-tone playing feels smooth even when the harmony changes a lot.",
+          "pt-BR": "# A progressão e as notas importantes\nUse esta progressão:\n**| Dm7 | G7 | Cmaj7 |**\n\nAgora encontre os guide tones:\n- **Dm7**: F (terça) e C (sétima)\n- **G7**: B (terça) e F (sétima)\n- **Cmaj7**: E (terça) e B (sétima)\n\nRepare na mágica: algumas notas ficam, outras andam só um passinho. É por isso que tocar guide tones soa tão suave mesmo quando a harmonia muda bastante.",
+          "es": "# La progresión y las notas importantes\nUsa esta progresión:\n**| Dm7 | G7 | Cmaj7 |**\n\nAhora encuentra los guide tones:\n- **Dm7**: F (tercera) y C (séptima)\n- **G7**: B (tercera) y F (séptima)\n- **Cmaj7**: E (tercera) y B (séptima)\n\nFíjate en la magia: algunas notas se quedan, otras se mueven solo un paso pequeño. Por eso tocar con guide tones suena suave incluso cuando la armonía cambia mucho.",
+          "de": "# Die Progression und die wichtigen Töne\nNutze diese Progression:\n**| Dm7 | G7 | Cmaj7 |**\n\nFinde nun die Guide Tones:\n- **Dm7**: F (Terz) und C (Septime)\n- **G7**: B (Terz) und F (Septime)\n- **Cmaj7**: E (Terz) und B (Septime)\n\nAchte auf die Magie: Manche Töne bleiben liegen, andere bewegen sich nur einen kleinen Schritt. Genau deshalb klingt Guide-Tone-Spiel so weich, obwohl sich die Harmonie deutlich verändert.",
+          "ja": "# 進行と大事な音\nこの進行を使います。\n**| Dm7 | G7 | Cmaj7 |**\n\nguide tone は次の通りです。\n- **Dm7**: F（3度）と C（7度）\n- **G7**: B（3度）と F（7度）\n- **Cmaj7**: E（3度）と B（7度）\n\nここで面白いのは、同じ音が残るところと、半音や全音で少しだけ動くところがあることです。だからこそ、和声が大きく変わっても滑らかに聞こえます。",
+          "zh-Hans": "# 进行和关键音\n使用这个进行：\n**| Dm7 | G7 | Cmaj7 |**\n\n先找出 guide tone：\n- **Dm7**：F（三音）和 C（七音）\n- **G7**：B（三音）和 F（七音）\n- **Cmaj7**：E（三音）和 B（七音）\n\n这里的妙处在于：有些音会保持不动，有些音只移动很小一步。正因为如此，即使和声变化明显，guide tone 的弹法也会听起来很顺。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Tiny movement, big result\nTry this with your right hand first:\n- Play **F and C** for Dm7\n- Move to **F and B** for G7\n- Move to **E and B** for Cmaj7\n\nThat is almost nothing physically, but harmonically it says a lot. This is great news for your ears and your hands: you do not always need bigger shapes. Sometimes you need smarter ones.\n\nSay it like this while you play: \"same, down; down, same.\" It helps you feel the voice-leading instead of guessing it.",
+          "pt-BR": "# Pouco movimento, grande resultado\nExperimente isso primeiro com a mão direita:\n- Toque **F e C** para Dm7\n- Vá para **F e B** em G7\n- Vá para **E e B** em Cmaj7\n\nFisicamente é quase nada, mas harmonicamente diz muita coisa. Ótima notícia para o ouvido e para a mão: você nem sempre precisa de shapes maiores. Às vezes precisa de shapes mais inteligentes.\n\nEnquanto toca, diga em voz baixa: \"igual, desce; desce, igual\". Isso ajuda a sentir a condução de vozes.",
+          "es": "# Poco movimiento, gran resultado\nPrueba esto primero con la mano derecha:\n- Toca **F y C** para Dm7\n- Muévete a **F y B** para G7\n- Muévete a **E y B** para Cmaj7\n\nFísicamente es casi nada, pero armónicamente dice muchísimo. Es una gran noticia para tus oídos y tus manos: no siempre necesitas formas más grandes. A veces necesitas formas más inteligentes.\n\nMientras tocas, dilo así: \"igual, baja; baja, igual\". Eso te ayuda a sentir el movimiento de voces.",
+          "de": "# Wenig Bewegung, großer Effekt\nProbiere zuerst mit der rechten Hand:\n- Spiele **F und C** für Dm7\n- Gehe zu **F und B** für G7\n- Gehe zu **E und B** für Cmaj7\n\nKörperlich ist das fast nichts, harmonisch aber enorm aussagekräftig. Gute Nachricht für Ohr und Hand: Du brauchst nicht immer größere Griffe. Manchmal brauchst du klügere.\n\nSag beim Spielen leise: \"gleich, runter; runter, gleich\". So spürst du die Stimmführung, statt sie nur zu erraten.",
+          "ja": "# 小さな動きで大きな効果\nまずは右手だけで次を試してください。\n- Dm7 で **F と C**\n- G7 で **F と B**\n- Cmaj7 で **E と B**\n\n身体的にはほとんど動いていませんが、和声的には非常に多くを語っています。耳にも手にも良い知らせです。いつも大きな形が必要なわけではなく、賢い形が必要なのです。\n\n弾きながら「同じ、下がる; 下がる、同じ」とつぶやいてみてください。声部進行を感覚でつかみやすくなります。",
+          "zh-Hans": "# 小动作，大效果\n先只用右手试试：\n- Dm7 弹 **F 和 C**\n- G7 换成 **F 和 B**\n- Cmaj7 换成 **E 和 B**\n\n从手的动作来看几乎没什么，但在和声上却说了很多话。对耳朵和双手来说，这都是个好消息：你不一定总需要更大的形状，有时候你需要的是更聪明的形状。\n\n边弹边默念：“一样、下行；下行、一样。” 这样能帮你真正感觉到声部连接。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add the scale without losing the line\nOnce the guide tones feel solid, decorate them with notes from the **C major scale**.\n\nRules for the exercise:\n1. Start each bar from one guide tone\n2. Add 2 or 3 passing notes from the scale\n3. End the bar on the next chord's nearest guide tone\n\nThe trick is simple: the scale is the road, but the guide tones are the destinations. If you only drive around and never arrive, the line sounds busy instead of meaningful.",
+          "pt-BR": "# Adicione a escala sem perder a linha\nQuando os guide tones estiverem firmes, enfeite com notas da **escala de Dó maior**.\n\nRegras do exercício:\n1. Comece cada compasso em um guide tone\n2. Adicione 2 ou 3 notas de passagem da escala\n3. Termine o compasso no guide tone mais próximo do acorde seguinte\n\nO truque é simples: a escala é a estrada, mas os guide tones são os destinos. Se você só passeia e nunca chega, a frase soa ocupada demais e pouco clara.",
+          "es": "# Añade la escala sin perder la línea\nCuando los guide tones estén firmes, adórnalos con notas de la **escala de Do mayor**.\n\nReglas del ejercicio:\n1. Empieza cada compás desde un guide tone\n2. Añade 2 o 3 notas de paso de la escala\n3. Termina el compás en el guide tone más cercano del siguiente acorde\n\nEl truco es simple: la escala es el camino, pero los guide tones son el destino. Si solo conduces y nunca llegas, la frase suena ocupada en lugar de significativa.",
+          "de": "# Die Skala hinzufügen, ohne die Linie zu verlieren\nWenn die Guide Tones sicher sitzen, schmücke sie mit Tönen der **C-Dur-Tonleiter** aus.\n\nRegeln für die Übung:\n1. Starte jeden Takt auf einem Guide Tone\n2. Füge 2 oder 3 Durchgangstöne aus der Skala hinzu\n3. Beende den Takt auf dem nächstliegenden Guide Tone des folgenden Akkords\n\nDer Trick ist einfach: Die Skala ist die Straße, aber die Guide Tones sind die Ziele. Wenn du nur herumfährst und nie ankommst, klingt die Linie beschäftigt statt bedeutungsvoll.",
+          "ja": "# スケールを足しても線を見失わない\nguide tone が安定してきたら、**Cメジャースケール** の音で少し飾りを加えましょう。\n\n練習のルール：\n1. 各小節を guide tone から始める\n2. スケールの経過音を 2〜3 音入れる\n3. 小節の終わりを、次のコードのいちばん近い guide tone に着地させる\n\n大事なのは、スケールが道で、guide tone が目的地だということです。走り回るだけで到着しないと、意味のあるフレーズではなく、忙しいだけのフレーズになります。",
+          "zh-Hans": "# 加入音阶，但别丢掉主线\n当 guide tone 稳定以后，再用 **C 大调音阶** 的音给它加一点装饰。\n\n练习规则：\n1. 每小节从一个 guide tone 开始\n2. 加入 2 或 3 个音阶经过音\n3. 在小节末尾落到下一个和弦最近的 guide tone 上\n\n诀窍很简单：音阶是道路，guide tone 是目的地。如果你一直在路上兜圈子却没有到达，乐句听起来就会很忙，却不够有意义。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge: make it sing, not stomp\nCreate a 4-bar phrase over **| Dm7 | G7 | Cmaj7 | Cmaj7 |** with these rules:\n- Right hand must hit at least one guide tone in every bar\n- Left hand should stay light: roots or simple shell voicings only\n- Use one repeated rhythm so the phrase feels organized\n- In bar 4, leave a little space instead of filling everything\n\nBonus challenge: transpose the exact idea to **G major** using **Am7 - D7 - Gmaj7**.",
+          "pt-BR": "# Desafio: faça cantar, não marchar\nCrie uma frase de 4 compassos em **| Dm7 | G7 | Cmaj7 | Cmaj7 |** com estas regras:\n- A mão direita precisa tocar pelo menos um guide tone em cada compasso\n- A mão esquerda deve ficar leve: tônicas ou voicings simples apenas\n- Use um ritmo repetido para a frase ficar organizada\n- No compasso 4, deixe um pouco de espaço em vez de preencher tudo\n\nDesafio extra: transpõe a mesma ideia para **Sol maior** usando **Am7 - D7 - Gmaj7**.",
+          "es": "# Desafío: que cante, no que pise fuerte\nCrea una frase de 4 compases sobre **| Dm7 | G7 | Cmaj7 | Cmaj7 |** con estas reglas:\n- La mano derecha debe tocar al menos un guide tone en cada compás\n- La mano izquierda debe mantenerse ligera: solo tónicas o voicings sencillos\n- Usa un ritmo repetido para que la frase se sienta organizada\n- En el compás 4, deja un poco de espacio en lugar de llenarlo todo\n\nDesafío extra: transpón la misma idea a **Sol mayor** usando **Am7 - D7 - Gmaj7**.",
+          "de": "# Herausforderung: singen lassen, nicht stampfen\nErstelle eine 4-taktige Phrase über **| Dm7 | G7 | Cmaj7 | Cmaj7 |** mit diesen Regeln:\n- Die rechte Hand muss in jedem Takt mindestens einen Guide Tone treffen\n- Die linke Hand bleibt leicht: nur Grundtöne oder einfache Shell-Voicings\n- Nutze einen wiederkehrenden Rhythmus, damit die Phrase organisiert wirkt\n- Lass in Takt 4 etwas Luft, statt alles zu füllen\n\nBonus: Transponiere dieselbe Idee nach **G-Dur** mit **Am7 - D7 - Gmaj7**.",
+          "ja": "# チャレンジ: 踏みつけず、歌わせる\n**| Dm7 | G7 | Cmaj7 | Cmaj7 |** の上で 4 小節のフレーズを作り、次の条件を守ってください。\n- 右手は各小節で少なくとも1つ guide tone を弾く\n- 左手は軽く、ルートかシェル・ボイシングだけにする\n- リズムのアイデアを1つ繰り返して、まとまりを出す\n- 4小節目では全部埋めず、少し余白を残す\n\n追加チャレンジ: まったく同じ考え方を **Gメジャー** の **Am7 - D7 - Gmaj7** に移調する。",
+          "zh-Hans": "# 挑战：让它会唱，而不是只会踩\n在 **| Dm7 | G7 | Cmaj7 | Cmaj7 |** 上写一个 4 小节乐句，并遵守这些规则：\n- 右手每小节至少碰到一个 guide tone\n- 左手保持轻巧，只弹根音或简单 shell voicing\n- 重复一个节奏想法，让乐句有组织感\n- 第 4 小节留一点空间，不要全部塞满\n\n加分挑战：把完全一样的思路移调到 **G 大调**，用 **Am7 - D7 - Gmaj7**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Hear the harmony more clearly\nGuide tones are a cheat code in the best sense. They help you hear what the chords are doing without needing giant voicings every second.\n\nRecord yourself and ask:\n- Did the progression feel connected?\n- Could I hear the pull from ii to V to I?\n- Did my extra scale notes support the harmony or blur it?\n\nWhen your guide tones are strong, even a simple phrase can sound wise, calm, and very grown-up.",
+          "pt-BR": "## Ouça a harmonia com mais clareza\nGuide tones são um atalho brilhante no melhor sentido. Eles ajudam você a ouvir o que os acordes estão fazendo sem precisar usar voicings gigantes o tempo todo.\n\nGrave-se e pergunte:\n- A progressão soou conectada?\n- Deu para ouvir a puxada do ii para o V e para o I?\n- As notas extras da escala ajudaram a harmonia ou embaralharam tudo?\n\nQuando os guide tones estão fortes, até uma frase simples pode soar madura, calma e muito musical.",
+          "es": "## Escucha la armonía con más claridad\nLos guide tones son un truco brillante en el mejor sentido. Te ayudan a oír lo que hacen los acordes sin necesitar voicings enormes a cada segundo.\n\nGrábate y pregúntate:\n- ¿La progresión sonó conectada?\n- ¿Pude oír la atracción de ii hacia V y hacia I?\n- ¿Las notas extra de la escala apoyaron la armonía o la emborronaron?\n\nCuando tus guide tones son fuertes, incluso una frase sencilla puede sonar sabia, tranquila y muy musical.",
+          "de": "## Die Harmonie klarer hören\nGuide Tones sind ein Cheatcode im besten Sinn. Sie helfen dir zu hören, was die Akkorde tun, ohne dass du jede Sekunde riesige Voicings brauchst.\n\nNimm dich auf und frage dich:\n- Klang die Progression verbunden?\n- Konnte ich den Sog von ii zu V zu I hören?\n- Haben meine zusätzlichen Skalentöne die Harmonie gestützt oder verwischt?\n\nWenn deine Guide Tones stark sind, kann sogar eine einfache Phrase klug, ruhig und sehr musikalisch klingen.",
+          "ja": "## 和声がもっとはっきり聞こえるようになる\nguide tone は、良い意味での近道です。毎回大きなボイシングを弾かなくても、コードが何をしているかを耳でつかみやすくなります。\n\n録音して次を確認しましょう。\n- 進行は滑らかにつながって聞こえたか\n- ii から V、そして I への引力が聞こえたか\n- 追加したスケール音は和声を支えたか、それともぼかしたか\n\nguide tone がしっかりしていれば、シンプルなフレーズでも落ち着きと説得力のある響きになります。",
+          "zh-Hans": "## 更清楚地听见和声\nguide tone 是一种很妙的“捷径”。它能帮助你听清和弦在做什么，而不需要每一秒都弹巨大的和弦配置。\n\n录下自己，然后问：\n- 这个进行听起来连贯吗？\n- 我能听见 ii 到 V 再到 I 的吸引力吗？\n- 我加进去的音阶音是在帮助和声，还是把它弄模糊了？\n\n当你的 guide tone 足够稳时，即使简单的乐句也会显得成熟、从容，而且非常有音乐性。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-14T00:11:32Z",
+  "updatedAt": "2026-04-14T00:11:32Z"
+}
