@@ -642,5 +642,33 @@
     "order": 23,
     "createdAt": "2026-04-13T00:07:02Z",
     "updatedAt": "2026-04-13T00:07:02Z"
+  },
+  {
+    "id": "g-major-pocket-pressure-test",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Pocket Pressure Test",
+        "pt-BR": "Teste de Pressão do Pocket em Sol Maior",
+        "es": "Prueba de presión del pocket en Sol mayor",
+        "de": "Pocket-Drucktest in G-Dur",
+        "ja": "Gメジャー・ポケット圧力テスト",
+        "zh-Hans": "G大调 Pocket 压力测试"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build stronger bass groove choices by surviving timed pocket decisions in G major.",
+        "pt-BR": "Fortaleça suas escolhas de groove no baixo sobrevivendo a decisões rápidas de pocket em Sol maior.",
+        "es": "Fortalece tus decisiones de groove en el bajo sobreviviendo a elecciones rápidas de pocket en Sol mayor.",
+        "de": "Stärke deine Bass-Groove-Entscheidungen mit schnellen Pocket-Entscheidungen in G-Dur.",
+        "ja": "Gメジャーで素早いポケット判断を行い、ベースのグルーヴ選択を強くしよう。",
+        "zh-Hans": "在G大调中进行限时 pocket 决策，强化你的贝斯 groove 选择。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-04-15T00:04:12Z",
+    "updatedAt": "2026-04-15T00:04:12Z"
   }
 ]

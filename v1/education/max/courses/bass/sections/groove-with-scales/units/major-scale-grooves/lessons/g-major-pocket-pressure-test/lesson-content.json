@@ -1,0 +1,73 @@
+{
+  "id": "g-major-pocket-pressure-test",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the pocket pressure test. Set a drum loop to **90-102 BPM** and stay in **G major**. Your job is to create a two-bar groove that always starts with **G** on beat 1 and returns to **G** or **D** on the final beat. The trick is that every repetition must make one clear rhythmic decision, not three fuzzy ones.",
+          "pt-BR": "Bem-vindo ao teste de pressão do pocket. Coloque um loop de bateria em **90-102 BPM** e fique em **Sol maior**. Seu trabalho é criar um groove de dois compassos que sempre comece com **G** no tempo 1 e volte para **G** ou **D** no último tempo. O truque é que cada repetição precisa trazer uma decisão rítmica clara, não três decisões confusas.",
+          "es": "Bienvenido a la prueba de presión del pocket. Pon un loop de batería a **90-102 BPM** y quédate en **Sol mayor**. Tu trabajo es crear un groove de dos compases que siempre empiece con **G** en el tiempo 1 y vuelva a **G** o **D** en el último tiempo. El truco es que cada repetición debe tener una decisión rítmica clara, no tres decisiones borrosas.",
+          "de": "Willkommen zum Pocket-Drucktest. Stell einen Drum-Loop auf **90-102 BPM** und bleib in **G-Dur**. Deine Aufgabe ist ein Zwei-Takt-Groove, der immer mit **G** auf Schlag 1 beginnt und auf der letzten Zählzeit zu **G** oder **D** zurückkehrt. Der Trick: Jede Wiederholung braucht eine klare rhythmische Entscheidung, nicht drei verschwommene.",
+          "ja": "ポケット圧力テストへようこそ。ドラムループを **90-102 BPM** に設定し、**Gメジャー** にとどまります。2小節のグルーヴを作り、必ず1拍目を **G** で始め、最後の拍では **G** か **D** に戻ります。コツは、毎回の反復で曖昧な3つの判断ではなく、明確な1つのリズム判断をすることです。",
+          "zh-Hans": "欢迎来到 pocket 压力测试。把鼓循环设在 **90-102 BPM**，并保持在 **G 大调**。你的任务是做一个两小节 groove：第1拍必须从 **G** 开始，最后一拍必须回到 **G** 或 **D**。诀窍是每次重复都只做一个清晰的节奏决定，而不是三个模糊决定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: play only **roots, thirds, fifths, and one passing tone**. Leave at least one eighth-note rest in each bar. If the groove feels empty, resist the urge to overfill it—good bass lines often win by removing clutter.",
+          "pt-BR": "Rodada 1: toque apenas **tônicas, terças, quintas e uma nota de passagem**. Deixe pelo menos uma pausa de colcheia em cada compasso. Se o groove parecer vazio, resista à vontade de preencher demais—boas linhas de baixo muitas vezes vencem tirando excesso.",
+          "es": "Ronda 1: toca solo **tónicas, terceras, quintas y una nota de paso**. Deja al menos un silencio de corchea en cada compás. Si el groove se siente vacío, resiste la tentación de llenarlo demasiado: muchas buenas líneas de bajo ganan quitando ruido.",
+          "de": "Runde 1: Spiele nur **Grundtöne, Terzen, Quinten und einen Durchgangston**. Lass in jedem Takt mindestens eine Achtelpause. Wenn der Groove leer wirkt, widerstehe dem Drang, alles vollzupacken—gute Basslinien gewinnen oft, indem sie Ballast entfernen.",
+          "ja": "ラウンド1：**ルート、3度、5度、そして1つの経過音** だけを使います。各小節に少なくとも1つの8分休符を入れてください。グルーヴが空っぽに感じても、埋めすぎないように。良いベースラインは、余計なものを減らして勝つことが多いです。",
+          "zh-Hans": "第1轮：只用 **根音、三度、五度和一个经过音**。每小节至少留一个八分休止。如果 groove 听起来有点空，也别急着塞满——很多好贝斯线就是靠去掉杂乱取胜。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: keep the same notes, but move one accent to a different part of the bar. Try accenting beat 2, then the \"&\" of 2, then beat 4. Notice how one accent change can make the groove sound relaxed, pushy, or sneaky.",
+          "pt-BR": "Rodada 2: mantenha as mesmas notas, mas mova um acento para outra parte do compasso. Experimente acentuar o tempo 2, depois o \"&\" do 2, depois o tempo 4. Perceba como uma única troca de acento pode deixar o groove relaxado, empurrando ou malandro.",
+          "es": "Ronda 2: mantén las mismas notas, pero mueve un acento a otra parte del compás. Prueba acentuar el tiempo 2, luego el \"&\" de 2 y luego el tiempo 4. Observa cómo un solo cambio de acento puede hacer que el groove suene relajado, empujado o travieso.",
+          "de": "Runde 2: Behalte dieselben Töne, verschiebe aber einen Akzent an eine andere Stelle im Takt. Probier Akzente auf Schlag 2, dann auf das \"&\" von 2, dann auf Schlag 4. Beobachte, wie ein einziger Akzentwechsel den Groove entspannt, drängend oder listig klingen lassen kann.",
+          "ja": "ラウンド2：音は同じまま、アクセントを小節内の別の場所へ動かします。2拍目、2拍目の裏、4拍目を試してください。アクセントを1つ変えるだけで、グルーヴがリラックスしたり、前のめりになったり、いたずらっぽくなったりします。",
+          "zh-Hans": "第2轮：保持音高不变，但把一个重音移到小节的别处。试试重在第2拍、2拍的后半拍，再试第4拍。注意只换一个重音，就能让 groove 听起来放松、前冲或者狡黠。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the pressure test. Give yourself **10 seconds** between takes to say out loud which note will be your landing note and where the rest will go. Then play immediately. Thinking fast without rushing is a real groove skill.",
+          "pt-BR": "A rodada 3 é o teste de pressão. Dê a si mesmo **10 segundos** entre as tomadas para dizer em voz alta qual será sua nota de chegada e onde ficará a pausa. Depois toque imediatamente. Pensar rápido sem correr é uma habilidade real de groove.",
+          "es": "La ronda 3 es la prueba de presión. Date **10 segundos** entre tomas para decir en voz alta cuál será tu nota de llegada y dónde irá el silencio. Luego toca de inmediato. Pensar rápido sin apresurarte es una habilidad real de groove.",
+          "de": "Runde 3 ist der Drucktest. Gib dir zwischen den Takes **10 Sekunden**, um laut zu sagen, welcher Ton dein Landeton sein wird und wo die Pause sitzt. Dann spiel sofort. Schnell denken, ohne zu hetzen, ist echte Groove-Kunst.",
+          "ja": "ラウンド3は圧力テストです。テイクの間に **10秒** だけ使い、着地点の音と休符の位置を声に出して言ってください。そのあとすぐ弾きます。急がずに素早く考えることは、本物のグルーヴ力です。",
+          "zh-Hans": "第3轮是真正的压力测试。每次录制之间只给自己 **10 秒**，大声说出你的落点音会是什么、休止会放在哪里，然后立刻开弹。不慌乱地快速思考，本身就是 groove 能力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final score: record **four takes** and keep only the two that feel easiest to loop forever. If a line is clever but tiring, it loses. Pocket is not just what sounds cool on bar 1—it is what still feels good on bar 17.",
+          "pt-BR": "Pontuação final: grave **quatro tomadas** e fique apenas com as duas que parecem mais fáceis de repetir para sempre. Se a linha é esperta mas cansativa, ela perde. Pocket não é só o que soa legal no compasso 1—é o que ainda soa bem no compasso 17.",
+          "es": "Puntuación final: graba **cuatro tomas** y quédate solo con las dos que parezcan más fáciles de repetir para siempre. Si una línea es lista pero agotadora, pierde. El pocket no es solo lo que suena bien en el compás 1, sino lo que sigue sintiéndose bien en el compás 17.",
+          "de": "Endwertung: Nimm **vier Takes** auf und behalte nur die zwei, die sich am leichtesten endlos loopen lassen. Wenn eine Linie clever, aber anstrengend ist, verliert sie. Pocket ist nicht nur das, was in Takt 1 cool klingt—sondern das, was sich in Takt 17 immer noch gut anfühlt.",
+          "ja": "最終スコア：**4テイク** 録音し、永遠にループしやすい2つだけ残します。賢くても疲れるラインは負けです。ポケットとは1小節目でかっこいいだけでなく、17小節目でもまだ気持ちよいことです。",
+          "zh-Hans": "最终得分：录下 **4 个版本**，只保留那两个最容易无限循环的。如果一句线条很聪明却很累，它就输了。Pocket 不只是第1小节听起来酷，而是到了第17小节仍然舒服。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-15T00:04:12Z",
+  "updatedAt": "2026-04-15T00:04:12Z"
+}

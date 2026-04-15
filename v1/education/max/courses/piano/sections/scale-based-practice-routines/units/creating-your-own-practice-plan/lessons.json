@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2026-04-12T00:04:35Z",
     "updatedAt": "2026-04-12T00:04:35Z"
+  },
+  {
+    "id": "practice-plan-energy-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Plan Energy Map",
+        "pt-BR": "Mapa de Energia do Plano de Estudo",
+        "es": "Mapa de energía del plan de práctica",
+        "de": "Energie-Karte für den Übeplan",
+        "ja": "練習プランのエネルギー地図",
+        "zh-Hans": "练习计划能量地图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a smarter piano scale routine by assigning different jobs to your practice energy.",
+        "pt-BR": "Monte uma rotina de escalas mais inteligente no piano distribuindo funções diferentes para sua energia.",
+        "es": "Construye una rutina de escalas más inteligente asignando trabajos distintos a tu energía de estudio.",
+        "de": "Baue eine klügere Klavier-Skalenroutine, indem du deiner Übeenergie verschiedene Aufgaben gibst.",
+        "ja": "練習エネルギーに役割を割り当てて、より賢いピアノ・スケール習慣を作ろう。",
+        "zh-Hans": "给不同练习能量分配不同任务，建立更聪明的钢琴音阶 routine。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-15T00:04:12Z",
+    "updatedAt": "2026-04-15T00:04:12Z"
   }
 ]

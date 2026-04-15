@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-16T00:05:27Z",
     "updatedAt": "2026-03-16T00:05:27Z"
+  },
+  {
+    "id": "blues-turnaround-target-game",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Turnaround Target Game",
+        "pt-BR": "Jogo de Alvos no Turnaround do Blues",
+        "es": "Juego de objetivos en el turnaround del blues",
+        "de": "Blues-Turnaround-Zielspiel",
+        "ja": "ブルース・ターンアラウンド標的ゲーム",
+        "zh-Hans": "布鲁斯终止式目标游戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your blues phrasing by aiming at strong turnaround notes in A.",
+        "pt-BR": "Treine seu fraseado de blues mirando notas fortes do turnaround em Lá.",
+        "es": "Entrena tu fraseo de blues apuntando a notas fuertes del turnaround en La.",
+        "de": "Trainiere deine Blues-Phrasierung, indem du in A starke Turnaround-Töne ansteuerst.",
+        "ja": "Aのブルースで強いターンアラウンド音を狙い、フレージングを鍛えよう。",
+        "zh-Hans": "在A布鲁斯中瞄准强终止音，训练你的乐句控制。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-15T00:04:12Z",
+    "updatedAt": "2026-04-15T00:04:12Z"
   }
 ]

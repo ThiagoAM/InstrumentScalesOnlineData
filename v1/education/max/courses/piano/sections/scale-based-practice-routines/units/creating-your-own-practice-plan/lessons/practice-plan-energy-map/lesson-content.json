@@ -1,0 +1,73 @@
+{
+  "id": "practice-plan-energy-map",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you are not just practicing—you are **budgeting energy**. Pick **C major, G major, and A minor**, set a timer for **12 minutes**, and divide the session into three jobs: **precision**, **flow**, and **creativity**. The secret of a good practice plan is giving each minute a purpose before your fingers start negotiating.",
+          "pt-BR": "Hoje você não vai apenas estudar—vai **administrar energia**. Escolha **Dó maior, Sol maior e Lá menor**, coloque um timer de **12 minutos** e divida a sessão em três funções: **precisão**, **fluxo** e **criatividade**. O segredo de um bom plano de estudo é dar um propósito a cada minuto antes de os dedos começarem a negociar.",
+          "es": "Hoy no solo vas a practicar: vas a **administrar energía**. Elige **Do mayor, Sol mayor y La menor**, pon un temporizador de **12 minutos** y divide la sesión en tres trabajos: **precisión**, **flujo** y **creatividad**. El secreto de un buen plan de práctica es darle un propósito a cada minuto antes de que tus dedos empiecen a negociar.",
+          "de": "Heute übst du nicht nur—du **verteilst Energie**. Wähle **C-Dur, G-Dur und A-Moll**, stell einen Timer auf **12 Minuten** und teile die Session in drei Aufgaben: **Präzision**, **Flow** und **Kreativität**. Das Geheimnis eines guten Übeplans ist, jeder Minute einen Zweck zu geben, bevor die Finger anfangen zu verhandeln.",
+          "ja": "今日はただ練習するのではなく、**エネルギー配分** を行います。**Cメジャー、Gメジャー、Aマイナー** を選び、タイマーを **12分** に設定し、セッションを **精度**、**流れ**、**創造性** の3つに分けます。良い練習プランの秘密は、指が交渉を始める前に1分ごとの役割を決めることです。",
+          "zh-Hans": "今天你不是单纯练琴，而是在**分配能量预算**。选择 **C大调、G大调 和 A小调**，设一个 **12 分钟** 计时器，把这段练习分成 **精准**、**流动** 和 **创造** 三个任务。好练习计划的秘密，是在手指开始“讨价还价”之前，先给每一分钟定好职责。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Minutes 1-4 are the **precision block**. Play each scale two octaves, hands separately, with a metronome at **72 BPM** in eighth notes. Your mission is quiet accuracy: steady fingers, relaxed wrist, and no heroics.",
+          "pt-BR": "Os minutos 1-4 são o **bloco de precisão**. Toque cada escala em duas oitavas, mãos separadas, com metrônomo em **72 BPM** em colcheias. Sua missão é precisão silenciosa: dedos firmes, punho relaxado e zero heroísmo.",
+          "es": "Los minutos 1-4 son el **bloque de precisión**. Toca cada escala en dos octavas, manos separadas, con metrónomo a **72 BPM** en corcheas. Tu misión es precisión silenciosa: dedos estables, muñeca relajada y cero heroicidades.",
+          "de": "Minute 1-4 sind der **Präzisionsblock**. Spiele jede Skala über zwei Oktaven, Hände getrennt, mit Metronom bei **72 BPM** in Achteln. Deine Mission ist leise Genauigkeit: stabile Finger, lockeres Handgelenk und kein Heldentum.",
+          "ja": "1-4分は **精度ブロック**。各スケールを2オクターブ、片手ずつ、メトロノーム **72 BPM** の8分音符で弾きます。任務は静かな正確さ。指は安定、手首はリラックス、ヒーロー的な無理は不要です。",
+          "zh-Hans": "第1-4分钟是 **精准模块**。每个音阶弹两组八度，双手分开，节拍器设在 **72 BPM**，用八分音符。你的任务是安静而准确：手指稳定，手腕放松，不要逞英雄。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Minutes 5-8 are the **flow block**. Move to hands together, keep the pulse, and connect one scale directly into the next with the smallest possible pause. If the transition feels clumsy, slow down first—smoothness beats pride.",
+          "pt-BR": "Os minutos 5-8 são o **bloco de fluxo**. Passe para mãos juntas, mantenha o pulso e conecte uma escala à outra com a menor pausa possível. Se a transição ficar travada, diminua antes a velocidade—suavidade vale mais que orgulho.",
+          "es": "Los minutos 5-8 son el **bloque de flujo**. Pasa a manos juntas, mantén el pulso y conecta una escala con la siguiente con la menor pausa posible. Si la transición se siente torpe, baja la velocidad primero: la fluidez vale más que el orgullo.",
+          "de": "Minute 5-8 sind der **Flow-Block**. Spiele nun mit beiden Händen, halte den Puls und verbinde eine Skala mit der nächsten mit möglichst wenig Pause. Wenn sich der Übergang holprig anfühlt, werde zuerst langsamer—Geschmeidigkeit schlägt Stolz.",
+          "ja": "5-8分は **流れブロック**。両手に移り、拍を保ったまま、できるだけ短い間で次のスケールへつなぎます。つなぎがぎこちなければ、まずテンポを落としてください。なめらかさはプライドより強いです。",
+          "zh-Hans": "第5-8分钟是 **流动模块**。改成双手一起，保持脉冲，并且用尽可能短的停顿把一个音阶接到下一个音阶。如果转换很笨拙，先放慢——顺畅比逞强重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Minutes 9-10 are the **creativity block**. For each scale, invent one tiny pattern: maybe **1-2-3-5**, a contrary-motion idea, or a rhythm with one rest. The pattern should still teach you something, not just decorate the keyboard.",
+          "pt-BR": "Os minutos 9-10 são o **bloco de criatividade**. Para cada escala, invente um mini padrão: talvez **1-2-3-5**, uma ideia em movimento contrário ou um ritmo com uma pausa. O padrão ainda deve ensinar algo, não apenas enfeitar o teclado.",
+          "es": "Los minutos 9-10 son el **bloque de creatividad**. Para cada escala, inventa un patrón pequeño: quizá **1-2-3-5**, una idea en movimiento contrario o un ritmo con un silencio. El patrón debe seguir enseñándote algo, no solo decorar el teclado.",
+          "de": "Minute 9-10 sind der **Kreativblock**. Erfinde für jede Skala ein kleines Muster: zum Beispiel **1-2-3-5**, eine Gegenbewegung oder einen Rhythmus mit einer Pause. Das Muster soll dir weiter etwas beibringen und nicht nur die Tastatur dekorieren.",
+          "ja": "9-10分は **創造性ブロック**。各スケールで小さなパターンを1つ作ります。たとえば **1-2-3-5**、反行のアイデア、あるいは休符を含むリズムです。そのパターンは飾りではなく、何かを教えてくれるものであるべきです。",
+          "zh-Hans": "第9-10分钟是 **创造模块**。每个音阶发明一个小模式：比如 **1-2-3-5**、反向进行，或者带一个休止的节奏。这个模式应该继续教会你东西，而不是只是在键盘上做装饰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Minutes 11-12 are the **coach block**. Play one final pass, then say out loud what improved, what still feels shaky, and what tomorrow's first minute should attack. A strong practice plan does not end with random hope—it ends with a next move.",
+          "pt-BR": "Os minutos 11-12 são o **bloco do treinador**. Toque uma última passada e diga em voz alta o que melhorou, o que ainda parece instável e o que o primeiro minuto de amanhã deve atacar. Um bom plano de estudo não termina em esperança aleatória—termina com o próximo passo.",
+          "es": "Los minutos 11-12 son el **bloque del entrenador**. Toca una última pasada y di en voz alta qué mejoró, qué sigue inestable y qué debe atacar el primer minuto de mañana. Un plan de práctica fuerte no termina con esperanza al azar: termina con un siguiente movimiento.",
+          "de": "Minute 11-12 sind der **Coach-Block**. Spiele einen letzten Durchgang und sag laut, was besser wurde, was noch wackelt und worauf sich die erste Minute morgen stürzen soll. Ein starker Übeplan endet nicht mit vager Hoffnung—sondern mit dem nächsten Zug.",
+          "ja": "11-12分は **コーチ・ブロック**。最後に1回通し、何が良くなったか、何がまだ不安定か、明日の最初の1分で何を攻めるべきかを声に出して言いましょう。強い練習プランは、なんとなく終わらず、次の一手で終わります。",
+          "zh-Hans": "第11-12分钟是 **教练模块**。最后完整弹一遍，然后大声说出：什么进步了，什么还不稳，明天的第1分钟该先攻哪里。一个强练习计划不会以模糊希望结束——它会以明确的下一步结束。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-15T00:04:12Z",
+  "updatedAt": "2026-04-15T00:04:12Z"
+}
