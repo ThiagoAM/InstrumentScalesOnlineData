@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-04-13T00:06:06Z",
     "updatedAt": "2026-04-13T00:06:06Z"
+  },
+  {
+    "id": "one-string-escape-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "One-String Escape Etude",
+        "pt-BR": "Estudo de Fuga em Uma Corda",
+        "es": "Estudio de Escape en Una Sola Cuerda",
+        "de": "Ein-Saiten-Flucht-Etüde",
+        "ja": "1弦脱出エチュード",
+        "zh-Hans": "单弦突围练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a convincing guitar solo by escaping routine patterns and telling a story on one string first.",
+        "pt-BR": "Construa um solo convincente fugindo dos desenhos automáticos e contando uma história em uma só corda.",
+        "es": "Construye un solo convincente escapando de los patrones automáticos y contando una historia primero en una sola cuerda.",
+        "de": "Baue ein überzeugendes Gitarrensolo, indem du aus Routine-Mustern ausbrichst und zuerst auf einer Saite erzählst.",
+        "ja": "いつもの形から抜け出し、まず1本の弦で物語を作って説得力あるギターソロを育てよう。",
+        "zh-Hans": "先在一根弦上讲出故事，摆脱自动指型，练出更有说服力的吉他独奏。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-04-16T00:06:36Z",
+    "updatedAt": "2026-04-16T00:06:36Z"
   }
 ]

@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-04-05T00:08:16Z",
     "updatedAt": "2026-04-05T00:08:16Z"
+  },
+  {
+    "id": "chord-change-treasure-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord-Change Treasure Hunt",
+        "pt-BR": "Caça ao Tesouro nas Mudanças de Acorde",
+        "es": "Búsqueda del Tesoro en los Cambios de Acorde",
+        "de": "Schatzsuche bei Akkordwechseln",
+        "ja": "コードチェンジ宝探し",
+        "zh-Hans": "和弦转换寻宝记"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a piano treasure hunt by landing the right note at each chord change.",
+        "pt-BR": "Transforme o estudo de escalas em uma caça ao tesouro no piano acertando a nota certa em cada mudança de acorde.",
+        "es": "Convierte la práctica de escalas en una búsqueda del tesoro al piano acertando la nota correcta en cada cambio de acorde.",
+        "de": "Verwandle Skalenpraxis am Klavier in eine Schatzsuche, indem du bei jedem Akkordwechsel den richtigen Zielton triffst.",
+        "ja": "和音が変わる瞬間に正しい音へ着地し、スケール練習をピアノの宝探しに変えよう。",
+        "zh-Hans": "在每次和弦变化时准确落到正确音上，把钢琴音阶练习变成一场寻宝游戏。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-16T00:09:07Z",
+    "updatedAt": "2026-04-16T00:09:07Z"
   }
 ]

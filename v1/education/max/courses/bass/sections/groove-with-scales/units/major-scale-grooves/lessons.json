@@ -670,5 +670,33 @@
     "order": 24,
     "createdAt": "2026-04-15T00:04:12Z",
     "updatedAt": "2026-04-15T00:04:12Z"
+  },
+  {
+    "id": "groove-passport-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Groove Passport in G Major",
+        "pt-BR": "Passaporte do Groove em Sol Maior",
+        "es": "Pasaporte del Groove en Sol Mayor",
+        "de": "Groove-Pass in G-Dur",
+        "ja": "Gメジャーのグルーヴ・パスポート",
+        "zh-Hans": "G大调 Groove 护照"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass pocket by visiting four groove zones in G major without losing the beat.",
+        "pt-BR": "Treine o pocket no baixo visitando quatro zonas de groove em Sol maior sem perder o pulso.",
+        "es": "Entrena tu pocket en el bajo visitando cuatro zonas de groove en Sol mayor sin perder el pulso.",
+        "de": "Trainiere dein Bass-Pocket, indem du vier Groove-Zonen in G-Dur besuchst, ohne den Puls zu verlieren.",
+        "ja": "Gメジャーの4つのグルーヴ地帯を巡りながら、拍を失わずにベースのポケットを鍛えよう。",
+        "zh-Hans": "在不丢拍的前提下穿越G大调的四个groove区域，训练你的贝斯 pocket。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-04-16T00:07:52Z",
+    "updatedAt": "2026-04-16T00:07:52Z"
   }
 ]

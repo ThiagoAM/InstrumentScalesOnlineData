@@ -1,0 +1,73 @@
+{
+  "id": "chord-change-treasure-hunt",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a **I-vi-IV-V** progression in **C major** and loop it slowly at **72-88 BPM**. Let the left hand play simple chord shells or block chords. Your right hand is the treasure hunter: every small scale phrase must discover a strong target note exactly when the next chord arrives.",
+          "pt-BR": "Monte uma progressão **I-vi-IV-V** em **Dó maior** e deixe-a em loop lento a **72-88 BPM**. A mão esquerda toca conduções simples ou acordes em bloco. A mão direita é a caçadora de tesouros: cada pequena frase de escala precisa encontrar uma nota forte exatamente quando o próximo acorde chegar.",
+          "es": "Prepara una progresión **I-vi-IV-V** en **Do mayor** y déjala en loop lento a **72-88 BPM**. La mano izquierda toca posiciones simples o acordes en bloque. La mano derecha será la buscadora del tesoro: cada frase pequeña de escala debe encontrar una nota fuerte justo cuando llegue el siguiente acorde.",
+          "de": "Richte eine **I-vi-IV-V**-Progression in **C-Dur** ein und loope sie langsam bei **72-88 BPM**. Die linke Hand spielt einfache Chord-Shells oder Blockakkorde. Die rechte Hand ist der Schatzsucher: Jede kleine Skalenphrase muss genau dann einen starken Zielton finden, wenn der nächste Akkord ankommt.",
+          "ja": "**Cメジャー** の **I-vi-IV-V** 進行を用意し、**72-88 BPM** でゆっくりループします。左手はシンプルなシェル・ボイシングかブロックコードでOK。右手は宝探し役で、小さなスケールフレーズが次のコードに変わる瞬間ちょうどに強いターゲット音を見つけなければなりません。",
+          "zh-Hans": "设定一个 **C大调** 的 **I-vi-IV-V** 进行，用 **72-88 BPM** 慢速循环。左手弹简单的和弦骨架或柱式和弦。右手就是寻宝者：每个小型音阶乐句都必须在下一个和弦到来时，准确找到一个有分量的目标音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Clue 1: before each chord change, play a **three- or four-note pickup** from the C major scale. The phrase can go up or down, but it must land on a note that belongs to the new chord. If the target note sounds obvious, that means you are winning, not playing safe.",
+          "pt-BR": "Pista 1: antes de cada troca de acorde, toque uma **preparação de três ou quatro notas** da escala de Dó maior. A frase pode subir ou descer, mas deve aterrissar em uma nota que pertença ao novo acorde. Se a nota de chegada soar óbvia, isso significa que você está vencendo, não jogando seguro.",
+          "es": "Pista 1: antes de cada cambio de acorde, toca una **preparación de tres o cuatro notas** de la escala de Do mayor. La frase puede subir o bajar, pero debe aterrizar en una nota que pertenezca al acorde nuevo. Si la nota objetivo suena obvia, eso significa que estás ganando, no que estás yendo a lo seguro.",
+          "de": "Hinweis 1: Spiele vor jedem Akkordwechsel einen **drei- oder viernotigen Auftakt** aus der C-Dur-Tonleiter. Die Phrase darf auf- oder absteigen, muss aber auf einem Ton landen, der zum neuen Akkord gehört. Wenn der Zielton offensichtlich klingt, bedeutet das nicht „zu sicher“, sondern „gut getroffen“.",
+          "ja": "ヒント1：各コードチェンジの前に、Cメジャースケールから **3音または4音のピックアップ** を弾きます。フレーズは上行でも下行でもかまいませんが、新しいコードに属する音へ着地する必要があります。着地点が“わかりやすい”なら、それは安全すぎるのではなく、うまく当てられている証拠です。",
+          "zh-Hans": "线索1：在每次和弦变化前，先弹一个来自C大调音阶的 **三音或四音引子**。乐句可以上行也可以下行，但必须落在新和弦里的音上。如果这个落点听起来“很明显”，那说明你成功了，不是说明你太保守。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Clue 2: keep the rhythm easy at first—mostly eighth notes and one longer note per bar. This is not a finger race. It is a timing game, and the treasure is hidden inside accurate arrivals and clean hand balance.",
+          "pt-BR": "Pista 2: mantenha o ritmo fácil no começo — principalmente colcheias e uma nota mais longa por compasso. Isto não é uma corrida de dedos. É um jogo de timing, e o tesouro está escondido nas chegadas precisas e no equilíbrio limpo entre as mãos.",
+          "es": "Pista 2: mantén el ritmo fácil al principio, con corcheas en su mayoría y una nota más larga por compás. Esto no es una carrera de dedos. Es un juego de timing, y el tesoro está escondido en las llegadas precisas y en el equilibrio limpio entre las manos.",
+          "de": "Hinweis 2: Halte den Rhythmus am Anfang einfach — überwiegend Achtelnoten und einen längeren Ton pro Takt. Das ist kein Fingerwettrennen. Es ist ein Timing-Spiel, und der Schatz liegt in präzisen Landungen und sauberer Balance zwischen den Händen.",
+          "ja": "ヒント2：最初はリズムを簡単に保ちましょう。ほとんどを8分音符にして、各小節に1つだけ長めの音を置きます。これは指のスピード競争ではありません。正確な着地と左右の手のきれいなバランスに宝が隠れたタイミングゲームです。",
+          "zh-Hans": "线索2：一开始把节奏保持简单——以八分音符为主，每小节加一个较长的音。这不是手指竞速赛，而是节奏时机游戏。宝藏藏在精准落点和双手干净平衡里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Clue 3: on the second loop, change only one thing. Maybe start the pickup on a different scale degree, maybe invert the contour, maybe move the right hand one octave higher. One small twist is enough to make the same progression feel fresh.",
+          "pt-BR": "Pista 3: na segunda volta, mude só uma coisa. Talvez comece a preparação em outro grau da escala, talvez inverta o desenho, talvez leve a mão direita uma oitava acima. Um pequeno giro já basta para fazer a mesma progressão soar nova.",
+          "es": "Pista 3: en la segunda vuelta, cambia solo una cosa. Tal vez empieces la preparación en otro grado de la escala, tal vez inviertas el contorno, tal vez subas la mano derecha una octava. Un solo giro pequeño basta para que la misma progresión se sienta nueva.",
+          "de": "Hinweis 3: Verändere im zweiten Durchlauf nur eine Sache. Vielleicht beginnst du den Auftakt auf einer anderen Skalenstufe, vielleicht drehst du die Kontur um, vielleicht setzt du die rechte Hand eine Oktave höher. Eine kleine Wendung reicht, damit dieselbe Progression frisch klingt.",
+          "ja": "ヒント3：2周目では1つだけ変えてください。ピックアップの開始音を別の度数にする、輪郭を反転する、右手を1オクターブ上へ移す——そんな小さなひねりで十分です。同じ進行でも新鮮に感じられます。",
+          "zh-Hans": "线索3：第二遍循环时，只改变一件事。也许把引子的起点换到另一个音阶级数，也许把旋律轮廓倒过来，也许把右手整体移高八度。一个小小变化，就足以让同样的进行焕然一新。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final hunt: record **two versions**. In version one, make every landing smooth and lyrical. In version two, add a bit more energy with a stronger accent or a wider leap. Keep the take that sounds musical, not merely correct. Treasure on piano is not just the right note—it is the right note with character.",
+          "pt-BR": "Caça final: grave **duas versões**. Na primeira, faça cada chegada soar suave e cantável. Na segunda, acrescente um pouco mais de energia com um acento mais forte ou um salto mais aberto. Fique com a tomada que soar musical, não apenas correta. No piano, o tesouro não é só a nota certa — é a nota certa com personalidade.",
+          "es": "Búsqueda final: graba **dos versiones**. En la primera, haz que cada llegada suene suave y cantable. En la segunda, añade un poco más de energía con un acento más fuerte o un salto más amplio. Quédate con la toma que suene musical, no solo correcta. En el piano, el tesoro no es solo la nota correcta: es la nota correcta con carácter.",
+          "de": "Letzte Suche: Nimm **zwei Versionen** auf. In Version eins sollen alle Landungen weich und gesanglich wirken. In Version zwei gibst du etwas mehr Energie mit stärkerem Akzent oder größerem Sprung. Behalte die Aufnahme, die musikalisch klingt und nicht nur korrekt. Der Schatz am Klavier ist nicht bloß der richtige Ton — sondern der richtige Ton mit Charakter.",
+          "ja": "最後の探索：**2バージョン** 録音します。1つ目はすべての着地を滑らかで歌うように。2つ目は少し強いアクセントや広い跳躍を加えてエネルギーを足します。正しいだけでなく音楽的に聞こえるテイクを残してください。ピアノの宝は正しい音そのものではなく、個性を持った正しい音です。",
+          "zh-Hans": "最终寻宝：录下 **两个版本**。第一个版本让每次落点都平滑、歌唱。第二个版本则加入更强的重音或更大的跳进，带来更多能量。保留那个真正有音乐感的版本，而不只是“答对题”的版本。对钢琴来说，宝藏不只是正确的音，而是带着性格的正确音。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-16T00:09:07Z",
+  "updatedAt": "2026-04-16T00:09:07Z"
+}
