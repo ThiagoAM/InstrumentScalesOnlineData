@@ -1,0 +1,73 @@
+{
+  "id": "bass-octave-bounce-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Welcome to the bounce zone\nToday your bass line will get bigger without getting busier. You will use **root notes, octaves, and a few scale connectors** to make a groove feel wide, solid, and alive.",
+          "pt-BR": "# Bem-vindo à zona do bounce\nHoje sua linha de baixo vai ficar maior sem ficar mais carregada. Você vai usar **tônicas, oitavas e alguns conectores da escala** para fazer o groove soar amplo, sólido e vivo.",
+          "es": "# Bienvenido a la zona de rebote\nHoy tu línea de bajo sonará más grande sin volverse más cargada. Usarás **tónicas, octavas y algunos conectores de escala** para que el groove se sienta amplio, sólido y vivo.",
+          "de": "# Willkommen in der Bounce-Zone\nHeute wird deine Basslinie größer, ohne voller zu werden. Du benutzt **Grundtöne, Oktaven und ein paar Skalen-Verbindungstöne**, damit der Groove weit, stabil und lebendig wirkt.",
+          "ja": "# バウンスゾーンへようこそ\n今日は、音数を増やしすぎずにベースラインを大きく聞かせます。**ルート、オクターブ、少しのスケール接続音**を使って、広く、安定し、活きたグルーヴを作りましょう。",
+          "zh-Hans": "# 欢迎来到弹跳区\n今天你的贝斯线会在不变得拥挤的情况下听起来更大。你会用**根音、八度和少量音阶连接音**，让 groove 听起来宽阔、稳固又有生命力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Start with the skeleton\nWork in **G major**. Begin with this simple idea over two bars:\n- bar 1: **G** root, then **G** octave\n- bar 2: **D** root, then **D** octave\n\nPlay it with steady eighth notes and make the timing feel locked before you decorate anything.",
+          "pt-BR": "# Comece pelo esqueleto\nTrabalhe em **Sol maior**. Comece com esta ideia simples em dois compassos:\n- compasso 1: tônica **G**, depois oitava de **G**\n- compasso 2: tônica **D**, depois oitava de **D**\n\nToque em colcheias estáveis e faça o tempo ficar travado antes de enfeitar qualquer coisa.",
+          "es": "# Empieza con el esqueleto\nTrabaja en **Sol mayor**. Empieza con esta idea simple de dos compases:\n- compás 1: tónica **G**, luego octava de **G**\n- compás 2: tónica **D**, luego octava de **D**\n\nTócalo con corcheas estables y asegúrate de que el tiempo quede firme antes de decorar nada.",
+          "de": "# Starte mit dem Skelett\nArbeite in **G-Dur**. Beginne mit dieser einfachen Idee über zwei Takte:\n- Takt 1: Grundton **G**, dann **G** als Oktave\n- Takt 2: Grundton **D**, dann **D** als Oktave\n\nSpiele gleichmäßige Achtelnoten und bringe das Timing erst fest in den Pocket, bevor du etwas verzierst.",
+          "ja": "# 骨組みから始めよう\n**Gメジャー**で練習します。次の2小節のアイデアから始めましょう:\n- 1小節目: **G** のルート、次に **G** のオクターブ\n- 2小節目: **D** のルート、次に **D** のオクターブ\n\nまずは8分音符を安定して弾き、飾りを入れる前にタイムをしっかり固めてください。",
+          "zh-Hans": "# 先搭骨架\n在 **G 大调**里练习。先从这个两小节想法开始：\n- 第1小节：**G** 根音，然后 **G** 八度\n- 第2小节：**D** 根音，然后 **D** 八度\n\n先用稳定的八分音符把节奏锁住，再去加装饰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add the bounce\nNow connect each root-to-octave move with one passing tone from the scale. Keep the line punchy, not crowded.\n\nEasy examples:\n- **G - A - G'**\n- **D - E - D'**\n\nThe passing tone should feel like a trampoline, not a detour.",
+          "pt-BR": "# Adicione o salto\nAgora conecte cada movimento de tônica para oitava com uma nota de passagem da escala. Deixe a linha com pegada, não lotada.\n\nExemplos fáceis:\n- **G - A - G'**\n- **D - E - D'**\n\nA nota de passagem deve parecer um trampolim, não um desvio.",
+          "es": "# Añade el rebote\nAhora conecta cada movimiento de tónica a octava con una nota de paso de la escala. Haz que la línea tenga pegada, no que esté abarrotada.\n\nEjemplos fáciles:\n- **G - A - G'**\n- **D - E - D'**\n\nLa nota de paso debe sentirse como un trampolín, no como un desvío.",
+          "de": "# Füge den Sprung hinzu\nVerbinde jetzt jede Bewegung vom Grundton zur Oktave mit einem Durchgangston aus der Skala. Die Linie soll druckvoll bleiben, nicht überfüllt.\n\nEinfache Beispiele:\n- **G - A - G'**\n- **D - E - D'**\n\nDer Durchgangston soll wie ein Trampolin wirken, nicht wie ein Umweg.",
+          "ja": "# バウンスを加える\n次に、各ルート→オクターブの動きの間に、スケールから1つ経過音を入れます。ラインは混雑させず、パンチを保ちましょう。\n\n簡単な例:\n- **G - A - G'**\n- **D - E - D'**\n\n経過音は遠回りではなく、トランポリンのように感じられるべきです。",
+          "zh-Hans": "# 加上弹跳\n现在在每次根音到八度的移动之间，加一个来自音阶的经过音。让线条有冲劲，但不要塞得太满。\n\n简单例子：\n- **G - A - G'**\n- **D - E - D'**\n\n这个经过音应该像蹦床，而不是绕路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it groove harder\nPlay four rounds:\n1. clean and even\n2. with stronger accents on beat 1 and the \"and\" of 2\n3. with one ghost note before an octave\n4. with a quieter dynamic but the same pulse\n\nIf the groove still feels confident at every volume, your control is improving.",
+          "pt-BR": "# Faça o groove bater mais forte\nToque quatro rodadas:\n1. limpo e regular\n2. com acentos mais fortes no tempo 1 e no \"e\" do 2\n3. com uma ghost note antes da oitava\n4. com dinâmica mais suave, mas o mesmo pulso\n\nSe o groove continuar confiante em qualquer volume, seu controle está melhorando.",
+          "es": "# Haz que el groove golpee más fuerte\nToca cuatro rondas:\n1. limpio y parejo\n2. con acentos más fuertes en el tiempo 1 y en el \"y\" de 2\n3. con una ghost note antes de la octava\n4. con una dinámica más suave pero el mismo pulso\n\nSi el groove sigue sonando seguro a cualquier volumen, tu control está mejorando.",
+          "de": "# Mehr Groove, mehr Druck\nSpiele vier Runden:\n1. sauber und gleichmäßig\n2. mit stärkeren Akzenten auf Schlag 1 und dem \"und\" von 2\n3. mit einer Ghost Note vor der Oktave\n4. mit leiserer Dynamik, aber demselben Puls\n\nWenn der Groove in jeder Lautstärke sicher bleibt, verbessert sich deine Kontrolle.",
+          "ja": "# さらにグルーヴを強く\n4ラウンド弾きます:\n1. きれいに均等に\n2. 1拍目と2拍目裏を強めに\n3. オクターブの前にゴーストノートを1つ\n4. 音量は控えめでも同じ脈動で\n\nどの音量でも自信のあるグルーヴなら、コントロールは確実に上がっています。",
+          "zh-Hans": "# 让 groove 更有劲\n完成四轮：\n1. 干净平均\n2. 在第1拍和第2拍后半拍加更强重音\n3. 在八度前加一个幽灵音\n4. 更轻的力度，但保持同样脉冲\n\n如果不管音量大小 groove 都很自信，你的控制力就在进步。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mini performance challenge\nCreate a 4-bar groove that uses at least:\n- 2 roots\n- 2 octaves\n- 2 passing tones\n- 1 ghost note\n\nYour line should make people want to nod their head, not stare at your fretboard in sympathy.",
+          "pt-BR": "# Mini desafio de performance\nCrie um groove de 4 compassos que use pelo menos:\n- 2 tônicas\n- 2 oitavas\n- 2 notas de passagem\n- 1 ghost note\n\nSua linha deve fazer as pessoas quererem balançar a cabeça, e não olhar para o seu braço com pena.",
+          "es": "# Mini reto de interpretación\nCrea un groove de 4 compases que use al menos:\n- 2 tónicas\n- 2 octavas\n- 2 notas de paso\n- 1 ghost note\n\nTu línea debe hacer que la gente quiera mover la cabeza, no mirar tu diapasón con compasión.",
+          "de": "# Mini-Performance-Challenge\nBaue einen 4-taktigen Groove mit mindestens:\n- 2 Grundtönen\n- 2 Oktaven\n- 2 Durchgangstönen\n- 1 Ghost Note\n\nDeine Linie sollte Leute zum Mitnicken bringen und nicht dazu, mitleidig auf dein Griffbrett zu schauen.",
+          "ja": "# ミニ演奏チャレンジ\n次を最低限入れた4小節グルーヴを作ってください:\n- ルート 2回\n- オクターブ 2回\n- 経過音 2回\n- ゴーストノート 1回\n\n聴く人が思わずうなずきたくなるラインを目指しましょう。指板を心配して見つめさせたら負けです。",
+          "zh-Hans": "# 迷你演奏挑战\n做一个 4 小节 groove，至少包含：\n- 2 个根音\n- 2 个八度\n- 2 个经过音\n- 1 个幽灵音\n\n你的线条应该让人想点头，而不是同情地盯着你的指板看。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-17T00:06:49Z",
+  "updatedAt": "2026-04-17T00:06:49Z"
+}

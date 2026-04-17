@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-04-11T00:05:43Z",
     "updatedAt": "2026-04-11T00:05:43Z"
+  },
+  {
+    "id": "guitar-rhythm-mirror-riffs",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Mirror Riffs",
+        "pt-BR": "Riffs Espelhados no Ritmo",
+        "es": "Riffs Espejados en el Ritmo",
+        "de": "Spiegelriffs im Rhythmus",
+        "ja": "リズム・ミラー・リフ",
+        "zh-Hans": "节奏镜像Riff"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sharpen your guitar phrasing by echoing and twisting short scale riffs with tight rhythm control.",
+        "pt-BR": "Afie seu fraseado na guitarra ecoando e torcendo pequenos riffs de escala com controle rítmico preciso.",
+        "es": "Afina tu fraseo de guitarra haciendo eco y retorciendo pequeños riffs de escala con control rítmico preciso.",
+        "de": "Schärfe dein Gitarren-Phrasing, indem du kurze Skalenriffs spiegelst und mit präzisem Rhythmus leicht veränderst.",
+        "ja": "短いスケールリフを映し返して少し変えながら、ギターのフレージングとリズム感を鍛えよう。",
+        "zh-Hans": "通过模仿并微调短小的音阶riff，用精准的节奏控制来强化你的吉他乐句能力。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-04-17T00:05:32Z",
+    "updatedAt": "2026-04-17T00:05:32Z"
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "id": "piano-traffic-light-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Welcome to the traffic-light routine\nThis lesson turns scale practice into a game with three zones:\n- **Red** = super slow and careful\n- **Yellow** = steady and relaxed\n- **Green** = confident and energetic\n\nYou will use the same scale in all three zones without letting the sound turn messy.",
+          "pt-BR": "# Bem-vindo à rotina do semáforo\nEsta lição transforma o estudo de escalas em um jogo com três zonas:\n- **Vermelho** = super lento e cuidadoso\n- **Amarelo** = estável e relaxado\n- **Verde** = confiante e energético\n\nVocê vai usar a mesma escala nas três zonas sem deixar o som virar bagunça.",
+          "es": "# Bienvenido a la rutina del semáforo\nEsta lección convierte el estudio de escalas en un juego con tres zonas:\n- **Rojo** = súper lento y cuidadoso\n- **Amarillo** = estable y relajado\n- **Verde** = confiado y con energía\n\nUsarás la misma escala en las tres zonas sin dejar que el sonido se vuelva un desastre.",
+          "de": "# Willkommen bei der Ampelroutine\nDiese Lektion macht aus dem Skalenüben ein Spiel mit drei Zonen:\n- **Rot** = super langsam und sorgfältig\n- **Gelb** = ruhig und gleichmäßig\n- **Grün** = selbstbewusst und energisch\n\nDu spielst in allen drei Zonen dieselbe Skala, ohne dass der Klang chaotisch wird.",
+          "ja": "# 信号機ルーティンへようこそ\nこのレッスンでは、音階練習を3つのゾーンのゲームに変えます:\n- **赤** = とても遅く、ていねいに\n- **黄** = 安定してリラックス\n- **緑** = 自信を持ってエネルギッシュに\n\n同じスケールを3つのゾーンすべてで弾きますが、音が雑にならないようにします。",
+          "zh-Hans": "# 欢迎来到红绿灯练习\n这一课把音阶练习变成一个三段式游戏：\n- **红灯** = 非常慢、非常仔细\n- **黄灯** = 稳定、放松\n- **绿灯** = 自信、有能量\n\n你要在这三个区间里都弹同一条音阶，同时不让声音变得混乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Pick your scale and rules\nChoose one familiar scale, like **C major** or **G major**, and play it **two octaves, hands together** if possible. In every zone, keep these rules:\n- curved fingers\n- loose wrists\n- even tone\n- no racing ahead after a thumb crossing",
+          "pt-BR": "# Escolha sua escala e suas regras\nEscolha uma escala familiar, como **Dó maior** ou **Sol maior**, e toque **duas oitavas, mãos juntas** se possível. Em todas as zonas, mantenha estas regras:\n- dedos curvos\n- punhos soltos\n- som uniforme\n- não acelerar depois da passagem do polegar",
+          "es": "# Elige tu escala y tus reglas\nElige una escala conocida, como **Do mayor** o **Sol mayor**, y tócala **a dos octavas, con ambas manos juntas** si es posible. En todas las zonas, mantén estas reglas:\n- dedos curvos\n- muñecas sueltas\n- sonido parejo\n- no aceleres después del cruce del pulgar",
+          "de": "# Wähle deine Skala und Regeln\nWähle eine vertraute Skala wie **C-Dur** oder **G-Dur** und spiele sie, wenn möglich, **über zwei Oktaven mit beiden Händen zusammen**. In jeder Zone gelten dieselben Regeln:\n- gebogene Finger\n- lockere Handgelenke\n- gleichmäßiger Ton\n- nach dem Daumenuntersatz nicht beschleunigen",
+          "ja": "# スケールとルールを決めよう\n**Cメジャー**や**Gメジャー**のような慣れたスケールを1つ選び、できれば**両手で2オクターブ**弾きます。どのゾーンでも次のルールを守りましょう:\n- 指は丸く\n- 手首は柔らかく\n- 音量は均一に\n- 親指くぐりのあとで走らない",
+          "zh-Hans": "# 选好音阶和规则\n选一条熟悉的音阶，比如 **C 大调**或**G 大调**，如果可以的话用**双手一起弹两组八度**。在所有区间里都保持这些规则：\n- 手指自然弯曲\n- 手腕放松\n- 音色均匀\n- 大拇指穿越后不要突然加速"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Run the three lights\nPlay the scale three times in a row:\n1. **Red**: extremely slow, listening for every note\n2. **Yellow**: medium tempo with a calm pulse\n3. **Green**: faster, but only as fast as you can stay clean\n\nIf green turns sloppy, it was not really green. It was chaos wearing a sports jacket.",
+          "pt-BR": "# Passe pelos três sinais\nToque a escala três vezes seguidas:\n1. **Vermelho**: extremamente devagar, ouvindo cada nota\n2. **Amarelo**: andamento médio com pulso calmo\n3. **Verde**: mais rápido, mas só até onde você consegue manter limpeza\n\nSe o verde ficar bagunçado, então não era verde de verdade. Era caos usando blazer esportivo.",
+          "es": "# Recorre los tres colores\nToca la escala tres veces seguidas:\n1. **Rojo**: extremadamente despacio, escuchando cada nota\n2. **Amarillo**: tempo medio con pulso tranquilo\n3. **Verde**: más rápido, pero solo tan rápido como puedas seguir limpio\n\nSi el verde se vuelve desordenado, no era verde de verdad. Era caos con chaqueta deportiva.",
+          "de": "# Durchlaufe die drei Farben\nSpiele die Skala dreimal hintereinander:\n1. **Rot**: extrem langsam und auf jeden Ton hörend\n2. **Gelb**: mittleres Tempo mit ruhigem Puls\n3. **Grün**: schneller, aber nur so schnell, wie du sauber bleiben kannst\n\nWenn Grün schlampig wird, war es nicht wirklich Grün. Es war Chaos im Sportblazer.",
+          "ja": "# 3つのライトを走ろう\nスケールを3回続けて弾きます:\n1. **赤**: 1音ずつ聴きながら極端にゆっくり\n2. **黄**: 落ち着いた拍で中くらいのテンポ\n3. **緑**: 速めだが、きれいさを保てる範囲だけ\n\n緑が雑になったなら、それは本当の緑ではありません。スポーツジャケットを着た混乱です。",
+          "zh-Hans": "# 跑完三盏灯\n连续弹三遍音阶：\n1. **红灯**：极慢，认真听每一个音\n2. **黄灯**：中速，脉冲平稳\n3. **绿灯**：更快，但只快到你还能保持干净\n\n如果绿灯变乱了，那就不是真正的绿灯，那只是穿着运动西装的混乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add the musical twist\nNow repeat the three-light cycle, but give each run a different character:\n- red = soft and singing\n- yellow = balanced and round\n- green = bright and confident\n\nThis keeps scale practice from becoming a finger treadmill with no ears attached.",
+          "pt-BR": "# Adicione a virada musical\nAgora repita o ciclo das três cores, mas dê um caráter diferente para cada execução:\n- vermelho = suave e cantado\n- amarelo = equilibrado e redondo\n- verde = brilhante e confiante\n\nIsso impede que o treino de escala vire uma esteira de dedos sem ouvidos.",
+          "es": "# Añade el giro musical\nAhora repite el ciclo de tres colores, pero da un carácter distinto a cada pasada:\n- rojo = suave y cantabile\n- amarillo = equilibrado y redondo\n- verde = brillante y confiado\n\nAsí evitas que el estudio de escalas se convierta en una cinta de dedos sin oídos.",
+          "de": "# Gib dem Ganzen eine musikalische Wendung\nWiederhole jetzt den Dreifarben-Zyklus, aber gib jedem Durchgang einen anderen Charakter:\n- rot = weich und singend\n- gelb = ausgeglichen und rund\n- grün = hell und selbstbewusst\n\nSo wird das Skalenüben nicht zu einem Fingerlaufband ohne Ohren.",
+          "ja": "# 音楽的なひねりを加える\n次は同じ3色サイクルを繰り返しますが、それぞれに別の性格を与えます:\n- 赤 = やわらかく歌うように\n- 黄 = バランスよく丸く\n- 緑 = 明るく自信たっぷりに\n\nこうすると、音階練習が耳のない指のランニングマシンになるのを防げます。",
+          "zh-Hans": "# 加一点音乐性转折\n现在再重复一次三色循环，但给每一遍不同的性格：\n- 红灯 = 柔和、像在歌唱\n- 黄灯 = 平衡、圆润\n- 绿灯 = 明亮、自信\n\n这样一来，音阶练习就不会变成一台只有手指、没有耳朵的跑步机。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Finish with a checkpoint\nAfter two full cycles, ask yourself:\n- Which zone felt easiest?\n- Where did tension appear?\n- Could I keep the same fingering and pulse in all three?\n\nYour final mission is to end with one perfect yellow run. Smooth, centered, and calm beats flashy every time.",
+          "pt-BR": "# Termine com um checkpoint\nDepois de dois ciclos completos, pergunte a si mesmo:\n- Qual zona pareceu mais fácil?\n- Onde apareceu tensão?\n- Consegui manter a mesma digitação e o mesmo pulso nas três?\n\nSua missão final é terminar com uma execução amarela perfeita. Suave, centrada e calma vence exibicionismo toda vez.",
+          "es": "# Termina con un punto de control\nDespués de dos ciclos completos, pregúntate:\n- ¿Qué zona se sintió más fácil?\n- ¿Dónde apareció la tensión?\n- ¿Pude mantener la misma digitación y el mismo pulso en las tres?\n\nTu misión final es terminar con una pasada amarilla perfecta. Suave, centrada y tranquila vence al lucimiento cada vez.",
+          "de": "# Beende mit einem Kontrollpunkt\nFrage dich nach zwei vollständigen Zyklen:\n- Welche Zone fühlte sich am leichtesten an?\n- Wo entstand Spannung?\n- Konnte ich in allen drei dieselbe Fingierung und denselben Puls halten?\n\nDeine Abschlussmission: ein perfekter gelber Durchgang. Ruhig, zentriert und sauber schlägt Show jedes Mal.",
+          "ja": "# 最後はチェックポイント\n2サイクル終えたら自分に質問しましょう:\n- どのゾーンが一番やさしかったか\n- どこで力みが出たか\n- 3つ全部で同じ指使いと拍を保てたか\n\n最後のミッションは、完璧な黄色の1回で終えること。派手さより、なめらかさ・中心・落ち着きの勝ちです。",
+          "zh-Hans": "# 用检查点收尾\n做完两轮完整循环后，问问自己：\n- 哪个区间最轻松？\n- 紧张感出现在哪里？\n- 三个区间里我都保持了同样的指法和脉冲吗？\n\n最后的任务是用一次完美的黄灯收尾。平稳、居中、冷静，永远比炫技更强。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-17T00:07:57Z",
+  "updatedAt": "2026-04-17T00:07:57Z"
+}

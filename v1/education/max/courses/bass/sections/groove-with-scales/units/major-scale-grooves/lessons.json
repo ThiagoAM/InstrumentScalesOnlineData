@@ -698,5 +698,33 @@
     "order": 25,
     "createdAt": "2026-04-16T00:07:52Z",
     "updatedAt": "2026-04-16T00:07:52Z"
+  },
+  {
+    "id": "bass-octave-bounce-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Bounce Groove",
+        "pt-BR": "Groove Saltando Oitavas",
+        "es": "Groove de Rebote en Octavas",
+        "de": "Oktav-Sprung-Groove",
+        "ja": "オクターブ・バウンス・グルーヴ",
+        "zh-Hans": "八度弹跳Groove"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a punchy bass groove by bouncing between roots, octaves, and quick scale connectors.",
+        "pt-BR": "Monte um groove de baixo com pegada saltando entre tônicas, oitavas e conectores rápidos da escala.",
+        "es": "Construye un groove de bajo con pegada rebotando entre tónicas, octavas y conectores rápidos de la escala.",
+        "de": "Baue einen druckvollen Bassgroove, indem du zwischen Grundtönen, Oktaven und schnellen Skalenverbindern springst.",
+        "ja": "ルート、オクターブ、短いスケールのつなぎ音を使って、パンチのあるベースグルーヴを作ろう。",
+        "zh-Hans": "在根音、八度与快速音阶连接音之间弹跳，做出有冲击力的贝斯 groove。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-04-17T00:06:49Z",
+    "updatedAt": "2026-04-17T00:06:49Z"
   }
 ]

@@ -530,5 +530,33 @@
     "order": 19,
     "createdAt": "2026-04-13T00:07:51Z",
     "updatedAt": "2026-04-13T00:07:51Z"
+  },
+  {
+    "id": "piano-traffic-light-scales",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Traffic-Light Scale Routine",
+        "pt-BR": "Rotina de Escala no Semáforo",
+        "es": "Rutina de Escala con Semáforo",
+        "de": "Ampel-Skalenroutine",
+        "ja": "信号機スケール・ルーティン",
+        "zh-Hans": "红绿灯音阶练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use red, yellow, and green tempo zones to make daily piano scale practice focused, musical, and controlled.",
+        "pt-BR": "Use zonas vermelha, amarela e verde para deixar o estudo diário de escalas no piano focado, musical e controlado.",
+        "es": "Usa zonas roja, amarilla y verde para que tu práctica diaria de escalas en piano sea enfocada, musical y controlada.",
+        "de": "Nutze rote, gelbe und grüne Tempobereiche, damit dein tägliches Skalenüben am Klavier fokussiert, musikalisch und kontrolliert bleibt.",
+        "ja": "赤・黄・緑のテンポゾーンを使って、毎日のピアノ音階練習を集中力・音楽性・コントロールのあるものにしよう。",
+        "zh-Hans": "用红、黄、绿三个速度区间，让你的日常钢琴音阶练习更专注、更有音乐性，也更可控。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-04-17T00:07:57Z",
+    "updatedAt": "2026-04-17T00:07:57Z"
   }
 ]
