@@ -1,0 +1,86 @@
+{
+  "id": "checkpoint-circuit-for-piano-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Running scales on piano can become weirdly automatic: your fingers move, your brain goes on vacation, and suddenly you have practiced a lot without learning much. This lesson fixes that by turning one scale into a **checkpoint circuit**.\n\nChoose **C, G, D, A, or F major**, two octaves if comfortable. Use a tempo that is clean, not heroic. You are not here to impress the metronome. You are here to outsmart it.",
+          "pt-BR": "Tocar escalas no piano pode ficar automático demais: os dedos se movem, o cérebro sai de férias e, de repente, você praticou muito sem aprender quase nada. Esta lição corrige isso transformando uma única escala em um **circuito de checkpoints**.\n\nEscolha **Dó, Sol, Ré, Lá ou Fá maior**, em duas oitavas se estiver confortável. Use um andamento limpo, não heroico. Você não está aqui para impressionar o metrônomo. Está aqui para ser mais esperto do que ele.",
+          "es": "Tocar escalas en piano puede volverse demasiado automático: los dedos se mueven, el cerebro se va de vacaciones y, de pronto, has practicado mucho sin aprender gran cosa. Esta lección lo corrige convirtiendo una sola escala en un **circuito de checkpoints**.\n\nElige **Do, Sol, Re, La o Fa mayor**, en dos octavas si te resulta cómodo. Usa un tempo limpio, no heroico. No estás aquí para impresionar al metrónomo. Estás aquí para ser más listo que él.",
+          "de": "Skalen auf dem Klavier können seltsam automatisch werden: Die Finger bewegen sich, das Gehirn macht Urlaub, und plötzlich hast du viel geübt, ohne besonders viel zu lernen. Diese Lektion ändert das, indem sie eine einzige Skala in einen **Checkpoint-Parcours** verwandelt.\n\nWähle **C-, G-, D-, A- oder F-Dur**, wenn möglich über zwei Oktaven. Nimm ein Tempo, das sauber ist, nicht heroisch. Du bist nicht hier, um das Metronom zu beeindrucken. Du bist hier, um es auszutricksen.",
+          "ja": "ピアノのスケール練習は、気づくとかなり自動運転になりがちです。指は動いているのに、頭は休暇中。たくさん弾いたのに、あまり学べていないこともあります。このレッスンでは、1つのスケールを**チェックポイント・サーキット**に変えて、それを防ぎます。\n\n**ハ長調、ト長調、ニ長調、イ長調、ヘ長調**から1つ選びましょう。できれば2オクターブで。テンポは英雄的でなく、きれいに弾ける速さでOK。メトロノームを感心させるのではなく、うまく出し抜くのが目標です。",
+          "zh-Hans": "钢琴音阶很容易练着练着就进入自动驾驶：手指在动，大脑却去度假了，结果练了很多，却没真正学到多少东西。这节课会把一条音阶变成一个**检查点回路**，专门解决这个问题。\n\n请选择**C大调、G大调、D大调、A大调或F大调**，如果可以就弹两组八度。速度要干净，不要逞英雄。你不是来让节拍器佩服你的，你是来比它更聪明的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 1 is **Fingering Control**. Play the scale up and down three times, but only count a rep if every thumb crossing feels calm and prepared. If one crossing feels like a shoe caught in a bicycle chain, slow down and reset.\n\nGoal: make the fingering feel boring in the best possible way.",
+          "pt-BR": "O Checkpoint 1 é **Controle da Digitação**. Toque a escala subindo e descendo três vezes, mas só conte uma repetição se cada passagem do polegar parecer calma e preparada. Se uma troca parecer um cadarço preso na corrente da bicicleta, diminua e recomece.\n\nObjetivo: fazer a digitação parecer entediante no melhor sentido possível.",
+          "es": "El Checkpoint 1 es **Control de Digitación**. Toca la escala subiendo y bajando tres veces, pero solo cuenta una repetición si cada cruce del pulgar se siente calmado y preparado. Si un cruce se siente como un cordón atrapado en la cadena de una bicicleta, baja la velocidad y reinicia.\n\nObjetivo: que la digitación se sienta aburrida en el mejor sentido posible.",
+          "de": "Checkpoint 1 ist **Fingersatz-Kontrolle**. Spiele die Skala dreimal auf und ab, aber zähle eine Wiederholung nur dann, wenn sich jede Daumenuntersetzung ruhig und vorbereitet anfühlt. Wenn sich ein Übergang wie ein Schnürsenkel in einer Fahrradkette anfühlt, geh langsamer und setz neu an.\n\nZiel: Der Fingersatz soll im bestmöglichen Sinn langweilig wirken.",
+          "ja": "チェックポイント1は**指使いのコントロール**です。スケールを上下3回弾きますが、親指のくぐりが毎回落ち着いて準備できているときだけ1回として数えます。どこかの切り替えが、自転車のチェーンに靴ひもが引っかかった感じなら、テンポを落としてやり直しましょう。\n\n目標は、指使いが最高の意味で「退屈」に感じられることです。",
+          "zh-Hans": "检查点1是**指法控制**。把音阶上下各弹三遍，但只有当每一次拇指穿越都显得平静、提前准备好时，这一遍才算数。如果某次穿指像鞋带卡进了自行车链条，那就放慢并重新开始。\n\n目标：让指法在最好的意义上变得“无聊”，也就是稳定到不用担心。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 2 is **Rhythm Control**. Play the same scale as:\n- even eighth notes\n- triplets\n- sixteenth notes at a slower tempo if needed\n\nDon’t chase speed. Chase identical spacing. Uneven rhythm is often just hidden panic wearing formal clothes.",
+          "pt-BR": "O Checkpoint 2 é **Controle do Ritmo**. Toque a mesma escala como:\n- colcheias regulares\n- tercinas\n- semicolcheias em um andamento mais lento, se necessário\n\nNão corra atrás de velocidade. Corra atrás de espaçamento idêntico. Ritmo desigual muitas vezes é só pânico escondido usando roupa formal.",
+          "es": "El Checkpoint 2 es **Control de Ritmo**. Toca la misma escala como:\n- corcheas regulares\n- tresillos\n- semicorcheas a un tempo más lento si hace falta\n\nNo persigas la velocidad. Persigue el mismo espacio entre notas. El ritmo irregular muchas veces es solo pánico escondido con ropa elegante.",
+          "de": "Checkpoint 2 ist **Rhythmus-Kontrolle**. Spiele dieselbe Skala als:\n- gleichmäßige Achtel\n- Triolen\n- Sechzehntel, notfalls in langsamerem Tempo\n\nJage nicht dem Tempo hinterher. Jage identischen Abständen nach. Ungleichmäßiger Rhythmus ist oft nur versteckte Panik im guten Anzug.",
+          "ja": "チェックポイント2は**リズムのコントロール**です。同じスケールを次の3通りで弾きます。\n- 均等な8分音符\n- 3連符\n- 必要ならテンポを落として16分音符\n\n速さを追いかけないでください。追いかけるべきは、音と音の間隔が同じであることです。リズムのムラは、正装した隠れパニックであることがよくあります。",
+          "zh-Hans": "检查点2是**节奏控制**。把同一条音阶分别弹成：\n- 均匀的八分音符\n- 三连音\n- 如果需要，放慢速度再弹十六分音符\n\n不要追求速度，要追求每个音之间的间距一致。不均匀的节奏，很多时候只是穿着正装的隐藏慌张。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 3 is **Tone Control**. Keep the tempo easy and shape the scale three ways:\n- all mezzo-forte\n- crescendo going up, decrescendo going down\n- right hand slightly louder than left, then reverse\n\nThis reveals whether both hands are actually cooperating or just politely disagreeing.",
+          "pt-BR": "O Checkpoint 3 é **Controle do Timbre**. Mantenha o andamento confortável e molde a escala de três maneiras:\n- tudo em mezzo-forte\n- crescendo subindo e decrescendo descendo\n- mão direita um pouco mais forte que a esquerda, depois o contrário\n\nIsso revela se as duas mãos estão realmente cooperando ou apenas discordando com educação.",
+          "es": "El Checkpoint 3 es **Control del Sonido**. Mantén un tempo cómodo y da forma a la escala de tres maneras:\n- todo en mezzo-forte\n- crescendo al subir y decrescendo al bajar\n- mano derecha un poco más fuerte que la izquierda, y luego al revés\n\nEsto revela si ambas manos están cooperando de verdad o solo discutiendo con educación.",
+          "de": "Checkpoint 3 ist **Klang-Kontrolle**. Halte das Tempo entspannt und forme die Skala auf drei Arten:\n- alles mezzo-forte\n- Crescendo nach oben, Decrescendo nach unten\n- rechte Hand etwas lauter als linke, dann umgekehrt\n\nSo merkst du schnell, ob beide Hände wirklich zusammenarbeiten oder nur höflich widersprechen.",
+          "ja": "チェックポイント3は**音色のコントロール**です。テンポは楽なまま、次の3通りでスケールを形作ります。\n- 全部メゾフォルテ\n- 上行でクレッシェンド、下行でデクレッシェンド\n- 右手を少し大きく、そのあと左手を少し大きく\n\nこれで、両手が本当に協力しているのか、それとも礼儀正しく意見が合っていないだけなのかが見えてきます。",
+          "zh-Hans": "检查点3是**音色控制**。保持轻松速度，用三种方式塑造同一条音阶：\n- 全部用中强\n- 上行渐强、下行渐弱\n- 先让右手比左手稍微响一点，再反过来\n\n这会立刻暴露两只手到底是在合作，还是只是礼貌地意见不合。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 4 is **Attention Control**. Put a tiny job on specific notes: maybe every tonic gets a little warmth, every leading tone gets extra direction, or every top note gets a relaxed arrival. Suddenly the scale stops being traffic and starts being music.\n\nIf you can describe what each important note is doing, you are practicing with your ears awake.",
+          "pt-BR": "O Checkpoint 4 é **Controle da Atenção**. Dê uma pequena função para notas específicas: talvez cada tônica receba mais calor, cada sensível tenha mais direção, ou cada nota do topo chegue relaxada. De repente, a escala deixa de ser trânsito e vira música.\n\nSe você consegue descrever o papel de cada nota importante, está praticando com os ouvidos acordados.",
+          "es": "El Checkpoint 4 es **Control de Atención**. Asigna una pequeña tarea a notas concretas: quizá cada tónica tenga más calidez, cada sensible más dirección, o cada nota más aguda una llegada relajada. De pronto, la escala deja de ser tráfico y empieza a ser música.\n\nSi puedes describir qué hace cada nota importante, estás practicando con los oídos despiertos.",
+          "de": "Checkpoint 4 ist **Aufmerksamkeits-Kontrolle**. Gib bestimmten Tönen kleine Aufgaben: vielleicht bekommt jeder Grundton etwas Wärme, jeder Leitton mehr Richtung oder jeder Spitzenton eine entspannte Ankunft. Plötzlich ist die Skala kein Verkehr mehr, sondern Musik.\n\nWenn du beschreiben kannst, was jeder wichtige Ton tut, übst du mit wachen Ohren.",
+          "ja": "チェックポイント4は**注意のコントロール**です。特定の音に小さな役割を与えましょう。たとえば主音にあたたかさ、導音に方向感、頂点の音に力みのない到着感を持たせます。するとスケールはただの交通ではなく、音楽になります。\n\n大事な音が何をしているか説明できるなら、耳を起こしたまま練習できています。",
+          "zh-Hans": "检查点4是**注意力控制**。给某些特定音安排一个小任务：比如每个主音多一点温度，每个导音多一点方向感，或者每个最高音都要轻松落地。这样一来，音阶就不再只是交通流，而开始变成音乐。\n\n如果你能说清每个重要音在做什么，你就是在用清醒的耳朵练琴。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final circuit: earn all four checkpoints in a row, then play a **mini performance rep** with no stopping. Your rep should include:\n- secure fingering\n- even rhythm\n- intentional dynamics\n- a musical high point\n- a calm finish\n\nWrite down which checkpoint breaks first when you increase the tempo. That weak spot is not bad news—it is your next smartest practice target.",
+          "pt-BR": "Circuito final: conquiste os quatro checkpoints em sequência e então faça uma **repetição de mini performance** sem parar. Sua repetição deve incluir:\n- digitação segura\n- ritmo uniforme\n- dinâmica intencional\n- um ponto alto musical\n- um final calmo\n\nAnote qual checkpoint quebra primeiro quando você aumenta o andamento. Esse ponto fraco não é má notícia — é o seu próximo alvo de estudo mais inteligente.",
+          "es": "Circuito final: consigue los cuatro checkpoints seguidos y luego toca una **repetición de mini actuación** sin detenerte. Tu repetición debe incluir:\n- digitación segura\n- ritmo parejo\n- dinámica intencional\n- un punto culminante musical\n- un final tranquilo\n\nAnota qué checkpoint se rompe primero cuando subes el tempo. Ese punto débil no es una mala noticia: es tu siguiente objetivo de práctica más inteligente.",
+          "de": "Finaler Parcours: Schaffe alle vier Checkpoints hintereinander und spiele dann eine **Mini-Performance-Wiederholung** ohne anzuhalten. Deine Wiederholung soll enthalten:\n- sicheren Fingersatz\n- gleichmäßigen Rhythmus\n- bewusste Dynamik\n- einen musikalischen Höhepunkt\n- ein ruhiges Ende\n\nSchreib auf, welcher Checkpoint zuerst zusammenbricht, wenn du das Tempo erhöhst. Diese Schwachstelle ist keine schlechte Nachricht — sie ist dein nächstes kluges Übungsziel.",
+          "ja": "最終サーキット: 4つのチェックポイントを連続でクリアしたら、止まらずに**ミニ本番レップ**を1回弾きます。必要なのは次の5つです。\n- 安定した指使い\n- 均等なリズム\n- 意図のある強弱\n- 音楽的な山場\n- 落ち着いた終わり方\n\nテンポを上げたとき、どのチェックポイントが最初に崩れるかを書き留めてください。その弱点は悪い知らせではありません。次にいちばん賢く練習すべき場所です。",
+          "zh-Hans": "最终回路：连续拿下四个检查点后，不停顿地来一次**迷你演出版**。这一次必须包含：\n- 稳定的指法\n- 均匀的节奏\n- 有意图的力度\n- 一个音乐性的高点\n- 一个平静的结尾\n\n把速度加快时，记下最先崩掉的是哪个检查点。那个弱点不是坏消息——它正是你下一步最聪明的练习目标。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-18T00:07:52Z",
+  "updatedAt": "2026-04-18T00:07:52Z"
+}

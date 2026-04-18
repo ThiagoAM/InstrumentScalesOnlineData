@@ -558,5 +558,33 @@
     "order": 20,
     "createdAt": "2026-04-17T00:07:57Z",
     "updatedAt": "2026-04-17T00:07:57Z"
+  },
+  {
+    "id": "checkpoint-circuit-for-piano-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Checkpoint Circuit for Piano Scales",
+        "pt-BR": "Circuito de Checkpoints para Escalas no Piano",
+        "es": "Circuito de Checkpoints para Escalas en Piano",
+        "de": "Checkpoint-Parcours für Klavierskalen",
+        "ja": "ピアノ音階のチェックポイント・サーキット",
+        "zh-Hans": "钢琴音阶检查点回路"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn daily piano scales into a game of checkpoints for touch, rhythm, fingering, and musical control.",
+        "pt-BR": "Transforme as escalas diárias no piano em um jogo de checkpoints para toque, ritmo, digitação e controle musical.",
+        "es": "Convierte las escalas diarias de piano en un juego de checkpoints para toque, ritmo, digitación y control musical.",
+        "de": "Verwandle tägliche Klavierskalen in ein Checkpoint-Spiel für Anschlag, Rhythmus, Fingersatz und musikalische Kontrolle.",
+        "ja": "毎日のピアノ音階練習を、タッチ・リズム・指使い・音楽的コントロールのチェックポイントゲームに変えよう。",
+        "zh-Hans": "把每天的钢琴音阶练习，变成一个训练触键、节奏、指法和音乐控制力的检查点游戏。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-04-18T00:07:52Z",
+    "updatedAt": "2026-04-18T00:07:52Z"
   }
 ]

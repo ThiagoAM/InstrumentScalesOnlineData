@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-04-16T00:06:36Z",
     "updatedAt": "2026-04-16T00:06:36Z"
+  },
+  {
+    "id": "riff-rescue-scale-mission",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Riff Rescue Scale Mission",
+        "pt-BR": "Missão de Resgate do Riff com Escalas",
+        "es": "Misión de Rescate del Riff con Escalas",
+        "de": "Riff-Rettungsmission mit Skalen",
+        "ja": "スケールで救うリフ救出ミッション",
+        "zh-Hans": "音阶救援：Riff营救任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one stuck guitar riff into a scale-powered solo mission with rhythm, target notes, and storytelling.",
+        "pt-BR": "Transforme um riff de guitarra travado em uma missão de solo com ritmo, notas-alvo e narrativa.",
+        "es": "Convierte un riff de guitarra atascado en una misión de solo con ritmo, notas objetivo y narrativa.",
+        "de": "Verwandle ein festgefahrenes Gitarrenriff in eine Solo-Mission mit Rhythmus, Zieltönen und Storytelling.",
+        "ja": "行き詰まったギターリフを、リズム・着地音・物語性のあるソロ課題に変えよう。",
+        "zh-Hans": "把卡住的吉他riff，变成带有节奏、目标音和故事感的独奏任务。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-18T00:06:20Z",
+    "updatedAt": "2026-04-18T00:06:20Z"
   }
 ]

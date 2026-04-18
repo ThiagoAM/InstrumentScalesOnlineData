@@ -1,0 +1,86 @@
+{
+  "id": "riff-rescue-scale-mission",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "You know that moment when your guitar solo starts sounding like the same three licks wearing different hats? This lesson is your rescue mission. We’ll take **one simple riff idea** and keep transforming it until it feels alive, musical, and harder to predict.\n\nStart with a backing track in **A minor** or **E minor**. Play a tiny riff of **3 to 5 notes** inside a scale shape you already know. Keep it so simple that you could hum it back immediately. That riff is your “hero character.”",
+          "pt-BR": "Sabe aquele momento em que seu solo de guitarra começa a soar como os mesmos três licks usando chapéus diferentes? Esta lição é a sua missão de resgate. Vamos pegar **uma ideia simples de riff** e transformá-la várias vezes até ela soar viva, musical e menos previsível.\n\nEscolha uma backing track em **Lá menor** ou **Mi menor**. Toque um riff curtinho de **3 a 5 notas** dentro de um desenho de escala que você já conhece. Deixe tão simples que você consiga cantar de volta na hora. Esse riff é o seu “personagem principal”.",
+          "es": "¿Conoces ese momento en que tu solo de guitarra empieza a sonar como los mismos tres licks con sombreros distintos? Esta lección es tu misión de rescate. Tomaremos **una idea simple de riff** y la iremos transformando hasta que se sienta viva, musical y menos predecible.\n\nElige una backing track en **La menor** o **Mi menor**. Toca un riff pequeño de **3 a 5 notas** dentro de una forma de escala que ya conozcas. Hazlo tan simple que puedas cantarlo de inmediato. Ese riff es tu “personaje principal”.",
+          "de": "Kennst du den Moment, in dem dein Gitarrensolo plötzlich wie dieselben drei Licks mit anderen Hüten klingt? Diese Lektion ist deine Rettungsmission. Wir nehmen **eine einfache Riff-Idee** und verwandeln sie immer weiter, bis sie lebendig, musikalisch und weniger vorhersehbar wirkt.\n\nNimm einen Backing-Track in **A-Moll** oder **E-Moll**. Spiele ein winziges Riff aus **3 bis 5 Tönen** innerhalb einer Skalenform, die du schon kennst. Halte es so simpel, dass du es sofort nachsingen könntest. Dieses Riff ist dein „Hauptcharakter“.",
+          "ja": "ギターソロが、結局いつもの3つのリックに違う帽子をかぶせただけみたいに聞こえる瞬間、ありますよね。このレッスンはその救出ミッションです。**ひとつのシンプルなリフの種**を何度も変化させて、もっと生き生きと、音楽的で、予測しにくいものにしていきます。\n\n**Aマイナー**または**Eマイナー**のバッキングトラックを選びましょう。すでに知っているスケール形の中で、**3〜5音**の短いリフを作ります。すぐに口ずさめるくらいシンプルでOK。そのリフがあなたの「主人公」です。",
+          "zh-Hans": "你一定遇到过这种时刻：吉他独奏听起来像是同样三个lick，只是换了不同帽子。这节课就是你的救援任务。我们会抓住**一个简单的riff点子**，不断把它变形，直到它听起来更鲜活、更有音乐性，也更难预测。\n\n找一条**A小调**或**E小调**的伴奏。先在你熟悉的一个音阶把位里，弹出一个只有**3到5个音**的小riff。它要简单到你马上就能哼出来。这个riff就是你的“主角”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mission 1: play the hero riff **four times**, but give it four different rhythmic attitudes:\n- straight eighth notes\n- syncopated\n- with a rest before beat 1\n- ending with a longer note\n\nThe pitches can stay almost the same. Your job is to prove that **rhythm creates personality**. If version 3 makes you nod your head more than version 1, you’re doing it right.",
+          "pt-BR": "Missão 1: toque o riff principal **quatro vezes**, mas dê a ele quatro atitudes rítmicas diferentes:\n- colcheias retas\n- síncope\n- com uma pausa antes do tempo 1\n- terminando com uma nota mais longa\n\nAs alturas podem quase não mudar. Sua tarefa é provar que **o ritmo cria personalidade**. Se a versão 3 faz você balançar a cabeça mais do que a versão 1, você está no caminho certo.",
+          "es": "Misión 1: toca el riff principal **cuatro veces**, pero dale cuatro actitudes rítmicas distintas:\n- corcheas rectas\n- síncopa\n- con un silencio antes del tiempo 1\n- terminando con una nota más larga\n\nLas alturas pueden quedar casi iguales. Tu trabajo es demostrar que **el ritmo crea personalidad**. Si la versión 3 te hace mover más la cabeza que la versión 1, vas bien.",
+          "de": "Mission 1: Spiele das Hauptriff **viermal**, aber gib ihm vier unterschiedliche rhythmische Haltungen:\n- gerade Achtel\n- synkopiert\n- mit einer Pause vor Zählzeit 1\n- mit einem längeren Schlusston\n\nDie Tonhöhen dürfen fast gleich bleiben. Deine Aufgabe ist zu beweisen, dass **Rhythmus Persönlichkeit schafft**. Wenn Version 3 deinen Kopf stärker nicken lässt als Version 1, bist du auf dem richtigen Weg.",
+          "ja": "ミッション1: 主人公リフを**4回**弾きます。ただし毎回、リズムの性格を変えます。\n- まっすぐな8分音符\n- シンコペーション\n- 1拍目の前に休符を入れる\n- 最後を長い音で終える\n\n音の高さはほとんど同じでもかまいません。ここで証明したいのは、**個性を作るのはリズム**だということです。バージョン3の方がバージョン1より体がノるなら成功です。",
+          "zh-Hans": "任务1：把这个主角riff弹**四次**，但每次都给它不同的节奏性格：\n- 平稳的八分音符\n- 切分节奏\n- 在第1拍前先留一个空隙\n- 用更长的音结束\n\n音高几乎不用变。你的目标是证明：**节奏会塑造个性**。如果第3版比第1版更让你点头，说明你做对了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mission 2: now force the riff to **land on a target note**. Over Am, try ending on **A, C, or E**. Over E minor, try **E, G, or B**. Play the riff, then slightly reshape the ending so it lands on purpose instead of by accident.\n\nThis is where many scale players level up: not by adding more notes, but by aiming better. Think like an archer, not a note sprinkler.",
+          "pt-BR": "Missão 2: agora obrigue o riff a **cair em uma nota-alvo**. Sobre Am, tente terminar em **A, C ou E**. Sobre Em, tente **E, G ou B**. Toque o riff e então mude levemente o final para ele chegar lá de propósito, e não por acidente.\n\nÉ aqui que muitos músicos evoluem com escalas: não por usar mais notas, e sim por mirar melhor. Pense como um arqueiro, não como um sprinkler de notas.",
+          "es": "Misión 2: ahora obliga al riff a **caer en una nota objetivo**. Sobre Am, intenta terminar en **A, C o E**. Sobre Em, prueba **E, G o B**. Toca el riff y luego modifica un poco el final para llegar ahí a propósito y no por accidente.\n\nAquí es donde muchos músicos suben de nivel con las escalas: no por usar más notas, sino por apuntar mejor. Piensa como un arquero, no como un aspersor de notas.",
+          "de": "Mission 2: Zwinge das Riff jetzt, auf einem **Zielton zu landen**. Über Am versuche **A, C oder E**. Über Em versuche **E, G oder B**. Spiele das Riff und forme dann das Ende leicht um, damit es absichtlich dort ankommt und nicht zufällig.\n\nHier steigen viele Skalen-Spieler auf: nicht indem sie mehr Töne hinzufügen, sondern indem sie besser zielen. Denk wie ein Bogenschütze, nicht wie ein Notenrasensprenger.",
+          "ja": "ミッション2: 次はそのリフを**狙った着地音**に着地させます。Amなら**A、C、E**、Emなら**E、G、B**を試しましょう。リフを弾いたあと、終わり方を少しだけ変えて、偶然ではなく意図してその音に着地させます。\n\n多くのスケール奏者が成長するのは、音を増やしたときではなく、狙いが良くなったときです。音をまく人ではなく、弓を引く人になりましょう。",
+          "zh-Hans": "任务2：现在强迫这个riff**落在目标音上**。在Am上，试着落在**A、C或E**；在Em上，试着落在**E、G或B**。先弹riff，再稍微改一下结尾，让它是“有意到达”，而不是“碰巧落到”。\n\n很多练音阶的人真正进步，不是因为音更多，而是因为瞄得更准。要像弓箭手一样思考，而不是像洒水器一样乱喷音符。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mission 3: move the same idea to **another string set or another position**. Keep the contour recognizable, even if the fingering changes. If the original riff feels like a sentence, the new position should feel like the same sentence spoken in another room.\n\nBonus challenge: answer the first version with the moved version, like a mini call-and-response.",
+          "pt-BR": "Missão 3: mova a mesma ideia para **outro grupo de cordas ou outra posição**. Mantenha o contorno reconhecível, mesmo que a digitação mude. Se o riff original parece uma frase, a nova posição deve soar como a mesma frase dita em outro cômodo.\n\nDesafio extra: responda à primeira versão com a versão deslocada, como um mini pergunta e resposta.",
+          "es": "Misión 3: mueve la misma idea a **otro grupo de cuerdas u otra posición**. Mantén el contorno reconocible aunque cambie la digitación. Si el riff original parece una frase, la nueva posición debe sonar como la misma frase dicha en otra habitación.\n\nDesafío extra: responde a la primera versión con la versión movida, como un mini pregunta-respuesta.",
+          "de": "Mission 3: Verschiebe dieselbe Idee auf **einen anderen Saitensatz oder in eine andere Lage**. Die Kontur soll erkennbar bleiben, auch wenn sich der Fingersatz ändert. Wenn das ursprüngliche Riff wie ein Satz wirkt, sollte die neue Lage wie derselbe Satz in einem anderen Raum klingen.\n\nBonus-Challenge: Lass die verschobene Version auf die erste antworten, wie ein kleines Call-and-Response.",
+          "ja": "ミッション3: 同じアイデアを**別の弦セットや別ポジション**へ移します。運指が変わっても、輪郭はわかるように保ちましょう。元のリフがひとつの文なら、新しいポジション版は「別の部屋で同じ文を話した」感じです。\n\nおまけ課題: 最初のバージョンに、移動したバージョンで返事をして、ミニのコール＆レスポンスにしてみましょう。",
+          "zh-Hans": "任务3：把同一个想法移到**另一组弦或另一个把位**。即使指法变了，也要让整体轮廓还能被认出来。如果原来的riff像一句话，那么新把位版本就像是在另一个房间里说出同一句话。\n\n加分挑战：让移动后的版本去回应原版本，做成一个迷你的问答句式。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mission 4: add exactly **one “spice note”** from outside the safest shape, then resolve back inside. Maybe it’s a blues note, maybe a slide into a chord tone, maybe a quick passing tone. One spice note is enough. We are cooking, not starting a kitchen fire.\n\nListen carefully: does the outside note create tension, or just confusion? Keep the ones that sound intentional.",
+          "pt-BR": "Missão 4: adicione exatamente **uma “nota tempero”** de fora do desenho mais seguro e resolva de volta para dentro. Pode ser uma blue note, um slide para uma nota do acorde ou uma nota de passagem rápida. Uma nota tempero basta. Estamos cozinhando, não incendiando a cozinha.\n\nOuça com atenção: a nota de fora cria tensão ou só confusão? Fique com as que soarem intencionais.",
+          "es": "Misión 4: añade exactamente **una “nota especia”** fuera de la forma más segura y resuelve de nuevo hacia dentro. Puede ser una blue note, un slide hacia una nota del acorde o una nota de paso rápida. Una sola nota especia basta. Estamos cocinando, no incendiando la cocina.\n\nEscucha con atención: ¿la nota exterior crea tensión o solo confusión? Quédate con las que suenen intencionales.",
+          "de": "Mission 4: Füge genau **eine „Gewürznote“** außerhalb der sichersten Form hinzu und löse wieder nach innen auf. Das kann ein Blueston sein, ein Slide in einen Akkordton oder ein kurzer Durchgangston. Eine Gewürznote reicht. Wir kochen, wir zünden nicht die Küche an.\n\nHör genau hin: erzeugt der Außenton Spannung oder nur Verwirrung? Behalte nur die Töne, die absichtlich klingen.",
+          "ja": "ミッション4: いちばん安全な形の外から、**“スパイス音”を1つだけ**加えて、また内側へ解決します。ブルーノートでも、コードトーンへのスライドでも、短い経過音でもOK。1つで十分です。料理はしますが、キッチンは燃やしません。\n\nよく聴いてください。その外側の音は緊張感を作っていますか？ それともただ混乱しているだけですか？ 意図が感じられるものだけ残しましょう。",
+          "zh-Hans": "任务4：只加入**一个“调味音”**，也就是来自安全把位之外的音，然后再解决回里面。它可以是蓝调音、滑向和弦音的音、或者一个快速经过音。一个调味音就够了。我们是在做菜，不是在点燃厨房。\n\n认真听：这个外来音是在制造张力，还是只是在制造混乱？只保留那些听起来像“故意这样做”的音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: perform a **30-second solo** using only versions of your hero riff. Your solo needs:\n- one rhythmic change\n- one target-note landing\n- one position shift\n- one spice note moment\n- one ending that sounds final\n\nRecord it if possible. If the solo sounds connected instead of random, you won. If not, great—you just discovered exactly what to practice next.",
+          "pt-BR": "Rodada final: faça um **solo de 30 segundos** usando apenas versões do seu riff principal. Seu solo precisa ter:\n- uma mudança rítmica\n- uma chegada em nota-alvo\n- uma mudança de posição\n- um momento com nota tempero\n- um final que soe conclusivo\n\nSe possível, grave. Se o solo soar conectado em vez de aleatório, você venceu. Se não soar, ótimo — você acabou de descobrir exatamente o que praticar depois.",
+          "es": "Ronda final: interpreta un **solo de 30 segundos** usando solo versiones de tu riff principal. Tu solo debe incluir:\n- un cambio rítmico\n- una llegada a nota objetivo\n- un cambio de posición\n- un momento con nota especia\n- un final que suene definitivo\n\nSi puedes, grábalo. Si el solo suena conectado en vez de aleatorio, ganaste. Si no, perfecto: acabas de descubrir exactamente qué practicar después.",
+          "de": "Finalrunde: Spiele ein **30-Sekunden-Solo** nur mit Versionen deines Hauptriffs. Dein Solo braucht:\n- eine rhythmische Veränderung\n- eine Zielton-Landung\n- einen Lagenwechsel\n- einen Gewürznote-Moment\n- ein Ende, das wirklich abschließt\n\nNimm es wenn möglich auf. Wenn das Solo zusammenhängend statt zufällig klingt, hast du gewonnen. Wenn nicht, auch gut — jetzt weißt du ganz genau, was du als Nächstes üben solltest.",
+          "ja": "最終ラウンド: 主人公リフの変形だけを使って、**30秒のソロ**を作ります。必要なのは次の5つです。\n- リズムの変化を1回\n- 着地音への解決を1回\n- ポジション移動を1回\n- スパイス音の瞬間を1回\n- 終わった感じのする締め方を1回\n\nできれば録音してください。ソロがバラバラではなく、つながって聞こえたら勝ちです。そうならなくても大丈夫。次に何を練習すべきかが、はっきり見えたということです。",
+          "zh-Hans": "最终回合：只用主角riff的各种变形，完成一个**30秒独奏**。你的独奏必须包含：\n- 一次节奏变化\n- 一次目标音落点\n- 一次把位移动\n- 一次调味音时刻\n- 一个真正像结尾的收束\n\n如果可以，请录下来。如果这个独奏听起来是连贯的，而不是随机拼起来的，你就赢了。如果还没有，也很好——你已经准确找到了下一步该练什么。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-18T00:06:20Z",
+  "updatedAt": "2026-04-18T00:06:20Z"
+}

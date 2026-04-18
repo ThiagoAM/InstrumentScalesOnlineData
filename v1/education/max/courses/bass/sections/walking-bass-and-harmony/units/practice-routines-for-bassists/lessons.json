@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "pocket-lab-scale-challenge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Lab Scale Challenge",
+        "pt-BR": "Desafio de Escalas no Laboratório do Groove",
+        "es": "Desafío de Escalas en el Laboratorio del Groove",
+        "de": "Pocket-Labor: Skalen-Challenge für Bass",
+        "ja": "ポケット研究室：ベース音階チャレンジ",
+        "zh-Hans": "Groove实验室：贝斯音阶挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build bass lines that groove first and still use scale knowledge with control, movement, and intention.",
+        "pt-BR": "Construa linhas de baixo que grooveiem primeiro e ainda usem escalas com controle, movimento e intenção.",
+        "es": "Construye líneas de bajo que grooveen primero y aun así usen escalas con control, movimiento e intención.",
+        "de": "Baue Basslinien, die zuerst grooven und trotzdem Skalenwissen mit Kontrolle, Bewegung und Absicht nutzen.",
+        "ja": "まずグルーヴを優先しながら、音階知識をコントロール・動き・意図に変えるベースラインを作ろう。",
+        "zh-Hans": "让你的贝斯线先有groove，再把音阶知识变成有控制、有移动感、有目的性的句子。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-18T00:07:52Z",
+    "updatedAt": "2026-04-18T00:07:52Z"
   }
 ]
