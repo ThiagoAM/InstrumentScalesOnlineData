@@ -1,0 +1,73 @@
+{
+  "id": "ii-v-i-landing-pad",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the landing pad. Set a swing or straight-eighth loop in **C major** at **84-96 BPM** and cycle **Dm7-G7-Cmaj7**. Your job is not to impress the control tower — it is to land every bar so cleanly that the harmony feels inevitable.",
+          "pt-BR": "Bem-vindo à pista de pouso. Coloque um loop com swing ou colcheias retas em **Dó maior** entre **84-96 BPM** e gire **Dm7-G7-Cmaj7**. Sua função não é impressionar a torre de controle — é pousar cada compasso com tanta clareza que a harmonia pareça inevitável.",
+          "es": "Bienvenido a la pista de aterrizaje. Pon un loop con swing o corcheas rectas en **Do mayor** a **84-96 BPM** y repite **Dm7-G7-Cmaj7**. Tu trabajo no es impresionar a la torre de control, sino aterrizar cada compás con tanta claridad que la armonía parezca inevitable.",
+          "de": "Willkommen auf der Landebahn. Starte einen Swing- oder Straight-Eighth-Loop in **C-Dur** bei **84-96 BPM** und wiederhole **Dm7-G7-Cmaj7**. Deine Aufgabe ist nicht, den Tower zu beeindrucken, sondern jeden Takt so klar zu landen, dass sich die Harmonie unvermeidlich anfühlt.",
+          "ja": "ランディングパッドへようこそ。**Cメジャー** で **84-96 BPM** のスウィングまたはストレート8分のループを用意し、**Dm7-G7-Cmaj7** を回しましょう。目標は管制塔を驚かせることではなく、各小節をあまりにも自然に着地させて、ハーモニーが必然に聞こえるようにすることです。",
+          "zh-Hans": "欢迎来到着陆坪。设置一个 **C大调**、**84-96 BPM** 的 swing 或直八分循环，反复练 **Dm7-G7-Cmaj7**。你的任务不是炫耀给塔台看，而是把每个小节都落得足够清楚，让和声听起来像命中注定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is roots only: play **D** on bar 1, **G** on bar 2, **C** on bar 3, then loop. Make beat 1 feel heavy, centered, and boring in the best possible way. Great walking lines are built on trustworthy arrivals, not last-second miracles.",
+          "pt-BR": "A rodada 1 é só de fundamentais: toque **D** no compasso 1, **G** no compasso 2, **C** no compasso 3 e repita. Faça o tempo 1 soar pesado, centralizado e “sem graça” no melhor sentido. Grandes linhas de walking nascem de chegadas confiáveis, não de milagres de última hora.",
+          "es": "La ronda 1 es solo de fundamentales: toca **D** en el compás 1, **G** en el compás 2 y **C** en el compás 3, y repite. Haz que el tiempo 1 se sienta pesado, centrado y aburrido en el mejor sentido. Las grandes líneas de walking nacen de llegadas fiables, no de milagros de último segundo.",
+          "de": "Runde 1 besteht nur aus Grundtönen: Spiele **D** in Takt 1, **G** in Takt 2 und **C** in Takt 3, dann loop. Schlag 1 soll schwer, zentriert und auf die bestmögliche Weise langweilig wirken. Große Walking-Lines entstehen aus verlässlichen Landungen, nicht aus Wunderaktionen in letzter Sekunde.",
+          "ja": "ラウンド1はルートだけです。1小節目に **D**、2小節目に **G**、3小節目に **C** を弾いてループします。1拍目は重く、中心があり、良い意味で退屈に感じるくらいでOK。優れたウォーキングラインは、土壇場の奇跡ではなく、信頼できる着地から生まれます。",
+          "zh-Hans": "第1轮只弹根音：第1小节 **D**，第2小节 **G**，第3小节 **C**，然后循环。让第1拍听起来沉、稳、甚至在最好的意义上有点“无聊”。伟大的 walking line 建立在可靠的落点上，而不是最后一秒的奇迹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 adds scale motion. Between the roots, connect with one or two notes from the parent scale: **D-E-F-G** on the way to G, then **G-A-B-C** on the way to C. Keep the line singing forward, but never let the passing notes steal the spotlight from the landing note.",
+          "pt-BR": "Na rodada 2 entra o movimento de escala. Entre as fundamentais, conecte com uma ou duas notas da escala-mãe: **D-E-F-G** a caminho de G, depois **G-A-B-C** a caminho de C. Deixe a linha cantar para a frente, mas nunca permita que as notas de passagem roubem a cena da nota de chegada.",
+          "es": "La ronda 2 añade movimiento de escala. Entre las fundamentales, conecta con una o dos notas de la escala madre: **D-E-F-G** camino a G y luego **G-A-B-C** camino a C. Deja que la línea cante hacia delante, pero no permitas que las notas de paso le roben protagonismo a la nota de llegada.",
+          "de": "Runde 2 bringt Skalenbewegung dazu. Zwischen den Grundtönen verbindest du mit ein oder zwei Tönen aus der übergeordneten Skala: **D-E-F-G** auf dem Weg zu G, dann **G-A-B-C** auf dem Weg zu C. Die Linie soll nach vorne singen, aber die Durchgangstöne dürfen dem Zielton nie die Show stehlen.",
+          "ja": "ラウンド2ではスケールの動きを加えます。ルートの間を、親スケールの1音か2音でつなぎます。たとえば G に向かうなら **D-E-F-G**、C に向かうなら **G-A-B-C**。ラインは前へ歌うように進めつつ、経過音が着地点の主役を奪わないようにしましょう。",
+          "zh-Hans": "第2轮加入音阶运动。根音之间，用母音阶的一到两个音连接：去 G 的路上可以用 **D-E-F-G**，去 C 的路上可以用 **G-A-B-C**。让线条向前歌唱，但别让经过音抢走落点音的主角位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 adds attitude: target the **3rd** of each chord once per loop — **F** over Dm7, **B** over G7, **E** over Cmaj7. Those notes are your harmonic fingerprints. If the progression still sounds vague, your targets are too shy.",
+          "pt-BR": "Na rodada 3 entra a atitude: mire na **terça** de cada acorde uma vez por volta — **F** sobre Dm7, **B** sobre G7, **E** sobre Cmaj7. Essas notas são suas impressões digitais harmônicas. Se a progressão ainda soar vaga, seus alvos estão tímidos demais.",
+          "es": "La ronda 3 añade carácter: apunta a la **3ª** de cada acorde una vez por vuelta — **F** sobre Dm7, **B** sobre G7 y **E** sobre Cmaj7. Esas notas son tus huellas armónicas. Si la progresión todavía suena vaga, tus objetivos están siendo demasiado tímidos.",
+          "de": "Runde 3 bringt Charakter: Ziele pro Durchlauf einmal auf die **Terz** jedes Akkords — **F** über Dm7, **B** über G7, **E** über Cmaj7. Diese Töne sind deine harmonischen Fingerabdrücke. Wenn die Progression immer noch vage klingt, sind deine Zieltöne zu schüchtern.",
+          "ja": "ラウンド3では表情を加えます。1周の中で各コードの **3度** を1回ずつ狙います。**Dm7** では **F**、**G7** では **B**、**Cmaj7** では **E** です。これらはハーモニーの指紋です。進行がまだぼんやり聞こえるなら、狙いの音がまだ遠慮しています。",
+          "zh-Hans": "第3轮加入态度：每一轮都至少瞄准一次每个和弦的 **三度**——**Dm7** 上是 **F**，**G7** 上是 **B**，**Cmaj7** 上是 **E**。这些音就是你的和声指纹。如果这个进行听起来还是模糊，你的目标音就太害羞了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record four loops. Loop 1 is simple. Loop 2 uses more passing notes. Loop 3 adds one chromatic approach into **G** or **C**. Loop 4 should sound the most musical, not the busiest. If every landing feels calm and intentional, your bass just earned clearance to land.",
+          "pt-BR": "Desafio final: grave quatro voltas. A volta 1 é simples. A volta 2 usa mais notas de passagem. A volta 3 adiciona uma aproximação cromática para **G** ou **C**. A volta 4 deve soar a mais musical, não a mais cheia. Se cada chegada parecer calma e intencional, seu baixo acabou de receber autorização para pousar.",
+          "es": "Desafío final: graba cuatro vueltas. La vuelta 1 es simple. La vuelta 2 usa más notas de paso. La vuelta 3 añade una aproximación cromática hacia **G** o **C**. La vuelta 4 debe sonar la más musical, no la más cargada. Si cada llegada se siente calma e intencional, tu bajo acaba de recibir permiso para aterrizar.",
+          "de": "Final-Challenge: Nimm vier Durchläufe auf. Durchlauf 1 ist simpel. Durchlauf 2 nutzt mehr Durchgangstöne. Durchlauf 3 fügt einen chromatischen Approach zu **G** oder **C** hinzu. Durchlauf 4 soll am musikalischsten klingen, nicht am vollsten. Wenn jede Landung ruhig und absichtlich wirkt, hat dein Bass soeben Landefreigabe bekommen.",
+          "ja": "最後のチャレンジでは4周録音します。1周目はシンプル。2周目は経過音を少し増やす。3周目は **G** または **C** へのクロマチック・アプローチを1つ入れる。4周目は一番忙しいものではなく、一番音楽的なものを目指してください。どの着地も落ち着いて意図的に聞こえたら、あなたのベースは着陸許可を得ました。",
+          "zh-Hans": "最终挑战：录四轮。第1轮保持简单。第2轮多用一些经过音。第3轮加入一个通往 **G** 或 **C** 的半音逼近。第4轮要追求最有音乐感，而不是最满。如果每次落点都显得冷静而有意图，你的贝斯就拿到了着陆许可。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-19T00:07:24Z",
+  "updatedAt": "2026-04-19T00:07:24Z"
+}

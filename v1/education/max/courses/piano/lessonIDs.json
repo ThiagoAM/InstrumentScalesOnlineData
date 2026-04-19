@@ -33,6 +33,7 @@
     "piano/modes-and-melodic-playing/major-scale-modes-on-piano/ionian-and-dorian-from-c-major",
     "piano/modes-and-melodic-playing/major-scale-modes-on-piano/mixolydian-and-aeolian-from-c-major",
     "piano/modes-and-melodic-playing/major-scale-modes-on-piano/comparing-mode-colors-on-the-same-chords",
+    "piano/modes-and-melodic-playing/major-scale-modes-on-piano/dorian-color-lab",
     "piano/modes-and-melodic-playing/modal-improvisation/d-dorian-over-a-static-dm7-groove",
     "piano/modes-and-melodic-playing/modal-improvisation/g-mixolydian-over-dominant-grooves",
     "piano/modes-and-melodic-playing/modal-improvisation/using-modes-for-simple-left-right-hand-patterns",
@@ -73,5 +74,5 @@
     "piano/scale-based-practice-routines/creating-your-own-practice-plan/practice-plan-energy-map"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-04-18T00:07:52Z"
+  "updatedAt": "2026-04-19T00:08:45Z"
 }

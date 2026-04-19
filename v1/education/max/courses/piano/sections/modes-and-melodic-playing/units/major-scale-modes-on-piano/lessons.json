@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "dorian-color-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dorian Color Lab",
+        "pt-BR": "Laboratório da Cor Dórica",
+        "es": "Laboratorio del Color Dórico",
+        "de": "Dorian-Farblabor",
+        "ja": "ドリアン・カラー実験室",
+        "zh-Hans": "多利亚色彩实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Explore how Dorian mode changes the emotional color of a piano phrase without changing your groove.",
+        "pt-BR": "Explore como o modo dórico muda a cor emocional de uma frase no piano sem mexer no groove.",
+        "es": "Explora cómo el modo dórico cambia el color emocional de una frase de piano sin mover el groove.",
+        "de": "Erkunde, wie der dorische Modus die emotionale Farbe einer Klavierphrase verändert, ohne den Groove zu verlieren.",
+        "ja": "グルーヴを崩さずに、ドリアンがピアノのフレーズの感情的な色をどう変えるかを探るレッスンです。",
+        "zh-Hans": "探索多利亚调式如何在不改变groove的情况下改变钢琴乐句的情绪颜色。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-19T00:08:45Z",
+    "updatedAt": "2026-04-19T00:08:45Z"
   }
 ]

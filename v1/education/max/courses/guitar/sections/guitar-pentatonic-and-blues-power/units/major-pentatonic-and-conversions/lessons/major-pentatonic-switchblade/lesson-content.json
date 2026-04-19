@@ -1,0 +1,73 @@
+{
+  "id": "major-pentatonic-switchblade",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a backing track in **A major** at **88-100 BPM**. Your mission is to turn the **A major pentatonic** and **F# minor pentatonic** into two faces of the same solo voice. Same notes, different spotlight.",
+          "pt-BR": "Coloque um backing track em **Lá maior** entre **88-100 BPM**. Sua missão é transformar a **pentatônica maior de A** e a **pentatônica menor de F#** em duas faces da mesma voz de solo. São as mesmas notas, mas com outro holofote.",
+          "es": "Pon una base en **La mayor** a **88-100 BPM**. Tu misión es convertir la **pentatónica mayor de A** y la **pentatónica menor de F#** en dos caras de la misma voz solista. Son las mismas notas, pero con un foco distinto.",
+          "de": "Starte einen Backing-Track in **A-Dur** bei **88-100 BPM**. Deine Mission ist, die **A-Dur-Pentatonik** und die **F#-Moll-Pentatonik** zu zwei Gesichtern derselben Solo-Stimme zu machen. Gleiche Töne, anderer Scheinwerfer.",
+          "ja": "**Aメジャー** のバッキングを **88-100 BPM** で流しましょう。今日のミッションは、**Aメジャー・ペンタトニック** と **F#マイナー・ペンタトニック** を、同じソロの別の表情として使い分けることです。音は同じでも、当てるスポットライトが変わります。",
+          "zh-Hans": "把 **A大调** 的伴奏设在 **88-100 BPM**。今天的任务，是把 **A大调五声音阶** 和 **F#小调五声音阶** 变成同一个独奏声音的两张面孔。音是同一组，聚光灯却不同。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a simple two-bar phrase using **A-B-C#-E-F#**. In bars 1-2, make **A** sound like home by landing on **A** or **C#** on strong beats. Then play the exact same rhythm again, but now make **F#** feel like home by aiming at **F#** or **A**.",
+          "pt-BR": "Comece com uma frase simples de dois compassos usando **A-B-C#-E-F#**. Nos compassos 1-2, faça **A** soar como casa, aterrissando em **A** ou **C#** nos tempos fortes. Depois toque exatamente o mesmo ritmo de novo, mas agora faça **F#** parecer o centro, mirando em **F#** ou **A**.",
+          "es": "Empieza con una frase sencilla de dos compases usando **A-B-C#-E-F#**. En los compases 1-2, haz que **A** suene como casa aterrizando en **A** o **C#** en los tiempos fuertes. Luego toca exactamente el mismo ritmo otra vez, pero ahora haz que **F#** se sienta como centro apuntando a **F#** o **A**.",
+          "de": "Beginne mit einer einfachen Zwei-Takt-Phrase aus **A-B-C#-E-F#**. In Takt 1-2 soll **A** wie Zuhause klingen, indem du auf **A** oder **C#** auf starken Zählzeiten landest. Spiele danach exakt denselben Rhythmus noch einmal, aber lass jetzt **F#** wie das Zentrum wirken, indem du auf **F#** oder **A** zielst.",
+          "ja": "まず **A-B-C#-E-F#** を使って2小節のシンプルなフレーズを作ります。1-2小節目では **A** がホームに聞こえるように、強拍で **A** か **C#** に着地しましょう。そのあとまったく同じリズムをもう一度弾き、今度は **F#** を中心に感じさせるよう **F#** か **A** を狙います。",
+          "zh-Hans": "先用 **A-B-C#-E-F#** 做一个两小节的简单乐句。在前两小节里，让 **A** 听起来像“家”，也就是在强拍落到 **A** 或 **C#**。然后把完全一样的节奏再弹一遍，但这次要让 **F#** 像中心一样成立，把落点改成 **F#** 或 **A**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one tiny attitude change: bend, slide, or vibrato on only **one** target note per phrase. The trick is not more notes — it is stronger storytelling. If both versions sound identical, your phrasing is asleep and needs coffee.",
+          "pt-BR": "Agora adicione uma pequena mudança de atitude: faça bend, slide ou vibrato em apenas **uma** nota-alvo por frase. O segredo não é colocar mais notas — é contar melhor a história. Se as duas versões soarem iguais, seu fraseado está dormindo no ponto.",
+          "es": "Ahora añade un pequeño cambio de actitud: usa bend, slide o vibrato en solo **una** nota objetivo por frase. El truco no es meter más notas, sino contar mejor la historia. Si las dos versiones suenan idénticas, tu fraseo necesita café.",
+          "de": "Jetzt kommt eine kleine Haltungsänderung dazu: Nutze Bend, Slide oder Vibrato auf nur **einem** Zielton pro Phrase. Der Trick sind nicht mehr Töne, sondern besseres Storytelling. Wenn beide Versionen gleich klingen, ist dein Phrasing eingeschlafen.",
+          "ja": "次に、ちょっとした表情の変化を1つだけ足します。各フレーズでターゲットノート **1音だけ** にベンド、スライド、またはビブラートを入れてください。大事なのは音数ではなく、物語の伝え方です。2つのバージョンが同じに聞こえるなら、フレージングはまだ眠っています。",
+          "zh-Hans": "接着只加入一个小小的态度变化：每条乐句只在 **一个** 目标音上使用推弦、滑音或颤音。秘诀不是更多音，而是更会讲故事。如果两个版本听起来没区别，那你的乐句还没醒。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: play four loops. Loop 1 stays clearly major. Loop 2 stays clearly minor. Loop 3 starts major and pivots to minor in bar 2. Loop 4 can surprise you, but it still has to land cleanly on a target note at the end.",
+          "pt-BR": "Rodada de desafio: toque quatro voltas. A volta 1 fica claramente maior. A volta 2 fica claramente menor. A volta 3 começa maior e muda para menor no compasso 2. A volta 4 pode te surpreender, mas ainda precisa terminar limpa em uma nota-alvo.",
+          "es": "Ronda de desafío: toca cuatro vueltas. La vuelta 1 se queda claramente mayor. La vuelta 2 se queda claramente menor. La vuelta 3 empieza mayor y gira a menor en el compás 2. La vuelta 4 puede sorprenderte, pero aun así debe caer limpia en una nota objetivo.",
+          "de": "Challenge-Runde: Spiele vier Durchläufe. Durchlauf 1 bleibt klar durig. Durchlauf 2 bleibt klar mollig. Durchlauf 3 beginnt in Dur und kippt in Takt 2 nach Moll. Durchlauf 4 darf überraschen, muss aber trotzdem sauber auf einem Zielton landen.",
+          "ja": "チャレンジラウンドです。4周弾きましょう。1周目ははっきりメジャー。2周目ははっきりマイナー。3周目はメジャーで始めて2小節目でマイナーへ切り替えます。4周目は自由に驚かせてOKですが、最後は必ずターゲットノートにきれいに着地します。",
+          "zh-Hans": "挑战回合：连续弹四轮。第1轮要明显偏大调。第2轮要明显偏小调。第3轮从大调开始，在第2小节转去小调。第4轮可以更自由一点，但最后仍然必须干净地落在目标音上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final test: record two takes over the same track — one that feels sunny, one that feels moodier — using almost the same note pool. If a listener can hear the mood shift without you explaining it, you just unlocked the switchblade: same scale family, sharper musical intent.",
+          "pt-BR": "Teste final: grave duas tomadas sobre a mesma base — uma com clima ensolarado e outra mais sombria — usando quase o mesmo conjunto de notas. Se alguém perceber a mudança de humor sem você explicar nada, você desbloqueou o canivete: mesma família de escalas, intenção musical muito mais afiada.",
+          "es": "Prueba final: graba dos tomas sobre la misma base — una luminosa y otra más oscura — usando casi el mismo grupo de notas. Si alguien oye el cambio de ánimo sin que se lo expliques, acabas de desbloquear la navaja: misma familia de escalas, intención musical mucho más afilada.",
+          "de": "Finaltest: Nimm zwei Takes über denselben Track auf — einen sonnigen und einen dunkleren — mit fast demselben Tonvorrat. Wenn jemand den Stimmungswechsel hört, ohne dass du ihn erklärst, hast du das Klappmesser freigeschaltet: gleiche Skalenfamilie, aber deutlich schärfere musikalische Absicht.",
+          "ja": "最後のテストとして、同じトラックで2テイク録音します。1つは明るい雰囲気、もう1つは少し影のある雰囲気です。使う音はほぼ同じで構いません。説明しなくても聴き手がムードの変化を感じ取れたら、スイッチブレード解放です。同じスケール・ファミリーでも、音楽的な意図はずっと鋭くできます。",
+          "zh-Hans": "最后测试：对着同一条伴奏录两遍——一遍更明亮，一遍更阴影一些——而且几乎使用同样的音池。如果听的人不用你解释就能感到气氛变化，说明你已经解锁这把“切换刀”：同一家族的音阶，也能切出更锋利的音乐意图。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-19T00:06:11Z",
+  "updatedAt": "2026-04-19T00:06:11Z"
+}

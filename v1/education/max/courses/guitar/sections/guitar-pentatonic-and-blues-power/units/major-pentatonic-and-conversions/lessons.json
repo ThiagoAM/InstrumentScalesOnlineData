@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "major-pentatonic-switchblade",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Pentatonic Switchblade",
+        "pt-BR": "Canivete da Pentatônica Maior",
+        "es": "Navaja de la Pentatónica Mayor",
+        "de": "Das Dur-Pentatonik-Klappmesser",
+        "ja": "メジャーペンタのスイッチブレード",
+        "zh-Hans": "大调五声音阶切换刀"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Flip between major and relative minor pentatonic sounds without losing the groove.",
+        "pt-BR": "Alterne entre a sonoridade da pentatônica maior e da menor relativa sem perder o groove.",
+        "es": "Alterna entre el color de la pentatónica mayor y su menor relativa sin perder el groove.",
+        "de": "Wechsle zwischen Dur-Pentatonik und relativer Moll-Pentatonik, ohne den Groove zu verlieren.",
+        "ja": "メジャーペンタとその平行マイナーの響きを、グルーヴを保ったまま切り替えるレッスンです。",
+        "zh-Hans": "在不丢掉groove的前提下，切换大调五声音阶与其关系小调的色彩。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-19T00:06:11Z",
+    "updatedAt": "2026-04-19T00:06:11Z"
   }
 ]
