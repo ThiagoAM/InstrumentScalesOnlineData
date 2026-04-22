@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-04-18T00:06:20Z",
     "updatedAt": "2026-04-18T00:06:20Z"
+  },
+  {
+    "id": "three-color-solo-ladder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Three-Color Solo Ladder",
+        "pt-BR": "Escada do Solo em Três Cores",
+        "es": "Escalera de Solo en Tres Colores",
+        "de": "Solo-Leiter in Drei Farben",
+        "ja": "3色ソロ・ラダー",
+        "zh-Hans": "三色独奏阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb one backing track in three expressive passes so your scale choices start sounding like real guitar storytelling.",
+        "pt-BR": "Suba pelo mesmo playback em três passes expressivos para fazer suas escalas soarem como narrativa de guitarra de verdade.",
+        "es": "Sube por una misma base en tres pasadas expresivas para que tus escalas empiecen a sonar como una historia real de guitarra.",
+        "de": "Steige über denselben Groove in drei Ausdrucksstufen auf, damit deine Skalen wie echtes Gitarren-Storytelling klingen.",
+        "ja": "同じバッキングを3つの表情で登り、スケールを本物のギター物語として使えるようにします。",
+        "zh-Hans": "用同一条伴奏做三次不同表情的攀爬，让你的音阶真正开始讲吉他独奏的故事。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-04-22T14:09:11Z",
+    "updatedAt": "2026-04-22T14:09:11Z"
   }
 ]

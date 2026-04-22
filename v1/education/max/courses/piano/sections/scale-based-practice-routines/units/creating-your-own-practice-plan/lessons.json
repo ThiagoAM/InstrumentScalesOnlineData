@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-04-15T00:04:12Z",
     "updatedAt": "2026-04-15T00:04:12Z"
+  },
+  {
+    "id": "mirror-maze-scale-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mirror Maze Scale Relay",
+        "pt-BR": "Revezamento de Escalas no Labirinto Espelhado",
+        "es": "Relevo de Escalas en el Laberinto Espejo",
+        "de": "Spiegel-Labyrinth Skalenstaffel",
+        "ja": "鏡の迷路スケール・リレー",
+        "zh-Hans": "镜像迷宫音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pass scale fragments between both hands so technique, timing, and creativity grow together instead of in separate practice boxes.",
+        "pt-BR": "Passe fragmentos de escala entre as duas mãos para que técnica, tempo e criatividade cresçam juntos.",
+        "es": "Pasa fragmentos de escala entre las dos manos para que técnica, tiempo y creatividad crezcan juntas.",
+        "de": "Reiche Skalenfragmente zwischen beiden Händen weiter, damit Technik, Timing und Kreativität gemeinsam wachsen.",
+        "ja": "スケール断片を両手で受け渡しし、テクニック、タイム感、創造性を別々ではなく一緒に育てます。",
+        "zh-Hans": "在双手之间传递音阶片段，让技巧、节奏和创造力一起成长，而不是各练各的。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-22T14:12:17Z",
+    "updatedAt": "2026-04-22T14:12:17Z"
   }
 ]

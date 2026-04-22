@@ -1,0 +1,73 @@
+{
+  "id": "mirror-maze-scale-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **C major**, **G major**, and **A minor**, and set a timer for **15 minutes**. This lesson works like a relay race: the right hand starts an idea, the left hand answers it, and both hands learn to think as one musical team. Your mission is to keep the baton moving without turning the keyboard into chaos.",
+          "pt-BR": "Escolha **Dó maior**, **Sol maior** e **Lá menor**, e programe um timer de **15 minutos**. Esta lição funciona como uma corrida de revezamento: a mão direita começa uma ideia, a esquerda responde, e as duas aprendem a pensar como um só time musical. Sua missão é manter o bastão em movimento sem transformar o teclado em caos.",
+          "es": "Elige **Do mayor**, **Sol mayor** y **La menor**, y pon un temporizador de **15 minutos**. Esta lección funciona como una carrera de relevos: la mano derecha empieza una idea, la izquierda responde y ambas aprenden a pensar como un solo equipo musical. Tu misión es mantener el testigo en movimiento sin convertir el teclado en caos.",
+          "de": "Wähle **C-Dur**, **G-Dur** und **A-Moll** und stelle einen Timer auf **15 Minuten**. Diese Lektion funktioniert wie ein Staffellauf: Die rechte Hand beginnt eine Idee, die linke antwortet, und beide lernen, als ein musikalisches Team zu denken. Deine Aufgabe ist, den Staffelstab in Bewegung zu halten, ohne aus der Tastatur Chaos zu machen.",
+          "ja": "**Cメジャー**、**Gメジャー**、**Aマイナー** を選び、タイマーを **15分** に設定します。このレッスンはリレー競走のようなものです。右手がアイデアを始め、左手が答え、両手がひとつの音楽チームとして考えることを学びます。使命は、鍵盤を混乱させずにバトンを動かし続けることです。",
+          "zh-Hans": "选择 **C大调**、**G大调** 和 **A小调**，设一个 **15分钟** 计时器。这节课像一场接力赛：右手先提出想法，左手来回答，双手学习像一个音乐团队那样思考。你的任务是在不把键盘变成混乱现场的前提下，让接力棒持续移动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Relay 1 is the **single-hand map**. Play one octave up with the right hand, then answer one octave down with the left hand using the same rhythm. Keep it simple: quarter notes, then eighth notes. You are building a mirror, not showing off speed.",
+          "pt-BR": "O revezamento 1 é o **mapa de mão única**. Toque uma oitava subindo com a mão direita e responda uma oitava abaixo com a esquerda usando o mesmo ritmo. Mantenha simples: primeiro semínimas, depois colcheias. Você está construindo um espelho, não exibindo velocidade.",
+          "es": "El relevo 1 es el **mapa de una mano**. Toca una octava ascendente con la mano derecha y responde una octava abajo con la izquierda usando el mismo ritmo. Mantenlo simple: primero negras y luego corcheas. Estás construyendo un espejo, no presumiendo velocidad.",
+          "de": "Staffel 1 ist die **Einhand-Karte**. Spiele mit der rechten Hand eine Oktave nach oben und antworte eine Oktave tiefer mit der linken Hand im gleichen Rhythmus. Halte es einfach: erst Viertel, dann Achtel. Du baust einen Spiegel und keine Geschwindigkeits-Show.",
+          "ja": "リレー1は **片手マップ**。右手で1オクターブ上行し、同じリズムで左手が1オクターブ下から答えます。まずは4分音符、その後8分音符で十分です。ここで作っているのはスピード自慢ではなく鏡です。",
+          "zh-Hans": "接力1是 **单手地图**。右手先向上弹一个八度，左手再用相同节奏在低一个八度回答。先用四分音符，再用八分音符。你是在建一面镜子，不是在炫技。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Relay 2 adds a **pattern rule**. Use a fragment such as **1-2-3-5** or **1-3-2-4**, and pass it from right hand to left hand without breaking the pulse. If one hand feels weaker, let the stronger hand teach it by matching articulation and volume as closely as possible.",
+          "pt-BR": "O revezamento 2 adiciona uma **regra de padrão**. Use um fragmento como **1-2-3-5** ou **1-3-2-4** e passe-o da mão direita para a esquerda sem quebrar o pulso. Se uma mão parecer mais fraca, deixe a mais forte ensiná-la, copiando articulação e volume o mais perto possível.",
+          "es": "El relevo 2 añade una **regla de patrón**. Usa un fragmento como **1-2-3-5** o **1-3-2-4** y pásalo de la mano derecha a la izquierda sin romper el pulso. Si una mano se siente más débil, deja que la más fuerte la enseñe copiando articulación y volumen lo más cerca posible.",
+          "de": "Staffel 2 bekommt eine **Musterregel**. Nutze ein Fragment wie **1-2-3-5** oder **1-3-2-4** und gib es von der rechten an die linke Hand weiter, ohne den Puls zu verlieren. Wenn sich eine Hand schwächer anfühlt, soll die stärkere sie unterrichten, indem Artikulation und Lautstärke so genau wie möglich gespiegelt werden.",
+          "ja": "リレー2では **パターンのルール** を追加します。**1-2-3-5** や **1-3-2-4** のような断片を使い、拍を切らさず右手から左手へ渡してください。片方の手が弱く感じるなら、強い手が先生になり、アーティキュレーションと音量をできるだけ近く真似させます。",
+          "zh-Hans": "接力2加入 **模式规则**。使用 **1-2-3-5** 或 **1-3-2-4** 这样的片段，在不打断脉冲的情况下把它从右手传给左手。如果某只手更弱，就让更强的那只手当老师，尽量复制同样的触键和音量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Relay 3 adds a **twist bar**. After two mirrored bars, create a third bar where both hands play together in contrary motion or in parallel thirds. The challenge is to keep the sound clean enough that the twist feels exciting, not crowded.",
+          "pt-BR": "O revezamento 3 adiciona um **compasso surpresa**. Depois de dois compassos espelhados, crie um terceiro compasso em que as duas mãos tocam juntas em movimento contrário ou em terças paralelas. O desafio é manter o som limpo o bastante para que a surpresa soe empolgante, não apertada.",
+          "es": "El relevo 3 añade un **compás con giro**. Después de dos compases espejados, crea un tercer compás donde ambas manos toquen juntas en movimiento contrario o en terceras paralelas. El reto es mantener el sonido lo bastante limpio para que el giro se sienta emocionante y no amontonado.",
+          "de": "Staffel 3 bekommt einen **Dreh-Takt**. Nach zwei gespiegelten Takten erfindest du einen dritten Takt, in dem beide Hände gemeinsam in Gegenbewegung oder in parallelen Terzen spielen. Die Herausforderung ist, den Klang so sauber zu halten, dass der Dreh spannend statt überfüllt wirkt.",
+          "ja": "リレー3では **ひねり小節** を加えます。2小節の鏡リレーのあと、両手が反行または平行3度で同時に弾く3小節目を作りましょう。ひねりが“混雑”ではなく“ワクワク”に聞こえるくらい、音をきれいに保つのが課題です。",
+          "zh-Hans": "接力3加入 **转折小节**。在两小节镜像之后，设计第3小节，让双手一起做反向进行或平行三度。挑战是把声音保持得足够干净，让这个转折听起来兴奋，而不是拥挤。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final relay: build an **8-bar mini etude** that includes one mirrored exchange, one pattern pass, one twist bar, and one calm landing on a chord tone. Record it and rate yourself on balance, timing, and hand independence. When scales start cooperating across both hands, the keyboard feels smaller and the music feels bigger.",
+          "pt-BR": "Revezamento final: monte um **mini estudo de 8 compassos** com uma troca espelhada, uma passagem de padrão, um compasso surpresa e uma chegada calma em uma nota do acorde. Grave e dê uma nota para equilíbrio, tempo e independência entre as mãos. Quando as escalas começam a cooperar entre as duas mãos, o teclado parece menor e a música fica maior.",
+          "es": "Relevo final: construye un **mini estudio de 8 compases** que incluya un intercambio espejado, un pase de patrón, un compás con giro y una llegada tranquila a una nota del acorde. Grábalo y puntúate en balance, tiempo e independencia de manos. Cuando las escalas empiezan a cooperar entre ambas manos, el teclado se siente más pequeño y la música más grande.",
+          "de": "Die finale Staffel: Baue eine **8-taktige Mini-Etüde** mit einem gespiegelten Austausch, einer Musterübergabe, einem Dreh-Takt und einer ruhigen Landung auf einem Akkordton. Nimm sie auf und bewerte Balance, Timing und Unabhängigkeit der Hände. Wenn Skalen über beide Hände hinweg zusammenarbeiten, fühlt sich die Tastatur kleiner und die Musik größer an.",
+          "ja": "最後のリレーでは、鏡の受け渡し1回、パターン受け渡し1回、ひねり小節1回、そして和声音への静かな着地1回を含む **8小節のミニ・エチュード** を作ります。録音して、バランス、タイミング、両手の独立性を自己評価しましょう。スケールが両手で協力し始めると、鍵盤は小さく感じられ、音楽は大きく感じられます。",
+          "zh-Hans": "最终接力：创作一个 **8小节迷你练习曲**，其中包含一次镜像交换、一次模式传递、一次转折小节，以及一次平静地落在和弦音上。录下来，并给自己的平衡、节奏和双手独立性打分。当音阶开始在双手之间合作时，键盘会感觉更小，而音乐会感觉更大。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-22T14:12:17Z",
+  "updatedAt": "2026-04-22T14:12:17Z"
+}

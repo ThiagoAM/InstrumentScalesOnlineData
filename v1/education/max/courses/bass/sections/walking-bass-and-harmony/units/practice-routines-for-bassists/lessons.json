@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-04-18T00:07:52Z",
     "updatedAt": "2026-04-18T00:07:52Z"
+  },
+  {
+    "id": "ghost-note-maze-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost Note Maze Builder",
+        "pt-BR": "Labirinto de Ghost Notes",
+        "es": "Laberinto de Ghost Notes",
+        "de": "Ghost-Note-Labyrinth",
+        "ja": "ゴーストノート迷路ビルダー",
+        "zh-Hans": "Ghost Note 迷宫建造者"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use scale tones, silence, and ghost notes to build a bass line that grooves harder every time it loops.",
+        "pt-BR": "Use notas da escala, silêncio e ghost notes para construir uma linha de baixo que grooveia mais a cada repetição.",
+        "es": "Usa notas de la escala, silencio y ghost notes para construir una línea de bajo que groovea más fuerte en cada vuelta.",
+        "de": "Nutze Skalentöne, Stille und Ghost Notes, um eine Basslinie zu bauen, die mit jeder Runde stärker groovt.",
+        "ja": "スケール音、無音、ゴーストノートを使って、ループするほど強くなるベースラインを作ります。",
+        "zh-Hans": "用音阶音、留白和 ghost note，搭出一条每次循环都更有 groove 的贝斯线。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-22T14:10:37Z",
+    "updatedAt": "2026-04-22T14:10:37Z"
   }
 ]
