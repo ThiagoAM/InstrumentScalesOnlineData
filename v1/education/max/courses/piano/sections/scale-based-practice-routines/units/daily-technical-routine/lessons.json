@@ -586,5 +586,33 @@
     "order": 21,
     "createdAt": "2026-04-18T00:07:52Z",
     "updatedAt": "2026-04-18T00:07:52Z"
+  },
+  {
+    "id": "piano-scale-pit-stop",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Pit Stop",
+        "pt-BR": "Pit Stop da Escala no Piano",
+        "es": "Pit Stop de Escala en Piano",
+        "de": "Klavier-Skalen-Pit-Stop",
+        "ja": "ピアノ・スケールのピットストップ",
+        "zh-Hans": "钢琴音阶维修站"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use short pit stops to repair tone, timing, and fingering before your scale routine races ahead.",
+        "pt-BR": "Use pit stops curtos para consertar timbre, tempo e dedilhado antes que sua rotina de escalas dispare.",
+        "es": "Usa pit stops cortos para arreglar sonido, pulso y digitación antes de que tu rutina de escalas acelere demasiado.",
+        "de": "Nutze kurze Boxenstopps, um Klang, Timing und Fingersatz zu reparieren, bevor deine Skalenroutine davonrast.",
+        "ja": "短いピットストップで音色、タイム、指づかいを修理し、スケール練習が暴走する前に整えよう。",
+        "zh-Hans": "用短暂的维修站停靠，修好音色、节拍和指法，再让你的音阶练习继续加速。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-04-23T00:10:25Z",
+    "updatedAt": "2026-04-23T00:10:25Z"
   }
 ]

@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-04-02T00:03:13Z",
     "updatedAt": "2026-04-02T00:03:13Z"
+  },
+  {
+    "id": "guitar-scale-detour-dash",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Scale Detour Dash",
+        "pt-BR": "Corrida de Desvios da Escala na Guitarra",
+        "es": "Carrera de Desvíos de Escala en Guitarra",
+        "de": "Gitarren-Skalen-Umweg-Dash",
+        "ja": "ギター・スケール寄り道ダッシュ",
+        "zh-Hans": "吉他音阶绕路冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Race through surprise fretboard detours to keep your scale playing accurate, relaxed, and musical.",
+        "pt-BR": "Corra por desvios surpresa no braço para manter sua escala precisa, relaxada e musical.",
+        "es": "Corre por desvíos sorpresa en el mástil para mantener tu escala precisa, relajada y musical.",
+        "de": "Nimm überraschende Umwege auf dem Griffbrett, damit dein Skalen-Spiel präzise, locker und musikalisch bleibt.",
+        "ja": "指板上のサプライズな寄り道で、スケール演奏を正確に、リラックスして、音楽的に保とう。",
+        "zh-Hans": "在指板上做惊喜绕路，让你的音阶练习依然精准、放松又有音乐感。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-04-23T00:08:21Z",
+    "updatedAt": "2026-04-23T00:08:21Z"
   }
 ]

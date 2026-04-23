@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-switchboard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Pocket Switchboard. Imagine your bass line has three switches: **space**, **attack**, and **movement**. Your mission is to flip one switch at a time while staying locked to the beat, so the groove changes shape without falling apart.",
+          "pt-BR": "Bem-vindo ao Painel de Pocket. Imagine que sua linha de baixo tem três chaves: **espaço**, **ataque** e **movimento**. Sua missão é mudar uma chave por vez enquanto continua travado no pulso, para que o groove mude de forma sem desmoronar.",
+          "es": "Bienvenido al Panel de Pocket. Imagina que tu línea de bajo tiene tres interruptores: **espacio**, **ataque** y **movimiento**. Tu misión es cambiar un interruptor a la vez mientras sigues totalmente pegado al pulso, para que el groove cambie de forma sin desarmarse.",
+          "de": "Willkommen am Pocket-Schaltpult. Stell dir vor, deine Basslinie hat drei Schalter: **Raum**, **Anschlag** und **Bewegung**. Deine Aufgabe ist es, immer nur einen Schalter zu verändern und dabei fest im Beat zu bleiben, damit sich der Groove wandelt, ohne auseinanderzufallen.",
+          "ja": "ポケット切替盤へようこそ。ベースラインには3つのスイッチがあると考えてください。**スペース**、**アタック**、**動き** です。ビートにしっかりロックしたまま、1回に1つだけ切り替えて、グルーヴの形を変えても崩れないようにするのがミッションです。",
+          "zh-Hans": "欢迎来到 Pocket 切换台。想象你的贝斯线有三个开关：**留白**、**触弦** 和 **移动**。你的任务是一次只切一个开关，同时始终紧贴节拍，这样 groove 会改变形状，却不会散架。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: stay in **G major** and make a two-bar loop at **92 BPM**. Start with only roots and fifths. Leave one eighth-note rest in each bar. This is your default setting, and it should already feel good enough to loop for a long time.",
+          "pt-BR": "Preparação: fique em **Sol maior** e monte um loop de dois compassos em **92 BPM**. Comece usando apenas tônicas e quintas. Deixe uma pausa de colcheia em cada compasso. Essa é sua configuração padrão, e ela já deve soar boa o bastante para repetir por bastante tempo.",
+          "es": "Preparación: quédate en **Sol mayor** y crea un loop de dos compases a **92 BPM**. Empieza solo con tónicas y quintas. Deja un silencio de corchea en cada compás. Esta es tu configuración base, y ya debería sentirse lo bastante bien como para repetirla durante mucho tiempo.",
+          "de": "Setup: Bleib in **G-Dur** und baue einen Zwei-Takt-Loop bei **92 BPM**. Starte nur mit Grundtönen und Quinten. Lass in jedem Takt eine Achtelpause. Das ist deine Grundeinstellung, und sie sollte sich schon gut genug anfühlen, um lange zu loopen.",
+          "ja": "準備：**Gメジャー** にとどまり、**92 BPM** で2小節ループを作ります。最初はルートと5度だけを使います。各小節に8分休符を1つ入れてください。これが基本設定で、すでに長く回しても気持ちよい状態であるべきです。",
+          "zh-Hans": "准备：保持在 **G 大调**，做一个 **92 BPM** 的两小节循环。开始时只用根音和五度。每小节留一个八分休止。这是你的默认设置，它本身就应该舒服到可以循环很久。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Switch 1 is **space**. Keep the same notes, but move your rest to a new spot in the bar. Try beat 2, then the \"&\" of 3, then beat 4. Listen to how silence can make the same line feel heavier, lighter, or more impatient.",
+          "pt-BR": "A chave 1 é o **espaço**. Mantenha as mesmas notas, mas mova sua pausa para outro lugar do compasso. Experimente o tempo 2, depois o \"&\" do 3, depois o tempo 4. Perceba como o silêncio pode fazer a mesma linha soar mais pesada, mais leve ou mais ansiosa.",
+          "es": "El interruptor 1 es el **espacio**. Mantén las mismas notas, pero mueve tu silencio a otro lugar del compás. Prueba el tiempo 2, luego el \"&\" de 3 y luego el tiempo 4. Escucha cómo el silencio puede hacer que la misma línea se sienta más pesada, más ligera o más impaciente.",
+          "de": "Schalter 1 ist **Raum**. Behalte dieselben Töne, verschiebe aber die Pause an eine neue Stelle im Takt. Probier Schlag 2, dann das \"&\" von 3, dann Schlag 4. Hör, wie Stille dieselbe Linie schwerer, leichter oder ungeduldiger wirken lassen kann.",
+          "ja": "スイッチ1は **スペース**。音は同じまま、休符の位置だけを小節内で移動させます。2拍目、3拍目の裏、4拍目を試してください。同じラインでも、沈黙の位置で重くなったり、軽くなったり、せっかちに聞こえたりします。",
+          "zh-Hans": "开关1是 **留白**。音高不变，只把休止移到小节里的新位置。试试第2拍、3拍后半拍，再试第4拍。听一听：同一条线，仅仅因为安静的位置不同，就会显得更重、更轻，或者更焦躁。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Switch 2 is **attack**. Keep the rhythm, but change how you touch the notes. First play warm and round, then play shorter and tighter, then add one ghost note before a strong beat. You are learning that pocket is partly timing and partly attitude.",
+          "pt-BR": "A chave 2 é o **ataque**. Mantenha o ritmo, mas mude a maneira de tocar as notas. Primeiro toque quente e redondo, depois mais curto e firme, depois adicione uma ghost note antes de um tempo forte. Você está aprendendo que pocket é parte tempo e parte atitude.",
+          "es": "El interruptor 2 es el **ataque**. Mantén el ritmo, pero cambia la forma de tocar las notas. Primero toca cálido y redondo, luego más corto y apretado, y después añade una ghost note antes de un tiempo fuerte. Estás aprendiendo que el pocket es en parte tiempo y en parte actitud.",
+          "de": "Schalter 2 ist **Anschlag**. Behalte den Rhythmus, ändere aber die Art, wie du die Töne spielst. Erst warm und rund, dann kürzer und straffer, dann mit einer Ghost Note vor einem starken Schlag. So merkst du, dass Pocket teils Timing und teils Haltung ist.",
+          "ja": "スイッチ2は **アタック**。リズムは保ったまま、音の触れ方を変えます。まずは温かく丸く、その次は短くタイトに、最後に強拍の前へゴーストノートを1つ入れます。ポケットはタイミングだけでなく、態度でも決まると分かります。",
+          "zh-Hans": "开关2是 **触弦**。节奏不变，但改变你碰音的方式。先弹得温暖圆润，再弹得短促紧实，然后在强拍前加一个幽灵音。你会发现，pocket 一半是时间控制，一半是态度控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Switch 3 is **movement**. Keep the groove shape, but replace one repeated note with a passing tone from the scale. Only one. If you add too much movement, the line stops feeling trustworthy. Bass earns excitement by controlling it.",
+          "pt-BR": "A chave 3 é o **movimento**. Mantenha o formato do groove, mas troque uma nota repetida por uma nota de passagem da escala. Só uma. Se você colocar movimento demais, a linha deixa de parecer confiável. O baixo ganha emoção controlando isso.",
+          "es": "El interruptor 3 es el **movimiento**. Mantén la forma del groove, pero reemplaza una nota repetida por una nota de paso de la escala. Solo una. Si agregas demasiado movimiento, la línea deja de sentirse confiable. El bajo gana emoción controlándola.",
+          "de": "Schalter 3 ist **Bewegung**. Behalte die Groove-Form, ersetze aber einen wiederholten Ton durch einen Durchgangston aus der Skala. Nur einen. Wenn du zu viel Bewegung hinzufügst, wirkt die Linie nicht mehr verlässlich. Bass gewinnt Spannung durch Kontrolle.",
+          "ja": "スイッチ3は **動き**。グルーヴの形は保ちつつ、繰り返しの1音だけをスケール内の経過音に置き換えます。1つだけです。動きを入れすぎると、ラインは信頼感を失います。ベースは興奮をコントロールして生み出します。",
+          "zh-Hans": "开关3是 **移动**。保留 groove 的整体轮廓，但把一个重复音换成音阶里的经过音。只能换一个。动得太多，线条就不再可靠。贝斯的兴奋感，来自被控制住的兴奋感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final test: record four passes through the loop. Pass 1 flips only space. Pass 2 flips only attack. Pass 3 flips only movement. Pass 4 combines all three, but you may change just one thing per bar. If the groove still feels easy to trust, you won.",
+          "pt-BR": "Teste final: grave quatro voltas do loop. Na volta 1, mude apenas o espaço. Na volta 2, apenas o ataque. Na volta 3, apenas o movimento. Na volta 4, combine os três, mas você só pode mudar uma coisa por compasso. Se o groove continuar fácil de confiar, você venceu.",
+          "es": "Prueba final: graba cuatro vueltas del loop. La vuelta 1 cambia solo el espacio. La vuelta 2 solo el ataque. La vuelta 3 solo el movimiento. La vuelta 4 combina las tres, pero solo puedes cambiar una cosa por compás. Si el groove sigue siendo fácil de confiar, ganaste.",
+          "de": "Finaler Test: Nimm vier Durchläufe des Loops auf. In Durchlauf 1 änderst du nur den Raum. In Durchlauf 2 nur den Anschlag. In Durchlauf 3 nur die Bewegung. In Durchlauf 4 kombinierst du alles, darfst aber pro Takt nur eine Sache ändern. Wenn sich der Groove immer noch leicht vertrauen lässt, hast du gewonnen.",
+          "ja": "最終テスト：ループを4周分録音します。1周目はスペースだけ、2周目はアタックだけ、3周目は動きだけを変更。4周目は3つを組み合わせますが、1小節につき変えてよいのは1つだけです。それでもグルーヴが安心して任せられるなら勝ちです。",
+          "zh-Hans": "最终测试：录四遍循环。第1遍只改留白，第2遍只改触弦，第3遍只改移动，第4遍把三者结合，但每小节只能改一件事。如果 groove 依然让人放心，你就赢了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-23T00:09:23Z",
+  "updatedAt": "2026-04-23T00:09:23Z"
+}

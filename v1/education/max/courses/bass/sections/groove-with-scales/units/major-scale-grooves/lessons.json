@@ -726,5 +726,33 @@
     "order": 26,
     "createdAt": "2026-04-17T00:06:49Z",
     "updatedAt": "2026-04-17T00:06:49Z"
+  },
+  {
+    "id": "bass-pocket-switchboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Switchboard",
+        "pt-BR": "Painel de Pocket do Baixo",
+        "es": "Panel de Pocket para Bajo",
+        "de": "Bass-Pocket-Schaltpult",
+        "ja": "ベース・ポケット切替盤",
+        "zh-Hans": "贝斯 Pocket 切换台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Flip between groove settings in real time while keeping your bass line solid, simple, and alive.",
+        "pt-BR": "Alterne ajustes de groove em tempo real enquanto mantém sua linha de baixo sólida, simples e viva.",
+        "es": "Cambia ajustes de groove en tiempo real mientras mantienes tu línea de bajo sólida, simple y viva.",
+        "de": "Schalte Groove-Einstellungen in Echtzeit um und halte deine Basslinie trotzdem solide, einfach und lebendig.",
+        "ja": "グルーヴの設定をリアルタイムで切り替えながら、ベースラインを堅実でシンプル、しかも生き生きと保とう。",
+        "zh-Hans": "实时切换 groove 设置，同时让你的贝斯线依旧扎实、简洁又鲜活。"
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-04-23T00:09:23Z",
+    "updatedAt": "2026-04-23T00:09:23Z"
   }
 ]

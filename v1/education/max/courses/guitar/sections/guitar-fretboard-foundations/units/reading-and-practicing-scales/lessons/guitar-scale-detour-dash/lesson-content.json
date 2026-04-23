@@ -1,0 +1,86 @@
+{
+  "id": "guitar-scale-detour-dash",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Detour Dash. You will play a familiar scale pattern, but every few beats you must take a small fretboard detour and still land in time. This turns scale practice into a navigation game instead of a treadmill.",
+          "pt-BR": "Bem-vindo à Corrida de Desvios. Você vai tocar um desenho de escala conhecido, mas a cada poucos tempos precisará fazer um pequeno desvio no braço e ainda cair no tempo certo. Isso transforma o estudo de escala em um jogo de navegação, não em uma esteira.",
+          "es": "Bienvenido a la Carrera de Desvíos. Vas a tocar un patrón de escala conocido, pero cada pocos pulsos tendrás que hacer un pequeño desvío en el mástil y aun así caer a tiempo. Esto convierte la práctica de escalas en un juego de navegación y no en una cinta de correr.",
+          "de": "Willkommen beim Umweg-Dash. Du spielst ein vertrautes Skalenmuster, musst aber alle paar Schläge einen kleinen Umweg auf dem Griffbrett nehmen und trotzdem im Timing landen. So wird Skalenüben zu einem Navigationsspiel statt zu einem Laufband.",
+          "ja": "寄り道ダッシュへようこそ。おなじみのスケールパターンを弾きますが、数拍ごとに小さな寄り道を入れ、それでもタイムに着地しなければなりません。これでスケール練習が単調な反復ではなく、ナビゲーションゲームになります。",
+          "zh-Hans": "欢迎来到绕路冲刺。你要先弹一个熟悉的音阶指型，但每隔几拍就必须在指板上绕个小路，同时还要准时落拍。这样一来，音阶练习就不再像跑步机，而像一场导航游戏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose **A minor pentatonic** or **G major** in one comfortable position. Set a metronome to **76 BPM** and play eighth notes. Mark three safe landing notes inside the shape: the root, the fifth, and one note on the highest string.",
+          "pt-BR": "Preparação: escolha **Lá menor pentatônica** ou **Sol maior** em uma posição confortável. Ajuste o metrônomo para **76 BPM** e toque colcheias. Marque três notas de pouso seguras dentro do desenho: a tônica, a quinta e uma nota na corda mais aguda.",
+          "es": "Preparación: elige **La menor pentatónica** o **Sol mayor** en una posición cómoda. Pon el metrónomo a **76 BPM** y toca corcheas. Marca tres notas de aterrizaje seguras dentro del dibujo: la tónica, la quinta y una nota en la cuerda más aguda.",
+          "de": "Setup: Wähle **A-Moll-Pentatonik** oder **G-Dur** in einer bequemen Lage. Stell das Metronom auf **76 BPM** und spiele Achtel. Markiere drei sichere Landenoten in der Form: den Grundton, die Quinte und einen Ton auf der höchsten Saite.",
+          "ja": "準備：弾きやすいポジションで **Aマイナー・ペンタトニック** か **Gメジャー** を選びます。メトロノームを **76 BPM** にして8分音符で弾きましょう。形の中に安全な着地点を3つ決めます。ルート、5度、そして一番高い弦上の1音です。",
+          "zh-Hans": "准备：选择一个舒服把位里的 **A 小调五声音阶** 或 **G 大调**。把节拍器设为 **76 BPM**，用八分音符演奏。在这个指型里标出三个安全落点：根音、五度，以及最高弦上的一个音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rule 1: on beat 1, start the pattern normally. Rule 2: whenever the click feels extra strong to you, take a detour before the next note. A detour can be a slide up two frets and back, a quick string skip, or a hammer-on/pull-off pair that stays inside the scale.",
+          "pt-BR": "Regra 1: no tempo 1, comece o padrão normalmente. Regra 2: sempre que o clique parecer mais forte para você, faça um desvio antes da próxima nota. O desvio pode ser um slide de duas casas e volta, um salto rápido de corda ou uma combinação de hammer-on/pull-off que permaneça dentro da escala.",
+          "es": "Regla 1: en el tiempo 1, comienza el patrón normalmente. Regla 2: cada vez que sientas el clic especialmente fuerte, haz un desvío antes de la siguiente nota. El desvío puede ser un slide de dos trastes y vuelta, un salto rápido de cuerda o un par de hammer-on/pull-off que se mantenga dentro de la escala.",
+          "de": "Regel 1: Beginne auf Schlag 1 ganz normal. Regel 2: Immer wenn sich der Klick für dich besonders stark anfühlt, baue vor dem nächsten Ton einen Umweg ein. Ein Umweg kann ein Slide zwei Bünde hoch und zurück sein, ein schneller Saitensprung oder ein Hammer-on/Pull-off-Paar innerhalb der Skala.",
+          "ja": "ルール1：1拍目は普通にパターンを始めます。ルール2：クリックがいつもより強く感じたら、次の音の前に寄り道を入れます。寄り道は、2フレット上へスライドして戻る、すばやい弦飛び、またはスケール内に収まるハンマリング／プリングの組み合わせです。",
+          "zh-Hans": "规则1：第1拍正常开始。规则2：每当你觉得点击声特别“重”的时候，就在下一个音之前加入一次绕路。绕路可以是上滑两品再回来、一次快速跳弦，或者一组仍然留在音阶内的击弦／勾弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is about survival. Keep the detours tiny and always recover to one of your landing notes within two beats. If you lose the shape, do not panic—stop, name the degree or note you are on, and restart with a cleaner decision.",
+          "pt-BR": "A rodada 1 é sobre sobrevivência. Mantenha os desvios pequenos e sempre recupere uma das suas notas de pouso em até dois tempos. Se você se perder no desenho, não entre em pânico — pare, diga o grau ou a nota onde está, e recomece com uma decisão mais limpa.",
+          "es": "La ronda 1 trata de sobrevivir. Mantén los desvíos pequeños y vuelve siempre a una de tus notas de aterrizaje en un máximo de dos pulsos. Si pierdes la forma, no entres en pánico: detente, di el grado o la nota en la que estás y vuelve a empezar con una decisión más limpia.",
+          "de": "Runde 1 ist Überlebenstraining. Halte die Umwege klein und finde innerhalb von zwei Schlägen immer zu einer deiner Landenoten zurück. Wenn du die Form verlierst, gerate nicht in Panik — stopp, nenne die Stufe oder den Ton, auf dem du bist, und starte mit einer saubereren Entscheidung neu.",
+          "ja": "ラウンド1は生き残りです。寄り道は小さく保ち、必ず2拍以内に決めた着地点のどれかへ戻ります。形を見失っても慌てないでください。止まり、今いる音や度数を言って、よりはっきりした判断でやり直しましょう。",
+          "zh-Hans": "第1轮是生存模式。绕路要小，而且必须在两拍之内回到你的某个落点。如果你丢了指型，不要慌——停下来，说出你现在所在的音或音级，然后用更清楚的决定重新开始。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is about style. Accent beats **2 and 4**, and make each detour sound intentional, not accidental. Try one detour that feels smooth, one that feels punchy, and one that feels sneaky. Your ears should hear a phrase, not just an exercise.",
+          "pt-BR": "A rodada 2 é sobre estilo. Acentue os tempos **2 e 4** e faça cada desvio soar intencional, não acidental. Experimente um desvio mais suave, um mais agressivo e um mais sorrateiro. Seus ouvidos devem perceber uma frase, não apenas um exercício.",
+          "es": "La ronda 2 trata del estilo. Acentúa los tiempos **2 y 4** y haz que cada desvío suene intencional, no accidental. Prueba un desvío suave, uno con pegada y uno más escurridizo. Tus oídos deben escuchar una frase, no solo un ejercicio.",
+          "de": "Runde 2 dreht sich um Stil. Betone die Schläge **2 und 4** und lass jeden Umweg absichtlich klingen, nicht zufällig. Versuch einen weichen, einen druckvollen und einen heimlichen Umweg. Deine Ohren sollen eine Phrase hören, nicht nur eine Übung.",
+          "ja": "ラウンド2はスタイルです。**2拍目と4拍目** にアクセントを置き、寄り道が事故ではなく意図に聞こえるようにします。なめらかな寄り道、パンチのある寄り道、こっそりした寄り道を1つずつ試してください。耳には練習ではなくフレーズとして聞こえるべきです。",
+          "zh-Hans": "第2轮是风格模式。在 **第2拍和第4拍** 加重音，并让每一次绕路都听起来像“故意设计”，而不是“意外发生”。试一个顺滑的绕路、一个有冲击力的绕路、一个偷偷摸摸的绕路。你的耳朵应该听到乐句，而不只是练习。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record three takes. In take one, use only slides. In take two, use only string skips. In take three, mix both and finish with a two-beat mini lick. The winning take is the one that sounds calm, in time, and a little dangerous.",
+          "pt-BR": "Desafio final: grave três tomadas. Na primeira, use só slides. Na segunda, use só saltos de corda. Na terceira, misture os dois e termine com um mini lick de dois tempos. A tomada vencedora é a que soar calma, no tempo e um pouco perigosa.",
+          "es": "Desafío final: graba tres tomas. En la primera usa solo slides. En la segunda, solo saltos de cuerda. En la tercera mezcla ambos y termina con un mini lick de dos pulsos. Gana la toma que suene tranquila, a tiempo y un poco peligrosa.",
+          "de": "Finale Challenge: Nimm drei Takes auf. Im ersten benutzt du nur Slides. Im zweiten nur Saitensprünge. Im dritten mischst du beides und endest mit einem kleinen Zwei-Schläge-Lick. Gewonnen hat der Take, der ruhig, im Timing und ein bisschen gefährlich klingt.",
+          "ja": "最終チャレンジ：3テイク録音します。1回目はスライドのみ。2回目は弦飛びのみ。3回目は両方を混ぜ、最後を2拍のミニリックで締めます。勝ちテイクは、落ち着いていて、タイムが良く、少し危険な香りがするものです。",
+          "zh-Hans": "最终挑战：录三遍。第一遍只用滑音，第二遍只用跳弦，第三遍两者都用，并以一个两拍的小lick收尾。获胜的版本应该听起来冷静、准时，而且带一点危险感。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-23T00:08:21Z",
+  "updatedAt": "2026-04-23T00:08:21Z"
+}
