@@ -1,0 +1,86 @@
+{
+  "id": "solo-roulette-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the **Solo Roulette Lab**. You are going to improvise over **A minor** or **E minor**, but instead of noodling on autopilot, you will keep pulling a new mission every few bars. The game is simple: the scale stays familiar, but the job changes fast enough to keep your ears awake.\n\nSet a timer for **6 minutes** and a backing track around **80-100 BPM**. Stay inside one position at first so the challenge is musical decision-making, not survival panic.",
+          "pt-BR": "Bem-vindo ao **Laboratório da Roleta do Solo**. Você vai improvisar em **Lá menor** ou **Mi menor**, mas em vez de ficar repetindo ideias no piloto automático, vai puxar uma nova missão a cada poucos compassos. O jogo é simples: a escala continua familiar, mas a função muda rápido o bastante para manter seus ouvidos acordados.\n\nPrograme um timer de **6 minutos** e use uma backing track entre **80 e 100 BPM**. Fique em uma única posição no começo para que o desafio seja tomar decisões musicais, não entrar em pânico para sobreviver.",
+          "es": "Bienvenido al **Laboratorio de la Ruleta del Solo**. Vas a improvisar en **La menor** o **Mi menor**, pero en vez de repetir ideas en piloto automático, sacarás una misión nueva cada pocos compases. El juego es simple: la escala sigue siendo familiar, pero la tarea cambia lo bastante rápido como para mantener tus oídos despiertos.\n\nPon un temporizador de **6 minutos** y usa una backing track entre **80 y 100 BPM**. Quédate al principio en una sola posición para que el reto sea tomar decisiones musicales y no sobrevivir en pánico.",
+          "de": "Willkommen im **Solo-Roulette-Labor**. Du improvisierst über **A-Moll** oder **E-Moll**, aber statt im Autopilot-Modus herumzuspielen, ziehst du alle paar Takte eine neue Mission. Das Spiel ist simpel: Die Skala bleibt vertraut, doch die Aufgabe wechselt schnell genug, um deine Ohren wach zu halten.\n\nStelle einen Timer auf **6 Minuten** und nutze einen Backing-Track bei **80-100 BPM**. Bleib zuerst in nur einer Lage, damit die Herausforderung musikalische Entscheidungen sind und nicht blankes Überleben.",
+          "ja": "**ソロ・ルーレット・ラボ**へようこそ。**Aマイナー**または**Eマイナー**で即興しますが、ただ惰性で弾くのではなく、数小節ごとに新しいミッションを引きます。ゲームのルールはシンプルです。スケールは慣れたまま、課題だけを素早く変えて耳を眠らせないようにします。\n\nタイマーを**6分**に設定し、**80〜100 BPM**くらいのバッキングトラックを使いましょう。最初は1つのポジションにとどまり、サバイバルではなく音楽的な判断が課題になるようにします。",
+          "zh-Hans": "欢迎来到 **独奏轮盘实验室**。你要在 **A 小调** 或 **E 小调** 上即兴，但不是靠自动驾驶乱弹，而是每隔几小节就抽一个新任务。规则很简单：音阶保持熟悉，任务却快速变化，逼着你的耳朵始终在线。\n\n把计时器设成 **6 分钟**，再找一条 **80-100 BPM** 的伴奏。开始时先待在一个把位里，这样挑战的是音乐判断，而不是慌张求生。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a tiny “roulette wheel” with six commands on paper or your phone:\n- start with only 3 notes\n- end on a chord tone\n- answer your phrase in a higher position\n- leave one full beat of silence\n- add one bend or slide\n- repeat the rhythm but change the notes\n\nEvery **two bars**, roll, shuffle, or choose the next command without overthinking. Your job is to obey quickly and keep the solo sounding like music, not homework.",
+          "pt-BR": "Monte uma pequena “roleta” com seis comandos no papel ou no celular:\n- começar com apenas 3 notas\n- terminar em uma nota do acorde\n- responder a frase em uma posição mais aguda\n- deixar um tempo inteiro de silêncio\n- adicionar um bend ou slide\n- repetir o ritmo, mas mudar as notas\n\nA cada **dois compassos**, gire, embaralhe ou escolha o próximo comando sem pensar demais. Sua missão é obedecer rápido e manter o solo soando como música, não como dever de casa.",
+          "es": "Crea una pequeña “ruleta” con seis comandos en papel o en el móvil:\n- empezar con solo 3 notas\n- terminar en un tono del acorde\n- responder la frase en una posición más aguda\n- dejar un pulso completo de silencio\n- añadir un bend o slide\n- repetir el ritmo pero cambiar las notas\n\nCada **dos compases**, gira, baraja o elige el siguiente comando sin pensarlo demasiado. Tu trabajo es obedecer rápido y hacer que el solo siga sonando a música, no a tarea.",
+          "de": "Baue dir ein kleines „Roulette-Rad“ mit sechs Kommandos auf Papier oder im Handy:\n- mit nur 3 Tönen beginnen\n- auf einem Akkordton enden\n- die Phrase in einer höheren Lage beantworten\n- einen vollen Schlag Stille lassen\n- einen Bend oder Slide einbauen\n- den Rhythmus wiederholen, aber die Töne wechseln\n\nAlle **zwei Takte** drehst, mischst oder wählst du das nächste Kommando, ohne lange nachzudenken. Deine Aufgabe ist es, schnell zu reagieren und das Solo weiter wie Musik klingen zu lassen, nicht wie Hausaufgaben.",
+          "ja": "紙やスマホに、6つの指令を書いた小さな「ルーレット」を作りましょう。\n- 3音だけで始める\n- コードトーンで終わる\n- 高いポジションで返事をする\n- 1拍まるごと休む\n- ベンドかスライドを1回入れる\n- リズムは同じで音だけ変える\n\n**2小節ごと**に回す、シャッフルする、または即決で次の指令を選びます。大事なのは、素早く従いながらソロを「練習問題」ではなく「音楽」として保つことです。",
+          "zh-Hans": "在纸上或手机里做一个小“轮盘”，写上六个指令：\n- 只用 3 个音开头\n- 结束在和弦音上\n- 在更高把位里回应前一句\n- 留出整整 1 拍的空白\n- 加一个推弦或滑音\n- 节奏不变，只换音高\n\n每 **两小节**，就转一次、打乱一次，或者立刻选出下一个指令，不要想太久。你的任务是快速服从，同时让独奏听起来仍然像音乐，而不是作业。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **control round**. For two minutes, keep every phrase short and clean. If the roulette says “higher position,” move only after you can still hear the original phrase shape in your head. If it says “silence,” really leave the space. Empty beats are part of the solo, not a mistake.",
+          "pt-BR": "A Rodada 1 é a **rodada de controle**. Durante dois minutos, mantenha cada frase curta e limpa. Se a roleta disser “posição mais aguda”, só mude depois de ainda conseguir ouvir o contorno da frase original na cabeça. Se ela disser “silêncio”, deixe o espaço de verdade. Tempos vazios fazem parte do solo, não são erro.",
+          "es": "La Ronda 1 es la **ronda de control**. Durante dos minutos, mantén cada frase corta y limpia. Si la ruleta dice “posición más aguda”, muévete solo cuando todavía puedas escuchar en tu cabeza la forma de la frase original. Si dice “silencio”, deja el espacio de verdad. Los pulsos vacíos también forman parte del solo.",
+          "de": "Runde 1 ist die **Kontrollrunde**. Halte zwei Minuten lang jede Phrase kurz und sauber. Wenn das Roulette „höhere Lage“ sagt, wechsel erst dann, wenn du die Kontur der ursprünglichen Phrase noch im Kopf hörst. Wenn es „Stille“ sagt, dann lass die Lücke wirklich stehen. Leere Schläge gehören zum Solo.",
+          "ja": "ラウンド1は**コントロール・ラウンド**です。2分間、すべてのフレーズを短くきれいに保ちます。ルーレットが「高いポジション」と言ったら、元のフレーズの輪郭が頭の中でまだ聞こえる状態でだけ移動しましょう。「休む」なら、本当に空白を置きます。空いた拍もソロの一部です。",
+          "zh-Hans": "第 1 轮是**控制轮**。连续两分钟，把每一句都保持得短而干净。如果轮盘说“更高把位”，只有在你脑中还能清楚听见原句轮廓时才移动。如果它说“留白”，那就真的留白。空拍也是独奏的一部分，不是失误。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **pressure round**. Now shorten the reaction time: switch commands every **single bar**. This is where you learn whether your scale knowledge is flexible or just memorized. If you panic, simplify. One strong target note is worth more than eight nervous notes.",
+          "pt-BR": "A Rodada 2 é a **rodada de pressão**. Agora diminua o tempo de reação: troque de comando a cada **compasso**. É aqui que você descobre se conhece a escala de forma flexível ou apenas decorada. Se bater o pânico, simplifique. Uma nota-alvo forte vale mais do que oito notas nervosas.",
+          "es": "La Ronda 2 es la **ronda de presión**. Ahora reduce el tiempo de reacción: cambia de comando en cada **compás**. Aquí descubrirás si tu conocimiento de la escala es flexible o solo memorizado. Si entras en pánico, simplifica. Una nota objetivo bien elegida vale más que ocho notas nerviosas.",
+          "de": "Runde 2 ist die **Druckrunde**. Jetzt verkürzt du die Reaktionszeit: Wechsle das Kommando in jedem **Takt**. Hier merkst du, ob dein Skalenwissen flexibel ist oder nur auswendig gelernt. Wenn Panik aufkommt, vereinfache. Ein starker Zielton ist mehr wert als acht nervöse Töne.",
+          "ja": "ラウンド2は**プレッシャー・ラウンド**です。反応時間をさらに短くし、**毎小節**指令を変えます。ここで、スケール理解が柔軟なのか、ただ暗記しているだけなのかが見えます。焦ったら単純化しましょう。強いターゲット音1つは、落ち着かない8音より価値があります。",
+          "zh-Hans": "第 2 轮是**压力轮**。现在把反应时间缩短成**每小节**换一次指令。这里会暴露出你的音阶知识到底是灵活可用，还是只是死记硬背。要是开始慌，就立刻简化。一个扎实的目标音，比八个紧张的音更有价值。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **story round**. Pick your three favorite roulette commands and build a **30-second mini solo** that uses all three on purpose. Think opening, development, and ending. The listener should feel that your ideas are connected, even though they came from different missions.",
+          "pt-BR": "A Rodada 3 é a **rodada da história**. Escolha seus três comandos favoritos da roleta e construa um **mini solo de 30 segundos** usando os três de propósito. Pense em abertura, desenvolvimento e final. Quem ouve deve sentir que as ideias estão conectadas, mesmo tendo vindo de missões diferentes.",
+          "es": "La Ronda 3 es la **ronda de historia**. Elige tus tres comandos favoritos y construye un **mini solo de 30 segundos** usándolos a propósito. Piensa en apertura, desarrollo y final. El oyente debe sentir que las ideas están conectadas, aunque hayan salido de misiones distintas.",
+          "de": "Runde 3 ist die **Storyrunde**. Nimm deine drei Lieblingskommandos und baue ein **30-Sekunden-Mini-Solo**, das alle drei bewusst nutzt. Denk an Anfang, Entwicklung und Schluss. Zuhörende sollen spüren, dass deine Ideen zusammengehören, auch wenn sie aus verschiedenen Missionen stammen.",
+          "ja": "ラウンド3は**ストーリー・ラウンド**です。お気に入りの指令を3つ選び、それらを意図的に使った**30秒のミニソロ**を作ります。導入、展開、終わりを意識してください。別々のミッションから来たとしても、聴く人にはアイデアがつながって聞こえる必要があります。",
+          "zh-Hans": "第 3 轮是**故事轮**。选出你最喜欢的三个指令，刻意把它们放进一个**30 秒迷你独奏**里。想象它有开头、发展和结尾。即使这些想法来自不同任务，听众也应该能感觉到它们属于同一个故事。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by asking yourself three questions:\n- Which command made you sound most musical?\n- Which command exposed the weakest part of your phrasing?\n- Could you still land confidently on **A, C, E** or **E, G, B** when the pressure increased?\n\nIf one command keeps wrecking the solo, good — that is tomorrow’s practice target. A roulette wheel is fun, but it is also brutally honest.",
+          "pt-BR": "Termine se perguntando três coisas:\n- Qual comando fez você soar mais musical?\n- Qual comando expôs a parte mais fraca do seu fraseado?\n- Você ainda conseguiu aterrissar com confiança em **A, C, E** ou **E, G, B** quando a pressão aumentou?\n\nSe um comando continua desmontando seu solo, ótimo — ele virou o alvo do treino de amanhã. A roleta é divertida, mas também é brutalmente honesta.",
+          "es": "Termina haciéndote tres preguntas:\n- ¿Qué comando te hizo sonar más musical?\n- ¿Qué comando expuso la parte más débil de tu fraseo?\n- ¿Aún pudiste caer con seguridad en **A, C, E** o **E, G, B** cuando subió la presión?\n\nSi un comando sigue rompiendo tu solo, perfecto: ya tienes el objetivo de práctica para mañana. La ruleta es divertida, pero también brutalmente honesta.",
+          "de": "Beende die Übung mit drei Fragen:\n- Welches Kommando ließ dich am musikalischsten klingen?\n- Welches Kommando zeigte die schwächste Stelle deiner Phrasierung?\n- Konntest du auch unter Druck sicher auf **A, C, E** oder **E, G, B** landen?\n\nWenn ein Kommando dein Solo immer wieder zerlegt, umso besser — dann kennst du schon das Ziel für morgen. Roulette macht Spaß, aber es ist auch gnadenlos ehrlich.",
+          "ja": "最後に、次の3つを自分に問いかけましょう。\n- どの指令がいちばん音楽的に聞こえたか？\n- どの指令がフレージングの弱点をいちばんはっきり見せたか？\n- プレッシャーが上がっても **A、C、E** または **E、G、B** に自信を持って着地できたか？\n\nもし特定の指令で毎回ソロが崩れるなら、それは明日の練習テーマが見つかったということです。ルーレットは楽しいですが、かなり正直でもあります。",
+          "zh-Hans": "最后问自己三个问题：\n- 哪个指令让你听起来最有音乐性？\n- 哪个指令最暴露你的乐句弱点？\n- 当压力上来时，你还能稳定落在 **A、C、E** 或 **E、G、B** 上吗？\n\n如果某个指令总能把你的独奏拆散，那反而是好事——你已经找到明天该练什么了。轮盘很好玩，但也非常诚实。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-24T00:06:34Z",
+  "updatedAt": "2026-04-24T00:06:34Z"
+}

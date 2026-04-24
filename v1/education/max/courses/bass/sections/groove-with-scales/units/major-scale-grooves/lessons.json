@@ -754,5 +754,33 @@
     "order": 27,
     "createdAt": "2026-04-23T00:09:23Z",
     "updatedAt": "2026-04-23T00:09:23Z"
+  },
+  {
+    "id": "pocket-traffic-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Traffic Control",
+        "pt-BR": "Controle de Tráfego do Pocket",
+        "es": "Control de Tráfico del Pocket",
+        "de": "Pocket-Verkehrskontrolle",
+        "ja": "ポケット交通整理",
+        "zh-Hans": "Pocket交通指挥"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Direct a bass groove like a traffic controller by deciding when scale notes move, stop, ghost, and land.",
+        "pt-BR": "Comande um groove de baixo como um controlador de tráfego, decidindo quando as notas da escala andam, param, somem e aterrissam.",
+        "es": "Dirige un groove de bajo como si fueras un controlador de tráfico, decidiendo cuándo las notas se mueven, se detienen, callan o aterrizan.",
+        "de": "Steuere einen Bassgroove wie eine Verkehrsleitung und entscheide, wann Skalentöne fahren, halten, schweigen oder landen.",
+        "ja": "ベースグルーヴを交通整理するように、音階音を動かす・止める・休ませる・着地させる判断を鍛えるレッスンです。",
+        "zh-Hans": "像交通指挥员一样管理贝斯律动，决定音阶音何时前进、停住、留白、幽灵化和落点。"
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-04-24T00:08:03Z",
+    "updatedAt": "2026-04-24T00:08:03Z"
   }
 ]

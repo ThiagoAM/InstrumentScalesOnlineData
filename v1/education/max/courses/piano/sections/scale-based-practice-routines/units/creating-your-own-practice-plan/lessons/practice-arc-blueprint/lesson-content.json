@@ -1,0 +1,86 @@
+{
+  "id": "practice-arc-blueprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "A lot of piano practice fails for a boring reason: the hands warm up, the brain wakes up, and then the session just... wanders. This lesson gives you a **practice arc blueprint** so your scale routine has a real beginning, a peak challenge, and a satisfying finish.\n\nChoose **one major key** and its relative minor, then set a timer for **12 minutes**. Keep a notebook nearby. You are not trying to practice everything. You are trying to make one short session feel focused and musical.",
+          "pt-BR": "Muita prática de piano falha por um motivo chato: as mãos aquecem, o cérebro desperta e a sessão simplesmente... sai andando sem rumo. Esta lição oferece um **blueprint de arco de estudo** para que sua rotina de escalas tenha início real, desafio central e fechamento satisfatório.\n\nEscolha **uma tonalidade maior** e sua relativa menor, depois marque **12 minutos** no timer. Deixe um caderno por perto. Você não está tentando estudar tudo. Está tentando fazer uma sessão curta soar focada e musical.",
+          "es": "Mucha práctica de piano falla por una razón aburrida: las manos se calientan, el cerebro despierta y la sesión simplemente... se pierde. Esta lección te da un **plano del arco de práctica** para que tu rutina de escalas tenga un verdadero comienzo, un reto central y un final satisfactorio.\n\nElige **una tonalidad mayor** y su relativa menor, y pon un temporizador de **12 minutos**. Ten un cuaderno cerca. No intentas practicarlo todo. Intentas que una sesión corta se sienta enfocada y musical.",
+          "de": "Viel Klavierüben scheitert aus einem langweiligen Grund: Die Hände werden warm, das Gehirn wacht auf, und dann läuft die Session einfach... davon. Diese Lektion gibt dir einen **Bauplan für den Übebogen**, damit deine Skalenroutine einen echten Anfang, eine Hauptaufgabe und einen befriedigenden Abschluss bekommt.\n\nWähle **eine Dur-Tonart** und ihre parallele Molltonart und stelle einen Timer auf **12 Minuten**. Lege ein Notizbuch daneben. Du versuchst nicht, alles zu üben. Du versuchst, eine kurze Session fokussiert und musikalisch zu gestalten.",
+          "ja": "ピアノ練習がうまくいかない理由のひとつは、とても地味です。手は温まり、頭も起きてくるのに、セッション全体がそのまま…ふらふら漂ってしまうこと。このレッスンでは、スケール練習に**練習アークの設計図**を与え、ちゃんとした始まり、最大の課題、気持ちよい終わりを作ります。\n\n**1つの長調**とその平行短調を選び、タイマーを**12分**に設定しましょう。ノートも近くに置きます。全部を練習する必要はありません。短い1回を、集中した音楽的な時間にすることが目的です。",
+          "zh-Hans": "很多钢琴练习失败，原因其实很无聊：手热起来了，脑子也醒了，可整个练习过程却还是……到处乱飘。这节课给你一个**练习弧线蓝图**，让音阶练习拥有真正的开头、峰值挑战和满意的收尾。\n\n选定**一个大调**和它的关系小调，把计时器设成 **12 分钟**，旁边放一本笔记本。你的目标不是把所有东西都练一遍，而是把一段短练习做得集中而有音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Split the 12 minutes into three zones:\n- **launch** = 4 minutes of clean technique\n- **climb** = 4 minutes of problem-solving\n- **landing** = 4 minutes of musical application\n\nIn launch, play the scale hands separately and together with relaxed shoulders and consistent fingering. In climb, keep the key but change one variable: articulation, rhythm, contrary motion, or accents. In landing, turn the scale into a short pattern, groove, or melodic answer.",
+          "pt-BR": "Divida os 12 minutos em três zonas:\n- **decolagem** = 4 minutos de técnica limpa\n- **subida** = 4 minutos de solução de problemas\n- **pouso** = 4 minutos de aplicação musical\n\nNa decolagem, toque a escala com mãos separadas e juntas, ombros relaxados e dedilhado consistente. Na subida, mantenha a tonalidade, mas mude uma variável: articulação, ritmo, movimento contrário ou acentos. No pouso, transforme a escala em um pequeno padrão, groove ou resposta melódica.",
+          "es": "Divide los 12 minutos en tres zonas:\n- **despegue** = 4 minutos de técnica limpia\n- **ascenso** = 4 minutos de resolución de problemas\n- **aterrizaje** = 4 minutos de aplicación musical\n\nEn despegue, toca la escala con manos separadas y juntas, hombros relajados y digitación constante. En ascenso, mantén la tonalidad pero cambia una variable: articulación, ritmo, movimiento contrario o acentos. En aterrizaje, convierte la escala en un patrón corto, groove o respuesta melódica.",
+          "de": "Teile die 12 Minuten in drei Zonen:\n- **Start** = 4 Minuten saubere Technik\n- **Anstieg** = 4 Minuten Problemlösung\n- **Landung** = 4 Minuten musikalische Anwendung\n\nIm Start spielst du die Skala mit getrennten und zusammengeführten Händen, lockeren Schultern und konstantem Fingersatz. Im Anstieg bleibt die Tonart gleich, aber du änderst eine Variable: Artikulation, Rhythmus, Gegenbewegung oder Akzente. In der Landung verwandelst du die Skala in ein kurzes Pattern, einen Groove oder eine melodische Antwort.",
+          "ja": "12分を3つのゾーンに分けます。\n- **離陸** = 4分のクリーンなテクニック\n- **上昇** = 4分の問題解決\n- **着地** = 4分の音楽的応用\n\n離陸では、肩をリラックスさせ、一定の運指で、片手・両手の両方でスケールを弾きます。上昇では調はそのままにして、アーティキュレーション、リズム、反行、アクセントのいずれか1つを変えます。着地では、そのスケールを短いパターン、グルーヴ、またはメロディの返答に変えます。",
+          "zh-Hans": "把 12 分钟分成三个区域：\n- **起飞** = 4 分钟干净技术\n- **爬升** = 4 分钟问题修复\n- **降落** = 4 分钟音乐应用\n\n在起飞区，分别用单手和双手弹音阶，保持肩膀放松、指法一致。在爬升区，调性不变，但改变一个变量：连断音、节奏、反向进行或重音。在降落区，把音阶变成一个短型、一个 groove，或一句旋律回应。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the **launch zone**, choose one technical promise such as “even tone,” “quiet thumb crossings,” or “no rushing on the way down.” Stay honest. A launch zone is not impressive because it is flashy. It is impressive because it removes sloppiness before speed shows up.",
+          "pt-BR": "Na **zona de decolagem**, escolha uma promessa técnica como “som uniforme”, “passagem de polegar silenciosa” ou “nada de correr na descida”. Seja honesto. Uma boa decolagem não impressiona por ser chamativa. Ela impressiona porque remove a sujeira antes que a velocidade apareça.",
+          "es": "Para la **zona de despegue**, elige una promesa técnica como “tono parejo”, “cruces de pulgar silenciosos” o “no acelerar al bajar”. Sé honesto. El despegue no impresiona por ser brillante. Impresiona porque limpia el desorden antes de que aparezca la velocidad.",
+          "de": "Wähle für die **Startzone** ein technisches Versprechen wie „gleichmäßiger Ton“, „leise Daumenuntersetzung“ oder „kein Beschleunigen auf dem Weg nach unten“. Sei ehrlich. Eine gute Startzone beeindruckt nicht durch Glanz, sondern dadurch, dass sie Unsauberkeiten entfernt, bevor Tempo ins Spiel kommt.",
+          "ja": "**離陸ゾーン**では、「音量を均一にする」「親指くぐりを静かにする」「下降で走らない」など、技術的な約束を1つ決めます。正直に取り組みましょう。離陸が優れているのは派手だからではなく、速さが入る前に雑さを消しているからです。",
+          "zh-Hans": "在**起飞区**，给自己一个技术承诺，比如“音色均匀”“拇指穿越更安静”或“下行不抢拍”。要诚实。起飞区的价值不在于炫，而在于它先把杂乱清掉，再谈速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the **climb zone**, pick one obstacle on purpose. Maybe the left hand drags, maybe the third finger collapses, maybe the rhythm falls apart when accents move. Work on that obstacle with tiny loops of **3 to 5 notes**, then zoom back out to the full scale. Fixing the weak joint matters more than doing a heroic full run badly.",
+          "pt-BR": "Na **zona de subida**, escolha um obstáculo de propósito. Talvez a mão esquerda arraste, talvez o terceiro dedo desabe, talvez o ritmo se desmanche quando os acentos mudam. Trabalhe esse obstáculo em pequenos loops de **3 a 5 notas** e depois volte para a escala inteira. Consertar a articulação fraca vale mais do que fazer uma execução heroica e torta.",
+          "es": "Para la **zona de ascenso**, elige un obstáculo a propósito. Tal vez la mano izquierda se retrasa, tal vez el tercer dedo colapsa, tal vez el ritmo se rompe cuando cambian los acentos. Trabaja ese obstáculo con bucles diminutos de **3 a 5 notas** y luego vuelve a la escala completa. Arreglar la articulación débil vale más que hacer una pasada heroica pero mala.",
+          "de": "Wähle für die **Anstiegszone** bewusst ein Hindernis. Vielleicht hängt die linke Hand hinterher, vielleicht bricht der dritte Finger ein, vielleicht zerfällt der Rhythmus, sobald sich die Akzente verschieben. Arbeite mit winzigen Schleifen von **3 bis 5 Tönen** und zoome dann wieder zur ganzen Skala hinaus. Das schwache Gelenk zu reparieren ist wichtiger, als einen heroischen Gesamtdurchlauf schlecht zu absolvieren.",
+          "ja": "**上昇ゾーン**では、あえて1つの障害を選びます。左手が遅れるのか、3の指が潰れるのか、アクセントが動くとリズムが崩れるのか。**3〜5音**の小さなループでその問題を練習し、そのあと全体のスケールに戻ります。弱い関節を直すことは、全体を勢いだけで失敗するよりずっと価値があります。",
+          "zh-Hans": "在**爬升区**，故意选择一个障碍。也许是左手拖拍，也许是三指塌陷，也许是重音一移动节奏就散。先用 **3 到 5 个音** 的小循环专修这个问题，再拉回完整音阶。修好最脆弱的连接点，比勉强跑一个英雄式但很糟的整条音阶更重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the **landing zone**, make the scale sound like music. Improvise a two-bar answer, build a broken-chord figure, or create a mini ending that clearly resolves. If your practice never lands in sound that feels expressive, technique starts forgetting why it exists.",
+          "pt-BR": "Na **zona de pouso**, faça a escala soar como música. Improvise uma resposta de dois compassos, monte um desenho de acordes quebrados ou crie um mini final que resolva com clareza. Se o estudo nunca aterrissa em um som expressivo, a técnica começa a esquecer por que existe.",
+          "es": "En la **zona de aterrizaje**, haz que la escala suene a música. Improvisa una respuesta de dos compases, construye una figura de acordes rotos o crea un mini final que resuelva con claridad. Si tu práctica nunca aterriza en un sonido expresivo, la técnica empieza a olvidar para qué existe.",
+          "de": "Lass die Skala in der **Landezone** wie Musik klingen. Improvisiere eine zweitaktige Antwort, baue eine Figur aus gebrochenen Akkorden oder erfinde ein Mini-Ende mit klarer Auflösung. Wenn dein Üben nie in einen ausdrucksvollen Klang landet, vergisst die Technik langsam, warum es sie überhaupt gibt.",
+          "ja": "**着地ゾーン**では、スケールをちゃんと音楽にしましょう。2小節の返答を即興したり、分散和音の型を作ったり、はっきり解決するミニ終止を作ったりします。練習が一度も表情ある音に着地しないなら、テクニックは自分の存在理由を忘れ始めます。",
+          "zh-Hans": "在**降落区**，让音阶真正听起来像音乐。你可以即兴一个两小节回应、做一个分解和弦型，或者写一个清楚解决的小结尾。如果练习从不落到有表达力的声音里，技术就会慢慢忘记自己为什么存在。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "At the end, write down three quick notes:\n- what improved fastest\n- what still felt unstable\n- what tomorrow’s first 4 minutes should focus on\n\nA strong piano routine is not just disciplined. It has shape. When your practice arc is clear, your attention stops leaking all over the room.",
+          "pt-BR": "No fim, anote três coisas rápidas:\n- o que melhorou mais rápido\n- o que ainda pareceu instável\n- em que os primeiros 4 minutos de amanhã devem focar\n\nUma rotina forte de piano não é só disciplinada. Ela tem forma. Quando o arco do seu estudo fica claro, sua atenção para de vazar por todo lado.",
+          "es": "Al final, escribe tres notas rápidas:\n- qué mejoró más rápido\n- qué siguió inestable\n- en qué deberían enfocarse los primeros 4 minutos de mañana\n\nUna buena rutina de piano no es solo disciplina. Tiene forma. Cuando el arco de tu práctica está claro, tu atención deja de escaparse por toda la habitación.",
+          "de": "Schreib am Ende drei kurze Notizen auf:\n- was sich am schnellsten verbessert hat\n- was noch instabil war\n- worauf sich die ersten 4 Minuten morgen konzentrieren sollen\n\nEine starke Klavierroutine ist nicht nur diszipliniert. Sie hat Form. Wenn dein Übebogen klar ist, hört deine Aufmerksamkeit auf, im ganzen Raum zu versickern.",
+          "ja": "最後に、3つだけ短く書き残します。\n- いちばん早く改善したこと\n- まだ不安定だったこと\n- 明日の最初の4分で狙うべきこと\n\n良いピアノ練習は、ただ規律正しいだけではありません。形があります。練習アークがはっきりすると、注意力が部屋中に漏れなくなります。",
+          "zh-Hans": "最后快速记下三件事：\n- 哪一项进步最快\n- 哪一项仍然不稳\n- 明天前 4 分钟应该先盯哪一点\n\n强的钢琴 routine 不只是自律，它还有形状。当你的练习弧线清晰时，注意力就不会再漏得到处都是。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-24T00:09:09Z",
+  "updatedAt": "2026-04-24T00:09:09Z"
+}
