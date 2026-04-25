@@ -1,0 +1,73 @@
+{
+  "id": "guitar-phrase-freeze-tag",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns improvisation into **freeze tag**. Play over **A minor** or **D minor** at **80-95 BPM**. Every phrase must begin with a clear idea, but you are not allowed to let it ramble. Your job is to stop it, reshape it, and send it somewhere smarter.",
+          "pt-BR": "Esta lição transforma a improvisação em um **pega-pega congelante**. Toque sobre **Lá menor** ou **Ré menor** entre **80 e 95 BPM**. Cada frase precisa nascer com uma ideia clara, mas você não pode deixá-la sair andando sem rumo. Sua missão é parar, remodelar e mandar a frase para um lugar mais inteligente.",
+          "es": "Esta lección convierte la improvisación en un **juego de pilla-pilla congelado**. Toca sobre **La menor** o **Re menor** a **80-95 BPM**. Cada frase debe empezar con una idea clara, pero no puedes dejarla vagar sin control. Tu trabajo es detenerla, remodelarla y enviarla a un lugar más inteligente.",
+          "de": "Diese Lektion macht aus Improvisation ein **Fangspiel mit Einfrieren**. Improvisiere über **A-Moll** oder **D-Moll** bei **80-95 BPM**. Jede Phrase soll mit einer klaren Idee beginnen, aber du darfst sie nicht ziellos weiterlaufen lassen. Deine Aufgabe ist es, sie zu stoppen, umzuformen und klüger weiterzuschicken.",
+          "ja": "このレッスンでは、即興を**フリーズ鬼ごっこ**に変えます。**Aマイナー**または**Dマイナー**で、**80〜95 BPM**で弾きましょう。すべてのフレーズは明確なアイデアから始めますが、そのままダラダラ走らせてはいけません。止めて、形を変えて、もっと賢い方向へ送り直すのが仕事です。",
+          "zh-Hans": "这节课把即兴变成一场**冻住追逐战**。你要在 **A 小调** 或 **D 小调** 上，以 **80-95 BPM** 练习。每个乐句都必须带着清楚的想法出发，但你不能让它一路乱跑。你的任务，是把它停住、重塑，然后送往更聪明的方向。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a three-rule game:\n- **tag** = stop after 3 to 5 notes\n- **freeze** = leave at least half a beat of silence\n- **release** = answer with a new ending on a chord tone\n\nStay in one position for the first two minutes. If your phrases keep spilling over the bar line without intention, the game is already teaching you something useful.",
+          "pt-BR": "Monte um jogo com três regras:\n- **tag** = parar depois de 3 a 5 notas\n- **freeze** = deixar pelo menos meio tempo de silêncio\n- **release** = responder com um novo final em uma nota do acorde\n\nFique em uma única posição nos dois primeiros minutos. Se as frases continuarem escorrendo pelo compasso sem intenção, o jogo já está te ensinando algo útil.",
+          "es": "Construye un juego con tres reglas:\n- **tag** = detenerse tras 3 a 5 notas\n- **freeze** = dejar al menos medio pulso de silencio\n- **release** = responder con un nuevo final en una nota del acorde\n\nQuédate en una sola posición durante los dos primeros minutos. Si tus frases siguen derramándose por el compás sin intención, el juego ya te está enseñando algo útil.",
+          "de": "Baue ein Spiel mit drei Regeln:\n- **tag** = nach 3 bis 5 Tönen stoppen\n- **freeze** = mindestens einen halben Schlag Stille lassen\n- **release** = mit neuem Ende auf einem Akkordton antworten\n\nBleib in den ersten zwei Minuten in nur einer Lage. Wenn deine Phrasen weiter über die Taktgrenze laufen, ohne Absicht zu zeigen, bringt dir das Spiel bereits etwas Wichtiges bei.",
+          "ja": "3つのルールでゲームを作ります。\n- **tag** = 3〜5音で止める\n- **freeze** = 少なくとも半拍ぶん休む\n- **release** = コードトーンで新しい終わり方を返す\n\n最初の2分は1つのポジションだけにとどまってください。意図もなくフレーズが小節をまたいで流れ続けるなら、その時点でもう大事な学びが起きています。",
+          "zh-Hans": "先建立三个规则：\n- **tag** = 弹完 3 到 5 个音就停\n- **freeze** = 至少留出半拍空白\n- **release** = 用一个新的结尾回应，并落在和弦音上\n\n前两分钟只待在一个把位里。如果你的乐句总是毫无意图地溢出小节线，这个游戏已经在提醒你关键问题了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **short-phrase round**. Tag every idea quickly. Land your release on **A, C, E** in A minor or **D, F, A** in D minor. The challenge is to sound decisive without sounding robotic. Use one bend, slide, or vibrato only after the phrase shape already makes sense.",
+          "pt-BR": "A Rodada 1 é a **rodada das frases curtas**. Marque cada ideia rapidamente. Faça o release aterrissar em **A, C, E** em Lá menor ou **D, F, A** em Ré menor. O desafio é soar decidido sem soar robótico. Use um bend, slide ou vibrato só depois que o desenho da frase já fizer sentido.",
+          "es": "La Ronda 1 es la **ronda de frases cortas**. Etiqueta cada idea rápidamente. Haz que el release caiga en **A, C, E** en La menor o **D, F, A** en Re menor. El reto es sonar decidido sin sonar robótico. Usa un bend, slide o vibrato solo después de que la forma de la frase ya tenga sentido.",
+          "de": "Runde 1 ist die **Kurzphrasen-Runde**. Stoppe jede Idee schnell. Lande beim Release auf **A, C, E** in A-Moll oder **D, F, A** in D-Moll. Die Herausforderung ist, entschlossen zu klingen, ohne mechanisch zu wirken. Nutze Bend, Slide oder Vibrato erst dann, wenn die Form der Phrase schon Sinn ergibt.",
+          "ja": "ラウンド1は**短いフレーズのラウンド**です。すべてのアイデアを素早く止めます。Release は、Aマイナーなら **A、C、E**、Dマイナーなら **D、F、A** に着地させましょう。狙いは、機械的にならずに決断力を出すことです。ベンド、スライド、ビブラートは、フレーズの形がすでに意味を持ってから使います。",
+          "zh-Hans": "第 1 轮是**短句轮**。快速给每个想法“点到为止”。Release 要落在 A 小调的 **A、C、E**，或 D 小调的 **D、F、A** 上。挑战是在不机械的前提下，听起来依然果断。只有当乐句轮廓已经合理时，才加入推弦、滑音或揉弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **reroute round**. Keep the same first 3 notes for three different phrases, but change the ending each time. One ending should climb, one should fall, and one should end with silence before the answer. This teaches you that a scale pattern is not the phrase — the direction and timing are.",
+          "pt-BR": "A Rodada 2 é a **rodada do redirecionamento**. Mantenha as mesmas 3 primeiras notas em três frases diferentes, mas mude o final toda vez. Um final deve subir, outro deve descer e outro deve terminar em silêncio antes da resposta. Isso ensina que o padrão da escala não é a frase — a direção e o tempo é que são.",
+          "es": "La Ronda 2 es la **ronda de redirección**. Mantén las mismas 3 primeras notas en tres frases distintas, pero cambia el final cada vez. Un final debe subir, otro bajar y otro terminar con silencio antes de la respuesta. Esto te enseña que el patrón de escala no es la frase: lo son la dirección y el tiempo.",
+          "de": "Runde 2 ist die **Umleitungs-Runde**. Behalte in drei verschiedenen Phrasen dieselben ersten 3 Töne, ändere aber jedes Mal das Ende. Ein Ende soll steigen, eins fallen und eins vor der Antwort in Stille enden. So lernst du: Das Skalenmuster ist nicht die Phrase — Richtung und Timing sind es.",
+          "ja": "ラウンド2は**進路変更ラウンド**です。3つの異なるフレーズで最初の3音は同じにし、終わり方だけ毎回変えます。1つは上行、1つは下行、もう1つは返答の前に休符で終えましょう。ここで学ぶのは、スケールパターン自体がフレーズなのではなく、方向とタイミングこそがフレーズだということです。",
+          "zh-Hans": "第 2 轮是**改道轮**。连续做三句都用同样的前 3 个音，但每次都换不同结尾。一个结尾向上，一个向下，另一个在回应前先用留白结束。它会让你明白：音阶指型本身不是乐句，方向和时间安排才是。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final test, record **30 seconds** and ask:\n- Did the silences make the solo breathe?\n- Could you control where phrases stopped instead of just where your fingers ran out of ideas?\n- Did your chord-tone landings sound intentional?\n\nA good improvisor does not just know more notes. A good improvisor knows when to say, \"stop — now make that phrase mean something.\"",
+          "pt-BR": "No teste final, grave **30 segundos** e pergunte:\n- Os silêncios fizeram o solo respirar?\n- Você controlou onde as frases paravam em vez de só parar quando os dedos ficavam sem ideia?\n- Suas aterrissagens em notas do acorde soaram intencionais?\n\nUm bom improvisador não conhece apenas mais notas. Ele sabe a hora de dizer: \"para — agora faz essa frase significar alguma coisa.\"",
+          "es": "Para la prueba final, graba **30 segundos** y pregúntate:\n- ¿Los silencios hicieron respirar al solo?\n- ¿Pudiste controlar dónde terminaban las frases en lugar de detenerte solo cuando tus dedos se quedaban sin ideas?\n- ¿Tus aterrizajes en notas del acorde sonaron intencionales?\n\nUn buen improvisador no solo conoce más notas. Sabe cuándo decir: \"alto; ahora haz que esa frase signifique algo.\"",
+          "de": "Nimm für den Abschlusstest **30 Sekunden** auf und frage dich:\n- Lassen die Pausen das Solo atmen?\n- Kontrollierst du, wo Phrasen enden, statt nur dort zu stoppen, wo den Fingern die Ideen ausgehen?\n- Klingen deine Landungen auf Akkordtönen absichtlich?\n\nEin guter Improvisator kennt nicht bloß mehr Töne. Er weiß, wann er sagt: „Stopp — und jetzt gib dieser Phrase Bedeutung.“",
+          "ja": "最後のテストとして **30秒** 録音し、次を確認してください。\n- 休符がソロに呼吸を与えているか？\n- 指の勢いが止まった場所ではなく、自分でフレーズの終点を決められているか？\n- コードトーンへの着地は意図的に聞こえるか？\n\n良い即興者は、ただ多くの音を知っている人ではありません。『止まれ――今、そのフレーズに意味を持たせよう』と言える人です。",
+          "zh-Hans": "最后录下 **30 秒**，并检查：\n- 留白有没有让独奏会呼吸？\n- 你是不是能主动决定乐句停在哪里，而不是等手指没点子了才停？\n- 你落在和弦音上的感觉是否明确而有意图？\n\n好的即兴者不只是知道更多音而已。更重要的是，他知道何时说：『停——现在让这句真的有意义。』"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-25T00:06:47Z",
+  "updatedAt": "2026-04-25T00:06:47Z"
+}

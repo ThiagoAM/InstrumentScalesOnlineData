@@ -782,5 +782,33 @@
     "order": 28,
     "createdAt": "2026-04-24T00:08:03Z",
     "updatedAt": "2026-04-24T00:08:03Z"
+  },
+  {
+    "id": "bass-pocket-brake-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Brake Lights",
+        "pt-BR": "Luzes de Freio do Pocket",
+        "es": "Luces de Freno del Pocket",
+        "de": "Bremslichter im Pocket",
+        "ja": "ポケットのブレーキランプ",
+        "zh-Hans": "Pocket刹车灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build tougher bass grooves by deciding exactly where to brake, leave space, and relaunch scale motion.",
+        "pt-BR": "Construa grooves de baixo mais fortes decidindo exatamente onde frear, deixar espaço e relançar o movimento da escala.",
+        "es": "Construye grooves de bajo más fuertes decidiendo exactamente dónde frenar, dejar espacio y relanzar el movimiento de la escala.",
+        "de": "Baue stärkere Bassgrooves, indem du genau entscheidest, wo du bremst, Raum lässt und die Skalenbewegung neu startest.",
+        "ja": "どこで止め、どこで空間を作り、どこでスケールの動きを再発進させるかを決めて、ベースグルーヴを強くするレッスンです。",
+        "zh-Hans": "通过精确决定何时刹车、留白和重新起步，打造更扎实的贝斯律动。"
+      }
+    },
+    "order": 29,
+    "createdAt": "2026-04-25T00:09:08Z",
+    "updatedAt": "2026-04-25T00:09:08Z"
   }
 ]

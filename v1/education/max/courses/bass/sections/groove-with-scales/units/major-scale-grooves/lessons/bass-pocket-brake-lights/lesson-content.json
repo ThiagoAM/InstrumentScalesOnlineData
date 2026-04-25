@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-brake-lights",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson treats your bass line like a fast street where not every note is allowed to speed. Work in **G major** over **G - Em - C - D** at **78-94 BPM**. Your goal is to make the groove feel deeper by using scale notes, rests, and note length like deliberate traffic control.",
+          "pt-BR": "Esta lição trata sua linha de baixo como uma rua rápida onde nem toda nota tem permissão para acelerar. Trabalhe em **Sol maior** sobre **G - Em - C - D** entre **78 e 94 BPM**. O objetivo é fazer o groove soar mais profundo usando notas da escala, pausas e duração das notas como controle deliberado de tráfego.",
+          "es": "Esta lección trata tu línea de bajo como una calle rápida donde no todas las notas pueden acelerar. Trabaja en **Sol mayor** sobre **G - Em - C - D** a **78-94 BPM**. Tu objetivo es que el groove tenga más profundidad usando notas de la escala, silencios y duración de nota como control de tráfico deliberado.",
+          "de": "Diese Lektion behandelt deine Basslinie wie eine schnelle Straße, auf der nicht jede Note einfach Gas geben darf. Arbeite in **G-Dur** über **G - Em - C - D** bei **78-94 BPM**. Dein Ziel ist ein tieferer Groove, indem du Skalentöne, Pausen und Notenlängen wie bewusste Verkehrsführung einsetzt.",
+          "ja": "このレッスンでは、ベースラインを「すべての音が加速してよいわけではない速い道路」として扱います。**Gメジャー**、進行は **G - Em - C - D**、テンポは **78〜94 BPM** です。スケール音、休符、音価を意図的に使い、グルーヴをより深く感じさせるのが目標です。",
+          "zh-Hans": "这节课把你的贝斯线当成一条快车道：不是每个音都该一直踩油门。请在 **G 大调**、和声进行 **G - Em - C - D**、速度 **78-94 BPM** 下练习。目标是用音阶音、休止和音值长度，像交通控制一样让 groove 更深、更稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Make a four-beat rule set:\n- beat **1** must land clearly on a chord tone\n- one beat per bar must be shortened like a quick brake tap\n- one spot per bar must be true silence\n- one note per bar may connect smoothly into the next beat\n\nPlay two bars and repeat them until the pulse feels automatic. If the line sounds busy but not grounded, your brakes are not doing enough work.",
+          "pt-BR": "Monte um conjunto de quatro regras:\n- o tempo **1** deve cair claramente em uma nota do acorde\n- um tempo por compasso deve ser encurtado como uma freada rápida\n- um ponto por compasso deve ser silêncio real\n- uma nota por compasso pode se conectar suavemente ao tempo seguinte\n\nToque dois compassos e repita até o pulso parecer automático. Se a linha soar ocupada, mas não firme, seus freios não estão fazendo trabalho suficiente.",
+          "es": "Crea un conjunto de cuatro reglas:\n- el tiempo **1** debe caer claramente en un tono del acorde\n- un tiempo por compás debe acortarse como un toque rápido de freno\n- un lugar por compás debe ser silencio real\n- una nota por compás puede conectarse suavemente con el tiempo siguiente\n\nToca dos compases y repítelos hasta que el pulso se sienta automático. Si la línea suena ocupada pero no firme, tus frenos no están trabajando lo suficiente.",
+          "de": "Baue ein Regelset mit vier Punkten:\n- Zählzeit **1** muss klar auf einem Akkordton landen\n- eine Zählzeit pro Takt wird wie ein kurzer Bremstipp verkürzt\n- eine Stelle pro Takt ist echte Stille\n- eine Note pro Takt darf weich in den nächsten Schlag hineinziehen\n\nSpiele zwei Takte und wiederhole sie, bis sich der Puls automatisch anfühlt. Wenn die Linie beschäftigt klingt, aber nicht geerdet, arbeiten deine Bremsen noch nicht genug.",
+          "ja": "4つのルールを作ります。\n- **1拍目** は必ずコードトーンに明確に着地する\n- 1小節に1回は、短いブレーキのように音を短く切る\n- 1小節に1か所は、本当の休符を入れる\n- 1小節に1つは、次の拍へなめらかにつなぐ音を使ってよい\n\n2小節を作って、それが自然な脈に感じられるまで繰り返してください。忙しく聞こえるのに土台が弱いなら、ブレーキがまだ足りません。",
+          "zh-Hans": "先定下四条规则：\n- **第 1 拍** 必须清楚落在和弦音上\n- 每小节要有一个拍点像轻点刹车一样被缩短\n- 每小节要有一个位置是真正的留白\n- 每小节允许有一个音平顺连到下一拍\n\n做出两小节型并反复循环，直到脉冲感变得自然。如果线条听起来很忙却不扎实，说明你的“刹车”还不够有用。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **brake-light round**. On beats 2 or 4, shorten a note on purpose so the next note feels heavier. Alternate between **root-fifth-octave** material and nearby scale steps. You are training contrast: long notes create trust, short notes create lift.",
+          "pt-BR": "A Rodada 1 é a **rodada das luzes de freio**. Nos tempos 2 ou 4, encurte uma nota de propósito para que a próxima pareça mais pesada. Alterne entre material de **tônica-quinta-oitava** e graus conjuntos próximos da escala. Você está treinando contraste: notas longas criam confiança, notas curtas criam impulso.",
+          "es": "La Ronda 1 es la **ronda de luces de freno**. En los tiempos 2 o 4, acorta una nota a propósito para que la siguiente se sienta más pesada. Alterna entre material de **tónica-quinta-octava** y grados conjuntos cercanos. Estás entrenando contraste: las notas largas generan confianza, las cortas generan impulso.",
+          "de": "Runde 1 ist die **Bremslichter-Runde**. Auf Zählzeit 2 oder 4 verkürzt du absichtlich eine Note, damit die nächste schwerer wirkt. Wechsle zwischen **Grundton-Quinte-Oktave** und nahen Skalenstufen. Du trainierst Kontrast: lange Noten geben Vertrauen, kurze Noten geben Schub.",
+          "ja": "ラウンド1は**ブレーキランプ・ラウンド**です。2拍目か4拍目で、次の音がより重く感じられるように、1音を意図的に短くします。**ルート・5度・オクターブ** と、その近くのスケール順次進行を行き来しましょう。長い音は安心感を、短い音は推進力を作ります。",
+          "zh-Hans": "第 1 轮是**刹车灯轮**。在第 2 或第 4 拍，故意把一个音缩短，让下一个音显得更有分量。交替使用 **根音-五度-八度** 材料和附近的级进音。你在训练对比：长音建立稳定，短音制造弹性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **late-launch round**. Keep beat 1 strong, but delay one entry later in the bar after a real rest. The line should still feel confident, not hesitant. If the groove collapses when you remove one note, that means the pocket was fake confidence instead of real time.",
+          "pt-BR": "A Rodada 2 é a **rodada da largada atrasada**. Mantenha o tempo 1 forte, mas atrase uma entrada mais tarde no compasso depois de uma pausa real. A linha ainda deve soar confiante, não hesitante. Se o groove desmorona quando você remove uma nota, isso significa que o pocket era confiança falsa, não tempo de verdade.",
+          "es": "La Ronda 2 es la **ronda de salida tardía**. Mantén fuerte el tiempo 1, pero retrasa una entrada más adelante en el compás después de un silencio real. La línea debe seguir sonando segura, no dudosa. Si el groove se derrumba cuando quitas una nota, significa que el pocket era confianza falsa y no tiempo real.",
+          "de": "Runde 2 ist die **Spätstart-Runde**. Halte Zählzeit 1 stark, aber verschiebe einen Einsatz später im Takt nach einer echten Pause. Die Linie soll trotzdem selbstbewusst und nicht zögerlich klingen. Wenn der Groove zusammenbricht, sobald du eine Note wegnimmst, war das Pocket eher gespieltes Selbstvertrauen als echtes Timing.",
+          "ja": "ラウンド2は**遅い再発進ラウンド**です。1拍目は強く保ちつつ、小節の後半にある1つの入りを、休符のあとに遅らせます。それでもラインは迷わず、自信を持って聞こえる必要があります。1音減らしただけでグルーヴが崩れるなら、それは本物のタイムではなく、見せかけの勢いだったということです。",
+          "zh-Hans": "第 2 轮是**延迟起步轮**。保持第 1 拍强而稳，但把小节后半段的一个进入点放到真实休止之后。整条线仍然要听起来有把握，而不是犹豫。如果拿掉一个音 groove 就塌了，那说明原来的 pocket 只是表面自信，不是真正的时间感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Record **40 seconds** and check:\n- Are the chord-tone landings still obvious?\n- Do the short notes feel like expressive brakes instead of accidental clipping?\n- Does the silence make the next attack feel stronger?\n\nGreat bass playing is not endless forward motion. Sometimes the pocket gets stronger because you flashed the brake lights at exactly the right moment.",
+          "pt-BR": "Grave **40 segundos** e confira:\n- As aterrissagens nas notas do acorde continuam óbvias?\n- As notas curtas soam como freios expressivos em vez de cortes acidentais?\n- O silêncio deixa o próximo ataque mais forte?\n\nGrande baixo não é movimento eterno para frente. Às vezes o pocket fica melhor porque você acendeu a luz de freio no exato momento certo.",
+          "es": "Graba **40 segundos** y revisa:\n- ¿Siguen siendo evidentes los aterrizajes en tonos del acorde?\n- ¿Las notas cortas se sienten como frenos expresivos y no como cortes accidentales?\n- ¿El silencio hace más fuerte el siguiente ataque?\n\nEl gran bajo no es movimiento constante hacia delante. A veces el pocket mejora porque encendiste las luces de freno justo en el momento correcto.",
+          "de": "Nimm **40 Sekunden** auf und prüfe:\n- Sind die Landungen auf Akkordtönen weiter klar hörbar?\n- Klingen die kurzen Noten wie ausdrucksstarke Bremsen statt wie versehentliches Abhacken?\n- Macht die Stille den nächsten Anschlag stärker?\n\nGroßartiges Bassspiel ist nicht endlose Vorwärtsbewegung. Manchmal wird das Pocket besser, weil du im genau richtigen Moment die Bremslichter eingeschaltet hast.",
+          "ja": "**40秒**録音して、次を確認します。\n- コードトーンへの着地ははっきり聞こえるか？\n- 短い音は事故ではなく、表現としてのブレーキに聞こえるか？\n- 休符が次のアタックをより強くしているか？\n\n優れたベースは、ずっと前に進み続けることではありません。ちょうどいい瞬間にブレーキランプを光らせたからこそ、ポケットが深くなることもあります。",
+          "zh-Hans": "录下 **40 秒**，检查：\n- 落在和弦音上的点是否依然清楚？\n- 短音听起来像有表情的刹车，而不是意外被切断？\n- 留白有没有让下一个起音更有力量？\n\n伟大的贝斯不是永远向前冲。有时 pocket 变强，恰恰是因为你在最对的瞬间亮起了刹车灯。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-25T00:09:08Z",
+  "updatedAt": "2026-04-25T00:09:08Z"
+}

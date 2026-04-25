@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-04-24T00:06:34Z",
     "updatedAt": "2026-04-24T00:06:34Z"
+  },
+  {
+    "id": "guitar-phrase-freeze-tag",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Phrase Freeze Tag",
+        "pt-BR": "Pega-Pega do Fraseado",
+        "es": "Pilla-Pilla del Fraseo",
+        "de": "Phrasen-Fangspiel",
+        "ja": "フレーズ鬼ごっこ",
+        "zh-Hans": "乐句冻住追逐战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train guitar improvisation control by freezing, answering, and rerouting scale phrases before they run away.",
+        "pt-BR": "Treine o controle da improvisação na guitarra congelando, respondendo e redirecionando frases antes que elas saiam correndo.",
+        "es": "Entrena el control de la improvisación en guitarra congelando, respondiendo y redirigiendo frases antes de que se escapen.",
+        "de": "Trainiere die Kontrolle beim Gitarren-Improvisieren, indem du Phrasen einfrierst, beantwortest und neu lenkst, bevor sie davonlaufen.",
+        "ja": "ギター即興でフレーズを止め、返し、進路変更しながら、暴走しないコントロールを鍛えるレッスンです。",
+        "zh-Hans": "通过冻结、回应和改道乐句，训练你的吉他即兴控制力，不让句子一路失控。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-04-25T00:06:47Z",
+    "updatedAt": "2026-04-25T00:06:47Z"
   }
 ]
