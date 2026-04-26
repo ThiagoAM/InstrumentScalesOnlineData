@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-lane-switches",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Start the engine\n\nChoose **C major** first, two octaves, hands together if possible. Set the metronome to **72 bpm**.\n\nImagine the keyboard is a highway with three lanes:\n- **lane 1** = light touch\n- **lane 2** = medium touch\n- **lane 3** = bold touch\n\nYour goal is to switch lanes without swerving, tensing up, or losing even rhythm.",
+          "pt-BR": "### Ligue o motor\n\nEscolha primeiro **dó maior**, duas oitavas, mãos juntas se possível. Ajuste o metrônomo para **72 bpm**.\n\nImagine que o teclado é uma estrada com três faixas:\n- **faixa 1** = toque leve\n- **faixa 2** = toque médio\n- **faixa 3** = toque marcante\n\nSeu objetivo é trocar de faixa sem derrapar, tensionar ou perder a regularidade rítmica.",
+          "es": "### Enciende el motor\n\nEmpieza con **Do mayor**, dos octavas, manos juntas si es posible. Pon el metrónomo en **72 bpm**.\n\nImagina que el teclado es una autopista con tres carriles:\n- **carril 1** = toque ligero\n- **carril 2** = toque medio\n- **carril 3** = toque decidido\n\nTu objetivo es cambiar de carril sin desviarte, tensarte ni perder un ritmo parejo.",
+          "de": "### Motor an\n\nBeginne mit **C-Dur**, zwei Oktaven, wenn möglich beidhändig zusammen. Stelle das Metronom auf **72 bpm**.\n\nStell dir die Tastatur als Autobahn mit drei Spuren vor:\n- **Spur 1** = leichter Anschlag\n- **Spur 2** = mittlerer Anschlag\n- **Spur 3** = kräftiger Anschlag\n\nDein Ziel ist es, die Spur zu wechseln, ohne zu schwanken, zu verspannen oder den gleichmäßigen Puls zu verlieren.",
+          "ja": "### エンジン始動\n\nまずは **Cメジャー**、2オクターブ、できれば両手同時で始めます。メトロノームは **72 bpm** に設定します。\n\n鍵盤を3車線の道路だと思ってください。\n- **レーン1** = 軽いタッチ\n- **レーン2** = 中くらいのタッチ\n- **レーン3** = はっきりしたタッチ\n\n目標は、リズムを乱したり力んだりせずに、レーンを切り替えることです。",
+          "zh-Hans": "### 发动车子\n\n先从 **C大调** 开始，两个八度，最好双手一起。把节拍器设为 **72 bpm**。\n\n把键盘想成一条有三条车道的高速路：\n- **车道1** = 轻触键\n- **车道2** = 中等触键\n- **车道3** = 更大胆的触键\n\n你的目标是在不跑偏、不紧张、不丢均匀节奏的情况下完成变道。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lane 1: Smooth and quiet\n\nPlay the scale in **lane 1** only: soft sound, round tone, steady fingers.\n\nWatch for three things:\n- even volume from thumb to pinky\n- no sudden accents during thumb crossings\n- wrists staying loose\n\nDo 4 clean runs up and down before moving on.",
+          "pt-BR": "### Faixa 1: suave e silenciosa\n\nToque a escala apenas na **faixa 1**: som suave, timbre redondo, dedos estáveis.\n\nObserve três coisas:\n- volume uniforme do polegar ao dedo mínimo\n- nenhum acento repentino nas passagens do polegar\n- punhos soltos\n\nFaça 4 subidas e descidas limpas antes de seguir.",
+          "es": "### Carril 1: suave y silencioso\n\nToca la escala solo en el **carril 1**: sonido suave, timbre redondo y dedos estables.\n\nObserva tres cosas:\n- volumen parejo del pulgar al meñique\n- ningún acento brusco en los cruces del pulgar\n- muñecas sueltas\n\nHaz 4 subidas y bajadas limpias antes de continuar.",
+          "de": "### Spur 1: weich und ruhig\n\nSpiele die Skala nur in **Spur 1**: leiser Klang, runder Ton, stabile Finger.\n\nAchte auf drei Dinge:\n- gleichmäßige Lautstärke vom Daumen bis zum kleinen Finger\n- keine plötzlichen Akzente bei Daumenuntersetzungen\n- lockere Handgelenke\n\nMache 4 saubere Auf- und Abwärtsläufe, bevor du weitergehst.",
+          "ja": "### レーン1：やわらかく静かに\n\n**レーン1** だけで音階を弾きます。小さな音、丸い音色、安定した指を意識しましょう。\n\n見るポイントは3つです。\n- 親指から小指まで音量がそろっているか\n- 親指くぐりで急なアクセントが出ていないか\n- 手首が固まっていないか\n\n上下を4回きれいに弾いてから進みます。",
+          "zh-Hans": "### 车道1：轻柔又安静\n\n只在 **车道1** 里弹音阶：声音轻、音色圆、手指稳定。\n\n观察三件事：\n- 从拇指到小指音量是否均匀\n- 拇指穿指时有没有突然冒出的重音\n- 手腕是否保持放松\n\n上下行各做 4 次干净重复，再继续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lane 2: Mid-lane control\n\nNow stay in **lane 2**: medium dynamic, calm pulse, clear articulation.\n\nOn every ascent, mentally say:\n- \"prepare\"\n- \"cross\"\n- \"release\"\n\nThis keeps your fingering organized instead of lucky.",
+          "pt-BR": "### Faixa 2: controle no meio da pista\n\nAgora fique na **faixa 2**: dinâmica média, pulso calmo e articulação clara.\n\nEm cada subida, pense:\n- \"prepara\"\n- \"passa\"\n- \"solta\"\n\nIsso mantém seu dedilhado organizado, em vez de contar com a sorte.",
+          "es": "### Carril 2: control en la zona media\n\nAhora mantente en el **carril 2**: dinámica media, pulso tranquilo y articulación clara.\n\nEn cada subida, di mentalmente:\n- \"prepara\"\n- \"cruza\"\n- \"suelta\"\n\nEsto mantiene la digitación organizada en lugar de depender de la suerte.",
+          "de": "### Spur 2: Kontrolle in der Mitte\n\nBleib jetzt in **Spur 2**: mittlere Dynamik, ruhiger Puls, klare Artikulation.\n\nSage dir bei jedem Aufstieg innerlich:\n- \"vorbereiten\"\n- \"untersetzen\"\n- \"lösen\"\n\nSo bleibt dein Fingersatz organisiert statt zufällig.",
+          "ja": "### レーン2：中央でコントロール\n\n次は **レーン2**。中くらいの音量、落ち着いた拍、はっきりした発音です。\n\n上行のたびに心の中でこう言います。\n- 「準備」\n- 「くぐる」\n- 「ほどく」\n\nこうすると、運まかせではなく整理された指づかいになります。",
+          "zh-Hans": "### 车道2：中段控制\n\n现在保持在 **车道2**：中等力度、平稳脉搏、清晰触键。\n\n每次上行时，在心里默念：\n- “准备”\n- “穿过”\n- “释放”\n\n这样你的指法会更有组织，而不是靠运气。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lane 3: Bold but not bouncy\n\nMove to **lane 3**: fuller tone, but no banging. The sound should grow, not harden.\n\nChallenge:\n1. Crescendo on the way up.\n2. Hold the top note for one beat.\n3. Descend with a smaller tone.\n\nIf your shoulders rise, you are speeding with bad technique. Reset.",
+          "pt-BR": "### Faixa 3: cheio, mas sem martelar\n\nVá para a **faixa 3**: som mais cheio, mas sem bater. O timbre deve crescer, não endurecer.\n\nDesafio:\n1. Faça crescendo na subida.\n2. Segure a nota mais aguda por um tempo.\n3. Desça com um som menor.\n\nSe os ombros subirem, você está acelerando com técnica ruim. Reinicie.",
+          "es": "### Carril 3: lleno pero sin golpear\n\nPasa al **carril 3**: sonido más lleno, pero sin martillar. El tono debe crecer, no endurecerse.\n\nDesafío:\n1. Haz un crescendo al subir.\n2. Mantén la nota más alta durante un pulso.\n3. Baja con un sonido más pequeño.\n\nSi tus hombros suben, estás acelerando con mala técnica. Reinicia.",
+          "de": "### Spur 3: kräftig, aber nicht hart\n\nWechsle auf **Spur 3**: voller Ton, aber ohne Hämmern. Der Klang soll wachsen, nicht härter werden.\n\nChallenge:\n1. Crescendo auf dem Weg nach oben.\n2. Halte den höchsten Ton einen Schlag lang.\n3. Komme mit kleinerem Ton wieder herunter.\n\nWenn deine Schultern hochgehen, rast du mit schlechter Technik. Reset.",
+          "ja": "### レーン3：太く、でも叩かない\n\n**レーン3** に移ります。音は豊かに、でも叩かないこと。音量は増えても、音色は硬くしません。\n\nチャレンジ：\n1. 上りでクレッシェンド\n2. いちばん高い音を1拍キープ\n3. 下りは少し小さめの音で戻る\n\n肩が上がるなら、悪いフォームで飛ばしています。リセットしましょう。",
+          "zh-Hans": "### 车道3：更饱满，但别砸\n\n切到 **车道3**：音色更饱满，但不能敲砸。声音应该变大，而不是变硬。\n\n挑战：\n1. 上行时做渐强。\n2. 最高音保持一拍。\n3. 下行时用更小一点的声音回来。\n\n如果肩膀抬起来了，你就是在用坏技术超速。立刻重置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Traffic merge challenge\n\nNow switch lanes during one run:\n- low octave = lane 1\n- middle area = lane 2\n- top area = lane 3\n- way down = back to lane 1\n\nRepeat 5 times. Every lane change must feel planned, not accidental.",
+          "pt-BR": "### Desafio de mudança de pista\n\nAgora troque de faixa dentro de uma única passada:\n- oitava grave = faixa 1\n- região do meio = faixa 2\n- região aguda = faixa 3\n- descida inteira = volta para faixa 1\n\nRepita 5 vezes. Cada mudança de faixa precisa soar planejada, não acidental.",
+          "es": "### Desafío de incorporación\n\nAhora cambia de carril dentro de una sola pasada:\n- octava grave = carril 1\n- zona media = carril 2\n- zona aguda = carril 3\n- bajada completa = vuelta al carril 1\n\nRepítelo 5 veces. Cada cambio debe sentirse planeado, no accidental.",
+          "de": "### Einfädel-Challenge\n\nWechsle jetzt innerhalb eines Laufs die Spur:\n- tiefe Oktave = Spur 1\n- mittlerer Bereich = Spur 2\n- hoher Bereich = Spur 3\n- auf dem Rückweg = zurück zu Spur 1\n\nWiederhole das 5 Mal. Jeder Spurwechsel muss geplant wirken, nicht zufällig.",
+          "ja": "### 合流チャレンジ\n\n今度は1回の往復の中でレーンを切り替えます。\n- 低音オクターブ = レーン1\n- 真ん中あたり = レーン2\n- 高音域 = レーン3\n- 下り全体 = レーン1に戻る\n\nこれを5回。切り替えは偶然ではなく、計画的に感じられる必要があります。",
+          "zh-Hans": "### 并线挑战\n\n现在在一次完整往返中完成变道：\n- 低音八度 = 车道1\n- 中间区域 = 车道2\n- 高音区域 = 车道3\n- 下行全程 = 回到车道1\n\n重复 5 次。每次变道都要像计划好的一样，而不是碰巧。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Driver's report\n\nAsk yourself:\n- Which lane exposed the most uneven fingers?\n- Did the tone change while the rhythm stayed stable?\n- Where did I tense up during a thumb crossing?\n\nFinal expansion: take the same lane-switch game into **G major**. If the traffic stays smooth there too, your control is getting real. 🎹",
+          "pt-BR": "### Relatório do motorista\n\nPergunte a si mesmo:\n- Qual faixa revelou os dedos mais desiguais?\n- O timbre mudou enquanto o ritmo ficou estável?\n- Onde eu tensionei durante a passagem do polegar?\n\nExpansão final: leve o mesmo jogo para **sol maior**. Se o trânsito continuar fluindo ali também, seu controle está ficando real. 🎹",
+          "es": "### Informe del conductor\n\nPregúntate:\n- ¿Qué carril mostró los dedos más desiguales?\n- ¿Cambió el sonido mientras el ritmo siguió estable?\n- ¿Dónde me tensé en un cruce del pulgar?\n\nExpansión final: lleva el mismo juego de carriles a **Sol mayor**. Si el tráfico sigue fluido allí también, tu control está creciendo de verdad. 🎹",
+          "de": "### Fahrerbericht\n\nFrage dich:\n- Welche Spur hat die ungleichmäßigsten Finger entlarvt?\n- Hat sich der Klang verändert, während der Rhythmus stabil blieb?\n- Wo habe ich mich bei einer Daumenuntersetzung verspannt?\n\nLetzte Erweiterung: Spiele dasselbe Spurwechsel-Spiel in **G-Dur**. Wenn der Verkehr dort auch flüssig bleibt, wird deine Kontrolle wirklich besser. 🎹",
+          "ja": "### ドライバー報告\n\n自分に聞いてみましょう。\n- どのレーンで指の uneven さがいちばん出たか\n- 音色が変わってもリズムは安定していたか\n- 親指くぐりのどこで力んだか\n\n最後の拡張：同じレーンチェンジゲームを **Gメジャー** に移します。そこでも流れがなめらかなら、コントロールは本物になってきています。🎹",
+          "zh-Hans": "### 驾驶报告\n\n问问自己：\n- 哪条车道最容易暴露手指不均匀？\n- 音色变化时，节奏有没有保持稳定？\n- 我在哪次拇指穿指时紧了？\n\n最后扩展：把同样的变道游戏搬到 **G大调**。如果那边的“交通”也一样顺畅，你的控制力就真的在进步了。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-26T00:06:52Z",
+  "updatedAt": "2026-04-26T00:06:52Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "guitar-accent-escape",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission\n\nToday you are escaping the \"boring solo police.\" Use the **E natural minor scale** (E F# G A B C D) in one position you know well.\n\nSet a metronome to **78 bpm**. Play only **quarter notes and eighth notes** for now.\n\nYour win condition: every short phrase must sound like it has a purpose, not like a scale run.",
+          "pt-BR": "### Missão\n\nHoje você vai escapar da \"polícia do solo sem graça\". Use a **escala de mi menor natural** (E F# G A B C D) em uma posição que você já conheça bem.\n\nAjuste o metrônomo para **78 bpm**. Toque apenas **semínimas e colcheias** por enquanto.\n\nSua condição de vitória: cada frase curta precisa soar intencional, não como uma corrida de escala.",
+          "es": "### Misión\n\nHoy vas a escapar de la \"policía del solo aburrido\". Usa la **escala de mi menor natural** (E F# G A B C D) en una posición que ya conozcas bien.\n\nPon el metrónomo en **78 bpm**. Toca solo **negras y corcheas** por ahora.\n\nTu condición de victoria: cada frase corta debe sonar intencional, no como una corrida de escala.",
+          "de": "### Mission\n\nHeute entkommst du der \"langweiligen Solo-Polizei\". Nutze die **natürliche E-Moll-Tonleiter** (E F# G A B C D) in einer Lage, die du gut kennst.\n\nStelle das Metronom auf **78 bpm**. Spiele zunächst nur **Viertel und Achtel**.\n\nDein Ziel: Jede kurze Phrase soll absichtlich klingen, nicht wie ein bloßer Skalenlauf.",
+          "ja": "### ミッション\n\n今日は「退屈なソロ警察」から逃げます。よく知っているポジションで **Eナチュラルマイナー・スケール**（E F# G A B C D）を使いましょう。\n\nメトロノームは **78 bpm**。まずは **4分音符と8分音符** だけで弾きます。\n\n勝利条件は、どの短いフレーズも単なるスケール上昇ではなく、意図を持って聞こえることです。",
+          "zh-Hans": "### 任务\n\n今天你要逃离“无聊独奏警察”。在你熟悉的把位里使用 **E自然小调音阶**（E F# G A B C D）。\n\n把节拍器设到 **78 bpm**。先只用 **四分音符和八分音符**。\n\n你的通关条件：每个短乐句都要像是有明确意图，而不是一串机械的音阶跑动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Rule 1: Accent the unexpected\n\nPlay a 2-bar phrase in E minor, but place your strongest accent on **\"and\" of 2** or **\"and\" of 4**.\n\nAfter each try, ask:\n- Did the accent really pop?\n- Did I keep the rest of the phrase relaxed?\n- Did I still hear E minor clearly?\n\nDo 5 clean reps.",
+          "pt-BR": "### Regra 1: acentue o inesperado\n\nToque uma frase de 2 compassos em mi menor, mas coloque seu acento mais forte no **\"e\" do tempo 2** ou no **\"e\" do tempo 4**.\n\nDepois de cada tentativa, pergunte:\n- O acento realmente apareceu?\n- O resto da frase ficou relaxado?\n- Ainda deu para ouvir claramente o mi menor?\n\nFaça 5 repetições limpas.",
+          "es": "### Regla 1: acentúa lo inesperado\n\nToca una frase de 2 compases en mi menor, pero coloca tu acento más fuerte en el **\"y\" de 2** o en el **\"y\" de 4**.\n\nDespués de cada intento, pregúntate:\n- ¿El acento realmente destacó?\n- ¿El resto de la frase siguió relajado?\n- ¿Sigue oyéndose claramente mi menor?\n\nHaz 5 repeticiones limpias.",
+          "de": "### Regel 1: Betone das Unerwartete\n\nSpiele eine 2-taktige Phrase in E-Moll, aber setze deinen stärksten Akzent auf die **\"und\" von 2** oder die **\"und\" von 4**.\n\nFrage dich nach jedem Versuch:\n- Kam der Akzent wirklich heraus?\n- Blieb der Rest der Phrase locker?\n- War E-Moll trotzdem klar hörbar?\n\nMache 5 saubere Wiederholungen.",
+          "ja": "### ルール1：意外な場所を強調する\n\nEマイナーで2小節のフレーズを弾きます。ただし一番強いアクセントは **2拍目の裏** か **4拍目の裏** に置いてください。\n\n毎回あとで確認します。\n- アクセントは本当に目立ったか\n- それ以外の流れは力みすぎていないか\n- Eマイナー感はちゃんと残っているか\n\nこれを5回きれいに繰り返します。",
+          "zh-Hans": "### 规则1：重击意想不到的位置\n\n在 E 小调里弹一个 2 小节乐句，但把最强的重音放在 **第2拍的后半拍** 或 **第4拍的后半拍**。\n\n每次尝试后问自己：\n- 这个重音真的跳出来了吗？\n- 其余部分还保持放松吗？\n- E 小调的感觉还清楚吗？\n\n做 5 次干净的重复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Rule 2: Leave a trapdoor of silence\n\nNow every phrase must include **one rest of at least an eighth note**. Think of the rest as a dramatic trapdoor.\n\nTry this shape:\n1. Play 3 to 5 notes.\n2. Leave a rest.\n3. Answer with 2 to 4 notes.\n\nIf the second half sounds rushed, slow down and make the silence wider.",
+          "pt-BR": "### Regra 2: deixe um alçapão de silêncio\n\nAgora toda frase precisa incluir **uma pausa de pelo menos uma colcheia**. Pense nessa pausa como um alçapão dramático.\n\nExperimente este formato:\n1. Toque de 3 a 5 notas.\n2. Faça uma pausa.\n3. Responda com 2 a 4 notas.\n\nSe a segunda metade soar apressada, diminua o andamento e aumente o silêncio.",
+          "es": "### Regla 2: deja una trampilla de silencio\n\nAhora cada frase debe incluir **un silencio de al menos una corchea**. Piensa en ese silencio como una trampilla dramática.\n\nPrueba esta forma:\n1. Toca de 3 a 5 notas.\n2. Deja un silencio.\n3. Responde con 2 a 4 notas.\n\nSi la segunda mitad suena apurada, baja el tempo y agranda el silencio.",
+          "de": "### Regel 2: Lass eine Falltür aus Stille\n\nJetzt muss jede Phrase **eine Pause von mindestens einer Achtel** enthalten. Denke an diese Pause wie an eine dramatische Falltür.\n\nProbiere dieses Muster:\n1. Spiele 3 bis 5 Töne.\n2. Lass eine Pause.\n3. Antworte mit 2 bis 4 Tönen.\n\nWenn die zweite Hälfte gehetzt klingt, verlangsame das Tempo und vergrößere die Pause.",
+          "ja": "### ルール2：沈黙の落とし穴を置く\n\n次は、すべてのフレーズに **少なくとも8分音符1つ分の休符** を入れます。休符はドラマを作る落とし穴だと思ってください。\n\n形はこうです。\n1. 3〜5音弾く\n2. 休符を入れる\n3. 2〜4音で答える\n\n後半が慌ただしく聞こえるなら、テンポを落として休符を少し広げましょう。",
+          "zh-Hans": "### 规则2：留一个沉默陷门\n\n现在每个乐句都必须包含 **至少一个八分音符长度的休止**。把这个休止想成一个戏剧性的陷门。\n\n试试这个结构：\n1. 先弹 3 到 5 个音。\n2. 留一个休止。\n3. 再用 2 到 4 个音回应。\n\n如果后半句听起来太赶，就放慢速度，把休止留得更宽一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Rule 3: Escape with a direction change\n\nBuild a phrase that **starts ascending** and then suddenly **turns downward** before the bar ends.\n\nExtra challenge:\n- first note = E, G, or B\n- highest note cannot be the last note\n- final note must land softly, not like a crash landing\n\nThis teaches you to shape a line instead of just climbing the box.",
+          "pt-BR": "### Regra 3: escape com mudança de direção\n\nMonte uma frase que **começa subindo** e de repente **vira para baixo** antes do compasso terminar.\n\nDesafio extra:\n- primeira nota = E, G ou B\n- a nota mais aguda não pode ser a última\n- a nota final deve pousar suave, não como uma aterrissagem brusca\n\nIsso ensina você a desenhar a linha em vez de apenas subir pelo shape.",
+          "es": "### Regla 3: escapa con cambio de dirección\n\nConstruye una frase que **empiece subiendo** y luego **gire hacia abajo** antes de que termine el compás.\n\nDesafío extra:\n- primera nota = E, G o B\n- la nota más aguda no puede ser la última\n- la nota final debe aterrizar suave, no como un choque\n\nEsto te enseña a dar forma a la línea en vez de solo subir por el patrón.",
+          "de": "### Regel 3: Flucht mit Richtungswechsel\n\nBaue eine Phrase, die **aufwärts beginnt** und dann noch vor Taktende plötzlich **nach unten kippt**.\n\nExtra-Challenge:\n- erster Ton = E, G oder B\n- der höchste Ton darf nicht der letzte sein\n- der Schlusston soll weich landen, nicht abstürzen\n\nSo formst du eine Linie, statt nur durch ein Pattern zu klettern.",
+          "ja": "### ルール3：方向転換して逃げる\n\n**上行で始まり**、小節が終わる前に急に **下降へ向きを変える** フレーズを作ります。\n\n追加チャレンジ：\n- 最初の音は E、G、B のどれか\n- 一番高い音を最後にしない\n- 最後の音は激突ではなく、やわらかく着地する\n\nこれで、ただポジションをなぞるのではなく、ラインを形作る感覚が育ちます。",
+          "zh-Hans": "### 规则3：靠转向逃脱\n\n做一个 **先上行**、再在小节结束前突然 **转为下行** 的乐句。\n\n额外挑战：\n- 第一个音必须是 E、G 或 B\n- 最高音不能是最后一个音\n- 最后一个音要柔和落地，不要像撞上墙\n\n这会训练你去塑造线条，而不是只是在把位里往上爬。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Boss round\n\nCreate **three different 2-bar solos** using all three rules:\n- offbeat accent\n- one meaningful rest\n- one direction change\n\nBetween each solo, stop for one full bar and imagine you are answering a singer.\n\nRecord yourself if possible. If two solos sound too similar, throw one away and make a weirder one.",
+          "pt-BR": "### Rodada chefão\n\nCrie **três solos diferentes de 2 compassos** usando as três regras:\n- acento fora do tempo forte\n- uma pausa com sentido\n- uma mudança de direção\n\nEntre um solo e outro, pare por um compasso inteiro e imagine que você está respondendo a um cantor.\n\nSe puder, grave. Se dois solos soarem parecidos demais, jogue um fora e invente outro mais estranho.",
+          "es": "### Ronda jefe\n\nCrea **tres solos distintos de 2 compases** usando las tres reglas:\n- acento fuera del pulso fuerte\n- un silencio con intención\n- un cambio de dirección\n\nEntre cada solo, detente un compás completo e imagina que le respondes a un cantante.\n\nSi puedes, grábate. Si dos solos suenan demasiado parecidos, descarta uno y crea otro más raro.",
+          "de": "### Boss-Runde\n\nErfinde **drei verschiedene 2-taktige Soli** mit allen drei Regeln:\n- Offbeat-Akzent\n- eine bedeutungsvolle Pause\n- ein Richtungswechsel\n\nHalte zwischen den Soli einen ganzen Takt inne und stell dir vor, du antwortest einem Sänger.\n\nNimm dich wenn möglich auf. Wenn zwei Soli zu ähnlich klingen, wirf eins weg und baue ein seltsameres.",
+          "ja": "### ボスラウンド\n\n3つのルール全部を使って、**2小節ソロを3種類** 作りましょう。\n- 裏拍アクセント\n- 意味のある休符\n- 方向転換\n\n各ソロの間には1小節まるごと休み、「歌い手に返事している」と想像してください。\n\n可能なら録音しましょう。2つが似すぎたら、1つ捨ててもっと変なものを作ります。",
+          "zh-Hans": "### Boss 回合\n\n把三条规则都用上，做出 **三个不同的 2 小节独奏**：\n- 离拍重音\n- 有意义的休止\n- 一次方向变化\n\n每个独奏之间停一整小节，并想象你是在回应一位歌手。\n\n如果可以就录下来。要是两个独奏太像，扔掉一个，再做一个更怪、更有个性的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Debrief and upgrade\n\nAsk yourself:\n- Which accent felt coolest?\n- Did my rest create tension or just hesitation?\n- Where did I accidentally sound like an exercise?\n\nFinal upgrade: move the whole game to **A minor** without changing the rules. If it still feels musical, you passed the escape. 🎸",
+          "pt-BR": "### Debrief e upgrade\n\nPergunte a si mesmo:\n- Qual acento ficou mais legal?\n- Minha pausa criou tensão ou só hesitação?\n- Onde eu sem querer soei como exercício?\n\nUpgrade final: leve o mesmo jogo para **lá menor** sem mudar as regras. Se continuar musical, você escapou. 🎸",
+          "es": "### Cierre y mejora\n\nPregúntate:\n- ¿Qué acento sonó mejor?\n- ¿Mi silencio creó tensión o solo duda?\n- ¿Dónde soné sin querer como un ejercicio?\n\nMejora final: lleva el mismo juego a **la menor** sin cambiar las reglas. Si sigue sonando musical, escapaste. 🎸",
+          "de": "### Nachbesprechung und Upgrade\n\nFrage dich:\n- Welcher Akzent fühlte sich am coolsten an?\n- Erzeugte meine Pause Spannung oder nur Zögern?\n- Wo klang ich versehentlich wie eine Übung?\n\nLetztes Upgrade: Spiele dasselbe Spiel in **A-Moll**, ohne die Regeln zu ändern. Klingt es immer noch musikalisch, bist du entkommen. 🎸",
+          "ja": "### ふり返りとアップグレード\n\n自分に聞いてみましょう。\n- どのアクセントがいちばん気持ちよかったか\n- 休符は緊張感を作ったか、それとも迷いに聞こえたか\n- どこで練習っぽく聞こえてしまったか\n\n最後のアップグレード：ルールはそのままで **Aマイナー** に移します。それでも音楽的なら脱出成功です。🎸",
+          "zh-Hans": "### 复盘与升级\n\n问问自己：\n- 哪个重音最酷？\n- 我的休止制造了张力，还是只是犹豫？\n- 哪一段不小心听起来像练习题？\n\n最后升级：规则完全不变，移到 **A小调** 再玩一次。如果依然有音乐感，你就逃脱成功了。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-26T00:06:51Z",
+  "updatedAt": "2026-04-26T00:06:51Z"
+}

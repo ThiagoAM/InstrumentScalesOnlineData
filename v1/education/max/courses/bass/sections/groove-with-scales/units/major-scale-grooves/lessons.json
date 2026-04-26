@@ -810,5 +810,33 @@
     "order": 29,
     "createdAt": "2026-04-25T00:09:08Z",
     "updatedAt": "2026-04-25T00:09:08Z"
+  },
+  {
+    "id": "bass-pocket-detours",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Detours in G Major",
+        "pt-BR": "Desvios de Pocket em Sol Maior",
+        "es": "Desvíos de Pocket en Sol Mayor",
+        "de": "Pocket-Umwege in G-Dur",
+        "ja": "Gメジャーのポケット回り道",
+        "zh-Hans": "G大调 Pocket 绕行"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build groovy bass lines by taking short detours from the root and landing back in the pocket on purpose.",
+        "pt-BR": "Monte grooves de baixo fazendo pequenos desvios da tônica e voltando ao pocket com intenção.",
+        "es": "Construye grooves de bajo tomando pequeños desvíos desde la tónica y regresando al pocket con intención.",
+        "de": "Baue groovige Basslinien, indem du kurze Umwege vom Grundton nimmst und bewusst wieder im Pocket landest.",
+        "ja": "ルートから少し寄り道して、狙ってポケットへ戻るベースラインを作ろう。",
+        "zh-Hans": "先从根音出发绕个小弯，再有意识地落回 pocket，做出更会跳动的贝斯线。"
+      }
+    },
+    "order": 30,
+    "createdAt": "2026-04-26T00:06:51Z",
+    "updatedAt": "2026-04-26T00:06:51Z"
   }
 ]

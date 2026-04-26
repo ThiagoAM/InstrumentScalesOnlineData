@@ -614,5 +614,33 @@
     "order": 22,
     "createdAt": "2026-04-23T00:10:25Z",
     "updatedAt": "2026-04-23T00:10:25Z"
+  },
+  {
+    "id": "piano-scale-lane-switches",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Lane Switches",
+        "pt-BR": "Trocas de Faixa nas Escalas do Piano",
+        "es": "Cambios de Carril en Escalas de Piano",
+        "de": "Spurwechsel bei Klavierskalen",
+        "ja": "ピアノ音階レーンチェンジ",
+        "zh-Hans": "钢琴音阶变道练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Keep your scales smooth while switching touch, dynamics, and focus like changing lanes on a musical highway.",
+        "pt-BR": "Mantenha a escala fluindo enquanto troca toque, dinâmica e foco como quem muda de faixa numa estrada musical.",
+        "es": "Mantén tus escalas fluidas mientras cambias toque, dinámica y foco como si cambiaras de carril en una autopista musical.",
+        "de": "Halte deine Skalen flüssig, während du Anschlag, Dynamik und Fokus wie auf einer musikalischen Autobahn wechselst.",
+        "ja": "タッチ、ダイナミクス、集中点を切り替えながらも、音階をなめらかに保つ練習です。",
+        "zh-Hans": "像在音乐高速路上变道一样切换触键、力度和注意力，同时保持音阶平稳顺滑。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-04-26T00:06:52Z",
+    "updatedAt": "2026-04-26T00:06:52Z"
   }
 ]

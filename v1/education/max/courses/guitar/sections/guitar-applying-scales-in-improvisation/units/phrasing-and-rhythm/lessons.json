@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-04-17T00:05:32Z",
     "updatedAt": "2026-04-17T00:05:32Z"
+  },
+  {
+    "id": "guitar-accent-escape",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Accent Escape in E Minor",
+        "pt-BR": "Fuga de Acentos em Mi Menor",
+        "es": "Escape de Acentos en Mi Menor",
+        "de": "Akzentflucht in E-Moll",
+        "ja": "Eマイナーのアクセント脱出ゲーム",
+        "zh-Hans": "E小调重音逃脱"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Dodge predictable phrasing by escaping strong beats with sharp accents, rests, and quick replies.",
+        "pt-BR": "Fuja de frases previsíveis escapando dos tempos fortes com acentos, pausas e respostas rápidas.",
+        "es": "Escapa de frases predecibles usando acentos, silencios y respuestas rápidas fuera del pulso fuerte.",
+        "de": "Entkomme vorhersehbaren Phrasen mit Offbeat-Akzenten, Pausen und schnellen Antwortlinien.",
+        "ja": "強拍を外したアクセント、休符、短い返答で、ありがちなフレーズから抜け出そう。",
+        "zh-Hans": "用离拍重音、休止和快速回应，逃离一听就知道的老套音阶乐句。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-04-26T00:06:51Z",
+    "updatedAt": "2026-04-26T00:06:51Z"
   }
 ]
