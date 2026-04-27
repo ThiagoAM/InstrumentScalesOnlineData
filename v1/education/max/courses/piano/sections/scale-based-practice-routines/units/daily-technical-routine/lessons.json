@@ -642,5 +642,33 @@
     "order": 23,
     "createdAt": "2026-04-26T00:06:52Z",
     "updatedAt": "2026-04-26T00:06:52Z"
+  },
+  {
+    "id": "piano-scale-shadow-play",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Shadow Play",
+        "pt-BR": "Teatro de Sombras com Escalas",
+        "es": "Juego de Sombras con Escalas",
+        "de": "Schatten-Spiel mit Tonleitern",
+        "ja": "スケール・シャドウプレイ",
+        "zh-Hans": "音阶影子戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make piano scales more musical by letting one hand lead and the other shadow with delayed control, tone, and timing.",
+        "pt-BR": "Deixe as escalas no piano mais musicais fazendo uma mão liderar e a outra seguir como sombra com controle, timbre e tempo.",
+        "es": "Haz más musicales tus escalas de piano dejando que una mano lidere y la otra la siga como sombra con control, sonido y pulso.",
+        "de": "Mach deine Klavierskalen musikalischer, indem eine Hand führt und die andere mit Verzögerung, Klang und Timing als Schatten folgt.",
+        "ja": "片手がリードし、もう片手が少し遅れて影のように追うことで、ピアノスケールをもっと音楽的にしよう。",
+        "zh-Hans": "让一只手领奏，另一只手稍微延后像影子一样跟随，把钢琴音阶练得更有音乐性。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-04-27T00:10:25Z",
+    "updatedAt": "2026-04-27T00:10:25Z"
   }
 ]

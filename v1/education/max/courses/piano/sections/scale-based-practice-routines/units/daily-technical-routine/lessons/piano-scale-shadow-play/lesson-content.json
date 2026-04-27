@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-shadow-play",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns scale practice into a stage scene. Choose **C major / A minor** or **D major / B minor** and set **72-88 BPM**. One hand is the actor, the other is the shadow. The shadow must stay close enough to match, but different enough to teach control.",
+          "pt-BR": "Esta lição transforma o estudo de escalas em uma cena de palco. Escolha **Dó maior / Lá menor** ou **Ré maior / Si menor** e ajuste para **72-88 BPM**. Uma mão é a atriz; a outra é a sombra. A sombra precisa ficar perto o bastante para combinar, mas diferente o bastante para ensinar controle.",
+          "es": "Esta lección convierte el estudio de escalas en una escena de teatro. Elige **Do mayor / La menor** o **Re mayor / Si menor** y ajusta a **72-88 BPM**. Una mano es el actor y la otra es la sombra. La sombra debe estar lo bastante cerca para coincidir, pero lo bastante distinta para enseñar control.",
+          "de": "Diese Lektion macht aus Skalenüben eine Bühnenszene. Wähle **C-Dur / A-Moll** oder **D-Dur / H-Moll** und stelle **72-88 BPM** ein. Eine Hand ist die Hauptfigur, die andere ihr Schatten. Der Schatten muss nah genug bleiben, um zu passen, aber verschieden genug sein, um Kontrolle zu schulen.",
+          "ja": "このレッスンではスケール練習を舞台の一場面に変えます。**Cメジャー / Aマイナー** か **Dメジャー / Bマイナー** を選び、テンポを **72-88 BPM** に設定します。片手が主役、もう片手が影です。影は十分近くにいながら、コントロールを学べるくらいには違っていなければなりません。",
+          "zh-Hans": "这节课把音阶练习变成一个舞台场景。选择 **C大调 / A小调** 或 **D大调 / B小调**，速度设在 **72-88 BPM**。一只手是演员，另一只手是影子。影子要足够接近去配合，也要足够不同来训练控制力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with the **actor round**. Play one octave up and down with the right hand alone, then the left hand alone. Listen for three things:\n- even tone\n- relaxed thumb crossings\n- a clear shape at the top and bottom\n\nIf one hand sounds blurrier, that hand needs to act less and listen more.",
+          "pt-BR": "Comece com a **rodada da atriz**. Toque uma oitava subindo e descendo com a mão direita sozinha, depois com a esquerda sozinha. Escute três coisas:\n- timbre uniforme\n- passagens de polegar relaxadas\n- uma forma clara no topo e na base\n\nSe uma mão soar mais borrada, ela precisa atuar menos e ouvir mais.",
+          "es": "Empieza con la **ronda del actor**. Toca una octava hacia arriba y hacia abajo con la mano derecha sola y luego con la izquierda sola. Escucha tres cosas:\n- sonido parejo\n- cruces de pulgar relajados\n- una forma clara arriba y abajo\n\nSi una mano suena más borrosa, esa mano necesita actuar menos y escuchar más.",
+          "de": "Beginne mit der **Hauptfiguren-Runde**. Spiele mit der rechten Hand allein eine Oktave auf und ab, dann mit der linken Hand allein. Achte auf drei Dinge:\n- gleichmäßigen Ton\n- entspannte Daumenuntersätze\n- eine klare Form oben und unten\n\nWenn eine Hand unschärfer klingt, sollte sie weniger spielen und mehr zuhören.",
+          "ja": "まずは **主役ラウンド**。右手だけで1オクターブ上下し、そのあと左手だけで1オクターブ上下します。次の3つを聴きましょう。\n- 音色の均一さ\n- 力まない親指くぐり\n- 頂点と終点の形の明確さ\n\nどちらかの手がぼやけて聞こえるなら、その手は弾きすぎず、もっと聴く必要があります。",
+          "zh-Hans": "先做 **演员回合**。右手单独上下弹一组一八度音阶，再换左手单独弹。注意三件事：\n- 音色是否均匀\n- 穿指是否放松\n- 顶点和终点是否有清晰形状\n\n如果某只手听起来更糊，那只手就该少表演，多聆听。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now play both hands, but the shadow hand enters **one eighth note later**. Keep the same fingering and the same dynamic in both hands.\n\nThis tiny delay should feel awkward at first. That is good. You are teaching both hands to stay organized without hiding inside perfect unison.",
+          "pt-BR": "Agora toque com as duas mãos, mas a mão-sombra entra **uma colcheia depois**. Mantenha o mesmo dedilhado e a mesma dinâmica nas duas mãos.\n\nEsse pequeno atraso deve parecer estranho no começo. Ótimo. Você está ensinando as duas mãos a se organizar sem se esconder no uníssono perfeito.",
+          "es": "Ahora toca con ambas manos, pero la mano sombra entra **una corchea más tarde**. Mantén la misma digitación y la misma dinámica en ambas manos.\n\nEse pequeño retraso debe sentirse raro al principio. Eso es bueno. Estás enseñando a las dos manos a organizarse sin esconderse dentro del unísono perfecto.",
+          "de": "Spiele jetzt mit beiden Händen, aber die Schattenhand setzt **eine Achtelnote später** ein. Behalte denselben Fingersatz und dieselbe Dynamik in beiden Händen.\n\nDiese kleine Verzögerung soll sich anfangs seltsam anfühlen. Das ist gut. Du trainierst beide Hände, organisiert zu bleiben, ohne sich im perfekten Unisono zu verstecken.",
+          "ja": "次は両手で弾きますが、影の手は **8分音符1つ分遅れて** 入ります。指使いもダイナミクスも両手で同じに保ってください。\n\nこの小さな遅れは最初かなり気持ち悪いはずです。それで正解。完璧なユニゾンに隠れず、両手が自力で整理されるよう鍛えているからです。",
+          "zh-Hans": "接着两只手一起弹，但影子手要 **晚一个八分音符进入**。两只手保持相同指法和相同力度。\n\n这个小延迟一开始应该会让你觉得别扭。很好。你正在训练双手不靠完美齐奏也能保持秩序。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next comes the **light-and-dark round**. The leading hand plays **mezzo-forte**, while the shadow hand plays **piano**. After three clean reps, swap the roles.\n\nIf the soft hand gets sloppy or the loud hand gets harsh, lower the tempo and keep the contrast musical.",
+          "pt-BR": "Agora vem a **rodada claro-escuro**. A mão que lidera toca em **mezzo-forte**, enquanto a sombra toca em **piano**. Depois de três repetições limpas, troque os papéis.\n\nSe a mão suave ficar descuidada ou a mão forte ficar áspera, reduza o andamento e preserve o contraste musical.",
+          "es": "Ahora llega la **ronda de luz y sombra**. La mano líder toca en **mezzo-forte** y la sombra en **piano**. Después de tres repeticiones limpias, cambia los papeles.\n\nSi la mano suave se descuida o la mano fuerte se vuelve áspera, baja el tempo y conserva el contraste musical.",
+          "de": "Jetzt kommt die **Hell-Dunkel-Runde**. Die führende Hand spielt **mezzo-forte**, die Schattenhand **piano**. Nach drei sauberen Durchgängen tauscht ihr die Rollen.\n\nWenn die leise Hand schlampig wird oder die laute zu hart klingt, nimm Tempo raus und halte den Kontrast musikalisch.",
+          "ja": "次は **光と影ラウンド**。リードする手は **mezzo-forte**、影の手は **piano** で弾きます。3回きれいにできたら役割を入れ替えます。\n\n弱い手が雑になったり、強い手がきつくなったりしたら、テンポを落として対比を音楽的に保ちましょう。",
+          "zh-Hans": "接下来是 **明暗回合**。领奏手弹 **mezzo-forte**，影子手弹 **piano**。干净完成三次后交换角色。\n\n如果弱音手开始松散，或者强音手开始变硬，就把速度降下来，让对比保持音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: build a **4-pass routine**:\n1. right hand leads\n2. left hand leads\n3. right hand loud / left hand soft\n4. left hand loud / right hand soft\n\nDo the whole routine without stopping. Your goal is not speed. Your goal is clear hierarchy with steady rhythm.",
+          "pt-BR": "Chefão: monte uma **rotina de 4 passagens**:\n1. mão direita lidera\n2. mão esquerda lidera\n3. direita forte / esquerda suave\n4. esquerda forte / direita suave\n\nFaça a rotina inteira sem parar. A meta não é velocidade. A meta é hierarquia clara com ritmo estável.",
+          "es": "Ronda final: construye una **rutina de 4 pasadas**:\n1. lidera la mano derecha\n2. lidera la mano izquierda\n3. derecha fuerte / izquierda suave\n4. izquierda fuerte / derecha suave\n\nHaz toda la rutina sin parar. La meta no es la velocidad. La meta es una jerarquía clara con ritmo estable.",
+          "de": "Bossrunde: baue eine **4-Durchgangs-Routine**:\n1. rechte Hand führt\n2. linke Hand führt\n3. rechts laut / links leise\n4. links laut / rechts leise\n\nSpiele die ganze Routine ohne anzuhalten. Es geht nicht um Tempo. Es geht um klare Hierarchie bei stabilem Rhythmus.",
+          "ja": "ボスラウンド: **4パスのルーティン** を作ります。\n1. 右手がリード\n2. 左手がリード\n3. 右手強く / 左手やわらかく\n4. 左手強く / 右手やわらかく\n\n途中で止まらず全部やってください。目標は速さではありません。安定したリズムの中で、はっきりした主従関係を作ることです。",
+          "zh-Hans": "Boss 回合：建立一个 **4遍例行练习**：\n1. 右手领奏\n2. 左手领奏\n3. 右手强 / 左手弱\n4. 左手强 / 右手弱\n\n整套不停下来做完。目标不是速度，而是在稳定节奏里建立清晰的主次关系。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Ask yourself:\n- Which hand loses shape when it becomes the shadow?\n- Did the delayed entry improve my listening?\n- Could I keep both hands expressive without rushing?\n\nFinal upgrade: move the whole shadow play to **G major / E minor**. If both hands still sound connected, your scales just became music. 🎹",
+          "pt-BR": "Pergunte a si mesmo:\n- Qual mão perde forma quando vira sombra?\n- A entrada atrasada melhorou minha escuta?\n- Consegui manter as duas mãos expressivas sem correr?\n\nUpgrade final: leve todo o teatro de sombras para **Sol maior / Mi menor**. Se as duas mãos continuarem conectadas, sua escala virou música. 🎹",
+          "es": "Pregúntate:\n- ¿Qué mano pierde forma cuando se vuelve sombra?\n- ¿La entrada retrasada mejoró mi escucha?\n- ¿Pude mantener ambas manos expresivas sin acelerar?\n\nMejora final: mueve todo el juego de sombras a **Sol mayor / Mi menor**. Si ambas manos siguen conectadas, tus escalas ya suenan a música. 🎹",
+          "de": "Frag dich:\n- Welche Hand verliert Form, wenn sie zum Schatten wird?\n- Hat der verzögerte Einsatz mein Hören verbessert?\n- Konnte ich beide Hände ausdrucksvoll halten, ohne zu hetzen?\n\nLetztes Upgrade: verlege das ganze Schattenspiel nach **G-Dur / E-Moll**. Wenn beide Hände weiter verbunden klingen, sind deine Skalen zu Musik geworden. 🎹",
+          "ja": "自分に聞いてみましょう。\n- 影になると形を失うのはどちらの手？\n- 遅れて入ることで聴く力は上がった？\n- 急がずに両手を表情豊かに保てた？\n\n最後の強化: このシャドウプレイ全体を **Gメジャー / Eマイナー** に移してください。両手のつながりが保てたら、あなたのスケールはもう音楽です。 🎹",
+          "zh-Hans": "问问自己：\n- 哪只手一变成影子就失去线条？\n- 延后进入有没有提升我的聆听？\n- 我能不能在不抢拍的情况下让双手都保持表达？\n\n最终升级：把整套影子戏搬到 **G大调 / E小调**。如果双手依然紧密相连，你的音阶就真的开始像音乐了。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-27T00:10:25Z",
+  "updatedAt": "2026-04-27T00:10:25Z"
+}

@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-04-26T00:06:51Z",
     "updatedAt": "2026-04-26T00:06:51Z"
+  },
+  {
+    "id": "guitar-pivot-point-heist",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pivot-Point Heist in A Dorian",
+        "pt-BR": "Assalto ao Ponto de Apoio em Lá Dórico",
+        "es": "Golpe al Punto de Giro en La Dórico",
+        "de": "Drehpunkt-Raubzug in A-Dorisch",
+        "ja": "Aドリアンのピボットポイント強奪",
+        "zh-Hans": "A多利亚支点音劫案"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Steal more melodic solos by sneaking away from a target note and returning with rhythm, tension, and control.",
+        "pt-BR": "Roube solos mais melódicos saindo de uma nota-alvo e voltando com ritmo, tensão e controle.",
+        "es": "Roba solos más melódicos saliendo de una nota objetivo y regresando con ritmo, tensión y control.",
+        "de": "Hol dir melodischere Soli, indem du einen Zielton verlässt und mit Rhythmus, Spannung und Kontrolle zurückkehrst.",
+        "ja": "目標音から離れて戻る動きを使い、リズムと緊張感とコントロールのあるメロディックなソロを作ろう。",
+        "zh-Hans": "围绕目标音离开再返回，用节奏、张力和控制做出更有旋律感的独奏。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-04-27T00:07:27Z",
+    "updatedAt": "2026-04-27T00:07:27Z"
   }
 ]

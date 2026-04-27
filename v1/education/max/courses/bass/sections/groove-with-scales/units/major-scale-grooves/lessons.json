@@ -838,5 +838,33 @@
     "order": 30,
     "createdAt": "2026-04-26T00:06:51Z",
     "updatedAt": "2026-04-26T00:06:51Z"
+  },
+  {
+    "id": "bass-pocket-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Slingshot in D Minor",
+        "pt-BR": "Estilingue de Pocket em Ré Menor",
+        "es": "Tirachinas de Pocket en Re Menor",
+        "de": "Pocket-Schleuder in D-Moll",
+        "ja": "Dマイナーのポケット・スリングショット",
+        "zh-Hans": "D小调 Pocket 弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch tight bass grooves by pulling away from the root, storing tension, and snapping back into the pocket.",
+        "pt-BR": "Dispare grooves firmes de baixo afastando-se da tônica, guardando tensão e voltando com tudo para o pocket.",
+        "es": "Lanza grooves de bajo ajustados alejándote de la tónica, guardando tensión y regresando al pocket con fuerza.",
+        "de": "Starte enge Bassgrooves, indem du dich vom Grundton wegziehst, Spannung speicherst und zurück ins Pocket schnippst.",
+        "ja": "ルートから離れて張力をため、ポケットへ鋭く戻ることで、タイトなベースグルーヴを作ろう。",
+        "zh-Hans": "先从根音拉开距离积累张力，再猛地弹回 pocket，做出更扎实的贝斯律动。"
+      }
+    },
+    "order": 31,
+    "createdAt": "2026-04-27T00:09:02Z",
+    "updatedAt": "2026-04-27T00:09:02Z"
   }
 ]
