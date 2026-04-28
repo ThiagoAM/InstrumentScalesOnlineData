@@ -1,0 +1,86 @@
+{
+  "id": "contrary-motion-focus-ladder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two hands, opposite directions\nIn this lesson both hands play the same scale, but they travel **away from each other and back again**. That is contrary motion — and it quickly reveals whether your hands are balanced or just pretending.\n\nThe goal is not speed yet. The goal is control, symmetry, and calm attention.",
+          "pt-BR": "# Duas mãos, direções opostas\nNesta lição as duas mãos tocam a mesma escala, mas viajam **para longe uma da outra e depois voltam**. Isso é movimento contrário — e ele revela rápido se as mãos estão equilibradas ou só fingindo.\n\nO objetivo ainda não é velocidade. O objetivo é controle, simetria e atenção calma.",
+          "es": "# Dos manos, direcciones opuestas\nEn esta lección ambas manos tocan la misma escala, pero se mueven **alejándose una de otra y luego regresan**. Eso es movimiento contrario, y revela enseguida si tus manos están equilibradas o solo aparentándolo.\n\nEl objetivo todavía no es la velocidad. El objetivo es control, simetría y atención tranquila.",
+          "de": "# Zwei Hände, entgegengesetzte Richtungen\nIn dieser Lektion spielen beide Hände dieselbe Tonleiter, bewegen sich aber **voneinander weg und wieder zurück**. Das ist Gegenbewegung — und sie zeigt schnell, ob deine Hände wirklich ausgeglichen sind.\n\nEs geht noch nicht um Tempo. Es geht um Kontrolle, Symmetrie und ruhige Aufmerksamkeit.",
+          "ja": "# 2つの手を逆方向へ\nこのレッスンでは両手が同じスケールを弾きますが、**互いに離れていき、また戻ってきます**。これが反行で、手が本当にバランスしているかをすぐに暴いてくれます。\n\nまだ速さは目標ではありません。目標はコントロール、対称性、そして落ち着いた集中です。",
+          "zh-Hans": "# 两只手，向相反方向走\n这节课里，两只手弹的是同一个音阶，但会**彼此远离，再回来**。这就是反向进行，它会很快暴露：你的双手是真的平衡，还是只是看起来平衡。\n\n现在的目标不是速度，而是控制、对称和冷静的专注。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Set up the ladder\nChoose a major scale you know well. Start from the same note in both hands and move outward one octave, then return.\n\nBefore you begin:\n- check that both thumbs feel relaxed\n- decide your fingering in advance\n- hear the sound of the scale before the first note\n\nIf your setup is sloppy, the motion will expose it immediately.",
+          "pt-BR": "# Monte a escada\nEscolha uma escala maior que você conhece bem. Comece da mesma nota nas duas mãos, abra uma oitava para fora e depois volte.\n\nAntes de começar:\n- confira se os polegares estão relaxados\n- decida a digitação com antecedência\n- ouça o som da escala antes da primeira nota\n\nSe a preparação estiver descuidada, o movimento vai denunciar na hora.",
+          "es": "# Monta la escalera\nElige una escala mayor que ya conozcas bien. Empieza desde la misma nota con ambas manos, ábrete una octava hacia fuera y vuelve.\n\nAntes de empezar:\n- comprueba que ambos pulgares estén relajados\n- decide la digitación de antemano\n- escucha la escala antes de la primera nota\n\nSi la preparación es descuidada, el movimiento lo mostrará al instante.",
+          "de": "# Baue die Leiter auf\nWähle eine Durtonleiter, die du gut kennst. Starte mit beiden Händen auf demselben Ton, gehe eine Oktave nach außen und komme dann zurück.\n\nBevor du beginnst:\n- prüfe, ob beide Daumen entspannt sind\n- lege den Fingersatz vorher fest\n- höre den Klang der Tonleiter vor dem ersten Ton\n\nIst der Aufbau schlampig, deckt die Bewegung es sofort auf.",
+          "ja": "# ラダーを組み立てる\nよく知っているメジャースケールを1つ選びましょう。両手とも同じ音から始め、外側へ1オクターブ広がって、そこから戻ります。\n\n始める前に：\n- 両方の親指が力んでいないか確認する\n- 運指を先に決めておく\n- 最初の音の前にスケールの響きを頭で鳴らす\n\n準備が雑だと、反行はすぐにそれを見せてきます。",
+          "zh-Hans": "# 先把阶梯搭好\n选一个你已经很熟悉的大调音阶。双手从同一个音开始，向外各走一组八度，再回到起点。\n\n开始前：\n- 确认两个拇指都很放松\n- 先决定好指法\n- 在弹第一个音之前，先在脑中听见这个音阶\n\n准备一乱，反向进行马上就会揭穿。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Listen for balance\nContrary motion is a listening exercise as much as a finger exercise. The two hands should sound like a **matched pair**, not a leader and a follower.\n\nPay attention to:\n- one hand playing louder than the other\n- uneven note length\n- extra tension at the thumb crossings\n\nWhen the sound evens out, the hands start to trust each other.",
+          "pt-BR": "# Ouça o equilíbrio\nMovimento contrário é tanto um exercício de escuta quanto de dedos. As duas mãos devem soar como um **par combinado**, não como líder e seguidora.\n\nPreste atenção em:\n- uma mão saindo mais alta que a outra\n- duração desigual das notas\n- tensão extra nas passagens de polegar\n\nQuando o som se equilibra, as mãos começam a confiar uma na outra.",
+          "es": "# Escucha el equilibrio\nEl movimiento contrario es tanto un ejercicio de escucha como de dedos. Las dos manos deben sonar como una **pareja emparejada**, no como líder y seguidora.\n\nFíjate en:\n- una mano más fuerte que la otra\n- duración desigual de las notas\n- tensión extra en los cruces del pulgar\n\nCuando el sonido se equilibra, las manos empiezan a confiar una en la otra.",
+          "de": "# Höre auf die Balance\nGegenbewegung ist genauso ein Hörtraining wie ein Fingertraining. Beide Hände sollten wie ein **passendes Paar** klingen, nicht wie Führung und Begleitung.\n\nAchte auf:\n- eine Hand ist lauter als die andere\n- ungleiche Notenlängen\n- zusätzliche Spannung bei Daumenuntersätzen\n\nWenn der Klang ausgeglichener wird, vertrauen sich die Hände mehr.",
+          "ja": "# バランスを聴く\n反行は指の練習であると同時に、耳の練習でもあります。両手は**そろった1組**として聞こえるべきで、片方が主役でも子分でもありません。\n\n注目ポイント：\n- 片手だけ大きくなっていないか\n- 音の長さがそろっているか\n- 親指のくぐりで余計な緊張が出ていないか\n\n音がそろってくると、手同士の信頼感も出てきます。",
+          "zh-Hans": "# 听平衡\n反向进行既是手指练习，也是听觉练习。两只手应该像**配对的一组**，而不是一个带着另一个走。\n\n注意：\n- 有没有一只手明显更大声\n- 音长是否不均匀\n- 拇指穿越时是否多出紧张\n\n当声音开始均衡，双手也会开始彼此信任。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add the focus ladder\nNow climb through four versions of the same scale:\n1. legato\n2. staccato\n3. crescendo going out, decrescendo coming back\n4. eyes closed for the middle four notes only\n\nEach version trains a different layer of control. Do not rush to the next one until the current one feels clean.",
+          "pt-BR": "# Adicione a escada de foco\nAgora suba por quatro versões da mesma escala:\n1. legato\n2. staccato\n3. crescendo na ida e decrescendo na volta\n4. olhos fechados apenas nas quatro notas do meio\n\nCada versão treina uma camada diferente de controle. Não corra para a próxima antes da atual soar limpa.",
+          "es": "# Añade la escalera de enfoque\nAhora sube por cuatro versiones de la misma escala:\n1. legato\n2. staccato\n3. crescendo al abrirse y decrescendo al volver\n4. ojos cerrados solo en las cuatro notas centrales\n\nCada versión entrena una capa distinta de control. No pases a la siguiente hasta que la actual suene limpia.",
+          "de": "# Die Fokusleiter hinzufügen\nSpiele nun vier Varianten derselben Tonleiter:\n1. legato\n2. staccato\n3. crescendo nach außen, decrescendo zurück\n4. nur bei den mittleren vier Tönen die Augen schließen\n\nJede Variante trainiert eine andere Ebene der Kontrolle. Wechsle erst weiter, wenn die aktuelle sauber sitzt.",
+          "ja": "# フォーカス・ラダーを追加する\n同じスケールを次の4つの形で弾いてみましょう。\n1. レガート\n2. スタッカート\n3. 外へ行くときにクレッシェンド、戻るときにデクレッシェンド\n4. 真ん中の4音だけ目を閉じる\n\nそれぞれ違うコントロールの層を鍛えます。今の形がきれいになる前に次へ急がないこと。",
+          "zh-Hans": "# 加上“专注阶梯”\n现在把同一个音阶做成四种版本：\n1. 连奏\n2. 断奏\n3. 向外时渐强，回来时渐弱\n4. 中间四个音闭眼弹\n\n每一种都在训练不同层次的控制。当前版本没干净之前，不要急着进入下一个。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nMove the routine through **three keys**: one easy, one medium, one annoying. Yes, the annoying key matters.\n\nChallenge rules:\n- keep the same pulse in every key\n- stop only if fingering truly collapses\n- after each run, name one thing that improved and one thing that wobbled\n\nThat short self-review turns repetition into real practice.",
+          "pt-BR": "# Rodada de desafio\nLeve a rotina por **três tonalidades**: uma fácil, uma média e uma irritante. Sim, a irritante importa.\n\nRegras:\n- mantenha o mesmo pulso em todas\n- pare só se a digitação realmente desmontar\n- depois de cada rodada, diga uma coisa que melhorou e uma que balançou\n\nEssa revisão curta transforma repetição em prática de verdade.",
+          "es": "# Ronda de desafío\nMueve la rutina por **tres tonalidades**: una fácil, una media y una fastidiosa. Sí, la fastidiosa cuenta.\n\nReglas:\n- mantén el mismo pulso en todas\n- detente solo si la digitación realmente se derrumba\n- después de cada vuelta, nombra una cosa que mejoró y una que tambaleó\n\nEsa mini revisión convierte la repetición en práctica real.",
+          "de": "# Herausforderungsrunde\nBewege die Routine durch **drei Tonarten**: eine leichte, eine mittlere und eine lästige. Ja, gerade die lästige zählt.\n\nRegeln:\n- halte in jeder Tonart denselben Puls\n- stoppe nur, wenn der Fingersatz wirklich zusammenfällt\n- nenne nach jedem Durchgang eine Verbesserung und eine wacklige Stelle\n\nDiese kurze Rückmeldung macht aus Wiederholung echte Übung.",
+          "ja": "# チャレンジラウンド\nこのルーティンを **3つの調** に移しましょう。1つは簡単、1つは中くらい、1つはちょっと嫌な調です。ええ、その嫌な調こそ大事です。\n\nルール：\n- どの調でも同じ脈を保つ\n- 運指が本当に崩れたときだけ止まる\n- 毎回のあとに、良くなった点と揺れた点を1つずつ言う\n\nこの短い振り返りが、反復を本物の練習に変えます。",
+          "zh-Hans": "# 挑战回合\n把这套流程移到**三个调**里：一个简单，一个中等，一个让你烦的。对，那个烦人的调很重要。\n\n规则：\n- 每个调都保持同样的脉冲\n- 只有在指法真的垮掉时才停\n- 每次弹完，说出一个进步点和一个摇晃点\n\n这句小复盘，会把重复变成真正的练习。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Musical application\nContrary motion helps more than technique. It strengthens your map of the keyboard and makes scales feel like shapes you can hear from the inside. Next time you improvise or voice a chord, notice whether both hands feel more coordinated. If they do, this routine is doing its job.",
+          "pt-BR": "# Aplicação musical\nMovimento contrário ajuda em mais do que técnica. Ele fortalece o mapa do teclado e faz as escalas parecerem desenhos que você escuta por dentro. Na próxima improvisação ou abertura de acordes, repare se as mãos estão mais coordenadas. Se estiverem, a rotina está funcionando.",
+          "es": "# Aplicación musical\nEl movimiento contrario ayuda en más cosas que la técnica. Refuerza tu mapa del teclado y hace que las escalas se sientan como formas que puedes oír desde dentro. La próxima vez que improvises o abras un acorde, nota si ambas manos se sienten más coordinadas. Si es así, esta rutina está haciendo su trabajo.",
+          "de": "# Musikalische Anwendung\nGegenbewegung hilft bei mehr als Technik. Sie stärkt deine Karte der Tastatur und lässt Tonleitern wie Formen wirken, die du von innen hören kannst. Achte beim nächsten Improvisieren oder Akkordspiel darauf, ob sich beide Hände koordinierter anfühlen. Wenn ja, erfüllt diese Routine ihren Zweck.",
+          "ja": "# 音楽への応用\n反行はテクニック以上の助けになります。鍵盤の地図を強くし、スケールを“内側から聞ける形”に変えてくれます。次に即興したり和音を広げたりするとき、両手の連携が良くなっているか確かめてみてください。そうなら、このルーティンはちゃんと働いています。",
+          "zh-Hans": "# 音乐应用\n反向进行帮助的不只是技巧。它会强化你对键盘的地图感，让音阶变成你能从内部听见的形状。下次你即兴或展开和弦时，留意双手是否更协调了。如果是，这套练习就在发挥作用。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-28T00:07:10Z",
+  "updatedAt": "2026-04-28T00:07:10Z"
+}

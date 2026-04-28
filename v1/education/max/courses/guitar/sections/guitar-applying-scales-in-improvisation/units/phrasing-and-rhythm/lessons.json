@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-04-27T00:07:27Z",
     "updatedAt": "2026-04-27T00:07:27Z"
+  },
+  {
+    "id": "call-and-response-scale-phrasing",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Scale Phrasing",
+        "pt-BR": "Fraseado de Escala em Pergunta e Resposta",
+        "es": "Fraseo de Escala con Pregunta y Respuesta",
+        "de": "Skalenphrasierung als Frage und Antwort",
+        "ja": "コール＆レスポンスで作るスケールフレージング",
+        "zh-Hans": "问答式音阶乐句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale fragments into musical conversations with rhythm, space, and repetition.",
+        "pt-BR": "Transforme fragmentos de escala em conversas musicais com ritmo, espaço e repetição.",
+        "es": "Convierte fragmentos de escala en conversaciones musicales con ritmo, espacio y repetición.",
+        "de": "Verwandle Skalenfragmente mit Rhythmus, Raum und Wiederholung in musikalische Gespräche.",
+        "ja": "リズム、間、反復を使ってスケール断片を音楽的な会話に変えるレッスンです。",
+        "zh-Hans": "用节奏、留白和重复，把音阶片段变成真正会“对话”的乐句。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-04-28T00:07:09Z",
+    "updatedAt": "2026-04-28T00:07:09Z"
   }
 ]

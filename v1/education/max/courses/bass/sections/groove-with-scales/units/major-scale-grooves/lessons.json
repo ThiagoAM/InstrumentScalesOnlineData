@@ -866,5 +866,33 @@
     "order": 31,
     "createdAt": "2026-04-27T00:09:02Z",
     "updatedAt": "2026-04-27T00:09:02Z"
+  },
+  {
+    "id": "syncopated-major-scale-engine",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Major Scale Engine",
+        "pt-BR": "Motor Sincopado da Escala Maior",
+        "es": "Motor Sincopado de Escala Mayor",
+        "de": "Synkopierter Durtonleiter-Motor",
+        "ja": "シンコペーションで鍛えるメジャースケール・エンジン",
+        "zh-Hans": "切分节奏大音阶引擎"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove by pushing major-scale notes against the beat without losing time.",
+        "pt-BR": "Treine o groove colocando notas da escala maior contra a batida sem perder o tempo.",
+        "es": "Entrena tu groove colocando notas de la escala mayor contra el pulso sin perder el tiempo.",
+        "de": "Trainiere deinen Groove, indem du Durtonleiter-Töne gegen den Beat setzt, ohne das Timing zu verlieren.",
+        "ja": "拍を失わずにメジャースケールの音をビートに食い込ませ、グルーヴを鍛えるレッスンです。",
+        "zh-Hans": "在不丢拍的前提下，把大音阶音符推向拍子的空隙里，真正练出律动。"
+      }
+    },
+    "order": 32,
+    "createdAt": "2026-04-28T00:07:09Z",
+    "updatedAt": "2026-04-28T00:07:09Z"
   }
 ]

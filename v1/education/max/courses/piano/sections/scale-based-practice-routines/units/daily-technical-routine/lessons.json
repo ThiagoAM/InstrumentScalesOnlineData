@@ -670,5 +670,33 @@
     "order": 24,
     "createdAt": "2026-04-27T00:10:25Z",
     "updatedAt": "2026-04-27T00:10:25Z"
+  },
+  {
+    "id": "contrary-motion-focus-ladder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Contrary Motion Focus Ladder",
+        "pt-BR": "Escada de Foco em Movimento Contrário",
+        "es": "Escalera de Enfoque en Movimiento Contrario",
+        "de": "Fokusleiter in Gegenbewegung",
+        "ja": "反行で鍛えるフォーカス・ラダー",
+        "zh-Hans": "反向进行专注阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use contrary motion to sharpen balance, hearing, and keyboard awareness in a focused routine.",
+        "pt-BR": "Use o movimento contrário para afiar equilíbrio, audição e noção do teclado em uma rotina focada.",
+        "es": "Usa el movimiento contrario para afinar equilibrio, oído y mapa del teclado en una rutina enfocada.",
+        "de": "Nutze Gegenbewegung, um Balance, Gehör und Tastaturorientierung in einer fokussierten Routine zu schärfen.",
+        "ja": "反行を使って、バランス、耳、鍵盤感覚を集中したルーティンの中で磨くレッスンです。",
+        "zh-Hans": "用反向进行练习，在一套专注流程里同时提升平衡、听觉和键盘地图感。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-04-28T00:07:10Z",
+    "updatedAt": "2026-04-28T00:07:10Z"
   }
 ]
