@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-04-25T00:06:47Z",
     "updatedAt": "2026-04-25T00:06:47Z"
+  },
+  {
+    "id": "guitar-solo-roulette-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Roulette Lab",
+        "pt-BR": "Laboratório da Roleta do Solo",
+        "es": "Laboratorio de la Ruleta del Solo",
+        "de": "Solo-Roulette-Labor",
+        "ja": "ソロ・ルーレット・ラボ",
+        "zh-Hans": "独奏轮盘实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar improvisation reflexes by spinning through scale-based solo missions that force fast musical decisions.",
+        "pt-BR": "Treine seus reflexos de improvisação na guitarra girando missões com escalas que exigem decisões musicais rápidas.",
+        "es": "Entrena tus reflejos de improvisación en guitarra girando misiones con escalas que exigen decisiones musicales rápidas.",
+        "de": "Trainiere deine Gitarren-Improvisation mit Skalenmissionen, die schnelle musikalische Entscheidungen erzwingen.",
+        "ja": "スケール課題を次々切り替えながら、ギター即興の判断力と反射神経を鍛えるレッスンです。",
+        "zh-Hans": "用不断切换的音阶任务训练你的吉他即兴反应，让你在压力下也能做出音乐性的选择。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-04-29T00:04:06Z",
+    "updatedAt": "2026-04-29T00:04:06Z"
   }
 ]

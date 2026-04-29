@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-04-25T00:10:05Z",
     "updatedAt": "2026-04-25T00:10:05Z"
+  },
+  {
+    "id": "piano-practice-arc-blueprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Arc Blueprint",
+        "pt-BR": "Blueprint do Arco de Estudo",
+        "es": "Plano del Arco de Práctica",
+        "de": "Bauplan für den Übebogen",
+        "ja": "練習アーク設計図",
+        "zh-Hans": "练习弧线蓝图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Design a piano scale session with a clear beginning, peak, and finish so your practice stops feeling random.",
+        "pt-BR": "Desenhe uma sessão de escalas no piano com começo, pico e fechamento claros para o estudo parar de parecer aleatório.",
+        "es": "Diseña una sesión de escalas en piano con inicio, punto máximo y cierre claros para que tu práctica deje de sentirse aleatoria.",
+        "de": "Plane eine Klavier-Skalenroutine mit klarem Anfang, Höhepunkt und Abschluss, damit dein Üben nicht mehr zufällig wirkt.",
+        "ja": "ピアノのスケール練習に明確な始まり・山場・着地を作り、練習を行き当たりばったりにしないためのレッスンです。",
+        "zh-Hans": "给你的钢琴音阶练习设计清晰的开头、顶点和收尾，让练习不再散漫随机。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-29T00:06:13Z",
+    "updatedAt": "2026-04-29T00:06:13Z"
   }
 ]
