@@ -698,5 +698,33 @@
     "order": 25,
     "createdAt": "2026-04-28T00:07:10Z",
     "updatedAt": "2026-04-28T00:07:10Z"
+  },
+  {
+    "id": "piano-dynamic-staircase",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dynamic Staircase in F Major",
+        "pt-BR": "Escadaria Dinâmica em Fá Maior",
+        "es": "Escalera Dinámica en Fa Mayor",
+        "de": "Dynamische Treppe in F-Dur",
+        "ja": "Fメジャーのダイナミック階段",
+        "zh-Hans": "F大调动态楼梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train piano scales as a controlled climb where each dynamic step changes the sound without breaking the line.",
+        "pt-BR": "Treine escalas no piano como uma subida controlada, em que cada degrau de dinâmica muda o som sem quebrar a linha.",
+        "es": "Entrena escalas de piano como una subida controlada, donde cada nivel dinámico cambia el sonido sin romper la línea.",
+        "de": "Trainiere Klavierskalen wie einen kontrollierten Aufstieg, bei dem jede Dynamikstufe den Klang verändert, ohne die Linie zu brechen.",
+        "ja": "音量の段差をコントロールしながら、線を切らずにピアノスケールを登る練習をしよう。",
+        "zh-Hans": "把钢琴音阶练成一次可控的爬升，让每一级力度变化都改变声音，却不打断线条。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-04-30T00:08:00Z",
+    "updatedAt": "2026-04-30T00:08:00Z"
   }
 ]

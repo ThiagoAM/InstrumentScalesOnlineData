@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-04-28T00:07:09Z",
     "updatedAt": "2026-04-28T00:07:09Z"
+  },
+  {
+    "id": "guitar-rhythm-fakeout",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Fakeout in A Dorian",
+        "pt-BR": "Pegadinha Rítmica em Lá Dórico",
+        "es": "Engaño Rítmico en La Dórico",
+        "de": "Rhythmus-Finte in A-Dorisch",
+        "ja": "Aドリアンのリズムだまし",
+        "zh-Hans": "A多利亚节奏障眼法"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make your guitar phrases harder to predict by teasing the beat, then landing with control.",
+        "pt-BR": "Deixe suas frases de guitarra menos previsíveis provocando o pulso e pousando com controle.",
+        "es": "Haz tus frases de guitarra menos predecibles provocando el pulso y aterrizando con control.",
+        "de": "Mach deine Gitarrenphrasen schwerer vorhersehbar, indem du den Puls antäuschst und kontrolliert landest.",
+        "ja": "拍をじらしてから狙って着地し、ギターのフレーズを読まれにくくしよう。",
+        "zh-Hans": "先吊住拍点、再稳稳落地，让你的吉他乐句更难被猜到。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-04-30T00:08:00Z",
+    "updatedAt": "2026-04-30T00:08:00Z"
   }
 ]

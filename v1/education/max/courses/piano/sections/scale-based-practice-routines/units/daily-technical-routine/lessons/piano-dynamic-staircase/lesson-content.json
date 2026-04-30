@@ -1,0 +1,73 @@
+{
+  "id": "piano-dynamic-staircase",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Choose your staircase\n\nUse **F major** (F G A Bb C D E) over two octaves.\n\nSet the metronome to **76 bpm** and start hands separately, then together.\n\nImagine every scale run is a staircase with clear levels instead of one flat hallway of volume.",
+          "pt-BR": "### Escolha sua escadaria\n\nUse **Fá maior** (F G A Bb C D E) em duas oitavas.\n\nAjuste o metrônomo para **76 bpm** e comece mãos separadas, depois juntas.\n\nImagine que cada execução da escala é uma escadaria com andares claros, e não um corredor reto de volume igual.",
+          "es": "### Elige tu escalera\n\nUsa **Fa mayor** (F G A Bb C D E) en dos octavas.\n\nPon el metrónomo en **76 bpm** y empieza con manos separadas, luego juntas.\n\nImagina que cada escala es una escalera con niveles claros, no un pasillo plano de volumen igual.",
+          "de": "### Wähle deine Treppe\n\nNutze **F-Dur** (F G A Bb C D E) über zwei Oktaven.\n\nStelle das Metronom auf **76 bpm** und beginne erst mit getrennten, dann mit beiden Händen.\n\nStell dir jeden Skalendurchgang wie eine Treppe mit klaren Etagen vor und nicht wie einen flachen Flur mit immer gleicher Lautstärke.",
+          "ja": "### 階段を選ぶ\n\n**Fメジャー**（F G A Bb C D E）を2オクターブで使います。\n\nメトロノームは **76 bpm**。まず片手ずつ、次に両手で弾きましょう。\n\nそれぞれのスケールを、音量がずっと同じ通路ではなく、はっきりした段のある階段だと想像してください。",
+          "zh-Hans": "### 选好你的楼梯\n\n使用 **F大调**（F G A Bb C D E），练两个八度。\n\n把节拍器设为 **76 bpm**，先分手，再双手。\n\n把每一次音阶想成一段有清晰层级的楼梯，而不是一条音量完全平的走廊。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Step 1: quiet floor\n\nPlay one full scale very softly.\n\nWatch for these details:\n- even tone from thumb to pinky\n- no bump during finger crossings\n- wrists staying loose\n\nIf the line wobbles when it gets quiet, your control is not ready for the next floor.",
+          "pt-BR": "### Degrau 1: andar silencioso\n\nToque uma escala completa bem suave.\n\nObserve estes detalhes:\n- som uniforme do polegar ao dedo mínimo\n- nenhum tranco nas passagens de dedo\n- punhos soltos\n\nSe a linha balançar quando fica baixa, seu controle ainda não está pronto para o próximo andar.",
+          "es": "### Paso 1: piso silencioso\n\nToca una escala completa muy suave.\n\nObserva estos detalles:\n- sonido parejo del pulgar al meñique\n- ningún golpe en los cruces de dedos\n- muñecas sueltas\n\nSi la línea se tambalea cuando tocas suave, tu control todavía no está listo para el siguiente piso.",
+          "de": "### Stufe 1: leises Erdgeschoss\n\nSpiele eine komplette Skala sehr leise.\n\nAchte auf diese Details:\n- gleichmäßiger Ton vom Daumen bis zum kleinen Finger\n- kein Ruck bei Fingerwechseln\n- lockere Handgelenke\n\nWenn die Linie wackelt, sobald es leise wird, ist deine Kontrolle noch nicht bereit für die nächste Etage.",
+          "ja": "### ステップ1：静かな一階\n\n1本のスケールをとても小さな音で弾きます。\n\n見るポイント：\n- 親指から小指まで音色がそろっているか\n- 指くぐりや指またぎで段差が出ないか\n- 手首が固まっていないか\n\n小さな音でラインが揺れるなら、次の階へ行く準備はまだです。",
+          "zh-Hans": "### 第1级：安静的一层\n\n把整条音阶用很轻的声音弹一遍。\n\n观察这些细节：\n- 从拇指到小指音色是否均匀\n- 换指时有没有突然凸起\n- 手腕是否保持放松\n\n如果一变轻线条就发晃，说明你的控制还没准备好上楼。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Step 2: middle floor\n\nNow play the same scale at a medium dynamic.\n\nYour job is not to play louder at random. Your job is to keep the same shape while changing only the energy.\n\nRepeat 4 times and compare: did the timing stay calm, or did volume make you rush?",
+          "pt-BR": "### Degrau 2: andar do meio\n\nAgora toque a mesma escala em dinâmica média.\n\nSua tarefa não é tocar mais alto de forma aleatória. Sua tarefa é manter o mesmo desenho mudando apenas a energia.\n\nRepita 4 vezes e compare: o tempo ficou calmo ou o volume fez você correr?",
+          "es": "### Paso 2: piso intermedio\n\nAhora toca la misma escala con dinámica media.\n\nTu trabajo no es tocar más fuerte al azar. Tu trabajo es conservar la misma forma cambiando solo la energía.\n\nRepítelo 4 veces y compara: ¿el pulso siguió tranquilo o el volumen te hizo correr?",
+          "de": "### Stufe 2: mittlere Etage\n\nSpiele jetzt dieselbe Skala mit mittlerer Dynamik.\n\nDeine Aufgabe ist nicht, zufällig lauter zu werden. Deine Aufgabe ist, dieselbe Form zu behalten und nur die Energie zu ändern.\n\nWiederhole das 4-mal und vergleiche: blieb das Timing ruhig, oder hat dich die Lautstärke gehetzt?",
+          "ja": "### ステップ2：中間の階\n\n今度は同じスケールを中くらいの音量で弾きます。\n\nやるべきことは、やみくもに大きくすることではありません。変えるのはエネルギーだけで、形は同じまま保ちます。\n\n4回繰り返して比べましょう。音量が変わっても、タイミングは落ち着いたままでしたか。",
+          "zh-Hans": "### 第2级：中间楼层\n\n现在用中等力度弹同一条音阶。\n\n你的任务不是随便弹得更大声。你的任务是只改变能量，不改变整体形状。\n\n重复 4 次再比较：力度变化之后，节奏还平稳吗，还是因为声音变大而开始抢拍？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Step 3: top floor with a view\n\nPlay one run that **crescendos upward** and **decrescendos downward**.\n\nExtra rules:\n1. hold the top note for one beat\n2. begin the descent with a relaxed hand\n3. do not let the strongest sound turn harsh\n\nPower without tension is the whole staircase trick.",
+          "pt-BR": "### Degrau 3: topo com vista\n\nToque uma execução que **cresça na subida** e **diminua na descida**.\n\nRegras extras:\n1. segure a nota mais aguda por um tempo\n2. comece a descida com a mão relaxada\n3. não deixe o som mais forte ficar áspero\n\nPotência sem tensão é o truque inteiro dessa escadaria.",
+          "es": "### Paso 3: piso alto con vista\n\nToca una pasada que **crezca al subir** y **disminuya al bajar**.\n\nReglas extra:\n1. sostén la nota más aguda durante un tiempo\n2. empieza la bajada con la mano relajada\n3. no dejes que el sonido más fuerte se vuelva áspero\n\nPotencia sin tensión es todo el truco de esta escalera.",
+          "de": "### Stufe 3: oberste Etage mit Aussicht\n\nSpiele einen Durchgang, der **nach oben crescendiert** und **nach unten decrescendiert**.\n\nZusatzregeln:\n1. halte den höchsten Ton einen Schlag lang\n2. beginne den Abstieg mit entspannter Hand\n3. lass den stärksten Klang nicht hart werden\n\nKraft ohne Spannung ist der ganze Trick dieser Treppe.",
+          "ja": "### ステップ3：見晴らしのいい最上階\n\n**上りでクレッシェンド**、**下りでデクレッシェンド** する1往復を弾きます。\n\n追加ルール：\n1. いちばん高い音を1拍保つ\n2. 下り始めは手をリラックスさせる\n3. いちばん強い音でもきつくしない\n\n力みのないパワーこそ、この階段の核心です。",
+          "zh-Hans": "### 第3级：带风景的顶层\n\n弹一遍 **上行渐强**、**下行渐弱** 的完整音阶。\n\n额外规则：\n1. 最高音停一拍\n2. 开始下行时手要放松\n3. 最强的声音也不能变得刺耳\n\n有力量但没紧张感，就是这段楼梯的核心技巧。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final climb\n\nCreate **three complete runs**:\n- run 1 = soft all the way\n- run 2 = medium all the way\n- run 3 = dynamic staircase from soft to strong and back\n\nRecord them if possible. Then move the exact routine to **D minor** and keep the same elegance while the key changes. 🎹",
+          "pt-BR": "### Subida final\n\nCrie **três execuções completas**:\n- execução 1 = suave do começo ao fim\n- execução 2 = média do começo ao fim\n- execução 3 = escadaria dinâmica, de suave para forte e de volta\n\nSe puder, grave. Depois leve a rotina exata para **Ré menor** e mantenha a mesma elegância mesmo mudando a tonalidade. 🎹",
+          "es": "### Subida final\n\nCrea **tres recorridos completos**:\n- recorrido 1 = suave todo el tiempo\n- recorrido 2 = medio todo el tiempo\n- recorrido 3 = escalera dinámica, de suave a fuerte y de vuelta\n\nSi puedes, grábate. Luego mueve la rutina exacta a **Re menor** y conserva la misma elegancia aunque cambie la tonalidad. 🎹",
+          "de": "### Schlussaufstieg\n\nErzeuge **drei komplette Durchgänge**:\n- Durchgang 1 = durchgehend leise\n- Durchgang 2 = durchgehend mittel\n- Durchgang 3 = dynamische Treppe, von leise zu stark und zurück\n\nNimm dich wenn möglich auf. Verlege danach dieselbe Routine nach **D-Moll** und behalte dieselbe Eleganz, obwohl sich die Tonart ändert. 🎹",
+          "ja": "### 最後の上り\n\n**3種類の通し演奏** を作りましょう。\n- 1回目 = 最初から最後まで小さく\n- 2回目 = 最初から最後まで中くらい\n- 3回目 = 小さく始めて強くなり、また戻るダイナミック階段\n\nできれば録音してください。そのあと同じルーティンを **Dマイナー** に移して、調が変わっても同じ上品さを保てるか試しましょう。🎹",
+          "zh-Hans": "### 最终爬升\n\n做出 **三次完整通关**：\n- 第1次 = 从头到尾都轻\n- 第2次 = 从头到尾都中等\n- 第3次 = 从轻到强再回来的动态楼梯\n\n如果可以就录下来。然后把完全一样的流程移到 **D小调**，看调性改变后还能不能保持同样的优雅。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-30T00:08:00Z",
+  "updatedAt": "2026-04-30T00:08:00Z"
+}

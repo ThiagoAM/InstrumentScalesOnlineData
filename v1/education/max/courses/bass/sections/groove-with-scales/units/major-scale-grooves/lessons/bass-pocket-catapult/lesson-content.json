@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-catapult",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Launch pad\n\nWork in **D major** (D E F# G A B C#) over a simple loop like **D - G - Bm - A**.\n\nSet a metronome or drum loop to **88 bpm**.\n\nYour goal is to make the groove feel like it gets thrown forward and then lands exactly where it should.",
+          "pt-BR": "### Plataforma de lançamento\n\nTrabalhe em **Ré maior** (D E F# G A B C#) sobre um loop simples como **D - G - Bm - A**.\n\nAjuste o metrônomo ou a batera eletrônica para **88 bpm**.\n\nSeu objetivo é fazer o groove parecer arremessado para a frente e ainda pousar exatamente no lugar certo.",
+          "es": "### Plataforma de lanzamiento\n\nTrabaja en **Re mayor** (D E F# G A B C#) sobre un loop simple como **D - G - Bm - A**.\n\nPon el metrónomo o una base de batería en **88 bpm**.\n\nTu objetivo es hacer que el groove parezca salir disparado hacia delante y aun así aterrice exactamente en su sitio.",
+          "de": "### Startrampe\n\nArbeite in **D-Dur** (D E F# G A B C#) über einen einfachen Loop wie **D - G - Bm - A**.\n\nStelle Metronom oder Drum-Loop auf **88 bpm**.\n\nDein Ziel ist, dass sich der Groove nach vorne geschleudert anfühlt und trotzdem exakt dort landet, wo er soll.",
+          "ja": "### 発射台\n\n**Dメジャー**（D E F# G A B C#）で、**D - G - Bm - A** のようなシンプルなループに乗って練習します。\n\nメトロノームかドラムループは **88 bpm** に設定しましょう。\n\n目標は、グルーヴが前へ飛び出しながらも、着地はぴったり決まることです。",
+          "zh-Hans": "### 发射台\n\n在 **D大调**（D E F# G A B C#）里练习，配上像 **D - G - Bm - A** 这样的简单循环。\n\n把节拍器或鼓循环设为 **88 bpm**。\n\n你的目标是让 groove 像被向前弹射出去，但又能精准落回该落的位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Rule 1: every take needs a home base\n\nOn beat 1 of every bar, land on a clear chord tone.\n\nThen give yourself one tiny adventure before the next strong beat:\n- one scale step up\n- one scale step down\n- or one short leap to the fifth\n\nIf beat 1 feels weak, the catapult broke.",
+          "pt-BR": "### Regra 1: toda tentativa precisa de uma base\n\nNo tempo 1 de cada compasso, chegue em uma nota clara do acorde.\n\nDepois se permita uma pequena aventura antes do próximo tempo forte:\n- um grau acima da escala\n- um grau abaixo da escala\n- ou um salto curto para a quinta\n\nSe o tempo 1 soar fraco, a catapulta quebrou.",
+          "es": "### Regla 1: cada intento necesita una base\n\nEn el tiempo 1 de cada compás, cae en una nota clara del acorde.\n\nLuego permítete una pequeña aventura antes del siguiente pulso fuerte:\n- un grado arriba de la escala\n- un grado abajo de la escala\n- o un salto corto hacia la quinta\n\nSi el tiempo 1 suena débil, la catapulta se rompió.",
+          "de": "### Regel 1: Jeder Versuch braucht eine Basis\n\nLande auf Schlag 1 jedes Taktes auf einem klaren Akkordton.\n\nDann erlaube dir vor dem nächsten starken Puls ein kleines Abenteuer:\n- einen Skalenton nach oben\n- einen Skalenton nach unten\n- oder einen kurzen Sprung zur Quinte\n\nWenn Schlag 1 schwach klingt, ist das Katapult kaputt.",
+          "ja": "### ルール1：毎回の土台を作る\n\n各小節の1拍目では、はっきりしたコードトーンに着地します。\n\nそのあと次の強拍までに、小さな冒険を1つだけ入れます。\n- スケールを1音上へ\n- スケールを1音下へ\n- あるいは5度へ小さく跳ぶ\n\n1拍目が弱いなら、カタパルトは壊れています。",
+          "zh-Hans": "### 规则1：每一次都要有基地\n\n每个小节的第1拍，都落在一个清楚的和弦音上。\n\n然后在下一个强拍前给自己一个小冒险：\n- 沿音阶上行一步\n- 沿音阶下行一步\n- 或者短跳到五度\n\n如果第1拍听起来没力，这台弹射器就坏了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Rule 2: stretch the air\n\nIn each 2-bar groove, leave **one real rest** and **one shortened note**.\n\nThat combination creates spring:\n1. silence pulls tension back\n2. the short note releases it\n3. the next strong note lands harder\n\nLoop it until the space feels intentional instead of empty.",
+          "pt-BR": "### Regra 2: estique o ar\n\nEm cada groove de 2 compassos, deixe **uma pausa real** e **uma nota encurtada**.\n\nEssa combinação cria mola:\n1. o silêncio puxa a tensão para trás\n2. a nota curta solta essa tensão\n3. a próxima nota forte aterrissa com mais peso\n\nRepita até o espaço soar intencional, não vazio.",
+          "es": "### Regla 2: estira el aire\n\nEn cada groove de 2 compases, deja **un silencio real** y **una nota acortada**.\n\nEsa combinación crea resorte:\n1. el silencio tira la tensión hacia atrás\n2. la nota corta la libera\n3. la siguiente nota fuerte cae con más peso\n\nRepítelo hasta que el espacio suene intencional y no vacío.",
+          "de": "### Regel 2: Zieh die Luft auseinander\n\nLass in jedem 2-taktigen Groove **eine echte Pause** und **einen verkürzten Ton**.\n\nDiese Kombination erzeugt Federkraft:\n1. Stille zieht die Spannung zurück\n2. der kurze Ton lässt sie frei\n3. der nächste starke Ton landet schwerer\n\nWiederhole das, bis der Raum absichtlich statt leer wirkt.",
+          "ja": "### ルール2：空気を引き伸ばす\n\n2小節グルーヴごとに、**本当の休符を1つ** と **短く切る音を1つ** 入れましょう。\n\nこの組み合わせがバネを作ります。\n1. 沈黙が緊張を後ろへ引く\n2. 短い音がそれを解放する\n3. 次の強い音がより重く着地する\n\n空白がただの不足ではなく、意図に聞こえるまで繰り返します。",
+          "zh-Hans": "### 规则2：把空气拉开\n\n每个 2 小节 groove 里都要放 **一个真正的休止** 和 **一个刻意缩短的音**。\n\n这个组合会制造弹性：\n1. 沉默把张力往后拉\n2. 短音把它释放出去\n3. 下一个强音会落得更重\n\n循环练到这个空间感听起来像设计，而不是空白。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Rule 3: add one fast sling\n\nNow add one quick burst of **three or four notes** using only scale tones.\n\nImportant:\n- the burst must lead into a strong landing\n- keep the rhythm even\n- stop immediately if it starts sounding like a bass solo instead of a groove\n\nYou are not showing off. You are aiming the energy.",
+          "pt-BR": "### Regra 3: adicione um disparo rápido\n\nAgora acrescente uma rajada rápida de **três ou quatro notas** usando apenas notas da escala.\n\nImportante:\n- a rajada precisa levar a uma chegada forte\n- mantenha o ritmo regular\n- pare imediatamente se começar a soar como solo de baixo em vez de groove\n\nVocê não está se exibindo. Está apontando a energia.",
+          "es": "### Regla 3: agrega un disparo rápido\n\nAhora añade una ráfaga rápida de **tres o cuatro notas** usando solo notas de la escala.\n\nImportante:\n- la ráfaga debe llevar a una llegada fuerte\n- mantén el ritmo parejo\n- detente enseguida si empieza a sonar como solo de bajo en vez de groove\n\nNo estás presumiendo. Estás apuntando la energía.",
+          "de": "### Regel 3: Füge einen schnellen Schleuderstoß hinzu\n\nBaue jetzt einen schnellen Schub von **drei oder vier Tönen** nur mit Skalentönen ein.\n\nWichtig:\n- der Schub muss in eine starke Landung führen\n- halte den Rhythmus gleichmäßig\n- stoppe sofort, wenn es wie ein Basssolo statt wie ein Groove klingt\n\nDu gibst nicht an. Du lenkst Energie.",
+          "ja": "### ルール3：速いひと振りを入れる\n\n次に、スケール音だけで **3音か4音の速いまとまり** を1回入れます。\n\n大事なこと：\n- そのまとまりは強い着地へ向かうこと\n- リズムは均等に保つこと\n- グルーヴではなくベースソロに聞こえ始めたらすぐ止めること\n\n見せびらかすのではなく、エネルギーの向きを決めるのです。",
+          "zh-Hans": "### 规则3：加入一次快速甩动\n\n现在再加一次只用音阶音组成的 **3 个或 4 个音的快速冲刺**。\n\n重点：\n- 这次冲刺必须导向一个强落点\n- 节奏要保持平均\n- 如果它开始像贝斯独奏而不是 groove，就立刻停下\n\n你不是在炫技，你是在给能量瞄准方向。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Pocket test\n\nCreate **two 2-bar grooves** with all three rules:\n- strong home base on beat 1\n- one rest and one short note\n- one fast sling into a landing\n\nRecord 30 seconds and choose the version that makes your head nod hardest. Then move everything to **E major** and keep the same control. 🎸",
+          "pt-BR": "### Teste de groove\n\nCrie **dois grooves de 2 compassos** com as três regras:\n- base forte no tempo 1\n- uma pausa e uma nota curta\n- uma rajada rápida levando à chegada\n\nGrave 30 segundos e escolha a versão que mais faz sua cabeça balançar. Depois leve tudo para **Mi maior** e mantenha o mesmo controle. 🎸",
+          "es": "### Prueba de groove\n\nCrea **dos grooves distintos de 2 compases** con las tres reglas:\n- base fuerte en el tiempo 1\n- un silencio y una nota corta\n- una ráfaga rápida hacia una llegada\n\nGraba 30 segundos y elige la versión que más te haga mover la cabeza. Luego pasa todo a **Mi mayor** y conserva el mismo control. 🎸",
+          "de": "### Pocket-Test\n\nErfinde **zwei verschiedene 2-taktige Grooves** mit allen drei Regeln:\n- starke Basis auf Schlag 1\n- eine Pause und ein kurzer Ton\n- ein schneller Schub in die Landung\n\nNimm 30 Sekunden auf und wähle die Version, bei der dein Kopf am stärksten mitnickt. Danach verschiebe alles nach **E-Dur** und behalte dieselbe Kontrolle. 🎸",
+          "ja": "### ポケットテスト\n\n3つのルールを全部使って、**2小節グルーヴを2種類** 作りましょう。\n- 1拍目の強い土台\n- 休符1つと短い音1つ\n- 着地へ向かう速いひと振り\n\n30秒録音して、いちばん自然に体がうなずくバージョンを選んでください。そのあと **Eメジャー** に移しても同じコントロールを保てるか試しましょう。🎸",
+          "zh-Hans": "### Groove 测试\n\n把三条规则都放进去，做出 **两个不同的 2 小节 groove**：\n- 第1拍有强基地\n- 一个休止加一个短音\n- 一次冲向落点的快速甩动\n\n录 30 秒，选出那个最让你忍不住点头的版本。然后把全部内容移到 **E大调**，看看能不能保持同样的控制力。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-30T00:08:00Z",
+  "updatedAt": "2026-04-30T00:08:00Z"
+}

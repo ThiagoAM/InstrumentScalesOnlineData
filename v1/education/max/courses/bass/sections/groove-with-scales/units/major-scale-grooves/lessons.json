@@ -922,5 +922,33 @@
     "order": 33,
     "createdAt": "2026-04-29T00:05:02Z",
     "updatedAt": "2026-04-29T00:05:02Z"
+  },
+  {
+    "id": "bass-pocket-catapult",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Catapult in D Major",
+        "pt-BR": "Catapulta de Groove em Ré Maior",
+        "es": "Catapulta de Groove en Re Mayor",
+        "de": "Groove-Katapult in D-Dur",
+        "ja": "Dメジャーのポケット・カタパルト",
+        "zh-Hans": "D大调律动弹射器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch bass grooves with strong landings, elastic rests, and scale notes that snap back into time.",
+        "pt-BR": "Lance grooves de baixo com chegadas fortes, pausas elásticas e notas da escala que voltam certeiras para o tempo.",
+        "es": "Lanza grooves de bajo con llegadas fuertes, silencios elásticos y notas de escala que regresan al tiempo con precisión.",
+        "de": "Starte Bass-Grooves mit starken Landungen, federnden Pausen und Skalentönen, die präzise in die Zeit zurückschnappen.",
+        "ja": "強い着地、しなる休符、時間に戻ってくる音階音でベースのグルーヴを前へ飛ばそう。",
+        "zh-Hans": "用强力落点、弹性的停顿和会弹回拍点的音阶音，把贝斯 groove 发射出去。"
+      }
+    },
+    "order": 34,
+    "createdAt": "2026-04-30T00:08:00Z",
+    "updatedAt": "2026-04-30T00:08:00Z"
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-fakeout",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Setup: build the stage\n\nUse **A Dorian** (A B C D E F# G) in one position you know well.\n\nSet a metronome to **84 bpm**. Count **1 & 2 & 3 & 4 &** out loud before every try.\n\nToday your job is simple: make a short phrase feel surprising without losing the groove.",
+          "pt-BR": "### Preparação: monte o palco\n\nUse **Lá dórico** (A B C D E F# G) em uma posição que você conhece bem.\n\nAjuste o metrônomo para **84 bpm**. Conte **1 e 2 e 3 e 4 e** em voz alta antes de cada tentativa.\n\nHoje sua missão é simples: fazer uma frase curta soar surpreendente sem perder o groove.",
+          "es": "### Preparación: arma el escenario\n\nUsa **La dórico** (A B C D E F# G) en una posición que conozcas bien.\n\nPon el metrónomo en **84 bpm**. Cuenta **1 y 2 y 3 y 4 y** en voz alta antes de cada intento.\n\nTu misión de hoy es simple: hacer que una frase corta suene sorprendente sin perder el groove.",
+          "de": "### Vorbereitung: Bühne aufbauen\n\nNutze **A-Dorisch** (A B C D E F# G) in einer Lage, die du gut kennst.\n\nStelle das Metronom auf **84 bpm**. Zähle vor jedem Versuch **1 und 2 und 3 und 4 und** laut mit.\n\nDeine Aufgabe heute ist einfach: Eine kurze Phrase soll überraschend klingen, ohne den Groove zu verlieren.",
+          "ja": "### 準備：ステージを作る\n\nよく知っているポジションで **Aドリアン**（A B C D E F# G）を使います。\n\nメトロノームは **84 bpm**。毎回弾く前に **1と2と3と4と** と声に出して数えましょう。\n\n今日の仕事はシンプルです。短いフレーズを、グルーヴを失わずに意外に聞かせることです。",
+          "zh-Hans": "### 准备：把舞台搭起来\n\n在你熟悉的一个把位里使用 **A多利亚**（A B C D E F# G）。\n\n把节拍器设为 **84 bpm**。每次开始前都大声数 **1 和 2 和 3 和 4 和**。\n\n今天的任务很简单：让一个短乐句听起来出人意料，但又不丢掉 groove。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: arrive late on purpose\n\nCreate a 2-bar phrase where the first note does **not** land on beat 1.\n\nRules:\n- enter on **& of 1** or **& of 2**\n- end bar 1 on A, C, or E\n- keep the rhythm clean enough that you could clap it\n\nDo 5 clean reps. If it sounds random instead of playful, simplify the notes and fix the timing first.",
+          "pt-BR": "### Rodada 1: entre atrasado de propósito\n\nCrie uma frase de 2 compassos em que a primeira nota **não** caia no tempo 1.\n\nRegras:\n- entre no **e do 1** ou no **e do 2**\n- termine o compasso 1 em A, C ou E\n- mantenha o ritmo limpo o bastante para você conseguir bater palmas junto\n\nFaça 5 repetições limpas. Se soar aleatório em vez de brincalhão, simplifique as notas e acerte o tempo primeiro.",
+          "es": "### Ronda 1: entra tarde a propósito\n\nCrea una frase de 2 compases donde la primera nota **no** caiga en el tiempo 1.\n\nReglas:\n- entra en el **y de 1** o en el **y de 2**\n- termina el compás 1 en A, C o E\n- mantén el ritmo lo bastante limpio como para poder aplaudirlo\n\nHaz 5 repeticiones limpias. Si suena aleatorio en vez de juguetón, simplifica las notas y arregla el tiempo primero.",
+          "de": "### Runde 1: Absichtlich zu spät einsetzen\n\nErfinde eine 2-taktige Phrase, bei der der erste Ton **nicht** auf Schlag 1 landet.\n\nRegeln:\n- Einstieg auf **und von 1** oder **und von 2**\n- Ende von Takt 1 auf A, C oder E\n- der Rhythmus muss so sauber sein, dass du ihn klatschen könntest\n\nMach 5 saubere Wiederholungen. Klingt es zufällig statt verspielt, vereinfache zuerst die Töne und repariere das Timing.",
+          "ja": "### ラウンド1：わざと遅れて入る\n\n最初の音が **1拍目に来ない** 2小節フレーズを作りましょう。\n\nルール：\n- 入りは **1拍目の裏** か **2拍目の裏**\n- 1小節目の終わりは A、C、E のどれか\n- 手拍子できるくらいリズムをはっきり保つ\n\n5回きれいに繰り返します。遊び心ではなくバラバラに聞こえるなら、まず音数を減らしてタイミングを直しましょう。",
+          "zh-Hans": "### 第1轮：故意晚一点进来\n\n做一个 2 小节乐句，让第一个音 **不要** 落在第1拍。\n\n规则：\n- 从 **第1拍后半拍** 或 **第2拍后半拍** 进入\n- 第1小节结束在 A、C 或 E\n- 节奏要清楚到你可以把它拍出来\n\n做 5 次干净重复。如果听起来不是俏皮而是混乱，就先减少音符，把时间感修好。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: fake the ending\n\nNow make a phrase that sounds finished in bar 1, then answers itself in bar 2.\n\nTry this shape:\n1. short idea\n2. tiny pause\n3. second idea with one changed rhythm\n\nThe trick is tension: the listener should think \"oh, it's over\" for half a second.",
+          "pt-BR": "### Rodada 2: finja o final\n\nAgora monte uma frase que pareça terminar no compasso 1 e depois responda a si mesma no compasso 2.\n\nExperimente este formato:\n1. ideia curta\n2. pausa pequena\n3. segunda ideia com uma mudança rítmica\n\nO truque é a tensão: por meio segundo o ouvinte precisa pensar \"pronto, acabou\".",
+          "es": "### Ronda 2: finge el final\n\nAhora construye una frase que parezca terminar en el compás 1 y luego se responda a sí misma en el compás 2.\n\nPrueba esta forma:\n1. idea corta\n2. pausa pequeña\n3. segunda idea con un cambio de ritmo\n\nEl truco es la tensión: durante medio segundo el oyente debe pensar \"ya terminó\".",
+          "de": "### Runde 2: Das Ende vortäuschen\n\nBaue jetzt eine Phrase, die in Takt 1 fertig klingt und sich in Takt 2 selbst beantwortet.\n\nProbiere diese Form:\n1. kurze Idee\n2. kleine Pause\n3. zweite Idee mit einer Rhythmusänderung\n\nDer Trick ist Spannung: Für einen halben Moment soll der Hörer denken: „Okay, das war's.“",
+          "ja": "### ラウンド2：終わったふりをする\n\n次は、1小節目で終わったように聞こえ、2小節目で自分に返事をするフレーズを作ります。\n\n形の例：\n1. 短いアイデア\n2. 小さな休み\n3. リズムを1つ変えた2つ目のアイデア\n\n大事なのは緊張感です。聴き手が一瞬「終わったかな」と思うくらいがちょうどいいです。",
+          "zh-Hans": "### 第2轮：假装结束\n\n现在做一个在第1小节听起来像结束了、但第2小节又自己回应自己的乐句。\n\n试试这个结构：\n1. 一个短想法\n2. 一个小停顿\n3. 第二个想法，改掉一个节奏点\n\n关键是张力：要让听的人有半秒钟觉得“哦，结束了”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: accent the wrong hero\n\nPick one weak part of the beat and make it the star.\n\nOptions:\n- accent **& of 2**\n- accent **beat 4** softly but clearly\n- slide into one note so the accent feels vocal\n\nIf every note is equally strong, there is no fakeout. Let one note steal the scene.",
+          "pt-BR": "### Rodada 3: destaque o herói errado\n\nEscolha uma parte fraca do pulso e transforme-a na estrela.\n\nOpções:\n- acentue o **e do 2**\n- acentue o **tempo 4** de forma suave, mas clara\n- faça um slide para uma nota e deixe o acento mais vocal\n\nSe todas as notas tiverem a mesma força, não existe pegadinha. Deixe uma nota roubar a cena.",
+          "es": "### Ronda 3: destaca al héroe equivocado\n\nElige una parte débil del pulso y conviértela en la estrella.\n\nOpciones:\n- acentúa el **y de 2**\n- acentúa el **tiempo 4** de forma suave pero clara\n- deslízate hacia una nota para que el acento se sienta más vocal\n\nSi todas las notas tienen la misma fuerza, no hay engaño. Deja que una nota robe la escena.",
+          "de": "### Runde 3: Den falschen Helden betonen\n\nWähle eine schwache Zählzeit und mache sie zum Star.\n\nOptionen:\n- betone **und von 2**\n- betone **Schlag 4** sanft, aber deutlich\n- rutsche in einen Ton hinein, damit der Akzent gesanglicher wirkt\n\nWenn alle Töne gleich stark sind, gibt es keine Finte. Lass einen Ton die Szene stehlen.",
+          "ja": "### ラウンド3：主役じゃない場所を主役にする\n\n弱い場所を1つ選んで、そこを目立たせましょう。\n\n選択肢：\n- **2拍目の裏** を強調する\n- **4拍目** をやさしく、でも明確に強調する\n- スライドで入って歌うようなアクセントにする\n\n全部の音が同じ強さなら、だましは生まれません。1音に場面をさらわせましょう。",
+          "zh-Hans": "### 第3轮：让错误的主角发光\n\n挑一个弱位置，把它变成主角。\n\n选项：\n- 强调 **第2拍后半拍**\n- 轻一点但清楚地强调 **第4拍**\n- 用滑音进入某个音，让重音更像歌唱\n\n如果每个音都一样重，就没有障眼法。要让一个音把镜头抢走。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge: two believable solos\n\nCreate **two different 2-bar solos** using all three ideas:\n- delayed entrance\n- fake ending\n- one spotlight accent\n\nRecord them if possible. Keep the one that sounds like music, not like a puzzle. Then move the same game to **D Dorian** and see whether your timing still feels confident. 🎸",
+          "pt-BR": "### Desafio final: dois solos convincentes\n\nCrie **dois solos diferentes de 2 compassos** usando as três ideias:\n- entrada atrasada\n- falso final\n- um acento em destaque\n\nSe puder, grave. Fique com o que soar musical, não com o que parecer um quebra-cabeça. Depois leve o mesmo jogo para **Ré dórico** e veja se seu tempo continua confiante. 🎸",
+          "es": "### Desafío final: dos solos creíbles\n\nCrea **dos solos distintos de 2 compases** usando las tres ideas:\n- entrada tardía\n- falso final\n- un acento protagonista\n\nSi puedes, grábate. Quédate con el que suene musical, no con el que parezca un rompecabezas. Luego mueve el mismo juego a **Re dórico** y comprueba si tu tiempo sigue sonando seguro. 🎸",
+          "de": "### Abschluss: zwei glaubwürdige Soli\n\nErfinde **zwei verschiedene 2-taktige Soli** mit allen drei Ideen:\n- später Einstieg\n- falsches Ende\n- ein Spotlight-Akzent\n\nNimm sie wenn möglich auf. Behalte das Solo, das wie Musik klingt, nicht wie ein Rätsel. Danach verlege dasselbe Spiel nach **D-Dorisch** und prüfe, ob dein Timing genauso sicher bleibt. 🎸",
+          "ja": "### 最終チャレンジ：信じられるソロを2つ\n\n次の3つを全部使って、**2小節ソロを2種類** 作ります。\n- 遅れた入り\n- 終わったふり\n- 目立つアクセント1つ\n\nできれば録音しましょう。パズルではなく音楽に聞こえる方を残してください。そのあと同じゲームを **Dドリアン** に移して、タイム感がまだ自信を保てるか確かめましょう。🎸",
+          "zh-Hans": "### 最终挑战：两个可信的独奏\n\n把这三件事都放进来，做出 **两个不同的 2 小节独奏**：\n- 延迟进入\n- 假结束\n- 一个聚光灯重音\n\n如果可以就录下来。留下那个更像音乐、而不是更像谜题的版本。然后把同样的游戏移到 **D多利亚**，看看你的时间感还能不能一样自信。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-30T00:08:00Z",
+  "updatedAt": "2026-04-30T00:08:00Z"
+}
