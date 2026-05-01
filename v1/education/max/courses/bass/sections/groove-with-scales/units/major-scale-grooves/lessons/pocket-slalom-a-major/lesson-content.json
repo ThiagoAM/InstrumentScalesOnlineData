@@ -1,0 +1,73 @@
+{
+  "id": "pocket-slalom-a-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mark the course\n\nWork in **A major** (A B C# D E F# G#) over a loop like **A - D - F#m - E**.\n\nSet a metronome or drum loop to **90 bpm**.\n\nYour mission is to steer a bass groove through quick turns without skidding out of time.",
+          "pt-BR": "### Marque a pista\n\nTrabalhe em **Lá maior** (A B C# D E F# G#) sobre um loop como **A - D - F#m - E**.\n\nAjuste o metrônomo ou a batera eletrônica para **90 bpm**.\n\nSua missão é conduzir um groove de baixo por curvas rápidas sem derrapar no tempo.",
+          "es": "### Marca la pista\n\nTrabaja en **La mayor** (A B C# D E F# G#) sobre un loop como **A - D - F#m - E**.\n\nPon el metrónomo o una base de batería en **90 bpm**.\n\nTu misión es conducir un groove de bajo por curvas rápidas sin salirte del tiempo.",
+          "de": "### Strecke markieren\n\nArbeite in **A-Dur** (A B C# D E F# G#) über einen Loop wie **A - D - F#m - E**.\n\nStelle Metronom oder Drum-Loop auf **90 bpm**.\n\nDeine Mission ist es, einen Bassgroove durch schnelle Kurven zu lenken, ohne aus dem Timing zu rutschen.",
+          "ja": "### コースを決める\n\n**Aメジャー**（A B C# D E F# G#）で、**A - D - F#m - E** のようなループに乗って練習します。\n\nメトロノームかドラムループは **90 bpm** に設定しましょう。\n\n今日のミッションは、タイムを崩さずにベースグルーヴを速いカーブへ導くことです。",
+          "zh-Hans": "### 标出赛道\n\n在 **A大调**（A B C# D E F# G#）里练习，配上像 **A - D - F#m - E** 这样的循环。\n\n把节拍器或鼓循环设为 **90 bpm**。\n\n你的任务是让贝斯 groove 穿过快速转弯，同时不从时间线上打滑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Turn 1: lock the lane\n\nBuild a 2-bar groove where beat 1 of each bar lands on a clear chord tone.\n\nThen add one short move between strong beats:\n- step up by one scale note\n- step down by one scale note\n- or jump to the fifth\n\nIf beat 1 does not feel solid, slow down and fix the lane first.",
+          "pt-BR": "### Curva 1: trave a faixa\n\nMonte um groove de 2 compassos em que o tempo 1 de cada compasso cai em uma nota clara do acorde.\n\nDepois adicione um movimento curto entre os tempos fortes:\n- subir um grau da escala\n- descer um grau da escala\n- ou saltar para a quinta\n\nSe o tempo 1 não soar firme, diminua e acerte a faixa primeiro.",
+          "es": "### Curva 1: asegura el carril\n\nConstruye un groove de 2 compases donde el tiempo 1 de cada compás caiga en una nota clara del acorde.\n\nLuego añade un movimiento corto entre pulsos fuertes:\n- subir un grado de la escala\n- bajar un grado de la escala\n- o saltar a la quinta\n\nSi el tiempo 1 no se siente firme, baja la velocidad y arregla el carril primero.",
+          "de": "### Kurve 1: die Spur verriegeln\n\nBaue einen 2-taktigen Groove, bei dem Schlag 1 jedes Taktes auf einem klaren Akkordton landet.\n\nFüge dann zwischen starken Zählzeiten eine kurze Bewegung hinzu:\n- einen Skalenschritt nach oben\n- einen Skalenschritt nach unten\n- oder einen Sprung zur Quinte\n\nWenn Schlag 1 nicht stabil wirkt, werde langsamer und repariere erst die Spur.",
+          "ja": "### カーブ1：レーンを固定する\n\n各小節の1拍目がはっきりしたコードトーンに着地する2小節グルーヴを作ります。\n\nそのあと強拍の間に短い動きを1つ入れます。\n- スケールを1音上がる\n- スケールを1音下がる\n- あるいは5度へ跳ぶ\n\n1拍目が安定しないなら、まずテンポを落としてレーンを直しましょう。",
+          "zh-Hans": "### 第1弯：锁住车道\n\n做一个 2 小节 groove，让每个小节第1拍都落在清楚的和弦音上。\n\n然后在强拍之间加入一个短动作：\n- 沿音阶上行一步\n- 沿音阶下行一步\n- 或跳到五度\n\n如果第1拍不够稳，就先放慢，把车道修好。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Turn 2: place a brake and a burst\n\nIn the same groove, add **one eighth-note rest** and **one burst of three notes**.\n\nThe rest should create space. The burst should aim into a strong landing.\n\nThink of it like tapping the brakes before a clean turn.",
+          "pt-BR": "### Curva 2: coloque um freio e uma explosão\n\nNo mesmo groove, adicione **uma pausa de colcheia** e **uma rajada de três notas**.\n\nA pausa deve criar espaço. A rajada deve apontar para uma chegada forte.\n\nPense nisso como pisar no freio antes de fazer uma curva limpa.",
+          "es": "### Curva 2: coloca un freno y una ráfaga\n\nEn el mismo groove, añade **un silencio de corchea** y **una ráfaga de tres notas**.\n\nEl silencio debe crear espacio. La ráfaga debe apuntar a una llegada fuerte.\n\nPiénsalo como tocar el freno antes de una curva limpia.",
+          "de": "### Kurve 2: Bremse und Schub\n\nFüge im selben Groove **eine Achtelpause** und **einen Dreiton-Schub** ein.\n\nDie Pause soll Raum schaffen. Der Schub soll in eine starke Landung führen.\n\nDenk daran wie an ein kurzes Bremsen vor einer sauberen Kurve.",
+          "ja": "### カーブ2：ブレーキとひと吹かし\n\n同じグルーヴの中に **8分休符を1つ** と **3音の短いバーストを1つ** 入れます。\n\n休符は空間を作り、バーストは強い着地へ向かわせます。\n\nきれいなカーブの前で軽くブレーキを踏むイメージです。",
+          "zh-Hans": "### 第2弯：放一个刹车和一次冲刺\n\n在同一个 groove 里加入 **一个八分休止** 和 **一次三音冲刺**。\n\n休止负责制造空间，冲刺负责导向强落点。\n\n把它想成：在干净过弯前先轻点一下刹车。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Turn 3: change the corner shape\n\nKeep the same bar 1, but make two different bar 2 endings.\n\nVersion A should climb into the landing.\nVersion B should drop into the landing.\n\nBoth versions should feel equally danceable, even though the path changes.",
+          "pt-BR": "### Curva 3: mude o desenho da curva\n\nMantenha o mesmo compasso 1, mas faça dois finais diferentes para o compasso 2.\n\nA versão A deve subir até a chegada.\nA versão B deve descer até a chegada.\n\nAs duas precisam continuar dançantes, mesmo com caminhos diferentes.",
+          "es": "### Curva 3: cambia la forma del giro\n\nMantén el mismo compás 1, pero haz dos finales distintos para el compás 2.\n\nLa versión A debe subir hacia la llegada.\nLa versión B debe bajar hacia la llegada.\n\nLas dos versiones deben seguir siendo bailables, aunque cambie el camino.",
+          "de": "### Kurve 3: die Kurvenform ändern\n\nBehalte Takt 1 gleich, aber baue zwei verschiedene Enden für Takt 2.\n\nVersion A steigt in die Landung hinein.\nVersion B fällt in die Landung hinein.\n\nBeide Versionen sollen gleich tanzbar bleiben, auch wenn sich der Weg ändert.",
+          "ja": "### カーブ3：曲がり方を変える\n\n1小節目はそのままにして、2小節目の終わり方を2種類作りましょう。\n\nA版は着地へ向かって上がる形。\nB版は着地へ向かって下がる形。\n\n道が変わっても、どちらも同じくらい踊れる感じを保ちます。",
+          "zh-Hans": "### 第3弯：换一种过弯路线\n\n保持第1小节不变，但把第2小节做出两个不同结尾。\n\n版本A向上爬进落点。\n版本B向下降进落点。\n\n虽然路线变了，但两个版本都应该一样能让人点头。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final run\n\nCreate **two full 2-bar grooves** using all three ideas:\n- strong beat-1 lane\n- one rest and one burst\n- two different ways to reach the last landing\n\nRecord 30 seconds if possible. Keep the version that feels deepest in the pocket, then move the drill to **C major** and keep the same confidence. 🎸",
+          "pt-BR": "### Volta final\n\nCrie **dois grooves completos de 2 compassos** usando as três ideias:\n- faixa forte no tempo 1\n- uma pausa e uma rajada\n- duas formas diferentes de alcançar a última chegada\n\nSe puder, grave 30 segundos. Fique com a versão mais funda no pocket e depois leve o treino para **Dó maior** mantendo a mesma segurança. 🎸",
+          "es": "### Vuelta final\n\nCrea **dos grooves completos de 2 compases** usando las tres ideas:\n- carril fuerte en el tiempo 1\n- un silencio y una ráfaga\n- dos formas distintas de llegar al último aterrizaje\n\nSi puedes, graba 30 segundos. Quédate con la versión más profunda en el pocket y luego mueve el ejercicio a **Do mayor** con la misma seguridad. 🎸",
+          "de": "### Schlussrunde\n\nErfinde **zwei komplette 2-taktige Grooves** mit allen drei Ideen:\n- starke Spur auf Schlag 1\n- eine Pause und ein Schub\n- zwei verschiedene Wege zur letzten Landung\n\nNimm wenn möglich 30 Sekunden auf. Behalte die Version mit dem tiefsten Pocket und verlege die Übung dann nach **C-Dur**. 🎸",
+          "ja": "### 最終ラン\n\n次の3つを全部使って、**2小節グルーヴを2種類** 作りましょう。\n- 1拍目の強いレーン\n- 休符1つとバースト1つ\n- 最後の着地へ行く2通りの道\n\nできれば30秒録音してください。いちばんポケットが深い方を残し、そのまま **Cメジャー** に移して同じ自信を保てるか試しましょう。🎸",
+          "zh-Hans": "### 最终冲线\n\n把这三件事都放进去，做出 **两个完整的 2 小节 groove**：\n- 第1拍有强车道\n- 一个休止加一次冲刺\n- 用两种不同路线到达最后落点\n\n如果可以就录 30 秒。留下 pocket 最深的版本，然后把练习移到 **C大调**，继续保持同样的把握感。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-01T00:08:11Z",
+  "updatedAt": "2026-05-01T00:08:11Z"
+}

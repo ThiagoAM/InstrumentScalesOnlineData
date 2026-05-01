@@ -1,0 +1,73 @@
+{
+  "id": "guitar-beat-shadow-switch",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Set the scene\n\nUse **E Dorian** (E F# G A B C# D) in one position you know well.\n\nSet a metronome to **86 bpm** and count **1 & 2 & 3 & 4 &** out loud.\n\nToday you will build phrases that feel like they hide in the beat and then jump into the light.",
+          "pt-BR": "### Monte a cena\n\nUse **Mi dórico** (E F# G A B C# D) em uma posição que você já conhece bem.\n\nAjuste o metrônomo para **86 bpm** e conte **1 e 2 e 3 e 4 e** em voz alta.\n\nHoje você vai criar frases que parecem se esconder no beat e depois saltam para a luz.",
+          "es": "### Prepara la escena\n\nUsa **Mi dórico** (E F# G A B C# D) en una posición que conozcas bien.\n\nPon el metrónomo en **86 bpm** y cuenta **1 y 2 y 3 y 4 y** en voz alta.\n\nHoy construirás frases que parecen esconderse dentro del beat y luego saltan a la luz.",
+          "de": "### Bühne aufbauen\n\nNutze **E-Dorisch** (E F# G A B C# D) in einer Lage, die du gut kennst.\n\nStelle das Metronom auf **86 bpm** und zähle **1 und 2 und 3 und 4 und** laut mit.\n\nHeute baust du Phrasen, die sich erst im Beat verstecken und dann plötzlich ins Licht springen.",
+          "ja": "### 舞台を作る\n\nよく知っているポジションで **Eドリアン**（E F# G A B C# D）を使います。\n\nメトロノームは **86 bpm**。**1と2と3と4と** と声に出して数えましょう。\n\n今日は、ビートの影に隠れてから急に前へ出てくるフレーズを作ります。",
+          "zh-Hans": "### 搭好舞台\n\n在你熟悉的一个把位里使用 **E多利亚**（E F# G A B C# D）。\n\n把节拍器设为 **86 bpm**，并大声数 **1 和 2 和 3 和 4 和**。\n\n今天你要做的是：让乐句先躲在拍子影子里，再突然跳到前面来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: make a shadow entrance\n\nCreate a 2-bar phrase where bar 1 starts on **& of 1** or **& of 2**.\n\nRules:\n- use only 4 to 6 notes\n- end bar 1 on **E**, **G**, or **B**\n- leave at least one eighth-note rest\n\nDo 5 clean reps. If the phrase feels messy, remove notes before you raise the tempo.",
+          "pt-BR": "### Rodada 1: faça uma entrada na sombra\n\nCrie uma frase de 2 compassos em que o compasso 1 começa no **e do 1** ou no **e do 2**.\n\nRegras:\n- use apenas 4 a 6 notas\n- termine o compasso 1 em **E**, **G** ou **B**\n- deixe pelo menos uma pausa de colcheia\n\nFaça 5 repetições limpas. Se a frase soar bagunçada, tire notas antes de aumentar o andamento.",
+          "es": "### Ronda 1: crea una entrada en sombra\n\nCrea una frase de 2 compases donde el compás 1 empiece en el **y de 1** o en el **y de 2**.\n\nReglas:\n- usa solo 4 a 6 notas\n- termina el compás 1 en **E**, **G** o **B**\n- deja al menos un silencio de corchea\n\nHaz 5 repeticiones limpias. Si la frase suena desordenada, quita notas antes de subir el tempo.",
+          "de": "### Runde 1: ein Schatten-Einstieg\n\nErfinde eine 2-taktige Phrase, bei der Takt 1 auf **und von 1** oder **und von 2** beginnt.\n\nRegeln:\n- benutze nur 4 bis 6 Töne\n- ende Takt 1 auf **E**, **G** oder **B**\n- lasse mindestens eine Achtelpause\n\nSpiele 5 saubere Wiederholungen. Klingt es chaotisch, nimm erst Noten weg, bevor du das Tempo erhöhst.",
+          "ja": "### ラウンド1：影から入る\n\n1小節目が **1拍目の裏** か **2拍目の裏** から始まる2小節フレーズを作りましょう。\n\nルール：\n- 音は4〜6個だけ使う\n- 1小節目の終わりは **E**、**G**、**B** のどれか\n- 8分休符を少なくとも1つ入れる\n\n5回きれいに繰り返します。散らかって聞こえるなら、テンポを上げる前に音を減らしましょう。",
+          "zh-Hans": "### 第1轮：从影子里进入\n\n做一个 2 小节乐句，让第1小节从 **第1拍后半拍** 或 **第2拍后半拍** 开始。\n\n规则：\n- 只用 4 到 6 个音\n- 第1小节结束在 **E**、**G** 或 **B**\n- 至少留一个八分休止\n\n做 5 次干净重复。如果听起来太乱，先减音，再提速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: switch the landing spot\n\nKeep the same opening rhythm, but change where bar 2 feels resolved.\n\nTry one version that lands on **E** and one that lands on **C#**.\n\nThe rhythm should stay familiar while the destination changes the mood.",
+          "pt-BR": "### Rodada 2: troque o ponto de chegada\n\nMantenha o mesmo ritmo de abertura, mas mude onde o compasso 2 parece resolvido.\n\nFaça uma versão que aterrissa em **E** e outra que aterrissa em **C#**.\n\nO ritmo deve continuar familiar enquanto o destino muda o clima.",
+          "es": "### Ronda 2: cambia el punto de llegada\n\nMantén el mismo ritmo de apertura, pero cambia dónde se siente resuelto el compás 2.\n\nHaz una versión que aterrice en **E** y otra que aterrice en **C#**.\n\nEl ritmo debe seguir siendo familiar mientras el destino cambia el color.",
+          "de": "### Runde 2: den Landeplatz wechseln\n\nBehalte denselben Anfangsrhythmus, aber ändere, wo sich Takt 2 aufgelöst anfühlt.\n\nSpiele eine Version mit Landung auf **E** und eine auf **C#**.\n\nDer Rhythmus soll vertraut bleiben, während das Ziel die Stimmung verändert.",
+          "ja": "### ラウンド2：着地点を変える\n\n入りのリズムはそのままにして、2小節目がどこで解決するかを変えます。\n\n**E** に着地する版と **C#** に着地する版を1つずつ作ってください。\n\nリズムは親しみやすく保ちつつ、行き先だけで空気を変えましょう。",
+          "zh-Hans": "### 第2轮：切换落点\n\n保持同样的开头节奏，但改变第2小节“解决”在哪里。\n\n做一个落在 **E** 的版本，再做一个落在 **C#** 的版本。\n\n节奏要保持熟悉，终点则负责改变气氛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: add one bright accent\n\nPick one weak part of the bar and make it pop.\n\nOptions:\n- accent **& of 2**\n- slide into the last note of bar 1\n- make one answer note shorter and sharper\n\nOne accent is enough. Too many accents flatten the surprise.",
+          "pt-BR": "### Rodada 3: adicione um acento brilhante\n\nEscolha uma parte fraca do compasso e faça ela aparecer.\n\nOpções:\n- acentuar o **e do 2**\n- fazer um slide para a última nota do compasso 1\n- deixar uma nota de resposta mais curta e mais seca\n\nUm acento basta. Acentos demais achatam a surpresa.",
+          "es": "### Ronda 3: añade un acento brillante\n\nElige una parte débil del compás y haz que destaque.\n\nOpciones:\n- acentuar el **y de 2**\n- deslizarte hacia la última nota del compás 1\n- hacer una nota de respuesta más corta y más seca\n\nUn solo acento basta. Demasiados acentos aplastan la sorpresa.",
+          "de": "### Runde 3: ein heller Akzent\n\nWähle eine schwache Stelle im Takt und lass sie hervorstechen.\n\nOptionen:\n- **und von 2** betonen\n- in den letzten Ton von Takt 1 hineinsliden\n- einen Antwortton kürzer und schärfer machen\n\nEin Akzent reicht. Zu viele Akzente machen die Überraschung flach.",
+          "ja": "### ラウンド3：ひとつだけ光るアクセント\n\n拍の弱い場所を1つ選んで、そこを目立たせます。\n\n選択肢：\n- **2拍目の裏** を強調する\n- 1小節目最後の音へスライドで入る\n- 返答の音を1つだけ短く鋭くする\n\nアクセントは1つで十分です。多すぎると驚きが平らになります。",
+          "zh-Hans": "### 第3轮：加一个发亮的重音\n\n挑一个弱位置，让它突然醒过来。\n\n选项：\n- 强调 **第2拍后半拍**\n- 滑进第1小节最后一个音\n- 把一个回答音弹得更短、更利落\n\n一个重音就够了。太多重音会把惊喜压平。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nCreate **two different 2-bar solos** using all three ideas:\n- delayed entrance\n- switched landing note\n- one spotlight accent\n\nRecord them if possible. Keep the version that grooves hardest, then move the whole game to **A Dorian** and keep the same control. 🎸",
+          "pt-BR": "### Desafio final\n\nCrie **dois solos diferentes de 2 compassos** usando as três ideias:\n- entrada atrasada\n- troca da nota de chegada\n- um acento em destaque\n\nSe puder, grave. Fique com a versão que mais grooveia e depois leve o mesmo jogo para **Lá dórico** mantendo o mesmo controle. 🎸",
+          "es": "### Desafío final\n\nCrea **dos solos distintos de 2 compases** usando las tres ideas:\n- entrada tardía\n- cambio de nota de llegada\n- un acento protagonista\n\nSi puedes, grábate. Quédate con la versión que más groove tenga y luego mueve el juego a **La dórico** con el mismo control. 🎸",
+          "de": "### Abschluss-Challenge\n\nErfinde **zwei verschiedene 2-taktige Soli** mit allen drei Ideen:\n- später Einstieg\n- wechselnder Zielton\n- ein Spotlight-Akzent\n\nNimm sie wenn möglich auf. Behalte die Version mit dem stärksten Groove und verlege das ganze Spiel dann nach **A-Dorisch**. 🎸",
+          "ja": "### 最終チャレンジ\n\n次の3つを全部使って、**2小節ソロを2種類** 作りましょう。\n- 遅れた入り\n- 着地点の切り替え\n- 目立つアクセント1つ\n\nできれば録音してください。いちばんグルーヴする方を残し、そのまま **Aドリアン** に移して同じコントロールを保てるか試しましょう。🎸",
+          "zh-Hans": "### 最终挑战\n\n把这三件事都放进去，做出 **两个不同的 2 小节独奏**：\n- 延迟进入\n- 切换落点音\n- 一个聚光灯重音\n\n如果可以就录下来。留下 groove 最强的版本，然后把整套游戏移到 **A多利亚**，看看你还能不能保持同样的控制力。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-01T00:08:10Z",
+  "updatedAt": "2026-05-01T00:08:10Z"
+}

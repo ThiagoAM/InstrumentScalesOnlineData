@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-04-30T00:08:00Z",
     "updatedAt": "2026-04-30T00:08:00Z"
+  },
+  {
+    "id": "guitar-beat-shadow-switch",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Beat Shadow Switch in E Dorian",
+        "pt-BR": "Troca de Sombra do Beat em Mi Dórico",
+        "es": "Cambio de Sombra del Beat en Mi Dórico",
+        "de": "Beat-Schattenwechsel in E-Dorisch",
+        "ja": "Eドリアンのビート・シャドウ切り替え",
+        "zh-Hans": "E多利亚节拍影子切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sneak guitar phrases behind the beat, then switch their landing spot without losing the groove.",
+        "pt-BR": "Esconda frases de guitarra atrás do pulso e troque o ponto de chegada sem perder o groove.",
+        "es": "Esconde frases de guitarra detrás del pulso y cambia su punto de llegada sin perder el groove.",
+        "de": "Verstecke Gitarrenphrasen hinter dem Puls und wechsle den Zielton, ohne den Groove zu verlieren.",
+        "ja": "ギターのフレーズを拍の裏に隠し、着地点を変えてもグルーヴを失わない練習です。",
+        "zh-Hans": "把吉他乐句藏在拍点后面，再切换落点，同时保持 groove 不散。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-05-01T00:08:10Z",
+    "updatedAt": "2026-05-01T00:08:10Z"
   }
 ]

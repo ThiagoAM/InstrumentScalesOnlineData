@@ -950,5 +950,33 @@
     "order": 34,
     "createdAt": "2026-04-30T00:08:00Z",
     "updatedAt": "2026-04-30T00:08:00Z"
+  },
+  {
+    "id": "pocket-slalom-a-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Slalom in A Major",
+        "pt-BR": "Slalom de Pocket em Lá Maior",
+        "es": "Slalom de Pocket en La Mayor",
+        "de": "Pocket-Slalom in A-Dur",
+        "ja": "Aメジャーのポケット・スラローム",
+        "zh-Hans": "A大调 Pocket 回转赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Weave bass notes through tight turns, short rests, and strong landings to build a cleaner pocket.",
+        "pt-BR": "Costure notas de baixo entre curvas rápidas, pausas curtas e chegadas fortes para construir um pocket mais limpo.",
+        "es": "Teje notas de bajo entre giros rápidos, silencios cortos y aterrizajes firmes para construir un pocket más limpio.",
+        "de": "Fädle Basstöne durch enge Kurven, kurze Pausen und starke Landungen, um ein saubereres Pocket zu bauen.",
+        "ja": "速いカーブ、短い休符、強い着地を通して、よりクリーンなベースのポケットを作る練習です。",
+        "zh-Hans": "让贝斯音在急转、短休止和强落点之间穿梭，练出更干净的 pocket。"
+      }
+    },
+    "order": 35,
+    "createdAt": "2026-05-01T00:08:11Z",
+    "updatedAt": "2026-05-01T00:08:11Z"
   }
 ]

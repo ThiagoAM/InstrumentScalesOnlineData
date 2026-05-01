@@ -726,5 +726,33 @@
     "order": 26,
     "createdAt": "2026-04-30T00:08:00Z",
     "updatedAt": "2026-04-30T00:08:00Z"
+  },
+  {
+    "id": "scale-lantern-relay-bb-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Lantern Relay in Bb Major",
+        "pt-BR": "Revezamento da Lanterna na Escala em Sib Maior",
+        "es": "Relevo de Linterna en la Escala en Sib Mayor",
+        "de": "Laternen-Staffel in B-Dur",
+        "ja": "Bbメジャーのランタン・リレー",
+        "zh-Hans": "Bb大调音阶灯笼接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pass the lead between your hands while keeping two-octave piano scales even, clear, and musical.",
+        "pt-BR": "Passe a liderança entre as mãos mantendo escalas de piano em duas oitavas uniformes, claras e musicais.",
+        "es": "Pasa el liderazgo entre tus manos mientras mantienes escalas de piano de dos octavas parejas, claras y musicales.",
+        "de": "Übergib die Führung zwischen deinen Händen und halte zweioctavige Klavierskalen gleichmäßig, klar und musikalisch.",
+        "ja": "両手の主役を受け渡しながら、2オクターブのピアノスケールを均一で音楽的に保つ練習です。",
+        "zh-Hans": "在双手之间传递主导权，同时把两八度钢琴音阶保持得均匀、清晰又有音乐性。"
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-05-01T00:08:11Z",
+    "updatedAt": "2026-05-01T00:08:11Z"
   }
 ]
