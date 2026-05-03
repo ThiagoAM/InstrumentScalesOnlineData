@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-04-29T00:04:06Z",
     "updatedAt": "2026-04-29T00:04:06Z"
+  },
+  {
+    "id": "guitar-tension-trampoline",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Tension Trampoline",
+        "pt-BR": "Trampolim de Tensão",
+        "es": "Trampolín de Tensión",
+        "de": "Spannungs-Trampolin",
+        "ja": "テンション・トランポリン",
+        "zh-Hans": "张力蹦床"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce between safe notes and spicy notes to make your guitar solos sound intentional.",
+        "pt-BR": "Salte entre notas seguras e notas apimentadas para fazer seus solos de guitarra soarem intencionais.",
+        "es": "Salta entre notas seguras y notas picantes para que tus solos de guitarra suenen intencionales.",
+        "de": "Springe zwischen sicheren und würzigen Tönen, damit deine Gitarrensoli bewusst und lebendig klingen.",
+        "ja": "安定した音とスパイス音を行き来して、ギターソロを意図的で生きたものにしよう。",
+        "zh-Hans": "在安全音和刺激音之间弹跳，让你的吉他独奏更有意图也更有生命力。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-05-03T00:08:53Z",
+    "updatedAt": "2026-05-03T00:08:53Z"
   }
 ]

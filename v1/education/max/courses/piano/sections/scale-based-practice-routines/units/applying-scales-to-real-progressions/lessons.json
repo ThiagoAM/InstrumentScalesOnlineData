@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-04-16T00:09:07Z",
     "updatedAt": "2026-04-16T00:09:07Z"
+  },
+  {
+    "id": "piano-chord-lantern-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord Lantern Run",
+        "pt-BR": "Corrida da Lanterna Harmônica",
+        "es": "Carrera de la Linterna Armónica",
+        "de": "Harmonischer Laternenlauf",
+        "ja": "コード・ランタン・ラン",
+        "zh-Hans": "和弦灯笼冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up each chord change with scale notes that guide your piano lines through the dark.",
+        "pt-BR": "Ilumine cada mudança de acorde com notas da escala que guiam sua linha de piano no escuro.",
+        "es": "Ilumina cada cambio de acorde con notas de la escala que guíen tu línea de piano en la oscuridad.",
+        "de": "Beleuchte jeden Akkordwechsel mit Skalentönen, die deine Klavierlinie sicher durch das Dunkel führen.",
+        "ja": "音階の音で各コードチェンジを照らし、ピアノのラインを暗闇の中でも見失わないようにしよう。",
+        "zh-Hans": "用音阶音点亮每一次和弦变化，让你的钢琴旋律在黑暗中也不会迷路。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-05-03T00:12:30Z",
+    "updatedAt": "2026-05-03T00:12:30Z"
   }
 ]

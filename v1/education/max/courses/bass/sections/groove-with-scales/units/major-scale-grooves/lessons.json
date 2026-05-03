@@ -978,5 +978,33 @@
     "order": 35,
     "createdAt": "2026-05-01T00:08:11Z",
     "updatedAt": "2026-05-01T00:08:11Z"
+  },
+  {
+    "id": "bass-pocket-periscope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Periscope",
+        "pt-BR": "Periscópio do Pocket",
+        "es": "Periscopio del Pocket",
+        "de": "Pocket-Periskop",
+        "ja": "ポケット・ペリスコープ",
+        "zh-Hans": "Pocket 潜望镜"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Scan the groove from below the surface and surface at exactly the right beat on bass.",
+        "pt-BR": "Observe o groove por baixo da superfície e emerja exatamente no tempo certo no baixo.",
+        "es": "Observa el groove bajo la superficie y emerge exactamente en el pulso correcto con el bajo.",
+        "de": "Beobachte den Groove unter der Oberfläche und tauche auf dem genau richtigen Schlag auf.",
+        "ja": "グルーヴを水面下から観察し、ベースでちょうどいい拍に浮上しよう。",
+        "zh-Hans": "从水面下观察 groove，再在最对的拍点上用贝斯浮出水面。"
+      }
+    },
+    "order": 36,
+    "createdAt": "2026-05-03T00:10:04Z",
+    "updatedAt": "2026-05-03T00:10:04Z"
   }
 ]

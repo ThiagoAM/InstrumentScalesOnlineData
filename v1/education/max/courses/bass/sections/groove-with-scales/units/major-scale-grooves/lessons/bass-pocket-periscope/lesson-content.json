@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-periscope",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to **Pocket Periscope**. Today you are the submarine captain of the rhythm section. Your job is not to fill every beat with notes. Your job is to **watch the groove, spot the opening, and surface exactly where the pocket feels strongest**.\n\nUse a simple vamp in **G major** or **D major**. Start with roots, fifths, and scale steps you already know. The challenge is musical timing, not fretboard panic.",
+          "pt-BR": "Bem-vindo ao **Periscópio do Pocket**. Hoje você é o capitão submarino da seção rítmica. Sua função não é encher cada tempo de notas. Sua função é **observar o groove, enxergar a abertura e emergir exatamente onde o pocket fica mais forte**.\n\nUse um vamp simples em **Sol maior** ou **Ré maior**. Comece com tônicas, quintas e passos de escala que você já conhece. O desafio aqui é tempo musical, não pânico no braço.",
+          "es": "Bienvenido al **Periscopio del Pocket**. Hoy eres el capitán submarino de la sección rítmica. Tu trabajo no es llenar cada pulso de notas. Tu trabajo es **vigilar el groove, detectar la abertura y emerger justo donde el pocket se siente más fuerte**.\n\nUsa un vamp sencillo en **Sol mayor** o **Re mayor**. Empieza con tónicas, quintas y grados de escala que ya conozcas. El reto aquí es el tiempo musical, no el pánico en el mástil.",
+          "de": "Willkommen beim **Pocket-Periskop**. Heute bist du der U-Boot-Kapitän der Rhythmusgruppe. Deine Aufgabe ist nicht, jeden Schlag mit Noten zu füllen. Deine Aufgabe ist es, **den Groove zu beobachten, die Öffnung zu sehen und genau dort aufzutauchen, wo sich das Pocket am stärksten anfühlt**.\n\nNutze einen einfachen Vamp in **G-Dur** oder **D-Dur**. Beginne mit Grundtönen, Quinten und Skalen-Schritten, die du schon kennst. Die Herausforderung ist musikalisches Timing, nicht Griffbrett-Panik.",
+          "ja": "**ポケット・ペリスコープ**へようこそ。今日はあなたがリズム隊の潜水艦キャプテンです。仕事は、すべての拍を音で埋めることではありません。仕事は **グルーヴを観察し、入り口を見つけ、ポケットがいちばん強く感じられる瞬間に浮上すること** です。\n\n**Gメジャー**または**Dメジャー**のシンプルなヴァンプを使いましょう。まずは、すでに知っているルート、5度、スケールのステップから始めます。課題は指板サバイバルではなく、音楽的なタイミングです。",
+          "zh-Hans": "欢迎来到 **Pocket 潜望镜**。今天你是节奏组的潜艇舰长。你的任务不是把每一拍都塞满音符，而是 **观察 groove、发现开口，并在 pocket 最有力的地方精准浮出水面**。\n\n用一个简单的 **G 大调** 或 **D 大调** vamp 开始。先从你已经熟悉的根音、五度和音阶步进出发。今天的挑战是音乐时间感，不是指板生存恐慌。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 1 is the **sonar phase**. Play a one-bar groove, then repeat it three times without changing the notes.\n\nWhile repeating, listen for:\n- which note feels like the anchor\n- where the groove breathes naturally\n- whether your last note pulls into bar 2 or lands too early\n\nIf you cannot sing the rhythm back, the groove is still too foggy.",
+          "pt-BR": "A Fase 1 é a **fase do sonar**. Toque um groove de um compasso e depois repita a mesma ideia três vezes sem trocar as notas.\n\nEnquanto repete, escute:\n- qual nota parece a âncora\n- onde o groove respira naturalmente\n- se a nota final puxa para o compasso 2 ou chega cedo demais\n\nSe você não consegue cantar o ritmo de volta, o groove ainda está nebuloso demais.",
+          "es": "La Fase 1 es la **fase de sonar**. Toca un groove de un compás y repítelo tres veces sin cambiar las notas.\n\nMientras lo repites, escucha:\n- qué nota se siente como ancla\n- dónde respira el groove de forma natural\n- si la última nota empuja al compás 2 o cae demasiado pronto\n\nSi no puedes cantar el ritmo de vuelta, el groove todavía está demasiado borroso.",
+          "de": "Phase 1 ist die **Sonar-Phase**. Spiele einen ein-taktigen Groove und wiederhole ihn dann dreimal, ohne die Töne zu ändern.\n\nAchte beim Wiederholen auf Folgendes:\n- welcher Ton sich wie der Anker anfühlt\n- wo der Groove natürlich atmet\n- ob dein letzter Ton in Takt 2 zieht oder zu früh landet\n\nWenn du den Rhythmus nicht zurücksingen kannst, ist der Groove noch zu verschwommen.",
+          "ja": "フェーズ1は**ソナー・フェーズ**です。1小節のグルーヴを作り、それを音を変えずに3回くり返します。\n\nくり返しながら、次の点を聴きます。\n- どの音がアンカーに感じられるか\n- グルーヴがどこで自然に呼吸するか\n- 最後の音が2小節目へ引っ張るのか、早く着地しすぎるのか\n\nそのリズムを歌い返せないなら、まだグルーヴはぼんやりしています。",
+          "zh-Hans": "第 1 阶段是**声呐阶段**。先做一个一小节 groove，然后在不改音高的情况下连续重复三次。\n\n重复时注意听：\n- 哪个音像锚点\n- groove 在哪里自然呼吸\n- 最后一个音是把你拉向第 2 小节，还是落得太早\n\n如果你没法把这个节奏哼回来，说明 groove 还太模糊。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 2 is the **surface-and-dive phase**. Keep the same basic groove, but add one short move away from the root before returning.\n\nTry one of these moves:\n- root → 2nd → 3rd → root\n- root → 5th → 6th → 5th\n- root → ghost note → octave → root\n\nThink small. A great bass detour sounds confident, not touristy.",
+          "pt-BR": "A Fase 2 é a **fase de emergir e mergulhar**. Mantenha o groove básico, mas adicione um pequeno movimento para longe da tônica antes de voltar.\n\nExperimente um destes caminhos:\n- tônica → 2ª → 3ª → tônica\n- tônica → 5ª → 6ª → 5ª\n- tônica → ghost note → oitava → tônica\n\nPense pequeno. Um bom desvio de baixo soa confiante, não turístico.",
+          "es": "La Fase 2 es la **fase de subir y bajar**. Mantén el groove básico, pero añade un pequeño viaje fuera de la tónica antes de regresar.\n\nPrueba uno de estos caminos:\n- tónica → 2ª → 3ª → tónica\n- tónica → 5ª → 6ª → 5ª\n- tónica → ghost note → octava → tónica\n\nPiensa en pequeño. Un buen desvío de bajo suena seguro, no turístico.",
+          "de": "Phase 2 ist die **Auftauch-und-Abtauch-Phase**. Behalte den Grundgroove bei, füge aber einen kurzen Weg weg vom Grundton hinzu, bevor du zurückkehrst.\n\nProbiere einen dieser Wege:\n- Grundton → 2 → 3 → Grundton\n- Grundton → 5 → 6 → 5\n- Grundton → Ghost Note → Oktave → Grundton\n\nDenk klein. Ein guter Bass-Umweg klingt selbstbewusst, nicht touristisch.",
+          "ja": "フェーズ2は**浮上と潜行のフェーズ**です。基本グルーヴは保ちながら、ルートから少し離れてまた戻る動きを1つ加えます。\n\n次のような動きを試してください。\n- ルート → 2度 → 3度 → ルート\n- ルート → 5度 → 6度 → 5度\n- ルート → ゴーストノート → オクターブ → ルート\n\n考え方は小さく。よいベースの寄り道は、自信があり、観光っぽくありません。",
+          "zh-Hans": "第 2 阶段是**浮出与下潜阶段**。保留同一个基础 groove，但在回到根音之前，先做一次短暂离开。\n\n可以试这些路线：\n- 根音 → 2 度 → 3 度 → 根音\n- 根音 → 5 度 → 6 度 → 5 度\n- 根音 → 幽灵音 → 八度 → 根音\n\n想法要小。好的贝斯绕行听起来像自信，不像观光。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 3 is the **accent radar phase**. Play the same notes, but move the strongest accent to a different place.\n\nTest these versions:\n- accent beat 1\n- accent the “and” of 2\n- accent beat 4 and leave space after it\n\nYou are proving that the pocket is not just about what note you choose. It is also about **where the body feels the weight**.",
+          "pt-BR": "A Fase 3 é a **fase do radar de acentos**. Toque as mesmas notas, mas mova o acento mais forte para outro lugar.\n\nTeste estas versões:\n- acento no tempo 1\n- acento no contratempo do 2\n- acento no tempo 4 e deixe espaço depois\n\nVocê está provando que pocket não depende só de qual nota foi escolhida. Depende também de **onde o corpo sente o peso**.",
+          "es": "La Fase 3 es la **fase de radar de acentos**. Toca las mismas notas, pero mueve el acento más fuerte a otro lugar.\n\nPrueba estas versiones:\n- acento en el tiempo 1\n- acento en el “y” de 2\n- acento en el tiempo 4 y deja espacio después\n\nEstás demostrando que el pocket no depende solo de qué nota eliges. También depende de **dónde siente el cuerpo el peso**.",
+          "de": "Phase 3 ist die **Akzent-Radar-Phase**. Spiele dieselben Töne, aber verschiebe den stärksten Akzent an eine andere Stelle.\n\nTeste diese Versionen:\n- Akzent auf Zählzeit 1\n- Akzent auf das „und“ von 2\n- Akzent auf Zählzeit 4 und danach Raum lassen\n\nDu beweist damit, dass Pocket nicht nur davon lebt, **welchen** Ton du spielst. Es geht auch darum, **wo der Körper das Gewicht spürt**.",
+          "ja": "フェーズ3は**アクセント・レーダー・フェーズ**です。同じ音を弾きながら、最も強いアクセントの位置だけを変えます。\n\n次のバージョンを試しましょう。\n- 1拍目にアクセント\n- 2拍目の裏にアクセント\n- 4拍目にアクセントを置いて、そのあとにスペースを残す\n\nここで証明したいのは、ポケットはどの音を選ぶかだけで決まらないということです。**体がどこに重さを感じるか** も同じくらい大事です。",
+          "zh-Hans": "第 3 阶段是**重音雷达阶段**。音不变，只把最强的重音移到别的位置。\n\n测试这些版本：\n- 重音放在第 1 拍\n- 重音放在第 2 拍的后半拍\n- 重音放在第 4 拍，并在后面留出空间\n\n你要证明的是：pocket 不只取决于你弹了什么音，也取决于 **身体把重量感放在哪里**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 4 is the **ghost-lane phase**. Replace one normal note with a ghost note or a short rest. Then decide whether the groove got tighter or weaker.\n\nA good ghost note should:\n- keep the pulse alive\n- make the next real note feel stronger\n- sound intentional, not accidental\n\nIf the groove loses spine, put the note back and remove something else instead.",
+          "pt-BR": "A Fase 4 é a **fase da faixa fantasma**. Troque uma nota normal por uma ghost note ou por uma pausa curta. Depois decida se o groove ficou mais firme ou mais fraco.\n\nUma boa ghost note deve:\n- manter o pulso vivo\n- fazer a próxima nota real soar mais forte\n- parecer intencional, não acidental\n\nSe o groove perder coluna, devolva a nota e remova outra coisa no lugar.",
+          "es": "La Fase 4 es la **fase del carril fantasma**. Sustituye una nota normal por una ghost note o por un silencio corto. Luego decide si el groove quedó más sólido o más débil.\n\nUna buena ghost note debe:\n- mantener vivo el pulso\n- hacer que la siguiente nota real tenga más fuerza\n- sonar intencional, no accidental\n\nSi el groove pierde columna, devuelve esa nota y quita otra cosa en su lugar.",
+          "de": "Phase 4 ist die **Geisterspur-Phase**. Ersetze einen normalen Ton durch eine Ghost Note oder eine kurze Pause. Entscheide dann, ob der Groove enger oder schwächer geworden ist.\n\nEine gute Ghost Note sollte:\n- den Puls lebendig halten\n- den nächsten echten Ton stärker wirken lassen\n- bewusst und nicht zufällig klingen\n\nWenn der Groove Rückgrat verliert, setz den Ton wieder ein und nimm stattdessen etwas anderes heraus.",
+          "ja": "フェーズ4は**ゴーストレーン・フェーズ**です。通常の音を1つ、ゴーストノートか短い休符に置き換えます。その結果、グルーヴが締まったのか、弱くなったのかを判断します。\n\n良いゴーストノートは次の条件を満たします。\n- パルスを生かし続ける\n- 次の本音をより強く感じさせる\n- 偶然ではなく意図的に聞こえる\n\nもしグルーヴの背骨が弱くなったら、その音を戻して別の場所を削ってください。",
+          "zh-Hans": "第 4 阶段是**幽灵车道阶段**。把一个正常音换成幽灵音或短休止，然后判断 groove 是更紧了，还是更虚了。\n\n一个好的幽灵音应该：\n- 让脉冲继续活着\n- 让下一个真实音更有冲击力\n- 听起来像有意安排，而不是失误\n\n如果 groove 失去了骨架，就把那个音放回去，改删别的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: build a **4-bar bass loop** with all of these ingredients:\n- **1 anchor pattern** you can repeat\n- **1 short detour** from the root\n- **1 accent switch**\n- **1 ghost note or rest** that improves the pocket\n\nRecord it and ask: **Would a drummer trust this line?** If the answer is yes, your periscope found the pocket.",
+          "pt-BR": "Missão final: monte um **loop de baixo de 4 compassos** com todos estes ingredientes:\n- **1 padrão-âncora** que você consiga repetir\n- **1 desvio curto** a partir da tônica\n- **1 troca de acento**\n- **1 ghost note ou pausa** que melhore o pocket\n\nGrave e pergunte: **um baterista confiaria nessa linha?** Se a resposta for sim, seu periscópio encontrou o pocket.",
+          "es": "Misión final: construye un **loop de bajo de 4 compases** con todos estos ingredientes:\n- **1 patrón ancla** que puedas repetir\n- **1 desvío corto** desde la tónica\n- **1 cambio de acento**\n- **1 ghost note o silencio** que mejore el pocket\n\nGrábalo y pregúntate: **¿un baterista confiaría en esta línea?** Si la respuesta es sí, tu periscopio encontró el pocket.",
+          "de": "Finale Mission: Baue einen **4-taktigen Bass-Loop** mit all diesen Zutaten:\n- **1 Anker-Muster**, das du wiederholen kannst\n- **1 kurzen Umweg** vom Grundton weg\n- **1 Akzentwechsel**\n- **1 Ghost Note oder Pause**, die das Pocket verbessert\n\nNimm es auf und frag dich: **Würde ein Drummer dieser Linie vertrauen?** Wenn ja, hat dein Periskop das Pocket gefunden.",
+          "ja": "最後のミッションは、次の材料を入れた**4小節のベース・ループ**を作ることです。\n- くり返せる **1つのアンカー・パターン**\n- ルートからの **1つの短い寄り道**\n- **1回のアクセント切り替え**\n- ポケットを改善する **1つのゴーストノートまたは休符**\n\n録音して、自分に聞いてみましょう。**ドラマーはこのラインを信頼できるか？** もし答えがイエスなら、あなたのペリスコープはポケットを見つけました。",
+          "zh-Hans": "最终任务：做一个 **4 小节贝斯循环**，里面要有：\n- **1 个可重复的锚点型**\n- **1 次离开根音的短绕行**\n- **1 次重音切换**\n- **1 个能改善 pocket 的幽灵音或休止**\n\n录下来，然后问自己：**鼓手会信任这条线吗？** 如果答案是会，那你的潜望镜就真的找到 pocket 了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-03T00:10:04Z",
+  "updatedAt": "2026-05-03T00:10:04Z"
+}

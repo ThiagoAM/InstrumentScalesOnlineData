@@ -1,0 +1,86 @@
+{
+  "id": "piano-chord-lantern-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to **Chord Lantern Run**. Imagine you are running through a dark hallway of chord changes with only a lantern in your hand. The lantern is your ear, and every time the harmony changes, you need to shine the light on the right note fast enough to stay oriented.\n\nUse a friendly progression like **C–Am–F–G** or **G–Em–C–D**. Keep your left hand simple if needed. Today the real work is in the **right-hand scale choices and the timing of your landings**.",
+          "pt-BR": "Bem-vindo à **Corrida da Lanterna Harmônica**. Imagine que você está correndo por um corredor escuro de mudanças de acorde com apenas uma lanterna na mão. A lanterna é o seu ouvido, e cada vez que a harmonia muda você precisa jogar luz na nota certa rápido o bastante para não perder a direção.\n\nUse uma progressão amigável como **C–Am–F–G** ou **G–Em–C–D**. Deixe a mão esquerda simples se precisar. Hoje o trabalho real está nas **escolhas da escala na mão direita e no timing das chegadas**.",
+          "es": "Bienvenido a **Carrera de la Linterna Armónica**. Imagina que corres por un pasillo oscuro de cambios de acorde con solo una linterna en la mano. La linterna es tu oído, y cada vez que cambia la armonía necesitas iluminar la nota correcta lo bastante rápido como para no perder la orientación.\n\nUsa una progresión amable como **C–Am–F–G** o **G–Em–C–D**. Mantén la mano izquierda sencilla si hace falta. Hoy el trabajo real está en **las decisiones de escala de la mano derecha y en el tiempo de tus aterrizajes**.",
+          "de": "Willkommen beim **Harmonischen Laternenlauf**. Stell dir vor, du läufst durch einen dunklen Flur voller Akkordwechsel und hast nur eine Laterne in der Hand. Diese Laterne ist dein Gehör, und jedes Mal, wenn sich die Harmonie ändert, musst du schnell genug den richtigen Ton anleuchten, um die Orientierung zu behalten.\n\nNutze eine freundliche Progression wie **C–Am–F–G** oder **G–Em–C–D**. Halte die linke Hand bei Bedarf ganz einfach. Die eigentliche Arbeit steckt heute in den **Skalenentscheidungen der rechten Hand und im Timing deiner Landungen**.",
+          "ja": "**コード・ランタン・ラン**へようこそ。暗い廊下のようなコード進行の中を、手にしたランタンひとつで走っていると想像してください。そのランタンはあなたの耳であり、ハーモニーが変わるたびに正しい音を素早く照らして、道を見失わないようにする必要があります。\n\n**C–Am–F–G** や **G–Em–C–D** のような扱いやすい進行を使いましょう。必要なら左手はとてもシンプルでかまいません。今日は **右手のスケール選びと着地点のタイミング** が本当の仕事です。",
+          "zh-Hans": "欢迎来到 **和弦灯笼冲刺**。想象你正拿着一盏灯笼，跑过一条由和弦变化组成的黑暗走廊。那盏灯笼就是你的耳朵，而每当和声变化时，你都得足够快地照到正确的音，才能不失去方向。\n\n用一个友好的进行开始，比如 **C–Am–F–G** 或 **G–Em–C–D**。如果需要，左手可以保持非常简单。今天真正的训练重点是 **右手的音阶选择，以及每次落点的时机**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 1 is the **lantern check**. Before improvising, identify one reliable landing note for each chord.\n\nFor example in **C–Am–F–G** you could target:\n- C over **C**\n- A or C over **Am**\n- A or F over **F**\n- B or G over **G**\n\nPlay only whole notes first. If you cannot hear why each target fits, slow down and sing it before playing.",
+          "pt-BR": "A Etapa 1 é a **checagem da lanterna**. Antes de improvisar, identifique uma nota de chegada confiável para cada acorde.\n\nPor exemplo, em **C–Am–F–G**, você pode mirar em:\n- C sobre **C**\n- A ou C sobre **Am**\n- A ou F sobre **F**\n- B ou G sobre **G**\n\nPrimeiro toque só com semibreves. Se você não escuta por que cada alvo funciona, diminua e cante antes de tocar.",
+          "es": "La Etapa 1 es la **revisión de la linterna**. Antes de improvisar, identifica una nota de llegada fiable para cada acorde.\n\nPor ejemplo, en **C–Am–F–G** podrías apuntar a:\n- C sobre **C**\n- A o C sobre **Am**\n- A o F sobre **F**\n- B o G sobre **G**\n\nPrimero toca solo redondas. Si no escuchas por qué funciona cada objetivo, ve más lento y cántalo antes de tocar.",
+          "de": "Stufe 1 ist der **Laternen-Check**. Bevor du improvisierst, bestimme für jeden Akkord einen verlässlichen Zielton.\n\nIn **C–Am–F–G** könntest du zum Beispiel ansteuern:\n- C über **C**\n- A oder C über **Am**\n- A oder F über **F**\n- B oder G über **G**\n\nSpiele zunächst nur ganze Noten. Wenn du nicht hörst, warum jeder Zielton passt, geh langsamer und singe ihn erst.",
+          "ja": "ステージ1は**ランタン確認**です。即興を始める前に、各コードに対して信頼できる着地音を1つ決めます。\n\nたとえば **C–Am–F–G** なら、次のように狙えます。\n- **C** の上では C\n- **Am** の上では A または C\n- **F** の上では A または F\n- **G** の上では B または G\n\n最初は全音符だけで弾いてください。なぜその音が合うのか耳でわからないなら、スピードを落として先に歌いましょう。",
+          "zh-Hans": "第 1 阶段是**灯笼检查**。在开始即兴之前，先为每个和弦找出一个可靠的落点音。\n\n例如在 **C–Am–F–G** 中，你可以瞄准：\n- **C** 上用 C\n- **Am** 上用 A 或 C\n- **F** 上用 A 或 F\n- **G** 上用 B 或 G\n\n先只弹全音符。如果你听不出这些目标为什么合适，就放慢速度，先唱出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 2 is the **two-step run**. Now connect each landing note with only **one or two scale notes** before the next chord arrives.\n\nRules:\n- do not rush just because the keyboard gives you ten fingers\n- keep the line smooth enough to sing\n- when in doubt, move by step instead of leaping wildly\n\nThis phase teaches you that elegant piano fill-ins are often tiny, not crowded.",
+          "pt-BR": "A Etapa 2 é a **corrida de dois passos**. Agora conecte cada nota de chegada usando só **uma ou duas notas da escala** antes do próximo acorde chegar.\n\nRegras:\n- não corra só porque o teclado lhe dá dez dedos\n- mantenha a linha suave o bastante para cantar\n- na dúvida, ande por grau conjunto em vez de saltar sem rumo\n\nEsta etapa ensina que bons preenchimentos no piano costumam ser pequenos, não lotados.",
+          "es": "La Etapa 2 es la **carrera de dos pasos**. Ahora conecta cada nota de llegada usando solo **una o dos notas de la escala** antes de que llegue el siguiente acorde.\n\nReglas:\n- no corras solo porque el teclado te da diez dedos\n- mantén la línea lo bastante suave como para cantarla\n- en caso de duda, muévete por grado conjunto en vez de saltar sin control\n\nEsta etapa te enseña que los buenos rellenos de piano suelen ser pequeños, no abarrotados.",
+          "de": "Stufe 2 ist der **Zwei-Schritte-Lauf**. Verbinde jetzt jeden Zielton mit nur **einem oder zwei Skalentönen**, bevor der nächste Akkord kommt.\n\nRegeln:\n- hetze nicht, nur weil das Klavier dir zehn Finger gibt\n- halte die Linie so fließend, dass du sie singen könntest\n- wenn du unsicher bist, geh schrittweise statt wild zu springen\n\nDiese Phase zeigt dir, dass elegante Piano-Fill-Ins oft klein und nicht überfüllt sind.",
+          "ja": "ステージ2は**ツーステップ走法**です。次のコードが来るまでに、各着地音を **1音か2音のスケール音だけ** でつなぎます。\n\nルール:\n- 鍵盤には10本の指があるからといって急がない\n- 歌えるくらい滑らかなラインに保つ\n- 迷ったら無理な跳躍より順次進行を選ぶ\n\nこの段階で学ぶのは、よいピアノのフィルは大きく盛るより、小さく美しくつなぐことが多いという点です。",
+          "zh-Hans": "第 2 阶段是**两步冲刺**。现在在下一个和弦到来之前，只用 **1 到 2 个音阶音** 去连接每个落点音。\n\n规则：\n- 不要因为钢琴有十根手指就开始赶路\n- 让旋律顺滑到可以唱出来\n- 拿不准时，优先级进，不要乱跳\n\n这一阶段会提醒你：好的钢琴填充通常很小巧，而不是很拥挤。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 3 is the **late-lantern challenge**. Deliberately arrive a little late once in a while, then recover cleanly.\n\nTry this:\n- hold the previous note slightly longer\n- enter on the “and” after the chord change\n- still land on a note that sounds chosen, not accidental\n\nThat small delay creates human phrasing. The goal is expressive timing, not getting lost in traffic.",
+          "pt-BR": "A Etapa 3 é o **desafio da lanterna atrasada**. De propósito, chegue um pouco tarde de vez em quando e depois se recupere com limpeza.\n\nExperimente isto:\n- segure a nota anterior um pouco mais\n- entre no “e” logo depois da troca de acorde\n- ainda assim aterrisse em uma nota que pareça escolhida, não acidental\n\nEsse pequeno atraso cria fraseado humano. O objetivo é timing expressivo, não se perder no trânsito.",
+          "es": "La Etapa 3 es el **desafío de la linterna tardía**. A propósito, llega un poco tarde de vez en cuando y luego recupérate con limpieza.\n\nPrueba esto:\n- sostén la nota anterior un poco más\n- entra en el “y” después del cambio de acorde\n- aun así aterriza en una nota que suene elegida, no accidental\n\nEse pequeño retraso crea fraseo humano. El objetivo es un timing expresivo, no perderte en el tráfico.",
+          "de": "Stufe 3 ist die **Spät-Laternen-Challenge**. Komm absichtlich manchmal etwas zu spät an und fange dich dann sauber wieder.\n\nVersuch Folgendes:\n- halte den vorherigen Ton etwas länger\n- setze auf dem „und“ nach dem Akkordwechsel ein\n- lande trotzdem auf einem Ton, der gewählt und nicht zufällig klingt\n\nDiese kleine Verzögerung erzeugt menschliche Phrasierung. Das Ziel ist ausdrucksstarkes Timing, nicht Verkehrschaos.",
+          "ja": "ステージ3は**遅れて照らすチャレンジ**です。ときどきわざと少し遅れて着地し、そのあとをきれいに立て直します。\n\n次を試してください。\n- 前の音を少し長く保つ\n- コードチェンジ後の裏拍で入る\n- それでも偶然ではなく、選んだ音に聞こえる着地をする\n\nこの小さな遅れが人間らしいフレージングを作ります。目標は渋滞ではなく、表情あるタイミングです。",
+          "zh-Hans": "第 3 阶段是**延迟灯笼挑战**。偶尔故意稍微晚一点落地，然后再干净地补回来。\n\n可以这样做：\n- 把前一个音多保持一点\n- 在和弦变化后的后半拍进入\n- 但仍然要落在一个听起来像是“选好的”音上，而不是误撞上的\n\n这种轻微延迟会带来更像人的乐句感。目标是有表情的时间处理，不是在路口迷路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 4 is the **double-lantern challenge**. For one pass, aim for two different targets per chord: one early, one late.\n\nExample approach:\n- chord tone on beat 1\n- neighboring scale tone on beat 2 or 3\n- another chord tone before the harmony moves\n\nNow you are no longer just surviving the progression. You are outlining it in motion.",
+          "pt-BR": "A Etapa 4 é o **desafio da lanterna dupla**. Em uma passada, mire em dois alvos diferentes por acorde: um cedo e outro mais tarde.\n\nExemplo de abordagem:\n- nota do acorde no tempo 1\n- nota vizinha da escala no tempo 2 ou 3\n- outra nota do acorde antes da harmonia mudar\n\nAgora você não está mais apenas sobrevivendo à progressão. Você está desenhando a harmonia em movimento.",
+          "es": "La Etapa 4 es el **desafío de la doble linterna**. En una pasada, apunta a dos objetivos distintos por acorde: uno temprano y otro más tarde.\n\nEjemplo de enfoque:\n- tono del acorde en el tiempo 1\n- nota vecina de la escala en el tiempo 2 o 3\n- otro tono del acorde antes de que cambie la armonía\n\nAhora ya no estás solo sobreviviendo a la progresión. La estás dibujando en movimiento.",
+          "de": "Stufe 4 ist die **Doppel-Laternen-Challenge**. In einem Durchgang zielst du pro Akkord auf zwei verschiedene Töne: einen früh und einen später.\n\nBeispiel:\n- Akkordton auf Schlag 1\n- benachbarter Skalenton auf Schlag 2 oder 3\n- noch ein Akkordton, bevor die Harmonie weiterzieht\n\nJetzt überlebst du die Progression nicht mehr nur, du zeichnest sie in Bewegung nach.",
+          "ja": "ステージ4は**ダブル・ランタン・チャレンジ**です。1回の通しで、各コードに対して2つの目標音を狙います。ひとつは早め、もうひとつは少し後です。\n\nたとえば:\n- 1拍目にコードトーン\n- 2拍目または3拍目に隣接するスケール音\n- 次のコードへ行く前にもう一度コードトーン\n\nここまで来ると、進行をただ生き残るのではなく、動きの中で輪郭を描けるようになります。",
+          "zh-Hans": "第 4 阶段是**双灯笼挑战**。在一次通关中，每个和弦瞄准两个不同的目标：一个早一点，一个晚一点。\n\n例如：\n- 第 1 拍先落一个和弦音\n- 第 2 或第 3 拍放一个相邻的音阶音\n- 在和声变动前再落一次和弦音\n\n到了这里，你已经不只是“活着穿过”进行，而是在动态中把它描出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: play a **4-pass mini etude** over your progression.\n- Pass 1: only single landing notes\n- Pass 2: add short scale connectors\n- Pass 3: use one delayed landing\n- Pass 4: use two targets on at least two chords\n\nRecord it and ask: **Did my right hand actually illuminate the chord changes, or did I just run through the scale because it was there?** If it illuminated them, your lantern did its job.",
+          "pt-BR": "Missão final: toque um **mini estudo de 4 passadas** sobre a sua progressão.\n- Passada 1: só notas únicas de chegada\n- Passada 2: adicione conectores curtos da escala\n- Passada 3: use uma chegada atrasada\n- Passada 4: use dois alvos em pelo menos dois acordes\n\nGrave e pergunte: **minha mão direita realmente iluminou as mudanças de acorde ou eu só subi e desci a escala porque ela estava ali?** Se iluminou, sua lanterna cumpriu o trabalho.",
+          "es": "Misión final: toca un **mini estudio de 4 pasadas** sobre tu progresión.\n- Pasada 1: solo notas únicas de llegada\n- Pasada 2: añade conectores cortos de escala\n- Pasada 3: usa una llegada tardía\n- Pasada 4: usa dos objetivos en al menos dos acordes\n\nGrábalo y pregúntate: **¿mi mano derecha iluminó de verdad los cambios de acorde o solo corrí por la escala porque estaba ahí?** Si los iluminó, tu linterna cumplió su trabajo.",
+          "de": "Finale Mission: Spiele eine **4-Durchgangs-Mini-Etüde** über deine Progression.\n- Durchgang 1: nur einzelne Landetöne\n- Durchgang 2: kurze Skalenverbindungen hinzufügen\n- Durchgang 3: eine verspätete Landung einsetzen\n- Durchgang 4: bei mindestens zwei Akkorden zwei Zieltöne einsetzen\n\nNimm es auf und frag dich: **Hat meine rechte Hand die Akkordwechsel wirklich beleuchtet, oder bin ich nur durch die Skala gerannt, weil sie da war?** Wenn sie sie beleuchtet hat, hat deine Laterne ihren Job gemacht.",
+          "ja": "最後のミッションは、自分の進行で**4パスのミニ・エチュード**を弾くことです。\n- パス1: 単独の着地音だけ\n- パス2: 短いスケール連結を追加\n- パス3: 1回だけ遅れた着地を使う\n- パス4: 少なくとも2つのコードで2つの目標音を使う\n\n録音して、こう自分に問いましょう。**右手は本当にコードチェンジを照らしていたか、それとも音階がそこにあるから走っただけか。** もし照らせていたなら、ランタンは役目を果たしました。",
+          "zh-Hans": "最终任务：在你的进行上弹一个 **4 轮迷你练习曲**。\n- 第 1 轮：只用单个落点音\n- 第 2 轮：加入短小的音阶连接\n- 第 3 轮：使用一次延迟落地\n- 第 4 轮：至少在两个和弦上使用两个目标音\n\n录下来，然后问自己：**我的右手真的照亮了和弦变化，还是我只是因为那条音阶在那里，就顺手跑了一遍？** 如果它真的照亮了，那你的灯笼就完成任务了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-03T00:12:30Z",
+  "updatedAt": "2026-05-03T00:12:30Z"
+}
