@@ -1006,5 +1006,33 @@
     "order": 36,
     "createdAt": "2026-05-03T00:10:04Z",
     "updatedAt": "2026-05-03T00:10:04Z"
+  },
+  {
+    "id": "bass-pocket-compass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Compass for Bass Grooves",
+        "pt-BR": "Bússola do Pocket para Grooves de Baixo",
+        "es": "Brújula del Pocket para Grooves de Bajo",
+        "de": "Pocket-Kompass für Bass-Grooves",
+        "ja": "ベース・グルーヴのためのポケット・コンパス",
+        "zh-Hans": "贝斯律动口袋指南针"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate a bass line with groove north, ghost-note detours, and strong landings that always find home.",
+        "pt-BR": "Navegue sua linha de baixo com um norte de groove, desvios de ghost note e chegadas fortes que sempre encontram casa.",
+        "es": "Navega una línea de bajo con norte de groove, desvíos de ghost notes y aterrizajes fuertes que siempre encuentran casa.",
+        "de": "Navigiere deine Basslinie mit Groove-Norden, Ghost-Note-Umwegen und starken Landungen zurück nach Hause.",
+        "ja": "グルーヴの北、ゴーストノートの寄り道、強い着地でベースラインを迷わず導こう。",
+        "zh-Hans": "用律动的北方、幽灵音绕路和强力落点，让你的贝斯线始终找得到家。"
+      }
+    },
+    "order": 37,
+    "createdAt": "2026-05-04T00:09:33Z",
+    "updatedAt": "2026-05-04T00:09:33Z"
   }
 ]

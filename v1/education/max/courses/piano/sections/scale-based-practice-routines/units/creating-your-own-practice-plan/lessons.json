@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-04-29T00:06:13Z",
     "updatedAt": "2026-04-29T00:06:13Z"
+  },
+  {
+    "id": "piano-practice-weather-report",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Weather Report",
+        "pt-BR": "Boletim do Tempo do Estudo de Piano",
+        "es": "Parte meteorológico de la práctica de piano",
+        "de": "Wetterbericht für deine Klavierpraxis",
+        "ja": "ピアノ練習ウェザーリポート",
+        "zh-Hans": "钢琴练习天气预报"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Forecast your scale session with sunny technique, cloudy trouble spots, and a storm plan for musical recovery.",
+        "pt-BR": "Faça a previsão da sua sessão de escalas com técnica ensolarada, pontos nublados e um plano de tempestade para se recuperar musicalmente.",
+        "es": "Pronostica tu sesión de escalas con técnica soleada, zonas nubladas y un plan de tormenta para recuperarte musicalmente.",
+        "de": "Prognostiziere deine Skalenroutine mit sonniger Technik, wolkigen Problemstellen und einem Sturmplan zur musikalischen Erholung.",
+        "ja": "晴れのテクニック、曇りの弱点、嵐対策プランで、スケール練習を自分で予報しよう。",
+        "zh-Hans": "用晴天技术、阴天难点和暴风修复计划，提前读懂你的音阶练习状态。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-05-04T00:11:09Z",
+    "updatedAt": "2026-05-04T00:11:09Z"
   }
 ]

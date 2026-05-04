@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-05-03T00:08:53Z",
     "updatedAt": "2026-05-03T00:08:53Z"
+  },
+  {
+    "id": "guitar-chorus-jetpack",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chorus Jetpack for Guitar Scales",
+        "pt-BR": "Jetpack do Refrão para Escalas na Guitarra",
+        "es": "Jetpack del Estribillo para Escalas en Guitarra",
+        "de": "Refrain-Jetpack für Gitarrenskalen",
+        "ja": "ギタースケール用コーラス・ジェットパック",
+        "zh-Hans": "吉他音阶副歌喷射背包"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch your scale phrases into the chorus with target notes, rhythm tricks, and a no-drifting mission.",
+        "pt-BR": "Faça suas frases de escala decolarem no refrão com notas-alvo, truques rítmicos e uma missão sem se perder.",
+        "es": "Haz despegar tus frases de escala en el estribillo con notas objetivo, trucos rítmicos y una misión sin perder el rumbo.",
+        "de": "Lass deine Skalenphrasen im Refrain mit Zieltönen, Rhythmustricks und einer klaren Mission abheben.",
+        "ja": "ターゲットノートとリズムの工夫で、スケールのフレーズをサビでしっかり飛ばそう。",
+        "zh-Hans": "用目标音和节奏小机关，让你的音阶乐句在副歌里真正起飞。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-05-04T00:08:01Z",
+    "updatedAt": "2026-05-04T00:08:01Z"
   }
 ]

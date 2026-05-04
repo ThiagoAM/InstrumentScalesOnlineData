@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-compass",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Think of today's groove as a map. Your north point is the root on beat 1, your east point is a scale step that creates motion, your south point is a rest or ghost note, and your west point is a strong landing on beat 3. Use G major first. The goal is to stop wandering and start choosing where the line points.",
+          "pt-BR": "Pense no groove de hoje como um mapa. Seu ponto norte é a tônica no tempo 1, o leste é um passo de escala que cria movimento, o sul é uma pausa ou ghost note, e o oeste é uma chegada forte no tempo 3. Comece em Sol maior. O objetivo é parar de vagar e começar a escolher para onde a linha aponta.",
+          "es": "Piensa en el groove de hoy como un mapa. Tu punto norte es la tónica en el tiempo 1, tu este es un paso de escala que crea movimiento, tu sur es un silencio o una ghost note, y tu oeste es un aterrizaje fuerte en el tiempo 3. Empieza en Sol mayor. El objetivo es dejar de vagar y empezar a elegir hacia dónde apunta la línea.",
+          "de": "Stell dir den heutigen Groove wie eine Karte vor. Dein Norden ist der Grundton auf Schlag 1, dein Osten ist ein Skalen-Schritt für Bewegung, dein Süden ist eine Pause oder Ghost Note, und dein Westen ist eine starke Landung auf Schlag 3. Beginne mit G-Dur. Das Ziel ist, nicht mehr herumzuirren, sondern bewusst zu wählen, wohin die Linie zeigt.",
+          "ja": "今日のグルーヴを地図だと思ってください。北は1拍目のルート、東は動きを作るスケールの順次進行、南は休符かゴーストノート、西は3拍目への強い着地です。まずはGメジャーで始めましょう。目的は、さまようことではなく、ラインがどこを向くかを自分で選ぶことです。",
+          "zh-Hans": "把今天的 groove 想成一张地图。你的北方是第 1 拍上的根音，东方是制造移动感的级进音，南方是休止或幽灵音，西方是第 3 拍上的强力落点。先用 G 大调开始。目标不是乱逛，而是主动决定这条贝斯线要指向哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up with a four-direction loop. Bar 1 hits root and fifth only. Bar 2 adds one passing note. Bar 3 replaces one played note with a ghost note. Bar 4 leaves a full beat of space before the landing. Repeat until each bar feels like a deliberate route, not a random hike.",
+          "pt-BR": "Aqueça com um circuito de quatro direções. O compasso 1 usa apenas tônica e quinta. O compasso 2 adiciona uma nota de passagem. O compasso 3 troca uma nota tocada por uma ghost note. O compasso 4 deixa um tempo inteiro de espaço antes da chegada. Repita até cada compasso parecer uma rota intencional, e não uma trilha aleatória.",
+          "es": "Calienta con un circuito de cuatro direcciones. El compás 1 usa solo tónica y quinta. El compás 2 añade una nota de paso. El compás 3 reemplaza una nota tocada por una ghost note. El compás 4 deja un tiempo completo de espacio antes del aterrizaje. Repite hasta que cada compás se sienta como una ruta intencional y no como una caminata al azar.",
+          "de": "Wärme dich mit einer Vier-Richtungs-Runde auf. Takt 1 benutzt nur Grundton und Quinte. Takt 2 fügt einen Durchgangston hinzu. Takt 3 ersetzt einen gespielten Ton durch eine Ghost Note. Takt 4 lässt einen ganzen Schlag Platz vor der Landung. Wiederhole das, bis sich jeder Takt wie eine bewusste Route und nicht wie eine zufällige Wanderung anfühlt.",
+          "ja": "4方向ループでウォームアップします。1小節目はルートと5度だけ。2小節目は経過音を1つ追加。3小節目は1つの実音をゴーストノートに置き換えます。4小節目は着地の前に丸々1拍ぶんのスペースを空けます。各小節が「偶然の散歩」ではなく「意図のあるルート」に感じられるまで繰り返してください。",
+          "zh-Hans": "先做一个四方向热身循环。第 1 小节只弹根音和五度。第 2 小节加一个经过音。第 3 小节把一个实音换成幽灵音。第 4 小节在落点前完整留出一拍空间。重复到每个小节都像一条有意图的路线，而不是一次随机徒步。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now play a pocket compass game. On every new bar, say the direction out loud before you play it: north means simplify, east means move by step, south means leave space, west means land hard. This turns groove decisions into fast reflexes. If you hesitate, freeze the tempo and decide earlier.",
+          "pt-BR": "Agora jogue o jogo da bússola do pocket. Em cada novo compasso, diga a direção em voz alta antes de tocar: norte significa simplificar, leste significa andar por grau conjunto, sul significa deixar espaço, oeste significa aterrissar com força. Isso transforma decisões de groove em reflexos rápidos. Se você hesitar, congele o andamento e decida mais cedo.",
+          "es": "Ahora juega al juego de la brújula del pocket. En cada compás nuevo, di la dirección en voz alta antes de tocar: norte significa simplificar, este significa moverse por grado conjunto, sur significa dejar espacio, oeste significa aterrizar con fuerza. Esto convierte las decisiones de groove en reflejos rápidos. Si dudas, congela el tempo y decide antes.",
+          "de": "Jetzt spiel das Pocket-Kompass-Spiel. Sage bei jedem neuen Takt die Richtung laut an, bevor du spielst: Norden heißt vereinfachen, Osten heißt schrittweise bewegen, Süden heißt Raum lassen, Westen heißt hart landen. So werden Groove-Entscheidungen zu schnellen Reflexen. Wenn du zögerst, friere das Tempo ein und entscheide früher.",
+          "ja": "次はポケット・コンパス・ゲームです。新しい小節ごとに、弾く前に方向を声に出します。北はシンプルにする、東は順次進行する、南は空間を残す、西は強く着地する、です。こうするとグルーヴの判断が素早い反射になります。迷うならテンポを止め、もっと早く決めましょう。",
+          "zh-Hans": "现在开始“口袋指南针”游戏。每进入一个新小节，都在弹之前先把方向说出来：北方代表简化，东方代表级进前进，南方代表留空间，西方代表重重落地。这样会把 groove 决策训练成快速反射。如果你犹豫了，就把速度冻结下来，更早做决定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a danger zone: you may only use one syncopated entry every two bars. That limit forces you to value it. When the syncopation finally appears, make sure the next strong beat feels even stronger. A great bass line does not show every trick at once; it makes the right trick matter.",
+          "pt-BR": "Adicione uma zona de perigo: você só pode usar uma entrada sincopada a cada dois compassos. Esse limite obriga você a dar valor a ela. Quando a síncope finalmente aparecer, faça o próximo tempo forte soar ainda mais forte. Uma ótima linha de baixo não mostra todos os truques de uma vez; ela faz o truque certo importar.",
+          "es": "Añade una zona de peligro: solo puedes usar una entrada sincopada cada dos compases. Ese límite te obliga a valorarla. Cuando la síncopa aparezca por fin, asegúrate de que el siguiente tiempo fuerte suene todavía más fuerte. Una gran línea de bajo no enseña todos los trucos a la vez; hace que el truco correcto importe.",
+          "de": "Füge eine Gefahrenzone hinzu: Du darfst nur alle zwei Takte einen synkopierten Einstieg benutzen. Diese Grenze zwingt dich, ihn wertzuschätzen. Wenn die Synkope dann kommt, muss sich der nächste starke Schlag noch stärker anfühlen. Eine großartige Basslinie zeigt nicht alle Tricks auf einmal; sie lässt den richtigen Trick wichtig werden.",
+          "ja": "危険地帯も追加します。シンコペーションの入りは2小節に1回までしか使えません。この制限がその一回の価値を高めます。シンコペーションが出たら、その次の強拍はさらに強く感じられなければいけません。優れたベースラインは全部の技を一度に見せず、正しい技を重要にします。",
+          "zh-Hans": "再加入一个危险区：每两小节只能使用一次切分进入。这个限制会逼你珍惜它。当切分终于出现时，下一次强拍必须显得更强。优秀的贝斯线不会一次把所有招数都端出来；它会让最合适的招数真正有分量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build two contrast rounds. Round 1 should sound dry and stubborn, almost like the drummer is daring you to move. Round 2 should sound elastic and conversational, with one extra passing tone and one ghost-note answer. Record both rounds and decide which one still feels safest for the band to stand on.",
+          "pt-BR": "Construa duas rodadas de contraste. A rodada 1 deve soar seca e teimosa, quase como se a bateria estivesse desafiando você a se mexer. A rodada 2 deve soar elástica e conversada, com uma nota de passagem extra e uma resposta em ghost note. Grave as duas rodadas e decida qual ainda parece mais segura para a banda pisar em cima.",
+          "es": "Construye dos rondas de contraste. La ronda 1 debe sonar seca y terca, casi como si el baterista te retara a moverte. La ronda 2 debe sonar elástica y conversadora, con una nota de paso extra y una respuesta con ghost note. Graba ambas rondas y decide cuál sigue siendo más segura para que la banda se apoye en ella.",
+          "de": "Baue zwei Kontrastrunden. Runde 1 soll trocken und stur klingen, fast so, als würde dich der Drummer herausfordern, dich zu bewegen. Runde 2 soll elastisch und gesprächig klingen, mit einem zusätzlichen Durchgangston und einer Ghost-Note-Antwort. Nimm beide Runden auf und entscheide, welche sich für die Band immer noch am sichersten anfühlt.",
+          "ja": "2つの対比ラウンドを作りましょう。ラウンド1は乾いて頑固に、まるでドラマーが「動いてみろ」と挑発しているように。ラウンド2はしなやかで会話的に、経過音を1つ増やし、ゴーストノートの返答も1つ入れます。両方録音して、どちらがバンドにとってより安心して乗れる土台かを判断してください。",
+          "zh-Hans": "做两轮对比。第 1 轮要干、硬、倔，像鼓手在挑衅你“你敢不敢动”。第 2 轮要有弹性、像在对话，多一个经过音，再加一个幽灵音回应。把两轮都录下来，判断哪一轮更适合作为整支乐队可以放心站上去的地基。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a no-looking-back test. Improvise eight bars and never repeat the same first two beats twice in a row. Still, every fourth bar must land cleanly on the root or fifth. If the line keeps its shape while changing routes, your pocket compass is working. Write down the direction change that made your groove suddenly feel smarter.",
+          "pt-BR": "Termine com um teste sem olhar para trás. Improvise oito compassos e nunca repita os mesmos dois primeiros tempos duas vezes seguidas. Mesmo assim, cada quarto compasso precisa aterrissar limpo na tônica ou na quinta. Se a linha mantiver a forma enquanto muda as rotas, sua bússola do pocket está funcionando. Anote a mudança de direção que fez seu groove parecer mais inteligente de repente.",
+          "es": "Termina con una prueba sin mirar atrás. Improvisa ocho compases y no repitas nunca los mismos dos primeros tiempos dos veces seguidas. Aun así, cada cuarto compás debe aterrizar limpio en la tónica o la quinta. Si la línea mantiene su forma mientras cambia de ruta, tu brújula del pocket está funcionando. Anota el cambio de dirección que hizo que tu groove sonara más inteligente de repente.",
+          "de": "Beende die Lektion mit einem Test ohne Rückspiegel. Improvisiere acht Takte und wiederhole nie zweimal hintereinander dieselben ersten zwei Schläge. Trotzdem muss jeder vierte Takt sauber auf Grundton oder Quinte landen. Wenn die Linie ihre Form behält, obwohl sie die Route wechselt, funktioniert dein Pocket-Kompass. Schreib auf, welcher Richtungswechsel deinen Groove plötzlich klüger klingen ließ.",
+          "ja": "最後は後ろを見ないテストです。8小節即興し、最初の2拍を2回続けて同じにしないでください。それでも4小節ごとには、ルートか5度へきれいに着地しなければなりません。ルートを変えても形が保てるなら、ポケット・コンパスは機能しています。グルーヴが急に賢く聞こえた方向転換を書き残しましょう。",
+          "zh-Hans": "最后做一个“不回头看”测试。即兴 8 小节，而且前两拍的设计不能连续两次完全一样。即便如此，每到第 4 小节还是必须干净地落回根音或五度。如果路线在变化，线条却还能保持轮廓，你的口袋指南针就在生效。把那个让 groove 突然聪明起来的方向切换记下来。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-04T00:09:33Z",
+  "updatedAt": "2026-05-04T00:09:33Z"
+}

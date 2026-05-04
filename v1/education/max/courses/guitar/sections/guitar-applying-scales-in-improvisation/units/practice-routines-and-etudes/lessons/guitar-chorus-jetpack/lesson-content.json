@@ -1,0 +1,86 @@
+{
+  "id": "guitar-chorus-jetpack",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission is to make a chorus lift off instead of sounding like a longer verse. Pick one backing track in A major or A minor and imagine the chorus has brighter lights, wider motion, and stronger landings. Play one simple scale shape you already know, but promise yourself that every phrase must sound more \"arrived\" than your verse ideas.",
+          "pt-BR": "Sua missão é fazer o refrão decolar em vez de soar como um verso mais comprido. Escolha um playback em Lá maior ou Lá menor e imagine que o refrão tem mais luz, mais movimento e chegadas mais fortes. Toque uma forma de escala que você já conhece, mas prometa que cada frase vai soar mais \"chegada\" do que as ideias do verso.",
+          "es": "Tu misión es hacer que el estribillo despegue en lugar de sonar como un verso más largo. Elige una base en La mayor o La menor e imagina que el estribillo tiene más luz, más movimiento y aterrizajes más fuertes. Toca una forma de escala que ya conozcas, pero prométete que cada frase sonará más \"llegada\" que tus ideas de verso.",
+          "de": "Deine Mission ist, den Refrain abheben zu lassen, statt wie eine längere Strophe zu klingen. Wähle einen Backing-Track in A-Dur oder A-Moll und stell dir vor, der Refrain hat hellere Lichter, größere Bewegung und stärkere Landungen. Spiele ein einfaches Skalenmuster, das du schon kennst, aber verspreche dir, dass jede Phrase entschlossener klingt als deine Strophenideen.",
+          "ja": "今回のミッションは、サビを「長くなったAメロ」にしないことです。AメジャーかAマイナーのバッキングを1つ選び、サビにはもっと光、もっと動き、もっと強い着地があると想像してください。すでに知っているシンプルなスケール形を使いながら、すべてのフレーズがAメロより「到達感」を持つように弾きます。",
+          "zh-Hans": "这次任务是让副歌起飞，而不是只像“更长的主歌”。选一条 A 大调或 A 小调伴奏，想象副歌拥有更亮的灯光、更大的动作和更有力的落点。你可以继续使用已经熟悉的音阶把位，但要要求自己：每一句都必须比主歌乐句更有“到达感”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a three-lane runway. Lane 1 is roots only. Lane 2 is roots plus 3rds. Lane 3 is roots, 3rds, and one color note such as the 6th in major or b7 in minor. Spend two chorus passes in each lane. The challenge is not speed. The challenge is making each added note feel like extra energy instead of extra clutter.",
+          "pt-BR": "Monte uma pista de três faixas. A faixa 1 usa só tônicas. A faixa 2 usa tônicas mais terças. A faixa 3 usa tônicas, terças e uma nota de cor, como a 6ª no maior ou a 7ª menor no menor. Faça duas passadas de refrão em cada faixa. O desafio não é velocidade. O desafio é fazer cada nota extra parecer energia a mais, e não bagunça a mais.",
+          "es": "Monta una pista de tres carriles. El carril 1 usa solo tónicas. El carril 2 usa tónicas más terceras. El carril 3 usa tónicas, terceras y una nota de color, como la 6.ª en mayor o la 7.ª menor en menor. Haz dos pasadas de estribillo en cada carril. El reto no es la velocidad. El reto es que cada nota extra se sienta como más energía y no como más desorden.",
+          "de": "Baue eine Startbahn mit drei Spuren. Spur 1 benutzt nur Grundtöne. Spur 2 benutzt Grundtöne plus Terzen. Spur 3 benutzt Grundtöne, Terzen und einen Farbton, zum Beispiel die 6 in Dur oder die kleine 7 in Moll. Spiele in jeder Spur zwei Refrain-Durchgänge. Die Herausforderung ist nicht Tempo. Die Herausforderung ist, dass jeder zusätzliche Ton wie mehr Energie wirkt und nicht wie mehr Chaos.",
+          "ja": "3レーンの滑走路を作りましょう。レーン1はルートだけ。レーン2はルートと3度。レーン3はルート、3度、そして色づけの音を1つ、たとえばメジャーなら6度、マイナーなら♭7です。各レーンでサビを2回ずつ弾きます。課題は速さではありません。増えた音が「情報過多」ではなく「エネルギー増加」に聞こえることです。",
+          "zh-Hans": "搭一条三车道跑道。第一车道只用根音。第二车道用根音加三度。第三车道用根音、三度，再加一个色彩音，比如大调里的 6 度或小调里的 ♭7。每条车道都跑两个副歌回合。挑战不是速度，而是让每个新增的音听起来像“增加能量”，而不是“增加杂乱”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a rhythm rule: every phrase must begin after beat 1. Start on the \"and\" of 1, beat 2, or the \"and\" of 2. This tiny delay creates forward pull, which is gold in a chorus. If your ideas feel sleepy, shorten the first note and leave a tiny breath before the next attack.",
+          "pt-BR": "Agora adicione uma regra rítmica: toda frase precisa começar depois do tempo 1. Comece no contratempo do 1, no tempo 2 ou no contratempo do 2. Esse pequeno atraso cria impulso para a frente, e isso vale ouro em refrão. Se suas ideias estiverem sonolentas, encurte a primeira nota e deixe uma micro-respiração antes do próximo ataque.",
+          "es": "Ahora añade una regla rítmica: cada frase debe empezar después del tiempo 1. Empieza en la \"y\" de 1, en el tiempo 2 o en la \"y\" de 2. Ese pequeño retraso crea impulso hacia delante, y eso vale oro en un estribillo. Si tus ideas suenan dormidas, acorta la primera nota y deja una micro respiración antes del siguiente ataque.",
+          "de": "Jetzt kommt eine Rhythmusregel dazu: Jede Phrase muss nach Zählzeit 1 beginnen. Starte auf dem Und von 1, auf Zählzeit 2 oder auf dem Und von 2. Diese kleine Verzögerung erzeugt Vorwärtsdrang, und das ist im Refrain Gold wert. Wenn deine Ideen schläfrig wirken, verkürze den ersten Ton und lass vor dem nächsten Einsatz einen kleinen Atemzug.",
+          "ja": "次にリズムのルールを追加します。すべてのフレーズは1拍目の後から始めてください。1拍目の裏、2拍目、または2拍目の裏から始めます。この小さな遅れが前進力を生み、サビでは大きな武器になります。眠そうに聞こえるなら、最初の音を短くし、次のアタックの前にほんの少し間を作りましょう。",
+          "zh-Hans": "现在加入一条节奏规则：每个乐句都必须在第 1 拍之后开始。可以从 1 拍后半拍、2 拍，或 2 拍后半拍起句。这一点点延后会制造强烈的前冲感，副歌里特别好用。如果你的句子听起来发困，就把第一个音缩短，并在下一次发音前留一个很小的呼吸口。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a jetpack ending. In the final two beats of every fourth bar, aim for one target note and reach it by climbing or sliding through two nearby scale notes. Keep the move singable. If it sounds like finger exercise soup, simplify it until you could hum it once and remember it.",
+          "pt-BR": "Construa um final com jetpack. Nos dois tempos finais de cada quarto compasso, mire uma nota-alvo e chegue nela subindo ou escorregando por duas notas vizinhas da escala. Mantenha o movimento cantável. Se soar como sopa de exercício de dedos, simplifique até conseguir cantar uma vez e lembrar.",
+          "es": "Construye un final con jetpack. En los dos últimos tiempos de cada cuarto compás, apunta a una nota objetivo y llega a ella subiendo o deslizándote por dos notas vecinas de la escala. Mantén el movimiento cantable. Si suena como sopa de ejercicio de dedos, simplifícalo hasta que puedas cantarlo una vez y recordarlo.",
+          "de": "Baue ein Jetpack-Ende. In den letzten zwei Schlägen jedes vierten Taktes zielst du auf einen Ton und erreichst ihn, indem du über zwei benachbarte Skalentöne hinaufgehst oder hineinrutschst. Halte die Bewegung singbar. Wenn es nach Fingersport-Suppe klingt, vereinfache es, bis du es einmal summen und behalten kannst.",
+          "ja": "ジェットパック着地を作ります。4小節ごとの最後の2拍では、1つのターゲットノートを決め、近くのスケール音2つを上がるか滑り込むかして到達してください。歌える動きに保つのがコツです。指の練習メニューみたいに聞こえたら、一度歌って覚えられるまで簡単にしてください。",
+          "zh-Hans": "接着制作“喷射背包式结尾”。每逢第 4 小节的最后两拍，先锁定一个目标音，再通过附近两个音阶音向上接近或滑进那个目标音。动作一定要保持可哼唱。如果听起来像手指体操浓汤，就继续简化，直到你能哼一遍还记得住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pressure round: record three chorus takes. Take 1 stays in one position. Take 2 must include one position shift. Take 3 must reuse one rhythmic idea from Take 1 but with a different ending note. After listening back, ask: where did my phrases actually open up, and where did they just get busier?",
+          "pt-BR": "Rodada de pressão: grave três takes de refrão. No Take 1 fique em uma posição. No Take 2 inclua uma mudança de posição. No Take 3 reutilize uma ideia rítmica do Take 1, mas com outra nota final. Depois de ouvir, pergunte: onde minhas frases realmente se abriram e onde elas só ficaram mais ocupadas?",
+          "es": "Ronda de presión: graba tres tomas de estribillo. En la toma 1 quédate en una sola posición. En la toma 2 incluye un cambio de posición. En la toma 3 reutiliza una idea rítmica de la toma 1, pero con una nota final distinta. Después de escucharlas, pregúntate: ¿dónde se abrieron realmente mis frases y dónde solo se volvieron más ocupadas?",
+          "de": "Druckrunde: Nimm drei Refrain-Takes auf. Take 1 bleibt in einer Position. Take 2 muss einen Positionswechsel enthalten. Take 3 übernimmt eine rhythmische Idee aus Take 1, aber mit einem anderen Endton. Frag dich nach dem Anhören: Wo haben sich meine Phrasen wirklich geöffnet, und wo wurden sie nur voller?",
+          "ja": "プレッシャー・ラウンドです。サビを3テイク録音しましょう。テイク1は1ポジションのまま。テイク2は1回ポジション移動を入れる。テイク3はテイク1のリズムのアイデアを1つ再利用し、終わりの音だけ変えます。聞き返したら、「本当にフレーズが開いた場所」と「ただ忙しくなっただけの場所」を確認してください。",
+          "zh-Hans": "进入压力回合：录三次副歌。第 1 次全程留在一个把位。第 2 次必须加入一次把位移动。第 3 次要重用第 1 次里的一个节奏想法，但换一个结束音。回放时问自己：哪些地方乐句真的打开了，哪些地方只是变得更忙？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a mini victory lap. Play the verse for four bars, then the chorus for four bars, alternating three times. Your goal is contrast, not perfection. If the chorus feels more confident, more focused, and easier to sing back, the jetpack worked. Write down the note target and rhythm trick that gave you the biggest lift.",
+          "pt-BR": "Termine com uma volta da vitória. Toque quatro compassos de verso e depois quatro de refrão, alternando três vezes. Seu objetivo é contraste, não perfeição. Se o refrão soar mais confiante, mais focado e mais fácil de cantar de volta, o jetpack funcionou. Anote a nota-alvo e o truque rítmico que deram a maior decolagem.",
+          "es": "Termina con una pequeña vuelta de victoria. Toca cuatro compases de verso y luego cuatro de estribillo, alternando tres veces. Tu objetivo es el contraste, no la perfección. Si el estribillo suena más seguro, más enfocado y más fácil de cantar de vuelta, el jetpack funcionó. Apunta la nota objetivo y el truco rítmico que te dieron más despegue.",
+          "de": "Beende die Lektion mit einer kleinen Ehrenrunde. Spiele vier Takte Strophe und danach vier Takte Refrain und wechsle das dreimal ab. Dein Ziel ist Kontrast, nicht Perfektion. Wenn der Refrain selbstbewusster, fokussierter und leichter nachzusingen klingt, hat das Jetpack funktioniert. Schreib den Zielton und den Rhythmustrick auf, die dir den größten Schub gegeben haben.",
+          "ja": "最後は小さな勝利ラップです。4小節のAメロ、4小節のサビを3回交互に弾きます。目標は完璧さではなくコントラストです。サビのほうが自信があり、焦点があり、歌い返しやすく聞こえたなら成功です。いちばん効いたターゲットノートとリズムの工夫を書き残しましょう。",
+          "zh-Hans": "最后来一圈胜利巡航。弹 4 小节主歌，再弹 4 小节副歌，这样交替 3 次。你的目标是对比，不是完美。如果副歌听起来更自信、更聚焦、也更容易让人哼回来，那这个喷射背包就成功了。把最有效的目标音和节奏技巧记下来。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-04T00:08:01Z",
+  "updatedAt": "2026-05-04T00:08:01Z"
+}
