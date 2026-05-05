@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-31T00:05:54Z",
     "updatedAt": "2026-03-31T00:05:54Z"
+  },
+  {
+    "id": "guitar-major-scale-lane-dodger",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Lane Dodger",
+        "pt-BR": "Desvio de Faixas da Escala Maior",
+        "es": "Esquiva de Carriles en la Escala Mayor",
+        "de": "Spurwechsel in der Durtonleiter",
+        "ja": "メジャースケール・レーン・ドッジャー",
+        "zh-Hans": "大调音阶车道闪避"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Shift through C major positions while dodging repeated finger patterns and landing on strong targets.",
+        "pt-BR": "Passe por posições de Dó maior desviando de padrões repetidos e aterrissando em alvos fortes.",
+        "es": "Muévete por posiciones de Do mayor esquivando patrones repetidos y cayendo en notas objetivo fuertes.",
+        "de": "Wechsle durch C-Dur-Positionen, vermeide Wiederholungen und lande auf starken Zielnoten.",
+        "ja": "Cメジャーのポジションを移動しながら、同じ運指の繰り返しを避けて強い着地点に収まろう。",
+        "zh-Hans": "在C大调各把位间移动，避开重复指型，并落在有力的目标音上。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-05-05T00:05:25Z",
+    "updatedAt": "2026-05-05T00:05:25Z"
   }
 ]

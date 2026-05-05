@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-04-06T00:08:45Z",
     "updatedAt": "2026-04-06T00:08:45Z"
+  },
+  {
+    "id": "piano-contrary-motion-mirror-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Contrary-Motion Mirror Chase",
+        "pt-BR": "Caça ao Espelho em Movimento Contrário",
+        "es": "Persecución en Espejo y Movimiento Contrario",
+        "de": "Spiegeljagd in Gegenbewegung",
+        "ja": "反行モーション・ミラーチェイス",
+        "zh-Hans": "反向镜像追逐"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to chase each other through major scales without losing tone or balance.",
+        "pt-BR": "Treine as duas mãos para se perseguirem em escalas maiores sem perder som nem equilíbrio.",
+        "es": "Entrena ambas manos para perseguirse en escalas mayores sin perder sonido ni equilibrio.",
+        "de": "Trainiere beide Hände, sich durch Durtonleitern zu verfolgen, ohne Klang oder Balance zu verlieren.",
+        "ja": "両手が長調スケールの中で追いかけ合っても、音色とバランスを失わないように鍛えよう。",
+        "zh-Hans": "训练双手在大调音阶中彼此追逐，同时不丢失音色与平衡。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-05-05T00:05:35Z",
+    "updatedAt": "2026-05-05T00:05:35Z"
   }
 ]

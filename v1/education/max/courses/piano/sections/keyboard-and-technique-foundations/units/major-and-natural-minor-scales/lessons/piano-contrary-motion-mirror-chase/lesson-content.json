@@ -1,0 +1,73 @@
+{
+  "id": "piano-contrary-motion-mirror-chase",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up in **G major**. Your left hand starts on the G below middle C and your right hand starts on the G above it. Play contrary motion as if the hands are two skaters pushing away from center ice.",
+          "pt-BR": "Prepare-se em **Sol maior**. A mão esquerda começa no Sol abaixo do dó central e a direita no Sol acima dele. Toque em movimento contrário como se as mãos fossem dois patinadores se afastando do centro da pista.",
+          "es": "Colócate en **Sol mayor**. La mano izquierda empieza en el Sol debajo del do central y la derecha en el Sol por encima. Toca en movimiento contrario como si las manos fueran dos patinadores alejándose del centro de la pista.",
+          "de": "Richte dich in **G-Dur** ein. Die linke Hand beginnt auf dem G unter dem mittleren C, die rechte auf dem G darüber. Spiele in Gegenbewegung, als wären die Hände zwei Eisläufer, die sich vom Mittelpunkt wegstoßen.",
+          "ja": "**Gメジャー** で準備しましょう。左手は中央Cの下のG、右手はその上のGから始めます。両手がリンクの中心から離れていく2人のスケーターのように、反行で弾いてください。",
+          "zh-Hans": "先在 **G大调** 就位。左手从中央C下方的G开始，右手从上方的G开始。做反向进行时，想象双手像两位滑冰者从冰场中央向外滑开。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 1: go out one octave and return, very legato. Keep both thumbs light at the crossing points so the line sounds connected instead of stitched together.",
+          "pt-BR": "Fase 1: vá para fora por uma oitava e volte, bem legato. Mantenha os polegares leves nos cruzamentos para a linha soar conectada, e não costurada.",
+          "es": "Fase 1: ve hacia afuera una octava y vuelve, muy legato. Mantén los pulgares ligeros en los cruces para que la línea suene conectada y no cosida a tirones.",
+          "de": "Phase 1: gehe eine Oktave nach außen und wieder zurück, sehr legato. Halte die Daumen an den Untersetzstellen leicht, damit die Linie verbunden klingt und nicht zusammengenäht.",
+          "ja": "フェーズ1: 外側へ1オクターブ進んで戻ります。とてもレガートで。指くぐりのポイントでは両手の親指を軽く保ち、縫い合わせたようではなく、つながったラインにしましょう。",
+          "zh-Hans": "阶段1：向外走一个八度再回来，尽量连奏。拇指交叉处保持轻松，让线条听起来是连贯的，而不是缝出来的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 2: repeat the same motion, but give the right hand a gentle crescendo on the way out while the left hand stays mezzo piano. Then swap roles. You are training balance, not just geography.",
+          "pt-BR": "Fase 2: repita o mesmo movimento, mas faça um pequeno crescendo com a mão direita na ida enquanto a esquerda fica em mezzo piano. Depois troque os papéis. Você está treinando equilíbrio, não só geografia.",
+          "es": "Fase 2: repite el mismo movimiento, pero haz un pequeño crescendo con la mano derecha al abrirse mientras la izquierda se queda en mezzo piano. Luego intercambia los papeles. Estás entrenando equilibrio, no solo geografía.",
+          "de": "Phase 2: wiederhole die gleiche Bewegung, aber gib der rechten Hand auf dem Weg nach außen ein sanftes Crescendo, während die linke im Mezzopiano bleibt. Danach tauschst du die Rollen. Du trainierst Balance, nicht nur Tastatur-Geografie.",
+          "ja": "フェーズ2: 同じ動きを繰り返しますが、外へ向かう右手にはやさしいクレッシェンドをつけ、左手はメゾピアノのままにします。その後で役割を交代。鍛えているのは場所感覚だけでなくバランスです。",
+          "zh-Hans": "阶段2：重复同样动作，但右手向外时做一个温和的渐强，左手保持中弱；然后交换角色。你练的不只是键盘地理，更是平衡。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 3: turn the final note of each trip into a tiny question mark by holding it for two extra beats. Use that pause to check posture, wrist freedom, and whether one hand is bullying the other.",
+          "pt-BR": "Fase 3: transforme a nota final de cada viagem em um pequeno ponto de interrogação, segurando-a por mais dois tempos. Use essa pausa para checar postura, liberdade do pulso e se uma mão está intimidando a outra.",
+          "es": "Fase 3: convierte la nota final de cada viaje en una pequeña señal de pregunta sosteniéndola dos pulsos extra. Usa esa pausa para revisar postura, libertad de muñeca y si una mano está intimidando a la otra.",
+          "de": "Phase 3: verwandle den letzten Ton jeder Reise in ein kleines Fragezeichen, indem du ihn zwei zusätzliche Schläge hältst. Nutze die Pause, um Haltung, lockeres Handgelenk und mögliche Dominanz einer Hand zu prüfen.",
+          "ja": "フェーズ3: 各往復の最後の音を2拍余分に保ち、小さなクエスチョンマークに変えましょう。その間に姿勢、手首の自由さ、そして片手がもう片方をいじめていないかを確認します。",
+          "zh-Hans": "阶段3：把每次往返的最后一个音多延长两拍，做成一个小小的问号。利用这段停顿检查姿势、手腕是否自由，以及是否有一只手在欺负另一只手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: raise the tempo a little and play two clean reps in a row. If rep two is messier than rep one, the tempo is lying to you—back it down and win with control.",
+          "pt-BR": "Desafio final: aumente um pouco o andamento e toque duas repetições limpas seguidas. Se a segunda ficar mais bagunçada que a primeira, o andamento está mentindo para você — reduza e vença com controle.",
+          "es": "Reto final: sube un poco el tempo y toca dos repeticiones limpias seguidas. Si la segunda sale más sucia que la primera, el tempo te está engañando: bájalo y gana con control.",
+          "de": "Finale Challenge: erhöhe das Tempo leicht und spiele zwei saubere Wiederholungen hintereinander. Wenn Wiederholung zwei unordentlicher ist als eins, lügt dich das Tempo an — nimm es zurück und gewinne mit Kontrolle.",
+          "ja": "最後の挑戦: 少しテンポを上げて、きれいな反復を2回連続で成功させます。2回目のほうが汚くなるなら、そのテンポはあなたをだましています。少し戻して、コントロールで勝ちましょう。",
+          "zh-Hans": "最终挑战：稍微提一点速度，连续完成两次干净的重复。如果第二次比第一次更乱，那说明这个速度在骗你——降回去，用控制取胜。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-05T00:05:35Z",
+  "updatedAt": "2026-05-05T00:05:35Z"
+}

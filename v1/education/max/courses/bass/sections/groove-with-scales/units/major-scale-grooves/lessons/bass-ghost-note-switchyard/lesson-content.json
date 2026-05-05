@@ -1,0 +1,73 @@
+{
+  "id": "bass-ghost-note-switchyard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission is to turn **A major** into a pocket groove. Use scale tones on the strong beats and ghost notes only to push the line forward, never to hide sloppy timing.",
+          "pt-BR": "Sua missão é transformar **Lá maior** em um groove de pocket. Use notas da escala nos tempos fortes e ghost notes apenas para empurrar a linha adiante, nunca para esconder timing frouxo.",
+          "es": "Tu misión es convertir **La mayor** en un groove con pocket. Usa notas de la escala en los tiempos fuertes y ghost notes solo para empujar la línea hacia delante, nunca para tapar un mal pulso.",
+          "de": "Deine Mission ist es, aus **A-Dur** einen satten Pocket-Groove zu machen. Nutze Skalentöne auf den starken Zählzeiten und Ghost Notes nur, um die Linie vorwärtszuschieben, nie um unsauberes Timing zu verstecken.",
+          "ja": "今回のミッションは **Aメジャー** をポケットのあるグルーヴに変えることです。強拍にはスケール音を置き、ゴーストノートは前進感を作るためだけに使いましょう。甘いタイム感をごまかすためには使いません。",
+          "zh-Hans": "你的任务是把 **A大调** 变成一个很有口袋感的律动。强拍用音阶音，幽灵音只负责推动线条前进，绝不能拿来掩盖时值不稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First pass: loop **A–D–E–D** for four bars. On beats 1 and 3, land on a clear chord tone. Between them, add one ghost note with your plucking hand relaxed enough that the attack stays short and dry.",
+          "pt-BR": "Primeira passada: faça um loop de **A–D–E–D** por quatro compassos. Nos tempos 1 e 3, pouse em um acorde bem claro. Entre eles, adicione uma ghost note com a mão relaxada o bastante para o ataque ficar curto e seco.",
+          "es": "Primera vuelta: haz un loop de **A–D–E–D** durante cuatro compases. En los tiempos 1 y 3, cae en un tono claro del acorde. Entre ellos, añade una ghost note con la mano relajada para que el ataque sea corto y seco.",
+          "de": "Erster Durchgang: loope **A–D–E–D** über vier Takte. Auf Zählzeit 1 und 3 landest du auf einem klaren Akkordton. Dazwischen setzt du genau eine Ghost Note, mit locker genug Anschlagshand, damit der Attack kurz und trocken bleibt.",
+          "ja": "1周目: **A–D–E–D** を4小節ループします。1拍目と3拍目でははっきりしたコードトーンに着地してください。その間には、右手を十分リラックスさせて短く乾いたアタックになるよう、ゴーストノートを1つ入れます。",
+          "zh-Hans": "第一遍：把 **A–D–E–D** 循环四小节。第1拍和第3拍落在清晰的和弦音上。中间加入一个幽灵音，拨弦手保持放松，让攻击短而干。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Second pass: keep the same harmony, but move one phrase up an octave for bar 3. The trick is to make the register jump sound intentional, like the bass just opened a secret side road.",
+          "pt-BR": "Segunda passada: mantenha a mesma harmonia, mas leve uma frase uma oitava acima no compasso 3. O truque é fazer o salto de registro soar intencional, como se o baixo tivesse achado uma rua lateral secreta.",
+          "es": "Segunda vuelta: mantén la misma armonía, pero mueve una frase una octava arriba en el compás 3. El truco es que el salto de registro suene intencional, como si el bajo hubiera encontrado una calle lateral secreta.",
+          "de": "Zweiter Durchgang: behalte die Harmonie, aber verlege in Takt 3 eine Phrase eine Oktave nach oben. Der Trick ist, dass der Registersprung bewusst klingt, als hätte der Bass eine geheime Seitenstraße entdeckt.",
+          "ja": "2周目: 同じハーモニーのまま、3小節目の1フレーズを1オクターブ上へ移動します。ポイントは、その音域ジャンプが偶然ではなく、ベースが秘密の横道を見つけたように聞こえることです。",
+          "zh-Hans": "第二遍：保持同样和声，但在第3小节把一个乐句提升一个八度。关键是让这个音区跳跃听起来像有意安排，好像贝斯忽然拐进了一条秘密小路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: remove every beat-4 note from your groove. Replace it with silence or a ghost note, then notice how much more hungry beat 1 feels when the line breathes.",
+          "pt-BR": "Rodada desafio: remova toda nota do tempo 4 do seu groove. Substitua por silêncio ou por uma ghost note e perceba como o tempo 1 fica mais faminto quando a linha respira.",
+          "es": "Ronda reto: elimina toda nota del tiempo 4 de tu groove. Sustitúyela por silencio o por una ghost note y observa cuánto más hambriento se siente el tiempo 1 cuando la línea respira.",
+          "de": "Challenge-Runde: entferne jede Note auf Zählzeit 4 aus deinem Groove. Ersetze sie durch Stille oder eine Ghost Note und achte darauf, wie hungrig sich Zählzeit 1 anfühlt, wenn die Linie atmet.",
+          "ja": "チャレンジラウンド: グルーヴの4拍目の音を全部取り除きましょう。無音かゴーストノートに置き換え、ラインが呼吸すると1拍目がどれだけ欲しがって聞こえるかを感じてください。",
+          "zh-Hans": "挑战轮：把你律动里所有第4拍的实音都拿掉。换成休止或幽灵音，感受当线条会呼吸时，第1拍会变得多么“饥饿”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording two versions: one ultra-simple, one spicy. If the spicy take loses the pocket, steal the best single idea from it and drop that idea back into the simple groove.",
+          "pt-BR": "Termine gravando duas versões: uma ultra simples e uma apimentada. Se a versão apimentada perder o pocket, roube a melhor ideia dela e coloque essa ideia de volta no groove simples.",
+          "es": "Termina grabando dos versiones: una ultra simple y otra picante. Si la versión picante pierde pocket, roba su mejor idea y colócala de nuevo dentro del groove simple.",
+          "de": "Nimm zum Schluss zwei Versionen auf: eine ultraschlichte und eine scharfe. Wenn die scharfe Version den Pocket verliert, klaue die beste Einzelidee daraus und setze genau diese Idee in den einfachen Groove zurück.",
+          "ja": "最後に2種類録音します。1つは超シンプル版、もう1つはスパイシー版。スパイシー版でポケットが崩れたら、そこから最高の1アイデアだけを抜き出して、シンプルなグルーヴに戻してください。",
+          "zh-Hans": "最后录两个版本：一个极简版，一个重口味版。如果重口味版失去了口袋感，就把里面最好的一个点子偷回来，放进极简律动里。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-05T00:05:34Z",
+  "updatedAt": "2026-05-05T00:05:34Z"
+}

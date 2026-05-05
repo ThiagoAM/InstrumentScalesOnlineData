@@ -1034,5 +1034,33 @@
     "order": 37,
     "createdAt": "2026-05-04T00:09:33Z",
     "updatedAt": "2026-05-04T00:09:33Z"
+  },
+  {
+    "id": "bass-ghost-note-switchyard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost-Note Switchyard",
+        "pt-BR": "Pátio de Troca com Ghost Notes",
+        "es": "Patio de Desvíos con Ghost Notes",
+        "de": "Ghost-Note-Rangierbahnhof",
+        "ja": "ゴーストノート・スイッチヤード",
+        "zh-Hans": "幽灵音调度场"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a major-scale groove that uses ghost notes like traffic signals instead of filler.",
+        "pt-BR": "Construa um groove de escala maior usando ghost notes como sinais de trânsito, não como enfeite vazio.",
+        "es": "Construye un groove de escala mayor usando las ghost notes como señales de tráfico y no como relleno.",
+        "de": "Baue einen Durtonleiter-Groove, in dem Ghost Notes wie Verkehrssignale statt bloßes Füllmaterial wirken.",
+        "ja": "ゴーストノートをただの埋め草ではなく交通信号のように使うメジャースケール・グルーヴを作ろう。",
+        "zh-Hans": "打造一个大调音阶律动，让幽灵音像交通信号而不是无意义填充。"
+      }
+    },
+    "order": 38,
+    "createdAt": "2026-05-05T00:05:34Z",
+    "updatedAt": "2026-05-05T00:05:34Z"
   }
 ]
