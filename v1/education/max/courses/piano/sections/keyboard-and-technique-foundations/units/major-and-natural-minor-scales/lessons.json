@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-05-05T00:05:35Z",
     "updatedAt": "2026-05-05T00:05:35Z"
+  },
+  {
+    "id": "thumb-under-time-trial",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Thumb-Under Time Trial",
+        "pt-BR": "Desafio contra o Tempo do Polegar por Baixo",
+        "es": "Contrarreloj del Pulgar por Debajo",
+        "de": "Daumen-unter-Zeitrennen",
+        "ja": "親指くぐりタイムトライアル",
+        "zh-Hans": "拇指穿越计时挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make thumb-under moves smooth so your scales stay even, light, and confident.",
+        "pt-BR": "Deixe o movimento do polegar por baixo suave para que suas escalas fiquem regulares, leves e confiantes.",
+        "es": "Haz que el paso del pulgar por debajo sea suave para que tus escalas suenen parejas, ligeras y seguras.",
+        "de": "Mache die Daumen-unterm-Bewegung weich, damit deine Skalen gleichmäßig, leicht und sicher bleiben.",
+        "ja": "親指くぐりを滑らかにして、スケールを均一で軽く自信ある音にしよう。",
+        "zh-Hans": "把拇指穿越动作练顺，让音阶保持均匀、轻盈和自信。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-05-06T00:09:08Z",
+    "updatedAt": "2026-05-06T00:09:08Z"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "id": "string-skip-scale-quest",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a medium groove and imagine you are dodging lasers across the fretboard. Today you will play a major scale pattern while skipping one string at a time, so every note has to land with intention.",
+          "pt-BR": "Ajuste um groove moderado e imagine que você está desviando de lasers pelo braço. Hoje você vai tocar um desenho de escala maior pulando uma corda por vez, então cada nota precisa cair com intenção.",
+          "es": "Pon un groove medio e imagina que esquivas láseres por el mástil. Hoy tocarás un patrón de escala mayor saltando una cuerda cada vez, así que cada nota debe caer con intención.",
+          "de": "Stelle einen mittleren Groove ein und stell dir vor, du weichst über das Griffbrett Lasern aus. Heute spielst du ein Durtonleiter-Muster und überspringst dabei jedes Mal eine Saite, also muss jeder Ton bewusst landen.",
+          "ja": "ミドルテンポのグルーヴを流し、指板の上でレーザーをよける気分で始めよう。今日はメジャースケールの形を使いながら、毎回1本の弦を飛ばして弾くので、すべての音を意図して当てる必要がある。",
+          "zh-Hans": "设定一个中速律动，想象自己在指板上躲避激光。今天你要用大调音阶型演奏，并且每次都跨过一根弦，所以每个音都必须有明确目标。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: choose G major. Play G-A-B on the 6th and 4th strings only, then C-D-E on the 5th and 3rd strings only. Let the skipped string stay silent; that silence is part of the challenge.",
+          "pt-BR": "Aquecimento: escolha Sol maior. Toque Sol-Lá-Si apenas nas cordas 6 e 4, depois Dó-Ré-Mi apenas nas cordas 5 e 3. Deixe a corda pulada em silêncio; esse silêncio faz parte do desafio.",
+          "es": "Calentamiento: elige Sol mayor. Toca Sol-La-Si solo en las cuerdas 6 y 4, luego Do-Re-Mi solo en las cuerdas 5 y 3. Deja la cuerda saltada en silencio; ese silencio es parte del reto.",
+          "de": "Aufwärmen: wähle G-Dur. Spiele G-A-H nur auf der 6. und 4. Saite, dann C-D-E nur auf der 5. und 3. Saite. Die übersprungene Saite bleibt stumm; genau das gehört zur Aufgabe.",
+          "ja": "ウォームアップ：Gメジャーを選ぶ。6弦と4弦だけでG-A-B、次に5弦と3弦だけでC-D-Eを弾こう。飛ばした弦は鳴らさないこと。その静けさも課題の一部だ。",
+          "zh-Hans": "热身：选G大调。只在6弦和4弦上弹G-A-B，再只在5弦和3弦上弹C-D-E。被跨过的弦要保持安静；这份安静本身就是挑战的一部分。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: play four-note groups with alternate picking. Pattern: G-A-B-C, then A-B-C-D, then B-C-D-E. After each group, freeze for one beat and check whether your fretting hand stayed relaxed.",
+          "pt-BR": "Exercício principal: toque grupos de quatro notas com palhetada alternada. Padrão: Sol-Lá-Si-Dó, depois Lá-Si-Dó-Ré, depois Si-Dó-Ré-Mi. Depois de cada grupo, congele por um tempo e confira se sua mão esquerda continua relaxada.",
+          "es": "Ejercicio principal: toca grupos de cuatro notas con púa alternada. Patrón: Sol-La-Si-Do, luego La-Si-Do-Re, luego Si-Do-Re-Mi. Después de cada grupo, congélate un pulso y comprueba si tu mano izquierda sigue relajada.",
+          "de": "Hauptübung: spiele Vierergruppen mit Wechselschlag. Muster: G-A-H-C, dann A-H-C-D, dann H-C-D-E. Nach jeder Gruppe frierst du einen Schlag lang ein und prüfst, ob deine Greifhand locker geblieben ist.",
+          "ja": "メイン練習：オルタネイトピッキングで4音グループを弾く。パターンは G-A-B-C、次に A-B-C-D、次に B-C-D-E。各グループのあと1拍止まり、左手が力んでいないか確認しよう。",
+          "zh-Hans": "主练习：用交替拨弦演奏四音一组。模式：G-A-B-C，然后A-B-C-D，再然后B-C-D-E。每组结束后停一拍，检查按弦手是否仍然放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accuracy game: if a skipped string rings by accident, restart the group and whisper the note names before you try again. It is better to sound precise at 60 bpm than messy at 90 bpm.",
+          "pt-BR": "Jogo de precisão: se a corda pulada soar por acidente, recomece o grupo e sussurre os nomes das notas antes de tentar de novo. É melhor soar preciso a 60 bpm do que bagunçado a 90 bpm.",
+          "es": "Juego de precisión: si la cuerda saltada suena por accidente, reinicia el grupo y susurra los nombres de las notas antes de intentarlo otra vez. Es mejor sonar preciso a 60 bpm que desordenado a 90 bpm.",
+          "de": "Präzisionsspiel: wenn die übersprungene Saite versehentlich klingt, starte die Gruppe neu und flüstere die Notennamen, bevor du es wieder versuchst. Lieber sauber bei 60 bpm als chaotisch bei 90 bpm.",
+          "ja": "精度ゲーム：飛ばした弦がうっかり鳴ったら、そのグループをやり直し、もう一度弾く前に音名をささやく。90 bpmで雑になるより、60 bpmで正確なほうがずっといい。",
+          "zh-Hans": "精准游戏：如果被跨过的弦意外响了，就重新开始这一组，并在再次尝试前轻声说出音名。60 bpm下的干净，比90 bpm下的混乱更有价值。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Musical round: create a 2-bar riff using only G major notes, but every phrase must include at least one string skip and must end on G, B, or D. Record one take and listen for tone, not just correct notes.",
+          "pt-BR": "Rodada musical: crie um riff de 2 compassos usando apenas notas de Sol maior, mas cada frase deve incluir pelo menos um salto de corda e terminar em Sol, Si ou Ré. Grave uma tomada e escute o timbre, não só as notas certas.",
+          "es": "Ronda musical: crea un riff de 2 compases usando solo notas de Sol mayor, pero cada frase debe incluir al menos un salto de cuerda y terminar en Sol, Si o Re. Graba una toma y escucha el sonido, no solo las notas correctas.",
+          "de": "Musikalische Runde: erfinde ein 2-taktiges Riff nur mit Tönen aus G-Dur, aber jede Phrase muss mindestens einen Saitensprung enthalten und auf G, H oder D enden. Nimm einen Durchgang auf und höre auf den Klang, nicht nur auf die richtigen Töne.",
+          "ja": "音楽ラウンド：Gメジャーの音だけで2小節のリフを作る。ただし各フレーズに最低1回の弦飛びを入れ、最後はG、B、Dのどれかで終えること。1テイク録音して、正しい音だけでなく音色も聴こう。",
+          "zh-Hans": "音乐回合：只用G大调音组成一个2小节riff，但每个乐句都必须至少包含一次跨弦，并且结束在G、B或D上。录下一遍，回听时关注音色，不只看音是否对。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: when the skips feel clean twice in a row, raise the metronome by 4 bpm. If your shoulders tighten, drop the speed and win with control.",
+          "pt-BR": "Checkpoint: quando os saltos saírem limpos duas vezes seguidas, aumente o metrônomo em 4 bpm. Se os ombros travarem, reduza a velocidade e vença com controle.",
+          "es": "Checkpoint: cuando los saltos salgan limpios dos veces seguidas, sube el metrónomo 4 bpm. Si tus hombros se tensan, baja la velocidad y gana con control.",
+          "de": "Checkpoint: wenn die Sprünge zweimal hintereinander sauber sind, erhöhe das Metronom um 4 bpm. Wenn sich deine Schultern verspannen, nimm Tempo raus und gewinne mit Kontrolle.",
+          "ja": "チェックポイント：弦飛びが2回連続でクリーンに決まったら、メトロノームを4 bpm上げる。肩が固まるならテンポを下げ、コントロールで勝とう。",
+          "zh-Hans": "检查点：当跨弦连续两次都很干净时，把节拍器提高4 bpm。如果肩膀开始紧张，就降速，用控制力取胜。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-06T00:06:36Z",
+  "updatedAt": "2026-05-06T00:06:36Z"
+}

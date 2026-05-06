@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-04-23T00:08:21Z",
     "updatedAt": "2026-04-23T00:08:21Z"
+  },
+  {
+    "id": "string-skip-scale-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "String-Skip Scale Quest",
+        "pt-BR": "Missão da Escala com Salto de Cordas",
+        "es": "Misión de Escala con Salto de Cuerdas",
+        "de": "Saitensprung-Skalenmission",
+        "ja": "弦飛びスケール・クエスト",
+        "zh-Hans": "跨弦音阶任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train clean string skips while keeping your scale notes musical and in time.",
+        "pt-BR": "Treine saltos de cordas limpos mantendo as notas da escala musicais e no tempo.",
+        "es": "Entrena saltos de cuerda limpios manteniendo tus notas de escala musicales y a tiempo.",
+        "de": "Trainiere saubere Saitensprünge und halte deine Skalentöne musikalisch und im Timing.",
+        "ja": "クリーンな弦飛びを鍛えながら、スケール音を音楽的にタイム内で保とう。",
+        "zh-Hans": "在保持音乐性与节奏稳定的同时，训练干净的跨弦音阶演奏。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-05-06T00:06:36Z",
+    "updatedAt": "2026-05-06T00:06:36Z"
   }
 ]

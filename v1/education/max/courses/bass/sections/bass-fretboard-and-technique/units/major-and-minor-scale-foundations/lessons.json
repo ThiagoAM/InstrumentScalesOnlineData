@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-04-06T00:07:05Z",
     "updatedAt": "2026-04-06T00:07:05Z"
+  },
+  {
+    "id": "syncopated-scale-ladder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Scale Ladder",
+        "pt-BR": "Escada de Escala Sincopada",
+        "es": "Escalera de Escala Sincopada",
+        "de": "Synkopierte Skalenleiter",
+        "ja": "シンコペーション・スケールラダー",
+        "zh-Hans": "切分音阶阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb a scale with syncopation so your groove stays alive while your fingers work.",
+        "pt-BR": "Suba uma escala com síncopa para manter o groove vivo enquanto os dedos trabalham.",
+        "es": "Sube una escala con síncopa para que el groove siga vivo mientras tus dedos trabajan.",
+        "de": "Steige mit Synkopen durch eine Skala, damit dein Groove lebendig bleibt, während deine Finger arbeiten.",
+        "ja": "シンコペーションでスケールを登り、指を鍛えながらグルーヴも生かそう。",
+        "zh-Hans": "用切分节奏爬音阶，让手指训练和律动感同时在线。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-05-06T00:08:01Z",
+    "updatedAt": "2026-05-06T00:08:01Z"
   }
 ]

@@ -18,6 +18,7 @@
     "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/guitar-scale-accent-switchback",
     "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/guitar-scale-compass-jam",
     "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/guitar-scale-detour-dash",
+    "guitar/guitar-fretboard-foundations/reading-and-practicing-scales/string-skip-scale-quest",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/c-major-scale-two-positions",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/a-natural-minor-scale-two-positions",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/connecting-major-and-relative-minor",
@@ -87,5 +88,5 @@
     "guitar/guitar-applying-scales-in-improvisation/practice-routines-and-etudes/guitar-chorus-jetpack"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-05-05T00:05:25Z"
+  "updatedAt": "2026-05-06T00:06:36Z"
 }
