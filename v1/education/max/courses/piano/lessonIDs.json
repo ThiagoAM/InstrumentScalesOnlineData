@@ -3,6 +3,7 @@
     "piano/keyboard-and-technique-foundations/keyboard-map-and-intervals/identifying-all-notes-on-the-keyboard",
     "piano/keyboard-and-technique-foundations/keyboard-map-and-intervals/whole-steps-half-steps-and-intervals",
     "piano/keyboard-and-technique-foundations/keyboard-map-and-intervals/simple-interval-exercises-using-c-major",
+    "piano/keyboard-and-technique-foundations/keyboard-map-and-intervals/black-key-interval-treasure-hunt",
     "piano/keyboard-and-technique-foundations/hand-position-and-fingering/basic-5-finger-position-in-c",
     "piano/keyboard-and-technique-foundations/hand-position-and-fingering/standard-fingerings-for-c-major-and-g-major",
     "piano/keyboard-and-technique-foundations/hand-position-and-fingering/finger-independence-exercises",
@@ -88,5 +89,5 @@
     "piano/scale-based-practice-routines/creating-your-own-practice-plan/piano-practice-weather-report"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-05-06T00:09:08Z"
+  "updatedAt": "2026-05-07T00:11:00Z"
 }

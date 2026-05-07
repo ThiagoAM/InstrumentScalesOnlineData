@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-04-14T00:08:48Z",
     "updatedAt": "2026-04-14T00:08:48Z"
+  },
+  {
+    "id": "bending-into-chord-tones-bullseye",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bend Into the Chord Tone Bullseye",
+        "pt-BR": "Acertando a nota-alvo com bends",
+        "es": "Bends hacia la nota objetivo",
+        "de": "Mit Bends ins Ziel der Akkordtöne",
+        "ja": "ベンドで狙うコードトーン命中レッスン",
+        "zh-Hans": "用推弦命中和弦音靶心"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale runs into musical guitar lines by targeting chord tones with controlled bends.",
+        "pt-BR": "Transforme desenhos de escala em frases musicais mirando notas do acorde com bends controlados.",
+        "es": "Convierte patrones de escala en frases musicales apuntando a notas del acorde con bends controlados.",
+        "de": "Verwandle Gitarrenskalen in musikalische Phrasen, indem du Akkordtöne mit kontrollierten Bends anvisierst.",
+        "ja": "コントロールしたベンドでコードトーンを狙い、スケール練習を音楽的なギターフレーズへ変えます。",
+        "zh-Hans": "用有控制的推弦去瞄准和弦音，把音阶练习变成真正有音乐感的吉他乐句。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-05-07T00:08:28Z",
+    "updatedAt": "2026-05-07T00:08:28Z"
   }
 ]

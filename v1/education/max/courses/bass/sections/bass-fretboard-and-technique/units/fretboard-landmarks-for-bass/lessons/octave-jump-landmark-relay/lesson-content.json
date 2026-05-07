@@ -1,0 +1,73 @@
+{
+  "id": "octave-jump-landmark-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today's bass mission is simple: pick one note name—let's use **G**—and find it in at least **three places** on the neck. Play the low G, then jump to its octave, then another G in a new position. Say the note name every time you land. If your fingers arrive before your brain, slow down and make your brain the bandleader again.",
+          "pt-BR": "A missão de hoje no baixo é simples: escolha um nome de nota—vamos usar **G**—e encontre essa nota em pelo menos **três lugares** do braço. Toque o G grave, pule para sua oitava e depois para outro G em nova posição. Fale o nome da nota cada vez que chegar. Se os dedos estiverem chegando antes do cérebro, diminua e devolva a liderança para o cérebro.",
+          "es": "La misión de bajo de hoy es simple: elige un nombre de nota—usemos **G**—y encuéntrala en al menos **tres lugares** del mástil. Toca el G grave, salta a su octava y luego a otro G en una posición nueva. Di el nombre de la nota cada vez que aterrices. Si tus dedos llegan antes que tu cerebro, baja la velocidad y deja que el cerebro vuelva a dirigir la banda.",
+          "de": "Die heutige Bass-Mission ist einfach: Wähle einen Notennamen—nehmen wir **G**—und finde ihn an mindestens **drei Stellen** auf dem Hals. Spiele das tiefe G, springe zu seiner Oktave und dann zu einem weiteren G in neuer Lage. Sage den Notennamen jedes Mal mit. Wenn deine Finger schneller ankommen als dein Kopf, verlangsame und gib deinem Kopf wieder die Leitung.",
+          "ja": "今日のベース課題はシンプルです。1つ音名を選びます。ここでは **G** にしましょう。その音を指板上の **3か所以上** で見つけてください。低いGを弾き、オクターブ上のGへ跳び、さらに別ポジションのGへ移動します。着地するたびに音名を口に出しましょう。もし指が頭より先に動いているなら、テンポを落として頭をもう一度バンドリーダーに戻してください。",
+          "zh-Hans": "今天的贝斯任务很简单：选一个音名——就用 **G** ——然后在指板上至少找到它 **三个位置**。先弹低音G，再跳到它的八度，再去另一个把位的G。每次落点都把音名说出来。如果手指总是比脑子先到，那就放慢速度，让大脑重新当乐队指挥。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use this relay pattern: **root - octave - root - octave**, all in quarter notes at a relaxed tempo. On bass, clean shifts matter more than speed. Let every note be short and punchy, like you're passing a baton instead of dragging a suitcase. The goal is not “more motion”; the goal is “zero panic while moving.”",
+          "pt-BR": "Use este padrão de revezamento: **tônica - oitava - tônica - oitava**, em semínimas num andamento confortável. No baixo, mudança limpa vale mais que velocidade. Deixe cada nota curta e definida, como se você estivesse passando um bastão e não arrastando uma mala. O objetivo não é “mais movimento”; é “zero pânico ao se deslocar”.",
+          "es": "Usa este patrón de relevo: **tónica - octava - tónica - octava**, todo en negras y a un tempo relajado. En el bajo, los cambios limpios importan más que la velocidad. Haz que cada nota sea corta y con pegada, como si pasaras un testigo y no arrastraras una maleta. La meta no es “más movimiento”; la meta es “cero pánico al desplazarte”.",
+          "de": "Nutze dieses Staffel-Muster: **Grundton - Oktave - Grundton - Oktave**, alles in Vierteln bei entspanntem Tempo. Auf dem Bass sind saubere Lagenwechsel wichtiger als Geschwindigkeit. Jede Note soll kurz und klar sein, als würdest du einen Staffelstab übergeben statt einen Koffer zu schleppen. Das Ziel ist nicht „mehr Bewegung“, sondern „null Panik beim Wechseln“.",
+          "ja": "使うパターンは **ルート - オクターブ - ルート - オクターブ**。すべて4分音符で、ゆったりしたテンポで行います。ベースでは速さよりもきれいな移動のほうが大切です。各音は短くはっきり、まるでバトンを渡すように弾きましょう。スーツケースを引きずる感じではありません。目標は「たくさん動くこと」ではなく、「動いてもパニックにならないこと」です。",
+          "zh-Hans": "使用这个接力模式：**根音 - 八度 - 根音 - 八度**，全都用四分音符，在轻松的速度下完成。对贝斯来说，干净的把位移动比速度更重要。每个音都要短、结实，像在传接力棒，而不是拖着行李箱。目标不是“动得更多”，而是“移动时完全不慌”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now cycle through **A, C, E, and F**. These are friendly landmarks because they show up constantly in real songs. For each note, find one version on the E string, one on the A string, and one higher option if available. If you get lost, use octaves as your emergency exit: one string over and two frets up usually gets you home.",
+          "pt-BR": "Agora passe por **A, C, E e F**. Esses pontos são amigáveis porque aparecem o tempo todo em músicas reais. Para cada nota, ache uma versão na corda E, uma na corda A e uma opção mais aguda quando houver. Se você se perder, use as oitavas como saída de emergência: uma corda ao lado e duas casas acima normalmente te levam de volta para casa.",
+          "es": "Ahora recorre **A, C, E y F**. Son referencias amables porque aparecen constantemente en canciones reales. Para cada nota, encuentra una versión en la cuerda E, otra en la cuerda A y una opción más aguda si existe. Si te pierdes, usa las octavas como salida de emergencia: una cuerda al lado y dos trastes arriba casi siempre te devuelven a casa.",
+          "de": "Gehe jetzt durch **A, C, E und F**. Das sind dankbare Orientierungstöne, weil sie in echten Songs ständig vorkommen. Finde zu jedem Ton eine Version auf der E-Saite, eine auf der A-Saite und wenn möglich eine höhere Lage. Wenn du dich verläufst, nutze Oktaven als Notausgang: eine Saite weiter und zwei Bünde höher bringt dich oft zurück nach Hause.",
+          "ja": "次に **A、C、E、F** でも同じことをします。これらは実際の曲でよく出てくる、覚えておくと便利なランドマークです。それぞれの音について、E弦上の位置、A弦上の位置、可能ならさらに高い位置も探してください。迷ったらオクターブを非常口として使いましょう。たいていは **隣の弦へ移って2フレット上** で帰ってこられます。",
+          "zh-Hans": "然后轮到 **A、C、E、F**。这些都是很友好的地标音，因为在真实歌曲里它们出现得非常频繁。每个音都尽量找到 E弦上的一个位置、A弦上的一个位置，以及一个更高的可用位置。如果你迷路了，就把八度关系当紧急出口：通常 **跨到旁边一根弦，再上两品** 就能回家。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time to add groove. Put on a metronome and play **two bars of note relays**, then **two bars of a simple groove** using the same note set. Example: two bars mapping Cs, then two bars of a C groove using C, G, and octave C. This turns fretboard geography into actual bass playing instead of silent cartography.",
+          "pt-BR": "Hora de colocar groove nisso. Ligue o metrônomo e toque **dois compassos de revezamento de notas**, depois **dois compassos de um groove simples** com o mesmo conjunto de notas. Exemplo: dois compassos mapeando Dós, depois dois compassos de groove em C usando C, G e o C oitavado. Assim a geografia do braço vira tocar baixo de verdade, e não cartografia silenciosa.",
+          "es": "Es hora de añadir groove. Pon un metrónomo y toca **dos compases de relevos de notas**, luego **dos compases de un groove sencillo** con el mismo grupo de notas. Ejemplo: dos compases localizando notas de C, luego dos compases de un groove en C usando C, G y la octava de C. Así la geografía del mástil se convierte en bajo real y no en cartografía silenciosa.",
+          "de": "Jetzt kommt Groove dazu. Stelle ein Metronom an und spiele **zwei Takte Noten-Staffel**, danach **zwei Takte eines einfachen Grooves** mit demselben Tonvorrat. Beispiel: zwei Takte nur C-Landmarken, dann zwei Takte C-Groove mit C, G und dem hohen C. So wird Griffbrett-Geografie zu echtem Bassspiel statt zu stiller Kartografie.",
+          "ja": "ここでグルーヴを追加します。メトロノームを鳴らし、**2小節は音のリレー**、続けて **2小節は同じ音素材でシンプルなグルーヴ** を弾きます。たとえばCなら、2小節でCの場所を確認し、そのあとC、G、オクターブCを使って2小節のCグルーヴを作ります。これで指板の地図が、無言の地理ではなく実際のベース演奏になります。",
+          "zh-Hans": "现在把律动加进来。打开节拍器，先弹 **两小节音位接力**，再弹 **两小节使用同样音集合的简单 groove**。例如：先用两小节找所有 C，再用 C、G 和高八度 C 做两小节 C groove。这样，指板地理就会变成真正的贝斯演奏，而不是安静的地图测绘。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: choose a random note and give yourself **five seconds** to find two usable locations without stopping the pulse. If you miss, laugh, reset, and try again. Bass players are navigation experts with good time. Build both skills together, and the neck starts feeling smaller in the best possible way.",
+          "pt-BR": "Desafio final: escolha uma nota aleatória e dê a si mesmo **cinco segundos** para encontrar duas posições utilizáveis sem perder a pulsação. Se errar, ria, reinicie e tente de novo. Baixistas são especialistas em navegação com bom tempo. Desenvolva as duas habilidades juntas e o braço vai parecer menor do melhor jeito possível.",
+          "es": "Reto final: elige una nota al azar y date **cinco segundos** para encontrar dos ubicaciones útiles sin detener el pulso. Si fallas, ríete, reinicia y vuelve a intentarlo. Los bajistas son expertos en navegación con buen tiempo. Construye ambas habilidades juntas y el mástil empezará a sentirse más pequeño de la mejor manera.",
+          "de": "Abschluss-Challenge: Wähle einen zufälligen Ton und gib dir **fünf Sekunden**, um zwei brauchbare Positionen zu finden, ohne den Puls zu verlieren. Wenn du danebenliegst, lach kurz, setze neu an und versuche es nochmal. Bassistinnen und Bassisten sind Navigationsprofis mit gutem Timing. Trainiere beides zusammen, dann fühlt sich der Hals auf die beste Weise kleiner an.",
+          "ja": "最後のチャレンジです。ランダムな音を1つ選び、**5秒以内** に使えるポジションを2つ見つけながら拍を止めないでください。失敗したら笑ってリセットし、もう一度。ベーシストは時間感覚のあるナビゲーターです。両方を一緒に鍛えると、指板が気持ちよく小さく感じられるようになります。",
+          "zh-Hans": "最终挑战：随机选一个音，给自己 **五秒钟**，在不停拍的前提下找到两个能马上用的位置。没找到也没关系，笑一下，重来。贝斯手本来就该是有节奏感的导航专家。把这两项能力一起练，指板会以一种很美妙的方式突然变小。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-07T00:09:54Z",
+  "updatedAt": "2026-05-07T00:09:54Z"
+}

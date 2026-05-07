@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "octave-jump-landmark-relay",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Jump Landmark Relay",
+        "pt-BR": "Revezamento de oitavas e pontos de referência",
+        "es": "Relevo de saltos de octava y referencias",
+        "de": "Oktavsprung-Landmarken-Staffel",
+        "ja": "オクターブ・ジャンプで覚える指板リレー",
+        "zh-Hans": "八度跳跃地标接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn bass neck landmarks faster by jumping between root notes and their octaves without losing the groove.",
+        "pt-BR": "Aprenda os pontos de referência do braço do baixo mais rápido saltando entre tônicas e oitavas sem perder o groove.",
+        "es": "Aprende las referencias del mástil del bajo más rápido saltando entre tónicas y octavas sin perder el groove.",
+        "de": "Lerne Orientierungspunkte auf dem Basshals schneller, indem du zwischen Grundtönen und Oktaven springst, ohne den Groove zu verlieren.",
+        "ja": "ルート音とオクターブを行き来しながら、グルーヴを崩さずにベースの指板ランドマークを覚えます。",
+        "zh-Hans": "在不丢掉律动的前提下，通过根音与八度之间的跳转更快记住贝斯指板地标。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-05-07T00:09:54Z",
+    "updatedAt": "2026-05-07T00:09:54Z"
   }
 ]

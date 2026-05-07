@@ -1,0 +1,73 @@
+{
+  "id": "bending-into-chord-tones-bullseye",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with **A minor pentatonic** in 5th position, but do not play it like a scale exercise. Your mission is to make three notes feel like home: **A, C, and E**. Play a short phrase, then land on one of those notes and let it ring. If it sounds like the phrase suddenly “makes sense,” you just hit a chord tone bullseye.",
+          "pt-BR": "Comece com a **pentatônica de A menor** na 5ª posição, mas não toque como se fosse só um exercício de escala. Sua missão é fazer três notas soarem como casa: **A, C e E**. Toque uma frase curta e termine em uma dessas notas, deixando-a soar. Se tudo parecer “se encaixar” de repente, você acertou uma nota do acorde em cheio.",
+          "es": "Empieza con la **pentatónica menor de A** en la 5ª posición, pero no la toques como un simple ejercicio. Tu misión es hacer que tres notas se sientan como casa: **A, C y E**. Toca una frase corta y termina en una de esas notas, dejándola sonar. Si de pronto todo “encaja”, acabas de dar en el blanco de una nota del acorde.",
+          "de": "Starte mit der **A-Moll-Pentatonik** in der 5. Lage, aber spiele sie nicht wie eine reine Fingerübung. Deine Mission: Drei Töne sollen sich wie Zuhause anfühlen: **A, C und E**. Spiele eine kurze Phrase und lande dann auf einem dieser Töne, den du ausklingen lässt. Wenn plötzlich alles logisch klingt, hast du einen Akkordton direkt getroffen.",
+          "ja": "まずは5ポジションの**Aマイナー・ペンタトニック**から始めます。ただし、ただの運指練習のようには弾かないでください。今日の着地点は **A、C、E** の3音です。短いフレーズを弾いたら、そのどれかに着地してしっかり伸ばしましょう。急にフレーズが「意味を持った」ように聞こえたら、コードトーンの的に当たっています。",
+          "zh-Hans": "先从第5把位的 **A小调五声音阶** 开始，但别把它弹成普通手指操。今天的任务，是让 **A、C、E** 这三个音听起来像“回家”。弹一句短乐句，然后落在这三个音之一并让它延音。如果你突然觉得整句“说通了”，那就是命中了和弦音靶心。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a bend challenge. On the **G string, 7th fret (D)**, bend up a whole step to **E**. On the **B string, 8th fret (G)**, bend a half step to **G#** only if you briefly want outside tension, then resolve back into **A or E**. The point is not random string wrestling—it's hearing the destination before your finger moves.",
+          "pt-BR": "Agora vem o desafio do bend. Na **corda G, casa 7 (D)**, faça um bend de um tom até **E**. Na **corda B, casa 8 (G)**, faça um bend de meio tom até **G#** apenas se quiser uma tensão rápida “fora”, resolvendo logo em **A ou E**. A ideia não é brigar com a corda sem rumo, e sim ouvir a nota de chegada antes do dedo subir.",
+          "es": "Ahora añade el reto del bend. En la **cuerda G, traste 7 (D)**, haz un bend de un tono hasta **E**. En la **cuerda B, traste 8 (G)**, haz un bend de medio tono hasta **G#** solo si quieres una tensión breve “fuera”, resolviendo enseguida hacia **A o E**. La idea no es pelearse con la cuerda: es oír el destino antes de mover el dedo.",
+          "de": "Jetzt kommt die Bend-Challenge. Auf der **G-Saite im 7. Bund (D)** ziehst du einen Ganzton-Bend nach **E**. Auf der **B-Saite im 8. Bund (G)** ziehst du einen Halbton-Bend nach **G#**, aber nur, wenn du kurz Spannung von außen erzeugen und sofort nach **A oder E** auflösen willst. Es geht nicht um wildes Saitenziehen, sondern darum, den Zielton vorher innerlich zu hören.",
+          "ja": "次はベンドの課題です。**3弦7フレットのD** を全音ベンドして **E** へ。**2弦8フレットのG** は、短く外側のテンションを作りたいときだけ半音ベンドして **G#** にし、そのあとすぐ **A か E** へ解決します。やみくもに弦を引っ張るのではなく、指を動かす前に到着音を耳でイメージするのが大事です。",
+          "zh-Hans": "接着加入推弦挑战。**3弦7品的 D** 推全音到 **E**。**2弦8品的 G** 只有在你想短暂制造一点“外侧”张力时，才推半音到 **G#**，然后马上解决回 **A 或 E**。重点不是跟琴弦硬拼，而是在手指动作之前，先在耳朵里听见目标音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Practice over a simple vamp: **| Am | Am | F | E |**. Over **Am**, aim for A, C, or E. Over **F**, try landing on F or A. Over **E**, target E or G#. Keep the phrase short: two or three scale notes, then one strong landing note. This is how “running a box” turns into actual phrasing.",
+          "pt-BR": "Pratique sobre um vamp simples: **| Am | Am | F | E |**. Em **Am**, mire em A, C ou E. Em **F**, tente cair em F ou A. Em **E**, busque E ou G#. Mantenha a frase curta: duas ou três notas da escala e depois uma nota de chegada forte. É assim que “rodar um shape” vira fraseado de verdade.",
+          "es": "Practica sobre un vamp sencillo: **| Am | Am | F | E |**. Sobre **Am**, apunta a A, C o E. Sobre **F**, intenta caer en F o A. Sobre **E**, busca E o G#. Mantén la frase corta: dos o tres notas de la escala y luego una nota de llegada fuerte. Así es como “correr una caja” se convierte en fraseo real.",
+          "de": "Übe über diesen einfachen Vamp: **| Am | Am | F | E |**. Über **Am** zielst du auf A, C oder E. Über **F** landest du möglichst auf F oder A. Über **E** suchst du E oder G#. Halte die Phrase kurz: zwei oder drei Skalennoten, dann ein klarer Zielton. So wird aus dem reinen „Box-Abspulen“ echtes Phrasieren.",
+          "ja": "次のシンプルなヴァンプで練習しましょう: **| Am | Am | F | E |**。**Am** では A、C、E を狙います。**F** では F か A に着地。**E** では E か G# を狙います。フレーズは短く、スケールの音を2〜3音使ったあとに強い着地点を作ってください。これで「ボックスをなぞるだけ」から本当のフレージングに変わります。",
+          "zh-Hans": "用这个简单的 vamp 练习：**| Am | Am | F | E |**。在 **Am** 上瞄准 A、C、E；在 **F** 上尽量落到 F 或 A；在 **E** 上瞄准 E 或 G#。乐句要短：先用两三个音阶音，再落一个有分量的目标音。这样你就会从“跑把位”开始变成真正的乐句表达。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Game mode: give yourself **one bend per bar**. If the bend does not clearly land on a useful note, it doesn't count. Sing the target pitch before you bend. Yes, out loud if possible. Your ear should lead and your hands should obey, not the other way around.",
+          "pt-BR": "Modo jogo: permita-se **um bend por compasso**. Se o bend não cair claramente numa nota útil, ele não vale. Cante a altura de chegada antes de dobrar a corda. Sim, em voz alta se puder. O ouvido manda e a mão obedece, não o contrário.",
+          "es": "Modo juego: date **un bend por compás**. Si el bend no aterriza claramente en una nota útil, no cuenta. Canta la altura objetivo antes de hacer el bend. Sí, en voz alta si puedes. El oído debe mandar y la mano obedecer, no al revés.",
+          "de": "Spielmodus: Erlaube dir **einen Bend pro Takt**. Wenn der Bend nicht klar auf einem sinnvollen Ton landet, zählt er nicht. Singe den Zielton, bevor du ziehst. Ja, ruhig laut. Das Ohr soll führen und die Hand folgen, nicht andersherum.",
+          "ja": "ゲームモードです。**1小節につき1回だけベンド** を使ってください。ベンドがはっきり有効な音に着地しなければノーカウント。ベンドする前に目標音程を歌ってみましょう。できれば声に出して。耳が先に決めて、手があとから従う状態を作るのが目的です。",
+          "zh-Hans": "进入游戏模式：**每小节只允许一次推弦**。如果推弦没有清楚落在一个有用的音上，就不算成功。推之前先把目标音唱出来；可以的话大声唱。你要训练的是耳朵先带路，手再执行，而不是反过来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mini reflection: which target note felt easiest to hear, and which bend felt risky? Build one **4-bar solo** using mostly chord tones, with only a few connector notes from the scale. If the solo sounds simpler but stronger, congratulations—you are starting to improvise like a musician instead of a scale vending machine.",
+          "pt-BR": "Mini reflexão: qual nota-alvo foi mais fácil de ouvir e qual bend pareceu mais arriscado? Monte um **solo de 4 compassos** usando principalmente notas do acorde, com poucas notas de ligação da escala. Se o solo soar mais simples e ao mesmo tempo mais forte, parabéns: você começou a improvisar como músico, não como uma máquina de despejar escalas.",
+          "es": "Mini reflexión: ¿qué nota objetivo fue la más fácil de oír y qué bend se sintió más arriesgado? Construye un **solo de 4 compases** usando sobre todo notas del acorde, con pocas notas de conexión de la escala. Si el solo suena más simple pero más fuerte, enhorabuena: ya estás improvisando como músico y no como una máquina expendedora de escalas.",
+          "de": "Mini-Reflexion: Welcher Zielton war am leichtesten zu hören, und welcher Bend fühlte sich riskant an? Baue ein **4-taktiges Solo**, das hauptsächlich aus Akkordtönen besteht und nur wenige Verbindungstöne aus der Skala benutzt. Wenn das Solo einfacher, aber stärker klingt, improvisierst du langsam wie ein Musiker statt wie ein Skalen-Automat.",
+          "ja": "ミニ振り返り: いちばん聞き取りやすかった目標音はどれでしたか？ 逆に不安だったベンドはどれでしたか？ 最後に、主にコードトーンを使い、つなぎとして少しだけスケール音を入れた **4小節のソロ** を作ってください。前よりシンプルなのに説得力が増したら、あなたはもうスケール暗記マシンではなく、音楽家として即興し始めています。",
+          "zh-Hans": "最后做个小复盘：哪个目标音最容易听见？ 哪个推弦最让你冒汗？ 请写一个 **4小节 solo**，主要使用和弦音，只让少量音阶音负责连接。如果这个 solo 听起来更简单却更有力量，恭喜你——你已经开始像真正的音乐人即兴，而不是像音阶自动售货机一样出音了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-07T00:08:28Z",
+  "updatedAt": "2026-05-07T00:08:28Z"
+}
