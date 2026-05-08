@@ -1062,5 +1062,33 @@
     "order": 38,
     "createdAt": "2026-05-05T00:05:34Z",
     "updatedAt": "2026-05-05T00:05:34Z"
+  },
+  {
+    "id": "bass-pocket-switchback",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Switchback in A Major",
+        "pt-BR": "Curva de Pocket em Lá Maior",
+        "es": "Curva de Pocket en La Mayor",
+        "de": "Pocket-Kehre in A-Dur",
+        "ja": "Aメジャーのポケット・スイッチバック",
+        "zh-Hans": "A大调 Pocket 发卡弯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen your bass groove by making quick detours and returning to the pocket without wobbling.",
+        "pt-BR": "Fortaleça seu groove no baixo fazendo desvios rápidos e voltando ao pocket sem balançar.",
+        "es": "Refuerza tu groove de bajo haciendo desvíos rápidos y regresando al pocket sin tambalear.",
+        "de": "Stärke deinen Bass-Groove, indem du kurze Umwege nimmst und ohne Wackeln ins Pocket zurückkehrst.",
+        "ja": "すばやい寄り道から揺れずにポケットへ戻り、ベースのグルーヴを強くするレッスンです。",
+        "zh-Hans": "通过快速绕行再稳稳回到 pocket，让你的贝斯 groove 更扎实。"
+      }
+    },
+    "order": 39,
+    "createdAt": "2026-05-08T00:09:07Z",
+    "updatedAt": "2026-05-08T00:09:07Z"
   }
 ]

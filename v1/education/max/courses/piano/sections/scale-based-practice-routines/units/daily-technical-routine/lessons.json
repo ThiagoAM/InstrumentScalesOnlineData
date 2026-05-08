@@ -754,5 +754,33 @@
     "order": 27,
     "createdAt": "2026-05-01T00:08:11Z",
     "updatedAt": "2026-05-01T00:08:11Z"
+  },
+  {
+    "id": "piano-scale-baton-pass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Baton Pass in D Major",
+        "pt-BR": "Revezamento da Escala em Ré Maior",
+        "es": "Relevo de Escala en Re Mayor",
+        "de": "Staffelstab-Skala in D-Dur",
+        "ja": "Dメジャーのスケール・バトンパス",
+        "zh-Hans": "D大调音阶接力棒"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make daily piano scales more musical by passing the lead cleanly from one hand to the other.",
+        "pt-BR": "Deixe as escalas diárias no piano mais musicais passando a liderança com limpeza entre as mãos.",
+        "es": "Haz más musicales tus escalas diarias de piano pasando el liderazgo limpiamente entre las manos.",
+        "de": "Mach deine täglichen Klavierskalen musikalischer, indem du die Führung sauber von einer Hand zur anderen übergibst.",
+        "ja": "主役を片手からもう片手へきれいに渡して、毎日のピアノ音階をもっと音楽的にするレッスンです。",
+        "zh-Hans": "让主导权在双手之间干净传递，把每日钢琴音阶练得更有音乐性。"
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-05-08T00:10:18Z",
+    "updatedAt": "2026-05-08T00:10:18Z"
   }
 ]

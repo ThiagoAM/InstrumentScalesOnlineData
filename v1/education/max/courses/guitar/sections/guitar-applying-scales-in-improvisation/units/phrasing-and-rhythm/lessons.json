@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-05-01T00:08:10Z",
     "updatedAt": "2026-05-01T00:08:10Z"
+  },
+  {
+    "id": "guitar-silence-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Silence Slingshot in E Minor",
+        "pt-BR": "Estilingue do Silêncio em Mi Menor",
+        "es": "Tirachinas del Silencio en Mi Menor",
+        "de": "Stille-Schleuder in E-Moll",
+        "ja": "Eマイナーのサイレンス・スリングショット",
+        "zh-Hans": "E小调静默弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build sharper guitar phrasing by storing tension with silence and snapping back onto target notes.",
+        "pt-BR": "Construa frases de guitarra mais afiadas guardando tensão no silêncio e voltando para notas-alvo.",
+        "es": "Afila tu fraseo de guitarra guardando tensión en el silencio y regresando a notas objetivo.",
+        "de": "Schärfe dein Gitarren-Phrasing, indem du Spannung in der Stille speicherst und gezielt auf Zieltöne zurückkehrst.",
+        "ja": "沈黙にテンションをためて目標音へ戻ることで、ギターのフレージングを鋭くするレッスンです。",
+        "zh-Hans": "用停顿储存张力，再弹回目标音，让你的吉他乐句更锋利。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-05-08T00:07:36Z",
+    "updatedAt": "2026-05-08T00:07:36Z"
   }
 ]
