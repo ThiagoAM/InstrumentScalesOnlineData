@@ -1,0 +1,86 @@
+{
+  "id": "guitar-accent-periscope",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sometimes an improvised guitar phrase disappears into the backing track even when every note is technically correct. This lesson gives you an **accent periscope**: a way to make key notes pop above the surface so the listener can follow your shape.\n\nWork in **D dorian** or **D minor pentatonic** over a vamp like **Dm7 - G7**. Set a metronome or loop between **74 and 90 BPM** and keep your pick attack or finger attack relaxed enough that accents feel chosen, not angry.",
+          "pt-BR": "Às vezes uma frase improvisada de guitarra some no playback mesmo quando cada nota está tecnicamente correta. Esta lição oferece um **periscópio de acentos**: uma forma de fazer notas-chave aparecerem acima da superfície para que o ouvinte acompanhe o desenho.\n\nTrabalhe em **Ré dórico** ou **Ré pentatônica menor** sobre um vamp como **Dm7 - G7**. Ajuste metrônomo ou loop entre **74 e 90 BPM** e mantenha o ataque relaxado para que os acentos pareçam escolhidos, não irritados.",
+          "es": "A veces una frase improvisada de guitarra desaparece dentro de la base aunque cada nota sea técnicamente correcta. Esta lección te da un **periscopio de acentos**: una forma de hacer que las notas clave asomen por la superficie para que el oyente siga mejor la forma.\n\nTrabaja en **Re dórico** o **Re pentatónica menor** sobre un vamp como **Dm7 - G7**. Pon metrónomo o loop entre **74 y 90 BPM** y mantén el ataque relajado para que los acentos parezcan elegidos y no enfadados.",
+          "de": "Manchmal verschwindet eine improvisierte Gitarrenphrase im Backing Track, obwohl jeder Ton technisch korrekt ist. Diese Lektion gibt dir ein **Akzent-Periskop**: eine Methode, mit der Schlüsseltöne über die Oberfläche auftauchen, damit der Zuhörer die Form besser verfolgen kann.\n\nArbeite in **D-Dorisch** oder **D-Moll-Pentatonik** über einem Vamp wie **Dm7 - G7**. Stell Metronom oder Loop auf **74 bis 90 BPM** und halte den Anschlag locker genug, dass Akzente gewählt und nicht wütend klingen.",
+          "ja": "即興ギターのフレーズは、すべての音が正しくても伴奏に埋もれてしまうことがあります。このレッスンでは **アクセント潜望鏡** を使い、重要な音を水面の上に出して、聴き手がフレーズの形を追いやすくします。\n\n**Dドリアン** または **Dマイナー・ペンタトニック** を使い、**Dm7 - G7** のようなヴァンプで練習します。メトロノームやループは **74〜90 BPM**。アクセントが怒っているようではなく、選ばれたように聞こえる程度にアタックをリラックスさせてください。",
+          "zh-Hans": "有时候，一句即兴吉他乐句明明每个音都对，却还是会淹没在伴奏里。这节课给你一个 **重音潜望镜**：让关键音冒出水面，让听众更容易跟住乐句的形状。\n\n用 **D 多利亚** 或 **D 小调五声音阶**，在像 **Dm7 - G7** 这样的 vamp 上练习。把节拍器或 loop 设在 **74-90 BPM**，触弦保持放松，让重音听起来像“选择”，而不是“发火”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a **one-bar phrase** of **6 to 8 notes**. Play it three times with three different accent maps:\n- accent the first note\n- accent the highest note\n- accent the last note\n\nSame phrase, different spotlight. Your job is to hear how the phrase meaning changes when one note rises above the others.",
+          "pt-BR": "Monte uma **frase de um compasso** com **6 a 8 notas**. Toque-a três vezes com três mapas de acento:\n- acento na primeira nota\n- acento na nota mais aguda\n- acento na última nota\n\nMesma frase, holofote diferente. Seu trabalho é ouvir como o sentido muda quando uma nota sobe acima das outras.",
+          "es": "Construye una **frase de un compás** con **6 a 8 notas**. Tócala tres veces con tres mapas de acento:\n- acento en la primera nota\n- acento en la nota más aguda\n- acento en la última nota\n\nMisma frase, foco distinto. Tu trabajo es escuchar cómo cambia el significado cuando una nota sube por encima de las demás.",
+          "de": "Baue eine **Ein-Takt-Phrase** aus **6 bis 8 Tönen**. Spiele sie dreimal mit drei verschiedenen Akzentkarten:\n- Akzent auf dem ersten Ton\n- Akzent auf dem höchsten Ton\n- Akzent auf dem letzten Ton\n\nGleiche Phrase, anderes Licht. Deine Aufgabe ist zu hören, wie sich die Bedeutung ändert, wenn ein Ton über die anderen hinausragt.",
+          "ja": "**6〜8音** の **1小節フレーズ** を作り、3種類のアクセント地図で3回弾きます。\n- 最初の音にアクセント\n- 最高音にアクセント\n- 最後の音にアクセント\n\n同じフレーズでも、照らす場所が変われば意味が変わります。その違いを耳でつかみましょう。",
+          "zh-Hans": "做一个 **6 到 8 个音** 的 **一小节乐句**，然后用三种重音地图各弹一次：\n- 重音放在第一个音\n- 重音放在最高音\n- 重音放在最后一个音\n\n同一句子，不同聚光灯。你的任务，是听见当一个音浮到上面时，乐句含义怎么变化。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **surface check round**. Keep all non-accented notes even and calm. If the phrase turns into random volume spikes, you are not using a periscope — you are just splashing water everywhere.",
+          "pt-BR": "A Rodada 1 é a **rodada do teste de superfície**. Mantenha todas as notas sem acento regulares e calmas. Se a frase virar picos aleatórios de volume, você não está usando um periscópio — está só espirrando água para todo lado.",
+          "es": "La Ronda 1 es la **ronda de comprobación de superficie**. Mantén todas las notas no acentuadas parejas y calmadas. Si la frase se convierte en picos aleatorios de volumen, no estás usando un periscopio: solo estás salpicando agua por todas partes.",
+          "de": "Runde 1 ist die **Oberflächenkontroll-Runde**. Halte alle unbetonten Töne gleichmäßig und ruhig. Wenn die Phrase zu zufälligen Lautstärkespitzen wird, benutzt du kein Periskop — du spritzt nur Wasser in alle Richtungen.",
+          "ja": "ラウンド1は **水面チェック・ラウンド** です。アクセントのない音は均等で穏やかに保ちます。もしランダムな音量の山だけになったら、それは潜望鏡ではなく、水しぶきを上げているだけです。",
+          "zh-Hans": "第 1 轮是 **水面检查轮**。所有非重音音符都要保持平均、平静。如果整句变成随机音量尖峰，那你用的不是潜望镜，只是在到处泼水。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **landing-note round**. Rewrite the phrase so the final accented note lands on a chord tone. The accent should feel like a clear destination, not just a louder event. If the line sounds lost, shorten the phrase and make the landing simpler.",
+          "pt-BR": "A Rodada 2 é a **rodada da nota de chegada**. Reescreva a frase para que a última nota acentuada caia em uma nota do acorde. O acento deve soar como destino claro, não apenas como um evento mais alto. Se a linha parecer perdida, encurte a frase e simplifique a chegada.",
+          "es": "La Ronda 2 es la **ronda de nota de llegada**. Reescribe la frase para que la última nota acentuada caiga en una nota del acorde. El acento debe sentirse como un destino claro, no solo como un evento más fuerte. Si la línea suena perdida, acórtala y haz la llegada más simple.",
+          "de": "Runde 2 ist die **Landenoten-Runde**. Schreibe die Phrase so um, dass der letzte akzentuierte Ton auf einem Akkordton landet. Der Akzent soll wie ein klares Ziel wirken und nicht bloß wie ein lauterer Moment. Wenn die Linie verloren klingt, verkürze die Phrase und vereinfache die Landung.",
+          "ja": "ラウンド2は **着地音ラウンド** です。最後のアクセント音がコードトーンに着地するようにフレーズを書き直します。アクセントはただ大きいだけでなく、明確な目的地に聞こえるべきです。迷子に聞こえるなら、フレーズを短くして着地を単純にしてください。",
+          "zh-Hans": "第 2 轮是 **落地音轮**。改写乐句，让最后那个重音落在和弦音上。这个重音应该像一个明确终点，而不只是“更大声的事件”。如果线条听起来迷路了，就把句子缩短，把落地做得更简单。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **improv swap round**. Alternate between two short phrases every **four repeats** and keep the accent map consistent. This trains you to carry phrasing intent from one idea into the next instead of resetting your musical personality every bar.",
+          "pt-BR": "A Rodada 3 é a **rodada da troca no improviso**. Alterne entre duas frases curtas a cada **quatro repetições** e mantenha o mesmo mapa de acentos. Isso treina você a carregar a intenção de fraseado de uma ideia para a próxima, em vez de reiniciar sua personalidade musical a cada compasso.",
+          "es": "La Ronda 3 es la **ronda de cambio improvisado**. Alterna entre dos frases cortas cada **cuatro repeticiones** y mantén el mismo mapa de acentos. Esto te entrena para llevar la intención de fraseo de una idea a la siguiente en lugar de reiniciar tu personalidad musical en cada compás.",
+          "de": "Runde 3 ist die **Impro-Wechsel-Runde**. Wechsle alle **vier Wiederholungen** zwischen zwei kurzen Phrasen und behalte dieselbe Akzentkarte bei. So trainierst du, phrasiertes Denken von einer Idee in die nächste mitzunehmen, statt deine musikalische Persönlichkeit in jedem Takt neu zu starten.",
+          "ja": "ラウンド3は **即興スワップ・ラウンド** です。2つの短いフレーズを **4回ごと** に交互にし、アクセント地図は同じままにします。これで、毎小節ごとに性格をリセットせず、フレージングの意図を次のアイデアへ持ち運ぶ練習になります。",
+          "zh-Hans": "第 3 轮是 **即兴切换轮**。每 **4 次重复** 在两条短乐句之间切换，但保持同一套重音地图。这会训练你把乐句意图从一个想法带到下一个，而不是每小节都重启一次自己的音乐人格。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final test, record **45 seconds** of improvising with just a few scale notes and deliberate accents. Then ask:\n- Could a listener sing back the accented notes?\n- Did the accents reveal structure instead of noise?\n- Did the phrase endings feel more convincing?\n\nA smart accent is not decoration. It is a flashlight for the phrase.",
+          "pt-BR": "No teste final, grave **45 segundos** improvisando com poucas notas de escala e acentos deliberados. Depois pergunte:\n- Um ouvinte conseguiria cantar de volta as notas acentuadas?\n- Os acentos revelaram estrutura em vez de ruído?\n- Os finais de frase ficaram mais convincentes?\n\nUm acento inteligente não é decoração. É uma lanterna para a frase.",
+          "es": "Para la prueba final, graba **45 segundos** improvisando con pocas notas de escala y acentos deliberados. Después pregúntate:\n- ¿Un oyente podría cantar las notas acentuadas?\n- ¿Los acentos revelaron estructura en vez de ruido?\n- ¿Los finales de frase se sintieron más convincentes?\n\nUn acento inteligente no es decoración. Es una linterna para la frase.",
+          "de": "Nimm für den Abschlusstest **45 Sekunden** mit nur wenigen Skalentönen und bewussten Akzenten auf. Frag dich danach:\n- Könnte ein Zuhörer die akzentuierten Töne nachsingen?\n- Haben die Akzente Struktur statt Lärm gezeigt?\n- Fühlten sich die Phrasenenden überzeugender an?\n\nEin kluger Akzent ist keine Dekoration. Er ist eine Taschenlampe für die Phrase.",
+          "ja": "最後のテストでは、少数のスケール音と意図的なアクセントだけで **45秒** 録音します。そして次を確認しましょう。\n- 聴き手はアクセント音を歌い返せるか？\n- アクセントはノイズではなく構造を見せたか？\n- フレーズの終わりはより説得力を持ったか？\n\n賢いアクセントは飾りではありません。フレーズを照らす懐中電灯です。",
+          "zh-Hans": "最后录下 **45 秒**，只用少量音阶音和刻意重音来即兴。然后问自己：\n- 听众能不能把重音音符哼回来？\n- 重音展现的是结构，而不是噪音吗？\n- 乐句结尾是不是更有说服力了？\n\n聪明的重音不是装饰，它是照亮乐句的手电筒。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-09T00:14:25Z",
+  "updatedAt": "2026-05-09T00:14:25Z"
+}

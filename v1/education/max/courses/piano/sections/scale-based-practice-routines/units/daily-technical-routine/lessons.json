@@ -782,5 +782,33 @@
     "order": 28,
     "createdAt": "2026-05-08T00:10:18Z",
     "updatedAt": "2026-05-08T00:10:18Z"
+  },
+  {
+    "id": "piano-accent-maze-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Maze Sprint",
+        "pt-BR": "Corrida no Labirinto de Acentos no Piano",
+        "es": "Carrera de Laberinto de Acentos al Piano",
+        "de": "Klavier-Akzent-Labyrinth-Sprint",
+        "ja": "ピアノ・アクセント迷路スプリント",
+        "zh-Hans": "钢琴重音迷宫冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use shifting accents inside scale patterns to sharpen coordination, time, and musical control at the keyboard.",
+        "pt-BR": "Use acentos móveis dentro de padrões de escala para afiar coordenação, tempo e controle musical no teclado.",
+        "es": "Usa acentos desplazados dentro de patrones de escala para afinar coordinación, pulso y control musical en el teclado.",
+        "de": "Nutze wandernde Akzente in Skalenmustern, um Koordination, Timing und musikalische Kontrolle am Klavier zu schärfen.",
+        "ja": "スケールパターン内でアクセントを移動させ、鍵盤での協調性、タイム感、音楽的コントロールを鍛えます。",
+        "zh-Hans": "在音阶模式里移动重音，提升你在键盘上的协调、节奏和音乐控制力。"
+      }
+    },
+    "order": 29,
+    "createdAt": "2026-05-09T00:11:29Z",
+    "updatedAt": "2026-05-09T00:11:29Z"
   }
 ]

@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-05-08T00:07:36Z",
     "updatedAt": "2026-05-08T00:07:36Z"
+  },
+  {
+    "id": "guitar-accent-periscope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Accent Periscope",
+        "pt-BR": "Periscópio de Acentos na Guitarra",
+        "es": "Periscopio de Acentos para Guitarra",
+        "de": "Gitarren-Akzent-Periskop",
+        "ja": "ギター・アクセント潜望鏡",
+        "zh-Hans": "吉他重音潜望镜"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use well-placed accents to make scale phrases rise above the backing track with better shape and intention.",
+        "pt-BR": "Use acentos bem colocados para fazer frases de escala emergirem do acompanhamento com mais forma e intenção.",
+        "es": "Usa acentos bien colocados para que las frases de escala sobresalgan del acompañamiento con más forma e intención.",
+        "de": "Nutze gezielte Akzente, damit Skalenphrasen deutlicher aus dem Backing hervortreten und mehr Form bekommen.",
+        "ja": "狙ったアクセントでスケールフレーズを伴奏の上に浮かび上がらせ、形と意図をはっきりさせます。",
+        "zh-Hans": "用精准重音让音阶乐句从伴奏里浮出来，获得更清楚的形状和意图。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-05-09T00:14:25Z",
+    "updatedAt": "2026-05-09T00:14:25Z"
   }
 ]

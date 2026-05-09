@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "bass-octave-tug-of-war",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Octave Tug-of-War",
+        "pt-BR": "Cabo de Guerra de Oitavas no Baixo",
+        "es": "Tira y Afloja de Octavas en el Bajo",
+        "de": "Bass-Oktaven-Zugduell",
+        "ja": "ベース・オクターブ綱引き",
+        "zh-Hans": "贝斯八度拔河"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove control by pulling against roots and octaves without losing pocket, tone, or harmonic clarity.",
+        "pt-BR": "Treine seu controle de groove puxando entre tônicas e oitavas sem perder pocket, timbre ou clareza harmônica.",
+        "es": "Entrena tu control del groove tirando entre tónicas y octavas sin perder pocket, tono ni claridad armónica.",
+        "de": "Trainiere deine Groove-Kontrolle zwischen Grundtönen und Oktaven, ohne Pocket, Ton oder harmonische Klarheit zu verlieren.",
+        "ja": "ルート音とオクターブの引っ張り合いで、ポケット、音色、和声の明快さを保ちながらグルーヴを鍛えます。",
+        "zh-Hans": "在根音与八度之间拉扯，训练你的 groove 控制，同时不丢掉 pocket、音色和和声清晰度。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-05-09T00:10:26Z",
+    "updatedAt": "2026-05-09T00:10:26Z"
   }
 ]
