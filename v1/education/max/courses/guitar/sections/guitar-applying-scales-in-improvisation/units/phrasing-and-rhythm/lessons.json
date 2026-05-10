@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-05-09T00:14:25Z",
     "updatedAt": "2026-05-09T00:14:25Z"
+  },
+  {
+    "id": "guitar-sidestep-sparks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Sidestep Sparks in G Major",
+        "pt-BR": "Faíscas de Desvio em Sol Maior",
+        "es": "Chispas de Desvío en Sol Mayor",
+        "de": "Ausweich-Funken in G-Dur",
+        "ja": "Gメジャーのサイドステップ・スパーク",
+        "zh-Hans": "G大调侧闪火花"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn plain scale runs into lively guitar phrases by sidestepping targets, recovering fast, and shaping clean rhythmic surprises.",
+        "pt-BR": "Transforme corridas de escala comuns em frases vivas na guitarra usando desvios rápidos, recuperação e surpresas rítmicas bem controladas.",
+        "es": "Convierte recorridos de escala comunes en frases de guitarra con vida usando desvíos breves, recuperación rápida y sorpresas rítmicas claras.",
+        "de": "Verwandle einfache Tonleiterläufe auf der Gitarre in lebendige Phrasen mit kurzen Ausweichbewegungen, schneller Erholung und klaren rhythmischen Überraschungen.",
+        "ja": "ありがちなスケール運指を、短い寄り道と素早い立て直し、リズムのひらめきで生きたギターフレーズに変えましょう。",
+        "zh-Hans": "用短暂绕行、快速回正和清晰的节奏惊喜，把普通的吉他音阶跑动变成有生命力的乐句。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-05-10T00:07:56Z",
+    "updatedAt": "2026-05-10T00:07:56Z"
   }
 ]

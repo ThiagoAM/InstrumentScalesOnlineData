@@ -1,0 +1,99 @@
+{
+  "id": "piano-practice-liftoff",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time for practice liftoff. Use **F major** (or its relative minor **D minor**) at **76-90 BPM**. The goal is not to mindlessly repeat scales. The goal is to launch a short routine that gets more musical every time it leaves the ground.",
+          "pt-BR": "Hora da decolagem do estudo. Use **Fá maior** (ou sua relativa menor **Ré menor**) a **76-90 BPM**. O objetivo não é repetir escalas no automático. O objetivo é lançar uma rotina curta que fique mais musical cada vez que sai do chão.",
+          "es": "Es hora del despegue de práctica. Usa **Fa mayor** (o su relativa menor **Re menor**) a **76-90 BPM**. La meta no es repetir escalas sin pensar. La meta es lanzar una rutina corta que suene más musical cada vez que despega.",
+          "de": "Zeit für den Übe-Start. Nutze **F-Dur** (oder die parallele Molltonart **d-Moll**) bei **76-90 BPM**. Das Ziel ist nicht, Tonleitern gedankenlos zu wiederholen. Das Ziel ist, eine kurze Routine zu starten, die bei jedem Abheben musikalischer wird.",
+          "ja": "練習のリフトオフの時間です。**Fメジャー**（または平行調の **Dマイナー**）を **76-90 BPM** で使いましょう。目的は何も考えずにスケールを繰り返すことではありません。離陸するたびに、より音楽的になる短いルーティンを立ち上げることです。",
+          "zh-Hans": "现在开始练习升空。使用 **F大调**（或其关系小调 **D小调**），速度设在 **76-90 BPM**。目标不是机械重复音阶，而是启动一套每次起飞都会更有音乐性的短练习流程。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with the **launch checklist**. Play one octave hands separately, then hands together. While you play, check for:\n- even tone\n- relaxed thumb crossings\n- no collapsing wrist\n- a calm landing on the top note\n\nDo not speed up yet. Smooth takeoff matters more than fast takeoff.",
+          "pt-BR": "Comece com o **checklist de decolagem**. Toque uma oitava com as mãos separadas e depois juntas. Enquanto toca, observe:\n- sonoridade uniforme\n- passagens de polegar relaxadas\n- sem colapso do punho\n- uma chegada calma na nota mais aguda\n\nNão aumente a velocidade ainda. Uma decolagem suave importa mais do que uma decolagem rápida.",
+          "es": "Empieza con la **lista de despegue**. Toca una octava con manos separadas y luego juntas. Mientras tocas, revisa:\n- sonido parejo\n- cruces de pulgar relajados\n- muñeca sin colapsar\n- una llegada tranquila a la nota superior\n\nTodavía no aumentes la velocidad. Un despegue suave importa más que uno rápido.",
+          "de": "Beginne mit der **Start-Checkliste**. Spiele eine Oktave erst mit getrennten Händen, dann zusammen. Achte dabei auf:\n- gleichmäßigen Ton\n- entspannte Daumenuntersätze\n- kein Einknicken im Handgelenk\n- eine ruhige Landung auf dem höchsten Ton\n\nWerde noch nicht schneller. Ein sauberer Start ist wichtiger als ein schneller Start.",
+          "ja": "まずは **離陸チェックリスト** から。1オクターブを片手ずつ、そのあと両手で弾きます。弾きながら次を確認してください。\n- 音量が均一か\n- 親指くぐりが力まずできているか\n- 手首がつぶれていないか\n- 最高音への着地が落ち着いているか\n\nまだ速くしないでください。速い離陸より、なめらかな離陸のほうが大切です。",
+          "zh-Hans": "先做 **起飞检查表**。先单手各弹1个八度，再双手一起弹。边弹边检查：\n- 音色是否均匀\n- 拇指穿指是否放松\n- 手腕有没有塌下去\n- 到最高音时是否平稳落地\n\n先不要加速。平顺起飞比快速起飞更重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **fuel layer**. Keep the same scale, but assign each pass one focus:\n1. super even rhythm\n2. warmer tone\n3. lighter touch\n4. cleaner fingering\n\nAfter each pass, name which layer actually improved.",
+          "pt-BR": "A Rodada 1 é a **camada de combustível**. Mantenha a mesma escala, mas dê um foco para cada repetição:\n1. ritmo super regular\n2. timbre mais quente\n3. toque mais leve\n4. dedilhado mais limpo\n\nDepois de cada repetição, diga qual camada realmente melhorou.",
+          "es": "La Ronda 1 es la **capa de combustible**. Mantén la misma escala, pero asigna un enfoque a cada pasada:\n1. ritmo súper parejo\n2. tono más cálido\n3. toque más ligero\n4. digitación más limpia\n\nDespués de cada pasada, di qué capa mejoró de verdad.",
+          "de": "Runde 1 ist die **Treibstoff-Schicht**. Behalte dieselbe Tonleiter, aber gib jedem Durchgang einen Fokus:\n1. supergleichmäßiger Rhythmus\n2. wärmerer Ton\n3. leichterer Anschlag\n4. sauberere Fingerführung\n\nSag nach jedem Durchgang, welche Schicht sich wirklich verbessert hat.",
+          "ja": "ラウンド1は **燃料レイヤー** です。同じスケールのまま、各パスに1つずつ焦点を与えます。\n1. とても均一なリズム\n2. より温かい音色\n3. より軽いタッチ\n4. よりきれいな指使い\n\n各パスのあと、本当に改善したレイヤーを言葉にしましょう。",
+          "zh-Hans": "第1轮是 **燃料层**。保持同一条音阶，但每一遍只专注一个重点：\n1. 非常均匀的节奏\n2. 更温暖的音色\n3. 更轻的触键\n4. 更干净的指法\n\n每弹完一遍，说出哪一层真的变好了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **altitude change**. Play one pass **mezzo-piano**, one pass **mezzo-forte**, and one pass with a gentle **crescendo up / decrescendo down**. If the dynamics distort the fingering, lower the tempo and keep the shape elegant.",
+          "pt-BR": "A Rodada 2 é a **mudança de altitude**. Toque uma vez em **mezzo-piano**, uma vez em **mezzo-forte** e uma vez com um **crescendo na subida / decrescendo na descida**. Se a dinâmica atrapalhar o dedilhado, reduza o andamento e preserve a elegância do desenho.",
+          "es": "La Ronda 2 es el **cambio de altitud**. Toca una pasada en **mezzo-piano**, otra en **mezzo-forte** y otra con un **crescendo al subir / decrescendo al bajar**. Si la dinámica distorsiona la digitación, baja el tempo y conserva la elegancia del dibujo.",
+          "de": "Runde 2 ist der **Höhenwechsel**. Spiele einen Durchgang **mezzo-piano**, einen **mezzo-forte** und einen mit sanftem **Crescendo hinauf / Decrescendo hinunter**. Wenn die Dynamik die Fingerführung stört, nimm Tempo heraus und halte die Form elegant.",
+          "ja": "ラウンド2は **高度変化** です。1回を **mezzo-piano**、1回を **mezzo-forte**、もう1回を **上りでクレッシェンド / 下りでデクレッシェンド** にします。ダイナミクスで指使いが崩れるなら、テンポを下げて形を上品に保ちましょう。",
+          "zh-Hans": "第2轮是 **高度变化**。一遍用 **mezzo-piano**，一遍用 **mezzo-forte**，再一遍做 **上行渐强 / 下行渐弱**。如果力度变化破坏了指法，就降一点速度，同时保持线条优雅。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **mission control** round. Build a 90-second routine:\n- hands separate once each\n- hands together twice\n- one expressive final pass\n\nNo stopping between steps. You are practicing continuity, not just accuracy.",
+          "pt-BR": "A Rodada 3 é a rodada de **controle da missão**. Monte uma rotina de 90 segundos:\n- mãos separadas uma vez cada\n- mãos juntas duas vezes\n- uma passada final expressiva\n\nSem parar entre as etapas. Você está praticando continuidade, não apenas precisão.",
+          "es": "La Ronda 3 es la ronda de **control de misión**. Construye una rutina de 90 segundos:\n- manos separadas una vez cada una\n- manos juntas dos veces\n- una pasada final expresiva\n\nNo te detengas entre pasos. Estás practicando continuidad, no solo precisión.",
+          "de": "Runde 3 ist die Runde der **Missionskontrolle**. Baue eine 90-Sekunden-Routine:\n- jede Hand einmal allein\n- beide Hände zweimal zusammen\n- ein letzter ausdrucksstarker Durchgang\n\nNicht zwischen den Schritten stoppen. Du übst Kontinuität, nicht nur Genauigkeit.",
+          "ja": "ラウンド3は **ミッションコントロール** ラウンドです。90秒のルーティンを組みます。\n- 片手ずつを各1回\n- 両手を2回\n- 最後に表情ある1回\n\n手順の間で止まらないでください。正確さだけでなく、流れを練習しています。",
+          "zh-Hans": "第3轮是 **任务控制** 轮。建立一个90秒流程：\n- 单手各1遍\n- 双手2遍\n- 最后一遍带表情地弹\n\n步骤之间不要停。你练的不只是准确，还在练连贯性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: record the full routine, then listen back and give yourself one score from 1 to 5 for:\n- rhythm\n- tone\n- control\n\nYour next run must improve the lowest score, not the easiest one.",
+          "pt-BR": "Rodada chefão: grave a rotina completa e depois se dê uma nota de 1 a 5 para:\n- ritmo\n- timbre\n- controle\n\nNa próxima tentativa, melhore a nota mais baixa, não a mais fácil.",
+          "es": "Ronda jefe: graba la rutina completa y luego date una nota del 1 al 5 en:\n- ritmo\n- tono\n- control\n\nTu siguiente intento debe mejorar la nota más baja, no la más fácil.",
+          "de": "Boss-Runde: Nimm die ganze Routine auf und gib dir danach jeweils eine Note von 1 bis 5 für:\n- Rhythmus\n- Ton\n- Kontrolle\n\nDein nächster Durchlauf muss die niedrigste Wertung verbessern, nicht die leichteste.",
+          "ja": "ボスラウンド: ルーティン全体を録音し、あとで次の3項目を1〜5で自己採点しましょう。\n- リズム\n- 音色\n- コントロール\n\n次の挑戦では、いちばん低い点を改善してください。いちばん簡単な項目ではありません。",
+          "zh-Hans": "Boss轮：把整个流程录下来，然后给自己在下面3项上各打1到5分：\n- 节奏\n- 音色\n- 控制\n\n下一次练习要优先提升最低分，而不是最容易的一项。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Debrief:\n- Which focus layer gave the biggest upgrade?\n- Did the dynamic changes stay musical?\n- Where did I sound like I was practicing, and where did I sound like I was performing?\n\nFinal upgrade: relaunch the same plan in **B-flat major**. If the routine still feels organized, your practice has real lift. 🎹",
+          "pt-BR": "Revisão:\n- Qual camada de foco trouxe a maior melhora?\n- As mudanças de dinâmica continuaram musicais?\n- Em que momento eu soei como quem estuda, e em que momento soei como quem se apresenta?\n\nDesafio final: relance o mesmo plano em **Si bemol maior**. Se a rotina continuar organizada, seu estudo ganhou sustentação real. 🎹",
+          "es": "Revisión:\n- ¿Qué capa de enfoque dio la mejora más grande?\n- ¿Los cambios de dinámica siguieron sonando musicales?\n- ¿En qué parte soné como alguien practicando y en cuál como alguien interpretando?\n\nMejora final: vuelve a lanzar el mismo plan en **Si bemol mayor**. Si la rutina sigue sintiéndose organizada, tu práctica ya tiene verdadero impulso. 🎹",
+          "de": "Rückblick:\n- Welche Fokus-Schicht brachte das größte Upgrade?\n- Blieben die Dynamikwechsel musikalisch?\n- Wo klang ich wie beim Üben, und wo wie beim Musizieren?\n\nLetztes Upgrade: Starte denselben Plan noch einmal in **B-Dur**. Wenn die Routine weiter geordnet wirkt, hat dein Üben echten Auftrieb. 🎹",
+          "ja": "振り返り:\n- どのフォーカス層がいちばん大きな改善をくれましたか？\n- ダイナミクスの変化は音楽的なままでしたか？\n- どこは練習っぽく、どこは演奏っぽく聞こえましたか？\n\n最後のアップグレード: 同じ計画を **B♭メジャー** で再発進しましょう。ルーティンがまだ整理されて感じられるなら、練習に本当の推進力があります。🎹",
+          "zh-Hans": "复盘：\n- 哪一层专注带来了最大升级？\n- 力度变化有没有保持音乐性？\n- 哪些地方像在练习，哪些地方像在演奏？\n\n最终升级：把同样的计划重新放到 **降B大调**。如果流程依然有条理，你的练习就真的起飞了。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-10T00:07:57Z",
+  "updatedAt": "2026-05-10T00:07:57Z"
+}

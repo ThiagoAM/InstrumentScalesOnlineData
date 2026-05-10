@@ -1090,5 +1090,33 @@
     "order": 39,
     "createdAt": "2026-05-08T00:09:07Z",
     "updatedAt": "2026-05-08T00:09:07Z"
+  },
+  {
+    "id": "bass-pocket-boomerang",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Boomerang in A Major",
+        "pt-BR": "Bumerangue de Pocket em Lá Maior",
+        "es": "Bumerán de Pocket en La Mayor",
+        "de": "Pocket-Bumerang in A-Dur",
+        "ja": "Aメジャーのポケット・ブーメラン",
+        "zh-Hans": "A大调律动回旋镖"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass groove to travel away from the root and snap back with timing, weight, and control.",
+        "pt-BR": "Treine seu groove de baixo para sair da tônica e voltar com tempo, peso e controle.",
+        "es": "Entrena tu groove de bajo para alejarse de la tónica y volver con tiempo, peso y control.",
+        "de": "Trainiere deinen Bass-Groove so, dass er sich von der Tonika entfernt und mit Timing, Gewicht und Kontrolle zurückkehrt.",
+        "ja": "ベースのグルーヴをルートから離しても、タイム感と重さを保ったままきれいに戻せるよう鍛えましょう。",
+        "zh-Hans": "训练你的贝斯律动离开根音后，依然能带着时间感、重量和控制感漂亮回归。"
+      }
+    },
+    "order": 40,
+    "createdAt": "2026-05-10T00:07:56Z",
+    "updatedAt": "2026-05-10T00:07:56Z"
   }
 ]

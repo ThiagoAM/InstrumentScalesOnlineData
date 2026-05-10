@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-05-04T00:11:09Z",
     "updatedAt": "2026-05-04T00:11:09Z"
+  },
+  {
+    "id": "piano-practice-liftoff",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Liftoff in F Major",
+        "pt-BR": "Decolagem de Estudo em Fá Maior",
+        "es": "Despegue de Práctica en Fa Mayor",
+        "de": "Übe-Start in F-Dur",
+        "ja": "Fメジャーのプラクティス・リフトオフ",
+        "zh-Hans": "F大调练习升空"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a smarter piano scale routine by stacking focus layers, dynamic control, and mini performance goals.",
+        "pt-BR": "Monte uma rotina de escalas mais inteligente no piano combinando camadas de foco, controle dinâmico e pequenas metas de performance.",
+        "es": "Construye una rutina de escalas más inteligente en piano combinando capas de enfoque, control dinámico y pequeñas metas de interpretación.",
+        "de": "Baue eine klügere Klavier-Tonleiter-Routine mit Fokus-Schichten, dynamischer Kontrolle und kleinen Performance-Zielen.",
+        "ja": "フォーカスの層、ダイナミクスのコントロール、小さな演奏目標を重ねて、より賢いピアノのスケール練習ルーティンを作りましょう。",
+        "zh-Hans": "通过叠加专注层、力度控制和小型演奏目标，建立一套更聪明的钢琴音阶练习流程。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-05-10T00:07:57Z",
+    "updatedAt": "2026-05-10T00:07:57Z"
   }
 ]
