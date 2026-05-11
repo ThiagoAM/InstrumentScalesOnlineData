@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-05-07T00:11:00Z",
     "updatedAt": "2026-05-07T00:11:00Z"
+  },
+  {
+    "id": "octave-compass-challenge",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Compass Challenge",
+        "pt-BR": "Desafio da Bússola de Oitavas",
+        "es": "Desafío de la brújula de octavas",
+        "de": "Oktav-Kompass-Challenge",
+        "ja": "オクターブ・コンパス・チャレンジ",
+        "zh-Hans": "八度罗盘挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Map the keyboard faster by using octaves as checkpoints and intervals as directions.",
+        "pt-BR": "Mapeie o teclado mais rápido usando oitavas como pontos de controle e intervalos como direções.",
+        "es": "Mapa el teclado más rápido usando las octavas como puntos de control y los intervalos como direcciones.",
+        "de": "Finde dich auf der Tastatur schneller zurecht, indem du Oktaven als Kontrollpunkte und Intervalle als Richtungen nutzt.",
+        "ja": "オクターブをチェックポイント、音程を進行方向として使い、鍵盤の地図をもっと速く身につけましょう。",
+        "zh-Hans": "把八度当作检查点、把音程当作方向，更快建立你的钢琴键盘地图。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-05-11T00:05:46Z",
+    "updatedAt": "2026-05-11T00:05:46Z"
   }
 ]

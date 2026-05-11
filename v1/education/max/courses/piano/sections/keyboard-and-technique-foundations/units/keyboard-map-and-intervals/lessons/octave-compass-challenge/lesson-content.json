@@ -1,0 +1,73 @@
+{
+  "id": "octave-compass-challenge",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine the keyboard is a city and every octave is a train station. Your job is not to memorize all 88 keys at once; your job is to spot one note, then immediately find its twins in other octaves. Start with **C**, then try **F#** and **Bb** so your brain has to navigate both white and black keys.",
+          "pt-BR": "Imagine que o teclado é uma cidade e cada oitava é uma estação. Seu trabalho não é memorizar as 88 teclas de uma vez; seu trabalho é localizar uma nota e encontrar imediatamente suas gêmeas em outras oitavas. Comece com **Dó**, depois tente **Fá#** e **Si♭** para obrigar o cérebro a navegar entre teclas brancas e pretas.",
+          "es": "Imagina que el teclado es una ciudad y cada octava es una estación. Tu trabajo no es memorizar las 88 teclas de una sola vez; tu trabajo es localizar una nota y encontrar de inmediato sus gemelas en otras octavas. Empieza con **Do**, luego prueba con **Fa#** y **Si♭** para obligar a tu cerebro a navegar entre teclas blancas y negras.",
+          "de": "Stell dir die Tastatur wie eine Stadt vor und jede Oktave wie einen Bahnhof. Deine Aufgabe ist nicht, alle 88 Tasten auf einmal auswendig zu lernen; deine Aufgabe ist es, einen Ton zu finden und sofort seine Zwillinge in anderen Oktaven zu entdecken. Starte mit **C**, dann versuche **F#** und **B**, damit dein Gehirn zwischen weißen und schwarzen Tasten navigieren muss.",
+          "ja": "鍵盤をひとつの街、各オクターブを駅だと想像してください。88鍵すべてを一気に暗記する必要はありません。まず1つの音を見つけ、そこから別のオクターブにいる“同じ音の仲間”をすぐ探せるようになることが目的です。最初は **C**、次に **F#** と **B♭** も試して、白鍵と黒鍵の両方を行き来しましょう。",
+          "zh-Hans": "把键盘想象成一座城市，每个八度都是一个车站。你的任务不是一次性记住88个键，而是先认出一个音，然后立刻在别的八度里找到它的“孪生兄弟”。先从 **C** 开始，再试试 **F#** 和 **Bb**，让大脑同时在白键和黑键之间导航。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play one target note with the right hand, then jump to the same note one octave higher and one octave lower. Say the note name every time you land. If you hesitate, pause and notice the visual pattern: groups of two black keys, groups of three, and the repeating geometry that makes the keyboard friendlier than it first looks.",
+          "pt-BR": "Toque uma nota-alvo com a mão direita e depois salte para a mesma nota uma oitava acima e uma oitava abaixo. Diga o nome da nota toda vez que pousar. Se houver hesitação, pare e observe o padrão visual: grupos de duas teclas pretas, grupos de três e a geometria repetida que torna o teclado mais amigável do que parece à primeira vista.",
+          "es": "Toca una nota objetivo con la mano derecha y luego salta a la misma nota una octava arriba y una octava abajo. Di el nombre de la nota cada vez que llegues. Si dudas, detente y observa el patrón visual: grupos de dos teclas negras, grupos de tres y la geometría repetida que hace que el teclado sea más amigable de lo que parece al principio.",
+          "de": "Spiele einen Zielton mit der rechten Hand und springe dann zu demselben Ton eine Oktave höher und eine Oktave tiefer. Sprich den Tonnamen jedes Mal laut mit. Wenn du zögerst, halte kurz an und beachte das visuelle Muster: Zweiergruppen schwarzer Tasten, Dreiergruppen und die sich wiederholende Geometrie, die die Tastatur freundlicher macht, als sie zuerst wirkt.",
+          "ja": "右手で目標の音を1つ弾いたら、同じ音を1オクターブ上、さらに1オクターブ下でも弾きます。着地するたびに音名を声に出してください。迷ったら、黒鍵2つのまとまり、3つのまとまり、そして繰り返される形に注目しましょう。鍵盤は最初に見えるほど無秩序ではありません。",
+          "zh-Hans": "右手先弹一个目标音，然后跳到高一个八度的同音，再跳到低一个八度的同音。每次落下时都把音名说出来。如果你犹豫了，就停一下，观察视觉规律：两黑键一组、三黑键一组，以及不断重复的几何结构。键盘其实比它第一眼看上去友好得多。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add interval directions. From any target note, move to a **major 2nd up**, a **minor 3rd down**, and a **perfect 5th up**. Keep the same target note in different octaves and repeat the interval recipe. This forces you to connect note naming with spatial thinking instead of treating them as separate skills.",
+          "pt-BR": "Agora adicione direções intervalares. A partir de qualquer nota-alvo, vá para uma **2ª maior acima**, uma **3ª menor abaixo** e uma **5ª justa acima**. Mantenha a mesma nota-alvo em oitavas diferentes e repita a receita de intervalos. Isso força você a conectar nome de nota e percepção espacial, em vez de tratar essas habilidades como coisas separadas.",
+          "es": "Ahora añade direcciones interválicas. Desde cualquier nota objetivo, muévete a una **2ª mayor ascendente**, una **3ª menor descendente** y una **5ª justa ascendente**. Mantén la misma nota objetivo en distintas octavas y repite la receta de intervalos. Eso te obliga a conectar el nombre de la nota con el pensamiento espacial en lugar de tratarlos como habilidades separadas.",
+          "de": "Jetzt kommen Intervallrichtungen dazu. Gehe von jedem Zielton aus eine **große Sekunde nach oben**, eine **kleine Terz nach unten** und eine **reine Quinte nach oben**. Behalte denselben Zielton in verschiedenen Oktaven bei und wiederhole dieses Intervall-Rezept. So verknüpfst du Tonbenennung mit räumlichem Denken, statt beides getrennt zu üben.",
+          "ja": "次は音程の方向を加えます。どの目標音からでも、**長2度上**、**短3度下**、**完全5度上** へ動いてください。同じ目標音を別のオクターブでも選び、同じ音程レシピを繰り返します。これで音名の理解と空間感覚が、別々ではなくひとつの技能として結びつきます。",
+          "zh-Hans": "现在加入音程方向。从任意目标音出发，分别移动到**上行大二度**、**下行小三度**和**上行纯五度**。换到不同八度的同一个目标音，再重复这套音程路线。这样你会把音名识别和空间感连接起来，而不是把它们当成两项分开的技能。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Turn it into a game: give yourself sixty seconds to find as many copies of one note as possible across the keyboard, then spend sixty more seconds finding one interval shape from three different starting octaves. Stay relaxed in the shoulders and let accuracy beat speed—panic hands learn very little.",
+          "pt-BR": "Transforme isso em jogo: dê a si mesmo sessenta segundos para encontrar o maior número possível de cópias de uma nota pelo teclado, depois mais sessenta segundos para achar um formato intervalar a partir de três oitavas iniciais diferentes. Mantenha os ombros relaxados e deixe a precisão vencer a pressa — mãos em pânico aprendem muito pouco.",
+          "es": "Conviértelo en un juego: date sesenta segundos para encontrar tantas copias de una nota como puedas por todo el teclado y luego otros sesenta segundos para encontrar una misma forma interválica desde tres octavas iniciales distintas. Mantén los hombros relajados y deja que la precisión gane a la velocidad: las manos en pánico aprenden muy poco.",
+          "de": "Mach daraus ein Spiel: Gib dir sechzig Sekunden, um so viele Kopien eines Tons wie möglich auf der gesamten Tastatur zu finden, und danach weitere sechzig Sekunden, um dieselbe Intervallform von drei verschiedenen Startoktaven aus zu finden. Lass die Schultern locker und gib Genauigkeit den Vorrang vor Tempo — panische Hände lernen fast nichts.",
+          "ja": "ゲーム化してみましょう。60秒で、鍵盤全体から同じ音をできるだけ多く見つけます。次の60秒では、同じ音程の形を3つの異なる開始オクターブから探します。肩の力を抜き、速さより正確さを優先してください。焦った手はあまり学びません。",
+          "zh-Hans": "把它变成游戏：先给自己60秒，在整个键盘上尽可能多地找到某一个音的所有位置；再用60秒，从三个不同起始八度找出同一种音程形状。肩膀放松，让准确胜过速度——慌张的手学不到太多东西。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by inventing a tiny melody that uses the same note in two octaves plus one interval leap. If the melody sounds playful, great. If it sounds dramatic, also great. The win is that the keyboard is starting to feel less like 88 strangers and more like one repeating map.",
+          "pt-BR": "Termine inventando uma melodia curta que use a mesma nota em duas oitavas mais um salto intervalar. Se soar brincalhona, ótimo. Se soar dramática, ótimo também. A vitória é sentir que o teclado está ficando menos parecido com 88 estranhos e mais com um mapa que se repete.",
+          "es": "Termina inventando una melodía pequeña que use la misma nota en dos octavas y además un salto interválico. Si suena juguetona, perfecto. Si suena dramática, también. La victoria es que el teclado empiece a sentirse menos como 88 desconocidos y más como un solo mapa repetido.",
+          "de": "Zum Schluss erfindest du eine kleine Melodie, die denselben Ton in zwei Oktaven plus einen Intervallsprung benutzt. Wenn sie verspielt klingt, wunderbar. Wenn sie dramatisch klingt, auch gut. Der eigentliche Gewinn ist, dass sich die Tastatur weniger wie 88 Fremde und mehr wie eine einzige wiederkehrende Landkarte anfühlt.",
+          "ja": "最後に、同じ音を2つのオクターブで使い、さらに1つ音程跳躍を入れた短いメロディーを作ってください。遊び心がある響きでも、ドラマチックでも大丈夫です。大事なのは、鍵盤が“88人の他人”ではなく、“繰り返し構造を持つ1枚の地図”に感じられ始めることです。",
+          "zh-Hans": "最后自己编一个小旋律：用同一个音的两个八度，再加一个音程跳进。如果听起来俏皮，很好；如果听起来戏剧化，也很好。真正的胜利，是你开始觉得键盘不再像88个陌生人，而更像一张不断重复的地图。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-11T00:05:46Z",
+  "updatedAt": "2026-05-11T00:05:46Z"
+}

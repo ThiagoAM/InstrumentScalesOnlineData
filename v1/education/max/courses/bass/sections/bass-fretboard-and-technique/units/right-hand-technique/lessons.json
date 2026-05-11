@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "ghost-note-groove-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost-Note Groove Control",
+        "pt-BR": "Controle de Groove com Ghost Notes",
+        "es": "Control del groove con ghost notes",
+        "de": "Groove-Kontrolle mit Ghost Notes",
+        "ja": "ゴーストノートで鍛えるグルーヴ・コントロール",
+        "zh-Hans": "幽灵音律动控制"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use ghost notes, alternating fingers, and dynamic control to make your bass lines feel tighter and more alive.",
+        "pt-BR": "Use ghost notes, alternância de dedos e controle de dinâmica para deixar suas linhas de baixo mais firmes e vivas.",
+        "es": "Usa ghost notes, alternancia de dedos y control dinámico para que tus líneas de bajo suenen más firmes y vivas.",
+        "de": "Nutze Ghost Notes, Fingerwechsel und Dynamikkontrolle, damit deine Basslinien straffer und lebendiger klingen.",
+        "ja": "ゴーストノート、交互運指、ダイナミクスのコントロールで、ベースラインをよりタイトで生きたものにします。",
+        "zh-Hans": "用幽灵音、食中指交替和力度控制，让你的贝斯线条更紧、更有生命力。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-05-11T00:05:45Z",
+    "updatedAt": "2026-05-11T00:05:45Z"
   }
 ]

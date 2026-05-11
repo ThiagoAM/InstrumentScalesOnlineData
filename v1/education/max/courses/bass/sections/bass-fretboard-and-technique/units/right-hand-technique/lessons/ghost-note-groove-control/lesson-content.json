@@ -1,0 +1,73 @@
+{
+  "id": "ghost-note-groove-control",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson is about making your right hand groove instead of merely survive. Set a metronome to a relaxed tempo and play a single note on one string with strict **index-middle alternation**. After every two played notes, add one **ghost note** so the pattern feels like: note, note, ghost, note, note, ghost.",
+          "pt-BR": "Esta lição é sobre fazer sua mão direita groovar em vez de apenas sobreviver. Coloque o metrônomo em um andamento confortável e toque uma única nota em uma corda com alternância rígida de **indicador e médio**. A cada duas notas tocadas, adicione uma **ghost note**, de modo que o padrão fique: nota, nota, ghost, nota, nota, ghost.",
+          "es": "Esta lección trata de hacer que tu mano derecha tenga groove en vez de solo sobrevivir. Pon el metrónomo en un tempo cómodo y toca una sola nota en una cuerda con alternancia estricta de **índice y medio**. Después de cada dos notas reales, añade una **ghost note**, de modo que el patrón sea: nota, nota, ghost, nota, nota, ghost.",
+          "de": "In dieser Lektion soll deine rechte Hand grooven und nicht nur irgendwie durchkommen. Stell ein entspanntes Metronomtempo ein und spiele einen einzelnen Ton auf einer Saite mit strengem **Zeige- und Mittelfinger-Wechsel**. Nach jeweils zwei gespielten Tönen fügst du eine **Ghost Note** ein, sodass das Muster lautet: Ton, Ton, Ghost Note, Ton, Ton, Ghost Note.",
+          "ja": "このレッスンのテーマは、右手を“なんとか動かす”のではなく“グルーヴさせる”ことです。メトロノームを落ち着いたテンポに設定し、1本の弦で1つの音を **人差し指・中指の交互** で弾きます。本音を2回弾くごとに **ゴーストノート** を1回入れ、**音、音、ゴースト、音、音、ゴースト** という流れにしてください。",
+          "zh-Hans": "这节课的目标，是让你的右手真正有律动，而不是只是勉强完成动作。把节拍器调到舒服的速度，在一根弦上用**食指和中指严格交替**弹同一个音。每弹两个实音，就加入一个**幽灵音**，形成：实音、实音、幽灵音、实音、实音、幽灵音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your ghost note should be short and dry, almost like a whispering kick drum. Lightly mute the string with the left hand, keep the plucking motion the same, and avoid slamming the ghost note louder than the real notes. If the pulse stays steady, your hand is learning control rather than panic.",
+          "pt-BR": "Sua ghost note deve ser curta e seca, quase como um bumbo sussurrando. Abafe a corda levemente com a mão esquerda, mantenha o mesmo movimento de ataque e evite tocar a ghost note mais forte do que as notas reais. Se o pulso continuar estável, sua mão está aprendendo controle em vez de pânico.",
+          "es": "La ghost note debe ser corta y seca, casi como un bombo susurrando. Silencia ligeramente la cuerda con la mano izquierda, mantén el mismo movimiento al pulsar y evita que la ghost note salga más fuerte que las notas reales. Si el pulso sigue estable, tu mano está aprendiendo control y no pánico.",
+          "de": "Die Ghost Note soll kurz und trocken sein, fast wie eine flüsternde Kickdrum. Dämpfe die Saite leicht mit der linken Hand, behalte dieselbe Zupfbewegung bei und vermeide es, die Ghost Note lauter als die echten Töne zu spielen. Wenn der Puls stabil bleibt, lernt deine Hand Kontrolle statt Hektik.",
+          "ja": "ゴーストノートは短く乾いた音で、ささやくキックのような感触が理想です。左手で軽くミュートし、右手の動きは変えず、ゴーストノートが実音より大きくならないように注意しましょう。拍が安定していれば、右手は焦りではなくコントロールを学んでいます。",
+          "zh-Hans": "幽灵音应该短、干、轻，像一个低声说话的底鼓。左手轻轻压弦做闷音，右手拨弦动作尽量保持一致，不要把幽灵音弹得比实音还大。如果拍子依然稳定，说明你的手学到的是控制，而不是慌乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now move the pattern across two strings using a simple scale fragment such as **G-A-B on the E string** and **C on the A string**. Keep the alternation honest. If your index finger keeps stealing the downbeat, start the exercise again with the middle finger so both fingers learn to lead.",
+          "pt-BR": "Agora mova o padrão entre duas cordas usando um fragmento simples de escala, como **Sol-Lá-Si na corda Mi** e **Dó na corda Lá**. Mantenha a alternância honesta. Se o dedo indicador insistir em roubar o tempo forte, reinicie o exercício começando com o dedo médio para que os dois aprendam a liderar.",
+          "es": "Ahora mueve el patrón entre dos cuerdas usando un fragmento simple de escala como **Sol-La-Si en la cuerda Mi** y **Do en la cuerda La**. Mantén la alternancia de verdad. Si tu dedo índice siempre roba el tiempo fuerte, reinicia el ejercicio empezando con el dedo medio para que ambos dedos aprendan a liderar.",
+          "de": "Jetzt bewegst du das Muster über zwei Saiten mit einem einfachen Tonleiterfragment wie **G-A-H auf der E-Saite** und **C auf der A-Saite**. Halte den Fingerwechsel ehrlich durch. Wenn dein Zeigefinger ständig den Downbeat klaut, starte die Übung noch einmal mit dem Mittelfinger, damit beide Finger das Führen lernen.",
+          "ja": "次に、**E弦でG-A-B**、**A弦でC** のようなシンプルなスケール断片を使って、2本の弦にまたがる形へ広げます。交互運指をごまかさずに守ってください。もし人差し指ばかりが強拍を取ってしまうなら、中指スタートでやり直し、両方の指がリードできるようにします。",
+          "zh-Hans": "接下来，把这个型移动到两根弦上，可以用简单的音阶片段，比如**E弦上的G-A-B**，再接**A弦上的C**。交替拨弦要真实执行。如果你总是不自觉让食指抢到强拍，就改成从中指开始，让两根手指都学会带头。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Turn the drill into a groove challenge. Play one bar with ghost notes in the spaces, then one bar without them. Ask yourself which version feels heavier, clearer, or funkier. The point is not to stuff ghost notes everywhere; the point is to place them on purpose and hear what they do.",
+          "pt-BR": "Transforme o exercício em um desafio de groove. Toque um compasso com ghost notes preenchendo os espaços e depois um compasso sem elas. Pergunte a si mesmo qual versão soa mais pesada, mais clara ou mais funky. A ideia não é encher tudo de ghost notes; é colocá-las de propósito e ouvir o efeito.",
+          "es": "Convierte el ejercicio en un reto de groove. Toca un compás con ghost notes llenando los espacios y luego un compás sin ellas. Pregúntate qué versión se siente más pesada, más clara o más funky. La idea no es meter ghost notes por todos lados; la idea es colocarlas con intención y escuchar su efecto.",
+          "de": "Mach daraus eine Groove-Challenge. Spiele einen Takt mit Ghost Notes in den Lücken und danach einen Takt ohne sie. Frage dich, welche Version schwerer, klarer oder funkiger wirkt. Es geht nicht darum, überall Ghost Notes hineinzupacken; es geht darum, sie bewusst zu platzieren und ihren Effekt zu hören.",
+          "ja": "ここからグルーヴ・チャレンジです。1小節は隙間にゴーストノートを入れ、次の1小節は入れずに弾いてみましょう。どちらが重いか、クリアか、ファンキーかを自分の耳で判断してください。大事なのはゴーストノートを増やすことではなく、狙って置いて効果を聴くことです。",
+          "zh-Hans": "现在把练习变成律动挑战。先弹一小节带幽灵音的版本，再弹一小节完全不加幽灵音的版本。问问自己：哪一个更重、更清晰、或者更funk？重点不是到处塞幽灵音，而是有意识地放进去，并真正听见它带来的变化。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording thirty seconds of your pattern. Listen back for three things: even volume on the real notes, quiet and controlled ghost notes, and no weird tempo wobble when you cross strings. If all three are improving, your right hand is becoming a drummer with strings attached.",
+          "pt-BR": "Termine gravando trinta segundos do padrão. Ouça de volta procurando três coisas: volume equilibrado nas notas reais, ghost notes baixas e controladas, e nenhuma oscilação estranha de tempo ao trocar de corda. Se esses três pontos estiverem melhorando, sua mão direita está virando um baterista com cordas.",
+          "es": "Termina grabando treinta segundos del patrón. Escucha buscando tres cosas: volumen parejo en las notas reales, ghost notes suaves y controladas, y ningún bamboleo extraño del tempo al cruzar cuerdas. Si esas tres cosas mejoran, tu mano derecha se está convirtiendo en un baterista con cuerdas.",
+          "de": "Beende die Lektion, indem du dreißig Sekunden deines Musters aufnimmst. Achte beim Anhören auf drei Dinge: gleichmäßige Lautstärke der echten Töne, leise und kontrollierte Ghost Notes und kein seltsames Tempowackeln beim Saitenwechsel. Wenn alle drei Punkte besser werden, wird deine rechte Hand zu einem Schlagzeuger mit Saiten.",
+          "ja": "最後に30秒ほど録音してください。聴き返すポイントは3つです。実音の音量がそろっているか、ゴーストノートが静かでコントロールされているか、そして弦移動でテンポが揺れていないか。この3つが良くなっていれば、あなたの右手は“弦付きドラマー”に近づいています。",
+          "zh-Hans": "最后录下30秒练习。回放时听三件事：实音音量是否均匀，幽灵音是否轻且可控，跨弦时节奏有没有奇怪地晃动。如果这三点都在进步，你的右手就正在变成一个“带着琴弦的鼓手”。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-11T00:05:45Z",
+  "updatedAt": "2026-05-11T00:05:45Z"
+}

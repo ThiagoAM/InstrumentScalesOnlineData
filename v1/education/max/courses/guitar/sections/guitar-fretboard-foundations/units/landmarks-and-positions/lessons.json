@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "one-string-landmark-sprint",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "One-String Landmark Sprint",
+        "pt-BR": "Sprint dos Pontos de Referência em Uma Corda",
+        "es": "Sprint de puntos de referencia en una sola cuerda",
+        "de": "Ein-Saiten-Landmarken-Sprint",
+        "ja": "1弦ランドマーク・スプリント",
+        "zh-Hans": "单弦地标冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Race across one guitar string, lock in your landmark frets, and turn note-finding into a fast reflex.",
+        "pt-BR": "Corra por uma única corda da guitarra, fixe as casas de referência e transforme encontrar notas em um reflexo rápido.",
+        "es": "Recorre una sola cuerda de la guitarra, fija tus trastes de referencia y convierte la búsqueda de notas en un reflejo rápido.",
+        "de": "Rase über eine Gitarrensaite, verankere deine Bund-Markierungen und mache das Finden von Tönen zu einem schnellen Reflex.",
+        "ja": "ギターの1本の弦だけでランドマークフレットを定着させ、音探しを素早い反射に変えましょう。",
+        "zh-Hans": "只用一根吉他弦完成地标品位训练，把找音练成快速反应。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-05-11T00:05:44Z",
+    "updatedAt": "2026-05-11T00:05:44Z"
   }
 ]
