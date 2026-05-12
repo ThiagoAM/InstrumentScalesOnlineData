@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-05-10T00:07:56Z",
     "updatedAt": "2026-05-10T00:07:56Z"
+  },
+  {
+    "id": "guitar-beat-mirror",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Beat Mirror in A Dorian",
+        "pt-BR": "Espelho do Beat em Lá Dórico",
+        "es": "Espejo del Pulso en La Dórico",
+        "de": "Beat-Spiegel in A-Dorisch",
+        "ja": "Aドリアンのビート・ミラー",
+        "zh-Hans": "A多利亚节拍镜像"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Reflect and reshape short A Dorian phrases so your guitar rhythm gets sharper and more musical.",
+        "pt-BR": "Reflita e remodele frases curtas em Lá dórico para deixar seu ritmo na guitarra mais afiado e musical.",
+        "es": "Refleja y remodela frases cortas en La dórico para que tu ritmo en guitarra sea más preciso y musical.",
+        "de": "Spiegele und forme kurze A-dorische Phrasen um, damit dein Gitarrenrhythmus schärfer und musikalischer wird.",
+        "ja": "Aドリアンの短いフレーズを映して作り替え、ギターのリズムをもっと鋭く音楽的にします。",
+        "zh-Hans": "通过镜像并重塑 A 多利亚短句，让你的吉他节奏更锋利、更有音乐性。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-05-12T00:08:09Z",
+    "updatedAt": "2026-05-12T00:08:09Z"
   }
 ]

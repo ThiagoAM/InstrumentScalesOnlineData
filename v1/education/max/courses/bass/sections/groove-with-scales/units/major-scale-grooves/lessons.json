@@ -1118,5 +1118,33 @@
     "order": 40,
     "createdAt": "2026-05-10T00:07:56Z",
     "updatedAt": "2026-05-10T00:07:56Z"
+  },
+  {
+    "id": "bass-pocket-elevator",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Elevator in D Major",
+        "pt-BR": "Elevador do Pocket em Ré Maior",
+        "es": "Ascensor del Pocket en Re Mayor",
+        "de": "Pocket-Aufzug in D-Dur",
+        "ja": "Dメジャーのポケット・エレベーター",
+        "zh-Hans": "D大调 Pocket 电梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lift and drop your bass groove through D major without losing weight, space, or time.",
+        "pt-BR": "Faça seu groove de baixo subir e descer em Ré maior sem perder peso, espaço ou tempo.",
+        "es": "Haz subir y bajar tu groove de bajo en Re mayor sin perder peso, espacio ni tiempo.",
+        "de": "Lass deinen Bassgroove in D-Dur auf- und abfahren, ohne Gewicht, Raum oder Timing zu verlieren.",
+        "ja": "Dメジャーでベースグルーヴを上下させながら、重さ・空間・タイム感を失わないように鍛えます。",
+        "zh-Hans": "让你的贝斯 groove 在 D 大调里上下运行，同时不丢重量、空间和时间感。"
+      }
+    },
+    "order": 41,
+    "createdAt": "2026-05-12T00:09:30Z",
+    "updatedAt": "2026-05-12T00:09:30Z"
   }
 ]

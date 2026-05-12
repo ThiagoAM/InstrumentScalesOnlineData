@@ -810,5 +810,33 @@
     "order": 29,
     "createdAt": "2026-05-09T00:11:29Z",
     "updatedAt": "2026-05-09T00:11:29Z"
+  },
+  {
+    "id": "piano-touch-dominoes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Touch Dominoes in G Major",
+        "pt-BR": "Dominós de Toque em Sol Maior",
+        "es": "Dominós de Toque en Sol Mayor",
+        "de": "Touch-Dominos in G-Dur",
+        "ja": "Gメジャーのタッチ・ドミノ",
+        "zh-Hans": "G大调触键多米诺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Chain together touch changes inside a G major scale so both hands stay even, alert, and musical.",
+        "pt-BR": "Encadeie mudanças de toque dentro da escala de Sol maior para manter as duas mãos uniformes, atentas e musicais.",
+        "es": "Encadena cambios de toque dentro de la escala de Sol mayor para que ambas manos sigan parejas, atentas y musicales.",
+        "de": "Verknüpfe Anschlagswechsel in der G-Dur-Tonleiter, damit beide Hände gleichmäßig, wach und musikalisch bleiben.",
+        "ja": "Gメジャーの音階の中でタッチを連鎖的に切り替え、両手を均等で敏感、そして音楽的に保ちます。",
+        "zh-Hans": "在 G 大调音阶里连锁切换触键，让双手保持均匀、警觉又有音乐性。"
+      }
+    },
+    "order": 30,
+    "createdAt": "2026-05-12T00:10:46Z",
+    "updatedAt": "2026-05-12T00:10:46Z"
   }
 ]
