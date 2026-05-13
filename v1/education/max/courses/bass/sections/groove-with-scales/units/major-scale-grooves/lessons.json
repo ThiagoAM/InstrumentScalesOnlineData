@@ -1146,5 +1146,33 @@
     "order": 41,
     "createdAt": "2026-05-12T00:09:30Z",
     "updatedAt": "2026-05-12T00:09:30Z"
+  },
+  {
+    "id": "bass-pocket-switchback-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Switchback Lab",
+        "pt-BR": "Laboratório de Desvios de Pocket no Baixo",
+        "es": "Laboratorio de Desvíos de Pocket para Bajo",
+        "de": "Bass-Pocket-Kehrenlabor",
+        "ja": "ベース・ポケット切り返しラボ",
+        "zh-Hans": "贝斯口袋回头弯实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a major-scale groove that survives register jumps, ghost notes, and clean turnarounds.",
+        "pt-BR": "Construa um groove em escala maior que sobreviva a saltos de registro, ghost notes e turnarounds limpos.",
+        "es": "Construye un groove de escala mayor que sobreviva a saltos de registro, ghost notes y turnarounds limpios.",
+        "de": "Baue einen Groove aus der Durtonleiter, der Registersprüngen, Ghost Notes und sauberen Turnarounds standhält.",
+        "ja": "音域ジャンプ、ゴーストノート、クリーンなターンアラウンドに耐えるメジャースケール・グルーヴを作ろう。",
+        "zh-Hans": "做一个经得住音区跳跃、幽灵音和干净 turnaround 的大调音阶 groove。"
+      }
+    },
+    "order": 42,
+    "createdAt": "2026-05-13T00:09:31Z",
+    "updatedAt": "2026-05-13T00:09:31Z"
   }
 ]

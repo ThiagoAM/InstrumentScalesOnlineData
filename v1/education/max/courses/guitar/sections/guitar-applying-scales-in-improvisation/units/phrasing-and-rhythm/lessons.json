@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-05-12T00:08:09Z",
     "updatedAt": "2026-05-12T00:08:09Z"
+  },
+  {
+    "id": "guitar-rhythm-lighthouse",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Lighthouse",
+        "pt-BR": "Farol Rítmico da Guitarra",
+        "es": "Faro Rítmico de Guitarra",
+        "de": "Rhythmus-Leuchtturm für Gitarre",
+        "ja": "ギター・リズム灯台",
+        "zh-Hans": "吉他节奏灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use accents, rests, and target notes to steer a short solo through the groove.",
+        "pt-BR": "Use acentos, pausas e notas-alvo para conduzir um pequeno solo pelo groove.",
+        "es": "Usa acentos, silencios y notas objetivo para guiar un solo corto dentro del groove.",
+        "de": "Nutze Akzente, Pausen und Zieltöne, um ein kurzes Solo sicher durch den Groove zu steuern.",
+        "ja": "アクセント、休符、ターゲットノートを使って短いソロをグルーヴの中で導こう。",
+        "zh-Hans": "用重音、休止和目标音，把一个短独奏稳稳带进 groove 里。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-05-13T00:07:47Z",
+    "updatedAt": "2026-05-13T00:07:47Z"
   }
 ]

@@ -838,5 +838,33 @@
     "order": 30,
     "createdAt": "2026-05-12T00:10:46Z",
     "updatedAt": "2026-05-12T00:10:46Z"
+  },
+  {
+    "id": "piano-checkpoint-weave",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Checkpoint Weave",
+        "pt-BR": "Trama de Checkpoints no Piano",
+        "es": "Trama de Checkpoints para Piano",
+        "de": "Piano-Checkpoint-Gewebe",
+        "ja": "ピアノ・チェックポイント織り",
+        "zh-Hans": "钢琴检查点编织"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Weave dynamics, articulation, and subdivision changes into one scale routine without losing hand balance.",
+        "pt-BR": "Misture dinâmica, articulação e mudanças de subdivisão em uma rotina de escala sem perder o equilíbrio entre as mãos.",
+        "es": "Mezcla dinámica, articulación y cambios de subdivisión en una rutina de escala sin perder el equilibrio entre las manos.",
+        "de": "Verwebe Dynamik, Artikulation und wechselnde Unterteilungen in einer Skalenroutine, ohne das Gleichgewicht der Hände zu verlieren.",
+        "ja": "ダイナミクス、アーティキュレーション、細分化の変化を、両手のバランスを崩さず1つのスケールルーティンに織り込もう。",
+        "zh-Hans": "在不丢掉双手平衡的前提下，把力度、触键和节奏细分变化编进同一套音阶练习里。"
+      }
+    },
+    "order": 31,
+    "createdAt": "2026-05-13T00:10:54Z",
+    "updatedAt": "2026-05-13T00:10:54Z"
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-lighthouse",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Light the map\n\nWork in **G Mixolydian** (G A B C D E F) in one position you trust.\n\nSet a metronome to **92 bpm** and count **1 & 2 & 3 & 4 &** out loud.\n\nYour job is to make the listener feel the beat clearly even when your phrase takes sneaky side roads.",
+          "pt-BR": "### Acenda o mapa\n\nTrabalhe em **Sol mixolídio** (G A B C D E F) em uma posição que você já domina.\n\nAjuste o metrônomo para **92 bpm** e conte **1 e 2 e 3 e 4 e** em voz alta.\n\nSua missão é fazer o ouvinte sentir o pulso com clareza, mesmo quando a frase pega desvios sorrateiros.",
+          "es": "### Enciende el mapa\n\nTrabaja en **Sol mixolidio** (G A B C D E F) en una posición que conozcas bien.\n\nPon el metrónomo en **92 bpm** y cuenta **1 y 2 y 3 y 4 y** en voz alta.\n\nTu misión es hacer que el oyente sienta el pulso con claridad incluso cuando la frase toma desvíos sigilosos.",
+          "de": "### Karte einschalten\n\nArbeite in **G-Mixolydisch** (G A B C D E F) in einer Lage, die du gut kennst.\n\nStelle das Metronom auf **92 bpm** und zähle **1 und 2 und 3 und 4 und** laut.\n\nDeine Aufgabe ist, dass der Puls klar spürbar bleibt, selbst wenn die Phrase heimliche Umwege nimmt.",
+          "ja": "### 地図に明かりをつける\n\nよく知っているポジションで **Gミクソリディアン**（G A B C D E F）を使います。\n\nメトロノームは **92 bpm**。**1と2と3と4と** と声に出して数えましょう。\n\n今日の目標は、フレーズがこっそり回り道をしても、聴き手にビートをはっきり感じさせることです。",
+          "zh-Hans": "### 点亮地图\n\n在你熟悉的一个把位里使用 **G混合利底亚**（G A B C D E F）。\n\n把节拍器设为 **92 bpm**，并大声数 **1 和 2 和 3 和 4 和**。\n\n你的任务是：即使乐句偷偷绕路，也要让听的人清楚感到拍点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: build a beacon note\n\nCreate a **2-bar phrase** that always lands on **G** or **D** on beat **1** of bar 2.\n\nRules:\n- start bar 1 on **& of 2** or **beat 3**\n- use **5 to 7 notes** total\n- leave one clear eighth-note rest\n\nPlay it 5 times until the landing feels obvious, not lucky.",
+          "pt-BR": "### Rodada 1: construa uma nota-farol\n\nCrie uma **frase de 2 compassos** que sempre aterrisse em **G** ou **D** no tempo **1** do compasso 2.\n\nRegras:\n- comece o compasso 1 no **e do 2** ou no **tempo 3**\n- use **5 a 7 notas** no total\n- deixe uma pausa clara de colcheia\n\nToque 5 vezes até a chegada soar óbvia, não acidental.",
+          "es": "### Ronda 1: construye una nota faro\n\nCrea una **frase de 2 compases** que siempre aterrice en **G** o **D** en el tiempo **1** del compás 2.\n\nReglas:\n- empieza el compás 1 en el **y de 2** o en el **tiempo 3**\n- usa **5 a 7 notas** en total\n- deja un silencio claro de corchea\n\nTócala 5 veces hasta que la llegada se sienta evidente, no accidental.",
+          "de": "### Runde 1: einen Leuchtton bauen\n\nErfinde eine **2-taktige Phrase**, die auf Schlag **1** von Takt 2 immer auf **G** oder **D** landet.\n\nRegeln:\n- beginne Takt 1 auf **und von 2** oder auf **Zählzeit 3**\n- benutze insgesamt **5 bis 7 Töne**\n- lasse eine deutliche Achtelpause\n\nSpiele sie 5-mal, bis die Landung bewusst und nicht zufällig klingt.",
+          "ja": "### ラウンド1：灯台になる音を作る\n\n2小節目の **1拍目** に必ず **G** か **D** へ着地する **2小節フレーズ** を作ります。\n\nルール：\n- 1小節目は **2拍目の裏** か **3拍目** から始める\n- 音数は合計 **5〜7音**\n- はっきりした8分休符を1つ入れる\n\n着地が偶然ではなく狙って聞こえるまで、5回繰り返してください。",
+          "zh-Hans": "### 第1轮：做一个灯塔音\n\n做一个 **2 小节乐句**，并且在第2小节 **第1拍** 必须落在 **G** 或 **D**。\n\n规则：\n- 第1小节从 **第2拍后半拍** 或 **第3拍** 开始\n- 总共使用 **5 到 7 个音**\n- 留出一个清楚的八分休止\n\n重复 5 次，直到这个落点听起来像刻意安排，而不是碰巧撞上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: flash one accent\n\nKeep the same phrase shape, but choose **one** note to spotlight.\n\nTry one of these:\n- accent the **& of 4** before the landing\n- slide into the target note\n- make the target note longer than everything else\n\nThe accent should act like a lighthouse flash: brief, bright, impossible to miss.",
+          "pt-BR": "### Rodada 2: faça um acento piscar\n\nMantenha o mesmo desenho da frase, mas escolha **uma** nota para colocar em destaque.\n\nExperimente uma destas opções:\n- acentuar o **e do 4** antes da chegada\n- fazer um slide para a nota-alvo\n- deixar a nota-alvo mais longa do que todas as outras\n\nO acento deve funcionar como um clarão de farol: curto, brilhante e impossível de ignorar.",
+          "es": "### Ronda 2: haz parpadear un acento\n\nMantén la misma forma de la frase, pero elige **una** nota para ponerla en primer plano.\n\nPrueba una de estas opciones:\n- acentuar el **y de 4** antes de la llegada\n- deslizarte hacia la nota objetivo\n- hacer la nota objetivo más larga que todas las demás\n\nEl acento debe funcionar como un destello de faro: breve, brillante e imposible de ignorar.",
+          "de": "### Runde 2: einen Akzent aufblitzen lassen\n\nBehalte dieselbe Form der Phrase, aber wähle **einen** Ton als Scheinwerferpunkt.\n\nProbiere eine dieser Optionen:\n- betone **und von 4** vor der Landung\n- slide in den Zielton hinein\n- halte den Zielton länger als alle anderen\n\nDer Akzent soll wie ein Leuchtturmblitz wirken: kurz, hell und nicht zu überhören.",
+          "ja": "### ラウンド2：ひとつのアクセントを点滅させる\n\nフレーズの形はそのままにして、**1音だけ** を目立たせます。\n\n次のどれかを試しましょう：\n- 着地前の **4拍目の裏** を強調する\n- ターゲットノートへスライドで入る\n- ターゲットノートを他の音より長く保つ\n\nアクセントは灯台の光のように、短く、明るく、見逃せないものであるべきです。",
+          "zh-Hans": "### 第2轮：让一个重音闪一下\n\n保持同样的乐句形状，但只挑 **一个** 音来打亮。\n\n试试下面其中一种：\n- 强调落点前的 **第4拍后半拍**\n- 滑进目标音\n- 让目标音比其他音都更长\n\n这个重音要像灯塔闪光：短、亮，而且绝对不会被忽略。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: move the same idea to a new string set\n\nNow play the same rhythmic idea on a different nearby string set or position.\n\nDo not rewrite the phrase from scratch.\n\nThe challenge is to keep the groove identity while your fingers solve a new map.",
+          "pt-BR": "### Rodada 3: leve a mesma ideia para outro grupo de cordas\n\nAgora toque a mesma ideia rítmica em outro grupo de cordas próximo ou em outra posição.\n\nNão reescreva a frase do zero.\n\nO desafio é manter a identidade do groove enquanto os dedos resolvem um novo mapa.",
+          "es": "### Ronda 3: mueve la misma idea a otro grupo de cuerdas\n\nAhora toca la misma idea rítmica en otro grupo de cuerdas cercano o en otra posición.\n\nNo reescribas la frase desde cero.\n\nEl reto es conservar la identidad del groove mientras tus dedos resuelven un mapa nuevo.",
+          "de": "### Runde 3: dieselbe Idee auf einen neuen Saitensatz verlegen\n\nSpiele dieselbe rhythmische Idee jetzt auf einem anderen nahen Saitensatz oder in einer anderen Lage.\n\nSchreibe die Phrase nicht komplett neu.\n\nDie Herausforderung ist, die Groove-Identität zu behalten, während deine Finger eine neue Landkarte lösen.",
+          "ja": "### ラウンド3：同じアイデアを別の弦セットへ移す\n\n同じリズムのアイデアを、近くの別の弦セットか別ポジションで弾いてみましょう。\n\nフレーズを最初から作り直してはいけません。\n\n指が新しい地図を解く中でも、グルーヴの正体を保つことが課題です。",
+          "zh-Hans": "### 第3轮：把同一个想法移到新的弦组\n\n现在把同样的节奏想法，放到附近另一组弦或另一个把位上演奏。\n\n不要从头重写这个乐句。\n\n挑战是：手指在解决新地图时，groove 的身份不能丢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nRecord **two versions**:\n- one calm and spacious\n- one more aggressive with stronger accents\n\nIf the aggressive version loses the groove, steal only its best accent and place it back into the calmer take.\n\nThen move the whole game to **D Mixolydian** and keep the same rhythmic control. 🎸",
+          "pt-BR": "### Desafio final\n\nGrave **duas versões**:\n- uma calma e espaçosa\n- outra mais agressiva, com acentos mais fortes\n\nSe a versão agressiva perder o groove, roube apenas o melhor acento dela e coloque de volta na versão mais calma.\n\nDepois leve o jogo inteiro para **Ré mixolídio** e mantenha o mesmo controle rítmico. 🎸",
+          "es": "### Desafío final\n\nGraba **dos versiones**:\n- una tranquila y espaciosa\n- otra más agresiva con acentos más fuertes\n\nSi la versión agresiva pierde el groove, roba solo su mejor acento y colócalo dentro de la toma más tranquila.\n\nLuego mueve todo el juego a **Re mixolidio** y conserva el mismo control rítmico. 🎸",
+          "de": "### Abschluss-Challenge\n\nNimm **zwei Versionen** auf:\n- eine ruhig und mit viel Luft\n- eine aggressiver mit stärkeren Akzenten\n\nWenn die aggressive Version den Groove verliert, klaue nur ihren besten Akzent und setze ihn zurück in die ruhigere Aufnahme.\n\nDanach verlege das ganze Spiel nach **D-Mixolydisch** und behalte dieselbe rhythmische Kontrolle. 🎸",
+          "ja": "### 最終チャレンジ\n\n**2つのバージョン** を録音しましょう。\n- 落ち着いて空間のある版\n- もっと攻めた、強いアクセントの版\n\n攻めた版でグルーヴが崩れたら、いちばん良いアクセントだけを抜き出して、落ち着いた版へ戻してください。\n\n最後にこのゲーム全体を **Dミクソリディアン** へ移し、同じリズムコントロールを保てるか試しましょう。🎸",
+          "zh-Hans": "### 最终挑战\n\n录下 **两个版本**：\n- 一个冷静、留白更多\n- 一个更凶一点、重音更强\n\n如果更凶的版本失去了 groove，就只偷回它最好的那个重音，放回冷静版里。\n\n然后把整套游戏移到 **D混合利底亚**，继续保持同样的节奏控制。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-13T00:07:47Z",
+  "updatedAt": "2026-05-13T00:07:47Z"
+}

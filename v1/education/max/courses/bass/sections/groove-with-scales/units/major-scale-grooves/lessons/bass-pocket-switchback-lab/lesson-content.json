@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-switchback-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Open the groove lab\n\nUse **E major** (E F# G# A B C# D#) and loop **E - A - B - A** for four bars.\n\nSet a metronome to **96 bpm**.\n\nYour mission is to sound solid enough for a band, but playful enough that the groove keeps surprising people.",
+          "pt-BR": "### Abra o laboratório do groove\n\nUse **Mi maior** (E F# G# A B C# D#) e faça um loop de **E - A - B - A** por quatro compassos.\n\nAjuste o metrônomo para **96 bpm**.\n\nSua missão é soar firme o bastante para uma banda, mas brincalhão o bastante para o groove continuar surpreendendo.",
+          "es": "### Abre el laboratorio del groove\n\nUsa **Mi mayor** (E F# G# A B C# D#) y haz un loop de **E - A - B - A** durante cuatro compases.\n\nPon el metrónomo en **96 bpm**.\n\nTu misión es sonar lo bastante sólido para una banda, pero también juguetón para que el groove siga sorprendiendo.",
+          "de": "### Groove-Labor öffnen\n\nNutze **E-Dur** (E F# G# A B C# D#) und loope **E - A - B - A** über vier Takte.\n\nStelle das Metronom auf **96 bpm**.\n\nDeine Mission ist, stabil genug für eine Band zu klingen und gleichzeitig verspielt genug, damit der Groove weiter überrascht.",
+          "ja": "### グルーヴ・ラボを開く\n\n**Eメジャー**（E F# G# A B C# D#）を使い、**E - A - B - A** を4小節ループします。\n\nメトロノームは **96 bpm** に設定します。\n\n目標は、バンドで通用する安定感を持ちながら、グルーヴにちょっとした遊び心を残すことです。",
+          "zh-Hans": "### 打开 groove 实验室\n\n使用 **E大调**（E F# G# A B C# D#），并把 **E - A - B - A** 循环四小节。\n\n把节拍器设为 **96 bpm**。\n\n你的任务是：既要稳到足够撑起乐队，又要灵动到让 groove 继续给人惊喜。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: lock the pocket floor\n\nCreate a 1-bar groove cell using mostly **roots, thirds, fifths, and sixths**.\n\nRules:\n- beat **1** must be a root\n- beat **3** must be either the **5th** or **6th**\n- use only **one** ghost note\n\nRepeat the cell through the progression until every beat feels planted.",
+          "pt-BR": "### Rodada 1: trave o chão do pocket\n\nCrie uma célula de groove de 1 compasso usando principalmente **tônicas, terças, quintas e sextas**.\n\nRegras:\n- o tempo **1** precisa ser uma tônica\n- o tempo **3** precisa ser a **5ª** ou a **6ª**\n- use apenas **uma** ghost note\n\nRepita a célula pela progressão até cada tempo parecer bem assentado.",
+          "es": "### Ronda 1: fija el suelo del pocket\n\nCrea una célula de groove de 1 compás usando sobre todo **tónicas, terceras, quintas y sextas**.\n\nReglas:\n- el tiempo **1** debe ser una tónica\n- el tiempo **3** debe ser la **5ª** o la **6ª**\n- usa solo **una** ghost note\n\nRepite la célula por toda la progresión hasta que cada pulso se sienta bien plantado.",
+          "de": "### Runde 1: den Pocket-Boden verriegeln\n\nBaue eine 1-taktige Groove-Zelle vor allem aus **Grundtönen, Terzen, Quinten und Sexten**.\n\nRegeln:\n- Schlag **1** muss ein Grundton sein\n- Schlag **3** muss die **Quinte** oder **Sexte** sein\n- benutze nur **eine** Ghost Note\n\nWiederhole die Zelle durch die Progression, bis sich jeder Puls fest gesetzt anfühlt.",
+          "ja": "### ラウンド1：ポケットの床を固める\n\n主に **ルート、3度、5度、6度** を使って、1小節のグルーヴ・セルを作ります。\n\nルール：\n- **1拍目** は必ずルート\n- **3拍目** は **5度** か **6度**\n- ゴーストノートは **1つだけ**\n\n各拍がしっかり地面に着くまで、そのセルを進行の上で繰り返しましょう。",
+          "zh-Hans": "### 第1轮：锁住 pocket 地板\n\n主要用 **根音、三度、五度、六度** 做一个 1 小节 groove 单元。\n\n规则：\n- **第1拍** 必须是根音\n- **第3拍** 必须是 **5度** 或 **6度**\n- 幽灵音只能用 **一个**\n\n沿着这个和声进行反复演奏，直到每一拍都像钉在地上一样稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: take the switchback\n\nIn bar 3, jump one phrase **up an octave** and come back down before the next bar begins.\n\nDo not rush the return.\n\nThe leap should feel like a deliberate scenic route, not a panic move.",
+          "pt-BR": "### Rodada 2: faça o desvio\n\nNo compasso 3, leve uma frase **uma oitava acima** e volte antes de o compasso seguinte começar.\n\nNão apresse a volta.\n\nO salto deve soar como uma rota panorâmica intencional, não como um movimento de pânico.",
+          "es": "### Ronda 2: toma el desvío\n\nEn el compás 3, sube una frase **una octava** y vuelve antes de que empiece el siguiente compás.\n\nNo apresures el regreso.\n\nEl salto debe sentirse como una ruta panorámica intencional, no como un movimiento de pánico.",
+          "de": "### Runde 2: die Kehre nehmen\n\nSpringe in Takt 3 mit einer Phrase **eine Oktave höher** und kehre zurück, bevor der nächste Takt beginnt.\n\nHetze die Rückkehr nicht.\n\nDer Sprung soll wie eine bewusst gewählte Panorama-Route wirken, nicht wie eine Panikreaktion.",
+          "ja": "### ラウンド2：切り返しへ入る\n\n3小節目で1つのフレーズを **1オクターブ上** へ跳ばし、次の小節が始まる前に戻ってきます。\n\n戻りを急がないこと。\n\nこのジャンプは慌てた動きではなく、景色のいい寄り道のように聞こえるべきです。",
+          "zh-Hans": "### 第2轮：走一次回头弯\n\n在第3小节，把一个乐句 **跳高一个八度**，并在下一小节开始前回到原位。\n\n回来时不要着急。\n\n这个跳跃应该像刻意选的一条风景路线，而不是慌乱补救。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: tighten the turnaround\n\nOn the last two beats of bar 4, connect **A back to E** with a short scale move.\n\nGood options include:\n- **B - A - G# - F#** leading into **E**\n- **C# - B - G#** leading into **E**\n\nKeep the line singable. If it sounds like an exercise, trim notes.",
+          "pt-BR": "### Rodada 3: aperte o turnaround\n\nNos dois últimos tempos do compasso 4, conecte **A de volta para E** com um pequeno movimento de escala.\n\nBoas opções incluem:\n- **B - A - G# - F#** levando para **E**\n- **C# - B - G#** levando para **E**\n\nMantenha a linha cantável. Se soar como exercício, corte notas.",
+          "es": "### Ronda 3: aprieta el turnaround\n\nEn los dos últimos tiempos del compás 4, conecta **A de vuelta a E** con un pequeño movimiento de escala.\n\nBuenas opciones incluyen:\n- **B - A - G# - F#** hacia **E**\n- **C# - B - G#** hacia **E**\n\nMantén la línea cantable. Si suena a ejercicio, recorta notas.",
+          "de": "### Runde 3: den Turnaround schärfen\n\nVerbinde auf den letzten zwei Zählzeiten von Takt 4 **A zurück nach E** mit einer kurzen Skalenbewegung.\n\nGute Optionen sind zum Beispiel:\n- **B - A - G# - F#** nach **E**\n- **C# - B - G#** nach **E**\n\nHalte die Linie singbar. Klingt sie nach Übung, streiche Töne.",
+          "ja": "### ラウンド3：ターンアラウンドを締める\n\n4小節目の最後の2拍で、短いスケールの動きによって **A から E** へ戻ります。\n\nおすすめ例：\n- **B - A - G# - F#** から **E**\n- **C# - B - G#** から **E**\n\nラインは歌えるままに保ちましょう。練習課題っぽく聞こえたら音を減らしてください。",
+          "zh-Hans": "### 第3轮：收紧 turnaround\n\n在第4小节最后两拍，用一个短小的音阶移动把 **A 接回 E**。\n\n可以试试：\n- **B - A - G# - F#** 接到 **E**\n- **C# - B - G#** 接到 **E**\n\n让这条线保持可唱性。如果听起来太像练习题，就删掉一些音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nRecord **three passes**:\n- plain pocket\n- pocket with the octave jump\n- pocket with the octave jump and turnaround fill\n\nChoose the version that still feels fattest at **100 bpm**.\n\nThen move the whole routine to **A major** without losing the same calm pulse. 🎸",
+          "pt-BR": "### Desafio final\n\nGrave **três passadas**:\n- pocket puro\n- pocket com o salto de oitava\n- pocket com salto de oitava e fill de turnaround\n\nEscolha a versão que continua mais encorpada em **100 bpm**.\n\nDepois leve a rotina inteira para **Lá maior** sem perder o mesmo pulso calmo. 🎸",
+          "es": "### Desafío final\n\nGraba **tres pasadas**:\n- pocket simple\n- pocket con salto de octava\n- pocket con salto de octava y fill de turnaround\n\nElige la versión que siga sonando más gruesa a **100 bpm**.\n\nLuego mueve toda la rutina a **La mayor** sin perder el mismo pulso tranquilo. 🎸",
+          "de": "### Abschluss-Challenge\n\nNimm **drei Durchgänge** auf:\n- reiner Pocket\n- Pocket mit Oktavsprung\n- Pocket mit Oktavsprung und Turnaround-Fill\n\nWähle die Version, die bei **100 bpm** immer noch am sattesten wirkt.\n\nDanach verlege die ganze Routine nach **A-Dur**, ohne den gleichen ruhigen Puls zu verlieren. 🎸",
+          "ja": "### 最終チャレンジ\n\n**3つのテイク** を録音します。\n- 基本のポケット\n- オクターブジャンプ入りのポケット\n- オクターブジャンプとターンアラウンド・フィル入りのポケット\n\n**100 bpm** でもいちばん太く感じるバージョンを選びましょう。\n\nそのあと、同じ落ち着いた脈を失わずに全ルーティンを **Aメジャー** へ移してください。🎸",
+          "zh-Hans": "### 最终挑战\n\n录下 **三个版本**：\n- 基础 pocket\n- 带八度跳跃的 pocket\n- 带八度跳跃和 turnaround fill 的 pocket\n\n选出在 **100 bpm** 时依然最厚、最稳的版本。\n\n然后把整套练习移到 **A大调**，同时保住同样冷静的脉搏。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-13T00:09:31Z",
+  "updatedAt": "2026-05-13T00:09:31Z"
+}
