@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-05-04T00:08:01Z",
     "updatedAt": "2026-05-04T00:08:01Z"
+  },
+  {
+    "id": "guitar-rhythm-mirror-gauntlet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Mirror Gauntlet",
+        "pt-BR": "Arena do Espelho Rítmico",
+        "es": "Desafío del Espejo Rítmico",
+        "de": "Rhythmusspiegel-Parcours",
+        "ja": "リズムミラー・ガントレット",
+        "zh-Hans": "节奏镜像闯关"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar scale phrasing by copying, flipping, and upgrading rhythmic ideas without losing the groove.",
+        "pt-BR": "Treine o fraseado de escalas na guitarra copiando, invertendo e evoluindo ideias rítmicas sem perder o groove.",
+        "es": "Entrena tu fraseo de escalas en guitarra copiando, torciendo y mejorando ideas rítmicas sin perder el groove.",
+        "de": "Trainiere dein Gitarren-Skalen-Phrasing, indem du rhythmische Ideen spiegelst, verdrehst und weiterentwickelst, ohne den Groove zu verlieren.",
+        "ja": "ギターのスケールフレーズを、リズムを写し・ずらし・発展させながらグルーヴを保って鍛えるレッスンです。",
+        "zh-Hans": "通过复制、扭转并升级节奏想法来训练吉他音阶乐句，同时始终保持律动感。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-05-14T00:09:35Z",
+    "updatedAt": "2026-05-14T00:09:35Z"
   }
 ]

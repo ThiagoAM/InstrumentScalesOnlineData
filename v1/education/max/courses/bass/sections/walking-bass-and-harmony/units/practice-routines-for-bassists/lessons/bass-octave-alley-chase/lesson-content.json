@@ -1,0 +1,86 @@
+{
+  "id": "bass-octave-alley-chase",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In **Octave Alley Chase**, you are the driver and the bass line is the getaway route. Choose **G major** or **E minor**, set a groove between **84 and 100 BPM**, and stay on one repeating vamp. Your job is to connect **root**, **fifth**, and **octave** shapes so smoothly that the line feels inevitable instead of assembled.",
+          "pt-BR": "Em **Perseguição no Beco das Oitavas**, você é o motorista e a linha de baixo é a rota de fuga. Escolha **Sol maior** ou **Mi menor**, coloque um groove entre **84 e 100 BPM** e fique em um vamp repetitivo. Sua missão é conectar desenhos de **tônica**, **quinta** e **oitava** com tanta fluidez que a linha pareça inevitável, e não montada peça por peça.",
+          "es": "En **Persecución en el Callejón de Octavas**, tú conduces y la línea de bajo es la ruta de escape. Elige **Sol mayor** o **Mi menor**, pon un groove entre **84 y 100 BPM** y quédate en un vamp repetitivo. Tu misión es conectar figuras de **tónica**, **quinta** y **octava** con tanta suavidad que la línea parezca inevitable y no ensamblada pieza por pieza.",
+          "de": "In der **Oktavengassen-Verfolgung** bist du der Fahrer und die Basslinie ist die Fluchtroute. Wähle **G-Dur** oder **E-Moll**, stelle einen Groove zwischen **84 und 100 BPM** ein und bleib auf einem wiederholten Vamp. Deine Aufgabe ist es, **Grundton-**, **Quint-** und **Oktavformen** so geschmeidig zu verbinden, dass die Linie unvermeidlich wirkt und nicht zusammengesetzt.",
+          "ja": "**オクターブ横丁チェイス**では、あなたがドライバーで、ベースラインは逃走ルートです。**Gメジャー**または**Eマイナー**を選び、**84〜100 BPM**のグルーヴを設定し、同じヴァンプを繰り返します。**ルート**、**5度**、**オクターブ**の形を、組み立てた感じではなく当然そこへ向かうように、なめらかにつなぐのが任務です。",
+          "zh-Hans": "在**八度小巷追击**里，你是司机，贝斯线就是逃跑路线。选择**G大调**或**E小调**，把律动设在**84到100 BPM**，并在同一个和声循环上持续演奏。你的任务是把**根音**、**五度**和**八度**的形状连得极其顺滑，让这条线听起来像必然发生，而不是临时拼装出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 1 is the **safe route**. For four bars, build lines using only roots and octaves. Aim for clean timing and even note length. If the groove wobbles, do not add more notes yet; fix the steering before you add speed.",
+          "pt-BR": "A Faixa 1 é a **rota segura**. Durante quatro compassos, crie linhas usando apenas tônicas e oitavas. Mire em tempo limpo e duração de notas equilibrada. Se o groove balançar, não acrescente mais notas ainda; arrume a direção antes de ganhar velocidade.",
+          "es": "El Carril 1 es la **ruta segura**. Durante cuatro compases, crea líneas usando solo tónicas y octavas. Busca tiempo limpio y duración pareja en las notas. Si el groove tambalea, no añadas más notas todavía; corrige la dirección antes de subir la velocidad.",
+          "de": "Spur 1 ist die **sichere Route**. Baue vier Takte lang Linien nur mit Grundtönen und Oktaven. Achte auf sauberes Timing und gleichmäßige Notenlängen. Wenn der Groove schwankt, füge noch keine weiteren Töne hinzu; bring erst die Lenkung in Ordnung, bevor du schneller wirst.",
+          "ja": "レーン1は**安全ルート**です。4小節のあいだ、ルートとオクターブだけでラインを作ります。タイムの正確さと音の長さの均一さを狙ってください。グルーヴが揺れるなら、まだ音を増やさず、まずハンドル操作を直しましょう。",
+          "zh-Hans": "第一车道是**安全路线**。连续四小节只用根音和八度来构建线条。目标是稳定的节奏和均匀的时值。如果律动摇晃了，先别加更多音；先把方向盘扶稳，再谈加速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 2 adds the **fifth-lane overtake**. Now each bar must include at least one fifth, but it cannot always land in the same place. Move the fifth to beat 2, the \"and\" of 2, or beat 4 so the line starts breathing instead of marching.",
+          "pt-BR": "A Faixa 2 adiciona a **ultrapassagem pela quinta**. Agora cada compasso precisa incluir pelo menos uma quinta, mas ela não pode cair sempre no mesmo lugar. Leve a quinta para o tempo 2, para o contratempo do 2 ou para o tempo 4, para que a linha comece a respirar em vez de marchar.",
+          "es": "El Carril 2 añade el **adelantamiento por quinta**. Ahora cada compás debe incluir al menos una quinta, pero no puede caer siempre en el mismo lugar. Mueve la quinta al tiempo 2, al \"y\" de 2 o al tiempo 4 para que la línea empiece a respirar en lugar de marchar.",
+          "de": "Spur 2 bringt das **Quint-Überholmanöver**. Jetzt muss jeder Takt mindestens eine Quinte enthalten, aber sie darf nicht immer an derselben Stelle landen. Setze die Quinte auf Zählzeit 2, auf das Und von 2 oder auf Zählzeit 4, damit die Linie zu atmen beginnt statt zu marschieren.",
+          "ja": "レーン2では**5度の追い越し**を加えます。各小節に少なくとも1回は5度を入れますが、毎回同じ位置には置きません。2拍目、2拍目裏、4拍目などへ動かして、ラインが行進ではなく呼吸し始めるようにします。",
+          "zh-Hans": "第二车道加入**五度超车**。现在每小节至少要出现一次五度，但它不能每次都落在同一个位置。把五度放到第2拍、第2拍后半拍，或第4拍，让线条开始呼吸，而不是像行军。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 3 is the **approach tunnel**. Before you land on the next root, approach it from one scale step above or below. This is where scale knowledge becomes bass storytelling: the listener hears direction, not just ingredients.",
+          "pt-BR": "A Faixa 3 é o **túnel de aproximação**. Antes de cair na próxima tônica, aproxime-se dela por um grau da escala acima ou abaixo. Aqui o conhecimento de escala vira narrativa de baixo: o ouvinte percebe direção, não só ingredientes.",
+          "es": "El Carril 3 es el **túnel de aproximación**. Antes de caer en la siguiente tónica, acércate desde un grado de la escala por arriba o por abajo. Aquí el conocimiento de escalas se convierte en narración de bajo: el oyente escucha dirección, no solo ingredientes.",
+          "de": "Spur 3 ist der **Anflugtunnel**. Bevor du auf dem nächsten Grundton landest, näherst du dich ihm von einem Skalenschritt darüber oder darunter. Hier wird Skalenwissen zu Bass-Erzählkunst: Die Hörenden nehmen Richtung wahr und nicht nur Zutaten.",
+          "ja": "レーン3は**アプローチトンネル**です。次のルートに着地する前に、スケールの1音上か1音下から近づきます。ここでスケール知識はベースの物語に変わります。聴き手には材料ではなく方向が聞こえます。",
+          "zh-Hans": "第三车道是**接近隧道**。在落到下一个根音之前，先从音阶中高一个级数或低一个级数的音靠近它。这里，音阶知识开始变成贝斯叙事：听众听到的不只是材料，而是方向感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 4 is the **ghost-traffic zone**. Repeat your favorite two-bar line, then replace one played note with a ghost note or a rest. If the groove gets stronger, keep it. If the line loses weight, restore the note and remove a different one.",
+          "pt-BR": "A Faixa 4 é a **zona de trânsito fantasma**. Repita sua linha favorita de dois compassos e depois substitua uma nota tocada por uma ghost note ou uma pausa. Se o groove ficar mais forte, mantenha. Se a linha perder peso, devolva a nota e tire outra.",
+          "es": "El Carril 4 es la **zona de tráfico fantasma**. Repite tu línea favorita de dos compases y luego sustituye una nota tocada por una ghost note o un silencio. Si el groove mejora, consérvalo. Si la línea pierde peso, devuelve la nota y quita otra distinta.",
+          "de": "Spur 4 ist die **Geisterverkehrszone**. Wiederhole deine liebste zweitaktige Linie und ersetze dann einen gespielten Ton durch einen Ghost Note oder eine Pause. Wenn der Groove stärker wird, behalte es bei. Wenn die Linie an Gewicht verliert, setze den Ton zurück und entferne einen anderen.",
+          "ja": "レーン4は**ゴースト交通地帯**です。お気に入りの2小節ラインを繰り返し、その中の1音をゴーストノートか休符に置き換えます。グルーヴが強くなるなら採用です。重さが減るなら元に戻し、別の音を外してください。",
+          "zh-Hans": "第四车道是**幽灵交通区**。重复你最喜欢的两小节线条，然后把其中一个实音换成幽灵音或休止。如果律动更强，就保留它；如果线条失去重量，就把那个音放回来，再尝试拿掉别的音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final chase: play three different four-bar lines in a row. In line one, prioritize stability. In line two, prioritize motion. In line three, balance both. Then ask yourself one honest question: did the groove make people nod, or did it just prove that you know where the notes live?",
+          "pt-BR": "Perseguição final: toque três linhas diferentes de quatro compassos em sequência. Na primeira, priorize estabilidade. Na segunda, priorize movimento. Na terceira, equilibre os dois. Depois faça uma pergunta honesta: o groove fez alguém balançar a cabeça ou só provou que você sabe onde as notas moram?",
+          "es": "Persecución final: toca tres líneas diferentes de cuatro compases seguidas. En la primera, prioriza estabilidad. En la segunda, prioriza movimiento. En la tercera, equilibra ambas cosas. Luego hazte una pregunta honesta: ¿el groove hizo que alguien moviera la cabeza o solo demostró que sabes dónde viven las notas?",
+          "de": "Finale Verfolgung: Spiele drei verschiedene viertaktige Linien hintereinander. In Linie eins hat Stabilität Vorrang. In Linie zwei hat Bewegung Vorrang. In Linie drei balancierst du beides. Stell dir danach eine ehrliche Frage: Hat der Groove Köpfe nicken lassen oder nur bewiesen, dass du weißt, wo die Töne wohnen?",
+          "ja": "最後のチェイスでは、4小節のラインを3種類続けて弾きます。1本目は安定感を優先。2本目は動きを優先。3本目はその両方を両立させます。そして自分に正直な質問をしてください。グルーヴで誰かの首を振らせたのか、それとも音の場所を知っていることを証明しただけなのか。",
+          "zh-Hans": "最终追击：连续演奏三条不同的四小节线。第一条优先稳定，第二条优先移动感，第三条把两者平衡起来。然后问自己一个诚实的问题：这个groove真的让人点头了吗，还是只证明了你知道音都在哪里？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-14T00:10:45Z",
+  "updatedAt": "2026-05-14T00:10:45Z"
+}

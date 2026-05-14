@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-05-10T00:07:57Z",
     "updatedAt": "2026-05-10T00:07:57Z"
+  },
+  {
+    "id": "piano-hand-off-obstacle-course",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Hand-Off Obstacle Course",
+        "pt-BR": "Circuito de Passagem Entre as Mãos",
+        "es": "Circuito de Relevo entre las Manos",
+        "de": "Staffellauf der Hände",
+        "ja": "ハンドオフ障害物コース",
+        "zh-Hans": "双手交接障碍赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make your piano scales more musical by passing patterns between the hands with control, balance, and timing.",
+        "pt-BR": "Deixe suas escalas no piano mais musicais passando padrões entre as mãos com controle, equilíbrio e precisão rítmica.",
+        "es": "Haz que tus escalas de piano sean más musicales pasando patrones entre las manos con control, equilibrio y precisión.",
+        "de": "Mach deine Klavierskalen musikalischer, indem du Muster mit Kontrolle, Balance und Timing zwischen den Händen übergibst.",
+        "ja": "パターンを両手で受け渡しながら、コントロール、バランス、タイミングを磨いてピアノのスケールをもっと音楽的にします。",
+        "zh-Hans": "通过在双手之间传递音型，用控制力、平衡感和节奏感让你的钢琴音阶更有音乐性。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-05-14T00:12:10Z",
+    "updatedAt": "2026-05-14T00:12:10Z"
   }
 ]

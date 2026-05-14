@@ -1,0 +1,86 @@
+{
+  "id": "piano-hand-off-obstacle-course",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns your scale practice into a relay race. Pick **D major** or **B minor**, choose a steady tempo between **72 and 88 BPM**, and imagine that your left and right hands are teammates who do not fully trust each other yet. Your mission is to make the hand-off so clean that the listener cannot hear the seam.",
+          "pt-BR": "Esta lição transforma seu estudo de escalas em uma corrida de revezamento. Escolha **Ré maior** ou **Si menor**, defina um andamento estável entre **72 e 88 BPM** e imagine que sua mão esquerda e sua mão direita são colegas de equipe que ainda não confiam totalmente uma na outra. Sua missão é fazer a passagem tão limpa que o ouvinte não perceba a emenda.",
+          "es": "Esta lección convierte tu práctica de escalas en una carrera de relevos. Elige **Re mayor** o **Si menor**, fija un tempo estable entre **72 y 88 BPM** e imagina que tu mano izquierda y tu mano derecha son compañeras de equipo que todavía no confían del todo una en la otra. Tu misión es hacer el relevo tan limpio que el oyente no pueda escuchar la costura.",
+          "de": "Diese Lektion macht aus deinem Skalenüben einen Staffellauf. Wähle **D-Dur** oder **H-Moll**, setze ein gleichmäßiges Tempo zwischen **72 und 88 BPM** und stell dir vor, dass linke und rechte Hand Teamkollegen sind, die einander noch nicht ganz vertrauen. Deine Aufgabe ist es, die Übergabe so sauber zu machen, dass man die Naht nicht hört.",
+          "ja": "このレッスンでは、スケール練習をリレー競走に変えます。**Dメジャー**または**Bマイナー**を選び、**72〜88 BPM**の安定したテンポを設定してください。左手と右手は、まだ完全には信用し合っていないチームメイトだと考えましょう。任務は、受け渡しの境目が聴き取れないほど自然にすることです。",
+          "zh-Hans": "这节课把你的音阶练习变成一场接力赛。选择**D大调**或**B小调**，设定**72到88 BPM**的稳定速度，并把左手和右手想象成还没有完全信任彼此的队友。你的任务是把交接做得足够干净，让听众根本听不出接缝。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Obstacle 1 is the **single-hand runway**. Play one octave ascending with the right hand and one octave descending with the left hand, separately first. Focus on relaxed fingers, even tone, and identical rhythm. If one hand sounds more confident, that is useful information, not a problem.",
+          "pt-BR": "O Obstáculo 1 é a **pista de mão única**. Toque uma oitava subindo com a mão direita e uma oitava descendo com a mão esquerda, primeiro separadas. Foque em dedos relaxados, som uniforme e ritmo idêntico. Se uma mão soar mais confiante, isso é informação útil, não um problema.",
+          "es": "El Obstáculo 1 es la **pista de una sola mano**. Toca una octava ascendente con la mano derecha y una octava descendente con la izquierda, primero por separado. Concéntrate en dedos relajados, sonido parejo y ritmo idéntico. Si una mano suena más segura, eso es información útil, no un problema.",
+          "de": "Hindernis 1 ist die **Einhand-Startbahn**. Spiele zuerst getrennt eine Oktave aufwärts mit der rechten Hand und eine Oktave abwärts mit der linken Hand. Achte auf lockere Finger, gleichmäßigen Klang und identischen Rhythmus. Wenn eine Hand sicherer klingt, ist das nützliche Information und kein Problem.",
+          "ja": "障害1は**片手ランウェイ**です。まず右手で1オクターブ上行、左手で1オクターブ下行をそれぞれ別々に弾きます。指の脱力、音量の均一さ、リズムの一致に集中してください。どちらかの手がより自信ありげに聞こえるなら、それは問題ではなく大事なヒントです。",
+          "zh-Hans": "障碍1是**单手跑道**。先分别练习：右手上行一个八度，左手下行一个八度。专注于手指放松、音色均匀和节奏一致。如果有一只手听起来更有信心，那不是问题，而是很有价值的信息。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Obstacle 2 is the **midpoint hand-off**. Start with the right hand, stop halfway through the pattern, and let the left hand finish the phrase without changing tempo. Then reverse the roles. The goal is not speed; the goal is to avoid an audible bump when responsibility changes.",
+          "pt-BR": "O Obstáculo 2 é a **passagem no meio do caminho**. Comece com a mão direita, pare na metade do desenho e deixe a mão esquerda terminar a frase sem mudar o andamento. Depois inverta os papéis. O objetivo não é velocidade; o objetivo é evitar um solavanco audível quando a responsabilidade muda.",
+          "es": "El Obstáculo 2 es el **relevo en el punto medio**. Empieza con la mano derecha, detente a mitad del patrón y deja que la mano izquierda termine la frase sin cambiar el tempo. Luego invierte los papeles. La meta no es la velocidad; la meta es evitar un bache audible cuando cambia la responsabilidad.",
+          "de": "Hindernis 2 ist die **Übergabe in der Mitte**. Beginne mit der rechten Hand, stoppe in der Mitte des Musters und lass die linke Hand die Phrase ohne Tempowechsel beenden. Dann tauschst du die Rollen. Es geht nicht um Geschwindigkeit, sondern darum, beim Wechsel keinen hörbaren Huckel zu erzeugen.",
+          "ja": "障害2は**中間地点のハンドオフ**です。右手で始め、パターンの途中で止まり、テンポを変えずに左手へ引き継いでフレーズを終えます。次は役割を逆にします。狙いは速さではなく、担当が変わった瞬間の段差をなくすことです。",
+          "zh-Hans": "障碍2是**中点交接**。先由右手开始，弹到音型中间时停下，再让左手在不改变速度的情况下完成乐句。然后交换角色。目标不是更快，而是在责任转移时不要出现明显的颠簸感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Obstacle 3 is the **dynamic bridge**. Play the first half mezzo-piano and the second half mezzo-forte, then switch the order on the next attempt. You are training both hands to inherit not only notes, but also character.",
+          "pt-BR": "O Obstáculo 3 é a **ponte de dinâmica**. Toque a primeira metade em mezzo-piano e a segunda em mezzo-forte; depois troque a ordem na tentativa seguinte. Você está treinando as duas mãos para herdarem não só as notas, mas também o caráter.",
+          "es": "El Obstáculo 3 es el **puente dinámico**. Toca la primera mitad en mezzo-piano y la segunda en mezzo-forte, y luego invierte el orden en el siguiente intento. Estás entrenando a ambas manos para heredar no solo las notas, sino también el carácter.",
+          "de": "Hindernis 3 ist die **Dynamikbrücke**. Spiele die erste Hälfte mezzo-piano und die zweite mezzo-forte, dann drehe die Reihenfolge im nächsten Versuch um. Du trainierst beide Hände darauf, nicht nur Töne, sondern auch Charakter zu übernehmen.",
+          "ja": "障害3は**ダイナミクスの橋**です。前半をメゾピアノ、後半をメゾフォルテで弾き、次の試行では順番を入れ替えます。両手に受け継がせたいのは音だけでなく、キャラクターでもあります。",
+          "zh-Hans": "障碍3是**力度桥梁**。前半段用mezzo-piano，后半段用mezzo-forte；下一次再把顺序倒过来。你训练的是让双手继承的不只是音符，还有性格和表情。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Obstacle 4 is the **accent detour**. Accent every third note for one pass, then every fourth note for the next pass. This forces your brain to track a rhythm pattern that does not line up neatly with the fingering, which is excellent for attention and control.",
+          "pt-BR": "O Obstáculo 4 é o **desvio de acentos**. Acentue cada terceira nota em uma passada e depois cada quarta nota na passada seguinte. Isso obriga seu cérebro a acompanhar um padrão rítmico que não se encaixa de forma limpa no dedilhado, o que é excelente para atenção e controle.",
+          "es": "El Obstáculo 4 es el **desvío de acentos**. Acentúa cada tercera nota en una pasada y luego cada cuarta nota en la siguiente. Esto obliga a tu cerebro a seguir un patrón rítmico que no coincide limpiamente con la digitación, algo excelente para la atención y el control.",
+          "de": "Hindernis 4 ist der **Akzent-Umweg**. Betone in einem Durchgang jede dritte Note und im nächsten jede vierte Note. So muss dein Gehirn ein rhythmisches Muster verfolgen, das nicht sauber mit dem Fingersatz zusammenfällt, was großartig für Aufmerksamkeit und Kontrolle ist.",
+          "ja": "障害4は**アクセントの回り道**です。1回目は3音ごと、次の回は4音ごとにアクセントを付けます。すると、運指ときれいに一致しないリズムを頭で追い続ける必要があり、注意力とコントロールの強化にとても役立ちます。",
+          "zh-Hans": "障碍4是**重音绕道**。先每隔三个音重一次音，下一遍再每隔四个音重一次音。这样会迫使你的大脑追踪一个和指法并不整齐对齐的节奏图案，这对注意力和控制力非常有帮助。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final course: build a four-bar mini etude from the same scale. Bar 1 uses right hand only, bar 2 left hand only, bar 3 passes the idea between hands, and bar 4 ends with both hands together on a stable note or octave. If it sounds like music instead of homework, you nailed it.",
+          "pt-BR": "Circuito final: monte um miniestudo de quatro compassos usando a mesma escala. O compasso 1 usa só a mão direita, o compasso 2 só a esquerda, o compasso 3 passa a ideia entre as mãos, e o compasso 4 termina com as duas mãos juntas em uma nota estável ou oitava. Se soar como música e não como dever de casa, você acertou.",
+          "es": "Circuito final: construye un mini estudio de cuatro compases con la misma escala. El compás 1 usa solo la mano derecha, el 2 solo la izquierda, el 3 pasa la idea entre ambas manos y el 4 termina con las dos manos juntas en una nota estable u octava. Si suena a música y no a tarea, lo lograste.",
+          "de": "Finaler Parcours: Baue aus derselben Skala eine kleine viertaktige Etüde. Takt 1 ist nur rechte Hand, Takt 2 nur linke Hand, Takt 3 reicht die Idee zwischen beiden weiter, und Takt 4 endet mit beiden Händen gemeinsam auf einem stabilen Ton oder einer Oktave. Wenn es nach Musik statt nach Hausaufgaben klingt, hast du es geschafft.",
+          "ja": "最後のコースでは、同じスケールから4小節のミニエチュードを作ります。1小節目は右手だけ、2小節目は左手だけ、3小節目は両手でアイデアを受け渡し、4小節目は安定した音またはオクターブで両手一緒に終えます。宿題ではなく音楽に聞こえたら大成功です。",
+          "zh-Hans": "最终赛道：用同一个音阶写一个四小节迷你练习曲。第1小节只用右手，第2小节只用左手，第3小节在双手之间传递想法，第4小节用双手一起落在稳定音或八度上结束。如果它听起来像音乐，而不是作业，你就成功了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-14T00:12:10Z",
+  "updatedAt": "2026-05-14T00:12:10Z"
+}

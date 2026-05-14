@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-04-22T14:10:37Z",
     "updatedAt": "2026-04-22T14:10:37Z"
+  },
+  {
+    "id": "bass-octave-alley-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Alley Chase",
+        "pt-BR": "Perseguição no Beco das Oitavas",
+        "es": "Persecución en el Callejón de Octavas",
+        "de": "Oktavengassen-Verfolgung",
+        "ja": "オクターブ横丁チェイス",
+        "zh-Hans": "八度小巷追击"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build bass scale control by hunting roots, fifths, and octaves through tight rhythmic lanes.",
+        "pt-BR": "Desenvolva controle de escalas no baixo perseguindo tônicas, quintas e oitavas por corredores rítmicos apertados.",
+        "es": "Desarrolla control de escalas en el bajo persiguiendo tónicas, quintas y octavas por carriles rítmicos estrechos.",
+        "de": "Baue Kontrolle über Bass-Skalen auf, indem du Grundtöne, Quinten und Oktaven durch enge rhythmische Spuren jagst.",
+        "ja": "ルート、5度、オクターブをリズムの狭いレーンで追いかけながら、ベースの音階コントロールを鍛えるレッスンです。",
+        "zh-Hans": "在紧凑的节奏车道中追踪根音、五度和八度，建立更扎实的贝斯音阶控制力。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-05-14T00:10:45Z",
+    "updatedAt": "2026-05-14T00:10:45Z"
   }
 ]
