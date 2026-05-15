@@ -1,0 +1,73 @@
+{
+  "id": "guitar-call-and-response-obstacle-course",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **A minor pentatonic** or **D Dorian** in one comfortable position. Set a backing track or metronome to **82-96 BPM**. Today you are both the singer and the bandmate answering back. Every phrase needs a clear **call**, a deliberate **response**, and at least one moment where you resist the urge to fill all the space.",
+          "pt-BR": "Escolha **A pentatônica menor** ou **D dórico** em uma posição confortável. Coloque um playback ou metrônomo entre **82-96 BPM**. Hoje você será ao mesmo tempo o cantor e o colega de banda que responde. Cada frase precisa ter uma **pergunta** clara, uma **resposta** intencional e pelo menos um momento em que você resiste à vontade de preencher todo o espaço.",
+          "es": "Elige **A pentatónica menor** o **D dórico** en una posición cómoda. Pon una base o metrónomo entre **82-96 BPM**. Hoy serás tanto el cantante como el compañero de banda que contesta. Cada frase necesita una **pregunta** clara, una **respuesta** deliberada y al menos un momento en el que resistas la tentación de llenar todo el espacio.",
+          "de": "Wähle **A-Moll-Pentatonik** oder **D Dorisch** in einer bequemen Lage. Stelle einen Backing-Track oder ein Metronom auf **82-96 BPM**. Heute bist du gleichzeitig Sänger und Bandkollege, der zurückantwortet. Jede Phrase braucht einen klaren **Ruf**, eine bewusste **Antwort** und mindestens einen Moment, in dem du dem Drang widerstehst, jede Lücke zu füllen.",
+          "ja": "弾きやすいポジションで **Aマイナー・ペンタトニック** か **Dドリアン** を選びましょう。バックトラックかメトロノームは **82〜96 BPM** に設定します。今日は自分が歌い手でもあり、返事をするバンドメイトでもあります。各フレーズにははっきりした **コール**、意図のある **レスポンス**、そして全部を弾き埋めしないための **間** が必要です。",
+          "zh-Hans": "在一个你熟悉的位置上选择 **A小调五声音阶** 或 **D多利亚调式**。把伴奏或节拍器设在 **82-96 BPM**。今天你既是“提出问题”的主唱，也是“回话”的队友。每个乐句都要有清晰的 **提问**、有意识的 **回答**，以及至少一次克制自己不要把所有空间都塞满的时刻。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **mirror round**. Play a one-bar call using **3 to 5 notes**, then answer it in the next bar with the **same rhythm** but different pitches from the same scale. Keep the response shorter than your instincts want. If both bars sound identical, the answer is lazy; if they sound unrelated, the conversation broke.",
+          "pt-BR": "A Rodada 1 é a **rodada do espelho**. Toque uma pergunta de um compasso usando **3 a 5 notas** e responda no compasso seguinte com o **mesmo ritmo**, mas com alturas diferentes da mesma escala. Mantenha a resposta mais curta do que o seu instinto pedir. Se os dois compassos soarem idênticos, a resposta foi preguiçosa; se soarem sem relação, a conversa quebrou.",
+          "es": "La Ronda 1 es la **ronda del espejo**. Toca una pregunta de un compás usando **3 a 5 notas** y respóndela en el compás siguiente con el **mismo ritmo**, pero con alturas distintas de la misma escala. Haz la respuesta más corta de lo que te pide el instinto. Si ambos compases suenan idénticos, la respuesta fue perezosa; si suenan desconectados, la conversación se rompió.",
+          "de": "Runde 1 ist die **Spiegelrunde**. Spiele einen ein-taktigen Ruf mit **3 bis 5 Tönen** und beantworte ihn im nächsten Takt mit dem **gleichen Rhythmus**, aber anderen Tonhöhen aus derselben Skala. Halte die Antwort kürzer, als dein Instinkt will. Wenn beide Takte identisch klingen, ist die Antwort faul; wenn sie nichts miteinander zu tun haben, ist das Gespräch kaputt.",
+          "ja": "ラウンド1は **ミラーラウンド** です。**3〜5音** で1小節のコールを作り、次の小節で **同じリズム** のまま同じスケール内の別の音高で答えてください。レスポンスは本能より少し短めにします。2小節がまったく同じなら答えが怠けていますし、無関係に聞こえるなら会話が壊れています。",
+          "zh-Hans": "第1轮是 **镜像轮**。先用 **3到5个音** 弹一个一小节的提问，再在下一小节用 **相同节奏**、但换成同一音阶里的不同音高来回答。回答要比你的本能想法更短一点。如果两小节听起来一模一样，说明回答太偷懒；如果完全没关系，说明对话断了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **obstacle round**. Before each two-bar pair, assign yourself one obstacle:\n- start on a weak beat\n- end on **A, C, or E**\n- include one slide or bend\n- leave beat 4 completely silent\n- jump to a nearby string set for the response\n\nNow the scale is not enough by itself. You have to make decisions while staying musical.",
+          "pt-BR": "A Rodada 2 é a **rodada do obstáculo**. Antes de cada par de dois compassos, escolha um obstáculo:\n- começar em uma parte fraca do tempo\n- terminar em **A, C ou E**\n- incluir um slide ou bend\n- deixar o tempo 4 totalmente em silêncio\n- pular para um grupo de cordas próximo na resposta\n\nAgora a escala sozinha não basta. Você precisa tomar decisões sem perder a musicalidade.",
+          "es": "La Ronda 2 es la **ronda del obstáculo**. Antes de cada pareja de dos compases, asígnate un obstáculo:\n- empezar en una parte débil del pulso\n- terminar en **A, C o E**\n- incluir un slide o bend\n- dejar el tiempo 4 completamente en silencio\n- saltar a un grupo de cuerdas cercano para la respuesta\n\nAhora la escala por sí sola no basta. Tienes que tomar decisiones mientras sigues sonando musical.",
+          "de": "Runde 2 ist die **Hindernisrunde**. Weise dir vor jedem Zwei-Takt-Paar ein Hindernis zu:\n- auf einer schwachen Zählzeit beginnen\n- auf **A, C oder E** enden\n- einen Slide oder Bend einbauen\n- Zählzeit 4 komplett stumm lassen\n- für die Antwort zu einem nahen Saitensatz springen\n\nJetzt reicht die Skala allein nicht mehr. Du musst musikalische Entscheidungen unter Druck treffen.",
+          "ja": "ラウンド2は **障害物ラウンド** です。2小節ごとに1つ障害を決めます。\n- 弱拍から始める\n- **A、C、E** のどれかで終える\n- スライドかチョーキングを1回入れる\n- 4拍目を完全に休符にする\n- レスポンスで近い別の弦セットへ移動する\n\nここではスケールを知っているだけでは足りません。音楽的な判断をしながら弾く必要があります。",
+          "zh-Hans": "第2轮是 **障碍轮**。每一组两小节开始前，先给自己一个障碍：\n- 从弱拍开始\n- 结束在 **A、C 或 E** 上\n- 加一个滑音或推弦\n- 第4拍完全留空\n- 回答时跳到附近另一组弦上\n\n这时只会背音阶已经不够了。你必须一边做决定，一边保持音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **attitude round**. Play the same call twice, but give two different responses: first one calm and bluesy, second one sharper and more urgent. The notes may overlap, but the phrasing should not. This is how you learn that expression is not hidden somewhere outside the scale — it lives inside timing, attack, and note length.",
+          "pt-BR": "A Rodada 3 é a **rodada da atitude**. Toque a mesma pergunta duas vezes, mas dê duas respostas diferentes: a primeira calma e blueseira, a segunda mais cortante e urgente. As notas podem até se sobrepor, mas o fraseado não. É assim que você aprende que a expressão não está escondida fora da escala — ela vive no timing, no ataque e na duração das notas.",
+          "es": "La Ronda 3 es la **ronda de actitud**. Toca la misma pregunta dos veces, pero da dos respuestas distintas: primero una tranquila y blusera, luego otra más afilada y urgente. Las notas pueden coincidir, pero el fraseo no debería. Así aprendes que la expresión no vive fuera de la escala: vive en el tiempo, el ataque y la duración de cada nota.",
+          "de": "Runde 3 ist die **Haltungsrunde**. Spiele denselben Ruf zweimal, aber gib zwei verschiedene Antworten: zuerst ruhig und bluesig, dann schärfer und dringlicher. Die Töne dürfen sich überschneiden, die Phrasierung nicht. So lernst du, dass Ausdruck nicht irgendwo außerhalb der Skala versteckt ist — er steckt in Timing, Anschlag und Notenlänge.",
+          "ja": "ラウンド3は **キャラクターラウンド** です。同じコールを2回弾きますが、レスポンスは2種類にします。1回目は落ち着いてブルージーに、2回目はより鋭く切迫した感じで。音が多少重なっても構いませんが、フレージングは変えてください。表現はスケールの外にあるのではなく、タイミング、アタック、音価の中にあります。",
+          "zh-Hans": "第3轮是 **态度轮**。把同一个提问弹两次，但给出两种不同的回答：第一次平静、带点布鲁斯味，第二次更尖锐、更紧迫。音可以部分重合，但乐句处理不能一样。这样你会明白，表达力并不在音阶之外，而是在节奏、触弦和音值里面。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record or loop **four full call-and-response pairs** with no repeated response rhythms. After each take, ask:\n- Did the response actually answer the call?\n- Did I leave enough space for the idea to breathe?\n- Could I still target strong notes when the obstacle changed?\n\nIf one obstacle keeps ruining the flow, excellent. That is the obstacle that is secretly teaching you the most. 🎸",
+          "pt-BR": "Desafio final: grave ou coloque em loop **quatro pares completos de pergunta e resposta** sem repetir os ritmos das respostas. Depois de cada tentativa, pergunte:\n- A resposta realmente respondeu à pergunta?\n- Deixei espaço suficiente para a ideia respirar?\n- Consegui mirar notas fortes quando o obstáculo mudou?\n\nSe um obstáculo continuar atrapalhando o fluxo, ótimo. É justamente ele que está te ensinando mais. 🎸",
+          "es": "Desafío final: graba o repite en loop **cuatro parejas completas de pregunta y respuesta** sin repetir los ritmos de las respuestas. Después de cada toma, pregúntate:\n- ¿La respuesta realmente contestó a la pregunta?\n- ¿Dejé suficiente espacio para que la idea respirara?\n- ¿Pude apuntar a notas fuertes cuando cambió el obstáculo?\n\nSi un obstáculo sigue arruinando el flujo, perfecto. Ese es justamente el que más te está enseñando. 🎸",
+          "de": "Abschluss-Challenge: Nimm **vier komplette Call-and-Response-Paare** auf oder loope sie, ohne einen Antwort-Rhythmus zu wiederholen. Frage dich nach jedem Take:\n- Hat die Antwort den Ruf wirklich beantwortet?\n- Habe ich genug Raum zum Atmen gelassen?\n- Konnte ich trotz Hinderniswechsel starke Zieltöne treffen?\n\nWenn ein Hindernis den Fluss immer wieder zerstört, umso besser. Genau dieses Hindernis bringt dir heimlich am meisten bei. 🎸",
+          "ja": "最後の課題です。**4組のコール＆レスポンス** を録音するかループし、レスポンスのリズムを一度も繰り返さないようにしてください。各テイクの後でこう問いましょう。\n- レスポンスは本当にコールに答えていたか？\n- アイデアが呼吸できるだけの間を残せたか？\n- 障害が変わっても強い着地点を狙えたか？\n\n特定の障害で流れが崩れるなら、それは朗報です。いちばん多くを教えてくれているのは、その障害です。 🎸",
+          "zh-Hans": "最终挑战：录下或循环 **4组完整的问答句**，并且回答的节奏一次都不要重复。每次结束后问自己：\n- 这个回答真的回应了提问吗？\n- 我有没有留下足够的空间让想法呼吸？\n- 当障碍变化时，我还能稳稳落在强目标音上吗？\n\n如果某个障碍总是破坏你的流畅度，那反而很好。它正是在偷偷教你最多东西的那个障碍。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-15T00:07:07Z",
+  "updatedAt": "2026-05-15T00:07:07Z"
+}

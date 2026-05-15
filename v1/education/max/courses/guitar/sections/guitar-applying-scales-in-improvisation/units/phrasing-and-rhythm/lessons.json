@@ -530,5 +530,33 @@
     "order": 19,
     "createdAt": "2026-05-13T00:07:47Z",
     "updatedAt": "2026-05-13T00:07:47Z"
+  },
+  {
+    "id": "guitar-call-and-response-obstacle-course",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call and Response Obstacle Course",
+        "pt-BR": "Pista de Obstáculos de Pergunta e Resposta",
+        "es": "Circuito de Obstáculos de Pregunta y Respuesta",
+        "de": "Call-and-Response-Hindernisparcours",
+        "ja": "コール＆レスポンス障害物コース",
+        "zh-Hans": "问答句障碍挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build smarter guitar phrases by answering your own ideas through rhythm, space, and scale targets.",
+        "pt-BR": "Construa frases de guitarra mais inteligentes respondendo às próprias ideias com ritmo, espaço e notas-alvo.",
+        "es": "Construye frases de guitarra más inteligentes respondiendo a tus propias ideas con ritmo, espacio y notas objetivo.",
+        "de": "Baue klügere Gitarrenphrasen, indem du deine eigenen Ideen mit Rhythmus, Raum und Zieltönen beantwortest.",
+        "ja": "リズム、間、着地点を使って自分のフレーズに答え、ギターの発想力を鍛えるレッスンです。",
+        "zh-Hans": "用节奏、留白和目标音回应自己的乐句，让吉他即兴更聪明、更有音乐性。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-05-15T00:07:07Z",
+    "updatedAt": "2026-05-15T00:07:07Z"
   }
 ]

@@ -866,5 +866,33 @@
     "order": 31,
     "createdAt": "2026-05-13T00:10:54Z",
     "updatedAt": "2026-05-13T00:10:54Z"
+  },
+  {
+    "id": "piano-accent-maze-sprints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Accent Maze Sprints",
+        "pt-BR": "Sprints no Labirinto de Acentos",
+        "es": "Sprints en el Laberinto de Acentos",
+        "de": "Akzent-Labyrinth-Sprints",
+        "ja": "アクセント迷路スプリント",
+        "zh-Hans": "重音迷宫冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn piano scale practice into a fast-thinking maze where accents, fingering, and tone must stay organized.",
+        "pt-BR": "Transforme o estudo de escalas no piano em um labirinto de decisões rápidas, com acentos, dedilhado e sonoridade sob controle.",
+        "es": "Convierte la práctica de escalas al piano en un laberinto de decisiones rápidas donde acentos, digitación y sonido deben mantenerse ordenados.",
+        "de": "Verwandle das Klavier-Skalenüben in ein Denk-Labyrinth, in dem Akzente, Fingersatz und Klang organisiert bleiben müssen.",
+        "ja": "アクセント、運指、音色を整理したまま、ピアノのスケール練習を頭も使う迷路ゲームに変えるレッスンです。",
+        "zh-Hans": "把钢琴音阶练习变成需要快速思考的迷宫挑战，让重音、指法和音色始终有序。"
+      }
+    },
+    "order": 32,
+    "createdAt": "2026-05-15T00:07:08Z",
+    "updatedAt": "2026-05-15T00:07:08Z"
   }
 ]

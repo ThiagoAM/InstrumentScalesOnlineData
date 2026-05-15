@@ -1174,5 +1174,33 @@
     "order": 42,
     "createdAt": "2026-05-13T00:09:31Z",
     "updatedAt": "2026-05-13T00:09:31Z"
+  },
+  {
+    "id": "bass-octave-slingshot-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Slingshot Relay",
+        "pt-BR": "Revezamento do Estilingue de Oitavas",
+        "es": "Relevo de Tirachinas con Octavas",
+        "de": "Oktav-Schleuder-Staffel",
+        "ja": "オクターブ・スリングショット・リレー",
+        "zh-Hans": "八度弹弓接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass groove control by launching root-to-octave ideas without losing pocket or authority.",
+        "pt-BR": "Treine o controle de groove no baixo lançando ideias de tônica para oitava sem perder o pocket nem a autoridade.",
+        "es": "Entrena tu control del groove en el bajo lanzando ideas de tónica a octava sin perder pocket ni autoridad.",
+        "de": "Trainiere deine Bass-Groove-Kontrolle, indem du Root-zu-Oktav-Ideen abschießt, ohne Pocket oder Autorität zu verlieren.",
+        "ja": "ルートからオクターブへの動きを使い、ポケットを保ったままベースのグルーヴ力を鍛えるレッスンです。",
+        "zh-Hans": "通过根音到八度的推进训练低音律动控制，让你的贝斯既稳又有冲劲。"
+      }
+    },
+    "order": 43,
+    "createdAt": "2026-05-15T00:07:07Z",
+    "updatedAt": "2026-05-15T00:07:07Z"
   }
 ]
