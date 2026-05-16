@@ -558,5 +558,33 @@
     "order": 20,
     "createdAt": "2026-05-15T00:07:07Z",
     "updatedAt": "2026-05-15T00:07:07Z"
+  },
+  {
+    "id": "guitar-rhythm-decoy",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Decoy",
+        "pt-BR": "Isca Rítmica na Guitarra",
+        "es": "Señuelo Rítmico en Guitarra",
+        "de": "Rhythmus-Köder auf der Gitarre",
+        "ja": "ギター・リズムおとり作戦",
+        "zh-Hans": "吉他节奏诱饵"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use rhythmic feints and target notes to make scale phrases less predictable and more musical.",
+        "pt-BR": "Use fintas rítmicas e notas-alvo para deixar frases de escala menos previsíveis e mais musicais.",
+        "es": "Usa fintas rítmicas y notas objetivo para volver tus frases de escala menos previsibles y más musicales.",
+        "de": "Nutze rhythmische Finte und Zieltöne, damit deine Skalenphrasen unvorhersehbarer und musikalischer werden.",
+        "ja": "リズムのフェイントとターゲットノートで、音階フレーズをもっと予測しにくく音楽的にするレッスンです。",
+        "zh-Hans": "用节奏假动作和目标音，让你的音阶乐句更难预测、也更有音乐性。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-05-16T00:07:54Z",
+    "updatedAt": "2026-05-16T00:07:54Z"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "id": "piano-practice-traffic-lights",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick **D major** or **B minor** and set your timer for **12 minutes**. This lesson treats your practice plan like a set of traffic lights. Some moments should flow, some should warn you to pay attention, and some should stop you long enough to fix a real problem before you keep going.",
+          "pt-BR": "Escolha **Ré maior** ou **Si menor** e ajuste seu cronômetro para **12 minutos**. Esta lição trata seu plano de estudo como um conjunto de semáforos. Alguns momentos devem fluir, alguns devem avisar para você prestar atenção, e alguns precisam parar você o bastante para consertar um problema real antes de seguir.",
+          "es": "Elige **Re mayor** o **Si menor** y pon tu temporizador en **12 minutos**. Esta lección trata tu plan de práctica como un conjunto de semáforos. Algunos momentos deben fluir, otros deben avisarte que prestes atención y otros deben detenerte lo suficiente para arreglar un problema real antes de seguir.",
+          "de": "Wähle **D-Dur** oder **H-Moll** und stelle deinen Timer auf **12 Minuten**. Diese Lektion behandelt deinen Übeplan wie eine Reihe von Ampeln. Manche Momente sollen fließen, manche sollen dich warnen, genauer hinzuhören, und manche sollen dich lange genug anhalten, um ein echtes Problem zu reparieren, bevor du weitermachst.",
+          "ja": "**Dメジャー** または **Bマイナー** を選び、タイマーを **12分** に設定しましょう。このレッスンでは、練習プランを信号機の並ぶ道のように考えます。スムーズに流す場面、注意深く見る場面、そして本当に直すためにいったん止まる場面をはっきり分けます。",
+          "zh-Hans": "选择 **D大调** 或 **B小调**，把计时器设为 **12分钟**。这节课把你的练习计划想成一组红绿灯：有些时刻应该顺畅前进，有些时刻提醒你提高警觉，还有些时刻必须停下来，先把真正的问题修好再继续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Green light is the **flow zone**. Spend the first few minutes playing one or two octaves with steady fingering, even tone, and a calm tempo between **72 and 88 BPM**. Do not chase speed yet. The goal is to feel like the keyboard is open and readable.",
+          "pt-BR": "A luz verde é a **zona de fluxo**. Passe os primeiros minutos tocando uma ou duas oitavas com dedilhado estável, som uniforme e andamento calmo entre **72 e 88 BPM**. Ainda não corra atrás de velocidade. O objetivo é sentir que o teclado está aberto e legível.",
+          "es": "La luz verde es la **zona de flujo**. Dedica los primeros minutos a tocar una o dos octavas con digitación estable, sonido parejo y un tempo tranquilo entre **72 y 88 BPM**. No persigas velocidad todavía. La meta es sentir que el teclado está abierto y legible.",
+          "de": "Grün ist die **Flow-Zone**. Verbringe die ersten Minuten damit, eine oder zwei Oktaven mit stabilem Fingersatz, gleichmäßigem Ton und ruhigem Tempo zwischen **72 und 88 BPM** zu spielen. Jage der Geschwindigkeit noch nicht hinterher. Das Ziel ist, dass sich die Tastatur offen und lesbar anfühlt.",
+          "ja": "青信号は **フローゾーン** です。最初の数分は、1〜2オクターブを安定した運指、均一な音、**72〜88 BPM** の落ち着いたテンポで弾きます。まだ速さは追いかけません。鍵盤が開けた地図のように見える感覚を目指します。",
+          "zh-Hans": "绿灯是 **流动区**。前几分钟用稳定的指法、均匀的音色和 **72-88 BPM** 的平静速度练习一到两个八度。先别追求速度。目标是让键盘看起来像一张清晰、开放的地图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Yellow light is the **caution zone**. Pick one trouble spot: a thumb turn, an uneven accent, or a weak left-hand entrance. Loop just that moment three to five times. You are not punishing yourself here; you are installing a warning sign where mistakes usually sneak in.",
+          "pt-BR": "A luz amarela é a **zona de cautela**. Escolha um ponto problemático: uma passagem do polegar, um acento desigual ou uma entrada fraca da mão esquerda. Coloque só esse momento em loop de três a cinco vezes. Você não está se punindo; está instalando uma placa de aviso onde os erros costumam entrar escondidos.",
+          "es": "La luz amarilla es la **zona de cautela**. Elige un punto problemático: un paso de pulgar, un acento desigual o una entrada débil de la mano izquierda. Repite solo ese momento de tres a cinco veces. No te estás castigando; estás poniendo una señal de advertencia donde los errores suelen colarse.",
+          "de": "Gelb ist die **Vorsichtszone**. Wähle eine Problemstelle: einen Daumenuntersatz, einen ungleichmäßigen Akzent oder einen schwachen Einsatz der linken Hand. Lope genau diesen Moment drei bis fünfmal. Du bestrafst dich nicht, sondern stellst dort ein Warnschild auf, wo sich Fehler gerne einschleichen.",
+          "ja": "黄信号は **注意ゾーン**。親指くぐり、アクセントのばらつき、左手の弱い入りなど、問題点を1つ選びます。その瞬間だけを3〜5回ループしてください。自分を責めるのではなく、ミスが入り込みやすい場所に警告標識を立てる作業です。",
+          "zh-Hans": "黄灯是 **警戒区**。选一个问题点：比如拇指穿越、重音不均，或左手进入不稳。只把那个瞬间循环三到五次。你不是在惩罚自己，而是在错误最容易潜入的地方立一块警示牌。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Red light is the **repair stop**. Slow the problem area down enough that you can play it perfectly twice in a row. Then restart from one beat earlier so the fix reconnects to real music. If you only repair in isolation, the issue may come back the moment the phrase has context.",
+          "pt-BR": "A luz vermelha é a **parada para conserto**. Desacelere a área problemática o suficiente para tocá-la perfeitamente duas vezes seguidas. Depois recomece um tempo antes para que a correção volte a se conectar com a música real. Se você conserta apenas isolado, o problema pode reaparecer assim que a frase ganha contexto.",
+          "es": "La luz roja es la **parada de reparación**. Baja la velocidad del área problemática hasta poder tocarla perfecto dos veces seguidas. Luego reinicia un pulso antes para que la corrección vuelva a conectarse con la música real. Si solo reparas en aislamiento, el problema puede volver en cuanto la frase recupere contexto.",
+          "de": "Rot ist der **Reparaturstopp**. Verlangsame die problematische Stelle so weit, dass du sie zweimal hintereinander perfekt spielen kannst. Dann beginnst du einen Schlag früher neu, damit die Korrektur wieder an echte Musik angeschlossen wird. Wenn du nur isoliert reparierst, taucht das Problem oft sofort wieder auf, sobald die Phrase Kontext bekommt.",
+          "ja": "赤信号は **修理ストップ** です。問題箇所を、2回続けて完璧に弾けるまで十分ゆっくりにします。そのあと1拍前から弾き直し、修正内容を実際の流れへつなぎ戻します。切り離したまま直すだけでは、文脈が戻った瞬間に同じミスが戻ることがあります。",
+          "zh-Hans": "红灯是 **修理停靠点**。把问题区域放慢到能够连续两次完美弹对，然后从前一拍重新开始，让修正重新接回真实音乐。如果你只会孤立修理，一旦乐句回到上下文里，问题很可能又回来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now build a **light cycle**: green for one pass, yellow for one pass, red for one pass, then back to green. This rotation keeps your scale work musical and honest. Too much green becomes autopilot; too much red becomes frustration.",
+          "pt-BR": "Agora monte um **ciclo de luzes**: verde em uma passada, amarelo na seguinte, vermelho na próxima e depois volte ao verde. Essa rotação mantém seu estudo de escalas musical e honesto. Verde demais vira piloto automático; vermelho demais vira frustração.",
+          "es": "Ahora construye un **ciclo de luces**: verde en una pasada, amarillo en la siguiente, rojo en la siguiente y luego vuelve al verde. Esta rotación mantiene tu trabajo de escalas musical y honesto. Demasiado verde se vuelve piloto automático; demasiado rojo se vuelve frustración.",
+          "de": "Baue jetzt einen **Ampelzyklus**: ein Durchgang grün, ein Durchgang gelb, ein Durchgang rot, dann zurück zu grün. Diese Rotation hält deine Skalenarbeit musikalisch und ehrlich. Zu viel Grün wird zum Autopilot, zu viel Rot zur Frustration.",
+          "ja": "次に **信号サイクル** を作ります。1回目は青、次は黄、その次は赤、そしてまた青に戻ります。この回転が、スケール練習を音楽的で正直なものに保ちます。青ばかりだと自動運転になり、赤ばかりだとイライラになります。",
+          "zh-Hans": "现在建立一个 **信号循环**：一遍绿灯、一遍黄灯、一遍红灯，然后再回到绿灯。这样的轮换会让你的音阶练习既有音乐性又很诚实。绿灯太多会变成自动驾驶，红灯太多会变成挫败感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final test: design your own **four-part practice loop** using the same scale. Label each pass as green, yellow, or red and explain why. If your choices help you play more evenly, listen more carefully, and recover faster from mistakes, your practice plan is no longer random — it has traffic control. 🎹",
+          "pt-BR": "Teste final: crie seu próprio **loop de estudo em quatro partes** usando a mesma escala. Marque cada passada como verde, amarela ou vermelha e explique o motivo. Se suas escolhas ajudarem você a tocar com mais igualdade, ouvir com mais atenção e se recuperar mais rápido dos erros, seu plano de estudo deixou de ser aleatório — agora ele tem controle de tráfego. 🎹",
+          "es": "Prueba final: diseña tu propio **bucle de práctica de cuatro partes** con la misma escala. Marca cada pasada como verde, amarilla o roja y explica por qué. Si tus elecciones te ayudan a tocar más parejo, escuchar con más atención y recuperarte antes de los errores, tu plan de práctica ya no es aleatorio: ahora tiene control de tráfico. 🎹",
+          "de": "Abschlusstest: Entwirf mit derselben Skala deine eigene **vierteilige Übeschleife**. Markiere jeden Durchgang als grün, gelb oder rot und erkläre warum. Wenn deine Entscheidungen dir helfen, gleichmäßiger zu spielen, genauer zuzuhören und dich schneller von Fehlern zu erholen, ist dein Übeplan nicht mehr zufällig — er hat jetzt Verkehrsregelung. 🎹",
+          "ja": "最後のテストでは、同じスケールで自分だけの **4パート練習ループ** を設計してください。各パスを青・黄・赤のどれかでラベル付けし、その理由も言葉にします。演奏の均一さ、聴く注意力、ミスからの立て直しが良くなるなら、その練習プランはもうランダムではなく、ちゃんと交通整理されています。🎹",
+          "zh-Hans": "最终测试：用同一个音阶设计你自己的 **四段练习循环**。给每一遍标上绿灯、黄灯或红灯，并说明原因。如果这些选择真的帮你弹得更均匀、听得更细、出错后恢复更快，那你的练习计划就不再随机——它已经有交通管理了。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-16T00:07:56Z",
+  "updatedAt": "2026-05-16T00:07:56Z"
+}

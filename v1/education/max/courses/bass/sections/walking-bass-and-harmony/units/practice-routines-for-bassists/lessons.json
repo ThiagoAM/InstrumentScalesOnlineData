@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-05-14T00:10:45Z",
     "updatedAt": "2026-05-14T00:10:45Z"
+  },
+  {
+    "id": "bass-pocket-detour",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Detour",
+        "pt-BR": "Desvio de Pocket no Baixo",
+        "es": "Desvío de Pocket en el Bajo",
+        "de": "Pocket-Umweg auf dem Bass",
+        "ja": "ベース・ポケット寄り道作戦",
+        "zh-Hans": "贝斯Pocket绕行"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use tiny rhythmic detours and strong landings to make scale-based bass lines groove harder.",
+        "pt-BR": "Use pequenos desvios rítmicos e chegadas fortes para fazer linhas de baixo baseadas em escala groovearem mais.",
+        "es": "Usa pequeños desvíos rítmicos y aterrizajes fuertes para que las líneas de bajo basadas en escalas grooveen más.",
+        "de": "Nutze kleine rhythmische Umwege und starke Landungen, damit skalenbasierte Basslinien mehr grooven.",
+        "ja": "小さなリズムの寄り道と強い着地で、スケール由来のベースラインをもっとグルーヴィーにするレッスンです。",
+        "zh-Hans": "用细小的节奏绕行和强力落点，让基于音阶的贝斯线 groove 更深。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-05-16T00:07:55Z",
+    "updatedAt": "2026-05-16T00:07:55Z"
   }
 ]

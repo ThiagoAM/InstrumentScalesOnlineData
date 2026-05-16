@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-detour",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **G major** or **E minor**, set a metronome or drum loop to **86-102 BPM**, and stay on a simple vamp. In this lesson your bass line is allowed to wander for a beat, but it must always come home with authority. The challenge is to sound adventurous without sounding lost.",
+          "pt-BR": "Escolha **Sol maior** ou **Mi menor**, coloque um metrônomo ou loop de bateria entre **86-102 BPM** e fique em um vamp simples. Nesta lição sua linha de baixo pode passear por um instante, mas sempre precisa voltar para casa com autoridade. O desafio é soar aventureiro sem soar perdido.",
+          "es": "Elige **Sol mayor** o **Mi menor**, pon un metrónomo o loop de batería entre **86-102 BPM** y quédate en un vamp sencillo. En esta lección tu línea de bajo puede alejarse un momento, pero siempre debe volver a casa con autoridad. El reto es sonar aventurero sin sonar perdido.",
+          "de": "Wähle **G-Dur** oder **E-Moll**, stelle ein Metronom oder einen Drum-Loop auf **86-102 BPM** und bleib auf einem einfachen Vamp. In dieser Lektion darf deine Basslinie kurz abschweifen, muss aber immer mit Autorität nach Hause kommen. Die Herausforderung ist, abenteuerlich zu klingen, ohne verloren zu wirken.",
+          "ja": "**Gメジャー** または **Eマイナー** を選び、メトロノームかドラムループを **86〜102 BPM** に設定し、シンプルなヴァンプに乗り続けましょう。このレッスンでは、ベースラインが少し寄り道しても、必ず自信を持って帰ってくることが求められます。冒険しているのに迷子に聞こえないことがポイントです。",
+          "zh-Hans": "选择 **G大调** 或 **E小调**，把节拍器或鼓循环设在 **86-102 BPM**，并待在一个简单的和声循环里。这节课里，你的贝斯线可以短暂偏离路线，但必须有把握地回到家。难点在于：要听起来像冒险，而不是迷路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 1 is the **solid sidewalk**. For four bars, build a line that lands on the **root** on beat 1 of every bar. Between those roots, use only **one or two extra notes** from the scale. If the groove is weak, simplify before you decorate.",
+          "pt-BR": "A Etapa 1 é a **calçada firme**. Durante quatro compassos, crie uma linha que pouse na **tônica** no tempo 1 de cada compasso. Entre essas tônicas, use apenas **uma ou duas notas extras** da escala. Se o groove estiver fraco, simplifique antes de enfeitar.",
+          "es": "La Etapa 1 es la **acera firme**. Durante cuatro compases, crea una línea que aterrice en la **tónica** en el tiempo 1 de cada compás. Entre esas tónicas, usa solo **una o dos notas extra** de la escala. Si el groove es débil, simplifica antes de decorar.",
+          "de": "Phase 1 ist der **stabile Bürgersteig**. Baue vier Takte lang eine Linie, die auf **Zählzeit 1** jedes Takts auf dem **Grundton** landet. Dazwischen benutzt du nur **ein oder zwei zusätzliche Töne** aus der Skala. Wenn der Groove schwach ist, vereinfache erst und dekoriere später.",
+          "ja": "ステージ1は **安定した歩道**。4小節のあいだ、毎小節の **1拍目** を必ず **ルート** に着地させるラインを作ります。その間はスケールから **1〜2音だけ** 追加してください。グルーヴが弱いなら、飾る前にまずシンプルに戻します。",
+          "zh-Hans": "第1阶段是 **稳固人行道**。连续四小节都让 **第1拍** 落在 **根音** 上。两个根音之间，只额外使用 **1到2个音阶音**。如果groove还不够稳，先简化，再装饰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 2 is the **detour corner**. In the middle of each bar, step away from your direct route with a quick note on the **and of 2** or **beat 3**, then recover by beat 4. These are tiny detours, not full solos. The listener should feel motion, not confusion.",
+          "pt-BR": "A Etapa 2 é a **esquina do desvio**. No meio de cada compasso, saia da rota direta com uma nota rápida no **e do 2** ou no **tempo 3**, e recupere o caminho até o tempo 4. São pequenos desvios, não solos completos. O ouvinte deve sentir movimento, não confusão.",
+          "es": "La Etapa 2 es la **esquina del desvío**. En medio de cada compás, sal de la ruta directa con una nota rápida en el **y de 2** o en el **tiempo 3**, y recupera el camino antes del tiempo 4. Son desvíos pequeños, no solos completos. El oyente debe sentir movimiento, no confusión.",
+          "de": "Phase 2 ist die **Umweg-Ecke**. Verlasse in der Mitte jedes Takts kurz die direkte Route mit einem schnellen Ton auf dem **Und von 2** oder auf **Zählzeit 3** und finde bis Zählzeit 4 wieder zurück. Das sind kleine Umwege, keine ganzen Soli. Die Hörenden sollen Bewegung spüren, nicht Verwirrung.",
+          "ja": "ステージ2は **寄り道コーナー**。各小節の真ん中で、**2拍目裏** または **3拍目** に短い音を置いて直接ルートから少し外れ、4拍目までに戻ってきます。これは小さな寄り道であって、長いソロではありません。聴き手に必要なのは混乱ではなく動きです。",
+          "zh-Hans": "第2阶段是 **绕行拐角**。在每小节中间，用 **第2拍后的and** 或 **第3拍** 的一个快速音暂时离开直线路线，并在第4拍前回到正轨。这只是小绕行，不是长篇独奏。听众应该感到运动感，而不是迷惑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 3 is the **pocket test**. Repeat the same four-bar line three times: first totally straight, second with one ghost note, third with one rest replacing a played note. Keep only the version that makes the groove feel deeper. Bass players do not get extra points for filling space badly.",
+          "pt-BR": "A Etapa 3 é o **teste de pocket**. Repita a mesma linha de quatro compassos três vezes: primeiro totalmente reta, depois com uma ghost note, e depois com uma pausa no lugar de uma nota tocada. Fique só com a versão que faz o groove parecer mais fundo. Baixista não ganha ponto extra por preencher espaço de um jeito ruim.",
+          "es": "La Etapa 3 es la **prueba de pocket**. Repite la misma línea de cuatro compases tres veces: primero completamente recta, luego con una ghost note y después con un silencio en lugar de una nota tocada. Quédate solo con la versión que haga que el groove se sienta más profundo. Los bajistas no ganan puntos extra por llenar espacio mal.",
+          "de": "Phase 3 ist der **Pocket-Test**. Wiederhole dieselbe viertaktige Linie dreimal: zuerst ganz gerade, dann mit einer Ghost Note und dann mit einer Pause statt eines gespielten Tons. Behalte nur die Version, die den Groove tiefer macht. Bassistinnen und Bassisten bekommen keine Zusatzpunkte dafür, schlechten Raumfüller zu spielen.",
+          "ja": "ステージ3は **ポケット検査**。同じ4小節ラインを3回繰り返します。1回目はまっすぐ、2回目はゴーストノートを1つ、3回目は実音1つを休符に置き換えます。いちばんグルーヴが深くなる形だけを残しましょう。ベーシストは悪い意味で隙間を埋めても褒められません。",
+          "zh-Hans": "第3阶段是 **pocket测试**。把同一条四小节线重复三次：第一次完全直给，第二次加入一个 ghost note，第三次把一个实音换成休止。只保留那个让 groove 更深的版本。贝斯手不会因为糟糕地填满空间而得到加分。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Stage 4 is the **landing audit**. Aim your strongest notes at the root, fifth, or octave, but do not always use the same one in the same bar. If every landing becomes predictable, your line stops dancing and starts marching.",
+          "pt-BR": "A Etapa 4 é a **auditoria da chegada**. Mire suas notas mais fortes na tônica, quinta ou oitava, mas não use sempre a mesma em cada compasso. Se toda chegada ficar previsível, a linha para de dançar e começa a marchar.",
+          "es": "La Etapa 4 es la **auditoría del aterrizaje**. Apunta tus notas más fuertes a la tónica, la quinta o la octava, pero no uses siempre la misma en el mismo compás. Si cada llegada se vuelve predecible, la línea deja de bailar y empieza a marchar.",
+          "de": "Phase 4 ist die **Landeprüfung**. Richte deine stärksten Töne auf Grundton, Quinte oder Oktave, aber nicht jedes Mal auf denselben im selben Takt. Wenn jede Landung vorhersehbar wird, hört die Linie auf zu tanzen und beginnt zu marschieren.",
+          "ja": "ステージ4は **着地監査**。いちばん強い音はルート、5度、オクターブのどれかへ向けますが、毎回同じ場所で同じ着地にしないこと。全部の着地が読めるようになると、ラインは踊るのをやめて行進し始めます。",
+          "zh-Hans": "第4阶段是 **落点审计**。把最强的音落在根音、五度或八度上，但不要每小节都落在同一个地方。如果每次落点都太好猜，这条线就不再会跳舞，只会齐步走。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final run: create **three different four-bar grooves** where each one uses at least one detour, one space-making choice, and one confident landing. Then ask yourself: did the line make the band feel better, or did it just prove I know the scale? The right answer should be audible in the pocket. 🎸",
+          "pt-BR": "Corrida final: crie **três grooves diferentes de quatro compassos** em que cada um use pelo menos um desvio, uma escolha de espaço e uma chegada confiante. Depois pergunte: a linha fez a banda soar melhor ou só provou que eu conheço a escala? A resposta certa deve ser ouvida no pocket. 🎸",
+          "es": "Recorrido final: crea **tres grooves diferentes de cuatro compases** en los que cada uno use al menos un desvío, una decisión de espacio y un aterrizaje seguro. Luego pregúntate: ¿la línea hizo que la banda sonara mejor o solo demostró que conozco la escala? La respuesta correcta debería escucharse en el pocket. 🎸",
+          "de": "Finale Runde: Erfinde **drei verschiedene viertaktige Grooves**, von denen jeder mindestens einen Umweg, eine bewusste Raumentscheidung und eine selbstbewusste Landung enthält. Frag dich danach: Hat die Linie die Band besser klingen lassen oder nur bewiesen, dass ich die Skala kenne? Die richtige Antwort sollte im Pocket hörbar sein. 🎸",
+          "ja": "最後のランでは、**4小節グルーヴを3種類** 作り、それぞれに少なくとも1つの寄り道、1つの空間の判断、1つの自信ある着地を入れてください。そのあと自分に聞きましょう。ラインはバンドを良くしたか、それともスケールを知っていることを見せただけか。答えはポケットの中で聞こえるはずです。🎸",
+          "zh-Hans": "最终回合：做出 **3条不同的四小节groove**，每一条都至少包含一次绕行、一次留白选择和一次自信落点。然后问自己：这条线是让乐队更好听了，还是只证明我认识这个音阶？正确答案应该能在 pocket 里被听见。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-16T00:07:55Z",
+  "updatedAt": "2026-05-16T00:07:55Z"
+}

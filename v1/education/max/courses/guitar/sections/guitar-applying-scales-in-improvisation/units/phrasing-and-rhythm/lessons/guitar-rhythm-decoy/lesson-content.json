@@ -1,0 +1,86 @@
+{
+  "id": "guitar-rhythm-decoy",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **A Dorian** or **E minor pentatonic** in one comfortable position, and set a backing track or metronome to **84-98 BPM**. In this lesson you are learning to fake out the listener without losing the groove. Your phrases should feel like they might land one place, then cleverly land somewhere better.",
+          "pt-BR": "Escolha **Lá dórico** ou **Mi pentatônica menor** em uma posição confortável e coloque um playback ou metrônomo entre **84-98 BPM**. Nesta lição você vai aprender a enganar o ouvido sem perder o groove. Suas frases devem parecer que vão pousar em um lugar, mas acabam pousando com inteligência em outro melhor.",
+          "es": "Elige **La dórico** o **Mi pentatónica menor** en una posición cómoda y pon una base o metrónomo entre **84-98 BPM**. En esta lección aprenderás a engañar al oído sin perder el groove. Tus frases deben parecer que van a aterrizar en un sitio y luego caer con intención en otro mejor.",
+          "de": "Wähle **A-Dorisch** oder **E-Moll-Pentatonik** in einer bequemen Lage und stelle einen Backing-Track oder ein Metronom auf **84-98 BPM**. In dieser Lektion lernst du, das Ohr auszutricksen, ohne den Groove zu verlieren. Deine Phrasen sollen so wirken, als würden sie an einer Stelle landen, und dann klug an einer besseren ankommen.",
+          "ja": "弾きやすいポジションで **Aドリアン** または **Eマイナー・ペンタトニック** を選び、バックトラックかメトロノームを **84〜98 BPM** に設定しましょう。このレッスンでは、グルーヴを失わずに聴き手の予想を外す方法を学びます。フレーズは別の場所に着地しそうに聞こえながら、もっと良い場所へ意図的に着地するのが理想です。",
+          "zh-Hans": "在一个舒服的位置上选择 **A多利亚** 或 **E小调五声音阶**，把伴奏或节拍器设在 **84-98 BPM**。这节课要练的是：在不丢掉groove的情况下，骗过听众的预期。你的乐句应该让人以为会落在某个地方，却聪明地落在更好的位置上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **decoy launch**. Play a one-bar phrase with **4 to 6 notes** that clearly aims toward a strong note, but delay that landing until the next bar. Use a rest, a tied note, or a quick repeat so the phrase creates suspense instead of dumping the answer too early.",
+          "pt-BR": "A Rodada 1 é o **lançamento da isca**. Toque uma frase de um compasso com **4 a 6 notas** que aponte claramente para uma nota forte, mas atrase essa chegada até o compasso seguinte. Use uma pausa, uma nota sustentada ou uma repetição rápida para criar suspense em vez de entregar a resposta cedo demais.",
+          "es": "La Ronda 1 es el **lanzamiento del señuelo**. Toca una frase de un compás con **4 a 6 notas** que apunte claramente a una nota fuerte, pero retrasa esa llegada hasta el compás siguiente. Usa un silencio, una nota ligada o una repetición rápida para crear suspenso en vez de revelar la respuesta demasiado pronto.",
+          "de": "Runde 1 ist der **Köderstart**. Spiele eine eintaktige Phrase mit **4 bis 6 Tönen**, die klar auf einen starken Zielton zusteuert, verschiebe die Landung aber in den nächsten Takt. Nutze eine Pause, einen gebundenen Ton oder eine schnelle Wiederholung, um Spannung aufzubauen, statt die Antwort zu früh zu verraten.",
+          "ja": "ラウンド1は **おとり発射** です。**4〜6音** の1小節フレーズを弾き、強い音へ向かう流れをはっきり作りつつ、実際の着地は次の小節まで遅らせます。休符、タイ、短い反復を使って、答えを早く出しすぎずにサスペンスを作りましょう。",
+          "zh-Hans": "第1轮是 **诱饵发射**。弹一个 **4到6个音** 的一小节乐句，明确地朝某个强目标音前进，但把真正的落点延迟到下一小节。用休止、连音或快速重复制造悬念，而不是太早把答案交出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **target switch**. Keep the same rhythm, but on the second attempt change your landing note to a different scale tone such as **A, C, D, or G**. If the line keeps its shape while the destination changes, you are training real control instead of memorizing a lick.",
+          "pt-BR": "A Rodada 2 é a **troca de alvo**. Mantenha o mesmo ritmo, mas na segunda tentativa mude a nota de chegada para outro grau da escala, como **A, C, D ou G**. Se a linha mantiver a forma enquanto o destino muda, você está treinando controle de verdade em vez de decorar um lick.",
+          "es": "La Ronda 2 es el **cambio de objetivo**. Mantén el mismo ritmo, pero en el segundo intento cambia la nota de llegada a otro grado de la escala como **A, C, D o G**. Si la línea conserva su forma mientras cambia el destino, estás entrenando control real en lugar de memorizar un lick.",
+          "de": "Runde 2 ist der **Zielwechsel**. Behalte denselben Rhythmus, ändere im zweiten Versuch aber den Landeton zu einem anderen Skalenton wie **A, C, D oder G**. Wenn die Linie ihre Form behält, während sich das Ziel ändert, trainierst du echte Kontrolle statt nur ein Lick auswendig zu können.",
+          "ja": "ラウンド2は **着地点スイッチ** です。同じリズムを保ちながら、2回目は着地音を **A、C、D、G** など別のスケール音へ変えます。行き先が変わってもフレーズの形が保てるなら、単なる丸暗記ではなく本物のコントロールを鍛えています。",
+          "zh-Hans": "第2轮是 **目标切换**。保持同样的节奏，但第二次把落点换成另一个音阶音，比如 **A、C、D 或 G**。如果目的地变了，线条的形状却还站得住，那你练到的就是控制力，而不是死记一个lick。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **rhythm disguise**. Take your favorite phrase and move its starting point to the **and of 1**, **beat 2**, or the **and of 3**. The notes can stay similar, but the groove should feel freshly tilted. If it sounds awkward, slow down and make the new entrance feel intentional.",
+          "pt-BR": "A Rodada 3 é o **disfarce rítmico**. Pegue sua frase favorita e mova o ponto de entrada para o **e do 1**, o **tempo 2** ou o **e do 3**. As notas podem ser parecidas, mas o groove deve ganhar uma inclinação nova. Se soar estranho, desacelere e faça essa nova entrada parecer intencional.",
+          "es": "La Ronda 3 es el **disfraz rítmico**. Toma tu frase favorita y mueve su punto de inicio al **y de 1**, al **tiempo 2** o al **y de 3**. Las notas pueden seguir siendo parecidas, pero el groove debe sentirse inclinado de forma nueva. Si suena torpe, baja la velocidad y haz que la nueva entrada parezca intencional.",
+          "de": "Runde 3 ist die **Rhythmus-Verkleidung**. Nimm deine Lieblingsphrase und verschiebe ihren Start auf das **Und von 1**, auf **Zählzeit 2** oder auf das **Und von 3**. Die Töne dürfen ähnlich bleiben, aber der Groove soll sich frisch gekippt anfühlen. Wenn es holprig klingt, werde langsamer und mache den neuen Einsatz bewusst.",
+          "ja": "ラウンド3は **リズム変装** です。お気に入りのフレーズを **1拍目の裏**、**2拍目**、または **3拍目の裏** から始めてみましょう。音は似ていても構いませんが、グルーヴの傾きが新しく感じられるべきです。ぎこちなく聞こえるなら、テンポを落として新しい入り方を意図的に整えてください。",
+          "zh-Hans": "第3轮是 **节奏伪装**。把你最喜欢的乐句起点移到 **1拍后的and**、**第2拍**，或者 **第3拍后的and**。音可以差不多，但groove的倾斜感应该完全新鲜。如果听起来别扭，就把速度放慢，让新的进入点变得有意图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 4 is the **answer trap**. After each decoy phrase, answer with a shorter phrase that uses fewer notes but stronger direction. The response should sound more confident than the setup. This teaches you that a great reply does not need to be busy; it needs to be clear.",
+          "pt-BR": "A Rodada 4 é a **armadilha da resposta**. Depois de cada frase-isca, responda com uma frase mais curta que use menos notas, mas tenha direção mais forte. A resposta deve soar mais confiante do que a preparação. Isso ensina que uma ótima resposta não precisa ser lotada; precisa ser clara.",
+          "es": "La Ronda 4 es la **trampa de respuesta**. Después de cada frase-señuelo, responde con una frase más corta que use menos notas pero tenga una dirección más fuerte. La respuesta debe sonar más segura que la preparación. Así aprendes que una gran contestación no necesita ser cargada; necesita ser clara.",
+          "de": "Runde 4 ist die **Antwortfalle**. Antworte nach jeder Köderphrase mit einer kürzeren Phrase, die weniger Töne benutzt, aber klarer gerichtet ist. Die Antwort soll entschlossener klingen als der Aufbau. So lernst du, dass eine gute Antwort nicht vollgestopft sein muss, sondern klar.",
+          "ja": "ラウンド4は **返答トラップ** です。各おとりフレーズのあとに、音数は少ないけれど方向感の強い短い返答を入れます。返答は準備部分よりも自信があるように聞こえるべきです。優れた返答は忙しさではなく、明確さで勝つことをここで学びます。",
+          "zh-Hans": "第4轮是 **回应陷阱**。每个诱饵乐句之后，用一个更短、音更少、但方向更强的回应来回答。回应应该比铺垫更有把握。你会学到：好的回答不靠忙，而靠清楚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: record **four two-bar phrases** where no two landings happen on the same beat. After each take, ask yourself: did the decoy create tension, did the landing sound earned, and did the groove stay solid the whole time? If yes, your scale phrasing is starting to tell little stories instead of just running patterns. 🎸",
+          "pt-BR": "Missão final: grave **quatro frases de dois compassos** em que nenhuma chegada aconteça no mesmo tempo. Depois de cada take, pergunte a si mesmo: a isca criou tensão, a chegada soou merecida e o groove ficou firme o tempo todo? Se sim, seu fraseado de escala está começando a contar pequenas histórias em vez de apenas correr por padrões. 🎸",
+          "es": "Misión final: graba **cuatro frases de dos compases** en las que ningún aterrizaje ocurra en el mismo pulso. Después de cada toma, pregúntate: ¿el señuelo creó tensión, la llegada sonó merecida y el groove se mantuvo sólido todo el tiempo? Si la respuesta es sí, tu fraseo de escala ya está empezando a contar pequeñas historias en vez de solo correr patrones. 🎸",
+          "de": "Abschlussmission: Nimm **vier zweitaktige Phrasen** auf, bei denen keine Landung auf derselben Zählzeit passiert. Frage dich nach jedem Take: Hat der Köder Spannung erzeugt, klang die Landung verdient, und blieb der Groove die ganze Zeit stabil? Wenn ja, erzählen deine Skalenphrasen langsam kleine Geschichten statt nur Muster abzuspulen. 🎸",
+          "ja": "最後のミッションは、**2小節フレーズを4つ** 録音し、着地点の拍が一度も重ならないようにすることです。各テイクのあとで、フェイントは緊張感を生んだか、着地は納得できたか、グルーヴは最後まで安定していたかを確認しましょう。できていれば、あなたのスケールフレーズはただの運指ではなく、小さな物語を語り始めています。🎸",
+          "zh-Hans": "最终任务：录下 **4个两小节乐句**，并且每次落点都不要出现在同一个拍位。每次录完都问自己：诱饵有没有制造张力？落点是不是合情合理？groove有没有从头到尾稳住？如果答案是肯定的，你的音阶乐句就开始像在讲小故事，而不只是跑指型了。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-16T00:07:54Z",
+  "updatedAt": "2026-05-16T00:07:54Z"
+}

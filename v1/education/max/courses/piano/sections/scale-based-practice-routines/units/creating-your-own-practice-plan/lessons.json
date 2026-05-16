@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-05-14T00:12:10Z",
     "updatedAt": "2026-05-14T00:12:10Z"
+  },
+  {
+    "id": "piano-practice-traffic-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Traffic Lights",
+        "pt-BR": "Semáforos do Estudo de Piano",
+        "es": "Semáforos de la Práctica de Piano",
+        "de": "Ampeln für deine Klavierpraxis",
+        "ja": "ピアノ練習の信号システム",
+        "zh-Hans": "钢琴练习红绿灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Organize a scale session with clear green-light flow, yellow-light caution, and red-light repair moments.",
+        "pt-BR": "Organize uma sessão de escalas com momentos claros de fluxo, atenção e conserto.",
+        "es": "Organiza una sesión de escalas con momentos claros de flujo, atención y reparación.",
+        "de": "Organisiere eine Skalenroutine mit klaren Grün-, Gelb- und Rotphasen für Fluss, Aufmerksamkeit und Reparatur.",
+        "ja": "音階練習を、流れ・注意・修正の信号に分けて組み立てるレッスンです。",
+        "zh-Hans": "用清晰的绿灯、黄灯、红灯阶段，组织一套更聪明的音阶练习。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-05-16T00:07:56Z",
+    "updatedAt": "2026-05-16T00:07:56Z"
   }
 ]
