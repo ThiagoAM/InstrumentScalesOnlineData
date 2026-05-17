@@ -586,5 +586,33 @@
     "order": 21,
     "createdAt": "2026-05-16T00:07:54Z",
     "updatedAt": "2026-05-16T00:07:54Z"
+  },
+  {
+    "id": "guitar-rhythm-trapdoor",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Trapdoor",
+        "pt-BR": "Alçapão Rítmico na Guitarra",
+        "es": "Trampilla Rítmica en la Guitarra",
+        "de": "Rhythmus-Falltür auf der Gitarre",
+        "ja": "ギター・リズム落とし戸",
+        "zh-Hans": "吉他节奏活板门"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use surprise rests and offbeat landings to make scale phrases snap harder without losing the groove.",
+        "pt-BR": "Use pausas surpresa e chegadas no contratempo para deixar frases de escala mais fortes sem perder o groove.",
+        "es": "Usa silencios sorpresa y caídas a contratiempo para que tus frases de escala peguen más sin perder el groove.",
+        "de": "Nutze überraschende Pausen und Offbeat-Landungen, damit Skalenphrasen härter treffen, ohne den Groove zu verlieren.",
+        "ja": "休符のしかけと裏拍の着地で、グルーヴを失わずにスケールフレーズのキレを上げよう。",
+        "zh-Hans": "用突然留白和离拍落点，让你的音阶乐句更有冲击力，同时不丢 groove。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-05-17T00:07:28Z",
+    "updatedAt": "2026-05-17T00:07:28Z"
   }
 ]

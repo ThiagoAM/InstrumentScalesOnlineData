@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-balance-beam",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **D major** or **Bb major**, two octaves if comfortable, and set the metronome to **72-88 BPM**. Imagine your scale is a balance beam: every note is easy when you are centered, but tiny tension, uneven tone, or a late thumb crossing can wobble the whole routine. Today you are practicing calm control, not heroic speed.",
+          "pt-BR": "Escolha **Ré maior** ou **Sib maior**, em duas oitavas se estiver confortável, e ajuste o metrônomo para **72-88 BPM**. Imagine sua escala como uma trave de equilíbrio: cada nota é fácil quando você está centrado, mas uma pequena tensão, um timbre desigual ou uma passagem atrasada do polegar pode balançar tudo. Hoje o foco é controle calmo, não velocidade heroica.",
+          "es": "Elige **Re mayor** o **Sib mayor**, dos octavas si te resulta cómodo, y pon el metrónomo entre **72-88 BPM**. Imagina que tu escala es una barra de equilibrio: cada nota es fácil cuando estás centrado, pero una pequeña tensión, un sonido desigual o un cruce tardío del pulgar puede hacer tambalear toda la rutina. Hoy practicas control sereno, no velocidad heroica.",
+          "de": "Wähle **D-Dur** oder **B-Dur**, wenn möglich über zwei Oktaven, und stelle das Metronom auf **72-88 BPM**. Stell dir deine Skala wie einen Balancebalken vor: Jede Note ist leicht, solange du zentriert bleibst, aber kleine Spannung, ungleicher Ton oder ein später Daumenuntersatz können die ganze Routine ins Wanken bringen. Heute geht es um ruhige Kontrolle, nicht um heldenhaftes Tempo.",
+          "ja": "**Dメジャー** または **Bbメジャー** を選び、無理がなければ2オクターブで、メトロノームを **72-88 BPM** に設定しましょう。今日のスケールは平均台です。中心が保てていれば各音は簡単ですが、わずかな力み、音量の偏り、遅れた親指くぐりが全体をぐらつかせます。今日はヒーローのような速さではなく、落ち着いたコントロールを練習します。",
+          "zh-Hans": "选择 **D大调** 或 **Bb大调**，如果舒服就弹两八度，并把节拍器设在 **72-88 BPM**。把你的音阶想成一根平衡木：当身体在中心时，每个音都不难；但一点点紧张、音色不均，或拇指穿越太晚，都会让整套练习晃起来。今天练的不是英雄式速度，而是冷静控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **steady beam round**. Play the scale up and down with both hands together at one dynamic level. Listen for three things: equal tone, relaxed wrists, and thumb crossings that feel prepared instead of rushed. If one hand sounds bossier, lower its volume on purpose.",
+          "pt-BR": "A Rodada 1 é a **rodada da trave firme**. Toque a escala subindo e descendo com as duas mãos juntas, em um único nível de dinâmica. Ouça três coisas: timbre igual, punhos soltos e passagens do polegar preparadas em vez de apressadas. Se uma mão soar mandona demais, abaixe o volume dela de propósito.",
+          "es": "La Ronda 1 es la **ronda de la barra estable**. Toca la escala subiendo y bajando con ambas manos juntas en un solo nivel dinámico. Escucha tres cosas: sonido parejo, muñecas relajadas y cruces del pulgar preparados en vez de apresurados. Si una mano suena demasiado mandona, bájale el volumen a propósito.",
+          "de": "Runde 1 ist die **stabile-Balken-Runde**. Spiele die Skala mit beiden Händen zusammen auf- und abwärts in einer einzigen Dynamik. Achte auf drei Dinge: gleichmäßigen Ton, lockere Handgelenke und vorbereitete statt gehetzte Daumenuntersätze. Wenn eine Hand zu dominant klingt, dämpfe sie bewusst.",
+          "ja": "ラウンド1は **安定ビームラウンド**。両手をそろえ、同じダイナミクスでスケールを上下します。聴くポイントは3つです。音量の均一さ、手首の脱力、そして急いだ親指くぐりではなく準備された親指くぐり。片手が偉そうに聞こえたら、わざとその手を少し小さくしましょう。",
+          "zh-Hans": "第1轮是 **稳定平衡木轮**。双手一起上下行，在同一个力度层级里完成音阶。听三件事：音色是否均匀、手腕是否放松、拇指穿越是否提前准备而不是临时抢救。如果有一只手太霸道，就故意把它压小一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **tilt round**. Keep the notes the same, but let the right hand grow slightly louder on the ascent and the left hand grow slightly louder on the descent. Nothing should collapse. The challenge is balancing intention without turning either hand into a bully.",
+          "pt-BR": "A Rodada 2 é a **rodada da inclinação**. Mantenha as mesmas notas, mas deixe a mão direita ficar um pouco mais forte na subida e a mão esquerda ficar um pouco mais forte na descida. Nada pode desmoronar. O desafio é equilibrar intenção sem transformar nenhuma das mãos em valentona.",
+          "es": "La Ronda 2 es la **ronda de la inclinación**. Mantén las mismas notas, pero deja que la mano derecha suene un poco más fuerte al subir y la izquierda un poco más fuerte al bajar. Nada debe derrumbarse. El reto es equilibrar intención sin convertir ninguna mano en abusona.",
+          "de": "Runde 2 ist die **Neigungsrunde**. Behalte die gleichen Töne, aber lass die rechte Hand beim Aufstieg etwas lauter werden und die linke beim Abstieg. Nichts darf zusammenbrechen. Die Herausforderung ist, bewusste Balance zu steuern, ohne dass eine Hand zum Tyrannen wird.",
+          "ja": "ラウンド2は **傾きラウンド**。音は同じままで、上行では右手を少し強く、下行では左手を少し強くします。それでも全体は崩れてはいけません。どちらかの手をいじめっ子にせず、意図を保ったままバランスを取るのが課題です。",
+          "zh-Hans": "第2轮是 **倾斜轮**。音不变，但上行时让右手稍微更响，下行时让左手稍微更响。整体不能散掉。挑战在于，你要带着明确意图去调平衡，而不是让其中一只手变成恶霸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **beam markers round**. Add accents every **four notes** for one pass, then every **three notes** for the next. Keep the fingers close to the keys and prepare the thumb before each crossing. If the accents disturb the legato line, the beam is shaking.",
+          "pt-BR": "A Rodada 3 é a **rodada das marcações da trave**. Adicione acentos a cada **quatro notas** em uma passada e depois a cada **três notas** na seguinte. Mantenha os dedos perto das teclas e prepare o polegar antes de cada passagem. Se os acentos atrapalharem o legato, a trave está balançando.",
+          "es": "La Ronda 3 es la **ronda de marcadores**. Añade acentos cada **cuatro notas** en una pasada y luego cada **tres notas** en la siguiente. Mantén los dedos cerca de las teclas y prepara el pulgar antes de cada cruce. Si los acentos rompen el legato, la barra está temblando.",
+          "de": "Runde 3 ist die **Markierungsrunde**. Setze in einem Durchgang alle **vier Noten** einen Akzent und im nächsten alle **drei Noten**. Halte die Finger nah an den Tasten und bereite den Daumen vor jedem Untersatz vor. Wenn die Akzente die Legato-Linie stören, wackelt der Balken.",
+          "ja": "ラウンド3は **目印ラウンド**。1回目は **4音ごと**、次は **3音ごと** にアクセントを入れます。指は鍵盤の近くに保ち、親指くぐりは毎回早めに準備してください。アクセントのせいでレガートが乱れるなら、平均台が揺れています。",
+          "zh-Hans": "第3轮是 **标记轮**。第一遍每 **4个音** 一个重音，下一遍改成每 **3个音** 一个重音。手指尽量贴近琴键，并在每次拇指穿越前提前准备。如果重音破坏了连贯的线条，说明平衡木已经开始摇了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: perform **three complete runs** of the same scale.\n1. even dynamic\n2. shifting hand balance\n3. moving accents\n\nAfter the third run, ask:\n- Which change hurt my hand balance the most?\n- Did the thumb crossings stay early and quiet?\n- Could I control the sound without tightening my shoulders or wrists?\n\nReal piano technique is not just crossing the beam. It is learning how to stay graceful while the beam keeps asking harder questions. 🎹",
+          "pt-BR": "Desafio final: toque **três voltas completas** da mesma escala.\n1. dinâmica uniforme\n2. equilíbrio de mãos em mudança\n3. acentos em movimento\n\nDepois da terceira volta, pergunte:\n- Qual mudança abalou mais o equilíbrio entre as mãos?\n- As passagens do polegar continuaram antecipadas e silenciosas?\n- Consegui controlar o som sem tensionar ombros ou punhos?\n\nTécnica pianística de verdade não é só atravessar a trave. É aprender a manter a elegância enquanto a trave faz perguntas cada vez mais difíceis. 🎹",
+          "es": "Desafío final: haz **tres recorridos completos** de la misma escala.\n1. dinámica uniforme\n2. balance cambiante entre manos\n3. acentos móviles\n\nDespués del tercer recorrido, pregúntate:\n- ¿Qué cambio dañó más mi equilibrio entre manos?\n- ¿Los cruces del pulgar siguieron siendo tempranos y silenciosos?\n- ¿Pude controlar el sonido sin tensar hombros ni muñecas?\n\nLa técnica real de piano no es solo cruzar la barra. Es aprender a seguir elegante mientras la barra te hace preguntas más difíciles. 🎹",
+          "de": "Abschluss-Challenge: Spiele **drei vollständige Durchgänge** derselben Skala.\n1. gleichmäßige Dynamik\n2. wechselnde Handbalance\n3. wandernde Akzente\n\nFrag dich danach:\n- Welche Veränderung hat meine Handbalance am stärksten gestört?\n- Blieben die Daumenuntersätze früh und leise?\n- Konnte ich den Klang steuern, ohne Schultern oder Handgelenke anzuspannen?\n\nEchte Klaviertechnik heißt nicht nur, den Balken zu überqueren. Sie heißt, elegant zu bleiben, während der Balken immer schwierigere Fragen stellt. 🎹",
+          "ja": "最後のチャレンジは **同じスケールを3回通して弾くこと**。\n1. 均一なダイナミクス\n2. 手のバランスを変化させる\n3. 動くアクセント\n\n3回目のあとで次を確認します。\n- どの変化が両手のバランスを最も崩したか？\n- 親指くぐりは早く静かに準備できていたか？\n- 肩や手首を固めずに音をコントロールできたか？\n\n本当のピアノテクニックは、ただ平均台を渡ることではありません。平均台がもっと難しい質問をしてきても、美しく居続けることです。 🎹",
+          "zh-Hans": "最终挑战：把同一条音阶 **完整跑三遍**。\n1. 均匀力度\n2. 变化的手部平衡\n3. 移动的重音\n\n跑完第三遍后问自己：\n- 哪种变化最伤害双手平衡？\n- 拇指穿越有没有保持提前而安静？\n- 我能不能控制声音，却不把肩膀和手腕弄紧？\n\n真正的钢琴技术，不只是走过平衡木。是平衡木不断出更难的问题时，你依然能优雅地站稳。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-17T00:10:16Z",
+  "updatedAt": "2026-05-17T00:10:16Z"
+}

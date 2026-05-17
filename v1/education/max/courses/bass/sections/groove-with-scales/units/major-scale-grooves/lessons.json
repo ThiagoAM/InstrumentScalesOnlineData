@@ -1202,5 +1202,33 @@
     "order": 43,
     "createdAt": "2026-05-15T00:07:07Z",
     "updatedAt": "2026-05-15T00:07:07Z"
+  },
+  {
+    "id": "bass-pocket-pinball",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Pinball",
+        "pt-BR": "Pinball de Pocket no Baixo",
+        "es": "Pinball de Pocket para Bajo",
+        "de": "Bass-Pocket-Pinball",
+        "ja": "ベース・ポケット・ピンボール",
+        "zh-Hans": "贝斯 Pocket 弹珠台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce between roots, ghost notes, and rebounds to make your major-scale groove feel alive and controlled.",
+        "pt-BR": "Salte entre tônicas, ghost notes e rebatidas para deixar seu groove em escala maior vivo e controlado.",
+        "es": "Rebota entre tónicas, ghost notes y regresos para que tu groove de escala mayor se sienta vivo y controlado.",
+        "de": "Springe zwischen Grundtönen, Ghost Notes und Rückprallern, damit dein Dur-Groove lebendig und kontrolliert bleibt.",
+        "ja": "ルート、ゴーストノート、跳ね返りを使って、メジャースケールのグルーヴを生き生きと、しかもコントロールされたものにしよう。",
+        "zh-Hans": "在根音、幽灵音和反弹之间切换，让你的大调 groove 又活又稳。"
+      }
+    },
+    "order": 44,
+    "createdAt": "2026-05-17T00:08:45Z",
+    "updatedAt": "2026-05-17T00:08:45Z"
   }
 ]

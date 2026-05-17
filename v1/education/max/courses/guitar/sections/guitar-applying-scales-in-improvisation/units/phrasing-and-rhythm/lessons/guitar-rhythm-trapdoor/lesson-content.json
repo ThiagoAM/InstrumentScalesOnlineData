@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-trapdoor",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **E minor pentatonic** or **A Dorian** in one position and set a metronome or backing track to **84-98 BPM**. Imagine the floor under your solo has hidden trapdoors: every time you leave the obvious beat, you either land with style or fall through the phrase. Your job is to make the surprises feel intentional, musical, and a little dangerous.",
+          "pt-BR": "Escolha **Mi menor pentatônica** ou **Lá dórico** em uma posição confortável e ajuste o metrônomo ou backing track para **84-98 BPM**. Imagine que o chão do seu solo tem alçapões escondidos: toda vez que você sai do pulso óbvio, ou aterrissa com estilo ou cai dentro da frase. Sua missão é fazer essas surpresas soarem intencionais, musicais e um pouco perigosas.",
+          "es": "Elige **Mi menor pentatónica** o **La dórico** en una sola posición y pon el metrónomo o backing track entre **84-98 BPM**. Imagina que el suelo de tu solo tiene trampillas ocultas: cada vez que abandonas el pulso obvio, o aterrizas con estilo o te caes dentro de la frase. Tu tarea es hacer que esas sorpresas suenen intencionales, musicales y un poco peligrosas.",
+          "de": "Wähle **E-Moll-Pentatonik** oder **A-Dorisch** in einer Lage und stelle Metronom oder Backing Track auf **84-98 BPM**. Stell dir vor, der Boden unter deinem Solo hat versteckte Falltüren: Jedes Mal, wenn du den offensichtlichen Beat verlässt, landest du entweder stilvoll oder fällst durch die Phrase. Deine Aufgabe ist es, diese Überraschungen absichtlich, musikalisch und leicht gefährlich klingen zu lassen.",
+          "ja": "弾きやすいポジションで **Eマイナー・ペンタトニック** か **Aドリアン** を選び、メトロノームやバッキングを **84-98 BPM** に設定しましょう。今日のソロの床には隠し落とし戸があります。わかりやすい拍から外れるたびに、かっこよく着地するか、フレーズの中に落ちるかのどちらかです。狙いは、その驚きを意図的で音楽的、そして少しスリリングに聞かせることです。",
+          "zh-Hans": "选择一个舒服把位里的 **E小调五声音阶** 或 **A多利亚**，把节拍器或伴奏设在 **84-98 BPM**。想象你的独奏脚下藏着很多活板门：每次你离开最明显的拍点，不是帅气落地，就是掉进乐句里。今天的任务，是让这些意外听起来像故意安排的、很有音乐性，而且还带一点危险感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **safe step round**. Play a two-bar phrase where beat 1 is solid, but one note in bar 2 lands on an offbeat. Keep the note choice simple and focus on the timing. If the phrase sounds random, simplify the rhythm before changing any notes.",
+          "pt-BR": "A Rodada 1 é a **rodada do passo seguro**. Toque uma frase de dois compassos em que o tempo 1 seja firme, mas uma nota do compasso 2 caia no contratempo. Mantenha as notas simples e foque no tempo. Se soar aleatório, simplifique o ritmo antes de trocar qualquer nota.",
+          "es": "La Ronda 1 es la **ronda del paso seguro**. Toca una frase de dos compases donde el tiempo 1 sea firme, pero una nota del compás 2 caiga en contratiempo. Mantén las notas simples y concéntrate en el tiempo. Si suena aleatorio, simplifica el ritmo antes de cambiar cualquier nota.",
+          "de": "Runde 1 ist die **sichere-Schritt-Runde**. Spiele eine zweitägige Phrase, bei der Zählzeit 1 stabil ist, aber eine Note in Takt 2 auf einem Offbeat landet. Halte die Töne simpel und konzentriere dich auf das Timing. Wenn es zufällig klingt, vereinfache zuerst den Rhythmus.",
+          "ja": "ラウンド1は **安全な一歩ラウンド**。2小節のフレーズを作り、1拍目はしっかり置きつつ、2小節目のどこか1音を裏拍に着地させます。音選びはシンプルにして、まずはタイミングに集中しましょう。ランダムに聞こえるなら、音を変える前にリズムを簡単にしてください。",
+          "zh-Hans": "第1轮是 **安全落脚轮**。弹一个两小节乐句：第1拍必须稳，但第2小节里有一个音要落在离拍上。先把音高选择保持简单，重点盯住节奏。如果听起来很随机，先把节奏简化，再考虑换音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **trapdoor round**. Build four short phrases and give each one a different surprise:\n- leave beat 2 empty\n- start on the **and** of 1\n- hold one note longer than expected\n- answer a busy phrase with a tiny two-note reply\n\nThe notes can stay inside the scale, but the rhythm has to create the drama.",
+          "pt-BR": "A Rodada 2 é a **rodada do alçapão**. Monte quatro frases curtas e dê a cada uma uma surpresa diferente:\n- deixe o tempo 2 vazio\n- comece no **e** do tempo 1\n- segure uma nota mais do que o esperado\n- responda a uma frase agitada com uma resposta minúscula de duas notas\n\nAs notas podem ficar dentro da escala, mas o drama precisa vir do ritmo.",
+          "es": "La Ronda 2 es la **ronda de la trampilla**. Crea cuatro frases cortas y dale a cada una una sorpresa diferente:\n- deja vacío el tiempo 2\n- empieza en el **y** de 1\n- sostén una nota más de lo esperado\n- responde a una frase ocupada con una mini respuesta de dos notas\n\nLas notas pueden quedarse dentro de la escala, pero el drama debe venir del ritmo.",
+          "de": "Runde 2 ist die **Falltür-Runde**. Baue vier kurze Phrasen und gib jeder eine andere Überraschung:\n- lass Zählzeit 2 leer\n- starte auf dem **und** von 1\n- halte einen Ton länger als erwartet\n- beantworte eine volle Phrase mit einer winzigen Zweiton-Antwort\n\nDie Töne dürfen in der Skala bleiben, aber das Drama muss aus dem Rhythmus kommen.",
+          "ja": "ラウンド2は **落とし戸ラウンド**。短いフレーズを4つ作り、それぞれに別のしかけを入れます。\n- 2拍目を丸ごと休む\n- 1拍目の**裏**から始める\n- 1音だけ予想より長く伸ばす\n- 忙しいフレーズに対して2音だけの小さな返事をする\n\n音はスケール内のままで大丈夫ですが、ドラマはリズムで作らなければいけません。",
+          "zh-Hans": "第2轮是 **活板门轮**。做四个短乐句，每个都加一种不同的惊喜：\n- 第2拍完全留空\n- 从第1拍的**后半拍**开始\n- 把某一个音拉得比预期更长\n- 用一个两音小回答去回应一条很忙的乐句\n\n音依然可以完全待在音阶里，但戏剧性必须来自节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **rescue round**. Deliberately play a phrase that feels slightly late or crowded, then fix it on the next bar by landing clearly on **E, G, or A**. This trains you to recover musically instead of freezing when a phrase gets messy.",
+          "pt-BR": "A Rodada 3 é a **rodada do resgate**. Toque de propósito uma frase um pouco atrasada ou apertada demais e conserte no compasso seguinte aterrissando claramente em **E, G ou A**. Isso treina você a se recuperar musicalmente em vez de travar quando a frase fica bagunçada.",
+          "es": "La Ronda 3 es la **ronda del rescate**. Toca a propósito una frase un poco tarde o demasiado cargada y arréglala en el siguiente compás aterrizando con claridad en **E, G o A**. Así entrenas la recuperación musical en vez de congelarte cuando la frase se desordena.",
+          "de": "Runde 3 ist die **Rettungsrunde**. Spiele absichtlich eine Phrase, die etwas zu spät oder zu voll wirkt, und rette sie im nächsten Takt mit einer klaren Landung auf **E, G oder A**. So lernst du, dich musikalisch zu erholen, statt bei Chaos einzufrieren.",
+          "ja": "ラウンド3は **救出ラウンド**。少し遅れ気味、または詰め込みすぎに聞こえるフレーズをわざと弾き、次の小節で **E、G、A** のどれかに明確に着地して立て直します。フレーズが崩れたときに固まるのではなく、音楽的に回復する練習です。",
+          "zh-Hans": "第3轮是 **救援轮**。故意弹一句略显拖拍或过于拥挤的乐句，然后在下一小节清楚地落到 **E、G 或 A** 上把它救回来。这样你练到的不是“别出错”，而是出问题时也能继续音乐地恢复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record **three four-bar solos**. In each solo, include one trapdoor rest, one offbeat entrance, and one confident landing on a target note. Afterward, ask:\n- Which surprise sounded coolest instead of just weird?\n- Did my rescue bar actually restore the groove?\n- Could I leave space without sounding timid?\n\nGreat phrasing is not about escaping mistakes forever. It is about making risky timing choices sound like the plan all along. 🎸",
+          "pt-BR": "Desafio final: grave **três solos de quatro compassos**. Em cada solo, inclua uma pausa-alçapão, uma entrada no contratempo e uma chegada confiante em uma nota-alvo. Depois pergunte:\n- Qual surpresa soou mais legal em vez de só estranha?\n- O compasso de resgate realmente devolveu o groove?\n- Consegui deixar espaço sem soar tímido?\n\nBom fraseado não é fugir de erros para sempre. É fazer escolhas rítmicas arriscadas parecerem o plano desde o começo. 🎸",
+          "es": "Desafío final: graba **tres solos de cuatro compases**. En cada solo incluye un silencio-trampilla, una entrada a contratiempo y una llegada segura a una nota objetivo. Después pregúntate:\n- ¿Qué sorpresa sonó más genial y no solo rara?\n- ¿El compás de rescate realmente devolvió el groove?\n- ¿Pude dejar espacio sin sonar tímido?\n\nEl gran fraseo no consiste en evitar los errores para siempre. Consiste en hacer que las decisiones rítmicas arriesgadas parezcan el plan desde el principio. 🎸",
+          "de": "Abschluss-Challenge: Nimm **drei Vierviertel-Soli über vier Takte** auf. In jedem Solo brauchst du eine Falltür-Pause, einen Offbeat-Einstieg und eine selbstbewusste Landung auf einem Zielton. Frag dich danach:\n- Welche Überraschung klang am coolsten statt nur seltsam?\n- Hat der Rettungstakt den Groove wirklich zurückgebracht?\n- Konnte ich Raum lassen, ohne schüchtern zu klingen?\n\nGroßes Phrasing heißt nicht, Fehler für immer zu vermeiden. Es heißt, riskante Rhythmusideen so klingen zu lassen, als wären sie von Anfang an der Plan gewesen. 🎸",
+          "ja": "最後のチャレンジは **4小節ソロを3本録音すること**。各ソロに、落とし戸のような休符、裏拍スタート、ターゲット音への自信ある着地を1回ずつ入れてください。終わったら次を確認しましょう。\n- どの驚きが「変」ではなく「かっこいい」になったか？\n- 救出小節は本当にグルーヴを取り戻したか？\n- 弱く聞こえずに空間を残せたか？\n\n良いフレージングとは、失敗を永遠に避けることではありません。危険なリズム判断を、最初からそのつもりだったように聞かせることです。 🎸",
+          "zh-Hans": "最终挑战：录下 **3段四小节独奏**。每一段都要包含一次活板门式休止、一次离拍进入和一次自信的目标音落地。录完后问自己：\n- 哪种惊喜是真的酷，而不只是怪？\n- 救援小节有没有真的把 groove 拉回来？\n- 我能不能留白，却又不显得胆小？\n\n优秀的乐句能力，不是永远不冒险。是把有风险的节奏决定，弹得像从一开始就是计划好的。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-17T00:07:28Z",
+  "updatedAt": "2026-05-17T00:07:28Z"
+}

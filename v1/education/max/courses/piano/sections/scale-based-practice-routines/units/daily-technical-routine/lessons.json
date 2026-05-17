@@ -894,5 +894,33 @@
     "order": 32,
     "createdAt": "2026-05-15T00:07:08Z",
     "updatedAt": "2026-05-15T00:07:08Z"
+  },
+  {
+    "id": "piano-scale-balance-beam",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Balance Beam",
+        "pt-BR": "Trave de Equilíbrio das Escalas no Piano",
+        "es": "Barra de Equilibrio de Escalas al Piano",
+        "de": "Balancebalken für Klavierskalen",
+        "ja": "ピアノ・スケールのバランスビーム",
+        "zh-Hans": "钢琴音阶平衡木"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to stay balanced through dynamic shifts, accents, and thumb crossings inside one scale routine.",
+        "pt-BR": "Treine as duas mãos para ficarem equilibradas entre mudanças de dinâmica, acentos e passagens do polegar em uma única rotina.",
+        "es": "Entrena ambas manos para mantenerse equilibradas entre cambios de dinámica, acentos y cruces del pulgar en una sola rutina.",
+        "de": "Trainiere beide Hände, bei Dynamikwechseln, Akzenten und Daumenuntersätzen innerhalb einer Skalenroutine im Gleichgewicht zu bleiben.",
+        "ja": "ダイナミクス変化、アクセント、親指くぐりの中でも、両手のバランスを保つ練習ルーティンです。",
+        "zh-Hans": "训练双手在力度变化、重音移动和拇指穿越中依然保持平衡。"
+      }
+    },
+    "order": 33,
+    "createdAt": "2026-05-17T00:10:16Z",
+    "updatedAt": "2026-05-17T00:10:16Z"
   }
 ]
