@@ -922,5 +922,33 @@
     "order": 33,
     "createdAt": "2026-05-17T00:10:16Z",
     "updatedAt": "2026-05-17T00:10:16Z"
+  },
+  {
+    "id": "piano-accent-traffic-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Traffic Lab",
+        "pt-BR": "Laboratório de Trânsito de Acentos no Piano",
+        "es": "Laboratorio de Tráfico de Acentos en Piano",
+        "de": "Klavier-Akzent-Verkehrslabor",
+        "ja": "ピアノ・アクセント交通ラボ",
+        "zh-Hans": "钢琴重音交通实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your scale control by directing accents, balance, and motion like traffic.",
+        "pt-BR": "Treine o controle da escala dirigindo acentos, equilíbrio e movimento como trânsito.",
+        "es": "Entrena tu control de escalas dirigiendo acentos, balance y movimiento como si fueran tráfico.",
+        "de": "Trainiere deine Skalenkontrolle, indem du Akzente, Balance und Bewegung wie Verkehr steuerst.",
+        "ja": "アクセント、バランス、動きを交通整理のように扱ってスケールコントロールを鍛えよう。",
+        "zh-Hans": "像指挥交通一样安排重音、平衡和流动，训练你的音阶控制。"
+      }
+    },
+    "order": 34,
+    "createdAt": "2026-05-18T00:09:30Z",
+    "updatedAt": "2026-05-18T00:09:30Z"
   }
 ]

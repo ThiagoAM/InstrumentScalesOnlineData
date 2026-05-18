@@ -1,0 +1,86 @@
+{
+  "id": "guitar-rhythm-lantern-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **E minor pentatonic** or **G major** in one position you know well. Set a metronome or backing groove to **84-96 BPM**. Imagine the fretboard is a dark trail and each strong beat is a lantern you must reach on purpose. Your mission is not to spray notes everywhere — it is to make each phrase travel with direction, rhythm, and nerve.",
+          "pt-BR": "Escolha **mi pentatônica menor** ou **sol maior** em uma posição que você conheça bem. Coloque o metrônomo ou uma base entre **84-96 BPM**. Imagine que o braço é uma trilha escura e que cada tempo forte é uma lanterna que você precisa alcançar de propósito. Sua missão não é despejar notas por toda parte — é fazer cada frase caminhar com direção, ritmo e coragem.",
+          "es": "Elige **mi pentatónica menor** o **sol mayor** en una posición que conozcas bien. Pon un metrónomo o base entre **84-96 BPM**. Imagina que el diapasón es un sendero oscuro y que cada tiempo fuerte es un farol al que debes llegar con intención. Tu misión no es lanzar notas por todas partes, sino hacer que cada frase avance con dirección, ritmo y valentía.",
+          "de": "Wähle **E-Moll-Pentatonik** oder **G-Dur** in einer Lage, die du gut kennst. Stell Metronom oder Backing-Groove auf **84-96 BPM**. Stell dir das Griffbrett als dunklen Pfad vor und jede starke Zählzeit als Laterne, die du bewusst erreichen musst. Deine Mission ist nicht, überall Noten zu verstreuen — jede Phrase soll Richtung, Rhythmus und Mut haben.",
+          "ja": "よく知っているポジションで **Eマイナー・ペンタトニック** か **Gメジャー** を選びましょう。メトロノームかバッキングは **84〜96 BPM** に設定します。指板は暗い道、強拍は必ず狙ってたどり着くランタンだと考えてください。今日の任務は音をばらまくことではなく、各フレーズに方向、リズム、そして少しの度胸を持たせることです。",
+          "zh-Hans": "在你熟悉的一个把位里选择 **E 小调五声音阶** 或 **G 大调**。把节拍器或伴奏设在 **84-96 BPM**。想象指板是一条黑暗小路，每个强拍都是你必须主动抵达的一盏灯笼。今天的任务不是到处撒音，而是让每个乐句都带着方向、节奏和一点胆量前进。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up with a **two-bar lantern loop**. In bar 1, play a short phrase of **4 to 6 notes** and land clearly on beat 1 and beat 3. In bar 2, answer with fewer notes while keeping the same pulse. Repeat until your timing feels brighter than your fingers. If the notes are good but the landing is fuzzy, the lantern went out.",
+          "pt-BR": "Aqueça com um **loop de duas barras com lanternas**. No compasso 1, toque uma frase curta de **4 a 6 notas** e aterrisse com clareza no tempo 1 e no tempo 3. No compasso 2, responda com menos notas mantendo a mesma pulsação. Repita até o seu timing brilhar mais do que os seus dedos. Se as notas estiverem boas, mas a chegada estiver borrada, a lanterna apagou.",
+          "es": "Calienta con un **bucle de dos compases con faroles**. En el compás 1, toca una frase corta de **4 a 6 notas** y aterriza con claridad en el tiempo 1 y en el tiempo 3. En el compás 2, responde con menos notas manteniendo el mismo pulso. Repite hasta que tu tiempo brille más que tus dedos. Si las notas están bien pero el aterrizaje es borroso, el farol se apagó.",
+          "de": "Wärme dich mit einer **Zwei-Takt-Laternenschleife** auf. Spiele in Takt 1 eine kurze Phrase mit **4 bis 6 Tönen** und lande klar auf Schlag 1 und Schlag 3. Antworte in Takt 2 mit weniger Tönen, aber demselben Puls. Wiederhole das, bis dein Timing heller leuchtet als deine Finger. Wenn die Töne gut sind, aber die Landung verschwimmt, ist die Laterne ausgegangen.",
+          "ja": "まずは **2小節ランタンループ** でウォームアップします。1小節目では **4〜6音** の短いフレーズを弾き、1拍目と3拍目にしっかり着地します。2小節目では同じ脈を保ったまま、もっと少ない音で答えましょう。タイミングの輝きが指の勢いを上回るまで繰り返します。音が良くても着地がぼやけたら、ランタンは消えています。",
+          "zh-Hans": "先做一个 **两小节灯笼循环** 热身。第 1 小节弹一个 **4 到 6 个音** 的短句，并清楚落在第 1 拍和第 3 拍。第 2 小节用更少的音回答，但保持同样的脉冲。重复到你的节奏感比手指冲动更亮。如果音都对了，但落点发虚，那盏灯就灭了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now play the **lantern switch** game. For every new two-bar phrase, choose one rule before you start:\n- begin on the **and** of 1\n- end on **E, G, or B**\n- leave beat 4 empty\n- use one slide into the final note\n- repeat one rhythm but change the pitch shape\n\nThe scale stays the same, but the job changes every round. That is where real phrasing starts.",
+          "pt-BR": "Agora jogue o jogo da **troca de lanternas**. A cada nova frase de dois compassos, escolha uma regra antes de começar:\n- começar no **e** do tempo 1\n- terminar em **E, G ou B**\n- deixar o tempo 4 vazio\n- usar um slide até a nota final\n- repetir um ritmo, mas mudar o desenho das alturas\n\nA escala continua igual, mas a função muda a cada rodada. É aí que o fraseado real começa.",
+          "es": "Ahora juega al **cambio de faroles**. En cada nueva frase de dos compases, elige una regla antes de empezar:\n- empezar en el **y** de 1\n- terminar en **E, G o B**\n- dejar vacío el tiempo 4\n- usar un slide hacia la nota final\n- repetir un ritmo, pero cambiar la forma melódica\n\nLa escala sigue siendo la misma, pero el trabajo cambia en cada ronda. Ahí empieza el verdadero fraseo.",
+          "de": "Jetzt kommt das Spiel **Laternenwechsel**. Wähle vor jeder neuen Zwei-Takt-Phrase eine Regel:\n- auf dem **Und** von 1 beginnen\n- auf **E, G oder B** enden\n- Schlag 4 leer lassen\n- mit einem Slide in den letzten Ton gehen\n- einen Rhythmus wiederholen, aber die Tonform ändern\n\nDie Skala bleibt gleich, aber die Aufgabe wechselt in jeder Runde. Genau dort beginnt echte Phrasierung.",
+          "ja": "次は **ランタンスイッチ** ゲームです。新しい2小節フレーズごとに、始める前に1つルールを選びます。\n- 1拍目の **裏** から始める\n- **E、G、B** のどれかで終える\n- 4拍目を空ける\n- 最後の音へスライドで入る\n- リズムは繰り返しつつ音の形を変える\n\nスケールは同じでも、毎回仕事が変わります。そこから本当のフレージングが始まります。",
+          "zh-Hans": "接着玩 **灯笼切换** 游戏。每开始一个新的两小节乐句前，先选一条规则：\n- 从第 1 拍的 **后半拍** 开始\n- 结束在 **E、G 或 B** 上\n- 第 4 拍完全留空\n- 用一次滑音进入最后一个音\n- 重复一个节奏，但改变音高轮廓\n\n音阶没有变，但任务每轮都在变。真正的乐句控制就是从这里开始的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next comes the **shadow bar**. After every strong two-bar idea, play a third bar that is quieter, shorter, and more patient. Think of it as the echo that proves you were actually listening to yourself. If the shadow bar feels harder than the flashy bar, good — restraint is one of the sneakiest advanced skills on guitar.",
+          "pt-BR": "Depois vem o **compasso sombra**. Após cada ideia forte de dois compassos, toque um terceiro compasso mais baixo, mais curto e mais paciente. Pense nele como o eco que prova que você realmente se escutou. Se o compasso sombra parecer mais difícil do que o compasso chamativo, ótimo — contenção é uma das habilidades avançadas mais sorrateiras da guitarra.",
+          "es": "Luego llega el **compás sombra**. Después de cada idea fuerte de dos compases, toca un tercer compás más suave, más corto y más paciente. Piensa en él como el eco que demuestra que de verdad te estabas escuchando. Si el compás sombra te resulta más difícil que el compás llamativo, perfecto: la contención es una de las habilidades avanzadas más tramposas de la guitarra.",
+          "de": "Dann folgt der **Schattentakt**. Nach jeder starken Zwei-Takt-Idee spielst du einen dritten Takt, der leiser, kürzer und geduldiger ist. Sieh ihn als Echo, das beweist, dass du dir wirklich zugehört hast. Wenn der Schattentakt schwerer ist als der auffällige Takt, umso besser — Zurückhaltung ist eine der heimlich fortgeschrittenen Gitarrenfähigkeiten.",
+          "ja": "その次は **シャドウ小節** です。力強い2小節アイデアのあとに、より静かで短く、我慢強い3小節目を足します。これは自分の演奏をちゃんと聴いていた証拠になる“こだま”です。派手な小節よりシャドウ小節のほうが難しく感じるなら、それで正解です。抑制はギターの上級スキルの中でもかなり隠れた重要項目です。",
+          "zh-Hans": "然后加入 **影子小节**。每弹完一个有力的两小节想法后，再接一个更轻、更短、更有耐心的第三小节。把它当成一个回声，证明你真的在听自己。如果影子小节比炫技小节更难，太好了——克制正是吉他进阶里最狡猾也最重要的能力之一。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Raise the challenge with a **string-jump checkpoint**. Once per phrase, jump to a nearby string set without losing the groove. Keep the jump musical, not athletic. The point is to make the listener feel a change of color, not a panic attack in your picking hand.",
+          "pt-BR": "Aumente o desafio com um **checkpoint de salto de cordas**. Uma vez por frase, pule para um grupo de cordas próximo sem perder o groove. Faça o salto soar musical, não atlético. A ideia é fazer quem ouve sentir uma mudança de cor, não um ataque de pânico na sua mão da palheta.",
+          "es": "Sube la dificultad con un **punto de control de salto de cuerdas**. Una vez por frase, salta a un grupo cercano de cuerdas sin perder el groove. Haz que el salto suene musical, no atlético. La idea es que quien escucha note un cambio de color, no un ataque de pánico en tu mano de la púa.",
+          "de": "Erhöhe den Anspruch mit einem **Saitensprung-Checkpoint**. Einmal pro Phrase springst du zu einem nahen Saitensatz, ohne den Groove zu verlieren. Der Sprung soll musikalisch klingen, nicht sportlich. Der Zuhörer soll einen Farbwechsel spüren, keinen Panikanfall in deiner Anschlagshand.",
+          "ja": "さらに **弦移動チェックポイント** を加えましょう。1フレーズに1回だけ、グルーヴを崩さず近い弦セットへ移動します。跳ぶこと自体を見せるのではなく、音色が変わったと感じさせるのが目的です。ピッキングの手が慌てているように聞こえてはいけません。",
+          "zh-Hans": "再把挑战升级成 **跳弦检查点**。每个乐句里有一次，你必须在不丢 groove 的前提下跳到附近另一组弦上。重点不是炫耀动作，而是让听的人感到颜色变了，而不是你的拨弦手开始惊慌失措。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a **six-lantern run**: improvise six short phrases in a row, and each one must land on a strong beat with a different rhythmic shape from the phrase before. Afterward, ask yourself:\n- Which landing felt the most confident?\n- Where did I rush when the jump appeared?\n- Did the quiet shadow bar sound intentional or timid?\n\nIf one lantern keeps flickering, practice there tomorrow. That is the exact spot turning your scale into music. 🎸",
+          "pt-BR": "Termine com uma **corrida de seis lanternas**: improvise seis frases curtas seguidas, e cada uma precisa aterrissar em um tempo forte com um desenho rítmico diferente da frase anterior. Depois, pergunte a si mesmo:\n- Qual chegada soou mais confiante?\n- Onde eu corri quando apareceu o salto?\n- O compasso sombra soou intencional ou tímido?\n\nSe uma lanterna continuar piscando, pratique ali amanhã. É exatamente esse ponto que está transformando sua escala em música. 🎸",
+          "es": "Termina con una **carrera de seis faroles**: improvisa seis frases cortas seguidas y cada una debe aterrizar en un tiempo fuerte con una forma rítmica distinta de la frase anterior. Después pregúntate:\n- ¿Qué aterrizaje sonó más seguro?\n- ¿Dónde me aceleré cuando apareció el salto?\n- ¿El compás sombra sonó intencional o tímido?\n\nSi un farol sigue parpadeando, practica ahí mañana. Ese es exactamente el punto donde tu escala se está convirtiendo en música. 🎸",
+          "de": "Beende die Lektion mit einem **Sechs-Laternen-Lauf**: improvisiere sechs kurze Phrasen hintereinander, und jede muss auf einer starken Zählzeit mit einer anderen Rhythmusform landen als die Phrase davor. Frage dich danach:\n- Welche Landung klang am sichersten?\n- Wo habe ich beschleunigt, als der Sprung kam?\n- Klang der Schattentakt absichtlich oder schüchtern?\n\nWenn eine Laterne weiter flackert, übe dort morgen weiter. Genau an dieser Stelle wird deine Skala zu Musik. 🎸",
+          "ja": "最後は **6つのランタンラン** です。短いフレーズを6回連続で即興し、毎回、前のフレーズとは違うリズムの形で強拍に着地してください。終わったらこう考えましょう。\n- いちばん自信があった着地はどれか？\n- 弦移動が出たとき、どこで走ってしまったか？\n- シャドウ小節は意図的だったか、それとも弱気だったか？\n\nもし1つのランタンだけがずっとちらつくなら、明日はそこを練習してください。そこがまさに、スケールが音楽に変わる場所です。 🎸",
+          "zh-Hans": "最后做一个 **六灯冲刺**：连续即兴六个短乐句，而且每一次都要用和上一句不同的节奏形状落在强拍上。结束后问自己：\n- 哪一次落点最有把握？\n- 跳弦一出现，我是在哪里开始抢拍的？\n- 影子小节听起来是有意为之，还是显得胆怯？\n\n如果有一盏灯总在闪烁，明天就练那里。那个点正是你的音阶开始变成音乐的地方。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-18T00:07:02Z",
+  "updatedAt": "2026-05-18T00:07:02Z"
+}

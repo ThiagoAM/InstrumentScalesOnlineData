@@ -614,5 +614,33 @@
     "order": 22,
     "createdAt": "2026-05-17T00:07:28Z",
     "updatedAt": "2026-05-17T00:07:28Z"
+  },
+  {
+    "id": "guitar-rhythm-lantern-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Lantern Run",
+        "pt-BR": "Corrida das Lanternas Rítmicas na Guitarra",
+        "es": "Carrera de Faroles Rítmicos en Guitarra",
+        "de": "Gitarren-Rhythmus-Laternenlauf",
+        "ja": "ギター・リズム・ランタンラン",
+        "zh-Hans": "吉他节奏灯笼冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up your phrasing with rhythm checkpoints and scale control.",
+        "pt-BR": "Ilumine seu fraseado com checkpoints rítmicos e controle de escala.",
+        "es": "Ilumina tu fraseo con puntos de control rítmicos y dominio de la escala.",
+        "de": "Erhelle deine Phrasierung mit rhythmischen Checkpoints und Skalenkontrolle.",
+        "ja": "リズムのチェックポイントでフレージングとスケール運用を明るく磨こう。",
+        "zh-Hans": "用节奏检查点点亮你的乐句与音阶控制。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-05-18T00:07:02Z",
+    "updatedAt": "2026-05-18T00:07:02Z"
   }
 ]

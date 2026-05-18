@@ -1230,5 +1230,33 @@
     "order": 44,
     "createdAt": "2026-05-17T00:08:45Z",
     "updatedAt": "2026-05-17T00:08:45Z"
+  },
+  {
+    "id": "bass-ghost-lane-dare",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Ghost Lane Dare",
+        "pt-BR": "Desafio da Faixa Fantasma no Baixo",
+        "es": "Desafío del Carril Fantasma en Bajo",
+        "de": "Bass-Geisterspur-Mutprobe",
+        "ja": "ベース・ゴーストレーン・チャレンジ",
+        "zh-Hans": "贝斯幽灵车道挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Tighten your pocket by mixing scale tones, space, and ghost-note nerve.",
+        "pt-BR": "Aperte seu groove misturando notas da escala, espaço e coragem com ghost notes.",
+        "es": "Aprieta tu groove mezclando notas de escala, espacio y actitud con ghost notes.",
+        "de": "Schärfe dein Pocket mit Skalentönen, Raum und mutigen Ghost Notes.",
+        "ja": "スケール音、空間、ゴーストノートの度胸でポケットを引き締めよう。",
+        "zh-Hans": "把音阶音、空间和幽灵音的胆量混进 groove，让 pocket 更紧。"
+      }
+    },
+    "order": 45,
+    "createdAt": "2026-05-18T00:08:11Z",
+    "updatedAt": "2026-05-18T00:08:11Z"
   }
 ]

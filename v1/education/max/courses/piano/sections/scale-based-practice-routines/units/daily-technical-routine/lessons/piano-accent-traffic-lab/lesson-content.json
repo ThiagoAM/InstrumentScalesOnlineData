@@ -1,0 +1,86 @@
+{
+  "id": "piano-accent-traffic-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick **B-flat major** or **E minor** and set the metronome to **76-92 BPM**. Today the keyboard is a traffic lab. Your fingers are the drivers, your accents are the traffic lights, and your job is to keep everything moving without a collision between tension and clarity. The goal is not only to play the scale correctly, but to control where the listener's ear goes.",
+          "pt-BR": "Escolha **si bemol maior** ou **mi menor** e coloque o metrônomo entre **76-92 BPM**. Hoje o teclado é um laboratório de trânsito. Seus dedos são os motoristas, seus acentos são os semáforos, e seu trabalho é manter tudo andando sem colisão entre tensão e clareza. O objetivo não é só tocar a escala corretamente, mas controlar para onde o ouvido do ouvinte vai.",
+          "es": "Elige **si bemol mayor** o **mi menor** y pon el metrónomo entre **76-92 BPM**. Hoy el teclado es un laboratorio de tráfico. Tus dedos son los conductores, tus acentos son los semáforos y tu trabajo es mantener todo en movimiento sin una colisión entre tensión y claridad. El objetivo no es solo tocar la escala correctamente, sino controlar hacia dónde va el oído del oyente.",
+          "de": "Wähle **B-Dur** oder **E-Moll** und stelle das Metronom auf **76-92 BPM**. Heute ist die Tastatur ein Verkehrslabor. Deine Finger sind die Fahrer, deine Akzente die Ampeln, und deine Aufgabe ist es, alles in Bewegung zu halten, ohne dass Spannung und Klarheit zusammenprallen. Das Ziel ist nicht nur, die Skala korrekt zu spielen, sondern zu steuern, wohin das Ohr des Zuhörers geht.",
+          "ja": "**Bフラット・メジャー** か **Eマイナー** を選び、メトロノームを **76〜92 BPM** に設定します。今日は鍵盤が交通ラボです。指はドライバー、アクセントは信号機。緊張と明瞭さが衝突しないように、すべてを流れの中で動かすのが仕事です。目標はただ正しくスケールを弾くことではなく、聴き手の耳をどこへ向かわせるかを自分でコントロールすることです。",
+          "zh-Hans": "选择 **降 B 大调** 或 **E 小调**，把节拍器设在 **76-92 BPM**。今天键盘是一间交通实验室。你的手指是司机，重音是红绿灯，而你的工作就是让一切持续流动，不让紧张和清晰度撞车。目标不只是把音阶弹对，而是控制听众的耳朵会被带向哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Begin with a **green-light pass**. Play one octave up and down with relaxed hands and even tone. Then repeat it, but place a gentle accent on every **third** note. On the next pass, move the accent to every **fourth** note. If the hand stiffens when the accent moves, the light turned yellow for a reason.",
+          "pt-BR": "Comece com uma **passagem de sinal verde**. Toque uma oitava subindo e descendo com as mãos relaxadas e som uniforme. Depois repita, mas coloque um acento suave em cada **terceira** nota. Na passada seguinte, mova o acento para cada **quarta** nota. Se a mão endurecer quando o acento muda, é porque o sinal ficou amarelo por algum motivo.",
+          "es": "Empieza con una **pasada de luz verde**. Toca una octava ascendente y descendente con las manos relajadas y un sonido uniforme. Luego repítela, pero coloca un acento suave en cada **tercera** nota. En la siguiente pasada, mueve el acento a cada **cuarta** nota. Si la mano se endurece cuando cambia el acento, la luz se puso amarilla por algo.",
+          "de": "Beginne mit einer **Grünlicht-Runde**. Spiele eine Oktave auf- und abwärts mit lockeren Händen und gleichmäßigem Ton. Wiederhole das dann mit einem sanften Akzent auf jeder **dritten** Note. Im nächsten Durchgang verschiebst du den Akzent auf jede **vierte** Note. Wenn die Hand beim Akzentwechsel steif wird, ist die Ampel aus gutem Grund auf Gelb gesprungen.",
+          "ja": "まずは **青信号パス** から始めましょう。手をリラックスさせ、均一な音で1オクターブを上がって下がります。次に、**3音ごと** にやさしいアクセントを置いて同じことを繰り返します。その次は **4音ごと** にアクセントを移します。アクセントの位置が変わっただけで手が固まるなら、信号が黄色になった理由があります。",
+          "zh-Hans": "先做一遍 **绿灯通行**。双手放松，用均匀音色弹一组上下行一八度。然后再来一遍，但每 **第三个** 音加一个轻微重音。下一遍把重音移到每 **第四个** 音。如果重音位置一变，手就开始发紧，那说明黄灯亮起是有原因的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now run the **intersection drill**. Play hands separately first, then together. In the right hand, keep the accent pattern steady. In the left hand, stay softer and smoother, like traffic flowing underneath the signs. Then switch the roles. The challenge is to make one hand speak clearly without the other hand becoming jealous and loud.",
+          "pt-BR": "Agora faça o **treino de cruzamento**. Toque primeiro com as mãos separadas e depois juntas. Na mão direita, mantenha o padrão de acentos estável. Na mão esquerda, fique mais suave e lisa, como um trânsito fluindo por baixo das placas. Depois troque os papéis. O desafio é fazer uma mão falar com clareza sem a outra ficar com ciúme e tocar alto demais.",
+          "es": "Ahora haz el **ejercicio de intersección**. Toca primero con manos separadas y luego juntas. En la mano derecha, mantén estable el patrón de acentos. En la mano izquierda, quédate más suave y fluida, como tráfico que circula por debajo de las señales. Después cambia los papeles. El desafío es lograr que una mano hable con claridad sin que la otra se ponga celosa y demasiado fuerte.",
+          "de": "Jetzt folgt die **Kreuzungsübung**. Spiele zuerst mit getrennten Händen, dann zusammen. In der rechten Hand bleibt das Akzentmuster stabil. Die linke Hand bleibt weicher und glatter, wie Verkehr, der unter den Schildern weiterfließt. Danach tauscht ihr die Rollen. Die Herausforderung ist, eine Hand klar sprechen zu lassen, ohne dass die andere eifersüchtig und laut wird.",
+          "ja": "次は **交差点ドリル** です。まず片手ずつ、次に両手で弾きます。右手はアクセントパターンを安定させ、左手はその下を流れる交通のように、よりなめらかで控えめに保ちます。そのあと役割を交代します。難しさは、片方の手をはっきり話させながら、もう片方が嫉妬して大きくならないようにすることです。",
+          "zh-Hans": "接着做 **路口训练**。先分手弹，再双手一起。右手保持稳定的重音模式，左手则更轻、更顺，像在标志牌下持续流动的车流。然后交换角色。挑战在于：让一只手说话清楚，但别让另一只手因为“嫉妒”而变得又大又吵。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a **detour test**. In the middle of the scale, pause for one beat, then restart without changing tempo. Next round, keep the tempo but change articulation: first legato, then lightly detached. This teaches you that control is not broken by interruption if your internal pulse keeps driving.",
+          "pt-BR": "Adicione um **teste de desvio**. No meio da escala, pare por um tempo e recomece sem mudar o andamento. Na rodada seguinte, mantenha o andamento, mas mude a articulação: primeiro legato, depois levemente destacado. Isso ensina que o controle não quebra com a interrupção se o seu pulso interno continuar dirigindo.",
+          "es": "Añade una **prueba de desvío**. En medio de la escala, haz una pausa de un pulso y vuelve a empezar sin cambiar el tempo. En la siguiente ronda, mantén el tempo pero cambia la articulación: primero legato y luego ligeramente separado. Esto enseña que el control no se rompe por una interrupción si tu pulso interno sigue conduciendo.",
+          "de": "Füge einen **Umleitungstest** hinzu. Halte mitten in der Skala für einen Schlag an und setze dann ohne Tempowechsel wieder ein. In der nächsten Runde bleibt das Tempo gleich, aber die Artikulation wechselt: erst legato, dann leicht abgesetzt. So lernst du, dass Kontrolle durch Unterbrechung nicht zerbricht, solange dein innerer Puls weiterfährt.",
+          "ja": "**迂回テスト** も加えます。スケールの途中で1拍止まり、そのままテンポを変えずに再開してください。次のラウンドではテンポは保ったまま、アーティキュレーションを変えます。最初はレガート、次は少し切り離して。これで、内側の拍が走り続けていれば、途中停止でコントロールは壊れないと学べます。",
+          "zh-Hans": "再加一个 **绕行测试**。在音阶中间停一拍，然后不改变速度重新开始。下一轮保持速度不变，但改变触键连接：先连奏，再轻微断开。它会教你，只要内在脉冲还在开车，中断并不会毁掉控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Raise the stakes with a **red-light surprise**. Once per pass, choose one note that must bloom slightly more than the others, but it cannot be the tonic. That forces your ears to guide your fingers instead of letting habit do all the steering. If the surprise note sounds random, shape the phrase more clearly before trying again.",
+          "pt-BR": "Aumente a aposta com uma **surpresa de sinal vermelho**. Uma vez por passada, escolha uma nota que deve florescer um pouco mais do que as outras, mas ela não pode ser a tônica. Isso obriga o ouvido a guiar os dedos em vez de deixar o hábito fazer toda a direção. Se a nota surpresa soar aleatória, molde a frase com mais clareza antes de tentar de novo.",
+          "es": "Sube la apuesta con una **sorpresa de luz roja**. Una vez por pasada, elige una nota que deba florecer un poco más que las demás, pero no puede ser la tónica. Eso obliga a tus oídos a guiar los dedos en vez de dejar que el hábito haga toda la conducción. Si la nota sorpresa suena aleatoria, da más forma a la frase antes de volver a intentarlo.",
+          "de": "Erhöhe den Einsatz mit einer **Rotlicht-Überraschung**. Wähle pro Durchgang einmal einen Ton, der etwas mehr aufblühen soll als die anderen, aber es darf nicht der Grundton sein. So müssen deine Ohren die Finger führen, statt dass die Gewohnheit das ganze Steuer übernimmt. Wenn der Überraschungston zufällig klingt, forme die Phrase deutlicher, bevor du es noch einmal versuchst.",
+          "ja": "さらに **赤信号サプライズ** で難度を上げましょう。各パスで1回だけ、他の音より少しだけ花開かせる音を選びます。ただし主音は不可です。これによって、癖に運転を任せるのではなく、耳が指を導くようになります。サプライズ音が偶然っぽく聞こえるなら、もう少しフレーズの形をはっきりさせてからやり直してください。",
+          "zh-Hans": "用一个 **红灯惊喜** 把难度再抬高一点。每一遍里选一个音，让它比其他音稍微“绽放”一点，但这个音不能是主音。这样就逼着你的耳朵来指挥手指，而不是让习惯自动驾驶。如果这个惊喜音听起来只是随机冒出来的，那就先把乐句轮廓塑造得更清楚，再试一次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a **traffic report performance**: play three full passes of the scale. Pass 1 should sound calm and organized. Pass 2 should sound more energetic, with sharper accent control. Pass 3 should sound musical enough that someone could imagine it turning into a real phrase. Afterward, note which accent pattern caused the biggest jam and which one suddenly made the keyboard feel easier to navigate. That is your next practice clue. 🎹",
+          "pt-BR": "Termine com uma **apresentação do boletim de trânsito**: toque três passadas completas da escala. A passada 1 deve soar calma e organizada. A passada 2 deve soar mais enérgica, com controle de acento mais nítido. A passada 3 deve soar musical o suficiente para alguém imaginar que ela vai virar uma frase real. Depois, anote qual padrão de acento causou o maior engarrafamento e qual fez o teclado parecer subitamente mais fácil de navegar. Essa é a sua próxima pista de estudo. 🎹",
+          "es": "Termina con una **presentación del parte de tráfico**: toca tres pasadas completas de la escala. La pasada 1 debe sonar tranquila y organizada. La pasada 2 debe sonar más enérgica, con un control de acentos más marcado. La pasada 3 debe sonar lo bastante musical como para que alguien imagine que va a convertirse en una frase real. Después, anota qué patrón de acento causó el mayor atasco y cuál hizo que el teclado se sintiera de repente más fácil de recorrer. Esa es tu próxima pista de práctica. 🎹",
+          "de": "Beende die Lektion mit einer **Verkehrsbericht-Performance**: spiele drei vollständige Durchgänge der Skala. Durchgang 1 soll ruhig und organisiert klingen. Durchgang 2 soll energischer sein, mit schärferer Akzentkontrolle. Durchgang 3 soll so musikalisch klingen, dass man sich daraus eine echte Phrase vorstellen kann. Notiere danach, welches Akzentmuster den größten Stau verursacht hat und welches die Tastatur plötzlich leichter navigierbar machte. Das ist dein nächster Übehinweis. 🎹",
+          "ja": "最後は **交通レポート演奏** です。スケールを3回フルで弾きます。1回目は落ち着いて整理された感じ。2回目はよりエネルギッシュで、アクセントの管理が鋭い感じ。3回目は、本物のフレーズに変わっていきそうだと想像できるくらい音楽的に。終わったら、どのアクセントパターンがいちばん渋滞を起こしたか、そしてどれが急に鍵盤を進みやすく感じさせたかを書き残しましょう。それが次の練習のヒントです。 🎹",
+          "zh-Hans": "最后做一段 **交通报告演出**：完整弹三遍音阶。第 1 遍要平静、整齐。第 2 遍要更有能量，重音控制更明确。第 3 遍要有足够的音乐性，让人能想象它马上要变成真正的乐句。结束后记下：哪一种重音模式造成了最大堵塞，哪一种又突然让键盘变得更容易导航。那就是你下一步练习的线索。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-18T00:09:30Z",
+  "updatedAt": "2026-05-18T00:09:30Z"
+}
