@@ -950,5 +950,33 @@
     "order": 34,
     "createdAt": "2026-05-18T00:09:30Z",
     "updatedAt": "2026-05-18T00:09:30Z"
+  },
+  {
+    "id": "piano-scale-glider-gates",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Glider Gates",
+        "pt-BR": "Portões Planadores da Escala no Piano",
+        "es": "Puertas Planeadoras de Escala en Piano",
+        "de": "Klavier-Skalen-Gleiter-Tore",
+        "ja": "ピアノ・スケール滑空ゲート",
+        "zh-Hans": "钢琴音阶滑翔门"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Glide through scale checkpoints with balanced hands, calm thumbs, and musical control.",
+        "pt-BR": "Deslize por checkpoints da escala com mãos equilibradas, polegares calmos e controle musical.",
+        "es": "Deslízate por checkpoints de escala con manos equilibradas, pulgares tranquilos y control musical.",
+        "de": "Gleite mit ausgeglichenen Händen, ruhigen Daumen und musikalischer Kontrolle durch deine Skalen-Checkpoints.",
+        "ja": "バランスの良い両手、落ち着いた親指、音楽的なコントロールで音階のゲートを滑空しよう。",
+        "zh-Hans": "用平衡的双手、冷静的拇指和音乐性的控制滑过每个音阶关卡。"
+      }
+    },
+    "order": 35,
+    "createdAt": "2026-05-19T00:08:45Z",
+    "updatedAt": "2026-05-19T00:08:45Z"
   }
 ]

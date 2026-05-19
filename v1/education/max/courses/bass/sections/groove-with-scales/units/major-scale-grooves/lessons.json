@@ -1258,5 +1258,33 @@
     "order": 45,
     "createdAt": "2026-05-18T00:08:11Z",
     "updatedAt": "2026-05-18T00:08:11Z"
+  },
+  {
+    "id": "bass-pocket-magnet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Magnet",
+        "pt-BR": "Ímã de Pocket no Baixo",
+        "es": "Imán de Pocket para Bajo",
+        "de": "Pocket-Magnet am Bass",
+        "ja": "ベース・ポケット・マグネット",
+        "zh-Hans": "贝斯 Pocket 磁铁"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pull wandering scale notes back into a deep pocket with ghost notes, rests, and clean landings.",
+        "pt-BR": "Puxe notas da escala de volta para um pocket profundo com ghost notes, pausas e chegadas limpas.",
+        "es": "Haz que las notas errantes de la escala vuelvan a un pocket profundo con ghost notes, silencios y aterrizajes limpios.",
+        "de": "Ziehe wandernde Skalentöne mit Ghost Notes, Pausen und klaren Landungen zurück ins Pocket.",
+        "ja": "ゴーストノート、休符、正確な着地で、さまよう音階音を深いポケットへ引き戻そう。",
+        "zh-Hans": "用幽灵音、停顿和干净落点，把游走的音阶音拉回深口袋。"
+      }
+    },
+    "order": 46,
+    "createdAt": "2026-05-19T00:07:38Z",
+    "updatedAt": "2026-05-19T00:07:38Z"
   }
 ]

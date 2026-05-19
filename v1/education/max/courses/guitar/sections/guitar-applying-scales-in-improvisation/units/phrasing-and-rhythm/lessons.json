@@ -642,5 +642,33 @@
     "order": 23,
     "createdAt": "2026-05-18T00:07:02Z",
     "updatedAt": "2026-05-18T00:07:02Z"
+  },
+  {
+    "id": "guitar-backbeat-boomerang",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Backbeat Boomerang",
+        "pt-BR": "Bumerangue do Backbeat na Guitarra",
+        "es": "Búmeran del Backbeat en Guitarra",
+        "de": "Gitarren-Backbeat-Bumerang",
+        "ja": "ギター・バックビート・ブーメラン",
+        "zh-Hans": "吉他反拍回旋镖"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Throw scale phrases past the beat and snap them back into the groove with control.",
+        "pt-BR": "Jogue frases da escala além da batida e traga tudo de volta ao groove com controle.",
+        "es": "Lanza frases de escala más allá del pulso y hazlas volver al groove con control.",
+        "de": "Wirf Skalenphrasen hinter den Beat und hole sie kontrolliert zurück in den Groove.",
+        "ja": "スケールフレーズを拍の向こうへ投げ、コントロールしてグルーヴに戻そう。",
+        "zh-Hans": "把音阶乐句扔过拍点，再带着控制感弹回 groove。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-05-19T00:06:18Z",
+    "updatedAt": "2026-05-19T00:06:18Z"
   }
 ]
