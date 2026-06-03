@@ -1286,5 +1286,33 @@
     "order": 46,
     "createdAt": "2026-05-19T00:07:38Z",
     "updatedAt": "2026-05-19T00:07:38Z"
+  },
+  {
+    "id": "bass-pocket-detour-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Detour Lab",
+        "pt-BR": "Bass Pocket Detour Lab",
+        "es": "Bass Pocket Detour Lab",
+        "de": "Bass Pocket Detour Lab",
+        "ja": "Bass Pocket Detour Lab",
+        "zh-Hans": "Bass Pocket Detour Lab"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Test how far a bass groove can wander before it stops feeling trustworthy.",
+        "pt-BR": "Teste até onde um groove de baixo pode passear antes de perder a confiança do ouvinte.",
+        "es": "Prueba hasta dónde puede desviarse un groove de bajo antes de dejar de sentirse confiable.",
+        "de": "Teste, wie weit ein Bassgroove abweichen darf, bevor er nicht mehr verlässlich wirkt.",
+        "ja": "ベースのグルーヴがどこまで寄り道しても信頼感を失わないか試すレッスンです。",
+        "zh-Hans": "测试一条贝斯 groove 最多能绕多远，还不至于失去可靠感。"
+      }
+    },
+    "order": 47,
+    "createdAt": "2026-06-03T00:07:56Z",
+    "updatedAt": "2026-06-03T00:07:56Z"
   }
 ]

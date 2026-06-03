@@ -978,5 +978,33 @@
     "order": 35,
     "createdAt": "2026-05-19T00:08:45Z",
     "updatedAt": "2026-05-19T00:08:45Z"
+  },
+  {
+    "id": "piano-echo-lane-rally",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Echo Lane Rally",
+        "pt-BR": "Piano Echo Lane Rally",
+        "es": "Piano Echo Lane Rally",
+        "de": "Piano Echo Lane Rally",
+        "ja": "Piano Echo Lane Rally",
+        "zh-Hans": "Piano Echo Lane Rally"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to answer each other with crisp scale echoes and steady control.",
+        "pt-BR": "Treine as duas mãos para responder uma à outra com ecos de escala nítidos e controle estável.",
+        "es": "Entrena ambas manos para responderse con ecos de escala claros y control constante.",
+        "de": "Trainiere beide Hände, einander mit klaren Skalen-Echos und stabilem Timing zu antworten.",
+        "ja": "両手がはっきりしたスケールのエコーで応答し合う力を鍛えるレッスンです。",
+        "zh-Hans": "训练双手用清晰的音阶回声彼此应答，并保持稳定控制。"
+      }
+    },
+    "order": 36,
+    "createdAt": "2026-06-03T00:09:03Z",
+    "updatedAt": "2026-06-03T00:09:03Z"
   }
 ]

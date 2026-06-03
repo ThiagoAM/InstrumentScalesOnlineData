@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-detour-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Open the lab\n\nStay in **G major** and build a **2-bar groove** at **94 bpm**.\n\nUse roots, fifths, and one extra scale tone of your choice.\n\nYour mission is to take tiny detours without losing the listener's trust in beat 1.",
+          "pt-BR": "### Abra o laboratório\n\nFique em **Sol maior** e monte um **groove de 2 compassos** em **94 bpm**.\n\nUse tônicas, quintas e uma nota extra da escala à sua escolha.\n\nSua missão é fazer pequenos desvios sem perder a confiança do ouvinte no tempo 1.",
+          "es": "### Abre el laboratorio\n\nQuédate en **Sol mayor** y crea un **groove de 2 compases** a **94 bpm**.\n\nUsa tónicas, quintas y una nota extra de la escala a tu elección.\n\nTu misión es tomar pequeños desvíos sin perder la confianza del oyente en el tiempo 1.",
+          "de": "### Das Labor öffnen\n\nBleib in **G-Dur** und baue einen **2-taktigen Groove** bei **94 bpm**.\n\nVerwende Grundtöne, Quinten und einen zusätzlichen Skalenton deiner Wahl.\n\nDeine Aufgabe ist, kleine Umwege zu nehmen, ohne dass das Vertrauen in Schlag 1 verloren geht.",
+          "ja": "### ラボを開く\n\n**Gメジャー** のまま、**94 bpm** で **2小節グルーヴ** を作ります。\n\nルート、5度、そして好きなスケール音を1つ使ってください。\n\n今日の任務は、1拍目への信頼を失わずに小さな寄り道を作ることです。",
+          "zh-Hans": "### 打开实验室\n\n保持在 **G大调**，做一个 **94 bpm** 的 **2 小节 groove**。\n\n使用根音、五度，再加一个你自己选的音阶音。\n\n你的任务是在不丢掉第1拍信任感的前提下，做出一点点小绕路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: trustworthy skeleton\n\nCreate the base groove with these rules:\n- start bar 1 on beat **1**\n- leave one eighth-note rest in each bar\n- hit **G** on beat **1** of both bars\n\nLoop it until it feels solid enough to live on stage.",
+          "pt-BR": "### Rodada 1: esqueleto confiável\n\nCrie o groove-base com estas regras:\n- comece o compasso 1 no tempo **1**\n- deixe uma pausa de colcheia em cada compasso\n- toque **G** no tempo **1** dos dois compassos\n\nRepita até soar sólido o bastante para ir ao palco.",
+          "es": "### Ronda 1: esqueleto confiable\n\nCrea el groove base con estas reglas:\n- empieza el compás 1 en el tiempo **1**\n- deja un silencio de corchea en cada compás\n- toca **G** en el tiempo **1** de ambos compases\n\nRepítelo hasta que se sienta lo bastante sólido para vivir en el escenario.",
+          "de": "### Runde 1: verlässliches Skelett\n\nBaue den Grundgroove mit diesen Regeln:\n- beginne Takt 1 auf Schlag **1**\n- lasse in jedem Takt eine Achtelpause\n- spiele **G** auf Schlag **1** beider Takte\n\nLoopen, bis es stabil genug für die Bühne wirkt.",
+          "ja": "### ラウンド1：信頼できる骨組み\n\n次のルールで基本グルーヴを作ります。\n- 1小節目は **1拍目** から始める\n- 各小節に8分休符を1つ入れる\n- 2つの小節どちらも **1拍目** で **G** を弾く\n\nステージで使えそうなくらい安定するまでループしてください。",
+          "zh-Hans": "### 第1轮：可靠骨架\n\n按这些规则建立基础 groove：\n- 第1小节从 **第1拍** 开始\n- 每小节留一个八分休止\n- 两个小节的 **第1拍** 都弹 **G**\n\n循环到它稳得像能直接上台。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: one-note detour\n\nReplace one repeated note with a passing tone from the scale.\n\nGood targets are **A**, **B**, or **D**, but use only **one** detour note per bar.\n\nIf the line suddenly sounds busy, go back and shorten the detour note.",
+          "pt-BR": "### Rodada 2: desvio de uma nota\n\nTroque uma nota repetida por uma nota de passagem da escala.\n\nBons alvos são **A**, **B** ou **D**, mas use apenas **uma** nota de desvio por compasso.\n\nSe a linha ficar ocupada demais, volte e encurte a nota de desvio.",
+          "es": "### Ronda 2: desvío de una nota\n\nReemplaza una nota repetida por una nota de paso de la escala.\n\nBuenos objetivos son **A**, **B** o **D**, pero usa solo **una** nota de desvío por compás.\n\nSi la línea de pronto suena demasiado ocupada, vuelve atrás y acorta la nota de desvío.",
+          "de": "### Runde 2: Ein-Ton-Umweg\n\nErsetze einen wiederholten Ton durch einen Durchgangston aus der Skala.\n\nGute Ziele sind **A**, **B** oder **D**, aber benutze pro Takt nur **einen** Umwegston.\n\nWenn die Linie plötzlich zu voll klingt, kürze den Umwegston.",
+          "ja": "### ラウンド2：1音だけ寄り道\n\n繰り返しの1音を、スケール内の経過音に置き換えます。\n\n候補は **A**、**B**、**D** が良いですが、1小節につき寄り道音は **1つだけ** にしてください。\n\n急に忙しく聞こえたら、寄り道音を短くして戻します。",
+          "zh-Hans": "### 第2轮：只绕一个音\n\n把一个重复音换成音阶里的经过音。\n\n**A**、**B**、**D** 都是不错的目标，但每小节只能有 **一个** 绕路音。\n\n如果线条突然变得太忙，就回去把绕路音弹短一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: ghost-lane upgrade\n\nKeep the pitches the same, but add one ghost note before a strong beat.\n\nTry it before beat **2** on one pass and before beat **4** on another.\n\nThe ghost note should add momentum, not steal the spotlight.",
+          "pt-BR": "### Rodada 3: faixa de ghost note\n\nMantenha as alturas iguais, mas adicione uma ghost note antes de um tempo forte.\n\nTeste antes do tempo **2** em uma passada e antes do tempo **4** em outra.\n\nA ghost note deve dar impulso, não roubar a cena.",
+          "es": "### Ronda 3: carril de ghost note\n\nMantén las alturas iguales, pero añade una ghost note antes de un tiempo fuerte.\n\nPruébala antes del tiempo **2** en una vuelta y antes del tiempo **4** en otra.\n\nLa ghost note debe aportar impulso, no robarse el protagonismo.",
+          "de": "### Runde 3: Ghost-Lane-Upgrade\n\nBehalte dieselben Tonhöhen, aber füge vor einem starken Schlag eine Ghost Note hinzu.\n\nTeste sie einmal vor Schlag **2** und einmal vor Schlag **4**.\n\nDie Ghost Note soll Schub geben, nicht das Rampenlicht stehlen.",
+          "ja": "### ラウンド3：ゴーストレーン強化\n\n音高はそのままで、強拍の前にゴーストノートを1つ足します。\n\nある周回では **2拍目** の前、別の周回では **4拍目** の前で試しましょう。\n\nゴーストノートは勢いを足すもので、主役を奪うものではありません。",
+          "zh-Hans": "### 第3轮：幽灵音车道升级\n\n保持音高不变，但在强拍前加一个幽灵音。\n\n一遍放在 **第2拍** 前，另一遍放在 **第4拍** 前。\n\n幽灵音应该增加推动力，而不是抢走主角光环。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 4: octave checkpoint\n\nOn the last beat of bar 2, swap one low note for its octave.\n\nDo not change anything else.\n\nThis is a control test: if the groove gets jumpy, your octave entrance is too dramatic.",
+          "pt-BR": "### Rodada 4: posto de controle da oitava\n\nNo último tempo do compasso 2, troque uma nota grave pela sua oitava.\n\nNão mude mais nada.\n\nEste é um teste de controle: se o groove ficar saltitante demais, sua entrada de oitava está dramática demais.",
+          "es": "### Ronda 4: control de octava\n\nEn el último tiempo del compás 2, cambia una nota grave por su octava.\n\nNo cambies nada más.\n\nEsta es una prueba de control: si el groove se vuelve nervioso, tu entrada de octava es demasiado dramática.",
+          "de": "### Runde 4: Oktav-Kontrollpunkt\n\nTausche auf dem letzten Schlag von Takt 2 einen tiefen Ton gegen seine Oktave aus.\n\nÄndere sonst nichts.\n\nDas ist ein Kontrolltest: Wenn der Groove nervös wird, ist dein Oktaveinsatz zu dramatisch.",
+          "ja": "### ラウンド4：オクターブ検問所\n\n2小節目の最後の拍で、低い音をそのオクターブに置き換えます。\n\nそれ以外は変えません。\n\nこれはコントロールテストです。グルーヴが落ち着きを失うなら、オクターブの入り方が大げさすぎます。",
+          "zh-Hans": "### 第4轮：八度检查点\n\n在第2小节最后一拍，把一个低音换成它的八度音。\n\n别改其他任何东西。\n\n这是控制测试：如果 groove 开始发飘，说明你的八度出场太戏剧化了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nRecord **4 passes** through the loop:\n- base groove\n- groove with detour notes\n- groove with ghost notes\n- groove with both plus the octave checkpoint\n\nIf every version still feels easy to trust, your pocket is leading the experiment instead of surviving it. 🎸",
+          "pt-BR": "### Desafio final\n\nGrave **4 voltas** do loop:\n- groove-base\n- groove com notas de desvio\n- groove com ghost notes\n- groove com os dois mais o posto de controle da oitava\n\nSe todas as versões continuarem fáceis de confiar, seu pocket está comandando o experimento em vez de apenas sobreviver a ele. 🎸",
+          "es": "### Desafío final\n\nGraba **4 vueltas** del loop:\n- groove base\n- groove con notas de desvío\n- groove con ghost notes\n- groove con ambos más el control de octava\n\nSi cada versión sigue siendo fácil de confiar, tu pocket está dirigiendo el experimento en vez de simplemente sobrevivirlo. 🎸",
+          "de": "### Abschluss-Challenge\n\nNimm **4 Durchläufe** des Loops auf:\n- Grundgroove\n- Groove mit Umwegstönen\n- Groove mit Ghost Notes\n- Groove mit beidem plus dem Oktav-Kontrollpunkt\n\nWenn jede Version weiter leicht vertrauenswürdig wirkt, führt dein Pocket das Experiment an, statt es nur zu überleben. 🎸",
+          "ja": "### 最終チャレンジ\n\nループを **4周分** 録音しましょう。\n- 基本グルーヴ\n- 寄り道音入りグルーヴ\n- ゴーストノート入りグルーヴ\n- 両方にオクターブ検問所を足したグルーヴ\n\nどの版でも信頼感が残るなら、あなたのポケットは実験に振り回されず、実験を導いています。🎸",
+          "zh-Hans": "### 最终挑战\n\n录下循环的 **4 遍**：\n- 基础 groove\n- 加绕路音的 groove\n- 加幽灵音的 groove\n- 两者都加上，再配合八度检查点\n\n如果每个版本都还让人放心，你的 pocket 就不是在勉强存活，而是在主导整个实验。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-03T00:07:56Z",
+  "updatedAt": "2026-06-03T00:07:56Z"
+}

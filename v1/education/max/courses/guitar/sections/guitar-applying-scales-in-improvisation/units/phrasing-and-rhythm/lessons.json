@@ -670,5 +670,33 @@
     "order": 24,
     "createdAt": "2026-05-19T00:06:18Z",
     "updatedAt": "2026-05-19T00:06:18Z"
+  },
+  {
+    "id": "guitar-beat-sling",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Beat Sling",
+        "pt-BR": "Guitar Beat Sling",
+        "es": "Guitar Beat Sling",
+        "de": "Guitar Beat Sling",
+        "ja": "Guitar Beat Sling",
+        "zh-Hans": "Guitar Beat Sling"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch short scale phrases from surprising beats without losing the groove.",
+        "pt-BR": "Lance frases curtas de escala de tempos inesperados sem perder o groove.",
+        "es": "Lanza frases cortas de escala desde tiempos inesperados sin perder el groove.",
+        "de": "Starte kurze Skalenphrasen von unerwarteten Zählzeiten, ohne den Groove zu verlieren.",
+        "ja": "意外な拍から短いスケールフレーズを飛ばし、グルーヴを失わない練習です。",
+        "zh-Hans": "从意外拍点发射短音阶乐句，同时牢牢守住 groove。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-06-03T00:07:00Z",
+    "updatedAt": "2026-06-03T00:07:00Z"
   }
 ]
