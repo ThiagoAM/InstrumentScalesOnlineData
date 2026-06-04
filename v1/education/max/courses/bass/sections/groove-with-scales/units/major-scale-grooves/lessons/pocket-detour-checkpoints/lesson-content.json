@@ -1,0 +1,73 @@
+{
+  "id": "pocket-detour-checkpoints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson is about taking the scenic route without getting lost. Set a click or drum loop in **G major** around **80-95 BPM**. Your job is to make a groove that leaves the root, explores nearby scale tones, and returns so cleanly that the listener never doubts where beat 1 lives.",
+          "pt-BR": "Esta lição é sobre pegar a estrada cênica sem se perder. Ajuste um metrônomo ou loop de bateria em **Sol maior** por volta de **80-95 BPM**. Seu trabalho é criar um groove que sai da tônica, explora notas vizinhas da escala e volta com tanta clareza que ninguém duvida onde mora o tempo 1.",
+          "es": "Esta lección trata de tomar la ruta panorámica sin perderte. Ajusta un clic o loop de batería en **Sol mayor** alrededor de **80-95 BPM**. Tu trabajo es crear un groove que se aleje de la tónica, explore notas cercanas de la escala y regrese con tanta claridad que nadie dude dónde vive el tiempo 1.",
+          "de": "In dieser Lektion nimmst du die landschaftlich schöne Route, ohne dich zu verfahren. Stell Klick oder Drumloop in **G-Dur** auf etwa **80-95 BPM**. Deine Aufgabe ist ein Groove, der sich vom Grundton entfernt, benachbarte Skalentöne erkundet und so sauber zurückkehrt, dass niemand den Ort der 1 infrage stellt.",
+          "ja": "このレッスンは、景色のいい遠回りをしながらも道に迷わないための練習です。**Gメジャー**で **80-95 BPM** ほどのクリックかドラムループを用意しましょう。ルートから少し離れ、近くのスケール音を使い、それでも1拍目の居場所を絶対に見失わないグルーヴを作るのが目標です。",
+          "zh-Hans": "这节课要练的是：走风景路线，但绝不迷路。打开一个 **G大调** 的节拍器或鼓循环，速度放在 **80-95 BPM**。你的任务是做出一条 groove：它会离开根音，去碰一碰附近的音阶音，但又能干净地回到拍点，让听的人始终知道第1拍在哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a two-bar skeleton using only **G, D, and octave G**. Keep the rhythm simple: one clear idea in bar 1, a matching answer in bar 2. Play it until it feels boring in the best possible way. A strong pocket needs a trustworthy home base before it can survive detours.",
+          "pt-BR": "Comece com um esqueleto de dois compassos usando apenas **G, D e G oitavado**. Mantenha o ritmo simples: uma ideia clara no compasso 1 e uma resposta combinando no compasso 2. Toque até ficar \"chato\" no melhor sentido. Um pocket forte precisa de uma base confiável antes de sobreviver a desvios.",
+          "es": "Empieza con un esqueleto de dos compases usando solo **G, D y la octava G**. Mantén el ritmo simple: una idea clara en el compás 1 y una respuesta relacionada en el compás 2. Tócalo hasta que se vuelva aburrido en el mejor sentido. Un pocket fuerte necesita una base confiable antes de sobrevivir a desvíos.",
+          "de": "Starte mit einem zweitaktigen Skelett nur aus **G, D und dem hohen G**. Halte den Rhythmus einfach: eine klare Idee in Takt 1, eine passende Antwort in Takt 2. Spiele es, bis es im besten Sinne langweilig wirkt. Ein starkes Pocket braucht zuerst ein verlässliches Zuhause, bevor es Umwege aushält.",
+          "ja": "まずは **G、D、オクターブ上のG** だけで2小節の骨組みを作ります。リズムはシンプルに、1小節目に明確なアイデア、2小節目にそれに答える形を置きます。良い意味で少し退屈に感じるまで繰り返してください。強いポケットは、寄り道に耐える前に信頼できるホームを持つ必要があります。",
+          "zh-Hans": "先只用 **G、D 和高八度 G** 搭一个两小节骨架。节奏保持简单：第1小节一个清楚的想法，第2小节给出对应回答。反复弹到它在“好的意义上”有点无聊。强大的 pocket 必须先有可靠的家，才经得起绕路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now create three \"checkpoint\" notes: **A, B, and E**. On any weak beat or upbeat, you may visit one checkpoint note before returning to G or D on the next strong beat. Think like a GPS voice: \"quick stop, then back on route.\" If the groove starts to sound blurry, your detour lasted too long.",
+          "pt-BR": "Agora crie três notas de \"checkpoint\": **A, B e E**. Em qualquer tempo fraco ou contratempo, você pode visitar uma dessas notas antes de voltar para G ou D no próximo tempo forte. Pense como uma voz de GPS: \"parada rápida e volta para a rota.\" Se o groove começar a soar nebuloso, seu desvio durou demais.",
+          "es": "Ahora crea tres notas de \"checkpoint\": **A, B y E**. En cualquier tiempo débil o contratiempo puedes visitar una de ellas antes de volver a G o D en el siguiente tiempo fuerte. Piensa como una voz de GPS: \"parada rápida y vuelta a la ruta\". Si el groove empieza a sonar borroso, tu desvío duró demasiado.",
+          "de": "Lege jetzt drei \"Kontrollpunkt\"-Töne fest: **A, B und E**. Auf jeder schwachen Zählzeit oder Offbeat darfst du einen dieser Töne besuchen, bevor du auf der nächsten starken Zählzeit zu G oder D zurückkehrst. Denk wie ein Navi: \"kurzer Stopp, dann zurück auf die Route.\" Wenn der Groove verschwimmt, war dein Umweg zu lang.",
+          "ja": "次に3つの「チェックポイント」音を決めます: **A、B、E**。弱拍や裏拍なら、そのどれかを一度だけ通ってから次の強拍でGかDに戻って構いません。カーナビの声のように考えましょう: 「ちょっと寄って、すぐ本道へ戻る」。グルーヴがぼやけ始めたら、寄り道が長すぎます。",
+          "zh-Hans": "现在设定三个“检查点”音: **A、B、E**。在弱拍或反拍上，你可以短暂经过其中一个音，然后在下一个强拍回到 G 或 D。把自己想象成导航语音：**“短暂停靠，然后回到主路。”** 如果 groove 开始发糊，说明你绕太远了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add one layer of attitude with **ghost notes** between real pitches. The rule is strict: ghost notes may push the groove forward, but they may not replace your landing notes. A groove with no air sounds crowded; a groove with no landings sounds lost. You need both dirt and direction.",
+          "pt-BR": "Adicione uma camada de atitude com **ghost notes** entre as notas reais. A regra é rígida: ghost notes podem empurrar o groove para frente, mas não podem substituir suas notas de chegada. Um groove sem ar fica lotado; um groove sem chegadas fica perdido. Você precisa de sujeira e direção ao mesmo tempo.",
+          "es": "Añade una capa de actitud con **ghost notes** entre las notas reales. La regla es estricta: las ghost notes pueden empujar el groove hacia delante, pero no pueden reemplazar tus notas de llegada. Un groove sin aire suena amontonado; un groove sin llegadas suena perdido. Necesitas suciedad y dirección a la vez.",
+          "de": "Füge nun mit **Ghost Notes** eine Schicht Haltung hinzu. Die Regel ist streng: Ghost Notes dürfen den Groove anschieben, aber sie dürfen deine Landetöne nicht ersetzen. Ein Groove ohne Luft klingt überfüllt; ein Groove ohne Landungen klingt verloren. Du brauchst Schmutz und Richtung zugleich.",
+          "ja": "さらに **ゴーストノート** で少し態度を加えます。ただしルールは厳格です。ゴーストノートは前へ押し出してよいですが、着地音の代わりになってはいけません。空気のないグルーヴは詰まりすぎ、着地点のないグルーヴは迷子です。ざらつきと方向性の両方が必要です。",
+          "zh-Hans": "接着加入一点态度：在真实音高之间放入 **幽灵音**。规则很严格：幽灵音可以推动 groove 前进，但不能取代你的落点音。没有空气的 groove 会太挤；没有落点的 groove 会迷路。你需要颗粒感，也需要方向感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: build **four versions** of the same two-bar groove. Version 1 uses no detours. Version 2 adds one checkpoint. Version 3 adds ghost notes. Version 4 combines both and must still feel tighter than Version 1. If it does not, strip it back and rebuild. Fancy is optional; solid is not.",
+          "pt-BR": "Rodada final: construa **quatro versões** do mesmo groove de dois compassos. A Versão 1 não usa desvio. A Versão 2 adiciona um checkpoint. A Versão 3 adiciona ghost notes. A Versão 4 combina as duas coisas e ainda precisa soar mais firme que a Versão 1. Se isso não acontecer, reduza e reconstrua. Ser sofisticado é opcional; ser sólido não é.",
+          "es": "Ronda final: construye **cuatro versiones** del mismo groove de dos compases. La Versión 1 no usa desvíos. La Versión 2 añade un checkpoint. La Versión 3 añade ghost notes. La Versión 4 combina ambas cosas y aun así debe sentirse más firme que la Versión 1. Si no lo logra, recórtala y reconstruye. Lo vistoso es opcional; lo sólido no.",
+          "de": "Schlussrunde: Baue **vier Versionen** desselben zweitaktigen Grooves. Version 1 hat keine Umwege. Version 2 nutzt einen Kontrollpunkt. Version 3 fügt Ghost Notes hinzu. Version 4 kombiniert beides und muss sich trotzdem tighter anfühlen als Version 1. Wenn das nicht klappt, reduziere und baue neu auf. Raffiniert ist optional; solide nicht.",
+          "ja": "最後は総仕上げ。まったく同じ2小節グルーヴの **4バージョン** を作ります。バージョン1は寄り道なし。バージョン2はチェックポイントを1回追加。バージョン3はゴーストノートを追加。バージョン4は両方を使い、それでもバージョン1よりタイトに聞こえなければなりません。そうならないなら削って作り直しましょう。派手さは任意ですが、安定感は必須です。",
+          "zh-Hans": "最后一轮：把同一个两小节 groove 做成 **4个版本**。版本1没有绕行。版本2加入一个检查点。版本3加入幽灵音。版本4把两者结合起来，而且听感还必须比版本1更紧。如果做不到，就删减后重建。花哨可以不要，扎实绝对不能丢。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-04T00:07:09Z",
+  "updatedAt": "2026-06-04T00:07:09Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "practice-boss-battle-blueprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Instead of asking, \"What should I practice?\" today, build a session that answers, \"What am I trying to beat?\" Pick **D major** and set aside **12 minutes**. You are going to design a mini boss battle with three phases: warm-up, pressure, and performance. The point is not just to play scales—it is to give every minute a job.",
+          "pt-BR": "Em vez de perguntar \"o que eu devo estudar?\" hoje, monte uma sessão que responda: \"o que eu estou tentando vencer?\" Escolha **Ré maior** e separe **12 minutos**. Você vai desenhar uma mini boss battle com três fases: aquecimento, pressão e performance. A ideia não é apenas tocar escalas—é dar uma função clara para cada minuto.",
+          "es": "En vez de preguntar \"¿qué debería practicar hoy?\", construye una sesión que responda: \"¿qué estoy intentando vencer?\" Elige **Re mayor** y reserva **12 minutos**. Vas a diseñar una mini boss battle con tres fases: calentamiento, presión y actuación. La idea no es solo tocar escalas, sino darle un trabajo claro a cada minuto.",
+          "de": "Statt heute zu fragen: \"Was soll ich üben?\", baust du eine Session, die beantwortet: \"Was will ich besiegen?\" Wähle **D-Dur** und nimm dir **12 Minuten** Zeit. Du entwirfst einen Mini-Bosskampf mit drei Phasen: Aufwärmen, Druck und Performance. Es geht nicht nur darum, Skalen zu spielen, sondern jeder Minute eine klare Aufgabe zu geben.",
+          "ja": "今日は「何を練習しよう？」ではなく、「何を倒しにいくのか？」に答えるセッションを作ります。キーは **Dメジャー**、時間は **12分**。ウォームアップ、プレッシャー、パフォーマンスの3段階からなる小さなボスバトルを設計しましょう。ただ音階を弾くのではなく、**1分ごとに役割を持たせる** のが狙いです。",
+          "zh-Hans": "今天别再问“我该练什么？”，而要设计一套能回答“我要打赢什么？”的练习。选择 **D大调**，留出 **12分钟**。你要做的是一场迷你 boss 战，分成三个阶段：热身、压力、演奏。重点不是单纯弹音阶，而是让 **每一分钟都有明确任务**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 1 is the setup screen: play D major hands together for two octaves at a calm tempo, aiming for even tone and relaxed shoulders. After each run, give yourself a score from **1 to 5** for steadiness. Do not speed up until you can honestly earn a 4. Technique improves faster when your judgment gets sharper too.",
+          "pt-BR": "A Fase 1 é a tela de preparação: toque Ré maior em duas oitavas com as duas mãos juntas em um andamento calmo, buscando som uniforme e ombros relaxados. Depois de cada execução, dê uma nota de **1 a 5** para sua estabilidade. Não aumente a velocidade até conseguir um 4 com honestidade. A técnica melhora mais rápido quando seu julgamento também melhora.",
+          "es": "La Fase 1 es la pantalla de preparación: toca Re mayor a dos octavas con ambas manos juntas a un tempo tranquilo, buscando un sonido parejo y hombros relajados. Después de cada pasada, ponte una nota de **1 a 5** por estabilidad. No subas la velocidad hasta que puedas darte un 4 con honestidad. La técnica mejora más rápido cuando tu criterio también mejora.",
+          "de": "Phase 1 ist der Startbildschirm: Spiele D-Dur über zwei Oktaven mit beiden Händen zusammen in ruhigem Tempo und achte auf gleichmäßigen Ton sowie entspannte Schultern. Nach jedem Durchgang gibst du dir selbst eine **1 bis 5** für Stabilität. Erhöhe das Tempo erst, wenn du ehrlich eine 4 vergeben kannst. Technik wächst schneller, wenn auch dein Urteil schärfer wird.",
+          "ja": "フェーズ1は準備画面です。Dメジャーを両手で2オクターブ、落ち着いたテンポで弾き、音量の均一さと肩の脱力を確認します。1回ごとに安定感を **1〜5点** で自己採点してください。正直に4点を出せるまではテンポを上げません。テクニックは、耳と判断力が育つほど速く伸びます。",
+          "zh-Hans": "第1阶段是准备画面：双手一起弹 D 大调两个八度，速度放轻松，目标是音量均匀、肩膀放松。每弹完一遍，就给自己的稳定度打 **1 到 5 分**。在你能诚实地打出 4 分之前，不要加速。技术进步得更快，往往是因为你的判断力也一起变准了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 2 raises the difficulty. Keep the same scale, but switch one parameter every round: **staccato, crescendo, accents on every third note, or starting from the left hand alone**. You are teaching your hands that a scale is not a single task—it is a musical system that can survive changing rules.",
+          "pt-BR": "A Fase 2 aumenta a dificuldade. Mantenha a mesma escala, mas troque um parâmetro a cada rodada: **staccato, crescendo, acentos a cada terceira nota ou começo com a mão esquerda sozinha**. Você está ensinando às suas mãos que uma escala não é uma tarefa única—é um sistema musical que sobrevive a regras variáveis.",
+          "es": "La Fase 2 sube la dificultad. Mantén la misma escala, pero cambia un parámetro en cada ronda: **staccato, crescendo, acentos cada tres notas o empezar solo con la mano izquierda**. Estás enseñando a tus manos que una escala no es una tarea única, sino un sistema musical que puede sobrevivir a reglas cambiantes.",
+          "de": "Phase 2 erhöht die Schwierigkeit. Behalte dieselbe Skala, ändere aber in jeder Runde einen Parameter: **Staccato, Crescendo, Akzente auf jeder dritten Note oder Start nur mit der linken Hand**. Du zeigst deinen Händen damit, dass eine Skala keine Einzelfunktion ist, sondern ein musikalisches System, das wechselnde Regeln aushält.",
+          "ja": "フェーズ2では難度を上げます。同じスケールのまま、ラウンドごとに条件を1つ変えます: **スタッカート、クレッシェンド、3音ごとのアクセント、左手だけで開始**。ここで学ぶのは、スケールが単一作業ではなく、条件が変わっても機能する音楽システムだということです。",
+          "zh-Hans": "第2阶段开始加难度。保持同一个音阶，但每一轮改变一个参数：**断奏、渐强、每三个音做一次重音，或先只用左手开始**。你是在训练双手明白：音阶不是单一任务，而是一套能承受规则变化的音乐系统。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Phase 3 becomes the boss battle. Over a simple **D - G - A - D** loop, improvise short two-bar phrases using only notes from D major. Each phrase must begin with a different scale degree and end on a chord tone. If your hands freeze, reduce the rhythm before reducing the harmony. Bravery beats clutter.",
+          "pt-BR": "A Fase 3 vira a boss battle. Sobre um loop simples de **D - G - A - D**, improvise frases curtas de dois compassos usando apenas notas de Ré maior. Cada frase deve começar em um grau diferente da escala e terminar em uma nota do acorde. Se as mãos travarem, reduza o ritmo antes de reduzir a harmonia. Coragem vale mais que excesso.",
+          "es": "La Fase 3 se convierte en la boss battle. Sobre un loop sencillo de **D - G - A - D**, improvisa frases cortas de dos compases usando solo notas de Re mayor. Cada frase debe empezar en un grado distinto de la escala y terminar en una nota del acorde. Si las manos se bloquean, reduce el ritmo antes de reducir la armonía. La valentía vale más que el exceso.",
+          "de": "Phase 3 ist der eigentliche Bosskampf. Improvisiere über einen einfachen **D - G - A - D**-Loop kurze zweitaktige Phrasen nur mit Tönen aus D-Dur. Jede Phrase muss auf einem anderen Skalenton beginnen und auf einem Akkordton enden. Wenn deine Hände einfrieren, vereinfache zuerst den Rhythmus statt die Harmonie. Mut ist wertvoller als Überladung.",
+          "ja": "フェーズ3が本番のボスバトルです。シンプルな **D - G - A - D** のループの上で、Dメジャーの音だけを使って2小節の短いフレーズを即興します。各フレーズは毎回ちがうスケール度数から始め、最後はコードトーンに着地させましょう。手が止まるなら、和声を減らす前にまずリズムを簡単にしてください。勇気は混雑より強いです。",
+          "zh-Hans": "第3阶段进入真正的 boss 战。在一个简单的 **D - G - A - D** 循环上，只用 D 大调的音即兴两小节短句。每一句都必须从不同的音阶级数开始，并以和弦音结束。如果手突然卡住，先简化节奏，再考虑简化和声。勇敢比堆满音符更重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by writing a tiny post-game note: what felt easy, what cracked under pressure, and what deserves to return tomorrow. A good practice plan is not a prison; it is a feedback machine. If today's blueprint teaches you one honest thing about your playing, it already worked.",
+          "pt-BR": "Feche escrevendo uma mini anotação pós-jogo: o que pareceu fácil, o que rachou sob pressão e o que merece voltar amanhã. Um bom plano de estudo não é uma prisão; é uma máquina de feedback. Se o blueprint de hoje te ensinar uma verdade honesta sobre seu toque, ele já funcionou.",
+          "es": "Termina escribiendo una pequeña nota postpartida: qué se sintió fácil, qué se rompió bajo presión y qué merece volver mañana. Un buen plan de práctica no es una prisión; es una máquina de retroalimentación. Si el plan de hoy te enseña una verdad honesta sobre tu forma de tocar, ya ha cumplido su trabajo.",
+          "de": "Zum Schluss schreibst du eine winzige Nach-dem-Spiel-Notiz: Was fühlte sich leicht an, was zerbrach unter Druck, und was soll morgen zurückkehren? Ein guter Übeplan ist kein Gefängnis, sondern eine Feedback-Maschine. Wenn dir dieser Bauplan heute eine ehrliche Wahrheit über dein Spiel zeigt, hat er bereits funktioniert.",
+          "ja": "最後に短いプレイ後メモを書きます。何が楽だったか、何がプレッシャーで崩れたか、そして明日もう一度持ち帰るべきものは何か。良い練習プランは牢屋ではなく、フィードバック装置です。今日の設計図が自分の演奏について1つでも正直な事実を教えてくれたなら、もう成功です。",
+          "zh-Hans": "最后写一条很短的“战后记录”：什么感觉轻松，什么在压力下裂开了，什么值得明天再带回来。好的练习计划不是监狱，而是一台反馈机器。如果今天这份蓝图让你对自己的演奏得到一条诚实结论，它就已经成功了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-04T00:07:09Z",
+  "updatedAt": "2026-06-04T00:07:09Z"
+}

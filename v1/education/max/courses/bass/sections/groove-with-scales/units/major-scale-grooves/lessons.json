@@ -1314,5 +1314,33 @@
     "order": 47,
     "createdAt": "2026-06-03T00:07:56Z",
     "updatedAt": "2026-06-03T00:07:56Z"
+  },
+  {
+    "id": "pocket-detour-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Detour Checkpoints",
+        "pt-BR": "Checkpoints de Desvio no Pocket",
+        "es": "Checkpoints de Desvío en el Pocket",
+        "de": "Pocket-Umweg mit Kontrollpunkten",
+        "ja": "ポケット寄り道チェックポイント",
+        "zh-Hans": "Pocket绕行检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove that wanders on purpose and still lands back in the pocket.",
+        "pt-BR": "Construa um groove de baixo que passeia de propósito e ainda volta firme para o pocket.",
+        "es": "Construye un groove de bajo que se desvíe con intención y vuelva al pocket con autoridad.",
+        "de": "Baue einen Bassgroove, der bewusst abschweift und trotzdem sicher ins Pocket zurückkehrt.",
+        "ja": "寄り道しても必ずポケットへ戻れるベース・グルーヴを作ろう。",
+        "zh-Hans": "练出一条会绕路、却仍能稳稳回到 pocket 的贝斯 groove。"
+      }
+    },
+    "order": 48,
+    "createdAt": "2026-06-04T00:07:09Z",
+    "updatedAt": "2026-06-04T00:07:09Z"
   }
 ]

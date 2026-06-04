@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-05-16T00:07:56Z",
     "updatedAt": "2026-05-16T00:07:56Z"
+  },
+  {
+    "id": "practice-boss-battle-blueprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Boss Battle Blueprint",
+        "pt-BR": "Blueprint da Boss Battle de Estudo",
+        "es": "Plano de Boss Battle de Práctica",
+        "de": "Bosskampf-Bauplan fürs Üben",
+        "ja": "練習ボスバトル設計図",
+        "zh-Hans": "练习Boss战蓝图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one piano scale session into a staged challenge with technique, timing, and musical goals.",
+        "pt-BR": "Transforme uma sessão de escalas no piano em um desafio por fases com técnica, tempo e metas musicais.",
+        "es": "Convierte una sesión de escalas en piano en un reto por fases con técnica, tiempo y objetivos musicales.",
+        "de": "Verwandle eine Klavier-Skalenroutine in eine gestufte Herausforderung mit Technik-, Timing- und Musikzielen.",
+        "ja": "ピアノの音階練習を、技術・タイム感・音楽性を試す段階的チャレンジに変えよう。",
+        "zh-Hans": "把一次钢琴音阶练习设计成分阶段挑战，同时训练技术、节奏和音乐性。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-06-04T00:07:09Z",
+    "updatedAt": "2026-06-04T00:07:09Z"
   }
 ]

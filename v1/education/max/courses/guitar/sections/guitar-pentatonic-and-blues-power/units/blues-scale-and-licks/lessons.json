@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-04-15T00:04:12Z",
     "updatedAt": "2026-04-15T00:04:12Z"
+  },
+  {
+    "id": "blues-exit-ramp-in-a",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Exit Ramp in A",
+        "pt-BR": "Saída de Blues em Lá",
+        "es": "Salida de Blues en La",
+        "de": "Blues-Ausfahrt in A",
+        "ja": "Aブルースの出口ランプ",
+        "zh-Hans": "A布鲁斯出口匝道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape scale autopilot by aiming blues phrases at smart landing notes in A.",
+        "pt-BR": "Saia do piloto automático da escala mirando frases de blues em notas de chegada inteligentes em Lá.",
+        "es": "Sal de la escala en piloto automático apuntando tus frases de blues a notas de llegada inteligentes en La.",
+        "de": "Verlasse den Skalen-Autopiloten und lande deine Blues-Phrasen bewusst auf starken Zieltönen in A.",
+        "ja": "Aのブルースで着地点を意識し、スケールの自動運転から抜け出そう。",
+        "zh-Hans": "让你的布鲁斯乐句有意识地落在目标音上，摆脱机械跑音阶。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-06-04T00:07:09Z",
+    "updatedAt": "2026-06-04T00:07:09Z"
   }
 ]
