@@ -1342,5 +1342,33 @@
     "order": 48,
     "createdAt": "2026-06-04T00:07:09Z",
     "updatedAt": "2026-06-04T00:07:09Z"
+  },
+  {
+    "id": "bass-landing-pad-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Landing Pad Grooves",
+        "pt-BR": "Grooves com Pista de Pouso no Baixo",
+        "es": "Grooves con Pista de Aterrizaje en Bajo",
+        "de": "Landing-Pad-Grooves für Bass",
+        "ja": "ベースのランディングパッド・グルーヴ",
+        "zh-Hans": "贝斯的着陆坪 Groove"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove to leave the pocket and return with authority using scale tones, ghost notes, and smart landings.",
+        "pt-BR": "Treine seu groove para sair do pocket e voltar com autoridade usando notas da escala, ghost notes e aterrissagens inteligentes.",
+        "es": "Entrena tu groove para salir del pocket y volver con autoridad usando notas de la escala, ghost notes y aterrizajes inteligentes.",
+        "de": "Trainiere deinen Groove so, dass er das Pocket verlässt und mit Autorität zurückkehrt — mit Skalentönen, Ghost Notes und klugen Landungen.",
+        "ja": "スケール音、ゴーストノート、賢い着地を使って、ポケットから出ても強く戻れるグルーヴを鍛える。",
+        "zh-Hans": "用音阶音、幽灵音和聪明落点训练你的 groove，让它离开 pocket 后还能带着权威回来。"
+      }
+    },
+    "order": 49,
+    "createdAt": "2026-06-05T00:08:40Z",
+    "updatedAt": "2026-06-05T00:08:40Z"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "id": "guitar-burst-and-brake-phrasing",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **E minor pentatonic** or **G major**. Set a metronome to **76–92 bpm** and imagine you're driving a tiny race car: bursts of speed matter, but the brakes keep you on the track. Count **1 & 2 & 3 & 4 &** out loud before you play.",
+          "pt-BR": "Escolha **mi menor pentatônica** ou **sol maior**. Ajuste o metrônomo para **76–92 bpm** e imagine que você está dirigindo um carrinho de corrida: as explosões de velocidade importam, mas os freios mantêm você na pista. Conte **1 e 2 e 3 e 4 e** em voz alta antes de tocar.",
+          "es": "Elige **mi menor pentatónica** o **sol mayor**. Pon el metrónomo entre **76 y 92 bpm** e imagina que conduces un pequeño coche de carreras: los acelerones importan, pero los frenos te mantienen en la pista. Cuenta **1 y 2 y 3 y 4 y** en voz alta antes de tocar.",
+          "de": "Wähle **E-Moll-Pentatonik** oder **G-Dur**. Stell das Metronom auf **76–92 bpm** und stell dir vor, du fährst ein kleines Rennauto: Die Beschleunigungen zählen, aber die Bremsen halten dich auf der Strecke. Zähle **1 und 2 und 3 und 4 und** laut, bevor du spielst.",
+          "ja": "**Eマイナーペンタトニック** か **Gメジャー** を選びます。メトロノームを **76〜92 bpm** にして、自分が小さなレーシングカーを運転していると想像してください。加速は大事ですが、コースに残るにはブレーキも必要です。弾く前に **1と2と3と4と** を声に出して数えましょう。",
+          "zh-Hans": "选择 **E 小调五声音阶** 或 **G 大调**。把节拍器设在 **76–92 bpm**，想象你在开一辆小赛车：冲刺很重要，但刹车才能让你留在赛道上。开始前先大声数 **1和2和3和4和**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **burst test**. Play only **three-note scale fragments**, always starting on an upbeat. After each fragment, leave at least one eighth-note rest. Your goal is to make the silence feel like part of the phrase, not a mistake.",
+          "pt-BR": "A Rodada 1 é o **teste da explosão**. Toque apenas **fragmentos de três notas da escala**, sempre começando em uma parte fraca do tempo. Depois de cada fragmento, deixe pelo menos uma pausa de colcheia. O objetivo é fazer o silêncio soar como parte da frase, não como erro.",
+          "es": "La ronda 1 es la **prueba de acelerón**. Toca solo **fragmentos de tres notas de la escala**, siempre empezando en un contratiempo. Después de cada fragmento, deja al menos un silencio de corchea. La meta es que el silencio suene como parte de la frase, no como un error.",
+          "de": "Runde 1 ist der **Burst-Test**. Spiele nur **Drei-Noten-Skalenfragmente**, immer auf einem Offbeat beginnend. Nach jedem Fragment bleibt mindestens eine Achtelpause. Dein Ziel ist, dass die Stille wie Teil der Phrase klingt und nicht wie ein Fehler.",
+          "ja": "ラウンド1は **バーストテスト**。**3音だけのスケール断片** を、必ず裏拍から始めて弾きます。各断片のあとには少なくとも8分休符を1つ入れてください。目標は、沈黙をミスではなくフレーズの一部として聞かせることです。",
+          "zh-Hans": "第 1 轮是 **爆发测试**。只弹 **3 个音的音阶片段**，而且一定从离拍开始。每个片段之后至少留一个八分休止。目标是让沉默听起来像乐句的一部分，而不是失误。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **brake test**. On every second phrase, choke the last note early with your fretting hand so the ending sounds crisp. This teaches you that phrasing is not only about what rings — it's also about how cleanly you stop.",
+          "pt-BR": "A Rodada 2 é o **teste do freio**. Em cada segunda frase, abafe a última nota mais cedo com a mão da escala para que o final fique seco e definido. Isso ensina que fraseado não é só sobre o que soa — é também sobre como você para.",
+          "es": "La ronda 2 es la **prueba de freno**. En cada segunda frase, corta la última nota antes con la mano izquierda para que el final quede seco y claro. Esto te enseña que el fraseo no trata solo de lo que suena, sino también de cómo detienes el sonido.",
+          "de": "Runde 2 ist der **Brems-Test**. In jeder zweiten Phrase stoppst du den letzten Ton früh mit der Greifhand, damit das Ende trocken und klar klingt. So lernst du: Phrasierung besteht nicht nur aus dem, was klingt, sondern auch daraus, wie sauber du stoppst.",
+          "ja": "ラウンド2は **ブレーキテスト**。2回に1回のフレーズでは、最後の音を左手で早めに止めて、終わりをシャープにします。フレージングは鳴っている音だけでなく、どう止めるかでも決まると分かります。",
+          "zh-Hans": "第 2 轮是 **刹车测试**。每隔一句，就用按弦手提前闷掉最后一个音，让结尾又干又利落。这会让你体会到：乐句不只取决于音怎么响，也取决于你怎么停。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now build a **two-bar question-and-answer**. Bar 1 should climb with energy; bar 2 should answer by dropping or repeating with a different rhythm. Use the same scale notes, but make the rhythm tell the story.",
+          "pt-BR": "Agora monte uma **pergunta e resposta de dois compassos**. O compasso 1 deve subir com energia; o compasso 2 deve responder descendo ou repetindo com outro ritmo. Use as mesmas notas da escala, mas deixe o ritmo contar a história.",
+          "es": "Ahora construye una **pregunta y respuesta de dos compases**. El compás 1 debe subir con energía; el compás 2 debe responder bajando o repitiendo con otro ritmo. Usa las mismas notas de la escala, pero deja que el ritmo cuente la historia.",
+          "de": "Baue jetzt eine **Frage-und-Antwort über zwei Takte**. Takt 1 soll mit Energie aufsteigen; Takt 2 antwortet fallend oder wiederholend mit anderem Rhythmus. Nutze dieselben Skalentöne, aber lass den Rhythmus die Geschichte erzählen.",
+          "ja": "次に **2小節の問いかけと答え** を作ります。1小節目は勢いよく上昇し、2小節目は下降するか、別のリズムで繰り返して答えます。同じスケール音を使っても、物語を語るのはリズムです。",
+          "zh-Hans": "接着做一个 **两小节问答句**。第 1 小节要带着能量往上走，第 2 小节则用下行或不同节奏的重复来回答。音还是那些音阶音，但讲故事的是节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge mode: keep the same two-bar idea, but move one accent each repeat. First accent beat **2**, then the **& of 2**, then beat **4**. If the lick falls apart, simplify the notes and protect the groove.",
+          "pt-BR": "Modo desafio: mantenha a mesma ideia de dois compassos, mas mova um acento a cada repetição. Primeiro acentue o tempo **2**, depois o **e do 2**, depois o tempo **4**. Se o lick desmontar, simplifique as notas e proteja o groove.",
+          "es": "Modo desafío: conserva la misma idea de dos compases, pero mueve un acento en cada repetición. Primero acentúa el tiempo **2**, luego la **y de 2**, luego el tiempo **4**. Si el lick se cae, simplifica las notas y protege el groove.",
+          "de": "Challenge-Modus: Behalte die Zwei-Takt-Idee, aber verschiebe pro Wiederholung einen Akzent. Erst auf Schlag **2**, dann auf das **Und von 2**, dann auf Schlag **4**. Wenn das Lick auseinanderfällt, vereinfache die Töne und schütze den Groove.",
+          "ja": "チャレンジモードでは、同じ2小節のアイデアを保ったまま、毎回アクセントを1つずつ移動します。最初は **2拍目**、次は **2拍目の裏**、最後は **4拍目**。リックが崩れるなら、音数を減らしてグルーヴを守りましょう。",
+          "zh-Hans": "挑战模式：保持同样的两小节想法，但每次重复都移动一个重音。先重击 **第 2 拍**，再重击 **2 的“和”**，最后重击 **第 4 拍**。如果乐句散掉了，就减少音符，先保住 groove。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording **three takes**: one tight, one playful, one aggressive. Listen back and ask: **Which rests sounded coolest? Which stop felt cleanest? Which accent made the phrase hook hardest?** That's your map for the next solo.",
+          "pt-BR": "Termine gravando **três takes**: um firme, um brincalhão e um agressivo. Depois ouça e pergunte: **quais pausas soaram mais legais? Qual corte ficou mais limpo? Qual acento deixou a frase mais marcante?** Esse é o mapa para o próximo solo.",
+          "es": "Termina grabando **tres tomas**: una firme, una juguetona y una agresiva. Luego escucha y pregúntate: **¿qué silencios sonaron mejor? ¿Qué corte quedó más limpio? ¿Qué acento hizo la frase más pegadiza?** Ese es tu mapa para el próximo solo.",
+          "de": "Nimm zum Schluss **drei Takes** auf: einen tighten, einen verspielten und einen aggressiven. Hör zurück und frag dich: **Welche Pausen klangen am coolsten? Welcher Stopp war am saubersten? Welcher Akzent machte den Hook am stärksten?** Das ist deine Karte für das nächste Solo.",
+          "ja": "最後に **3テイク** 録音します。1つはタイトに、1つは遊び心を持って、1つはアグレッシブに。聞き返して **どの休符が一番かっこよかったか、どの止め方が一番きれいだったか、どのアクセントが最もフックを作ったか** を確認してください。それが次のソロへの地図になります。",
+          "zh-Hans": "最后录 **三遍**：一遍紧，一遍俏皮，一遍凶一点。回听时问自己：**哪种休止最酷？哪次收音最干净？哪个重音最有钩子感？** 这就是你下一个 solo 的路线图。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-05T00:07:19Z",
+  "updatedAt": "2026-06-05T00:07:19Z"
+}

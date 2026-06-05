@@ -1006,5 +1006,33 @@
     "order": 36,
     "createdAt": "2026-06-03T00:09:03Z",
     "updatedAt": "2026-06-03T00:09:03Z"
+  },
+  {
+    "id": "piano-accent-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Relay",
+        "pt-BR": "Revezamento de Acentos no Piano",
+        "es": "Relevo de Acentos en Piano",
+        "de": "Akzent-Staffel am Klavier",
+        "ja": "ピアノ・アクセントリレー",
+        "zh-Hans": "钢琴重音接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build cleaner scales by passing the accent between fingers, hands, and rhythms without losing tone.",
+        "pt-BR": "Construa escalas mais limpas passando o acento entre dedos, mãos e ritmos sem perder o timbre.",
+        "es": "Construye escalas más limpias pasando el acento entre dedos, manos y ritmos sin perder el sonido.",
+        "de": "Baue sauberere Tonleitern, indem du den Akzent zwischen Fingern, Händen und Rhythmen weitergibst, ohne den Klang zu verlieren.",
+        "ja": "アクセントを指・手・リズムの間で受け渡ししながら、音色を崩さずによりきれいなスケールを作る。",
+        "zh-Hans": "在不牺牲音色的前提下，把重音在手指、双手和节奏之间传递，练出更干净的音阶。"
+      }
+    },
+    "order": 37,
+    "createdAt": "2026-06-05T00:10:27Z",
+    "updatedAt": "2026-06-05T00:10:27Z"
   }
 ]

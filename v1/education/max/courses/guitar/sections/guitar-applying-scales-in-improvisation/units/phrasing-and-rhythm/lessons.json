@@ -698,5 +698,33 @@
     "order": 25,
     "createdAt": "2026-06-03T00:07:00Z",
     "updatedAt": "2026-06-03T00:07:00Z"
+  },
+  {
+    "id": "guitar-burst-and-brake-phrasing",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Burst-and-Brake Phrasing",
+        "pt-BR": "Fraseado de Explosão e Freio na Guitarra",
+        "es": "Fraseo de Acelerón y Freno en Guitarra",
+        "de": "Burst-und-Brems-Phrasierung für Gitarre",
+        "ja": "ギターのバースト＆ブレーキ・フレージング",
+        "zh-Hans": "吉他的爆发与刹车乐句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use short bursts, clean rests, and rhythmic pivots to make scale phrases sound intentional and alive.",
+        "pt-BR": "Use explosões curtas, pausas limpas e pivôs rítmicos para fazer frases de escala soarem intencionais e vivas.",
+        "es": "Usa ráfagas cortas, silencios limpios y pivotes rítmicos para que las frases de escala suenen intencionales y vivas.",
+        "de": "Nutze kurze Schübe, saubere Pausen und rhythmische Drehpunkte, damit Skalenphrasen absichtlich und lebendig klingen.",
+        "ja": "短い加速、きれいな休符、リズムの軸移動を使って、音階フレーズを意図的で生きたものにする。",
+        "zh-Hans": "用短促爆发、干净休止和节奏支点变化，让音阶乐句听起来更有意图、更有生命力。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-06-05T00:07:19Z",
+    "updatedAt": "2026-06-05T00:07:19Z"
   }
 ]

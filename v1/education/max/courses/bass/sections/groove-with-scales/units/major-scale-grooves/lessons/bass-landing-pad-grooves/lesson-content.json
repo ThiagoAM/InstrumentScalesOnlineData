@@ -1,0 +1,86 @@
+{
+  "id": "bass-landing-pad-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up in **A major** and imagine beat **1** as a landing pad with bright runway lights. Your fills are allowed to wander, but every bar must land back on that pad like you meant it. Start at **82–96 bpm** with a steady eighth-note pulse.",
+          "pt-BR": "Prepare-se em **lá maior** e imagine o tempo **1** como uma pista de pouso com luzes brilhando. Seus fills podem passear, mas cada compasso precisa pousar de volta ali como se fosse totalmente intencional. Comece entre **82–96 bpm** com pulsação constante de colcheias.",
+          "es": "Ponte en **la mayor** e imagina el tiempo **1** como una pista de aterrizaje iluminada. Tus fills pueden alejarse, pero cada compás debe volver a aterrizar allí como si fuera totalmente intencional. Empieza entre **82 y 96 bpm** con un pulso constante de corcheas.",
+          "de": "Starte in **A-Dur** und stell dir Schlag **1** als Landeplattform mit hellen Landelichtern vor. Deine Fills dürfen herumstreifen, aber jeder Takt muss wieder dort landen, als wäre es genau so geplant. Beginne bei **82–96 bpm** mit konstanten Achteln.",
+          "ja": "**Aメジャー** で準備し、**1拍目** を明るい誘導灯つきの着陸パッドだと考えます。フィルは少し飛び回ってもかまいませんが、各小節は必ず「狙って戻った」と感じられる着地をしてください。一定の8分音符の脈で **82〜96 bpm** から始めます。",
+          "zh-Hans": "在 **A 大调** 中开始，把 **第 1 拍** 想成一块灯火通明的着陆坪。你的 fill 可以出去逛一圈，但每一小节都必须像“我就是这么设计的”那样稳稳落回这里。用稳定的八分音符脉冲，从 **82–96 bpm** 开始。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First, build a one-bar groove using only **root, 3rd, 5th, 6th, and octave**. Play it four times until it feels boring in the best possible way. If the groove is not stable yet, decoration will only make the wobble louder.",
+          "pt-BR": "Primeiro, monte um groove de um compasso usando apenas **tônica, 3ª, 5ª, 6ª e oitava**. Toque quatro vezes até ficar \"chato\" do melhor jeito possível. Se o groove ainda não estiver estável, qualquer enfeite só vai ampliar a instabilidade.",
+          "es": "Primero construye un groove de un compás usando solo **tónica, 3ª, 5ª, 6ª y octava**. Tócalo cuatro veces hasta que se sienta aburrido en el mejor sentido. Si el groove todavía no es estable, cualquier adorno solo hará más visible el tambaleo.",
+          "de": "Baue zuerst einen eintaktigen Groove nur mit **Grundton, Terz, Quinte, Sexte und Oktave**. Spiele ihn viermal, bis er sich im besten Sinn langweilig anfühlt. Wenn der Groove noch nicht stabil ist, macht Verzierung das Wackeln nur deutlicher.",
+          "ja": "まずは **ルート、3度、5度、6度、オクターブ** だけで1小節のグルーヴを作ります。それを4回繰り返し、「良い意味で退屈」になるまで安定させましょう。土台がまだ揺れているなら、飾りは揺れを大きくするだけです。",
+          "zh-Hans": "先只用 **根音、3度、5度、6度和八度** 做一个一小节 groove。连续弹四遍，直到它以一种最好的方式变得“有点无聊”。如果 groove 还不稳，任何装饰都会把摇晃放大。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one **approach note** into beat 1 from above or below. The trick is to make the approach exciting without stealing weight from the landing. Think \"bounce, then boom\" instead of \"rush and hope.\"",
+          "pt-BR": "Agora adicione uma **nota de aproximação** chegando ao tempo 1 por cima ou por baixo. O truque é deixar a aproximação empolgante sem roubar o peso da aterrissagem. Pense em \"quica e pousa\" em vez de \"corre e torce\".",
+          "es": "Ahora añade una **nota de aproximación** hacia el tiempo 1 desde arriba o desde abajo. El truco es hacer emocionante la aproximación sin quitar peso al aterrizaje. Piensa en \"rebota y cae\" en vez de \"corre y espera\".",
+          "de": "Füge jetzt einen **Annäherungston** zu Schlag 1 hinzu, von oben oder von unten. Der Trick ist, die Annäherung spannend zu machen, ohne der Landung Gewicht zu nehmen. Denk eher „abfedern, dann einschlagen“ als „rennen und hoffen“.",
+          "ja": "次に、1拍目へ向かう **アプローチノート** を上からか下から1つ加えます。狙いは、着地の重さを奪わずに接近をワクワクさせることです。「突っ込んで祈る」ではなく、「弾んでから着地する」と考えましょう。",
+          "zh-Hans": "现在加一个通往第 1 拍的 **趋近音**，可以从上方来也可以从下方来。诀窍是让趋近很刺激，但不能偷走落点的重量。想的是“弹一下再砸实”，不是“冲过去再祈祷”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 adds **ghost notes** on weak subdivisions only. Put one before a real note, then one after a rest. Your mission is to make the line feel busier without making the drummer wish you would calm down.",
+          "pt-BR": "A Rodada 3 adiciona **ghost notes** apenas em subdivisões fracas. Coloque uma antes de uma nota real e outra depois de uma pausa. Sua missão é fazer a linha parecer mais ocupada sem fazer o baterista querer que você sossegue.",
+          "es": "La ronda 3 añade **ghost notes** solo en subdivisiones débiles. Coloca una antes de una nota real y otra después de un silencio. Tu misión es que la línea suene más activa sin hacer que el baterista desee que te tranquilices.",
+          "de": "Runde 3 bringt **Ghost Notes** nur auf schwachen Unterteilungen. Setze eine vor einen echten Ton und eine nach eine Pause. Deine Mission: die Linie geschäftiger wirken lassen, ohne dass der Drummer sich wünscht, du würdest endlich runterfahren.",
+          "ja": "ラウンド3では、**ゴーストノート** を弱い細分だけに入れます。本音の前に1つ、休符の後に1つ入れてみてください。目標は、ラインを忙しく感じさせながらも、ドラマーに「落ち着いてくれ」と思わせないことです。",
+          "zh-Hans": "第 3 轮加入 **幽灵音**，但只能放在弱细分上。先在一个实音前放一个，再在一个休止后放一个。你的任务是让线条显得更忙，却不要让鼓手开始希望你冷静一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a two-bar version where bar 1 stays low and bar 2 jumps to the octave once. Keep the return to beat 1 equally strong in both bars. If the octave jump feels flashy but weak, your landing pad needs more confidence.",
+          "pt-BR": "Monte uma versão de dois compassos em que o compasso 1 fica grave e o compasso 2 sobe para a oitava uma vez. Mantenha o retorno ao tempo 1 igualmente forte nos dois compassos. Se o salto de oitava soar exibido, mas fraco, sua pista de pouso ainda precisa de mais confiança.",
+          "es": "Construye una versión de dos compases donde el compás 1 se mantenga grave y el compás 2 salte una vez a la octava. Mantén igual de fuerte el regreso al tiempo 1 en ambos compases. Si el salto de octava suena vistoso pero débil, tu pista de aterrizaje necesita más confianza.",
+          "de": "Baue eine Zwei-Takt-Version, bei der Takt 1 tief bleibt und Takt 2 einmal zur Oktave springt. Die Rückkehr zu Schlag 1 muss in beiden Takten gleich stark sein. Wenn der Oktavsprung flashy, aber schwach wirkt, braucht deine Landeplattform mehr Selbstvertrauen.",
+          "ja": "次は2小節版。1小節目は低音域にとどまり、2小節目では1回だけオクターブへ跳びます。どちらの小節でも1拍目への戻りが同じ強さであること。オクターブ跳躍が派手でも弱く聞こえるなら、着地の自信がまだ足りません。",
+          "zh-Hans": "做一个两小节版本：第 1 小节保持低音区，第 2 小节只跳一次八度。两小节回到第 1 拍时都要一样有力。如果八度跳跃听起来很炫但很虚，你的着陆坪还需要更多自信。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge lap: play the groove four times, changing only one thing per repeat — note length, ghost-note placement, octave jump, or one passing tone. Record it and check: **Did the pocket stay huge? Did beat 1 still feel inevitable?** If yes, your line is grooving instead of merely moving.",
+          "pt-BR": "Volta desafio: toque o groove quatro vezes mudando apenas um elemento por repetição — duração de nota, posição das ghost notes, salto de oitava ou uma nota de passagem. Grave e confira: **o pocket continuou enorme? O tempo 1 ainda soou inevitável?** Se sim, sua linha está groovando em vez de apenas se mexer.",
+          "es": "Vuelta de desafío: toca el groove cuatro veces cambiando solo una cosa en cada repetición: duración de notas, colocación de ghost notes, salto de octava o una nota de paso. Grábalo y revisa: **¿el pocket siguió enorme? ¿El tiempo 1 aún se sintió inevitable?** Si sí, tu línea está grooveando y no solo moviéndose.",
+          "de": "Challenge-Runde: Spiele den Groove viermal und ändere pro Wiederholung nur eine Sache — Notenlänge, Platzierung der Ghost Notes, Oktavsprung oder einen Durchgangston. Nimm es auf und prüfe: **Blieb das Pocket riesig? Fühlte sich Schlag 1 immer noch unvermeidlich an?** Wenn ja, groovt deine Linie wirklich und bewegt sich nicht nur.",
+          "ja": "チャレンジ周回では、グルーヴを4回弾き、毎回変えるのは1要素だけにします。音の長さ、ゴーストノートの位置、オクターブ跳躍、または経過音のどれかです。録音して **ポケットは大きいままだったか、1拍目はまだ必然に感じられたか** を確認しましょう。Yes なら、そのラインはただ動いているのではなく、ちゃんとグルーヴしています。",
+          "zh-Hans": "挑战圈：把 groove 连弹四遍，每遍只改一个东西——音长、幽灵音位置、八度跳跃，或一个经过音。录下来检查：**pocket 还够大吗？第 1 拍还像命中注定一样吗？** 如果答案是肯定的，你的线条就在 groove，而不只是移动。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-05T00:08:40Z",
+  "updatedAt": "2026-06-05T00:08:40Z"
+}

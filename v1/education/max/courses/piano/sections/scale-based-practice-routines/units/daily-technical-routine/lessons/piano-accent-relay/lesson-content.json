@@ -1,0 +1,86 @@
+{
+  "id": "piano-accent-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **D major** and picture your hands as two relay teams passing a bright baton called **the accent**. Set the metronome to **72–88 bpm** and play two octaves hands together. Your goal is not brute speed — it is elegant handoff control.",
+          "pt-BR": "Escolha **ré maior** e imagine suas mãos como duas equipes de revezamento passando um bastão brilhante chamado **acento**. Ajuste o metrônomo para **72–88 bpm** e toque duas oitavas com as mãos juntas. O objetivo não é força bruta nem velocidade cega — é controle elegante na troca.",
+          "es": "Elige **re mayor** e imagina tus manos como dos equipos de relevo que se pasan una brillante antorcha llamada **acento**. Ajusta el metrónomo a **72–88 bpm** y toca dos octavas con manos juntas. La meta no es velocidad bruta, sino control elegante en el intercambio.",
+          "de": "Wähle **D-Dur** und stell dir deine Hände als zwei Staffelteams vor, die einen leuchtenden Stab namens **Akzent** weitergeben. Stell das Metronom auf **72–88 bpm** und spiele zwei Oktaven mit beiden Händen zusammen. Es geht nicht um rohe Geschwindigkeit, sondern um elegante Kontrolle bei der Übergabe.",
+          "ja": "**Dメジャー** を選び、両手を **アクセント** という光るバトンを渡し合う2つのリレーチームだと想像してください。メトロノームは **72〜88 bpm**、両手ユニゾンで2オクターブを弾きます。目標は力任せの速さではなく、受け渡しの上品なコントロールです。",
+          "zh-Hans": "选择 **D 大调**，把双手想成两支接力队，在传递一根叫做 **重音** 的发光接力棒。节拍器设在 **72–88 bpm**，双手齐弹两八度。目标不是蛮力提速，而是优雅而可控的交接。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 1: accent every **3rd note** while keeping the rest light. Listen for whether the strong notes pop because they are focused, not because everything else became nervous and loud.",
+          "pt-BR": "Volta 1: acentue cada **3ª nota** enquanto mantém o resto leve. Ouça se as notas fortes se destacam por foco, e não porque todo o resto ficou tenso e alto.",
+          "es": "Vuelta 1: acentúa cada **3ª nota** mientras mantienes el resto ligero. Escucha si las notas fuertes destacan por enfoque y no porque todo lo demás se volvió tenso y ruidoso.",
+          "de": "Runde 1: betone jede **3. Note**, während der Rest leicht bleibt. Hör genau hin, ob die starken Töne durch Fokus hervorstechen und nicht, weil alles andere nervös und laut wird.",
+          "ja": "ラップ1では、**3音ごと** にアクセントを置き、それ以外は軽く保ちます。強い音が際立つ理由が集中力であって、他の音が緊張して大きくなったからではないかを耳で確かめましょう。",
+          "zh-Hans": "第 1 圈：每 **第 3 个音** 加重音，其余音保持轻。仔细听，强音之所以突出，是因为更集中，而不是因为其他音都变得紧张又吵。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 2: keep the same tempo, but move the accent to every **4th note**. Suddenly the accent drifts across the bar, and your brain has to steer without the fingers panicking. If the scale tightens up, exhale and shrink the motion.",
+          "pt-BR": "Volta 2: mantenha o mesmo andamento, mas mova o acento para cada **4ª nota**. De repente o acento passeia pelo compasso, e seu cérebro precisa guiar sem deixar os dedos entrarem em pânico. Se a escala endurecer, solte o ar e reduza o movimento.",
+          "es": "Vuelta 2: mantén el mismo tempo, pero mueve el acento a cada **4ª nota**. De pronto el acento se desplaza por el compás y tu cerebro tiene que dirigir sin que los dedos entren en pánico. Si la escala se endurece, exhala y reduce el movimiento.",
+          "de": "Runde 2: behalte dasselbe Tempo, verschiebe den Akzent aber auf jede **4. Note**. Plötzlich wandert der Akzent durch den Takt, und dein Kopf muss steuern, ohne dass die Finger in Panik geraten. Wenn die Skala verkrampft, atme aus und verkleinere die Bewegung.",
+          "ja": "ラップ2では、同じテンポのままアクセントを **4音ごと** に移します。するとアクセントが小節の中を漂い始め、指を慌てさせずに頭でハンドルを取る必要があります。スケールが固くなったら、息を吐いて動きを小さくしてください。",
+          "zh-Hans": "第 2 圈：保持同样速度，但把重音改成每 **第 4 个音**。这时重音会在小节里漂移，你的大脑得掌舵，不能让手指慌起来。如果音阶发紧，就呼气，把动作缩小。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 3 is the **relay swap**. Let the right hand lead the first ascent with slightly brighter tone, then let the left hand lead the descent. The trick is to switch leadership without breaking the line or changing tempo.",
+          "pt-BR": "A Volta 3 é a **troca de bastão**. Deixe a mão direita liderar a subida com timbre um pouco mais brilhante, depois deixe a esquerda liderar a descida. O truque é trocar a liderança sem quebrar a linha nem mudar o tempo.",
+          "es": "La vuelta 3 es el **cambio de relevo**. Deja que la mano derecha lidere el ascenso con un tono un poco más brillante, y luego que la izquierda lidere el descenso. El truco es cambiar el liderazgo sin romper la línea ni alterar el tempo.",
+          "de": "Runde 3 ist der **Staffelwechsel**. Lass beim Aufstieg die rechte Hand mit etwas hellerem Ton führen und beim Abstieg die linke. Der Trick ist, die Führung zu wechseln, ohne die Linie zu zerbrechen oder das Tempo zu verändern.",
+          "ja": "ラップ3は **リレー交代** です。上行では右手が少し明るい音で先導し、下行では左手に主導権を渡します。ラインもテンポも崩さずにリーダーを切り替えるのがコツです。",
+          "zh-Hans": "第 3 圈是 **接力换手**。上行时让右手用稍亮一点的音色领跑，下行时改由左手领跑。关键是换领导权时，线条和速度都不能断。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now play one run in **eighth notes**, one in **triplets**, and one back in eighths. Keep the accent plan alive through all three. This teaches you that a good scale routine survives rhythmic costume changes.",
+          "pt-BR": "Agora toque uma execução em **colcheias**, outra em **tercinas**, e outra voltando às colcheias. Mantenha o plano de acentos vivo nas três. Isso ensina que uma boa rotina de escalas sobrevive a trocas de roupa rítmicas.",
+          "es": "Ahora toca una pasada en **corcheas**, otra en **tresillos** y otra de nuevo en corcheas. Mantén el plan de acentos vivo en las tres. Esto te enseña que una buena rutina de escalas sobrevive a cambios de disfraz rítmico.",
+          "de": "Spiele jetzt einen Durchgang in **Achteln**, einen in **Triolen** und einen wieder in Achteln. Der Akzentplan muss in allen drei erhalten bleiben. So lernst du, dass eine gute Tonleiter-Routine auch rhythmische Kostümwechsel überlebt.",
+          "ja": "次に **8分音符** で1回、**3連符** で1回、そしてもう一度8分音符で1回弾きます。3回ともアクセント計画を保ってください。優れたスケール練習は、リズムの衣装替えにも耐えると分かります。",
+          "zh-Hans": "接着弹一遍 **八分音符**、一遍 **三连音**，再回到一遍八分音符。三遍都要保持同样的重音计划。这会教你：好的音阶日课，经得起节奏换装。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: raise the metronome a tiny step and complete **three clean runs in a row**. After each run, rate your baton pass from 1 to 5: **Was the tone even? Did the accent travel smoothly? Did both thumbs stay relaxed?** If yes, your scale is starting to sound organized instead of merely correct.",
+          "pt-BR": "Desafio final: suba o metrônomo um passo pequeno e complete **três execuções limpas seguidas**. Após cada uma, dê uma nota de 1 a 5 para o passe do bastão: **o timbre ficou uniforme? O acento viajou com fluidez? Os dois polegares ficaram relaxados?** Se sim, sua escala está começando a soar organizada, e não apenas correta.",
+          "es": "Desafío final: sube el metrónomo un pequeño paso y completa **tres pasadas limpias seguidas**. Después de cada una, puntúa de 1 a 5 el pase del testigo: **¿el sonido fue parejo? ¿El acento viajó con fluidez? ¿Ambos pulgares se mantuvieron relajados?** Si sí, tu escala empieza a sonar organizada y no solo correcta.",
+          "de": "Finale Challenge: Erhöhe das Metronom minimal und schaffe **drei saubere Durchgänge hintereinander**. Bewerte nach jedem Durchgang die Stabübergabe von 1 bis 5: **War der Klang gleichmäßig? Wanderte der Akzent flüssig? Blieben beide Daumen locker?** Wenn ja, klingt deine Tonleiter langsam organisiert statt nur korrekt.",
+          "ja": "最後のチャレンジは、メトロノームをほんの少し上げて **3回連続でクリーンに通す** こと。各回のあと、バトンパスを1〜5で採点します。**音色は均一だったか、アクセントは滑らかに移動したか、両親指はリラックスしていたか。** これができれば、あなたのスケールは「正しいだけ」から「整理された音」へ変わり始めます。",
+          "zh-Hans": "最终挑战：把节拍器微微提高，然后 **连续完成 3 遍干净演奏**。每遍之后给这次接力打 1 到 5 分：**音色均匀吗？重音移动顺滑吗？两个拇指都放松吗？** 如果答案不错，你的音阶就开始从“只是正确”走向“真正有组织”。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-05T00:10:27Z",
+  "updatedAt": "2026-06-05T00:10:27Z"
+}
