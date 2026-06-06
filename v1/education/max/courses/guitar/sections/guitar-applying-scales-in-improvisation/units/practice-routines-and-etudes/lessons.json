@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-05-14T00:09:35Z",
     "updatedAt": "2026-05-14T00:09:35Z"
+  },
+  {
+    "id": "guitar-beat-swerve-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Beat Swerve Etude",
+        "pt-BR": "Estudo da Curva no Backbeat",
+        "es": "Estudio de Desvío en el Backbeat",
+        "de": "Backbeat-Swerve-Etüde",
+        "ja": "ビートスワーブ・エチュード",
+        "zh-Hans": "反拍漂移练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bend scale phrasing around the backbeat and make your solo land with swagger.",
+        "pt-BR": "Dobre o fraseado da escala em volta do backbeat e faça seu solo cair com atitude.",
+        "es": "Dobla el fraseo de la escala alrededor del backbeat y haz que tu solo caiga con carácter.",
+        "de": "Biege dein Skalen-Phrasing um den Backbeat und lass dein Solo mit Haltung landen.",
+        "ja": "スケールのフレージングをバックビートの周りでしならせ、ソロを気持ちよく着地させましょう。",
+        "zh-Hans": "让音阶乐句绕着反拍打弯，再帅气地落回拍点。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-06-06T00:06:38Z",
+    "updatedAt": "2026-06-06T00:06:38Z"
   }
 ]

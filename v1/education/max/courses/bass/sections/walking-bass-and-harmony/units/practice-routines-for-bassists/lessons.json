@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-05-16T00:07:55Z",
     "updatedAt": "2026-05-16T00:07:55Z"
+  },
+  {
+    "id": "bass-turnaround-tightrope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Turnaround Tightrope",
+        "pt-BR": "Corda Bamba do Turnaround",
+        "es": "Cuerda Floja del Turnaround",
+        "de": "Turnaround-Drahtseilakt",
+        "ja": "ターンアラウンド綱渡り",
+        "zh-Hans": "Turnaround钢索行走"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Balance scale motion and pocket as you walk a turnaround without slipping.",
+        "pt-BR": "Equilibre movimento de escala e pocket ao atravessar um turnaround sem escorregar.",
+        "es": "Equilibra movimiento de escala y pocket mientras cruzas un turnaround sin resbalar.",
+        "de": "Balanciere Skalenbewegung und Pocket, wenn du einen Turnaround ohne Ausrutscher durchläufst.",
+        "ja": "ターンアラウンドを渡るあいだ、スケールの動きとポケットを両立させましょう。",
+        "zh-Hans": "在不滑落的前提下，用音阶走向和 pocket 平衡好每一次 turnaround。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-06-06T00:06:38Z",
+    "updatedAt": "2026-06-06T00:06:38Z"
   }
 ]

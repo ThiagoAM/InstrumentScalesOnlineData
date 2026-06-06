@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-05-03T00:12:30Z",
     "updatedAt": "2026-05-03T00:12:30Z"
+  },
+  {
+    "id": "piano-cadence-catapult",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Cadence Catapult",
+        "pt-BR": "Catapulta da Cadência",
+        "es": "Catapulta de Cadencia",
+        "de": "Kadenz-Katapult",
+        "ja": "カデンツ・カタパルト",
+        "zh-Hans": "终止式弹射器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch scale ideas through cadences so your right hand lands with confidence and sparkle.",
+        "pt-BR": "Lance ideias de escala pelas cadências para a mão direita cair com confiança e brilho.",
+        "es": "Lanza ideas de escala a través de las cadencias para que la mano derecha aterrice con confianza y brillo.",
+        "de": "Schieße Skalenideen durch Kadenzen, damit deine rechte Hand mit Selbstvertrauen und Glanz landet.",
+        "ja": "カデンツに向かって音階のアイデアを打ち出し、右手を自信と輝きで着地させましょう。",
+        "zh-Hans": "把音阶想法弹射进终止式，让右手自信又闪亮地落地。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-06-06T00:06:39Z",
+    "updatedAt": "2026-06-06T00:06:39Z"
   }
 ]

@@ -1,0 +1,73 @@
+{
+  "id": "bass-turnaround-tightrope",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a **12-bar blues in G** or a simple **ii-V-I in C** to **76-84 BPM**. Today you are a tightrope walker: your bass line must keep the groove calm underneath while your scale choices carefully cross each turnaround without wobbling.",
+          "pt-BR": "Coloque um **blues de 12 compassos em Sol** ou um **ii-V-I em Dó** entre **76-84 BPM**. Hoje você é um equilibrista: sua linha de baixo precisa manter o groove calmo por baixo enquanto as escolhas de escala atravessam cada turnaround com cuidado, sem balançar.",
+          "es": "Pon un **blues de 12 compases en Sol** o un **ii-V-I en Do** a **76-84 BPM**. Hoy eres un funambulista: tu línea de bajo debe mantener el groove tranquilo por debajo mientras tus elecciones de escala cruzan cada turnaround con cuidado, sin tambalearse.",
+          "de": "Lege einen **12-taktigen Blues in G** oder ein einfaches **ii-V-I in C** bei **76-84 BPM** auf. Heute bist du ein Drahtseilkünstler: Deine Basslinie muss den Groove unten ruhig halten, während deine Skalenentscheidungen jeden Turnaround sicher und ohne Wackler überqueren.",
+          "ja": "**Gの12小節ブルース** か、シンプルな **Cのii-V-I** を **76-84 BPM** に設定してください。今日は綱渡りです。ベースラインは下で落ち着いたグルーヴを保ちつつ、スケールの選び方で各ターンアラウンドをふらつかずに渡らなければなりません。",
+          "zh-Hans": "把一个 **G调12小节布鲁斯** 或简单的 **C调 ii-V-I** 设在 **76-84 BPM**。今天你是走钢索的人：贝斯线要在下方稳稳托住 groove，同时用音阶走向小心穿过每个 turnaround，而且不能晃。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Tightrope setup\n- Keep your quarter notes **even and warm** first.\n- Use scale motion mostly on beats **3 and 4** when the next chord is coming.\n- Land beat 1 on a note that makes the harmony feel obvious.\n- If you add chromatic motion, make it lead somewhere with purpose.",
+          "pt-BR": "## Preparando a corda bamba\n- Mantenha as semínimas **iguais e quentes** primeiro.\n- Use movimento de escala principalmente nos tempos **3 e 4** quando o próximo acorde estiver chegando.\n- Faça o tempo 1 cair em uma nota que deixe a harmonia óbvia.\n- Se usar cromatismo, ele precisa levar a algum lugar com intenção.",
+          "es": "## Preparación de la cuerda floja\n- Mantén las negras **parejas y cálidas** primero.\n- Usa movimiento de escala sobre todo en los tiempos **3 y 4** cuando se acerca el siguiente acorde.\n- Haz que el tiempo 1 caiga en una nota que vuelva obvia la armonía.\n- Si añades cromatismo, que conduzca a algún lugar con intención.",
+          "de": "## Das Drahtseil aufspannen\n- Halte die Viertelnoten zuerst **gleichmäßig und warm**.\n- Nutze Skalenbewegung vor allem auf Zählzeit **3 und 4**, wenn der nächste Akkord näherkommt.\n- Lass Zählzeit 1 auf einem Ton landen, der die Harmonie sofort klar macht.\n- Wenn du chromatische Bewegung einsetzt, soll sie bewusst irgendwohin führen.",
+          "ja": "## 綱渡りの準備\n- まずは4分音符を **均等で温かい** 音に保ちます。\n- 次のコードが近づく **3拍目と4拍目** を中心にスケールの動きを使います。\n- 1拍目は、和声がはっきり分かる音に着地させます。\n- クロマチック音を入れるなら、必ず意味のある行き先を作りましょう。",
+          "zh-Hans": "## 钢索准备\n- 先把四分音符弹得 **均匀而温暖**。\n- 主要在下一和弦将到来时的 **第3拍和第4拍** 使用音阶移动。\n- 第1拍要落在一个让和声立刻清楚的音上。\n- 如果加入半音进行，它必须带着明确目的去往某处。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 1: one safe crossing\nPlay two bars where bar 1 stays simple on root, fifth, and octave. In bar 2, use a **three-note approach** from the scale to guide the ear into the next chord. The goal is not cleverness. The goal is making the band feel, “Yep, we have arrived.”",
+          "pt-BR": "## Exercício 1: uma travessia segura\nToque dois compassos em que o compasso 1 fique simples, com tônica, quinta e oitava. No compasso 2, use uma **aproximação de três notas** da escala para guiar o ouvido até o próximo acorde. O alvo não é ser esperto. O alvo é fazer a banda sentir: “sim, chegamos”.",
+          "es": "## Ejercicio 1: un cruce seguro\nToca dos compases donde el compás 1 sea simple con tónica, quinta y octava. En el compás 2, usa una **aproximación de tres notas** de la escala para guiar el oído hacia el siguiente acorde. La meta no es ser ingenioso. La meta es que la banda sienta: “sí, ya llegamos”.",
+          "de": "## Übung 1: eine sichere Überquerung\nSpiele zwei Takte, in denen Takt 1 schlicht auf Grundton, Quinte und Oktave bleibt. In Takt 2 führst du das Ohr mit einer **Drei-Ton-Annäherung** aus der Skala in den nächsten Akkord. Es geht nicht darum, clever zu wirken. Es geht darum, dass die Band spürt: „Ja, wir sind angekommen.“",
+          "ja": "## ドリル1：安全な横断\n2小節を使い、1小節目はルート、5度、オクターブでシンプルに保ちます。2小節目では、スケールからの **3音アプローチ** で次のコードへ耳を導いてください。狙いは気の利いた難しさではありません。バンド全体に「うん、着いた」と感じさせることです。",
+          "zh-Hans": "## 练习1：一次安全穿越\n弹两小节：第1小节保持简单，只用根音、五度和八度。第2小节用一个来自音阶的 **三音接近句**，把耳朵自然带向下一个和弦。目标不是耍聪明，而是让乐队都觉得：“对，我们到了。”"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 2: same path, more tension\nRepeat the same turnaround, but change only the final two beats. First use all diatonic notes, then try one chromatic approach tone. Compare the two versions and notice how a tiny change can make the line sound polite, bluesy, or sly without changing the pocket.",
+          "pt-BR": "## Exercício 2: mesmo caminho, mais tensão\nRepita o mesmo turnaround, mas mude apenas os dois últimos tempos. Primeiro use só notas diatônicas, depois experimente uma nota de aproximação cromática. Compare as duas versões e perceba como uma mudança mínima pode deixar a linha educada, blueseira ou malandra sem mexer no pocket.",
+          "es": "## Ejercicio 2: mismo camino, más tensión\nRepite el mismo turnaround, pero cambia solo los dos últimos tiempos. Primero usa solo notas diatónicas y luego prueba una nota cromática de aproximación. Compara ambas versiones y nota cómo un cambio diminuto puede volver la línea educada, blusera o pícara sin mover el pocket.",
+          "de": "## Übung 2: derselbe Weg, mehr Spannung\nWiederhole denselben Turnaround, ändere aber nur die letzten zwei Zählzeiten. Spiele zuerst nur diatonische Töne und probiere dann einen chromatischen Annäherungston. Vergleiche beide Versionen und hör, wie eine winzige Änderung die Linie höflich, bluesig oder listig wirken lassen kann, ohne den Pocket zu verschieben.",
+          "ja": "## ドリル2：同じ道でも緊張感を変える\n同じターンアラウンドを繰り返し、最後の2拍だけ変えます。最初はダイアトニックだけ、次はクロマチックのアプローチ音を1つ入れてみましょう。ごく小さな変化でも、ポケットを崩さずにラインの表情が上品にもブルージーにも、あるいは少しずる賢くも変わるのを感じてください。",
+          "zh-Hans": "## 练习2：同一路线，更大张力\n重复同一个 turnaround，但只改最后两拍。先全部使用自然音阶内音，再试一次加入一个半音接近音。比较这两个版本，感受一个极小的变化，如何在不改变 pocket 的前提下，让这条线听起来更规矩、更布鲁斯，或者更狡黠。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Final walk\nWrite an **8-bar walking study** with at least three clean turnarounds, one register jump, and one bar where you leave extra space on purpose. Record it and check whether the time stays heavy and relaxed. If the groove still feels trustworthy while the notes get more adventurous, you just learned the real bass trick: motion with authority.",
+          "pt-BR": "## Caminhada final\nEscreva um **estudo de walking de 8 compassos** com pelo menos três turnarounds limpos, um salto de registro e um compasso em que você deixe espaço extra de propósito. Grave e confira se o tempo continua pesado e relaxado. Se o groove seguir confiável enquanto as notas ficam mais ousadas, você aprendeu o verdadeiro truque do baixo: movimento com autoridade.",
+          "es": "## Caminata final\nEscribe un **estudio walking de 8 compases** con al menos tres turnarounds limpios, un salto de registro y un compás donde dejes espacio extra a propósito. Grábalo y revisa si el tiempo sigue pesado y relajado. Si el groove sigue siendo confiable mientras las notas se vuelven más atrevidas, acabas de aprender el verdadero truco del bajo: movimiento con autoridad.",
+          "de": "## Der finale Walk\nSchreibe eine **8-taktige Walking-Etüde** mit mindestens drei sauberen Turnarounds, einem Registersprüng und einem Takt, in dem du absichtlich mehr Luft lässt. Nimm sie auf und prüfe, ob die Zeit schwer und entspannt bleibt. Wenn der Groove verlässlich bleibt, während die Töne mutiger werden, hast du den echten Bass-Trick gelernt: Bewegung mit Autorität.",
+          "ja": "## 最後のウォーク\n少なくとも3回のきれいなターンアラウンド、1回の音域ジャンプ、そして意図的にスペースを増やす1小節を含んだ **8小節のウォーキング練習曲** を書いてください。録音して、時間感が重くリラックスしたままか確認します。音が冒険してもグルーヴが信頼できるままなら、本当のベースの技——権威ある動き——を身につけたことになります。",
+          "zh-Hans": "## 最后一次行走\n写一个 **8小节 walking 练习**，其中至少包含三次干净的 turnaround、一次音区跳跃，以及一小节刻意多留一些空间。录下来，检查时间感是否依旧厚实而放松。如果音符更大胆了，groove 却仍然可靠，你就学到了贝斯真正的诀窍：带着权威感去移动。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-06T00:06:38Z",
+  "updatedAt": "2026-06-06T00:06:38Z"
+}

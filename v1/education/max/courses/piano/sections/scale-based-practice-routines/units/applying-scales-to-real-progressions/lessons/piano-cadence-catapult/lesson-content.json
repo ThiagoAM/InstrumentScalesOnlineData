@@ -1,0 +1,73 @@
+{
+  "id": "piano-cadence-catapult",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a loop of **I-vi-ii-V-I in C major** at **80-92 BPM**. Your left hand provides light chord shells. Your right hand is the catapult: each scale fragment must launch early enough to build momentum, then land on the cadence with confidence instead of panic.",
+          "pt-BR": "Monte um loop de **I-vi-ii-V-I em Dó maior** entre **80-92 BPM**. A mão esquerda sustenta conduções leves de acordes. A mão direita é a catapulta: cada fragmento de escala precisa ser lançado cedo o bastante para ganhar impulso e cair na cadência com confiança, não com pânico.",
+          "es": "Prepara un loop de **I-vi-ii-V-I en Do mayor** a **80-92 BPM**. La mano izquierda sostiene posiciones ligeras de acordes. La mano derecha es la catapulta: cada fragmento de escala debe salir con suficiente impulso para aterrizar en la cadencia con seguridad y no con pánico.",
+          "de": "Richte einen Loop aus **I-vi-ii-V-I in C-Dur** bei **80-92 BPM** ein. Die linke Hand spielt leichte Akkord-Shells. Die rechte Hand ist das Katapult: Jedes Skalenfragment muss früh genug starten, um Schwung aufzubauen, und dann mit Selbstvertrauen statt Panik in der Kadenz landen.",
+          "ja": "**Cメジャーの I-vi-ii-V-I** を **80-92 BPM** でループさせます。左手は軽いコードシェルを担当します。右手はカタパルトです。各スケール断片は十分な勢いを作れるタイミングで発射され、あわててではなく自信を持ってカデンツへ着地しなければなりません。",
+          "zh-Hans": "把 **C大调 I-vi-ii-V-I** 做成 **80-92 BPM** 的循环。左手提供轻盈的和弦骨架，右手则是弹射器：每个音阶片段都要提前发射，积累足够的势能，然后在终止式上自信落地，而不是慌慌张张地砸下去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Catapult parts\n- Keep the right hand phrases to **4 or 5 notes** at first.\n- Aim the final note of each phrase at a **chord tone** on the new harmony.\n- Use a relaxed wrist so the landing note can sing instead of thud.\n- After every clean landing, pause for one breath before the next launch.",
+          "pt-BR": "## Peças da catapulta\n- Mantenha as frases da mão direita com **4 ou 5 notas** no começo.\n- Mire a nota final de cada frase em uma **nota do acorde** da nova harmonia.\n- Use o punho relaxado para que a nota de chegada cante em vez de bater seca.\n- Depois de cada chegada limpa, pare por uma respiração antes do próximo lançamento.",
+          "es": "## Piezas de la catapulta\n- Mantén las frases de la mano derecha en **4 o 5 notas** al principio.\n- Apunta la nota final de cada frase a una **nota del acorde** de la nueva armonía.\n- Usa una muñeca relajada para que la nota de llegada cante en vez de golpear.\n- Después de cada llegada limpia, haz una pausa de un aliento antes del siguiente lanzamiento.",
+          "de": "## Teile des Katapults\n- Halte die Phrasen der rechten Hand anfangs bei **4 oder 5 Tönen**.\n- Richte den letzten Ton jeder Phrase auf einen **Akkordton** der neuen Harmonie.\n- Halte das Handgelenk locker, damit der Landeton singen kann statt hart aufzuschlagen.\n- Nach jeder sauberen Landung machst du eine Atem-Pause vor dem nächsten Start.",
+          "ja": "## カタパルトの部品\n- 右手のフレーズは最初 **4音か5音** に抑えます。\n- 各フレーズの最後の音は、新しいハーモニーの **コードトーン** に向けます。\n- 手首をリラックスさせて、着地音が叩きつけられずに歌うように響くようにします。\n- きれいに着地したら、次の発射の前にひと呼吸置きましょう。",
+          "zh-Hans": "## 弹射器部件\n- 一开始把右手乐句控制在 **4或5个音**。\n- 每个乐句最后一个音都瞄准新和声里的 **和弦音**。\n- 手腕保持放松，让落点音能够歌唱，而不是发硬。\n- 每次漂亮落地之后，先停一口气，再进行下一次发射。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 1: rising launch\nBefore the **ii-V-I** portion, play a rising scale pickup that starts on beat 4 of the previous bar. Land on **D**, **F**, **G**, or **B** depending on the chord you are targeting. If the phrase sounds like it was pulled forward by gravity, you are shaping the cadence correctly.",
+          "pt-BR": "## Exercício 1: lançamento ascendente\nAntes da parte **ii-V-I**, toque uma preparação ascendente que comece no tempo 4 do compasso anterior. Aterre em **D**, **F**, **G** ou **B**, dependendo do acorde que você estiver mirando. Se a frase soar como se tivesse sido puxada pela gravidade, você está moldando a cadência do jeito certo.",
+          "es": "## Ejercicio 1: lanzamiento ascendente\nAntes de la parte **ii-V-I**, toca una preparación ascendente que empiece en el tiempo 4 del compás anterior. Aterriza en **D**, **F**, **G** o **B** según el acorde al que apuntes. Si la frase suena como si la gravedad la hubiera arrastrado hacia delante, estás dando forma correcta a la cadencia.",
+          "de": "## Übung 1: aufsteigender Start\nVor dem **ii-V-I**-Teil spielst du einen aufsteigenden Skalenauftakt, der auf Zählzeit 4 des vorherigen Takts beginnt. Lande je nach Zielakkord auf **D**, **F**, **G** oder **B**. Wenn die Phrase klingt, als würde die Schwerkraft sie nach vorn ziehen, formst du die Kadenz richtig.",
+          "ja": "## ドリル1：上向きの打ち上げ\n**ii-V-I** に入る前、前の小節の4拍目から始まる上行スケールのピックアップを弾きます。狙うコードに応じて **D**、**F**、**G**、**B** のいずれかに着地してください。フレーズが重力に引っぱられるように前へ進んで聞こえるなら、カデンツの形作りはうまくいっています。",
+          "zh-Hans": "## 练习1：上行发射\n进入 **ii-V-I** 之前，从前一小节第4拍开始弹一个上行音阶引子。根据你要瞄准的和弦，把落点放在 **D**、**F**、**G** 或 **B**。如果这个乐句听起来像被重力自然拉向前方，你就把终止式塑造对了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 2: mirror launch\nNow answer the same cadence with a descending version of the idea. Keep the rhythm nearly identical so your ears can compare contour rather than chaos. This is how you learn that scale practice becomes music when direction and destination cooperate.",
+          "pt-BR": "## Exercício 2: lançamento espelhado\nAgora responda à mesma cadência com uma versão descendente da ideia. Mantenha o ritmo quase igual para que seus ouvidos comparem o contorno, e não a confusão. É assim que você aprende que o estudo de escala vira música quando direção e destino cooperam.",
+          "es": "## Ejercicio 2: lanzamiento espejo\nAhora responde a la misma cadencia con una versión descendente de la idea. Mantén el ritmo casi idéntico para que tus oídos comparen el contorno y no el caos. Así aprendes que el estudio de escalas se vuelve música cuando dirección y destino cooperan.",
+          "de": "## Übung 2: Spiegelstart\nAntworte nun auf dieselbe Kadenz mit einer absteigenden Version der Idee. Halte den Rhythmus fast identisch, damit deine Ohren die Kontur vergleichen und nicht das Chaos. So lernst du, dass Skalenübung zu Musik wird, wenn Richtung und Ziel zusammenarbeiten.",
+          "ja": "## ドリル2：鏡の打ち上げ\n今度は同じカデンツに対して、下行版のアイデアで返答します。耳が混乱ではなく輪郭を比べられるよう、リズムはほぼ同じに保ってください。方向と着地点が協力するとき、スケール練習が音楽へ変わることをここで学びます。",
+          "zh-Hans": "## 练习2：镜像发射\n现在用同一个终止式，做一个下行版本的回应。节奏尽量保持几乎一样，这样耳朵比较的是轮廓，而不是混乱。你会在这里明白：当方向和目的地合作时，音阶练习才会真正变成音乐。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Grand finale\nCreate an **8-bar cadence study** with one rising launch, one descending launch, one octave shift, and one bar where the right hand leaves space while the left hand keeps the harmony alive. Record both hands together. If the cadence sounds inevitable rather than accidental, your scale work is starting to sparkle like performance material.",
+          "pt-BR": "## Grande final\nCrie um **estudo de cadência de 8 compassos** com um lançamento ascendente, um descendente, uma mudança de oitava e um compasso em que a mão direita deixa espaço enquanto a esquerda mantém a harmonia viva. Grave as duas mãos juntas. Se a cadência soar inevitável em vez de acidental, seu trabalho de escala já está brilhando como material de performance.",
+          "es": "## Gran final\nCrea un **estudio de cadencia de 8 compases** con un lanzamiento ascendente, uno descendente, un cambio de octava y un compás donde la mano derecha deje espacio mientras la izquierda mantiene viva la armonía. Graba ambas manos juntas. Si la cadencia suena inevitable en vez de accidental, tu trabajo de escalas ya empieza a brillar como material de interpretación.",
+          "de": "## Großes Finale\nErstelle eine **8-taktige Kadenz-Etüde** mit einem aufsteigenden Start, einem absteigenden Start, einem Oktavwechsel und einem Takt, in dem die rechte Hand Platz lässt, während die linke die Harmonie am Leben hält. Nimm beide Hände zusammen auf. Wenn die Kadenz unvermeidlich statt zufällig klingt, beginnt deine Skalenarbeit schon wie echtes Performance-Material zu funkeln.",
+          "ja": "## グランドフィナーレ\n上向きの打ち上げ1回、下向きの打ち上げ1回、オクターブ移動1回、そして右手が休みつつ左手が和声を保つ1小節を含んだ **8小節のカデンツ練習曲** を作ってください。両手を一緒に録音します。カデンツが偶然ではなく必然に聞こえたなら、あなたのスケール練習はすでに演奏素材の輝きを帯び始めています。",
+          "zh-Hans": "## 盛大收尾\n写一个 **8小节终止式练习**，其中包含一次上行发射、一次下行发射、一次八度切换，以及一小节右手留白而左手继续维持和声。把双手一起录下来。如果终止式听起来像必然发生，而不是侥幸撞上，你的音阶练习就已经开始闪出舞台上的光了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-06T00:06:39Z",
+  "updatedAt": "2026-06-06T00:06:39Z"
+}
