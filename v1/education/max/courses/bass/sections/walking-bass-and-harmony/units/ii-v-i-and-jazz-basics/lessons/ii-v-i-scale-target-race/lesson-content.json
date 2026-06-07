@@ -1,0 +1,86 @@
+{
+  "id": "ii-v-i-scale-target-race",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the race: play a **Dm7–G7–Cmaj7** loop and make your line sound calm even while your brain is busy. Your job is to walk with quarter notes, but every bar must clearly point to the next chord.",
+          "pt-BR": "Bem-vindo à corrida: toque um loop de **Dm7–G7–Cmaj7** e faça sua linha soar calma mesmo com o cérebro trabalhando rápido. Sua tarefa é caminhar com semínimas, mas cada compasso deve apontar claramente para o próximo acorde.",
+          "es": "Bienvenido a la carrera: toca un bucle de **Dm7–G7–Cmaj7** y haz que tu línea suene tranquila aunque tu cabeza vaya rápido. Tu tarea es caminar con negras, pero cada compás debe señalar con claridad al siguiente acorde.",
+          "de": "Willkommen beim Rennen: spiele einen **Dm7–G7–Cmaj7**-Loop und lass deine Linie ruhig klingen, auch wenn dein Kopf viel arbeitet. Deine Aufgabe ist ein Walking in Vierteln, aber jeder Takt muss klar auf den nächsten Akkord zeigen.",
+          "ja": "レースへようこそ。**Dm7–G7–Cmaj7** のループを弾きながら、頭の中が忙しくてもラインは落ち着いて聞こえるようにします。課題は4分音符で歩くこと。ただし各小節が次のコードをはっきり指し示さなければいけません。",
+          "zh-Hans": "欢迎来到这场竞速：循环弹 **Dm7–G7–Cmaj7**，即使脑子很忙，也要让你的线条听起来从容。你的任务是用四分音符 walking，但每一小节都必须清楚地指向下一个和弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 1: use only **root, 3rd, 5th, and 7th** of each chord. No passing tones yet. If the groove feels stiff, good—that means you can hear the skeleton before you dress it up.",
+          "pt-BR": "Volta 1: use apenas **tônica, 3ª, 5ª e 7ª** de cada acorde. Ainda sem notas de passagem. Se o groove parecer duro, ótimo — isso significa que você está ouvindo o esqueleto antes de vestir a linha.",
+          "es": "Vuelta 1: usa solo **tónica, 3.ª, 5.ª y 7.ª** de cada acorde. Todavía sin notas de paso. Si el groove se siente rígido, perfecto: eso significa que estás oyendo el esqueleto antes de vestir la línea.",
+          "de": "Runde 1: nutze nur **Grundton, 3, 5 und 7** jedes Akkords. Noch keine Durchgangstöne. Wenn sich der Groove steif anfühlt, ist das gut – so hörst du zuerst das Skelett, bevor du es ausschmückst.",
+          "ja": "1周目は **ルート、3度、5度、7度** だけを使います。まだ経過音は禁止です。グルーヴが少しかたく感じても大丈夫。飾る前に骨格を聞き取れている証拠です。",
+          "zh-Hans": "第一圈只用 **根音、3度、5度和7度**。暂时不要经过音。如果 groove 听起来有点硬，反而是好事——这说明你先听见了骨架，再去加装饰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 2: add exactly **one passing note** before beat 1 of each new bar. Choose a note a half step or whole step away from the next root or 3rd. The goal is tension with a clean arrival, not random wandering.",
+          "pt-BR": "Volta 2: adicione exatamente **uma nota de passagem** antes do tempo 1 de cada novo compasso. Escolha uma nota a meio tom ou um tom de distância da próxima tônica ou 3ª. A meta é criar tensão com chegada limpa, não sair passeando sem rumo.",
+          "es": "Vuelta 2: añade exactamente **una nota de paso** antes del tiempo 1 de cada compás nuevo. Elige una nota a medio tono o a un tono de la próxima tónica o 3.ª. La meta es crear tensión con una llegada limpia, no pasear sin rumbo.",
+          "de": "Runde 2: füge genau **einen Durchgangston** vor Schlag 1 jedes neuen Taktes hinzu. Wähle einen Ton im Halbton- oder Ganztonabstand zum nächsten Grundton oder zur nächsten 3. Das Ziel ist Spannung mit sauberer Ankunft, nicht zielloses Umherlaufen.",
+          "ja": "2周目では、新しい小節の1拍目の直前に **経過音を1つだけ** 入れます。次のルートか3度に対して半音または全音離れた音を選びましょう。目的は、適当なさまよいではなく、緊張からきれいに着地することです。",
+          "zh-Hans": "第二圈在每个新小节的第1拍前，准确加入 **一个经过音**。这个音要和下一个根音或3度相差半音或全音。目标是制造张力后干净落地，而不是随便乱逛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 3: keep the same harmony, but move one phrase to a **different string set or position**. Bass players win huge points when the time stays solid while the geography changes.",
+          "pt-BR": "Volta 3: mantenha a mesma harmonia, mas mova uma frase para **outra região ou outro jogo de cordas**. Baixistas ganham muitos pontos quando o tempo continua firme enquanto a geografia muda.",
+          "es": "Vuelta 3: mantén la misma armonía, pero mueve una frase a **otra posición o grupo de cuerdas**. Los bajistas ganan muchos puntos cuando el tiempo sigue sólido mientras cambia la geografía.",
+          "de": "Runde 3: behalte die gleiche Harmonie, verschiebe aber eine Phrase auf **einen anderen Saitensatz oder in eine andere Lage**. Bassist:innen sammeln viele Punkte, wenn die Zeit stabil bleibt, obwohl sich die Geografie verändert.",
+          "ja": "3周目ではハーモニーはそのままにして、1つのフレーズを **別のポジションや弦セット** に移します。場所が変わってもタイムが揺れないベーシストはとても強いです。",
+          "zh-Hans": "第三圈保持同样的和声，但把其中一句移到 **另一个把位或另一组弦** 上。当地理位置变了，时间感还能稳住，贝斯手就真的加分了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge mode: on the V chord, target the **3rd on beat 1** and the **b7 on beat 3**. That tiny rule makes the dominant bar sound much more like jazz and much less like generic scale practice.",
+          "pt-BR": "Modo desafio: no acorde V, mire a **3ª no tempo 1** e a **7ª menor no tempo 3**. Essa regra pequena faz o compasso dominante soar muito mais jazzístico e muito menos como prática genérica de escala.",
+          "es": "Modo desafío: en el acorde V, apunta a la **3.ª en el tiempo 1** y a la **7.ª menor en el tiempo 3**. Esa regla pequeña hace que el compás dominante suene mucho más jazzero y mucho menos a práctica genérica de escala.",
+          "de": "Challenge-Modus: Ziele im V-Akkord auf die **3 auf Schlag 1** und die **kleine 7 auf Schlag 3**. Diese kleine Regel lässt den Dominanttakt deutlich jazziger und viel weniger nach allgemeiner Skalenübung klingen.",
+          "ja": "チャレンジモードでは、Vコードで **1拍目に3度**、**3拍目に♭7** を狙います。この小さなルールだけで、ドミナントの小節がただのスケール練習ではなく、ぐっとジャズらしく聞こえます。",
+          "zh-Hans": "挑战模式：在 V 和弦上，第 **1拍瞄准3度**，第 **3拍瞄准小7度**。这个小规则会让属和弦小节更有爵士味，而不是普通的音阶练习。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Quick audit: record two choruses. In chorus 1, listen only for **time**. In chorus 2, listen only for **note choice**. Fix whichever one wobbles first, then do one final run with stronger muting and a deeper pocket.",
+          "pt-BR": "Auditoria rápida: grave dois choruses. No chorus 1, escute apenas o **tempo**. No chorus 2, escute apenas a **escolha de notas**. Corrija o que vacilar primeiro e depois faça uma última passada com abafamento mais forte e groove mais fundo.",
+          "es": "Auditoría rápida: graba dos coros. En el coro 1 escucha solo el **tiempo**. En el coro 2 escucha solo la **elección de notas**. Corrige primero lo que tambalee y luego haz una última pasada con mejor apagado y un groove más profundo.",
+          "de": "Kurzer Check: nimm zwei Chorusse auf. Höre im ersten Chorus nur auf die **Time**. Höre im zweiten Chorus nur auf die **Tonwahl**. Korrigiere zuerst, was wackelt, und spiele dann noch einmal mit saubererem Dämpfen und tieferem Pocket.",
+          "ja": "クイック確認: 2コーラス録音しましょう。1コーラス目は **タイム** だけ、2コーラス目は **音の選び方** だけを聴きます。先に揺れた方を直し、最後にミュートを整えてポケットを深くした状態でもう一度弾きます。",
+          "zh-Hans": "快速检查：录两遍 chorus。第一遍只听 **时间感**，第二遍只听 **选音**。先修正最先摇晃的部分，然后用更干净的止音和更深的 groove 再来最后一遍。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-07T00:07:58Z",
+  "updatedAt": "2026-06-07T00:07:58Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "two-hand-guide-tone-detours",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today’s puzzle: over **Cmaj7–A7–Dm7–G7**, your left hand plays guide tones while your right hand sneaks in scale color. The trick is to sound organized, not overcrowded.",
+          "pt-BR": "O desafio de hoje: sobre **Cmaj7–A7–Dm7–G7**, a mão esquerda toca guide tones enquanto a direita coloca cor de escala. O truque é soar organizado, não lotado.",
+          "es": "El reto de hoy: sobre **Cmaj7–A7–Dm7–G7**, la mano izquierda toca tonos guía mientras la derecha añade color de escala. El truco es sonar organizado, no saturado.",
+          "de": "Das heutige Rätsel: über **Cmaj7–A7–Dm7–G7** spielt die linke Hand Guide Tones, während die rechte Hand Skalenfarbe einschmuggelt. Der Trick ist, organisiert und nicht überladen zu klingen.",
+          "ja": "今日の課題は **Cmaj7–A7–Dm7–G7**。左手でガイドトーンを弾き、右手でスケールの色をそっと足します。ポイントは、音を詰め込むことではなく整理して聞かせることです。",
+          "zh-Hans": "今天的谜题是：在 **Cmaj7–A7–Dm7–G7** 上，左手弹导向音，右手加入音阶色彩。关键不是塞满音，而是让整体听起来有条理。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Step 1: in the left hand, play only the **3rd and 7th** of each chord as whole notes or half notes. In the right hand, answer with a tiny two- or three-note idea from the matching scale. Keep it conversational.",
+          "pt-BR": "Passo 1: na mão esquerda, toque apenas a **3ª e a 7ª** de cada acorde como semibreves ou mínimas. Na mão direita, responda com uma ideia curtinha de duas ou três notas da escala correspondente. Mantenha um clima de conversa.",
+          "es": "Paso 1: en la mano izquierda, toca solo la **3.ª y la 7.ª** de cada acorde como redondas o blancas. En la mano derecha, responde con una idea corta de dos o tres notas de la escala correspondiente. Mantén un carácter conversacional.",
+          "de": "Schritt 1: Spiele in der linken Hand nur die **3 und 7** jedes Akkords als ganze oder halbe Noten. Antworte in der rechten Hand mit einer kleinen Idee aus zwei oder drei Tönen der passenden Skala. Halte es gesprächsartig.",
+          "ja": "ステップ1: 左手では各コードの **3度と7度** だけを全音符または2分音符で弾きます。右手は対応するスケールから2音か3音の短いアイデアで返答します。会話のような流れを意識しましょう。",
+          "zh-Hans": "第1步：左手只弹每个和弦的 **3度和7度**，用全音符或二分音符都可以。右手则用对应音阶里的两三个音做一个短回应。把它弹得像对话。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Step 2: choose one rule for the right hand: every idea must **end on a chord tone**. That single constraint turns random runs into lines with gravity.",
+          "pt-BR": "Passo 2: escolha uma regra para a mão direita: toda ideia deve **terminar em uma nota do acorde**. Essa única restrição transforma corridas aleatórias em linhas com gravidade.",
+          "es": "Paso 2: elige una regla para la mano derecha: cada idea debe **terminar en un tono del acorde**. Esa sola restricción convierte las carreras aleatorias en líneas con gravedad.",
+          "de": "Schritt 2: Wähle eine Regel für die rechte Hand: Jede Idee muss **auf einem Akkordton enden**. Diese eine Einschränkung verwandelt zufällige Läufe in Linien mit Zugkraft.",
+          "ja": "ステップ2: 右手に1つルールを作ります。すべてのアイデアは **コードトーンで終わる** こと。この制約ひとつで、ばらばらの走句が重力のあるラインに変わります。",
+          "zh-Hans": "第2步：给右手设一条规则：每个小句都必须 **落在和弦音上**。这一条限制，就能把随意的跑动变成有重力的线条。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Step 3: now flip the energy. Let the right hand play a slightly longer phrase, but make the left hand move as little as possible between chord changes. Smooth voice leading is the hidden boss of this lesson.",
+          "pt-BR": "Passo 3: agora inverta a energia. Deixe a mão direita tocar uma frase um pouco maior, mas faça a esquerda se mover o mínimo possível entre as trocas de acorde. A condução suave de vozes é o chefão escondido desta lição.",
+          "es": "Paso 3: ahora invierte la energía. Deja que la mano derecha toque una frase un poco más larga, pero haz que la izquierda se mueva lo menos posible entre cambios de acorde. La conducción suave de voces es el jefe secreto de esta lección.",
+          "de": "Schritt 3: Jetzt drehst du die Energie um. Lass die rechte Hand eine etwas längere Phrase spielen, aber bewege die linke Hand zwischen den Akkordwechseln so wenig wie möglich. Geschmeidige Stimmführung ist der versteckte Endgegner dieser Lektion.",
+          "ja": "ステップ3: 次はエネルギーを反転させます。右手のフレーズを少し長くして、その代わり左手はコードチェンジの間でできるだけ動かさないようにします。滑らかなボイスリーディングこそ、このレッスンの隠れボスです。",
+          "zh-Hans": "第3步：现在把能量反过来。让右手弹得稍微长一点，但左手在和弦变化之间尽量少移动。平滑的声部连接，才是这节课真正的隐藏 boss。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge mode: on **A7**, borrow one spicy note from **A altered or A harmonic minor** for one beat only, then resolve cleanly into Dm7. A flash of tension is exciting; a traffic jam is not.",
+          "pt-BR": "Modo desafio: no **A7**, pegue uma nota mais picante de **A alterada ou A menor harmônica** por apenas um tempo e depois resolva limpo em Dm7. Um clarão de tensão é empolgante; um engarrafamento não.",
+          "es": "Modo desafío: en **A7**, toma una nota picante de **A alterada o A menor armónica** durante un solo tiempo y luego resuelve con limpieza hacia Dm7. Un destello de tensión es emocionante; un atasco no.",
+          "de": "Challenge-Modus: Leihe dir auf **A7** für genau einen Schlag einen würzigen Ton aus **A alteriert oder A harmonisch Moll** und löse dann sauber nach Dm7 auf. Ein kurzer Spannungsblitz ist spannend; ein Verkehrsstau nicht.",
+          "ja": "チャレンジモード: **A7** では **Aオルタード** か **Aハーモニックマイナー** から少し刺激の強い音を1拍だけ借り、そのあときれいに Dm7 へ解決します。緊張のひと閃きは魅力的ですが、渋滞は困ります。",
+          "zh-Hans": "挑战模式：在 **A7** 上，只用 **A altered** 或 **A 和声小调** 里的一个刺激音，持续一拍，然后干净地解决到 Dm7。短暂的张力很精彩，交通堵塞可不精彩。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Practice scorecard: after three repetitions, grade yourself from 1–5 on **balance, clarity, and release**. If balance is weak, play softer in the right hand. If clarity is weak, shorten the phrase. If release is weak, exaggerate the final resolution.",
+          "pt-BR": "Placar de estudo: depois de três repetições, dê uma nota de 1 a 5 para **equilíbrio, clareza e resolução**. Se o equilíbrio estiver fraco, toque mais baixo na mão direita. Se a clareza estiver fraca, encurte a frase. Se a resolução estiver fraca, exagere a chegada final.",
+          "es": "Tarjeta de práctica: después de tres repeticiones, califícate del 1 al 5 en **equilibrio, claridad y resolución**. Si falla el equilibrio, toca más suave con la derecha. Si falla la claridad, acorta la frase. Si falla la resolución, exagera la llegada final.",
+          "de": "Übungs-Scorecard: Nach drei Wiederholungen gib dir eine Note von 1 bis 5 für **Balance, Klarheit und Auflösung**. Wenn die Balance schwach ist, spiele rechts leiser. Wenn die Klarheit schwach ist, kürze die Phrase. Wenn die Auflösung schwach ist, übertreibe die letzte Zielnote.",
+          "ja": "練習スコアカード: 3回くり返したら、**バランス、明瞭さ、解決感** を1〜5で自己採点します。バランスが弱ければ右手を小さく、明瞭さが弱ければフレーズを短く、解決感が弱ければ最後の着地を大げさにしてみましょう。",
+          "zh-Hans": "练习评分卡：重复三次后，从 1 到 5 给自己评 **平衡、清晰度、解决感**。如果平衡差，就把右手弹轻一点；如果清晰度差，就把乐句缩短；如果解决感差，就把最后的解决再夸张一点。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-07T00:09:15Z",
+  "updatedAt": "2026-06-07T00:09:15Z"
+}

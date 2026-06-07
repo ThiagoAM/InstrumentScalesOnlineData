@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-05-07T00:08:28Z",
     "updatedAt": "2026-05-07T00:08:28Z"
+  },
+  {
+    "id": "connect-arpeggios-with-neighbor-notes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connect Arpeggios with Neighbor Notes",
+        "pt-BR": "Conecte arpejos com notas vizinhas",
+        "es": "Conecta arpegios con notas vecinas",
+        "de": "Verbinde Arpeggios mit Nebennoten",
+        "ja": "アルペジオを近隣音でつなごう",
+        "zh-Hans": "用邻近音连接琶音"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn chord tones into musical lines by adding smart scale detours.",
+        "pt-BR": "Transforme notas de acorde em linhas musicais com desvios inteligentes da escala.",
+        "es": "Convierte los tonos del acorde en líneas musicales con desvíos inteligentes de la escala.",
+        "de": "Verwandle Akkordtöne mit klugen Skalen-Umwegen in musikalische Linien.",
+        "ja": "スケールの寄り道を使ってコードトーンを音楽的なラインに変えよう。",
+        "zh-Hans": "用聪明的音阶绕行把和弦音变成真正的乐句。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-06-07T00:06:28Z",
+    "updatedAt": "2026-06-07T00:06:28Z"
   }
 ]

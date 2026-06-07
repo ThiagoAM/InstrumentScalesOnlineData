@@ -1,0 +1,86 @@
+{
+  "id": "connect-arpeggios-with-neighbor-notes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission: improvise over **Am7–D7–Gmaj7** while making every landing note feel intentional. Start with simple arpeggios, then decorate them with nearby scale notes so the line sounds like music instead of a spelling test.",
+          "pt-BR": "Sua missão: improvisar sobre **Am7–D7–Gmaj7** fazendo cada nota de chegada soar intencional. Comece com arpejos simples e depois enfeite com notas vizinhas da escala para a linha soar como música, não como um teste de soletrar notas.",
+          "es": "Tu misión: improvisar sobre **Am7–D7–Gmaj7** haciendo que cada nota de llegada suene intencional. Empieza con arpegios simples y luego decóralos con notas cercanas de la escala para que la línea suene musical y no como un examen de deletrear notas.",
+          "de": "Deine Mission: improvisiere über **Am7–D7–Gmaj7** und lass jede Zielnote bewusst klingen. Starte mit einfachen Arpeggios und schmücke sie dann mit benachbarten Skalentönen aus, damit die Linie wie Musik klingt und nicht wie ein Buchstabiertest.",
+          "ja": "今回のミッションは **Am7–D7–Gmaj7** の上で即興し、着地する音すべてを意図的に聞かせることです。まずはシンプルなアルペジオから始め、近くのスケール音で少し飾って、ただ音名を並べるのではなく音楽として響かせましょう。",
+          "zh-Hans": "你的任务是：在 **Am7–D7–Gmaj7** 上即兴，让每一个落点都显得有意识。先用简单的琶音，再加入附近的音阶音做装饰，让乐句听起来像音乐，而不是在背音名。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is your map. On each chord, find the **3rd and 7th** on one string set. Say them out loud, then play them as half notes. If you get lost, reset and find the guide tones again before adding anything fancy.",
+          "pt-BR": "A rodada 1 é o seu mapa. Em cada acorde, encontre a **3ª e a 7ª** no mesmo conjunto de cordas. Fale essas notas em voz alta e depois toque como semínimas. Se se perder, reinicie e ache as guide tones de novo antes de adicionar qualquer firula.",
+          "es": "La ronda 1 es tu mapa. En cada acorde, encuentra la **3.ª y la 7.ª** en un mismo juego de cuerdas. Dilas en voz alta y luego tócalas como blancas. Si te pierdes, reinicia y vuelve a encontrar los tonos guía antes de añadir algo más elegante.",
+          "de": "Runde 1 ist deine Karte. Finde bei jedem Akkord die **3 und 7** auf einem Saitensatz. Sprich sie laut aus und spiele sie dann als halbe Noten. Wenn du dich verirrst, setze zurück und finde die Guide Tones erneut, bevor du etwas Verzierung hinzufügst.",
+          "ja": "ラウンド1は地図作りです。各コードで **3度と7度** を同じ弦セット上に見つけてください。声に出して確認し、そのあと2分音符で弾きます。迷ったら、飾りを入れる前にガイドトーンをもう一度見つけ直しましょう。",
+          "zh-Hans": "第一轮是画地图。每个和弦都找出同一组弦上的 **3度和7度**。先大声说出来，再用二分音符弹出来。如果你迷路了，先重新找到这些导向音，再谈花样。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 adds motion. For every target tone, approach it from **one scale step above or below**. Example on Gmaj7: play A–B or C–B before you land on B. Keep the detour short and make the arrival strong.",
+          "pt-BR": "A rodada 2 adiciona movimento. Para cada nota-alvo, aproxime-se por **um grau acima ou abaixo na escala**. Exemplo em Gmaj7: toque A–B ou C–B antes de chegar no B. Mantenha o desvio curto e faça a chegada soar firme.",
+          "es": "La ronda 2 añade movimiento. Para cada nota objetivo, acércate desde **un paso de escala arriba o abajo**. Ejemplo en Gmaj7: toca A–B o C–B antes de caer en B. Mantén el desvío corto y haz que la llegada sea clara.",
+          "de": "Runde 2 bringt Bewegung. Nähere dich jedem Zielton von **einem Skalenschritt darüber oder darunter**. Beispiel auf Gmaj7: spiele A–B oder C–B, bevor du auf B landest. Halte den Umweg kurz und die Ankunft deutlich.",
+          "ja": "ラウンド2では動きを足します。各ターゲット音に対して **スケールの1音上か1音下** から近づきます。Gmaj7なら、Bに着地する前に A–B または C–B を弾きます。寄り道は短く、着地ははっきりさせましょう。",
+          "zh-Hans": "第二轮加入移动感。每个目标音都从 **上方或下方一个音阶级** 接近。比如在 Gmaj7 上，落到 B 之前先弹 A–B 或 C–B。绕行要短，落点要稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 adds rhythm pressure. Use only **eighth notes**, and force yourself to leave a tiny rest after each chord change. That pause is not weakness—it gives your phrase shape and stops your fingers from rambling.",
+          "pt-BR": "A rodada 3 adiciona pressão rítmica. Use apenas **colcheias** e se obrigue a deixar uma pequena pausa após cada troca de acorde. Essa pausa não é fraqueza — ela dá forma à frase e impede seus dedos de falarem demais.",
+          "es": "La ronda 3 añade presión rítmica. Usa solo **corcheas** y oblígate a dejar un pequeño silencio después de cada cambio de acorde. Esa pausa no es debilidad: le da forma a la frase y evita que tus dedos hablen de más.",
+          "de": "Runde 3 bringt rhythmischen Druck. Spiele nur **Achtelnoten** und zwinge dich, nach jedem Akkordwechsel eine kleine Pause zu lassen. Diese Pause ist keine Schwäche – sie gibt deiner Phrase Form und verhindert, dass deine Finger drauflosreden.",
+          "ja": "ラウンド3ではリズムの圧をかけます。使ってよいのは **8分音符だけ**。さらにコードが変わるたびに小さな休符を入れてください。その休みがフレーズに形を与え、指がしゃべりすぎるのを防ぎます。",
+          "zh-Hans": "第三轮加入节奏压力。只准用 **八分音符**，并且每次和弦转换后都要故意留一个小空隙。这个停顿不是示弱，它会让你的乐句更有形状，也能防止手指一直唠叨。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge mode: in bar 1 start on the **7th**, in bar 2 land on the **3rd**, and in bar 3 resolve to the **9th** if it sounds good. You are training your ear to hear color tones as destinations, not accidents.",
+          "pt-BR": "Modo desafio: no compasso 1 comece na **7ª**, no compasso 2 chegue na **3ª** e no compasso 3 resolva na **9ª** se soar bem. Você está treinando o ouvido para ouvir tensões como destinos, não como acidentes.",
+          "es": "Modo desafío: en el compás 1 empieza en la **7.ª**, en el compás 2 llega a la **3.ª**, y en el compás 3 resuelve en la **9.ª** si suena bien. Estás entrenando el oído para escuchar los colores como destinos y no como accidentes.",
+          "de": "Challenge-Modus: Beginne in Takt 1 auf der **7**, lande in Takt 2 auf der **3** und löse in Takt 3 auf die **9** auf, wenn es gut klingt. Du trainierst dein Ohr darauf, Farbklänge als Ziele zu hören und nicht als Zufall.",
+          "ja": "チャレンジモードです。1小節目は **7度** から始め、2小節目は **3度** に着地し、3小節目は響きがよければ **9度** に解決します。テンションを偶然ではなく行き先として聞く耳を育てる練習です。",
+          "zh-Hans": "挑战模式：第1小节从 **7度** 开始，第2小节落在 **3度**，第3小节如果好听就解决到 **9度**。你在训练耳朵把色彩音听成目的地，而不是意外。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mini reflection: record one chorus. Ask yourself three questions: **Did I clearly hear the chord change? Did my detours sound smooth? Did the rhythm breathe?** Fix one weak spot and run the chorus again immediately.",
+          "pt-BR": "Mini reflexão: grave um chorus. Pergunte três coisas: **Eu ouvi claramente a troca de acorde? Meus desvios soaram suaves? O ritmo respirou?** Corrija um ponto fraco e toque o chorus outra vez imediatamente.",
+          "es": "Mini reflexión: graba un coro. Hazte tres preguntas: **¿Oí claramente el cambio de acorde? ¿Mis desvíos sonaron suaves? ¿El ritmo respiró?** Corrige un punto débil y toca el coro otra vez de inmediato.",
+          "de": "Mini-Reflexion: Nimm einen Chorus auf. Frage dich drei Dinge: **Habe ich den Akkordwechsel klar gehört? Klang mein Umweg flüssig? Hat der Rhythmus geatmet?** Korrigiere eine Schwachstelle und spiele den Chorus sofort noch einmal.",
+          "ja": "ミニふり返り: 1コーラス録音しましょう。**コードチェンジははっきり聞こえたか？ 寄り道は滑らかだったか？ リズムは呼吸していたか？** この3つを確認し、弱い部分を1つ直してすぐにもう一度弾きます。",
+          "zh-Hans": "小复盘：录一遍一个 chorus。问自己三个问题：**我有清楚听到和弦变化吗？ 我的绕行够顺吗？ 节奏有呼吸感吗？** 找出一个弱点，马上再录一遍。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-07T00:06:28Z",
+  "updatedAt": "2026-06-07T00:06:28Z"
+}
