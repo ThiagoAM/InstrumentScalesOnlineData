@@ -1370,5 +1370,33 @@
     "order": 49,
     "createdAt": "2026-06-05T00:08:40Z",
     "updatedAt": "2026-06-05T00:08:40Z"
+  },
+  {
+    "id": "bass-pocket-switchyard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Bass Pocket Switchyard\"",
+        "pt-BR": "\"Pátio de Manobras do Pocket no Baixo\"",
+        "es": "\"Patio de Desvíos del Pocket en Bajo\"",
+        "de": "\"Bass-Pocket-Rangierbahnhof\"",
+        "ja": "\"ベース・ポケット操車場\"",
+        "zh-Hans": "\"贝斯 Pocket 调车场\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Route major-scale notes, ghost notes, and rests through a groove map that keeps your time sturdy and your line alive.\"",
+        "pt-BR": "\"Desvie notas da escala maior, ghost notes e pausas por um mapa de groove que mantém o tempo firme e a linha viva.\"",
+        "es": "\"Enruta notas de escala mayor, ghost notes y silencios por un mapa de groove que mantenga el tiempo firme y la línea viva.\"",
+        "de": "\"Leite Durtonleiter-Töne, Ghost Notes und Pausen durch einen Groove-Plan, der dein Timing stabil und deine Linie lebendig hält.\"",
+        "ja": "\"メジャースケールの音、ゴーストノート、休符をうまく振り分けて、時間感は堅く、ラインは生き生き保とう。\"",
+        "zh-Hans": "\"把大调音阶音、幽灵音和休止重新编组进 groove 地图里，让时间感稳固、线条鲜活。\""
+      }
+    },
+    "order": 50,
+    "createdAt": "2026-06-08T00:08:08Z",
+    "updatedAt": "2026-06-08T00:08:08Z"
   }
 ]

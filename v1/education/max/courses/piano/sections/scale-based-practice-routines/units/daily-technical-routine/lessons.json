@@ -1034,5 +1034,33 @@
     "order": 37,
     "createdAt": "2026-06-05T00:10:27Z",
     "updatedAt": "2026-06-05T00:10:27Z"
+  },
+  {
+    "id": "piano-accent-ziplines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Piano Accent Ziplines\"",
+        "pt-BR": "\"Tirolesas de Acento no Piano\"",
+        "es": "\"Tirolesas de Acento en Piano\"",
+        "de": "\"Akzent-Seilbahnen am Klavier\"",
+        "ja": "\"ピアノ・アクセント滑空路\"",
+        "zh-Hans": "\"钢琴重音滑索\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Send your scales across fast accent paths while both hands stay balanced, relaxed, and musically in control.\"",
+        "pt-BR": "\"Faça suas escalas cruzarem trilhas rápidas de acentos enquanto as duas mãos seguem equilibradas, soltas e no controle musical.\"",
+        "es": "\"Haz que tus escalas crucen rutas rápidas de acentos mientras ambas manos siguen equilibradas, sueltas y con control musical.\"",
+        "de": "\"Schicke deine Tonleitern über schnelle Akzentspuren, während beide Hände ausgeglichen, locker und musikalisch kontrolliert bleiben.\"",
+        "ja": "\"アクセントの高速ラインを通っても、両手のバランスと脱力、音楽的コントロールを保ちながらスケールを弾こう。\"",
+        "zh-Hans": "\"让音阶沿着快速重音路线前进，同时保持双手平衡、放松，并维持音乐性的控制。\""
+      }
+    },
+    "order": 38,
+    "createdAt": "2026-06-08T00:09:31Z",
+    "updatedAt": "2026-06-08T00:09:31Z"
   }
 ]

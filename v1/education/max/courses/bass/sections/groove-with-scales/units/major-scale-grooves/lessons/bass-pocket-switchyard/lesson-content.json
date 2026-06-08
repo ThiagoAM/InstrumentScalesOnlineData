@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-switchyard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a 2-bar groove in G major using only root, 2nd, 3rd, and 5th. In bar 1, play a simple line that sounds dependable enough to loop forever.",
+          "pt-BR": "Comece com um groove de 2 compassos em Sol maior usando apenas tônica, 2ª, 3ª e 5ª. No compasso 1, toque uma linha simples que soe confiável o bastante para repetir para sempre.",
+          "es": "Empieza con un groove de 2 compases en Sol mayor usando solo tónica, 2ª, 3ª y 5ª. En el compás 1, toca una línea simple que suene lo bastante confiable como para repetirla para siempre.",
+          "de": "Beginne mit einem 2-taktigen Groove in G-Dur und nutze nur Grundton, 2., 3. und 5. Stufe. Spiele im ersten Takt eine einfache Linie, die so verlässlich klingt, dass sie ewig laufen könnte.",
+          "ja": "まずはGメジャーで2小節のグルーヴを作ります。使うのはルート、2度、3度、5度だけです。1小節目は、ずっとループしても成立するくらい信頼できるシンプルなラインを弾きましょう。",
+          "zh-Hans": "先在G大调里做一个2小节 groove，只用根音、2级、3级和5级。第1小节先弹一条足够可靠、好像可以无限循环下去的简单线条。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In bar 2, keep the same harmonic job but reroute the groove with one ghost note and one eighth-note rest. The challenge is to change the surface without weakening the pocket.",
+          "pt-BR": "No compasso 2, mantenha a mesma função harmônica, mas redirecione o groove com uma ghost note e uma pausa de colcheia. O desafio é mudar a superfície sem enfraquecer o pocket.",
+          "es": "En el compás 2, mantén la misma función armónica, pero redirige el groove con una ghost note y un silencio de corchea. El reto es cambiar la superficie sin debilitar el pocket.",
+          "de": "Im zweiten Takt behältst du dieselbe harmonische Aufgabe, leitest den Groove aber mit einer Ghost Note und einer Achtelpause um. Die Oberfläche soll sich ändern, ohne dass das Pocket schwächer wird.",
+          "ja": "2小節目では、同じハーモニーの役割を保ちながら、ゴーストノート1つと8分休符1つで流れを切り替えます。表面を変えても、ポケットは弱くしないのが課題です。",
+          "zh-Hans": "到第2小节时，保持同样的和声职责，但用一个幽灵音和一个八分休止来改道。挑战在于：表面变了，pocket 不能变弱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, make three versions of the same groove: one that lands hard on beat 1, one that delays the strongest note until beat 2, and one that makes beat 4 the setup instead of the finish. Listen for which version still feels best in your body.",
+          "pt-BR": "Agora faça três versões do mesmo groove: uma aterrissando forte no tempo 1, outra segurando a nota mais forte até o tempo 2, e outra usando o tempo 4 como preparação em vez de chegada. Ouça qual versão ainda faz mais sentido no seu corpo.",
+          "es": "Ahora crea tres versiones del mismo groove: una que caiga fuerte en el tiempo 1, otra que retrase la nota más fuerte hasta el tiempo 2 y otra que convierta el tiempo 4 en preparación en lugar de final. Escucha cuál sigue sintiéndose mejor en el cuerpo.",
+          "de": "Baue nun drei Versionen desselben Grooves: eine mit harter Landung auf Zählzeit 1, eine mit dem stärksten Ton erst auf Zählzeit 2 und eine, bei der Zählzeit 4 die Vorbereitung statt des Endpunkts ist. Höre, welche Version sich körperlich am besten anfühlt.",
+          "ja": "次に同じグルーヴを3パターン作ります。1拍目に強く着地するもの、いちばん強い音を2拍目まで遅らせるもの、4拍目を終点ではなく助走にするものです。どれが体にいちばん自然に入るか聴いてください。",
+          "zh-Hans": "接着把同一个 groove 做成三个版本：一个在第1拍重重落地，一个把最强的音拖到第2拍，一个让第4拍变成铺垫而不是句号。听听哪一种在你身体里最成立。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Put on a metronome that only clicks beats 2 and 4. Play your groove for 8 rounds, and every two rounds swap a single note for a neighboring scale tone. Tiny changes should create motion, not panic.",
+          "pt-BR": "Ligue um metrônomo marcando só os tempos 2 e 4. Toque o groove por 8 voltas e, a cada duas voltas, troque uma única nota por um grau vizinho da escala. Mudanças pequenas devem criar movimento, não pânico.",
+          "es": "Pon un metrónomo que solo marque los tiempos 2 y 4. Toca tu groove durante 8 vueltas y, cada dos vueltas, cambia una sola nota por un grado vecino de la escala. Los cambios pequeños deben crear movimiento, no pánico.",
+          "de": "Stell ein Metronom ein, das nur auf 2 und 4 klickt. Spiele den Groove 8 Durchläufe lang und tausche alle zwei Durchläufe genau einen Ton gegen einen benachbarten Skalenton aus. Kleine Änderungen sollen Bewegung schaffen, nicht Panik.",
+          "ja": "2拍目と4拍目だけ鳴るメトロノームを使いましょう。8周弾き、2周ごとに1音だけ隣のスケール音へ入れ替えます。小さな変化は動きを作るのであって、焦りを作るものではありません。",
+          "zh-Hans": "打开只在第2拍和第4拍响的节拍器。连续弹8轮，每两轮只把一个音换成相邻的音阶音。微小变化应该制造流动，而不是制造惊慌。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final test: invent a turnaround for the last half of bar 2 that points back to the root without sounding like a default fill. If the groove gets busy, remove notes until the pocket wins again.",
+          "pt-BR": "Teste final: invente um turnaround para a segunda metade do compasso 2 que aponte de volta para a tônica sem soar como um fill automático. Se o groove ficar ocupado demais, remova notas até o pocket vencer de novo.",
+          "es": "Prueba final: inventa un turnaround para la segunda mitad del compás 2 que apunte de vuelta a la tónica sin sonar como un fill por defecto. Si el groove se carga demasiado, quita notas hasta que vuelva a ganar el pocket.",
+          "de": "Abschlusstest: Erfinde für die zweite Hälfte von Takt 2 einen Turnaround, der zurück zum Grundton weist, ohne wie ein Standard-Fill zu klingen. Wenn der Groove zu voll wird, nimm Töne weg, bis das Pocket wieder gewinnt.",
+          "ja": "最後のテストです。2小節目後半に、ありきたりなフィルではなく、ルートへ戻る意志が見えるターンアラウンドを作ってください。忙しくなりすぎたら、ポケットが勝つまで音を減らしましょう。",
+          "zh-Hans": "最终测试：为第2小节后半段设计一个 turnaround，让它明确指回根音，但又别像默认填充句。如果 groove 变得太拥挤，就删音，直到 pocket 再次获胜。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-08T00:08:08Z",
+  "updatedAt": "2026-06-08T00:08:08Z"
+}

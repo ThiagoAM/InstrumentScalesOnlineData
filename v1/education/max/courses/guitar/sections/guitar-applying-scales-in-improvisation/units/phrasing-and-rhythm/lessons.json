@@ -726,5 +726,33 @@
     "order": 26,
     "createdAt": "2026-06-05T00:07:19Z",
     "updatedAt": "2026-06-05T00:07:19Z"
+  },
+  {
+    "id": "guitar-rhythm-switchback-radar",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Guitar Rhythm Switchback Radar\"",
+        "pt-BR": "\"Radar de Curvas Rítmicas na Guitarra\"",
+        "es": "\"Radar de Curvas Rítmicas en Guitarra\"",
+        "de": "\"Rhythmus-Kehrradar für Gitarre\"",
+        "ja": "\"ギターのリズム切り返しレーダー\"",
+        "zh-Hans": "\"吉他节奏回转雷达\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Track where your phrase bends away from the beat, then guide it back with cleaner scale timing and sharper intent.\"",
+        "pt-BR": "\"Perceba quando sua frase desvia da batida e traga tudo de volta com timing mais limpo e intenção mais forte.\"",
+        "es": "\"Detecta cuándo tu frase se desvía del pulso y guíala de vuelta con mejor timing y más intención.\"",
+        "de": "\"Höre, wann deine Phrase vom Beat abbiegt, und führe sie mit saubererem Timing und klarerer Absicht zurück.\"",
+        "ja": "\"フレーズが拍からそれる瞬間を見つけ、より正確なタイミングと意図で戻していこう。\"",
+        "zh-Hans": "\"听出乐句何时偏离拍点，再用更干净的时值和更明确的意图把它带回来。\""
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-06-08T00:07:01Z",
+    "updatedAt": "2026-06-08T00:07:01Z"
   }
 ]

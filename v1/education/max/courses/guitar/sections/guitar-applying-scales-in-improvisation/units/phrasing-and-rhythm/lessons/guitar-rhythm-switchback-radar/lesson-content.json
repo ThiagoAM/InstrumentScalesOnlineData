@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-switchback-radar",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a short phrase in A Dorian using only 4 notes at first. Play it twice exactly, then on the third round move the last note an eighth-note earlier. Your job is to hear the \"swerve\" without losing the pulse.",
+          "pt-BR": "Monte uma frase curta em Lá dórico usando só 4 notas no começo. Toque duas vezes exatamente igual e, na terceira, antecipe a última nota em uma colcheia. Sua missão é ouvir essa \"curva\" sem perder o pulso.",
+          "es": "Construye una frase corta en La dórico usando solo 4 notas al principio. Tócala dos veces exactamente igual y, en la tercera, adelanta la última nota una corchea. Tu trabajo es escuchar ese \"desvío\" sin perder el pulso.",
+          "de": "Baue zuerst eine kurze Phrase in A-Dorisch mit nur 4 Tönen. Spiele sie zweimal exakt gleich und ziehe beim dritten Durchgang den letzten Ton um eine Achtel nach vorn. Deine Aufgabe ist, diese \"Kurve\" zu hören, ohne den Puls zu verlieren.",
+          "ja": "まずはAドリアンで4音だけを使った短いフレーズを作りましょう。2回はまったく同じに弾き、3回目だけ最後の音を8分音符ぶん早く入れます。その\"曲がり\"を感じ取りながら、拍は失わないのが仕事です。",
+          "zh-Hans": "先在A多利亚里只用4个音做一个短乐句。连续完全一样地弹两遍，第三遍把最后一个音提前八分音符。你的任务是听见这个\"转弯\"，同时不丢掉脉冲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now turn that phrase into a switchback: first version climbs, second version answers by coming down through the same notes in a different rhythm. Keep the contour related, but make the timing contrast obvious.",
+          "pt-BR": "Agora transforme a frase em uma curva de retorno: a primeira versão sobe, a segunda responde descendo pelas mesmas notas com outro ritmo. Mantenha o contorno parecido, mas deixe o contraste rítmico bem claro.",
+          "es": "Ahora convierte esa frase en una curva de regreso: la primera versión sube y la segunda responde bajando por las mismas notas con otro ritmo. Mantén el contorno relacionado, pero haz evidente el contraste rítmico.",
+          "de": "Mach daraus nun eine Kehre: Die erste Version steigt auf, die zweite antwortet abwärts mit denselben Tönen, aber in einem anderen Rhythmus. Die Kontur soll verwandt bleiben, der rhythmische Kontrast aber deutlich sein.",
+          "ja": "次はそのフレーズを切り返しに変えます。1回目は上行、2回目は同じ音を使って下行で返答しますが、リズムは変えてください。形のつながりは残しつつ、リズムの違いははっきり出します。",
+          "zh-Hans": "现在把这句变成一次回转：第一版向上走，第二版用相同的音向下回答，但节奏不同。轮廓要保持亲缘关系，节奏反差要明显。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add one rest before a target note. Think of the silence as your radar screen: it tells the listener something is coming. Land the target note with a clear accent, not a random hit.",
+          "pt-BR": "Adicione uma pausa antes de uma nota-alvo. Pense no silêncio como sua tela de radar: ele avisa ao ouvinte que algo vem aí. Pouse na nota-alvo com um acento claro, não com um ataque aleatório.",
+          "es": "Añade un silencio antes de una nota objetivo. Piensa en ese silencio como tu pantalla de radar: le avisa al oyente que algo viene. Aterriza la nota objetivo con un acento claro, no con un golpe al azar.",
+          "de": "Füge vor einem Zielton eine Pause ein. Betrachte die Stille als deinen Radarschirm: Sie kündigt an, dass etwas kommt. Lande auf dem Zielton mit einem klaren Akzent statt mit einem zufälligen Anschlag.",
+          "ja": "ターゲットノートの前に1つ休符を入れましょう。その沈黙をレーダー画面だと思ってください。次に何か来ることを聴き手に知らせます。ターゲットノートは偶然ではなく、はっきりしたアクセントで着地します。",
+          "zh-Hans": "在目标音前加入一个休止。把这段安静当成你的雷达屏幕：它会告诉听众，有东西要来了。落到目标音时要给出明确重音，而不是随手一击。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a slow backing groove and improvise for 4 bars using only two phrase lengths: a short 2-beat idea and a longer 3-beat idea. Alternate them so you must constantly re-balance where beat 1 feels.",
+          "pt-BR": "Coloque um groove lento e improvise por 4 compassos usando só dois tamanhos de frase: uma ideia curta de 2 tempos e outra mais longa de 3 tempos. Alterne entre elas para ter de recalibrar o lugar do tempo 1 o tempo todo.",
+          "es": "Pon una base lenta e improvisa durante 4 compases usando solo dos tamaños de frase: una idea corta de 2 tiempos y otra más larga de 3 tiempos. Altérnalas para obligarte a recolocar constantemente dónde se siente el tiempo 1.",
+          "de": "Starte einen langsamen Groove und improvisiere 4 Takte lang nur mit zwei Phrasenlängen: einer kurzen 2-Schlag-Idee und einer längeren 3-Schlag-Idee. Wechsle zwischen beiden, damit du das Gefühl für Zählzeit 1 immer neu ausrichten musst.",
+          "ja": "遅めのバッキングを流し、4小節だけ即興します。使うフレーズの長さは2種類だけです。短い2拍のアイデアと、少し長い3拍のアイデアを交互に出し、1拍目の感覚を何度も立て直しましょう。",
+          "zh-Hans": "放一个慢速伴奏，只用两种乐句长度即兴4小节：一种是2拍的短句，另一种是3拍的长句。交替使用它们，逼自己不断重新校准第1拍的感觉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record one chorus where every phrase either delays the landing or arrives early, but each ending still sounds intentional. If it feels messy, simplify the note choice before blaming the rhythm.",
+          "pt-BR": "Desafio final: grave um chorus em que toda frase ou atrasa a chegada ou chega cedo demais, mas cada final ainda soa intencional. Se ficar bagunçado, simplifique as notas antes de culpar o ritmo.",
+          "es": "Desafío final: graba un coro donde cada frase llegue tarde o llegue antes de tiempo, pero cada final siga sonando intencional. Si todo se vuelve confuso, simplifica las notas antes de culpar al ritmo.",
+          "de": "Abschluss-Challenge: Nimm einen Chorus auf, in dem jede Phrase entweder zu spät landet oder zu früh kommt, das Ende aber trotzdem absichtlich klingt. Wenn es chaotisch wird, vereinfache zuerst die Tonwahl, nicht den Rhythmus.",
+          "ja": "最後のチャレンジです。すべてのフレーズが少し遅れて着地するか、少し早く着地するかのどちらかになる1コーラスを録音してください。それでも終わり方は必ず意図的に聞こえるようにします。散らかるなら、リズムを疑う前に音数を減らしましょう。",
+          "zh-Hans": "最终挑战：录一段一个乐段的即兴，让每个乐句不是稍微晚落地，就是稍微早落地，但每次收尾都必须听起来像故意设计的。如果开始混乱，先减少音的选择，再去怪节奏。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-08T00:07:01Z",
+  "updatedAt": "2026-06-08T00:07:01Z"
+}
