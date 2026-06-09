@@ -1,0 +1,73 @@
+{
+  "id": "piano-thumb-switchback-rally",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **D major** and start at **76-88 BPM**. Imagine the thumb crossing as a mountain switchback: the route changes direction sharply, but the car should never skid. Your job is to keep tone, tempo, and hand shape calm as the thumb slips under or over the passing fingers.",
+          "pt-BR": "Escolha **Ré maior** e comece em **76-88 BPM**. Imagine a passagem de polegar como uma curva de serra: a rota muda de direção de repente, mas o carro não pode derrapar. Sua tarefa é manter timbre, tempo e formato da mão calmos enquanto o polegar passa por baixo ou por cima dos dedos.",
+          "es": "Elige **Re mayor** y empieza a **76-88 BPM**. Imagina el cruce de pulgar como una curva de montaña: la ruta cambia bruscamente, pero el coche no debe patinar. Tu trabajo es mantener sonido, tempo y forma de la mano tranquilos mientras el pulgar pasa por debajo o por encima de los dedos.",
+          "de": "Wähle **D-Dur** und beginne bei **76-88 BPM**. Stell dir den Daumenübergang wie eine Serpentinenkurve vor: Die Strecke ändert abrupt die Richtung, aber das Auto darf nicht rutschen. Deine Aufgabe ist, Klang, Tempo und Handform ruhig zu halten, während der Daumen unter oder über die Finger wechselt.",
+          "ja": "**Dメジャー** を選び、**76-88 BPM** で始めます。親指の交差は山道のヘアピンカーブだと想像してください。進行方向は急に変わりますが、車体は滑ってはいけません。親指が指の下や上を通るときも、音色・テンポ・手の形を落ち着かせて保つのが仕事です。",
+          "zh-Hans": "选择 **D大调**，从 **76-88 BPM** 开始。把拇指穿越想成山路发卡弯：路线突然转向，但车身不能打滑。你的任务是在拇指从指下穿过或越过手指时，依然保持音色、速度和手型的冷静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Rally rules\n- Say the fingering out loud on the first two runs.\n- Keep the wrist quiet enough that the crossing feels hidden inside the line.\n- On the return trip, listen for whether the descending crossing is rougher than the ascending one.\n- If one hand tenses, reduce tempo before trying again.",
+          "pt-BR": "## Regras do rali\n- Diga o dedilhado em voz alta nas duas primeiras voltas.\n- Mantenha o punho calmo o bastante para que a passagem fique escondida dentro da linha.\n- Na volta descendente, perceba se a troca fica mais áspera do que na subida.\n- Se uma mão tensionar, reduza o andamento antes de tentar de novo.",
+          "es": "## Reglas del rally\n- Di la digitación en voz alta en las dos primeras vueltas.\n- Mantén la muñeca lo bastante quieta para que el cruce quede escondido dentro de la línea.\n- En la bajada, escucha si el cruce descendente sale más áspero que el ascendente.\n- Si una mano se tensa, baja el tempo antes de repetir.",
+          "de": "## Rallye-Regeln\n- Sprich den Fingersatz in den ersten zwei Durchgängen laut mit.\n- Halte das Handgelenk so ruhig, dass der Übergang in der Linie verborgen bleibt.\n- Höre im Abstieg, ob der abwärts gerichtete Übergang rauer ist als der aufwärts gerichtete.\n- Wenn eine Hand verkrampft, reduziere das Tempo vor dem nächsten Versuch.",
+          "ja": "## ラリーのルール\n- 最初の2周は運指を声に出します。\n- 手首は、交差がラインの中に隠れるくらい静かに保ちます。\n- 下行では、上行よりも交差が荒くなっていないか耳で確かめます。\n- どちらかの手が固まるなら、再挑戦の前にテンポを落としましょう。",
+          "zh-Hans": "## 拉力规则\n- 前两遍把指法大声说出来。\n- 手腕要安静到让穿越动作像藏在旋律线里。\n- 下行时要听听看，下行穿越是不是比上行更粗糙。\n- 只要某只手开始紧，就先降速再试。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 1: checkpoint crossings\nStop for one beat immediately after every thumb crossing, then continue. This exposes whether the hand arrived balanced or twisted. Once the stop feels easy, remove the pause but keep the same calm setup.",
+          "pt-BR": "## Exercício 1: passagens com checkpoint\nPare por um tempo logo após cada passagem de polegar e depois continue. Isso revela se a mão chegou equilibrada ou torcida. Quando a parada ficar fácil, retire a pausa, mas mantenha a mesma preparação tranquila.",
+          "es": "## Ejercicio 1: cruces con checkpoint\nDetente durante un pulso justo después de cada cruce de pulgar y luego sigue. Esto revela si la mano llegó equilibrada o torcida. Cuando la parada se vuelva fácil, quita la pausa pero conserva la misma preparación relajada.",
+          "de": "## Übung 1: Checkpoint-Übergänge\nHalte direkt nach jedem Daumenübergang einen Schlag an und spiele dann weiter. So hörst du sofort, ob die Hand balanciert oder verdreht angekommen ist. Wenn das leicht wird, nimm die Pause weg, aber behalte dieselbe ruhige Vorbereitung.",
+          "ja": "## ドリル1：チェックポイント交差\n親指交差の直後で1拍止まり、そのあと続けます。これで、手がバランスよく着地したのか、ねじれて着地したのかが見えます。止まるのが簡単になったら休符は消しても、同じ落ち着いた準備を保ってください。",
+          "zh-Hans": "## 练习1：检查点穿越\n每次拇指穿越后立刻停一拍，再继续。这会暴露手是平衡地到位，还是拧着到位。等这种停顿变轻松后，把停顿拿掉，但保留同样平静的准备动作。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 2: dynamic steering\nPlay the ascent at **mezzo-piano** and the descent at **mezzo-forte** without changing tempo. The challenge is to steer the sound while the fingering system stays identical. If the thumb crossing gets noisy when dynamics change, slow down and smooth the corner.",
+          "pt-BR": "## Exercício 2: dirigir a dinâmica\nToque a subida em **mezzo-piano** e a descida em **mezzo-forte** sem mudar o andamento. O desafio é guiar o som enquanto o sistema de dedilhado permanece idêntico. Se a passagem do polegar ficar barulhenta quando a dinâmica muda, desacelere e arredonde a curva.",
+          "es": "## Ejercicio 2: dirigir la dinámica\nToca la subida en **mezzo-piano** y la bajada en **mezzo-forte** sin cambiar el tempo. El reto es conducir el sonido mientras el sistema de digitación permanece igual. Si el cruce del pulgar se vuelve ruidoso cuando cambia la dinámica, baja la velocidad y suaviza la curva.",
+          "de": "## Übung 2: Dynamik lenken\nSpiele den Aufstieg in **mezzo-piano** und den Abstieg in **mezzo-forte**, ohne das Tempo zu ändern. Die Herausforderung ist, den Klang zu steuern, während der Fingersatz identisch bleibt. Wenn der Daumenübergang bei Dynamikwechseln hart klingt, verlangsame und runde die Kurve ab.",
+          "ja": "## ドリル2：ダイナミクス操縦\n上行を **mezzo-piano**、下行を **mezzo-forte** で弾き、テンポは変えません。運指システムは同じまま、音だけを操縦するのが課題です。ダイナミクスが変わった瞬間に親指交差が騒がしくなるなら、速度を落としてカーブを丸くしましょう。",
+          "zh-Hans": "## 练习2：力度转向\n上行用 **mezzo-piano**，下行用 **mezzo-forte**，速度完全不变。挑战在于：指法系统不变，但声音方向要变。如果力度一换拇指穿越就变吵，就放慢并把这个弯磨圆。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Championship lap\nCreate a **6-run routine**: two clean runs, two runs with checkpoint pauses, and two runs hands together without stopping. Record the last pair and ask whether the scale still sounds like one connected ribbon instead of a pile of finger events. If it does, your technique is becoming invisible in the best way.",
+          "pt-BR": "## Volta de campeonato\nMonte uma **rotina de 6 passagens**: duas voltas limpas, duas com pausas de checkpoint e duas com as mãos juntas sem parar. Grave o último par e pergunte se a escala ainda soa como uma fita contínua em vez de um monte de eventos de dedo. Se soar, sua técnica está ficando invisível do melhor jeito possível.",
+          "es": "## Vuelta de campeonato\nCrea una **rutina de 6 recorridos**: dos limpios, dos con pausas de checkpoint y dos a manos juntas sin detenerte. Graba el último par y pregúntate si la escala sigue sonando como una sola cinta conectada en vez de una pila de eventos de dedos. Si sí, tu técnica se está volviendo invisible de la mejor manera.",
+          "de": "## Meisterschaftsrunde\nBaue eine **6-Durchgangs-Routine**: zwei saubere Durchgänge, zwei mit Checkpoint-Pausen und zwei beidhändig ohne Unterbrechung. Nimm das letzte Paar auf und frage dich, ob die Skala noch wie ein zusammenhängendes Band klingt statt wie eine Ansammlung von Fingerereignissen. Wenn ja, wird deine Technik auf die beste Weise unsichtbar.",
+          "ja": "## チャンピオンシップ・ラップ\n**6本の走行ルーティン** を作ります。クリーンな2本、チェックポイント休止つき2本、そして両手で止まらず2本です。最後の2本を録音し、音階が指の出来事の集まりではなく、1本のつながったリボンのように聞こえるか確認してください。そう聞こえるなら、あなたの技術は最高の意味で見えなくなっています。",
+          "zh-Hans": "## 冠军圈\n设计一套 **6遍流程**：两遍干净演奏，两遍带检查点停顿，最后两遍双手不停地完成。录下最后两遍，问问自己：这条音阶还像一条连贯的丝带，还是像一堆手指事件？如果它像丝带，那你的技术正以最好的方式变得“看不见”。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-09T00:11:51Z",
+  "updatedAt": "2026-06-09T00:11:51Z"
+}

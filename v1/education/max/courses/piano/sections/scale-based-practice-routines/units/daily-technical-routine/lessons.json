@@ -1062,5 +1062,33 @@
     "order": 38,
     "createdAt": "2026-06-08T00:09:31Z",
     "updatedAt": "2026-06-08T00:09:31Z"
+  },
+  {
+    "id": "piano-thumb-switchback-rally",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Thumb Switchback Rally",
+        "pt-BR": "Rali das Curvas de Polegar no Piano",
+        "es": "Rally de Curvas de Pulgar en Piano",
+        "de": "Klavier-Daumen-Kehren-Rallye",
+        "ja": "ピアノ・サム・スイッチバック・ラリー",
+        "zh-Hans": "钢琴拇指折返拉力赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use thumb crossings like hairpin turns so your scales stay smooth, balanced, and musical under pressure.",
+        "pt-BR": "Use as passagens de polegar como curvas fechadas para manter suas escalas suaves, equilibradas e musicais mesmo sob pressão.",
+        "es": "Usa los cruces de pulgar como curvas cerradas para que tus escalas sigan suaves, equilibradas y musicales bajo presión.",
+        "de": "Nutze Daumenuntersätze wie enge Kehren, damit deine Skalen auch unter Druck flüssig, ausgewogen und musikalisch bleiben.",
+        "ja": "親指くぐりをヘアピンカーブのように扱い、プレッシャーの中でも音階を滑らかで均整の取れた音楽的なものに保ちます。",
+        "zh-Hans": "把拇指穿越当成发卡弯来训练，让你的音阶在压力下仍然顺滑、平衡又有音乐性。"
+      }
+    },
+    "order": 39,
+    "createdAt": "2026-06-09T00:11:51Z",
+    "updatedAt": "2026-06-09T00:11:51Z"
   }
 ]

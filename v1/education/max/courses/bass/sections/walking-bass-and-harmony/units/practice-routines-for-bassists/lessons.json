@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-06-06T00:06:38Z",
     "updatedAt": "2026-06-06T00:06:38Z"
+  },
+  {
+    "id": "bass-root-ladder-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Root Ladder Relay",
+        "pt-BR": "Revezamento da Escada de Tônicas no Baixo",
+        "es": "Relevo de Escalera de Tónicas en Bajo",
+        "de": "Bass-Root-Ladder-Relay",
+        "ja": "ベース・ルート・ラダー・リレー",
+        "zh-Hans": "贝斯根音阶梯接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build bass-line control by climbing from roots to color tones without dropping the pocket.",
+        "pt-BR": "Desenvolva controle de linhas de baixo subindo da tônica para notas de cor sem derrubar o pocket.",
+        "es": "Desarrolla control de líneas de bajo subiendo desde la tónica hacia notas de color sin perder el pocket.",
+        "de": "Baue Kontrolle über Basslinien auf, indem du von Grundtönen zu Farbtönen kletterst, ohne das Pocket zu verlieren.",
+        "ja": "ルートから色音へと登りながらも、ポケットを落とさないベースラインのコントロールを鍛えるレッスンです。",
+        "zh-Hans": "训练你的贝斯线控制力：从根音一路爬向色彩音，同时绝不把 pocket 弄丢。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-06-09T00:10:16Z",
+    "updatedAt": "2026-06-09T00:10:16Z"
   }
 ]

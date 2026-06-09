@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-06-06T00:06:38Z",
     "updatedAt": "2026-06-06T00:06:38Z"
+  },
+  {
+    "id": "guitar-rhythm-snapback-mission",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Snapback Mission",
+        "pt-BR": "Missão Snapback Rítmico na Guitarra",
+        "es": "Misión de Rebote Rítmico en Guitarra",
+        "de": "Rhythmus-Snapback-Mission für Gitarre",
+        "ja": "ギター・リズム・スナップバック・ミッション",
+        "zh-Hans": "吉他节奏回弹任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar scale phrasing to jump off the beat and land back with style, control, and strong target notes.",
+        "pt-BR": "Treine o fraseado de escalas na guitarra para sair do tempo e voltar com estilo, controle e boas notas de chegada.",
+        "es": "Entrena tu fraseo de escalas en guitarra para salir del pulso y volver con estilo, control y buenas notas objetivo.",
+        "de": "Trainiere dein Gitarren-Skalen-Phrasing so, dass es aus dem Puls springt und mit Stil, Kontrolle und klaren Zieltönen zurücklandet.",
+        "ja": "拍から少し外れても、スタイルとコントロール、そして強い着地音で戻れるギターのスケールフレージングを鍛えます。",
+        "zh-Hans": "训练你的吉他音阶乐句，让它们敢于离开拍点，又能靠风格、控制和强力目标音帅气落回去。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-06-09T00:07:17Z",
+    "updatedAt": "2026-06-09T00:07:17Z"
   }
 ]
