@@ -1398,5 +1398,33 @@
     "order": 50,
     "createdAt": "2026-06-08T00:08:08Z",
     "updatedAt": "2026-06-08T00:08:08Z"
+  },
+  {
+    "id": "bass-pocket-roundabout",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Roundabout",
+        "pt-BR": "Rotatória do Pocket no Baixo",
+        "es": "Rotonda del Pocket en Bajo",
+        "de": "Bass-Pocket-Kreisverkehr",
+        "ja": "ベース・ポケット・ラウンドアバウト",
+        "zh-Hans": "贝斯 Pocket 环岛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Circle through scale tones, ghost notes, and exits without losing the center of the groove.",
+        "pt-BR": "Circule por notas da escala, ghost notes e saídas sem perder o centro do groove.",
+        "es": "Gira por notas de escala, ghost notes y salidas sin perder el centro del groove.",
+        "de": "Kreise durch Skalentöne, Ghost Notes und Ausfahrten, ohne das Zentrum des Grooves zu verlieren.",
+        "ja": "音階音、ゴーストノート、寄り道を使っても、グルーヴの中心を失わない練習をしよう。",
+        "zh-Hans": "在音阶音、幽灵音和岔路之间循环前进，同时不丢掉 groove 的中心。"
+      }
+    },
+    "order": 51,
+    "createdAt": "2026-06-10T00:08:01Z",
+    "updatedAt": "2026-06-10T00:08:01Z"
   }
 ]

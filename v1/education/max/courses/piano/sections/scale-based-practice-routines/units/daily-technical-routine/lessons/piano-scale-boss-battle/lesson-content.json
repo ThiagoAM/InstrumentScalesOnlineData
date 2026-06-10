@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-boss-battle",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Scales do not have to feel like homework. Today they are a **boss battle** with levels, pressure, and a clear win condition. Pick **A major**, set a timer for **10-12 minutes**, and decide that every repetition must earn its place.",
+          "pt-BR": "Escalas não precisam parecer lição de casa. Hoje elas viram uma **batalha de chefão**, com fases, pressão e uma condição clara de vitória. Escolha **Lá maior**, marque **10-12 minutos** no relógio e decida que cada repetição precisa merecer existir.",
+          "es": "Las escalas no tienen por qué sentirse como tarea. Hoy son una **batalla contra el jefe final**, con niveles, presión y una condición clara de victoria. Elige **La mayor**, pon un temporizador de **10-12 minutos** y decide que cada repetición debe ganarse su lugar.",
+          "de": "Tonleitern müssen sich nicht wie Hausaufgaben anfühlen. Heute sind sie ein **Bosskampf** mit Levels, Druck und einer klaren Siegbedingung. Wähle **A-Dur**, stelle einen Timer auf **10-12 Minuten** und entscheide, dass jede Wiederholung ihren Platz verdienen muss.",
+          "ja": "スケール練習は宿題のようである必要はありません。今日は **boss battle** です。段階があり、プレッシャーがあり、勝利条件もはっきりしています。**Aメジャー**を選び、**10-12分** のタイマーをセットして、どの反復にも意味を持たせましょう。",
+          "zh-Hans": "音阶不必总像家庭作业。今天它是一场 **Boss战**：有阶段、有压力，也有明确的胜利条件。选 **A大调**，设一个 **10-12 分钟** 的计时器，然后决定每一次重复都必须有价值。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level 1 is your armor check: play A major hands together for two octaves at a calm tempo. Listen for even tone, relaxed wrists, and quiet thumb crossings. Do not level up until you can play two clean runs in a row without feeling rushed.",
+          "pt-BR": "O Nível 1 é sua checagem de armadura: toque a escala de Lá maior com as duas mãos, por duas oitavas, em andamento calmo. Ouça o timbre uniforme, punhos soltos e passagens de polegar silenciosas. Não avance de fase até conseguir duas execuções limpas seguidas, sem sensação de correria.",
+          "es": "El Nivel 1 es tu revisión de armadura: toca La mayor a dos manos, dos octavas, en un tempo tranquilo. Escucha un sonido parejo, muñecas sueltas y cruces de pulgar silenciosos. No subas de nivel hasta poder hacer dos pasadas limpias seguidas sin sentir prisa.",
+          "de": "Level 1 ist dein Rüstungscheck: Spiele A-Dur beidhändig über zwei Oktaven in ruhigem Tempo. Achte auf gleichmäßigen Klang, lockere Handgelenke und leise Daumenuntersätze. Steig erst auf, wenn dir zwei saubere Durchgänge hintereinander ohne Hast gelingen.",
+          "ja": "Level 1 は装備確認です。Aメジャーを両手で2オクターブ、落ち着いたテンポで弾きます。音色の均一さ、手首の脱力、静かな親指くぐりをよく聴いてください。急いだ感じなしに2回連続でクリーンに弾けるまで次へ進みません。",
+          "zh-Hans": "第1关是装备检查：双手弹 A 大调两八度，速度放轻松一些。认真听音色是否均匀、手腕是否放松、拇指穿越是否安静。只有当你能连续两次干净完成，而且没有赶拍感时，才能升级。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level 2 adds traps. Keep the same scale, but rotate one challenge each run: **staccato**, **crescendo up / decrescendo down**, **accent every fourth note**, or **left hand slightly softer than right**. You are teaching control, not just repetition.",
+          "pt-BR": "O Nível 2 adiciona armadilhas. Mantenha a mesma escala, mas troque o desafio a cada rodada: **staccato**, **crescendo na subida / decrescendo na descida**, **acento a cada quarta nota** ou **mão esquerda um pouco mais suave que a direita**. Você está treinando controle, não só repetição.",
+          "es": "El Nivel 2 añade trampas. Mantén la misma escala, pero cambia un reto en cada vuelta: **staccato**, **crescendo al subir / decrescendo al bajar**, **acento cada cuarta nota** o **mano izquierda un poco más suave que la derecha**. Estás entrenando control, no solo repetición.",
+          "de": "Level 2 bringt Fallen ins Spiel. Bleib bei derselben Tonleiter, wechsle aber pro Durchgang eine Aufgabe: **staccato**, **crescendo aufwärts / decrescendo abwärts**, **Akzent auf jede vierte Note** oder **linke Hand etwas leiser als die rechte**. Du trainierst Kontrolle, nicht bloß Wiederholung.",
+          "ja": "Level 2 では罠が増えます。同じスケールのまま、毎回1つずつ課題を回します: **スタッカート**、**上りでクレッシェンド / 下りでデクレッシェンド**、**4音ごとにアクセント**、または **左手を右手より少し弱く**。鍛えたいのは反復ではなくコントロールです。",
+          "zh-Hans": "第2关加入陷阱。保持同一条音阶，但每一轮轮换一个任务：**断奏**、**上行渐强 / 下行渐弱**、**每四个音一个重音**，或者 **左手比右手稍弱**。你训练的不是机械重复，而是控制力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level 3 adds time pressure. Choose one steady tempo and switch subdivision every pass: **eighth notes**, **triplets**, then **sixteenths**. If the line starts to wobble, stay at the same tempo and simplify your touch before you slow down.",
+          "pt-BR": "O Nível 3 traz pressão de tempo. Escolha um andamento fixo e mude a subdivisão a cada passagem: **colcheias**, **tercinas** e depois **semicolcheias**. Se a linha começar a balançar, mantenha o mesmo tempo e simplifique o toque antes de diminuir o BPM.",
+          "es": "El Nivel 3 añade presión de tiempo. Elige un tempo fijo y cambia la subdivisión en cada pasada: **corcheas**, **tresillos** y luego **semicorcheas**. Si la línea empieza a tambalearse, mantén el mismo tempo y simplifica el toque antes de bajar la velocidad.",
+          "de": "Level 3 erzeugt Zeitdruck. Wähle ein festes Tempo und ändere bei jedem Durchgang die Unterteilung: **Achtel**, **Triolen**, dann **Sechzehntel**. Wenn die Linie zu schwanken beginnt, behalte das Tempo bei und vereinfache zuerst den Anschlag, bevor du langsamer wirst.",
+          "ja": "Level 3 では時間の圧力が加わります。テンポを1つ決め、通るたびに細分を切り替えます: **8分音符**、**3連符**、それから **16分音符**。ラインが揺れ始めたら、すぐに遅くする前に、同じテンポのままタッチを整理してください。",
+          "zh-Hans": "第3关加入时间压力。选定一个固定速度，每遍切换一次细分：**八分音符**、**三连音**、然后 **十六分音符**。如果线条开始摇晃，不要急着降速，先在同样速度下把触键整理干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level 4 is the boss fight: improvise **four short phrases** using only A major notes. Each phrase must begin on a different scale degree and end with a clear dynamic shape. This is where technique proves it can become music.",
+          "pt-BR": "O Nível 4 é a luta contra o chefão: improvise **quatro frases curtas** usando apenas notas de Lá maior. Cada frase deve começar em um grau diferente da escala e terminar com um desenho dinâmico claro. É aqui que a técnica prova que pode virar música.",
+          "es": "El Nivel 4 es la pelea final: improvisa **cuatro frases cortas** usando solo notas de La mayor. Cada frase debe empezar en un grado distinto de la escala y terminar con una forma dinámica clara. Aquí es donde la técnica demuestra que puede convertirse en música.",
+          "de": "Level 4 ist der eigentliche Bosskampf: Improvisiere **vier kurze Phrasen** nur mit Tönen aus A-Dur. Jede Phrase muss auf einem anderen Skalenton beginnen und mit einer klaren dynamischen Form enden. Hier zeigt Technik, dass sie zu Musik werden kann.",
+          "ja": "Level 4 は本番のボス戦です。Aメジャーの音だけを使って **短いフレーズを4つ** 即興します。各フレーズは違う音階度から始め、はっきりしたダイナミクスの形で終わらせましょう。ここで技術が音楽に変わるかが試されます。",
+          "zh-Hans": "第4关才是真正的 Boss 战：只用 A 大调的音 **即兴四个短句**。每个短句都要从不同的音级开始，并以清楚的力度线条结束。这里就是技术证明自己能变成音乐的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a score screen. Give yourself one sentence each for **what felt stable**, **what almost broke**, and **what gets rematched tomorrow**. Smart practice is not about winning once—it is about learning exactly how you won.",
+          "pt-BR": "Termine com a tela de pontuação. Escreva uma frase sobre **o que ficou estável**, **o que quase quebrou** e **o que merece revanche amanhã**. Praticar com inteligência não é vencer uma vez só; é entender exatamente como você venceu.",
+          "es": "Termina con la pantalla de puntuación. Escribe una frase sobre **qué se sintió estable**, **qué casi se rompió** y **qué merece revancha mañana**. Practicar con inteligencia no es ganar una sola vez; es entender exactamente cómo ganaste.",
+          "de": "Am Ende kommt der Ergebnisbildschirm. Schreib je einen Satz dazu, **was stabil war**, **was fast zerbrochen ist** und **was morgen eine Revanche bekommt**. Kluges Üben heißt nicht, einmal zu gewinnen—sondern genau zu verstehen, wie du gewonnen hast.",
+          "ja": "最後はスコア画面です。**安定していたこと**、**ほころびかけたこと**、**明日リマッチしたいこと** をそれぞれ一文ずつ書いてください。賢い練習は一度勝つことではなく、どう勝ったかを理解することです。",
+          "zh-Hans": "最后进入结算画面。分别写一句：**哪里最稳定**、**哪里差点崩掉**、**明天哪里要再打一场**。聪明的练习，不是赢一次就结束，而是清楚知道自己是怎么赢的。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-10T00:09:29Z",
+  "updatedAt": "2026-06-10T00:09:29Z"
+}

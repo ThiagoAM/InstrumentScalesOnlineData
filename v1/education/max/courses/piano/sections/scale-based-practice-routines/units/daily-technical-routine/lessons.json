@@ -1090,5 +1090,33 @@
     "order": 39,
     "createdAt": "2026-06-09T00:11:51Z",
     "updatedAt": "2026-06-09T00:11:51Z"
+  },
+  {
+    "id": "piano-scale-boss-battle",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Boss Battle",
+        "pt-BR": "Chefão das Escalas no Piano",
+        "es": "Jefe Final de Escalas al Piano",
+        "de": "Klavier-Tonleiter-Bosskampf",
+        "ja": "ピアノ音階ボスバトル",
+        "zh-Hans": "钢琴音阶Boss战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a scale routine into a staged challenge with clean technique, rhythmic pressure, and a musical finish.",
+        "pt-BR": "Transforme a rotina de escalas em um desafio por fases, com técnica limpa, pressão rítmica e um final musical.",
+        "es": "Convierte tu rutina de escalas en un desafío por fases con técnica limpia, presión rítmica y un cierre musical.",
+        "de": "Verwandle deine Tonleiter-Routine in eine mehrstufige Herausforderung mit sauberer Technik, rhythmischem Druck und musikalischem Finale.",
+        "ja": "スケール練習を、きれいな技術・リズムのプレッシャー・音楽的な締めを持つ段階式チャレンジに変えよう。",
+        "zh-Hans": "把音阶练习变成分阶段挑战，兼顾干净技术、节奏压力和音乐性的收尾。"
+      }
+    },
+    "order": 40,
+    "createdAt": "2026-06-10T00:09:29Z",
+    "updatedAt": "2026-06-10T00:09:29Z"
   }
 ]

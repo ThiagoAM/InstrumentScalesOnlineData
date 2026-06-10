@@ -1,0 +1,73 @@
+{
+  "id": "blues-signal-flares-in-a",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you are not trying to impress anyone with a thousand notes. You are sending **signal flares**: short blues phrases that are bright, clear, and impossible to ignore. Put on an **A blues vamp** around **75-90 BPM** and keep your sound punchy, not busy.",
+          "pt-BR": "Hoje você não vai tentar impressionar ninguém com mil notas. Você vai lançar **sinalizadores**: frases curtas de blues, brilhantes, claras e impossíveis de ignorar. Coloque um **vamp de blues em Lá** entre **75-90 BPM** e busque um som com pegada, não embolado.",
+          "es": "Hoy no vas a impresionar a nadie con mil notas. Vas a lanzar **bengalas**: frases cortas de blues, brillantes, claras e imposibles de ignorar. Pon un **vamp de blues en La** entre **75-90 BPM** y busca un sonido con pegada, no saturado.",
+          "de": "Heute willst du niemanden mit tausend Noten beeindrucken. Du schickst **Signalraketen**: kurze Blues-Phrasen, hell, klar und unmöglich zu überhören. Leg einen **Blues-Vamp in A** bei **75-90 BPM** auf und achte auf einen druckvollen, nicht überladenen Sound.",
+          "ja": "今日は大量の音で impress する日ではありません。放つのは **signal flare**、つまり短くて明るく、はっきり届くブルースフレーズです。**A のブルース・ヴァンプ**を **75-90 BPM** くらいで流し、弾きすぎず、パンチのある音を目指しましょう。",
+          "zh-Hans": "今天你不是来靠一大串音符炫技的。你要发射的是 **信号弹**：短、亮、清楚，而且让人无法忽略的布鲁斯乐句。打开一个 **A 布鲁斯 vamp**，速度放在 **75-90 BPM**，追求的是有冲击力的声音，不是忙乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose three flare notes that instantly read as strong in A blues: **A, C, and E**. Play a lick of only **2-4 notes**, then stop. Let the silence do some work. If the phrase sounds weak, the fix is usually a stronger landing note, not more notes.",
+          "pt-BR": "Escolha três notas-sinal que soam fortes na hora em um blues em Lá: **A, C e E**. Toque um lick de apenas **2-4 notas** e então pare. Deixe o silêncio trabalhar também. Se a frase soar fraca, o problema quase sempre é a nota de chegada, não a falta de notas.",
+          "es": "Elige tres notas-bengala que suenen fuertes de inmediato en el blues en La: **A, C y E**. Toca un lick de solo **2-4 notas** y luego detente. Deja que el silencio también trabaje. Si la frase suena débil, casi siempre falta una mejor nota de llegada, no más notas.",
+          "de": "Wähle drei Signal-Noten, die im A-Blues sofort stark wirken: **A, C und E**. Spiele ein Lick aus nur **2-4 Tönen** und stoppe dann. Lass die Stille mitarbeiten. Wenn die Phrase schwach klingt, fehlt meist ein stärkerer Zielton und nicht noch mehr Material.",
+          "ja": "Aブルースで強く聞こえるフレア音を3つ選びます: **A、C、E**。**2-4音だけ**のリックを弾いたら止まりましょう。沈黙にも仕事をさせます。フレーズが弱く聞こえるなら、足りないのは音数ではなく着地点の強さです。",
+          "zh-Hans": "先选出三个在 A 布鲁斯里一听就站得住的信号音：**A、C、E**。每次只弹一个 **2-4 个音** 的 lick，然后立刻停下。让空白也参与表达。如果一句听起来没力，通常问题不是音太少，而是落点不够强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one flash of danger: **Eb**. Your rule is simple: touch it briefly, then resolve it on purpose. Think of Eb like a flare gun—exciting when used well, messy when fired nonstop. Aim to hear the relief when it falls into **D or E**.",
+          "pt-BR": "Agora adicione um lampejo de perigo: **Eb**. A regra é simples: encoste nela rapidamente e resolva com intenção. Pense no Eb como uma pistola sinalizadora—emocionante quando bem usada, bagunçada quando dispara sem parar. Tente ouvir o alívio quando ele cai em **D ou E**.",
+          "es": "Ahora añade un destello de peligro: **Eb**. La regla es simple: tócala un instante y resuélvela con intención. Piensa en Eb como una pistola de bengalas: emocionante cuando se usa bien, caótica si disparas todo el tiempo. Intenta oír el alivio cuando cae en **D o E**.",
+          "de": "Jetzt kommt ein kurzer Gefahrenblitz dazu: **Eb**. Die Regel ist einfach: kurz berühren und bewusst auflösen. Denk an Eb wie an eine Signalpistole—spannend, wenn sie gezielt eingesetzt wird, chaotisch im Dauerfeuer. Hör auf die Erleichterung, wenn sich der Ton nach **D oder E** auflöst.",
+          "ja": "次に危険なひらめきを1つ加えます: **Eb**。ルールは単純で、少し触れたら意図を持って解決すること。Eb は flare gun のようなものです。うまく使えば刺激的、撃ち続けると散らかります。**D または E** に落ちたときの解放感を耳で確かめてください。",
+          "zh-Hans": "接着加入一点危险火花：**Eb**。规则很简单：轻轻碰一下，然后有意识地解决它。把 Eb 想成 flare gun——用得好会很刺激，一直乱开就会失控。认真去听它落到 **D 或 E** 时那种松开的感觉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, change where the flare launches. Start the same kind of lick on **beat 1**, **the & of 2**, and **beat 4**. Suddenly the exact same notes tell three different stories. That is phrasing power, and it matters more than raw speed.",
+          "pt-BR": "Agora mude o ponto de lançamento do sinalizador. Comece o mesmo tipo de lick no **tempo 1**, no **& do 2** e no **tempo 4**. De repente, as mesmas notas contam três histórias diferentes. Isso é poder de fraseado, e vale mais do que velocidade bruta.",
+          "es": "Ahora cambia el punto de lanzamiento. Empieza el mismo tipo de lick en el **tiempo 1**, en el **& de 2** y en el **tiempo 4**. De pronto, las mismas notas cuentan tres historias distintas. Eso es poder de fraseo, y vale más que la velocidad bruta.",
+          "de": "Ändere nun den Abschussort der Signalrakete. Starte dieselbe Art von Lick auf **Zählzeit 1**, auf dem **& von 2** und auf **Zählzeit 4**. Plötzlich erzählen dieselben Töne drei verschiedene Geschichten. Das ist Phrasierungskraft, und sie zählt mehr als reine Geschwindigkeit.",
+          "ja": "今度は打ち上げる場所を変えます。同じタイプのリックを **1拍目**、**2拍目裏**、**4拍目** から始めましょう。同じ音でも、語る物語は3通りに変わります。これがフレージングの力で、速さそのものより大切です。",
+          "zh-Hans": "现在换一下发射位置。把同样类型的 lick 分别从 **第1拍**、**第2拍后半拍**、和 **第4拍** 开始。突然之间，同样的音会讲出三种不同的故事。这就是乐句的力量，它比单纯的速度更重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: create **four one-bar phrases**. Phrase 1 should sound confident, Phrase 2 should answer it, Phrase 3 must include Eb, and Phrase 4 must end hard on A. Record yourself if you can. If one bar sounds blurry, trim it down until it speaks clearly.",
+          "pt-BR": "Rodada final: crie **quatro frases de um compasso**. A Frase 1 deve soar confiante, a Frase 2 deve responder, a Frase 3 precisa incluir Eb e a Frase 4 deve pousar forte em A. Grave se puder. Se um compasso soar borrado, enxugue até ele falar com clareza.",
+          "es": "Ronda final: crea **cuatro frases de un compás**. La Frase 1 debe sonar segura, la Frase 2 debe responderla, la Frase 3 debe incluir Eb y la Frase 4 debe terminar con fuerza en A. Grábate si puedes. Si un compás suena borroso, recórtalo hasta que hable con claridad.",
+          "de": "Finale Runde: Baue **vier ein-taktige Phrasen**. Phrase 1 soll selbstbewusst klingen, Phrase 2 soll antworten, Phrase 3 muss Eb enthalten und Phrase 4 hart auf A landen. Nimm dich auf, wenn möglich. Klingt ein Takt verschwommen, kürze ihn so lange, bis er klar spricht.",
+          "ja": "最後は **1小節フレーズを4つ** 作ります。フレーズ1は自信たっぷりに、フレーズ2はその返事に、フレーズ3には Eb を入れ、フレーズ4は A に強く着地してください。できれば録音しましょう。ぼやける小節があれば、はっきり話すまで削ってください。",
+          "zh-Hans": "最后一轮：写出 **四个一小节短句**。第1句要自信，第2句要像回答，第3句必须带上 Eb，第4句要狠狠落回 A。可以的话录下来听。哪一小节发糊了，就继续删减，直到它说得清楚。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-10T00:06:36Z",
+  "updatedAt": "2026-06-10T00:06:36Z"
+}

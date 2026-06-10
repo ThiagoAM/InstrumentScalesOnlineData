@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-06-04T00:07:09Z",
     "updatedAt": "2026-06-04T00:07:09Z"
+  },
+  {
+    "id": "blues-signal-flares-in-a",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Signal Flares in A",
+        "pt-BR": "Sinalizadores de Blues em Lá",
+        "es": "Bengalas de Blues en La",
+        "de": "Blues-Signalraketen in A",
+        "ja": "Aブルースのシグナルフレア",
+        "zh-Hans": "A布鲁斯信号弹"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Fire short blues ideas that grab attention, create tension, and land with control in A.",
+        "pt-BR": "Dispare frases curtas de blues que chamam atenção, criam tensão e aterrissam com controle em Lá.",
+        "es": "Lanza frases cortas de blues que llamen la atención, creen tensión y aterricen con control en La.",
+        "de": "Schieße kurze Blues-Ideen ab, die Aufmerksamkeit holen, Spannung erzeugen und kontrolliert in A landen.",
+        "ja": "注意を引き、緊張を作り、Aでしっかり着地する短いブルースフレーズを放とう。",
+        "zh-Hans": "发射短小有力的布鲁斯乐句，在A中抓住注意力、制造张力并稳稳落点。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-06-10T00:06:36Z",
+    "updatedAt": "2026-06-10T00:06:36Z"
   }
 ]
