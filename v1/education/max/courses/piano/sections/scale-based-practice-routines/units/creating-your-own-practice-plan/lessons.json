@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-06-04T00:07:09Z",
     "updatedAt": "2026-06-04T00:07:09Z"
+  },
+  {
+    "id": "piano-scale-arc-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Arc Quest",
+        "pt-BR": "Missão do Arco das Escalas no Piano",
+        "es": "Misión del Arco de Escalas en Piano",
+        "de": "Klavier-Skalenbogen-Quest",
+        "ja": "ピアノ・スケール・アーク・クエスト",
+        "zh-Hans": "钢琴音阶弧线任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Shape one scale session like a mini performance with levels, contrast, and a satisfying finish.",
+        "pt-BR": "Transforme uma sessão de escalas em uma mini performance com níveis, contraste e um final convincente.",
+        "es": "Convierte una sesión de escalas en una mini actuación con niveles, contraste y un final convincente.",
+        "de": "Gestalte eine Skalenroutine wie eine kleine Performance mit Stufen, Kontrast und starkem Schluss.",
+        "ja": "ひとつのスケール練習を、小さな演奏のように組み立てる感覚を育てます。",
+        "zh-Hans": "把一次音阶练习塑造成带层次、对比和结尾感的小型演出。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-06-11T00:10:53Z",
+    "updatedAt": "2026-06-11T00:10:53Z"
   }
 ]

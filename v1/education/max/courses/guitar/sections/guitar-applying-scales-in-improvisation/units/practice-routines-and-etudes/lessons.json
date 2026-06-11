@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-06-09T00:07:17Z",
     "updatedAt": "2026-06-09T00:07:17Z"
+  },
+  {
+    "id": "guitar-solo-slingshot-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Solo Slingshot Lab",
+        "pt-BR": "Laboratório do Estilingue do Solo na Guitarra",
+        "es": "Laboratorio de Tirachinas para Solo de Guitarra",
+        "de": "Gitarren-Solo-Schleuder-Labor",
+        "ja": "ギター・ソロ・スリングショット研究室",
+        "zh-Hans": "吉他独奏弹弓实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pull a solo away from safe notes and snap it back with target tones, rhythm, and control.",
+        "pt-BR": "Afaste o solo das notas seguras e traga-o de volta com notas-alvo, ritmo e controle.",
+        "es": "Aleja tu solo de las notas seguras y hazlo volver con notas objetivo, ritmo y control.",
+        "de": "Ziehe dein Solo von sicheren Tönen weg und schnippe es mit Zieltönen, Rhythmus und Kontrolle zurück.",
+        "ja": "安定した音から離れ、ターゲット音とリズムでしっかり戻るソロ感覚を鍛えます。",
+        "zh-Hans": "练习把独奏从安全音拉开，再用目标音、节奏和控制力弹回落点。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-06-11T00:07:36Z",
+    "updatedAt": "2026-06-11T00:07:36Z"
   }
 ]

@@ -1426,5 +1426,33 @@
     "order": 51,
     "createdAt": "2026-06-10T00:08:01Z",
     "updatedAt": "2026-06-10T00:08:01Z"
+  },
+  {
+    "id": "bass-pocket-magnet-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Magnet Run",
+        "pt-BR": "Corrida do Ímã do Pocket no Baixo",
+        "es": "Carrera del Imán del Pocket en Bajo",
+        "de": "Bass-Pocket-Magnetlauf",
+        "ja": "ベース・ポケット・マグネット走",
+        "zh-Hans": "贝斯 Pocket 磁力跑"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove to wander with confidence and snap back into the pocket on command.",
+        "pt-BR": "Treine seu groove para passear com confiança e voltar ao pocket quando você mandar.",
+        "es": "Entrena tu groove para alejarse con confianza y volver al pocket cuando tú lo ordenes.",
+        "de": "Trainiere deinen Groove so, dass er selbstbewusst abschweift und auf Kommando wieder sicher ins Pocket springt.",
+        "ja": "グルーヴが少し離れても、自分の意思でポケットへ戻せる力を鍛えます。",
+        "zh-Hans": "训练你的 groove 能自信偏离，再按你的命令准确弹回 pocket。"
+      }
+    },
+    "order": 52,
+    "createdAt": "2026-06-11T00:09:10Z",
+    "updatedAt": "2026-06-11T00:09:10Z"
   }
 ]
