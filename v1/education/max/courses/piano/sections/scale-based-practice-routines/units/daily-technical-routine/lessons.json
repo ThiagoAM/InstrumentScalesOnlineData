@@ -1118,5 +1118,33 @@
     "order": 40,
     "createdAt": "2026-06-10T00:09:29Z",
     "updatedAt": "2026-06-10T00:09:29Z"
+  },
+  {
+    "id": "piano-scale-rocket-switches",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Rocket Switches",
+        "pt-BR": "Trocas de Foguete nas Escalas do Piano",
+        "es": "Cambios Cohete en Escalas de Piano",
+        "de": "Raketen-Wechsel für Klavierskalen",
+        "ja": "ピアノ・スケール ロケット切り替え",
+        "zh-Hans": "钢琴音阶火箭切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch a clean two-hand scale, switch accents mid-flight, and keep the landing controlled.",
+        "pt-BR": "Lance uma escala a duas mãos, troque os acentos no meio do caminho e controle a aterrissagem.",
+        "es": "Lanza una escala a dos manos, cambia los acentos a mitad del vuelo y controla el aterrizaje.",
+        "de": "Starte eine saubere Zweihand-Skala, wechsle die Akzente im Flug und kontrolliere die Landung.",
+        "ja": "両手のスケールをきれいに発進し、途中でアクセントを切り替え、着地までコントロールします。",
+        "zh-Hans": "双手干净起飞，途中切换重音，并把落地也控制好。"
+      }
+    },
+    "order": 41,
+    "createdAt": "2026-06-12T00:10:21Z",
+    "updatedAt": "2026-06-12T00:10:21Z"
   }
 ]

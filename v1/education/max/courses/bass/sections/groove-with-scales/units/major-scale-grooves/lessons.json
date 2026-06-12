@@ -1454,5 +1454,33 @@
     "order": 52,
     "createdAt": "2026-06-11T00:09:10Z",
     "updatedAt": "2026-06-11T00:09:10Z"
+  },
+  {
+    "id": "bass-pocket-fire-drill",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Fire Drill",
+        "pt-BR": "Simulado de Emergência do Pocket no Baixo",
+        "es": "Simulacro de Emergencia del Pocket en Bajo",
+        "de": "Pocket-Feuerübung für Bass",
+        "ja": "ベース・ポケット緊急訓練",
+        "zh-Hans": "贝斯律动消防演练"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a major-scale groove under pressure while keeping the pulse calm and heavy.",
+        "pt-BR": "Monte um groove em escala maior sob pressão sem perder pulso nem peso.",
+        "es": "Construye un groove en escala mayor bajo presión sin perder pulso ni peso.",
+        "de": "Baue unter Druck einen Groove aus der Dur-Tonleiter, ohne Puls oder Gewicht zu verlieren.",
+        "ja": "プレッシャーの中でも拍を失わず、メジャースケールで太いグルーヴを作ります。",
+        "zh-Hans": "在压力下用大调音阶做出稳重的groove，同时守住脉冲和重量感。"
+      }
+    },
+    "order": 53,
+    "createdAt": "2026-06-12T00:09:00Z",
+    "updatedAt": "2026-06-12T00:09:00Z"
   }
 ]

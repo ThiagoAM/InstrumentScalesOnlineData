@@ -1,0 +1,60 @@
+{
+  "id": "piano-scale-rocket-switches",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Launch pad\nWork in **D major**, two octaves, hands together. Think like a pilot: the takeoff must be calm, the route must stay clear, and the landing must be intentional. Use fingering you already trust so the challenge stays on control.",
+          "pt-BR": "# Plataforma de lançamento\nTrabalhe em **Ré maior**, duas oitavas, mãos juntas. Pense como piloto: a decolagem precisa ser calma, a rota precisa ser clara e a aterrissagem precisa ser intencional. Use uma digitação em que você já confia para o desafio ficar no controle.",
+          "es": "# Plataforma de lanzamiento\nTrabaja en **Re mayor**, dos octavas, manos juntas. Piensa como piloto: el despegue debe ser tranquilo, la ruta debe ser clara y el aterrizaje debe ser intencional. Usa una digitación que ya domines para que el reto sea el control.",
+          "de": "# Startrampe\nArbeite in **D-Dur**, zwei Oktaven, beide Hände zusammen. Denk wie ein Pilot: Der Start muss ruhig sein, die Route klar und die Landung bewusst. Nutze einen Fingersatz, dem du schon vertraust, damit es wirklich um Kontrolle geht.",
+          "ja": "# 発射台\n**Dメジャー**、2オクターブ、両手同時で行います。パイロットの気分で考えてください。離陸は落ち着いて、航路は明確に、着地は意図的に。すでに信頼できる指使いを使い、課題をコントロールに集中させましょう。",
+          "zh-Hans": "# 发射台\n在 **D大调** 中练习，双手齐奏，两个八度。把自己当成飞行员：起飞要冷静，路线要清楚，落地要有目的。用你已经熟悉的指法，让挑战集中在控制力上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Stage 1 – Clean launch\nPlay the scale up and down with even eighth notes. Keep both thumbs quiet, wrists loose, and tone balanced between hands. If one hand gets louder, slow down until the sound feels centered again.",
+          "pt-BR": "# Estágio 1 – Decolagem limpa\nToque a escala subindo e descendo em colcheias iguais. Mantenha os polegares discretos, os punhos soltos e o som equilibrado entre as mãos. Se uma mão ficar mais alta, diminua até o som voltar ao centro.",
+          "es": "# Etapa 1 – Despegue limpio\nToca la escala subiendo y bajando con corcheas parejas. Mantén los pulgares discretos, las muñecas sueltas y el sonido equilibrado entre ambas manos. Si una mano suena más fuerte, reduce la velocidad hasta recuperar el centro.",
+          "de": "# Stufe 1 – Sauberer Start\nSpiele die Skala auf und ab in gleichmäßigen Achteln. Halte die Daumen unauffällig, die Handgelenke locker und den Klang zwischen beiden Händen ausgeglichen. Wenn eine Hand lauter wird, verlangsame, bis der Klang wieder in der Mitte sitzt.",
+          "ja": "# ステージ1 – きれいな発進\n上行・下行ともに均等な8分音符で弾きます。親指は静かに、手首は柔らかく、両手の音量はバランスよく保ちます。片手が大きくなったら、音が中心に戻るまでテンポを落とします。",
+          "zh-Hans": "# 第一阶段 – 干净起飞\n上下行都用均匀的八分音符来弹。拇指动作要安静，手腕要放松，两只手的音量要平衡。如果有一只手更响，就慢下来，直到声音重新回到中间。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Stage 2 – Mid-air switch\nOn the way up, accent **every third note**. On the way down, switch and accent **every fourth note**. Do not let the accent pattern break your fingering or your pulse.",
+          "pt-BR": "# Estágio 2 – Troca no ar\nNa subida, acentue **cada terceira nota**. Na descida, troque e acentue **cada quarta nota**. Não deixe o padrão de acentos quebrar sua digitação nem seu pulso.",
+          "es": "# Etapa 2 – Cambio en pleno vuelo\nAl subir, acentúa **cada tercera nota**. Al bajar, cambia y acentúa **cada cuarta nota**. No permitas que el patrón de acentos rompa la digitación ni el pulso.",
+          "de": "# Stufe 2 – Wechsel im Flug\nAuf dem Weg nach oben akzentuierst du **jede dritte Note**. Auf dem Weg nach unten wechselst du und akzentuierst **jede vierte Note**. Lass das Akzentmuster weder Fingersatz noch Puls zerstören.",
+          "ja": "# ステージ2 – 空中で切り替え\n上行では **3音ごと** にアクセントを付けます。下行では切り替えて **4音ごと** にアクセントを付けます。アクセントのパターンのせいで、指使いや拍が崩れないようにしてください。",
+          "zh-Hans": "# 第二阶段 – 空中切换\n上行时，**每第3个音**加重音；下行时，切换成**每第4个音**加重音。不要让重音模式打乱你的指法或脉冲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Landing test\nPlay **4 perfect reps in a row**. On rep 1 use mezzo-forte, on rep 2 piano, on rep 3 add a small crescendo, and on rep 4 return to an even dynamic. If one rep gets messy, restart the count. Precision is the game.",
+          "pt-BR": "# Teste de aterrissagem\nFaça **4 repetições perfeitas seguidas**. Na repetição 1 toque mezzo-forte, na 2 toque piano, na 3 faça um pequeno crescendo e na 4 volte para uma dinâmica uniforme. Se uma repetição sair bagunçada, recomece a contagem. O jogo aqui é precisão.",
+          "es": "# Prueba de aterrizaje\nHaz **4 repeticiones perfectas seguidas**. En la 1 toca mezzo-forte, en la 2 piano, en la 3 añade un pequeño crescendo y en la 4 vuelve a una dinámica pareja. Si una repetición sale desordenada, reinicia la cuenta. Aquí manda la precisión.",
+          "de": "# Landetest\nSpiele **4 perfekte Wiederholungen hintereinander**. In Durchgang 1 spielst du mezzo-forte, in 2 piano, in 3 mit kleinem Crescendo und in 4 wieder mit gleichmäßiger Dynamik. Wenn ein Durchgang unsauber ist, beginnt die Zählung von vorn. Präzision ist hier das Spiel.",
+          "ja": "# 着地テスト\n**4回連続で完璧な反復**を目指します。1回目はメゾフォルテ、2回目はピアノ、3回目は小さなクレッシェンド、4回目は均一な音量に戻します。1回でも乱れたらカウントを最初から。ここでの勝負は精度です。",
+          "zh-Hans": "# 着陆测试\n连续完成 **4次完美重复**。第1次用 mezzo-forte，第2次用 piano，第3次加一个小 crescendo，第4次回到均匀力度。如果其中一次变乱，就重新计数。这里比拼的是精度。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-12T00:10:21Z",
+  "updatedAt": "2026-06-12T00:10:21Z"
+}

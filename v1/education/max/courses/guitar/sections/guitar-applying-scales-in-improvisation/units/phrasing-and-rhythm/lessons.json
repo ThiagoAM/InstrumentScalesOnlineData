@@ -754,5 +754,33 @@
     "order": 27,
     "createdAt": "2026-06-08T00:07:01Z",
     "updatedAt": "2026-06-08T00:07:01Z"
+  },
+  {
+    "id": "guitar-backbeat-treasure-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Backbeat Treasure Hunt",
+        "pt-BR": "Caça ao Tesouro do Backbeat na Guitarra",
+        "es": "Búsqueda del Tesoro del Backbeat en Guitarra",
+        "de": "Gitarren-Backbeat-Schatzsuche",
+        "ja": "ギター・バックビート宝探し",
+        "zh-Hans": "吉他反拍寻宝"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Aim scale phrases at beats 2 and 4, add silence, and build a tighter groove.",
+        "pt-BR": "Mire frases de escala nos tempos 2 e 4, use silêncio e construa um groove mais firme.",
+        "es": "Apunta frases de escala a los tiempos 2 y 4, usa silencios y construye un groove más firme.",
+        "de": "Richte Skalenphrasen auf die Zählzeiten 2 und 4, nutze Stille und baue einen festeren Groove.",
+        "ja": "スケールフレーズを2拍目と4拍目に当て、休符も使ってグルーヴを強くします。",
+        "zh-Hans": "让音阶乐句落在第2和第4拍，加入停顿，练出更稳的律动。"
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-06-12T00:07:25Z",
+    "updatedAt": "2026-06-12T00:07:25Z"
   }
 ]
