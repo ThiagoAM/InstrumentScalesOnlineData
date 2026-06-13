@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "bass-mode-switchboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mode Switchboard Groove",
+        "pt-BR": "Groove de Central de Modos",
+        "es": "Groove de Central de Modos",
+        "de": "Groove-Schaltzentrale der Modi",
+        "ja": "モード切替スイッチボード・グルーヴ",
+        "zh-Hans": "模式切换台 Groove"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Flip between modal colors on bass without losing pocket, pulse, or clear note choices.",
+        "pt-BR": "Troque cores modais no baixo sem perder pocket, pulso nem clareza nas escolhas de notas.",
+        "es": "Cambia colores modales en el bajo sin perder pocket, pulso ni claridad en las notas.",
+        "de": "Wechsle modale Farben auf dem Bass, ohne Pocket, Puls oder klare Tonwahl zu verlieren.",
+        "ja": "ベースでモードの色を切り替えても、ポケットと拍感と音の狙いを失わない練習です。",
+        "zh-Hans": "在贝斯上切换调式色彩时，依然保持 pocket、脉搏感和清晰的音符选择。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-06-13T00:09:14Z",
+    "updatedAt": "2026-06-13T00:09:14Z"
   }
 ]

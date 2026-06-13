@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-06-11T00:10:53Z",
     "updatedAt": "2026-06-11T00:10:53Z"
+  },
+  {
+    "id": "piano-scale-escape-room",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Escape Room",
+        "pt-BR": "Sala de Fuga das Escalas",
+        "es": "Sala de Escape de Escalas",
+        "de": "Skalen-Escape-Room",
+        "ja": "スケール脱出ルーム",
+        "zh-Hans": "音阶逃脱房"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Solve a sequence of piano scale puzzles with both hands until technique and musical choices unlock together.",
+        "pt-BR": "Resolva uma sequência de desafios de escala no piano até técnica e escolha musical destravarem juntas.",
+        "es": "Resuelve una secuencia de retos de escalas al piano hasta que técnica y decisiones musicales se desbloqueen juntas.",
+        "de": "Löse eine Reihe von Klavier-Skalenrätseln, bis Technik und musikalische Entscheidungen gemeinsam aufschließen.",
+        "ja": "ピアノのスケール課題を順番に解いて、テクニックと音楽的判断を一緒に解放するレッスンです。",
+        "zh-Hans": "通过一连串钢琴音阶谜题，让技巧和音乐选择一起解锁。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-06-13T00:10:33Z",
+    "updatedAt": "2026-06-13T00:10:33Z"
   }
 ]

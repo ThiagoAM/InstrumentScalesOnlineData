@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-06-11T00:07:36Z",
     "updatedAt": "2026-06-11T00:07:36Z"
+  },
+  {
+    "id": "guitar-solo-clue-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Clue Hunt",
+        "pt-BR": "Caça às Pistas do Solo",
+        "es": "Caza de Pistas para el Solo",
+        "de": "Solo-Spurensuche",
+        "ja": "ソロ手がかりハント",
+        "zh-Hans": "独奏线索追踪"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Track target notes like a detective and turn scale practice into a story-driven guitar solo game.",
+        "pt-BR": "Persiga notas-alvo como uma detetive e transforme o estudo de escalas em um jogo narrativo de solo de guitarra.",
+        "es": "Sigue notas objetivo como una detective y convierte el estudio de escalas en un juego narrativo de solo de guitarra.",
+        "de": "Verfolge Zieltöne wie ein Detektiv und verwandle Skalenpraxis in ein erzählerisches Gitarrensolo-Spiel.",
+        "ja": "探偵のようにターゲット音を追いかけ、スケール練習を物語のあるギターソロゲームに変えます。",
+        "zh-Hans": "像侦探一样追踪目标音，把吉他音阶练习变成有剧情的独奏任务。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-06-13T00:07:39Z",
+    "updatedAt": "2026-06-13T00:07:39Z"
   }
 ]

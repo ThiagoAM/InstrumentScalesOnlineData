@@ -1,0 +1,73 @@
+{
+  "id": "bass-mode-switchboard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine your bass is a control panel with three glowing buttons: Dorian, Mixolydian, and Aeolian. Your job is not to play more notes. Your job is to switch colors without breaking the groove. Before you start, clap quarter notes and say which one note gives each mode its personality.",
+          "pt-BR": "Imagine que seu baixo é um painel de controle com três botões acesos: Dórico, Mixolídio e Eólio. Seu trabalho não é tocar mais notas. Seu trabalho é trocar de cor sem quebrar o groove. Antes de começar, bata semínimas com palmas e diga qual nota dá personalidade a cada modo.",
+          "es": "Imagina que tu bajo es un panel de control con tres botones encendidos: dórico, mixolidio y eólico. Tu trabajo no es tocar más notas. Tu trabajo es cambiar de color sin romper el groove. Antes de empezar, marca negras con palmas y di qué nota le da personalidad a cada modo.",
+          "de": "Stell dir vor, dein Bass ist ein Bedienfeld mit drei leuchtenden Knöpfen: Dorisch, Mixolydisch und Äolisch. Deine Aufgabe ist nicht, mehr Töne zu spielen. Deine Aufgabe ist, die Farbe zu wechseln, ohne den Groove zu zerstören. Klatsche vor dem Start Viertel und sag, welcher einzelne Ton jedem Modus seine Persönlichkeit gibt.",
+          "ja": "自分のベースが、ドリアン・ミクソリディアン・エオリアンの3つの光るボタンを持つ操作パネルだと想像してください。仕事は音数を増やすことではありません。グルーヴを壊さずに色を切り替えることです。始める前に4分音符を手拍子し、それぞれのモードらしさを決める1音を口に出しましょう。",
+          "zh-Hans": "想象你的贝斯是一块控制面板，上面有三个发光按钮：Dorian、Mixolydian 和 Aeolian。你的任务不是弹更多音，而是在不破坏 groove 的情况下切换色彩。开始前，先拍四分音符，并说出每个调式最能代表个性的那个音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: build a two-bar minor groove in D Dorian. Keep the rhythm simple and repeatable. In bar one, stay close to root and fifth. In bar two, feature the natural 6 once so the listener can actually hear the Dorian flavor instead of guessing.",
+          "pt-BR": "Rodada 1: monte um groove menor de dois compassos em Ré dórico. Mantenha o ritmo simples e repetível. No primeiro compasso, fique perto da tônica e da quinta. No segundo, destaque o 6 natural uma vez para que a sonoridade dórica realmente apareça.",
+          "es": "Ronda 1: construye un groove menor de dos compases en Re dórico. Mantén el ritmo simple y repetible. En el primer compás, quédate cerca de la tónica y la quinta. En el segundo, muestra una vez la sexta natural para que el color dórico se escuche de verdad.",
+          "de": "Runde 1: Bau einen zweitaktigen Moll-Groove in D-Dorisch. Halte den Rhythmus einfach und wiederholbar. Bleib im ersten Takt nahe bei Grundton und Quinte. Im zweiten Takt soll die große 6 einmal klar auftauchen, damit man den dorischen Klang wirklich hört.",
+          "ja": "ラウンド1では、Dドリアンで2小節のマイナー・グルーヴを作ります。リズムはシンプルで繰り返しやすく保ちましょう。1小節目はルートと5度の近くにとどまり、2小節目ではナチュラル6を1回しっかり出して、ドリアンの色をはっきり聞かせます。",
+          "zh-Hans": "第1回合：在 D Dorian 里做一个两小节的小调 groove。节奏保持简单、可重复。第一小节尽量围绕根音和五度，第二小节必须至少出现一次自然6度，让人真的听出 Dorian 的味道，而不是靠猜。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: keep the same rhythmic shape, but move to G Mixolydian. This time, make the b7 the star of at least one beat-one or beat-three landing. If your line sounds like plain major scale practice, simplify and aim harder at the modal color note.",
+          "pt-BR": "Rodada 2: mantenha a mesma célula rítmica, mas mude para Sol mixolídio. Desta vez, faça a sétima menor virar a estrela em pelo menos uma chegada no tempo 1 ou no tempo 3. Se a linha soar como estudo genérico de escala maior, simplifique e mire com mais força na nota modal.",
+          "es": "Ronda 2: conserva la misma figura rítmica, pero cambia a Sol mixolidio. Esta vez, haz que la séptima menor sea la estrella en al menos una llegada del tiempo 1 o del tiempo 3. Si tu línea suena a práctica genérica de escala mayor, simplifica y apunta con más fuerza a la nota modal.",
+          "de": "Runde 2: Behalte dieselbe Rhythmusform, aber wechsle zu G-Mixolydisch. Diesmal soll die kleine 7 mindestens einmal auf einer Landung auf Zählzeit 1 oder 3 glänzen. Wenn deine Linie wie gewöhnliche Durtonleiter-Praxis klingt, vereinfache sie und ziele stärker auf den modalen Farbton.",
+          "ja": "ラウンド2では、同じリズムの形を保ったまま Gミクソリディアンへ移ります。今度は短7度が、少なくとも1回は1拍目か3拍目の着地点で主役になるようにします。もし普通のメジャースケール練習のように聞こえたら、音を減らしてモードらしさのある音をもっと強く狙いましょう。",
+          "zh-Hans": "第2回合：保持同样的节奏形状，但切换到 G Mixolydian。这一次，至少有一次在第1拍或第3拍落到小七度，让它成为主角。如果你的 line 听起来像普通大调音阶练习，就再简化一些，更明确地瞄准调式色彩音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3: switch to A Aeolian and darken the mood without slowing down. Use the b6 or b7 to make the line feel heavier, but keep your articulation even. Pretend the drummer is judging your timing more than your note choices.",
+          "pt-BR": "Rodada 3: troque para Lá eólio e escureça o clima sem diminuir a energia. Use a sexta menor ou a sétima menor para deixar a linha mais pesada, mas mantenha a articulação uniforme. Finja que a baterista está julgando mais seu tempo do que suas notas.",
+          "es": "Ronda 3: cambia a La eólico y oscurece el ambiente sin bajar la energía. Usa la sexta menor o la séptima menor para que la línea pese más, pero mantén la articulación pareja. Imagina que la baterista está juzgando más tu tiempo que tus notas.",
+          "de": "Runde 3: Wechsle zu A-Äolisch und mach die Stimmung dunkler, ohne langsamer zu werden. Nutze die kleine 6 oder kleine 7, damit die Linie schwerer wirkt, aber halte deine Artikulation gleichmäßig. Tu so, als würde der Drummer dein Timing strenger bewerten als deine Tonwahl.",
+          "ja": "ラウンド3では、Aエオリアンに切り替えて、勢いを落とさずに空気を少し暗くします。短6度または短7度を使って重さを出しつつ、アーティキュレーションは均一に保ってください。ドラマーが音選びよりタイム感を厳しく見ていると思って弾きましょう。",
+          "zh-Hans": "第3回合：切换到 A Aeolian，在不减弱能量的前提下把气氛变暗。用小六度或小七度让 line 更厚重，但发音要保持均匀。假装鼓手评判你的标准更看重 timing，而不是音有多花。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: create an eight-bar “switchboard” line that spends two bars in each mode, then returns to Dorian for the ending. Record it and listen back for two things: Did the groove stay solid through every switch? Could someone name the mode changes just by hearing your note emphasis?",
+          "pt-BR": "Desafio final: crie uma linha de oito compassos de “central de modos” com dois compassos em cada modo e retorno ao dórico no final. Grave e escute duas coisas: o groove ficou sólido em todas as trocas? Alguém conseguiria nomear as mudanças de modo só pela ênfase das notas?",
+          "es": "Desafío final: crea una línea de ocho compases de “central de modos” con dos compases en cada modo y vuelta al dórico para el final. Grábala y escucha dos cosas: ¿el groove siguió firme en cada cambio? ¿Alguien podría nombrar los cambios de modo solo por el énfasis de tus notas?",
+          "de": "Abschluss-Challenge: Erfinde eine acht Takte lange „Schaltzentrale“-Linie mit je zwei Takten pro Modus und einer Rückkehr nach Dorisch am Ende. Nimm sie auf und achte auf zwei Dinge: Blieb der Groove bei jedem Wechsel stabil? Könnte jemand die Moduswechsel allein an deiner Tonbetonung erkennen?",
+          "ja": "最後のチャレンジは、各モード2小節ずつ使い、最後にドリアンへ戻る8小節の「スイッチボード」ラインを作ることです。録音して、2つ確認しましょう。切り替えのたびにグルーヴは安定していたか。強調した音だけでモードの変化が伝わるか。",
+          "zh-Hans": "最终挑战：写一条 8 小节的“切换台”line，每个调式用 2 小节，最后回到 Dorian 收尾。录下来后检查两件事：每次切换时 groove 还稳吗？只靠你强调的音，别人能听出调式已经变了吗？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-13T00:09:14Z",
+  "updatedAt": "2026-06-13T00:09:14Z"
+}
