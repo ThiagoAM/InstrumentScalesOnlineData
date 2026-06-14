@@ -1,0 +1,73 @@
+{
+  "id": "guitar-backbeat-boomerang",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up in **A Dorian** and imagine the backbeat on beats 2 and 4 as a giant magnet. Play one short phrase that starts on beat 1, then answer it with a phrase that leans toward beat 2. Your mission is not speed — it is making the return feel inevitable.",
+          "pt-BR": "Aqueça em **Lá dórico** e imagine o backbeat nos tempos 2 e 4 como um ímã gigante. Toque uma frase curta começando no tempo 1 e responda com outra frase puxada em direção ao tempo 2. A missão não é velocidade — é fazer a volta soar inevitável.",
+          "es": "Calienta en **La dórico** e imagina el backbeat en los tiempos 2 y 4 como un imán gigante. Toca una frase corta que empiece en el tiempo 1 y contéstala con otra frase que se incline hacia el tiempo 2. La misión no es correr: es hacer que el regreso suene inevitable.",
+          "de": "Wärme dich in **A-Dorisch** auf und stelle dir den Backbeat auf Zählzeit 2 und 4 wie einen riesigen Magneten vor. Spiele eine kurze Phrase auf Zählzeit 1 und beantworte sie mit einer Phrase, die Richtung Zählzeit 2 zieht. Es geht nicht um Tempo, sondern darum, dass die Rückkehr unvermeidlich klingt.",
+          "ja": "**Aドリアン**でウォームアップし、2拍目と4拍目のバックビートを巨大な磁石だと思ってください。1拍目から短いフレーズを出し、2拍目へ引っ張られるような返答フレーズを作ります。速さではなく、戻り方が必然に聞こえるかが勝負です。",
+          "zh-Hans": "先在 **A 多利亚** 里热身，把第 2 拍和第 4 拍的反拍想成一个巨大的磁铁。先在第 1 拍抛出一个短句，再用一个朝第 2 拍倾斜的回答句把它接住。目标不是快，而是让“回来的那一下”听起来像命中注定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: play only **three-note ideas**. Start each idea on a different part of the beat: downbeat, upbeat, then the \"and\" of 2. After each phrase, leave a tiny rest before the answer. Those little silences are the boomerang curve that makes the second phrase feel stronger.",
+          "pt-BR": "Rodada 1: toque apenas **ideias de três notas**. Comece cada ideia em uma parte diferente do pulso: tempo forte, contratempo e o \"e\" do 2. Depois de cada frase, deixe uma pequena pausa antes da resposta. Esses silêncios curtos são a curva do bumerangue que faz a segunda frase soar mais forte.",
+          "es": "Ronda 1: toca solo **ideas de tres notas**. Empieza cada idea en una parte distinta del pulso: tiempo fuerte, contratiempo y la \"y\" de 2. Después de cada frase, deja un pequeño silencio antes de la respuesta. Esos silencios son la curva del búmeran que hace que la segunda frase pegue más.",
+          "de": "Runde 1: spiele nur **Drei-Noten-Ideen**. Starte jede Idee an einer anderen Stelle im Puls: auf dem Beat, offbeat und auf dem „und“ von 2. Lass nach jeder Phrase eine kleine Pause, bevor die Antwort kommt. Diese Mini-Pausen sind die Flugkurve des Bumerangs.",
+          "ja": "ラウンド1は **3音のアイデアだけ** を使います。ダウンビート、裏拍、2拍目の「&」と、毎回違う位置から始めましょう。各フレーズのあとに小さな休符を入れてから返答します。その短い沈黙が、ブーメランのカーブになります。",
+          "zh-Hans": "第 1 轮只用 **三音想法**。每次从不同位置起步：正拍、反拍、还有第 2 拍后的 “and”。每个短句之后先留一点空白，再给出回答。那一点点静默，就是回旋镖划回来的弧线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: keep the same notes, but move the **accent**. First accent the first note, then the last note, then a middle note. Listen to how the same scale fragment suddenly sounds stubborn, sneaky, or triumphant just because the weight moved.",
+          "pt-BR": "Rodada 2: mantenha as mesmas notas, mas mude o **acento**. Primeiro acentue a primeira nota, depois a última, depois uma nota do meio. Perceba como o mesmo fragmento de escala pode soar teimoso, sorrateiro ou triunfante só porque o peso mudou de lugar.",
+          "es": "Ronda 2: conserva las mismas notas, pero cambia el **acento**. Primero acentúa la primera nota, luego la última y luego una nota del medio. Escucha cómo el mismo fragmento de escala puede sonar terco, sigiloso o triunfante solo porque cambió el peso.",
+          "de": "Runde 2: behalte dieselben Töne, aber verschiebe den **Akzent**. Betone erst den ersten Ton, dann den letzten, dann einen mittleren Ton. Hör dir an, wie dasselbe Skalenfragment plötzlich stur, heimlich oder triumphierend wirkt, nur weil das Gewicht wandert.",
+          "ja": "ラウンド2では音はそのままで **アクセント** だけを変えます。最初の音、最後の音、真ん中の音という順に重みを移してください。同じスケール断片でも、重心が変わるだけで、しつこくも、こっそりも、勝ち誇っても聞こえます。",
+          "zh-Hans": "第 2 轮保持同样的音，但改变 **重音**。先重第一音，再重最后一音，再重中间音。听听看：同一个音阶片段，只因为重心移动，就会突然像在挑衅、潜行，或者凯旋。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss level: create a two-bar mini solo where bar 1 climbs away from your target note and bar 2 lands back on it exactly on beat 1 or beat 3. If the landing is early, the boomerang crashed. If it is late, it missed the target. Nail the return.",
+          "pt-BR": "Fase chefão: crie um mini solo de dois compassos em que o compasso 1 sobe para longe da nota-alvo e o compasso 2 volte a cair nela exatamente no tempo 1 ou no tempo 3. Se a chegada vier cedo, o bumerangue caiu antes da hora. Se vier tarde, errou o alvo. Acerte a volta.",
+          "es": "Nivel jefe: crea un mini solo de dos compases donde el compás 1 se aleje de tu nota objetivo y el compás 2 vuelva a caer en ella exactamente en el tiempo 1 o en el tiempo 3. Si aterrizas antes, el búmeran chocó. Si llegas tarde, falló el blanco. Clava el regreso.",
+          "de": "Boss-Level: baue ein Zwei-Takt-Mini-Solo, bei dem Takt 1 sich vom Zielton entfernt und Takt 2 genau auf Zählzeit 1 oder 3 wieder dort landet. Wenn die Landung zu früh kommt, ist der Bumerang abgestürzt. Wenn sie zu spät kommt, hat er das Ziel verfehlt. Triff die Rückkehr.",
+          "ja": "ボス課題は2小節のミニソロです。1小節目で目標音から離れ、2小節目で1拍目か3拍目にぴったり戻ってきてください。早すぎれば墜落、遅すぎれば的外れ。戻りの精度が命です。",
+          "zh-Hans": "Boss 关卡：写一个两小节迷你 solo。第 1 小节先离开目标音，第 2 小节必须在第 1 拍或第 3 拍精准落回去。太早就是撞墙，太晚就是失手。把回归打准。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Cool down by recording three clean takes and asking yourself: **Did the rhythm pull forward? Did the return land with intention? Did my rests sound musical?** If you can answer yes to all three, your phrasing is getting sharper, not just busier.",
+          "pt-BR": "Finalize gravando três takes limpos e pergunte: **o ritmo puxou para frente? a volta chegou com intenção? minhas pausas soaram musicais?** Se a resposta for sim para as três, seu fraseado está ficando mais afiado, não apenas mais cheio de notas.",
+          "es": "Cierra grabando tres tomas limpias y pregúntate: **¿el ritmo empujó hacia delante? ¿el regreso cayó con intención? ¿mis silencios sonaron musicales?** Si puedes decir sí a las tres, tu fraseo está más afilado, no solo más lleno de notas.",
+          "de": "Zum Abschluss nimm drei saubere Takes auf und frage dich: **Zog der Rhythmus nach vorn? Landete die Rückkehr mit Absicht? Klang meine Pause musikalisch?** Wenn du alle drei Fragen mit Ja beantworten kannst, wird dein Phrasing schärfer und nicht nur voller.",
+          "ja": "最後に3回きれいに録音して、**リズムは前へ進んだか、戻りは意図的に着地したか、休符は音楽的だったか** を確認しましょう。3つとも yes なら、あなたのフレージングはただ忙しいだけでなく、ちゃんと鋭くなっています。",
+          "zh-Hans": "最后录下三次干净版本，问自己：**节奏有没有往前拉？回归有没有带着意图着陆？休止听起来够不够音乐？** 如果三项都能回答“有”，你的乐句能力就不是更忙，而是真的更锋利了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-19T00:06:18Z",
+  "updatedAt": "2026-05-19T00:06:18Z"
+}

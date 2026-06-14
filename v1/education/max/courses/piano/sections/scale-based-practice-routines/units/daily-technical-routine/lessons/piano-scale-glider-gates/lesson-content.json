@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-glider-gates",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **Bb major** and imagine your scale as a glider flying through five gates: tone, fingering, balance, rhythm, and relaxation. Every run must pass through all five without clipping a wing. The point is not perfect speed — it is clean control that still sounds musical.",
+          "pt-BR": "Escolha **Sib maior** e imagine a escala como um planador passando por cinco portões: timbre, dedilhado, equilíbrio, ritmo e relaxamento. Cada execução precisa atravessar os cinco sem bater a asa. O objetivo não é velocidade perfeita — é controle limpo que continue soando musical.",
+          "es": "Elige **Sib mayor** e imagina tu escala como un planeador que atraviesa cinco puertas: sonido, digitación, balance, ritmo y relajación. Cada pasada debe cruzar las cinco sin golpear un ala. La meta no es velocidad perfecta, sino control limpio que siga sonando musical.",
+          "de": "Wähle **B-Dur** und stell dir deine Tonleiter wie einen Gleiter vor, der durch fünf Tore fliegt: Klang, Fingersatz, Balance, Rhythmus und Lockerheit. Jeder Durchgang muss alle fünf passieren, ohne eine Flügelspitze zu streifen. Es geht nicht um perfekte Geschwindigkeit, sondern um saubere Kontrolle, die trotzdem musikalisch klingt.",
+          "ja": "**Bbメジャー**を選び、音階を5つのゲートをくぐるグライダーだと想像してください。ゲートは、音色、運指、バランス、リズム、脱力です。毎回の演奏で5つすべてを翼に当てずに通過することが目標です。速さの完璧さではなく、音楽的なまま保てるクリーンなコントロールが大事です。",
+          "zh-Hans": "选择 **Bb 大调**，把你的音阶想成一架要穿过五道门的滑翔机：音色、指法、平衡、节奏、放松。每一次练习都要穿过这五道门，而且不能擦到机翼。重点不是绝对速度，而是在保持音乐感的同时做到干净控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Gate 1 is **tone**. Play one two-octave scale at mezzo piano and make every note match like identical beads. If one note pops out, do not rush on — circle back and fix the touch. A glider that wobbles early never lands gracefully.",
+          "pt-BR": "O Portão 1 é o **timbre**. Toque uma escala de duas oitavas em mezzo piano e faça cada nota combinar como contas idênticas. Se uma nota saltar para fora, não siga adiante correndo — volte e corrija o toque. Um planador que balança cedo nunca pousa com elegância.",
+          "es": "La Puerta 1 es el **sonido**. Toca una escala de dos octavas en mezzo piano y haz que cada nota coincida como cuentas idénticas. Si una sobresale, no sigas corriendo: vuelve atrás y corrige el toque. Un planeador que tiembla al principio nunca aterriza con elegancia.",
+          "de": "Tor 1 ist der **Klang**. Spiele eine Zwei-Oktaven-Tonleiter im Mezzopiano und lass jede Note wie eine identische Perle klingen. Wenn ein Ton heraussticht, geh nicht einfach weiter — kehre zurück und repariere den Anschlag. Ein Gleiter, der früh wackelt, landet nie elegant.",
+          "ja": "ゲート1は **音色**。2オクターブのスケールを mezzo piano で弾き、すべての音が同じビーズのようにそろうようにします。1音だけ飛び出したら、そのまま先へ行かず、戻ってタッチを直しましょう。早い段階で揺れるグライダーは美しく着陸できません。",
+          "zh-Hans": "第 1 道门是 **音色**。用 mezzo piano 弹一条两八度音阶，让每个音像一串完全一致的珠子。如果某个音突然跳出来，不要硬着头皮往前冲，先回去修正触键。起飞就摇晃的滑翔机，不会优雅降落。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Gate 2 is **thumb timing**. Play again, but whisper \"turn\" exactly where the thumb passes under or over. Your hands should feel like they are trading places smoothly, not jumping over a crack in the keyboard.",
+          "pt-BR": "O Portão 2 é o **tempo do polegar**. Toque de novo, mas sussurre \"vira\" exatamente onde o polegar passa por baixo ou por cima. As mãos devem parecer trocar de lugar com suavidade, não pular sobre uma rachadura no teclado.",
+          "es": "La Puerta 2 es el **tiempo del pulgar**. Toca otra vez, pero susurra \"gira\" justo donde el pulgar pasa por debajo o por encima. Tus manos deben sentirse como si intercambiaran lugares con suavidad, no como si saltaran una grieta del teclado.",
+          "de": "Tor 2 ist das **Daumen-Timing**. Spiele erneut und flüstere genau dort „wechsel“, wo der Daumen unter- oder überschreitet. Deine Hände sollen sich anfühlen, als würden sie weich die Plätze tauschen, nicht als müssten sie über einen Riss in der Tastatur springen.",
+          "ja": "ゲート2は **親指のタイミング**。もう一度弾きながら、親指がくぐる場所で小さく「ターン」と言ってみましょう。両手は、鍵盤の割れ目を飛び越えるのではなく、なめらかに場所を譲り合う感覚で動くべきです。",
+          "zh-Hans": "第 2 道门是 **拇指时机**。再弹一遍，并在拇指穿越的位置轻声说一句“转”。你的双手应该像在平滑交接位置，而不是像跨过键盘上的裂缝那样跳过去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Gate 3 and Gate 4 are **balance and rhythm**. First let the right hand sing slightly above the left, then switch the spotlight. After that, keep both hands even while changing from eighth notes to triplets. If the tempo shakes, shrink the speed until the gates are clean again.",
+          "pt-BR": "Os Portões 3 e 4 são **equilíbrio e ritmo**. Primeiro deixe a mão direita cantar um pouco acima da esquerda; depois troque o foco. Em seguida, mantenha as duas mãos iguais enquanto muda de colcheias para tercinas. Se o tempo tremer, reduza a velocidade até os portões ficarem limpos de novo.",
+          "es": "Las Puertas 3 y 4 son **balance y ritmo**. Primero deja que la mano derecha cante un poco por encima de la izquierda; luego cambia el foco. Después, mantén ambas manos parejas mientras cambias de corcheas a tresillos. Si el tempo tiembla, baja la velocidad hasta limpiar las puertas otra vez.",
+          "de": "Tor 3 und Tor 4 sind **Balance und Rhythmus**. Lass zuerst die rechte Hand etwas über der linken singen, dann dreh das Licht um. Danach hältst du beide Hände gleichmäßig, während du von Achteln zu Triolen wechselst. Wenn das Tempo wackelt, nimm Geschwindigkeit heraus, bis die Tore wieder sauber sind.",
+          "ja": "ゲート3と4は **バランスとリズム**。まず右手を少し前に出して歌わせ、次に左手へ主役を移します。そのあと、8分音符から3連符へ変えても両手を均等に保ちます。テンポが揺れたら、ゲートがきれいになるまで速度を下げてください。",
+          "zh-Hans": "第 3 和第 4 道门是 **平衡与节奏**。先让右手比左手稍微更会“唱”，再把聚光灯换到左手。接着，在八分音符和三连音之间切换，同时保持双手均匀。如果速度开始晃，就把 BPM 缩小，直到关卡再次干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final gate: **relaxation under pressure**. Increase the metronome by a tiny step and play three successful runs in a row. Between runs, release your shoulders and jaw on purpose. The win is not merely surviving the tempo; it is sounding composed inside it.",
+          "pt-BR": "Portão final: **relaxamento sob pressão**. Aumente o metrônomo em um passo pequeno e toque três execuções bem-sucedidas em sequência. Entre uma e outra, solte ombros e mandíbula de propósito. A vitória não é apenas sobreviver ao andamento; é soar calmo dentro dele.",
+          "es": "Puerta final: **relajación bajo presión**. Sube el metrónomo un paso pequeño y toca tres pasadas exitosas seguidas. Entre cada una, suelta hombros y mandíbula a propósito. La victoria no es solo sobrevivir al tempo; es sonar sereno dentro de él.",
+          "de": "Das letzte Tor ist **Lockerheit unter Druck**. Erhöhe das Metronom minimal und spiele drei erfolgreiche Durchgänge hintereinander. Zwischen den Läufen entspannst du bewusst Schultern und Kiefer. Der Sieg besteht nicht nur darin, das Tempo zu überleben, sondern darin, darin gesammelt zu klingen.",
+          "ja": "最後のゲートは **プレッシャーの中の脱力**。メトロノームをほんの少し上げ、成功した演奏を3回連続で出します。各回のあいだに肩とあごを意識してゆるめましょう。勝ちとは、速さを生き延びることではなく、その中でも落ち着いて聞こえることです。",
+          "zh-Hans": "最后一道门是 **压力下的放松**。把节拍器小幅提高，然后连续完成三次成功通过。每次之间都刻意放松肩膀和下巴。真正的胜利，不只是活着冲过速度，而是在速度里依然显得从容。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Log your result with one sentence: **Which gate was easiest, which gate fought back, and what is tomorrow's target tempo?** That quick note turns random practice into a real flight plan.",
+          "pt-BR": "Registre o resultado com uma frase: **qual portão foi mais fácil, qual resistiu mais e qual será o andamento-alvo de amanhã?** Essa nota rápida transforma prática aleatória em um verdadeiro plano de voo.",
+          "es": "Anota el resultado en una frase: **¿qué puerta fue la más fácil, cuál se resistió más y cuál será el tempo objetivo de mañana?** Esa nota breve convierte una práctica aleatoria en un verdadero plan de vuelo.",
+          "de": "Halte das Ergebnis in einem Satz fest: **Welches Tor war am leichtesten, welches hat sich gewehrt, und welches Zieltempo nimmst du dir für morgen vor?** Diese kurze Notiz macht aus Zufallsüben einen echten Flugplan.",
+          "ja": "最後に1文だけ記録しましょう。**いちばん簡単だったゲートはどれか、いちばん抵抗したゲートはどれか、明日の目標テンポはいくつか。** この短いメモが、気まぐれな練習を本当の飛行計画に変えてくれます。",
+          "zh-Hans": "最后用一句话记录结果：**哪一道门最轻松，哪一道门最会反抗，明天的目标速度是多少？** 这条短记录，会把随机练习变成真正的飞行计划。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-19T00:08:45Z",
+  "updatedAt": "2026-05-19T00:08:45Z"
+}
