@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-06-07T00:06:28Z",
     "updatedAt": "2026-06-07T00:06:28Z"
+  },
+  {
+    "id": "guitar-chord-tone-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Chord-Tone Chase",
+        "pt-BR": "Caça aos Tons de Acorde na Guitarra",
+        "es": "Caza de Tonos de Acorde en Guitarra",
+        "de": "Akkordton-Jagd auf der Gitarre",
+        "ja": "ギター・コードトーン・チェイス",
+        "zh-Hans": "吉他和弦音追踪战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hunt chord tones inside A Dorian so your phrasing sounds intentional, not accidental.",
+        "pt-BR": "Persiga os tons de acorde dentro de Lá dórico para que seu fraseado soe intencional, não acidental.",
+        "es": "Persigue tonos de acorde dentro de La dórico para que tu fraseo suene intencional y no accidental.",
+        "de": "Jage Akkordtöne in A-Dorisch, damit dein Phrasing bewusst und nicht zufällig klingt.",
+        "ja": "Aドリアンの中でコードトーンを追いかけ、偶然ではなく意図のあるフレージングにします。",
+        "zh-Hans": "在A多利亚里追踪和弦音，让你的乐句听起来是有意图的，而不是误打误撞。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-06-15T00:10:35Z",
+    "updatedAt": "2026-06-15T00:10:35Z"
   }
 ]

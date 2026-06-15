@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-06-13T00:10:33Z",
     "updatedAt": "2026-06-13T00:10:33Z"
+  },
+  {
+    "id": "piano-boss-path",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Boss Path",
+        "pt-BR": "Caminho do Chefão no Piano",
+        "es": "Ruta del Jefe Final en Piano",
+        "de": "Klavier-Boss-Pfad",
+        "ja": "ピアノ・ボスパス",
+        "zh-Hans": "钢琴Boss路径"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a 12-minute scale session that levels up technique, harmony, and musical focus instead of drifting randomly.",
+        "pt-BR": "Monte uma sessão de 12 minutos que evolui técnica, harmonia e foco musical em vez de estudar no automático.",
+        "es": "Construye una sesión de 12 minutos que haga crecer técnica, armonía y enfoque musical en vez de practicar a la deriva.",
+        "de": "Baue eine 12-minütige Skalenroutine, die Technik, Harmonie und musikalischen Fokus wachsen lässt statt ziellos zu treiben.",
+        "ja": "12分のスケール練習を、なんとなく流すのではなく、テクニック・ハーモニー・集中力が育つステージ型セッションにします。",
+        "zh-Hans": "设计一套12分钟音阶练习，让技巧、和声和音乐专注力一起升级，而不是随便练一练。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-06-15T00:14:08Z",
+    "updatedAt": "2026-06-15T00:14:08Z"
   }
 ]
