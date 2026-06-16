@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-04-06T00:05:44Z",
     "updatedAt": "2026-04-06T00:05:44Z"
+  },
+  {
+    "id": "e-minor-rescue-route",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "E Minor Rescue Route",
+        "pt-BR": "Rota de Resgate em Mi Menor",
+        "es": "Ruta de Rescate en Mi Menor",
+        "de": "Rettungsroute in e-Moll",
+        "ja": "Eマイナー・レスキュールート",
+        "zh-Hans": "E小调救援路线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape autopilot by steering the E natural minor scale through checkpoints, string changes, and a short improv mission.",
+        "pt-BR": "Saia do piloto automático guiando a escala de mi menor natural por checkpoints, trocas de corda e uma pequena missão de improviso.",
+        "es": "Sal del piloto automático guiando la escala de mi menor natural por checkpoints, cambios de cuerda y una breve misión de improvisación.",
+        "de": "Verlasse den Autopiloten und steuere die natürliche e-Moll-Tonleiter durch Checkpoints, Saitenwechsel und eine kurze Impro-Mission.",
+        "ja": "Eナチュラルマイナーをチェックポイント、弦移動、短い即興ミッションで導き、オートパイロット練習から抜け出そう。",
+        "zh-Hans": "用检查点、换弦和一段小即兴任务，引导E自然小调离开机械重复。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-06-16T00:06:52Z",
+    "updatedAt": "2026-06-16T00:06:52Z"
   }
 ]

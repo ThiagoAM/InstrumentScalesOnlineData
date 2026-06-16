@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-05-06T00:09:08Z",
     "updatedAt": "2026-05-06T00:09:08Z"
+  },
+  {
+    "id": "black-key-sneak-path",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Black-Key Sneak Path",
+        "pt-BR": "Caminho Secreto das Teclas Pretas",
+        "es": "Camino Secreto de las Teclas Negras",
+        "de": "Geheimpfad über schwarze Tasten",
+        "ja": "黒鍵スニークパス",
+        "zh-Hans": "黑键潜行路线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn to steer a major scale through black-key landmarks while keeping both hands calm and coordinated.",
+        "pt-BR": "Aprenda a guiar uma escala maior usando as teclas pretas como pontos de referência, com as duas mãos calmas e coordenadas.",
+        "es": "Aprende a guiar una escala mayor usando las teclas negras como puntos de referencia, con ambas manos tranquilas y coordinadas.",
+        "de": "Lerne, eine Durtonleiter über schwarze Tasten als Orientierungspunkte zu steuern, während beide Hände ruhig und koordiniert bleiben.",
+        "ja": "黒鍵を目印にしながらメジャースケールを進み、両手を落ち着いてそろえよう。",
+        "zh-Hans": "学会把黑键当作路标，平稳协调地穿过一条大调音阶。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-06-16T00:06:53Z",
+    "updatedAt": "2026-06-16T00:06:53Z"
   }
 ]

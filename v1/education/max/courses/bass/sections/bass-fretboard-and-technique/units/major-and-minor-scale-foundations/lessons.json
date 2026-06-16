@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-05-06T00:08:01Z",
     "updatedAt": "2026-05-06T00:08:01Z"
+  },
+  {
+    "id": "pedal-point-scale-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pedal Point Scale Chase",
+        "pt-BR": "Caçada de Escala com Pedal",
+        "es": "Persecución de Escala con Pedal",
+        "de": "Pedalton-Skalenjagd",
+        "ja": "ペダルポイント・スケールチェイス",
+        "zh-Hans": "持续低音音阶追逐"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a steady root into a groove anchor while major-scale notes weave around it.",
+        "pt-BR": "Transforme uma tônica firme em âncora de groove enquanto as notas da escala maior giram ao redor dela.",
+        "es": "Convierte una tónica firme en ancla de groove mientras las notas de la escala mayor se mueven a su alrededor.",
+        "de": "Verwandle einen stabilen Grundton in einen Groove-Anker, während sich die Töne der Durtonleiter darum bewegen.",
+        "ja": "安定したルート音をグルーヴの支点にしながら、その周りをメジャースケールで動き回ろう。",
+        "zh-Hans": "把稳定的根音变成律动锚点，让大调音阶围着它旋转。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-16T00:06:52Z",
+    "updatedAt": "2026-06-16T00:06:52Z"
   }
 ]

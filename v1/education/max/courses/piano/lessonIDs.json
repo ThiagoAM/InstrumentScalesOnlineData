@@ -21,6 +21,7 @@
     "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/scale-call-and-response",
     "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/piano-contrary-motion-mirror-chase",
     "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/thumb-under-time-trial",
+    "piano/keyboard-and-technique-foundations/major-and-natural-minor-scales/black-key-sneak-path",
     "piano/scales-chords-and-harmony/building-chords-from-scales/triads-from-c-major-scale",
     "piano/scales-chords-and-harmony/building-chords-from-scales/inversions-of-major-and-minor-triads",
     "piano/scales-chords-and-harmony/building-chords-from-scales/broken-chord-patterns-using-scales",
@@ -113,5 +114,5 @@
     "piano/scale-based-practice-routines/creating-your-own-practice-plan/piano-boss-path"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-06-15T00:14:08Z"
+  "updatedAt": "2026-06-16T00:06:53Z"
 }

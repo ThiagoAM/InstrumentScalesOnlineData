@@ -1,0 +1,86 @@
+{
+  "id": "black-key-sneak-path",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today the keyboard is a puzzle board. Your job is to travel through **D major** and use the black keys as helpful signposts instead of panic buttons.",
+          "pt-BR": "Hoje o teclado é um tabuleiro de puzzle. Sua tarefa é atravessar **Ré maior** e usar as teclas pretas como placas úteis, não como botões de pânico.",
+          "es": "Hoy el teclado es un tablero de rompecabezas. Tu trabajo es atravesar **Re mayor** y usar las teclas negras como señales útiles, no como botones de pánico.",
+          "de": "Heute ist die Tastatur ein Rätselbrett. Deine Aufgabe ist es, durch **D-Dur** zu reisen und die schwarzen Tasten als hilfreiche Wegweiser statt als Panikknöpfe zu benutzen.",
+          "ja": "今日は鍵盤がパズルボードだ。あなたの仕事は **Dメジャー** を進み、黒鍵をパニックボタンではなく頼れる道しるべとして使うこと。",
+          "zh-Hans": "今天的键盘像一块解谜板。你的任务是穿过 **D大调**，把黑键当成可靠路标，而不是慌张时乱按的按钮。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: tap the two **F#**s and the two **C#**s you will use, then play **D-E-F#-G** in each hand separately. Say **white, white, black, white** so your eyes and fingers agree.",
+          "pt-BR": "Aquecimento: toque os dois **F#** e os dois **C#** que você vai usar e depois toque **D-E-F#-G** com cada mão separadamente. Diga **branca, branca, preta, branca** para olhos e dedos entrarem em acordo.",
+          "es": "Calentamiento: toca los dos **F#** y los dos **C#** que vas a usar, y luego toca **D-E-F#-G** con cada mano por separado. Di **blanca, blanca, negra, blanca** para que ojos y dedos estén de acuerdo.",
+          "de": "Aufwärmen: tippe die beiden **F#** und die beiden **C#** an, die du benutzen wirst, und spiele dann **D-E-F#-G** mit jeder Hand getrennt. Sage **weiß, weiß, schwarz, weiß**, damit Augen und Finger dasselbe meinen.",
+          "ja": "ウォームアップ：使う **F#** と **C#** をそれぞれ2つずつ軽く触れ、そのあと **D-E-F#-G** を左右別々に弾く。**白、白、黒、白** と声に出して、目と指を一致させよう。",
+          "zh-Hans": "热身：先点出你要用到的两个 **F#** 和两个 **C#**，然后双手分别弹 **D-E-F#-G**。一边说 **白、白、黑、白**，让眼睛和手指达成一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sneak path drill: right hand up one octave in eighth notes at **72 bpm**, then left hand down one octave. Keep the thumb turns light and let every black key feel like a tiny landing pad.",
+          "pt-BR": "Exercício do caminho secreto: mão direita sobe uma oitava em colcheias a **72 bpm**, depois a mão esquerda desce uma oitava. Deixe a passagem do polegar leve e faça cada tecla preta parecer uma pequena pista de pouso.",
+          "es": "Ejercicio del camino secreto: la mano derecha sube una octava en corcheas a **72 bpm**, luego la mano izquierda baja una octava. Mantén ligero el paso del pulgar y deja que cada tecla negra se sienta como una pequeña pista de aterrizaje.",
+          "de": "Geheimpfad-Drill: rechte Hand eine Oktave aufwärts in Achteln bei **72 bpm**, dann linke Hand eine Oktave abwärts. Halte die Daumenuntersetzung leicht und lass jede schwarze Taste wie eine kleine Landefläche wirken.",
+          "ja": "スニークパス練習：右手で1オクターブ上行を **72 bpm** の8分音符で弾き、そのあと左手で1オクターブ下行する。親指くぐりは軽くし、黒鍵を小さな着地点のように感じよう。",
+          "zh-Hans": "潜行路线练习：右手以 **72 bpm** 的八分音符上行一组八度，然后左手下行一组八度。拇指穿越要轻，让每个黑键都像一个小小着陆点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mirror challenge: play hands together, but stop for one beat on every **F#**. Listen for matching tone and make sure one hand does not jab harder than the other.",
+          "pt-BR": "Desafio espelhado: toque com as duas mãos juntas, mas pare por um tempo em cada **F#**. Ouça se o timbre está combinando e garanta que uma mão não ataque mais do que a outra.",
+          "es": "Reto espejo: toca con las dos manos juntas, pero detente un pulso en cada **F#**. Escucha si el tono coincide y asegúrate de que una mano no ataque más fuerte que la otra.",
+          "de": "Spiegel-Challenge: spiele mit beiden Händen zusammen, halte aber auf jedem **F#** einen Schlag lang an. Höre auf gleichen Klang und achte darauf, dass keine Hand härter zusticht als die andere.",
+          "ja": "ミラーチャレンジ：両手同時に弾くが、**F#** に来るたび1拍止まる。音色がそろっているか聴き、片手だけ強く突かないようにする。",
+          "zh-Hans": "镜像挑战：双手一起弹，但每遇到一个 **F#** 就停一拍。听听两手音色是否一致，也别让一只手比另一只更戳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shortcut round: create a **1-bar ending phrase** from D major that uses at least one black key and resolves to D. Play it once legato, once staccato, and once with a crescendo toward the top.",
+          "pt-BR": "Rodada do atalho: crie uma **frase de encerramento de 1 compasso** em Ré maior que use pelo menos uma tecla preta e resolva em Ré. Toque uma vez legato, uma vez staccato e uma vez com crescendo até o topo.",
+          "es": "Ronda de atajo: crea una **frase final de 1 compás** en Re mayor que use al menos una tecla negra y resuelva en Re. Tócala una vez legato, una vez staccato y una vez con crescendo hacia arriba.",
+          "de": "Abkürzungsrunde: baue eine **eintaktige Schlussphrase** aus D-Dur, die mindestens eine schwarze Taste benutzt und sich nach D auflöst. Spiele sie einmal legato, einmal staccato und einmal mit Crescendo nach oben.",
+          "ja": "ショートカット・ラウンド：Dメジャーで、少なくとも1つ黒鍵を使いDに解決する **1小節の終止フレーズ** を作る。レガートで1回、スタッカートで1回、上に向かうクレッシェンドで1回弾こう。",
+          "zh-Hans": "捷径回合：在D大调中写一个 **1小节结束句**，至少用到一个黑键，并最终解决到D。连奏一次、断奏一次、再做一次向上的渐强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: when both hands survive three smooth runs, raise the tempo by **4 bpm**. If the fingering tangles, shrink the motion and trace the black-key landmarks before trying again.",
+          "pt-BR": "Checkpoint: quando as duas mãos sobreviverem a três passagens suaves, aumente o andamento em **4 bpm**. Se o dedilhado embolar, reduza o movimento e trace os marcos das teclas pretas antes de tentar outra vez.",
+          "es": "Checkpoint: cuando ambas manos sobrevivan a tres recorridos suaves, sube el tempo **4 bpm**. Si la digitación se enreda, reduce el movimiento y recorre los puntos de referencia de las teclas negras antes de intentarlo otra vez.",
+          "de": "Checkpoint: wenn beide Hände drei flüssige Durchgänge überleben, erhöhe das Tempo um **4 bpm**. Wenn sich der Fingersatz verknotet, verkleinere die Bewegung und zeichne erst die schwarzen Orientierungstasten nach.",
+          "ja": "チェックポイント：両手で3回なめらかに通せたら、テンポを **4 bpm** 上げる。指使いがもつれたら、動きを小さくし、もう一度黒鍵の目印をたどってから挑戦しよう。",
+          "zh-Hans": "检查点：当双手都能顺利完成三次平滑通关后，把速度提高 **4 bpm**。如果指法打结，就先缩小动作，再重新描一遍黑键路标。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-16T00:06:53Z",
+  "updatedAt": "2026-06-16T00:06:53Z"
+}
