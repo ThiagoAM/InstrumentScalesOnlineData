@@ -1,0 +1,60 @@
+{
+  "id": "piano-progression-portal",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Step into the portal\n\nUse a **Dm7 - G7 - Cmaj7** progression in the key of **C major**.\n\nSet a metronome to **78 bpm** and work in **3-bar loops**.\n\nToday the goal is not speed. It is to make each scale choice sound like it belongs there.",
+          "pt-BR": "### Entre no portal\n\nUse uma progressão **Dm7 - G7 - Cmaj7** na tonalidade de **Dó maior**.\n\nAjuste o metrônomo para **78 bpm** e trabalhe em **loops de 3 compassos**.\n\nHoje o objetivo não é velocidade. É fazer cada escolha de escala soar como se pertencesse ao lugar.",
+          "es": "### Entra en el portal\n\nUsa una progresión **Dm7 - G7 - Cmaj7** en la tonalidad de **Do mayor**.\n\nPon el metrónomo a **78 bpm** y trabaja en **bucles de 3 compases**.\n\nHoy la meta no es la velocidad. Es hacer que cada elección de escala suene como si perteneciera ahí.",
+          "de": "### Tritt in das Portal\n\nVerwende eine **Dm7 - G7 - Cmaj7**-Progression in **C-Dur**.\n\nStelle das Metronom auf **78 bpm** und arbeite in **3-taktigen Loops**.\n\nHeute geht es nicht um Tempo. Es geht darum, dass jede Skalenwahl so klingt, als gehöre sie genau dorthin.",
+          "ja": "### ポータルに入ろう\n\n**Cメジャー** の中で **Dm7 - G7 - Cmaj7** の進行を使います。\n\nメトロノームを **78 bpm** に設定し、**3小節ループ** で練習します。\n\n今日の目標は速さではありません。どのスケール選択も「そこにあるべき音」に聴こえることです。",
+          "zh-Hans": "### 走进传送门\n\n在 **C大调** 中使用 **Dm7 - G7 - Cmaj7** 进行。\n\n把节拍器设为 **78 bpm**，按 **3小节循环** 来练习。\n\n今天的目标不是速度，而是让每一次音阶选择都听起来像“它本来就该在这里”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Gate 1: map the safe notes\n\nPlay one bar per chord using only notes from **C major**.\n\nFocus on landing these targets:\n- **F** or **A** on **Dm7**\n- **B** or **F** on **G7**\n- **E** or **G** on **Cmaj7**\n\nUse both hands if you can, but keep the touch light.",
+          "pt-BR": "### Portal 1: mapeie as notas seguras\n\nToque um compasso por acorde usando apenas notas de **Dó maior**.\n\nConcentre-se em cair nestes alvos:\n- **F** ou **A** sobre **Dm7**\n- **B** ou **F** sobre **G7**\n- **E** ou **G** sobre **Cmaj7**\n\nUse as duas mãos se puder, mas mantenha o toque leve.",
+          "es": "### Portal 1: mapa de notas seguras\n\nToca un compás por acorde usando solo notas de **Do mayor**.\n\nConcéntrate en caer en estos objetivos:\n- **F** o **A** sobre **Dm7**\n- **B** o **F** sobre **G7**\n- **E** o **G** sobre **Cmaj7**\n\nUsa las dos manos si puedes, pero mantén un toque ligero.",
+          "de": "### Tor 1: sichere Töne kartieren\n\nSpiele einen Takt pro Akkord und verwende nur Töne aus **C-Dur**.\n\nAchte auf diese Zieltöne:\n- **F** oder **A** über **Dm7**\n- **B** oder **F** über **G7**\n- **E** oder **G** über **Cmaj7**\n\nBenutze beide Hände, wenn du kannst, aber halte den Anschlag leicht.",
+          "ja": "### ゲート1：安全な音を地図にする\n\n**Cメジャー** の音だけを使って、コードごとに1小節ずつ弾きます。\n\n次のターゲットに着地しましょう：\n- **Dm7** では **F** または **A**\n- **G7** では **B** または **F**\n- **Cmaj7** では **E** または **G**\n\nできれば両手を使い、タッチは軽く保ってください。",
+          "zh-Hans": "### 第1关：画出安全音地图\n\n每个和弦弹1小节，只使用 **C大调** 的音。\n\n重点落在这些目标音上：\n- **Dm7** 上落 **F** 或 **A**\n- **G7** 上落 **B** 或 **F**\n- **Cmaj7** 上落 **E** 或 **G**\n\n如果可以，双手一起弹，但触键要轻。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Gate 2: upgrade the rhythm\n\nKeep the same notes, but make **three rhythmic versions**:\n- straight eighth notes\n- a version with one rest on beat 2 or 3\n- a version with a longer final note in bar 3\n\nIf the rhythm gets messy, clap it once before playing it.",
+          "pt-BR": "### Portal 2: melhore o ritmo\n\nMantenha as mesmas notas, mas faça **três versões rítmicas**:\n- colcheias retas\n- uma versão com uma pausa no tempo 2 ou 3\n- uma versão com uma nota final mais longa no compasso 3\n\nSe o ritmo ficar bagunçado, bata palmas uma vez antes de tocar.",
+          "es": "### Portal 2: mejora el ritmo\n\nMantén las mismas notas, pero crea **tres versiones rítmicas**:\n- corcheas rectas\n- una versión con un silencio en el pulso 2 o 3\n- una versión con una nota final más larga en el compás 3\n\nSi el ritmo se desordena, palméalо una vez antes de tocarlo.",
+          "de": "### Tor 2: Rhythmus aufrüsten\n\nBehalte dieselben Töne, aber mache **drei rhythmische Versionen**:\n- gerade Achtel\n- eine Version mit einer Pause auf Zählzeit 2 oder 3\n- eine Version mit einem längeren Schlusston in Takt 3\n\nWenn der Rhythmus unordentlich wird, klatsche ihn einmal, bevor du ihn spielst.",
+          "ja": "### ゲート2：リズムを強化する\n\n音はそのままにして、**3種類のリズム版** を作ります：\n- まっすぐな8分音符\n- 2拍目か3拍目に休符を入れた版\n- 3小節目の最後を長い音にした版\n\nリズムが崩れたら、弾く前に一度手拍子してください。",
+          "zh-Hans": "### 第2关：升级节奏\n\n保持同样的音，但做出 **三种节奏版本**：\n- 平稳的八分音符\n- 在第2拍或第3拍加入一个休止\n- 在第3小节结尾放一个更长的音\n\n如果节奏乱了，先拍一遍手再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final portal run\n\nCreate **two complete 3-bar phrases** that include:\n- at least one clear target note per chord\n- one rhythmic rest\n- one ending that sounds finished, not accidental\n\nKeep the phrase that sounds most musical, then move the whole portal to **F major**. 🎹",
+          "pt-BR": "### Corrida final pelo portal\n\nCrie **duas frases completas de 3 compassos** que incluam:\n- pelo menos uma nota-alvo clara por acorde\n- uma pausa rítmica\n- um final que soe concluído, não acidental\n\nGuarde a frase mais musical e depois mova todo o portal para **Fá maior**. 🎹",
+          "es": "### Carrera final por el portal\n\nCrea **dos frases completas de 3 compases** que incluyan:\n- al menos una nota objetivo clara por acorde\n- un silencio rítmico\n- un final que suene terminado, no accidental\n\nGuarda la frase que suene más musical y luego mueve todo el portal a **Fa mayor**. 🎹",
+          "de": "### Letzter Portallauf\n\nErstelle **zwei komplette 3-taktige Phrasen** mit:\n- mindestens einem klaren Zielton pro Akkord\n- einer rhythmischen Pause\n- einem Ende, das abgeschlossen und nicht zufällig klingt\n\nBehalte die musikalischste Phrase und verschiebe dann das ganze Portal nach **F-Dur**. 🎹",
+          "ja": "### 最終ポータルラン\n\n次を含む **2つの完成した3小節フレーズ** を作りましょう：\n- 各コードで少なくとも1つの明確なターゲット音\n- 1つのリズム休符\n- 偶然ではなく、締まって聞こえる終わり方\n\nいちばん音楽的に聞こえるフレーズを残し、そのままポータル全体を **Fメジャー** に移しましょう。 🎹",
+          "zh-Hans": "### 最终传送门冲刺\n\n创作 **两个完整的3小节乐句**，其中要包含：\n- 每个和弦至少一个清晰的目标音\n- 一个节奏休止\n- 一个听起来像结束而不是意外的收尾\n\n留下最有音乐感的乐句，然后把整个传送门移到 **F大调**。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-18T00:08:16Z",
+  "updatedAt": "2026-06-18T00:08:16Z"
+}

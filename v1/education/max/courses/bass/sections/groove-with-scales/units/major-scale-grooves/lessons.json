@@ -1482,5 +1482,33 @@
     "order": 53,
     "createdAt": "2026-06-12T00:09:00Z",
     "updatedAt": "2026-06-12T00:09:00Z"
+  },
+  {
+    "id": "bass-groove-bridge-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Groove Bridge Builder",
+        "pt-BR": "Construtor de Pontes de Groove no Baixo",
+        "es": "Constructor de Puentes de Groove para Bajo",
+        "de": "Groove-Brückenbauer für Bass",
+        "ja": "ベース・グルーヴ橋づくり",
+        "zh-Hans": "贝斯律动桥梁建造者"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect root motion and scale color into a bass groove that feels steady, playful, and impossible to ignore.",
+        "pt-BR": "Conecte movimento de tônicas e cor de escala em um groove de baixo estável, brincalhão e impossível de ignorar.",
+        "es": "Conecta el movimiento de las tónicas y el color de la escala en un groove de bajo estable, juguetón e imposible de ignorar.",
+        "de": "Verbinde Grundtonbewegung und Skalenfarbe zu einem Bassgroove, der stabil, verspielt und unmöglich zu überhören ist.",
+        "ja": "ルートの動きとスケールの色をつなぎ、安定感があり遊び心もある無視できないベースグルーヴを作ろう。",
+        "zh-Hans": "把根音走向和音阶色彩连成一条贝斯律动线，让它稳定、有趣，而且让人无法忽视。"
+      }
+    },
+    "order": 54,
+    "createdAt": "2026-06-18T00:06:54Z",
+    "updatedAt": "2026-06-18T00:06:54Z"
   }
 ]

@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-06-07T00:09:15Z",
     "updatedAt": "2026-06-07T00:09:15Z"
+  },
+  {
+    "id": "piano-progression-portal",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Progression Portal",
+        "pt-BR": "Portal de Progressões no Piano",
+        "es": "Portal de Progresiones para Piano",
+        "de": "Progressionsportal fürs Klavier",
+        "ja": "ピアノ進行ポータル",
+        "zh-Hans": "钢琴和声进行传送门"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Travel through a ii-V-I with scale choices, rhythmic control, and enough musical intent to make practice feel like performance.",
+        "pt-BR": "Atravesse um ii-V-I com escolhas de escala, controle rítmico e intenção musical suficiente para transformar estudo em performance.",
+        "es": "Recorre un ii-V-I con elecciones de escala, control rítmico y la intención musical suficiente para que el estudio se sienta como interpretación.",
+        "de": "Reise durch ein ii-V-I mit Skalenwahl, rhythmischer Kontrolle und genug musikalischer Absicht, damit sich Üben wie Musizieren anfühlt.",
+        "ja": "ii-V-Iをスケール選択とリズムコントロールで旅し、練習を演奏のように感じさせる音楽的な意図を育てよう。",
+        "zh-Hans": "穿过一个ii-V-I进行，用音阶选择、节奏控制和明确的音乐意图，把练习变得像演奏一样有现场感。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-06-18T00:08:16Z",
+    "updatedAt": "2026-06-18T00:08:16Z"
   }
 ]

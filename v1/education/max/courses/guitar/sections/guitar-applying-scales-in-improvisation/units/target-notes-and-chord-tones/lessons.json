@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-06-15T00:10:35Z",
     "updatedAt": "2026-06-15T00:10:35Z"
+  },
+  {
+    "id": "guitar-dorian-hook-factory",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Dorian Hook Factory",
+        "pt-BR": "Fábrica de Ganchos Dóricos na Guitarra",
+        "es": "Fábrica de Hooks Dóricos para Guitarra",
+        "de": "Dorian-Hook-Fabrik für Gitarre",
+        "ja": "ギター・ドリアンフック工場",
+        "zh-Hans": "吉他多利亚钩子工厂"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build sticky A Dorian hooks that hit chord tones, dodge autopilot, and sound ready for a real jam.",
+        "pt-BR": "Construa ganchos marcantes em Lá dórico que acertam tons do acorde, fogem do piloto automático e soam prontos para uma jam.",
+        "es": "Crea hooks pegajosos en La dórico que caigan en notas del acorde, eviten el piloto automático y suenen listos para una jam real.",
+        "de": "Baue eingängige A-dorische Hooks, die Akkordtöne treffen, den Autopiloten abschalten und nach echter Jam-Session klingen.",
+        "ja": "Aドリアンで耳に残るフックを作り、コードトーンに着地しながら惰性を抜け出して本物のジャムらしく弾こう。",
+        "zh-Hans": "用A多利亚做出抓耳短句，稳稳落在和弦音上，摆脱机械跑音，弹出真正即兴的味道。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-18T00:05:32Z",
+    "updatedAt": "2026-06-18T00:05:32Z"
   }
 ]

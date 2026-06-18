@@ -1,0 +1,60 @@
+{
+  "id": "bass-groove-bridge-builder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lay the tracks\n\nUse **G major** (G A B C D E F#) over a simple **G - C - D** loop.\n\nSet a metronome to **92 bpm** and think in **2-bar phrases**.\n\nToday you are building a bridge between safe roots and more colorful motion.",
+          "pt-BR": "### Assente os trilhos\n\nUse **Sol maior** (G A B C D E F#) sobre um loop simples de **G - C - D**.\n\nAjuste o metrônomo para **92 bpm** e pense em **frases de 2 compassos**.\n\nHoje você está construindo uma ponte entre tônicas seguras e movimentos mais coloridos.",
+          "es": "### Coloca las vías\n\nUsa **Sol mayor** (G A B C D E F#) sobre un bucle simple de **G - C - D**.\n\nPon el metrónomo a **92 bpm** y piensa en **frases de 2 compases**.\n\nHoy estás construyendo un puente entre tónicas seguras y movimiento más colorido.",
+          "de": "### Lege die Schienen\n\nVerwende **G-Dur** (G A B C D E F#) über einen einfachen **G - C - D**-Loop.\n\nStelle das Metronom auf **92 bpm** und denke in **2-taktigen Phrasen**.\n\nHeute baust du eine Brücke zwischen sicheren Grundtönen und farbigeren Bewegungen.",
+          "ja": "### 線路を敷こう\n\n**Gメジャー**（G A B C D E F#）を、シンプルな **G - C - D** ループで使います。\n\nメトロノームを **92 bpm** に設定し、**2小節フレーズ** で考えましょう。\n\n今日は、安全なルート音と色気のある動きをつなぐ橋を作ります。",
+          "zh-Hans": "### 铺好轨道\n\n在简单的 **G - C - D** 循环上使用 **G大调**（G A B C D E F#）。\n\n把节拍器设为 **92 bpm**，按 **2小节乐句** 来思考。\n\n今天你要搭一座桥，把安全的根音和更有色彩的运动连接起来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: anchor the stations\n\nPlay one note per beat for 2 bars.\n\nRules:\n- beat 1 of each chord must be the **root**\n- one later beat in the bar must use the **3rd** or **5th**\n- keep the sound short and punchy\n\nRepeat until the groove feels locked without sounding stiff.",
+          "pt-BR": "### Rodada 1: ancore as estações\n\nToque uma nota por tempo durante 2 compassos.\n\nRegras:\n- o tempo 1 de cada acorde deve ser a **tônica**\n- algum tempo posterior do compasso deve usar a **terça** ou a **quinta**\n- mantenha o som curto e com ataque definido\n\nRepita até o groove ficar firme sem soar duro.",
+          "es": "### Ronda 1: ancla las estaciones\n\nToca una nota por pulso durante 2 compases.\n\nReglas:\n- el pulso 1 de cada acorde debe ser la **tónica**\n- algún pulso posterior del compás debe usar la **3.ª** o la **5.ª**\n- mantén el sonido corto y con pegada\n\nRepite hasta que el groove quede firme sin sonar rígido.",
+          "de": "### Runde 1: verankere die Stationen\n\nSpiele 2 Takte lang einen Ton pro Schlag.\n\nRegeln:\n- Schlag 1 jedes Akkords muss der **Grundton** sein\n- ein späterer Schlag im Takt muss die **Terz** oder **Quinte** nutzen\n- halte den Klang kurz und prägnant\n\nWiederhole, bis sich der Groove fest anfühlt, ohne steif zu klingen.",
+          "ja": "### ラウンド1：駅を固定する\n\n2小節のあいだ、1拍に1音ずつ弾きます。\n\nルール：\n- 各コードの1拍目は必ず **ルート** にする\n- その小節の後半のどこかで **3度** か **5度** を使う\n- 音は短めでパンチを出す\n\nグルーヴが硬くならずに締まるまで繰り返してください。",
+          "zh-Hans": "### 第1回合：把车站固定住\n\n连续2小节每拍弹一个音。\n\n规则：\n- 每个和弦的第1拍必须是 **根音**\n- 小节后面的某一拍必须用到 **3度** 或 **5度**\n- 音要短而有弹性\n\n重复到律动听起来稳固，但又不会僵硬为止。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: add a passing lane\n\nKeep the same loop, but connect chord changes with **one passing note** from the scale.\n\nIdeas:\n- **G - A - B** heading toward C\n- **C - B - A** heading toward G\n- **D - E - F#** if you want lift\n\nIf the line rushes, simplify the rhythm before removing the passing note.",
+          "pt-BR": "### Rodada 2: adicione uma faixa de passagem\n\nMantenha o mesmo loop, mas conecte as trocas de acorde com **uma nota de passagem** da escala.\n\nIdeias:\n- **G - A - B** indo em direção a C\n- **C - B - A** indo em direção a G\n- **D - E - F#** se quiser mais impulso\n\nSe a linha correr demais, simplifique o ritmo antes de remover a nota de passagem.",
+          "es": "### Ronda 2: añade un carril de paso\n\nMantén el mismo bucle, pero conecta los cambios de acorde con **una nota de paso** de la escala.\n\nIdeas:\n- **G - A - B** hacia C\n- **C - B - A** hacia G\n- **D - E - F#** si quieres más impulso\n\nSi la línea se acelera, simplifica el ritmo antes de quitar la nota de paso.",
+          "de": "### Runde 2: füge eine Durchgangsspur hinzu\n\nBleibe im selben Loop, aber verbinde die Akkordwechsel mit **einem Durchgangston** aus der Skala.\n\nIdeen:\n- **G - A - B** in Richtung C\n- **C - B - A** in Richtung G\n- **D - E - F#** für mehr Auftrieb\n\nWenn die Linie hetzt, vereinfache zuerst den Rhythmus, bevor du den Durchgangston wegnimmst.",
+          "ja": "### ラウンド2：通過レーンを足す\n\n同じループのまま、コードチェンジを **1つの経過音** でつなぎます。\n\nアイデア：\n- Cへ向かう **G - A - B**\n- Gへ戻る **C - B - A**\n- 勢いを出したいなら **D - E - F#**\n\nラインが走ってしまうなら、経過音を消す前にリズムを簡単にしましょう。",
+          "zh-Hans": "### 第2回合：加入一条过渡车道\n\n保持同样的循环，但用 **一个经过音** 来连接和弦变化。\n\n思路：\n- 朝 C 走时用 **G - A - B**\n- 回到 G 时用 **C - B - A**\n- 如果想更有上冲感，可以用 **D - E - F#**\n\n如果线条开始抢拍，先简化节奏，再考虑删掉经过音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final builder challenge\n\nCreate **two different 4-bar grooves** using:\n- roots on strong beats\n- at least two passing notes\n- one rest or held note for breathing room\n\nSave the version that grooves the hardest, then move it to **A major** and keep the same confidence. 🎸",
+          "pt-BR": "### Desafio final do construtor\n\nCrie **dois grooves diferentes de 4 compassos** usando:\n- tônicas nos tempos fortes\n- pelo menos duas notas de passagem\n- uma pausa ou nota sustentada para dar espaço\n\nGuarde a versão que mais grooveia e depois leve-a para **Lá maior** com a mesma confiança. 🎸",
+          "es": "### Desafío final del constructor\n\nCrea **dos grooves distintos de 4 compases** usando:\n- tónicas en los pulsos fuertes\n- al menos dos notas de paso\n- un silencio o nota larga para dejar aire\n\nGuarda la versión que más groove tenga y luego muévela a **La mayor** con la misma seguridad. 🎸",
+          "de": "### Letzte Bau-Challenge\n\nErstelle **zwei verschiedene 4-taktige Grooves** mit:\n- Grundtönen auf starken Zählzeiten\n- mindestens zwei Durchgangstönen\n- einer Pause oder einem gehaltenen Ton zum Atmen\n\nBehalte die Version, die am stärksten groovt, und verschiebe sie dann nach **A-Dur** mit derselben Sicherheit. 🎸",
+          "ja": "### 最終ビルダーチャレンジ\n\n次の条件で **2つの4小節グルーヴ** を作ります：\n- 強拍にルート音\n- 少なくとも2つの経過音\n- 呼吸のための休符かロングトーンを1つ\n\nいちばんグルーヴする形を残し、そのまま **Aメジャー** に移して同じ自信で弾きましょう。 🎸",
+          "zh-Hans": "### 最终建造挑战\n\n按下面要求创作 **两个不同的4小节律动**：\n- 强拍落在根音上\n- 至少两个经过音\n- 一个休止或长音来留出呼吸空间\n\n留下最有律动感的版本，然后把它移到 **A大调**，保持同样的自信。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-18T00:06:54Z",
+  "updatedAt": "2026-06-18T00:06:54Z"
+}

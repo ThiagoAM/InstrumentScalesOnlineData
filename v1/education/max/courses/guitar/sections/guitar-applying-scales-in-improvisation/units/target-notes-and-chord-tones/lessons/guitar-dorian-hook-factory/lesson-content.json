@@ -1,0 +1,60 @@
+{
+  "id": "guitar-dorian-hook-factory",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Open the workshop\n\nUse **A Dorian** (A B C D E F# G) over an **Am7 - D7** loop.\n\nSet a metronome to **84 bpm** and stay in one comfortable area of the neck.\n\nYour mission is to invent short hooks that sound memorable after one listen.",
+          "pt-BR": "### Abra a oficina\n\nUse **Lá dórico** (A B C D E F# G) sobre um loop de **Am7 - D7**.\n\nAjuste o metrônomo para **84 bpm** e fique em uma região confortável do braço.\n\nSua missão é inventar pequenos ganchos que soem memoráveis logo na primeira escuta.",
+          "es": "### Abre el taller\n\nUsa **La dórico** (A B C D E F# G) sobre un bucle de **Am7 - D7**.\n\nPon el metrónomo a **84 bpm** y quédate en una zona cómoda del mástil.\n\nTu misión es inventar hooks cortos que suenen memorables después de una sola escucha.",
+          "de": "### Öffne die Werkstatt\n\nVerwende **A-Dorisch** (A B C D E F# G) über einen **Am7 - D7**-Loop.\n\nStelle das Metronom auf **84 bpm** und bleibe in einem bequemen Bereich des Griffbretts.\n\nDeine Mission ist es, kurze Hooks zu erfinden, die nach einmaligem Hören hängen bleiben.",
+          "ja": "### 工房を開こう\n\n**Aドリアン**（A B C D E F# G）を **Am7 - D7** のループで使います。\n\nメトロノームを **84 bpm** に設定し、まずは弾きやすいポジションにとどまりましょう。\n\n今日の任務は、一度聴いたら覚えられる短いフックを発明することです。",
+          "zh-Hans": "### 打开工坊\n\n在 **Am7 - D7** 循环上使用 **A多利亚**（A B C D E F# G）。\n\n把节拍器设为 **84 bpm**，先停留在你熟悉的一块指板区域。\n\n今天的任务，是发明几段听一遍就能记住的短钩子。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: make a 3-note logo\n\nCreate **three different 3-note hooks**.\n\nRules:\n- each hook must start on **A** or **C** over **Am7**\n- each hook must end on **F#** or **C** over **D7**\n- leave a tiny rest after each hook so it can breathe\n\nIf a hook feels bland, change the rhythm before changing the notes.",
+          "pt-BR": "### Rodada 1: crie um logotipo de 3 notas\n\nCrie **três ganchos diferentes de 3 notas**.\n\nRegras:\n- cada gancho deve começar em **A** ou **C** sobre **Am7**\n- cada gancho deve terminar em **F#** ou **C** sobre **D7**\n- deixe uma pequena pausa após cada gancho para ele respirar\n\nSe um gancho parecer sem graça, mude o ritmo antes de mudar as notas.",
+          "es": "### Ronda 1: crea un logo de 3 notas\n\nCrea **tres hooks distintos de 3 notas**.\n\nReglas:\n- cada hook debe empezar en **A** o **C** sobre **Am7**\n- cada hook debe terminar en **F#** o **C** sobre **D7**\n- deja una pequeña pausa después de cada hook para que respire\n\nSi un hook suena apagado, cambia el ritmo antes de cambiar las notas.",
+          "de": "### Runde 1: baue ein 3-Noten-Logo\n\nErstelle **drei verschiedene 3-Noten-Hooks**.\n\nRegeln:\n- jeder Hook muss über **Am7** auf **A** oder **C** beginnen\n- jeder Hook muss über **D7** auf **F#** oder **C** enden\n- lass nach jedem Hook eine kleine Pause, damit er atmen kann\n\nWenn ein Hook blass wirkt, ändere zuerst den Rhythmus und dann erst die Töne.",
+          "ja": "### ラウンド1：3音ロゴを作る\n\n**3種類の3音フック** を作りましょう。\n\nルール：\n- 各フックは **Am7** 上で **A** または **C** から始める\n- 各フックは **D7** 上で **F#** または **C** で終える\n- 各フックのあとに少し休符を入れて呼吸させる\n\nフックが平凡に感じたら、音を変える前にリズムを変えてください。",
+          "zh-Hans": "### 第1回合：做一个3音标志\n\n创作 **三个不同的3音钩子**。\n\n规则：\n- 每个钩子在 **Am7** 上必须从 **A** 或 **C** 开始\n- 每个钩子在 **D7** 上必须落在 **F#** 或 **C** 结束\n- 每个钩子后留一点小停顿，让它能呼吸\n\n如果某个钩子太平，就先改节奏，再改音高。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: stretch one hook into a sentence\n\nPick your favorite hook and turn it into a **2-bar phrase**.\n\nNow add:\n- one approach note from a step above or below\n- one slide or hammer-on if your technique allows it\n- one longer note at the end of bar 2\n\nThink: hook first, decoration second.",
+          "pt-BR": "### Rodada 2: estique um gancho até virar frase\n\nEscolha seu gancho favorito e transforme-o em uma **frase de 2 compassos**.\n\nAgora adicione:\n- uma nota de aproximação um grau acima ou abaixo\n- um slide ou hammer-on se sua técnica permitir\n- uma nota mais longa no final do compasso 2\n\nPense assim: primeiro o gancho, depois a decoração.",
+          "es": "### Ronda 2: estira un hook hasta formar una frase\n\nElige tu hook favorito y conviértelo en una **frase de 2 compases**.\n\nAhora añade:\n- una nota de aproximación desde un grado arriba o abajo\n- un slide o hammer-on si tu técnica lo permite\n- una nota más larga al final del compás 2\n\nPiensa así: primero el hook, después el adorno.",
+          "de": "### Runde 2: ziehe einen Hook zur Phrase auf\n\nWähle deinen Lieblings-Hook und mache daraus eine **2-taktige Phrase**.\n\nFüge jetzt hinzu:\n- einen Annäherungston einen Skalenschritt darüber oder darunter\n- einen Slide oder Hammer-on, wenn deine Technik das zulässt\n- einen längeren Ton am Ende von Takt 2\n\nDenk daran: erst der Hook, dann die Verzierung.",
+          "ja": "### ラウンド2：フックを文に伸ばす\n\nいちばん気に入ったフックを選び、**2小節のフレーズ** に広げます。\n\n次を加えましょう：\n- 上か下から1音で近づくアプローチノート\n- できるならスライドかハンマリング\n- 2小節目の終わりに少し長い音\n\n考え方は、先にフック、飾りはそのあとです。",
+          "zh-Hans": "### 第2回合：把钩子拉成一句话\n\n选出你最喜欢的钩子，把它扩展成一个 **2小节乐句**。\n\n现在加入：\n- 一个从上方或下方一步接近的经过音\n- 如果技术允许，加一个滑音或击弦\n- 在第2小节结尾放一个更长的音\n\n记住：先有钩子，再加装饰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final jam test\n\nPlay **four 2-bar phrases** in a row without repeating the exact same ending twice.\n\nKeep these checkpoints:\n- strong chord-tone landing\n- clear rhythmic shape\n- one moment of space\n\nWhen one phrase makes you grin, keep it and transpose the whole game to **D Dorian**. 🎸",
+          "pt-BR": "### Teste final de jam\n\nToque **quatro frases de 2 compassos** seguidas sem repetir exatamente o mesmo final duas vezes.\n\nMantenha estes checkpoints:\n- chegada forte em tom do acorde\n- desenho rítmico claro\n- um momento de espaço\n\nQuando uma frase fizer você sorrir, guarde-a e transpose todo o jogo para **Ré dórico**. 🎸",
+          "es": "### Prueba final de jam\n\nToca **cuatro frases de 2 compases** seguidas sin repetir exactamente el mismo final dos veces.\n\nMantén estos puntos de control:\n- llegada fuerte a una nota del acorde\n- forma rítmica clara\n- un momento de espacio\n\nCuando una frase te saque una sonrisa, guárdala y transpón todo el juego a **Re dórico**. 🎸",
+          "de": "### Abschließender Jam-Test\n\nSpiele **vier 2-taktige Phrasen** hintereinander, ohne genau dasselbe Ende zweimal zu wiederholen.\n\nAchte auf diese Kontrollpunkte:\n- starke Landung auf einem Akkordton\n- klare rhythmische Form\n- ein Moment mit Luft\n\nWenn dich eine Phrase grinsen lässt, behalte sie und transponiere das ganze Spiel nach **D-Dorisch**. 🎸",
+          "ja": "### 最終ジャムテスト\n\n**2小節フレーズを4回連続** で弾き、まったく同じ終わり方を2回しないようにします。\n\n確認ポイント：\n- コードトーンへの力強い着地\n- はっきりしたリズムの形\n- ひと息つける空間\n\n思わずにやけるフレーズができたら保存し、ゲーム全体を **Dドリアン** に移してもう一度やりましょう。 🎸",
+          "zh-Hans": "### 最终Jam测试\n\n连续弹 **四个2小节乐句**，并且不要连续两次用完全相同的结尾。\n\n检查这些点：\n- 明确落在和弦音上\n- 节奏轮廓清楚\n- 留出一点空间\n\n当某个乐句让你忍不住笑出来时，就把它留下，然后把整个游戏移到 **D多利亚** 再做一次。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-18T00:05:32Z",
+  "updatedAt": "2026-06-18T00:05:32Z"
+}
