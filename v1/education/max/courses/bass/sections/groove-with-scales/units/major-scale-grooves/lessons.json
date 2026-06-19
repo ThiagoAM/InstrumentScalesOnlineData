@@ -1510,5 +1510,33 @@
     "order": 54,
     "createdAt": "2026-06-18T00:06:54Z",
     "updatedAt": "2026-06-18T00:06:54Z"
+  },
+  {
+    "id": "bass-pocket-crosswind",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Crosswind",
+        "pt-BR": "Vento Cruzado do Pocket no Baixo",
+        "es": "Viento Cruzado del Pocket en Bajo",
+        "de": "Pocket-Seitenwind am Bass",
+        "ja": "ベース・ポケット・クロスウィンド",
+        "zh-Hans": "贝斯 Pocket 侧风"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hold the groove steady while scale notes try to blow your line off course.",
+        "pt-BR": "Mantenha o groove firme enquanto as notas da escala tentam tirar sua linha da rota.",
+        "es": "Mantén el groove firme mientras las notas de la escala intentan desviar tu línea.",
+        "de": "Halte den Groove stabil, während Skalentöne versuchen, deine Linie vom Kurs zu drücken.",
+        "ja": "音階の音に流されそうになっても、グルーヴの進路をぶらさず守ろう。",
+        "zh-Hans": "当音阶音想把你的线条吹偏时，仍然把律动稳稳握在手里。"
+      }
+    },
+    "order": 55,
+    "createdAt": "2026-06-19T00:10:57Z",
+    "updatedAt": "2026-06-19T00:10:57Z"
   }
 ]

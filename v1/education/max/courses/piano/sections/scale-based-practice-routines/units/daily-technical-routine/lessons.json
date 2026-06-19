@@ -1146,5 +1146,33 @@
     "order": 41,
     "createdAt": "2026-06-12T00:10:21Z",
     "updatedAt": "2026-06-12T00:10:21Z"
+  },
+  {
+    "id": "piano-thumb-radar",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Thumb Radar",
+        "pt-BR": "Radar do Polegar no Piano",
+        "es": "Radar del Pulgar en Piano",
+        "de": "Daumen-Radar am Klavier",
+        "ja": "ピアノ・サム・レーダー",
+        "zh-Hans": "钢琴拇指雷达"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Track every thumb crossing before it sneaks up on your scale and breaks the line.",
+        "pt-BR": "Rastreie cada passagem de polegar antes que ela apareça de surpresa e quebre a linha da escala.",
+        "es": "Detecta cada cruce del pulgar antes de que aparezca por sorpresa y rompa la línea de la escala.",
+        "de": "Verfolge jede Daumenbewegung, bevor sie deine Skala überrascht und die Linie zerbricht.",
+        "ja": "親指くぐりの場所を先回りで察知し、音階の流れを切らさないようにしよう。",
+        "zh-Hans": "提前侦测每一次拇指穿越，不让它突然打断你的音阶线条。"
+      }
+    },
+    "order": 42,
+    "createdAt": "2026-06-19T00:12:11Z",
+    "updatedAt": "2026-06-19T00:12:11Z"
   }
 ]

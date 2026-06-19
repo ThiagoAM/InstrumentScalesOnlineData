@@ -530,5 +530,33 @@
     "order": 19,
     "createdAt": "2026-06-13T00:07:39Z",
     "updatedAt": "2026-06-13T00:07:39Z"
+  },
+  {
+    "id": "guitar-rhythm-comet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Comet",
+        "pt-BR": "Cometa Rítmico da Guitarra",
+        "es": "Cometa Rítmico de Guitarra",
+        "de": "Rhythmus-Komet für Gitarre",
+        "ja": "ギター・リズム・コメット",
+        "zh-Hans": "吉他节奏彗星"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Fire scale phrases through changing rhythms and land on target notes before the tail burns out.",
+        "pt-BR": "Lance frases de escala por ritmos diferentes e pouse em notas-alvo antes que a cauda se apague.",
+        "es": "Lanza frases de escala con ritmos cambiantes y aterriza en notas objetivo antes de que la cola se desintegre.",
+        "de": "Schieße Skalenphrasen durch wechselnde Rhythmen und lande rechtzeitig auf Zieltönen.",
+        "ja": "リズムを切り替えながら音階フレーズを飛ばし、最後は狙った音に着地しよう。",
+        "zh-Hans": "让音阶乐句穿过不断变化的节奏，并在尾焰熄灭前落到目标音上。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-06-19T00:08:38Z",
+    "updatedAt": "2026-06-19T00:08:38Z"
   }
 ]
