@@ -1538,5 +1538,33 @@
     "order": 55,
     "createdAt": "2026-06-19T00:10:57Z",
     "updatedAt": "2026-06-19T00:10:57Z"
+  },
+  {
+    "id": "bass-pocket-tug-of-war",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Tug-of-War",
+        "pt-BR": "Cabo de Guerra do Pocket",
+        "es": "Tira y Afloja del Pocket",
+        "de": "Pocket-Seilziehen",
+        "ja": "ポケット綱引き",
+        "zh-Hans": "律动拔河"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen bass groove control by pulling against the beat with rests, anticipations, and scale-based landings that still feel solid.",
+        "pt-BR": "Fortaleça o controle do groove no baixo puxando contra o tempo com pausas, antecipações e chegadas baseadas na escala que continuam soando firmes.",
+        "es": "Refuerza el control del groove en el bajo tirando contra el pulso con silencios, anticipaciones y aterrizajes de escala que siguen sonando sólidos.",
+        "de": "Stärke deine Bass-Groove-Kontrolle, indem du mit Pausen, Vorziehern und skalenbasierten Landungen gegen den Beat ziehst und trotzdem stabil bleibst.",
+        "ja": "休符、食い、スケールに基づく着地を使って拍に逆らいながらも、安定したベースグルーヴを保つ力を鍛えます。",
+        "zh-Hans": "用休止、抢拍和基于音阶的落点来拉扯节拍，同时保持稳固的贝斯律动力。"
+      }
+    },
+    "order": 56,
+    "createdAt": "2026-06-20T00:08:09Z",
+    "updatedAt": "2026-06-20T00:08:09Z"
   }
 ]

@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-06-15T00:14:08Z",
     "updatedAt": "2026-06-15T00:14:08Z"
+  },
+  {
+    "id": "piano-mirror-maze",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mirror Maze",
+        "pt-BR": "Labirinto de Espelhos",
+        "es": "Laberinto de Espejos",
+        "de": "Spiegel-Labyrinth",
+        "ja": "ミラー迷路",
+        "zh-Hans": "镜面迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a piano maze where mirrored motion, rhythmic turns, and controlled hand roles lead to a musical exit.",
+        "pt-BR": "Transforme o estudo de escalas em um labirinto no piano, onde movimento espelhado, curvas rítmicas e papéis controlados das mãos levam a uma saída musical.",
+        "es": "Convierte el estudio de escalas en un laberinto pianístico donde el movimiento espejado, los giros rítmicos y los roles controlados de las manos llevan a una salida musical.",
+        "de": "Verwandle Skalenübung in ein Klavierlabyrinth, in dem Spiegelbewegung, rhythmische Kurven und bewusste Handrollen zu einem musikalischen Ausgang führen.",
+        "ja": "鏡のような動き、リズムの曲がり角、左右の役割の切り替えで、スケール練習を音楽的な出口のあるピアノ迷路に変えます。",
+        "zh-Hans": "把音阶练习变成钢琴迷宫，让镜像运动、节奏转弯和双手角色控制带你找到音乐性的出口。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-06-20T00:09:11Z",
+    "updatedAt": "2026-06-20T00:09:11Z"
   }
 ]

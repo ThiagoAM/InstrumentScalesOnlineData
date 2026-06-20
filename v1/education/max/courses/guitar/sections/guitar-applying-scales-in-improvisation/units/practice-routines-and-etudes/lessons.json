@@ -558,5 +558,33 @@
     "order": 20,
     "createdAt": "2026-06-19T00:08:38Z",
     "updatedAt": "2026-06-19T00:08:38Z"
+  },
+  {
+    "id": "guitar-solo-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Checkpoints",
+        "pt-BR": "Checkpoints do Solo",
+        "es": "Puntos de Control del Solo",
+        "de": "Solo-Kontrollpunkte",
+        "ja": "ソロ・チェックポイント",
+        "zh-Hans": "独奏检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale improvisation into a checkpoint race by landing strong target notes, changing rhythm, and surviving deliberate phrase restrictions.",
+        "pt-BR": "Transforme a improvisação com escalas em uma corrida de checkpoints, acertando notas-alvo, mudando o ritmo e sobrevivendo a restrições de fraseado.",
+        "es": "Convierte la improvisación con escalas en una carrera de puntos de control, aterrizando notas objetivo, cambiando ritmos y sobreviviendo a reglas de fraseo.",
+        "de": "Verwandle Skalenimprovisation in ein Kontrollpunkt-Rennen, bei dem du Zieltöne triffst, Rhythmen wechselst und Phrase-Regeln überlebst.",
+        "ja": "スケール即興をチェックポイント競争に変え、狙った音、リズム変化、フレーズ制限の中で音楽的な判断力を鍛えます。",
+        "zh-Hans": "把音阶即兴变成检查点挑战，在目标音、节奏变化和乐句限制中训练真正的音乐控制力。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-06-20T00:07:03Z",
+    "updatedAt": "2026-06-20T00:07:03Z"
   }
 ]
