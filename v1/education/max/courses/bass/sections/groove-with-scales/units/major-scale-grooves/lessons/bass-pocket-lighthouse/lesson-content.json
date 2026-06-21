@@ -1,0 +1,60 @@
+{
+  "id": "bass-pocket-lighthouse",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick **G major** and create a two-bar bass groove using G, B, D, and one passing A. Loop it until the pulse feels boring in the best possible way. Your lighthouse is beat 1: no matter what else happens, that downbeat must feel bright, centered, and impossible to miss.",
+          "pt-BR": "Escolha **Sol maior** e crie um groove de baixo em dois compassos usando Sol, Si, Ré e uma nota de passagem Lá. Repita até o pulso ficar entediante no melhor sentido possível. Seu farol é o tempo 1: não importa o que aconteça, essa cabeça do compasso precisa soar brilhante, centrada e impossível de ignorar.",
+          "es": "Elige **Sol mayor** y crea un groove de bajo de dos compases usando Sol, Si, Re y una nota de paso La. Repítelo hasta que el pulso se vuelva aburrido en el mejor sentido posible. Tu faro es el tiempo 1: pase lo que pase, ese golpe fuerte debe sentirse brillante, centrado e imposible de perder.",
+          "de": "Wähle **G-Dur** und baue einen zweitaktigen Bassgroove nur mit G, B, D und einem Durchgangston A. Lass ihn so lange laufen, bis sich der Puls im besten Sinne langweilig anfühlt. Dein Leuchtturm ist Zählzeit 1: Egal was sonst passiert, dieser Downbeat muss hell, zentriert und unmöglich zu überhören sein.",
+          "ja": "**Gメジャー**を選び、G・B・Dと経過音のAだけを使って2小節のベースグルーヴを作ります。良い意味で退屈に感じるくらいまで繰り返してください。あなたの灯台は1拍目です。何が起きても、そのダウンビートは明るく、中心が定まり、絶対に聞き逃せないものでなければいけません。",
+          "zh-Hans": "选择**G大调**，只用G、B、D和一个经过音A设计一个两小节的贝斯 groove。循环到稳定得几乎有点无聊——这是好事。你的灯塔就是第1拍：无论发生什么，这个重拍都必须明亮、居中，而且绝不能让人错过。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a fog rule. In each bar, place one note on an offbeat and one short rest on a strong beat. This makes the groove wobble a little without actually losing balance. If the line starts drifting, stop playing notes and clap the rhythm until the lighthouse comes back into view.",
+          "pt-BR": "Agora adicione uma regra de neblina. Em cada compasso, coloque uma nota no contratempo e uma pausa curta em um tempo forte. Isso faz o groove balançar um pouco sem perder o equilíbrio de verdade. Se a linha começar a derivar, pare de tocar notas e bata a célula rítmica com palmas até o farol reaparecer.",
+          "es": "Ahora añade una regla de niebla. En cada compás, coloca una nota en contratiempo y un silencio corto en un tiempo fuerte. Eso hace que el groove se tambalee un poco sin perder realmente el equilibrio. Si la línea empieza a desviarse, deja de tocar notas y aplaude el ritmo hasta que el faro vuelva a verse.",
+          "de": "Jetzt kommt eine Nebelregel dazu. Setze in jedem Takt eine Note auf einen Offbeat und eine kurze Pause auf eine starke Zählzeit. So wackelt der Groove ein bisschen, ohne wirklich das Gleichgewicht zu verlieren. Wenn die Linie abzudriften beginnt, hör auf zu spielen und klatsche nur den Rhythmus, bis der Leuchtturm wieder sichtbar wird.",
+          "ja": "次は霧のルールです。各小節に1つオフビートの音、そして1つ強拍での短い休符を入れます。これでグルーヴは少し揺れますが、本当にバランスを失うわけではありません。ラインが流され始めたら、音を弾くのをやめてリズムだけを手拍子し、灯台が見えてくるまで戻しましょう。",
+          "zh-Hans": "现在加入“浓雾规则”。每小节放一个切分音，再在一个强拍上留一个短休止。这样 groove 会轻轻晃动，但不会真的失去平衡。如果线条开始飘，先别弹音，改成把节奏拍出来，直到你重新看见那座灯塔。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, sneak in one **detour note** per bar: C or E. Use it only if it resolves immediately to G, B, or D. Think of the detour as a quick scenic route, not a new address. The challenge is to add color while keeping the groove so clear that a drummer could lock in after hearing one cycle.",
+          "pt-BR": "Em seguida, esconda uma **nota de desvio** por compasso: Dó ou Mi. Use-a só se ela resolver imediatamente para Sol, Si ou Ré. Pense no desvio como uma rota cênica rápida, não como um novo endereço. O desafio é adicionar cor enquanto o groove continua tão claro que um baterista conseguiria entrar junto depois de ouvir apenas um ciclo.",
+          "es": "Después, mete una **nota de desvío** por compás: Do o Mi. Úsala solo si resuelve de inmediato a Sol, Si o Re. Piensa en el desvío como una ruta panorámica rápida, no como una nueva dirección. El reto es añadir color mientras mantienes el groove tan claro que un baterista podría engancharse después de escuchar un solo ciclo.",
+          "de": "Als Nächstes schmuggelst du pro Takt genau einen **Umwegston** hinein: C oder E. Benutze ihn nur, wenn er sofort nach G, B oder D aufgelöst wird. Denk an den Umweg wie an eine kurze Panoramaroute, nicht wie an eine neue Adresse. Die Herausforderung ist, Farbe hineinzubringen und den Groove trotzdem so klar zu halten, dass ein Drummer nach einem Durchlauf sofort einsteigen könnte.",
+          "ja": "次に、各小節へ**寄り道ノート**を1つ忍ばせます。使えるのはCかEで、必ずすぐにG・B・Dのどれかへ解決させてください。寄り道は新しい住所ではなく、ちょっと景色の良い抜け道だと考えましょう。色を足しながらも、ドラマーが1周聞いただけで合わせられるくらい明快なグルーヴを保つのが課題です。",
+          "zh-Hans": "接着每小节偷偷加入一个**绕路音**：C或E。只有在它立刻解决到G、B或D时才可以使用。把这个绕路想成一次短暂的风景线，而不是搬去新地址。挑战在于加了颜色以后，groove 仍然要清晰到让鼓手只听一遍就能锁进去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: record four takes of the same groove. Take 1 is plain and steady. Take 2 adds ghost notes. Take 3 adds the detour notes. Take 4 keeps everything but moves one rest to a new spot. When you listen back, do not ask which take is busiest. Ask which one makes the pocket glow the strongest.",
+          "pt-BR": "Rodada final: grave quatro takes do mesmo groove. O take 1 é simples e firme. O take 2 adiciona ghost notes. O take 3 adiciona as notas de desvio. O take 4 mantém tudo isso, mas move uma pausa para outro lugar. Quando ouvir de volta, não pergunte qual take está mais cheio. Pergunte qual deles faz o pocket brilhar mais forte.",
+          "es": "Ronda final: graba cuatro tomas del mismo groove. La toma 1 es simple y firme. La toma 2 añade ghost notes. La toma 3 añade las notas de desvío. La toma 4 mantiene todo eso, pero mueve un silencio a otro lugar. Al escucharte, no preguntes cuál toma está más cargada. Pregunta cuál hace que el pocket brille con más fuerza.",
+          "de": "Finalrunde: Nimm vier Versionen desselben Grooves auf. Version 1 ist schlicht und stabil. Version 2 bekommt Ghost Notes. Version 3 bekommt die Umwegstöne. Version 4 behält alles bei, verschiebt aber eine Pause an eine neue Stelle. Frag dich beim Anhören nicht, welche Version am vollsten ist. Frag dich, welche den Pocket am stärksten leuchten lässt.",
+          "ja": "最後のラウンドでは同じグルーヴを4テイク録音します。テイク1はシンプルで安定。テイク2はゴーストノート追加。テイク3は寄り道ノート追加。テイク4はそれらを全部残したまま、1つの休符だけ別の場所へ移します。聴き返すときは、どれが一番忙しいかではなく、どれがポケットを最も明るく光らせたかを問いましょう。",
+          "zh-Hans": "最终回合：把同一个 groove 录四遍。第1遍简单稳定，第2遍加入 ghost note，第3遍加入绕路音，第4遍保留前面全部内容，但把一个休止移到新位置。回听时别问哪一遍最忙，问哪一遍让 pocket 的光最亮。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-21T00:06:51Z",
+  "updatedAt": "2026-06-21T00:06:51Z"
+}

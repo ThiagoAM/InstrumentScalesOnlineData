@@ -782,5 +782,33 @@
     "order": 28,
     "createdAt": "2026-06-12T00:07:25Z",
     "updatedAt": "2026-06-12T00:07:25Z"
+  },
+  {
+    "id": "guitar-rhythm-mirror-dash",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Mirror Dash",
+        "pt-BR": "Corrida do Espelho Rítmico na Guitarra",
+        "es": "Carrera de Espejo Rítmico en Guitarra",
+        "de": "Gitarren-Rhythmus-Spiegelsprint",
+        "ja": "ギター・リズムミラー・ダッシュ",
+        "zh-Hans": "吉他节奏镜像冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Flip one pentatonic idea through matching rhythm mirrors and chase cleaner phrasing each round.",
+        "pt-BR": "Inverta uma ideia pentatônica com respostas espelhadas no ritmo e persiga frases cada vez mais limpas.",
+        "es": "Da la vuelta a una idea pentatónica con respuestas rítmicas en espejo y persigue frases cada vez más limpias.",
+        "de": "Spiegle eine pentatonische Idee rhythmisch und jage in jeder Runde nach klareren Phrasen.",
+        "ja": "ペンタトニックの短いアイデアをリズムで鏡写しにしながら、より整理されたフレージングを目指そう。",
+        "zh-Hans": "把一个五声音阶想法做成节奏镜像，在一轮轮追逐中把乐句练得更干净。"
+      }
+    },
+    "order": 29,
+    "createdAt": "2026-06-21T00:06:50Z",
+    "updatedAt": "2026-06-21T00:06:50Z"
   }
 ]

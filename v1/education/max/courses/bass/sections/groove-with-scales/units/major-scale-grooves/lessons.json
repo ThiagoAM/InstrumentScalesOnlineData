@@ -1566,5 +1566,33 @@
     "order": 56,
     "createdAt": "2026-06-20T00:08:09Z",
     "updatedAt": "2026-06-20T00:08:09Z"
+  },
+  {
+    "id": "bass-pocket-lighthouse",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Lighthouse",
+        "pt-BR": "Farol do Pocket no Baixo",
+        "es": "Faro del Pocket en Bajo",
+        "de": "Bass-Pocket-Leuchtturm",
+        "ja": "ベース・ポケット灯台",
+        "zh-Hans": "贝斯律动灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Keep your groove shining through scale detours so every landing feels obvious and strong.",
+        "pt-BR": "Mantenha o groove brilhando mesmo com desvios de escala, para que cada chegada soe óbvia e forte.",
+        "es": "Mantén el groove brillando a través de desvíos de escala para que cada llegada suene clara y fuerte.",
+        "de": "Lass deinen Groove trotz Skalen-Umwegen leuchten, damit jede Landung klar und stark wirkt.",
+        "ja": "スケールの寄り道が入ってもグルーヴの光を消さず、着地をはっきり強く感じさせよう。",
+        "zh-Hans": "即使加入音阶绕路音，也要让你的 groove 持续发光，让每次落点都清楚有力。"
+      }
+    },
+    "order": 57,
+    "createdAt": "2026-06-21T00:06:51Z",
+    "updatedAt": "2026-06-21T00:06:51Z"
   }
 ]

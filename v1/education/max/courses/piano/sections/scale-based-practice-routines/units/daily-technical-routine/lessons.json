@@ -1174,5 +1174,33 @@
     "order": 42,
     "createdAt": "2026-06-19T00:12:11Z",
     "updatedAt": "2026-06-19T00:12:11Z"
+  },
+  {
+    "id": "piano-accent-pinball",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Pinball",
+        "pt-BR": "Pinball de Acentos no Piano",
+        "es": "Pinball de Acentos en Piano",
+        "de": "Klavier-Akzent-Pinball",
+        "ja": "ピアノ・アクセント・ピンボール",
+        "zh-Hans": "钢琴重音弹珠台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce scale accents around the keyboard without losing balance, tone, or fingering control.",
+        "pt-BR": "Faça os acentos da escala quicarem pelo teclado sem perder equilíbrio, timbre ou controle de dedilhado.",
+        "es": "Haz rebotar los acentos de la escala por el teclado sin perder equilibrio, sonido ni control de digitación.",
+        "de": "Lass Skalenakzente über die Tastatur springen, ohne Balance, Klang oder Fingersatzkontrolle zu verlieren.",
+        "ja": "バランス、音色、運指の安定を保ったまま、スケールのアクセントを鍵盤上で跳ね回らせよう。",
+        "zh-Hans": "让音阶重音在键盘上弹跳，同时不丢掉平衡、音色和指法控制。"
+      }
+    },
+    "order": 43,
+    "createdAt": "2026-06-21T00:06:51Z",
+    "updatedAt": "2026-06-21T00:06:51Z"
   }
 ]
