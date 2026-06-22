@@ -1594,5 +1594,33 @@
     "order": 57,
     "createdAt": "2026-06-21T00:06:51Z",
     "updatedAt": "2026-06-21T00:06:51Z"
+  },
+  {
+    "id": "bass-pocket-springboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Springboard",
+        "pt-BR": "Trampolim de Pocket no Baixo",
+        "es": "Trampolín de Pocket en Bajo",
+        "de": "Pocket-Sprungbrett am Bass",
+        "ja": "ベース・ポケット・スプリングボード",
+        "zh-Hans": "贝斯 Pocket 弹跳板"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch a major-scale groove away from the root and snap it back into the pocket.",
+        "pt-BR": "Lance um groove de escala maior para longe da tônica e traga tudo de volta ao pocket.",
+        "es": "Lanza un groove de escala mayor lejos de la tónica y hazlo volver al pocket.",
+        "de": "Schick einen Dur-Groove vom Grundton weg und lass ihn sicher ins Pocket zurückschnappen.",
+        "ja": "メジャースケールのグルーヴをルートから飛ばし、ポケットへ強く戻す練習です。",
+        "zh-Hans": "让大调律动离开根音起跳，再稳稳弹回 pocket。"
+      }
+    },
+    "order": 58,
+    "createdAt": "2026-06-22T00:09:43Z",
+    "updatedAt": "2026-06-22T00:09:43Z"
   }
 ]

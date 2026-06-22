@@ -810,5 +810,33 @@
     "order": 29,
     "createdAt": "2026-06-21T00:06:50Z",
     "updatedAt": "2026-06-21T00:06:50Z"
+  },
+  {
+    "id": "guitar-rhythm-switchback-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Switchback Sprint",
+        "pt-BR": "Corrida de Curvas Rítmicas na Guitarra",
+        "es": "Carrera de Curvas Rítmicas en Guitarra",
+        "de": "Gitarren-Rhythmus-Kehren-Sprint",
+        "ja": "ギター・リズム切り返しスプリント",
+        "zh-Hans": "吉他节奏回转冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bend a short minor-pentatonic phrase away from the beat, then steer it back with control.",
+        "pt-BR": "Desvie uma frase pentatônica para fora da batida e traga tudo de volta com controle.",
+        "es": "Desvía una frase pentatónica fuera del pulso y tráela de vuelta con control.",
+        "de": "Lenke eine kurze Pentatonik-Phrase vom Beat weg und mit Kontrolle wieder zurück.",
+        "ja": "短いペンタトニックのフレーズを拍からずらし、コントロールして戻す練習です。",
+        "zh-Hans": "把一个短五声音阶乐句故意推离拍点，再稳稳拉回正轨。"
+      }
+    },
+    "order": 30,
+    "createdAt": "2026-06-22T00:08:01Z",
+    "updatedAt": "2026-06-22T00:08:01Z"
   }
 ]

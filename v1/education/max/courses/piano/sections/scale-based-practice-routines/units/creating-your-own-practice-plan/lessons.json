@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-06-20T00:09:11Z",
     "updatedAt": "2026-06-20T00:09:11Z"
+  },
+  {
+    "id": "piano-practice-route-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Route Builder",
+        "pt-BR": "Construtor de Rotas de Estudo no Piano",
+        "es": "Constructor de Rutas de Práctica al Piano",
+        "de": "Klavier-Übe-Routen-Bauer",
+        "ja": "ピアノ練習ルート・ビルダー",
+        "zh-Hans": "钢琴练习路线构建师"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Design a short scale session that moves from warm-up to musical mission without wasting energy.",
+        "pt-BR": "Monte uma sessão curta de escalas que saia do aquecimento e chegue a um objetivo musical sem desperdiçar energia.",
+        "es": "Diseña una sesión corta de escalas que vaya del calentamiento a una misión musical sin desperdiciar energía.",
+        "de": "Plane eine kurze Skalenroutine, die vom Warm-up zu einer musikalischen Mission führt, ohne Energie zu verschwenden.",
+        "ja": "ウォームアップから音楽的な目的地まで、無駄なく進む短いスケール練習を設計します。",
+        "zh-Hans": "设计一套短小却有方向感的音阶练习，从热身一路走到真正的音乐目标。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-06-22T00:11:03Z",
+    "updatedAt": "2026-06-22T00:11:03Z"
   }
 ]
