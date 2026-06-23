@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-05-09T00:10:26Z",
     "updatedAt": "2026-05-09T00:10:26Z"
+  },
+  {
+    "id": "bass-octave-switchyard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Octave Switchyard",
+        "pt-BR": "Pátio de Manobras das Oitavas no Baixo",
+        "es": "Patio de Cambios de Octavas en el Bajo",
+        "de": "Oktav-Weichenhof am Bass",
+        "ja": "ベース・オクターブ操車場",
+        "zh-Hans": "贝斯八度调车场"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Route roots, fifths, and octaves through tight groove decisions so your bass line stays deep, clear, and alive.",
+        "pt-BR": "Direcione tônicas, quintas e oitavas por decisões de groove para que sua linha fique profunda, clara e viva.",
+        "es": "Enruta tónicas, quintas y octavas con decisiones de groove para que tu línea de bajo siga profunda, clara y viva.",
+        "de": "Leite Grundton, Quinte und Oktave durch kluge Groove-Entscheidungen, damit deine Basslinie tief, klar und lebendig bleibt.",
+        "ja": "ルート、5度、オクターブを的確に振り分けて、深く、明確で、生きたベースラインを作ろう。",
+        "zh-Hans": "把根音、五度和八度安排到正确轨道上，让你的贝斯线条始终深、清楚而且有生命力。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-06-23T00:09:32Z",
+    "updatedAt": "2026-06-23T00:09:32Z"
   }
 ]

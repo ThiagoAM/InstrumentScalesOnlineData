@@ -1202,5 +1202,33 @@
     "order": 43,
     "createdAt": "2026-06-21T00:06:51Z",
     "updatedAt": "2026-06-21T00:06:51Z"
+  },
+  {
+    "id": "piano-scale-periscope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Periscope",
+        "pt-BR": "Periscópio das Escalas no Piano",
+        "es": "Periscopio de Escalas al Piano",
+        "de": "Klavier-Skalen-Periskop",
+        "ja": "ピアノ・スケール潜望鏡",
+        "zh-Hans": "钢琴音阶潜望镜"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Peek above the surface of your daily scale routine so both hands stay alert, balanced, and musically aware.",
+        "pt-BR": "Espie acima da superfície da sua rotina de escalas para manter as duas mãos alertas, equilibradas e musicais.",
+        "es": "Asómate por encima de la superficie de tu rutina diaria para que ambas manos sigan alertas, equilibradas y musicales.",
+        "de": "Schau über die Oberfläche deiner täglichen Skalenroutine hinaus, damit beide Hände wach, ausgewogen und musikalisch bleiben.",
+        "ja": "毎日のスケール練習の水面上をのぞき込み、両手の注意力・バランス・音楽性を保とう。",
+        "zh-Hans": "在每日音阶练习中不时浮出水面检查，让双手始终保持警觉、平衡和音乐性。"
+      }
+    },
+    "order": 44,
+    "createdAt": "2026-06-23T00:10:57Z",
+    "updatedAt": "2026-06-23T00:10:57Z"
   }
 ]

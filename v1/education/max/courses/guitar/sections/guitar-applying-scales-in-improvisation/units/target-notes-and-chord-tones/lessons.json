@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-06-18T00:05:32Z",
     "updatedAt": "2026-06-18T00:05:32Z"
+  },
+  {
+    "id": "guitar-landing-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Landing Lights",
+        "pt-BR": "Luzes de Pouso na Guitarra",
+        "es": "Luces de Aterrizaje en la Guitarra",
+        "de": "Landelichter auf der Gitarre",
+        "ja": "ギター着地ライト",
+        "zh-Hans": "吉他着陆灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up your chord-tone targets so every A Dorian phrase lands with direction, rhythm, and confidence.",
+        "pt-BR": "Ilumine suas notas-alvo para que cada frase em Lá dórico pouse com direção, ritmo e confiança.",
+        "es": "Ilumina tus notas objetivo para que cada frase en La dórico aterrice con dirección, ritmo y seguridad.",
+        "de": "Mach deine Zieltöne sichtbar, damit jede Phrase in A-Dorisch mit Richtung, Rhythmus und Sicherheit landet.",
+        "ja": "Aドリアンの狙い音を照らし出し、すべてのフレーズを方向感・リズム・自信を持って着地させよう。",
+        "zh-Hans": "点亮你的目标和弦音，让每条 A 多利亚乐句都带着方向感、节奏感和信心落地。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-06-23T00:08:15Z",
+    "updatedAt": "2026-06-23T00:08:15Z"
   }
 ]
