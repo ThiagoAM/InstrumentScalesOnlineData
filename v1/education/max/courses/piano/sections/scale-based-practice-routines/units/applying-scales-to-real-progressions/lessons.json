@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-06-18T00:08:16Z",
     "updatedAt": "2026-06-18T00:08:16Z"
+  },
+  {
+    "id": "piano-shell-and-scale-sparks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Shells and Scale Sparks",
+        "pt-BR": "Conchas e Faíscas de Escala no Piano",
+        "es": "Shells y Chispas de Escala en Piano",
+        "de": "Shells und Skalenfunken am Klavier",
+        "ja": "ピアノ・シェルとスケールの火花",
+        "zh-Hans": "钢琴壳音与音阶火花"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use left-hand shells and right-hand scale sparks to make a ii-V-I sound connected, bright, and alive.",
+        "pt-BR": "Use shells na mão esquerda e faíscas de escala na direita para fazer um ii-V-I soar conectado, brilhante e vivo.",
+        "es": "Usa shells en la mano izquierda y chispas de escala en la derecha para que un ii-V-I suene conectado, brillante y vivo.",
+        "de": "Nutze Shell-Voicings links und kurze Skalenfunken rechts, damit ein ii-V-I verbunden, hell und lebendig klingt.",
+        "ja": "左手のシェル・ボイシングと右手の短いスケールの火花で、ii-V-I をつながりのある明るい響きにしよう。",
+        "zh-Hans": "用左手 shell voicing 和右手短小的音阶火花，让一个 ii-V-I 听起来连贯、明亮又有生命力。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-24T00:07:50Z",
+    "updatedAt": "2026-06-24T00:07:50Z"
   }
 ]

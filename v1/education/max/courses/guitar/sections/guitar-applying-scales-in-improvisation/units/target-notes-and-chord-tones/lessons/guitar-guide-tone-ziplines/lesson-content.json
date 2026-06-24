@@ -1,0 +1,86 @@
+{
+  "id": "guitar-guide-tone-ziplines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission is to turn **A Dorian** into a zipline course over **Am7 → D7**. The rule: every phrase must *travel* through the scale but *land* on a guide tone — **C or G** over Am7, **F# or C** over D7. Think like a solo pilot: the line can wander, but the landing must be clean.",
+          "pt-BR": "Sua missão é transformar **Lá dórico** em um percurso de tirolesa sobre **Am7 → D7**. A regra: cada frase deve *viajar* pela escala, mas *pousar* em uma guide tone — **C ou G** sobre Am7, **F# ou C** sobre D7. Pense como um piloto de solo: a linha pode passear, mas a aterrissagem precisa ser limpa.",
+          "es": "Tu misión es convertir **La dórico** en un circuito de tirolesa sobre **Am7 → D7**. La regla: cada frase debe *viajar* por la escala, pero *aterrizar* en un tono guía — **C o G** sobre Am7, **F# o C** sobre D7. Piensa como un piloto de solos: la línea puede explorar, pero el aterrizaje debe ser limpio.",
+          "de": "Deine Mission ist es, **A-Dorisch** in einen Seilbahn-Parcours über **Am7 → D7** zu verwandeln. Die Regel: Jede Phrase soll durch die Skala *reisen*, aber auf einem Guide Tone *landen* — **C oder G** über Am7, **F# oder C** über D7. Denk wie ein Solopilot: Die Linie darf wandern, aber die Landung muss sauber sein.",
+          "ja": "今回のミッションは、**Aドリアン**を **Am7 → D7** の上でジップライン・コースに変えることです。ルールはシンプル。各フレーズはスケールの中を*移動*しても、最後は必ずガイドトーンに*着地*します。Am7 では **C または G**、D7 では **F# または C** を狙います。ソロのパイロットになったつもりで、動きは自由でも着地点は正確に決めましょう。",
+          "zh-Hans": "你的任务，是把 **A多利亚** 变成一条跨越 **Am7 → D7** 的滑索路线。规则很明确：每条乐句都可以在音阶里*移动*，但最后必须*落到*导向音上——Am7 上是 **C 或 G**，D7 上是 **F# 或 C**。把自己当成独奏飞行员：路线可以灵活，着陆必须干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start by mapping two small landing zones in one position. On **Am7**, circle **C** and **G** inside your A Dorian shape. On **D7**, circle **F#** and **C** in the same area of the neck. Play the full scale once, then stop on each target note by itself until your ear hears, “yes, that belongs here.”",
+          "pt-BR": "Comece mapeando duas pequenas zonas de pouso em uma mesma posição. Em **Am7**, marque **C** e **G** dentro do desenho de Lá dórico. Em **D7**, marque **F#** e **C** na mesma região do braço. Toque a escala inteira uma vez e depois pare em cada nota-alvo isoladamente até seu ouvido dizer: “sim, isso pertence aqui”.",
+          "es": "Empieza trazando dos pequeñas zonas de aterrizaje en una sola posición. En **Am7**, marca **C** y **G** dentro de tu forma de La dórico. En **D7**, marca **F#** y **C** en esa misma zona del mástil. Toca la escala completa una vez y luego detente en cada nota objetivo por separado hasta que tu oído diga: “sí, eso pertenece aquí”.",
+          "de": "Beginne damit, in einer Lage zwei kleine Landezonen zu markieren. Auf **Am7** suchst du **C** und **G** innerhalb deiner A-dorischen Form. Auf **D7** markierst du **F#** und **C** im selben Bereich des Griffbretts. Spiele die ganze Skala einmal durch und stoppe dann einzeln auf jedem Zielton, bis dein Ohr sagt: „Ja, genau da gehört er hin.“",
+          "ja": "まずは同じポジションの中に小さな着地点を2つずつ作ります。**Am7** では A ドリアンの形の中から **C** と **G** を見つけます。**D7** では同じエリアで **F#** と **C** を探します。スケールを1回通して弾いたら、それぞれの目標音だけに止まり、「ここだ」と耳で確認してください。",
+          "zh-Hans": "先在同一个把位里画出两个小小的着陆区。面对 **Am7** 时，在 A 多利亚指型里找到 **C** 和 **G**；面对 **D7** 时，在同一区域里找到 **F#** 和 **C**。先完整弹一遍音阶，然后分别停在这些目标音上，直到你的耳朵清楚地觉得：“对，就是这里。”"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now build a **two-bar game**. Bar 1 belongs to Am7: begin on any A Dorian note, move by step or a tiny skip, and land on **C or G** on beat 4. Bar 2 belongs to D7: start nearby, keep the rhythm going, and land on **F# or C** on beat 4. Use only **five to seven notes per bar** so you cannot hide behind speed.",
+          "pt-BR": "Agora monte um **jogo de dois compassos**. O compasso 1 pertence a Am7: comece em qualquer nota de Lá dórico, mova-se por grau conjunto ou um pequeno salto e pouse em **C ou G** no tempo 4. O compasso 2 pertence a D7: comece perto dali, mantenha o ritmo fluindo e pouse em **F# ou C** no tempo 4. Use apenas **cinco a sete notas por compasso** para não se esconder atrás da velocidade.",
+          "es": "Ahora construye un **juego de dos compases**. El compás 1 pertenece a Am7: empieza en cualquier nota de La dórico, muévete por grado conjunto o con un salto pequeño y aterriza en **C o G** en el tiempo 4. El compás 2 pertenece a D7: arranca cerca, mantén el ritmo y aterriza en **F# o C** en el tiempo 4. Usa solo **cinco a siete notas por compás** para que no puedas esconderte detrás de la velocidad.",
+          "de": "Baue jetzt ein **Zweitakt-Spiel**. Takt 1 gehört zu Am7: Starte auf irgendeinem Ton aus A-Dorisch, bewege dich in Schritten oder kleinen Sprüngen und lande auf **C oder G** auf Zählzeit 4. Takt 2 gehört zu D7: Beginne in der Nähe, halte den Rhythmus am Laufen und lande auf **F# oder C** auf Zählzeit 4. Verwende nur **fünf bis sieben Töne pro Takt**, damit du dich nicht hinter Tempo verstecken kannst.",
+          "ja": "次に **2小節ゲーム** を作ります。1小節目は Am7。Aドリアンのどの音から始めてもよいですが、順次進行か小さな跳躍で動き、4拍目で **C または G** に着地します。2小節目は D7。同じ近辺から始めて流れを保ち、4拍目で **F# または C** に着地します。**1小節あたり5〜7音だけ** にして、速さでごまかせないようにしましょう。",
+          "zh-Hans": "接着做一个 **两小节游戏**。第1小节属于 Am7：从 A 多利亚里的任意音出发，用级进或小跳前进，并在第4拍落到 **C 或 G**。第2小节属于 D7：从附近开始，保持节奏继续流动，并在第4拍落到 **F# 或 C**。每小节只准用 **5到7个音**，这样你就不能靠速度掩饰方向感不足。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add the zipline feeling with **slides and one rest**. In each bar, slide into one target note from a half-step or whole-step below, and place one short rest before another landing. The slide gives direction; the rest creates suspense. If the phrase sounds busy, remove notes until the landing feels obvious.",
+          "pt-BR": "Adicione a sensação de tirolesa com **slides e uma pausa**. Em cada compasso, deslize para uma nota-alvo vindo de meio tom ou tom abaixo e coloque uma pausa curta antes de outra chegada. O slide dá direção; a pausa cria suspense. Se a frase soar cheia demais, retire notas até a chegada ficar óbvia.",
+          "es": "Añade la sensación de tirolesa con **slides y un silencio**. En cada compás, deslízate hacia una nota objetivo desde medio tono o un tono por debajo y coloca un silencio corto antes de otro aterrizaje. El slide da dirección; el silencio crea suspense. Si la frase suena demasiado cargada, quita notas hasta que el aterrizaje sea evidente.",
+          "de": "Gib dem Ganzen Seilbahn-Gefühl mit **Slides und einer Pause**. In jedem Takt rutschst du von einem Halbton oder Ganzton darunter in einen Zielton hinein und setzt vor einer anderen Landung eine kurze Pause. Der Slide gibt Richtung; die Pause erzeugt Spannung. Wenn die Phrase zu voll klingt, streiche Töne, bis die Landung klar wirkt.",
+          "ja": "ここに **スライドと1つの休符** を入れて、ジップライン感を足します。各小節で、半音下または全音下から目標音へスライドし、別の着地の前には短い休符を置きます。スライドは方向を作り、休符は緊張感を生みます。フレーズが詰まりすぎたら、着地がはっきり聞こえるまで音を減らしてください。",
+          "zh-Hans": "然后加入 **滑音和一个休止**，让它真的像滑索。每小节里，至少有一次从下方半音或全音滑进目标音，并在另一次着陆前放一个短休止。滑音会给出方向，休止会制造悬念。如果乐句听起来太满，就删掉一些音，直到落点一听就明白。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: play the same two-bar idea **three times**, but change one thing each round — first the rhythm, then the starting note, then the final target tone. Keep the guide-tone landings correct every time. This is how you stop memorizing one lick and start controlling the concept.",
+          "pt-BR": "Rodada de desafio: toque a mesma ideia de **dois compassos** **três vezes**, mas mude uma coisa em cada volta — primeiro o ritmo, depois a nota inicial e por fim a nota-alvo final. Mantenha os pousos nas guide tones corretos o tempo todo. É assim que você para de decorar um lick e começa a controlar o conceito.",
+          "es": "Ronda de desafío: toca la misma idea de **dos compases** **tres veces**, pero cambia una cosa en cada vuelta: primero el ritmo, luego la nota inicial y luego el tono guía final. Mantén correctos los aterrizajes en tonos guía cada vez. Así dejas de memorizar un solo lick y empiezas a controlar el concepto.",
+          "de": "Challenge-Runde: Spiele dieselbe **Zweitakt-Idee** **dreimal**, ändere aber in jeder Runde genau eine Sache — zuerst den Rhythmus, dann den Startton, dann den letzten Zielton. Die Guide-Tone-Landungen müssen jedes Mal stimmen. So hörst du auf, nur ein Lick auswendig zu lernen, und beginnst, das Prinzip zu steuern.",
+          "ja": "チャレンジ・ラウンドです。同じ **2小節アイデア** を **3回** 弾きますが、毎回1つだけ変更します。最初はリズム、次は出だしの音、最後は着地するガイドトーンです。どの回でも正しいガイドトーン着地は守ってください。これで1つのリックを丸暗記するのではなく、考え方そのものをコントロールできるようになります。",
+          "zh-Hans": "挑战回合来了：把同一个 **两小节乐句** 连续弹 **3遍**，但每一遍只改一件事——先改节奏，再改起始音，最后改最终落到的导向音。无论怎么改，都要保证导向音落点正确。这样你练到的就不是一条死记硬背的 lick，而是真正可控的概念。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording a **four-bar mini solo** over Am7 → D7 repeated twice. Your checklist: one phrase lands on **C**, one on **G**, one on **F#**, and one uses a rest before the landing. If all four landings feel intentional, you did not just run a scale — you steered it.",
+          "pt-BR": "Para fechar, grave um **mini solo de quatro compassos** sobre Am7 → D7 repetido duas vezes. Seu checklist: uma frase pousa em **C**, uma em **G**, uma em **F#** e uma usa pausa antes da chegada. Se as quatro chegadas soarem intencionais, você não apenas correu pela escala — você a pilotou.",
+          "es": "Para terminar, graba un **mini solo de cuatro compases** sobre Am7 → D7 repetido dos veces. Tu lista de control: una frase aterriza en **C**, una en **G**, una en **F#** y una usa un silencio antes del aterrizaje. Si las cuatro llegadas se sienten intencionales, no solo corriste por una escala: la dirigiste.",
+          "de": "Zum Abschluss nimm ein **vier Takte langes Mini-Solo** über zweimal **Am7 → D7** auf. Deine Checkliste: Eine Phrase landet auf **C**, eine auf **G**, eine auf **F#**, und eine benutzt eine Pause vor der Landung. Wenn sich alle vier Landungen absichtlich anfühlen, bist du nicht bloß durch eine Skala gerast — du hast sie gelenkt.",
+          "ja": "最後に、**Am7 → D7** を2回繰り返す上で **4小節のミニソロ** を録音しましょう。チェック項目は、**C** に着地するフレーズが1つ、**G** に着地するフレーズが1つ、**F#** に着地するフレーズが1つ、そして着地の前に休符を使うフレーズが1つです。4つすべてが意図的に聞こえたなら、あなたはただスケールをなぞったのではなく、ちゃんと操縦できています。",
+          "zh-Hans": "最后，录一段 **4小节迷你独奏**，和声是 **Am7 → D7** 重复两次。检查清单：有一条乐句落到 **C**，一条落到 **G**，一条落到 **F#**，还有一条在落点前使用休止。如果这四次着陆都听起来很有意识，那你就不是单纯在跑音阶——你是在驾驶它。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-24T00:07:41Z",
+  "updatedAt": "2026-06-24T00:07:41Z"
+}

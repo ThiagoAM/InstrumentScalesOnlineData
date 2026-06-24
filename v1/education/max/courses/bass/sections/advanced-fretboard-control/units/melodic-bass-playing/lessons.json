@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-06-15T00:12:48Z",
     "updatedAt": "2026-06-15T00:12:48Z"
+  },
+  {
+    "id": "bass-countermelody-kites",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Countermelody Kites",
+        "pt-BR": "Pipas de Contramelodia no Baixo",
+        "es": "Cometas de Contramelodía en el Bajo",
+        "de": "Countermelody-Drachen auf dem Bass",
+        "ja": "ベース・カウンターメロディ・カイト",
+        "zh-Hans": "贝斯对旋律风筝"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lift a D major counterline above the groove and keep it singing without losing the bass job.",
+        "pt-BR": "Faça uma contramelodia em Ré maior subir acima do groove sem deixar de cumprir a função do baixo.",
+        "es": "Eleva una contralínea en Re mayor sobre el groove sin dejar de cumplir la función del bajo.",
+        "de": "Lass eine Gegenmelodie in D-Dur über dem Groove aufsteigen, ohne die Bassfunktion zu verlieren.",
+        "ja": "Dメジャーの対旋律をグルーヴの上に浮かせながら、ベースとしての役割も失わないようにしよう。",
+        "zh-Hans": "让D大调对旋律飞到 groove 上方，同时不丢掉贝斯本职工作。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-06-24T00:07:49Z",
+    "updatedAt": "2026-06-24T00:07:49Z"
   }
 ]

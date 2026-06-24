@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-06-23T00:08:15Z",
     "updatedAt": "2026-06-23T00:08:15Z"
+  },
+  {
+    "id": "guitar-guide-tone-ziplines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Ziplines",
+        "pt-BR": "Tirolesas de Guide Tones na Guitarra",
+        "es": "Tirolesas de Tonos Guía en Guitarra",
+        "de": "Guide-Tone-Seilbahnen auf der Gitarre",
+        "ja": "ギター・ガイドトーン・ジップライン",
+        "zh-Hans": "吉他导向音滑索挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Slide through A Dorian and land on 3rds and 7ths so your guitar lines sound guided, not random.",
+        "pt-BR": "Deslize por Lá dórico e pouse em 3as e 7as para que suas frases soem guiadas, não aleatórias.",
+        "es": "Deslízate por La dórico y aterriza en 3as y 7as para que tus frases suenen guiadas y no aleatorias.",
+        "de": "Gleite durch A-Dorisch und lande auf 3 und 7, damit deine Gitarrenlinien geführt statt zufällig klingen.",
+        "ja": "Aドリアンを滑り抜け、3度と7度に着地して、フレーズを行き当たりばったりではなく意図的に響かせよう。",
+        "zh-Hans": "在A多利亚中滑行并落到3度与7度上，让你的吉他乐句听起来有方向，而不是乱跑。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-06-24T00:07:41Z",
+    "updatedAt": "2026-06-24T00:07:41Z"
   }
 ]

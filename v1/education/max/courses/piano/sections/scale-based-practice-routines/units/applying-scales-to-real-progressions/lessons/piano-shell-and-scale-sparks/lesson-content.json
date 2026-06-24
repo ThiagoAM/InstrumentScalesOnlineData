@@ -1,0 +1,86 @@
+{
+  "id": "piano-shell-and-scale-sparks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your job is to make a **ii–V–I in C major** feel less like homework and more like a scene change. The left hand plays **shell voicings** — 3rd and 7th only — while the right hand fires short **scale sparks** between them. Think of the shells as streetlights and the scale notes as quick flashes that show where the road goes next.",
+          "pt-BR": "Seu trabalho é fazer um **ii–V–I em Dó maior** soar menos como dever de casa e mais como uma mudança de cena. A mão esquerda toca **shell voicings** — apenas 3ª e 7ª — enquanto a mão direita dispara pequenas **faíscas de escala** entre eles. Pense nos shells como postes de luz e nas notas da escala como flashes rápidos que mostram para onde a estrada harmônica vai em seguida.",
+          "es": "Tu trabajo es hacer que un **ii–V–I en Do mayor** suene menos como tarea y más como un cambio de escena. La mano izquierda toca **shell voicings** — solo 3ª y 7ª — mientras la mano derecha lanza pequeñas **chispas de escala** entre ellos. Piensa en los shells como farolas y en las notas de escala como destellos rápidos que muestran hacia dónde va la armonía.",
+          "de": "Deine Aufgabe ist es, ein **ii–V–I in C-Dur** weniger nach Pflichtübung und mehr nach Szenenwechsel klingen zu lassen. Die linke Hand spielt **Shell-Voicings** — nur 3 und 7 — während die rechte Hand kurze **Skalenfunken** dazwischen zündet. Stell dir die Shells als Straßenlaternen vor und die Skalentöne als kurze Lichtblitze, die zeigen, wohin die harmonische Straße als Nächstes führt.",
+          "ja": "今回の役目は、**Cメジャーの ii–V–I** を「宿題」ではなく「場面転換」のように聞かせることです。左手は **シェル・ボイシング**、つまり 3度と7度だけを担当し、右手はその間に短い **スケールの火花** を飛ばします。シェルが街灯、スケール音が次の道筋を照らす小さな光だと思ってください。",
+          "zh-Hans": "你的任务，是让一个 **C大调 ii–V–I** 听起来不像作业，更像一次场景切换。左手弹 **shell voicing**——只用 3 度和 7 度；右手则在它们之间点出短小的 **音阶火花**。把 shell 想成路灯，把音阶音想成一闪而过的亮光，告诉你和声接下来要往哪儿走。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up the shells first: for **Dm7**, play **F and C**; for **G7**, play **B and F**; for **Cmaj7**, play **E and B**. Play them slowly until each change feels smooth. Then sing the top note of each shell while you play. If you can sing it, you are hearing the harmony instead of just pressing shapes.",
+          "pt-BR": "Monte primeiro os shells: em **Dm7**, toque **F e C**; em **G7**, toque **B e F**; em **Cmaj7**, toque **E e B**. Toque devagar até cada troca parecer suave. Depois cante a nota de cima de cada shell enquanto toca. Se você consegue cantar, está ouvindo a harmonia em vez de apenas apertar desenhos.",
+          "es": "Prepara primero los shells: en **Dm7**, toca **F y C**; en **G7**, toca **B y F**; en **Cmaj7**, toca **E y B**. Tócalos lentamente hasta que cada cambio se sienta suave. Después canta la nota superior de cada shell mientras tocas. Si puedes cantarla, estás oyendo la armonía en vez de solo apretar formas.",
+          "de": "Richte zuerst die Shells ein: für **Dm7** spielst du **F und C**, für **G7** **B und F**, für **Cmaj7** **E und B**. Spiele sie langsam, bis sich jeder Wechsel geschmeidig anfühlt. Singe dann beim Spielen jeweils den oberen Ton der Shell mit. Wenn du ihn singen kannst, hörst du die Harmonie wirklich, statt nur Formen zu drücken.",
+          "ja": "まずシェルを準備します。**Dm7** では **F と C**、**G7** では **B と F**、**Cmaj7** では **E と B** を弾きます。各コードチェンジが滑らかに感じるまでゆっくり練習してください。そのあと、各シェルの上の音を歌いながら弾きます。歌えれば、ただ形を押さえるのではなく、ちゃんとハーモニーを聴いています。",
+          "zh-Hans": "先把 shell 搭好：**Dm7** 弹 **F 和 C**，**G7** 弹 **B 和 F**，**Cmaj7** 弹 **E 和 B**。慢慢弹，直到每一次换和弦都很顺。然后一边弹，一边把每个 shell 的上方音唱出来。你能唱出来，就说明你真的在听和声，而不只是机械按形状。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the right hand, but keep it tiny. Between each left-hand shell, play only **three or four notes** from the matching scale area in C major, and aim for a chord tone on the next downbeat. Treat the fills like sparks, not fireworks: short, bright, and clearly connected to where the harmony is going.",
+          "pt-BR": "Agora acrescente a mão direita, mas bem pequena. Entre cada shell da mão esquerda, toque apenas **três ou quatro notas** da região correspondente da escala de Dó maior e mire uma nota do acorde no próximo tempo forte. Trate os preenchimentos como faíscas, não como fogos de artifício: curtos, brilhantes e claramente conectados ao destino harmônico.",
+          "es": "Ahora añade la mano derecha, pero en pequeño formato. Entre cada shell de la mano izquierda, toca solo **tres o cuatro notas** de la zona correspondiente de Do mayor y apunta a un tono del acorde en el siguiente pulso fuerte. Trata esos rellenos como chispas y no como fuegos artificiales: cortos, brillantes y claramente conectados con el siguiente destino armónico.",
+          "de": "Jetzt kommt die rechte Hand dazu, aber in Mini-Format. Zwischen jede linke Shell setzt du nur **drei oder vier Töne** aus dem passenden Bereich von C-Dur und zielst auf dem nächsten schweren Schlag auf einen Akkordton. Behandle diese Fills wie Funken, nicht wie Feuerwerk: kurz, hell und klar mit dem nächsten harmonischen Ziel verbunden.",
+          "ja": "次に右手を加えますが、サイズは小さく保ちます。左手の各シェルの間に、Cメジャーの該当エリアから **3音か4音だけ** を使ってフレーズを入れ、次の強拍でコードトーンに着地します。フィルは花火ではなく火花です。短く、明るく、そして次の和声へはっきりつながっていなければいけません。",
+          "zh-Hans": "接着加入右手，但要保持迷你尺寸。每个左手 shell 之间，右手只弹 **3到4个音**，从 C 大调对应区域里取材，并在下一个强拍落到和弦音上。把这些填充当成火花，而不是烟花：短、亮，而且必须清楚地连向下一个和声目标。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a **traffic rule** for the right hand: one fill must move mostly upward, the next mostly downward, and the next must include one repeated note. This stops every fill from sounding like the same scale fragment. Direction, contrast, and repetition make simple material sound musical.",
+          "pt-BR": "Crie uma **regra de trânsito** para a mão direita: um preenchimento deve subir na maior parte do tempo, o próximo deve descer na maior parte do tempo e o seguinte precisa incluir uma nota repetida. Isso impede que tudo soe como o mesmo fragmento de escala. Direção, contraste e repetição fazem material simples soar musical.",
+          "es": "Crea una **regla de tráfico** para la mano derecha: un relleno debe ir sobre todo hacia arriba, el siguiente sobre todo hacia abajo y el siguiente debe incluir una nota repetida. Así evitas que todo suene como el mismo fragmento de escala. Dirección, contraste y repetición hacen que un material simple suene musical.",
+          "de": "Erfinde eine **Verkehrsregel** für die rechte Hand: Ein Fill soll sich überwiegend nach oben bewegen, das nächste überwiegend nach unten, und das nächste muss einen Ton wiederholen. So klingt nicht jedes Fill wie dasselbe Skalenfragment. Richtung, Kontrast und Wiederholung machen simples Material musikalisch.",
+          "ja": "右手には **交通ルール** を作りましょう。1つ目のフィルは主に上行、次は主に下行、その次は同じ音を1回繰り返します。これで全部が同じスケール断片に聞こえるのを防げます。方向、対比、反復があるだけで、シンプルな素材でも音楽らしくなります。",
+          "zh-Hans": "给右手加一条 **交通规则**：一个填充主要向上走，下一个主要向下走，再下一个必须包含一个重复音。这样每个填充就不会都像同一个音阶碎片。方向、对比和重复，能让很简单的材料也听起来很有音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge mode: keep the left-hand shells steady while the right hand changes rhythm each chorus. Chorus 1 uses mostly eighth notes. Chorus 2 must include at least one rest. Chorus 3 uses one longer note that hangs over a chord change. If the groove collapses, shrink the right-hand fill until the harmony stays clear.",
+          "pt-BR": "Modo desafio: mantenha os shells da mão esquerda estáveis enquanto a mão direita muda o ritmo a cada chorus. No chorus 1, use principalmente colcheias. No chorus 2, inclua pelo menos uma pausa. No chorus 3, use uma nota longa que atravesse uma mudança de acorde. Se o groove desmontar, reduza o preenchimento da mão direita até a harmonia voltar a ficar clara.",
+          "es": "Modo desafío: mantén los shells de la mano izquierda estables mientras la mano derecha cambia de ritmo en cada vuelta. La vuelta 1 usa sobre todo corcheas. La vuelta 2 debe incluir al menos un silencio. La vuelta 3 usa una nota larga que se sostenga sobre un cambio de acorde. Si el groove se cae, reduce el relleno de la mano derecha hasta que la armonía vuelva a quedar clara.",
+          "de": "Challenge-Modus: Halte die linken Shells stabil, während die rechte Hand in jedem Durchgang den Rhythmus verändert. Durchgang 1 nutzt vor allem Achtel. Durchgang 2 muss mindestens eine Pause enthalten. Durchgang 3 benutzt einen längeren Ton, der über einen Akkordwechsel stehen bleibt. Wenn der Groove auseinanderfällt, verkleinere das rechte Fill, bis die Harmonie wieder klar bleibt.",
+          "ja": "チャレンジ・モードです。左手のシェルは安定させたまま、右手はコーラスごとにリズムを変えます。1コーラス目は主に8分音符、2コーラス目は少なくとも1つ休符を入れ、3コーラス目はコードチェンジをまたぐ長い音を1つ使います。もしグルーヴが崩れたら、右手のフィルを小さくして、和声の見通しを取り戻してください。",
+          "zh-Hans": "挑战模式：左手 shell 保持稳定，右手每个 chorus 都换一种节奏。第1遍主要用八分音符，第2遍至少加入一个休止，第3遍要有一个跨过和弦变化的长音。如果 groove 散掉了，就缩短右手填充，直到和声再次变得清楚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording **two choruses** of ii–V–I. In chorus 1, play exactly planned fills. In chorus 2, improvise new sparks while keeping the same shells. Success means the left hand sounds calm and dependable, while the right hand sounds curious without getting lost.",
+          "pt-BR": "Feche gravando **dois choruses** de ii–V–I. No chorus 1, toque preenchimentos planejados exatamente. No chorus 2, improvise novas faíscas mantendo os mesmos shells. O sucesso é quando a mão esquerda soa calma e confiável, enquanto a direita soa curiosa sem se perder.",
+          "es": "Termina grabando **dos vueltas** de ii–V–I. En la vuelta 1, toca exactamente los rellenos planeados. En la vuelta 2, improvisa nuevas chispas manteniendo los mismos shells. El éxito llega cuando la mano izquierda suena tranquila y fiable, mientras la derecha suena curiosa sin perderse.",
+          "de": "Zum Schluss nimm **zwei Durchgänge** des ii–V–I auf. Im ersten spielst du genau geplante Fills. Im zweiten improvisierst du neue Funken über denselben Shells. Erfolg bedeutet: Die linke Hand klingt ruhig und verlässlich, die rechte neugierig, ohne sich zu verirren.",
+          "ja": "最後に、ii–V–I を **2コーラス分** 録音しましょう。1コーラス目は計画したフィルをそのまま弾き、2コーラス目は同じシェルを保ったまま新しい火花を即興します。左手が落ち着いて頼もしく、右手が迷わず好奇心を見せられたら成功です。",
+          "zh-Hans": "最后录下 **两遍 ii–V–I**。第1遍严格弹你计划好的填充；第2遍在保持同样 shell 的前提下，即兴出新的火花。成功的标志是：左手听起来冷静可靠，右手听起来好奇灵活，但始终没有迷路。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-24T00:07:50Z",
+  "updatedAt": "2026-06-24T00:07:50Z"
+}
