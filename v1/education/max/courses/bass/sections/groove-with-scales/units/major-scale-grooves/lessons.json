@@ -1622,5 +1622,33 @@
     "order": 58,
     "createdAt": "2026-06-22T00:09:43Z",
     "updatedAt": "2026-06-22T00:09:43Z"
+  },
+  {
+    "id": "bass-major-pocket-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Major Pocket Slingshot",
+        "pt-BR": "Estilingue do Pocket Maior no Baixo",
+        "es": "Tirachinas de Pocket Mayor en Bajo",
+        "de": "Dur-Pocket-Schleuder für Bass",
+        "ja": "ベースのメジャーポケット・スリングショット",
+        "zh-Hans": "贝斯大调口袋弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn major-scale notes into a groove weapon by aiming rhythmic launches and strong landings.",
+        "pt-BR": "Transforme notas da escala maior em arma de groove com impulsos rítmicos e chegadas fortes.",
+        "es": "Convierte las notas de la escala mayor en un arma de groove con impulsos rítmicos y aterrizajes fuertes.",
+        "de": "Verwandle Töne der Durtonleiter mit rhythmischem Zug und starken Landungen in eine Groove-Waffe.",
+        "ja": "大きな音階練習ではなく、メジャースケールの音をグルーヴの武器として使えるようにします。",
+        "zh-Hans": "把大调音阶的音变成 groove 武器，用节奏发射和强落点来制造 pocket。"
+      }
+    },
+    "order": 59,
+    "createdAt": "2026-06-25T00:08:28Z",
+    "updatedAt": "2026-06-25T00:08:28Z"
   }
 ]

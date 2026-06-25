@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-06-24T00:07:50Z",
     "updatedAt": "2026-06-24T00:07:50Z"
+  },
+  {
+    "id": "piano-guide-tone-liftoff",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Guide-Tone Liftoff",
+        "pt-BR": "Decolagem dos Guide Tones no Piano",
+        "es": "Despegue de Guide Tones en Piano",
+        "de": "Guide-Tone-Liftoff am Klavier",
+        "ja": "ピアノのガイドトーン・リフトオフ",
+        "zh-Hans": "钢琴导音起飞线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use scale notes to connect real chords on piano so your lines speak harmony instead of wandering.",
+        "pt-BR": "Use notas de escala para conectar acordes reais no piano e fazer suas linhas revelarem a harmonia.",
+        "es": "Usa notas de escala para conectar acordes reales en el piano y hacer que tus líneas hablen armonía.",
+        "de": "Verbinde echte Akkorde mit Skalentönen, damit deine Linien Harmonie sprechen statt herumzuirren.",
+        "ja": "スケール音で実際のコードをつなぎ、メロディが迷うのではなくハーモニーを語るようにします。",
+        "zh-Hans": "用音阶音去连接真实和弦，让你的旋律说出和声，而不是漫无目的地游走。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-06-25T00:08:30Z",
+    "updatedAt": "2026-06-25T00:08:30Z"
   }
 ]

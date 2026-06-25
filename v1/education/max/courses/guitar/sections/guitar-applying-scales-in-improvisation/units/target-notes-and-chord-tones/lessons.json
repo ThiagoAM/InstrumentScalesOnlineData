@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-06-24T00:07:41Z",
     "updatedAt": "2026-06-24T00:07:41Z"
+  },
+  {
+    "id": "guitar-guide-tone-snapline",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Snapline",
+        "pt-BR": "Linha de Mira dos Guide Tones na Guitarra",
+        "es": "Línea de Mira de Guide Tones en Guitarra",
+        "de": "Guide-Tone-Ziellinie auf der Gitarre",
+        "ja": "ギターのガイドトーン照準ライン",
+        "zh-Hans": "吉他导音瞄准线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Target chord tones with rhythmic intent so your guitar lines sound aimed, not accidental.",
+        "pt-BR": "Mire nos tons do acorde com intenção rítmica para seus solos soarem guiados, não acidentais.",
+        "es": "Apunta a los tonos del acorde con intención rítmica para que tus líneas suenen dirigidas, no accidentales.",
+        "de": "Steuere Akkordtöne mit rhythmischer Absicht an, damit deine Linien gezielt statt zufällig klingen.",
+        "ja": "リズムの意図を持ってコードトーンを狙い、フレーズを偶然ではなく必然に聞かせましょう。",
+        "zh-Hans": "用明确的节奏意图去瞄准和弦音，让你的乐句听起来有方向，而不是碰运气。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-06-25T00:08:27Z",
+    "updatedAt": "2026-06-25T00:08:27Z"
   }
 ]

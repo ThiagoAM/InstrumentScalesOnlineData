@@ -1,0 +1,73 @@
+{
+  "id": "bass-major-pocket-slingshot",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Launch pad\n\nBuild everything from **E major** (E F# G# A B C# D#) at **96 bpm**.\n\nLock into a drum loop or metronome and keep your right hand relaxed.\n\nYour mission is to make major-scale notes feel like pocket, not homework.",
+          "pt-BR": "### Plataforma de lançamento\n\nConstrua tudo a partir de **Mi maior** (E F# G# A B C# D#) em **96 bpm**.\n\nToque com um loop de bateria ou metrônomo e mantenha a mão direita relaxada.\n\nSua missão é fazer as notas da escala maior soarem como pocket, não como lição de casa.",
+          "es": "### Plataforma de lanzamiento\n\nConstruye todo desde **Mi mayor** (E F# G# A B C# D#) a **96 bpm**.\n\nToca con un loop de batería o metrónomo y mantén relajada la mano derecha.\n\nTu misión es hacer que las notas de la escala mayor suenen a pocket, no a deberes.",
+          "de": "### Startrampe\n\nBaue alles aus **E-Dur** (E F# G# A B C# D#) bei **96 bpm**.\n\nSpiele mit Drum-Loop oder Metronom und halte die rechte Hand locker.\n\nDeine Aufgabe ist, dass Durtonleiter-Töne nach Pocket und nicht nach Hausaufgabe klingen.",
+          "ja": "### 発射台\n\nすべてを **Eメジャー**（E F# G# A B C# D#）で組み立て、テンポは **96 bpm** にします。\n\nドラムループかメトロノームに合わせ、右手はリラックスさせましょう。\n\n今日の任務は、メジャースケールの音を宿題ではなくポケットとして響かせることです。",
+          "zh-Hans": "### 发射台\n\n全部内容建立在 **E大调**（E F# G# A B C# D#）上，速度 **96 bpm**。\n\n跟着鼓循环或节拍器，右手保持放松。\n\n你的任务，是让大调音阶听起来像 pocket，而不是像作业。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: root-first engine\n\nCreate a **2-bar groove** where bar 1 starts on **E** and bar 2 lands on **B** or **C#**.\n\nRules:\n- use mostly quarter notes and eighth notes\n- leave one short rest in each 2-bar cycle\n- keep the low E string involved at least once\n\nRepeat until the groove feels heavy enough to loop for a full minute.",
+          "pt-BR": "### Rodada 1: motor com a tônica na frente\n\nCrie um **groove de 2 compassos** em que o compasso 1 começa em **E** e o compasso 2 pousa em **B** ou **C#**.\n\nRegras:\n- use principalmente semínimas e colcheias\n- deixe uma pausa curta em cada ciclo de 2 compassos\n- envolva a corda Mi grave pelo menos uma vez\n\nRepita até o groove ficar pesado o bastante para sustentar um minuto inteiro.",
+          "es": "### Ronda 1: motor con tónica al frente\n\nCrea un **groove de 2 compases** donde el compás 1 empiece en **E** y el compás 2 aterrice en **B** o **C#**.\n\nReglas:\n- usa sobre todo negras y corcheas\n- deja un silencio corto en cada ciclo de 2 compases\n- incluye la cuerda grave de Mi al menos una vez\n\nRepítelo hasta que el groove tenga el peso suficiente para girar un minuto entero.",
+          "de": "### Runde 1: Motor mit Grundton vorne\n\nErfinde einen **2-taktigen Groove**, bei dem Takt 1 auf **E** beginnt und Takt 2 auf **B** oder **C#** landet.\n\nRegeln:\n- nutze überwiegend Viertel und Achtel\n- baue in jeden 2-Takt-Zyklus eine kurze Pause ein\n- die tiefe E-Saite muss mindestens einmal vorkommen\n\nWiederhole es, bis der Groove schwer genug wirkt, um eine ganze Minute zu tragen.",
+          "ja": "### ラウンド1：ルート先頭のエンジン\n\n1小節目が **E** で始まり、2小節目が **B** か **C#** に着地する **2小節グルーヴ** を作ります。\n\nルール：\n- 基本は4分音符と8分音符を使う\n- 2小節サイクルごとに短い休符を1つ入れる\n- 低いE弦を少なくとも1回は使う\n\n1分間ずっと回せるくらい重さのあるグルーヴになるまで繰り返してください。",
+          "zh-Hans": "### 第1轮：根音引擎\n\n做一个 **2 小节 groove**，第1小节从 **E** 开始，第2小节落在 **B** 或 **C#**。\n\n规则：\n- 主要使用四分音符和八分音符\n- 每个 2 小节循环留一个短休止\n- 至少有一次用到低音 E 弦\n\n重复到这个 groove 厚实得足以循环整整一分钟。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: slingshot pickup\n\nKeep the same groove skeleton, but launch into beat 1 from **the & of 4**.\n\nUse a stepwise pickup from the scale whenever possible.\n\nThe pickup should feel like it throws the downbeat forward, not like a random extra note.",
+          "pt-BR": "### Rodada 2: anacruse de estilingue\n\nMantenha o mesmo esqueleto do groove, mas lance o tempo 1 a partir do **e do 4**.\n\nSempre que possível, use uma aproximação conjunta da escala.\n\nA anacruse deve empurrar o tempo forte para frente, não soar como uma nota aleatória extra.",
+          "es": "### Ronda 2: anacrusa tirachinas\n\nMantén el mismo esqueleto del groove, pero lanza el tiempo 1 desde **el y de 4**.\n\nSiempre que puedas, usa una aproximación conjunta de la escala.\n\nLa anacrusa debe empujar el pulso hacia delante, no sonar como una nota extra al azar.",
+          "de": "### Runde 2: Schleuder-Auftakt\n\nBehalte dasselbe Groove-Skelett, aber starte die Eins von **und von 4**.\n\nNutze wenn möglich einen stufenweisen Auftakt aus der Skala.\n\nDer Auftakt soll die Eins nach vorne schießen, nicht wie ein zufälliger Zusatztton wirken.",
+          "ja": "### ラウンド2：スリングショット弱起\n\n同じグルーヴの骨格を保ちながら、1拍目へ **4拍目の裏** から飛び込みます。\n\nできるだけスケール内の順次進行で弱起を作りましょう。\n\n弱起はダウンビートを前へ投げ出すように感じられるべきで、ただの余分な音ではいけません。",
+          "zh-Hans": "### 第2轮：弹弓式弱起\n\n保持同样的 groove 骨架，但从 **第4拍后半拍** 发射到第1拍。\n\n只要可能，就用音阶里的级进做弱起。\n\n这个弱起应该把强拍往前推，而不是像随便多塞的一颗音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: octave jump with control\n\nNow add **one octave jump** per cycle without losing timing or tone.\n\nLand the octave on a strong beat, then return to the pocket immediately.\n\nIf the line starts sounding flashy instead of solid, simplify the notes and save the groove first.",
+          "pt-BR": "### Rodada 3: salto de oitava com controle\n\nAgora acrescente **um salto de oitava** por ciclo sem perder tempo nem timbre.\n\nFaça a oitava cair em um tempo forte e volte imediatamente ao pocket.\n\nSe a linha começar a soar exibida em vez de firme, simplifique as notas e salve o groove primeiro.",
+          "es": "### Ronda 3: salto de octava con control\n\nAhora añade **un salto de octava** por ciclo sin perder tiempo ni sonido.\n\nHaz que la octava caiga en un tiempo fuerte y vuelve al pocket de inmediato.\n\nSi la línea empieza a sonar presumida en vez de sólida, simplifica las notas y salva primero el groove.",
+          "de": "### Runde 3: Oktavsprung mit Kontrolle\n\nFüge jetzt pro Zyklus **einen Oktavsprung** hinzu, ohne Timing oder Ton zu verlieren.\n\nLass die Oktave auf einer starken Zählzeit landen und kehre sofort zurück in den Pocket.\n\nWenn die Linie eher geschniegelt als solide klingt, vereinfache die Töne und rette zuerst den Groove.",
+          "ja": "### ラウンド3：コントロールされたオクターブ跳躍\n\n今度はサイクルごとに **1回のオクターブ跳躍** を加えます。ただしタイムも音色も崩さないこと。\n\nオクターブは強拍に着地させ、その直後にすぐポケットへ戻ります。\n\nラインが派手なだけになってきたら、音を減らしてまずグルーヴを守ってください。",
+          "zh-Hans": "### 第3轮：带控制的八度跳跃\n\n现在每个循环加入 **一次八度跳跃**，但不能丢掉 timing 或音色。\n\n让八度落在强拍上，然后立刻回到 pocket。\n\n如果这条线开始显得花哨而不扎实，就先简化音符，把 groove 救回来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nCreate **three versions** of the same idea:\n- one sparse\n- one busier\n- one with a ghost-note feel between scale tones\n\nRecord them, choose the version that would make a drummer smile, then move the whole groove to **A major** without changing the rhythmic identity. 🎸",
+          "pt-BR": "### Desafio final\n\nCrie **três versões** da mesma ideia:\n- uma mais espaçada\n- uma mais movimentada\n- uma com sensação de ghost notes entre os graus da escala\n\nGrave as três, escolha a versão que faria um baterista sorrir e depois leve todo o groove para **Lá maior** sem mudar a identidade rítmica. 🎸",
+          "es": "### Desafío final\n\nCrea **tres versiones** de la misma idea:\n- una más espaciosa\n- una más cargada\n- una con sensación de ghost notes entre los grados de la escala\n\nGrábalas, elige la versión que haría sonreír a una baterista y luego mueve todo el groove a **La mayor** sin cambiar la identidad rítmica. 🎸",
+          "de": "### Abschluss-Challenge\n\nErstelle **drei Versionen** derselben Idee:\n- eine luftig\n- eine dichter\n- eine mit Ghost-Note-Gefühl zwischen den Skalentönen\n\nNimm sie auf, wähle die Version, die einen Drummer lächeln lassen würde, und verlege den ganzen Groove danach nach **A-Dur**, ohne die rhythmische Identität zu ändern. 🎸",
+          "ja": "### 最終チャレンジ\n\n同じアイデアで **3つのバージョン** を作ります。\n- すっきりした版\n- もう少し詰まった版\n- スケール音の間にゴーストノート感を入れた版\n\n録音して、ドラマーが思わず笑う版を選び、その後でリズムの正体を変えずに全体を **Aメジャー** へ移してください。🎸",
+          "zh-Hans": "### 最终挑战\n\n围绕同一个想法做出 **三个版本**：\n- 一个更稀疏\n- 一个更密一些\n- 一个在音阶音之间带有 ghost note 感\n\n录下来，选出那个会让鼓手露出笑容的版本，然后在不改变节奏身份的前提下，把整个 groove 移到 **A大调**。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-25T00:08:28Z",
+  "updatedAt": "2026-06-25T00:08:28Z"
+}

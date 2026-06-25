@@ -1,0 +1,73 @@
+{
+  "id": "guitar-guide-tone-snapline",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission setup\n\nWork over a looping **Dm7 - G7 - Cmaj7 - A7** progression.\n\nStay in one comfortable area of the neck, set a metronome to **84 bpm**, and say the chord names out loud before each bar.\n\nToday you are building solos that sound like they know exactly where they are going.",
+          "pt-BR": "### Configuração da missão\n\nTrabalhe sobre um loop de **Dm7 - G7 - Cmaj7 - A7**.\n\nFique em uma região confortável do braço, ajuste o metrônomo para **84 bpm** e diga o nome dos acordes em voz alta antes de cada compasso.\n\nHoje você vai construir solos que soam como se soubessem exatamente para onde vão.",
+          "es": "### Preparación de la misión\n\nTrabaja sobre un loop de **Dm7 - G7 - Cmaj7 - A7**.\n\nQuédate en una zona cómoda del mástil, pon el metrónomo a **84 bpm** y di los nombres de los acordes en voz alta antes de cada compás.\n\nHoy vas a construir solos que suenen como si supieran exactamente adónde van.",
+          "de": "### Missionsaufbau\n\nArbeite über einen Loop aus **Dm7 - G7 - Cmaj7 - A7**.\n\nBleib in einem bequemen Bereich des Griffbretts, stelle das Metronom auf **84 bpm** und sag die Akkordnamen vor jedem Takt laut.\n\nHeute baust du Soli, die so klingen, als wüssten sie genau, wohin sie wollen.",
+          "ja": "### ミッションの準備\n\n**Dm7 - G7 - Cmaj7 - A7** のループで練習します。\n\n弾きやすいポジションにとどまり、メトロノームを **84 bpm** に設定し、各小節の前にコード名を声に出してください。\n\n今日は、どこへ向かうかをちゃんと知っているように聞こえるソロを作ります。",
+          "zh-Hans": "### 任务准备\n\n在一个 **Dm7 - G7 - Cmaj7 - A7** 的循环上练习。\n\n待在你舒服的一个把位，把节拍器设为 **84 bpm**，并在每小节前大声说出和弦名称。\n\n今天你的目标，是做出听起来非常清楚“要去哪里”的 solo。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: land the guide tones\n\nPlay only **3rds and 7ths** on beat **1** of each chord:\n- **F or C** on Dm7\n- **B or F** on G7\n- **E or B** on Cmaj7\n- **C# or G** on A7\n\nFill the rest of each bar with nearby scale notes, but make the first beat feel undeniable.",
+          "pt-BR": "### Rodada 1: pouse nos guide tones\n\nToque apenas as **3as e 7as** no tempo **1** de cada acorde:\n- **F ou C** em Dm7\n- **B ou F** em G7\n- **E ou B** em Cmaj7\n- **C# ou G** em A7\n\nPreencha o resto de cada compasso com notas vizinhas da escala, mas faça o primeiro tempo soar inevitável.",
+          "es": "### Ronda 1: aterriza en los guide tones\n\nToca solo las **3ras y 7mas** en el tiempo **1** de cada acorde:\n- **F o C** en Dm7\n- **B o F** en G7\n- **E o B** en Cmaj7\n- **C# o G** en A7\n\nRellena el resto de cada compás con notas vecinas de la escala, pero haz que el primer tiempo se sienta inevitable.",
+          "de": "### Runde 1: auf den Guide Tones landen\n\nSpiele auf Zählzeit **1** jedes Akkords nur die **Terz oder Septime**:\n- **F oder C** bei Dm7\n- **B oder F** bei G7\n- **E oder B** bei Cmaj7\n- **C# oder G** bei A7\n\nFülle den Rest jedes Takts mit nahen Skalentönen, aber die erste Zählzeit muss unmissverständlich wirken.",
+          "ja": "### ラウンド1：ガイドトーンへ着地する\n\n各コードの **1拍目** では **3度か7度** だけを狙います。\n- Dm7では **F または C**\n- G7では **B または F**\n- Cmaj7では **E または B**\n- A7では **C# または G**\n\n残りは近くのスケール音で埋めても構いませんが、1拍目の着地は疑いなく聞こえるようにしましょう。",
+          "zh-Hans": "### 第1轮：落在导音上\n\n每个和弦的 **第1拍** 只落在 **3度或7度**：\n- Dm7 用 **F 或 C**\n- G7 用 **B 或 F**\n- Cmaj7 用 **E 或 B**\n- A7 用 **C# 或 G**\n\n每小节剩下的部分可以用附近的音阶音填充，但第一拍必须让人一听就明白。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: add a snapline\n\nKeep the same target notes, but begin each bar from **an eighth-note pickup** or **the & of 2**.\n\nYour phrase should pull the ear forward into the guide tone instead of dropping on it like a rock.\n\nIf the landing feels blurry, use fewer notes and stronger rhythm.",
+          "pt-BR": "### Rodada 2: adicione a linha de impulso\n\nMantenha as mesmas notas-alvo, mas comece cada compasso com **uma anacruse de colcheia** ou no **e do 2**.\n\nA frase deve puxar o ouvido até o guide tone em vez de simplesmente despencar nele.\n\nSe a chegada soar confusa, use menos notas e um ritmo mais forte.",
+          "es": "### Ronda 2: añade una línea de impulso\n\nMantén las mismas notas objetivo, pero empieza cada compás con **una anacrusa de corchea** o en el **y de 2**.\n\nLa frase debe arrastrar el oído hacia el guide tone en vez de caer sobre él como una piedra.\n\nSi la llegada suena borrosa, usa menos notas y un ritmo más firme.",
+          "de": "### Runde 2: füge eine Zuglinie hinzu\n\nBehalte dieselben Zieltöne, beginne aber jeden Takt mit **einem Achtel-Auftakt** oder auf **und von 2**.\n\nDie Phrase soll das Ohr in den Guide Tone hineinziehen, statt einfach auf ihn zu fallen.\n\nWenn die Landung verschwimmt, nimm weniger Töne und stärkeren Rhythmus.",
+          "ja": "### ラウンド2：引き込み線を作る\n\n同じターゲットノートを保ちつつ、各小節を **8分音符のアウフタクト** または **2拍目裏** から始めます。\n\nフレーズはガイドトーンに落ちるのではなく、そこへ耳を引っ張っていくべきです。\n\n着地がぼやけるなら、音数を減らしてリズムを強くしてください。",
+          "zh-Hans": "### 第2轮：加一条牵引线\n\n保持同样的目标音，但每小节从 **一个八分音符的弱起** 或 **第2拍后半拍** 开始。\n\n你的乐句应该把耳朵拉向导音，而不是直接砸在上面。\n\n如果落点发虚，就减少音数，把节奏做得更有力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: change one position, keep the aim\n\nMove the whole exercise to a nearby string set or a new position.\n\nDo not invent a brand-new solo language.\n\nKeep the same harmonic targets while your fretting hand solves a fresh map.",
+          "pt-BR": "### Rodada 3: mude a posição, mantenha a mira\n\nLeve todo o exercício para um grupo de cordas próximo ou para outra posição.\n\nNão invente uma linguagem de solo totalmente nova.\n\nMantenha os mesmos alvos harmônicos enquanto sua mão esquerda resolve um novo mapa.",
+          "es": "### Ronda 3: cambia de posición, mantén la puntería\n\nMueve todo el ejercicio a un grupo de cuerdas cercano o a una posición nueva.\n\nNo inventes un lenguaje de solo totalmente distinto.\n\nConserva los mismos objetivos armónicos mientras tu mano resuelve un mapa nuevo.",
+          "de": "### Runde 3: Lage wechseln, Ziel behalten\n\nVerlege die ganze Übung auf einen benachbarten Saitensatz oder in eine neue Lage.\n\nErfinde dabei keine komplett neue Solo-Sprache.\n\nBehalte dieselben harmonischen Ziele, während deine Greifhand eine neue Karte löst.",
+          "ja": "### ラウンド3：ポジションを変えても照準は維持\n\nこの練習全体を近くの別弦セットか新しいポジションへ移します。\n\nまったく新しいソロ語彙を作り直してはいけません。\n\n左手が新しい地図を解いても、同じハーモニー目標を保ってください。",
+          "zh-Hans": "### 第3轮：换把位，别丢准星\n\n把整个练习移到附近另一组弦，或者新的把位。\n\n不要重新发明一整套 solo 语言。\n\n即使左手在解决新地图，也要保持同样的和声目标。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nRecord **two 4-bar takes**:\n- one smooth and lyrical\n- one punchier with sharper accents\n\nThen improvise a third take where every bar clearly announces the next chord before it arrives.\n\nIf a listener could guess the progression from your note choices alone, you nailed it. 🎸",
+          "pt-BR": "### Desafio final\n\nGrave **duas tomadas de 4 compassos**:\n- uma suave e cantável\n- outra mais firme, com acentos mais nítidos\n\nDepois improvise uma terceira tomada em que cada compasso anuncie claramente o próximo acorde antes de ele chegar.\n\nSe alguém puder adivinhar a progressão só pelas suas escolhas de notas, você acertou. 🎸",
+          "es": "### Desafío final\n\nGraba **dos tomas de 4 compases**:\n- una suave y cantabile\n- otra más punzante con acentos más marcados\n\nLuego improvisa una tercera toma en la que cada compás anuncie claramente el siguiente acorde antes de que llegue.\n\nSi alguien pudiera adivinar la progresión solo por tus notas, lo lograste. 🎸",
+          "de": "### Abschluss-Challenge\n\nNimm **zwei 4-taktige Takes** auf:\n- einen weich und singend\n- einen bissiger mit schärferen Akzenten\n\nImprovisiere danach einen dritten Take, in dem jeder Takt den nächsten Akkord schon vor seiner Ankunft klar ankündigt.\n\nWenn jemand die Progression allein an deiner Tonwahl erraten könnte, hast du es geschafft. 🎸",
+          "ja": "### 最終チャレンジ\n\n**4小節のテイクを2種類** 録音しましょう。\n- なめらかで歌うような版\n- より鋭く、アクセントが強い版\n\nそのあと、各小節が次のコードを到着前にはっきり予告する3つ目のテイクを即興で弾きます。\n\n音選びだけで進行を当てられるなら成功です。🎸",
+          "zh-Hans": "### 最终挑战\n\n录下 **两个 4 小节版本**：\n- 一个顺滑、歌唱感更强\n- 一个更有冲击力、重音更尖锐\n\n然后即兴录第三个版本，让每一小节都能在下一个和弦到来之前先把它“说出来”。\n\n如果别人只听你的选音就能猜出进行，你就完成了。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-25T00:08:27Z",
+  "updatedAt": "2026-06-25T00:08:27Z"
+}
