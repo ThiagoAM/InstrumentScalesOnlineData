@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-06-25T00:08:27Z",
     "updatedAt": "2026-06-25T00:08:27Z"
+  },
+  {
+    "id": "guitar-pivot-note-gauntlet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Pivot-Note Gauntlet",
+        "pt-BR": "Guitarra: Desafio da Nota-Pivô",
+        "es": "Guitarra: Desafío de la nota pivote",
+        "de": "Gitarre: Drehpunkt-Noten-Parcours",
+        "ja": "ギター：ピボットノート・ガントレット",
+        "zh-Hans": "吉他：枢纽音闯关"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use one shared note to pivot through chord changes so your improvisation sounds deliberate, mobile, and musical.",
+        "pt-BR": "Use uma nota em comum para atravessar as mudanças de acorde e fazer seu improviso soar intencional, móvel e musical.",
+        "es": "Usa una nota compartida para cruzar los cambios de acorde y lograr que tu improvisación suene intencional, móvil y musical.",
+        "de": "Nutze einen gemeinsamen Ton, um Akkordwechsel zu verbinden, damit deine Improvisation gezielt, beweglich und musikalisch klingt.",
+        "ja": "共通音を使ってコードチェンジをまたぎ、即興を狙いのある動きと音楽性のある流れに変えよう。",
+        "zh-Hans": "用一个共享音穿过和弦转换，让你的即兴听起来更有目标感、流动感和音乐性。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-06-26T00:07:48Z",
+    "updatedAt": "2026-06-26T00:07:48Z"
   }
 ]

@@ -250,5 +250,33 @@
     "order": 9,
     "createdAt": "2026-06-09T00:10:16Z",
     "updatedAt": "2026-06-09T00:10:16Z"
+  },
+  {
+    "id": "bass-approach-note-pinball",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Approach-Note Pinball",
+        "pt-BR": "Baixo: Pinball das Notas de Aproximação",
+        "es": "Bajo: Pinball de notas de aproximación",
+        "de": "Bass: Pinball mit Annäherungstönen",
+        "ja": "ベース：アプローチノート・ピンボール",
+        "zh-Hans": "贝斯：经过音弹珠台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your time and note choice by bouncing into strong bass targets with clean, repeatable approach notes.",
+        "pt-BR": "Treine tempo e escolha de notas acertando alvos fortes no baixo com notas de aproximação limpas e repetíveis.",
+        "es": "Entrena tu tiempo y elección de notas rebotando hacia objetivos fuertes del bajo con notas de aproximación limpias y repetibles.",
+        "de": "Trainiere Timing und Tonwahl, indem du mit sauberen, wiederholbaren Annäherungstönen in starke Basstöne hineinspringst.",
+        "ja": "きれいで再現しやすいアプローチノートで強い着地点に跳ね込み、タイム感と音選びを鍛えよう。",
+        "zh-Hans": "用干净、可重复的经过音弹进强拍目标，训练你的节奏感和音符选择。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-26T00:09:02Z",
+    "updatedAt": "2026-06-26T00:09:02Z"
   }
 ]

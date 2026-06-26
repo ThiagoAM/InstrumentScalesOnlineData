@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-06-25T00:08:30Z",
     "updatedAt": "2026-06-25T00:08:30Z"
+  },
+  {
+    "id": "piano-voicing-runway",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Voicing Runway",
+        "pt-BR": "Piano: Pista de Pouso das Voicings",
+        "es": "Piano: Pista de aterrizaje de voicings",
+        "de": "Piano: Voicing-Startbahn",
+        "ja": "ピアノ：ボイシング滑走路",
+        "zh-Hans": "钢琴：和声音型跑道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect scales to harmony by aiming your right hand into strong chord tones while the left hand keeps clean guidepost voicings.",
+        "pt-BR": "Conecte escalas à harmonia fazendo a mão direita mirar notas fortes do acorde enquanto a esquerda sustenta voicings-guia limpos.",
+        "es": "Conecta las escalas con la armonía haciendo que la mano derecha apunte a tonos fuertes mientras la izquierda sostiene voicings guía limpios.",
+        "de": "Verbinde Skalen mit Harmonie, indem die rechte Hand gezielt starke Akkordtöne ansteuert, während die linke Hand klare Leit-Voicings hält.",
+        "ja": "左手でガイドになるボイシングを保ちながら、右手で強いコードトーンを狙って、スケール練習をハーモニーに結びつけよう。",
+        "zh-Hans": "让右手瞄准强烈的和弦音，同时左手保持清晰的引导型和声音型，把音阶练习真正接到和声上。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-06-26T00:10:19Z",
+    "updatedAt": "2026-06-26T00:10:19Z"
   }
 ]

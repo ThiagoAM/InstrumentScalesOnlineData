@@ -1,0 +1,73 @@
+{
+  "id": "guitar-pivot-note-gauntlet",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission briefing\n\nLoop **Am7 - D7 - Gmaj7 - E7** for several minutes.\n\nStay around the **5th to 8th frets**, set your metronome to **88 bpm**, and say each chord name before you play it.\n\nToday’s game is simple: keep your lines moving, but make every chord change feel like a planned landing.",
+          "pt-BR": "### Missão do dia\n\nDeixe em loop a progressão **Am7 - D7 - Gmaj7 - E7** por alguns minutos.\n\nFique entre a **5ª e a 8ª casas**, coloque o metrônomo em **88 bpm** e fale o nome de cada acorde antes de tocar.\n\nA brincadeira de hoje é simples: manter a linha em movimento, mas fazer cada mudança de acorde soar como um pouso planejado.",
+          "es": "### Misión del día\n\nPon en loop la progresión **Am7 - D7 - Gmaj7 - E7** durante varios minutos.\n\nQuédate entre los **trastes 5 y 8**, ajusta el metrónomo a **88 bpm** y di el nombre de cada acorde antes de tocar.\n\nEl juego de hoy es simple: mantén la línea en movimiento, pero haz que cada cambio de acorde se sienta como un aterrizaje planeado.",
+          "de": "### Mission des Tages\n\nLass die Folge **Am7 - D7 - Gmaj7 - E7** mehrere Minuten loopen.\n\nBleib ungefähr zwischen dem **5. und 8. Bund**, stell das Metronom auf **88 bpm** und sag vor jedem Takt den Akkordnamen laut.\n\nDas heutige Spiel ist einfach: Halte deine Linie in Bewegung, aber lass jeden Akkordwechsel wie eine geplante Landung wirken.",
+          "ja": "### 今日のミッション\n\n**Am7 - D7 - Gmaj7 - E7** を数分ループさせましょう。\n\n**5〜8フレット**付近に収まり、メトロノームを **88 bpm** に設定して、弾く前に各コード名を声に出します。\n\n今日のゲームはシンプルです。フレーズは動かし続けつつ、各コードチェンジを計画された着地に聞かせましょう。",
+          "zh-Hans": "### 今日任务\n\n把 **Am7 - D7 - Gmaj7 - E7** 循环几分钟。\n\n把手位控制在 **第5到第8品** 附近，节拍器设为 **88 bpm**，并在每小节开始前说出和弦名称。\n\n今天的游戏很简单：让乐句持续前进，但让每一次和弦转换都像一次有计划的着陆。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: find the pivot note\n\nFor each chord change, choose **one note that belongs to both chords** and hold or repeat it across the barline.\n\nExamples:\n- **A** from Am7 to D7\n- **D** from D7 to Gmaj7\n- **B** from Gmaj7 to E7\n\nAfter the pivot, finish the bar with nearby scale notes.",
+          "pt-BR": "### Rodada 1: encontre a nota-pivô\n\nEm cada troca de acorde, escolha **uma nota que pertença aos dois acordes** e segure ou repita essa nota na virada do compasso.\n\nExemplos:\n- **A** de Am7 para D7\n- **D** de D7 para Gmaj7\n- **B** de Gmaj7 para E7\n\nDepois da nota-pivô, complete o compasso com notas próximas da escala.",
+          "es": "### Ronda 1: encuentra la nota pivote\n\nEn cada cambio de acorde, elige **una nota que pertenezca a ambos acordes** y sostenla o repítela sobre la línea del compás.\n\nEjemplos:\n- **A** de Am7 a D7\n- **D** de D7 a Gmaj7\n- **B** de Gmaj7 a E7\n\nDespués de la nota pivote, completa el compás con notas cercanas de la escala.",
+          "de": "### Runde 1: finde den Drehpunktton\n\nWähle bei jedem Akkordwechsel **einen Ton, der zu beiden Akkorden gehört**, und halte oder wiederhole ihn über die Taktgrenze hinweg.\n\nBeispiele:\n- **A** von Am7 zu D7\n- **D** von D7 zu Gmaj7\n- **B** von Gmaj7 zu E7\n\nNach dem Drehpunktton füllst du den Takt mit benachbarten Skalennoten auf.",
+          "ja": "### ラウンド1：ピボットノートを見つける\n\nコードが変わるたびに、**両方のコードに含まれる音を1つ**選び、その音を小節線をまたいで伸ばすか繰り返します。\n\n例:\n- Am7 から D7 へは **A**\n- D7 から Gmaj7 へは **D**\n- Gmaj7 から E7 へは **B**\n\nピボットノートの後は、近くのスケール音で小節を締めましょう。",
+          "zh-Hans": "### 第1轮：找到枢纽音\n\n每次和弦变化时，选 **一个同时属于前后两个和弦的音**，并把它延长或重复到小节线另一侧。\n\n例如：\n- 从 Am7 到 D7 用 **A**\n- 从 D7 到 Gmaj7 用 **D**\n- 从 Gmaj7 到 E7 用 **B**\n\n通过这个枢纽音后，再用附近的音阶音完成这个小节。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: arrive from above or below\n\nKeep the same pivot-note idea, but now approach the shared note from **one fret above** or **one fret below**.\n\nMake the tiny slide or step happen on an upbeat so the pivot lands right on the chord change.\n\nIf it sounds messy, slow down and exaggerate the target.",
+          "pt-BR": "### Rodada 2: chegue por cima ou por baixo\n\nMantenha a mesma ideia da nota-pivô, mas agora aproxime a nota compartilhada vindo de **um traste acima** ou **um traste abaixo**.\n\nFaça esse pequeno slide ou passo em um contratempo para que a nota-pivô caia exatamente na mudança de acorde.\n\nSe soar bagunçado, diminua a velocidade e deixe o alvo bem claro.",
+          "es": "### Ronda 2: llega desde arriba o desde abajo\n\nMantén la misma idea de la nota pivote, pero ahora acércate a la nota compartida desde **un traste arriba** o **un traste abajo**.\n\nHaz ese pequeño slide o paso en un contratiempo para que la nota pivote caiga justo en el cambio de acorde.\n\nSi suena borroso, baja la velocidad y exagera el objetivo.",
+          "de": "### Runde 2: von oben oder unten ansteuern\n\nBehalte dieselbe Idee bei, nähere dich dem gemeinsamen Ton jetzt aber von **einem Bund höher** oder **einem Bund tiefer**.\n\nLass den kleinen Slide oder Schritt auf einer Offbeat-Zählzeit passieren, damit der Drehpunkt genau auf dem Akkordwechsel landet.\n\nWenn es unsauber klingt, geh langsamer und übertreibe das Ziel bewusst.",
+          "ja": "### ラウンド2：上か下から入る\n\n同じピボットノートの発想を使いながら、今度はその共通音へ **1フレット上** または **1フレット下** から近づきます。\n\n小さなスライドや半音移動は裏拍で起こし、ピボットノートがちょうどコードチェンジで着地するようにします。\n\n音がぼやけるなら、テンポを落として狙いを大げさなくらい明確にしましょう。",
+          "zh-Hans": "### 第2轮：从上方或下方接近\n\n继续使用同样的枢纽音思路，但这次从 **高一品** 或 **低一品** 接近这个共享音。\n\n让这个小滑音或级进出现在弱拍上，这样枢纽音就能正好落在和弦变化处。\n\n如果听起来发糊，就放慢速度，把目标音强调得更明显一些。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: switch string sets, keep the logic\n\nMove the exercise to a different string set or a nearby position without changing the progression.\n\nYour fingers get a new puzzle, but your ears still have the same job: hear the pivot, hit it cleanly, and let the rest of the phrase orbit around it.",
+          "pt-BR": "### Rodada 3: troque o grupo de cordas, mantenha a lógica\n\nLeve o exercício para outro grupo de cordas ou para uma posição próxima sem mudar a progressão.\n\nSua mão ganha um novo quebra-cabeça, mas seu ouvido continua com a mesma tarefa: ouvir a nota-pivô, acertá-la com clareza e deixar o resto da frase girar em torno dela.",
+          "es": "### Ronda 3: cambia de grupo de cuerdas, conserva la lógica\n\nLleva el ejercicio a otro grupo de cuerdas o a una posición cercana sin cambiar la progresión.\n\nTus dedos reciben un rompecabezas nuevo, pero tus oídos mantienen el mismo trabajo: escuchar la nota pivote, caer con limpieza y dejar que el resto de la frase gire a su alrededor.",
+          "de": "### Runde 3: Saitensatz wechseln, Logik behalten\n\nVerschiebe die Übung auf einen anderen Saitensatz oder in eine nahe Position, ohne die Progression zu ändern.\n\nDeine Greifhand bekommt ein neues Rätsel, aber dein Ohr hat denselben Job: den Drehpunkt hören, ihn sauber treffen und den Rest der Phrase darum kreisen lassen.",
+          "ja": "### ラウンド3：弦セットを変えても考え方は同じ\n\n進行はそのままで、別の弦セットや近いポジションへ移動してください。\n\n指には新しいパズルですが、耳の仕事は同じです。ピボットを聴き取り、きれいに当てて、そのまわりを他の音で回していきましょう。",
+          "zh-Hans": "### 第3轮：换弦组，但逻辑不变\n\n保持同样的进行，把练习移到另一组弦或邻近把位。\n\n手指会遇到新的谜题，但耳朵的任务不变：听见枢纽音、干净地落上去，再让其余乐句围着它运转。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final boss: two contrasting takes\n\nRecord **two 4-bar solos**:\n- one smooth and connected\n- one punchy with rests and accents\n\nIn both takes, make the pivot note obvious enough that a listener can hear the chord change lock into place.\n\nIf the line sounds guided instead of lucky, you won. 🎸",
+          "pt-BR": "### Chefão final: duas takes contrastantes\n\nGrave **dois solos de 4 compassos**:\n- um suave e conectado\n- um mais incisivo, com pausas e acentos\n\nNas duas takes, deixe a nota-pivô evidente o suficiente para que alguém ouça a mudança de acorde se encaixando no lugar.\n\nSe a linha soar guiada em vez de sortuda, você venceu. 🎸",
+          "es": "### Jefe final: dos tomas contrastantes\n\nGraba **dos solos de 4 compases**:\n- uno fluido y conectado\n- uno más seco, con silencios y acentos\n\nEn ambas tomas, haz que la nota pivote sea lo bastante clara como para que alguien escuche el cambio de acorde encajando en su sitio.\n\nSi la línea suena guiada en vez de accidental, ganaste. 🎸",
+          "de": "### Endgegner: zwei gegensätzliche Takes\n\nNimm **zwei 4-taktige Soli** auf:\n- eines weich und verbunden\n- eines knackiger mit Pausen und Akzenten\n\nIn beiden Takes soll der Drehpunkt so klar sein, dass man den Akkordwechsel förmlich einrasten hört.\n\nWenn die Linie geführt statt zufällig klingt, hast du gewonnen. 🎸",
+          "ja": "### 最終ボス：性格の違う2テイク\n\n**4小節のソロを2本**録音しましょう。\n- 1本は滑らかでつながった感じ\n- もう1本は休符とアクセントを効かせた鋭い感じ\n\nどちらのテイクでも、コードチェンジがそこにはまる瞬間を聴き手が感じられるくらい、ピボットノートをはっきり見せてください。\n\n運ではなく設計で導いているように聞こえたら勝ちです。🎸",
+          "zh-Hans": "### 最终关：两段对比鲜明的录音\n\n录下 **两段4小节独奏**：\n- 一段平滑连贯\n- 一段更有棱角，带休止和重音\n\n在两段里，都要让枢纽音清楚到让听众能听见和弦变化“卡”进正确位置。\n\n如果整条线听起来像被你引导，而不是碰巧蒙对，你就赢了。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-26T00:07:48Z",
+  "updatedAt": "2026-06-26T00:07:48Z"
+}
