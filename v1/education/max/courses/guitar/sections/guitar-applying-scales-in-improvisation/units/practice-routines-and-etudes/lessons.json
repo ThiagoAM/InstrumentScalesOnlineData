@@ -586,5 +586,33 @@
     "order": 21,
     "createdAt": "2026-06-20T00:07:03Z",
     "updatedAt": "2026-06-20T00:07:03Z"
+  },
+  {
+    "id": "guitar-backbeat-obstacle-course",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Backbeat Obstacle Course",
+        "pt-BR": "Guitarra: pista de obstáculos do backbeat",
+        "es": "Guitarra: circuito de obstáculos del backbeat",
+        "de": "Gitarre: Backbeat-Hindernisparcours",
+        "ja": "ギターのバックビート障害物コース",
+        "zh-Hans": "吉他反拍障碍赛道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Punch through syncopated scale phrases without losing the groove.",
+        "pt-BR": "Atravesse frases sincopadas de escala sem perder o groove.",
+        "es": "Supera frases sincopadas de escala sin perder el groove.",
+        "de": "Bewältige synkopierte Skalenphrasen, ohne den Groove zu verlieren.",
+        "ja": "グルーヴを保ったまま、シンコペーション入りのスケールフレーズを突破しよう。",
+        "zh-Hans": "在不丢失律动的前提下，闯过带切分节奏的音阶乐句。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-06-27T00:06:35Z",
+    "updatedAt": "2026-06-27T00:06:35Z"
   }
 ]

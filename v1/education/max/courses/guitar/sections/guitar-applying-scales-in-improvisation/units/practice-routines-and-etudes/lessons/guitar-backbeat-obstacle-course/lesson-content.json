@@ -1,0 +1,86 @@
+{
+  "id": "guitar-backbeat-obstacle-course",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission: turn one scale into a groove machine. Set a metronome at **72 BPM** and loop an A minor vamp. Play the A minor pentatonic in 8th notes for two bars, then leave **beat 1 empty** in bar 3 before answering with a short phrase on beats 2-4. That tiny gap is the obstacle: if the groove survives the silence, your time is solid.",
+          "pt-BR": "Sua missão: transformar uma escala em uma máquina de groove. Coloque o metrônomo em **72 BPM** e deixe um vamp em Lá menor tocando. Toque a pentatônica menor de A em colcheias por dois compassos e, no compasso 3, deixe o **tempo 1 vazio** antes de responder com uma frase curta nos tempos 2-4. Esse pequeno espaço é o obstáculo: se o groove sobreviver ao silêncio, seu tempo está firme.",
+          "es": "Tu misión: convertir una sola escala en una máquina de groove. Pon el metrónomo a **72 BPM** y usa un vamp en La menor. Toca la pentatónica menor de A en corcheas durante dos compases y, en el compás 3, deja **vacío el tiempo 1** antes de responder con una frase corta en los tiempos 2-4. Ese pequeño hueco es el obstáculo: si el groove sobrevive al silencio, tu pulso está firme.",
+          "de": "Deine Mission: Verwandle eine einzige Skala in eine Groove-Maschine. Stell das Metronom auf **72 BPM** und loope einen A-Moll-Vamp. Spiele die A-Moll-Pentatonik zwei Takte lang in Achteln und lass in Takt 3 **Zählzeit 1 frei**, bevor du auf Zählzeiten 2-4 mit einer kurzen Phrase antwortest. Diese kleine Lücke ist das Hindernis: Wenn der Groove trotz der Stille trägt, sitzt dein Timing.",
+          "ja": "今日のミッションは、1つのスケールをグルーヴマシンに変えることです。メトロノームを **72 BPM** に設定し、Aマイナーのバンプをループします。Aマイナー・ペンタトニックを8分音符で2小節弾き、3小節目では **1拍目を休み**、2〜4拍目で短いフレーズを返してください。この小さな空白が障害物です。沈黙のあとでもグルーヴが崩れなければ、タイム感はかなり安定しています。",
+          "zh-Hans": "你的任务是把一条音阶变成律动机器。把节拍器设为 **72 BPM**，循环一个 A 小调伴奏。先用八分音符演奏 A 小调五声音阶两小节，到第 3 小节时把 **第 1 拍空出来**，再在第 2 到第 4 拍用一句短乐句回答。这个小空白就是障碍：如果沉默之后 groove 还站得住，你的节奏感就很稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a **landing rule**. Every phrase must end on either **A, C, or E** and the final note has to land exactly on beat 4-and. Run five rounds. If you miss the landing, restart the count immediately and keep your picking hand relaxed instead of rushing to catch up.",
+          "pt-BR": "Agora acrescente uma **regra de aterrissagem**. Toda frase deve terminar em **A, C ou E**, e a última nota precisa cair exatamente no \"e\" do tempo 4. Faça cinco rodadas. Se errar a chegada, reinicie a contagem na hora e mantenha a mão da palheta relaxada em vez de acelerar para compensar.",
+          "es": "Ahora añade una **regla de aterrizaje**. Cada frase debe terminar en **A, C o E** y la última nota tiene que caer exactamente en el 4-y. Haz cinco rondas. Si fallas el aterrizaje, reinicia el conteo de inmediato y mantén la mano de púa relajada en lugar de correr para recuperarte.",
+          "de": "Füge jetzt eine **Lande-Regel** hinzu. Jede Phrase muss auf **A, C oder E** enden, und der letzte Ton muss genau auf der 4-und landen. Spiele fünf Runden. Wenn du die Landung verfehlst, beginne die Zählung sofort neu und halte die Schlaghand locker, statt hektisch aufzuholen.",
+          "ja": "次に **着地ルール** を追加します。すべてのフレーズは **A、C、E** のどれかで終わり、最後の音は必ず4拍目の裏に着地させます。これを5ラウンド行ってください。着地を外したらすぐに数え直し、取り戻そうとして右手を急がせないことが大切です。",
+          "zh-Hans": "现在加入一条 **落点规则**。每一句都必须落在 **A、C 或 E** 上，而且最后一个音必须准确落在第 4 拍的后半拍。连续做五轮。如果落点错了，立刻重新计数，右手保持放松，不要为了追回节拍而越弹越急。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shift the same idea to a new string set. Play one response mostly on strings 2 and 3, then the next mostly on strings 3 and 4. Keep the rhythm almost identical while your fretboard location changes. This is how you train the ear to hear phrasing as a shape in time, not just a box under the fingers.",
+          "pt-BR": "Leve a mesma ideia para outro conjunto de cordas. Toque uma resposta principalmente nas cordas 2 e 3, depois a próxima principalmente nas cordas 3 e 4. Mantenha o ritmo quase idêntico enquanto a posição muda no braço. Assim você treina o ouvido para perceber o fraseado como um desenho no tempo, e não só como uma caixa de dedos.",
+          "es": "Lleva la misma idea a otro grupo de cuerdas. Toca una respuesta sobre todo en las cuerdas 2 y 3, y la siguiente sobre todo en las cuerdas 3 y 4. Mantén el ritmo casi idéntico mientras cambias de zona en el diapasón. Así entrenas el oído para escuchar el fraseo como una forma en el tiempo, no solo como una caja bajo los dedos.",
+          "de": "Übertrage dieselbe Idee auf ein anderes Saitenset. Spiele eine Antwort hauptsächlich auf den Saiten 2 und 3, die nächste hauptsächlich auf 3 und 4. Behalte fast denselben Rhythmus bei, während sich deine Lage auf dem Griffbrett verändert. So trainierst du dein Ohr, Phrasierung als Form in der Zeit zu hören und nicht nur als Fingerschablone.",
+          "ja": "同じアイデアを別の弦セットに移します。ある返答は主に2弦と3弦、次の返答は主に3弦と4弦で弾きます。指板上の位置が変わっても、リズムはほぼ同じに保ってください。こうすると、耳はフレージングを『指の形』ではなく『時間の中の形』として捉えられるようになります。",
+          "zh-Hans": "把同样的想法移到另一组弦上。先让一个回答主要在 2、3 弦完成，下一个回答主要放在 3、4 弦。即使指板位置改变，节奏也尽量保持几乎一样。这样训练的是耳朵把乐句听成『时间里的形状』，而不只是手指下面的把位。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time for the obstacle upgrade: bar 1 uses straight 8ths, bar 2 uses an **8th-note rest** on beat 2, bar 3 uses a **triplet pickup** into beat 4, and bar 4 is your freestyle bar. Stay inside the scale, but make each bar feel intentionally different. Record one take and listen for which bar actually sounded like music instead of an exercise.",
+          "pt-BR": "Hora de aumentar o obstáculo: o compasso 1 usa colcheias retas, o compasso 2 usa uma **pausa de colcheia** no tempo 2, o compasso 3 usa uma **anacruse em tercina** entrando no tempo 4, e o compasso 4 é seu compasso livre. Fique dentro da escala, mas faça cada compasso soar intencionalmente diferente. Grave uma tomada e ouça qual compasso realmente soou musical em vez de mecânico.",
+          "es": "Ahora sube la dificultad del obstáculo: el compás 1 usa corcheas rectas, el compás 2 usa un **silencio de corchea** en el tiempo 2, el compás 3 usa un **pickup en tresillo** hacia el tiempo 4 y el compás 4 es tu compás libre. Quédate dentro de la escala, pero haz que cada compás se sienta claramente distinto. Graba una toma y escucha qué compás sonó realmente musical en lugar de escolar.",
+          "de": "Jetzt kommt das Hindernis-Upgrade: Takt 1 hat gerade Achtel, Takt 2 hat auf Zählzeit 2 eine **Achtelpause**, Takt 3 nutzt einen **Triolen-Auftakt** in Richtung Zählzeit 4, und Takt 4 ist dein Freestyle-Takt. Bleib in der Skala, aber gib jedem Takt einen eigenen Charakter. Nimm einen Durchgang auf und prüfe, welcher Takt wirklich nach Musik statt nach Übung klang.",
+          "ja": "ここで障害物を強化します。1小節目はまっすぐな8分音符、2小節目は2拍目に **8分休符**、3小節目は4拍目へ向かう **3連符のピックアップ**、4小節目は自由に作る小節です。スケール内に収まりつつ、各小節のキャラクターをはっきり変えてください。1回録音して、どの小節が練習ではなく音楽として聴こえたか確認しましょう。",
+          "zh-Hans": "现在升级障碍：第 1 小节用平稳的八分音符，第 2 小节在第 2 拍加入一个 **八分休止**，第 3 小节用一个通往第 4 拍的 **三连音起拍**，第 4 小节则由你自由发挥。始终待在这条音阶里，但要让每小节都有明确不同的感觉。录一遍，听听哪一小节真正像音乐，而不只是练习。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add one expressive move: a slide, bend, vibrato, or muted rake. Use only **one** ornament per phrase so it means something. Great improvisers do not decorate everything; they spotlight one detail and make it count.",
+          "pt-BR": "Adicione um recurso expressivo: slide, bend, vibrato ou rake abafado. Use apenas **um** ornamento por frase para que ele tenha peso. Bons improvisadores não enfeitam tudo; eles destacam um detalhe e fazem esse detalhe valer.",
+          "es": "Añade un recurso expresivo: slide, bend, vibrato o rake apagado. Usa solo **un** adorno por frase para que tenga significado. Los buenos improvisadores no decoran todo; iluminan un detalle y hacen que importe.",
+          "de": "Baue ein Ausdrucksmittel ein: Slide, Bend, Vibrato oder gedämpften Rake. Verwende pro Phrase nur **ein** Ornament, damit es Gewicht bekommt. Gute Improvisierende verzieren nicht alles; sie heben ein Detail hervor und machen es bedeutsam.",
+          "ja": "表情づけを1つ加えます。スライド、チョーキング、ビブラート、ミュートしたレイクのどれかを選び、1フレーズにつき **1回だけ** 使ってください。上手い即興は全部を飾るのではなく、1つの要素を目立たせて意味を持たせます。",
+          "zh-Hans": "再加一个表达动作：滑音、推弦、颤音，或者闷音 rake。每个乐句只允许 **一个** 装饰，这样它才有分量。好的即兴不是处处上色，而是抓住一个细节，把它放大。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: improvise for **90 seconds** with only four notes allowed at first: A, C, D, E. After 45 seconds you unlock G. The restriction forces stronger rhythm and clearer storytelling. When you finish, write one sentence: **Which rhythm created the most tension, and which note felt like home?**",
+          "pt-BR": "Rodada chefão: improvise por **90 segundos** usando só quatro notas no começo: A, C, D e E. Depois de 45 segundos você desbloqueia o G. A limitação força um ritmo mais forte e uma narrativa mais clara. Ao terminar, escreva uma frase: **qual ritmo criou mais tensão e qual nota pareceu casa?**",
+          "es": "Ronda final: improvisa durante **90 segundos** con solo cuatro notas al principio: A, C, D y E. Después de 45 segundos desbloqueas G. La restricción obliga a un ritmo más sólido y una historia más clara. Al terminar, escribe una frase: **¿qué ritmo creó más tensión y qué nota se sintió como hogar?**",
+          "de": "Boss-Runde: Improvisiere **90 Sekunden** lang und erlaube dir anfangs nur vier Töne: A, C, D und E. Nach 45 Sekunden schaltest du G frei. Die Begrenzung erzwingt stärkeren Rhythmus und klareres Storytelling. Schreib danach einen Satz: **Welcher Rhythmus erzeugte die meiste Spannung, und welcher Ton fühlte sich wie Zuhause an?**",
+          "ja": "ボスラウンドです。最初の45秒は **A、C、D、E** の4音だけで **90秒** 即興します。45秒たったら G を解禁します。制限があるほど、リズムの強さと物語性ははっきりします。終わったら一文だけ書いてください。**いちばん緊張感を生んだリズムは何で、どの音が帰る場所に感じたか？**",
+          "zh-Hans": "最终关：先只用 **A、C、D、E** 四个音即兴 **90 秒**，45 秒之后再解锁 G。限制会逼出更强的节奏和更清楚的叙事。结束后写一句话：**哪个节奏制造了最多张力，哪个音最像回家？**"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-27T00:06:35Z",
+  "updatedAt": "2026-06-27T00:06:35Z"
+}

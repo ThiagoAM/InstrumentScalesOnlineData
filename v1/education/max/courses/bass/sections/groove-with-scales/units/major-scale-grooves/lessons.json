@@ -1650,5 +1650,33 @@
     "order": 59,
     "createdAt": "2026-06-25T00:08:28Z",
     "updatedAt": "2026-06-25T00:08:28Z"
+  },
+  {
+    "id": "bass-pocket-rocket-lanes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Rocket Lanes",
+        "pt-BR": "Baixo: pistas de bolso em modo foguete",
+        "es": "Bajo: carriles cohete del pocket",
+        "de": "Bass: Pocket-Raketenbahnen",
+        "ja": "ベースのポケット・ロケットレーン",
+        "zh-Hans": "贝斯口袋火箭跑道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch major-scale grooves that lock hard before they flex.",
+        "pt-BR": "Lance grooves de escala maior que travam no pocket antes de se expandirem.",
+        "es": "Lanza grooves de escala mayor que se clavan en el pocket antes de abrirse.",
+        "de": "Starte Grooves aus der Durtonleiter, die erst fest im Pocket sitzen und dann Fahrt aufnehmen.",
+        "ja": "しっかりポケットにハマってから広がるメジャースケール・グルーヴを打ち上げよう。",
+        "zh-Hans": "发射先稳稳锁进 pocket、再灵活展开的大调音阶 groove。"
+      }
+    },
+    "order": 60,
+    "createdAt": "2026-06-27T00:06:36Z",
+    "updatedAt": "2026-06-27T00:06:36Z"
   }
 ]

@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-06-26T00:10:19Z",
     "updatedAt": "2026-06-26T00:10:19Z"
+  },
+  {
+    "id": "piano-turnaround-rocket-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Turnaround Rocket Run",
+        "pt-BR": "Piano: corrida-foguete dos turnarounds",
+        "es": "Piano: carrera cohete del turnaround",
+        "de": "Piano: Turnaround-Raketenlauf",
+        "ja": "ピアノのターンアラウンド・ロケットラン",
+        "zh-Hans": "钢琴转回火箭跑"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice scale-based turnarounds that actually sound like music.",
+        "pt-BR": "Pratique turnarounds baseados em escalas que realmente soem musicais.",
+        "es": "Practica turnarounds basados en escalas que de verdad suenen musicales.",
+        "de": "Übe skalenbasierte Turnarounds, die tatsächlich nach Musik klingen.",
+        "ja": "本当に音楽として響く、スケールベースのターンアラウンドを練習しよう。",
+        "zh-Hans": "练习真正像音乐而不是像作业的音阶式 turnaround。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-06-27T00:06:36Z",
+    "updatedAt": "2026-06-27T00:06:36Z"
   }
 ]
