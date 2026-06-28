@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-05-06T00:06:36Z",
     "updatedAt": "2026-05-06T00:06:36Z"
+  },
+  {
+    "id": "guitar-scale-switchyard-sparks",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Scale Switchyard Sparks",
+        "pt-BR": "Guitarra: Faíscas no Pátio de Trocas da Escala",
+        "es": "Guitarra: Chispas en el Patio de Cambios de la Escala",
+        "de": "Gitarre: Funken im Skalen-Weichenfeld",
+        "ja": "ギター：スケール操車場のスパーク",
+        "zh-Hans": "吉他：音阶调车场火花"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one safe scale shape into a timing game with accents, slides, and surprise exits.",
+        "pt-BR": "Transforme um desenho seguro de escala em um jogo de tempo com acentos, slides e saídas surpresa.",
+        "es": "Convierte una posición segura de escala en un juego de tiempo con acentos, slides y salidas sorpresa.",
+        "de": "Verwandle eine sichere Skalenform in ein Timing-Spiel mit Akzenten, Slides und Überraschungsausgängen.",
+        "ja": "安心できるスケールポジションを、アクセントとスライドと意外な出口があるタイミングゲームに変えます。",
+        "zh-Hans": "把一个安全的音阶把位练成带有重音、滑音和惊喜出口的节奏游戏。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-06-28T00:06:54Z",
+    "updatedAt": "2026-06-28T00:06:54Z"
   }
 ]

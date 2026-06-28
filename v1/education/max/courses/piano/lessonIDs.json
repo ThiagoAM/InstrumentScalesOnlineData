@@ -91,6 +91,7 @@
     "piano/scale-based-practice-routines/daily-technical-routine/piano-thumb-radar",
     "piano/scale-based-practice-routines/daily-technical-routine/piano-accent-pinball",
     "piano/scale-based-practice-routines/daily-technical-routine/piano-scale-periscope",
+    "piano/scale-based-practice-routines/daily-technical-routine/piano-scale-moonwalk-switches",
     "piano/scale-based-practice-routines/applying-scales-to-real-progressions/using-c-major-scale-over-pop-progressions",
     "piano/scale-based-practice-routines/applying-scales-to-real-progressions/combining-chord-arpeggios-with-scale-runs",
     "piano/scale-based-practice-routines/applying-scales-to-real-progressions/creating-fill-ins-between-chords",
@@ -124,5 +125,5 @@
     "piano/scale-based-practice-routines/creating-your-own-practice-plan/piano-practice-route-builder"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-06-27T00:06:36Z"
+  "updatedAt": "2026-06-28T00:06:54Z"
 }

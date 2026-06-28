@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-orbit-anchors",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Orbit Anchors. Set a drum loop or metronome to **90 BPM** and choose **D major** or **G major**. Your bass line will orbit around target notes, but the pocket must stay heavier than the trick.",
+          "pt-BR": "Bem-vindo às Âncoras de Órbita. Coloque um loop de bateria ou metrônomo em **90 BPM** e escolha **Ré maior** ou **Sol maior**. Sua linha de baixo vai orbitar notas-alvo, mas o pocket precisa pesar mais do que o truque.",
+          "es": "Bienvenido a Anclas Orbitales. Pon un loop de batería o un metrónomo en **90 BPM** y elige **Re mayor** o **Sol mayor**. Tu línea de bajo va a orbitar notas objetivo, pero el pocket debe pesar más que el truco.",
+          "de": "Willkommen bei Orbit-Ankern. Stell einen Drum-Loop oder ein Metronom auf **90 BPM** und wähle **D-Dur** oder **G-Dur**. Deine Basslinie umkreist Zieltöne, aber das Pocket muss schwerer wiegen als der Trick.",
+          "ja": "オービット・アンカーへようこそ。ドラムループかメトロノームを **90 BPM** に設定し、**Dメジャー** または **Gメジャー** を選びます。ベースラインは目標音の周りを回りますが、トリックよりもポケットの重さが勝っていなければなりません。",
+          "zh-Hans": "欢迎来到 Pocket 轨道锚点。把鼓循环或节拍器设为 **90 BPM**，选择 **D 大调** 或 **G 大调**。你的贝斯线会围着目标音转圈，但 pocket 的分量必须比花招更重。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a **2-bar loop** using only root and 5th. Make bar 1 short and dry, and bar 2 slightly longer. This is your gravity field. If the line does not already feel good here, do not add more notes yet.",
+          "pt-BR": "Comece com um **loop de 2 compassos** usando apenas tônica e quinta. Faça o compasso 1 curto e seco, e o compasso 2 um pouco mais longo. Esse é o seu campo gravitacional. Se a linha ainda não soa boa aqui, não adicione mais notas.",
+          "es": "Empieza con un **loop de 2 compases** usando solo tónica y quinta. Haz el compás 1 corto y seco, y el compás 2 un poco más largo. Ese es tu campo gravitatorio. Si la línea todavía no suena bien ahí, no añadas más notas.",
+          "de": "Starte mit einem **2-Takt-Loop**, der nur Grundton und Quinte nutzt. Halte Takt 1 kurz und trocken und Takt 2 etwas länger. Das ist dein Gravitationsfeld. Wenn die Linie hier noch nicht gut klingt, füge noch keine weiteren Töne hinzu.",
+          "ja": "まずはルートと5度だけを使った **2小節ループ** から始めます。1小節目は短くドライに、2小節目は少し長めに。この感触があなたの重力場です。ここですでに気持ちよくなければ、まだ音を増やさないでください。",
+          "zh-Hans": "先做一个只用根音和五度的 **2 小节循环**。第1小节短而干，第2小节稍微拉长一点。这就是你的重力场。如果在这里还不好听，就先别加更多音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, add one **orbit note** before a root: choose the 2nd, 3rd, or 6th from the scale and place it on the 'and' of beat 4. It should pull the listener toward the next downbeat instead of sounding like a random tourist stop.",
+          "pt-BR": "Agora acrescente uma **nota de órbita** antes de uma tônica: escolha a 2ª, 3ª ou 6ª da escala e coloque-a no 'e' do tempo 4. Ela deve puxar o ouvinte para o próximo tempo forte, não soar como uma parada aleatória de turista.",
+          "es": "Ahora añade una **nota orbital** antes de una tónica: elige la 2.ª, 3.ª o 6.ª de la escala y colócala en el 'and' del tiempo 4. Debe arrastrar al oyente hacia el siguiente pulso fuerte, no sonar como una parada turística al azar.",
+          "de": "Füge jetzt vor einem Grundton einen **Orbit-Ton** hinzu: Wähle die 2, 3 oder 6 der Skala und setze sie auf das 'und' von Zählzeit 4. Sie soll den Hörer in den nächsten Downbeat ziehen und nicht wie ein zufälliger Touristenstopp klingen.",
+          "ja": "次に、ルートの直前へ **オービット音** を1つ加えます。スケールの2度、3度、または6度を選び、4拍目の裏に置きます。それはランダムな寄り道ではなく、次の強拍へ耳を引っ張る役割でなければなりません。",
+          "zh-Hans": "接着在某个根音前加入一个 **轨道音**：从音阶里选 2 度、3 度或 6 度，放在第 4 拍的后半拍。它应该把听众拉向下一个强拍，而不是像一次随便的观光停靠。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round three adds motion control. In every second bar, use one ghost note on **beat 2e** or **beat 4a**—never both. The ghost note should feel like tire grip on the road, not a loose screw rattling in the trunk.",
+          "pt-BR": "A terceira rodada adiciona controle de movimento. Em cada segundo compasso, use uma ghost note no **2e** ou no **4a** — nunca nos dois. A ghost note deve parecer aderência do pneu no asfalto, não um parafuso solto chacoalhando no porta-malas.",
+          "es": "La tercera ronda añade control de movimiento. En cada segundo compás, usa una ghost note en **2e** o en **4a** — nunca en ambas. La ghost note debe sentirse como agarre del neumático en la carretera, no como un tornillo suelto vibrando en el maletero.",
+          "de": "Runde drei bringt Bewegungskontrolle. In jedem zweiten Takt spielst du genau eine Ghost Note auf **2e** oder **4a** — nie beides. Die Ghost Note soll sich wie Reifengrip auf der Straße anfühlen, nicht wie eine lose Schraube im Kofferraum.",
+          "ja": "第3ラウンドでは動きの制御を加えます。2小節に1回、**2e** か **4a** のどちらかにゴーストノートを1つだけ入れます。両方は使いません。ゴーストノートはトランクの中の緩んだネジではなく、路面をつかむタイヤの感触であるべきです。",
+          "zh-Hans": "第三轮加入运动控制。每隔一小节，在 **2e** 或 **4a** 放一个 ghost note——绝不能两个都放。这个 ghost note 应该像轮胎抓地，而不是后备箱里一颗松掉的螺丝。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Harmony test: loop **I - vi - IV - V** in your chosen key and pre-select one landing note per bar. Example in G: **G, B, E, F#**. Keep the orbit note, but make sure each bar still points clearly at its target.",
+          "pt-BR": "Teste harmônico: faça um loop **I - vi - IV - V** na tonalidade escolhida e selecione antes uma nota de chegada por compasso. Exemplo em Sol: **G, B, E, F#**. Mantenha a nota de órbita, mas garanta que cada compasso ainda aponte com clareza para seu alvo.",
+          "es": "Prueba armónica: haz un loop **I - vi - IV - V** en la tonalidad elegida y selecciona una nota de llegada por compás antes de tocar. Ejemplo en Sol: **G, B, E, F#**. Mantén la nota orbital, pero asegúrate de que cada compás siga apuntando claramente a su objetivo.",
+          "de": "Harmonie-Test: Lope **I - vi - IV - V** in deiner gewählten Tonart und lege pro Takt vorher einen Zielton fest. Beispiel in G: **G, B, E, F#**. Behalte den Orbit-Ton bei, aber jeder Takt muss trotzdem klar auf sein Ziel zeigen.",
+          "ja": "ハーモニーテスト：選んだキーで **I - vi - IV - V** をループし、各小節の着地点を先に決めます。Gなら例は **G, B, E, F#**。オービット音は残しつつ、各小節が自分の目標へはっきり向かっていることを確認してください。",
+          "zh-Hans": "和声测试：在所选调里循环 **I - vi - IV - V**，并提前为每小节选好一个落点音。以 G 调为例：**G、B、E、F#**。保留轨道音，但每一小节仍然要清楚地指向自己的目标。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record **8 bars** with exactly two fills, each no longer than four 8th notes. After listening back, ask one brutal question: did the groove feel more trustworthy after the fancy notes arrived? If yes, your anchors held.",
+          "pt-BR": "Desafio final: grave **8 compassos** com exatamente dois fills, cada um com no máximo quatro colcheias. Depois de ouvir, faça uma pergunta cruel: o groove pareceu mais confiável depois que as notas sofisticadas chegaram? Se sim, suas âncoras seguraram.",
+          "es": "Desafío final: graba **8 compases** con exactamente dos fills, de no más de cuatro corcheas cada uno. Al escucharlo, hazte una pregunta brutal: ¿el groove se sintió más fiable después de que llegaron las notas elegantes? Si sí, tus anclas aguantaron.",
+          "de": "Finale Challenge: Nimm **8 Takte** mit genau zwei Fills auf, jedes höchstens vier Achtelnoten lang. Frag dich danach gnadenlos: Fühlte sich der Groove vertrauenswürdiger an, nachdem die schicken Töne dazukamen? Wenn ja, haben deine Anker gehalten.",
+          "ja": "最終チャレンジ：**8小節** を録音し、フィルはちょうど2回、各フィルは8分音符4つ以内にします。聴き返したら、ひとつ厳しい質問をしてください。『飾り音が入ってから、このグルーヴはもっと信頼できるようになったか？』。はいなら、アンカーは効いています。",
+          "zh-Hans": "最终挑战：录下 **8 小节**，而且只能有两个 fill，每个 fill 不超过四个八分音符。回放后问自己一个残酷问题：花哨音进来以后，这条 groove 有没有变得更值得信赖？如果答案是有，那你的锚点就抓住了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-28T00:06:54Z",
+  "updatedAt": "2026-06-28T00:06:54Z"
+}

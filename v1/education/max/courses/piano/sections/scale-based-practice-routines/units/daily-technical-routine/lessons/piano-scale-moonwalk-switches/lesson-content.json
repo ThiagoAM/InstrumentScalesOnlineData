@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-moonwalk-switches",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Moonwalk Switches. Choose **C major**, **G major**, or **D major** and set **80 BPM**. You will play a two-octave scale, but certain notes act like trapdoors that reverse your direction without warning.",
+          "pt-BR": "Bem-vindo às Trocas Moonwalk da Escala. Escolha **Dó maior**, **Sol maior** ou **Ré maior** e ajuste para **80 BPM**. Você vai tocar uma escala de duas oitavas, mas certas notas funcionam como alçapões que invertem a direção sem aviso.",
+          "es": "Bienvenido a los Cambios Moonwalk de Escala. Elige **Do mayor**, **Sol mayor** o **Re mayor** y pon **80 BPM**. Vas a tocar una escala de dos octavas, pero ciertas notas funcionan como trampillas que invierten la dirección sin avisar.",
+          "de": "Willkommen bei den Moonwalk-Wechseln. Wähle **C-Dur**, **G-Dur** oder **D-Dur** und stelle **80 BPM** ein. Du spielst eine Zwei-Oktaven-Skala, aber bestimmte Töne wirken wie Falltüren, die deine Richtung plötzlich umkehren.",
+          "ja": "スケール・ムーンウォーク切り替えへようこそ。**Cメジャー**、**Gメジャー**、または **Dメジャー** を選び、**80 BPM** に設定します。2オクターブのスケールを弾きますが、特定の音が落とし穴になり、突然進行方向を反転させます。",
+          "zh-Hans": "欢迎来到音阶月球漫步切换。选择 **C 大调**、**G 大调** 或 **D 大调**，速度设为 **80 BPM**。你要弹一条两八度音阶，但某些音会像活板门一样，突然把你的方向翻转。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First build a safe route. Play the scale hands together, up and down, with even 8th notes. Mark four **switch notes**: scale degrees **2, 4, 5, and 7**. When you reach one, say the degree quietly so your brain starts seeing the map before your fingers panic.",
+          "pt-BR": "Primeiro monte uma rota segura. Toque a escala com as duas mãos juntas, subindo e descendo, em colcheias uniformes. Marque quatro **notas de troca**: os graus **2, 4, 5 e 7**. Quando chegar nelas, diga o grau baixinho para que o cérebro veja o mapa antes de os dedos entrarem em pânico.",
+          "es": "Primero construye una ruta segura. Toca la escala con ambas manos juntas, subiendo y bajando, con corcheas uniformes. Marca cuatro **notas de cambio**: los grados **2, 4, 5 y 7**. Cuando llegues a una, di el grado en voz baja para que tu cerebro vea el mapa antes de que los dedos entren en pánico.",
+          "de": "Baue zuerst eine sichere Route. Spiele die Skala mit beiden Händen zusammen aufwärts und abwärts in gleichmäßigen Achteln. Markiere vier **Wechseltöne**: die Skalenstufen **2, 4, 5 und 7**. Wenn du einen erreichst, sag die Stufe leise, damit dein Kopf die Karte sieht, bevor die Finger in Panik geraten.",
+          "ja": "まず安全なルートを作ります。両手同時でスケールを上り下りし、8分音符を均一に保ちます。4つの **切り替え音** を決めましょう。スケールの **2度、4度、5度、7度** です。そこに来たら小さく度数を言って、指が慌てる前に頭で地図を見えるようにします。",
+          "zh-Hans": "先建立一条安全路线。双手一起用均匀的八分音符弹完整条音阶，上行再下行。标出四个 **切换音**：音阶 **第2级、第4级、第5级和第7级**。每次到这些音时，轻声说出音级，让大脑先看到地图，别让手指先慌。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now the moonwalk begins. Ascend normally, but when you hit one chosen switch note, reverse direction for **4 notes**, then continue upward again. On the way down, do the mirror version: reverse upward for 4 notes, then return to the descent.",
+          "pt-BR": "Agora começa o moonwalk. Suba normalmente, mas quando atingir uma nota de troca escolhida, inverta a direção por **4 notas** e depois continue subindo. Na descida, faça a versão espelhada: inverta para cima por 4 notas e então volte à descida.",
+          "es": "Ahora empieza el moonwalk. Sube con normalidad, pero cuando llegues a una nota de cambio elegida, invierte la dirección durante **4 notas** y luego sigue subiendo. En la bajada, haz la versión espejo: invierte hacia arriba 4 notas y luego vuelve al descenso.",
+          "de": "Jetzt beginnt der Moonwalk. Steige normal auf, aber wenn du einen gewählten Wechseltön erreichst, kehrst du die Richtung für **4 Töne** um und gehst dann wieder weiter nach oben. Beim Abstieg spielst du die Spiegelversion: vier Töne kurz nach oben, dann zurück in den Abstieg.",
+          "ja": "ここからムーンウォーク開始です。通常どおり上行しますが、選んだ切り替え音に来たら **4音分** だけ逆方向へ進み、そのあと再び上行へ戻ります。下行では鏡のように、4音だけ上方向へ戻ってから再び下行に戻ります。",
+          "zh-Hans": "现在月球漫步开始。先正常上行，但一碰到你选定的切换音，就反向走 **4 个音**，然后再继续上行。下行时做镜像版本：短暂向上反走 4 个音，再回到下行路线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add touch control next. Give each temporary reversal a different job: one **legato**, one **staccato**, one **mezzo-forte**, and one **piano**. The restart after each switch should feel elegant, not like your hands slipped on a banana peel.",
+          "pt-BR": "Agora adicione controle de toque. Dê uma função diferente para cada reversão temporária: uma em **legato**, uma em **staccato**, uma em **mezzo-forte** e uma em **piano**. A retomada depois de cada troca deve soar elegante, não como se suas mãos tivessem escorregado numa casca de banana.",
+          "es": "Añade ahora control de toque. Dale a cada inversión temporal una tarea distinta: una en **legato**, una en **staccato**, una en **mezzo-forte** y una en **piano**. La reanudación después de cada cambio debe sentirse elegante, no como si las manos hubieran resbalado con una cáscara de plátano.",
+          "de": "Als Nächstes kommt Anschlagskontrolle dazu. Gib jeder vorübergehenden Umkehr eine andere Aufgabe: einmal **legato**, einmal **staccato**, einmal **mezzo-forte** und einmal **piano**. Der Neustart nach jedem Wechsel soll elegant wirken, nicht wie ein Ausrutscher auf einer Bananenschale.",
+          "ja": "次にタッチのコントロールを加えます。一時的な反転それぞれに別の役割を与えます。1つは **legato**、1つは **staccato**、1つは **mezzo-forte**、1つは **piano**。切り替え後の再スタートは、バナナの皮で滑ったようではなく、上品であるべきです。",
+          "zh-Hans": "接着加入触键控制。给每一次临时反向都分配不同任务：一次 **legato**、一次 **staccato**、一次 **mezzo-forte**、一次 **piano**。每次切换后的重新出发都要优雅，不能像双手踩到香蕉皮。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: keep the same switch system, but let the **left hand lead the sound** for one pass and the **right hand lead** for the next. This teaches balance instead of letting the stronger hand do all the storytelling.",
+          "pt-BR": "Rodada desafio: mantenha o mesmo sistema de trocas, mas deixe a **mão esquerda liderar o som** em uma passagem e a **mão direita liderar** na seguinte. Isso ensina equilíbrio em vez de deixar a mão mais forte contar toda a história.",
+          "es": "Ronda desafío: mantén el mismo sistema de cambios, pero deja que la **mano izquierda lidere el sonido** en una pasada y que la **mano derecha lidere** en la siguiente. Esto enseña equilibrio en lugar de dejar que la mano fuerte cuente toda la historia.",
+          "de": "Challenge-Runde: Behalte dasselbe Wechselsystem bei, aber lass in einem Durchgang die **linke Hand den Klang führen** und im nächsten die **rechte Hand**. So trainierst du Balance, statt die stärkere Hand die ganze Geschichte erzählen zu lassen.",
+          "ja": "チャレンジラウンド：同じ切り替えシステムを使いながら、1回は **左手が音をリード** し、次の1回は **右手がリード** します。これで強い手ばかりに物語を任せず、バランスを鍛えられます。",
+          "zh-Hans": "挑战回合：保持同样的切换系统，但一遍让 **左手主导声音**，下一遍让 **右手主导**。这能训练平衡，而不是总让更强的那只手包办全部叙事。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: create an **8-switch performance** with no full stop, then move it to a second key. If the listener can hear shape, contrast, and control instead of mere survival, your moonwalk is working.",
+          "pt-BR": "Missão final: crie uma **performance com 8 trocas** sem parar completamente e depois leve-a para uma segunda tonalidade. Se quem ouvir perceber forma, contraste e controle em vez de mera sobrevivência, seu moonwalk está funcionando.",
+          "es": "Misión final: crea una **actuación con 8 cambios** sin detenerte por completo y luego muévela a otra tonalidad. Si quien escucha percibe forma, contraste y control en vez de pura supervivencia, tu moonwalk está funcionando.",
+          "de": "Finale Mission: Erstelle eine **8-Wechsel-Performance** ohne kompletten Stopp und verlege sie dann in eine zweite Tonart. Wenn man Form, Kontrast und Kontrolle statt bloßem Überleben hört, funktioniert dein Moonwalk.",
+          "ja": "最終ミッション：完全停止なしで **8回切り替える演奏** を作り、そのまま別の調にも移します。聴き手に『なんとか生き残った』ではなく、形・対比・コントロールが聞こえるなら、ムーンウォークは成功です。",
+          "zh-Hans": "最终任务：做出一个 **8 次切换的完整演奏**，中间不能完全停下，然后把它搬到另一个调里。如果听的人听到的是形状、对比和控制，而不是勉强求生，你的月球漫步就成功了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-28T00:06:54Z",
+  "updatedAt": "2026-06-28T00:06:54Z"
+}

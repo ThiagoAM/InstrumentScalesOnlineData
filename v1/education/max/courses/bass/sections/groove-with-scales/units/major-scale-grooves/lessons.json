@@ -1678,5 +1678,33 @@
     "order": 60,
     "createdAt": "2026-06-27T00:06:36Z",
     "updatedAt": "2026-06-27T00:06:36Z"
+  },
+  {
+    "id": "bass-pocket-orbit-anchors",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Orbit Anchors",
+        "pt-BR": "Baixo: Âncoras de Órbita no Pocket",
+        "es": "Bajo: Anclas Orbitales del Pocket",
+        "de": "Bass: Orbit-Anker im Pocket",
+        "ja": "ベース：ポケットのオービット・アンカー",
+        "zh-Hans": "贝斯：Pocket 轨道锚点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a grounded groove that circles target notes without losing low-end authority.",
+        "pt-BR": "Construa um groove firme que orbita notas-alvo sem perder autoridade nos graves.",
+        "es": "Construye un groove firme que orbite notas objetivo sin perder autoridad en el grave.",
+        "de": "Baue einen stabilen Groove, der Zieltöne umkreist, ohne seine Tiefton-Autorität zu verlieren.",
+        "ja": "低音の安定感を失わずに、ターゲットノートの周りを回るグルーヴを作ります。",
+        "zh-Hans": "在不丢掉低频权威感的前提下，做出围绕目标音旋转的稳固 groove。"
+      }
+    },
+    "order": 61,
+    "createdAt": "2026-06-28T00:06:54Z",
+    "updatedAt": "2026-06-28T00:06:54Z"
   }
 ]

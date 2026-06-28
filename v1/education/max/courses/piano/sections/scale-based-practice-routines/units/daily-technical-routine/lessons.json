@@ -1230,5 +1230,33 @@
     "order": 44,
     "createdAt": "2026-06-23T00:10:57Z",
     "updatedAt": "2026-06-23T00:10:57Z"
+  },
+  {
+    "id": "piano-scale-moonwalk-switches",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Moonwalk Switches",
+        "pt-BR": "Piano: Trocas Moonwalk da Escala",
+        "es": "Piano: Cambios Moonwalk de Escala",
+        "de": "Piano: Moonwalk-Wechsel der Skala",
+        "ja": "ピアノ：スケール・ムーンウォーク切り替え",
+        "zh-Hans": "钢琴：音阶月球漫步切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train smooth scale control by switching direction, touch, and focus without breaking the line.",
+        "pt-BR": "Treine controle suave de escalas trocando direção, toque e foco sem quebrar a linha.",
+        "es": "Entrena un control suave de escalas cambiando dirección, toque y foco sin romper la línea.",
+        "de": "Trainiere geschmeidige Skalenkontrolle, indem du Richtung, Anschlag und Fokus wechselst, ohne die Linie zu zerbrechen.",
+        "ja": "方向、タッチ、意識の置き方を変えてもラインを切らさないスケールコントロールを鍛えます。",
+        "zh-Hans": "训练在不断线的前提下切换方向、触键和注意力的平滑音阶控制。"
+      }
+    },
+    "order": 45,
+    "createdAt": "2026-06-28T00:06:54Z",
+    "updatedAt": "2026-06-28T00:06:54Z"
   }
 ]
