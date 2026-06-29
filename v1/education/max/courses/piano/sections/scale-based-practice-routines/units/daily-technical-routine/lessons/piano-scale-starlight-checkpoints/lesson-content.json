@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-starlight-checkpoints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Tonight's piano routine is a **starlight checkpoint run**. Choose **D major** or **Bb major** and play **two octaves** at **72-92 BPM**. The goal is not to rush. The goal is to move through clear checkpoints so both hands stay balanced, awake, and musical from the first note to the last.",
+          "pt-BR": "A rotina de piano de hoje é uma **corrida por checkpoints sob luz das estrelas**. Escolha **Ré maior** ou **Sib maior** e toque **duas oitavas** entre **72-92 BPM**. O objetivo não é correr. O objetivo é atravessar checkpoints claros para que as duas mãos permaneçam equilibradas, atentas e musicais da primeira à última nota.",
+          "es": "La rutina de piano de hoy es una **carrera de checkpoints bajo luz estelar**. Elige **Re mayor** o **Sib mayor** y toca **dos octavas** a **72-92 BPM**. La meta no es correr. La meta es pasar por checkpoints claros para que ambas manos se mantengan equilibradas, despiertas y musicales desde la primera nota hasta la última.",
+          "de": "Die heutige Klavierroutine ist ein **Sternenlicht-Checkpoint-Lauf**. Wähle **D-Dur** oder **B-Dur** und spiele **zwei Oktaven** bei **72-92 BPM**. Das Ziel ist nicht, zu rasen. Das Ziel ist, klare Checkpoints zu durchlaufen, damit beide Hände vom ersten bis zum letzten Ton ausgeglichen, wach und musikalisch bleiben.",
+          "ja": "今夜のピアノ練習は **スターライト・チェックポイント走** です。**Dメジャー** か **Bbメジャー** を選び、**2オクターブ** を **72-92 BPM** で弾きましょう。急ぐことが目的ではありません。はっきりしたチェックポイントを通り抜けながら、最初の音から最後の音まで両手をバランスよく、目覚めた状態で、音楽的に保つことが目的です。",
+          "zh-Hans": "今晚的钢琴练习是一场 **星光检查点跑**。选择 **D大调** 或 **Bb大调**，以 **72-92 BPM** 弹 **两八度**。目标不是赶路，而是穿过一系列清晰的检查点，让双手从第一个音到最后一个音都保持平衡、清醒和音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "You will visit four checkpoints in every run:\n- **touch** = light but connected fingers\n- **timing** = no speeding up on thumb crossings\n- **balance** = melody hand slightly brighter\n- **release** = finish without slamming the last note\n\nPlay one slow run first and score yourself honestly before you add speed.",
+          "pt-BR": "Você vai visitar quatro checkpoints em cada volta:\n- **toque** = dedos leves, mas conectados\n- **tempo** = sem acelerar nas passagens de polegar\n- **equilíbrio** = mão da melodia ligeiramente mais brilhante\n- **soltura** = terminar sem bater na última nota\n\nToque primeiro uma volta lenta e se avalie com honestidade antes de aumentar a velocidade.",
+          "es": "Visitarás cuatro checkpoints en cada pasada:\n- **toque** = dedos ligeros pero conectados\n- **pulso** = no acelerar en los cruces del pulgar\n- **balance** = la mano de la melodía un poco más brillante\n- **salida** = terminar sin golpear la última nota\n\nHaz primero una pasada lenta y evalúate con honestidad antes de subir la velocidad.",
+          "de": "In jedem Durchgang besuchst du vier Checkpoints:\n- **Anschlag** = leichte, aber verbundene Finger\n- **Timing** = kein Beschleunigen bei Daumen-Untersätzen\n- **Balance** = die Melodiehand etwas heller\n- **Loslassen** = ohne Schlag auf den letzten Ton enden\n\nSpiele zuerst einen langsamen Durchgang und bewerte dich ehrlich, bevor du schneller wirst.",
+          "ja": "毎回の走行で4つのチェックポイントを通ります。\n- **タッチ** = 軽いけれど指がつながっている\n- **タイミング** = 親指くぐりで走らない\n- **バランス** = メロディ側の手を少し明るく\n- **抜き方** = 最後の音をたたきつけずに終える\n\nまずはゆっくり1回弾き、スピードを上げる前に正直に自己採点しましょう。",
+          "zh-Hans": "每一趟都要经过四个检查点：\n- **触键** = 手指轻，但彼此连贯\n- **节拍** = 拇指穿越时不要偷偷加速\n- **平衡** = 旋律那只手稍微更亮一点\n- **收尾** = 最后一个音不要砸下去\n\n先慢慢弹一遍，在加速之前诚实地给自己打分。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 1 is the **quiet launch**. Start at a soft dynamic and keep the tone even through the first octave. If one note jumps out, do not hide it by playing louder everywhere else. Fix the finger that caused the bump. Clean scales are built from small repairs, not brute force.",
+          "pt-BR": "O Checkpoint 1 é a **largada silenciosa**. Comece em dinâmica suave e mantenha o timbre uniforme pela primeira oitava. Se uma nota saltar demais, não esconda isso tocando tudo mais forte. Corrija o dedo que causou o solavanco. Escalas limpas nascem de pequenos consertos, não de força bruta.",
+          "es": "El Checkpoint 1 es el **despegue silencioso**. Empieza en una dinámica suave y mantén el sonido parejo durante la primera octava. Si una nota sobresale demasiado, no la escondas tocando todo más fuerte. Corrige el dedo que causó el tropiezo. Las escalas limpias se construyen con pequeños arreglos, no con fuerza bruta.",
+          "de": "Checkpoint 1 ist der **stille Start**. Beginne in leiser Dynamik und halte den Klang durch die erste Oktave gleichmäßig. Wenn ein Ton herausspringt, verstecke das nicht, indem du alles lauter spielst. Repariere den Finger, der den Stolperer verursacht hat. Saubere Skalen entstehen aus kleinen Korrekturen, nicht aus roher Kraft.",
+          "ja": "チェックポイント1は **静かな発進**。やわらかい音量で始め、最初の1オクターブを均一な音で保ちます。1音だけ飛び出したら、全体を大きくしてごまかしてはいけません。その凸凹を作った指を直しましょう。きれいな音階は力任せではなく、小さな修正の積み重ねで作られます。",
+          "zh-Hans": "检查点1叫 **安静起飞**。用柔和力度开始，并在第一个八度里保持均匀音色。如果某一个音突然跳出来，不要靠把所有音都弹大来掩盖它。去修正制造凸起的那根手指。干净的音阶靠的是小修补，不是蛮力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 2 is the **crossing bridge**. On every thumb-under or hand-cross moment, pause mentally and notice whether the wrist stayed loose. Then play again without the pause but keep the same relaxed feeling. This turns a scary technical moment into a familiar road sign.",
+          "pt-BR": "O Checkpoint 2 é a **ponte da passagem**. Em cada momento de polegar por baixo ou cruzamento de mão, faça uma pausa mental e note se o pulso continuou solto. Depois toque de novo sem a pausa, mas mantendo a mesma sensação relaxada. Isso transforma um ponto técnico assustador em uma placa de estrada conhecida.",
+          "es": "El Checkpoint 2 es el **puente de cruce**. En cada paso del pulgar por debajo o cruce de mano, haz una pausa mental y nota si la muñeca sigue suelta. Luego toca otra vez sin la pausa pero conservando la misma sensación relajada. Así conviertes un momento técnico temible en una señal de camino conocida.",
+          "de": "Checkpoint 2 ist die **Kreuzungsbrücke**. Bei jedem Daumen-Untersatz oder Handkreuzungsmoment halte innerlich kurz an und prüfe, ob das Handgelenk locker blieb. Spiele dann noch einmal ohne diese Pause, aber mit demselben entspannten Gefühl. So wird ein gefürchteter Technikmoment zu einem vertrauten Straßenschild.",
+          "ja": "チェックポイント2は **クロッシング・ブリッジ**。親指くぐりや手の交差のたびに、心の中で少し止まり、手首がゆるんだままだったか確認します。そのあと止まらずにもう一度弾き、同じ脱力感を保ちましょう。怖い技術ポイントが、見慣れた道路標識のような存在に変わります。",
+          "zh-Hans": "检查点2叫 **穿越桥**。每次拇指下穿或双手交叉时，都在心里短暂停一下，确认手腕是不是依然放松。然后再不暂停地弹一遍，但保留同样的松弛感。这样，原本吓人的技术点就会变成熟悉的路标。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: play **three runs**. Run 1 focuses on touch, run 2 on timing, run 3 on balance and release together. Afterward ask:\n- Which checkpoint broke first when you got faster?\n- Did both hands stay equally calm?\n- Did the ending sound finished instead of escaped?\n\nGreat scale practice feels less like surviving traffic and more like following bright markers across a dark sky.",
+          "pt-BR": "Desafio final: toque **três voltas**. A volta 1 foca no toque, a 2 no tempo e a 3 em equilíbrio e soltura ao mesmo tempo. Depois pergunte:\n- Qual checkpoint quebrou primeiro quando você acelerou?\n- As duas mãos continuaram igualmente calmas?\n- O final soou concluído em vez de apenas escapado?\n\nUm grande treino de escala parece menos sobreviver ao trânsito e mais seguir marcadores brilhantes no céu escuro.",
+          "es": "Desafío final: toca **tres pasadas**. La 1 se enfoca en el toque, la 2 en el pulso y la 3 en balance y salida al mismo tiempo. Después pregúntate:\n- ¿Qué checkpoint se rompió primero cuando aceleraste?\n- ¿Ambas manos siguieron igual de calmadas?\n- ¿El final sonó concluido y no simplemente escapado?\n\nUn gran estudio de escalas se parece menos a sobrevivir al tráfico y más a seguir marcas brillantes en un cielo oscuro.",
+          "de": "Abschlussaufgabe: Spiele **drei Durchgänge**. Durchgang 1 fokussiert den Anschlag, Durchgang 2 das Timing, Durchgang 3 Balance und Loslassen zusammen. Frag dich danach:\n- Welcher Checkpoint brach zuerst weg, als du schneller wurdest?\n- Blieben beide Hände gleich ruhig?\n- Klang das Ende abgeschlossen statt nur gerade so geschafft?\n\nGute Skalenpraxis fühlt sich weniger wie Verkehrsüberleben an und mehr wie das Folgen heller Markierungen am dunklen Himmel.",
+          "ja": "最後のチャレンジです。**3回** 弾きます。1回目はタッチ、2回目はタイミング、3回目はバランスと抜き方を同時に意識してください。そのあと次を確かめましょう。\n- 速くしたとき最初に壊れたのはどのチェックポイントか\n- 両手は同じくらい落ち着いていたか\n- 最後は「逃げ切った」ではなく「締めた」と聞こえたか\n\n良い音階練習は、交通を生き延びる感じではなく、暗い空の中の明るい目印をたどる感覚に近いのです。",
+          "zh-Hans": "最终挑战：弹 **3遍**。第1遍只盯触键，第2遍只盯节拍，第3遍同时关注平衡和收尾。然后问自己：\n- 一加速，最先崩掉的是哪个检查点？\n- 双手有没有一样平静？\n- 最后的结束听起来像真正收住了，而不是只是逃过去了？\n\n优秀的音阶练习不像在车流里求生，更像沿着夜空中明亮的标记稳稳前进。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-29T00:10:43Z",
+  "updatedAt": "2026-06-29T00:10:43Z"
+}

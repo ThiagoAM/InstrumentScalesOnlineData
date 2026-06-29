@@ -1706,5 +1706,33 @@
     "order": 61,
     "createdAt": "2026-06-28T00:06:54Z",
     "updatedAt": "2026-06-28T00:06:54Z"
+  },
+  {
+    "id": "bass-pocket-puzzle-box",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Puzzle Box",
+        "pt-BR": "Caixa de Enigmas do Pocket no Baixo",
+        "es": "Caja de Acertijos del Pocket en Bajo",
+        "de": "Bass-Pocket-Rätselbox",
+        "ja": "ベース・ポケットのパズルボックス",
+        "zh-Hans": "贝斯 Pocket 解谜盒"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Unlock a tighter major-scale groove by solving small rhythm puzzles with roots, ghost notes, and smart returns.",
+        "pt-BR": "Destrave um groove mais firme na escala maior resolvendo pequenos enigmas rítmicos com tônicas, ghost notes e retornos inteligentes.",
+        "es": "Desbloquea un groove más firme en escala mayor resolviendo pequeños acertijos rítmicos con tónicas, ghost notes y regresos inteligentes.",
+        "de": "Öffne einen festeren Dur-Groove, indem du kleine Rhythmus-Rätsel mit Grundtönen, Ghost Notes und klugen Rückwegen löst.",
+        "ja": "ルート、ゴーストノート、賢い戻り方を使った小さなリズム謎解きで、メジャースケールの groove をもっと強くしよう。",
+        "zh-Hans": "用根音、幽灵音和聪明回归解决小节奏谜题，解锁更紧的大调 groove。"
+      }
+    },
+    "order": 62,
+    "createdAt": "2026-06-29T00:09:18Z",
+    "updatedAt": "2026-06-29T00:09:18Z"
   }
 ]

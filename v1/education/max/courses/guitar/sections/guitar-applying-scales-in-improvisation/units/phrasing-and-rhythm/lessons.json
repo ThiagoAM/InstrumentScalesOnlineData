@@ -838,5 +838,33 @@
     "order": 30,
     "createdAt": "2026-06-22T00:08:01Z",
     "updatedAt": "2026-06-22T00:08:01Z"
+  },
+  {
+    "id": "guitar-rhythm-bounce-house",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Bounce House",
+        "pt-BR": "Casa de Pulos Rítmicos na Guitarra",
+        "es": "Casa de Rebotes Rítmicos en Guitarra",
+        "de": "Gitarren-Rhythmus-Hüpfburg",
+        "ja": "ギター・リズムのバウンスハウス",
+        "zh-Hans": "吉他节奏弹跳屋"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make minor-pentatonic phrases bounce with accents, rests, and surprise landings that still feel locked in.",
+        "pt-BR": "Faça frases pentatônicas em menor pularem com acentos, pausas e pousos surpresa que continuam firmes no groove.",
+        "es": "Haz que las frases de pentatónica menor reboten con acentos, silencios y aterrizajes sorpresa que siguen dentro del groove.",
+        "de": "Lass Moll-Pentatonik-Phrasen mit Akzenten, Pausen und überraschenden Landungen federn, ohne den Groove zu verlieren.",
+        "ja": "マイナー・ペンタトニックのフレーズを、アクセント、休符、意外な着地で跳ねさせながらグルーヴを保とう。",
+        "zh-Hans": "用重音、停顿和意外落点，让小调五声音阶乐句弹起来，同时稳稳守住 groove。"
+      }
+    },
+    "order": 31,
+    "createdAt": "2026-06-29T00:08:10Z",
+    "updatedAt": "2026-06-29T00:08:10Z"
   }
 ]

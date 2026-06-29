@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-bounce-house",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the **bounce house**. Use **A minor pentatonic** at **88-102 BPM**. Your mission is to make short phrases spring off the beat and land safely back inside the groove. If every line sounds too square, good — this lesson is here to shake that stiffness out of you.",
+          "pt-BR": "Bem-vindo à **casa de pulos**. Use a **pentatônica menor de Lá** entre **88-102 BPM**. Sua missão é fazer frases curtas saltarem para fora da batida e pousarem de volta no groove com segurança. Se tudo soa quadrado demais, ótimo — esta lição existe para sacudir essa rigidez.",
+          "es": "Bienvenido a la **casa de rebotes**. Usa la **pentatónica menor de La** a **88-102 BPM**. Tu misión es hacer que frases cortas salten fuera del pulso y vuelvan a caer dentro del groove con seguridad. Si todo suena demasiado cuadrado, perfecto: esta lección viene a sacudir esa rigidez.",
+          "de": "Willkommen in der **Hüpfburg**. Nutze die **A-Moll-Pentatonik** bei **88-102 BPM**. Deine Aufgabe ist es, kurze Phrasen vom Beat abspringen zu lassen und sicher wieder im Groove landen zu lassen. Wenn alles zu brav und eckig klingt, umso besser — genau das soll diese Lektion aufbrechen.",
+          "ja": "**バウンスハウス**へようこそ。使うのは **Aマイナー・ペンタトニック**、テンポは **88-102 BPM**。短いフレーズを拍の外へ跳ねさせて、また安全にグルーヴへ着地させるのが今日の任務です。もし全部が四角く聞こえるなら大丈夫。このレッスンはその硬さをほぐすためにあります。",
+          "zh-Hans": "欢迎来到 **节奏弹跳屋**。使用 **A 小调五声音阶**，速度放在 **88-102 BPM**。你的任务是让短句从拍点边缘弹出去，再安全落回 groove 里。如果你现在的句子听起来太方正，那正好——这节课就是来把那股僵硬抖掉的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set three rules before you play:\n- every phrase must be **4 to 6 notes** long\n- every phrase needs **one rest** somewhere inside it\n- every ending must land on **A, C, or E**\n\nStay in one fretboard area for the first round so the real challenge becomes rhythm, not hunting for notes.",
+          "pt-BR": "Defina três regras antes de tocar:\n- cada frase deve ter **4 a 6 notas**\n- cada frase precisa de **uma pausa** em algum ponto\n- cada final deve cair em **A, C ou E**\n\nFique em uma mesma região do braço na primeira rodada para que o desafio seja ritmo, não caça às notas.",
+          "es": "Fija tres reglas antes de tocar:\n- cada frase debe tener **4 a 6 notas**\n- cada frase necesita **un silencio** en algún punto\n- cada final debe caer en **A, C o E**\n\nQuédate en una sola zona del diapasón en la primera ronda para que el reto sea el ritmo y no la búsqueda de notas.",
+          "de": "Setze dir vor dem Spielen drei Regeln:\n- jede Phrase hat **4 bis 6 Töne**\n- jede Phrase braucht **eine Pause**\n- jedes Ende landet auf **A, C oder E**\n\nBleib in der ersten Runde in nur einer Griffbrett-Position, damit Rhythmus die Herausforderung ist und nicht die Notensuche.",
+          "ja": "弾き始める前に3つのルールを決めましょう。\n- 1つのフレーズは **4〜6音**\n- すべてのフレーズに **1回の休符** を入れる\n- 終わりは必ず **A、C、E** のどれかに着地する\n\n最初のラウンドでは同じポジションにとどまり、音探しではなくリズムそのものを課題にします。",
+          "zh-Hans": "开始前先定下三条规则：\n- 每个乐句只能有 **4 到 6 个音**\n- 每个乐句里都要有 **一次停顿**\n- 每次结尾都要落在 **A、C 或 E** 上\n\n第一轮请待在同一个把位里，让真正的挑战变成节奏，而不是找音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **bounce test**. Start each phrase on an **and** of the beat instead of beat 1. Play the phrase, leave space, then answer it with a slightly different rhythm. Keep the notes simple. The point is to feel how an offbeat launch changes the attitude of the same scale.",
+          "pt-BR": "A Rodada 1 é o **teste do pulo**. Comece cada frase no **contratempo** em vez do tempo 1. Toque a frase, deixe espaço e responda com um ritmo ligeiramente diferente. Mantenha as notas simples. A ideia é sentir como uma saída fora do tempo forte muda a atitude da mesma escala.",
+          "es": "La Ronda 1 es la **prueba de rebote**. Empieza cada frase en un **contratiempo** en vez del tiempo 1. Toca la frase, deja espacio y respóndela con un ritmo un poco distinto. Mantén las notas simples. La idea es sentir cómo un arranque fuera del pulso fuerte cambia la actitud de la misma escala.",
+          "de": "Runde 1 ist der **Hüpf-Test**. Starte jede Phrase auf einem **Offbeat** statt auf Schlag 1. Spiele die Phrase, lass Raum und antworte mit einem leicht veränderten Rhythmus. Halte die Töne simpel. Der Punkt ist zu spüren, wie ein Start neben dem starken Beat die Wirkung derselben Skala verändert.",
+          "ja": "ラウンド1は **バウンステスト**。すべてのフレーズを1拍目ではなく **裏拍** から始めます。フレーズを弾き、少し空間を置き、少しだけ違うリズムで答えましょう。音はシンプルで構いません。同じスケールでも、拍の外から入るだけでキャラクターが変わることを感じるのが目的です。",
+          "zh-Hans": "第一轮叫 **弹跳测试**。每个乐句都不要从第1拍开始，而是从 **反拍** 出发。弹完一句，留出空间，再用稍微不同的节奏回答它。音可以很简单。重点是感受：同样的音阶，只要从强拍外起跳，性格就会立刻改变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **high-wall round**. On every second phrase, jump to a higher string for the last 1 or 2 notes, then drop back down on the next answer. This teaches your ear to hear direction, not just finger shapes. If the jump sounds messy, slow down and make the landing cleaner instead of adding more notes.",
+          "pt-BR": "A Rodada 2 é a **rodada do muro alto**. Em cada segunda frase, pule para uma corda mais aguda nas últimas **1 ou 2 notas** e depois desça na resposta seguinte. Isso ensina seu ouvido a perceber direção, não só desenho de dedo. Se o salto soar bagunçado, desacelere e limpe o pouso em vez de acrescentar mais notas.",
+          "es": "La Ronda 2 es la **ronda del muro alto**. En cada segunda frase, salta a una cuerda más aguda en las últimas **1 o 2 notas** y vuelve abajo en la respuesta siguiente. Eso enseña a tu oído a escuchar dirección y no solo dibujos de dedos. Si el salto suena desordenado, baja el tempo y limpia el aterrizaje en lugar de añadir más notas.",
+          "de": "Runde 2 ist die **hohe-Mauer-Runde**. Springe in jeder zweiten Phrase für die letzten **1 oder 2 Töne** auf eine höhere Saite und geh in der nächsten Antwort wieder nach unten. So lernt dein Ohr, Richtung statt nur Griffbilder zu hören. Wenn der Sprung chaotisch klingt, werde langsamer und säubere die Landung, statt mehr Töne hineinzupacken.",
+          "ja": "ラウンド2は **高い壁ラウンド**。2つ目ごとのフレーズで、最後の **1〜2音** を高い弦へジャンプさせ、次の返答でまた下へ戻ります。これで耳は指板の形だけでなく、音の進む方向を聞けるようになります。ジャンプが雑に聞こえるなら、音数を増やす前にテンポを落として着地をきれいにしましょう。",
+          "zh-Hans": "第二轮叫 **高墙回合**。每隔一个乐句，就在最后 **1到2个音** 跳到更高的弦上，然后在下一句回答里再落回来。这会训练你的耳朵去听方向，而不只是手型。如果这个跳跃听起来乱，就先放慢，把落点弹干净，而不是继续加音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record **4 bars** where bar 1 is calm, bar 2 is busier, bar 3 uses more silence, and bar 4 ends with your strongest landing. Then ask:\n- Did the rests make the phrases punchier?\n- Did the offbeat starts sound intentional?\n- Did your last notes feel earned?\n\nA great solo is not a note flood. It is a controlled series of bounces that keeps the listener guessing and smiling.",
+          "pt-BR": "Desafio final: grave **4 compassos** em que o compasso 1 é calmo, o 2 é mais cheio, o 3 usa mais silêncio e o 4 termina com seu pouso mais forte. Depois pergunte:\n- As pausas deixaram as frases mais marcantes?\n- As saídas no contratempo soaram intencionais?\n- As últimas notas pareceram merecidas?\n\nUm grande solo não é uma enchente de notas. É uma sequência controlada de pulos que mantém o ouvinte curioso e sorrindo.",
+          "es": "Desafío final: graba **4 compases** donde el compás 1 sea tranquilo, el 2 más cargado, el 3 use más silencio y el 4 termine con tu aterrizaje más fuerte. Luego pregúntate:\n- ¿Los silencios hicieron las frases más potentes?\n- ¿Los comienzos a contratiempo sonaron intencionales?\n- ¿Las últimas notas se sintieron ganadas?\n\nUn gran solo no es una inundación de notas. Es una serie controlada de rebotes que mantiene al oyente curioso y sonriendo.",
+          "de": "Finale Aufgabe: Nimm **4 Takte** auf, in denen Takt 1 ruhig ist, Takt 2 geschäftiger, Takt 3 mehr Stille nutzt und Takt 4 mit deiner stärksten Landung endet. Frag dich dann:\n- Haben die Pausen die Phrasen knackiger gemacht?\n- Klang der Offbeat-Start absichtlich?\n- Fühlten sich die letzten Töne verdient an?\n\nEin gutes Solo ist keine Notenflut. Es ist eine kontrollierte Reihe von Sprüngen, die den Zuhörer neugierig und gut gelaunt hält.",
+          "ja": "最後の挑戦です。**4小節** 録音して、1小節目は落ち着いて、2小節目は少し忙しく、3小節目はより多くの沈黙を使い、4小節目は一番強い着地で終えてください。そのあと次を確認しましょう。\n- 休符でフレーズのパンチは増えたか\n- 裏拍スタートは意図的に聞こえたか\n- 最後の音はちゃんと勝ち取った感じがしたか\n\n良いソロは音の洪水ではありません。聴き手を笑顔のまま予想させ続ける、コントロールされた跳ね返りの連続です。",
+          "zh-Hans": "最终挑战：录下 **4小节**。第1小节平静，第2小节更忙，第3小节用更多空白，第4小节以你最有力的落点结束。然后问自己：\n- 停顿有没有让乐句更有冲击力？\n- 反拍起句听起来像是故意设计的吗？\n- 最后的落点有没有“赢回来”的感觉？\n\n优秀的独奏不是音符洪水，而是一连串受控的弹跳，让听的人一边猜、一边笑。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-29T00:08:10Z",
+  "updatedAt": "2026-06-29T00:08:10Z"
+}

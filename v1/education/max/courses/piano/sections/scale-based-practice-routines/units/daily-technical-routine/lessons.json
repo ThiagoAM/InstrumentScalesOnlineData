@@ -1258,5 +1258,33 @@
     "order": 45,
     "createdAt": "2026-06-28T00:06:54Z",
     "updatedAt": "2026-06-28T00:06:54Z"
+  },
+  {
+    "id": "piano-scale-starlight-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Starlight Checkpoints",
+        "pt-BR": "Checkpoints de Luz das Estrelas no Piano",
+        "es": "Checkpoints de Luz Estelar para Piano",
+        "de": "Sternenlicht-Checkpoints für Klavierskalen",
+        "ja": "ピアノ・スケールのスターライト・チェックポイント",
+        "zh-Hans": "钢琴音阶星光检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Guide two-octave scales through touch, rhythm, and balance checkpoints until both hands sound clear and calm.",
+        "pt-BR": "Guie escalas de duas oitavas por checkpoints de toque, ritmo e equilíbrio até as duas mãos soarem claras e calmas.",
+        "es": "Guía escalas de dos octavas por checkpoints de toque, ritmo y balance hasta que ambas manos suenen claras y tranquilas.",
+        "de": "Führe Zwei-Oktaven-Skalen durch Checkpoints für Anschlag, Rhythmus und Balance, bis beide Hände klar und ruhig klingen.",
+        "ja": "2オクターブの音階を、タッチ、リズム、バランスのチェックポイントで導き、両手を澄んで落ち着いた音に整えよう。",
+        "zh-Hans": "让两八度音阶穿过触键、节奏与平衡检查点，直到双手都清晰、平静而稳定。"
+      }
+    },
+    "order": 46,
+    "createdAt": "2026-06-29T00:10:43Z",
+    "updatedAt": "2026-06-29T00:10:43Z"
   }
 ]
