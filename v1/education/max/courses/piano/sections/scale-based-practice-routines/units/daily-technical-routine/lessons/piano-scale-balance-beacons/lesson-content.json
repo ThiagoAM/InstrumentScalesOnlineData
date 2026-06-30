@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-balance-beacons",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **D major** first and set the metronome to **72-88 BPM**. Imagine four glowing **beacons** placed along your scale route: start, crossing, top, and return. Your mission is to pass every beacon with balanced hands, even tone, and zero panic. This is daily scale work, but it should feel organized instead of automatic.",
+          "pt-BR": "Escolha **Ré maior** primeiro e coloque o metrônomo entre **72-88 BPM**. Imagine quatro **balizas** brilhando ao longo da rota da sua escala: começo, passagem, topo e volta. Sua missão é passar por cada baliza com mãos equilibradas, som uniforme e zero pânico. É treino diário de escala, mas ele deve parecer organizado, não automático.",
+          "es": "Elige **Re mayor** primero y pon el metrónomo en **72-88 BPM**. Imagina cuatro **balizas** brillando a lo largo de la ruta de tu escala: inicio, cruce, cima y regreso. Tu misión es pasar cada baliza con manos equilibradas, sonido parejo y cero pánico. Es trabajo diario de escala, pero debería sentirse organizado y no automático.",
+          "de": "Wähle zuerst **D-Dur** und stelle das Metronom auf **72-88 BPM**. Stell dir vier leuchtende **Baken** entlang deiner Tonleiterroute vor: Start, Übergang, Gipfel und Rückweg. Deine Aufgabe ist es, jede Bake mit ausgeglichenen Händen, gleichmäßigem Ton und ohne Panik zu passieren. Das ist tägliche Tonleiterarbeit, aber sie soll organisiert und nicht automatisch wirken.",
+          "ja": "まずは **Dメジャー** を選び、メトロノームを **72-88 BPM** に設定しましょう。音階の道の上に、スタート、指くぐり、頂上、戻り道という4つの光る **ビーコン** があると想像してください。両手のバランス、均一な音、そしてゼロの焦りで、すべてのビーコンを通過するのが今日のミッションです。毎日のスケール練習ですが、流れ作業ではなく整理された時間にしたいのです。",
+          "zh-Hans": "先选 **D大调**，把节拍器设在 **72-88 BPM**。想象你的音阶路线旁边亮着四个 **航标**：起点、穿指、顶点和返回。今天的任务，是让你带着双手平衡、音色均匀、毫不慌乱地通过每一个航标。这依然是日常音阶练习，但它应该是有组织的，而不是机械自动的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Beacon 1 is the **launch point**. Play one clean two-octave run hands together at a moderate dynamic. Listen for three things immediately:\n- do both hands begin exactly together?\n- is the first thumb relaxed?\n- does the tone stay round instead of pokey?\n\nIf the start feels messy, do not race ahead. Fix the launch.",
+          "pt-BR": "A baliza 1 é o **ponto de largada**. Toque uma escala limpa de duas oitavas com as mãos juntas em dinâmica moderada. Ouça três coisas logo de cara:\n- as duas mãos começam exatamente juntas?\n- o primeiro polegar está relaxado?\n- o som continua redondo em vez de pontudo?\n\nSe a saída estiver bagunçada, não acelere. Conserte a largada.",
+          "es": "La baliza 1 es el **punto de salida**. Toca una escala limpia de dos octavas con ambas manos juntas a una dinámica media. Escucha tres cosas de inmediato:\n- ¿empiezan las dos manos exactamente juntas?\n- ¿está relajado el primer pulgar?\n- ¿el sonido se mantiene redondo y no puntiagudo?\n\nSi la salida está desordenada, no sigas corriendo. Arregla la salida.",
+          "de": "Bake 1 ist der **Startpunkt**. Spiele einen sauberen Zwei-Oktaven-Lauf mit beiden Händen zusammen in mittlerer Dynamik. Höre sofort auf drei Dinge:\n- beginnen beide Hände exakt zusammen?\n- ist der erste Daumen locker?\n- bleibt der Ton rund statt spitz?\n\nWenn der Start unordentlich ist, renne nicht weiter. Repariere den Start.",
+          "ja": "ビーコン1は**発進ポイント**です。2オクターブのスケールを、両手そろえて中くらいの音量で1回きれいに弾きます。すぐに次の3点を確認しましょう。\n- 両手はまったく同時に始まったか\n- 最初の親指は力んでいないか\n- 音色は尖らず丸く保てているか\n\nスタートが乱れていたら、そのまま先へ急がないでください。まず発進を直します。",
+          "zh-Hans": "航标1是**起飞点**。双手一起，用中等力度弹一遍干净的两八度音阶。马上检查三件事：\n- 两只手是不是完全同时开始？\n- 第一个拇指是不是放松的？\n- 音色是不是圆润而不是尖硬？\n\n如果起步就乱了，不要急着往前冲。先修好起飞。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Beacon 2 is the **crossing bridge**. Loop only the thumb-crossing area in both hands for one minute. In D major, stay alert around **F#-G** and **C#-D**. The goal is not louder crossing. The goal is invisible crossing. If the line bumps, slow down until the bridge disappears.",
+          "pt-BR": "A baliza 2 é a **ponte da passagem**. Faça um loop só na região da passagem do polegar nas duas mãos por um minuto. Em Ré maior, fique atento perto de **F#-G** e **C#-D**. O objetivo não é uma passagem mais forte. O objetivo é uma passagem invisível. Se a linha tropeçar, diminua até a ponte desaparecer.",
+          "es": "La baliza 2 es el **puente del cruce**. Haz un bucle solo en la zona del cruce del pulgar en ambas manos durante un minuto. En Re mayor, presta atención alrededor de **F#-G** y **C#-D**. El objetivo no es un cruce más fuerte. El objetivo es un cruce invisible. Si la línea tropieza, baja la velocidad hasta que el puente desaparezca.",
+          "de": "Bake 2 ist die **Übergangsbrücke**. Schleife eine Minute lang nur den Daumenübergang in beiden Händen. In D-Dur solltest du besonders um **F#-G** und **C#-D** aufmerksam bleiben. Das Ziel ist kein stärkerer Übergang. Das Ziel ist ein unsichtbarer Übergang. Wenn die Linie holpert, werde langsamer, bis die Brücke verschwindet.",
+          "ja": "ビーコン2は**指くぐりの橋**です。両手の親指のくぐり部分だけを1分間ループします。Dメジャーでは **F#-G** と **C#-D** 周辺を特に意識しましょう。目標は「強いくぐり」ではなく、「見えないくぐり」です。線がガタつくなら、橋が消えるまでテンポを下げてください。",
+          "zh-Hans": "航标2是**穿指桥**。把双手的拇指穿指区域单独循环一分钟。在 D 大调里，特别留意 **F#-G** 和 **C#-D** 附近。目标不是“更响的穿指”，而是“看不见的穿指”。如果线条有磕碰，就减速，直到这座桥几乎消失。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Beacon 3 is the **summit note**. Reach the top of the scale, hold it for one beat, and check whether your shoulders, wrists, and jaw are still calm. Then descend with a slightly softer tone than you used on the way up. A strong top note should feel prepared, not attacked.",
+          "pt-BR": "A baliza 3 é a **nota do topo**. Chegue ao topo da escala, segure a nota por um tempo e veja se ombros, punhos e mandíbula continuam calmos. Depois desça com um timbre um pouco mais suave do que na subida. Uma nota alta forte deve soar preparada, não atacada.",
+          "es": "La baliza 3 es la **nota de la cima**. Llega a la parte más alta de la escala, sostén esa nota un pulso y comprueba si hombros, muñecas y mandíbula siguen tranquilos. Luego baja con un sonido un poco más suave que en la subida. Una nota aguda fuerte debe sentirse preparada, no atacada.",
+          "de": "Bake 3 ist der **Gipfelton**. Erreiche den höchsten Ton der Skala, halte ihn einen Schlag lang und prüfe, ob Schultern, Handgelenke und Kiefer ruhig geblieben sind. Steige dann mit etwas weicherem Ton wieder hinab. Ein starker Gipfelton sollte vorbereitet wirken, nicht angegriffen.",
+          "ja": "ビーコン3は**頂上の音**です。音階のいちばん上に着いたら、その音を1拍伸ばして、肩、手首、あごがまだ落ち着いているか確認します。そのあと、上がるときより少し柔らかい音で下りましょう。強い頂上音は、叩いた音ではなく、準備された音であるべきです。",
+          "zh-Hans": "航标3是**顶点音**。到达音阶最高音后，把它保持一拍，检查肩膀、手腕和下巴是否仍然平静。然后以下行时比上行稍微柔和一点的音色返回。一个强的顶点音应该像准备好的到达，而不是突然的攻击。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Beacon 4 is the **return line**. Play **four full runs**:\n1. even tone\n2. light right-hand lead\n3. light left-hand lead\n4. one musical crescendo up and release down\n\nAfter the fourth run, ask:\n- Which hand tried to take over?\n- Where did tension sneak in?\n- Did my dynamic plan survive the finger crossings?\n\nWhen these beacons stay clear in D major, move the same route to **B minor**. Clean balance is one of the fastest ways to make scales sound like real piano playing. 🎹",
+          "pt-BR": "A baliza 4 é a **linha de retorno**. Toque **quatro voltas completas**:\n1. timbre uniforme\n2. leve liderança da mão direita\n3. leve liderança da mão esquerda\n4. um crescendo musical na subida e relaxamento na descida\n\nDepois da quarta volta, pergunte:\n- Qual mão tentou dominar?\n- Onde a tensão apareceu escondida?\n- Meu plano de dinâmica sobreviveu às passagens de dedo?\n\nQuando essas balizas ficarem claras em Ré maior, leve a mesma rota para **Si menor**. Equilíbrio limpo é uma das formas mais rápidas de fazer escala soar como piano de verdade. 🎹",
+          "es": "La baliza 4 es la **línea de regreso**. Toca **cuatro recorridos completos**:\n1. sonido uniforme\n2. ligera guía de la mano derecha\n3. ligera guía de la mano izquierda\n4. un crescendo musical al subir y relajación al bajar\n\nDespués del cuarto recorrido, pregúntate:\n- ¿Qué mano intentó dominar?\n- ¿Dónde apareció la tensión?\n- ¿Mi plan dinámico sobrevivió a los cruces de dedos?\n\nCuando estas balizas estén claras en Re mayor, mueve la misma ruta a **Si menor**. Un equilibrio limpio es una de las formas más rápidas de hacer que las escalas suenen a verdadero piano. 🎹",
+          "de": "Bake 4 ist die **Rücklinie**. Spiele **vier vollständige Durchgänge**:\n1. gleichmäßiger Ton\n2. leichte Führung der rechten Hand\n3. leichte Führung der linken Hand\n4. ein musikalisches Crescendo nach oben und Lockerlassen nach unten\n\nFrage dich nach dem vierten Durchgang:\n- Welche Hand wollte die Kontrolle übernehmen?\n- Wo schlich sich Spannung ein?\n- Hat mein Dynamikplan die Fingerübergänge überlebt?\n\nWenn diese Baken in D-Dur klar bleiben, übertrage dieselbe Route auf **H-Moll**. Saubere Balance ist einer der schnellsten Wege, Tonleitern nach echtem Klavierspiel klingen zu lassen. 🎹",
+          "ja": "ビーコン4は**帰りのライン**です。**4回のフルラン** を行います。\n1. 音色を均一に\n2. 右手を少し前に\n3. 左手を少し前に\n4. 上りで音楽的にクレッシェンドし、下りで力を抜く\n\n4回目のあとに自分へ問いかけます。\n- どちらの手が主導権を奪おうとしたか\n- どこで力みが忍び込んだか\n- ダイナミクスの計画は指くぐりを越えても保てたか\n\nDメジャーでこのビーコンがはっきりしてきたら、同じルートを **Bマイナー** に移してください。きれいなバランスは、音階を本当のピアノ演奏のように聞かせる最短ルートのひとつです。🎹",
+          "zh-Hans": "航标4是**返航线**。完整弹 **4遍**：\n1. 音色均匀\n2. 右手轻微领奏\n3. 左手轻微领奏\n4. 上行做一个有音乐感的渐强，下行放松回落\n\n第4遍结束后，问自己：\n- 哪只手想抢主导？\n- 张力是从哪里偷偷进来的？\n- 我的力度计划是否在穿指时还活着？\n\n当这些航标在 D 大调里都清楚了，再把同样路线移到 **B小调**。干净的平衡，是让音阶真正听起来像钢琴音乐最快的方法之一。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-30T00:05:51Z",
+  "updatedAt": "2026-06-30T00:05:51Z"
+}

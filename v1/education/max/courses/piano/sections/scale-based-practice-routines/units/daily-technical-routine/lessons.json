@@ -1286,5 +1286,33 @@
     "order": 46,
     "createdAt": "2026-06-29T00:10:43Z",
     "updatedAt": "2026-06-29T00:10:43Z"
+  },
+  {
+    "id": "piano-scale-balance-beacons",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Balance Beacons",
+        "pt-BR": "Balizas de Equilíbrio da Escala",
+        "es": "Balizas de Equilibrio de la Escala",
+        "de": "Balance-Baken für Tonleitern",
+        "ja": "スケール・バランス・ビーコン",
+        "zh-Hans": "音阶平衡航标"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use clear piano checkpoints to keep both hands balanced, relaxed, and musical through daily scales.",
+        "pt-BR": "Use checkpoints claros no piano para manter as duas mãos equilibradas, relaxadas e musicais nas escalas diárias.",
+        "es": "Usa checkpoints claros en el piano para mantener ambas manos equilibradas, relajadas y musicales en las escalas diarias.",
+        "de": "Nutze klare Klavier-Checkpoints, damit beide Hände in der täglichen Tonleiterarbeit ausgeglichen, locker und musikalisch bleiben.",
+        "ja": "毎日の音階練習で両手のバランス、脱力、音楽性を保つための明確なチェックポイントを作る。",
+        "zh-Hans": "用清晰的钢琴检查点，让双手在日常音阶里保持平衡、放松和音乐性。"
+      }
+    },
+    "order": 47,
+    "createdAt": "2026-06-30T00:05:51Z",
+    "updatedAt": "2026-06-30T00:05:51Z"
   }
 ]

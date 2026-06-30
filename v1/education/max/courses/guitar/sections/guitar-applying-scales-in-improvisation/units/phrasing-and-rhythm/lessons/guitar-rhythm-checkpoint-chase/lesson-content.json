@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-checkpoint-chase",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use **A Dorian** at **84-96 BPM** and stay inside one fretboard area you know well. Today you are not trying to play more notes. You are trying to clear **checkpoints** without losing the groove. Every checkpoint is a short phrase that must sound intentional, singable, and rhythmically sharp.",
+          "pt-BR": "Use **Lá dórico** em **84-96 BPM** e fique em uma região do braço que você conhece bem. Hoje você não está tentando tocar mais notas. Você está tentando passar por **checkpoints** sem perder o groove. Cada checkpoint é uma frase curta que deve soar intencional, cantável e ritmicamente firme.",
+          "es": "Usa **La dórico** a **84-96 BPM** y quédate en una zona del diapasón que conozcas bien. Hoy no intentas tocar más notas. Intentas superar **puntos de control** sin perder el groove. Cada checkpoint es una frase corta que debe sonar intencional, cantable y rítmicamente firme.",
+          "de": "Nutze **A-Dorisch** bei **84-96 BPM** und bleibe in einer Griffbrett-Position, die du gut kennst. Heute geht es nicht darum, mehr Töne zu spielen. Du willst **Checkpoints** schaffen, ohne den Groove zu verlieren. Jeder Checkpoint ist eine kurze Phrase, die bewusst, singbar und rhythmisch klar klingen muss.",
+          "ja": "**Aドリアン**を **84-96 BPM** で使い、よく知っている指板の1ポジションにとどまりましょう。今日は音数を増やす日ではありません。**チェックポイント**を通過しながらグルーヴを失わないことが目標です。各チェックポイントは、意図があり、歌えて、リズムがはっきりした短いフレーズである必要があります。",
+          "zh-Hans": "使用 **A多利亚**，速度设为 **84-96 BPM**，并待在你最熟悉的一个把位里。今天不是比谁音更多，而是要在不丢 groove 的前提下闯过这些**检查点**。每个检查点都要求你弹出一条短小、明确、能唱出来、而且节奏清楚的乐句。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 1 is the **entry gate**. Create a 2-bar phrase that starts on **beat 1**, **the & of 1**, and **beat 2** on three separate reps. Keep the notes simple, but make the entrance feel confident each time. If one entry sounds weak, repeat only that version until it stops sounding accidental.",
+          "pt-BR": "O checkpoint 1 é o **portão de entrada**. Crie uma frase de 2 compassos que comece no **tempo 1**, no **& do 1** e no **tempo 2** em três tentativas separadas. Mantenha as notas simples, mas faça cada entrada soar confiante. Se uma entrada soar fraca, repita só essa versão até ela parar de soar acidental.",
+          "es": "El checkpoint 1 es la **puerta de entrada**. Crea una frase de 2 compases que empiece en el **tiempo 1**, en el **& de 1** y en el **tiempo 2** en tres repeticiones distintas. Mantén las notas simples, pero haz que cada entrada suene segura. Si una entrada suena débil, repite solo esa versión hasta que deje de sonar accidental.",
+          "de": "Checkpoint 1 ist das **Eingangstor**. Baue eine 2-taktige Phrase, die in drei getrennten Durchgängen auf **Zählzeit 1**, auf dem **& von 1** und auf **Zählzeit 2** beginnt. Halte die Töne einfach, aber lass jeden Einstieg sicher wirken. Wenn ein Einstieg schwach klingt, wiederhole nur diese Version, bis sie nicht mehr zufällig wirkt.",
+          "ja": "チェックポイント1は**入口ゲート**です。2小節のフレーズを作り、別々の3回で開始位置を **1拍目**、**1拍目の裏**、**2拍目** にしてください。音はシンプルで構いませんが、毎回の入りは自信を持って聞こえるようにします。弱く聞こえる入りがあれば、偶然っぽくなくなるまでその形だけを繰り返しましょう。",
+          "zh-Hans": "检查点1是**入场闸门**。做一条2小节乐句，并在三次不同尝试里分别从 **第1拍**、**1拍后的&**、**第2拍** 开始。音可以简单，但每次起句都要听起来有把握。如果某种起句显得虚弱，就只重复它，直到不再像误打误撞。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 2 is the **accent turn**. Keep the same notes for three reps, but move the main accent each time:\n- first on beat 2\n- then on the & of 2\n- then on beat 4\n\nThis teaches your hands that phrasing shape can change even when the pitch map stays the same.",
+          "pt-BR": "O checkpoint 2 é a **curva de acento**. Mantenha as mesmas notas por três tentativas, mas mova o acento principal cada vez:\n- primeiro no tempo 2\n- depois no & do 2\n- depois no tempo 4\n\nIsso ensina suas mãos que o desenho da frase pode mudar mesmo quando o mapa de notas continua igual.",
+          "es": "El checkpoint 2 es la **curva de acento**. Mantén las mismas notas durante tres repeticiones, pero mueve el acento principal cada vez:\n- primero en el tiempo 2\n- luego en el & de 2\n- después en el tiempo 4\n\nEsto enseña a tus manos que la forma de la frase puede cambiar aunque el mapa de notas siga igual.",
+          "de": "Checkpoint 2 ist die **Akzentkurve**. Behalte dieselben Töne für drei Durchgänge, verschiebe aber jedes Mal den Hauptakzent:\n- zuerst auf Zählzeit 2\n- dann auf das & von 2\n- dann auf Zählzeit 4\n\nSo lernen deine Hände, dass sich die Form einer Phrase ändern kann, obwohl die Tonkarte gleich bleibt.",
+          "ja": "チェックポイント2は**アクセントのカーブ**です。同じ音並びを3回使いながら、主役のアクセントだけを毎回動かします。\n- まずは2拍目\n- 次は2拍目の裏\n- その次は4拍目\n\nこれで、音の地図が同じでもフレーズの形は変えられると手に教えられます。",
+          "zh-Hans": "检查点2是**重音转弯**。连续三次使用同样的音高材料，但每次都改变主重音的位置：\n- 先放在第2拍\n- 再放在第2拍后的&\n- 然后放在第4拍\n\n这会让你的手明白：就算音高地图不变，乐句形状也能改变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 3 is the **landing zone**. End every phrase on **A, C, or E**, but never use the same landing twice in a row. Add one short rest before the final note on at least two reps. A great landing should feel earned, not merely convenient.",
+          "pt-BR": "O checkpoint 3 é a **zona de pouso**. Termine cada frase em **A, C ou E**, mas nunca use a mesma chegada duas vezes seguidas. Coloque uma pausa curta antes da nota final em pelo menos duas tentativas. Uma grande chegada deve soar conquistada, não apenas conveniente.",
+          "es": "El checkpoint 3 es la **zona de aterrizaje**. Termina cada frase en **A, C o E**, pero nunca uses el mismo aterrizaje dos veces seguidas. Añade un silencio corto antes de la nota final en al menos dos repeticiones. Un buen aterrizaje debe sentirse ganado, no simplemente cómodo.",
+          "de": "Checkpoint 3 ist die **Landezone**. Beende jede Phrase auf **A, C oder E**, aber nie zweimal hintereinander auf demselben Ton. Setze in mindestens zwei Durchgängen eine kurze Pause vor den letzten Ton. Eine starke Landung sollte verdient wirken, nicht bloß bequem.",
+          "ja": "チェックポイント3は**着地ゾーン**です。各フレーズを **A、C、E** のどれかで終えますが、同じ着地を2回連続では使いません。少なくとも2回は最後の音の前に短い休符を入れてください。良い着地は、たまたま便利だったのではなく、ちゃんと選んだように聞こえるべきです。",
+          "zh-Hans": "检查点3是**着陆区**。每条乐句都落在 **A、C 或 E** 上，但不能连续两次落在同一个音。至少有两次，要在最后一个音之前加一个短暂停顿。好的落点应该像“赢来的选择”，而不是“顺手停下”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final chase: improvise **six 2-bar phrases** that pass all three checkpoints — confident entry, clear accent choice, and strong landing. Record one round if possible, then ask yourself:\n- Which entry felt most natural?\n- Which accent created the best surprise?\n- Did my final notes sound like decisions or escape plans?\n\nRun the same game in **E minor pentatonic** afterward. If the structure still works, your rhythm control is getting real. 🎸",
+          "pt-BR": "Caçada final: improvise **seis frases de 2 compassos** que passem pelos três checkpoints — entrada confiante, escolha clara de acento e chegada forte. Grave uma rodada se puder e depois pergunte:\n- Qual entrada pareceu mais natural?\n- Qual acento criou a melhor surpresa?\n- Minhas notas finais soaram como decisões ou como fuga?\n\nDepois leve o mesmo jogo para a **pentatônica menor de Mi**. Se a estrutura continuar funcionando, seu controle rítmico está ficando de verdade. 🎸",
+          "es": "Caza final: improvisa **seis frases de 2 compases** que pasen los tres checkpoints: entrada segura, acento claro y aterrizaje fuerte. Graba una ronda si puedes y luego pregúntate:\n- ¿Qué entrada se sintió más natural?\n- ¿Qué acento creó la mejor sorpresa?\n- ¿Mis notas finales sonaron como decisiones o como escapes?\n\nDespués lleva el mismo juego a la **pentatónica menor de Mi**. Si la estructura sigue funcionando, tu control rítmico ya va en serio. 🎸",
+          "de": "Die Schlussjagd: improvisiere **sechs 2-taktige Phrasen**, die alle drei Checkpoints bestehen — sicherer Einstieg, klarer Akzent und starke Landung. Nimm nach Möglichkeit eine Runde auf und frage dich dann:\n- Welcher Einstieg fühlte sich am natürlichsten an?\n- Welcher Akzent brachte die beste Überraschung?\n- Klang mein letzter Ton wie eine Entscheidung oder wie ein Notausgang?\n\nSpiele dasselbe Spiel danach in **E-Moll-Pentatonik**. Wenn die Struktur dort auch trägt, wird deine Rhythmuskontrolle wirklich besser. 🎸",
+          "ja": "最後のチェイスでは、**2小節フレーズを6本** 即興で作り、3つのチェックポイントすべてを通過させましょう。できれば1ラウンド録音して、次を確認します。\n- どの入り方がいちばん自然だったか\n- どのアクセントがいちばん面白い驚きを作ったか\n- 最後の音は「決めた音」に聞こえたか、それとも逃げ道だったか\n\nそのあと同じゲームを **Eマイナー・ペンタトニック** でも試してください。構造がそこでも生きるなら、リズムのコントロールは本物になってきています。🎸",
+          "zh-Hans": "最终追逐：即兴做出 **6条2小节乐句**，每条都要通过三项检查——有把握的起句、明确的重音选择、结实的落点。最好录下一轮，然后问自己：\n- 哪种起句最自然？\n- 哪个重音带来了最好的惊喜？\n- 我的最后一个音听起来像决定，还是像逃跑？\n\n之后把同样的游戏移到 **E小调五声音阶**。如果结构在那里也成立，你的节奏控制就真的在进步了。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-30T00:05:50Z",
+  "updatedAt": "2026-06-30T00:05:50Z"
+}

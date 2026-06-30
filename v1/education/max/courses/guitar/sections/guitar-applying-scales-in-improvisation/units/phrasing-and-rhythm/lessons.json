@@ -866,5 +866,33 @@
     "order": 31,
     "createdAt": "2026-06-29T00:08:10Z",
     "updatedAt": "2026-06-29T00:08:10Z"
+  },
+  {
+    "id": "guitar-rhythm-checkpoint-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Checkpoint Chase",
+        "pt-BR": "Caçada de Checkpoints Rítmicos",
+        "es": "Caza de Puntos de Control Rítmicos",
+        "de": "Jagd nach Rhythmus-Checkpoints",
+        "ja": "リズム・チェックポイント・チェイス",
+        "zh-Hans": "节奏检查点追逐"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Chase clean guitar phrasing through rhythmic checkpoints, accents, and smart target-note landings.",
+        "pt-BR": "Persiga um fraseado de guitarra mais limpo com checkpoints rítmicos, acentos e chegadas inteligentes em notas-alvo.",
+        "es": "Persigue un fraseo de guitarra más limpio con checkpoints rítmicos, acentos y aterrizajes inteligentes en notas objetivo.",
+        "de": "Jage klarere Gitarrenphrasen durch rhythmische Checkpoints, Akzente und kluge Landungen auf Zieltönen.",
+        "ja": "リズムのチェックポイント、アクセント、狙った着地でギターのフレージングをもっと鋭くする。",
+        "zh-Hans": "用节奏检查点、重音变化和聪明落点，追出更干净的吉他乐句。"
+      }
+    },
+    "order": 32,
+    "createdAt": "2026-06-30T00:05:50Z",
+    "updatedAt": "2026-06-30T00:05:50Z"
   }
 ]

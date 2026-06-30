@@ -1734,5 +1734,33 @@
     "order": 62,
     "createdAt": "2026-06-29T00:09:18Z",
     "updatedAt": "2026-06-29T00:09:18Z"
+  },
+  {
+    "id": "bass-pocket-signal-chain",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Signal Chain",
+        "pt-BR": "Cadeia de Sinal do Pocket",
+        "es": "Cadena de Señal del Pocket",
+        "de": "Pocket-Signalkette",
+        "ja": "ポケット・シグナルチェーン",
+        "zh-Hans": "律动信号链"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a stronger bass pocket by routing roots, ghost notes, and scale moves through a tight groove system.",
+        "pt-BR": "Construa um pocket de baixo mais forte roteando tônicas, ghost notes e movimentos de escala por um sistema de groove firme.",
+        "es": "Construye un pocket de bajo más fuerte guiando tónicas, ghost notes y movimiento de escala por un sistema de groove firme.",
+        "de": "Baue ein stärkeres Bass-Pocket, indem du Grundtöne, Ghost Notes und Skalenbewegung durch ein klares Groove-System leitest.",
+        "ja": "ルート音、ゴーストノート、音階の動きを整理して、もっと強いベースのポケットを作る。",
+        "zh-Hans": "把根音、幽灵音和音阶运动接进一条紧实的 groove 系统，打造更强的贝斯 pocket。"
+      }
+    },
+    "order": 63,
+    "createdAt": "2026-06-30T00:05:50Z",
+    "updatedAt": "2026-06-30T00:05:50Z"
   }
 ]
