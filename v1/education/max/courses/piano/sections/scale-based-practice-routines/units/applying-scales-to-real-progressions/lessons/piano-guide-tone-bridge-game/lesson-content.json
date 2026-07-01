@@ -1,0 +1,73 @@
+{
+  "id": "piano-guide-tone-bridge-game",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Loop **ii-V-I-vi in C major** at **72-92 BPM**: **Dm7-G7-Cmaj7-Am7**. Let the left hand play light shells or simple triads. Your right hand is building a bridge across the harmony, and the strongest bridge posts are the **3rds and 7ths** of each chord.",
+          "pt-BR": "Deixe em loop um **ii-V-I-vi em Dó maior** a **72-92 BPM**: **Dm7-G7-Cmaj7-Am7**. A mão esquerda pode tocar shells leves ou tríades simples. A mão direita está construindo uma ponte sobre a harmonia, e os pilares mais fortes dessa ponte são as **terças e sétimas** de cada acorde.",
+          "es": "Deja en loop un **ii-V-I-vi en Do mayor** a **72-92 BPM**: **Dm7-G7-Cmaj7-Am7**. La mano izquierda puede tocar shells ligeros o tríadas simples. La mano derecha está construyendo un puente sobre la armonía, y los pilares más fuertes de ese puente son las **3ras y 7mas** de cada acorde.",
+          "de": "Loope ein **ii-V-I-vi in C-Dur** bei **72-92 BPM**: **Dm7-G7-Cmaj7-Am7**. Die linke Hand spielt leichte Shell-Voicings oder einfache Dreiklänge. Die rechte Hand baut eine Brücke über die Harmonie, und die stärksten Pfeiler dieser Brücke sind die **Terzen und Septimen** jedes Akkords.",
+          "ja": "**Cメジャーの ii-V-I-vi**、つまり **Dm7-G7-Cmaj7-Am7** を **72-92 BPM** でループします。左手は軽いシェルやシンプルな三和音で十分です。右手はハーモニーの上に橋を架ける役で、その橋脚になるのが各コードの **3度と7度** です。",
+          "zh-Hans": "把 **C大调 ii-V-I-vi**，也就是 **Dm7-G7-Cmaj7-Am7**，设成 **72-92 BPM** 循环。左手弹轻一点的 shell voicing 或简单三和弦就够了。右手要在和声上方搭一座桥，而最稳的桥墩就是每个和弦的 **3音和7音**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First pass: before every chord change, play a **short C major scale fragment** of 3-5 notes that lands on a guide tone of the new chord. Aim for **F or C** on Dm7, **B or F** on G7, **E or B** on Cmaj7, and **C or G** on Am7. Slow and accurate beats fast and foggy.",
+          "pt-BR": "Primeira passagem: antes de cada troca de acorde, toque um **fragmento curto da escala de Dó maior** com 3-5 notas que aterrisse em um guide tone do novo acorde. Mire em **F ou C** no Dm7, **B ou F** no G7, **E ou B** no Cmaj7 e **C ou G** no Am7. Lento e preciso vence rápido e embaçado.",
+          "es": "Primera pasada: antes de cada cambio de acorde, toca un **fragmento corto de la escala de Do mayor** de 3-5 notas que caiga en un guide tone del acorde nuevo. Apunta a **F o C** en Dm7, **B o F** en G7, **E o B** en Cmaj7 y **C o G** en Am7. Lento y preciso gana a rápido y borroso.",
+          "de": "Erster Durchgang: Spiele vor jedem Akkordwechsel ein **kurzes C-Dur-Skalenfragment** aus 3-5 Tönen, das auf einem Guide Tone des neuen Akkords landet. Ziele auf **F oder C** bei Dm7, **B oder F** bei G7, **E oder B** bei Cmaj7 und **C oder G** bei Am7. Langsam und präzise schlägt schnell und verschwommen.",
+          "ja": "1回目：各コードチェンジの前に、新しいコードのガイドトーンへ着地する **3〜5音の短いCメジャースケール断片** を弾きます。Dm7では **F または C**、G7では **B または F**、Cmaj7では **E または B**、Am7では **C または G** を狙います。速くてぼやけるより、遅くて正確な方が勝ちです。",
+          "zh-Hans": "第一遍：在每次和弦变化前，弹一个 **3到5个音的短C大调音阶片段**，并落在新和弦的 guide tone 上。Dm7 目标可选 **F 或 C**，G7 选 **B 或 F**，Cmaj7 选 **E 或 B**，Am7 选 **C 或 G**。慢而准，胜过快而糊。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Second pass: keep the same targets, but change the contour every bar. One bar can climb, the next can fall, the next can skip once and recover by step. The bridge should keep its destination even when the shape changes.",
+          "pt-BR": "Segunda passagem: mantenha os mesmos alvos, mas mude o desenho a cada compasso. Um compasso pode subir, o próximo pode descer, o seguinte pode dar um salto e se corrigir por grau conjunto. A ponte precisa manter o destino mesmo quando o formato muda.",
+          "es": "Segunda pasada: mantén los mismos objetivos, pero cambia el contorno en cada compás. Un compás puede subir, el siguiente bajar, el siguiente hacer un salto y corregirse por grado conjunto. El puente debe conservar su destino aunque cambie la forma.",
+          "de": "Zweiter Durchgang: Behalte dieselben Zieltöne, ändere aber in jedem Takt die Kontur. Ein Takt darf steigen, der nächste fallen, der nächste einmal springen und sich dann schrittweise erholen. Die Brücke soll ihr Ziel behalten, auch wenn sich die Form ändert.",
+          "ja": "2回目：ターゲットは同じまま、各小節で輪郭だけ変えます。ある小節は上行、次は下行、その次は一度だけ跳躍してから順次進行で戻る、という形でOK。形が変わっても橋の行き先は変わらないことが大切です。",
+          "zh-Hans": "第二遍：目标音保持不变，但每小节改变旋律轮廓。可以一小节上行，下一小节下行，再下一小节跳一次后用级进修正。桥的形状可以变，终点不能丢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Third pass: add dynamics. Make bars 1 and 3 warmer and more legato; make bars 2 and 4 a little brighter or more detached. This prevents scale practice from sounding like copy-paste piano.",
+          "pt-BR": "Terceira passagem: adicione dinâmica. Faça os compassos 1 e 3 mais quentes e ligados; faça os compassos 2 e 4 um pouco mais brilhantes ou destacados. Isso impede que o estudo de escalas soe como um piano de copiar e colar.",
+          "es": "Tercera pasada: añade dinámica. Haz que los compases 1 y 3 sean más cálidos y ligados; haz que los compases 2 y 4 suenen un poco más brillantes o más separados. Así la práctica de escalas no suena a piano de copiar y pegar.",
+          "de": "Dritter Durchgang: Füge Dynamik hinzu. Spiele Takt 1 und 3 wärmer und legato, Takt 2 und 4 etwas heller oder abgesetzter. So klingt Skalenpraxis nicht wie kopiertes Klaviermaterial.",
+          "ja": "3回目：ダイナミクスを加えます。1小節目と3小節目は暖かくレガート、2小節目と4小節目は少し明るく、あるいはやや切って弾きます。これでスケール練習がコピペっぽいピアノになりません。",
+          "zh-Hans": "第三遍：加入力度变化。第1和第3小节更温暖、更连贯；第2和第4小节稍微更明亮，或更分离一点。这样音阶练习就不会听起来像复制粘贴的钢琴句子。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Bridge test: record **two full loops**. In loop one, stay mostly in the middle register. In loop two, move one phrase an octave higher and one phrase an octave lower. If the guide tones still sound clear, your bridge works in more than one part of the keyboard.",
+          "pt-BR": "Teste da ponte: grave **duas voltas completas**. Na primeira, fique mais na região média do teclado. Na segunda, leve uma frase uma oitava acima e outra uma oitava abaixo. Se os guide tones ainda soarem claros, sua ponte funciona em mais de uma área do teclado.",
+          "es": "Prueba del puente: graba **dos vueltas completas**. En la primera, quédate sobre todo en el registro medio. En la segunda, mueve una frase una octava arriba y otra una octava abajo. Si los guide tones siguen sonando claros, tu puente funciona en más de una zona del teclado.",
+          "de": "Brückentest: Nimm **zwei ganze Durchläufe** auf. Im ersten bleibst du größtenteils im mittleren Register. Im zweiten verschiebst du eine Phrase eine Oktave höher und eine eine Oktave tiefer. Wenn die Guide Tones trotzdem klar bleiben, funktioniert deine Brücke in mehr als einem Bereich der Tastatur.",
+          "ja": "橋のテスト：**2周分** 録音してください。1周目は主に中音域、2周目は1つのフレーズを1オクターブ上へ、別のフレーズを1オクターブ下へ移します。それでもガイドトーンがはっきり聞こえるなら、その橋は鍵盤の複数の場所で機能しています。",
+          "zh-Hans": "桥梁测试：录下 **完整两遍循环**。第一遍主要待在中音区，第二遍把一个乐句抬高八度，再把另一个乐句放低八度。如果 guide tone 依然清晰，这座桥就能在键盘不止一个区域成立。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-01T00:09:03Z",
+  "updatedAt": "2026-07-01T00:09:03Z"
+}

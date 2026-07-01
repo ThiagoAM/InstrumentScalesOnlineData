@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "bass-passing-lane-walking-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Passing-Lane Walking Lines",
+        "pt-BR": "Linhas de Walking com Faixa de Passagem",
+        "es": "Líneas Walking con Carril de Paso",
+        "de": "Walking-Lines mit Überholspur",
+        "ja": "追い越し車線のウォーキングライン",
+        "zh-Hans": "超车道 Walking Bass 线条"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build steadier walking bass by aiming chord tones and sneaking in tasteful passing notes.",
+        "pt-BR": "Construa walking bass mais firme mirando notas do acorde e encaixando notas de passagem com bom gosto.",
+        "es": "Crea walking bass más firme apuntando a notas del acorde y usando notas de paso con buen gusto.",
+        "de": "Baue stabilere Walking-Bass-Lines mit klaren Zieltönen und geschmackvollen Durchgangsnoten.",
+        "ja": "コードトーンを狙い、味のある経過音を入れて、より安定したウォーキングベースを作ろう。",
+        "zh-Hans": "瞄准和弦音，再偷偷放入有品味的经过音，做出更稳的 walking bass。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-01T00:07:38Z",
+    "updatedAt": "2026-07-01T00:07:38Z"
   }
 ]

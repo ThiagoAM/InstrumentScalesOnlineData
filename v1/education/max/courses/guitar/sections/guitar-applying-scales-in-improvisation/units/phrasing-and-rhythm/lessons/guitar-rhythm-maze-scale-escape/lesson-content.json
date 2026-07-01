@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-maze-scale-escape",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome to **76-84 BPM** and stay in **A minor pentatonic, 5th position**. Imagine each 2-bar phrase is a maze: your job is to get from beat 1 to the final note without rushing, repeating, or filling every gap.",
+          "pt-BR": "Ajuste o metrônomo para **76-84 BPM** e fique na **pentatônica menor de Lá, 5ª posição**. Imagine que cada frase de 2 compassos é um labirinto: sua missão é sair do tempo 1 até a nota final sem correr, sem repetir tudo e sem preencher cada espaço.",
+          "es": "Pon el metrónomo a **76-84 BPM** y quédate en **La menor pentatónica, 5ª posición**. Imagina que cada frase de 2 compases es un laberinto: tu trabajo es llegar desde el tiempo 1 hasta la nota final sin correr, sin repetir siempre lo mismo y sin llenar cada hueco.",
+          "de": "Stelle das Metronom auf **76-84 BPM** und bleibe in **A-Moll-Pentatonik in der 5. Lage**. Stell dir jede 2-taktige Phrase als Labyrinth vor: Du musst von Zählzeit 1 bis zum letzten Ton kommen, ohne zu hetzen, alles zu wiederholen oder jede Lücke zu füllen.",
+          "ja": "メトロノームを **76-84 BPM** に設定し、**Aマイナー・ペンタトニックの5ポジション** にとどまります。各2小節フレーズを迷路だと思ってください。1拍目から最後の音まで、急がず、同じことを繰り返しすぎず、すべての隙間を埋めずに進むのがミッションです。",
+          "zh-Hans": "把节拍器设在 **76-84 BPM**，停留在 **A小调五声音阶第5把位**。把每个2小节乐句想成一座迷宫：你的任务是从第1拍走到最后一个音，过程中不能抢拍、不能老是重复，也不能把每个空隙都塞满。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: use only **three-note fragments**. Start every fragment on a different beat of the bar. If one idea begins on beat 1, the next should begin on beat 2, the “and” of 2, or beat 4. The goal is to make the same scale feel less predictable.",
+          "pt-BR": "Rodada 1: use apenas **fragmentos de três notas**. Comece cada fragmento em um tempo diferente do compasso. Se uma ideia começou no tempo 1, a próxima deve começar no tempo 2, no “e” do 2 ou no tempo 4. O objetivo é fazer a mesma escala soar menos previsível.",
+          "es": "Ronda 1: usa solo **fragmentos de tres notas**. Empieza cada fragmento en un pulso distinto del compás. Si una idea comienza en el tiempo 1, la siguiente debe empezar en el tiempo 2, en el “y” de 2 o en el tiempo 4. La meta es que la misma escala se sienta menos predecible.",
+          "de": "Runde 1: Verwende nur **Drei-Noten-Fragmente**. Beginne jedes Fragment auf einer anderen Zählzeit. Wenn eine Idee auf Zählzeit 1 startet, soll die nächste auf Zählzeit 2, auf dem „und“ von 2 oder auf Zählzeit 4 beginnen. So klingt dieselbe Skala sofort weniger vorhersehbar.",
+          "ja": "ラウンド1：**3音の断片** だけを使います。各フラグメントは毎回違う拍から始めましょう。あるアイデアを1拍目から始めたなら、次は2拍目、2拍目ウラ、または4拍目から始めます。同じスケールでも予測しにくくするのが狙いです。",
+          "zh-Hans": "第一关：只用 **三个音的片段**。每个片段都从不同拍点开始。如果一个想法从第1拍开始，下一个就改从第2拍、2拍后的“and”，或者第4拍开始。目标是让同一套音阶听起来没那么可预测。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: add **one accent and one rest** to every bar. The accent is your flashlight; the rest is the hidden door. If the accent is strong but the silence is weak, the phrase still sounds flat, so practice both on purpose.",
+          "pt-BR": "Rodada 2: adicione **um acento e uma pausa** em cada compasso. O acento é sua lanterna; a pausa é a porta escondida. Se o acento for forte mas o silêncio for fraco, a frase ainda soa sem graça, então pratique os dois de propósito.",
+          "es": "Ronda 2: añade **un acento y un silencio** a cada compás. El acento es tu linterna; el silencio es la puerta escondida. Si el acento es fuerte pero el silencio es débil, la frase seguirá sonando plana, así que practica ambos con intención.",
+          "de": "Runde 2: Füge in jedem Takt **einen Akzent und eine Pause** hinzu. Der Akzent ist deine Taschenlampe, die Pause ist die versteckte Tür. Wenn der Akzent stark ist, die Stille aber schwach, klingt die Phrase immer noch flach — also übe beides bewusst.",
+          "ja": "ラウンド2：各小節に **1つのアクセントと1つの休符** を加えます。アクセントは懐中電灯、休符は隠し扉です。アクセントだけ強くても、沈黙が弱ければフレーズは平らに聞こえるので、両方を意識して練習しましょう。",
+          "zh-Hans": "第二关：每小节加入 **一个重音和一个休止**。重音像手电筒，休止像隐藏门。只有重音强、停顿却没存在感，乐句还是会显得平，所以两者都要有意识地练。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3: over an **Am-Dm-Em-Am** loop, aim your last note in each bar at a chord tone: **A/C/E** for Am, **D/F/A** for Dm, and **E/G/B** for Em. You are no longer just escaping the maze—you are learning to choose the right exit.",
+          "pt-BR": "Rodada 3: sobre um loop de **Am-Dm-Em-Am**, faça a última nota de cada compasso cair em uma nota do acorde: **A/C/E** para Am, **D/F/A** para Dm e **E/G/B** para Em. Agora você não está só fugindo do labirinto — está escolhendo a saída certa.",
+          "es": "Ronda 3: sobre un loop de **Am-Dm-Em-Am**, haz que la última nota de cada compás caiga en una nota del acorde: **A/C/E** para Am, **D/F/A** para Dm y **E/G/B** para Em. Ya no solo estás saliendo del laberinto: estás aprendiendo a elegir la salida correcta.",
+          "de": "Runde 3: Über einen **Am-Dm-Em-Am**-Loop soll der letzte Ton jedes Taktes auf einem Akkordton landen: **A/C/E** für Am, **D/F/A** für Dm und **E/G/B** für Em. Jetzt entkommst du dem Labyrinth nicht nur — du wählst den richtigen Ausgang.",
+          "ja": "ラウンド3：**Am-Dm-Em-Am** のループに合わせ、各小節の最後の音をコードトーンに着地させます。Amでは **A/C/E**、Dmでは **D/F/A**、Emでは **E/G/B** を狙ってください。もう迷路を抜けるだけではなく、正しい出口を選ぶ練習です。",
+          "zh-Hans": "第三关：在 **Am-Dm-Em-Am** 循环上，让每小节最后一个音落到和弦音上：Am用 **A/C/E**，Dm用 **D/F/A**，Em用 **E/G/B**。这时你不只是逃离迷宫，而是在学习选择正确出口。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss level: record **three 4-bar takes**. In take one, stay smooth and legato. In take two, use shorter attacks and more space. In take three, mix both styles. Keep the version that sounds like a real musical story, not just a scale exercise.",
+          "pt-BR": "Chefão: grave **três takes de 4 compassos**. No primeiro, toque tudo ligado e fluido. No segundo, use ataques mais curtos e mais espaço. No terceiro, misture os dois estilos. Fique com a versão que soar como uma história musical de verdade, não apenas como exercício de escala.",
+          "es": "Nivel jefe: graba **tres tomas de 4 compases**. En la primera, toca suave y legato. En la segunda, usa ataques más cortos y más espacio. En la tercera, mezcla ambos estilos. Quédate con la versión que suene como una historia musical real, no solo como un ejercicio de escala.",
+          "de": "Boss-Level: Nimm **drei 4-Takt-Takes** auf. Im ersten spielst du weich und legato. Im zweiten mit kürzeren Anschlägen und mehr Raum. Im dritten mischst du beide Stile. Behalte die Version, die wie eine echte musikalische Geschichte klingt und nicht bloß wie eine Skalenübung.",
+          "ja": "ボスレベル：**4小節のテイクを3回** 録音します。1回目はなめらかなレガート、2回目は短いアタックと多めの空間、3回目は両方をミックス。単なるスケール練習ではなく、本当に音楽の物語に聞こえるテイクを残しましょう。",
+          "zh-Hans": "Boss关：录下 **三段4小节版本**。第一段保持顺滑连奏，第二段用更短的起音和更多空间，第三段把两种风格混合。留下那个真正像音乐故事、而不只是音阶练习的版本。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-01T00:05:57Z",
+  "updatedAt": "2026-07-01T00:05:57Z"
+}

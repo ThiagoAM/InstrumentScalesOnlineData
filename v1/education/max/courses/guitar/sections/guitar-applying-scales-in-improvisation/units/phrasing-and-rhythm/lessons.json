@@ -894,5 +894,33 @@
     "order": 32,
     "createdAt": "2026-06-30T00:05:50Z",
     "updatedAt": "2026-06-30T00:05:50Z"
+  },
+  {
+    "id": "guitar-rhythm-maze-scale-escape",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Maze Scale Escape",
+        "pt-BR": "Fuga da Escala no Labirinto Rítmico",
+        "es": "Escape de Escala en el Laberinto Rítmico",
+        "de": "Rhythmus-Labyrinth mit Skalenflucht",
+        "ja": "リズム迷路スケール脱出",
+        "zh-Hans": "节奏迷宫音阶逃脱"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate a playful rhythm maze with scale fragments, accents, and smart rests.",
+        "pt-BR": "Encare um labirinto rítmico divertido com fragmentos de escala, acentos e pausas inteligentes.",
+        "es": "Recorre un laberinto rítmico divertido con fragmentos de escala, acentos y silencios inteligentes.",
+        "de": "Spiele dich mit Skalenfragmenten, Akzenten und klugen Pausen durch ein rhythmisches Labyrinth.",
+        "ja": "スケール断片、アクセント、休符を使って楽しいリズム迷路を抜け出そう。",
+        "zh-Hans": "用音阶片段、重音和聪明的留白，闯过一个好玩的节奏迷宫。"
+      }
+    },
+    "order": 33,
+    "createdAt": "2026-07-01T00:05:57Z",
+    "updatedAt": "2026-07-01T00:05:57Z"
   }
 ]

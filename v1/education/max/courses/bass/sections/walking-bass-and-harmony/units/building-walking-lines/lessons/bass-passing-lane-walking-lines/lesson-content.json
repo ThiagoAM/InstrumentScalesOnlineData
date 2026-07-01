@@ -1,0 +1,73 @@
+{
+  "id": "bass-passing-lane-walking-lines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a swing or straight-ahead jazz groove at **88-104 BPM** and play a simple **ii-V-I in C**: **Dm7-G7-Cmaj7**. Your walking line is a road, and every strong chord tone is a safe lane. Passing notes are allowed, but they must help you change lanes smoothly instead of swerving.",
+          "pt-BR": "Coloque um groove de swing ou jazz reto em **88-104 BPM** e toque um **ii-V-I em Dó**: **Dm7-G7-Cmaj7**. Sua linha de walking é uma estrada, e cada nota forte do acorde é uma faixa segura. As notas de passagem são permitidas, mas precisam ajudar você a trocar de faixa com suavidade, não a sair derrapando.",
+          "es": "Pon un groove de swing o jazz recto a **88-104 BPM** y toca un **ii-V-I en Do**: **Dm7-G7-Cmaj7**. Tu línea walking es una carretera y cada nota fuerte del acorde es un carril seguro. Las notas de paso están permitidas, pero deben ayudarte a cambiar de carril con suavidad en vez de dar volantazos.",
+          "de": "Stelle einen Swing- oder Straight-Ahead-Jazz-Groove auf **88-104 BPM** ein und spiele ein einfaches **ii-V-I in C**: **Dm7-G7-Cmaj7**. Deine Walking-Line ist eine Straße, und jeder starke Akkordton ist eine sichere Spur. Durchgangsnoten sind erlaubt, aber sie sollen den Spurwechsel glätten statt die Linie ins Schlingern zu bringen.",
+          "ja": "スウィングまたはストレートなジャズ・グルーヴを **88-104 BPM** に設定し、**Cのii-V-I**、つまり **Dm7-G7-Cmaj7** を弾きます。あなたのウォーキングラインは道路で、強いコードトーンは安全な車線です。経過音は使ってよいですが、ハンドルを切りすぎるのではなく、自然に車線変更させるために使います。",
+          "zh-Hans": "把 swing 或 straight-ahead jazz groove 设在 **88-104 BPM**，演奏一个简单的 **C调 ii-V-I**：**Dm7-G7-Cmaj7**。你的 walking line 就像一条公路，每个有分量的和弦音都是安全车道。经过音当然能用，但它们要帮你平稳换道，而不是让整条线左右摇摆。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with the safest map: on beat 1 of each bar, land on the **root or 3rd** of the chord. On the other beats, connect with stepwise motion whenever possible. If a jump feels exciting but the time gets shaky, the jump is too expensive.",
+          "pt-BR": "Comece com o mapa mais seguro: no tempo 1 de cada compasso, caia na **tônica ou terça** do acorde. Nos outros tempos, conecte com movimento conjunto sempre que possível. Se um salto parecer empolgante mas o tempo ficar instável, esse salto saiu caro demais.",
+          "es": "Empieza con el mapa más seguro: en el tiempo 1 de cada compás, aterriza en la **raíz o la 3ª** del acorde. En los demás tiempos, conecta con movimiento conjunto siempre que puedas. Si un salto parece emocionante pero el pulso se tambalea, ese salto sale demasiado caro.",
+          "de": "Beginne mit der sichersten Karte: Auf Zählzeit 1 jedes Taktes landest du auf **Grundton oder Terz** des Akkords. Auf den übrigen Zählzeiten verbindest du möglichst mit Schrittbewegung. Wenn ein Sprung spannend klingt, aber das Timing wackelt, ist er zu teuer.",
+          "ja": "まずは最も安全な地図から。各小節の1拍目では、コードの **ルートまたは3度** に着地します。それ以外の拍では、できるだけ順次進行でつなぎましょう。跳躍が面白くてもタイムが揺れるなら、その跳躍は高くつきます。",
+          "zh-Hans": "先用最安全的地图：每小节第1拍落在和弦的 **根音或3音**。其余拍点尽量用级进连接。如果某个跳进听起来很刺激，却让节拍不稳，那它的代价就太高了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one **passing lane** per bar. Choose a note that leads by half step or whole step into your next target. For example, on Dm7 you might aim for **F** and approach it from **E** or **Gb/F#** on the previous beat. The passing note matters only if the landing feels inevitable.",
+          "pt-BR": "Agora adicione uma **faixa de passagem** por compasso. Escolha uma nota que leve por semitom ou tom inteiro até o próximo alvo. Por exemplo, em Dm7 você pode mirar em **F** e chegar nele a partir de **E** ou **Gb/F#** no tempo anterior. A nota de passagem só vale se a chegada soar inevitável.",
+          "es": "Ahora añade un **carril de paso** por compás. Elige una nota que lleve por semitono o tono completo hacia tu siguiente objetivo. Por ejemplo, en Dm7 puedes apuntar a **F** y acercarte desde **E** o **Gb/F#** en el pulso anterior. La nota de paso solo sirve si la llegada suena inevitable.",
+          "de": "Füge jetzt pro Takt eine **Überholspur** hinzu. Wähle einen Ton, der per Halbton oder Ganzton in den nächsten Zielton führt. In Dm7 kannst du zum Beispiel **F** anvisieren und im Schlag davor von **E** oder **Gb/F#** kommen. Die Durchgangsnote zählt nur, wenn die Landung unvermeidlich klingt.",
+          "ja": "次に、各小節に1つ **追い越し車線** を作ります。次のターゲットへ半音または全音で導く音を選びます。たとえば Dm7 で **F** を狙うなら、その前の拍で **E** や **Gb/F#** から近づけます。経過音は、着地が必然に聞こえるときだけ意味があります。",
+          "zh-Hans": "现在每小节加入一条 **超车道**。选一个能用半音或全音把你带向下一个目标音的音。比如在 Dm7 上，你可以瞄准 **F**，并在前一拍用 **E** 或 **Gb/F#** 去接近它。只有当落点听起来像“注定会到这里”时，这个经过音才真正有效。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, make the road smarter: play the same progression twice. First chorus uses mostly roots and thirds. Second chorus keeps the same pulse but replaces one target in each bar with the **5th or 7th**. This teaches variety without breaking the groove.",
+          "pt-BR": "Em seguida, deixe a estrada mais inteligente: toque a mesma progressão duas vezes. No primeiro chorus, use principalmente tônicas e terças. No segundo, mantenha o mesmo pulso, mas troque um alvo de cada compasso pela **quinta ou sétima**. Assim você ganha variedade sem quebrar o groove.",
+          "es": "Después, haz la carretera más inteligente: toca la misma progresión dos veces. En el primer chorus usa sobre todo raíces y terceras. En el segundo, conserva el mismo pulso pero cambia un objetivo de cada compás por la **5ª o la 7ª**. Así aprendes variedad sin romper el groove.",
+          "de": "Mach die Straße als Nächstes klüger: Spiele dieselbe Progression zweimal. Im ersten Chorus verwendest du vor allem Grundtöne und Terzen. Im zweiten hältst du denselben Puls, ersetzt aber in jedem Takt einen Zielton durch die **Quinte oder Septime**. So lernst du Abwechslung, ohne den Groove zu verlieren.",
+          "ja": "続いて道路をもっと賢くします。同じ進行を2回演奏してください。1コーラス目は主にルートと3度、2コーラス目は同じ脈を保ったまま、各小節で1つのターゲットを **5度または7度** に置き換えます。これでグルーヴを壊さずに変化を学べます。",
+          "zh-Hans": "接着让这条路更聪明：把同一个进行弹两遍。第一遍主要用根音和3音。第二遍保持同样脉冲，但每小节把一个目标音换成 **5音或7音**。这样你能学会变化，而不会破坏 groove。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final drive: write a **4-bar walking line** and loop it for two minutes. Then rewrite only bars 2 and 4 with new passing notes. If both versions still feel steady enough to make a drummer smile, you built a real bass line—not just a theory worksheet.",
+          "pt-BR": "Reta final: escreva uma **linha de walking de 4 compassos** e deixe em loop por dois minutos. Depois reescreva apenas os compassos 2 e 4 com novas notas de passagem. Se as duas versões continuarem firmes o bastante para fazer um baterista sorrir, você construiu uma linha de baixo de verdade — não só uma folha de teoria.",
+          "es": "Conducción final: escribe una **línea walking de 4 compases** y repítela durante dos minutos. Luego reescribe solo los compases 2 y 4 con nuevas notas de paso. Si ambas versiones siguen siendo lo bastante firmes como para hacer sonreír a un baterista, construiste una línea de bajo real, no solo una hoja de teoría.",
+          "de": "Letzte Fahrt: Schreibe eine **4-taktige Walking-Line** und loope sie zwei Minuten lang. Danach schreibst du nur Takt 2 und 4 mit neuen Durchgangsnoten um. Wenn beide Versionen stabil genug bleiben, um einen Drummer zum Lächeln zu bringen, hast du eine echte Basslinie gebaut — kein bloßes Theorieblatt.",
+          "ja": "最後のドライブ：**4小節のウォーキングライン** を書き、2分間ループします。その後、2小節目と4小節目だけを新しい経過音で書き直してください。どちらの版もドラマーがにやっとするくらい安定していれば、それは理論プリントではなく本物のベースラインです。",
+          "zh-Hans": "最后冲刺：写一条 **4小节 walking line**，循环两分钟。然后只重写第2和第4小节，换上新的经过音。如果两个版本都稳得足以让鼓手露出笑容，那你做出的就是一条真正的贝斯线，而不只是理论练习纸。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-01T00:07:38Z",
+  "updatedAt": "2026-07-01T00:07:38Z"
+}

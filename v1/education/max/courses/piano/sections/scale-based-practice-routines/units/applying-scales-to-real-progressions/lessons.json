@@ -362,5 +362,33 @@
     "order": 13,
     "createdAt": "2026-06-27T00:06:36Z",
     "updatedAt": "2026-06-27T00:06:36Z"
+  },
+  {
+    "id": "piano-guide-tone-bridge-game",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guide-Tone Bridge Game",
+        "pt-BR": "Jogo da Ponte dos Guide Tones",
+        "es": "Juego del Puente de Guide Tones",
+        "de": "Guide-Tone-Brückenspiel",
+        "ja": "ガイドトーン橋わたりゲーム",
+        "zh-Hans": "Guide Tone 桥梁游戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a bridge-building game by connecting guide tones through chord changes.",
+        "pt-BR": "Transforme o estudo de escalas em um jogo de construir pontes ligando guide tones nas trocas de acorde.",
+        "es": "Convierte la práctica de escalas en un juego de construir puentes conectando guide tones entre acordes.",
+        "de": "Verwandle Skalenpraxis in ein Brückenbau-Spiel, indem du Guide Tones durch Akkordwechsel verbindest.",
+        "ja": "ガイドトーンをつないで、スケール練習を和声の橋づくりゲームに変えよう。",
+        "zh-Hans": "用连接 guide tone 的方式，把音阶练习变成一次搭桥游戏。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-07-01T00:09:03Z",
+    "updatedAt": "2026-07-01T00:09:03Z"
   }
 ]
