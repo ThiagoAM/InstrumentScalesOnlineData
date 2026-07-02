@@ -278,5 +278,33 @@
     "order": 10,
     "createdAt": "2026-06-16T00:06:52Z",
     "updatedAt": "2026-06-16T00:06:52Z"
+  },
+  {
+    "id": "a-minor-pocket-patrol",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Minor Pocket Patrol",
+        "pt-BR": "Patrulha do Pocket em Lá Menor",
+        "es": "Patrulla del Pocket en La Menor",
+        "de": "A-Moll-Pocket-Patrouille",
+        "ja": "Aマイナー・ポケットパトロール",
+        "zh-Hans": "A小调律动巡逻"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Patrol the A natural minor scale with groove checkpoints, ghost notes, and target-note landings.",
+        "pt-BR": "Patrulhe a escala de Lá menor natural com checkpoints de groove, ghost notes e aterrissagens em notas-alvo.",
+        "es": "Patrulla la escala de La menor natural con checkpoints de groove, ghost notes y aterrizajes en notas objetivo.",
+        "de": "Patrouilliere durch die natürliche a-Moll-Tonleiter mit Groove-Checkpoints, Ghost Notes und Zieltönen.",
+        "ja": "Aナチュラルマイナーを、グルーヴのチェックポイント、ゴーストノート、ターゲット着地で巡回しよう。",
+        "zh-Hans": "用律动检查点、幽灵音和目标音落点来巡逻A自然小调音阶。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-07-02T00:06:57Z",
+    "updatedAt": "2026-07-02T00:06:57Z"
   }
 ]

@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-06-16T00:06:53Z",
     "updatedAt": "2026-06-16T00:06:53Z"
+  },
+  {
+    "id": "g-major-lane-switch",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Lane Switch",
+        "pt-BR": "Troca de Faixa em Sol Maior",
+        "es": "Cambio de Carril en Sol Mayor",
+        "de": "Spurwechsel in G-Dur",
+        "ja": "Gメジャー・レーンチェンジ",
+        "zh-Hans": "G大调换道练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Switch lanes through G major with clean thumb-unders, dynamic control, and a playful two-hand challenge.",
+        "pt-BR": "Troque de faixa pela escala de Sol maior com polegar por baixo limpo, controle dinâmico e um desafio divertido com as duas mãos.",
+        "es": "Cambia de carril por la escala de Sol mayor con pulgar por debajo limpio, control dinámico y un reto divertido a dos manos.",
+        "de": "Wechsle durch G-Dur mit sauberem Daumenuntersatz, Dynamikkontrolle und einer spielerischen Zwei-Hand-Challenge.",
+        "ja": "きれいな親指くぐり、音量コントロール、そして楽しい両手チャレンジでGメジャーを走り抜けよう。",
+        "zh-Hans": "用干净的拇指穿越、动态控制和有趣的双手挑战，在G大调中顺畅换道。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-07-02T00:06:58Z",
+    "updatedAt": "2026-07-02T00:06:58Z"
   }
 ]

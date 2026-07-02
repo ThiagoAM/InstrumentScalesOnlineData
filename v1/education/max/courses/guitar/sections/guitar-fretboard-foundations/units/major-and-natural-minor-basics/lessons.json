@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-06-16T00:06:52Z",
     "updatedAt": "2026-06-16T00:06:52Z"
+  },
+  {
+    "id": "d-major-string-crossing-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Major String-Crossing Quest",
+        "pt-BR": "Missão de Troca de Cordas em Ré Maior",
+        "es": "Misión de Cruce de Cuerdas en Re Mayor",
+        "de": "D-Dur-Saitenwechsel-Quest",
+        "ja": "Dメジャー弦移動クエスト",
+        "zh-Hans": "D大调换弦任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn the D major scale into a clean string-crossing mission with anchors, rhythm twists, and a tiny improv challenge.",
+        "pt-BR": "Transforme a escala de Ré maior em uma missão de troca de cordas com notas-âncora, variações rítmicas e um pequeno desafio de improviso.",
+        "es": "Convierte la escala de Re mayor en una misión de cruces limpios con notas ancla, giros rítmicos y un pequeño reto de improvisación.",
+        "de": "Verwandle die D-Dur-Tonleiter in eine Saitenwechsel-Mission mit Ankertönen, Rhythmus-Kniffen und einer kleinen Impro-Aufgabe.",
+        "ja": "Dメジャースケールを、アンカーノートとリズム変化、小さな即興課題つきのクリーンな弦移動ミッションに変えよう。",
+        "zh-Hans": "把D大调音阶练成一场干净利落的换弦任务，加入锚点音、节奏变化和一个小即兴挑战。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-07-02T00:06:57Z",
+    "updatedAt": "2026-07-02T00:06:57Z"
   }
 ]

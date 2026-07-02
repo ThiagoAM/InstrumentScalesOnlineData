@@ -1,0 +1,99 @@
+{
+  "id": "d-major-string-crossing-quest",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a bright D major sound and think like an explorer. Your mission is to cross strings cleanly without letting your picking hand panic or your timing wobble.",
+          "pt-BR": "Comece com o brilho de Ré maior e pense como um explorador. Sua missão é trocar de corda com limpeza, sem deixar a mão da palheta entrar em pânico nem o tempo balançar.",
+          "es": "Empieza con el brillo de Re mayor y piensa como un explorador. Tu misión es cruzar cuerdas con limpieza sin que tu mano de púa entre en pánico ni tu pulso se tambalee.",
+          "de": "Starte mit dem hellen Klang von D-Dur und denke wie ein Entdecker. Deine Mission ist, sauber zwischen den Saiten zu wechseln, ohne dass die Schlaghand nervös wird oder das Timing wackelt.",
+          "ja": "明るいDメジャーの響きで始め、探検家の気分で進もう。ミッションは、ピッキングの手を慌てさせず、タイムも崩さずに弦移動をきれいに行うことだ。",
+          "zh-Hans": "从明亮的D大调音色开始，把自己当成探险者。你的任务是干净地跨弦，不让拨弦手慌张，也不让节拍摇晃。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: find D on the 5th fret of the A string and the open D string. Play D–E–F#–G slowly, then come back down while saying the note names out loud.",
+          "pt-BR": "Aquecimento: encontre o Ré na 5ª casa da corda Lá e o Ré da corda solta Ré. Toque Ré–Mi–Fá#–Sol devagar e depois volte dizendo os nomes das notas em voz alta.",
+          "es": "Calentamiento: encuentra Re en el traste 5 de la cuerda La y el Re al aire. Toca Re–Mi–Fa#–Sol lentamente y vuelve diciendo los nombres de las notas en voz alta.",
+          "de": "Aufwärmen: Finde D im 5. Bund der A-Saite und die leere D-Saite. Spiele D–E–F#–G langsam und gehe dann wieder zurück, während du die Notennamen laut sagst.",
+          "ja": "ウォームアップ：A弦5フレットのDと、開放D弦を見つけよう。D–E–F#–Gをゆっくり弾き、音名を声に出しながら下って戻る。",
+          "zh-Hans": "热身：找到A弦第5品的D，以及空弦D。慢慢弹D–E–F#–G，再下行回来，同时大声说出音名。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: play one octave of D major in quarter notes at 72 bpm. Each time you cross to a new string, freeze for one beat, check your hand position, then continue.",
+          "pt-BR": "Exercício principal: toque uma oitava de Ré maior em semínimas a 72 bpm. Toda vez que mudar para outra corda, congele por um tempo, confira a posição da mão e continue.",
+          "es": "Ejercicio principal: toca una octava de Re mayor en negras a 72 bpm. Cada vez que cruces a una cuerda nueva, congélate un pulso, revisa la posición de la mano y continúa.",
+          "de": "Hauptübung: Spiele eine Oktave D-Dur in Vierteln bei 72 bpm. Jedes Mal, wenn du auf eine neue Saite wechselst, halte einen Schlag lang an, prüfe die Handposition und spiele weiter.",
+          "ja": "メイン練習：72 bpmで、Dメジャー1オクターブを4分音符で弾く。新しい弦へ移るたびに1拍止まり、手の位置を確認してから続けよう。",
+          "zh-Hans": "主练习：用72 bpm把一组八度的D大调弹成四分音符。每次换到新弦时，停一拍，检查手型，再继续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Quest upgrade: now use this pattern—D–E–F#, then jump back to E; E–F#–G, then jump back to F#. This makes the crossings less automatic and more musical.",
+          "pt-BR": "Upgrade da missão: agora use este padrão — Ré–Mi–Fá#, depois volte para Mi; Mi–Fá#–Sol, depois volte para Fá#. Isso deixa as trocas menos automáticas e mais musicais.",
+          "es": "Mejora de misión: ahora usa este patrón: Re–Mi–Fa#, luego vuelve a Mi; Mi–Fa#–Sol, luego vuelve a Fa#. Esto hace que los cruces sean menos automáticos y más musicales.",
+          "de": "Quest-Upgrade: Nutze jetzt dieses Muster — D–E–F#, dann zurück zu E; E–F#–G, dann zurück zu F#. So werden die Wechsel weniger automatisch und musikalischer.",
+          "ja": "クエスト強化：次はこの形を使う。D–E–F#のあとEへ戻る。E–F#–GのあとF#へ戻る。これで移動が機械的でなくなり、より音楽的になる。",
+          "zh-Hans": "任务升级：现在使用这个模式——D–E–F#，然后回到E；E–F#–G，然后回到F#。这样换弦会更有意识，也更有音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm twist: play the same scale with a long-short pulse—quarter note, two eighth notes, quarter note. Accentuate the first note after every string change.",
+          "pt-BR": "Twist rítmico: toque a mesma escala com pulso longo-curto — semínima, duas colcheias, semínima. Destaque a primeira nota depois de cada troca de corda.",
+          "es": "Giro rítmico: toca la misma escala con pulso largo-corto: negra, dos corcheas, negra. Acentúa la primera nota después de cada cambio de cuerda.",
+          "de": "Rhythmus-Kniff: Spiele dieselbe Tonleiter mit lang-kurz-Puls — Viertel, zwei Achtel, Viertel. Betone den ersten Ton nach jedem Saitenwechsel.",
+          "ja": "リズム変化：同じスケールを「4分音符、8分音符2つ、4分音符」の長短パルスで弾こう。弦移動の直後の最初の音を強調する。",
+          "zh-Hans": "节奏变化：用“一个四分音符、两个八分音符、一个四分音符”的长短脉冲弹同样的音阶。每次换弦后的第一个音要强调。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative mission: improvise for 4 bars using only D major, but land on D or F# at the end of each bar. If you get lost, pause on A and restart calmly.",
+          "pt-BR": "Missão criativa: improvise por 4 compassos usando apenas Ré maior, mas termine cada compasso em Ré ou Fá#. Se se perder, pare no Lá e recomece com calma.",
+          "es": "Misión creativa: improvisa durante 4 compases usando solo Re mayor, pero termina cada compás en Re o Fa#. Si te pierdes, quédate en La y vuelve a empezar con calma.",
+          "de": "Kreative Mission: Improvisiere 4 Takte nur mit D-Dur, aber lande am Ende jedes Takts auf D oder F#. Wenn du dich verirrst, halte auf A an und starte ruhig neu.",
+          "ja": "創作ミッション：Dメジャーだけで4小節即興し、各小節の終わりはDかF#に着地しよう。迷ったらAで止まり、落ち着いて再開する。",
+          "zh-Hans": "创意任务：只用D大调即兴4小节，但每小节结尾都落在D或F#上。如果迷路了，就先停在A上，冷静重来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Win condition: record one clean run with relaxed shoulders, even tone, and no rushed crossings. When that feels solid, raise the metronome by 4 bpm and try again.",
+          "pt-BR": "Condição de vitória: grave uma execução limpa, com ombros relaxados, timbre uniforme e sem correr nas trocas. Quando isso estiver firme, aumente o metrônomo em 4 bpm e tente de novo.",
+          "es": "Condición de victoria: graba una pasada limpia con hombros relajados, tono parejo y sin apresurarte en los cruces. Cuando se sienta sólido, sube el metrónomo 4 bpm e inténtalo otra vez.",
+          "de": "Siegbedingung: Nimm einen sauberen Durchgang mit lockeren Schultern, gleichmäßigem Ton und ohne hektische Wechsel auf. Wenn das sitzt, erhöhe das Metronom um 4 bpm und versuche es erneut.",
+          "ja": "クリア条件：肩を楽に保ち、音色をそろえ、弦移動で走らないクリーンな通しを1回録音しよう。安定したらメトロノームを4 bpm上げて再挑戦。",
+          "zh-Hans": "通关条件：录下一遍干净的完整演奏，要求肩膀放松、音色均匀、换弦不抢拍。稳定后，把节拍器提高4 bpm再试一次。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-02T00:06:57Z",
+  "updatedAt": "2026-07-02T00:06:57Z"
+}
