@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-lane-switch",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lock in a drum loop around **90 BPM** and sit on a simple **Dm7** or **G7** groove. Your job today is to switch between the **low lane** of the bass and the **middle lane** near the 7th to 10th fret without sounding like you fell off the road. Think like a great bassist: every move should still feel trustworthy to the band.",
+          "pt-BR": "Trave em um loop de bateria por volta de **90 BPM** e use um groove simples em **Dm7** ou **G7**. Sua missão hoje é trocar entre a **faixa grave** do baixo e a **faixa média** perto da 7ª à 10ª casa sem parecer que saiu da pista. Pense como um grande baixista: todo movimento ainda precisa soar confiável para a banda.",
+          "es": "Ajusta un loop de batería cerca de **90 BPM** y usa un groove simple en **Dm7** o **G7**. Tu trabajo de hoy es cambiar entre el **carril grave** del bajo y el **carril medio** cerca del traste 7 al 10 sin sonar como si te salieras de la carretera. Piensa como un gran bajista: cada movimiento debe seguir transmitiendo confianza a la banda.",
+          "de": "Nimm einen Drum-Loop bei etwa **90 BPM** und einen einfachen Groove auf **Dm7** oder **G7**. Deine Aufgabe heute ist der Wechsel zwischen der **tiefen Spur** des Basses und der **mittleren Spur** im Bereich des 7. bis 10. Bundes, ohne dass es so klingt, als wärst du von der Straße abgekommen. Denk wie ein großartiger Bassist: Jede Bewegung soll für die Band weiterhin verlässlich wirken.",
+          "ja": "**90 BPM** 前後のドラムループを流し、**Dm7** か **G7** のシンプルなグルーヴに乗りましょう。今日の課題は、ベースの **低音レーン** と 7〜10フレット付近の **中音レーン** を行き来しても、道路から落ちたように聞こえないことです。優れたベーシストのように考えてください。どの動きも、バンドにとって信頼できるものでなければいけません。",
+          "zh-Hans": "打开一个大约 **90 BPM** 的鼓循环，配上简单的 **Dm7** 或 **G7** groove。今天你的任务，是在贝斯的 **低音车道** 和靠近 7 到 10 品的 **中音车道** 之间切换，同时不能让人觉得你已经冲出公路。像优秀贝斯手那样思考：每一次移动都得让乐队继续信任你。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Lane 1 – Low-pocket statement\nSpend one minute making short 1-bar lines that mostly live in the lower register. Aim for clear roots, fifths, and passing tones from the scale. Keep your attack even and leave enough space that the groove breathes. If the line does not make you want to nod, simplify it.",
+          "pt-BR": "## Faixa 1 – Declaração no grave\nPasse um minuto criando linhas curtas de 1 compasso que morem principalmente no registro grave. Mire em tônicas, quintas e notas de passagem vindas da escala. Mantenha o ataque uniforme e deixe espaço suficiente para o groove respirar. Se a linha não fizer sua cabeça balançar, simplifique.",
+          "es": "## Carril 1 – Declaración grave\nPasa un minuto creando líneas cortas de 1 compás que vivan sobre todo en el registro grave. Apunta a tónicas, quintas y notas de paso de la escala. Mantén un ataque parejo y deja suficiente espacio para que el groove respire. Si la línea no te hace mover la cabeza, simplifícala.",
+          "de": "## Spur 1 – Aussage im tiefen Register\nVerbringe eine Minute damit, kurze 1-taktige Linien zu bauen, die hauptsächlich im tiefen Register bleiben. Ziele auf Grundtöne, Quinten und Durchgangstöne aus der Skala. Halte den Anschlag gleichmäßig und lasse genug Raum, damit der Groove atmen kann. Wenn die Linie nicht zum Mitnicken einlädt, vereinfache sie.",
+          "ja": "## レーン1 – 低音域の宣言\n1分間、主に低音域にいる1小節の短いラインを作ります。ルート、5度、スケールからの経過音をはっきり狙いましょう。アタックを均一に保ち、グルーヴが呼吸できるだけのスペースを残します。うなずきたくならないラインなら、もっとシンプルにしてください。",
+          "zh-Hans": "## 车道1 – 低音区宣言\n花一分钟写一些主要停留在低音区的 1 小节短线条。重点放在根音、五度和来自音阶的经过音上。保持触弦均匀，并留出足够空间让 groove 呼吸。如果这条线不能让你点头，就把它再简化一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Lane 2 – Mid-neck answer\nNow answer each low-register bar with a bar in the middle register. Use the same rhythmic personality, but let the note choice climb. You are not soloing yet — you are proving that a register change can still sound like the same bassist in the same song.",
+          "pt-BR": "## Faixa 2 – Resposta no meio do braço\nAgora responda cada compasso grave com um compasso no registro médio. Use a mesma personalidade rítmica, mas deixe as notas subirem. Você ainda não está fazendo solo — está provando que uma troca de registro pode continuar soando como o mesmo baixista na mesma música.",
+          "es": "## Carril 2 – Respuesta en el centro del mástil\nAhora responde a cada compás grave con un compás en el registro medio. Usa la misma personalidad rítmica, pero deja que las notas suban. Aún no estás soleando: estás demostrando que un cambio de registro puede seguir sonando como el mismo bajista en la misma canción.",
+          "de": "## Spur 2 – Antwort in der mittleren Lage\nAntworte jetzt auf jeden tiefen Takt mit einem Takt in der mittleren Lage. Behalte dieselbe rhythmische Persönlichkeit, aber lass die Töne steigen. Du spielst noch kein Solo — du beweist, dass ein Registerwechsel immer noch nach demselben Bassisten im selben Song klingen kann.",
+          "ja": "## レーン2 – 中音域での返答\n次は、低音域の各1小節に対して中音域の1小節で答えます。リズムの性格は同じまま、音の高さだけ上げましょう。まだソロではありません。音域が変わっても、同じ曲の同じベーシストに聞こえることを証明する段階です。",
+          "zh-Hans": "## 车道2 – 中音区回答\n现在用中音区的一小节去回答每个低音区小节。保持同样的节奏个性，但让音高往上走。你还不是在独奏，而是在证明：换了音区，依然可以像同一首歌里的同一个贝斯手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Lane 3 – Controlled merge\nAlternate low lane and middle lane for four bars without breaking the pulse. Connect them with one smooth shift, slide, or pivot finger move instead of a panicked jump. Record yourself and listen for the danger signs: rushing during the move, weak tone on the landing note, or forgetting where beat 1 lives.",
+          "pt-BR": "## Faixa 3 – Fusão controlada\nAlterne faixa grave e faixa média por quatro compassos sem quebrar o pulso. Conecte as duas com uma mudança suave, slide ou pivô de dedo em vez de um salto desesperado. Grave e escute os sinais de perigo: correr na mudança, som fraco na nota de chegada ou esquecer onde mora o tempo 1.",
+          "es": "## Carril 3 – Fusión controlada\nAlterna carril grave y carril medio durante cuatro compases sin romper el pulso. Conéctalos con un cambio suave, un slide o un pivote de dedo en lugar de un salto desesperado. Grábate y escucha las señales de peligro: correr durante el cambio, tono débil en la nota de llegada o olvidar dónde vive el tiempo 1.",
+          "de": "## Spur 3 – Kontrolliertes Verschmelzen\nWechsle vier Takte lang zwischen tiefer und mittlerer Spur, ohne den Puls zu verlieren. Verbinde beide Bereiche mit einem sauberen Shift, Slide oder Finger-Pivot statt mit einem panischen Sprung. Nimm dich auf und achte auf Warnzeichen: Hektik beim Wechsel, schwacher Ton auf dem Zielton oder verlorenes Gefühl für die Eins.",
+          "ja": "## レーン3 – 制御された合流\n4小節のあいだ、低音レーンと中音レーンを交互に行き来しながらも、脈動を切らさないでください。慌てたジャンプではなく、なめらかな移動、スライド、または指のピボットでつなぎます。録音して、移動中に走る、着地音が弱い、1拍目の位置を見失う、という危険信号を確認しましょう。",
+          "zh-Hans": "## 车道3 – 受控并线\n连续四小节在低音车道和中音车道之间交替，同时不能把脉冲弄断。用平滑换把、滑音或手指支点去连接，而不是慌张地跳过去。录下来听听危险信号：移动时抢拍、落点音虚掉，或者直接忘了第1拍住在哪儿。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Final lap – Make it band-ready\nBuild an **8-bar groove study** with this map: 2 bars low lane, 2 bars middle lane, 2 bars mixed, 2 bars strongest version. If you can make the last two bars feel inevitable instead of complicated, you are doing real bassist work. Bonus points if you can sing the line before you play it.",
+          "pt-BR": "## Volta final – Deixe pronto para banda\nMonte um **estudo de groove de 8 compassos** com este mapa: 2 compassos no grave, 2 no médio, 2 misturando, 2 na sua versão mais forte. Se os dois últimos compassos parecerem inevitáveis em vez de complicados, você está fazendo trabalho de baixista de verdade. Pontos extras se conseguir cantar a linha antes de tocar.",
+          "es": "## Vuelta final – Déjalo listo para banda\nConstruye un **estudio de groove de 8 compases** con este mapa: 2 compases graves, 2 medios, 2 mezclados, 2 en tu versión más fuerte. Si puedes hacer que los dos últimos compases se sientan inevitables en vez de complicados, estás haciendo trabajo real de bajista. Puntos extra si puedes cantar la línea antes de tocarla.",
+          "de": "## Schlussrunde – Bandtauglich machen\nBaue eine **8-taktige Groove-Etüde** mit diesem Plan: 2 Takte tiefe Spur, 2 Takte mittlere Spur, 2 Takte gemischt, 2 Takte stärkste Version. Wenn sich die letzten beiden Takte unvermeidlich statt kompliziert anfühlen, machst du echte Bassisten-Arbeit. Extrapunkte, wenn du die Linie erst singen und dann spielen kannst.",
+          "ja": "## 最終ラップ – バンド仕様にする\n次の地図で **8小節のグルーヴ練習** を作ります。低音2小節、中音2小節、混合2小節、そして最強版2小節です。最後の2小節が複雑ではなく必然に感じられたら、本物のベーシストの仕事になっています。弾く前にラインを歌えたらさらに最高です。",
+          "zh-Hans": "## 最后一圈 – 让它能进乐队\n按这个路线写一个 **8小节 groove 练习**：2小节低音区、2小节中音区、2小节混合、2小节你的最强版本。如果最后两小节听起来是水到渠成，而不是复杂堆料，那你就在做真正的贝斯手工作了。要是你能先把线条唱出来再弹，额外加分。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-03T00:08:01Z",
+  "updatedAt": "2026-07-03T00:08:01Z"
+}

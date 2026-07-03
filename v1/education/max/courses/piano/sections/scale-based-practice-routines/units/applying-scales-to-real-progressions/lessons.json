@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-07-01T00:09:03Z",
     "updatedAt": "2026-07-01T00:09:03Z"
+  },
+  {
+    "id": "piano-signal-light-voice-leading",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Signal Light Voice Leading",
+        "pt-BR": "Semáforo de Condução de Vozes no Piano",
+        "es": "Semáforo de Conducción de Voces en Piano",
+        "de": "Klavier-Ampel für Stimmführung",
+        "ja": "ピアノ信号機ボイスリーディング",
+        "zh-Hans": "钢琴红绿灯声部连接"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use green, yellow, and red note targets to guide smooth scale choices through a ii-V-I progression.",
+        "pt-BR": "Use alvos verdes, amarelos e vermelhos para guiar escolhas suaves de escala em uma progressão ii-V-I.",
+        "es": "Usa objetivos verdes, amarillos y rojos para guiar elecciones fluidas de escala sobre una progresión ii-V-I.",
+        "de": "Nutze grüne, gelbe und rote Zielnoten, um flüssige Skalenentscheidungen durch eine ii-V-I-Verbindung zu lenken.",
+        "ja": "緑・黄・赤の目標音を使って、ii-V-I進行の中でなめらかなスケール選択を導こう。",
+        "zh-Hans": "用绿色、黄色和红色目标音，引导你在 ii-V-I 进行中的音阶选择更顺滑。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-07-03T00:08:12Z",
+    "updatedAt": "2026-07-03T00:08:12Z"
   }
 ]

@@ -614,5 +614,33 @@
     "order": 22,
     "createdAt": "2026-06-27T00:06:35Z",
     "updatedAt": "2026-06-27T00:06:35Z"
+  },
+  {
+    "id": "guitar-echo-ladder-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Echo Ladder Etude",
+        "pt-BR": "Etude da Escada de Ecos na Guitarra",
+        "es": "Etude de Escalera de Ecos para Guitarra",
+        "de": "Gitarren-Echoleiter-Etüde",
+        "ja": "ギター・エコーラダー・エチュード",
+        "zh-Hans": "吉他回声阶梯练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a mini solo by repeating, shifting, and upgrading one scale idea without dropping the groove.",
+        "pt-BR": "Construa um mini solo repetindo, deslocando e evoluindo uma ideia de escala sem perder o groove.",
+        "es": "Construye un mini solo repitiendo, moviendo y mejorando una idea de escala sin perder el groove.",
+        "de": "Baue ein Mini-Solo auf, indem du eine Tonleiter-Idee wiederholst, verschiebst und steigerst, ohne den Groove zu verlieren.",
+        "ja": "ひとつのスケールのアイデアを繰り返し、ずらし、発展させて、グルーヴを保ったままミニソロを作ろう。",
+        "zh-Hans": "重复、位移并升级同一个音阶想法，在不丢掉 groove 的情况下搭出一段迷你独奏。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-07-03T00:07:17Z",
+    "updatedAt": "2026-07-03T00:07:17Z"
   }
 ]

@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-06-24T00:07:49Z",
     "updatedAt": "2026-06-24T00:07:49Z"
+  },
+  {
+    "id": "bass-pocket-lane-switch",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Lane Switch",
+        "pt-BR": "Troca de Faixas do Pocket no Baixo",
+        "es": "Cambio de Carril del Pocket en Bajo",
+        "de": "Bass Pocket Spurwechsel",
+        "ja": "ベース・ポケット車線変更",
+        "zh-Hans": "贝斯口袋换道练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass lines to move between low and mid registers without losing pulse, tone, or authority.",
+        "pt-BR": "Treine suas linhas de baixo para alternar entre registros graves e médios sem perder pulso, timbre ou autoridade.",
+        "es": "Entrena tus líneas de bajo para moverse entre registros graves y medios sin perder pulso, tono ni autoridad.",
+        "de": "Trainiere Basslinien, zwischen tiefem und mittlerem Register zu wechseln, ohne Puls, Ton oder Autorität zu verlieren.",
+        "ja": "低音域と中音域を行き来しても、脈動、音色、頼もしさを失わないベースラインを鍛えよう。",
+        "zh-Hans": "训练你的贝斯线条在低音区和中音区之间切换时，依然保持脉冲、音色和掌控力。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-07-03T00:08:01Z",
+    "updatedAt": "2026-07-03T00:08:01Z"
   }
 ]

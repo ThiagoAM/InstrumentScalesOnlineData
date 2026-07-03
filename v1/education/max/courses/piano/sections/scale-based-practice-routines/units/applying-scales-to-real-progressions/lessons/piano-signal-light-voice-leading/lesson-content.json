@@ -1,0 +1,73 @@
+{
+  "id": "piano-signal-light-voice-leading",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome between **70 and 84 BPM** and loop a simple **Dm7-G7-Cmaj7** progression. Imagine the keyboard has three signal lights: **green** notes feel safe, **yellow** notes create motion, and **red** notes demand a smart resolution. Your mission is to turn scale practice into harmony awareness instead of finger traffic.",
+          "pt-BR": "Coloque o metrônomo entre **70 e 84 BPM** e deixe uma progressão simples de **Dm7-G7-Cmaj7** em loop. Imagine que o teclado tem três luzes de sinal: notas **verdes** soam seguras, notas **amarelas** criam movimento e notas **vermelhas** exigem uma resolução inteligente. Sua missão é transformar prática de escalas em consciência harmônica, não em trânsito de dedos.",
+          "es": "Pon el metrónomo entre **70 y 84 BPM** y deja en loop una progresión simple de **Dm7-G7-Cmaj7**. Imagina que el teclado tiene tres luces: las notas **verdes** se sienten seguras, las **amarillas** crean movimiento y las **rojas** exigen una resolución inteligente. Tu misión es convertir la práctica de escalas en conciencia armónica, no en tráfico de dedos.",
+          "de": "Stell das Metronom auf **70 bis 84 BPM** und loope eine einfache **Dm7-G7-Cmaj7**-Verbindung. Stell dir vor, das Keyboard hat drei Signalfarben: **grüne** Töne fühlen sich sicher an, **gelbe** erzeugen Bewegung und **rote** verlangen nach einer klugen Auflösung. Deine Aufgabe ist es, aus Skalenpraxis Harmonie-Bewusstsein zu machen statt Fingerverkehr.",
+          "ja": "メトロノームを **70-84 BPM** に設定し、シンプルな **Dm7-G7-Cmaj7** 進行をループしましょう。鍵盤には3色の信号があると想像してください。**緑** の音は安全、**黄** の音は動きを作り、**赤** の音は賢い解決を求めます。今日のミッションは、スケール練習を指の交通整理ではなく、和声の理解に変えることです。",
+          "zh-Hans": "把节拍器设在 **70-84 BPM**，循环一个简单的 **Dm7-G7-Cmaj7** 进行。想象键盘上有三盏信号灯：**绿色** 音很安全，**黄色** 音负责制造运动，**红色** 音则要求你聪明地解决。今天的任务，是把音阶练习变成和声意识，而不是手指交通堵塞。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Green pass – Stable landings\nFor two minutes, improvise only with notes that feel strongly connected to each chord. On **Dm7**, favor **D, F, A, C**. On **G7**, favor **G, B, D, F**. On **Cmaj7**, favor **C, E, G, B**. Move slowly enough that you can hear each landing note actually agree with the harmony.",
+          "pt-BR": "## Passe verde – Chegadas estáveis\nPor dois minutos, improvise apenas com notas que soem fortemente conectadas a cada acorde. Em **Dm7**, favoreça **D, F, A, C**. Em **G7**, favoreça **G, B, D, F**. Em **Cmaj7**, favoreça **C, E, G, B**. Vá devagar o bastante para realmente ouvir cada nota de chegada concordando com a harmonia.",
+          "es": "## Pase verde – Aterrizajes estables\nDurante dos minutos, improvisa solo con notas que se sientan fuertemente conectadas con cada acorde. En **Dm7**, favorece **D, F, A, C**. En **G7**, favorece **G, B, D, F**. En **Cmaj7**, favorece **C, E, G, B**. Ve lo bastante lento como para oír que cada nota de llegada realmente está de acuerdo con la armonía.",
+          "de": "## Grünphase – Stabile Landungen\nImprovisiere zwei Minuten lang nur mit Tönen, die sich stark mit dem jeweiligen Akkord verbinden. Über **Dm7** bevorzuge **D, F, A, C**. Über **G7** bevorzuge **G, B, D, F**. Über **Cmaj7** bevorzuge **C, E, G, B**. Spiele langsam genug, dass du wirklich hörst, wie jeder Zielton mit der Harmonie übereinstimmt.",
+          "ja": "## 緑パス – 安定した着地\n2分間、各コードと強く結びつく音だけで即興します。**Dm7** では **D, F, A, C**、**G7** では **G, B, D, F**、**Cmaj7** では **C, E, G, B** を優先しましょう。各着地音が本当にハーモニーに合っていると耳で確認できるくらい、ゆっくり弾いてください。",
+          "zh-Hans": "## 绿灯通行 – 稳定落点\n先用两分钟，只用那些和每个和弦强烈相关的音来即兴。到了 **Dm7**，优先 **D、F、A、C**；到了 **G7**，优先 **G、B、D、F**；到了 **Cmaj7**，优先 **C、E、G、B**。速度要慢到你真的能听见每个落点音都和和声站在一起。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Yellow pass – Motion with purpose\nNow add passing notes from the parent scale, but only if they push you toward a clear destination. A yellow note is not a wrong note — it is a traveling note. If a line sounds blurry, stop and ask which note was supposed to be the arrival and which note was just the bridge.",
+          "pt-BR": "## Passe amarelo – Movimento com propósito\nAgora adicione notas de passagem da escala-mãe, mas só se elas empurrarem você para um destino claro. Uma nota amarela não é nota errada — é nota viajante. Se a linha soar borrada, pare e pergunte qual nota era a chegada e qual estava só construindo a ponte.",
+          "es": "## Pase amarillo – Movimiento con propósito\nAhora añade notas de paso de la escala madre, pero solo si te empujan hacia un destino claro. Una nota amarilla no es una nota mala: es una nota viajera. Si la línea suena borrosa, detente y pregúntate cuál nota era la llegada y cuál solo era el puente.",
+          "de": "## Gelbphase – Bewegung mit Ziel\nFüge jetzt Durchgangstöne aus der Grundskala hinzu, aber nur, wenn sie dich zu einem klaren Ziel tragen. Ein gelber Ton ist kein falscher Ton — er ist ein Reiseton. Wenn eine Linie verschwommen klingt, halte an und frage dich, welcher Ton ankommen sollte und welcher nur die Brücke war.",
+          "ja": "## 黄パス – 目的のある動き\n次に親スケールの経過音を加えますが、はっきりした行き先へ押し出す場合だけ使います。黄色の音は間違いではなく、移動中の音です。ラインがぼやけて聞こえたら、どの音が到着点で、どの音が橋渡しだったのかを止まって確認しましょう。",
+          "zh-Hans": "## 黄灯通行 – 有目的的运动\n现在加入来自母音阶的经过音，但前提是它们真的把你推向一个明确终点。黄色音不是错音，而是“路过音”。如果一条线听起来发糊，就停下来问：哪个音本来是终点，哪个音只是桥梁？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Red pass – Tension with a plan\nChoose one tension moment in each chord: maybe **E** over Dm7, **C** sharp as a chromatic pickup into D, or **F** sharp pulling into G. The rule is simple: every red note must resolve on purpose within a beat or two. Tension is fun when it behaves like drama, not like confusion.",
+          "pt-BR": "## Passe vermelho – Tensão com plano\nEscolha um momento de tensão em cada acorde: talvez **E** sobre Dm7, **C#** como cromatismo chegando em D, ou **F#** puxando para G. A regra é simples: toda nota vermelha precisa resolver de propósito em um ou dois tempos. Tensão é divertida quando funciona como drama, não como confusão.",
+          "es": "## Pase rojo – Tensión con plan\nElige un momento de tensión en cada acorde: quizá **E** sobre Dm7, **C#** como cromatismo hacia D, o **F#** tirando hacia G. La regla es simple: cada nota roja debe resolver con intención en uno o dos tiempos. La tensión es divertida cuando se comporta como drama y no como confusión.",
+          "de": "## Rotphase – Spannung mit Plan\nWähle pro Akkord einen Spannungsmoment: vielleicht **E** über Dm7, **C#** als chromatischer Vorhalt nach D oder **F#**, das nach G zieht. Die Regel ist einfach: Jeder rote Ton muss sich innerhalb von ein oder zwei Schlägen bewusst auflösen. Spannung macht Spaß, wenn sie wie Drama wirkt und nicht wie Verwirrung.",
+          "ja": "## 赤パス – 計画された緊張\n各コードでひとつ緊張の瞬間を選びます。たとえば Dm7 上の **E**、D に向かうクロマチックな **C#**、または G に引っ張る **F#** です。ルールは簡単で、すべての赤い音は1〜2拍以内に意図を持って解決しなければなりません。緊張は、混乱ではなくドラマとして機能するときに面白くなります。",
+          "zh-Hans": "## 红灯通行 – 有计划的紧张\n每个和弦选一个紧张时刻：比如 Dm7 上的 **E**、通向 D 的半音 **C#**，或者拉向 G 的 **F#**。规则很简单：每个红色音都必须在一两拍内有意识地解决。紧张感在像戏剧时很好玩，像混乱时就不好玩了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Final chorus – Three colors, one sentence\nPlay an **8-bar study** through the progression and use all three colors. In every two-bar phrase, include one green landing, one yellow connector, and one red tension that resolves cleanly. If your line sounds singable and the chord changes feel easier to predict, your scales are starting to serve the music.",
+          "pt-BR": "## Chorus final – Três cores, uma frase\nToque um **estudo de 8 compassos** na progressão usando as três cores. Em cada frase de dois compassos, inclua uma chegada verde, um conector amarelo e uma tensão vermelha que resolva com clareza. Se sua linha soar cantável e as mudanças de acorde parecerem mais previsíveis, suas escalas estão começando a servir à música.",
+          "es": "## Coro final – Tres colores, una frase\nToca un **estudio de 8 compases** sobre la progresión usando los tres colores. En cada frase de dos compases, incluye un aterrizaje verde, un conector amarillo y una tensión roja que resuelva claramente. Si tu línea se puede cantar y los cambios de acorde parecen más fáciles de prever, tus escalas empiezan a servir a la música.",
+          "de": "## Schlusschorus – Drei Farben, ein Satz\nSpiele eine **8-taktige Studie** über die Progression und benutze alle drei Farben. In jeder 2-Takt-Phrase soll es eine grüne Landung, einen gelben Verbinder und eine rote Spannung mit sauberer Auflösung geben. Wenn deine Linie singbar klingt und die Akkordwechsel leichter vorhersehbar wirken, dienen deine Skalen langsam der Musik.",
+          "ja": "## 最終コーラス – 3色で1つの文\n進行に対して **8小節のスタディ** を弾き、3色すべてを使ってください。2小節ごとのフレーズに、緑の着地1つ、黄色のつなぎ1つ、きれいに解決する赤い緊張1つを入れます。ラインが歌えそうに聞こえ、コードチェンジの予測がしやすくなったら、あなたのスケールは音楽に仕え始めています。",
+          "zh-Hans": "## 最终乐句 – 三种颜色，一句话\n围绕这个进行弹一个 **8小节练习**，并把三种颜色都用上。每个 2 小节乐句里，都要有一个绿色落点、一个黄色连接音，以及一个能干净解决的红色紧张音。如果你的线条开始变得可歌唱，而且和弦变化更容易预测，那你的音阶终于开始为音乐服务了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-03T00:08:12Z",
+  "updatedAt": "2026-07-03T00:08:12Z"
+}
