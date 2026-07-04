@@ -1,0 +1,99 @@
+{
+  "id": "e-minor-finger-lanterns",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine each fingering choice is a lantern on a dark keyboard path. Your mission is to travel through E natural minor so clearly that every hand move lights the next step.",
+          "pt-BR": "Imagine que cada escolha de dedilhado é uma lanterna em um caminho escuro no teclado. Sua missão é atravessar Mi menor natural com tanta clareza que cada movimento da mão ilumine o próximo passo.",
+          "es": "Imagina que cada elección de digitación es un farol en un camino oscuro del teclado. Tu misión es recorrer Mi menor natural con tanta claridad que cada movimiento de la mano ilumine el siguiente paso.",
+          "de": "Stell dir jeden Fingersatz wie eine Laterne auf einem dunklen Weg über die Tasten vor. Deine Mission ist es, durch e-Moll natürlich so klar zu gehen, dass jede Handbewegung den nächsten Schritt beleuchtet.",
+          "ja": "それぞれの指使いを、暗い鍵盤の道に置かれたランタンだと思ってみよう。今日の任務は、Eナチュラルマイナーをはっきり進み、手の動きごとに次の一歩を照らすことだ。",
+          "zh-Hans": "把每一次指法选择都想成黑暗键盘路上的一盏灯笼。今天你的任务是清楚地走过E自然小调，让每次手部动作都照亮下一步。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: right hand only, play E–F#–G–A slowly and reset. Left hand only, answer with B–A–G–F# descending so both hands feel where the route bends.",
+          "pt-BR": "Aquecimento: só mão direita, toque Mi–Fá#–Sol–Lá devagar e reinicie. Só mão esquerda, responda com Si–Lá–Sol–Fá# descendo para que as duas mãos sintam onde a rota faz a curva.",
+          "es": "Calentamiento: solo mano derecha, toca Mi–Fa#–Sol–La lentamente y reinicia. Solo mano izquierda, responde con Si–La–Sol–Fa# descendiendo para que ambas manos sientan dónde se dobla la ruta.",
+          "de": "Aufwärmen: Nur rechte Hand, spiele E–F#–G–A langsam und setze neu an. Nur linke Hand, antworte abwärts mit H–A–G–F#, damit beide Hände spüren, wo die Route abbiegt.",
+          "ja": "ウォームアップ：右手だけでE–F#–G–Aをゆっくり弾いてリセットする。左手だけでB–A–G–F#と下行し、両手がどこで道を曲がるか感じよう。",
+          "zh-Hans": "热身：只用右手慢慢弹E–F#–G–A，然后重来。只用左手下行弹B–A–G–F#，让两只手都感觉到路线在哪里转弯。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: play one octave of E natural minor hands separate at 70 bpm. Keep the fingers curved and let the thumb move early instead of diving at the last second.",
+          "pt-BR": "Exercício principal: toque uma oitava de Mi menor natural com mãos separadas a 70 bpm. Mantenha os dedos curvos e deixe o polegar se mover cedo em vez de mergulhar no último segundo.",
+          "es": "Ejercicio principal: toca una octava de Mi menor natural con manos separadas a 70 bpm. Mantén los dedos curvos y deja que el pulgar se mueva pronto en vez de lanzarse en el último segundo.",
+          "de": "Hauptübung: Spiele eine Oktave e-Moll natürlich mit getrennten Händen bei 70 bpm. Halte die Finger rund und bewege den Daumen früh, statt ihn in letzter Sekunde hineinzuschicken.",
+          "ja": "メイン練習：70 bpmでEナチュラルマイナー1オクターブを片手ずつ弾く。指は丸く保ち、親指は最後に飛び込ませず早めに動かす。",
+          "zh-Hans": "主练习：用70 bpm把一组八度的E自然小调分手练习。手指保持弯曲，拇指要提前移动，不要等到最后一秒才钻过去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lantern checkpoint: every time you reach E or B, hold it for one extra beat and notice whether your hand feels balanced. If the wrist lifts too much, reset and try again softer.",
+          "pt-BR": "Checkpoint da lanterna: toda vez que chegar em Mi ou Si, segure por um tempo extra e perceba se a mão está equilibrada. Se o pulso levantar demais, reinicie e tente de novo mais suave.",
+          "es": "Checkpoint del farol: cada vez que llegues a Mi o Si, sostén un pulso extra y nota si la mano se siente equilibrada. Si la muñeca se levanta demasiado, reinicia y prueba otra vez más suave.",
+          "de": "Laternen-Checkpoint: Jedes Mal, wenn du E oder H erreichst, halte den Ton einen Schlag länger und spüre, ob die Hand im Gleichgewicht bleibt. Wenn das Handgelenk zu stark hochkommt, setze neu an und spiele weicher.",
+          "ja": "ランタン・チェックポイント：EかBに着くたびに1拍長く保ち、手のバランスを確かめる。手首が上がりすぎるなら、もっとやわらかく弾き直そう。",
+          "zh-Hans": "灯笼检查点：每次到达E或B时，多保持一拍，并注意手是否平衡。如果手腕抬得太高，就重来一遍并弹得更柔和。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Dynamic challenge: ascend mezzo-piano and descend mezzo-forte. Keep the tone even so the change in volume feels intentional, not accidental.",
+          "pt-BR": "Desafio de dinâmica: suba em mezzo-piano e desça em mezzo-forte. Mantenha o timbre uniforme para que a mudança de volume soe intencional, não acidental.",
+          "es": "Desafío dinámico: asciende en mezzo-piano y desciende en mezzo-forte. Mantén el tono parejo para que el cambio de volumen suene intencional y no accidental.",
+          "de": "Dynamik-Challenge: Aufwärts in mezzo-piano, abwärts in mezzo-forte. Halte den Ton gleichmäßig, damit der Lautstärkeunterschied absichtlich und nicht zufällig klingt.",
+          "ja": "ダイナミクス課題：上行はメゾピアノ、下行はメゾフォルテで弾く。音量差が偶然ではなく意図に聞こえるよう、音色は均一に保つ。",
+          "zh-Hans": "力度挑战：上行用mezzo-piano，下行用mezzo-forte。保持音色均匀，让音量变化听起来是故意设计的，而不是意外。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Two-hand story: play hands together for one octave, then answer with a tiny 3-note phrase using only E, G, and B. Make it sound like the scale opened a door and the phrase walked through.",
+          "pt-BR": "História com duas mãos: toque uma oitava com as mãos juntas e responda com uma pequena frase de 3 notas usando apenas Mi, Sol e Si. Faça soar como se a escala abrisse uma porta e a frase atravessasse.",
+          "es": "Historia a dos manos: toca una octava con ambas manos y responde con una pequeña frase de 3 notas usando solo Mi, Sol y Si. Haz que suene como si la escala abriera una puerta y la frase cruzara.",
+          "de": "Zwei-Hand-Geschichte: Spiele eine Oktave mit beiden Händen zusammen und antworte dann mit einer kleinen 3-Ton-Phrase nur aus E, G und H. Es soll klingen, als hätte die Tonleiter eine Tür geöffnet und die Phrase wäre hindurchgegangen.",
+          "ja": "両手ストーリー：両手で1オクターブ弾いたあと、E、G、Bだけを使った3音の小さなフレーズで返答する。音階が扉を開け、そのフレーズが中へ歩いたように聞かせよう。",
+          "zh-Hans": "双手故事：双手一起弹完一组八度后，只用E、G、B回应一个3音小乐句。让它听起来像音阶打开了一扇门，而这个乐句走了进去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish test: if the fingering stays smooth and the sound stays calm, raise the metronome by 4 bpm. If one thumb crossing bumps the line, isolate that corner before running the full path again.",
+          "pt-BR": "Teste final: se o dedilhado continuar suave e o som continuar calmo, aumente o metrônomo em 4 bpm. Se algum cruzamento de polegar bater na linha, isole esse canto antes de percorrer o caminho inteiro outra vez.",
+          "es": "Prueba final: si la digitación sigue suave y el sonido sigue calmado, sube el metrónomo 4 bpm. Si algún cruce de pulgar golpea la línea, aísla esa esquina antes de recorrer el camino completo otra vez.",
+          "de": "Abschlusstest: Wenn der Fingersatz glatt bleibt und der Klang ruhig bleibt, erhöhe das Metronom um 4 bpm. Wenn ein Daumenwechsel die Linie stößt, isoliere zuerst genau diese Ecke.",
+          "ja": "仕上げテスト：指使いがなめらかで音も落ち着いているなら、メトロノームを4 bpm上げる。親指の交差がどこかでぶつかるなら、まずその角だけ切り出して直そう。",
+          "zh-Hans": "收尾测试：如果指法依然顺滑、声音依然平静，就把节拍器提高4 bpm。如果某个拇指交叉把线条撞断了，先把那个角落单独拿出来修好。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-04T00:10:12Z",
+  "updatedAt": "2026-07-04T00:10:12Z"
+}

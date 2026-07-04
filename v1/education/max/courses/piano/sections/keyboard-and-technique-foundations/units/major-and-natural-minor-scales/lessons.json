@@ -334,5 +334,33 @@
     "order": 12,
     "createdAt": "2026-07-02T00:06:58Z",
     "updatedAt": "2026-07-02T00:06:58Z"
+  },
+  {
+    "id": "e-minor-finger-lanterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "E Minor Finger Lanterns",
+        "pt-BR": "Lanternas de Dedilhado em Mi Menor",
+        "es": "Faroles de Digitación en Mi Menor",
+        "de": "Fingersatz-Laternen in e-Moll",
+        "ja": "Eマイナー指使いランタン",
+        "zh-Hans": "E小调指法灯笼"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up the E natural minor scale with fingering checkpoints, dynamic contrast, and a short two-hand story.",
+        "pt-BR": "Ilumine a escala de Mi menor natural com checkpoints de dedilhado, contraste dinâmico e uma pequena história com duas mãos.",
+        "es": "Ilumina la escala de Mi menor natural con checkpoints de digitación, contraste dinámico y una pequeña historia a dos manos.",
+        "de": "Erhelle die natürliche e-Moll-Tonleiter mit Fingersatz-Checkpoints, Dynamik-Kontrasten und einer kurzen Zwei-Hand-Geschichte.",
+        "ja": "指使いのチェックポイント、ダイナミクスの対比、短い両手ストーリーでEナチュラルマイナーを照らそう。",
+        "zh-Hans": "用指法检查点、力度对比和一段双手小故事，点亮E自然小调。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-07-04T00:10:12Z",
+    "updatedAt": "2026-07-04T00:10:12Z"
   }
 ]

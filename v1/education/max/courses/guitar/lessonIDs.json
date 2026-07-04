@@ -29,6 +29,7 @@
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/g-major-box-shift-game",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/e-minor-rescue-route",
     "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/d-major-string-crossing-quest",
+    "guitar/guitar-fretboard-foundations/major-and-natural-minor-basics/b-minor-escape-route",
     "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/a-minor-pentatonic-box-1",
     "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/a-minor-pentatonic-boxes-2-and-3",
     "guitar/guitar-pentatonic-and-blues-power/minor-pentatonic-shapes/linking-boxes-1-3-across-the-neck",
@@ -130,5 +131,5 @@
     "guitar/guitar-applying-scales-in-improvisation/practice-routines-and-etudes/guitar-echo-ladder-etude"
   ],
   "createdAt": "2025-12-01T00:00:00Z",
-  "updatedAt": "2026-07-03T00:07:17Z"
+  "updatedAt": "2026-07-04T00:07:51Z"
 }

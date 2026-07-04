@@ -306,5 +306,33 @@
     "order": 11,
     "createdAt": "2026-07-02T00:06:57Z",
     "updatedAt": "2026-07-02T00:06:57Z"
+  },
+  {
+    "id": "d-major-pocket-climb",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Major Pocket Climb",
+        "pt-BR": "Subida de Pocket em Ré Maior",
+        "es": "Ascenso de Pocket en Re Mayor",
+        "de": "Pocket-Aufstieg in D-Dur",
+        "ja": "Dメジャー・ポケットクライム",
+        "zh-Hans": "D大调律动攀登"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb through D major on bass with groove checkpoints, octave pivots, and a riff-building challenge.",
+        "pt-BR": "Suba pela escala de Ré maior no baixo com checkpoints de groove, pivôs de oitava e um desafio de construção de riff.",
+        "es": "Sube por Re mayor en el bajo con checkpoints de groove, pivotes de octava y un reto para construir un riff.",
+        "de": "Steige auf dem Bass durch D-Dur mit Groove-Checkpoints, Oktav-Pivots und einer Riff-Challenge.",
+        "ja": "グルーヴのチェックポイント、オクターブ支点、リフ作りチャレンジでDメジャーを登ろう。",
+        "zh-Hans": "用律动检查点、八度支点和riff搭建挑战，在贝斯上爬过D大调。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-07-04T00:09:07Z",
+    "updatedAt": "2026-07-04T00:09:07Z"
   }
 ]

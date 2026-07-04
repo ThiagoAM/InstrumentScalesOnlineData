@@ -222,5 +222,33 @@
     "order": 8,
     "createdAt": "2026-07-02T00:06:57Z",
     "updatedAt": "2026-07-02T00:06:57Z"
+  },
+  {
+    "id": "b-minor-escape-route",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "B Minor Escape Route",
+        "pt-BR": "Rota de Fuga em Si Menor",
+        "es": "Ruta de Escape en Si Menor",
+        "de": "Fluchtroute in h-Moll",
+        "ja": "Bマイナー脱出ルート",
+        "zh-Hans": "B小调逃生路线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Steer the B natural minor scale through anchors, string changes, and a tiny improv escape mission.",
+        "pt-BR": "Guie a escala de Si menor natural por âncoras, trocas de corda e uma pequena missão de improviso.",
+        "es": "Guía la escala de Si menor natural entre anclas, cruces de cuerda y una pequeña misión de improvisación.",
+        "de": "Steuere die natürliche h-Moll-Tonleiter durch Ankerpunkte, Saitenwechsel und eine kleine Impro-Mission.",
+        "ja": "Bナチュラルマイナーをアンカーノート、弦移動、短い即興ミッションで導こう。",
+        "zh-Hans": "用锚点音、换弦和一段小即兴任务，带着B自然小调穿越出去。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-07-04T00:07:51Z",
+    "updatedAt": "2026-07-04T00:07:51Z"
   }
 ]
