@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-comet-boost",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Tonight you are the engine room. Your job is to make a G major groove feel so steady that the whole band could build a spaceship on top of it.",
+          "pt-BR": "Hoje à noite você é a sala de máquinas. Sua função é fazer um groove em Sol maior soar tão firme que a banda inteira poderia construir uma nave espacial em cima dele.",
+          "es": "Esta noche eres la sala de máquinas. Tu trabajo es hacer que un groove en Sol mayor sea tan estable que toda la banda podría construir una nave espacial encima.",
+          "de": "Heute Abend bist du der Maschinenraum. Deine Aufgabe ist es, einen Groove in G-Dur so stabil zu machen, dass die ganze Band darauf ein Raumschiff bauen könnte.",
+          "ja": "今夜あなたは機関室担当です。Gメジャーのグルーヴを、バンド全体がその上に宇宙船を作れそうなくらい安定させるのが仕事です。",
+          "zh-Hans": "今晚你就是动力舱。你的任务是把G大调groove做得稳到整个乐队都能在上面造宇宙飞船。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: play G–A–B–C–D–E–F#–G in quarter notes at 76 bpm. On the way down, say the scale degrees out loud so your fingers and your theory stay on speaking terms.",
+          "pt-BR": "Aquecimento: toque G–A–B–C–D–E–F#–G em semínimas a 76 bpm. Na descida, diga os graus da escala em voz alta para que seus dedos e sua teoria continuem se entendendo.",
+          "es": "Calentamiento: toca G–A–B–C–D–E–F#–G en negras a 76 bpm. Al bajar, di en voz alta los grados de la escala para que tus dedos y tu teoría sigan llevándose bien.",
+          "de": "Aufwärmen: Spiele G–A–B–C–D–E–F#–G in Vierteln bei 76 bpm. Beim Abstieg sprich die Stufen laut mit, damit sich deine Finger und deine Theorie weiter gut verstehen.",
+          "ja": "ウォームアップ：G–A–B–C–D–E–F#–G を 76 bpm の4分音符で弾きます。下るときはスケール度数を声に出し、指と理論の連携を保ちましょう。",
+          "zh-Hans": "热身：用76 bpm的四分音符弹 G–A–B–C–D–E–F#–G。下行时大声说出音级，让你的手指和乐理继续保持合作。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pocket boost drill: build a 1-bar groove using G on beat 1, D on beat 3, and one passing tone before each of them. Keep the line simple enough that the time feels heavy, not busy.",
+          "pt-BR": "Exercício de impulso do pocket: monte um groove de 1 compasso usando G no tempo 1, D no tempo 3 e uma nota de passagem antes de cada um deles. Mantenha a linha simples o bastante para o tempo soar pesado, não ocupado.",
+          "es": "Ejercicio de impulso del pocket: crea un groove de 1 compás usando G en el tiempo 1, D en el tiempo 3 y una nota de paso antes de cada uno. Mantén la línea lo bastante simple para que el tiempo pese y no se vea ocupado.",
+          "de": "Pocket-Schub-Übung: Baue einen 1-taktigen Groove mit G auf Zählzeit 1, D auf Zählzeit 3 und jeweils einer Durchgangsnote davor. Halte die Linie so einfach, dass die Zeit schwer und nicht überladen wirkt.",
+          "ja": "ポケット・ブーストドリル：1小節のグルーヴを作り、1拍目に G、3拍目に D、そしてそれぞれの前に経過音を1つ入れます。ラインはシンプルに保ち、忙しさよりも重さのあるタイムを目指します。",
+          "zh-Hans": "律动加速训练：写一个1小节groove，在第1拍放 G、第3拍放 D，并在它们前面各放一个经过音。让线条足够简单，这样听起来会是厚实的时间感，而不是忙乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Comet trail challenge: in the next round, switch the passing tones each bar. Try A into B, C into D, and F# into G, but keep your note lengths consistent so the groove does not wobble.",
+          "pt-BR": "Desafio da cauda do cometa: na próxima rodada, troque as notas de passagem a cada compasso. Tente A chegando em B, C chegando em D e F# chegando em G, mas mantenha a duração das notas consistente para o groove não balançar.",
+          "es": "Desafío de cola de cometa: en la siguiente vuelta, cambia las notas de paso en cada compás. Prueba A hacia B, C hacia D y F# hacia G, pero mantén la longitud de las notas consistente para que el groove no se tambalee.",
+          "de": "Kometenschweif-Challenge: Wechsle in der nächsten Runde die Durchgangsnoten in jedem Takt. Probiere A nach B, C nach D und F# nach G, aber halte die Notenlängen konstant, damit der Groove nicht wackelt.",
+          "ja": "彗星の尾チャレンジ：次の周回では、経過音を小節ごとに入れ替えます。A から B、C から D、F# から G を試しつつ、音価は一定にしてグルーヴが揺れないようにしましょう。",
+          "zh-Hans": "彗星尾巴挑战：下一轮里，每小节都换一下经过音。试试 A 到 B、C 到 D、F# 到 G，但保持每个音的时值一致，这样groove才不会摇晃。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pressure test: move the metronome to click only on beats 2 and 4. Play your groove for 8 bars without drifting ahead, and notice whether your plucking hand rushes when the space gets bigger.",
+          "pt-BR": "Teste de pressão: ajuste o metrônomo para clicar só nos tempos 2 e 4. Toque seu groove por 8 compassos sem adiantar e perceba se sua mão direita corre quando o espaço fica maior.",
+          "es": "Prueba de presión: ajusta el metrónomo para que marque solo los tiempos 2 y 4. Toca tu groove durante 8 compases sin adelantarte y observa si tu mano derecha corre cuando el espacio es mayor.",
+          "de": "Drucktest: Stelle das Metronom so ein, dass es nur auf 2 und 4 klickt. Spiele deinen Groove 8 Takte lang, ohne vorzueilen, und achte darauf, ob deine Zupfhand im größeren Raum zu hetzen beginnt.",
+          "ja": "プレッシャーテスト：メトロノームを 2拍目と4拍目だけ鳴る設定にします。8小節グルーヴを弾き、前のめりにならないようにしながら、右手が空間の広さで走らないか確認します。",
+          "zh-Hans": "压力测试：把节拍器调成只在第2拍和第4拍响。连续弹8小节，别往前冲，并观察当空间变大时，你的右手会不会开始抢拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Launch check: record one 8-bar take that sounds confident, round, and danceable. If the pocket stays locked, raise the tempo by 6 bpm and send the comet back into orbit.",
+          "pt-BR": "Checagem de lançamento: grave uma tomada de 8 compassos que soe confiante, redonda e dançante. Se o pocket continuar travado, aumente 6 bpm e mande o cometa de volta para a órbita.",
+          "es": "Chequeo de lanzamiento: graba una toma de 8 compases que suene segura, redonda y bailable. Si el pocket sigue firme, sube 6 bpm y manda el cometa otra vez a la órbita.",
+          "de": "Startkontrolle: Nimm einen 8-taktigen Take auf, der selbstbewusst, rund und tanzbar klingt. Wenn das Pocket fest bleibt, erhöhe um 6 bpm und schicke den Kometen wieder in die Umlaufbahn.",
+          "ja": "打ち上げ確認：自信があり、丸く、踊れる8小節のテイクを1本録音します。ポケットが保てたら、テンポを 6 bpm 上げて彗星をもう一度軌道へ戻しましょう。",
+          "zh-Hans": "发射检查：录下一段8小节演奏，要听起来自信、圆润、而且让人想动起来。如果 pocket 依然锁得很稳，就把速度提高 6 bpm，让这颗彗星再进一次轨道。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-05T00:08:27Z",
+  "updatedAt": "2026-07-05T00:08:27Z"
+}

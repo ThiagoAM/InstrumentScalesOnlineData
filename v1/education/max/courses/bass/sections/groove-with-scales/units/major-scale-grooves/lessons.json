@@ -1762,5 +1762,33 @@
     "order": 63,
     "createdAt": "2026-06-30T00:05:50Z",
     "updatedAt": "2026-06-30T00:05:50Z"
+  },
+  {
+    "id": "bass-pocket-comet-boost",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Comet Boost",
+        "pt-BR": "Impulso de Cometa no Pocket do Baixo",
+        "es": "Impulso de Cometa para el Pocket del Bajo",
+        "de": "Bass-Pocket mit Kometenschub",
+        "ja": "ベース・ポケット彗星ブースト",
+        "zh-Hans": "贝斯律动彗星加速"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch a major-scale groove with roots, passing tones, and pocket control that survives tempo pressure.",
+        "pt-BR": "Lance um groove em Sol maior com tônicas, notas de passagem e controle de pocket que aguenta pressão de andamento.",
+        "es": "Lanza un groove en Sol mayor con tónicas, notas de paso y control del pocket que resista la presión del tempo.",
+        "de": "Starte einen Groove in G-Dur mit Grundtönen, Durchgangsnoten und einem Pocket, das auch unter Tempodruck hält.",
+        "ja": "Gメジャースケールで、ルート音・経過音・テンポ圧に耐えるポケット感を使ったグルーヴを打ち上げます。",
+        "zh-Hans": "用G大调音阶打造一条带有根音、经过音和稳定律动感的贝斯线，在速度压力下也不散。"
+      }
+    },
+    "order": 64,
+    "createdAt": "2026-07-05T00:08:27Z",
+    "updatedAt": "2026-07-05T00:08:27Z"
   }
 ]

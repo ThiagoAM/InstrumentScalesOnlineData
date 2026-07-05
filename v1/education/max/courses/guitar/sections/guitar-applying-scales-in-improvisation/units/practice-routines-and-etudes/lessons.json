@@ -642,5 +642,33 @@
     "order": 23,
     "createdAt": "2026-07-03T00:07:17Z",
     "updatedAt": "2026-07-03T00:07:17Z"
+  },
+  {
+    "id": "guitar-rhythm-trapdoor-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Trapdoor Run",
+        "pt-BR": "Corrida das Armadilhas Rítmicas na Guitarra",
+        "es": "Carrera de Trampillas Rítmicas en Guitarra",
+        "de": "Gitarrenlauf mit Rhythmus-Falltüren",
+        "ja": "ギター・リズム落とし穴ラン",
+        "zh-Hans": "吉他节奏陷门冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Dodge rhythmic trapdoors with the A minor pentatonic while building timing, accents, and recovery skills.",
+        "pt-BR": "Desvie de armadilhas rítmicas com a pentatônica de Lá menor enquanto desenvolve tempo, acentuação e recuperação.",
+        "es": "Esquiva trampillas rítmicas con la pentatónica de La menor mientras desarrollas pulso, acentos y capacidad de recuperación.",
+        "de": "Weiche rhythmischen Falltüren mit der A-Moll-Pentatonik aus und trainiere Timing, Akzente und Erholung nach kleinen Fehlern.",
+        "ja": "Aマイナーペンタトニックでリズムの落とし穴をかわしながら、タイム感・アクセント・立て直し力を鍛えます。",
+        "zh-Hans": "用A小调五声音阶躲开节奏陷门，同时建立节拍感、重音控制和失误恢复能力。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-07-05T00:06:42Z",
+    "updatedAt": "2026-07-05T00:06:42Z"
   }
 ]

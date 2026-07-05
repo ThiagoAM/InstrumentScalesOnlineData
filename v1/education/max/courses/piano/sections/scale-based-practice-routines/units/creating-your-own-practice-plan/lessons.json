@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-06-22T00:11:03Z",
     "updatedAt": "2026-06-22T00:11:03Z"
+  },
+  {
+    "id": "piano-checkpoint-castle",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Checkpoint Castle",
+        "pt-BR": "Castelo dos Checkpoints no Piano",
+        "es": "Castillo de Checkpoints para Piano",
+        "de": "Klavier-Checkpoint-Burg",
+        "ja": "ピアノ・チェックポイント城",
+        "zh-Hans": "钢琴检查点城堡"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a practice castle in D major with checkpoints for fingering, balance, memory, and musical control.",
+        "pt-BR": "Construa um castelo de estudo em Ré maior com checkpoints de digitação, equilíbrio, memória e controle musical.",
+        "es": "Construye un castillo de práctica en Re mayor con checkpoints de digitación, equilibrio, memoria y control musical.",
+        "de": "Baue eine Übungsburg in D-Dur mit Checkpoints für Fingersatz, Balance, Gedächtnis und musikalische Kontrolle.",
+        "ja": "Dメジャーで、運指・バランス・記憶・音楽的コントロールのチェックポイントを持つ練習の城を作ります。",
+        "zh-Hans": "在D大调中搭建一座练习城堡，设置运指、平衡、记忆和音乐控制四个检查点。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-07-05T00:09:39Z",
+    "updatedAt": "2026-07-05T00:09:39Z"
   }
 ]
