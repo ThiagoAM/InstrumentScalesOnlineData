@@ -1,0 +1,86 @@
+{
+  "id": "guitar-landing-zones-etude",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today your guitar solo is not allowed to wander. It needs **landing zones**. Use an **A minor pentatonic** backing track, set a timer for **10 minutes**, and decide that every phrase must land on purpose instead of drifting until you run out of fingers.",
+          "pt-BR": "Hoje seu solo de guitarra não pode passear sem rumo. Ele precisa de **zonas de pouso**. Use um playback em **pentatônica de Lá menor**, marque **10 minutos** no relógio e decida que cada frase vai pousar de propósito, em vez de escorregar até seus dedos acabarem.",
+          "es": "Hoy tu solo de guitarra no puede vagar sin rumbo. Necesita **zonas de aterrizaje**. Usa una base de **pentatónica menor de La**, pon un temporizador de **10 minutos** y decide que cada frase debe aterrizar con intención en lugar de deslizarse hasta que se te acaben los dedos.",
+          "de": "Heute darf dein Gitarrensolo nicht ziellos herumirren. Es braucht **Landezonen**. Nimm einen Backing Track in **A-Moll-Pentatonik**, stelle einen Timer auf **10 Minuten** und entscheide, dass jede Phrase bewusst landen muss, statt einfach auszulaufen.",
+          "ja": "今日のギターソロは、たださまよってはいけません。必要なのは **着地ポイント** です。**Aマイナーペンタトニック** のバッキングを使い、**10分** のタイマーをセットして、どのフレーズも指が止まるまで流すのではなく、狙って着地させると決めましょう。",
+          "zh-Hans": "今天你的吉他独奏不许乱逛。它必须有 **落点区**。找一条 **A小调五声音阶** 的伴奏，设定 **10分钟** 计时器，然后决定：每一句都要有意识地落下，而不是一路滑到手指没词可说。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a warm-up map. Play the **A minor pentatonic** in two nearby positions, then mark three safe landing notes: **A**, **C**, and **E**. Play short phrases of only **3 to 5 notes** and stop on one of those targets every time. If the stop sounds weak, hold the note longer or add a small bend or vibrato.",
+          "pt-BR": "Comece com um mapa de aquecimento. Toque a **pentatônica de Lá menor** em duas posições próximas e marque três notas seguras de chegada: **Lá**, **Dó** e **Mi**. Toque frases curtas de apenas **3 a 5 notas** e pare sempre em um desses alvos. Se a parada soar fraca, sustente mais a nota ou acrescente um pequeno bend ou vibrato.",
+          "es": "Empieza con un mapa de calentamiento. Toca la **pentatónica menor de La** en dos posiciones cercanas y marca tres notas seguras de llegada: **La**, **Do** y **Mi**. Toca frases cortas de solo **3 a 5 notas** y termina siempre en uno de esos objetivos. Si la llegada suena débil, sostén la nota más tiempo o añade un pequeño bend o vibrato.",
+          "de": "Beginne mit einer Warm-up-Karte. Spiele die **A-Moll-Pentatonik** in zwei nahen Positionen und markiere drei sichere Landetöne: **A**, **C** und **E**. Spiele kurze Phrasen mit nur **3 bis 5 Tönen** und stoppe jedes Mal auf einem dieser Ziele. Wenn die Landung schwach klingt, halte den Ton länger oder gib ihm ein kleines Bend oder Vibrato.",
+          "ja": "まずはウォームアップ用の地図を作ります。**Aマイナーペンタトニック** を近い2つのポジションで弾き、着地しやすい3つの音 **A**、**C**、**E** を決めます。**3〜5音** だけの短いフレーズを作り、毎回そのどれかで止めてください。止まり方が弱ければ、少し長く伸ばすか、小さなチョーキングやビブラートを足します。",
+          "zh-Hans": "先做一张热身地图。用两个相邻把位弹 **A小调五声音阶**，然后标出三个安全落点：**A**、**C**、**E**。每次只弹 **3到5个音** 的短句，并且一定停在这三个目标之一。如果停下来还不够有力，就把音拉长一点，或者加一点推弦、揉弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now create a rule that makes the etude harder: phrase 1 must start on beat **1**, phrase 2 on the **& of 2**, phrase 3 after a **rest**, and phrase 4 with a **slide into the first note**. Same scale, different entrances. This is how you stop sounding like a scale machine.",
+          "pt-BR": "Agora crie uma regra para deixar o estudo mais difícil: a frase 1 deve começar no tempo **1**, a frase 2 no **& do 2**, a frase 3 depois de uma **pausa**, e a frase 4 com um **slide para a primeira nota**. A escala é a mesma, mas as entradas mudam. É assim que você deixa de soar como uma máquina de escalas.",
+          "es": "Ahora crea una regla que haga el estudio más difícil: la frase 1 debe empezar en el tiempo **1**, la frase 2 en el **& de 2**, la frase 3 después de un **silencio**, y la frase 4 con un **slide hacia la primera nota**. La escala es la misma, pero las entradas cambian. Así dejas de sonar como una máquina de escalas.",
+          "de": "Jetzt kommt eine Regel, die die Etüde schwerer macht: Phrase 1 beginnt auf Zählzeit **1**, Phrase 2 auf dem **& von 2**, Phrase 3 nach einer **Pause**, und Phrase 4 mit einem **Slide in den ersten Ton**. Dieselbe Skala, aber andere Einstiege. So klingst du nicht mehr wie eine Skalenmaschine.",
+          "ja": "次はエチュードを難しくするルールです。フレーズ1は **1拍目** から、フレーズ2は **2拍目裏** から、フレーズ3は **休符の後** から、フレーズ4は **最初の音へスライドして** 始めます。同じスケールでも入り口を変えることで、スケール機械のような響きから抜け出せます。",
+          "zh-Hans": "接着加一条会让练习变难的规则：第1句从 **第1拍** 开始，第2句从 **第2拍后半拍** 开始，第3句在一个 **休止之后** 开始，第4句用 **滑音进入第一个音**。音阶没变，但入口变了。这样你就不会再像一台音阶机器。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, build a two-bar conversation. In bar 1, play a short question that climbs. In bar 2, answer it by landing on a lower target note with more space. Repeat the pair three times, but change only one detail each round: rhythm, ending note, or articulation. Small edits teach real phrasing.",
+          "pt-BR": "Em seguida, monte uma conversa de dois compassos. No compasso 1, toque uma pergunta curta que sobe. No compasso 2, responda pousando em uma nota-alvo mais grave e com mais espaço. Repita o par três vezes, mas mude só um detalhe por rodada: ritmo, nota final ou articulação. Pequenas edições ensinam fraseado de verdade.",
+          "es": "Después, construye una conversación de dos compases. En el compás 1, toca una pregunta corta que suba. En el compás 2, respóndela aterrizando en una nota objetivo más grave y con más espacio. Repite el par tres veces, pero cambia solo un detalle en cada vuelta: ritmo, nota final o articulación. Los cambios pequeños enseñan fraseo real.",
+          "de": "Baue als Nächstes ein Gespräch über zwei Takte. In Takt 1 spielst du eine kurze aufsteigende Frage. In Takt 2 antwortest du mit einem tieferen Zielton und mehr Raum. Wiederhole das Paar dreimal, ändere aber pro Runde nur ein Detail: Rhythmus, Endton oder Artikulation. Kleine Änderungen lehren echtes Phrasing.",
+          "ja": "続いて2小節の会話を作ります。1小節目では上に向かう短い質問を弾きます。2小節目では、もっと低いターゲット音に着地し、スペースを多めに使って答えます。この組み合わせを3回くり返し、毎回変えるのは1つだけにしてください。リズム、終わりの音、またはアーティキュレーションです。小さな変更が本物のフレージングを育てます。",
+          "zh-Hans": "然后做一段两小节对话。第1小节弹一个向上爬的短问题。第2小节用更低的目标音、更多留白来回答它。把这一对句子重复三次，但每次只改一个细节：节奏、结束音，或者发音方式。小改动，最能教会你真正的乐句感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the challenge round, ban one of your favorite notes for two full minutes. If you always lean on **A**, remove it. If you always bend **C**, avoid it. Your job is to survive musically, find new routes, and still land clearly on the beat.",
+          "pt-BR": "Na rodada de desafio, proíba uma das suas notas favoritas por dois minutos inteiros. Se você sempre se apoia no **Lá**, tire-o. Se você sempre faz bend no **Dó**, evite-o. Sua missão é sobreviver musicalmente, encontrar rotas novas e ainda pousar com clareza no tempo.",
+          "es": "En la ronda de desafío, prohíbete una de tus notas favoritas durante dos minutos completos. Si siempre te apoyas en **La**, elimínala. Si siempre haces bend en **Do**, evítalo. Tu tarea es sobrevivir musicalmente, encontrar rutas nuevas y seguir aterrizando con claridad en el pulso.",
+          "de": "In der Challenge-Runde verbietest du dir zwei volle Minuten lang einen deiner Lieblingstöne. Wenn du immer auf **A** landest, streich ihn. Wenn du immer **C** biegst, meide es. Deine Aufgabe ist es, musikalisch zu überleben, neue Wege zu finden und trotzdem klar im Puls zu landen.",
+          "ja": "チャレンジ・ラウンドでは、好きな音を2分間ひとつ禁止します。いつも **A** に頼るなら外してください。いつも **C** をチョーキングするなら、それも封印です。新しいルートを探しながら、音楽的に生き残り、それでも拍の中に明確に着地するのがミッションです。",
+          "zh-Hans": "挑战回合里，禁止自己最喜欢的一颗音两整分钟。如果你总是落在 **A**，就先把它拿掉。如果你总爱推 **C**，那也先别碰。你的任务是：在音乐上活下来，找到新路线，同时依旧能清楚地落回拍子里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording one **30-second mini solo**. Give yourself three checkpoints: **Did I hear clear landing notes? Did my rhythms vary? Did at least one phrase answer another phrase?** If two answers are yes, the lesson worked. If not, you just found tomorrow's mission.",
+          "pt-BR": "Para terminar, grave um **mini solo de 30 segundos**. Faça três checkpoints: **Ouvi notas de chegada claras? Variei os ritmos? Pelo menos uma frase respondeu à outra?** Se duas respostas forem sim, a lição funcionou. Se não, você acabou de descobrir a missão de amanhã.",
+          "es": "Termina grabando un **mini solo de 30 segundos**. Hazte tres checkpoints: **¿Escuché notas de llegada claras? ¿Varié los ritmos? ¿Al menos una frase respondió a otra?** Si dos respuestas son sí, la lección funcionó. Si no, acabas de encontrar la misión de mañana.",
+          "de": "Zum Schluss nimm ein **30-sekündiges Mini-Solo** auf. Gib dir drei Checkpoints: **Habe ich klare Landezonen gehört? Haben sich meine Rhythmen verändert? Hat mindestens eine Phrase auf eine andere geantwortet?** Wenn zwei Antworten Ja sind, hat die Lektion funktioniert. Wenn nicht, kennst du jetzt schon die Mission für morgen.",
+          "ja": "最後に **30秒のミニソロ** を録音しましょう。チェックポイントは3つです。**はっきりした着地音が聞こえたか。リズムに変化があったか。少なくとも1つのフレーズが別のフレーズに答えていたか。** 2つが「はい」なら成功です。そうでなければ、明日の課題がもう見つかっています。",
+          "zh-Hans": "最后录一个 **30秒迷你独奏**。给自己做三个检查：**我有没有听见清楚的落点音？我的节奏有没有变化？至少有没有一句在回应另一句？** 如果有两个答案是“有”，这节课就成功了。如果没有，你已经找到明天的任务了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-06T00:08:19Z",
+  "updatedAt": "2026-07-06T00:08:19Z"
+}

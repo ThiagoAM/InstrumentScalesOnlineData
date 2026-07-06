@@ -670,5 +670,33 @@
     "order": 24,
     "createdAt": "2026-07-05T00:06:42Z",
     "updatedAt": "2026-07-05T00:06:42Z"
+  },
+  {
+    "id": "guitar-landing-zones-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Landing Zones Etude",
+        "pt-BR": "Estudo das Zonas de Pouso na Guitarra",
+        "es": "Estudio de Zonas de Aterrizaje para Guitarra",
+        "de": "Gitarren-Etüde mit Landezonen",
+        "ja": "ギター着地ポイント・エチュード",
+        "zh-Hans": "吉他落点练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale runs into musical solos by planning strong landing notes and rhythm choices.",
+        "pt-BR": "Transforme passagens de escala em solos musicais planejando notas de chegada e escolhas rítmicas.",
+        "es": "Convierte pasajes de escala en solos musicales planificando notas de llegada y decisiones rítmicas.",
+        "de": "Verwandle Skalenläufe in musikalische Soli, indem du starke Zieltöne und Rhythmusentscheidungen planst.",
+        "ja": "強い着地音とリズムの選択を計画して、スケール走行を音楽的なソロに変えよう。",
+        "zh-Hans": "通过规划强有力的落点音和节奏选择，把音阶跑动变成真正有音乐性的独奏。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-07-06T00:08:19Z",
+    "updatedAt": "2026-07-06T00:08:19Z"
   }
 ]

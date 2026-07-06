@@ -1314,5 +1314,33 @@
     "order": 47,
     "createdAt": "2026-06-30T00:05:51Z",
     "updatedAt": "2026-06-30T00:05:51Z"
+  },
+  {
+    "id": "piano-scale-escape-room",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Escape Room",
+        "pt-BR": "Escape Room das Escalas no Piano",
+        "es": "Escape Room de Escalas en Piano",
+        "de": "Klavier-Tonleiter-Escape-Room",
+        "ja": "ピアノ・スケール脱出ルーム",
+        "zh-Hans": "钢琴音阶密室逃脱"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape a technical puzzle by solving one scale problem at a time with both hands.",
+        "pt-BR": "Saia de um quebra-cabeça técnico resolvendo um problema de escala por vez com as duas mãos.",
+        "es": "Escapa de un rompecabezas técnico resolviendo un problema de escala a la vez con ambas manos.",
+        "de": "Entkomme einem Technikrätsel, indem du mit beiden Händen ein Skalenproblem nach dem anderen löst.",
+        "ja": "両手で1つずつ問題を解きながら、テクニックの謎部屋から脱出しよう。",
+        "zh-Hans": "用双手一次解决一个技术难题，从音阶密室里逃出来。"
+      }
+    },
+    "order": 48,
+    "createdAt": "2026-07-06T00:11:00Z",
+    "updatedAt": "2026-07-06T00:11:00Z"
   }
 ]

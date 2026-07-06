@@ -1790,5 +1790,33 @@
     "order": 64,
     "createdAt": "2026-07-05T00:08:27Z",
     "updatedAt": "2026-07-05T00:08:27Z"
+  },
+  {
+    "id": "bass-groove-dominoes-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Groove Dominoes in G Major",
+        "pt-BR": "Dominós de Groove no Baixo em Sol Maior",
+        "es": "Dominós de Groove en Bajo en Sol Mayor",
+        "de": "Bass-Groove-Dominos in G-Dur",
+        "ja": "Gメジャーのベース・グルーヴ・ドミノ",
+        "zh-Hans": "G大调贝斯律动多米诺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Stack tiny groove moves into a full bass line using G major notes, space, and accents.",
+        "pt-BR": "Empilhe pequenos movimentos de groove em uma linha completa usando notas de Sol maior, espaço e acentos.",
+        "es": "Apila pequeños movimientos de groove en una línea completa usando notas de Sol mayor, espacio y acentos.",
+        "de": "Schichte kleine Groove-Bewegungen zu einer ganzen Basslinie mit G-Dur-Tönen, Raum und Akzenten.",
+        "ja": "Gメジャーの音、スペース、アクセントを使って、小さな動きから完全なベースラインを組み立てよう。",
+        "zh-Hans": "用G大调音、留白和重音，把一个个小律动动作堆成完整的贝斯线。"
+      }
+    },
+    "order": 65,
+    "createdAt": "2026-07-06T00:09:45Z",
+    "updatedAt": "2026-07-06T00:09:45Z"
   }
 ]
