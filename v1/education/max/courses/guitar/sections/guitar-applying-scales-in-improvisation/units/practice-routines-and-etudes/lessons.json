@@ -698,5 +698,33 @@
     "order": 25,
     "createdAt": "2026-07-06T00:08:19Z",
     "updatedAt": "2026-07-06T00:08:19Z"
+  },
+  {
+    "id": "guitar-rhythm-switchblade-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Switchblade Quest",
+        "pt-BR": "Missão Lâmina Rítmica na Guitarra",
+        "es": "Misión Cuchilla Rítmica en Guitarra",
+        "de": "Gitarrenmission Rhythmus-Klappmesser",
+        "ja": "ギター・リズム折りたたみナイフ作戦",
+        "zh-Hans": "吉他节奏折刀任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Slice through rhythm changes with scale phrases that stay sharp, musical, and under control.",
+        "pt-BR": "Corte mudanças rítmicas com frases de escala que continuam afiadas, musicais e sob controle.",
+        "es": "Corta cambios rítmicos con frases de escala que sigan afiladas, musicales y bajo control.",
+        "de": "Schneide durch Rhythmuswechsel mit Skalenphrasen, die scharf, musikalisch und kontrolliert bleiben.",
+        "ja": "鋭さと音楽性とコントロールを保ったまま、スケールフレーズでリズム変化を切り抜けよう。",
+        "zh-Hans": "用始终锋利、音乐性十足又可控的音阶乐句，切开各种节奏变化。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-07-07T00:06:51Z",
+    "updatedAt": "2026-07-07T00:06:51Z"
   }
 ]

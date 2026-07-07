@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-switchblade-quest",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick A minor pentatonic in 5th position and imagine every phrase is a folding blade: compact, quick, and dangerous only when you control it. Set a metronome around 72 BPM and alternate one bar of eighth notes with one bar of quarter-note space. Your mission is to keep the timing razor-clean while making the rests feel intentional, not empty.",
+          "pt-BR": "Escolha a pentatônica de Lá menor na 5ª posição e imagine que cada frase é uma lâmina dobrável: compacta, rápida e só perigosa quando você a controla. Coloque o metrônomo em cerca de 72 BPM e alterne um compasso de colcheias com um compasso de espaço em semínimas. A missão é manter o tempo afiado como navalha, fazendo os silêncios soarem intencionais, não vazios.",
+          "es": "Elige la pentatónica de La menor en la 5ª posición e imagina que cada frase es una cuchilla plegable: compacta, rápida y peligrosa solo cuando la controlas. Pon el metrónomo cerca de 72 BPM y alterna un compás de corcheas con un compás de espacio en negras. Tu misión es mantener el tiempo afilado como una navaja mientras haces que los silencios suenen intencionales y no vacíos.",
+          "de": "Wähle die A-Moll-Pentatonik in der 5. Lage und stell dir jede Phrase wie ein Klappmesser vor: kompakt, schnell und nur dann gefährlich, wenn du sie kontrollierst. Stell das Metronom auf etwa 72 BPM und wechsle zwischen einem Takt Achtelnoten und einem Takt Raum in Vierteln. Deine Mission ist es, das Timing messerscharf zu halten und die Pausen absichtlich statt leer klingen zu lassen.",
+          "ja": "Aマイナー・ペンタトニックの5ポジションを選び、すべてのフレーズを折りたたみナイフだと思ってみましょう。コンパクトで素早く、コントロールできたときだけ力を発揮します。メトロノームを72 BPM前後に設定し、1小節の8分音符と1小節の4分音符ベースの空白を交互に弾きます。ミッションは、休符を空っぽではなく意図として感じさせながら、タイムを鋭く保つことです。",
+          "zh-Hans": "选择第5把位的A小调五声音阶，把每一句乐句都想成一把折刀：紧凑、迅速，只有在你真正控制它时才有力量。把节拍器设在72 BPM左右，一小节连续八分音符，接着一小节用四分音符思维去留空间。你的任务是让时间感像刀锋一样利落，同时让休止听起来是有意图的，而不是空掉了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a switch. On beat 3 of every second bar, jump to a new rhythmic shape: triplets, a long note, or a syncopated two-note answer. Keep the same scale notes if you want—the challenge is rhythm, not fretboard panic. Record two minutes and listen for whether the groove stays steady when the phrase design suddenly flips.",
+          "pt-BR": "Agora adicione a virada. No tempo 3 de cada segundo compasso, pule para uma nova figura rítmica: tercinas, uma nota longa ou uma resposta sincopada de duas notas. Você pode até manter as mesmas notas da escala; o desafio é ritmo, não pânico no braço. Grave dois minutos e escute se o groove continua firme quando o desenho da frase muda de repente.",
+          "es": "Ahora añade un cambio. En el tiempo 3 de cada segundo compás, salta a una nueva figura rítmica: tresillos, una nota larga o una respuesta sincopada de dos notas. Si quieres, mantén las mismas notas de la escala; el reto es el ritmo, no el pánico en el mástil. Graba dos minutos y escucha si el groove sigue firme cuando el diseño de la frase cambia de golpe.",
+          "de": "Jetzt kommt der Umschalter. Springe auf Schlag 3 jedes zweiten Takts in eine neue rhythmische Form: Triolen, einen langen Ton oder eine synkopierte Zwei-Noten-Antwort. Du darfst sogar dieselben Skalentöne behalten; die Herausforderung ist Rhythmus, nicht Griffbrett-Panik. Nimm zwei Minuten auf und höre, ob der Groove stabil bleibt, wenn das Phrasendesign plötzlich kippt.",
+          "ja": "次は切り替えです。2小節ごとの2小節目、3拍目で新しいリズム形にジャンプします。3連符、ロングトーン、または2音のシンコペートした返答でも構いません。音階の音は同じでも大丈夫。課題はポジションではなくリズムです。2分録音して、フレーズ設計が急に変わってもグルーヴが安定しているか確認しましょう。",
+          "zh-Hans": "接着加入切换动作。每逢第二小节的第3拍，立刻换一种节奏形态：三连音、长音，或者一个切分的两音回答都可以。音阶音可以先不变；这次挑战的是节奏，不是指板慌乱。录两分钟，回听你在乐句设计突然翻转时，groove 是否依然稳住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, choose three landing notes in the shape: A, C, and E. Every phrase must end on one of them, but you cannot use the same target twice in a row. This forces you to hear the shape as a set of destinations instead of a finger maze. If your line gets lost, stop and sing the target note before you play it.",
+          "pt-BR": "Em seguida, escolha três notas de chegada no desenho: A, C e E. Cada frase deve terminar em uma delas, mas você não pode usar o mesmo alvo duas vezes seguidas. Isso obriga você a ouvir o shape como um conjunto de destinos, e não como um labirinto de dedos. Se a linha se perder, pare e cante a nota-alvo antes de tocá-la.",
+          "es": "Después, elige tres notas de llegada en la posición: A, C y E. Cada frase debe terminar en una de ellas, pero no puedes usar el mismo objetivo dos veces seguidas. Esto te obliga a oír la posición como un conjunto de destinos y no como un laberinto de dedos. Si la línea se pierde, detente y canta la nota objetivo antes de tocarla.",
+          "de": "Wähle danach drei Zielnoten in der Lage: A, C und E. Jede Phrase muss auf einer davon landen, aber du darfst dasselbe Ziel nicht zweimal hintereinander benutzen. So hörst du die Form als Sammlung von Zielen statt als Fingerlabyrinth. Wenn deine Linie sich verirrt, stoppe und singe die Zielnote, bevor du sie spielst.",
+          "ja": "次に、そのポジションの着地音を3つ選びます。A、C、Eです。すべてのフレーズはそのどれかで終わらなければなりませんが、同じ着地音を2回続けて使ってはいけません。これで形を指の迷路ではなく、行き先の集まりとして聴けるようになります。ラインを見失ったら、弾く前に着地音を歌ってください。",
+          "zh-Hans": "然后在这个把位里选三个落点音：A、C、E。每一句都必须落在其中一个音上，但同一个目标音不能连续用两次。这样你会开始把这个指型听成一组目的地，而不是手指迷宫。如果线条开始迷路，先停下来，把目标音唱出来，再去弹它。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time for the boss round: four bars, four rules. Bar 1 must stay low on strings 5 and 4. Bar 2 must climb. Bar 3 must leave a full beat of silence. Bar 4 must answer bar 1 with a twist in rhythm. Run the cycle several times until your solo sounds like a conversation instead of scale homework.",
+          "pt-BR": "Hora da fase chefão: quatro compassos, quatro regras. O compasso 1 deve ficar nas cordas 5 e 4. O compasso 2 deve subir. O compasso 3 deve deixar um tempo inteiro de silêncio. O compasso 4 deve responder ao compasso 1 com uma torção rítmica. Repita o ciclo várias vezes até seu solo soar como conversa, não como lição mecânica de escala.",
+          "es": "Llega la ronda jefe: cuatro compases, cuatro reglas. El compás 1 debe quedarse en las cuerdas 5 y 4. El compás 2 debe subir. El compás 3 debe dejar un tiempo completo de silencio. El compás 4 debe responder al compás 1 con un giro rítmico. Repite el ciclo varias veces hasta que tu solo suene como una conversación y no como tarea de escala.",
+          "de": "Jetzt die Boss-Runde: vier Takte, vier Regeln. Takt 1 bleibt tief auf Saite 5 und 4. Takt 2 muss aufsteigen. Takt 3 enthält einen vollen Schlag Stille. Takt 4 beantwortet Takt 1 mit einer rhythmischen Wendung. Wiederhole den Zyklus mehrmals, bis dein Solo wie ein Gespräch klingt statt wie pflichtbewusste Skalenarbeit.",
+          "ja": "ここからボスラウンド。4小節、4つのルールです。1小節目は5弦と4弦だけで低く保つ。2小節目は上昇する。3小節目は丸々1拍の休符を入れる。4小節目は1小節目にリズムのひねりを加えて返答する。このサイクルを何度も回し、スケール練習ではなく会話のようなソロにしましょう。",
+          "zh-Hans": "现在进入 boss 回合：四小节，四条规则。第1小节只能待在5弦和4弦的低区。第2小节必须向上爬。第3小节必须留出整整一拍的沉默。第4小节要用节奏上的转折去回应第1小节。把这个循环练很多次，直到你的独奏听起来像对话，而不是音阶作业。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a one-minute free improv using the same backing groove, but keep one question in mind: where did the blade open widest? In other words, which rhythm change created the most musical tension and release? Write down one winning move from today and reuse it tomorrow in a different key.",
+          "pt-BR": "Termine com um minuto de improviso livre sobre o mesmo groove, mas com uma pergunta na cabeça: onde a lâmina abriu mais? Em outras palavras, qual mudança rítmica gerou a tensão e a resolução mais musicais? Anote um movimento vencedor de hoje e reutilize-o amanhã em outra tonalidade.",
+          "es": "Termina con un minuto de improvisación libre sobre el mismo groove, pero con una pregunta en mente: ¿dónde se abrió más la cuchilla? En otras palabras, ¿qué cambio rítmico creó la tensión y la resolución más musicales? Anota un movimiento ganador de hoy y reutilízalo mañana en otra tonalidad.",
+          "de": "Beende die Einheit mit einer Minute freier Improvisation über denselben Groove, aber mit einer Frage im Kopf: Wo sprang die Klinge am weitesten auf? Anders gesagt: Welcher Rhythmuswechsel erzeugte die musikalisch stärkste Spannung und Auflösung? Schreib heute einen Gewinnzug auf und verwende ihn morgen in einer anderen Tonart.",
+          "ja": "最後は同じバッキングで1分間の自由な即興です。ただし、ひとつだけ考えてください。どこでナイフが最も大きく開いたか。つまり、どのリズム変化がいちばん音楽的な緊張と解放を生んだかです。今日の勝ちパターンを1つ書き留め、明日は別のキーで再利用しましょう.",
+          "zh-Hans": "最后，用同一个伴奏 groove 做一分钟自由即兴，但心里一直带着一个问题：这把刀在哪里打开得最彻底？也就是说，哪一次节奏切换制造了最有音乐性的张力与释放？把今天最成功的一个动作写下来，明天换个调继续用。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-07T00:06:51Z",
+  "updatedAt": "2026-07-07T00:06:51Z"
+}

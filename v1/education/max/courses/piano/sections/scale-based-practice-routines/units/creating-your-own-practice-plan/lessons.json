@@ -530,5 +530,33 @@
     "order": 19,
     "createdAt": "2026-07-05T00:09:39Z",
     "updatedAt": "2026-07-05T00:09:39Z"
+  },
+  {
+    "id": "piano-practice-pinball-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Pinball Map",
+        "pt-BR": "Mapa de Pinball do Estudo de Piano",
+        "es": "Mapa Pinball de la Práctica de Piano",
+        "de": "Klavier-Übeplan als Pinball-Karte",
+        "ja": "ピアノ練習ピンボールマップ",
+        "zh-Hans": "钢琴练习弹珠地图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Route your scale session through bumpers, rebounds, and smart checkpoints instead of random repetition.",
+        "pt-BR": "Conduza sua sessão de escalas por bumpers, rebotes e checkpoints inteligentes em vez de repetição aleatória.",
+        "es": "Lleva tu sesión de escalas por bumpers, rebotes y checkpoints inteligentes en vez de repetición al azar.",
+        "de": "Führe deine Skalenroutine durch Bumper, Rückpraller und clevere Checkpoints statt durch zufällige Wiederholung.",
+        "ja": "行き当たりばったりの反復ではなく、バンパー、跳ね返り、チェックポイントで音階練習を設計しよう。",
+        "zh-Hans": "别再随机重复了，把你的音阶练习导进弹珠碰撞、反弹和聪明检查点里。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-07-07T00:09:20Z",
+    "updatedAt": "2026-07-07T00:09:20Z"
   }
 ]

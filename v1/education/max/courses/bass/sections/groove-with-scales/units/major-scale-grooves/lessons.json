@@ -1818,5 +1818,33 @@
     "order": 65,
     "createdAt": "2026-07-06T00:09:45Z",
     "updatedAt": "2026-07-06T00:09:45Z"
+  },
+  {
+    "id": "bass-pocket-lantern-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Lantern Run",
+        "pt-BR": "Corrida da Lanterna do Pocket no Baixo",
+        "es": "Carrera de la Linterna del Pocket en Bajo",
+        "de": "Bass-Pocket-Laternenlauf",
+        "ja": "ベース・ポケット・ランタンラン",
+        "zh-Hans": "贝斯 Pocket 灯笼冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Carry the groove through dark corners with major-scale notes, ghost notes, and fearless landings.",
+        "pt-BR": "Leve o groove por cantos escuros com notas da escala maior, ghost notes e chegadas sem medo.",
+        "es": "Lleva el groove por rincones oscuros con notas de la escala mayor, ghost notes y aterrizajes sin miedo.",
+        "de": "Trage den Groove durch dunkle Ecken mit Durtonleiter-Tönen, Ghost Notes und mutigen Landungen.",
+        "ja": "メジャースケールの音、ゴーストノート、恐れない着地で、暗い場所でも groove を運び続けよう。",
+        "zh-Hans": "用大调音阶音、幽灵音和无畏落点，把 groove 带过黑暗角落。"
+      }
+    },
+    "order": 66,
+    "createdAt": "2026-07-07T00:07:56Z",
+    "updatedAt": "2026-07-07T00:07:56Z"
   }
 ]
