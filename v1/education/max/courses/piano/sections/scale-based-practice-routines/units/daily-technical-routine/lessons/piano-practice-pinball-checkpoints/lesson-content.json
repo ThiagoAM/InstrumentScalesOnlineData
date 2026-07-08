@@ -1,0 +1,73 @@
+{
+  "id": "piano-practice-pinball-checkpoints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose D major and design a 12-minute practice map before you play. Minutes 1 to 3 are the launch lane: hands separate, medium dynamic, perfect fingering only. Minutes 4 to 7 are the bumper zone: hands together, and every mistake sends you back one beat for an immediate clean replay instead of a frustrated restart.",
+          "pt-BR": "Escolha Ré maior e desenhe um mapa de estudo de 12 minutos antes de tocar. Os minutos 1 a 3 são a pista de lançamento: mãos separadas, dinâmica média e dedilhado perfeito apenas. Os minutos 4 a 7 são a zona dos bumpers: mãos juntas, e cada erro manda você voltar um tempo para repetir limpo em vez de recomeçar frustrado.",
+          "es": "Elige Re mayor y diseña un mapa de práctica de 12 minutos antes de tocar. Los minutos 1 a 3 son el carril de lanzamiento: manos separadas, dinámica media y digitación perfecta solamente. Los minutos 4 a 7 son la zona de rebotes: manos juntas, y cada error te hace volver un pulso para repetir limpio en vez de reiniciar con frustración.",
+          "de": "Wähle D-Dur und entwirf vor dem ersten Ton eine 12-Minuten-Übungskarte. Minute 1 bis 3 sind die Startrampe: Hände getrennt, mittlere Dynamik, nur perfekter Fingersatz. Minute 4 bis 7 sind die Bumper-Zone: Hände zusammen, und jeder Fehler schickt dich einen Schlag zurück für eine sofort saubere Wiederholung statt für einen frustrierten Neustart.",
+          "ja": "Dメジャーを選び、弾き始める前に12分間の練習マップを作りましょう。1〜3分は発射レーンで、片手ずつ、中くらいの音量、完璧な指使いだけに集中します。4〜7分はバンパーゾーンです。両手で弾き、ミスが出たら最初からではなく1拍だけ戻ってすぐにきれいにやり直します。",
+          "zh-Hans": "选择 D 大调，在动手前先设计一张 12 分钟练习地图。第 1 到 3 分钟是发射跑道：双手分开、中等力度、只允许完美指法。第 4 到 7 分钟是弹珠撞击区：双手合起来弹，每犯一次错，就只退回一拍立刻重来，而不是沮丧地从头开始。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add three checkpoints to the map: one technical, one rhythmic, and one musical. For example, relaxed thumb crossings, steady sixteenth notes at 72 BPM, and a clear crescendo up with a lighter release down. Say the checkpoints out loud before every run so your brain knows what success actually means.",
+          "pt-BR": "Agora adicione três checkpoints ao mapa: um técnico, um rítmico e um musical. Por exemplo, passagens de polegar relaxadas, semicolcheias firmes a 72 BPM e um crescendo claro na subida com uma volta mais leve na descida. Diga os checkpoints em voz alta antes de cada rodada para que o cérebro saiba o que realmente conta como sucesso.",
+          "es": "Ahora añade tres checkpoints al mapa: uno técnico, uno rítmico y uno musical. Por ejemplo, cruces de pulgar relajados, semicorcheas estables a 72 BPM y un crescendo claro al subir con una bajada más ligera. Di los checkpoints en voz alta antes de cada pasada para que tu cerebro sepa qué significa realmente ganar.",
+          "de": "Füge jetzt drei Checkpoints ein: einen technischen, einen rhythmischen und einen musikalischen. Zum Beispiel lockere Daumenuntersätze, stabile Sechzehntel bei 72 BPM und ein klares Crescendo aufwärts mit leichterem Rückweg abwärts. Sprich diese Checkpoints vor jedem Durchgang laut aus, damit dein Gehirn weiß, woran Erfolg wirklich gemessen wird.",
+          "ja": "次にマップへ3つのチェックポイントを入れます。1つは技術、1つはリズム、1つは音楽性です。たとえば、力まない親指くぐり、72 BPMで安定した16分音符、上りで明確なクレッシェンドと下りで軽い解放感、という具合です。毎回の前に声に出して言うと、脳が何を成功とみなすべきか理解しやすくなります。",
+          "zh-Hans": "现在给地图加上三个检查点：一个技术目标、一个节奏目标、一个音乐目标。比如说，放松的拇指穿越、72 BPM 下稳定的十六分音符，以及上行清楚渐强、下行轻一点释放。每次开跑前都把这三个检查点说出来，让大脑知道什么才算真正的成功。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the pinball challenge, change one condition per pass. One run is legato, one is staccato, one keeps the left hand a shade louder, and one makes the right hand sing above the texture. The trick is keeping the route stable while the rules around it keep flashing and changing.",
+          "pt-BR": "Para o desafio de pinball, mude uma condição a cada passada. Uma rodada é legato, outra é staccato, outra deixa a mão esquerda um pouco mais forte e outra faz a mão direita cantar acima da textura. O truque é manter a rota estável enquanto as regras ao redor piscam e mudam.",
+          "es": "Para el reto de pinball, cambia una condición en cada pasada. Una vuelta será legato, otra staccato, otra mantiene la mano izquierda un poco más fuerte y otra hace que la mano derecha cante por encima de la textura. El truco está en mantener estable la ruta mientras las reglas a tu alrededor parpadean y cambian.",
+          "de": "Für die Pinball-Challenge änderst du pro Durchgang genau eine Bedingung. Ein Lauf ist legato, einer staccato, einer hält die linke Hand leicht lauter, und einer lässt die rechte Hand über der Textur singen. Der Trick besteht darin, die Route stabil zu halten, während die Regeln drumherum blinken und wechseln.",
+          "ja": "ピンボールの課題では、通るたびに条件を1つ変えます。ある回はレガート、別の回はスタッカート、別の回は左手を少し強く、さらに別の回は右手を上で歌わせます。周りのルールが光って変わっても、ルート自体は安定して保つのがコツです。",
+          "zh-Hans": "进入弹珠挑战后，每跑一遍就改变一个条件。一遍用连奏，一遍用断奏，一遍让左手稍微更响，一遍让右手在织体上方唱出来。关键是：周围规则一直闪烁变化，但路线本身仍然要保持稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: play the scale once with zero rescue notes. If a finger slips, you may not hide it by smashing ahead. Pause, reset the beat in your head, and restart from the nearest checkpoint. This teaches control under pressure instead of fake confidence under momentum.",
+          "pt-BR": "Rodada chefão: toque a escala uma vez sem notas de resgate. Se um dedo escapar, você não pode esconder avançando de qualquer jeito. Pare, recoloque o pulso na cabeça e recomece do checkpoint mais próximo. Isso ensina controle sob pressão em vez de falsa confiança sustentada pelo embalo.",
+          "es": "Ronda jefe: toca la escala una vez sin notas de rescate. Si un dedo falla, no puedes taparlo atropellando hacia delante. Detente, reinicia el pulso en tu cabeza y vuelve a empezar desde el checkpoint más cercano. Eso enseña control bajo presión en lugar de falsa confianza impulsada por la inercia.",
+          "de": "Boss-Runde: Spiele die Tonleiter einmal ohne Rettungstöne. Wenn ein Finger abrutscht, darfst du das nicht durch Vorwärtsstürmen verstecken. Halt an, setz den Puls im Kopf neu und beginne am nächsten Checkpoint erneut. So lernst du Kontrolle unter Druck statt falsches Selbstvertrauen durch Schwung.",
+          "ja": "ボスラウンドでは、救済音なしで1回通します。指が滑っても勢いでごまかして先へ進んではいけません。いったん止まり、頭の中で拍を立て直して、いちばん近いチェックポイントからやり直します。これで勢い任せの自信ではなく、プレッシャー下での本当のコントロールが育ちます。",
+          "zh-Hans": "Boss 回合：整条音阶只弹一次，而且不允许救火音。如果某个手指滑掉了，不能靠闷头往前冲来掩盖。停下来，在脑中重新摆正拍子，再从最近的检查点重启。这练的是压力下的控制，而不是靠惯性撑起来的假自信。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a final performance run and write two notes afterward: where did the ball keep bouncing out of control, and which checkpoint saved the game? Tomorrow's practice should begin there. Smart repetition beats long repetition every time.",
+          "pt-BR": "Termine com uma execução final e anote duas coisas depois: onde a bola continuou escapando do controle e qual checkpoint salvou a partida. O estudo de amanhã deve começar exatamente aí. Repetição inteligente vence repetição longa.",
+          "es": "Termina con una pasada final de interpretación y escribe dos notas después: ¿dónde seguía rebotando la bola fuera de control y qué checkpoint salvó la partida? La práctica de mañana debe empezar ahí. La repetición inteligente siempre gana a la repetición larga.",
+          "de": "Beende die Übung mit einem letzten musikalischen Durchlauf und notiere danach zwei Dinge: Wo sprang die Kugel immer wieder außer Kontrolle, und welcher Checkpoint hat das Spiel gerettet? Genau dort sollte morgen die nächste Einheit beginnen. Kluge Wiederholung schlägt lange Wiederholung.",
+          "ja": "最後に本番のつもりで1回弾き、そのあと2つ書き残します。どこでボールが何度も暴れたか、そしてどのチェックポイントがゲームを救ったか。明日の練習はそこから始めるべきです。長い反復より、賢い反復のほうが強いです。",
+          "zh-Hans": "最后做一次正式演奏式通关，然后写下两点：球总是在哪儿失控弹飞？又是哪一个检查点救了这一局？明天的练习就从那里开始。聪明的重复，永远比漫长的重复更强。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-08T00:09:29Z",
+  "updatedAt": "2026-07-08T00:09:29Z"
+}

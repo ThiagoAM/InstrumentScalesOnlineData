@@ -922,5 +922,33 @@
     "order": 33,
     "createdAt": "2026-07-01T00:05:57Z",
     "updatedAt": "2026-07-01T00:05:57Z"
+  },
+  {
+    "id": "guitar-rhythm-switchblade-gauntlet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Switchblade Gauntlet",
+        "pt-BR": "Desafio Switchblade de Ritmo na Guitarra",
+        "es": "Guantelete Switchblade de Ritmo en Guitarra",
+        "de": "Rhythmus-Switchblade-Parcours für Gitarre",
+        "ja": "ギター・リズム・スイッチブレード試練",
+        "zh-Hans": "吉他节奏折刀试炼"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Cut sharper scale phrases by changing rhythm on command and landing with intent.",
+        "pt-BR": "Afie frases de escala trocando o ritmo sob comando e chegando com intenção.",
+        "es": "Afila tus frases de escala cambiando el ritmo por orden y aterrizando con intención.",
+        "de": "Schärfe deine Skalenphrasen, indem du den Rhythmus auf Kommando wechselst und gezielt landest.",
+        "ja": "リズムを切り替えながら狙って着地し、音階フレーズをもっと鋭くする。",
+        "zh-Hans": "通过按指令切换节奏并有意识地落点，让你的音阶乐句更锋利。"
+      }
+    },
+    "order": 34,
+    "createdAt": "2026-07-08T00:06:28Z",
+    "updatedAt": "2026-07-08T00:06:28Z"
   }
 ]

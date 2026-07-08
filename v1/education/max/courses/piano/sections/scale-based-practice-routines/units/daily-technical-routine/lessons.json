@@ -1342,5 +1342,33 @@
     "order": 48,
     "createdAt": "2026-07-06T00:11:00Z",
     "updatedAt": "2026-07-06T00:11:00Z"
+  },
+  {
+    "id": "piano-practice-pinball-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Pinball Checkpoints",
+        "pt-BR": "Checkpoints de Pinball no Estudo de Piano",
+        "es": "Checkpoints de Pinball para Practicar Piano",
+        "de": "Pinball-Checkpoints fürs Klavierüben",
+        "ja": "ピアノ練習ピンボール・チェックポイント",
+        "zh-Hans": "钢琴练习弹珠检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one scale into a smart practice game with checkpoints for touch, rhythm, and balance.",
+        "pt-BR": "Transforme uma escala em um jogo inteligente de estudo com checkpoints de toque, ritmo e equilíbrio.",
+        "es": "Convierte una escala en un juego inteligente de práctica con checkpoints de toque, ritmo y equilibrio.",
+        "de": "Mach aus einer Tonleiter ein kluges Übungsspiel mit Checkpoints für Anschlag, Rhythmus und Balance.",
+        "ja": "1つの音階を、タッチ・リズム・バランスを鍛える賢い練習ゲームに変える。",
+        "zh-Hans": "把一条音阶变成一个训练触键、节奏和平衡的聪明练习游戏。"
+      }
+    },
+    "order": 49,
+    "createdAt": "2026-07-08T00:09:29Z",
+    "updatedAt": "2026-07-08T00:09:29Z"
   }
 ]

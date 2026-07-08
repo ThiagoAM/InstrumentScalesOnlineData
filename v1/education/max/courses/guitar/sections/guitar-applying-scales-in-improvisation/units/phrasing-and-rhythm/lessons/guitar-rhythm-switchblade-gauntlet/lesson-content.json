@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-switchblade-gauntlet",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose A minor pentatonic in 5th position and treat it like a compact toolkit, not a racetrack. Set a metronome at 74 BPM and play one bar of steady eighth notes, then one bar with only two short phrases and plenty of air. The first win is making both bars feel equally confident, even though one is busy and one is spacious.",
+          "pt-BR": "Escolha a pentatônica de Lá menor na 5ª posição e trate-a como uma caixa de ferramentas compacta, não como uma pista de corrida. Coloque o metrônomo em 74 BPM e toque um compasso de colcheias firmes, depois um compasso com apenas duas frases curtas e bastante ar. A primeira vitória é fazer os dois compassos soarem igualmente confiantes, mesmo com um mais cheio e outro mais espaçoso.",
+          "es": "Elige la pentatónica de La menor en 5ª posición y trátala como una caja de herramientas compacta, no como una pista de carreras. Pon el metrónomo a 74 BPM y toca un compás de corcheas firmes, luego un compás con solo dos frases cortas y bastante aire. La primera victoria es hacer que ambos compases se sientan igual de seguros, aunque uno esté lleno y el otro espacioso.",
+          "de": "Wähle A-Moll-Pentatonik in der 5. Lage und behandle sie wie einen kompakten Werkzeugkasten, nicht wie eine Rennstrecke. Stell das Metronom auf 74 BPM und spiele einen Takt mit stabilen Achteln, dann einen Takt mit nur zwei kurzen Phrasen und viel Luft. Der erste Sieg ist, dass sich beide Takte gleich sicher anfühlen, obwohl einer dichter und der andere offener ist.",
+          "ja": "5フレット位置のAマイナー・ペンタトニックを選び、レース場ではなく小さな道具箱だと思って扱いましょう。メトロノームを74 BPMにして、1小節は安定した8分音符、次の1小節は短いフレーズを2回だけ入れて大きく空けます。まずの目標は、音数が違っても両方の小節を同じくらい自信を持って感じさせることです。",
+          "zh-Hans": "选择第5把位的A小调五声音阶，把它当成一套紧凑工具，而不是赛道。把节拍器设在74 BPM，先弹一小节稳定的八分音符，再弹一小节只包含两个短乐句并留出很多空气。第一关的目标，是让这两小节都显得同样自信：一小节密、一小节疏，但都站得住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the gauntlet rule: every two bars, your phrase must switch its rhythmic personality. Go from straight eighths to triplets, from triplets to a long note and a quick answer, or from dense motion to a full-beat rest. Keep the notes simple so your ears stay focused on time, shape, and surprise.",
+          "pt-BR": "Agora entra a regra do desafio: a cada dois compassos, sua frase precisa trocar de personalidade rítmica. Vá de colcheias retas para tercinas, de tercinas para uma nota longa com resposta rápida, ou de movimento denso para uma pausa de um tempo inteiro. Mantenha as notas simples para que o ouvido fique focado em tempo, forma e surpresa.",
+          "es": "Ahora entra la regla del guantelete: cada dos compases, tu frase debe cambiar de personalidad rítmica. Pasa de corcheas rectas a tresillos, de tresillos a una nota larga con una respuesta rápida, o de movimiento denso a un silencio de un pulso completo. Mantén las notas simples para que el oído siga enfocado en tiempo, forma y sorpresa.",
+          "de": "Jetzt kommt die Parcours-Regel: Alle zwei Takte muss deine Phrase ihre rhythmische Persönlichkeit wechseln. Geh von geraden Achteln zu Triolen, von Triolen zu einem langen Ton mit kurzer Antwort oder von dichter Bewegung zu einer ganzen Schlagpause. Halte die Töne einfach, damit dein Ohr auf Timing, Form und Überraschung fokussiert bleibt.",
+          "ja": "次は試練のルールです。2小節ごとにフレーズのリズムの性格を切り替えます。まっすぐな8分音符から3連符へ、3連符から長い音と短い返答へ、あるいは密な動きから1拍まるごとの休みへ移ってください。音はあえてシンプルにして、耳をタイム、形、驚きに集中させます。",
+          "zh-Hans": "现在加入试炼规则：每两小节，你的乐句都必须换一种节奏性格。可以从平直八分换到三连音，从三连音换成长音加短回应，或者从密集运动换成整整一拍的休止。音高尽量保持简单，让耳朵专注在时间感、形状和惊喜上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick three target notes inside the shape: A, C, and E. Every phrase must finish on one of them, and you cannot repeat the same target twice in a row. If your line starts sounding random, sing the target note before you play it and let your fingers chase your ear instead of panicking.",
+          "pt-BR": "Escolha três notas-alvo dentro do desenho: A, C e E. Toda frase deve terminar em uma delas, e você não pode repetir o mesmo alvo duas vezes seguidas. Se a linha começar a soar aleatória, cante a nota-alvo antes de tocá-la e deixe os dedos correrem atrás do ouvido, sem pânico.",
+          "es": "Elige tres notas objetivo dentro del dibujo: A, C y E. Cada frase debe terminar en una de ellas y no puedes repetir el mismo objetivo dos veces seguidas. Si la línea empieza a sonar aleatoria, canta la nota objetivo antes de tocarla y deja que los dedos sigan al oído en lugar de entrar en pánico.",
+          "de": "Wähle drei Zieltöne in der Form: A, C und E. Jede Phrase muss auf einem davon enden, und du darfst nicht zweimal hintereinander denselben Zielton nehmen. Wenn die Linie zufällig klingt, sing den Zielton zuerst und lass deine Finger dem Ohr folgen, statt in Panik zu geraten.",
+          "ja": "ポジションの中からA、C、Eの3つを着地点として選びます。どのフレーズもそのどれかで終わらせ、同じ着地点を2回続けて使ってはいけません。ラインが適当に聞こえ始めたら、弾く前に着地点を歌い、指ではなく耳を先に走らせましょう。",
+          "zh-Hans": "在这个把位里选出三个目标音：A、C、E。每个乐句都必须落在其中一个上，而且同一个目标音不能连续使用两次。如果你的线条开始变得随机，就先把目标音唱出来，再去弹，让耳朵带着手走，而不是让手慌张乱跑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: build a four-bar solo with four jobs. Bar 1 stays low and punchy. Bar 2 climbs higher. Bar 3 leaves one full beat of silence. Bar 4 answers bar 1 with a different rhythm. Repeat the cycle until the phrase sounds like a tiny story instead of scale exercise wallpaper.",
+          "pt-BR": "Fase chefão: monte um solo de quatro compassos com quatro tarefas. O compasso 1 fica grave e direto. O compasso 2 sobe. O compasso 3 deixa um tempo inteiro de silêncio. O compasso 4 responde ao compasso 1 com outro ritmo. Repita o ciclo até a frase soar como uma pequena história, e não como papel de parede de exercício.",
+          "es": "Ronda jefe: construye un solo de cuatro compases con cuatro trabajos. El compás 1 se queda grave y directo. El compás 2 sube. El compás 3 deja un pulso entero de silencio. El compás 4 responde al compás 1 con otro ritmo. Repite el ciclo hasta que la frase suene como una pequeña historia y no como papel tapiz de ejercicio.",
+          "de": "Boss-Runde: Baue ein viertaktiges Solo mit vier Aufgaben. Takt 1 bleibt tief und direkt. Takt 2 steigt auf. Takt 3 lässt einen ganzen Schlag Stille. Takt 4 antwortet auf Takt 1 mit einem anderen Rhythmus. Wiederhole den Zyklus, bis die Phrase wie eine kleine Geschichte klingt und nicht wie Übungs-Tapete.",
+          "ja": "ボスラウンドです。4小節のソロを作り、各小節に役割を与えます。1小節目は低くて強い感じ、2小節目は上へ登る、3小節目は1拍まるごとの沈黙、4小節目は1小節目への別リズムの返答です。これを繰り返して、フレーズがただの練習ではなく小さな物語に聞こえるまで磨きます。",
+          "zh-Hans": "Boss 回合：做一个四小节独奏，并给每小节一个任务。第1小节保持低音区并有冲劲；第2小节向上爬；第3小节留出整整一拍的安静；第4小节用不同节奏回应第1小节。反复循环，直到这段乐句听起来像一个小故事，而不是音阶练习壁纸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a one-minute free solo over the same groove and listen back immediately. Which rhythm switch sounded exciting instead of forced? Keep that move, write it down, and tomorrow drop it into a different key so the lesson becomes real vocabulary.",
+          "pt-BR": "Termine com um minuto de solo livre no mesmo groove e ouça a gravação na hora. Qual troca de ritmo soou empolgante em vez de forçada? Guarde esse movimento, anote e amanhã leve-o para outra tonalidade para transformar a lição em vocabulário real.",
+          "es": "Termina con un minuto de solo libre sobre el mismo groove y escucha la grabación enseguida. ¿Qué cambio rítmico sonó emocionante en vez de forzado? Quédate con ese recurso, escríbelo y mañana llévalo a otra tonalidad para convertir la lección en vocabulario real.",
+          "de": "Beende die Runde mit einer Minute freiem Solo über denselben Groove und hör sofort zurück. Welcher Rhythmuswechsel klang spannend statt erzwungen? Behalte genau diesen Zug, schreib ihn auf und setz ihn morgen in einer anderen Tonart ein, damit daraus echtes Vokabular wird.",
+          "ja": "最後は同じグルーヴで1分間の自由なソロを弾き、すぐ録音を聴き返します。どのリズムの切り替えが無理なくワクワクして聞こえましたか。その動きをメモして、明日は別のキーで使ってみましょう。そうすると、このレッスンが本当の語彙になります。",
+          "zh-Hans": "最后在同一个 groove 上自由独奏一分钟，然后立刻回听。哪一种节奏切换听起来是真正兴奋，而不是硬拗出来的？把那一招记下来，明天换个调再用一次，这样这节课才会变成你的真实语汇。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-08T00:06:28Z",
+  "updatedAt": "2026-07-08T00:06:28Z"
+}

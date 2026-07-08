@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-circuit-breaker",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use G major and build a two-bar groove from just G, A, B, and D. Think like an electrician: every note should have a job, and nothing should buzz without purpose. Loop the line until beat 1 feels heavy enough that a drummer would trust you instantly.",
+          "pt-BR": "Use Sol maior e monte um groove de dois compassos usando apenas G, A, B e D. Pense como um eletricista: cada nota precisa ter uma função, e nada deve zumbir sem propósito. Repita a linha até o tempo 1 ficar pesado o bastante para um baterista confiar em você na hora.",
+          "es": "Usa Sol mayor y construye un groove de dos compases solo con G, A, B y D. Piensa como un electricista: cada nota debe tener un trabajo y nada debe zumbar sin propósito. Repite la línea hasta que el tiempo 1 se sienta tan sólido que un baterista confiaría en ti al instante.",
+          "de": "Nimm G-Dur und baue einen zweitaktigen Groove nur aus G, A, B und D. Denk wie ein Elektriker: Jeder Ton braucht eine Aufgabe, und nichts darf ohne Zweck summen. Wiederhole die Linie, bis Zählzeit 1 so schwer sitzt, dass ein Drummer dir sofort vertrauen würde.",
+          "ja": "Gメジャーを使い、G、A、B、Dだけで2小節のグルーヴを作ります。電気技師のように考えて、すべての音に役割を与えましょう。意味のない音は鳴らしません。1拍目が、ドラマーがすぐ信頼できるくらい重く感じるまでラインをループしてください。",
+          "zh-Hans": "使用 G 大调，只用 G、A、B、D 做出一个两小节 groove。像电工一样思考：每个音都要有工作，不能有任何无意义的嗡嗡声。把这条线循环到第1拍足够有分量，重得像鼓手会立刻信任你一样。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now throw the circuit breaker for one moment in each bar. Replace one expected note with either a ghost note or a short rest. The point is not to sound fancy; it is to prove that space can increase the power of the groove instead of weakening it.",
+          "pt-BR": "Agora desligue o circuito por um instante em cada compasso. Troque uma nota esperada por uma ghost note ou por uma pausa curta. A ideia não é soar cheio de firula; é provar que o espaço pode aumentar a força do groove em vez de enfraquecê-lo.",
+          "es": "Ahora corta el circuito un momento en cada compás. Sustituye una nota esperada por una ghost note o por un silencio corto. La idea no es sonar más elegante; es demostrar que el espacio puede aumentar la fuerza del groove en vez de debilitarlo.",
+          "de": "Jetzt legst du in jedem Takt den Schalter kurz um. Ersetze einen erwarteten Ton durch eine Ghost Note oder eine kurze Pause. Es geht nicht darum, raffinierter zu klingen, sondern zu beweisen, dass Raum die Kraft des Grooves erhöhen kann, statt ihn zu schwächen.",
+          "ja": "次に各小節で一瞬だけブレーカーを落とします。予想される音を1つ、ゴーストノートか短い休符に置き換えます。目的は派手に聞かせることではなく、スペースがグルーヴを弱めるどころか強くできると証明することです。",
+          "zh-Hans": "现在在每小节里让断路器跳闸一次。把一个原本预期会出现的音换成幽灵音，或者换成一个短休止。重点不是听起来更花，而是证明：留白不但不会削弱 groove，反而能让它更有力量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a landing rule: beat 1 of every bar must be G or D, and beat 3 must feel clearly connected to the groove even if you use silence before it. Between those anchors, connect with A or B only when the line still sounds like bass, not like a scale exercise trying to wear a groove costume.",
+          "pt-BR": "Adicione uma regra de chegada: o tempo 1 de cada compasso deve ser G ou D, e o tempo 3 precisa soar claramente conectado ao groove, mesmo se houver silêncio antes dele. Entre essas âncoras, conecte com A ou B apenas quando a linha continuar soando como baixo, e não como exercício de escala fantasiado de groove.",
+          "es": "Añade una regla de aterrizaje: el tiempo 1 de cada compás debe ser G o D, y el tiempo 3 debe sentirse claramente conectado con el groove aunque uses silencio antes. Entre esos anclajes, conecta con A o B solo cuando la línea siga sonando a bajo y no a ejercicio de escala disfrazado.",
+          "de": "Füge eine Landeregel hinzu: Zählzeit 1 jedes Takts muss G oder D sein, und Zählzeit 3 soll klar mit dem Groove verbunden wirken, selbst wenn davor Stille liegt. Zwischen diesen Ankern verbindest du nur mit A oder B, wenn die Linie noch nach Bass klingt und nicht wie eine Skalenübung im Groove-Kostüm.",
+          "ja": "着地のルールも加えます。各小節の1拍目は必ずGかDにし、3拍目はその前に沈黙があってもグルーヴと明確につながって聞こえなければいけません。その間にAやBを使うのは、ラインがまだ“ベース”として聞こえるときだけです。スケール練習の仮装になってはいけません。",
+          "zh-Hans": "加入落点规则：每小节第1拍必须是 G 或 D，而第3拍必须清楚地和 groove 连在一起，就算前面用了沉默也一样。在这些锚点之间，只有当线条听起来仍然像贝斯而不是披着 groove 外衣的音阶练习时，才用 A 或 B 去连接。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pressure round: play the same two bars three different ways. First, dead steady. Second, with a tiny push into beat 2. Third, with a relaxed layback feel. Keep the notes nearly the same so you can hear how time placement changes the entire attitude of the line.",
+          "pt-BR": "Rodada de pressão: toque os mesmos dois compassos de três maneiras. Primeiro, totalmente firme. Depois, com uma leve empurrada para o tempo 2. Por fim, com uma sensação mais relaxada e atrasada. Mantenha quase as mesmas notas para ouvir como a colocação no tempo muda toda a atitude da linha.",
+          "es": "Ronda de presión: toca los mismos dos compases de tres maneras. Primero, totalmente estable. Segundo, con un pequeño empuje hacia el tiempo 2. Tercero, con una sensación relajada y atrasada. Mantén casi las mismas notas para escuchar cómo la colocación rítmica cambia toda la actitud de la línea.",
+          "de": "Druckrunde: Spiele dieselben zwei Takte auf drei Arten. Erstens ganz neutral und stabil. Zweitens mit einem kleinen Schub in Richtung Zählzeit 2. Drittens mit entspanntem Layback-Gefühl. Halte die Töne fast gleich, damit du hörst, wie die Platzierung in der Zeit die ganze Haltung der Linie verändert.",
+          "ja": "プレッシャー・ラウンドです。同じ2小節を3通りで弾きます。まずは完全に安定して。次に2拍目へ少し前のめりに。最後に少し後ろに乗る落ち着いた feel で。音はほぼ同じに保ち、タイムの置き方だけでライン全体の態度が変わることを聴き取ってください。",
+          "zh-Hans": "压力回合：用三种方式弹同样的两小节。第一种，完全稳。第二种，微微朝第2拍往前推。第三种，带一点放松的后靠感。音高尽量保持不变，这样你才能真正听出：时间位置的变化，如何彻底改变整条线的态度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by writing one final groove that combines three things: one strong landing, one ghosted or silent surprise, and one scale connection that pulls forward. Record it and ask a blunt question: does this line make the song feel safer or messier? Keep only the version that earns trust.",
+          "pt-BR": "Termine escrevendo um groove final que junte três coisas: uma chegada forte, uma surpresa em ghost note ou silêncio e uma conexão de escala que puxe para frente. Grave e faça uma pergunta direta: essa linha deixa a música mais segura ou mais bagunçada? Fique só com a versão que transmite confiança.",
+          "es": "Termina escribiendo un groove final que combine tres cosas: un aterrizaje fuerte, una sorpresa silenciosa o fantasma, y una conexión de escala que empuje hacia delante. Grábalo y hazte una pregunta directa: ¿esta línea hace que la canción se sienta más segura o más desordenada? Quédate solo con la versión que inspire confianza.",
+          "de": "Zum Schluss schreibst du einen finalen Groove mit drei Zutaten: eine starke Landung, eine Ghost- oder Stille-Überraschung und eine Skalenverbindung, die nach vorn zieht. Nimm ihn auf und stell die direkte Frage: Macht diese Linie den Song sicherer oder chaotischer? Behalte nur die Version, der man vertraut.",
+          "ja": "最後に、強い着地、ゴーストノートか沈黙の驚き、前へ引っ張るスケール接続の3つを含んだ最終グルーヴを書きます。録音して、自分に率直な質問をしましょう。このラインは曲を安心させるか、それとも散らかすか。信頼を勝ち取ったバージョンだけ残してください。",
+          "zh-Hans": "最后写出一个终极 groove，必须同时包含三样东西：一次强落点、一次幽灵音或静默惊喜，以及一次把音乐往前拉的音阶连接。录下来，然后直接问自己：这条线让整首歌更安心，还是更凌乱？只保留那个能赢得信任的版本。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-08T00:08:01Z",
+  "updatedAt": "2026-07-08T00:08:01Z"
+}

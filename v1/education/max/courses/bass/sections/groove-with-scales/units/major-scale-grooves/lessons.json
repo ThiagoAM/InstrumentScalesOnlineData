@@ -1846,5 +1846,33 @@
     "order": 66,
     "createdAt": "2026-07-07T00:07:56Z",
     "updatedAt": "2026-07-07T00:07:56Z"
+  },
+  {
+    "id": "bass-pocket-circuit-breaker",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Circuit Breaker",
+        "pt-BR": "Circuit Breaker do Pocket no Baixo",
+        "es": "Interruptor del Pocket en Bajo",
+        "de": "Pocket-Schutzschalter am Bass",
+        "ja": "ベース・ポケット・サーキットブレーカー",
+        "zh-Hans": "贝斯 Pocket 断路器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a stronger major-scale groove by controlling space, ghost notes, and heavy landings.",
+        "pt-BR": "Construa um groove mais forte com escala maior controlando espaço, ghost notes e chegadas pesadas.",
+        "es": "Construye un groove mayor más fuerte controlando espacio, ghost notes y aterrizajes pesados.",
+        "de": "Baue einen stärkeren Dur-Groove mit Raum, Ghost Notes und schweren Landungen.",
+        "ja": "空間、ゴーストノート、重い着地をコントロールして、メジャースケールのグルーヴをもっと強くする。",
+        "zh-Hans": "通过控制留白、幽灵音和有重量的落点，打造更强的大调 groove。"
+      }
+    },
+    "order": 67,
+    "createdAt": "2026-07-08T00:08:01Z",
+    "updatedAt": "2026-07-08T00:08:01Z"
   }
 ]
