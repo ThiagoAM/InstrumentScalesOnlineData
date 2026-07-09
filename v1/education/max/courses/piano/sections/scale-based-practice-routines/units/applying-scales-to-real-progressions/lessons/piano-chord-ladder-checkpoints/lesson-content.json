@@ -1,0 +1,73 @@
+{
+  "id": "piano-chord-ladder-checkpoints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose G major and map out a simple ladder: one octave scale up, one tonic triad, one dominant triad, then the scale back down. Play it slowly enough that every rung feels solid. This is not about speed yet; it is about teaching your hands and ears to recognize where the harmony lives inside the scale.",
+          "pt-BR": "Escolha Sol maior e desenhe uma escada simples: uma oitava da escala subindo, um acorde de tônica, um acorde de dominante e depois a escala descendo. Toque devagar o bastante para cada degrau parecer sólido. Ainda não é sobre velocidade; é sobre ensinar mãos e ouvidos a reconhecer onde a harmonia vive dentro da escala.",
+          "es": "Elige Sol mayor y dibuja una escalera simple: una octava de la escala hacia arriba, un acorde de tónica, un acorde de dominante y luego la escala de vuelta hacia abajo. Toca lo bastante lento como para que cada peldaño se sienta sólido. Todavía no se trata de velocidad; se trata de enseñar a tus manos y a tus oídos dónde vive la armonía dentro de la escala.",
+          "de": "Wähle G-Dur und entwirf eine einfache Leiter: eine Oktave der Skala nach oben, ein Tonika-Dreiklang, ein Dominant-Dreiklang und dann die Skala wieder nach unten. Spiele langsam genug, damit sich jede Sprosse stabil anfühlt. Es geht noch nicht um Tempo, sondern darum, Händen und Ohren zu zeigen, wo die Harmonie innerhalb der Skala lebt.",
+          "ja": "Gメジャーを選び、シンプルなはしごを作ります。1オクターブのスケールを上がり、トニックの三和音、ドミナントの三和音、そしてスケールで下ります。各段がしっかり感じられるくらいゆっくり弾いてください。まだ速さの練習ではありません。スケールの中のどこにハーモニーがあるかを、手と耳に教える時間です。",
+          "zh-Hans": "选择G大调，画出一架简单的梯子：先把一个八度音阶向上弹完，再弹主和弦、属和弦，然后用音阶下行回来。速度要慢到每一级台阶都稳稳当当。现在还不是追求速度的时候，而是在教你的手和耳朵认出和声藏在音阶的什么位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set three checkpoints before each run. Checkpoint 1: smooth thumb passage. Checkpoint 2: the right hand must sing slightly above the left. Checkpoint 3: you must hear whether you are landing on tonic or dominant before you play the chord. Say those checkpoints out loud once so the practice has a target.",
+          "pt-BR": "Defina três pontos de controle antes de cada tentativa. Ponto 1: passagem suave do polegar. Ponto 2: a mão direita precisa cantar um pouco acima da esquerda. Ponto 3: você precisa ouvir se vai cair na tônica ou na dominante antes de tocar o acorde. Diga esses pontos em voz alta uma vez para dar um alvo à prática.",
+          "es": "Define tres puntos de control antes de cada pasada. Punto 1: paso suave del pulgar. Punto 2: la mano derecha debe cantar un poco por encima de la izquierda. Punto 3: debes oír si vas a caer en la tónica o en la dominante antes de tocar el acorde. Di esos puntos en voz alta una vez para que la práctica tenga un objetivo claro.",
+          "de": "Setze vor jedem Durchgang drei Kontrollpunkte. Kontrollpunkt 1: ein flüssiger Daumenübergang. Kontrollpunkt 2: die rechte Hand muss leicht über der linken singen. Kontrollpunkt 3: du musst schon vor dem Akkord hören, ob du auf der Tonika oder der Dominante landest. Sprich diese Kontrollpunkte einmal laut aus, damit die Übung ein klares Ziel bekommt.",
+          "ja": "各回の前に3つのチェックポイントを設定しましょう。1つ目は親指の通過をなめらかにすること。2つ目は右手が左手より少し歌うこと。3つ目はコードを弾く前に、トニックに着地するのかドミナントに着地するのかを耳で先に感じることです。練習に目標を与えるため、一度声に出して確認してください。",
+          "zh-Hans": "每次开始前设定三个检查点。检查点1：拇指穿越要顺滑。检查点2：右手要比左手稍微更“唱”出来。检查点3：在弹和弦之前，你就要先听见自己将落在主功能还是属功能上。把这三个检查点大声说一遍，让练习有明确目标。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now turn the ladder into a game. First run legato. Second run staccato. Third run with a crescendo on the way up and a lighter release on the way down. Keep the fingering identical every time so the musical rule changes without breaking the technical map.",
+          "pt-BR": "Agora transforme a escada em jogo. Primeira volta legato. Segunda volta staccato. Terceira volta com crescendo na subida e uma liberação mais leve na descida. Mantenha o mesmo dedilhado toda vez para que a regra musical mude sem quebrar o mapa técnico.",
+          "es": "Ahora convierte la escalera en un juego. Primera vuelta legato. Segunda vuelta staccato. Tercera vuelta con crescendo al subir y una liberación más ligera al bajar. Mantén la misma digitación cada vez para que la regla musical cambie sin romper el mapa técnico.",
+          "de": "Verwandle die Leiter jetzt in ein Spiel. Erster Durchgang legato. Zweiter Durchgang staccato. Dritter Durchgang mit Crescendo aufwärts und leichterem Loslassen abwärts. Behalte jedes Mal denselben Fingersatz, damit sich die musikalische Regel ändert, ohne die technische Landkarte zu zerstören.",
+          "ja": "次にはしごをゲームに変えます。1回目はレガート、2回目はスタッカート、3回目は上りでクレッシェンド、下りで軽く解放します。毎回まったく同じ運指を保ち、技術の地図を壊さずに音楽のルールだけを変えましょう。",
+          "zh-Hans": "现在把这架梯子变成游戏。第一遍连奏，第二遍断奏，第三遍上行做渐强、下行做更轻的释放。每一遍都保持完全相同的指法，这样改变的是音乐规则，而不是技术地图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: move the whole pattern to D major without stopping the pulse. If the new key scrambles your fingers, do not mash through it. Pause for one beat, reset the pattern in your mind, and restart with control. Accuracy under pressure beats sloppy bravery.",
+          "pt-BR": "Rodada de desafio: mova o padrão inteiro para Ré maior sem parar o pulso. Se a nova tonalidade embaralhar seus dedos, não atropele. Pare por um tempo, reorganize o desenho na cabeça e recomece com controle. Precisão sob pressão vence coragem bagunçada.",
+          "es": "Ronda de desafío: mueve todo el patrón a Re mayor sin detener el pulso. Si la nueva tonalidad desordena tus dedos, no la atropelles. Haz una pausa de un pulso, reinicia el patrón en tu mente y vuelve a empezar con control. La precisión bajo presión vale más que la valentía desprolija.",
+          "de": "Herausforderungsrunde: Verschiebe das ganze Muster nach D-Dur, ohne den Puls anzuhalten. Wenn die neue Tonart deine Finger durcheinanderbringt, hämmere nicht einfach weiter. Pausiere einen Schlag, ordne das Muster im Kopf neu und starte kontrolliert. Genauigkeit unter Druck schlägt schlampigen Mut.",
+          "ja": "チャレンジラウンドです。脈を止めずにこのパターン全体をDメジャーへ移してください。新しい調で指が混乱したら、力で押し切らないこと。1拍だけ止まり、頭の中で形を立て直してからコントロールして再開します。雑な勇気より、プレッシャー下での正確さのほうが価値があります。",
+          "zh-Hans": "挑战回合：不停拍地把整个模式移到D大调。如果新调把手指弄乱了，不要硬冲过去。停一拍，在脑中重新摆好图形，再有控制地重新开始。压力下的准确，比凌乱的勇敢更值钱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by inventing one last version that adds a left-hand octave on the tonic chord and a softer landing on the dominant chord. Record it, then ask yourself which checkpoint saved the run when things got shaky. Start tomorrow's practice there.",
+          "pt-BR": "Termine inventando uma última versão que acrescente uma oitava na mão esquerda sobre o acorde de tônica e uma chegada mais suave no acorde de dominante. Grave e depois pergunte a si mesmo qual ponto de controle salvou a execução quando tudo ficou instável. Comece o treino de amanhã por ali.",
+          "es": "Termina inventando una última versión que añada una octava en la mano izquierda sobre el acorde de tónica y una llegada más suave al acorde de dominante. Grábala y luego pregúntate qué punto de control salvó la pasada cuando todo se puso inestable. Empieza ahí la práctica de mañana.",
+          "de": "Beende die Übung mit einer letzten Version, die auf dem Tonika-Akkord eine linke-Hand-Oktave ergänzt und auf dem Dominant-Akkord weicher landet. Nimm sie auf und frage dich dann, welcher Kontrollpunkt den Durchgang gerettet hat, als es wackelig wurde. Dort beginnt morgen deine nächste Einheit.",
+          "ja": "最後に、トニックのコードで左手にオクターブを足し、ドミナントのコードでは少し柔らかく着地する最終版を作ってください。録音したら、揺らいだ瞬間にどのチェックポイントが演奏を救ったかを考えましょう。明日の練習はそこから始めます。",
+          "zh-Hans": "最后设计一个终极版本：在主和弦上给左手加一个八度，在属和弦上做更柔和的落点。录下来，然后问自己：当演奏开始摇晃时，究竟是哪一个检查点救了这一遍？明天的练习就从那里开始。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-09T00:05:54Z",
+  "updatedAt": "2026-07-09T00:05:54Z"
+}

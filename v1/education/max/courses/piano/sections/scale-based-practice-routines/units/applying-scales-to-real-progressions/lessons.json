@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-07-03T00:08:12Z",
     "updatedAt": "2026-07-03T00:08:12Z"
+  },
+  {
+    "id": "piano-chord-ladder-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Chord Ladder Checkpoints",
+        "pt-BR": "Pontos de Controle da Escada de Acordes no Piano",
+        "es": "Puntos de Control de la Escalera de Acordes en Piano",
+        "de": "Kontrollpunkte für die Akkordleiter am Klavier",
+        "ja": "ピアノ・コードはしごのチェックポイント",
+        "zh-Hans": "钢琴和弦梯检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb from scale to chords with smart checkpoints for fingering, balance, and harmonic hearing.",
+        "pt-BR": "Suba da escala aos acordes com pontos de controle inteligentes para dedilhado, equilíbrio e audição harmônica.",
+        "es": "Sube de la escala a los acordes con puntos de control inteligentes para digitación, equilibrio y oído armónico.",
+        "de": "Steige mit klugen Kontrollpunkten für Fingersatz, Balance und harmonisches Hören von der Skala zu den Akkorden hinauf.",
+        "ja": "運指、バランス、和声の聞き取りのチェックポイントを使って、スケールからコードへ上手に登ろう。",
+        "zh-Hans": "用运指、平衡和和声听觉的智能检查点，从音阶一步步爬到和弦。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-07-09T00:05:54Z",
+    "updatedAt": "2026-07-09T00:05:54Z"
   }
 ]

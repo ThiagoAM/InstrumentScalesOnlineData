@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-06-23T00:09:32Z",
     "updatedAt": "2026-06-23T00:09:32Z"
+  },
+  {
+    "id": "bass-octave-sling-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Octave Sling Relay",
+        "pt-BR": "Revezamento de Oitavas no Baixo",
+        "es": "Relevo de Octavas en Bajo",
+        "de": "Oktav-Staffellauf für Bass",
+        "ja": "ベース・オクターブ中継レース",
+        "zh-Hans": "贝斯八度接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen your groove by slinging roots and octaves with better timing, space, and direction.",
+        "pt-BR": "Fortaleça seu groove arremessando tônicas e oitavas com melhor tempo, espaço e direção.",
+        "es": "Fortalece tu groove lanzando tónicas y octavas con mejor tiempo, espacio y dirección.",
+        "de": "Stärke deinen Groove, indem du Grundtöne und Oktaven mit besserem Timing, Raum und Richtung schleuderst.",
+        "ja": "ルート音とオクターブをうまく投げ渡しながら、タイム感と間と方向性のあるグルーヴを強くしよう。",
+        "zh-Hans": "通过更好的时值、留白和方向感，把根音与八度音甩得更有律动。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-07-09T00:05:47Z",
+    "updatedAt": "2026-07-09T00:05:47Z"
   }
 ]

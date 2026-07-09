@@ -950,5 +950,33 @@
     "order": 34,
     "createdAt": "2026-07-08T00:06:28Z",
     "updatedAt": "2026-07-08T00:06:28Z"
+  },
+  {
+    "id": "guitar-rhythm-beacon-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Beacon Run",
+        "pt-BR": "Corrida do Farol Rítmico na Guitarra",
+        "es": "Carrera del Faro Rítmico en Guitarra",
+        "de": "Rhythmus-Leuchtfeuerlauf für Gitarre",
+        "ja": "ギター・リズム・ビーコン走",
+        "zh-Hans": "吉他节奏信标冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Guide your scale phrases through the groove with sharp rhythm signals, space, and target-note control.",
+        "pt-BR": "Guie suas frases de escala pelo groove com sinais rítmicos afiados, espaço e controle de notas-alvo.",
+        "es": "Guía tus frases de escala por el groove con señales rítmicas afiladas, espacio y control de notas objetivo.",
+        "de": "Steuere deine Skalenphrasen mit scharfen Rhythmussignalen, Raum und Zieltonkontrolle durch den Groove.",
+        "ja": "鋭いリズムの合図、間、ターゲット音のコントロールでスケールフレーズをグルーヴの中へ導こう。",
+        "zh-Hans": "用锋利的节奏信号、留白和目标音控制，把你的音阶乐句带进 groove。"
+      }
+    },
+    "order": 35,
+    "createdAt": "2026-07-09T00:06:33Z",
+    "updatedAt": "2026-07-09T00:06:33Z"
   }
 ]
