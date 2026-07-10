@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-06-28T00:06:54Z",
     "updatedAt": "2026-06-28T00:06:54Z"
+  },
+  {
+    "id": "guitar-accent-maze-d-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Accent Maze in D Major",
+        "pt-BR": "Labirinto de Acentos na Guitarra em Ré Maior",
+        "es": "Laberinto de Acentos para Guitarra en Re Mayor",
+        "de": "Gitarren-Akzentlabyrinth in D-Dur",
+        "ja": "Dメジャーのギター・アクセント迷路",
+        "zh-Hans": "D大调吉他重音迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate D major with shifting accents, checkpoints, and clean position changes.",
+        "pt-BR": "Navegue por Ré maior com acentos móveis, checkpoints e mudanças limpas de posição.",
+        "es": "Recorre Re mayor con acentos móviles, checkpoints y cambios limpios de posición.",
+        "de": "Bewege dich durch D-Dur mit wandernden Akzenten, Checkpoints und sauberen Lagenwechseln.",
+        "ja": "動くアクセント、チェックポイント、滑らかなポジション移動でDメジャーを進もう。",
+        "zh-Hans": "用移动重音、检查点和干净换把穿越D大调。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-07-10T00:05:18Z",
+    "updatedAt": "2026-07-10T00:05:18Z"
   }
 ]

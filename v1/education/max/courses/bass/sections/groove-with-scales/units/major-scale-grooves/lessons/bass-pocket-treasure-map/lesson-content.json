@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-treasure-map",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Bass Pocket Treasure Map. Today your mission is to find the deepest pocket in G major without dropping the groove compass.",
+          "pt-BR": "Bem-vindo ao Mapa do Tesouro do Pocket no Baixo. Hoje a missão é encontrar o pocket mais fundo em Sol maior sem largar a bússola do groove.",
+          "es": "Bienvenido al Mapa del Tesoro del Pocket para Bajo. Hoy tu misión es encontrar el pocket más profundo en Sol mayor sin perder la brújula del groove.",
+          "de": "Willkommen bei der Bass-Pocket-Schatzkarte. Deine Mission heute: das tiefste Pocket in G-Dur finden, ohne den Groove-Kompass zu verlieren.",
+          "ja": "ベース・ポケット宝の地図へようこそ。今日のミッションは、Gメジャーのいちばん深いポケットを、グルーヴのコンパスを落とさずに見つけることです。",
+          "zh-Hans": "欢迎来到贝斯 Pocket 宝藏地图。今天的任务，是在G大调里找到最深的 pocket，同时别把你的 groove 指南针弄丢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: start with a one-octave G major scale in 4/4. Mark three treasure notes on your map: root, third, and sixth. Play them first as half notes, then as quarter notes, listening for which one feels most stable on each beat.",
+          "pt-BR": "Preparação: comece com uma escala de Sol maior em uma oitava, em 4/4. Marque três notas-tesouro no mapa: tônica, terça e sexta. Toque primeiro como mínimas e depois como semínimas, ouvindo qual delas soa mais estável em cada tempo.",
+          "es": "Preparación: empieza con una escala de Sol mayor de una octava en 4/4. Marca tres notas tesoro en tu mapa: tónica, tercera y sexta. Tócalas primero como blancas y luego como negras, escuchando cuál se siente más estable en cada pulso.",
+          "de": "Setup: Starte mit einer einoktavigen G-Dur-Tonleiter im 4/4. Markiere drei Schatznoten auf deiner Karte: Grundton, Terz und Sexte. Spiele sie zuerst als Halbe, dann als Viertel, und höre, welcher Ton sich auf welchem Schlag am stabilsten anfühlt.",
+          "ja": "準備：4/4でGメジャーの1オクターブ・スケールから始めます。地図に3つの宝音、つまりルート、3度、6度を印しましょう。まず2分音符、次に4分音符で弾き、どの拍でどの音がいちばん安定するか耳で確かめます。",
+          "zh-Hans": "准备：先用4/4拍弹一条一八度G大调音阶。在地图上标出三个宝藏音：根音、三度、六度。先用二分音符弹，再用四分音符弹，听听它们落在不同拍子上时哪个最稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Map rule one: between treasure notes, you may travel only with stepwise scale motion or one ghost note. Every ghost note must push you toward a real landing, not just fill space.",
+          "pt-BR": "Regra um do mapa: entre as notas-tesouro, você só pode viajar com movimento conjunto da escala ou uma ghost note. Toda ghost note precisa empurrar você para uma chegada real, não apenas preencher espaço.",
+          "es": "Regla uno del mapa: entre las notas tesoro, solo puedes viajar con movimiento conjunto de la escala o con una ghost note. Cada ghost note debe empujarte hacia un aterrizaje real, no solo llenar espacio.",
+          "de": "Kartenregel eins: Zwischen den Schatznoten darfst du nur mit schrittweiser Skalenbewegung oder einer Ghost Note reisen. Jede Ghost Note muss zu einer echten Landung führen und darf nicht bloß Raum füllen.",
+          "ja": "地図ルール1：宝音の間を移動するときは、順次進行のスケール音か1つのゴーストノートだけを使います。ゴーストノートはただ埋めるためではなく、本当の着地点へ押し出す役目を持たせましょう。",
+          "zh-Hans": "地图规则一：在宝藏音之间移动时，只能用级进的音阶运动，或者加一个幽灵音。每一个幽灵音都必须把你推向真正的落点，而不是单纯填空。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Map rule two: bar 1 must begin on the root, bar 2 must land on the third, and bar 4 must return home to G with confidence. Leave at least one full beat of silence somewhere in the line so the groove can breathe.",
+          "pt-BR": "Regra dois do mapa: o compasso 1 deve começar na tônica, o compasso 2 deve aterrissar na terça, e o compasso 4 deve voltar para Sol com autoridade. Deixe pelo menos um tempo inteiro de silêncio em algum ponto da linha para o groove respirar.",
+          "es": "Regla dos del mapa: el compás 1 debe empezar en la tónica, el compás 2 debe aterrizar en la tercera y el compás 4 debe volver a Sol con autoridad. Deja al menos un pulso completo de silencio en algún lugar de la línea para que el groove respire.",
+          "de": "Kartenregel zwei: Takt 1 muss auf dem Grundton beginnen, Takt 2 auf der Terz landen und Takt 4 sicher zu G zurückkehren. Lass irgendwo in der Linie mindestens einen ganzen Schlag Stille, damit der Groove atmen kann.",
+          "ja": "地図ルール2：1小節目はルートで始め、2小節目は3度に着地し、4小節目は自信を持ってGへ帰ります。どこかに丸々1拍分の休みを入れて、グルーヴに呼吸させてください。",
+          "zh-Hans": "地图规则二：第1小节必须从根音开始，第2小节必须落在三度上，第4小节必须自信地回到G。在线条某处至少留出完整一拍的空白，让 groove 可以呼吸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: set a metronome at 76 BPM, clap beats 2 and 4, and build four different two-bar grooves from the same map. If one version sounds busy, remove notes until the pocket gets heavier.",
+          "pt-BR": "Rodada de desafio: coloque o metrônomo em 76 BPM, bata palmas nos tempos 2 e 4 e construa quatro grooves diferentes de dois compassos usando o mesmo mapa. Se uma versão soar ocupada demais, tire notas até o pocket ficar mais pesado.",
+          "es": "Ronda de desafío: pon el metrónomo a 76 BPM, aplaude en los tiempos 2 y 4 y construye cuatro grooves distintos de dos compases usando el mismo mapa. Si una versión suena demasiado cargada, quita notas hasta que el pocket pese más.",
+          "de": "Challenge-Runde: Stell das Metronom auf 76 BPM, klatsche auf 2 und 4 und baue vier verschiedene zweitaktige Grooves aus derselben Karte. Wenn eine Version zu voll klingt, nimm Noten weg, bis das Pocket schwerer wird.",
+          "ja": "チャレンジ・ラウンド：メトロノームを76 BPMにし、2拍目と4拍目で手拍子しながら、同じ地図から2小節グルーヴを4種類作ります。音が多すぎると感じたら、ポケットが重くなるまで音を減らしましょう。",
+          "zh-Hans": "挑战回合：把节拍器设为76 BPM，在第2和第4拍拍手，然后用同一张地图做出四种不同的两小节 groove。如果某个版本太满，就删掉一些音，直到 pocket 变得更重。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Treasure test: record one final groove, then ask yourself three things—does it sing, does it breathe, and does it land hard? If yes, you found the treasure.",
+          "pt-BR": "Teste do tesouro: grave um groove final e pergunte três coisas — ele canta, ele respira e ele aterrissa forte? Se sim, você encontrou o tesouro.",
+          "es": "Prueba del tesoro: graba un groove final y pregúntate tres cosas: ¿canta, respira y aterriza con fuerza? Si sí, encontraste el tesoro.",
+          "de": "Schatztest: Nimm einen letzten Groove auf und frage dich drei Dinge — singt er, atmet er und landet er hart? Wenn ja, hast du den Schatz gefunden.",
+          "ja": "宝テスト：最後に1つグルーヴを録音し、「歌っているか、呼吸しているか、強く着地しているか」を確認します。全部Yesなら宝発見です。",
+          "zh-Hans": "宝藏测试：录下最后一个 groove，再问自己三个问题——它会唱吗？它会呼吸吗？它的落点够狠吗？如果都成立，你就找到宝藏了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-10T00:06:39Z",
+  "updatedAt": "2026-07-10T00:06:39Z"
+}

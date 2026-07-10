@@ -1874,5 +1874,33 @@
     "order": 67,
     "createdAt": "2026-07-08T00:08:01Z",
     "updatedAt": "2026-07-08T00:08:01Z"
+  },
+  {
+    "id": "bass-pocket-treasure-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Treasure Map",
+        "pt-BR": "Mapa do Tesouro do Pocket no Baixo",
+        "es": "Mapa del Tesoro del Pocket para Bajo",
+        "de": "Bass-Pocket-Schatzkarte",
+        "ja": "ベース・ポケット宝の地図",
+        "zh-Hans": "贝斯 Pocket 宝藏地图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Follow a groove map through major-scale notes, ghost notes, and strong landings.",
+        "pt-BR": "Siga um mapa de groove por notas da escala maior, ghost notes e chegadas fortes.",
+        "es": "Sigue un mapa de groove con notas de escala mayor, ghost notes y aterrizajes fuertes.",
+        "de": "Folge einer Groove-Karte durch Durtonleiter-Töne, Ghost Notes und starke Landungen.",
+        "ja": "メジャースケール音、ゴーストノート、強い着地を使ってグルーヴ地図を進もう。",
+        "zh-Hans": "沿着大调音阶音、幽灵音和强力落点组成的地图前进。"
+      }
+    },
+    "order": 68,
+    "createdAt": "2026-07-10T00:06:39Z",
+    "updatedAt": "2026-07-10T00:06:39Z"
   }
 ]

@@ -1370,5 +1370,33 @@
     "order": 49,
     "createdAt": "2026-07-08T00:09:29Z",
     "updatedAt": "2026-07-08T00:09:29Z"
+  },
+  {
+    "id": "piano-scale-boss-bridge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Boss Bridge",
+        "pt-BR": "Ponte Chefão das Escalas no Piano",
+        "es": "Puente Jefe Final de Escalas al Piano",
+        "de": "Klavier-Skalen-Bossbrücke",
+        "ja": "ピアノ・スケール ボスブリッジ",
+        "zh-Hans": "钢琴音阶 Boss 之桥"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a daily scale routine that crosses from clean technique to musical control.",
+        "pt-BR": "Construa uma rotina diária de escalas que cruza técnica limpa com controle musical.",
+        "es": "Construye una rutina diaria de escalas que una técnica limpia y control musical.",
+        "de": "Baue eine tägliche Skalenroutine, die saubere Technik mit musikalischer Kontrolle verbindet.",
+        "ja": "きれいな技術から音楽的コントロールへ渡る毎日の音階ルーティンを作ろう。",
+        "zh-Hans": "建立一套把干净技术连接到音乐控制力的日常音阶练习。"
+      }
+    },
+    "order": 50,
+    "createdAt": "2026-07-10T00:07:55Z",
+    "updatedAt": "2026-07-10T00:07:55Z"
   }
 ]
