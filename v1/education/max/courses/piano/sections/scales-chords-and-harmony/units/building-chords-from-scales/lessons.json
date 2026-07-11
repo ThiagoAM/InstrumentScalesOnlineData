@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "triad-elevator-in-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Triad Elevator in C Major",
+        "pt-BR": "Elevador de Tríades em Dó Maior",
+        "es": "Ascensor de Tríadas en Do Mayor",
+        "de": "Dreiklang-Aufzug in C-Dur",
+        "ja": "Cメジャーのトライアド・エレベーター",
+        "zh-Hans": "C大调三和弦电梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Stack and invert triads from C major so your piano hands hear harmony, not just note piles.",
+        "pt-BR": "Empilhe e inverta tríades de Dó maior para que suas mãos no piano ouçam harmonia, não apenas montes de notas.",
+        "es": "Apila e invierte tríadas de Do mayor para que tus manos en el piano escuchen armonía y no solo montones de notas.",
+        "de": "Schichte und invertiere Dreiklänge aus C-Dur, damit deine Hände am Klavier Harmonie statt bloßer Notenhaufen hören.",
+        "ja": "Cメジャーのトライアドを積み上げて転回し、ピアノの手で“音の山”ではなく和声を聴けるようにします。",
+        "zh-Hans": "在C大调里堆叠并转位三和弦，让你的钢琴双手听见的是和声，而不是一堆白键。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-11T00:06:34Z",
+    "updatedAt": "2026-07-11T00:06:34Z"
   }
 ]

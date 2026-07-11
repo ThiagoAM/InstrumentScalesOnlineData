@@ -1,0 +1,99 @@
+{
+  "id": "triad-elevator-in-c-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you are building an elevator of triads inside C major. Each stop changes the harmony, but the scale stays the same, so your ears must learn to hear function instead of random white keys.",
+          "pt-BR": "Hoje você vai construir um elevador de tríades dentro de Dó maior. Cada parada muda a harmonia, mas a escala continua a mesma, então seus ouvidos precisam aprender a ouvir função em vez de teclas brancas aleatórias.",
+          "es": "Hoy vas a construir un ascensor de tríadas dentro de Do mayor. Cada parada cambia la armonía, pero la escala sigue siendo la misma, así que tus oídos deben aprender a escuchar función y no teclas blancas al azar.",
+          "de": "Heute baust du einen Aufzug aus Dreiklängen innerhalb von C-Dur. Jede Etage verändert die Harmonie, aber die Tonleiter bleibt gleich, also müssen deine Ohren Funktion statt zufälliger weißer Tasten hören lernen.",
+          "ja": "今日のテーマは、Cメジャーの中にトライアドのエレベーターを作ることです。止まる場所ごとにハーモニーは変わりますが、使う音階は同じなので、耳はランダムな白鍵ではなく機能を聴き分ける必要があります。",
+          "zh-Hans": "今天你要在C大调里搭一部“三和弦电梯”。每到一层，和声都会变化，但音阶并没有变，所以你的耳朵要学会听见功能，而不是随便的一串白键。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up by playing the C major scale with the right hand, then stop on C, D, E, F, G, A, and B. On each stop, stack every other note to build a triad and say its quality out loud: major, minor, or diminished.",
+          "pt-BR": "Aqueça tocando a escala de Dó maior com a mão direita e depois pare em C, D, E, F, G, A e B. Em cada parada, empilhe uma nota sim, uma não, para montar uma tríade e diga em voz alta sua qualidade: maior, menor ou diminuta.",
+          "es": "Calienta tocando la escala de Do mayor con la mano derecha y luego detente en C, D, E, F, G, A y B. En cada parada apila una nota sí y otra no para formar una tríada y di en voz alta su cualidad: mayor, menor o disminuida.",
+          "de": "Wärme dich auf, indem du die C-Dur-Tonleiter mit der rechten Hand spielst und dann auf C, D, E, F, G, A und B anhältst. An jeder Station schichtest du jeden zweiten Ton zu einem Dreiklang und sagst seine Qualität laut: Dur, Moll oder vermindert.",
+          "ja": "まず右手でCメジャースケールを弾き、C、D、E、F、G、A、Bで順に止まりましょう。各音から1つおきに音を積み、トライアドを作って、長三和音・短三和音・減三和音のどれかを声に出して言います。",
+          "zh-Hans": "先用右手弹C大调音阶，然后分别停在C、D、E、F、G、A、B上。每停一次，就隔一个音叠一个音组成三和弦，并大声说出它的性质：大三和弦、小三和弦，还是减三和弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: play I, ii, iii, IV, V, vi, and vii° as block chords in root position with both hands. Keep the pulse steady and listen for which chords feel stable, which feel tense, and which feel like they want to move.",
+          "pt-BR": "Exercício principal: toque I, ii, iii, IV, V, vi e vii° como acordes fechados na posição fundamental com as duas mãos. Mantenha o pulso firme e ouça quais acordes soam estáveis, quais soam tensos e quais parecem querer se mover.",
+          "es": "Ejercicio principal: toca I, ii, iii, IV, V, vi y vii° como acordes en bloque en posición fundamental con ambas manos. Mantén el pulso estable y escucha qué acordes se sienten estables, cuáles tensos y cuáles quieren moverse.",
+          "de": "Hauptübung: Spiele I, ii, iii, IV, V, vi und vii° als Blockakkorde in Grundstellung mit beiden Händen. Halte den Puls stabil und höre, welche Akkorde ruhig klingen, welche Spannung haben und welche weiterziehen wollen.",
+          "ja": "メイン練習：I、ii、iii、IV、V、vi、vii°を、両手で基本形のブロックコードとして弾きます。拍を一定に保ち、どの和音が安定し、どれが緊張し、どれが先へ進みたがるかを聴きましょう。",
+          "zh-Hans": "主练习：用双手把 I、ii、iii、IV、V、vi、vii° 作为原位柱式和弦弹出来。保持稳定脉冲，听听哪些和弦稳定、哪些紧张、哪些像是在催你继续前进。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now ride the elevator: play the same seven triads again, but move each one to the nearest inversion so your hands travel as little as possible. Smooth voice leading is the goal, not big jumps.",
+          "pt-BR": "Agora suba no elevador: toque as mesmas sete tríades novamente, mas mova cada uma para a inversão mais próxima, para que suas mãos viajem o mínimo possível. O objetivo é condução suave de vozes, não saltos grandes.",
+          "es": "Ahora súbete al ascensor: toca otra vez las mismas siete tríadas, pero mueve cada una a la inversión más cercana para que tus manos viajen lo menos posible. La meta es una conducción de voces suave, no grandes saltos.",
+          "de": "Jetzt fährt der Aufzug: Spiele dieselben sieben Dreiklänge noch einmal, aber verschiebe jeden in die nächstliegende Umkehrung, damit deine Hände sich so wenig wie möglich bewegen. Das Ziel ist weiche Stimmführung, nicht große Sprünge.",
+          "ja": "次はエレベーターに乗ります。同じ7つのトライアドをもう一度弾きますが、毎回いちばん近い転回形に移して、手の移動を最小限にしてください。大きな跳躍ではなく、なめらかなボイスリーディングが目標です。",
+          "zh-Hans": "现在坐上电梯：再把这七个三和弦弹一遍，但每次都移动到最近的转位，让双手尽量少跑动。目标是平滑的声部连接，不是大跳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: hold the left hand on single roots while the right hand plays the triads in different inversions. This forces you to hear the chord identity even when the top notes keep changing.",
+          "pt-BR": "Rodada de desafio: mantenha a mão esquerda em tônicas isoladas enquanto a mão direita toca as tríades em inversões diferentes. Isso obriga você a ouvir a identidade do acorde mesmo quando as notas de cima mudam.",
+          "es": "Ronda de desafío: mantén la mano izquierda en raíces simples mientras la mano derecha toca las tríadas en distintas inversiones. Esto te obliga a oír la identidad del acorde incluso cuando las notas superiores cambian.",
+          "de": "Challenge-Runde: Halte in der linken Hand nur die Grundtöne, während die rechte Hand die Dreiklänge in verschiedenen Umkehrungen spielt. So musst du die Akkordidentität hören, auch wenn sich die oberen Töne ständig ändern.",
+          "ja": "チャレンジラウンド：左手は単音のルートだけを保ち、右手はさまざまな転回形でトライアドを弾きます。上の音が変わってもコードの正体を耳で保つ練習になります。",
+          "zh-Hans": "挑战环节：左手只按单音根音，右手用不同转位弹三和弦。这样即使上方音不停变化，你也必须听得出和弦身份。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative task: invent a 4-chord loop using only diatonic triads from C major, then arpeggiate each chord for one bar. Bonus points if the top note forms a singable melody.",
+          "pt-BR": "Tarefa criativa: invente um ciclo de 4 acordes usando apenas tríades diatônicas de Dó maior e depois arpeje cada acorde por um compasso. Pontos extras se a nota mais aguda formar uma melodia cantável.",
+          "es": "Tarea creativa: inventa un bucle de 4 acordes usando solo tríadas diatónicas de Do mayor y luego arpegia cada acorde durante un compás. Puntos extra si la nota superior forma una melodía que se pueda cantar.",
+          "de": "Kreative Aufgabe: Erfinde eine 4-Akkord-Schleife nur mit diatonischen Dreiklängen aus C-Dur und arpeggiere dann jeden Akkord einen Takt lang. Bonuspunkte gibt es, wenn der oberste Ton eine singbare Melodie bildet.",
+          "ja": "創作課題：Cメジャーのダイアトニック・トライアドだけを使って4コードのループを作り、各コードを1小節ずつ分散和音にしてください。いちばん上の音が歌えるメロディになればボーナスです。",
+          "zh-Hans": "创意任务：只用C大调里的自然三和弦设计一个4和弦循环，然后把每个和弦分解一小节来弹。如果最高音还能组成一条能唱出来的旋律，就更棒了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Win condition: record your loop twice—once with block chords and once with broken chords—and check whether both versions clearly tell the same harmonic story.",
+          "pt-BR": "Condição de vitória: grave seu ciclo duas vezes — uma com acordes em bloco e outra com acordes quebrados — e confira se as duas versões contam claramente a mesma história harmônica.",
+          "es": "Condición de victoria: graba tu bucle dos veces, una con acordes en bloque y otra con acordes quebrados, y comprueba si ambas versiones cuentan claramente la misma historia armónica.",
+          "de": "Siegbedingung: Nimm deine Schleife zweimal auf — einmal mit Blockakkorden und einmal mit gebrochenen Akkorden — und prüfe, ob beide Versionen dieselbe harmonische Geschichte klar erzählen.",
+          "ja": "クリア条件：そのループを2回録音し、1回はブロックコード、もう1回は分散和音で弾きます。両方とも同じ和声の物語をはっきり伝えられているか確認しましょう。",
+          "zh-Hans": "通关条件：把你的循环录两遍——一遍用柱式和弦，一遍用分解和弦——然后检查两种版本是否都在清楚讲述同一个和声故事。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-11T00:06:34Z",
+  "updatedAt": "2026-07-11T00:06:34Z"
+}

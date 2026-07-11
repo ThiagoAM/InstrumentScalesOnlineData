@@ -390,5 +390,33 @@
     "order": 14,
     "createdAt": "2026-06-26T00:07:48Z",
     "updatedAt": "2026-06-26T00:07:48Z"
+  },
+  {
+    "id": "a-minor-chord-tone-treasure-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord-Tone Treasure Hunt in A Minor",
+        "pt-BR": "Caça ao Tesouro das Notas do Acorde em Lá Menor",
+        "es": "Caza del Tesoro de Tonos del Acorde en La Menor",
+        "de": "Akkordton-Schatzsuche in a-Moll",
+        "ja": "Aマイナーで探すコードトーン宝探し",
+        "zh-Hans": "A小调和弦音寻宝"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Target chord tones inside A natural minor so your guitar solos stop wandering and start landing with purpose.",
+        "pt-BR": "Mire nas notas do acorde dentro de Lá menor natural para que seus solos de guitarra parem de vagar e passem a pousar com intenção.",
+        "es": "Apunta a los tonos del acorde dentro de La menor natural para que tus solos de guitarra dejen de vagar y empiecen a aterrizar con intención.",
+        "de": "Ziele innerhalb von a-Moll natürlich auf Akkordtöne, damit deine Gitarrensoli nicht mehr herumirren, sondern bewusst landen.",
+        "ja": "Aナチュラルマイナーの中でコードトーンを狙い、ギターソロがさまよわず意図を持って着地できるようにします。",
+        "zh-Hans": "在A自然小调里瞄准和弦音，让你的吉他独奏不再乱逛，而是带着目标落地。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-07-11T00:06:33Z",
+    "updatedAt": "2026-07-11T00:06:33Z"
   }
 ]

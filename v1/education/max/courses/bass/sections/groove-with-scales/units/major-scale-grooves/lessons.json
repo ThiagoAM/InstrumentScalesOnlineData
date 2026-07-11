@@ -1902,5 +1902,33 @@
     "order": 68,
     "createdAt": "2026-07-10T00:06:39Z",
     "updatedAt": "2026-07-10T00:06:39Z"
+  },
+  {
+    "id": "g-major-pocket-conveyor",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Pocket Conveyor",
+        "pt-BR": "Esteira de Pocket em Sol Maior",
+        "es": "Cinta de Pocket en Sol Mayor",
+        "de": "Pocket-Förderband in G-Dur",
+        "ja": "Gメジャー・ポケット・コンベヤー",
+        "zh-Hans": "G大调律动传送带"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove in G major that keeps moving forward without spilling the pocket.",
+        "pt-BR": "Construa um groove de baixo em Sol maior que siga em frente sem derrubar o pocket.",
+        "es": "Construye un groove de bajo en Sol mayor que siga avanzando sin derramar el pocket.",
+        "de": "Baue einen Bassgroove in G-Dur, der vorwärtsläuft, ohne das Pocket zu verschütten.",
+        "ja": "Gメジャーで前に進み続けるのに、ポケットはこぼさないベースグルーヴを作ります。",
+        "zh-Hans": "做出一条在G大调里持续前进、却不会把 pocket 洒出去的贝斯律动。"
+      }
+    },
+    "order": 69,
+    "createdAt": "2026-07-11T00:06:34Z",
+    "updatedAt": "2026-07-11T00:06:34Z"
   }
 ]

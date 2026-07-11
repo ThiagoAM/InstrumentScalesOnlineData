@@ -1,0 +1,99 @@
+{
+  "id": "g-major-pocket-conveyor",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine a conveyor belt carrying your groove through G major. Your job is to keep the bass line moving with steady time, strong roots, and just enough variation to stay interesting.",
+          "pt-BR": "Imagine uma esteira levando seu groove através de Sol maior. Seu trabalho é manter a linha de baixo andando com tempo firme, tônicas fortes e variação suficiente para continuar interessante.",
+          "es": "Imagina una cinta transportadora llevando tu groove por Sol mayor. Tu trabajo es mantener la línea de bajo en movimiento con tiempo estable, fundamentales fuertes y la variación justa para seguir siendo interesante.",
+          "de": "Stell dir ein Förderband vor, das deinen Groove durch G-Dur trägt. Deine Aufgabe ist es, die Basslinie mit stabilem Timing, starken Grundtönen und genau genug Variation in Bewegung zu halten.",
+          "ja": "グルーヴがGメジャーの上をコンベヤーベルトのように運ばれていくと想像してください。あなたの仕事は、安定したタイム、強いルート、そしてちょうどいい変化でベースラインを前へ進め続けることです。",
+          "zh-Hans": "想象有一条传送带正把你的 groove 运过 G 大调。你的任务是用稳定的节奏、强壮的根音和刚刚好的变化，让贝斯线持续向前推进。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up your anchors first: G on the 3rd fret of the E string, D on the 5th fret of the A string, and E on the 2nd fret of the D string. Play them as long notes so your hands remember where the groove lives.",
+          "pt-BR": "Prepare suas âncoras primeiro: G na 3ª casa da corda Mi, D na 5ª casa da corda Lá e E na 2ª casa da corda Ré. Toque essas notas longas para que as mãos lembrem onde o groove mora.",
+          "es": "Prepara primero tus anclas: G en el traste 3 de la cuerda E, D en el traste 5 de la cuerda A y E en el traste 2 de la cuerda D. Toca esas notas largas para que tus manos recuerden dónde vive el groove.",
+          "de": "Lege zuerst deine Anker fest: G im 3. Bund der E-Saite, D im 5. Bund der A-Saite und E im 2. Bund der D-Saite. Spiele diese Töne lang, damit deine Hände sich merken, wo das Groove-Zentrum liegt.",
+          "ja": "まずはアンカーを置きます。E弦3フレットのG、A弦5フレットのD、D弦2フレットのEです。長い音で弾いて、グルーヴの居場所を手に覚えさせましょう。",
+          "zh-Hans": "先设好锚点：E弦第3品的G、A弦第5品的D、D弦第2品的E。把这些音拉长来弹，让双手记住 groove 住在哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main groove drill: make a two-bar line using only G, A, B, D, and E. Bar 1 must start on G, bar 2 must start on D, and every last eighth note should be a rest or a ghost note.",
+          "pt-BR": "Exercício principal de groove: crie uma linha de dois compassos usando apenas G, A, B, D e E. O compasso 1 precisa começar em G, o compasso 2 precisa começar em D, e a última colcheia de cada compasso deve ser pausa ou ghost note.",
+          "es": "Ejercicio principal de groove: crea una línea de dos compases usando solo G, A, B, D y E. El compás 1 debe empezar en G, el compás 2 debe empezar en D y la última corchea de cada compás debe ser un silencio o una ghost note.",
+          "de": "Hauptübung: Baue eine zweitaktige Linie nur mit G, A, B, D und E. Takt 1 muss auf G beginnen, Takt 2 auf D, und die letzte Achtelnote jedes Takts soll eine Pause oder eine Ghost Note sein.",
+          "ja": "メインのグルーヴ練習：G、A、B、D、Eだけを使って2小節のラインを作ります。1小節目はGで始め、2小節目はDで始め、各小節の最後の8分音符は休符かゴーストノートにしてください。",
+          "zh-Hans": "主 groove 练习：只用 G、A、B、D、E 做一条两小节的线。第1小节必须从 G 开始，第2小节必须从 D 开始，而且每小节最后一个八分音符必须是休止或幽灵音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now tighten the pocket by repeating the same rhythm for three rounds while changing only one pitch each time. This teaches your ears that tiny note choices can change the whole attitude of a groove.",
+          "pt-BR": "Agora aperte o pocket repetindo o mesmo ritmo por três rodadas e mudando apenas uma altura por vez. Isso ensina ao ouvido que pequenas escolhas de nota mudam toda a atitude do groove.",
+          "es": "Ahora aprieta el pocket repitiendo el mismo ritmo durante tres vueltas y cambiando solo una altura cada vez. Eso enseña a tu oído que pequeñas decisiones de nota pueden cambiar toda la actitud del groove.",
+          "de": "Ziehe das Pocket jetzt enger, indem du denselben Rhythmus drei Durchgänge lang wiederholst und jedes Mal nur eine Tonhöhe änderst. So lernt dein Ohr, dass kleine Tonentscheidungen die ganze Haltung eines Grooves verändern können.",
+          "ja": "次にポケットを締めます。同じリズムを3回くり返し、毎回変えるのは1つの音高だけにしましょう。ほんの少しの音選びでグルーヴ全体の表情が変わることを耳で学べます。",
+          "zh-Hans": "现在把 pocket 收紧：连续三轮使用同一个节奏，每次只改变一个音高。这样你的耳朵会学到，一个很小的音高决定也能改变整个 groove 的态度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add passing motion: connect G to B with A, and connect D back to G with E or F#. If the line starts sounding busy, remove notes before you add more.",
+          "pt-BR": "Adicione movimento de passagem: ligue G a B com A e ligue D de volta a G com E ou F#. Se a linha começar a soar ocupada demais, remova notas antes de adicionar mais.",
+          "es": "Añade movimiento de paso: conecta G con B usando A y conecta D de vuelta a G con E o F#. Si la línea empieza a sonar demasiado ocupada, quita notas antes de añadir más.",
+          "de": "Füge Durchgangsbewegung hinzu: Verbinde G mit B über A und führe D mit E oder F# zurück nach G. Wenn die Linie zu beschäftigt klingt, nimm erst Noten weg, bevor du neue hinzufügst.",
+          "ja": "経過音の動きも加えます。GからBへはAを通り、DからGへ戻るときはEかF#を使ってください。ラインが忙しく聞こえ始めたら、音を増やす前にまず減らしましょう。",
+          "zh-Hans": "加入经过运动：用 A 连接 G 到 B，用 E 或 F# 把 D 带回 G。如果这条线开始显得太忙，先删音，再考虑加音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: play the groove with a metronome clicking only on beats 2 and 4. If your line stays heavy and relaxed, the internal clock is doing its job.",
+          "pt-BR": "Rodada de desafio: toque o groove com o metrônomo marcando apenas os tempos 2 e 4. Se a linha continuar pesada e relaxada, seu relógio interno está fazendo o trabalho certo.",
+          "es": "Ronda de desafío: toca el groove con un metrónomo marcando solo los tiempos 2 y 4. Si la línea sigue sonando pesada y relajada, tu reloj interno está haciendo bien su trabajo.",
+          "de": "Challenge-Runde: Spiele den Groove mit einem Metronom, das nur auf Zählzeit 2 und 4 klickt. Wenn die Linie schwer und entspannt bleibt, arbeitet deine innere Uhr richtig.",
+          "ja": "チャレンジラウンド：メトロノームを2拍目と4拍目だけ鳴らしてグルーヴを弾きます。それでも重く、落ち着いた感じが保てるなら、内側の時計はちゃんと働いています。",
+          "zh-Hans": "挑战环节：让节拍器只在第2拍和第4拍响，再弹这个 groove。如果线条仍然厚实、放松，说明你的内部时钟正在正常工作。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with an 8-bar jam where bars 1-4 stay simple and bars 5-8 add one rhythmic surprise per bar. Win by making the groove feel deeper, not more crowded.",
+          "pt-BR": "Termine com um jam de 8 compassos em que os compassos 1 a 4 ficam simples e os compassos 5 a 8 ganham uma surpresa rítmica por compasso. Vença fazendo o groove soar mais profundo, não mais lotado.",
+          "es": "Termina con una jam de 8 compases en la que los compases 1-4 se mantengan simples y los compases 5-8 añadan una sorpresa rítmica por compás. Gana haciendo que el groove se sienta más profundo, no más lleno.",
+          "de": "Beende die Lektion mit einem 8-taktigen Jam, bei dem Takt 1-4 einfach bleiben und Takt 5-8 pro Takt eine rhythmische Überraschung bekommen. Gewonnen hast du, wenn der Groove tiefer wirkt statt voller.",
+          "ja": "最後は8小節のジャム。1〜4小節目はシンプルに保ち、5〜8小節目は各小節に1つだけリズムの驚きを入れましょう。音数ではなく、グルーヴの深さが増せば勝ちです。",
+          "zh-Hans": "最后来一段8小节 jam：1到4小节保持简单，5到8小节每小节加入一个节奏惊喜。获胜标准是 groove 更深，不是更挤。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-11T00:06:34Z",
+  "updatedAt": "2026-07-11T00:06:34Z"
+}
