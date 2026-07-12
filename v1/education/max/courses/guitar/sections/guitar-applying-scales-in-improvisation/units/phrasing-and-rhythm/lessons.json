@@ -978,5 +978,33 @@
     "order": 35,
     "createdAt": "2026-07-09T00:06:33Z",
     "updatedAt": "2026-07-09T00:06:33Z"
+  },
+  {
+    "id": "guitar-rhythm-smoke-signals",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Smoke Signals",
+        "pt-BR": "Sinais de Fumaça Rítmicos na Guitarra",
+        "es": "Señales de Humo Rítmicas en Guitarra",
+        "de": "Rhythmische Rauchsignale auf der Gitarre",
+        "ja": "ギターのリズム・スモークシグナル",
+        "zh-Hans": "吉他节奏烟雾信号"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Send clear rhythmic signals through a scale so every phrase lands with purpose and groove.",
+        "pt-BR": "Envie sinais rítmicos claros pela escala para que cada frase chegue com intenção e groove.",
+        "es": "Envía señales rítmicas claras a través de la escala para que cada frase llegue con intención y groove.",
+        "de": "Sende klare rhythmische Signale durch eine Skala, damit jede Phrase mit Absicht und Groove landet.",
+        "ja": "スケールの中で明確なリズム信号を送り、すべてのフレーズを意図とグルーヴ付きで着地させよう。",
+        "zh-Hans": "用清晰的节奏信号穿过音阶，让每个乐句都带着目的感和 groove 落地。"
+      }
+    },
+    "order": 36,
+    "createdAt": "2026-07-12T00:05:51Z",
+    "updatedAt": "2026-07-12T00:05:51Z"
   }
 ]

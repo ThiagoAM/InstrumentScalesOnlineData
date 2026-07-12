@@ -1398,5 +1398,33 @@
     "order": 50,
     "createdAt": "2026-07-10T00:07:55Z",
     "updatedAt": "2026-07-10T00:07:55Z"
+  },
+  {
+    "id": "piano-scale-launchpad",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Launchpad",
+        "pt-BR": "Plataforma de Lançamento das Escalas no Piano",
+        "es": "Plataforma de Lanzamiento de Escalas al Piano",
+        "de": "Klavier-Tonleiter-Launchpad",
+        "ja": "ピアノ・スケール発射台",
+        "zh-Hans": "钢琴音阶发射台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a daily scale routine into a controlled launch with balanced hands, clear tone, and musical momentum.",
+        "pt-BR": "Transforme a rotina diária de escalas em um lançamento controlado com mãos equilibradas, timbre claro e impulso musical.",
+        "es": "Convierte la rutina diaria de escalas en un lanzamiento controlado con manos equilibradas, sonido claro y impulso musical.",
+        "de": "Verwandle deine tägliche Tonleiter-Routine in einen kontrollierten Start mit ausgeglichenen Händen, klarem Klang und musikalischem Schwung.",
+        "ja": "毎日のスケール練習を、両手のバランス、明るい音色、音楽的な推進力を備えたコントロールされた打ち上げに変えよう。",
+        "zh-Hans": "把每日音阶练习变成一次可控的发射，兼顾双手平衡、清晰音色和音乐性的推进感。"
+      }
+    },
+    "order": 51,
+    "createdAt": "2026-07-12T00:08:18Z",
+    "updatedAt": "2026-07-12T00:08:18Z"
   }
 ]

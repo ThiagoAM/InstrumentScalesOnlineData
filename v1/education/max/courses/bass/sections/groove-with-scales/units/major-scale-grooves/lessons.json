@@ -1930,5 +1930,33 @@
     "order": 69,
     "createdAt": "2026-07-11T00:06:34Z",
     "updatedAt": "2026-07-11T00:06:34Z"
+  },
+  {
+    "id": "bass-pocket-bridge-beacons",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Bridge Beacons",
+        "pt-BR": "Balizas da Ponte do Pocket no Baixo",
+        "es": "Balizas del Puente del Pocket en Bajo",
+        "de": "Pocket-Brückenbaken am Bass",
+        "ja": "ベース・ポケットのブリッジビーコン",
+        "zh-Hans": "贝斯 Pocket 桥梁航标"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a strong bass groove by lighting clear landing points across roots, space, and scale motion.",
+        "pt-BR": "Construa um groove firme no baixo acendendo pontos de chegada claros entre tônica, espaço e movimento de escala.",
+        "es": "Construye un groove firme de bajo encendiendo puntos de llegada claros entre tónica, espacio y movimiento de escala.",
+        "de": "Baue einen starken Bassgroove, indem du klare Landepunkte zwischen Grundtönen, Raum und Skalenbewegung setzt.",
+        "ja": "ルート、スペース、スケールの動きに明確な着地点を灯して、強いベースグルーヴを作ろう。",
+        "zh-Hans": "在根音、留白和音阶运动之间点亮清晰落点，打造稳固的贝斯 groove。"
+      }
+    },
+    "order": 70,
+    "createdAt": "2026-07-12T00:07:18Z",
+    "updatedAt": "2026-07-12T00:07:18Z"
   }
 ]
