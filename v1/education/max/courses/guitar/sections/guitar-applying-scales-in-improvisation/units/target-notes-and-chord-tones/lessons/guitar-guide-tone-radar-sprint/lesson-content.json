@@ -1,0 +1,73 @@
+{
+  "id": "guitar-guide-tone-radar-sprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a simple two-chord loop in G major, like G to C, and treat the fretboard like a radar screen. Stay around 3rd to 7th position, set the metronome to 76 BPM, and begin with only quarter notes. Your mission is to make the 3rd of each chord feel like the bright dot on the screen that keeps every phrase on course.",
+          "pt-BR": "Monte um loop simples de dois acordes em Sol maior, como G para C, e trate o braço da guitarra como uma tela de radar. Fique entre a 3ª e a 7ª posição, coloque o metrônomo em 76 BPM e comece apenas com semínimas. Sua missão é fazer a 3ª de cada acorde soar como o ponto brilhante na tela que mantém cada frase na rota.",
+          "es": "Monta un loop simple de dos acordes en Sol mayor, como G a C, y trata el mástil como una pantalla de radar. Quédate entre la 3ª y la 7ª posición, pon el metrónomo a 76 BPM y empieza solo con negras. Tu misión es hacer que la 3ª de cada acorde se sienta como el punto brillante en la pantalla que mantiene cada frase en rumbo.",
+          "de": "Baue einen einfachen Zwei-Akkord-Loop in G-Dur auf, zum Beispiel G nach C, und behandle das Griffbrett wie einen Radarschirm. Bleib etwa in der 3. bis 7. Lage, stelle das Metronom auf 76 BPM und beginne nur mit Viertelnoten. Deine Mission ist es, die Terz jedes Akkords wie den hellen Punkt auf dem Schirm klingen zu lassen, der jede Phrase auf Kurs hält.",
+          "ja": "Gメジャーで G から C へ進むシンプルな2コードループを用意し、指板をレーダー画面だと思ってください。3〜7ポジション付近にとどまり、メトロノームを76 BPMに設定し、まずは4分音符だけで始めます。各コードの3度を、フレーズを進路に乗せ続ける画面上の明るい点として感じるのがミッションです。",
+          "zh-Hans": "先搭一个 G 大调里的两和弦循环，比如 G 到 C，并把指板想成一块雷达屏幕。活动范围控制在 3 到 7 把位，把节拍器设在 76 BPM，先只用四分音符开始。你的任务，是把每个和弦的三音弹成屏幕上的亮点，让每一句乐句都不会偏航。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "On G, aim for B. On C, aim for E. Play one bar on each chord, and make your last note in every bar land on the guide tone. You can travel through any nearby scale notes you want, but the landing must be clean and confident. If the target note feels blurry, stop and sing it before you play.",
+          "pt-BR": "Sobre G, mire no B. Sobre C, mire no E. Toque um compasso em cada acorde e faça a última nota de cada compasso cair no guide tone. Você pode passar por quaisquer notas próximas da escala, mas a aterrissagem precisa ser limpa e confiante. Se a nota-alvo parecer nebulosa, pare e cante antes de tocar.",
+          "es": "Sobre G, apunta a B. Sobre C, apunta a E. Toca un compás en cada acorde y haz que la última nota de cada compás caiga en la nota guía. Puedes pasar por cualquier nota cercana de la escala, pero la llegada debe ser limpia y segura. Si la nota objetivo se siente borrosa, detente y cántala antes de tocar.",
+          "de": "Über G zielst du auf B. Über C zielst du auf E. Spiele je einen Takt pro Akkord und lande mit dem letzten Ton jedes Takts auf dem Guide Tone. Du darfst beliebige nahe Skalentöne benutzen, aber die Landung muss sauber und sicher sein. Wenn der Zielton unscharf wirkt, stopp und sing ihn, bevor du spielst.",
+          "ja": "Gの上ではB、Cの上ではEを狙います。各コードを1小節ずつ弾き、毎小節の最後の音を必ずガイドトーンに着地させてください。途中のスケール音は自由に使って構いませんが、着地はクリーンで自信あるものにします。目標音がぼやけるなら、弾く前に歌いましょう。",
+          "zh-Hans": "在 G 上瞄准 B，在 C 上瞄准 E。每个和弦弹一小节，而且每小节最后一个音都必须落在导音上。中间经过哪些邻近音阶音都可以，但落点一定要干净、笃定。如果目标音听起来还是模糊的，就先唱出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a rhythm twist. In every second pass, the first bar must stay spacious with rests, and the second bar must answer with a busier line of eighth notes. The contrast should sound intentional, not random. You are training your ear to hear guide tones as story points, not just rescue notes.",
+          "pt-BR": "Agora adicione uma torção rítmica. Em cada segunda volta, o primeiro compasso deve ficar espaçoso, com pausas, e o segundo compasso deve responder com uma linha mais movimentada de colcheias. O contraste deve soar intencional, não aleatório. Você está treinando o ouvido para escutar os guide tones como pontos de história, não só notas de resgate.",
+          "es": "Ahora añade un giro rítmico. En cada segunda vuelta, el primer compás debe quedarse espacioso, con silencios, y el segundo compás debe responder con una línea más activa de corcheas. El contraste debe sonar intencional, no aleatorio. Estás entrenando tu oído para escuchar las notas guía como puntos de historia, no solo como notas de rescate.",
+          "de": "Jetzt kommt ein rhythmischer Dreh. In jedem zweiten Durchlauf muss der erste Takt luftig mit Pausen bleiben, und der zweite Takt antwortet mit einer aktiveren Achtelnotenlinie. Der Kontrast soll absichtlich klingen, nicht zufällig. Du trainierst dein Ohr darauf, Guide Tones als Handlungspunkte statt nur als Rettungstöne zu hören.",
+          "ja": "次はリズムのひねりです。2周目ごとに、最初の小節は休符を多く使って広く保ち、次の小節で8分音符のより忙しいラインで返答します。この対比は偶然ではなく意図として聞こえる必要があります。ガイドトーンを単なる救済音ではなく、物語の節目として耳に入れる訓練です。",
+          "zh-Hans": "现在加入节奏转折。每到第二轮时，第一小节必须留出更多空白和休止，第二小节再用更活跃的八分音符线条来回答。这种对比要听起来像设计好的，不是随便发生的。你在训练耳朵把导音听成故事节点，而不只是救场音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: four bars, four rules. Bar 1 starts low on strings 6 or 5. Bar 2 climbs toward a higher landing. Bar 3 uses one slide into a guide tone. Bar 4 must end with at least a half-beat of silence after the landing. Repeat until the phrases sound like sentences with punctuation.",
+          "pt-BR": "Rodada de desafio: quatro compassos, quatro regras. O compasso 1 começa grave nas cordas 6 ou 5. O compasso 2 sobe para uma aterrissagem mais aguda. O compasso 3 usa um slide até um guide tone. O compasso 4 deve terminar com pelo menos meio tempo de silêncio depois da chegada. Repita até as frases soarem como sentenças com pontuação.",
+          "es": "Ronda de desafío: cuatro compases, cuatro reglas. El compás 1 empieza grave en las cuerdas 6 o 5. El compás 2 sube hacia una llegada más aguda. El compás 3 usa un slide hacia una nota guía. El compás 4 debe terminar con al menos medio pulso de silencio después de la llegada. Repite hasta que las frases suenen como oraciones con puntuación.",
+          "de": "Herausforderungsrunde: vier Takte, vier Regeln. Takt 1 beginnt tief auf Saite 6 oder 5. Takt 2 steigt zu einer höheren Landung auf. Takt 3 benutzt einen Slide in einen Guide Tone. Takt 4 muss nach der Landung mindestens einen halben Schlag Stille lassen. Wiederhole das, bis die Phrasen wie Sätze mit Satzzeichen klingen.",
+          "ja": "チャレンジラウンドです。4小節、4つのルール。1小節目は6弦か5弦の低い位置から始める。2小節目はより高い着地点へ上がる。3小節目はガイドトーンへ向かうスライドを1回使う。4小節目は着地のあと少なくとも半拍ぶん沈黙を残す。フレーズが句読点つきの文章のように聞こえるまで繰り返しましょう。",
+          "zh-Hans": "挑战回合：四小节，四条规则。第1小节从 6 弦或 5 弦的低音区开始。第2小节向更高的落点攀升。第3小节加入一次滑音进入导音。第4小节在落点之后至少留出半拍沉默。反复练，直到这些乐句听起来像带标点的句子。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with one minute of free improvisation on the same loop. Keep count of how many times you nailed B and E without hesitating. Then write down which approach worked best today—singing first, sliding in, or leaving more space—and move the whole game to A major tomorrow.",
+          "pt-BR": "Termine com um minuto de improviso livre no mesmo loop. Conte quantas vezes você acertou B e E sem hesitar. Depois anote qual abordagem funcionou melhor hoje — cantar antes, entrar com slide ou deixar mais espaço — e leve o jogo inteiro para Lá maior amanhã.",
+          "es": "Termina con un minuto de improvisación libre sobre el mismo loop. Cuenta cuántas veces acertaste B y E sin dudar. Luego anota qué enfoque funcionó mejor hoy — cantar primero, entrar con slide o dejar más espacio — y mueve todo el juego a La mayor mañana.",
+          "de": "Beende die Einheit mit einer Minute freier Improvisation über denselben Loop. Zähle, wie oft du B und E ohne Zögern getroffen hast. Schreib danach auf, welcher Ansatz heute am besten funktioniert hat — erst singen, hineinsliden oder mehr Raum lassen — und verlege das ganze Spiel morgen nach A-Dur.",
+          "ja": "最後は同じループで1分間の自由即興です。迷わずにBとEへ着地できた回数を数えてください。そのあと、今日いちばん効いた方法—先に歌う、スライドで入る、あるいは空間を多く残す—を書き留め、明日はこのゲーム全体をAメジャーへ移してください。",
+          "zh-Hans": "最后，用同一个循环做一分钟自由即兴。数一数你有多少次能毫不犹豫地落到 B 和 E。然后写下今天最有效的方法——先唱、滑进去，还是多留空间——明天把整套游戏移到 A 大调再练一次。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-13T00:06:03Z",
+  "updatedAt": "2026-07-13T00:06:03Z"
+}

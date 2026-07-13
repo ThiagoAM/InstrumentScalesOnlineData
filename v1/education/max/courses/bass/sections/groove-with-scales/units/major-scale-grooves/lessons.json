@@ -1958,5 +1958,33 @@
     "order": 70,
     "createdAt": "2026-07-12T00:07:18Z",
     "updatedAt": "2026-07-12T00:07:18Z"
+  },
+  {
+    "id": "bass-pocket-harbor-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Harbor Lights",
+        "pt-BR": "Luzes do Porto do Pocket no Baixo",
+        "es": "Luces de Puerto del Pocket en Bajo",
+        "de": "Bass-Pocket-Hafenlichter",
+        "ja": "ベース・ポケット・ハーバーライト",
+        "zh-Hans": "贝斯 Pocket 港口灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen time and note choice by steering a major-scale groove toward clear landing lights in A major.",
+        "pt-BR": "Fortaleça o tempo e a escolha de notas guiando um groove de escala maior até luzes de chegada claras em Lá maior.",
+        "es": "Fortalece el tiempo y la elección de notas guiando un groove de escala mayor hacia luces de llegada claras en La mayor.",
+        "de": "Stärke Timing und Tonwahl, indem du einen Dur-Skalen-Groove in A-Dur zu klaren Landelichtern steuerst.",
+        "ja": "Aメジャーで明確な着地点へ向かうグルーヴを作り、タイム感と音の選び方を強くします。",
+        "zh-Hans": "在 A 大调中把大调音阶 groove 驶向清晰落点，强化节奏稳定性与选音能力。"
+      }
+    },
+    "order": 71,
+    "createdAt": "2026-07-13T00:07:16Z",
+    "updatedAt": "2026-07-13T00:07:16Z"
   }
 ]

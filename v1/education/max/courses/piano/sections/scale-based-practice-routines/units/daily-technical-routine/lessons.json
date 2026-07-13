@@ -1426,5 +1426,33 @@
     "order": 51,
     "createdAt": "2026-07-12T00:08:18Z",
     "updatedAt": "2026-07-12T00:08:18Z"
+  },
+  {
+    "id": "piano-scale-runway-switches",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Runway Switches",
+        "pt-BR": "Mudanças de Pista nas Escalas de Piano",
+        "es": "Cambios de Pista para Escalas de Piano",
+        "de": "Klavier-Tonleiter-Runway-Switches",
+        "ja": "ピアノ・スケール・ランウェイスイッチ",
+        "zh-Hans": "钢琴音阶跑道切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sharpen scale control by switching touch, dynamics, and direction through a runway-style Bb major drill.",
+        "pt-BR": "Afi e o controle de escalas alternando toque, dinâmica e direção em um exercício estilo pista em Sib maior.",
+        "es": "Afina el control de escalas alternando toque, dinámica y dirección en un ejercicio tipo pista en Sib mayor.",
+        "de": "Schärfe deine Tonleiterkontrolle, indem du Anschlag, Dynamik und Richtung in einer Bb-Dur-Runway-Übung wechselst.",
+        "ja": "Bbメジャーの滑走路ドリルでタッチ、ダイナミクス、動きを切り替え、スケールのコントロールを磨きます。",
+        "zh-Hans": "在 Bb 大调的跑道式练习中切换触键、力度和方向，提升音阶控制力。"
+      }
+    },
+    "order": 52,
+    "createdAt": "2026-07-13T00:08:22Z",
+    "updatedAt": "2026-07-13T00:08:22Z"
   }
 ]

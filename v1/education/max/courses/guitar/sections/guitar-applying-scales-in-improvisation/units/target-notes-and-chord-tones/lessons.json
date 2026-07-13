@@ -418,5 +418,33 @@
     "order": 15,
     "createdAt": "2026-07-11T00:06:33Z",
     "updatedAt": "2026-07-11T00:06:33Z"
+  },
+  {
+    "id": "guitar-guide-tone-radar-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Radar Sprint",
+        "pt-BR": "Radar Sprint de Guide Tones na Guitarra",
+        "es": "Sprint de Radar de Notas Guía en Guitarra",
+        "de": "Gitarren-Guide-Tone-Radar-Sprint",
+        "ja": "ギター・ガイドトーン・レーダースプリント",
+        "zh-Hans": "吉他导音雷达冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build sharper phrasing by chasing guide tones through a compact improv game in G major.",
+        "pt-BR": "Construa frases mais precisas perseguindo guide tones em um jogo compacto de improviso em Sol maior.",
+        "es": "Construye frases más precisas persiguiendo notas guía en un juego compacto de improvisación en Sol mayor.",
+        "de": "Baue präzisere Phrasen, indem du in einem kompakten Impro-Spiel in G-Dur Guide Tones jagst.",
+        "ja": "Gメジャーのコンパクトな即興ゲームでガイドトーンを追いかけ、より正確なフレージングを作ります。",
+        "zh-Hans": "在 G 大调的紧凑即兴游戏中追踪导音，建立更精准的乐句感。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-07-13T00:06:03Z",
+    "updatedAt": "2026-07-13T00:06:03Z"
   }
 ]
