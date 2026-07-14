@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-signal-maze",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Start at the root\nChoose G major and set a steady drum loop. For two minutes, play only G and D in simple quarter notes until the groove feels heavy and calm.",
+          "pt-BR": "## Comece pela tônica\nEscolha Sol maior e ligue um loop de bateria estável. Por dois minutos, toque apenas G e D em semínimas simples até o groove ficar pesado e calmo.",
+          "es": "## Empieza en la tónica\nElige Sol mayor y pon un loop de batería estable. Durante dos minutos toca solo G y D en negras simples hasta que el groove se sienta pesado y tranquilo.",
+          "de": "## Starte auf dem Grundton\nWähle G-Dur und stelle einen stabilen Drum-Loop ein. Spiele zwei Minuten lang nur G und D in einfachen Vierteln, bis sich der Groove schwer und gelassen anfühlt.",
+          "ja": "## ルートから開始\nGメジャーを選び、安定したドラムループを流します。2分間、GとDだけを4分音符で弾き、グルーヴが重く落ち着いて感じられるまで続けます。",
+          "zh-Hans": "## 从根音出发\n选择 G 大调，打开稳定的鼓 loop。先连续两分钟只用 G 和 D 弹简单四分音符，直到 groove 听起来沉稳、厚实、冷静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Add the maze walls\nNow create one-bar rules: bar 1 must include a rest, bar 2 must include a ghost note, bar 3 must climb by step, bar 4 must land hard on G. Loop those rules until they feel natural.",
+          "pt-BR": "## Adicione as paredes do labirinto\nAgora crie regras de um compasso: o compasso 1 precisa ter uma pausa, o 2 precisa ter uma ghost note, o 3 precisa subir por grau conjunto e o 4 precisa pousar forte em G. Repita até soar natural.",
+          "es": "## Añade las paredes del laberinto\nAhora crea reglas de un compás: el compás 1 debe incluir un silencio, el 2 una ghost note, el 3 debe subir por grados conjuntos y el 4 debe caer con fuerza en G. Repite hasta que salga natural.",
+          "de": "## Baue die Labyrinthwände\nErfinde jetzt Ein-Takt-Regeln: Takt 1 braucht eine Pause, Takt 2 eine Ghost Note, Takt 3 steigt schrittweise, Takt 4 landet deutlich auf G. Wiederhole das, bis es natürlich wirkt.",
+          "ja": "## 迷路の壁を作る\n次は1小節ごとのルールです。1小節目は休符を入れる、2小節目はゴーストノートを入れる、3小節目は順次進行で上がる、4小節目はGに強く着地する。自然になるまで回します。",
+          "zh-Hans": "## 加上迷宫墙\n现在建立每小节规则：第 1 小节必须有休止，第 2 小节必须有幽灵音，第 3 小节必须级进上行，第 4 小节必须重重落回 G。循环到这些限制开始自然。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Pocket checkpoints\nMark beats 1 and the & of 3 as your checkpoint moments. Any fill is allowed, but those two moments must feel solid enough that a drummer would trust you instantly.",
+          "pt-BR": "## Checkpoints do pocket\nMarque o tempo 1 e o & do tempo 3 como seus momentos de checkpoint. Qualquer fill é permitido, mas esses dois pontos precisam soar firmes o bastante para um baterista confiar em você na hora.",
+          "es": "## Checkpoints del pocket\nMarca el tiempo 1 y el & de 3 como momentos de checkpoint. Cualquier fill está permitido, pero esos dos puntos deben sentirse tan sólidos que un baterista confiaría en ti al instante.",
+          "de": "## Pocket-Checkpoints\nMarkiere Zählzeit 1 und das Und von 3 als Checkpoint-Momente. Fills sind erlaubt, aber diese beiden Punkte müssen so stabil klingen, dass ein Drummer dir sofort vertraut.",
+          "ja": "## ポケットのチェックポイント\n1拍目と3拍目の裏をチェックポイントにします。フィルは自由ですが、その2か所はドラマーがすぐ信用できるくらい安定していなければいけません。",
+          "zh-Hans": "## Pocket 检查点\n把第 1 拍和第 3 拍的后半拍设为检查点。你可以加 fill，但这两个位置必须稳到让鼓手一听就愿意信任你。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Short detours only\nUse passing tones A or F# to leave the root, but you must return within two beats. This teaches motion without letting the line wander like a lost tourist.",
+          "pt-BR": "## Só desvios curtos\nUse as notas de passagem A ou F# para sair da tônica, mas você precisa voltar em até dois tempos. Isso ensina movimento sem deixar a linha passear como turista perdido.",
+          "es": "## Solo desvíos cortos\nUsa A o F# como notas de paso para salir de la tónica, pero debes volver en menos de dos tiempos. Así aprendes movimiento sin que la línea se pierda como turista despistado.",
+          "de": "## Nur kurze Umwege\nNutze A oder F# als Durchgangstöne, um den Grundton zu verlassen, aber kehre innerhalb von zwei Schlägen zurück. So lernst du Bewegung ohne zielloses Herumirren.",
+          "ja": "## 寄り道は短く\nA か F# を経過音として使ってルートから離れてもいいですが、2拍以内に戻ります。動きを作りつつ、迷子のラインにならない練習です。",
+          "zh-Hans": "## 只许短绕路\n可以用 A 或 F# 当经过音离开根音，但必须在两拍之内回来。这样能练出运动感，又不会让线条像迷路游客一样乱走。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Dynamics puzzle\nPlay the same groove three times: first dry and even, second with ghost-note whispering, third with one loud arrival note each bar. Notice how tiny dynamic choices change the whole attitude.",
+          "pt-BR": "## Enigma de dinâmica\nToque o mesmo groove três vezes: primeiro seco e uniforme, depois com ghost notes sussurradas, e por fim com uma nota de chegada forte em cada compasso. Repare como pequenas escolhas de dinâmica mudam toda a atitude.",
+          "es": "## Rompecabezas de dinámica\nToca el mismo groove tres veces: primero seco y parejo, luego con ghost notes susurradas y después con una nota fuerte de llegada en cada compás. Observa cómo pequeños cambios dinámicos alteran toda la actitud.",
+          "de": "## Dynamik-Rätsel\nSpiele denselben Groove dreimal: erst trocken und gleichmäßig, dann mit gehauchten Ghost Notes, dann mit einem lauten Landeton pro Takt. Achte darauf, wie kleine Dynamikentscheidungen den ganzen Charakter ändern.",
+          "ja": "## ダイナミクスの謎\n同じグルーヴを3回弾きます。1回目は乾いた均一さ、2回目はささやくようなゴーストノート、3回目は各小節に1つ強い到着音。小さな強弱の差で雰囲気がどれだけ変わるか確認しましょう。",
+          "zh-Hans": "## 动态谜题\n同一个 groove 连弹三遍：第一遍干净平均，第二遍加入低声幽灵音，第三遍每小节给一个强力到达音。观察这些小小的动态变化如何彻底改变气质。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Final maze run\nInvent a four-bar bass line using all the rules, then record it. If the groove sounds busy but not danceable, remove notes before adding new ones.",
+          "pt-BR": "## Corrida final no labirinto\nInvente uma linha de baixo de quatro compassos usando todas as regras e grave. Se o groove soar ocupado demais e pouco dançante, tire notas antes de acrescentar novas.",
+          "es": "## Carrera final del laberinto\nInventa una línea de bajo de cuatro compases usando todas las reglas y grábala. Si el groove suena ocupado pero no bailable, quita notas antes de añadir más.",
+          "de": "## Letzter Labyrinthlauf\nErfinde eine viertaktige Basslinie mit allen Regeln und nimm sie auf. Klingt der Groove beschäftigt, aber nicht tanzbar, nimm zuerst Noten weg, bevor du neue hinzufügst.",
+          "ja": "## 最終迷路ラン\nすべてのルールを使って4小節のベースラインを作り、録音します。音数が多いのに踊れないと感じたら、新しい音を足す前にまず音を減らします。",
+          "zh-Hans": "## 最终迷宫冲刺\n用全部规则写一条四小节贝斯线并录下来。如果它听起来很忙却不想让人点头，就先删音，再考虑加新音。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-14T00:05:00Z",
+  "updatedAt": "2026-07-14T00:05:00Z"
+}

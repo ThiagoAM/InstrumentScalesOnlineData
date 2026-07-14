@@ -1986,5 +1986,33 @@
     "order": 71,
     "createdAt": "2026-07-13T00:07:16Z",
     "updatedAt": "2026-07-13T00:07:16Z"
+  },
+  {
+    "id": "bass-pocket-signal-maze",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Signal Maze",
+        "pt-BR": "Labirinto dos Sinais de Pocket no Baixo",
+        "es": "Laberinto de Señales del Pocket en Bajo",
+        "de": "Bass-Pocket-Signal-Labyrinth",
+        "ja": "ベース・ポケット信号迷路",
+        "zh-Hans": "贝斯律动信号迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a deep pocket by threading scale notes, ghost notes, and silence through a groove maze.",
+        "pt-BR": "Construa um pocket profundo conduzindo notas da escala, ghost notes e silêncio por um labirinto de groove.",
+        "es": "Construye un pocket profundo guiando notas de escala, ghost notes y silencio por un laberinto de groove.",
+        "de": "Baue ein tiefes Pocket, indem du Skalentöne, Ghost Notes und Stille durch ein Groove-Labyrinth führst.",
+        "ja": "音階音、ゴーストノート、休符をグルーヴの迷路に通しながら、深いポケットを作るレッスンです。",
+        "zh-Hans": "把音阶音、幽灵音和留白穿进一座 groove 迷宫，练出更深的 pocket。"
+      }
+    },
+    "order": 72,
+    "createdAt": "2026-07-14T00:05:00Z",
+    "updatedAt": "2026-07-14T00:05:00Z"
   }
 ]

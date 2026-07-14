@@ -726,5 +726,33 @@
     "order": 26,
     "createdAt": "2026-07-07T00:06:51Z",
     "updatedAt": "2026-07-07T00:06:51Z"
+  },
+  {
+    "id": "guitar-solo-detour-arcade",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Solo Detour Arcade",
+        "pt-BR": "Arcade dos Desvios de Solo na Guitarra",
+        "es": "Arcade de Desvíos para Solo de Guitarra",
+        "de": "Gitarren-Solo-Umweg-Arcade",
+        "ja": "ギター・ソロ寄り道アーケード",
+        "zh-Hans": "吉他独奏绕路游戏厅"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one scale into a playful improv game with checkpoints, target notes, and bold rhythmic detours.",
+        "pt-BR": "Transforme uma escala em um jogo divertido de improviso com checkpoints, notas-alvo e desvios rítmicos ousados.",
+        "es": "Convierte una escala en un juego divertido de improvisación con checkpoints, notas objetivo y desvíos rítmicos atrevidos.",
+        "de": "Verwandle eine Tonleiter in ein spielerisches Impro-Spiel mit Checkpoints, Zieltönen und mutigen rhythmischen Umwegen.",
+        "ja": "チェックポイント、着地音、思い切ったリズムの寄り道で、1つのスケールを楽しい即興ゲームに変えるレッスンです。",
+        "zh-Hans": "把一条音阶变成好玩又有策略的即兴游戏，练习检查点、目标音和大胆的节奏绕路。"
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-07-14T00:04:59Z",
+    "updatedAt": "2026-07-14T00:04:59Z"
   }
 ]

@@ -1454,5 +1454,33 @@
     "order": 52,
     "createdAt": "2026-07-13T00:08:22Z",
     "updatedAt": "2026-07-13T00:08:22Z"
+  },
+  {
+    "id": "piano-scale-gravity-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Gravity Lab",
+        "pt-BR": "Laboratório da Gravidade das Escalas no Piano",
+        "es": "Laboratorio de Gravedad para Escalas en Piano",
+        "de": "Klavier-Tonleiter-Schwerkraftlabor",
+        "ja": "ピアノ・スケール重力ラボ",
+        "zh-Hans": "钢琴音阶重力实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make scale practice feel musical by controlling weight, balance, and landing points in both hands.",
+        "pt-BR": "Deixe o estudo de escalas mais musical controlando peso, equilíbrio e pontos de chegada nas duas mãos.",
+        "es": "Haz que el estudio de escalas sea más musical controlando peso, balance y puntos de llegada en ambas manos.",
+        "de": "Mach dein Tonleiterüben musikalischer, indem du Gewicht, Balance und Landepunkte in beiden Händen steuerst.",
+        "ja": "両手の重さ、バランス、着地点をコントロールして、スケール練習をもっと音楽的にするレッスンです。",
+        "zh-Hans": "通过控制双手的重量、平衡和落点，让音阶练习更有音乐性。"
+      }
+    },
+    "order": 53,
+    "createdAt": "2026-07-14T00:05:00Z",
+    "updatedAt": "2026-07-14T00:05:00Z"
   }
 ]

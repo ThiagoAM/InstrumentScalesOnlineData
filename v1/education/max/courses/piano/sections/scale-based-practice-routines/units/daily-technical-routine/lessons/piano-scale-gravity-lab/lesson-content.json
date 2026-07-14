@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-gravity-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Set the experiment\nChoose Bb major, two octaves, hands together. Your only job for the first minute is to keep every note equally connected, like a marble rolling down a smooth ramp.",
+          "pt-BR": "## Monte o experimento\nEscolha Sib maior, duas oitavas, mãos juntas. No primeiro minuto, sua única tarefa é manter todas as notas igualmente conectadas, como uma bolinha descendo por uma rampa lisa.",
+          "es": "## Prepara el experimento\nElige Sib mayor, dos octavas, manos juntas. Durante el primer minuto tu única tarea es mantener todas las notas igual de conectadas, como una canica bajando por una rampa lisa.",
+          "de": "## Baue das Experiment auf\nWähle B-Dur, zwei Oktaven, beide Hände zusammen. Deine einzige Aufgabe in der ersten Minute: alle Töne gleichmäßig verbinden, wie eine Murmel auf einer glatten Rampe.",
+          "ja": "## 実験をセットする\nBbメジャー、2オクターブ、両手同時で始めます。最初の1分は、すべての音をなめらかにつなぎ、玉が滑らかな坂を転がるように感じさせることだけが仕事です。",
+          "zh-Hans": "## 搭好实验\n选择 Bb 大调，两八度，双手同弹。前一分钟唯一的任务，是让每个音都像一颗小球顺着光滑斜坡滚动一样自然连贯。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Gravity zones\nSplit the scale into three zones: light at the bottom, medium in the middle, heavier at the top. Descend by reversing the weight pattern without turning the sound harsh.",
+          "pt-BR": "## Zonas de gravidade\nDivida a escala em três zonas: leve na parte grave, média no centro e mais pesada no topo. Na descida, inverta o padrão de peso sem deixar o som áspero.",
+          "es": "## Zonas de gravedad\nDivide la escala en tres zonas: ligera abajo, media en el centro y más pesada arriba. Al bajar, invierte el patrón de peso sin volver áspero el sonido.",
+          "de": "## Schwerkraftzonen\nTeile die Tonleiter in drei Zonen: leicht unten, mittel in der Mitte, schwerer oben. Beim Abstieg kehrst du das Gewichtsbild um, ohne den Klang hart werden zu lassen.",
+          "ja": "## 重力ゾーン\n音階を3つのゾーンに分けます。下は軽く、中間は普通、上は少し重く。下降ではその重さの流れを逆にしつつ、音がきつくならないようにします。",
+          "zh-Hans": "## 重力区域\n把音阶分成三个区域：低处轻一点，中间正常，顶部更有重量。下行时把重量顺序反过来，但不要把声音压得生硬。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Thumb crossing detector\nCircle every thumb crossing in your mind before you play. If one crossing bumps the line, stop there and loop only the crossing plus the notes around it five times.",
+          "pt-BR": "## Detector de passagem do polegar\nMarque mentalmente cada passagem do polegar antes de tocar. Se uma delas quebrar a linha, pare ali e repita só a passagem com as notas ao redor cinco vezes.",
+          "es": "## Detector de cruces de pulgar\nMarca mentalmente cada cruce de pulgar antes de tocar. Si uno rompe la línea, detente allí y repite solo ese cruce con las notas vecinas cinco veces.",
+          "de": "## Daumenwechsel-Detektor\nMarkiere jeden Daumenuntersatz gedanklich, bevor du spielst. Wenn einer die Linie stört, halte dort an und wiederhole nur diese Stelle mit den Nachbartönen fünfmal.",
+          "ja": "## 親指クロス検知器\n弾く前に、親指くぐりの場所を頭の中で先に囲っておきます。そこで線が切れたら止まり、その交差と前後の音だけを5回くり返します。",
+          "zh-Hans": "## 拇指穿越探测器\n在弹之前，先在脑中标出每一次拇指穿越。如果某一次让线条断掉，就停在那里，只循环那次穿越和它前后的音五遍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Landing pads\nChoose two notes to land on with extra care: Bb at the bottom and F near the top. Each ascent must bloom into F, and each descent must settle back into Bb without a crash.",
+          "pt-BR": "## Pistas de pouso\nEscolha duas notas para receber atenção extra: Sib embaixo e F perto do topo. Cada subida precisa florescer em F, e cada descida deve repousar em Sib sem cair duro demais.",
+          "es": "## Pistas de aterrizaje\nElige dos notas de llegada para cuidar más: Sib abajo y F cerca de arriba. Cada subida debe florecer hacia F y cada bajada debe volver a Sib sin estrellarse.",
+          "de": "## Landeplätze\nWähle zwei Töne für besonders bewusste Landungen: B unten und F in der Nähe des oberen Endes. Jeder Aufstieg soll in F aufblühen, jeder Abstieg ruhig nach B zurückkehren.",
+          "ja": "## 着地パッド\n特に丁寧に着地する音を2つ決めます。下のBbと上の近くのFです。上行はFへ花開くように、下行はBbへぶつからず落ち着いて戻します。",
+          "zh-Hans": "## 着陆坪\n选两个特别照顾的落点音：低处的 Bb，和高处附近的 F。每次上行都要朝 F 开花，每次下行都要稳稳回到 Bb，而不是砸下来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Rhythm remix\nPlay the same scale in quarter notes, then triplets, then swung eighths. The fingering stays the same, but your ears must notice how rhythm changes the emotional shape.",
+          "pt-BR": "## Remix de ritmo\nToque a mesma escala em semínimas, depois em tercinas e depois em colcheias com swing. O dedilhado continua igual, mas seus ouvidos precisam notar como o ritmo muda o desenho emocional.",
+          "es": "## Remix rítmico\nToca la misma escala en negras, luego en tresillos y luego con corcheas swing. La digitación no cambia, pero tus oídos deben notar cómo el ritmo cambia la forma emocional.",
+          "de": "## Rhythmus-Remix\nSpiele dieselbe Tonleiter in Vierteln, dann in Triolen, dann in geswingten Achteln. Der Fingersatz bleibt gleich, aber dein Ohr soll hören, wie der Rhythmus die emotionale Form verändert.",
+          "ja": "## リズム・リミックス\n同じ音階を4分音符、次に3連符、最後にスウィングした8分音符で弾きます。運指は同じまま、リズムで感情の形がどう変わるかを耳でつかみましょう。",
+          "zh-Hans": "## 节奏混音\n同一条音阶先用四分音符弹，再用三连音弹，最后用 swing 八分音符弹。指法不变，但耳朵必须听见节奏如何改变情绪轮廓。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Clean final take\nRecord three full runs. Keep the take where both hands sound balanced, the thumb crossings are invisible, and the last note sounds placed rather than escaped.",
+          "pt-BR": "## Tomada final limpa\nGrave três execuções completas. Fique com a tomada em que as duas mãos soem equilibradas, as passagens de polegar fiquem invisíveis e a última nota pareça colocada, não escapada.",
+          "es": "## Toma final limpia\nGraba tres pasadas completas. Quédate con la toma en la que ambas manos suenen equilibradas, los cruces de pulgar sean invisibles y la última nota parezca colocada, no escapada.",
+          "de": "## Saubere Endaufnahme\nNimm drei vollständige Durchgänge auf. Behalte den Take, in dem beide Hände ausgewogen klingen, die Daumenwechsel unsichtbar sind und der letzte Ton gesetzt statt entkommen wirkt.",
+          "ja": "## きれいな最終テイク\nフルランを3回録音します。両手のバランスが良く、親指くぐりが見えず、最後の音が逃げたのではなく置かれたように聞こえるテイクを残します。",
+          "zh-Hans": "## 干净终局录音\n完整录三遍。保留那一遍：双手听起来平衡，拇指穿越几乎隐形，最后一个音像被安放好，而不是慌忙逃出去。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-14T00:05:00Z",
+  "updatedAt": "2026-07-14T00:05:00Z"
+}
