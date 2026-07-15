@@ -754,5 +754,33 @@
     "order": 27,
     "createdAt": "2026-07-14T00:04:59Z",
     "updatedAt": "2026-07-14T00:04:59Z"
+  },
+  {
+    "id": "guitar-target-window-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Guitar Target Window Sprint\"",
+        "pt-BR": "\"Sprint da Janela-Alvo na Guitarra\"",
+        "es": "\"Sprint de Ventanas Objetivo en Guitarra\"",
+        "de": "\"Gitarren-Zielton-Fenster-Sprint\"",
+        "ja": "\"ギター・ターゲットウィンドウ・スプリント\"",
+        "zh-Hans": "\"吉他目标窗口冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Hit small chord-tone windows with rhythm, direction, and fast recovery.\"",
+        "pt-BR": "\"Acerte pequenas janelas de notas-alvo com ritmo, direção e recuperação rápida.\"",
+        "es": "\"Acierta pequeñas ventanas de notas objetivo con ritmo, dirección y recuperación rápida.\"",
+        "de": "\"Treffe kleine Zielton-Fenster mit Rhythmus, Richtung und schneller Rettung.\"",
+        "ja": "\"小さなターゲット音の窓を、リズムと進行方向と立て直し力で射抜こう。\"",
+        "zh-Hans": "\"用节奏、走向和快速修正能力，命中那些很小的目标音窗口。\""
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-07-15T00:05:53Z",
+    "updatedAt": "2026-07-15T00:05:53Z"
   }
 ]

@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-07-09T00:05:54Z",
     "updatedAt": "2026-07-09T00:05:54Z"
+  },
+  {
+    "id": "piano-voice-leading-pit-stops",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Piano Voice-Leading Pit Stops\"",
+        "pt-BR": "\"Pit Stops de Condução de Vozes no Piano\"",
+        "es": "\"Paradas en Boxes de Conducción de Voces para Piano\"",
+        "de": "\"Klavier-Boxenstopps für Stimmführung\"",
+        "ja": "\"ピアノ・ボイスリーディング・ピットストップ\"",
+        "zh-Hans": "\"钢琴声部连接进站练习\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Turn scale practice into a chord-change race with smart harmonic landings.\"",
+        "pt-BR": "\"Transforme o estudo de escalas em uma corrida de trocas de acorde com chegadas harmônicas inteligentes.\"",
+        "es": "\"Convierte la práctica de escalas en una carrera de cambios de acorde con aterrizajes armónicos inteligentes.\"",
+        "de": "\"Verwandle Skalenpraxis in ein Akkordwechsel-Rennen mit klugen harmonischen Landungen.\"",
+        "ja": "\"音階練習を、和声の着地点が問われるコードチェンジ・レースに変えよう。\"",
+        "zh-Hans": "\"把音阶练习变成一场和弦转换竞速，用聪明的和声落点取胜。\""
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-07-15T00:08:24Z",
+    "updatedAt": "2026-07-15T00:08:24Z"
   }
 ]

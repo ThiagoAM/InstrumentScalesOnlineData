@@ -2014,5 +2014,33 @@
     "order": 72,
     "createdAt": "2026-07-14T00:05:00Z",
     "updatedAt": "2026-07-14T00:05:00Z"
+  },
+  {
+    "id": "bass-pocket-rivet-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Bass Pocket Rivet Run\"",
+        "pt-BR": "\"Corrida dos Rebites do Pocket no Baixo\"",
+        "es": "\"Carrera de Remaches del Pocket en Bajo\"",
+        "de": "\"Bass-Pocket-Nietenlauf\"",
+        "ja": "\"ベース・ポケット・リベット・ラン\"",
+        "zh-Hans": "\"贝斯 Pocket 铆钉冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Forge a heavy groove by placing every scale note like a structural rivet.\"",
+        "pt-BR": "\"Forje um groove pesado colocando cada nota da escala como se fosse um rebite estrutural.\"",
+        "es": "\"Forja un groove pesado colocando cada nota de la escala como si fuera un remache estructural.\"",
+        "de": "\"Schmiede einen schweren Groove, indem du jeden Skalenton wie eine tragende Niete setzt.\"",
+        "ja": "\"音階の各音を構造用リベットのように打ち込み、重いグルーヴを鍛えよう。\"",
+        "zh-Hans": "\"像打结构铆钉一样安放每个音阶音，锻造出沉重稳定的 groove。\""
+      }
+    },
+    "order": 73,
+    "createdAt": "2026-07-15T00:07:03Z",
+    "updatedAt": "2026-07-15T00:07:03Z"
   }
 ]
