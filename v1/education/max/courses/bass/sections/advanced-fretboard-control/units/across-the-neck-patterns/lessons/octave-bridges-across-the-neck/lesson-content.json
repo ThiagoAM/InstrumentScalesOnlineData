@@ -1,0 +1,86 @@
+{
+  "id": "octave-bridges-across-the-neck",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Octave bridges across the neck\nA lot of bass players can move to a new position only when the line politely stops first. Real music is less polite. Sometimes you need to jump to a new register and keep the groove alive.\n\nThis lesson uses **octave bridges** to help you travel across the neck without sounding like you fell down a staircase with excellent intentions.",
+          "pt-BR": "# Pontes de oitava pelo braço\nMuitos baixistas só conseguem mudar de posição quando a linha faz o favor de parar antes. A música real não é tão educada. Às vezes você precisa saltar para outro registro e manter o groove vivo.\n\nNesta lição, você vai usar **pontes de oitava** para viajar pelo braço sem soar como alguém que caiu da escada com boas intenções musicais.",
+          "es": "# Puentes de octava a lo largo del mástil\nMuchos bajistas solo logran cambiar de posición cuando la línea se detiene amablemente primero. La música real no es tan amable. A veces necesitas saltar a otro registro y mantener vivo el groove.\n\nEn esta lección usarás **puentes de octava** para viajar por el mástil sin sonar como si te hubieras caído por una escalera con muy buenas intenciones musicales.",
+          "de": "# Oktavbrücken über den Hals\nViele Bassistinnen und Bassisten schaffen einen Lagenwechsel nur dann, wenn die Linie vorher höflich anhält. Echte Musik ist weniger höflich. Manchmal musst du in ein neues Register springen und den Groove trotzdem am Leben halten.\n\nIn dieser Lektion nutzt du **Oktavbrücken**, um dich über den Hals zu bewegen, ohne zu klingen, als wärst du mit ausgezeichneten Absichten eine Treppe hinuntergestürzt.",
+          "ja": "# ネック全体をつなぐオクターブ・ブリッジ\n多くのベーシストは、ラインがいったん止まってくれないと新しいポジションへ移れません。でも本物の音楽はそんなに親切ではありません。別の音域へ跳びながら、同時にグルーヴも保たなければならない場面があります。\n\nこのレッスンでは **オクターブ・ブリッジ** を使って、音楽的な意図を失わずにネックを移動する方法を学びます。",
+          "zh-Hans": "# 跨指板的八度桥接\n很多贝斯手只有在乐句先“礼貌地停一下”时，才敢换到新把位。真正的音乐没那么客气。有时你必须跳到新的音区，同时还要让 groove 继续活着。\n\n这节课用 **八度桥接** 帮你跨指板移动，而不会听起来像是抱着良好意图从楼梯上滚了下去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# What an octave bridge does\nAn octave bridge is simple:\n- play a note\n- jump to the same note one octave higher or lower\n- continue the line from the new area of the neck\n\nBecause the ear hears the same note name, the shift sounds connected instead of random. You are not teleporting. You are giving the listener a musical handrail.",
+          "pt-BR": "# O que uma ponte de oitava faz\nUma ponte de oitava é simples:\n- toque uma nota\n- salte para a mesma nota uma oitava acima ou abaixo\n- continue a linha a partir da nova região do braço\n\nComo o ouvido reconhece o mesmo nome de nota, a mudança soa conectada em vez de aleatória. Você não está se teletransportando. Está dando ao ouvinte um corrimão musical.",
+          "es": "# Qué hace un puente de octava\nUn puente de octava es simple:\n- toca una nota\n- salta a la misma nota una octava más arriba o más abajo\n- continúa la línea desde la nueva zona del mástil\n\nComo el oído reconoce el mismo nombre de nota, el cambio suena conectado en vez de aleatorio. No te estás teletransportando. Le estás dando al oyente una barandilla musical.",
+          "de": "# Was eine Oktavbrücke macht\nEine Oktavbrücke ist einfach:\n- spiele einen Ton\n- springe zum gleichen Ton eine Oktave höher oder tiefer\n- führe die Linie aus dem neuen Halsbereich weiter\n\nWeil das Ohr denselben Notennamen hört, klingt der Wechsel verbunden statt zufällig. Du teleportierst dich nicht. Du gibst dem Hörer ein musikalisches Geländer.",
+          "ja": "# オクターブ・ブリッジの役割\nオクターブ・ブリッジはとてもシンプルです。\n- 1つの音を弾く\n- 同じ音名の1オクターブ上か下へ跳ぶ\n- その新しい位置からラインを続ける\n\n耳には同じ音名として聞こえるので、移動が唐突ではなく自然につながります。瞬間移動ではなく、聴き手に音楽的な手すりを渡すイメージです。",
+          "zh-Hans": "# 八度桥接在做什么\n八度桥接很简单：\n- 先弹一个音\n- 跳到同音名的高八度或低八度\n- 从新的区域继续你的乐句\n\n因为耳朵听到的是同一个音名，所以这个移动会显得连贯，而不是随机。你不是在瞬移，而是在给听众一个音乐上的扶手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Start in A minor\nUse **A natural minor**: **A B C D E F G**.\nTry this route:\n1. play a short idea around low **A** on the E string\n2. jump to the higher **A** on the G string\n3. continue with **B C D** from that new position\n4. descend smoothly back toward **E** or **A**\n\nPlay it slowly enough that every note speaks with the same authority.",
+          "pt-BR": "# Comece em Lá menor\nUse **Lá menor natural**: **A B C D E F G**.\nExperimente este caminho:\n1. toque uma ideia curta em torno do **A** grave na corda E\n2. salte para o **A** mais agudo na corda G\n3. continue com **B C D** a partir dessa nova posição\n4. desça suavemente de volta para **E** ou **A**\n\nToque devagar o bastante para que cada nota saia com a mesma autoridade.",
+          "es": "# Empieza en La menor\nUsa **La menor natural**: **A B C D E F G**.\nPrueba esta ruta:\n1. toca una idea corta alrededor del **A** grave en la cuerda E\n2. salta al **A** agudo en la cuerda G\n3. continúa con **B C D** desde esa nueva posición\n4. baja con suavidad hacia **E** o **A**\n\nToca lo bastante lento como para que cada nota suene con la misma autoridad.",
+          "de": "# Starte in A-Moll\nVerwende **A natürlich Moll**: **A B C D E F G**.\nProbiere diesen Weg:\n1. spiele eine kurze Idee um das tiefe **A** auf der E-Saite\n2. springe zum höheren **A** auf der G-Saite\n3. spiele von dort **B C D** weiter\n4. gehe flüssig zurück Richtung **E** oder **A**\n\nSpiele langsam genug, damit jeder Ton mit derselben Klarheit spricht.",
+          "ja": "# Aマイナーで始める\n使うのは **Aナチュラル・マイナー**: **A B C D E F G** です。\n次の流れを試してください。\n1. E弦上の低い **A** 周辺で短いアイデアを弾く\n2. G弦上の高い **A** へ跳ぶ\n3. その新しい位置から **B C D** を続ける\n4. **E** または **A** に向かって滑らかに戻る\n\nすべての音が同じ説得力で鳴るくらいゆっくり弾きましょう。",
+          "zh-Hans": "# 从 A 小调开始\n使用 **A 自然小调**: **A B C D E F G**。\n试试这条路线：\n1. 先在 E 弦低音 **A** 附近弹一个短句\n2. 跳到 G 弦上的高音 **A**\n3. 从那个新位置继续弹 **B C D**\n4. 平滑地下行回到 **E** 或 **A**\n\n速度要慢到每个音都能同样清楚、同样有分量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove rules for the shift\nWhen you make the octave jump, check four things:\n- does the pulse stay solid?\n- does the higher note arrive at the same volume?\n- does your fretting hand stay relaxed?\n- does the line still sound like a bass phrase, not a geography lesson?\n\nIf the groove stumbles, simplify the rhythm before you try to speed up.",
+          "pt-BR": "# Regras de groove para a mudança\nQuando fizer o salto de oitava, confira quatro coisas:\n- o pulso continua sólido?\n- a nota aguda chega com o mesmo volume?\n- a mão esquerda continua relaxada?\n- a linha ainda soa como frase de baixo, e não como aula de geografia?\n\nSe o groove tropeçar, simplifique o ritmo antes de tentar acelerar.",
+          "es": "# Reglas de groove para el cambio\nCuando hagas el salto de octava, revisa cuatro cosas:\n- ¿el pulso sigue sólido?\n- ¿la nota aguda llega con el mismo volumen?\n- ¿tu mano izquierda sigue relajada?\n- ¿la línea sigue sonando como frase de bajo y no como clase de geografía?\n\nSi el groove tropieza, simplifica el ritmo antes de intentar acelerar.",
+          "de": "# Groove-Regeln für den Sprung\nWenn du den Oktavsprung machst, prüfe vier Dinge:\n- bleibt der Puls stabil?\n- kommt der hohe Ton mit derselben Lautstärke an?\n- bleibt deine Greifhand entspannt?\n- klingt die Linie noch wie eine Bassphrase und nicht wie Geografieunterricht?\n\nWenn der Groove stolpert, vereinfache erst den Rhythmus, bevor du schneller wirst.",
+          "ja": "# 跳躍時のグルーヴ・ルール\nオクターブ跳躍のときは、次の4点を確認します。\n- 脈は安定しているか\n- 高い音も同じ音量で入っているか\n- 左手は力みすぎていないか\n- ラインがまだベースのフレーズとして聞こえるか\n\nグルーヴが崩れるなら、速くする前にまずリズムを簡単にしてください。",
+          "zh-Hans": "# 换位时的 groove 规则\n做八度跳进时，检查这四件事：\n- 脉冲有没有保持稳定？\n- 高音到达时音量是否一致？\n- 按弦手是否保持放松？\n- 整条线听起来还是贝斯乐句，而不是地理课？\n\n如果 groove 绊了一下，先简化节奏，再考虑提速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Build a 2-bar line\nCreate a 2-bar groove in A minor with these ingredients:\n- one low-register phrase\n- one octave bridge\n- one answer in the higher register\n- one strong ending on **A**, **C**, or **E**\n\nRepeat the line until the jump feels boring—in the best way. On bass, boring mechanics are often what make exciting music possible.",
+          "pt-BR": "# Monte uma linha de 2 compassos\nCrie um groove de 2 compassos em Lá menor com estes ingredientes:\n- uma frase no registro grave\n- uma ponte de oitava\n- uma resposta no registro agudo\n- um final forte em **A**, **C** ou **E**\n\nRepita a linha até o salto ficar entediante — no melhor sentido. No baixo, mecânica entediante costuma ser o que torna a música empolgante possível.",
+          "es": "# Construye una línea de 2 compases\nCrea un groove de 2 compases en La menor con estos ingredientes:\n- una frase en registro grave\n- un puente de octava\n- una respuesta en el registro agudo\n- un final fuerte en **A**, **C** o **E**\n\nRepite la línea hasta que el salto te parezca aburrido, en el mejor sentido. En el bajo, una mecánica aburrida suele ser lo que hace posible una música emocionante.",
+          "de": "# Baue eine 2-taktige Linie\nErstelle einen 2-taktigen Groove in A-Moll mit diesen Zutaten:\n- eine Phrase im tiefen Register\n- eine Oktavbrücke\n- eine Antwort im höheren Register\n- ein starkes Ende auf **A**, **C** oder **E**\n\nWiederhole die Linie so lange, bis sich der Sprung langweilig anfühlt – im besten Sinn. Auf dem Bass ist langweilige Mechanik oft genau das, was aufregende Musik möglich macht.",
+          "ja": "# 2小節ラインを作る\nAマイナーで次の材料を入れた 2 小節のグルーヴを作りましょう。\n- 低音域のフレーズを1つ\n- オクターブ・ブリッジを1回\n- 高音域での返答を1つ\n- **A**、**C**、**E** のどれかで強く終わる\n\n跳躍が良い意味で退屈に感じるまで繰り返してください。ベースでは、その退屈な機械的安定がワクワクする音楽を支えます。",
+          "zh-Hans": "# 写一条 2 小节线条\n在 A 小调中写一个 2 小节 groove，包含这些材料：\n- 一个低音区短句\n- 一次八度桥接\n- 一个高音区回应\n- 用 **A**、**C** 或 **E** 强力收尾\n\n把这条线重复到八度跳进变得“无聊”为止——这是好事。对贝斯来说，机械上足够无聊，往往正是音乐上足够精彩的基础。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nNow make two new versions:\n- Version 1: the octave jump happens on beat 1 for a bold entrance\n- Version 2: the octave jump happens on the \"and\" of 4 for a sneaky pickup\n\nRecord both. If one feels tighter than the other, find out whether the issue is timing, muting, or weak note projection. Then fix the cause, not just the symptom.",
+          "pt-BR": "# Rodada de desafio\nAgora faça duas versões novas:\n- Versão 1: o salto de oitava acontece no tempo 1 para uma entrada ousada\n- Versão 2: o salto de oitava acontece no contratempo do 4 para uma anacruse sorrateira\n\nGrave as duas. Se uma parecer mais firme que a outra, descubra se o problema é tempo, abafamento ou projeção fraca da nota. Depois corrija a causa, não só o sintoma.",
+          "es": "# Ronda de desafío\nAhora haz dos versiones nuevas:\n- Versión 1: el salto de octava ocurre en el tiempo 1 para una entrada valiente\n- Versión 2: el salto de octava ocurre en el \"y\" de 4 como una anacrusa sigilosa\n\nGraba ambas. Si una se siente más sólida que la otra, averigua si el problema es tiempo, apagado o proyección débil de la nota. Luego corrige la causa, no solo el síntoma.",
+          "de": "# Herausforderungsrunde\nBaue jetzt zwei neue Versionen:\n- Version 1: Der Oktavsprung kommt auf Zählzeit 1 für einen mutigen Einstieg\n- Version 2: Der Oktavsprung kommt auf das Und von 4 als heimlicher Auftakt\n\nNimm beide auf. Wenn sich eine Version stabiler anfühlt als die andere, finde heraus, ob das Problem Timing, Dämpfung oder zu schwache Tonprojektion ist. Dann behebe die Ursache und nicht nur das Symptom.",
+          "ja": "# チャレンジ・ラウンド\n次に2つの新しい版を作ります。\n- バージョン1: オクターブ跳躍を1拍目に置いて大胆に始める\n- バージョン2: オクターブ跳躍を4拍目裏に置いて忍び込むように入る\n\n両方録音してください。どちらかがより安定して聞こえるなら、原因がタイミング、ミュート、発音の弱さのどれなのかを見つけましょう。そして症状ではなく原因を直してください。",
+          "zh-Hans": "# 挑战回合\n现在再做两个新版本：\n- 版本 1：把八度跳进放在第 1 拍，做出大胆开场\n- 版本 2：把八度跳进放在第 4 拍的后半拍，做出偷偷起步的感觉\n\n把两个版本都录下来。如果其中一个更稳，就找出问题到底是节奏、制音，还是音头太弱。然后修正原因，而不只是修补表面症状。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-16T00:10:39Z",
+  "updatedAt": "2026-07-16T00:10:39Z"
+}

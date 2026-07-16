@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-04-14T00:10:34Z",
     "updatedAt": "2026-04-14T00:10:34Z"
+  },
+  {
+    "id": "octave-bridges-across-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Bridges Across the Neck",
+        "pt-BR": "Pontes de oitava pelo braço",
+        "es": "Puentes de octava a lo largo del mástil",
+        "de": "Oktavbrücken über den Hals",
+        "ja": "ネック全体をつなぐオクターブ・ブリッジ",
+        "zh-Hans": "跨指板的八度桥接"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect bass scale shapes with octave jumps that keep your time strong and your line musical.",
+        "pt-BR": "Conecte shapes de escala no baixo com saltos de oitava que mantêm o tempo firme e a linha musical.",
+        "es": "Conecta patrones de escala en el bajo con saltos de octava que mantengan el tiempo firme y la línea musical.",
+        "de": "Verbinde Bass-Skalenmuster mit Oktavsprüngen, die dein Timing stabil und deine Linie musikalisch halten.",
+        "ja": "オクターブ跳躍を使ってベースのスケール形をつなぎ、タイムを安定させながら音楽的なラインを作る。",
+        "zh-Hans": "用八度跳进把贝斯音阶形状连起来，同时保持节奏稳定、乐句有音乐性。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-16T00:10:39Z",
+    "updatedAt": "2026-07-16T00:10:39Z"
   }
 ]
