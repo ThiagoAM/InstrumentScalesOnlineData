@@ -446,5 +446,33 @@
     "order": 16,
     "createdAt": "2026-07-13T00:06:03Z",
     "updatedAt": "2026-07-13T00:06:03Z"
+  },
+  {
+    "id": "guitar-chord-tone-trampoline",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Chord-Tone Trampoline",
+        "pt-BR": "Trampolim de Tons de Acorde na Guitarra",
+        "es": "Trampolín de Tonos de Acorde en Guitarra",
+        "de": "Gitarren-Akkordton-Trampolin",
+        "ja": "ギター・コードトーン・トランポリン",
+        "zh-Hans": "吉他和弦音蹦床挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce through scale notes and land hard on chord tones without losing groove or nerve.",
+        "pt-BR": "Salte pelas notas da escala e pouse firme nos tons do acorde sem perder o groove nem a coragem.",
+        "es": "Rebota por las notas de la escala y aterriza con fuerza en los tonos del acorde sin perder groove ni valentía.",
+        "de": "Springe durch Skalentöne und lande sicher auf Akkordtönen, ohne Groove oder Mut zu verlieren.",
+        "ja": "スケール音を跳ね回りながら、グルーヴも度胸も失わずにコードトーンへ着地しよう。",
+        "zh-Hans": "在音阶音之间弹跳，同时稳稳落在和弦音上，不丢掉律动，也不丢掉胆量。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-07-17T00:08:16Z",
+    "updatedAt": "2026-07-17T00:08:16Z"
   }
 ]

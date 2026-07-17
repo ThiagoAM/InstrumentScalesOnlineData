@@ -138,5 +138,33 @@
     "order": 5,
     "createdAt": "2026-07-01T00:07:38Z",
     "updatedAt": "2026-07-01T00:07:38Z"
+  },
+  {
+    "id": "bass-approach-note-alley",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Approach-Note Alley",
+        "pt-BR": "Corredor das Notas de Aproximação no Baixo",
+        "es": "Callejón de Notas de Aproximación para Bajo",
+        "de": "Bass Approach-Note Alley",
+        "ja": "ベース・アプローチノート・アレー",
+        "zh-Hans": "贝斯逼近音小巷"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build tougher walking lines by sneaking into chord tones with timing, taste, and zero panic.",
+        "pt-BR": "Construa walking lines mais fortes entrando nos tons do acorde com tempo, bom gosto e zero pânico.",
+        "es": "Construye walking lines más sólidas entrando a los tonos del acorde con tiempo, gusto y cero pánico.",
+        "de": "Baue stärkere Walking-Lines, indem du mit Timing, Geschmack und ohne Panik in Akkordtöne hineinsteuerst.",
+        "ja": "タイム感とセンスを保ったまま、慌てずにコードトーンへ滑り込む強いウォーキングラインを作ろう。",
+        "zh-Hans": "用节奏感、品味和零慌张感，把更扎实的 walking line 带进和弦音里。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-07-17T00:10:19Z",
+    "updatedAt": "2026-07-17T00:10:19Z"
   }
 ]

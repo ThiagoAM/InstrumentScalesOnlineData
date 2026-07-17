@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-07-15T00:08:24Z",
     "updatedAt": "2026-07-15T00:08:24Z"
+  },
+  {
+    "id": "piano-voice-leading-arcade",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Voice-Leading Arcade",
+        "pt-BR": "Arcade de Voice Leading no Piano",
+        "es": "Arcade de Voice Leading para Piano",
+        "de": "Klavier Voice-Leading Arcade",
+        "ja": "ピアノ・ボイスリーディング・アーケード",
+        "zh-Hans": "钢琴声部连接街机挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a score-chasing game where every chord change rewards smooth harmonic aim.",
+        "pt-BR": "Transforme o estudo de escalas em um jogo de pontuação no qual cada mudança de acorde recompensa uma boa mira harmônica.",
+        "es": "Convierte la práctica de escalas en un juego de puntuación donde cada cambio de acorde recompensa una buena puntería armónica.",
+        "de": "Verwandle Skalenpraxis in ein Punktespiel, bei dem jeder Akkordwechsel saubere harmonische Treffsicherheit belohnt.",
+        "ja": "音階練習を、コードチェンジごとに滑らかなハーモニーの狙いが得点になるゲームに変えよう。",
+        "zh-Hans": "把音阶练习变成一场计分游戏，让每次和弦变化都奖励顺滑而准确的和声落点。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-07-17T00:11:30Z",
+    "updatedAt": "2026-07-17T00:11:30Z"
   }
 ]
