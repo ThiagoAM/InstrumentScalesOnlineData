@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-07-17T00:08:16Z",
     "updatedAt": "2026-07-17T00:08:16Z"
+  },
+  {
+    "id": "guitar-guide-tone-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Slingshot",
+        "pt-BR": "Estilingue de Guide Tones na Guitarra",
+        "es": "Tirachinas de Guide Tones para Guitarra",
+        "de": "Guitar Guide-Tone Slingshot",
+        "ja": "ギター・ガイドトーン・スリングショット",
+        "zh-Hans": "吉他导音弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch your phrases toward 3rds and 7ths so your solo locks onto the harmony.",
+        "pt-BR": "Lance suas frases em direção às 3as e 7as para colar o solo na harmonia.",
+        "es": "Lanza tus frases hacia las 3ras y 7mas para que tu solo se pegue a la armonía.",
+        "de": "Schleudere deine Phrasen zu den Terzen und Septimen, damit dein Solo fest in der Harmonie landet.",
+        "ja": "3度と7度に向かってフレーズを飛ばし、ソロをハーモニーにしっかり結びつけよう。",
+        "zh-Hans": "把乐句发射到3音和7音上，让你的独奏更牢地贴住和声。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-07-18T00:07:07Z",
+    "updatedAt": "2026-07-18T00:07:07Z"
   }
 ]

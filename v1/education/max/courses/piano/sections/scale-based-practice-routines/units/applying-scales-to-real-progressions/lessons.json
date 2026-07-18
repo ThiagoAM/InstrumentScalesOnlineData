@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-07-17T00:11:30Z",
     "updatedAt": "2026-07-17T00:11:30Z"
+  },
+  {
+    "id": "piano-turnaround-lighthouse",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Turnaround Lighthouse",
+        "pt-BR": "Farol de Turnaround no Piano",
+        "es": "Faro de Turnaround para Piano",
+        "de": "Piano Turnaround Lighthouse",
+        "ja": "ピアノ・ターンアラウンド・ライトハウス",
+        "zh-Hans": "钢琴终止式灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use guide tones and scale color to navigate a turnaround like a bright, reliable signal.",
+        "pt-BR": "Use guide tones e cor escalar para navegar um turnaround como um sinal forte e confiável.",
+        "es": "Usa guide tones y color escalar para navegar un turnaround como una señal brillante y confiable.",
+        "de": "Nutze Guide Tones und Skalenfarbe, um einen Turnaround wie ein helles, verlässliches Signal zu steuern.",
+        "ja": "ガイドトーンとスケールの色を使って、ターンアラウンドを明るく頼れる信号のように導こう。",
+        "zh-Hans": "用导音和音阶色彩像灯塔一样，为 turnaround 指出清晰可靠的方向。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-07-18T00:09:31Z",
+    "updatedAt": "2026-07-18T00:09:31Z"
   }
 ]

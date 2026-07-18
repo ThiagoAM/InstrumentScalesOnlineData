@@ -1,0 +1,86 @@
+{
+  "id": "piano-turnaround-lighthouse",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome at **84 BPM** and loop **| Cmaj7 | A7 | Dm7 | G7 |**. Your left hand plays shell voicings; your right hand stays mostly in **C major**, but over **A7** you may use **A Mixolydian** or **A altered** if you want extra spice. Think of each guide tone as a lighthouse beam that shows where the harmony really is.",
+          "pt-BR": "Ajuste o metrônomo para **84 BPM** e faça um loop de **| Cmaj7 | A7 | Dm7 | G7 |**. A mão esquerda toca voicings em casca; a mão direita fica principalmente em **Dó maior**, mas sobre **A7** você pode usar **A mixolídio** ou **A alterado** se quiser mais tempero. Pense em cada guide tone como o feixe de um farol mostrando onde a harmonia realmente está.",
+          "es": "Pon el metrónomo a **84 BPM** y crea un loop de **| Cmaj7 | A7 | Dm7 | G7 |**. La mano izquierda toca voicings de shell; la mano derecha se queda sobre todo en **Do mayor**, pero sobre **A7** puedes usar **A mixolidio** o **A alterado** si quieres más picante. Piensa en cada guide tone como el haz de un faro que muestra dónde está realmente la armonía.",
+          "de": "Stell das Metronom auf **84 BPM** und loope **| Cmaj7 | A7 | Dm7 | G7 |**. Die linke Hand spielt Shell-Voicings; die rechte Hand bleibt überwiegend in **C-Dur**, aber über **A7** darfst du für mehr Würze **A mixolydisch** oder **A altered** verwenden. Stell dir jeden Guide Tone wie den Lichtstrahl eines Leuchtturms vor, der zeigt, wo die Harmonie wirklich liegt.",
+          "ja": "メトロノームを **84 BPM** に設定し、**| Cmaj7 | A7 | Dm7 | G7 |** をループします。左手はシェル・ボイシング、右手は基本的に **Cメジャー** にとどまり、**A7** の上ではスパイスが欲しければ **Aミクソリディアン** または **Aオルタード** を使って構いません。各ガイドトーンを、ハーモニーの本当の位置を照らす灯台の光だと思ってください。",
+          "zh-Hans": "把节拍器调到 **84 BPM**，循环 **| Cmaj7 | A7 | Dm7 | G7 |**。左手弹 shell voicing，右手大部分时间留在 **C大调** 里；到了 **A7**，如果你想更有味道，可以用 **A Mixolydian** 或 **A altered**。把每个导音都想成灯塔光束，它会告诉你和声真正的位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the first three choruses, give yourself fixed right-hand landing notes on beat 1: **E, C#, F, B**. Those are 3rds and 7ths across the turnaround. Play slowly enough that each arrival sounds intentional. If one target feels blurry, freeze there and play only the left hand plus that target until it sounds obvious.",
+          "pt-BR": "Nos três primeiros chorus, dê a si mesmo notas fixas de chegada na mão direita no tempo 1: **E, C#, F, B**. Essas são 3as e 7as ao longo do turnaround. Toque devagar o bastante para que cada chegada soe intencional. Se algum alvo parecer embaçado, congele ali e toque apenas a mão esquerda mais esse alvo até ele soar óbvio.",
+          "es": "En las primeras tres vueltas, asígnate notas fijas de llegada en la mano derecha en el tiempo 1: **E, C#, F, B**. Esas son 3ras y 7mas a lo largo del turnaround. Toca lo bastante lento para que cada llegada suene intencional. Si algún objetivo se siente borroso, congélate ahí y toca solo la mano izquierda más ese objetivo hasta que suene evidente.",
+          "de": "Für die ersten drei Durchgänge gibst du dir feste Zieltöne in der rechten Hand auf Zählzeit 1: **E, C#, F, B**. Das sind Terzen und Septimen über den ganzen Turnaround. Spiele langsam genug, dass jede Ankunft absichtlich klingt. Wenn ein Ziel verschwommen wirkt, bleib dort stehen und spiele nur linke Hand plus diesen Zielton, bis er ganz klar klingt.",
+          "ja": "最初の3コーラスでは、右手の1拍目の着地点を **E, C#, F, B** に固定します。これはターンアラウンド全体の3度と7度です。どの着地も意図的に聴こえるくらいゆっくり弾きましょう。もしどれかのターゲットがぼやけるなら、そこで止まり、左手とそのターゲット音だけを弾いて、はっきり聴こえるまで確認してください。",
+          "zh-Hans": "在前 3 个循环里，给右手第1拍规定固定落点：**E、C#、F、B**。它们正好是这个 turnaround 中各和弦的3音和7音。慢到每一次落点都像是你故意做出的决定。如果某个目标听起来模糊，就停在那里，只弹左手加这个目标音，直到它变得非常明确。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now connect the lights. Between each landing, your right hand must travel mostly by step. You may use one leap of a 3rd in each bar, but after the leap you must recover in the opposite direction by step. This keeps the line singable instead of turning into random scale traffic.",
+          "pt-BR": "Agora conecte as luzes. Entre cada chegada, a mão direita deve se mover principalmente por grau conjunto. Você pode usar um salto de 3ª em cada compasso, mas depois do salto precisa recuperar na direção oposta por grau conjunto. Isso mantém a linha cantável em vez de virar trânsito aleatório de escala.",
+          "es": "Ahora conecta las luces. Entre cada llegada, la mano derecha debe moverse sobre todo por grado conjunto. Puedes usar un salto de 3ra en cada compás, pero después del salto debes recuperarte en la dirección contraria por paso conjunto. Así la línea sigue siendo cantable en lugar de convertirse en tráfico aleatorio de escalas.",
+          "de": "Jetzt verbindest du die Lichter. Zwischen den Zieltönen soll sich die rechte Hand überwiegend schrittweise bewegen. Pro Takt ist ein Sprung von einer Terz erlaubt, aber danach musst du dich schrittweise in die Gegenrichtung zurückbewegen. So bleibt die Linie singbar, statt in zufälligen Skalenverkehr abzugleiten.",
+          "ja": "次は光をつなぎます。着地点どうしの間は、右手が主に順次進行で動くようにしてください。各小節で3度の跳躍を1回だけ使ってよいですが、そのあと反対方向へ順次で戻ります。こうすることで、ラインはただのスケール渋滞ではなく歌えるものになります。",
+          "zh-Hans": "现在把这些灯光连起来。两个落点之间，右手要尽量以级进移动。每小节允许一次三度跳进，但跳完之后必须用反方向的级进“拉回来”。这样旋律就会保持可唱性，而不是变成随机的音阶车流。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add rhythm mode. Chorus 1 uses only quarter notes and 8ths. Chorus 2 must include one entrance after beat 2 in every bar. Chorus 3 should hold one target note for at least **two beats** in bars 2 and 4. Keep the left hand steady, almost boring, so the right hand’s choices are easy to hear.",
+          "pt-BR": "Adicione o modo ritmo. O chorus 1 usa apenas semínimas e colcheias. O chorus 2 precisa incluir uma entrada depois do tempo 2 em cada compasso. O chorus 3 deve sustentar uma nota-alvo por pelo menos **dois tempos** nos compassos 2 e 4. Mantenha a mão esquerda estável, quase entediante, para que as escolhas da mão direita fiquem fáceis de ouvir.",
+          "es": "Añade modo rítmico. La vuelta 1 usa solo negras y corcheas. La vuelta 2 debe incluir una entrada después del tiempo 2 en cada compás. La vuelta 3 debe sostener una nota objetivo durante al menos **dos tiempos** en los compases 2 y 4. Mantén la mano izquierda estable, casi aburrida, para que las decisiones de la derecha se escuchen con claridad.",
+          "de": "Füge den Rhythmusmodus hinzu. Durchgang 1 benutzt nur Viertel und Achtel. Durchgang 2 muss in jedem Takt einen Einsatz nach Zählzeit 2 enthalten. Durchgang 3 soll in Takt 2 und 4 jeweils einen Zielton mindestens **zwei Schläge** halten. Die linke Hand bleibt ruhig, fast langweilig, damit die Entscheidungen der rechten Hand gut hörbar sind.",
+          "ja": "リズムモードを追加します。1コーラス目は4分音符と8分音符だけ、2コーラス目は各小節で2拍目のあとから始まる入りを1回入れます。3コーラス目は2小節目と4小節目でターゲット音を少なくとも **2拍** 伸ばしてください。左手は安定して、少し退屈なくらいで大丈夫。そのほうが右手の選択がよく聴こえます。",
+          "zh-Hans": "加入节奏模式。第1个循环只用四分音符和八分音符；第2个循环每小节都要有一次在第2拍之后进入的乐句；第3个循环在第2和第4小节里都要把一个目标音至少延长 **两拍**。左手要稳定，甚至可以有点“无聊”，这样右手的选择才会更清楚地被听见。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round color: over **A7**, try one outside note before landing on **C#**. Over **G7**, try a chromatic approach into **B** before returning to **Cmaj7**. The rule is that the outside color must create a stronger resolution, not just a fancier mistake. If the tension does not point home, simplify immediately.",
+          "pt-BR": "Chefão de cor: sobre **A7**, experimente uma nota outside antes de cair em **C#**. Sobre **G7**, experimente uma aproximação cromática para **B** antes de voltar a **Cmaj7**. A regra é que a cor outside precisa criar uma resolução mais forte, não apenas um erro mais chique. Se a tensão não apontar para casa, simplifique imediatamente.",
+          "es": "Ronda jefe de color: sobre **A7**, prueba una nota outside antes de caer en **C#**. Sobre **G7**, prueba una aproximación cromática hacia **B** antes de volver a **Cmaj7**. La regla es que el color outside debe crear una resolución más fuerte, no solo un error más elegante. Si la tensión no apunta a casa, simplifica de inmediato.",
+          "de": "Boss-Runde Farbe: Über **A7** probiere vor der Landung auf **C#** einen Outside-Ton. Über **G7** probiere eine chromatische Annäherung an **B**, bevor du nach **Cmaj7** zurückkehrst. Die Regel lautet: Die Outside-Farbe muss die Auflösung stärker machen, nicht nur den Fehler schicker. Wenn die Spannung nicht nach Hause zeigt, vereinfache sofort.",
+          "ja": "ボスラウンドは色です。**A7** の上では **C#** に着地する前にアウトサイド音を1つ試し、**G7** の上では **Cmaj7** に戻る前に **B** へのクロマチック・アプローチを試してください。ルールは、アウトサイドの色が解決感を強めること。おしゃれなミスを増やすことではありません。緊張が帰る場所を示していないなら、すぐにシンプルに戻しましょう。",
+          "zh-Hans": "Boss 回合是色彩控制：在 **A7** 上，试着先弹一个 outside 音再落到 **C#**；在 **G7** 上，试着先做一个通向 **B** 的半音接近，再回到 **Cmaj7**。规则是：outside 色彩必须让解决感更强，而不只是把错误装饰得更高级。如果张力没有指向“回家”的方向，就立刻简化。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: build a **3-chorus mini performance**. Chorus 1 should sound clear and elegant. Chorus 2 should earn more harmonic detail without losing calm. Chorus 3 should grow dynamically and end with a confident pickup back to **Cmaj7**. Record it and ask yourself: **Did my guide tones light the path, or did I just play around the map?**",
+          "pt-BR": "Desafio final: monte uma **mini performance de 3 chorus**. O chorus 1 deve soar claro e elegante. O chorus 2 deve ganhar mais detalhe harmônico sem perder a calma. O chorus 3 deve crescer em dinâmica e terminar com uma anacruse confiante de volta para **Cmaj7**. Grave e pergunte a si mesmo: **meus guide tones iluminaram o caminho ou eu só vaguei pelo mapa?**",
+          "es": "Desafío final: construye una **mini interpretación de 3 vueltas**. La vuelta 1 debe sonar clara y elegante. La vuelta 2 debe ganar más detalle armónico sin perder calma. La vuelta 3 debe crecer en dinámica y terminar con una anacrusa segura de regreso a **Cmaj7**. Grábala y pregúntate: **¿mis guide tones iluminaron el camino o solo vagué por el mapa?**",
+          "de": "Abschluss-Challenge: Baue eine **Mini-Performance über 3 Durchgänge**. Durchgang 1 soll klar und elegant klingen. Durchgang 2 soll mehr harmonisches Detail gewinnen, ohne die Ruhe zu verlieren. Durchgang 3 soll dynamisch wachsen und mit einem sicheren Auftakt zurück nach **Cmaj7** enden. Nimm es auf und frage dich: **Haben meine Guide Tones den Weg beleuchtet oder habe ich nur auf der Karte herumgespielt?**",
+          "ja": "最後のチャレンジは**3コーラスのミニ演奏**です。1コーラス目は明快で上品に、2コーラス目は落ち着きを失わずに和声的な情報量を増やし、3コーラス目はダイナミクスを育てて **Cmaj7** へ自信あるピックアップで締めます。録音して、自分に問いかけてください。**ガイドトーンは道を照らしていたか、それとも地図の上をうろうろしただけか？**",
+          "zh-Hans": "最终挑战：做一个**3 个循环的小型演奏**。第1个循环要清晰而优雅；第2个循环要在不失从容的前提下增加更多和声细节；第3个循环要在动态上逐步抬高，并用一个自信的弱起回到 **Cmaj7**。录下来后问自己：**我的导音真的照亮了路径，还是我只是在地图边上打转？**"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-18T00:09:31Z",
+  "updatedAt": "2026-07-18T00:09:31Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "bass-guide-tone-crosswalk",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a swing or straight-ahead groove to **96 BPM** and loop **| Fmaj7 | Dm7 | Gm7 | C7 |**. Play quarter notes only. Your mission is simple: on beat 1 of every bar, land on the **3rd or 7th** of the current chord instead of the root. The groove should still feel confident, like you know exactly where the sidewalk is even without painting the obvious route.",
+          "pt-BR": "Coloque um groove swingado ou reto em **96 BPM** e faça um loop de **| Fmaj7 | Dm7 | Gm7 | C7 |**. Toque apenas semínimas. Sua missão é simples: no tempo 1 de cada compasso, caia na **3ª ou 7ª** do acorde atual em vez da tônica. O groove ainda precisa soar confiante, como se você soubesse exatamente onde fica a calçada mesmo sem pintar o caminho óbvio.",
+          "es": "Pon un groove swing o recto a **96 BPM** y haz un loop de **| Fmaj7 | Dm7 | Gm7 | C7 |**. Toca solo negras. Tu misión es simple: en el tiempo 1 de cada compás, cae en la **3ª o la 7ª** del acorde actual en lugar de la raíz. El groove debe seguir sonando seguro, como si supieras exactamente dónde está la acera aunque no pintes la ruta más obvia.",
+          "de": "Stell einen Swing- oder Straight-Groove auf **96 BPM** und loope **| Fmaj7 | Dm7 | Gm7 | C7 |**. Spiele nur Viertelnoten. Deine Mission ist einfach: Auf Zählzeit 1 jedes Takts landest du auf der **Terz oder Septime** des aktuellen Akkords statt auf dem Grundton. Der Groove soll trotzdem sicher klingen, als würdest du den Weg genau kennen, auch ohne die offensichtlichste Route zu markieren.",
+          "ja": "スウィングでもストレートでもいいので、グルーヴを **96 BPM** に設定し、**| Fmaj7 | Dm7 | Gm7 | C7 |** をループします。弾くのは4分音符だけです。ミッションはシンプルで、各小節の1拍目にルートではなく、そのコードの**3度または7度**へ着地すること。いちばん分かりやすい道を塗らなくても、歩道の位置がはっきり見えているような自信あるグルーヴを目指しましょう。",
+          "zh-Hans": "把 swing 或 straight 的 groove 设为 **96 BPM**，循环 **| Fmaj7 | Dm7 | Gm7 | C7 |**。全程只弹四分音符。你的任务很简单：每一小节的第1拍不要落在根音，而是落在当前和弦的**3音或7音**上。即使不走最显眼的路线，律动也要听起来很笃定，像你非常清楚人行道在哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Plan the targets before you play. For one chorus use **A, F, Bb, E** as your beat-1 notes. For the next chorus switch to **E, C, F, Bb**. Say the four targets once before each chorus, then walk into them. If you lose track, stop and restart. Walking lines sound relaxed only when the planning is stronger than the panic.",
+          "pt-BR": "Planeje os alvos antes de tocar. Em um chorus use **A, F, Bb, E** como notas do tempo 1. No chorus seguinte, troque para **E, C, F, Bb**. Diga os quatro alvos uma vez antes de cada chorus e depois caminhe até eles. Se se perder, pare e recomece. Walking lines só soam relaxadas quando o planejamento é mais forte que o pânico.",
+          "es": "Planifica los objetivos antes de tocar. En una vuelta usa **A, F, Bb, E** como notas del tiempo 1. En la siguiente vuelta cambia a **E, C, F, Bb**. Di los cuatro objetivos una vez antes de cada vuelta y luego camina hacia ellos. Si te pierdes, para y vuelve a empezar. Las walking lines solo suenan relajadas cuando la planificación es más fuerte que el pánico.",
+          "de": "Plane die Ziele, bevor du spielst. Nimm für einen Durchgang **A, F, Bb, E** als Zählzeit-1-Töne. Im nächsten Durchgang wechselst du zu **E, C, F, Bb**. Sage die vier Zieltöne vor jedem Durchgang einmal laut und laufe dann in sie hinein. Wenn du den Faden verlierst, stopp und beginne neu. Walking-Lines klingen nur dann entspannt, wenn die Planung stärker ist als die Panik.",
+          "ja": "弾く前にターゲットを決めます。1コーラス目は1拍目の音を **A, F, Bb, E**、次のコーラスは **E, C, F, Bb** にしてください。各コーラスの前に4つのターゲットを一度声に出してから歩き始めます。見失ったら止まって最初から。ウォーキングラインが落ち着いて聴こえるのは、焦りより計画のほうが強いときだけです。",
+          "zh-Hans": "在弹之前先规划目标。第1个循环把第1拍目标定为 **A、F、Bb、E**，下一个循环改成 **E、C、F、Bb**。每次开始前先把这四个目标音念一遍，再走进去。如果乱了，就停下来重来。Walking line 之所以能听起来轻松，是因为计划必须比慌乱更有力量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the crosswalk rule. On beat 4 of each bar, play either a **diatonic approach** or a **chromatic approach** that points directly to the next bar’s target. Example: if the next target is **Bb**, beat 4 of the previous bar can be **A** or **B**. The line should feel like it steps off the curb exactly where you meant to go.",
+          "pt-BR": "Agora adicione a regra da faixa de pedestres. No tempo 4 de cada compasso, toque uma **aproximação diatônica** ou **cromática** que aponte diretamente para o alvo do compasso seguinte. Exemplo: se o próximo alvo for **Bb**, o tempo 4 do compasso anterior pode ser **A** ou **B**. A linha deve soar como se pisasse na rua exatamente onde você queria chegar.",
+          "es": "Ahora añade la regla del paso peatonal. En el tiempo 4 de cada compás, toca una **aproximación diatónica** o **cromática** que apunte directamente al objetivo del siguiente compás. Ejemplo: si el siguiente objetivo es **Bb**, el tiempo 4 del compás anterior puede ser **A** o **B**. La línea debe sentirse como si cruzara la calle exactamente por donde querías pasar.",
+          "de": "Jetzt kommt die Zebrastreifen-Regel. Spiele auf Zählzeit 4 jedes Takts entweder einen **diatonischen Annäherungston** oder einen **chromatischen Annäherungston**, der direkt auf das Ziel des nächsten Takts zeigt. Beispiel: Wenn das nächste Ziel **Bb** ist, kann Zählzeit 4 im vorherigen Takt **A** oder **B** sein. Die Linie soll sich anfühlen, als würdest du genau an der richtigen Stelle über die Straße gehen.",
+          "ja": "次にクロスウォークのルールを追加します。各小節の4拍目で、次の小節のターゲットへ直接向かう**ダイアトニック・アプローチ**か**クロマチック・アプローチ**を入れましょう。たとえば次のターゲットが **Bb** なら、前の小節の4拍目は **A** でも **B** でも構いません。狙った場所ぴったりで道路を渡るような感覚にしてください。",
+          "zh-Hans": "现在加入“斑马线规则”。每一小节的第4拍，弹一个**自然音阶内的接近音**或**半音接近音**，直接指向下一小节的目标音。比如下一个目标是 **Bb**，那前一小节的第4拍可以弹 **A** 或 **B**。整条线要像你正好从最合适的位置穿过马路一样顺。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Change the register without changing the pocket. Chorus 1 stays mostly below the 5th fret. Chorus 2 must climb into the middle register at least twice. Chorus 3 returns low but keeps the same level of confidence. If the time gets wobbly when you shift, your hands moved faster than your inner count.",
+          "pt-BR": "Mude de registro sem mudar o pocket. O chorus 1 fica principalmente abaixo da 5ª casa. O chorus 2 deve subir para o registro médio pelo menos duas vezes. O chorus 3 volta para a região grave, mas com o mesmo nível de confiança. Se o tempo balançar quando você muda de região, suas mãos andaram mais rápido que sua contagem interna.",
+          "es": "Cambia de registro sin cambiar el pocket. La vuelta 1 se queda principalmente por debajo del 5º traste. La vuelta 2 debe subir al registro medio al menos dos veces. La vuelta 3 vuelve abajo, pero con el mismo nivel de seguridad. Si el tiempo se tambalea cuando cambias de zona, tus manos se movieron más rápido que tu cuenta interna.",
+          "de": "Wechsle das Register, ohne den Pocket zu verlieren. Durchgang 1 bleibt überwiegend unter dem 5. Bund. Durchgang 2 muss mindestens zweimal ins mittlere Register steigen. Durchgang 3 kehrt nach unten zurück, aber mit derselben Sicherheit. Wenn das Timing beim Lagenwechsel wackelt, waren deine Hände schneller als dein innerer Puls.",
+          "ja": "ポケットを変えずに音域を変えます。1コーラス目は主に5フレットより下、2コーラス目は少なくとも2回は中音域へ上がります。3コーラス目は低音域へ戻りつつ、同じ自信を保ってください。ポジション移動でタイムが揺れるなら、手の動きが内側のカウントより速すぎます。",
+          "zh-Hans": "换音区，但别丢掉 pocket。第1个循环主要待在 **第5品以下**，第2个循环至少两次升到中音区，第3个循环再回到低音区，同时保持同样的自信。如果一换把时间感就晃了，说明你的手比内在计数跑得还快。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round texture: keep quarter notes in bars 1 and 3, but in bars 2 and 4 you may replace exactly **one beat** with **two 8th notes**. Use that little burst to make the line breathe, not to show off. The test is whether the pulse gets stronger when you add motion.",
+          "pt-BR": "Chefão de textura: mantenha semínimas nos compassos 1 e 3, mas nos compassos 2 e 4 você pode trocar exatamente **um tempo** por **duas colcheias**. Use esse pequeno impulso para fazer a linha respirar, não para se exibir. O teste é perceber se o pulso fica mais forte quando você adiciona movimento.",
+          "es": "Ronda jefe de textura: mantén negras en los compases 1 y 3, pero en los compases 2 y 4 puedes reemplazar exactamente **un tiempo** por **dos corcheas**. Usa ese pequeño impulso para que la línea respire, no para presumir. La prueba es si el pulso se vuelve más fuerte cuando añades movimiento.",
+          "de": "Boss-Runde Textur: Halte in Takt 1 und 3 Viertelnoten, aber in Takt 2 und 4 darfst du genau **einen Schlag** durch **zwei Achtelnoten** ersetzen. Nutze diesen kleinen Schub, damit die Linie atmet, nicht um anzugeben. Der Test ist, ob der Puls stärker wird, wenn du Bewegung hinzufügst.",
+          "ja": "ボスラウンドは質感です。1小節目と3小節目は4分音符のまま、2小節目と4小節目では**1拍だけ**を**8分音符2つ**に置き換えてもかまいません。その小さな加速は見せびらかすためではなく、ラインに呼吸を与えるために使いましょう。動きを足したときに脈が強くなるかどうかが試験です。",
+          "zh-Hans": "Boss 回合是质感控制：第1和第3小节保持四分音符；第2和第4小节里，你可以把**恰好1拍**换成**两个八分音符**。这点小爆发是为了让线条会呼吸，不是为了炫技。真正的考验是：加入运动之后，脉冲感是不是反而更强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: write and record an **8-bar walking etude** over the loop. Include at least **two guide-tone landings on 7ths**, **two approach notes from different directions**, and **one register shift**. Listen back and score yourself from 1 to 5 on **time**, **clarity of harmony**, and **smoothness of connection** between bars.",
+          "pt-BR": "Desafio final: escreva e grave um **estudo de walking de 8 compassos** sobre o loop. Inclua pelo menos **duas aterrissagens em 7as**, **duas aproximações vindas de direções diferentes** e **uma mudança de registro**. Ouça de volta e dê uma nota de 1 a 5 para **tempo**, **clareza da harmonia** e **suavidade da conexão** entre os compassos.",
+          "es": "Desafío final: escribe y graba un **estudio de walking de 8 compases** sobre el loop. Incluye al menos **dos aterrizajes en 7mas**, **dos notas de aproximación desde direcciones diferentes** y **un cambio de registro**. Escúchalo después y califícate del 1 al 5 en **tiempo**, **claridad armónica** y **suavidad de conexión** entre compases.",
+          "de": "Abschluss-Challenge: Schreibe und nimm eine **8-taktige Walking-Etüde** über den Loop auf. Baue mindestens **zwei Guide-Tone-Landungen auf Septimen**, **zwei Annäherungstöne aus verschiedenen Richtungen** und **einen Registerwechsel** ein. Hör es dir an und bewerte dich von 1 bis 5 in **Timing**, **harmonischer Klarheit** und **flüssiger Verbindung** zwischen den Takten.",
+          "ja": "最後のチャレンジとして、このループ上で**8小節のウォーキング・エチュード**を書いて録音しましょう。少なくとも**7度へのガイドトーン着地を2回**、**異なる方向からのアプローチ音を2回**、そして**1回の音域移動**を入れてください。録音を聴き返し、**タイム**、**ハーモニーの明確さ**、**小節どうしのつながりのなめらかさ**をそれぞれ1〜5で採点しましょう。",
+          "zh-Hans": "最终挑战：围绕这个循环写并录下一个**8小节 walking 练习曲**。其中至少要有**两次落在7音上的导音着陆**、**两次来自不同方向的接近音**，以及**一次音区转换**。回放后从 1 到 5 给自己打分：**时间感**、**和声清晰度**、以及**小节之间连接的顺滑度**。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-18T00:08:24Z",
+  "updatedAt": "2026-07-18T00:08:24Z"
+}

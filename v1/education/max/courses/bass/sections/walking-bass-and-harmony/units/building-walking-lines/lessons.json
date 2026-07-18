@@ -166,5 +166,33 @@
     "order": 6,
     "createdAt": "2026-07-17T00:10:19Z",
     "updatedAt": "2026-07-17T00:10:19Z"
+  },
+  {
+    "id": "bass-guide-tone-crosswalk",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Guide-Tone Crosswalk",
+        "pt-BR": "Faixa de Pedestres dos Guide Tones no Baixo",
+        "es": "Paso Peatonal de Guide Tones para Bajo",
+        "de": "Bass Guide-Tone Crosswalk",
+        "ja": "ベース・ガイドトーン・クロスウォーク",
+        "zh-Hans": "贝斯导音斑马线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build walking lines that cross cleanly into each new chord using strong guide-tone landings.",
+        "pt-BR": "Construa linhas caminhantes que atravessem cada acorde novo com aterrissagens fortes em guide tones.",
+        "es": "Construye líneas caminantes que crucen cada acorde nuevo con aterrizajes fuertes en guide tones.",
+        "de": "Baue Walking-Lines, die mit starken Guide-Tone-Landungen sauber in jeden neuen Akkord führen.",
+        "ja": "強いガイドトーン着地で、新しいコードへきれいに渡るウォーキングラインを作ろう。",
+        "zh-Hans": "用扎实的导音落点，让你的 walking line 干净地跨进每一个新和弦。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-07-18T00:08:24Z",
+    "updatedAt": "2026-07-18T00:08:24Z"
   }
 ]
