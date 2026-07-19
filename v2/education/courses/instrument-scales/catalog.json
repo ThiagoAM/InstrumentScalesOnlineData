@@ -1,0 +1,517 @@
+{
+  "schema": 2,
+  "course": "instrument-scales",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "beginner",
+      "level": "beginner",
+      "order": 1,
+      "titles": {
+        "en": "Beginner",
+        "pt-BR": "Iniciante",
+        "es": "Principiante",
+        "de": "Anfänger",
+        "ja": "初級",
+        "zh-Hans": "初级"
+      },
+      "summaries": {
+        "en": "Build a reliable musical home base.",
+        "pt-BR": "Construa uma base musical confiável.",
+        "es": "Construye una base musical sólida.",
+        "de": "Baue eine sichere musikalische Basis.",
+        "ja": "確かな音楽の土台を作ります。",
+        "zh-Hans": "建立可靠的音乐基础。"
+      },
+      "theme": "sparkles",
+      "units": [
+        {
+          "id": "home-base",
+          "order": 1,
+          "titles": {
+            "en": "Home Base",
+            "pt-BR": "Ponto de partida",
+            "es": "Punto de partida",
+            "de": "Ausgangspunkt",
+            "ja": "ホームベース",
+            "zh-Hans": "音乐起点"
+          },
+          "summaries": {
+            "en": "Two quick lessons with one clear goal each.",
+            "pt-BR": "Duas lições rápidas com um objetivo claro cada.",
+            "es": "Dos lecciones rápidas con un objetivo claro cada una.",
+            "de": "Zwei kurze Lektionen mit je einem klaren Ziel.",
+            "ja": "明確な目標を持つ2つの短いレッスンです。",
+            "zh-Hans": "两节各有明确目标的短课。"
+          },
+          "theme": "sparkles",
+          "lessons": [
+            {
+              "id": "find-the-tonic",
+              "order": 1,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "Find the tonic",
+                "pt-BR": "Encontre a tônica",
+                "es": "Encuentra la tónica",
+                "de": "Finde den Grundton",
+                "ja": "主音を見つける",
+                "zh-Hans": "找到主音"
+              },
+              "summaries": {
+                "en": "Hear and locate the note that makes a phrase feel complete.",
+                "pt-BR": "Ouça e encontre a nota que faz a frase parecer completa.",
+                "es": "Escucha y encuentra la nota que hace que una frase se sienta completa.",
+                "de": "Höre und finde den Ton, der eine Phrase abschließt.",
+                "ja": "フレーズを落ち着かせる音を聴き分けます。",
+                "zh-Hans": "听辨并找到让乐句产生结束感的音。"
+              },
+              "path": "sections/beginner/units/home-base/lessons/find-the-tonic/lesson.md"
+            },
+            {
+              "id": "major-vs-minor",
+              "order": 2,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Major or minor?",
+                "pt-BR": "Maior ou menor?",
+                "es": "¿Mayor o menor?",
+                "de": "Dur oder Moll?",
+                "ja": "メジャー？マイナー？",
+                "zh-Hans": "大调还是小调？"
+              },
+              "summaries": {
+                "en": "Compare the third degree and hear how one note changes the color.",
+                "pt-BR": "Compare o terceiro grau e ouça como uma nota muda a cor.",
+                "es": "Compara el tercer grado y escucha cómo una nota cambia el color.",
+                "de": "Vergleiche die Terz und höre, wie ein Ton die Farbe ändert.",
+                "ja": "第3音を比べ、1音で響きが変わることを聴きます。",
+                "zh-Hans": "比较第三级音，听一个音如何改变色彩。"
+              },
+              "path": "sections/beginner/units/home-base/lessons/major-vs-minor/lesson.md"
+            }
+          ]
+        },
+        {
+          "id": "first-octave-trail",
+          "order": 2,
+          "titles": {
+            "en": "First Octave Trail",
+            "pt-BR": "Trilha da primeira oitava",
+            "es": "Ruta de la primera octava",
+            "de": "Erste Oktavroute",
+            "ja": "最初のオクターブ",
+            "zh-Hans": "第一个八度路径"
+          },
+          "summaries": {
+            "en": "Two quick lessons with one clear goal each.",
+            "pt-BR": "Duas lições rápidas com um objetivo claro cada.",
+            "es": "Dos lecciones rápidas con un objetivo claro cada una.",
+            "de": "Zwei kurze Lektionen mit je einem klaren Ziel.",
+            "ja": "明確な目標を持つ2つの短いレッスンです。",
+            "zh-Hans": "两节各有明确目标的短课。"
+          },
+          "theme": "sparkles",
+          "lessons": [
+            {
+              "id": "c-major-one-octave",
+              "order": 1,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "C major: one octave",
+                "pt-BR": "Dó maior: uma oitava",
+                "es": "Do mayor: una octava",
+                "de": "C-Dur: eine Oktave",
+                "ja": "Cメジャー：1オクターブ",
+                "zh-Hans": "C大调：一个八度"
+              },
+              "summaries": {
+                "en": "Play eight scale tones with an even pulse and relaxed fingers.",
+                "pt-BR": "Toque oito notas da escala com pulsação regular e dedos relaxados.",
+                "es": "Toca ocho notas con pulso uniforme y dedos relajados.",
+                "de": "Spiele acht Skalentöne mit gleichmäßigem Puls und lockeren Fingern.",
+                "ja": "8つの音を均等な拍とリラックスした指で弾きます。",
+                "zh-Hans": "用均匀节拍和放松的手指演奏八个音。"
+              },
+              "path": "sections/beginner/units/first-octave-trail/lessons/c-major-one-octave/lesson.md"
+            },
+            {
+              "id": "c-major-open-position",
+              "order": 2,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "C major in open position",
+                "pt-BR": "Dó maior na posição aberta",
+                "es": "Do mayor en posición abierta",
+                "de": "C-Dur in offener Lage",
+                "ja": "オープンポジションのCメジャー",
+                "zh-Hans": "开放把位C大调"
+              },
+              "summaries": {
+                "en": "Follow exact strings and frets through a compact C-major shape.",
+                "pt-BR": "Siga cordas e casas exatas em uma forma compacta de dó maior.",
+                "es": "Sigue cuerdas y trastes exactos en una forma compacta de do mayor.",
+                "de": "Folge exakten Saiten und Bünden in einer kompakten C-Dur-Form.",
+                "ja": "正確な弦とフレットでCメジャーを弾きます。",
+                "zh-Hans": "按准确的弦和品位演奏紧凑的C大调音型。"
+              },
+              "path": "sections/beginner/units/first-octave-trail/lessons/c-major-open-position/lesson.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intermediate",
+      "level": "intermediate",
+      "order": 2,
+      "titles": {
+        "en": "Intermediate",
+        "pt-BR": "Intermediário",
+        "es": "Intermedio",
+        "de": "Mittelstufe",
+        "ja": "中級",
+        "zh-Hans": "中级"
+      },
+      "summaries": {
+        "en": "Connect positions, rhythm, and musical movement.",
+        "pt-BR": "Conecte posições, ritmo e movimento musical.",
+        "es": "Conecta posiciones, ritmo y movimiento musical.",
+        "de": "Verbinde Lagen, Rhythmus und Bewegung.",
+        "ja": "ポジション、リズム、動きをつなぎます。",
+        "zh-Hans": "连接把位、节奏与音乐运动。"
+      },
+      "theme": "point.topleft.down.to.point.bottomright.curvepath",
+      "units": [
+        {
+          "id": "position-bridges",
+          "order": 1,
+          "titles": {
+            "en": "Position Bridges",
+            "pt-BR": "Pontes de posição",
+            "es": "Puentes de posición",
+            "de": "Lagenbrücken",
+            "ja": "ポジションの橋",
+            "zh-Hans": "把位桥梁"
+          },
+          "summaries": {
+            "en": "Two quick lessons with one clear goal each.",
+            "pt-BR": "Duas lições rápidas com um objetivo claro cada.",
+            "es": "Dos lecciones rápidas con un objetivo claro cada una.",
+            "de": "Zwei kurze Lektionen mit je einem klaren Ziel.",
+            "ja": "明確な目標を持つ2つの短いレッスンです。",
+            "zh-Hans": "两节各有明确目标的短课。"
+          },
+          "theme": "point.topleft.down.to.point.bottomright.curvepath",
+          "lessons": [
+            {
+              "id": "connect-pentatonic-positions",
+              "order": 1,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Connect pentatonic positions",
+                "pt-BR": "Conecte posições pentatônicas",
+                "es": "Conecta posiciones pentatónicas",
+                "de": "Verbinde Pentatonik-Lagen",
+                "ja": "ペンタトニックのポジションをつなぐ",
+                "zh-Hans": "连接五声音阶把位"
+              },
+              "summaries": {
+                "en": "Cross one position boundary without breaking the pulse.",
+                "pt-BR": "Atravesse uma mudança de posição sem interromper a pulsação.",
+                "es": "Cruza un cambio de posición sin romper el pulso.",
+                "de": "Wechsle die Lage, ohne den Puls zu unterbrechen.",
+                "ja": "拍を止めずにポジションを移動します。",
+                "zh-Hans": "在不打断节拍的情况下跨越一个把位。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/connect-pentatonic-positions/lesson.md"
+            },
+            {
+              "id": "octave-pivot-relay",
+              "order": 2,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Octave pivot relay",
+                "pt-BR": "Revezamento de pivôs de oitava",
+                "es": "Relevo de pivotes de octava",
+                "de": "Oktav-Drehpunkt-Staffel",
+                "ja": "オクターブ・ピボット・リレー",
+                "zh-Hans": "八度支点接力"
+              },
+              "summaries": {
+                "en": "Use octave shapes to move a scale idea between bass strings.",
+                "pt-BR": "Use formas de oitava para mover uma ideia de escala entre as cordas do baixo.",
+                "es": "Usa formas de octava para mover una idea entre cuerdas del bajo.",
+                "de": "Nutze Oktavformen, um eine Skalenidee über Basssaiten zu bewegen.",
+                "ja": "オクターブ形でベース弦をまたいで移動します。",
+                "zh-Hans": "用八度指型在贝斯弦之间移动音阶动机。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/octave-pivot-relay/lesson.md"
+            }
+          ]
+        },
+        {
+          "id": "rhythm-lab",
+          "order": 2,
+          "titles": {
+            "en": "Rhythm Lab",
+            "pt-BR": "Laboratório de ritmo",
+            "es": "Laboratorio de ritmo",
+            "de": "Rhythmuslabor",
+            "ja": "リズム研究室",
+            "zh-Hans": "节奏实验室"
+          },
+          "summaries": {
+            "en": "Two quick lessons with one clear goal each.",
+            "pt-BR": "Duas lições rápidas com um objetivo claro cada.",
+            "es": "Dos lecciones rápidas con un objetivo claro cada una.",
+            "de": "Zwei kurze Lektionen mit je einem klaren Ziel.",
+            "ja": "明確な目標を持つ2つの短いレッスンです。",
+            "zh-Hans": "两节各有明确目标的短课。"
+          },
+          "theme": "point.topleft.down.to.point.bottomright.curvepath",
+          "lessons": [
+            {
+              "id": "rest-and-return",
+              "order": 1,
+              "estimatedMinutes": 6,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Rest and return",
+                "pt-BR": "Pausa e retorno",
+                "es": "Pausa y regreso",
+                "de": "Pause und Rückkehr",
+                "ja": "休符とリターン",
+                "zh-Hans": "休止与回归"
+              },
+              "summaries": {
+                "en": "Shape a short phrase by leaving deliberate silence before the tonic.",
+                "pt-BR": "Modele uma frase curta deixando silêncio antes da tônica.",
+                "es": "Da forma a una frase dejando silencio antes de la tónica.",
+                "de": "Forme eine Phrase mit bewusster Stille vor dem Grundton.",
+                "ja": "主音の前に意図的な休符を置きます。",
+                "zh-Hans": "在主音前留出有意识的空白来塑造乐句。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/rest-and-return/lesson.md"
+            },
+            {
+              "id": "bass-groove-scale-fill",
+              "order": 2,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass groove scale fill",
+                "pt-BR": "Virada de escala no groove de baixo",
+                "es": "Relleno de escala en el groove de bajo",
+                "de": "Bass-Groove mit Skalen-Fill",
+                "ja": "ベースグルーヴのスケールフィル",
+                "zh-Hans": "贝斯律动音阶加花"
+              },
+              "summaries": {
+                "en": "Keep the root groove steady, then add a scale fill at the phrase ending.",
+                "pt-BR": "Mantenha o groove da tônica e adicione uma virada no fim da frase.",
+                "es": "Mantén el groove de raíz y añade un relleno al final.",
+                "de": "Halte den Grundton-Groove und ergänze am Phrasenende ein Fill.",
+                "ja": "ルートのグルーヴを保ち、最後にフィルを加えます。",
+                "zh-Hans": "保持根音律动，在乐句末尾加入音阶加花。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/bass-groove-scale-fill/lesson.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "advanced",
+      "level": "advanced",
+      "order": 3,
+      "titles": {
+        "en": "Advanced",
+        "pt-BR": "Avançado",
+        "es": "Avanzado",
+        "de": "Fortgeschritten",
+        "ja": "上級",
+        "zh-Hans": "高级"
+      },
+      "summaries": {
+        "en": "Control intervals, resolution, and modal color.",
+        "pt-BR": "Controle intervalos, resolução e cor modal.",
+        "es": "Controla intervalos, resolución y color modal.",
+        "de": "Beherrsche Intervalle, Auflösung und modale Farbe.",
+        "ja": "音程、解決、モードの色彩を操ります。",
+        "zh-Hans": "掌控音程、解决与调式色彩。"
+      },
+      "theme": "bolt.fill",
+      "units": [
+        {
+          "id": "intervals-in-motion",
+          "order": 1,
+          "titles": {
+            "en": "Intervals in Motion",
+            "pt-BR": "Intervalos em movimento",
+            "es": "Intervalos en movimiento",
+            "de": "Intervalle in Bewegung",
+            "ja": "動く音程",
+            "zh-Hans": "运动中的音程"
+          },
+          "summaries": {
+            "en": "Two quick lessons with one clear goal each.",
+            "pt-BR": "Duas lições rápidas com um objetivo claro cada.",
+            "es": "Dos lecciones rápidas con un objetivo claro cada una.",
+            "de": "Zwei kurze Lektionen mit je einem klaren Ziel.",
+            "ja": "明確な目標を持つ2つの短いレッスンです。",
+            "zh-Hans": "两节各有明确目标的短课。"
+          },
+          "theme": "bolt.fill",
+          "lessons": [
+            {
+              "id": "diatonic-thirds-across-neck",
+              "order": 1,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Diatonic thirds across the neck",
+                "pt-BR": "Terças diatônicas pelo braço",
+                "es": "Terceras diatónicas por el mástil",
+                "de": "Diatonische Terzen über das Griffbrett",
+                "ja": "指板を横断するダイアトニック3度",
+                "zh-Hans": "横跨指板的自然音三度"
+              },
+              "summaries": {
+                "en": "Keep every skip-step pair even while the fingering changes.",
+                "pt-BR": "Mantenha cada par em terças regular enquanto a digitação muda.",
+                "es": "Mantén uniforme cada pareja de terceras mientras cambia la digitación.",
+                "de": "Halte jedes Terzpaar gleichmäßig, während der Fingersatz wechselt.",
+                "ja": "運指が変わっても3度のペアを均等に保ちます。",
+                "zh-Hans": "在指法变化时保持每组三度均匀。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/diatonic-thirds-across-neck/lesson.md"
+            },
+            {
+              "id": "contrary-motion-scale-mirror",
+              "order": 2,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Contrary-motion scale mirror",
+                "pt-BR": "Espelho de escalas em movimento contrário",
+                "es": "Espejo de escalas en movimiento contrario",
+                "de": "Tonleiter-Spiegel in Gegenbewegung",
+                "ja": "反進行スケール・ミラー",
+                "zh-Hans": "反向进行音阶镜像"
+              },
+              "summaries": {
+                "en": "Balance both hands as they travel away from and back to the center.",
+                "pt-BR": "Equilibre as mãos enquanto se afastam e voltam ao centro.",
+                "es": "Equilibra ambas manos al alejarse y volver al centro.",
+                "de": "Balanciere beide Hände auf dem Weg vom Zentrum und zurück.",
+                "ja": "両手が中央から離れ戻る動きをそろえます。",
+                "zh-Hans": "双手从中心向外再返回时保持平衡。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/contrary-motion-scale-mirror/lesson.md"
+            }
+          ]
+        },
+        {
+          "id": "target-and-resolve",
+          "order": 2,
+          "titles": {
+            "en": "Target and Resolve",
+            "pt-BR": "Alvo e resolução",
+            "es": "Objetivo y resolución",
+            "de": "Ziel und Auflösung",
+            "ja": "狙って解決",
+            "zh-Hans": "目标与解决"
+          },
+          "summaries": {
+            "en": "Two quick lessons with one clear goal each.",
+            "pt-BR": "Duas lições rápidas com um objetivo claro cada.",
+            "es": "Dos lecciones rápidas con un objetivo claro cada una.",
+            "de": "Zwei kurze Lektionen mit je einem klaren Ziel.",
+            "ja": "明確な目標を持つ2つの短いレッスンです。",
+            "zh-Hans": "两节各有明确目标的短课。"
+          },
+          "theme": "bolt.fill",
+          "lessons": [
+            {
+              "id": "chord-tone-landing",
+              "order": 1,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Chord-tone landing",
+                "pt-BR": "Pouso nas notas do acorde",
+                "es": "Llegada a notas del acorde",
+                "de": "Landung auf Akkordtönen",
+                "ja": "コードトーンに着地",
+                "zh-Hans": "落在和弦音上"
+              },
+              "summaries": {
+                "en": "Aim short scale runs at the third of each changing chord.",
+                "pt-BR": "Direcione frases de escala para a terça de cada acorde.",
+                "es": "Dirige frases de escala a la tercera de cada acorde.",
+                "de": "Ziele kurze Skalenläufe auf die Terz jedes Akkords.",
+                "ja": "短いスケールを各コードの3度へ着地させます。",
+                "zh-Hans": "让短音阶乐句落在每个和弦的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/chord-tone-landing/lesson.md"
+            },
+            {
+              "id": "dorian-aeolian-color-switch",
+              "order": 2,
+              "estimatedMinutes": 8,
+              "activity": "ear-training",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Dorian–Aeolian color switch",
+                "pt-BR": "Troca de cor dórico–eólio",
+                "es": "Cambio de color dórico–eólico",
+                "de": "Dorisch-Äolisch-Farbwechsel",
+                "ja": "ドリアン–エオリアンの色替え",
+                "zh-Hans": "多利亚–自然小调色彩切换"
+              },
+              "summaries": {
+                "en": "Change only the sixth degree and hear the mode shift over one root.",
+                "pt-BR": "Mude somente o sexto grau e ouça a troca de modo sobre a mesma tônica.",
+                "es": "Cambia solo el sexto grado y escucha el cambio modal sobre una raíz.",
+                "de": "Ändere nur die Sexte und höre den Moduswechsel über demselben Grundton.",
+                "ja": "第6音だけを変え、同じ主音上のモード変化を聴きます。",
+                "zh-Hans": "只改变第六级，听同一根音上的调式变化。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/dorian-aeolian-color-switch/lesson.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

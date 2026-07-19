@@ -1,99 +1,137 @@
-# OPENCLAW.md
+# OPENCLAW.md — V2 curriculum authoring
 
-Instructions for coding agents creating lessons in this repository.
+Instructions for OpenClaw agents creating or revising Instrument Scales lessons. V2 is the only active authoring target. Never add new education content to `legacy/v1`; that directory exists only for old app compatibility.
 
-## Default workflow
+## 1. Start safely
 
-Before creating a lesson, sync the local repository:
+1. Sync `main` with a fast-forward-only pull.
+2. Read `README.md`, `v2/education/courses/instrument-scales/course.json`, and the complete `catalog.json`.
+3. Run `node scripts/validate-v2.js` before editing. If existing validation fails, report it instead of layering unrelated content on top.
+4. Select exactly one section and unit. Do not create a new section when the lesson belongs in an existing learning arc.
 
-- `git checkout main`
-- `git pull --ff-only origin main`
+## 2. Choose the hierarchy intentionally
 
-The AI must create lessons only for the `max` tier. Never create new lessons for the `free` tier.
+Sections describe learner stage, not instrument:
 
-Use `node scripts/create-lesson.js` for adding a lesson to an existing unit. Do not hand-edit JSON unless the script cannot be used.
+- `beginner`: recognition, orientation, one-octave control, and one idea at a time;
+- `intermediate`: position connections, rhythmic choices, short phrases, and coordinated movement;
+- `advanced`: interval sequences, harmonic targets, modal comparison, contrary motion, and multi-constraint control.
 
-When the script prompts for tier, always choose `max`.
+Units are thematic chapters. Unit N+1 must assume or extend at least one skill from unit N. Give each unit a short memorable theme rather than a generic difficulty label. Add a unit only when at least two distinct lessons belong to the theme; otherwise add the lesson to an existing unit.
 
-Optional:
+Lessons are atomic. One lesson should have one observable outcome, such as “land on the third at a chord change,” not “understand improvisation.” Target 5–8 minutes. Prefer two focused attempts over a long explanation.
 
-- `node scripts/create-lesson.js --markdown-dir /absolute/path/to/dir`
-- `node scripts/create-lesson.js --root /absolute/path/to/v1/education`
+## 3. Keep lessons quick and diversified
 
-The script handles repository validation, lesson file creation, `lessons.json` updates, lesson ordering, and `lessonIDs.json` regeneration.
+Across neighboring lessons, rotate activity types:
 
-Inputs the agent must provide correctly:
+- `ear-training`: compare, identify, sing, or find a tonal center;
+- `fretboard`: exact strings/frets, positions, shifts, or octave shapes;
+- `keyboard`: fingering, hand balance, one-octave or contrary motion;
+- `rhythm`: rests, accents, subdivisions, groove, or short fills;
+- `theory`: apply an interval or scale relationship through playing;
+- `improvisation`: constrained phrase, target note, call/response, or modal color.
 
-- lesson ID must match `^[a-z0-9]+(?:-[a-z0-9]+)*$`
-- `level` must be `beginner` or `intermediate`
-- `difficulty` must be `easy` or `medium`
-- lesson content must have between `4` and `10` text blocks
-- every lesson must be fun, challenging, and high quality
+Avoid consecutive lessons that are only prose plus the same ascending scale. Every lesson must contain playable content and a localized action checkpoint. Use `notes` for pitch/rhythm sequences and `fretboard` when an exact physical path matters.
 
-If `--markdown-dir` is not provided, the script creates a temporary directory with locale markdown templates and waits for them to be filled in.
+Difficulty should come from musical decisions, not length. Raise one constraint at a time: position change, rhythmic variation, interval pattern, harmonic target, or coordination. Keep the tempo achievable and state when the learner should slow down.
 
-## Required localizations
+## 4. Create the lesson
 
-The lesson must include exactly these six locales:
+Use a lowercase hyphenated slug. Add the lesson reference to the correct unit in `catalog.json`, with the next contiguous `order`. Required reference fields are:
 
-- `en`
-- `pt-BR`
-- `es`
-- `de`
-- `ja`
-- `zh-Hans`
+```json
+{
+  "id": "short-stable-slug",
+  "order": 3,
+  "estimatedMinutes": 7,
+  "activity": "rhythm",
+  "instrument": "guitar",
+  "optional": false,
+  "titles": { "en": "...", "pt-BR": "...", "es": "...", "de": "...", "ja": "...", "zh-Hans": "..." },
+  "summaries": { "en": "...", "pt-BR": "...", "es": "...", "de": "...", "ja": "...", "zh-Hans": "..." },
+  "path": "sections/<section>/units/<unit>/lessons/<lesson>/lesson.md"
+}
+```
 
-The markdown directory must contain at least these files:
+Create exactly one `lesson.md` at that path. Its front matter must repeat the catalog identity:
 
-- `en.md`
-- `pt-BR.md`
-- `es.md`
-- `de.md`
-- `ja.md`
-- `zh-Hans.md`
+```text
+---
+schema: 2
+id: short-stable-slug
+course: instrument-scales
+level: intermediate
+section: position-bridges
+unit: octave-connections
+order: 3
+revision: 1
+estimatedMinutes: 7
+instrument: guitar
+title.en: ...
+title.pt-BR: ...
+...
+summary.zh-Hans: ...
+---
+```
 
-Each locale file must:
+Use one localized region with all six locales. Keep the same instructional intent and checkpoint across translations:
 
-- start with front matter bounded by `---`
-- define non-empty `name:` and `description:` fields
-- contain a non-empty markdown body
-- use `<!-- block -->` on its own line as the block separator
-- produce between `4` and `10` blocks
+```text
+:::localized
+:::locale en
+# Localized title
 
-All locale files must stay aligned:
+Short instruction.
 
-- every locale must have the same number of blocks
-- block `1` must match block `1` across all locales, block `2` must match block `2`, and so on
-- write the English structure first, fix the exact block boundaries there, then mirror those boundaries in the other five locales
+:::checkpoint One observable action.
 
-## Validation and fallback
+:::locale pt-BR
+...
+:::endlocalized
+```
 
-After creation, run:
+Put shared playable fences after the localized region. Note syntax supports individual pitches, chords in brackets, rests as `-`, and `/duration`. Fretboard syntax must include tuning, fret range, and exact positions. Copy a nearby valid lesson when unsure, then change every ID and musical example.
 
-- `node scripts/validate-education.js`
-- `node --test tests/validate-education.test.js`
-- review the generated JSON changes before commit
-- if everything is valid, commit and push the changes
+## 5. Localization rules
 
-If the script fails, fix the underlying input problem and rerun it. Common failures are:
+All six locales are mandatory: `en`, `pt-BR`, `es`, `de`, `ja`, and `zh-Hans`.
 
-- choosing `free` is invalid agent behavior even though the script still exposes it
-- the existing `v1/education` tree is already invalid
-- the selected course, section, or unit does not exist
-- invalid insert position
-- duplicate lesson ID in the target unit
-- target lesson directory already exists
-- missing locale files
-- empty `name` or `description`
-- malformed front matter
-- malformed block delimiter
-- mismatched block counts across locales
-- fewer than `4` or more than `10` blocks
-- invalid lesson ID
+- Translate meaning, not word order.
+- Keep note names and established music terms appropriate to the locale.
+- Never leave English placeholder prose in a non-English locale.
+- Keep the checkpoint actionable and equivalent in every language.
+- Re-read title, summary, body, and checkpoint together; catalog and document metadata must agree.
 
-If the task is to remove already-existing invalid lessons that violate the block-count rule, use `node scripts/remove-invalid-lessons.js`.
+## 6. Quality checks
 
-## Out of scope
+Before validation, confirm:
 
-- image creation or attachment
-- manual JSON reshaping when the creation script can handle the task
+- one clear outcome and no unrelated theory detour;
+- 3–10 minutes, preferably 5–8;
+- at least one playable block that matches the stated objective;
+- playable pitches fit the declared instrument and tuning;
+- tempo and physical movement are realistic;
+- the lesson differs meaningfully from its neighbors;
+- higher unit numbers genuinely build on earlier units;
+- optional lessons enrich the path but do not block the required sequence.
+
+Then run:
+
+```bash
+node scripts/validate-v2.js
+node --test tests/*.test.js
+node scripts/build-pages.js
+```
+
+Review the generated `dist/v2` path and verify `dist/v1` still exists. Do not edit `dist` by hand and do not commit it unless repository policy changes; it is a build artifact.
+
+## 7. Revisions and removals
+
+For content-only lesson changes, increment the lesson `revision`. For navigation metadata or hierarchy changes, increment the catalog revision. Keep lesson IDs stable after release so progress survives.
+
+Do not silently delete or rename a released lesson. Mark it optional or replace its content while preserving the ID, unless the app has an explicit progress migration. If a hierarchy move is unavoidable, coordinate the old-to-new progress ID mapping before publishing.
+
+## 8. V1 boundary
+
+V1 source and tools live under `legacy/v1`. The Pages builder maps `legacy/v1/data` back to public `/v1`. V2 agents must not run V1 creation scripts, change V1 catalogs, or copy V1’s long-form lesson pattern into V2 unless explicitly asked to maintain a legacy bug.

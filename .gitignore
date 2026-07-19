@@ -6,6 +6,7 @@ Desktop.ini
 .idea/
 .vscode/
 .venv/
+dist/
 
 *.swp
 *~

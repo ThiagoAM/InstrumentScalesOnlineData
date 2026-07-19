@@ -12,7 +12,7 @@ const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const ISO_UTC_PATTERN = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/;
 
 function defaultEducationRoot() {
-  return path.join(__dirname, "..", "v1", "education");
+  return path.join(__dirname, "..", "data", "education");
 }
 
 function isPlainObject(value) {

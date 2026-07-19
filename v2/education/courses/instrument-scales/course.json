@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "id": "instrument-scales",
+  "revision": 2,
+  "titles": {
+    "en": "Instrument Scales",
+    "pt-BR": "Escalas de instrumentos",
+    "es": "Escalas de instrumentos",
+    "de": "Instrumentenskalen",
+    "ja": "楽器のスケール",
+    "zh-Hans": "乐器音阶"
+  },
+  "levels": [
+    "beginner",
+    "intermediate",
+    "advanced"
+  ]
+}
