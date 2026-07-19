@@ -1,0 +1,60 @@
+{
+  "id": "bass-octave-bounce-mission",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission briefing\n\nUse a looping **A - D - E** groove and stay inside notes from **A major**.\n\nSet a metronome to **94 bpm** and think in **2-bar loops**.\n\nYour job is to make simple note choices feel huge by controlling where the groove jumps and where it breathes.",
+          "pt-BR": "### Briefing da missão\n\nUse um groove em loop **A - D - E** e fique dentro das notas de **Lá maior**.\n\nAjuste o metrônomo para **94 bpm** e pense em **loops de 2 compassos**.\n\nSua tarefa é fazer escolhas simples de notas soarem enormes controlando onde o groove salta e onde ele respira.",
+          "es": "### Informe de misión\n\nUsa un groove en bucle **A - D - E** y quédate dentro de las notas de **La mayor**.\n\nPon el metrónomo en **94 bpm** y piensa en **bucles de 2 compases**.\n\nTu trabajo es hacer que elecciones simples de notas suenen enormes controlando dónde salta el groove y dónde respira.",
+          "de": "### Missionsbriefing\n\nNutze einen Loop-Groove **A - D - E** und bleib bei den Tönen von **A-Dur**.\n\nStell das Metronom auf **94 bpm** und denke in **2-taktigen Loops**.\n\nDeine Aufgabe ist es, einfache Tonentscheidungen riesig wirken zu lassen, indem du steuerst, wo der Groove springt und wo er atmet.",
+          "ja": "### ミッション・ブリーフィング\n\n**A - D - E** のループ・グルーヴを使い、音は **Aメジャー** の中に収めます。\n\nメトロノームは **94 bpm**、考え方は **2小節ループ** です。\n\nシンプルな音選びを大きく聴かせるのが今日の任務。どこで跳ね、どこで呼吸するかをコントロールしましょう。",
+          "zh-Hans": "### 任务简报\n\n使用 **A - D - E** 的循环律动，所有音都放在 **A大调** 里。\n\n把节拍器设为 **94 bpm**，按 **2小节循环** 来思考。\n\n今天你的任务，是用很简单的选音做出很大的效果：控制哪里跳起，哪里呼吸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Phase 1: build the bounce\n\nPlay roots on beat **1** of each chord.\n\nThen add either the **5th** or the **octave** later in the bar.\n\nRules:\n- keep every note short except one held note per loop\n- do not use more than **4 notes** in one bar\n- make the octave feel like a lift, not a panic move",
+          "pt-BR": "### Fase 1: construa o bounce\n\nToque as tônicas no tempo **1** de cada acorde.\n\nDepois adicione a **5ª** ou a **oitava** mais tarde no compasso.\n\nRegras:\n- mantenha todas as notas curtas, exceto uma nota sustentada por loop\n- não use mais de **4 notas** em um compasso\n- faça a oitava soar como impulso, não como desespero",
+          "es": "### Fase 1: construye el rebote\n\nToca las tónicas en el tiempo **1** de cada acorde.\n\nLuego añade la **5ª** o la **octava** más tarde en el compás.\n\nReglas:\n- mantén todas las notas cortas salvo una nota larga por bucle\n- no uses más de **4 notas** en un compás\n- haz que la octava se sienta como impulso, no como pánico",
+          "de": "### Phase 1: bau den Bounce\n\nSpiele die Grundtöne auf Schlag **1** jedes Akkords.\n\nFüge später im Takt entweder die **Quinte** oder die **Oktave** hinzu.\n\nRegeln:\n- halte jede Note kurz, außer einer gehaltenen Note pro Loop\n- nutze nicht mehr als **4 Töne** in einem Takt\n- die Oktave soll wie Auftrieb wirken, nicht wie Panik",
+          "ja": "### フェーズ1：バウンスを作る\n\n各コードの **1拍目** にルートを弾きます。\n\nそのあとで **5度** か **オクターブ** を小節の後半に足します。\n\nルール:\n- 各ループで長く伸ばす音は1つだけにして、それ以外は短く\n- 1小節で使う音は **4音以内**\n- オクターブは焦りではなく持ち上がる感じで使う",
+          "zh-Hans": "### 第一阶段：搭出弹跳感\n\n每个和弦的 **第1拍** 先弹根音。\n\n然后在小节后面加入 **5度** 或 **八度**。\n\n规则:\n- 除了每个循环里一颗长音外，其余音都保持短促\n- 每小节不要超过 **4个音**\n- 八度要像“抬起来”，不是像“慌了”"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Phase 2: sneak in motion\n\nKeep the same groove, but connect one chord to the next with **one scale step**.\n\nTry moves like:\n- **A - B - C#** toward D\n- **D - C#** back toward A\n- **E - F# - E** for a quick flash of energy\n\nIf the line loses pocket, remove notes before you remove attitude.",
+          "pt-BR": "### Fase 2: infiltre movimento\n\nMantenha o mesmo groove, mas conecte um acorde ao seguinte com **um passo da escala**.\n\nExperimente movimentos como:\n- **A - B - C#** em direção a D\n- **D - C#** voltando para A\n- **E - F# - E** para um brilho rápido de energia\n\nSe a linha perder pocket, tire notas antes de tirar atitude.",
+          "es": "### Fase 2: mete movimiento a escondidas\n\nMantén el mismo groove, pero conecta un acorde con el siguiente usando **un paso de la escala**.\n\nPrueba movimientos como:\n- **A - B - C#** hacia D\n- **D - C#** de vuelta hacia A\n- **E - F# - E** para un destello rápido de energía\n\nSi la línea pierde pocket, quita notas antes de quitar actitud.",
+          "de": "### Phase 2: schmuggle Bewegung hinein\n\nBehalte denselben Groove, aber verbinde einen Akkord mit dem nächsten durch **einen Skalenschritt**.\n\nProbier Bewegungen wie:\n- **A - B - C#** Richtung D\n- **D - C#** zurück Richtung A\n- **E - F# - E** für einen kurzen Energieschub\n\nWenn die Linie das Pocket verliert, streich erst Noten, bevor du Haltung streichst.",
+          "ja": "### フェーズ2：こっそり動きを入れる\n\n同じグルーヴのまま、コードから次のコードへ **1つのスケール進行音** でつなぎます。\n\nたとえば:\n- **A - B - C#** で D へ向かう\n- **D - C#** で A へ戻る\n- **E - F# - E** で一瞬エネルギーを足す\n\nラインがポケットを失ったら、態度を消す前にまず音数を減らしましょう。",
+          "zh-Hans": "### 第二阶段：偷偷加入移动\n\n保持同样的律动，但用 **一个音阶级进音** 把当前和弦连到下一个和弦。\n\n可以试试:\n- **A - B - C#** 走向 D\n- **D - C#** 回到 A\n- **E - F# - E** 带来一小下能量闪光\n\n如果这条线失去 pocket，先减音，再减气势。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final pocket mission\n\nCreate **two different 4-bar bass lines**.\n\nEach line must include:\n- roots locked on strong beats\n- at least one octave jump\n- at least one connecting scale step\n- one deliberate space where the groove still feels full\n\nKeep the line that makes your head nod hardest, then move the whole mission to **C major**. 🎸",
+          "pt-BR": "### Missão final de pocket\n\nCrie **duas linhas de baixo diferentes com 4 compassos**.\n\nCada linha precisa incluir:\n- tônicas firmes nos tempos fortes\n- pelo menos um salto de oitava\n- pelo menos um passo de conexão da escala\n- um espaço intencional em que o groove continue cheio\n\nFique com a linha que fizer sua cabeça balançar mais e depois leve toda a missão para **Dó maior**. 🎸",
+          "es": "### Misión final de pocket\n\nCrea **dos líneas de bajo distintas de 4 compases**.\n\nCada línea debe incluir:\n- tónicas firmes en los tiempos fuertes\n- al menos un salto de octava\n- al menos un paso de conexión de la escala\n- un espacio deliberado donde el groove siga sintiéndose lleno\n\nQuédate con la línea que más te haga mover la cabeza y luego lleva toda la misión a **Do mayor**. 🎸",
+          "de": "### Finale Pocket-Mission\n\nErfinde **zwei verschiedene 4-taktige Basslinien**.\n\nJede Linie muss enthalten:\n- Grundtöne sicher auf starken Zählzeiten\n- mindestens einen Oktavsprung\n- mindestens einen verbindenden Skalenschritt\n- einen bewussten Raum, in dem der Groove trotzdem voll bleibt\n\nBehalte die Linie, bei der dein Kopf am stärksten nickt, und verlege die ganze Mission dann nach **C-Dur**. 🎸",
+          "ja": "### 最終ポケット・ミッション\n\n**4小節のベースラインを2種類** 作ってください。\n\n各ラインの条件:\n- 強拍でルートがしっかり決まっていること\n- オクターブ跳躍が少なくとも1回あること\n- スケールでつなぐ動きが少なくとも1回あること\n- 間を作ってもグルーヴが痩せないこと\n\nいちばん頭がうなずくラインを残し、ミッション全体を **Cメジャー** に移してみましょう。🎸",
+          "zh-Hans": "### 最终 pocket 任务\n\n写出 **两条不同的4小节贝斯线**。\n\n每条线都必须包含:\n- 强拍上稳定的根音\n- 至少一次八度跳进\n- 至少一次音阶连接\n- 一处刻意留白，但律动仍然饱满\n\n留下那条最让你点头的线，然后把整场任务移到 **C大调**。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-19T00:07:09Z",
+  "updatedAt": "2026-07-19T00:07:09Z"
+}

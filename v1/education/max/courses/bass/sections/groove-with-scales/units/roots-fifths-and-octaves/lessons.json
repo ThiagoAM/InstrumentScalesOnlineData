@@ -194,5 +194,33 @@
     "order": 7,
     "createdAt": "2026-07-09T00:05:47Z",
     "updatedAt": "2026-07-09T00:05:47Z"
+  },
+  {
+    "id": "bass-octave-bounce-mission",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Octave Bounce Mission",
+        "pt-BR": "Missão do Salto de Oitavas no Baixo",
+        "es": "Misión de Rebote por Octavas en Bajo",
+        "de": "Bass-Oktavsprung-Mission",
+        "ja": "ベース・オクターブ・バウンス・ミッション",
+        "zh-Hans": "贝斯八度弹跳任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn roots, fifths, and octaves into a tight groove mission with motion, space, and serious pocket.",
+        "pt-BR": "Transforme tônicas, quintas e oitavas em uma missão de groove com movimento, espaço e muito pocket.",
+        "es": "Convierte tónicas, quintas y octavas en una misión de groove con movimiento, espacio y mucho pocket.",
+        "de": "Verwandle Grundton, Quinte und Oktave in eine Groove-Mission mit Bewegung, Luft und echtem Pocket.",
+        "ja": "ルート、5度、オクターブを使って、動きと間と強いポケットを持つグルーヴ・ミッションに変えよう。",
+        "zh-Hans": "把根音、五度和八度变成一场带有移动感、留白和强劲律动的任务。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-07-19T00:07:09Z",
+    "updatedAt": "2026-07-19T00:07:09Z"
   }
 ]

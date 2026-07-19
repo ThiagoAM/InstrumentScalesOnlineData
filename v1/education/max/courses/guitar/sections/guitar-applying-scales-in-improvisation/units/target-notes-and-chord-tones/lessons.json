@@ -502,5 +502,33 @@
     "order": 18,
     "createdAt": "2026-07-18T00:07:07Z",
     "updatedAt": "2026-07-18T00:07:07Z"
+  },
+  {
+    "id": "guitar-target-note-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Target-Note Relay",
+        "pt-BR": "Revezamento de Notas-Alvo na Guitarra",
+        "es": "Relevo de Notas Objetivo en Guitarra",
+        "de": "Gitarren-Zielton-Staffel",
+        "ja": "ギター・ターゲットノート・リレー",
+        "zh-Hans": "吉他目标音接力赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Chase chord tones through a fast-moving scale game that sharpens timing, phrasing, and improvisation instincts.",
+        "pt-BR": "Persiga notas do acorde em um jogo rápido com escalas para afiar timing, fraseado e instinto de improvisação.",
+        "es": "Persigue notas del acorde en un juego rápido con escalas para afinar timing, fraseo e instinto de improvisación.",
+        "de": "Jage Akkordtöne in einem schnellen Skalen-Spiel und schärfe Timing, Phrasierung und Improvisationsinstinkt.",
+        "ja": "コードトーンを追いかけるスケールゲームで、タイム感、フレージング、即興の勘を鍛えよう。",
+        "zh-Hans": "在快节奏音阶游戏里追击和弦音，磨炼节奏、乐句感与即兴判断力。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-07-19T00:05:55Z",
+    "updatedAt": "2026-07-19T00:05:55Z"
   }
 ]

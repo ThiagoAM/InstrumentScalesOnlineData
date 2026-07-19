@@ -1,0 +1,60 @@
+{
+  "id": "piano-chord-spell-race",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Get on the starting line\n\nUse the key of **D major** and a looping progression of **Dmaj7 - Bm7 - Em7 - A7**.\n\nSet a metronome to **80 bpm** and keep your hands relaxed.\n\nToday the game is to hear a chord, grab its best notes from the scale, and land them before your brain starts overthinking.",
+          "pt-BR": "### Vá para a linha de largada\n\nUse a tonalidade de **Ré maior** e a progressão em loop **Dmaj7 - Bm7 - Em7 - A7**.\n\nAjuste o metrônomo para **80 bpm** e mantenha as mãos relaxadas.\n\nHoje o jogo é ouvir um acorde, pegar suas melhores notas dentro da escala e pousar nelas antes que o cérebro comece a pensar demais.",
+          "es": "### Ponte en la línea de salida\n\nUsa la tonalidad de **Re mayor** y una progresión en bucle **Dmaj7 - Bm7 - Em7 - A7**.\n\nPon el metrónomo en **80 bpm** y mantén las manos relajadas.\n\nHoy el juego consiste en oír un acorde, tomar sus mejores notas desde la escala y caer en ellas antes de que tu cerebro empiece a pensarlo demasiado.",
+          "de": "### Stell dich an die Startlinie\n\nNutze die Tonart **D-Dur** mit einer Loop-Folge **Dmaj7 - Bm7 - Em7 - A7**.\n\nStell das Metronom auf **80 bpm** und halte deine Hände locker.\n\nHeute geht es darum, einen Akkord zu hören, seine besten Töne aus der Skala zu greifen und darauf zu landen, bevor dein Kopf alles zerdenkt.",
+          "ja": "### スタートラインへ\n\nキーは **Dメジャー**、進行は **Dmaj7 - Bm7 - Em7 - A7** のループです。\n\nメトロノームは **80 bpm**、手は力を抜いておきましょう。\n\n今日のゲームは、コードを聞いたらスケールの中からそのコードらしい音をすばやくつかみ、考えすぎる前に着地することです。",
+          "zh-Hans": "### 站上起跑线\n\n使用 **D大调**，循环进行为 **Dmaj7 - Bm7 - Em7 - A7**。\n\n把节拍器设为 **80 bpm**，双手保持放松。\n\n今天的游戏是：一听到和弦，就从音阶里抓出最像它的音，在脑子开始过度分析之前先落下去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lap 1: spell the chord shells\n\nFor each chord, play a **3-note shape** using chord tones only.\n\nTargets:\n- **D - F# - C#** for **Dmaj7**\n- **B - D - A** for **Bm7**\n- **E - G - D** for **Em7**\n- **A - C# - G** for **A7**\n\nRules:\n- keep the notes in one hand first\n- play them in any order\n- finish each chord within **one bar**",
+          "pt-BR": "### Volta 1: soletre as cascas do acorde\n\nPara cada acorde, toque uma **forma de 3 notas** usando apenas notas do acorde.\n\nAlvos:\n- **D - F# - C#** para **Dmaj7**\n- **B - D - A** para **Bm7**\n- **E - G - D** para **Em7**\n- **A - C# - G** para **A7**\n\nRegras:\n- mantenha as notas em uma mão primeiro\n- toque em qualquer ordem\n- termine cada acorde dentro de **um compasso**",
+          "es": "### Vuelta 1: deletrea los esqueletos del acorde\n\nPara cada acorde, toca una **figura de 3 notas** usando solo notas del acorde.\n\nObjetivos:\n- **D - F# - C#** para **Dmaj7**\n- **B - D - A** para **Bm7**\n- **E - G - D** para **Em7**\n- **A - C# - G** para **A7**\n\nReglas:\n- mantén las notas en una sola mano primero\n- tócalas en cualquier orden\n- termina cada acorde dentro de **un compás**",
+          "de": "### Runde 1: buchstabiere die Akkordgerüste\n\nSpiele für jeden Akkord eine **3-Ton-Form** nur mit Akkordtönen.\n\nZieltöne:\n- **D - F# - C#** für **Dmaj7**\n- **B - D - A** für **Bm7**\n- **E - G - D** für **Em7**\n- **A - C# - G** für **A7**\n\nRegeln:\n- spiel die Töne zuerst in einer Hand\n- die Reihenfolge ist frei\n- beende jeden Akkord innerhalb von **einem Takt**",
+          "ja": "### 1周目：コードの骨組みを綴る\n\n各コードで、コードトーンだけを使った **3音の形** を弾きます。\n\n目標:\n- **D - F# - C#** を **Dmaj7** で\n- **B - D - A** を **Bm7** で\n- **E - G - D** を **Em7** で\n- **A - C# - G** を **A7** で\n\nルール:\n- まずは片手で弾く\n- 順番は自由\n- 各コードは **1小節以内** に終える",
+          "zh-Hans": "### 第一圈：拼出和弦骨架\n\n每个和弦都弹一个只用和弦音组成的 **3音形态**。\n\n目标音:\n- **D - F# - C#** 对应 **Dmaj7**\n- **B - D - A** 对应 **Bm7**\n- **E - G - D** 对应 **Em7**\n- **A - C# - G** 对应 **A7**\n\n规则:\n- 先只用一只手\n- 顺序可以自由安排\n- 每个和弦要在 **1小节内** 完成"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lap 2: add a scale runway\n\nNow approach each chord shape with **one scale note that is not in the chord**.\n\nExamples:\n- **E** moving into **Dmaj7**\n- **C#** or **E** leading into **Bm7**\n- **F#** leading into **Em7**\n- **B** leading into **A7**\n\nIf your fingers tangle, reduce the distance before reducing the idea.",
+          "pt-BR": "### Volta 2: adicione uma pista de escala\n\nAgora aproxime cada forma de acorde com **uma nota da escala que não pertença ao acorde**.\n\nExemplos:\n- **E** entrando em **Dmaj7**\n- **C#** ou **E** levando a **Bm7**\n- **F#** levando a **Em7**\n- **B** levando a **A7**\n\nSe os dedos embolarem, reduza a distância antes de reduzir a ideia.",
+          "es": "### Vuelta 2: añade una pista de escala\n\nAhora acerca cada figura de acorde con **una nota de la escala que no esté en el acorde**.\n\nEjemplos:\n- **E** entrando en **Dmaj7**\n- **C#** o **E** llevando a **Bm7**\n- **F#** llevando a **Em7**\n- **B** llevando a **A7**\n\nSi tus dedos se enredan, reduce la distancia antes de reducir la idea.",
+          "de": "### Runde 2: füge eine Skalen-Anlaufbahn hinzu\n\nNähere dich jeder Akkordform jetzt mit **einem Skalenton, der nicht im Akkord steckt**.\n\nBeispiele:\n- **E** als Einstieg in **Dmaj7**\n- **C#** oder **E** als Hinführung zu **Bm7**\n- **F#** als Hinführung zu **Em7**\n- **B** als Hinführung zu **A7**\n\nWenn sich deine Finger verknoten, verkleinere erst den Abstand, bevor du die Idee verkleinerst.",
+          "ja": "### 2周目：スケールの助走をつける\n\n今度は各コード形の前に、**コードに含まれないスケール音を1つ** 置きます。\n\n例:\n- **E** から **Dmaj7** へ入る\n- **C#** または **E** から **Bm7** へ向かう\n- **F#** から **Em7** へ向かう\n- **B** から **A7** へ向かう\n\n指がもつれたら、アイデアを縮める前に距離を縮めましょう。",
+          "zh-Hans": "### 第二圈：加一段音阶助跑\n\n现在在每个和弦形态前，先加 **一个不属于该和弦的音阶音**。\n\n例如:\n- 用 **E** 进入 **Dmaj7**\n- 用 **C#** 或 **E** 进入 **Bm7**\n- 用 **F#** 进入 **Em7**\n- 用 **B** 进入 **A7**\n\n如果手指打结，先缩短距离，再缩小想法。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final race round\n\nCreate **two full 4-chord phrases**.\n\nEach phrase must include:\n- one clear chord shape per bar\n- one non-chord approach note in at least three bars\n- one rhythmic rest or held note\n- an ending on **A7** that sounds like it wants to resolve\n\nKeep the phrase that feels most elegant, then run the whole race again in **G major**. 🎹",
+          "pt-BR": "### Rodada final da corrida\n\nCrie **duas frases completas de 4 acordes**.\n\nCada frase precisa incluir:\n- uma forma clara de acorde por compasso\n- uma nota de aproximação fora do acorde em pelo menos três compassos\n- uma pausa rítmica ou nota sustentada\n- um final em **A7** que soe como se quisesse resolver\n\nFique com a frase que parecer mais elegante e depois corra tudo de novo em **Sol maior**. 🎹",
+          "es": "### Ronda final de carrera\n\nCrea **dos frases completas de 4 acordes**.\n\nCada frase debe incluir:\n- una figura clara de acorde por compás\n- una nota de aproximación fuera del acorde en al menos tres compases\n- un silencio rítmico o una nota larga\n- un final en **A7** que suene como si quisiera resolver\n\nQuédate con la frase que se sienta más elegante y luego corre toda la carrera otra vez en **Sol mayor**. 🎹",
+          "de": "### Finale Rennrunde\n\nErfinde **zwei komplette 4-Akkord-Phrasen**.\n\nJede Phrase muss enthalten:\n- eine klare Akkordform pro Takt\n- in mindestens drei Takten einen akkordfremden Annäherungston\n- eine rhythmische Pause oder einen langen Ton\n- ein Ende auf **A7**, das nach Auflösung klingt\n\nBehalte die Phrase, die sich am elegantesten anfühlt, und lauf das ganze Rennen dann noch einmal in **G-Dur**. 🎹",
+          "ja": "### 最終レースラウンド\n\n**4コードのフレーズを2つ** 作ってください。\n\n各フレーズの条件:\n- 1小節ごとに明確なコード形があること\n- 少なくとも3小節でコード外のアプローチ音があること\n- リズムの休みかロングトーンが1回あること\n- **A7** で終わり、解決したがっている感じがあること\n\nいちばん上品に感じるフレーズを残し、レース全体を **Gメジャー** でもう一度走りましょう。🎹",
+          "zh-Hans": "### 最终竞速回合\n\n写出 **两条完整的4和弦乐句**。\n\n每条乐句都必须包含:\n- 每小节一个清晰的和弦形态\n- 至少三个小节里出现一个和弦外的接近音\n- 一次节奏停顿或长音\n- 在 **A7** 上结束，并让人感觉它还想继续解决\n\n留下最优雅的那条，然后把整场竞速移到 **G大调** 再跑一次。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-19T00:08:19Z",
+  "updatedAt": "2026-07-19T00:08:19Z"
+}
