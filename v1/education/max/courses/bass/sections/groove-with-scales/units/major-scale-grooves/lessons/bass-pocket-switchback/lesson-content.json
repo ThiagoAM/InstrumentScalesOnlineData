@@ -1,0 +1,60 @@
+{
+  "id": "bass-pocket-switchback",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Work in **A major** at **88-102 BPM**. Imagine your bass line as a mountain road with tight switchbacks: every detour away from the root must come back smoothly, on time, and with purpose. Keep your tone short and clean so the rhythm stays readable.",
+          "pt-BR": "Trabalhe em **Lá maior** a **88-102 BPM**. Imagine sua linha de baixo como uma estrada de serra cheia de curvas fechadas: cada desvio para longe da tônica precisa voltar suave, no tempo e com intenção. Mantenha o som curto e limpo para o ritmo continuar legível.",
+          "es": "Trabaja en **La mayor** a **88-102 BPM**. Imagina tu línea de bajo como una carretera de montaña con curvas cerradas: cada desvío lejos de la tónica debe volver suave, a tiempo y con intención. Mantén el sonido corto y limpio para que el ritmo siga siendo claro.",
+          "de": "Arbeite in **A-Dur** bei **88-102 BPM**. Stell dir deine Basslinie wie eine Bergstraße mit engen Kehren vor: Jeder Ausflug weg vom Grundton muss weich, pünktlich und bewusst zurückkommen. Halte den Ton kurz und sauber, damit der Rhythmus klar lesbar bleibt.",
+          "ja": "**Aメジャー**で **88-102 BPM** に合わせて練習します。ベースラインを山道のヘアピンカーブだと思ってください。ルートから離れるたびに、なめらかに、拍の中で、意図を持って戻らなければなりません。音は短くクリーンにして、リズムがはっきり読めるようにしましょう。",
+          "zh-Hans": "在 **A大调** 上以 **88-102 BPM** 练习。把你的贝斯线想成一条山路上的发卡弯：每次离开根音，都必须平顺、准时而且有目的地回到原位。把音色保持得短而干净，这样节奏轮廓才会清楚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your 3 groove rules are:\n- **home base** = beat 1 must clearly state **A** or **E**\n- **detour** = use 1 or 2 scale notes to move away\n- **return lane** = come back with either a rest, a ghost note, or an octave\n\nLoop 2 bars until it feels automatic. The challenge is not speed — it is choosing a path that still makes the drummer trust you.",
+          "pt-BR": "Suas 3 regras de groove são:\n- **base** = o tempo 1 precisa afirmar claramente **A** ou **E**\n- **desvio** = use 1 ou 2 notas da escala para sair do caminho\n- **faixa de volta** = retorne com pausa, ghost note ou oitava\n\nRepita 2 compassos até parecer automático. O desafio não é velocidade — é escolher um caminho que ainda faça o baterista confiar em você.",
+          "es": "Tus 3 reglas de groove son:\n- **casa** = el tiempo 1 debe afirmar claramente **A** o **E**\n- **desvío** = usa 1 o 2 notas de la escala para salir\n- **carril de regreso** = vuelve con un silencio, una ghost note o una octava\n\nRepite 2 compases hasta que se sienta automático. El reto no es la velocidad: es elegir un camino que todavía haga que el baterista confíe en ti.",
+          "de": "Deine 3 Groove-Regeln sind:\n- **Heimat** = Zählzeit 1 muss klar **A** oder **E** zeigen\n- **Umweg** = nutze 1 oder 2 Skalentöne, um dich zu entfernen\n- **Rückspur** = komm mit Pause, Ghost Note oder Oktave zurück\n\nLoop 2 Takte, bis es automatisch wirkt. Die Herausforderung ist nicht Tempo, sondern ein Weg, dem der Drummer weiter vertrauen kann.",
+          "ja": "3つのグルーヴルールです。\n- **ホーム** = 1拍目で **A** か **E** をはっきり示す\n- **寄り道** = 1音か2音のスケール音で外へ動く\n- **戻り車線** = 休符、ゴーストノート、またはオクターブで戻る\n\n2小節を繰り返し、自然にできるまで続けます。課題は速さではなく、ドラマーが信頼できる道筋を選ぶことです。",
+          "zh-Hans": "先设定 3 条 groove 规则：\n- **家门口** = 第 1 拍必须明确落在 **A** 或 **E**\n- **绕行** = 用 1 到 2 个音阶音离开主路线\n- **回程车道** = 用休止、幽灵音或八度返回\n\n把 2 小节循环到像本能一样自然。难点不是速度，而是选出一条依然能让鼓手信任你的路线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **low-road round**. Stay on the E and A strings and build 5 different two-bar grooves. At least one groove must use a rest before the return, and at least one must use a ghost note. If every groove sounds the same, widen the rhythm before you widen the notes.",
+          "pt-BR": "A rodada 1 é a **rodada da pista de baixo**. Fique nas cordas E e A e monte 5 grooves diferentes de dois compassos. Pelo menos um groove precisa usar uma pausa antes da volta e pelo menos um precisa usar ghost note. Se tudo soar igual, abra primeiro o ritmo antes de abrir as notas.",
+          "es": "La ronda 1 es la **ronda del carril bajo**. Quédate en las cuerdas E y A y construye 5 grooves distintos de dos compases. Al menos uno debe usar un silencio antes del regreso y al menos uno debe usar una ghost note. Si todos suenan iguales, abre primero el ritmo antes de abrir las notas.",
+          "de": "Runde 1 ist die **Tiefe-Spur-Runde**. Bleib auf E- und A-Saite und baue 5 verschiedene Zwei-Takt-Grooves. Mindestens ein Groove muss vor der Rückkehr eine Pause benutzen, und mindestens einer eine Ghost Note. Wenn alles gleich klingt, erweitere zuerst den Rhythmus und erst dann die Notenauswahl.",
+          "ja": "ラウンド1は **低い車線ラウンド**。E弦とA弦だけで、2小節のグルーヴを5種類作ります。少なくとも1つは戻る前に休符を使い、少なくとも1つはゴーストノートを使ってください。全部同じに聞こえるなら、音数を増やす前にリズムの幅を広げましょう。",
+          "zh-Hans": "第 1 轮是 **低车道轮**。只用 E 弦和 A 弦，做出 5 个不同的两小节 groove。至少一个 groove 要在回程前留休止，至少一个要用幽灵音。如果每个 groove 听起来都一样，先扩大节奏变化，再扩大音高选择。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **pressure-test round**. Keep the same rhythm for 4 loops, but change only the detour notes. Then keep the same notes for 4 loops, but change only the rhythm. Record 30 seconds and ask:\n- Does beat 1 still feel like home?\n- Are the detours adding motion instead of clutter?\n- Can a listener sing the groove back?\n\nIf yes, your pocket is surviving the curves.",
+          "pt-BR": "A rodada 2 é a **rodada do teste de pressão**. Mantenha o mesmo ritmo por 4 voltas, mas mude só as notas do desvio. Depois mantenha as mesmas notas por 4 voltas, mas mude só o ritmo. Grave 30 segundos e pergunte:\n- O tempo 1 ainda parece casa?\n- Os desvios estão criando movimento em vez de bagunça?\n- Quem ouve conseguiria cantar o groove de volta?\n\nSe sim, seu pocket está sobrevivendo às curvas.",
+          "es": "La ronda 2 es la **ronda de prueba de presión**. Mantén el mismo ritmo durante 4 vueltas, pero cambia solo las notas del desvío. Luego mantén las mismas notas durante 4 vueltas, pero cambia solo el ritmo. Graba 30 segundos y pregunta:\n- ¿El tiempo 1 sigue sintiéndose como casa?\n- ¿Los desvíos aportan movimiento en lugar de desorden?\n- ¿Un oyente podría cantar el groove de vuelta?\n\nSi sí, tu pocket está sobreviviendo a las curvas.",
+          "de": "Runde 2 ist die **Drucktest-Runde**. Behalte 4 Durchläufe lang denselben Rhythmus und ändere nur die Umweg-Noten. Danach behältst du 4 Durchläufe lang dieselben Noten und änderst nur den Rhythmus. Nimm 30 Sekunden auf und frage:\n- Fühlt sich Zählzeit 1 noch wie Zuhause an?\n- Bringen die Umwege Bewegung statt Unordnung?\n- Könnte ein Zuhörer den Groove zurücksingen?\n\nWenn ja, überlebt dein Pocket die Kurven.",
+          "ja": "ラウンド2は **プレッシャーテスト・ラウンド**。4回のループではリズムを固定し、寄り道の音だけ変えます。次の4回では音を固定し、リズムだけ変えます。30秒録音して確認しましょう。\n- 1拍目はまだホームに聞こえるか\n- 寄り道は散らかさずに動きを作れているか\n- 聴き手がグルーヴを歌い返せるか\n\nできていれば、あなたのポケットはカーブに負けていません。",
+          "zh-Hans": "第 2 轮是 **压力测试轮**。先保持同一个节奏循环 4 次，只改变绕行音；再保持同一组音循环 4 次，只改变节奏。录下 30 秒并问自己：\n- 第 1 拍还像“回家”吗？\n- 绕行是在增加动感，而不是制造杂乱吗？\n- 听的人能把 groove 哼回来吗？\n\n如果可以，你的 pocket 就经得住这些急弯。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-08T00:09:07Z",
+  "updatedAt": "2026-05-08T00:09:07Z"
+}

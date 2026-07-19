@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-pit-stop",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Scale Pit Stop. Instead of grinding straight through a scale, you will pause at tiny repair stations, fix one thing fast, and jump back into motion. This keeps your practice honest and stops messy habits from sneaking into high speed.",
+          "pt-BR": "Bem-vindo ao Pit Stop da Escala. Em vez de atravessar a escala no automático, você vai parar em pequenas estações de reparo, corrigir uma coisa rapidamente e voltar ao movimento. Isso mantém o estudo honesto e impede que hábitos bagunçados entrem na alta velocidade.",
+          "es": "Bienvenido al Pit Stop de Escala. En lugar de atravesar una escala sin pensar, vas a detenerte en pequeñas estaciones de reparación, corregir una cosa rápido y volver al movimiento. Esto mantiene tu práctica honesta y evita que los malos hábitos se cuelen a gran velocidad.",
+          "de": "Willkommen beim Skalen-Pit-Stop. Statt stumpf durch eine Tonleiter zu rasen, hältst du an kleinen Reparaturstationen an, korrigierst schnell eine Sache und springst wieder in die Bewegung. So bleibt dein Üben ehrlich und schlampige Gewohnheiten schleichen sich nicht bei hohem Tempo ein.",
+          "ja": "スケール・ピットストップへようこそ。音階をただ惰性で通り抜けるのではなく、小さな修理ステーションで止まり、1つだけ素早く直して、また走り出します。これにより練習が正直になり、雑な癖が高速で混ざり込むのを防げます。",
+          "zh-Hans": "欢迎来到音阶维修站。你不再是一口气机械地跑完整条音阶，而是会在小型修理站里短暂停靠，迅速修正一个问题，再重新出发。这样练习会更诚实，也能防止凌乱习惯在高速状态下悄悄混进来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose **D major** or **A major**, two octaves, hands together, at **80 BPM** in eighth notes. Before you start, name your three pit stops: **thumb crossing**, **even tone**, and **soft shoulders**. Those are the checkpoints you will repair on the fly.",
+          "pt-BR": "Preparação: escolha **Ré maior** ou **Lá maior**, duas oitavas, mãos juntas, a **80 BPM** em colcheias. Antes de começar, nomeie seus três pit stops: **passagem do polegar**, **timbre uniforme** e **ombros soltos**. Esses são os checkpoints que você vai ajustar no caminho.",
+          "es": "Preparación: elige **Re mayor** o **La mayor**, dos octavas, manos juntas, a **80 BPM** en corcheas. Antes de empezar, nombra tus tres pit stops: **cruce del pulgar**, **sonido parejo** y **hombros sueltos**. Esos son los checkpoints que vas a reparar sobre la marcha.",
+          "de": "Setup: Wähle **D-Dur** oder **A-Dur**, zwei Oktaven, beide Hände zusammen, bei **80 BPM** in Achteln. Bevor du beginnst, benenne deine drei Pit Stops: **Daumenuntersatz**, **gleichmäßiger Klang** und **lockere Schultern**. Das sind die Checkpoints, die du unterwegs reparierst.",
+          "ja": "準備：**Dメジャー** か **Aメジャー** を選び、2オクターブ、両手同時、**80 BPM** の8分音符で弾きます。始める前に3つのピットストップ名を決めましょう。**親指くぐり**、**均一な音色**、**力の抜けた肩** です。途中で直すポイントはこの3つです。",
+          "zh-Hans": "准备：选择 **D 大调** 或 **A 大调**，双手齐奏，两八度，**80 BPM** 的八分音符。开始前，先说出你的三个维修站：**拇指穿指**、**音色均匀**、**肩膀放松**。这三个点就是你路上要随时维修的检查项。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 1 is the clean lap. Play up and down once. The moment a thumb crossing bumps, stop for exactly five seconds, rehearse that move slowly one time, and continue. A short, smart stop is better than dragging a mistake through the whole lap.",
+          "pt-BR": "A volta 1 é a volta limpa. Toque subindo e descendo uma vez. No momento em que a passagem do polegar travar, pare por exatamente cinco segundos, repita esse movimento uma vez bem devagar e continue. Uma parada curta e inteligente é melhor do que arrastar o erro pela volta inteira.",
+          "es": "La vuelta 1 es la vuelta limpia. Toca una subida y bajada completas. En el momento en que el cruce del pulgar tropiece, detente exactamente cinco segundos, ensaya ese movimiento una vez muy despacio y continúa. Una parada corta e inteligente vale más que arrastrar un error durante toda la vuelta.",
+          "de": "Runde 1 ist die saubere Runde. Spiele einmal hoch und runter. In dem Moment, in dem ein Daumenuntersatz holpert, stoppst du genau fünf Sekunden, übst diese Bewegung einmal sehr langsam und machst weiter. Ein kurzer, kluger Stopp ist besser, als einen Fehler durch die ganze Runde zu schleppen.",
+          "ja": "ラップ1はクリーン・ラップです。上行と下行を1回ずつ弾きます。親指くぐりが引っかかった瞬間に5秒だけ止まり、その動きをとてもゆっくり1回だけやり直して続けます。短く賢い停止は、ミスを1周ずっと引きずるより優秀です。",
+          "zh-Hans": "第1圈是干净圈。完整上行下行一次。一旦拇指穿指发生卡顿，就精确停5秒，把那个动作超慢重做一遍，然后继续。短而聪明的停靠，比拖着错误跑完整圈更好。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 2 is the tone lap. Keep the same tempo, but listen for any note that jumps out too hard. When you hear one, make a one-beat pit stop: replay the last four notes softer and more even, then rejoin the scale without changing tempo.",
+          "pt-BR": "A volta 2 é a volta do timbre. Mantenha o mesmo andamento, mas escute qualquer nota que salte forte demais. Quando isso acontecer, faça um pit stop de um tempo: repita as últimas quatro notas mais suaves e uniformes, depois volte para a escala sem mudar o tempo.",
+          "es": "La vuelta 2 es la vuelta del sonido. Mantén el mismo tempo, pero escucha cualquier nota que salga demasiado fuerte. Cuando la oigas, haz un pit stop de un pulso: repite las últimas cuatro notas más suaves y parejas, y vuelve a entrar en la escala sin cambiar el tempo.",
+          "de": "Runde 2 ist die Klangrunde. Behalte dasselbe Tempo, achte aber auf jeden Ton, der zu hart hervorspringt. Wenn du einen hörst, mach einen Pit Stop von einem Schlag: Wiederhole die letzten vier Töne weicher und gleichmäßiger und steig dann ohne Tempowechsel wieder ein.",
+          "ja": "ラップ2は音色ラップです。同じテンポを保ちつつ、飛び出しすぎる音に耳を向けます。聞こえたら1拍だけピットストップし、直前の4音をもっと柔らかく均一に弾き直してから、テンポを変えずに戻ります。",
+          "zh-Hans": "第2圈是音色圈。保持同样速度，但留意有没有某个音突然太突出。只要听到了，就做一个“一拍维修站”：把前四个音弹得更柔和、更平均，然后在不改速度的情况下重新接回音阶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lap 3 is the posture lap. Your hands must stay active while your arms stay calm. If the wrists rise or the shoulders tighten, stop for one breath, reset your shape, and restart from the nearest tonic. Smooth recoveries are part of real technique.",
+          "pt-BR": "A volta 3 é a volta da postura. Suas mãos precisam ficar ativas enquanto os braços permanecem calmos. Se os punhos subirem ou os ombros endurecerem, pare por uma respiração, reorganize a postura e recomece da tônica mais próxima. Recuperações suaves fazem parte da técnica real.",
+          "es": "La vuelta 3 es la vuelta de la postura. Tus manos deben seguir activas mientras los brazos permanecen tranquilos. Si las muñecas suben o los hombros se tensan, detente durante una respiración, reajusta la forma y vuelve a empezar desde la tónica más cercana. Recuperarse con suavidad también forma parte de la técnica real.",
+          "de": "Runde 3 ist die Haltungsrunde. Deine Hände bleiben aktiv, während Arme und Schultern ruhig bleiben. Wenn die Handgelenke hochgehen oder die Schultern fest werden, stopp für einen Atemzug, richte deine Form neu aus und starte vom nächsten Grundton. Saubere Erholung gehört zur echten Technik.",
+          "ja": "ラップ3は姿勢ラップです。手は活動的でも、腕と肩は落ち着いていなければなりません。手首が上がったり肩が固まったりしたら、1呼吸ぶん止まり、形を整え、最も近い主音から再開します。なめらかな立て直しも本物のテクニックです。",
+          "zh-Hans": "第3圈是姿态圈。手要积极工作，但手臂和肩膀必须平静。如果手腕抬高了，或者肩膀绷紧了，就停一个呼吸，重置形状，并从最近的主音重新开始。平顺地恢复，本身就是技术的一部分。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: raise the metronome to **88 BPM** and play three full laps with no dramatic mistakes. Afterward, score yourself in three words: one for timing, one for tone, and one for comfort. If the words sound musical instead of panicked, your pit crew did its job.",
+          "pt-BR": "Desafio final: aumente o metrônomo para **88 BPM** e toque três voltas completas sem erros dramáticos. Depois, dê uma nota em três palavras: uma para o tempo, uma para o timbre e uma para o conforto. Se essas palavras soarem musicais, e não desesperadas, sua equipe de pit stop fez o trabalho.",
+          "es": "Desafío final: sube el metrónomo a **88 BPM** y toca tres vueltas completas sin errores dramáticos. Después, descríbete con tres palabras: una para el tiempo, una para el sonido y una para la comodidad. Si esas palabras suenan musicales y no en pánico, tu equipo de pit stop hizo bien su trabajo.",
+          "de": "Finale Challenge: Erhöhe das Metronom auf **88 BPM** und spiele drei volle Runden ohne dramatische Fehler. Danach bewertest du dich mit drei Wörtern: eins für Timing, eins für Klang und eins für Komfort. Wenn diese Wörter musikalisch statt panisch klingen, hat deine Boxencrew ihren Job gemacht.",
+          "ja": "最終チャレンジ：メトロノームを **88 BPM** に上げ、派手なミスなしで3周通します。その後、3つの言葉で自己採点します。1つはタイム、1つは音色、1つは快適さです。その言葉がパニックではなく音楽らしく聞こえるなら、あなたのピットクルーは成功です。",
+          "zh-Hans": "最终挑战：把节拍器升到 **88 BPM**，完整跑三圈，过程中不要出现夸张的大失误。结束后用三个词给自己打分：一个写节拍，一个写音色，一个写舒适度。如果这些词听起来是“有音乐感”，而不是“快崩溃了”，说明你的维修团队干得不错。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-23T00:10:25Z",
+  "updatedAt": "2026-04-23T00:10:25Z"
+}

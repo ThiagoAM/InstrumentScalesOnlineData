@@ -1,0 +1,86 @@
+{
+  "id": "bass-octave-switchyard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns your bass into a rail yard. Work over **E minor** with the loop **Em - C - G - D** at **78-94 BPM**. Your trains are **root, fifth, and octave** shapes, and every bar must send them down a useful track.",
+          "pt-BR": "Esta lição transforma seu baixo em um pátio ferroviário. Trabalhe em **Mi menor** com o loop **Em - C - G - D** a **78-94 BPM**. Seus trens são os desenhos de **tônica, quinta e oitava**, e cada compasso precisa enviá-los por um trilho útil.",
+          "es": "Esta lección convierte tu bajo en un patio ferroviario. Trabaja en **Mi menor** con el loop **Em - C - G - D** a **78-94 BPM**. Tus trenes son las formas de **tónica, quinta y octava**, y cada compás debe enviarlas por una vía útil.",
+          "de": "Diese Lektion verwandelt deinen Bass in einen Rangierbahnhof. Arbeite in **E-Moll** mit der Schleife **Em - C - G - D** bei **78-94 BPM**. Deine Züge sind **Grundton-, Quinten- und Oktavformen**, und jeder Takt muss sie auf ein sinnvolles Gleis schicken.",
+          "ja": "このレッスンでは、ベースを操車場に変えます。**Eマイナー**、進行は **Em - C - G - D**、テンポは **78-94 BPM**。あなたの列車は **ルート・5度・オクターブ** の形で、各小節ごとに正しい線路へ送り込まなければなりません。",
+          "zh-Hans": "这节课把你的贝斯变成一个调车场。使用 **E 小调**，循环 **Em - C - G - D**，速度设为 **78-94 BPM**。你的列车是 **根音、五度和八度** 这些形状，而每个小节都要把它们送上有用的轨道。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Build the map\nCreate a **2-bar groove** where beat **1** is always the **root**. In each bar, you must also include:\n- one **fifth**,\n- one **octave**,\n- and one moment of space.\n\nLoop it until the groove feels steady enough to drive itself.",
+          "pt-BR": "### Monte o mapa\nCrie um **groove de 2 compassos** em que o tempo **1** seja sempre a **tônica**. Em cada compasso, você também precisa incluir:\n- uma **quinta**,\n- uma **oitava**,\n- e um momento de espaço.\n\nRepita até o groove parecer estável o bastante para andar sozinho.",
+          "es": "### Construye el mapa\nCrea un **groove de 2 compases** donde el tiempo **1** sea siempre la **tónica**. En cada compás también debes incluir:\n- una **quinta**,\n- una **octava**,\n- y un momento de silencio.\n\nRepítelo hasta que el groove se sienta lo bastante estable como para avanzar solo.",
+          "de": "### Bau den Streckenplan\nErstelle einen **2-taktigen Groove**, bei dem Zählzeit **1** immer der **Grundton** ist. In jedem Takt musst du außerdem einbauen:\n- eine **Quinte**,\n- eine **Oktave**,\n- und einen Moment Stille.\n\nWiederhole das, bis sich der Groove stabil genug anfühlt, um von selbst zu rollen.",
+          "ja": "### 路線図を作る\n**2小節のグルーヴ** を作り、**1拍目** は必ず **ルート** にします。さらに各小節に次の3つを必ず入れましょう。\n- **5度** を1回\n- **オクターブ** を1回\n- そして **休符** を1か所\n\nグルーヴが自走しそうなくらい安定するまで繰り返します。",
+          "zh-Hans": "### 先画路线图\n写一个 **2 小节 groove**，并且让 **第 1 拍** 永远是 **根音**。另外每个小节还必须包含：\n- 一个 **五度**\n- 一个 **八度**\n- 以及一个空白停顿\n\n循环到这个 groove 稳得像自己会往前开一样。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Switch tracks on purpose\nNow make **four new versions** of the same groove. In each version, change only **one** thing:\n- move the octave earlier,\n- delay the fifth,\n- use silence before the root,\n- or make the octave the highest note in the bar.\n\nIf the groove gets busier but not better, you changed too much.",
+          "pt-BR": "### Troque de trilho com intenção\nAgora faça **quatro novas versões** do mesmo groove. Em cada versão, mude apenas **uma** coisa:\n- adiante a oitava,\n- atrase a quinta,\n- use silêncio antes da tônica,\n- ou faça a oitava ser a nota mais aguda do compasso.\n\nSe o groove ficar mais cheio, mas não melhor, você mudou demais.",
+          "es": "### Cambia de vía con intención\nAhora crea **cuatro versiones nuevas** del mismo groove. En cada versión cambia solo **una** cosa:\n- adelanta la octava,\n- retrasa la quinta,\n- usa silencio antes de la tónica,\n- o haz que la octava sea la nota más aguda del compás.\n\nSi el groove queda más ocupado pero no mejor, cambiaste demasiado.",
+          "de": "### Stell die Weichen bewusst\nErstelle jetzt **vier neue Versionen** desselben Grooves. In jeder Version veränderst du nur **eine** Sache:\n- ziehe die Oktave vor,\n- verschiebe die Quinte nach hinten,\n- setze Stille vor den Grundton,\n- oder mache die Oktave zum höchsten Ton im Takt.\n\nWenn der Groove voller, aber nicht besser wird, hast du zu viel verändert.",
+          "ja": "### 意図して線路を切り替える\n次に、同じグルーヴの **新しい4バージョン** を作ります。各バージョンで変えるのは **1つだけ** です。\n- オクターブを早めに出す\n- 5度を遅らせる\n- ルートの前に休符を置く\n- またはオクターブをその小節で一番高い音にする\n\nグルーヴが忙しくなっただけで良くならないなら、変えすぎです。",
+          "zh-Hans": "### 有意识地切轨\n现在基于同一个 groove 做 **4 个新版本**。每个版本只改 **一件事**：\n- 把八度提前\n- 把五度延后\n- 在根音前留一个空白\n- 或让八度成为该小节最高的音\n\n如果 groove 只是更忙、却没更好，那你就改太多了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Freight pressure round\nKeep the harmony the same, but in every 2-bar pass choose one pressure rule:\n- all notes must be **short and punchy**,\n- one octave note must **ring longer**,\n- or the fifth must arrive on an offbeat.\n\nYour mission is to change the attitude without losing the pocket.",
+          "pt-BR": "### Rodada de pressão de carga\nMantenha a mesma harmonia, mas em cada passagem de 2 compassos escolha uma regra de pressão:\n- todas as notas devem ser **curtas e secas**,\n- uma nota de oitava deve **soar mais longa**,\n- ou a quinta precisa chegar no contratempo.\n\nSua missão é mudar a atitude sem perder o pocket.",
+          "es": "### Ronda de presión de carga\nMantén la misma armonía, pero en cada vuelta de 2 compases elige una regla de presión:\n- todas las notas deben ser **cortas y con pegada**,\n- una nota de octava debe **sonar más larga**,\n- o la quinta debe llegar en contratiempo.\n\nTu misión es cambiar la actitud sin perder el pocket.",
+          "de": "### Fracht-Druckrunde\nBehalte dieselbe Harmonie, aber wähle in jedem 2-Takt-Durchgang eine Druckregel:\n- alle Töne müssen **kurz und knackig** sein,\n- ein Oktavton muss **länger ausklingen**,\n- oder die Quinte muss auf einem Offbeat erscheinen.\n\nDeine Mission ist, die Haltung zu ändern, ohne das Pocket zu verlieren.",
+          "ja": "### 貨物プレッシャー・ラウンド\nハーモニーはそのままで、2小節ごとに次の圧力ルールから1つ選びます。\n- すべての音を **短く鋭く** 弾く\n- 1つのオクターブ音を **長めに伸ばす**\n- または5度を **裏拍** に置く\n\n狙いは、ポケットを失わずにキャラクターだけを変えることです。",
+          "zh-Hans": "### 货运压力回合\n和声保持不变，但每个 2 小节轮次都选一条压力规则：\n- 所有音都要 **短而有冲击力**\n- 有一个八度音要 **拉得更长**\n- 或者让五度落在 **反拍** 上\n\n你的任务是改变态度，但不能丢掉 pocket。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Yardmaster challenge\nRecord **6 passes** over the full progression. Passes **1-3** should feel supportive and simple. Passes **4-6** should feel more urgent without adding extra notes in every bar.\n\nMake the intensity come from placement, note length, and confidence—not from stuffing the line.",
+          "pt-BR": "### Desafio do chefe do pátio\nGrave **6 voltas** sobre a progressão inteira. As voltas **1-3** devem soar sustentadoras e simples. As voltas **4-6** devem soar mais urgentes sem adicionar notas extras em todo compasso.\n\nFaça a intensidade vir da posição rítmica, da duração das notas e da confiança — não de encher a linha.",
+          "es": "### Desafío del jefe del patio\nGraba **6 pasadas** sobre la progresión completa. Las pasadas **1-3** deben sentirse de apoyo y simples. Las pasadas **4-6** deben sentirse más urgentes sin añadir notas extra en cada compás.\n\nHaz que la intensidad venga de la colocación, la duración y la seguridad, no de llenar la línea.",
+          "de": "### Herausforderung für den Bahnhofschef\nNimm **6 Durchgänge** über die ganze Progression auf. Die Durchgänge **1-3** sollen unterstützend und einfach wirken. Die Durchgänge **4-6** sollen dringlicher klingen, ohne in jedem Takt zusätzliche Noten hineinzupacken.\n\nDie Intensität soll aus Platzierung, Notenlänge und Selbstsicherheit kommen — nicht aus einer überfüllten Linie.",
+          "ja": "### 操車場マスターの挑戦\n進行全体で **6周分** 録音しましょう。**1-3周目** は支える感じでシンプルに、**4-6周目** は各小節に音を増やしすぎず、少し切迫感を出します。\n\n強さは、音数ではなく、置き場所、音価、そして弾き切る自信から生み出してください。",
+          "zh-Hans": "### 调车长挑战\n在完整进行上录 **6 遍**。**第1-3遍** 要简单、支撑感强。**第4-6遍** 要更有推进感，但不要靠每小节都塞更多音。\n\n让强度来自音的位置、时值和信心，而不是把线条塞满。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Check the route\nAsk yourself:\n- Did the octave lift the groove or just make it taller?\n- Which silence made the root hit hardest?\n- Could I feel the fifth as a connector instead of filler?\n\nFinal upgrade: run the same switchyard in **A minor** over **Am - F - C - G** and keep the groove equally solid. 🎸",
+          "pt-BR": "### Revise a rota\nPergunte a si mesmo:\n- A oitava levantou o groove ou só o deixou mais alto?\n- Qual silêncio fez a tônica bater mais forte?\n- Eu senti a quinta como conexão, e não como enfeite?\n\nUpgrade final: leve o mesmo pátio de manobras para **Lá menor** sobre **Am - F - C - G** e mantenha o groove igualmente firme. 🎸",
+          "es": "### Revisa la ruta\nPregúntate:\n- ¿La octava levantó el groove o solo lo hizo más alto?\n- ¿Qué silencio hizo que la tónica pegara con más fuerza?\n- ¿Pude sentir la quinta como conexión y no como relleno?\n\nMejora final: lleva el mismo patio de cambios a **La menor** sobre **Am - F - C - G** y mantén el groove igual de sólido. 🎸",
+          "de": "### Prüfe die Route\nFrag dich:\n- Hat die Oktave den Groove gehoben oder nur höher gemacht?\n- Welche Pause ließ den Grundton am stärksten einschlagen?\n- Konnte ich die Quinte als Verbindung statt als Füllmaterial spüren?\n\nFinales Upgrade: Fahre denselben Weichenhof in **A-Moll** über **Am - F - C - G** und halte den Groove genauso stabil. 🎸",
+          "ja": "### ルート確認\n自分に問いかけましょう。\n- オクターブはグルーヴを持ち上げたか、それとも高くしただけか？\n- どの休符がルートを最も強く感じさせたか？\n- 5度を埋め草ではなく、つなぎ役として感じられたか？\n\n最後の強化版：同じ操車場を **Aマイナー**、進行 **Am - F - C - G** に移して、同じだけ安定したグルーヴを保ちましょう。 🎸",
+          "zh-Hans": "### 检查路线\n问问自己：\n- 八度是真的把 groove 抬起来了，还是只是让它变高了？\n- 哪个停顿让根音最有冲击力？\n- 我能不能把五度听成连接点，而不是填充物？\n\n最终升级：把同样的调车场搬到 **A 小调**，进行换成 **Am - F - C - G**，并保持同样稳固的 groove。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-23T00:09:32Z",
+  "updatedAt": "2026-06-23T00:09:32Z"
+}

@@ -82,5 +82,61 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "diagonal-major-scale-relay-on-bass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Diagonal Major Scale Relay on Bass",
+        "pt-BR": "Revezamento diagonal da escala maior no baixo",
+        "es": "Relevo diagonal de la escala mayor en bajo",
+        "de": "Diagonale Durtonleiter-Staffel auf dem Bass",
+        "ja": "ベースでの対角線メジャースケール・リレー",
+        "zh-Hans": "贝斯上的对角大调音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect one major scale across strings and positions without losing groove or note clarity.",
+        "pt-BR": "Conecte uma escala maior por cordas e posições diferentes sem perder groove nem clareza das notas.",
+        "es": "Conecta una escala mayor a través de cuerdas y posiciones sin perder groove ni claridad.",
+        "de": "Verbinde eine Durtonleiter über Saiten und Lagen hinweg, ohne Groove oder Tonklarheit zu verlieren.",
+        "ja": "グルーヴと発音の明瞭さを保ちながら、1つのメジャースケールを複数の弦とポジションでつなげます。",
+        "zh-Hans": "在不丢掉律动和发音清晰度的前提下，把一个大调音阶跨弦跨把位连起来。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-14T00:10:34Z",
+    "updatedAt": "2026-04-14T00:10:34Z"
+  },
+  {
+    "id": "octave-bridges-across-the-neck",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Bridges Across the Neck",
+        "pt-BR": "Pontes de oitava pelo braço",
+        "es": "Puentes de octava a lo largo del mástil",
+        "de": "Oktavbrücken über den Hals",
+        "ja": "ネック全体をつなぐオクターブ・ブリッジ",
+        "zh-Hans": "跨指板的八度桥接"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect bass scale shapes with octave jumps that keep your time strong and your line musical.",
+        "pt-BR": "Conecte shapes de escala no baixo com saltos de oitava que mantêm o tempo firme e a linha musical.",
+        "es": "Conecta patrones de escala en el bajo con saltos de octava que mantengan el tiempo firme y la línea musical.",
+        "de": "Verbinde Bass-Skalenmuster mit Oktavsprüngen, die dein Timing stabil und deine Linie musikalisch halten.",
+        "ja": "オクターブ跳躍を使ってベースのスケール形をつなぎ、タイムを安定させながら音楽的なラインを作る。",
+        "zh-Hans": "用八度跳进把贝斯音阶形状连起来，同时保持节奏稳定、乐句有音乐性。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-16T00:10:39Z",
+    "updatedAt": "2026-07-16T00:10:39Z"
   }
 ]

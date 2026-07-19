@@ -1,0 +1,99 @@
+{
+  "id": "a-minor-chord-tone-treasure-hunt",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission is to turn the A natural minor scale into a map, not a blur. Today you will hunt for chord tones inside the scale and make every landing sound intentional.",
+          "pt-BR": "Sua missão é transformar a escala de Lá menor natural em um mapa, não em um borrão. Hoje você vai caçar notas do acorde dentro da escala e fazer cada chegada soar intencional.",
+          "es": "Tu misión es convertir la escala de La menor natural en un mapa, no en una mancha borrosa. Hoy vas a buscar tonos del acorde dentro de la escala y harás que cada llegada suene intencional.",
+          "de": "Deine Mission ist, die natürliche a-Moll-Tonleiter in eine Karte statt in einen Nebel zu verwandeln. Heute jagst du Akkordtöne innerhalb der Tonleiter und lässt jede Landung absichtlich klingen.",
+          "ja": "今日のミッションは、Aナチュラルマイナーをぼんやりした流れではなく地図として使うこと。スケールの中からコードトーンを探し、どの着地点も「選んだ音」に聞こえるようにします。",
+          "zh-Hans": "你的任务是把A自然小调变成一张地图，而不是一团模糊的音符。今天你要在音阶里寻找和弦音，让每一次落点都像是有意选择的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start by locating A, C, and E in one comfortable position. Play them slowly as whole notes, then fill the space between them with nearby scale tones from A natural minor.",
+          "pt-BR": "Comece localizando A, C e E em uma posição confortável. Toque essas notas devagar em semibreves e depois preencha o espaço entre elas com notas vizinhas da escala de Lá menor natural.",
+          "es": "Empieza ubicando A, C y E en una posición cómoda. Tócalos lentamente como redondas y luego rellena el espacio entre ellos con notas cercanas de la escala de La menor natural.",
+          "de": "Beginne damit, A, C und E in einer bequemen Lage zu finden. Spiele sie langsam als ganze Noten und fülle dann den Raum dazwischen mit benachbarten Tönen aus a-Moll natürlich.",
+          "ja": "まずは弾きやすいポジションでA、C、Eを見つけましょう。それらを全音符でゆっくり弾いたら、Aナチュラルマイナーの近くの音で間を埋めます。",
+          "zh-Hans": "先在一个舒服的把位里找到A、C、E。把它们慢慢弹成全音符，然后用A自然小调里附近的音把这些音之间的空间填满。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: over an Am backing pulse, play four notes per bar but force beat 1 and beat 3 to land on A, C, or E. The in-between notes can be any scale tones, but the strong beats must sound like home.",
+          "pt-BR": "Exercício principal: sobre uma pulsação de Am, toque quatro notas por compasso, mas obrigue o tempo 1 e o tempo 3 a cair em A, C ou E. As notas do meio podem ser quaisquer notas da escala, mas os tempos fortes precisam soar como casa.",
+          "es": "Ejercicio principal: sobre un pulso de Am, toca cuatro notas por compás, pero obliga al tiempo 1 y al tiempo 3 a caer en A, C o E. Las notas intermedias pueden ser cualquier nota de la escala, pero los tiempos fuertes deben sonar como casa.",
+          "de": "Hauptübung: Spiele über einen Am-Puls vier Noten pro Takt, aber zwinge Zählzeit 1 und 3 dazu, auf A, C oder E zu landen. Die Zwischentöne dürfen beliebige Skalennoten sein, doch die starken Zählzeiten sollen nach Zuhause klingen.",
+          "ja": "メイン練習：Amの脈の上で1小節に4音ずつ弾きます。ただし1拍目と3拍目は必ずA、C、Eのどれかに着地してください。間の音はスケール内なら自由ですが、強拍は“帰ってきた”感じにします。",
+          "zh-Hans": "主练习：在Am的节奏脉冲上，每小节弹四个音，但第1拍和第3拍必须落在A、C或E上。中间的音可以是任意音阶音，但强拍必须听起来像“回家”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a twist: switch to C major for two bars, then back to Am for two bars. Aim for C, E, or G over C major, and A, C, or E over Am, even though both chords share the same parent scale.",
+          "pt-BR": "Agora adicione uma virada: mude para C maior por dois compassos e depois volte para Am por dois compassos. Mire em C, E ou G sobre C maior, e em A, C ou E sobre Am, mesmo que os dois acordes compartilhem a mesma escala-mãe.",
+          "es": "Ahora añade un giro: cambia a C mayor durante dos compases y vuelve a Am durante dos compases. Apunta a C, E o G sobre C mayor, y a A, C o E sobre Am, aunque ambos acordes compartan la misma escala madre.",
+          "de": "Jetzt kommt der Dreh: Wechsle für zwei Takte nach C-Dur und dann für zwei Takte zurück nach Am. Ziele über C-Dur auf C, E oder G und über Am auf A, C oder E, obwohl beide Akkorde dieselbe Muttertonleiter teilen.",
+          "ja": "次はひねりを追加。2小節だけCメジャーに移り、その後2小節Amへ戻ります。CメジャーではC、E、G、AmではA、C、Eを狙いましょう。同じ親スケールでも着地点で響きが変わります。",
+          "zh-Hans": "现在加一个转折：先弹两小节C大调，再回到两小节Am。在C大调上瞄准C、E、G，在Am上瞄准A、C、E，即使这两个和弦共享同一条母音阶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: sing the target note before you play it. If you can predict the landing with your voice first, your fingers will stop guessing and start choosing.",
+          "pt-BR": "Rodada de desafio: cante a nota-alvo antes de tocá-la. Se você consegue prever a chegada com a voz primeiro, seus dedos vão parar de adivinhar e começar a escolher.",
+          "es": "Ronda de desafío: canta la nota objetivo antes de tocarla. Si puedes prever la llegada con la voz primero, tus dedos dejarán de adivinar y empezarán a elegir.",
+          "de": "Challenge-Runde: Singe den Zielton, bevor du ihn spielst. Wenn du die Landung erst mit der Stimme vorhersagen kannst, hören deine Finger auf zu raten und beginnen zu wählen.",
+          "ja": "チャレンジラウンド：弾く前に目標音を歌ってください。声で先に着地を予測できれば、指は当てずっぽうではなく意思を持って動き始めます。",
+          "zh-Hans": "挑战环节：在弹出目标音之前先把它唱出来。如果你能先用声音预测落点，你的手指就会停止猜测，开始主动选择。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative quest: improvise for 8 bars using only A natural minor, but end each bar on the nearest chord tone without sliding randomly. Smooth, close landings beat flashy mistakes.",
+          "pt-BR": "Missão criativa: improvise por 8 compassos usando apenas Lá menor natural, mas termine cada compasso na nota do acorde mais próxima, sem deslizar aleatoriamente. Chegadas suaves e próximas valem mais do que erros chamativos.",
+          "es": "Misión creativa: improvisa durante 8 compases usando solo La menor natural, pero termina cada compás en el tono del acorde más cercano sin deslizarte al azar. Las llegadas suaves y cercanas valen más que los errores llamativos.",
+          "de": "Kreative Quest: Improvisiere 8 Takte nur mit a-Moll natürlich, aber beende jeden Takt auf dem nächstgelegenen Akkordton, ohne zufällig herumzurutschen. Sanfte, nahe Landungen schlagen auffällige Fehler.",
+          "ja": "創作クエスト：Aナチュラルマイナーだけで8小節即興しつつ、各小節の最後を一番近いコードトーンで終えましょう。派手に迷うより、近くて滑らかな着地の方が勝ちです。",
+          "zh-Hans": "创意任务：只用A自然小调即兴8小节，但每小节结尾都落在最近的和弦音上，不要随便滑过去。平滑、近距离的落点比花哨的失误更值钱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Win condition: record one take where the chord changes are obvious even without strumming chords underneath. If the listener can hear when the harmony shifts, you nailed the lesson.",
+          "pt-BR": "Condição de vitória: grave uma tomada em que as trocas de acorde fiquem óbvias mesmo sem batida de acordes por baixo. Se quem ouvir perceber quando a harmonia muda, você acertou a lição.",
+          "es": "Condición de victoria: graba una toma en la que los cambios de acorde sean obvios incluso sin rasguear acordes debajo. Si quien escucha puede oír cuándo cambia la armonía, clavaste la lección.",
+          "de": "Siegbedingung: Nimm einen Durchgang auf, bei dem die Akkordwechsel sogar ohne angeschlagene Begleitakkorde klar hörbar sind. Wenn man den Harmoniewechsel hören kann, hast du die Lektion gewonnen.",
+          "ja": "クリア条件：下でコードを鳴らさなくてもコードチェンジが分かるテイクを1回録音します。聴き手にハーモニーの変化が伝われば、このレッスンは成功です。",
+          "zh-Hans": "通关条件：录下一遍，就算下面没有和弦伴奏，听众也能听出和声变化。如果别人能听到和弦转换，你就完成这节课了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-11T00:06:33Z",
+  "updatedAt": "2026-07-11T00:06:33Z"
+}

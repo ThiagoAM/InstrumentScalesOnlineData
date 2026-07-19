@@ -1,0 +1,60 @@
+{
+  "id": "piano-scale-baton-pass",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use **D major** over two octaves at **72-88 BPM**. Think of the scale like a relay race: one hand carries the line, then hands the baton to the other without dropping tone, pulse, or shape. Start hands separately, then bring them together once the handoff feels smooth.",
+          "pt-BR": "Use **Ré maior** em duas oitavas a **72-88 BPM**. Pense na escala como uma corrida de revezamento: uma mão carrega a linha e depois entrega o bastão à outra sem derrubar timbre, pulso ou desenho. Comece com as mãos separadas e só depois una tudo quando a troca estiver suave.",
+          "es": "Usa **Re mayor** en dos octavas a **72-88 BPM**. Piensa la escala como una carrera de relevos: una mano lleva la línea y luego entrega el testigo a la otra sin perder sonido, pulso ni forma. Empieza con manos separadas y júntalas solo cuando el relevo ya se sienta fluido.",
+          "de": "Nutze **D-Dur** über zwei Oktaven bei **72-88 BPM**. Stell dir die Skala wie ein Staffellauf vor: Eine Hand trägt die Linie und übergibt den Stab an die andere, ohne Klang, Puls oder Form fallen zu lassen. Starte mit getrennten Händen und führe sie erst zusammen, wenn sich die Übergabe glatt anfühlt.",
+          "ja": "**Dメジャー**を2オクターブ、**72-88 BPM** で使います。音階をリレー競走だと考えてください。片手がラインを運び、もう片手へバトンを渡しても、音色・拍・形を落としてはいけません。まずは片手ずつ、その受け渡しがなめらかになってから両手で行います。",
+          "zh-Hans": "用 **D大调** 做两八度练习，速度 **72-88 BPM**。把音阶想成一场接力赛：一只手负责带线条，随后把接力棒交给另一只手，而且不能丢掉音色、拍点或线条形状。先分手练，等交接顺了再双手合起来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up 3 baton rules:\n- **leader** = one hand must sound slightly more present\n- **handoff** = switch the leader at the top note and again on the way down\n- **finish line** = the final note must stay relaxed and round\n\nPlay 6 complete runs and exaggerate the handoff just enough that you can hear it clearly without making it choppy.",
+          "pt-BR": "Defina 3 regras do bastão:\n- **líder** = uma mão precisa soar um pouco mais presente\n- **troca** = mude a mão líder na nota do topo e de novo na descida\n- **linha de chegada** = a nota final deve permanecer relaxada e redonda\n\nToque 6 voltas completas exagerando a troca só o suficiente para ouvi-la com clareza, sem deixar o resultado picado.",
+          "es": "Define 3 reglas del testigo:\n- **líder** = una mano debe sonar un poco más presente\n- **entrega** = cambia la mano líder en la nota más alta y otra vez al bajar\n- **meta** = la nota final debe quedarse relajada y redonda\n\nHaz 6 recorridos completos exagerando el relevo solo lo justo para oírlo con claridad, sin volverlo entrecortado.",
+          "de": "Lege 3 Staffel-Regeln fest:\n- **Führung** = eine Hand soll etwas präsenter klingen\n- **Übergabe** = wechsle die führende Hand am Spitzenton und noch einmal auf dem Rückweg\n- **Ziellinie** = der letzte Ton bleibt locker und rund\n\nSpiele 6 komplette Durchgänge und übertreibe die Übergabe nur so weit, dass du sie klar hörst, ohne dass es abgehackt wirkt.",
+          "ja": "3つのバトンルールを決めましょう。\n- **リーダー** = どちらかの手が少し前に聞こえる\n- **受け渡し** = 最高音で主役を交代し、下りでもう一度交代する\n- **ゴール** = 最後の音は脱力して丸く保つ\n\n6回通して弾き、受け渡しがはっきり聞こえる程度にだけ強調します。ぶつ切りにしないことが大事です。",
+          "zh-Hans": "先设定 3 条接力规则：\n- **领跑手** = 其中一只手要稍微更突出一点\n- **交棒** = 在最高音处换一次领跑手，下行时再换一次\n- **终点线** = 最后一个音要保持放松、圆润\n\n完整弹 6 遍，把交接稍微夸张到你能清楚听见，但不要夸张到断断续续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **clean-pass round**. Keep the tempo steady while the right hand leads upward and the left hand leads downward. Listen for bumps in finger crossings, uneven volume, or a sudden accent when leadership changes. If that happens, slow down before trying again.",
+          "pt-BR": "A rodada 1 é a **rodada da passagem limpa**. Mantenha o tempo estável enquanto a mão direita lidera na subida e a esquerda lidera na descida. Ouça cruzamentos de dedo com tranco, volume desigual ou um acento repentino quando a liderança muda. Se isso acontecer, reduza o andamento antes de tentar de novo.",
+          "es": "La ronda 1 es la **ronda del pase limpio**. Mantén el tempo estable mientras la mano derecha lidera al subir y la izquierda lidera al bajar. Escucha golpes en los cruces de dedos, volumen desigual o un acento repentino cuando cambia el liderazgo. Si eso ocurre, baja la velocidad antes de repetir.",
+          "de": "Runde 1 ist die **Sauberer-Pass-Runde**. Halte das Tempo stabil, während rechts aufwärts führt und links abwärts führt. Achte auf holprige Fingerwechsel, ungleichmäßige Lautstärke oder einen plötzlichen Akzent beim Führungswechsel. Wenn das passiert, geh mit dem Tempo runter, bevor du es erneut versuchst.",
+          "ja": "ラウンド1は **クリーンパス・ラウンド**。右手が上りをリードし、左手が下りをリードする中で、テンポを安定させます。指くぐりの段差、不ぞろいな音量、主役交代時の急なアクセントに注意してください。起きたら、やり直す前にテンポを落としましょう。",
+          "zh-Hans": "第 1 轮是 **干净交棒轮**。上行由右手领奏，下行由左手领奏，同时保持速度稳定。注意是否出现指法交叉的颠簸、音量不均，或者在领奏权切换时突然冒出的重音。如果发生了，先放慢再来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **stealth-pass round**. Keep the same handoff points, but make the switch almost invisible. Record 30 seconds and ask:\n- Could you hear a musical shape, not just exercise notes?\n- Did the leading hand change without a tone crash?\n- Did both hands stay loose at the turning point?\n\nIf yes, your daily scale routine just became more musical and more controlled. 🎹",
+          "pt-BR": "A rodada 2 é a **rodada da passagem invisível**. Mantenha os mesmos pontos de troca, mas faça a mudança quase desaparecer. Grave 30 segundos e pergunte:\n- Dava para ouvir um desenho musical, e não só notas de exercício?\n- A mão líder mudou sem quebrar o timbre?\n- As duas mãos ficaram soltas no ponto de virada?\n\nSe sim, sua rotina diária de escalas acabou de ficar mais musical e mais controlada. 🎹",
+          "es": "La ronda 2 es la **ronda del pase invisible**. Mantén los mismos puntos de entrega, pero haz que el cambio casi desaparezca. Graba 30 segundos y pregúntate:\n- ¿Se oyó una forma musical y no solo notas de ejercicio?\n- ¿Cambió la mano líder sin romper el sonido?\n- ¿Las dos manos siguieron sueltas en el punto de giro?\n\nSi sí, tu rutina diaria de escalas acaba de volverse más musical y más controlada. 🎹",
+          "de": "Runde 2 ist die **Unsichtbarer-Pass-Runde**. Behalte dieselben Übergabepunkte, aber lass den Wechsel fast verschwinden. Nimm 30 Sekunden auf und frage:\n- Hörte man eine musikalische Form und nicht nur Übungsnoten?\n- Wechselte die Führung ohne Klangbruch?\n- Blieben beide Hände am Wendepunkt locker?\n\nWenn ja, ist deine tägliche Skalenroutine musikalischer und kontrollierter geworden. 🎹",
+          "ja": "ラウンド2は **ステルスパス・ラウンド**。同じ交代ポイントを保ちながら、切り替えをほとんど見えなくします。30秒録音して確認しましょう。\n- ただの練習音ではなく、音楽的な形が聞こえたか\n- 主役の交代で音色が崩れなかったか\n- 折り返し地点で両手とも力みがなかったか\n\nできていれば、毎日のスケール練習はもっと音楽的で、もっとコントロールされたものになります。",
+          "zh-Hans": "第 2 轮是 **隐形交棒轮**。保持同样的交棒位置，但让切换几乎听不出来。录下 30 秒并问自己：\n- 听起来像一条音乐线条，而不只是练习音吗？\n- 领跑手切换时，音色有没有撞坏？\n- 在转折点上，两只手都还放松吗？\n\n如果可以，你的日常音阶练习就更有音乐性，也更有控制力了。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-08T00:10:18Z",
+  "updatedAt": "2026-05-08T00:10:18Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "b-minor-escape-route",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Picture the fretboard as a maze with glowing exits. Today your job is to guide the B natural minor scale through it without rushing, freezing, or losing the musical thread.",
+          "pt-BR": "Imagine o braço como um labirinto com saídas brilhando. Hoje sua tarefa é conduzir a escala de Si menor natural por ele sem correr, travar ou perder o fio musical.",
+          "es": "Imagina el mástil como un laberinto con salidas brillando. Hoy tu tarea es guiar la escala de Si menor natural por él sin correr, bloquearte ni perder el hilo musical.",
+          "de": "Stell dir das Griffbrett wie ein Labyrinth mit leuchtenden Ausgängen vor. Heute ist deine Aufgabe, die natürliche h-Moll-Tonleiter hindurchzuführen, ohne zu hetzen, zu erstarren oder den musikalischen Faden zu verlieren.",
+          "ja": "指板を光る出口のある迷路だと思ってみよう。今日の仕事は、Bナチュラルマイナーを急がず、固まらず、音楽の流れを失わずにそこへ通すことだ。",
+          "zh-Hans": "把指板想成一座有发光出口的迷宫。今天你的任务是带着B自然小调穿过去，不能着急，不能僵住，也不能丢掉音乐的线索。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: find B on the 2nd fret of the A string and the 7th fret of the low E string. Play B–C#–D–E slowly, then answer with F#–G–A–B while saying the note names.",
+          "pt-BR": "Aquecimento: encontre o Si na 2ª casa da corda Lá e na 7ª casa da corda Mi grave. Toque Si–Dó#–Ré–Mi devagar e responda com Fá#–Sol–Lá–Si dizendo os nomes das notas.",
+          "es": "Calentamiento: encuentra Si en el traste 2 de la cuerda La y en el traste 7 de la cuerda Mi grave. Toca Si–Do#–Re–Mi lentamente y responde con Fa#–Sol–La–Si diciendo los nombres de las notas.",
+          "de": "Aufwärmen: Finde H im 2. Bund der A-Saite und im 7. Bund der tiefen E-Saite. Spiele H–C#–D–E langsam und antworte mit F#–G–A–H, während du die Notennamen sprichst.",
+          "ja": "ウォームアップ：A弦2フレットのBと、低いE弦7フレットのBを見つけよう。B–C#–D–Eをゆっくり弾き、続けてF#–G–A–Bを音名を言いながら返す。",
+          "zh-Hans": "热身：找到A弦第2品的B，以及低音E弦第7品的B。慢慢弹B–C#–D–E，然后用F#–G–A–B回应，同时说出音名。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: play one octave of B natural minor in eighth notes at 72 bpm. Every time you land on B or F#, let the note ring for one extra beat so your ear learns the safe zones.",
+          "pt-BR": "Exercício principal: toque uma oitava de Si menor natural em colcheias a 72 bpm. Toda vez que cair em Si ou Fá#, deixe a nota soar por um tempo extra para o ouvido aprender as zonas seguras.",
+          "es": "Ejercicio principal: toca una octava de Si menor natural en corcheas a 72 bpm. Cada vez que caigas en Si o Fa#, deja sonar la nota un pulso extra para que tu oído aprenda las zonas seguras.",
+          "de": "Hauptübung: Spiele eine Oktave h-Moll natürlich in Achteln bei 72 bpm. Jedes Mal, wenn du auf H oder F# landest, lasse den Ton einen Schlag länger klingen, damit dein Ohr die sicheren Zonen lernt.",
+          "ja": "メイン練習：72 bpmでBナチュラルマイナー1オクターブを8分音符で弾く。BかF#に着地するたびに1拍長く伸ばして、耳に安全地帯を覚えさせよう。",
+          "zh-Hans": "主练习：用72 bpm把一组八度的B自然小调弹成八分音符。每次落在B或F#上时，多延长一拍，让耳朵记住这些安全区。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Escape-route challenge: climb B–C#–D, jump back to C#, then continue to E. Do the same with E–F#–G, jump back to F#, then finish on A–B.",
+          "pt-BR": "Desafio da rota de fuga: suba Si–Dó#–Ré, volte para Dó# e então siga até Mi. Faça o mesmo com Mi–Fá#–Sol, volte para Fá# e termine em Lá–Si.",
+          "es": "Desafío de ruta de escape: sube Si–Do#–Re, vuelve a Do# y luego sigue hasta Mi. Haz lo mismo con Mi–Fa#–Sol, vuelve a Fa# y termina en La–Si.",
+          "de": "Fluchtrouten-Challenge: Steige H–C#–D hinauf, springe zurück zu C# und gehe dann weiter bis E. Mache dasselbe mit E–F#–G, springe zurück zu F# und ende auf A–H.",
+          "ja": "脱出ルート・チャレンジ：B–C#–Dと上がり、C#へ戻ってからEへ進む。同じようにE–F#–Gと進み、F#へ戻って最後はA–Bで終える。",
+          "zh-Hans": "逃生路线挑战：先上行B–C#–D，再退回到C#，然后继续到E。同样地弹E–F#–G，退回到F#，最后用A–B收尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "String-crossing test: play the scale again, but accent the first note on every new string. If the accent makes your picking tense, slow down until the attack stays relaxed.",
+          "pt-BR": "Teste de troca de cordas: toque a escala de novo, mas acentue a primeira nota em cada nova corda. Se o acento deixar sua palhetada tensa, reduza a velocidade até o ataque ficar relaxado.",
+          "es": "Prueba de cruce de cuerdas: toca la escala otra vez, pero acentúa la primera nota en cada cuerda nueva. Si el acento tensa tu púa, baja la velocidad hasta que el ataque siga relajado.",
+          "de": "Saitenwechsel-Test: Spiele die Tonleiter noch einmal, aber betone den ersten Ton auf jeder neuen Saite. Wenn der Akzent deine Schlaghand anspannt, werde langsamer, bis der Anschlag entspannt bleibt.",
+          "ja": "弦移動テスト：もう一度音階を弾くが、新しい弦に入る最初の音を強調する。アクセントでピッキングが固くなるなら、タッチが楽になるまでテンポを落とそう。",
+          "zh-Hans": "换弦测试：再弹一次音阶，但每到新弦的第一个音都要强调。如果这个重音让拨弦变紧，就把速度降下来，直到触弦重新放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative mission: improvise for 4 bars using only B natural minor, and end each bar on B, D, or F#. Make the line sound like a short scene, not a homework drill.",
+          "pt-BR": "Missão criativa: improvise por 4 compassos usando apenas Si menor natural e termine cada compasso em Si, Ré ou Fá#. Faça a linha soar como uma cena curta, não como dever de casa.",
+          "es": "Misión creativa: improvisa durante 4 compases usando solo Si menor natural y termina cada compás en Si, Re o Fa#. Haz que la línea suene como una escena corta, no como tarea.",
+          "de": "Kreative Mission: Improvisiere 4 Takte nur mit h-Moll natürlich und lande am Ende jedes Taktes auf H, D oder F#. Die Linie soll wie eine kurze Szene klingen, nicht wie Hausaufgaben.",
+          "ja": "創作ミッション：Bナチュラルマイナーだけで4小節即興し、各小節の終わりをB、D、F#のどれかにする。宿題ではなく短い場面のように聞こえるラインを目指そう。",
+          "zh-Hans": "创意任务：只用B自然小调即兴4小节，并在每小节结尾落在B、D或F#上。让这条线听起来像一个短场景，而不是家庭作业。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Victory check: record one clean take with even tone, calm shoulders, and no panic jumps. When it feels easy, raise the metronome by 4 bpm and run the maze again.",
+          "pt-BR": "Checagem de vitória: grave uma tomada limpa com timbre uniforme, ombros calmos e nenhum salto em pânico. Quando ficar fácil, aumente o metrônomo em 4 bpm e corra pelo labirinto outra vez.",
+          "es": "Chequeo de victoria: graba una toma limpia con tono parejo, hombros tranquilos y ningún salto en pánico. Cuando se sienta fácil, sube el metrónomo 4 bpm y corre el laberinto otra vez.",
+          "de": "Sieges-Check: Nimm einen sauberen Durchgang mit gleichmäßigem Ton, ruhigen Schultern und ohne Paniksprünge auf. Wenn es leicht wirkt, erhöhe das Metronom um 4 bpm und laufe das Labyrinth noch einmal.",
+          "ja": "勝利チェック：音色がそろい、肩が落ち着き、あわてた跳び方のないクリーンな通しを1回録音しよう。楽に感じたらメトロノームを4 bpm上げて、もう一度迷路を走る。",
+          "zh-Hans": "胜利检查：录下一遍干净的完整演奏，要求音色均匀、肩膀放松、没有慌张跳动。觉得轻松后，把节拍器提高4 bpm，再跑一次迷宫。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-04T00:07:51Z",
+  "updatedAt": "2026-07-04T00:07:51Z"
+}

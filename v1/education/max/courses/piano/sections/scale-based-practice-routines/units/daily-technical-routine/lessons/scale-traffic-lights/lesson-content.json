@@ -1,0 +1,86 @@
+{
+  "id": "scale-traffic-lights",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today your scales are a tiny city, and your fingers are the traffic. Pick one comfortable major scale, set a steady tempo, and divide the pattern into three zones: **red** for your trouble spot, **yellow** for the approach, and **green** for the easy stretch.",
+          "pt-BR": "Hoje suas escalas viram uma pequena cidade, e seus dedos são o trânsito. Escolha uma escala maior confortável, coloque um tempo constante e divida o desenho em três zonas: **vermelha** para o trecho problemático, **amarela** para a aproximação e **verde** para a parte fácil.",
+          "es": "Hoy tus escalas son una pequeña ciudad y tus dedos son el tráfico. Elige una escala mayor cómoda, fija un tempo estable y divide el patrón en tres zonas: **roja** para el punto conflictivo, **amarilla** para la aproximación y **verde** para el tramo fácil.",
+          "de": "Heute ist deine Tonleiter eine kleine Stadt, und deine Finger sind der Verkehr. Wähle eine bequeme Dur-Tonleiter, setze ein stabiles Tempo und teile das Muster in drei Zonen: **rot** für die Problemstelle, **gelb** für die Annäherung und **grün** für den leichten Abschnitt.",
+          "ja": "今日のスケールは小さな街、そしてあなたの指は交通です。弾きやすい長音階を1つ選び、一定のテンポを決め、パターンを3つのゾーンに分けましょう。問題が出やすい場所が **赤**、その手前の準備区間が **黄**、弾きやすい流れの場所が **緑** です。",
+          "zh-Hans": "今天你的音阶是一座小城市，而手指就是交通。选一条你比较舒服的大调音阶，设定稳定速度，把整条音阶分成三个区域：**红区** 是最容易出错的地方，**黄区** 是接近问题前的准备带，**绿区** 是相对轻松顺畅的路段。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In the **red zone**, slow down on purpose. Play with relaxed fingers, even tone, and zero panic. The mission is not speed; it is proving that you can stay calm exactly where your hands usually get messy.",
+          "pt-BR": "Na **zona vermelha**, desacelere de propósito. Toque com dedos relaxados, timbre uniforme e zero pânico. A missão não é velocidade; é provar que você consegue manter a calma exatamente onde suas mãos costumam se enrolar.",
+          "es": "En la **zona roja**, reduce la velocidad a propósito. Toca con dedos relajados, sonido parejo y cero pánico. La misión no es correr; es demostrar que puedes mantener la calma justo donde tus manos suelen enredarse.",
+          "de": "In der **roten Zone** wirst du absichtlich langsamer. Spiele mit lockeren Fingern, gleichmäßigem Ton und ohne Panik. Die Mission ist nicht Tempo, sondern zu beweisen, dass du genau dort ruhig bleiben kannst, wo deine Hände sonst unordentlich werden.",
+          "ja": "**赤ゾーン** では、あえてゆっくりにします。指は力まず、音色は均一、そして焦らないこと。目標は速さではなく、いつも崩れやすい場所で落ち着いていられると証明することです。",
+          "zh-Hans": "在 **红区**，请故意放慢。保持手指放松、音色均匀、完全不慌。目标不是速度，而是证明你能在最容易失控的地方依然冷静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In the **yellow zone**, prepare the move before the problem arrives. Think about thumb crossings, hand shape, and where the arm needs to float next. Yellow means “get organized,” not “tense up.”",
+          "pt-BR": "Na **zona amarela**, prepare o movimento antes do problema chegar. Pense nas passagens do polegar, no formato da mão e em para onde o braço precisa flutuar em seguida. Amarelo quer dizer “organize-se”, não “fique tenso”.",
+          "es": "En la **zona amarilla**, prepara el movimiento antes de que llegue el problema. Piensa en los cruces de pulgar, la forma de la mano y hacia dónde debe flotar el brazo después. Amarillo significa “organízate”, no “ponte tenso”.",
+          "de": "In der **gelben Zone** bereitest du die Bewegung vor, bevor das Problem auftaucht. Denke an Daumenuntersatz, Handform und daran, wohin der Arm als Nächstes schweben muss. Gelb bedeutet „organisieren“, nicht „verkrampfen“.",
+          "ja": "**黄ゾーン** では、問題が来る前に動きを準備します。親指くぐり、手の形、腕が次にどこへ自然に移動するかを考えてください。黄色は「緊張する」の意味ではなく、「整える」の意味です。",
+          "zh-Hans": "在 **黄区**，你要在问题到来前先把动作准备好。想想拇指穿指、手型以及手臂下一步该自然飘向哪里。黄色的意思不是“紧张”，而是“整理好自己”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In the **green zone**, let the scale flow naturally and sing through the phrase. Don’t turn easy notes into sleepy notes. Keep the rhythm alive, the tone clear, and the hand motion efficient.",
+          "pt-BR": "Na **zona verde**, deixe a escala fluir naturalmente e cantar pela frase. Não transforme notas fáceis em notas preguiçosas. Mantenha o ritmo vivo, o som claro e o movimento das mãos eficiente.",
+          "es": "En la **zona verde**, deja que la escala fluya de forma natural y cante dentro de la frase. No conviertas las notas fáciles en notas dormidas. Mantén el ritmo vivo, el sonido claro y el movimiento de la mano eficiente.",
+          "de": "In der **grünen Zone** darf die Tonleiter natürlich fließen und durch die Phrase singen. Mach aus leichten Tönen keine schläfrigen Töne. Halte den Rhythmus lebendig, den Klang klar und die Handbewegung effizient.",
+          "ja": "**緑ゾーン** では、スケールを自然に流し、フレーズの中で歌わせましょう。簡単な音を眠たい音にしないこと。リズムは生き生きと、音は明確に、手の動きは効率よく保ちます。",
+          "zh-Hans": "到了 **绿区**，让音阶自然流动，像在乐句里歌唱。不要因为这里简单，就把音弹得没精神。保持节奏有生命力、音色清晰、手部动作高效。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now connect all three zones in one run without stopping. Your challenge is to change mental gears while keeping the beat steady. If the listener can’t hear where you were worried, the traffic system is working.",
+          "pt-BR": "Agora conecte as três zonas em uma passada só, sem parar. O desafio é trocar a marcha mental sem perder a pulsação. Se quem ouve não percebe onde você estava preocupado, o sistema de trânsito está funcionando.",
+          "es": "Ahora une las tres zonas en una sola pasada sin detenerte. El reto es cambiar de marcha mental sin perder el pulso. Si quien escucha no nota dónde estabas preocupado, el sistema de tráfico está funcionando.",
+          "de": "Verbinde jetzt alle drei Zonen in einem Durchgang ohne anzuhalten. Deine Herausforderung ist, mental den Gang zu wechseln und trotzdem den Puls stabil zu halten. Wenn man von außen nicht hört, wo du unsicher warst, funktioniert das Verkehrssystem.",
+          "ja": "次は3つのゾーンを止まらずに1回でつなげます。課題は、心のギアを切り替えながら拍を安定させること。聴いている人に不安だった場所がバレなければ、交通システムは成功です。",
+          "zh-Hans": "现在把三个区域连成一次完整演奏，中间不要停。你的挑战，是在保持拍子稳定的同时切换心理状态。如果听众听不出你原本担心的位置，说明这套交通系统奏效了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: play the same scale three times — once with all zones at one volume, once with a gentle crescendo through yellow into green, and once with staccato in red but legato everywhere else. You’re not just fixing mistakes; you’re learning to direct musical traffic.",
+          "pt-BR": "Rodada final: toque a mesma escala três vezes — uma com todas as zonas no mesmo volume, outra com um crescendo suave da amarela para a verde e outra com staccato na vermelha, mas legato no resto. Você não está só corrigindo erros; está aprendendo a dirigir o tráfego musical.",
+          "es": "Ronda final: toca la misma escala tres veces — una con todas las zonas al mismo volumen, otra con un crescendo suave desde la amarilla hasta la verde y otra con staccato en la roja pero legato en el resto. No solo corriges errores; estás aprendiendo a dirigir el tráfico musical.",
+          "de": "Letzte Runde: Spiele dieselbe Tonleiter dreimal — einmal mit gleicher Lautstärke in allen Zonen, einmal mit einem sanften Crescendo von Gelb nach Grün und einmal mit Staccato in Rot, aber Legato überall sonst. Du reparierst nicht nur Fehler; du lernst, musikalischen Verkehr zu lenken.",
+          "ja": "最後のラウンドでは同じスケールを3回弾きます。1回目は全部同じ音量、2回目は黄色から緑へやさしくクレッシェンド、3回目は赤だけスタッカートで他はレガート。これはミス修正だけでなく、音楽の交通整理を学ぶ練習です。",
+          "zh-Hans": "最后一轮：同一条音阶弹三次——第一次三段都同样音量，第二次从黄区向绿区做柔和渐强，第三次红区用断奏、其他地方保持连奏。你不只是在修错，你是在学习如何指挥音乐交通。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-11T00:07:49Z",
+  "updatedAt": "2026-04-11T00:07:49Z"
+}

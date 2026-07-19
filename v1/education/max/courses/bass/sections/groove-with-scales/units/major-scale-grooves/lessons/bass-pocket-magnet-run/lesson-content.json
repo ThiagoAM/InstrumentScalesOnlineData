@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-magnet-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome or drum loop in **G major** and build a two-bar groove from **root, second, third, and fifth**. Keep it simple at first. Your job is not to show everything you know; your job is to make the pulse feel so clear that a drummer would trust you instantly.",
+          "pt-BR": "Coloque um metrônomo ou loop de bateria em **Sol maior** e monte um groove de dois compassos com **tônica, segunda, terça e quinta**. Mantenha tudo simples no começo. Sua tarefa não é mostrar tudo o que sabe; sua tarefa é deixar o pulso tão claro que um baterista confiaria em você na hora.",
+          "es": "Pon un metrónomo o un loop de batería en **Sol mayor** y construye un groove de dos compases con **tónica, segunda, tercera y quinta**. Al principio mantenlo simple. Tu trabajo no es mostrar todo lo que sabes; tu trabajo es hacer que el pulso se sienta tan claro que un baterista confiaría en ti de inmediato.",
+          "de": "Stell ein Metronom oder Drum-Loop in **G-Dur** ein und baue einen zweitaktigen Groove aus **Grundton, Sekunde, Terz und Quinte**. Halte es zunächst einfach. Deine Aufgabe ist nicht, alles zu zeigen, was du kannst; deine Aufgabe ist, den Puls so klar zu machen, dass ein Drummer dir sofort vertrauen würde.",
+          "ja": "**Gメジャー** のメトロノームかドラムループを流し、**ルート、2度、3度、5度** だけで2小節のグルーヴを作ります。最初はシンプルで大丈夫です。知っていることを全部見せるのではなく、ドラマーがすぐ信頼できるくらい拍を明確にすることが仕事です。",
+          "zh-Hans": "打开 **G大调** 节拍器或鼓循环，只用 **根音、2度、3度和5度** 做一个两小节 groove。开始时先简单一点。你的任务不是炫耀会多少东西，而是把脉冲做得足够清楚，让鼓手立刻愿意信任你。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the magnet idea: on beat four of each bar, play one note that feels like it wants to drift away, then land hard on a strong note at the next downbeat. A passing tone, a ghost note, or a quick octave jump can all work. The lesson is that tension on bass is powerful only when the landing is precise.",
+          "pt-BR": "Agora entre com a ideia do ímã: no tempo quatro de cada compasso, toque uma nota que pareça querer fugir e aterrisse forte em uma nota forte no próximo tempo um. Uma nota de passagem, uma ghost note ou um salto rápido de oitava podem funcionar. A lição é que a tensão no baixo só é poderosa quando a chegada é precisa.",
+          "es": "Ahora añade la idea del imán: en el cuarto tiempo de cada compás toca una nota que parezca querer escaparse y aterriza con fuerza en una nota fuerte al siguiente pulso uno. Puede servir una nota de paso, una ghost note o un salto rápido de octava. La lección es que la tensión en el bajo solo funciona de verdad cuando el aterrizaje es preciso.",
+          "de": "Jetzt kommt die Magnet-Idee: Spiele auf Schlag vier jedes Taktes einen Ton, der kurz wegdriften will, und lande auf dem nächsten Schlag eins hart auf einem starken Ton. Ein Durchgangston, eine Ghost Note oder ein schneller Oktavsprung können dafür reichen. Die Lektion lautet: Spannung im Bass wirkt nur dann stark, wenn die Landung präzise ist.",
+          "ja": "次に“マグネット”の動きを入れます。各小節の4拍目で少し外へ行きたがる音を入れ、次の1拍目で強い音へしっかり着地してください。経過音、ゴーストノート、素早いオクターブ跳躍のどれでも使えます。ベースの張りは、着地が正確なときだけ本当に効いてきます。",
+          "zh-Hans": "现在加入“磁铁”概念：每小节第4拍放一个像是想往外跑的音，然后在下一个强拍稳稳落回强音。经过音、幽灵音，或者快速的八度跳进都可以。这里的重点是：贝斯上的张力只有在落点足够精准时才真正有力量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round two is about **space**. Remove one note from your pattern and replace it with silence or a ghost note. If the groove gets weaker, you removed the wrong note. If the groove gets deeper, you just learned that pocket often improves when the bass stops talking for a second.",
+          "pt-BR": "A segunda rodada é sobre **espaço**. Tire uma nota do padrão e troque por silêncio ou ghost note. Se o groove enfraquecer, você tirou a nota errada. Se o groove ficar mais fundo, você acabou de aprender que o pocket muitas vezes melhora quando o baixo para de falar por um instante.",
+          "es": "La segunda ronda trata del **espacio**. Quita una nota de tu patrón y cámbiala por silencio o por una ghost note. Si el groove se debilita, quitaste la nota equivocada. Si el groove se vuelve más profundo, acabas de aprender que muchas veces el pocket mejora cuando el bajo deja de hablar por un segundo.",
+          "de": "Runde zwei dreht sich um **Raum**. Nimm einen Ton aus deinem Pattern heraus und ersetze ihn durch Stille oder eine Ghost Note. Wenn der Groove schwächer wird, hast du den falschen Ton entfernt. Wenn er tiefer wird, hast du gelernt, dass das Pocket oft stärker wird, wenn der Bass kurz aufhört zu reden.",
+          "ja": "第2ラウンドは **空間** です。パターンから1音抜き、その代わりに休符かゴーストノートを入れます。もしグルーヴが弱くなったなら、その音は必要でした。逆に深くなったなら、ベースは少し黙ることでポケットが強くなると学べたわけです。",
+          "zh-Hans": "第二轮练的是 **留白**。从你的型里拿掉一个音，改成休止或幽灵音。如果 groove 变弱了，说明你删错了音；如果 groove 反而更深了，你就学到了——很多时候，贝斯少说一句，pocket 反而更强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, move the same groove through **two dynamics**: first play it like a whisper with relaxed hands, then like a chorus entrance with more attack. Do not rush when you dig in. Strong bass playing means controlling energy without letting the clock wobble.",
+          "pt-BR": "Depois, leve o mesmo groove por **duas dinâmicas**: primeiro toque como um sussurro, com as mãos relaxadas; depois como entrada de refrão, com mais ataque. Não acelere quando tocar mais forte. Tocar bem baixo é controlar energia sem deixar o relógio balançar.",
+          "es": "Después mueve el mismo groove por **dos dinámicas**: primero tócala como un susurro, con manos relajadas; luego como la entrada de un estribillo, con más ataque. No te aceleres cuando toques más fuerte. Tocar bien el bajo es controlar la energía sin dejar que el reloj tiemble.",
+          "de": "Führe denselben Groove danach durch **zwei Dynamikstufen**: erst wie ein Flüstern mit lockeren Händen, dann wie ein Refrain-Einstieg mit mehr Attack. Werde beim kräftigeren Spiel nicht schneller. Gutes Bassspiel heißt, Energie zu steuern, ohne dass die innere Uhr wackelt.",
+          "ja": "次は同じグルーヴを **2つのダイナミクス** で弾きます。まずはささやくように、手を柔らかく。次はサビの入りのように、もう少しアタックを強く。それでも急がないでください。優れたベースは、エネルギーを上げても時計を揺らさないものです。",
+          "zh-Hans": "接着把同一个 groove 用 **两种力度** 演奏：先像低声说话一样轻松，再像副歌起飞一样更有攻击感。注意不要因为更用力就抢拍。优秀的贝斯手会控制能量，而不会让内部时钟摇晃。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: loop the groove for **two full minutes** and make one small change every four bars—an approach note, an octave, a rest, or a ghost-note burst. Record it and check whether the groove stayed trustworthy the whole time. If it did, your scale tones are starting to behave like a real bass line.",
+          "pt-BR": "Desafio final: repita o groove por **dois minutos inteiros** e faça uma pequena mudança a cada quatro compassos — uma aproximação, uma oitava, uma pausa ou um burst de ghost notes. Grave e confira se o groove continuou confiável o tempo todo. Se sim, suas notas de escala já estão começando a se comportar como uma linha de baixo de verdade.",
+          "es": "Desafío final: repite el groove durante **dos minutos completos** y haz un pequeño cambio cada cuatro compases: una nota de aproximación, una octava, un silencio o una ráfaga de ghost notes. Grábalo y comprueba si el groove siguió siendo confiable todo el tiempo. Si fue así, tus notas de escala ya empiezan a comportarse como una línea de bajo real.",
+          "de": "Letzte Challenge: Lope den Groove **zwei volle Minuten** und ändere alle vier Takte eine Kleinigkeit — einen Annäherungston, eine Oktave, eine Pause oder einen kurzen Ghost-Note-Schub. Nimm das auf und prüfe, ob der Groove die ganze Zeit verlässlich blieb. Wenn ja, verhalten sich deine Skalentöne langsam wie eine echte Basslinie.",
+          "ja": "最後の挑戦は、そのグルーヴを **2分間** ループし、4小節ごとに小さな変化を1つだけ加えることです。アプローチ音、オクターブ、休符、ゴーストノートの連打などで構いません。録音して、最後までグルーヴが信頼できたか確認しましょう。できていれば、音階音が本物のベースラインらしく働き始めています。",
+          "zh-Hans": "最终挑战：把这个 groove 循环 **整整两分钟**，并且每四小节只做一个小变化——一个趋近音、一个八度、一个休止，或者一小串幽灵音。录下来，检查整段 groove 是否始终值得信赖。如果答案是肯定的，你的音阶音就开始真正像一条贝斯线在工作了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-11T00:09:10Z",
+  "updatedAt": "2026-06-11T00:09:10Z"
+}

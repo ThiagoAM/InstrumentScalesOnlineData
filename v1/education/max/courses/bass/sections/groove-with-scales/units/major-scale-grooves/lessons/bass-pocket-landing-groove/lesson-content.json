@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-landing-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Pocket Landing Groove. You’ll build major‑scale lines that always “land” cleanly on beats 1 and 3.",
+          "pt-BR": "Bem-vindo ao Groove de Aterrissagem no Pocket. Você vai criar linhas na escala maior que “aterrissam” limpas nos tempos 1 e 3.",
+          "es": "Bienvenido al Groove de Aterrizaje en el Pocket. Crearás líneas en escala mayor que “aterrizan” limpias en los tiempos 1 y 3.",
+          "de": "Willkommen beim Pocket‑Landings‑Groove. Du baust Dur‑Skalenlinien, die sauber auf Zählzeit 1 und 3 „landen“.",
+          "ja": "ポケット・ランディング・グルーヴへようこそ。メジャースケールのラインを使って、1拍目と3拍目にきれいに“着地”させます。",
+          "zh-Hans": "欢迎来到口袋着陆律动。你将用大调音阶线条，始终在第1拍和第3拍干净“着陆”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose a key (try C major) and set a metronome to 75 BPM. Count a two‑bar loop and feel beats 1 and 3 as your landing pads.",
+          "pt-BR": "Setup: escolha uma tonalidade (experimente Dó maior) e ajuste o metrônomo para 75 BPM. Conte um loop de dois compassos e sinta os tempos 1 e 3 como suas pistas de pouso.",
+          "es": "Preparación: elige una tonalidad (prueba Do mayor) y pon el metrónomo a 75 BPM. Cuenta un loop de dos compases y siente los tiempos 1 y 3 como tus pistas de aterrizaje.",
+          "de": "Setup: Wähle eine Tonart (z. B. C‑Dur) und stelle das Metronom auf 75 BPM. Zähle einen Zwei‑Takt‑Loop und spüre 1 und 3 als Landeplätze.",
+          "ja": "準備：キーを選ぶ（Cメジャー推奨）。メトロノームを75 BPMに設定。2小節ループを数え、1と3を着地点として感じます。",
+          "zh-Hans": "准备：选择一个调（试试C大调），节拍器设为75 BPM。数两小节循环，把1和3拍当作着陆点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Exercise: start each bar on the root, then walk with scale steps to hit the fifth on beat 3. Use only quarter notes at first, keeping every landing dead‑on.",
+          "pt-BR": "Exercício: comece cada compasso na tônica e caminhe com passos da escala para chegar à quinta no tempo 3. Use apenas semínimas no início, com aterrissagens precisas.",
+          "es": "Ejercicio: inicia cada compás en la tónica y camina con pasos de escala para llegar a la quinta en el tiempo 3. Usa solo negras al principio, con aterrizajes precisos.",
+          "de": "Übung: Starte jeden Takt auf dem Grundton und gehe mit Skalen‑Schritten zur Quinte auf Zählzeit 3. Zunächst nur Viertelnoten, mit punktgenauen Landungen.",
+          "ja": "練習：各小節の頭をルートで始め、スケールのステップで3拍目の5度へ。最初は4分音符のみで、着地を正確に。",
+          "zh-Hans": "练习：每小节从根音开始，用音阶步进走向第3拍的五度。先只用四分音符，确保每次着陆都精准。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove it: add eighth‑note fills between landings, but keep beat 1 and 3 strong. If you rush, insert a rest instead of another note.",
+          "pt-BR": "Dê groove: adicione preenchimentos em colcheias entre as aterrissagens, mantendo os tempos 1 e 3 fortes. Se correr, coloque uma pausa em vez de mais uma nota.",
+          "es": "Dale groove: añade rellenos en corcheas entre aterrizajes, manteniendo fuertes los tiempos 1 y 3. Si te aceleras, pon un silencio en lugar de otra nota.",
+          "de": "Groove it: Füge Achtel‑Fills zwischen den Landungen hinzu, aber halte 1 und 3 stark. Wenn du hetzt, setze lieber eine Pause.",
+          "ja": "グルーヴ化：着地の間に8分音符のフィルを入れるが、1と3は強く保つ。走りそうなら音を増やさず休符にする。",
+          "zh-Hans": "加点律动：在着陆点之间加入八分音符填充，但保持1和3拍强而稳。若赶拍，就用一个休止代替。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: add light ghost notes on the “&” of 2 and 4, then record yourself for two minutes and check if your landings stay locked.",
+          "pt-BR": "Desafio: acrescente ghost notes leves no “e” de 2 e 4, grave por dois minutos e confira se suas aterrissagens continuam travadas.",
+          "es": "Desafío: agrega ghost notes suaves en el “y” de 2 y 4, grábate dos minutos y revisa si tus aterrizajes siguen bien clavados.",
+          "de": "Challenge: Setze leichte Ghost Notes auf dem „&“ von 2 und 4, nimm dich zwei Minuten auf und prüfe, ob die Landungen fest sitzen.",
+          "ja": "チャレンジ：2拍目と4拍目の「&」に軽いゴーストノートを入れ、2分間録音して着地がブレないか確認。",
+          "zh-Hans": "挑战：在第2和第4拍的“&”上加轻微幽灵音，录两分钟，检查着陆是否一直锁得住。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-02T00:05:19Z",
+  "updatedAt": "2026-04-02T00:05:19Z"
+}

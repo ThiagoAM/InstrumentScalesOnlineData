@@ -82,5 +82,61 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "ii-v-i-landing-pad",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "ii-V-I Landing Pad",
+        "pt-BR": "Pista de Pouso do ii-V-I",
+        "es": "Pista de Aterrizaje ii-V-I",
+        "de": "ii-V-I Landebahn",
+        "ja": "ii-V-I ランディングパッド",
+        "zh-Hans": "ii-V-I 着陆坪"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass line to land cleanly through ii-V-I changes with scale motion and calm time.",
+        "pt-BR": "Treine sua linha de baixo para pousar com clareza em progressões ii-V-I usando movimento de escala e tempo calmo.",
+        "es": "Entrena tu línea de bajo para aterrizar con claridad en progresiones ii-V-I usando movimiento de escala y pulso tranquilo.",
+        "de": "Trainiere deine Basslinie so, dass sie ii-V-I-Wechsel mit Skalenbewegung und ruhigem Timing sauber landet.",
+        "ja": "ii-V-I進行で、スケールの動きと落ち着いたタイム感を使って確実に着地するベースラインを鍛えます。",
+        "zh-Hans": "用音阶连接和稳定时间感，让你的贝斯线在ii-V-I进行里干净着陆。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-19T00:07:24Z",
+    "updatedAt": "2026-04-19T00:07:24Z"
+  },
+  {
+    "id": "ii-v-i-scale-target-race",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "ii-V-I Scale Target Race",
+        "pt-BR": "Corrida de notas-alvo no ii-V-I",
+        "es": "Carrera de notas objetivo en ii-V-I",
+        "de": "ii-V-I-Zielton-Rennen",
+        "ja": "ii-V-I ターゲット音レース",
+        "zh-Hans": "ii-V-I 目标音竞速"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build walking confidence by aiming for guide tones under a ticking clock.",
+        "pt-BR": "Ganhe confiança no walking mirando guide tones com o relógio correndo.",
+        "es": "Gana confianza en el walking apuntando a tonos guía con el reloj corriendo.",
+        "de": "Baue Walking-Sicherheit auf, indem du unter Zeitdruck Guide Tones ansteuerst.",
+        "ja": "時間のプレッシャーの中でガイドトーンを狙い、ウォーキングの自信を育てよう。",
+        "zh-Hans": "在节拍压力下瞄准导向音，建立 walking bass 的信心。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-06-07T00:07:58Z",
+    "updatedAt": "2026-06-07T00:07:58Z"
   }
 ]

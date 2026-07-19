@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-sprint-resets",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll do scale sprints to build endurance and focus. Short bursts, clean hands.",
+          "pt-BR": "Hoje você fará sprints de escalas para ganhar resistência e foco. Rajadas curtas, mãos limpas.",
+          "es": "Hoy harás sprints de escalas para ganar resistencia y enfoque. Ráfagas cortas, manos limpias.",
+          "de": "Heute machst du Skalen-Sprints für Ausdauer und Fokus. Kurze Bursts, saubere Hände.",
+          "ja": "今日はスケール・スプリントで持久力と集中力を鍛えます。短いバーストで手をきれいに。",
+          "zh-Hans": "今天做音阶冲刺来提升耐力与专注。短冲刺，手型干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: hands together, two-octave C major. Start at 72 bpm, four notes per beat, legato.",
+          "pt-BR": "Preparação: mãos juntas, C maior em duas oitavas. Comece em 72 bpm, quatro notas por tempo, legato.",
+          "es": "Preparación: manos juntas, Do mayor en dos octavas. Empieza a 72 bpm, cuatro notas por tiempo, legato.",
+          "de": "Setup: Hände zusammen, C-Dur über zwei Oktaven. Starte bei 72 bpm, vier Noten pro Schlag, legato.",
+          "ja": "準備：両手でCメジャー2オクターブ。72 bpm、1拍4音、レガート。",
+          "zh-Hans": "准备：双手弹两八度C大调。72 bpm，每拍4音，连奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sprint set: play nonstop for 30 seconds, rest 10 seconds. Repeat 3 times, keep wrists loose.",
+          "pt-BR": "Série de sprints: toque sem parar por 30 segundos, descanse 10. Repita 3 vezes, punhos soltos.",
+          "es": "Serie de sprints: toca sin parar 30 segundos, descansa 10. Repite 3 veces, muñecas sueltas.",
+          "de": "Sprint-Set: 30 Sekunden nonstop spielen, 10 Sekunden Pause. 3 Wiederholungen, Handgelenke locker.",
+          "ja": "スプリントセット：30秒間止まらず弾き、10秒休む。3回繰り返し、手首は力を抜く。",
+          "zh-Hans": "冲刺组：连续弹30秒，休息10秒。重复3次，手腕放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Reset round: one 30-second run staccato. Then return to legato for the final run.",
+          "pt-BR": "Rodada de reset: uma corrida de 30 segundos em staccato. Depois volte ao legato na última.",
+          "es": "Ronda de reinicio: una carrera de 30 segundos en staccato. Luego vuelve a legato en la última.",
+          "de": "Reset-Runde: ein 30-Sekunden-Lauf staccato. Danach zurück zu legato für den letzten Lauf.",
+          "ja": "リセットラウンド：30秒だけスタッカート。最後はレガートに戻す。",
+          "zh-Hans": "重置回合：做一次30秒断奏，然后最后一轮回到连奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: add 5 bpm each sprint or switch to G major.",
+          "pt-BR": "Desafio: aumente 5 bpm a cada sprint ou mude para Sol maior.",
+          "es": "Reto: sube 5 bpm en cada sprint o cambia a Sol mayor.",
+          "de": "Challenge: Erhöhe jeden Sprint um 5 bpm oder wechsle zu G-Dur.",
+          "ja": "チャレンジ：各スプリントで5 bpm上げるか、Gメジャーに変更。",
+          "zh-Hans": "挑战：每轮提高5 bpm或改成G大调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-25T00:08:09Z",
+  "updatedAt": "2026-03-25T00:08:09Z"
+}

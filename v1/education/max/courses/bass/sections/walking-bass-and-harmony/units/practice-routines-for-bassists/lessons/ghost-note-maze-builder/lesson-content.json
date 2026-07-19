@@ -1,0 +1,73 @@
+{
+  "id": "ghost-note-maze-builder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick a medium **D minor** or **A minor** vamp and imagine the groove is a maze. Your target is to reach the next downbeat without getting lost in too many notes. For this challenge, real scale tones are the walls and **ghost notes** are the quick footsteps between them.",
+          "pt-BR": "Escolha um vamp médio em **Ré menor** ou **Lá menor** e imagine que o groove é um labirinto. Seu alvo é chegar ao próximo tempo forte sem se perder em notas demais. Neste desafio, as notas reais da escala são as paredes e as **ghost notes** são os passos rápidos entre elas.",
+          "es": "Elige un vamp medio en **Re menor** o **La menor** e imagina que el groove es un laberinto. Tu objetivo es llegar al siguiente tiempo fuerte sin perderte en demasiadas notas. En este reto, las notas reales de la escala son las paredes y las **ghost notes** son los pasos rápidos entre ellas.",
+          "de": "Wähle einen mittleren Vamp in **D-Moll** oder **A-Moll** und stell dir vor, der Groove sei ein Labyrinth. Dein Ziel ist, den nächsten Downbeat zu erreichen, ohne dich in zu vielen Tönen zu verlieren. In dieser Aufgabe sind echte Skalentöne die Wände und **Ghost Notes** die schnellen Schritte dazwischen.",
+          "ja": "**Dマイナー** か **Aマイナー** の中くらいのテンポのヴァンプを選び、グルーヴを迷路だと考えましょう。目標は、音を詰め込みすぎずに次の強拍へたどり着くことです。この課題では、実音のスケール音が壁で、**ゴーストノート** がその間を走る足音になります。",
+          "zh-Hans": "选一个中速的 **D小调** 或 **A小调** vamp，把 groove 想成一个迷宫。你的目标是在不过度塞满音符的情况下，顺利走到下一个强拍。在这个挑战里，真正的音阶音是墙，**ghost note** 是墙与墙之间快速穿过的脚步声。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze 1: write a **one-bar bass line** using only root, fifth, octave, and one extra scale tone. Add one ghost note before either beat 2 or beat 4. If the line feels good enough to loop for a minute, you have a groove worth protecting.",
+          "pt-BR": "Labirinto 1: escreva uma **linha de um compasso** usando apenas tônica, quinta, oitava e mais uma nota da escala. Adicione uma ghost note antes do tempo 2 ou do tempo 4. Se a linha soar bem o bastante para repetir por um minuto, você já tem um groove que vale proteger.",
+          "es": "Laberinto 1: escribe una **línea de un compás** usando solo tónica, quinta, octava y una nota extra de la escala. Añade una ghost note antes del tiempo 2 o del tiempo 4. Si la línea se siente lo bastante bien como para repetirla un minuto, ya tienes un groove que merece protección.",
+          "de": "Labyrinth 1: Schreibe eine **eintaktige Basslinie** nur mit Grundton, Quinte, Oktave und einem zusätzlichen Skalenton. Füge vor Zählzeit 2 oder 4 genau eine Ghost Note ein. Wenn sich die Linie eine Minute lang gut loopen lässt, hast du einen Groove, den es zu schützen lohnt.",
+          "ja": "迷路1では、ルート、5度、オクターブ、そして追加のスケール音1つだけを使って **1小節のベースライン** を作ります。2拍目か4拍目の前にゴーストノートを1つ入れてください。そのラインが1分間気持ちよく回せるなら、守る価値のあるグルーヴです。",
+          "zh-Hans": "迷宫1：只用根音、五度、八度，再加一个额外音阶音，写一条 **1小节贝斯线**。在第2拍或第4拍之前加入一个 ghost note。如果这条线可以舒服地循环一分钟，你就已经做出了值得保护的 groove。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze 2: keep the same rhythm, but swap your extra scale tone for a different one. Notice how the line's attitude changes even when the groove shape stays the same. On bass, one note choice can turn “solid” into “sneaky” or “calm” into “urgent.”",
+          "pt-BR": "Labirinto 2: mantenha o mesmo ritmo, mas troque sua nota extra por outra da escala. Perceba como a atitude da linha muda mesmo quando o desenho do groove fica igual. No baixo, uma única escolha de nota pode transformar “firme” em “malandro” ou “calmo” em “urgente”.",
+          "es": "Laberinto 2: mantén el mismo ritmo, pero cambia tu nota extra por otra de la escala. Observa cómo cambia la actitud de la línea aunque la forma del groove siga igual. En el bajo, una sola elección de nota puede convertir algo “sólido” en “pícaro” o algo “calmo” en “urgente”.",
+          "de": "Labyrinth 2: Behalte denselben Rhythmus, tausche aber den zusätzlichen Skalenton gegen einen anderen aus. Achte darauf, wie sich der Charakter der Linie ändert, obwohl die Groove-Form gleich bleibt. Auf dem Bass kann eine einzige Tonwahl aus „stabil“ plötzlich „listig“ oder aus „ruhig“ „drängend“ machen.",
+          "ja": "迷路2では、リズムはそのままにして、追加のスケール音だけ別の音に変えます。形が同じでも、ラインの性格がどう変わるかを観察しましょう。ベースでは、たった1音の選択で「安定」が「いたずらっぽい」に、「穏やか」が「切迫感」に変わることがあります。",
+          "zh-Hans": "迷宫2：保持同样的节奏，只把那个额外音阶音换成另一个音。注意，即使 groove 的轮廓没变，整条线的性格也会变化。在贝斯上，一个音的选择，就可能把“稳”变成“狡黠”，把“平静”变成“紧迫”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze 3: now make a **two-bar answer**. Bar 1 should sound grounded, and bar 2 should sound like it is aiming toward the next chord with a scale walk or chromatic setup. The trick is to keep the pocket so steady that the listener feels guided, not dragged.",
+          "pt-BR": "Labirinto 3: agora crie uma **resposta de dois compassos**. O compasso 1 deve soar assentado, e o compasso 2 deve mirar o próximo acorde com uma caminhada de escala ou preparação cromática. O truque é manter o pocket tão estável que o ouvinte se sinta guiado, não arrastado.",
+          "es": "Laberinto 3: ahora crea una **respuesta de dos compases**. El compás 1 debe sonar estable y el compás 2 debe apuntar hacia el siguiente acorde con una caminata de escala o una preparación cromática. El truco es mantener el pocket tan firme que el oyente se sienta guiado y no arrastrado.",
+          "de": "Labyrinth 3: Erfinde jetzt eine **zweitaktige Antwort**. Takt 1 soll geerdet klingen, und Takt 2 soll mit einem Skalenlauf oder chromatischen Vorhalt auf den nächsten Akkord zielen. Der Trick ist, den Pocket so stabil zu halten, dass sich die Hörerin geführt und nicht geschleift fühlt.",
+          "ja": "迷路3では **2小節の返答フレーズ** を作ります。1小節目は地に足がついた感じ、2小節目はスケール歩きやクロマチックな導きで次のコードを狙う感じにします。ポイントは、聴き手が引きずられるのではなく案内されていると感じるくらい、ポケットを安定させることです。",
+          "zh-Hans": "迷宫3：现在做一个 **2小节回答句**。第1小节要更扎实，第2小节则要用音阶行进或半音准备去瞄准下一个和弦。诀窍是 pocket 要稳到让听众觉得你在带路，而不是在硬拖着他们走。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final maze run: create an **8-bar groove study** with at least two ghost notes, one register jump, and one clear setup into the next chord. Record it and check two things: does the time stay locked, and would a drummer know exactly where to join you? If yes, your scales are acting like bass language instead of homework.",
+          "pt-BR": "Corrida final no labirinto: monte um **estudo de groove de 8 compassos** com pelo menos duas ghost notes, um salto de registro e uma preparação clara para o próximo acorde. Grave e confira duas coisas: o tempo continua travado e um baterista saberia exatamente onde entrar com você? Se sim, suas escalas estão virando linguagem de baixo em vez de lição de casa.",
+          "es": "Recorrido final del laberinto: crea un **estudio de groove de 8 compases** con al menos dos ghost notes, un salto de registro y una preparación clara hacia el siguiente acorde. Grábalo y revisa dos cosas: ¿el tiempo sigue firme y un baterista sabría exactamente dónde entrar contigo? Si sí, tus escalas ya se están comportando como lenguaje de bajo y no como tarea.",
+          "de": "Der finale Lauf durchs Labyrinth: Baue eine **8-taktige Groove-Etüde** mit mindestens zwei Ghost Notes, einem Registersprung und einer klaren Vorbereitung auf den nächsten Akkord. Nimm sie auf und prüfe zwei Dinge: bleibt das Timing verriegelt, und wüsste ein Drummer sofort, wo er einsteigen soll? Wenn ja, verhalten sich deine Skalen wie echte Basssprache statt wie Hausaufgaben.",
+          "ja": "最後の迷路走では、少なくともゴーストノート2回、レジスター跳躍1回、次のコードへの明確な導入1回を含む **8小節のグルーヴ・エチュード** を作ってください。録音して、時間感がロックされているか、そしてドラマーがどこで入るべきか即座に分かるかを確認しましょう。もしそうなら、あなたのスケールは宿題ではなく本物のベース言語になり始めています。",
+          "zh-Hans": "最终迷宫跑：创作一个 **8小节 groove 练习曲**，其中至少包含两个 ghost note、一次音区跳跃，以及一次清晰地导向下一个和弦的准备。录下来，检查两件事：时间有没有锁住？鼓手能不能立刻知道该在哪里和你接上？如果可以，你的音阶就已经开始像真正的贝斯语言，而不只是作业。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-22T14:10:37Z",
+  "updatedAt": "2026-04-22T14:10:37Z"
+}

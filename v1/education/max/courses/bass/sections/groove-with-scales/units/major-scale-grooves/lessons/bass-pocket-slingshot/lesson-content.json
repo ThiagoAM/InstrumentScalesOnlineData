@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-slingshot",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns your bass line into a slingshot. Work in **D natural minor** over **Dm - Bb - F - C** at **76-90 BPM**. Your job is to pull the groove away from home just enough to create tension, then snap it back without wrecking the time.",
+          "pt-BR": "Esta lição transforma sua linha de baixo em um estilingue. Trabalhe em **Ré menor natural** sobre **Dm - Bb - F - C** a **76-90 BPM**. Sua missão é puxar o groove para longe de casa só o bastante para criar tensão e depois fazê-lo voltar sem destruir o tempo.",
+          "es": "Esta lección convierte tu línea de bajo en un tirachinas. Trabaja en **Re menor natural** sobre **Dm - Bb - F - C** a **76-90 BPM**. Tu misión es alejar el groove de casa lo justo para crear tensión y luego hacerlo volver sin arruinar el tiempo.",
+          "de": "Diese Lektion macht aus deiner Basslinie eine Schleuder. Arbeite in **D-Natürlich-Moll** über **Dm - Bb - F - C** bei **76-90 BPM**. Deine Aufgabe ist es, den Groove gerade weit genug von zu Hause wegzuziehen, um Spannung zu erzeugen, und ihn dann zurückschnappen zu lassen, ohne das Timing zu ruinieren.",
+          "ja": "このレッスンではベースラインをパチンコのように扱います。**Dナチュラルマイナー**、進行は **Dm - Bb - F - C**、テンポは **76-90 BPM**。少しだけホームから離れて緊張感を作り、タイムを壊さずに戻ってくるのが仕事です。",
+          "zh-Hans": "这节课把你的贝斯线当成一把弹弓。使用 **D自然小调**，和弦进行是 **Dm - Bb - F - C**，速度 **76-90 BPM**。你的任务是把律动稍微拉离“家”，制造张力，再在不破坏节拍的前提下弹回去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set three slingshot rules:\n- beat **1** must state a clear chord tone\n- one note per bar must move **away from D** by step\n- one note per bar must **snap back** by leap or strong landing\n- one moment per bar must be real silence\n\nLoop two bars until the pulse feels heavy and calm.",
+          "pt-BR": "Defina três regras do estilingue:\n- o tempo **1** deve afirmar claramente uma nota do acorde\n- uma nota por compasso deve se mover **para longe de D** por grau conjunto\n- uma nota por compasso deve **voltar com estalo** por salto ou pouso forte\n- um ponto por compasso deve ser silêncio de verdade\n\nRepita dois compassos até o pulso ficar pesado e calmo.",
+          "es": "Define tres reglas del tirachinas:\n- el tiempo **1** debe marcar claramente un tono del acorde\n- una nota por compás debe moverse **lejos de D** por grado conjunto\n- una nota por compás debe **volver con impulso** mediante salto o aterrizaje fuerte\n- un momento por compás debe ser silencio real\n\nRepite dos compases hasta que el pulso se sienta pesado y tranquilo.",
+          "de": "Lege drei Schleuderregeln fest:\n- Zählzeit **1** muss einen klaren Akkordton setzen\n- ein Ton pro Takt muss sich **schrittweise von D entfernen**\n- ein Ton pro Takt muss **mit Nachdruck zurückschnappen** durch Sprung oder starkes Landen\n- ein Moment pro Takt muss echte Stille sein\n\nWiederhole zwei Takte, bis der Puls schwer und ruhig wirkt.",
+          "ja": "次のスリングショット・ルールを決めましょう。\n- **1拍目** でははっきりしたコードトーンを置く\n- 各小節で1音は **Dから順次進行で離れる**\n- 各小節で1音は **跳躍か強い着地で戻る**\n- 各小節で1か所は本当の休符を入れる\n\n2小節を繰り返し、重く落ち着いた脈を作ります。",
+          "zh-Hans": "先定下几条弹弓规则：\n- **第1拍** 必须清楚落在和弦音上\n- 每小节有一个音要 **以级进离开 D**\n- 每小节有一个音要 **通过跳进或强着陆弹回**\n- 每小节要有一个位置是真正的静默\n\n循环两小节，直到脉冲感又稳又沉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **stretch round**. Start from D, F, or A, then travel one or two scale steps farther than feels comfortable before returning. If the line sounds nervous instead of confident, your stretch is too random.",
+          "pt-BR": "A Rodada 1 é a **rodada da puxada**. Comece em D, F ou A e depois viaje um ou dois graus da escala além do que parece confortável antes de voltar. Se a linha soar nervosa em vez de confiante, a puxada está aleatória demais.",
+          "es": "La Ronda 1 es la **ronda de tensión**. Empieza en D, F o A y luego viaja uno o dos grados de la escala más lejos de lo cómodo antes de volver. Si la línea suena nerviosa en vez de segura, tu tensión es demasiado aleatoria.",
+          "de": "Runde 1 ist die **Spannrunde**. Starte auf D, F oder A und gehe dann ein oder zwei Skalenstufen weiter weg, als sich bequem anfühlt, bevor du zurückkehrst. Wenn die Linie nervös statt souverän klingt, ist die Spannung zu zufällig.",
+          "ja": "ラウンド1は **引っぱりラウンド**。D、F、Aから始め、気持ちよい範囲より1〜2段階だけ遠くまで行ってから戻ります。ラインが自信ではなく不安に聞こえるなら、引っぱり方がランダムすぎます。",
+          "zh-Hans": "第1轮是 **拉伸轮**。从 D、F 或 A 开始，然后比你舒服的范围再多走 1 到 2 个音阶级数，再回来。如果线条听起来紧张过头而不是自信，那说明你的拉伸太随意了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **release round**. After the stretch, make the comeback note feel inevitable by using one of these tools:\n- a longer note value\n- a stronger accent\n- a cleaner, emptier space before landing\n\nThe return should feel like gravity, not luck.",
+          "pt-BR": "A Rodada 2 é a **rodada da soltura**. Depois da puxada, faça a nota de volta soar inevitável usando uma destas ferramentas:\n- um valor de nota mais longo\n- um acento mais forte\n- um espaço mais limpo e vazio antes da aterrissagem\n\nA volta deve soar como gravidade, não como sorte.",
+          "es": "La Ronda 2 es la **ronda de liberación**. Después de alejarte, haz que la nota de regreso parezca inevitable usando una de estas herramientas:\n- un valor más largo\n- un acento más fuerte\n- un espacio más limpio y vacío antes de aterrizar\n\nEl regreso debe sentirse como gravedad, no como suerte.",
+          "de": "Runde 2 ist die **Loslassrunde**. Nach der Dehnung soll der Rückkehrton unvermeidlich wirken. Nutze dafür eines dieser Mittel:\n- einen längeren Notenwert\n- einen stärkeren Akzent\n- mehr leeren, sauberen Raum vor der Landung\n\nDie Rückkehr soll wie Schwerkraft wirken, nicht wie Glück.",
+          "ja": "ラウンド2は **解放ラウンド**。離れたあと、戻りの音が必然に聞こえるよう、次のどれかを使います。\n- 長めの音価\n- 強いアクセント\n- 着地前のよりクリーンで空いたスペース\n\n戻りは偶然ではなく重力のように感じられるべきです。",
+          "zh-Hans": "第2轮是 **释放轮**。离开之后，要让回来的那一音听起来像必然发生。你可以用这些工具之一：\n- 更长的时值\n- 更强的重音\n- 着陆前更干净、更空的留白\n\n这种回归应该像重力，不该像碰运气。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now record **45 seconds** over the full progression. Keep the groove simple enough to repeat, but change where the stretch happens in each pass. You are training control: same pocket, new tension point.",
+          "pt-BR": "Agora grave **45 segundos** sobre a progressão inteira. Mantenha o groove simples o bastante para repetir, mas mude o lugar da puxada em cada volta. Você está treinando controle: mesmo pocket, novo ponto de tensão.",
+          "es": "Ahora graba **45 segundos** sobre la progresión completa. Mantén el groove lo bastante simple como para repetirlo, pero cambia en cada vuelta el lugar donde estiras la tensión. Estás entrenando control: mismo pocket, nuevo punto de tensión.",
+          "de": "Nimm jetzt **45 Sekunden** über die ganze Akkordfolge auf. Halte den Groove einfach genug, um ihn zu wiederholen, aber verändere bei jedem Durchgang die Stelle der Spannung. Du trainierst Kontrolle: gleiches Pocket, neuer Spannungspunkt.",
+          "ja": "次に、進行全体の上で **45秒** 録音してください。繰り返せるくらいシンプルなグルーヴを保ちつつ、毎回どこで引っぱるかだけ変えます。同じポケットで、違う緊張ポイントを作る練習です。",
+          "zh-Hans": "现在在整套和弦进行上录 **45 秒**。保持 groove 简单到可以重复，但每一轮都改变“拉开”的位置。你练的是控制：同一个 pocket，不同的张力点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Check your take:\n- Did the root feel stronger after each detour?\n- Did the silence help the return hit harder?\n- Which comeback note made the whole groove breathe?\n\nFinal upgrade: move the slingshot game to **G minor** and keep the same groove logic. If the pocket survives the key change, the slingshot works. 🎸",
+          "pt-BR": "Confira a gravação:\n- A tônica ficou mais forte depois de cada desvio?\n- O silêncio ajudou a volta a bater mais forte?\n- Qual nota de retorno fez o groove respirar melhor?\n\nUpgrade final: leve o jogo do estilingue para **Sol menor** e mantenha a mesma lógica de groove. Se o pocket sobreviver à troca de tom, o estilingue funciona. 🎸",
+          "es": "Revisa tu toma:\n- ¿La tónica se sintió más fuerte después de cada desvío?\n- ¿El silencio ayudó a que el regreso golpeara mejor?\n- ¿Qué nota de vuelta hizo respirar mejor al groove?\n\nMejora final: mueve el juego del tirachinas a **Sol menor** y conserva la misma lógica de groove. Si el pocket sobrevive al cambio de tonalidad, el tirachinas funciona. 🎸",
+          "de": "Prüfe deine Aufnahme:\n- Fühlte sich der Grundton nach jedem Umweg stärker an?\n- Hat die Stille die Rückkehr härter treffen lassen?\n- Welcher Rückkehrton ließ den Groove am besten atmen?\n\nLetztes Upgrade: verlege das Schleuderspiel nach **G-Moll** und behalte dieselbe Groove-Logik. Wenn das Pocket den Tonartwechsel überlebt, funktioniert die Schleuder. 🎸",
+          "ja": "録音をチェックしましょう。\n- 寄り道のあと、ルートはより強く感じられた？\n- 休符は戻りをより強くした？\n- どの戻りの音がグルーヴにいちばん呼吸を与えた？\n\n最後の強化: 同じゲームを **Gマイナー** に移して、同じグルーヴの論理を保ってください。ポケットが生き残れば、スリングショット成功です。 🎸",
+          "zh-Hans": "检查你的录音：\n- 每次绕开之后，根音是否更有力量？\n- 留白有没有让回归更有冲击？\n- 哪个回归音让整个 groove 最会呼吸？\n\n最终升级：把同样的弹弓游戏搬到 **G小调**，保留同样的 groove 逻辑。如果换调之后 pocket 还站得住，这把弹弓就成功了。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-27T00:09:02Z",
+  "updatedAt": "2026-04-27T00:09:02Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "syncopated-major-scale-engine",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Groove first, notes second\nThis lesson is about making the **major scale feel rhythmic**, not polite. You will use simple major-scale notes, but place them in syncopated spots so the line starts to dance.\n\nMain rule: the pulse must stay steady even when the notes lean away from the beat.",
+          "pt-BR": "# Groove primeiro, notas depois\nEsta lição é sobre fazer a **escala maior soar rítmica**, não educadinha. Você vai usar notas simples da escala maior, mas colocá-las em pontos sincopados para a linha começar a dançar.\n\nRegra principal: o pulso precisa ficar firme mesmo quando as notas puxam para fora da batida.",
+          "es": "# Groove primero, notas después\nEsta lección trata de hacer que la **escala mayor suene rítmica**, no correcta sin más. Usarás notas simples de la escala mayor, pero en lugares sincopados para que la línea empiece a bailar.\n\nRegla principal: el pulso debe seguir firme aunque las notas se apoyen fuera del beat.",
+          "de": "# Erst Groove, dann Töne\nIn dieser Lektion soll sich die **Durtonleiter rhythmisch** anfühlen, nicht nur brav. Du benutzt einfache Töne der Durtonleiter, setzt sie aber synkopiert, damit die Linie zu tanzen beginnt.\n\nHauptregel: Der Puls muss stabil bleiben, auch wenn die Töne gegen den Beat lehnen.",
+          "ja": "# まずグルーヴ、次に音\nこのレッスンの目的は、**メジャースケールをリズムとして感じる**ことです。使う音はシンプルでも、置く場所をシンコペートさせることでラインが踊り始めます。\n\n大原則：音が拍からずれても、脈は絶対に安定させること。",
+          "zh-Hans": "# 先有律动，再谈音符\n这节课的重点，是让**大音阶先变得有节奏感**，而不是只是“对”。你会用很基础的大音阶音，但把它们放进切分的位置里，让低音线开始跳起来。\n\n核心规则：哪怕音符故意顶着拍子，脉冲也必须稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Build the engine\nChoose one major scale shape you already know. Start with just **root, 2, 3, 5, and 6**.\n\nPractice this loop:\n- clap quarter notes\n- say the count out loud\n- play your notes on the **and** of the beat sometimes, not only on the beat\n\nIf the count falls apart, slow down immediately.",
+          "pt-BR": "# Monte o motor\nEscolha um desenho de escala maior que você já conhece. Comece usando só **tônica, 2, 3, 5 e 6**.\n\nPratique este ciclo:\n- bata semínimas com a mão\n- fale a contagem em voz alta\n- toque algumas notas no **e** do tempo, não só em cima do tempo\n\nSe a contagem desandar, desacelere na hora.",
+          "es": "# Construye el motor\nElige una forma de escala mayor que ya conozcas. Empieza solo con **tónica, 2, 3, 5 y 6**.\n\nPractica este ciclo:\n- marca negras con la mano\n- di la cuenta en voz alta\n- toca algunas notas en el **y** del tiempo, no solo sobre el tiempo\n\nSi la cuenta se rompe, baja el tempo enseguida.",
+          "de": "# Baue den Motor\nWähle ein Durtonleiter-Pattern, das du schon kennst. Starte nur mit **Grundton, 2, 3, 5 und 6**.\n\nÜbe diesen Ablauf:\n- klatsche Viertelnoten\n- sprich die Zählzeit laut\n- spiele manche Töne auf dem **Und**, nicht nur auf dem Schlag\n\nWenn die Zählung zerfällt, sofort langsamer werden.",
+          "ja": "# エンジンを作る\nすでに知っているメジャースケールの形を1つ選び、まずは **ルート、2度、3度、5度、6度** だけを使います。\n\nこの流れで練習：\n- 四分音符を手で打つ\n- カウントを声に出す\n- すべて拍頭ではなく、ときどき **裏拍** に音を置く\n\nカウントが崩れたら、すぐテンポを落としましょう。",
+          "zh-Hans": "# 先把引擎搭起来\n选一个你已经熟悉的大音阶把位，先只用 **1、2、3、5、6级**。\n\n练习循环：\n- 用手打四分音符\n- 把计数大声说出来\n- 有些音放在拍子的 **“and”** 上，而不只是正拍\n\n如果数拍一乱，立刻降速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Lock the right hand\nYour plucking hand is the engine. The left hand chooses notes, but the right hand keeps the whole machine honest.\n\nFocus on:\n- even volume between fingers\n- short notes when the groove needs bite\n- relaxed motion instead of digging too hard\n\nA syncopated line sounds cool only when the attack stays controlled.",
+          "pt-BR": "# Trave a mão direita\nA sua mão direita é o motor. A esquerda escolhe as notas, mas a direita mantém a máquina honesta.\n\nFoque em:\n- volume uniforme entre os dedos\n- notas curtas quando o groove pedir ataque\n- movimento relaxado em vez de cavar forte demais\n\nUma linha sincopada só soa boa quando o ataque continua controlado.",
+          "es": "# Bloquea la mano derecha\nTu mano derecha es el motor. La izquierda elige notas, pero la derecha mantiene la máquina honesta.\n\nConcéntrate en:\n- volumen parejo entre los dedos\n- notas cortas cuando el groove pida más mordida\n- movimiento relajado en vez de atacar demasiado fuerte\n\nUna línea sincopada solo suena bien cuando el ataque sigue controlado.",
+          "de": "# Rechte Hand verriegeln\nDeine Zupfhand ist der Motor. Die linke Hand wählt Töne, aber die rechte hält die Maschine ehrlich.\n\nAchte auf:\n- gleichmäßige Lautstärke zwischen den Fingern\n- kurze Noten, wenn der Groove mehr Biss braucht\n- lockere Bewegung statt zu hartem Eingraben\n\nEine synkopierte Linie wirkt nur dann cool, wenn der Anschlag kontrolliert bleibt.",
+          "ja": "# 右手をロックする\n右手はエンジンです。左手が音を選んでも、全体を正直に保つのは右手です。\n\n意識すること：\n- 指ごとの音量をそろえる\n- グルーヴにキレが欲しいときは短めの音にする\n- 強く掘りすぎず、力まず動く\n\nシンコペーションのラインは、アタックが整っていてこそ格好よく聞こえます。",
+          "zh-Hans": "# 锁住右手\n你的右手就是引擎。左手选音，但真正让整台机器稳定运转的是右手。\n\n专注点：\n- 两个手指的音量尽量平均\n- 需要更有咬劲时，把音弹短一点\n- 动作保持放松，不要挖得太狠\n\n切分线条只有在起音受控时才会真正好听。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Create a two-bar pattern\nWrite a tiny two-bar groove using major-scale notes. Make bar 1 simple, then let bar 2 answer with a small rhythmic surprise.\n\nIdeas for the surprise:\n- tie one note across the beat\n- leave beat 1 empty once\n- jump to the 6th or 3rd for color\n\nKeep it playable enough that you can repeat it ten times.",
+          "pt-BR": "# Crie um padrão de dois compassos\nEscreva um groove curto de dois compassos com notas da escala maior. Deixe o compasso 1 simples e faça o compasso 2 responder com uma pequena surpresa rítmica.\n\nIdeias para a surpresa:\n- amarrar uma nota atravessando o tempo\n- deixar o tempo 1 vazio uma vez\n- saltar para a 6ª ou para a 3ª para dar cor\n\nMantenha tocável o bastante para repetir dez vezes.",
+          "es": "# Crea un patrón de dos compases\nEscribe un groove pequeño de dos compases usando notas de la escala mayor. Haz el compás 1 sencillo y deja que el compás 2 responda con una pequeña sorpresa rítmica.\n\nIdeas para la sorpresa:\n- ligar una nota sobre el pulso\n- dejar vacío el tiempo 1 una vez\n- saltar a la 6ª o a la 3ª para dar color\n\nDebe ser lo bastante tocable como para repetirlo diez veces.",
+          "de": "# Erfinde ein Zweitaktmuster\nSchreibe einen kleinen Groove über zwei Takte mit Durtonleiter-Tönen. Takt 1 bleibt einfach, Takt 2 antwortet mit einer kleinen rhythmischen Überraschung.\n\nIdeen:\n- einen Ton über den Beat binden\n- Schlag 1 einmal frei lassen\n- zur 6 oder 3 springen, um Farbe zu bekommen\n\nEs soll so spielbar sein, dass du es zehnmal wiederholen kannst.",
+          "ja": "# 2小節パターンを作る\nメジャースケールの音だけで、小さな2小節グルーヴを書いてみましょう。1小節目はシンプルに、2小節目で少しだけリズムの驚きを入れます。\n\n驚きの例：\n- 音を拍をまたいでタイでつなぐ\n- 1拍目を一度空ける\n- 6度や3度へ飛んで色を足す\n\n10回くり返せるくらい弾きやすく保つのが条件です。",
+          "zh-Hans": "# 做一个两小节型\n只用大音阶音，写一个两小节的小groove。第一小节保持简单，第二小节用一点节奏上的小惊喜来“回答”。\n\n惊喜点子：\n- 用延音跨过拍点\n- 有一次把第1拍空出来\n- 跳到6级或3级增加颜色\n\n它必须足够好弹，能连续重复十遍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nNow move your pattern through **three roots** without changing the rhythmic identity. The notes shift, but the groove should still be recognizable.\n\nTest yourself:\n- root 1: comfortable tempo\n- root 2: same feel, no hesitation\n- root 3: slightly louder, same pocket\n\nIf the groove breaks during the key change, the rhythm is not learned yet — only the fingering is.",
+          "pt-BR": "# Rodada de desafio\nAgora mova o padrão por **três tônicas** sem mudar a identidade rítmica. As notas mudam, mas o groove deve continuar reconhecível.\n\nTeste:\n- tônica 1: tempo confortável\n- tônica 2: mesma sensação, sem hesitar\n- tônica 3: um pouco mais forte, mesmo pocket\n\nSe o groove quebra na troca de tonalidade, você aprendeu o desenho, não o ritmo.",
+          "es": "# Ronda de desafío\nAhora mueve tu patrón por **tres tónicas** sin cambiar su identidad rítmica. Las notas cambian, pero el groove debe seguir reconociéndose.\n\nPruébate así:\n- tónica 1: tempo cómodo\n- tónica 2: misma sensación, sin dudar\n- tónica 3: un poco más fuerte, mismo pocket\n\nSi el groove se rompe al cambiar de tonalidad, todavía aprendiste la digitación más que el ritmo.",
+          "de": "# Herausforderungsrunde\nVerschiebe dein Muster jetzt über **drei Grundtöne**, ohne die rhythmische Identität zu verlieren. Die Töne ändern sich, aber der Groove muss wiedererkennbar bleiben.\n\nSelbsttest:\n- Grundton 1: bequemes Tempo\n- Grundton 2: gleiches Gefühl, ohne Zögern\n- Grundton 3: etwas lauter, gleiche Pocket\n\nWenn der Groove beim Tonartwechsel zusammenbricht, sitzt nur der Fingersatz — nicht der Rhythmus.",
+          "ja": "# チャレンジラウンド\n今度はそのパターンを **3つのルート** に移してみましょう。音は変わっても、リズムの個性はそのまま残す必要があります。\n\nチェック：\n- ルート1：楽なテンポ\n- ルート2：同じノリで迷わない\n- ルート3：少し強めでも同じポケット\n\nキーが変わると崩れるなら、覚えたのは運指だけでリズムではありません。",
+          "zh-Hans": "# 挑战回合\n现在把这个型移到**三个不同根音**上，但不要改变它的节奏身份。音高会变，律动个性不能丢。\n\n自测方式：\n- 根音1：舒服速度\n- 根音2：同样感觉，不犹豫\n- 根音3：更大声一点，口袋感不变\n\n如果一换调就散，说明你学到的是指型，不是节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Musical application\nUse this when a song feels too square. A little syncopation can turn a plain scale exercise into a bass line with personality. Record one minute and listen for this question: **does the line make me nod even before I admire the notes?** Groove wins that argument every time.",
+          "pt-BR": "# Aplicação musical\nUse isso quando a música estiver quadrada demais. Um pouco de síncope pode transformar um exercício de escala em uma linha de baixo com personalidade. Grave um minuto e ouça: **essa linha faz minha cabeça balançar antes mesmo de eu admirar as notas?** Quase sempre o groove vence essa disputa.",
+          "es": "# Aplicación musical\nÚsalo cuando una canción se sienta demasiado cuadrada. Un poco de síncopa puede convertir un ejercicio de escala en una línea de bajo con personalidad. Graba un minuto y escucha esto: **¿la línea me hace mover la cabeza antes de que admire las notas?** El groove suele ganar esa discusión.",
+          "de": "# Musikalische Anwendung\nNutze das, wenn ein Song zu gerade wirkt. Ein wenig Synkope kann aus einer schlichten Skalenübung eine Basslinie mit Persönlichkeit machen. Nimm eine Minute auf und frage dich: **bringt mich die Linie schon vor den Noten zum Nicken?** Groove gewinnt fast immer.",
+          "ja": "# 音楽への応用\n曲が四角く聞こえるときに使ってください。少しのシンコペーションで、ただのスケール練習が個性あるベースラインに変わります。1分録音して、**音程を評価する前に思わずうなずけるか？** を聞いてみましょう。たいてい勝つのはグルーヴです。",
+          "zh-Hans": "# 音乐应用\n当一首歌听起来太“方”时，就拿这个方法出来。少量切分就能让普通的音阶练习变成有个性的贝斯线。录一分钟，再问自己：**我会不会在注意音符之前，先跟着点头？** 律动几乎总会赢。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-28T00:07:09Z",
+  "updatedAt": "2026-04-28T00:07:09Z"
+}

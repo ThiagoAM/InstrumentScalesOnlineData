@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-escape-room",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the piano escape room. The door opens only if technique and listening work together. Pick one major key before you start, then write down three passwords: the tonic, the leading tone, and the fingering spot where you usually panic.",
+          "pt-BR": "Bem-vinda à sala de fuga do piano. A porta só abre se técnica e escuta trabalharem juntas. Escolha uma tonalidade maior antes de começar e anote três senhas: a tônica, a sensível e o ponto da digitação em que você costuma entrar em pânico.",
+          "es": "Bienvenida a la sala de escape del piano. La puerta solo se abre si la técnica y la escucha trabajan juntas. Elige una tonalidad mayor antes de empezar y anota tres contraseñas: la tónica, la sensible y el punto de digitación donde normalmente entras en pánico.",
+          "de": "Willkommen im Klavier-Escape-Room. Die Tür öffnet sich nur, wenn Technik und Hören zusammenarbeiten. Wähle vor dem Start eine Dur-Tonart und notiere drei Passwörter: den Grundton, den Leitton und die Fingering-Stelle, an der du normalerweise in Panik gerätst.",
+          "ja": "ピアノ脱出ルームへようこそ。扉は、テクニックと耳が協力したときにだけ開きます。始める前に1つの長調を選び、3つのパスワードを書いてください。主音、導音、そして自分がいつも不安になる運指ポイントです。",
+          "zh-Hans": "欢迎来到钢琴逃脱房。只有当技术和听觉一起工作时，门才会打开。开始前先选一个大调，并写下三个密码：主音、导音，以及你最容易在运指上慌掉的那个位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 1 is the silent map. Play one octave hands separately, very slowly, and say finger numbers out loud on the way up and down. If either hand hesitates, that is not failure; that is the lock telling you exactly where the weak hinge is.",
+          "pt-BR": "O Enigma 1 é o mapa silencioso. Toque uma oitava com mãos separadas, bem devagar, falando os dedos em voz alta na subida e na descida. Se alguma mão hesitar, isso não é fracasso; é a fechadura mostrando exatamente onde está a dobradiça fraca.",
+          "es": "El Reto 1 es el mapa silencioso. Toca una octava con manos separadas, muy despacio, diciendo en voz alta los dedos al subir y al bajar. Si alguna mano duda, eso no es fracaso; es la cerradura diciéndote exactamente dónde está la bisagra débil.",
+          "de": "Rätsel 1 ist die stille Karte. Spiele eine Oktave mit getrennten Händen sehr langsam und sprich die Fingernummern auf dem Weg nach oben und nach unten laut mit. Wenn eine Hand zögert, ist das kein Scheitern; das Schloss zeigt dir nur genau, wo das schwache Scharnier sitzt.",
+          "ja": "パズル1はサイレントマップです。片手ずつ1オクターブをとてもゆっくり弾き、上行と下行の指番号を声に出します。どちらかの手がためらっても失敗ではありません。そこがロックが教えてくれた弱いヒンジです。",
+          "zh-Hans": "谜题1是“无声地图”。左右手分开、非常慢地弹一组八度，上行和下行都把指法数字说出来。如果哪只手犹豫了，那不是失败，而是锁芯准确告诉你哪一处铰链最弱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 2 is the mirror trap. Play the same scale two octaves hands together, but only at a tempo where both thumbs stay relaxed. Every time the thumbs cross cleanly, give yourself one point. Every time the shoulders rise, pause and reset before continuing.",
+          "pt-BR": "O Enigma 2 é a armadilha do espelho. Toque a mesma escala em duas oitavas com as mãos juntas, mas só em um andamento no qual ambos os polegares permaneçam relaxados. Cada vez que a passagem do polegar sair limpa, marque um ponto. Cada vez que os ombros subirem, pare e reinicie antes de seguir.",
+          "es": "El Reto 2 es la trampa del espejo. Toca la misma escala en dos octavas con manos juntas, pero solo a un tempo en el que ambos pulgares sigan relajados. Cada vez que el cruce del pulgar salga limpio, date un punto. Cada vez que los hombros suban, detente y reinicia antes de seguir.",
+          "de": "Rätsel 2 ist die Spiegelfalle. Spiele dieselbe Skala über zwei Oktaven mit beiden Händen zusammen, aber nur in einem Tempo, bei dem beide Daumen entspannt bleiben. Jedes saubere Untersetzen gibt dir einen Punkt. Immer wenn die Schultern hochziehen, stoppst du und setzt neu an.",
+          "ja": "パズル2はミラートラップです。同じスケールを両手で2オクターブ弾きますが、両方の親指が力まずに交差できるテンポでだけ行ってください。親指のくぐりがきれいに決まるたびに1点。肩が上がったら、その場で止めてリセットします。",
+          "zh-Hans": "谜题2是“镜像陷阱”。同一个音阶双手一起弹两组八度，但速度只能快到让两个拇指都保持放松。每一次拇指交叉顺利过关，就给自己一分。每次肩膀抬起来，就暂停并重置后再继续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 3 is the rhythm code. Keep the same key, but alternate quarter notes, triplets, and swung eighths every measure. The notes stay the same; the groove changes. Your goal is to prove that scales are not just finger gymnasts but rhythm materials.",
+          "pt-BR": "O Enigma 3 é o código rítmico. Mantenha a mesma tonalidade, mas alterne semínimas, tercinas e colcheias swingadas a cada compasso. As notas são as mesmas; o groove muda. Seu objetivo é provar que escalas não são só ginástica de dedos, mas também material rítmico.",
+          "es": "El Reto 3 es el código rítmico. Mantén la misma tonalidad, pero alterna negras, tresillos y corcheas con swing en cada compás. Las notas siguen siendo las mismas; cambia el groove. Tu objetivo es demostrar que las escalas no son solo gimnasia de dedos, sino también material rítmico.",
+          "de": "Rätsel 3 ist der Rhythmuscode. Bleib in derselben Tonart, aber wechsle in jedem Takt zwischen Vierteln, Triolen und geshuffleten Achteln. Die Töne bleiben gleich, der Groove ändert sich. Dein Ziel ist zu beweisen, dass Skalen nicht nur Fingerakrobatik, sondern auch Rhythmusmaterial sind.",
+          "ja": "パズル3はリズムコードです。同じ調のまま、各小節ごとに4分音符、3連符、スウィングした8分音符を切り替えます。音は同じでもグルーヴは変わります。スケールがただの指の体操ではなく、リズム素材でもあることを証明しましょう。",
+          "zh-Hans": "谜题3是“节奏密码”。保持同一个调，每小节轮换四分音符、三连音和 swing 八分音符。音还是那些音，但 groove 变了。你的目标是证明：音阶不只是手指体操，它也是节奏材料。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final escape: build a four-bar mini ending in that key using a scale fragment, a chord, and a strong final tonic. Record it, then check: Did both hands stay balanced? Did the rhythm changes remain steady? Did the scale sound like music by the time the door “opened”?",
+          "pt-BR": "Fuga final: monte um mini final de quatro compassos nessa tonalidade usando um fragmento de escala, um acorde e uma tônica forte no fim. Grave e confira: as duas mãos ficaram equilibradas? As mudanças rítmicas permaneceram firmes? A escala soou como música quando a porta “abriu”?",
+          "es": "Escape final: construye un pequeño cierre de cuatro compases en esa tonalidad usando un fragmento de escala, un acorde y una tónica fuerte al final. Grábalo y comprueba: ¿las dos manos quedaron equilibradas? ¿Los cambios rítmicos siguieron firmes? ¿La escala sonó como música cuando la puerta “se abrió”?",
+          "de": "Finale Flucht: Baue in dieser Tonart einen viertaktigen Mini-Schluss mit einem Skalenfragment, einem Akkord und einem starken Grundton am Ende. Nimm ihn auf und prüfe: Waren beide Hände ausgeglichen? Blieben die Rhythmuswechsel stabil? Klang die Skala wie Musik, als sich die Tür „öffnete“?",
+          "ja": "最後の脱出課題では、その調で4小節の小さなエンディングを作ります。スケール断片、和音、そして最後に強い主音を使ってください。録音したら確認しましょう。両手のバランスは保てたか。リズムの切り替えは安定していたか。扉が「開いた」とき、スケールは音楽として聞こえたか。",
+          "zh-Hans": "最终逃脱：在这个调里写一个 4 小节的小结尾，里面要有一个音阶片段、一个和弦，以及最后稳稳落在主音上。录下来后检查：双手是否平衡？节奏切换是否稳定？当门“打开”时，这条音阶听起来有没有真正像音乐？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-13T00:10:33Z",
+  "updatedAt": "2026-06-13T00:10:33Z"
+}

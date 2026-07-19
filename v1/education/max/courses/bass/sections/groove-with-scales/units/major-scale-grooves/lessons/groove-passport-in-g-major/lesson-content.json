@@ -1,0 +1,73 @@
+{
+  "id": "groove-passport-in-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Think of this lesson as a rhythm passport. Set a drum loop to **92-104 BPM**, stay in **G major**, and write a two-bar groove that starts on **G** and ends with a clear landing on **G** or **D**. Your mission is to keep the same note pool while changing the feel, not the harmony.",
+          "pt-BR": "Pense nesta lição como um passaporte rítmico. Coloque um loop de bateria em **92-104 BPM**, fique em **Sol maior** e escreva um groove de dois compassos que comece em **G** e termine com uma chegada clara em **G** ou **D**. A missão é manter o mesmo conjunto de notas enquanto o feeling muda, não a harmonia.",
+          "es": "Piensa en esta lección como un pasaporte rítmico. Pon un loop de batería a **92-104 BPM**, quédate en **Sol mayor** y escribe un groove de dos compases que empiece en **G** y termine con una llegada clara a **G** o **D**. La misión es mantener el mismo grupo de notas mientras cambia el feel, no la armonía.",
+          "de": "Stell dir diese Lektion als rhythmischen Reisepass vor. Setze einen Drum-Loop auf **92-104 BPM**, bleib in **G-Dur** und schreibe einen Zwei-Takt-Groove, der mit **G** beginnt und mit einer klaren Landung auf **G** oder **D** endet. Deine Mission ist es, denselben Tonvorrat zu behalten, aber das Feeling zu verändern, nicht die Harmonie.",
+          "ja": "このレッスンをリズムのパスポートだと思ってください。ドラムループを **92-104 BPM** に設定し、**Gメジャー** にとどまり、**G** で始まり **G** か **D** に明確に着地する2小節グルーヴを書きます。課題はハーモニーを変えることではなく、同じ音素材のままフィールだけを変えることです。",
+          "zh-Hans": "把这节课想成一本节奏护照。把鼓循环设在 **92-104 BPM**，保持在 **G大调**，写一个两小节 groove：它必须从 **G** 开始，并清楚地落回 **G** 或 **D**。你的任务不是换和声，而是在同一组音里换感觉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Zone 1 is **the runway**: play mostly quarter notes and one short pickup. Focus on making beat 1 feel heavy and trustworthy. If the groove is boring, good—boring and solid is a better starting point than clever and shaky.",
+          "pt-BR": "A zona 1 é **a pista de decolagem**: toque principalmente semínimas e uma nota curta de aproximação. Concentre-se em fazer o tempo 1 soar pesado e confiável. Se o groove parecer simples demais, ótimo — simples e firme é um começo melhor do que esperto e instável.",
+          "es": "La zona 1 es **la pista de despegue**: toca sobre todo negras y una nota corta de entrada. Concéntrate en hacer que el tiempo 1 se sienta pesado y confiable. Si el groove parece demasiado simple, perfecto: simple y sólido es mejor comienzo que ingenioso e inestable.",
+          "de": "Zone 1 ist **die Startbahn**: Spiele hauptsächlich Viertelnoten und einen kurzen Auftakt. Konzentriere dich darauf, dass Schlag 1 schwer und verlässlich wirkt. Wenn der Groove langweilig erscheint, umso besser — langweilig und stabil ist ein besserer Start als clever und wacklig.",
+          "ja": "ゾーン1は **滑走路**。ほとんどを4分音符と短いピックアップ1つで弾きます。1拍目が重くて信頼できるように感じられることに集中してください。グルーヴが退屈に感じても大丈夫。賢いけれど不安定なラインより、単純でも安定したラインのほうが良い出発点です。",
+          "zh-Hans": "区域1是 **跑道**：主要弹四分音符，再加一个短促的引入音。重点是让第1拍听起来厚实、可靠。如果它有点无聊，反而是好事——无聊但稳，比聪明却发飘更适合作为起点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Zone 2 is **the side street**: keep the same notes, but add one eighth-note rest and one ghost note. Now the groove should breathe. The hard part is not adding random noise; the ghost note must support the pocket like a quiet joke, not steal the scene.",
+          "pt-BR": "A zona 2 é **a rua lateral**: mantenha as mesmas notas, mas adicione uma pausa de colcheia e uma ghost note. Agora o groove precisa respirar. A parte difícil é não colocar ruído aleatório; a ghost note deve sustentar o pocket como uma piada discreta, não roubar a cena.",
+          "es": "La zona 2 es **la calle lateral**: mantén las mismas notas, pero añade un silencio de corchea y una ghost note. Ahora el groove debe respirar. La parte difícil es no meter ruido aleatorio; la ghost note debe apoyar el pocket como un chiste discreto, no robarse la escena.",
+          "de": "Zone 2 ist **die Seitenstraße**: Behalte dieselben Töne, aber füge eine Achtelpause und eine Ghost Note hinzu. Jetzt muss der Groove atmen. Der schwierige Teil ist, kein zufälliges Geräusch einzubauen; die Ghost Note soll das Pocket stützen wie ein leiser Witz, nicht die Szene stehlen.",
+          "ja": "ゾーン2は **横道**。同じ音を使いながら、8分休符を1つとゴーストノートを1つ追加します。ここではグルーヴに呼吸が必要です。難しいのは無意味なノイズを増やさないこと。ゴーストノートは静かなジョークのようにポケットを支え、主役を奪ってはいけません。",
+          "zh-Hans": "区域2是 **侧街**：保持同样的音高，但加入一个八分休止和一个幽灵音。现在 groove 要开始呼吸。难点不是堆随机噪音；幽灵音应该像一个轻声玩笑那样支撑 pocket，而不是抢戏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Zone 3 is **the shortcut**: use one passing tone between a root and a chord tone, then place an accent on a different beat than before. Suddenly the same scale degrees feel like a new neighborhood. That is real groove vocabulary: same ingredients, smarter timing.",
+          "pt-BR": "A zona 3 é **o atalho**: use uma nota de passagem entre a tônica e um tom do acorde, depois coloque um acento em outro ponto do compasso. De repente, os mesmos graus da escala parecem outro bairro. Isso é vocabulário real de groove: mesmos ingredientes, timing mais esperto.",
+          "es": "La zona 3 es **el atajo**: usa una nota de paso entre la tónica y un tono del acorde, y luego coloca un acento en otro lugar del compás. De repente, los mismos grados de la escala parecen otro barrio. Eso es vocabulario real de groove: mismos ingredientes, timing más inteligente.",
+          "de": "Zone 3 ist **die Abkürzung**: Nutze einen Durchgangston zwischen Grundton und Akkordton und setze dann einen Akzent auf eine andere Zählzeit als zuvor. Plötzlich fühlen sich dieselben Skalenstufen wie ein neues Viertel an. Das ist echtes Groove-Vokabular: gleiche Zutaten, klügeres Timing.",
+          "ja": "ゾーン3は **近道**。ルートとコードトーンの間に経過音を1つ入れ、そのあと以前とは違う拍にアクセントを置きます。すると同じスケール度数でも、急に別の街のように感じられます。これが本当のグルーヴ語彙です。同じ材料でも、タイミングが賢くなるのです。",
+          "zh-Hans": "区域3是 **捷径**：在根音和一个和弦音之间加入一个经过音，然后把重音放到和之前不同的位置。突然间，同样的音阶级数会像换了一个街区。这就是真正的 groove 语汇：材料不变，时值更聪明。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final checkpoint: record all three zones back to back, then invent a fourth version that borrows **one idea from each**. If it still loops comfortably for a full minute, your passport gets stamped. If not, remove notes until the pocket smiles again.",
+          "pt-BR": "Checkpoint final: grave as três zonas em sequência e depois invente uma quarta versão pegando **uma ideia de cada uma**. Se ela ainda girar confortavelmente por um minuto inteiro, seu passaporte recebe o carimbo. Se não, remova notas até o pocket sorrir de novo.",
+          "es": "Punto de control final: graba las tres zonas seguidas y después inventa una cuarta versión tomando **una idea de cada una**. Si todavía se puede repetir cómodamente durante un minuto completo, tu pasaporte recibe el sello. Si no, quita notas hasta que el pocket vuelva a sonreír.",
+          "de": "Letzter Checkpoint: Nimm alle drei Zonen direkt hintereinander auf und erfinde dann eine vierte Version, die **je eine Idee aus jeder Zone** übernimmt. Wenn sie sich noch eine ganze Minute lang bequem loopen lässt, bekommt dein Pass den Stempel. Wenn nicht, nimm Noten weg, bis das Pocket wieder lächelt.",
+          "ja": "最後のチェックポイント：3つのゾーンを続けて録音し、そのあと **各ゾーンから1つずつアイデア** を借りた4つ目のバージョンを作ります。それが1分間気持ちよくループできるなら、パスポートにスタンプです。もし無理なら、ポケットがまた笑うまで音を減らしてください。",
+          "zh-Hans": "最终检查点：把前三个区域连续录下来，然后发明第四个版本，**从每个区域各借一个想法**。如果它仍然能舒服地循环整整一分钟，你的护照就算盖章通过。要是还不行，就继续减音，直到 pocket 再次笑起来。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-16T00:07:52Z",
+  "updatedAt": "2026-04-16T00:07:52Z"
+}

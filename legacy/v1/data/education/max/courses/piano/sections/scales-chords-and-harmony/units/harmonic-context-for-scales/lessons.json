@@ -82,5 +82,33 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "guide-tones-through-a-ii-v-i-on-piano",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guide Tones Through a ii-V-I on Piano",
+        "pt-BR": "Guide tones em um ii-V-I no piano",
+        "es": "Guide tones en un ii-V-I al piano",
+        "de": "Guide Tones durch ein ii-V-I auf dem Klavier",
+        "ja": "ピアノで ii-V-I を guide tone でつなぐ",
+        "zh-Hans": "在钢琴上用 guide tone 穿过 ii-V-I"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use 3rds and 7ths to make a ii-V-I progression sound connected, smooth, and musical.",
+        "pt-BR": "Use terças e sétimas para fazer um ii-V-I soar conectado, suave e musical.",
+        "es": "Usa terceras y séptimas para que un ii-V-I suene conectado, suave y musical.",
+        "de": "Nutze Terzen und Septimen, damit ein ii-V-I verbunden, weich und musikalisch klingt.",
+        "ja": "3度と7度を使って、ii-V-I を滑らかで音楽的に響かせます。",
+        "zh-Hans": "用三音和七音让 ii-V-I 听起来连贯、顺滑又有音乐性。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-14T00:11:32Z",
+    "updatedAt": "2026-04-14T00:11:32Z"
   }
 ]

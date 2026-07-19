@@ -82,5 +82,117 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "blues-call-and-response-licks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Call-and-Response Licks",
+        "pt-BR": "Licks de blues em pergunta e resposta",
+        "es": "Licks de blues en llamada y respuesta",
+        "de": "Blues-Licks im Call-and-Response",
+        "ja": "ブルースのコール＆レスポンス・リック",
+        "zh-Hans": "布鲁斯呼应式短句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build blues phrasing by trading short licks inside the A minor blues box.",
+        "pt-BR": "Desenvolva fraseado de blues trocando licks curtos dentro do box de Lá menor.",
+        "es": "Construye fraseo de blues intercambiando licks cortos dentro del box de La menor.",
+        "de": "Baue Blues-Phrasierung, indem du kurze Licks im A-Moll-Box tauschst.",
+        "ja": "Aマイナーブルース・ボックス内で短いリックを交換してフレージングを鍛えよう。",
+        "zh-Hans": "在A小调布鲁斯盒型中交换短句，训练布鲁斯乐句感。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-16T00:05:27Z",
+    "updatedAt": "2026-03-16T00:05:27Z"
+  },
+  {
+    "id": "blues-turnaround-target-game",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Turnaround Target Game",
+        "pt-BR": "Jogo de Alvos no Turnaround do Blues",
+        "es": "Juego de objetivos en el turnaround del blues",
+        "de": "Blues-Turnaround-Zielspiel",
+        "ja": "ブルース・ターンアラウンド標的ゲーム",
+        "zh-Hans": "布鲁斯终止式目标游戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your blues phrasing by aiming at strong turnaround notes in A.",
+        "pt-BR": "Treine seu fraseado de blues mirando notas fortes do turnaround em Lá.",
+        "es": "Entrena tu fraseo de blues apuntando a notas fuertes del turnaround en La.",
+        "de": "Trainiere deine Blues-Phrasierung, indem du in A starke Turnaround-Töne ansteuerst.",
+        "ja": "Aのブルースで強いターンアラウンド音を狙い、フレージングを鍛えよう。",
+        "zh-Hans": "在A布鲁斯中瞄准强终止音，训练你的乐句控制。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-15T00:04:12Z",
+    "updatedAt": "2026-04-15T00:04:12Z"
+  },
+  {
+    "id": "blues-exit-ramp-in-a",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Exit Ramp in A",
+        "pt-BR": "Saída de Blues em Lá",
+        "es": "Salida de Blues en La",
+        "de": "Blues-Ausfahrt in A",
+        "ja": "Aブルースの出口ランプ",
+        "zh-Hans": "A布鲁斯出口匝道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape scale autopilot by aiming blues phrases at smart landing notes in A.",
+        "pt-BR": "Saia do piloto automático da escala mirando frases de blues em notas de chegada inteligentes em Lá.",
+        "es": "Sal de la escala en piloto automático apuntando tus frases de blues a notas de llegada inteligentes en La.",
+        "de": "Verlasse den Skalen-Autopiloten und lande deine Blues-Phrasen bewusst auf starken Zieltönen in A.",
+        "ja": "Aのブルースで着地点を意識し、スケールの自動運転から抜け出そう。",
+        "zh-Hans": "让你的布鲁斯乐句有意识地落在目标音上，摆脱机械跑音阶。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-06-04T00:07:09Z",
+    "updatedAt": "2026-06-04T00:07:09Z"
+  },
+  {
+    "id": "blues-signal-flares-in-a",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Signal Flares in A",
+        "pt-BR": "Sinalizadores de Blues em Lá",
+        "es": "Bengalas de Blues en La",
+        "de": "Blues-Signalraketen in A",
+        "ja": "Aブルースのシグナルフレア",
+        "zh-Hans": "A布鲁斯信号弹"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Fire short blues ideas that grab attention, create tension, and land with control in A.",
+        "pt-BR": "Dispare frases curtas de blues que chamam atenção, criam tensão e aterrissam com controle em Lá.",
+        "es": "Lanza frases cortas de blues que llamen la atención, creen tensión y aterricen con control en La.",
+        "de": "Schieße kurze Blues-Ideen ab, die Aufmerksamkeit holen, Spannung erzeugen und kontrolliert in A landen.",
+        "ja": "注意を引き、緊張を作り、Aでしっかり着地する短いブルースフレーズを放とう。",
+        "zh-Hans": "发射短小有力的布鲁斯乐句，在A中抓住注意力、制造张力并稳稳落点。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-06-10T00:06:36Z",
+    "updatedAt": "2026-06-10T00:06:36Z"
   }
 ]

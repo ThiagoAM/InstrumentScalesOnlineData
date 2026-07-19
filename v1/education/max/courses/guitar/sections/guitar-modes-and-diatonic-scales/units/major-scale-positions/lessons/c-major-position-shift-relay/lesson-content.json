@@ -1,0 +1,73 @@
+{
+  "id": "c-major-position-shift-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warmup (2 min): Choose two adjacent C major positions. Play each for two bars at 60–80 bpm, saying the position numbers out loud. Aim for relaxed hands and clean tone.",
+          "pt-BR": "Aquecimento (2 min): Escolha duas posições adjacentes de Dó maior. Toque cada uma por dois compassos a 60–80 bpm, dizendo os números das posições em voz alta. Busque mãos relaxadas e timbre limpo.",
+          "es": "Calentamiento (2 min): Elige dos posiciones adyacentes de Do mayor. Toca cada una por dos compases a 60–80 bpm, diciendo en voz alta los números de posición. Busca manos relajadas y tono limpio.",
+          "de": "Warm-up (2 Min): Wähle zwei benachbarte C-Dur-Positionen. Spiele jede zwei Takte bei 60–80 bpm und sage die Positionsnummern laut. Ziel: entspannte Hände und sauberer Ton.",
+          "ja": "ウォームアップ（2分）：隣り合うCメジャーの2つのポジションを選ぶ。各ポジションを2小節、60〜80 bpmで弾き、ポジション番号を声に出す。手の力を抜いてクリアな音を目指す。",
+          "zh-Hans": "热身（2分钟）：选择相邻的两个C大调位置。每个位置弹两小节，60–80 bpm，边弹边说出位置编号。目标是放松的手感和干净的音色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Relay exercise: Use the 4‑note cell C–D–E–G. Play it twice in position 1, then shift to position 2 on beat 3. Slide a guide finger to keep the sound connected. Continue through four positions.",
+          "pt-BR": "Exercício de revezamento: Use o padrão de 4 notas Dó–Ré–Mi–Sol. Toque duas vezes na posição 1 e mude para a posição 2 no tempo 3. Deslize um dedo guia para manter o som ligado. Continue por quatro posições.",
+          "es": "Ejercicio de relevo: Usa la célula de 4 notas Do–Re–Mi–Sol. Tócala dos veces en la posición 1 y cambia a la posición 2 en el pulso 3. Desliza un dedo guía para mantener el sonido conectado. Continúa por cuatro posiciones.",
+          "de": "Staffel-Übung: Nutze die 4‑Noten‑Zelle C–D–E–G. Spiele sie zweimal in Position 1 und wechsle auf Schlag 3 in Position 2. Gleite mit einem Führungsfinger, damit der Klang verbunden bleibt. Setze das durch vier Positionen fort.",
+          "ja": "リレー練習：4音セル C–D–E–G を使う。ポジション1で2回弾いたら、3拍目でポジション2へ移動。ガイドフィンガーを滑らせて音を繋ぐ。4つのポジションまで続ける。",
+          "zh-Hans": "接力练习：使用4音单元 C–D–E–G。先在位置1弹两遍，在第3拍换到位置2。用导指滑动保持连贯。继续穿过四个位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: Shift on accents. Set the metronome to 70–90 bpm, accent beats 2 and 4, and only shift on the accented beats. Miss the accent? Restart. Add light palm‑mute for control.",
+          "pt-BR": "Desafio: troque nas acentuações. Ajuste o metrônomo para 70–90 bpm, acentue os tempos 2 e 4 e só mude nas batidas acentuadas. Errou o acento? Recomece. Adicione palm mute leve para controle.",
+          "es": "Desafío: cambia en los acentos. Pon el metrónomo a 70–90 bpm, acentúa los tiempos 2 y 4 y cambia solo en los acentos. ¿Fallaste? Reinicia. Añade un palm mute ligero para control.",
+          "de": "Challenge: Wechsle nur auf Akzenten. Metronom auf 70–90 bpm, Akzente auf 2 und 4, und nur dort wechseln. Akzent verpasst? Neustart. Leichtes Palm-Mute für Kontrolle.",
+          "ja": "チャレンジ：アクセントで移動。メトロノームを70〜90 bpmに設定し、2拍目と4拍目にアクセント。アクセントの拍だけで移動する。失敗したらやり直し。軽いパームミュートでコントロール。",
+          "zh-Hans": "挑战：在重音处换把。节拍器设为70–90 bpm，重音放在第2与第4拍，只能在重音拍换把。错了就重来。加入轻微掌根闷音控制。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Musical application: Over a I–IV–V in C (C–F–G), improvise two‑bar phrases. Start each phrase on a chord tone, then connect to the next position with a scale run.",
+          "pt-BR": "Aplicação musical: Sobre um I–IV–V em Dó (C–F–G), improvise frases de dois compassos. Comece cada frase em uma nota do acorde e conecte à próxima posição com um trecho de escala.",
+          "es": "Aplicación musical: Sobre un I–IV–V en Do (C–F–G), improvisa frases de dos compases. Empieza cada frase en un tono del acorde y conecta a la siguiente posición con una corrida de escala.",
+          "de": "Musikalische Anwendung: Über eine I–IV–V in C (C–F–G) improvisiere Zwei‑Takt‑Phrasen. Starte jede Phrase auf einem Akkordton und verbinde zur nächsten Position mit einem Skalenlauf.",
+          "ja": "音楽的応用：CのI–IV–V（C–F–G）の上で2小節フレーズを即興。各フレーズをコードトーンから始め、スケールランで次のポジションへ繋ぐ。",
+          "zh-Hans": "音乐应用：在C的 I–IV–V（C–F–G）上即兴两小节乐句。每个乐句从和弦音开始，再用音阶跑动连接到下一个位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: Record 1 minute at 90 bpm. Listen for zero buzzes, smooth shift noise, and steady time. If it’s messy, drop 10 bpm and retry.",
+          "pt-BR": "Checkpoint: Grave 1 minuto a 90 bpm. Ouça: zero trastejamentos, ruído de troca suave e tempo firme. Se ficar bagunçado, reduza 10 bpm e tente de novo.",
+          "es": "Checkpoint: Graba 1 minuto a 90 bpm. Escucha: cero zumbidos, ruido de cambio suave y tiempo estable. Si está desordenado, baja 10 bpm y repite.",
+          "de": "Checkpoint: Nimm 1 Minute bei 90 bpm auf. Achte auf keine Schnarrgeräusche, sanfte Wechselgeräusche und stabiles Timing. Wenn’s holprig ist, 10 bpm runter und erneut.",
+          "ja": "チェックポイント：90 bpmで1分録音。ビビりなし、移動ノイズが滑らか、タイムが安定しているか確認。乱れるなら10 bpm下げて再挑戦。",
+          "zh-Hans": "检查点：以90 bpm录1分钟。听是否无杂音、换把噪音顺滑、节拍稳定。若凌乱，降10 bpm再来。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-31T00:05:54Z",
+  "updatedAt": "2026-03-31T00:05:54Z"
+}

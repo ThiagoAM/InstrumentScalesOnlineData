@@ -1,0 +1,86 @@
+{
+  "id": "pocket-relay-in-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns one groove into a relay race. You will stay in **G major** and pass the groove through three jobs: **anchor**, **runner**, and **finisher**. The anchor locks roots and strong beats, the runner adds motion with stepwise scale notes, and the finisher seals the bar with a clear landing. Your mission is to switch roles without losing the pocket.",
+          "pt-BR": "Esta lição transforma um groove em uma corrida de revezamento. Você vai ficar em **Sol maior** e passar o groove por três funções: **âncora**, **corredor** e **fechador**. A âncora trava tônicas e tempos fortes, o corredor cria movimento com notas conjuntas da escala, e o fechador sela o compasso com uma chegada clara. Sua missão é trocar de função sem perder o pocket.",
+          "es": "Esta lección convierte un groove en una carrera de relevos. Te quedarás en **Sol mayor** y harás pasar el groove por tres trabajos: **ancla**, **corredor** y **rematador**. El ancla fija tónicas y pulsos fuertes, el corredor añade movimiento con notas conjuntas de la escala, y el rematador cierra el compás con una llegada clara. Tu misión es cambiar de papel sin perder el pocket.",
+          "de": "Diese Lektion macht aus einem Groove ein Staffelrennen. Du bleibst in **G-Dur** und gibst den Groove durch drei Rollen weiter: **Anker**, **Läufer** und **Schließer**. Der Anker fixiert Grundtöne und starke Zählzeiten, der Läufer bringt Bewegung mit schrittweisen Skalentönen, und der Schließer beendet den Takt mit einer klaren Landung. Deine Aufgabe ist, die Rollen zu wechseln, ohne das Pocket zu verlieren.",
+          "ja": "このレッスンでは、1つのグルーヴをリレー競走のように扱います。舞台は **Gメジャー**。グルーヴを **アンカー**、**ランナー**、**フィニッシャー** という3つの役割で回していきます。アンカーはルートと強拍を固め、ランナーは順次進行のスケール音で動きを作り、フィニッシャーは小節をはっきり着地させます。役割が変わってもポケットを失わないことがミッションです。",
+          "zh-Hans": "这节课把一个 groove 变成接力赛。你会一直待在 **G 大调**，并让律动在三个角色之间轮换：**锚点手**、**奔跑手**、**收尾手**。锚点手负责锁住根音和强拍，奔跑手用音阶级进制造流动，收尾手把小节清楚落地。你的任务是在角色切换时，仍然不丢 pocket。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome or drum loop to **84-96 BPM**. Build a two-bar pattern. In bar 1 beat 1, always start with **G**. On beat 3, aim for **D** or **B**. In bar 2, use at least one passing tone from the scale before returning to **G**. Keep your note lengths short and consistent so the groove feels danceable rather than cluttered.",
+          "pt-BR": "Coloque um metrônomo ou loop de bateria em **84-96 BPM**. Monte um padrão de dois compassos. No tempo 1 do compasso 1, comece sempre em **G**. No tempo 3, mire em **D** ou **B**. No compasso 2, use pelo menos uma nota de passagem da escala antes de voltar para **G**. Mantenha as durações curtas e consistentes para o groove soar dançante, não embolado.",
+          "es": "Pon un metrónomo o loop de batería en **84-96 BPM**. Construye un patrón de dos compases. En el tiempo 1 del compás 1, empieza siempre con **G**. En el tiempo 3, apunta a **D** o **B**. En el compás 2 usa al menos una nota de paso de la escala antes de volver a **G**. Mantén las duraciones cortas y consistentes para que el groove baile en vez de amontonarse.",
+          "de": "Stell Metronom oder Drum-Loop auf **84-96 BPM**. Baue ein Zwei-Takt-Muster. Auf Schlag 1 von Takt 1 startest du immer mit **G**. Auf Schlag 3 zielst du auf **D** oder **B**. In Takt 2 verwendest du mindestens einen Durchgangston aus der Skala, bevor du zu **G** zurückkehrst. Halte die Notenlängen kurz und gleichmäßig, damit der Groove tanzbar und nicht überladen wirkt.",
+          "ja": "メトロノームかドラムループを **84-96 BPM** に設定します。2小節パターンを作りましょう。1小節目の1拍目は必ず **G** で始めます。3拍目は **D** か **B** を狙います。2小節目では、**G** に戻る前に少なくとも1つスケールの経過音を入れてください。音価は短くそろえ、詰め込みすぎず踊れる感触を保ちます。",
+          "zh-Hans": "把节拍器或鼓循环设在 **84-96 BPM**。先做一个两小节型。第1小节第1拍必须从 **G** 开始，第3拍要落向 **D** 或 **B**。第2小节里，回到 **G** 之前至少加一个音阶经过音。把音值控制得短而整齐，让 groove 有舞动感，而不是一团乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **anchor round**. Use mostly roots, fifths, and octaves, and leave at least one eighth-note rest in each bar. The challenge is to sound strong without filling every gap. If your groove starts sounding stiff, lighten your attack and let the silence work for you.",
+          "pt-BR": "A rodada 1 é a rodada da **âncora**. Use principalmente tônicas, quintas e oitavas, e deixe pelo menos uma pausa de colcheia em cada compasso. O desafio é soar forte sem preencher todos os espaços. Se o groove começar a ficar duro demais, alivie o ataque e deixe o silêncio trabalhar a seu favor.",
+          "es": "La ronda 1 es la ronda del **ancla**. Usa sobre todo tónicas, quintas y octavas, y deja al menos un silencio de corchea en cada compás. El desafío es sonar sólido sin rellenar todos los huecos. Si el groove empieza a sentirse rígido, suaviza el ataque y deja que el silencio haga parte del trabajo.",
+          "de": "Runde 1 ist die **Anker-Runde**. Nutze vor allem Grundton, Quinte und Oktave und lass in jedem Takt mindestens eine Achtelpause. Die Herausforderung ist, kraftvoll zu klingen, ohne jede Lücke zu füllen. Wenn der Groove steif wirkt, nimm den Anschlag etwas zurück und lass die Stille mitarbeiten.",
+          "ja": "ラウンド1は **アンカー・ラウンド** です。主にルート、5度、オクターブを使い、各小節に少なくとも1つ8分休符を入れます。課題は、すべてを埋めずに力強く聴かせること。グルーヴが固くなったら、アタックを少し軽くして、無音にも仕事をさせましょう。",
+          "zh-Hans": "第1轮是 **锚点轮**。主要使用根音、五度和八度，并且每小节至少留出一个八分休止。挑战在于，不把所有空隙塞满，也能让声音稳而有力。如果 groove 开始发硬，就放轻一点右手，让沉默也参与进来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **runner round**. Keep the same rhythmic skeleton, but replace one long note in each bar with a short scale run of two or three notes. The run must connect smoothly to the next strong beat. If the line rushes, shrink the run instead of forcing it.",
+          "pt-BR": "A rodada 2 é a rodada do **corredor**. Mantenha o mesmo esqueleto rítmico, mas troque uma nota longa de cada compasso por uma corrida curta de duas ou três notas da escala. Essa corrida deve levar com naturalidade ao próximo tempo forte. Se a linha começar a correr demais, encurte a passagem em vez de forçar.",
+          "es": "La ronda 2 es la ronda del **corredor**. Mantén el mismo esqueleto rítmico, pero sustituye una nota larga de cada compás por una carrera corta de dos o tres notas de la escala. Esa carrera debe conectar de forma natural con el siguiente pulso fuerte. Si la línea se acelera, acorta la carrera en vez de forzarla.",
+          "de": "Runde 2 ist die **Läufer-Runde**. Behalte dasselbe rhythmische Skelett, ersetze aber in jedem Takt einen langen Ton durch einen kurzen Lauf aus zwei oder drei Skalentönen. Dieser Lauf muss sauber in die nächste starke Zählzeit führen. Wenn die Linie zu eilig wird, verkürze den Lauf statt ihn zu erzwingen.",
+          "ja": "ラウンド2は **ランナー・ラウンド** です。リズムの骨格はそのままに、各小節の長い音1つを、2音または3音の短いスケール・ランに置き換えます。そのランは次の強拍へ自然につながらなければなりません。走りすぎるなら、無理をせずランを短くしてください。",
+          "zh-Hans": "第2轮是 **奔跑轮**。保持同样的节奏骨架，但把每小节一个长音换成两到三个音组成的短音阶跑动。这个跑动必须顺畅地把你带到下一个强拍。如果线条开始抢拍，就缩短跑动，不要硬冲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **finisher round**. In the last beat of each bar, choose one ending move: a ghost note pickup, a step down into the target note, or an octave bounce. Rotate those endings across four repetitions. The point is to create variety while still making the groove feel like the same song.",
+          "pt-BR": "A rodada 3 é a rodada do **fechador**. No último tempo de cada compasso, escolha um tipo de final: aproximação com ghost note, passo descendente até a nota alvo ou salto de oitava. Vá alternando esses finais ao longo de quatro repetições. A ideia é criar variedade sem fazer o groove parecer outra música.",
+          "es": "La ronda 3 es la ronda del **rematador**. En el último tiempo de cada compás elige un cierre: ghost note de arrastre, paso descendente hacia la nota objetivo o rebote de octava. Ve rotando esos finales durante cuatro repeticiones. La idea es crear variedad sin que el groove deje de sonar como la misma canción.",
+          "de": "Runde 3 ist die **Schließer-Runde**. Wähle auf der letzten Zählzeit jedes Takts einen Abschluss: Ghost-Note-Auftakt, einen Schritt nach unten in den Zielton oder einen Oktav-Sprung. Wechsle diese Endungen über vier Wiederholungen hinweg ab. So entsteht Abwechslung, ohne dass der Groove wie ein anderes Stück klingt.",
+          "ja": "ラウンド3は **フィニッシャー・ラウンド** です。各小節の最後の拍で、ゴーストノートの拾い、目標音へ下がって入る形、オクターブの跳ね返り、のどれかを選びます。4回の繰り返しでその終わり方を回していきましょう。狙いは、同じ曲らしさを保ったまま変化を作ることです。",
+          "zh-Hans": "第3轮是 **收尾轮**。在每小节最后一拍，从三种结尾动作里选一个：幽灵音引入、向目标音下行一步、或者八度弹跳。在四次重复中轮换这些结尾。重点是制造变化，但仍然让人觉得这是同一首 groove。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now combine all three jobs in one four-bar loop: bar 1 anchor, bar 2 runner, bar 3 anchor with a new accent pattern, bar 4 finisher. Record yourself and listen for two things: does beat 1 always feel trustworthy, and do the fills improve the groove instead of distracting from it? Great bass playing wins the relay by handing energy forward, not by showing off alone.",
+          "pt-BR": "Agora junte as três funções em um loop de quatro compassos: compasso 1 âncora, compasso 2 corredor, compasso 3 âncora com um novo padrão de acentos, compasso 4 fechador. Grave e escute duas coisas: o tempo 1 continua confiável, e os fills melhoram o groove em vez de chamar atenção demais? Um grande baixista vence o revezamento passando energia para frente, não tentando ganhar sozinho.",
+          "es": "Ahora combina los tres trabajos en un loop de cuatro compases: compás 1 ancla, compás 2 corredor, compás 3 ancla con un nuevo patrón de acentos, compás 4 rematador. Grábate y escucha dos cosas: ¿el tiempo 1 sigue siendo confiable?, ¿los fills mejoran el groove en lugar de distraer? Un gran bajista gana el relevo entregando energía hacia delante, no luciéndose en solitario.",
+          "de": "Jetzt kombinierst du alle drei Rollen in einem Vier-Takt-Loop: Takt 1 Anker, Takt 2 Läufer, Takt 3 Anker mit neuem Akzentmuster, Takt 4 Schließer. Nimm dich auf und achte auf zwei Dinge: Fühlt sich Schlag 1 immer zuverlässig an, und verbessern die Fills den Groove statt ihn abzulenken? Großes Bassspiel gewinnt die Staffel, indem es Energie weiterreicht — nicht indem es allein glänzen will.",
+          "ja": "最後に3つの役割を1つの4小節ループにまとめます。1小節目はアンカー、2小節目はランナー、3小節目は新しいアクセントでアンカー、4小節目はフィニッシャーです。録音して、1拍目がいつも信頼できるか、フィルがグルーヴを良くしているかを確認してください。優れたベースは、ひとりで目立つより、エネルギーを次へ受け渡してリレーを勝ちます。",
+          "zh-Hans": "现在把三个角色合并进一个4小节循环：第1小节锚点，第2小节奔跑，第3小节带新重音型的锚点，第4小节收尾。录下来，检查两件事：第1拍是否始终可靠？填充句是在提升 groove，还是在分散注意力？伟大的贝斯手赢下这场接力，不是靠独自炫技，而是靠把能量稳稳传下去。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-13T00:07:02Z",
+  "updatedAt": "2026-04-13T00:07:02Z"
+}

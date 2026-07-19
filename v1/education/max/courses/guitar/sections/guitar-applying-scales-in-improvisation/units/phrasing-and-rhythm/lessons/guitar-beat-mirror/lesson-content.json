@@ -1,0 +1,86 @@
+{
+  "id": "guitar-beat-mirror",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your job today is to turn the **A Dorian scale** (A B C D E F# G) into a hall of mirrors. Work in one position you know well, set a metronome to **84-96 BPM**, and imagine every phrase has a twin that answers it with a tiny rhythmic twist instead of a full rewrite.",
+          "pt-BR": "Sua missão hoje é transformar a **escala de Lá dórico** (A B C D E F# G) em um salão de espelhos. Trabalhe em uma posição que você já conhece bem, ajuste o metrônomo para **84-96 BPM** e imagine que cada frase tem uma gêmea que responde com uma pequena torção rítmica, em vez de uma reescrita completa.",
+          "es": "Tu misión de hoy es convertir la **escala de La dórico** (A B C D E F# G) en una sala de espejos. Trabaja en una posición que ya conozcas bien, pon el metrónomo entre **84-96 BPM** e imagina que cada frase tiene una gemela que responde con un pequeño giro rítmico en vez de una reescritura total.",
+          "de": "Deine Aufgabe heute ist es, die **A-dorische Tonleiter** (A B C D E F# G) in einen Spiegelsaal zu verwandeln. Arbeite in einer Lage, die du gut kennst, stell das Metronom auf **84-96 BPM** und stell dir vor, jede Phrase hat einen Zwilling, der mit einer kleinen rhythmischen Drehung antwortet statt mit einem kompletten Neustart.",
+          "ja": "今日のミッションは、**Aドリアン・スケール**（A B C D E F# G）を鏡の迷宮に変えることです。よく知っているポジションで弾き、メトロノームを **84-96 BPM** に設定してください。どのフレーズにも双子がいて、完全に書き直す代わりに小さなリズムのひねりで返事をする、と考えましょう。",
+          "zh-Hans": "今天的任务，是把 **A 多利亚音阶**（A B C D E F# G）变成一座镜厅。选一个你熟悉的把位，把节拍器设在 **84-96 BPM**，并把每句都想成有个“双胞胎”——它不是完全重写，而是用一个小小的节奏扭转来回答。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **clean mirror**. Play a 1-bar phrase, then repeat the same notes in bar 2 while changing only one thing:\n- move the start by an eighth note\n- add one rest\n- place one stronger accent\n\nDo 5 pairs that still sound related, not random.",
+          "pt-BR": "A Rodada 1 é o **espelho limpo**. Toque uma frase de 1 compasso e depois repita as mesmas notas no compasso 2 mudando só uma coisa:\n- desloque a entrada em uma colcheia\n- adicione uma pausa\n- coloque um acento mais forte\n\nFaça 5 pares que ainda soem parentes, não aleatórios.",
+          "es": "La Ronda 1 es el **espejo limpio**. Toca una frase de 1 compás y luego repite las mismas notas en el compás 2 cambiando solo una cosa:\n- mover el inicio una corchea\n- añadir un silencio\n- poner un acento más fuerte\n\nHaz 5 parejas que sigan sonando emparentadas y no aleatorias.",
+          "de": "Runde 1 ist der **saubere Spiegel**. Spiele eine 1-taktige Phrase und wiederhole dann in Takt 2 dieselben Töne, wobei du nur eine Sache änderst:\n- den Einsatz um eine Achtel verschieben\n- eine Pause hinzufügen\n- einen stärkeren Akzent setzen\n\nSpiele 5 Paare, die verwandt und nicht zufällig klingen.",
+          "ja": "ラウンド1は **クリーン・ミラー** です。1小節のフレーズを弾いたら、2小節目で同じ音を繰り返し、次のうち1つだけを変えます。\n- 出だしを8分音符ぶんずらす\n- 休符を1つ加える\n- 1つだけ強いアクセントを置く\n\n関係のあるペアに聞こえるテイクを5組作りましょう。",
+          "zh-Hans": "第1轮是 **干净镜像**。先弹一个1小节乐句，再在第2小节重复同样的音，只改一件事：\n- 把开头挪后一个八分音符\n- 加一个休止\n- 放一个更强的重音\n\n做出5组仍然像一家人、而不是乱来的配对。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **crooked mirror**. Keep the first half of your phrase the same, but change the ending so it lands on a different stable note from **A, C, or E**. The listener should hear the family resemblance and the new destination.",
+          "pt-BR": "A Rodada 2 é o **espelho torto**. Mantenha a primeira metade da frase igual, mas mude o final para aterrissar em outra nota estável entre **A, C ou E**. O ouvinte deve perceber a semelhança de família e o novo destino.",
+          "es": "La Ronda 2 es el **espejo torcido**. Mantén igual la primera mitad de la frase, pero cambia el final para caer en otra nota estable entre **A, C o E**. El oyente debe oír el parecido familiar y el nuevo destino.",
+          "de": "Runde 2 ist der **schiefe Spiegel**. Behalte die erste Hälfte der Phrase bei, ändere aber das Ende, damit es auf einem anderen stabilen Ton aus **A, C oder E** landet. Man soll die Familienähnlichkeit und das neue Ziel hören.",
+          "ja": "ラウンド2は **ゆがんだ鏡** です。フレーズ前半はそのままにして、終わりだけ変え、**A、C、E** の別の安定した音へ着地させます。聞き手には血縁関係と新しい行き先の両方が聞こえるべきです。",
+          "zh-Hans": "第2轮是 **歪镜像**。前半句保持不变，只改结尾，让它落在 **A、C 或 E** 中另一个稳定音上。听众应该既能听出血缘关系，也能听出新的落点方向。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **speed trap**. Use only 4 to 6 notes per phrase. If you rush, you lose the mirror effect. Let the rhythm do the interesting work while the scale notes stay simple and clean.",
+          "pt-BR": "A Rodada 3 é a **armadilha de velocidade**. Use apenas 4 a 6 notas por frase. Se você correr, perde o efeito de espelho. Deixe o ritmo fazer o trabalho interessante enquanto as notas da escala continuam simples e limpas.",
+          "es": "La Ronda 3 es la **trampa de velocidad**. Usa solo 4 a 6 notas por frase. Si te apresuras, pierdes el efecto espejo. Deja que el ritmo haga el trabajo interesante mientras las notas de la escala se mantienen simples y limpias.",
+          "de": "Runde 3 ist die **Tempofalle**. Nutze nur 4 bis 6 Töne pro Phrase. Wenn du hetzt, verschwindet der Spiegeleffekt. Lass den Rhythmus die interessante Arbeit machen, während die Skalentöne einfach und sauber bleiben.",
+          "ja": "ラウンド3は **スピードのわな** です。1フレーズにつき使う音は4〜6音だけにしてください。急ぐと鏡の効果が消えます。音階音はシンプルでクリーンなままにして、面白さはリズムに任せましょう。",
+          "zh-Hans": "第3轮是 **速度陷阱**。每句只用4到6个音。你一着急，镜像效果就没了。让节奏承担有趣的部分，而音阶音保持简单、干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: create **three 2-bar call-and-answer solos** where bar 1 is the original phrase and bar 2 is its mirror. In each solo, use:\n- one rest that creates suspense\n- one accent that changes the energy\n- one ending that feels deliberate",
+          "pt-BR": "Rodada chefão: crie **três solos de pergunta e resposta com 2 compassos** em que o compasso 1 é a frase original e o compasso 2 é o espelho dela. Em cada solo, use:\n- uma pausa que crie suspense\n- um acento que mude a energia\n- um final que soe intencional",
+          "es": "Ronda jefe: crea **tres solos de llamada y respuesta de 2 compases** donde el compás 1 sea la frase original y el compás 2 su espejo. En cada solo usa:\n- un silencio que cree suspenso\n- un acento que cambie la energía\n- un final que se sienta deliberado",
+          "de": "Boss-Runde: Erfinde **drei 2-taktige Call-and-Answer-Soli**, bei denen Takt 1 die Originalphrase und Takt 2 ihr Spiegel ist. In jedem Solo verwendest du:\n- eine Pause, die Spannung erzeugt\n- einen Akzent, der die Energie verändert\n- ein Ende, das bewusst wirkt",
+          "ja": "ボスラウンド: **2小節のコール＆レスポンス・ソロを3つ** 作ります。1小節目が元のフレーズ、2小節目がその鏡です。各ソロには次を入れてください。\n- サスペンスを作る休符\n- エネルギーを変えるアクセント\n- 意図が伝わる終わり方",
+          "zh-Hans": "Boss轮：创作 **3个两小节的问答式独奏**，第1小节是原句，第2小节是它的镜像。每个独奏都要包含：\n- 一个制造悬念的休止\n- 一个改变能量的重音\n- 一个听起来很有主意的结尾"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Debrief:\n- Which rhythmic change made the mirror sound most musical?\n- Did my answer phrase stay connected to the original?\n- Where did I drift back into a plain scale run?\n\nFinal upgrade: move the whole challenge to **E minor** and keep the same mirror rules. If the phrases still sound like siblings, your rhythm control is getting serious. 🎸",
+          "pt-BR": "Revisão:\n- Qual mudança rítmica fez o espelho soar mais musical?\n- Minha frase de resposta continuou conectada à original?\n- Em que momento voltei para uma corrida de escala comum?\n\nDesafio final: leve tudo para **Mi menor** e mantenha as mesmas regras de espelho. Se as frases ainda soarem como irmãs, seu controle rítmico está ficando sério. 🎸",
+          "es": "Revisión:\n- ¿Qué cambio rítmico hizo que el espejo sonara más musical?\n- ¿Mi frase de respuesta siguió conectada con la original?\n- ¿En qué momento volví a una simple carrera de escala?\n\nMejora final: mueve todo el reto a **Mi menor** y conserva las mismas reglas del espejo. Si las frases todavía suenan como hermanas, tu control rítmico va en serio. 🎸",
+          "de": "Rückblick:\n- Welche rhythmische Änderung machte den Spiegel am musikalischsten?\n- Blieb meine Antwortphrase mit dem Original verbunden?\n- Wo bin ich wieder in einen bloßen Skalenlauf gerutscht?\n\nLetztes Upgrade: Verschiebe die ganze Aufgabe nach **E-Moll** und behalte dieselben Spiegelregeln. Wenn die Phrasen immer noch wie Geschwister klingen, wird deine Rhythmuskontrolle richtig stark. 🎸",
+          "ja": "振り返り:\n- どのリズム変化がいちばん音楽的な鏡になりましたか？\n- 返答フレーズは元のフレーズとつながっていましたか？\n- どこでただのスケール走りに戻ってしまいましたか？\n\n最後のアップグレード: 全体を **Eマイナー** に移し、同じ鏡のルールを保ちましょう。それでもフレーズが兄弟のように聞こえるなら、あなたのリズムコントロールはかなり強くなっています。🎸",
+          "zh-Hans": "复盘：\n- 哪种节奏变化让镜像最有音乐感？\n- 我的回答句有没有和原句保持联系？\n- 我在哪一刻又滑回了普通的音阶跑动？\n\n最终升级：把整个挑战移到 **E 小调**，并保持同样的镜像规则。如果这些句子依然像兄弟姐妹一样相关，说明你的节奏控制真的在变强。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-12T00:08:09Z",
+  "updatedAt": "2026-05-12T00:08:09Z"
+}

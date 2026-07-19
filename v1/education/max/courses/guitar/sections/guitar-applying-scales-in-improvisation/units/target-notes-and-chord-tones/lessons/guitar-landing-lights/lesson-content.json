@@ -1,0 +1,73 @@
+{
+  "id": "guitar-landing-lights",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission\nYou are guiding solos onto a runway tonight. Work in **A Dorian** over **Am7 - D7** at **82-96 BPM** and stay in one fretboard area.\n\nYour landing lights are **C** and **F#**. Every phrase must clearly point at one of them before the bar ends.",
+          "pt-BR": "### Missão\nHoje você vai guiar solos até a pista de pouso. Trabalhe em **Lá dórico** sobre **Am7 - D7** a **82-96 BPM** e fique em uma única região do braço.\n\nSuas luzes de pouso são **C** e **F#**. Cada frase precisa apontar com clareza para uma delas antes do fim do compasso.",
+          "es": "### Misión\nHoy vas a guiar solos hacia una pista de aterrizaje. Trabaja en **La dórico** sobre **Am7 - D7** a **82-96 BPM** y quédate en una sola zona del diapasón.\n\nTus luces de aterrizaje son **C** y **F#**. Cada frase debe apuntar con claridad a una de ellas antes de terminar el compás.",
+          "de": "### Mission\nHeute lotst du Soli auf eine Landebahn. Arbeite in **A-Dorisch** über **Am7 - D7** bei **82-96 BPM** und bleibe in einer einzigen Griffbrettlage.\n\nDeine Landelichter sind **C** und **F#**. Jede Phrase muss vor Taktende klar auf einen dieser Töne zusteuern.",
+          "ja": "### ミッション\n今夜はソロを滑走路へ導きます。**Aドリアン**、進行は **Am7 - D7**、テンポは **82-96 BPM**。使うポジションは指板上の1か所に絞りましょう。\n\n着地ライトは **C** と **F#** です。どのフレーズも、小節の終わりまでにどちらかへはっきり向かっていなければいけません。",
+          "zh-Hans": "### 任务\n今晚你要把独奏安全引导到跑道上。使用 **A 多利亚**，在 **Am7 - D7** 上练习，速度设为 **82-96 BPM**，并且始终待在同一块指板区域。\n\n你的着陆灯是 **C** 和 **F#**。每条乐句都必须在小节结束前清楚地指向其中一个音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Warm up the runway\nPlay **six 1-bar phrases** using only **quarter notes and eighth notes**. On beat **1**, start from any A Dorian note that is **not** C or F#.\n\nYour job is to land on **C** or **F#** by beat **4** without sounding rushed. If the target feels accidental, slow down and sing the line before you play it.",
+          "pt-BR": "### Aqueça a pista\nToque **seis frases de 1 compasso** usando apenas **semínimas e colcheias**. No tempo **1**, comece em qualquer nota de Lá dórico que **não** seja C nem F#.\n\nSua tarefa é pousar em **C** ou **F#** até o tempo **4** sem soar apressado. Se a nota-alvo parecer acidental, diminua o tempo e cante a linha antes de tocar.",
+          "es": "### Calienta la pista\nToca **seis frases de 1 compás** usando solo **negras y corcheas**. En el tiempo **1**, empieza desde cualquier nota de La dórico que **no** sea C ni F#.\n\nTu tarea es aterrizar en **C** o **F#** antes del tiempo **4** sin sonar apurado. Si el objetivo se siente accidental, baja el tempo y canta la línea antes de tocarla.",
+          "de": "### Wärm die Landebahn auf\nSpiele **sechs Phrasen mit je 1 Takt** und benutze nur **Viertel und Achtel**. Auf Zählzeit **1** startest du auf einem beliebigen Ton aus A-Dorisch, der **nicht** C oder F# ist.\n\nDeine Aufgabe ist, bis Zählzeit **4** auf **C** oder **F#** zu landen, ohne gehetzt zu klingen. Wenn sich der Zielton zufällig anfühlt, reduziere das Tempo und singe die Linie zuerst.",
+          "ja": "### 滑走路を温める\n**1小節のフレーズを6つ**作り、使う音価は **4分音符と8分音符だけ** にします。**1拍目** は、C と F# 以外の A ドリアンの音から始めてください。\n\n目標は、急いで聞こえないまま **4拍目** までに **C** か **F#** に着地することです。狙い音が偶然っぽく聞こえるなら、テンポを落として先に歌ってみましょう。",
+          "zh-Hans": "### 先热跑道\n只用 **四分音符和八分音符**，弹 **6 条 1 小节乐句**。在 **第 1 拍**，从 A 多利亚里任意一个 **不是** C 或 F# 的音开始。\n\n你的任务是在 **第 4 拍** 之前落到 **C** 或 **F#**，而且不能听起来像在赶路。如果目标音听起来像误打误撞，就放慢速度，先把乐句唱出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Add approach patterns\nNow every landing needs a short approach:\n- arrive by **step from above**, or\n- arrive by **step from below**, or\n- arrive by **a small skip** and then hold the target.\n\nWrite **three phrases for C** and **three for F#**. No repeated rhythm patterns.",
+          "pt-BR": "### Adicione padrões de aproximação\nAgora cada pouso precisa de uma pequena aproximação:\n- chegar por **grau conjunto de cima**,\n- chegar por **grau conjunto de baixo**,\n- ou chegar com **um pequeno salto** e sustentar a nota-alvo.\n\nCrie **três frases para C** e **três para F#**. Sem repetir o mesmo padrão rítmico.",
+          "es": "### Añade patrones de aproximación\nAhora cada aterrizaje necesita una pequeña aproximación:\n- llegar por **paso desde arriba**,\n- llegar por **paso desde abajo**,\n- o llegar con **un salto pequeño** y sostener la nota objetivo.\n\nEscribe **tres frases para C** y **tres para F#**. Sin repetir el mismo patrón rítmico.",
+          "de": "### Baue Anflugmuster ein\nJetzt braucht jede Landung einen kurzen Anflug:\n- Ankunft per **Schritt von oben**,\n- Ankunft per **Schritt von unten**,\n- oder per **kleinem Sprung** mit anschließendem Halten des Zieltons.\n\nSchreibe **drei Phrasen für C** und **drei für F#**. Kein Rhythmusmuster darf sich wiederholen.",
+          "ja": "### 進入パターンを加える\nここからは、どの着地にも短い進入が必要です。\n- **上から順次進行**で入る\n- **下から順次進行**で入る\n- または **小さな跳躍**で入り、そのまま狙い音を伸ばす\n\n**C 用に3つ、F# 用に3つ** フレーズを作ってください。同じリズム型の繰り返しは禁止です。",
+          "zh-Hans": "### 加入进场路线\n现在每次着陆都要带一个简短的进场方式：\n- **从上方级进**落入\n- **从下方级进**落入\n- 或者先做一个**小跳进**，再把目标音稍微拉长\n\n为 **C** 写 **3 条乐句**，为 **F#** 也写 **3 条**。节奏型不能重复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Turbulence round\nKeep the same targets, but add one of these problems to each new phrase:\n- start with a rest,\n- place the landing on the **and** of beat 3 or 4,\n- or accent a note that is **not** the target.\n\nThe line should still make the landing feel obvious, even with the fake-out.",
+          "pt-BR": "### Rodada de turbulência\nMantenha os mesmos alvos, mas adicione um destes problemas a cada frase nova:\n- começar com uma pausa,\n- colocar o pouso no **e** do tempo 3 ou 4,\n- ou acentuar uma nota que **não** é o alvo.\n\nA linha ainda deve fazer o pouso soar óbvio, mesmo com a pegadinha.",
+          "es": "### Ronda de turbulencia\nMantén los mismos objetivos, pero añade uno de estos problemas a cada frase nueva:\n- empezar con un silencio,\n- colocar el aterrizaje en el **y** del tiempo 3 o 4,\n- o acentuar una nota que **no** sea el objetivo.\n\nLa línea debe seguir haciendo que el aterrizaje se sienta obvio, incluso con el engaño.",
+          "de": "### Turbulenzrunde\nBehalte dieselben Ziele, aber gib jeder neuen Phrase eines dieser Probleme:\n- mit einer Pause beginnen,\n- die Landung auf das **Und** von Zählzeit 3 oder 4 legen,\n- oder einen Ton akzentuieren, der **nicht** das Ziel ist.\n\nDie Linie soll die Landung trotzdem eindeutig wirken lassen, auch mit dem Täuschungsmanöver.",
+          "ja": "### 乱気流ラウンド\n狙い音はそのままにして、各フレーズへ次のどれか1つの問題を追加します。\n- 休符から始める\n- 着地を **3拍目裏** または **4拍目裏** に置く\n- あるいは、狙い音では **ない** 音をアクセントする\n\nフェイントがあっても、着地先ははっきり聞こえなければいけません。",
+          "zh-Hans": "### 乱流回合\n目标音保持不变，但每条新乐句都要加入下面一种麻烦：\n- 用休止开始\n- 把着陆放在 **第3拍后半拍** 或 **第4拍后半拍**\n- 或者把重音放在一个**不是**目标音的音上\n\n即使有这种假动作，整条线还是要让着陆听起来很明确。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final flight\nImprovise for **8 bars**. In bars **1-4**, every phrase lands on **C**. In bars **5-8**, every phrase lands on **F#**.\n\nAfter the take, ask:\n- Which target sounded stronger and why?\n- Did my rhythm help the landing or hide it?\n- Could I hear the target before my fingers moved?\n\nFinal upgrade: repeat the whole mission in **D Dorian** with **F** and **B** as the new landing lights. 🎸",
+          "pt-BR": "### Voo final\nImprovise por **8 compassos**. Nos compassos **1-4**, toda frase pousa em **C**. Nos compassos **5-8**, toda frase pousa em **F#**.\n\nDepois da gravação, pergunte:\n- Qual alvo soou mais forte e por quê?\n- Meu ritmo ajudou o pouso ou o escondeu?\n- Eu conseguia ouvir a nota-alvo antes de os dedos se moverem?\n\nUpgrade final: repita toda a missão em **Ré dórico**, usando **F** e **B** como novas luzes de pouso. 🎸",
+          "es": "### Vuelo final\nImprovisa durante **8 compases**. En los compases **1-4**, cada frase aterriza en **C**. En los compases **5-8**, cada frase aterriza en **F#**.\n\nDespués de la toma, pregúntate:\n- ¿Qué objetivo sonó más fuerte y por qué?\n- ¿Mi ritmo ayudó al aterrizaje o lo escondió?\n- ¿Podía escuchar la nota objetivo antes de mover los dedos?\n\nMejora final: repite toda la misión en **Re dórico**, usando **F** y **B** como nuevas luces de aterrizaje. 🎸",
+          "de": "### Endanflug\nImprovisiere **8 Takte** lang. In den Takten **1-4** landet jede Phrase auf **C**. In den Takten **5-8** landet jede Phrase auf **F#**.\n\nFrag dich danach:\n- Welcher Zielton klang stärker und warum?\n- Hat mein Rhythmus die Landung unterstützt oder versteckt?\n- Konnte ich den Zielton hören, bevor sich meine Finger bewegten?\n\nFinales Upgrade: Wiederhole die ganze Mission in **D-Dorisch** mit **F** und **B** als neuen Landelichtern. 🎸",
+          "ja": "### 最終フライト\n**8小節** 即興しましょう。**1-4小節目** は毎回 **C** に着地、**5-8小節目** は毎回 **F#** に着地します。\n\n弾いた後に確認してください。\n- どちらの狙い音がより強く聞こえたか？ なぜか？\n- リズムは着地を助けたか、それとも隠したか？\n- 指が動く前に狙い音を頭の中で聞けたか？\n\n最後の強化版：同じミッションを **Dドリアン** に移し、**F** と **B** を新しい着地ライトにして繰り返しましょう。 🎸",
+          "zh-Hans": "### 最终飞行\n即兴 **8 小节**。在 **第1-4小节**，每条乐句都落在 **C**；在 **第5-8小节**，每条乐句都落在 **F#**。\n\n弹完后问自己：\n- 哪个目标音听起来更有力量，为什么？\n- 我的节奏是在帮助着陆，还是在掩盖它？\n- 手指动之前，我能先在脑中听见目标音吗？\n\n最终升级：把整个任务移到 **D 多利亚**，并把新的着陆灯换成 **F** 和 **B**。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-23T00:08:15Z",
+  "updatedAt": "2026-06-23T00:08:15Z"
+}

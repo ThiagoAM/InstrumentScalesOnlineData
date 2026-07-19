@@ -1,0 +1,73 @@
+{
+  "id": "pocket-detective-in-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to groove detective school. Use the **G major scale** and imagine every two-bar line is a mystery. Your first clue: bars feel tighter when the **root lands clearly on beat 1**. Build a simple line with root, second, third, and fifth, then listen for which note gives the groove its identity.",
+          "pt-BR": "Bem-vindo à escola de detetives do groove. Use a **escala de Sol maior** e imagine que cada linha de dois compassos é um mistério. Sua primeira pista: os compassos ficam mais firmes quando a **tônica cai claramente no tempo 1**. Monte uma linha simples com tônica, segunda, terça e quinta, depois perceba qual nota dá identidade ao groove.",
+          "es": "Bienvenido a la escuela de detectives del groove. Usa la **escala de Sol mayor** e imagina que cada línea de dos compases es un misterio. Tu primera pista: los compases se sienten más firmes cuando la **tónica cae clara en el tiempo 1**. Construye una línea simple con tónica, segunda, tercera y quinta, y escucha qué nota da identidad al groove.",
+          "de": "Willkommen in der Groove-Detektivschule. Nutze die **G-Dur-Tonleiter** und stell dir vor, jede Zweitaktlinie ist ein Kriminalfall. Die erste Spur: Takte fühlen sich tighter an, wenn der **Grundton klar auf Zählzeit 1 landet**. Baue eine einfache Linie mit Grundton, Sekunde, Terz und Quinte und höre, welcher Ton dem Groove seine Identität gibt.",
+          "ja": "グルーヴ探偵学校へようこそ。**Gメジャー・スケール** を使い、2小節のラインを1つの事件だと思ってください。最初の手がかりは、**ルートが1拍目に明確に着地する** とグルーヴが締まることです。ルート、2度、3度、5度でシンプルなラインを作り、どの音がグルーヴの正体を作るか聴きましょう。",
+          "zh-Hans": "欢迎来到律动侦探学校。使用 **G大调音阶**，把每一条两小节低音线都当成一个案件。第一条线索：当 **根音清楚地落在第1拍** 时，律动会更稳。先用根音、2级、3级和5级做一条简单线条，再听听究竟是哪一个音让这个 groove 有了身份。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Second clue: great bass lines do not talk nonstop. In bar 2, force yourself to place **one rest** on purpose. That gap is not empty space—it is where the drummer, the snare, and your pocket become obvious.",
+          "pt-BR": "Segunda pista: linhas de baixo boas não falam sem parar. No compasso 2, obrigue-se a colocar **uma pausa** de propósito. Esse espaço não é vazio — é onde a bateria, a caixa e o seu pocket ficam mais evidentes.",
+          "es": "Segunda pista: las buenas líneas de bajo no hablan sin parar. En el compás 2, obligate a colocar **un silencio** a propósito. Ese hueco no está vacío: es donde la batería, la caja y tu pocket se vuelven evidentes.",
+          "de": "Zweite Spur: Gute Basslinien reden nicht ohne Pause. Setze in Takt 2 **eine bewusste Pause**. Dieser Raum ist nicht leer — dort werden Drums, Snare und dein Pocket erst richtig deutlich.",
+          "ja": "2つ目の手がかりは、良いベースラインはしゃべり続けないということ。2小節目には **意図的に1つ休符** を入れます。その空白こそ、ドラム、スネア、そしてポケットが見えてくる場所です。",
+          "zh-Hans": "第二条线索：好的贝斯线不会一直说个不停。在第2小节里，强迫自己故意加入 **一个休止**。这个空白并不是空洞，它正是鼓组、军鼓和你的 pocket 变得明显的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Third clue: accents reveal the suspect. Choose one note per bar to **accent a little more strongly**, especially if it is a root or fifth. If every note has the same weight, the groove gets blurry; if one note leads, the line starts to strut.",
+          "pt-BR": "Terceira pista: os acentos revelam o suspeito. Escolha uma nota por compasso para **acentuar um pouco mais**, especialmente se for tônica ou quinta. Se todas as notas tiverem o mesmo peso, o groove fica borrado; se uma lidera, a linha começa a andar com personalidade.",
+          "es": "Tercera pista: los acentos revelan al sospechoso. Elige una nota por compás para **acentuarla un poco más**, sobre todo si es tónica o quinta. Si todas pesan igual, el groove se vuelve borroso; si una manda, la línea empieza a caminar con actitud.",
+          "de": "Dritte Spur: Akzente verraten den Täter. Wähle pro Takt einen Ton, den du **etwas stärker akzentuierst**, besonders Grundton oder Quinte. Wenn alle Töne gleich schwer sind, verschwimmt der Groove; wenn einer führt, beginnt die Linie zu marschieren.",
+          "ja": "3つ目の手がかりは、アクセントが犯人をあぶり出すこと。各小節で1音だけ **少し強くアクセント** してみましょう。特にルートや5度が効果的です。全部の音が同じ重さだとぼやけますが、1音が先導するとラインが歩き出します。",
+          "zh-Hans": "第三条线索：重音会暴露“嫌疑人”。每小节选一个音 **稍微重一点地弹**，尤其是根音或五度。如果每个音都一样重，律动会变糊；如果有一个音带头，整条线就会开始有派头地走起来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Fourth clue: add one passing tone, but do not let it steal the show. Move between two strong notes with a quick scale step, then ask yourself whether the passing tone created motion or confusion. Good bass players edit as much as they invent.",
+          "pt-BR": "Quarta pista: adicione uma nota de passagem, mas não deixe que ela roube a cena. Mova-se entre duas notas fortes com um passo rápido da escala e pergunte a si mesmo se essa passagem criou movimento ou confusão. Bons baixistas editam tanto quanto inventam.",
+          "es": "Cuarta pista: añade una nota de paso, pero no dejes que robe la escena. Muévete entre dos notas fuertes con un paso rápido de la escala y pregúntate si esa nota creó movimiento o confusión. Los buenos bajistas editan tanto como inventan.",
+          "de": "Vierte Spur: Füge einen Durchgangston hinzu, aber lass ihn nicht die Show stehlen. Bewege dich mit einem schnellen Skalen-Schritt zwischen zwei starken Tönen und frage dich, ob der Durchgangston Bewegung oder Verwirrung erzeugt hat. Gute Bassist:innen editieren genauso viel, wie sie erfinden.",
+          "ja": "4つ目の手がかりは、経過音を1つ入れること。ただし主役にしないこと。2つの強い音の間を素早いスケール・ステップでつなぎ、その経過音が動きを作ったか、混乱を生んだかを確認します。良いベーシストは、思いつくのと同じくらい削るのも上手です。",
+          "zh-Hans": "第四条线索：加入一个经过音，但别让它抢戏。用快速的音阶级进连接两个强音，然后问自己，这个经过音带来的是流动感还是混乱感。优秀的贝斯手，编辑和取舍的能力和创造能力一样重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Case closed challenge: record three versions of the same two-bar groove—one plain, one with rests, and one with accents plus a passing tone. Pick the version that feels best in your body, not just on paper. If your shoulders relax and your head starts nodding, the pocket confessed.",
+          "pt-BR": "Desafio de caso encerrado: grave três versões do mesmo groove de dois compassos — uma simples, uma com pausas e uma com acentos mais nota de passagem. Escolha a versão que parece melhor no corpo, não só no papel. Se seus ombros relaxam e a cabeça começa a balançar, o pocket confessou.",
+          "es": "Reto de caso cerrado: graba tres versiones del mismo groove de dos compases: una simple, una con silencios y una con acentos más nota de paso. Elige la versión que se sienta mejor en tu cuerpo, no solo en el papel. Si se te relajan los hombros y la cabeza empieza a moverse, el pocket confesó.",
+          "de": "Abschlussfall: Nimm drei Versionen desselben Zweitakt-Grooves auf — eine schlicht, eine mit Pausen und eine mit Akzenten plus Durchgangston. Wähle die Version, die sich in deinem Körper am besten anfühlt, nicht nur auf dem Papier. Wenn die Schultern locker werden und dein Kopf nickt, hat das Pocket gestanden.",
+          "ja": "事件解決チャレンジ：同じ2小節グルーヴを3種類録音しましょう。シンプル版、休符入り版、アクセント＋経過音版です。紙の上ではなく、**体でいちばん気持ちいい版** を選びます。肩の力が抜けて頭が自然にうなずくなら、ポケットが自白したということです。",
+          "zh-Hans": "结案挑战：把同一条两小节 groove 录成3个版本——朴素版、带休止版、以及带重音和经过音版。选出那个 **身体感觉最好** 的版本，而不只是纸面上最合理的版本。如果你的肩膀放松了，脑袋开始自然点头，那就说明 pocket 已经招了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-10T00:06:25Z",
+  "updatedAt": "2026-04-10T00:06:25Z"
+}

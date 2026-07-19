@@ -1,0 +1,73 @@
+{
+  "id": "dynamic-arc-scale-ladders",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose C major, two octaves, hands together. Set a metronome at 70 bpm and aim for even tone.",
+          "pt-BR": "Escolha dó maior, duas oitavas, mãos juntas. Ajuste o metrônomo em 70 bpm e busque um som uniforme.",
+          "es": "Elige Do mayor, dos octavas, manos juntas. Ajusta el metrónomo a 70 bpm y busca un sonido uniforme.",
+          "de": "Wähle C-Dur, zwei Oktaven, beidhändig. Stelle das Metronom auf 70 bpm und spiele mit gleichmäßigem Klang.",
+          "ja": "Cメジャーを2オクターブ、両手で。メトロノーム70 bpmに設定し、均一な音色を目指す。",
+          "zh-Hans": "选择C大调，两八度，双手同时。把节拍器设为70 bpm，追求均匀音色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play up with a gradual crescendo, then come down with a smooth decrescendo. Keep fingerings consistent.",
+          "pt-BR": "Suba com um crescendo gradual e desça com um decrescendo suave. Mantenha as digitações consistentes.",
+          "es": "Sube con un crescendo gradual y baja con un decrescendo suave. Mantén las digitaciones consistentes.",
+          "de": "Spiele aufwärts mit einem allmählichen Crescendo und abwärts mit einem weichen Decrescendo. Halte die Fingersätze konstant.",
+          "ja": "上りは徐々にクレッシェンド、下りは滑らかなデクレッシェンド。運指を統一する。",
+          "zh-Hans": "上行渐强，下行平滑渐弱，保持指法一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add an accent every 3rd note while keeping the dynamic arc. Listen for any accent that breaks the line.",
+          "pt-BR": "Adicione um acento a cada 3ª nota mantendo o arco dinâmico. Ouça se algum acento quebra a linha.",
+          "es": "Añade un acento cada 3ª nota manteniendo el arco dinámico. Escucha si algún acento rompe la línea.",
+          "de": "Setze bei jeder 3. Note einen Akzent und halte den dynamischen Bogen. Achte darauf, dass kein Akzent die Linie bricht.",
+          "ja": "ダイナミックアークを保ったまま3音ごとにアクセント。ラインが切れないか確認。",
+          "zh-Hans": "在保持动态弧线的同时每第3个音加重音，注意是否破坏连贯。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Switch to contrary motion in C major. Match the crescendo and decrescendo so both hands breathe together.",
+          "pt-BR": "Passe para movimento contrário em dó maior. Combine o crescendo e o decrescendo para as duas mãos respirarem juntas.",
+          "es": "Cambia a movimiento contrario en Do mayor. Empareja el crescendo y el decrescendo para que ambas manos respiren juntas.",
+          "de": "Wechsle zu Gegenbewegung in C-Dur. Gleiche Crescendo und Decrescendo so ab, dass beide Hände zusammen atmen.",
+          "ja": "Cメジャーの反進行に切り替え、両手のクレッシェンド／デクレッシェンドを揃える。",
+          "zh-Hans": "切换到C大调的反向运动，让双手的渐强与渐弱同步呼吸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: tempo ladder at 70 → 90 → 110 bpm. Earn two perfect passes before moving up.",
+          "pt-BR": "Desafio: escada de tempo 70 → 90 → 110 bpm. Faça duas passagens perfeitas antes de subir.",
+          "es": "Desafío: escalera de tempo 70 → 90 → 110 bpm. Logra dos pasadas perfectas antes de subir.",
+          "de": "Challenge: Tempo-Leiter 70 → 90 → 110 bpm. Schaffe zwei perfekte Durchgänge, bevor du hochgehst.",
+          "ja": "チャレンジ：テンポラダー70→90→110 bpm。各段で2回完璧に弾いてから上げる。",
+          "zh-Hans": "挑战：速度阶梯70→90→110 bpm。每档先完成两次完美演奏再提升。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-20T00:08:32Z",
+  "updatedAt": "2026-03-20T00:08:32Z"
+}

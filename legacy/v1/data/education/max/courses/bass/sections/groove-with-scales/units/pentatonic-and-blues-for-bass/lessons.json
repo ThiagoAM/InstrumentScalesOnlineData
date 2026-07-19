@@ -82,5 +82,61 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "bass-blues-walkup-fills",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Blues Walk-Up Fills",
+        "pt-BR": "Fills de caminhada blues",
+        "es": "Fills blues ascendentes",
+        "de": "Blues-Run-Up-Fills",
+        "ja": "ブルース・ウォークアップ・フィル",
+        "zh-Hans": "布鲁斯上行填充"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Add tasty A minor blues fills without breaking the groove.",
+        "pt-BR": "Adicione fills saborosos em Lá menor sem quebrar o groove.",
+        "es": "Añade fills sabrosos en La menor sin romper el groove.",
+        "de": "Würzige A-Moll-Blues-Fills, ohne den Groove zu verlieren.",
+        "ja": "Aマイナーのブルースフィルでグルーヴを崩さず味付けする。",
+        "zh-Hans": "在A小调蓝调中做出好听的填充而不丢掉groove。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-25T00:06:56Z",
+    "updatedAt": "2026-03-25T00:06:56Z"
+  },
+  {
+    "id": "bass-blues-pocket-anchors",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Anchor Blues Line",
+        "pt-BR": "Linha Blues de Ancoragem no Pocket",
+        "es": "Línea Blues de Anclaje en el Pocket",
+        "de": "Pocket‑Anker‑Bluesline",
+        "ja": "ポケット・アンカー・ブルースライン",
+        "zh-Hans": "口袋锚点蓝调线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock blues‑scale grooves by anchoring strong beats and adding tasty fills.",
+        "pt-BR": "Trave grooves de blues ancorando os tempos fortes e adicionando fills saborosos.",
+        "es": "Asegura grooves de blues anclando los tiempos fuertes y sumando fills sabrosos.",
+        "de": "Verankere Blues‑Grooves mit starken Zählzeiten und würzigen Fills.",
+        "ja": "強拍を固定しつつブルーススケールでおいしいフィルを足してグルーヴを締めよう。",
+        "zh-Hans": "通过固定强拍并加入好听的填充，锁定蓝调音阶律动。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-05T00:07:10Z",
+    "updatedAt": "2026-04-05T00:07:10Z"
   }
 ]

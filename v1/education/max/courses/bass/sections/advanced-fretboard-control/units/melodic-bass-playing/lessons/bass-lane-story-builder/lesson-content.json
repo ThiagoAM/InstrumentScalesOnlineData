@@ -1,0 +1,73 @@
+{
+  "id": "bass-lane-story-builder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Set the route\n\nUse **D major** (D E F# G A B C#) starting around the 5th fret.\n\nSet a metronome to **88 bpm** and think in **2-bar loops**.\n\nToday you are not just running a scale. You are building a bass line with direction.",
+          "pt-BR": "### Trace a rota\n\nUse **Ré maior** (D E F# G A B C#) começando por volta da 5ª casa.\n\nAjuste o metrônomo para **88 bpm** e pense em ciclos de **2 compassos**.\n\nHoje você não vai apenas subir e descer uma escala. Vai construir uma linha de baixo com direção.",
+          "es": "### Traza la ruta\n\nUsa **Re mayor** (D E F# G A B C#) empezando cerca del traste 5.\n\nPon el metrónomo en **88 bpm** y piensa en bucles de **2 compases**.\n\nHoy no solo vas a correr una escala. Vas a construir una línea de bajo con dirección.",
+          "de": "### Route festlegen\n\nNutze **D-Dur** (D E F# G A B C#) ungefähr ab dem 5. Bund.\n\nStelle das Metronom auf **88 bpm** und denke in **2-Takt-Schleifen**.\n\nHeute läufst du nicht einfach nur eine Skala. Du baust eine Basslinie mit Richtung.",
+          "ja": "### ルートを決める\n\n**Dメジャー**（D E F# G A B C#）を5フレット付近から使います。\n\nメトロノームは **88 bpm**、考え方は **2小節ループ** です。\n\n今日はただスケールをなぞるのではなく、方向のあるベースラインを作ります。",
+          "zh-Hans": "### 规划路线\n\n使用 **D大调**（D E F# G A B C#），从大约第5品附近开始。\n\n把节拍器设为 **88 bpm**，按 **2小节循环** 来思考。\n\n今天你不是单纯跑音阶，而是在搭建一条有方向感的贝斯线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: climb with purpose\n\nPlay one 2-bar line that rises across the neck and ends on **D** or **F#**.\n\nRules:\n- use at least **one shift** to a new position\n- keep every note even and warm\n- leave beat 4 of bar 2 empty\n\nRepeat until the shift feels smooth instead of panicked.",
+          "pt-BR": "### Rodada 1: suba com propósito\n\nToque uma linha de 2 compassos que sobe pelo braço e termina em **D** ou **F#**.\n\nRegras:\n- use pelo menos **uma mudança** de posição\n- mantenha todas as notas regulares e cheias\n- deixe o tempo 4 do compasso 2 vazio\n\nRepita até a mudança soar suave em vez de desesperada.",
+          "es": "### Ronda 1: sube con intención\n\nToca una línea de 2 compases que suba por el mástil y termine en **D** o **F#**.\n\nReglas:\n- usa al menos **un cambio** de posición\n- mantén cada nota pareja y cálida\n- deja vacío el tiempo 4 del compás 2\n\nRepite hasta que el cambio se sienta fluido y no desesperado.",
+          "de": "### Runde 1: mit Absicht aufsteigen\n\nSpiele eine 2-taktige Linie, die sich über den Hals nach oben bewegt und auf **D** oder **F#** endet.\n\nRegeln:\n- benutze mindestens **einen Lagenwechsel**\n- halte jede Note gleichmäßig und warm\n- lasse Zählzeit 4 von Takt 2 frei\n\nWiederhole, bis sich der Wechsel flüssig statt hektisch anfühlt.",
+          "ja": "### ラウンド1：目的を持って上がる\n\nネックを上がっていき、最後が **D** または **F#** で終わる2小節ラインを弾きましょう。\n\nルール：\n- 少なくとも **1回** ポジション移動を入れる\n- すべての音を均一で太く保つ\n- 2小節目の4拍目は空ける\n\n移動が慌てた感じではなく、自然に聞こえるまで繰り返します。",
+          "zh-Hans": "### 第1轮：带着目的往上走\n\n弹一条 2 小节贝斯线，要求沿着琴颈向上移动，并结束在 **D** 或 **F#**。\n\n规则：\n- 至少加入 **一次** 把位转换\n- 每个音都要均匀、饱满\n- 第2小节的第4拍留空\n\n重复，直到换把听起来顺滑，而不是慌张。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: answer yourself\n\nMake a second line that starts similarly but answers with a different ending.\n\nTry these targets:\n- first ending on **D** for stability\n- second ending on **B** or **C#** for lift\n\nIf both versions sound the same, change the rhythm before changing more notes.",
+          "pt-BR": "### Rodada 2: responda a si mesmo\n\nFaça uma segunda linha que começa de forma parecida, mas responde com um final diferente.\n\nExperimente estes alvos:\n- primeiro final em **D** para estabilidade\n- segundo final em **B** ou **C#** para dar elevação\n\nSe as duas versões soarem iguais, mude o ritmo antes de trocar mais notas.",
+          "es": "### Ronda 2: respóndete a ti mismo\n\nHaz una segunda línea que empiece parecido pero responda con otro final.\n\nPrueba estos objetivos:\n- primer final en **D** para estabilidad\n- segundo final en **B** o **C#** para elevar la sensación\n\nSi las dos versiones suenan iguales, cambia el ritmo antes de cambiar más notas.",
+          "de": "### Runde 2: dir selbst antworten\n\nErfinde eine zweite Linie, die ähnlich beginnt, aber mit einem anderen Ende antwortet.\n\nProbiere diese Ziele:\n- erstes Ende auf **D** für Stabilität\n- zweites Ende auf **B** oder **C#** für Auftrieb\n\nWenn beide Versionen gleich klingen, ändere zuerst den Rhythmus statt mehr Noten.",
+          "ja": "### ラウンド2：自分で返事をする\n\n似た始まり方をするけれど、違う終わり方で返す2本目のラインを作ります。\n\n試す着地点：\n- 1つ目は **D** で安定感\n- 2つ目は **B** または **C#** で持ち上がる感じ\n\n2つが同じに聞こえるなら、音を増やす前にリズムを変えましょう。",
+          "zh-Hans": "### 第2轮：给自己一个回答\n\n再做第二条线，开头相似，但用不同结尾来回应。\n\n试试这些目标：\n- 第一个结尾落在 **D**，带来稳定感\n- 第二个结尾落在 **B** 或 **C#**，带来上扬感\n\n如果两个版本听起来差不多，先换节奏，再换更多音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: add a singing jump\n\nNow place **one expressive leap** of a 4th, 5th, or octave inside the line.\n\nThe leap should sound musical, not random. Land cleanly and keep the time locked.\n\nImagine the line is telling the listener, \"follow me, we are going somewhere.\"",
+          "pt-BR": "### Rodada 3: adicione um salto que cante\n\nAgora coloque **um salto expressivo** de 4ª, 5ª ou oitava dentro da linha.\n\nO salto precisa soar musical, não aleatório. Chegue limpo e mantenha o tempo firme.\n\nImagine a linha dizendo ao ouvinte: \"vem comigo, a gente está indo para algum lugar\".",
+          "es": "### Ronda 3: añade un salto que cante\n\nAhora coloca **un salto expresivo** de 4ª, 5ª u octava dentro de la línea.\n\nEl salto debe sonar musical, no aleatorio. Aterriza limpio y mantén el pulso firme.\n\nImagina que la línea le dice al oyente: \"sígueme, vamos hacia algún lugar\".",
+          "de": "### Runde 3: einen singenden Sprung einbauen\n\nSetze jetzt **einen ausdrucksstarken Sprung** einer Quarte, Quinte oder Oktave in die Linie.\n\nDer Sprung soll musikalisch klingen, nicht zufällig. Lande sauber und halte die Zeit fest.\n\nStell dir vor, die Linie sagt zum Zuhörer: \"komm mit, wir gehen irgendwohin\".",
+          "ja": "### ラウンド3：歌う跳躍を入れる\n\n今度はラインの中に **4度、5度、またはオクターブの表情ある跳躍** を1つ入れます。\n\nその跳躍は偶然ではなく音楽的に聞こえる必要があります。着地をきれいにして、時間をしっかり保ちましょう。\n\nそのラインが「ついてきて、どこかへ向かっているよ」と語っているイメージです。",
+          "zh-Hans": "### 第3轮：加入会歌唱的跳进\n\n现在在线条里放入 **一个有表现力的四度、五度或八度跳进**。\n\n这个跳进要听起来有音乐性，而不是随便乱跳。落点要干净，节奏要锁紧。\n\n把这条线想象成在对听众说：“跟我来，我们正在去某个地方。”"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nCreate **two full 4-bar bass lines** using:\n- one position shift\n- one held note or rest for space\n- one expressive leap\n\nKeep the line that grooves hardest, then move the whole exercise to **G major** without losing the same calm control. 🎸",
+          "pt-BR": "### Desafio final\n\nCrie **duas linhas completas de 4 compassos** usando:\n- uma mudança de posição\n- uma nota longa ou pausa para dar espaço\n- um salto expressivo\n\nFique com a linha que grooveia mais e depois leve tudo para **Sol maior** sem perder a mesma calma no controle. 🎸",
+          "es": "### Desafío final\n\nCrea **dos líneas completas de 4 compases** usando:\n- un cambio de posición\n- una nota larga o un silencio para crear espacio\n- un salto expresivo\n\nQuédate con la línea que tenga más groove y luego mueve todo a **Sol mayor** sin perder la misma calma en el control. 🎸",
+          "de": "### Abschluss-Challenge\n\nErstelle **zwei vollständige 4-taktige Basslinien** mit:\n- einem Lagenwechsel\n- einer langen Note oder Pause für Raum\n- einem ausdrucksstarken Sprung\n\nBehalte die Linie mit dem stärksten Groove und verlege die ganze Übung dann nach **G-Dur**, ohne die ruhige Kontrolle zu verlieren. 🎸",
+          "ja": "### 最終チャレンジ\n\n次の条件で **4小節のベースラインを2本** 作りましょう。\n- 1回のポジション移動\n- 空間を作る長い音か休符\n- 1つの表情ある跳躍\n\nいちばんグルーヴするラインを残し、同じ落ち着いたコントロールのまま **Gメジャー** に移してみましょう。🎸",
+          "zh-Hans": "### 最终挑战\n\n做出 **两条完整的4小节贝斯线**，并包含：\n- 一次把位转换\n- 一个长音或休止来留出空间\n- 一个有表现力的跳进\n\n留下 groove 最强的那条，然后把整个练习移到 **G大调**，同时保持同样冷静的控制力。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-15T00:12:48Z",
+  "updatedAt": "2026-06-15T00:12:48Z"
+}

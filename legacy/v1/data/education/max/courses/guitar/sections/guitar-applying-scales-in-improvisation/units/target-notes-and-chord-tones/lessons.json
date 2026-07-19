@@ -110,5 +110,425 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "targeting-sevenths-and-ninths",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Targeting 7ths and 9ths for Color\"",
+        "pt-BR": "\"Mirando 7ªs e 9ªs para dar cor\"",
+        "es": "\"Apuntar a 7ªs y 9ªs para dar color\"",
+        "de": "\"7 und 9 als Zieltöne für mehr Farbe\"",
+        "ja": "\"7度と9度を狙って色付けする\"",
+        "zh-Hans": "\"瞄准7度和9度增添色彩\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Add richer color to your lines by landing on 7ths and 9ths over chord changes.\"",
+        "pt-BR": "\"Deixe suas linhas mais coloridas mirando 7ªs e 9ªs nas trocas de acordes.\"",
+        "es": "\"Dale más color a tus líneas aterrizando en 7ªs y 9ªs durante los cambios de acordes.\"",
+        "de": "\"Gib deinen Linien mehr Farbe, indem du bei Akkordwechseln 7 und 9 ansteuerst.\"",
+        "ja": "\"コードチェンジで7度と9度に着地して、フレーズに色彩を加えよう。\"",
+        "zh-Hans": "\"在和弦变化中落在7度与9度，让你的线条更有色彩。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-17T00:05:42Z",
+    "updatedAt": "2026-03-17T00:05:42Z"
+  },
+  {
+    "id": "landing-on-the-third-over-chord-changes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Landing on the 3rd Over Chord Changes",
+        "pt-BR": "Caindo na terça nas mudanças de acorde",
+        "es": "Aterrizar en la tercera sobre los cambios de acorde",
+        "de": "Auf der Terz bei Akkordwechseln landen",
+        "ja": "コードチェンジで3度に着地する",
+        "zh-Hans": "在和弦变化时落到三音上"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your ear and fretboard map by targeting the 3rd of each chord inside a simple progression.",
+        "pt-BR": "Treine o ouvido e o braço mirando a terça de cada acorde dentro de uma progressão simples.",
+        "es": "Entrena el oído y el diapasón apuntando a la tercera de cada acorde dentro de una progresión sencilla.",
+        "de": "Trainiere Ohr und Griffbrett, indem du in einer einfachen Progression die Terz jedes Akkords ansteuerst.",
+        "ja": "シンプルな進行の中で各コードの3度を狙い、耳と指板感覚を鍛えます。",
+        "zh-Hans": "通过在简单进行中瞄准每个和弦的三音，训练你的耳朵和指板定位。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-14T00:08:48Z",
+    "updatedAt": "2026-04-14T00:08:48Z"
+  },
+  {
+    "id": "bending-into-chord-tones-bullseye",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bend Into the Chord Tone Bullseye",
+        "pt-BR": "Acertando a nota-alvo com bends",
+        "es": "Bends hacia la nota objetivo",
+        "de": "Mit Bends ins Ziel der Akkordtöne",
+        "ja": "ベンドで狙うコードトーン命中レッスン",
+        "zh-Hans": "用推弦命中和弦音靶心"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale runs into musical guitar lines by targeting chord tones with controlled bends.",
+        "pt-BR": "Transforme desenhos de escala em frases musicais mirando notas do acorde com bends controlados.",
+        "es": "Convierte patrones de escala en frases musicales apuntando a notas del acorde con bends controlados.",
+        "de": "Verwandle Gitarrenskalen in musikalische Phrasen, indem du Akkordtöne mit kontrollierten Bends anvisierst.",
+        "ja": "コントロールしたベンドでコードトーンを狙い、スケール練習を音楽的なギターフレーズへ変えます。",
+        "zh-Hans": "用有控制的推弦去瞄准和弦音，把音阶练习变成真正有音乐感的吉他乐句。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-05-07T00:08:28Z",
+    "updatedAt": "2026-05-07T00:08:28Z"
+  },
+  {
+    "id": "connect-arpeggios-with-neighbor-notes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Connect Arpeggios with Neighbor Notes",
+        "pt-BR": "Conecte arpejos com notas vizinhas",
+        "es": "Conecta arpegios con notas vecinas",
+        "de": "Verbinde Arpeggios mit Nebennoten",
+        "ja": "アルペジオを近隣音でつなごう",
+        "zh-Hans": "用邻近音连接琶音"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn chord tones into musical lines by adding smart scale detours.",
+        "pt-BR": "Transforme notas de acorde em linhas musicais com desvios inteligentes da escala.",
+        "es": "Convierte los tonos del acorde en líneas musicales con desvíos inteligentes de la escala.",
+        "de": "Verwandle Akkordtöne mit klugen Skalen-Umwegen in musikalische Linien.",
+        "ja": "スケールの寄り道を使ってコードトーンを音楽的なラインに変えよう。",
+        "zh-Hans": "用聪明的音阶绕行把和弦音变成真正的乐句。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-06-07T00:06:28Z",
+    "updatedAt": "2026-06-07T00:06:28Z"
+  },
+  {
+    "id": "guitar-chord-tone-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Chord-Tone Chase",
+        "pt-BR": "Caça aos Tons de Acorde na Guitarra",
+        "es": "Caza de Tonos de Acorde en Guitarra",
+        "de": "Akkordton-Jagd auf der Gitarre",
+        "ja": "ギター・コードトーン・チェイス",
+        "zh-Hans": "吉他和弦音追踪战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hunt chord tones inside A Dorian so your phrasing sounds intentional, not accidental.",
+        "pt-BR": "Persiga os tons de acorde dentro de Lá dórico para que seu fraseado soe intencional, não acidental.",
+        "es": "Persigue tonos de acorde dentro de La dórico para que tu fraseo suene intencional y no accidental.",
+        "de": "Jage Akkordtöne in A-Dorisch, damit dein Phrasing bewusst und nicht zufällig klingt.",
+        "ja": "Aドリアンの中でコードトーンを追いかけ、偶然ではなく意図のあるフレージングにします。",
+        "zh-Hans": "在A多利亚里追踪和弦音，让你的乐句听起来是有意图的，而不是误打误撞。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-06-15T00:10:35Z",
+    "updatedAt": "2026-06-15T00:10:35Z"
+  },
+  {
+    "id": "guitar-dorian-hook-factory",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Dorian Hook Factory",
+        "pt-BR": "Fábrica de Ganchos Dóricos na Guitarra",
+        "es": "Fábrica de Hooks Dóricos para Guitarra",
+        "de": "Dorian-Hook-Fabrik für Gitarre",
+        "ja": "ギター・ドリアンフック工場",
+        "zh-Hans": "吉他多利亚钩子工厂"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build sticky A Dorian hooks that hit chord tones, dodge autopilot, and sound ready for a real jam.",
+        "pt-BR": "Construa ganchos marcantes em Lá dórico que acertam tons do acorde, fogem do piloto automático e soam prontos para uma jam.",
+        "es": "Crea hooks pegajosos en La dórico que caigan en notas del acorde, eviten el piloto automático y suenen listos para una jam real.",
+        "de": "Baue eingängige A-dorische Hooks, die Akkordtöne treffen, den Autopiloten abschalten und nach echter Jam-Session klingen.",
+        "ja": "Aドリアンで耳に残るフックを作り、コードトーンに着地しながら惰性を抜け出して本物のジャムらしく弾こう。",
+        "zh-Hans": "用A多利亚做出抓耳短句，稳稳落在和弦音上，摆脱机械跑音，弹出真正即兴的味道。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-18T00:05:32Z",
+    "updatedAt": "2026-06-18T00:05:32Z"
+  },
+  {
+    "id": "guitar-landing-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Landing Lights",
+        "pt-BR": "Luzes de Pouso na Guitarra",
+        "es": "Luces de Aterrizaje en la Guitarra",
+        "de": "Landelichter auf der Gitarre",
+        "ja": "ギター着地ライト",
+        "zh-Hans": "吉他着陆灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up your chord-tone targets so every A Dorian phrase lands with direction, rhythm, and confidence.",
+        "pt-BR": "Ilumine suas notas-alvo para que cada frase em Lá dórico pouse com direção, ritmo e confiança.",
+        "es": "Ilumina tus notas objetivo para que cada frase en La dórico aterrice con dirección, ritmo y seguridad.",
+        "de": "Mach deine Zieltöne sichtbar, damit jede Phrase in A-Dorisch mit Richtung, Rhythmus und Sicherheit landet.",
+        "ja": "Aドリアンの狙い音を照らし出し、すべてのフレーズを方向感・リズム・自信を持って着地させよう。",
+        "zh-Hans": "点亮你的目标和弦音，让每条 A 多利亚乐句都带着方向感、节奏感和信心落地。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-06-23T00:08:15Z",
+    "updatedAt": "2026-06-23T00:08:15Z"
+  },
+  {
+    "id": "guitar-guide-tone-ziplines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Ziplines",
+        "pt-BR": "Tirolesas de Guide Tones na Guitarra",
+        "es": "Tirolesas de Tonos Guía en Guitarra",
+        "de": "Guide-Tone-Seilbahnen auf der Gitarre",
+        "ja": "ギター・ガイドトーン・ジップライン",
+        "zh-Hans": "吉他导向音滑索挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Slide through A Dorian and land on 3rds and 7ths so your guitar lines sound guided, not random.",
+        "pt-BR": "Deslize por Lá dórico e pouse em 3as e 7as para que suas frases soem guiadas, não aleatórias.",
+        "es": "Deslízate por La dórico y aterriza en 3as y 7as para que tus frases suenen guiadas y no aleatorias.",
+        "de": "Gleite durch A-Dorisch und lande auf 3 und 7, damit deine Gitarrenlinien geführt statt zufällig klingen.",
+        "ja": "Aドリアンを滑り抜け、3度と7度に着地して、フレーズを行き当たりばったりではなく意図的に響かせよう。",
+        "zh-Hans": "在A多利亚中滑行并落到3度与7度上，让你的吉他乐句听起来有方向，而不是乱跑。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-06-24T00:07:41Z",
+    "updatedAt": "2026-06-24T00:07:41Z"
+  },
+  {
+    "id": "guitar-guide-tone-snapline",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Snapline",
+        "pt-BR": "Linha de Mira dos Guide Tones na Guitarra",
+        "es": "Línea de Mira de Guide Tones en Guitarra",
+        "de": "Guide-Tone-Ziellinie auf der Gitarre",
+        "ja": "ギターのガイドトーン照準ライン",
+        "zh-Hans": "吉他导音瞄准线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Target chord tones with rhythmic intent so your guitar lines sound aimed, not accidental.",
+        "pt-BR": "Mire nos tons do acorde com intenção rítmica para seus solos soarem guiados, não acidentais.",
+        "es": "Apunta a los tonos del acorde con intención rítmica para que tus líneas suenen dirigidas, no accidentales.",
+        "de": "Steuere Akkordtöne mit rhythmischer Absicht an, damit deine Linien gezielt statt zufällig klingen.",
+        "ja": "リズムの意図を持ってコードトーンを狙い、フレーズを偶然ではなく必然に聞かせましょう。",
+        "zh-Hans": "用明确的节奏意图去瞄准和弦音，让你的乐句听起来有方向，而不是碰运气。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-06-25T00:08:27Z",
+    "updatedAt": "2026-06-25T00:08:27Z"
+  },
+  {
+    "id": "guitar-pivot-note-gauntlet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Pivot-Note Gauntlet",
+        "pt-BR": "Guitarra: Desafio da Nota-Pivô",
+        "es": "Guitarra: Desafío de la nota pivote",
+        "de": "Gitarre: Drehpunkt-Noten-Parcours",
+        "ja": "ギター：ピボットノート・ガントレット",
+        "zh-Hans": "吉他：枢纽音闯关"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use one shared note to pivot through chord changes so your improvisation sounds deliberate, mobile, and musical.",
+        "pt-BR": "Use uma nota em comum para atravessar as mudanças de acorde e fazer seu improviso soar intencional, móvel e musical.",
+        "es": "Usa una nota compartida para cruzar los cambios de acorde y lograr que tu improvisación suene intencional, móvil y musical.",
+        "de": "Nutze einen gemeinsamen Ton, um Akkordwechsel zu verbinden, damit deine Improvisation gezielt, beweglich und musikalisch klingt.",
+        "ja": "共通音を使ってコードチェンジをまたぎ、即興を狙いのある動きと音楽性のある流れに変えよう。",
+        "zh-Hans": "用一个共享音穿过和弦转换，让你的即兴听起来更有目标感、流动感和音乐性。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-06-26T00:07:48Z",
+    "updatedAt": "2026-06-26T00:07:48Z"
+  },
+  {
+    "id": "a-minor-chord-tone-treasure-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord-Tone Treasure Hunt in A Minor",
+        "pt-BR": "Caça ao Tesouro das Notas do Acorde em Lá Menor",
+        "es": "Caza del Tesoro de Tonos del Acorde en La Menor",
+        "de": "Akkordton-Schatzsuche in a-Moll",
+        "ja": "Aマイナーで探すコードトーン宝探し",
+        "zh-Hans": "A小调和弦音寻宝"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Target chord tones inside A natural minor so your guitar solos stop wandering and start landing with purpose.",
+        "pt-BR": "Mire nas notas do acorde dentro de Lá menor natural para que seus solos de guitarra parem de vagar e passem a pousar com intenção.",
+        "es": "Apunta a los tonos del acorde dentro de La menor natural para que tus solos de guitarra dejen de vagar y empiecen a aterrizar con intención.",
+        "de": "Ziele innerhalb von a-Moll natürlich auf Akkordtöne, damit deine Gitarrensoli nicht mehr herumirren, sondern bewusst landen.",
+        "ja": "Aナチュラルマイナーの中でコードトーンを狙い、ギターソロがさまよわず意図を持って着地できるようにします。",
+        "zh-Hans": "在A自然小调里瞄准和弦音，让你的吉他独奏不再乱逛，而是带着目标落地。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-07-11T00:06:33Z",
+    "updatedAt": "2026-07-11T00:06:33Z"
+  },
+  {
+    "id": "guitar-guide-tone-radar-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Radar Sprint",
+        "pt-BR": "Radar Sprint de Guide Tones na Guitarra",
+        "es": "Sprint de Radar de Notas Guía en Guitarra",
+        "de": "Gitarren-Guide-Tone-Radar-Sprint",
+        "ja": "ギター・ガイドトーン・レーダースプリント",
+        "zh-Hans": "吉他导音雷达冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build sharper phrasing by chasing guide tones through a compact improv game in G major.",
+        "pt-BR": "Construa frases mais precisas perseguindo guide tones em um jogo compacto de improviso em Sol maior.",
+        "es": "Construye frases más precisas persiguiendo notas guía en un juego compacto de improvisación en Sol mayor.",
+        "de": "Baue präzisere Phrasen, indem du in einem kompakten Impro-Spiel in G-Dur Guide Tones jagst.",
+        "ja": "Gメジャーのコンパクトな即興ゲームでガイドトーンを追いかけ、より正確なフレージングを作ります。",
+        "zh-Hans": "在 G 大调的紧凑即兴游戏中追踪导音，建立更精准的乐句感。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-07-13T00:06:03Z",
+    "updatedAt": "2026-07-13T00:06:03Z"
+  },
+  {
+    "id": "guitar-chord-tone-trampoline",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Chord-Tone Trampoline",
+        "pt-BR": "Trampolim de Tons de Acorde na Guitarra",
+        "es": "Trampolín de Tonos de Acorde en Guitarra",
+        "de": "Gitarren-Akkordton-Trampolin",
+        "ja": "ギター・コードトーン・トランポリン",
+        "zh-Hans": "吉他和弦音蹦床挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce through scale notes and land hard on chord tones without losing groove or nerve.",
+        "pt-BR": "Salte pelas notas da escala e pouse firme nos tons do acorde sem perder o groove nem a coragem.",
+        "es": "Rebota por las notas de la escala y aterriza con fuerza en los tonos del acorde sin perder groove ni valentía.",
+        "de": "Springe durch Skalentöne und lande sicher auf Akkordtönen, ohne Groove oder Mut zu verlieren.",
+        "ja": "スケール音を跳ね回りながら、グルーヴも度胸も失わずにコードトーンへ着地しよう。",
+        "zh-Hans": "在音阶音之间弹跳，同时稳稳落在和弦音上，不丢掉律动，也不丢掉胆量。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-07-17T00:08:16Z",
+    "updatedAt": "2026-07-17T00:08:16Z"
+  },
+  {
+    "id": "guitar-guide-tone-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Guide-Tone Slingshot",
+        "pt-BR": "Estilingue de Guide Tones na Guitarra",
+        "es": "Tirachinas de Guide Tones para Guitarra",
+        "de": "Guitar Guide-Tone Slingshot",
+        "ja": "ギター・ガイドトーン・スリングショット",
+        "zh-Hans": "吉他导音弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch your phrases toward 3rds and 7ths so your solo locks onto the harmony.",
+        "pt-BR": "Lance suas frases em direção às 3as e 7as para colar o solo na harmonia.",
+        "es": "Lanza tus frases hacia las 3ras y 7mas para que tu solo se pegue a la armonía.",
+        "de": "Schleudere deine Phrasen zu den Terzen und Septimen, damit dein Solo fest in der Harmonie landet.",
+        "ja": "3度と7度に向かってフレーズを飛ばし、ソロをハーモニーにしっかり結びつけよう。",
+        "zh-Hans": "把乐句发射到3音和7音上，让你的独奏更牢地贴住和声。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-07-18T00:07:07Z",
+    "updatedAt": "2026-07-18T00:07:07Z"
+  },
+  {
+    "id": "guitar-target-note-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Target-Note Relay",
+        "pt-BR": "Revezamento de Notas-Alvo na Guitarra",
+        "es": "Relevo de Notas Objetivo en Guitarra",
+        "de": "Gitarren-Zielton-Staffel",
+        "ja": "ギター・ターゲットノート・リレー",
+        "zh-Hans": "吉他目标音接力赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Chase chord tones through a fast-moving scale game that sharpens timing, phrasing, and improvisation instincts.",
+        "pt-BR": "Persiga notas do acorde em um jogo rápido com escalas para afiar timing, fraseado e instinto de improvisação.",
+        "es": "Persigue notas del acorde en un juego rápido con escalas para afinar timing, fraseo e instinto de improvisación.",
+        "de": "Jage Akkordtöne in einem schnellen Skalen-Spiel und schärfe Timing, Phrasierung und Improvisationsinstinkt.",
+        "ja": "コードトーンを追いかけるスケールゲームで、タイム感、フレージング、即興の勘を鍛えよう。",
+        "zh-Hans": "在快节奏音阶游戏里追击和弦音，磨炼节奏、乐句感与即兴判断力。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-07-19T00:05:55Z",
+    "updatedAt": "2026-07-19T00:05:55Z"
   }
 ]

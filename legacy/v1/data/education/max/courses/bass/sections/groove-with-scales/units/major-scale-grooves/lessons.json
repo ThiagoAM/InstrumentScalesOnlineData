@@ -82,5 +82,1965 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "syncopated-major-groove-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Major Groove Builder",
+        "pt-BR": "Groove maior sincopado",
+        "es": "Groove mayor sincopado",
+        "de": "Synkopierter Dur-Groove-Builder",
+        "ja": "シンコペーション・メジャー・グルーヴ",
+        "zh-Hans": "切分大调律动构建"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Create punchy bass grooves by syncing a major scale with tight rhythm accents.",
+        "pt-BR": "Crie grooves de baixo com pegada usando escala maior e acentos rítmicos precisos.",
+        "es": "Crea grooves de bajo con pegada usando la escala mayor y acentos rítmicos precisos.",
+        "de": "Baue druckvolle Bassgrooves, indem du eine Dur-Tonleiter mit präzisen Akzenten kombinierst.",
+        "ja": "メジャー・スケールと的確なアクセントでパンチのあるベース・グルーヴを作ろう。",
+        "zh-Hans": "用大调音阶和精准重音打造有冲击力的贝斯律动。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-16T00:06:48Z",
+    "updatedAt": "2026-03-16T00:06:48Z"
+  },
+  {
+    "id": "ghost-notes-and-dynamic-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Ghost Notes and Dynamics in Major Grooves\"",
+        "pt-BR": "\"Ghost notes e dinâmica em grooves maiores\"",
+        "es": "\"Ghost notes y dinámica en grooves mayores\"",
+        "de": "\"Ghost Notes und Dynamik in Dur-Grooves\"",
+        "ja": "\"ゴーストノートとダイナミクスで作るメジャー・グルーヴ\"",
+        "zh-Hans": "\"大调律动中的幽灵音与动态\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use ghost notes and accents to make major-scale grooves punchy and alive.\"",
+        "pt-BR": "\"Use ghost notes e acentos para deixar grooves em escala maior mais vivos e marcantes.\"",
+        "es": "\"Usa ghost notes y acentos para que los grooves en escala mayor suenen más vivos y con pegada.\"",
+        "de": "\"Nutze Ghost Notes und Akzente, damit Dur-Grooves punchy und lebendig klingen.\"",
+        "ja": "\"ゴーストノートとアクセントで、メジャー・グルーヴにパンチと生命感を。\"",
+        "zh-Hans": "\"用幽灵音和重音让大调律动更有冲击力、更有生命力。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-17T00:06:50Z",
+    "updatedAt": "2026-03-17T00:06:50Z"
+  },
+  {
+    "id": "major-scale-groove-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Groove Builder",
+        "pt-BR": "Construtor de Groove com Escala Maior",
+        "es": "Constructor de groove con escala mayor",
+        "de": "Groove-Bauer mit der Durtonleiter",
+        "ja": "メジャースケール・グルーヴビルダー",
+        "zh-Hans": "大调音阶律动构建器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn the major scale into tight bass grooves with ghost notes and accents.",
+        "pt-BR": "Transforme a escala maior em grooves sólidos de baixo com ghost notes e acentos.",
+        "es": "Convierte la escala mayor en grooves de bajo firmes con notas fantasma y acentos.",
+        "de": "Mach aus der Durtonleiter fette Bass-Grooves mit Ghost Notes und Akzenten.",
+        "ja": "メジャースケールをゴーストノートとアクセントでベースのグルーヴに変える。",
+        "zh-Hans": "用大调音阶、幽灵音和重音做出扎实的贝斯律动。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-18T00:05:03Z",
+    "updatedAt": "2026-03-18T00:05:03Z"
+  },
+  {
+    "id": "call-and-response-major-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Major Grooves",
+        "pt-BR": "Grooves Maiores de Chamada e Resposta",
+        "es": "Grooves mayores de llamada y respuesta",
+        "de": "Dur-Grooves im Call-and-Response",
+        "ja": "メジャーグルーヴのコール＆レスポンス",
+        "zh-Hans": "大调律动的呼应练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build groove vocabulary by answering your own bass phrases.",
+        "pt-BR": "Construa vocabulário de groove respondendo às suas próprias frases de baixo.",
+        "es": "Construye vocabulario de groove respondiendo a tus propias frases de bajo.",
+        "de": "Baue Groove-Vokabular auf, indem du deine eigenen Bassphrasen beantwortest.",
+        "ja": "自分のフレーズに答えてグルーヴ語彙を増やそう。",
+        "zh-Hans": "用自己回应自己的贝斯乐句来扩展律动语汇。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-20T00:07:14Z",
+    "updatedAt": "2026-03-20T00:07:14Z"
+  },
+  {
+    "id": "bass-major-groove-pockets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Groove Pockets",
+        "pt-BR": "Bolsões de Groove em Maior",
+        "es": "Bolsillos de Groove en Mayor",
+        "de": "Groove-Pockets in Dur",
+        "ja": "メジャーグルーヴ・ポケット",
+        "zh-Hans": "大调律动口袋"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock in major-scale grooves by building tight two-bar bass patterns.",
+        "pt-BR": "Trave grooves da escala maior criando padrões de baixo em dois compassos.",
+        "es": "Afianza grooves de la escala mayor creando patrones de bajo en dos compases.",
+        "de": "Stabilisiere Dur-Grooves, indem du zwei-taktige Bassmuster baust.",
+        "ja": "メジャースケールで2小節のベースパターンを作り、グルーヴを固めよう。",
+        "zh-Hans": "用大调音阶做两小节贝斯型，稳稳锁住律动。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-03-21T00:03:57Z",
+    "updatedAt": "2026-03-21T00:03:57Z"
+  },
+  {
+    "id": "groove-ladder-g-major",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Groove Ladder in G Major\"",
+        "pt-BR": "\"Escada de Groove em Sol Maior\"",
+        "es": "\"Escalera de groove en Sol mayor\"",
+        "de": "\"Groove‑Leiter in G‑Dur\"",
+        "ja": "\"Gメジャーのグルーヴ階段\"",
+        "zh-Hans": "\"G大调律动阶梯\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a tight bass groove while climbing the tempo ladder.\"",
+        "pt-BR": "\"Construa um groove firme enquanto sobe o BPM.\"",
+        "es": "\"Construye un groove sólido mientras subes el tempo.\"",
+        "de": "\"Baue einen tighten Bass‑Groove auf, während du das Tempo steigerst.\"",
+        "ja": "\"テンポを上げながらタイトなグルーヴを作る。\"",
+        "zh-Hans": "\"在提高速度的同时建立扎实的贝斯律动。\""
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-03-22T00:05:16Z",
+    "updatedAt": "2026-03-22T00:05:16Z"
+  },
+  {
+    "id": "two-bar-major-groove-variations",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Two-Bar Major Groove Variations\"",
+        "pt-BR": "\"Variações de Groove Maior em 2 Compassos\"",
+        "es": "\"Variaciones de Groove Mayor en 2 Compases\"",
+        "de": "\"Zwei-Takt-Groove-Variationen in Dur\"",
+        "ja": "\"2小節メジャー・グルーヴのバリエーション\"",
+        "zh-Hans": "\"两小节大调律动变体\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a 2-bar groove in G major and swap the second bar to create motion.\"",
+        "pt-BR": "\"Crie um groove em Sol maior e troque o segundo compasso para gerar movimento.\"",
+        "es": "\"Crea un groove en Sol mayor y cambia el segundo compás para generar movimiento.\"",
+        "de": "\"Baue einen 2-Takt-Groove in G-Dur und tausche den zweiten Takt für Bewegung.\"",
+        "ja": "\"Gメジャーで2小節のグルーヴを作り、2小節目を入れ替えて動きを出す。\"",
+        "zh-Hans": "\"在G大调中做两小节律动，并替换第二小节制造变化。\""
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-03-23T00:07:44Z",
+    "updatedAt": "2026-03-23T00:07:44Z"
+  },
+  {
+    "id": "syncopated-root-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Root Grooves",
+        "pt-BR": "Grooves Sincopados de Fundamentais",
+        "es": "Grooves Sincopados de Fundamentales",
+        "de": "Synkopierte Grundton-Grooves",
+        "ja": "シンコペーションのルート・グルーヴ",
+        "zh-Hans": "切分根音律动"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock in roots with rests, ghost notes, and scale approach tones.",
+        "pt-BR": "Trave as fundamentais com pausas, ghost notes e notas de aproximação da escala.",
+        "es": "Asegura las fundamentales con silencios, ghost notes y notas de aproximación de la escala.",
+        "de": "Verankere Grundtöne mit Pausen, Ghost Notes und Skalen‑Annäherungen.",
+        "ja": "休符、ゴーストノート、スケールのアプローチでルートをロックする。",
+        "zh-Hans": "用休止、幽灵音和音阶趋近音锁定根音。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-03-27T00:08:22Z",
+    "updatedAt": "2026-03-27T00:08:22Z"
+  },
+  {
+    "id": "palm-muted-scale-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Palm-Muted Scale Groove\"",
+        "pt-BR": "\"Groove de Escala com Palm Mute\"",
+        "es": "\"Groove de escala con palm mute\"",
+        "de": "\"Palm‑Mute‑Skalen‑Groove\"",
+        "ja": "\"パームミュート・スケールグルーヴ\"",
+        "zh-Hans": "\"掌根消音音阶律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Blend palm muting, ghost notes, and major-scale tones to lock in a tight bass pocket.\"",
+        "pt-BR": "\"Misture palm mute, ghost notes e tons da escala maior para travar um groove firme.\"",
+        "es": "\"Mezcla palm mute, ghost notes y tonos de escala mayor para un groove sólido.\"",
+        "de": "\"Verbinde Palm‑Muting, Ghost Notes und Durton‑Töne für einen tightenen Bass‑Groove.\"",
+        "ja": "\"パームミュートとゴーストノート、大調スケール音でタイトなグルーヴを作る。\"",
+        "zh-Hans": "\"结合掌根消音、幽灵音与大调音阶音，锁定紧实的贝斯律动。\""
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-03-28T00:06:51Z",
+    "updatedAt": "2026-03-28T00:06:51Z"
+  },
+  {
+    "id": "bass-groove-accent-switches",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Bass Groove Accent Switches\"",
+        "pt-BR": "\"Trocas de Acento no Groove de Baixo\"",
+        "es": "\"Cambios de Acento en el Groove de Bajo\"",
+        "de": "\"Akzentwechsel im Bass‑Groove\"",
+        "ja": "\"ベース・グルーヴのアクセント切り替え\"",
+        "zh-Hans": "\"贝斯律动重音切换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Shift accents across a major-scale groove to lock timing and feel.\"",
+        "pt-BR": "\"Mude os acentos em um groove de escala maior para travar o tempo e o feeling.\"",
+        "es": "\"Mueve los acentos en un groove de escala mayor para asegurar tiempo y feel.\"",
+        "de": "\"Verschiebe Akzente in einem Dur‑Groove, um Timing und Feel zu festigen.\"",
+        "ja": "\"メジャースケールのグルーヴでアクセントを動かし、タイム感とフィールを鍛える。\"",
+        "zh-Hans": "\"在大调律动中移动重音，稳固节拍感与律动感。\""
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-03-29T00:04:19Z",
+    "updatedAt": "2026-03-29T00:04:19Z"
+  },
+  {
+    "id": "root-third-bounce-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Root-to-Third Bounce Grooves\"",
+        "pt-BR": "\"Grooves de Salto entre Tônica e Terça\"",
+        "es": "\"Grooves de Rebote entre Tónica y Tercera\"",
+        "de": "\"Root‑Third‑Bounce‑Grooves\"",
+        "ja": "\"ルート→サードのバウンス・グルーヴ\"",
+        "zh-Hans": "\"根音到三度的弹跳律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build major-scale grooves by bouncing between roots and thirds with rhythmic punch.\"",
+        "pt-BR": "\"Construa grooves em escala maior alternando tônica e terça com pegada rítmica.\"",
+        "es": "\"Crea grooves de escala mayor rebotando entre tónica y tercera con pegada rítmica.\"",
+        "de": "\"Baue Dur‑Grooves, indem du zwischen Grundton und Terz mit rhythmischem Punch springst.\"",
+        "ja": "\"ルートとサードを跳ねさせて、メジャースケールのグルーヴを作ろう。\"",
+        "zh-Hans": "\"在大调音阶中用根音与三度的弹跳打造有力节奏。\""
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-03-31T00:06:59Z",
+    "updatedAt": "2026-03-31T00:06:59Z"
+  },
+  {
+    "id": "syncopated-scale-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Syncopated Scale Groove\"",
+        "pt-BR": "\"Groove Sincopado com Escala\"",
+        "es": "\"Groove Sincopado con Escala\"",
+        "de": "\"Synkopierter Skalen-Groove\"",
+        "ja": "\"シンコペーションのスケール・グルーヴ\"",
+        "zh-Hans": "\"切分节奏的音阶律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a punchy major-scale groove with syncopation, ghost notes, and clean muting.\"",
+        "pt-BR": "\"Construa um groove de escala maior com síncopes, ghost notes e abafamento limpo.\"",
+        "es": "\"Construye un groove de escala mayor con síncopas, ghost notes y apagado limpio.\"",
+        "de": "\"Baue einen knackigen Dur-Skalen-Groove mit Synkopen, Ghost Notes und sauberem Abdämpfen.\"",
+        "ja": "\"シンコペーション、ゴーストノート、ミュートでメジャースケールのグルーヴを作ろう。\"",
+        "zh-Hans": "\"用切分、幽灵音和干净的闷音打造有力的大小调音阶律动。\""
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-04-01T00:05:41Z",
+    "updatedAt": "2026-04-01T00:05:41Z"
+  },
+  {
+    "id": "bass-pocket-landing-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Pocket Landing Groove\"",
+        "pt-BR": "\"Groove de Aterrissagem no Pocket\"",
+        "es": "\"Groove de Aterrizaje en el Pocket\"",
+        "de": "\"Pocket‑Landings‑Groove\"",
+        "ja": "\"ポケット・ランディング・グルーヴ\"",
+        "zh-Hans": "\"口袋着陆律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use scale steps, rests, and accents to land on strong beats with a tight bass pocket.\"",
+        "pt-BR": "\"Use passos de escala, pausas e acentos para aterrissar nos tempos fortes com um pocket firme.\"",
+        "es": "\"Usa pasos de escala, silencios y acentos para aterrizar en los tiempos fuertes con un pocket firme.\"",
+        "de": "\"Nutze Skalen‑Schritte, Pausen und Akzente, um auf den starken Zählzeiten sauber zu landen.\"",
+        "ja": "\"スケールのステップ、休符、アクセントで強拍に着地し、タイトなポケットを作ります。\"",
+        "zh-Hans": "\"用音阶步进、休止与重音，在强拍上稳稳着陆。\""
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-04-02T00:05:19Z",
+    "updatedAt": "2026-04-02T00:05:19Z"
+  },
+  {
+    "id": "octave-pop-groove-circuit",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Octave Pop Groove Circuit\"",
+        "pt-BR": "\"Circuito de Groove com Oitava\"",
+        "es": "\"Circuito de Groove con Octava\"",
+        "de": "\"Oktav-Pop-Groove-Zirkel\"",
+        "ja": "\"オクターブ・ポップ・グルーヴ回路\"",
+        "zh-Hans": "\"八度弹跳律动回路\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build a major-scale groove by bouncing between root and octave with tight rhythmic pops.\"",
+        "pt-BR": "\"Construa um groove em escala maior alternando tônica e oitava com pegada rítmica.\"",
+        "es": "\"Construye un groove de escala mayor alternando tónica y octava con golpes rítmicos.\"",
+        "de": "\"Baue einen Dur-Groove, indem du zwischen Grundton und Oktave hüpfst.\"",
+        "ja": "\"ルートとオクターブを跳ねさせてメジャースケールのグルーヴを作る。\"",
+        "zh-Hans": "\"用根音与八度的弹跳构建大调音阶律动。\""
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-04-03T00:05:59Z",
+    "updatedAt": "2026-04-03T00:05:59Z"
+  },
+  {
+    "id": "major-scale-groove-maze",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Major Scale Groove Maze",
+        "pt-BR": "Labirinto de groove na escala maior",
+        "es": "Laberinto de groove en la escala mayor",
+        "de": "Groove-Labyrinth in der Durtonleiter",
+        "ja": "メジャースケール・グルーヴ迷路",
+        "zh-Hans": "大调音阶律动迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove maze using major scale degrees and rhythmic rules.",
+        "pt-BR": "Monte um labirinto de grooves usando graus da escala maior e regras rítmicas.",
+        "es": "Construye un laberinto de grooves con grados de la escala mayor y reglas rítmicas.",
+        "de": "Baue ein Groove-Labyrinth mit Durtonleiter-Stufen und Rhythmusregeln.",
+        "ja": "メジャースケールの度数とリズムルールでグルーヴ迷路を作ろう。",
+        "zh-Hans": "用大调音阶级数和节奏规则打造律动迷宫。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-04-04T00:06:59Z",
+    "updatedAt": "2026-04-04T00:06:59Z"
+  },
+  {
+    "id": "bass-major-scale-groove-kitchen",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Major Scale Groove Kitchen\"",
+        "pt-BR": "\"Cozinha de grooves em escala maior\"",
+        "es": "\"Cocina de grooves en escala mayor\"",
+        "de": "\"Groove-Küche mit der Durtonleiter\"",
+        "ja": "\"メジャー・スケールのグルーヴ・キッチン\"",
+        "zh-Hans": "\"大调音阶 Groove 厨房\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Cook up bass grooves from the major scale by balancing roots, passing tones, space, and pocket.\"",
+        "pt-BR": "\"Cozinhe grooves de baixo com a escala maior equilibrando tônicas, passagens, espaço e pocket.\"",
+        "es": "\"Cocina grooves de bajo con la escala mayor equilibrando tónicas, notas de paso, espacio y pocket.\"",
+        "de": "\"Koche Bassgrooves aus der Durtonleiter, indem du Grundtöne, Durchgangstöne, Raum und Pocket ausbalancierst.\"",
+        "ja": "\"ルート、経過音、スペース、ポケットのバランスでメジャー・スケールのベースグルーヴを料理しよう。\"",
+        "zh-Hans": "\"用大调音阶做贝斯 groove，在根音、经过音、留白和 pocket 之间找到平衡。\""
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-04-09T00:08:16Z",
+    "updatedAt": "2026-04-09T00:08:16Z"
+  },
+  {
+    "id": "pocket-detective-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Detective in G Major",
+        "pt-BR": "Detetive do pocket em Sol maior",
+        "es": "Detective del pocket en Sol mayor",
+        "de": "Pocket-Detektiv in G-Dur",
+        "ja": "Gメジャーのポケット探偵",
+        "zh-Hans": "G大调律动侦探"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Solve groove clues with scale tones, rests, and accents until the pocket clicks.",
+        "pt-BR": "Resolva pistas de groove com notas da escala, pausas e acentos até o pocket encaixar.",
+        "es": "Resuelve pistas de groove con notas de escala, silencios y acentos hasta que el pocket encaje.",
+        "de": "Löse Groove-Spuren mit Skalentönen, Pausen und Akzenten, bis das Pocket einrastet.",
+        "ja": "音階音、休符、アクセントの手がかりを解きながら、グルーヴのポケットをつかもう。",
+        "zh-Hans": "用音阶音、休止和重音破解律动线索，直到 pocket 真正锁住。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-04-10T00:06:25Z",
+    "updatedAt": "2026-04-10T00:06:25Z"
+  },
+  {
+    "id": "g-major-pocket-factory",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Pocket Factory",
+        "pt-BR": "Fábrica de Pocket em Sol Maior",
+        "es": "Fábrica de Pocket en Sol Mayor",
+        "de": "Pocket-Fabrik in G-Dur",
+        "ja": "Gメジャー・ポケット工場",
+        "zh-Hans": "G大调律动工厂"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove assembly line in G major with rests, ghost notes, and tight pocket decisions.",
+        "pt-BR": "Monte uma linha de produção de grooves em Sol maior com pausas, ghost notes e decisões certeiras de pocket.",
+        "es": "Construye una línea de producción de grooves en Sol mayor con silencios, ghost notes y decisiones firmes de pocket.",
+        "de": "Baue eine Groove-Produktionslinie in G-Dur mit Pausen, Ghost Notes und präzisen Pocket-Entscheidungen.",
+        "ja": "休符、ゴーストノート、タイトな判断で、Gメジャーのベースグルーヴを工場のように組み立てよう。",
+        "zh-Hans": "用休止、幽灵音和精准的 pocket 决策，把 G 大调音阶组装成一条贝斯律动生产线。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-04-11T00:06:58Z",
+    "updatedAt": "2026-04-11T00:06:58Z"
+  },
+  {
+    "id": "ghost-note-maze-for-major-scale-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost-Note Maze for Major Scale Grooves",
+        "pt-BR": "Labirinto de ghost notes para grooves com escala maior",
+        "es": "Laberinto de ghost notes para grooves de escala mayor",
+        "de": "Ghost-Note-Labyrinth für Grooves in der Durtonleiter",
+        "ja": "メジャースケール・グルーヴのためのゴーストノート迷路",
+        "zh-Hans": "大调groove幽灵音迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock major-scale bass notes into a danceable groove by weaving in ghost notes, space, and strong subdivision control.",
+        "pt-BR": "Prenda as notas da escala maior em um groove dançante usando ghost notes, espaço e controle firme da subdivisão.",
+        "es": "Encaja las notas de la escala mayor en un groove bailable usando ghost notes, espacio y control fuerte de subdivisión.",
+        "de": "Verbinde Durtonleiter-Töne mit einem tanzbaren Bassgroove durch Ghost Notes, Raum und starke Unterteilungskontrolle.",
+        "ja": "ゴーストノート、間、そして細かい拍感のコントロールで、メジャースケールの音を踊れるベースグルーヴに変えます。",
+        "zh-Hans": "用幽灵音、留白和稳定细分控制，把大调音阶音编进会让人点头的贝斯groove里。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-04-12T00:04:35Z",
+    "updatedAt": "2026-04-12T00:04:35Z"
+  },
+  {
+    "id": "pocket-relay-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Relay in G Major",
+        "pt-BR": "Revezamento de pocket em Sol maior",
+        "es": "Relevo de pocket en Sol mayor",
+        "de": "Pocket-Staffel in G-Dur",
+        "ja": "Gメジャーのポケット・リレー",
+        "zh-Hans": "G大调律动接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pass a tight groove between rhythmic roles while keeping the bass pocket alive in G major.",
+        "pt-BR": "Passe um groove firme entre funções rítmicas sem perder o pocket do baixo em Sol maior.",
+        "es": "Pasa un groove firme entre funciones rítmicas sin perder el pocket del bajo en Sol mayor.",
+        "de": "Reiche einen tighten Groove zwischen rhythmischen Rollen weiter, ohne das Bass-Pocket in G-Dur zu verlieren.",
+        "ja": "Gメジャーでベースのポケットを保ったまま、リズムの役割を受け渡していこう。",
+        "zh-Hans": "在 G 大调中把律动在不同节奏角色之间传递，同时守住贝斯 pocket。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-04-13T00:07:02Z",
+    "updatedAt": "2026-04-13T00:07:02Z"
+  },
+  {
+    "id": "g-major-pocket-pressure-test",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Pocket Pressure Test",
+        "pt-BR": "Teste de Pressão do Pocket em Sol Maior",
+        "es": "Prueba de presión del pocket en Sol mayor",
+        "de": "Pocket-Drucktest in G-Dur",
+        "ja": "Gメジャー・ポケット圧力テスト",
+        "zh-Hans": "G大调 Pocket 压力测试"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build stronger bass groove choices by surviving timed pocket decisions in G major.",
+        "pt-BR": "Fortaleça suas escolhas de groove no baixo sobrevivendo a decisões rápidas de pocket em Sol maior.",
+        "es": "Fortalece tus decisiones de groove en el bajo sobreviviendo a elecciones rápidas de pocket en Sol mayor.",
+        "de": "Stärke deine Bass-Groove-Entscheidungen mit schnellen Pocket-Entscheidungen in G-Dur.",
+        "ja": "Gメジャーで素早いポケット判断を行い、ベースのグルーヴ選択を強くしよう。",
+        "zh-Hans": "在G大调中进行限时 pocket 决策，强化你的贝斯 groove 选择。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-04-15T00:04:12Z",
+    "updatedAt": "2026-04-15T00:04:12Z"
+  },
+  {
+    "id": "groove-passport-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Groove Passport in G Major",
+        "pt-BR": "Passaporte do Groove em Sol Maior",
+        "es": "Pasaporte del Groove en Sol Mayor",
+        "de": "Groove-Pass in G-Dur",
+        "ja": "Gメジャーのグルーヴ・パスポート",
+        "zh-Hans": "G大调 Groove 护照"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass pocket by visiting four groove zones in G major without losing the beat.",
+        "pt-BR": "Treine o pocket no baixo visitando quatro zonas de groove em Sol maior sem perder o pulso.",
+        "es": "Entrena tu pocket en el bajo visitando cuatro zonas de groove en Sol mayor sin perder el pulso.",
+        "de": "Trainiere dein Bass-Pocket, indem du vier Groove-Zonen in G-Dur besuchst, ohne den Puls zu verlieren.",
+        "ja": "Gメジャーの4つのグルーヴ地帯を巡りながら、拍を失わずにベースのポケットを鍛えよう。",
+        "zh-Hans": "在不丢拍的前提下穿越G大调的四个groove区域，训练你的贝斯 pocket。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-04-16T00:07:52Z",
+    "updatedAt": "2026-04-16T00:07:52Z"
+  },
+  {
+    "id": "bass-octave-bounce-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Bounce Groove",
+        "pt-BR": "Groove Saltando Oitavas",
+        "es": "Groove de Rebote en Octavas",
+        "de": "Oktav-Sprung-Groove",
+        "ja": "オクターブ・バウンス・グルーヴ",
+        "zh-Hans": "八度弹跳Groove"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a punchy bass groove by bouncing between roots, octaves, and quick scale connectors.",
+        "pt-BR": "Monte um groove de baixo com pegada saltando entre tônicas, oitavas e conectores rápidos da escala.",
+        "es": "Construye un groove de bajo con pegada rebotando entre tónicas, octavas y conectores rápidos de la escala.",
+        "de": "Baue einen druckvollen Bassgroove, indem du zwischen Grundtönen, Oktaven und schnellen Skalenverbindern springst.",
+        "ja": "ルート、オクターブ、短いスケールのつなぎ音を使って、パンチのあるベースグルーヴを作ろう。",
+        "zh-Hans": "在根音、八度与快速音阶连接音之间弹跳，做出有冲击力的贝斯 groove。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-04-17T00:06:49Z",
+    "updatedAt": "2026-04-17T00:06:49Z"
+  },
+  {
+    "id": "bass-pocket-switchboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Switchboard",
+        "pt-BR": "Painel de Pocket do Baixo",
+        "es": "Panel de Pocket para Bajo",
+        "de": "Bass-Pocket-Schaltpult",
+        "ja": "ベース・ポケット切替盤",
+        "zh-Hans": "贝斯 Pocket 切换台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Flip between groove settings in real time while keeping your bass line solid, simple, and alive.",
+        "pt-BR": "Alterne ajustes de groove em tempo real enquanto mantém sua linha de baixo sólida, simples e viva.",
+        "es": "Cambia ajustes de groove en tiempo real mientras mantienes tu línea de bajo sólida, simple y viva.",
+        "de": "Schalte Groove-Einstellungen in Echtzeit um und halte deine Basslinie trotzdem solide, einfach und lebendig.",
+        "ja": "グルーヴの設定をリアルタイムで切り替えながら、ベースラインを堅実でシンプル、しかも生き生きと保とう。",
+        "zh-Hans": "实时切换 groove 设置，同时让你的贝斯线依旧扎实、简洁又鲜活。"
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-04-23T00:09:23Z",
+    "updatedAt": "2026-04-23T00:09:23Z"
+  },
+  {
+    "id": "pocket-traffic-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Traffic Control",
+        "pt-BR": "Controle de Tráfego do Pocket",
+        "es": "Control de Tráfico del Pocket",
+        "de": "Pocket-Verkehrskontrolle",
+        "ja": "ポケット交通整理",
+        "zh-Hans": "Pocket交通指挥"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Direct a bass groove like a traffic controller by deciding when scale notes move, stop, ghost, and land.",
+        "pt-BR": "Comande um groove de baixo como um controlador de tráfego, decidindo quando as notas da escala andam, param, somem e aterrissam.",
+        "es": "Dirige un groove de bajo como si fueras un controlador de tráfico, decidiendo cuándo las notas se mueven, se detienen, callan o aterrizan.",
+        "de": "Steuere einen Bassgroove wie eine Verkehrsleitung und entscheide, wann Skalentöne fahren, halten, schweigen oder landen.",
+        "ja": "ベースグルーヴを交通整理するように、音階音を動かす・止める・休ませる・着地させる判断を鍛えるレッスンです。",
+        "zh-Hans": "像交通指挥员一样管理贝斯律动，决定音阶音何时前进、停住、留白、幽灵化和落点。"
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-04-24T00:08:03Z",
+    "updatedAt": "2026-04-24T00:08:03Z"
+  },
+  {
+    "id": "bass-pocket-brake-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Brake Lights",
+        "pt-BR": "Luzes de Freio do Pocket",
+        "es": "Luces de Freno del Pocket",
+        "de": "Bremslichter im Pocket",
+        "ja": "ポケットのブレーキランプ",
+        "zh-Hans": "Pocket刹车灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build tougher bass grooves by deciding exactly where to brake, leave space, and relaunch scale motion.",
+        "pt-BR": "Construa grooves de baixo mais fortes decidindo exatamente onde frear, deixar espaço e relançar o movimento da escala.",
+        "es": "Construye grooves de bajo más fuertes decidiendo exactamente dónde frenar, dejar espacio y relanzar el movimiento de la escala.",
+        "de": "Baue stärkere Bassgrooves, indem du genau entscheidest, wo du bremst, Raum lässt und die Skalenbewegung neu startest.",
+        "ja": "どこで止め、どこで空間を作り、どこでスケールの動きを再発進させるかを決めて、ベースグルーヴを強くするレッスンです。",
+        "zh-Hans": "通过精确决定何时刹车、留白和重新起步，打造更扎实的贝斯律动。"
+      }
+    },
+    "order": 29,
+    "createdAt": "2026-04-25T00:09:08Z",
+    "updatedAt": "2026-04-25T00:09:08Z"
+  },
+  {
+    "id": "bass-pocket-detours",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Detours in G Major",
+        "pt-BR": "Desvios de Pocket em Sol Maior",
+        "es": "Desvíos de Pocket en Sol Mayor",
+        "de": "Pocket-Umwege in G-Dur",
+        "ja": "Gメジャーのポケット回り道",
+        "zh-Hans": "G大调 Pocket 绕行"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build groovy bass lines by taking short detours from the root and landing back in the pocket on purpose.",
+        "pt-BR": "Monte grooves de baixo fazendo pequenos desvios da tônica e voltando ao pocket com intenção.",
+        "es": "Construye grooves de bajo tomando pequeños desvíos desde la tónica y regresando al pocket con intención.",
+        "de": "Baue groovige Basslinien, indem du kurze Umwege vom Grundton nimmst und bewusst wieder im Pocket landest.",
+        "ja": "ルートから少し寄り道して、狙ってポケットへ戻るベースラインを作ろう。",
+        "zh-Hans": "先从根音出发绕个小弯，再有意识地落回 pocket，做出更会跳动的贝斯线。"
+      }
+    },
+    "order": 30,
+    "createdAt": "2026-04-26T00:06:51Z",
+    "updatedAt": "2026-04-26T00:06:51Z"
+  },
+  {
+    "id": "bass-pocket-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Slingshot in D Minor",
+        "pt-BR": "Estilingue de Pocket em Ré Menor",
+        "es": "Tirachinas de Pocket en Re Menor",
+        "de": "Pocket-Schleuder in D-Moll",
+        "ja": "Dマイナーのポケット・スリングショット",
+        "zh-Hans": "D小调 Pocket 弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch tight bass grooves by pulling away from the root, storing tension, and snapping back into the pocket.",
+        "pt-BR": "Dispare grooves firmes de baixo afastando-se da tônica, guardando tensão e voltando com tudo para o pocket.",
+        "es": "Lanza grooves de bajo ajustados alejándote de la tónica, guardando tensión y regresando al pocket con fuerza.",
+        "de": "Starte enge Bassgrooves, indem du dich vom Grundton wegziehst, Spannung speicherst und zurück ins Pocket schnippst.",
+        "ja": "ルートから離れて張力をため、ポケットへ鋭く戻ることで、タイトなベースグルーヴを作ろう。",
+        "zh-Hans": "先从根音拉开距离积累张力，再猛地弹回 pocket，做出更扎实的贝斯律动。"
+      }
+    },
+    "order": 31,
+    "createdAt": "2026-04-27T00:09:02Z",
+    "updatedAt": "2026-04-27T00:09:02Z"
+  },
+  {
+    "id": "syncopated-major-scale-engine",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Major Scale Engine",
+        "pt-BR": "Motor Sincopado da Escala Maior",
+        "es": "Motor Sincopado de Escala Mayor",
+        "de": "Synkopierter Durtonleiter-Motor",
+        "ja": "シンコペーションで鍛えるメジャースケール・エンジン",
+        "zh-Hans": "切分节奏大音阶引擎"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove by pushing major-scale notes against the beat without losing time.",
+        "pt-BR": "Treine o groove colocando notas da escala maior contra a batida sem perder o tempo.",
+        "es": "Entrena tu groove colocando notas de la escala mayor contra el pulso sin perder el tiempo.",
+        "de": "Trainiere deinen Groove, indem du Durtonleiter-Töne gegen den Beat setzt, ohne das Timing zu verlieren.",
+        "ja": "拍を失わずにメジャースケールの音をビートに食い込ませ、グルーヴを鍛えるレッスンです。",
+        "zh-Hans": "在不丢拍的前提下，把大音阶音符推向拍子的空隙里，真正练出律动。"
+      }
+    },
+    "order": 32,
+    "createdAt": "2026-04-28T00:07:09Z",
+    "updatedAt": "2026-04-28T00:07:09Z"
+  },
+  {
+    "id": "bass-pocket-traffic-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Traffic Control",
+        "pt-BR": "Controle de Tráfego do Pocket",
+        "es": "Control de Tráfico del Pocket",
+        "de": "Pocket-Verkehrskontrolle",
+        "ja": "ポケット交通整理",
+        "zh-Hans": "Pocket交通指挥"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Direct a bass groove like a traffic controller by deciding when scale notes move, stop, ghost, and land.",
+        "pt-BR": "Comande um groove de baixo como um controlador de tráfego, decidindo quando as notas da escala andam, param, somem e aterrissam.",
+        "es": "Dirige un groove de bajo como si fueras un controlador de tráfico, decidiendo cuándo las notas se mueven, se detienen, callan o aterrizan.",
+        "de": "Steuere einen Bassgroove wie eine Verkehrsleitung und entscheide, wann Skalentöne fahren, halten, schweigen oder landen.",
+        "ja": "ベースグルーヴを交通整理するように、音階音を動かす・止める・休ませる・着地させる判断を鍛えるレッスンです。",
+        "zh-Hans": "像交通指挥员一样管理贝斯律动，决定音阶音何时前进、停住、留白、幽灵化和落点。"
+      }
+    },
+    "order": 33,
+    "createdAt": "2026-04-29T00:05:02Z",
+    "updatedAt": "2026-04-29T00:05:02Z"
+  },
+  {
+    "id": "bass-pocket-catapult",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Catapult in D Major",
+        "pt-BR": "Catapulta de Groove em Ré Maior",
+        "es": "Catapulta de Groove en Re Mayor",
+        "de": "Groove-Katapult in D-Dur",
+        "ja": "Dメジャーのポケット・カタパルト",
+        "zh-Hans": "D大调律动弹射器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch bass grooves with strong landings, elastic rests, and scale notes that snap back into time.",
+        "pt-BR": "Lance grooves de baixo com chegadas fortes, pausas elásticas e notas da escala que voltam certeiras para o tempo.",
+        "es": "Lanza grooves de bajo con llegadas fuertes, silencios elásticos y notas de escala que regresan al tiempo con precisión.",
+        "de": "Starte Bass-Grooves mit starken Landungen, federnden Pausen und Skalentönen, die präzise in die Zeit zurückschnappen.",
+        "ja": "強い着地、しなる休符、時間に戻ってくる音階音でベースのグルーヴを前へ飛ばそう。",
+        "zh-Hans": "用强力落点、弹性的停顿和会弹回拍点的音阶音，把贝斯 groove 发射出去。"
+      }
+    },
+    "order": 34,
+    "createdAt": "2026-04-30T00:08:00Z",
+    "updatedAt": "2026-04-30T00:08:00Z"
+  },
+  {
+    "id": "pocket-slalom-a-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Slalom in A Major",
+        "pt-BR": "Slalom de Pocket em Lá Maior",
+        "es": "Slalom de Pocket en La Mayor",
+        "de": "Pocket-Slalom in A-Dur",
+        "ja": "Aメジャーのポケット・スラローム",
+        "zh-Hans": "A大调 Pocket 回转赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Weave bass notes through tight turns, short rests, and strong landings to build a cleaner pocket.",
+        "pt-BR": "Costure notas de baixo entre curvas rápidas, pausas curtas e chegadas fortes para construir um pocket mais limpo.",
+        "es": "Teje notas de bajo entre giros rápidos, silencios cortos y aterrizajes firmes para construir un pocket más limpio.",
+        "de": "Fädle Basstöne durch enge Kurven, kurze Pausen und starke Landungen, um ein saubereres Pocket zu bauen.",
+        "ja": "速いカーブ、短い休符、強い着地を通して、よりクリーンなベースのポケットを作る練習です。",
+        "zh-Hans": "让贝斯音在急转、短休止和强落点之间穿梭，练出更干净的 pocket。"
+      }
+    },
+    "order": 35,
+    "createdAt": "2026-05-01T00:08:11Z",
+    "updatedAt": "2026-05-01T00:08:11Z"
+  },
+  {
+    "id": "bass-pocket-periscope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Periscope",
+        "pt-BR": "Periscópio do Pocket",
+        "es": "Periscopio del Pocket",
+        "de": "Pocket-Periskop",
+        "ja": "ポケット・ペリスコープ",
+        "zh-Hans": "Pocket 潜望镜"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Scan the groove from below the surface and surface at exactly the right beat on bass.",
+        "pt-BR": "Observe o groove por baixo da superfície e emerja exatamente no tempo certo no baixo.",
+        "es": "Observa el groove bajo la superficie y emerge exactamente en el pulso correcto con el bajo.",
+        "de": "Beobachte den Groove unter der Oberfläche und tauche auf dem genau richtigen Schlag auf.",
+        "ja": "グルーヴを水面下から観察し、ベースでちょうどいい拍に浮上しよう。",
+        "zh-Hans": "从水面下观察 groove，再在最对的拍点上用贝斯浮出水面。"
+      }
+    },
+    "order": 36,
+    "createdAt": "2026-05-03T00:10:04Z",
+    "updatedAt": "2026-05-03T00:10:04Z"
+  },
+  {
+    "id": "bass-pocket-compass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Compass for Bass Grooves",
+        "pt-BR": "Bússola do Pocket para Grooves de Baixo",
+        "es": "Brújula del Pocket para Grooves de Bajo",
+        "de": "Pocket-Kompass für Bass-Grooves",
+        "ja": "ベース・グルーヴのためのポケット・コンパス",
+        "zh-Hans": "贝斯律动口袋指南针"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate a bass line with groove north, ghost-note detours, and strong landings that always find home.",
+        "pt-BR": "Navegue sua linha de baixo com um norte de groove, desvios de ghost note e chegadas fortes que sempre encontram casa.",
+        "es": "Navega una línea de bajo con norte de groove, desvíos de ghost notes y aterrizajes fuertes que siempre encuentran casa.",
+        "de": "Navigiere deine Basslinie mit Groove-Norden, Ghost-Note-Umwegen und starken Landungen zurück nach Hause.",
+        "ja": "グルーヴの北、ゴーストノートの寄り道、強い着地でベースラインを迷わず導こう。",
+        "zh-Hans": "用律动的北方、幽灵音绕路和强力落点，让你的贝斯线始终找得到家。"
+      }
+    },
+    "order": 37,
+    "createdAt": "2026-05-04T00:09:33Z",
+    "updatedAt": "2026-05-04T00:09:33Z"
+  },
+  {
+    "id": "bass-ghost-note-switchyard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost-Note Switchyard",
+        "pt-BR": "Pátio de Troca com Ghost Notes",
+        "es": "Patio de Desvíos con Ghost Notes",
+        "de": "Ghost-Note-Rangierbahnhof",
+        "ja": "ゴーストノート・スイッチヤード",
+        "zh-Hans": "幽灵音调度场"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a major-scale groove that uses ghost notes like traffic signals instead of filler.",
+        "pt-BR": "Construa um groove de escala maior usando ghost notes como sinais de trânsito, não como enfeite vazio.",
+        "es": "Construye un groove de escala mayor usando las ghost notes como señales de tráfico y no como relleno.",
+        "de": "Baue einen Durtonleiter-Groove, in dem Ghost Notes wie Verkehrssignale statt bloßes Füllmaterial wirken.",
+        "ja": "ゴーストノートをただの埋め草ではなく交通信号のように使うメジャースケール・グルーヴを作ろう。",
+        "zh-Hans": "打造一个大调音阶律动，让幽灵音像交通信号而不是无意义填充。"
+      }
+    },
+    "order": 38,
+    "createdAt": "2026-05-05T00:05:34Z",
+    "updatedAt": "2026-05-05T00:05:34Z"
+  },
+  {
+    "id": "bass-pocket-switchback",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Switchback in A Major",
+        "pt-BR": "Curva de Pocket em Lá Maior",
+        "es": "Curva de Pocket en La Mayor",
+        "de": "Pocket-Kehre in A-Dur",
+        "ja": "Aメジャーのポケット・スイッチバック",
+        "zh-Hans": "A大调 Pocket 发卡弯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen your bass groove by making quick detours and returning to the pocket without wobbling.",
+        "pt-BR": "Fortaleça seu groove no baixo fazendo desvios rápidos e voltando ao pocket sem balançar.",
+        "es": "Refuerza tu groove de bajo haciendo desvíos rápidos y regresando al pocket sin tambalear.",
+        "de": "Stärke deinen Bass-Groove, indem du kurze Umwege nimmst und ohne Wackeln ins Pocket zurückkehrst.",
+        "ja": "すばやい寄り道から揺れずにポケットへ戻り、ベースのグルーヴを強くするレッスンです。",
+        "zh-Hans": "通过快速绕行再稳稳回到 pocket，让你的贝斯 groove 更扎实。"
+      }
+    },
+    "order": 39,
+    "createdAt": "2026-05-08T00:09:07Z",
+    "updatedAt": "2026-05-08T00:09:07Z"
+  },
+  {
+    "id": "bass-pocket-boomerang",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Boomerang in A Major",
+        "pt-BR": "Bumerangue de Pocket em Lá Maior",
+        "es": "Bumerán de Pocket en La Mayor",
+        "de": "Pocket-Bumerang in A-Dur",
+        "ja": "Aメジャーのポケット・ブーメラン",
+        "zh-Hans": "A大调律动回旋镖"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass groove to travel away from the root and snap back with timing, weight, and control.",
+        "pt-BR": "Treine seu groove de baixo para sair da tônica e voltar com tempo, peso e controle.",
+        "es": "Entrena tu groove de bajo para alejarse de la tónica y volver con tiempo, peso y control.",
+        "de": "Trainiere deinen Bass-Groove so, dass er sich von der Tonika entfernt und mit Timing, Gewicht und Kontrolle zurückkehrt.",
+        "ja": "ベースのグルーヴをルートから離しても、タイム感と重さを保ったままきれいに戻せるよう鍛えましょう。",
+        "zh-Hans": "训练你的贝斯律动离开根音后，依然能带着时间感、重量和控制感漂亮回归。"
+      }
+    },
+    "order": 40,
+    "createdAt": "2026-05-10T00:07:56Z",
+    "updatedAt": "2026-05-10T00:07:56Z"
+  },
+  {
+    "id": "bass-pocket-elevator",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Elevator in D Major",
+        "pt-BR": "Elevador do Pocket em Ré Maior",
+        "es": "Ascensor del Pocket en Re Mayor",
+        "de": "Pocket-Aufzug in D-Dur",
+        "ja": "Dメジャーのポケット・エレベーター",
+        "zh-Hans": "D大调 Pocket 电梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lift and drop your bass groove through D major without losing weight, space, or time.",
+        "pt-BR": "Faça seu groove de baixo subir e descer em Ré maior sem perder peso, espaço ou tempo.",
+        "es": "Haz subir y bajar tu groove de bajo en Re mayor sin perder peso, espacio ni tiempo.",
+        "de": "Lass deinen Bassgroove in D-Dur auf- und abfahren, ohne Gewicht, Raum oder Timing zu verlieren.",
+        "ja": "Dメジャーでベースグルーヴを上下させながら、重さ・空間・タイム感を失わないように鍛えます。",
+        "zh-Hans": "让你的贝斯 groove 在 D 大调里上下运行，同时不丢重量、空间和时间感。"
+      }
+    },
+    "order": 41,
+    "createdAt": "2026-05-12T00:09:30Z",
+    "updatedAt": "2026-05-12T00:09:30Z"
+  },
+  {
+    "id": "bass-pocket-switchback-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Switchback Lab",
+        "pt-BR": "Laboratório de Desvios de Pocket no Baixo",
+        "es": "Laboratorio de Desvíos de Pocket para Bajo",
+        "de": "Bass-Pocket-Kehrenlabor",
+        "ja": "ベース・ポケット切り返しラボ",
+        "zh-Hans": "贝斯口袋回头弯实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a major-scale groove that survives register jumps, ghost notes, and clean turnarounds.",
+        "pt-BR": "Construa um groove em escala maior que sobreviva a saltos de registro, ghost notes e turnarounds limpos.",
+        "es": "Construye un groove de escala mayor que sobreviva a saltos de registro, ghost notes y turnarounds limpios.",
+        "de": "Baue einen Groove aus der Durtonleiter, der Registersprüngen, Ghost Notes und sauberen Turnarounds standhält.",
+        "ja": "音域ジャンプ、ゴーストノート、クリーンなターンアラウンドに耐えるメジャースケール・グルーヴを作ろう。",
+        "zh-Hans": "做一个经得住音区跳跃、幽灵音和干净 turnaround 的大调音阶 groove。"
+      }
+    },
+    "order": 42,
+    "createdAt": "2026-05-13T00:09:31Z",
+    "updatedAt": "2026-05-13T00:09:31Z"
+  },
+  {
+    "id": "bass-octave-slingshot-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Slingshot Relay",
+        "pt-BR": "Revezamento do Estilingue de Oitavas",
+        "es": "Relevo de Tirachinas con Octavas",
+        "de": "Oktav-Schleuder-Staffel",
+        "ja": "オクターブ・スリングショット・リレー",
+        "zh-Hans": "八度弹弓接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass groove control by launching root-to-octave ideas without losing pocket or authority.",
+        "pt-BR": "Treine o controle de groove no baixo lançando ideias de tônica para oitava sem perder o pocket nem a autoridade.",
+        "es": "Entrena tu control del groove en el bajo lanzando ideas de tónica a octava sin perder pocket ni autoridad.",
+        "de": "Trainiere deine Bass-Groove-Kontrolle, indem du Root-zu-Oktav-Ideen abschießt, ohne Pocket oder Autorität zu verlieren.",
+        "ja": "ルートからオクターブへの動きを使い、ポケットを保ったままベースのグルーヴ力を鍛えるレッスンです。",
+        "zh-Hans": "通过根音到八度的推进训练低音律动控制，让你的贝斯既稳又有冲劲。"
+      }
+    },
+    "order": 43,
+    "createdAt": "2026-05-15T00:07:07Z",
+    "updatedAt": "2026-05-15T00:07:07Z"
+  },
+  {
+    "id": "bass-pocket-pinball",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Pinball",
+        "pt-BR": "Pinball de Pocket no Baixo",
+        "es": "Pinball de Pocket para Bajo",
+        "de": "Bass-Pocket-Pinball",
+        "ja": "ベース・ポケット・ピンボール",
+        "zh-Hans": "贝斯 Pocket 弹珠台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce between roots, ghost notes, and rebounds to make your major-scale groove feel alive and controlled.",
+        "pt-BR": "Salte entre tônicas, ghost notes e rebatidas para deixar seu groove em escala maior vivo e controlado.",
+        "es": "Rebota entre tónicas, ghost notes y regresos para que tu groove de escala mayor se sienta vivo y controlado.",
+        "de": "Springe zwischen Grundtönen, Ghost Notes und Rückprallern, damit dein Dur-Groove lebendig und kontrolliert bleibt.",
+        "ja": "ルート、ゴーストノート、跳ね返りを使って、メジャースケールのグルーヴを生き生きと、しかもコントロールされたものにしよう。",
+        "zh-Hans": "在根音、幽灵音和反弹之间切换，让你的大调 groove 又活又稳。"
+      }
+    },
+    "order": 44,
+    "createdAt": "2026-05-17T00:08:45Z",
+    "updatedAt": "2026-05-17T00:08:45Z"
+  },
+  {
+    "id": "bass-ghost-lane-dare",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Ghost Lane Dare",
+        "pt-BR": "Desafio da Faixa Fantasma no Baixo",
+        "es": "Desafío del Carril Fantasma en Bajo",
+        "de": "Bass-Geisterspur-Mutprobe",
+        "ja": "ベース・ゴーストレーン・チャレンジ",
+        "zh-Hans": "贝斯幽灵车道挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Tighten your pocket by mixing scale tones, space, and ghost-note nerve.",
+        "pt-BR": "Aperte seu groove misturando notas da escala, espaço e coragem com ghost notes.",
+        "es": "Aprieta tu groove mezclando notas de escala, espacio y actitud con ghost notes.",
+        "de": "Schärfe dein Pocket mit Skalentönen, Raum und mutigen Ghost Notes.",
+        "ja": "スケール音、空間、ゴーストノートの度胸でポケットを引き締めよう。",
+        "zh-Hans": "把音阶音、空间和幽灵音的胆量混进 groove，让 pocket 更紧。"
+      }
+    },
+    "order": 45,
+    "createdAt": "2026-05-18T00:08:11Z",
+    "updatedAt": "2026-05-18T00:08:11Z"
+  },
+  {
+    "id": "bass-pocket-magnet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Magnet",
+        "pt-BR": "Ímã de Pocket no Baixo",
+        "es": "Imán de Pocket para Bajo",
+        "de": "Pocket-Magnet am Bass",
+        "ja": "ベース・ポケット・マグネット",
+        "zh-Hans": "贝斯 Pocket 磁铁"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pull wandering scale notes back into a deep pocket with ghost notes, rests, and clean landings.",
+        "pt-BR": "Puxe notas da escala de volta para um pocket profundo com ghost notes, pausas e chegadas limpas.",
+        "es": "Haz que las notas errantes de la escala vuelvan a un pocket profundo con ghost notes, silencios y aterrizajes limpios.",
+        "de": "Ziehe wandernde Skalentöne mit Ghost Notes, Pausen und klaren Landungen zurück ins Pocket.",
+        "ja": "ゴーストノート、休符、正確な着地で、さまよう音階音を深いポケットへ引き戻そう。",
+        "zh-Hans": "用幽灵音、停顿和干净落点，把游走的音阶音拉回深口袋。"
+      }
+    },
+    "order": 46,
+    "createdAt": "2026-05-19T00:07:38Z",
+    "updatedAt": "2026-05-19T00:07:38Z"
+  },
+  {
+    "id": "bass-pocket-detour-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Detour Lab",
+        "pt-BR": "Bass Pocket Detour Lab",
+        "es": "Bass Pocket Detour Lab",
+        "de": "Bass Pocket Detour Lab",
+        "ja": "Bass Pocket Detour Lab",
+        "zh-Hans": "Bass Pocket Detour Lab"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Test how far a bass groove can wander before it stops feeling trustworthy.",
+        "pt-BR": "Teste até onde um groove de baixo pode passear antes de perder a confiança do ouvinte.",
+        "es": "Prueba hasta dónde puede desviarse un groove de bajo antes de dejar de sentirse confiable.",
+        "de": "Teste, wie weit ein Bassgroove abweichen darf, bevor er nicht mehr verlässlich wirkt.",
+        "ja": "ベースのグルーヴがどこまで寄り道しても信頼感を失わないか試すレッスンです。",
+        "zh-Hans": "测试一条贝斯 groove 最多能绕多远，还不至于失去可靠感。"
+      }
+    },
+    "order": 47,
+    "createdAt": "2026-06-03T00:07:56Z",
+    "updatedAt": "2026-06-03T00:07:56Z"
+  },
+  {
+    "id": "pocket-detour-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Detour Checkpoints",
+        "pt-BR": "Checkpoints de Desvio no Pocket",
+        "es": "Checkpoints de Desvío en el Pocket",
+        "de": "Pocket-Umweg mit Kontrollpunkten",
+        "ja": "ポケット寄り道チェックポイント",
+        "zh-Hans": "Pocket绕行检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove that wanders on purpose and still lands back in the pocket.",
+        "pt-BR": "Construa um groove de baixo que passeia de propósito e ainda volta firme para o pocket.",
+        "es": "Construye un groove de bajo que se desvíe con intención y vuelva al pocket con autoridad.",
+        "de": "Baue einen Bassgroove, der bewusst abschweift und trotzdem sicher ins Pocket zurückkehrt.",
+        "ja": "寄り道しても必ずポケットへ戻れるベース・グルーヴを作ろう。",
+        "zh-Hans": "练出一条会绕路、却仍能稳稳回到 pocket 的贝斯 groove。"
+      }
+    },
+    "order": 48,
+    "createdAt": "2026-06-04T00:07:09Z",
+    "updatedAt": "2026-06-04T00:07:09Z"
+  },
+  {
+    "id": "bass-landing-pad-grooves",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Landing Pad Grooves",
+        "pt-BR": "Grooves com Pista de Pouso no Baixo",
+        "es": "Grooves con Pista de Aterrizaje en Bajo",
+        "de": "Landing-Pad-Grooves für Bass",
+        "ja": "ベースのランディングパッド・グルーヴ",
+        "zh-Hans": "贝斯的着陆坪 Groove"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove to leave the pocket and return with authority using scale tones, ghost notes, and smart landings.",
+        "pt-BR": "Treine seu groove para sair do pocket e voltar com autoridade usando notas da escala, ghost notes e aterrissagens inteligentes.",
+        "es": "Entrena tu groove para salir del pocket y volver con autoridad usando notas de la escala, ghost notes y aterrizajes inteligentes.",
+        "de": "Trainiere deinen Groove so, dass er das Pocket verlässt und mit Autorität zurückkehrt — mit Skalentönen, Ghost Notes und klugen Landungen.",
+        "ja": "スケール音、ゴーストノート、賢い着地を使って、ポケットから出ても強く戻れるグルーヴを鍛える。",
+        "zh-Hans": "用音阶音、幽灵音和聪明落点训练你的 groove，让它离开 pocket 后还能带着权威回来。"
+      }
+    },
+    "order": 49,
+    "createdAt": "2026-06-05T00:08:40Z",
+    "updatedAt": "2026-06-05T00:08:40Z"
+  },
+  {
+    "id": "bass-pocket-switchyard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Bass Pocket Switchyard\"",
+        "pt-BR": "\"Pátio de Manobras do Pocket no Baixo\"",
+        "es": "\"Patio de Desvíos del Pocket en Bajo\"",
+        "de": "\"Bass-Pocket-Rangierbahnhof\"",
+        "ja": "\"ベース・ポケット操車場\"",
+        "zh-Hans": "\"贝斯 Pocket 调车场\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Route major-scale notes, ghost notes, and rests through a groove map that keeps your time sturdy and your line alive.\"",
+        "pt-BR": "\"Desvie notas da escala maior, ghost notes e pausas por um mapa de groove que mantém o tempo firme e a linha viva.\"",
+        "es": "\"Enruta notas de escala mayor, ghost notes y silencios por un mapa de groove que mantenga el tiempo firme y la línea viva.\"",
+        "de": "\"Leite Durtonleiter-Töne, Ghost Notes und Pausen durch einen Groove-Plan, der dein Timing stabil und deine Linie lebendig hält.\"",
+        "ja": "\"メジャースケールの音、ゴーストノート、休符をうまく振り分けて、時間感は堅く、ラインは生き生き保とう。\"",
+        "zh-Hans": "\"把大调音阶音、幽灵音和休止重新编组进 groove 地图里，让时间感稳固、线条鲜活。\""
+      }
+    },
+    "order": 50,
+    "createdAt": "2026-06-08T00:08:08Z",
+    "updatedAt": "2026-06-08T00:08:08Z"
+  },
+  {
+    "id": "bass-pocket-roundabout",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Roundabout",
+        "pt-BR": "Rotatória do Pocket no Baixo",
+        "es": "Rotonda del Pocket en Bajo",
+        "de": "Bass-Pocket-Kreisverkehr",
+        "ja": "ベース・ポケット・ラウンドアバウト",
+        "zh-Hans": "贝斯 Pocket 环岛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Circle through scale tones, ghost notes, and exits without losing the center of the groove.",
+        "pt-BR": "Circule por notas da escala, ghost notes e saídas sem perder o centro do groove.",
+        "es": "Gira por notas de escala, ghost notes y salidas sin perder el centro del groove.",
+        "de": "Kreise durch Skalentöne, Ghost Notes und Ausfahrten, ohne das Zentrum des Grooves zu verlieren.",
+        "ja": "音階音、ゴーストノート、寄り道を使っても、グルーヴの中心を失わない練習をしよう。",
+        "zh-Hans": "在音阶音、幽灵音和岔路之间循环前进，同时不丢掉 groove 的中心。"
+      }
+    },
+    "order": 51,
+    "createdAt": "2026-06-10T00:08:01Z",
+    "updatedAt": "2026-06-10T00:08:01Z"
+  },
+  {
+    "id": "bass-pocket-magnet-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Magnet Run",
+        "pt-BR": "Corrida do Ímã do Pocket no Baixo",
+        "es": "Carrera del Imán del Pocket en Bajo",
+        "de": "Bass-Pocket-Magnetlauf",
+        "ja": "ベース・ポケット・マグネット走",
+        "zh-Hans": "贝斯 Pocket 磁力跑"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove to wander with confidence and snap back into the pocket on command.",
+        "pt-BR": "Treine seu groove para passear com confiança e voltar ao pocket quando você mandar.",
+        "es": "Entrena tu groove para alejarse con confianza y volver al pocket cuando tú lo ordenes.",
+        "de": "Trainiere deinen Groove so, dass er selbstbewusst abschweift und auf Kommando wieder sicher ins Pocket springt.",
+        "ja": "グルーヴが少し離れても、自分の意思でポケットへ戻せる力を鍛えます。",
+        "zh-Hans": "训练你的 groove 能自信偏离，再按你的命令准确弹回 pocket。"
+      }
+    },
+    "order": 52,
+    "createdAt": "2026-06-11T00:09:10Z",
+    "updatedAt": "2026-06-11T00:09:10Z"
+  },
+  {
+    "id": "bass-pocket-fire-drill",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Fire Drill",
+        "pt-BR": "Simulado de Emergência do Pocket no Baixo",
+        "es": "Simulacro de Emergencia del Pocket en Bajo",
+        "de": "Pocket-Feuerübung für Bass",
+        "ja": "ベース・ポケット緊急訓練",
+        "zh-Hans": "贝斯律动消防演练"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a major-scale groove under pressure while keeping the pulse calm and heavy.",
+        "pt-BR": "Monte um groove em escala maior sob pressão sem perder pulso nem peso.",
+        "es": "Construye un groove en escala mayor bajo presión sin perder pulso ni peso.",
+        "de": "Baue unter Druck einen Groove aus der Dur-Tonleiter, ohne Puls oder Gewicht zu verlieren.",
+        "ja": "プレッシャーの中でも拍を失わず、メジャースケールで太いグルーヴを作ります。",
+        "zh-Hans": "在压力下用大调音阶做出稳重的groove，同时守住脉冲和重量感。"
+      }
+    },
+    "order": 53,
+    "createdAt": "2026-06-12T00:09:00Z",
+    "updatedAt": "2026-06-12T00:09:00Z"
+  },
+  {
+    "id": "bass-groove-bridge-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Groove Bridge Builder",
+        "pt-BR": "Construtor de Pontes de Groove no Baixo",
+        "es": "Constructor de Puentes de Groove para Bajo",
+        "de": "Groove-Brückenbauer für Bass",
+        "ja": "ベース・グルーヴ橋づくり",
+        "zh-Hans": "贝斯律动桥梁建造者"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect root motion and scale color into a bass groove that feels steady, playful, and impossible to ignore.",
+        "pt-BR": "Conecte movimento de tônicas e cor de escala em um groove de baixo estável, brincalhão e impossível de ignorar.",
+        "es": "Conecta el movimiento de las tónicas y el color de la escala en un groove de bajo estable, juguetón e imposible de ignorar.",
+        "de": "Verbinde Grundtonbewegung und Skalenfarbe zu einem Bassgroove, der stabil, verspielt und unmöglich zu überhören ist.",
+        "ja": "ルートの動きとスケールの色をつなぎ、安定感があり遊び心もある無視できないベースグルーヴを作ろう。",
+        "zh-Hans": "把根音走向和音阶色彩连成一条贝斯律动线，让它稳定、有趣，而且让人无法忽视。"
+      }
+    },
+    "order": 54,
+    "createdAt": "2026-06-18T00:06:54Z",
+    "updatedAt": "2026-06-18T00:06:54Z"
+  },
+  {
+    "id": "bass-pocket-crosswind",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Crosswind",
+        "pt-BR": "Vento Cruzado do Pocket no Baixo",
+        "es": "Viento Cruzado del Pocket en Bajo",
+        "de": "Pocket-Seitenwind am Bass",
+        "ja": "ベース・ポケット・クロスウィンド",
+        "zh-Hans": "贝斯 Pocket 侧风"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Hold the groove steady while scale notes try to blow your line off course.",
+        "pt-BR": "Mantenha o groove firme enquanto as notas da escala tentam tirar sua linha da rota.",
+        "es": "Mantén el groove firme mientras las notas de la escala intentan desviar tu línea.",
+        "de": "Halte den Groove stabil, während Skalentöne versuchen, deine Linie vom Kurs zu drücken.",
+        "ja": "音階の音に流されそうになっても、グルーヴの進路をぶらさず守ろう。",
+        "zh-Hans": "当音阶音想把你的线条吹偏时，仍然把律动稳稳握在手里。"
+      }
+    },
+    "order": 55,
+    "createdAt": "2026-06-19T00:10:57Z",
+    "updatedAt": "2026-06-19T00:10:57Z"
+  },
+  {
+    "id": "bass-pocket-tug-of-war",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Tug-of-War",
+        "pt-BR": "Cabo de Guerra do Pocket",
+        "es": "Tira y Afloja del Pocket",
+        "de": "Pocket-Seilziehen",
+        "ja": "ポケット綱引き",
+        "zh-Hans": "律动拔河"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen bass groove control by pulling against the beat with rests, anticipations, and scale-based landings that still feel solid.",
+        "pt-BR": "Fortaleça o controle do groove no baixo puxando contra o tempo com pausas, antecipações e chegadas baseadas na escala que continuam soando firmes.",
+        "es": "Refuerza el control del groove en el bajo tirando contra el pulso con silencios, anticipaciones y aterrizajes de escala que siguen sonando sólidos.",
+        "de": "Stärke deine Bass-Groove-Kontrolle, indem du mit Pausen, Vorziehern und skalenbasierten Landungen gegen den Beat ziehst und trotzdem stabil bleibst.",
+        "ja": "休符、食い、スケールに基づく着地を使って拍に逆らいながらも、安定したベースグルーヴを保つ力を鍛えます。",
+        "zh-Hans": "用休止、抢拍和基于音阶的落点来拉扯节拍，同时保持稳固的贝斯律动力。"
+      }
+    },
+    "order": 56,
+    "createdAt": "2026-06-20T00:08:09Z",
+    "updatedAt": "2026-06-20T00:08:09Z"
+  },
+  {
+    "id": "bass-pocket-lighthouse",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Lighthouse",
+        "pt-BR": "Farol do Pocket no Baixo",
+        "es": "Faro del Pocket en Bajo",
+        "de": "Bass-Pocket-Leuchtturm",
+        "ja": "ベース・ポケット灯台",
+        "zh-Hans": "贝斯律动灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Keep your groove shining through scale detours so every landing feels obvious and strong.",
+        "pt-BR": "Mantenha o groove brilhando mesmo com desvios de escala, para que cada chegada soe óbvia e forte.",
+        "es": "Mantén el groove brillando a través de desvíos de escala para que cada llegada suene clara y fuerte.",
+        "de": "Lass deinen Groove trotz Skalen-Umwegen leuchten, damit jede Landung klar und stark wirkt.",
+        "ja": "スケールの寄り道が入ってもグルーヴの光を消さず、着地をはっきり強く感じさせよう。",
+        "zh-Hans": "即使加入音阶绕路音，也要让你的 groove 持续发光，让每次落点都清楚有力。"
+      }
+    },
+    "order": 57,
+    "createdAt": "2026-06-21T00:06:51Z",
+    "updatedAt": "2026-06-21T00:06:51Z"
+  },
+  {
+    "id": "bass-pocket-springboard",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Springboard",
+        "pt-BR": "Trampolim de Pocket no Baixo",
+        "es": "Trampolín de Pocket en Bajo",
+        "de": "Pocket-Sprungbrett am Bass",
+        "ja": "ベース・ポケット・スプリングボード",
+        "zh-Hans": "贝斯 Pocket 弹跳板"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch a major-scale groove away from the root and snap it back into the pocket.",
+        "pt-BR": "Lance um groove de escala maior para longe da tônica e traga tudo de volta ao pocket.",
+        "es": "Lanza un groove de escala mayor lejos de la tónica y hazlo volver al pocket.",
+        "de": "Schick einen Dur-Groove vom Grundton weg und lass ihn sicher ins Pocket zurückschnappen.",
+        "ja": "メジャースケールのグルーヴをルートから飛ばし、ポケットへ強く戻す練習です。",
+        "zh-Hans": "让大调律动离开根音起跳，再稳稳弹回 pocket。"
+      }
+    },
+    "order": 58,
+    "createdAt": "2026-06-22T00:09:43Z",
+    "updatedAt": "2026-06-22T00:09:43Z"
+  },
+  {
+    "id": "bass-major-pocket-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Major Pocket Slingshot",
+        "pt-BR": "Estilingue do Pocket Maior no Baixo",
+        "es": "Tirachinas de Pocket Mayor en Bajo",
+        "de": "Dur-Pocket-Schleuder für Bass",
+        "ja": "ベースのメジャーポケット・スリングショット",
+        "zh-Hans": "贝斯大调口袋弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn major-scale notes into a groove weapon by aiming rhythmic launches and strong landings.",
+        "pt-BR": "Transforme notas da escala maior em arma de groove com impulsos rítmicos e chegadas fortes.",
+        "es": "Convierte las notas de la escala mayor en un arma de groove con impulsos rítmicos y aterrizajes fuertes.",
+        "de": "Verwandle Töne der Durtonleiter mit rhythmischem Zug und starken Landungen in eine Groove-Waffe.",
+        "ja": "大きな音階練習ではなく、メジャースケールの音をグルーヴの武器として使えるようにします。",
+        "zh-Hans": "把大调音阶的音变成 groove 武器，用节奏发射和强落点来制造 pocket。"
+      }
+    },
+    "order": 59,
+    "createdAt": "2026-06-25T00:08:28Z",
+    "updatedAt": "2026-06-25T00:08:28Z"
+  },
+  {
+    "id": "bass-pocket-rocket-lanes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Rocket Lanes",
+        "pt-BR": "Baixo: pistas de bolso em modo foguete",
+        "es": "Bajo: carriles cohete del pocket",
+        "de": "Bass: Pocket-Raketenbahnen",
+        "ja": "ベースのポケット・ロケットレーン",
+        "zh-Hans": "贝斯口袋火箭跑道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch major-scale grooves that lock hard before they flex.",
+        "pt-BR": "Lance grooves de escala maior que travam no pocket antes de se expandirem.",
+        "es": "Lanza grooves de escala mayor que se clavan en el pocket antes de abrirse.",
+        "de": "Starte Grooves aus der Durtonleiter, die erst fest im Pocket sitzen und dann Fahrt aufnehmen.",
+        "ja": "しっかりポケットにハマってから広がるメジャースケール・グルーヴを打ち上げよう。",
+        "zh-Hans": "发射先稳稳锁进 pocket、再灵活展开的大调音阶 groove。"
+      }
+    },
+    "order": 60,
+    "createdAt": "2026-06-27T00:06:36Z",
+    "updatedAt": "2026-06-27T00:06:36Z"
+  },
+  {
+    "id": "bass-pocket-orbit-anchors",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Orbit Anchors",
+        "pt-BR": "Baixo: Âncoras de Órbita no Pocket",
+        "es": "Bajo: Anclas Orbitales del Pocket",
+        "de": "Bass: Orbit-Anker im Pocket",
+        "ja": "ベース：ポケットのオービット・アンカー",
+        "zh-Hans": "贝斯：Pocket 轨道锚点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a grounded groove that circles target notes without losing low-end authority.",
+        "pt-BR": "Construa um groove firme que orbita notas-alvo sem perder autoridade nos graves.",
+        "es": "Construye un groove firme que orbite notas objetivo sin perder autoridad en el grave.",
+        "de": "Baue einen stabilen Groove, der Zieltöne umkreist, ohne seine Tiefton-Autorität zu verlieren.",
+        "ja": "低音の安定感を失わずに、ターゲットノートの周りを回るグルーヴを作ります。",
+        "zh-Hans": "在不丢掉低频权威感的前提下，做出围绕目标音旋转的稳固 groove。"
+      }
+    },
+    "order": 61,
+    "createdAt": "2026-06-28T00:06:54Z",
+    "updatedAt": "2026-06-28T00:06:54Z"
+  },
+  {
+    "id": "bass-pocket-puzzle-box",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Puzzle Box",
+        "pt-BR": "Caixa de Enigmas do Pocket no Baixo",
+        "es": "Caja de Acertijos del Pocket en Bajo",
+        "de": "Bass-Pocket-Rätselbox",
+        "ja": "ベース・ポケットのパズルボックス",
+        "zh-Hans": "贝斯 Pocket 解谜盒"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Unlock a tighter major-scale groove by solving small rhythm puzzles with roots, ghost notes, and smart returns.",
+        "pt-BR": "Destrave um groove mais firme na escala maior resolvendo pequenos enigmas rítmicos com tônicas, ghost notes e retornos inteligentes.",
+        "es": "Desbloquea un groove más firme en escala mayor resolviendo pequeños acertijos rítmicos con tónicas, ghost notes y regresos inteligentes.",
+        "de": "Öffne einen festeren Dur-Groove, indem du kleine Rhythmus-Rätsel mit Grundtönen, Ghost Notes und klugen Rückwegen löst.",
+        "ja": "ルート、ゴーストノート、賢い戻り方を使った小さなリズム謎解きで、メジャースケールの groove をもっと強くしよう。",
+        "zh-Hans": "用根音、幽灵音和聪明回归解决小节奏谜题，解锁更紧的大调 groove。"
+      }
+    },
+    "order": 62,
+    "createdAt": "2026-06-29T00:09:18Z",
+    "updatedAt": "2026-06-29T00:09:18Z"
+  },
+  {
+    "id": "bass-pocket-signal-chain",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Signal Chain",
+        "pt-BR": "Cadeia de Sinal do Pocket",
+        "es": "Cadena de Señal del Pocket",
+        "de": "Pocket-Signalkette",
+        "ja": "ポケット・シグナルチェーン",
+        "zh-Hans": "律动信号链"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a stronger bass pocket by routing roots, ghost notes, and scale moves through a tight groove system.",
+        "pt-BR": "Construa um pocket de baixo mais forte roteando tônicas, ghost notes e movimentos de escala por um sistema de groove firme.",
+        "es": "Construye un pocket de bajo más fuerte guiando tónicas, ghost notes y movimiento de escala por un sistema de groove firme.",
+        "de": "Baue ein stärkeres Bass-Pocket, indem du Grundtöne, Ghost Notes und Skalenbewegung durch ein klares Groove-System leitest.",
+        "ja": "ルート音、ゴーストノート、音階の動きを整理して、もっと強いベースのポケットを作る。",
+        "zh-Hans": "把根音、幽灵音和音阶运动接进一条紧实的 groove 系统，打造更强的贝斯 pocket。"
+      }
+    },
+    "order": 63,
+    "createdAt": "2026-06-30T00:05:50Z",
+    "updatedAt": "2026-06-30T00:05:50Z"
+  },
+  {
+    "id": "bass-pocket-comet-boost",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Comet Boost",
+        "pt-BR": "Impulso de Cometa no Pocket do Baixo",
+        "es": "Impulso de Cometa para el Pocket del Bajo",
+        "de": "Bass-Pocket mit Kometenschub",
+        "ja": "ベース・ポケット彗星ブースト",
+        "zh-Hans": "贝斯律动彗星加速"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch a major-scale groove with roots, passing tones, and pocket control that survives tempo pressure.",
+        "pt-BR": "Lance um groove em Sol maior com tônicas, notas de passagem e controle de pocket que aguenta pressão de andamento.",
+        "es": "Lanza un groove en Sol mayor con tónicas, notas de paso y control del pocket que resista la presión del tempo.",
+        "de": "Starte einen Groove in G-Dur mit Grundtönen, Durchgangsnoten und einem Pocket, das auch unter Tempodruck hält.",
+        "ja": "Gメジャースケールで、ルート音・経過音・テンポ圧に耐えるポケット感を使ったグルーヴを打ち上げます。",
+        "zh-Hans": "用G大调音阶打造一条带有根音、经过音和稳定律动感的贝斯线，在速度压力下也不散。"
+      }
+    },
+    "order": 64,
+    "createdAt": "2026-07-05T00:08:27Z",
+    "updatedAt": "2026-07-05T00:08:27Z"
+  },
+  {
+    "id": "bass-groove-dominoes-in-g-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Groove Dominoes in G Major",
+        "pt-BR": "Dominós de Groove no Baixo em Sol Maior",
+        "es": "Dominós de Groove en Bajo en Sol Mayor",
+        "de": "Bass-Groove-Dominos in G-Dur",
+        "ja": "Gメジャーのベース・グルーヴ・ドミノ",
+        "zh-Hans": "G大调贝斯律动多米诺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Stack tiny groove moves into a full bass line using G major notes, space, and accents.",
+        "pt-BR": "Empilhe pequenos movimentos de groove em uma linha completa usando notas de Sol maior, espaço e acentos.",
+        "es": "Apila pequeños movimientos de groove en una línea completa usando notas de Sol mayor, espacio y acentos.",
+        "de": "Schichte kleine Groove-Bewegungen zu einer ganzen Basslinie mit G-Dur-Tönen, Raum und Akzenten.",
+        "ja": "Gメジャーの音、スペース、アクセントを使って、小さな動きから完全なベースラインを組み立てよう。",
+        "zh-Hans": "用G大调音、留白和重音，把一个个小律动动作堆成完整的贝斯线。"
+      }
+    },
+    "order": 65,
+    "createdAt": "2026-07-06T00:09:45Z",
+    "updatedAt": "2026-07-06T00:09:45Z"
+  },
+  {
+    "id": "bass-pocket-lantern-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Lantern Run",
+        "pt-BR": "Corrida da Lanterna do Pocket no Baixo",
+        "es": "Carrera de la Linterna del Pocket en Bajo",
+        "de": "Bass-Pocket-Laternenlauf",
+        "ja": "ベース・ポケット・ランタンラン",
+        "zh-Hans": "贝斯 Pocket 灯笼冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Carry the groove through dark corners with major-scale notes, ghost notes, and fearless landings.",
+        "pt-BR": "Leve o groove por cantos escuros com notas da escala maior, ghost notes e chegadas sem medo.",
+        "es": "Lleva el groove por rincones oscuros con notas de la escala mayor, ghost notes y aterrizajes sin miedo.",
+        "de": "Trage den Groove durch dunkle Ecken mit Durtonleiter-Tönen, Ghost Notes und mutigen Landungen.",
+        "ja": "メジャースケールの音、ゴーストノート、恐れない着地で、暗い場所でも groove を運び続けよう。",
+        "zh-Hans": "用大调音阶音、幽灵音和无畏落点，把 groove 带过黑暗角落。"
+      }
+    },
+    "order": 66,
+    "createdAt": "2026-07-07T00:07:56Z",
+    "updatedAt": "2026-07-07T00:07:56Z"
+  },
+  {
+    "id": "bass-pocket-circuit-breaker",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Circuit Breaker",
+        "pt-BR": "Circuit Breaker do Pocket no Baixo",
+        "es": "Interruptor del Pocket en Bajo",
+        "de": "Pocket-Schutzschalter am Bass",
+        "ja": "ベース・ポケット・サーキットブレーカー",
+        "zh-Hans": "贝斯 Pocket 断路器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a stronger major-scale groove by controlling space, ghost notes, and heavy landings.",
+        "pt-BR": "Construa um groove mais forte com escala maior controlando espaço, ghost notes e chegadas pesadas.",
+        "es": "Construye un groove mayor más fuerte controlando espacio, ghost notes y aterrizajes pesados.",
+        "de": "Baue einen stärkeren Dur-Groove mit Raum, Ghost Notes und schweren Landungen.",
+        "ja": "空間、ゴーストノート、重い着地をコントロールして、メジャースケールのグルーヴをもっと強くする。",
+        "zh-Hans": "通过控制留白、幽灵音和有重量的落点，打造更强的大调 groove。"
+      }
+    },
+    "order": 67,
+    "createdAt": "2026-07-08T00:08:01Z",
+    "updatedAt": "2026-07-08T00:08:01Z"
+  },
+  {
+    "id": "bass-pocket-treasure-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Treasure Map",
+        "pt-BR": "Mapa do Tesouro do Pocket no Baixo",
+        "es": "Mapa del Tesoro del Pocket para Bajo",
+        "de": "Bass-Pocket-Schatzkarte",
+        "ja": "ベース・ポケット宝の地図",
+        "zh-Hans": "贝斯 Pocket 宝藏地图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Follow a groove map through major-scale notes, ghost notes, and strong landings.",
+        "pt-BR": "Siga um mapa de groove por notas da escala maior, ghost notes e chegadas fortes.",
+        "es": "Sigue un mapa de groove con notas de escala mayor, ghost notes y aterrizajes fuertes.",
+        "de": "Folge einer Groove-Karte durch Durtonleiter-Töne, Ghost Notes und starke Landungen.",
+        "ja": "メジャースケール音、ゴーストノート、強い着地を使ってグルーヴ地図を進もう。",
+        "zh-Hans": "沿着大调音阶音、幽灵音和强力落点组成的地图前进。"
+      }
+    },
+    "order": 68,
+    "createdAt": "2026-07-10T00:06:39Z",
+    "updatedAt": "2026-07-10T00:06:39Z"
+  },
+  {
+    "id": "g-major-pocket-conveyor",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Pocket Conveyor",
+        "pt-BR": "Esteira de Pocket em Sol Maior",
+        "es": "Cinta de Pocket en Sol Mayor",
+        "de": "Pocket-Förderband in G-Dur",
+        "ja": "Gメジャー・ポケット・コンベヤー",
+        "zh-Hans": "G大调律动传送带"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a bass groove in G major that keeps moving forward without spilling the pocket.",
+        "pt-BR": "Construa um groove de baixo em Sol maior que siga em frente sem derrubar o pocket.",
+        "es": "Construye un groove de bajo en Sol mayor que siga avanzando sin derramar el pocket.",
+        "de": "Baue einen Bassgroove in G-Dur, der vorwärtsläuft, ohne das Pocket zu verschütten.",
+        "ja": "Gメジャーで前に進み続けるのに、ポケットはこぼさないベースグルーヴを作ります。",
+        "zh-Hans": "做出一条在G大调里持续前进、却不会把 pocket 洒出去的贝斯律动。"
+      }
+    },
+    "order": 69,
+    "createdAt": "2026-07-11T00:06:34Z",
+    "updatedAt": "2026-07-11T00:06:34Z"
+  },
+  {
+    "id": "bass-pocket-bridge-beacons",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Bridge Beacons",
+        "pt-BR": "Balizas da Ponte do Pocket no Baixo",
+        "es": "Balizas del Puente del Pocket en Bajo",
+        "de": "Pocket-Brückenbaken am Bass",
+        "ja": "ベース・ポケットのブリッジビーコン",
+        "zh-Hans": "贝斯 Pocket 桥梁航标"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a strong bass groove by lighting clear landing points across roots, space, and scale motion.",
+        "pt-BR": "Construa um groove firme no baixo acendendo pontos de chegada claros entre tônica, espaço e movimento de escala.",
+        "es": "Construye un groove firme de bajo encendiendo puntos de llegada claros entre tónica, espacio y movimiento de escala.",
+        "de": "Baue einen starken Bassgroove, indem du klare Landepunkte zwischen Grundtönen, Raum und Skalenbewegung setzt.",
+        "ja": "ルート、スペース、スケールの動きに明確な着地点を灯して、強いベースグルーヴを作ろう。",
+        "zh-Hans": "在根音、留白和音阶运动之间点亮清晰落点，打造稳固的贝斯 groove。"
+      }
+    },
+    "order": 70,
+    "createdAt": "2026-07-12T00:07:18Z",
+    "updatedAt": "2026-07-12T00:07:18Z"
+  },
+  {
+    "id": "bass-pocket-harbor-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Harbor Lights",
+        "pt-BR": "Luzes do Porto do Pocket no Baixo",
+        "es": "Luces de Puerto del Pocket en Bajo",
+        "de": "Bass-Pocket-Hafenlichter",
+        "ja": "ベース・ポケット・ハーバーライト",
+        "zh-Hans": "贝斯 Pocket 港口灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Strengthen time and note choice by steering a major-scale groove toward clear landing lights in A major.",
+        "pt-BR": "Fortaleça o tempo e a escolha de notas guiando um groove de escala maior até luzes de chegada claras em Lá maior.",
+        "es": "Fortalece el tiempo y la elección de notas guiando un groove de escala mayor hacia luces de llegada claras en La mayor.",
+        "de": "Stärke Timing und Tonwahl, indem du einen Dur-Skalen-Groove in A-Dur zu klaren Landelichtern steuerst.",
+        "ja": "Aメジャーで明確な着地点へ向かうグルーヴを作り、タイム感と音の選び方を強くします。",
+        "zh-Hans": "在 A 大调中把大调音阶 groove 驶向清晰落点，强化节奏稳定性与选音能力。"
+      }
+    },
+    "order": 71,
+    "createdAt": "2026-07-13T00:07:16Z",
+    "updatedAt": "2026-07-13T00:07:16Z"
+  },
+  {
+    "id": "bass-pocket-signal-maze",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Signal Maze",
+        "pt-BR": "Labirinto dos Sinais de Pocket no Baixo",
+        "es": "Laberinto de Señales del Pocket en Bajo",
+        "de": "Bass-Pocket-Signal-Labyrinth",
+        "ja": "ベース・ポケット信号迷路",
+        "zh-Hans": "贝斯律动信号迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a deep pocket by threading scale notes, ghost notes, and silence through a groove maze.",
+        "pt-BR": "Construa um pocket profundo conduzindo notas da escala, ghost notes e silêncio por um labirinto de groove.",
+        "es": "Construye un pocket profundo guiando notas de escala, ghost notes y silencio por un laberinto de groove.",
+        "de": "Baue ein tiefes Pocket, indem du Skalentöne, Ghost Notes und Stille durch ein Groove-Labyrinth führst.",
+        "ja": "音階音、ゴーストノート、休符をグルーヴの迷路に通しながら、深いポケットを作るレッスンです。",
+        "zh-Hans": "把音阶音、幽灵音和留白穿进一座 groove 迷宫，练出更深的 pocket。"
+      }
+    },
+    "order": 72,
+    "createdAt": "2026-07-14T00:05:00Z",
+    "updatedAt": "2026-07-14T00:05:00Z"
+  },
+  {
+    "id": "bass-pocket-rivet-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Bass Pocket Rivet Run\"",
+        "pt-BR": "\"Corrida dos Rebites do Pocket no Baixo\"",
+        "es": "\"Carrera de Remaches del Pocket en Bajo\"",
+        "de": "\"Bass-Pocket-Nietenlauf\"",
+        "ja": "\"ベース・ポケット・リベット・ラン\"",
+        "zh-Hans": "\"贝斯 Pocket 铆钉冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Forge a heavy groove by placing every scale note like a structural rivet.\"",
+        "pt-BR": "\"Forje um groove pesado colocando cada nota da escala como se fosse um rebite estrutural.\"",
+        "es": "\"Forja un groove pesado colocando cada nota de la escala como si fuera un remache estructural.\"",
+        "de": "\"Schmiede einen schweren Groove, indem du jeden Skalenton wie eine tragende Niete setzt.\"",
+        "ja": "\"音階の各音を構造用リベットのように打ち込み、重いグルーヴを鍛えよう。\"",
+        "zh-Hans": "\"像打结构铆钉一样安放每个音阶音，锻造出沉重稳定的 groove。\""
+      }
+    },
+    "order": 73,
+    "createdAt": "2026-07-15T00:07:03Z",
+    "updatedAt": "2026-07-15T00:07:03Z"
   }
 ]

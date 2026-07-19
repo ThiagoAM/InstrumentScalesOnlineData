@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-rocket-lanes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a drum loop at **88 BPM** and imagine you are the runway crew, not the solo pilot. In G major, play roots on beats 1 and 3 for two bars, then add the 2nd or 6th as a short pickup into the next root. The challenge is to make the line feel inevitable, like the groove was waiting for that note all along.",
+          "pt-BR": "Coloque um loop de bateria em **88 BPM** e imagine que você é a equipe da pista, não o piloto solista. Em Sol maior, toque as tônicas nos tempos 1 e 3 por dois compassos e depois adicione a 2ª ou a 6ª como antecipação curta para a próxima tônica. O desafio é fazer a linha soar inevitável, como se o groove já estivesse esperando por essa nota.",
+          "es": "Pon un loop de batería a **88 BPM** e imagina que eres el equipo de pista, no el piloto solista. En Sol mayor, toca las tónicas en los tiempos 1 y 3 durante dos compases y luego añade la 2.ª o la 6.ª como pickup corto hacia la siguiente tónica. El reto es que la línea se sienta inevitable, como si el groove ya estuviera esperando esa nota.",
+          "de": "Stell einen Drum-Loop auf **88 BPM** und stell dir vor, du bist die Bodencrew, nicht der Solo-Pilot. Spiele in G-Dur zwei Takte lang die Grundtöne auf Zählzeit 1 und 3 und füge dann die 2 oder 6 als kurzen Auftakt zum nächsten Grundton hinzu. Die Linie soll unvermeidlich wirken, als hätte der Groove genau auf diesen Ton gewartet.",
+          "ja": "ドラムループを **88 BPM** に設定し、自分はソロの主役ではなく滑走路スタッフだと思ってください。Gメジャーで、2小節のあいだ1拍目と3拍目にルートを置き、そのあと次のルートへ向かう短いピックアップとして2度か6度を加えます。狙いは、ラインが『そう来るしかない』と感じられることです。",
+          "zh-Hans": "把鼓循环设为 **88 BPM**，并把自己想成跑道地勤，而不是独奏飞行员。在 G 大调里，先连续两小节在第 1 拍和第 3 拍弹根音，然后加入 2 度或 6 度，作为通往下一个根音的短起步音。挑战是让这条线听起来像『非这样不可』，仿佛 groove 一直在等那颗音落下。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now switch to **lane rules**. Lane 1 is low notes only (G, A, B below middle of the neck). Lane 2 is octave and 5th material. Spend one bar in lane 1, one bar in lane 2, then repeat without losing volume balance. This teaches register control instead of random jumping.",
+          "pt-BR": "Agora entre nas **regras de pista**. A pista 1 usa apenas notas graves (G, A, B abaixo do meio do braço). A pista 2 usa oitavas e quintas. Passe um compasso na pista 1, um compasso na pista 2, e repita sem perder o equilíbrio de volume. Isso ensina controle de registro em vez de saltos aleatórios.",
+          "es": "Ahora entra en las **reglas de carril**. El carril 1 usa solo notas graves (G, A, B por debajo de la mitad del mástil). El carril 2 usa octavas y quintas. Pasa un compás en el carril 1 y otro en el carril 2, y repite sin perder equilibrio de volumen. Esto entrena el control de registro en vez de saltar al azar.",
+          "de": "Jetzt gelten **Bahnen-Regeln**. Bahn 1 nutzt nur tiefe Töne (G, A, B unterhalb der Griffbrettmitte). Bahn 2 nutzt Oktaven und Quinten. Spiele einen Takt in Bahn 1, einen Takt in Bahn 2 und wiederhole das ohne Lautstärke-Ungleichgewicht. So trainierst du Registerkontrolle statt zufälliger Sprünge.",
+          "ja": "次は **レーンのルール** です。レーン1は低音域のみ（ネック中央より下の G、A、B）。レーン2はオクターブと5度の素材を使います。1小節をレーン1、次の1小節をレーン2で弾き、音量バランスを崩さずに繰り返してください。これで無作為な跳躍ではなく、音域コントロールが鍛えられます。",
+          "zh-Hans": "现在进入 **跑道规则**。跑道 1 只用低音区（琴颈中段以下的 G、A、B），跑道 2 使用八度和五度素材。先在跑道 1 走一小节，再在跑道 2 走一小节，然后重复，同时保持音量平衡。这样练的是音区控制，而不是随便乱跳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add ghost notes on the \"e\" of beat 2 or the \"a\" of beat 4, but never both in the same bar. Too many ghost notes turn into static; the goal is contrast. Record four bars and listen for whether the ghost note supports the groove or steals attention from it.",
+          "pt-BR": "Adicione ghost notes no \"e\" do tempo 2 ou no \"a\" do tempo 4, mas nunca nas duas posições no mesmo compasso. Ghost note demais vira ruído. O objetivo é contraste. Grave quatro compassos e ouça se a ghost note apoia o groove ou rouba atenção dele.",
+          "es": "Añade ghost notes en el 2-e o en el 4-a, pero nunca en ambos lugares dentro del mismo compás. Demasiadas ghost notes se convierten en ruido. La meta es el contraste. Graba cuatro compases y escucha si la ghost note sostiene el groove o le roba protagonismo.",
+          "de": "Füge Ghost Notes auf die 2-e oder die 4-a ein, aber niemals beides im selben Takt. Zu viele Ghost Notes werden zu Rauschen; das Ziel ist Kontrast. Nimm vier Takte auf und höre nach, ob die Ghost Note den Groove stützt oder ihm Aufmerksamkeit stiehlt.",
+          "ja": "ゴーストノートは2拍目の裏前半か4拍目の裏後半に入れますが、同じ小節で両方は使わないでください。ゴーストノートが多すぎるとノイズになります。目的はコントラストです。4小節録音して、そのゴーストノートがグルーヴを支えているか、目立ちすぎていないか確認しましょう。",
+          "zh-Hans": "在第 2 拍的 e 或第 4 拍的 a 加入 ghost note，但同一小节里绝不要两边都放。ghost note 太多就会变成噪音，目标是对比感。录四小节，听听这个 ghost note 是在帮 groove，还是在抢它的风头。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, aim every bar toward a chord tone target. Over **Gmaj7 | Em7 | Cmaj7 | D7**, decide one landing note per bar before you play. Example targets: B, G, E, F#. Your scale is still G major, but your line should sound like it understands the harmony, not like it is jogging through alphabetical note order.",
+          "pt-BR": "Agora mire cada compasso em uma nota-alvo do acorde. Sobre **Gmaj7 | Em7 | Cmaj7 | D7**, escolha uma nota de chegada por compasso antes de tocar. Exemplos: B, G, E, F#. A sua escala continua sendo Sol maior, mas a linha precisa soar como alguém que entende a harmonia, não como alguém correndo em ordem alfabética pelas notas.",
+          "es": "Ahora apunta cada compás a una nota objetivo del acorde. Sobre **Gmaj7 | Em7 | Cmaj7 | D7**, decide una nota de llegada por compás antes de tocar. Ejemplos: B, G, E, F#. Tu escala sigue siendo Sol mayor, pero la línea debe sonar como si entendiera la armonía, no como si trotase por las notas en orden.",
+          "de": "Ziele nun jeden Takt auf einen Akkordton. Über **Gmaj7 | Em7 | Cmaj7 | D7** legst du vor dem Spielen einen Zielton pro Takt fest. Zum Beispiel: B, G, E, F#. Deine Skala bleibt G-Dur, aber die Linie soll harmonisch bewusst klingen und nicht wie ein alphabetischer Spaziergang durch die Töne.",
+          "ja": "次に各小節の着地点をコードトーンに設定します。**Gmaj7 | Em7 | Cmaj7 | D7** の上で、弾く前に各小節の目標音を1つ決めます。例: B、G、E、F#。使うスケールは引き続き G メジャーですが、ラインは単なる音階の上下ではなく、ハーモニーを理解しているように聴こえるべきです。",
+          "zh-Hans": "接下来让每一小节都朝向一个和弦目标音。面对 **Gmaj7 | Em7 | Cmaj7 | D7**，演奏前先为每小节决定一个落点音，例如 B、G、E、F#。虽然你仍然使用 G 大调音阶，但这条线应该听起来像懂和声，而不是按字母顺序慢跑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rocket boost: in bars 3 and 4, replace one root with a **descending approach note** a half step above or below the target. If the time wobbles when the chromatic note appears, slow down and clap the rhythm first. Pocket always beats cleverness.",
+          "pt-BR": "Modo foguete: nos compassos 3 e 4, substitua uma tônica por uma **nota de aproximação descendente** meio tom acima ou abaixo da nota-alvo. Se o tempo balançar quando a cromática aparecer, diminua o andamento e bata a célula rítmica com palmas primeiro. Pocket sempre vence esperteza.",
+          "es": "Impulso cohete: en los compases 3 y 4, sustituye una tónica por una **nota de aproximación descendente** medio tono arriba o abajo del objetivo. Si el tiempo se tambalea cuando aparece la cromática, baja la velocidad y marca primero el ritmo con palmas. El pocket siempre vale más que la astucia.",
+          "de": "Raketen-Boost: Ersetze in Takt 3 und 4 je einen Grundton durch einen **absteigenden Annäherungston** einen Halbton über oder unter dem Zielton. Wenn das Timing bei der Chromatik wackelt, verlangsame und klatsche den Rhythmus zuerst. Pocket schlägt Cleverness.",
+          "ja": "ロケットブーストです。3小節目と4小節目では、ルートの1つを **半音上か下からの下降アプローチノート** に置き換えます。クロマチック音が入ってタイムが揺れるなら、テンポを落として先に手拍子でリズムを確認してください。賢さよりポケット優先です。",
+          "zh-Hans": "火箭加速：在第 3、4 小节里，各把一个根音替换成一个 **从半音上方或下方下降到目标音的接近音**。如果一出现半音音符节奏就摇晃，就先放慢速度，用拍手把节奏打稳。Pocket 永远比聪明更重要。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final run: build an **8-bar groove** with exactly two fills. The fills may use no more than four 8th notes each, and they must return to the pocket immediately. When you finish, rate yourself from 1-5 on two things: **time stability** and **how clearly the chord changes were felt**.",
+          "pt-BR": "Corrida final: monte um **groove de 8 compassos** com exatamente dois fills. Cada fill pode usar no máximo quatro colcheias e precisa voltar ao pocket imediatamente. Ao terminar, dê uma nota de 1 a 5 para duas coisas: **estabilidade do tempo** e **clareza na percepção das mudanças de acorde**.",
+          "es": "Tramo final: construye un **groove de 8 compases** con exactamente dos fills. Cada fill puede usar como máximo cuatro corcheas y debe volver al pocket de inmediato. Al acabar, puntúate del 1 al 5 en dos cosas: **estabilidad del tiempo** y **claridad con la que se sienten los cambios de acorde**.",
+          "de": "Letzter Lauf: Baue einen **8-taktigen Groove** mit genau zwei Fills. Jedes Fill darf höchstens vier Achtelnoten enthalten und muss sofort wieder ins Pocket zurückführen. Danach bewertest du dich von 1-5 in zwei Punkten: **Zeitstabilität** und **wie deutlich die Akkordwechsel spürbar waren**.",
+          "ja": "最後の走行です。**8小節のグルーヴ** を作り、フィルはちょうど2回だけ入れます。各フィルは8分音符4つ以内に収め、すぐポケットへ戻ること。終わったら 1〜5 で自己評価してください。項目は **タイムの安定感** と **コード進行の感じやすさ** です。",
+          "zh-Hans": "最终冲刺：写出一个 **8 小节 groove**，而且只能放两个 fill。每个 fill 最多只准用四个八分音符，并且必须立刻回到 pocket。完成后从 1 到 5 给自己两项评分：**时间稳定度** 和 **和弦变化的清晰感**。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-27T00:06:36Z",
+  "updatedAt": "2026-06-27T00:06:36Z"
+}

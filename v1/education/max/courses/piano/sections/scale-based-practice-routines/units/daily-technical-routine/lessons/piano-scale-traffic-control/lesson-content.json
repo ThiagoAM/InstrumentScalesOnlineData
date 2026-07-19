@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-traffic-control",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Welcome to the control tower\nToday your piano hands are tiny airplanes and you are air traffic control.\n\nUse **C major**, two octaves:\n> C D E F G A B C\n\nBoth hands will keep the scale moving, but one rule will change at a time. Your job is to avoid collisions: no tension, no panic, no random finger chaos.",
+          "pt-BR": "# Bem-vindo à torre de controle\nHoje suas mãos no piano são pequenos aviões e você é a torre de controle.\n\nUse **Dó maior**, em duas oitavas:\n> C D E F G A B C\n\nAs duas mãos vão manter a escala em movimento, mas uma regra muda de cada vez. Sua missão é evitar colisões: nada de tensão, nada de pânico, nada de caos aleatório nos dedos.",
+          "es": "# Bienvenido a la torre de control\nHoy tus manos al piano son pequeños aviones y tú eres la torre de control.\n\nUsa **Do mayor**, dos octavas:\n> C D E F G A B C\n\nAmbas manos mantendrán la escala en movimiento, pero una regla cambiará cada vez. Tu trabajo es evitar choques: nada de tensión, nada de pánico y nada de caos digital aleatorio.",
+          "de": "# Willkommen im Kontrollturm\nHeute sind deine Klavierhände kleine Flugzeuge und du bist die Flugkontrolle.\n\nNimm **C-Dur**, zwei Oktaven:\n> C D E F G A B C\n\nBeide Hände halten die Skala in Bewegung, aber jeweils eine Regel ändert sich. Deine Aufgabe: keine Kollisionen — keine Spannung, keine Panik, kein zufälliges Fingerchaos.",
+          "ja": "# 管制塔へようこそ\n今日はあなたのピアノの両手が小さな飛行機、そしてあなたが管制塔です。\n\n使うのは **Cメジャー**、2オクターブです：\n> C D E F G A B C\n\n両手ともスケールを動かし続けますが、毎回ルールを1つずつ変えます。仕事は衝突を防ぐこと。緊張なし、パニックなし、無秩序な指使いなしです。",
+          "zh-Hans": "# 欢迎来到控制塔\n今天你的钢琴双手是小飞机，而你就是空中交通管制。\n\n使用 **C大调**，两八度：\n> C D E F G A B C\n\n双手都会持续弹音阶，但每次只改变一条规则。你的任务是避免撞机：不要紧张，不要慌，也不要让手指进入随机混乱模式。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Base flight pattern\nPlay C major in parallel motion, two octaves up and down, at **72 bpm** in eighth notes.\n\nChecklist:\n- curved fingers\n- loose wrists\n- even tone\n- both thumbs passing smoothly\n\nDo three clean repetitions before adding any extra challenge. If the runway is shaky now, it will not improve at takeoff speed.",
+          "pt-BR": "# Padrão básico de voo\nToque Dó maior em movimento paralelo, duas oitavas subindo e descendo, a **72 bpm** em colcheias.\n\nChecklist:\n- dedos curvos\n- punhos soltos\n- som uniforme\n- passagem de polegar suave nas duas mãos\n\nFaça três repetições limpas antes de colocar qualquer desafio extra. Se a pista já estiver ruim agora, ela não vai melhorar na velocidade de decolagem.",
+          "es": "# Patrón básico de vuelo\nToca Do mayor en movimiento paralelo, dos octavas arriba y abajo, a **72 bpm** en corcheas.\n\nLista de control:\n- dedos curvos\n- muñecas sueltas\n- sonido parejo\n- paso del pulgar suave en ambas manos\n\nHaz tres repeticiones limpias antes de añadir un reto extra. Si la pista ya está inestable, no mejorará a velocidad de despegue.",
+          "de": "# Grundflugmuster\nSpiele C-Dur in Parallelbewegung, zwei Oktaven auf und ab, bei **72 bpm** in Achteln.\n\nCheckliste:\n- gerundete Finger\n- lockere Handgelenke\n- gleichmäßiger Ton\n- sauberer Daumenuntersatz in beiden Händen\n\nSpiele drei saubere Wiederholungen, bevor du die nächste Schwierigkeit hinzufügst. Wenn die Startbahn jetzt wackelt, wird sie beim Abheben nicht besser.",
+          "ja": "# 基本の飛行パターン\nCメジャーを平行進行で、2オクターブ上行・下行、**72 bpm** の8分音符で弾きます。\n\nチェックリスト：\n- 指は丸く\n- 手首は柔らかく\n- 音は均一に\n- 両手とも親指くぐりをなめらかに\n\n追加チャレンジの前に、きれいな反復を3回行いましょう。滑走路が今ぐらついているなら、離陸速度ではもっと危険です。",
+          "zh-Hans": "# 基础飞行路线\n用平行进行弹 C 大调，两八度上行下行，速度 **72 bpm**，八分音符。\n\n检查清单：\n- 手指保持弧度\n- 手腕放松\n- 音色均匀\n- 双手拇指转换顺畅\n\n在增加新挑战之前，先做三次干净的重复。如果跑道现在就不稳，起飞速度只会更糟。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Tower command 1: dynamic split\nKeep the same scale, but change the balance:\n- **Right hand mezzo-forte, left hand piano**\n- then **left hand mezzo-forte, right hand piano**\n\nThe louder hand should not become harsh, and the softer hand should not disappear. Think “balanced traffic,” not “one hand yelling at the other.”",
+          "pt-BR": "# Comando da torre 1: divisão de dinâmica\nMantenha a mesma escala, mas mude o equilíbrio:\n- **Mão direita mezzo-forte, mão esquerda piano**\n- depois **mão esquerda mezzo-forte, mão direita piano**\n\nA mão mais forte não deve ficar dura, e a mais suave não deve sumir. Pense em “tráfego equilibrado”, não em “uma mão gritando com a outra”.",
+          "es": "# Comando de torre 1: división dinámica\nMantén la misma escala, pero cambia el equilibrio:\n- **Mano derecha mezzo-forte, mano izquierda piano**\n- luego **mano izquierda mezzo-forte, mano derecha piano**\n\nLa mano más fuerte no debe volverse dura y la más suave no debe desaparecer. Piensa en “tráfico equilibrado”, no en “una mano gritándole a la otra”.",
+          "de": "# Turmkommando 1: Dynamik-Aufteilung\nBehalte dieselbe Skala, ändere aber das Gleichgewicht:\n- **rechte Hand mezzo-forte, linke Hand piano**\n- dann **linke Hand mezzo-forte, rechte Hand piano**\n\nDie lautere Hand darf nicht hart werden, die leisere nicht verschwinden. Denk an „geordneten Verkehr“, nicht an „eine Hand schreit die andere an“.",
+          "ja": "# 管制命令1：ダイナミクス分割\n同じスケールのまま、バランスだけ変えます：\n- **右手 mezzo-forte、左手 piano**\n- 次に **左手 mezzo-forte、右手 piano**\n\n大きいほうの手は乱暴にならず、小さいほうの手は消えないように。『交通整理』であって、『片手がもう片手に怒鳴る』ではありません。",
+          "zh-Hans": "# 塔台指令1：力度分配\n保持同样的音阶，但改变平衡：\n- **右手 mezzo-forte，左手 piano**\n- 然后 **左手 mezzo-forte，右手 piano**\n\n大声的那只手不要变硬，小声的那只手也不要消失。要像“交通协调”，不是“一只手冲另一只手大喊”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Tower command 2: articulation switch\nNext round:\n- both hands **legato**\n- both hands **staccato**\n- right hand legato while left hand staccato\n- switch the roles\n\nThis is where the brain tries to file a complaint. Stay calm, go slowly, and keep the scale relaxed.",
+          "pt-BR": "# Comando da torre 2: troca de articulação\nPróxima rodada:\n- as duas mãos em **legato**\n- as duas mãos em **staccato**\n- mão direita legato e mão esquerda staccato\n- depois troque os papéis\n\nAqui o cérebro costuma querer abrir uma reclamação formal. Fique calmo, vá devagar e mantenha a escala relaxada.",
+          "es": "# Comando de torre 2: cambio de articulación\nSiguiente ronda:\n- ambas manos **legato**\n- ambas manos **staccato**\n- mano derecha legato y mano izquierda staccato\n- cambia los papeles\n\nAquí el cerebro suele querer presentar una queja formal. Mantén la calma, ve despacio y conserva la escala relajada.",
+          "de": "# Turmkommando 2: Artikulationswechsel\nNächste Runde:\n- beide Hände **legato**\n- beide Hände **staccato**\n- rechte Hand legato, linke Hand staccato\n- dann Rollen tauschen\n\nHier möchte das Gehirn gern eine Beschwerde einreichen. Bleib ruhig, geh langsam vor und halte die Skala entspannt.",
+          "ja": "# 管制命令2：アーティキュレーション切替\n次のラウンドです：\n- 両手とも **legato**\n- 両手とも **staccato**\n- 右手 legato、左手 staccato\n- そのあと役割交代\n\nここで脳みそは苦情を出したくなります。落ち着いて、ゆっくり進めて、スケールをリラックスしたまま保ちましょう。",
+          "zh-Hans": "# 塔台指令2：触键切换\n下一轮：\n- 双手都 **legato**\n- 双手都 **staccato**\n- 右手 legato，左手 staccato\n- 然后交换角色\n\n这时候大脑通常很想提交投诉。冷静一点，慢慢来，让音阶始终保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Final control test\nCreate one 4-pass routine:\n1. normal parallel scale  \n2. dynamic split  \n3. mixed articulation  \n4. one last smooth pass with the best sound you can make\n\nBonus: move the whole routine to **G major**. If the quality survives the extra F♯, your control tower is doing excellent work.",
+          "pt-BR": "# Teste final de controle\nMonte uma rotina de 4 passagens:\n1. escala paralela normal  \n2. divisão de dinâmica  \n3. articulação misturada  \n4. mais uma passada suave com o melhor som que você conseguir\n\nBônus: leve a rotina inteira para **Sol maior**. Se a qualidade sobreviver ao F♯ extra, sua torre está trabalhando muito bem.",
+          "es": "# Prueba final de control\nCrea una rutina de 4 pasadas:\n1. escala paralela normal  \n2. división dinámica  \n3. articulación mezclada  \n4. una última pasada suave con el mejor sonido posible\n\nBonus: mueve toda la rutina a **Sol mayor**. Si la calidad sobrevive al F♯ extra, tu torre de control está funcionando muy bien.",
+          "de": "# Letzter Kontrolltest\nBaue eine Routine aus 4 Durchgängen:\n1. normale Parallelskala  \n2. Dynamik-Aufteilung  \n3. gemischte Artikulation  \n4. ein letzter weicher Durchgang mit deinem besten Klang\n\nBonus: verschiebe die ganze Routine nach **G-Dur**. Wenn die Qualität trotz des zusätzlichen F♯ bleibt, arbeitet dein Kontrollturm hervorragend.",
+          "ja": "# 最終コントロールテスト\n4回セットのルーティンを作ります：\n1. 普通の平行スケール  \n2. ダイナミクス分割  \n3. 混合アーティキュレーション  \n4. 最後に、できるだけ良い音でなめらかにもう1回\n\nおまけ：この全部を **Gメジャー** に移してください。余分な F♯ が増えても質が保てるなら、あなたの管制塔はかなり優秀です。",
+          "zh-Hans": "# 最终控制测试\n设计一个4遍练习流程：\n1. 普通平行音阶  \n2. 力度分配  \n3. 混合触键  \n4. 最后一遍用你能做出的最好声音顺滑弹完\n\n加分挑战：把整套流程移到 **G大调**。如果多了一个 F♯ 之后质量还在，说明你的控制塔干得很漂亮。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-09T00:09:34Z",
+  "updatedAt": "2026-04-09T00:09:34Z"
+}

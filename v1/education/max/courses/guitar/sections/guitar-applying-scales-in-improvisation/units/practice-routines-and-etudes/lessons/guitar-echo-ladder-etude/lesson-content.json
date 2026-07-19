@@ -1,0 +1,73 @@
+{
+  "id": "guitar-echo-ladder-etude",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a slow **Am7** vamp and warm up in **A minor pentatonic** around 80-88 BPM. Today you are not collecting a hundred licks — you are turning **one good idea** into a whole staircase. Play a short 3- to 5-note phrase, then get ready to echo it with small upgrades.",
+          "pt-BR": "Coloque um vamp lento em **Am7** e aqueça na **pentatônica menor de A** entre 80-88 BPM. Hoje você não vai colecionar cem licks — vai transformar **uma boa ideia** em uma escada inteira. Toque uma frase curta de 3 a 5 notas e prepare-se para ecoá-la com pequenas evoluções.",
+          "es": "Pon un vamp lento de **Am7** y calienta con la **pentatónica menor de A** entre 80-88 BPM. Hoy no vas a coleccionar cien licks: vas a convertir **una buena idea** en una escalera completa. Toca una frase corta de 3 a 5 notas y prepárate para hacerle eco con pequeñas mejoras.",
+          "de": "Starte einen langsamen **Am7**-Vamp und wärme dich in der **A-Moll-Pentatonik** bei 80-88 BPM auf. Heute sammelst du keine hundert Licks — du machst aus **einer guten Idee** eine ganze Leiter. Spiele eine kurze Phrase mit 3 bis 5 Tönen und bereite dich darauf vor, sie mit kleinen Upgrades zu spiegeln.",
+          "ja": "ゆっくりした **Am7** のヴァンプを流し、**Aマイナー・ペンタトニック** を 80-88 BPM でウォームアップしましょう。今日は大量のリック集めではなく、**ひとつの良いアイデア** を階段のように育てます。3〜5音の短いフレーズを弾き、小さな進化を加えながらエコーさせる準備をしてください。",
+          "zh-Hans": "打开一个慢速 **Am7** vamp，用 **A小调五声音阶** 在 80-88 BPM 热身。今天你不是去收集一百个 lick，而是要把 **一个好点子** 变成一整段阶梯。先弹一句 3 到 5 个音的短乐句，然后准备好用小升级去“回声”它。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Round 1 – Exact echo\nPlay your phrase once, leave a tiny breath, then repeat it **exactly**. Match the rhythm, articulation, and landing note so closely that it sounds like the room answered you. If the second phrase feels weaker, slow down and clean up the timing before adding anything fancy.",
+          "pt-BR": "## Rodada 1 – Eco exato\nToque sua frase uma vez, deixe uma pequena respiração e depois repita **exatamente igual**. Iguale ritmo, articulação e nota de chegada tão bem que pareça que a sala respondeu. Se a segunda frase soar mais fraca, diminua o andamento e limpe o tempo antes de inventar moda.",
+          "es": "## Ronda 1 – Eco exacto\nToca tu frase una vez, deja una pequeña respiración y repítela **exactamente igual**. Igualar ritmo, articulación y nota de llegada tan bien que parezca que la habitación te contestó. Si la segunda frase suena más débil, baja la velocidad y limpia el tiempo antes de añadir cosas elegantes.",
+          "de": "## Runde 1 – Exaktes Echo\nSpiele deine Phrase einmal, lass einen kleinen Atemzug und wiederhole sie dann **ganz genau**. Rhythmus, Artikulation und Zielton sollen so gut übereinstimmen, dass es klingt, als würde der Raum antworten. Wenn die zweite Phrase schwächer wirkt, werde langsamer und säubere zuerst das Timing.",
+          "ja": "## ラウンド1 – そのままのエコー\nフレーズを1回弾いたら少しだけ間を空け、**まったく同じように** もう一度弾きます。リズム、アーティキュレーション、着地音をそろえて、部屋が返事したように聞こえるくらい合わせましょう。2回目が弱く聞こえるなら、飾りを足す前にテンポを落としてタイムを整えてください。",
+          "zh-Hans": "## 第1轮 – 原样回声\n先弹一次乐句，留一点点呼吸，再 **完全照着重复** 一次。节奏、发音和落点音都尽量对齐，让它听起来像房间在回答你。如果第二句明显变弱，先放慢速度，把时间感清干净，再谈花样。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Round 2 – One-step upgrade\nNow keep the same rhythmic shape, but change **one element only**: move the ending note, add a slide, or start one scale tone higher. Think of it like climbing one stair, not teleporting to another building. The listener should hear a family resemblance, not a random reset.",
+          "pt-BR": "## Rodada 2 – Um degrau acima\nAgora mantenha o mesmo desenho rítmico, mas mude **apenas um elemento**: altere a nota final, adicione um slide ou comece um grau acima da escala. Pense nisso como subir um degrau, não teleportar para outro prédio. Quem ouve precisa perceber parentesco, não um recomeço aleatório.",
+          "es": "## Ronda 2 – Un peldaño más\nAhora conserva la misma forma rítmica, pero cambia **solo un elemento**: mueve la nota final, añade un slide o empieza un grado más arriba de la escala. Piensa en subir un peldaño, no en teletransportarte a otro edificio. Quien escucha debe oír parentesco, no un reinicio aleatorio.",
+          "de": "## Runde 2 – Eine Stufe höher\nBehalte nun dieselbe rhythmische Form, aber ändere **nur ein Element**: verschiebe den Schlusston, füge einen Slide hinzu oder beginne einen Skalenton höher. Denk an eine einzelne Stufe, nicht an Teleportation in ein anderes Gebäude. Man soll Verwandtschaft hören, keinen zufälligen Neustart.",
+          "ja": "## ラウンド2 – 1段だけ上げる\n今度は同じリズムの形を保ちながら、**1つの要素だけ** 変えます。最後の音を変える、スライドを入れる、またはスケールの1音上から始めるのが候補です。別世界へ飛ぶのではなく、階段を1段上がる感覚です。聴き手には、ランダムなやり直しではなくつながりが聞こえるべきです。",
+          "zh-Hans": "## 第2轮 – 只升一级\n现在保持同样的节奏外形，但 **只改一个元素**：换终点音、加一个滑音，或者从音阶里高一级开始。把它想成上一级台阶，而不是瞬移到另一栋楼。听的人应该能听出亲缘关系，而不是随机重启。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Round 3 – Register jump\nTake the same idea to a **higher string set or nearby position** while keeping the contour recognizable. Your fingers may travel, but the phrase's identity should survive the move. Bonus challenge: make the jumped version slightly louder or more intense so the solo feels like it is opening up.",
+          "pt-BR": "## Rodada 3 – Salto de registro\nLeve a mesma ideia para um **grupo de cordas mais agudo ou uma posição vizinha**, mantendo o contorno reconhecível. Seus dedos podem viajar, mas a identidade da frase precisa sobreviver à mudança. Desafio bônus: faça a versão deslocada soar um pouco mais forte ou intensa para que o solo pareça se abrir.",
+          "es": "## Ronda 3 – Salto de registro\nLleva la misma idea a un **grupo de cuerdas más agudo o a una posición cercana**, manteniendo el contorno reconocible. Tus dedos pueden viajar, pero la identidad de la frase debe sobrevivir al cambio. Desafío extra: haz que la versión desplazada suene un poco más fuerte o intensa para que el solo parezca abrirse.",
+          "de": "## Runde 3 – Registersprung\nVerlege dieselbe Idee auf einen **höheren Saitensatz oder eine nahe Position**, während die Kontur erkennbar bleibt. Deine Finger dürfen reisen, aber die Identität der Phrase muss den Ortswechsel überleben. Bonus: Lass die versetzte Version etwas lauter oder intensiver klingen, damit sich das Solo öffnet.",
+          "ja": "## ラウンド3 – 音域ジャンプ\n同じアイデアを **高い弦セットや近いポジション** に移し、輪郭が分かるままにします。指は移動しても、フレーズの正体は残っていなければいけません。追加チャレンジとして、移した版を少し強く、または少し熱く弾き、ソロが広がる感じを作りましょう。",
+          "zh-Hans": "## 第3轮 – 音区跳跃\n把同一个想法移到 **更高的弦组或邻近把位**，同时让轮廓依然可辨认。手指可以旅行，但乐句的身份不能丢。加分挑战：让跳过去的版本更响一点或更有冲劲，让独奏真的有展开感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Boss round – Four-bar story\nCreate a **4-bar etude** with this order: original phrase, exact echo, upgraded echo, register jump. Record two takes. In take one, stay calm and precise. In take two, exaggerate the dynamics and leave more space. Compare them and ask: which version actually sounds like music instead of exercise?",
+          "pt-BR": "## Fase chefão – História de quatro compassos\nCrie um **etude de 4 compassos** nesta ordem: frase original, eco exato, eco evoluído e salto de registro. Grave duas tomadas. Na primeira, fique calmo e preciso. Na segunda, exagere na dinâmica e deixe mais espaço. Compare as duas e pergunte: qual delas realmente soa como música em vez de exercício?",
+          "es": "## Nivel jefe – Historia de cuatro compases\nCrea un **etude de 4 compases** con este orden: frase original, eco exacto, eco mejorado y salto de registro. Graba dos tomas. En la primera, mantente tranquilo y preciso. En la segunda, exagera la dinámica y deja más espacio. Compáralas y pregúntate: ¿cuál suena realmente como música y no como ejercicio?",
+          "de": "## Boss-Runde – Vier-Takt-Geschichte\nBaue eine **4-taktige Etüde** in dieser Reihenfolge: Originalphrase, exaktes Echo, gesteigertes Echo, Registersprung. Nimm zwei Takes auf. Im ersten bleibst du ruhig und präzise. Im zweiten übertreibst du Dynamik und lässt mehr Raum. Vergleiche danach: Welche Version klingt wirklich nach Musik statt nach Übung?",
+          "ja": "## ボスラウンド – 4小節の物語\n**4小節のエチュード** を、元のフレーズ → そのままのエコー → 発展したエコー → 音域ジャンプ、の順で作ります。2テイク録音してください。1回目は落ち着いて正確に。2回目はダイナミクスを大きめにし、間も多めに取ります。比べてみて、「練習」ではなく本当に「音楽」に聞こえるのはどちらか考えましょう。",
+          "zh-Hans": "## Boss轮 – 四小节故事\n按这个顺序写一个 **4小节练习曲**：原始乐句、原样回声、升级回声、音区跳跃。录两遍。第一遍冷静而精准，第二遍把力度变化做得更夸张、留白更多。然后比较：哪一版听起来更像音乐，而不只是练习？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-03T00:07:17Z",
+  "updatedAt": "2026-07-03T00:07:17Z"
+}

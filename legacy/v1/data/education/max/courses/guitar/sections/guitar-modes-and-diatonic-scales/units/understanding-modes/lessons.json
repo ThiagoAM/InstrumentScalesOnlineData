@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "e-phrygian-riffs-with-open-string-tension",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "E Phrygian Riffs with Open-String Tension",
+        "pt-BR": "Riffs em Mi Frígio com tensão de corda solta",
+        "es": "Riffs en Mi frigio con tensión de cuerda al aire",
+        "de": "E-phrygische Riffs mit Leersaiten-Spannung",
+        "ja": "開放弦の緊張感を使ったEフリジアン・リフ",
+        "zh-Hans": "用开放弦张力打造 E 弗里吉亚 riff"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use E Phrygian to turn a simple pedal riff into dark, controlled modal drama.",
+        "pt-BR": "Use Mi frígio para transformar um riff com pedal em drama modal sombrio e controlado.",
+        "es": "Usa Mi frigio para convertir un riff con pedal en un drama modal oscuro y controlado.",
+        "de": "Nutze E-Phrygisch, um aus einem Pedalriff kontrollierte, dunkle Modaldramatik zu machen.",
+        "ja": "Eフリジアンを使って、シンプルなペダル・リフを暗く制御されたモーダルなドラマに変える。",
+        "zh-Hans": "用 E 弗里吉亚把简单的 pedal riff 变成黑暗、可控、充满戏剧性的调式片段。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-16T00:08:51Z",
+    "updatedAt": "2026-07-16T00:08:51Z"
   }
 ]

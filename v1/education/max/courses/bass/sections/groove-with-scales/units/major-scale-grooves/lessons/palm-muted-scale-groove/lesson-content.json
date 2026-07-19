@@ -1,0 +1,73 @@
+{
+  "id": "palm-muted-scale-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use **G major** and set the metronome to **92 bpm**. Rest the side of your picking hand near the bridge for a light palm‑mute.",
+          "pt-BR": "Use **Sol maior** e ajuste o metrônomo para **92 bpm**. Encoste de leve o lado da mão da palheta perto da ponte para um palm‑mute suave.",
+          "es": "Usa **Sol mayor** y pon el metrónomo en **92 bpm**. Apoya suavemente el lado de la mano de la púa cerca del puente para un palm‑mute ligero.",
+          "de": "Nimm **G‑Dur** und stell das Metronom auf **92 bpm**. Lege die Handkante der Anschlagshand nah an die Brücke für ein leichtes Palm‑Mute.",
+          "ja": "**Gメジャー**でメトロノームを**92 bpm**に設定。ブリッジ付近に手の側面を軽く当ててパームミュートします。",
+          "zh-Hans": "使用**G大调**，将节拍器设为**92 bpm**。右手掌根轻贴桥附近，形成轻度掌根消音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a **two‑bar groove** with **roots and fifths** only. Add muted **16th‑note taps** on the “e” and “a” of beat 2.",
+          "pt-BR": "Monte um **groove de dois compassos** só com **fundamentais e quintas**. Adicione **toques de semicolcheia** abafados no “e” e “a” do tempo 2.",
+          "es": "Construye un **groove de dos compases** solo con **fundamentales y quintas**. Añade **golpes de semicorchea** apagados en el “e” y “a” del tiempo 2.",
+          "de": "Baue einen **Zwei‑Takt‑Groove** nur mit **Grundtönen und Quinten**. Füge gedämpfte **Sechzehntel‑Taps** auf das „e“ und „a“ von Zählzeit 2 hinzu.",
+          "ja": "**2小節のグルーヴ**を**ルートと5度**だけで作る。2拍目の「e」と「a」に**16分音符の軽いタップ**を入れます。",
+          "zh-Hans": "用**根音与五度**建立**两小节律动**。在第2拍的“e”和“a”加入**十六分轻触**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In bar 2, add one **approach note** (2nd or 6th) leading into the next root. Keep beat 1 strong and clean.",
+          "pt-BR": "No compasso 2, acrescente uma **nota de aproximação** (2ª ou 6ª) que leve à próxima fundamental. Mantenha o tempo 1 forte e limpo.",
+          "es": "En el compás 2, agrega una **nota de aproximación** (2ª o 6ª) que lleve a la siguiente fundamental. Mantén el tiempo 1 fuerte y limpio.",
+          "de": "Im 2. Takt ergänzt du eine **Annäherungsnote** (2. oder 6. Stufe) zur nächsten Grundnote. Halte Zählzeit 1 stark und sauber.",
+          "ja": "2小節目で**アプローチノート**（2度か6度）を加え、次のルートへ導く。1拍目は強くクリーンに。",
+          "zh-Hans": "第2小节加入一个**趋近音**（2度或6度）引向下一个根音。第1拍要强而干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Dynamics drill:** ghost notes at **pp**, accents on **beats 1 and 3**. Record one take and listen for even volume.",
+          "pt-BR": "**Dinâmica:** ghost notes em **pp**, acentos nos **tempos 1 e 3**. Grave uma tomada e escute se o volume está uniforme.",
+          "es": "**Dinámica:** ghost notes en **pp**, acentos en **tiempos 1 y 3**. Graba una toma y escucha si el volumen está parejo.",
+          "de": "**Dynamik:** Ghost Notes bei **pp**, Akzente auf **Zählzeiten 1 und 3**. Nimm einen Take auf und hör auf gleichmäßige Lautstärke.",
+          "ja": "**ダイナミクス練習：** ゴーストノートは**pp**、アクセントは**1拍目と3拍目**。1テイク録音して音量の均一さを確認。",
+          "zh-Hans": "**力度练习：** 幽灵音保持**pp**，重音落在**第1拍和第3拍**。录一遍听听音量是否均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Groove ladder:** repeat the two‑bar groove four times, increasing **+4 bpm** each round. Stop if your mute gets sloppy.",
+          "pt-BR": "**Escada de groove:** repita o groove de dois compassos quatro vezes, aumentando **+4 bpm** a cada rodada. Pare se o mute ficar impreciso.",
+          "es": "**Escalera de groove:** repite el groove de dos compases cuatro veces, subiendo **+4 bpm** cada ronda. Detente si el mute se vuelve descuidado.",
+          "de": "**Groove‑Leiter:** Wiederhole den Zwei‑Takt‑Groove viermal und steigere jedes Mal um **+4 bpm**. Stoppe, wenn das Mute unsauber wird.",
+          "ja": "**グルーヴ階段：** 2小節グルーヴを4回繰り返し、毎回**+4 bpm**上げる。ミュートが乱れたら止めよう。",
+          "zh-Hans": "**律动阶梯：** 将两小节律动重复4轮，每轮提升**+4 bpm**。若消音变乱就停止。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-28T00:06:51Z",
+  "updatedAt": "2026-03-28T00:06:51Z"
+}

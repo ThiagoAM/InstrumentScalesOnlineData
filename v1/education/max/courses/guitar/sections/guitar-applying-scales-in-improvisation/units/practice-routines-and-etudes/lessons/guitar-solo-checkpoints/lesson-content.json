@@ -1,0 +1,86 @@
+{
+  "id": "guitar-solo-checkpoints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns your solo practice into a **checkpoint race**. Use **D minor** or **A minor**, set a backing track to **84-98 BPM**, and decide that every phrase must reach a musical checkpoint before time runs out. A checkpoint can be a chord tone, a rhythmic answer, or a clean position shift. The point is not speed. The point is control under pressure.",
+          "pt-BR": "Esta lição transforma sua prática de solo em uma **corrida de checkpoints**. Use **Ré menor** ou **Lá menor**, coloque uma backing track entre **84-98 BPM** e decida que cada frase precisa alcançar um checkpoint musical antes que o tempo acabe. Um checkpoint pode ser uma nota do acorde, uma resposta rítmica ou uma mudança limpa de posição. O objetivo não é velocidade. O objetivo é controle sob pressão.",
+          "es": "Esta lección convierte tu práctica de solos en una **carrera de puntos de control**. Usa **Re menor** o **La menor**, pon una base entre **84-98 BPM** y decide que cada frase debe alcanzar un punto de control musical antes de que se acabe el tiempo. Un punto de control puede ser una nota del acorde, una respuesta rítmica o un cambio limpio de posición. La meta no es la velocidad. La meta es el control bajo presión.",
+          "de": "Diese Lektion macht aus deinem Solotraining ein **Kontrollpunkt-Rennen**. Nimm **D-Moll** oder **A-Moll**, stelle einen Backing Track auf **84-98 BPM** und beschließe, dass jede Phrase einen musikalischen Kontrollpunkt erreichen muss, bevor die Zeit abläuft. Ein Kontrollpunkt kann ein Akkordton, eine rhythmische Antwort oder ein sauberer Lagenwechsel sein. Es geht nicht um Tempo. Es geht um Kontrolle unter Druck.",
+          "ja": "このレッスンでは、ソロ練習を**チェックポイント競争**に変えます。**Dマイナー**または**Aマイナー**を使い、**84〜98 BPM**のバッキングを流し、すべてのフレーズが時間切れになる前に音楽的なチェックポイントへ到達しなければならないと決めてください。チェックポイントはコードトーン、リズムの返答、きれいなポジション移動のどれでもかまいません。速さが目的ではありません。プレッシャーの中でのコントロールが目的です。",
+          "zh-Hans": "这节课把你的独奏练习变成一场**检查点竞赛**。使用**D小调**或**A小调**，打开一条 **84-98 BPM** 的伴奏，并规定每个乐句都必须在时间用完前抵达一个音乐检查点。检查点可以是和弦音、节奏回应，或一次干净的把位移动。目标不是速度，而是压力下的控制力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a six-checkpoint loop:\n- bar 1 must end on the **root**\n- bar 2 must end on the **3rd** or **b3**\n- bar 3 must use one clear rest\n- bar 4 must answer bar 3 with a new rhythm\n- bar 5 must shift to a nearby position\n- bar 6 must resolve with confidence\n\nWrite the list down so you cannot cheat when your hands get excited.",
+          "pt-BR": "Monte um ciclo de seis checkpoints:\n- o compasso 1 deve terminar na **tônica**\n- o compasso 2 deve terminar na **3ª** ou **3ª menor**\n- o compasso 3 deve usar uma pausa clara\n- o compasso 4 deve responder ao compasso 3 com um ritmo novo\n- o compasso 5 deve mudar para uma posição próxima\n- o compasso 6 deve resolver com confiança\n\nAnote a lista para não trapacear quando as mãos ficarem animadas.",
+          "es": "Construye un ciclo de seis puntos de control:\n- el compás 1 debe terminar en la **tónica**\n- el compás 2 debe terminar en la **3ª** o **3ª menor**\n- el compás 3 debe incluir un silencio claro\n- el compás 4 debe responder al compás 3 con un ritmo nuevo\n- el compás 5 debe cambiar a una posición cercana\n- el compás 6 debe resolver con seguridad\n\nEscribe la lista para no hacer trampa cuando tus manos se emocionen.",
+          "de": "Baue einen Zyklus aus sechs Kontrollpunkten:\n- Takt 1 muss auf dem **Grundton** enden\n- Takt 2 muss auf der **Terz** oder **kleinen Terz** enden\n- Takt 3 muss eine klare Pause enthalten\n- Takt 4 muss Takt 3 mit einem neuen Rhythmus beantworten\n- Takt 5 muss in eine nahe Lage wechseln\n- Takt 6 muss selbstbewusst auflösen\n\nSchreibe die Liste auf, damit du nicht schummelst, wenn deine Hände zu aufgeregt werden.",
+          "ja": "6つのチェックポイントのループを作りましょう。\n- 1小節目は**ルート**で終える\n- 2小節目は**3度**または**短3度**で終える\n- 3小節目でははっきりした休符を1回入れる\n- 4小節目では3小節目に新しいリズムで答える\n- 5小節目では近いポジションへ移動する\n- 6小節目では自信を持って解決する\n\n手が勝手に盛り上がってもごまかさないように、リストを書き出してください。",
+          "zh-Hans": "建立一个六步检查点循环：\n- 第1小节必须落在**主音**上\n- 第2小节必须落在**三度**或**小三度**上\n- 第3小节必须出现一次清楚的停顿\n- 第4小节必须用新节奏回应第3小节\n- 第5小节必须移动到附近把位\n- 第6小节必须自信地收束\n\n把这份清单写下来，这样手一兴奋起来时也不会偷偷作弊。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **map run**. Improvise slowly and treat each checkpoint like a visible marker on the road. If you miss one, do not stop the track. Keep going, but mentally mark the miss. You are training recovery, not perfection theater.",
+          "pt-BR": "A Rodada 1 é a **corrida com mapa**. Improvise devagar e trate cada checkpoint como uma placa visível na estrada. Se você errar um deles, não pare a base. Continue, mas marque o erro mentalmente. Você está treinando recuperação, não teatro de perfeição.",
+          "es": "La Ronda 1 es la **vuelta con mapa**. Improvisa despacio y trata cada punto de control como una señal visible en la carretera. Si fallas uno, no detengas la base. Sigue adelante, pero marca el error mentalmente. Estás entrenando recuperación, no teatro de perfección.",
+          "de": "Runde 1 ist die **Kartenrunde**. Improvisiere langsam und behandle jeden Kontrollpunkt wie ein sichtbares Schild auf der Straße. Wenn du einen verpasst, stoppe den Track nicht. Spiele weiter, aber markiere den Fehler im Kopf. Du trainierst Erholung, nicht Perfektionstheater.",
+          "ja": "ラウンド1は**地図ラウンド**です。ゆっくり即興し、各チェックポイントを道路上の見える目印のように扱います。1つ外してもトラックは止めないでください。そのまま続け、頭の中でミスを記録します。ここで鍛えるのは完璧さではなく立て直しです。",
+          "zh-Hans": "第1轮是**地图轮**。慢慢即兴，把每个检查点都当成路上的明显标志。如果错过了一个，不要停掉伴奏。继续往前，只是在心里记下失误。你练的是恢复能力，不是表演式完美。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **fog round**. Keep the same checkpoints, but now you may only start phrases on the **and** of a beat or after a rest. This forces your scale ideas to breathe instead of charging in on beat 1 every time. If the phrasing falls apart, simplify the notes and protect the rhythm.",
+          "pt-BR": "A Rodada 2 é a **rodada de neblina**. Mantenha os mesmos checkpoints, mas agora você só pode começar frases no **e** do tempo ou depois de uma pausa. Isso força suas ideias de escala a respirarem em vez de entrarem atropelando sempre no tempo 1. Se o fraseado desmontar, simplifique as notas e proteja o ritmo.",
+          "es": "La Ronda 2 es la **ronda de niebla**. Mantén los mismos puntos de control, pero ahora solo puedes comenzar frases en el **y** del pulso o después de un silencio. Eso obliga a que tus ideas con la escala respiren en lugar de entrar siempre en el tiempo 1. Si el fraseo se cae, simplifica las notas y protege el ritmo.",
+          "de": "Runde 2 ist die **Nebelrunde**. Behalte dieselben Kontrollpunkte, aber du darfst Phrasen jetzt nur auf dem **Und** eines Schlages oder nach einer Pause beginnen. So müssen deine Skalenideen atmen, statt jedes Mal auf Schlag 1 loszustürmen. Wenn das Phrasing zerfällt, vereinfache die Töne und schütze den Rhythmus.",
+          "ja": "ラウンド2は**霧ラウンド**です。同じチェックポイントを使いますが、フレーズの開始は拍の**裏**か休符の後だけにします。これでスケールのアイデアが毎回1拍目に突っ込むのではなく、ちゃんと呼吸するようになります。フレージングが崩れたら、音を減らしてリズムを守ってください。",
+          "zh-Hans": "第2轮是**迷雾轮**。检查点不变，但现在你只能在拍子的**后半拍**或休止之后开始乐句。这样你的音阶想法就必须会呼吸，而不是每次都冲向第一拍。如果乐句感散掉了，就减少音符，先保住节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **boss gate**. Choose your two weakest checkpoints and build a **30-second solo** where both appear twice. Make the repeated checkpoints sound intentional, not recycled. A listener should hear shape, contrast, and a real ending.",
+          "pt-BR": "A Rodada 3 é o **portão do chefão**. Escolha seus dois checkpoints mais fracos e construa um **solo de 30 segundos** em que ambos apareçam duas vezes. Faça essas repetições parecerem intencionais, não recicladas. Quem ouvir deve perceber forma, contraste e um final real.",
+          "es": "La Ronda 3 es la **puerta del jefe**. Elige tus dos puntos de control más débiles y construye un **solo de 30 segundos** en el que ambos aparezcan dos veces. Haz que esas repeticiones suenen intencionales, no recicladas. Quien escuche debe notar forma, contraste y un final real.",
+          "de": "Runde 3 ist das **Boss-Tor**. Wähle deine zwei schwächsten Kontrollpunkte und baue ein **30-Sekunden-Solo**, in dem beide zweimal auftauchen. Die Wiederholungen sollen absichtlich klingen, nicht recycelt. Ein Zuhörer sollte Form, Kontrast und ein echtes Ende hören.",
+          "ja": "ラウンド3は**ボスゲート**です。いちばん弱いチェックポイントを2つ選び、両方が2回ずつ出てくる**30秒のソロ**を作ります。その繰り返しは使い回しではなく、意図的に聞こえなければいけません。聴き手には形、対比、そして本当の終わりが伝わるべきです。",
+          "zh-Hans": "第3轮是**Boss关卡**。选出你最弱的两个检查点，做一个**30秒独奏**，让它们各出现两次。重复必须听起来像有意设计，而不是旧句子回收。听众应该能听到结构、对比和真正的结尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a brutally honest scorecard:\n- Which checkpoint improved your phrasing most?\n- Which checkpoint exposed a blind spot on the fretboard?\n- Could you still hear the harmony while obeying the rules?\n\nIf the answer to the last question is “not really,” that is useful news. A scale only becomes music when your checkpoints sound like destinations, not math.",
+          "pt-BR": "Termine com um placar honestíssimo:\n- Qual checkpoint mais melhorou seu fraseado?\n- Qual checkpoint revelou um ponto cego no braço?\n- Você ainda conseguia ouvir a harmonia enquanto obedecia às regras?\n\nSe a resposta para a última pergunta for “não muito”, isso já é uma descoberta útil. Uma escala só vira música quando seus checkpoints soam como destinos, não como matemática.",
+          "es": "Termina con una tarjeta de puntuación brutalmente honesta:\n- ¿Qué punto de control mejoró más tu fraseo?\n- ¿Qué punto de control mostró una zona débil en el diapasón?\n- ¿Seguías oyendo la armonía mientras obedecías las reglas?\n\nSi la respuesta a la última pregunta es “no mucho”, eso ya es información útil. Una escala solo se vuelve música cuando tus puntos de control suenan como destinos y no como matemáticas.",
+          "de": "Beende die Lektion mit einer brutal ehrlichen Auswertung:\n- Welcher Kontrollpunkt hat dein Phrasing am meisten verbessert?\n- Welcher Kontrollpunkt hat eine blinde Stelle auf dem Griffbrett gezeigt?\n- Konntest du die Harmonie noch hören, während du die Regeln befolgt hast?\n\nWenn die Antwort auf die letzte Frage „nicht wirklich“ lautet, ist das wertvolle Information. Eine Skala wird erst dann zu Musik, wenn deine Kontrollpunkte wie Ziele und nicht wie Mathematik klingen.",
+          "ja": "最後に、容赦ない採点表で振り返ります。\n- どのチェックポイントがフレージングを最も良くしたか\n- どのチェックポイントが指板上の弱点を見せたか\n- ルールを守りながらもハーモニーを聴けていたか\n\n最後の質問への答えが「それほどでもない」なら、それは大事な発見です。スケールが音楽になるのは、チェックポイントが計算ではなく目的地として聞こえたときです。",
+          "zh-Hans": "最后做一次毫不留情的复盘：\n- 哪个检查点最提升你的乐句感？\n- 哪个检查点暴露了指板上的盲区？\n- 在遵守规则时，你还能听见和声吗？\n\n如果最后一个问题的答案是“并不太能”，那也是很有价值的信息。只有当检查点听起来像目的地而不是数学题时，音阶才真正变成音乐。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-20T00:07:03Z",
+  "updatedAt": "2026-06-20T00:07:03Z"
+}

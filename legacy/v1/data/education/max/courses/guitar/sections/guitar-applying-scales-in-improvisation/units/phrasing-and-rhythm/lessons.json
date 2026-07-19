@@ -82,5 +82,929 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "call-and-response-phrasing",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Phrasing",
+        "pt-BR": "Fraseado de Pergunta e Resposta",
+        "es": "Fraseo de Pregunta y Respuesta",
+        "de": "Frage-und-Antwort-Phrasing",
+        "ja": "コール＆レスポンスのフレージング",
+        "zh-Hans": "问答式乐句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build musical conversations using scale fragments, rests, and dynamics.",
+        "pt-BR": "Crie conversas musicais usando fragmentos de escala, pausas e dinâmica.",
+        "es": "Construye conversaciones musicales con fragmentos de escala, silencios y dinámica.",
+        "de": "Baue musikalische Gespräche mit Skalenfragmenten, Pausen und Dynamik.",
+        "ja": "スケール断片と休符、ダイナミクスで会話のように弾く。",
+        "zh-Hans": "用音阶片段、休止和力度打造音乐对话。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-27T00:06:55Z",
+    "updatedAt": "2026-03-27T00:06:55Z"
+  },
+  {
+    "id": "rhythm-dice-scale-phrases",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Rhythm Dice Scale Phrases\"",
+        "pt-BR": "\"Frases de Escala com Dados Rítmicos\"",
+        "es": "\"Frases de escala con dados rítmicos\"",
+        "de": "\"Skalenphrasen mit Rhythmuswürfeln\"",
+        "ja": "\"リズムダイス・スケールフレーズ\"",
+        "zh-Hans": "\"节奏骰子音阶乐句\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use a rhythm-dice game to build punchy scale phrases with space and accents.\"",
+        "pt-BR": "\"Use um jogo de dados rítmicos para criar frases de escala com espaço e acentos.\"",
+        "es": "\"Usa un juego de dados rítmicos para crear frases con espacio y acentos.\"",
+        "de": "\"Nutze ein Rhythmuswürfel‑Spiel, um Skalenphrasen mit Raum und Akzenten zu bauen.\"",
+        "ja": "\"リズムダイスのゲームで、間とアクセントのあるスケールフレーズを作ろう。\"",
+        "zh-Hans": "\"用节奏骰子游戏打造有空隙与重音的音阶乐句。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-28T00:05:42Z",
+    "updatedAt": "2026-03-28T00:05:42Z"
+  },
+  {
+    "id": "syncopated-scale-call-and-response",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Scale Call-and-Response",
+        "pt-BR": "Chamada e resposta sincopadas na escala",
+        "es": "Llamada y respuesta sincopadas en la escala",
+        "de": "Synkopierter Call-and-Response in der Skala",
+        "ja": "シンコペーションのコール＆レスポンス",
+        "zh-Hans": "音阶切分的呼叫与回应"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Trade rhythmic phrases inside a scale to boost groove and phrasing.",
+        "pt-BR": "Troque frases rítmicas na escala para turbinar groove e fraseado.",
+        "es": "Intercambia frases rítmicas en la escala para mejorar groove y fraseo.",
+        "de": "Tausche rhythmische Phrasen in der Skala, um Groove und Phrasing zu pushen.",
+        "ja": "スケール内でリズムフレーズを交換し、グルーヴとフレーズ力を高めよう。",
+        "zh-Hans": "在音阶里交换节奏短句，提升律动与乐句感。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-04T00:05:40Z",
+    "updatedAt": "2026-04-04T00:05:40Z"
+  },
+  {
+    "id": "guitar-offbeat-scale-hooks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Offbeat Scale Hooks",
+        "pt-BR": "Ganchos de Escala no Contratempo",
+        "es": "Ganchos de Escala a Contratiempo",
+        "de": "Offbeat‑Skalen‑Hooks",
+        "ja": "オフビート・スケールフック",
+        "zh-Hans": "离拍音阶钩子"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build catchy offbeat scale phrases with space, accents, and answer lines.",
+        "pt-BR": "Crie frases de escala marcantes no contratempo com espaço, acentos e resposta.",
+        "es": "Crea frases de escala pegajosas a contratiempo con espacio, acentos y respuesta.",
+        "de": "Baue eingängige Offbeat‑Skalenphrasen mit Platz, Akzenten und Antworten.",
+        "ja": "間とアクセント、返しを使ってキャッチーなオフビートのスケールフレーズを作ろう。",
+        "zh-Hans": "用留白、重音和回应做出抓耳的离拍音阶乐句。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-04-05T00:06:08Z",
+    "updatedAt": "2026-04-05T00:06:08Z"
+  },
+  {
+    "id": "rhythm-maze-in-a-dorian",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Maze in A Dorian",
+        "pt-BR": "Labirinto Rítmico em Lá Dórico",
+        "es": "Laberinto Rítmico en La Dórico",
+        "de": "Rhythmus-Labyrinth in A-Dorisch",
+        "ja": "Aドリアンのリズム迷路",
+        "zh-Hans": "A多利亚节奏迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape a rhythmic maze by threading A Dorian scale notes through rests, accents, and smart phrasing.",
+        "pt-BR": "Saia de um labirinto rítmico costurando notas de Lá dórico com pausas, acentos e fraseado inteligente.",
+        "es": "Escapa de un laberinto rítmico enlazando notas de La dórico con silencios, acentos y fraseo inteligente.",
+        "de": "Entkomme einem Rhythmus-Labyrinth, indem du Töne aus A-Dorisch mit Pausen, Akzenten und kluger Phrasierung verbindest.",
+        "ja": "Aドリアンの音を休符、アクセント、賢いフレージングでつなぎ、リズム迷路から脱出しよう。",
+        "zh-Hans": "用A多利亚音阶中的音、停顿、重音和聪明的乐句设计，闯出节奏迷宫。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-11T00:05:43Z",
+    "updatedAt": "2026-04-11T00:05:43Z"
+  },
+  {
+    "id": "guitar-rhythm-mirror-riffs",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Mirror Riffs",
+        "pt-BR": "Riffs Espelhados no Ritmo",
+        "es": "Riffs Espejados en el Ritmo",
+        "de": "Spiegelriffs im Rhythmus",
+        "ja": "リズム・ミラー・リフ",
+        "zh-Hans": "节奏镜像Riff"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sharpen your guitar phrasing by echoing and twisting short scale riffs with tight rhythm control.",
+        "pt-BR": "Afie seu fraseado na guitarra ecoando e torcendo pequenos riffs de escala com controle rítmico preciso.",
+        "es": "Afina tu fraseo de guitarra haciendo eco y retorciendo pequeños riffs de escala con control rítmico preciso.",
+        "de": "Schärfe dein Gitarren-Phrasing, indem du kurze Skalenriffs spiegelst und mit präzisem Rhythmus leicht veränderst.",
+        "ja": "短いスケールリフを映し返して少し変えながら、ギターのフレージングとリズム感を鍛えよう。",
+        "zh-Hans": "通过模仿并微调短小的音阶riff，用精准的节奏控制来强化你的吉他乐句能力。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-04-17T00:05:32Z",
+    "updatedAt": "2026-04-17T00:05:32Z"
+  },
+  {
+    "id": "guitar-accent-escape",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Accent Escape in E Minor",
+        "pt-BR": "Fuga de Acentos em Mi Menor",
+        "es": "Escape de Acentos en Mi Menor",
+        "de": "Akzentflucht in E-Moll",
+        "ja": "Eマイナーのアクセント脱出ゲーム",
+        "zh-Hans": "E小调重音逃脱"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Dodge predictable phrasing by escaping strong beats with sharp accents, rests, and quick replies.",
+        "pt-BR": "Fuja de frases previsíveis escapando dos tempos fortes com acentos, pausas e respostas rápidas.",
+        "es": "Escapa de frases predecibles usando acentos, silencios y respuestas rápidas fuera del pulso fuerte.",
+        "de": "Entkomme vorhersehbaren Phrasen mit Offbeat-Akzenten, Pausen und schnellen Antwortlinien.",
+        "ja": "強拍を外したアクセント、休符、短い返答で、ありがちなフレーズから抜け出そう。",
+        "zh-Hans": "用离拍重音、休止和快速回应，逃离一听就知道的老套音阶乐句。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-04-26T00:06:51Z",
+    "updatedAt": "2026-04-26T00:06:51Z"
+  },
+  {
+    "id": "guitar-pivot-point-heist",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pivot-Point Heist in A Dorian",
+        "pt-BR": "Assalto ao Ponto de Apoio em Lá Dórico",
+        "es": "Golpe al Punto de Giro en La Dórico",
+        "de": "Drehpunkt-Raubzug in A-Dorisch",
+        "ja": "Aドリアンのピボットポイント強奪",
+        "zh-Hans": "A多利亚支点音劫案"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Steal more melodic solos by sneaking away from a target note and returning with rhythm, tension, and control.",
+        "pt-BR": "Roube solos mais melódicos saindo de uma nota-alvo e voltando com ritmo, tensão e controle.",
+        "es": "Roba solos más melódicos saliendo de una nota objetivo y regresando con ritmo, tensión y control.",
+        "de": "Hol dir melodischere Soli, indem du einen Zielton verlässt und mit Rhythmus, Spannung und Kontrolle zurückkehrst.",
+        "ja": "目標音から離れて戻る動きを使い、リズムと緊張感とコントロールのあるメロディックなソロを作ろう。",
+        "zh-Hans": "围绕目标音离开再返回，用节奏、张力和控制做出更有旋律感的独奏。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-04-27T00:07:27Z",
+    "updatedAt": "2026-04-27T00:07:27Z"
+  },
+  {
+    "id": "call-and-response-scale-phrasing",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call-and-Response Scale Phrasing",
+        "pt-BR": "Fraseado de Escala em Pergunta e Resposta",
+        "es": "Fraseo de Escala con Pregunta y Respuesta",
+        "de": "Skalenphrasierung als Frage und Antwort",
+        "ja": "コール＆レスポンスで作るスケールフレージング",
+        "zh-Hans": "问答式音阶乐句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale fragments into musical conversations with rhythm, space, and repetition.",
+        "pt-BR": "Transforme fragmentos de escala em conversas musicais com ritmo, espaço e repetição.",
+        "es": "Convierte fragmentos de escala en conversaciones musicales con ritmo, espacio y repetición.",
+        "de": "Verwandle Skalenfragmente mit Rhythmus, Raum und Wiederholung in musikalische Gespräche.",
+        "ja": "リズム、間、反復を使ってスケール断片を音楽的な会話に変えるレッスンです。",
+        "zh-Hans": "用节奏、留白和重复，把音阶片段变成真正会“对话”的乐句。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-04-28T00:07:09Z",
+    "updatedAt": "2026-04-28T00:07:09Z"
+  },
+  {
+    "id": "guitar-rhythm-fakeout",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Fakeout in A Dorian",
+        "pt-BR": "Pegadinha Rítmica em Lá Dórico",
+        "es": "Engaño Rítmico en La Dórico",
+        "de": "Rhythmus-Finte in A-Dorisch",
+        "ja": "Aドリアンのリズムだまし",
+        "zh-Hans": "A多利亚节奏障眼法"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make your guitar phrases harder to predict by teasing the beat, then landing with control.",
+        "pt-BR": "Deixe suas frases de guitarra menos previsíveis provocando o pulso e pousando com controle.",
+        "es": "Haz tus frases de guitarra menos predecibles provocando el pulso y aterrizando con control.",
+        "de": "Mach deine Gitarrenphrasen schwerer vorhersehbar, indem du den Puls antäuschst und kontrolliert landest.",
+        "ja": "拍をじらしてから狙って着地し、ギターのフレーズを読まれにくくしよう。",
+        "zh-Hans": "先吊住拍点、再稳稳落地，让你的吉他乐句更难被猜到。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-04-30T00:08:00Z",
+    "updatedAt": "2026-04-30T00:08:00Z"
+  },
+  {
+    "id": "guitar-beat-shadow-switch",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Beat Shadow Switch in E Dorian",
+        "pt-BR": "Troca de Sombra do Beat em Mi Dórico",
+        "es": "Cambio de Sombra del Beat en Mi Dórico",
+        "de": "Beat-Schattenwechsel in E-Dorisch",
+        "ja": "Eドリアンのビート・シャドウ切り替え",
+        "zh-Hans": "E多利亚节拍影子切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sneak guitar phrases behind the beat, then switch their landing spot without losing the groove.",
+        "pt-BR": "Esconda frases de guitarra atrás do pulso e troque o ponto de chegada sem perder o groove.",
+        "es": "Esconde frases de guitarra detrás del pulso y cambia su punto de llegada sin perder el groove.",
+        "de": "Verstecke Gitarrenphrasen hinter dem Puls und wechsle den Zielton, ohne den Groove zu verlieren.",
+        "ja": "ギターのフレーズを拍の裏に隠し、着地点を変えてもグルーヴを失わない練習です。",
+        "zh-Hans": "把吉他乐句藏在拍点后面，再切换落点，同时保持 groove 不散。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-05-01T00:08:10Z",
+    "updatedAt": "2026-05-01T00:08:10Z"
+  },
+  {
+    "id": "guitar-silence-slingshot",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Silence Slingshot in E Minor",
+        "pt-BR": "Estilingue do Silêncio em Mi Menor",
+        "es": "Tirachinas del Silencio en Mi Menor",
+        "de": "Stille-Schleuder in E-Moll",
+        "ja": "Eマイナーのサイレンス・スリングショット",
+        "zh-Hans": "E小调静默弹弓"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build sharper guitar phrasing by storing tension with silence and snapping back onto target notes.",
+        "pt-BR": "Construa frases de guitarra mais afiadas guardando tensão no silêncio e voltando para notas-alvo.",
+        "es": "Afila tu fraseo de guitarra guardando tensión en el silencio y regresando a notas objetivo.",
+        "de": "Schärfe dein Gitarren-Phrasing, indem du Spannung in der Stille speicherst und gezielt auf Zieltöne zurückkehrst.",
+        "ja": "沈黙にテンションをためて目標音へ戻ることで、ギターのフレージングを鋭くするレッスンです。",
+        "zh-Hans": "用停顿储存张力，再弹回目标音，让你的吉他乐句更锋利。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-05-08T00:07:36Z",
+    "updatedAt": "2026-05-08T00:07:36Z"
+  },
+  {
+    "id": "guitar-accent-periscope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Accent Periscope",
+        "pt-BR": "Periscópio de Acentos na Guitarra",
+        "es": "Periscopio de Acentos para Guitarra",
+        "de": "Gitarren-Akzent-Periskop",
+        "ja": "ギター・アクセント潜望鏡",
+        "zh-Hans": "吉他重音潜望镜"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use well-placed accents to make scale phrases rise above the backing track with better shape and intention.",
+        "pt-BR": "Use acentos bem colocados para fazer frases de escala emergirem do acompanhamento com mais forma e intenção.",
+        "es": "Usa acentos bien colocados para que las frases de escala sobresalgan del acompañamiento con más forma e intención.",
+        "de": "Nutze gezielte Akzente, damit Skalenphrasen deutlicher aus dem Backing hervortreten und mehr Form bekommen.",
+        "ja": "狙ったアクセントでスケールフレーズを伴奏の上に浮かび上がらせ、形と意図をはっきりさせます。",
+        "zh-Hans": "用精准重音让音阶乐句从伴奏里浮出来，获得更清楚的形状和意图。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-05-09T00:14:25Z",
+    "updatedAt": "2026-05-09T00:14:25Z"
+  },
+  {
+    "id": "guitar-sidestep-sparks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Sidestep Sparks in G Major",
+        "pt-BR": "Faíscas de Desvio em Sol Maior",
+        "es": "Chispas de Desvío en Sol Mayor",
+        "de": "Ausweich-Funken in G-Dur",
+        "ja": "Gメジャーのサイドステップ・スパーク",
+        "zh-Hans": "G大调侧闪火花"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn plain scale runs into lively guitar phrases by sidestepping targets, recovering fast, and shaping clean rhythmic surprises.",
+        "pt-BR": "Transforme corridas de escala comuns em frases vivas na guitarra usando desvios rápidos, recuperação e surpresas rítmicas bem controladas.",
+        "es": "Convierte recorridos de escala comunes en frases de guitarra con vida usando desvíos breves, recuperación rápida y sorpresas rítmicas claras.",
+        "de": "Verwandle einfache Tonleiterläufe auf der Gitarre in lebendige Phrasen mit kurzen Ausweichbewegungen, schneller Erholung und klaren rhythmischen Überraschungen.",
+        "ja": "ありがちなスケール運指を、短い寄り道と素早い立て直し、リズムのひらめきで生きたギターフレーズに変えましょう。",
+        "zh-Hans": "用短暂绕行、快速回正和清晰的节奏惊喜，把普通的吉他音阶跑动变成有生命力的乐句。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-05-10T00:07:56Z",
+    "updatedAt": "2026-05-10T00:07:56Z"
+  },
+  {
+    "id": "guitar-beat-mirror",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Beat Mirror in A Dorian",
+        "pt-BR": "Espelho do Beat em Lá Dórico",
+        "es": "Espejo del Pulso en La Dórico",
+        "de": "Beat-Spiegel in A-Dorisch",
+        "ja": "Aドリアンのビート・ミラー",
+        "zh-Hans": "A多利亚节拍镜像"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Reflect and reshape short A Dorian phrases so your guitar rhythm gets sharper and more musical.",
+        "pt-BR": "Reflita e remodele frases curtas em Lá dórico para deixar seu ritmo na guitarra mais afiado e musical.",
+        "es": "Refleja y remodela frases cortas en La dórico para que tu ritmo en guitarra sea más preciso y musical.",
+        "de": "Spiegele und forme kurze A-dorische Phrasen um, damit dein Gitarrenrhythmus schärfer und musikalischer wird.",
+        "ja": "Aドリアンの短いフレーズを映して作り替え、ギターのリズムをもっと鋭く音楽的にします。",
+        "zh-Hans": "通过镜像并重塑 A 多利亚短句，让你的吉他节奏更锋利、更有音乐性。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-05-12T00:08:09Z",
+    "updatedAt": "2026-05-12T00:08:09Z"
+  },
+  {
+    "id": "guitar-rhythm-lighthouse",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Lighthouse",
+        "pt-BR": "Farol Rítmico da Guitarra",
+        "es": "Faro Rítmico de Guitarra",
+        "de": "Rhythmus-Leuchtturm für Gitarre",
+        "ja": "ギター・リズム灯台",
+        "zh-Hans": "吉他节奏灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use accents, rests, and target notes to steer a short solo through the groove.",
+        "pt-BR": "Use acentos, pausas e notas-alvo para conduzir um pequeno solo pelo groove.",
+        "es": "Usa acentos, silencios y notas objetivo para guiar un solo corto dentro del groove.",
+        "de": "Nutze Akzente, Pausen und Zieltöne, um ein kurzes Solo sicher durch den Groove zu steuern.",
+        "ja": "アクセント、休符、ターゲットノートを使って短いソロをグルーヴの中で導こう。",
+        "zh-Hans": "用重音、休止和目标音，把一个短独奏稳稳带进 groove 里。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-05-13T00:07:47Z",
+    "updatedAt": "2026-05-13T00:07:47Z"
+  },
+  {
+    "id": "guitar-call-and-response-obstacle-course",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Call and Response Obstacle Course",
+        "pt-BR": "Pista de Obstáculos de Pergunta e Resposta",
+        "es": "Circuito de Obstáculos de Pregunta y Respuesta",
+        "de": "Call-and-Response-Hindernisparcours",
+        "ja": "コール＆レスポンス障害物コース",
+        "zh-Hans": "问答句障碍挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build smarter guitar phrases by answering your own ideas through rhythm, space, and scale targets.",
+        "pt-BR": "Construa frases de guitarra mais inteligentes respondendo às próprias ideias com ritmo, espaço e notas-alvo.",
+        "es": "Construye frases de guitarra más inteligentes respondiendo a tus propias ideas con ritmo, espacio y notas objetivo.",
+        "de": "Baue klügere Gitarrenphrasen, indem du deine eigenen Ideen mit Rhythmus, Raum und Zieltönen beantwortest.",
+        "ja": "リズム、間、着地点を使って自分のフレーズに答え、ギターの発想力を鍛えるレッスンです。",
+        "zh-Hans": "用节奏、留白和目标音回应自己的乐句，让吉他即兴更聪明、更有音乐性。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-05-15T00:07:07Z",
+    "updatedAt": "2026-05-15T00:07:07Z"
+  },
+  {
+    "id": "guitar-rhythm-decoy",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Decoy",
+        "pt-BR": "Isca Rítmica na Guitarra",
+        "es": "Señuelo Rítmico en Guitarra",
+        "de": "Rhythmus-Köder auf der Gitarre",
+        "ja": "ギター・リズムおとり作戦",
+        "zh-Hans": "吉他节奏诱饵"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use rhythmic feints and target notes to make scale phrases less predictable and more musical.",
+        "pt-BR": "Use fintas rítmicas e notas-alvo para deixar frases de escala menos previsíveis e mais musicais.",
+        "es": "Usa fintas rítmicas y notas objetivo para volver tus frases de escala menos previsibles y más musicales.",
+        "de": "Nutze rhythmische Finte und Zieltöne, damit deine Skalenphrasen unvorhersehbarer und musikalischer werden.",
+        "ja": "リズムのフェイントとターゲットノートで、音階フレーズをもっと予測しにくく音楽的にするレッスンです。",
+        "zh-Hans": "用节奏假动作和目标音，让你的音阶乐句更难预测、也更有音乐性。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-05-16T00:07:54Z",
+    "updatedAt": "2026-05-16T00:07:54Z"
+  },
+  {
+    "id": "guitar-rhythm-trapdoor",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Trapdoor",
+        "pt-BR": "Alçapão Rítmico na Guitarra",
+        "es": "Trampilla Rítmica en la Guitarra",
+        "de": "Rhythmus-Falltür auf der Gitarre",
+        "ja": "ギター・リズム落とし戸",
+        "zh-Hans": "吉他节奏活板门"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use surprise rests and offbeat landings to make scale phrases snap harder without losing the groove.",
+        "pt-BR": "Use pausas surpresa e chegadas no contratempo para deixar frases de escala mais fortes sem perder o groove.",
+        "es": "Usa silencios sorpresa y caídas a contratiempo para que tus frases de escala peguen más sin perder el groove.",
+        "de": "Nutze überraschende Pausen und Offbeat-Landungen, damit Skalenphrasen härter treffen, ohne den Groove zu verlieren.",
+        "ja": "休符のしかけと裏拍の着地で、グルーヴを失わずにスケールフレーズのキレを上げよう。",
+        "zh-Hans": "用突然留白和离拍落点，让你的音阶乐句更有冲击力，同时不丢 groove。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-05-17T00:07:28Z",
+    "updatedAt": "2026-05-17T00:07:28Z"
+  },
+  {
+    "id": "guitar-rhythm-lantern-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Lantern Run",
+        "pt-BR": "Corrida das Lanternas Rítmicas na Guitarra",
+        "es": "Carrera de Faroles Rítmicos en Guitarra",
+        "de": "Gitarren-Rhythmus-Laternenlauf",
+        "ja": "ギター・リズム・ランタンラン",
+        "zh-Hans": "吉他节奏灯笼冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up your phrasing with rhythm checkpoints and scale control.",
+        "pt-BR": "Ilumine seu fraseado com checkpoints rítmicos e controle de escala.",
+        "es": "Ilumina tu fraseo con puntos de control rítmicos y dominio de la escala.",
+        "de": "Erhelle deine Phrasierung mit rhythmischen Checkpoints und Skalenkontrolle.",
+        "ja": "リズムのチェックポイントでフレージングとスケール運用を明るく磨こう。",
+        "zh-Hans": "用节奏检查点点亮你的乐句与音阶控制。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-05-18T00:07:02Z",
+    "updatedAt": "2026-05-18T00:07:02Z"
+  },
+  {
+    "id": "guitar-backbeat-boomerang",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Backbeat Boomerang",
+        "pt-BR": "Bumerangue do Backbeat na Guitarra",
+        "es": "Búmeran del Backbeat en Guitarra",
+        "de": "Gitarren-Backbeat-Bumerang",
+        "ja": "ギター・バックビート・ブーメラン",
+        "zh-Hans": "吉他反拍回旋镖"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Throw scale phrases past the beat and snap them back into the groove with control.",
+        "pt-BR": "Jogue frases da escala além da batida e traga tudo de volta ao groove com controle.",
+        "es": "Lanza frases de escala más allá del pulso y hazlas volver al groove con control.",
+        "de": "Wirf Skalenphrasen hinter den Beat und hole sie kontrolliert zurück in den Groove.",
+        "ja": "スケールフレーズを拍の向こうへ投げ、コントロールしてグルーヴに戻そう。",
+        "zh-Hans": "把音阶乐句扔过拍点，再带着控制感弹回 groove。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-05-19T00:06:18Z",
+    "updatedAt": "2026-05-19T00:06:18Z"
+  },
+  {
+    "id": "guitar-beat-sling",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Beat Sling",
+        "pt-BR": "Guitar Beat Sling",
+        "es": "Guitar Beat Sling",
+        "de": "Guitar Beat Sling",
+        "ja": "Guitar Beat Sling",
+        "zh-Hans": "Guitar Beat Sling"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch short scale phrases from surprising beats without losing the groove.",
+        "pt-BR": "Lance frases curtas de escala de tempos inesperados sem perder o groove.",
+        "es": "Lanza frases cortas de escala desde tiempos inesperados sin perder el groove.",
+        "de": "Starte kurze Skalenphrasen von unerwarteten Zählzeiten, ohne den Groove zu verlieren.",
+        "ja": "意外な拍から短いスケールフレーズを飛ばし、グルーヴを失わない練習です。",
+        "zh-Hans": "从意外拍点发射短音阶乐句，同时牢牢守住 groove。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-06-03T00:07:00Z",
+    "updatedAt": "2026-06-03T00:07:00Z"
+  },
+  {
+    "id": "guitar-burst-and-brake-phrasing",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Burst-and-Brake Phrasing",
+        "pt-BR": "Fraseado de Explosão e Freio na Guitarra",
+        "es": "Fraseo de Acelerón y Freno en Guitarra",
+        "de": "Burst-und-Brems-Phrasierung für Gitarre",
+        "ja": "ギターのバースト＆ブレーキ・フレージング",
+        "zh-Hans": "吉他的爆发与刹车乐句"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use short bursts, clean rests, and rhythmic pivots to make scale phrases sound intentional and alive.",
+        "pt-BR": "Use explosões curtas, pausas limpas e pivôs rítmicos para fazer frases de escala soarem intencionais e vivas.",
+        "es": "Usa ráfagas cortas, silencios limpios y pivotes rítmicos para que las frases de escala suenen intencionales y vivas.",
+        "de": "Nutze kurze Schübe, saubere Pausen und rhythmische Drehpunkte, damit Skalenphrasen absichtlich und lebendig klingen.",
+        "ja": "短い加速、きれいな休符、リズムの軸移動を使って、音階フレーズを意図的で生きたものにする。",
+        "zh-Hans": "用短促爆发、干净休止和节奏支点变化，让音阶乐句听起来更有意图、更有生命力。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-06-05T00:07:19Z",
+    "updatedAt": "2026-06-05T00:07:19Z"
+  },
+  {
+    "id": "guitar-rhythm-switchback-radar",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Guitar Rhythm Switchback Radar\"",
+        "pt-BR": "\"Radar de Curvas Rítmicas na Guitarra\"",
+        "es": "\"Radar de Curvas Rítmicas en Guitarra\"",
+        "de": "\"Rhythmus-Kehrradar für Gitarre\"",
+        "ja": "\"ギターのリズム切り返しレーダー\"",
+        "zh-Hans": "\"吉他节奏回转雷达\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Track where your phrase bends away from the beat, then guide it back with cleaner scale timing and sharper intent.\"",
+        "pt-BR": "\"Perceba quando sua frase desvia da batida e traga tudo de volta com timing mais limpo e intenção mais forte.\"",
+        "es": "\"Detecta cuándo tu frase se desvía del pulso y guíala de vuelta con mejor timing y más intención.\"",
+        "de": "\"Höre, wann deine Phrase vom Beat abbiegt, und führe sie mit saubererem Timing und klarerer Absicht zurück.\"",
+        "ja": "\"フレーズが拍からそれる瞬間を見つけ、より正確なタイミングと意図で戻していこう。\"",
+        "zh-Hans": "\"听出乐句何时偏离拍点，再用更干净的时值和更明确的意图把它带回来。\""
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-06-08T00:07:01Z",
+    "updatedAt": "2026-06-08T00:07:01Z"
+  },
+  {
+    "id": "guitar-backbeat-treasure-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Backbeat Treasure Hunt",
+        "pt-BR": "Caça ao Tesouro do Backbeat na Guitarra",
+        "es": "Búsqueda del Tesoro del Backbeat en Guitarra",
+        "de": "Gitarren-Backbeat-Schatzsuche",
+        "ja": "ギター・バックビート宝探し",
+        "zh-Hans": "吉他反拍寻宝"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Aim scale phrases at beats 2 and 4, add silence, and build a tighter groove.",
+        "pt-BR": "Mire frases de escala nos tempos 2 e 4, use silêncio e construa um groove mais firme.",
+        "es": "Apunta frases de escala a los tiempos 2 y 4, usa silencios y construye un groove más firme.",
+        "de": "Richte Skalenphrasen auf die Zählzeiten 2 und 4, nutze Stille und baue einen festeren Groove.",
+        "ja": "スケールフレーズを2拍目と4拍目に当て、休符も使ってグルーヴを強くします。",
+        "zh-Hans": "让音阶乐句落在第2和第4拍，加入停顿，练出更稳的律动。"
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-06-12T00:07:25Z",
+    "updatedAt": "2026-06-12T00:07:25Z"
+  },
+  {
+    "id": "guitar-rhythm-mirror-dash",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Mirror Dash",
+        "pt-BR": "Corrida do Espelho Rítmico na Guitarra",
+        "es": "Carrera de Espejo Rítmico en Guitarra",
+        "de": "Gitarren-Rhythmus-Spiegelsprint",
+        "ja": "ギター・リズムミラー・ダッシュ",
+        "zh-Hans": "吉他节奏镜像冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Flip one pentatonic idea through matching rhythm mirrors and chase cleaner phrasing each round.",
+        "pt-BR": "Inverta uma ideia pentatônica com respostas espelhadas no ritmo e persiga frases cada vez mais limpas.",
+        "es": "Da la vuelta a una idea pentatónica con respuestas rítmicas en espejo y persigue frases cada vez más limpias.",
+        "de": "Spiegle eine pentatonische Idee rhythmisch und jage in jeder Runde nach klareren Phrasen.",
+        "ja": "ペンタトニックの短いアイデアをリズムで鏡写しにしながら、より整理されたフレージングを目指そう。",
+        "zh-Hans": "把一个五声音阶想法做成节奏镜像，在一轮轮追逐中把乐句练得更干净。"
+      }
+    },
+    "order": 29,
+    "createdAt": "2026-06-21T00:06:50Z",
+    "updatedAt": "2026-06-21T00:06:50Z"
+  },
+  {
+    "id": "guitar-rhythm-switchback-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Switchback Sprint",
+        "pt-BR": "Corrida de Curvas Rítmicas na Guitarra",
+        "es": "Carrera de Curvas Rítmicas en Guitarra",
+        "de": "Gitarren-Rhythmus-Kehren-Sprint",
+        "ja": "ギター・リズム切り返しスプリント",
+        "zh-Hans": "吉他节奏回转冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bend a short minor-pentatonic phrase away from the beat, then steer it back with control.",
+        "pt-BR": "Desvie uma frase pentatônica para fora da batida e traga tudo de volta com controle.",
+        "es": "Desvía una frase pentatónica fuera del pulso y tráela de vuelta con control.",
+        "de": "Lenke eine kurze Pentatonik-Phrase vom Beat weg und mit Kontrolle wieder zurück.",
+        "ja": "短いペンタトニックのフレーズを拍からずらし、コントロールして戻す練習です。",
+        "zh-Hans": "把一个短五声音阶乐句故意推离拍点，再稳稳拉回正轨。"
+      }
+    },
+    "order": 30,
+    "createdAt": "2026-06-22T00:08:01Z",
+    "updatedAt": "2026-06-22T00:08:01Z"
+  },
+  {
+    "id": "guitar-rhythm-bounce-house",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Bounce House",
+        "pt-BR": "Casa de Pulos Rítmicos na Guitarra",
+        "es": "Casa de Rebotes Rítmicos en Guitarra",
+        "de": "Gitarren-Rhythmus-Hüpfburg",
+        "ja": "ギター・リズムのバウンスハウス",
+        "zh-Hans": "吉他节奏弹跳屋"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make minor-pentatonic phrases bounce with accents, rests, and surprise landings that still feel locked in.",
+        "pt-BR": "Faça frases pentatônicas em menor pularem com acentos, pausas e pousos surpresa que continuam firmes no groove.",
+        "es": "Haz que las frases de pentatónica menor reboten con acentos, silencios y aterrizajes sorpresa que siguen dentro del groove.",
+        "de": "Lass Moll-Pentatonik-Phrasen mit Akzenten, Pausen und überraschenden Landungen federn, ohne den Groove zu verlieren.",
+        "ja": "マイナー・ペンタトニックのフレーズを、アクセント、休符、意外な着地で跳ねさせながらグルーヴを保とう。",
+        "zh-Hans": "用重音、停顿和意外落点，让小调五声音阶乐句弹起来，同时稳稳守住 groove。"
+      }
+    },
+    "order": 31,
+    "createdAt": "2026-06-29T00:08:10Z",
+    "updatedAt": "2026-06-29T00:08:10Z"
+  },
+  {
+    "id": "guitar-rhythm-checkpoint-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Checkpoint Chase",
+        "pt-BR": "Caçada de Checkpoints Rítmicos",
+        "es": "Caza de Puntos de Control Rítmicos",
+        "de": "Jagd nach Rhythmus-Checkpoints",
+        "ja": "リズム・チェックポイント・チェイス",
+        "zh-Hans": "节奏检查点追逐"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Chase clean guitar phrasing through rhythmic checkpoints, accents, and smart target-note landings.",
+        "pt-BR": "Persiga um fraseado de guitarra mais limpo com checkpoints rítmicos, acentos e chegadas inteligentes em notas-alvo.",
+        "es": "Persigue un fraseo de guitarra más limpio con checkpoints rítmicos, acentos y aterrizajes inteligentes en notas objetivo.",
+        "de": "Jage klarere Gitarrenphrasen durch rhythmische Checkpoints, Akzente und kluge Landungen auf Zieltönen.",
+        "ja": "リズムのチェックポイント、アクセント、狙った着地でギターのフレージングをもっと鋭くする。",
+        "zh-Hans": "用节奏检查点、重音变化和聪明落点，追出更干净的吉他乐句。"
+      }
+    },
+    "order": 32,
+    "createdAt": "2026-06-30T00:05:50Z",
+    "updatedAt": "2026-06-30T00:05:50Z"
+  },
+  {
+    "id": "guitar-rhythm-maze-scale-escape",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Maze Scale Escape",
+        "pt-BR": "Fuga da Escala no Labirinto Rítmico",
+        "es": "Escape de Escala en el Laberinto Rítmico",
+        "de": "Rhythmus-Labyrinth mit Skalenflucht",
+        "ja": "リズム迷路スケール脱出",
+        "zh-Hans": "节奏迷宫音阶逃脱"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate a playful rhythm maze with scale fragments, accents, and smart rests.",
+        "pt-BR": "Encare um labirinto rítmico divertido com fragmentos de escala, acentos e pausas inteligentes.",
+        "es": "Recorre un laberinto rítmico divertido con fragmentos de escala, acentos y silencios inteligentes.",
+        "de": "Spiele dich mit Skalenfragmenten, Akzenten und klugen Pausen durch ein rhythmisches Labyrinth.",
+        "ja": "スケール断片、アクセント、休符を使って楽しいリズム迷路を抜け出そう。",
+        "zh-Hans": "用音阶片段、重音和聪明的留白，闯过一个好玩的节奏迷宫。"
+      }
+    },
+    "order": 33,
+    "createdAt": "2026-07-01T00:05:57Z",
+    "updatedAt": "2026-07-01T00:05:57Z"
+  },
+  {
+    "id": "guitar-rhythm-switchblade-gauntlet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Switchblade Gauntlet",
+        "pt-BR": "Desafio Switchblade de Ritmo na Guitarra",
+        "es": "Guantelete Switchblade de Ritmo en Guitarra",
+        "de": "Rhythmus-Switchblade-Parcours für Gitarre",
+        "ja": "ギター・リズム・スイッチブレード試練",
+        "zh-Hans": "吉他节奏折刀试炼"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Cut sharper scale phrases by changing rhythm on command and landing with intent.",
+        "pt-BR": "Afie frases de escala trocando o ritmo sob comando e chegando com intenção.",
+        "es": "Afila tus frases de escala cambiando el ritmo por orden y aterrizando con intención.",
+        "de": "Schärfe deine Skalenphrasen, indem du den Rhythmus auf Kommando wechselst und gezielt landest.",
+        "ja": "リズムを切り替えながら狙って着地し、音階フレーズをもっと鋭くする。",
+        "zh-Hans": "通过按指令切换节奏并有意识地落点，让你的音阶乐句更锋利。"
+      }
+    },
+    "order": 34,
+    "createdAt": "2026-07-08T00:06:28Z",
+    "updatedAt": "2026-07-08T00:06:28Z"
+  },
+  {
+    "id": "guitar-rhythm-beacon-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Beacon Run",
+        "pt-BR": "Corrida do Farol Rítmico na Guitarra",
+        "es": "Carrera del Faro Rítmico en Guitarra",
+        "de": "Rhythmus-Leuchtfeuerlauf für Gitarre",
+        "ja": "ギター・リズム・ビーコン走",
+        "zh-Hans": "吉他节奏信标冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Guide your scale phrases through the groove with sharp rhythm signals, space, and target-note control.",
+        "pt-BR": "Guie suas frases de escala pelo groove com sinais rítmicos afiados, espaço e controle de notas-alvo.",
+        "es": "Guía tus frases de escala por el groove con señales rítmicas afiladas, espacio y control de notas objetivo.",
+        "de": "Steuere deine Skalenphrasen mit scharfen Rhythmussignalen, Raum und Zieltonkontrolle durch den Groove.",
+        "ja": "鋭いリズムの合図、間、ターゲット音のコントロールでスケールフレーズをグルーヴの中へ導こう。",
+        "zh-Hans": "用锋利的节奏信号、留白和目标音控制，把你的音阶乐句带进 groove。"
+      }
+    },
+    "order": 35,
+    "createdAt": "2026-07-09T00:06:33Z",
+    "updatedAt": "2026-07-09T00:06:33Z"
+  },
+  {
+    "id": "guitar-rhythm-smoke-signals",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Smoke Signals",
+        "pt-BR": "Sinais de Fumaça Rítmicos na Guitarra",
+        "es": "Señales de Humo Rítmicas en Guitarra",
+        "de": "Rhythmische Rauchsignale auf der Gitarre",
+        "ja": "ギターのリズム・スモークシグナル",
+        "zh-Hans": "吉他节奏烟雾信号"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Send clear rhythmic signals through a scale so every phrase lands with purpose and groove.",
+        "pt-BR": "Envie sinais rítmicos claros pela escala para que cada frase chegue com intenção e groove.",
+        "es": "Envía señales rítmicas claras a través de la escala para que cada frase llegue con intención y groove.",
+        "de": "Sende klare rhythmische Signale durch eine Skala, damit jede Phrase mit Absicht und Groove landet.",
+        "ja": "スケールの中で明確なリズム信号を送り、すべてのフレーズを意図とグルーヴ付きで着地させよう。",
+        "zh-Hans": "用清晰的节奏信号穿过音阶，让每个乐句都带着目的感和 groove 落地。"
+      }
+    },
+    "order": 36,
+    "createdAt": "2026-07-12T00:05:51Z",
+    "updatedAt": "2026-07-12T00:05:51Z"
   }
 ]

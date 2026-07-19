@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-roundabout",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine your groove is a roundabout: motion everywhere, chaos nowhere. Set a drum loop in **D major** around **82-96 BPM**. Your mission is to keep the bass line moving through small exits and re-entries while the listener always knows exactly where the center is.",
+          "pt-BR": "Imagine que seu groove é uma rotatória: movimento por todo lado, caos em lugar nenhum. Coloque um loop de bateria em **Ré maior** entre **82-96 BPM**. Sua missão é manter a linha de baixo girando por pequenas saídas e retornos enquanto o ouvinte sempre sabe exatamente onde fica o centro.",
+          "es": "Imagina que tu groove es una rotonda: movimiento por todas partes, caos en ninguna. Pon un loop de batería en **Re mayor** entre **82-96 BPM**. Tu misión es mantener la línea de bajo girando por pequeñas salidas y regresos mientras el oyente siempre sabe exactamente dónde está el centro.",
+          "de": "Stell dir deinen Groove wie einen Kreisverkehr vor: überall Bewegung, nirgendwo Chaos. Starte einen Drum-Loop in **D-Dur** bei **82-96 BPM**. Deine Aufgabe ist es, die Basslinie über kleine Ausfahrten und Wiedereinfahrten in Bewegung zu halten, während immer klar bleibt, wo das Zentrum liegt.",
+          "ja": "自分の groove をラウンドアバウトだと想像してください。動きは多くても、混乱はありません。**Dメジャー**で **82-96 BPM** のドラムループを流し、小さな出口と再合流を使いながらも、聴き手に中心がはっきり伝わるベースラインを作ります。",
+          "zh-Hans": "把你的 groove 想成一个环岛：处处都在流动，但一点也不混乱。打开一个 **D大调** 的鼓循环，速度放在 **82-96 BPM**。你的任务是在小小的岔路和回归之间维持贝斯线的运动感，同时让听众始终清楚中心拍点在哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with the center lane: build a two-bar groove using only **D, A, and octave D**. Make beat 1 feel obvious enough that someone could clap along after hearing it once. A roundabout only works if the middle is clear.",
+          "pt-BR": "Comece pela faixa central: monte um groove de dois compassos usando apenas **D, A e D oitavado**. Faça o tempo 1 soar tão claro que alguém conseguiria bater palma junto depois de ouvir uma vez. Uma rotatória só funciona quando o meio está bem definido.",
+          "es": "Empieza por el carril central: construye un groove de dos compases usando solo **D, A y D octava**. Haz que el tiempo 1 sea tan claro que alguien pueda aplaudir contigo después de oírlo una vez. Una rotonda solo funciona si el centro está claro.",
+          "de": "Beginne auf der inneren Spur: Baue einen Zwei-Takt-Groove nur mit **D, A und dem hohen D**. Zählzeit 1 soll so deutlich sein, dass jemand nach einmaligem Hören mitklatschen könnte. Ein Kreisverkehr funktioniert nur, wenn die Mitte klar ist.",
+          "ja": "まずは中央レーンから始めます。**D、A、1オクターブ上のD** だけで2小節の groove を作りましょう。1拍目は、一度聴いただけで誰かが手拍子できるくらい明確にしてください。中心が見えないラウンドアバウトは機能しません。",
+          "zh-Hans": "先走中心车道：只用 **D、A 和高八度 D** 做一个两小节 groove。让第1拍清楚到别人听一遍就能跟着拍手。环岛之所以安全，是因为中心永远明确。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add three exits: **E, F#, and B**. You may visit one exit note on a weak beat, but you must re-enter the center on the very next strong beat. If the groove feels like it drifts, your exit lasted too long.",
+          "pt-BR": "Agora adicione três saídas: **E, F# e B**. Você pode visitar uma nota de saída em um tempo fraco, mas deve voltar ao centro no próximo tempo forte. Se o groove parecer estar derivando, sua saída durou tempo demais.",
+          "es": "Ahora añade tres salidas: **E, F# y B**. Puedes visitar una nota de salida en un tiempo débil, pero debes volver al centro en el siguiente tiempo fuerte. Si el groove parece desviarse, tu salida duró demasiado.",
+          "de": "Jetzt kommen drei Ausfahrten dazu: **E, F# und B**. Du darfst einen Ausfahrtston auf einer schwachen Zählzeit besuchen, musst aber auf der nächsten starken Zählzeit wieder ins Zentrum zurück. Wenn der Groove abdriftet, war deine Ausfahrt zu lang.",
+          "ja": "次に3つの出口を足します: **E、F#、B**。弱拍で出口音に寄ってもかまいませんが、次の強拍では必ず中心に戻ります。groove が流される感じになったら、寄り道が長すぎます。",
+          "zh-Hans": "现在加入三个出口：**E、F#、B**。你可以在弱拍短暂经过一个出口音，但必须在下一个强拍重新并回中心。如果 groove 开始像在漂，你的绕行就太久了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add ghost notes like turn signals. They should hint at motion, not replace the real arrival points. Try one version with ghost notes before the root and another with ghost notes before the octave. Same road map, different traffic feel.",
+          "pt-BR": "Adicione ghost notes como setas de direção. Elas devem sugerir movimento, não substituir os pontos reais de chegada. Teste uma versão com ghost notes antes da tônica e outra antes da oitava. O mapa é o mesmo, mas o trânsito muda de cara.",
+          "es": "Añade ghost notes como intermitentes. Deben insinuar movimiento, no sustituir los puntos reales de llegada. Prueba una versión con ghost notes antes de la tónica y otra antes de la octava. El mapa es el mismo, pero la sensación del tráfico cambia.",
+          "de": "Füge Ghost Notes wie Blinker hinzu. Sie sollen Bewegung andeuten, nicht die echten Landepunkte ersetzen. Probiere eine Version mit Ghost Notes vor dem Grundton und eine weitere vor der Oktave. Gleiche Karte, anderes Verkehrsgefühl.",
+          "ja": "ゴーストノートをウインカーのように加えましょう。役目は動きをほのめかすことで、着地点そのものを置き換えることではありません。ルートの前に入れる版と、オクターブ前に入れる版を試してください。同じ地図でも交通の表情が変わります。",
+          "zh-Hans": "把幽灵音当成转向灯。它们应该提示运动方向，而不是取代真正的落点。试一个在根音前放幽灵音的版本，再试一个在八度前放幽灵音的版本。同样的路线图，会带来完全不同的“交通感”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next challenge: keep the notes mostly the same, but move the strongest accent between **beat 1**, **beat 2**, and **the & of 3**. This teaches your hands that pocket is not just about what notes you choose—it is about where the weight lives.",
+          "pt-BR": "Próximo desafio: mantenha quase as mesmas notas, mas mova o acento principal entre o **tempo 1**, o **tempo 2** e o **& do 3**. Isso ensina suas mãos que pocket não depende só das notas escolhidas, mas de onde mora o peso.",
+          "es": "Siguiente reto: mantén casi las mismas notas, pero mueve el acento principal entre el **tiempo 1**, el **tiempo 2** y el **& de 3**. Esto le enseña a tus manos que el pocket no depende solo de qué notas eliges, sino de dónde vive el peso.",
+          "de": "Nächste Herausforderung: Lass die Töne fast gleich, verschiebe aber den stärksten Akzent zwischen **Zählzeit 1**, **Zählzeit 2** und dem **& von 3**. So lernen deine Hände, dass Pocket nicht nur von den Tönen abhängt, sondern davon, wo das Gewicht sitzt.",
+          "ja": "次の課題は、音はほぼ同じまま、一番強いアクセントを **1拍目**、**2拍目**、**3拍目裏** の間で動かすことです。これで、pocket は音の選び方だけでなく、重さをどこに置くかで決まると手に覚えさせられます。",
+          "zh-Hans": "下一关：音基本不变，但把最强重音分别放到 **第1拍**、**第2拍**、和 **第3拍后半拍**。这会让你的手真正明白，pocket 不只是选什么音，更是重量落在哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final lap: make **three versions** of the groove. Version 1 is plain, Version 2 uses exits, Version 3 uses exits plus ghost notes and accent changes. If Version 3 feels flashy but less solid, demote it. The winner is the groove you would trust onstage.",
+          "pt-BR": "Volta final: faça **três versões** do groove. A Versão 1 é simples, a Versão 2 usa saídas, a Versão 3 usa saídas mais ghost notes e mudanças de acento. Se a Versão 3 soar chamativa, mas menos sólida, rebaixe sem dó. A vencedora é a que você confiaria tocar no palco.",
+          "es": "Vuelta final: crea **tres versiones** del groove. La Versión 1 es simple, la Versión 2 usa salidas, la Versión 3 usa salidas más ghost notes y cambios de acento. Si la Versión 3 suena vistosa pero menos sólida, bájala de categoría. La ganadora es la que confiarías tocar en vivo.",
+          "de": "Letzte Runde: Erstelle **drei Versionen** des Grooves. Version 1 ist schlicht, Version 2 nutzt Ausfahrten, Version 3 kombiniert Ausfahrten mit Ghost Notes und Akzentwechseln. Wenn Version 3 spektakulär, aber weniger stabil wirkt, stufe sie herunter. Gewonnen hat der Groove, dem du live vertrauen würdest.",
+          "ja": "最後の周回では groove を **3種類** 作ります。Version 1 は素朴、Version 2 は出口あり、Version 3 は出口に加えて ghost note とアクセント移動も使います。Version 3 が派手でも土台が弱いなら降格です。勝者はステージで安心して弾ける groove です。",
+          "zh-Hans": "最后一圈：做出 **3个版本**。版本1最朴素，版本2加入出口，版本3再加上幽灵音和重音切换。如果版本3听起来花哨却不够稳，那就把它降级。真正赢的是那条你敢带上台的 groove。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-10T00:08:01Z",
+  "updatedAt": "2026-06-10T00:08:01Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "bass-pocket-boomerang",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today your bass line is a boomerang. Work in **A major** over **A - D - E - A** at **80-94 BPM**. Every groove should leave home, curve through the air, and come back to the pocket like it meant to do that all along.",
+          "pt-BR": "Hoje sua linha de baixo é um bumerangue. Trabalhe em **Lá maior** sobre **A - D - E - A** a **80-94 BPM**. Cada groove deve sair de casa, fazer a curva no ar e voltar para o pocket como se esse fosse o plano desde o começo.",
+          "es": "Hoy tu línea de bajo es un bumerán. Trabaja en **La mayor** sobre **A - D - E - A** a **80-94 BPM**. Cada groove debe salir de casa, curvarse en el aire y volver al pocket como si ese hubiera sido el plan desde el inicio.",
+          "de": "Heute ist deine Basslinie ein Bumerang. Arbeite in **A-Dur** über **A - D - E - A** bei **80-94 BPM**. Jeder Groove soll sein Zuhause verlassen, einen Bogen durch die Luft ziehen und so in die Pocket zurückkehren, als wäre genau das von Anfang an geplant gewesen.",
+          "ja": "今日のベースラインはブーメランです。**Aメジャー**、進行は **A - D - E - A**、テンポは **80-94 BPM** で取り組みましょう。どのグルーヴも家を飛び出し、空中で弧を描き、最初からそう決まっていたみたいにポケットへ戻ってくる必要があります。",
+          "zh-Hans": "今天你的贝斯线是一支回旋镖。请在 **A大调** 中，配合 **A - D - E - A** 的进行，以 **80-94 BPM** 练习。每条律动都要先离开“家”，在空中画出弧线，再像早就计划好的一样回到 pocket。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set the boomerang rules:\n- beat **1** must clearly state the current root\n- each bar must include one note that moves **upward by step**\n- each bar must include one note that returns with a stronger landing\n- leave at least one small space of silence per bar\n\nLoop two bars until the pulse feels steady and relaxed.",
+          "pt-BR": "Defina as regras do bumerangue:\n- o tempo **1** deve afirmar claramente a tônica do acorde\n- cada compasso deve incluir uma nota que suba **por grau conjunto**\n- cada compasso deve incluir uma nota que volte com uma chegada mais forte\n- deixe pelo menos um pequeno espaço de silêncio em cada compasso\n\nFaça um loop de 2 compassos até o pulso ficar firme e relaxado.",
+          "es": "Define las reglas del bumerán:\n- el tiempo **1** debe marcar claramente la tónica actual\n- cada compás debe incluir una nota que suba **por grado conjunto**\n- cada compás debe incluir una nota que vuelva con una llegada más fuerte\n- deja al menos un pequeño espacio de silencio por compás\n\nHaz un loop de 2 compases hasta que el pulso se sienta estable y relajado.",
+          "de": "Lege die Bumerang-Regeln fest:\n- Schlag **1** muss die aktuelle Tonika klar zeigen\n- jeder Takt muss einen Ton enthalten, der sich **schrittweise nach oben** bewegt\n- jeder Takt muss einen Ton enthalten, der mit stärkerer Landung zurückkehrt\n- lass pro Takt mindestens einen kleinen Moment Stille\n\nSchleife zwei Takte, bis sich der Puls stabil und entspannt anfühlt.",
+          "ja": "ブーメランのルールを決めます。\n- **1拍目** では今のルートをはっきり示す\n- 各小節に **順次上行** する音を1つ入れる\n- 各小節に、より強い着地で戻る音を1つ入れる\n- 各小節に少なくとも1回、小さな無音を入れる\n\n2小節をループして、脈が安定して落ち着くまで続けましょう。",
+          "zh-Hans": "先定下回旋镖规则：\n- **第1拍** 必须清楚点出当前根音\n- 每小节都要有一个 **级进上行** 的音\n- 每小节都要有一个更有分量的回归落点\n- 每小节至少留一个小小的空白\n\n把2小节循环起来，直到脉冲感稳定又放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **throw**. Build 1-bar grooves that start simple, then travel away from the root using **2 or 3 scale notes**. If the line starts sounding busy instead of deep, remove a note and make the rhythm clearer.",
+          "pt-BR": "A Rodada 1 é o **arremesso**. Monte grooves de 1 compasso que começam simples e depois se afastam da tônica usando **2 ou 3 notas da escala**. Se a linha começar a soar ocupada em vez de profunda, tire uma nota e deixe o ritmo mais claro.",
+          "es": "La Ronda 1 es el **lanzamiento**. Construye grooves de 1 compás que empiezan simples y luego se alejan de la tónica usando **2 o 3 notas de la escala**. Si la línea empieza a sonar ocupada en lugar de profunda, quita una nota y aclara el ritmo.",
+          "de": "Runde 1 ist der **Wurf**. Baue 1-taktige Grooves, die einfach beginnen und sich dann mit **2 oder 3 Tonleitertönen** von der Tonika entfernen. Wenn die Linie hektisch statt tief klingt, nimm einen Ton weg und mach den Rhythmus klarer.",
+          "ja": "ラウンド1は **投げる** ラウンドです。まずはシンプルに始め、そこから **2〜3個のスケール音** を使ってルートから離れる1小節グルーヴを作ってください。ラインが深くなく忙しく聞こえたら、音を1つ減らしてリズムを明確にしましょう。",
+          "zh-Hans": "第1轮是 **投掷**。做1小节律动：先从简单开始，再用 **2到3个音阶音** 离开根音。如果线条开始显得忙乱而不是厚实，就删掉一个音，让节奏更清楚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **curve**. Now place the farthest note on **\"and\" of 2** or **beat 4**. That note should create motion, not panic. Think of it as the highest point of the boomerang before it bends back.",
+          "pt-BR": "A Rodada 2 é a **curva**. Agora coloque a nota mais distante no **\"e\" do tempo 2** ou no **tempo 4**. Essa nota deve criar movimento, não pânico. Pense nela como o ponto mais alto do bumerangue antes de ele dobrar o caminho de volta.",
+          "es": "La Ronda 2 es la **curva**. Ahora coloca la nota más lejana en el **\"y\" de 2** o en el **tiempo 4**. Esa nota debe crear movimiento, no pánico. Piensa en ella como el punto más alto del bumerán antes de doblar de regreso.",
+          "de": "Runde 2 ist die **Kurve**. Setze jetzt den entferntesten Ton auf die **\"und\" von 2** oder auf **Schlag 4**. Dieser Ton soll Bewegung erzeugen, nicht Panik. Denk an ihn als den höchsten Punkt des Bumerangs, bevor er wieder zurückbiegt.",
+          "ja": "ラウンド2は **弧を描く** ラウンドです。いちばん遠い音を **2拍目ウラ** か **4拍目** に置きます。その音はパニックではなく推進力を生むべきです。戻る前のブーメランの頂点だと考えてください。",
+          "zh-Hans": "第2轮是 **弧线**。把离得最远的那个音放在 **第2拍后半拍** 或 **第4拍**。这个音要制造推进，而不是慌张。把它想成回旋镖折返前的最高点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **return hit**. Bring the line back with one of these tools:\n- a longer note value\n- a ghost note before the landing\n- a stronger pluck on the return note\n\nThe return should feel satisfying enough that you could loop it for a minute.",
+          "pt-BR": "A Rodada 3 é o **impacto da volta**. Traga a linha de volta com uma destas ferramentas:\n- um valor de nota mais longo\n- uma ghost note antes da chegada\n- uma puxada mais forte na nota de retorno\n\nA volta deve ser tão satisfatória que você poderia repetir o groove por um minuto.",
+          "es": "La Ronda 3 es el **golpe de regreso**. Haz volver la línea con una de estas herramientas:\n- una figura de mayor duración\n- una ghost note antes de la llegada\n- un ataque más fuerte en la nota de regreso\n\nEl regreso debe sentirse tan satisfactorio que podrías repetirlo durante un minuto.",
+          "de": "Runde 3 ist der **Rückkehr-Treffer**. Bring die Linie mit einem dieser Werkzeuge zurück:\n- ein längerer Notenwert\n- eine Ghost Note vor der Landung\n- ein kräftigerer Anschlag auf dem Rückkehrton\n\nDie Rückkehr soll so befriedigend klingen, dass du sie eine Minute lang loopen könntest.",
+          "ja": "ラウンド3は **戻りの着地** ラウンドです。次のどれかを使ってラインを戻します。\n- 長めの音価\n- 着地前のゴーストノート\n- 戻りの音で少し強いプラック\n\n着地は、1分間ループしても気持ちいいくらい満足感があるべきです。",
+          "zh-Hans": "第3轮是 **回归重击**。用下面任一种方式把线条带回来：\n- 更长的音值\n- 落点前的一个 ghost note\n- 回归音上更有力的一次拨弦\n\n这个回归要足够过瘾，让你愿意循环一分钟。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: record **four passes** through the progression. In each pass, keep the same basic pulse but change where the throw, curve, and return happen. Your mission is variety without losing the pocket.",
+          "pt-BR": "Rodada chefão: grave **quatro voltas** na progressão. Em cada volta, mantenha o mesmo pulso básico, mas mude onde acontecem o arremesso, a curva e a volta. Sua missão é criar variedade sem perder o pocket.",
+          "es": "Ronda jefe: graba **cuatro vueltas** de la progresión. En cada vuelta, mantén el mismo pulso básico, pero cambia dónde ocurren el lanzamiento, la curva y el regreso. Tu misión es lograr variedad sin perder el pocket.",
+          "de": "Boss-Runde: Nimm **vier Durchgänge** über die Akkordfolge auf. Behalte in jedem Durchgang denselben Grundpuls, aber verändere, wo Wurf, Kurve und Rückkehr passieren. Deine Mission ist Abwechslung ohne Verlust der Pocket.",
+          "ja": "ボスラウンド: 進行を **4周録音** しましょう。各周回で基本の脈は同じままにして、投げる場所、弧の頂点、戻る場所だけ変えてください。目標はポケットを失わずに変化を作ることです。",
+          "zh-Hans": "Boss轮：把整个进行 **录4遍**。每一遍都保持同样的基础脉冲，但改变投掷、弧线和回归出现的位置。你的任务是在不丢掉 pocket 的前提下做出变化。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Check yourself:\n- Which return note made the groove feel heaviest?\n- Did my silence help the groove breathe?\n- Where did the line become too clever for its own good?\n\nFinal upgrade: move the whole boomerang game to **C major** and keep the same groove logic. If it still lands cleanly, your pocket is strong. 🎸",
+          "pt-BR": "Confira:\n- Qual nota de retorno deixou o groove mais pesado?\n- Meu silêncio ajudou o groove a respirar?\n- Em que ponto a linha ficou esperta demais para o próprio bem?\n\nDesafio final: leve todo o jogo do bumerangue para **Dó maior** e mantenha a mesma lógica de groove. Se ele continuar aterrissando limpo, seu pocket está forte. 🎸",
+          "es": "Revísate:\n- ¿Qué nota de regreso hizo que el groove pesara más?\n- ¿Mi silencio ayudó al groove a respirar?\n- ¿En qué momento la línea se volvió demasiado lista para su propio bien?\n\nMejora final: mueve todo el juego del bumerán a **Do mayor** y conserva la misma lógica de groove. Si sigue aterrizando limpio, tu pocket está fuerte. 🎸",
+          "de": "Prüfe dich:\n- Welcher Rückkehrton machte den Groove am schwersten?\n- Half die Stille dem Groove beim Atmen?\n- Wo wurde die Linie zu clever für ihr eigenes Wohl?\n\nLetztes Upgrade: Verschiebe das ganze Bumerang-Spiel nach **C-Dur** und behalte dieselbe Groove-Logik. Wenn es immer noch sauber landet, ist deine Pocket stark. 🎸",
+          "ja": "確認しましょう:\n- どの戻りの音がいちばん重いグルーヴになりましたか？\n- 無音はグルーヴに呼吸を与えましたか？\n- どこでラインが必要以上に賢くなりすぎましたか？\n\n最後のアップグレード: 同じグルーヴの考え方のまま、全体を **Cメジャー** に移してみましょう。きれいに戻ってこられたら、あなたのポケットは強いです。🎸",
+          "zh-Hans": "检查一下：\n- 哪个回归音让律动最有重量？\n- 我的空白有没有帮律动呼吸？\n- 线条在哪一刻变得聪明过头了？\n\n最终升级：把整个回旋镖游戏移到 **C大调**，并保持同样的律动逻辑。如果它依然落点干净，你的 pocket 就很扎实了。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-10T00:07:56Z",
+  "updatedAt": "2026-05-10T00:07:56Z"
+}

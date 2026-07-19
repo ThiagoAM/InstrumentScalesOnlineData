@@ -110,5 +110,89 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "bass-passing-lane-walking-lines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Passing-Lane Walking Lines",
+        "pt-BR": "Linhas de Walking com Faixa de Passagem",
+        "es": "Líneas Walking con Carril de Paso",
+        "de": "Walking-Lines mit Überholspur",
+        "ja": "追い越し車線のウォーキングライン",
+        "zh-Hans": "超车道 Walking Bass 线条"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build steadier walking bass by aiming chord tones and sneaking in tasteful passing notes.",
+        "pt-BR": "Construa walking bass mais firme mirando notas do acorde e encaixando notas de passagem com bom gosto.",
+        "es": "Crea walking bass más firme apuntando a notas del acorde y usando notas de paso con buen gusto.",
+        "de": "Baue stabilere Walking-Bass-Lines mit klaren Zieltönen und geschmackvollen Durchgangsnoten.",
+        "ja": "コードトーンを狙い、味のある経過音を入れて、より安定したウォーキングベースを作ろう。",
+        "zh-Hans": "瞄准和弦音，再偷偷放入有品味的经过音，做出更稳的 walking bass。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-01T00:07:38Z",
+    "updatedAt": "2026-07-01T00:07:38Z"
+  },
+  {
+    "id": "bass-approach-note-alley",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Approach-Note Alley",
+        "pt-BR": "Corredor das Notas de Aproximação no Baixo",
+        "es": "Callejón de Notas de Aproximación para Bajo",
+        "de": "Bass Approach-Note Alley",
+        "ja": "ベース・アプローチノート・アレー",
+        "zh-Hans": "贝斯逼近音小巷"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build tougher walking lines by sneaking into chord tones with timing, taste, and zero panic.",
+        "pt-BR": "Construa walking lines mais fortes entrando nos tons do acorde com tempo, bom gosto e zero pânico.",
+        "es": "Construye walking lines más sólidas entrando a los tonos del acorde con tiempo, gusto y cero pánico.",
+        "de": "Baue stärkere Walking-Lines, indem du mit Timing, Geschmack und ohne Panik in Akkordtöne hineinsteuerst.",
+        "ja": "タイム感とセンスを保ったまま、慌てずにコードトーンへ滑り込む強いウォーキングラインを作ろう。",
+        "zh-Hans": "用节奏感、品味和零慌张感，把更扎实的 walking line 带进和弦音里。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-07-17T00:10:19Z",
+    "updatedAt": "2026-07-17T00:10:19Z"
+  },
+  {
+    "id": "bass-guide-tone-crosswalk",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Guide-Tone Crosswalk",
+        "pt-BR": "Faixa de Pedestres dos Guide Tones no Baixo",
+        "es": "Paso Peatonal de Guide Tones para Bajo",
+        "de": "Bass Guide-Tone Crosswalk",
+        "ja": "ベース・ガイドトーン・クロスウォーク",
+        "zh-Hans": "贝斯导音斑马线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build walking lines that cross cleanly into each new chord using strong guide-tone landings.",
+        "pt-BR": "Construa linhas caminhantes que atravessem cada acorde novo com aterrissagens fortes em guide tones.",
+        "es": "Construye líneas caminantes que crucen cada acorde nuevo con aterrizajes fuertes en guide tones.",
+        "de": "Baue Walking-Lines, die mit starken Guide-Tone-Landungen sauber in jeden neuen Akkord führen.",
+        "ja": "強いガイドトーン着地で、新しいコードへきれいに渡るウォーキングラインを作ろう。",
+        "zh-Hans": "用扎实的导音落点，让你的 walking line 干净地跨进每一个新和弦。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-07-18T00:08:24Z",
+    "updatedAt": "2026-07-18T00:08:24Z"
   }
 ]

@@ -1,0 +1,60 @@
+{
+  "id": "guitar-rhythm-switchback-sprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start a groove in **E minor** and grab a tiny two-beat idea from the E minor pentatonic scale around 12th position. Play the phrase once on the beat, then play it again with the same notes but start it **one eighth-note later**. The challenge is not speed; it is making the delayed version still sound confident.",
+          "pt-BR": "Ligue um groove em **Mi menor** e pegue uma ideia curtinha de dois tempos com a pentatônica menor de Mi perto da 12ª casa. Toque a frase uma vez no tempo e depois repita as mesmas notas começando **uma colcheia depois**. O desafio não é velocidade; é fazer a versão atrasada soar confiante.",
+          "es": "Pon un groove en **Mi menor** y toma una idea pequeña de dos pulsos de la pentatónica menor de Mi cerca del traste 12. Toca la frase una vez en el pulso y luego repite las mismas notas empezando **una corchea después**. El reto no es la velocidad; es hacer que la versión retrasada siga sonando segura.",
+          "de": "Starte einen Groove in **E-Moll** und nimm eine kleine Zwei-Zählzeiten-Idee aus der E-Moll-Pentatonik um die 12. Lage. Spiele die Phrase einmal direkt auf dem Beat und dann noch einmal mit denselben Tönen, aber **eine Achtelnote später**. Das Ziel ist nicht Tempo, sondern dass die verspätete Version trotzdem sicher klingt.",
+          "ja": "**Eマイナー**のグルーヴを流し、12フレット付近のEマイナー・ペンタトニックから2拍ぶんの短いアイデアを作ります。まず拍の上で1回弾き、そのあと同じ音を**8分音符ひとつ遅らせて**もう一度弾きます。速さではなく、遅らせても自信を失わないことが課題です。",
+          "zh-Hans": "打开**E小调**律动，在12品附近用E小调五声音阶设计一个两拍长的小想法。先按正拍弹一次，再用完全相同的音把它**延后一颗八分音符**再弹一次。重点不是快，而是让延后的版本依然听起来很笃定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a landing rule. Version A must end on **E or G**. Version B, the delayed one, must end on **B**. That simple target-note switch keeps the exercise musical and stops it from becoming random scale traffic. If the second ending sounds weak, sing the B before you play it.",
+          "pt-BR": "Agora adicione uma regra de chegada. A versão A precisa terminar em **Mi ou Sol**. A versão B, atrasada, precisa terminar em **Si**. Essa troca simples de nota-alvo mantém o exercício musical e evita que ele vire trânsito aleatório de escala. Se a segunda chegada soar fraca, cante o Si antes de tocar.",
+          "es": "Ahora añade una regla de llegada. La versión A debe terminar en **Mi o Sol**. La versión B, retrasada, debe terminar en **Si**. Ese cambio sencillo de nota objetivo mantiene el ejercicio musical y evita que se vuelva tráfico aleatorio de escala. Si la segunda llegada suena débil, canta el Si antes de tocarlo.",
+          "de": "Jetzt kommt eine Landeregel dazu. Version A muss auf **E oder G** enden. Version B, die verspätete, muss auf **H** landen. Dieser einfache Wechsel des Zieltons hält die Übung musikalisch und verhindert zufälligen Skalenverkehr. Wenn die zweite Landung schwach klingt, sing zuerst das H.",
+          "ja": "次に着地ルールを加えます。バージョンAは**EかG**で終えること。遅らせたバージョンBは**B**で終えること。これだけで練習が指のランダム運動ではなく、ちゃんと音楽になります。2回目の着地が弱いなら、弾く前にBを歌ってください。",
+          "zh-Hans": "现在加入落点规则。版本A必须落在**E或G**上，延后的版本B必须落在**B**上。这个简单的目标音切换会让练习保持音乐性，不会变成随机跑音阶。如果第二次落点发虚，先把B唱出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, make the phrase travel. On every delayed answer, shift to a nearby pentatonic box with **one smooth slide** and no extra notes. The rhythm has to stay clean while the left hand moves. Think of it like taking the same sentence through a hairpin turn without dropping any words.",
+          "pt-BR": "Em seguida, faça a frase viajar. Em cada resposta atrasada, mude para um box pentatônico vizinho com **um slide suave** e sem notas extras. O ritmo precisa continuar limpo enquanto a mão esquerda se move. Pense nisso como levar a mesma frase por uma curva fechada sem deixar nenhuma palavra cair.",
+          "es": "Después haz que la frase viaje. En cada respuesta retrasada, cambia a una caja pentatónica vecina con **un slide suave** y sin notas extra. El ritmo debe seguir limpio mientras se mueve la mano izquierda. Piensa en ello como llevar la misma frase por una curva cerrada sin perder ninguna palabra.",
+          "de": "Jetzt soll die Phrase wandern. Bei jeder verspäteten Antwort wechselst du mit **einem weichen Slide** in eine benachbarte Pentatonik-Box und spielst keine Extratöne. Der Rhythmus muss sauber bleiben, während sich die linke Hand bewegt. Stell dir vor, du bringst denselben Satz durch eine enge Kurve, ohne ein Wort zu verlieren.",
+          "ja": "次はフレーズを移動させます。遅らせた返答では毎回、近くの別のペンタトニック・ボックスへ**なめらかなスライド1回だけ**で移動し、余計な音は足しません。左手が動いてもリズムはきれいなまま。急カーブを曲がっても同じセリフを落とさない感覚です。",
+          "zh-Hans": "接着让乐句移动起来。每次延后回答时，只能用**一次顺滑滑音**切到旁边的五声音阶把位，而且不能多加音。左手移动时节奏仍要干净。把它想成同一句话穿过一个发卡弯，却一个字都没掉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final sprint: improvise for one minute with three rules — every idea gets a delayed answer, every fourth bar includes **half a beat of silence**, and at least twice you must end with a long bend or vibrato note instead of another run. Listen back and ask: did your phrasing sound more dramatic, or just more late?",
+          "pt-BR": "Sprint final: improvise por um minuto com três regras — toda ideia recebe uma resposta atrasada, a cada quatro compassos entra **meio tempo de silêncio**, e pelo menos duas vezes você deve terminar com um bend longo ou vibrato em vez de mais uma corrida. Ouça de volta e pergunte: seu fraseado ficou mais dramático ou só mais atrasado?",
+          "es": "Sprint final: improvisa durante un minuto con tres reglas: cada idea recibe una respuesta retrasada, cada cuarto compás incluye **medio pulso de silencio**, y al menos dos veces debes terminar con un bend largo o vibrato en lugar de otra carrera. Escúchate y pregunta: ¿tu fraseo sonó más dramático o solo más tarde?",
+          "de": "Finaler Sprint: Improvisiere eine Minute lang mit drei Regeln — jede Idee bekommt eine verspätete Antwort, in jedem vierten Takt gibt es **eine halbe Zählzeit Stille**, und mindestens zweimal endest du mit einem langen Bend oder Vibrato statt mit noch einem Lauf. Hör dir das Ergebnis an und frage dich: Klang dein Phrasing dramatischer oder nur später?",
+          "ja": "最後のスプリントです。1分間の即興で、すべてのアイデアに遅らせた返答を付けること、4小節ごとに**半拍ぶんの休み**を入れること、そして少なくとも2回はランではなく長いチョーキングかビブラートで終えること。録音を聴き返して、フレージングはドラマチックになったのか、それともただ遅れただけかを確かめましょう。",
+          "zh-Hans": "最终冲刺：即兴一分钟，遵守三条规则——每个想法都要有一个延后回答；每四小节加入**半拍静默**；至少两次要用长推弦或颤音收尾，而不是再来一串跑句。回听时问自己：你的乐句更有戏剧张力了，还是只是更晚落下而已？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-22T00:08:01Z",
+  "updatedAt": "2026-06-22T00:08:01Z"
+}

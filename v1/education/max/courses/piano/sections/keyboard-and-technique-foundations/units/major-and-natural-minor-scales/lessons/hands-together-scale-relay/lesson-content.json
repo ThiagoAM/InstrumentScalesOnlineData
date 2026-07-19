@@ -1,0 +1,73 @@
+{
+  "id": "hands-together-scale-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: Play C major hands together with standard fingering (RH: 1-2-3-1-2-3-4-5, LH: 5-4-3-2-1-3-2-1). Go slow and even.",
+          "pt-BR": "Preparação: Toque Dó maior com as duas mãos usando a digitação padrão (MD: 1-2-3-1-2-3-4-5, ME: 5-4-3-2-1-3-2-1). Vá lento e uniforme.",
+          "es": "Preparación: Toca Do mayor con manos juntas usando digitación estándar (MD: 1-2-3-1-2-3-4-5, MI: 5-4-3-2-1-3-2-1). Ve lento y parejo.",
+          "de": "Setup: Spiele C-Dur mit beiden Händen in Standard-Fingersatz (RH: 1-2-3-1-2-3-4-5, LH: 5-4-3-2-1-3-2-1). Langsam und gleichmäßig.",
+          "ja": "準備：Cメジャーを両手で標準の指使いで弾く（RH: 1-2-3-1-2-3-4-5、LH: 5-4-3-2-1-3-2-1）。ゆっくり均等に。",
+          "zh-Hans": "准备：用标准指法双手弹C大调（右手：1-2-3-1-2-3-4-5，左手：5-4-3-2-1-3-2-1）。慢速且均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm ladder: Repeat the scale as quarters, then eighths, then triplets, then sixteenths. Keep the sound relaxed.",
+          "pt-BR": "Escada rítmica: Repita a escala em semínimas, depois colcheias, depois tercinas e depois semicolcheias. Mantenha o som relaxado.",
+          "es": "Escalera rítmica: Repite la escala en negras, luego corcheas, luego tresillos y luego semicorcheas. Mantén el sonido relajado.",
+          "de": "Rhythmusleiter: Wiederhole die Tonleiter als Viertel, dann Achtel, dann Triolen, dann Sechzehntel. Locker bleiben.",
+          "ja": "リズムのはしご：4分音符、8分音符、三連符、16分音符の順でスケールを繰り返す。力を抜いて。",
+          "zh-Hans": "节奏阶梯：按四分、八分、三连音、十六分依次重复音阶。保持放松的音色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Contrary motion: Start both thumbs on middle C, move outward to one octave, then return inward. Keep the same rhythm in both hands.",
+          "pt-BR": "Movimento contrário: Comece com os polegares no Dó central, vá para fora até uma oitava e volte. Mantenha o mesmo ritmo nas duas mãos.",
+          "es": "Movimiento contrario: Empieza con los pulgares en el Do central, abre hasta una octava y vuelve. Mantén el mismo ritmo en ambas manos.",
+          "de": "Gegenläufig: Starte mit beiden Daumen auf dem mittleren C, bewege dich nach außen bis zur Oktave und zurück. Gleicher Rhythmus in beiden Händen.",
+          "ja": "反行：両手の親指を中央のCに置き、外側へ1オクターブ進んで戻る。両手とも同じリズム。",
+          "zh-Hans": "反向进行：双手拇指从中央C开始向外到一八度，再回到中央。两手节奏一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Progression link: Over a simple I–IV–V–I in C, play 4-note scale fragments (C-D-E-F, F-G-A-B, G-A-B-C, C-B-A-G).",
+          "pt-BR": "Ligação com progressão: Sobre um I–IV–V–I em Dó, toque fragmentos de 4 notas (Dó-Ré-Mi-Fá, Fá-Sol-Lá-Si, Sol-Lá-Si-Dó, Dó-Si-Lá-Sol).",
+          "es": "Conexión con progresión: Sobre un I–IV–V–I en Do, toca fragmentos de 4 notas (Do-Re-Mi-Fa, Fa-Sol-La-Si, Sol-La-Si-Do, Do-Si-La-Sol).",
+          "de": "Progressions-Link: Über eine einfache I–IV–V–I in C spiele 4-Noten-Fragmente (C-D-E-F, F-G-A-B, G-A-B-C, C-B-A-G).",
+          "ja": "進行に接続：CのI–IV–V–Iの上で4音フラグメントを弾く（C-D-E-F、F-G-A-B、G-A-B-C、C-B-A-G）。",
+          "zh-Hans": "连接和声：在C调的 I–IV–V–I 上演奏4音片段（C-D-E-F，F-G-A-B，G-A-B-C，C-B-A-G）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: Run the relay in five keys (C, G, F, D, A) without stopping. If you stumble, slow down but keep going.",
+          "pt-BR": "Desafio: Faça o revezamento em cinco tonalidades (Dó, Sol, Fá, Ré, Lá) sem parar. Se tropeçar, diminua o tempo, mas continue.",
+          "es": "Desafío: Haz el relevo en cinco tonalidades (Do, Sol, Fa, Re, La) sin parar. Si te trabas, baja el tempo pero continúa.",
+          "de": "Challenge: Spiele die Staffel in fünf Tonarten (C, G, F, D, A) ohne Stoppen. Wenn du stolperst, werde langsamer, aber bleib dran.",
+          "ja": "チャレンジ：5つの調（C、G、F、D、A）でリレーを止めずに行う。つまずいたらテンポを落として続ける。",
+          "zh-Hans": "挑战：在五个调（C、G、F、D、A）连续接力不中断。失误就放慢，但不要停。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-16T00:08:08Z",
+  "updatedAt": "2026-03-16T00:08:08Z"
+}

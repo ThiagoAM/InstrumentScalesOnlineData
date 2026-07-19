@@ -1,0 +1,86 @@
+{
+  "id": "g-major-box-shift-game",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Tune up, set a relaxed groove, and treat every G as a checkpoint. You’ll play the G major scale in two neighboring boxes and shift on purpose.",
+          "pt-BR": "Afine, coloque um groove tranquilo e trate cada Sol como um checkpoint. Você vai tocar a escala de Sol maior em dois boxes vizinhos e trocar de posição de propósito.",
+          "es": "Afina, pon un groove relajado y trata cada Sol como un checkpoint. Tocarás la escala de Sol mayor en dos cajas vecinas y harás los cambios a propósito.",
+          "de": "Stimme dein Instrument, lege einen entspannten Groove fest und behandle jedes G als Checkpoint. Du spielst die G-Dur-Tonleiter in zwei benachbarten Boxen und wechselst bewusst.",
+          "ja": "チューニングしてゆったりしたグルーヴを作り、Gの音をチェックポイントにしよう。Gメジャースケールを隣り合う2つのボックスで弾き、意図的にシフトする。",
+          "zh-Hans": "调好音色，设定轻松的律动，把每个G当作检查点。你会在相邻的两个盒型中演奏G大调音阶，并有意识地换把。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: find G on the 3rd fret of the low E string and G on the 5th fret of the D string. Play one octave up and back, saying the note names out loud.",
+          "pt-BR": "Aquecimento: encontre o Sol na 3ª casa da corda Mi grave e o Sol na 5ª casa da corda Ré. Toque uma oitava subindo e descendo, dizendo os nomes das notas em voz alta.",
+          "es": "Calentamiento: encuentra el Sol en el traste 3 de la cuerda Mi grave y el Sol en el traste 5 de la cuerda Re. Toca una octava arriba y abajo diciendo los nombres de las notas en voz alta.",
+          "de": "Aufwärmen: Finde G im 3. Bund der tiefen E-Saite und G im 5. Bund der D-Saite. Spiele eine Oktave auf und ab und sprich die Notennamen laut.",
+          "ja": "ウォームアップ：低いE弦3フレットのGと、D弦5フレットのGを探す。1オクターブ上がって戻り、音名を声に出す。",
+          "zh-Hans": "热身：找到低音E弦第3品的G，以及D弦第5品的G。上下走一组八度，并大声说出音名。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shift drill: play three notes in position 1, then slide to position 2 on beat 4. Pattern: G–A–B | slide to C–D–E | F#–G. Metronome 70 bpm.",
+          "pt-BR": "Exercício de troca: toque três notas na posição 1 e deslize para a posição 2 no tempo 4. Padrão: Sol–Lá–Si | deslize para Dó–Ré–Mi | Fá#–Sol. Metrônomo 70 bpm.",
+          "es": "Ejercicio de cambio: toca tres notas en la posición 1 y desliza a la posición 2 en el tiempo 4. Patrón: Sol–La–Si | desliza a Do–Re–Mi | Fa#–Sol. Metrónomo 70 bpm.",
+          "de": "Wechsel-Drill: Spiele drei Noten in Position 1 und rutsche in Zählzeit 4 in Position 2. Muster: G–A–H | rutsche zu C–D–E | F#–G. Metronom 70 bpm.",
+          "ja": "シフト練習：ポジション1で3音弾き、4拍目でポジション2へスライド。パターン：G–A–B | C–D–Eへスライド | F#–G。メトロノーム70 bpm。",
+          "zh-Hans": "换把练习：在位置1弹三音，第4拍滑到位置2。模式：G–A–B | 滑到C–D–E | F#–G。节拍器70 bpm。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rhythm game: use this rhythm for each three-note group: quarter, quarter, two eighths, rest. Keep the slide on the rest and add light palm mute.",
+          "pt-BR": "Jogo rítmico: use este ritmo para cada grupo de três notas: semínima, semínima, duas colcheias, pausa. Faça o slide na pausa e adicione palm mute leve.",
+          "es": "Juego rítmico: usa este ritmo para cada grupo de tres notas: negra, negra, dos corcheas, silencio. Mantén el deslizamiento en el silencio y añade palm mute suave.",
+          "de": "Rhythmus-Spiel: Verwende diesen Rhythmus für jede Dreiergruppe: Viertel, Viertel, zwei Achtel, Pause. Lege den Slide in die Pause und dämpfe leicht mit der Handfläche.",
+          "ja": "リズムゲーム：各3音グループで「四分、四分、八分2つ、休符」。スライドは休符に置き、軽いパームミュートを加える。",
+          "zh-Hans": "节奏游戏：每组三音用“四分、四分、两个八分、休止”。把滑音放在休止上，并加轻微掌根闷音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative round: improvise 2 bars. Bar 1 only in position 1 around the G anchor. Bar 2 only in position 2. Repeat and change rhythms.",
+          "pt-BR": "Rodada criativa: improvise 2 compassos. Compasso 1 apenas na posição 1 em torno da âncora Sol. Compasso 2 apenas na posição 2. Repita e mude os ritmos.",
+          "es": "Ronda creativa: improvisa 2 compases. Compás 1 solo en la posición 1 alrededor del ancla Sol. Compás 2 solo en la posición 2. Repite y cambia los ritmos.",
+          "de": "Kreative Runde: Improvisiere 2 Takte. Takt 1 nur in Position 1 um den G-Anker. Takt 2 nur in Position 2. Wiederhole und variiere die Rhythmen.",
+          "ja": "クリエイティブ：2小節即興。1小節目はポジション1でGアンカー周辺のみ。2小節目はポジション2のみ。繰り返してリズムを変える。",
+          "zh-Hans": "创意回合：即兴2小节。第1小节只在位置1、围绕G锚点；第2小节只在位置2。重复并改变节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: aim for clean shifts and consistent time. If you stumble, drop 5 bpm, nail it twice, then raise 3 bpm.",
+          "pt-BR": "Checkpoint: busque trocas limpas e tempo consistente. Se tropeçar, diminua 5 bpm, acerte duas vezes, depois suba 3 bpm.",
+          "es": "Checkpoint: busca cambios limpios y tiempo consistente. Si fallas, baja 5 bpm, acierta dos veces y luego sube 3 bpm.",
+          "de": "Checkpoint: Ziel sind saubere Wechsel und konstantes Timing. Wenn du stolperst, senke 5 bpm, triff es zweimal, dann erhöhe um 3 bpm.",
+          "ja": "チェックポイント：シフトをきれいに、タイムを安定させる。失敗したら5 bpm下げ、2回成功してから3 bpm上げよう。",
+          "zh-Hans": "检查点：目标是换把干净、节奏稳定。若失误，降5 bpm，成功两次后再升3 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-06T00:05:44Z",
+  "updatedAt": "2026-04-06T00:05:44Z"
+}

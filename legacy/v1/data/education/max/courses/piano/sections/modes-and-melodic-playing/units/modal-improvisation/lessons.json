@@ -82,5 +82,61 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "dorian-color-shifts",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dorian Color Shifts",
+        "pt-BR": "Mudanças de Cor Dórica",
+        "es": "Cambios de Color Dórico",
+        "de": "Dorische Farbwechsel",
+        "ja": "ドリアンの色彩シフト",
+        "zh-Hans": "多利亚色彩变化"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use the Dorian 6th to brighten minor grooves.",
+        "pt-BR": "Use a sexta dórica para clarear grooves menores.",
+        "es": "Usa la sexta dórica para iluminar grooves menores.",
+        "de": "Nutze die dorische Sexte, um Moll‑Grooves aufzuhellen.",
+        "ja": "ドリアンの6度でマイナー・グルーヴを明るくする。",
+        "zh-Hans": "用多利亚的6度点亮小调律动。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-27T00:09:44Z",
+    "updatedAt": "2026-03-27T00:09:44Z"
+  },
+  {
+    "id": "lydian-spark-over-major-7-vamps",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Lydian Spark over Major 7 Vamps",
+        "pt-BR": "Brilho lídio sobre vamps com maj7",
+        "es": "Chispa lidia sobre vamps con maj7",
+        "de": "Lydischer Glanz über Major-7-Vamps",
+        "ja": "Major 7 ヴァンプ上のリディアンの輝き",
+        "zh-Hans": "在 Major 7 vamp 上点亮利底亚色彩"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bring out the bright #4 of Lydian while keeping your piano phrases relaxed and singable.",
+        "pt-BR": "Faça a #4 do lídio aparecer sem perder frases relaxadas e cantáveis no piano.",
+        "es": "Haz que la #4 lidia destaque sin perder frases relajadas y cantables al piano.",
+        "de": "Lass die #4 des Lydischen leuchten, ohne auf dem Klavier entspannte und singbare Phrasen zu verlieren.",
+        "ja": "ピアノで自然な歌いやすさを保ちながら、リディアンの #4 をしっかり浮かび上がらせる。",
+        "zh-Hans": "在钢琴上突出利底亚的 #4，同时让乐句保持放松、好唱、自然。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-16T00:12:18Z",
+    "updatedAt": "2026-07-16T00:12:18Z"
   }
 ]

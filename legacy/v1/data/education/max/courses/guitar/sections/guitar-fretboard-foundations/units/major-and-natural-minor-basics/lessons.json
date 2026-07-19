@@ -82,5 +82,173 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "interval-jumps-through-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Interval Jumps Through Scales\"",
+        "pt-BR": "\"Saltos de Intervalo pelas Escalas\"",
+        "es": "\"Saltos de Intervalo en las Escalas\"",
+        "de": "\"Intervallsprünge durch Tonleitern\"",
+        "ja": "\"スケールを跳躍で駆け抜ける\"",
+        "zh-Hans": "\"用跳进穿越音阶\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Make major and natural minor scales sound musical by leaping in 3rds, 4ths, and 5ths.\"",
+        "pt-BR": "\"Deixe as escalas maior e menor natural soarem musicais com saltos de 3as, 4as e 5as.\"",
+        "es": "\"Haz que las escalas mayor y menor natural suenen musicales con saltos de 3ras, 4tas y 5tas.\"",
+        "de": "\"Lass Dur- und natürliche Moll-Tonleitern musikalisch klingen mit Sprüngen in 3zen, 4ten und 5ten.\"",
+        "ja": "\"メジャーとナチュラルマイナーを3度・4度・5度の跳躍で音楽的に。\"",
+        "zh-Hans": "\"用3度、4度、5度跳进让大调和自然小调更有音乐感。\""
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-01T00:03:21Z",
+    "updatedAt": "2026-04-01T00:03:21Z"
+  },
+  {
+    "id": "g-major-anchor-hop",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"G Major Anchor Hop\"",
+        "pt-BR": "\"Salto de Âncoras em Sol Maior\"",
+        "es": "\"Salto de Anclas en Sol Mayor\"",
+        "de": "\"Anker-Sprünge in G-Dur\"",
+        "ja": "\"Gメジャー・アンカーホップ\"",
+        "zh-Hans": "\"G大调锚点跳跃\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Map anchor notes and hop between positions to make the G major scale musical.\"",
+        "pt-BR": "\"Mapeie notas âncora e salte entre posições para deixar a escala de Sol maior musical.\"",
+        "es": "\"Mapa notas ancla y salta entre posiciones para hacer musical la escala de Sol mayor.\"",
+        "de": "\"Karte Anker-Töne und springe zwischen Positionen, damit die G-Dur-Tonleiter musikalisch klingt.\"",
+        "ja": "\"アンカーノートを地図化してポジション間を跳び、Gメジャースケールを音楽的にする。\"",
+        "zh-Hans": "\"标出锚点音并在把位间跳转，让G大调音阶更有音乐性。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-03T00:04:53Z",
+    "updatedAt": "2026-04-03T00:04:53Z"
+  },
+  {
+    "id": "g-major-box-shift-game",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"G Major Box-Shift Game\"",
+        "pt-BR": "\"Jogo de Troca de Box em Sol Maior\"",
+        "es": "\"Juego de cambio de cajas en Sol mayor\"",
+        "de": "\"G-Dur-Positionswechsel-Spiel\"",
+        "ja": "\"Gメジャー・ボックスシフト・ゲーム\"",
+        "zh-Hans": "\"G大调盒型换把游戏\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Jump between two G major positions using anchor notes and rhythmic cues.\"",
+        "pt-BR": "\"Salte entre duas posições de Sol maior usando notas âncora e pistas rítmicas.\"",
+        "es": "\"Salta entre dos posiciones de Sol mayor usando notas ancla y pistas rítmicas.\"",
+        "de": "\"Springe zwischen zwei G-Dur-Positionen mit Ankernoten und rhythmischen Hinweisen.\"",
+        "ja": "\"アンカーノートとリズムの合図で、Gメジャーの2つのポジションを行き来しよう。\"",
+        "zh-Hans": "\"用锚点音和节奏提示，在两个G大调位置之间跳转。\""
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-06T00:05:44Z",
+    "updatedAt": "2026-04-06T00:05:44Z"
+  },
+  {
+    "id": "e-minor-rescue-route",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "E Minor Rescue Route",
+        "pt-BR": "Rota de Resgate em Mi Menor",
+        "es": "Ruta de Rescate en Mi Menor",
+        "de": "Rettungsroute in e-Moll",
+        "ja": "Eマイナー・レスキュールート",
+        "zh-Hans": "E小调救援路线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape autopilot by steering the E natural minor scale through checkpoints, string changes, and a short improv mission.",
+        "pt-BR": "Saia do piloto automático guiando a escala de mi menor natural por checkpoints, trocas de corda e uma pequena missão de improviso.",
+        "es": "Sal del piloto automático guiando la escala de mi menor natural por checkpoints, cambios de cuerda y una breve misión de improvisación.",
+        "de": "Verlasse den Autopiloten und steuere die natürliche e-Moll-Tonleiter durch Checkpoints, Saitenwechsel und eine kurze Impro-Mission.",
+        "ja": "Eナチュラルマイナーをチェックポイント、弦移動、短い即興ミッションで導き、オートパイロット練習から抜け出そう。",
+        "zh-Hans": "用检查点、换弦和一段小即兴任务，引导E自然小调离开机械重复。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-06-16T00:06:52Z",
+    "updatedAt": "2026-06-16T00:06:52Z"
+  },
+  {
+    "id": "d-major-string-crossing-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Major String-Crossing Quest",
+        "pt-BR": "Missão de Troca de Cordas em Ré Maior",
+        "es": "Misión de Cruce de Cuerdas en Re Mayor",
+        "de": "D-Dur-Saitenwechsel-Quest",
+        "ja": "Dメジャー弦移動クエスト",
+        "zh-Hans": "D大调换弦任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn the D major scale into a clean string-crossing mission with anchors, rhythm twists, and a tiny improv challenge.",
+        "pt-BR": "Transforme a escala de Ré maior em uma missão de troca de cordas com notas-âncora, variações rítmicas e um pequeno desafio de improviso.",
+        "es": "Convierte la escala de Re mayor en una misión de cruces limpios con notas ancla, giros rítmicos y un pequeño reto de improvisación.",
+        "de": "Verwandle die D-Dur-Tonleiter in eine Saitenwechsel-Mission mit Ankertönen, Rhythmus-Kniffen und einer kleinen Impro-Aufgabe.",
+        "ja": "Dメジャースケールを、アンカーノートとリズム変化、小さな即興課題つきのクリーンな弦移動ミッションに変えよう。",
+        "zh-Hans": "把D大调音阶练成一场干净利落的换弦任务，加入锚点音、节奏变化和一个小即兴挑战。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-07-02T00:06:57Z",
+    "updatedAt": "2026-07-02T00:06:57Z"
+  },
+  {
+    "id": "b-minor-escape-route",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "B Minor Escape Route",
+        "pt-BR": "Rota de Fuga em Si Menor",
+        "es": "Ruta de Escape en Si Menor",
+        "de": "Fluchtroute in h-Moll",
+        "ja": "Bマイナー脱出ルート",
+        "zh-Hans": "B小调逃生路线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Steer the B natural minor scale through anchors, string changes, and a tiny improv escape mission.",
+        "pt-BR": "Guie a escala de Si menor natural por âncoras, trocas de corda e uma pequena missão de improviso.",
+        "es": "Guía la escala de Si menor natural entre anclas, cruces de cuerda y una pequeña misión de improvisación.",
+        "de": "Steuere die natürliche h-Moll-Tonleiter durch Ankerpunkte, Saitenwechsel und eine kleine Impro-Mission.",
+        "ja": "Bナチュラルマイナーをアンカーノート、弦移動、短い即興ミッションで導こう。",
+        "zh-Hans": "用锚点音、换弦和一段小即兴任务，带着B自然小调穿越出去。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-07-04T00:07:51Z",
+    "updatedAt": "2026-07-04T00:07:51Z"
   }
 ]

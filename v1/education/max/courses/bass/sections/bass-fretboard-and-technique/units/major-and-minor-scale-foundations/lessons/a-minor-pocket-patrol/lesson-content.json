@@ -1,0 +1,99 @@
+{
+  "id": "a-minor-pocket-patrol",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you are the groove detective. Your job is to walk through A natural minor and keep the pocket so steady that every note sounds intentional.",
+          "pt-BR": "Hoje você é o detetive do groove. Seu trabalho é caminhar por Lá menor natural e manter o pocket tão firme que cada nota soe intencional.",
+          "es": "Hoy eres el detective del groove. Tu trabajo es recorrer La menor natural y mantener el pocket tan firme que cada nota suene intencional.",
+          "de": "Heute bist du der Groove-Detektiv. Deine Aufgabe ist es, durch a-Moll natürlich zu laufen und den Pocket so stabil zu halten, dass jeder Ton absichtlich klingt.",
+          "ja": "今日はあなたがグルーヴ探偵だ。Aナチュラルマイナーを歩きながら、すべての音が意図的に聞こえるくらいポケットを安定させるのが仕事。",
+          "zh-Hans": "今天你是律动侦探。你的工作是在A自然小调里行走，同时把律动守得足够稳，让每个音都像是故意落下的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: find A on the 5th fret of the low E string and the open A string. Play A–B–C–D slowly, then answer with E–F–G–A, keeping one finger per fret when possible.",
+          "pt-BR": "Aquecimento: encontre o Lá na 5ª casa da corda Mi grave e o Lá da corda solta. Toque Lá–Si–Dó–Ré devagar e responda com Mi–Fá–Sol–Lá, mantendo um dedo por casa sempre que possível.",
+          "es": "Calentamiento: encuentra La en el traste 5 de la cuerda Mi grave y el La al aire. Toca La–Si–Do–Re lentamente y responde con Mi–Fa–Sol–La, manteniendo un dedo por traste cuando sea posible.",
+          "de": "Aufwärmen: Finde A im 5. Bund der tiefen E-Saite und die leere A-Saite. Spiele A–H–C–D langsam und antworte mit E–F–G–A. Nutze wenn möglich einen Finger pro Bund.",
+          "ja": "ウォームアップ：低いE弦5フレットのAと開放A弦を見つけよう。A–B–C–Dをゆっくり弾き、続けてE–F–G–Aで返す。できるだけ1フレット1指で。",
+          "zh-Hans": "热身：找到低音E弦第5品的A和空弦A。慢慢弹A–B–C–D，再用E–F–G–A回应，尽量保持一品一指。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Patrol drill: set a metronome to 76 bpm and play the full scale in eighth notes. Add a tiny stop after every A so the root feels like a checkpoint, not just another passing note.",
+          "pt-BR": "Exercício de patrulha: ajuste o metrônomo para 76 bpm e toque a escala completa em colcheias. Faça uma micro pausa depois de cada Lá para que a tônica soe como checkpoint, não apenas como nota de passagem.",
+          "es": "Ejercicio de patrulla: pon el metrónomo a 76 bpm y toca la escala completa en corcheas. Añade una mini pausa después de cada La para que la tónica se sienta como checkpoint y no como una nota más de paso.",
+          "de": "Patrouillen-Drill: Stelle das Metronom auf 76 bpm und spiele die ganze Tonleiter in Achteln. Mache nach jedem A eine winzige Pause, damit sich der Grundton wie ein Checkpoint anfühlt.",
+          "ja": "パトロールドリル：メトロノームを76 bpmにして、音階全体を8分音符で弾く。Aのたびにごく短く止まり、ルートがただの通過音ではなくチェックポイントに感じられるようにする。",
+          "zh-Hans": "巡逻练习：把节拍器设为76 bpm，用八分音符弹完整个音阶。每次回到A后都做一个极短停顿，让根音像检查点，而不是普通经过音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove mode: alternate one bar of straight scale notes with one bar that uses two ghost notes before C and before G. The line should still feel relaxed, not choppy.",
+          "pt-BR": "Modo groove: alterne um compasso de notas diretas da escala com um compasso usando duas ghost notes antes do Dó e antes do Sol. A linha ainda precisa soar relaxada, não picotada.",
+          "es": "Modo groove: alterna un compás de notas rectas de la escala con un compás que use dos ghost notes antes de Do y antes de Sol. La línea debe seguir sintiéndose relajada, no cortada.",
+          "de": "Groove-Modus: Wechsle zwischen einem Takt gerader Skalentöne und einem Takt mit zwei Ghost Notes vor C und vor G. Die Linie soll entspannt bleiben und nicht zerhackt wirken.",
+          "ja": "グルーヴモード：1小節はまっすぐな音階、次の1小節はCの前とGの前にゴーストノートを2つ入れる。ラインは刻みすぎず、リラックスして聞こえるように。",
+          "zh-Hans": "律动模式：一小节弹直线音阶音，下一小节在C前和G前各加入两个幽灵音。整条线依然要放松，不能切得太碎。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Target-note game: over an Am groove, aim for A on beat 1 and E on beat 3. Over a C groove, aim for C on beat 1 and G on beat 3 using only notes from A natural minor.",
+          "pt-BR": "Jogo das notas-alvo: sobre um groove em Am, mire no Lá no tempo 1 e no Mi no tempo 3. Sobre um groove em Dó, mire no Dó no tempo 1 e no Sol no tempo 3 usando só notas de Lá menor natural.",
+          "es": "Juego de notas objetivo: sobre un groove de Am, apunta a La en el tiempo 1 y a Mi en el tiempo 3. Sobre un groove de Do, apunta a Do en el tiempo 1 y a Sol en el tiempo 3 usando solo notas de La menor natural.",
+          "de": "Zielton-Spiel: Über einem Am-Groove ziele auf A auf Zählzeit 1 und E auf Zählzeit 3. Über einem C-Groove ziele auf C auf 1 und G auf 3 und nutze nur Töne aus a-Moll natürlich.",
+          "ja": "ターゲットノートゲーム：Amのグルーヴでは1拍目にA、3拍目にEを狙う。Cのグルーヴでは1拍目にC、3拍目にGを狙い、Aナチュラルマイナーの音だけを使う。",
+          "zh-Hans": "目标音游戏：在Am律动上，第1拍瞄准A，第3拍瞄准E。在C律动上，第1拍瞄准C，第3拍瞄准G，而且只能使用A自然小调里的音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative mission: build a 2-bar bass line that starts low, climbs to C or E, then drops back to A without losing the pulse. Repeat it until it sounds like a real riff.",
+          "pt-BR": "Missão criativa: monte uma linha de baixo de 2 compassos que comece grave, suba até Dó ou Mi e depois volte para Lá sem perder o pulso. Repita até soar como um riff de verdade.",
+          "es": "Misión creativa: construye una línea de bajo de 2 compases que empiece grave, suba hasta Do o Mi y luego vuelva a La sin perder el pulso. Repítela hasta que suene como un riff real.",
+          "de": "Kreative Mission: Baue eine zweitaktige Basslinie, die tief beginnt, bis C oder E ansteigt und dann wieder zu A zurückfällt, ohne den Puls zu verlieren. Wiederhole sie, bis sie wie ein echtes Riff klingt.",
+          "ja": "創作ミッション：低い音から始まり、CかEまで上がってからAへ戻る2小節のベースラインを作ろう。脈を失わず、本物のリフに聞こえるまで繰り返す。",
+          "zh-Hans": "创意任务：写一条2小节低音线，从低音区开始，爬到C或E，再回到A，同时不丢失脉冲。重复到它听起来像真正的riff。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: if your ghost notes get louder than the real notes, slow down and fix the touch. Win the patrol when the groove stays deep and the scale stops sounding like an exercise.",
+          "pt-BR": "Checkpoint: se as ghost notes ficarem mais altas que as notas reais, desacelere e ajuste o toque. Você vence a patrulha quando o groove fica profundo e a escala deixa de soar como exercício.",
+          "es": "Checkpoint: si las ghost notes salen más fuertes que las notas reales, baja la velocidad y corrige el toque. Ganas la patrulla cuando el groove es profundo y la escala deja de sonar como ejercicio.",
+          "de": "Checkpoint: Wenn deine Ghost Notes lauter sind als die echten Töne, werde langsamer und korrigiere den Anschlag. Du gewinnst die Patrouille, wenn der Groove tief sitzt und die Tonleiter nicht mehr wie eine Übung klingt.",
+          "ja": "チェックポイント：ゴーストノートが実音より大きくなったら、テンポを落としてタッチを直そう。グルーヴが深くなり、音階がただの練習に聞こえなくなったら勝ちだ。",
+          "zh-Hans": "检查点：如果幽灵音比实音还响，就放慢速度并修正触弦。等律动变深、音阶不再像练习题时，你就巡逻成功了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-02T00:06:57Z",
+  "updatedAt": "2026-07-02T00:06:57Z"
+}

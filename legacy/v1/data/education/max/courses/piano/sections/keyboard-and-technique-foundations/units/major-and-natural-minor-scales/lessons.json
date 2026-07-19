@@ -82,5 +82,285 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "hands-together-scale-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Hands-Together Scale Relay",
+        "pt-BR": "Revezamento de escalas mãos juntas",
+        "es": "Relevo de escalas manos juntas",
+        "de": "Hand-zu-Hand-Tonleiter-Staffel",
+        "ja": "両手スケール・リレー",
+        "zh-Hans": "双手音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build coordination by running scales in both hands with rhythmic challenges.",
+        "pt-BR": "Desenvolva coordenação tocando escalas com as duas mãos e desafios rítmicos.",
+        "es": "Desarrolla coordinación tocando escalas con ambas manos y retos rítmicos.",
+        "de": "Baue Koordination auf, indem du Tonleitern beidhändig mit Rhythmus-Challenges spielst.",
+        "ja": "両手でスケールを走らせ、リズム課題で協調性を高めよう。",
+        "zh-Hans": "通过双手音阶与节奏挑战提升协调性。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-16T00:08:08Z",
+    "updatedAt": "2026-03-16T00:08:08Z"
+  },
+  {
+    "id": "mirror-hands-scale-maze",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mirror Hands Scale Maze",
+        "pt-BR": "Labirinto de Escalas com Mãos Espelhadas",
+        "es": "Laberinto de escalas con manos espejadas",
+        "de": "Skalenlabyrinth mit gespiegelten Händen",
+        "ja": "ミラーハンド・スケール迷路",
+        "zh-Hans": "镜像双手音阶迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate scales with mirrored hands and contrary motion for coordination.",
+        "pt-BR": "Navegue pelas escalas com mãos espelhadas e movimento contrário para coordenação.",
+        "es": "Recorre las escalas con manos espejadas y movimiento contrario para coordinación.",
+        "de": "Navigiere Skalen mit gespiegelten Händen und Gegenbewegung für bessere Koordination.",
+        "ja": "鏡のような運指と反行で、スケールの協調性を鍛えよう。",
+        "zh-Hans": "用镜像指法与反向运动提升音阶协调性。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-19T00:07:12Z",
+    "updatedAt": "2026-03-19T00:07:12Z"
+  },
+  {
+    "id": "piano-scale-color-swaps",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "\"Piano Scale Color Swaps\"",
+        "pt-BR": "\"Trocas de Cor nas Escalas do Piano\"",
+        "es": "\"Cambios de Color en Escalas de Piano\"",
+        "de": "\"Farbwechsel der Klavierskalen\"",
+        "ja": "\"ピアノのスケール・カラー交換\"",
+        "zh-Hans": "\"钢琴音阶色彩互换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Flip a few notes to hear how major and minor colors change the mood.\"",
+        "pt-BR": "\"Mude algumas notas para ouvir como o clima entre maior e menor se transforma.\"",
+        "es": "\"Cambia unas notas para oír cómo el mayor y el menor transforman el ánimo.\"",
+        "de": "\"Ändere ein paar Töne und höre, wie Dur und Moll die Stimmung drehen.\"",
+        "ja": "\"数音を入れ替えて、長調と短調のムードの変化を体感する。\"",
+        "zh-Hans": "\"改动几颗音，感受大调与小调情绪的变化。\""
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-29T00:06:13Z",
+    "updatedAt": "2026-03-29T00:06:13Z"
+  },
+  {
+    "id": "piano-scale-fingering-sprints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Piano Scale Fingering Sprints\"",
+        "pt-BR": "\"Sprints de Dedilhado na Escala do Piano\"",
+        "es": "\"Sprints de Digitación en Escala de Piano\"",
+        "de": "\"Klavier-Skalen-Fingeringsprints\"",
+        "ja": "\"ピアノ・スケール指使いスプリント\"",
+        "zh-Hans": "\"钢琴音阶指法冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Short bursts that lock in fingering for major and natural minor scales.\"",
+        "pt-BR": "\"Explosões curtas para fixar o dedilhado em escalas maiores e menores naturais.\"",
+        "es": "\"Ráfagas cortas para fijar la digitación en escalas mayores y menores naturales.\"",
+        "de": "\"Kurze Sprints, um die Fingersätze für Dur- und natürliche Mollskalen zu festigen.\"",
+        "ja": "\"短いスプリントで長調・ナチュラルマイナーの指使いを定着させる。\"",
+        "zh-Hans": "\"用短冲刺巩固大调与自然小调的指法。\""
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-30T00:08:36Z",
+    "updatedAt": "2026-03-30T00:08:36Z"
+  },
+  {
+    "id": "scale-call-and-response",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Call-and-Response\"",
+        "pt-BR": "\"Chamada e Resposta nas Escalas\"",
+        "es": "\"Llamada y Respuesta en Escalas\"",
+        "de": "\"Skalen-Call-and-Response\"",
+        "ja": "\"スケール・コール＆レスポンス\"",
+        "zh-Hans": "\"音阶呼叫与回应\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Trade short scale phrases between hands to build control and listening.\"",
+        "pt-BR": "\"Troque frases curtas de escala entre as mãos para ganhar controle e escuta.\"",
+        "es": "\"Intercambia frases cortas de escala entre manos para ganar control y escucha.\"",
+        "de": "\"Tausche kurze Skalenphrasen zwischen den Händen, um Kontrolle und Gehör zu stärken.\"",
+        "ja": "\"短いスケールフレーズを左右の手で交換して、コントロールと耳を鍛える。\"",
+        "zh-Hans": "\"在左右手之间交换短音阶乐句，提升控制与聆听。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-06T00:08:45Z",
+    "updatedAt": "2026-04-06T00:08:45Z"
+  },
+  {
+    "id": "piano-contrary-motion-mirror-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Contrary-Motion Mirror Chase",
+        "pt-BR": "Caça ao Espelho em Movimento Contrário",
+        "es": "Persecución en Espejo y Movimiento Contrario",
+        "de": "Spiegeljagd in Gegenbewegung",
+        "ja": "反行モーション・ミラーチェイス",
+        "zh-Hans": "反向镜像追逐"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to chase each other through major scales without losing tone or balance.",
+        "pt-BR": "Treine as duas mãos para se perseguirem em escalas maiores sem perder som nem equilíbrio.",
+        "es": "Entrena ambas manos para perseguirse en escalas mayores sin perder sonido ni equilibrio.",
+        "de": "Trainiere beide Hände, sich durch Durtonleitern zu verfolgen, ohne Klang oder Balance zu verlieren.",
+        "ja": "両手が長調スケールの中で追いかけ合っても、音色とバランスを失わないように鍛えよう。",
+        "zh-Hans": "训练双手在大调音阶中彼此追逐，同时不丢失音色与平衡。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-05-05T00:05:35Z",
+    "updatedAt": "2026-05-05T00:05:35Z"
+  },
+  {
+    "id": "thumb-under-time-trial",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Thumb-Under Time Trial",
+        "pt-BR": "Desafio contra o Tempo do Polegar por Baixo",
+        "es": "Contrarreloj del Pulgar por Debajo",
+        "de": "Daumen-unter-Zeitrennen",
+        "ja": "親指くぐりタイムトライアル",
+        "zh-Hans": "拇指穿越计时挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make thumb-under moves smooth so your scales stay even, light, and confident.",
+        "pt-BR": "Deixe o movimento do polegar por baixo suave para que suas escalas fiquem regulares, leves e confiantes.",
+        "es": "Haz que el paso del pulgar por debajo sea suave para que tus escalas suenen parejas, ligeras y seguras.",
+        "de": "Mache die Daumen-unterm-Bewegung weich, damit deine Skalen gleichmäßig, leicht und sicher bleiben.",
+        "ja": "親指くぐりを滑らかにして、スケールを均一で軽く自信ある音にしよう。",
+        "zh-Hans": "把拇指穿越动作练顺，让音阶保持均匀、轻盈和自信。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-05-06T00:09:08Z",
+    "updatedAt": "2026-05-06T00:09:08Z"
+  },
+  {
+    "id": "black-key-sneak-path",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Black-Key Sneak Path",
+        "pt-BR": "Caminho Secreto das Teclas Pretas",
+        "es": "Camino Secreto de las Teclas Negras",
+        "de": "Geheimpfad über schwarze Tasten",
+        "ja": "黒鍵スニークパス",
+        "zh-Hans": "黑键潜行路线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Learn to steer a major scale through black-key landmarks while keeping both hands calm and coordinated.",
+        "pt-BR": "Aprenda a guiar uma escala maior usando as teclas pretas como pontos de referência, com as duas mãos calmas e coordenadas.",
+        "es": "Aprende a guiar una escala mayor usando las teclas negras como puntos de referencia, con ambas manos tranquilas y coordinadas.",
+        "de": "Lerne, eine Durtonleiter über schwarze Tasten als Orientierungspunkte zu steuern, während beide Hände ruhig und koordiniert bleiben.",
+        "ja": "黒鍵を目印にしながらメジャースケールを進み、両手を落ち着いてそろえよう。",
+        "zh-Hans": "学会把黑键当作路标，平稳协调地穿过一条大调音阶。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-06-16T00:06:53Z",
+    "updatedAt": "2026-06-16T00:06:53Z"
+  },
+  {
+    "id": "g-major-lane-switch",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "G Major Lane Switch",
+        "pt-BR": "Troca de Faixa em Sol Maior",
+        "es": "Cambio de Carril en Sol Mayor",
+        "de": "Spurwechsel in G-Dur",
+        "ja": "Gメジャー・レーンチェンジ",
+        "zh-Hans": "G大调换道练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Switch lanes through G major with clean thumb-unders, dynamic control, and a playful two-hand challenge.",
+        "pt-BR": "Troque de faixa pela escala de Sol maior com polegar por baixo limpo, controle dinâmico e um desafio divertido com as duas mãos.",
+        "es": "Cambia de carril por la escala de Sol mayor con pulgar por debajo limpio, control dinámico y un reto divertido a dos manos.",
+        "de": "Wechsle durch G-Dur mit sauberem Daumenuntersatz, Dynamikkontrolle und einer spielerischen Zwei-Hand-Challenge.",
+        "ja": "きれいな親指くぐり、音量コントロール、そして楽しい両手チャレンジでGメジャーを走り抜けよう。",
+        "zh-Hans": "用干净的拇指穿越、动态控制和有趣的双手挑战，在G大调中顺畅换道。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-07-02T00:06:58Z",
+    "updatedAt": "2026-07-02T00:06:58Z"
+  },
+  {
+    "id": "e-minor-finger-lanterns",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "E Minor Finger Lanterns",
+        "pt-BR": "Lanternas de Dedilhado em Mi Menor",
+        "es": "Faroles de Digitación en Mi Menor",
+        "de": "Fingersatz-Laternen in e-Moll",
+        "ja": "Eマイナー指使いランタン",
+        "zh-Hans": "E小调指法灯笼"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up the E natural minor scale with fingering checkpoints, dynamic contrast, and a short two-hand story.",
+        "pt-BR": "Ilumine a escala de Mi menor natural com checkpoints de dedilhado, contraste dinâmico e uma pequena história com duas mãos.",
+        "es": "Ilumina la escala de Mi menor natural con checkpoints de digitación, contraste dinámico y una pequeña historia a dos manos.",
+        "de": "Erhelle die natürliche e-Moll-Tonleiter mit Fingersatz-Checkpoints, Dynamik-Kontrasten und einer kurzen Zwei-Hand-Geschichte.",
+        "ja": "指使いのチェックポイント、ダイナミクスの対比、短い両手ストーリーでEナチュラルマイナーを照らそう。",
+        "zh-Hans": "用指法检查点、力度对比和一段双手小故事，点亮E自然小调。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-07-04T00:10:12Z",
+    "updatedAt": "2026-07-04T00:10:12Z"
   }
 ]

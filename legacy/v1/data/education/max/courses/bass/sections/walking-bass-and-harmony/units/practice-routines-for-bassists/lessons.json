@@ -82,5 +82,201 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "pocket-lab-scale-challenge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Lab Scale Challenge",
+        "pt-BR": "Desafio de Escalas no Laboratório do Groove",
+        "es": "Desafío de Escalas en el Laboratorio del Groove",
+        "de": "Pocket-Labor: Skalen-Challenge für Bass",
+        "ja": "ポケット研究室：ベース音階チャレンジ",
+        "zh-Hans": "Groove实验室：贝斯音阶挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build bass lines that groove first and still use scale knowledge with control, movement, and intention.",
+        "pt-BR": "Construa linhas de baixo que grooveiem primeiro e ainda usem escalas com controle, movimento e intenção.",
+        "es": "Construye líneas de bajo que grooveen primero y aun así usen escalas con control, movimiento e intención.",
+        "de": "Baue Basslinien, die zuerst grooven und trotzdem Skalenwissen mit Kontrolle, Bewegung und Absicht nutzen.",
+        "ja": "まずグルーヴを優先しながら、音階知識をコントロール・動き・意図に変えるベースラインを作ろう。",
+        "zh-Hans": "让你的贝斯线先有groove，再把音阶知识变成有控制、有移动感、有目的性的句子。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-18T00:07:52Z",
+    "updatedAt": "2026-04-18T00:07:52Z"
+  },
+  {
+    "id": "ghost-note-maze-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Ghost Note Maze Builder",
+        "pt-BR": "Labirinto de Ghost Notes",
+        "es": "Laberinto de Ghost Notes",
+        "de": "Ghost-Note-Labyrinth",
+        "ja": "ゴーストノート迷路ビルダー",
+        "zh-Hans": "Ghost Note 迷宫建造者"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use scale tones, silence, and ghost notes to build a bass line that grooves harder every time it loops.",
+        "pt-BR": "Use notas da escala, silêncio e ghost notes para construir uma linha de baixo que grooveia mais a cada repetição.",
+        "es": "Usa notas de la escala, silencio y ghost notes para construir una línea de bajo que groovea más fuerte en cada vuelta.",
+        "de": "Nutze Skalentöne, Stille und Ghost Notes, um eine Basslinie zu bauen, die mit jeder Runde stärker groovt.",
+        "ja": "スケール音、無音、ゴーストノートを使って、ループするほど強くなるベースラインを作ります。",
+        "zh-Hans": "用音阶音、留白和 ghost note，搭出一条每次循环都更有 groove 的贝斯线。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-22T14:10:37Z",
+    "updatedAt": "2026-04-22T14:10:37Z"
+  },
+  {
+    "id": "bass-octave-alley-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Alley Chase",
+        "pt-BR": "Perseguição no Beco das Oitavas",
+        "es": "Persecución en el Callejón de Octavas",
+        "de": "Oktavengassen-Verfolgung",
+        "ja": "オクターブ横丁チェイス",
+        "zh-Hans": "八度小巷追击"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build bass scale control by hunting roots, fifths, and octaves through tight rhythmic lanes.",
+        "pt-BR": "Desenvolva controle de escalas no baixo perseguindo tônicas, quintas e oitavas por corredores rítmicos apertados.",
+        "es": "Desarrolla control de escalas en el bajo persiguiendo tónicas, quintas y octavas por carriles rítmicos estrechos.",
+        "de": "Baue Kontrolle über Bass-Skalen auf, indem du Grundtöne, Quinten und Oktaven durch enge rhythmische Spuren jagst.",
+        "ja": "ルート、5度、オクターブをリズムの狭いレーンで追いかけながら、ベースの音階コントロールを鍛えるレッスンです。",
+        "zh-Hans": "在紧凑的节奏车道中追踪根音、五度和八度，建立更扎实的贝斯音阶控制力。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-05-14T00:10:45Z",
+    "updatedAt": "2026-05-14T00:10:45Z"
+  },
+  {
+    "id": "bass-pocket-detour",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Detour",
+        "pt-BR": "Desvio de Pocket no Baixo",
+        "es": "Desvío de Pocket en el Bajo",
+        "de": "Pocket-Umweg auf dem Bass",
+        "ja": "ベース・ポケット寄り道作戦",
+        "zh-Hans": "贝斯Pocket绕行"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use tiny rhythmic detours and strong landings to make scale-based bass lines groove harder.",
+        "pt-BR": "Use pequenos desvios rítmicos e chegadas fortes para fazer linhas de baixo baseadas em escala groovearem mais.",
+        "es": "Usa pequeños desvíos rítmicos y aterrizajes fuertes para que las líneas de bajo basadas en escalas grooveen más.",
+        "de": "Nutze kleine rhythmische Umwege und starke Landungen, damit skalenbasierte Basslinien mehr grooven.",
+        "ja": "小さなリズムの寄り道と強い着地で、スケール由来のベースラインをもっとグルーヴィーにするレッスンです。",
+        "zh-Hans": "用细小的节奏绕行和强力落点，让基于音阶的贝斯线 groove 更深。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-05-16T00:07:55Z",
+    "updatedAt": "2026-05-16T00:07:55Z"
+  },
+  {
+    "id": "bass-turnaround-tightrope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Turnaround Tightrope",
+        "pt-BR": "Corda Bamba do Turnaround",
+        "es": "Cuerda Floja del Turnaround",
+        "de": "Turnaround-Drahtseilakt",
+        "ja": "ターンアラウンド綱渡り",
+        "zh-Hans": "Turnaround钢索行走"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Balance scale motion and pocket as you walk a turnaround without slipping.",
+        "pt-BR": "Equilibre movimento de escala e pocket ao atravessar um turnaround sem escorregar.",
+        "es": "Equilibra movimiento de escala y pocket mientras cruzas un turnaround sin resbalar.",
+        "de": "Balanciere Skalenbewegung und Pocket, wenn du einen Turnaround ohne Ausrutscher durchläufst.",
+        "ja": "ターンアラウンドを渡るあいだ、スケールの動きとポケットを両立させましょう。",
+        "zh-Hans": "在不滑落的前提下，用音阶走向和 pocket 平衡好每一次 turnaround。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-06-06T00:06:38Z",
+    "updatedAt": "2026-06-06T00:06:38Z"
+  },
+  {
+    "id": "bass-root-ladder-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Root Ladder Relay",
+        "pt-BR": "Revezamento da Escada de Tônicas no Baixo",
+        "es": "Relevo de Escalera de Tónicas en Bajo",
+        "de": "Bass-Root-Ladder-Relay",
+        "ja": "ベース・ルート・ラダー・リレー",
+        "zh-Hans": "贝斯根音阶梯接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build bass-line control by climbing from roots to color tones without dropping the pocket.",
+        "pt-BR": "Desenvolva controle de linhas de baixo subindo da tônica para notas de cor sem derrubar o pocket.",
+        "es": "Desarrolla control de líneas de bajo subiendo desde la tónica hacia notas de color sin perder el pocket.",
+        "de": "Baue Kontrolle über Basslinien auf, indem du von Grundtönen zu Farbtönen kletterst, ohne das Pocket zu verlieren.",
+        "ja": "ルートから色音へと登りながらも、ポケットを落とさないベースラインのコントロールを鍛えるレッスンです。",
+        "zh-Hans": "训练你的贝斯线控制力：从根音一路爬向色彩音，同时绝不把 pocket 弄丢。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-06-09T00:10:16Z",
+    "updatedAt": "2026-06-09T00:10:16Z"
+  },
+  {
+    "id": "bass-approach-note-pinball",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Approach-Note Pinball",
+        "pt-BR": "Baixo: Pinball das Notas de Aproximação",
+        "es": "Bajo: Pinball de notas de aproximación",
+        "de": "Bass: Pinball mit Annäherungstönen",
+        "ja": "ベース：アプローチノート・ピンボール",
+        "zh-Hans": "贝斯：经过音弹珠台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your time and note choice by bouncing into strong bass targets with clean, repeatable approach notes.",
+        "pt-BR": "Treine tempo e escolha de notas acertando alvos fortes no baixo com notas de aproximação limpas e repetíveis.",
+        "es": "Entrena tu tiempo y elección de notas rebotando hacia objetivos fuertes del bajo con notas de aproximación limpias y repetibles.",
+        "de": "Trainiere Timing und Tonwahl, indem du mit sauberen, wiederholbaren Annäherungstönen in starke Basstöne hineinspringst.",
+        "ja": "きれいで再現しやすいアプローチノートで強い着地点に跳ね込み、タイム感と音選びを鍛えよう。",
+        "zh-Hans": "用干净、可重复的经过音弹进强拍目标，训练你的节奏感和音符选择。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-26T00:09:02Z",
+    "updatedAt": "2026-06-26T00:09:02Z"
   }
 ]

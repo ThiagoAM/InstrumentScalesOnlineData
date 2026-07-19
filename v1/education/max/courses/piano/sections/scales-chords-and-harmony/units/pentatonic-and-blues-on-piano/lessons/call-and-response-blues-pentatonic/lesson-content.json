@@ -1,0 +1,73 @@
+{
+  "id": "call-and-response-blues-pentatonic",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "We’ll make your playing sound like a conversation. Use the **C blues pentatonic** (C–Eb–F–Gb–G–Bb) and a simple I–IV–V groove.",
+          "pt-BR": "Vamos fazer seu piano soar como uma conversa. Use a **pentatônica blues de Dó** (C–Eb–F–Gb–G–Bb) e um groove simples de I–IV–V.",
+          "es": "Haremos que tu piano suene como una conversación. Usa la **pentatónica blues de Do** (C–Eb–F–Gb–G–Bb) y un groove simple de I–IV–V.",
+          "de": "Wir lassen dein Spiel wie ein Gespräch klingen. Nutze die **C‑Blues-Pentatonik** (C–Eb–F–Gb–G–Bb) und einen einfachen I–IV–V‑Groove.",
+          "ja": "ピアノを会話のように鳴らします。**Cブルース・ペンタトニック**（C–Eb–F–Gb–G–Bb）と、シンプルな I–IV–V グルーヴを使いましょう。",
+          "zh-Hans": "让你的钢琴像在对话。使用 **C布鲁斯五声音阶**（C–Eb–F–Gb–G–Bb）和简单的 I–IV–V 律动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Left hand shells:** play two‑note shells on beats 1 and 3.\n- C7: **C–Bb**\n- F7: **F–Eb**\n- G7: **G–F**\nKeep it steady and light.",
+          "pt-BR": "**Shells na mão esquerda:** toque shells de duas notas nos tempos 1 e 3.\n- C7: **C–Bb**\n- F7: **F–Eb**\n- G7: **G–F**\nMantenha constante e leve.",
+          "es": "**Shells en la mano izquierda:** toca shells de dos notas en los tiempos 1 y 3.\n- C7: **C–Bb**\n- F7: **F–Eb**\n- G7: **G–F**\nManténlo constante y ligero.",
+          "de": "**Left-Hand-Shells:** spiele Zwei‑Noten‑Shells auf Zählzeit 1 und 3.\n- C7: **C–Bb**\n- F7: **F–Eb**\n- G7: **G–F**\nBleib gleichmäßig und leicht.",
+          "ja": "**左手のシェル:** 1拍目と3拍目に2音のシェルを弾きます。\n- C7: **C–Bb**\n- F7: **F–Eb**\n- G7: **G–F**\n一定で軽く。",
+          "zh-Hans": "**左手Shell:** 在第1拍和第3拍弹两音shell。\n- C7: **C–Bb**\n- F7: **F–Eb**\n- G7: **G–F**\n保持稳定、轻松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Right hand motif:** create a 3‑note “call,” like **C–Eb–G**. Repeat it until it feels natural, then vary the rhythm.",
+          "pt-BR": "**Motivo da mão direita:** crie uma “pergunta” de 3 notas, como **C–Eb–G**. Repita até ficar natural e depois varie o ritmo.",
+          "es": "**Motivo en la mano derecha:** crea una “pregunta” de 3 notas, como **C–Eb–G**. Repítelo hasta que sea natural y luego varía el ritmo.",
+          "de": "**Right-Hand-Motiv:** baue einen 3‑Noten‑„Call“, z. B. **C–Eb–G**. Wiederhole ihn, bis er natürlich sitzt, dann variiere den Rhythmus.",
+          "ja": "**右手のモチーフ:** 3音の「コール」を作ります。例: **C–Eb–G**。自然に感じるまで繰り返し、リズムを変化させましょう。",
+          "zh-Hans": "**右手动机:** 设计一个3音“呼叫”，例如 **C–Eb–G**。先反复练熟，再变化节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Call & response:** play a 1‑bar call, then a 1‑bar response. Leave a breath of space between them. Swap roles: start with a short call, answer with a longer response.",
+          "pt-BR": "**Pergunta e resposta:** toque 1 compasso de pergunta e 1 compasso de resposta. Deixe um respiro entre eles. Inverta os papéis: pergunta curta, resposta mais longa.",
+          "es": "**Pregunta y respuesta:** toca 1 compás de pregunta y 1 compás de respuesta. Deja un pequeño espacio entre ellos. Invierte los roles: pregunta corta, respuesta más larga.",
+          "de": "**Call & Response:** spiele 1 Takt Call, dann 1 Takt Response. Lass dazwischen Luft. Tausche die Rollen: kurzer Call, längere Antwort.",
+          "ja": "**コール＆レスポンス:** 1小節のコール、1小節のレスポンス。間に少し空白を入れます。役割を逆にして、短いコール→長いレスポンス。",
+          "zh-Hans": "**呼叫与回应:** 弹1小节呼叫，再弹1小节回应。中间留一点空白。交换角色：短呼叫、长回应。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Challenge:** record an 8‑bar blues using the structure above. Make sure every response ends on a strong scale tone (C, G, or Bb).",
+          "pt-BR": "**Desafio:** grave um blues de 8 compassos usando essa estrutura. Garanta que toda resposta termine em um tom forte (C, G ou Bb).",
+          "es": "**Desafío:** graba un blues de 8 compases usando esta estructura. Asegúrate de que cada respuesta termine en una nota fuerte (C, G o Bb).",
+          "de": "**Challenge:** nimm einen 8‑taktigen Blues mit dieser Struktur auf. Jede Antwort soll auf einem starken Ton enden (C, G oder Bb).",
+          "ja": "**チャレンジ:** この構造で8小節のブルースを録音。レスポンスの終わりは強い音（C、G、Bb）に着地させること。",
+          "zh-Hans": "**挑战:** 按以上结构录一段8小节蓝调。每个回应必须落在强音上（C、G或Bb）。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-17T00:08:13Z",
+  "updatedAt": "2026-03-17T00:08:13Z"
+}

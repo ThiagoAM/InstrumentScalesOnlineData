@@ -1,0 +1,73 @@
+{
+  "id": "piano-accent-ziplines",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose a 2-octave scale you already know well. First, play it hands together with no accents at all, just listening for matching tone and weight between both hands.",
+          "pt-BR": "Escolha uma escala de 2 oitavas que você já conheça bem. Primeiro, toque mãos juntas sem nenhum acento, ouvindo apenas se as duas mãos combinam em timbre e peso.",
+          "es": "Elige una escala de 2 octavas que ya conozcas bien. Primero tócala con ambas manos juntas y sin acentos, escuchando solo si el sonido y el peso coinciden entre las dos manos.",
+          "de": "Wähle eine 2-Oktaven-Tonleiter, die du schon gut kennst. Spiele sie zuerst mit beiden Händen zusammen ganz ohne Akzente und höre nur darauf, ob Klang und Gewicht in beiden Händen zusammenpassen.",
+          "ja": "まずはよく知っている2オクターブのスケールを1つ選びます。最初は両手でアクセントなしに弾き、左右の音色と重さがそろっているかだけを聴きましょう。",
+          "zh-Hans": "选一条你已经很熟的两八度音阶。先双手齐弹，不加任何重音，只专心听两只手的音色和重量是否一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add an accent every 3 notes while the scale still stays in groups of 4. It should feel a little like the accents are sliding across the fingering instead of lining up neatly.",
+          "pt-BR": "Agora adicione um acento a cada 3 notas, mesmo que a escala continue organizada em grupos de 4. A sensação deve ser de que os acentos escorregam pelo dedilhado em vez de se alinhar bonitinho.",
+          "es": "Ahora añade un acento cada 3 notas, aunque la escala siga agrupada en 4. Debe sentirse como si los acentos se deslizaran por la digitación en vez de alinearse cómodamente.",
+          "de": "Setze nun alle 3 Töne einen Akzent, obwohl die Skala weiter in 4er-Gruppen läuft. Es soll sich anfühlen, als würden die Akzente über den Fingersatz gleiten, statt sauber mit ihm zu decken.",
+          "ja": "次に、スケールは4音まとまりのままなのに、3音ごとにアクセントを入れます。アクセントが運指の上をすべっていくように感じられれば成功です。",
+          "zh-Hans": "现在改成每3个音加一次重音，而音阶本身仍保持4个音一组。你应该感觉这些重音是在指法上滑行，而不是乖乖对齐。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Repeat the same scale, but this time let the left hand stay mezzo-forte while the right hand shapes the accent pattern from piano to forte. The goal is independence without stiffness.",
+          "pt-BR": "Repita a mesma escala, mas desta vez deixe a mão esquerda em mezzo-forte enquanto a direita molda o desenho de acentos do piano ao forte. O alvo é independência sem rigidez.",
+          "es": "Repite la misma escala, pero esta vez deja la mano izquierda en mezzo-forte mientras la derecha dibuja el patrón de acentos desde piano hasta forte. La meta es independencia sin tensión.",
+          "de": "Wiederhole dieselbe Tonleiter, aber lass diesmal die linke Hand im Mezzoforte bleiben, während die rechte Hand das Akzentmuster von piano bis forte formt. Ziel ist Unabhängigkeit ohne Verkrampfung.",
+          "ja": "同じスケールをもう一度弾きますが、今度は左手をメゾフォルテに保ち、右手だけがピアノからフォルテまでアクセントの形を作ります。目標は力みのない独立です。",
+          "zh-Hans": "再弹同一条音阶，但这次左手保持 mezzo-forte，右手则把重音线条从 piano 塑造成 forte。目标是独立，而不是僵硬。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a timer for 3 minutes. Alternate between one ascending run with accents and one ascending run without accents, then do the same descending. Notice whether your thumbs stay calm when attention shifts.",
+          "pt-BR": "Ajuste um cronômetro para 3 minutos. Alterne entre uma subida com acentos e uma subida sem acentos, e depois faça o mesmo na descida. Repare se seus polegares continuam calmos quando a atenção muda.",
+          "es": "Pon un temporizador de 3 minutos. Alterna una subida con acentos y una subida sin acentos, y luego haz lo mismo al bajar. Observa si tus pulgares siguen tranquilos cuando cambia el foco de atención.",
+          "de": "Stelle einen Timer auf 3 Minuten. Wechsle zwischen einem Aufwärtslauf mit Akzenten und einem Aufwärtslauf ohne Akzente und mache danach dasselbe abwärts. Beobachte, ob deine Daumen ruhig bleiben, wenn sich der Fokus verschiebt.",
+          "ja": "3分のタイマーをセットしましょう。上行をアクセントありで1回、アクセントなしで1回交互に行い、下行でも同じことをします。注意の向きが変わっても親指が落ち着いているか観察してください。",
+          "zh-Hans": "设一个3分钟计时器。上行时做一次带重音、一次不带重音，然后下行也这样轮换。注意当关注点移动时，你的拇指是否依然冷静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: create one clean full run where the accents add excitement but the scale line still sounds connected and elegant. If the accents start punching holes in the phrase, back off the force and keep the motion flowing.",
+          "pt-BR": "Missão final: faça uma execução completa e limpa em que os acentos tragam emoção, mas a linha da escala continue conectada e elegante. Se os acentos começarem a furar a frase, reduza a força e mantenha o movimento fluindo.",
+          "es": "Misión final: crea una ejecución completa y limpia donde los acentos añadan emoción, pero la línea de la escala siga conectada y elegante. Si los acentos empiezan a perforar la frase, reduce la fuerza y deja que el movimiento siga fluyendo.",
+          "de": "Abschlussmission: Spiele einen sauberen kompletten Durchlauf, in dem die Akzente Spannung erzeugen, die Tonleiterlinie aber verbunden und elegant bleibt. Wenn die Akzente Löcher in die Phrase schlagen, nimm Kraft heraus und halte die Bewegung im Fluss.",
+          "ja": "最後のミッションです。アクセントがわくわく感を加えつつ、スケールの線はつながって上品に聞こえる1回の通し演奏を作ってください。アクセントがフレーズを壊し始めたら、力を弱めて流れを守りましょう。",
+          "zh-Hans": "最终任务：做一次完整而干净的通奏，让重音带来兴奋感，但音阶线条仍然连贯而优雅。如果重音开始把乐句打出洞，就减小力量，继续保持流动。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-08T00:09:31Z",
+  "updatedAt": "2026-06-08T00:09:31Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "minor-pentatonic-call-and-response",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Call-and-response on the neck\nYou’ll trade short **calls** and **responses** using A minor pentatonic shapes. The goal is to connect positions and make your phrases sound like a dialogue, not an exercise.",
+          "pt-BR": "# Pergunta e resposta no braço\nVocê vai alternar **perguntas** e **respostas** usando a pentatônica menor de Lá. A meta é conectar posições e fazer suas frases soarem como diálogo, não como exercício.",
+          "es": "# Pregunta y respuesta en el mástil\nVas a alternar **preguntas** y **respuestas** usando la pentatónica menor de La. El objetivo es conectar posiciones y hacer que tus frases suenen como un diálogo, no como un ejercicio.",
+          "de": "# Frage und Antwort auf dem Hals\nDu wechselst **Fragen** und **Antworten** mit der A-Moll-Pentatonik. Ziel ist es, Positionen zu verbinden und deine Phrasen wie einen Dialog klingen zu lassen.",
+          "ja": "# ネック上のコール＆レスポンス\nAマイナー・ペンタトニックで**問い**と**答え**を交互に弾きます。狙いは、ポジションをつなげて“練習”ではなく“対話”にすることです。",
+          "zh-Hans": "# 指板上的问答\n你将用A小调五声音阶在**提问**与**回应**之间切换。目标是连接把位，让乐句听起来像对话，而不是练习题。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Choose your boxes\n- **Call**: Box 1 (5th position)\n- **Response**: Box 2 (8th position)\nPlay 2 bars for each. Keep the note set **A C D E G**, and finish each phrase on A or E for a clear landing.",
+          "pt-BR": "# Escolha os boxes\n- **Pergunta**: Box 1 (5ª posição)\n- **Resposta**: Box 2 (8ª posição)\nToque 2 compassos para cada um. Use o conjunto **A C D E G** e termine cada frase em A ou E para um pouso claro.",
+          "es": "# Elige los boxes\n- **Pregunta**: Box 1 (5ª posición)\n- **Respuesta**: Box 2 (8ª posición)\nToca 2 compases cada uno. Usa el conjunto **A C D E G** y termina cada frase en A o E para un cierre claro.",
+          "de": "# Wähle deine Boxen\n- **Frage**: Box 1 (5. Lage)\n- **Antwort**: Box 2 (8. Lage)\nSpiele jeweils 2 Takte. Nutze die Töne **A C D E G** und lande am Ende jeder Phrase auf A oder E.",
+          "ja": "# ボックスを決める\n- **問い**: Box 1（5フレット付近）\n- **答え**: Box 2（8フレット付近）\nそれぞれ2小節ずつ。音は **A C D E G** だけを使い、最後はAかEで着地しましょう。",
+          "zh-Hans": "# 选定盒型\n- **提问**：Box 1（第5把位附近）\n- **回应**：Box 2（第8把位附近）\n每个2小节。只用 **A C D E G**，每句尽量落在A或E上，收尾更清晰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Rhythm template (start simple)\nTry this groove at 70–90 BPM:\n- Bar 1: eighth notes on beats **1-&-2**, rest on **3**, eighths on **4-&**\n- Bar 2: quarter on **1**, eighths on **2-&-3**, rest on **4**\nLock your right-hand picking so the rhythm stays steady while you switch boxes.",
+          "pt-BR": "# Molde rítmico (comece simples)\nExperimente este groove a 70–90 BPM:\n- Compasso 1: colcheias em **1-&-2**, pausa em **3**, colcheias em **4-&**\n- Compasso 2: semínima em **1**, colcheias em **2-&-3**, pausa em **4**\nTrave a mão direita para manter o ritmo estável enquanto troca de box.",
+          "es": "# Plantilla rítmica (empieza simple)\nPrueba este groove a 70–90 BPM:\n- Compás 1: corcheas en **1-&-2**, silencio en **3**, corcheas en **4-&**\n- Compás 2: negra en **1**, corcheas en **2-&-3**, silencio en **4**\nMantén la mano derecha firme para que el ritmo no se mueva mientras cambias de box.",
+          "de": "# Rhythmus-Template (ganz simpel)\nProbier dieses Groove bei 70–90 BPM:\n- Takt 1: Achtel auf **1-&-2**, Pause auf **3**, Achtel auf **4-&**\n- Takt 2: Viertel auf **1**, Achtel auf **2-&-3**, Pause auf **4**\nHalte die rechte Hand stabil, damit der Rhythmus beim Box-Wechsel sauber bleibt.",
+          "ja": "# リズムの型（まずは簡単に）\n70〜90 BPMでこのパターン：\n- 小節1：**1-&-2** に8分音符、**3**で休符、**4-&** に8分音符\n- 小節2：**1**に4分音符、**2-&-3** に8分音符、**4**で休符\n右手のピッキングを安定させて、ボックス移動でもリズムが崩れないように。",
+          "zh-Hans": "# 节奏模板（先从简单开始）\n70–90 BPM 试试这个律动：\n- 第1小节：**1-&-2**上八分音符，**3**休止，**4-&**上八分音符\n- 第2小节：**1**上四分音符，**2-&-3**上八分音符，**4**休止\n右手拨弦要稳，让换把时节奏不乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it musical\nKeep the response **shorter** or **softer** than the call. Then flip it: make the response bigger and let the call be a question. Add **one** articulation per phrase (slide, bend, hammer-on, or pull-off).",
+          "pt-BR": "# Deixe musical\nMantenha a resposta **mais curta** ou **mais suave** que a pergunta. Depois inverta: resposta maior e pergunta menor. Adicione **uma** articulação por frase (slide, bend, hammer-on ou pull-off).",
+          "es": "# Hazlo musical\nMantén la respuesta **más corta** o **más suave** que la pregunta. Luego invierte: respuesta grande y pregunta pequeña. Añade **una** articulación por frase (slide, bend, hammer-on o pull-off).",
+          "de": "# Mach es musikalisch\nHalte die Antwort **kürzer** oder **leiser** als die Frage. Danach drehen: größere Antwort, kleinere Frage. Füge pro Phrase **eine** Artikulation hinzu (Slide, Bend, Hammer-on oder Pull-off).",
+          "ja": "# 音楽っぽくする\nレスポンスは**短め**か**弱め**に。次は逆にして、レスポンスを大きく、問いを小さく。各フレーズに**1つ**だけアーティキュレーション（スライド、チョーキング、ハンマリング、プリング）を入れましょう。",
+          "zh-Hans": "# 更音乐化\n让回应**更短**或**更轻**，然后反过来：回应更大、提问更小。每句只加**一种**技巧（滑音、推弦、击弦或勾弦）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mini performance\nRecord an 8-bar take: 4 bars of calls, 4 bars of responses. Listen back for:\n- Clean position shifts\n- Clear endings\n- A real “question/answer” vibe\nIf it feels stiff, slow it down and exaggerate the dynamics.",
+          "pt-BR": "# Mini performance\nGrave 8 compassos: 4 de perguntas, 4 de respostas. Ouça e confira:\n- Trocas de posição limpas\n- Finais claros\n- Clima real de “pergunta e resposta”\nSe ficar duro, diminua o tempo e exagere na dinâmica.",
+          "es": "# Mini presentación\nGraba 8 compases: 4 de preguntas, 4 de respuestas. Al escuchar, revisa:\n- Cambios de posición limpios\n- Finales claros\n- Un verdadero clima de “pregunta y respuesta”\nSi suena rígido, baja el tempo y exagera la dinámica.",
+          "de": "# Mini-Performance\nNimm 8 Takte auf: 4 Takte Fragen, 4 Takte Antworten. Hör auf:\n- Saubere Positionswechsel\n- Klare Endungen\n- Ein echtes „Frage/Antwort“-Gefühl\nWenn es steif klingt, langsamer werden und die Dynamik übertreiben.",
+          "ja": "# ミニ演奏\n8小節録音：4小節が問い、4小節が答え。聴き返してチェック：\n- ポジション移動がクリア\n- 終わり方が明確\n- 本当に「問い／答え」になっているか\n固いと感じたらテンポを落としてダイナミクスを大げさに。",
+          "zh-Hans": "# 迷你演出\n录一段8小节：4小节提问，4小节回应。回听时检查：\n- 换把是否干净\n- 结尾是否清晰\n- 是否真的有“问/答”的感觉\n如果太僵硬，降速并夸大力度变化。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-23T00:06:01Z",
+  "updatedAt": "2026-03-23T00:06:01Z"
+}

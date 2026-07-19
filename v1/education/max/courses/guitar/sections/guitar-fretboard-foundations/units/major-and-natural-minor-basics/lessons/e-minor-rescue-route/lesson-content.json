@@ -1,0 +1,86 @@
+{
+  "id": "e-minor-rescue-route",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a steady pulse and imagine the fretboard as a game map. Today your mission is to guide **E natural minor** through two positions without sounding like you are just reciting a pattern.",
+          "pt-BR": "Comece com uma pulsação firme e imagine o braço como um mapa de jogo. Hoje sua missão é guiar **mi menor natural** por duas posições sem soar como se estivesse apenas recitando um desenho.",
+          "es": "Empieza con un pulso firme e imagina el mástil como un mapa de juego. Hoy tu misión es guiar **mi menor natural** por dos posiciones sin sonar como si solo repitieras un patrón.",
+          "de": "Beginne mit einem stabilen Puls und stell dir das Griffbrett wie eine Spielkarte vor. Heute ist deine Mission, **natürliches e-Moll** durch zwei Positionen zu führen, ohne wie ein bloß auswendig gelerntes Muster zu klingen.",
+          "ja": "安定した拍を作り、指板をゲームマップだと想像しよう。今日のミッションは、**Eナチュラルマイナー**を2つのポジションで導きながら、ただのパターン暗唱に聞こえないようにすることだ。",
+          "zh-Hans": "先建立稳定脉冲，把指板想成一张游戏地图。今天的任务，是让 **E自然小调** 穿过两个把位，同时避免听起来像只是在背形状。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: find **E** on the open 6th string, the 2nd fret of the 4th string, and the 5th fret of the 2nd string. Play each E, then the next two scale notes above it, and say **root, 2, b3** out loud.",
+          "pt-BR": "Aquecimento: encontre o **Mi** na 6ª corda solta, na 2ª casa da 4ª corda e na 5ª casa da 2ª corda. Toque cada Mi e depois as duas notas seguintes da escala acima dele, dizendo em voz alta **tônica, 2, b3**.",
+          "es": "Calentamiento: encuentra el **Mi** en la 6ª cuerda al aire, el 2º traste de la 4ª cuerda y el 5º traste de la 2ª cuerda. Toca cada Mi y luego las dos notas siguientes de la escala por encima, diciendo en voz alta **tónica, 2, b3**.",
+          "de": "Aufwärmen: finde das **E** auf der leeren 6. Saite, im 2. Bund der 4. Saite und im 5. Bund der 2. Saite. Spiele jedes E und dann die nächsten zwei Skalennoten darüber und sage laut **Grundton, 2, b3**.",
+          "ja": "ウォームアップ：6弦開放、4弦2フレット、2弦5フレットの **E** を探す。それぞれのEを弾いたら、その上のスケールの2音も弾き、声に出して **ルート、2、♭3** と言おう。",
+          "zh-Hans": "热身：找到6弦空弦、4弦2品和2弦5品上的 **E**。弹每一个E，再弹它上方音阶中的两个音，并大声说出 **根音、2、♭3**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Rescue route drill: in lower position, play **E-F#-G-A**, then shift and answer with **B-C-D-E**. Come back down in reverse. Use eighth notes at **76 bpm** and make the shift happen quietly.",
+          "pt-BR": "Exercício da rota de resgate: na posição grave, toque **E-F#-G-A**, depois mude de posição e responda com **B-C-D-E**. Volte descendo ao contrário. Use colcheias a **76 bpm** e faça a troca acontecer em silêncio.",
+          "es": "Ejercicio de ruta de rescate: en la posición baja toca **E-F#-G-A**, luego cambia de posición y responde con **B-C-D-E**. Vuelve descendiendo al revés. Usa corcheas a **76 bpm** y haz que el cambio sea silencioso.",
+          "de": "Rettungsrouten-Drill: spiele in der tiefen Position **E-F#-G-A**, wechsle dann die Position und antworte mit **B-C-D-E**. Spiele rückwärts wieder hinunter. Nutze Achtel bei **76 bpm** und lass den Lagenwechsel leise passieren.",
+          "ja": "レスキュールート練習：低いポジションで **E-F#-G-A** を弾き、ポジション移動して **B-C-D-E** で返す。逆順で下行して戻る。**76 bpm** の8分音符で、移動は静かに行う。",
+          "zh-Hans": "救援路线练习：在低把位弹 **E-F#-G-A**，然后换把，用 **B-C-D-E** 回应。再按反方向下行回来。用 **76 bpm** 的八分音符演奏，并让换把尽量安静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Detour challenge: on every second trip, skip one string once without breaking the scale order. If the jump feels messy, pause on the landing note for one beat and reset your picking hand.",
+          "pt-BR": "Desafio do desvio: em cada segunda volta, pule uma corda uma vez sem quebrar a ordem da escala. Se o salto ficar bagunçado, pare na nota de chegada por um tempo e reorganize a mão da palheta.",
+          "es": "Reto del desvío: en cada segunda vuelta, salta una cuerda una vez sin romper el orden de la escala. Si el salto se ensucia, detente un pulso en la nota de llegada y reajusta la mano de púa.",
+          "de": "Umleitungs-Challenge: überspringe bei jedem zweiten Durchgang einmal eine Saite, ohne die Reihenfolge der Skala zu zerstören. Wenn der Sprung unordentlich klingt, halte den Landeton einen Schlag lang und richte deine Anschlagshand neu aus.",
+          "ja": "迂回チャレンジ：2回に1回は、スケール順を崩さずに1度だけ弦を飛び越える。ジャンプが乱れたら、着地音で1拍止まり、ピッキングの手を整えよう。",
+          "zh-Hans": "绕路挑战：每第二遍都要在不打乱音阶顺序的前提下跳过一次弦。如果跳跃变乱，就在落点音上停一拍，重新整理拨弦手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Creative round: build a **2-bar mini solo**. Bar 1 must start on E and include one rest. Bar 2 must climb higher and end on either **G** or **B** so the line sounds finished but not sleepy.",
+          "pt-BR": "Rodada criativa: monte um **mini solo de 2 compassos**. O compasso 1 precisa começar em Mi e incluir uma pausa. O compasso 2 deve subir mais e terminar em **Sol** ou **Si** para soar resolvido, mas não sonolento.",
+          "es": "Ronda creativa: construye un **mini solo de 2 compases**. El compás 1 debe empezar en Mi e incluir un silencio. El compás 2 debe subir más y terminar en **Sol** o **Si** para que la frase suene resuelta, pero no dormida.",
+          "de": "Kreative Runde: baue ein **2-taktiges Mini-Solo**. Takt 1 muss auf E beginnen und eine Pause enthalten. Takt 2 soll höher steigen und auf **G** oder **B** enden, damit die Linie abgeschlossen, aber nicht schläfrig wirkt.",
+          "ja": "クリエイティブラウンド：**2小節のミニソロ**を作る。1小節目はEで始まり、1つ休符を入れる。2小節目はより高く上がり、**G** か **B** で終えて、眠くならずにまとまった感じにしよう。",
+          "zh-Hans": "创意回合：写一个 **2小节迷你独奏**。第1小节必须从E开始，并包含一个休止。第2小节要往更高处走，并结束在 **G** 或 **B**，让乐句听起来完整但不犯困。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: when you can do three clean rounds with relaxed shoulders, raise the tempo by **4 bpm**. If your timing wobbles, drop back down and make the notes sing before you make them faster.",
+          "pt-BR": "Checkpoint: quando você conseguir três voltas limpas com os ombros relaxados, aumente o andamento em **4 bpm**. Se o tempo balançar, volte um pouco e faça as notas cantarem antes de acelerá-las.",
+          "es": "Checkpoint: cuando logres tres rondas limpias con los hombros relajados, sube el tempo **4 bpm**. Si el pulso vacila, baja de nuevo y haz que las notas canten antes de acelerarlas.",
+          "de": "Checkpoint: wenn du drei saubere Durchgänge mit lockeren Schultern schaffst, erhöhe das Tempo um **4 bpm**. Wenn das Timing wackelt, geh zurück und lass die Töne erst singen, bevor du sie schneller machst.",
+          "ja": "チェックポイント：肩の力を抜いたまま3回きれいにできたら、テンポを **4 bpm** 上げる。タイミングが揺れたら少し戻して、速くする前に音をしっかり歌わせよう。",
+          "zh-Hans": "检查点：当你能在肩膀放松的状态下连续完成三轮干净演奏，就把速度提高 **4 bpm**。如果节奏开始摇晃，就先降回去，先把音弹唱出来，再追求更快。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-16T00:06:52Z",
+  "updatedAt": "2026-06-16T00:06:52Z"
+}

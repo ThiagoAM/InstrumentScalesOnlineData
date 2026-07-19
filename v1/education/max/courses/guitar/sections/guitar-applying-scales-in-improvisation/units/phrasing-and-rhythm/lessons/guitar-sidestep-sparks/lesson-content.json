@@ -1,0 +1,86 @@
+{
+  "id": "guitar-sidestep-sparks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the sidestep lab. Use the **G major scale** (G A B C D E F#) in one position you know well. Set a metronome to **82-92 BPM** and imagine every phrase is trying to dodge a boring landing without losing the groove.",
+          "pt-BR": "Bem-vindo ao laboratório dos desvios. Use a **escala de Sol maior** (G A B C D E F#) em uma posição que você já conhece bem. Ajuste o metrônomo para **82-92 BPM** e imagine que cada frase está tentando escapar de uma chegada óbvia sem perder o groove.",
+          "es": "Bienvenido al laboratorio del desvío. Usa la **escala de Sol mayor** (G A B C D E F#) en una posición que ya conozcas bien. Pon el metrónomo en **82-92 BPM** e imagina que cada frase intenta esquivar una llegada aburrida sin perder el groove.",
+          "de": "Willkommen im Ausweich-Labor. Nutze die **G-Dur-Tonleiter** (G A B C D E F#) in einer Lage, die du gut kennst. Stell das Metronom auf **82-92 BPM** und stell dir vor, jede Phrase will einer langweiligen Landung entkommen, ohne den Groove zu verlieren.",
+          "ja": "サイドステップ研究所へようこそ。**Gメジャースケール**（G A B C D E F#）を、あなたがよく知っているポジションで使いましょう。メトロノームは **82-92 BPM** に設定し、どのフレーズもグルーヴを失わずに退屈な着地を避けようとしている、と想像してください。",
+          "zh-Hans": "欢迎来到侧闪实验室。使用你熟悉把位里的 **G大调音阶**（G A B C D E F#）。把节拍器设在 **82-92 BPM**，想象每一句都在努力避开无聊的落点，同时又不能丢掉律动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **clean launch**. Play 2-bar phrases using only **quarter notes and eighth notes**. Each phrase must:\n- start on **G, B, or D**\n- include one note that feels like a brief sidestep\n- land back on a stable note before the bar ends\n\nDo 5 reps that sound intentional, not accidental.",
+          "pt-BR": "A Rodada 1 é a **partida limpa**. Toque frases de 2 compassos usando apenas **semínimas e colcheias**. Cada frase deve:\n- começar em **G, B ou D**\n- incluir uma nota que soe como um pequeno desvio\n- voltar para uma nota estável antes do fim do compasso\n\nFaça 5 repetições que soem intencionais, não acidentais.",
+          "es": "La Ronda 1 es el **despegue limpio**. Toca frases de 2 compases usando solo **negras y corcheas**. Cada frase debe:\n- empezar en **G, B o D**\n- incluir una nota que se sienta como un pequeño desvío\n- volver a una nota estable antes de que termine el compás\n\nHaz 5 repeticiones que suenen intencionales, no accidentales.",
+          "de": "Runde 1 ist der **saubere Start**. Spiele 2-taktige Phrasen nur mit **Vierteln und Achteln**. Jede Phrase muss:\n- auf **G, B oder D** beginnen\n- einen Ton enthalten, der wie ein kurzer Umweg wirkt\n- vor Taktende wieder auf einem stabilen Ton landen\n\nSpiele 5 Wiederholungen, die absichtlich und nicht zufällig klingen.",
+          "ja": "ラウンド1は **クリーンな発進** です。**4分音符と8分音符だけ** で2小節のフレーズを弾きます。各フレーズは次を満たしてください。\n- **G、B、D** のどれかで始める\n- 小さな寄り道のように感じる音を1つ入れる\n- 小節の終わりまでに安定した音へ戻る\n\n偶然ではなく意図が伝わるテイクを5回やりましょう。",
+          "zh-Hans": "第1轮是 **干净起飞**。只用 **四分音符和八分音符** 弹2小节乐句。每一句都必须：\n- 从 **G、B 或 D** 开始\n- 包含一个像短暂绕行的音\n- 在小节结束前回到稳定音上\n\n做5次听起来像有意识选择而不是意外的重复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **spark note** round. In each phrase, choose one note from **A, C, or E** and give it extra life with either:\n- a stronger accent\n- a slide\n- a tiny rhythmic delay\n\nIf the spark note sounds louder but not clearer, slow down and shape it better.",
+          "pt-BR": "A Rodada 2 é a rodada da **nota-faísca**. Em cada frase, escolha uma nota entre **A, C ou E** e dê mais vida a ela com uma destas opções:\n- um acento mais forte\n- um slide\n- um pequeno atraso rítmico\n\nSe a nota-faísca soar apenas mais alta, mas não mais clara, diminua o andamento e molde melhor.",
+          "es": "La Ronda 2 es la ronda de la **nota chispa**. En cada frase, elige una nota entre **A, C o E** y dale más vida con una de estas opciones:\n- un acento más fuerte\n- un slide\n- un pequeño retraso rítmico\n\nSi la nota chispa suena más fuerte pero no más clara, baja el tempo y dale mejor forma.",
+          "de": "Runde 2 ist die Runde des **Funken-Tons**. Wähle in jeder Phrase einen Ton aus **A, C oder E** und gib ihm extra Leben mit einer dieser Möglichkeiten:\n- einem stärkeren Akzent\n- einem Slide\n- einer kleinen rhythmischen Verzögerung\n\nWenn der Funken-Ton nur lauter, aber nicht klarer klingt, geh langsamer und forme ihn besser.",
+          "ja": "ラウンド2は **スパーク音** のラウンドです。各フレーズで **A、C、E** のどれか1音を選び、次のどれかで存在感を与えます。\n- 強めのアクセント\n- スライド\n- ほんの少しのリズムの遅らせ\n\nスパーク音が大きいだけで明確でないなら、テンポを落として形を整えましょう。",
+          "zh-Hans": "第2轮是 **火花音** 轮。每句从 **A、C 或 E** 里选一个音，用下面任意一种方式让它更有存在感：\n- 更强的重音\n- 一个滑音\n- 一个很小的节奏延后\n\n如果火花音只是更响却不更清楚，就放慢速度，把形状做得更明确。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **quick recovery** round. Purposely jump to a note that creates tension, then recover within the next 2 or 3 notes. Your recovery should feel musical, like a clever detour instead of a panic move.",
+          "pt-BR": "A Rodada 3 é a rodada da **recuperação rápida**. Salte de propósito para uma nota que crie tensão e depois recupere o controle nas 2 ou 3 notas seguintes. Sua recuperação deve soar musical, como um desvio esperto e não como um movimento de pânico.",
+          "es": "La Ronda 3 es la ronda de la **recuperación rápida**. Salta a propósito a una nota que cree tensión y luego recupérate en las siguientes 2 o 3 notas. La recuperación debe sonar musical, como un desvío inteligente y no como un movimiento de pánico.",
+          "de": "Runde 3 ist die Runde der **schnellen Erholung**. Springe absichtlich zu einem Ton, der Spannung erzeugt, und finde dann innerhalb der nächsten 2 oder 3 Töne zurück. Die Erholung soll musikalisch klingen, wie ein kluger Umweg und nicht wie Panik.",
+          "ja": "ラウンド3は **素早い立て直し** のラウンドです。あえて緊張感のある音へ跳び、その後2〜3音以内に立て直してください。立て直しは慌てた処理ではなく、気の利いた寄り道のように音楽的に聞こえるべきです。",
+          "zh-Hans": "第3轮是 **快速回正** 轮。故意跳到一个制造张力的音，然后在接下来的2到3个音内恢复平衡。这个回正要听起来像聪明的绕路，而不是慌乱补救。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: create **three different 2-bar solos** using all three ideas:\n- clear launch note\n- one spark note\n- one quick recovery\n\nBetween each solo, leave one full bar of silence and hear the next phrase in your head before you play it.",
+          "pt-BR": "Rodada chefão: crie **três solos diferentes de 2 compassos** usando as três ideias:\n- nota inicial clara\n- uma nota-faísca\n- uma recuperação rápida\n\nEntre cada solo, deixe um compasso inteiro de silêncio e ouça a próxima frase na sua cabeça antes de tocar.",
+          "es": "Ronda jefe: crea **tres solos distintos de 2 compases** usando las tres ideas:\n- nota de arranque clara\n- una nota chispa\n- una recuperación rápida\n\nEntre cada solo, deja un compás completo de silencio y escucha la siguiente frase en tu cabeza antes de tocar.",
+          "de": "Boss-Runde: Erfinde **drei verschiedene 2-taktige Soli** mit allen drei Ideen:\n- klarer Startton\n- ein Funken-Ton\n- eine schnelle Erholung\n\nLass zwischen den Soli jeweils einen ganzen Takt Stille und höre die nächste Phrase zuerst innerlich.",
+          "ja": "ボスラウンドです。次の3要素を全部入れて、**異なる2小節ソロを3つ** 作りましょう。\n- はっきりした出発音\n- スパーク音を1つ\n- 素早い立て直しを1回\n\n各ソロの間には1小節まるごと休み、次のフレーズを頭の中で先に鳴らしてから弾いてください。",
+          "zh-Hans": "Boss轮：把三种想法全部用上，创作 **3个不同的2小节独奏**：\n- 清晰的起始音\n- 一个火花音\n- 一次快速回正\n\n每个独奏之间留整整1小节空白，先在脑中听见下一句，再开始弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Debrief:\n- Which spark note gave the phrase the most personality?\n- Did my recoveries sound confident or rushed?\n- Where did I accidentally fall back into a scale exercise?\n\nFinal upgrade: move the whole challenge to **D major** and keep the same phrasing rules. If the lines still sound alive, the sparks are working. 🎸",
+          "pt-BR": "Revisão:\n- Qual nota-faísca deu mais personalidade à frase?\n- Minhas recuperações soaram confiantes ou apressadas?\n- Em que momento eu voltei sem querer a um exercício de escala?\n\nDesafio final: leve a atividade inteira para **Ré maior** e mantenha as mesmas regras de fraseado. Se as linhas continuarem vivas, as faíscas estão funcionando. 🎸",
+          "es": "Revisión:\n- ¿Qué nota chispa dio más personalidad a la frase?\n- ¿Mis recuperaciones sonaron seguras o apresuradas?\n- ¿En qué momento volví sin querer a un ejercicio de escala?\n\nMejora final: mueve todo el reto a **Re mayor** y mantén las mismas reglas de fraseo. Si las líneas siguen vivas, las chispas están funcionando. 🎸",
+          "de": "Rückblick:\n- Welcher Funken-Ton gab der Phrase am meisten Persönlichkeit?\n- Klang meine Erholung sicher oder gehetzt?\n- Wo bin ich versehentlich wieder bei einer Tonleiterübung gelandet?\n\nLetztes Upgrade: Verschiebe die ganze Aufgabe nach **D-Dur** und behalte dieselben Phrasierungsregeln. Wenn die Linien weiter lebendig klingen, funktionieren die Funken. 🎸",
+          "ja": "振り返り:\n- どのスパーク音がいちばん個性を出しましたか？\n- 立て直しは自信たっぷりでしたか、それとも急いで聞こえましたか？\n- どこでうっかりスケール練習っぽく戻ってしまいましたか？\n\n最後のアップグレード: まったく同じルールで **Dメジャー** に移してみましょう。ラインがまだ生き生きしていれば、スパークは成功です。🎸",
+          "zh-Hans": "复盘：\n- 哪个火花音最有个性？\n- 我的回正听起来是自信还是着急？\n- 我在哪一刻又不小心弹成了音阶练习？\n\n最终升级：把整个挑战移到 **D大调**，规则完全不变。如果线条依然鲜活，说明这些火花真的点亮了乐句。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-10T00:07:56Z",
+  "updatedAt": "2026-05-10T00:07:56Z"
+}

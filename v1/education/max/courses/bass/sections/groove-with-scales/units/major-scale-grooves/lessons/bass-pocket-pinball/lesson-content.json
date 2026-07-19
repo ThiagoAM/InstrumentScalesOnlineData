@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-pinball",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **G major** or **D major** and set a metronome to **90-106 BPM**. Picture your bass line as a pinball table: roots are the bumpers, ghost notes are the soft ricochets, and every strong landing should send the groove somewhere useful instead of somewhere noisy. The goal is not random motion — it is controlled bounce.",
+          "pt-BR": "Escolha **Sol maior** ou **Ré maior** e coloque o metrônomo entre **90-106 BPM**. Imagine sua linha de baixo como uma mesa de pinball: as tônicas são os bumpers, as ghost notes são os desvios suaves, e cada chegada forte deve mandar o groove para algum lugar útil, não para o caos. O objetivo não é movimento aleatório — é quique controlado.",
+          "es": "Elige **Sol mayor** o **Re mayor** y pon el metrónomo entre **90-106 BPM**. Imagina tu línea de bajo como una mesa de pinball: las tónicas son los topes, las ghost notes son los rebotes suaves y cada llegada fuerte debe enviar el groove a un lugar útil, no al ruido. La meta no es el movimiento aleatorio, sino el rebote controlado.",
+          "de": "Wähle **G-Dur** oder **D-Dur** und stelle das Metronom auf **90-106 BPM**. Stell dir deine Basslinie wie einen Flipperautomaten vor: Grundtöne sind die Bumper, Ghost Notes sind sanfte Abpraller, und jede starke Landung soll den Groove an einen sinnvollen Ort schicken statt ins Chaos. Ziel ist nicht Zufall, sondern kontrollierter Rückprall.",
+          "ja": "**Gメジャー** か **Dメジャー** を選び、メトロノームを **90-106 BPM** に設定しましょう。ベースラインをピンボール台だと想像してください。ルートはバンパー、ゴーストノートはやわらかい跳ね返り、そして強い着地はノイズではなく意味のある場所へグルーヴを送らなければなりません。目標はランダムな動きではなく、コントロールされたバウンドです。",
+          "zh-Hans": "选择 **G大调** 或 **D大调**，把节拍器设在 **90-106 BPM**。把你的贝斯线想成一张弹珠台：根音是撞板，幽灵音是柔软的反弹，每一次强力落点都应该把 groove 弹向有意义的地方，而不是弹向混乱。目标不是乱动，而是可控的反弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **bumper round**. Build a one-bar groove using root, fifth, and one passing note from the scale. Play it repeatedly until beat 1 lands like a bumper every single time. If the line starts to rush, remove notes before you raise the tempo.",
+          "pt-BR": "A Rodada 1 é a **rodada dos bumpers**. Monte um groove de um compasso usando tônica, quinta e uma nota de passagem da escala. Repita até que o tempo 1 bata como um bumper em todas as voltas. Se a linha começar a correr, tire notas antes de aumentar o andamento.",
+          "es": "La Ronda 1 es la **ronda de topes**. Construye un groove de un compás usando tónica, quinta y una nota de paso de la escala. Repítelo hasta que el tiempo 1 golpee como un tope en cada vuelta. Si la línea empieza a correr, quita notas antes de subir el tempo.",
+          "de": "Runde 1 ist die **Bumper-Runde**. Baue einen eintaktigen Groove mit Grundton, Quinte und einem Durchgangston aus der Skala. Wiederhole ihn, bis Zählzeit 1 jedes Mal wie ein Bumper trifft. Wenn die Linie zu eilen beginnt, nimm erst Noten weg, bevor du das Tempo erhöhst.",
+          "ja": "ラウンド1は **バンパーラウンド**。ルート、5度、そしてスケール内の経過音1つで1小節グルーヴを作ります。毎回1拍目がバンパーのように当たるまで繰り返しましょう。走り始めたら、テンポを上げる前にまず音数を減らしてください。",
+          "zh-Hans": "第1轮是 **撞板轮**。用根音、五度和一个音阶经过音做出一条一小节 groove。反复弹，直到每一次第1拍都像撞板一样扎实。如果开始抢拍，先减音，再提速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **ricochet round**. Keep the same groove shape, but change one detail per bar:\n- replace a note with a ghost note\n- add a short eighth-note rest\n- approach the root from above\n- approach the root from below\n- jump to the octave, then return immediately\n\nYour time feel should stay heavy even when the path gets bouncy.",
+          "pt-BR": "A Rodada 2 é a **rodada do desvio**. Mantenha o mesmo desenho de groove, mas mude um detalhe por compasso:\n- troque uma nota por uma ghost note\n- adicione uma pausa curta de colcheia\n- aproxime a tônica por cima\n- aproxime a tônica por baixo\n- salte para a oitava e volte imediatamente\n\nSeu senso de tempo precisa continuar pesado mesmo quando o caminho quica mais.",
+          "es": "La Ronda 2 es la **ronda de rebote**. Mantén la misma forma del groove, pero cambia un detalle por compás:\n- sustituye una nota por una ghost note\n- añade un silencio corto de corchea\n- llega a la tónica desde arriba\n- llega a la tónica desde abajo\n- salta a la octava y vuelve de inmediato\n\nTu sensación de tiempo debe seguir pesada aunque el camino rebote más.",
+          "de": "Runde 2 ist die **Abprall-Runde**. Behalte die gleiche Groove-Form, ändere aber pro Takt ein Detail:\n- ersetze eine Note durch eine Ghost Note\n- füge eine kurze Achtelpause ein\n- nähere dich dem Grundton von oben\n- nähere dich dem Grundton von unten\n- springe zur Oktave und kehre sofort zurück\n\nDein Zeitgefühl muss schwer und satt bleiben, auch wenn der Weg federnder wird.",
+          "ja": "ラウンド2は **跳ね返りラウンド**。同じグルーヴの形を保ったまま、各小節で1つだけ変化を入れます。\n- 1音をゴーストノートに置き換える\n- 短い8分休符を入れる\n- 上からルートへ近づく\n- 下からルートへ近づく\n- オクターブへ跳んですぐ戻る\n\n道筋が弾んでも、タイム感は重く安定していなければいけません。",
+          "zh-Hans": "第2轮是 **反弹轮**。保持同一个 groove 轮廓，但每小节换一个细节：\n- 把一个音换成幽灵音\n- 加一个短短的八分休止\n- 从上方接近根音\n- 从下方接近根音\n- 跳到八度再立刻回来\n\n就算路线更跳，你的时间感也必须依然厚实。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **multiball round**. Play four bars where bars 1 and 3 stay simple, but bars 2 and 4 get busier. The trick is making the busy bars feel like an exciting rebound, not like the whole machine broke. Strong players know how to add motion without losing authority.",
+          "pt-BR": "A Rodada 3 é a **rodada multibola**. Toque quatro compassos em que os compassos 1 e 3 ficam simples, mas os 2 e 4 ficam mais movimentados. O truque é fazer os compassos agitados soarem como um rebote empolgante, não como se a máquina tivesse quebrado. Quem toca bem sabe criar movimento sem perder autoridade.",
+          "es": "La Ronda 3 es la **ronda multibola**. Toca cuatro compases donde los compases 1 y 3 se mantengan simples, pero los 2 y 4 estén más cargados. El truco es que esos compases activos suenen como un rebote emocionante y no como si la máquina se rompiera. Los buenos bajistas añaden movimiento sin perder autoridad.",
+          "de": "Runde 3 ist die **Multiball-Runde**. Spiele vier Takte, in denen Takt 1 und 3 simpel bleiben, Takt 2 und 4 aber belebter sind. Der Trick ist, dass die vollen Takte wie ein spannender Rückpraller klingen und nicht wie ein kaputter Automat. Gute Spieler erzeugen Bewegung, ohne Autorität zu verlieren.",
+          "ja": "ラウンド3は **マルチボールラウンド**。4小節弾き、1小節目と3小節目はシンプルに、2小節目と4小節目は少し忙しくします。大切なのは、忙しい小節が「台が壊れた感じ」ではなく「気持ちいい跳ね返り」に聞こえることです。良いベーシストは、威力を失わずに動きを足せます。",
+          "zh-Hans": "第3轮是 **多球轮**。弹四小节，其中第1和第3小节保持简单，第2和第4小节更忙一点。关键是让这些忙碌的小节听起来像精彩反弹，而不是整台机器失控。真正强的演奏者，能增加运动感，却不丢权威感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: create **two four-bar grooves** in the same key. One should feel dry and stubborn; the other should feel springy and playful. Both must include a ghost note, one rest, and one clear return to the root on a strong beat. Then ask:\n- Which version kept the deepest pocket?\n- Did the ghost note add direction or just decoration?\n- Could I bounce around without sounding unfocused?\n\nWhen a bass line really grooves, every rebound tells the listener, “Relax — I know exactly where beat 1 lives.” 🎸",
+          "pt-BR": "Desafio final: crie **dois grooves de quatro compassos** na mesma tonalidade. Um deve soar seco e teimoso; o outro, elástico e brincalhão. Os dois precisam incluir uma ghost note, uma pausa e um retorno claro à tônica em um tempo forte. Depois pergunte:\n- Qual versão manteve o pocket mais fundo?\n- A ghost note deu direção ou só enfeite?\n- Consegui quicar sem soar perdido?\n\nQuando uma linha de baixo realmente grooveia, cada rebote diz ao ouvinte: “Relaxa — eu sei exatamente onde mora o tempo 1.” 🎸",
+          "es": "Desafío final: crea **dos grooves de cuatro compases** en la misma tonalidad. Uno debe sonar seco y terco; el otro, elástico y juguetón. Ambos deben incluir una ghost note, un silencio y un regreso claro a la tónica en un pulso fuerte. Luego pregúntate:\n- ¿Qué versión mantuvo el pocket más profundo?\n- ¿La ghost note dio dirección o solo adorno?\n- ¿Pude rebotar sin sonar desenfocado?\n\nCuando una línea de bajo groovea de verdad, cada rebote le dice al oyente: “Tranquilo — sé exactamente dónde vive el tiempo 1.” 🎸",
+          "de": "Abschluss-Challenge: Erfinde **zwei Vier-Takt-Grooves** in derselben Tonart. Einer soll trocken und stur wirken, der andere federnd und verspielt. Beide brauchen eine Ghost Note, eine Pause und eine klare Rückkehr zum Grundton auf einer starken Zählzeit. Frag dich dann:\n- Welche Version hatte das tiefere Pocket?\n- Hat die Ghost Note Richtung gegeben oder nur dekoriert?\n- Konnte ich springen, ohne unkonzentriert zu klingen?\n\nWenn eine Basslinie wirklich groovt, sagt jeder Abpraller zum Hörer: „Entspann dich — ich weiß genau, wo die Eins wohnt.“ 🎸",
+          "ja": "最後のチャレンジは **同じキーで4小節グルーヴを2つ作ること**。1つは乾いて頑固、もう1つは弾力があって遊び心のある感じにしましょう。どちらにも、ゴーストノート1回、休符1回、強拍での明確なルート帰還1回が必要です。終わったらこう確認します。\n- どちらがいちばん深いポケットを保てたか？\n- ゴーストノートは方向を作ったか、それとも飾りだったか？\n- 跳ね回っても散漫に聞こえなかったか？\n\n本当にグルーヴするベースラインは、跳ね返るたびに「安心して。1拍目の場所はちゃんとわかってる」と聴き手に伝えます。 🎸",
+          "zh-Hans": "最终挑战：在同一个调里做 **两条四小节 groove**。一条要干、硬、倔；另一条要弹、活、好玩。两条都必须包含一个幽灵音、一次休止，以及一次在强拍上明确回到根音。然后问自己：\n- 哪一条把 pocket 守得最深？\n- 幽灵音是给了方向，还是只是装饰？\n- 我能不能弹得很跳，却又不显得散？\n\n当一条贝斯线真的 groove 起来时，每一次反弹都在告诉听众：“放心，我很清楚第1拍住在哪里。” 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-17T00:08:45Z",
+  "updatedAt": "2026-05-17T00:08:45Z"
+}

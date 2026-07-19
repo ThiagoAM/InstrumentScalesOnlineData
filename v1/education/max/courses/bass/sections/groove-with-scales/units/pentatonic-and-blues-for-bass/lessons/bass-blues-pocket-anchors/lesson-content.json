@@ -1,0 +1,86 @@
+{
+  "id": "bass-blues-pocket-anchors",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose the A blues scale (A–C–D–E♭–E–G). Set a drum loop or metronome at 80–100 bpm.",
+          "pt-BR": "Escolha a escala blues de Lá (A–C–D–E♭–E–G). Use um loop de bateria ou metrônomo em 80–100 bpm.",
+          "es": "Elige la escala blues de La (A–C–D–E♭–E–G). Usa un loop de batería o metrónomo a 80–100 bpm.",
+          "de": "Wähle die A‑Blues‑Skala (A–C–D–E♭–E–G). Starte einen Drum‑Loop oder ein Metronom bei 80–100 bpm.",
+          "ja": "Aブルーススケール（A–C–D–E♭–E–G）を選ぶ。80〜100 bpmのドラムループかメトロノームで開始。",
+          "zh-Hans": "选择A蓝调音阶（A–C–D–E♭–E–G）。设置80–100 bpm的鼓机或节拍器。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a one‑bar groove: hit A on beat 1, G on the “&” of 2, A on beat 3, and rest on beat 4.",
+          "pt-BR": "Crie um groove de um compasso: toque A no tempo 1, G no “e” do 2, A no tempo 3 e descanse no tempo 4.",
+          "es": "Crea un groove de un compás: toca A en el tiempo 1, G en el “y” del 2, A en el tiempo 3 y descansa en el tiempo 4.",
+          "de": "Baue einen Ein‑Takt‑Groove: A auf Zählzeit 1, G auf das „und“ von 2, A auf Zählzeit 3, Pause auf 4.",
+          "ja": "1小節のグルーヴを作る：1拍目にA、2拍目の「と」にG、3拍目にA、4拍目は休符。",
+          "zh-Hans": "做一个一小节律动：1拍弹A，2拍“和”弹G，3拍弹A，4拍休止。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add color: ghost the E♭ or D on an upbeat before a strong beat, then land cleanly.",
+          "pt-BR": "Adicione cor: faça um ghost de E♭ ou D no contratempo antes de um tempo forte e caia limpo.",
+          "es": "Agrega color: mete un ghost de E♭ o D en un contratiempo antes de un tiempo fuerte y cae limpio.",
+          "de": "Farbe dazu: ghoste E♭ oder D auf einem Offbeat vor einer starken Zählzeit und lande sauber.",
+          "ja": "色付け：強拍の前のオフビートにE♭かDをゴーストで入れて、きれいに着地。",
+          "zh-Hans": "加点颜色：在强拍前的离拍用E♭或D做轻幽灵音，然后干净落地。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Make it two bars: bar 1 stays steady, bar 2 adds a 3–4 note fill that resolves to A on beat 1.",
+          "pt-BR": "Transforme em dois compassos: o compasso 1 fica estável, o compasso 2 ganha um fill de 3–4 notas que resolve em A no tempo 1.",
+          "es": "Llévalo a dos compases: el compás 1 queda estable, el compás 2 añade un fill de 3–4 notas que resuelve en A en el tiempo 1.",
+          "de": "Mach zwei Takte daraus: Takt 1 bleibt stabil, Takt 2 bekommt ein 3–4‑Noten‑Fill, das auf A auf Zählzeit 1 auflöst.",
+          "ja": "2小節に拡張：1小節目は安定、2小節目は3〜4音のフィルを入れて1拍目のAに解決。",
+          "zh-Hans": "扩展到两小节：第1小节稳定，第2小节加入3–4音的小填充，并在1拍的A上收尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Move the same rhythm to E or D while keeping the pocket unchanged.",
+          "pt-BR": "Leve o mesmo ritmo para E ou D mantendo o pocket igual.",
+          "es": "Mueve el mismo ritmo a E o D manteniendo el pocket igual.",
+          "de": "Verschiebe denselben Rhythmus nach E oder D und halte das Pocket unverändert.",
+          "ja": "同じリズムをEやDに移してもポケットは変えない。",
+          "zh-Hans": "把同样的节奏移到E或D上，保持口袋不变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Check yourself: mute unused strings, keep notes even, and record one clean take to review.",
+          "pt-BR": "Cheque: abafe cordas soltas, mantenha as notas uniformes e grave um take limpo para revisar.",
+          "es": "Revisa: silencia cuerdas sueltas, mantén las notas parejas y graba una toma limpia para escuchar.",
+          "de": "Check: dämpfe ungenutzte Saiten, halte die Noten gleichmäßig und nimm einen sauberen Take auf.",
+          "ja": "チェック：不要弦をミュートし、音の粒をそろえ、クリーンなテイクを録音して確認。",
+          "zh-Hans": "自检：闷住不用的弦，音符要均匀，录一遍干净的take回听。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-05T00:07:10Z",
+  "updatedAt": "2026-04-05T00:07:10Z"
+}

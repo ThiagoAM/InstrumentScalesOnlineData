@@ -1,0 +1,73 @@
+{
+  "id": "rhythm-dice-scale-phrases",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Grab **A minor pentatonic (box 1)** and set a metronome to **90 bpm**. Play clean, relaxed, and clap the pulse for 4 bars before you start.",
+          "pt-BR": "Pegue a **pentatônica menor de Lá (box 1)** e ajuste o metrônomo para **90 bpm**. Toque com som limpo e relaxado, e bata palmas no pulso por 4 compassos antes de começar.",
+          "es": "Toma la **pentatónica menor de La (box 1)** y pon el metrónomo en **90 bpm**. Toca limpio y relajado, y marca el pulso con palmas durante 4 compases antes de empezar.",
+          "de": "Nimm die **A‑Moll‑Pentatonik (Box 1)** und stell das Metronom auf **90 bpm**. Spiele clean und entspannt und klatsche den Puls für 4 Takte, bevor du startest.",
+          "ja": "**Aマイナー・ペンタトニック（ボックス1）**を使い、メトロノームを**90 bpm**に設定。クリーンでリラックスした音で弾き、始める前に4小節手拍子で拍を確認しよう。",
+          "zh-Hans": "使用**A小调五声音阶（Box 1）**，把节拍器设为**90 bpm**。音色干净放松，开始前先拍手打拍4小节。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Assign a die to rhythm values: **1=rest**, **2=quarter**, **3=two eighths**, **4=triplet**, **5=four sixteenths**, **6=half note**. Roll **4 times** to build a one‑bar rhythm.",
+          "pt-BR": "Associe o dado aos valores rítmicos: **1=pausa**, **2=semínima**, **3=duas colcheias**, **4=tercina**, **5=quatro semicolcheias**, **6=mínima**. Jogue **4 vezes** para montar um compasso.",
+          "es": "Asigna el dado a valores rítmicos: **1=silencio**, **2=negra**, **3=dos corcheas**, **4=tresillo**, **5=cuatro semicorcheas**, **6=blanca**. Lanza **4 veces** para armar un compás.",
+          "de": "Weise dem Würfel Rhythmen zu: **1=Pause**, **2=Viertel**, **3=zwei Achtel**, **4=Triolen**, **5=vier Sechzehntel**, **6=Halbe**. Würfle **4‑mal** für einen Takt.",
+          "ja": "サイコロにリズムを割り当てます：**1=休符**、**2=四分音符**、**3=八分音符2つ**、**4=三連符**、**5=16分音符4つ**、**6=二分音符**。**4回**振って1小節のリズムを作ります。",
+          "zh-Hans": "把骰子点数对应到节奏：**1=休止**、**2=四分音符**、**3=两个八分音符**、**4=三连音**、**5=四个十六分音符**、**6=二分音符**。掷**4次**组成一小节的节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play the rhythm on a **single note** first. Then repeat it using scale notes, moving **up 3–5 notes** each time. Keep your picking tight.",
+          "pt-BR": "Toque o ritmo em **uma nota só** primeiro. Depois repita usando notas da escala, subindo **3–5 notas** a cada vez. Mantenha a palhetada firme.",
+          "es": "Toca el ritmo en **una sola nota** primero. Luego repítelo usando notas de la escala, subiendo **3–5 notas** cada vez. Mantén la púa firme.",
+          "de": "Spiele den Rhythmus zuerst auf **einem Ton**. Wiederhole ihn dann mit Skalentönen und bewege dich jeweils **3–5 Töne** nach oben. Halte den Anschlag präzise.",
+          "ja": "まず**1音だけ**でリズムを演奏。次にスケール音で繰り返し、毎回**3〜5音**ずつ上に動かします。ピッキングはタイトに。",
+          "zh-Hans": "先在**单音**上演奏节奏。再用音阶音重复，每次向上移动**3–5个音**。拨弦要紧。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Call/response:** play the bar as a question, then answer with the **same rhythm** starting on a different scale degree. Add **one bend or slide** in the answer.",
+          "pt-BR": "**Pergunta/resposta:** toque o compasso como pergunta e responda com o **mesmo ritmo** começando em outro grau da escala. Coloque **um bend ou slide** na resposta.",
+          "es": "**Pregunta/respuesta:** toca el compás como pregunta y responde con el **mismo ritmo** empezando en otro grado de la escala. Agrega **un bend o un slide** en la respuesta.",
+          "de": "**Frage/Antwort:** spiele den Takt als Frage und antworte mit **demselben Rhythmus**, beginnend auf einer anderen Stufe. Baue **einen Bend oder Slide** in die Antwort ein.",
+          "ja": "**コール＆レスポンス：** 小節を問いとして弾き、別の度数から**同じリズム**で答えます。答えに**ベンドかスライド**を1回入れよう。",
+          "zh-Hans": "**问答练习：** 先把这小节当作“提问”，再用**相同节奏**从另一个级数开始作答。回答里加入**一次推弦或滑音**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Challenge:** loop 8 bars. Every 2 bars, re‑roll the rhythm. Record yourself and circle the bar that felt most musical.",
+          "pt-BR": "**Desafio:** faça um loop de 8 compassos. A cada 2 compassos, role o dado de novo. Grave e destaque o compasso mais musical.",
+          "es": "**Desafío:** haz un loop de 8 compases. Cada 2 compases, vuelve a tirar los dados. Grábate y marca el compás que sonó más musical.",
+          "de": "**Challenge:** Lope 8 Takte. Alle 2 Takte würfelst du neu. Nimm dich auf und markiere den musikalischsten Takt.",
+          "ja": "**チャレンジ：** 8小節ループ。2小節ごとにリズムを振り直す。録音して一番音楽的だった小節に印を付けよう。",
+          "zh-Hans": "**挑战：** 循环8小节。每2小节重新掷骰子。录音并标出最有音乐感的一小节。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-28T00:05:42Z",
+  "updatedAt": "2026-03-28T00:05:42Z"
+}

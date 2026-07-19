@@ -1,0 +1,99 @@
+{
+  "id": "piano-touch-dominoes",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today your piano scale is a line of dominoes. Use **G major** for **8 to 10 minutes** at **72-88 BPM** in even eighth notes. Each touch change should tip the next one over without breaking the line, so the scale keeps flowing while the color keeps changing.",
+          "pt-BR": "Hoje sua escala no piano é uma fila de dominós. Use **Sol maior** por **8 a 10 minutos** entre **72-88 BPM** com colcheias regulares. Cada mudança de toque deve derrubar a próxima sem quebrar a linha, para que a escala continue fluindo enquanto a cor do som muda.",
+          "es": "Hoy tu escala de piano es una fila de dominós. Usa **Sol mayor** durante **8 a 10 minutos** entre **72-88 BPM** con corcheas regulares. Cada cambio de toque debe empujar al siguiente sin romper la línea, para que la escala siga fluyendo mientras cambia el color del sonido.",
+          "de": "Heute ist deine Klavierskala eine Reihe von Dominos. Arbeite **8 bis 10 Minuten** in **G-Dur** bei **72-88 BPM** in gleichmäßigen Achteln. Jeder Anschlagswechsel soll den nächsten anstoßen, ohne die Linie zu zerbrechen, sodass die Skala weiterfließt, während sich die Klangfarbe verändert.",
+          "ja": "今日のピアノスケールはドミノの列です。**Gメジャー** を **8〜10分**、均等な8分音符で **72-88 BPM** で練習しましょう。タッチの変化が次の変化を倒していくように連鎖し、線を切らずに音色だけが変わり続けるのが目標です。",
+          "zh-Hans": "今天你的钢琴音阶是一排多米诺。请用 **G大调** 练 **8 到 10 分钟**，以均匀八分音符在 **72-88 BPM** 之间进行。每一次触键变化都应该顺势推倒下一次，而不打断线条，让音阶持续流动，同时声音颜色不断改变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a **two-octave scale loop** hands together. Then assign three touch modes:\n- **legato** = smooth domino\n- **light staccato** = bouncing domino\n- **tenuto** = heavy domino\n\nKeep the fingering stable. The game is about touch control, not finger chaos.",
+          "pt-BR": "Monte um **loop de escala em duas oitavas** com as duas mãos juntas. Depois defina três modos de toque:\n- **legato** = dominó suave\n- **staccato leve** = dominó saltitante\n- **tenuto** = dominó pesado\n\nMantenha o dedilhado estável. O jogo é sobre controle de toque, não sobre caos nos dedos.",
+          "es": "Construye un **bucle de escala de dos octavas** con manos juntas. Luego asigna tres modos de toque:\n- **legato** = dominó suave\n- **staccato ligero** = dominó rebotador\n- **tenuto** = dominó pesado\n\nMantén la digitación estable. El juego trata de control del toque, no de caos en los dedos.",
+          "de": "Baue einen **Zwei-Oktaven-Skalenloop** mit beiden Händen zusammen. Weise dann drei Anschlagsarten zu:\n- **legato** = sanfter Domino\n- **leichtes staccato** = springender Domino\n- **tenuto** = schwerer Domino\n\nHalte den Fingersatz stabil. Das Spiel geht um Anschlagskontrolle, nicht um Fingerchaos.",
+          "ja": "**両手で2オクターブのスケール・ループ** を作り、次の3つのタッチを割り当てます。\n- **レガート** = なめらかなドミノ\n- **軽いスタッカート** = 跳ねるドミノ\n- **テヌート** = 重いドミノ\n\n運指は安定させましょう。ゲームの主題はタッチのコントロールであって、指の混乱ではありません。",
+          "zh-Hans": "先建立一个 **双手两八度音阶循环**，然后分配三种触键模式：\n- **连奏** = 顺滑多米诺\n- **轻断奏** = 弹跳多米诺\n- **保持音 tenuto** = 厚重多米诺\n\n保持指法稳定。这个游戏练的是触键控制，不是手指混乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **single domino** round. Play one octave in only one touch mode, then switch for the next octave. Do not let the volume jump just because the touch changed. Your hands should sound coordinated, not negotiated.",
+          "pt-BR": "A Rodada 1 é a rodada do **dominó único**. Toque uma oitava usando apenas um modo de toque e troque no começo da oitava seguinte. Não deixe o volume pular só porque o toque mudou. Suas mãos devem soar coordenadas, não negociadas.",
+          "es": "La Ronda 1 es la del **dominó único**. Toca una octava con un solo modo de toque y cambia al comenzar la octava siguiente. No permitas que el volumen salte solo porque cambió el toque. Tus manos deben sonar coordinadas, no negociadas.",
+          "de": "Runde 1 ist die Runde des **einzelnen Dominos**. Spiele eine Oktave nur in einer Anschlagsart und wechsle erst in der nächsten Oktave. Die Lautstärke darf nicht springen, nur weil sich der Anschlag ändert. Deine Hände sollen koordiniert klingen, nicht ausgehandelt.",
+          "ja": "ラウンド1は **シングル・ドミノ** です。1オクターブを1種類のタッチだけで弾き、次のオクターブで切り替えます。タッチが変わっただけで音量が跳ねないようにしてください。両手は交渉中ではなく、協調して聞こえるべきです。",
+          "zh-Hans": "第1轮是 **单个多米诺**。先用一种触键弹完一个八度，再在下一个八度切换。不要因为触键变了就让音量突然跳出来。双手听起来应该是协调，而不是在谈判。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **alternating chain**. Change touch every **4 notes** while keeping the tempo frozen. If one hand switches late, stop judging and shrink the loop to 4 notes until both hands flip together.",
+          "pt-BR": "A Rodada 2 é a **corrente alternada**. Mude o toque a cada **4 notas** mantendo o andamento congelado. Se uma mão trocar atrasada, pare de julgar e reduza o loop para 4 notas até que as duas mudem juntas.",
+          "es": "La Ronda 2 es la **cadena alterna**. Cambia el toque cada **4 notas** manteniendo el tempo congelado. Si una mano cambia tarde, deja de juzgar y reduce el bucle a 4 notas hasta que ambas cambien juntas.",
+          "de": "Runde 2 ist die **Wechselkette**. Wechsle den Anschlag alle **4 Töne**, während das Tempo eingefroren bleibt. Wenn eine Hand zu spät umschaltet, hör auf zu urteilen und verkürze den Loop auf 4 Töne, bis beide Hände gemeinsam wechseln.",
+          "ja": "ラウンド2は **交互チェーン** です。テンポを固定したまま **4音ごと** にタッチを変えます。片手が遅れたら、自分を責めず、4音ループまで縮めて両手が同時に切り替わるまで続けましょう。",
+          "zh-Hans": "第2轮是 **交替链条**。在速度完全固定的前提下，每 **4个音** 换一次触键。如果某只手换晚了，别批评自己，把循环缩成4个音，直到双手能一起翻转。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **surprise domino**. Ask yourself to change touch at one planned spot and one unplanned spot in the same run. The goal is to stay relaxed enough that surprise does not cause a technical wobble.",
+          "pt-BR": "A Rodada 3 é o **dominó surpresa**. Programe uma troca de toque em um ponto planejado e outra em um ponto inesperado dentro da mesma passada. O objetivo é ficar relaxado o bastante para que a surpresa não cause instabilidade técnica.",
+          "es": "La Ronda 3 es el **dominó sorpresa**. Planifica un cambio de toque en un punto previsto y otro en un punto inesperado dentro de la misma pasada. El objetivo es mantenerte lo bastante relajado para que la sorpresa no provoque un tambaleo técnico.",
+          "de": "Runde 3 ist der **Überraschungs-Domino**. Plane einen Anschlagswechsel an einer festen Stelle und einen zweiten an einer ungeplanten Stelle im selben Durchgang. Das Ziel ist, entspannt genug zu bleiben, damit die Überraschung kein technisches Wackeln auslöst.",
+          "ja": "ラウンド3は **サプライズ・ドミノ** です。1回の走行の中で、計画した地点で1回、予想外の地点で1回、タッチを変えてください。驚きがテクニックのぐらつきに変わらないくらい、力まずに保つのが目標です。",
+          "zh-Hans": "第3轮是 **惊喜多米诺**。在同一次音阶里，安排一个预先计划的触键变化，再加一个临时插入的变化。目标是放松到足以让“惊喜”不引发技术摇晃。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: play **three full passes** of the scale where each pass uses all three touch modes in a different order. After each pass, rate:\n- evenness\n- tone control\n- how quickly both hands agreed on the new touch",
+          "pt-BR": "Rodada chefão: toque **três voltas completas** da escala em que cada volta use os três modos de toque em uma ordem diferente. Depois de cada volta, avalie:\n- uniformidade\n- controle de timbre\n- quão rápido as duas mãos concordaram com o novo toque",
+          "es": "Ronda jefe: toca **tres recorridos completos** de la escala donde cada uno use los tres modos de toque en un orden distinto. Después de cada recorrido evalúa:\n- uniformidad\n- control del sonido\n- qué tan rápido ambas manos aceptaron el nuevo toque",
+          "de": "Boss-Runde: Spiele **drei vollständige Durchgänge** der Skala, wobei jeder Durchgang alle drei Anschlagsarten in einer anderen Reihenfolge verwendet. Bewerte danach jedes Mal:\n- Gleichmäßigkeit\n- Klangkontrolle\n- wie schnell sich beide Hände auf den neuen Anschlag geeinigt haben",
+          "ja": "ボスラウンド: **スケールを3回フルで通し**、毎回3つのタッチを違う順番で使います。各回のあとで次を評価してください。\n- 均一さ\n- 音色コントロール\n- 新しいタッチに両手がどれだけ早く合意したか",
+          "zh-Hans": "Boss轮：把整条音阶 **完整弹3遍**，每一遍都以不同顺序使用这三种触键。每遍之后，给自己评估：\n- 均匀度\n- 音色控制\n- 双手对新触键达成一致的速度"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Debrief:\n- Which touch change was easiest to hide inside the line?\n- Which switch exposed tension in my wrists or fingers?\n- Did the scale still sound musical, or only organized?\n\nFinal upgrade: move the same domino game to **E minor** and keep the tempo steady. If the line still flows through every switch, your touch control is leveling up. 🎹",
+          "pt-BR": "Revisão:\n- Qual mudança de toque foi mais fácil de esconder dentro da linha?\n- Qual troca revelou tensão nos punhos ou nos dedos?\n- A escala continuou musical ou só organizada?\n\nDesafio final: leve o mesmo jogo de dominós para **Mi menor** e mantenha o andamento estável. Se a linha continuar fluindo por todas as trocas, seu controle de toque está subindo de nível. 🎹",
+          "es": "Revisión:\n- ¿Qué cambio de toque fue más fácil de esconder dentro de la línea?\n- ¿Qué cambio reveló tensión en muñecas o dedos?\n- ¿La escala siguió sonando musical o solo organizada?\n\nMejora final: lleva el mismo juego de dominós a **Mi menor** y mantén el tempo estable. Si la línea sigue fluyendo a través de cada cambio, tu control del toque está subiendo de nivel. 🎹",
+          "de": "Rückblick:\n- Welcher Anschlagswechsel ließ sich am leichtesten in der Linie verstecken?\n- Welcher Wechsel zeigte Spannung in Handgelenken oder Fingern?\n- Klang die Skala noch musikalisch oder nur organisiert?\n\nLetztes Upgrade: Übertrage dasselbe Domino-Spiel nach **E-Moll** und halte das Tempo stabil. Wenn die Linie durch jeden Wechsel weiterfließt, steigt deine Anschlagskontrolle wirklich auf. 🎹",
+          "ja": "振り返り:\n- どのタッチ変更がいちばん自然に線の中へ隠れましたか？\n- どの切り替えで手首や指の緊張が表れましたか？\n- スケールはまだ音楽的でしたか、それとも整理されているだけでしたか？\n\n最後のアップグレード: 同じドミノゲームを **Eマイナー** に移し、テンポを安定させましょう。すべての切り替えを通して線が流れ続けるなら、あなたのタッチコントロールは確実にレベルアップしています。🎹",
+          "zh-Hans": "复盘：\n- 哪种触键变化最容易藏在线条里？\n- 哪次切换暴露了手腕或手指的紧张？\n- 这条音阶听起来仍然有音乐性，还是只是很整齐？\n\n最终升级：把同样的多米诺游戏移到 **E小调**，并保持速度稳定。如果线条在每次切换中都还能继续流动，你的触键控制就真的升级了。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-12T00:10:46Z",
+  "updatedAt": "2026-05-12T00:10:46Z"
+}

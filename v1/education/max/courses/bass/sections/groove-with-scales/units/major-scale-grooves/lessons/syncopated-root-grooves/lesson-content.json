@@ -1,0 +1,73 @@
+{
+  "id": "syncopated-root-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set metronome to 80 bpm. In G major, play roots on beat 1 and the “and” of 2, leaving space elsewhere. Keep the groove steady.",
+          "pt-BR": "Ajuste o metrônomo para 80 bpm. Em Sol maior, toque as fundamentais no tempo 1 e no “e” do 2, deixando espaço no resto. Mantenha o groove estável.",
+          "es": "Pon el metrónomo a 80 bpm. En Sol mayor, toca las fundamentales en el tiempo 1 y en el “y” del 2, dejando espacio en el resto. Mantén el groove estable.",
+          "de": "Stelle das Metronom auf 80 bpm. In G‑Dur spiele die Grundtöne auf Zählzeit 1 und auf dem „und“ von 2, sonst lässt du Platz. Halte den Groove stabil.",
+          "ja": "メトロノームを80 bpmに設定。Gメジャーで、1拍目と2拍目の「&」にルートを弾き、他はスペースを空ける。グルーヴを安定させる。",
+          "zh-Hans": "将节拍器设为80 bpm。在G大调中，根音落在第1拍和第2拍的“&”上，其余位置留空。保持稳定律动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add approach notes from the scale: one step below the next root (e.g., F# to G). Keep the rhythm from block 1.",
+          "pt-BR": "Adicione notas de aproximação da escala: um grau abaixo da próxima fundamental (ex.: F# para G). Mantenha o mesmo ritmo do bloco 1.",
+          "es": "Añade notas de aproximación de la escala: un grado por debajo de la siguiente fundamental (p. ej., F# a G). Mantén el ritmo del bloque 1.",
+          "de": "Füge Annäherungstöne aus der Skala hinzu: einen Ton unter dem nächsten Grundton (z. B. F# zu G). Behalte den Rhythmus aus Block 1.",
+          "ja": "スケールのアプローチノートを追加する。次のルートの半音/全音下（例: F#→G）を入れる。リズムはブロック1のまま。",
+          "zh-Hans": "加入音阶趋近音：在下一个根音前用低一级音（如F#到G）。节奏保持与第1块相同。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add muted ghost notes on the remaining offbeats. Use light left-hand mute so they stay percussive.",
+          "pt-BR": "Inclua ghost notes abafadas nos demais contratempos. Use a mão esquerda para abafar e manter o som percussivo.",
+          "es": "Agrega ghost notes apagadas en los demás contratiempos. Usa la mano izquierda para amortiguar y que suenen percusivas.",
+          "de": "Setze gedämpfte Ghost Notes auf die übrigen Offbeats. Dämpfe leicht mit der linken Hand, damit sie perkussiv bleiben.",
+          "ja": "残りのオフビートにミュートしたゴーストノートを入れる。左手で軽くミュートしてパーカッシブに。",
+          "zh-Hans": "在其余弱拍加入闷音的幽灵音，用左手轻轻闷弦让其更有打击感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Apply it to a 12‑bar G blues (G7–C7–D7). Outline each chord with its root, and use scale approach notes into every change.",
+          "pt-BR": "Aplique em um blues de 12 compassos em G (G7–C7–D7). Destaque cada acorde pela fundamental e use notas de aproximação em cada mudança.",
+          "es": "Aplícalo a un blues de 12 compases en G (G7–C7–D7). Marca cada acorde con su fundamental y usa notas de aproximación en cada cambio.",
+          "de": "Übertrage es auf einen 12‑taktigen G‑Blues (G7–C7–D7). Markiere jeden Akkord mit seinem Grundton und nutze Annäherungstöne in jede Wechselstelle.",
+          "ja": "Gの12小節ブルース（G7–C7–D7）で適用。各コードのルートを示し、変わり目にアプローチノートを使う。",
+          "zh-Hans": "应用到G调12小节蓝调（G7–C7–D7）。用根音勾勒每个和弦，并在每次和声变化前加入趋近音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: write four 1‑bar groove variations and cycle them. Record and choose the grooviest.",
+          "pt-BR": "Desafio: crie quatro variações de 1 compasso e faça um ciclo. Grave e escolha o groove mais forte.",
+          "es": "Reto: crea cuatro variaciones de 1 compás y cíclalas. Graba y elige el groove más sólido.",
+          "de": "Challenge: Schreibe vier 1‑Takt‑Groove‑Variationen und rotiere sie. Nimm auf und wähle den groovigsten.",
+          "ja": "チャレンジ：1小節のバリエーションを4つ作って循環させる。録音して一番グルーヴするものを選ぶ。",
+          "zh-Hans": "挑战：写出4个一小节的律动变体并循环。录音后选出最有律动感的版本。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-27T00:08:22Z",
+  "updatedAt": "2026-03-27T00:08:22Z"
+}

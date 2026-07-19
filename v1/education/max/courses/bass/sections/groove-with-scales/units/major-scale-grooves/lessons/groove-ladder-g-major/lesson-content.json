@@ -1,0 +1,60 @@
+{
+  "id": "groove-ladder-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a two‑octave G major scale starting on the 3rd‑fret E string. Alternate index/middle and keep clean muting.",
+          "pt-BR": "Prepare a escala de Sol maior em duas oitavas começando na 3ª casa da corda Mi. Alterne indicador/médio e mute bem.",
+          "es": "Prepara la escala de Sol mayor a dos octavas comenzando en el 3er traste de la cuerda Mi. Alterna índice/medio y mutea bien.",
+          "de": "Richte eine zweioctavige G‑Dur‑Skala ein, startend am 3. Bund der E‑Saite. Wechsle Zeige/Mittel und mute sauber.",
+          "ja": "E弦3フレット始まりのGメジャー2オクターブを準備。人差し指/中指の交互とミュートを意識。",
+          "zh-Hans": "准备从E弦3品开始的G大调两组音阶。食指/中指交替，注意干净的闷音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove cell: play | G–D–E–D | (1–5–6–5) as steady 8ths. Loop it for 8 bars at 80 BPM.",
+          "pt-BR": "Célula de groove: toque | Sol–Ré–Mi–Ré | (1–5–6–5) em colcheias constantes. Repita por 8 compassos a 80 BPM.",
+          "es": "Célula de groove: toca | Sol–Re–Mi–Re | (1–5–6–5) en corcheas constantes. Repite 8 compases a 80 BPM.",
+          "de": "Groove‑Zelle: spiele | G–D–E–D | (1–5–6–5) als gleichmäßige Achtel. Wiederhole 8 Takte bei 80 BPM.",
+          "ja": "グルーヴセル：| G–D–E–D |（1–5–6–5）を8分音符で一定に。80 BPMで8小節ループ。",
+          "zh-Hans": "律动单元：| G–D–E–D |（1–5–6–5）用稳定的八分音符演奏。80 BPM循环8小节。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Tempo ladder: if you nail 3 loops in a row, add +5 BPM. If it gets messy, drop 5 BPM and lock it in. Add a light ghost note on beat 4.",
+          "pt-BR": "Escada de tempo: se acertar 3 voltas seguidas, aumente +5 BPM. Se embolar, volte 5 BPM e firme. Adicione uma ghost note leve no tempo 4.",
+          "es": "Escalera de tempo: si clavas 3 vueltas seguidas, suma +5 BPM. Si se ensucia, baja 5 BPM y afirma. Añade una ghost note ligera en el tiempo 4.",
+          "de": "Tempo‑Leiter: wenn 3 Runden sauber sitzen, +5 BPM. Wenn es wackelt, 5 BPM runter und festigen. Füge eine leichte Ghost‑Note auf Zählzeit 4 hinzu.",
+          "ja": "テンポ階段：3周連続でクリーンなら+5 BPM。乱れたら5 BPM下げて固める。4拍目に軽いゴーストノートを追加。",
+          "zh-Hans": "速度阶梯：连续3轮干净就+5 BPM。乱了就降5 BPM并稳住。第4拍加一个轻的幽灵音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Check‑in: record 30 seconds. Listen for even tone and time. Write your top clean tempo and aim for +5 BPM next session.",
+          "pt-BR": "Check‑in: grave 30 segundos. Ouça o timbre e o tempo. Anote o maior BPM limpo e mire +5 BPM na próxima sessão.",
+          "es": "Check‑in: graba 30 segundos. Escucha el tono y el tiempo. Anota tu BPM limpio más alto y apunta a +5 BPM en la próxima sesión.",
+          "de": "Check‑in: nimm 30 Sekunden auf. Hör auf gleichmäßigen Ton und Timing. Notiere dein höchstes sauberes Tempo und peile +5 BPM in der nächsten Session an.",
+          "ja": "チェック：30秒録音。音色とタイミングが揃っているか確認。最高のクリーンテンポを記録し、次回+5 BPMを目標。",
+          "zh-Hans": "检查：录30秒。听音色和节拍是否均匀。记录最高的干净速度，下一次目标+5 BPM。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-22T00:05:16Z",
+  "updatedAt": "2026-03-22T00:05:16Z"
+}

@@ -110,5 +110,89 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "bass-lane-story-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Lane Story Builder",
+        "pt-BR": "Construtor de Linhas no Baixo",
+        "es": "Constructor de Líneas de Bajo",
+        "de": "Basslinien-Baukasten",
+        "ja": "ベースライン・ストーリービルダー",
+        "zh-Hans": "贝斯线故事构建器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one D major scale path into a grooving bass line that travels, breathes, and sings.",
+        "pt-BR": "Transforme um caminho em Ré maior em uma linha de baixo com groove, direção, espaço e melodia.",
+        "es": "Convierte un recorrido en Re mayor en una línea de bajo con groove, aire y dirección melódica.",
+        "de": "Verwandle einen Weg in D-Dur in eine groovende Basslinie mit Richtung, Luft und Gesanglichkeit.",
+        "ja": "Dメジャーの1本の道を、グルーヴと方向感と歌心のあるベースラインに変えます。",
+        "zh-Hans": "把一条D大调路径变成有 groove、有呼吸、也有歌唱感的贝斯线。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-06-15T00:12:48Z",
+    "updatedAt": "2026-06-15T00:12:48Z"
+  },
+  {
+    "id": "bass-countermelody-kites",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Countermelody Kites",
+        "pt-BR": "Pipas de Contramelodia no Baixo",
+        "es": "Cometas de Contramelodía en el Bajo",
+        "de": "Countermelody-Drachen auf dem Bass",
+        "ja": "ベース・カウンターメロディ・カイト",
+        "zh-Hans": "贝斯对旋律风筝"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lift a D major counterline above the groove and keep it singing without losing the bass job.",
+        "pt-BR": "Faça uma contramelodia em Ré maior subir acima do groove sem deixar de cumprir a função do baixo.",
+        "es": "Eleva una contralínea en Re mayor sobre el groove sin dejar de cumplir la función del bajo.",
+        "de": "Lass eine Gegenmelodie in D-Dur über dem Groove aufsteigen, ohne die Bassfunktion zu verlieren.",
+        "ja": "Dメジャーの対旋律をグルーヴの上に浮かせながら、ベースとしての役割も失わないようにしよう。",
+        "zh-Hans": "让D大调对旋律飞到 groove 上方，同时不丢掉贝斯本职工作。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-06-24T00:07:49Z",
+    "updatedAt": "2026-06-24T00:07:49Z"
+  },
+  {
+    "id": "bass-pocket-lane-switch",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Lane Switch",
+        "pt-BR": "Troca de Faixas do Pocket no Baixo",
+        "es": "Cambio de Carril del Pocket en Bajo",
+        "de": "Bass Pocket Spurwechsel",
+        "ja": "ベース・ポケット車線変更",
+        "zh-Hans": "贝斯口袋换道练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your bass lines to move between low and mid registers without losing pulse, tone, or authority.",
+        "pt-BR": "Treine suas linhas de baixo para alternar entre registros graves e médios sem perder pulso, timbre ou autoridade.",
+        "es": "Entrena tus líneas de bajo para moverse entre registros graves y medios sin perder pulso, tono ni autoridad.",
+        "de": "Trainiere Basslinien, zwischen tiefem und mittlerem Register zu wechseln, ohne Puls, Ton oder Autorität zu verlieren.",
+        "ja": "低音域と中音域を行き来しても、脈動、音色、頼もしさを失わないベースラインを鍛えよう。",
+        "zh-Hans": "训练你的贝斯线条在低音区和中音区之间切换时，依然保持脉冲、音色和掌控力。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-07-03T00:08:01Z",
+    "updatedAt": "2026-07-03T00:08:01Z"
   }
 ]

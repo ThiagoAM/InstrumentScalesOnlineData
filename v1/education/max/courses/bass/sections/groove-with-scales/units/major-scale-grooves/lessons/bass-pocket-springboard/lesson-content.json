@@ -1,0 +1,60 @@
+{
+  "id": "bass-pocket-springboard",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a steady groove in **G major** and build a one-bar bass line that starts on **G**, touches **B or D**, and leaves a small rest before beat 4. Play it until it feels locked. Your mission is to make the groove bounce, not ramble.",
+          "pt-BR": "Monte um groove firme em **Sol maior** e crie uma linha de baixo de um compasso que comece em **Sol**, passe por **Si ou Ré** e deixe uma pequena pausa antes do tempo 4. Toque até ficar encaixado. Sua missão é fazer o groove quicar, não divagar.",
+          "es": "Prepara un groove firme en **Sol mayor** y construye una línea de bajo de un compás que empiece en **Sol**, toque **Si o Re** y deje un pequeño silencio antes del tiempo 4. Tócala hasta que quede bien encajada. Tu misión es que el groove rebote, no que divague.",
+          "de": "Lege einen stabilen Groove in **G-Dur** an und baue eine eintaktige Basslinie, die auf **G** startet, **H oder D** berührt und vor Zählzeit 4 eine kleine Pause lässt. Spiele sie, bis sie wirklich sitzt. Deine Aufgabe ist ein federnder Groove, kein zielloses Wandern.",
+          "ja": "**Gメジャー**で安定したグルーヴを作り、**G**から始まり、**BかD**に触れ、4拍目の前に少し休む1小節のベースラインを作ります。まずはしっかりハマるまで繰り返しましょう。目標は、うろうろすることではなく、弾むようなグルーヴです。",
+          "zh-Hans": "先在**G大调**里建立稳定 groove，写一条一小节贝斯线：从**G**开始，经过**B或D**，并在第4拍前留一个小休止。反复弹到它真的锁进律动里。目标是让 groove 有弹性，不是到处乱逛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now turn the line into a springboard. In bar 2, begin from a nearby scale tone like **A or B**, then snap back to **G** on beat 3 or 4. The line should feel like it jumped off the platform and still landed on its feet. If the return feels mushy, shorten the approach and make the landing heavier.",
+          "pt-BR": "Agora transforme a linha em um trampolim. No compasso 2, comece de uma nota vizinha da escala, como **Lá ou Si**, e volte com tudo para **Sol** no tempo 3 ou 4. A linha precisa soar como se tivesse saltado da plataforma e ainda aterrissado em pé. Se a volta ficar frouxa, encurte a aproximação e pese mais a chegada.",
+          "es": "Ahora convierte la línea en un trampolín. En el compás 2, empieza desde una nota vecina de la escala como **La o Si** y vuelve con fuerza a **Sol** en el tiempo 3 o 4. La línea debe sentirse como si hubiera saltado de la plataforma y aun así aterrizado de pie. Si el regreso suena blando, acorta la aproximación y haz más pesado el aterrizaje.",
+          "de": "Jetzt wird daraus ein Sprungbrett. Beginne in Takt 2 auf einem benachbarten Skalenton wie **A oder H** und schnapp auf Zählzeit 3 oder 4 zurück nach **G**. Die Linie soll wirken, als wäre sie abgesprungen und trotzdem sicher gelandet. Klingt die Rückkehr weich, verkürze den Anlauf und mach die Landung schwerer.",
+          "ja": "次にそのラインをスプリングボードにします。2小節目は**AかB**のような近いスケール音から始め、3拍目か4拍目で**G**へ勢いよく戻ります。飛び出したのにきれいに着地したように聞こえるのが理想です。戻りがぼやけるなら、助走を短くして着地を重くしましょう。",
+          "zh-Hans": "接着把这条线变成弹跳板。第二小节从附近的音阶音，比如**A或B**开始，然后在第3拍或第4拍有力地弹回**G**。它要像离台起跳后依然稳稳落地。如果回归发软，就缩短助跑并加重落点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add ghost-note glue. You may use **two ghost notes max** between your real notes, and each one must help the groove lean forward instead of cluttering it. Keep your right hand relaxed and your muting clean so the pulse stays strong even when the notes get sparse.",
+          "pt-BR": "Adicione cola com ghost notes. Você pode usar **no máximo duas ghost notes** entre as notas reais, e cada uma precisa empurrar o groove para frente em vez de entulhá-lo. Mantenha a mão direita relaxada e o abafamento limpo para o pulso continuar forte mesmo quando a linha ficar mais vazia.",
+          "es": "Añade pegamento con ghost notes. Puedes usar **máximo dos ghost notes** entre las notas reales, y cada una debe empujar el groove hacia delante en lugar de llenarlo por llenar. Mantén la mano derecha relajada y el apagado limpio para que el pulso siga fuerte incluso cuando haya poco sonido.",
+          "de": "Füge Ghost-Notes als Kleber hinzu. Du darfst **maximal zwei Ghost Notes** zwischen den echten Tönen verwenden, und jede muss den Groove nach vorn schieben statt ihn zuzumüllen. Halte die rechte Hand locker und das Dämpfen sauber, damit der Puls auch bei mehr Luft stabil bleibt.",
+          "ja": "次はゴーストノートを接着剤として加えます。実音の間に使えるのは**最大2つまで**で、どちらも単なる埋め草ではなく、グルーヴを前へ押し出さなければいけません。右手はリラックス、ミュートはきれいに保ち、音が少なくても拍の強さを失わないようにします。",
+          "zh-Hans": "再加入幽灵音胶水。真实音之间最多只能放**两个幽灵音**，而且每一个都必须推动 groove 前进，而不是单纯塞满空隙。保持右手放松、闷音干净，这样即使音变少，脉冲也依然结实。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: create a two-bar loop for one minute with three checkpoints — bar 1 must state the groove clearly, bar 2 must take one detour, every loop must include at least one clean rest, and every fourth loop you must simplify instead of adding more. Record it and ask: did your groove get deeper when you used less, or when you risked more?",
+          "pt-BR": "Rodada final: crie um loop de dois compassos por um minuto com três checkpoints — o compasso 1 deve apresentar o groove com clareza, o compasso 2 deve fazer um desvio, todo loop precisa incluir pelo menos uma pausa limpa, e a cada quatro voltas você deve simplificar em vez de acrescentar mais. Grave e pergunte: seu groove ficou mais profundo quando você usou menos ou quando arriscou mais?",
+          "es": "Ronda final: crea un loop de dos compases durante un minuto con tres puntos de control: el compás 1 debe presentar el groove con claridad, el compás 2 debe hacer un desvío, cada vuelta debe incluir al menos un silencio limpio y cada cuarta vuelta debes simplificar en vez de añadir más. Grábalo y pregúntate: ¿tu groove se volvió más profundo cuando usaste menos o cuando arriesgaste más?",
+          "de": "Finale Runde: Erfinde eine Zweitakt-Schleife für eine Minute mit drei Kontrollpunkten — Takt 1 muss den Groove klar zeigen, Takt 2 muss genau einen Umweg nehmen, jede Runde braucht mindestens eine saubere Pause, und jede vierte Runde musst du vereinfachen statt mehr hinzuzufügen. Nimm dich auf und frage dich: Wurde dein Groove tiefer, als du weniger gespielt hast, oder als du mehr riskiert hast?",
+          "ja": "最後のラウンドです。1分間、2小節ループを作り続けます。条件は、1小節目でグルーヴをはっきり示すこと、2小節目で1回だけ寄り道すること、毎回少なくとも1つのきれいな休みを入れること、そして4回ごとに足すのではなく削ること。録音を聴いて、少なく弾いたときに深くなったのか、それとも攻めたときに深くなったのかを確かめましょう。",
+          "zh-Hans": "最后一轮：连续一分钟做两小节循环，并守住三个检查点——第1小节要清楚交代 groove；第2小节要有一次绕行；每轮至少有一个干净休止；每第4轮必须做减法而不是继续加料。录下来再问自己：你的 groove 是在弹得更少时更深，还是在更敢冒险时更深？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-22T00:09:43Z",
+  "updatedAt": "2026-06-22T00:09:43Z"
+}

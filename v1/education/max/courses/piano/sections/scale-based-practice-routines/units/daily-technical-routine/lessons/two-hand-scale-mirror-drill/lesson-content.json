@@ -1,0 +1,73 @@
+{
+  "id": "two-hand-scale-mirror-drill",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick G major, two octaves. Hands start on middle G; right hand goes up while left hand goes down in eighth notes at 70 bpm.",
+          "pt-BR": "Escolha Sol maior em duas oitavas. Mãos partem do Sol central; direita sobe e esquerda desce em colcheias a 70 bpm.",
+          "es": "Elige Sol mayor en dos octavas. Las manos parten del Sol central; la derecha sube y la izquierda baja en corcheas a 70 bpm.",
+          "de": "Wähle G‑Dur über zwei Oktaven. Hände starten auf dem mittleren G; rechts hoch, links runter in Achteln bei 70 bpm.",
+          "ja": "Gメジャーを2オクターブで。両手は中央のGから開始し、右手は上行、左手は下行。70 bpmで8分音符。",
+          "zh-Hans": "选择G大调，两八度。双手从中央G出发，右手上行、左手下行，70 bpm八分音符。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Mirror rule: keep fingerings symmetrical (RH 1–2–3, LH 3–2–1 on the first three notes).",
+          "pt-BR": "Regra do espelho: mantenha dedilhados simétricos (MD 1–2–3, ME 3–2–1 nas três primeiras notas).",
+          "es": "Regla del espejo: usa digitaciones simétricas (MD 1–2–3, MI 3–2–1 en las tres primeras notas).",
+          "de": "Spiegelregel: nutze symmetrische Fingersätze (RH 1–2–3, LH 3–2–1 auf den ersten drei Tönen).",
+          "ja": "ミラー規則：指使いを対称に（右手1–2–3、左手3–2–1で最初の3音）。",
+          "zh-Hans": "镜像规则：保持对称指法（右手1–2–3，左手3–2–1起步）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Dynamic ladder: play softly on the way out, medium on the way in; keep tone even.",
+          "pt-BR": "Escada dinâmica: toque suave na ida, médio na volta; mantenha o timbre uniforme.",
+          "es": "Escalera dinámica: toca suave al salir y medio al regresar; mantén el timbre parejo.",
+          "de": "Dynamik‑Leiter: hinaus leise, zurück mezzo; gleichmäßiger Klang.",
+          "ja": "ダイナミクスの階段：外側へは弱く、戻りは中くらい。音色は均一に。",
+          "zh-Hans": "力度阶梯：外扩时轻声，回程用中等力度；音色保持均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Articulation switch: one pass legato, one pass staccato, then mix (two legato, two staccato).",
+          "pt-BR": "Troca de articulação: uma passada legato, uma passada staccato, depois misture (duas legato, duas staccato).",
+          "es": "Cambio de articulación: una pasada legato, una pasada staccato, luego mezcla (dos legato, dos staccato).",
+          "de": "Artikulationswechsel: ein Durchgang legato, ein Durchgang staccato, dann mischen (zweimal legato, zweimal staccato).",
+          "ja": "アーティキュレーション切替：1回はレガート、1回はスタッカート、次はミックス（レガート2回、スタッカート2回）。",
+          "zh-Hans": "触键切换：一遍连奏、一遍断奏，然后混合（两遍连奏、两遍断奏）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: stop on the highest and lowest notes, name the scale degrees aloud, then return.",
+          "pt-BR": "Checkpoint: pare nas notas mais alta e mais baixa, diga os graus da escala em voz alta e volte.",
+          "es": "Punto de control: detente en las notas más alta y más baja, di los grados de la escala en voz alta y vuelve.",
+          "de": "Checkpoint: Stoppe auf dem höchsten und tiefsten Ton, nenne die Stufen laut, dann zurück.",
+          "ja": "チェックポイント：最高音と最低音で止まり、度数を声に出して言ってから戻る。",
+          "zh-Hans": "检查点：在最高音和最低音停住，大声说出音级，然后返回。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-04T00:08:14Z",
+  "updatedAt": "2026-04-04T00:08:14Z"
+}

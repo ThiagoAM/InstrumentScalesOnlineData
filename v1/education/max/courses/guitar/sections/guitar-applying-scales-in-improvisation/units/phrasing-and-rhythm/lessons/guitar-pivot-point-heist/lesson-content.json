@@ -1,0 +1,86 @@
+{
+  "id": "guitar-pivot-point-heist",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission\nTonight you are a phrase thief with manners. Work in **A Dorian** (A B C D E F# G) at **80-92 bpm** and pick one fretboard area you know well.\n\nYour target note is **C**. Every phrase must visit it, leave it, and come back without sounding like a scale worksheet.",
+          "pt-BR": "### Missão\nHoje você é um ladrão de frases com bons modos. Trabalhe em **Lá dórico** (A B C D E F# G) a **80-92 bpm** e escolha uma região do braço que você já conhece bem.\n\nSua nota-alvo é o **C**. Toda frase precisa visitá-lo, sair dele e voltar sem soar como uma folha de exercício.",
+          "es": "### Misión\nHoy eres un ladrón de frases con buenos modales. Trabaja en **La dórico** (A B C D E F# G) a **80-92 bpm** y elige una zona del diapasón que conozcas bien.\n\nTu nota objetivo es **C**. Cada frase debe visitarla, alejarse y volver sin sonar como una hoja de ejercicios.",
+          "de": "### Mission\nHeute bist du ein Phrasendieb mit Stil. Arbeite in **A-Dorisch** (A B C D E F# G) bei **80-92 bpm** und bleib in einer Griffbrettlage, die du gut kennst.\n\nDein Zielton ist **C**. Jede Phrase muss ihn besuchen, verlassen und zurückfinden, ohne wie ein trockenes Skalenblatt zu klingen.",
+          "ja": "### ミッション\n今日は礼儀正しいフレーズ泥棒です。**Aドリアン**（A B C D E F# G）を **80-92 bpm** で使い、よく知っている指板ポジションを1つ選びましょう。\n\n目標音は **C**。すべてのフレーズでCに触れ、そこから離れ、また戻ってきます。ただし単なるスケール練習には聞こえないようにします。",
+          "zh-Hans": "### 任务\n今晚你是一个很有礼貌的乐句大盗。用 **A多利亚**（A B C D E F# G），速度设在 **80-92 bpm**，并选择一个你熟悉的把位。\n\n你的目标音是 **C**。每个乐句都必须碰到它、离开它、再回到它，而且不能听起来像在背音阶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lock the vault first\nPlay four tiny phrases of **3 to 5 notes** that all **start on C**. Keep the rhythm simple: only **eighth notes and quarter notes**.\n\nAfter each phrase ask:\n- Did C sound intentional or accidental?\n- Did the line still sound like A Dorian?\n- Could I sing it back immediately?",
+          "pt-BR": "### Primeiro, tranque o cofre\nToque quatro frases curtinhas de **3 a 5 notas** que todas **comecem em C**. Mantenha o ritmo simples: apenas **colcheias e semínimas**.\n\nDepois de cada frase, pergunte:\n- O C soou intencional ou acidental?\n- A linha ainda soou como Lá dórico?\n- Eu conseguiria cantar isso de volta na hora?",
+          "es": "### Primero asegura la bóveda\nToca cuatro frases pequeñas de **3 a 5 notas** que todas **empiecen en C**. Mantén el ritmo simple: solo **corcheas y negras**.\n\nDespués de cada frase pregúntate:\n- ¿La C sonó intencional o accidental?\n- ¿La línea siguió sonando a La dórico?\n- ¿Podría cantarla de inmediato?",
+          "de": "### Erst das Gewölbe sichern\nSpiele vier kleine Phrasen mit **3 bis 5 Tönen**, die alle **auf C beginnen**. Halte den Rhythmus einfach: nur **Achtel und Viertel**.\n\nFrag dich nach jeder Phrase:\n- Klang das C absichtlich oder zufällig?\n- Hörte sich die Linie noch nach A-Dorisch an?\n- Könnte ich sie sofort nachsingen?",
+          "ja": "### まず金庫を閉める\n**3〜5音** の短いフレーズを4つ弾き、すべて **Cから始める** ようにします。リズムは **8分音符と4分音符** だけに限定します。\n\n各フレーズのあとに確認しましょう。\n- Cは狙って聞こえた？ それとも偶然？\n- ラインはまだAドリアンに聞こえる？\n- すぐ歌い返せる？",
+          "zh-Hans": "### 先把保险库锁好\n弹四个 **3到5个音** 的小乐句，而且都要 **从C开始**。节奏先保持简单，只用 **八分音符和四分音符**。\n\n每弹完一句就问自己：\n- 这个C听起来像故意选择的吗，还是碰巧？\n- 这条线还像A多利亚吗？\n- 我能马上把它唱回来吗？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### The getaway rule\nNow each phrase must **leave C by step**, then **jump back by a skip**. Example idea: move from C to B or D, then answer with A, E, or G.\n\nMake **five different 2-bar phrases**. No phrase may end on the same note twice in a row. That forces you to hear multiple exits from the same pivot point.",
+          "pt-BR": "### A regra da fuga\nAgora cada frase precisa **sair de C por grau conjunto** e depois **voltar com um salto**. Ideia de exemplo: saia de C para B ou D e responda com A, E ou G.\n\nCrie **cinco frases diferentes de 2 compassos**. Nenhuma pode terminar na mesma nota duas vezes seguidas. Isso força você a ouvir várias saídas a partir do mesmo ponto.",
+          "es": "### La regla de la escapada\nAhora cada frase debe **salir de C por grado conjunto** y luego **volver con un salto**. Idea de ejemplo: muévete de C a B o D y responde con A, E o G.\n\nCrea **cinco frases distintas de 2 compases**. Ninguna puede terminar en la misma nota dos veces seguidas. Eso te obliga a escuchar varias salidas desde el mismo punto.",
+          "de": "### Die Fluchtregel\nJetzt muss jede Phrase **schrittweise von C weggehen** und dann **mit einem Sprung zurückkommen**. Beispielidee: von C zu B oder D gehen und dann mit A, E oder G antworten.\n\nBaue **fünf verschiedene 2-Takt-Phrasen**. Keine Phrase darf zweimal hintereinander auf demselben Ton enden. So hörst du mehrere Ausgänge vom gleichen Drehpunkt.",
+          "ja": "### 逃走ルール\nここからは各フレーズで **Cから順次進行で離れ**、そのあと **跳躍で戻る** 必要があります。例として、CからBやDへ動き、A・E・Gで返してみましょう。\n\n**2小節のフレーズを5種類** 作ってください。同じ終わりの音を2回続けて使ってはいけません。同じ支点から複数の出口を聴けるようにするためです。",
+          "zh-Hans": "### 逃跑规则\n现在每个乐句都要 **从C以级进离开**，再 **用跳进回去**。比如先从C走到B或D，再用A、E或G来回应。\n\n写出 **5条不同的2小节乐句**。不能连续两次落在同一个结尾音上。这样你会真的听见同一个支点音可以通向很多出口。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Add the disguise\nRepeat the game, but now one note in each phrase must get either:\n- an accent,\n- a short rest before it, or\n- a longer hold than the surrounding notes.\n\nThis is the disguise. The scale notes stay familiar, but the phrasing should feel sneakier and more musical.",
+          "pt-BR": "### Coloque o disfarce\nRepita o jogo, mas agora uma nota em cada frase precisa receber:\n- um acento,\n- uma pausa curta antes dela, ou\n- uma duração maior que a das notas ao redor.\n\nEsse é o disfarce. As notas da escala continuam familiares, mas o fraseado precisa soar mais esperto e musical.",
+          "es": "### Añade el disfraz\nRepite el juego, pero ahora una nota de cada frase debe tener:\n- un acento,\n- un silencio corto antes de ella, o\n- una duración más larga que las notas vecinas.\n\nEse es el disfraz. Las notas de la escala siguen siendo conocidas, pero el fraseo debe sentirse más astuto y musical.",
+          "de": "### Tarnung hinzufügen\nWiederhole das Spiel, aber jetzt muss ein Ton in jeder Phrase entweder:\n- einen Akzent bekommen,\n- eine kurze Pause vor sich haben oder\n- länger gehalten werden als die Töne drumherum.\n\nDas ist die Tarnung. Die Skalentöne bleiben vertraut, aber das Phrasing soll raffinierter und musikalischer wirken.",
+          "ja": "### 変装を加える\n同じゲームを繰り返しますが、今度は各フレーズの1音に次のどれかを入れます。\n- アクセント\n- その音の前の短い休符\n- 周りより長い音価\n\nこれが変装です。使う音は同じでも、フレージングはもっとずるく、もっと音楽的に聞こえるはずです。",
+          "zh-Hans": "### 加上伪装\n再玩一轮，但现在每个乐句里必须有一个音带上以下其中一种处理：\n- 重音\n- 前面加一个短休止\n- 时值比周围音更长\n\n这就是伪装。音阶音还是那些熟悉的音，但乐句应该听起来更狡猾、更有音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Boss round: the heist loop\nImprovise over **Am7 to D7** for **six rounds of 2 bars**. In every round:\n1. touch **C** once,\n2. leave it in a new way,\n3. return with a different rhythm than before.\n\nIf two rounds sound like twins, throw one out and invent a riskier escape route.",
+          "pt-BR": "### Chefão: o loop do assalto\nImprovisе sobre **Am7 para D7** por **seis rodadas de 2 compassos**. Em cada rodada:\n1. toque o **C** uma vez,\n2. saia dele de um jeito novo,\n3. volte com um ritmo diferente do anterior.\n\nSe duas rodadas soarem gêmeas, jogue uma fora e invente uma rota de fuga mais ousada.",
+          "es": "### Ronda final: el bucle del golpe\nImprovisa sobre **Am7 a D7** durante **seis rondas de 2 compases**. En cada ronda:\n1. toca **C** una vez,\n2. sal de ella de una forma nueva,\n3. vuelve con un ritmo distinto al anterior.\n\nSi dos rondas suenan como gemelas, descarta una e inventa una ruta de escape más arriesgada.",
+          "de": "### Bossrunde: die Raubschleife\nImprovisiere über **Am7 nach D7** für **sechs Runden à 2 Takte**. In jeder Runde:\n1. berühre **C** einmal,\n2. verlasse es auf eine neue Weise,\n3. kehre mit einem anderen Rhythmus zurück als zuvor.\n\nWenn zwei Runden wie Zwillinge klingen, wirf eine weg und erfinde eine mutigere Fluchtroute.",
+          "ja": "### ボスラウンド：強奪ループ\n**Am7 から D7** の上で **2小節×6ラウンド** 即興します。各ラウンドでは:\n1. **C** に1回触れる\n2. 新しい方法で離れる\n3. 前とは違うリズムで戻る\n\n2つのラウンドが双子みたいに聞こえたら、1つ捨ててもっと危険な逃走ルートを作ってください。",
+          "zh-Hans": "### Boss 回合：劫案循环\n在 **Am7 到 D7** 上即兴 **6轮，每轮2小节**。每一轮都要：\n1. 碰一次 **C**\n2. 用新的方式离开它\n3. 用和上一轮不同的节奏回到它\n\n如果两轮听起来像双胞胎，就扔掉一轮，设计一条更冒险的逃跑路线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Debrief\nAsk yourself:\n- Which return to C sounded coolest?\n- Did my accents create shape or just volume?\n- When did I stop sounding like a scale exercise?\n\nFinal upgrade: run the same heist in **D Dorian** without changing the rules. If the phrasing still feels alive, you got away clean. 🎸",
+          "pt-BR": "### Debrief\nPergunte a si mesmo:\n- Qual volta para o C soou mais legal?\n- Meus acentos criaram forma ou só volume?\n- Em que momento parei de soar como exercício?\n\nUpgrade final: faça o mesmo assalto em **Ré dórico** sem mudar as regras. Se o fraseado continuar vivo, você escapou limpo. 🎸",
+          "es": "### Cierre\nPregúntate:\n- ¿Qué regreso a C sonó mejor?\n- ¿Mis acentos crearon forma o solo volumen?\n- ¿Cuándo dejé de sonar como un ejercicio de escala?\n\nMejora final: haz el mismo golpe en **Re dórico** sin cambiar las reglas. Si el fraseo sigue vivo, escapaste limpio. 🎸",
+          "de": "### Nachbesprechung\nFrag dich:\n- Welche Rückkehr zu C klang am coolsten?\n- Haben meine Akzente Form geschaffen oder nur Lautstärke?\n- Wann hörte es auf, wie eine Skalenübung zu klingen?\n\nLetztes Upgrade: spiele denselben Raubzug in **D-Dorisch**, ohne die Regeln zu ändern. Wenn das Phrasing weiter lebt, bist du sauber entkommen. 🎸",
+          "ja": "### ふり返り\n自分に聞きましょう。\n- どのCへの戻り方がいちばん良かった？\n- アクセントは形を作った？ それとも音量だけ？\n- いつから単なるスケール練習じゃなくなった？\n\n最後の強化: まったく同じルールで **Dドリアン** でもやってみましょう。フレーズがまだ生きていれば、見事に逃げ切りです。 🎸",
+          "zh-Hans": "### 复盘\n问问自己：\n- 哪一次回到C最酷？\n- 我的重音是在塑造线条，还是只是更大声？\n- 我从什么时候开始不再像做音阶练习？\n\n最终升级：完全不改规则，把同样的劫案搬到 **D多利亚**。如果乐句依然鲜活，那你就成功脱身了。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-27T00:07:27Z",
+  "updatedAt": "2026-04-27T00:07:27Z"
+}

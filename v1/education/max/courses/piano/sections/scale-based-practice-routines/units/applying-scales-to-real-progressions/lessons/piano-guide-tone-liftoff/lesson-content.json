@@ -1,0 +1,73 @@
+{
+  "id": "piano-guide-tone-liftoff",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Lift off\n\nLoop **Cmaj7 - Am7 - Dm7 - G7** at **72 bpm**.\n\nPlay the left hand as simple roots or shell voicings and keep the right hand ready for scale motion.\n\nYour goal is to make every melodic line reveal the harmony before the chord fully lands.",
+          "pt-BR": "### Decolagem\n\nFaça um loop de **Cmaj7 - Am7 - Dm7 - G7** em **72 bpm**.\n\nToque a mão esquerda com tônicas simples ou voicings shell e deixe a mão direita pronta para o movimento escalar.\n\nO objetivo é fazer cada linha melódica revelar a harmonia antes que o acorde pouse por completo.",
+          "es": "### Despegue\n\nHaz un loop de **Cmaj7 - Am7 - Dm7 - G7** a **72 bpm**.\n\nToca la mano izquierda con tónicas simples o voicings shell y deja la mano derecha lista para el movimiento escalar.\n\nTu meta es que cada línea melódica revele la armonía antes de que el acorde termine de caer.",
+          "de": "### Abheben\n\nLass **Cmaj7 - Am7 - Dm7 - G7** bei **72 bpm** loopen.\n\nSpiele links einfache Grundtöne oder Shell-Voicings und halte rechts die Hand für Skalenbewegung bereit.\n\nDein Ziel ist, dass jede Melodielinie die Harmonie verrät, bevor der Akkord vollständig landet.",
+          "ja": "### 離陸\n\n**Cmaj7 - Am7 - Dm7 - G7** を **72 bpm** でループします。\n\n左手はシンプルなルートかシェルボイシング、右手はスケール移動の準備をしておきましょう。\n\n目標は、各メロディラインがコードが完全に鳴る前にハーモニーを予告することです。",
+          "zh-Hans": "### 起飞\n\n把 **Cmaj7 - Am7 - Dm7 - G7** 循环起来，速度 **72 bpm**。\n\n左手弹简单根音或 shell voicing，右手准备做音阶移动。\n\n你的目标，是让每条旋律线在和弦完全落下之前，就先把和声说出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: two-note beacons\n\nIn the right hand, aim for one of these guide tones on beat **1** of each bar:\n- **E or B** on Cmaj7\n- **C or G** on Am7\n- **F or C** on Dm7\n- **B or F** on G7\n\nUse only **3 to 5** notes per bar so the target note stays obvious.",
+          "pt-BR": "### Rodada 1: faróis de duas notas\n\nNa mão direita, mire em um destes guide tones no tempo **1** de cada compasso:\n- **E ou B** em Cmaj7\n- **C ou G** em Am7\n- **F ou C** em Dm7\n- **B ou F** em G7\n\nUse apenas **3 a 5** notas por compasso para que a nota-alvo continue óbvia.",
+          "es": "### Ronda 1: faros de dos notas\n\nEn la mano derecha, apunta a uno de estos guide tones en el tiempo **1** de cada compás:\n- **E o B** en Cmaj7\n- **C o G** en Am7\n- **F o C** en Dm7\n- **B o F** en G7\n\nUsa solo **3 a 5** notas por compás para que la nota objetivo siga siendo evidente.",
+          "de": "### Runde 1: Zwei-Ton-Leuchtfeuer\n\nZiele in der rechten Hand auf einen dieser Guide Tones auf Zählzeit **1** jedes Takts:\n- **E oder B** bei Cmaj7\n- **C oder G** bei Am7\n- **F oder C** bei Dm7\n- **B oder F** bei G7\n\nNutze pro Takt nur **3 bis 5** Töne, damit der Zielton klar bleibt.",
+          "ja": "### ラウンド1：2音の灯台\n\n右手では各小節の **1拍目** に次のガイドトーンのどれかを狙います。\n- Cmaj7では **E または B**\n- Am7では **C または G**\n- Dm7では **F または C**\n- G7では **B または F**\n\nターゲットがはっきり聞こえるよう、1小節あたり **3〜5音** に絞ってください。",
+          "zh-Hans": "### 第1轮：两个音的灯塔\n\n右手在每小节 **第1拍** 瞄准下列导音之一：\n- Cmaj7 用 **E 或 B**\n- Am7 用 **C 或 G**\n- Dm7 用 **F 或 C**\n- G7 用 **B 或 F**\n\n每小节只用 **3 到 5 个音**，让目标音保持清晰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: scale bridge\n\nNow connect each guide tone to the next one with a short scale fragment.\n\nMove mostly by step, and let one bar use a tiny leap only if you immediately recover the line with stepwise motion.\n\nIf it sounds like random noodling, slow down and sing the target notes before you play them.",
+          "pt-BR": "### Rodada 2: ponte escalar\n\nAgora conecte cada guide tone ao próximo com um pequeno fragmento de escala.\n\nMova-se principalmente por graus conjuntos e use um salto pequeno em apenas um compasso, desde que você recupere a linha logo depois com movimento conjunto.\n\nSe soar como digitação aleatória, desacelere e cante as notas-alvo antes de tocá-las.",
+          "es": "### Ronda 2: puente escalar\n\nAhora conecta cada guide tone con el siguiente usando un pequeño fragmento de escala.\n\nMuévete sobre todo por grado conjunto y deja un salto pequeño en solo un compás, siempre que recuperes la línea enseguida con movimiento conjunto.\n\nSi suena a noodling aleatorio, baja la velocidad y canta las notas objetivo antes de tocarlas.",
+          "de": "### Runde 2: Skalenbrücke\n\nVerbinde nun jeden Guide Tone mit dem nächsten durch ein kurzes Skalenfragment.\n\nBewege dich meist schrittweise und erlaube dir nur in einem Takt einen kleinen Sprung, den du sofort wieder mit Schrittbewegung auffängst.\n\nWenn es nach zufälligem Geklimper klingt, werde langsamer und singe die Zieltöne vor dem Spielen.",
+          "ja": "### ラウンド2：スケールの橋\n\n今度は各ガイドトーンを短いスケール断片で次のガイドトーンへつなぎます。\n\n基本は順次進行で進み、小さな跳躍を使うのは1小節だけにして、その直後に順次進行でラインを立て直してください。\n\nランダムな弾き回しに聞こえるなら、テンポを落として先にターゲット音を歌いましょう。",
+          "zh-Hans": "### 第2轮：音阶桥梁\n\n现在用一个短小的音阶片段，把每个导音连接到下一个导音。\n\n尽量以级进为主，只允许有一小节出现一个小跳进，而且必须立刻用级进把线条拉回来。\n\n如果听起来像随手乱弹，就放慢速度，先把目标音唱出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: rhythmic relaunch\n\nKeep the same harmonic targets, but start at least two bars from **the & of 4** or **beat 2** instead of beat 1.\n\nThe line should still arrive cleanly on the next guide tone.\n\nThink of it as delayed takeoff, not late timing.",
+          "pt-BR": "### Rodada 3: relançamento rítmico\n\nMantenha os mesmos alvos harmônicos, mas comece pelo menos dois compassos no **e do 4** ou no **tempo 2**, em vez do tempo 1.\n\nA linha ainda deve chegar com clareza ao próximo guide tone.\n\nPense nisso como decolagem atrasada, não como atraso de tempo.",
+          "es": "### Ronda 3: relanzamiento rítmico\n\nMantén los mismos objetivos armónicos, pero empieza al menos dos compases desde **el y de 4** o desde el **tiempo 2** en lugar del tiempo 1.\n\nLa línea debe seguir llegando limpia al siguiente guide tone.\n\nPiensa en ello como un despegue tardío, no como mal tiempo.",
+          "de": "### Runde 3: rhythmischer Neustart\n\nBehalte dieselben harmonischen Ziele, beginne aber mindestens zwei Takte von **und von 4** oder **Zählzeit 2** statt von Zählzeit 1.\n\nDie Linie muss trotzdem sauber auf dem nächsten Guide Tone ankommen.\n\nDenk an verspäteten Start, nicht an schlechtes Timing.",
+          "ja": "### ラウンド3：リズムの再発進\n\n同じハーモニー目標を保ちながら、少なくとも2小節は **4拍目の裏** か **2拍目** から始めます。\n\nそれでも次のガイドトーンにはきれいに到着しなければなりません。\n\n遅れたタイミングではなく、遅れて離陸するイメージです。",
+          "zh-Hans": "### 第3轮：节奏再起飞\n\n保持同样的和声目标，但至少有两小节从 **第4拍后半拍** 或 **第2拍** 开始，而不是从第1拍开始。\n\n这条线仍然要干净地到达下一个导音。\n\n把它想成延迟起飞，而不是节奏拖后。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nRecord **one hands-separate take** and **one hands-together take**.\n\nThen transpose the whole game to **F major / D minor** and keep the same clarity of guide-tone landings.\n\nIf your melody makes the progression feel visible, the lesson worked. 🎹",
+          "pt-BR": "### Desafio final\n\nGrave **uma tomada com as mãos separadas** e **outra com as duas mãos juntas**.\n\nDepois transporte todo o jogo para **F maior / Ré menor** e mantenha a mesma clareza nas chegadas dos guide tones.\n\nSe sua melodia fizer a progressão parecer visível, a lição cumpriu o papel. 🎹",
+          "es": "### Desafío final\n\nGraba **una toma con manos separadas** y **otra con las dos manos juntas**.\n\nLuego transpón todo el juego a **Fa mayor / Re menor** y conserva la misma claridad en las llegadas de los guide tones.\n\nSi tu melodía hace visible la progresión, la lección funcionó. 🎹",
+          "de": "### Abschluss-Challenge\n\nNimm **einen Take mit getrennten Händen** und **einen Take mit beiden Händen zusammen** auf.\n\nTransponiere danach das ganze Spiel nach **F-Dur / d-Moll** und behalte dieselbe Klarheit bei den Guide-Tone-Landungen.\n\nWenn deine Melodie die Progression sichtbar macht, hat die Lektion funktioniert. 🎹",
+          "ja": "### 最終チャレンジ\n\n**片手ずつのテイクを1回**、**両手を合わせたテイクを1回** 録音します。\n\nその後、全体を **Fメジャー / Dマイナー** に移調し、同じ明快さでガイドトーンへ着地できるか試してください。\n\nメロディだけで進行が見えるなら、このレッスンは成功です。🎹",
+          "zh-Hans": "### 最终挑战\n\n录下 **一个分手练版本** 和 **一个双手合练版本**。\n\n然后把整套练习移调到 **F大调 / D小调**，继续保持同样清楚的导音落点。\n\n如果你的旋律能让和弦进行变得“看得见”，这节课就成功了。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-25T00:08:30Z",
+  "updatedAt": "2026-06-25T00:08:30Z"
+}

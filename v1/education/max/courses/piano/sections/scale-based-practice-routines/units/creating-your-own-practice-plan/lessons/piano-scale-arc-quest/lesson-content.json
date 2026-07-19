@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-arc-quest",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **C major** or **A natural minor** and decide on a tiny mission for today: even tone, cleaner fingering, or steadier rhythm. That single mission is your compass. A practice session feels random when every problem screams at once, so make one musical priority lead the room.",
+          "pt-BR": "Escolha **Dó maior** ou **Lá menor natural** e defina uma missão pequena para hoje: som mais uniforme, dedilhado mais limpo ou ritmo mais firme. Essa missão única será sua bússola. O estudo parece aleatório quando todos os problemas gritam ao mesmo tempo, então deixe uma prioridade musical comandar a sala.",
+          "es": "Elige **Do mayor** o **La menor natural** y decide una misión pequeña para hoy: tono más parejo, digitación más limpia o ritmo más estable. Esa misión será tu brújula. La práctica se siente aleatoria cuando todos los problemas gritan a la vez, así que deja que una sola prioridad musical dirija la sesión.",
+          "de": "Wähle **C-Dur** oder **a-Moll natürlich** und gib dir eine kleine Tagesmission: gleichmäßiger Klang, saubererer Fingersatz oder stabilerer Rhythmus. Diese eine Mission ist dein Kompass. Üben wirkt zufällig, wenn alle Probleme gleichzeitig schreien, also lass heute eine musikalische Priorität den Raum führen.",
+          "ja": "今日は **Cメジャー** か **Aナチュラルマイナー** を選び、ひとつだけ小さな任務を決めましょう。たとえば音色をそろえる、指使いをきれいにする、リズムを安定させる、のどれかです。その1つが今日のコンパスになります。問題が一度に全部叫ぶと練習は散らかるので、まずは1つの音楽的優先順位に部屋を任せます。",
+          "zh-Hans": "今天从 **C大调** 或 **A自然小调** 中选一个，再决定一个很小的任务：音色更均匀、指法更干净，或节奏更稳定。这个单一任务就是你的指南针。练习之所以会显得混乱，往往是因为所有问题同时大喊，所以先让一个音乐目标来带路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level one is the **quiet map**. Play the scale slowly, hands separate, and listen for three checkpoints: where the thumb passes, where the wrist tightens, and where the sound thins out. You are not just warming up fingers; you are collecting evidence about how your technique behaves under a microscope.",
+          "pt-BR": "O nível um é o **mapa silencioso**. Toque a escala devagar, mãos separadas, e escute três checkpoints: onde o polegar passa, onde o pulso endurece e onde o som afina demais. Você não está apenas aquecendo os dedos; está coletando evidências de como sua técnica se comporta no microscópio.",
+          "es": "El nivel uno es el **mapa silencioso**. Toca la escala despacio, con manos separadas, y escucha tres puntos de control: dónde pasa el pulgar, dónde se tensa la muñeca y dónde el sonido pierde cuerpo. No solo estás calentando dedos; estás reuniendo pruebas de cómo se comporta tu técnica bajo el microscopio.",
+          "de": "Level eins ist die **stille Landkarte**. Spiele die Skala langsam, Hände getrennt, und achte auf drei Kontrollpunkte: wo der Daumen untersetzt, wo das Handgelenk fest wird und wo der Ton dünn klingt. Du wärmst nicht nur die Finger auf; du sammelst Beweise dafür, wie sich deine Technik unter dem Mikroskop verhält.",
+          "ja": "レベル1は **静かな地図作り** です。片手ずつゆっくりスケールを弾き、親指がくぐる場所、手首が固まる場所、音が細くなる場所の3つを観察します。これはただのウォームアップではなく、自分のテクニックが拡大鏡の下でどう動くかを調べる時間です。",
+          "zh-Hans": "第一关是 **安静的地图**。分手慢慢弹音阶，留意三个检查点：拇指穿越的位置、手腕开始发紧的位置，以及声音变薄的位置。你不是只在热手，而是在收集证据，观察自己的技术在“显微镜下”到底怎么运作。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level two adds **contrast**. Play the same scale again, but divide it into two characters: the first octave light and floating, the second octave grounded and singing. This teaches control, because piano scales stop sounding mechanical when touch and intention change without destroying the pulse.",
+          "pt-BR": "O nível dois traz **contraste**. Toque a mesma escala novamente, mas divida-a em dois personagens: a primeira oitava leve e flutuante, a segunda oitava firme e cantante. Isso ensina controle, porque as escalas no piano deixam de soar mecânicas quando o toque e a intenção mudam sem destruir o pulso.",
+          "es": "El nivel dos añade **contraste**. Toca la misma escala otra vez, pero divídela en dos personajes: la primera octava ligera y flotante, la segunda octava firme y cantabile. Esto enseña control, porque las escalas de piano dejan de sonar mecánicas cuando cambian el toque y la intención sin romper el pulso.",
+          "de": "Level zwei bringt **Kontrast**. Spiele dieselbe Skala noch einmal, aber teile sie in zwei Figuren: die erste Oktave leicht und schwebend, die zweite Oktave geerdet und singend. Das trainiert Kontrolle, denn Klavierskalen klingen erst dann nicht mehr mechanisch, wenn Anschlag und Absicht sich ändern, ohne den Puls zu zerstören.",
+          "ja": "レベル2では **コントラスト** を加えます。同じスケールをもう一度弾きますが、1オクターブ目は軽く浮かぶ感じ、2オクターブ目は地に足のついた歌う感じに分けてください。拍を壊さずにタッチと意図を変えられるようになると、スケールは機械的ではなくなります。",
+          "zh-Hans": "第二关加入 **对比**。再弹一遍同样的音阶，但把它分成两个角色：第一组八度轻盈飘浮，第二组八度扎实歌唱。这样可以训练控制，因为当触键和意图能够变化、而脉冲依旧稳定时，钢琴音阶才不会听起来像机械练习。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level three is the **arc builder**. Put both hands together and shape one full run with a beginning, a rise in energy, and a calm landing. Crescendo on the way up, relax on the way down, and keep the fingering clean. Technique matters more when it is serving a musical storyline.",
+          "pt-BR": "O nível três é o **construtor de arco**. Junte as duas mãos e modele uma passada completa com começo, subida de energia e chegada calma. Faça crescendo na subida, relaxe na descida e mantenha o dedilhado limpo. Técnica importa ainda mais quando ela está a serviço de uma história musical.",
+          "es": "El nivel tres es el **constructor del arco**. Junta las dos manos y da forma a una pasada completa con inicio, subida de energía y aterrizaje tranquilo. Haz crescendo al subir, relaja al bajar y mantén limpia la digitación. La técnica importa todavía más cuando está sirviendo a una pequeña historia musical.",
+          "de": "Level drei ist der **Bogenbauer**. Spiele nun beidhändig und forme einen vollständigen Durchgang mit Anfang, Energieanstieg und ruhiger Landung. Mache ein Crescendo nach oben, entspanne nach unten und halte den Fingersatz sauber. Technik zählt noch mehr, wenn sie einer musikalischen Geschichte dient.",
+          "ja": "レベル3は **アーク作り** です。今度は両手で、始まり、エネルギーの上昇、穏やかな着地がある1本の流れを作ります。上行ではクレッシェンド、下行では力を抜き、指使いは最後まできれいに保ちましょう。テクニックは、音楽の物語に仕えてこそ価値が増します。",
+          "zh-Hans": "第三关是 **弧线建造**。双手合起来，塑造一条完整的线：有开头、有能量上升、也有平静落地。上行时做渐强，下行时放松，指法始终保持干净。技术一旦服务于音乐叙事，就会变得更有意义。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final quest: perform **three endings** after the scale—one that stops on the tonic, one that turns into a small chord, and one that continues into a tiny improvised phrase. Keep the ending that feels the most convincing. The goal is not to escape scale practice; it is to prove that scale practice can already sound like music.",
+          "pt-BR": "Missão final: apresente **três finais** depois da escala — um parando na tônica, um virando um pequeno acorde e um continuando em uma frase improvisada curta. Guarde o final mais convincente. O objetivo não é fugir do estudo de escalas; é provar que ele já pode soar como música.",
+          "es": "Misión final: interpreta **tres finales** después de la escala: uno terminando en la tónica, otro convertido en un acorde pequeño y otro continuando en una frase improvisada corta. Quédate con el final más convincente. La meta no es escapar de la práctica de escalas, sino demostrar que la práctica de escalas ya puede sonar a música.",
+          "de": "Letzte Quest: Spiele nach der Skala **drei verschiedene Enden** — eines auf der Tonika, eines als kleiner Akkord und eines als kurze improvisierte Fortsetzung. Behalte das Ende, das am überzeugendsten wirkt. Das Ziel ist nicht, vor Skalenübung zu fliehen, sondern zu beweisen, dass Skalenübung bereits Musik sein kann.",
+          "ja": "最後のクエストは、スケールのあとに **3種類の終わり方** を弾くことです。主音で止める、短い和音に変える、短い即興フレーズに続ける。この中でいちばん説得力のある終わり方を残してください。目的はスケール練習から逃げることではなく、スケール練習そのものがすでに音楽になり得ると証明することです。",
+          "zh-Hans": "最终任务：在音阶之后演奏 **三种结尾** —— 一种停在主音，一种变成小和弦，一种继续发展成一个很短的即兴乐句。保留那个最有说服力的结尾。目标不是逃离音阶练习，而是证明音阶练习本身已经可以像音乐。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-11T00:10:53Z",
+  "updatedAt": "2026-06-11T00:10:53Z"
+}

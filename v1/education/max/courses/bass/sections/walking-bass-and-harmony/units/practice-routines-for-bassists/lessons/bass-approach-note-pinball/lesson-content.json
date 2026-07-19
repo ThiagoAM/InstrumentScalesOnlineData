@@ -1,0 +1,73 @@
+{
+  "id": "bass-approach-note-pinball",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Groove setup\n\nLoop **Gm7 - C7 - Fmaj7 - D7** and lock your metronome to **92 bpm**.\n\nStay mostly in the lower half of the neck and count **1 2 3 4** out loud for the first few rounds.\n\nToday you are building lines that feel grounded in the pocket but still full of motion.",
+          "pt-BR": "### Preparando o groove\n\nDeixe em loop **Gm7 - C7 - Fmaj7 - D7** e ajuste o metrônomo para **92 bpm**.\n\nFique principalmente na metade mais grave do braço e conte **1 2 3 4** em voz alta nas primeiras rodadas.\n\nHoje você vai construir linhas que soam firmes no groove, mas ainda cheias de movimento.",
+          "es": "### Preparación del groove\n\nPon en loop **Gm7 - C7 - Fmaj7 - D7** y ajusta el metrónomo a **92 bpm**.\n\nQuédate sobre todo en la mitad grave del mástil y cuenta **1 2 3 4** en voz alta durante las primeras rondas.\n\nHoy vas a construir líneas que se sientan sólidas en el groove pero también llenas de movimiento.",
+          "de": "### Groove-Aufbau\n\nLass **Gm7 - C7 - Fmaj7 - D7** loopen und stell das Metronom auf **92 bpm**.\n\nBleib hauptsächlich in der tieferen Hälfte des Halses und zähle in den ersten Runden **1 2 3 4** laut mit.\n\nHeute baust du Lines, die fest in der Pocket sitzen und trotzdem voller Bewegung sind.",
+          "ja": "### グルーヴの準備\n\n**Gm7 - C7 - Fmaj7 - D7** をループし、メトロノームを **92 bpm** に合わせます。\n\nネックの低めのエリアを中心に使い、最初の数回は **1 2 3 4** と声に出して数えましょう。\n\n今日は、ポケットにしっかり座りながらも動きのあるラインを作ります。",
+          "zh-Hans": "### Groove 准备\n\n把 **Gm7 - C7 - Fmaj7 - D7** 循环起来，节拍器设为 **92 bpm**。\n\n主要待在指板较低把位区域，前几轮一边弹一边大声数 **1 2 3 4**。\n\n今天你要做的是：既让线条稳稳坐在 groove 里，又保留足够的流动感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: hit roots with one-note approaches\n\nOn beat **1** of every bar, land on the **root** of the chord.\n\nOn beat **4**, approach that next root from either:\n- **one fret below**\n- **one fret above**\n- or **a diatonic step below**\n\nKeep beats 2 and 3 simple so the setup is crystal clear.",
+          "pt-BR": "### Rodada 1: acerte as tônicas com uma nota de aproximação\n\nNo tempo **1** de cada compasso, caia na **tônica** do acorde.\n\nNo tempo **4**, aproxime a próxima tônica vindo de:\n- **um traste abaixo**\n- **um traste acima**\n- ou **um grau diatônico abaixo**\n\nMantenha os tempos 2 e 3 simples para que a preparação fique cristalina.",
+          "es": "### Ronda 1: cae en las tónicas con una sola aproximación\n\nEn el tiempo **1** de cada compás, aterriza en la **tónica** del acorde.\n\nEn el tiempo **4**, acércate a la siguiente tónica desde:\n- **un traste abajo**\n- **un traste arriba**\n- o **un paso diatónico abajo**\n\nMantén simples los tiempos 2 y 3 para que la preparación quede clarísima.",
+          "de": "### Runde 1: Wurzeltöne mit einem Annäherungston treffen\n\nLande auf Schlag **1** jedes Taktes auf dem **Grundton** des Akkords.\n\nAuf Schlag **4** näherst du dich dem nächsten Grundton entweder von:\n- **einem Bund tiefer**\n- **einem Bund höher**\n- oder **einem diatonischen Schritt tiefer**\n\nHalte Schlag 2 und 3 einfach, damit die Vorbereitung glasklar bleibt.",
+          "ja": "### ラウンド1：1音のアプローチでルートに着地\n\n各小節の **1拍目** では、そのコードの **ルート** に着地します。\n\n**4拍目** では次のルートへ向けて、次のどれかで近づきます。\n- **1フレット下** から\n- **1フレット上** から\n- または **ダイアトニックで1音下** から\n\n2拍目と3拍目はシンプルにして、準備をはっきり見せてください。",
+          "zh-Hans": "### 第1轮：用一个经过音落到根音\n\n每小节的 **第1拍** 都落在该和弦的 **根音** 上。\n\n在 **第4拍**，用下面三种方式之一去接近下一个根音：\n- **低一品**\n- **高一品**\n- 或 **音阶内低一级**\n\n第2拍和第3拍尽量简单，让准备动作非常清楚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: upgrade the target to thirds and fifths\n\nNow alternate your beat-1 target between the **root**, **3rd**, and **5th** of each chord.\n\nYour approach note still happens on beat **4**, but it must point cleanly to the new target.\n\nIf the line stops feeling solid, reduce the rhythm before you add more notes.",
+          "pt-BR": "### Rodada 2: eleve o alvo para terças e quintas\n\nAgora alterne o alvo do tempo 1 entre **tônica**, **terça** e **quinta** de cada acorde.\n\nA nota de aproximação continua no tempo **4**, mas precisa apontar com clareza para o novo alvo.\n\nSe a linha perder firmeza, simplifique o ritmo antes de acrescentar mais notas.",
+          "es": "### Ronda 2: sube el objetivo a terceras y quintas\n\nAhora alterna tu objetivo del tiempo 1 entre la **tónica**, la **3.ª** y la **5.ª** de cada acorde.\n\nLa nota de aproximación sigue ocurriendo en el tiempo **4**, pero debe apuntar con claridad al nuevo objetivo.\n\nSi la línea deja de sentirse firme, reduce el ritmo antes de añadir más notas.",
+          "de": "### Runde 2: Ziel auf Terzen und Quinten erweitern\n\nWechsle dein Ziel auf Schlag 1 nun zwischen **Grundton**, **Terz** und **Quinte** jedes Akkords.\n\nDer Annäherungston bleibt auf Schlag **4**, muss aber jetzt sauber auf das neue Ziel zeigen.\n\nWenn die Line an Stabilität verliert, vereinfache zuerst den Rhythmus, bevor du mehr Töne hinzufügst.",
+          "ja": "### ラウンド2：ターゲットを3度と5度にも広げる\n\n今度は1拍目のターゲットを各コードの **ルート**、**3度**、**5度** で交互に使います。\n\nアプローチノートは引き続き **4拍目** に置きますが、新しいターゲットへきれいに向かわせてください。\n\nラインの安定感が落ちたら、音数を増やす前にリズムを減らしましょう。",
+          "zh-Hans": "### 第2轮：把目标升级到三音和五音\n\n现在把第1拍的目标在每个和弦的 **根音**、**三音** 和 **五音** 之间轮换。\n\n经过音仍然放在 **第4拍**，但必须清楚地指向新的目标音。\n\n如果线条开始不稳，就先减少节奏变化，再增加音符。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: add ghost notes without losing the lane\n\nKeep the same target plan, but add **one ghost note** on an upbeat in each bar.\n\nThe ghost note should add swagger, not confusion.\n\nYour job is to make the line feel more alive while the important landing notes stay obvious.",
+          "pt-BR": "### Rodada 3: adicione ghost notes sem sair da pista\n\nMantenha o mesmo plano de alvos, mas acrescente **uma ghost note** em um contratempo de cada compasso.\n\nA ghost note deve trazer atitude, não confusão.\n\nSeu trabalho é deixar a linha mais viva enquanto as notas de chegada continuam óbvias.",
+          "es": "### Ronda 3: añade ghost notes sin salirte del carril\n\nMantén el mismo plan de objetivos, pero añade **una ghost note** en un contratiempo de cada compás.\n\nLa ghost note debe aportar actitud, no confusión.\n\nTu trabajo es hacer que la línea suene más viva mientras las notas importantes siguen siendo evidentes.",
+          "de": "### Runde 3: Ghost Notes dazu, aber ohne die Spur zu verlieren\n\nBehalte denselben Zielplan, füge aber in jedem Takt **eine Ghost Note** auf einer Offbeat-Zählzeit hinzu.\n\nDie Ghost Note soll Würze bringen, nicht Verwirrung.\n\nDeine Aufgabe ist es, die Line lebendiger zu machen, während die wichtigen Landetöne klar hörbar bleiben.",
+          "ja": "### ラウンド3：ゴーストノートを加えてもレーンを外さない\n\n同じターゲット計画を保ったまま、各小節の裏拍に **1つゴーストノート** を加えます。\n\nゴーストノートはノリを増やすためのもので、混乱を生むためではありません。\n\n大事な着地点が明確に聞こえるまま、ライン全体をより生き生きさせるのが仕事です。",
+          "zh-Hans": "### 第3轮：加入闷音，但不要偏离车道\n\n保持同样的目标计划，同时在每小节的弱拍加入 **一个闷音**。\n\n这个闷音应该增加神气，而不是制造混乱。\n\n你的任务是让线条更有生命力，同时让关键落点依然明显。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge: pinball with control\n\nRecord **two 8-bar takes**:\n- one with mostly quarter notes\n- one with more syncopation and ghost notes\n\nIn both takes, every approach note should feel like it slingshots into the target instead of wandering past it.\n\nIf the groove makes someone nod and the harmony still sounds clear, mission cleared. 🎸",
+          "pt-BR": "### Desafio final: pinball com controle\n\nGrave **duas takes de 8 compassos**:\n- uma com a maioria em semínimas\n- outra com mais síncopes e ghost notes\n\nNas duas, cada nota de aproximação deve parecer um estilingue levando ao alvo, não um passeio perdido.\n\nSe o groove fizer alguém balançar a cabeça e a harmonia continuar clara, missão cumprida. 🎸",
+          "es": "### Desafío final: pinball con control\n\nGraba **dos tomas de 8 compases**:\n- una con mayormente negras\n- otra con más síncopas y ghost notes\n\nEn ambas tomas, cada nota de aproximación debe sentirse como una catapulta hacia el objetivo en vez de pasar de largo.\n\nSi el groove hace mover la cabeza y la armonía sigue clara, misión cumplida. 🎸",
+          "de": "### Endchallenge: Pinball mit Kontrolle\n\nNimm **zwei 8-taktige Takes** auf:\n- einen vor allem mit Viertelnoten\n- einen mit mehr Synkopen und Ghost Notes\n\nIn beiden Takes soll sich jeder Annäherungston wie eine Schleuder in das Ziel hinein anfühlen und nicht wie ein Vorbeistolpern.\n\nWenn der Groove Köpfe nicken lässt und die Harmonie klar bleibt, ist die Mission geschafft. 🎸",
+          "ja": "### 最終チャレンジ：制御されたピンボール\n\n**8小節のテイクを2本**録音しましょう。\n- 1本は主に4分音符中心\n- もう1本はシンコペーションとゴーストノート多め\n\nどちらのテイクでも、アプローチノートが行き過ぎるのではなく、狙った音へ勢いよく打ち込む感覚になるようにしてください。\n\nグルーヴで体が揺れ、しかもハーモニーが明確ならクリアです。 🎸",
+          "zh-Hans": "### 最终挑战：可控的弹珠台\n\n录下 **两段8小节**：\n- 一段以四分音符为主\n- 一段加入更多切分和闷音\n\n在两段里，每个经过音都应该像弹弓一样把你弹向目标，而不是从目标旁边飘过去。\n\n如果 groove 能让人点头，同时和声依然清楚，这关就过了。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-26T00:09:02Z",
+  "updatedAt": "2026-06-26T00:09:02Z"
+}

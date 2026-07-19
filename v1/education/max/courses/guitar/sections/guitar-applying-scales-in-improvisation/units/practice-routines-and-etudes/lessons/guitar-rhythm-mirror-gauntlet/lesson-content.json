@@ -1,0 +1,86 @@
+{
+  "id": "guitar-rhythm-mirror-gauntlet",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to **Rhythm Mirror Gauntlet**. Stay in **A minor pentatonic** or **C major** in one position and set a metronome or backing track between **80 and 96 BPM**. The challenge is simple: every phrase you play must have a rhythmic twin, but the twin is not allowed to be a lazy copy.",
+          "pt-BR": "Bem-vindo à **Arena do Espelho Rítmico**. Fique na **pentatônica menor de A** ou em **Dó maior** em uma única posição e ajuste o metrônomo ou playback entre **80 e 96 BPM**. O desafio é simples: toda frase que você tocar precisa ter uma gêmea rítmica, mas essa gêmea não pode ser uma cópia preguiçosa.",
+          "es": "Bienvenido al **Desafío del Espejo Rítmico**. Quédate en **la pentatónica menor de A** o en **Do mayor** en una sola posición y pon un metrónomo o backing track entre **80 y 96 BPM**. El reto es simple: cada frase que toques debe tener una gemela rítmica, pero esa gemela no puede ser una copia perezosa.",
+          "de": "Willkommen im **Rhythmusspiegel-Parcours**. Bleib in **A-Moll-Pentatonik** oder **C-Dur** in nur einer Lage und stelle Metronom oder Backing Track auf **80 bis 96 BPM**. Die Aufgabe ist einfach: Jede Phrase braucht einen rhythmischen Zwilling, aber dieser Zwilling darf keine faule Kopie sein.",
+          "ja": "**リズムミラー・ガントレット**へようこそ。**Aマイナー・ペンタトニック**または**Cメジャー**を1つのポジションで使い、メトロノームかバッキングを**80〜96 BPM**に設定しましょう。課題はシンプルです。弾いたフレーズには必ずリズムの双子を作ります。ただし、その双子は手抜きのコピーではいけません。",
+          "zh-Hans": "欢迎来到**节奏镜像闯关**。在一个把位里使用**A小调五声音阶**或**C大调**，把节拍器或伴奏设在**80到96 BPM**。挑战很简单：你弹出的每一句都必须有一个节奏双胞胎，但这个双胞胎不能只是偷懒的复制品。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **clean mirror**. Play a one-bar phrase using only **4 to 6 notes**, then answer it with the same rhythm on different scale tones. If the rhythm matches but the contour changes, you win. If both rhythm and notes stay the same, that is just parroting.",
+          "pt-BR": "A Rodada 1 é o **espelho limpo**. Toque uma frase de um compasso usando apenas **4 a 6 notas** e responda com o mesmo ritmo em outras notas da escala. Se o ritmo combinar, mas o contorno mudar, você venceu. Se ritmo e notas ficarem iguais, isso é só repetição automática.",
+          "es": "La Ronda 1 es el **espejo limpio**. Toca una frase de un compás usando solo **4 a 6 notas** y respóndela con el mismo ritmo sobre otros grados de la escala. Si el ritmo coincide pero la forma melódica cambia, ganas. Si ritmo y notas quedan iguales, eso es solo repetir.",
+          "de": "Runde 1 ist der **saubere Spiegel**. Spiele eine ein­taktige Phrase mit nur **4 bis 6 Tönen** und beantworte sie mit demselben Rhythmus auf anderen Skalentönen. Wenn der Rhythmus gleich bleibt, aber die Linienführung anders ist, gewinnst du. Wenn Rhythmus und Töne identisch bleiben, ist das nur Nachsprechen.",
+          "ja": "ラウンド1は**クリーンミラー**です。**4〜6音**だけで1小節のフレーズを弾き、同じリズムで別のスケール音に置き換えて返答します。リズムが同じで形が変わっていれば成功です。リズムも音も同じなら、ただの丸写しです。",
+          "zh-Hans": "第一关是**标准镜像**。先用**4到6个音**弹一个一小节乐句，再用相同节奏、不同音阶音来回答它。如果节奏一样而线条走向不同，你就赢了。如果节奏和音都一样，那只是机械重复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **crooked mirror**. Keep the same total length, but move one note earlier or later by an eighth note. This tiny change should make the reply feel more human and less robotic. Listen for whether the phrase now leans forward, relaxes, or creates a little surprise.",
+          "pt-BR": "A Rodada 2 é o **espelho torto**. Mantenha a mesma duração total, mas mova uma nota um pouco antes ou depois em uma colcheia. Essa mudança pequena deve deixar a resposta mais humana e menos robótica. Ouça se a frase agora empurra para frente, relaxa ou cria uma pequena surpresa.",
+          "es": "La Ronda 2 es el **espejo torcido**. Mantén la misma duración total, pero mueve una nota un poco antes o después por una corchea. Ese cambio pequeño debe hacer que la respuesta suene más humana y menos robótica. Escucha si la frase ahora empuja, descansa o crea una pequeña sorpresa.",
+          "de": "Runde 2 ist der **schiefe Spiegel**. Behalte die gleiche Gesamtlänge, aber verschiebe einen Ton um eine Achtelnote nach vorn oder hinten. Diese kleine Änderung soll die Antwort menschlicher und weniger mechanisch machen. Hör genau hin, ob die Phrase jetzt mehr schiebt, entspannter wirkt oder eine kleine Überraschung erzeugt.",
+          "ja": "ラウンド2は**ゆがんだミラー**です。全体の長さはそのままに、1音だけを8分音符ぶん前または後ろへずらします。この小さな変化で、返答が機械的ではなく人間らしく聞こえるはずです。前に進む感じ、落ち着く感じ、小さな意外性が生まれるか耳で確かめてください。",
+          "zh-Hans": "第二关是**歪斜镜像**。保持总时值不变，但把其中一个音提前或延后一拍的八分音符距离。这个微小变化应该让回答听起来更像人，而不是像机器。仔细听听乐句是否因此更有推动感、更放松，或者多了一点惊喜。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **target-note trap**. End your second phrase on a note that sounds stable over the backing chord, such as the **root**, **third**, or **fifth** when you can hear it. You are teaching your hands that rhythm is cool, but landing well is cooler.",
+          "pt-BR": "A Rodada 3 é a **armadilha da nota-alvo**. Termine a segunda frase em uma nota que soe estável sobre o acorde, como a **tônica**, a **terça** ou a **quinta** quando você conseguir ouvi-las. Você está ensinando suas mãos que ritmo é legal, mas pousar bem é ainda melhor.",
+          "es": "La Ronda 3 es la **trampa de la nota objetivo**. Termina tu segunda frase en una nota que suene estable sobre el acorde, como la **tónica**, la **tercera** o la **quinta** cuando puedas oírlas. Estás enseñando a tus manos que el ritmo es genial, pero aterrizar bien es todavía mejor.",
+          "de": "Runde 3 ist die **Zielton-Falle**. Beende deine zweite Phrase auf einem Ton, der über dem Akkord stabil klingt, zum Beispiel auf **Grundton**, **Terz** oder **Quinte**, wenn du sie heraushören kannst. Du bringst deinen Händen bei: Rhythmus ist cool, aber gut landen ist noch besser.",
+          "ja": "ラウンド3は**ターゲットノートの罠**です。2つ目のフレーズの終わりを、コードの上で安定して聞こえる音にします。たとえば**ルート**、**3度**、**5度**です。リズムが大事なのはもちろんですが、着地のうまさはさらに大事だと手に教える段階です。",
+          "zh-Hans": "第三关是**目标音陷阱**。让第二句结束在一个和伴奏和弦很稳定的音上，比如你能听出来的**根音**、**三度**或**五度**。这是在训练你的双手明白：节奏很酷，但落地准确更酷。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 4 is the **dynamic boss fight**. Keep the same phrase pair, but make the first phrase medium volume and the answer softer or louder on purpose. Great improvisers do not only shape pitch and rhythm; they shape attitude.",
+          "pt-BR": "A Rodada 4 é a **luta final de dinâmica**. Mantenha o mesmo par de frases, mas faça a primeira em volume médio e a resposta propositalmente mais fraca ou mais forte. Grandes improvisadores não moldam só altura e ritmo; eles moldam atitude.",
+          "es": "La Ronda 4 es la **batalla final de dinámica**. Conserva el mismo par de frases, pero haz la primera con volumen medio y la respuesta más suave o más fuerte a propósito. Los grandes improvisadores no solo moldean altura y ritmo; también moldean actitud.",
+          "de": "Runde 4 ist der **Dynamik-Endgegner**. Behalte dasselbe Phrasenpaar, aber spiele die erste Phrase in mittlerer Lautstärke und die Antwort absichtlich leiser oder lauter. Gute Improvisierende formen nicht nur Tonhöhe und Rhythmus, sondern auch Haltung.",
+          "ja": "ラウンド4は**ダイナミクスのボス戦**です。同じフレーズの組み合わせを使い、最初を中くらいの音量、返答を意図的に弱くするか強くしてください。優れた即興演奏者は音程とリズムだけでなく、キャラクターまで形作ります。",
+          "zh-Hans": "第四关是**力度大Boss**。保持同样的一组问答乐句，但让第一句用中等音量，第二句刻意更轻或更强。优秀的即兴演奏者塑造的不只是音高和节奏，还包括态度和性格。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: play **four call-and-response pairs** without stopping. After each pair, give yourself a fast score from 1 to 3 for **rhythm clarity**, **note choice**, and **musical confidence**. If one category keeps scoring low, that becomes tomorrow's mission instead of a mystery.",
+          "pt-BR": "Rodada final: toque **quatro pares de pergunta e resposta** sem parar. Depois de cada par, dê uma nota rápida de 1 a 3 para **clareza rítmica**, **escolha de notas** e **confiança musical**. Se uma categoria continuar baixa, ela vira a missão de amanhã em vez de continuar sendo um mistério.",
+          "es": "Ronda final: toca **cuatro pares de llamada y respuesta** sin detenerte. Después de cada par, date una nota rápida del 1 al 3 en **claridad rítmica**, **elección de notas** y **confianza musical**. Si una categoría sigue baja, esa será la misión de mañana en vez de seguir siendo un misterio.",
+          "de": "Finale Runde: Spiele **vier Call-and-Response-Paare** ohne anzuhalten. Nach jedem Paar gibst du dir schnell eine Wertung von 1 bis 3 für **rhythmische Klarheit**, **Tonwahl** und **musikalisches Selbstvertrauen**. Wenn ein Bereich ständig niedrig bleibt, wird daraus die Mission für morgen statt ein ungelöstes Rätsel.",
+          "ja": "最終ラウンドでは、**4組のコール＆レスポンス**を止まらずに続けます。各ペアのあとに、**リズムの明確さ**、**音の選び方**、**音楽的な自信**をそれぞれ1〜3で素早く採点してください。いつも低い項目があれば、それが明日の練習ミッションです。",
+          "zh-Hans": "最后一关：连续弹**四组呼应乐句**，中间不要停。每一组之后，分别给自己的**节奏清晰度**、**音符选择**和**音乐自信**打1到3分。如果某一项总是偏低，它就成为你明天的任务，而不是继续做一个谜团。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-14T00:09:35Z",
+  "updatedAt": "2026-05-14T00:09:35Z"
+}

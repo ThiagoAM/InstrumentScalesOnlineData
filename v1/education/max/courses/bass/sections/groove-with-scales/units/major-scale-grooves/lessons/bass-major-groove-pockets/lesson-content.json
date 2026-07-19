@@ -1,0 +1,86 @@
+{
+  "id": "bass-major-groove-pockets",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you’ll build “pocket” grooves using the major scale. The goal: steady time, clean tone, and tasty movement.",
+          "pt-BR": "Hoje você vai construir “bolsões” de groove usando a escala maior. Objetivo: tempo firme, som limpo e movimento gostoso.",
+          "es": "Hoy crearás “bolsillos” de groove usando la escala mayor. Meta: tiempo sólido, tono limpio y movimiento sabroso.",
+          "de": "Heute baust du „Groove-Pockets“ mit der Dur-Tonleiter. Ziel: stabiles Timing, sauberer Ton, geschmackvolle Bewegung.",
+          "ja": "今日はメジャースケールで「グルーヴ・ポケット」を作ります。目的は安定したタイム感とクリーンな音。",
+          "zh-Hans": "今天我们用大调音阶打造“律动口袋”。目标：稳准的节拍、干净的音色、好听的移动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick a key (G major works well). Set a metronome to 80–90 BPM and tap the beat with your foot.",
+          "pt-BR": "Escolha um tom (Sol maior funciona bem). Ajuste o metrônomo para 80–90 BPM e marque o tempo com o pé.",
+          "es": "Elige una tonalidad (Sol mayor va perfecto). Pon el metrónomo a 80–90 BPM y marca el pulso con el pie.",
+          "de": "Wähle eine Tonart (G-Dur passt gut). Stell das Metronom auf 80–90 BPM und tippe den Puls mit dem Fuß.",
+          "ja": "キーを選びます（Gメジャーがおすすめ）。メトロノームを80〜90 BPMにして足で拍を刻みましょう。",
+          "zh-Hans": "选一个调（G大调很合适）。把节拍器设到80–90 BPM，用脚打拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a two-bar loop using scale degrees 1–5–6–5. Keep it simple and even.",
+          "pt-BR": "Crie um loop de dois compassos usando os graus 1–5–6–5. Simples e uniforme.",
+          "es": "Crea un loop de dos compases con los grados 1–5–6–5. Simple y parejo.",
+          "de": "Erstelle einen Zwei-Takt-Loop mit den Stufen 1–5–6–5. Einfach und gleichmäßig.",
+          "ja": "度数1–5–6–5で2小節のループを作ります。シンプルで均一に。",
+          "zh-Hans": "用级数1–5–6–5做一个两小节循环，保持简单、均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add one passing note per bar (2 or 4) to connect the line. Listen for smoothness, not speed.",
+          "pt-BR": "Adicione uma nota de passagem por compasso (2 ou 4) para ligar a linha. Procure suavidade, não velocidade.",
+          "es": "Añade una nota de paso por compás (2 o 4) para conectar la línea. Busca suavidad, no velocidad.",
+          "de": "Füge pro Takt eine Durchgangsnote (2 oder 4) hinzu, um die Linie zu verbinden. Achte auf Geschmeidigkeit, nicht Tempo.",
+          "ja": "各小節に1つだけ経過音（2または4）を入れてラインをつなげます。速さより滑らかさ。",
+          "zh-Hans": "每小节加一个经过音（2或4）来连接线条。追求顺滑，不追求速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Ghost-note challenge: add a light muted hit on beat 4 of each bar. Keep the groove relaxed.",
+          "pt-BR": "Desafio da ghost note: coloque um ataque abafado leve no tempo 4 de cada compasso. Deixe o groove relaxado.",
+          "es": "Reto de ghost note: agrega un golpe apagado suave en el tiempo 4 de cada compás. Mantén el groove relajado.",
+          "de": "Ghost-Note-Challenge: Setze auf Schlag 4 jedes Taktes einen leisen, gedämpften Anschlag. Groove bleibt entspannt.",
+          "ja": "ゴーストノート・チャレンジ：各小節の4拍目に軽くミュートしたアタックを入れます。リラックスしたグルーヴで。",
+          "zh-Hans": "幽灵音挑战：每小节第4拍轻轻加一个闷音击弦。让律动保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Jam test: loop the pattern for 2 minutes without stopping. If you drift, slow down and reset.",
+          "pt-BR": "Teste de jam: mantenha o padrão por 2 minutos sem parar. Se sair do tempo, diminua e recomece.",
+          "es": "Prueba de jam: repite el patrón por 2 minutos sin parar. Si te sales del tiempo, baja la velocidad y reinicia.",
+          "de": "Jam-Test: Spiele das Pattern 2 Minuten ohne Pause. Wenn du driftest, langsamer werden und neu starten.",
+          "ja": "ジャムテスト：2分間ノンストップでループ。ずれたらテンポを落としてやり直し。",
+          "zh-Hans": "合奏测试：连续循环2分钟不间断。如果跑拍，降速重来。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-21T00:03:57Z",
+  "updatedAt": "2026-03-21T00:03:57Z"
+}

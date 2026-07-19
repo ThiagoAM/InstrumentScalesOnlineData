@@ -1,0 +1,73 @@
+{
+  "id": "piano-voicing-runway",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Setup for takeoff\n\nLoop **Dm7 - G7 - Cmaj7 - A7** and set the metronome to **86 bpm**.\n\nPlay simple left-hand shells with **root + 7th** or **root + 3rd**, and keep your right hand near middle C.\n\nToday’s goal is to make your scale practice sound like real music, not a finger drill in disguise.",
+          "pt-BR": "### Preparando a decolagem\n\nDeixe em loop **Dm7 - G7 - Cmaj7 - A7** e coloque o metrônomo em **86 bpm**.\n\nToque voicings simples na mão esquerda com **tônica + 7ª** ou **tônica + 3ª**, e mantenha a mão direita perto do dó central.\n\nO objetivo de hoje é fazer seu estudo de escalas soar como música de verdade, e não como um exercício disfarçado de dedos.",
+          "es": "### Preparación para despegar\n\nPon en loop **Dm7 - G7 - Cmaj7 - A7** y ajusta el metrónomo a **86 bpm**.\n\nToca shells sencillos en la mano izquierda con **tónica + 7.ª** o **tónica + 3.ª**, y mantén la mano derecha cerca del do central.\n\nLa meta de hoy es que tu práctica de escalas suene como música real y no como un ejercicio de dedos disfrazado.",
+          "de": "### Startvorbereitung\n\nLass **Dm7 - G7 - Cmaj7 - A7** loopen und stell das Metronom auf **86 bpm**.\n\nSpiele einfache Shell-Voicings in der linken Hand mit **Grundton + 7** oder **Grundton + 3**, und halte die rechte Hand in der Nähe des eingestrichenen C.\n\nDas Ziel heute ist, dass dein Skalen-Üben wie echte Musik klingt und nicht wie eine verkleidete Fingerübung.",
+          "ja": "### 離陸準備\n\n**Dm7 - G7 - Cmaj7 - A7** をループし、メトロノームを **86 bpm** に設定します。\n\n左手は **ルート＋7度** または **ルート＋3度** のシンプルなシェル・ボイシングを弾き、右手は中央のド付近に置きます。\n\n今日の目標は、スケール練習を指の体操ではなく、ちゃんと音楽に聞こえるものにすることです。",
+          "zh-Hans": "### 起飞准备\n\n把 **Dm7 - G7 - Cmaj7 - A7** 循环起来，节拍器设为 **86 bpm**。\n\n左手弹简单的 shell voicing：**根音+七音** 或 **根音+三音**，右手保持在中央 C 附近。\n\n今天的目标，是让你的音阶练习听起来像真正的音乐，而不是伪装成音乐的手指操。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: right hand targets, left hand anchors\n\nWith the left hand holding the shell voicing, make your right hand land on a clear target on beat **1** of each chord.\n\nUse this target menu:\n- **F or C** on Dm7\n- **B or F** on G7\n- **E or B** on Cmaj7\n- **C# or G** on A7\n\nFill the rest of the bar with nearby scale motion.",
+          "pt-BR": "### Rodada 1: alvos na mão direita, âncoras na esquerda\n\nCom a mão esquerda sustentando o voicing, faça a mão direita cair em um alvo claro no tempo **1** de cada acorde.\n\nUse este menu de alvos:\n- **F ou C** em Dm7\n- **B ou F** em G7\n- **E ou B** em Cmaj7\n- **C# ou G** em A7\n\nComplete o resto do compasso com movimento de escala por perto.",
+          "es": "### Ronda 1: objetivos en la derecha, anclas en la izquierda\n\nCon la mano izquierda sosteniendo el voicing, haz que la derecha caiga en un objetivo claro en el tiempo **1** de cada acorde.\n\nUsa este menú de objetivos:\n- **F o C** en Dm7\n- **B o F** en G7\n- **E o B** en Cmaj7\n- **C# o G** en A7\n\nCompleta el resto del compás con movimiento de escala cercano.",
+          "de": "### Runde 1: Ziele rechts, Anker links\n\nWährend die linke Hand das Voicing hält, landet die rechte Hand auf Schlag **1** jedes Akkords auf einem klaren Zielton.\n\nNutze dieses Zielmenü:\n- **F oder C** auf Dm7\n- **B oder F** auf G7\n- **E oder B** auf Cmaj7\n- **C# oder G** auf A7\n\nFülle den Rest des Taktes mit naher Skalenbewegung.",
+          "ja": "### ラウンド1：右手はターゲット、左手はアンカー\n\n左手でボイシングを支えながら、右手は各コードの **1拍目** に明確なターゲット音へ着地します。\n\nターゲット候補はこちらです。\n- Dm7 では **F** または **C**\n- G7 では **B** または **F**\n- Cmaj7 では **E** または **B**\n- A7 では **C#** または **G**\n\n残りの拍は近くのスケール音でつなぎましょう。",
+          "zh-Hans": "### 第1轮：右手定目标，左手做锚点\n\n左手保持 voicing 时，让右手在每个和弦的 **第1拍** 落到一个清晰的目标音上。\n\n目标菜单如下：\n- Dm7 用 **F** 或 **C**\n- G7 用 **B** 或 **F**\n- Cmaj7 用 **E** 或 **B**\n- A7 用 **C#** 或 **G**\n\n小节剩余部分用附近的音阶运动来填充。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: delayed landing\n\nKeep the same target notes, but this time do **not** land on beat 1.\n\nStart each idea on the **& of 1** or the **& of 2**, then arrive at the target slightly later while the left hand stays steady.\n\nThis trains your phrasing to breathe instead of announcing everything immediately.",
+          "pt-BR": "### Rodada 2: pouso atrasado\n\nMantenha as mesmas notas-alvo, mas desta vez **não** caia no tempo 1.\n\nComece cada ideia no **& de 1** ou no **& de 2**, e chegue ao alvo um pouco depois, enquanto a mão esquerda permanece estável.\n\nIsso treina seu fraseado para respirar em vez de anunciar tudo imediatamente.",
+          "es": "### Ronda 2: aterrizaje tardío\n\nMantén las mismas notas objetivo, pero esta vez **no** aterrices en el tiempo 1.\n\nEmpieza cada idea en el **& de 1** o en el **& de 2**, y llega al objetivo un poco más tarde mientras la mano izquierda sigue firme.\n\nEsto entrena tu fraseo para que respire en lugar de anunciarlo todo al instante.",
+          "de": "### Runde 2: verspätete Landung\n\nBehalte dieselben Zieltöne, aber lande diesmal **nicht** auf Schlag 1.\n\nBeginne jede Idee auf dem **& von 1** oder dem **& von 2** und erreiche den Zielton etwas später, während die linke Hand stabil bleibt.\n\nSo lernt deine Phrasierung zu atmen, statt alles sofort zu verraten.",
+          "ja": "### ラウンド2：少し遅れて着地する\n\n同じターゲット音を使いますが、今回は **1拍目には着地しません**。\n\n各アイデアを **1拍目の裏** または **2拍目の裏** から始め、左手を安定させたまま少し遅れてターゲットに到着します。\n\nこれで、何でも即座に言い切るのではなく、呼吸するフレージングを鍛えられます。",
+          "zh-Hans": "### 第2轮：延迟着陆\n\n保持同样的目标音，但这次 **不要** 在第1拍落下。\n\n每个乐句从 **1拍后的“&”** 或 **2拍后的“&”** 开始，同时左手保持稳定，再稍晚一点落到目标音。\n\n这样能训练你的乐句会“呼吸”，而不是一上来就把一切说完。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: invert the left hand, reshape the right hand\n\nChange the left-hand shell inversion on every chorus, but preserve the harmonic function.\n\nYour right hand must react by taking a slightly different path to the same target notes.\n\nIf the voicing changes your balance, simplify the rhythm and keep the target strong.",
+          "pt-BR": "### Rodada 3: inverta a esquerda, remodele a direita\n\nTroque a inversão do voicing da mão esquerda a cada volta, mas preserve a função harmônica.\n\nA mão direita precisa reagir fazendo um caminho levemente diferente até as mesmas notas-alvo.\n\nSe a mudança de voicing mexer no equilíbrio, simplifique o ritmo e mantenha o alvo forte.",
+          "es": "### Ronda 3: invierte la izquierda, remodela la derecha\n\nCambia la inversión del shell en la mano izquierda en cada vuelta, pero conserva la función armónica.\n\nTu mano derecha debe reaccionar tomando un camino un poco distinto hacia las mismas notas objetivo.\n\nSi el cambio de voicing altera tu equilibrio, simplifica el ritmo y mantén fuerte el objetivo.",
+          "de": "### Runde 3: linke Hand umkehren, rechte neu formen\n\nWechsle in jedem Durchgang die Umkehrung des Shell-Voicings in der linken Hand, aber behalte die harmonische Funktion bei.\n\nDie rechte Hand muss darauf reagieren und einen leicht anderen Weg zu denselben Zieltönen finden.\n\nWenn dich der Voicing-Wechsel aus dem Gleichgewicht bringt, vereinfache den Rhythmus und halte das Ziel deutlich.",
+          "ja": "### ラウンド3：左手を転回し、右手の道筋を変える\n\nコーラスごとに左手のシェル・ボイシングの転回形を変えつつ、和声機能は保ってください。\n\n右手はそれに反応して、同じターゲット音へ少し違うルートで向かいます。\n\nボイシングの変化で不安定になったら、リズムを簡単にしてターゲットを強く保ちましょう。",
+          "zh-Hans": "### 第3轮：左手转位，右手改路线\n\n每一遍都改变左手 shell voicing 的转位，但保持相同的和声功能。\n\n右手必须随之调整，用稍微不同的路径走向同样的目标音。\n\n如果 voicing 的变化打乱了平衡，就先简化节奏，继续把目标音弹得明确。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge: runway to release\n\nRecord **two 4-bar improvisations**:\n- one calm and spacious\n- one brighter with more rhythmic push\n\nIn both takes, the left hand should feel like runway lights and the right hand should sound like it knows exactly where to land.\n\nIf the progression feels visible in the melody, you nailed it. 🎹",
+          "pt-BR": "### Desafio final: da pista ao voo\n\nGrave **duas improvisações de 4 compassos**:\n- uma calma e espaçosa\n- outra mais brilhante, com maior impulso rítmico\n\nNas duas, a mão esquerda deve parecer luzes de pista e a mão direita deve soar como se soubesse exatamente onde pousar.\n\nSe a progressão ficar visível dentro da melodia, você acertou em cheio. 🎹",
+          "es": "### Desafío final: de la pista al vuelo\n\nGraba **dos improvisaciones de 4 compases**:\n- una tranquila y espaciosa\n- otra más brillante, con mayor empuje rítmico\n\nEn ambas, la mano izquierda debe sentirse como luces de pista y la mano derecha debe sonar como si supiera exactamente dónde aterrizar.\n\nSi la progresión se vuelve visible dentro de la melodía, lo lograste. 🎹",
+          "de": "### Endchallenge: von der Startbahn zum Flug\n\nNimm **zwei 4-taktige Improvisationen** auf:\n- eine ruhig und luftig\n- eine heller mit mehr rhythmischem Schub\n\nIn beiden Takes soll sich die linke Hand wie Startbahnlichter anfühlen und die rechte so klingen, als wüsste sie genau, wo sie landen will.\n\nWenn man die Progression in der Melodie hören kann, hast du es geschafft. 🎹",
+          "ja": "### 最終チャレンジ：滑走路から解放へ\n\n**4小節の即興を2本**録音しましょう。\n- 1本は落ち着いて余白を活かす\n- もう1本は明るく、リズムの推進力を強める\n\nどちらでも左手は滑走路の灯りのように、右手は着地点を正確に知っているように聞こえるのが理想です。\n\nメロディの中に進行が見えるなら成功です。 🎹",
+          "zh-Hans": "### 最终挑战：从跑道到腾空\n\n录下 **两段4小节即兴**：\n- 一段平静、留白更多\n- 一段更明亮，节奏推动更强\n\n两段里，左手都应该像跑道灯光，右手则像非常清楚自己要落在哪里。\n\n如果听众能从旋律里“看见”和弦进行，你就成功了。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-26T00:10:19Z",
+  "updatedAt": "2026-06-26T00:10:19Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "bass-ghost-lane-dare",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Take **D major** or **A mixolydian** and set a drum loop or metronome to **88-102 BPM**. Today your groove has two traffic lanes: the **solid lane** uses clear scale tones, and the **ghost lane** uses muted notes and silence to create swagger. The dare is to switch lanes without losing the road underneath the band.",
+          "pt-BR": "Pegue **ré maior** ou **lá mixolídio** e coloque um loop de bateria ou metrônomo entre **88-102 BPM**. Hoje o seu groove tem duas faixas de trânsito: a **faixa sólida** usa notas claras da escala, e a **faixa fantasma** usa notas abafadas e silêncio para criar atitude. O desafio é trocar de faixa sem perder a estrada embaixo da banda.",
+          "es": "Toma **re mayor** o **la mixolidio** y pon un loop de batería o metrónomo entre **88-102 BPM**. Hoy tu groove tiene dos carriles: el **carril sólido** usa notas claras de la escala y el **carril fantasma** usa notas apagadas y silencio para crear actitud. El desafío es cambiar de carril sin perder la carretera que sostiene a la banda.",
+          "de": "Nimm **D-Dur** oder **A-Mixolydisch** und stelle Drum-Loop oder Metronom auf **88-102 BPM**. Dein Groove hat heute zwei Fahrspuren: die **klare Spur** mit deutlichen Skalentönen und die **Geisterspur** mit gedämpften Noten und Stille für mehr Swagger. Die Mutprobe besteht darin, die Spur zu wechseln, ohne die Straße unter der Band zu verlieren.",
+          "ja": "**Dメジャー** か **Aミクソリディアン** を選び、ドラムループかメトロノームを **88〜102 BPM** に設定します。今日のグルーヴには2本の車線があります。**ソリッドレーン** ははっきりしたスケール音、**ゴーストレーン** はミュート音と無音で色気を作ります。課題は、バンドの土台を失わずにその車線を切り替えることです。",
+          "zh-Hans": "选择 **D 大调** 或 **A 混合利底亚**，把鼓 loop 或节拍器设在 **88-102 BPM**。今天你的 groove 有两条车道：**实体车道** 用清晰的音阶音，**幽灵车道** 用闷音和空白制造态度。这个挑战，就是在不让乐队脚下路面塌掉的前提下，自如切换车道。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a **lane check**. In bar 1, play roots, fifths, and one passing tone only. In bar 2, keep the same shape but replace one played note with a ghost note and leave one eighth-note rest. Keep looping until both bars feel equally intentional. A ghost note is not filler — it is a rhythmic wink with consequences.",
+          "pt-BR": "Comece com uma **checagem de faixa**. No compasso 1, toque apenas tônicas, quintas e uma nota de passagem. No compasso 2, mantenha o mesmo desenho, mas troque uma nota tocada por uma ghost note e deixe uma pausa de colcheia. Continue repetindo até os dois compassos parecerem igualmente intencionais. Ghost note não é enchimento — é uma piscada rítmica com consequências.",
+          "es": "Empieza con una **revisión de carril**. En el compás 1, toca solo tónicas, quintas y una nota de paso. En el compás 2, mantén la misma forma pero sustituye una nota tocada por una ghost note y deja un silencio de corchea. Sigue repitiendo hasta que ambos compases se sientan igual de intencionales. Una ghost note no es relleno: es un guiño rítmico con consecuencias.",
+          "de": "Beginne mit einem **Spur-Check**. Spiele in Takt 1 nur Grundtöne, Quinten und einen Durchgangston. Behalte in Takt 2 dieselbe Form, ersetze aber einen gespielten Ton durch eine Ghost Note und lass eine Achtelpause stehen. Wiederhole das, bis sich beide Takte gleich bewusst anfühlen. Eine Ghost Note ist kein Füllmaterial — sie ist ein rhythmisches Zwinkern mit Folgen.",
+          "ja": "まずは **レーンチェック** です。1小節目はルート、5度、経過音1つだけを使います。2小節目は同じ形を保ちつつ、1つの実音をゴーストノートに置き換え、さらに8分休符を1つ入れましょう。両方の小節が同じくらい意図的に感じられるまで繰り返します。ゴーストノートは埋め草ではなく、結果を伴うリズムのウインクです。",
+          "zh-Hans": "先做一个 **车道检查**。第 1 小节只用根音、五度和一个经过音。第 2 小节保持同样轮廓，但把一个实音换成幽灵音，并留出一个八分音符休止。循环到这两小节都显得同样有意图。幽灵音不是填充物——它是一个会产生后果的节奏眨眼。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now run a **three-lane challenge** over four bars.\n- Bar 1: stay mostly in the solid lane\n- Bar 2: add one ghost note before beat 3\n- Bar 3: leave beat 4 open\n- Bar 4: climb back into a strong root landing\n\nIf bar 4 does not feel like a payoff, the earlier bars were not setting up enough tension.",
+          "pt-BR": "Agora faça um **desafio de três faixas** em quatro compassos.\n- Compasso 1: fique principalmente na faixa sólida\n- Compasso 2: adicione uma ghost note antes do tempo 3\n- Compasso 3: deixe o tempo 4 aberto\n- Compasso 4: suba de volta para uma chegada forte na tônica\n\nSe o compasso 4 não soar como recompensa, os compassos anteriores não criaram tensão suficiente.",
+          "es": "Ahora haz un **desafío de tres carriles** en cuatro compases.\n- Compás 1: quédate sobre todo en el carril sólido\n- Compás 2: añade una ghost note antes del tiempo 3\n- Compás 3: deja libre el tiempo 4\n- Compás 4: vuelve a subir hacia un aterrizaje fuerte en la tónica\n\nSi el compás 4 no se siente como una recompensa, los compases anteriores no estaban creando suficiente tensión.",
+          "de": "Spiele jetzt eine **Drei-Spuren-Challenge** über vier Takte.\n- Takt 1: bleib überwiegend auf der klaren Spur\n- Takt 2: füge vor Schlag 3 eine Ghost Note hinzu\n- Takt 3: lass Schlag 4 offen\n- Takt 4: klettere zurück in eine starke Grundton-Landung\n\nWenn sich Takt 4 nicht wie eine Auszahlung anfühlt, haben die Takte davor nicht genug Spannung aufgebaut.",
+          "ja": "次は4小節の **3レーン・チャレンジ** です。\n- 1小節目: ほぼソリッドレーンにとどまる\n- 2小節目: 3拍目の前にゴーストノートを1つ入れる\n- 3小節目: 4拍目を空ける\n- 4小節目: 強いルート着地へ戻る\n\n4小節目が“報われた感じ”にならないなら、その前の小節で十分な緊張を作れていません。",
+          "zh-Hans": "然后做一个四小节的 **三车道挑战**。\n- 第 1 小节：主要待在实体车道\n- 第 2 小节：在第 3 拍前加一个幽灵音\n- 第 3 小节：把第 4 拍空出来\n- 第 4 小节：重新爬回一个强力的根音落点\n\n如果第 4 小节没有“兑现”的感觉，说明前面几小节没有制造出足够张力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next comes the **danger merge**. Every two bars, choose one extra rule:\n- start with a ghost note pickup\n- answer beat 2 with a rest instead of a note\n- approach the root from one scale step below\n- repeat a rhythmic cell but move it to a new string\n- use one octave jump and immediately relax back down\n\nThis is where your time feel has to stay calm even when the line gets cheeky.",
+          "pt-BR": "Em seguida vem a **convergência perigosa**. A cada dois compassos, escolha uma regra extra:\n- começar com uma ghost note de preparação\n- responder o tempo 2 com uma pausa em vez de nota\n- aproximar a tônica por um grau abaixo\n- repetir uma célula rítmica, mas movê-la para outra corda\n- usar um salto de oitava e relaxar imediatamente para baixo\n\nÉ aqui que a sua sensação de tempo precisa ficar calma mesmo quando a linha fica atrevida.",
+          "es": "Luego llega la **fusión peligrosa**. Cada dos compases, elige una regla extra:\n- empezar con una ghost note de pickup\n- responder el tiempo 2 con un silencio en vez de nota\n- acercarte a la tónica desde un grado inferior\n- repetir una célula rítmica pero moverla a otra cuerda\n- usar un salto de octava y relajarte enseguida hacia abajo\n\nAquí tu sensación del tiempo debe seguir tranquila incluso cuando la línea se pone atrevida.",
+          "de": "Danach kommt die **gefährliche Zusammenführung**. Wähle alle zwei Takte eine Zusatzregel:\n- mit einer Ghost-Note-Auftakt beginnen\n- Schlag 2 mit einer Pause statt mit einem Ton beantworten\n- den Grundton einen Skalen-Schritt von unten annähern\n- eine Rhythmuszelle wiederholen, aber auf eine neue Saite verschieben\n- einen Oktavsprung machen und sofort wieder entspannen\n\nHier muss dein Zeitgefühl ruhig bleiben, auch wenn die Linie frecher wird.",
+          "ja": "続いて **危険な合流** です。2小節ごとに追加ルールを1つ選びます。\n- ゴーストノートのピックアップで始める\n- 2拍目を音ではなく休符で返す\n- ルートへ1音下から近づく\n- リズムセルを繰り返しつつ別の弦へ移す\n- オクターブ跳躍を1回使い、すぐ落ち着いて戻る\n\nラインが生意気になっても、タイム感は落ち着いたままでいなければなりません。",
+          "zh-Hans": "接下来是 **危险并线**。每两小节选择一条额外规则：\n- 用一个幽灵音起拍进入\n- 第 2 拍用休止而不是音来回答\n- 从低一个级进音接近根音\n- 重复一个节奏单元，但挪到另一根弦上\n- 用一次八度跳进，然后立刻放松回落\n\n这时就算线条开始顽皮，你的时间感也必须保持冷静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Record a **pocket courtroom** round. Play one version that is dry, clean, and almost stubborn. Then play a second version that uses more ghost lane energy without getting messy. Listen back and judge: which take would make a drummer trust you faster? Groove is not about doing more. It is about making the right motion feel inevitable.",
+          "pt-BR": "Grave uma rodada de **tribunal do pocket**. Toque uma versão seca, limpa e quase teimosa. Depois toque uma segunda versão com mais energia de faixa fantasma sem virar bagunça. Ouça de volta e julgue: em qual tomada um baterista confiaria mais rápido em você? Groove não é fazer mais. É fazer o movimento certo parecer inevitável.",
+          "es": "Graba una ronda de **tribunal del pocket**. Toca una versión seca, limpia y casi testaruda. Luego toca una segunda versión con más energía del carril fantasma sin que se vuelva desordenada. Escúchalas y juzga: ¿en qué toma confiaría antes un baterista? El groove no consiste en hacer más; consiste en hacer que el movimiento correcto parezca inevitable.",
+          "de": "Nimm eine Runde **Pocket-Gerichtssaal** auf. Spiele zuerst eine trockene, saubere und fast störrische Version. Danach spielst du eine zweite Version mit mehr Energie aus der Geisterspur, ohne dass sie chaotisch wird. Höre zurück und urteile: Bei welchem Take würde dir ein Drummer schneller vertrauen? Groove heißt nicht, mehr zu machen. Es heißt, die richtige Bewegung unvermeidbar wirken zu lassen.",
+          "ja": "**ポケット法廷** ラウンドを録音しましょう。まず乾いていてクリーン、少し頑固なくらいのバージョンを弾きます。そのあと、散らからない範囲でゴーストレーンのエネルギーを増やした第2バージョンを弾きます。聴き返して判断してください。ドラマーがより早く信頼するのはどちらでしょうか。グルーヴとは“たくさんやること”ではなく、“正しい動きを必然に聞かせること”です。",
+          "zh-Hans": "录一轮 **pocket 法庭**。先弹一个干、净、几乎有点固执的版本。再弹第二个版本，加入更多幽灵车道的能量，但不能乱。回放后判断：哪一个版本会更快让鼓手信任你？Groove 不是做得更多，而是让正确的动作听起来像必然发生。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with the **ghost lane dare**: improvise eight bars and never use ghost notes in the same spot twice in a row. Still, every second bar must land with authority on the root or fifth. Afterward, write down where the line felt coolest and where it nearly tripped over itself. That contrast is teaching you how to make bass lines breathe and hit hard at the same time. 🎸",
+          "pt-BR": "Termine com o **desafio da faixa fantasma**: improvise oito compassos e nunca use ghost notes no mesmo lugar duas vezes seguidas. Mesmo assim, cada segundo compasso precisa pousar com autoridade na tônica ou na quinta. Depois, anote onde a linha soou mais legal e onde quase tropeçou nela mesma. Esse contraste está ensinando você a fazer linhas de baixo respirarem e baterem forte ao mesmo tempo. 🎸",
+          "es": "Termina con el **desafío del carril fantasma**: improvisa ocho compases y no uses ghost notes en el mismo lugar dos veces seguidas. Aun así, cada segundo compás debe aterrizar con autoridad en la tónica o la quinta. Después anota dónde la línea sonó más fresca y dónde casi tropezó consigo misma. Ese contraste te está enseñando a hacer que las líneas de bajo respiren y golpeen fuerte a la vez. 🎸",
+          "de": "Beende die Lektion mit der **Geisterspur-Mutprobe**: improvisiere acht Takte und setze Ghost Notes nie zweimal hintereinander an dieselbe Stelle. Trotzdem muss jeder zweite Takt mit Autorität auf Grundton oder Quinte landen. Schreib danach auf, wo die Linie am coolsten klang und wo sie fast über sich selbst gestolpert wäre. Genau dieser Kontrast zeigt dir, wie Basslinien gleichzeitig atmen und knallen können. 🎸",
+          "ja": "最後は **ゴーストレーン・チャレンジ**。8小節即興し、ゴーストノートを同じ位置に2回続けて置かないようにします。それでも2小節ごとに、ルートか5度へしっかり着地しなければなりません。終わったら、いちばんかっこよく聞こえた場所と、危うく自分でつまずきそうだった場所を書き残してください。その対比こそが、呼吸しながらも強く当たるベースラインの作り方を教えてくれます。 🎸",
+          "zh-Hans": "最后完成 **幽灵车道挑战**：即兴 8 小节，而且幽灵音不能连续两次出现在同一个位置上。即便如此，每隔一小节还是必须有力地落在根音或五度上。结束后写下哪里最酷，哪里差点把自己绊倒。这个反差，正是在教你如何让贝斯线既会呼吸，又能重击。 🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-18T00:08:11Z",
+  "updatedAt": "2026-05-18T00:08:11Z"
+}

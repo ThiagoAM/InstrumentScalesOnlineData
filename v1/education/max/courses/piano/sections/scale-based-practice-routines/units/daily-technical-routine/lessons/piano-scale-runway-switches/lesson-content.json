@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-runway-switches",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose Bb major and picture the keyboard as a runway with changing signal lights. Set the metronome to 72 BPM and play two octaves hands together. Before you start, check three things: loose wrists, curved fingers, and silent thumb crossings. The goal is to make every takeoff feel stable before you add any extra pressure.",
+          "pt-BR": "Escolha Sib maior e imagine o teclado como uma pista com luzes de sinal mudando. Coloque o metrônomo em 72 BPM e toque duas oitavas com as mãos juntas. Antes de começar, confira três coisas: punhos soltos, dedos curvos e passagens de polegar silenciosas. O objetivo é fazer cada decolagem soar estável antes de adicionar qualquer pressão extra.",
+          "es": "Elige Sib mayor e imagina el teclado como una pista con luces de señal cambiando. Pon el metrónomo a 72 BPM y toca dos octavas con ambas manos juntas. Antes de empezar, revisa tres cosas: muñecas sueltas, dedos curvos y cruces de pulgar silenciosos. El objetivo es que cada despegue se sienta estable antes de añadir presión extra.",
+          "de": "Wähle B-Dur und stell dir die Tastatur wie eine Startbahn mit wechselnden Signalleuchten vor. Stell das Metronom auf 72 BPM und spiele zwei Oktaven mit beiden Händen zusammen. Prüfe vor dem Start drei Dinge: lockere Handgelenke, runde Finger und leise Daumenuntersätze. Das Ziel ist, dass sich jeder Start stabil anfühlt, bevor du zusätzlichen Druck hinzufügst.",
+          "ja": "Bbメジャーを選び、鍵盤を信号が切り替わる滑走路だと想像してください。メトロノームを72 BPMに設定し、両手で2オクターブ弾きます。始める前に、手首の脱力、丸い指、静かな親指くぐりの3点を確認します。追加の負荷をかける前に、毎回の離陸を安定させることが目標です。",
+          "zh-Hans": "选择 Bb 大调，把键盘想成一条不断切换信号灯的跑道。把节拍器设在 72 BPM，双手一起弹两八度。开始前先检查三件事：手腕放松、手指弯曲、拇指穿越安静。目标是在增加任何压力之前，先让每一次起飞都足够稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now use two runway signals. Green means fully legato. Yellow means lightly detached. Play one ascent and descent in green, then the next in yellow, without changing tempo. If the switch in touch makes the scale wobble, slow down and make the landing smooth again.",
+          "pt-BR": "Agora use dois sinais de pista. Verde significa totalmente legato. Amarelo significa levemente destacado. Toque uma subida e descida em verde, depois a próxima em amarelo, sem mudar o andamento. Se a troca de toque fizer a escala balançar, diminua e torne a aterrissagem suave de novo.",
+          "es": "Ahora usa dos señales de pista. Verde significa totalmente legato. Amarillo significa ligeramente separado. Toca una subida y bajada en verde y la siguiente en amarillo, sin cambiar el tempo. Si el cambio de toque hace que la escala se tambalee, baja la velocidad y vuelve a suavizar el aterrizaje.",
+          "de": "Jetzt nutzt du zwei Startbahn-Signale. Grün bedeutet vollständig legato. Gelb bedeutet leicht abgesetzt. Spiele einen Auf- und Abgang in Grün und den nächsten in Gelb, ohne das Tempo zu ändern. Wenn der Wechsel im Anschlag die Tonleiter wackeln lässt, geh langsamer und mach die Landung wieder glatt.",
+          "ja": "次に2つの滑走路シグナルを使います。緑は完全なレガート、黄色は軽く切るタッチです。1回目の上行下行を緑、次を黄色で弾き、テンポは変えません。タッチの切り替えでスケールが揺れるなら、速度を落として着地をなめらかに戻しましょう。",
+          "zh-Hans": "现在使用两种跑道信号。绿色代表完全连奏，黄色代表轻微断开。先用绿色弹一遍上行下行，再用黄色弹下一遍，速度完全不变。如果触键切换让音阶开始摇晃，就放慢并重新把落地做平顺。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add dynamic control. The next pass starts mezzo-piano, grows to mezzo-forte by the top note, then softens on the way down. Keep both hands balanced so the melody of the scale does not tilt to one side. You are training control, not just volume.",
+          "pt-BR": "Adicione controle de dinâmica. A próxima passada começa em mezzo-piano, cresce até mezzo-forte na nota mais aguda e depois suaviza na descida. Mantenha as duas mãos equilibradas para que a melodia da escala não penda para um lado. Você está treinando controle, não apenas volume.",
+          "es": "Añade control dinámico. La siguiente pasada empieza en mezzo-piano, crece hasta mezzo-forte en la nota más aguda y luego se suaviza al bajar. Mantén ambas manos equilibradas para que la melodía de la escala no se incline hacia un lado. Estás entrenando control, no solo volumen.",
+          "de": "Füge Dynamikkontrolle hinzu. Der nächste Durchgang beginnt im Mezzopiano, wächst bis zum höchsten Ton ins Mezzoforte und wird auf dem Rückweg wieder weicher. Halte beide Hände im Gleichgewicht, damit die Melodie der Tonleiter nicht zu einer Seite kippt. Du trainierst Kontrolle, nicht nur Lautstärke.",
+          "ja": "ダイナミクスのコントロールを加えます。次の1回は mezzo-piano で始め、最高音に向かって mezzo-forte まで育て、下りでまたやわらげます。両手のバランスを保ち、スケールのメロディが片側へ傾かないようにしてください。鍛えているのは音量そのものではなく、制御です。",
+          "zh-Hans": "接着加入力度控制。下一遍从 mezzo-piano 开始，到最高音逐渐长到 mezzo-forte，再在下行时慢慢收回来。保持双手平衡，不要让音阶旋律偏向某一边。你训练的是控制，而不只是音量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: four passes, four jobs. Pass 1 watches only thumb crossings. Pass 2 leans slightly into the fourth finger where the shape feels weak. Pass 3 uses contrary motion for one octave. Pass 4 returns to normal motion and must sound calmer than pass 1. Repeat until the keyboard feels mapped, not negotiated.",
+          "pt-BR": "Rodada de desafio: quatro passadas, quatro tarefas. A passada 1 observa apenas as passagens de polegar. A passada 2 apoia levemente no quarto dedo onde o desenho parece fraco. A passada 3 usa movimento contrário por uma oitava. A passada 4 volta ao movimento normal e deve soar mais calma do que a passada 1. Repita até o teclado parecer mapeado, não negociado.",
+          "es": "Ronda de desafío: cuatro pasadas, cuatro tareas. La pasada 1 observa solo los cruces de pulgar. La pasada 2 se apoya ligeramente en el cuarto dedo donde la forma se siente más débil. La pasada 3 usa movimiento contrario durante una octava. La pasada 4 vuelve al movimiento normal y debe sonar más calmada que la pasada 1. Repite hasta que el teclado se sienta mapeado y no negociado.",
+          "de": "Herausforderungsrunde: vier Durchgänge, vier Aufgaben. Durchgang 1 beobachtet nur die Daumenuntersätze. Durchgang 2 lehnt sich leicht in den vierten Finger, wo sich die Form schwach anfühlt. Durchgang 3 benutzt Gegenbewegung für eine Oktave. Durchgang 4 kehrt zur normalen Bewegung zurück und muss ruhiger klingen als Durchgang 1. Wiederhole das, bis sich die Tastatur kartiert statt ausgehandelt anfühlt.",
+          "ja": "チャレンジラウンドです。4回、4つの役割。1回目は親指くぐりだけを観察する。2回目は形が弱く感じる場所で4の指へ少し重心を乗せる。3回目は1オクターブだけ反行で行う。4回目は通常の動きに戻し、1回目より落ち着いて聞こえなければなりません。鍵盤が交渉相手ではなく、地図として感じられるまで繰り返しましょう。",
+          "zh-Hans": "挑战回合：四遍，四个任务。第1遍只观察拇指穿越。第2遍在手型显得薄弱的地方稍微压向 4 指。第3遍用一八度反向进行。第4遍回到正常进行，而且必须比第1遍更平静。反复练，直到键盘在你手里像地图，而不是谈判对象。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a one-minute runway circuit: one clean scale, one broken-chord pattern in Bb, and one extra-slow scale with exaggerated listening. Then write one sentence about which switch helped you most today—touch, dynamics, or focus—and begin tomorrow with that same switch in Eb major.",
+          "pt-BR": "Termine com um circuito de pista de um minuto: uma escala limpa, um padrão de acorde quebrado em Sib e uma escala extra lenta com escuta exagerada. Depois escreva uma frase sobre qual mudança mais ajudou hoje — toque, dinâmica ou foco — e amanhã comece com essa mesma mudança em Mib maior.",
+          "es": "Termina con un circuito de pista de un minuto: una escala limpia, un patrón de acorde roto en Sib y una escala extra lenta con escucha exagerada. Luego escribe una frase sobre qué cambio te ayudó más hoy — toque, dinámica o enfoque — y mañana empieza con ese mismo cambio en Mib mayor.",
+          "de": "Beende die Einheit mit einem einminütigen Startbahn-Zirkel: eine saubere Tonleiter, ein gebrochenes Akkordmuster in B-Dur und eine extra langsame Tonleiter mit übertriebenem Zuhören. Schreib danach einen Satz darüber, welcher Wechsel heute am meisten geholfen hat — Anschlag, Dynamik oder Fokus — und beginne morgen mit demselben Wechsel in Es-Dur.",
+          "ja": "最後は1分間の滑走路サーキットです。きれいなスケール1回、Bbの分散和音パターン1回、そして大げさなくらい耳を開いた超スローのスケール1回を行います。そのあと、今日いちばん役立った切り替え—タッチ、ダイナミクス、集中点のどれか—を一文で書き、明日はEbメジャーで同じ切り替えから始めてください。",
+          "zh-Hans": "最后做一分钟跑道循环：一遍干净的音阶、一遍 Bb 的分解和弦型、再来一遍带着夸张聆听的超慢音阶。然后写下一句话：今天最帮助你的切换是什么——触键、力度还是注意力——明天在 Eb 大调里先从同一个切换开始。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-13T00:08:22Z",
+  "updatedAt": "2026-07-13T00:08:22Z"
+}

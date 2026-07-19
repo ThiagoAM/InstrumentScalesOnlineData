@@ -110,5 +110,61 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "triad-elevator-in-c-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Triad Elevator in C Major",
+        "pt-BR": "Elevador de Tríades em Dó Maior",
+        "es": "Ascensor de Tríadas en Do Mayor",
+        "de": "Dreiklang-Aufzug in C-Dur",
+        "ja": "Cメジャーのトライアド・エレベーター",
+        "zh-Hans": "C大调三和弦电梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Stack and invert triads from C major so your piano hands hear harmony, not just note piles.",
+        "pt-BR": "Empilhe e inverta tríades de Dó maior para que suas mãos no piano ouçam harmonia, não apenas montes de notas.",
+        "es": "Apila e invierte tríadas de Do mayor para que tus manos en el piano escuchen armonía y no solo montones de notas.",
+        "de": "Schichte und invertiere Dreiklänge aus C-Dur, damit deine Hände am Klavier Harmonie statt bloßer Notenhaufen hören.",
+        "ja": "Cメジャーのトライアドを積み上げて転回し、ピアノの手で“音の山”ではなく和声を聴けるようにします。",
+        "zh-Hans": "在C大调里堆叠并转位三和弦，让你的钢琴双手听见的是和声，而不是一堆白键。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-07-11T00:06:34Z",
+    "updatedAt": "2026-07-11T00:06:34Z"
+  },
+  {
+    "id": "piano-chord-spell-race",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Chord-Spell Race",
+        "pt-BR": "Corrida de Soletrar Acordes no Piano",
+        "es": "Carrera de Deletrear Acordes en Piano",
+        "de": "Piano-Akkordbuchstabier-Rennen",
+        "ja": "ピアノ・コード綴りレース",
+        "zh-Hans": "钢琴和弦拼写竞速"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scales into fast chord recognition by racing to spell triads and sevenths with clean rhythm and smart fingering.",
+        "pt-BR": "Transforme escalas em reconhecimento rápido de acordes correndo para soletrar tríades e tétrades com ritmo limpo e digitação inteligente.",
+        "es": "Convierte las escalas en reconocimiento rápido de acordes al correr para deletrear tríadas y séptimas con ritmo limpio y buena digitación.",
+        "de": "Verwandle Skalen in schnelle Akkorderkennung, indem du Dreiklänge und Septakkorde mit sauberem Rhythmus und kluger Fingerwahl buchstabierst.",
+        "ja": "スケールを使って素早くコードを見抜き、きれいなリズムと指使いでトライアドとセブンスを弾き分けよう。",
+        "zh-Hans": "把音阶练习变成快速识别和弦的竞速游戏，用干净节奏和聪明指法拼出三和弦与七和弦。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-07-19T00:08:19Z",
+    "updatedAt": "2026-07-19T00:08:19Z"
   }
 ]

@@ -1,0 +1,86 @@
+{
+  "id": "bass-countermelody-kites",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns your bass into a **two-job machine**: hold the groove, then let a short melody fly above it. Use **D major** and imagine every upper-register phrase as a kite. The string is your time feel; the kite is your melody. If the time gets shaky, the kite crashes.",
+          "pt-BR": "Esta lição transforma seu baixo em uma **máquina de dois trabalhos**: segurar o groove e depois soltar uma pequena melodia por cima. Use **Ré maior** e imagine cada frase no registro agudo como uma pipa. A linha é o seu tempo; a pipa é a melodia. Se o tempo vacilar, a pipa cai.",
+          "es": "Esta lección convierte tu bajo en una **máquina de dos trabajos**: sostener el groove y luego dejar volar una melodía corta por encima. Usa **Re mayor** e imagina cada frase en registro agudo como una cometa. El hilo es tu sensación del tiempo; la cometa es la melodía. Si el tiempo se tambalea, la cometa cae.",
+          "de": "Diese Lektion macht aus deinem Bass eine **Zwei-Job-Maschine**: erst den Groove halten, dann eine kurze Melodie darüber steigen lassen. Verwende **D-Dur** und stell dir jede Phrase im hohen Register wie einen Drachen vor. Die Schnur ist dein Timing, der Drachen ist deine Melodie. Wenn das Timing wackelt, stürzt der Drachen ab.",
+          "ja": "このレッスンでは、あなたのベースを **2つの仕事を同時にこなすマシン** にします。まずグルーヴを支え、その上に短いメロディを飛ばします。使うのは **Dメジャー**。高い音域のフレーズをそれぞれ「凧」だと思ってください。糸はタイム感、凧はメロディです。タイムが揺れると、凧は落ちます。",
+          "zh-Hans": "这节课要把你的贝斯变成一台 **双任务机器**：先稳住 groove，再让一条短旋律飞起来。使用 **D大调**，把每一句高音区乐句都想成一只风筝。线，是你的时间感；风筝，是你的旋律。如果时间感一晃，风筝就掉下来了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Begin with a safe launch zone. Play a simple two-beat root pattern on **D**, then answer it with two beats in the upper register using only **D, E, F#, A, or B**. Those notes keep the line bright and singable. Your goal is contrast: low notes feel grounded, higher notes feel like a reply.",
+          "pt-BR": "Comece com uma zona segura de decolagem. Toque um padrão simples de dois tempos na tônica **D** e responda com dois tempos no registro agudo usando apenas **D, E, F#, A ou B**. Essas notas mantêm a linha brilhante e cantável. O objetivo é contraste: as notas graves soam firmes, as agudas soam como resposta.",
+          "es": "Empieza con una zona segura de despegue. Toca un patrón simple de dos tiempos sobre la tónica **D** y respóndelo con dos tiempos en el registro agudo usando solo **D, E, F#, A o B**. Esas notas mantienen la línea brillante y cantable. Tu objetivo es el contraste: las notas graves se sienten sólidas y las agudas parecen una respuesta.",
+          "de": "Beginne mit einer sicheren Startzone. Spiele ein einfaches Zwei-Schlag-Root-Muster auf **D** und antworte dann mit zwei Schlägen im höheren Register, wobei du nur **D, E, F#, A oder B** verwendest. Diese Töne halten die Linie hell und singbar. Dein Ziel ist Kontrast: tiefe Töne wirken geerdet, hohe Töne wie eine Antwort.",
+          "ja": "まずは安全な打ち上げゾーンから始めます。低い音域で **D** を中心にした2拍のシンプルなパターンを弾き、その返事として高い音域で **D, E, F#, A, B** だけを使った2拍のフレーズを弾きます。これらの音なら明るく歌いやすいラインになります。狙いはコントラスト。低音は土台、高音は返答です。",
+          "zh-Hans": "先从安全起飞区开始。先在低音区弹一个以 **D** 为中心的两拍根音型，再用高音区的两拍回应它，只使用 **D、E、F#、A、B**。这些音会让线条明亮又容易歌唱。你的目标是制造对比：低音稳稳站地，高音像在回答。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, build a **call-and-lift pattern** for four bars. Bars 1 and 3 stay lower and groove-focused. Bars 2 and 4 climb higher and become melodic. Keep the rhythm simple enough that the listener can still tap a foot. If the melodic bars sound like random scale climbing, end them on **F# or A** so they feel shaped.",
+          "pt-BR": "Depois, monte um **padrão de chamada e subida** por quatro compassos. Os compassos 1 e 3 ficam mais graves e focados no groove. Os compassos 2 e 4 sobem e viram melodia. Mantenha o ritmo simples o suficiente para que alguém ainda consiga bater o pé. Se os compassos melódicos soarem como uma subida aleatória de escala, termine em **F# ou A** para dar forma.",
+          "es": "Luego construye un **patrón de llamada y elevación** de cuatro compases. Los compases 1 y 3 se quedan más graves y centrados en el groove. Los compases 2 y 4 suben y se vuelven melódicos. Mantén un ritmo lo bastante simple como para que el oyente todavía pueda marcar el pulso con el pie. Si los compases melódicos suenan como una subida aleatoria por la escala, termínalos en **F# o A** para darles forma.",
+          "de": "Baue als Nächstes ein **Ruf-und-Aufstieg-Muster** über vier Takte. Die Takte 1 und 3 bleiben tiefer und groove-orientiert. Die Takte 2 und 4 steigen höher und werden melodisch. Halte den Rhythmus so einfach, dass man immer noch mit dem Fuß mitwippen kann. Wenn die melodischen Takte wie zufälliges Skalenklettern klingen, beende sie auf **F# oder A**, damit sie Form bekommen.",
+          "ja": "次に **呼びかけ→浮上パターン** を4小節で作ります。1小節目と3小節目は低めでグルーヴ重視。2小節目と4小節目は高く上がってメロディになります。聴き手が足で拍を取り続けられるくらい、リズムはシンプルに保ちましょう。もしメロディ小節がただのスケール上昇に聞こえるなら、最後を **F# または A** にして形を与えてください。",
+          "zh-Hans": "接着做一个 **呼叫与升空模式**，共四小节。第1和第3小节保持较低、以 groove 为主；第2和第4小节向上爬，变成旋律。节奏要简单到让听众仍然能跟着点脚。如果旋律小节听起来只是随便往上爬音阶，就把结尾落在 **F# 或 A** 上，让它真正有形状。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one expressive rule: every high phrase must include either a **long note**, a **small slide**, or a **repeat**. That keeps the counterline singable instead of sounding like a technical exercise. Bass melodies become memorable when at least one note gets extra attention.",
+          "pt-BR": "Agora acrescente uma regra expressiva: cada frase aguda deve incluir uma **nota longa**, um **pequeno slide** ou uma **repetição**. Isso mantém a contramelodia cantável em vez de soar como exercício mecânico. Melodias de baixo ficam memoráveis quando pelo menos uma nota recebe atenção extra.",
+          "es": "Ahora añade una regla expresiva: cada frase aguda debe incluir una **nota larga**, un **slide pequeño** o una **repetición**. Eso mantiene la contramelodía cantable en lugar de sonar como un ejercicio técnico. Las melodías de bajo se vuelven memorables cuando al menos una nota recibe atención extra.",
+          "de": "Füge nun eine Ausdrucksregel hinzu: Jede hohe Phrase muss entweder einen **langen Ton**, einen **kleinen Slide** oder eine **Wiederholung** enthalten. So bleibt die Gegenmelodie singbar, statt wie eine Technikübung zu klingen. Bassmelodien bleiben hängen, wenn wenigstens ein Ton besonders behandelt wird.",
+          "ja": "次に表現ルールを1つ追加します。高いフレーズには必ず **長い音**、**小さなスライド**、または **反復** のどれかを入れます。これで対旋律が機械的な練習ではなく、歌えるフレーズになります。少なくとも1音に特別な役割を持たせると、ベースのメロディは記憶に残りやすくなります。",
+          "zh-Hans": "现在加入一条表达规则：每一条高音乐句都必须带有 **长音**、**小滑音** 或 **重复** 其中之一。这样对旋律会更像能唱出来的句子，而不是机械练习。贝斯旋律只要有至少一个音被特别对待，就会更容易被记住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge yourself by shrinking the note pool. Improvise for one minute using only **D, E, F#, A, and B** for the melodic answers, while the groove notes stay mainly on **D and A**. Fewer choices force better choices. Listen for whether each high phrase sounds like it belongs to the groove below.",
+          "pt-BR": "Desafie-se reduzindo o conjunto de notas. Improvise por um minuto usando apenas **D, E, F#, A e B** nas respostas melódicas, enquanto as notas de groove ficam principalmente em **D e A**. Menos opções forçam escolhas melhores. Ouça se cada frase aguda realmente pertence ao groove que está embaixo.",
+          "es": "Ponte a prueba reduciendo el grupo de notas. Improvisa durante un minuto usando solo **D, E, F#, A y B** en las respuestas melódicas, mientras que las notas del groove se apoyan sobre todo en **D y A**. Menos opciones obligan a tomar mejores decisiones. Escucha si cada frase aguda realmente pertenece al groove de abajo.",
+          "de": "Fordere dich heraus, indem du den Tonvorrat verkleinerst. Improvisiere eine Minute lang, wobei du für die melodischen Antworten nur **D, E, F#, A und B** benutzt, während die Groove-Töne meist auf **D und A** bleiben. Weniger Auswahl erzwingt bessere Entscheidungen. Hör darauf, ob jede hohe Phrase wirklich zum Groove darunter gehört.",
+          "ja": "さらに音の選択肢を減らして挑戦します。1分間、メロディの返答では **D, E, F#, A, B** だけを使い、グルーヴ側は主に **D と A** に留めて即興してください。選択肢が少ないほど、選び方は良くなります。高いフレーズが下のグルーヴに本当に属しているか耳で確かめましょう。",
+          "zh-Hans": "然后缩小可用音集合来挑战自己。用 **D、E、F#、A、B** 这几个音即兴一分钟来做高音回答，而 groove 部分主要停留在 **D 和 A**。选择越少，决定就越必须更好。认真听：每条高音乐句是否真的属于下面那个 groove？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by writing a **four-bar bass etude**: low groove in bars 1 and 3, melodic lift in bars 2 and 4. Record it twice — once exactly as written, once with a new melodic answer in each upper bar. If both versions still sound steady and singable, your kite stayed in the air.",
+          "pt-BR": "Feche escrevendo um **estudo de baixo em quatro compassos**: groove grave nos compassos 1 e 3, subida melódica nos compassos 2 e 4. Grave duas vezes — uma exatamente como escreveu e outra com uma nova resposta melódica em cada compasso agudo. Se as duas versões continuarem firmes e cantáveis, sua pipa ficou no ar.",
+          "es": "Termina escribiendo un **estudio de bajo de cuatro compases**: groove grave en los compases 1 y 3, elevación melódica en los compases 2 y 4. Grábalo dos veces: una exactamente como lo escribiste y otra con una nueva respuesta melódica en cada compás agudo. Si ambas versiones siguen sonando firmes y cantables, tu cometa se mantuvo en el aire.",
+          "de": "Zum Schluss schreibst du eine **vier Takte lange Bass-Etüde**: tiefer Groove in Takt 1 und 3, melodischer Aufstieg in Takt 2 und 4. Nimm sie zweimal auf — einmal genau wie notiert, einmal mit einer neuen melodischen Antwort in jedem hohen Takt. Wenn beide Versionen stabil und singbar klingen, blieb dein Drachen oben.",
+          "ja": "最後に **4小節のベース・エチュード** を書きます。1小節目と3小節目は低いグルーヴ、2小節目と4小節目はメロディの浮上です。それを2回録音しましょう。1回目は譜面どおり、2回目は高い小節の返答だけ毎回新しくします。どちらも安定して歌えるなら、あなたの凧はちゃんと空に残っています。",
+          "zh-Hans": "最后写一段 **四小节贝斯练习曲**：第1和第3小节是低音 groove，第2和第4小节是旋律升空。把它录两遍——第一遍完全照写，第二遍则在每个高音小节换一个新的旋律回答。如果两版都依然稳、依然好唱，那你的风筝就一直留在空中了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-24T00:07:49Z",
+  "updatedAt": "2026-06-24T00:07:49Z"
+}

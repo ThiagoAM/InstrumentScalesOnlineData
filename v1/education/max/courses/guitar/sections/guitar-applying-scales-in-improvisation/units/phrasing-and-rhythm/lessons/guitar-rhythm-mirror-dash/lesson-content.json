@@ -1,0 +1,60 @@
+{
+  "id": "guitar-rhythm-mirror-dash",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a groove in **A minor** and build a tiny two-beat phrase from the A minor pentatonic scale in 5th position. Play it once, then answer with a **rhythmic mirror**: if the first phrase starts on beat 1, let the answer start after beat 2; if the first phrase is busy, make the answer sparse. Same attitude, flipped timing.",
+          "pt-BR": "Coloque um groove em **Lá menor** e monte uma frase curtinha de dois tempos com a pentatônica menor de Lá na 5ª posição. Toque uma vez e responda com um **espelho rítmico**: se a primeira frase começa no tempo 1, faça a resposta entrar depois do tempo 2; se a primeira for cheia, deixe a resposta mais vazia. Mesma atitude, tempo invertido.",
+          "es": "Pon un groove en **La menor** y construye una frase pequeña de dos pulsos con la pentatónica menor de La en 5ª posición. Tócala una vez y responde con un **espejo rítmico**: si la primera frase empieza en el tiempo 1, haz que la respuesta entre después del tiempo 2; si la primera está cargada, deja la respuesta más abierta. Misma actitud, tiempo invertido.",
+          "de": "Starte einen Groove in **A-Moll** und baue eine kleine Phrase über zwei Zählzeiten aus der A-Moll-Pentatonik in der 5. Lage. Spiele sie einmal und antworte dann mit einem **rhythmischen Spiegel**: Beginnt die erste Phrase auf Zählzeit 1, startet die Antwort erst nach Zählzeit 2; ist die erste dicht, mach die Antwort luftiger. Gleiche Haltung, umgedrehte Zeitverteilung.",
+          "ja": "**Aマイナー**のグルーヴを流し、5フレット・ポジションのAマイナー・ペンタトニックで2拍ぶんの短いフレーズを作ります。1回弾いたら、次は**リズムの鏡写し**で返します。最初のフレーズが1拍目から始まるなら返答は2拍目の後から、最初が詰まっているなら返答はスカスカに。雰囲気は同じ、時間の置き方だけ反転です。",
+          "zh-Hans": "打开一个**A小调**律动，用5把位的A小调五声音阶设计一个两拍长的小乐句。先弹一次，然后用**节奏镜像**来回答：如果第一句从第1拍开始，回答句就放到第2拍之后；如果第一句很密，回答句就故意留出空间。态度不变，只把时间安排翻过来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a landing rule. Phrase 1 must finish on **A or C**. The mirrored answer must finish on **E**. This keeps your ear connected to the harmony instead of letting the exercise turn into random finger traffic. If the landing feels weak, sing the last note before you play it.",
+          "pt-BR": "Agora adicione uma regra de chegada. A frase 1 precisa terminar em **Lá ou Dó**. A resposta espelhada precisa terminar em **Mi**. Isso mantém seu ouvido ligado à harmonia em vez de transformar o exercício em trânsito aleatório de dedos. Se a chegada soar fraca, cante a última nota antes de tocá-la.",
+          "es": "Ahora añade una regla de aterrizaje. La frase 1 debe terminar en **La o Do**. La respuesta en espejo debe terminar en **Mi**. Así tu oído sigue conectado con la armonía en lugar de convertir el ejercicio en tráfico aleatorio de dedos. Si el final suena débil, canta la última nota antes de tocarla.",
+          "de": "Jetzt kommt eine Zielregel dazu. Phrase 1 muss auf **A oder C** enden. Die gespiegelte Antwort muss auf **E** landen. So bleibt dein Ohr mit der Harmonie verbunden, statt dass die Übung zu zufälligem Fingerverkehr wird. Wenn die Landung schwach klingt, sing die letzte Note vor dem Spielen.",
+          "ja": "次は着地ルールを加えます。フレーズ1は**AまたはC**で終えること。鏡写しの返答は**E**で終えること。こうすると指の運動会ではなく、耳がちゃんとハーモニーを追い続けます。着地が弱いと感じたら、弾く前に最後の音を歌ってください。",
+          "zh-Hans": "现在加入落点规则。第1句必须落在**A或C**上，镜像回答必须落在**E**上。这样你的耳朵会一直跟着和声走，而不是把练习变成手指的随机交通。如果落点发虚，先把最后一个音唱出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next round, move the answer phrase into a nearby scale box without breaking the rhythm mirror. You get only **one shift** per answer, and it has to sound deliberate. Slides are welcome; panic-jumps are not. Think like you are passing the same sentence to a different camera angle.",
+          "pt-BR": "Na próxima rodada, mova a frase de resposta para um box vizinho da escala sem quebrar o espelho rítmico. Você só ganha **uma mudança de posição** por resposta, e ela precisa soar intencional. Slides são bem-vindos; saltos desesperados não. Pense como se estivesse passando a mesma frase para outro ângulo de câmera.",
+          "es": "En la siguiente ronda, mueve la frase de respuesta a una caja vecina de la escala sin romper el espejo rítmico. Solo tienes **un cambio de posición** por respuesta, y debe sonar intencional. Los slides son bienvenidos; los saltos por pánico no. Piensa como si pasaras la misma frase a otro ángulo de cámara.",
+          "de": "In der nächsten Runde verschiebst du die Antwortsphrase in eine benachbarte Skalenbox, ohne den rhythmischen Spiegel zu verlieren. Pro Antwort ist nur **ein Lagenwechsel** erlaubt, und er muss absichtlich klingen. Slides sind willkommen, Paniksprünge nicht. Stell dir vor, du gibst denselben Satz nur aus einem anderen Kamerawinkel weiter.",
+          "ja": "次のラウンドでは、返答フレーズを近くの別のスケールボックスへ移動します。ただしリズムの鏡写しは崩さないこと。返答ごとに使える**ポジション移動は1回だけ**で、それも意図的に聞こえなければいけません。スライドは歓迎、あわてたジャンプは禁止です。同じセリフを別アングルのカメラで映すつもりで考えましょう。",
+          "zh-Hans": "下一轮，把回答句移到邻近的另一个音型位置，但不要破坏节奏镜像。每次回答只允许**一次换把**，而且必须听起来像你故意安排的。滑音欢迎，慌张乱跳不行。把它想成同一句台词换了一个镜头角度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final dash: improvise for one minute using three rules—every idea needs a mirrored answer, every fourth bar needs one full beat of silence, and at least twice you must end with a long note instead of another flurry. Listen back and ask the real question: did the mirrored rhythms make your solo feel conversational, or just symmetrical?",
+          "pt-BR": "Corrida final: improvise por um minuto com três regras — toda ideia precisa ter uma resposta espelhada, a cada quatro compassos precisa haver um tempo inteiro de silêncio, e pelo menos duas vezes você deve terminar com uma nota longa em vez de mais uma rajada. Ouça de volta e faça a pergunta real: os ritmos espelhados deixaram seu solo mais conversado ou só mais simétrico?",
+          "es": "Carrera final: improvisa durante un minuto con tres reglas: cada idea necesita una respuesta en espejo, cada cuarto compás necesita un pulso completo de silencio y al menos dos veces debes terminar con una nota larga en vez de otra ráfaga. Escúchate después y hazte la pregunta real: ¿los ritmos en espejo hicieron que tu solo sonara más conversado o solo más simétrico?",
+          "de": "Finaler Sprint: Improvisiere eine Minute lang mit drei Regeln — jede Idee braucht eine gespiegelte Antwort, in jedem vierten Takt muss eine ganze Zählzeit Stille sein, und mindestens zweimal musst du mit einer langen Note statt mit noch mehr Feuerwerk enden. Hör dir danach an und frage dich ehrlich: Klangen die Spiegelrhythmen gesprächiger oder nur symmetrischer?",
+          "ja": "最後のダッシュです。1分間の即興で、ルールは3つ。すべてのアイデアに鏡写しの返答を付けること、4小節ごとに丸々1拍の休符を入れること、そして少なくとも2回は細かい音ではなくロングトーンで締めること。録音を聴き返して、本当に知りたいことを確認しましょう。鏡のリズムでソロは会話っぽくなったか、それともただ対称になっただけか？",
+          "zh-Hans": "最终冲刺：即兴一分钟，并遵守三条规则——每个想法都要有镜像回答，每四小节必须出现整整一拍的休止，至少有两次要用长音收尾，而不是继续乱射音符。回听时问自己真正的问题：这些镜像节奏让你的独奏更像对话了，还是只是更对称了？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-21T00:06:50Z",
+  "updatedAt": "2026-06-21T00:06:50Z"
+}

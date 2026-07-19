@@ -1,0 +1,73 @@
+{
+  "id": "syncopated-scale-call-and-response",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome to 80 bpm. In 5th position A minor pentatonic, play steady eighth notes to feel the pocket.",
+          "pt-BR": "Ajuste o metrônomo em 80 bpm. Na pentatônica menor de Lá na 5ª posição, toque colcheias firmes para sentir o groove.",
+          "es": "Pon el metrónomo a 80 bpm. En la pentatónica menor de La en 5ª posición, toca corcheas constantes para sentir el groove.",
+          "de": "Stell das Metronom auf 80 bpm. In der A‑Moll‑Pentatonik in der 5. Lage spiele gleichmäßige Achtel, um den Groove zu spüren.",
+          "ja": "メトロノームを80 bpmに設定。5ポジションのAマイナーペンタで、一定の8分音符を弾いてグルーヴを感じよう。",
+          "zh-Hans": "把节拍器设为80 bpm。在第5把位的A小调五声音阶中，用稳定的八分音符找准律动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Call: invent a 2-beat rhythm using 4–6 notes. End with a rest on beat 3 to create space.",
+          "pt-BR": "Chamada: invente um ritmo de 2 tempos usando 4–6 notas. Termine com um silêncio no tempo 3 para abrir espaço.",
+          "es": "Llamada: inventa un ritmo de 2 tiempos usando 4–6 notas. Termina con un silencio en el tiempo 3 para crear espacio.",
+          "de": "Call: Erfinde einen 2‑Schläge‑Rhythmus mit 4–6 Tönen. Beende ihn mit einer Pause auf Schlag 3, damit Platz entsteht.",
+          "ja": "コール：4〜6音で2拍のリズムを作る。3拍目は休符にしてスペースを作る。",
+          "zh-Hans": "呼叫：用4–6个音编一个2拍节奏，第三拍留空制造空间。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Response: answer the call with a variation (slides, hammer-ons, pull-offs) but stay inside the scale.",
+          "pt-BR": "Resposta: responda a chamada com uma variação (slides, hammer-ons, pull-offs), mantendo-se na escala.",
+          "es": "Respuesta: contesta la llamada con una variación (slides, ligados ascendentes y descendentes) manteniéndote en la escala.",
+          "de": "Response: Antworte mit einer Variation (Slides, Hammer‑Ons, Pull‑Offs), bleib aber in der Skala.",
+          "ja": "レスポンス：スライドやハンマリング、プリングを使って変化をつけ、スケール内に収める。",
+          "zh-Hans": "回应：用滑音、击弦、勾弦做变化，但始终在音阶内。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Syncopation level-up: shift your accents to the “&” of each beat or play groups of 3 notes over 4/4. Keep the groove.",
+          "pt-BR": "Suba o nível: desloque os acentos para o “e” de cada tempo ou toque grupos de 3 notas sobre o 4/4. Mantenha o groove.",
+          "es": "Sube el nivel: desplaza los acentos al “&” de cada tiempo o toca grupos de 3 notas sobre 4/4. Mantén el groove.",
+          "de": "Level‑up: Verschiebe die Akzente auf das „&“ jedes Schlags oder spiele Dreiergruppen über 4/4. Groove bleibt Pflicht.",
+          "ja": "レベルアップ：各拍の「&」にアクセントを移す、または3音グループを4/4上で回す。グルーヴ優先。",
+          "zh-Hans": "升级：把重音移到每拍的“&”，或在4/4里循环3音分组。保持律动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Record 4 bars of call-and-response. Circle your best bar, then practice it cleanly in three different positions.",
+          "pt-BR": "Grave 4 compassos de chamada e resposta. Marque o melhor compasso e pratique-o limpo em três posições diferentes.",
+          "es": "Graba 4 compases de llamada y respuesta. Señala tu mejor compás y practícalo limpio en tres posiciones distintas.",
+          "de": "Nimm 4 Takte Call‑and‑Response auf. Kreis deinen besten Takt ein und übe ihn sauber in drei verschiedenen Lagen.",
+          "ja": "コール＆レスポンスを4小節録音。最高の1小節を選び、3つの別ポジションでクリーンに練習。",
+          "zh-Hans": "录下4小节的呼叫与回应。圈出最好的一小节，再在三个不同把位里练干净。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-04T00:05:40Z",
+  "updatedAt": "2026-04-04T00:05:40Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "bass-octave-sling-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose A major and build a two-bar groove using only A, E, and the upper A at first. Imagine you are in a relay race: every note must cleanly pass energy to the next one. Loop it until beat 1 feels solid enough to support a whole band without apology.",
+          "pt-BR": "Escolha Lá maior e monte um groove de dois compassos usando apenas A, E e o A da oitava primeiro. Imagine que você está numa corrida de revezamento: cada nota precisa passar energia para a próxima com limpeza. Faça o loop até o tempo 1 soar sólido o bastante para sustentar uma banda inteira sem desculpas.",
+          "es": "Elige La mayor y construye un groove de dos compases usando solo A, E y el A agudo al principio. Imagina que estás en una carrera de relevos: cada nota debe pasar energía a la siguiente con limpieza. Haz loop hasta que el tiempo 1 se sienta lo bastante sólido como para sostener a toda una banda sin disculpas.",
+          "de": "Wähle A-Dur und baue zuerst einen zweitaktigen Groove nur mit A, E und dem oberen A. Stell dir vor, du bist in einem Staffellauf: Jede Note muss die Energie sauber an die nächste übergeben. Wiederhole das, bis Schlag 1 so stabil wirkt, dass er eine ganze Band ohne Entschuldigung tragen könnte.",
+          "ja": "Aメジャーを選び、最初はA、E、そして上のAだけで2小節のグルーヴを作ってください。リレー競走の中にいると想像しましょう。どの音も次の音へきれいにエネルギーを渡さなければいけません。1拍目がバンド全体を迷いなく支えられるくらい安定するまでループします。",
+          "zh-Hans": "选择A大调，先只用A、E和高八度的A做一个两小节律动。想象你在参加一场接力赛：每个音都要把能量干净地交给下一个音。循环练习，直到第1拍稳得足以毫无歉意地托住整支乐队。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the sling move. In each bar, jump once from the low root to the octave and once back down, but do not rush the leap. Keep your plucking hand relaxed and make the octave sound like a destination, not a panic button.",
+          "pt-BR": "Agora adicione o movimento de arremesso. Em cada compasso, salte uma vez da tônica grave para a oitava e uma vez de volta para baixo, mas sem correr no salto. Mantenha a mão direita relaxada e faça a oitava soar como destino, não como botão de pânico.",
+          "es": "Ahora añade el movimiento de lanzamiento. En cada compás, salta una vez desde la tónica grave hasta la octava y una vez de vuelta hacia abajo, pero sin apresurar el salto. Mantén relajada la mano derecha y haz que la octava suene como un destino y no como un botón de pánico.",
+          "de": "Füge jetzt den Schleuder-Move hinzu. Springe in jedem Takt einmal vom tiefen Grundton zur Oktave und einmal wieder herunter, aber hetze den Sprung nicht. Halte die Zupfhand entspannt und lass die Oktave wie ein Ziel klingen, nicht wie einen Panikknopf.",
+          "ja": "次にオクターブへ投げる動きを加えます。各小節で低いルートからオクターブへ1回跳び、さらに1回下へ戻りますが、その跳躍を急がないでください。右手はリラックスさせ、オクターブが焦りの逃げ道ではなく到着点として聞こえるようにします。",
+          "zh-Hans": "现在加入“甩八度”的动作。每小节从低根音跳到八度一次，再跳回来一次，但不要把这个跳跃弹得很赶。让你的拨弦手保持放松，并让八度音听起来像目的地，而不是慌张时按下的按钮。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, open one pocket of space in every bar. You can use a short rest or a ghost note, but the gap has to make the next real note hit harder. If the groove gets weaker, simplify the line and rebuild the timing before adding more motion.",
+          "pt-BR": "Em seguida, abra um bolso de espaço em cada compasso. Você pode usar uma pausa curta ou uma ghost note, mas esse vão precisa fazer a próxima nota real bater com mais força. Se o groove enfraquecer, simplifique a linha e reconstrua o tempo antes de adicionar mais movimento.",
+          "es": "Después abre un bolsillo de espacio en cada compás. Puedes usar un silencio corto o una ghost note, pero ese hueco tiene que hacer que la siguiente nota real golpee con más fuerza. Si el groove se debilita, simplifica la línea y reconstruye el tiempo antes de añadir más movimiento.",
+          "de": "Öffne als Nächstes in jedem Takt eine kleine Tasche aus Raum. Du kannst eine kurze Pause oder eine Ghost Note verwenden, aber die Lücke muss dafür sorgen, dass die nächste echte Note härter trifft. Wenn der Groove schwächer wird, vereinfache die Linie und baue erst das Timing neu auf, bevor du mehr Bewegung hinzufügst.",
+          "ja": "続いて各小節に1か所、間のポケットを作りましょう。短い休符でもゴーストノートでもかまいませんが、その空きが次の本音をより強く当てる必要があります。グルーヴが弱くなったら、ラインを簡単にしてからタイムを立て直し、そのあとで動きを増やしてください。",
+          "zh-Hans": "接着在每小节里打开一个留白口袋。你可以用一个短休止，也可以用一个幽灵音，但这个空档必须让下一颗真正的音更有冲击力。如果律动变弱了，就先简化线条，重新把时间感搭稳，再增加动作。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: create three versions of the same groove. Version 1 lands heavily on beat 1. Version 2 pushes slightly into beat 4. Version 3 feels laid back without dragging. Keep the pitch pattern similar so the time feel becomes the main lesson.",
+          "pt-BR": "Rodada de desafio: crie três versões do mesmo groove. A versão 1 aterrissa com peso no tempo 1. A versão 2 empurra levemente em direção ao tempo 4. A versão 3 soa relaxada sem arrastar. Mantenha o desenho de alturas parecido para que a sensação de tempo vire a lição principal.",
+          "es": "Ronda de desafío: crea tres versiones del mismo groove. La versión 1 aterriza con peso en el tiempo 1. La versión 2 empuja ligeramente hacia el tiempo 4. La versión 3 se siente relajada sin arrastrarse. Mantén parecido el patrón de alturas para que la sensación temporal sea la lección principal.",
+          "de": "Herausforderungsrunde: Erstelle drei Versionen desselben Grooves. Version 1 landet schwer auf Schlag 1. Version 2 schiebt leicht in Richtung Schlag 4. Version 3 fühlt sich laid back an, ohne zu schleppen. Halte das Tonmuster ähnlich, damit das Zeitgefühl zur Hauptlektion wird.",
+          "ja": "チャレンジラウンドです。同じグルーヴの3バージョンを作ります。バージョン1は1拍目に重く着地。バージョン2は4拍目へ少し押し込む感じ。バージョン3は引きずらずに後ろノリです。音高の並びは似せたままにして、タイム感そのものが主役になるようにしましょう。",
+          "zh-Hans": "挑战回合：为同一个律动做出三个版本。版本1在第1拍重重落下。版本2稍微往第4拍前推。版本3是放松的后靠感，但不能拖拍。保持音高模式大致相同，这样时间感才会成为这节课的主角。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by writing one final groove that uses a clean octave jump, one intentional space, and one convincing return to the root. Record it and ask the only important question: would a drummer lock in with this happily, or fight it all night?",
+          "pt-BR": "Termine escrevendo um groove final que use um salto limpo de oitava, um espaço intencional e um retorno convincente para a tônica. Grave e faça a única pergunta importante: um baterista travaria feliz com isso ou brigaria com a linha a noite inteira?",
+          "es": "Termina escribiendo un groove final que use un salto limpio de octava, un espacio intencional y un regreso convincente a la tónica. Grábalo y haz la única pregunta importante: ¿un baterista se engancharía feliz contigo o pelearía con la línea toda la noche?",
+          "de": "Beende die Übung, indem du einen finalen Groove schreibst, der einen sauberen Oktavsprung, einen absichtlichen Freiraum und eine überzeugende Rückkehr zum Grundton enthält. Nimm ihn auf und stelle die einzige wichtige Frage: Würde ein Drummer sich gern damit einrasten oder die ganze Nacht dagegen ankämpfen?",
+          "ja": "最後に、きれいなオクターブジャンプ、意図した空白、そして説得力のあるルートへの戻りを含む最終グルーヴを書いてください。録音して、たったひとつの大事な質問をしましょう。ドラマーはこれに気持ちよくロックできるか、それとも一晩中戦うことになるか。",
+          "zh-Hans": "最后写出一个最终律动，里面要有一次干净的八度跳跃、一次有意的留白，以及一次令人信服的回到根音。录下来，然后问唯一重要的问题：鼓手会开心地和它锁在一起，还是会整晚跟它较劲？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-09T00:05:47Z",
+  "updatedAt": "2026-07-09T00:05:47Z"
+}

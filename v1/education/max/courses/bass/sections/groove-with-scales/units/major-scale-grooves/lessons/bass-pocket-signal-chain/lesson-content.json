@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-signal-chain",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome or drum loop to **88-102 BPM** and work in **G major**. Think like an engineer building a groove signal chain: every note must have a job. Your chain today has three parts — **anchor**, **motion**, and **mute** — and the pocket only feels great when those parts stay balanced.",
+          "pt-BR": "Coloque um metrônomo ou loop de bateria em **88-102 BPM** e trabalhe em **Sol maior**. Pense como um engenheiro montando uma cadeia de sinal de groove: cada nota precisa ter uma função. Sua cadeia hoje tem três partes — **âncora**, **movimento** e **abafamento** — e o pocket só fica realmente forte quando essas partes permanecem equilibradas.",
+          "es": "Pon un metrónomo o loop de batería a **88-102 BPM** y trabaja en **Sol mayor**. Piensa como un ingeniero que arma una cadena de señal de groove: cada nota debe tener una función. Tu cadena de hoy tiene tres partes — **ancla**, **movimiento** y **apagado** — y el pocket solo se siente realmente bien cuando esas partes están equilibradas.",
+          "de": "Stelle ein Metronom oder einen Drum-Loop auf **88-102 BPM** und arbeite in **G-Dur**. Denk wie ein Engineer, der eine Groove-Signalkette baut: jeder Ton braucht eine Aufgabe. Deine Kette hat heute drei Teile — **Anker**, **Bewegung** und **Stummschaltung** — und das Pocket fühlt sich nur dann richtig gut an, wenn diese Teile im Gleichgewicht bleiben.",
+          "ja": "メトロノームかドラムループを **88-102 BPM** に設定し、**Gメジャー** で練習しましょう。今日はグルーヴの信号チェーンを組むエンジニアのつもりで考えます。すべての音に役割が必要です。今日のチェーンは **アンカー**、**動き**、**ミュート** の3要素でできていて、このバランスが取れたときにポケットは本当に強くなります。",
+          "zh-Hans": "把节拍器或鼓循环设在 **88-102 BPM**，并在 **G大调** 中练习。今天把自己当成在搭建 groove 信号链的工程师：每一个音都必须有工作。今天这条链有三个部分——**锚点**、**运动**、**静音**——只有它们保持平衡，pocket 才会真正扎实。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Part 1 is the **anchor lane**. Build a one-bar groove that lands clearly on **G** at the start of the bar and again near the end. Use only roots, fifths, and octaves for the first five reps. If the time wobbles with such simple material, do not add more notes yet.",
+          "pt-BR": "A parte 1 é a **pista da âncora**. Monte um groove de um compasso que chegue com clareza em **G** no começo do compasso e de novo perto do final. Use apenas tônicas, quintas e oitavas nas cinco primeiras repetições. Se o tempo balançar com material tão simples, ainda não é hora de adicionar mais notas.",
+          "es": "La parte 1 es el **carril ancla**. Construye un groove de un compás que caiga claramente en **G** al inicio del compás y otra vez cerca del final. Usa solo tónicas, quintas y octavas en las primeras cinco repeticiones. Si el tiempo se tambalea con material tan simple, todavía no añadas más notas.",
+          "de": "Teil 1 ist die **Ankerspur**. Baue einen eintaktigen Groove, der am Anfang des Takts klar auf **G** landet und gegen Ende des Takts noch einmal. Nutze in den ersten fünf Durchgängen nur Grundtöne, Quinten und Oktaven. Wenn das Timing mit so einfachem Material wackelt, füge noch keine weiteren Töne hinzu.",
+          "ja": "パート1は**アンカー・レーン**です。1小節のグルーヴを作り、**G** に小節の頭でしっかり着地し、さらに小節の終わり近くでももう一度感じさせます。最初の5回はルート、5度、オクターブだけを使ってください。これだけでタイムが揺れるなら、まだ音を増やす段階ではありません。",
+          "zh-Hans": "第1部分是**锚点通道**。做一个1小节 groove，在小节开头清楚落到 **G**，并在小节末尾附近再次强调它。前5次只用根音、五度和八度。如果这么简单的材料都让时间感晃动，就先别加更多音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Part 2 is the **motion lane**. Now connect your anchor notes with scale motion from **G major**. Add only one or two passing tones per bar. Your line should feel like it is traveling somewhere, not wandering. Try one version that climbs into the last note and one that drops into it.",
+          "pt-BR": "A parte 2 é a **pista do movimento**. Agora conecte suas notas-âncora com movimento de escala em **Sol maior**. Adicione apenas uma ou duas notas de passagem por compasso. Sua linha deve parecer que está indo para algum lugar, não passeando sem rumo. Faça uma versão subindo para a nota final e outra descendo até ela.",
+          "es": "La parte 2 es el **carril de movimiento**. Ahora conecta tus notas ancla con movimiento de escala en **Sol mayor**. Añade solo una o dos notas de paso por compás. La línea debe sentirse como si fuera hacia algún lugar, no como si vagara. Prueba una versión que suba hacia la última nota y otra que baje hasta ella.",
+          "de": "Teil 2 ist die **Bewegungsspur**. Verbinde deine Ankerton jetzt mit Skalenbewegung aus **G-Dur**. Füge pro Takt nur ein oder zwei Durchgangstöne hinzu. Deine Linie soll wirken, als würde sie irgendwohin führen, nicht ziellos umherlaufen. Probiere eine Version, die in den letzten Ton hineinsteigt, und eine, die in ihn hineinfällt.",
+          "ja": "パート2は**モーション・レーン**です。次に **Gメジャー** の音階の動きでアンカー音をつなぎます。1小節につき経過音は1〜2音だけ加えましょう。ラインは「どこかへ向かっている」ように聞こえるべきで、たださまよってはいけません。最後の音へ上昇して入る版と、下降して入る版の両方を試してください。",
+          "zh-Hans": "第2部分是**运动通道**。现在用 **G大调** 的音阶运动把锚点连接起来。每小节只加一到两个经过音。你的线条应该让人感觉“它正朝某处前进”，而不是无目的地游走。试一版向上爬进最后一个音，再试一版向下落进那个音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Part 3 is the **mute lane**. Add one ghost note or short rest in each bar, but place it on purpose. Test three options:\n- before beat 2\n- before beat 4\n- on the & of 4 leading back to the root\n\nThe right answer is the one that makes the groove hit harder without sounding crowded.",
+          "pt-BR": "A parte 3 é a **pista do abafamento**. Adicione uma ghost note ou uma pausa curta em cada compasso, mas coloque isso de propósito. Teste três opções:\n- antes do tempo 2\n- antes do tempo 4\n- no & do 4 voltando para a tônica\n\nA melhor resposta é a que faz o groove bater mais forte sem soar lotado.",
+          "es": "La parte 3 es el **carril de apagado**. Añade una ghost note o un silencio corto en cada compás, pero colócalo con intención. Prueba tres opciones:\n- antes del tiempo 2\n- antes del tiempo 4\n- en el & de 4 regresando a la tónica\n\nLa mejor opción es la que hace que el groove golpee más fuerte sin sonar lleno de más.",
+          "de": "Teil 3 ist die **Mute-Spur**. Füge in jedem Takt eine Ghost Note oder eine kurze Pause hinzu, aber setze sie bewusst. Teste drei Möglichkeiten:\n- vor Zählzeit 2\n- vor Zählzeit 4\n- auf dem & von 4 zurück zum Grundton\n\nDie beste Variante ist die, die den Groove stärker treffen lässt, ohne überfüllt zu klingen.",
+          "ja": "パート3は**ミュート・レーン**です。各小節にゴーストノートか短い休符を1つ入れますが、必ず意図して置きます。次の3つを試しましょう。\n- 2拍目の前\n- 4拍目の前\n- 4拍目の裏からルートへ戻る場所\n\n正解は、詰め込みすぎに聞こえず、それでもグルーヴを強く感じさせる置き方です。",
+          "zh-Hans": "第3部分是**静音通道**。每小节加入一个幽灵音或短休止，但必须有意识地放置。测试这三种位置：\n- 第2拍之前\n- 第4拍之前\n- 在第4拍后的&上，带回根音\n\n真正好的选择，是能让 groove 更有冲击力，却不会显得拥挤。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final chain test: play **eight bars** and rotate through the system — 2 bars mostly anchor, 2 bars with extra motion, 2 bars with stronger mute choices, then 2 bars balancing all three. Ask yourself:\n- Did the root still feel like home?\n- Did the passing tones create direction or clutter?\n- Did the ghost notes improve the pocket or just fill space?\n\nMove the same chain to **D major** when it feels stable. A bass groove gets dangerous in a good way when every small choice supports the pocket. 🎸",
+          "pt-BR": "Teste final da cadeia: toque **oito compassos** e vá girando pelo sistema — 2 compassos mais âncora, 2 com mais movimento, 2 com escolhas de abafamento mais fortes e 2 equilibrando os três elementos. Pergunte:\n- A tônica continuou soando como casa?\n- As notas de passagem criaram direção ou bagunça?\n- As ghost notes melhoraram o pocket ou só preencheram espaço?\n\nLeve a mesma cadeia para **Ré maior** quando estiver firme. Um groove de baixo fica perigosamente bom quando cada pequena escolha serve ao pocket. 🎸",
+          "es": "Prueba final de la cadena: toca **ocho compases** y rota por el sistema — 2 compases con más ancla, 2 con más movimiento, 2 con decisiones de apagado más claras y 2 equilibrando las tres cosas. Pregúntate:\n- ¿La tónica siguió sintiéndose como casa?\n- ¿Las notas de paso dieron dirección o desorden?\n- ¿Las ghost notes mejoraron el pocket o solo llenaron huecos?\n\nLleva la misma cadena a **Re mayor** cuando se sienta estable. Un groove de bajo se vuelve peligrosamente bueno cuando cada pequeña decisión apoya el pocket. 🎸",
+          "de": "Der Abschlusstest: spiele **acht Takte** und rotiere durch das System — 2 Takte mit viel Anker, 2 mit mehr Bewegung, 2 mit stärkeren Mute-Entscheidungen und 2, die alle drei Teile ausbalancieren. Frage dich:\n- Fühlte sich der Grundton weiter wie Zuhause an?\n- Haben die Durchgangstöne Richtung oder Chaos erzeugt?\n- Haben die Ghost Notes das Pocket verbessert oder nur Platz gefüllt?\n\nÜbertrage dieselbe Kette auf **D-Dur**, sobald sie stabil ist. Ein Bassgroove wird auf gute Weise gefährlich, wenn jede kleine Entscheidung dem Pocket dient. 🎸",
+          "ja": "最後のチェーンテストでは、**8小節** 演奏しながらシステムを回します。最初の2小節はアンカー多め、次の2小節は動き多め、その次の2小節はミュートの工夫を強め、最後の2小節で3要素を全部バランスさせます。自分にこう問いかけてください。\n- ルート音はまだ「帰る場所」に聞こえたか\n- 経過音は方向感を作ったか、それとも散らかっただけか\n- ゴーストノートはポケットを深くしたか、それとも隙間埋めだったか\n\n安定してきたら、同じチェーンを **Dメジャー** に移してください。小さな判断ひとつひとつがポケットを支え始めると、ベースのグルーヴはかなり危険なくらい良くなります。🎸",
+          "zh-Hans": "最终链路测试：连续弹 **8小节**，并轮流强调这个系统——2小节以锚点为主，2小节加入更多运动，2小节做更明显的静音选择，最后2小节把三者平衡起来。问问自己：\n- 根音还像“家”吗？\n- 经过音带来了方向，还是只是杂乱？\n- 幽灵音让 pocket 更深了，还是只是在填空？\n\n等这套系统稳定后，再把它移到 **D大调**。当每一个小决定都开始服务 pocket 时，贝斯 groove 就会危险地好听。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-30T00:05:50Z",
+  "updatedAt": "2026-06-30T00:05:50Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "guitar-silence-slingshot",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play over **E minor** at **82-96 BPM**. This lesson treats silence like a slingshot band: the farther you pull the phrase away from the beat, the more exciting the return feels. Stay in one fretboard area first, and aim to sound intentional instead of busy.",
+          "pt-BR": "Toque sobre **Mi menor** em **82-96 BPM**. Nesta lição, o silêncio funciona como a borracha de um estilingue: quanto mais você puxa a frase para longe da batida, mais emocionante fica a volta. Fique primeiro em uma região do braço e procure soar intencional, não apenas ocupado.",
+          "es": "Toca sobre **Mi menor** a **82-96 BPM**. En esta lección el silencio funciona como la goma de un tirachinas: cuanto más alejas la frase del pulso, más emocionante se siente el regreso. Quédate primero en una sola zona del diapasón e intenta sonar intencional en vez de simplemente ocupado.",
+          "de": "Spiele über **E-Moll** bei **82-96 BPM**. In dieser Lektion arbeitet die Stille wie das Band einer Schleuder: Je weiter du die Phrase vom Beat wegziehst, desto spannender wird die Rückkehr. Bleib zuerst in einem Griffbrettbereich und versuche absichtlich statt bloß geschäftig zu klingen.",
+          "ja": "**Eマイナー**で **82-96 BPM** に合わせて弾きましょう。このレッスンでは、沈黙はパチンコのゴムのように働きます。フレーズを拍から遠ざけるほど、戻ったときの気持ちよさが増します。まずは指板の一か所にとどまり、忙しく聞こえるよりも意図的に聞こえることを目指してください。",
+          "zh-Hans": "在 **E小调** 上以 **82-96 BPM** 练习。这节课把停顿当成弹弓的橡皮筋：你把乐句从拍点拉得越远，回来的瞬间就越刺激。先待在指板的一个区域里，目标是听起来有设计，而不是一直很忙。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set three rules before you start:\n- **launch** = begin with 3 or 4 scale notes\n- **stretch** = leave an eighth-note or quarter-note gap\n- **snap back** = land on **E**, **G**, or **B** with confidence\n\nDo 8 rounds where every phrase follows all three rules. If the silence feels awkward, good — that means you are hearing space instead of filling it automatically.",
+          "pt-BR": "Defina três regras antes de começar:\n- **lançamento** = comece com 3 ou 4 notas da escala\n- **esticada** = deixe uma pausa de colcheia ou de semínima\n- **volta rápida** = aterrisse em **E**, **G** ou **B** com confiança\n\nFaça 8 rodadas em que toda frase siga as três regras. Se o silêncio parecer estranho, ótimo — isso significa que você está ouvindo o espaço em vez de preenchê-lo no automático.",
+          "es": "Define tres reglas antes de empezar:\n- **lanzamiento** = comienza con 3 o 4 notas de la escala\n- **estirar** = deja un silencio de corchea o negra\n- **regreso** = aterriza en **E**, **G** o **B** con seguridad\n\nHaz 8 rondas en las que cada frase siga las tres reglas. Si el silencio se siente incómodo, perfecto: significa que estás oyendo el espacio en lugar de rellenarlo por costumbre.",
+          "de": "Lege vor dem Start drei Regeln fest:\n- **Start** = beginne mit 3 oder 4 Skalentönen\n- **Ziehen** = lass eine Achtel- oder Viertelpause\n- **Rückkehr** = lande sicher auf **E**, **G** oder **B**\n\nSpiele 8 Runden, in denen jede Phrase alle drei Regeln erfüllt. Wenn sich die Stille unangenehm anfühlt, ist das gut — dann hörst du Raum, statt ihn automatisch zu füllen.",
+          "ja": "始める前に3つのルールを決めます。\n- **発射** = 3音か4音のスケール音で始める\n- **引っぱる** = 8分休符か4分休符ぶん空ける\n- **戻る** = **E**、**G**、**B** のどれかに自信を持って着地する\n\nすべてのフレーズがこの3ルールを守るように8ラウンド行いましょう。沈黙が気まずく感じるなら、それは空間を自動で埋めずに聞けている証拠です。",
+          "zh-Hans": "开始前先定下三条规则：\n- **发射** = 用 3 到 4 个音阶音开头\n- **拉开** = 留出一个八分音符或四分音符的空隙\n- **弹回** = 自信地落在 **E**、**G** 或 **B** 上\n\n做 8 轮，每个乐句都必须遵守这三条规则。如果停顿让你觉得别扭，那正说明你开始真正听见空间，而不是本能地把它填满。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **same-start challenge**. Use the same opening note for 4 phrases, but change the return note each time. One return should feel calm, one bright, one tense, and one bluesy. Add bends or slides only after the rhythmic shape already works.",
+          "pt-BR": "A rodada 1 é o **desafio da mesma largada**. Use a mesma nota inicial em 4 frases, mas mude a nota de retorno toda vez. Um retorno deve soar calmo, um brilhante, um tenso e um blueseiro. Adicione bends ou slides só depois que o desenho rítmico já estiver funcionando.",
+          "es": "La ronda 1 es el **desafío de la misma salida**. Usa la misma nota inicial en 4 frases, pero cambia la nota de regreso cada vez. Un regreso debe sonar calmado, uno brillante, uno tenso y uno blusero. Añade bends o slides solo después de que la forma rítmica ya funcione.",
+          "de": "Runde 1 ist die **Gleicher-Start-Challenge**. Nutze für 4 Phrasen denselben Anfangston, aber ändere jedes Mal den Rückkehrton. Eine Rückkehr soll ruhig wirken, eine hell, eine spannungsvoll und eine bluesig. Füge Bendings oder Slides erst hinzu, wenn die Rhythmusform schon funktioniert.",
+          "ja": "ラウンド1は **同じスタート・チャレンジ**。4つのフレーズで同じ始まりの音を使いながら、戻る音だけ毎回変えます。1回は落ち着いて、1回は明るく、1回は緊張感を持って、1回はブルージーに聞こえるようにしましょう。ベンドやスライドは、リズムの形が先に決まってから加えます。",
+          "zh-Hans": "第 1 轮是 **同起点挑战**。4 个乐句都用同一个起始音，但每次换一个回落音。一次要听起来平静，一次明亮，一次紧张，一次偏蓝调。只有在节奏轮廓已经成立之后，再加入推弦或滑音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **late-landing challenge**. Start on beat 1, leave your silence on a weak beat, and snap back on beat 4 or the next bar's beat 1. Record 30 seconds and check:\n- Did the rests create suspense?\n- Did your landing note sound chosen?\n- Did your rhythm stay steady while you waited?\n\nIf yes, your phrasing is getting smarter, not just faster.",
+          "pt-BR": "A rodada 2 é o **desafio da chegada atrasada**. Comece no tempo 1, deixe o silêncio em uma parte fraca do compasso e volte no tempo 4 ou no tempo 1 do compasso seguinte. Grave 30 segundos e confira:\n- As pausas criaram suspense?\n- A nota de chegada pareceu escolhida?\n- Seu ritmo ficou firme enquanto você esperava?\n\nSe sim, seu fraseado está ficando mais inteligente, não apenas mais rápido.",
+          "es": "La ronda 2 es el **desafío del aterrizaje tardío**. Empieza en el tiempo 1, deja el silencio en una parte débil y regresa en el tiempo 4 o en el tiempo 1 del compás siguiente. Graba 30 segundos y revisa:\n- ¿Los silencios crearon suspenso?\n- ¿La nota de llegada sonó elegida?\n- ¿Tu ritmo se mantuvo firme mientras esperabas?\n\nSi la respuesta es sí, tu fraseo se está volviendo más inteligente, no solo más rápido.",
+          "de": "Runde 2 ist die **Späte-Landung-Challenge**. Starte auf Zählzeit 1, setze die Stille auf einen schwachen Teil des Takts und lande auf Zählzeit 4 oder auf der 1 des nächsten Takts. Nimm 30 Sekunden auf und prüfe:\n- Haben die Pausen Spannung erzeugt?\n- Klang der Landeton bewusst gewählt?\n- Blieb dein Rhythmus stabil, während du gewartet hast?\n\nWenn ja, wird dein Phrasing klüger und nicht nur schneller.",
+          "ja": "ラウンド2は **遅れて着地するチャレンジ**。1拍目から始め、弱い位置に沈黙を置き、4拍目か次の小節の1拍目で戻ります。30秒録音して確認しましょう。\n- 休符はサスペンスを作れたか\n- 着地音は選んだ感じがあるか\n- 待っている間もリズムは安定していたか\n\nできていたら、あなたのフレージングは速くなるだけでなく、賢くなっています。",
+          "zh-Hans": "第 2 轮是 **延迟落点挑战**。从第 1 拍开始，把停顿放在弱拍位置，然后在第 4 拍或下一小节第 1 拍弹回。录下 30 秒并检查：\n- 停顿有没有制造悬念？\n- 落点音听起来像是刻意选择的吗？\n- 等待时你的节奏有没有保持稳定？\n\n如果答案是有，你的乐句能力就在变聪明，而不只是变快。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-08T00:07:36Z",
+  "updatedAt": "2026-05-08T00:07:36Z"
+}

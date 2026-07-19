@@ -1,0 +1,73 @@
+{
+  "id": "blues-exit-ramp-in-a",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "You are not allowed to noodle forever in the A minor blues box today. Your mission is to **leave, flirt with tension, and return on purpose**. Set a medium shuffle or straight eighth groove around **70-85 BPM** and keep the A blues scale under your fingers.",
+          "pt-BR": "Hoje você não pode ficar improvisando sem rumo no box de blues em Lá menor. Sua missão é **sair, flertar com a tensão e voltar de propósito**. Coloque um groove shuffle médio ou colcheias retas em **70-85 BPM** e mantenha a escala blues de Lá debaixo dos dedos.",
+          "es": "Hoy no puedes quedarte improvisando sin rumbo dentro del box de blues en La menor. Tu misión es **salir, rozar la tensión y volver con intención**. Pon un groove shuffle medio o corcheas rectas alrededor de **70-85 BPM** y mantén la escala de blues de La bajo los dedos.",
+          "de": "Heute darfst du nicht endlos in der A-Moll-Blues-Box herumspielen. Deine Mission ist es, **hinauszufahren, Spannung zu streifen und bewusst zurückzukehren**. Stell einen mittleren Shuffle oder gerade Achtel bei **70-85 BPM** ein und halte die A-Blues-Skala spielbereit.",
+          "ja": "今日はAマイナー・ブルース・ボックスの中で何となく弾き続けるのは禁止です。ミッションは **外へ出て、緊張感に触れ、意図を持って戻ること**。**70-85 BPM** くらいのミディアム・シャッフルかストレート8分のグルーヴを流し、Aブルース・スケールをすぐ弾ける状態にしておきましょう。",
+          "zh-Hans": "今天不允许你一直困在 A 小调布鲁斯盒型里随便乱弹。你的任务是 **离开熟悉区域、碰一下张力，再有意识地回到落点**。打开一个 **70-85 BPM** 的中速 shuffle 或 straight eighth groove，把 A 布鲁斯音阶准备好。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick three landing notes that feel like \"home\" over an A blues vamp: **A, C, and E**. Play any short lick of 3-5 notes, but the final note must land clearly on one of those targets. After each attempt, say out loud: **root, b3, or 5**. That tiny naming step turns random licks into informed phrasing.",
+          "pt-BR": "Escolha três notas de chegada que soam como \"casa\" sobre um vamp de blues em Lá: **A, C e E**. Toque qualquer lick curto de 3 a 5 notas, mas a última nota precisa cair com clareza em um desses alvos. Depois de cada tentativa, diga em voz alta: **tônica, b3 ou 5**. Esse pequeno gesto transforma licks aleatórios em fraseado consciente.",
+          "es": "Elige tres notas de llegada que se sientan como \"casa\" sobre un vamp de blues en La: **A, C y E**. Toca cualquier lick corto de 3 a 5 notas, pero la última nota debe caer con claridad en uno de esos objetivos. Después de cada intento, dilo en voz alta: **tónica, b3 o 5**. Ese pequeño hábito convierte licks aleatorios en fraseo consciente.",
+          "de": "Wähle drei Zieltöne, die sich über einem A-Blues-Vamp wie \"Zuhause\" anfühlen: **A, C und E**. Spiele ein kurzes Lick mit 3 bis 5 Tönen, aber der letzte Ton muss klar auf einem dieser Ziele landen. Sage nach jedem Versuch laut: **Grundton, kleine Terz oder Quinte**. Dieser kleine Schritt macht aus Zufallslinien bewusstes Phrasieren.",
+          "ja": "Aのブルース・ヴァンプの上で「家」に聞こえる着地点を3つ選びます: **A、C、E**。3〜5音の短いリックを弾きますが、最後の音は必ずそのどれかに明確に着地させます。弾き終わるたびに **ルート、♭3、5度** と声に出してください。この小さな確認で、偶然のリックが意識的なフレージングに変わります。",
+          "zh-Hans": "先选出三个在 A 布鲁斯伴奏上最像“家”的落点音: **A、C、E**。你可以弹任何 3 到 5 个音的短句，但最后一个音必须清楚地落在这三个目标之一上。每次弹完后大声说出来: **根音、♭3、或 5 度**。这个小动作会把随手乱弹变成有意识的乐句设计。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one rule that creates drama: before landing, you must pass through **Eb**, the blue note. Do not camp on it. Treat it like hot sauce—small amount, big effect. Listen to how the lick sounds more expressive when Eb resolves into D or E instead of hanging in the air.",
+          "pt-BR": "Agora adicione uma regra que cria drama: antes de aterrissar, você precisa passar por **Eb**, a blue note. Não pare nela. Trate essa nota como molho forte—pouca quantidade, grande efeito. Ouça como o lick fica mais expressivo quando o Eb resolve em D ou E em vez de ficar solto no ar.",
+          "es": "Ahora añade una regla que cree dramatismo: antes de aterrizar, debes pasar por **Eb**, la blue note. No te quedes ahí. Trátala como salsa picante: poca cantidad, gran efecto. Escucha cómo el lick suena más expresivo cuando Eb resuelve en D o E en vez de quedar flotando.",
+          "de": "Jetzt kommt eine Regel für mehr Drama: Vor der Landung musst du durch **Eb**, die Blue Note. Bleib nicht darauf stehen. Behandle sie wie scharfe Sauce—wenig davon, große Wirkung. Hör dir an, wie viel ausdrucksstärker das Lick wird, wenn sich Eb nach D oder E auflöst.",
+          "ja": "次はドラマを作るルールです。着地する前に必ず **Eb**、つまりブルーノートを通過してください。ただし長く居座らないこと。辛いソースのように、**少量で大きな効果** を狙います。Ebが宙に浮くよりも、DやEへ解決したときにどれだけ表情が増すかを耳で確かめましょう。",
+          "zh-Hans": "现在加一条制造戏剧感的规则: 落点之前，你必须经过 **Eb**，也就是蓝调音。不要停太久。把它当成辣酱——**一点点就够，效果很大**。仔细听听，当 Eb 解决到 D 或 E，而不是悬在空中时，乐句会多出多少表达力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time for the \"exit ramp\" game. For four rounds, start your lick on a different beat: **1, the & of 1, beat 2, and the & of 3**. The goal is to land on A, C, or E by beat 1 of the next bar. Same scale, different entry points, very different feel. This is how phrasing starts to sound played, not recited.",
+          "pt-BR": "Hora do jogo da \"saída\". Em quatro rodadas, comece o lick em tempos diferentes: **1, o & do 1, tempo 2 e o & do 3**. O objetivo é aterrissar em A, C ou E no tempo 1 do compasso seguinte. A mesma escala com pontos de entrada diferentes gera uma sensação completamente nova. É assim que o fraseado começa a soar tocado, não recitado.",
+          "es": "Llega el juego de la \"salida\". Durante cuatro rondas, empieza tu lick en distintos puntos: **1, el & de 1, tiempo 2 y el & de 3**. El objetivo es aterrizar en A, C o E en el tiempo 1 del siguiente compás. La misma escala con entradas distintas cambia por completo la sensación. Así el fraseo empieza a sonar tocado, no recitado.",
+          "de": "Jetzt beginnt das \"Ausfahrt\"-Spiel. Starte dein Lick in vier Durchgängen jeweils auf einem anderen Puls: **1, auf dem & von 1, auf Zählzeit 2 und auf dem & von 3**. Das Ziel ist, bis zur 1 des nächsten Takts auf A, C oder E zu landen. Gleiche Skala, andere Einstiege, komplett anderes Gefühl. So klingt Phrasierung gespielt statt aufgesagt.",
+          "ja": "ここからは「出口ランプ」ゲームです。4回のラウンドで、リックの開始位置を **1拍目、1拍目の裏、2拍目、3拍目の裏** に変えます。目標は次の小節の1拍目までにA、C、Eのどれかへ着地すること。同じスケールでも入り口が変わるだけでノリは大きく変わります。これでフレーズが暗唱ではなく演奏らしく聞こえ始めます。",
+          "zh-Hans": "接下来是“出口匝道”游戏。连续四轮，把你的短句分别从 **第1拍、第1拍后半拍、第2拍、第3拍后半拍** 开始。目标是在下一小节的第1拍之前，稳稳落在 A、C 或 E 上。同样的音阶，换个进入时机，感觉就会完全不同。乐句从这里开始才像“演奏”，而不是“背答案”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record or loop **four bars**. Bars 1-2 must answer each other, bar 3 must use the blue note, and bar 4 must land hard on A. If one phrase sounds muddy, simplify it rather than adding more notes. Great blues lines are often brave because of their timing and destination, not their speed.",
+          "pt-BR": "Desafio final: grave ou faça loop de **quatro compassos**. Os compassos 1-2 precisam se responder, o compasso 3 deve usar a blue note e o compasso 4 precisa pousar forte em A. Se alguma frase soar embolada, simplifique em vez de acrescentar mais notas. Grandes linhas de blues costumam impressionar mais pelo timing e pelo destino do que pela velocidade.",
+          "es": "Desafío final: graba o crea un loop de **cuatro compases**. Los compases 1-2 deben responderse, el compás 3 debe usar la blue note y el compás 4 debe caer con fuerza en A. Si una frase suena confusa, simplifícala en vez de añadir más notas. Las grandes líneas de blues suelen ser valientes por su tiempo y su destino, no por su velocidad.",
+          "de": "Abschluss-Challenge: Nimm **vier Takte** auf oder loope sie. Takt 1-2 sollen sich gegenseitig beantworten, Takt 3 muss die Blue Note enthalten und Takt 4 soll fest auf A landen. Wenn eine Phrase matschig klingt, vereinfache sie, statt mehr Töne hinzuzufügen. Starke Blues-Linien beeindrucken oft mehr durch Timing und Ziel als durch Geschwindigkeit.",
+          "ja": "最後の挑戦です。**4小節** を録音するかループさせましょう。1-2小節目は呼びかけと返答、3小節目ではブルーノートを使い、4小節目はAに強く着地します。フレーズが濁るなら音を増やすのではなく減らしてください。優れたブルース・ラインは、速さよりもタイミングと着地点の強さで勝負しています。",
+          "zh-Hans": "最后挑战: 录下或循环 **4 小节**。第1-2小节要形成呼应，第3小节必须出现蓝调音，第4小节要强力落回 A。若某一句听起来太糊，就减少音符，不要继续加。真正厉害的布鲁斯句子，往往靠的是节奏和落点，而不是速度。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-04T00:07:09Z",
+  "updatedAt": "2026-06-04T00:07:09Z"
+}

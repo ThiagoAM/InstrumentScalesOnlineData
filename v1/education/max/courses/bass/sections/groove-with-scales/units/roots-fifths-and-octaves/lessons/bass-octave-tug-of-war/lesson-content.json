@@ -1,0 +1,86 @@
+{
+  "id": "bass-octave-tug-of-war",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Some bass lines feel flat because the player keeps choosing the “correct” note in the most predictable way. This lesson turns **roots and octaves** into a friendly tug-of-war. You will keep the harmony clear while creating motion, surprise, and a stronger sense of lift.\n\nWork over a simple vamp in **E major** or **E mixolydian**, such as **E - A - B - A**. Set a metronome or drum loop between **80 and 96 BPM**. The mission is not to be flashy. The mission is to make repeated notes feel alive.",
+          "pt-BR": "Algumas linhas de baixo soam planas porque o músico escolhe a nota “certa” da forma mais previsível possível. Esta lição transforma **tônicas e oitavas** em um cabo de guerra amigável. Você vai manter a harmonia clara enquanto cria movimento, surpresa e uma sensação maior de impulso.\n\nTrabalhe sobre um vamp simples em **Mi maior** ou **Mi mixolídio**, como **E - A - B - A**. Ajuste metrônomo ou loop entre **80 e 96 BPM**. A missão não é ser exibido. A missão é fazer notas repetidas soarem vivas.",
+          "es": "Algunas líneas de bajo suenan planas porque el bajista elige la nota “correcta” de la forma más predecible posible. Esta lección convierte **tónicas y octavas** en un tira y afloja amistoso. Mantendrás la armonía clara mientras creas movimiento, sorpresa y una sensación mayor de impulso.\n\nTrabaja sobre un vamp sencillo en **Mi mayor** o **Mi mixolidio**, como **E - A - B - A**. Pon metrónomo o loop entre **80 y 96 BPM**. La misión no es lucirte. La misión es hacer que las notas repetidas se sientan vivas.",
+          "de": "Manche Basslinien wirken flach, weil der Spieler die „richtige“ Note auf die vorhersehbarste Weise wählt. Diese Lektion macht aus **Grundtönen und Oktaven** ein freundliches Zugduell. Du hältst die Harmonie klar und erzeugst gleichzeitig Bewegung, Überraschung und mehr Auftrieb.\n\nArbeite über einem einfachen Vamp in **E-Dur** oder **E-Mixolydisch**, zum Beispiel **E - A - B - A**. Stell Metronom oder Drum-Loop auf **80 bis 96 BPM**. Die Aufgabe ist nicht, flashy zu sein. Die Aufgabe ist, wiederholte Töne lebendig wirken zu lassen.",
+          "ja": "ベースラインが平坦に聞こえるのは、正しい音をいちばん予想通りの形で選び続けているからかもしれません。このレッスンでは **ルート音とオクターブ** を友好的な綱引きに変えます。和声は明確に保ちつつ、動き、驚き、そして持ち上がる感覚を作ります。\n\n**Eメジャー** または **Eミクソリディアン**、たとえば **E - A - B - A** のようなシンプルなヴァンプで練習します。メトロノームまたはドラムループを **80〜96 BPM** に設定してください。派手さは目的ではありません。繰り返す音を生き生きさせることが目的です。",
+          "zh-Hans": "有些贝斯线听起来很平，是因为演奏者总是用最可预测的方式去选“正确”的音。这节课把 **根音和八度** 变成一场友好的拔河。你要在保持和声清楚的同时，做出运动感、惊喜感和更强的上提感。\n\n在 **E 大调** 或 **E 混合利底亚** 的简单 vamp 上练习，比如 **E - A - B - A**。把节拍器或鼓 loop 设在 **80-96 BPM**。目标不是炫技，而是让重复音也活起来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a **two-bar groove frame** with these ingredients:\n- strong root on beat 1 when the chord changes\n- at least one **octave jump** in each two-bar cycle\n- one bar that feels grounded\n- one bar that feels like it is reaching upward\n\nThink of the root as gravity and the octave as a rope pulling the groove into the air.",
+          "pt-BR": "Monte uma **moldura de groove em dois compassos** com estes ingredientes:\n- tônica forte no tempo 1 quando o acorde mudar\n- pelo menos um **salto de oitava** em cada ciclo de dois compassos\n- um compasso que soe aterrado\n- um compasso que soe como se estivesse subindo\n\nPense na tônica como gravidade e na oitava como uma corda puxando o groove para o ar.",
+          "es": "Construye un **marco de groove de dos compases** con estos ingredientes:\n- tónica fuerte en el tiempo 1 cuando cambie el acorde\n- al menos un **salto de octava** en cada ciclo de dos compases\n- un compás que se sienta asentado\n- un compás que parezca elevarse\n\nPiensa en la tónica como gravedad y en la octava como una cuerda que tira del groove hacia arriba.",
+          "de": "Baue einen **Zwei-Takt-Groove-Rahmen** mit diesen Zutaten:\n- starker Grundton auf Zählzeit 1 beim Akkordwechsel\n- mindestens ein **Oktavsprung** pro Zwei-Takt-Zyklus\n- ein Takt, der geerdet wirkt\n- ein Takt, der nach oben zieht\n\nDenk an den Grundton als Schwerkraft und an die Oktave als Seil, das den Groove in die Luft zieht.",
+          "ja": "次の材料で **2小節グルーヴの枠** を作ります。\n- コードが変わるときの1拍目に強いルート音\n- 2小節ごとに少なくとも1回の **オクターブ跳躍**\n- 地に足のついた小節を1つ\n- 上へ引き上げられる感じの小節を1つ\n\nルート音を重力、オクターブをグルーヴを空中へ引っ張るロープだと考えましょう。",
+          "zh-Hans": "做一个 **两小节 groove 框架**，包含这些材料：\n- 和弦变化时，第 1 拍给出强根音\n- 每个两小节循环里至少有一次 **八度跳跃**\n- 一小节感觉扎实落地\n- 一小节感觉像被往上拉\n\n把根音想成重力，把八度想成把 groove 往空中拽的绳子。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **gravity round**. Keep your lower root notes short and confident, then test different places for the octave: beat 2, the “and” of 2, beat 4, or the “and” of 4. Listen for which placement makes the line feel like it leans forward instead of simply bouncing in place.",
+          "pt-BR": "A Rodada 1 é a **rodada da gravidade**. Mantenha as tônicas graves curtas e confiantes, depois teste lugares diferentes para a oitava: tempo 2, contratempo do 2, tempo 4 ou contratempo do 4. Ouça qual posição faz a linha inclinar para a frente em vez de apenas quicar no mesmo lugar.",
+          "es": "La Ronda 1 es la **ronda de gravedad**. Mantén tus tónicas graves cortas y seguras, luego prueba distintos lugares para la octava: tiempo 2, la “y” de 2, tiempo 4 o la “y” de 4. Escucha qué colocación hace que la línea se incline hacia delante en lugar de quedarse rebotando en el mismo sitio.",
+          "de": "Runde 1 ist die **Schwerkraft-Runde**. Halte die tiefen Grundtöne kurz und selbstbewusst und teste dann verschiedene Plätze für die Oktave: Zählzeit 2, das Und von 2, Zählzeit 4 oder das Und von 4. Hör darauf, welche Platzierung die Linie nach vorne kippen lässt, statt nur auf der Stelle zu hüpfen.",
+          "ja": "ラウンド1は **重力ラウンド** です。低いルート音は短く自信を持って弾き、その後オクターブを置く位置を試します。2拍目、2拍目裏、4拍目、4拍目裏などです。どの位置が、その場で跳ねるだけでなく、ラインを前へ傾けるかを聴き取ってください。",
+          "zh-Hans": "第 1 轮是 **重力轮**。先把低音区根音弹得短而有把握，再试试不同的八度落点：第 2 拍、2 的后半拍、第 4 拍或 4 的后半拍。听听哪种位置让线条像是在向前倾，而不只是原地弹跳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **tone-match round**. Many players jump to the octave and accidentally change their attack too much. Play root and octave with matching time and matching conviction. The pitch changes, but the groove personality should stay related—like the same character speaking in two registers.",
+          "pt-BR": "A Rodada 2 é a **rodada da correspondência de timbre**. Muita gente pula para a oitava e muda o ataque demais sem perceber. Toque tônica e oitava com o mesmo tempo e a mesma convicção. A altura muda, mas a personalidade do groove deve continuar parecida — como o mesmo personagem falando em dois registros.",
+          "es": "La Ronda 2 es la **ronda de igualar el tono**. Muchos músicos saltan a la octava y cambian demasiado el ataque sin notarlo. Toca tónica y octava con el mismo tiempo y la misma convicción. La altura cambia, pero la personalidad del groove debe seguir emparentada, como el mismo personaje hablando en dos registros.",
+          "de": "Runde 2 ist die **Klangabgleich-Runde**. Viele springen zur Oktave und verändern unbemerkt ihren Anschlag zu stark. Spiele Grundton und Oktave mit gleichem Timing und gleicher Überzeugung. Die Tonhöhe ändert sich, aber die Groove-Persönlichkeit sollte verwandt bleiben — wie dieselbe Figur in zwei Registern.",
+          "ja": "ラウンド2は **音色合わせラウンド** です。多くの人はオクターブへ飛ぶときに、気づかないうちにアタックを変えすぎます。ルート音とオクターブを、同じタイム感と同じ確信で弾きましょう。高さは変わっても、グルーヴの性格は同じ人物の別の声域のように関連しているべきです。",
+          "zh-Hans": "第 2 轮是 **音色匹配轮**。很多人跳到八度时，会不知不觉把触弦方式改得太多。根音和八度都要用同样的时间感、同样的确定感去弹。音高变了，但 groove 的人格要保持血缘关系——像同一个角色在两个音区说话。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **pressure-switch round**. Create one version of the groove with sparse octave use, then another with more frequent octave answers. Alternate every **four repeats** without losing tempo. If the busier version makes the pocket shrink, simplify the filler notes before blaming the octave jump itself.",
+          "pt-BR": "A Rodada 3 é a **rodada da troca sob pressão**. Crie uma versão do groove com poucas oitavas e outra com respostas de oitava mais frequentes. Alterne a cada **quatro repetições** sem perder o andamento. Se a versão mais ocupada encolher o pocket, simplifique as notas de preenchimento antes de culpar o salto de oitava.",
+          "es": "La Ronda 3 es la **ronda de cambio bajo presión**. Crea una versión del groove con pocas octavas y otra con respuestas de octava más frecuentes. Alterna cada **cuatro repeticiones** sin perder el tempo. Si la versión más cargada encoge el pocket, simplifica primero las notas de relleno antes de culpar al salto de octava.",
+          "de": "Runde 3 ist die **Druckwechsel-Runde**. Erstelle eine Version des Grooves mit wenigen Oktaven und eine zweite mit häufigeren Oktav-Antworten. Wechsle alle **vier Wiederholungen**, ohne das Tempo zu verlieren. Wenn die dichtere Version das Pocket kleiner macht, vereinfache zuerst die Fülltöne, bevor du den Oktavsprung selbst beschuldigst.",
+          "ja": "ラウンド3は **プレッシャー切り替えラウンド** です。オクターブが少ないバージョンと、オクターブの返答が多いバージョンを作り、**4回ごと** に交互に切り替えます。もし忙しいほうでポケットが縮むなら、オクターブそのものを疑う前に、つなぎの音を整理してください。",
+          "zh-Hans": "第 3 轮是 **压力切换轮**。先做一个八度较少的版本，再做一个八度回应更频繁的版本。每 **4 次重复** 切换一次，同时不能丢掉速度。如果更忙的版本让 pocket 缩小了，先简化填充音，再去怪八度跳跃本身。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final test, record **45 seconds** and check:\n- Do the root notes still define the harmony clearly?\n- Do the octave jumps add lift instead of chaos?\n- Is your time equally solid in the low and high register?\n\nA great bass groove does not fight gravity by escaping it. It plays with gravity until the whole line feels physical.",
+          "pt-BR": "No teste final, grave **45 segundos** e confira:\n- As tônicas ainda definem a harmonia com clareza?\n- Os saltos de oitava adicionam impulso em vez de caos?\n- Seu tempo está igualmente firme no registro grave e no agudo?\n\nUm grande groove de baixo não vence a gravidade fugindo dela. Ele brinca com a gravidade até a linha inteira ficar física.",
+          "es": "Para la prueba final, graba **45 segundos** y revisa:\n- ¿Las tónicas siguen definiendo la armonía con claridad?\n- ¿Los saltos de octava añaden impulso en vez de caos?\n- ¿Tu tiempo es igual de sólido en el registro grave y en el agudo?\n\nUn gran groove de bajo no vence la gravedad escapando de ella. Juega con la gravedad hasta que toda la línea se sienta física.",
+          "de": "Nimm für den Abschlusstest **45 Sekunden** auf und prüfe:\n- Definieren die Grundtöne die Harmonie noch klar?\n- Bringen die Oktavsprünge Auftrieb statt Chaos?\n- Ist dein Timing im tiefen und hohen Register gleich stabil?\n\nEin großartiger Bassgroove besiegt die Schwerkraft nicht, indem er ihr entkommt. Er spielt mit ihr, bis die ganze Linie körperlich wirkt.",
+          "ja": "最後のテストでは **45秒** 録音し、次を確認します。\n- ルート音はまだ和声をはっきり示しているか？\n- オクターブ跳躍は混乱ではなく持ち上がりを加えているか？\n- 低音域でも高音域でもタイムは同じくらい安定しているか？\n\n素晴らしいベースグルーヴは、重力から逃げることで勝つのではありません。重力と遊び、その結果ライン全体が身体的に感じられるようになるのです。",
+          "zh-Hans": "最后录下 **45 秒**，检查：\n- 根音是否仍然清楚定义了和声？\n- 八度跳跃带来的是上提感，而不是混乱？\n- 你的低音区和高音区时间感是否一样稳？\n\n伟大的贝斯 groove 不是靠逃离重力来赢，而是靠和重力周旋，直到整条线都带着身体感。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-09T00:10:26Z",
+  "updatedAt": "2026-05-09T00:10:26Z"
+}

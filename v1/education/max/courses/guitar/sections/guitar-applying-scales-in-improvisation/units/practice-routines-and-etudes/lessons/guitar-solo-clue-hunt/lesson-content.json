@@ -1,0 +1,73 @@
+{
+  "id": "guitar-solo-clue-hunt",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Your mission: imagine the backing track is a mystery scene in A minor. You are the lead detective, and every strong note you land on is a clue. Before you play, say out loud which three notes feel like “home” over Am, which note feels spicy, and which bend you want to save for the dramatic ending.",
+          "pt-BR": "Sua missão: imagine que o playback é uma cena de mistério em Lá menor. Você é a detetive principal, e cada nota forte em que pousa é uma pista. Antes de tocar, diga em voz alta quais três notas soam como “casa” sobre Am, qual nota soa mais picante e qual bend você quer guardar para o final dramático.",
+          "es": "Tu misión: imagina que la base es una escena de misterio en La menor. Tú eres la detective principal y cada nota fuerte en la que aterrizas es una pista. Antes de tocar, di en voz alta qué tres notas se sienten como “casa” sobre Am, qué nota suena picante y qué bend quieres guardar para el final dramático.",
+          "de": "Deine Mission: Stell dir vor, der Backing-Track ist ein Tatort in A-Moll. Du bist der leitende Detektiv, und jeder starke Zielton ist ein Hinweis. Sag vor dem Spielen laut, welche drei Töne sich über Am wie „zu Hause“ anfühlen, welcher Ton extra scharf wirkt und welchen Bend du für das dramatische Ende aufheben willst.",
+          "ja": "今回のミッションは、Aマイナーのバッキングをミステリー現場だと思うことです。あなたは主役の探偵で、強く着地した音はすべて手がかりです。弾く前に、Am の上で「帰ってきた感じ」がする3音、少しスパイシーに聞こえる音、そして最後の見せ場まで取っておきたいベンドを声に出して決めましょう。",
+          "zh-Hans": "今天的任务：把 A 小调伴奏想成一个神秘案件现场。你是主侦探，每一次稳稳落下的强拍音都是一条线索。开始前，先说出在 Am 上最像“回家”的三个音、哪个音最有刺激感，以及你想留到结尾的大招 bend 是什么。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the flashlight round. Improvise for one minute using only the A minor pentatonic in one position. End every short phrase on either A, C, or E. If you drift into random noodling, stop, breathe, and restart with a cleaner 3-note idea.",
+          "pt-BR": "A Rodada 1 é a rodada da lanterna. Improvise por um minuto usando apenas a pentatônica menor de Lá em uma posição. Termine cada frase curta em A, C ou E. Se você cair em licks aleatórios, pare, respire e recomece com uma ideia mais limpa de 3 notas.",
+          "es": "La Ronda 1 es la ronda de la linterna. Improvisa durante un minuto usando solo la pentatónica menor de La en una posición. Termina cada frase corta en A, C o E. Si empiezas a tocar sin rumbo, detente, respira y vuelve a empezar con una idea clara de 3 notas.",
+          "de": "Runde 1 ist die Taschenlampenrunde. Improvisiere eine Minute lang nur mit der A-Moll-Pentatonik in einer Position. Beende jede kurze Phrase auf A, C oder E. Wenn du in zufälliges Gedudel abrutschst, stopp, atme durch und beginne neu mit einer klareren 3-Ton-Idee.",
+          "ja": "ラウンド1はフラッシュライト・ラウンドです。Aマイナー・ペンタトニックを1つのポジションだけで使い、1分間即興します。短いフレーズは必ず A、C、E のどれかで終えましょう。なんとなく手ぐせ弾きになったら、止まって深呼吸し、3音のはっきりしたアイデアでやり直します。",
+          "zh-Hans": "第1回合是“手电筒回合”。只用一个把位里的 A 小调五声音阶即兴 1 分钟。每个短句都落在 A、C 或 E 上。如果你开始无意识地乱跑指型，就停下来，吸一口气，再用一个更清楚的三音动机重新开始。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the footprint round. Keep the same backing track, but now slide into at least two target notes from a fret below or above. Your job is to make the listener hear the arrival, not just the scale shape. Count how many times your slide actually sounds intentional.",
+          "pt-BR": "A Rodada 2 é a rodada das pegadas. Mantenha o mesmo playback, mas agora deslize para pelo menos duas notas-alvo vindo de um traste abaixo ou acima. Seu trabalho é fazer o ouvinte perceber a chegada, não só o desenho da escala. Conte quantas vezes seu slide realmente soa intencional.",
+          "es": "La Ronda 2 es la ronda de las huellas. Mantén la misma base, pero ahora deslízate hacia al menos dos notas objetivo desde un traste abajo o arriba. Tu trabajo es que el oyente escuche la llegada, no solo la forma de la escala. Cuenta cuántas veces tu slide suena realmente intencional.",
+          "de": "Runde 2 ist die Fußspurenrunde. Behalte denselben Backing-Track, aber rutsche jetzt mindestens zweimal von einem Bund darunter oder darüber in einen Zielton hinein. Deine Aufgabe ist, dass man die Ankunft hört und nicht nur die Skalenform. Zähle, wie oft dein Slide wirklich absichtlich klingt.",
+          "ja": "ラウンド2は足あとラウンドです。同じバッキングのまま、少なくとも2回は半音上または下のフレットからターゲット音へスライドで入りましょう。大事なのはスケールの形ではなく、到着の気持ちよさを聴かせることです。自分のスライドが本当に意図的に聞こえた回数を数えてください。",
+          "zh-Hans": "第2回合是“脚印回合”。保持同一条伴奏，但现在至少两次从目标音上方或下方一个品位滑进去。你的目标不是让人听到音阶形状，而是让人听到“抵达感”。数一数你有几次 slide 真正听起来像是有意设计的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the plot twist. Add the blues note once per phrase group, but do not lean on it every time. Treat it like hot sauce: exciting in the right amount, messy in excess. After each phrase, leave a short rest so your next answer sounds planned.",
+          "pt-BR": "A Rodada 3 é a reviravolta. Adicione a blue note uma vez por grupo de frases, mas sem se apoiar nela toda hora. Trate-a como molho de pimenta: emocionante na medida certa, bagunçada em excesso. Depois de cada frase, deixe uma pausa curta para a próxima resposta soar planejada.",
+          "es": "La Ronda 3 es el giro de la trama. Añade la blue note una vez por grupo de frases, pero no te apoyes en ella siempre. Trátala como salsa picante: emocionante en la cantidad justa, desordenada en exceso. Después de cada frase, deja un pequeño silencio para que la siguiente respuesta suene pensada.",
+          "de": "Runde 3 ist die Wendung der Handlung. Füge die Blue Note einmal pro Phrasengruppe hinzu, aber stütze dich nicht jedes Mal auf sie. Behandle sie wie scharfe Soße: in der richtigen Menge spannend, im Übermaß chaotisch. Lass nach jeder Phrase eine kurze Pause, damit die nächste Antwort geplant wirkt.",
+          "ja": "ラウンド3はストーリーのどんでん返しです。ブルーノートを各フレーズグループに1回だけ入れますが、毎回頼りすぎないこと。辛いソースのように、ちょうどよければ最高、入れすぎると散らかります。各フレーズのあとに短い休符を入れて、次の返事が計画的に聞こえるようにしましょう。",
+          "zh-Hans": "第3回合是“剧情反转”。每组乐句只加入一次布鲁斯音，但不要每次都靠它撑场面。把它当成辣酱：适量很精彩，过量就会糊掉。每句结束后留一个短暂停顿，让下一句像是思考后的回答。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Case closed: record one final chorus with a beginning, a bigger middle, and a confident ending bend or vibrato note. Then ask yourself three questions: Did I target chord tones? Did I repeat at least one idea on purpose? Did my solo sound like a conversation instead of a scale dump?",
+          "pt-BR": "Caso encerrado: grave um último chorus com começo, meio maior e um final confiante com bend ou vibrato. Depois pergunte a si mesma: Mirei nos chord tones? Repeti pelo menos uma ideia de propósito? Meu solo soou como conversa em vez de despejo de escala?",
+          "es": "Caso cerrado: graba un último chorus con inicio, centro más grande y un final seguro con bend o vibrato. Luego pregúntate: ¿Apunté a notas del acorde? ¿Repetí al menos una idea a propósito? ¿Mi solo sonó como una conversación y no como una descarga de escala?",
+          "de": "Fall gelöst: Nimm einen letzten Chorus mit Anfang, größerer Mitte und einem sicheren Abschluss-Bend oder Vibrato auf. Frag dich dann: Habe ich Akkordtöne getroffen? Habe ich mindestens eine Idee bewusst wiederholt? Klang mein Solo wie ein Gespräch statt wie eine Skalenlawine?",
+          "ja": "事件解決です。最後に、始まり・盛り上がる中盤・自信のあるベンドまたはビブラートで終わる1コーラスを録音しましょう。そのあと、自分に3つ質問します。コードトーンを狙えたか。少なくとも1つのアイデアを意図的に繰り返したか。ソロはスケールの羅列ではなく会話のように聞こえたか。",
+          "zh-Hans": "结案时，录一个完整 chorus：有开头、有更大的中段、最后用自信的 bend 或 vibrato 收尾。然后问自己三个问题：我有瞄准和弦音吗？我有故意重复至少一个想法吗？我的独奏听起来像对话，而不是音阶倾倒吗？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-13T00:07:39Z",
+  "updatedAt": "2026-06-13T00:07:39Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "guitar-chord-tone-chase",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Mission briefing\n\nUse **A Dorian** (A B C D E F# G) over an **Am7 - D7** vamp.\n\nSet a metronome to **82 bpm**. Stay in one position at first.\n\nYour job is to sound like you meant every landing note.",
+          "pt-BR": "### Missão do dia\n\nUse **Lá dórico** (A B C D E F# G) sobre um vamp de **Am7 - D7**.\n\nAjuste o metrônomo para **82 bpm**. Fique em uma posição primeiro.\n\nSua missão é fazer cada nota de chegada soar totalmente escolhida.",
+          "es": "### Misión del día\n\nUsa **La dórico** (A B C D E F# G) sobre un vamp de **Am7 - D7**.\n\nPon el metrónomo en **82 bpm**. Quédate en una sola posición al principio.\n\nTu trabajo es hacer que cada nota de llegada suene totalmente elegida.",
+          "de": "### Tagesmission\n\nNutze **A-Dorisch** (A B C D E F# G) über einem **Am7 - D7**-Vamp.\n\nStelle das Metronom auf **82 bpm**. Bleib zuerst in einer Lage.\n\nDeine Aufgabe ist, dass jeder Zielton absichtlich gewählt klingt.",
+          "ja": "### 今日のミッション\n\n**Aドリアン**（A B C D E F# G）を **Am7 - D7** のヴァンプで使います。\n\nメトロノームは **82 bpm**。最初は1つのポジションに留まりましょう。\n\nすべての着地点が「狙って弾いた音」に聞こえるのが目標です。",
+          "zh-Hans": "### 今日任务\n\n在 **Am7 - D7** vamp 上使用 **A多利亚**（A B C D E F# G）。\n\n把节拍器设为 **82 bpm**。一开始先待在一个把位里。\n\n你的目标是让每一个落点都像是你故意选中的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: tag the safe zones\n\nPlay 2-bar phrases that must land on a chord tone on **beat 1** of each bar.\n\n- over **Am7** aim for **A, C, E, or G**\n- over **D7** aim for **D, F#, A, or C**\n- use only eighth notes for now\n\nDo 6 clean reps before changing anything.",
+          "pt-BR": "### Rodada 1: marque as zonas seguras\n\nToque frases de 2 compassos que precisam cair em um tom do acorde no **tempo 1** de cada compasso.\n\n- sobre **Am7**, mire em **A, C, E ou G**\n- sobre **D7**, mire em **D, F#, A ou C**\n- por enquanto use apenas colcheias\n\nFaça 6 repetições limpas antes de mudar qualquer coisa.",
+          "es": "### Ronda 1: marca las zonas seguras\n\nToca frases de 2 compases que deban caer en un tono del acorde en el **tiempo 1** de cada compás.\n\n- sobre **Am7**, apunta a **A, C, E o G**\n- sobre **D7**, apunta a **D, F#, A o C**\n- por ahora usa solo corcheas\n\nHaz 6 repeticiones limpias antes de cambiar nada.",
+          "de": "### Runde 1: sichere Zonen markieren\n\nSpiele 2-taktige Phrasen, die auf **Zählzeit 1** jedes Taktes auf einem Akkordton landen müssen.\n\n- über **Am7** ziele auf **A, C, E oder G**\n- über **D7** ziele auf **D, F#, A oder C**\n- benutze vorerst nur Achtelnoten\n\nSpiele 6 saubere Wiederholungen, bevor du etwas veränderst.",
+          "ja": "### ラウンド1：安全地帯をマークする\n\n各小節の **1拍目** で必ずコードトーンに着地する2小節フレーズを弾きましょう。\n\n- **Am7** では **A、C、E、G** を狙う\n- **D7** では **D、F#、A、C** を狙う\n- 今は8分音符だけを使う\n\n何かを変える前に、6回きれいに繰り返してください。",
+          "zh-Hans": "### 第1轮：标出安全区\n\n做 2 小节乐句，并且每一小节的 **第1拍** 都必须落在和弦音上。\n\n- 在 **Am7** 上瞄准 **A、C、E、G**\n- 在 **D7** 上瞄准 **D、F#、A、C**\n- 现在先只用八分音符\n\n在改变任何东西之前，先完成 6 次干净重复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: sneak in from one note away\n\nNow approach each landing note from **one scale step above or below**.\n\nExample ideas:\n- **B -> A** or **G -> A** on Am7\n- **E -> F#** or **G -> F#** on D7\n\nIf the landing feels weak, sing the target note before you play it.",
+          "pt-BR": "### Rodada 2: aproxime-se um passo antes\n\nAgora chegue em cada nota-alvo vindo de **um grau acima ou abaixo** da escala.\n\nExemplos:\n- **B -> A** ou **G -> A** em Am7\n- **E -> F#** ou **G -> F#** em D7\n\nSe a chegada soar fraca, cante a nota-alvo antes de tocar.",
+          "es": "### Ronda 2: entra desde un paso de distancia\n\nAhora llega a cada nota objetivo desde **un grado arriba o abajo** de la escala.\n\nIdeas de ejemplo:\n- **B -> A** o **G -> A** en Am7\n- **E -> F#** o **G -> F#** en D7\n\nSi la llegada suena débil, canta la nota objetivo antes de tocarla.",
+          "de": "### Runde 2: einen Schritt entfernt anschleichen\n\nErreiche nun jeden Zielton von **einem Skalen-Schritt darüber oder darunter**.\n\nBeispiele:\n- **B -> A** oder **G -> A** über Am7\n- **E -> F#** oder **G -> F#** über D7\n\nWenn die Landung schwach wirkt, singe den Zielton vor dem Spielen.",
+          "ja": "### ラウンド2：1音手前から忍び込む\n\n今度は各ターゲット音に、**スケールの1音上か1音下** から入ります。\n\n例：\n- Am7で **B -> A** または **G -> A**\n- D7で **E -> F#** または **G -> F#**\n\n着地が弱く感じたら、弾く前にターゲット音を歌ってください。",
+          "zh-Hans": "### 第2轮：从一步之外潜入\n\n现在每个目标音都要从 **音阶里高一度或低一度** 的音进入。\n\n示例：\n- 在 Am7 上用 **B -> A** 或 **G -> A**\n- 在 D7 上用 **E -> F#** 或 **G -> F#**\n\n如果落点听起来不够稳，先唱出目标音再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: change the drama\n\nMake two versions of the same idea:\n\n- version 1 lands on the **3rd** of each chord\n- version 2 lands on the **7th** of each chord\n\nSame rhythm, different target notes. Listen to how the color shifts instantly.",
+          "pt-BR": "### Rodada 3: mude o drama\n\nFaça duas versões da mesma ideia:\n\n- versão 1 cai na **terça** de cada acorde\n- versão 2 cai na **sétima** de cada acorde\n\nMesmo ritmo, notas-alvo diferentes. Escute como a cor muda na hora.",
+          "es": "### Ronda 3: cambia el drama\n\nHaz dos versiones de la misma idea:\n\n- la versión 1 cae en la **3ª** de cada acorde\n- la versión 2 cae en la **7ª** de cada acorde\n\nMismo ritmo, distintas notas objetivo. Escucha cómo cambia el color al instante.",
+          "de": "### Runde 3: das Drama wechseln\n\nSpiele zwei Versionen derselben Idee:\n\n- Version 1 landet auf der **Terz** jedes Akkords\n- Version 2 landet auf der **Septime** jedes Akkords\n\nGleicher Rhythmus, andere Zieltöne. Hör, wie sich die Farbe sofort verändert.",
+          "ja": "### ラウンド3：ドラマを変える\n\n同じアイデアで2つのバージョンを作ります。\n\n- バージョン1は各コードの **3度** に着地\n- バージョン2は各コードの **7度** に着地\n\nリズムは同じ、ターゲット音だけ変更。色合いが一気に変わるのを聴きましょう。",
+          "zh-Hans": "### 第3轮：换一种戏剧感\n\n把同一个想法做成两个版本：\n\n- 版本1落在每个和弦的 **三音**\n- 版本2落在每个和弦的 **七音**\n\n节奏不变，只换目标音。听听色彩如何立刻改变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nCreate **three 2-bar solos** using all of this:\n- clear chord-tone targets\n- one neighbor-note approach\n- one small rest somewhere in bar 2\n\nKeep the solo that sounds most confident, then move the whole game to **D Dorian** and do it again. 🎸",
+          "pt-BR": "### Desafio final\n\nCrie **três solos de 2 compassos** usando tudo isso:\n- notas-alvo claras de acorde\n- uma aproximação por nota vizinha\n- uma pequena pausa em algum ponto do compasso 2\n\nGuarde o solo que soar mais confiante e depois leve o mesmo jogo para **Ré dórico**. 🎸",
+          "es": "### Desafío final\n\nCrea **tres solos de 2 compases** usando todo esto:\n- notas objetivo claras del acorde\n- una aproximación con nota vecina\n- un pequeño silencio en algún punto del compás 2\n\nQuédate con el solo que suene más seguro y luego mueve el juego a **Re dórico**. 🎸",
+          "de": "### Abschluss-Challenge\n\nErfinde **drei 2-taktige Soli** mit all diesen Zutaten:\n- klare Akkordton-Ziele\n- ein Annähern über einen Nebenton\n- eine kleine Pause irgendwo in Takt 2\n\nBehalte das Solo, das am sichersten klingt, und verlege das ganze Spiel dann nach **D-Dorisch**. 🎸",
+          "ja": "### 最終チャレンジ\n\n次の要素を全部使って **2小節ソロを3つ** 作りましょう。\n- はっきりしたコードトーン目標\n- 1つの隣接音アプローチ\n- 2小節目のどこかに小さな休符\n\nいちばん自信を感じるソロを残し、そのまま **Dドリアン** に移してもう一度挑戦しましょう。🎸",
+          "zh-Hans": "### 最终挑战\n\n做出 **三个 2 小节独奏**，并包含这些元素：\n- 清晰的和弦音目标\n- 一次邻音接近\n- 在第2小节某处放一个小休止\n\n留下那个最有把握感的独奏，然后把整套游戏移到 **D多利亚** 再来一次。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-15T00:10:35Z",
+  "updatedAt": "2026-06-15T00:10:35Z"
+}

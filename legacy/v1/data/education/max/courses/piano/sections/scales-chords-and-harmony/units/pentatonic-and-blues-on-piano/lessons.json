@@ -110,5 +110,33 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "call-and-response-blues-pentatonic",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Call-and-Response with the Blues Pentatonic\"",
+        "pt-BR": "\"Pergunta e resposta com a pentatônica blues\"",
+        "es": "\"Pregunta y respuesta con la pentatónica blues\"",
+        "de": "\"Call-and-Response mit der Blues-Pentatonik\"",
+        "ja": "\"ブルース・ペンタでコール＆レスポンス\"",
+        "zh-Hans": "\"用布鲁斯五声做呼应\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build conversational licks using the blues pentatonic over a simple left-hand groove.\"",
+        "pt-BR": "\"Crie frases em formato de conversa usando a pentatônica blues sobre um groove simples na mão esquerda.\"",
+        "es": "\"Crea frases conversacionales usando la pentatónica blues sobre un groove sencillo en la mano izquierda.\"",
+        "de": "\"Baue Gesprächs-Phrasen mit der Blues-Pentatonik über einen einfachen linken Groove.\"",
+        "ja": "\"左手のシンプルなグルーヴに、ブルース・ペンタで会話するフレーズを作ろう。\"",
+        "zh-Hans": "\"在左手简单律动上，用布鲁斯五声音阶做对话式乐句。\""
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-17T00:08:13Z",
+    "updatedAt": "2026-03-17T00:08:13Z"
   }
 ]

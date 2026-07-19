@@ -1,0 +1,73 @@
+{
+  "id": "dorian-color-shifts",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play D Dorian (notes of C major) with RH, LH holds D–A fifth. Aim for even tone at 70 bpm.",
+          "pt-BR": "Toque Ré dórico (notas de Dó maior) com a mão direita, e a esquerda sustenta a quinta D–A. Busque timbre uniforme a 70 bpm.",
+          "es": "Toca Re dórico (notas de Do mayor) con la mano derecha; la izquierda sostiene la quinta Re–La. Busca un tono parejo a 70 bpm.",
+          "de": "Spiele D‑Dorisch (Töne von C‑Dur) mit der rechten Hand, die linke hält die Quinte D–A. Achte auf gleichmäßigen Ton bei 70 bpm.",
+          "ja": "右手でDドリアン（Cメジャーの音）を弾き、左手はD–Aの5度を保持。70 bpmで均一な音を目指す。",
+          "zh-Hans": "右手弹D多利亚（C大调的音），左手保持D–A五度。70 bpm下保持均匀音色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a 2‑bar motif that highlights B (the 6th). Repeat it four times without changing rhythm.",
+          "pt-BR": "Crie um motivo de 2 compassos destacando o Si (a 6ª). Repita quatro vezes sem mudar o ritmo.",
+          "es": "Crea un motivo de 2 compases que resalte el Si (la 6ª). Repítelo cuatro veces sin cambiar el ritmo.",
+          "de": "Erstelle ein 2‑Takt‑Motiv, das das B (die 6.) hervorhebt. Wiederhole es viermal ohne Rhythmusänderung.",
+          "ja": "B（6度）を強調する2小節のモチーフを作り、リズムを変えずに4回繰り返す。",
+          "zh-Hans": "写一个突出B（第6音）的2小节动机，不改变节奏重复四次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Vamp Dm7–G7 for 8 bars. Improvise using D Dorian, and land on chord tones on beat 1.",
+          "pt-BR": "Faça um vamp de Dm7–G7 por 8 compassos. Improvise com Ré dórico e caia em notas do acorde no tempo 1.",
+          "es": "Haz un vamp de Dm7–G7 durante 8 compases. Improvisa con Re dórico y aterriza en notas del acorde en el tiempo 1.",
+          "de": "Spiele einen Dm7–G7‑Vamp über 8 Takte. Improvisiere mit D‑Dorisch und lande auf Akkordtönen auf Zählzeit 1.",
+          "ja": "Dm7–G7のヴァンプを8小節。Dドリアンで即興し、各小節の1拍目でコードトーンに着地。",
+          "zh-Hans": "在Dm7–G7上做8小节循环，用D多利亚即兴，并在每小节第1拍落到和弦音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Displace the motif by starting it one beat later, then one beat earlier. Notice the groove shift.",
+          "pt-BR": "Desloque o motivo: comece um tempo depois, depois um tempo antes. Perceba a mudança de groove.",
+          "es": "Desplaza el motivo: empieza un tiempo después, luego un tiempo antes. Observa cómo cambia el groove.",
+          "de": "Verschiebe das Motiv: starte einen Schlag später, dann einen Schlag früher. Beobachte den Groove‑Shift.",
+          "ja": "モチーフをずらす：1拍遅く始め、その後1拍早く始める。グルーヴの変化を感じる。",
+          "zh-Hans": "把动机错位：先晚一拍开始，再早一拍开始，感受律动变化。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: transpose the whole exercise to G Dorian and A Dorian. Keep the same motif shape.",
+          "pt-BR": "Desafio: transpõe tudo para Sol dórico e Lá dórico. Mantenha o mesmo formato do motivo.",
+          "es": "Reto: transpón todo a Sol dórico y La dórico. Mantén la misma forma del motivo.",
+          "de": "Challenge: Transponiere alles nach G‑Dorisch und A‑Dorisch. Behalte die gleiche Motivform.",
+          "ja": "チャレンジ：GドリアンとAドリアンに移調。モチーフの形は同じに保つ。",
+          "zh-Hans": "挑战：整体移调到G多利亚和A多利亚，保持动机形状不变。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-27T00:09:44Z",
+  "updatedAt": "2026-03-27T00:09:44Z"
+}

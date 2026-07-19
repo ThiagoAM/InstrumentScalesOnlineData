@@ -1,0 +1,86 @@
+{
+  "id": "checkpoint-scale-race",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This routine treats one scale like a race course with checkpoints instead of a mindless loop. Choose **D major** or **B minor**, two octaves, hands together. Your goal is to finish the route with even tone and calm hands, not just a flashy tempo. Every checkpoint asks you to prove control before you are allowed to speed up.",
+          "pt-BR": "Esta rotina trata uma escala como uma pista com checkpoints, e não como um loop automático. Escolha **Ré maior** ou **Si menor**, em duas oitavas, com as duas mãos juntas. Seu objetivo é terminar o percurso com timbre uniforme e mãos calmas, não apenas com um tempo chamativo. Cada checkpoint exige controle antes de permitir que você acelere.",
+          "es": "Esta rutina trata una escala como una pista con checkpoints, no como un bucle automático. Elige **Re mayor** o **Si menor**, dos octavas, manos juntas. Tu objetivo es terminar el recorrido con sonido parejo y manos tranquilas, no solo con un tempo vistoso. Cada checkpoint te exige demostrar control antes de dejarte acelerar.",
+          "de": "Diese Routine behandelt eine Tonleiter wie einen Parcours mit Checkpoints statt wie eine automatische Schleife. Wähle **D-Dur** oder **h-Moll**, zwei Oktaven, beide Hände zusammen. Dein Ziel ist, die Strecke mit gleichmäßigem Klang und ruhigen Händen zu beenden, nicht nur mit einem beeindruckenden Tempo. Jeder Checkpoint verlangt Kontrolle, bevor du schneller werden darfst.",
+          "ja": "このルーティンでは、1本のスケールを無意識の反復ではなく、チェックポイント付きのレースコースとして扱います。**Dメジャー** または **Bマイナー** を2オクターブ、両手同時で選びましょう。目標は派手な速さではなく、均一な音色と落ち着いた手でコースを完走することです。各チェックポイントでは、スピードアップの前にコントロールを証明しなければなりません。",
+          "zh-Hans": "这套练习把一条音阶当成带检查点的赛道，而不是无脑循环。选择 **D 大调** 或 **B 小调**，双手齐奏，两八度。你的目标不是炫耀速度，而是用均匀的音色和放松的双手完成整条路线。每个检查点都会先要求你证明控制力，然后才允许提速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start at **72 BPM** in eighth notes. Checkpoint 1 is the launch: play one clean ascent and descent with relaxed shoulders and rounded fingers. If a thumb crossing feels bumpy, stop there and fix the movement before continuing. A fast race with a shaky start is still a bad race.",
+          "pt-BR": "Comece em **72 BPM** com colcheias. O checkpoint 1 é a largada: toque uma subida e descida limpas com ombros relaxados e dedos curvos. Se a passagem do polegar estiver áspera, pare ali e corrija o movimento antes de seguir. Uma corrida rápida com largada ruim continua sendo uma corrida ruim.",
+          "es": "Empieza a **72 BPM** en corcheas. El checkpoint 1 es la salida: toca una subida y bajada limpias con hombros relajados y dedos redondeados. Si el cruce del pulgar se siente torpe, detente ahí y corrige el movimiento antes de seguir. Una carrera rápida con una mala salida sigue siendo una mala carrera.",
+          "de": "Beginne bei **72 BPM** in Achteln. Checkpoint 1 ist der Start: Spiele einmal sauber auf- und abwärts mit lockeren Schultern und runden Fingern. Wenn sich ein Daumenuntersatz holprig anfühlt, stoppe dort und repariere die Bewegung, bevor du weitermachst. Ein schnelles Rennen mit schlechtem Start bleibt ein schlechtes Rennen.",
+          "ja": "**72 BPM** の8分音符から始めます。チェックポイント1はスタートです。肩をリラックスさせ、指を丸く保ったまま、きれいに上行・下行を1回ずつ弾きます。親指くぐりがぎこちなければ、その場で止まり、先に動きを整えてください。スタートが不安定な速いレースは、やはり良いレースではありません。",
+          "zh-Hans": "从 **72 BPM** 的八分音符开始。检查点1是起跑：肩膀放松、手指圆起，干净地上行一次、下行一次。如果拇指穿指感觉卡顿，就在那里停下，先把动作修好再继续。起跑发抖的快车，依然不是好比赛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 2 is the balance gate. Play the same scale again, but bring the **right hand slightly louder on the way up** and the **left hand slightly louder on the way down**. The notes should still line up perfectly. This teaches you to control attention without breaking synchronization.",
+          "pt-BR": "O checkpoint 2 é o portão do equilíbrio. Toque a mesma escala de novo, mas deixe a **mão direita um pouco mais forte na subida** e a **mão esquerda um pouco mais forte na descida**. As notas ainda precisam cair perfeitamente juntas. Isso ensina você a controlar o foco sem quebrar a sincronia.",
+          "es": "El checkpoint 2 es la puerta del equilibrio. Toca la misma escala otra vez, pero haz que la **mano derecha suene un poco más fuerte al subir** y la **mano izquierda un poco más fuerte al bajar**. Las notas deben seguir cayendo perfectamente juntas. Esto te enseña a controlar la atención sin romper la sincronía.",
+          "de": "Checkpoint 2 ist das Gleichgewichts-Tor. Spiele dieselbe Tonleiter noch einmal, aber lass die **rechte Hand beim Aufstieg etwas lauter** und die **linke Hand beim Abstieg etwas lauter** klingen. Die Noten müssen trotzdem exakt zusammen bleiben. So lernst du, Aufmerksamkeit zu steuern, ohne die Synchronität zu verlieren.",
+          "ja": "チェックポイント2はバランス・ゲートです。同じスケールをもう一度弾きますが、**上行では右手を少し強く**、**下行では左手を少し強く** します。それでも音は完全にそろっていなければいけません。これは、同期を崩さずに注意の置き場所を変える練習です。",
+          "zh-Hans": "检查点2是平衡门。再弹一遍同一条音阶，但要求 **上行时右手稍微更响**，**下行时左手稍微更响**。即便如此，两手仍然必须完全对齐。这会训练你在不破坏同步的前提下，控制注意力和层次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 3 is the rhythm gate. Keep the same tempo, but switch the pattern from eighth notes to **triplets** for one pass and **sixteenth notes** for the next. Do not increase speed yet. Your challenge is to keep the fingering relaxed while the subdivision changes under your hands.",
+          "pt-BR": "O checkpoint 3 é o portão do ritmo. Mantenha o mesmo andamento, mas troque o padrão de colcheias para **tercinas** em uma passada e **semicolcheias** na seguinte. Ainda não aumente a velocidade. O desafio é manter o dedilhado relaxado enquanto a subdivisão muda debaixo das mãos.",
+          "es": "El checkpoint 3 es la puerta del ritmo. Mantén el mismo tempo, pero cambia el patrón de corcheas a **tresillos** en una pasada y a **semicorcheas** en la siguiente. Todavía no subas la velocidad. El reto es conservar el dedo relajado mientras la subdivisión cambia bajo tus manos.",
+          "de": "Checkpoint 3 ist das Rhythmus-Tor. Behalte dasselbe Tempo, wechsle aber von Achteln zu **Triolen** in einem Durchgang und zu **Sechzehnteln** im nächsten. Erhöhe die Geschwindigkeit noch nicht. Die Herausforderung ist, dass die Finger entspannt bleiben, während sich die Unterteilung unter den Händen verändert.",
+          "ja": "チェックポイント3はリズム・ゲートです。同じテンポのまま、8分音符を **3連符** に変えて1回、次に **16分音符** に変えて1回弾きます。まだテンポは上げません。細分化が変わっても、指づかいの脱力を保つことが課題です。",
+          "zh-Hans": "检查点3是节奏门。保持同样速度，把八分音符改成 **三连音** 跑一遍，再改成 **十六分音符** 跑一遍。先不要加速。挑战在于：细分变了，手指依旧要保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 4 is the soft-landing gate. Raise the metronome by **4 BPM** and play one final pass where the highest note and the final tonic are both clearly shaped, not accidental. Imagine you are landing an airplane: smooth, aligned, and never slammed.",
+          "pt-BR": "O checkpoint 4 é o portão da aterrissagem suave. Aumente o metrônomo em **4 BPM** e faça uma última passada em que a nota mais aguda e a tônica final sejam claramente moldadas, não acidentais. Imagine que você está pousando um avião: suave, alinhado e sem bater no chão.",
+          "es": "El checkpoint 4 es la puerta del aterrizaje suave. Sube el metrónomo **4 BPM** y haz una última pasada en la que la nota más aguda y la tónica final estén claramente moldeadas, no accidentales. Imagina que aterrizas un avión: suave, alineado y sin golpear la pista.",
+          "de": "Checkpoint 4 ist das sanfte-Landung-Tor. Erhöhe das Metronom um **4 BPM** und spiele einen letzten Durchgang, in dem sowohl der höchste Ton als auch die Schluss-Tonika bewusst geformt sind und nicht zufällig passieren. Stell dir vor, du landest ein Flugzeug: weich, ausgerichtet und ohne Aufprall.",
+          "ja": "チェックポイント4はソフトランディング・ゲートです。メトロノームを **4 BPM** 上げ、最高音と最後の主音の両方をはっきり形作った最後の1回を弾きます。偶然当たるのではなく、意図して着地するのです。飛行機を着陸させるように、なめらかに、一直線に、乱暴にならずに。",
+          "zh-Hans": "检查点4是柔和着陆门。把节拍器提高 **4 BPM**，最后再来一遍，并且让最高音和最后的主音都显得是“有意塑形”的，而不是碰巧按到。想象你在驾驶飞机降落：平顺、对齐、绝不砸地。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "After four successful checkpoints, write down your top clean tempo and one thing that almost broke. Maybe it was a tense wrist, uneven left hand, or a rushed thumb crossing. Tomorrow, begin just below today’s top tempo and try to beat the weakness before you beat the clock. Smart scale practice is a race against sloppiness, not against your own ego.",
+          "pt-BR": "Depois de completar quatro checkpoints com sucesso, anote seu andamento limpo máximo e uma coisa que quase estragou tudo. Talvez tenha sido punho tenso, mão esquerda desigual ou passagem de polegar apressada. Amanhã, comece um pouco abaixo do seu melhor BPM de hoje e tente vencer a fraqueza antes de vencer o relógio. Praticar escala com inteligência é correr contra a sujeira, não contra o próprio ego.",
+          "es": "Después de superar cuatro checkpoints, apunta tu tempo limpio máximo y una cosa que casi se rompe. Tal vez fue una muñeca tensa, una mano izquierda desigual o un cruce del pulgar apurado. Mañana empieza un poco por debajo de tu mejor tempo de hoy e intenta vencer esa debilidad antes de vencer al reloj. Practicar escalas con inteligencia es una carrera contra la suciedad, no contra tu ego.",
+          "de": "Nach vier erfolgreichen Checkpoints notierst du dein höchstes sauberes Tempo und eine Sache, die fast zerbrochen wäre. Vielleicht war es ein verspannter Handgelenkwinkel, eine ungleichmäßige linke Hand oder ein gehetzter Daumenuntersatz. Morgen beginnst du knapp unter dem heutigen Bestwert und versuchst, zuerst die Schwäche zu schlagen und erst dann die Uhr. Kluge Tonleiterarbeit ist ein Rennen gegen Schlampigkeit, nicht gegen das eigene Ego.",
+          "ja": "4つのチェックポイントを通過できたら、最もきれいに弾けたテンポと、崩れそうになった要素を1つ書き留めます。手首の緊張、左手の不均一さ、急いだ親指くぐりかもしれません。明日は今日の最高テンポより少し低いところから始め、時計に勝つ前に弱点を攻略しましょう。賢いスケール練習は、自分のエゴではなく雑さとのレースです。",
+          "zh-Hans": "四个检查点都成功后，记下你今天最干净的速度，以及一个差点出问题的点。可能是手腕紧张、左手不均匀，或是拇指穿指太着急。明天从略低于今天最佳速度的位置开始，先打败弱点，再打败秒表。聪明的音阶练习，是和粗糙比赛，不是和自尊比赛。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-13T00:07:51Z",
+  "updatedAt": "2026-04-13T00:07:51Z"
+}

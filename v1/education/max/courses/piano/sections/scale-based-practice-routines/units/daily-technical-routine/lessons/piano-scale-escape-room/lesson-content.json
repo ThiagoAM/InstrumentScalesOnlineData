@@ -1,0 +1,99 @@
+{
+  "id": "piano-scale-escape-room",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the practice room, which is now an **escape room**. The only way out is to solve a chain of small scale puzzles without panicking. Choose **D major**, play hands together when possible, and keep a notebook nearby. Each puzzle unlocks the next one.",
+          "pt-BR": "Bem-vindo à sala de estudo, que agora virou um **escape room**. A única saída é resolver uma cadeia de pequenos quebra-cabeças de escala sem entrar em pânico. Escolha **Ré maior**, toque com as duas mãos sempre que possível e deixe um caderno por perto. Cada enigma destrava o próximo.",
+          "es": "Bienvenido a la sala de estudio, que ahora es un **escape room**. La única salida es resolver una cadena de pequeños rompecabezas de escala sin entrar en pánico. Elige **Re mayor**, toca a dos manos siempre que puedas y ten un cuaderno cerca. Cada acertijo desbloquea el siguiente.",
+          "de": "Willkommen im Übezimmer, das heute ein **Escape Room** ist. Der einzige Ausgang besteht darin, eine Kette kleiner Tonleiter-Rätsel zu lösen, ohne in Panik zu geraten. Wähle **D-Dur**, spiele wenn möglich beidhändig und halte ein Notizbuch bereit. Jedes Rätsel öffnet das nächste.",
+          "ja": "ようこそ練習室へ。今日はここが **脱出ルーム** です。出口にたどり着く方法は、小さなスケールの謎を1つずつ解き、あわてずに進むことだけ。**Dメジャー** を選び、できるだけ両手で弾き、ノートも手元に置いておきましょう。1つ解くごとに次の扉が開きます。",
+          "zh-Hans": "欢迎来到练习室——今天它是一间 **密室逃脱**。唯一的出口，就是冷静地解决一连串小音阶谜题。选择 **D大调**，尽量双手一起弹，旁边放一本笔记本。每解开一题，下一道门才会打开。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 1 is the map. Play D major slowly for two octaves and identify the danger spots before they bite you: thumb crossings, uneven tone, or a hand that rushes. Say the weak spot out loud after every run. Naming the problem makes it easier to fix.",
+          "pt-BR": "O Enigma 1 é o mapa. Toque Ré maior devagar por duas oitavas e identifique os pontos perigosos antes que eles te mordam: passagens de polegar, timbre desigual ou uma mão que corre. Diga em voz alta qual foi o ponto fraco após cada execução. Dar nome ao problema facilita corrigi-lo.",
+          "es": "El Acertijo 1 es el mapa. Toca Re mayor lentamente durante dos octavas e identifica los puntos peligrosos antes de que te atrapen: cruces del pulgar, sonido desigual o una mano que se acelera. Di en voz alta cuál fue el punto débil después de cada pasada. Nombrar el problema facilita arreglarlo.",
+          "de": "Rätsel 1 ist die Karte. Spiele D-Dur langsam über zwei Oktaven und finde die Gefahrenstellen, bevor sie dich erwischen: Daumenuntersätze, ungleichmäßiger Ton oder eine Hand, die eilt. Sprich die Schwachstelle nach jedem Durchgang laut aus. Ein benanntes Problem lässt sich leichter beheben.",
+          "ja": "謎1は地図です。Dメジャーを2オクターブ、ゆっくり弾きながら、危険地帯を先に見つけます。親指くぐり、音のむら、片手だけ走る感じなどです。毎回の後に、弱かった場所を声に出して言ってください。問題に名前がつくと、修正しやすくなります。",
+          "zh-Hans": "谜题1是地图。慢速弹 D 大调两八度，在问题先咬到你之前把它们找出来：拇指穿越、音色不均，或者某一只手总在抢拍。每弹完一遍，都把最弱的点说出来。问题一旦被点名，就更容易修。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 2 is the keycode. Take the same scale and play it with one rhythm only: **long-short, long-short** on the way up, then **short-long, short-long** on the way down. This exposes hidden tension and helps both hands feel where control disappears.",
+          "pt-BR": "O Enigma 2 é o código. Pegue a mesma escala e toque com um só ritmo: **longo-curto, longo-curto** na subida, depois **curto-longo, curto-longo** na descida. Isso expõe tensões escondidas e ajuda as duas mãos a sentirem onde o controle desaparece.",
+          "es": "El Acertijo 2 es la clave. Toma la misma escala y tócala con un solo ritmo: **largo-corto, largo-corto** al subir, y luego **corto-largo, corto-largo** al bajar. Esto revela tensiones ocultas y ayuda a que ambas manos sientan dónde desaparece el control.",
+          "de": "Rätsel 2 ist der Zahlencode. Nimm dieselbe Tonleiter und spiele nur einen Rhythmus: **lang-kurz, lang-kurz** aufwärts, dann **kurz-lang, kurz-lang** abwärts. Dadurch werden versteckte Spannungen sichtbar, und beide Hände spüren besser, wo die Kontrolle verschwindet.",
+          "ja": "謎2は暗証番号です。同じスケールを、上りでは **長・短、長・短**、下りでは **短・長、短・長** のリズムだけで弾きます。これで隠れた力みが表に出て、どこでコントロールが消えるのかを両手が感じやすくなります。",
+          "zh-Hans": "谜题2是密码。还是同一条音阶，上行只用 **长-短、长-短**，下行只用 **短-长、短-长** 的节奏。这个做法会把隐藏的紧张感逼出来，也会让双手更清楚地感觉到控制是从哪里开始消失的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 3 is the laser hallway. Keep the notes the same, but change the touch every pass: **legato**, **staccato**, then **accent every third note**. If one version collapses, do not speed up. Slow down just enough to stay calm and accurate.",
+          "pt-BR": "O Enigma 3 é o corredor de lasers. Mantenha as mesmas notas, mas troque o toque a cada passagem: **legato**, **staccato** e depois **acento a cada terceira nota**. Se uma versão desmoronar, não acelere. Diminua só o suficiente para continuar calmo e preciso.",
+          "es": "El Acertijo 3 es el pasillo láser. Mantén las mismas notas, pero cambia el toque en cada pasada: **legato**, **staccato** y luego **acento cada tercera nota**. Si una versión se derrumba, no aceleres. Baja la velocidad solo lo suficiente para seguir tranquilo y preciso.",
+          "de": "Rätsel 3 ist der Laserkorridor. Die Töne bleiben gleich, aber der Anschlag wechselt pro Durchgang: **legato**, **staccato**, dann **Akzent auf jede dritte Note**. Wenn eine Version zusammenfällt, werde nicht schneller. Reduziere das Tempo nur so weit, dass du ruhig und präzise bleiben kannst.",
+          "ja": "謎3はレーザー通路です。音はそのままで、通るたびにタッチだけを変えます。**レガート**、**スタッカート**、そして **3音ごとにアクセント**。どれかが崩れたら、速くしないでください。落ち着きと正確さを保てるぶんだけ、少しだけテンポを下げます。",
+          "zh-Hans": "谜题3是激光走廊。音不变，但每一遍都换触键：**连奏**、**断奏**，然后 **每第三个音一个重音**。如果哪一种一碰就散，不要加速。只把速度降到足以保持冷静和准确就行。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 4 is the mirror door. Let the **right hand lead once**, then the **left hand lead once**, even if the volume difference is tiny. Your goal is to keep the follower hand relaxed instead of letting it chase in panic. Good scales sound cooperative, not competitive.",
+          "pt-BR": "O Enigma 4 é a porta do espelho. Deixe a **mão direita liderar uma vez**, depois a **mão esquerda liderar uma vez**, mesmo que a diferença de volume seja mínima. O objetivo é manter a mão que acompanha relaxada, em vez de fazê-la correr desesperada atrás. Escalas boas soam cooperativas, não competitivas.",
+          "es": "El Acertijo 4 es la puerta espejo. Deja que la **mano derecha lidere una vez**, y luego que la **mano izquierda lidere una vez**, aunque la diferencia de volumen sea pequeña. Tu meta es mantener relajada a la mano que sigue, en vez de hacerla perseguir con tensión. Las buenas escalas suenan cooperativas, no competitivas.",
+          "de": "Rätsel 4 ist die Spiegeltür. Lass einmal die **rechte Hand führen**, dann einmal die **linke Hand**, auch wenn der Lautstärkeunterschied klein ist. Dein Ziel ist, die folgende Hand entspannt zu halten, statt sie hektisch hinterherjagen zu lassen. Gute Tonleitern klingen kooperativ, nicht konkurrierend.",
+          "ja": "謎4は鏡の扉です。まず **右手を主役** に1回、次に **左手を主役** に1回。音量差が小さくても大丈夫です。目的は、ついていく手を慌てさせず、リラックスさせたまま保つこと。良いスケールは競争ではなく協力に聞こえます。",
+          "zh-Hans": "谜题4是镜门。先让 **右手领一次**，再让 **左手领一次**，哪怕音量差别很小也没关系。你的目标，是让跟随的那只手保持放松，而不是慌张追赶。好的音阶听起来像合作，不像比赛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final lock: invent a **two-bar ending** using only D major notes after each scale run. It can be simple, but it must sound intentional. The escape room ends when your technical drill turns into a small piece of music instead of stopping like a machine with the power cut.",
+          "pt-BR": "A fechadura final: invente um **final de dois compassos** usando apenas notas de Ré maior depois de cada execução da escala. Pode ser simples, mas precisa soar intencional. O escape room termina quando o treino técnico vira um pequeno pedaço de música, em vez de parar como uma máquina desligada.",
+          "es": "La cerradura final: inventa un **final de dos compases** usando solo notas de Re mayor después de cada pasada de la escala. Puede ser simple, pero debe sonar intencional. El escape room termina cuando tu ejercicio técnico se convierte en un pequeño fragmento musical en lugar de parar como una máquina sin corriente.",
+          "de": "Das letzte Schloss: Erfinde nach jedem Durchgang einen **zweitaktigen Schluss** nur mit Tönen aus D-Dur. Er darf einfach sein, muss aber absichtlich klingen. Der Escape Room endet, wenn deine Technikübung zu einem kleinen Stück Musik wird, statt wie eine Maschine mit gezogenem Stecker abrupt zu stoppen.",
+          "ja": "最後の鍵は、毎回のスケールのあとに **2小節の終わり方** を、Dメジャーの音だけで作ることです。シンプルでもかまいませんが、意図が聞こえなければいけません。技術練習が、電源を切られた機械のように止まるのではなく、小さな音楽として終わったら脱出成功です。",
+          "zh-Hans": "最后一把锁：每次音阶结束后，只用 D 大调的音，写一个 **两小节收尾**。它可以简单，但必须听起来像有意为之。只有当你的技术练习不再像突然断电的机器，而是像一小段音乐那样结束时，密室才算真正打开。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Before you leave, write three clues for tomorrow: **What improved fastest? What still felt risky? What one adjustment unlocked the cleanest run?** If you carry those clues into the next session, you do not start from zero—you start with the code already half cracked.",
+          "pt-BR": "Antes de sair, escreva três pistas para amanhã: **O que melhorou mais rápido? O que ainda parece arriscado? Qual ajuste destravou a execução mais limpa?** Se você levar essas pistas para a próxima sessão, não começa do zero — começa com metade do código já resolvida.",
+          "es": "Antes de salir, escribe tres pistas para mañana: **¿Qué mejoró más rápido? ¿Qué sigue sintiéndose arriesgado? ¿Qué ajuste desbloqueó la pasada más limpia?** Si llevas esas pistas a la próxima sesión, no empiezas desde cero: empiezas con medio código ya resuelto.",
+          "de": "Bevor du gehst, notiere drei Hinweise für morgen: **Was wurde am schnellsten besser? Was fühlt sich noch riskant an? Welche eine Anpassung hat den saubersten Durchgang ermöglicht?** Wenn du diese Hinweise in die nächste Session mitnimmst, startest du nicht bei null — du hast den Code schon halb geknackt.",
+          "ja": "出る前に、明日のための手がかりを3つ書いてください。**何がいちばん速く改善したか。何がまだ危なっかしいか。どの1つの調整がいちばんきれいな通しを開いたか。** その手がかりを持って次回に入れば、ゼロからではなく、すでに半分コードを解いた状態で始められます。",
+          "zh-Hans": "离开前，给明天写下三条线索：**什么进步得最快？什么地方还最危险？哪一个调整解锁了最干净的一遍？** 带着这些线索进入下一次练习，你就不是从零开始，而是已经把密码破了一半。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-06T00:11:00Z",
+  "updatedAt": "2026-07-06T00:11:00Z"
+}

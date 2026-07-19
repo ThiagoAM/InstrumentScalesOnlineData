@@ -1,0 +1,73 @@
+{
+  "id": "piano-boss-path",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Choose today's world\n\nUse **E-flat major** (Eb F G Ab Bb C D) with both hands.\n\nSet a timer for **12 minutes** and a metronome at **76 bpm**.\n\nToday your practice is a staged quest, not a vague warm-up.",
+          "pt-BR": "### Escolha o mundo de hoje\n\nUse **Mi bemol maior** (Eb F G Ab Bb C D) com as duas mãos.\n\nDefina um timer de **12 minutos** e um metrônomo em **76 bpm**.\n\nHoje seu estudo é uma missão por fases, não um aquecimento sem rumo.",
+          "es": "### Elige el mundo de hoy\n\nUsa **Mi bemol mayor** (Eb F G Ab Bb C D) con ambas manos.\n\nPon un temporizador de **12 minutos** y el metrónomo en **76 bpm**.\n\nHoy tu práctica es una misión por fases, no un calentamiento sin rumbo.",
+          "de": "### Wähle die Welt von heute\n\nNutze **Es-Dur** (Eb F G Ab Bb C D) mit beiden Händen.\n\nStelle einen Timer auf **12 Minuten** und das Metronom auf **76 bpm**.\n\nHeute ist dein Üben eine Quest mit Etappen, kein vages Warm-up.",
+          "ja": "### 今日のステージを選ぶ\n\n両手で **E♭メジャー**（Eb F G Ab Bb C D）を使います。\n\nタイマーは **12分**、メトロノームは **76 bpm** に設定します。\n\n今日はぼんやりしたウォームアップではなく、段階のあるクエストです。",
+          "zh-Hans": "### 选择今天的关卡\n\n双手使用 **降E大调**（Eb F G Ab Bb C D）。\n\n把计时器设为 **12分钟**，节拍器设为 **76 bpm**。\n\n今天的练习是一场分阶段任务，不是随便热身。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Stage 1: unlock clean motion\n\nFor 4 minutes, play the scale in parallel motion for two octaves.\n\nFocus on:\n- relaxed thumb crossings\n- even tone in both hands\n- no rushing at the top turn\n\nIf tension shows up, slow down immediately instead of fighting it.",
+          "pt-BR": "### Fase 1: destrave o movimento limpo\n\nDurante 4 minutos, toque a escala em movimento paralelo por duas oitavas.\n\nFoque em:\n- passagens de polegar relaxadas\n- som equilibrado nas duas mãos\n- nada de acelerar no retorno do topo\n\nSe aparecer tensão, diminua o andamento na hora em vez de brigar com ela.",
+          "es": "### Fase 1: desbloquea el movimiento limpio\n\nDurante 4 minutos, toca la escala en movimiento paralelo por dos octavas.\n\nConcéntrate en:\n- cruces de pulgar relajados\n- sonido parejo en ambas manos\n- no acelerar en el giro superior\n\nSi aparece tensión, baja el tempo enseguida en vez de pelear con ella.",
+          "de": "### Phase 1: saubere Bewegung freischalten\n\nSpiele 4 Minuten lang die Skala in paralleler Bewegung über zwei Oktaven.\n\nAchte auf:\n- entspannte Daumenuntersätze\n- gleichmäßigen Ton in beiden Händen\n- kein Beschleunigen an der oberen Wendestelle\n\nWenn Spannung auftaucht, nimm sofort Tempo raus, statt dagegen anzukämpfen.",
+          "ja": "### ステージ1：きれいな動きを解放する\n\n4分間、2オクターブの平行進行でスケールを弾きます。\n\n集中ポイント：\n- 親指くぐりを力まず行う\n- 両手の音量をそろえる\n- いちばん上で急がない\n\n力みが出たら、戦うのではなくすぐテンポを下げましょう。",
+          "zh-Hans": "### 第1阶段：解锁干净动作\n\n用 4 分钟时间，以双手平行运动弹两组八度音阶。\n\n专注这些点：\n- 放松的拇指穿越\n- 双手音色均匀\n- 到最高点转向时不要抢拍\n\n如果出现紧张，立刻降速，不要硬扛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Stage 2: collect harmony points\n\nFor the next 4 minutes, stop after each scale run and build a chord from the final note.\n\nTry this cycle:\n- land on **Eb** and play **Ebmaj7**\n- land on **C** and play **Cm7**\n- land on **Ab** and play **Abmaj7**\n\nThis keeps theory attached to your fingers instead of trapped in your head.",
+          "pt-BR": "### Fase 2: colete pontos de harmonia\n\nNos 4 minutos seguintes, pare ao fim de cada subida e monte um acorde a partir da nota final.\n\nExperimente este ciclo:\n- chegue em **Eb** e toque **Ebmaj7**\n- chegue em **C** e toque **Cm7**\n- chegue em **Ab** e toque **Abmaj7**\n\nAssim a teoria fica grudada nos dedos em vez de presa só na cabeça.",
+          "es": "### Fase 2: recoge puntos de armonía\n\nEn los siguientes 4 minutos, detente al final de cada recorrido y construye un acorde desde la nota final.\n\nPrueba este ciclo:\n- llega a **Eb** y toca **Ebmaj7**\n- llega a **C** y toca **Cm7**\n- llega a **Ab** y toca **Abmaj7**\n\nAsí la teoría se queda pegada a los dedos y no encerrada en la cabeza.",
+          "de": "### Phase 2: Harmonie-Punkte sammeln\n\nHalte in den nächsten 4 Minuten nach jedem Skalenlauf an und baue aus dem Zielton einen Akkord.\n\nProbiere diesen Zyklus:\n- lande auf **Eb** und spiele **Ebmaj7**\n- lande auf **C** und spiele **Cm7**\n- lande auf **Ab** und spiele **Abmaj7**\n\nSo bleibt die Theorie an deinen Fingern hängen statt nur im Kopf.",
+          "ja": "### ステージ2：ハーモニーポイントを集める\n\n次の4分は、各スケールの終点で止まり、その音からコードを作ります。\n\nこのサイクルを試してください：\n- **Eb** に着地して **Ebmaj7**\n- **C** に着地して **Cm7**\n- **Ab** に着地して **Abmaj7**\n\nこうすると理論が頭の中だけでなく、指にも結びつきます。",
+          "zh-Hans": "### 第2阶段：收集和声点数\n\n接下来的 4 分钟里，每次音阶跑完都停下来，用最后一个音搭一个和弦。\n\n试试这个循环：\n- 落在 **Eb**，弹 **Ebmaj7**\n- 落在 **C**，弹 **Cm7**\n- 落在 **Ab**，弹 **Abmaj7**\n\n这样理论就会黏在手指上，而不只是停在脑子里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Stage 3: beat the rhythm trap\n\nFor 3 minutes, keep the same notes but rotate the rhythm:\n- one run in straight eighth notes\n- one run with a long-short swing feel\n- one run with accents on beat 2 and 4\n\nSame scale, new energy. Do not let the pulse wobble.",
+          "pt-BR": "### Fase 3: vença a armadilha rítmica\n\nPor 3 minutos, mantenha as mesmas notas, mas gire o ritmo:\n- uma passada em colcheias retas\n- uma passada com sensação swing de longo-curto\n- uma passada com acentos nos tempos 2 e 4\n\nMesma escala, energia nova. Não deixe o pulso balançar.",
+          "es": "### Fase 3: vence la trampa rítmica\n\nDurante 3 minutos, mantén las mismas notas pero rota el ritmo:\n- una pasada en corcheas rectas\n- una pasada con sensación swing larga-corta\n- una pasada con acentos en 2 y 4\n\nMisma escala, energía nueva. No dejes que el pulso se tambalee.",
+          "de": "### Phase 3: die Rhythmusfalle besiegen\n\nBehalte 3 Minuten lang dieselben Töne, aber wechsle den Rhythmus:\n- ein Durchgang in geraden Achteln\n- ein Durchgang mit lang-kurzem Swing-Gefühl\n- ein Durchgang mit Akzenten auf 2 und 4\n\nGleiche Skala, neue Energie. Lass den Puls nicht wackeln.",
+          "ja": "### ステージ3：リズムの罠を倒す\n\n3分間、音は同じままでリズムだけを回します。\n- 1回はストレートの8分音符\n- 1回はロング・ショートのスウィング感\n- 1回は2拍目と4拍目にアクセント\n\n同じスケールでも、エネルギーは変わります。拍が揺れないようにしましょう。",
+          "zh-Hans": "### 第3阶段：打败节奏陷阱\n\n用 3 分钟保持同样的音，但轮换节奏：\n- 一次用直八分音符\n- 一次用长短 swing 感\n- 一次在第2拍和第4拍加重音\n\n同一条音阶，新的能量。不要让拍子晃掉。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final boss\n\nUse your last minute to design **one complete 4-part mini routine** you could repeat tomorrow:\n- clean run\n- chord checkpoint\n- rhythm variation\n- one musical ending of your choice\n\nWrite down the version that feels strongest, then rebuild the same boss path in **A-flat major**. 🎹",
+          "pt-BR": "### Chefão final\n\nUse o último minuto para montar **uma mini rotina completa em 4 partes** que você poderia repetir amanhã:\n- passada limpa\n- checkpoint de acorde\n- variação rítmica\n- um final musical à sua escolha\n\nAnote a versão que parecer mais forte e depois reconstrua o mesmo caminho em **Lá bemol maior**. 🎹",
+          "es": "### Jefe final\n\nUsa el último minuto para diseñar **una mini rutina completa de 4 partes** que puedas repetir mañana:\n- pasada limpia\n- punto de control armónico\n- variación rítmica\n- un final musical a tu elección\n\nAnota la versión que se sienta más fuerte y luego reconstruye la misma ruta en **La bemol mayor**. 🎹",
+          "de": "### Endboss\n\nNutze die letzte Minute, um **eine vollständige 4-teilige Mini-Routine** zu entwerfen, die du morgen wiederholen könntest:\n- sauberer Lauf\n- Akkord-Checkpoint\n- Rhythmusvariation\n- ein musikalisches Ende deiner Wahl\n\nSchreibe die stärkste Version auf und baue denselben Boss-Pfad danach in **As-Dur** neu auf. 🎹",
+          "ja": "### ラストボス\n\n最後の1分で、明日も繰り返せる **4パートのミニルーティン** を1つ設計しましょう。\n- きれいなスケール走行\n- コードのチェックポイント\n- リズム変化\n- 自分で選ぶ音楽的な終わり方\n\nいちばん強く感じる形を書き残し、そのまま同じボスパスを **A♭メジャー** で組み直してみましょう。🎹",
+          "zh-Hans": "### 最终Boss\n\n用最后 1 分钟设计 **一套完整的4部分迷你 routine**，明天也能直接重复：\n- 干净跑一遍\n- 和弦检查点\n- 节奏变化\n- 一个你自己选的音乐性结尾\n\n把最强的一版记下来，然后把同样的 Boss 路径搬到 **降A大调**。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-15T00:14:08Z",
+  "updatedAt": "2026-06-15T00:14:08Z"
+}

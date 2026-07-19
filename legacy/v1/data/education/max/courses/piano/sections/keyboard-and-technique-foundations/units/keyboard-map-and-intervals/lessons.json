@@ -82,5 +82,61 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "black-key-interval-treasure-hunt",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Black-Key Interval Treasure Hunt",
+        "pt-BR": "Caça ao tesouro dos intervalos nas teclas pretas",
+        "es": "Búsqueda del tesoro de intervalos en teclas negras",
+        "de": "Intervall-Schatzsuche auf den schwarzen Tasten",
+        "ja": "黒鍵インターバル宝探し",
+        "zh-Hans": "黑键音程寻宝游戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your piano note map and interval awareness by turning black keys into a fast treasure hunt.",
+        "pt-BR": "Treine o mapa do teclado e a percepção intervalar transformando as teclas pretas em uma caça ao tesouro rápida.",
+        "es": "Entrena tu mapa del piano y tu percepción intervalar convirtiendo las teclas negras en una búsqueda del tesoro rápida.",
+        "de": "Trainiere deine Klaviertastatur-Karte und dein Intervallgefühl, indem du schwarze Tasten in eine schnelle Schatzsuche verwandelst.",
+        "ja": "黒鍵を使った宝探しで、ピアノの鍵盤地図とインターバル感覚をまとめて鍛えます。",
+        "zh-Hans": "把黑键变成快速寻宝任务，同时训练你的钢琴键盘地图和音程感。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-05-07T00:11:00Z",
+    "updatedAt": "2026-05-07T00:11:00Z"
+  },
+  {
+    "id": "octave-compass-challenge",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Octave Compass Challenge",
+        "pt-BR": "Desafio da Bússola de Oitavas",
+        "es": "Desafío de la brújula de octavas",
+        "de": "Oktav-Kompass-Challenge",
+        "ja": "オクターブ・コンパス・チャレンジ",
+        "zh-Hans": "八度罗盘挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Map the keyboard faster by using octaves as checkpoints and intervals as directions.",
+        "pt-BR": "Mapeie o teclado mais rápido usando oitavas como pontos de controle e intervalos como direções.",
+        "es": "Mapa el teclado más rápido usando las octavas como puntos de control y los intervalos como direcciones.",
+        "de": "Finde dich auf der Tastatur schneller zurecht, indem du Oktaven als Kontrollpunkte und Intervalle als Richtungen nutzt.",
+        "ja": "オクターブをチェックポイント、音程を進行方向として使い、鍵盤の地図をもっと速く身につけましょう。",
+        "zh-Hans": "把八度当作检查点、把音程当作方向，更快建立你的钢琴键盘地图。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-05-11T00:05:46Z",
+    "updatedAt": "2026-05-11T00:05:46Z"
   }
 ]

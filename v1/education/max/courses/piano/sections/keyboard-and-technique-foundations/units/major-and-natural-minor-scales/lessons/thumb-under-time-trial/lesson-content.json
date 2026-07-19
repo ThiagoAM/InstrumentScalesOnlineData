@@ -1,0 +1,86 @@
+{
+  "id": "thumb-under-time-trial",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you are running a tiny pit-stop challenge: the thumb must sneak under without bumping the rhythm. Use C major first, then move the same idea to G major if your hand stays calm.",
+          "pt-BR": "Hoje você vai correr um pequeno desafio de pit stop: o polegar precisa passar por baixo sem esbarrar no ritmo. Use Dó maior primeiro e depois leve a mesma ideia para Sol maior se a mão continuar calma.",
+          "es": "Hoy harás un pequeño reto de boxes: el pulgar debe pasar por debajo sin golpear el ritmo. Usa Do mayor primero y luego mueve la misma idea a Sol mayor si la mano sigue tranquila.",
+          "de": "Heute läufst du eine kleine Boxenstopp-Challenge: Der Daumen muss unten durchschlüpfen, ohne den Rhythmus anzustoßen. Nimm zuerst C-Dur und übertrage die Idee dann nach G-Dur, wenn die Hand ruhig bleibt.",
+          "ja": "今日は小さなピットストップ・チャレンジだ。親指はリズムを乱さず、そっと下をくぐらなければならない。まずはCメジャーで始め、手が落ち着いていれば同じ考え方をGメジャーにも移そう。",
+          "zh-Hans": "今天你要进行一个小型“进站挑战”：拇指必须悄悄穿过去，不能撞乱节奏。先用C大调开始，如果手部还能保持放松，再把同样的思路移到G大调。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: right hand only. Play C-D-E, pause, tuck the thumb to F, then continue G-A-B-C. Keep the wrist level and imagine the thumb passing under a low bridge, not jumping over a wall.",
+          "pt-BR": "Aquecimento: só mão direita. Toque Dó-Ré-Mi, pause, passe o polegar para Fá e então continue Sol-Lá-Si-Dó. Mantenha o pulso nivelado e imagine o polegar passando sob uma ponte baixa, não pulando um muro.",
+          "es": "Calentamiento: solo mano derecha. Toca Do-Re-Mi, pausa, mete el pulgar hacia Fa y luego sigue Sol-La-Si-Do. Mantén la muñeca nivelada e imagina que el pulgar pasa bajo un puente bajo, no que salta una pared.",
+          "de": "Aufwärmen: nur rechte Hand. Spiele C-D-E, pausiere, führe den Daumen zu F darunter hindurch und spiele dann G-A-H-C weiter. Halte das Handgelenk ruhig und stell dir vor, der Daumen fährt unter einer niedrigen Brücke durch statt über eine Mauer zu springen.",
+          "ja": "ウォームアップ：右手だけ。C-D-Eを弾いて止まり、親指をFの下へくぐらせてから G-A-B-C と続ける。手首は水平に保ち、親指が壁を飛び越えるのではなく低い橋の下を通るイメージを持とう。",
+          "zh-Hans": "热身：只用右手。弹C-D-E，停一下，把拇指穿到F，再继续G-A-B-C。手腕保持平稳，想象拇指是在穿过一座低桥，而不是翻过一堵墙。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Left-hand mirror: play C-B-A, pause, cross the middle finger over to G, then continue F-E-D-C. Listen for one connected line instead of two separate chunks.",
+          "pt-BR": "Espelho da mão esquerda: toque Dó-Si-Lá, pause, passe o dedo médio por cima até Sol e então continue Fá-Mi-Ré-Dó. Ouça uma única linha conectada, não dois pedaços separados.",
+          "es": "Espejo de la mano izquierda: toca Do-Si-La, pausa, cruza el dedo medio por encima hacia Sol y luego sigue Fa-Mi-Re-Do. Escucha una sola línea conectada en vez de dos trozos separados.",
+          "de": "Spiegelübung links: spiele C-H-A, pausiere, setze den Mittelfinger über nach G und spiele dann F-E-D-C weiter. Höre auf eine einzige verbundene Linie statt auf zwei getrennte Stücke.",
+          "ja": "左手ミラー：C-B-A を弾いて止まり、中指をGへまたがせてから F-E-D-C と続ける。別々の2つのかたまりではなく、1本のつながった線として聴こう。",
+          "zh-Hans": "左手镜像：弹C-B-A，停一下，让中指跨到G，再继续F-E-D-C。要听成一条连贯的线，而不是两段分开的材料。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time-trial drill: set the metronome to 72 bpm and play one octave up and down in eighth notes. The rule is simple: every note must match in volume, especially the note right after the thumb move.",
+          "pt-BR": "Exercício contra o tempo: ajuste o metrônomo em 72 bpm e toque uma oitava subindo e descendo em colcheias. A regra é simples: todas as notas precisam ter o mesmo volume, especialmente a nota logo depois da passagem do polegar.",
+          "es": "Ejercicio contrarreloj: pon el metrónomo en 72 bpm y toca una octava arriba y abajo en corcheas. La regla es simple: cada nota debe igualar en volumen, especialmente la nota justo después del movimiento del pulgar.",
+          "de": "Zeitrennen-Übung: stelle das Metronom auf 72 bpm und spiele eine Oktave auf und ab in Achteln. Die Regel ist simpel: Jede Note soll gleich laut sein, besonders die Note direkt nach der Daumenbewegung.",
+          "ja": "タイムトライアル練習：メトロノームを72 bpmにして、1オクターブを八分音符で往復する。ルールは簡単で、すべての音量をそろえること。特に親指の動きの直後の音を大事にしよう。",
+          "zh-Hans": "计时练习：把节拍器设为72 bpm，用八分音符弹一组八度上下行。规则很简单：每个音的音量都要一致，尤其是拇指动作之后的那个音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Musical round: turn the scale into a short ending phrase. Go up the scale, hold the top note for two beats, then come down and resolve softly. Repeat once legato and once staccato.",
+          "pt-BR": "Rodada musical: transforme a escala em uma pequena frase de encerramento. Suba a escala, segure a nota do topo por dois tempos, depois desça e resolva suavemente. Repita uma vez legato e uma vez staccato.",
+          "es": "Ronda musical: convierte la escala en una frase corta de cierre. Sube la escala, sostén la nota más alta durante dos pulsos y luego baja resolviendo con suavidad. Repite una vez legato y otra staccato.",
+          "de": "Musikalische Runde: mache aus der Skala eine kurze Schlussphrase. Gehe die Skala hinauf, halte den höchsten Ton zwei Schläge und komme dann weich zurück zur Auflösung. Wiederhole einmal legato und einmal staccato.",
+          "ja": "音楽ラウンド：スケールを短い終止フレーズに変えてみる。上行して最高音を2拍保ち、そこから下行してやわらかく解決する。レガートで1回、スタッカートで1回繰り返そう。",
+          "zh-Hans": "音乐回合：把音阶变成一个短小的结束句。上行到最高音后保持两拍，再下行并轻柔地解决。先连奏一次，再断奏一次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: when both hands can do three clean runs in a row, raise the tempo by 4 bpm. If the thumb feels clumsy, slow down and make the crossing smaller, not stronger.",
+          "pt-BR": "Checkpoint: quando as duas mãos fizerem três passagens limpas seguidas, aumente o andamento em 4 bpm. Se o polegar parecer desajeitado, reduza a velocidade e faça a passagem menor, não mais forte.",
+          "es": "Checkpoint: cuando ambas manos puedan hacer tres recorridos limpios seguidos, sube el tempo 4 bpm. Si el pulgar se siente torpe, baja la velocidad y haz el cruce más pequeño, no más fuerte.",
+          "de": "Checkpoint: wenn beide Hände drei saubere Durchgänge nacheinander schaffen, erhöhe um 4 bpm. Fühlt sich der Daumen unbeholfen an, nimm Tempo heraus und mache die Bewegung kleiner statt kräftiger.",
+          "ja": "チェックポイント：両手とも3回連続できれいに弾けたら、テンポを4 bpm上げる。親指が不器用に感じたら、速くするのではなく動きを小さくしてみよう。",
+          "zh-Hans": "检查点：当双手都能连续完成三次干净的来回后，把速度提高4 bpm。如果拇指还是笨拙，就降速并把穿越动作做小，而不是更用力。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-06T00:09:08Z",
+  "updatedAt": "2026-05-06T00:09:08Z"
+}

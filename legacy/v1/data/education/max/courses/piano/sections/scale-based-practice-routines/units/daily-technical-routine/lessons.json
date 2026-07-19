@@ -110,5 +110,1377 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "two-hand-scale-sync-challenge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Scale Sync Challenge",
+        "pt-BR": "Desafio de Sincronia das Duas Mãos",
+        "es": "Desafío de sincronía de dos manos",
+        "de": "Zwei-Hände-Sync-Challenge",
+        "ja": "両手シンク・チャレンジ",
+        "zh-Hans": "双手同步挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sync both hands with rhythmic grids and dynamics for clean piano scales.",
+        "pt-BR": "Sincronize as mãos com grades rítmicas e dinâmica para escalas limpas no piano.",
+        "es": "Sincroniza ambas manos con rejillas rítmicas y dinámica para escalas limpias en piano.",
+        "de": "Synchronisiere beide Hände mit Rhythmusgittern und Dynamik für saubere Klavierskalen.",
+        "ja": "リズムグリッドとダイナミクスで両手を同期し、きれいなピアノスケールに。",
+        "zh-Hans": "用节奏网格和力度变化让双手同步，练出干净的钢琴音阶。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-18T00:07:00Z",
+    "updatedAt": "2026-03-18T00:07:00Z"
+  },
+  {
+    "id": "dynamic-arc-scale-ladders",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dynamic Arc Scale Ladders",
+        "pt-BR": "Escadas de Escalas com Arco Dinâmico",
+        "es": "Escaleras de escalas con arco dinámico",
+        "de": "Dynamische Bogen-Skalenleiter",
+        "ja": "ダイナミック・アーク・スケールラダー",
+        "zh-Hans": "动态弧线音阶阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Blend crescendo/decrescendo control with tempo steps.",
+        "pt-BR": "Combine controle de crescendo/decrescendo com degraus de tempo.",
+        "es": "Combina control de crescendo/decrescendo con escalones de tempo.",
+        "de": "Verbinde Crescendo/Decrescendo-Kontrolle mit Tempostufen.",
+        "ja": "クレッシェンド／デクレッシェンドのコントロールをテンポ段階と組み合わせる。",
+        "zh-Hans": "将渐强/渐弱控制与速度阶梯结合。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-20T00:08:32Z",
+    "updatedAt": "2026-03-20T00:08:32Z"
+  },
+  {
+    "id": "piano-scale-timer-laps",
+    "level": "beginner",
+    "difficulty": "easy",
+    "name": {
+      "values": {
+        "en": "Scale Timer Laps",
+        "pt-BR": "Voltas cronometradas da escala",
+        "es": "Vueltas cronometradas de escala",
+        "de": "Skalen-Zeitrunden",
+        "ja": "スケール・タイマーラップ",
+        "zh-Hans": "音阶计时圈"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use short timed laps to make your daily scale practice focused and fun.",
+        "pt-BR": "Use voltas curtas no cronômetro para deixar o treino diário focado e divertido.",
+        "es": "Usa vueltas cortas con temporizador para un estudio diario enfocado y divertido.",
+        "de": "Nutze kurze Timer-Runden, damit dein tägliches Skalenüben fokussiert und spaßig bleibt.",
+        "ja": "短いタイマーラップで毎日のスケール練習を集中＆楽しく。",
+        "zh-Hans": "用短时间的计时圈让每日音阶练习更专注、更有趣。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-21T00:05:52Z",
+    "updatedAt": "2026-03-21T00:05:52Z"
+  },
+  {
+    "id": "hands-together-burst-routine",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Hands‑Together Burst Routine\"",
+        "pt-BR": "\"Rotina de Burst com Mãos Juntas\"",
+        "es": "\"Rutina de burst a manos juntas\"",
+        "de": "\"Burst‑Routine mit beiden Händen\"",
+        "ja": "\"両手バースト・ルーティン\"",
+        "zh-Hans": "\"双手爆发练习\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build speed safely with short bursts inside a daily scale routine.\"",
+        "pt-BR": "\"Ganhe velocidade com bursts curtos dentro da rotina diária de escalas.\"",
+        "es": "\"Gana velocidad con bursts cortos dentro de la rutina diaria de escalas.\"",
+        "de": "\"Baue Tempo mit kurzen Bursts in der täglichen Skalenroutine auf.\"",
+        "ja": "\"短いバーストで安全にスピードを上げる日課。\"",
+        "zh-Hans": "\"在日常音阶中用短促爆发安全提速。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-03-22T00:06:30Z",
+    "updatedAt": "2026-03-22T00:06:30Z"
+  },
+  {
+    "id": "rhythm-shift-scale-drill",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Rhythm-Shift Scale Drill\"",
+        "pt-BR": "\"Drill de Escala com Troca de Ritmo\"",
+        "es": "\"Ejercicio de Escala con Cambio Rítmico\"",
+        "de": "\"Rhythmuswechsel-Übung mit Tonleitern\"",
+        "ja": "\"リズム切り替えスケールドリル\"",
+        "zh-Hans": "\"节奏切换音阶训练\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Run one scale while switching between eighths, triplets, and sixteenths at the same tempo.\"",
+        "pt-BR": "\"Toque uma escala alternando colcheias, tercinas e semicolcheias no mesmo tempo.\"",
+        "es": "\"Toca una escala alternando corcheas, tresillos y semicorcheas al mismo tempo.\"",
+        "de": "\"Spiele eine Tonleiter und wechsle zwischen Achteln, Triolen und Sechzehnteln im selben Tempo.\"",
+        "ja": "\"同じテンポで8分音符・3連符・16分音符を切り替えてスケールを弾く。\"",
+        "zh-Hans": "\"在同一速度下，用八分、三连、十六分切换演奏一条音阶。\""
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-03-23T00:08:54Z",
+    "updatedAt": "2026-03-23T00:08:54Z"
+  },
+  {
+    "id": "piano-scale-sprint-resets",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Sprint Resets",
+        "pt-BR": "Sprints e resets de escala",
+        "es": "Sprints y reinicios de escala",
+        "de": "Skalen-Sprint-Resets",
+        "ja": "スケール・スプリント・リセット",
+        "zh-Hans": "音阶冲刺重置"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Short scale bursts to build endurance and focus.",
+        "pt-BR": "Rajadas curtas de escala para resistência e foco.",
+        "es": "Ráfagas cortas de escala para resistencia y enfoque.",
+        "de": "Kurze Skalen-Bursts für Ausdauer und Fokus.",
+        "ja": "短いスプリントで持久力と集中力を鍛える。",
+        "zh-Hans": "用短冲刺建立耐力与专注。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-03-25T00:08:09Z",
+    "updatedAt": "2026-03-25T00:08:09Z"
+  },
+  {
+    "id": "scale-echo-bursts",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Echo Bursts\"",
+        "pt-BR": "\"Burst de Escala em Eco\"",
+        "es": "\"Ráfagas de escala en eco\"",
+        "de": "\"Echo‑Skalen‑Bursts\"",
+        "ja": "\"スケール・エコー・バースト\"",
+        "zh-Hans": "\"音阶回声爆发\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Trade short scale bursts between hands to build control and listening.\"",
+        "pt-BR": "\"Troque bursts curtos de escala entre as mãos para ganhar controle e escuta.\"",
+        "es": "\"Intercambia ráfagas cortas de escala entre manos para mejorar control y escucha.\"",
+        "de": "\"Wechsle kurze Skalenbursts zwischen den Händen, um Kontrolle und Gehör zu schärfen.\"",
+        "ja": "\"短いスケールバーストを両手で投げ合い、コントロールと聴く力を鍛える。\"",
+        "zh-Hans": "\"双手交替短促音阶爆发，提升控制与聆听。\""
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-03-28T00:08:05Z",
+    "updatedAt": "2026-03-28T00:08:05Z"
+  },
+  {
+    "id": "mirror-hands-scale-sprints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Mirror Hands Scale Sprints\"",
+        "pt-BR": "\"Sprints de Escala com Mãos Espelhadas\"",
+        "es": "\"Sprints de Escala con Manos Espejo\"",
+        "de": "\"Skalen-Sprints mit Spiegelhänden\"",
+        "ja": "\"ミラーハンド・スケールスプリント\"",
+        "zh-Hans": "\"镜像双手音阶冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Build evenness with mirrored hands, contrary motion, and short speed bursts.\"",
+        "pt-BR": "\"Construa uniformidade com mãos espelhadas, movimento contrário e sprints de velocidade.\"",
+        "es": "\"Construye uniformidad con manos espejadas, movimiento contrario y ráfagas de velocidad.\"",
+        "de": "\"Baue Gleichmäßigkeit mit spiegelnden Händen, Gegenbewegung und kurzen Tempobursts auf.\"",
+        "ja": "\"鏡のような両手、反行、短いスピードバーストで均一さを鍛える。\"",
+        "zh-Hans": "\"通过镜像双手、反向运动和短促加速练出均匀度。\""
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-04-01T00:07:57Z",
+    "updatedAt": "2026-04-01T00:07:57Z"
+  },
+  {
+    "id": "piano-scale-mirror-swaps",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Mirror Swaps\"",
+        "pt-BR": "\"Trocas Espelhadas de Escala\"",
+        "es": "\"Cambios Espejados de Escala\"",
+        "de": "\"Skalen‑Spiegelwechsel\"",
+        "ja": "\"スケール・ミラー・スワップ\"",
+        "zh-Hans": "\"音阶镜像交换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Swap which hand leads while keeping mirrored scales even, relaxed, and musical.\"",
+        "pt-BR": "\"Troque qual mão lidera enquanto mantém as escalas espelhadas uniformes e musicais.\"",
+        "es": "\"Cambia qué mano lidera mientras mantienes las escalas en espejo parejas y musicales.\"",
+        "de": "\"Wechsle die führende Hand, während gespiegelte Skalen gleichmäßig und musikalisch bleiben.\"",
+        "ja": "\"鏡のようなスケールを保ちながら、どちらの手がリードするかを切り替えます。\"",
+        "zh-Hans": "\"在保持镜像音阶均匀的同时，交换哪只手领奏。\""
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-04-02T00:07:27Z",
+    "updatedAt": "2026-04-02T00:07:27Z"
+  },
+  {
+    "id": "velocity-slot-scale-circuit",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Velocity Slot Scale Circuit\"",
+        "pt-BR": "\"Circuito de Escalas por Faixas de Velocidade\"",
+        "es": "\"Circuito de Escalas por Franjas de Velocidad\"",
+        "de": "\"Skalen‑Zirkel mit Dynamik‑Slots\"",
+        "ja": "\"ベロシティ・スロット・スケール回路\"",
+        "zh-Hans": "\"力度档位音阶回路\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Lock in dynamic slots (p, mf, f) while running two‑octave scales.\"",
+        "pt-BR": "\"Trave faixas dinâmicas (p, mf, f) ao tocar escalas em duas oitavas.\"",
+        "es": "\"Fija franjas dinámicas (p, mf, f) al tocar escalas de dos octavas.\"",
+        "de": "\"Fixiere Dynamik‑Slots (p, mf, f), während du Zwei‑Oktaven‑Skalen spielst.\"",
+        "ja": "\"p・mf・fのダイナミクス枠を固定しながら2オクターブのスケールを回す。\"",
+        "zh-Hans": "\"在p、mf、f的力度档位中练习两八度音阶。\""
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-04-03T00:07:05Z",
+    "updatedAt": "2026-04-03T00:07:05Z"
+  },
+  {
+    "id": "two-hand-scale-mirror-drill",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Scale Mirror Drill",
+        "pt-BR": "Treino espelho de escala com duas mãos",
+        "es": "Ejercicio espejo de escala a dos manos",
+        "de": "Zwei-Hand-Skalen-Spiegel-Drill",
+        "ja": "両手ミラー・スケール練習",
+        "zh-Hans": "双手镜像音阶练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Mirror your hands in a scale to build coordination, tone, and control.",
+        "pt-BR": "Espelhe as mãos na escala para ganhar coordenação, timbre e controle.",
+        "es": "Refleja las manos en la escala para mejorar coordinación, sonido y control.",
+        "de": "Spiegle beide Hände in der Skala für Koordination, Klang und Kontrolle.",
+        "ja": "スケールで両手を鏡のように動かし、協調・音色・コントロールを鍛えよう。",
+        "zh-Hans": "用镜像音阶训练双手协调、音色与控制力。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-04-04T00:08:14Z",
+    "updatedAt": "2026-04-04T00:08:14Z"
+  },
+  {
+    "id": "piano-scale-traffic-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Traffic Control for Two Hands\"",
+        "pt-BR": "\"Controle de tráfego de escalas para duas mãos\"",
+        "es": "\"Control de tráfico de escalas para dos manos\"",
+        "de": "\"Skalen-Flugkontrolle für zwei Hände\"",
+        "ja": "\"両手のためのスケール交通管制\"",
+        "zh-Hans": "\"双手音阶交通管制\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Train both hands to keep a scale flowing smoothly while one hand changes dynamics, articulation, or rhythm.\"",
+        "pt-BR": "\"Treine as duas mãos para manter a escala fluindo enquanto uma delas muda dinâmica, articulação ou ritmo.\"",
+        "es": "\"Entrena ambas manos para mantener una escala fluida mientras una mano cambia dinámica, articulación o ritmo.\"",
+        "de": "\"Trainiere beide Hände so, dass eine Skala flüssig bleibt, während eine Hand Dynamik, Artikulation oder Rhythmus verändert.\"",
+        "ja": "\"片手がダイナミクスやアーティキュレーションやリズムを変えても、両手のスケールをなめらかに保つ練習。\"",
+        "zh-Hans": "\"训练双手在一只手改变力度、触键或节奏时，仍然让音阶顺畅流动。\""
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-04-09T00:09:34Z",
+    "updatedAt": "2026-04-09T00:09:34Z"
+  },
+  {
+    "id": "traffic-lights-for-scale-control",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Traffic Lights for Scale Control",
+        "pt-BR": "Semáforos para controlar a escala",
+        "es": "Semáforos para controlar la escala",
+        "de": "Ampeln für Skalenkontrolle",
+        "ja": "スケール・コントロールの信号機",
+        "zh-Hans": "音阶控制红绿灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use stop, slow, and go zones to clean up rushing hands and uneven tone.",
+        "pt-BR": "Use zonas de parar, reduzir e seguir para corrigir mãos apressadas e timbre desigual.",
+        "es": "Usa zonas de parar, reducir y avanzar para corregir manos apuradas y sonido desigual.",
+        "de": "Nutze Stopp-, Langsam- und Los-Zonen, um eilende Hände und ungleichmäßigen Ton zu zähmen.",
+        "ja": "止まる・ゆっくり・進むのゾーンを使って、急ぐ手と不ぞろいな音を整えよう。",
+        "zh-Hans": "用停止、减速、通行区间，修正手部抢拍和音色不均。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-04-10T00:07:20Z",
+    "updatedAt": "2026-04-10T00:07:20Z"
+  },
+  {
+    "id": "scale-traffic-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Traffic Lights",
+        "pt-BR": "Semáforos da Escala",
+        "es": "Semáforos de la Escala",
+        "de": "Ampeln für die Tonleiter",
+        "ja": "スケール信号機",
+        "zh-Hans": "音阶红绿灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use red, yellow, and green practice zones to clean up piano scales without losing musical flow.",
+        "pt-BR": "Use zonas vermelha, amarela e verde para limpar suas escalas no piano sem perder o fluxo musical.",
+        "es": "Usa zonas roja, amarilla y verde para limpiar tus escalas al piano sin perder el flujo musical.",
+        "de": "Nutze rote, gelbe und grüne Zonen, um Klavier-Tonleitern sauber zu machen, ohne den musikalischen Fluss zu verlieren.",
+        "ja": "赤・黄・緑の練習ゾーンを使って、音楽の流れを失わずにピアノスケールを整えよう。",
+        "zh-Hans": "用红、黄、绿三个练习区，清理钢琴音阶中的问题，同时保留音乐流动感。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-04-11T00:07:49Z",
+    "updatedAt": "2026-04-11T00:07:49Z"
+  },
+  {
+    "id": "checkpoint-scale-race",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Checkpoint Scale Race",
+        "pt-BR": "Corrida da escala com checkpoints",
+        "es": "Carrera de escala con checkpoints",
+        "de": "Tonleiter-Rennen mit Checkpoints",
+        "ja": "チェックポイント式スケールレース",
+        "zh-Hans": "检查点音阶赛跑"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn daily piano scales into a clean, strategic race with checkpoints for tone, rhythm, and relaxation.",
+        "pt-BR": "Transforme as escalas diárias no piano em uma corrida estratégica, com checkpoints de timbre, ritmo e relaxamento.",
+        "es": "Convierte las escalas diarias de piano en una carrera estratégica con checkpoints de sonido, ritmo y relajación.",
+        "de": "Verwandle tägliche Klavier-Tonleitern in ein strategisches Rennen mit Kontrollpunkten für Klang, Rhythmus und Lockerheit.",
+        "ja": "音色、リズム、脱力のチェックポイントを置いて、毎日のピアノスケールを戦略的なレースに変えよう。",
+        "zh-Hans": "给每日钢琴音阶练习加上音色、节奏和放松检查点，把它变成一场有策略的比赛。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-04-13T00:07:51Z",
+    "updatedAt": "2026-04-13T00:07:51Z"
+  },
+  {
+    "id": "piano-traffic-light-scales",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Traffic-Light Scale Routine",
+        "pt-BR": "Rotina de Escala no Semáforo",
+        "es": "Rutina de Escala con Semáforo",
+        "de": "Ampel-Skalenroutine",
+        "ja": "信号機スケール・ルーティン",
+        "zh-Hans": "红绿灯音阶练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use red, yellow, and green tempo zones to make daily piano scale practice focused, musical, and controlled.",
+        "pt-BR": "Use zonas vermelha, amarela e verde para deixar o estudo diário de escalas no piano focado, musical e controlado.",
+        "es": "Usa zonas roja, amarilla y verde para que tu práctica diaria de escalas en piano sea enfocada, musical y controlada.",
+        "de": "Nutze rote, gelbe und grüne Tempobereiche, damit dein tägliches Skalenüben am Klavier fokussiert, musikalisch und kontrolliert bleibt.",
+        "ja": "赤・黄・緑のテンポゾーンを使って、毎日のピアノ音階練習を集中力・音楽性・コントロールのあるものにしよう。",
+        "zh-Hans": "用红、黄、绿三个速度区间，让你的日常钢琴音阶练习更专注、更有音乐性，也更可控。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-04-17T00:07:57Z",
+    "updatedAt": "2026-04-17T00:07:57Z"
+  },
+  {
+    "id": "checkpoint-circuit-for-piano-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Checkpoint Circuit for Piano Scales",
+        "pt-BR": "Circuito de Checkpoints para Escalas no Piano",
+        "es": "Circuito de Checkpoints para Escalas en Piano",
+        "de": "Checkpoint-Parcours für Klavierskalen",
+        "ja": "ピアノ音階のチェックポイント・サーキット",
+        "zh-Hans": "钢琴音阶检查点回路"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn daily piano scales into a game of checkpoints for touch, rhythm, fingering, and musical control.",
+        "pt-BR": "Transforme as escalas diárias no piano em um jogo de checkpoints para toque, ritmo, digitação e controle musical.",
+        "es": "Convierte las escalas diarias de piano en un juego de checkpoints para toque, ritmo, digitación y control musical.",
+        "de": "Verwandle tägliche Klavierskalen in ein Checkpoint-Spiel für Anschlag, Rhythmus, Fingersatz und musikalische Kontrolle.",
+        "ja": "毎日のピアノ音階練習を、タッチ・リズム・指使い・音楽的コントロールのチェックポイントゲームに変えよう。",
+        "zh-Hans": "把每天的钢琴音阶练习，变成一个训练触键、节奏、指法和音乐控制力的检查点游戏。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-04-18T00:07:52Z",
+    "updatedAt": "2026-04-18T00:07:52Z"
+  },
+  {
+    "id": "piano-scale-pit-stop",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Pit Stop",
+        "pt-BR": "Pit Stop da Escala no Piano",
+        "es": "Pit Stop de Escala en Piano",
+        "de": "Klavier-Skalen-Pit-Stop",
+        "ja": "ピアノ・スケールのピットストップ",
+        "zh-Hans": "钢琴音阶维修站"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use short pit stops to repair tone, timing, and fingering before your scale routine races ahead.",
+        "pt-BR": "Use pit stops curtos para consertar timbre, tempo e dedilhado antes que sua rotina de escalas dispare.",
+        "es": "Usa pit stops cortos para arreglar sonido, pulso y digitación antes de que tu rutina de escalas acelere demasiado.",
+        "de": "Nutze kurze Boxenstopps, um Klang, Timing und Fingersatz zu reparieren, bevor deine Skalenroutine davonrast.",
+        "ja": "短いピットストップで音色、タイム、指づかいを修理し、スケール練習が暴走する前に整えよう。",
+        "zh-Hans": "用短暂的维修站停靠，修好音色、节拍和指法，再让你的音阶练习继续加速。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-04-23T00:10:25Z",
+    "updatedAt": "2026-04-23T00:10:25Z"
+  },
+  {
+    "id": "piano-scale-lane-switches",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Lane Switches",
+        "pt-BR": "Trocas de Faixa nas Escalas do Piano",
+        "es": "Cambios de Carril en Escalas de Piano",
+        "de": "Spurwechsel bei Klavierskalen",
+        "ja": "ピアノ音階レーンチェンジ",
+        "zh-Hans": "钢琴音阶变道练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Keep your scales smooth while switching touch, dynamics, and focus like changing lanes on a musical highway.",
+        "pt-BR": "Mantenha a escala fluindo enquanto troca toque, dinâmica e foco como quem muda de faixa numa estrada musical.",
+        "es": "Mantén tus escalas fluidas mientras cambias toque, dinámica y foco como si cambiaras de carril en una autopista musical.",
+        "de": "Halte deine Skalen flüssig, während du Anschlag, Dynamik und Fokus wie auf einer musikalischen Autobahn wechselst.",
+        "ja": "タッチ、ダイナミクス、集中点を切り替えながらも、音階をなめらかに保つ練習です。",
+        "zh-Hans": "像在音乐高速路上变道一样切换触键、力度和注意力，同时保持音阶平稳顺滑。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-04-26T00:06:52Z",
+    "updatedAt": "2026-04-26T00:06:52Z"
+  },
+  {
+    "id": "piano-scale-shadow-play",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Shadow Play",
+        "pt-BR": "Teatro de Sombras com Escalas",
+        "es": "Juego de Sombras con Escalas",
+        "de": "Schatten-Spiel mit Tonleitern",
+        "ja": "スケール・シャドウプレイ",
+        "zh-Hans": "音阶影子戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make piano scales more musical by letting one hand lead and the other shadow with delayed control, tone, and timing.",
+        "pt-BR": "Deixe as escalas no piano mais musicais fazendo uma mão liderar e a outra seguir como sombra com controle, timbre e tempo.",
+        "es": "Haz más musicales tus escalas de piano dejando que una mano lidere y la otra la siga como sombra con control, sonido y pulso.",
+        "de": "Mach deine Klavierskalen musikalischer, indem eine Hand führt und die andere mit Verzögerung, Klang und Timing als Schatten folgt.",
+        "ja": "片手がリードし、もう片手が少し遅れて影のように追うことで、ピアノスケールをもっと音楽的にしよう。",
+        "zh-Hans": "让一只手领奏，另一只手稍微延后像影子一样跟随，把钢琴音阶练得更有音乐性。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-04-27T00:10:25Z",
+    "updatedAt": "2026-04-27T00:10:25Z"
+  },
+  {
+    "id": "contrary-motion-focus-ladder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Contrary Motion Focus Ladder",
+        "pt-BR": "Escada de Foco em Movimento Contrário",
+        "es": "Escalera de Enfoque en Movimiento Contrario",
+        "de": "Fokusleiter in Gegenbewegung",
+        "ja": "反行で鍛えるフォーカス・ラダー",
+        "zh-Hans": "反向进行专注阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use contrary motion to sharpen balance, hearing, and keyboard awareness in a focused routine.",
+        "pt-BR": "Use o movimento contrário para afiar equilíbrio, audição e noção do teclado em uma rotina focada.",
+        "es": "Usa el movimiento contrario para afinar equilibrio, oído y mapa del teclado en una rutina enfocada.",
+        "de": "Nutze Gegenbewegung, um Balance, Gehör und Tastaturorientierung in einer fokussierten Routine zu schärfen.",
+        "ja": "反行を使って、バランス、耳、鍵盤感覚を集中したルーティンの中で磨くレッスンです。",
+        "zh-Hans": "用反向进行练习，在一套专注流程里同时提升平衡、听觉和键盘地图感。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-04-28T00:07:10Z",
+    "updatedAt": "2026-04-28T00:07:10Z"
+  },
+  {
+    "id": "piano-dynamic-staircase",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Dynamic Staircase in F Major",
+        "pt-BR": "Escadaria Dinâmica em Fá Maior",
+        "es": "Escalera Dinámica en Fa Mayor",
+        "de": "Dynamische Treppe in F-Dur",
+        "ja": "Fメジャーのダイナミック階段",
+        "zh-Hans": "F大调动态楼梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train piano scales as a controlled climb where each dynamic step changes the sound without breaking the line.",
+        "pt-BR": "Treine escalas no piano como uma subida controlada, em que cada degrau de dinâmica muda o som sem quebrar a linha.",
+        "es": "Entrena escalas de piano como una subida controlada, donde cada nivel dinámico cambia el sonido sin romper la línea.",
+        "de": "Trainiere Klavierskalen wie einen kontrollierten Aufstieg, bei dem jede Dynamikstufe den Klang verändert, ohne die Linie zu brechen.",
+        "ja": "音量の段差をコントロールしながら、線を切らずにピアノスケールを登る練習をしよう。",
+        "zh-Hans": "把钢琴音阶练成一次可控的爬升，让每一级力度变化都改变声音，却不打断线条。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-04-30T00:08:00Z",
+    "updatedAt": "2026-04-30T00:08:00Z"
+  },
+  {
+    "id": "scale-lantern-relay-bb-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Lantern Relay in Bb Major",
+        "pt-BR": "Revezamento da Lanterna na Escala em Sib Maior",
+        "es": "Relevo de Linterna en la Escala en Sib Mayor",
+        "de": "Laternen-Staffel in B-Dur",
+        "ja": "Bbメジャーのランタン・リレー",
+        "zh-Hans": "Bb大调音阶灯笼接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pass the lead between your hands while keeping two-octave piano scales even, clear, and musical.",
+        "pt-BR": "Passe a liderança entre as mãos mantendo escalas de piano em duas oitavas uniformes, claras e musicais.",
+        "es": "Pasa el liderazgo entre tus manos mientras mantienes escalas de piano de dos octavas parejas, claras y musicales.",
+        "de": "Übergib die Führung zwischen deinen Händen und halte zweioctavige Klavierskalen gleichmäßig, klar und musikalisch.",
+        "ja": "両手の主役を受け渡しながら、2オクターブのピアノスケールを均一で音楽的に保つ練習です。",
+        "zh-Hans": "在双手之间传递主导权，同时把两八度钢琴音阶保持得均匀、清晰又有音乐性。"
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-05-01T00:08:11Z",
+    "updatedAt": "2026-05-01T00:08:11Z"
+  },
+  {
+    "id": "piano-scale-baton-pass",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Baton Pass in D Major",
+        "pt-BR": "Revezamento da Escala em Ré Maior",
+        "es": "Relevo de Escala en Re Mayor",
+        "de": "Staffelstab-Skala in D-Dur",
+        "ja": "Dメジャーのスケール・バトンパス",
+        "zh-Hans": "D大调音阶接力棒"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make daily piano scales more musical by passing the lead cleanly from one hand to the other.",
+        "pt-BR": "Deixe as escalas diárias no piano mais musicais passando a liderança com limpeza entre as mãos.",
+        "es": "Haz más musicales tus escalas diarias de piano pasando el liderazgo limpiamente entre las manos.",
+        "de": "Mach deine täglichen Klavierskalen musikalischer, indem du die Führung sauber von einer Hand zur anderen übergibst.",
+        "ja": "主役を片手からもう片手へきれいに渡して、毎日のピアノ音階をもっと音楽的にするレッスンです。",
+        "zh-Hans": "让主导权在双手之间干净传递，把每日钢琴音阶练得更有音乐性。"
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-05-08T00:10:18Z",
+    "updatedAt": "2026-05-08T00:10:18Z"
+  },
+  {
+    "id": "piano-accent-maze-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Maze Sprint",
+        "pt-BR": "Corrida no Labirinto de Acentos no Piano",
+        "es": "Carrera de Laberinto de Acentos al Piano",
+        "de": "Klavier-Akzent-Labyrinth-Sprint",
+        "ja": "ピアノ・アクセント迷路スプリント",
+        "zh-Hans": "钢琴重音迷宫冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use shifting accents inside scale patterns to sharpen coordination, time, and musical control at the keyboard.",
+        "pt-BR": "Use acentos móveis dentro de padrões de escala para afiar coordenação, tempo e controle musical no teclado.",
+        "es": "Usa acentos desplazados dentro de patrones de escala para afinar coordinación, pulso y control musical en el teclado.",
+        "de": "Nutze wandernde Akzente in Skalenmustern, um Koordination, Timing und musikalische Kontrolle am Klavier zu schärfen.",
+        "ja": "スケールパターン内でアクセントを移動させ、鍵盤での協調性、タイム感、音楽的コントロールを鍛えます。",
+        "zh-Hans": "在音阶模式里移动重音，提升你在键盘上的协调、节奏和音乐控制力。"
+      }
+    },
+    "order": 29,
+    "createdAt": "2026-05-09T00:11:29Z",
+    "updatedAt": "2026-05-09T00:11:29Z"
+  },
+  {
+    "id": "piano-touch-dominoes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Touch Dominoes in G Major",
+        "pt-BR": "Dominós de Toque em Sol Maior",
+        "es": "Dominós de Toque en Sol Mayor",
+        "de": "Touch-Dominos in G-Dur",
+        "ja": "Gメジャーのタッチ・ドミノ",
+        "zh-Hans": "G大调触键多米诺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Chain together touch changes inside a G major scale so both hands stay even, alert, and musical.",
+        "pt-BR": "Encadeie mudanças de toque dentro da escala de Sol maior para manter as duas mãos uniformes, atentas e musicais.",
+        "es": "Encadena cambios de toque dentro de la escala de Sol mayor para que ambas manos sigan parejas, atentas y musicales.",
+        "de": "Verknüpfe Anschlagswechsel in der G-Dur-Tonleiter, damit beide Hände gleichmäßig, wach und musikalisch bleiben.",
+        "ja": "Gメジャーの音階の中でタッチを連鎖的に切り替え、両手を均等で敏感、そして音楽的に保ちます。",
+        "zh-Hans": "在 G 大调音阶里连锁切换触键，让双手保持均匀、警觉又有音乐性。"
+      }
+    },
+    "order": 30,
+    "createdAt": "2026-05-12T00:10:46Z",
+    "updatedAt": "2026-05-12T00:10:46Z"
+  },
+  {
+    "id": "piano-checkpoint-weave",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Checkpoint Weave",
+        "pt-BR": "Trama de Checkpoints no Piano",
+        "es": "Trama de Checkpoints para Piano",
+        "de": "Piano-Checkpoint-Gewebe",
+        "ja": "ピアノ・チェックポイント織り",
+        "zh-Hans": "钢琴检查点编织"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Weave dynamics, articulation, and subdivision changes into one scale routine without losing hand balance.",
+        "pt-BR": "Misture dinâmica, articulação e mudanças de subdivisão em uma rotina de escala sem perder o equilíbrio entre as mãos.",
+        "es": "Mezcla dinámica, articulación y cambios de subdivisión en una rutina de escala sin perder el equilibrio entre las manos.",
+        "de": "Verwebe Dynamik, Artikulation und wechselnde Unterteilungen in einer Skalenroutine, ohne das Gleichgewicht der Hände zu verlieren.",
+        "ja": "ダイナミクス、アーティキュレーション、細分化の変化を、両手のバランスを崩さず1つのスケールルーティンに織り込もう。",
+        "zh-Hans": "在不丢掉双手平衡的前提下，把力度、触键和节奏细分变化编进同一套音阶练习里。"
+      }
+    },
+    "order": 31,
+    "createdAt": "2026-05-13T00:10:54Z",
+    "updatedAt": "2026-05-13T00:10:54Z"
+  },
+  {
+    "id": "piano-accent-maze-sprints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Accent Maze Sprints",
+        "pt-BR": "Sprints no Labirinto de Acentos",
+        "es": "Sprints en el Laberinto de Acentos",
+        "de": "Akzent-Labyrinth-Sprints",
+        "ja": "アクセント迷路スプリント",
+        "zh-Hans": "重音迷宫冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn piano scale practice into a fast-thinking maze where accents, fingering, and tone must stay organized.",
+        "pt-BR": "Transforme o estudo de escalas no piano em um labirinto de decisões rápidas, com acentos, dedilhado e sonoridade sob controle.",
+        "es": "Convierte la práctica de escalas al piano en un laberinto de decisiones rápidas donde acentos, digitación y sonido deben mantenerse ordenados.",
+        "de": "Verwandle das Klavier-Skalenüben in ein Denk-Labyrinth, in dem Akzente, Fingersatz und Klang organisiert bleiben müssen.",
+        "ja": "アクセント、運指、音色を整理したまま、ピアノのスケール練習を頭も使う迷路ゲームに変えるレッスンです。",
+        "zh-Hans": "把钢琴音阶练习变成需要快速思考的迷宫挑战，让重音、指法和音色始终有序。"
+      }
+    },
+    "order": 32,
+    "createdAt": "2026-05-15T00:07:08Z",
+    "updatedAt": "2026-05-15T00:07:08Z"
+  },
+  {
+    "id": "piano-scale-balance-beam",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Balance Beam",
+        "pt-BR": "Trave de Equilíbrio das Escalas no Piano",
+        "es": "Barra de Equilibrio de Escalas al Piano",
+        "de": "Balancebalken für Klavierskalen",
+        "ja": "ピアノ・スケールのバランスビーム",
+        "zh-Hans": "钢琴音阶平衡木"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to stay balanced through dynamic shifts, accents, and thumb crossings inside one scale routine.",
+        "pt-BR": "Treine as duas mãos para ficarem equilibradas entre mudanças de dinâmica, acentos e passagens do polegar em uma única rotina.",
+        "es": "Entrena ambas manos para mantenerse equilibradas entre cambios de dinámica, acentos y cruces del pulgar en una sola rutina.",
+        "de": "Trainiere beide Hände, bei Dynamikwechseln, Akzenten und Daumenuntersätzen innerhalb einer Skalenroutine im Gleichgewicht zu bleiben.",
+        "ja": "ダイナミクス変化、アクセント、親指くぐりの中でも、両手のバランスを保つ練習ルーティンです。",
+        "zh-Hans": "训练双手在力度变化、重音移动和拇指穿越中依然保持平衡。"
+      }
+    },
+    "order": 33,
+    "createdAt": "2026-05-17T00:10:16Z",
+    "updatedAt": "2026-05-17T00:10:16Z"
+  },
+  {
+    "id": "piano-accent-traffic-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Traffic Lab",
+        "pt-BR": "Laboratório de Trânsito de Acentos no Piano",
+        "es": "Laboratorio de Tráfico de Acentos en Piano",
+        "de": "Klavier-Akzent-Verkehrslabor",
+        "ja": "ピアノ・アクセント交通ラボ",
+        "zh-Hans": "钢琴重音交通实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your scale control by directing accents, balance, and motion like traffic.",
+        "pt-BR": "Treine o controle da escala dirigindo acentos, equilíbrio e movimento como trânsito.",
+        "es": "Entrena tu control de escalas dirigiendo acentos, balance y movimiento como si fueran tráfico.",
+        "de": "Trainiere deine Skalenkontrolle, indem du Akzente, Balance und Bewegung wie Verkehr steuerst.",
+        "ja": "アクセント、バランス、動きを交通整理のように扱ってスケールコントロールを鍛えよう。",
+        "zh-Hans": "像指挥交通一样安排重音、平衡和流动，训练你的音阶控制。"
+      }
+    },
+    "order": 34,
+    "createdAt": "2026-05-18T00:09:30Z",
+    "updatedAt": "2026-05-18T00:09:30Z"
+  },
+  {
+    "id": "piano-scale-glider-gates",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Glider Gates",
+        "pt-BR": "Portões Planadores da Escala no Piano",
+        "es": "Puertas Planeadoras de Escala en Piano",
+        "de": "Klavier-Skalen-Gleiter-Tore",
+        "ja": "ピアノ・スケール滑空ゲート",
+        "zh-Hans": "钢琴音阶滑翔门"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Glide through scale checkpoints with balanced hands, calm thumbs, and musical control.",
+        "pt-BR": "Deslize por checkpoints da escala com mãos equilibradas, polegares calmos e controle musical.",
+        "es": "Deslízate por checkpoints de escala con manos equilibradas, pulgares tranquilos y control musical.",
+        "de": "Gleite mit ausgeglichenen Händen, ruhigen Daumen und musikalischer Kontrolle durch deine Skalen-Checkpoints.",
+        "ja": "バランスの良い両手、落ち着いた親指、音楽的なコントロールで音階のゲートを滑空しよう。",
+        "zh-Hans": "用平衡的双手、冷静的拇指和音乐性的控制滑过每个音阶关卡。"
+      }
+    },
+    "order": 35,
+    "createdAt": "2026-05-19T00:08:45Z",
+    "updatedAt": "2026-05-19T00:08:45Z"
+  },
+  {
+    "id": "piano-echo-lane-rally",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Echo Lane Rally",
+        "pt-BR": "Piano Echo Lane Rally",
+        "es": "Piano Echo Lane Rally",
+        "de": "Piano Echo Lane Rally",
+        "ja": "Piano Echo Lane Rally",
+        "zh-Hans": "Piano Echo Lane Rally"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to answer each other with crisp scale echoes and steady control.",
+        "pt-BR": "Treine as duas mãos para responder uma à outra com ecos de escala nítidos e controle estável.",
+        "es": "Entrena ambas manos para responderse con ecos de escala claros y control constante.",
+        "de": "Trainiere beide Hände, einander mit klaren Skalen-Echos und stabilem Timing zu antworten.",
+        "ja": "両手がはっきりしたスケールのエコーで応答し合う力を鍛えるレッスンです。",
+        "zh-Hans": "训练双手用清晰的音阶回声彼此应答，并保持稳定控制。"
+      }
+    },
+    "order": 36,
+    "createdAt": "2026-06-03T00:09:03Z",
+    "updatedAt": "2026-06-03T00:09:03Z"
+  },
+  {
+    "id": "piano-accent-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Relay",
+        "pt-BR": "Revezamento de Acentos no Piano",
+        "es": "Relevo de Acentos en Piano",
+        "de": "Akzent-Staffel am Klavier",
+        "ja": "ピアノ・アクセントリレー",
+        "zh-Hans": "钢琴重音接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build cleaner scales by passing the accent between fingers, hands, and rhythms without losing tone.",
+        "pt-BR": "Construa escalas mais limpas passando o acento entre dedos, mãos e ritmos sem perder o timbre.",
+        "es": "Construye escalas más limpias pasando el acento entre dedos, manos y ritmos sin perder el sonido.",
+        "de": "Baue sauberere Tonleitern, indem du den Akzent zwischen Fingern, Händen und Rhythmen weitergibst, ohne den Klang zu verlieren.",
+        "ja": "アクセントを指・手・リズムの間で受け渡ししながら、音色を崩さずによりきれいなスケールを作る。",
+        "zh-Hans": "在不牺牲音色的前提下，把重音在手指、双手和节奏之间传递，练出更干净的音阶。"
+      }
+    },
+    "order": 37,
+    "createdAt": "2026-06-05T00:10:27Z",
+    "updatedAt": "2026-06-05T00:10:27Z"
+  },
+  {
+    "id": "piano-accent-ziplines",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Piano Accent Ziplines\"",
+        "pt-BR": "\"Tirolesas de Acento no Piano\"",
+        "es": "\"Tirolesas de Acento en Piano\"",
+        "de": "\"Akzent-Seilbahnen am Klavier\"",
+        "ja": "\"ピアノ・アクセント滑空路\"",
+        "zh-Hans": "\"钢琴重音滑索\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Send your scales across fast accent paths while both hands stay balanced, relaxed, and musically in control.\"",
+        "pt-BR": "\"Faça suas escalas cruzarem trilhas rápidas de acentos enquanto as duas mãos seguem equilibradas, soltas e no controle musical.\"",
+        "es": "\"Haz que tus escalas crucen rutas rápidas de acentos mientras ambas manos siguen equilibradas, sueltas y con control musical.\"",
+        "de": "\"Schicke deine Tonleitern über schnelle Akzentspuren, während beide Hände ausgeglichen, locker und musikalisch kontrolliert bleiben.\"",
+        "ja": "\"アクセントの高速ラインを通っても、両手のバランスと脱力、音楽的コントロールを保ちながらスケールを弾こう。\"",
+        "zh-Hans": "\"让音阶沿着快速重音路线前进，同时保持双手平衡、放松，并维持音乐性的控制。\""
+      }
+    },
+    "order": 38,
+    "createdAt": "2026-06-08T00:09:31Z",
+    "updatedAt": "2026-06-08T00:09:31Z"
+  },
+  {
+    "id": "piano-thumb-switchback-rally",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Thumb Switchback Rally",
+        "pt-BR": "Rali das Curvas de Polegar no Piano",
+        "es": "Rally de Curvas de Pulgar en Piano",
+        "de": "Klavier-Daumen-Kehren-Rallye",
+        "ja": "ピアノ・サム・スイッチバック・ラリー",
+        "zh-Hans": "钢琴拇指折返拉力赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use thumb crossings like hairpin turns so your scales stay smooth, balanced, and musical under pressure.",
+        "pt-BR": "Use as passagens de polegar como curvas fechadas para manter suas escalas suaves, equilibradas e musicais mesmo sob pressão.",
+        "es": "Usa los cruces de pulgar como curvas cerradas para que tus escalas sigan suaves, equilibradas y musicales bajo presión.",
+        "de": "Nutze Daumenuntersätze wie enge Kehren, damit deine Skalen auch unter Druck flüssig, ausgewogen und musikalisch bleiben.",
+        "ja": "親指くぐりをヘアピンカーブのように扱い、プレッシャーの中でも音階を滑らかで均整の取れた音楽的なものに保ちます。",
+        "zh-Hans": "把拇指穿越当成发卡弯来训练，让你的音阶在压力下仍然顺滑、平衡又有音乐性。"
+      }
+    },
+    "order": 39,
+    "createdAt": "2026-06-09T00:11:51Z",
+    "updatedAt": "2026-06-09T00:11:51Z"
+  },
+  {
+    "id": "piano-scale-boss-battle",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Boss Battle",
+        "pt-BR": "Chefão das Escalas no Piano",
+        "es": "Jefe Final de Escalas al Piano",
+        "de": "Klavier-Tonleiter-Bosskampf",
+        "ja": "ピアノ音階ボスバトル",
+        "zh-Hans": "钢琴音阶Boss战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a scale routine into a staged challenge with clean technique, rhythmic pressure, and a musical finish.",
+        "pt-BR": "Transforme a rotina de escalas em um desafio por fases, com técnica limpa, pressão rítmica e um final musical.",
+        "es": "Convierte tu rutina de escalas en un desafío por fases con técnica limpia, presión rítmica y un cierre musical.",
+        "de": "Verwandle deine Tonleiter-Routine in eine mehrstufige Herausforderung mit sauberer Technik, rhythmischem Druck und musikalischem Finale.",
+        "ja": "スケール練習を、きれいな技術・リズムのプレッシャー・音楽的な締めを持つ段階式チャレンジに変えよう。",
+        "zh-Hans": "把音阶练习变成分阶段挑战，兼顾干净技术、节奏压力和音乐性的收尾。"
+      }
+    },
+    "order": 40,
+    "createdAt": "2026-06-10T00:09:29Z",
+    "updatedAt": "2026-06-10T00:09:29Z"
+  },
+  {
+    "id": "piano-scale-rocket-switches",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Rocket Switches",
+        "pt-BR": "Trocas de Foguete nas Escalas do Piano",
+        "es": "Cambios Cohete en Escalas de Piano",
+        "de": "Raketen-Wechsel für Klavierskalen",
+        "ja": "ピアノ・スケール ロケット切り替え",
+        "zh-Hans": "钢琴音阶火箭切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch a clean two-hand scale, switch accents mid-flight, and keep the landing controlled.",
+        "pt-BR": "Lance uma escala a duas mãos, troque os acentos no meio do caminho e controle a aterrissagem.",
+        "es": "Lanza una escala a dos manos, cambia los acentos a mitad del vuelo y controla el aterrizaje.",
+        "de": "Starte eine saubere Zweihand-Skala, wechsle die Akzente im Flug und kontrolliere die Landung.",
+        "ja": "両手のスケールをきれいに発進し、途中でアクセントを切り替え、着地までコントロールします。",
+        "zh-Hans": "双手干净起飞，途中切换重音，并把落地也控制好。"
+      }
+    },
+    "order": 41,
+    "createdAt": "2026-06-12T00:10:21Z",
+    "updatedAt": "2026-06-12T00:10:21Z"
+  },
+  {
+    "id": "piano-thumb-radar",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Thumb Radar",
+        "pt-BR": "Radar do Polegar no Piano",
+        "es": "Radar del Pulgar en Piano",
+        "de": "Daumen-Radar am Klavier",
+        "ja": "ピアノ・サム・レーダー",
+        "zh-Hans": "钢琴拇指雷达"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Track every thumb crossing before it sneaks up on your scale and breaks the line.",
+        "pt-BR": "Rastreie cada passagem de polegar antes que ela apareça de surpresa e quebre a linha da escala.",
+        "es": "Detecta cada cruce del pulgar antes de que aparezca por sorpresa y rompa la línea de la escala.",
+        "de": "Verfolge jede Daumenbewegung, bevor sie deine Skala überrascht und die Linie zerbricht.",
+        "ja": "親指くぐりの場所を先回りで察知し、音階の流れを切らさないようにしよう。",
+        "zh-Hans": "提前侦测每一次拇指穿越，不让它突然打断你的音阶线条。"
+      }
+    },
+    "order": 42,
+    "createdAt": "2026-06-19T00:12:11Z",
+    "updatedAt": "2026-06-19T00:12:11Z"
+  },
+  {
+    "id": "piano-accent-pinball",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Accent Pinball",
+        "pt-BR": "Pinball de Acentos no Piano",
+        "es": "Pinball de Acentos en Piano",
+        "de": "Klavier-Akzent-Pinball",
+        "ja": "ピアノ・アクセント・ピンボール",
+        "zh-Hans": "钢琴重音弹珠台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce scale accents around the keyboard without losing balance, tone, or fingering control.",
+        "pt-BR": "Faça os acentos da escala quicarem pelo teclado sem perder equilíbrio, timbre ou controle de dedilhado.",
+        "es": "Haz rebotar los acentos de la escala por el teclado sin perder equilibrio, sonido ni control de digitación.",
+        "de": "Lass Skalenakzente über die Tastatur springen, ohne Balance, Klang oder Fingersatzkontrolle zu verlieren.",
+        "ja": "バランス、音色、運指の安定を保ったまま、スケールのアクセントを鍵盤上で跳ね回らせよう。",
+        "zh-Hans": "让音阶重音在键盘上弹跳，同时不丢掉平衡、音色和指法控制。"
+      }
+    },
+    "order": 43,
+    "createdAt": "2026-06-21T00:06:51Z",
+    "updatedAt": "2026-06-21T00:06:51Z"
+  },
+  {
+    "id": "piano-scale-periscope",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Periscope",
+        "pt-BR": "Periscópio das Escalas no Piano",
+        "es": "Periscopio de Escalas al Piano",
+        "de": "Klavier-Skalen-Periskop",
+        "ja": "ピアノ・スケール潜望鏡",
+        "zh-Hans": "钢琴音阶潜望镜"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Peek above the surface of your daily scale routine so both hands stay alert, balanced, and musically aware.",
+        "pt-BR": "Espie acima da superfície da sua rotina de escalas para manter as duas mãos alertas, equilibradas e musicais.",
+        "es": "Asómate por encima de la superficie de tu rutina diaria para que ambas manos sigan alertas, equilibradas y musicales.",
+        "de": "Schau über die Oberfläche deiner täglichen Skalenroutine hinaus, damit beide Hände wach, ausgewogen und musikalisch bleiben.",
+        "ja": "毎日のスケール練習の水面上をのぞき込み、両手の注意力・バランス・音楽性を保とう。",
+        "zh-Hans": "在每日音阶练习中不时浮出水面检查，让双手始终保持警觉、平衡和音乐性。"
+      }
+    },
+    "order": 44,
+    "createdAt": "2026-06-23T00:10:57Z",
+    "updatedAt": "2026-06-23T00:10:57Z"
+  },
+  {
+    "id": "piano-scale-moonwalk-switches",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Moonwalk Switches",
+        "pt-BR": "Piano: Trocas Moonwalk da Escala",
+        "es": "Piano: Cambios Moonwalk de Escala",
+        "de": "Piano: Moonwalk-Wechsel der Skala",
+        "ja": "ピアノ：スケール・ムーンウォーク切り替え",
+        "zh-Hans": "钢琴：音阶月球漫步切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train smooth scale control by switching direction, touch, and focus without breaking the line.",
+        "pt-BR": "Treine controle suave de escalas trocando direção, toque e foco sem quebrar a linha.",
+        "es": "Entrena un control suave de escalas cambiando dirección, toque y foco sin romper la línea.",
+        "de": "Trainiere geschmeidige Skalenkontrolle, indem du Richtung, Anschlag und Fokus wechselst, ohne die Linie zu zerbrechen.",
+        "ja": "方向、タッチ、意識の置き方を変えてもラインを切らさないスケールコントロールを鍛えます。",
+        "zh-Hans": "训练在不断线的前提下切换方向、触键和注意力的平滑音阶控制。"
+      }
+    },
+    "order": 45,
+    "createdAt": "2026-06-28T00:06:54Z",
+    "updatedAt": "2026-06-28T00:06:54Z"
+  },
+  {
+    "id": "piano-scale-starlight-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Starlight Checkpoints",
+        "pt-BR": "Checkpoints de Luz das Estrelas no Piano",
+        "es": "Checkpoints de Luz Estelar para Piano",
+        "de": "Sternenlicht-Checkpoints für Klavierskalen",
+        "ja": "ピアノ・スケールのスターライト・チェックポイント",
+        "zh-Hans": "钢琴音阶星光检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Guide two-octave scales through touch, rhythm, and balance checkpoints until both hands sound clear and calm.",
+        "pt-BR": "Guie escalas de duas oitavas por checkpoints de toque, ritmo e equilíbrio até as duas mãos soarem claras e calmas.",
+        "es": "Guía escalas de dos octavas por checkpoints de toque, ritmo y balance hasta que ambas manos suenen claras y tranquilas.",
+        "de": "Führe Zwei-Oktaven-Skalen durch Checkpoints für Anschlag, Rhythmus und Balance, bis beide Hände klar und ruhig klingen.",
+        "ja": "2オクターブの音階を、タッチ、リズム、バランスのチェックポイントで導き、両手を澄んで落ち着いた音に整えよう。",
+        "zh-Hans": "让两八度音阶穿过触键、节奏与平衡检查点，直到双手都清晰、平静而稳定。"
+      }
+    },
+    "order": 46,
+    "createdAt": "2026-06-29T00:10:43Z",
+    "updatedAt": "2026-06-29T00:10:43Z"
+  },
+  {
+    "id": "piano-scale-balance-beacons",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Balance Beacons",
+        "pt-BR": "Balizas de Equilíbrio da Escala",
+        "es": "Balizas de Equilibrio de la Escala",
+        "de": "Balance-Baken für Tonleitern",
+        "ja": "スケール・バランス・ビーコン",
+        "zh-Hans": "音阶平衡航标"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use clear piano checkpoints to keep both hands balanced, relaxed, and musical through daily scales.",
+        "pt-BR": "Use checkpoints claros no piano para manter as duas mãos equilibradas, relaxadas e musicais nas escalas diárias.",
+        "es": "Usa checkpoints claros en el piano para mantener ambas manos equilibradas, relajadas y musicales en las escalas diarias.",
+        "de": "Nutze klare Klavier-Checkpoints, damit beide Hände in der täglichen Tonleiterarbeit ausgeglichen, locker und musikalisch bleiben.",
+        "ja": "毎日の音階練習で両手のバランス、脱力、音楽性を保つための明確なチェックポイントを作る。",
+        "zh-Hans": "用清晰的钢琴检查点，让双手在日常音阶里保持平衡、放松和音乐性。"
+      }
+    },
+    "order": 47,
+    "createdAt": "2026-06-30T00:05:51Z",
+    "updatedAt": "2026-06-30T00:05:51Z"
+  },
+  {
+    "id": "piano-scale-escape-room",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Escape Room",
+        "pt-BR": "Escape Room das Escalas no Piano",
+        "es": "Escape Room de Escalas en Piano",
+        "de": "Klavier-Tonleiter-Escape-Room",
+        "ja": "ピアノ・スケール脱出ルーム",
+        "zh-Hans": "钢琴音阶密室逃脱"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Escape a technical puzzle by solving one scale problem at a time with both hands.",
+        "pt-BR": "Saia de um quebra-cabeça técnico resolvendo um problema de escala por vez com as duas mãos.",
+        "es": "Escapa de un rompecabezas técnico resolviendo un problema de escala a la vez con ambas manos.",
+        "de": "Entkomme einem Technikrätsel, indem du mit beiden Händen ein Skalenproblem nach dem anderen löst.",
+        "ja": "両手で1つずつ問題を解きながら、テクニックの謎部屋から脱出しよう。",
+        "zh-Hans": "用双手一次解决一个技术难题，从音阶密室里逃出来。"
+      }
+    },
+    "order": 48,
+    "createdAt": "2026-07-06T00:11:00Z",
+    "updatedAt": "2026-07-06T00:11:00Z"
+  },
+  {
+    "id": "piano-practice-pinball-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Pinball Checkpoints",
+        "pt-BR": "Checkpoints de Pinball no Estudo de Piano",
+        "es": "Checkpoints de Pinball para Practicar Piano",
+        "de": "Pinball-Checkpoints fürs Klavierüben",
+        "ja": "ピアノ練習ピンボール・チェックポイント",
+        "zh-Hans": "钢琴练习弹珠检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one scale into a smart practice game with checkpoints for touch, rhythm, and balance.",
+        "pt-BR": "Transforme uma escala em um jogo inteligente de estudo com checkpoints de toque, ritmo e equilíbrio.",
+        "es": "Convierte una escala en un juego inteligente de práctica con checkpoints de toque, ritmo y equilibrio.",
+        "de": "Mach aus einer Tonleiter ein kluges Übungsspiel mit Checkpoints für Anschlag, Rhythmus und Balance.",
+        "ja": "1つの音階を、タッチ・リズム・バランスを鍛える賢い練習ゲームに変える。",
+        "zh-Hans": "把一条音阶变成一个训练触键、节奏和平衡的聪明练习游戏。"
+      }
+    },
+    "order": 49,
+    "createdAt": "2026-07-08T00:09:29Z",
+    "updatedAt": "2026-07-08T00:09:29Z"
+  },
+  {
+    "id": "piano-scale-boss-bridge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Boss Bridge",
+        "pt-BR": "Ponte Chefão das Escalas no Piano",
+        "es": "Puente Jefe Final de Escalas al Piano",
+        "de": "Klavier-Skalen-Bossbrücke",
+        "ja": "ピアノ・スケール ボスブリッジ",
+        "zh-Hans": "钢琴音阶 Boss 之桥"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a daily scale routine that crosses from clean technique to musical control.",
+        "pt-BR": "Construa uma rotina diária de escalas que cruza técnica limpa com controle musical.",
+        "es": "Construye una rutina diaria de escalas que una técnica limpia y control musical.",
+        "de": "Baue eine tägliche Skalenroutine, die saubere Technik mit musikalischer Kontrolle verbindet.",
+        "ja": "きれいな技術から音楽的コントロールへ渡る毎日の音階ルーティンを作ろう。",
+        "zh-Hans": "建立一套把干净技术连接到音乐控制力的日常音阶练习。"
+      }
+    },
+    "order": 50,
+    "createdAt": "2026-07-10T00:07:55Z",
+    "updatedAt": "2026-07-10T00:07:55Z"
+  },
+  {
+    "id": "piano-scale-launchpad",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Launchpad",
+        "pt-BR": "Plataforma de Lançamento das Escalas no Piano",
+        "es": "Plataforma de Lanzamiento de Escalas al Piano",
+        "de": "Klavier-Tonleiter-Launchpad",
+        "ja": "ピアノ・スケール発射台",
+        "zh-Hans": "钢琴音阶发射台"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a daily scale routine into a controlled launch with balanced hands, clear tone, and musical momentum.",
+        "pt-BR": "Transforme a rotina diária de escalas em um lançamento controlado com mãos equilibradas, timbre claro e impulso musical.",
+        "es": "Convierte la rutina diaria de escalas en un lanzamiento controlado con manos equilibradas, sonido claro y impulso musical.",
+        "de": "Verwandle deine tägliche Tonleiter-Routine in einen kontrollierten Start mit ausgeglichenen Händen, klarem Klang und musikalischem Schwung.",
+        "ja": "毎日のスケール練習を、両手のバランス、明るい音色、音楽的な推進力を備えたコントロールされた打ち上げに変えよう。",
+        "zh-Hans": "把每日音阶练习变成一次可控的发射，兼顾双手平衡、清晰音色和音乐性的推进感。"
+      }
+    },
+    "order": 51,
+    "createdAt": "2026-07-12T00:08:18Z",
+    "updatedAt": "2026-07-12T00:08:18Z"
+  },
+  {
+    "id": "piano-scale-runway-switches",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Runway Switches",
+        "pt-BR": "Mudanças de Pista nas Escalas de Piano",
+        "es": "Cambios de Pista para Escalas de Piano",
+        "de": "Klavier-Tonleiter-Runway-Switches",
+        "ja": "ピアノ・スケール・ランウェイスイッチ",
+        "zh-Hans": "钢琴音阶跑道切换"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Sharpen scale control by switching touch, dynamics, and direction through a runway-style Bb major drill.",
+        "pt-BR": "Afi e o controle de escalas alternando toque, dinâmica e direção em um exercício estilo pista em Sib maior.",
+        "es": "Afina el control de escalas alternando toque, dinámica y dirección en un ejercicio tipo pista en Sib mayor.",
+        "de": "Schärfe deine Tonleiterkontrolle, indem du Anschlag, Dynamik und Richtung in einer Bb-Dur-Runway-Übung wechselst.",
+        "ja": "Bbメジャーの滑走路ドリルでタッチ、ダイナミクス、動きを切り替え、スケールのコントロールを磨きます。",
+        "zh-Hans": "在 Bb 大调的跑道式练习中切换触键、力度和方向，提升音阶控制力。"
+      }
+    },
+    "order": 52,
+    "createdAt": "2026-07-13T00:08:22Z",
+    "updatedAt": "2026-07-13T00:08:22Z"
+  },
+  {
+    "id": "piano-scale-gravity-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Gravity Lab",
+        "pt-BR": "Laboratório da Gravidade das Escalas no Piano",
+        "es": "Laboratorio de Gravedad para Escalas en Piano",
+        "de": "Klavier-Tonleiter-Schwerkraftlabor",
+        "ja": "ピアノ・スケール重力ラボ",
+        "zh-Hans": "钢琴音阶重力实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make scale practice feel musical by controlling weight, balance, and landing points in both hands.",
+        "pt-BR": "Deixe o estudo de escalas mais musical controlando peso, equilíbrio e pontos de chegada nas duas mãos.",
+        "es": "Haz que el estudio de escalas sea más musical controlando peso, balance y puntos de llegada en ambas manos.",
+        "de": "Mach dein Tonleiterüben musikalischer, indem du Gewicht, Balance und Landepunkte in beiden Händen steuerst.",
+        "ja": "両手の重さ、バランス、着地点をコントロールして、スケール練習をもっと音楽的にするレッスンです。",
+        "zh-Hans": "通过控制双手的重量、平衡和落点，让音阶练习更有音乐性。"
+      }
+    },
+    "order": 53,
+    "createdAt": "2026-07-14T00:05:00Z",
+    "updatedAt": "2026-07-14T00:05:00Z"
   }
 ]

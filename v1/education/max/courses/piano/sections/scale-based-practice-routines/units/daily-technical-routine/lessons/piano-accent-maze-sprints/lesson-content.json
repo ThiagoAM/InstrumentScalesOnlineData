@@ -1,0 +1,73 @@
+{
+  "id": "piano-accent-maze-sprints",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **C major** first, two octaves if comfortable, and set the metronome to **76-92 BPM**. Imagine your scale run is a maze with invisible walls: the notes stay familiar, but the route becomes tricky because your **accents**, **finger preparation**, and **dynamic control** keep changing. The goal is not speed alone — it is staying calm while the maze gets smarter.",
+          "pt-BR": "Escolha primeiro **Dó maior**, em duas oitavas se estiver confortável, e coloque o metrônomo entre **76-92 BPM**. Imagine que sua escala é um labirinto com paredes invisíveis: as notas continuam familiares, mas o caminho fica traiçoeiro porque seus **acentos**, a **preparação dos dedos** e o **controle dinâmico** mudam o tempo todo. A meta não é só velocidade — é manter a calma enquanto o labirinto fica mais esperto.",
+          "es": "Elige primero **Do mayor**, dos octavas si te resulta cómodo, y pon el metrónomo entre **76-92 BPM**. Imagina que tu escala es un laberinto con paredes invisibles: las notas siguen siendo conocidas, pero el recorrido se complica porque tus **acentos**, la **preparación de los dedos** y el **control dinámico** cambian constantemente. La meta no es solo velocidad: es mantener la calma mientras el laberinto se vuelve más inteligente.",
+          "de": "Wähle zuerst **C-Dur**, wenn möglich über zwei Oktaven, und stelle das Metronom auf **76-92 BPM**. Stell dir deinen Skalenlauf als Labyrinth mit unsichtbaren Wänden vor: Die Töne bleiben vertraut, aber der Weg wird knifflig, weil sich **Akzente**, **Finger-Vorbereitung** und **dynamische Kontrolle** ständig verändern. Das Ziel ist nicht nur Tempo — sondern Ruhe zu behalten, während das Labyrinth klüger wird.",
+          "ja": "まずは **ハ長調** を選び、無理がなければ2オクターブで弾きましょう。メトロノームは **76〜92 BPM** に設定します。スケール走行を見えない壁のある迷路だと思ってください。音自体はおなじみでも、**アクセント**、**指の準備**、**ダイナミクスの管理** が変わり続けることで道が難しくなります。目標は速さだけではなく、迷路が賢くなっても落ち着きを保つことです。",
+          "zh-Hans": "先选择 **C大调**，如果舒服就弹两组八度，并把节拍器设在 **76-92 BPM**。把你的音阶想成一座有隐形墙的迷宫：音符本身并不陌生，但因为 **重音**、**手指准备** 和 **力度控制** 不断变化，路线会突然变得复杂。目标不只是速度，而是在迷宫越来越聪明时，依然保持冷静。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sprint 1 is the **straight-path round**. Play one full scale up and down with accents every **four notes**. Keep the hand shape quiet and prepare the thumb before each crossing. If an accent causes the next note to tighten or bang, the maze already found your weak corner.",
+          "pt-BR": "O Sprint 1 é a **rodada do caminho reto**. Toque uma escala completa subindo e descendo com acentos a cada **quatro notas**. Mantenha a forma da mão tranquila e prepare o polegar antes de cada passagem. Se um acento fizer a nota seguinte endurecer ou estourar, o labirinto já encontrou seu canto fraco.",
+          "es": "El Sprint 1 es la **ronda del camino recto**. Toca una escala completa subiendo y bajando con acentos cada **cuatro notas**. Mantén la forma de la mano tranquila y prepara el pulgar antes de cada cruce. Si un acento hace que la nota siguiente se tense o golpee demasiado, el laberinto ya encontró tu rincón débil.",
+          "de": "Sprint 1 ist die **Geradeaus-Runde**. Spiele eine vollständige Skala auf und ab mit einem Akzent auf jede **vierte Note**. Halte die Handform ruhig und bereite den Daumen vor jedem Untersetzen vor. Wenn ein Akzent dazu führt, dass der nächste Ton hart oder verkrampft klingt, hat das Labyrinth deine Schwachstelle schon gefunden.",
+          "ja": "スプリント1は **まっすぐルート**。4音ごとに **アクセント** を付けて、スケールを上行・下行で1回ずつ弾きます。手の形は静かに保ち、親指くぐりの前には必ず準備をします。アクセントのせいで次の音が固くなったり強打になったりするなら、迷路はすでに弱点を見つけています。",
+          "zh-Hans": "第1轮冲刺是 **直线路线**。完整地上下行弹一遍音阶，每 **4个音** 加一个重音。保持手型安静，并在每次拇指穿越之前提前准备。如果某个重音让下一个音变得紧、硬或砸键，那迷宫已经找到了你的薄弱角落。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sprint 2 is the **wrong-turn round**. Now move the accent pattern so it hits every **three notes** instead. The scale has not changed, but the feeling of balance absolutely has. Count out loud if needed. This is where many players discover they only feel secure when the pattern is predictable.",
+          "pt-BR": "O Sprint 2 é a **rodada da curva errada**. Agora mude o padrão de acentos para cair a cada **três notas**. A escala não mudou, mas a sensação de equilíbrio mudou totalmente. Conte em voz alta se precisar. É aqui que muita gente descobre que só se sente segura quando o padrão é previsível.",
+          "es": "El Sprint 2 es la **ronda del giro equivocado**. Ahora mueve el patrón de acentos para que caiga cada **tres notas**. La escala no cambió, pero la sensación de equilibrio sí cambió por completo. Cuenta en voz alta si hace falta. Aquí muchos pianistas descubren que solo se sienten seguros cuando el patrón es predecible.",
+          "de": "Sprint 2 ist die **Falschabbiege-Runde**. Verschiebe jetzt das Akzentmuster so, dass der Akzent jede **dritte Note** trifft. Die Skala ist gleich geblieben, aber das Gleichgewichtsgefühl verändert sich komplett. Zähle laut mit, wenn nötig. Hier merken viele Spieler, dass sie sich nur sicher fühlen, wenn das Muster vorhersehbar ist.",
+          "ja": "スプリント2は **曲がり角ミスルート**。今度はアクセントを **3音ごと** に移します。スケールそのものは変わっていませんが、バランス感覚は大きく変わります。必要なら声に出して数えましょう。多くの人がここで、予測できる並びのときだけ安心していたことに気づきます。",
+          "zh-Hans": "第2轮冲刺是 **拐错弯路线**。现在把重音模式改成每 **3个音** 出现一次。音阶没有变，但平衡感完全变了。必要时就大声数拍。很多人会在这里发现，自己只有在模式可预测时才觉得安全。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sprint 3 is the **wall-jump round**. On the ascent, crescendo slightly toward the top. On the descent, keep the same accent pattern but return with a lighter tone. Your fingers must stay brave while your sound becomes more flexible. Technique is not just getting through the maze; it is choosing how you travel through it.",
+          "pt-BR": "O Sprint 3 é a **rodada do salto sobre o muro**. Na subida, faça um pequeno crescendo até o topo. Na descida, mantenha o mesmo padrão de acentos, mas volte com um som mais leve. Seus dedos precisam continuar corajosos enquanto o som fica mais flexível. Técnica não é apenas atravessar o labirinto; é escolher como atravessá-lo.",
+          "es": "El Sprint 3 es la **ronda del salto de muro**. En el ascenso, haz un pequeño crescendo hacia la cima. En el descenso, mantén el mismo patrón de acentos pero regresa con un sonido más ligero. Tus dedos deben seguir siendo valientes mientras tu sonido se vuelve más flexible. La técnica no es solo salir del laberinto; es elegir cómo lo recorres.",
+          "de": "Sprint 3 ist die **Mauersprung-Runde**. Auf dem Weg nach oben spielst du ein leichtes Crescendo zur Spitze hin. Beim Abstieg bleibt das gleiche Akzentmuster, aber der Klang wird leichter. Deine Finger müssen mutig bleiben, während dein Klang flexibler wird. Technik heißt nicht nur, aus dem Labyrinth herauszukommen — sondern zu entscheiden, wie du dich hindurchbewegst.",
+          "ja": "スプリント3は **壁越えルート**。上行では頂点に向かって少しクレッシェンドし、下行では同じアクセント配置のまま、より軽い音で戻ります。指は勇敢なまま、音色は柔軟でなければなりません。テクニックとは迷路を抜けることだけでなく、どう通り抜けるかを選ぶことです。",
+          "zh-Hans": "第3轮冲刺是 **翻墙路线**。上行时向最高点做一个轻微渐强；下行时保持同样的重音模式，但用更轻的音色返回。你的手指必须继续勇敢，而声音要变得更灵活。技巧不只是穿过迷宫，而是决定你要怎样穿过它。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: run the maze **three times in a row** with no stop.\n1. accents every 4 notes\n2. accents every 3 notes\n3. no planned accents, but one clear musical shape\n\nAfterward, ask:\n- Which round disturbed my fingering the most?\n- Did the thumb crossings stay prepared, or did they happen late?\n- Could I change the sound without losing the pulse?\n\nIf the maze exposed a messy corner, good. That is the exact corner where tomorrow's technique becomes real. 🎹",
+          "pt-BR": "Desafio final: percorra o labirinto **três vezes seguidas** sem parar.\n1. acentos a cada 4 notas\n2. acentos a cada 3 notas\n3. sem acentos planejados, mas com uma forma musical clara\n\nDepois, pergunte:\n- Em qual rodada meu dedilhado mais se desorganizou?\n- As passagens de polegar ficaram preparadas ou chegaram atrasadas?\n- Consegui mudar o som sem perder a pulsação?\n\nSe o labirinto revelou um canto bagunçado, ótimo. É exatamente ali que a técnica de amanhã começa a ficar real. 🎹",
+          "es": "Desafío final: recorre el laberinto **tres veces seguidas** sin detenerte.\n1. acentos cada 4 notas\n2. acentos cada 3 notas\n3. sin acentos planeados, pero con una forma musical clara\n\nDespués, pregúntate:\n- ¿Qué ronda desordenó más mi digitación?\n- ¿Los cruces de pulgar quedaron preparados o llegaron tarde?\n- ¿Pude cambiar el sonido sin perder el pulso?\n\nSi el laberinto mostró un rincón desordenado, perfecto. Justo ahí es donde la técnica de mañana empieza a ser real. 🎹",
+          "de": "Abschluss-Challenge: Laufe das Labyrinth **dreimal hintereinander** ohne anzuhalten.\n1. Akzente alle 4 Noten\n2. Akzente alle 3 Noten\n3. keine geplanten Akzente, aber eine klare musikalische Form\n\nFrage dich danach:\n- Welche Runde hat meinen Fingersatz am meisten gestört?\n- Waren die Daumenuntersätze vorbereitet oder zu spät?\n- Konnte ich den Klang ändern, ohne den Puls zu verlieren?\n\nWenn das Labyrinth eine chaotische Ecke aufgedeckt hat, wunderbar. Genau dort wird die Technik von morgen echt. 🎹",
+          "ja": "最後の課題です。迷路を **3回連続** で止まらずに走ります。\n1. 4音ごとにアクセント\n2. 3音ごとにアクセント\n3. 計画したアクセントなし、ただし明確な音楽的形を作る\n\n終わったら次を確認してください。\n- どのラウンドで運指が最も乱れたか？\n- 親指くぐりは準備できていたか、それとも遅れたか？\n- 音色を変えても拍の流れを失わなかったか？\n\n迷路が乱れた角を見せてくれたなら、それは良いことです。そこが明日のテクニックを本物にする場所です。 🎹",
+          "zh-Hans": "最终挑战：连续 **3次** 跑完整个迷宫，中间不停。\n1. 每4个音一个重音\n2. 每3个音一个重音\n3. 不预设重音，但要有清晰的音乐线条\n\n结束后问自己：\n- 哪一轮最容易打乱我的指法？\n- 拇指穿越是提前准备好的，还是总是来晚？\n- 我能在不丢掉脉冲的情况下改变音色吗？\n\n如果迷宫暴露出一个混乱角落，那反而很好。那里正是明天的技术开始变真实的地方。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-15T00:07:08Z",
+  "updatedAt": "2026-05-15T00:07:08Z"
+}

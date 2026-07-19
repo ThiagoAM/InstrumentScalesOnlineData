@@ -1,0 +1,73 @@
+{
+  "id": "root-third-bounce-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warmup: Play a one‑octave C major scale and say scale degrees 1–3–5–6. Feel where the 3rd sits under your fingers.",
+          "pt-BR": "Aquecimento: Toque a escala de Dó maior em uma oitava e fale os graus 1–3–5–6. Sinta onde a terça fica sob os dedos.",
+          "es": "Calentamiento: Toca la escala de Do mayor a una octava y di los grados 1–3–5–6. Siente dónde cae la tercera bajo tus dedos.",
+          "de": "Warm-up: Spiele eine C‑Dur‑Tonleiter über eine Oktave und sprich die Stufen 1–3–5–6. Spüre, wo die Terz unter den Fingern liegt.",
+          "ja": "ウォームアップ：Cメジャーを1オクターブで弾き、度数1–3–5–6を声に出す。サードの位置を指で感じる。",
+          "zh-Hans": "热身：弹一遍C大调一八度，并说出级数1–3–5–6。感受三度在手下的位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove recipe: Create a 1‑bar groove using 1–3–5–6 with two rests. Keep the root on beat 1 and place the third on the “and” of 2.",
+          "pt-BR": "Receita de groove: Crie um groove de 1 compasso usando 1–3–5–6 com duas pausas. Mantenha a tônica no tempo 1 e coloque a terça no “e” do tempo 2.",
+          "es": "Receta de groove: Crea un groove de 1 compás usando 1–3–5–6 con dos silencios. Mantén la tónica en el tiempo 1 y coloca la tercera en la “y” del 2.",
+          "de": "Groove-Rezept: Erstelle einen 1‑Takt‑Groove mit 1–3–5–6 und zwei Pausen. Der Grundton auf Zählzeit 1, die Terz auf das „und“ von 2.",
+          "ja": "グルーヴのレシピ：1–3–5–6と2つの休符で1小節グルーヴを作る。1拍目はルート、2拍目裏にサードを置く。",
+          "zh-Hans": "律动配方：用1–3–5–6加两个休止做一个1小节律动。第1拍放根音，第2拍“后半拍”放三度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: Add ghost notes on the muted strings and accent the third. Keep the timing tight at 80–100 bpm.",
+          "pt-BR": "Desafio: Adicione ghost notes nas cordas abafadas e acentue a terça. Mantenha o tempo firme a 80–100 bpm.",
+          "es": "Desafío: Añade ghost notes en cuerdas apagadas y acentúa la tercera. Mantén el tiempo firme a 80–100 bpm.",
+          "de": "Challenge: Füge Ghost Notes auf gedämpften Saiten hinzu und akzentuiere die Terz. Timing straff bei 80–100 bpm.",
+          "ja": "チャレンジ：ミュートした弦にゴーストノートを入れ、サードを強調。80〜100 bpmでタイトに。",
+          "zh-Hans": "挑战：在闷音弦上加入幽灵音，并强调三度。80–100 bpm保持紧凑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Apply: Move the pattern through C–F–G. Land the root and third of each chord, and keep the same rhythmic grid.",
+          "pt-BR": "Aplicação: Leve o padrão por C–F–G. Aterre a tônica e a terça de cada acorde e mantenha o mesmo grid rítmico.",
+          "es": "Aplicación: Lleva el patrón por C–F–G. Aterriza tónica y tercera de cada acorde y conserva la misma cuadrícula rítmica.",
+          "de": "Anwendung: Bewege das Muster durch C–F–G. Triff Grundton und Terz jedes Akkords und behalte das gleiche Rhythmus‑Raster.",
+          "ja": "応用：C–F–Gにパターンを移動。各コードのルートとサードに着地し、同じリズムグリッドを維持する。",
+          "zh-Hans": "应用：把模式移动到C–F–G。每个和弦都落在根音与三度，并保持相同的节奏网格。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: Loop 4 bars for 2 minutes. If the pocket wobbles, simplify to root‑third only, then rebuild.",
+          "pt-BR": "Checkpoint: Faça loop de 4 compassos por 2 minutos. Se o groove oscilar, simplifique para tônica‑terça e depois reconstrua.",
+          "es": "Checkpoint: Haz loop de 4 compases por 2 minutos. Si el groove se tambalea, simplifica a tónica‑tercera y luego reconstruye.",
+          "de": "Checkpoint: Loopen 4 Takte für 2 Minuten. Wenn der Pocket wackelt, vereinfache auf Grundton‑Terz und baue dann wieder auf.",
+          "ja": "チェックポイント：4小節を2分間ループ。グルーヴが揺れたら、ルート‑サードだけにしてから組み直す。",
+          "zh-Hans": "检查点：循环4小节2分钟。如果律动飘了，先简化为根音‑三度，再重新搭建。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-31T00:06:59Z",
+  "updatedAt": "2026-03-31T00:06:59Z"
+}

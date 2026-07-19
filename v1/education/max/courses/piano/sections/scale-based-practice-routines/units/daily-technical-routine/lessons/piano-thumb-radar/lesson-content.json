@@ -1,0 +1,60 @@
+{
+  "id": "piano-thumb-radar",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose D major, two octaves, hands together. Before playing, tap the thumb-crossing points on the lid or fallboard and say them out loud: “thumb under… thumb over… smooth landing.” Then play slowly enough that every crossing feels predicted, not rescued.",
+          "pt-BR": "Escolha Ré maior, duas oitavas, mãos juntas. Antes de tocar, marque os pontos de passagem do polegar na tampa ou no painel do piano e diga em voz alta: “polegar por baixo… polegar por cima… chegada suave”. Depois toque devagar o bastante para que cada passagem pareça prevista, e não salva no susto.",
+          "es": "Elige Re mayor, dos octavas, manos juntas. Antes de tocar, marca los puntos de cruce del pulgar en la tapa o en el atril y dilo en voz alta: “pulgar por debajo… pulgar por encima… aterrizaje suave”. Luego toca lo bastante lento como para que cada cruce se sienta previsto y no rescatado a última hora.",
+          "de": "Wähle D-Dur, zwei Oktaven, beide Hände zusammen. Bevor du spielst, tippe die Daumenübergänge auf Deckel oder Klaviaturrand an und sage laut: „Daumen unter… Daumen drüber… weich landen.“ Spiele dann langsam genug, dass sich jede Bewegung vorhergesehen anfühlt und nicht im letzten Moment gerettet.",
+          "ja": "Dメジャーを2オクターブ、両手ユニゾンで選びます。弾く前に、親指のくぐり・またぎが起こる場所をふたや譜面台に軽くタップしながら、「親指くぐる… 親指またぐ… やわらかく着地」と声に出しましょう。そのあと、各ポイントが“予測できている”と感じられる速さで弾きます。慌てて救う速さではなく、見えている速さです。",
+          "zh-Hans": "选择D大调，两八度，双手齐奏。弹之前，先在琴盖或谱架上轻点拇指穿越的位置，并大声说出来：“拇指钻下去……拇指翻过去……平稳落地。”然后用足够慢的速度去弹，让每一次穿越都像是提前预判到的，而不是临时补救。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now turn on the radar challenge: the instant a thumb crossing arrives, slightly lighten your wrist and aim for a connected tone instead of a percussive jab. If one note pops out too hard, stop and replay only the three-note window around the crossing. Tiny repairs beat messy full-speed repetitions.",
+          "pt-BR": "Agora ligue o desafio do radar: no instante em que a passagem do polegar chegar, alivie levemente o punho e procure um som ligado, em vez de uma martelada percussiva. Se uma nota saltar demais, pare e repita só a janela de três notas ao redor da passagem. Pequenos consertos vencem repetições bagunçadas em alta velocidade.",
+          "es": "Ahora activa el reto del radar: en el instante en que llegue el cruce del pulgar, aligera un poco la muñeca y busca un sonido conectado en vez de un golpe percusivo. Si una nota sobresale demasiado, detente y repite solo la ventana de tres notas alrededor del cruce. Las micro-reparaciones ganan a las repeticiones desordenadas a toda velocidad.",
+          "de": "Jetzt wird das Radar aktiv: In dem Moment, in dem der Daumenübergang kommt, entspannst du das Handgelenk leicht und zielst auf einen verbundenen Ton statt auf einen perkussiven Schlag. Wenn ein Ton zu hart heraussticht, stoppe und wiederhole nur das Drei-Noten-Fenster um den Übergang herum. Kleine Reparaturen schlagen chaotische Vollgas-Wiederholungen.",
+          "ja": "次はレーダーチャレンジです。親指の動きが来た瞬間、手首を少しだけ軽くして、打鍵の強い突き刺さる音ではなく、つながった音を目指します。1音だけ強く飛び出したら止まり、その周辺3音だけを弾き直してください。雑な高速反復より、小さな修理のほうが効きます。",
+          "zh-Hans": "现在启动雷达挑战：拇指穿越一到，就微微放松手腕，追求连贯的声音，而不是像敲钉子一样的冲击感。如果某个音突然太突出，立刻停下，只重练穿越附近那三颗音。小范围修补，比整条乱冲的高速重复更有效。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, split the hands by character. Left hand plays warm and legato; right hand plays bright but still even. Same scale, two personalities. This forces you to monitor balance while the thumbs keep moving under and over. Real control means the crossing stays invisible to the listener.",
+          "pt-BR": "Em seguida, dê personalidades diferentes às mãos. A esquerda toca quente e legato; a direita, brilhante, mas ainda uniforme. É a mesma escala com duas vozes. Isso obriga você a vigiar o equilíbrio enquanto os polegares passam por baixo e por cima. Controle real é quando a passagem fica invisível para quem escuta.",
+          "es": "Después, separa el carácter de las manos. La izquierda toca cálida y legato; la derecha, brillante pero pareja. Es la misma escala con dos personalidades. Esto te obliga a vigilar el balance mientras los pulgares siguen pasando por debajo y por encima. El verdadero control es que el oyente no note el cruce.",
+          "de": "Als Nächstes bekommen die Hände unterschiedliche Rollen. Die linke Hand spielt warm und legato, die rechte hell, aber trotzdem gleichmäßig. Dieselbe Skala, zwei Persönlichkeiten. So musst du die Balance kontrollieren, während die Daumen weiter unter- und übergreifen. Echte Kontrolle bedeutet, dass der Übergang für Zuhörer unsichtbar bleibt.",
+          "ja": "続いて、左右の手に別のキャラクターを与えます。左手は温かくレガート、右手は明るいけれど均一。同じ音階でも二つの人格です。親指が下にも上にも動くあいだ、バランスを監視し続ける必要があります。本当のコントロールとは、聴き手に親指移動を気づかせないことです。",
+          "zh-Hans": "接着让两只手拥有不同性格。左手温暖而连贯，右手明亮但依然均匀。同一条音阶，两个角色。这会迫使你在拇指不断穿下穿上的过程中持续监控平衡。真正的控制，是让听众几乎察觉不到拇指穿越这件事。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: play four clean runs in a row. Run 1 at comfort tempo. Run 2 with a crescendo up and diminuendo down. Run 3 with accents every third note. Run 4 back at plain tone, but smoother than run 1. If the last run feels easier, your radar is working: you are no longer surprised by the crossings.",
+          "pt-BR": "Missão final: toque quatro passadas limpas seguidas. A 1ª no andamento confortável. A 2ª com crescendo na subida e diminuendo na descida. A 3ª com acento a cada terceira nota. A 4ª volta ao som neutro, mas mais suave do que a 1ª. Se a última parecer mais fácil, o radar funcionou: as passagens deixaram de te surpreender.",
+          "es": "Misión final: toca cuatro pasadas limpias seguidas. La 1 en tempo cómodo. La 2 con crescendo al subir y diminuendo al bajar. La 3 con acento cada tres notas. La 4 vuelve al sonido simple, pero más suave que la 1. Si la última se siente más fácil, el radar está funcionando: los cruces ya no te sorprenden.",
+          "de": "Finale Mission: Spiele vier saubere Durchgänge hintereinander. Durchgang 1 im Wohlfühltempo. Durchgang 2 mit Crescendo nach oben und Diminuendo nach unten. Durchgang 3 mit Akzent auf jeder dritten Note. Durchgang 4 wieder mit schlichtem Ton, aber glatter als Durchgang 1. Wenn sich der letzte Lauf leichter anfühlt, funktioniert dein Radar: Die Übergänge überraschen dich nicht mehr.",
+          "ja": "最後のミッションは、きれいな通しを4回続けること。1回目は快適なテンポ。2回目は上行でクレッシェンド、下行でデクレッシェンド。3回目は3音ごとにアクセント。4回目はふつうの音色に戻すけれど、1回目よりなめらかに。最後がいちばん楽に感じたなら、レーダー成功です。もう親指移動に驚かされていません。",
+          "zh-Hans": "最后任务：连续完成四次干净通关。第1次用舒适速度。第2次上行渐强、下行渐弱。第3次每三个音加一次重音。第4次回到朴素音色，但要比第1次更顺。如果最后一次反而更轻松，说明你的雷达已经生效：拇指穿越不再会突然吓到你。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-19T00:12:11Z",
+  "updatedAt": "2026-06-19T00:12:11Z"
+}

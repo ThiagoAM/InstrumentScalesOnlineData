@@ -1,0 +1,60 @@
+{
+  "id": "bass-pocket-fire-drill",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Drill briefing\nThis lesson lives in **G major**. Imagine the groove alarm just went off: you need to stay calm, lock the pulse, and make simple notes feel huge. Keep your line centered on **root, 3rd, 5th, and 6th** before adding anything fancy.",
+          "pt-BR": "# Briefing do treino\nEsta lição acontece em **Sol maior**. Imagine que o alarme do groove disparou: você precisa ficar calmo, travar o pulso e fazer notas simples soarem enormes. Mantenha a linha centrada em **tônica, terça, quinta e sexta** antes de enfeitar.",
+          "es": "# Informe del ejercicio\nEsta lección vive en **Sol mayor**. Imagina que acaba de sonar la alarma del groove: debes mantener la calma, fijar el pulso y hacer que notas simples suenen enormes. Mantén la línea centrada en **tónica, tercera, quinta y sexta** antes de añadir adornos.",
+          "de": "# Einsatzbesprechung\nDiese Lektion spielt in **G-Dur**. Stell dir vor, der Groove-Alarm ist losgegangen: Du musst ruhig bleiben, den Puls festhalten und einfache Töne groß klingen lassen. Halte deine Linie zuerst bei **Grundton, Terz, Quinte und Sexte**, bevor du Verzierungen hinzufügst.",
+          "ja": "# 訓練ブリーフィング\nこのレッスンは **Gメジャー** です。グルーヴ警報が鳴ったと想像してください。落ち着いて拍を固定し、シンプルな音を大きく聞かせる必要があります。まずは **ルート、3度、5度、6度** を中心にラインを作り、あとで飾りを足します。",
+          "zh-Hans": "# 演练说明\n这节课在 **G大调** 中进行。想象一下，groove警报突然响了：你必须保持冷静，锁住脉冲，让简单的音也显得很有分量。先围绕 **根音、三度、五度、六度** 建立线条，再考虑花样。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Round 1 – Strong floor, light feet\nCreate a **one-bar groove** with mostly quarter notes and one pair of eighth notes. Land beat 1 hard on **G**, then use the 3rd, 5th, or 6th to keep the line moving without sounding busy.",
+          "pt-BR": "# Rodada 1 – Chão firme, pé leve\nCrie um **groove de 1 compasso** com principalmente semínimas e apenas um par de colcheias. Faça o tempo 1 cair forte em **Sol** e use a terça, a quinta ou a sexta para mover a linha sem deixá-la carregada.",
+          "es": "# Ronda 1 – Piso firme, pies ligeros\nCrea un **groove de 1 compás** con principalmente negras y solo un par de corcheas. Haz que el tiempo 1 caiga fuerte en **Sol** y usa la tercera, la quinta o la sexta para mover la línea sin llenarla de más.",
+          "de": "# Runde 1 – Fester Boden, leichte Füße\nErstelle einen **eintaktigen Groove** mit hauptsächlich Vierteln und nur einem Achtelpaar. Lass Zählzeit 1 kräftig auf **G** landen und nutze Terz, Quinte oder Sexte, damit sich die Linie bewegt, ohne überladen zu wirken.",
+          "ja": "# ラウンド1 – 強い床、軽い足\n主に4分音符と1組の8分音符だけで、**1小節のグルーヴ**を作ります。1拍目はしっかり **G** に置き、3度・5度・6度でラインを動かしつつ、詰め込みすぎないようにします。",
+          "zh-Hans": "# 第一轮 – 地面稳，脚步轻\n先做一个 **1小节 groove**，以四分音符为主，只加一组八分音符。第1拍要稳稳落在 **G** 上，再用三度、五度或六度推动线条，但不要显得太忙。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Round 2 – Add one risky note\nOn the last two beats, add **one passing note** from the G major scale that leads smoothly into your next bar. If the passing note weakens the groove, remove it. Pocket comes first, decoration second.",
+          "pt-BR": "# Rodada 2 – Uma nota de risco\nNos dois últimos tempos, adicione **uma nota de passagem** da escala de Sol maior que leve com suavidade ao próximo compasso. Se essa nota enfraquecer o groove, tire. O pocket vem antes do enfeite.",
+          "es": "# Ronda 2 – Una nota arriesgada\nEn los dos últimos tiempos, añade **una nota de paso** de la escala de Sol mayor que conduzca suavemente al siguiente compás. Si esa nota debilita el groove, quítala. El pocket va primero; el adorno, después.",
+          "de": "# Runde 2 – Ein riskanter Ton\nFüge auf den letzten zwei Zählzeiten **einen Durchgangston** aus der G-Dur-Tonleiter hinzu, der sauber in den nächsten Takt führt. Wenn dieser Ton den Groove schwächt, nimm ihn wieder raus. Pocket zuerst, Deko danach.",
+          "ja": "# ラウンド2 – 1つだけ危険な音\n最後の2拍で、次の小節へ自然につながる **経過音を1つ** Gメジャースケールから加えます。その音でグルーヴが弱くなるなら外してください。ポケットが先、飾りは後です。",
+          "zh-Hans": "# 第二轮 – 加一个冒险音\n在最后两拍里，加 **一个经过音**，并让它顺畅地带向下一小节。如果这个音削弱了groove，就删掉它。先有 pocket，再谈装饰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Final drill\nPlay your groove for **8 bars** without drifting in tempo or dynamics. In bars 5–8, make tiny changes with articulation, note length, or a ghost note, but keep the identity of the groove intact. Record it once and ask: does this feel dependable enough for a band to sit on?",
+          "pt-BR": "# Treino final\nToque seu groove por **8 compassos** sem deixar o andamento ou a dinâmica escaparem. Nos compassos 5–8, faça mudanças pequenas de articulação, duração da nota ou ghost note, mas mantenha a identidade do groove. Grave e pergunte: isso está confiável o bastante para uma banda inteira se apoiar?",
+          "es": "# Ejercicio final\nToca tu groove durante **8 compases** sin que se muevan el tempo ni la dinámica. En los compases 5–8, haz cambios mínimos de articulación, duración o ghost note, pero conserva la identidad del groove. Grábalo y pregúntate: ¿esto se siente lo bastante confiable como para que una banda entera se apoye en él?",
+          "de": "# Abschlussübung\nSpiele deinen Groove **8 Takte** lang, ohne dass Tempo oder Dynamik wegdriften. In Takt 5–8 darfst du kleine Änderungen bei Artikulation, Notenlänge oder Ghost Note machen, aber die Identität des Grooves muss gleich bleiben. Nimm es auf und frage dich: Ist das verlässlich genug, damit eine ganze Band darauf sitzen kann?",
+          "ja": "# 最終訓練\nそのグルーヴを **8小節** 続け、テンポもダイナミクスもぶらさないようにします。5〜8小節目では、アーティキュレーション、音価、ゴーストノートで少しだけ変化をつけてください。ただしグルーヴの正体は保つこと。録音して、自分に問いましょう。これはバンド全体が安心して乗れるラインか？",
+          "zh-Hans": "# 最终演练\n把这个 groove 连续弹 **8小节**，不要让速度或力度漂走。第5到第8小节可以通过发音、音长或幽灵音做一点小变化，但 groove 的身份不能变。录下来问自己：这条线稳到足够让整支乐队都放心压在上面吗？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-12T00:09:00Z",
+  "updatedAt": "2026-06-12T00:09:00Z"
+}

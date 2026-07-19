@@ -1,0 +1,86 @@
+{
+  "id": "guitar-beat-sling",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Launch pad\n\nWork in **A Dorian** (A B C D E F# G) in one comfortable position.\n\nSet a metronome to **96 bpm** and count **1 & 2 & 3 & 4 &** out loud.\n\nToday's game is to fire compact phrases from unusual starting points while keeping the groove obvious.",
+          "pt-BR": "### Plataforma de lançamento\n\nTrabalhe em **Lá dórico** (A B C D E F# G) em uma posição confortável.\n\nAjuste o metrônomo para **96 bpm** e conte **1 e 2 e 3 e 4 e** em voz alta.\n\nO jogo de hoje é disparar frases compactas de pontos de partida inesperados sem deixar o groove sumir.",
+          "es": "### Plataforma de lanzamiento\n\nTrabaja en **La dórico** (A B C D E F# G) en una posición cómoda.\n\nPon el metrónomo en **96 bpm** y cuenta **1 y 2 y 3 y 4 y** en voz alta.\n\nEl juego de hoy consiste en disparar frases compactas desde puntos de inicio inesperados sin que el groove desaparezca.",
+          "de": "### Startrampe\n\nArbeite in **A-Dorisch** (A B C D E F# G) in einer bequemen Lage.\n\nStelle das Metronom auf **96 bpm** und zähle **1 und 2 und 3 und 4 und** laut.\n\nDas heutige Spiel ist, kompakte Phrasen von überraschenden Startpunkten abzuschießen, ohne dass der Groove verschwindet.",
+          "ja": "### 発射台\n\n弾きやすいポジションで **Aドリアン**（A B C D E F# G）を使います。\n\nメトロノームを **96 bpm** に設定し、**1と2と3と4と** と声に出して数えましょう。\n\n今日のゲームは、意外なスタート地点からコンパクトなフレーズを放っても、グルーヴをはっきり残すことです。",
+          "zh-Hans": "### 发射台\n\n在一个你舒服的把位里练 **A多利亚**（A B C D E F# G）。\n\n把节拍器设为 **96 bpm**，并大声数 **1 和 2 和 3 和 4 和**。\n\n今天的游戏是：从出人意料的起点发射紧凑乐句，但 groove 依然要清清楚楚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: offbeat takeoff\n\nBuild a **2-bar phrase** that starts on the **& of 1** or the **& of 3**.\n\nRules:\n- use **6 to 8 notes**\n- land on **A** or **E** on beat **1** of bar 2\n- leave one eighth-note rest before the landing\n\nRepeat it 5 times until the landing feels intentional.",
+          "pt-BR": "### Rodada 1: decolagem no contratempo\n\nMonte uma **frase de 2 compassos** que comece no **e do 1** ou no **e do 3**.\n\nRegras:\n- use **6 a 8 notas**\n- chegue em **A** ou **E** no tempo **1** do compasso 2\n- deixe uma pausa de colcheia antes da chegada\n\nRepita 5 vezes até a chegada soar intencional.",
+          "es": "### Ronda 1: despegue a contratiempo\n\nConstruye una **frase de 2 compases** que empiece en el **y de 1** o en el **y de 3**.\n\nReglas:\n- usa **6 a 8 notas**\n- aterriza en **A** o **E** en el tiempo **1** del compás 2\n- deja un silencio de corchea antes de la llegada\n\nRepítela 5 veces hasta que la llegada se sienta intencional.",
+          "de": "### Runde 1: Offbeat-Start\n\nBaue eine **2-taktige Phrase**, die auf **und von 1** oder **und von 3** beginnt.\n\nRegeln:\n- benutze **6 bis 8 Töne**\n- lande auf **A** oder **E** auf Schlag **1** von Takt 2\n- setze vor der Landung eine Achtelpause\n\nWiederhole sie 5-mal, bis die Landung bewusst wirkt.",
+          "ja": "### ラウンド1：裏拍テイクオフ\n\n**2小節フレーズ** を作り、**1拍目の裏** か **3拍目の裏** から始めます。\n\nルール：\n- 音数は **6〜8音**\n- 2小節目の **1拍目** で **A** か **E** に着地する\n- 着地前に8分休符を1つ入れる\n\n着地が狙って聞こえるまで5回くり返してください。",
+          "zh-Hans": "### 第1轮：反拍起飞\n\n做一个 **2 小节乐句**，从 **第1拍后半拍** 或 **第3拍后半拍** 开始。\n\n规则：\n- 使用 **6 到 8 个音**\n- 在第2小节 **第1拍** 落到 **A** 或 **E**\n- 落点前留一个八分休止\n\n重复 5 次，直到这个落点听起来像有预谋的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: same rhythm, new ending\n\nKeep the exact same rhythm, but change only the last **2 notes**.\n\nTry to make version one feel calm and version two feel more urgent.\n\nIf both versions feel identical, exaggerate the final interval or articulation.",
+          "pt-BR": "### Rodada 2: mesmo ritmo, novo final\n\nMantenha exatamente o mesmo ritmo, mas troque apenas as **2 últimas notas**.\n\nTente fazer a versão um soar calma e a versão dois soar mais urgente.\n\nSe as duas versões parecerem idênticas, exagere o intervalo final ou a articulação.",
+          "es": "### Ronda 2: mismo ritmo, final nuevo\n\nMantén exactamente el mismo ritmo, pero cambia solo las **2 últimas notas**.\n\nHaz que la versión uno se sienta tranquila y la versión dos más urgente.\n\nSi ambas versiones se sienten idénticas, exagera el intervalo final o la articulación.",
+          "de": "### Runde 2: gleicher Rhythmus, neues Ende\n\nBehalte exakt denselben Rhythmus, ändere aber nur die **letzten 2 Töne**.\n\nVersion eins soll ruhig wirken, Version zwei dringender.\n\nWenn beide Versionen gleich klingen, übertreibe das letzte Intervall oder die Artikulation.",
+          "ja": "### ラウンド2：同じリズムで終わりだけ変える\n\nリズムは完全に同じまま、**最後の2音** だけ変えます。\n\n1つ目は落ち着いて、2つ目は少し切迫して聞こえるようにしましょう。\n\n両方が同じに聞こえるなら、最後の音程差かアーティキュレーションをもっと大きくしてください。",
+          "zh-Hans": "### 第2轮：节奏不变，结尾换掉\n\n节奏完全保持不变，只改 **最后 2 个音**。\n\n让版本一听起来更平静，版本二听起来更着急。\n\n如果两个版本几乎一样，就把最后的音程变化或演奏法再夸张一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: accent slingshot\n\nChoose one pickup note and give it extra personality.\n\nOptions:\n- add a slide into the target note\n- accent the last offbeat before the landing\n- shorten every note except the target note\n\nThe accent should pull the listener toward the resolution, not knock the phrase off balance.",
+          "pt-BR": "### Rodada 3: estilingue de acento\n\nEscolha uma nota de preparação e dê mais personalidade a ela.\n\nOpções:\n- fazer um slide para a nota-alvo\n- acentuar o último contratempo antes da chegada\n- encurtar todas as notas, menos a nota-alvo\n\nO acento deve puxar o ouvinte para a resolução, não derrubar o equilíbrio da frase.",
+          "es": "### Ronda 3: tirachinas de acento\n\nElige una nota de impulso y dale más personalidad.\n\nOpciones:\n- deslizarte hacia la nota objetivo\n- acentuar el último contratiempo antes de la llegada\n- acortar todas las notas excepto la nota objetivo\n\nEl acento debe arrastrar al oyente hacia la resolución, no tirar la frase fuera de balance.",
+          "de": "### Runde 3: Akzent-Schleuder\n\nWähle einen Auftaktton und gib ihm mehr Persönlichkeit.\n\nOptionen:\n- in den Zielton sliden\n- das letzte Offbeat vor der Landung betonen\n- alle Töne außer dem Zielton kürzer spielen\n\nDer Akzent soll den Hörer zur Auflösung ziehen, nicht die Phrase aus dem Gleichgewicht werfen.",
+          "ja": "### ラウンド3：アクセントのスリング\n\n1つのピックアップ音を選び、そこに個性を足します。\n\n方法：\n- ターゲットノートへスライドする\n- 着地前最後の裏拍を強調する\n- ターゲットノート以外をすべて短くする\n\nアクセントはフレーズを崩すのではなく、解決へ引っ張る役目であるべきです。",
+          "zh-Hans": "### 第3轮：重音弹弓\n\n选一个引子音，给它更多个性。\n\n选项：\n- 滑进目标音\n- 强调落点前最后一个反拍\n- 除目标音外，其余音都弹得更短\n\n这个重音应该把听者拉向解决感，而不是把乐句甩出平衡。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 4: string-set transfer\n\nMove the phrase to a nearby string set or a new position without changing the rhythm.\n\nYour fingers can solve a new route, but the groove identity must stay the same.\n\nIf the new shape gets messy, slow down and rescue the timing before speeding up.",
+          "pt-BR": "### Rodada 4: transferência de grupo de cordas\n\nLeve a frase para um grupo de cordas próximo ou para uma nova posição sem mudar o ritmo.\n\nSeus dedos podem resolver um caminho novo, mas a identidade do groove deve continuar igual.\n\nSe a nova forma ficar bagunçada, reduza o andamento e salve o timing antes de acelerar.",
+          "es": "### Ronda 4: traslado de grupo de cuerdas\n\nMueve la frase a un grupo de cuerdas cercano o a una nueva posición sin cambiar el ritmo.\n\nTus dedos pueden resolver una ruta nueva, pero la identidad del groove debe seguir igual.\n\nSi la nueva forma se ensucia, baja el tempo y rescata el timing antes de volver a acelerar.",
+          "de": "### Runde 4: Saitensatz-Wechsel\n\nVerlege die Phrase auf einen nahen Saitensatz oder in eine neue Lage, ohne den Rhythmus zu ändern.\n\nDeine Finger dürfen eine neue Route lösen, aber die Groove-Identität muss gleich bleiben.\n\nWenn die neue Form chaotisch wird, nimm Tempo raus und rette erst das Timing.",
+          "ja": "### ラウンド4：弦セット移動\n\nリズムを変えずに、近い別の弦セットや新しいポジションへフレーズを移します。\n\n指は新しい道順を解いてよいですが、グルーヴの正体はそのまま残してください。\n\n形が乱れたら、まずテンポを落としてタイミングを救ってから戻します。",
+          "zh-Hans": "### 第4轮：换弦组转移\n\n不改节奏，把乐句移到附近另一组弦或新把位上。\n\n手指可以解决新的路线，但 groove 的身份必须保持不变。\n\n如果新形状开始混乱，就先降速，把 timing 救回来再提速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nRecord **3 versions**:\n- one smooth and singing\n- one punchier with stronger accents\n- one in **D Dorian** using the same rhythmic design\n\nIf the groove survives all 3 versions, your phrasing is getting dangerous in a good way. 🎸",
+          "pt-BR": "### Desafio final\n\nGrave **3 versões**:\n- uma suave e cantável\n- uma mais firme, com acentos mais fortes\n- uma em **Ré dórico** usando o mesmo desenho rítmico\n\nSe o groove sobreviver às 3 versões, sua fraseologia está ficando perigosamente boa. 🎸",
+          "es": "### Desafío final\n\nGraba **3 versiones**:\n- una suave y cantable\n- una más firme, con acentos más fuertes\n- una en **Re dórico** usando el mismo diseño rítmico\n\nSi el groove sobrevive a las 3 versiones, tu fraseo se está volviendo peligrosamente bueno. 🎸",
+          "de": "### Abschluss-Challenge\n\nNimm **3 Versionen** auf:\n- eine weich und singend\n- eine direkter mit stärkeren Akzenten\n- eine in **D-Dorisch** mit demselben rhythmischen Design\n\nWenn der Groove alle 3 Versionen überlebt, wird dein Phrasing auf die gute Art gefährlich. 🎸",
+          "ja": "### 最終チャレンジ\n\n**3つのバージョン** を録音しましょう：\n- なめらかで歌うような版\n- もっと鋭く、アクセント強めの版\n- 同じリズム設計で **Dドリアン** に移した版\n\n3つ全部でグルーヴが生き残れば、あなたのフレージングは良い意味で危険になってきています。🎸",
+          "zh-Hans": "### 最终挑战\n\n录下 **3 个版本**：\n- 一个顺滑、像在歌唱\n- 一个更有冲劲、重音更强\n- 一个移到 **D多利亚**，但保留同样的节奏设计\n\n如果 3 个版本都还能守住 groove，你的乐句处理就开始变得很危险——是好的那种。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-03T00:07:00Z",
+  "updatedAt": "2026-06-03T00:07:00Z"
+}

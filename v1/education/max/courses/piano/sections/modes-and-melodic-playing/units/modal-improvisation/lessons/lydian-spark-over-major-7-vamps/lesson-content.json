@@ -1,0 +1,86 @@
+{
+  "id": "lydian-spark-over-major-7-vamps",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Lydian spark over major 7 vamps\nLydian is what happens when a major sound decides it wants a little sunlight and a little mischief. The key color is the **#4**, which gives the mode its floating brightness.\n\nOn piano, that color can sound magical over a steady major-7 vamp—as long as you place it with intention instead of spraying it everywhere like glitter in a fan.",
+          "pt-BR": "# Brilho lídio sobre vamps com maj7\nLídio é o que acontece quando um som maior decide pedir um pouco de luz e um pouco de travessura. A cor principal é a **#4**, que dá ao modo seu brilho suspenso.\n\nNo piano, essa cor pode soar mágica sobre um vamp estável com acorde maior com sétima — desde que você a coloque com intenção, e não saia jogando brilho para todo lado como glitter na frente do ventilador.",
+          "es": "# Chispa lidia sobre vamps con maj7\nLidio es lo que ocurre cuando un sonido mayor decide pedir un poco de sol y un poco de travesura. El color principal es la **#4**, que le da al modo su brillo flotante.\n\nEn piano, ese color puede sonar mágico sobre un vamp estable de acorde mayor con séptima, siempre que lo coloques con intención y no lo lances por todas partes como purpurina frente a un ventilador.",
+          "de": "# Lydischer Glanz über Major-7-Vamps\nLydisch ist das, was passiert, wenn ein Durklang beschließt, etwas Sonnenlicht und etwas Unfug zu wollen. Die entscheidende Farbe ist die **#4**, die dem Modus seine schwebende Helligkeit gibt.\n\nAuf dem Klavier kann diese Farbe über einem ruhigen Major-7-Vamp magisch klingen – solange du sie bewusst platzierst und nicht wie Glitzer in einen Ventilator streust.",
+          "ja": "# Major 7 ヴァンプ上のリディアンの輝き\nリディアンは、メジャーな響きが少しだけ日差しといたずら心を欲しがったときに生まれる色です。中心となるのは **#4** で、この音がモードに浮遊感のある明るさを与えます。\n\nピアノでは、安定した Major 7 のヴァンプの上でこの色がとても魔法のように響きます。ただし、意図を持って置かなければなりません。扇風機の前でラメをまくようにばらまいてはいけません。",
+          "zh-Hans": "# 在 Major 7 vamp 上点亮利底亚色彩\n利底亚有点像“大调决定再多要一点阳光和一点调皮”。它最关键的颜色就是 **#4**，正是这个音让它带有悬浮、发光的明亮感。\n\n在钢琴上，这个色彩放在稳定的 Major 7 vamp 上会很迷人——前提是你有意识地放置它，而不是像把亮片朝电风扇里乱撒一样到处乱丢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The note that makes Lydian glow\nTry **C Lydian**:\n- **C D E F# G A B**\n- the color note is **F#**\n- compared with ordinary C major, that one raised note removes some of the pull toward a plain subdominant sound\n\nIf you treat **F#** like an accidental guest, the mode feels weak. If you frame it clearly against **Cmaj7**, the whole sound opens up.",
+          "pt-BR": "# A nota que faz o lídio brilhar\nExperimente **Dó lídio**:\n- **C D E F# G A B**\n- a nota de cor é **F#**\n- em comparação com o Dó maior comum, essa nota elevada tira parte da sensação de subdominante tradicional\n\nSe você tratar **F#** como visita acidental, o modo fica fraco. Se você enquadrar essa nota claramente sobre **Cmaj7**, o som inteiro se abre.",
+          "es": "# La nota que hace brillar al lidio\nPrueba **Do lidio**:\n- **C D E F# G A B**\n- la nota de color es **F#**\n- comparado con el Do mayor corriente, esa nota elevada quita parte del tirón hacia un color subdominante más normal\n\nSi tratas **F#** como una visita accidental, el modo se debilita. Si la enmarcas claramente sobre **Cmaj7**, todo el sonido se abre.",
+          "de": "# Der Ton, der Lydisch leuchten lässt\nProbiere **C-Lydisch**:\n- **C D E F# G A B**\n- der Farbton ist **F#**\n- im Vergleich zu normalem C-Dur nimmt dieser erhöhte Ton etwas vom Zug zu einem gewöhnlichen Subdominant-Gefühl weg\n\nWenn du **F#** wie einen Zufallsgast behandelst, wirkt der Modus schwach. Wenn du ihn klar über **Cmaj7** rahmst, öffnet sich der ganze Klang.",
+          "ja": "# リディアンを光らせる音\n**Cリディアン** を試しましょう。\n- **C D E F# G A B**\n- 色の音は **F#**\n- 普通の C メジャーと比べると、この1音がありきたりな下属和音方向への引力を弱めます\n\n**F#** をただの通り道として扱うと、モードは弱くなります。**Cmaj7** の上で明確に枠取りすると、響き全体が一気に開きます。",
+          "zh-Hans": "# 让利底亚发光的那个音\n试试 **C 利底亚**：\n- **C D E F# G A B**\n- 色彩音是 **F#**\n- 和普通 C 大调相比，这个升高的音会削弱那种太普通的下属功能牵引感\n\n如果你把 **F#** 当成偶然路过的音，这个调式就会显得很弱。如果你把它清楚地放在 **Cmaj7** 的背景上，整个声音会立刻打开。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Left hand, right hand setup\nHold a relaxed **Cmaj7** vamp in the left hand. A simple option is:\n- **C and G** as roots and fifths, or\n- **C and B** for a root with major 7 color\n\nWith the right hand, play short phrases from C Lydian and make sure **F#** appears as a real musical target, not just a passing accident.",
+          "pt-BR": "# Preparação de mão esquerda e direita\nSustente um vamp relaxado de **Cmaj7** na mão esquerda. Uma opção simples é:\n- **C e G** como tônica e quinta, ou\n- **C e B** para tônica com cor de sétima maior\n\nCom a mão direita, toque frases curtas em Dó lídio e faça **F#** aparecer como alvo musical real, não como acidente de passagem.",
+          "es": "# Preparación de mano izquierda y derecha\nMantén un vamp relajado de **Cmaj7** en la mano izquierda. Una opción simple es:\n- **C y G** como tónica y quinta, o\n- **C y B** para una tónica con color de séptima mayor\n\nCon la mano derecha, toca frases cortas de Do lidio y asegúrate de que **F#** aparezca como objetivo musical real, no como un accidente pasajero.",
+          "de": "# Vorbereitung für linke und rechte Hand\nHalte mit der linken Hand einen entspannten **Cmaj7**-Vamp. Eine einfache Möglichkeit ist:\n- **C und G** als Grundton und Quinte, oder\n- **C und B** für Grundton mit Major-7-Farbe\n\nSpiele mit der rechten Hand kurze Phrasen aus C-Lydisch und sorge dafür, dass **F#** ein echtes melodisches Ziel wird und kein zufälliger Durchgangston.",
+          "ja": "# 左手と右手の準備\n左手ではリラックスした **Cmaj7** のヴァンプを保ちます。簡単な形は次のどちらかです。\n- **C と G** でルートと5度を支える\n- **C と B** でルートと Major 7 の色を出す\n\n右手では C リディアンの短いフレーズを弾き、**F#** が偶然通る音ではなく、本当の狙いの音として現れるようにします。",
+          "zh-Hans": "# 左手与右手的准备\n左手保持一个放松的 **Cmaj7** vamp。简单做法可以是：\n- 用 **C 和 G** 支撑根音与五度，或\n- 用 **C 和 B** 让根音和大七度的颜色更明显\n\n右手弹 C 利底亚的短句，并确保 **F#** 是真正的目标音，而不是随手经过的意外。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Build a singing motif\nWrite a 2-bar motif with these rules:\n1. start on **E**, **G**, or **B**\n2. touch **F#** once or twice in a clear place\n3. resolve to **E** or **G** so the line still sings\n4. repeat the motif four times with the same rhythm\n\nIf the phrase feels too busy, remove notes until the color becomes obvious.",
+          "pt-BR": "# Construa um motivo cantável\nEscreva um motivo de 2 compassos com estas regras:\n1. comece em **E**, **G** ou **B**\n2. toque **F#** uma ou duas vezes em lugar claro\n3. resolva em **E** ou **G** para a frase continuar cantável\n4. repita o motivo quatro vezes com o mesmo ritmo\n\nSe a frase parecer ocupada demais, tire notas até a cor ficar óbvia.",
+          "es": "# Construye un motivo cantable\nEscribe un motivo de 2 compases con estas reglas:\n1. empieza en **E**, **G** o **B**\n2. toca **F#** una o dos veces en un lugar claro\n3. resuelve en **E** o **G** para que la línea siga cantando\n4. repite el motivo cuatro veces con el mismo ritmo\n\nSi la frase se siente demasiado cargada, quita notas hasta que el color se vuelva evidente.",
+          "de": "# Baue ein singbares Motiv\nSchreibe ein 2-taktiges Motiv mit diesen Regeln:\n1. beginne auf **E**, **G** oder **B**\n2. berühre **F#** ein- oder zweimal an einer klaren Stelle\n3. löse nach **E** oder **G** auf, damit die Linie weiter singt\n4. wiederhole das Motiv viermal im selben Rhythmus\n\nWenn die Phrase zu voll wirkt, nimm Töne heraus, bis die Farbe deutlich wird.",
+          "ja": "# 歌えるモチーフを作る\n次の条件で2小節のモチーフを書きます。\n1. **E**、**G**、または **B** から始める\n2. **F#** を1回か2回、はっきりした場所で使う\n3. **E** または **G** に解決して、歌うような流れを保つ\n4. 同じリズムのまま4回繰り返す\n\nフレーズが忙しすぎるなら、色が見えるまで音を減らしてください。",
+          "zh-Hans": "# 写一个会唱歌的动机\n按这些规则写一个 2 小节动机：\n1. 从 **E**、**G** 或 **B** 开始\n2. 在清楚的位置碰到 **F#** 一到两次\n3. 回到 **E** 或 **G**，让旋律依然有歌唱性\n4. 保持同样节奏重复四次\n\n如果乐句太满，就删掉一些音，直到色彩变得明显。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Shape the dynamic color\nPlay the motif three ways:\n- soft and floating\n- medium and steady\n- brighter with a gentle accent on **F#**\n\nNotice that Lydian does not need force to sound vivid. Often it works best when the touch is calm and the phrasing is patient.",
+          "pt-BR": "# Modele a cor dinâmica\nToque o motivo de três maneiras:\n- suave e flutuante\n- médio e estável\n- mais brilhante com leve acento em **F#**\n\nPerceba que o lídio não precisa de força para soar vivo. Muitas vezes ele funciona melhor quando o toque é calmo e o fraseado é paciente.",
+          "es": "# Da forma al color dinámico\nToca el motivo de tres maneras:\n- suave y flotante\n- medio y estable\n- más brillante con un leve acento en **F#**\n\nObserva que el lidio no necesita fuerza para sonar vivo. Muchas veces funciona mejor cuando el toque es calmado y el fraseo tiene paciencia.",
+          "de": "# Forme die dynamische Farbe\nSpiele das Motiv auf drei Arten:\n- weich und schwebend\n- mittel und stabil\n- heller mit einem sanften Akzent auf **F#**\n\nBeobachte, dass Lydisch keine Härte braucht, um lebendig zu klingen. Oft funktioniert es am besten, wenn der Anschlag ruhig und die Phrasierung geduldig ist.",
+          "ja": "# ダイナミクスで色を整える\nそのモチーフを3通りで弾きます。\n- 柔らかく浮かぶ感じで\n- 中くらいの強さで安定して\n- **F#** に軽いアクセントを付けて少し明るく\n\nリディアンは強く押し出さなくても十分鮮やかに響くことに気づいてください。落ち着いたタッチと我慢強いフレージングのほうが、うまくいくことが多いです。",
+          "zh-Hans": "# 用力度塑造颜色\n把这个动机用三种方式弹出来：\n- 轻柔、漂浮\n- 中等力度、稳定\n- 在 **F#** 上加一点轻微重音，让它更发亮\n\n注意，利底亚不需要靠蛮力才能鲜活。很多时候，冷静的触键和耐心的乐句处理反而更有效。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nMove the whole exercise to **F Lydian** and **G Lydian**. Keep the motif shape as similar as possible, and listen for whether the #4 still feels like the point of light in the phrase.\n\nFinal test: improvise for 8 bars without losing the Lydian glow. If the line slips back into ordinary major, bring the **#4** back on purpose.",
+          "pt-BR": "# Rodada de desafio\nLeve todo o exercício para **F lídio** e **G lídio**. Mantenha o formato do motivo o mais parecido possível e ouça se a #4 continua sendo o ponto de luz da frase.\n\nTeste final: improvise por 8 compassos sem perder o brilho lídio. Se a linha escorregar de volta para o maior comum, traga a **#4** de volta de propósito.",
+          "es": "# Ronda de desafío\nLleva todo el ejercicio a **Fa lidio** y **Sol lidio**. Mantén la forma del motivo lo más parecida posible y escucha si la #4 sigue siendo el punto de luz de la frase.\n\nPrueba final: improvisa durante 8 compases sin perder el brillo lidio. Si la línea vuelve a sonar como mayor normal, recupera la **#4** a propósito.",
+          "de": "# Herausforderungsrunde\nTransponiere die ganze Übung nach **F-Lydisch** und **G-Lydisch**. Behalte die Form des Motivs so ähnlich wie möglich und höre, ob die #4 weiterhin der Lichtpunkt der Phrase bleibt.\n\nAbschlusstest: Improvisiere 8 Takte lang, ohne den lydischen Glanz zu verlieren. Wenn die Linie wieder nach gewöhnlichem Dur klingt, hole die **#4** bewusst zurück.",
+          "ja": "# チャレンジ・ラウンド\nこの練習を **Fリディアン** と **Gリディアン** に移調しましょう。モチーフの形はできるだけ同じに保ち、#4 がフレーズの光の点として残っているかを耳で確認します。\n\n最後のテスト: 8小節即興しても、リディアンの輝きを失わないようにします。普通のメジャーに戻ってしまったら、意図的に **#4** を呼び戻してください。",
+          "zh-Hans": "# 挑战回合\n把整个练习移到 **F 利底亚** 和 **G 利底亚**。尽量保持动机形状相似，并聆听 #4 是否依然像乐句里的那一点亮光。\n\n最后测试：即兴 8 小节而不丢掉利底亚的光泽。如果乐句又滑回普通大调，就有意识地把 **#4** 再带回来。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-16T00:12:18Z",
+  "updatedAt": "2026-07-16T00:12:18Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "finger-pivot-mini-arps",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: In C major, let the right hand pivot around E–F–G (fingers 1–2–3). Left hand pivots around G–F–E (5–4–3). Keep a rounded hand shape.",
+          "pt-BR": "Preparação: Em Dó maior, a mão direita pivota em E–F–G (dedos 1–2–3). A esquerda pivota em G–F–E (5–4–3). Mantenha a mão arredondada.",
+          "es": "Preparación: En Do mayor, la mano derecha pivota en E–F–G (dedos 1–2–3). La izquierda pivota en G–F–E (5–4–3). Mantén la mano redondeada.",
+          "de": "Setup: In C-Dur pivotiert die rechte Hand um E–F–G (Finger 1–2–3). Die linke Hand um G–F–E (5–4–3). Halte die Hand rund.",
+          "ja": "準備：Cメジャーで右手はE–F–G（1–2–3）を中心にピボット。左手はG–F–E（5–4–3）。手の丸みを保つ。",
+          "zh-Hans": "准备：在C大调中，右手以E–F–G（1–2–3）为支点，左手以G–F–E（5–4–3）为支点。保持手型圆润。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Exercise: Play 1–2–3–5 ascending (C–D–E–G) then descend. Keep the wrist quiet and the fingers close to the keys.",
+          "pt-BR": "Exercício: Toque 1–2–3–5 subindo (Dó–Ré–Mi–Sol) e depois descendo. Mantenha o pulso calmo e os dedos próximos às teclas.",
+          "es": "Ejercicio: Toca 1–2–3–5 ascendiendo (Do–Re–Mi–Sol) y luego descendiendo. Mantén la muñeca tranquila y los dedos cerca de las teclas.",
+          "de": "Übung: Spiele 1–2–3–5 aufwärts (C–D–E–G) und dann abwärts. Handgelenk ruhig, Finger nah an den Tasten.",
+          "ja": "練習：1–2–3–5を上行（C–D–E–G）して下行。手首は静かに、指は鍵盤の近くへ。",
+          "zh-Hans": "练习：弹1–2–3–5上行（C–D–E–G）再下行。手腕放松，手指贴近键面。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: Hands together, crescendo up and decrescendo down. Aim for even tone at 72–96 bpm.",
+          "pt-BR": "Desafio: Mãos juntas, crescendo na subida e decrescendo na descida. Busque timbre uniforme a 72–96 bpm.",
+          "es": "Desafío: Manos juntas, crescendo al subir y decrescendo al bajar. Busca un tono parejo a 72–96 bpm.",
+          "de": "Challenge: Hände zusammen, crescendo aufwärts und decrescendo abwärts. Gleichmäßiger Ton bei 72–96 bpm.",
+          "ja": "チャレンジ：両手で、上りはクレッシェンド、下りはデクレッシェンド。72〜96 bpmで均一な音を目指す。",
+          "zh-Hans": "挑战：双手一起，上行渐强、下行渐弱。72–96 bpm保持音色均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Apply: Create a two‑bar motif using the mini‑arp, then answer it in the opposite direction. Make the second bar softer.",
+          "pt-BR": "Aplicação: Crie um motivo de dois compassos usando o mini-arpejo e responda no sentido oposto. Faça o segundo compasso mais suave.",
+          "es": "Aplicación: Crea un motivo de dos compases con el mini-arpegio y respóndelo en dirección opuesta. Haz el segundo compás más suave.",
+          "de": "Anwendung: Erstelle ein Zwei‑Takt‑Motiv mit dem Mini-Arpeggio und antworte in Gegenrichtung. Den zweiten Takt leiser spielen.",
+          "ja": "応用：ミニアルペジオで2小節のモチーフを作り、逆方向で答える。2小節目は弱く。",
+          "zh-Hans": "应用：用迷你琶音做两小节动机，再用相反方向回答。第二小节更轻。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: Record 30 seconds. If any finger feels tense, slow down and reset the hand shape before speeding up.",
+          "pt-BR": "Checkpoint: Grave 30 segundos. Se algum dedo ficar tenso, diminua o andamento e reajuste a forma da mão antes de acelerar.",
+          "es": "Checkpoint: Graba 30 segundos. Si algún dedo se tensa, baja el tempo y reajusta la forma de la mano antes de acelerar.",
+          "de": "Checkpoint: Nimm 30 Sekunden auf. Wenn ein Finger verkrampft, Tempo reduzieren und die Handform neu setzen, dann erst wieder beschleunigen.",
+          "ja": "チェックポイント：30秒録音。どこかの指が固ければ、テンポを落として手の形を整え、そこから上げる。",
+          "zh-Hans": "检查点：录30秒。如果某个手指紧张，先降速并重新调整手型，再加速。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-31T00:08:16Z",
+  "updatedAt": "2026-03-31T00:08:16Z"
+}

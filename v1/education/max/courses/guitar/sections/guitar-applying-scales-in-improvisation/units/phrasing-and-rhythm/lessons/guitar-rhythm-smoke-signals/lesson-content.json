@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-smoke-signals",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose G major in one comfortable position and pretend each short phrase is a smoke signal: it has to be clear from far away. Set a metronome at 76 BPM. In bar 1, play only quarter notes. In bar 2, answer with eighth notes from the same scale shape. Your goal is to make the rhythm contrast obvious without changing your relaxed picking hand.",
+          "pt-BR": "Escolha Sol maior em uma posição confortável e imagine que cada frase curta é um sinal de fumaça: ela precisa ser clara mesmo de longe. Ajuste o metrônomo para 76 BPM. No compasso 1, toque só semínimas. No compasso 2, responda com colcheias usando a mesma região da escala. O objetivo é deixar o contraste rítmico óbvio sem tensionar a mão da palheta.",
+          "es": "Elige Sol mayor en una posición cómoda e imagina que cada frase corta es una señal de humo: debe verse clara desde lejos. Pon el metrónomo en 76 BPM. En el compás 1 toca solo negras. En el compás 2 responde con corcheas usando la misma zona de la escala. La meta es que el contraste rítmico sea obvio sin tensar la mano de la púa.",
+          "de": "Wähle G-Dur in einer bequemen Lage und stell dir vor, jede kurze Phrase sei ein Rauchsignal: Man muss sie schon von weitem klar erkennen. Stell das Metronom auf 76 BPM. Spiele in Takt 1 nur Viertelnoten. Antworte in Takt 2 mit Achtelnoten aus derselben Skalenlage. Das Ziel ist ein deutlicher Rhythmuskontrast, ohne dass die Schlaghand verkrampft.",
+          "ja": "弾きやすいポジションでGメジャーを選び、短いフレーズを煙の合図だと思ってください。遠くからでも意味が伝わるくらい明確である必要があります。メトロノームは76 BPM。1小節目は4分音符だけ、2小節目は同じスケール位置で8分音符の返答を弾きます。ピッキングの力みを増やさずに、リズムの違いをはっきり聞かせるのが目標です。",
+          "zh-Hans": "在一个舒服的把位里选择 G 大调，并把每个短乐句想成烟雾信号：远远看去也要足够清楚。把节拍器设到 76 BPM。第一小节只弹四分音符，第二小节用同一把位里的八分音符来回应。目标是在不让拨弦手紧张的前提下，把节奏反差做得非常明显。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now give your signal a code. In every two-bar round, one note must be louder than the others, and that accent has to move: first beat 1, then the “and” of 2, then beat 4. Use only three or four notes if needed. If the accent disappears, slow down until the phrase sounds like a message instead of a blur.",
+          "pt-BR": "Agora dê um código ao sinal. Em cada rodada de dois compassos, uma nota precisa soar mais forte que as outras, e esse acento deve se mover: primeiro no tempo 1, depois no “e” do 2, depois no tempo 4. Use só três ou quatro notas se precisar. Se o acento sumir, diminua o andamento até a frase soar como mensagem, não como borrão.",
+          "es": "Ahora dale un código a la señal. En cada vuelta de dos compases, una nota debe sonar más fuerte que las demás, y ese acento tiene que moverse: primero en el tiempo 1, luego en la “y” de 2 y después en el tiempo 4. Usa solo tres o cuatro notas si hace falta. Si el acento desaparece, baja la velocidad hasta que la frase suene como un mensaje y no como una mancha.",
+          "de": "Gib dem Signal jetzt einen Code. In jeder Zwei-Takt-Runde muss eine Note lauter sein als die anderen, und dieser Akzent wandert: zuerst auf Zählzeit 1, dann auf das Und von 2, dann auf Zählzeit 4. Nimm gern nur drei oder vier Töne. Wenn der Akzent verschwindet, geh mit dem Tempo runter, bis die Phrase wie eine Nachricht statt wie ein Fleck klingt.",
+          "ja": "次は合図に暗号をつけます。2小節ごとに1音だけ他より強く弾き、そのアクセントを移動させてください。最初は1拍目、次は2拍目ウラ、その次は4拍目です。必要なら3音か4音だけでも十分です。アクセントがぼやけたら、フレーズがただの流れではなく「伝達」になるまでテンポを落としましょう。",
+          "zh-Hans": "现在给这个信号加上一套密码。每个两小节回合里，必须有一个音比其他音更重，而且这个重音要移动：先放在第 1 拍，再放在第 2 拍的后半拍，然后放在第 4 拍。必要时只用三四个音就够了。如果重音听不出来，就把速度放慢，直到乐句听起来像信息而不是一团模糊。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, choose two target notes in the shape—G and B work great. Start each phrase on one target and end on the other, but leave a tiny rest before the final note. That pause is the puff of air before the signal appears. Listen for whether the silence makes the landing feel more confident and musical.",
+          "pt-BR": "Em seguida, escolha duas notas-alvo no desenho — Sol e Si funcionam muito bem. Comece cada frase em uma delas e termine na outra, mas deixe uma pequena pausa antes da nota final. Esse silêncio é o sopro de ar antes do sinal aparecer. Repare se a pausa faz a chegada soar mais confiante e mais musical.",
+          "es": "Después elige dos notas objetivo dentro del dibujo; Sol y Si funcionan muy bien. Comienza cada frase en una de ellas y termina en la otra, pero deja un pequeño silencio antes de la nota final. Ese silencio es la bocanada de aire antes de que aparezca la señal. Escucha si esa pausa hace que la llegada suene más segura y musical.",
+          "de": "Wähle als Nächstes zwei Zieltöne in der Form — G und B funktionieren super. Beginne jede Phrase auf dem einen und beende sie auf dem anderen, aber lass vor dem letzten Ton eine kleine Pause. Diese Stille ist der Luftzug, bevor das Signal sichtbar wird. Hör genau hin, ob die Pause die Landung sicherer und musikalischer macht.",
+          "ja": "次に、そのポジションの中から目標音を2つ決めます。GとBがおすすめです。各フレーズは一方の目標音から始め、もう一方で終えますが、最後の音の直前に小さな休符を入れてください。その沈黙が、煙が立ち上がる前のひと呼吸になります。休みを入れることで着地がより自信を持って音楽的に聞こえるかを確かめましょう。",
+          "zh-Hans": "接着在这个把位里选两个目标音，G 和 B 很合适。每个乐句从其中一个开始，在另一个结束，但在最后一个音之前留出一个小停顿。那个停顿就是烟冒出来前的一口气。仔细听听，这个留白是否让落点听起来更自信、更有音乐性。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: build a four-bar solo with strict rules. Bar 1 climbs. Bar 2 repeats the rhythm but changes the note order. Bar 3 must include one full beat of silence. Bar 4 has to land hard on G with a long note. Repeat the cycle until it sounds intentional enough that you could actually reuse it on stage.",
+          "pt-BR": "Rodada de desafio: monte um solo de quatro compassos com regras rígidas. O compasso 1 sobe. O compasso 2 repete o ritmo, mas muda a ordem das notas. O compasso 3 precisa ter um tempo inteiro de silêncio. O compasso 4 deve pousar forte em Sol com uma nota longa. Repita o ciclo até soar intencional o bastante para você reutilizar isso no palco.",
+          "es": "Ronda de desafío: construye un solo de cuatro compases con reglas estrictas. El compás 1 asciende. El compás 2 repite el ritmo pero cambia el orden de las notas. El compás 3 debe incluir un tiempo completo de silencio. El compás 4 tiene que aterrizar fuerte en Sol con una nota larga. Repite el ciclo hasta que suene tan intencional que podrías reutilizarlo en vivo.",
+          "de": "Herausforderungsrunde: Baue ein vier Takte langes Solo mit strengen Regeln. Takt 1 steigt aufwärts. Takt 2 wiederholt den Rhythmus, aber ändert die Tonreihenfolge. Takt 3 muss eine ganze Zählzeit Stille enthalten. Takt 4 landet mit einer langen Note deutlich auf G. Wiederhole den Ablauf, bis es so absichtlich klingt, dass du es auf der Bühne wiederverwenden würdest.",
+          "ja": "チャレンジラウンドです。4小節ソロを次の厳格なルールで作ります。1小節目は上行。2小節目はリズムをそのままにして音の順番だけ変える。3小節目には1拍まるごとの休みを入れる。4小節目は長い音でしっかりGに着地する。このサイクルを、ステージでも再利用したくなるくらい意図的に聞こえるまで繰り返します。",
+          "zh-Hans": "挑战回合：做一个四小节独奏，并遵守严格规则。第 1 小节上行，第 2 小节保持同样的节奏但改变音的顺序，第 3 小节必须留出整整一拍的沉默，第 4 小节要用长音有力地落在 G 上。不断重复，直到它听起来足够有设计感，像是你真会在舞台上拿来用的东西。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with one minute of free improvisation over a simple G major groove. Keep asking: would another musician understand my rhythmic signal right away? Save your best two-bar phrase and transpose it to A major before you stop. That final jump turns today’s exercise into real fretboard vocabulary.",
+          "pt-BR": "Termine com um minuto de improviso livre sobre um groove simples em Sol maior. Continue se perguntando: outro músico entenderia meu sinal rítmico na hora? Guarde sua melhor frase de dois compassos e transporte para Lá maior antes de parar. Esse salto final transforma o exercício de hoje em vocabulário real de braço.",
+          "es": "Termina con un minuto de improvisación libre sobre un groove simple en Sol mayor. Sigue preguntándote: ¿otro músico entendería mi señal rítmica de inmediato? Guarda tu mejor frase de dos compases y transpónla a La mayor antes de terminar. Ese salto final convierte el ejercicio de hoy en vocabulario real del diapasón.",
+          "de": "Zum Schluss improvisierst du eine Minute frei über einen einfachen G-Dur-Groove. Frag dich dabei ständig: Würde ein anderer Musiker mein rhythmisches Signal sofort verstehen? Heb dir deine beste Zwei-Takt-Phrase auf und transponiere sie vor dem Ende nach A-Dur. Dieser letzte Schritt macht aus der Übung echtes Griffbrett-Vokabular.",
+          "ja": "最後はシンプルなGメジャーのグルーヴ上で1分間の自由なアドリブです。ずっと自分に問いかけてください。ほかのミュージシャンはこのリズム信号をすぐ理解できるか？ いちばん良かった2小節フレーズを保存し、終わる前にAメジャーへ移調しましょう。この最後の一歩で、今日の練習は本物の指板語彙になります。",
+          "zh-Hans": "最后，在一个简单的 G 大调 groove 上自由即兴一分钟。不断问自己：别的乐手能不能立刻听懂我的节奏信号？把你最满意的两小节乐句留下来，并在结束前移调到 A 大调。这个最后的跳跃，会把今天的练习变成真正能用的指板语汇。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-12T00:05:51Z",
+  "updatedAt": "2026-07-12T00:05:51Z"
+}

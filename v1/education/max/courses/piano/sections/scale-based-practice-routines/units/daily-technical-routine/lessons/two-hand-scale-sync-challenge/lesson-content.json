@@ -1,0 +1,60 @@
+{
+  "id": "two-hand-scale-sync-challenge",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose C major, practice hands separately at 60 bpm, and confirm the fingering.",
+          "pt-BR": "Escolha Dó maior, pratique mãos separadas a 60 bpm e confirme o dedilhado.",
+          "es": "Elige Do mayor, practica manos separadas a 60 bpm y confirma la digitación.",
+          "de": "Wähle C-Dur, übe Hände getrennt bei 60 bpm und prüfe den Fingersatz.",
+          "ja": "Cメジャーを選び、60 bpmで片手ずつ指使いを確認。",
+          "zh-Hans": "选C大调，60 bpm分手练习并确认指法。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Sync grid: right hand plays quarter notes, left hand plays half notes, then swap roles.",
+          "pt-BR": "Grade de sincronia: mão direita em semínimas, esquerda em mínimas, depois inverta.",
+          "es": "Rejilla de sincronía: mano derecha en negras, izquierda en blancas, luego invierte.",
+          "de": "Sync-Gitter: rechte Hand Viertel, linke Hand Halbe, dann tauschen.",
+          "ja": "シンクグリッド：右手は4分音符、左手は2分音符、次に入れ替え。",
+          "zh-Hans": "同步网格：右手四分音符，左手二分音符，然后交换。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add dynamics: crescendo on the way up and decrescendo on the way down; keep wrists loose.",
+          "pt-BR": "Adicione dinâmica: crescendo na subida e decrescendo na descida; punhos soltos.",
+          "es": "Añade dinámica: crescendo al subir y decrescendo al bajar; muñecas sueltas.",
+          "de": "Dynamik dazu: Crescendo nach oben, Decrescendo nach unten; Handgelenke locker.",
+          "ja": "ダイナミクス追加：上りでクレッシェンド、下りでデクレッシェンド。手首は柔らかく。",
+          "zh-Hans": "加入力度：上行渐强、下行渐弱；手腕放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: play one octave in thirds on every other note; if you stumble, drop 5 bpm.",
+          "pt-BR": "Desafio: toque uma oitava em terças a cada outra nota; se tropeçar, reduza 5 bpm.",
+          "es": "Reto: toca una octava en terceras cada dos notas; si fallas, baja 5 bpm.",
+          "de": "Challenge: Spiele eine Oktave in Terzen auf jede zweite Note; bei Fehlern 5 bpm langsamer.",
+          "ja": "チャレンジ：1オクターブを2つおきに3度で弾く。崩れたら5 bpm下げる。",
+          "zh-Hans": "挑战：每隔一个音用三度弹一八度；出错就降5 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-18T00:07:00Z",
+  "updatedAt": "2026-03-18T00:07:00Z"
+}

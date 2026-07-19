@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-launchpad",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose Bb major for today and imagine the keyboard is a launchpad. Before liftoff, check three systems: relaxed wrists, curved fingers, and a quiet thumb crossing. Start at 68 BPM and play two octaves hands together. Your job is not speed yet; it is making the takeoff feel smooth enough that no note bumps the rocket off course.",
+          "pt-BR": "Escolha Sib maior para hoje e imagine que o teclado é uma plataforma de lançamento. Antes da decolagem, confira três sistemas: punhos relaxados, dedos curvos e passagem de polegar silenciosa. Comece em 68 BPM e toque duas oitavas com as mãos juntas. Seu trabalho ainda não é velocidade; é fazer a decolagem soar tão suave que nenhuma nota tire o foguete da rota.",
+          "es": "Elige Sib mayor para hoy e imagina que el teclado es una plataforma de lanzamiento. Antes del despegue revisa tres sistemas: muñecas relajadas, dedos curvos y un cruce de pulgar silencioso. Empieza a 68 BPM y toca dos octavas con ambas manos juntas. Tu trabajo todavía no es la velocidad; es lograr un despegue tan suave que ninguna nota saque al cohete de su trayectoria.",
+          "de": "Wähle heute B-Dur und stell dir vor, die Tastatur sei ein Launchpad. Vor dem Start prüfst du drei Systeme: lockere Handgelenke, runde Finger und ein leiser Daumenuntersatz. Beginne bei 68 BPM und spiele zwei Oktaven mit beiden Händen zusammen. Es geht noch nicht um Tempo, sondern darum, dass der Start so glatt ist, dass kein Ton die Rakete aus der Bahn wirft.",
+          "ja": "今日はBbメジャーを選び、鍵盤を発射台だと思ってください。離陸前に確認するのは3つ。手首の脱力、丸い指、そして静かな親指くぐりです。68 BPMで、両手一緒に2オクターブ弾きます。まだ求めるのは速さではなく、どの音もロケットをコースから外さないほど滑らかな離陸です。",
+          "zh-Hans": "今天选择 Bb 大调，并把键盘想成一座发射台。起飞前先检查三个系统：手腕放松、手指弯曲、拇指穿越安静。以 68 BPM 开始，双手一起弹两八度。你现在的任务还不是追求速度，而是让起飞足够平顺，任何一个音都不会把火箭撞离航线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a countdown pattern. Play one run at piano, one at mezzo-forte, and one at forte, but keep the tempo unchanged. If the louder version gets harsh or uneven, stop and reset. A real launch gets stronger without getting wild, and your scale should do the same.",
+          "pt-BR": "Agora adicione um padrão de contagem regressiva. Toque uma subida em piano, outra em mezzo-forte e outra em forte, mas sem mudar o andamento. Se a versão mais forte ficar áspera ou desigual, pare e reinicie. Um lançamento real ganha força sem virar caos, e sua escala deve fazer o mesmo.",
+          "es": "Ahora añade un patrón de cuenta regresiva. Toca una pasada en piano, otra en mezzo-forte y otra en forte, pero sin cambiar el tempo. Si la versión más fuerte se vuelve áspera o desigual, detente y reinicia. Un lanzamiento real gana fuerza sin volverse salvaje, y tu escala debe hacer lo mismo.",
+          "de": "Füge jetzt ein Countdown-Muster hinzu. Spiele einen Durchgang im Piano, einen im Mezzoforte und einen im Forte, ohne das Tempo zu ändern. Wenn die lautere Version hart oder ungleichmäßig wird, stopp und setz neu an. Ein echter Start gewinnt an Kraft, ohne chaotisch zu werden, und deine Tonleiter sollte dasselbe können.",
+          "ja": "次はカウントダウン・パターンを入れます。1回目はピアノ、2回目はメゾフォルテ、3回目はフォルテで弾きますが、テンポは変えません。強い音のときに荒くなったり不揃いになったりしたら、止めてやり直しましょう。本物の打ち上げは勢いを増しても暴走しません。スケールも同じです。",
+          "zh-Hans": "接着加入倒计时模式。分别用弱、中强、强三种力度各弹一遍，但速度完全不变。如果更强的版本变得粗糙或不均匀，就停下来重置。真正的发射会变得更有力量，却不会失控；你的音阶也应该这样。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, place two orbit checkpoints in the scale: the lower Bb and the upper Bb. On the way up, slightly lean into the third finger before each checkpoint. On the way down, listen for whether both thumbs pass under with the same calm timing. This is how you turn fingerings into navigation instead of guesswork.",
+          "pt-BR": "Em seguida, coloque dois checkpoints de órbita na escala: o Sib grave e o Sib agudo. Na subida, apoie levemente no dedo 3 antes de cada checkpoint. Na descida, escute se os dois polegares passam por baixo com a mesma calma no tempo. É assim que o dedilhado deixa de ser chute e vira navegação.",
+          "es": "Después coloca dos checkpoints de órbita en la escala: el Sib grave y el Sib agudo. Al subir, apóyate ligeramente en el dedo 3 antes de cada checkpoint. Al bajar, escucha si ambos pulgares pasan por debajo con la misma calma y el mismo pulso. Así conviertes la digitación en navegación y no en adivinanza.",
+          "de": "Setze als Nächstes zwei Orbit-Checkpoints in die Skala: das tiefe B und das hohe B. Auf dem Weg nach oben lehnst du dich vor jedem Checkpoint leicht in den dritten Finger. Auf dem Weg nach unten hörst du genau hin, ob beide Daumen mit derselben ruhigen Zeit darunter durchgehen. So wird Fingersatz zu Navigation statt zu Rätselraten.",
+          "ja": "次に、スケールの中へ2つの軌道チェックポイントを置きます。低いBbと高いBbです。上行では各チェックポイントの前で3の指に少し重みを乗せます。下行では、両方の親指が同じ落ち着いたタイミングでくぐれているかを耳で確認してください。これで運指は当てずっぽうではなく、航法になります。",
+          "zh-Hans": "然后在音阶里放两个轨道检查点：低音 Bb 和高音 Bb。上行时，在每个检查点之前稍微把重量交给 3 指；下行时，仔细听两只手的拇指穿越是否都用同样冷静的时值完成。这样一来，指法就不再只是猜，而会变成导航。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: four launches, four rules. Launch 1 must be legato. Launch 2 must be lightly detached. Launch 3 must crescendo upward and decrescendo downward. Launch 4 must stay at one dynamic while you watch every thumb crossing. Repeat until all four feel like different missions flown by the same disciplined pilot.",
+          "pt-BR": "Rodada de desafio: quatro lançamentos, quatro regras. O lançamento 1 deve ser legato. O lançamento 2 deve ser levemente destacado. O lançamento 3 deve crescer na subida e diminuir na descida. O lançamento 4 deve ficar em uma única dinâmica enquanto você vigia cada passagem de polegar. Repita até os quatro parecerem missões diferentes pilotadas pela mesma mão disciplinada.",
+          "es": "Ronda de desafío: cuatro lanzamientos, cuatro reglas. El lanzamiento 1 debe ser legato. El lanzamiento 2 debe ser ligeramente separado. El lanzamiento 3 debe hacer crescendo al subir y decrescendo al bajar. El lanzamiento 4 debe quedarse en una sola dinámica mientras vigilas cada cruce de pulgar. Repite hasta que los cuatro parezcan misiones distintas pilotadas por la misma persona disciplinada.",
+          "de": "Herausforderungsrunde: vier Starts, vier Regeln. Start 1 muss legato sein. Start 2 muss leicht abgesetzt sein. Start 3 macht ein Crescendo nach oben und ein Decrescendo nach unten. Start 4 bleibt in einer einzigen Dynamik, während du jeden Daumenuntersatz beobachtest. Wiederhole das, bis sich alle vier wie verschiedene Missionen anfühlen, geflogen von derselben disziplinierten Pilotin oder demselben disziplinierten Piloten.",
+          "ja": "チャレンジラウンドです。4回の打ち上げに4つのルールを課します。1回目はレガート。2回目は軽く切る。3回目は上りでクレッシェンド、下りでデクレッシェンド。4回目はダイナミクスを一定に保ちつつ、すべての親指くぐりを監視する。4つとも、同じ disciplined な操縦者が飛ばした別ミッションのように感じられるまで繰り返しましょう。",
+          "zh-Hans": "挑战回合：四次发射，四条规则。第一次必须连奏。第二次要轻微断开。第三次上行渐强、下行渐弱。第四次保持同一种力度，同时盯住每一次拇指穿越。不断重复，直到这四次听起来像同一位纪律严明的飞行员完成的四种不同任务。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a one-minute free routine: alternate one clean scale, one arpeggio, and one slow scale with exaggerated listening. Then answer this question in one sentence: what made the launch feel safest today? Write that answer down and use it as tomorrow’s pre-flight check.",
+          "pt-BR": "Termine com um minuto de rotina livre: alterne uma escala limpa, um arpejo e uma escala lenta com escuta exagerada. Depois responda em uma frase: o que fez o lançamento parecer mais seguro hoje? Escreva essa resposta e use como checagem pré-voo amanhã.",
+          "es": "Termina con un minuto de rutina libre: alterna una escala limpia, un arpegio y una escala lenta con escucha exagerada. Luego responde en una sola frase: ¿qué hizo que el lanzamiento se sintiera más seguro hoy? Escribe esa respuesta y úsala mañana como revisión previa al vuelo.",
+          "de": "Zum Schluss spielst du eine Minute freie Routine: eine saubere Tonleiter, ein Arpeggio, eine langsame Tonleiter mit übertriebenem Hinhören im Wechsel. Beantworte dann in einem Satz: Was hat den Start heute am sichersten gemacht? Schreib die Antwort auf und nutze sie morgen als Pre-Flight-Check.",
+          "ja": "最後は1分間の自由ルーティンです。きれいなスケール、アルペジオ、そして耳を大きく開いたゆっくりしたスケールを交互に行います。そのあと一文で答えてください。今日、いちばん安全な打ち上げにした要素は何だったか？ その答えを書き残し、明日の飛行前チェックに使いましょう。",
+          "zh-Hans": "最后做一分钟自由流程：交替弹一遍干净音阶、一遍琶音、再来一遍慢速并带着夸张聆听的音阶。然后用一句话回答：今天是什么让这次发射最安全？把答案写下来，明天把它当作起飞前检查。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-12T00:08:18Z",
+  "updatedAt": "2026-07-12T00:08:18Z"
+}

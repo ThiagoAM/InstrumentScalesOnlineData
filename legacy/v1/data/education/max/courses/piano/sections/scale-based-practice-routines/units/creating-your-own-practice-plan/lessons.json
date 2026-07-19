@@ -54,5 +54,509 @@
     "order": 2,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "two-hand-sequence-engine-for-ii-v-i",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Sequence Engine for ii-V-I",
+        "pt-BR": "Motor de sequências a duas mãos para ii-V-I",
+        "es": "Motor de secuencias a dos manos para ii-V-I",
+        "de": "Zweihändiger Sequenz-Motor für ii-V-I",
+        "ja": "ii-V-Iのための両手シーケンス・エンジン",
+        "zh-Hans": "ii-V-I双手音型引擎"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale fragments into a musical ii-V-I routine by coordinating both hands, voice-leading targets, and rhythmic discipline.",
+        "pt-BR": "Transforme fragmentos de escala em uma rotina musical de ii-V-I coordenando as duas mãos, notas-alvo e disciplina rítmica.",
+        "es": "Convierte fragmentos de escala en una rutina musical de ii-V-I coordinando ambas manos, notas objetivo y disciplina rítmica.",
+        "de": "Verwandle Skalenfragmente in eine musikalische ii-V-I-Routine mit koordinierter Zweihandtechnik, Zieltönen und rhythmischer Disziplin.",
+        "ja": "スケール断片を、両手の連携・ターゲット音・リズム管理を使った音楽的なii-V-I練習に変えます。",
+        "zh-Hans": "用双手配合、目标音连接和节奏纪律，把音阶片段变成真正有音乐性的ii-V-I钢琴练习。"
+      }
+    },
+    "order": 3,
+    "createdAt": "2026-04-12T00:04:35Z",
+    "updatedAt": "2026-04-12T00:04:35Z"
+  },
+  {
+    "id": "practice-plan-energy-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Plan Energy Map",
+        "pt-BR": "Mapa de Energia do Plano de Estudo",
+        "es": "Mapa de energía del plan de práctica",
+        "de": "Energie-Karte für den Übeplan",
+        "ja": "練習プランのエネルギー地図",
+        "zh-Hans": "练习计划能量地图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a smarter piano scale routine by assigning different jobs to your practice energy.",
+        "pt-BR": "Monte uma rotina de escalas mais inteligente no piano distribuindo funções diferentes para sua energia.",
+        "es": "Construye una rutina de escalas más inteligente asignando trabajos distintos a tu energía de estudio.",
+        "de": "Baue eine klügere Klavier-Skalenroutine, indem du deiner Übeenergie verschiedene Aufgaben gibst.",
+        "ja": "練習エネルギーに役割を割り当てて、より賢いピアノ・スケール習慣を作ろう。",
+        "zh-Hans": "给不同练习能量分配不同任务，建立更聪明的钢琴音阶 routine。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-15T00:04:12Z",
+    "updatedAt": "2026-04-15T00:04:12Z"
+  },
+  {
+    "id": "mirror-maze-scale-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mirror Maze Scale Relay",
+        "pt-BR": "Revezamento de Escalas no Labirinto Espelhado",
+        "es": "Relevo de Escalas en el Laberinto Espejo",
+        "de": "Spiegel-Labyrinth Skalenstaffel",
+        "ja": "鏡の迷路スケール・リレー",
+        "zh-Hans": "镜像迷宫音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pass scale fragments between both hands so technique, timing, and creativity grow together instead of in separate practice boxes.",
+        "pt-BR": "Passe fragmentos de escala entre as duas mãos para que técnica, tempo e criatividade cresçam juntos.",
+        "es": "Pasa fragmentos de escala entre las dos manos para que técnica, tiempo y creatividad crezcan juntas.",
+        "de": "Reiche Skalenfragmente zwischen beiden Händen weiter, damit Technik, Timing und Kreativität gemeinsam wachsen.",
+        "ja": "スケール断片を両手で受け渡しし、テクニック、タイム感、創造性を別々ではなく一緒に育てます。",
+        "zh-Hans": "在双手之间传递音阶片段，让技巧、节奏和创造力一起成长，而不是各练各的。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-22T14:12:17Z",
+    "updatedAt": "2026-04-22T14:12:17Z"
+  },
+  {
+    "id": "practice-arc-blueprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Arc Blueprint",
+        "pt-BR": "Blueprint do Arco de Estudo",
+        "es": "Plano del Arco de Práctica",
+        "de": "Bauplan für den Übebogen",
+        "ja": "練習アーク設計図",
+        "zh-Hans": "练习弧线蓝图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Design a piano scale session with a clear beginning, peak, and finish so your practice stops feeling random.",
+        "pt-BR": "Desenhe uma sessão de escalas no piano com começo, pico e fechamento claros para o estudo parar de parecer aleatório.",
+        "es": "Diseña una sesión de escalas en piano con inicio, punto máximo y cierre claros para que tu práctica deje de sentirse aleatoria.",
+        "de": "Plane eine Klavier-Skalenroutine mit klarem Anfang, Höhepunkt und Abschluss, damit dein Üben nicht mehr zufällig wirkt.",
+        "ja": "ピアノのスケール練習に明確な始まり・山場・着地を作り、練習を行き当たりばったりにしないためのレッスンです。",
+        "zh-Hans": "给你的钢琴音阶练习设计清晰的开头、顶点和收尾，让练习不再散漫随机。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-24T00:09:09Z",
+    "updatedAt": "2026-04-24T00:09:09Z"
+  },
+  {
+    "id": "piano-scale-comic-strip",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Comic Strip",
+        "pt-BR": "HQ da Escala",
+        "es": "Cómic de la Escala",
+        "de": "Skalen-Comic",
+        "ja": "スケール4コマ",
+        "zh-Hans": "音阶四格漫画"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a piano scale routine into a four-panel story so technique, rhythm, and harmony actually connect.",
+        "pt-BR": "Transforme uma rotina de escalas no piano em uma história de quatro quadros para conectar técnica, ritmo e harmonia de verdade.",
+        "es": "Convierte una rutina de escalas en piano en una historia de cuatro viñetas para que técnica, ritmo y armonía realmente se conecten.",
+        "de": "Verwandle eine Klavier-Skalenroutine in eine Vier-Bilder-Geschichte, damit Technik, Rhythmus und Harmonie wirklich zusammenhängen.",
+        "ja": "ピアノのスケール練習を4コマ漫画のように組み立て、テクニック・リズム・ハーモニーをつなげるレッスンです。",
+        "zh-Hans": "把钢琴音阶练习做成四格故事，让技巧、节奏和和声真正连起来。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-04-25T00:10:05Z",
+    "updatedAt": "2026-04-25T00:10:05Z"
+  },
+  {
+    "id": "piano-practice-arc-blueprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Arc Blueprint",
+        "pt-BR": "Blueprint do Arco de Estudo",
+        "es": "Plano del Arco de Práctica",
+        "de": "Bauplan für den Übebogen",
+        "ja": "練習アーク設計図",
+        "zh-Hans": "练习弧线蓝图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Design a piano scale session with a clear beginning, peak, and finish so your practice stops feeling random.",
+        "pt-BR": "Desenhe uma sessão de escalas no piano com começo, pico e fechamento claros para o estudo parar de parecer aleatório.",
+        "es": "Diseña una sesión de escalas en piano con inicio, punto máximo y cierre claros para que tu práctica deje de sentirse aleatoria.",
+        "de": "Plane eine Klavier-Skalenroutine mit klarem Anfang, Höhepunkt und Abschluss, damit dein Üben nicht mehr zufällig wirkt.",
+        "ja": "ピアノのスケール練習に明確な始まり・山場・着地を作り、練習を行き当たりばったりにしないためのレッスンです。",
+        "zh-Hans": "给你的钢琴音阶练习设计清晰的开头、顶点和收尾，让练习不再散漫随机。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-29T00:06:13Z",
+    "updatedAt": "2026-04-29T00:06:13Z"
+  },
+  {
+    "id": "piano-practice-weather-report",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Weather Report",
+        "pt-BR": "Boletim do Tempo do Estudo de Piano",
+        "es": "Parte meteorológico de la práctica de piano",
+        "de": "Wetterbericht für deine Klavierpraxis",
+        "ja": "ピアノ練習ウェザーリポート",
+        "zh-Hans": "钢琴练习天气预报"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Forecast your scale session with sunny technique, cloudy trouble spots, and a storm plan for musical recovery.",
+        "pt-BR": "Faça a previsão da sua sessão de escalas com técnica ensolarada, pontos nublados e um plano de tempestade para se recuperar musicalmente.",
+        "es": "Pronostica tu sesión de escalas con técnica soleada, zonas nubladas y un plan de tormenta para recuperarte musicalmente.",
+        "de": "Prognostiziere deine Skalenroutine mit sonniger Technik, wolkigen Problemstellen und einem Sturmplan zur musikalischen Erholung.",
+        "ja": "晴れのテクニック、曇りの弱点、嵐対策プランで、スケール練習を自分で予報しよう。",
+        "zh-Hans": "用晴天技术、阴天难点和暴风修复计划，提前读懂你的音阶练习状态。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-05-04T00:11:09Z",
+    "updatedAt": "2026-05-04T00:11:09Z"
+  },
+  {
+    "id": "piano-practice-liftoff",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Liftoff in F Major",
+        "pt-BR": "Decolagem de Estudo em Fá Maior",
+        "es": "Despegue de Práctica en Fa Mayor",
+        "de": "Übe-Start in F-Dur",
+        "ja": "Fメジャーのプラクティス・リフトオフ",
+        "zh-Hans": "F大调练习升空"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a smarter piano scale routine by stacking focus layers, dynamic control, and mini performance goals.",
+        "pt-BR": "Monte uma rotina de escalas mais inteligente no piano combinando camadas de foco, controle dinâmico e pequenas metas de performance.",
+        "es": "Construye una rutina de escalas más inteligente en piano combinando capas de enfoque, control dinámico y pequeñas metas de interpretación.",
+        "de": "Baue eine klügere Klavier-Tonleiter-Routine mit Fokus-Schichten, dynamischer Kontrolle und kleinen Performance-Zielen.",
+        "ja": "フォーカスの層、ダイナミクスのコントロール、小さな演奏目標を重ねて、より賢いピアノのスケール練習ルーティンを作りましょう。",
+        "zh-Hans": "通过叠加专注层、力度控制和小型演奏目标，建立一套更聪明的钢琴音阶练习流程。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-05-10T00:07:57Z",
+    "updatedAt": "2026-05-10T00:07:57Z"
+  },
+  {
+    "id": "piano-hand-off-obstacle-course",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Hand-Off Obstacle Course",
+        "pt-BR": "Circuito de Passagem Entre as Mãos",
+        "es": "Circuito de Relevo entre las Manos",
+        "de": "Staffellauf der Hände",
+        "ja": "ハンドオフ障害物コース",
+        "zh-Hans": "双手交接障碍赛"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Make your piano scales more musical by passing patterns between the hands with control, balance, and timing.",
+        "pt-BR": "Deixe suas escalas no piano mais musicais passando padrões entre as mãos com controle, equilíbrio e precisão rítmica.",
+        "es": "Haz que tus escalas de piano sean más musicales pasando patrones entre las manos con control, equilibrio y precisión.",
+        "de": "Mach deine Klavierskalen musikalischer, indem du Muster mit Kontrolle, Balance und Timing zwischen den Händen übergibst.",
+        "ja": "パターンを両手で受け渡しながら、コントロール、バランス、タイミングを磨いてピアノのスケールをもっと音楽的にします。",
+        "zh-Hans": "通过在双手之间传递音型，用控制力、平衡感和节奏感让你的钢琴音阶更有音乐性。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-05-14T00:12:10Z",
+    "updatedAt": "2026-05-14T00:12:10Z"
+  },
+  {
+    "id": "piano-practice-traffic-lights",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Traffic Lights",
+        "pt-BR": "Semáforos do Estudo de Piano",
+        "es": "Semáforos de la Práctica de Piano",
+        "de": "Ampeln für deine Klavierpraxis",
+        "ja": "ピアノ練習の信号システム",
+        "zh-Hans": "钢琴练习红绿灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Organize a scale session with clear green-light flow, yellow-light caution, and red-light repair moments.",
+        "pt-BR": "Organize uma sessão de escalas com momentos claros de fluxo, atenção e conserto.",
+        "es": "Organiza una sesión de escalas con momentos claros de flujo, atención y reparación.",
+        "de": "Organisiere eine Skalenroutine mit klaren Grün-, Gelb- und Rotphasen für Fluss, Aufmerksamkeit und Reparatur.",
+        "ja": "音階練習を、流れ・注意・修正の信号に分けて組み立てるレッスンです。",
+        "zh-Hans": "用清晰的绿灯、黄灯、红灯阶段，组织一套更聪明的音阶练习。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-05-16T00:07:56Z",
+    "updatedAt": "2026-05-16T00:07:56Z"
+  },
+  {
+    "id": "practice-boss-battle-blueprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Practice Boss Battle Blueprint",
+        "pt-BR": "Blueprint da Boss Battle de Estudo",
+        "es": "Plano de Boss Battle de Práctica",
+        "de": "Bosskampf-Bauplan fürs Üben",
+        "ja": "練習ボスバトル設計図",
+        "zh-Hans": "练习Boss战蓝图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one piano scale session into a staged challenge with technique, timing, and musical goals.",
+        "pt-BR": "Transforme uma sessão de escalas no piano em um desafio por fases com técnica, tempo e metas musicais.",
+        "es": "Convierte una sesión de escalas en piano en un reto por fases con técnica, tiempo y objetivos musicales.",
+        "de": "Verwandle eine Klavier-Skalenroutine in eine gestufte Herausforderung mit Technik-, Timing- und Musikzielen.",
+        "ja": "ピアノの音階練習を、技術・タイム感・音楽性を試す段階的チャレンジに変えよう。",
+        "zh-Hans": "把一次钢琴音阶练习设计成分阶段挑战，同时训练技术、节奏和音乐性。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-06-04T00:07:09Z",
+    "updatedAt": "2026-06-04T00:07:09Z"
+  },
+  {
+    "id": "piano-scale-arc-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Arc Quest",
+        "pt-BR": "Missão do Arco das Escalas no Piano",
+        "es": "Misión del Arco de Escalas en Piano",
+        "de": "Klavier-Skalenbogen-Quest",
+        "ja": "ピアノ・スケール・アーク・クエスト",
+        "zh-Hans": "钢琴音阶弧线任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Shape one scale session like a mini performance with levels, contrast, and a satisfying finish.",
+        "pt-BR": "Transforme uma sessão de escalas em uma mini performance com níveis, contraste e um final convincente.",
+        "es": "Convierte una sesión de escalas en una mini actuación con niveles, contraste y un final convincente.",
+        "de": "Gestalte eine Skalenroutine wie eine kleine Performance mit Stufen, Kontrast und starkem Schluss.",
+        "ja": "ひとつのスケール練習を、小さな演奏のように組み立てる感覚を育てます。",
+        "zh-Hans": "把一次音阶练习塑造成带层次、对比和结尾感的小型演出。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-06-11T00:10:53Z",
+    "updatedAt": "2026-06-11T00:10:53Z"
+  },
+  {
+    "id": "piano-scale-escape-room",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Escape Room",
+        "pt-BR": "Sala de Fuga das Escalas",
+        "es": "Sala de Escape de Escalas",
+        "de": "Skalen-Escape-Room",
+        "ja": "スケール脱出ルーム",
+        "zh-Hans": "音阶逃脱房"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Solve a sequence of piano scale puzzles with both hands until technique and musical choices unlock together.",
+        "pt-BR": "Resolva uma sequência de desafios de escala no piano até técnica e escolha musical destravarem juntas.",
+        "es": "Resuelve una secuencia de retos de escalas al piano hasta que técnica y decisiones musicales se desbloqueen juntas.",
+        "de": "Löse eine Reihe von Klavier-Skalenrätseln, bis Technik und musikalische Entscheidungen gemeinsam aufschließen.",
+        "ja": "ピアノのスケール課題を順番に解いて、テクニックと音楽的判断を一緒に解放するレッスンです。",
+        "zh-Hans": "通过一连串钢琴音阶谜题，让技巧和音乐选择一起解锁。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-06-13T00:10:33Z",
+    "updatedAt": "2026-06-13T00:10:33Z"
+  },
+  {
+    "id": "piano-boss-path",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Boss Path",
+        "pt-BR": "Caminho do Chefão no Piano",
+        "es": "Ruta del Jefe Final en Piano",
+        "de": "Klavier-Boss-Pfad",
+        "ja": "ピアノ・ボスパス",
+        "zh-Hans": "钢琴Boss路径"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a 12-minute scale session that levels up technique, harmony, and musical focus instead of drifting randomly.",
+        "pt-BR": "Monte uma sessão de 12 minutos que evolui técnica, harmonia e foco musical em vez de estudar no automático.",
+        "es": "Construye una sesión de 12 minutos que haga crecer técnica, armonía y enfoque musical en vez de practicar a la deriva.",
+        "de": "Baue eine 12-minütige Skalenroutine, die Technik, Harmonie und musikalischen Fokus wachsen lässt statt ziellos zu treiben.",
+        "ja": "12分のスケール練習を、なんとなく流すのではなく、テクニック・ハーモニー・集中力が育つステージ型セッションにします。",
+        "zh-Hans": "设计一套12分钟音阶练习，让技巧、和声和音乐专注力一起升级，而不是随便练一练。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-06-15T00:14:08Z",
+    "updatedAt": "2026-06-15T00:14:08Z"
+  },
+  {
+    "id": "piano-mirror-maze",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Mirror Maze",
+        "pt-BR": "Labirinto de Espelhos",
+        "es": "Laberinto de Espejos",
+        "de": "Spiegel-Labyrinth",
+        "ja": "ミラー迷路",
+        "zh-Hans": "镜面迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a piano maze where mirrored motion, rhythmic turns, and controlled hand roles lead to a musical exit.",
+        "pt-BR": "Transforme o estudo de escalas em um labirinto no piano, onde movimento espelhado, curvas rítmicas e papéis controlados das mãos levam a uma saída musical.",
+        "es": "Convierte el estudio de escalas en un laberinto pianístico donde el movimiento espejado, los giros rítmicos y los roles controlados de las manos llevan a una salida musical.",
+        "de": "Verwandle Skalenübung in ein Klavierlabyrinth, in dem Spiegelbewegung, rhythmische Kurven und bewusste Handrollen zu einem musikalischen Ausgang führen.",
+        "ja": "鏡のような動き、リズムの曲がり角、左右の役割の切り替えで、スケール練習を音楽的な出口のあるピアノ迷路に変えます。",
+        "zh-Hans": "把音阶练习变成钢琴迷宫，让镜像运动、节奏转弯和双手角色控制带你找到音乐性的出口。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-06-20T00:09:11Z",
+    "updatedAt": "2026-06-20T00:09:11Z"
+  },
+  {
+    "id": "piano-practice-route-builder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Route Builder",
+        "pt-BR": "Construtor de Rotas de Estudo no Piano",
+        "es": "Constructor de Rutas de Práctica al Piano",
+        "de": "Klavier-Übe-Routen-Bauer",
+        "ja": "ピアノ練習ルート・ビルダー",
+        "zh-Hans": "钢琴练习路线构建师"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Design a short scale session that moves from warm-up to musical mission without wasting energy.",
+        "pt-BR": "Monte uma sessão curta de escalas que saia do aquecimento e chegue a um objetivo musical sem desperdiçar energia.",
+        "es": "Diseña una sesión corta de escalas que vaya del calentamiento a una misión musical sin desperdiciar energía.",
+        "de": "Plane eine kurze Skalenroutine, die vom Warm-up zu einer musikalischen Mission führt, ohne Energie zu verschwenden.",
+        "ja": "ウォームアップから音楽的な目的地まで、無駄なく進む短いスケール練習を設計します。",
+        "zh-Hans": "设计一套短小却有方向感的音阶练习，从热身一路走到真正的音乐目标。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-06-22T00:11:03Z",
+    "updatedAt": "2026-06-22T00:11:03Z"
+  },
+  {
+    "id": "piano-checkpoint-castle",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Checkpoint Castle",
+        "pt-BR": "Castelo dos Checkpoints no Piano",
+        "es": "Castillo de Checkpoints para Piano",
+        "de": "Klavier-Checkpoint-Burg",
+        "ja": "ピアノ・チェックポイント城",
+        "zh-Hans": "钢琴检查点城堡"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a practice castle in D major with checkpoints for fingering, balance, memory, and musical control.",
+        "pt-BR": "Construa um castelo de estudo em Ré maior com checkpoints de digitação, equilíbrio, memória e controle musical.",
+        "es": "Construye un castillo de práctica en Re mayor con checkpoints de digitación, equilibrio, memoria y control musical.",
+        "de": "Baue eine Übungsburg in D-Dur mit Checkpoints für Fingersatz, Balance, Gedächtnis und musikalische Kontrolle.",
+        "ja": "Dメジャーで、運指・バランス・記憶・音楽的コントロールのチェックポイントを持つ練習の城を作ります。",
+        "zh-Hans": "在D大调中搭建一座练习城堡，设置运指、平衡、记忆和音乐控制四个检查点。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-07-05T00:09:39Z",
+    "updatedAt": "2026-07-05T00:09:39Z"
+  },
+  {
+    "id": "piano-practice-pinball-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Practice Pinball Map",
+        "pt-BR": "Mapa de Pinball do Estudo de Piano",
+        "es": "Mapa Pinball de la Práctica de Piano",
+        "de": "Klavier-Übeplan als Pinball-Karte",
+        "ja": "ピアノ練習ピンボールマップ",
+        "zh-Hans": "钢琴练习弹珠地图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Route your scale session through bumpers, rebounds, and smart checkpoints instead of random repetition.",
+        "pt-BR": "Conduza sua sessão de escalas por bumpers, rebotes e checkpoints inteligentes em vez de repetição aleatória.",
+        "es": "Lleva tu sesión de escalas por bumpers, rebotes y checkpoints inteligentes en vez de repetición al azar.",
+        "de": "Führe deine Skalenroutine durch Bumper, Rückpraller und clevere Checkpoints statt durch zufällige Wiederholung.",
+        "ja": "行き当たりばったりの反復ではなく、バンパー、跳ね返り、チェックポイントで音階練習を設計しよう。",
+        "zh-Hans": "别再随机重复了，把你的音阶练习导进弹珠碰撞、反弹和聪明检查点里。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-07-07T00:09:20Z",
+    "updatedAt": "2026-07-07T00:09:20Z"
   }
 ]

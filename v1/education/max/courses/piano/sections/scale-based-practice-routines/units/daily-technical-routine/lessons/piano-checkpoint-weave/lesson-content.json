@@ -1,0 +1,86 @@
+{
+  "id": "piano-checkpoint-weave",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Build the route\n\nChoose **A major** or **F# minor**, two octaves, hands together.\n\nStart at **76 bpm** in eighth notes.\n\nThink of this lesson as weaving through traffic: every lane change must stay smooth, timed, and under control.",
+          "pt-BR": "### Monte a rota\n\nEscolha **Lá maior** ou **F# menor**, em duas oitavas, com as duas mãos juntas.\n\nComece em **76 bpm** com colcheias.\n\nPense nesta lição como costurar entre faixas no trânsito: cada mudança de pista precisa continuar suave, bem cronometrada e sob controle.",
+          "es": "### Construye la ruta\n\nElige **La mayor** o **Fa# menor**, dos octavas, manos juntas.\n\nEmpieza a **76 bpm** en corcheas.\n\nPiensa en esta lección como tejer entre carriles de tráfico: cada cambio debe seguir siendo suave, medido y controlado.",
+          "de": "### Route aufbauen\n\nWähle **A-Dur** oder **f#-Moll**, zwei Oktaven, beide Hände zusammen.\n\nBeginne bei **76 bpm** in Achteln.\n\nStell dir diese Lektion wie ein Einfädeln durch den Verkehr vor: Jeder Spurwechsel muss weich, getimt und kontrolliert bleiben.",
+          "ja": "### ルートを作る\n\n**Aメジャー** または **F#マイナー** を2オクターブ、両手同時で選びます。\n\n**76 bpm** の8分音符から始めましょう。\n\nこのレッスンは交通の中で車線変更を続けるようなものです。どのレーン移動も、滑らかで、時間が合っていて、コントロールされていなければなりません。",
+          "zh-Hans": "### 搭好路线\n\n选择 **A大调** 或 **F#小调**，双手齐奏，两八度。\n\n从 **76 bpm** 的八分音符开始。\n\n把这节课想成在车流中穿梭：每一次变道都必须平滑、准时、可控。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Checkpoint 1: tone lane\n\nPlay one ascent and descent with **mezzo-piano** touch.\n\nYour rules:\n- every thumb crossing must stay quiet\n- the top note should sing, not poke\n- the final tonic must settle gently\n\nIf one hand sounds chunkier than the other, slow down before moving on.",
+          "pt-BR": "### Checkpoint 1: faixa do timbre\n\nToque uma subida e uma descida com toque **mezzo-piano**.\n\nSuas regras:\n- toda passagem de polegar deve ficar silenciosa\n- a nota do topo deve cantar, não cutucar\n- a tônica final deve pousar com suavidade\n\nSe uma mão soar mais pesada que a outra, diminua antes de seguir.",
+          "es": "### Checkpoint 1: carril del tono\n\nToca una subida y bajada con toque **mezzo-piano**.\n\nTus reglas:\n- cada cruce del pulgar debe quedar silencioso\n- la nota aguda debe cantar, no pinchar\n- la tónica final debe asentarse con suavidad\n\nSi una mano suena más pesada que la otra, baja la velocidad antes de seguir.",
+          "de": "### Checkpoint 1: Klangspur\n\nSpiele einmal auf- und abwärts mit **Mezzo-piano**-Anschlag.\n\nDeine Regeln:\n- jeder Daumenuntersatz bleibt leise\n- der höchste Ton soll singen, nicht stechen\n- die Schluss-Tonika soll sanft landen\n\nWenn eine Hand klobiger klingt als die andere, werde langsamer, bevor du weitermachst.",
+          "ja": "### チェックポイント1：音色レーン\n\n**メゾピアノ** のタッチで、上行と下行を1回ずつ弾きます。\n\nルール：\n- 親指くぐりは毎回静かに\n- 最高音は突くのではなく歌うように\n- 最後の主音はやさしく着地する\n\n片手だけ重く聞こえるなら、先へ進む前にテンポを落としてください。",
+          "zh-Hans": "### 检查点1：音色车道\n\n用 **中弱（mezzo-piano）** 的触键完成一次上行和一次下行。\n\n规则：\n- 每次拇指穿指都要安静\n- 最高音要会“唱”，不要戳出来\n- 最后的主音要柔和落地\n\n如果一只手明显比另一只更重，先降速再继续。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Checkpoint 2: articulation lane\n\nPlay the scale again, but use **legato going up** and **light staccato coming down**.\n\nDo not let the wrists bounce wildly.\n\nThe listener should hear a clean personality change, not a technical accident.",
+          "pt-BR": "### Checkpoint 2: faixa da articulação\n\nToque a escala de novo, mas com **legato subindo** e **staccato leve descendo**.\n\nNão deixe os punhos quicarem sem controle.\n\nQuem ouve deve perceber uma mudança clara de personalidade, não um acidente técnico.",
+          "es": "### Checkpoint 2: carril de articulación\n\nToca la escala otra vez, pero con **legato al subir** y **staccato ligero al bajar**.\n\nNo dejes que las muñecas reboten sin control.\n\nEl oyente debe percibir un cambio claro de personalidad, no un accidente técnico.",
+          "de": "### Checkpoint 2: Artikulationsspur\n\nSpiele die Skala erneut, aber **legato aufwärts** und **leicht staccato abwärts**.\n\nLass die Handgelenke nicht wild aufspringen.\n\nDie hörbare Veränderung soll wie eine klare Charakteränderung wirken, nicht wie ein technischer Unfall.",
+          "ja": "### チェックポイント2：アーティキュレーション・レーン\n\nもう一度同じスケールを弾きますが、**上行はレガート**、**下行は軽いスタッカート** にします。\n\n手首が暴れて跳ねないようにしましょう。\n\n聴き手には、技術的事故ではなく、はっきりした性格の変化として聞こえるべきです。",
+          "zh-Hans": "### 检查点2：触键车道\n\n再弹一次同样的音阶，但要求 **上行连奏**、**下行轻断奏**。\n\n不要让手腕失控地乱弹。\n\n听起来应该像有意识的性格切换，而不是技术事故。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Checkpoint 3: subdivision lane\n\nKeep the same tempo and do three passes:\n- eighth notes\n- triplets\n- sixteenth notes\n\nAfter each pass, ask whether both hands still land together at the thumb crossings.",
+          "pt-BR": "### Checkpoint 3: faixa da subdivisão\n\nMantenha o mesmo andamento e faça três passadas:\n- colcheias\n- tercinas\n- semicolcheias\n\nDepois de cada passada, pergunte a si mesmo se as duas mãos ainda caem juntas nas passagens de polegar.",
+          "es": "### Checkpoint 3: carril de subdivisión\n\nMantén el mismo tempo y haz tres pasadas:\n- corcheas\n- tresillos\n- semicorcheas\n\nDespués de cada pasada, pregúntate si ambas manos siguen cayendo juntas en los cruces del pulgar.",
+          "de": "### Checkpoint 3: Unterteilungsspur\n\nBehalte dasselbe Tempo und spiele drei Durchgänge:\n- Achtel\n- Triolen\n- Sechzehntel\n\nFrage dich nach jedem Durchgang, ob beide Hände an den Daumenübergängen noch gemeinsam landen.",
+          "ja": "### チェックポイント3：細分化レーン\n\n同じテンポのまま、次の3回を行います。\n- 8分音符\n- 3連符\n- 16分音符\n\n各回のあとで、親指くぐりの場所でも両手がまだ同時に着地しているか確認してください。",
+          "zh-Hans": "### 检查点3：细分车道\n\n保持同样的速度，连续做三遍：\n- 八分音符\n- 三连音\n- 十六分音符\n\n每一遍之后都问问自己：拇指穿指的位置，两只手还在同时落下吗？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Checkpoint 4: spotlight lane\n\nRaise the metronome to **82 bpm** and shape one note per octave as a tiny highlight.\n\nGood targets are:\n- the **3rd** on the way up\n- the **6th** on the way down\n\nEverything around the highlight should stay relaxed, like a frame around the picture.",
+          "pt-BR": "### Checkpoint 4: faixa do destaque\n\nSuba o metrônomo para **82 bpm** e molde uma nota por oitava como um pequeno destaque.\n\nBons alvos são:\n- a **3ª** na subida\n- a **6ª** na descida\n\nTudo em volta do destaque deve continuar relaxado, como uma moldura em volta da imagem.",
+          "es": "### Checkpoint 4: carril de foco\n\nSube el metrónomo a **82 bpm** y moldea una nota por octava como un pequeño foco.\n\nBuenos objetivos son:\n- la **3ª** al subir\n- la **6ª** al bajar\n\nTodo lo que rodea al foco debe seguir relajado, como un marco alrededor de la imagen.",
+          "de": "### Checkpoint 4: Spotlight-Spur\n\nErhöhe das Metronom auf **82 bpm** und forme pro Oktave einen Ton als kleines Highlight.\n\nGute Ziele sind:\n- die **Terz** aufwärts\n- die **Sexte** abwärts\n\nAlles um das Highlight herum soll entspannt bleiben, wie ein Rahmen um ein Bild.",
+          "ja": "### チェックポイント4：スポットライト・レーン\n\nメトロノームを **82 bpm** に上げ、各オクターブで1音を小さなハイライトとして形作ります。\n\nおすすめの狙い所：\n- 上行の **3度**\n- 下行の **6度**\n\nハイライトの周りは、額縁のように脱力して支えるべきです。",
+          "zh-Hans": "### 检查点4：聚光灯车道\n\n把节拍器提到 **82 bpm**，每个八度挑一个音做成小亮点。\n\n不错的目标是：\n- 上行时的 **3度**\n- 下行时的 **6度**\n\n亮点周围的其他音都要继续放松，像画框一样把它托住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nWrite down your cleanest tempo and the exact place where the weave almost tore.\n\nThen invent one more pass where the **right hand leads the phrase** and the **left hand matches the tone**, not the other way around.\n\nSmart piano scale work is not about surviving the pattern. It is about steering it. 🎹",
+          "pt-BR": "### Desafio final\n\nAnote seu andamento mais limpo e o ponto exato em que a trama quase rasgou.\n\nDepois invente mais uma passada em que a **mão direita lidera a frase** e a **mão esquerda iguala o timbre**, e não o contrário.\n\nTrabalho inteligente de escalas no piano não é sobreviver ao padrão. É conduzi-lo. 🎹",
+          "es": "### Desafío final\n\nAnota tu tempo más limpio y el punto exacto donde la trama casi se rompió.\n\nLuego inventa una pasada más en la que la **mano derecha lidere la frase** y la **mano izquierda iguale el tono**, no al revés.\n\nEl trabajo inteligente de escalas en piano no consiste en sobrevivir al patrón. Consiste en dirigirlo. 🎹",
+          "de": "### Abschluss-Challenge\n\nSchreibe dein sauberstes Tempo und die genaue Stelle auf, an der das Gewebe fast gerissen ist.\n\nErfinde dann noch einen Durchgang, in dem die **rechte Hand die Phrase führt** und die **linke Hand den Klang angleicht**, nicht umgekehrt.\n\nKluge Klavier-Skalenarbeit bedeutet nicht, das Muster nur zu überleben. Sondern es zu lenken. 🎹",
+          "ja": "### 最終チャレンジ\n\nいちばんきれいだったテンポと、織り目が崩れそうになった正確な場所を書き留めましょう。\n\nそのあと、**右手がフレーズを先導し**、**左手が音色を合わせる** 新しい1回を考えてください。逆ではありません。\n\n賢いピアノのスケール練習は、型を生き延びることではありません。型を操ることです。 🎹",
+          "zh-Hans": "### 最终挑战\n\n记下你最干净的速度，以及这张编织网差点散开的具体位置。\n\n然后再设计一遍：让 **右手主导乐句**，而 **左手去匹配音色**，而不是反过来。\n\n聪明的钢琴音阶练习，不是勉强熬过这个模式，而是学会驾驭它。 🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-13T00:10:54Z",
+  "updatedAt": "2026-05-13T00:10:54Z"
+}

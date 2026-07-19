@@ -1,0 +1,60 @@
+{
+  "id": "metronome-ladder-for-clean-scales",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Gear check: use alternate picking, keep a light grip, and choose a one-octave G major position. Set the metronome to 60 bpm.",
+          "pt-BR": "Checagem rápida: palhetada alternada, mão leve e escolha uma posição de Sol maior em uma oitava. Metrônomo em 60 bpm.",
+          "es": "Chequeo rápido: púa alternada, mano ligera y elige una posición de Sol mayor de una octava. Metrónomo a 60 bpm.",
+          "de": "Kurzcheck: Wechselschlag, lockerer Griff, wähle eine einoktavige G-Dur-Position. Metronom auf 60 bpm.",
+          "ja": "チェック：オルタネイトピッキング、力を抜いて、1オクターブのGメジャーのポジションを選ぶ。メトロノームは60 bpm。",
+          "zh-Hans": "快速检查：交替拨弦，手放松，选一个一八度的G大调把位。节拍器60 bpm。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Ladder time: play 2 beats per note up and down, then 1 beat per note, then half-beat notes. If it gets messy, step back one rung.",
+          "pt-BR": "Hora da escada: toque 2 tempos por nota subindo e descendo, depois 1 tempo por nota e depois meio tempo por nota. Se embolar, volte um degrau.",
+          "es": "Hora de la escalera: toca 2 tiempos por nota subiendo y bajando, luego 1 tiempo por nota y luego medio tiempo por nota. Si se ensucia, baja un peldaño.",
+          "de": "Leiterzeit: Spiele 2 Schläge pro Ton hoch und runter, dann 1 Schlag pro Ton, dann halbe Schläge. Wenn’s unsauber wird, eine Stufe zurück.",
+          "ja": "ラダー：1往復で「2拍に1音」→「1拍に1音」→「半拍に1音」。乱れたら一段戻る。",
+          "zh-Hans": "阶梯练习：上行下行各一遍，先2拍一音，再1拍一音，再半拍一音。乱了就退一级。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accuracy rule: no string noise. If you hear any, stop and isolate the string change that caused it.",
+          "pt-BR": "Regra de precisão: nada de ruído de corda. Se aparecer, pare e isole a troca de corda que causou isso.",
+          "es": "Regla de precisión: nada de ruido de cuerdas. Si aparece, detente y aísla el cambio de cuerda que lo causó.",
+          "de": "Genauigkeitsregel: kein Saitengeräusch. Wenn es passiert, stoppe und isoliere den Saitenwechsel, der es ausgelöst hat.",
+          "ja": "正確さルール：弦ノイズ禁止。出たら止めて、原因の弦移動だけ切り出して練習。",
+          "zh-Hans": "准确规则：不允许弦噪。出现就停下来，单独练习换弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: hit 3 clean runs at your fastest speed and write it down. Tomorrow, try +2 bpm.",
+          "pt-BR": "Desafio: faça 3 passagens limpas na sua maior velocidade e anote. Amanhã, tente +2 bpm.",
+          "es": "Reto: haz 3 pasadas limpias a tu mayor velocidad y anótala. Mañana, prueba +2 bpm.",
+          "de": "Challenge: 3 saubere Durchläufe bei deinem höchsten Tempo und notiere es. Morgen +2 bpm.",
+          "ja": "チャレンジ：最高速度でクリーンに3回通せたら記録。明日は+2 bpm。",
+          "zh-Hans": "挑战：用最高速度干净跑3遍并记录。明天+2 bpm。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-18T00:03:07Z",
+  "updatedAt": "2026-03-18T00:03:07Z"
+}

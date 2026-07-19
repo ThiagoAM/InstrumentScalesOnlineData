@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-harbor-lights",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Take A major and imagine the groove is a boat entering a harbor at night. Start at 78 BPM and keep your sound round and steady. In bar 1, use only A and E. In bar 2, connect them with one extra scale tone. The point is to make every note feel like a trusted light, not a nervous splash of activity.",
+          "pt-BR": "Pegue Lá maior e imagine que o groove é um barco entrando em um porto à noite. Comece em 78 BPM e mantenha o som redondo e estável. No compasso 1, use apenas A e E. No compasso 2, conecte as duas com uma nota extra da escala. A ideia é fazer cada nota soar como uma luz confiável, não como atividade nervosa espirrada por todo lado.",
+          "es": "Toma La mayor e imagina que el groove es un barco entrando en un puerto de noche. Empieza a 78 BPM y mantén un sonido redondo y estable. En el compás 1 usa solo A y E. En el compás 2 conéctalas con una nota extra de la escala. La idea es que cada nota se sienta como una luz confiable y no como un chapoteo nervioso de actividad.",
+          "de": "Nimm A-Dur und stell dir vor, der Groove ist ein Boot, das nachts in einen Hafen einfährt. Starte bei 78 BPM und halte den Sound rund und stabil. In Takt 1 benutzt du nur A und E. In Takt 2 verbindest du beide mit einem zusätzlichen Skalenton. Der Punkt ist, dass jeder Ton wie ein verlässliches Licht wirkt und nicht wie nervöses Spritzen von Aktivität.",
+          "ja": "Aメジャーを使い、グルーヴを夜の港へ入っていく船だと想像してください。78 BPMから始め、丸く安定した音を保ちます。1小節目はAとEだけ、2小節目はそこにスケール音を1つ足してつなぎます。大事なのは、どの音も慌ただしいしぶきではなく、頼れる灯りのように感じられることです。",
+          "zh-Hans": "选 A 大调，并把这个 groove 想成一艘夜里驶入港口的船。先从 78 BPM 开始，保持圆润而稳定的音色。第1小节只用 A 和 E，第2小节用一个额外的音阶音把它们连起来。重点是让每个音都像可靠的港灯，而不是慌张的水花。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now turn on the harbor lights: A, C#, and E are your landing tones. Over a four-bar loop, every bar must end on a different one. Stay mostly in the lower register and pluck with calm consistency. If the line starts to drift, say the target note out loud before the next bar begins.",
+          "pt-BR": "Agora acenda as luzes do porto: A, C# e E são suas notas de chegada. Em um loop de quatro compassos, cada compasso deve terminar em uma diferente. Fique principalmente no registro grave e toque com consistência calma. Se a linha começar a derivar, diga a nota-alvo em voz alta antes de começar o próximo compasso.",
+          "es": "Ahora enciende las luces del puerto: A, C# y E son tus notas de llegada. En un loop de cuatro compases, cada compás debe terminar en una distinta. Quédate sobre todo en el registro grave y toca con consistencia tranquila. Si la línea empieza a desviarse, di la nota objetivo en voz alta antes de que comience el siguiente compás.",
+          "de": "Jetzt gehen die Hafenlichter an: A, Cis und E sind deine Landetöne. In einem Vier-Takt-Loop muss jeder Takt auf einem anderen davon enden. Bleib überwiegend im tiefen Register und zupfe mit ruhiger Konstanz. Wenn die Linie abzudriften beginnt, sag den Zielton laut, bevor der nächste Takt startet.",
+          "ja": "次に港の灯りを点けます。A、C#、Eを着地音にしてください。4小節ループの中で、各小節は毎回違う着地音で終わります。なるべく低い音域にとどまり、落ち着いて一定のタッチで弾きましょう。ラインが流され始めたら、次の小節の前に目標音を声に出します。",
+          "zh-Hans": "现在把港口灯打开：A、C#、E 就是你的落点音。在四小节循环里，每一小节都必须落在不同的一个上。大部分时间待在低音区，用平静而一致的拨弦完成。如果线条开始漂，就在下一小节开始前把目标音说出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add motion without losing pocket. Every second loop, place one ghost note before beat 3, then answer it with a strong landing. The ghost note should feel like a flicker, not a distraction. If the groove loosens, lower the note count before you even think about increasing tempo.",
+          "pt-BR": "Adicione movimento sem perder o pocket. A cada segunda volta, coloque uma ghost note antes do tempo 3 e responda com uma aterrissagem forte. A ghost note deve parecer um piscar de luz, não uma distração. Se o groove afrouxar, reduza a quantidade de notas antes mesmo de pensar em subir o andamento.",
+          "es": "Añade movimiento sin perder el pocket. En cada segunda vuelta, coloca una ghost note antes del tiempo 3 y respóndela con una llegada fuerte. La ghost note debe sentirse como un parpadeo, no como una distracción. Si el groove se afloja, reduce la cantidad de notas antes siquiera de pensar en subir el tempo.",
+          "de": "Bring Bewegung hinein, ohne das Pocket zu verlieren. In jedem zweiten Durchlauf setzt du vor Zählzeit 3 eine Ghost Note und beantwortest sie mit einer starken Landung. Die Ghost Note soll wie ein kurzes Flackern wirken, nicht wie eine Ablenkung. Wenn der Groove locker wird, reduziere zuerst die Notenzahl, bevor du überhaupt an mehr Tempo denkst.",
+          "ja": "ポケットを失わずに動きを加えます。2周ごとに、3拍目の前へゴーストノートを1つ置き、そのあと強い着地で答えます。ゴーストノートは気を散らすものではなく、ちらっと光る合図です。グルーヴがゆるんだら、テンポを上げる前にまず音数を減らしてください。",
+          "zh-Hans": "在不丢 pocket 的前提下加入动作。每到第二轮，在第3拍前放一个幽灵音，然后用一次有力的落点来回应。这个幽灵音应该像一闪而过的灯光，而不是干扰。如果 groove 开始松掉，先减少音符数量，再考虑提速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: four bars, four jobs. Bar 1 stays sparse. Bar 2 climbs with one passing tone. Bar 3 leaves beat 4 empty. Bar 4 reaches up to the octave before dropping back home to A. Repeat until the groove sounds reliable enough that a drummer would lock in without fear.",
+          "pt-BR": "Rodada de desafio: quatro compassos, quatro funções. O compasso 1 fica econômico. O compasso 2 sobe com uma nota de passagem. O compasso 3 deixa o tempo 4 vazio. O compasso 4 alcança a oitava e depois cai de volta em A. Repita até o groove soar confiável o bastante para um baterista travar junto sem medo.",
+          "es": "Ronda de desafío: cuatro compases, cuatro tareas. El compás 1 se queda austero. El compás 2 sube con una nota de paso. El compás 3 deja vacío el tiempo 4. El compás 4 sube hasta la octava antes de caer de nuevo a A. Repite hasta que el groove suene lo bastante confiable como para que un baterista se enganche sin miedo.",
+          "de": "Herausforderungsrunde: vier Takte, vier Aufgaben. Takt 1 bleibt sparsam. Takt 2 steigt mit einem Durchgangston. Takt 3 lässt Zählzeit 4 leer. Takt 4 greift kurz zur Oktave und fällt dann zurück auf A. Wiederhole das, bis der Groove so verlässlich klingt, dass ein Drummer ohne Sorge einrasten würde.",
+          "ja": "チャレンジラウンドです。4小節、4つの役割。1小節目は少ない音で保つ。2小節目は経過音を1つ使って上がる。3小節目は4拍目を空ける。4小節目はオクターブまで上がってからAへ戻る。ドラマーが不安なく乗れるくらい信頼感のあるグルーヴになるまで繰り返しましょう。",
+          "zh-Hans": "挑战回合：四小节，四个任务。第1小节保持稀疏。第2小节用一个经过音上行。第3小节把第4拍留空。第4小节先碰到八度，再落回 A。反复练，直到这个 groove 稳得像是鼓手会毫不犹豫地锁进去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by playing the same idea three ways: warm, punchy, and lightly muted. Do not let the tempo jump when the attack changes. Decide which version made the harbor feel safest, write it down, and then move the whole groove to B major before you call it done.",
+          "pt-BR": "Termine tocando a mesma ideia de três formas: quente, com punch e levemente abafada. Não deixe o tempo pular quando o ataque mudar. Decida qual versão fez o porto parecer mais seguro, anote isso e depois mova o groove inteiro para Si maior antes de encerrar.",
+          "es": "Termina tocando la misma idea de tres maneras: cálida, con pegada y ligeramente apagada. No dejes que el tempo salte cuando cambie el ataque. Decide qué versión hizo sentir el puerto más seguro, anótalo y luego mueve todo el groove a Si mayor antes de terminar.",
+          "de": "Beende die Einheit, indem du dieselbe Idee auf drei Arten spielst: warm, druckvoll und leicht gedämpft. Das Tempo darf nicht springen, wenn sich der Anschlag ändert. Entscheide, welche Version den Hafen am sichersten wirken ließ, schreib es auf und verlege dann den ganzen Groove nach B-Dur.",
+          "ja": "最後は同じアイデアを3種類で弾きます。あたたかく、パンチ強く、そして少しミュート気味です。アタックが変わってもテンポは跳ねさせないこと。どのバージョンがいちばん安全な港に感じられたか決めて書き留め、最後に全体をBメジャーへ移してください。",
+          "zh-Hans": "最后，把同一个想法分别用三种方式弹：温暖、有冲击力、轻微闷音。攻击方式变了，速度也不能跳。决定哪一种让这个港口最安全，把结果记下来，然后在结束前把整个 groove 移到 B 大调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-13T00:07:16Z",
+  "updatedAt": "2026-07-13T00:07:16Z"
+}

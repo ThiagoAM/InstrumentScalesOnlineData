@@ -1,0 +1,86 @@
+{
+  "id": "guitar-accent-maze-d-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Guitar Accent Maze in D Major. You are not just running a scale—you are sneaking through a fretboard maze where every accent reveals the next doorway.",
+          "pt-BR": "Bem-vindo ao Labirinto de Acentos na Guitarra em Ré Maior. Você não vai apenas tocar uma escala — vai atravessar um labirinto no braço em que cada acento revela a próxima porta.",
+          "es": "Bienvenido al Laberinto de Acentos para Guitarra en Re Mayor. No solo vas a tocar una escala: vas a cruzar un laberinto en el mástil donde cada acento revela la siguiente puerta.",
+          "de": "Willkommen im Gitarren-Akzentlabyrinth in D-Dur. Du spielst nicht einfach nur eine Tonleiter — du gehst durch ein Griffbrett-Labyrinth, in dem jeder Akzent die nächste Tür sichtbar macht.",
+          "ja": "Dメジャーのギター・アクセント迷路へようこそ。これはただのスケール練習ではありません。アクセントごとに次の扉が見える指板迷路の攻略です。",
+          "zh-Hans": "欢迎来到D大调吉他重音迷宫。你不是在单纯跑音阶，而是在穿越一座指板迷宫，每一次重音都会点亮下一扇门。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: play a two-octave D major scale in one comfortable position, then in a second position that connects to it. Keep alternate picking steady and say scale degrees 1-2-3-4-5-6-7 aloud on the way up.",
+          "pt-BR": "Preparação: toque uma escala de Ré maior em duas oitavas numa posição confortável e depois em uma segunda posição conectada. Mantenha a palhetada alternada estável e diga os graus 1-2-3-4-5-6-7 em voz alta na subida.",
+          "es": "Preparación: toca una escala de Re mayor de dos octavas en una posición cómoda y luego en una segunda posición conectada. Mantén la púa alternada estable y di en voz alta los grados 1-2-3-4-5-6-7 al subir.",
+          "de": "Setup: Spiele eine D-Dur-Tonleiter über zwei Oktaven in einer bequemen Lage und dann in einer zweiten verbundenen Lage. Halte das Wechselschlagspiel stabil und sprich auf dem Weg nach oben die Stufen 1-2-3-4-5-6-7 laut mit.",
+          "ja": "準備：弾きやすいポジションでDメジャーの2オクターブ・スケールを弾き、そのあと接続できる2つ目のポジションでも弾きます。オルタネイト・ピッキングを安定させ、上行では1-2-3-4-5-6-7の度数を声に出しましょう。",
+          "zh-Hans": "准备：先在一个舒服的把位弹两八度D大调音阶，再换到一个与之相连的第二把位。保持交替拨弦稳定，上行时大声说出1-2-3-4-5-6-7级数。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze rule one: accent every 3rd note on the first pass, every 4th note on the second pass, and every offbeat '&' on the third pass. The notes stay the same, but the groove changes the shape you feel under your fingers.",
+          "pt-BR": "Regra um do labirinto: acentue cada 3ª nota na primeira passada, cada 4ª nota na segunda e cada contratempo \"e\" na terceira. As notas são as mesmas, mas o groove muda o desenho que você sente nos dedos.",
+          "es": "Regla uno del laberinto: acentúa cada 3.ª nota en la primera pasada, cada 4.ª nota en la segunda y cada contratiempo \"y\" en la tercera. Las notas no cambian, pero el groove cambia la forma que sienten tus dedos.",
+          "de": "Labyrinth-Regel eins: Betone im ersten Durchgang jede 3. Note, im zweiten jede 4. Note und im dritten jede Offbeat-\"und\". Die Töne bleiben gleich, aber der Groove verändert das Muster unter deinen Fingern.",
+          "ja": "迷路ルール1：1回目は3音ごと、2回目は4音ごと、3回目は裏拍ごとにアクセントを置きます。音は同じでも、グルーヴが変わると指の下で感じる形が変わります。",
+          "zh-Hans": "迷宫规则一：第一遍每第3个音加重音，第二遍每第4个音加重音，第三遍每个反拍加重音。音还是那些音，但律动会改变你手下感受到的形状。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Maze rule two: at the top note, shift positions without stopping and descend with one surprise move—either a slide, a string skip, or a quick hammer-on/pull-off pair. If the move makes the rhythm wobble, slow down and rebuild the line cleanly.",
+          "pt-BR": "Regra dois do labirinto: na nota mais aguda, mude de posição sem parar e desça com um movimento surpresa — ou um slide, ou um pulo de corda, ou um hammer-on/pull-off rápido. Se o movimento bagunçar o ritmo, diminua e reconstrua a linha com limpeza.",
+          "es": "Regla dos del laberinto: en la nota más aguda, cambia de posición sin detenerte y baja con un movimiento sorpresa: un slide, un salto de cuerda o una pareja rápida de hammer-on/pull-off. Si el movimiento rompe el pulso, baja la velocidad y reconstruye la línea con limpieza.",
+          "de": "Labyrinth-Regel zwei: Wechsle am höchsten Ton ohne Stopp die Lage und gehe abwärts mit einer Überraschungsbewegung — entweder einem Slide, einem Saitensprung oder einem schnellen Hammer-on/Pull-off-Paar. Wenn der Move das Timing verwackelt, werde langsamer und baue die Linie sauber neu auf.",
+          "ja": "迷路ルール2：最高音で止まらずにポジション移動し、下降ではサプライズ動作を1つ入れます。スライド、弦飛び、または素早いハンマリング／プリングの組み合わせです。リズムが揺れたらテンポを落として、きれいに作り直しましょう。",
+          "zh-Hans": "迷宫规则二：到最高音时不停顿直接换把，下行时加入一个惊喜动作——滑音、跳弦，或者一组快速击弦/勾弦。如果这个动作让节奏发飘，就降速并把线条重新整理干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: set a metronome at 72 BPM and earn three checkpoints—clean tone, accurate accents, and a relaxed shift. When all three checkpoints feel solid, raise the tempo by 6 BPM and repeat.",
+          "pt-BR": "Rodada de desafio: coloque o metrônomo em 72 BPM e conquiste três checkpoints — timbre limpo, acentos corretos e troca relaxada de posição. Quando os três estiverem firmes, aumente 6 BPM e repita.",
+          "es": "Ronda de desafío: pon el metrónomo a 72 BPM y gana tres checkpoints: sonido limpio, acentos precisos y un cambio relajado de posición. Cuando los tres estén firmes, sube 6 BPM y repite.",
+          "de": "Challenge-Runde: Stell das Metronom auf 72 BPM und sammle drei Checkpoints — klarer Ton, präzise Akzente und ein entspannter Lagenwechsel. Wenn alle drei sicher sitzen, erhöhe um 6 BPM und wiederhole.",
+          "ja": "チャレンジ・ラウンド：メトロノームを72 BPMに設定し、きれいな音、正確なアクセント、力みのない移動という3つのチェックポイントを取ります。3つとも安定したら6 BPM上げて繰り返します。",
+          "zh-Hans": "挑战回合：把节拍器设为72 BPM，争取拿到三个检查点——音色干净、重音准确、换把放松。三个都稳定后，再提高6 BPM重复一次。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss move: improvise a two-bar lick in D major using one accent pattern from the maze and end on the root or third. If it sounds musical instead of mechanical, you escaped the maze.",
+          "pt-BR": "Golpe final: improvise um lick de dois compassos em Ré maior usando um padrão de acentos do labirinto e termine na tônica ou na terça. Se soar musical em vez de mecânico, você escapou do labirinto.",
+          "es": "Movimiento final: improvisa un lick de dos compases en Re mayor usando un patrón de acentos del laberinto y termina en la tónica o en la tercera. Si suena musical y no mecánico, escapaste del laberinto.",
+          "de": "Boss-Move: Improvisiere ein zweitaktiges Lick in D-Dur mit einem Akzentmuster aus dem Labyrinth und lande auf Grundton oder Terz. Wenn es musikalisch statt mechanisch klingt, bist du aus dem Labyrinth entkommen.",
+          "ja": "ボスムーブ：迷路で使ったアクセントパターンを1つ使って、Dメジャーで2小節のリックを即興し、最後はルートか3度で終えます。機械的ではなく音楽的に聞こえたら脱出成功です。",
+          "zh-Hans": "Boss动作：用迷宫中的一个重音模式，在D大调里即兴一个两小节lick，并落在根音或三度上。如果听起来是音乐而不是机械体操，你就成功逃出迷宫了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-10T00:05:18Z",
+  "updatedAt": "2026-07-10T00:05:18Z"
+}

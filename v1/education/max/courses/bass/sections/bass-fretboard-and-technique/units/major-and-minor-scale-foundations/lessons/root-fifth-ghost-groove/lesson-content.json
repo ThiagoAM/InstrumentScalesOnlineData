@@ -1,0 +1,86 @@
+{
+  "id": "root-fifth-ghost-groove",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a medium funk pulse. Today you’ll build bass lines from scale roots and fifths, then spice them with ghost notes.",
+          "pt-BR": "Defina um pulso funk médio. Hoje você vai construir linhas de baixo com tônicas e quintas da escala e temperar com ghost notes.",
+          "es": "Marca un pulso funk medio. Hoy construirás líneas de bajo con tónicas y quintas de la escala y las sazonarás con ghost notes.",
+          "de": "Stelle einen mittleren Funk-Puls ein. Heute baust du Basslinien aus Grundtönen und Quinten und würzt sie mit Ghost Notes.",
+          "ja": "ミディアムのファンクパルスを設定。今日はスケールのルートと5度でベースラインを作り、ゴーストノートでスパイスを加える。",
+          "zh-Hans": "设定中速放克脉冲。今天你用音阶的根音与五度构建低音线，再用幽灵音加味。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: in C major, play root–fifth–octave (C–G–C) on each string set. Say the scale degree as you play.",
+          "pt-BR": "Aquecimento: em Dó maior, toque tônica–quinta–oitava (Dó–Sol–Dó) em cada conjunto de cordas. Diga o grau da escala enquanto toca.",
+          "es": "Calentamiento: en Do mayor, toca tónica–quinta–octava (Do–Sol–Do) en cada grupo de cuerdas. Di el grado de la escala mientras tocas.",
+          "de": "Aufwärmen: in C-Dur spiele Grundton–Quinte–Oktave (C–G–C) auf jedem Saitensatz. Sage den Skalengrad beim Spielen.",
+          "ja": "ウォームアップ：Cメジャーでルート–5度–オクターブ（C–G–C）を各弦セットで弾く。弾きながらスケール度数を口にする。",
+          "zh-Hans": "热身：在C大调中，每组弦弹根音–五度–八度（C–G–C）。弹时说出音阶级数。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Minor swap: switch to A natural minor (A–E–A). Notice the shared notes. Keep the tempo at 80 bpm.",
+          "pt-BR": "Troca para menor: mude para Lá menor natural (Lá–Mi–Lá). Note as notas em comum. Mantenha o tempo em 80 bpm.",
+          "es": "Cambio a menor: pasa a La menor natural (La–Mi–La). Nota las notas compartidas. Mantén el tempo en 80 bpm.",
+          "de": "Wechsel zu Moll: gehe zu A-Natürlich-Moll (A–E–A). Achte auf die gemeinsamen Töne. Tempo 80 bpm.",
+          "ja": "マイナーへ：Aナチュラルマイナー（A–E–A）に切り替える。共通音を確認。テンポは80 bpm。",
+          "zh-Hans": "小调切换：转到A自然小调（A–E–A）。留意共有音。速度保持80 bpm。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove grid: use a 1-bar pattern — beat 1 root, beat 2 ghost note, beat 3 fifth, beat 4 rest. Loop it 8 times.",
+          "pt-BR": "Grade de groove: use um padrão de 1 compasso — tempo 1 tônica, tempo 2 ghost note, tempo 3 quinta, tempo 4 pausa. Repita 8 vezes.",
+          "es": "Cuadrícula de groove: usa un patrón de 1 compás — tiempo 1 tónica, tiempo 2 ghost note, tiempo 3 quinta, tiempo 4 silencio. Repítelo 8 veces.",
+          "de": "Groove-Gitter: nutze ein 1-Takt-Muster — Zählzeit 1 Grundton, Zählzeit 2 Ghost Note, Zählzeit 3 Quinte, Zählzeit 4 Pause. 8-mal loopen.",
+          "ja": "グルーヴグリッド：1小節パターン — 1拍目ルート、2拍目ゴースト、3拍目5度、4拍目休符。8回ループ。",
+          "zh-Hans": "律动网格：用1小节模式——第1拍根音、第2拍幽灵音、第3拍五度、第4拍休止。循环8遍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Scale fill: between loops, connect with a 4-note scale fill (C–D–E–G or A–B–C–E). Keep fills short and clean.",
+          "pt-BR": "Fill de escala: entre os loops, conecte com um fill de 4 notas (Dó–Ré–Mi–Sol ou Lá–Si–Dó–Mi). Mantenha os fills curtos e limpos.",
+          "es": "Relleno de escala: entre los bucles, conecta con un fill de 4 notas (Do–Re–Mi–Sol o La–Si–Do–Mi). Mantén los fills cortos y limpios.",
+          "de": "Skalen-Fill: zwischen den Loops verbinde mit einem 4-Noten-Fill (C–D–E–G oder A–H–C–E). Halte die Fills kurz und sauber.",
+          "ja": "スケールフィル：ループの間に4音のフィル（C–D–E–G または A–B–C–E）でつなぐ。フィルは短くクリーンに。",
+          "zh-Hans": "音阶填充：每轮之间用4音填充（C–D–E–G 或 A–B–C–E）连接。填充要短而干净。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: steady time and crisp ghost notes. Record 30 seconds and write one thing to tighten tomorrow.",
+          "pt-BR": "Checkpoint: tempo firme e ghost notes nítidas. Grave 30 segundos e anote uma coisa para ajustar amanhã.",
+          "es": "Checkpoint: tiempo estable y ghost notes claras. Graba 30 segundos y anota una cosa para ajustar mañana.",
+          "de": "Checkpoint: stabiles Timing und klare Ghost Notes. Nimm 30 Sekunden auf und notiere eine Sache zum Straffen morgen.",
+          "ja": "チェックポイント：タイムを安定させ、ゴーストノートを明確に。30秒録音して、明日直す点を1つ書く。",
+          "zh-Hans": "检查点：节奏稳定、幽灵音清晰。录30秒并写下一点明天要改进的内容。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-06T00:07:05Z",
+  "updatedAt": "2026-04-06T00:07:05Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "guitar-tension-trampoline",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to **Tension Trampoline**. Pick a backing track in **A minor** or **E minor** and stay in one familiar position. Your mission is to stop treating every scale note like it has the same job. Some notes feel like home, some feel like they’re hanging off the edge, and that contrast is where solos start sounding alive.\n\nFor the whole lesson, imagine you are bouncing on a trampoline: **land safely, spring upward, and come back under control**. If your phrase never leaves the safe center, it gets boring. If it never lands, it just sounds lost.",
+          "pt-BR": "Bem-vindo ao **Trampolim de Tensão**. Escolha uma backing track em **Lá menor** ou **Mi menor** e fique em uma posição que você já conhece. A missão aqui é parar de tratar toda nota da escala como se tivesse o mesmo trabalho. Algumas notas soam como casa; outras parecem estar na beirada, e esse contraste é o que faz o solo ganhar vida.\n\nDurante toda a lição, imagine que você está pulando em um trampolim: **pouse com segurança, suba com impulso e volte com controle**. Se a frase nunca sai do centro seguro, ela fica sem graça. Se nunca aterrissa, só parece perdida.",
+          "es": "Bienvenido al **Trampolín de Tensión**. Elige una base en **La menor** o **Mi menor** y quédate en una posición que ya conozcas. La misión aquí es dejar de tratar cada nota de la escala como si tuviera el mismo trabajo. Algunas notas suenan a casa; otras parecen estar al borde, y ese contraste es lo que hace que un solo cobre vida.\n\nDurante toda la lección, imagina que estás saltando en un trampolín: **aterriza con seguridad, sube con impulso y vuelve con control**. Si la frase nunca sale del centro seguro, se vuelve aburrida. Si nunca aterriza, solo suena perdida.",
+          "de": "Willkommen beim **Spannungs-Trampolin**. Such dir einen Backing-Track in **A-Moll** oder **E-Moll** und bleib in einer vertrauten Lage. Die Mission ist, nicht mehr jeden Skalenton so zu behandeln, als hätte er denselben Job. Manche Töne fühlen sich wie Zuhause an, andere wie ein Schritt an den Rand – und genau dieser Kontrast macht ein Solo lebendig.\n\nStell dir während der ganzen Lektion vor, du springst auf einem Trampolin: **sicher landen, hochfedern und kontrolliert zurückkommen**. Wenn deine Phrase nie aus der sicheren Mitte herausgeht, wird sie langweilig. Wenn sie nie landet, klingt sie einfach verloren.",
+          "ja": "**テンション・トランポリン**へようこそ。**Aマイナー**または**Eマイナー**のバッキングトラックを選び、まずは慣れたポジションにとどまりましょう。このレッスンの目的は、スケールのすべての音を同じ役割として扱わないことです。家のように落ち着く音もあれば、端にぶら下がるような音もあり、その対比こそがソロを生き生きさせます。\n\nレッスンの間ずっと、トランポリンで跳ねているイメージを持ってください。**安全に着地し、勢いよく跳ね上がり、またコントロールして戻る**のです。フレーズが安全地帯から一度も出なければ退屈になります。ずっと着地しなければ、ただ迷って聞こえます。",
+          "zh-Hans": "欢迎来到 **张力蹦床**。找一条 **A 小调** 或 **E 小调** 的伴奏，先待在你熟悉的一个把位里。这节课的任务，是别再把音阶里的每个音都当成做同一份工作的员工。有些音像回家，有些音像站在边缘，而这种反差，正是独奏开始活起来的地方。\n\n整个练习都把自己想成在蹦床上：**稳稳落地、借力弹起、再带着控制落回来**。如果你的乐句从不离开安全中心，它会很无聊；如果它从不落地，就只会显得迷路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **landing round**. Play only short phrases of **3 to 5 notes** and make each one finish on a note that feels settled over the chord.\n\nTry these landing notes first:\n- over **Am**: A, C, or E\n- over **Em**: E, G, or B\n\nPlay four phrases in a row. If the last note sounds like the phrase could keep falling forever, redo it until it lands cleanly.",
+          "pt-BR": "A Rodada 1 é a **rodada do pouso**. Toque frases curtas de **3 a 5 notas** e faça cada uma terminar em uma nota que soe resolvida sobre o acorde.\n\nExperimente estas notas de chegada primeiro:\n- sobre **Am**: A, C ou E\n- sobre **Em**: E, G ou B\n\nToque quatro frases seguidas. Se a nota final soar como se a frase ainda estivesse caindo, refaça até a chegada ficar limpa.",
+          "es": "La Ronda 1 es la **ronda del aterrizaje**. Toca frases cortas de **3 a 5 notas** y haz que cada una termine en una nota que suene resuelta sobre el acorde.\n\nPrueba primero estas notas de llegada:\n- sobre **Am**: A, C o E\n- sobre **Em**: E, G o B\n\nToca cuatro frases seguidas. Si la nota final suena como si la frase siguiera cayendo, repítela hasta que aterrice con claridad.",
+          "de": "Runde 1 ist die **Landerunde**. Spiele kurze Phrasen mit **3 bis 5 Tönen** und lass jede Phrase auf einem Ton enden, der sich über dem Akkord wirklich aufgelöst anfühlt.\n\nProbiere zuerst diese Landetöne:\n- über **Am**: A, C oder E\n- über **Em**: E, G oder B\n\nSpiele vier Phrasen hintereinander. Wenn der letzte Ton klingt, als würde die Phrase weiterfallen, wiederhole sie, bis sie sauber landet.",
+          "ja": "ラウンド1は**着地ラウンド**です。**3〜5音**の短いフレーズだけを弾き、毎回コードの上でしっかり落ち着く音に終わらせます。\n\nまずは次の着地音を試してください。\n- **Am** の上では A、C、E\n- **Em** の上では E、G、B\n\n4つのフレーズを続けて弾きましょう。最後の音がまだ落ち続けているように聞こえるなら、きれいに着地するまでやり直します。",
+          "zh-Hans": "第 1 回合是**落地回合**。只弹 **3 到 5 个音**的短乐句，并让每一句都结束在一个听起来真正解决了的音上。\n\n先试这些落点音：\n- 在 **Am** 上：A、C、E\n- 在 **Em** 上：E、G、B\n\n连续弹四句。如果最后一个音听起来像乐句还在继续往下掉，那就重来，直到它稳稳落地。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **bounce round**. Start the phrase on a stable note, then briefly touch one note that creates extra tension before returning home.\n\nEasy ways to do that:\n- approach a chord tone from **one fret below or above**\n- use the **blue note** as a quick passing sound\n- slide into the target note instead of hitting it directly\n\nThe rule is simple: tension is allowed to visit, but it does not get to rent the apartment.",
+          "pt-BR": "A Rodada 2 é a **rodada do salto**. Comece a frase em uma nota estável, depois toque rapidamente uma nota que crie tensão antes de voltar para casa.\n\nJeitos simples de fazer isso:\n- aproximar uma nota do acorde por **um semitom acima ou abaixo**\n- usar a **blue note** como passagem rápida\n- chegar na nota-alvo com um slide em vez de bater direto nela\n\nA regra é simples: a tensão pode fazer visita, mas não pode alugar o apartamento.",
+          "es": "La Ronda 2 es la **ronda del rebote**. Empieza la frase en una nota estable y luego toca brevemente una nota que cree tensión antes de volver a casa.\n\nFormas fáciles de hacerlo:\n- acercarte a un tono del acorde desde **un traste abajo o arriba**\n- usar la **blue note** como paso rápido\n- deslizarte hacia la nota objetivo en lugar de atacarla directamente\n\nLa regla es simple: la tensión puede venir de visita, pero no puede alquilar el apartamento.",
+          "de": "Runde 2 ist die **Absprungrunde**. Starte auf einem stabilen Ton und berühre dann kurz einen Ton mit mehr Spannung, bevor du wieder nach Hause kommst.\n\nEinfache Wege dafür:\n- einen Akkordton von **einem Bund tiefer oder höher** ansteuern\n- den **Blueston** als kurzen Durchgang benutzen\n- in den Zielton hineingleiten statt ihn direkt anzuschlagen\n\nDie Regel ist einfach: Spannung darf zu Besuch kommen, aber sie darf nicht die Wohnung mieten.",
+          "ja": "ラウンド2は**跳ね返りラウンド**です。安定した音から始めて、いったん緊張感のある音に触れ、そこからまた家に戻ります。\n\nやりやすい方法は次の通りです。\n- コードトーンを**半音上または下**から狙う\n- **ブルーノート**を短い通過音として使う\n- 目標音へ直接行かず、スライドで入る\n\nルールはシンプル。テンションは遊びに来ていいけれど、そこに住みついてはいけません。",
+          "zh-Hans": "第 2 回合是**弹跳回合**。从一个稳定音开始，短暂碰一下更有张力的音，然后再回家。\n\n可以这样做：\n- 从**上方或下方一个品**接近和弦音\n- 把 **蓝调音** 当作快速经过音\n- 不直接打目标音，而是滑进去\n\n规则很简单：张力可以来做客，但不能租下整套公寓。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **rhythm prank round**. Keep almost the same notes, but change the rhythm so the tension feels different.\n\nTest three versions of one phrase:\n- straight eighth notes\n- syncopated with an off-beat accent\n- same ending note, but with a rest before the landing\n\nThis is where many players wake up: the note choice matters, but rhythm decides whether the leap feels brave, sneaky, or dramatic.",
+          "pt-BR": "A Rodada 3 é a **rodada da pegadinha rítmica**. Mantenha quase as mesmas notas, mas troque o ritmo para a tensão mudar de cara.\n\nTeste três versões da mesma frase:\n- colcheias retas\n- síncope com acento no contratempo\n- a mesma nota final, mas com uma pausa antes da chegada\n\nÉ aqui que muita gente desperta: a escolha das notas importa, mas o ritmo decide se o salto soa corajoso, sorrateiro ou dramático.",
+          "es": "La Ronda 3 es la **ronda de la broma rítmica**. Mantén casi las mismas notas, pero cambia el ritmo para que la tensión se sienta distinta.\n\nPrueba tres versiones de una misma frase:\n- corcheas rectas\n- síncopa con acento en el contratiempo\n- la misma nota final, pero con un silencio antes de caer\n\nAquí es donde muchos músicos despiertan: la elección de notas importa, pero el ritmo decide si el salto se siente valiente, travieso o dramático.",
+          "de": "Runde 3 ist die **Rhythmus-Streichrunde**. Lass die Töne fast gleich, aber verändere den Rhythmus, damit sich die Spannung anders anfühlt.\n\nTeste drei Versionen derselben Phrase:\n- gerade Achtel\n- synkopiert mit Offbeat-Akzent\n- gleicher Zielton, aber mit einer Pause vor der Landung\n\nHier wachen viele Spieler auf: Die Tonwahl zählt, aber der Rhythmus entscheidet, ob der Sprung mutig, listig oder dramatisch wirkt.",
+          "ja": "ラウンド3は**リズムいたずらラウンド**です。音はほぼ同じままにして、リズムだけを変え、テンションの感じ方を変えます。\n\n同じフレーズで3パターン試しましょう。\n- まっすぐな8分音符\n- 裏拍アクセントのシンコペーション\n- 同じ終着音だが、着地前に休符を入れる\n\nここで多くのプレイヤーが目を覚まします。音選びも大事ですが、その跳躍が勇敢に聞こえるか、いたずらっぽく聞こえるか、ドラマチックに聞こえるかを決めるのはリズムです。",
+          "zh-Hans": "第 3 回合是**节奏恶作剧回合**。音基本不变，只改变节奏，让张力的感觉换一张脸。\n\n拿同一个乐句试三种版本：\n- 平直的八分音符\n- 带反拍重音的切分节奏\n- 终点音相同，但在落地前先留一个空拍\n\n很多人就是在这里突然开窍：音的选择当然重要，但决定这个跳跃听起来像勇敢、狡猾还是戏剧化的，其实是节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 4 is the **position-jump round**. Take the same idea and answer it in a new spot on the neck. The contour should still sound related, like the same character speaking from another balcony.\n\nBonus challenge:\n- first phrase low and compact\n- answer phrase higher and wider\n- both phrases must land on purpose\n\nIf the second phrase sounds random instead of connected, simplify it until the family resemblance comes back.",
+          "pt-BR": "A Rodada 4 é a **rodada do salto de posição**. Pegue a mesma ideia e responda em outro ponto do braço. O contorno precisa continuar aparentado, como o mesmo personagem falando de outra sacada.\n\nDesafio extra:\n- primeira frase mais grave e compacta\n- frase-resposta mais aguda e aberta\n- as duas precisam aterrissar com intenção\n\nSe a segunda frase soar aleatória em vez de conectada, simplifique até a semelhança voltar.",
+          "es": "La Ronda 4 es la **ronda del salto de posición**. Toma la misma idea y respóndela en otro lugar del mástil. El contorno debe seguir sonando emparentado, como si el mismo personaje hablara desde otro balcón.\n\nDesafío extra:\n- primera frase grave y compacta\n- frase de respuesta más aguda y más abierta\n- las dos deben aterrizar con intención\n\nSi la segunda frase suena aleatoria en vez de conectada, simplifícala hasta que vuelva el parecido de familia.",
+          "de": "Runde 4 ist die **Lagenwechsel-Runde**. Nimm dieselbe Idee und beantworte sie an einer anderen Stelle auf dem Hals. Die Kontur soll verwandt bleiben, als würde dieselbe Figur von einem anderen Balkon sprechen.\n\nBonus-Challenge:\n- erste Phrase tief und kompakt\n- Antwortphrase höher und breiter\n- beide Phrasen müssen bewusst landen\n\nWenn die zweite Phrase zufällig statt verbunden klingt, vereinfache sie, bis die Familienähnlichkeit zurückkommt.",
+          "ja": "ラウンド4は**ポジションジャンプ・ラウンド**です。同じアイデアを別のポジションで返答しましょう。輪郭はつながって聞こえるべきで、同じ登場人物が別のバルコニーから話しているような感覚です。\n\nボーナス課題:\n- 最初のフレーズは低めでコンパクト\n- 返答フレーズは高めで広め\n- どちらも意図して着地すること\n\n2つ目のフレーズがつながりではなく偶然に聞こえるなら、似た印象が戻るまで単純化してください。",
+          "zh-Hans": "第 4 回合是**把位跳跃回合**。把同一个想法移到指板另一个位置去回答。轮廓仍然要能听出血缘关系，像同一个角色站到另一处阳台继续说话。\n\n加分挑战：\n- 第一条乐句更低、更紧凑\n- 回答句更高、更开阔\n- 两句都必须有意识地落地\n\n如果第二句听起来像随机乱弹而不是有联系，就把它简化，直到“像一家人”的感觉回来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: record a **30-second solo** with these ingredients:\n- at least **2 stable landings**\n- at least **2 tension notes** that resolve clearly\n- **1 rhythmic fake-out**\n- **1 position jump**\n\nWhen you listen back, ask one honest question: **Did the tension create a story, or did I just sound busy?** If the answer is “story,” the trampoline is working.",
+          "pt-BR": "Missão final: grave um **solo de 30 segundos** com estes ingredientes:\n- pelo menos **2 pousos estáveis**\n- pelo menos **2 notas de tensão** resolvidas com clareza\n- **1 pegadinha rítmica**\n- **1 salto de posição**\n\nAo ouvir de volta, faça uma pergunta honesta: **a tensão criou uma história ou eu só soei ocupado?** Se a resposta for “história”, o trampolim funcionou.",
+          "es": "Misión final: graba un **solo de 30 segundos** con estos ingredientes:\n- al menos **2 aterrizajes estables**\n- al menos **2 notas de tensión** resueltas con claridad\n- **1 engaño rítmico**\n- **1 salto de posición**\n\nCuando lo escuches, hazte una pregunta honesta: **¿la tensión contó una historia o solo soné ocupado?** Si la respuesta es “historia”, el trampolín está funcionando.",
+          "de": "Finale Mission: Nimm ein **30-Sekunden-Solo** auf mit diesen Zutaten:\n- mindestens **2 stabile Landungen**\n- mindestens **2 Spannungstöne**, die klar aufgelöst werden\n- **1 rhythmische Finte**\n- **1 Lagenwechsel**\n\nBeim Anhören stell dir eine ehrliche Frage: **Hat die Spannung eine Geschichte erzählt, oder klang ich nur beschäftigt?** Wenn die Antwort „Geschichte“ lautet, funktioniert das Trampolin.",
+          "ja": "最後のミッションは、次の材料を入れた**30秒ソロ**を録音することです。\n- **安定した着地**を2回以上\n- **明確に解決するテンション音**を2回以上\n- **リズムのフェイント**を1回\n- **ポジションジャンプ**を1回\n\n聴き返すときは、正直にこう問いかけてください。**テンションは物語を作ったか、それとも忙しく聞こえただけか。** 答えが「物語」なら、このトランポリンは成功です。",
+          "zh-Hans": "最终任务：录一个 **30 秒独奏**，里面必须有：\n- 至少 **2 次稳定落地**\n- 至少 **2 次清楚解决的张力音**\n- **1 次节奏假动作**\n- **1 次把位跳跃**\n\n回听时，诚实问自己一句：**这些张力是在讲故事，还是只是让我听起来很忙？** 如果答案是“在讲故事”，那这张蹦床就真的起作用了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-03T00:08:53Z",
+  "updatedAt": "2026-05-03T00:08:53Z"
+}

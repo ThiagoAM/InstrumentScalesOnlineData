@@ -1,0 +1,73 @@
+{
+  "id": "piano-practice-pinball-map",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose D major and sketch a 12-minute practice map before you play a note. Minute 1-3 is your launch lane: hands separate, medium volume, perfect fingering only. Minute 4-7 is the bumper zone: hands together, but every mistake sends you back one beat to replay cleanly instead of bulldozing forward.",
+          "pt-BR": "Escolha Ré maior e desenhe um mapa de estudo de 12 minutos antes de tocar a primeira nota. Os minutos 1 a 3 são a pista de lançamento: mãos separadas, volume médio e digitação perfeita apenas. Os minutos 4 a 7 são a zona de bumpers: mãos juntas, mas cada erro manda você voltar um tempo para repetir limpo em vez de atropelar para frente.",
+          "es": "Elige Re mayor y dibuja un mapa de práctica de 12 minutos antes de tocar la primera nota. Los minutos 1 al 3 son la pista de lanzamiento: manos separadas, volumen medio y digitación perfecta solamente. Los minutos 4 al 7 son la zona de bumpers: manos juntas, pero cada error te devuelve un pulso para repetir con limpieza en lugar de seguir atropellando.",
+          "de": "Wähle D-Dur und zeichne dir eine 12-Minuten-Übekarte, bevor du den ersten Ton spielst. Minute 1 bis 3 ist die Startrampe: Hände getrennt, mittlere Lautstärke, nur perfekter Fingersatz. Minute 4 bis 7 ist die Bumper-Zone: beide Hände zusammen, aber jeder Fehler schickt dich einen Schlag zurück, damit du sauber wiederholst statt einfach weiterzuwalzen.",
+          "ja": "Dメジャーを選び、最初の音を弾く前に12分の練習マップを作ります。1〜3分は発射レーンです。片手ずつ、中くらいの音量で、運指は完璧だけを目指します。4〜7分はバンパー地帯。両手で弾きますが、ミスしたらそのまま突っ走らず、1拍戻ってきれいにやり直します。",
+          "zh-Hans": "选择D大调，在弹下第一个音之前，先画出一张12分钟的练习地图。第1到3分钟是发射通道：双手分开、中等音量、只接受完美指法。第4到7分钟进入 bumper 区：双手合起来弹，但每次出错都要退回一拍，干净重来，而不是硬着头皮往前冲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Minute 8-9 becomes the rebound wall. Play the scale in contrary motion or with alternating accents, and listen for whether both hands return to balance after each accent. The point is not speed; it is controlled recovery. Great practice is not mistake-free—it is mistake-responsive.",
+          "pt-BR": "Os minutos 8 e 9 viram a parede de rebote. Toque a escala em movimento contrário ou com acentos alternados e escute se as duas mãos voltam ao equilíbrio depois de cada acento. O ponto não é velocidade; é recuperação controlada. Um bom estudo não é livre de erros — é bom em responder aos erros.",
+          "es": "Los minutos 8 y 9 se convierten en la pared de rebote. Toca la escala en movimiento contrario o con acentos alternados y escucha si ambas manos vuelven al equilibrio después de cada acento. El objetivo no es la velocidad, sino la recuperación controlada. Una gran práctica no está libre de errores; sabe responder a ellos.",
+          "de": "Minute 8 und 9 werden zur Rückprallwand. Spiele die Tonleiter gegenläufig oder mit wechselnden Akzenten und höre, ob beide Hände nach jedem Akzent ins Gleichgewicht zurückfinden. Es geht nicht um Tempo, sondern um kontrollierte Erholung. Gutes Üben ist nicht fehlerfrei, sondern fehlerreaktionsstark.",
+          "ja": "8〜9分はリバウンド壁です。反行形や交互アクセントで音階を弾き、各アクセントのあとに両手がちゃんとバランスへ戻るかを聴きます。目的は速さではなく、回復をコントロールすることです。良い練習はミスがゼロなことではなく、ミスへの反応が上手いことです。",
+          "zh-Hans": "第8到9分钟是反弹墙。用反向进行或交替重音来弹音阶，听听每次重音之后，两只手能不能重新回到平衡。重点不是速度，而是有控制地恢复。真正好的练习不是完全没错，而是很会处理错误。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now place three score targets on your map: one technical, one rhythmic, one musical. For example: no collapsed wrist, steady sixteenth notes at 72 BPM, and a shaped crescendo going up with a softer release coming down. Say the three targets out loud before each run so your brain knows what counts as a win.",
+          "pt-BR": "Agora coloque três alvos de pontuação no seu mapa: um técnico, um rítmico e um musical. Por exemplo: sem punho colapsado, semicolcheias estáveis a 72 BPM e um crescendo moldado na subida com uma descida mais suave. Fale os três alvos em voz alta antes de cada tentativa para o cérebro saber o que conta como vitória.",
+          "es": "Ahora coloca tres objetivos de puntuación en tu mapa: uno técnico, uno rítmico y uno musical. Por ejemplo: sin muñeca colapsada, semicorcheas estables a 72 BPM y un crescendo con forma al subir y una bajada más suave al regresar. Di los tres objetivos en voz alta antes de cada intento para que tu mente sepa qué cuenta como victoria.",
+          "de": "Setze nun drei Punktezielmarken auf deine Karte: eine technische, eine rhythmische und eine musikalische. Zum Beispiel: kein eingefallener Handgelenkwinkel, stabile Sechzehntel bei 72 BPM und ein geformtes Crescendo nach oben mit weicherem Loslassen nach unten. Sprich die drei Ziele vor jedem Durchlauf laut aus, damit dein Kopf weiß, woran Erfolg gemessen wird.",
+          "ja": "次にマップへ3つの得点ターゲットを置きます。技術面、リズム面、音楽面でそれぞれ1つです。たとえば、手首をつぶさない、72 BPMで安定した16分音符、上行で自然なクレッシェンド・下行でやわらかくほどく、などです。毎回弾く前にその3つを声に出して、何を勝ちとするか脳に教えましょう。",
+          "zh-Hans": "现在在地图上放三个得分目标：一个技术目标、一个节奏目标、一个音乐目标。比如：手腕不塌、72 BPM 下十六分音符稳定、上行有塑形渐强、下行更柔和地释放。每次开始之前把这三个目标说出来，让大脑知道什么才算赢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the multi-ball round, break the scale into tiny missions: one run legato, one run staccato, one run with the left hand slightly louder, one run with the right hand singing above. You are learning to change the rules without losing the route. If the map falls apart, simplify immediately rather than collecting messy repetitions.",
+          "pt-BR": "Na rodada multibola, quebre a escala em missões pequenas: uma vez legato, uma vez staccato, uma vez com a mão esquerda um pouco mais forte, uma vez com a mão direita cantando por cima. Você está aprendendo a mudar as regras sem perder a rota. Se o mapa desmoronar, simplifique na hora em vez de colecionar repetições bagunçadas.",
+          "es": "En la ronda multibola, divide la escala en pequeñas misiones: una pasada legato, una pasada staccato, una pasada con la mano izquierda un poco más fuerte y una pasada con la mano derecha cantando arriba. Estás aprendiendo a cambiar las reglas sin perder la ruta. Si el mapa se rompe, simplifica de inmediato en vez de acumular repeticiones desordenadas.",
+          "de": "In der Multiball-Runde zerlegst du die Tonleiter in kleine Missionen: einmal legato, einmal staccato, einmal mit etwas lauterer linker Hand, einmal mit singender rechter Hand darüber. Du lernst, die Regeln zu ändern, ohne die Route zu verlieren. Wenn die Karte zerfällt, vereinfache sofort, statt chaotische Wiederholungen zu sammeln.",
+          "ja": "マルチボール・ラウンドでは、音階を小さなミッションに分けます。1回はレガート、1回はスタッカート、1回は左手を少し強めに、1回は右手を歌わせる。ルールを変えても道筋を失わない練習です。マップが崩れたら、散らかった反復を増やす前にすぐ簡単に戻してください。",
+          "zh-Hans": "进入 multiball 回合后，把音阶拆成几个小任务：一遍连奏、一遍断奏、一遍左手略大声、一遍让右手像在歌唱。你在学习的是：规则变了，路线也不能丢。如果整张地图开始崩掉，就立刻简化，不要继续堆积混乱的重复。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "End with a final checkpoint performance: one clean, musical run that proves the map actually led somewhere. Then write two quick notes: what bumper kept catching you, and what rebound made you stronger? Tomorrow's practice plan should start from those answers, not from guesswork.",
+          "pt-BR": "Termine com uma apresentação de checkpoint: uma execução limpa e musical que prove que o mapa levou a algum lugar. Depois anote duas observações rápidas: qual bumper continuou prendendo você e qual rebote deixou você mais forte? O plano de amanhã deve começar dessas respostas, não do chute.",
+          "es": "Termina con una actuación de checkpoint: una pasada limpia y musical que demuestre que el mapa realmente te llevó a algún lugar. Después escribe dos notas rápidas: ¿qué bumper seguía atrapándote y qué rebote te hizo más fuerte? El plan de mañana debe empezar a partir de esas respuestas, no de suposiciones.",
+          "de": "Beende die Einheit mit einer finalen Checkpoint-Performance: ein sauberer, musikalischer Durchgang, der beweist, dass die Karte wirklich irgendwohin geführt hat. Schreibe dann zwei kurze Notizen: Welcher Bumper hat dich immer wieder abgefangen, und welcher Rückprall hat dich stärker gemacht? Der Plan für morgen sollte mit diesen Antworten beginnen, nicht mit Rätselraten.",
+          "ja": "最後はチェックポイント演奏です。マップが本当にどこかへ導いたと証明する、きれいで音楽的な1回を弾きます。そのあと短く2つメモしましょう。どのバンパーで何度も引っかかったか。どの跳ね返りが自分を強くしたか。明日の練習計画は、その答えから始めるべきです。",
+          "zh-Hans": "最后做一次检查点演出：来一遍干净、音乐性完整的最终通过，证明这张地图真的把你带到了某个地方。然后快速记两笔：哪个 bumper 总把你挡下来？哪一次反弹让你更强？明天的练习计划应该从这些答案出发，而不是从猜测出发。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-07T00:09:20Z",
+  "updatedAt": "2026-07-07T00:09:20Z"
+}

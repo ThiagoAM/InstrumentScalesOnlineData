@@ -1,0 +1,86 @@
+{
+  "id": "guitar-scale-switchyard-sparks",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Switchyard Sparks. Pick **E minor pentatonic** or **G major** in one position and set a metronome to **84 BPM**. Your mission is to keep the train moving while you flip tiny musical switches without derailing the groove.",
+          "pt-BR": "Bem-vindo às Faíscas no Pátio de Trocas. Escolha **Mi menor pentatônica** ou **Sol maior** em uma posição e ajuste o metrônomo para **84 BPM**. Sua missão é manter o trem andando enquanto vira pequenas chaves musicais sem descarrilar o groove.",
+          "es": "Bienvenido a Chispas en el Patio de Cambios. Elige **Mi menor pentatónica** o **Sol mayor** en una sola posición y pon el metrónomo en **84 BPM**. Tu misión es mantener el tren en marcha mientras cambias pequeñas agujas musicales sin descarrilar el groove.",
+          "de": "Willkommen bei den Funken im Weichenfeld. Wähle **E-Moll-Pentatonik** oder **G-Dur** in einer Position und stell das Metronom auf **84 BPM**. Deine Aufgabe ist es, den Zug in Fahrt zu halten, während du kleine musikalische Weichen umstellst, ohne den Groove zu entgleisen.",
+          "ja": "スケール操車場のスパークへようこそ。**Eマイナー・ペンタトニック** か **Gメジャー** を1つのポジションで選び、メトロノームを **84 BPM** に設定します。小さな音楽のポイント切り替えを入れても、グルーヴを脱線させず列車を走らせ続けるのが任務です。",
+          "zh-Hans": "欢迎来到音阶调车场火花。选择一个把位里的 **E 小调五声音阶** 或 **G 大调**，把节拍器设为 **84 BPM**。你的任务是在不让 groove 脱轨的前提下，一边让“列车”前进，一边切换一些小小的音乐道岔。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Map the yard before you move. Find three **home notes** inside the shape: the root, the 3rd or b3, and one note on your highest string. Play straight 8th notes for two clean passes and say the home notes out loud when you land on them.",
+          "pt-BR": "Mapeie o pátio antes de sair. Encontre três **notas de casa** dentro do desenho: a tônica, a 3ª ou b3 e uma nota na corda mais aguda. Toque colcheias retas por duas passagens limpas e diga em voz alta as notas de casa quando cair nelas.",
+          "es": "Haz el mapa del patio antes de moverte. Encuentra tres **notas de casa** dentro de la forma: la tónica, la 3ª o b3 y una nota en la cuerda más aguda. Toca corcheas rectas durante dos pasadas limpias y di en voz alta las notas de casa cuando caigas en ellas.",
+          "de": "Kartiere den Bahnhof, bevor du losfährst. Finde drei **Heimattöne** in der Form: den Grundton, die 3 oder b3 und einen Ton auf der höchsten Saite. Spiele zwei saubere Durchgänge in geraden Achteln und sprich die Heimattöne laut aus, wenn du auf ihnen landest.",
+          "ja": "動く前に操車場の地図を作りましょう。形の中に3つの **ホームノート** を見つけます。ルート、3度または♭3、そして一番高い弦上の1音です。まっすぐな8分音符で2回きれいに通し、そこへ着地したらホームノート名を声に出してください。",
+          "zh-Hans": "先画地图再出发。在这个指型里找出三个 **主场音**：根音、3度或♭3，以及最高弦上的一个音。先用平稳的八分音符完整弹两遍，每次落到主场音时都把它说出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the first switch: every **4th beat**, change one thing only. You may slide into the next note, skip to a neighboring string, or repeat one note with a new accent. The phrase should still sound like one line, not three separate repairs.",
+          "pt-BR": "Agora adicione a primeira troca: a cada **4º tempo**, mude só uma coisa. Você pode fazer um slide para a próxima nota, saltar para uma corda vizinha ou repetir uma nota com um novo acento. A frase ainda deve soar como uma linha só, não como três consertos separados.",
+          "es": "Ahora añade el primer cambio: en cada **4.º tiempo**, cambia solo una cosa. Puedes deslizarte hacia la siguiente nota, saltar a una cuerda vecina o repetir una nota con un acento nuevo. La frase debe seguir sonando como una sola línea, no como tres reparaciones distintas.",
+          "de": "Jetzt kommt die erste Weiche: Auf jeder **4. Zählzeit** veränderst du genau eine Sache. Du darfst in den nächsten Ton sliden, auf eine Nachbarsaite springen oder einen Ton mit neuem Akzent wiederholen. Die Phrase soll trotzdem wie eine einzige Linie klingen, nicht wie drei getrennte Reparaturen.",
+          "ja": "次に最初の切り替えです。毎回 **4拍目** に、変えるのは1つだけ。次の音へスライドする、隣の弦へ飛ぶ、または同じ音を新しいアクセントで繰り返す、のどれかにします。それでもフレーズは3つの補修ではなく、1本のラインに聞こえなければなりません。",
+          "zh-Hans": "现在加入第一组道岔：每到 **第4拍**，只改变一件事。你可以滑进下一个音、跳到相邻的弦，或者用新的重音重复一个音。即便如此，整句还是要像一条连续的线，而不是三次临时补救。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round two is the spark test. Accent **2 and 4**, then make your detour happen right before one of those accents. If the accent disappears, the trick was too big. Shrink the move until the pulse still feels confident.",
+          "pt-BR": "A segunda rodada é o teste das faíscas. Acentue **2 e 4** e faça o desvio logo antes de um desses acentos. Se o acento sumir, o truque foi grande demais. Diminua o movimento até o pulso continuar confiante.",
+          "es": "La segunda ronda es la prueba de chispas. Acentúa **2 y 4** y haz el desvío justo antes de uno de esos acentos. Si el acento desaparece, el truco era demasiado grande. Reduce el movimiento hasta que el pulso siga firme.",
+          "de": "Runde zwei ist der Funkentest. Betone **2 und 4** und setze deinen Umweg direkt vor einen dieser Akzente. Wenn der Akzent verschwindet, war der Trick zu groß. Mach die Bewegung kleiner, bis der Puls wieder selbstbewusst bleibt.",
+          "ja": "第2ラウンドはスパークテスト。**2拍目と4拍目** を強調し、その直前で寄り道を入れます。アクセントが消えるなら、仕掛けが大きすぎます。拍が自信を保てる大きさまで動きを小さくしてください。",
+          "zh-Hans": "第二轮是火花测试。强调 **第2拍和第4拍**，并在其中一个重音前做出绕行。如果重音感消失了，说明动作太大。把动作缩小，直到脉冲依然稳稳站住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: play **4 bars** where bar 1 stays simple, bar 2 uses one switch, bar 3 uses two switches, and bar 4 ends on a home note with vibrato or a clean sustain. Record it once and listen for whether the ending sounded chosen instead of lucky.",
+          "pt-BR": "Rodada chefão: toque **4 compassos** em que o compasso 1 fica simples, o 2 usa uma troca, o 3 usa duas trocas e o 4 termina em uma nota de casa com vibrato ou uma sustentação limpa. Grave uma vez e ouça se o final soou escolhido em vez de sortudo.",
+          "es": "Ronda jefe: toca **4 compases** donde el compás 1 se mantiene simple, el 2 usa un cambio, el 3 usa dos cambios y el 4 termina en una nota de casa con vibrato o una resonancia limpia. Grábalo una vez y escucha si el final sonó elegido y no afortunado.",
+          "de": "Boss-Runde: Spiele **4 Takte**, wobei Takt 1 einfach bleibt, Takt 2 eine Weiche nutzt, Takt 3 zwei Weichen nutzt und Takt 4 auf einem Heimattön mit Vibrato oder sauberem Sustain endet. Nimm es einmal auf und prüfe, ob das Ende gewählt statt zufällig klang.",
+          "ja": "ボスラウンド：**4小節** 弾きます。1小節目はシンプル、2小節目は切り替え1回、3小節目は切り替え2回、4小節目はホームノートでビブラートかきれいな伸ばしで終えます。1回録音して、終わり方が偶然ではなく意図的に聞こえるか確認しましょう。",
+          "zh-Hans": "Boss 回合：弹 **4 小节**。第1小节保持简单，第2小节用一次切换，第3小节用两次切换，第4小节落在一个主场音上，并用揉弦或干净的延音结束。录一遍，听听这个结尾到底像是故意安排的，还是碰巧落对。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: move the whole game to a second key or position and keep the same calm timing. If you can keep the sparks playful while naming your landing notes, you are no longer just running a scale—you are steering it.",
+          "pt-BR": "Desafio final: leve o jogo inteiro para uma segunda tonalidade ou posição e mantenha o mesmo tempo calmo. Se você consegue manter as faíscas divertidas enquanto nomeia as notas de chegada, já não está só correndo a escala — está guiando ela.",
+          "es": "Desafío final: lleva todo el juego a otra tonalidad o posición y conserva el mismo tiempo calmado. Si puedes mantener las chispas juguetonas mientras nombras tus notas de llegada, ya no solo recorres una escala: la estás dirigiendo.",
+          "de": "Finale Challenge: Verlege das ganze Spiel in eine zweite Tonart oder Lage und behalte dieselbe ruhige Zeitkontrolle. Wenn du die Funken spielerisch halten und dabei deine Landetöne benennen kannst, läufst du nicht mehr nur eine Skala ab — du steuerst sie.",
+          "ja": "最終チャレンジ：このゲーム全体を別のキーか別ポジションへ移し、それでも落ち着いたタイムを保ちます。着地点の名前を言いながらスパークを遊び心のあるまま保てるなら、もうただスケールをなぞっているのではなく、操縦しています。",
+          "zh-Hans": "最终挑战：把整套游戏搬到另一个调或另一个把位里，同时保持同样冷静的时间感。如果你能一边说出落点音，一边让这些火花保持好玩，那你就不是在跑音阶，而是在驾驶它。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-28T00:06:54Z",
+  "updatedAt": "2026-06-28T00:06:54Z"
+}

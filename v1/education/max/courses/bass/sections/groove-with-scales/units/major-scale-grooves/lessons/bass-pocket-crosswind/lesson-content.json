@@ -1,0 +1,60 @@
+{
+  "id": "bass-pocket-crosswind",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome or drum loop at a relaxed tempo and build a two-bar groove in G major using only G, A, B, D, and a rest. Play it until it feels automatic. Then imagine a crosswind: your job is to keep the pulse solid even when the note order changes.",
+          "pt-BR": "Coloque um metrônomo ou loop de bateria em um andamento confortável e monte um groove de dois compassos em Sol maior usando apenas Sol, Lá, Si, Ré e uma pausa. Toque até ficar automático. Depois imagine um vento cruzado: sua missão é manter o pulso sólido mesmo quando a ordem das notas muda.",
+          "es": "Pon un metrónomo o un loop de batería a un tempo cómodo y construye un groove de dos compases en Sol mayor usando solo Sol, La, Si, Re y un silencio. Tócalo hasta que se sienta automático. Luego imagina un viento cruzado: tu trabajo es mantener el pulso sólido incluso cuando cambie el orden de las notas.",
+          "de": "Stell ein Metronom oder einen Drum-Loop auf ein entspanntes Tempo und baue einen zweitaktigen Groove in G-Dur nur mit G, A, B, D und einer Pause. Spiele ihn, bis er automatisch wirkt. Stell dir dann Seitenwind vor: Deine Aufgabe ist, den Puls fest zu halten, auch wenn sich die Tonreihenfolge ändert.",
+          "ja": "メトロノームかドラムループを無理のないテンポに設定し、GメジャーでG、A、B、D、そして休符だけを使った2小節グルーヴを作ります。自然に回るまで繰り返してください。そのあとで横風を想像します。音の並びが変わっても、拍を安定させるのが仕事です。",
+          "zh-Hans": "把节拍器或鼓循环设在一个舒服的速度，用G大调里的G、A、B、D和休止，做出一条两小节 groove。先弹到它像本能一样自然。然后想象有一阵侧风：即使音的顺序变化了，你也必须把脉冲守稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In bar 1, land hard on beat 1 and leave beat 2 empty. In bar 2, answer with a short pickup into beat 1. This creates forward pull without rushing. If the groove starts leaning forward, clap the rhythm without the bass, then rebuild the line.",
+          "pt-BR": "No compasso 1, aterrisse forte no tempo 1 e deixe o tempo 2 vazio. No compasso 2, responda com uma anacruse curta entrando no tempo 1. Isso cria impulso sem correr. Se o groove começar a tombar para frente, bata o ritmo sem o baixo e depois reconstrua a linha.",
+          "es": "En el compás 1, cae fuerte en el tiempo 1 y deja vacío el tiempo 2. En el compás 2, responde con un pickup corto hacia el tiempo 1. Eso crea impulso sin correr. Si el groove empieza a inclinarse hacia delante, aplaude el ritmo sin el bajo y luego reconstruye la línea.",
+          "de": "Im ersten Takt landest du hart auf Schlag 1 und lässt Schlag 2 leer. Im zweiten Takt antwortest du mit einem kurzen Auftakt in Schlag 1 hinein. Das erzeugt Vorwärtsdrang ohne Hektik. Wenn der Groove nach vorne kippt, klatsche zuerst den Rhythmus ohne Bass und baue die Linie dann neu auf.",
+          "ja": "1小節目では1拍目に強く着地し、2拍目は空けます。2小節目では1拍目へ向かう短いピックアップで返答します。これで走らずに前進感が生まれます。もしグルーヴが前のめりになったら、まずベースなしでリズムを手拍子し、そのあとラインを組み直しましょう。",
+          "zh-Hans": "第一小节在第1拍重重落下，第2拍完全留空。第二小节用一个短短的预备音回答到第1拍。这样能制造推进感，又不会越弹越抢。要是 groove 开始往前扑，就先不拿琴拍出节奏，再把线条重新搭回来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add one **crosswind note** per bar: C or E. These are not random decorations. Use them only as quick approach tones that resolve immediately to G, B, or D. The lesson here is that colorful notes are welcome only if your landing stays confident.",
+          "pt-BR": "Agora adicione uma **nota de vento cruzado** por compasso: Dó ou Mi. Elas não são enfeites aleatórios. Use-as apenas como notas rápidas de aproximação que resolvem imediatamente em Sol, Si ou Ré. A lição aqui é que notas coloridas são bem-vindas só quando a aterrissagem continua confiante.",
+          "es": "Ahora añade una **nota de viento cruzado** por compás: Do o Mi. No son adornos al azar. Úsalas solo como notas de aproximación rápidas que resuelvan de inmediato a Sol, Si o Re. La lección es que las notas con color son bienvenidas solo si el aterrizaje sigue siendo seguro.",
+          "de": "Jetzt kommt pro Takt eine **Seitenwind-Note** dazu: C oder E. Das sind keine zufälligen Verzierungen. Nutze sie nur als schnelle Annäherungstöne, die sofort nach G, B oder D aufgelöst werden. Die Lektion: farbige Töne sind willkommen, solange die Landung souverän bleibt.",
+          "ja": "次に各小節へ**横風ノート**を1つ加えます。使うのはCかEです。ただの飾りではありません。必ずG、B、Dへすぐ解決する短いアプローチ音として使ってください。色のある音は、着地に自信があるときだけ生きます。",
+          "zh-Hans": "现在每小节加一个**侧风音**：C或E。它们不是随便的装饰。只能把它们当成快速经过音，并且立刻解决到G、B或D。这里真正要学的是：有颜色的音当然可以用，但前提是你的落点依旧很有把握。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record four passes of the same groove. Pass 1 is clean notes only. Pass 2 adds ghost notes. Pass 3 adds one crosswind note per bar. Pass 4 keeps all of that but drops one surprise rest in a different spot. Listen back and judge the real win condition: does the pocket still feel trustworthy enough to make a drummer smile?",
+          "pt-BR": "Desafio final: grave quatro versões do mesmo groove. A versão 1 tem só notas limpas. A 2 acrescenta ghost notes. A 3 acrescenta uma nota de vento cruzado por compasso. A 4 mantém tudo isso, mas solta uma pausa-surpresa em outro lugar. Ouça de volta e julgue a verdadeira condição de vitória: o pocket ainda parece confiável o bastante para fazer um baterista sorrir?",
+          "es": "Desafío final: graba cuatro pasadas del mismo groove. La pasada 1 lleva solo notas limpias. La 2 añade ghost notes. La 3 añade una nota de viento cruzado por compás. La 4 mantiene todo eso pero deja un silencio sorpresa en otro lugar. Escucha y decide la condición real de victoria: ¿el pocket sigue siendo lo bastante confiable como para sacar una sonrisa a un baterista?",
+          "de": "Finale Herausforderung: Nimm vier Durchgänge desselben Grooves auf. Durchgang 1 hat nur klare Töne. Durchgang 2 fügt Ghost Notes hinzu. Durchgang 3 fügt pro Takt eine Seitenwind-Note hinzu. Durchgang 4 behält alles bei, aber setzt zusätzlich an neuer Stelle eine Überraschungspause. Hör zurück und bewerte die echte Siegbedingung: Fühlt sich das Pocket noch zuverlässig genug an, um einen Drummer lächeln zu lassen?",
+          "ja": "最終チャレンジでは同じグルーヴを4回録音します。1回目は通常の音だけ。2回目はゴーストノート追加。3回目は各小節に横風ノートを1つ追加。4回目はそこに加えて別の場所へ不意の休符を1つ落とします。聴き返して、本当の勝利条件を確認しましょう。ドラマーが笑顔になるくらい、そのポケットはまだ信頼できていますか。",
+          "zh-Hans": "最后挑战：把同一条 groove 录四遍。第1遍只有干净音。第2遍加入幽灵音。第3遍每小节加入一个侧风音。第4遍保留前面全部内容，再在另一个位置加一个出其不意的休止。回听时请判断真正的胜利条件：这个 pocket 还足够可靠吗，可靠到能让鼓手听了都笑出来吗？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-19T00:10:57Z",
+  "updatedAt": "2026-06-19T00:10:57Z"
+}

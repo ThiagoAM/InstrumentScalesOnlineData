@@ -1,0 +1,99 @@
+{
+  "id": "bass-pocket-elevator",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today your groove rides an elevator. Use **D major** over **D - G - A - D** at **82-96 BPM**. Each bar should rise with purpose, pause long enough to feel the height, then land back in the pocket like the floor arrived exactly on time.",
+          "pt-BR": "Hoje seu groove anda de elevador. Use **Ré maior** sobre **D - G - A - D** a **82-96 BPM**. Cada compasso deve subir com propósito, pausar o bastante para sentir a altura e depois cair de volta no pocket como se o andar tivesse chegado exatamente na hora certa.",
+          "es": "Hoy tu groove viaja en ascensor. Usa **Re mayor** sobre **D - G - A - D** a **82-96 BPM**. Cada compás debe subir con intención, pausar lo suficiente para sentir la altura y volver al pocket como si el piso llegara justo a tiempo.",
+          "de": "Heute fährt dein Groove Aufzug. Arbeite in **D-Dur** über **D - G - A - D** bei **82-96 BPM**. Jeder Takt soll bewusst steigen, lange genug oben schweben und dann so in die Pocket zurückfallen, als käme die Etage genau im richtigen Moment an.",
+          "ja": "今日のグルーヴはエレベーターに乗ります。**Dメジャー**、進行は **D - G - A - D**、テンポは **82-96 BPM** です。各小節は目的を持って上がり、高さを感じるだけ少し止まり、そしてちょうどいいタイミングで階に着いたようにポケットへ戻ってくる必要があります。",
+          "zh-Hans": "今天你的 groove 要坐电梯。请在 **D大调** 中，配合 **D - G - A - D** 的进行，以 **82-96 BPM** 练习。每小节都要有目的地上升，停留得刚好能让人感觉到高度，然后像电梯准点到站一样落回 pocket。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set the elevator rules:\n- beat **1** must clearly state the root\n- one note in each bar must move **up by step**\n- one note in each bar must move **down with authority**\n- leave at least one short silence so the groove can breathe\n\nLoop two bars until the pulse feels calm and heavy.",
+          "pt-BR": "Defina as regras do elevador:\n- o tempo **1** deve afirmar claramente a tônica\n- uma nota em cada compasso deve subir **por grau conjunto**\n- uma nota em cada compasso deve descer **com autoridade**\n- deixe pelo menos um pequeno silêncio para o groove respirar\n\nFaça um loop de 2 compassos até o pulso ficar calmo e pesado.",
+          "es": "Define las reglas del ascensor:\n- el tiempo **1** debe marcar claramente la tónica\n- una nota en cada compás debe subir **por grado conjunto**\n- una nota en cada compás debe bajar **con autoridad**\n- deja al menos un pequeño silencio para que el groove respire\n\nHaz un loop de 2 compases hasta que el pulso se sienta tranquilo y pesado.",
+          "de": "Lege die Aufzug-Regeln fest:\n- Schlag **1** muss die Tonika klar zeigen\n- ein Ton pro Takt muss sich **schrittweise nach oben** bewegen\n- ein Ton pro Takt muss **mit Autorität nach unten** gehen\n- lass mindestens einen kurzen Moment Stille, damit der Groove atmen kann\n\nSchleife zwei Takte, bis sich der Puls ruhig und schwer anfühlt.",
+          "ja": "エレベーターのルールを決めましょう。\n- **1拍目** ではルートをはっきり示す\n- 各小節に **順次上行** する音を1つ入れる\n- 各小節に **しっかり下がる** 音を1つ入れる\n- グルーヴが呼吸できるよう短い無音を少なくとも1つ入れる\n\n2小節をループし、脈が落ち着いて重く感じるまで続けます。",
+          "zh-Hans": "先定下电梯规则：\n- **第1拍** 必须清楚说明根音\n- 每小节都要有一个 **级进上行** 的音\n- 每小节都要有一个 **有分量地下行** 的音\n- 至少留一个短暂空白，让 groove 能呼吸\n\n把2小节循环起来，直到脉冲感既平静又厚重。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **up trip**. Build 1-bar grooves that climb only as far as the **3rd or 5th** before returning. If the climb feels dramatic but the landing feels weak, simplify the rhythm before adding more notes.",
+          "pt-BR": "A Rodada 1 é a **subida**. Monte grooves de 1 compasso que subam só até a **terça ou a quinta** antes de voltar. Se a subida soar dramática, mas a chegada ficar fraca, simplifique o ritmo antes de adicionar mais notas.",
+          "es": "La Ronda 1 es la **subida**. Construye grooves de 1 compás que suban solo hasta la **tercera o la quinta** antes de volver. Si la subida suena dramática pero la llegada es débil, simplifica el ritmo antes de añadir más notas.",
+          "de": "Runde 1 ist die **Aufwärtsfahrt**. Baue 1-taktige Grooves, die nur bis zur **Terz oder Quinte** steigen, bevor sie zurückkehren. Wenn der Anstieg dramatisch wirkt, die Landung aber schwach, vereinfache zuerst den Rhythmus, bevor du mehr Töne hinzufügst.",
+          "ja": "ラウンド1は **上り** です。**3度か5度** までだけ上がって戻る1小節グルーヴを作ってください。上昇がドラマチックでも着地が弱いなら、音を増やす前にまずリズムを簡潔にしましょう。",
+          "zh-Hans": "第1轮是 **上行**。做1小节律动，只上升到 **三度或五度** 就返回。如果上升很戏剧化，但落地很虚，就先把节奏简化，再考虑加更多音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **hover floor**. Place your highest note on **\"and\" of 2** or **beat 3**, then leave a tiny space before the line drops. That moment of suspension should make the return feel stronger, not empty.",
+          "pt-BR": "A Rodada 2 é o **andar suspenso**. Coloque a nota mais aguda no **\"e\" do tempo 2** ou no **tempo 3** e depois deixe um microespaço antes da descida. Esse momento suspenso deve deixar a volta mais forte, não mais vazia.",
+          "es": "La Ronda 2 es el **piso suspendido**. Coloca la nota más aguda en el **\"y\" de 2** o en el **tiempo 3**, y luego deja un pequeño espacio antes de bajar. Ese momento suspendido debe hacer que el regreso se sienta más fuerte, no más vacío.",
+          "de": "Runde 2 ist die **Schwebe-Etage**. Setze den höchsten Ton auf die **\"und\" von 2** oder auf **Schlag 3** und lass dann einen winzigen Raum, bevor die Linie fällt. Dieser Schwebe-Moment soll die Rückkehr stärker machen, nicht leerer.",
+          "ja": "ラウンド2は **空中停止フロア** です。いちばん高い音を **2拍目ウラ** か **3拍目** に置き、そのあと少しだけ空白を入れてから落とします。その宙づり感は、戻りを弱くするのではなく強くするべきです。",
+          "zh-Hans": "第2轮是 **悬停楼层**。把最高音放在 **第2拍后半拍** 或 **第3拍**，然后在线条下落前留一个小空隙。这个悬停时刻应该让回归更有力，而不是更空。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **express drop**. Bring the line home with one of these tools:\n- a longer root note\n- a ghost note right before the root\n- a tighter accent on the landing\n\nMake the ending feel good enough to repeat for a full minute.",
+          "pt-BR": "A Rodada 3 é a **queda expressa**. Traga a linha de volta para casa com uma destas ferramentas:\n- uma tônica mais longa\n- uma ghost note logo antes da tônica\n- um acento mais firme na chegada\n\nFaça o final soar bom o bastante para repetir por um minuto inteiro.",
+          "es": "La Ronda 3 es la **caída exprés**. Haz volver la línea a casa con una de estas herramientas:\n- una tónica más larga\n- una ghost note justo antes de la tónica\n- un acento más firme en la llegada\n\nHaz que el final se sienta tan bien que quieras repetirlo durante un minuto.",
+          "de": "Runde 3 ist der **Express-Abstieg**. Bring die Linie mit einem dieser Werkzeuge nach Hause:\n- einem längeren Grundton\n- einer Ghost Note direkt vor dem Grundton\n- einem festeren Akzent bei der Landung\n\nDas Ende soll so gut sitzen, dass du es eine ganze Minute wiederholen möchtest.",
+          "ja": "ラウンド3は **急降下** です。次のどれかでラインを家へ戻します。\n- 長めのルート音\n- ルート直前のゴーストノート\n- 着地でより締まったアクセント\n\nその終わり方を1分間繰り返したくなるくらい気持ちよく作ってください。",
+          "zh-Hans": "第3轮是 **快速下落**。用下面任一种方式把线条带回家：\n- 更长的根音\n- 根音前的一个 ghost note\n- 落点上更紧实的重音\n\n把结尾做得舒服到你愿意循环整整一分钟。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round: record **four passes** through the progression. Keep the same basic pulse in every pass, but change where the climb peaks and where the drop lands. Variety is welcome; wobble is not.",
+          "pt-BR": "Rodada chefão: grave **quatro voltas** na progressão. Mantenha o mesmo pulso básico em todas elas, mas mude onde a subida atinge o topo e onde a queda aterrissa. Variedade é bem-vinda; instabilidade, não.",
+          "es": "Ronda jefe: graba **cuatro vueltas** de la progresión. Mantén el mismo pulso básico en cada vuelta, pero cambia dónde alcanza su punto máximo la subida y dónde aterriza la caída. La variedad es bienvenida; el tambaleo no.",
+          "de": "Boss-Runde: Nimm **vier Durchgänge** über die Akkordfolge auf. Behalte in jedem Durchgang denselben Grundpuls, aber verändere, wo der Anstieg seinen Höhepunkt hat und wo der Abstieg landet. Abwechslung ist willkommen; Wackeln nicht.",
+          "ja": "ボスラウンド: 進行を **4周録音** します。基本の脈は毎回同じに保ちながら、どこで上昇が頂点に達し、どこで下降が着地するかだけを変えます。変化は歓迎、ぐらつきは不可です。",
+          "zh-Hans": "Boss轮：把整个进行 **录4遍**。每一遍都保持同样的基础脉冲，但改变上升的顶点位置和下落的落点位置。变化欢迎，摇晃不行。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Check yourself:\n- Which peak note created the best lift?\n- Did my silence make the groove feel deeper or just emptier?\n- Where did I stop sounding like a bassist and start sounding like an exercise?\n\nFinal upgrade: move the whole elevator game to **G major** with the same rules. If the groove still lands hard, your pocket is doing real work. 🎸",
+          "pt-BR": "Confira:\n- Qual nota de pico criou a melhor sensação de subida?\n- Meu silêncio deixou o groove mais fundo ou só mais vazio?\n- Em que ponto parei de soar como baixista e comecei a soar como exercício?\n\nDesafio final: leve todo o jogo do elevador para **Sol maior** com as mesmas regras. Se o groove ainda aterrissar pesado, seu pocket está fazendo trabalho de verdade. 🎸",
+          "es": "Revísate:\n- ¿Qué nota de pico creó la mejor sensación de elevación?\n- ¿Mi silencio hizo el groove más profundo o solo más vacío?\n- ¿En qué momento dejé de sonar como bajista y empecé a sonar como ejercicio?\n\nMejora final: mueve todo el juego del ascensor a **Sol mayor** con las mismas reglas. Si el groove sigue aterrizando con peso, tu pocket está trabajando de verdad. 🎸",
+          "de": "Prüfe dich:\n- Welcher Gipfelton erzeugte das beste Hebegefühl?\n- Hat meine Stille den Groove tiefer oder nur leerer gemacht?\n- Wo hörte ich auf, wie ein Bassist zu klingen, und klang nur noch wie eine Übung?\n\nLetztes Upgrade: Verschiebe das ganze Aufzugsspiel nach **G-Dur** und behalte dieselben Regeln. Wenn der Groove immer noch hart landet, arbeitet deine Pocket wirklich. 🎸",
+          "ja": "確認しましょう:\n- どの頂点の音がいちばん良い持ち上がり感を作りましたか？\n- 無音はグルーヴを深くしましたか、それとも空っぽにしましたか？\n- どこでベーシストらしさを失い、ただの練習になりましたか？\n\n最後のアップグレード: 同じルールのまま全体を **Gメジャー** に移してみましょう。それでも重く着地するなら、あなたのポケットは本当に機能しています。🎸",
+          "zh-Hans": "检查一下：\n- 哪个顶点音带来了最好的上升感？\n- 我的空白让 groove 更深，还是只是更空？\n- 我在哪一刻不再像贝斯手，而像在做练习题？\n\n最终升级：把整个电梯游戏移到 **G大调**，规则不变。如果 groove 依旧落地有力，说明你的 pocket 真的在工作。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-12T00:09:30Z",
+  "updatedAt": "2026-05-12T00:09:30Z"
+}

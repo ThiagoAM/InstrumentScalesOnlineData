@@ -1,0 +1,86 @@
+{
+  "id": "piano-echo-lane-rally",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Set the track\n\nChoose **C major** or **G major** and set the tempo to **80 bpm**.\n\nPlay one octave with standard fingering.\n\nThis rally is about making one hand speak clearly and the other hand answer fast without rushing.",
+          "pt-BR": "### Ajuste a pista\n\nEscolha **Dó maior** ou **Sol maior** e ajuste o andamento para **80 bpm**.\n\nToque uma oitava com o dedilhado padrão.\n\nEste rally é sobre fazer uma mão falar com clareza e a outra responder rápido sem correr.",
+          "es": "### Ajusta la pista\n\nElige **Do mayor** o **Sol mayor** y fija el tempo en **80 bpm**.\n\nToca una octava con la digitación estándar.\n\nEste rally consiste en hacer que una mano hable con claridad y que la otra responda rápido sin acelerarse.",
+          "de": "### Strecke einstellen\n\nWähle **C-Dur** oder **G-Dur** und setze das Tempo auf **80 bpm**.\n\nSpiele eine Oktave mit Standardsatz.\n\nBei dieser Rallye soll eine Hand klar sprechen und die andere schnell antworten, ohne zu hetzen.",
+          "ja": "### コース設定\n\n**Cメジャー** か **Gメジャー** を選び、テンポを **80 bpm** に設定します。\n\n標準の指使いで1オクターブ弾きましょう。\n\nこのラリーの目的は、片手が明確に話し、もう片手が急がず素早く返事をすることです。",
+          "zh-Hans": "### 设定赛道\n\n选择 **C大调** 或 **G大调**，把速度设为 **80 bpm**。\n\n用标准指法弹一组一八度音阶。\n\n这场拉力赛的目标是：一只手清楚开口，另一只手快速回应，但绝不抢拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 1: clean first voice\n\nPlay the scale up and down with the **right hand alone**, then with the **left hand alone**.\n\nListen for:\n- even tone\n- smooth thumb crossings\n- no extra accents on the turn-around note\n\nDo 3 clean reps per hand before moving on.",
+          "pt-BR": "### Rodada 1: primeira voz limpa\n\nToque a escala subindo e descendo com a **mão direita sozinha**, depois com a **mão esquerda sozinha**.\n\nEscute:\n- timbre uniforme\n- passagens de polegar suaves\n- nenhum acento extra na nota da virada\n\nFaça 3 repetições limpas por mão antes de seguir.",
+          "es": "### Ronda 1: primera voz limpia\n\nToca la escala hacia arriba y hacia abajo con la **mano derecha sola** y luego con la **mano izquierda sola**.\n\nEscucha:\n- sonido parejo\n- cruces de pulgar suaves\n- ningún acento extra en la nota de giro\n\nHaz 3 repeticiones limpias por mano antes de seguir.",
+          "de": "### Runde 1: saubere erste Stimme\n\nSpiele die Skala auf und ab mit der **rechten Hand allein**, dann mit der **linken Hand allein**.\n\nAchte auf:\n- gleichmäßigen Ton\n- ruhige Daumenübergänge\n- keine Extra-Akzente auf dem Wendeton\n\nMach pro Hand 3 saubere Durchgänge, bevor du weitergehst.",
+          "ja": "### ラウンド1：きれいな第一声\n\n**右手だけ** でスケールを上下し、そのあと **左手だけ** で上下します。\n\n聴くポイント：\n- 音色の均一さ\n- なめらかな親指くぐり\n- 折り返しの音に余計なアクセントがないこと\n\n各手で3回きれいにできてから進みます。",
+          "zh-Hans": "### 第1轮：干净的第一声\n\n先用 **右手单独** 上下弹音阶，再用 **左手单独** 弹。\n\n注意：\n- 音色均匀\n- 穿指顺滑\n- 转折音上没有多余重音\n\n每只手都做 3 次干净重复再进入下一轮。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 2: eighth-note echo\n\nNow the left hand becomes an echo.\n\nRight hand starts first, and the left hand copies the same shape **one eighth note later**.\n\nAfter 4 clean passes, swap roles so the left hand leads and the right hand echoes.",
+          "pt-BR": "### Rodada 2: eco de colcheia\n\nAgora a mão esquerda vira um eco.\n\nA mão direita começa primeiro, e a esquerda copia o mesmo desenho **uma colcheia depois**.\n\nDepois de 4 passagens limpas, troque os papéis para a esquerda liderar e a direita ecoar.",
+          "es": "### Ronda 2: eco de corchea\n\nAhora la mano izquierda se convierte en eco.\n\nLa mano derecha empieza primero y la izquierda copia la misma forma **una corchea más tarde**.\n\nDespués de 4 vueltas limpias, cambia los papeles para que la izquierda lidere y la derecha haga eco.",
+          "de": "### Runde 2: Achtel-Echo\n\nJetzt wird die linke Hand zum Echo.\n\nDie rechte Hand beginnt, und die linke kopiert dieselbe Form **eine Achtelnote später**.\n\nNach 4 sauberen Durchläufen tauscht ihr die Rollen.",
+          "ja": "### ラウンド2：8分音符エコー\n\n今度は左手がエコー役です。\n\n右手が先に始め、左手が同じ形を **8分音符1つ遅れて** 追いかけます。\n\n4回きれいにできたら、左手が先導し右手がエコーする形に交代します。",
+          "zh-Hans": "### 第2轮：八分音符回声\n\n现在左手变成回声。\n\n右手先开始，左手 **晚一个八分音符** 复制同样的形状。\n\n干净完成 4 遍后，交换角色，让左手领跑、右手回声。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 3: dynamic lane change\n\nKeep the delayed echo, but give the leader **mezzo-forte** and the echo **piano**.\n\nAfter 3 good reps, reverse the dynamics.\n\nIf the soft hand blurs, slow down until both hands stay organized.",
+          "pt-BR": "### Rodada 3: troca dinâmica de faixa\n\nMantenha o eco atrasado, mas dê **mezzo-forte** para a líder e **piano** para o eco.\n\nDepois de 3 boas repetições, inverta as dinâmicas.\n\nSe a mão suave borrar, diminua o andamento até as duas mãos ficarem organizadas.",
+          "es": "### Ronda 3: cambio dinámico de carril\n\nMantén el eco retrasado, pero da **mezzo-forte** a la líder y **piano** al eco.\n\nDespués de 3 buenas repeticiones, invierte las dinámicas.\n\nSi la mano suave se emborrona, baja el tempo hasta que ambas manos sigan organizadas.",
+          "de": "### Runde 3: dynamischer Spurwechsel\n\nBehalte das verzögerte Echo, aber gib der führenden Hand **mezzo-forte** und dem Echo **piano**.\n\nNach 3 guten Durchgängen drehst du die Dynamik um.\n\nWenn die leise Hand verschwimmt, reduziere das Tempo, bis beide Hände geordnet bleiben.",
+          "ja": "### ラウンド3：ダイナミクス車線変更\n\n遅れたエコーを保ちつつ、先導する手を **mezzo-forte**、エコーを **piano** にします。\n\n3回うまくできたらダイナミクスを入れ替えます。\n\n弱い手がぼやけるなら、両手が整うまでテンポを落としてください。",
+          "zh-Hans": "### 第3轮：力度换道\n\n保持延迟回声，但让领奏手弹 **mezzo-forte**，回声手弹 **piano**。\n\n做出 3 次不错的重复后，反过来。\n\n如果弱音手开始模糊，就降速，直到双手重新整齐。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Round 4: checkpoint rhythm\n\nKeep the same echo setup, but stop for one quarter note at the top of the scale.\n\nBoth hands must freeze together and restart together.\n\nThis pause checks whether you are really counting or just surfing momentum.",
+          "pt-BR": "### Rodada 4: ritmo de checkpoint\n\nMantenha o mesmo formato de eco, mas pare por uma semínima no topo da escala.\n\nAs duas mãos precisam congelar juntas e recomeçar juntas.\n\nEssa pausa testa se você está realmente contando ou só surfando no embalo.",
+          "es": "### Ronda 4: ritmo de control\n\nMantén la misma configuración de eco, pero detente una negra en la parte alta de la escala.\n\nAmbas manos deben congelarse juntas y volver a arrancar juntas.\n\nEsta pausa comprueba si realmente estás contando o solo dejándote llevar por el impulso.",
+          "de": "### Runde 4: Checkpoint-Rhythmus\n\nBehalte dasselbe Echo-Setup, aber halte oben auf der Skala eine Viertelnote lang an.\n\nBeide Hände müssen gemeinsam einfrieren und gemeinsam wieder einsetzen.\n\nDiese Pause prüft, ob du wirklich zählst oder nur auf dem Schwung surfst.",
+          "ja": "### ラウンド4：チェックポイント・リズム\n\n同じエコー設定のまま、スケール頂点で4分音符1つ分止まります。\n\n両手は一緒に止まり、一緒に再開しなければいけません。\n\nこの停止で、本当に数えているのか、勢いだけで進んでいるのかが分かります。",
+          "zh-Hans": "### 第4轮：检查点节奏\n\n保持同样的回声设置，但在音阶顶部停一个四分音符。\n\n两只手必须一起冻结，也一起重新出发。\n\n这个停顿会检查你到底是在认真计数，还是只是顺着惯性往前冲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final challenge\n\nBuild a **4-pass routine**:\n- right hand leads\n- left hand leads\n- right hand loud / left hand soft\n- left hand loud / right hand soft\n\nThen move the whole routine to the other key. If the echoes stay clean, your scales are starting to sound like chamber music with a tiny race engine. 🎹",
+          "pt-BR": "### Desafio final\n\nMonte uma **rotina de 4 passagens**:\n- mão direita lidera\n- mão esquerda lidera\n- direita forte / esquerda suave\n- esquerda forte / direita suave\n\nDepois leve a rotina inteira para a outra tonalidade. Se os ecos continuarem limpos, suas escalas estão começando a soar como música de câmara com um micro motor de corrida. 🎹",
+          "es": "### Desafío final\n\nConstruye una **rutina de 4 pasadas**:\n- lidera la mano derecha\n- lidera la mano izquierda\n- derecha fuerte / izquierda suave\n- izquierda fuerte / derecha suave\n\nLuego mueve toda la rutina a la otra tonalidad. Si los ecos siguen limpios, tus escalas empiezan a sonar como música de cámara con un pequeño motor de carreras. 🎹",
+          "de": "### Abschluss-Challenge\n\nBaue eine **4-Durchgangs-Routine**:\n- rechte Hand führt\n- linke Hand führt\n- rechts laut / links leise\n- links laut / rechts leise\n\nDann verlege die ganze Routine in die andere Tonart. Wenn die Echos sauber bleiben, klingen deine Skalen langsam wie Kammermusik mit kleinem Rennmotor. 🎹",
+          "ja": "### 最終チャレンジ\n\n**4パスのルーティン** を作りましょう。\n- 右手が先導\n- 左手が先導\n- 右手強く / 左手弱く\n- 左手強く / 右手弱く\n\nそのあと全体をもう一方の調へ移します。エコーがきれいに残れば、あなたのスケールは小さなレースエンジン付きの室内楽みたいに聞こえ始めます。🎹",
+          "zh-Hans": "### 最终挑战\n\n建立一个 **4遍例行练习**：\n- 右手领奏\n- 左手领奏\n- 右手强 / 左手弱\n- 左手强 / 右手弱\n\n然后把整套移到另一条调上。如果回声依然干净，你的音阶就开始像带着小赛车引擎的室内乐了。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-03T00:09:03Z",
+  "updatedAt": "2026-06-03T00:09:03Z"
+}

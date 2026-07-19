@@ -1,0 +1,86 @@
+{
+  "id": "bass-groove-dominoes-in-g-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Think of this lesson like knocking over musical dominoes. You are not trying to play a huge bass line all at once. You are building one small move at a time until the whole groove falls into place. Use **G major**, set a metronome or drum loop, and keep the sound deep and relaxed.",
+          "pt-BR": "Pense nesta lição como uma fileira de dominós musicais. Você não vai tentar tocar uma linha enorme de baixo de uma vez. Vai construir um movimento pequeno por vez até o groove inteiro cair no lugar. Use **Sol maior**, ligue um metrônomo ou loop de bateria e mantenha o som grave e relaxado.",
+          "es": "Piensa en esta lección como una fila de dominós musicales. No intentas tocar una línea de bajo enorme de una sola vez. Vas a construir un movimiento pequeño cada vez hasta que todo el groove caiga en su sitio. Usa **Sol mayor**, activa un metrónomo o un loop de batería y mantén el sonido profundo y relajado.",
+          "de": "Stell dir diese Lektion wie fallende musikalische Dominos vor. Du versuchst nicht, sofort eine riesige Basslinie zu spielen. Du baust einen kleinen Baustein nach dem anderen, bis der ganze Groove sitzt. Nimm **G-Dur**, starte Metronom oder Drum-Loop und halte den Sound tief und entspannt.",
+          "ja": "このレッスンは、音楽のドミノ倒しだと思ってください。最初から大きなベースラインを全部弾こうとするのではなく、小さな動きを1つずつ積み上げて、最後にグルーヴ全体を完成させます。**Gメジャー** を使い、メトロノームかドラムループを流し、深くリラックスした音を保ちましょう。",
+          "zh-Hans": "把这节课想成一排音乐多米诺。你不是要一下子弹出一整条庞大的贝斯线，而是一次搭一个小动作，直到整条 groove 自己倒进正确的位置。用 **G大调**，打开节拍器或鼓循环，让声音保持深沉、放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with three domino pieces: **root**, **step**, and **jump**. In G major, your root is **G**, your step can move to **A** or **F#**, and your jump can leap to **D** or the upper **G**. Play only one bar at a time and make each bar use exactly two of those three moves.",
+          "pt-BR": "Comece com três peças de dominó: **tônica**, **passo** e **salto**. Em Sol maior, sua tônica é **Sol**, seu passo pode ir para **Lá** ou **F#**, e seu salto pode pular para **Ré** ou para o **Sol** agudo. Toque só um compasso por vez e faça cada compasso usar exatamente dois desses três movimentos.",
+          "es": "Empieza con tres piezas de dominó: **tónica**, **paso** y **salto**. En Sol mayor, tu tónica es **Sol**, tu paso puede ir a **La** o **F#**, y tu salto puede ir a **Re** o al **Sol** agudo. Toca solo un compás por vez y haz que cada compás use exactamente dos de esos tres movimientos.",
+          "de": "Beginne mit drei Domino-Teilen: **Grundton**, **Schritt** und **Sprung**. In G-Dur ist dein Grundton **G**, dein Schritt kann zu **A** oder **F#** gehen, und dein Sprung kann zu **D** oder zum hohen **G** springen. Spiele immer nur einen Takt und nutze in jedem Takt genau zwei dieser drei Bewegungen.",
+          "ja": "最初のドミノは3種類です。**ルート**、**ステップ**、**ジャンプ**。Gメジャーならルートは **G**、ステップは **A** または **F#**、ジャンプは **D** または高い **G** に飛べます。まずは1小節ずつ弾き、各小節でこの3つのうちちょうど2種類の動きだけを使ってください。",
+          "zh-Hans": "先准备三块多米诺：**根音**、**级进**、**跳进**。在G大调里，根音是 **G**，级进可以去 **A** 或 **F#**，跳进可以跳到 **D** 或高八度 **G**。一次只做一小节，而且每一小节必须只用这三种动作里的其中两种。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add space. In every new bar, one beat must be a **rest** or a very short **ghost note**. This rule keeps the groove from sounding like a scale exercise. If every beat is full, the line has no place to breathe or punch.",
+          "pt-BR": "Agora adicione espaço. Em cada novo compasso, um tempo precisa ser uma **pausa** ou uma **ghost note** bem curta. Essa regra impede que o groove soe como exercício de escala. Se todo tempo estiver cheio, a linha não respira nem tem impacto.",
+          "es": "Ahora añade espacio. En cada compás nuevo, un pulso debe ser un **silencio** o una **ghost note** muy corta. Esta regla evita que el groove suene como ejercicio de escala. Si todo el compás está lleno, la línea no respira ni golpea.",
+          "de": "Jetzt kommt Raum dazu. In jedem neuen Takt muss ein Schlag eine **Pause** oder eine sehr kurze **Ghost Note** sein. Diese Regel verhindert, dass der Groove wie eine Skalenübung klingt. Wenn jeder Schlag voll ist, hat die Linie weder Luft noch Punch.",
+          "ja": "次にスペースを入れます。新しい小節ごとに、1拍は **休符** か短い **ゴーストノート** にしましょう。このルールがないと、グルーヴがただのスケール練習に聞こえてしまいます。全部の拍を埋めると、ラインに呼吸もパンチもなくなります。",
+          "zh-Hans": "现在加入留白。每一个新小节里，必须有一拍是 **休止** 或非常短的 **幽灵音**。这条规则能防止 groove 听起来像音阶作业。要是每一拍都塞满，线条就没有呼吸，也没有冲击力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, build a four-bar chain. Bar 1 should feel simple and grounded. Bar 2 should answer it with a slightly busier rhythm. Bar 3 should climb a little higher in register. Bar 4 must clearly land back on **G** so the loop feels complete. If one bar sounds cooler than the others, keep it and rewrite the weak one.",
+          "pt-BR": "Em seguida, monte uma corrente de quatro compassos. O compasso 1 deve soar simples e firme. O compasso 2 deve responder com um ritmo um pouco mais movimentado. O compasso 3 deve subir um pouco de registro. O compasso 4 precisa pousar claramente de volta no **Sol** para o loop parecer completo. Se um compasso soar muito melhor que os outros, mantenha-o e reescreva o mais fraco.",
+          "es": "Después construye una cadena de cuatro compases. El compás 1 debe sentirse simple y sólido. El compás 2 debe responder con un ritmo un poco más activo. El compás 3 debe subir un poco de registro. El compás 4 debe aterrizar claramente en **Sol** para que el loop se sienta completo. Si un compás suena mejor que los otros, consérvalo y reescribe el más débil.",
+          "de": "Baue als Nächstes eine Kette aus vier Takten. Takt 1 soll einfach und geerdet wirken. Takt 2 antwortet mit einem etwas geschäftigeren Rhythmus. Takt 3 steigt etwas höher im Register. Takt 4 muss klar auf **G** landen, damit sich der Loop vollständig anfühlt. Wenn ein Takt deutlich besser klingt als die anderen, behalte ihn und schreibe den schwächeren neu.",
+          "ja": "続いて4小節の連鎖を作ります。1小節目はシンプルで安定した感じ。2小節目は少し忙しいリズムで応答。3小節目は少し高い音域へ上がる。4小節目は **G** に明確に着地して、ループが完結した感じを作ります。もし特に良い小節があればそれを残し、弱い小節を書き直しましょう。",
+          "zh-Hans": "接着搭一个四小节链条。第1小节应该简单、稳。第2小节用稍微更忙一点的节奏来回应。第3小节往更高的音区爬一点。第4小节必须清楚地落回 **G**，让循环听起来完整。如果某一小节明显更酷，就留下它，把最弱的一小节重写。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: keep the same four bars, but move the main accent. First accent beat **1**, then beat **2**, then the **& of 3**. Your notes can stay nearly the same, but the feel will change fast. That is a bass superpower: same notes, different pocket.",
+          "pt-BR": "Rodada de desafio: mantenha os mesmos quatro compassos, mas mude o acento principal. Primeiro acentue o tempo **1**, depois o tempo **2**, depois o **& do 3**. As notas podem quase não mudar, mas a sensação muda rápido. Esse é um superpoder do baixo: mesmas notas, pocket diferente.",
+          "es": "Ronda de desafío: conserva los mismos cuatro compases, pero mueve el acento principal. Primero acentúa el tiempo **1**, luego el tiempo **2**, y luego el **& de 3**. Las notas pueden quedarse casi iguales, pero la sensación cambiará rápido. Ese es un superpoder del bajo: mismas notas, distinto pocket.",
+          "de": "Challenge-Runde: Behalte dieselben vier Takte, verschiebe aber den Hauptakzent. Erst auf Schlag **1**, dann auf Schlag **2**, dann auf das **& von 3**. Die Töne können fast gleich bleiben, aber das Gefühl ändert sich sofort. Das ist eine Superkraft des Bassisten: gleiche Töne, anderes Pocket.",
+          "ja": "チャレンジでは、同じ4小節を保ったままメインのアクセントだけを動かします。最初は **1拍目**、次は **2拍目**、最後は **3拍目の裏**。音はほとんど同じでも、フィールは一気に変わります。これがベースの強みです。同じ音でもポケットは変えられます。",
+          "zh-Hans": "挑战回合：保留这四小节，但移动主要重音。先重在 **第1拍**，再重在 **第2拍**，然后重在 **第3拍后半拍**。音几乎可以不变，但感觉会立刻变掉。这就是贝斯的超能力：同样的音，不同的 pocket。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording two versions of the groove: one **clean and supportive**, one **more aggressive and playful**. Compare them and ask: **Which notes made the line feel strong? Where did space help more than extra notes? Which accent made the groove move best?** Those answers are your real lesson.",
+          "pt-BR": "Para terminar, grave duas versões do groove: uma **limpa e de apoio**, outra **mais agressiva e brincalhona**. Compare e pergunte: **Quais notas deixaram a linha forte? Onde o espaço ajudou mais do que notas extras? Qual acento fez o groove andar melhor?** Essas respostas são a verdadeira lição.",
+          "es": "Termina grabando dos versiones del groove: una **limpia y de apoyo**, otra **más agresiva y juguetona**. Compáralas y pregúntate: **¿Qué notas hicieron que la línea se sintiera fuerte? ¿Dónde ayudó más el espacio que las notas extra? ¿Qué acento hizo moverse mejor el groove?** Esas respuestas son la lección real.",
+          "de": "Zum Schluss nimm zwei Versionen des Grooves auf: eine **sauber und unterstützend**, eine **aggressiver und verspielter**. Vergleiche sie und frage dich: **Welche Töne haben die Linie stark gemacht? Wo hat Raum mehr geholfen als zusätzliche Töne? Welcher Akzent hat den Groove am besten bewegt?** Diese Antworten sind die eigentliche Lektion.",
+          "ja": "最後に、このグルーヴを2種類録音してください。ひとつは **クリーンで支える感じ**、もうひとつは **もっと攻めて遊び心のある感じ**。聴き比べながら考えましょう。**どの音がラインを強くしたか。余計な音よりスペースが効いた場所はどこか。どのアクセントが最もグルーヴを前へ進めたか。** その答えこそ本当の学びです。",
+          "zh-Hans": "最后录两个版本：一个 **干净、支撑型**，一个 **更凶一点、更会玩一点**。然后比较：**哪些音让线条更有力量？哪些地方留白比多加音更有效？哪个重音最能让 groove 动起来？** 这些答案才是这节课真正的收获。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-06T00:09:45Z",
+  "updatedAt": "2026-07-06T00:09:45Z"
+}

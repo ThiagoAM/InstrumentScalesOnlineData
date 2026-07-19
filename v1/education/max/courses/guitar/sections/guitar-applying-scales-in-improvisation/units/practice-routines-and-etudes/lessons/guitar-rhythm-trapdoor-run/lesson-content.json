@@ -1,0 +1,86 @@
+{
+  "id": "guitar-rhythm-trapdoor-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the trapdoor run: your mission is to keep the A minor pentatonic alive even when the floor shifts under your rhythm. Stay loose, listen hard, and treat every mistake like a clue instead of a disaster.",
+          "pt-BR": "Bem-vindo à corrida das armadilhas: sua missão é manter viva a pentatônica de Lá menor mesmo quando o chão do ritmo muda sob seus pés. Fique solto, ouça com atenção e trate cada erro como uma pista, não como um desastre.",
+          "es": "Bienvenido a la carrera de trampillas: tu misión es mantener viva la pentatónica de La menor aunque el suelo del ritmo cambie bajo tus pies. Mantente suelto, escucha bien y trata cada error como una pista y no como un desastre.",
+          "de": "Willkommen beim Falltüren-Lauf: Deine Mission ist es, die A-Moll-Pentatonik am Leben zu halten, auch wenn sich der rhythmische Boden unter dir verschiebt. Bleib locker, hör genau hin und behandle jeden Fehler als Hinweis statt als Katastrophe.",
+          "ja": "リズム落とし穴ランへようこそ。今日の任務は、リズムの床が動いてもAマイナーペンタトニックを止めずに進めることです。力まず、よく聴き、ミスは事故ではなくヒントとして扱いましょう。",
+          "zh-Hans": "欢迎来到节奏陷门冲刺。今天你的任务是：即使节奏地板突然移动，也要让A小调五声音阶继续前进。保持放松，认真聆听，把每次失误都当成线索，而不是灾难。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: play A–C–D–E–G–A in 8th notes at 70 bpm, then descend. On the second pass, tap your foot on beats 2 and 4 so your hands lock to the groove instead of floating above it.",
+          "pt-BR": "Aquecimento: toque A–C–D–E–G–A em colcheias a 70 bpm e depois desça. Na segunda passada, bata o pé nos tempos 2 e 4 para que as mãos travem no groove em vez de ficarem flutuando.",
+          "es": "Calentamiento: toca A–C–D–E–G–A en corcheas a 70 bpm y luego desciende. En la segunda vuelta, marca con el pie los tiempos 2 y 4 para que tus manos se enganchen al groove en lugar de flotar.",
+          "de": "Aufwärmen: Spiele A–C–D–E–G–A in Achteln bei 70 bpm und dann wieder abwärts. Beim zweiten Durchgang stampfst du auf Zählzeit 2 und 4 mit dem Fuß, damit deine Hände im Groove einrasten.",
+          "ja": "ウォームアップ：A–C–D–E–G–A を 70 bpm の8分音符で上がり、そのあと下がります。2周目は 2拍目と4拍目で足を踏み、手が宙に浮かずグルーヴに固定されるようにします。",
+          "zh-Hans": "热身：用70 bpm的八分音符弹 A–C–D–E–G–A，再反向下行。第二遍时，用脚踩在第2拍和第4拍上，让双手真正锁进groove，而不是漂在节拍上方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Trapdoor drill: every 4 notes, insert a quarter-note rest before continuing. The silence is the trapdoor—count it cleanly, re-enter on time, and keep the phrase sounding intentional.",
+          "pt-BR": "Exercício da armadilha: a cada 4 notas, insira uma pausa de semínima antes de continuar. O silêncio é a armadilha — conte com clareza, volte no tempo certo e mantenha a frase com intenção musical.",
+          "es": "Ejercicio de la trampilla: cada 4 notas, inserta un silencio de negra antes de seguir. El silencio es la trampilla: cuéntalo con claridad, vuelve a entrar a tiempo y haz que la frase siga sonando intencional.",
+          "de": "Falltür-Übung: Nach jeweils 4 Noten setzt du eine Viertelpause, bevor du weiterspielst. Die Stille ist die Falltür — zähle sie sauber, setze pünktlich wieder ein und halte die Phrase musikalisch.",
+          "ja": "落とし穴ドリル：4音ごとに4分休符を1つ入れてから続けます。沈黙が落とし穴です。正確に数え、ぴったり戻り、フレーズを意図的に聴かせましょう。",
+          "zh-Hans": "陷门训练：每弹4个音，就先插入一个四分休止再继续。安静的那一拍就是陷门——把拍子数清楚，准时重新进入，并让乐句听起来像是故意设计的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accent challenge: play the same scale shape again, but accent note 1, then note 2, then note 3 of each 4-note group. This forces your pick hand and ear to stop living on autopilot.",
+          "pt-BR": "Desafio de acentuação: toque a mesma posição da escala de novo, mas acentue a nota 1, depois a nota 2, depois a nota 3 de cada grupo de 4 notas. Isso obriga sua palhetada e seu ouvido a saírem do piloto automático.",
+          "es": "Desafío de acentos: toca la misma posición de la escala otra vez, pero acentúa la nota 1, luego la nota 2 y después la nota 3 de cada grupo de 4 notas. Así obligas a tu mano y a tu oído a salir del piloto automático.",
+          "de": "Akzent-Challenge: Spiele dieselbe Skalenform noch einmal, aber betone zuerst Note 1, dann Note 2 und dann Note 3 jeder 4er-Gruppe. So hören deine Schlaghand und dein Ohr auf, im Autopilot zu laufen.",
+          "ja": "アクセント課題：同じスケール形をもう一度弾きますが、4音グループごとに 1音目、次は2音目、その次は3音目を強調します。これでピッキングの手と耳が自動運転から抜け出します。",
+          "zh-Hans": "重音挑战：再弹一次同样的音阶把位，但在每组4个音里，先强调第1个音，再强调第2个音，再强调第3个音。这样能逼你的拨弦手和耳朵脱离自动驾驶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Recovery mission: improvise for 4 bars using only A minor pentatonic. If you rush or stumble, do not stop—land on A or E, breathe for one beat, and restart the line like a pro saving the gig.",
+          "pt-BR": "Missão de recuperação: improvise por 4 compassos usando apenas a pentatônica de Lá menor. Se você correr ou tropeçar, não pare — caia em A ou E, respire por 1 tempo e reinicie a linha como alguém salvando o show.",
+          "es": "Misión de recuperación: improvisa durante 4 compases usando solo la pentatónica de La menor. Si te aceleras o tropiezas, no te detengas: cae en A o E, respira un pulso y reinicia la línea como quien salva el concierto.",
+          "de": "Rettungsmission: Improvisiere 4 Takte nur mit der A-Moll-Pentatonik. Wenn du hetzt oder stolperst, hör nicht auf — lande auf A oder E, atme einen Schlag und starte die Linie neu, als würdest du den Gig retten.",
+          "ja": "リカバリーミッション：Aマイナーペンタトニックだけで4小節即興します。走ったりつまずいたりしても止まらず、A か E に着地して1拍呼吸し、ライブを救うつもりでラインを再始動しましょう。",
+          "zh-Hans": "恢复任务：只用A小调五声音阶做4小节即兴。如果你抢拍或绊住了，不要停——落在 A 或 E 上，呼吸一拍，然后像在救场一样重新启动这条乐句。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss clear: record one take with steady pulse, clear accents, and a confident ending on A. If it feels solid twice in a row, raise the tempo to 78 bpm and run the trapdoor course again.",
+          "pt-BR": "Chefe vencido: grave uma tomada com pulso estável, acentos claros e um final confiante em A. Se soar firme duas vezes seguidas, aumente o andamento para 78 bpm e faça o percurso de novo.",
+          "es": "Jefe superado: graba una toma con pulso firme, acentos claros y un final seguro en A. Si se siente sólido dos veces seguidas, sube el tempo a 78 bpm y corre el circuito otra vez.",
+          "de": "Boss besiegt: Nimm einen Durchlauf mit stabilem Puls, klaren Akzenten und sicherem Schluss auf A auf. Wenn es sich zweimal hintereinander gut anfühlt, erhöhe auf 78 bpm und starte den Kurs erneut.",
+          "ja": "ボスクリア：脈が安定し、アクセントが明確で、A で自信を持って終わるテイクを1回録音します。2回続けて安定したら、テンポを 78 bpm に上げてもう一度走りましょう。",
+          "zh-Hans": "通关检查：录下一遍节拍稳定、重音清楚、并且自信落在 A 上结束的演奏。如果连续两次都很稳，就把速度提高到 78 bpm，再跑一次这条陷门路线。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-05T00:06:42Z",
+  "updatedAt": "2026-07-05T00:06:42Z"
+}

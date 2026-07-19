@@ -1,0 +1,73 @@
+{
+  "id": "piano-voice-leading-pit-stops",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Take a ii-V-I in C major: Dm7, G7, Cmaj7. Your left hand plays simple shells, and your right hand gets only one job: travel through the scale but arrive at each chord change like a driver hitting the perfect pit stop.",
+          "pt-BR": "Pegue um ii-V-I em Dó maior: Dm7, G7, Cmaj7. A mão esquerda toca shells simples, e a mão direita recebe uma tarefa só: caminhar pela escala, mas chegar em cada troca de acorde como uma piloto acertando o pit stop perfeito.",
+          "es": "Toma un ii-V-I en Do mayor: Dm7, G7, Cmaj7. La mano izquierda toca shells sencillos y la derecha recibe una sola misión: viajar por la escala pero llegar a cada cambio de acorde como una piloto que clava la parada perfecta en boxes.",
+          "de": "Nimm ein ii-V-I in C-Dur: Dm7, G7, Cmaj7. Die linke Hand spielt einfache Shell-Voicings, und die rechte Hand hat nur eine Aufgabe: durch die Skala reisen, aber jeden Akkordwechsel so treffen wie ein Fahrer den perfekten Boxenstopp.",
+          "ja": "Cメジャーの ii-V-I、つまり Dm7、G7、Cmaj7 を使います。左手はシンプルなシェル・ボイシング、右手の仕事はひとつだけ。スケールの中を移動しつつ、コードチェンジのたびに完璧なピットストップのように着地することです。",
+          "zh-Hans": "先拿 C 大调的 ii-V-I：Dm7、G7、Cmaj7。左手弹简单的 shell voicing，右手只有一个任务：在音阶里移动，但每次和弦变化时都要像赛车手精准进站一样落到位。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 uses half notes in the right hand. On Dm7, aim for F or C. On G7, aim for B or F. On Cmaj7, aim for E or B. This is slow enough to hear the harmony, but strict enough to expose lazy note choices.",
+          "pt-BR": "A rodada 1 usa mínimas na mão direita. No Dm7, mire em F ou C. No G7, mire em B ou F. No Cmaj7, mire em E ou B. É lento o suficiente para ouvir a harmonia, mas rígido o bastante para expor escolhas preguiçosas de notas.",
+          "es": "La ronda 1 usa blancas en la mano derecha. En Dm7 apunta a F o C. En G7 apunta a B o F. En Cmaj7 apunta a E o B. Es lo bastante lento para oír la armonía, pero lo bastante estricto para exponer elecciones vagas de notas.",
+          "de": "Runde 1 nutzt halbe Noten in der rechten Hand. Über Dm7 zielst du auf F oder C. Über G7 auf H oder F. Über Cmaj7 auf E oder H. Das ist langsam genug, um die Harmonie zu hören, aber streng genug, um faule Tonwahlen aufzudecken.",
+          "ja": "ラウンド1では右手を2分音符だけにします。Dm7 では F か C、G7 では B か F、Cmaj7 では E か B を狙ってください。ハーモニーを聴けるだけの遅さがありつつ、怠い選音はしっかり露呈する厳しさもあります。",
+          "zh-Hans": "第 1 轮右手只用二分音符。在 Dm7 上瞄准 F 或 C，在 G7 上瞄准 B 或 F，在 Cmaj7 上瞄准 E 或 B。这个速度慢得足以听见和声，却也严格得足以暴露偷懒的选音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 adds motion between the pit stops. Use one short scale fragment between each target, no more than four notes, and keep the fingering calm. If the line sounds busy, reduce the number of notes before you reduce the tempo.",
+          "pt-BR": "A rodada 2 acrescenta movimento entre os pit stops. Use um fragmento curto de escala entre cada alvo, com no máximo quatro notas, e mantenha o dedilhado calmo. Se a linha soar ocupada demais, reduza o número de notas antes de reduzir o andamento.",
+          "es": "La ronda 2 añade movimiento entre las paradas. Usa un fragmento corto de escala entre cada objetivo, de no más de cuatro notas, y mantén tranquila la digitación. Si la línea suena demasiado ocupada, reduce la cantidad de notas antes de bajar el tempo.",
+          "de": "Runde 2 fügt Bewegung zwischen den Stopps hinzu. Nutze zwischen jedem Zielton ein kurzes Skalenfragment mit höchstens vier Tönen und halte den Fingersatz ruhig. Wenn die Linie zu geschäftig klingt, reduziere zuerst die Tonzahl, bevor du das Tempo verringerst.",
+          "ja": "ラウンド2ではピットストップの間に動きを加えます。各ターゲットの間に4音以内の短いスケール断片を入れ、運指は落ち着かせたままにします。ラインが忙しく聞こえたら、テンポを落とす前にまず音数を減らしましょう。",
+          "zh-Hans": "第 2 轮在进站之间加入移动。每个目标音之间只能放一个短短的音阶片段，最多四个音，并保持平静的指法。如果这条线开始显得太忙，先减少音符数量，再考虑降低速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 adds contrast. Play one chorus legato, one chorus lightly detached, and one chorus with accents only on the target notes. The point is to prove that voice leading survives changes in touch, not just in theory.",
+          "pt-BR": "A rodada 3 acrescenta contraste. Toque um chorus legato, um chorus levemente destacado e um chorus com acentos apenas nas notas-alvo. A ideia é provar que a condução de vozes sobrevive a mudanças de toque, e não só no papel.",
+          "es": "La ronda 3 añade contraste. Toca un coro legato, un coro ligeramente separado y un coro con acentos solo en las notas objetivo. El objetivo es demostrar que la conducción de voces sobrevive a cambios de toque y no solo existe en teoría.",
+          "de": "Runde 3 bringt Kontrast dazu. Spiele einen Chorus legato, einen leicht abgesetzt und einen mit Akzenten nur auf den Zieltönen. Der Punkt ist zu beweisen, dass Stimmführung auch bei verändertem Anschlag funktioniert und nicht nur in der Theorie.",
+          "ja": "ラウンド3ではコントラストを加えます。1コーラスはレガート、1コーラスは少し切って、もう1コーラスはターゲット音だけにアクセントを置きます。目的は、ボイスリーディングが理論上だけでなく、タッチが変わっても生き残ると証明することです。",
+          "zh-Hans": "第 3 轮加入触键对比。先弹一遍连奏，再弹一遍轻微断奏，再弹一遍只在目标音上加重音。重点是证明：声部连接不仅在理论里成立，换了触键它也必须成立。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: transpose the whole game to F major or Bb major. If your right hand panics, slow down and name the target tones aloud before you play. A good practice race ends with cleaner hearing, not just faster fingers.",
+          "pt-BR": "Desafio final: transporte o jogo inteiro para Fá maior ou Si bemol maior. Se a mão direita entrar em pânico, desacelere e fale os tons-alvo em voz alta antes de tocar. Uma boa corrida de estudo termina com audição mais limpa, não apenas com dedos mais rápidos.",
+          "es": "Desafío final: transpón todo el juego a Fa mayor o Sib mayor. Si la mano derecha entra en pánico, baja la velocidad y nombra en voz alta los tonos objetivo antes de tocar. Una buena carrera de práctica termina con mejor oído, no solo con dedos más rápidos.",
+          "de": "Abschluss-Challenge: Transponiere das ganze Spiel nach F-Dur oder B-Dur. Wenn die rechte Hand in Panik gerät, verlangsame dich und sprich die Zieltöne laut aus, bevor du spielst. Ein gutes Übungsrennen endet mit klarerem Hören, nicht nur mit schnelleren Fingern.",
+          "ja": "最後のチャレンジは、このゲーム全体を Fメジャーか B♭メジャーに移調することです。右手が慌てたら、ゆっくりにしてターゲット音名を声に出してから弾いてください。良い練習レースの終わりには、指が速くなるだけでなく、耳がきれいになります。",
+          "zh-Hans": "最终挑战：把整套游戏移调到 F 大调或降 B 大调。如果右手开始慌，就先放慢速度，在弹之前把目标音大声说出来。好的练习竞速，结尾应该是听觉更清晰，而不只是手指更快。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-15T00:08:24Z",
+  "updatedAt": "2026-07-15T00:08:24Z"
+}

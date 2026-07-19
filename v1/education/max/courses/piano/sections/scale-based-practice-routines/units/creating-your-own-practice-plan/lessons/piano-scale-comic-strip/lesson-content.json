@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-comic-strip",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson asks you to practice like a cartoonist. Choose **C major / A minor** or **G major / E minor**, set **72-88 BPM**, and imagine your scale routine as a **four-panel comic strip**. Each panel needs a different job, and together they should tell one musical story instead of four unrelated exercises.",
+          "pt-BR": "Esta lição pede que você estude como um cartunista. Escolha **Dó maior / Lá menor** ou **Sol maior / Mi menor**, ajuste para **72 a 88 BPM** e imagine sua rotina de escalas como uma **história em quadrinhos de quatro quadros**. Cada quadro precisa ter uma função diferente e, juntos, eles devem contar uma única história musical em vez de quatro exercícios soltos.",
+          "es": "Esta lección te pide practicar como un dibujante de cómics. Elige **Do mayor / La menor** o **Sol mayor / Mi menor**, ajusta **72-88 BPM** e imagina tu rutina de escalas como una **historieta de cuatro viñetas**. Cada viñeta debe tener un trabajo distinto y, juntas, deben contar una sola historia musical en lugar de cuatro ejercicios sueltos.",
+          "de": "Diese Lektion bittet dich, wie ein Comiczeichner zu üben. Wähle **C-Dur / A-Moll** oder **G-Dur / E-Moll**, stelle **72-88 BPM** ein und betrachte deine Skalenroutine als **Comic mit vier Bildern**. Jedes Bild braucht eine andere Aufgabe, und zusammen sollen sie eine einzige musikalische Geschichte erzählen statt vier lose Übungen.",
+          "ja": "このレッスンでは、漫画家のように練習します。**Cメジャー / Aマイナー** または **Gメジャー / Eマイナー** を選び、**72〜88 BPM** に設定し、スケール練習を**4コマ漫画**だと思ってください。各コマには別々の役割があり、4つ合わせて1つの音楽的な物語になる必要があります。",
+          "zh-Hans": "这节课要求你像漫画作者一样练琴。选择 **C 大调 / A 小调** 或 **G 大调 / E 小调**，速度设在 **72-88 BPM**，把你的音阶 routine 想成一则**四格漫画**。每一格都要有不同任务，四格合起来应该讲同一个音乐故事，而不是四个零散练习。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Panel 1 is **setup**: play one clean ascending scale with even tone. Panel 2 is **trouble**: repeat the scale with one rhythmic twist such as long-short, triplets, or accents on weak beats. Panel 3 is **reaction**: break the scale into a short sequence or contrary-motion pattern. Panel 4 is **ending**: turn the material into a two-bar musical ending that clearly resolves.",
+          "pt-BR": "O Quadro 1 é a **apresentação**: toque uma escala ascendente limpa com som uniforme. O Quadro 2 é o **problema**: repita a escala com uma mudança rítmica, como longo-curto, tercinas ou acentos em tempos fracos. O Quadro 3 é a **reação**: quebre a escala em uma sequência curta ou em movimento contrário. O Quadro 4 é o **final**: transforme o material em um encerramento musical de dois compassos com resolução clara.",
+          "es": "La Viñeta 1 es la **presentación**: toca una escala ascendente limpia con sonido parejo. La Viñeta 2 es el **problema**: repite la escala con un giro rítmico, como largo-corto, tresillos o acentos en tiempos débiles. La Viñeta 3 es la **reacción**: rompe la escala en una secuencia corta o en un patrón de movimiento contrario. La Viñeta 4 es el **final**: convierte el material en un cierre musical de dos compases que resuelva con claridad.",
+          "de": "Bild 1 ist die **Einführung**: spiele eine saubere aufsteigende Skala mit gleichmäßigem Ton. Bild 2 ist das **Problem**: wiederhole die Skala mit einer rhythmischen Wendung wie lang-kurz, Triolen oder Akzenten auf schwachen Zählzeiten. Bild 3 ist die **Reaktion**: zerlege die Skala in eine kurze Sequenz oder ein Gegenbewegungs-Muster. Bild 4 ist das **Ende**: verwandle das Material in einen zweitaktigen musikalischen Schluss mit klarer Auflösung.",
+          "ja": "1コマ目は**導入**です。均一な音で上行スケールをきれいに弾きます。2コマ目は**問題発生**で、長短リズム、3連符、弱拍アクセントなど、1つのリズム変化を加えて同じスケールを弾きます。3コマ目は**反応**で、短いシークエンスや反行形に分解します。4コマ目は**結末**で、その材料を2小節のはっきり解決する音楽的エンディングに変えます。",
+          "zh-Hans": "第 1 格是**开场**：用均匀音色弹一遍干净的上行音阶。第 2 格是**麻烦来了**：用一种节奏变化再弹一遍，比如长短、三连音，或把重音放在弱拍。第 3 格是**反应**：把音阶拆成短序列或反向进行型。第 4 格是**结尾**：把这些材料变成一个两小节、清楚解决的音乐结尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **silent planning round**. Before you play each panel, say its job out loud in one short phrase: \"clean,\" \"twist,\" \"sequence,\" or \"resolve.\" This keeps the hands from starting before the brain has chosen a purpose. If two panels sound too similar, redraw the comic.",
+          "pt-BR": "A Rodada 1 é a **rodada do planejamento silencioso**. Antes de tocar cada quadro, diga em voz alta sua função em uma frase curta: \"limpo\", \"torção\", \"sequência\" ou \"resolve\". Isso impede que as mãos saiam tocando antes de o cérebro escolher um propósito. Se dois quadros soarem parecidos demais, redesenhe a HQ.",
+          "es": "La Ronda 1 es la **ronda de planificación silenciosa**. Antes de tocar cada viñeta, di en voz alta su función con una frase breve: \"limpio\", \"giro\", \"secuencia\" o \"resuelve\". Esto evita que las manos empiecen antes de que el cerebro elija un propósito. Si dos viñetas suenan demasiado parecidas, redibuja el cómic.",
+          "de": "Runde 1 ist die **stille Planungsrunde**. Bevor du jedes Bild spielst, sag seine Aufgabe laut in einem kurzen Wort: „sauber“, „Drehung“, „Sequenz“ oder „Auflösung“. So verhinderst du, dass die Hände anfangen, bevor das Gehirn einen Zweck gewählt hat. Wenn zwei Bilder zu ähnlich klingen, zeichne den Comic neu.",
+          "ja": "ラウンド1は**無言の設計ラウンド**です。各コマを弾く前に、その役割を「きれい」「ひねる」「並べる」「解決する」のように短く声に出してください。これで、脳が目的を決める前に手が動き出すのを防げます。2つのコマが似すぎて聞こえるなら、その4コマは描き直しです。",
+          "zh-Hans": "第 1 轮是**静默设计轮**。每弹一格之前，先大声说出它的任务，比如“干净”“扭转”“序列”“解决”。这样可以防止手先动、脑子却还没决定目的。如果两格听起来太像，就把这部漫画重画。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **left-hand editor round**. Now the left hand must either mirror the right hand cleanly or supply a simpler support pattern without dragging. If the right hand tells a clever story while the left hand sounds confused, the comic has bad lettering.",
+          "pt-BR": "A Rodada 2 é a **rodada da mão esquerda editora**. Agora a mão esquerda deve espelhar a direita com clareza ou fornecer um padrão de apoio mais simples, sem arrastar. Se a mão direita conta uma história esperta e a esquerda soa perdida, sua HQ está com a legenda ruim.",
+          "es": "La Ronda 2 es la **ronda de la mano izquierda editora**. Ahora la mano izquierda debe reflejar limpiamente a la derecha o aportar un patrón de apoyo más simple sin retrasarse. Si la mano derecha cuenta una historia ingeniosa y la izquierda suena confundida, el cómic tiene malos textos.",
+          "de": "Runde 2 ist die **Lektoratsrunde der linken Hand**. Jetzt muss die linke Hand die rechte sauber spiegeln oder ein einfacheres Begleitmuster liefern, ohne zu schleppen. Wenn die rechte Hand eine clevere Geschichte erzählt, die linke aber verwirrt klingt, hat dein Comic schlechte Sprechblasen.",
+          "ja": "ラウンド2は**左手編集者ラウンド**です。左手は右手をきれいに鏡写しするか、引きずらない簡単な支えの型を出さなければいけません。右手が面白い物語を語っているのに左手が混乱して聞こえるなら、その漫画は吹き出しが下手です。",
+          "zh-Hans": "第 2 轮是**左手编辑轮**。现在左手必须干净地镜像右手，或者提供一个更简单但不拖拍的支撑型。如果右手讲了个聪明故事，左手却像迷路了，那这部漫画的对白就写坏了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final check, play the four panels back-to-back three times and ask:\n- Did each panel have a distinct role?\n- Did the last panel sound like music instead of a technical escape hatch?\n- Could both hands stay organized when the rhythm changed?\n\nGood piano practice is not just repetition. It is structure with imagination. When the panels connect, technique stops feeling like paperwork and starts sounding like a scene.",
+          "pt-BR": "Na checagem final, toque os quatro quadros em sequência três vezes e pergunte:\n- Cada quadro teve um papel distinto?\n- O último quadro soou como música em vez de uma escapatória técnica?\n- As duas mãos ficaram organizadas quando o ritmo mudou?\n\nBom estudo de piano não é só repetição. É estrutura com imaginação. Quando os quadros se conectam, a técnica para de parecer burocracia e começa a soar como uma cena.",
+          "es": "Para la comprobación final, toca las cuatro viñetas seguidas tres veces y pregúntate:\n- ¿Cada viñeta tuvo un papel distinto?\n- ¿La última viñeta sonó a música y no a una escapatoria técnica?\n- ¿Ambas manos siguieron organizadas cuando cambió el ritmo?\n\nLa buena práctica de piano no es solo repetición. Es estructura con imaginación. Cuando las viñetas se conectan, la técnica deja de sentirse como papeleo y empieza a sonar como una escena.",
+          "de": "Spiele zur Schlusskontrolle die vier Bilder dreimal hintereinander und frage dich:\n- Hatte jedes Bild eine klar eigene Rolle?\n- Klang das letzte Bild wie Musik statt wie ein technischer Notausgang?\n- Blieben beide Hände organisiert, wenn sich der Rhythmus änderte?\n\nGutes Klavierüben ist nicht nur Wiederholung. Es ist Struktur mit Fantasie. Wenn die Bilder zusammenhängen, fühlt sich Technik nicht mehr wie Papierkram an, sondern wie eine Szene.",
+          "ja": "最後の確認として、4コマを通して3回弾き、次を確かめます。\n- 各コマに違う役割があったか？\n- 最後のコマは、技術的な逃げ道ではなく音楽として聞こえたか？\n- リズムが変わっても両手は整理されたままだったか？\n\n良いピアノ練習は、ただの反復ではありません。想像力のある構成です。コマ同士がつながると、テクニックは事務作業ではなく1つの場面として鳴り始めます。",
+          "zh-Hans": "最后，把四格连续弹三遍，并问自己：\n- 每一格的角色是否清楚不同？\n- 最后一格听起来像音乐，而不是技术逃生门吗？\n- 节奏变化时，两只手还能保持有条理吗？\n\n好的钢琴练习不只是重复，而是有想象力的结构。当四格连成一个整体时，技术就不再像填表，而开始像一幕真正的场景。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-25T00:10:05Z",
+  "updatedAt": "2026-04-25T00:10:05Z"
+}

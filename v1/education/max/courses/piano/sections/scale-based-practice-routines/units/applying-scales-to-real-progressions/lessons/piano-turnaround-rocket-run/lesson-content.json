@@ -1,0 +1,86 @@
+{
+  "id": "piano-turnaround-rocket-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick a friendly progression: **| Cmaj7 | Am7 | Dm7 | G7 |**. With the metronome at **76 BPM**, play simple shell voicings in the left hand and reserve the right hand for scale motion only. Your first task is to connect each chord with no more than **four right-hand notes**. Economy is the point: if four notes cannot make the move sing, twenty notes will not save it.",
+          "pt-BR": "Escolha uma progressão amigável: **| Cmaj7 | Am7 | Dm7 | G7 |**. Com o metrônomo em **76 BPM**, toque voicings simples em casca na mão esquerda e reserve a mão direita apenas para movimento de escala. Sua primeira tarefa é conectar cada acorde com no máximo **quatro notas na mão direita**. Economia é o ponto: se quatro notas não cantam o movimento, vinte notas também não vão salvar.",
+          "es": "Elige una progresión amable: **| Cmaj7 | Am7 | Dm7 | G7 |**. Con el metrónomo a **76 BPM**, toca voicings tipo shell con la mano izquierda y reserva la mano derecha solo para movimiento de escala. Tu primera tarea es conectar cada acorde con no más de **cuatro notas en la mano derecha**. La economía es la clave: si cuatro notas no hacen cantar el movimiento, veinte no lo salvarán.",
+          "de": "Wähle eine freundliche Progression: **| Cmaj7 | Am7 | Dm7 | G7 |**. Stell das Metronom auf **76 BPM**, spiele mit der linken Hand einfache Shell-Voicings und reserviere die rechte Hand nur für Skalenbewegung. Deine erste Aufgabe: Verbinde jeden Akkord mit höchstens **vier Tönen in der rechten Hand**. Ökonomie ist der Punkt: Wenn vier Töne die Bewegung nicht zum Singen bringen, retten zwanzig es auch nicht.",
+          "ja": "取り組みやすい進行を選びます。**| Cmaj7 | Am7 | Dm7 | G7 |**。メトロノームは **76 BPM**、左手はシンプルなシェル・ボイシング、右手はスケールの動きだけに使ってください。最初の課題は、各コードを **右手4音以内** でつなぐことです。大事なのは節約です。4音で歌えない動きは、20音にしても救えません。",
+          "zh-Hans": "先选一个友好的进行：**| Cmaj7 | Am7 | Dm7 | G7 |**。把节拍器设为 **76 BPM**，左手弹简单的 shell voicing，右手只负责音阶线条。第一个任务是：每个和弦之间的连接，右手都不能超过 **四个音**。节省是关键：如果四个音都唱不出来，二十个音也救不了它。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round two uses **turnaround gravity**. In bar 4, your right hand must create tension that clearly wants to fall back into bar 1. Try ending the G7 bar on **B, F, or Ab** and notice how each color changes the pull back to Cmaj7. This is applied ear training disguised as a tiny game.",
+          "pt-BR": "Na segunda rodada entra a **gravidade do turnaround**. No compasso 4, a mão direita precisa criar uma tensão que queira claramente cair de volta no compasso 1. Tente terminar o compasso de G7 em **B, F ou Ab** e perceba como cada cor muda a puxada de volta para Cmaj7. Isso é treinamento de ouvido aplicado disfarçado de jogo.",
+          "es": "En la segunda ronda aparece la **gravedad del turnaround**. En el compás 4, la mano derecha debe crear una tensión que quiera caer claramente de vuelta al compás 1. Prueba terminar el compás de G7 en **B, F o Ab** y observa cómo cambia cada color la atracción hacia Cmaj7. Es entrenamiento auditivo aplicado disfrazado de juego.",
+          "de": "Runde zwei nutzt **Turnaround-Schwerkraft**. In Takt 4 muss die rechte Hand eine Spannung erzeugen, die klar zurück nach Takt 1 will. Beende den G7-Takt auf **B, F oder As** und beobachte, wie jede Farbe den Zug zurück zu Cmaj7 verändert. Das ist angewandtes Gehörtraining, verkleidet als kleines Spiel.",
+          "ja": "2ラウンド目は **ターンアラウンドの重力** を使います。4小節目では、右手が1小節目へ戻りたくなる緊張をはっきり作らなければいけません。G7 小節の終わりを **B、F、Ab** のいずれかで終えてみて、その色が Cmaj7 への引力をどう変えるか観察しましょう。これはゲーム風の応用耳トレです。",
+          "zh-Hans": "第二轮加入 **turnaround 的重力**。在第 4 小节里，右手必须制造一种明显想回到第 1 小节的张力。试着让 G7 小节结束在 **B、F 或 Ab** 上，听听不同颜色怎样改变回到 Cmaj7 的拉力。这其实是伪装成小游戏的应用型听觉训练。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now split the right hand into two lanes. Lane A is stepwise scale motion only. Lane B allows one leap of a 3rd or 4th before returning to stepwise motion. Alternate lanes every chorus. The goal is to hear whether the leap adds drama or just breaks the line.",
+          "pt-BR": "Agora divida a mão direita em duas pistas. A pista A permite apenas movimento conjunto da escala. A pista B permite um único salto de 3ª ou 4ª antes de voltar ao movimento conjunto. Alterne as pistas a cada chorus. O objetivo é ouvir se o salto acrescenta drama ou apenas quebra a linha.",
+          "es": "Ahora divide la mano derecha en dos carriles. El carril A permite solo movimiento conjunto de escala. El carril B permite un único salto de 3.ª o 4.ª antes de volver al movimiento conjunto. Alterna carriles en cada vuelta. La meta es oír si el salto añade drama o solo rompe la línea.",
+          "de": "Teile die rechte Hand jetzt in zwei Bahnen. Bahn A erlaubt nur stufenweise Skalenbewegung. Bahn B erlaubt genau einen Sprung einer Terz oder Quarte, bevor es wieder stufenweise weitergeht. Wechsle die Bahnen in jedem Chorus. Das Ziel ist zu hören, ob der Sprung Dramatik schafft oder nur die Linie zerreißt.",
+          "ja": "次に右手を2つのレーンに分けます。レーンAは順次進行のみ。レーンBは、3度または4度の跳躍を1回だけ許し、その後は再び順次進行に戻ります。コーラスごとにレーンを交代してください。狙いは、その跳躍がドラマを増やすのか、単にラインを切ってしまうのかを聴き分けることです。",
+          "zh-Hans": "现在把右手分成两条跑道。跑道 A 只允许级进的音阶运动；跑道 B 允许先跳一个 3 度或 4 度，再回到级进。每个 chorus 轮换一次跑道。目标是听清：这个跳进到底增加了戏剧性，还是只是把线条打断了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a rhythm constraint: one chorus uses only quarter notes and 8ths, the next chorus must include one bar of **syncopation starting after beat 1**. Keep the left hand steady. If the left hand gets shaky, simplify the voicing rather than sacrificing the pulse.",
+          "pt-BR": "Adicione uma restrição rítmica: um chorus usa apenas semínimas e colcheias; no chorus seguinte deve haver um compasso com **síncope começando depois do tempo 1**. Mantenha a mão esquerda estável. Se a mão esquerda vacilar, simplifique o voicing em vez de sacrificar o pulso.",
+          "es": "Añade una restricción rítmica: una vuelta usa solo negras y corcheas; la siguiente debe incluir un compás con **síncopa que empiece después del tiempo 1**. Mantén estable la mano izquierda. Si la izquierda tiembla, simplifica el voicing en lugar de sacrificar el pulso.",
+          "de": "Füge eine Rhythmusregel hinzu: Ein Chorus nutzt nur Viertel und Achtel, der nächste muss einen Takt mit **Synkope nach Zählzeit 1** enthalten. Halte die linke Hand stabil. Wenn sie wackelt, vereinfache lieber das Voicing, statt den Puls zu opfern.",
+          "ja": "リズム制約も追加します。あるコーラスでは四分音符と8分音符だけを使い、次のコーラスでは **1拍目のあとから始まるシンコペーション** を含む小節を1つ入れます。左手は安定させたままにしてください。左手が揺れるなら、拍を捨てる前にボイシングを簡単にしましょう。",
+          "zh-Hans": "再加一个节奏限制：一个 chorus 只能用四分音符和八分音符，下一轮必须包含一个 **从第 1 拍之后开始切分** 的小节。左手要保持稳定。如果左手开始晃，就先简化 voicing，不要为了花样牺牲脉冲。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Time for a color swap. On the second chorus, borrow one outside note over G7 as a **chromatic approach** into your Cmaj7 landing tone. One note is enough. Jazz language grows from controlled spice, not from throwing the whole spice rack at the keyboard.",
+          "pt-BR": "Hora de trocar a cor. No segundo chorus, pegue uma nota de fora sobre o G7 como **aproximação cromática** para a nota de chegada em Cmaj7. Uma nota basta. A linguagem jazzística cresce com tempero controlado, não jogando o armário inteiro de especiarias no teclado.",
+          "es": "Hora de cambiar el color. En la segunda vuelta, toma una nota ajena sobre G7 como **aproximación cromática** hacia tu nota de llegada en Cmaj7. Una sola nota basta. El lenguaje del jazz crece con especias controladas, no arrojando todo el especiero al teclado.",
+          "de": "Jetzt kommt ein Farbwechsel. Nutze im zweiten Chorus über G7 einen Außenton als **chromatischen Annäherungston** zu deinem Landeton auf Cmaj7. Ein Ton genügt. Jazzsprache wächst aus kontrollierter Würze, nicht daraus, das ganze Gewürzregal auf die Tastatur zu kippen.",
+          "ja": "ここで色を入れ替えます。2コーラス目では、G7 の上で外側の音を1つだけ使い、Cmaj7 の着地音へ向かう **クロマチック・アプローチ** にします。1音で十分です。ジャズの語法は、香辛料を一棚全部かけるのではなく、コントロールされたひと振りで育ちます。",
+          "zh-Hans": "现在换一种颜色。第二个 chorus 里，在 G7 上借用一个外来音，作为通往 Cmaj7 落点音的 **半音接近音**。一个音就够了。爵士语汇来自受控的调味，而不是把整架香料一次全倒在键盘上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final launch: create a **3-chorus mini etude**. Chorus 1 stays simple, chorus 2 adds the leap lane and chromatic approach, chorus 3 adds one stronger dynamic peak before relaxing into the final Cmaj7. Record it, then answer: **Did your turnaround sound directed, or did it sound like scales floating over chords?**",
+          "pt-BR": "Lançamento final: crie um **mini estudo de 3 choruses**. O chorus 1 fica simples, o chorus 2 adiciona a pista com salto e a aproximação cromática, e o chorus 3 ganha um pico dinâmico mais forte antes de relaxar no Cmaj7 final. Grave e responda: **seu turnaround soou direcionado ou como escalas boiando sobre acordes?**",
+          "es": "Lanzamiento final: crea un **mini estudio de 3 vueltas**. La vuelta 1 se mantiene simple, la vuelta 2 añade el carril con salto y la aproximación cromática, y la vuelta 3 añade un pico dinámico más fuerte antes de relajarse en el Cmaj7 final. Grábalo y responde: **¿tu turnaround sonó dirigido o como escalas flotando sobre acordes?**",
+          "de": "Finaler Start: Erstelle eine **Mini-Etüde über 3 Chorusse**. Chorus 1 bleibt schlicht, Chorus 2 ergänzt die Sprung-Bahn und den chromatischen Annäherungston, Chorus 3 bekommt einen stärkeren dynamischen Höhepunkt, bevor er sich in das letzte Cmaj7 entspannt. Nimm es auf und beantworte: **Klang dein Turnaround zielgerichtet oder eher wie Skalen über Akkorden?**",
+          "ja": "最終打ち上げです。**3コーラスのミニ・エチュード** を作ってください。1コーラス目はシンプル、2コーラス目は跳躍レーンとクロマチック・アプローチを追加、3コーラス目はより強いダイナミクスの山を1つ作ってから最後の Cmaj7 に落ち着きます。録音したら答えてください。**あなたのターンアラウンドは方向性があったか、それともコードの上をスケールが漂っていただけだったか？**",
+          "zh-Hans": "最终发射：写一个 **3 个 chorus 的迷你练习曲**。第 1 个 chorus 保持简单，第 2 个加入跳进跑道和半音接近音，第 3 个加入一个更明显的力度高峰，然后放松落回最后的 Cmaj7。录下来，再回答：**你的 turnaround 听起来有明确方向，还是像音阶漂浮在和弦上面？**"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-27T00:06:36Z",
+  "updatedAt": "2026-06-27T00:06:36Z"
+}

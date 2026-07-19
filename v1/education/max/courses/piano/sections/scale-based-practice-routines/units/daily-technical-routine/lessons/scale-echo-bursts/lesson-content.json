@@ -1,0 +1,73 @@
+{
+  "id": "scale-echo-bursts",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use **C major** over **two octaves** at **80 bpm**. Warm up hands separately once, then get ready to alternate.",
+          "pt-BR": "Use **Dó maior** em **duas oitavas** a **80 bpm**. Aqueça as mãos separadas uma vez e prepare-se para alternar.",
+          "es": "Usa **Do mayor** en **dos octavas** a **80 bpm**. Calienta las manos por separado una vez y prepárate para alternar.",
+          "de": "Spiele **C‑Dur** über **zwei Oktaven** bei **80 bpm**. Wärme die Hände einmal getrennt auf und wechsle dann ab.",
+          "ja": "**Cメジャー**を**2オクターブ**で**80 bpm**。まず片手ずつ1回ウォームアップしてから交互に行う。",
+          "zh-Hans": "用**C大调**在**两组八度**上练习，速度**80 bpm**。先分别热身一次，再开始交替。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Right hand plays a **4‑note burst** (C‑D‑E‑F) as eighth notes, then **rest one beat**. Left hand echoes the same burst one octave lower.",
+          "pt-BR": "A mão direita toca um **burst de 4 notas** (Dó‑Ré‑Mi‑Fá) em colcheias e **descansa um tempo**. A mão esquerda ecoa o mesmo burst uma oitava abaixo.",
+          "es": "La mano derecha toca una **ráfaga de 4 notas** (Do‑Re‑Mi‑Fa) en corcheas y **descansa un tiempo**. La mano izquierda hace eco una octava abajo.",
+          "de": "Die rechte Hand spielt einen **4‑Noten‑Burst** (C‑D‑E‑F) in Achteln und **ruht einen Schlag**. Die linke Hand echo‑t den Burst eine Oktave tiefer.",
+          "ja": "右手が**4音バースト**（C‑D‑E‑F）を8分音符で弾き、**1拍休む**。左手が1オクターブ下で同じバーストをエコー。",
+          "zh-Hans": "右手用八分音符弹**4音爆发**（C‑D‑E‑F），然后**休止一拍**。左手在低一个八度做同样的回声。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Move the burst up the scale: start on degrees **1–7**, keeping the same rhythm (four eighths + rest).",
+          "pt-BR": "Suba o burst pela escala: comece nos graus **1–7**, mantendo o mesmo ritmo (quatro colcheias + pausa).",
+          "es": "Sube la ráfaga por la escala: empieza en los grados **1–7**, manteniendo el mismo ritmo (cuatro corcheas + silencio).",
+          "de": "Wandere mit dem Burst die Skala hinauf: starte auf den Stufen **1–7** und behalte denselben Rhythmus (vier Achtel + Pause).",
+          "ja": "バーストをスケールで上昇させる。**1〜7度**から始め、同じリズム（8分×4＋休符）を保つ。",
+          "zh-Hans": "把爆发沿音阶上移：从**1–7级**开始，保持同样节奏（四个八分音符 + 休止）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Dynamics swap:** right hand **mf**, left hand **mp** for four rounds, then switch the dynamics.",
+          "pt-BR": "**Troca de dinâmica:** mão direita em **mf**, mão esquerda em **mp** por quatro rodadas, depois inverta.",
+          "es": "**Cambio de dinámica:** mano derecha en **mf**, mano izquierda en **mp** por cuatro rondas, luego invierte.",
+          "de": "**Dynamik‑Tausch:** rechte Hand **mf**, linke Hand **mp** für vier Runden, dann wechseln.",
+          "ja": "**ダイナミクス交換：** 右手**mf**、左手**mp**で4ラウンド、その後入れ替える。",
+          "zh-Hans": "**力度交换：** 右手**mf**、左手**mp**做4轮，然后互换。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Timer challenge:** set 2 minutes. Keep the echoes steady with relaxed wrists and even tone—no rushing.",
+          "pt-BR": "**Desafio com timer:** marque 2 minutos. Mantenha os ecos firmes, com punhos relaxados e timbre uniforme—sem acelerar.",
+          "es": "**Desafío con temporizador:** pon 2 minutos. Mantén los ecos estables, muñecas relajadas y tono parejo—sin correr.",
+          "de": "**Timer‑Challenge:** stelle 2 Minuten ein. Halte die Echos gleichmäßig, Handgelenke locker, Ton ausgeglichen—nicht hetzen.",
+          "ja": "**タイマー・チャレンジ：** 2分設定。手首をリラックスさせ、音色を均一に保ってエコーを安定させる—急がない。",
+          "zh-Hans": "**计时挑战：** 设定2分钟。保持回声稳定，手腕放松、音色均匀——不要抢拍。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-28T00:08:05Z",
+  "updatedAt": "2026-03-28T00:08:05Z"
+}

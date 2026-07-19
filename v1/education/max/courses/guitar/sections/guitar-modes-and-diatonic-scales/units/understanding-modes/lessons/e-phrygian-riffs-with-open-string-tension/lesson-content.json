@@ -1,0 +1,86 @@
+{
+  "id": "e-phrygian-riffs-with-open-string-tension",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# E Phrygian riffs with open-string tension\nE Phrygian sounds intense because it keeps the minor flavor of E while adding the spicy **b2: F**. On guitar, that sound gets even more dramatic when you let the open low **E** ring like a pedal tone under short riffs.\n\nIn this lesson, you will build riffs instead of running scale shapes. The goal is to make the mode sound like music, not like a theory worksheet wearing a leather jacket.",
+          "pt-BR": "# Riffs em Mi Frígio com tensão de corda solta\nMi frígio soa intenso porque mantém o clima menor de Mi e adiciona a cor picante da **b2: Fá**. Na guitarra, esse som fica ainda mais dramático quando você deixa a corda **Mi** grave solta soar como um pedal por baixo de riffs curtos.\n\nNesta lição, você vai construir riffs em vez de apenas correr por shapes. A meta é fazer o modo soar como música, não como uma folha de teoria tentando pagar de roqueira.",
+          "es": "# Riffs en Mi frigio con tensión de cuerda al aire\nMi frigio suena intenso porque conserva el color menor de Mi y añade la especia de la **b2: Fa**. En guitarra, ese sonido se vuelve todavía más dramático cuando dejas sonar la cuerda grave de **Mi** al aire como pedal debajo de riffs cortos.\n\nEn esta lección construirás riffs en lugar de correr escalas. La meta es que el modo suene a música, no a una hoja de teoría disfrazada de rock.",
+          "de": "# E-phrygische Riffs mit Leersaiten-Spannung\nE-Phrygisch klingt intensiv, weil es den Moll-Charakter von E behält und mit der **kleinen Sekunde F** würzt. Auf der Gitarre wird dieser Klang noch dramatischer, wenn du die tiefe leere **E-Saite** wie einen Bordun unter kurzen Riffs klingen lässt.\n\nIn dieser Lektion baust du Riffs, statt nur Skalenformen hoch und runter zu spielen. Das Ziel ist, dass der Modus nach Musik klingt und nicht nach einem Theorieblatt in Lederjacke.",
+          "ja": "# 開放弦の緊張感を使ったEフリジアン・リフ\nEフリジアンが強烈に聞こえるのは、Eマイナーの雰囲気を保ちながら **b2 の F** という刺激的な色を加えるからです。ギターでは、低い開放 **E** をペダルトーンのように鳴らし続けると、その緊張感はさらに大きくなります。\n\nこのレッスンでは、スケール形をなぞるのではなく、実際にリフを作ります。目標は、モードを理論の宿題ではなく音楽として鳴らすことです。",
+          "zh-Hans": "# 用开放弦张力打造 E 弗里吉亚 riff\nE 弗里吉亚之所以有压迫感，是因为它保留了 E 小调的味道，同时加入了刺激的 **降 2 度 F**。在吉他上，如果让低音开放 **E** 像 pedal tone 一样持续响着，这种张力会更明显。\n\n这节课里，你要做的是写 riff，而不是只会跑音阶指型。目标是让这个调式听起来像音乐，而不是像穿着皮夹克的乐理作业。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# The color note that changes everything\nThink of **E Phrygian** as the notes of **C major** starting from E:\n- **E F G A B C D**\n- the star of the show is **F**, the flat 2\n- **F** wants to rub against **E**, and that friction is the whole mood\n\nIf you avoid **F**, the riff just sounds like ordinary E minor. If you feature **F** with control, the mode suddenly feels cinematic, tense, and a little dangerous.",
+          "pt-BR": "# A nota de cor que muda tudo\nPense em **Mi frígio** como as notas de **Dó maior** começando em Mi:\n- **E F G A B C D**\n- a estrela do som é **F**, a segunda menor\n- **F** quer esfregar em **E**, e esse atrito é o coração do clima\n\nSe você evita o **F**, o riff soa como um Mi menor comum. Se você destaca o **F** com controle, o modo fica cinematográfico, tenso e um pouco perigoso.",
+          "es": "# La nota de color que lo cambia todo\nPiensa en **Mi frigio** como las notas de **Do mayor** empezando desde Mi:\n- **E F G A B C D**\n- la estrella del sonido es **F**, la segunda menor\n- **F** quiere rozar a **E**, y esa fricción es todo el ambiente\n\nSi evitas **F**, el riff solo suena como un Mi menor normal. Si destacas **F** con control, el modo se vuelve cinematográfico, tenso y un poco peligroso.",
+          "de": "# Die Farbnote, die alles verändert\nStell dir **E-Phrygisch** als die Töne von **C-Dur** vor, beginnend auf E:\n- **E F G A B C D**\n- der Star des Sounds ist **F**, die kleine Sekunde\n- **F** reibt sich an **E**, und genau diese Reibung macht die Stimmung aus\n\nWenn du **F** vermeidest, klingt das Riff nur wie normales E-Moll. Wenn du **F** gezielt betonst, wirkt der Modus sofort filmisch, gespannt und leicht gefährlich.",
+          "ja": "# すべてを変える色の音\n**Eフリジアン** は **Cメジャー** の音を E から始めたものと考えられます。\n- **E F G A B C D**\n- 主役は **F**、つまり短2度です\n- **F** は **E** にぶつかりたがり、その摩擦こそがこのムードの核心です\n\n**F** を避けると、ただの E マイナー風に聞こえます。**F** を意識して使うと、一気に映画的で緊張感があり、少し危険な響きになります。",
+          "zh-Hans": "# 改变一切的色彩音\n可以把 **E 弗里吉亚** 理解成从 E 开始弹 **C 大调** 的音：\n- **E F G A B C D**\n- 真正的主角是 **F**，也就是小二度\n- **F** 会和 **E** 发生摩擦，而这种摩擦正是整体气质的核心\n\n如果你一直避开 **F**，这个 riff 听起来就只是普通的 E 小调。如果你有意识地突出 **F**，它立刻就会变得像电影配乐一样紧张、危险。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Setup drill\nCreate a steady pulse with muted downstrokes or a metronome. Then loop this idea:\n1. hit the open low **E**\n2. answer with a short phrase on the D and G strings\n3. include **F** at least once in every answer\n4. return to **E** so your ear hears the tension resolve\n\nKeep the riff short enough that you can repeat it without panic. Dark and tight beats busy and messy.",
+          "pt-BR": "# Exercício de preparação\nCrie uma pulsação estável com palhetadas abafadas para baixo ou com metrônomo. Depois repita esta ideia:\n1. toque a corda **Mi** grave solta\n2. responda com uma frase curta nas cordas Ré e Sol\n3. inclua **F** pelo menos uma vez em cada resposta\n4. volte para **E** para o ouvido perceber a resolução da tensão\n\nMantenha o riff curto o suficiente para repetir sem desespero. Escuro e firme vence corrido e bagunçado.",
+          "es": "# Ejercicio de preparación\nCrea un pulso estable con golpes apagados hacia abajo o con metrónomo. Luego repite esta idea:\n1. toca la cuerda grave de **Mi** al aire\n2. responde con una frase corta en las cuerdas de Re y Sol\n3. incluye **F** al menos una vez en cada respuesta\n4. vuelve a **E** para que el oído sienta la resolución de la tensión\n\nMantén el riff lo bastante corto como para repetirlo sin pánico. Oscuro y firme gana a rápido y desordenado.",
+          "de": "# Vorbereitungsübung\nErzeuge einen stabilen Puls mit abgedämpften Abschlägen oder einem Metronom. Dann wiederhole diese Idee:\n1. schlage die tiefe leere **E-Saite** an\n2. antworte mit einer kurzen Phrase auf D- und G-Saite\n3. baue **F** mindestens einmal in jede Antwort ein\n4. kehre zu **E** zurück, damit dein Ohr die Auflösung der Spannung hört\n\nHalte das Riff kurz genug, dass du es ohne Panik wiederholen kannst. Düster und präzise schlägt hektisch und chaotisch.",
+          "ja": "# 準備ドリル\nミュートしたダウンストロークかメトロノームで安定した脈を作り、次のアイデアを繰り返します。\n1. 低い開放 **E** を鳴らす\n2. D弦とG弦で短いフレーズを返す\n3. 毎回の返答に **F** を最低1回入れる\n4. 最後に **E** に戻って緊張の解決を耳で確認する\n\nリフは焦らず繰り返せる長さに保ちましょう。暗くて締まった演奏は、忙しく散らかった演奏より強いです。",
+          "zh-Hans": "# 准备练习\n先用闷音下拨或节拍器建立稳定脉冲，然后循环这个思路：\n1. 弹一下低音开放 **E**\n2. 用 D 弦和 G 弦上的短句回应\n3. 每次回应里至少出现一次 **F**\n4. 回到 **E**，让耳朵听见张力如何解决\n\nriff 要短到可以不慌不忙地重复。黑暗而紧凑，胜过忙乱而模糊。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Two riff rules\nUse these rules to keep the sound clearly Phrygian:\n- land on **E** or **B** when you want stability\n- hit **F** on a strong beat when you want maximum bite\n- avoid long random runs that hide the color note\n- leave space after the phrase so the pedal E can keep growling\n\nA good modal riff is usually more memorable than a fast modal blur.",
+          "pt-BR": "# Duas regras para o riff\nUse estas regras para manter o som claramente frígio:\n- caia em **E** ou **B** quando quiser estabilidade\n- ataque **F** em tempo forte quando quiser o máximo de mordida\n- evite corridas longas e aleatórias que escondem a nota de cor\n- deixe espaço depois da frase para o pedal em Mi continuar rosnando\n\nUm bom riff modal costuma ser mais memorável do que um borrão modal super rápido.",
+          "es": "# Dos reglas para el riff\nUsa estas reglas para que el sonido siga siendo claramente frigio:\n- cae en **E** o **B** cuando quieras estabilidad\n- golpea **F** en un tiempo fuerte cuando quieras el máximo mordiente\n- evita carreras largas y aleatorias que escondan la nota de color\n- deja espacio después de la frase para que el pedal de Mi siga gruñendo\n\nUn buen riff modal suele recordarse más que un borrón modal rapidísimo.",
+          "de": "# Zwei Regeln für das Riff\nNutze diese Regeln, damit der Klang eindeutig phrygisch bleibt:\n- lande auf **E** oder **B**, wenn du Stabilität willst\n- setze **F** auf eine starke Zählzeit, wenn du maximalen Biss willst\n- vermeide lange zufällige Läufe, die die Farbnote verstecken\n- lass nach der Phrase Platz, damit das Pedal-E weiter knurren kann\n\nEin gutes modales Riff bleibt meist besser im Kopf als ein superschneller modaler Schleier.",
+          "ja": "# リフのための2つのルール\nフリジアンらしさをはっきり保つには次を意識します。\n- 安定させたい時は **E** か **B** に着地する\n- 最大の刺激が欲しい時は **F** を強拍に置く\n- 色の音を隠してしまう長いランダムな走りは避ける\n- フレーズの後に空間を残して、ペダルの E をうならせ続ける\n\n良いモーダル・リフは、速いだけのモーダルな流れより記憶に残ります。",
+          "zh-Hans": "# 两条 riff 规则\n想让声音明确保持弗里吉亚色彩，可以遵守这些规则：\n- 需要稳定感时，落在 **E** 或 **B** 上\n- 需要最大冲击时，把 **F** 放在强拍上\n- 不要用长而随意的跑动把色彩音藏起来\n- 句子后留一点空间，让 pedal E 继续低吼\n\n好的调式 riff 往往比一串飞快的调式音更容易被记住。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make it heavier and smarter\nNow shape a 2-bar riff with this arc:\n- bar 1: establish the pedal **E** and a simple rhythm\n- bar 2: push harder by featuring **F** or moving from **F** to **G**\n- final note: return to **E** with conviction\n\nRecord two versions: one picked aggressively, one played lighter with more space. Notice how the same notes can sound like metal, soundtrack, or prog depending on touch.",
+          "pt-BR": "# Deixe mais pesado e mais inteligente\nAgora monte um riff de 2 compassos com este arco:\n- compasso 1: estabeleça o pedal em **E** e um ritmo simples\n- compasso 2: aumente a tensão destacando **F** ou indo de **F** para **G**\n- nota final: volte para **E** com convicção\n\nGrave duas versões: uma com ataque agressivo, outra mais leve e com mais espaço. Perceba como as mesmas notas podem soar metal, trilha sonora ou prog dependendo do toque.",
+          "es": "# Hazlo más pesado y más inteligente\nAhora construye un riff de 2 compases con este arco:\n- compás 1: establece el pedal en **E** y un ritmo simple\n- compás 2: empuja más fuerte destacando **F** o yendo de **F** a **G**\n- nota final: vuelve a **E** con convicción\n\nGraba dos versiones: una con ataque agresivo y otra más ligera con más espacio. Fíjate en cómo las mismas notas pueden sonar a metal, banda sonora o prog según el toque.",
+          "de": "# Mach es schwerer und klüger\nBaue jetzt ein 2-taktiges Riff mit diesem Verlauf:\n- Takt 1: etabliere das Pedal-**E** und einen einfachen Rhythmus\n- Takt 2: erhöhe die Spannung, indem du **F** betonst oder von **F** nach **G** gehst\n- letzter Ton: kehre mit Überzeugung zu **E** zurück\n\nNimm zwei Versionen auf: eine mit aggressivem Anschlag und eine leichter mit mehr Raum. Achte darauf, wie dieselben Töne je nach Anschlag nach Metal, Soundtrack oder Prog klingen können.",
+          "ja": "# もっと重く、もっと賢く\n次の流れで2小節のリフを作ってみましょう。\n- 1小節目: ペダル **E** とシンプルなリズムを確立する\n- 2小節目: **F** を目立たせるか **F** から **G** へ動いて緊張を強める\n- 最後の音: 自信を持って **E** に戻る\n\n強いピッキングの版と、軽めで間を多く取る版の2種類を録音してください。同じ音でもタッチ次第でメタル、映画音楽、プログレのように聞こえることに気づくはずです。",
+          "zh-Hans": "# 更重，也更聪明\n现在按这个弧线写一个 2 小节 riff：\n- 第 1 小节：建立 pedal **E** 和简单节奏\n- 第 2 小节：通过突出 **F**，或从 **F** 走向 **G**，把张力往上推\n- 最后一个音：有力地回到 **E**\n\n录两个版本：一个拨弦凶一点，一个更轻、更留白。观察同样的音，如何因为触键不同而听起来像金属、电影配乐，或者前卫摇滚。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nWrite three endings for the same riff:\n- one ending that sounds unresolved\n- one ending that sounds final\n- one ending that jumps to a higher register for surprise\n\nBonus challenge: keep the exact same rhythm and change only the last two notes. If the emotional color changes anyway, you are really hearing the mode.",
+          "pt-BR": "# Rodada de desafio\nEscreva três finais para o mesmo riff:\n- um final que soe sem resolução\n- um final que soe definitivo\n- um final que salte para uma região mais aguda e surpreenda\n\nDesafio extra: mantenha exatamente o mesmo ritmo e mude só as duas últimas notas. Se a cor emocional mudar mesmo assim, você realmente está ouvindo o modo.",
+          "es": "# Ronda de desafío\nEscribe tres finales para el mismo riff:\n- un final que suene sin resolver\n- un final que suene definitivo\n- un final que salte a un registro más agudo para sorprender\n\nReto extra: mantén exactamente el mismo ritmo y cambia solo las dos últimas notas. Si el color emocional cambia igual, de verdad estás oyendo el modo.",
+          "de": "# Herausforderungsrunde\nSchreibe drei Enden für dasselbe Riff:\n- ein Ende, das offen klingt\n- ein Ende, das endgültig klingt\n- ein Ende, das zur Überraschung in eine höhere Lage springt\n\nBonusaufgabe: Behalte exakt denselben Rhythmus und ändere nur die letzten zwei Töne. Wenn sich die emotionale Farbe trotzdem verändert, hörst du den Modus wirklich.",
+          "ja": "# チャレンジ・ラウンド\n同じリフに対して3種類の終わり方を書いてください。\n- 未解決に聞こえる終わり方\n- 完結したように聞こえる終わり方\n- 意外性を出すために高い音域へ跳ぶ終わり方\n\n追加チャレンジ: リズムはまったく同じにして、最後の2音だけ変えます。それでも感情の色が変わるなら、モードを本当に耳でつかめています。",
+          "zh-Hans": "# 挑战回合\n给同一个 riff 写出三种结尾：\n- 一种听起来没有完全解决\n- 一种听起来很终结\n- 一种突然跳到更高音区制造惊喜\n\n额外挑战：节奏完全不变，只改最后两个音。如果情绪颜色依然改变，说明你真的听见了这个调式。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-16T00:08:51Z",
+  "updatedAt": "2026-07-16T00:08:51Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "call-and-response-phrasing",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome to 70 bpm. In A minor pentatonic at the 5th position, play a 2‑beat “question” (2–4 notes), then leave 2 beats of rest. Repeat. Focus on clear timing.",
+          "pt-BR": "Ajuste o metrônomo para 70 bpm. Na pentatônica menor de Lá na 5ª posição, toque uma “pergunta” de 2 tempos (2–4 notas) e deixe 2 tempos de pausa. Repita. Foque em precisão rítmica.",
+          "es": "Pon el metrónomo a 70 bpm. En la pentatónica menor de La en la 5ª posición, toca una “pregunta” de 2 tiempos (2–4 notas) y deja 2 tiempos de silencio. Repite. Enfócate en el tiempo.",
+          "de": "Stelle das Metronom auf 70 bpm. In A‑Moll-Pentatonik in der 5. Lage spiele eine 2‑Schläge‑„Frage“ (2–4 Noten) und lass 2 Schläge Pause. Wiederhole. Achte auf sauberes Timing.",
+          "ja": "メトロノームを70 bpmに設定。5ポジションのAマイナーペンタで、2拍の「質問」（2〜4音）を弾き、次の2拍は休む。繰り返してタイミングを整える。",
+          "zh-Hans": "将节拍器设为70 bpm。在第五把位的A小调五声音阶上，弹一个2拍的“提问”（2–4个音），再留2拍休止。重复练习，保持准确节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Answer the question with a new rhythm: if the question is straight eighths, answer with a triplet or a dotted rhythm. Use the same notes so the change is only rhythmic.",
+          "pt-BR": "Responda à pergunta com um novo ritmo: se a pergunta for em colcheias retas, responda com tercinas ou ritmo pontuado. Use as mesmas notas para mudar só o ritmo.",
+          "es": "Responde la pregunta con un nuevo ritmo: si la pregunta es de corcheas rectas, responde con tresillos o un ritmo con puntillo. Usa las mismas notas para cambiar solo el ritmo.",
+          "de": "Antworte mit einem neuen Rhythmus: sind es gerade Achtel, antworte mit Triolen oder punktiertem Rhythmus. Verwende dieselben Töne, damit nur der Rhythmus wechselt.",
+          "ja": "質問に別のリズムで答える。質問がストレートな8分なら、答えは3連符や付点リズムにする。音は同じでリズムだけ変える。",
+          "zh-Hans": "用新的节奏来“回答”：如果提问是直八分音符，就用三连音或附点节奏回答。音高不变，只改变节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add articulation contrast. Make the question short and staccato; make the answer legato with slides or a bend. Choose two techniques and keep them consistent.",
+          "pt-BR": "Adicione contraste de articulação. Faça a pergunta curta e staccato; faça a resposta legato com slides ou um bend. Escolha duas técnicas e mantenha.",
+          "es": "Añade contraste de articulación. Haz la pregunta corta y staccato; haz la respuesta legato con slides o un bend. Elige dos técnicas y mantenlas.",
+          "de": "Füge Artikulationskontrast hinzu. Die Frage kurz und staccato, die Antwort legato mit Slides oder einem Bend. Wähle zwei Techniken und bleib dabei.",
+          "ja": "アーティキュレーションの対比を付ける。質問は短くスタッカート、答えはスライドやベンドでレガート。2つの技法を選んで固定する。",
+          "zh-Hans": "加入发音对比：提问用短促断音，回答用连奏加滑音或弯音。选择两种技巧并保持一致。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Over a loop of Am–Dm–Em (4 bars each), make a 4‑bar question and a 4‑bar answer. Land on chord tones (A/C/E for Am, D/F/A for Dm, E/G/B for Em) on beat 1 of each bar.",
+          "pt-BR": "Sobre um loop Am–Dm–Em (4 compassos cada), crie uma pergunta de 4 compassos e uma resposta de 4 compassos. Caia em notas do acorde (A/C/E para Am, D/F/A para Dm, E/G/B para Em) no tempo 1 de cada compasso.",
+          "es": "Sobre un loop Am–Dm–Em (4 compases cada uno), crea una pregunta de 4 compases y una respuesta de 4 compases. Aterriza en notas del acorde (A/C/E para Am, D/F/A para Dm, E/G/B para Em) en el tiempo 1 de cada compás.",
+          "de": "Über einem Loop Am–Dm–Em (je 4 Takte) erstelle eine 4‑Takte‑Frage und eine 4‑Takte‑Antwort. Lande auf Akkordtönen (A/C/E für Am, D/F/A für Dm, E/G/B für Em) auf Zählzeit 1 jedes Takts.",
+          "ja": "Am–Dm–Emを各4小節でループし、4小節の質問と4小節の答えを作る。各小節の1拍目でコードトーン（Am: A/C/E、Dm: D/F/A、Em: E/G/B）に着地。",
+          "zh-Hans": "在Am–Dm–Em循环（每个4小节）上，写4小节提问与4小节回答。在每小节第1拍落到和弦音（Am: A/C/E，Dm: D/F/A，Em: E/G/B）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: record 8 bars of call‑and‑response. Pick the best 2‑bar pair, then move it to two other keys.",
+          "pt-BR": "Desafio: grave 8 compassos de pergunta e resposta. Escolha o melhor par de 2 compassos e leve para outras duas tonalidades.",
+          "es": "Reto: graba 8 compases de pregunta y respuesta. Elige el mejor par de 2 compases y muévelo a otras dos tonalidades.",
+          "de": "Challenge: Nimm 8 Takte Call‑and‑Response auf. Wähle das beste 2‑Takte‑Paar und versetze es in zwei andere Tonarten.",
+          "ja": "チャレンジ：8小節のコール＆レスポンスを録音し、ベストな2小節ペアを選ぶ。さらに2つのキーで移調して弾く。",
+          "zh-Hans": "挑战：录下8小节问答，挑出最好的2小节组合，再移到另外两个调演奏。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-27T00:06:55Z",
+  "updatedAt": "2026-03-27T00:06:55Z"
+}

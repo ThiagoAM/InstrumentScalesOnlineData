@@ -1,0 +1,73 @@
+{
+  "id": "guitar-major-scale-lane-dodger",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today's game: play **C major** across two neighboring positions, but after every four notes you must change direction or string set. The goal is to sound agile instead of trapped inside one box.",
+          "pt-BR": "Jogo de hoje: toque **Dó maior** em duas posições vizinhas, mas a cada quatro notas você deve mudar a direção ou o grupo de cordas. O objetivo é soar ágil, não preso dentro de um único desenho.",
+          "es": "Juego de hoy: toca **Do mayor** en dos posiciones vecinas, pero cada cuatro notas debes cambiar de dirección o de grupo de cuerdas. La meta es sonar ágil y no atrapado en una sola caja.",
+          "de": "Heutiges Spiel: spiele **C-Dur** in zwei benachbarten Lagen, aber nach jeweils vier Noten musst du die Richtung oder den Saitensatz wechseln. Das Ziel ist, beweglich zu klingen statt in einer Box festzustecken.",
+          "ja": "今日のゲームは **Cメジャー** を隣り合う2つのポジションで弾くこと。ただし4音ごとに進行方向か弦セットを変えます。1つのボックスに閉じこもらず、身軽に聞こえるのが目標です。",
+          "zh-Hans": "今天的游戏：在两个相邻把位里弹 **C大调**，但每四个音就必须改变方向或换一组弦。目标是听起来灵活，而不是被困在一个指型里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: start on the 8th-fret low E-string C. Climb to the next C one octave higher, then descend using a **different fingering path**. Say the position number out loud each time you shift.",
+          "pt-BR": "Rodada 1: comece no Dó da 8ª casa da corda Mi grave. Suba até o próximo Dó uma oitava acima e depois desça usando um **caminho de digitação diferente**. Diga em voz alta o número da posição sempre que mudar.",
+          "es": "Ronda 1: empieza en el Do del traste 8 de la cuerda sexta. Sube hasta el siguiente Do una octava arriba y luego baja usando una **digitación diferente**. Di en voz alta el número de la posición cada vez que te muevas.",
+          "de": "Runde 1: starte auf dem C im 8. Bund der tiefen E-Saite. Steige bis zum nächsten C eine Oktave höher auf und gehe dann mit einem **anderen Fingersatzweg** wieder herunter. Sage bei jedem Lagenwechsel die Positionsnummer laut.",
+          "ja": "ラウンド1: 6弦8フレットのCから始め、1オクターブ上の次のCまで上がりましょう。その後は**別の運指ルート**で下降します。ポジション移動のたびに位置番号を声に出してください。",
+          "zh-Hans": "第1轮：从六弦8品的C开始，爬到高一个八度的下一个C，然后用**不同的指法路线**下行。每次换把时都把把位编号说出来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: improvise a one-bar phrase that lands on **E** over C major, then a second phrase that lands on **B** for extra color. Keep both phrases inside the same tempo so your ears notice the different gravity.",
+          "pt-BR": "Rodada 2: improvise uma frase de um compasso que pouse em **Mi** sobre Dó maior, depois uma segunda frase que pouse em **Si** para mais cor. Mantenha as duas no mesmo andamento para o ouvido sentir a gravidade diferente.",
+          "es": "Ronda 2: improvisa una frase de un compás que termine en **Mi** sobre Do mayor y luego una segunda frase que termine en **Si** para añadir más color. Mantén el mismo pulso para que tu oído note la gravedad distinta.",
+          "de": "Runde 2: improvisiere eine ein­taktige Phrase, die auf **E** über C-Dur landet, und danach eine zweite Phrase, die auf **H** landet, um mehr Farbe zu hören. Halte beide im gleichen Tempo, damit dein Ohr die andere Schwerkraft bemerkt.",
+          "ja": "ラウンド2: Cメジャー上で **E** に着地する1小節フレーズを作り、次に色合いを増やすため **B** に着地するフレーズを作ります。同じテンポを保ち、着地点の引力の違いを耳で確かめましょう。",
+          "zh-Hans": "第2轮：在C大调上即兴一个落在 **E** 的一小节乐句，再来一个落在 **B** 的乐句，让色彩更鲜明。保持同样速度，让耳朵感受两种落点的不同重力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss level: over a simple C–F–G loop, allow yourself only **three notes per string maximum** before you must jump to a new string pair. If you repeat the same contour twice, restart the bar and invent a twist.",
+          "pt-BR": "Fase chefão: sobre um loop simples de C–F–G, permita-se no máximo **três notas por corda** antes de saltar para um novo par de cordas. Se repetir o mesmo contorno duas vezes, reinicie o compasso e invente uma variação.",
+          "es": "Nivel jefe: sobre un loop simple de C–F–G, solo puedes tocar **tres notas por cuerda como máximo** antes de saltar a un nuevo par de cuerdas. Si repites el mismo contorno dos veces, reinicia el compás e inventa un giro.",
+          "de": "Boss-Level: über einen einfachen C–F–G-Loop darfst du maximal **drei Noten pro Saite** spielen, bevor du zu einem neuen Saitenpaar springen musst. Wenn du dieselbe Kontur zweimal wiederholst, starte den Takt neu und erfinde eine Wendung.",
+          "ja": "ボスレベル: シンプルな C–F–G ループの上で、**1弦あたり3音まで** しか使えません。その後は新しい弦ペアへジャンプします。同じ輪郭を2回続けて使ったら、その小節をやり直してひねりを加えましょう。",
+          "zh-Hans": "Boss关：在简单的 C–F–G 循环上，你每根弦最多只能弹 **三个音**，然后就必须跳到新的弦对。如果同样的轮廓重复了两次，就重来这一小节并设计一个转折。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Quick reflection: which shift felt smooth, and which one felt like a panic lane change? Practice the rough shift three more times slowly, then finish with one confident full-speed take.",
+          "pt-BR": "Reflexão rápida: qual mudança soou suave e qual pareceu uma troca de faixa em pânico? Treine a mudança difícil mais três vezes bem devagar e termine com uma execução confiante em velocidade normal.",
+          "es": "Reflexión rápida: ¿qué cambio se sintió fluido y cuál se sintió como un volantazo? Practica el cambio torpe tres veces más muy lento y termina con una toma segura a velocidad real.",
+          "de": "Kurze Reflexion: welcher Wechsel fühlte sich flüssig an, und welcher wie ein hektischer Spurwechsel? Übe den holprigen Wechsel noch dreimal langsam und beende die Session mit einem souveränen Durchlauf im Originaltempo.",
+          "ja": "クイック振り返り: どの移動は滑らかで、どの移動は慌てた車線変更のようでしたか。苦手な移動をゆっくり3回追加し、最後は自信のある通常テンポのテイクで締めましょう。",
+          "zh-Hans": "快速复盘：哪个换把最顺，哪个像慌张变道？把最别扭的那个慢练三次，最后用一次自信的原速演奏收尾。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-05T00:05:25Z",
+  "updatedAt": "2026-05-05T00:05:25Z"
+}

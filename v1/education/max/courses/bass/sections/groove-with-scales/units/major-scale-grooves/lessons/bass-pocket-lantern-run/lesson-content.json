@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-lantern-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Use G major and think of your bass line as a lantern moving through a dark tunnel: every note should help you see the next step. Start with a two-bar groove using only G, A, B, and D. Keep the line simple and heavy, then repeat it until the pulse feels automatic instead of guessed.",
+          "pt-BR": "Use Sol maior e pense na sua linha de baixo como uma lanterna andando por um túnel escuro: cada nota deve ajudar você a enxergar o próximo passo. Comece com um groove de dois compassos usando apenas G, A, B e D. Mantenha a linha simples e pesada, depois repita até o pulso parecer automático, não adivinhado.",
+          "es": "Usa Sol mayor y piensa en tu línea de bajo como una linterna moviéndose por un túnel oscuro: cada nota debe ayudarte a ver el siguiente paso. Empieza con un groove de dos compases usando solo G, A, B y D. Mantén la línea simple y pesada, y repítela hasta que el pulso se sienta automático y no adivinado.",
+          "de": "Nimm G-Dur und stell dir deine Basslinie wie eine Laterne in einem dunklen Tunnel vor: Jeder Ton soll dir den nächsten Schritt zeigen. Beginne mit einem zweitaktigen Groove nur aus G, A, B und D. Halte die Linie einfach und schwer, dann wiederhole sie, bis sich der Puls automatisch statt geraten anfühlt.",
+          "ja": "Gメジャーを使い、自分のベースラインを暗いトンネルを進むランタンだと思ってください。すべての音が次の一歩を照らす役割を持ちます。まずはG、A、B、Dだけを使った2小節の groove を作ります。シンプルで重さのあるラインにして、拍が勘ではなく体に入るまで繰り返しましょう。",
+          "zh-Hans": "选择G大调，把你的贝斯线想成一盏在黑暗隧道里前进的灯笼：每个音都要帮你看见下一步。先用G、A、B、D四个音写一个两小节 groove。保持线条简单、厚重，然后不断重复，直到脉冲感变成身体里的东西，而不是靠猜。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now dim the room a little. Replace one repeated note per bar with a ghost note or a short rest. The challenge is not to sound busier—it is to make the groove brighter by controlling space. If the pocket weakens, go back to the plain version and compare exactly where the line stopped feeling grounded.",
+          "pt-BR": "Agora apague um pouco a luz. Substitua uma nota repetida por compasso por uma ghost note ou uma pausa curta. O desafio não é soar mais ocupado; é fazer o groove brilhar mais controlando o espaço. Se o pocket enfraquecer, volte à versão simples e compare exatamente onde a linha deixou de soar firme.",
+          "es": "Ahora baja un poco la luz. Sustituye una nota repetida por compás por una ghost note o un silencio corto. El reto no es sonar más ocupado, sino hacer que el groove brille más gracias al control del espacio. Si el pocket se debilita, vuelve a la versión simple y compara exactamente dónde la línea dejó de sentirse sólida.",
+          "de": "Jetzt wird das Licht etwas dunkler. Ersetze pro Takt einen wiederholten Ton durch eine Ghost Note oder eine kurze Pause. Die Aufgabe ist nicht, geschäftiger zu klingen, sondern den Groove durch kontrollierten Raum heller wirken zu lassen. Wenn das Pocket schwächer wird, geh zur einfachen Version zurück und prüfe genau, wo die Linie ihre Erdung verlor.",
+          "ja": "次に少し灯りを暗くします。各小節で繰り返している音を1つだけ、ゴーストノートか短い休符に置き換えます。忙しく聞かせることが目的ではありません。空間をコントロールして groove をより明るく感じさせるのが狙いです。ポケットが弱くなったら、元のシンプル版に戻り、どこで安定感が崩れたか確認してください。",
+          "zh-Hans": "现在把光线调暗一点。每小节挑一个重复音，换成幽灵音或一个短休止。重点不是让自己听起来更忙，而是通过控制留白让 groove 更亮。如果 pocket 开始变弱，就退回最朴素的版本，仔细比较到底是从哪里开始失去扎实感。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a lantern checkpoint on beat 1 of each bar: you must land clearly on either G or D. Between those points, you may connect with A or B, but no random wandering is allowed. This teaches you to treat scale tones like guided steps rather than equal options.",
+          "pt-BR": "Adicione um checkpoint de lanterna no tempo 1 de cada compasso: você deve aterrissar claramente em G ou D. Entre esses pontos, pode conectar com A ou B, mas nada de passear sem direção. Isso ensina a tratar os graus da escala como passos guiados, não como opções iguais.",
+          "es": "Añade un checkpoint de linterna en el tiempo 1 de cada compás: debes aterrizar con claridad en G o D. Entre esos puntos puedes conectar con A o B, pero nada de vagar al azar. Esto te enseña a tratar las notas de la escala como pasos guiados y no como opciones iguales.",
+          "de": "Setze auf Schlag 1 jedes Takts einen Laternen-Checkpoint: Du musst klar auf G oder D landen. Dazwischen darfst du mit A oder B verbinden, aber zielloses Wandern ist verboten. So lernst du, Skalentöne als geführte Schritte statt als gleichwertige Zufallsoptionen zu behandeln.",
+          "ja": "各小節の1拍目にランタンのチェックポイントを置きます。そこでは必ずGかDに明確に着地します。その間はAやBでつないでも構いませんが、行き当たりばったりは禁止です。これで音階の音を、同じ価値の選択肢ではなく、案内された足場として扱えるようになります。",
+          "zh-Hans": "在每小节第1拍设置一个灯笼检查点：你必须清楚地落在G或D上。两次落点之间，可以用A或B连接，但不允许随便乱逛。这样你会学着把音阶音当成被引导的脚步，而不是完全平等的随机选项。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the pressure round, play the same groove three ways: first with straight eighth notes, then with a slight push toward beat 2, then with a relaxed layback feel. Keep the notes nearly identical so you can hear how time placement changes attitude. A good bass player can make one groove wear three different jackets.",
+          "pt-BR": "Na rodada de pressão, toque o mesmo groove de três maneiras: primeiro com colcheias retas, depois com uma leve empurrada em direção ao tempo 2, depois com uma sensação mais relaxada e atrasada. Mantenha as notas quase idênticas para ouvir como a colocação no tempo muda a atitude. Um bom baixista faz o mesmo groove vestir três jaquetas diferentes.",
+          "es": "En la ronda de presión, toca el mismo groove de tres maneras: primero con corcheas rectas, luego con un pequeño empuje hacia el tiempo 2 y después con una sensación más relajada y atrasada. Mantén las notas casi idénticas para oír cómo la colocación en el tiempo cambia la actitud. Un buen bajista puede hacer que un mismo groove use tres chaquetas distintas.",
+          "de": "Spiele in der Druckrunde denselben Groove auf drei Arten: erst mit geraden Achteln, dann mit leichtem Schub in Richtung Schlag 2, dann mit entspannter, etwas zurückgelehnter Lage. Halte die Noten fast identisch, damit du hörst, wie die Platzierung im Timing die Haltung verändert. Ein guter Bassist kann einem Groove drei verschiedene Jacken anziehen.",
+          "ja": "プレッシャー・ラウンドでは同じ groove を3通りで弾きます。まずはストレートな8分音符、次に2拍目へ少し押し込む感じ、最後に少し後ろへもたれるリラックスした feel です。音はなるべく同じにして、タイムの置き方だけで表情がどう変わるかを聴きましょう。良いベーシストは1つの groove に3つのジャケットを着せられます。",
+          "zh-Hans": "进入压力回合，把同一个 groove 弹三种版本：先是笔直的八分音符，然后是略微往第2拍推一点，最后是更放松、稍稍靠后的 feel。音高内容尽量别变，这样你才能真正听见：时间摆放的不同，会怎样改变态度。好的贝斯手能让同一个 groove 穿上三件不同外套。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by writing one final two-bar line that combines all three tools: clear landings, one ghosted or silent moment, and one scale connector that leads forward. Record it, loop it, and ask yourself one honest question: would a drummer trust this line? If yes, your lantern is working.",
+          "pt-BR": "Termine escrevendo uma linha final de dois compassos que combine as três ferramentas: chegadas claras, um momento ghosted ou silencioso e um conector de escala que empurre a frase para frente. Grave, coloque em loop e faça uma pergunta honesta: um baterista confiaria nessa linha? Se sim, sua lanterna está funcionando.",
+          "es": "Termina escribiendo una línea final de dos compases que combine las tres herramientas: aterrizajes claros, un momento ghosted o silencioso y un conector de escala que empuje hacia adelante. Grábala, repítela en loop y hazte una pregunta honesta: ¿un baterista confiaría en esta línea? Si la respuesta es sí, tu linterna está funcionando.",
+          "de": "Beende die Übung mit einer finalen zweitaktigen Linie, die alle drei Werkzeuge verbindet: klare Landungen, einen geghosteten oder stillen Moment und einen Skalenverbinder, der nach vorn zieht. Nimm sie auf, loope sie und stell dir eine ehrliche Frage: Würde ein Drummer dieser Linie vertrauen? Wenn ja, funktioniert deine Laterne.",
+          "ja": "最後に、3つの道具を全部入れた2小節ラインを1本書いて終えます。明確な着地、1か所のゴーストまたは無音、そして前へ進ませるスケールのつなぎ音です。録音してループし、自分に正直な質問をしてください。ドラマーはこのラインを信頼するでしょうか。答えがイエスなら、あなたのランタンは機能しています。",
+          "zh-Hans": "最后写出一条终极两小节线条，把三样工具都放进去：明确落点、一个幽灵或静默时刻、以及一个把音乐继续往前推的音阶连接音。录下来，循环播放，然后诚实问自己一句：鼓手会信任这条线吗？如果答案是会，你的灯笼就亮了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-07T00:07:56Z",
+  "updatedAt": "2026-07-07T00:07:56Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "three-color-solo-ladder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **A minor pentatonic** over a slow rock or funk groove in **Am7**. Today your solo gets three colors: **green** for safe notes, **yellow** for motion, and **red** for drama. Green means root and fifth feel stable, yellow means scale notes that keep things moving, and red means bends, slides, or a long held note that demands attention.",
+          "pt-BR": "Escolha **Lá menor pentatônica** sobre um groove lento de rock ou funk em **Am7**. Hoje seu solo terá três cores: **verde** para notas seguras, **amarelo** para movimento e **vermelho** para drama. Verde significa que tônica e quinta soam estáveis, amarelo são notas da escala que empurram a frase adiante, e vermelho são bends, slides ou uma nota longa que pede atenção.",
+          "es": "Elige **La menor pentatónica** sobre un groove lento de rock o funk en **Am7**. Hoy tu solo tendrá tres colores: **verde** para notas seguras, **amarillo** para movimiento y **rojo** para drama. Verde significa que tónica y quinta se sienten estables, amarillo son notas de la escala que mantienen el impulso y rojo son bends, slides o una nota larga que exige atención.",
+          "de": "Wähle **A-Moll-Pentatonik** über einen langsamen Rock- oder Funk-Groove in **Am7**. Heute bekommt dein Solo drei Farben: **grün** für sichere Töne, **gelb** für Bewegung und **rot** für Drama. Grün heißt, Grundton und Quinte wirken stabil, gelb sind Skalentöne mit Vorwärtsdrang, und rot sind Bends, Slides oder ein langer gehaltene Ton, der Aufmerksamkeit verlangt.",
+          "ja": "**Aマイナー・ペンタトニック** を、**Am7** のゆっくりしたロックまたはファンクのグルーヴに合わせて使いましょう。今日はソロに3つの色を与えます。**緑** は安全な音、**黄** は動き、**赤** はドラマです。緑はルートと5度の安定感、黄は流れを作るスケール音、赤はベンド、スライド、あるいは注目を集めるロングトーンを意味します。",
+          "zh-Hans": "选择 **A小调五声音阶**，配合 **Am7** 的慢速摇滚或放克 groove。今天你的独奏有三种颜色：**绿色** 代表安全音，**黄色** 代表运动感，**红色** 代表戏剧性。绿色通常是根音和五度的稳定感，黄色是推动句子前进的音阶音，红色则是推弦、滑音或一个强烈的长音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **green pass**. Improvise for one minute using only the notes **A, C, E, and G**, and stay mostly in one position. Your job is to sound convincing with rhythm, space, and tone before you earn extra vocabulary. If it already grooves with only four notes, your phrasing is doing real work.",
+          "pt-BR": "A rodada 1 é o **passe verde**. Improvise por um minuto usando apenas as notas **A, C, E e G**, ficando quase sempre na mesma posição. Sua missão é soar convincente com ritmo, espaço e timbre antes de ganhar vocabulário extra. Se já grooveia com só quatro notas, seu fraseado está fazendo trabalho de verdade.",
+          "es": "La ronda 1 es la **pasada verde**. Improvisa durante un minuto usando solo las notas **A, C, E y G**, quedándote casi siempre en una misma posición. Tu misión es sonar convincente con ritmo, espacio y tono antes de ganar vocabulario extra. Si ya hay groove con solo cuatro notas, tu fraseo está trabajando de verdad.",
+          "de": "Runde 1 ist der **grüne Durchgang**. Improvisiere eine Minute lang nur mit den Tönen **A, C, E und G** und bleibe meistens in einer Lage. Deine Aufgabe ist, mit Rhythmus, Raum und Ton überzeugend zu klingen, bevor du mehr Vokabular bekommst. Wenn es schon mit vier Tönen groovt, arbeitet deine Phrasierung wirklich.",
+          "ja": "ラウンド1は **緑のパス**。**A、C、E、G** だけを使い、ほぼ同じポジションのまま1分間即興します。追加の語彙をもらう前に、リズム、間、音色で説得力を出すのが任務です。4音だけでもグルーヴするなら、フレージングが本当に働いています。",
+          "zh-Hans": "第1轮是 **绿色通关**。只用 **A、C、E、G** 四个音，基本停留在同一个把位里即兴1分钟。你的任务是在还没得到更多“词汇”之前，先靠节奏、留白和音色把自己说服。如果只有4个音也已经有 groove，说明你的乐句处理真的在工作。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **yellow pass**. Open the full pentatonic box, but every phrase must begin with a green note and travel through at least one yellow note before it ends. Think of this as building ramps instead of random note piles. You are training your fingers to connect motion back to something stable.",
+          "pt-BR": "A rodada 2 é o **passe amarelo**. Abra a caixa pentatônica inteira, mas cada frase deve começar com uma nota verde e passar por pelo menos uma nota amarela antes de terminar. Pense nisso como construir rampas em vez de empilhar notas aleatórias. Você está treinando os dedos para conectar movimento de volta a algo estável.",
+          "es": "La ronda 2 es la **pasada amarilla**. Abre toda la caja pentatónica, pero cada frase debe empezar con una nota verde y pasar por al menos una nota amarilla antes de terminar. Piensa en esto como construir rampas en lugar de amontonar notas al azar. Estás entrenando tus dedos para llevar el movimiento de vuelta a algo estable.",
+          "de": "Runde 2 ist der **gelbe Durchgang**. Öffne die ganze Pentatonik-Box, aber jede Phrase muss auf einem grünen Ton beginnen und vor dem Ende mindestens einen gelben Ton berühren. Denk dabei an Rampen statt an zufällige Tonhaufen. Du trainierst deine Finger, Bewegung wieder mit etwas Stabilität zu verbinden.",
+          "ja": "ラウンド2は **黄色のパス**。ペンタトニック全体を開放しますが、各フレーズは必ず緑の音で始まり、終わる前に少なくとも1つ黄色の音を通過してください。ランダムに音を積むのではなく、坂道を作る感覚です。指に「動きは安定へ戻るものだ」と覚えさせます。",
+          "zh-Hans": "第2轮是 **黄色通关**。打开整套五声音阶指型，但每一句都必须从绿色音开始，并且在结束前经过至少一个黄色音。把它想成搭建坡道，而不是随便堆一堆音。你在训练手指，让“运动”最终回到“稳定”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **red pass**. In each four-bar phrase, add exactly one dramatic move: a bend, slide, vibrato hold, or position shift. The challenge is to make the red moment land on purpose, not because your hand panicked. Record one chorus and ask yourself whether the dramatic note sounds like a plot twist or just noise.",
+          "pt-BR": "A rodada 3 é o **passe vermelho**. Em cada frase de quatro compassos, adicione exatamente um movimento dramático: bend, slide, vibrato sustentado ou mudança de posição. O desafio é fazer o momento vermelho cair por intenção, não porque sua mão entrou em pânico. Grave um chorus e se pergunte se a nota dramática soa como reviravolta de roteiro ou só barulho.",
+          "es": "La ronda 3 es la **pasada roja**. En cada frase de cuatro compases añade exactamente un movimiento dramático: bend, slide, vibrato largo o cambio de posición. El reto es hacer que el momento rojo caiga con intención, no porque tu mano entró en pánico. Graba un coro y pregúntate si la nota dramática suena como un giro de guion o solo como ruido.",
+          "de": "Runde 3 ist der **rote Durchgang**. In jeder Vier-Takt-Phrase baust du genau eine dramatische Aktion ein: Bend, Slide, langes Vibrato oder Lagenwechsel. Die Herausforderung ist, dass der rote Moment absichtlich landet und nicht so wirkt, als hätte deine Hand Panik bekommen. Nimm einen Chorus auf und frage dich, ob der dramatische Ton wie eine Wendung oder nur wie Lärm klingt.",
+          "ja": "ラウンド3は **赤のパス**。4小節ごとに、ベンド、スライド、長いビブラート、またはポジション移動のいずれかを1回だけ入れます。大切なのは、赤い瞬間が手のパニックではなく意図として着地することです。1コーラス録音して、その劇的な音が物語の転換点なのか、ただのノイズなのかを確認しましょう。",
+          "zh-Hans": "第3轮是 **红色通关**。每个4小节乐句里，准确加入一次戏剧性动作：推弦、滑音、长振音，或者把位移动。挑战在于让这个红色时刻听起来像你故意设计的，而不是手突然慌了。录下一段 chorus，问问自己：这个戏剧音像剧情反转，还是只是噪音？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final ladder: play three choruses in a row — green-heavy, yellow-balanced, then red-aware — and finish by writing one sentence about which color you underused. Great improvisers are not just fast; they know when to be calm, when to move, and when to light up the room.",
+          "pt-BR": "Escada final: toque três choruses seguidos — mais verde, amarelo equilibrado e vermelho consciente — e termine escrevendo uma frase sobre qual cor você usou menos. Grandes improvisadores não são apenas rápidos; eles sabem quando ficar calmos, quando mover e quando acender a sala.",
+          "es": "Escalera final: toca tres coros seguidos — más verde, amarillo equilibrado y rojo consciente — y termina escribiendo una frase sobre qué color usaste menos. Los grandes improvisadores no solo son rápidos; saben cuándo estar tranquilos, cuándo moverse y cuándo encender la habitación.",
+          "de": "Die finale Leiter: Spiele drei Chorusse hintereinander — grün-lastig, gelb-ausgewogen und rot-bewusst — und schreibe dann einen Satz darüber, welche Farbe du zu wenig genutzt hast. Große Improvisierende sind nicht nur schnell; sie wissen, wann sie ruhig bleiben, wann sie sich bewegen und wann sie den Raum zum Leuchten bringen.",
+          "ja": "最後のラダーでは、緑多め、黄バランス、赤意識の3コーラスを続けて弾き、最後に「自分が一番使っていない色」を1文で書きます。優れた即興奏者は速いだけではありません。落ち着くとき、動くとき、部屋を光らせるときを知っています。",
+          "zh-Hans": "最后的阶梯：连续弹三个 chorus——绿色偏多、黄色平衡、红色有意识——然后写一句话，说明你最少使用的是哪一种颜色。优秀的即兴者不只是快，他们知道什么时候冷静，什么时候推进，什么时候把房间点亮。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-22T14:09:11Z",
+  "updatedAt": "2026-04-22T14:09:11Z"
+}

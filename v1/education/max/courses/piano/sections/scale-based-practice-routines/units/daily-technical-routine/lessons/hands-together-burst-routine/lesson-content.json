@@ -1,0 +1,60 @@
+{
+  "id": "hands-together-burst-routine",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up C major, hands together, standard fingering. Keep curved fingers and relaxed wrists.",
+          "pt-BR": "Prepare Dó maior, mãos juntas, digitação padrão. Dedos curvos e punhos relaxados.",
+          "es": "Prepara Do mayor, manos juntas, digitación estándar. Dedos curvos y muñecas relajadas.",
+          "de": "Richte C‑Dur ein, beide Hände, Standardfingersatz. Finger rund, Handgelenke locker.",
+          "ja": "Cメジャーを両手で。標準の指使い。指は丸く、手首はリラックス。",
+          "zh-Hans": "准备C大调，双手，标准指法。手指弯曲，手腕放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Burst ladder: 2 slow measures at 60 BPM, then 1 fast burst at 90 BPM. After 3 clean rounds, raise the burst by +5 BPM.",
+          "pt-BR": "Escada de burst: 2 compassos lentos a 60 BPM, depois 1 burst rápido a 90 BPM. Após 3 rodadas limpas, aumente o burst em +5 BPM.",
+          "es": "Escalera de burst: 2 compases lentos a 60 BPM, luego 1 burst rápido a 90 BPM. Tras 3 rondas limpias, sube el burst +5 BPM.",
+          "de": "Burst‑Leiter: 2 langsame Takte bei 60 BPM, dann 1 schneller Burst bei 90 BPM. Nach 3 sauberen Runden Burst um +5 BPM erhöhen.",
+          "ja": "バースト階段：60 BPMで2小節ゆっくり、90 BPMで1小節バースト。3周きれいならバーストを+5 BPM。",
+          "zh-Hans": "爆发阶梯：60 BPM慢2小节，然后90 BPM快1小节。连续3轮干净就把爆发+5 BPM。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accent shift: keep 4/4, but accent every 3 notes. This trains control without speeding up.",
+          "pt-BR": "Mudança de acento: mantenha 4/4, mas acentue a cada 3 notas. Treina controle sem acelerar.",
+          "es": "Cambio de acento: mantén 4/4, pero acentúa cada 3 notas. Entrena control sin acelerar.",
+          "de": "Akzentwechsel: bleib in 4/4, aber betone jede 3. Note. Das trainiert Kontrolle ohne zu beschleunigen.",
+          "ja": "アクセント移動：4/4のまま、3音ごとにアクセント。スピードを上げずにコントロール練習。",
+          "zh-Hans": "重音移动：保持4/4，但每3个音强调一次。训练控制而不加速。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Cooldown: play one octave legato, then staccato. Log your highest clean burst tempo and any tension you felt.",
+          "pt-BR": "Desacelere: toque uma oitava legato, depois staccato. Anote o maior burst limpo e qualquer tensão sentida.",
+          "es": "Enfriamiento: toca una octava legato y luego staccato. Anota tu burst limpio más alto y cualquier tensión.",
+          "de": "Cooldown: eine Oktave legato, dann staccato. Notiere dein höchstes sauberes Burst‑Tempo und mögliche Spannung.",
+          "ja": "クールダウン：1オクターブをレガート、その後スタッカート。最高のクリーンバーストと緊張の有無を記録。",
+          "zh-Hans": "放松收尾：一组音阶连奏，再断奏。记录最高的干净爆发速度和任何紧张感。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-22T00:06:30Z",
+  "updatedAt": "2026-03-22T00:06:30Z"
+}

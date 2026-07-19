@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-bridge-beacons",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Take D major and imagine you are placing bright beacons across a bridge: each note should tell you exactly where the groove is safe. Start at 74 BPM. In bar 1, play root and fifth only. In bar 2, connect them with one scale step. Keep the sound fat and simple so the time feels heavier than the number of notes.",
+          "pt-BR": "Pegue Ré maior e imagine que você está colocando balizas luminosas sobre uma ponte: cada nota deve mostrar exatamente onde o groove está seguro. Comece em 74 BPM. No compasso 1, toque apenas tônica e quinta. No compasso 2, conecte as duas com um único passo da escala. Mantenha o som gordo e simples para que o tempo pese mais do que a quantidade de notas.",
+          "es": "Toma Re mayor e imagina que estás colocando balizas brillantes sobre un puente: cada nota debe decirte exactamente dónde el groove es seguro. Empieza a 74 BPM. En el compás 1 toca solo tónica y quinta. En el compás 2 conéctalas con un solo paso de escala. Mantén el sonido gordo y simple para que el pulso pese más que la cantidad de notas.",
+          "de": "Nimm D-Dur und stell dir vor, du setzt helle Baken auf eine Brücke: Jeder Ton soll dir genau zeigen, wo der Groove sicher ist. Starte bei 74 BPM. In Takt 1 spielst du nur Grundton und Quinte. In Takt 2 verbindest du beide mit einem einzigen Skalen-Schritt. Der Sound soll fett und einfach bleiben, damit das Timing schwerer wirkt als die Notenmenge.",
+          "ja": "Dメジャーを使い、橋の上に明るいビーコンを置いていくイメージで練習します。どの音も「ここなら groove が安全に着地できる」と示す役目を持たせてください。74 BPMから始めます。1小節目はルートと5度だけ。2小節目でその2音をスケールの1音だけでつなぎます。音数よりも時間の重さが勝つように、太くシンプルな音を保ちましょう。",
+          "zh-Hans": "选择 D 大调，并想象你正在一座桥上放置明亮的航标：每个音都要告诉你 groove 安全落脚的位置。先从 74 BPM 开始。第一小节只弹根音和五度，第二小节用一个音阶级进把它们连接起来。保持声音厚实而简单，让时间感比音符数量更有分量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now test the bridge. Every two bars, add one ghost note before a strong landing on beat 1 or beat 3. The ghost note is not decoration; it is the flashing warning light that makes the arrival feel bigger. If the groove gets sloppy, remove notes before you raise the tempo. Pocket first, traffic later.",
+          "pt-BR": "Agora teste a ponte. A cada dois compassos, adicione uma ghost note antes de uma chegada forte no tempo 1 ou no tempo 3. A ghost note não é enfeite; ela é a luz piscando que faz a chegada parecer maior. Se o groove ficar bagunçado, remova notas antes de aumentar o andamento. Primeiro o pocket, depois o trânsito.",
+          "es": "Ahora prueba el puente. Cada dos compases, añade una ghost note antes de una llegada fuerte en el tiempo 1 o en el tiempo 3. La ghost note no es decoración; es la luz de advertencia que hace que la llegada se sienta más grande. Si el groove se ensucia, quita notas antes de subir el tempo. Primero el pocket, luego el tráfico.",
+          "de": "Teste jetzt die Brücke. Füge alle zwei Takte vor einer starken Landung auf Zählzeit 1 oder 3 eine Ghost Note hinzu. Diese Ghost Note ist keine Deko, sondern das blinkende Warnlicht, das die Ankunft größer wirken lässt. Wenn der Groove unsauber wird, nimm zuerst Noten weg, bevor du das Tempo erhöhst. Erst Pocket, dann Verkehr.",
+          "ja": "次は橋の耐久テストです。2小節ごとに、1拍目か3拍目の強い着地の前へゴーストノートを1つ入れます。ゴーストノートは飾りではなく、着地を大きく感じさせる警告灯です。groove が雑になったら、テンポを上げる前にまず音を減らしましょう。交通整理より先に pocket です。",
+          "zh-Hans": "现在来测试这座桥。每两小节，在第 1 拍或第 3 拍的强落点之前加一个幽灵音。这个幽灵音不是装饰，而是闪烁的警示灯，会让落点显得更大、更有存在感。如果 groove 开始发虚，先减少音符，再考虑提速。先守住 pocket，再谈交通。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose three landing beacons: D, F#, and A. Over a four-bar loop, every bar must end on a different one. This forces your ear to hear the scale as a map of destinations instead of a row of safe habits. Say the target note out loud before you play it if your line starts wandering.",
+          "pt-BR": "Escolha três balizas de chegada: Ré, Fá# e Lá. Em um loop de quatro compassos, cada compasso deve terminar em uma diferente. Isso força seu ouvido a escutar a escala como um mapa de destinos, e não como uma fileira de hábitos seguros. Diga a nota-alvo em voz alta antes de tocar se a linha começar a se perder.",
+          "es": "Elige tres balizas de llegada: Re, Fa# y La. En un loop de cuatro compases, cada compás debe terminar en una distinta. Eso obliga a tu oído a escuchar la escala como un mapa de destinos y no como una fila de hábitos cómodos. Di la nota objetivo en voz alta antes de tocar si la línea empieza a desviarse.",
+          "de": "Wähle drei Landebaken: D, Fis und A. In einem Vier-Takt-Loop muss jeder Takt auf einem anderen Ton enden. So hört dein Ohr die Skala als Zielkarte statt als Reihe sicherer Gewohnheiten. Sag den Zielton laut, bevor du ihn spielst, falls deine Linie anfängt zu wandern.",
+          "ja": "着地点のビーコンを3つ選びます。D、F#、Aがおすすめです。4小節ループの中で、各小節は毎回違うビーコンで終わらせてください。これで耳はスケールを安全な癖の列ではなく、目的地の地図として聞くようになります。ラインが迷い始めたら、弾く前に目標音を声に出しましょう。",
+          "zh-Hans": "选出三个落点航标：D、F#、A。在一个四小节循环里，每小节必须落在不同的一个上。这会逼你的耳朵把音阶听成“目的地地图”，而不是一排安全习惯。如果你的线条开始飘，先把目标音说出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: write a four-bar groove with rules. Bar 1 stays low and sparse. Bar 2 uses one passing tone. Bar 3 includes a rest on beat 2. Bar 4 climbs briefly, then lands hard on D. Loop it until the groove feels dependable enough that a drummer would trust you instantly.",
+          "pt-BR": "Rodada de desafio: escreva um groove de quatro compassos com regras. O compasso 1 fica grave e econômico. O compasso 2 usa uma nota de passagem. O compasso 3 inclui uma pausa no tempo 2. O compasso 4 sobe brevemente e depois aterrissa forte em Ré. Repita até o groove soar confiável o bastante para um baterista confiar em você na hora.",
+          "es": "Ronda de desafío: escribe un groove de cuatro compases con reglas. El compás 1 se queda grave y austero. El compás 2 usa una nota de paso. El compás 3 incluye un silencio en el tiempo 2. El compás 4 sube un poco y luego aterriza con fuerza en Re. Repítelo hasta que el groove se sienta tan confiable que un baterista confiaría en ti al instante.",
+          "de": "Herausforderungsrunde: Schreibe einen Vier-Takt-Groove mit Regeln. Takt 1 bleibt tief und sparsam. Takt 2 benutzt einen Durchgangston. Takt 3 enthält eine Pause auf Zählzeit 2. Takt 4 steigt kurz an und landet dann hart auf D. Wiederhole das, bis der Groove so verlässlich wirkt, dass ein Drummer dir sofort vertrauen würde.",
+          "ja": "チャレンジラウンドです。4小節グルーヴを次のルールで書きます。1小節目は低く、音数少なめ。2小節目は経過音を1つ使う。3小節目は2拍目に休符を入れる。4小節目は少し上がってから、Dへ強く着地する。ドラマーがすぐ信頼したくなるくらい安定するまで繰り返してください。",
+          "zh-Hans": "挑战回合：写一个四小节 groove，并遵守规则。第 1 小节保持低音区、少音符；第 2 小节加入一个经过音；第 3 小节在第 2 拍留一个休止；第 4 小节短暂上行后有力落回 D。反复练，直到它稳得让鼓手一听就愿意信任你。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by playing the same groove at three dynamics: warm, medium, and punchy. Do not speed up when you dig in. Your final job is to decide which version made the bridge feel most solid. Save that version, then move the whole idea to E major before you stop.",
+          "pt-BR": "Termine tocando o mesmo groove em três dinâmicas: quente, média e marcante. Não acelere quando atacar mais forte. Sua tarefa final é decidir qual versão deixou a ponte mais sólida. Guarde essa versão e leve a ideia inteira para Mi maior antes de parar.",
+          "es": "Termina tocando el mismo groove con tres dinámicas: cálida, media y potente. No aceleres cuando ataques más fuerte. Tu trabajo final es decidir qué versión hizo sentir el puente más sólido. Guarda esa versión y mueve toda la idea a Mi mayor antes de parar.",
+          "de": "Zum Schluss spielst du denselben Groove in drei Dynamiken: warm, mittel und druckvoll. Werde beim kräftigeren Anschlag nicht schneller. Deine letzte Aufgabe ist zu entscheiden, welche Version die Brücke am stabilsten gemacht hat. Speichere diese Version und verschiebe die ganze Idee vor dem Ende nach E-Dur.",
+          "ja": "最後は同じグルーヴを3つのダイナミクスで弾きます。あたたかく、中くらい、そしてパンチ強めです。強く弾いたときに走らないこと。最終課題は、どのバージョンがいちばん橋を安定して感じさせたか決めることです。そのバージョンを保存し、終わる前にEメジャーへ移してください。",
+          "zh-Hans": "最后，用三种力度弹同一个 groove：温暖、中等、有冲击力。别因为下手更重就越弹越快。你的最终任务，是判断哪一种版本让这座桥最稳。把那个版本留下来，并在结束前把整个想法移到 E 大调。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-12T00:07:18Z",
+  "updatedAt": "2026-07-12T00:07:18Z"
+}

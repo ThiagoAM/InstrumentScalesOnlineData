@@ -1,0 +1,73 @@
+{
+  "id": "dorian-color-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the color lab. Set a vamp on **Dm7** at **76-92 BPM** and keep your left hand simple with roots, shells, or a light two-note voicing. Your right hand will test how **D Dorian** can sound smooth, curious, or quietly brave without turning into random note soup.",
+          "pt-BR": "Bem-vindo ao laboratório da cor. Monte um vamp em **Dm7** entre **76-92 BPM** e mantenha a mão esquerda simples, com fundamentais, conduções ou uma voicing leve de duas notas. A mão direita vai testar como o **Ré dórico** pode soar suave, curioso ou discretamente corajoso sem virar sopa aleatória de notas.",
+          "es": "Bienvenido al laboratorio del color. Monta un vamp en **Dm7** a **76-92 BPM** y deja la mano izquierda sencilla, con raíces, shells o un voicing ligero de dos notas. La mano derecha probará cómo **Re dórico** puede sonar suave, curioso o discretamente valiente sin convertirse en sopa aleatoria de notas.",
+          "de": "Willkommen im Farblabor. Richte einen Vamp auf **Dm7** bei **76-92 BPM** ein und halte die linke Hand einfach mit Grundtönen, Shell-Voicings oder einem leichten Zwei-Noten-Voicing. Die rechte Hand testet heute, wie **D-Dorisch** weich, neugierig oder leise mutig klingen kann, ohne zu zufälliger Notensuppe zu werden.",
+          "ja": "カラー実験室へようこそ。**Dm7** のヴァンプを **76-92 BPM** で回し、左手はルート、シェル、または軽い2音ボイシングでシンプルに保ちます。右手は **Dドリアン** が、ただの音の寄せ集めにならずに、やわらかく、好奇心があり、少し勇敢にも聞こえることを試します。",
+          "zh-Hans": "欢迎来到色彩实验室。设置一个 **Dm7** 的 vamp，速度 **76-92 BPM**，左手保持简单，只弹根音、shell voicing 或轻一点的双音。右手今天要测试的是：**D多利亚** 如何在不变成随机音符汤的前提下，听起来柔和、好奇，甚至安静地勇敢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start by playing the scale slowly: **D-E-F-G-A-B-C**. Notice the special ingredient: **B natural**, the raised 6th. That note is the lab chemical today. If you ignore it, you will sound like natural minor wearing a fake mustache.",
+          "pt-BR": "Comece tocando a escala devagar: **D-E-F-G-A-B-C**. Repare no ingrediente especial: **B natural**, a 6ª maior. Esse é o reagente do dia. Se você ignorá-lo, vai soar como menor natural usando um bigode falso.",
+          "es": "Empieza tocando la escala despacio: **D-E-F-G-A-B-C**. Fíjate en el ingrediente especial: **B natural**, la 6ª mayor. Ese es el reactivo de hoy. Si lo ignoras, sonarás como menor natural con bigote postizo.",
+          "de": "Spiele die Skala zuerst langsam: **D-E-F-G-A-B-C**. Achte auf die besondere Zutat: **B** als große 6. Genau dieser Ton ist heute die Laborchemie. Wenn du ihn ignorierst, klingst du wie natürliches Moll mit angeklebtem Schnurrbart.",
+          "ja": "まずスケールをゆっくり弾きます：**D-E-F-G-A-B-C**。ここで注目する特別な材料は **Bナチュラル**、つまり長6度です。今日の実験薬はこの音です。これを無視すると、つけヒゲをしたナチュラルマイナーに聞こえてしまいます。",
+          "zh-Hans": "先慢慢弹音阶：**D-E-F-G-A-B-C**。注意那个特殊成分：**B自然音**，也就是大六度。今天的实验药剂就是它。要是忽略这个音，你听起来就会像戴假胡子的自然小调。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a two-bar phrase with mostly quarter notes and eighth notes. In bar 1, land on **D** or **F** so the mode feels grounded. In bar 2, make sure **B natural** appears once and resolves smoothly to **A** or **C**. The goal is color with control, not color spilled all over the keyboard.",
+          "pt-BR": "Monte uma frase de dois compassos usando principalmente semínimas e colcheias. No compasso 1, pouse em **D** ou **F** para o modo ficar bem assentado. No compasso 2, garanta que o **B natural** apareça uma vez e resolva com suavidade para **A** ou **C**. A meta é cor com controle, não tinta espalhada pelo teclado.",
+          "es": "Construye una frase de dos compases usando sobre todo negras y corcheas. En el compás 1, aterriza en **D** o **F** para que el modo quede bien asentado. En el compás 2, asegúrate de que aparezca una vez **B natural** y resuelva con suavidad hacia **A** o **C**. La meta es color con control, no pintura derramada por todo el teclado.",
+          "de": "Baue eine Zwei-Takt-Phrase mit überwiegend Vierteln und Achteln. In Takt 1 landest du auf **D** oder **F**, damit der Modus geerdet klingt. In Takt 2 muss **B** einmal auftauchen und sich sauber nach **A** oder **C** auflösen. Es geht um Farbe mit Kontrolle, nicht um Farbe über die ganze Tastatur verschüttet.",
+          "ja": "4分音符と8分音符を中心に、2小節のフレーズを作りましょう。1小節目では **D** か **F** に着地して、モードの土台を作ります。2小節目では **Bナチュラル** を1回だけ入れ、**A** か **C** へ自然に解決させます。狙いは色彩とコントロールであって、鍵盤じゅうに絵の具をこぼすことではありません。",
+          "zh-Hans": "用四分音符和八分音符为主，写一个两小节乐句。第1小节落在 **D** 或 **F** 上，让调式先站稳。第2小节里让 **B自然音** 出现一次，并自然地解决到 **A** 或 **C**。目标是有控制的色彩，而不是把颜料泼满整个键盘。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next experiment: keep the same phrase shape, but move it one octave higher and change only the dynamics. First play it as a soft question. Then play it again as a brighter answer. Same notes, new lighting.",
+          "pt-BR": "Próximo experimento: mantenha o mesmo desenho da frase, mas leve tudo uma oitava acima e mude apenas a dinâmica. Primeiro toque como uma pergunta suave. Depois repita como uma resposta mais brilhante. Mesmas notas, outra iluminação.",
+          "es": "Siguiente experimento: conserva la misma forma de frase, pero súbela una octava y cambia solo la dinámica. Primero tócala como una pregunta suave. Luego repítela como una respuesta más brillante. Las mismas notas, otra iluminación.",
+          "de": "Nächstes Experiment: Behalte dieselbe Phrasenform, verschiebe sie aber eine Oktave höher und ändere nur die Dynamik. Spiele sie zuerst wie eine leise Frage. Dann wiederhole sie als hellere Antwort. Gleiche Noten, anderes Licht.",
+          "ja": "次の実験では、フレーズの形はそのままにして1オクターブ上へ移し、変えるのはダイナミクスだけにします。最初はやさしい問いかけのように。次は少し明るい答えのように弾きましょう。同じ音でも、照明が変わります。",
+          "zh-Hans": "下一组实验：保持同样的乐句轮廓，只把它整体升高一个八度，并且只改变力度。先把它弹成一个轻声的提问，再把它弹成一个更明亮的回答。同样的音，不同的灯光。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record three versions over the same vamp — one with no **B natural**, one with **B natural** only once, and one that features it boldly. Decide which version really sounds Dorian instead of merely “minor-ish.” If your ears can hear that difference clearly, the lab is working.",
+          "pt-BR": "Desafio final: grave três versões sobre o mesmo vamp — uma sem **B natural**, uma com **B natural** aparecendo só uma vez e outra destacando essa nota sem vergonha. Decida qual versão realmente soa dórica em vez de apenas “meio menor”. Se seu ouvido enxergar essa diferença com clareza, o laboratório está funcionando.",
+          "es": "Desafío final: graba tres versiones sobre el mismo vamp — una sin **B natural**, una con **B natural** solo una vez y otra destacándolo con valentía. Decide cuál realmente suena dórica en vez de simplemente “algo menor”. Si tu oído puede notar esa diferencia con claridad, el laboratorio está funcionando.",
+          "de": "Finale Challenge: Nimm drei Versionen über denselben Vamp auf — eine ohne **B**, eine mit **B** nur einmal und eine, die diesen Ton mutig hervorhebt. Entscheide, welche Version wirklich dorisch klingt statt nur „irgendwie mollig“. Wenn dein Ohr den Unterschied klar hört, funktioniert das Labor.",
+          "ja": "最後のチャレンジとして、同じヴァンプで3種類録音します。**Bナチュラルなし** の版、**1回だけ入れる** 版、そしてその音を思い切って目立たせる版です。どれが本当にドリアンに聞こえ、どれがただ「なんとなくマイナー」に聞こえるかを判断してください。その違いを耳でしっかり聴き分けられたら、実験は成功です。",
+          "zh-Hans": "最终挑战：对着同一个 vamp 录三个版本——一个完全不出现 **B自然音**，一个只出现一次，另一个则大胆突出这个音。判断哪一个真的像多利亚，哪一个只是“有点像小调”。如果你的耳朵能清楚分辨这个差别，说明实验室运转正常。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-19T00:08:45Z",
+  "updatedAt": "2026-04-19T00:08:45Z"
+}

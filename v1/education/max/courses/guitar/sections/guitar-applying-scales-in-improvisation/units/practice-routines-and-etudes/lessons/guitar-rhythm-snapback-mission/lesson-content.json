@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-snapback-mission",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up in **E minor pentatonic** at **92-100 BPM** and pretend the groove is a trampoline. Each phrase is allowed to leap slightly ahead or behind the beat, but it must bounce back onto a strong landing note such as **E**, **G**, or **B** before the bar feels lost.",
+          "pt-BR": "Aqueça em **pentatônica menor de Mi** a **92-100 BPM** e imagine que o groove é um trampolim. Cada frase pode saltar um pouco na frente ou atrás do tempo, mas precisa quicar de volta em uma nota de chegada forte como **E**, **G** ou **B** antes que o compasso se perca.",
+          "es": "Calienta con la **pentatónica menor de Mi** a **92-100 BPM** e imagina que el groove es un trampolín. Cada frase puede saltar un poco delante o detrás del pulso, pero debe rebotar de vuelta sobre una nota fuerte como **E**, **G** o **B** antes de que el compás se pierda.",
+          "de": "Wärme dich in **E-Moll-Pentatonik** bei **92-100 BPM** auf und stell dir vor, der Groove sei ein Trampolin. Jede Phrase darf leicht vor oder hinter dem Beat abspringen, muss aber vor dem Verlust des Takts auf einem starken Zielton wie **E**, **G** oder **B** wieder landen.",
+          "ja": "**Eマイナー・ペンタトニック** を **92-100 BPM** でウォームアップし、グルーヴがトランポリンだと想像してください。各フレーズは少し前ノリでも後ノリでも構いませんが、**E**、**G**、**B** のような強い着地音に戻ってこないと小節が迷子になります。",
+          "zh-Hans": "用 **E小调五声音阶** 在 **92-100 BPM** 热身，并把 groove 想成一张蹦床。每个乐句都可以稍微冲到拍前或拖到拍后，但必须在小节失控前，弹回 **E**、**G**、**B** 这样的强落点音上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Mission rules\n- Keep phrases to **4 to 6 notes**.\n- Every phrase must contain **one rhythmic surprise**: a rest, a held note, or an early pickup.\n- Land on a stable note by beat **1** or beat **3** of the next bar.\n- After each landing, leave a short breath so the groove stays readable.",
+          "pt-BR": "## Regras da missão\n- Mantenha frases com **4 a 6 notas**.\n- Toda frase precisa ter **uma surpresa rítmica**: pausa, nota sustentada ou anacruse.\n- Chegue em uma nota estável no tempo **1** ou **3** do compasso seguinte.\n- Depois de cada chegada, deixe uma pequena respiração para o groove continuar claro.",
+          "es": "## Reglas de la misión\n- Mantén frases de **4 a 6 notas**.\n- Cada frase debe tener **una sorpresa rítmica**: silencio, nota larga o anacrusa.\n- Aterriza en una nota estable en el tiempo **1** o **3** del compás siguiente.\n- Después de cada llegada, deja una pequeña respiración para que el groove siga claro.",
+          "de": "## Missionsregeln\n- Halte Phrasen bei **4 bis 6 Tönen**.\n- Jede Phrase braucht **eine rhythmische Überraschung**: Pause, langer Ton oder Auftakt.\n- Lande auf einem stabilen Ton auf Zählzeit **1** oder **3** des nächsten Takts.\n- Lass nach jeder Landung kurz Luft, damit der Groove lesbar bleibt.",
+          "ja": "## ミッションのルール\n- フレーズは **4〜6音** に絞ります。\n- 各フレーズには **1つのリズムの驚き** を入れます。休符、伸ばし、または食い気味の入りです。\n- 次の小節の **1拍目** か **3拍目** までに安定した音へ着地します。\n- 着地後は少し間を空けて、グルーヴを読みやすく保ちましょう。",
+          "zh-Hans": "## 任务规则\n- 每个乐句控制在 **4到6个音**。\n- 每个乐句都要有 **一个节奏惊喜**：停顿、长音或提前进入。\n- 在下一小节的 **第1拍** 或 **第3拍** 落到稳定音上。\n- 每次着陆后留一点呼吸，让 groove 依然清楚可听。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 1: jump and recover\nPlay one bar of straight eighth notes, then in the next bar push your first note early by an eighth-note pickup. On bar 3, answer with a phrase that lands dead-center on beat 1. You are teaching your hands that tension is fun only when recovery is clean.",
+          "pt-BR": "## Exercício 1: salta e recupera\nToque um compasso de colcheias retas e, no compasso seguinte, antecipe a primeira nota com uma anacruse de colcheia. No compasso 3, responda com uma frase que caia exatamente no tempo 1. A ideia é ensinar às mãos que tensão só funciona quando a recuperação é limpa.",
+          "es": "## Ejercicio 1: saltar y recuperar\nToca un compás de corcheas rectas y, en el siguiente, adelanta tu primera nota con una anacrusa de corchea. En el compás 3, responde con una frase que aterrice justo en el tiempo 1. Estás enseñando a tus manos que la tensión solo es divertida cuando la recuperación es limpia.",
+          "de": "## Übung 1: springen und retten\nSpiele einen Takt gerade Achtel und ziehe im nächsten Takt den ersten Ton mit einem Achtel-Auftakt vor. Antworte in Takt 3 mit einer Phrase, die exakt auf 1 landet. So lernen deine Hände, dass Spannung nur dann funktioniert, wenn die Rückkehr sauber ist.",
+          "ja": "## ドリル1：跳んで戻る\nまず1小節はまっすぐな8分音符、次の小節では最初の音を8分音符の食いで早めます。3小節目では1拍目にぴたりと着地する返答フレーズを弾きます。緊張感は、きれいに戻れて初めて面白くなると手に覚えさせる練習です。",
+          "zh-Hans": "## 练习1：跳出去，再救回来\n先弹一小节笔直的八分音符，下一小节把第一个音提前成八分音符的抢拍。到第3小节，用一个准确落在第1拍上的回答乐句收回来。这个练习是在教你的手：张力只有在回归干净时才真正好玩。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 2: same lick, three attitudes\nTake one small lick and play it three ways: first dry and even, second with a slide into the target note, third with a louder accent on the offbeat. The notes barely change, but the character changes a lot, which is the whole point of scale phrasing.",
+          "pt-BR": "## Exercício 2: o mesmo lick, três atitudes\nPegue um lick curto e toque de três formas: primeiro seco e regular, depois com slide até a nota-alvo, e por fim com um acento mais forte no contratempo. As notas quase não mudam, mas o caráter muda muito — e esse é o ponto do fraseado com escalas.",
+          "es": "## Ejercicio 2: el mismo lick, tres actitudes\nToma un lick pequeño y tócala de tres maneras: primero seco y parejo, luego con un slide hacia la nota objetivo y al final con un acento más fuerte en el contratiempo. Las notas casi no cambian, pero el carácter sí, y ese es el corazón del fraseo con escalas.",
+          "de": "## Übung 2: derselbe Lick, drei Haltungen\nNimm einen kleinen Lick und spiele ihn auf drei Arten: erst trocken und gleichmäßig, dann mit Slide in den Zielton und schließlich mit stärkerem Offbeat-Akzent. Die Töne ändern sich kaum, aber der Charakter stark — genau darum geht es beim Skalen-Phrasing.",
+          "ja": "## ドリル2：同じリックで3つの表情\n短いリックを3通りで弾きます。1回目はドライで均等、2回目はターゲット音へスライド、3回目は裏拍に強いアクセントを置きます。音はほとんど同じでも、キャラクターは大きく変わります。それがスケールフレージングの面白さです。",
+          "zh-Hans": "## 练习2：同一个lick，三种态度\n拿一个短 lick，用三种方式弹：第一遍干脆平均，第二遍滑向目标音，第三遍在反拍上加更明显的重音。音几乎没变，但个性变化很大——这正是音阶乐句训练的重点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Boss round\nBuild an **8-bar solo sketch** with two snapbacks, one dramatic rest, and one phrase that climbs into a higher position. Record it and check whether the pulse still feels solid enough to clap along with. If yes, your scale practice is turning into real guitar storytelling.",
+          "pt-BR": "## Rodada chefão\nMonte um **rascunho de solo em 8 compassos** com dois snapbacks, uma pausa dramática e uma frase que suba para uma posição mais aguda. Grave e veja se o pulso continua firme o bastante para bater palma junto. Se sim, seu estudo de escalas já está virando narrativa de guitarra de verdade.",
+          "es": "## Ronda final\nConstruye un **boceto de solo de 8 compases** con dos rebotes, un silencio dramático y una frase que suba a una posición más aguda. Grábalo y comprueba si el pulso sigue lo bastante firme como para aplaudir encima. Si sí, tu práctica de escalas ya está sonando como verdadera narrativa de guitarra.",
+          "de": "## Boss-Runde\nBaue eine **8-taktige Solo-Skizze** mit zwei Snapbacks, einer dramatischen Pause und einer Phrase, die in eine höhere Lage steigt. Nimm sie auf und prüfe, ob sich der Puls noch stabil genug anfühlt, um mitzuklatschen. Wenn ja, wird aus Skalenübung echtes Gitarren-Storytelling.",
+          "ja": "## ボスラウンド\n**8小節のソロ下書き** を作り、2回のスナップバック、1回の劇的な休符、そして高いポジションへ上がるフレーズを入れてください。録音して、手拍子を重ねられるくらい拍が安定しているか確認します。できていれば、スケール練習はもう本物のギターストーリーになり始めています。",
+          "zh-Hans": "## Boss回合\n写一个 **8小节独奏草图**，里面要有两次回弹、一次戏剧性停顿，以及一句爬向更高把位的乐句。录下来，检查节拍是否还稳到可以让人跟着拍手。若答案是肯定的，你的音阶练习就开始像真正的吉他叙事了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-09T00:07:17Z",
+  "updatedAt": "2026-06-09T00:07:17Z"
+}

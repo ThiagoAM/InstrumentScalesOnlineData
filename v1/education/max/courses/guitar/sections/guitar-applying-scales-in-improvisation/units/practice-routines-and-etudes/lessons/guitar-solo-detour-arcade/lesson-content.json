@@ -1,0 +1,86 @@
+{
+  "id": "guitar-solo-detour-arcade",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Mission briefing\nPick A minor pentatonic in 5th position and a simple backing track. Your goal is to sound like you *meant* every note, even when you take a weird little detour.",
+          "pt-BR": "## Briefing da missão\nEscolha a pentatônica menor de Lá na 5ª posição e um playback simples. Sua meta é soar como se cada nota fosse intencional, mesmo quando você fizer um pequeno desvio estranho.",
+          "es": "## Misión inicial\nElige la pentatónica menor de La en quinta posición y una base sencilla. La meta es sonar como si cada nota fuera intencional, incluso cuando tomes un pequeño desvío raro.",
+          "de": "## Missionsbriefing\nNimm die A-Moll-Pentatonik in der 5. Lage und einen einfachen Backing-Track. Dein Ziel ist, so zu klingen, als hättest du jede Note absichtlich gewählt — selbst bei kleinen Umwegen.",
+          "ja": "## ミッション説明\n5ポジションのAマイナー・ペンタトニックと、シンプルなバッキングを用意します。少し変な寄り道をしても、すべての音が意図的に聞こえることが目標です。",
+          "zh-Hans": "## 任务简报\n选择第5把位的 A 小调五声音阶，再找一条简单伴奏。你的目标是：就算中途故意绕一下路，每个音也要听起来像你本来就这么设计的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Warm-up tokens\nPlay the scale once ascending and descending. On round two, pause for one beat after every two notes so your hands and ears stop running on autopilot.",
+          "pt-BR": "## Fichas de aquecimento\nToque a escala subindo e descendo uma vez. Na segunda rodada, faça uma pausa de um tempo a cada duas notas para que suas mãos e seus ouvidos parem de tocar no piloto automático.",
+          "es": "## Fichas de calentamiento\nToca la escala una vez hacia arriba y hacia abajo. En la segunda vuelta, haz una pausa de un pulso cada dos notas para que tus manos y tus oídos dejen de funcionar en piloto automático.",
+          "de": "## Aufwärm-Tokens\nSpiele die Tonleiter einmal aufwärts und abwärts. In Runde zwei machst du nach jeweils zwei Noten eine Zählzeit Pause, damit Hände und Ohren nicht im Autopilot bleiben.",
+          "ja": "## ウォームアップ・トークン\n音階を上り下りで1回ずつ弾きます。2周目は2音ごとに1拍休み、手と耳がオートパイロットにならないようにします。",
+          "zh-Hans": "## 热身代币\n先把音阶上下各弹一遍。第二轮时每弹两音就停一拍，让双手和耳朵别一直靠自动驾驶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Checkpoint notes\nChoose three landing notes: A, C, and E. Improvise only short 3-note phrases, but every phrase must land on one of those checkpoint notes on beat 1 or 3.",
+          "pt-BR": "## Notas de checkpoint\nEscolha três notas de chegada: A, C e E. Improvise apenas frases curtas de 3 notas, mas cada frase precisa cair em uma dessas notas nos tempos 1 ou 3.",
+          "es": "## Notas de checkpoint\nElige tres notas de llegada: A, C y E. Improvisa solo frases cortas de 3 notas, pero cada frase debe caer en una de esas notas en el pulso 1 o 3.",
+          "de": "## Checkpoint-Töne\nWähle drei Landetöne: A, C und E. Improvisiere nur kurze 3-Noten-Phrasen, aber jede Phrase muss auf Zählzeit 1 oder 3 auf einem dieser Töne landen.",
+          "ja": "## チェックポイント音\n着地音を A、C、E の3つに決めます。3音だけの短いフレーズで即興し、各フレーズは必ず1拍目か3拍目でそのどれかに着地させましょう。",
+          "zh-Hans": "## 检查点音\n先选三个落点音：A、C、E。即兴时只允许做 3 音短句，但每一句都必须在第 1 拍或第 3 拍落到这三个音之一。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Detour cards\nNow give yourself one random rule per chorus: bend one note, use one rest, repeat one rhythm, or jump to a new string set. The rule forces creativity without letting the solo become chaos.",
+          "pt-BR": "## Cartas de desvio\nAgora dê a si mesma uma regra aleatória por refrão: faça um bend, use uma pausa, repita um ritmo ou pule para outro grupo de cordas. A regra força criatividade sem deixar o solo virar bagunça.",
+          "es": "## Cartas de desvío\nAhora ponte una regla aleatoria por vuelta: haz un bend, usa un silencio, repite un ritmo o salta a otro grupo de cuerdas. La regla obliga a ser creativa sin convertir el solo en caos.",
+          "de": "## Umweg-Karten\nGib dir jetzt pro Durchgang eine Zufallsregel: ein Bend, eine Pause, ein wiederholter Rhythmus oder ein Sprung zu einem anderen Saitensatz. So entsteht Kreativität ohne Chaos.",
+          "ja": "## 寄り道カード\n1コーラスごとにランダムなルールを1つ加えます。ベンドを1回、休符を1つ、同じリズムを反復、または別の弦セットへ移動。カオスにならずに創造性を引き出せます。",
+          "zh-Hans": "## 绕路卡牌\n每一遍给自己加一条随机规则：做一次推弦、放一个休止、重复一个节奏，或跳到另一组弦。这样会逼出创意，又不会让独奏失控。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Rescue the messy phrase\nDeliberately play one awkward phrase. Then answer it with a cleaner phrase that fixes the rhythm, targets a strong note, and sounds like the hero version of the same idea.",
+          "pt-BR": "## Resgate da frase bagunçada\nToque de propósito uma frase estranha. Depois responda com uma frase mais limpa, corrigindo o ritmo, mirando uma nota forte e soando como a versão heroica da mesma ideia.",
+          "es": "## Rescata la frase torcida\nToca a propósito una frase incómoda. Luego respóndela con una frase más limpia que arregle el ritmo, apunte a una nota fuerte y suene como la versión heroica de la misma idea.",
+          "de": "## Rette die krumme Phrase\nSpiele absichtlich eine unbeholfene Phrase. Antworte dann mit einer saubereren Phrase, die Rhythmus und Zielton repariert und wie die heldenhafte Version derselben Idee klingt.",
+          "ja": "## ぐちゃっとしたフレーズ救出\nわざと不格好なフレーズを1つ弾きます。そのあと、リズムを直し、強い着地音を狙い、同じアイデアのヒーロー版のように聞こえる返答フレーズを作ります。",
+          "zh-Hans": "## 救回混乱乐句\n故意弹一句别扭的乐句。然后立刻用一句更干净的回应来修正节奏、瞄准强落点，并让它听起来像同一个想法的英雄升级版。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Boss round\nPlay one full chorus with a clear story: simple start, bolder middle, strong ending. Record it, then ask: Did my best phrase come from scale memory or from listening?",
+          "pt-BR": "## Rodada chefão\nToque um refrão inteiro com história clara: começo simples, meio mais ousado e final forte. Grave e pergunte: minha melhor frase veio da memória da escala ou da escuta?",
+          "es": "## Ronda final\nToca un coro completo con una historia clara: inicio simple, mitad más atrevida y final fuerte. Grábalo y pregúntate: ¿mi mejor frase vino de la memoria de la escala o de escuchar?",
+          "de": "## Boss-Runde\nSpiele einen ganzen Chorus mit klarer Geschichte: einfacher Anfang, mutigere Mitte, starkes Ende. Nimm dich auf und frage: Kam meine beste Phrase aus Tonleiter-Gedächtnis oder aus echtem Hören?",
+          "ja": "## ボスラウンド\n1コーラスを物語のある形で弾きましょう。始まりはシンプル、中盤は大胆、終わりは強く。録音して、ベストフレーズはスケールの記憶から来たのか、耳から来たのか確認します。",
+          "zh-Hans": "## Boss 回合\n完整弹一遍有故事线的 solo：开头简单，中段更大胆，结尾有力。录下来，然后问自己：我最好的乐句，是来自背熟指型，还是来自认真聆听？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-14T00:04:59Z",
+  "updatedAt": "2026-07-14T00:04:59Z"
+}

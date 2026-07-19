@@ -1,0 +1,73 @@
+{
+  "id": "black-key-interval-treasure-hunt",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today the black keys are not decoration—they are treasure markers. Pick one black key, for example **F#**, and instantly name its two white-key neighbors: **F** below and **G** above. Then say what intervals those are from F#: a half step down and a half step up. This tiny habit builds a keyboard map that is much stronger than “I kind of know where things are.”",
+          "pt-BR": "Hoje as teclas pretas não são decoração—são marcadores de tesouro. Escolha uma tecla preta, por exemplo **F#**, e diga imediatamente quais são suas duas vizinhas brancas: **F** abaixo e **G** acima. Depois diga quais intervalos elas formam a partir de F#: um semitom abaixo e um semitom acima. Esse hábito minúsculo constrói um mapa do teclado muito mais forte do que “eu meio que sei onde ficam as notas”.",
+          "es": "Hoy las teclas negras no son decoración: son marcadores del tesoro. Elige una tecla negra, por ejemplo **F#**, y nombra al instante sus dos vecinas blancas: **F** abajo y **G** arriba. Luego di qué intervalos son respecto a F#: un semitono abajo y un semitono arriba. Este pequeño hábito construye un mapa del teclado mucho más sólido que “más o menos sé dónde están las cosas”.",
+          "de": "Heute sind die schwarzen Tasten keine Dekoration, sondern Schatzmarkierungen. Wähle eine schwarze Taste, zum Beispiel **F#**, und nenne sofort ihre beiden weißen Nachbarn: **F** darunter und **G** darüber. Sage dann, welche Intervalle das von F# aus sind: ein Halbton nach unten und ein Halbton nach oben. Diese kleine Gewohnheit baut eine deutlich stärkere Tastaturkarte auf als „Ich weiß ungefähr, wo alles liegt“.",
+          "ja": "今日の黒鍵は飾りではなく、宝の目印です。たとえば **F#** を1つ選び、そのすぐ両隣の白鍵をすぐに答えてください。下は **F**、上は **G** です。そして F# から見てそれぞれどんな音程かも言います。下へ半音、上へ半音です。この小さな習慣が、「なんとなく場所は分かる」よりずっと強い鍵盤地図を作ってくれます。",
+          "zh-Hans": "今天的黑键不是装饰，而是藏宝标记。先选一个黑键，比如 **F#**，立刻说出它两边相邻的白键：下面是 **F**，上面是 **G**。然后再说出它们相对 F# 的音程关系：下方半音、上方半音。这个小习惯建立出来的键盘地图，会比“我大概知道在哪儿”扎实得多。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now expand the hunt. From **C#**, find a **major 3rd up**, a **perfect 4th up**, and a **minor 3rd down**. Then try the same game from **Bb** and **Eb**. Do not grab randomly—pause for one second, predict the answer, then play it. Prediction first, fingers second.",
+          "pt-BR": "Agora amplie a caça. A partir de **C#**, encontre uma **3ª maior acima**, uma **4ª justa acima** e uma **3ª menor abaixo**. Depois faça o mesmo jogo partindo de **Bb** e **Eb**. Não chute no teclado—pare por um segundo, preveja a resposta e só então toque. Primeiro a previsão, depois os dedos.",
+          "es": "Ahora amplía la búsqueda. Desde **C#**, encuentra una **3ª mayor arriba**, una **4ª justa arriba** y una **3ª menor abajo**. Luego juega igual desde **Bb** y **Eb**. No pulses al azar: haz una pausa de un segundo, predice la respuesta y luego tócala. Primero la predicción, después los dedos.",
+          "de": "Jetzt wird die Suche größer. Finde von **C#** aus eine **große Terz nach oben**, eine **reine Quarte nach oben** und eine **kleine Terz nach unten**. Dann spiele dasselbe Spiel von **Bb** und **Eb** aus. Greife nicht blind—halte kurz inne, sage die Antwort voraus und spiele erst dann. Erst die Vorstellung, dann die Finger.",
+          "ja": "次に宝探しを広げます。**C#** から **上の長3度**、**上の完全4度**、**下の短3度** を見つけてください。そのあと **Bb** と **Eb** からも同じゲームをします。やみくもに鍵盤を押さず、1秒だけ止まって答えを予想し、そのあとで弾きましょう。先に予測、あとから指です。",
+          "zh-Hans": "接着把寻宝范围扩大。从 **C#** 出发，找到 **上方大三度**、**上方纯四度**、以及 **下方小三度**。然后再从 **Bb** 和 **Eb** 做同样的游戏。不要随手乱按——先停一秒，预测答案，再去弹。先预判，后下手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, work in pairs. Play **two black keys together** and identify the interval they create: C# to D# is a major 2nd, F# to A# is a major 3rd, G# to C# is a perfect 4th. Listen before labeling. Your ears should confirm the theory, not just tolerate it.",
+          "pt-BR": "Em seguida, trabalhe em pares. Toque **duas teclas pretas ao mesmo tempo** e identifique o intervalo formado: C# até D# é uma 2ª maior, F# até A# é uma 3ª maior, G# até C# é uma 4ª justa. Ouça antes de rotular. O ouvido deve confirmar a teoria, e não apenas tolerá-la.",
+          "es": "Después trabaja en parejas. Toca **dos teclas negras a la vez** e identifica el intervalo que forman: C# a D# es una 2ª mayor, F# a A# es una 3ª mayor, G# a C# es una 4ª justa. Escucha antes de etiquetar. El oído debe confirmar la teoría, no solo soportarla.",
+          "de": "Als Nächstes arbeitest du mit Paaren. Spiele **zwei schwarze Tasten gleichzeitig** und bestimme das Intervall: C# nach D# ist eine große Sekunde, F# nach A# eine große Terz, G# nach C# eine reine Quarte. Höre zuerst, bevor du benennst. Das Ohr soll die Theorie bestätigen, nicht nur ertragen.",
+          "ja": "次はペア練習です。**黒鍵を2つ同時に** 鳴らして、その音程を答えます。C# から D# は長2度、F# から A# は長3度、G# から C# は完全4度です。名前を付ける前に、まず音を聞いてください。理論を耳が確認する形にしたいのです。",
+          "zh-Hans": "下一步练双音。**同时弹两个黑键**，并说出它们形成的音程：C# 到 D# 是大二度，F# 到 A# 是大三度，G# 到 C# 是纯四度。先听，再命名。你的耳朵应该是在确认理论，而不是勉强接受理论。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Turn it into rhythm. Set a slow pulse and on every beat choose a black key, then on beat two answer it with the requested interval. Example: beat one C#, beat two E for a major 3rd. Beat one Bb, beat two F for a perfect 5th. This keeps your thinking musical instead of quiz-like.",
+          "pt-BR": "Transforme isso em ritmo. Ajuste uma pulsação lenta e, a cada tempo, escolha uma tecla preta; no segundo tempo, responda com o intervalo pedido. Exemplo: no tempo um C#, no tempo dois E para uma 3ª maior. No tempo um Bb, no tempo dois F para uma 5ª justa. Assim seu pensamento continua musical, em vez de parecer um quiz seco.",
+          "es": "Conviértelo en ritmo. Pon un pulso lento y en cada primer tiempo elige una tecla negra; en el segundo tiempo respóndela con el intervalo pedido. Ejemplo: tiempo uno C#, tiempo dos E para una 3ª mayor. Tiempo uno Bb, tiempo dos F para una 5ª justa. Así tu pensamiento sigue siendo musical y no parece un examen.",
+          "de": "Mach daraus Rhythmus. Stelle einen langsamen Puls ein und wähle auf Schlag eins eine schwarze Taste; auf Schlag zwei antwortest du mit dem verlangten Intervall. Beispiel: Schlag eins C#, Schlag zwei E für eine große Terz. Schlag eins Bb, Schlag zwei F für eine reine Quinte. So bleibt dein Denken musikalisch statt quizartig.",
+          "ja": "ここにリズムを加えましょう。ゆっくりした拍を出し、1拍目で黒鍵を1つ選び、2拍目で指定された音程の答えを弾きます。たとえば1拍目が C# なら、2拍目は長3度上の E。1拍目が Bb なら、2拍目は完全5度上の F。こうすると、頭の中がテストではなく音楽の流れのままでいられます。",
+          "zh-Hans": "然后把它变成节奏练习。设一个慢拍，第一拍选一个黑键，第二拍弹出指定音程的答案。比如第一拍 C#，第二拍 E，表示上方大三度；第一拍 Bb，第二拍 F，表示上方纯五度。这样你的思考仍然是音乐性的，而不是在做纸面测验。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: ask yourself **five rapid-fire questions** such as “What is a minor 3rd above Eb?” or “Which black key is a tritone away from C?” If you hesitate, that is useful data, not failure. Circle the slow answers and repeat them tomorrow. Treasure hunts are won by revisiting the map.",
+          "pt-BR": "Desafio final: faça a si mesmo **cinco perguntas em sequência rápida**, como “Qual é a 3ª menor acima de Eb?” ou “Qual tecla preta fica a distância de trítono de C?”. Se você hesitar, isso é dado útil, não fracasso. Marque as respostas lentas e repita amanhã. Caças ao tesouro se vencem revisitando o mapa.",
+          "es": "Reto final: hazte **cinco preguntas rápidas**, como “¿Cuál es la 3ª menor por encima de Eb?” o “¿Qué tecla negra está a distancia de tritono de C?”. Si dudas, eso es información útil, no un fracaso. Marca las respuestas lentas y repítelas mañana. Las búsquedas del tesoro se ganan volviendo al mapa.",
+          "de": "Abschluss-Challenge: Stelle dir selbst **fünf schnelle Fragen**, zum Beispiel „Was ist eine kleine Terz über Eb?“ oder „Welche schwarze Taste liegt im Tritonus-Abstand von C?“. Wenn du zögerst, ist das nützliche Information und kein Scheitern. Markiere die langsamen Antworten und wiederhole sie morgen. Schatzsuchen gewinnt man, indem man die Karte erneut besucht.",
+          "ja": "最後のチャレンジです。**5つの早押し問題** を自分に出してください。たとえば「Eb の上の短3度は？」や「C から見てトライトーンの位置にある黒鍵は？」などです。迷ったら、それは失敗ではなく貴重なデータです。反応が遅かった答えに印を付け、明日もう一度やりましょう。宝探しは地図を何度も見返す人が勝ちます。",
+          "zh-Hans": "最后挑战：给自己出 **五道快问快答**，比如“Eb 上方的小三度是什么？”或者“离 C 构成三全音关系的黑键是哪一个？”。如果你犹豫了，那不是失败，而是有价值的数据。把反应慢的题圈出来，明天再练一次。寻宝能赢，靠的是不断回到地图上。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-07T00:11:00Z",
+  "updatedAt": "2026-05-07T00:11:00Z"
+}

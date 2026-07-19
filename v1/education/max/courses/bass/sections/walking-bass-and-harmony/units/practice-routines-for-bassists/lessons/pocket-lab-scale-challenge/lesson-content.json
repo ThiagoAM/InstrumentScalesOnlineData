@@ -1,0 +1,86 @@
+{
+  "id": "pocket-lab-scale-challenge",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Bass players get into trouble in a very specific way: the line is theoretically correct, but the groove looks like it missed the bus. This lesson turns scales into **pocket-building tools** instead of note collections.\n\nPick a simple vamp such as **Am7**, **Dm7**, or a two-chord loop like **Am7–Dm7**. Set a metronome or drum loop. Your rule for the whole lesson: if the line stops feeling good, fewer notes win.",
+          "pt-BR": "Baixistas entram em apuros de um jeito bem específico: a linha está teoricamente correta, mas o groove parece que perdeu o ônibus. Esta lição transforma escalas em **ferramentas para construir pocket**, não em simples coleções de notas.\n\nEscolha um vamp simples como **Am7**, **Dm7** ou um loop de dois acordes como **Am7–Dm7**. Use metrônomo ou loop de bateria. Sua regra durante toda a lição é: se a linha parar de soar bem, menos notas vencem.",
+          "es": "Los bajistas se meten en problemas de una manera muy concreta: la línea es teóricamente correcta, pero el groove parece haber perdido el autobús. Esta lección convierte las escalas en **herramientas para construir pocket**, no en simples colecciones de notas.\n\nElige un vamp sencillo como **Am7**, **Dm7** o un loop de dos acordes como **Am7–Dm7**. Usa metrónomo o loop de batería. Tu regla durante toda la lección es: si la línea deja de sentirse bien, menos notas ganan.",
+          "de": "Bassistinnen und Bassisten geraten auf sehr spezielle Weise in Schwierigkeiten: Die Linie ist theoretisch korrekt, aber der Groove sieht aus, als hätte er den Bus verpasst. Diese Lektion macht aus Skalen **Werkzeuge für den Pocket**, nicht bloß Notensammlungen.\n\nWähle einen einfachen Vamp wie **Am7**, **Dm7** oder einen Zwei-Akkord-Loop wie **Am7–Dm7**. Stell ein Metronom oder einen Drum-Loop an. Deine Regel für die ganze Lektion: Wenn sich die Linie nicht mehr gut anfühlt, gewinnen weniger Töne.",
+          "ja": "ベーシストがハマりやすい落とし穴があります。理論的には正しいのに、グルーヴだけがどこか置いていかれている状態です。このレッスンでは、スケールを単なる音の並びではなく、**ポケットを作る道具**として使います。\n\n**Am7**、**Dm7**、または**Am7–Dm7**のような2コードループを選びましょう。メトロノームかドラムループを用意します。このレッスン全体のルールはひとつ。ラインが気持ちよくなくなったら、音数を減らした方が勝ちです。",
+          "zh-Hans": "贝斯手常见的一种问题很特别：理论上没错，但groove像是错过了公交车。这节课要把音阶从“音符仓库”变成**打造pocket的工具**。\n\n选一个简单的和声循环，比如**Am7**、**Dm7**，或者**Am7–Dm7**这样的两个和弦循环。打开节拍器或鼓loop。整节课只有一个规则：如果线条开始不好听，音越少越可能赢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lab 1: make a **one-bar groove** using only:\n- root\n- fifth\n- octave\n- one passing scale note\n\nLoop it until it feels steady enough to ignore and enjoy at the same time. That’s a compliment. Great bass often feels inevitable.",
+          "pt-BR": "Laboratório 1: crie um **groove de um compasso** usando apenas:\n- tônica\n- quinta\n- oitava\n- uma nota de passagem da escala\n\nRepita até soar firme o bastante para você quase esquecer que está analisando. Isso é elogio. Um grande baixo costuma soar inevitável.",
+          "es": "Laboratorio 1: crea un **groove de un compás** usando solo:\n- tónica\n- quinta\n- octava\n- una nota de paso de la escala\n\nRepítelo hasta que se sienta firme, casi como para olvidarte de que lo estás analizando. Eso es un elogio. Un gran bajo suele sentirse inevitable.",
+          "de": "Labor 1: Baue einen **eintaktigen Groove** nur mit:\n- Grundton\n- Quinte\n- Oktave\n- einem Skalen-Durchgangston\n\nWiederhole ihn, bis er so stabil wirkt, dass man ihn gleichzeitig kaum bemerkt und sofort genießt. Das ist ein Kompliment. Großer Bass klingt oft unvermeidlich.",
+          "ja": "ラボ1: 次の材料だけで**1小節のグルーヴ**を作ります。\n- ルート\n- 5度\n- オクターブ\n- スケール内の経過音を1つ\n\n分析することを忘れるくらい自然に感じるまでループしてください。それは褒め言葉です。良いベースは「そうなるしかない」と感じさせます。",
+          "zh-Hans": "实验1：只用下面这些材料，做一个**1小节groove**：\n- 根音\n- 五度\n- 八度\n- 一个音阶经过音\n\n反复循环，直到它稳得让你几乎不用分析也能享受它。这是夸奖。优秀的贝斯常常听起来像“本来就该这样”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lab 2: keep the same groove shape, but move the passing note to a different beat. Try it on beat 2, the “and” of 2, or beat 4. Suddenly the same scale note can feel laid-back, pushy, or sneaky.\n\nThis is the big lesson: on bass, **placement is harmony’s body language**.",
+          "pt-BR": "Laboratório 2: mantenha o mesmo desenho de groove, mas mude a posição da nota de passagem no compasso. Teste no tempo 2, no “e” do 2 ou no tempo 4. De repente, a mesma nota da escala pode soar relaxada, apressando ou malandra.\n\nA grande lição aqui é: no baixo, **a colocação é a linguagem corporal da harmonia**.",
+          "es": "Laboratorio 2: mantén la misma forma del groove, pero mueve la nota de paso a otro lugar del compás. Prueba en el tiempo 2, en el “y” de 2 o en el tiempo 4. De pronto, la misma nota de escala puede sonar relajada, empujando o pícara.\n\nLa gran lección aquí es: en el bajo, **la colocación es el lenguaje corporal de la armonía**.",
+          "de": "Labor 2: Behalte dieselbe Groove-Form, aber verschiebe den Durchgangston auf einen anderen Schlag. Probiere ihn auf Zählzeit 2, auf das „und“ von 2 oder auf 4. Plötzlich kann derselbe Skalenton entspannt, schiebend oder listig wirken.\n\nDie große Lektion lautet: Auf dem Bass ist **Platzierung die Körpersprache der Harmonie**.",
+          "ja": "ラボ2: 同じグルーヴの形を保ったまま、経過音を置く拍だけ変えます。2拍目、2拍目裏、4拍目などを試しましょう。同じスケール音でも、置く場所次第で、ゆったり・前のめり・いたずらっぽく聞こえます。\n\nここで大事なのは、ベースにおいて**位置取りはハーモニーのボディランゲージ**だということです。",
+          "zh-Hans": "实验2：保持同样的groove轮廓，但把经过音放到不同拍位。试试放在第2拍、第2拍后半拍，或者第4拍。突然之间，同样一个音阶音，可以听起来很松、很推、或者很狡猾。\n\n这里的大课题是：在贝斯上，**音放在哪里，就是和声的肢体语言**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lab 3: create a two-bar line where bar 1 is more stable and bar 2 has more motion. For example, bar 1 can lean on root and fifth, while bar 2 walks through scale notes toward the next root.\n\nImagine bar 1 saying, “We’re good,” and bar 2 saying, “Something’s coming.” That contrast is where groove starts telling a story.",
+          "pt-BR": "Laboratório 3: crie uma linha de dois compassos em que o compasso 1 seja mais estável e o compasso 2 tenha mais movimento. Por exemplo, o compasso 1 pode apoiar na tônica e quinta, enquanto o compasso 2 caminha por notas da escala em direção à próxima tônica.\n\nPense no compasso 1 dizendo: “está tudo sob controle”, e no compasso 2 dizendo: “algo vem aí”. Esse contraste é onde o groove começa a contar uma história.",
+          "es": "Laboratorio 3: crea una línea de dos compases donde el compás 1 sea más estable y el compás 2 tenga más movimiento. Por ejemplo, el compás 1 puede apoyarse en tónica y quinta, mientras el compás 2 camina por notas de la escala hacia la siguiente tónica.\n\nImagina que el compás 1 dice: “todo está bien”, y el compás 2 dice: “algo viene”. Ese contraste es donde el groove empieza a contar una historia.",
+          "de": "Labor 3: Erfinde eine zweitaktige Linie, bei der Takt 1 stabiler ist und Takt 2 mehr Bewegung hat. Takt 1 kann sich etwa auf Grundton und Quinte stützen, während Takt 2 mit Skalentönen zum nächsten Grundton führt.\n\nStell dir vor, Takt 1 sagt: „Alles gut“, und Takt 2 sagt: „Da kommt etwas“. Genau in diesem Kontrast beginnt Groove eine Geschichte zu erzählen.",
+          "ja": "ラボ3: 2小節のラインを作り、1小節目は安定、2小節目は動きを多めにします。たとえば1小節目はルートと5度中心、2小節目は次のルートへ向かってスケール音で歩かせます。\n\n1小節目が「大丈夫」と言い、2小節目が「何か来るぞ」と言うイメージです。この対比から、グルーヴは物語を語り始めます。",
+          "zh-Hans": "实验3：做一个2小节bass line，第1小节更稳定，第2小节更多运动。比如第1小节主要依靠根音和五度，第2小节则用音阶音往下一个根音走过去。\n\n想象第1小节在说：“稳住了。” 第2小节在说：“要来了。” 这种对比，就是groove开始讲故事的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lab 4: add a **register jump** once per loop. Leap up to the octave or higher, then return to the lower register without losing time. The challenge is to make the jump feel exciting, not like your hand got surprised.\n\nIf the jump weakens the pocket, simplify the rhythm before changing the notes.",
+          "pt-BR": "Laboratório 4: adicione um **salto de registro** uma vez por loop. Salte para a oitava ou mais alto e volte ao registro grave sem perder o tempo. O desafio é fazer o salto soar empolgante, não como se sua mão tivesse sido pega de surpresa.\n\nSe o salto enfraquecer o pocket, simplifique o ritmo antes de mexer nas notas.",
+          "es": "Laboratorio 4: añade un **salto de registro** una vez por loop. Sube a la octava o más alto y vuelve al registro grave sin perder el pulso. El reto es que el salto se sienta emocionante, no como si tu mano se hubiera sorprendido sola.\n\nSi el salto debilita el pocket, simplifica el ritmo antes de cambiar las notas.",
+          "de": "Labor 4: Füge pro Loop genau **einen Registersprung** hinzu. Spring zur Oktave oder höher und komm dann ohne Zeitverlust zurück in die tiefe Lage. Die Herausforderung ist, dass der Sprung spannend wirkt und nicht so, als wäre deine Hand erschrocken.\n\nWenn der Sprung den Pocket schwächt, vereinfache zuerst den Rhythmus, bevor du die Töne änderst.",
+          "ja": "ラボ4: ループごとに**レジスター跳躍**を1回入れます。オクターブ以上へ飛び、時間を失わずに低音域へ戻ります。大事なのは、その跳躍が面白く聞こえることであって、手が驚いたように聞こえることではありません。\n\nもし跳躍でポケットが弱くなるなら、音を変える前にリズムをシンプルにしましょう。",
+          "zh-Hans": "实验4：每次循环加入**一次音区跳跃**。跳到八度或更高，再回到低音区，但不能丢掉时间感。挑战是让这个跳跃听起来兴奋，而不是像你的手突然被吓到。\n\n如果跳跃削弱了pocket，先把节奏简化，再考虑改音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final lab: build an **8-bar bass etude** from your favorite ideas. It must include:\n- one bar with mostly roots and fifths\n- one bar with a scale walk\n- one register jump\n- one clear setup into the next chord\n- one moment of space\n\nRecord it and ask one question: would a drummer smile and lock in with this? If yes, your scales are starting to behave like real bass lines.",
+          "pt-BR": "Laboratório final: monte um **estudo de 8 compassos para baixo** com suas ideias favoritas. Ele precisa incluir:\n- um compasso com foco em tônica e quinta\n- um compasso com caminhada pela escala\n- um salto de registro\n- uma preparação clara para o próximo acorde\n- um momento de espaço\n\nGrave e faça uma pergunta simples: um baterista sorriria e travaria junto com isso? Se sim, suas escalas estão começando a se comportar como linhas de baixo de verdade.",
+          "es": "Laboratorio final: construye un **estudio de 8 compases para bajo** con tus ideas favoritas. Debe incluir:\n- un compás con foco en tónica y quinta\n- un compás con caminata por la escala\n- un salto de registro\n- una preparación clara hacia el siguiente acorde\n- un momento de espacio\n\nGrábalo y hazte una pregunta simple: ¿un baterista sonreiría y se engancharía con esto? Si la respuesta es sí, tus escalas están empezando a comportarse como líneas de bajo reales.",
+          "de": "Abschlusslabor: Baue eine **8-taktige Bass-Etüde** aus deinen besten Ideen. Sie muss enthalten:\n- einen Takt mit Schwerpunkt auf Grundton und Quinte\n- einen Takt mit Skalenlauf\n- einen Registersprung\n- eine klare Vorbereitung auf den nächsten Akkord\n- einen Moment mit Raum\n\nNimm sie auf und stelle dir eine einfache Frage: Würde ein Drummer lächeln und sich daran festhaken? Wenn ja, benehmen sich deine Skalen langsam wie echte Basslinien.",
+          "ja": "最終ラボ: 気に入った要素を使って、**8小節のベース・エチュード**を作りましょう。必要なのは次の5つです。\n- ルートと5度中心の小節を1つ\n- スケールで歩く小節を1つ\n- レジスター跳躍を1回\n- 次のコードへの明確な導入を1回\n- 空間を感じさせる瞬間を1回\n\n録音して、自分にこう聞いてください。「ドラマーはこれで笑って一緒にハマってくれるか？」 もし答えがイエスなら、あなたのスケールは本物のベースラインらしくなってきています。",
+          "zh-Hans": "最终实验：用你最喜欢的点子，做一个**8小节贝斯练习曲**。它必须包含：\n- 一个以根音和五度为主的小节\n- 一个带音阶行进的小节\n- 一次音区跳跃\n- 一次明确通向下一个和弦的准备\n- 一个留白时刻\n\n录下来，然后问自己一句话：鼓手会不会听了以后笑着锁进去？ 如果会，你的音阶就开始真正像贝斯线了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-18T00:07:52Z",
+  "updatedAt": "2026-04-18T00:07:52Z"
+}

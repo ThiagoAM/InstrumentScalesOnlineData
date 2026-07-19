@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-periscope",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns scale practice into a submarine drill. Choose **G major / E minor** or **D major / B minor** and set **76-92 BPM**. Your job is to send a periscope above the surface at key moments without breaking the flow.",
+          "pt-BR": "Esta lição transforma o estudo de escalas em um treino de submarino. Escolha **Sol maior / Mi menor** ou **Ré maior / Si menor** e ajuste para **76-92 BPM**. Sua tarefa é levantar um periscópio em momentos-chave sem quebrar o fluxo.",
+          "es": "Esta lección convierte la práctica de escalas en un ejercicio de submarino. Elige **Sol mayor / Mi menor** o **Re mayor / Si menor** y pon el tempo en **76-92 BPM**. Tu tarea es sacar un periscopio en momentos clave sin romper el flujo.",
+          "de": "Diese Lektion macht aus Skalenüben ein U-Boot-Training. Wähle **G-Dur / E-Moll** oder **D-Dur / H-Moll** und stelle **76-92 BPM** ein. Deine Aufgabe ist es, an Schlüsselmomenten ein Periskop auftauchen zu lassen, ohne den Fluss zu unterbrechen.",
+          "ja": "このレッスンでは、スケール練習を潜水艦ドリルに変えます。**Gメジャー / Eマイナー** または **Dメジャー / Bマイナー** を選び、テンポは **76-92 BPM**。流れを切らずに、重要地点で潜望鏡を上げるのが任務です。",
+          "zh-Hans": "这节课把音阶练习变成一次潜艇训练。选择 **G 大调 / E 小调** 或 **D 大调 / B 小调**，速度设为 **76-92 BPM**。你的任务是在关键时刻升起潜望镜，同时不打断整条线的流动。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Surface check\nPlay a **two-octave scale** hands together, up and down, with an even dynamic. Every time you reach the **top note**, pause for **one beat** and listen.\n\nDuring the pause, check three things:\n- are both hands aligned?\n- did the thumbs stay relaxed?\n- is the tone still even?",
+          "pt-BR": "### Checagem de superfície\nToque uma **escala de duas oitavas** com as duas mãos juntas, subindo e descendo, com dinâmica uniforme. Toda vez que chegar à **nota do topo**, pare por **um tempo** e escute.\n\nDurante a pausa, verifique três coisas:\n- as duas mãos estão alinhadas?\n- os polegares continuam relaxados?\n- o timbre segue uniforme?",
+          "es": "### Revisión de superficie\nToca una **escala de dos octavas** con ambas manos juntas, subiendo y bajando, con dinámica pareja. Cada vez que llegues a la **nota más alta**, haz una pausa de **un tiempo** y escucha.\n\nDurante la pausa, revisa tres cosas:\n- ¿están alineadas ambas manos?\n- ¿siguen relajados los pulgares?\n- ¿el sonido se mantiene parejo?",
+          "de": "### Oberflächencheck\nSpiele eine **Zwei-Oktaven-Skala** mit beiden Händen zusammen, aufwärts und abwärts, mit gleichmäßiger Dynamik. Jedes Mal, wenn du den **höchsten Ton** erreichst, machst du **einen Schlag** Pause und hörst zu.\n\nPrüfe in der Pause drei Dinge:\n- sind beide Hände ausgerichtet?\n- bleiben die Daumen locker?\n- bleibt der Klang gleichmäßig?",
+          "ja": "### 水面チェック\n両手同時で **2オクターブのスケール** を上り下りし、ダイナミクスは均一に保ちます。**最高音** に着いたら毎回 **1拍** 休んで耳を澄ませましょう。\n\n休んでいる間に次の3点を確認します。\n- 両手はそろっているか\n- 親指は力まずに動けているか\n- 音色は均一なままか",
+          "zh-Hans": "### 水面检查\n双手一起弹一条 **两八度音阶**，上行再下行，力度保持均匀。每次到达 **最高音** 时，暂停 **一拍**，认真听一听。\n\n暂停时检查三件事：\n- 双手是否对齐？\n- 拇指是否依然放松？\n- 音色是否仍然均匀？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Periscope pops\nNow the periscope appears in the middle of the route. On the way up, pause for one beat on scale degrees **3** and **6**. On the way down, pause on **5** and **2**.\n\nDo **four clean reps**. The restart after each pause must feel calm, not jerky.",
+          "pt-BR": "### Aparições do periscópio\nAgora o periscópio aparece no meio do trajeto. Na subida, faça uma pausa de um tempo nos graus **3** e **6** da escala. Na descida, pause nos graus **5** e **2**.\n\nFaça **quatro repetições limpas**. A retomada depois de cada pausa precisa soar calma, não travada.",
+          "es": "### Apariciones del periscopio\nAhora el periscopio aparece a mitad del recorrido. Al subir, haz una pausa de un tiempo en los grados **3** y **6** de la escala. Al bajar, pausa en **5** y **2**.\n\nHaz **cuatro repeticiones limpias**. La reanudación después de cada pausa debe sentirse calmada, no torpe.",
+          "de": "### Periskop-Momente\nJetzt taucht das Periskop mitten auf der Strecke auf. Auf dem Weg nach oben pausierst du je einen Schlag auf den Skalenstufen **3** und **6**. Auf dem Weg nach unten pausierst du auf **5** und **2**.\n\nSpiele **vier saubere Wiederholungen**. Der Neustart nach jeder Pause soll ruhig wirken, nicht ruckartig.",
+          "ja": "### 潜望鏡ポップ\n今度は途中でも潜望鏡を上げます。上行ではスケールの **3度** と **6度**、下行では **5度** と **2度** でそれぞれ **1拍** 休みます。\n\n**4回きれいに反復** してください。休符の後の再スタートは、ぎこちなくなく、落ち着いていなければなりません。",
+          "zh-Hans": "### 潜望镜弹出点\n现在潜望镜要在中途出现。上行时，在音阶 **第3级** 和 **第6级** 各停 **一拍**；下行时，在 **第5级** 和 **第2级** 各停一拍。\n\n做 **4 次干净重复**。每次暂停后的重新出发都要平稳，不能顿挫。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Sightline changes\nKeep the same pause points, but give each stop a job:\n- one stop is **mezzo-forte**,\n- one stop is **piano**,\n- one stop is **staccato**,\n- and one stop is **legato**.\n\nThe moving notes between stops should stay smooth, like the submarine never lost direction.",
+          "pt-BR": "### Mudanças de visão\nMantenha os mesmos pontos de pausa, mas dê uma função para cada parada:\n- uma parada em **mezzo-forte**,\n- uma parada em **piano**,\n- uma parada em **staccato**,\n- e uma parada em **legato**.\n\nAs notas em movimento entre as paradas devem continuar suaves, como se o submarino nunca perdesse a direção.",
+          "es": "### Cambios de visión\nMantén los mismos puntos de pausa, pero dale una función a cada parada:\n- una parada en **mezzo-forte**,\n- una parada en **piano**,\n- una parada en **staccato**,\n- y una parada en **legato**.\n\nLas notas en movimiento entre paradas deben seguir suaves, como si el submarino nunca perdiera el rumbo.",
+          "de": "### Sichtlinien wechseln\nBehalte dieselben Pausenpunkte, aber gib jedem Stopp eine Aufgabe:\n- ein Stopp in **mezzo-forte**,\n- ein Stopp in **piano**,\n- ein Stopp in **staccato**,\n- und ein Stopp in **legato**.\n\nDie laufenden Töne zwischen den Stopps sollen geschmeidig bleiben, als hätte das U-Boot nie die Richtung verloren.",
+          "ja": "### 視界の切り替え\n同じ休止地点を使いながら、各停止点に役割を与えます。\n- 1つは **mezzo-forte**\n- 1つは **piano**\n- 1つは **staccato**\n- そして1つは **legato**\n\n停止点の間を動く音は、潜水艦が進路を失っていないように、なめらかに保ってください。",
+          "zh-Hans": "### 视线变化\n保持同样的暂停点，但给每个停靠点分配一个任务：\n- 一个停点用 **mezzo-forte**\n- 一个停点用 **piano**\n- 一个停点用 **staccato**\n- 一个停点用 **legato**\n\n停点之间的流动音符要继续平滑，就像潜艇从未失去方向。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Captain round\nBuild a **4-pass routine**:\n1. even tone only,\n2. pause points only,\n3. pause points with dynamic changes,\n4. pause points with dynamic **and** articulation changes.\n\nIf pass 4 falls apart, go back to pass 2 and rebuild the route.",
+          "pt-BR": "### Rodada do capitão\nMonte uma **rotina de 4 voltas**:\n1. só timbre uniforme,\n2. só pontos de pausa,\n3. pontos de pausa com mudanças de dinâmica,\n4. pontos de pausa com mudanças de dinâmica **e** articulação.\n\nSe a volta 4 desmoronar, volte para a volta 2 e reconstrua a rota.",
+          "es": "### Ronda del capitán\nConstruye una **rutina de 4 pasadas**:\n1. solo sonido parejo,\n2. solo puntos de pausa,\n3. puntos de pausa con cambios de dinámica,\n4. puntos de pausa con cambios de dinámica **y** articulación.\n\nSi la pasada 4 se desarma, vuelve a la pasada 2 y reconstruye la ruta.",
+          "de": "### Kapitänsrunde\nBaue eine **4-Durchgangs-Routine**:\n1. nur gleichmäßiger Klang,\n2. nur Pausenpunkte,\n3. Pausenpunkte mit Dynamikwechseln,\n4. Pausenpunkte mit Dynamik- **und** Artikulationswechseln.\n\nWenn Durchgang 4 auseinanderfällt, geh zu Durchgang 2 zurück und baue die Route neu auf.",
+          "ja": "### 艦長ラウンド\n次の **4周ルーティン** を組みましょう。\n1. 均一な音色だけ\n2. 休止地点だけ\n3. 休止地点＋ダイナミクス変化\n4. 休止地点＋ダイナミクス変化 **と** アーティキュレーション変化\n\n4周目で崩れたら、2周目に戻って航路を立て直します。",
+          "zh-Hans": "### 舰长回合\n建立一个 **4 轮流程**：\n1. 只顾均匀音色\n2. 只顾暂停点\n3. 暂停点加力度变化\n4. 暂停点加力度变化 **以及** 连断奏变化\n\n如果第 4 轮散掉了，就回到第 2 轮重新建立路线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Debrief below deck\nAsk yourself:\n- Which pause point exposed the most tension?\n- Did the restarts stay in tempo?\n- Could I change touch without changing posture?\n\nFinal upgrade: move the whole periscope drill to the other key choice and keep the same control. 🎹",
+          "pt-BR": "### Debrief no convés inferior\nPergunte a si mesmo:\n- Qual ponto de pausa revelou mais tensão?\n- As retomadas continuaram no tempo?\n- Consegui mudar o toque sem mudar a postura?\n\nUpgrade final: leve o exercício inteiro de periscópio para a outra opção de tonalidade e mantenha o mesmo controle. 🎹",
+          "es": "### Informe bajo cubierta\nPregúntate:\n- ¿Qué punto de pausa reveló más tensión?\n- ¿Las reanudaciones siguieron en tempo?\n- ¿Pude cambiar el toque sin cambiar la postura?\n\nMejora final: lleva todo el ejercicio del periscopio a la otra opción de tonalidad y mantén el mismo control. 🎹",
+          "de": "### Nachbesprechung unter Deck\nFrag dich:\n- Welcher Pausenpunkt hat die meiste Spannung aufgedeckt?\n- Blieben die Neustarts im Tempo?\n- Konnte ich den Anschlag ändern, ohne die Haltung zu verändern?\n\nFinales Upgrade: Verlege die ganze Periskop-Übung in die andere Tonart-Option und halte dieselbe Kontrolle. 🎹",
+          "ja": "### 艦内デブリーフ\n自分に問いかけましょう。\n- どの停止点が最も緊張をあぶり出したか？\n- 再スタートはテンポ内に収まっていたか？\n- 姿勢を崩さずにタッチを変えられたか？\n\n最後の強化版：もう一方の調でも同じ潜望鏡ドリルを行い、同じコントロールを保ちましょう。 🎹",
+          "zh-Hans": "### 舱内复盘\n问问自己：\n- 哪个暂停点暴露出了最多紧张？\n- 重新开始时还在拍子里吗？\n- 我能在不改变姿势的前提下改变触键吗？\n\n最终升级：把整套潜望镜练习搬到另一个调性选择上，并保持同样的控制力。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-23T00:10:57Z",
+  "updatedAt": "2026-06-23T00:10:57Z"
+}

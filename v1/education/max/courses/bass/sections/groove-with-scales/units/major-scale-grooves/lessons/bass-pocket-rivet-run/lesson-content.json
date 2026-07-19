@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-rivet-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose G major and build a two-bar groove at a medium tempo. Imagine each strong beat is a steel beam and every note you place is a rivet. If one rivet is loose, the whole groove wobbles.",
+          "pt-BR": "Escolha Sol maior e monte um groove de dois compassos em andamento médio. Imagine que cada tempo forte é uma viga de aço e cada nota colocada é um rebite. Se um rebite ficar frouxo, o groove inteiro balança.",
+          "es": "Elige Sol mayor y construye un groove de dos compases a tempo medio. Imagina que cada pulso fuerte es una viga de acero y cada nota que colocas es un remache. Si un remache queda flojo, todo el groove se tambalea.",
+          "de": "Wähle G-Dur und baue einen Groove über zwei Takte in mittlerem Tempo. Stell dir vor, jeder starke Schlag ist ein Stahlträger und jeder gesetzte Ton eine Niete. Wenn eine Niete locker sitzt, wackelt der ganze Groove.",
+          "ja": "Gメジャーを選び、中くらいのテンポで2小節のグルーヴを作ります。強拍は鋼鉄の梁、置く音はリベットだと想像してください。1つでもゆるいリベットがあると、グルーヴ全体がぐらつきます。",
+          "zh-Hans": "选 G 大调，用中速做一条两小节 groove。想象每个强拍都是一根钢梁，而你放下的每个音都是一颗铆钉。只要有一颗铆钉松了，整条 groove 就会开始摇晃。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 uses only roots, 5ths, and one ghost note. Your job is to make bar 1 feel undeniable before you decorate anything. Repeat it until the pulse feels heavy enough that you could rap over it.",
+          "pt-BR": "A rodada 1 usa apenas tônicas, quintas e uma ghost note. Seu trabalho é fazer o compasso 1 soar incontestável antes de enfeitar qualquer coisa. Repita até o pulso ficar pesado o bastante para alguém rimar por cima.",
+          "es": "La ronda 1 usa solo tónicas, quintas y una ghost note. Tu trabajo es hacer que el compás 1 sea incuestionable antes de decorar nada. Repítelo hasta que el pulso tenga suficiente peso como para que alguien pueda rapear encima.",
+          "de": "Runde 1 nutzt nur Grundtöne, Quinten und eine Ghost Note. Deine Aufgabe ist, Takt 1 unbestreitbar stark zu machen, bevor du irgendetwas verzierst. Wiederhole ihn, bis der Puls so schwer wirkt, dass man darüber rappen könnte.",
+          "ja": "ラウンド1ではルート、5度、そして1つのゴーストノートだけを使います。まずは飾りを加える前に、1小節目を文句なしに強くすることが仕事です。誰かがその上でラップできるくらい、脈が重くなるまで繰り返しましょう。",
+          "zh-Hans": "第 1 轮只用根音、五度和一个幽灵音。你的任务是在任何装饰出现之前，先让第 1 小节变得无可争议地稳。重复到那个脉冲沉得足够重，重到上面都能直接开始说唱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 adds scale connectors. Between two strong notes, you may use one or two passing tones from G major, but they must point somewhere. No wandering fills. Every connector has to push the listener back toward the next landing.",
+          "pt-BR": "A rodada 2 acrescenta conectores de escala. Entre duas notas fortes, você pode usar uma ou duas notas de passagem de Sol maior, mas elas precisam apontar para algum lugar. Nada de fill perdido. Cada conector precisa empurrar o ouvido de volta para a próxima chegada.",
+          "es": "La ronda 2 añade conectores de escala. Entre dos notas fuertes puedes usar una o dos notas de paso de Sol mayor, pero deben apuntar a algún sitio. Nada de rellenos que vagan. Cada conector tiene que empujar el oído de vuelta al siguiente aterrizaje.",
+          "de": "Runde 2 fügt Skalen-Verbindungen hinzu. Zwischen zwei starken Tönen darfst du ein oder zwei Durchgangstöne aus G-Dur spielen, aber sie müssen auf ein Ziel zeigen. Keine herumirrenden Fills. Jede Verbindung soll das Ohr zum nächsten Landepunkt schieben.",
+          "ja": "ラウンド2では音階のつなぎを追加します。2つの強い音の間に、Gメジャーの経過音を1つか2つだけ使えますが、必ず行き先を持たせてください。さまようフィルは禁止です。すべてのつなぎ音が次の着地点へ耳を押し戻す必要があります。",
+          "zh-Hans": "第 2 轮加入音阶连接音。在两个强音之间，你可以使用 G 大调里的一个或两个经过音，但它们必须有明确去向。不要游荡的 fill。每个连接音都得把听感推回下一个落点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 tests your pocket under pressure. Keep the same line, but move one accent to an offbeat and add one rest where you normally play. If the groove weakens, simplify the note choice before you blame the rhythm.",
+          "pt-BR": "A rodada 3 testa seu pocket sob pressão. Mantenha a mesma linha, mas mova um acento para um contratempo e adicione uma pausa onde você normalmente tocaria. Se o groove enfraquecer, simplifique as notas antes de culpar o ritmo.",
+          "es": "La ronda 3 pone tu pocket bajo presión. Mantén la misma línea, pero mueve un acento a un contratiempo y añade un silencio donde normalmente tocarías. Si el groove se debilita, simplifica la elección de notas antes de culpar al ritmo.",
+          "de": "Runde 3 testet dein Pocket unter Druck. Behalte dieselbe Linie, verschiebe aber einen Akzent auf einen Offbeat und füge dort eine Pause ein, wo du sonst spielen würdest. Wenn der Groove schwächer wird, vereinfache zuerst die Tonwahl und gib nicht sofort dem Rhythmus die Schuld.",
+          "ja": "ラウンド3ではプレッシャーの中でポケットを試します。同じラインを保ちつつ、1つのアクセントをオフビートへ移し、普段弾く場所に1つ休符を入れます。もしグルーヴが弱くなったら、まずリズムのせいにする前に音の選び方を簡単にしましょう。",
+          "zh-Hans": "第 3 轮在压力下测试你的 pocket。保持同一条线，但把一个重音移到反拍，并在你平时会弹的位置加一个休止。如果 groove 变弱了，先简化选音，再去怀疑节奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: create three versions of the groove. Version A is dry and minimal, version B uses more ghost notes, and version C climbs into a higher register once per cycle. Record all three and decide which version keeps the biggest low-end authority.",
+          "pt-BR": "Desafio final: crie três versões do groove. A versão A é seca e mínima, a B usa mais ghost notes, e a C sobe para um registro mais agudo uma vez por ciclo. Grave as três e decida qual mantém a maior autoridade nos graves.",
+          "es": "Desafío final: crea tres versiones del groove. La versión A es seca y mínima, la B usa más ghost notes y la C sube al registro agudo una vez por ciclo. Graba las tres y decide cuál conserva la mayor autoridad en el grave.",
+          "de": "Abschluss-Challenge: Erstelle drei Versionen des Grooves. Version A ist trocken und minimal, Version B nutzt mehr Ghost Notes, und Version C steigt einmal pro Runde in eine höhere Lage. Nimm alle drei auf und entscheide, welche Version die größte Tiefton-Autorität behält.",
+          "ja": "最後のチャレンジは3つのバージョン作りです。Aは乾いた最小構成、Bはゴーストノート多め、Cは1サイクルに1回だけ高い音域へ上がります。3つとも録音して、どのバージョンが最も低音の権威を保てるかを決めましょう。",
+          "zh-Hans": "最终挑战：做出这条 groove 的三个版本。A 版干燥而极简，B 版加入更多幽灵音，C 版每轮上到高音区一次。把三个版本都录下来，判断哪一个最能保持低频权威感。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-15T00:07:03Z",
+  "updatedAt": "2026-07-15T00:07:03Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-mirror-riffs",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Welcome to the mirror game\nToday you will play a short scale riff, then answer it with a slightly changed version. The trick is to keep the **same rhythmic skeleton** while changing just enough notes to make the reply feel clever instead of random.",
+          "pt-BR": "# Bem-vindo ao jogo do espelho\nHoje você vai tocar um riff curto de escala e depois responder com uma versão levemente modificada. O truque é manter o **mesmo esqueleto rítmico** enquanto muda notas suficientes para a resposta soar esperta, e não aleatória.",
+          "es": "# Bienvenido al juego del espejo\nHoy tocarás un riff corto de escala y luego responderás con una versión ligeramente modificada. El truco es mantener el **mismo esqueleto rítmico** mientras cambias las notas justas para que la respuesta parezca ingeniosa y no aleatoria.",
+          "de": "# Willkommen beim Spiegelspiel\nHeute spielst du ein kurzes Skalenriff und antwortest dann mit einer leicht veränderten Version. Der Trick ist, das **gleiche rhythmische Gerüst** zu behalten und nur genug Töne zu ändern, damit die Antwort klug statt zufällig wirkt.",
+          "ja": "# ミラーゲームへようこそ\n今日は短いスケールリフを弾き、そのあと少し変えた返答フレーズを作ります。ポイントは、**同じリズムの骨組み**を保ちながら、ランダムではなく気の利いた返事に聞こえる程度だけ音を変えることです。",
+          "zh-Hans": "# 欢迎来到镜像游戏\n今天你要先弹一个短小的音阶 riff，再用一个稍微变化过的版本来回应它。关键是保留**同样的节奏骨架**，同时只改动足够的音，让回应听起来机灵而不是随便。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Build the first riff\nUse **A minor pentatonic** in 5th position. Create a tiny 1-bar phrase using only **3 to 5 notes**. Make it simple enough that you could hum it after one listen.\n\nExample idea:\n- start on **A**\n- jump to **C** or **D**\n- finish with a small pause",
+          "pt-BR": "# Monte o primeiro riff\nUse a **pentatônica de Lá menor** na 5ª posição. Crie uma frase minúscula de 1 compasso usando só **3 a 5 notas**. Ela deve ser simples a ponto de você conseguir cantarolar depois de ouvir uma vez.\n\nIdeia de exemplo:\n- comece em **A**\n- pule para **C** ou **D**\n- termine com uma pequena pausa",
+          "es": "# Construye el primer riff\nUsa la **pentatónica menor de La** en 5ª posición. Crea una frase de 1 compás usando solo **3 a 5 notas**. Debe ser tan simple que puedas tararearla después de escucharla una vez.\n\nIdea de ejemplo:\n- empieza en **A**\n- salta a **C** o **D**\n- termina con una pequeña pausa",
+          "de": "# Baue das erste Riff\nBenutze die **A-Moll-Pentatonik** in der 5. Lage. Erstelle eine winzige Phrase von 1 Takt mit nur **3 bis 5 Tönen**. Sie sollte so einfach sein, dass du sie nach einmaligem Hören summen könntest.\n\nBeispielidee:\n- beginne auf **A**\n- springe zu **C** oder **D**\n- ende mit einer kleinen Pause",
+          "ja": "# 最初のリフを作ろう\n**Aマイナー・ペンタトニック**の5ポジションを使います。**3〜5音**だけで1小節の短いフレーズを作ってください。一度聞いたら口ずさめるくらいシンプルなのが理想です。\n\n例:\n- **A**から始める\n- **C**または**D**へ跳ぶ\n- 小さな休みで終える",
+          "zh-Hans": "# 搭建第一个 riff\n使用 **A 小调五声音阶**的第 5 把位。只用 **3 到 5 个音**写一个 1 小节的小乐句。它应该简单到你听一遍就能哼出来。\n\n示例思路：\n- 从 **A** 开始\n- 跳到 **C** 或 **D**\n- 用一个小停顿收尾"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mirror it, don't clone it\nNow play a second 1-bar phrase with the **same rhythm**, but change one or two notes. Think of it like a movie scene where the second character repeats the line with a different attitude.\n\nYour mission:\n- keep the rhythm nearly identical\n- change the last note or direction\n- leave a tiny rest so the answer breathes",
+          "pt-BR": "# Espelhe, não copie\nAgora toque uma segunda frase de 1 compasso com o **mesmo ritmo**, mas mude uma ou duas notas. Pense nisso como uma cena de filme em que o segundo personagem repete a fala com outra atitude.\n\nSua missão:\n- mantenha o ritmo quase idêntico\n- mude a última nota ou a direção\n- deixe uma pausa curta para a resposta respirar",
+          "es": "# Refleja, no copies\nAhora toca una segunda frase de 1 compás con el **mismo ritmo**, pero cambia una o dos notas. Imagínalo como una escena de película donde el segundo personaje repite la línea con otra actitud.\n\nTu misión:\n- mantén el ritmo casi idéntico\n- cambia la última nota o la dirección\n- deja un pequeño silencio para que la respuesta respire",
+          "de": "# Spiegeln, nicht kopieren\nSpiele jetzt eine zweite 1-Takt-Phrase mit **demselben Rhythmus**, aber ändere ein oder zwei Töne. Stell dir eine Filmszene vor, in der die zweite Figur den Satz mit anderer Haltung wiederholt.\n\nDeine Aufgabe:\n- halte den Rhythmus fast identisch\n- ändere den letzten Ton oder die Richtung\n- lass eine kleine Pause, damit die Antwort atmen kann",
+          "ja": "# まねではなく鏡写しに\n次は**同じリズム**で1小節の返答フレーズを弾きますが、1〜2音だけ変えます。映画で、二人目の登場人物が同じセリフを別の態度で返す場面を想像してください。\n\nミッション:\n- リズムはほぼ同じままにする\n- 最後の音か進行方向を変える\n- 返答が呼吸できるように少し休符を入れる",
+          "zh-Hans": "# 镜像，不要复制\n现在再弹一个 1 小节乐句，保持**同样的节奏**，但改掉 1 到 2 个音。把它想成电影里的一个场景：第二个角色重复同一句话，但态度不同。\n\n你的任务：\n- 节奏几乎保持一致\n- 改变最后一个音或走向\n- 留一个小休止，让回应有呼吸感"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add the challenge layer\nPlay four rounds:\n1. original + mirror\n2. original + mirror louder\n3. original + mirror softer\n4. original + mirror with one slide or bend\n\nIf the groove stays steady while the details change, your phrasing is getting stronger.",
+          "pt-BR": "# Adicione a camada de desafio\nToque quatro rodadas:\n1. original + espelho\n2. original + espelho mais forte\n3. original + espelho mais suave\n4. original + espelho com um slide ou bend\n\nSe o groove continuar firme enquanto os detalhes mudam, seu fraseado está ficando mais forte.",
+          "es": "# Añade la capa de desafío\nToca cuatro rondas:\n1. original + espejo\n2. original + espejo más fuerte\n3. original + espejo más suave\n4. original + espejo con un slide o bend\n\nSi el groove sigue firme mientras cambian los detalles, tu fraseo se está fortaleciendo.",
+          "de": "# Die Herausforderung erhöhen\nSpiele vier Runden:\n1. Original + Spiegel\n2. Original + Spiegel lauter\n3. Original + Spiegel leiser\n4. Original + Spiegel mit einem Slide oder Bend\n\nWenn der Groove stabil bleibt, während sich die Details ändern, wird dein Phrasing stärker.",
+          "ja": "# 難易度アップ\n次の4ラウンドを弾きましょう:\n1. オリジナル + ミラー\n2. オリジナル + ミラーを強く\n3. オリジナル + ミラーをやわらかく\n4. オリジナル + ミラーにスライドかチョーキングを1つ加える\n\n細部が変わってもグルーヴが安定していれば、フレージングは確実に強くなっています。",
+          "zh-Hans": "# 加上挑战层\n完成四轮：\n1. 原句 + 镜像\n2. 原句 + 更强的镜像\n3. 原句 + 更柔和的镜像\n4. 原句 + 带一个滑音或推弦的镜像\n\n如果细节在变而 groove 依然稳，你的乐句能力就在变强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Boss-level ending\nCreate a 4-bar mini solo from two mirrored riff pairs. Try to make bars 1 and 3 sound like the \"question\" and bars 2 and 4 sound like the \"smarter comeback.\"\n\nIf someone listening can tell there is a conversation happening, you won the game.",
+          "pt-BR": "# Final de chefão\nCrie um mini solo de 4 compassos com dois pares de riffs espelhados. Tente fazer os compassos 1 e 3 soarem como a \"pergunta\" e os compassos 2 e 4 como a \"resposta mais esperta\".\n\nSe quem estiver ouvindo perceber que existe uma conversa acontecendo, você venceu o jogo.",
+          "es": "# Final de jefe\nCrea un mini solo de 4 compases con dos pares de riffs espejados. Intenta que los compases 1 y 3 suenen como la \"pregunta\" y los compases 2 y 4 como la \"respuesta más lista\".\n\nSi quien escucha puede notar que hay una conversación, ganaste el juego.",
+          "de": "# Boss-Level-Finale\nBaue ein 4-taktiges Mini-Solo aus zwei gespiegelten Riff-Paaren. Versuche, Takt 1 und 3 wie die „Frage“ und Takt 2 und 4 wie die „schlauere Antwort“ klingen zu lassen.\n\nWenn Zuhörer merken, dass da ein Gespräch stattfindet, hast du das Spiel gewonnen.",
+          "ja": "# ボス級エンディング\n2組のミラーリフで4小節のミニソロを作ってください。1小節目と3小節目を「問い」、2小節目と4小節目を「もっと気の利いた返し」に聞こえるようにしてみましょう。\n\n聴いている人が会話を感じ取れたら、あなたの勝ちです。",
+          "zh-Hans": "# Boss 级结尾\n用两组镜像 riff 组成一个 4 小节迷你 solo。试着让第 1 和第 3 小节像“提问”，让第 2 和第 4 小节像“更聪明的回嘴”。\n\n如果听的人能感觉到一段对话正在发生，你就赢了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-17T00:05:32Z",
+  "updatedAt": "2026-04-17T00:05:32Z"
+}

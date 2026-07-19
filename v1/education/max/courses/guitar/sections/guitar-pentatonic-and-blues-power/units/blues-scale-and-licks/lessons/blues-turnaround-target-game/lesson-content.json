@@ -1,0 +1,73 @@
+{
+  "id": "blues-turnaround-target-game",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a slow shuffle or metronome to **76-88 BPM** and stay in **A minor blues**. Your map is simple: over bar 9 aim for **D**, over bar 10 aim for **Eb or E**, and over bar 12 land hard on **A**. Think of each target as a checkpoint in a blues video game.",
+          "pt-BR": "Coloque um shuffle lento ou metrônomo em **76-88 BPM** e fique em **blues em Lá menor**. Seu mapa é simples: no compasso 9 mire em **D**, no compasso 10 mire em **Eb ou E**, e no compasso 12 pouse com firmeza em **A**. Pense em cada alvo como um checkpoint de um videogame de blues.",
+          "es": "Pon un shuffle lento o metrónomo a **76-88 BPM** y quédate en **blues menor en La**. Tu mapa es simple: en el compás 9 apunta a **D**, en el compás 10 apunta a **Eb o E**, y en el compás 12 aterriza con fuerza en **A**. Piensa en cada objetivo como un checkpoint de un videojuego de blues.",
+          "de": "Stell einen langsamen Shuffle oder ein Metronom auf **76-88 BPM** und bleib in **A-Moll-Blues**. Deine Karte ist einfach: in Takt 9 zielst du auf **D**, in Takt 10 auf **Eb oder E**, und in Takt 12 landest du klar auf **A**. Denk an jedes Ziel wie an einen Checkpoint in einem Blues-Videospiel.",
+          "ja": "ゆっくりしたシャッフルかメトロノームを **76-88 BPM** に設定し、**Aマイナー・ブルース** にとどまります。地図はシンプルです。9小節目では **D**、10小節目では **Eb または E**、12小節目ではしっかり **A** に着地します。各ターゲットをブルースのゲームのチェックポイントだと思ってください。",
+          "zh-Hans": "把慢速 shuffle 或节拍器设在 **76-88 BPM**，并保持在 **A 小调布鲁斯**。你的地图很简单：第9小节瞄准 **D**，第10小节瞄准 **Eb 或 E**，第12小节要稳稳落在 **A**。把每个目标都想成布鲁斯闯关游戏里的检查点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First, play one chorus using only **quarter notes and eighth notes** inside the A blues box. Every phrase must end on one of the target notes above. If you miss the target, do not stop—loop again and fix it on the next chorus.",
+          "pt-BR": "Primeiro, toque um chorus usando apenas **semínimas e colcheias** dentro do box de blues em Lá. Toda frase precisa terminar em uma das notas-alvo acima. Se você errar o alvo, não pare—dê outra volta e corrija no próximo chorus.",
+          "es": "Primero, toca un chorus usando solo **negras y corcheas** dentro de la caja de blues en La. Cada frase debe terminar en una de las notas objetivo de arriba. Si fallas el objetivo, no te detengas: da otra vuelta y corrígelo en el siguiente chorus.",
+          "de": "Spiele zuerst einen Chorus nur mit **Viertel- und Achtelnoten** in der A-Blues-Box. Jede Phrase muss auf einem der Zieltöne oben enden. Wenn du das Ziel verfehlst, stopp nicht—spiel den nächsten Chorus und korrigiere es dort.",
+          "ja": "まずはAブルース・ボックスの中で **4分音符と8分音符だけ** を使って1コーラス弾きます。すべてのフレーズは上のターゲット音のどれかで終わらせます。外しても止まらず、次のコーラスで修正しましょう。",
+          "zh-Hans": "先在 A 布鲁斯盒型里只用 **四分音符和八分音符** 弹一个 chorus。每个乐句都必须结束在上面的目标音之一。如果没打中目标，不要停，直接再来一遍并在下一轮修正。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a **turnaround rule**: in bars 11-12, you must use one slide, one rest, and one note repeated twice. This keeps the line musical instead of sounding like random scale homework.",
+          "pt-BR": "Agora adicione uma **regra de turnaround**: nos compassos 11-12, você precisa usar um slide, uma pausa e uma nota repetida duas vezes. Isso mantém a linha musical em vez de soar como lição aleatória de escala.",
+          "es": "Ahora añade una **regla de turnaround**: en los compases 11-12 debes usar un slide, un silencio y una nota repetida dos veces. Esto mantiene la línea musical en lugar de sonar como tarea aleatoria de escala.",
+          "de": "Füge jetzt eine **Turnaround-Regel** hinzu: In Takt 11-12 musst du einen Slide, eine Pause und einen doppelt gespielten Ton verwenden. So klingt die Linie musikalisch statt wie zufällige Skalen-Hausaufgaben.",
+          "ja": "次に **ターンアラウンドのルール** を追加します。11-12小節では、スライドを1回、休符を1つ、同じ音の2回繰り返しを1回入れてください。これでランダムなスケール練習ではなく、音楽として聞こえます。",
+          "zh-Hans": "现在加入一个 **终止式规则**：在第11-12小节里，你必须用到一次滑音、一次休止和一个重复两次的音。这样线条会更像音乐，而不是随便做音阶作业。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: create **three different endings** for bar 12. One should sound calm, one should sound tense, and one should sound like a punchline. Record them, then choose which ending makes you want to start the next chorus immediately.",
+          "pt-BR": "Rodada de desafio: crie **três finais diferentes** para o compasso 12. Um deve soar calmo, outro tenso e outro como uma punchline. Grave e escolha qual final dá mais vontade de começar o próximo chorus na hora.",
+          "es": "Ronda de desafío: crea **tres finales distintos** para el compás 12. Uno debe sonar tranquilo, otro tenso y otro como un remate. Grábalos y elige cuál te hace querer empezar el siguiente chorus de inmediato.",
+          "de": "Challenge-Runde: Erfinde **drei verschiedene Enden** für Takt 12. Eines soll ruhig klingen, eines angespannt und eines wie eine Pointe. Nimm sie auf und entscheide, welches Ende dich sofort in den nächsten Chorus ziehen will.",
+          "ja": "チャレンジ・ラウンドです。12小節目の **3種類のエンディング** を作りましょう。1つは落ち着いた感じ、1つは緊張感のある感じ、1つはオチのような感じにします。録音して、次のコーラスをすぐ始めたくなる終わり方を選んでください。",
+          "zh-Hans": "挑战回合：为第12小节设计 **三个不同的结尾**。一个要平静，一个要紧张，一个要像抖包袱。录下来，再选出那个最让你想立刻进入下一个 chorus 的结尾。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: trade choruses with yourself for **3 minutes**. Chorus 1 is a safe version, chorus 2 is a riskier version with the blue note featured earlier, then repeat. Great blues phrasing is not about more notes—it is about making the right note arrive with attitude.",
+          "pt-BR": "Missão final: troque choruses com você mesmo por **3 minutos**. O chorus 1 é uma versão segura, o chorus 2 é uma versão mais arriscada com a blue note aparecendo mais cedo, e depois repita. Um grande fraseado de blues não depende de mais notas—depende da nota certa chegar com atitude.",
+          "es": "Misión final: intercambia choruses contigo mismo durante **3 minutos**. El chorus 1 es una versión segura, el chorus 2 es una versión más arriesgada con la blue note apareciendo antes, y luego repite. Un gran fraseo de blues no trata de más notas, sino de que la nota correcta llegue con actitud.",
+          "de": "Abschlussmission: Wechsle für **3 Minuten** chorweise mit dir selbst. Chorus 1 ist die sichere Version, Chorus 2 die riskantere Version mit früherer Blue Note, dann wiederholen. Große Blues-Phrasierung bedeutet nicht mehr Töne—sondern dass der richtige Ton mit Haltung ankommt.",
+          "ja": "最後のミッション：**3分間**、自分とコーラス交換をします。コーラス1は安全版、コーラス2はブルーノートを早めに出す攻めた版、その後くり返します。良いブルース・フレージングは音数ではなく、正しい音が態度を持って届くことです。",
+          "zh-Hans": "最终任务：和自己进行 **3 分钟** 的 chorus 交换。第1轮是稳妥版本，第2轮是更冒险的版本，要更早用到蓝音，然后循环。优秀的布鲁斯乐句不是靠更多音，而是让正确的音带着态度抵达。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-15T00:04:12Z",
+  "updatedAt": "2026-04-15T00:04:12Z"
+}

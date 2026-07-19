@@ -1,0 +1,60 @@
+{
+  "id": "piano-accent-pinball",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **D major**, two octaves, hands together. Play the scale evenly once, then again with accents on every **third** note. Imagine the accent as a pinball bumper: it should light up the note, not smash the phrase apart. Keep the fingers close and the sound connected.",
+          "pt-BR": "Escolha **Ré maior**, duas oitavas, mãos juntas. Toque a escala uma vez de forma uniforme e depois novamente com acentos em cada **terceira** nota. Imagine o acento como um bumper de pinball: ele deve acender a nota, não despedaçar a frase. Mantenha os dedos perto das teclas e o som conectado.",
+          "es": "Elige **Re mayor**, dos octavas, manos juntas. Toca la escala una vez de manera pareja y luego otra vez con acentos en cada **tercera** nota. Imagina el acento como un bumper de pinball: debe iluminar la nota, no romper la frase. Mantén los dedos cerca de las teclas y el sonido conectado.",
+          "de": "Wähle **D-Dur**, zwei Oktaven, beide Hände zusammen. Spiele die Tonleiter einmal ganz gleichmäßig und dann noch einmal mit Akzenten auf jeder **dritten** Note. Stell dir den Akzent wie einen Pinball-Bumper vor: Er soll die Note aufleuchten lassen, nicht die Phrase zerreißen. Halte die Finger nah an den Tasten und den Klang verbunden.",
+          "ja": "**Dメジャー**を2オクターブ、両手ユニゾンで弾きます。まずは均一に1回、そのあと**3音ごと**にアクセントを付けてもう1回。アクセントはピンボールのバンパーのように、音を光らせるのであってフレーズを壊すものではありません。指は鍵盤の近く、音はつながったままを保ちましょう。",
+          "zh-Hans": "选择**D大调**，双手齐奏两组八度。先把音阶均匀弹一遍，再按**每第三个音**加一次重音。把重音想成弹珠台的撞点：它应该让音亮起来，而不是把整句撞碎。手指贴近琴键，声音保持连贯。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now move the bumper. On the next pass, accent every **fifth** note instead. The fingering stays the same, but your attention has to travel to new places. If one accent makes the hand tense or the thumb crossing clunky, stop and repair only the four notes around the trouble spot.",
+          "pt-BR": "Agora mova o bumper. Na próxima passada, acentue cada **quinta** nota. O dedilhado continua igual, mas sua atenção precisa viajar para outros lugares. Se algum acento deixar a mão tensa ou a passagem do polegar travada, pare e conserte apenas as quatro notas ao redor do problema.",
+          "es": "Ahora mueve el bumper. En la siguiente pasada, acentúa cada **quinta** nota. La digitación no cambia, pero tu atención sí tiene que viajar a sitios nuevos. Si algún acento tensa la mano o vuelve torpe el cruce del pulgar, para y arregla solo las cuatro notas alrededor del problema.",
+          "de": "Jetzt wandert der Bumper. Im nächsten Durchgang akzentuierst du jede **fünfte** Note. Der Fingersatz bleibt gleich, aber deine Aufmerksamkeit muss an neue Stellen reisen. Wenn ein Akzent die Hand verkrampft oder den Daumenübergang holprig macht, stoppe und repariere nur die vier Töne rund um die Problemstelle.",
+          "ja": "次はバンパーを移動します。次のパスでは**5音ごと**にアクセントです。運指は同じでも、注意を向ける場所は変わります。どこかのアクセントで手が固まったり、親指くぐりがぎこちなくなったら、そこだけ止めて問題の前後4音だけを修理してください。",
+          "zh-Hans": "现在把撞点挪走。下一遍改成**每第五个音**加重音。指法不变，但注意力必须转移到新位置。如果某个重音让手变紧，或者让拇指穿指变得笨拙，就停下来，只修理问题点前后四个音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next level: give the right hand crisp accents while the left hand stays soft and legato. Same notes, different jobs. This is where many players discover whether they are actually controlling the hands independently or just hoping for the best. Stay calm, and keep the wrist loose enough that the accents feel sprung, not hammered.",
+          "pt-BR": "Próximo nível: dê acentos nítidos à mão direita enquanto a esquerda fica suave e legato. Mesmas notas, funções diferentes. É aqui que muita gente descobre se realmente controla as mãos de forma independente ou se estava apenas torcendo para dar certo. Fique calmo e mantenha o punho solto o bastante para que os acentos saltem, não marretem.",
+          "es": "Siguiente nivel: dale acentos nítidos a la mano derecha mientras la izquierda se mantiene suave y legato. Mismas notas, trabajos distintos. Aquí muchos pianistas descubren si de verdad controlan las manos por separado o si solo estaban cruzando los dedos. Mantén la calma y la muñeca lo bastante suelta para que los acentos salten, no golpeen.",
+          "de": "Nächstes Level: Die rechte Hand bekommt klare Akzente, während die linke weich und legato bleibt. Gleiche Töne, verschiedene Aufgaben. Hier merken viele Spielerinnen und Spieler, ob sie die Hände wirklich unabhängig steuern oder nur auf Glück hoffen. Bleib ruhig und halte das Handgelenk locker genug, damit die Akzente federn statt hämmern.",
+          "ja": "次のレベルでは、右手ははっきりしたアクセント、左手はやわらかくレガートのままにします。同じ音でも役割は別です。ここで、多くの人は本当に左右の手を独立してコントロールしているのか、それとも何となくうまくいくことを願っているだけなのかが分かります。落ち着いて、アクセントが叩きつけるのでなく跳ねるように、手首は十分ゆるく保ちましょう。",
+          "zh-Hans": "下一关：右手做清晰重音，左手保持柔和连奏。同样的音，不同的任务。很多人会在这里发现，自己到底是真的能独立控制双手，还是只是碰运气。保持冷静，手腕要松到让重音像弹起，而不是像砸下去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final game: play four clean runs. Run 1 has accents every third note. Run 2 has accents every fifth note. Run 3 alternates those two patterns between ascending and descending. Run 4 removes all accents and aims for the smoothest plain scale of the set. If run 4 feels easier and more even, the pinball game did its job.",
+          "pt-BR": "Jogo final: faça quatro execuções limpas. A execução 1 tem acentos a cada terceira nota. A 2 tem acentos a cada quinta. A 3 alterna esses dois padrões entre subida e descida. A 4 remove todos os acentos e busca a escala simples mais suave do grupo. Se a execução 4 parecer mais fácil e mais homogênea, o jogo de pinball funcionou.",
+          "es": "Juego final: toca cuatro pasadas limpias. La pasada 1 tiene acentos cada tercera nota. La 2 tiene acentos cada quinta. La 3 alterna esos dos patrones entre subida y bajada. La 4 elimina todos los acentos y busca la escala simple más suave del grupo. Si la pasada 4 se siente más fácil y más pareja, el juego de pinball cumplió su misión.",
+          "de": "Finales Spiel: Spiele vier saubere Durchgänge. Durchgang 1 hat Akzente auf jeder dritten Note. Durchgang 2 auf jeder fünften. Durchgang 3 wechselt diese beiden Muster zwischen Aufwärts- und Abwärtsbewegung. Durchgang 4 entfernt alle Akzente und sucht die geschmeidigste einfache Tonleiter des Sets. Wenn sich Durchgang 4 leichter und ausgeglichener anfühlt, hat das Pinball-Spiel funktioniert.",
+          "ja": "最後のゲームです。4回きれいに通します。1回目は3音ごとのアクセント、2回目は5音ごと、3回目は上行と下行でその2つのパターンを入れ替え、4回目はアクセントを全部外して今回いちばん滑らかな素のスケールを目指します。4回目がより楽で均一に感じられたら、このピンボール練習は成功です。",
+          "zh-Hans": "最终游戏：完成四次干净的演奏。第1次每第三个音重音，第2次每第五个音重音，第3次在上行和下行之间交替这两种模式，第4次去掉全部重音，追求这一组里最顺滑的普通音阶。如果第4次感觉更轻松、更均匀，说明这场弹珠台练习真的起作用了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-21T00:06:51Z",
+  "updatedAt": "2026-06-21T00:06:51Z"
+}

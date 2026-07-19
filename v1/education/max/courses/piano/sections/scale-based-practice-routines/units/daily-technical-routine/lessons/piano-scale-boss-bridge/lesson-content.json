@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-boss-bridge",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to Piano Scale Boss Bridge. Your job is to cross from pure technique into real music without letting either hand fall off the bridge.",
+          "pt-BR": "Bem-vindo à Ponte Chefão das Escalas no Piano. Seu trabalho é atravessar da técnica pura para a música real sem deixar nenhuma das mãos cair da ponte.",
+          "es": "Bienvenido al Puente Jefe Final de Escalas al Piano. Tu trabajo es cruzar desde la técnica pura hacia la música real sin que ninguna mano se caiga del puente.",
+          "de": "Willkommen auf der Klavier-Skalen-Bossbrücke. Deine Aufgabe ist es, von reiner Technik zu echter Musik zu gelangen, ohne dass eine Hand von der Brücke fällt.",
+          "ja": "ピアノ・スケール ボスブリッジへようこそ。今日の仕事は、純粋なテクニックから本物の音楽へ、どちらの手も橋から落とさずに渡りきることです。",
+          "zh-Hans": "欢迎来到钢琴音阶 Boss 之桥。你的任务，是从纯技术走向真正的音乐，同时别让任何一只手从桥上掉下去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: choose C major or F major and play two octaves hands together at a calm tempo. On the first pass, listen only for even tone. On the second pass, watch every thumb crossing like it is a bridge plank that must hold your weight.",
+          "pt-BR": "Preparação: escolha Dó maior ou Fá maior e toque duas oitavas com as mãos juntas em um andamento calmo. Na primeira passada, escute apenas a uniformidade do timbre. Na segunda, observe cada passagem de polegar como se fosse uma tábua da ponte que precisa sustentar seu peso.",
+          "es": "Preparación: elige Do mayor o Fa mayor y toca dos octavas con manos juntas a un tempo tranquilo. En la primera pasada escucha solo la igualdad del sonido. En la segunda, vigila cada cruce del pulgar como si fuera una tabla del puente que debe sostener tu peso.",
+          "de": "Setup: Wähle C-Dur oder F-Dur und spiele zwei Oktaven mit beiden Händen zusammen in ruhigem Tempo. Höre beim ersten Durchgang nur auf gleichmäßigen Klang. Beobachte beim zweiten Durchgang jede Daumenuntersetzung wie ein Brückenbrett, das dein Gewicht tragen muss.",
+          "ja": "準備：CメジャーかFメジャーを選び、落ち着いたテンポで両手一緒に2オクターブ弾きます。1回目は音の均一さだけを聴き、2回目は親指くぐりを橋の板のように観察して、しっかり体重を支えられるか確認しましょう。",
+          "zh-Hans": "准备：选择C大调或F大调，用平静的速度双手齐奏两八度。第一遍只听音色是否均匀；第二遍把每一次拇指穿越都当成桥板，看看它能不能稳稳承住你的重量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Bridge rule one: play the scale once mezzo piano, once mezzo forte, and once with a crescendo up and a decrescendo down. The notes do not change, but your control has to widen.",
+          "pt-BR": "Regra um da ponte: toque a escala uma vez em mezzo piano, uma vez em mezzo forte e uma vez com crescendo na subida e decrescendo na descida. As notas não mudam, mas o seu controle precisa se ampliar.",
+          "es": "Regla uno del puente: toca la escala una vez en mezzo piano, una vez en mezzo forte y una vez con crescendo al subir y decrescendo al bajar. Las notas no cambian, pero tu control debe ampliarse.",
+          "de": "Brückenregel eins: Spiele die Skala einmal mezzo piano, einmal mezzo forte und einmal mit Crescendo nach oben und Decrescendo nach unten. Die Töne ändern sich nicht, aber deine Kontrolle muss größer werden.",
+          "ja": "橋ルール1：スケールを1回はメゾピアノ、1回はメゾフォルテ、もう1回は上行でクレッシェンド、下行でデクレッシェンドにして弾きます。音は変わりませんが、コントロールの幅は広がらなければいけません。",
+          "zh-Hans": "桥梁规则一：用 mezzo piano 弹一遍，用 mezzo forte 弹一遍，再来一遍上行渐强、下行渐弱。音没有变，但你的控制范围必须变大。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Bridge rule two: on the next round, accent scale degrees 1 and 5 on the way up, then 3 and 7 on the way down. Keep the wrists quiet, the fingertips alive, and the sound balanced between both hands.",
+          "pt-BR": "Regra dois da ponte: na rodada seguinte, acentue os graus 1 e 5 na subida, depois 3 e 7 na descida. Mantenha os punhos quietos, as pontas dos dedos vivas e o som equilibrado entre as duas mãos.",
+          "es": "Regla dos del puente: en la siguiente vuelta, acentúa los grados 1 y 5 al subir, y luego 3 y 7 al bajar. Mantén las muñecas quietas, las yemas activas y el sonido equilibrado entre las dos manos.",
+          "de": "Brückenregel zwei: Betone in der nächsten Runde aufwärts die Stufen 1 und 5, abwärts dann 3 und 7. Halte die Handgelenke ruhig, die Fingerspitzen wach und den Klang zwischen beiden Händen ausgeglichen.",
+          "ja": "橋ルール2：次のラウンドでは、上行で1度と5度、下行で3度と7度にアクセントを置きます。手首は静かに、指先は生き生きと、両手の音量バランスは均等に保ちましょう。",
+          "zh-Hans": "桥梁规则二：下一轮上行时重读1级和5级，下行时重读3级和7级。保持手腕安静、指尖有活力，同时让双手之间的声音保持平衡。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: set the metronome at 80 BPM and clear three bridge gates in a row—steady rhythm, clean thumb crossings, and matching tone between the hands. Miss one gate, pause, reset, and cross again.",
+          "pt-BR": "Rodada de desafio: coloque o metrônomo em 80 BPM e atravesse três portões da ponte em sequência — ritmo estável, passagens limpas de polegar e timbre combinado entre as mãos. Errou um portão? Pare, reinicie e atravesse outra vez.",
+          "es": "Ronda de desafío: pon el metrónomo a 80 BPM y supera tres puertas del puente seguidas: ritmo estable, cruces limpios del pulgar y sonido parejo entre las manos. ¿Fallas una puerta? Pausa, reinicia y cruza otra vez.",
+          "de": "Challenge-Runde: Stell das Metronom auf 80 BPM und passiere drei Brückentore hintereinander — stabiles Timing, saubere Daumenwechsel und passender Klang zwischen den Händen. Verpasst du ein Tor, pausiere, setze zurück und überquere die Brücke erneut.",
+          "ja": "チャレンジ・ラウンド：メトロノームを80 BPMに設定し、3つの橋ゲート――安定したリズム、きれいな親指くぐり、両手のそろった音色――を連続で通過します。1つでも失敗したら止まり、リセットしてもう一度渡ります。",
+          "zh-Hans": "挑战回合：把节拍器设为80 BPM，连续通过三道桥门——节奏稳定、拇指穿越干净、双手音色匹配。漏掉任何一道门，就暂停、重置，再过一次桥。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss ending: turn the final ascent into a tiny musical phrase, hold the top note for one extra beat, and descend like you are answering yourself. If the scale starts sounding like a sentence, the bridge worked.",
+          "pt-BR": "Final do chefão: transforme a última subida em uma pequena frase musical, segure a nota mais aguda por um tempo extra e desça como se estivesse respondendo a si mesmo. Se a escala começar a soar como uma frase, a ponte funcionou.",
+          "es": "Final del jefe: convierte la última subida en una pequeña frase musical, sostén la nota más aguda un pulso extra y baja como si te respondieras a ti mismo. Si la escala empieza a sonar como una frase, el puente funcionó.",
+          "de": "Boss-Ende: Mach aus dem letzten Aufstieg eine kleine musikalische Phrase, halte den höchsten Ton einen Schlag länger und gehe zurück, als würdest du dir selbst antworten. Wenn die Skala wie ein Satz klingt, hat die Brücke funktioniert.",
+          "ja": "ボスエンディング：最後の上行を小さな音楽フレーズに変え、最高音を1拍ぶん長く保ち、まるで自分に返事をするように下降します。スケールが文章のように聞こえ始めたら、橋は成功です。",
+          "zh-Hans": "Boss结尾：把最后一次上行变成一个小乐句，把最高音多停一拍，然后像在回答自己一样下行。如果音阶开始像一句话而不是体操，说明这座桥搭成功了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-10T00:07:55Z",
+  "updatedAt": "2026-07-10T00:07:55Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "guitar-scale-accent-switchback",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: choose a one-octave G major scale in one position. Play steady eighth-notes at 70 BPM with relaxed alternate picking.",
+          "pt-BR": "Aquecimento: escolha uma escala de Sol maior de uma oitava em uma posição. Toque colcheias a 70 BPM com palhetada alternada relaxada.",
+          "es": "Calentamiento: elige una escala de Sol mayor de una octava en una sola posición. Toca corcheas a 70 BPM con púa alternada relajada.",
+          "de": "Warm-up: Wähle eine einoktavige G-Dur-Tonleiter in einer Lage. Spiele gleichmäßige Achtel bei 70 BPM mit entspanntem Wechselschlag.",
+          "ja": "ウォームアップ：1ポジションのGメジャー1オクターブを選び、70BPMで8分音符をリラックスしたオルタネイトで弾く。",
+          "zh-Hans": "热身：选择一个把位的G大调一八度音阶，用70 BPM的八分音符、放松的交替拨弦演奏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Accent map: put accents on beats 1 and 3 for two runs up and down. Keep everything else even.",
+          "pt-BR": "Mapa de acentos: acentue os tempos 1 e 3 por duas subidas e descidas. Mantenha o resto uniforme.",
+          "es": "Mapa de acentos: acentúa los tiempos 1 y 3 durante dos subidas y bajadas. Mantén todo lo demás parejo.",
+          "de": "Akzentkarte: Akzente auf Zählzeit 1 und 3 für zwei Durchgänge hoch und runter. Alles andere bleibt gleichmäßig.",
+          "ja": "アクセント地図：拍1と3にアクセントを付けて、上り下りを2回。ほかは均一に。",
+          "zh-Hans": "重音地图：在第1拍和第3拍加重音，上下行各两遍，其他音保持均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Switchback: move accents to the “and” of 2 and 4 (offbeats). Keep the tempo; don’t rush the accents.",
+          "pt-BR": "Retorno: mova os acentos para o “e” do 2 e do 4 (contratempos). Mantenha o tempo, sem acelerar.",
+          "es": "Vuelta: mueve los acentos al “y” del 2 y del 4 (contratiempos). Mantén el tempo; no aceleres.",
+          "de": "Rückwechsel: Verlege die Akzente auf das „und“ von 2 und 4 (Offbeats). Tempo halten, nicht hetzen.",
+          "ja": "スイッチバック：アクセントを2と4の「裏」に移す。テンポを保ち、急がない。",
+          "zh-Hans": "回切：把重音移到第2拍和第4拍的“后半拍”（反拍）。保持速度，不要赶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Position nudge: on the next run, shift to the next position at the top note, then descend. Keep the same accent pattern through the shift.",
+          "pt-BR": "Deslocamento de posição: na próxima passada, mude para a posição seguinte na nota mais aguda e desça. Mantenha o mesmo padrão de acentos.",
+          "es": "Cambio de posición: en la siguiente pasada, cambia a la posición siguiente en la nota más aguda y desciende. Mantén el mismo patrón de acentos.",
+          "de": "Lagenwechsel: Beim nächsten Durchgang am höchsten Ton in die nächste Lage wechseln und abwärts spielen. Gleiches Akzentmuster beibehalten.",
+          "ja": "ポジション移動：次のランで最高音で隣のポジションへ移動して下降。アクセントパターンは同じ。",
+          "zh-Hans": "换把位：下一遍在最高音处切到下一个把位再下行。重音模式保持不变。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: after two clean passes, raise the metronome 5 BPM. If it gets messy, drop 5 and fix it. Aim for three clean ladders.",
+          "pt-BR": "Desafio: após duas passagens limpas, suba 5 BPM. Se embolar, volte 5 e ajuste. Meta: três escadas limpas.",
+          "es": "Desafío: después de dos pasadas limpias, sube 5 BPM. Si se ensucia, baja 5 y corrige. Meta: tres escalas limpias.",
+          "de": "Challenge: Nach zwei sauberen Durchgängen das Metronom um 5 BPM erhöhen. Wenn’s unsauber wird, 5 runter und korrigieren. Ziel: drei saubere Leitern.",
+          "ja": "チャレンジ：2回きれいに弾けたら5BPM上げる。崩れたら5下げて修正。目標は3回のクリーンラダー。",
+          "zh-Hans": "挑战：两遍干净后，节拍器加5 BPM。变乱就减5并修正。目标：三轮干净阶梯。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-30T00:03:53Z",
+  "updatedAt": "2026-03-30T00:03:53Z"
+}

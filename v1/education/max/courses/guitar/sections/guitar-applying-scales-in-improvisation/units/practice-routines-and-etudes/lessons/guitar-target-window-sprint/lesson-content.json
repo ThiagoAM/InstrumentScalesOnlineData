@@ -1,0 +1,73 @@
+{
+  "id": "guitar-target-window-sprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a two-chord vamp, like Am7 to D7, and pick one scale that fits the whole ride. Your mission is not to play more notes. Your mission is to land on one clear target note every time the chord changes.",
+          "pt-BR": "Monte um vamp de dois acordes, como Am7 para D7, e escolha uma escala que funcione no percurso inteiro. Sua missão não é tocar mais notas. Sua missão é aterrissar em uma nota-alvo clara toda vez que o acorde mudar.",
+          "es": "Prepara un vamp de dos acordes, como Am7 a D7, y elige una escala que funcione durante todo el recorrido. Tu misión no es tocar más notas. Tu misión es caer en una nota objetivo clara cada vez que cambie el acorde.",
+          "de": "Baue einen Vamp mit zwei Akkorden auf, zum Beispiel Am7 zu D7, und wähle eine Skala, die über die ganze Strecke passt. Deine Mission ist nicht, mehr Töne zu spielen. Deine Mission ist, bei jedem Akkordwechsel auf einem klaren Zielton zu landen.",
+          "ja": "Am7 から D7 のような 2 コードのヴァンプを用意し、全体に使えるスケールを 1 つ決めます。今回のミッションは音数を増やすことではありません。コードが変わるたびに、はっきりしたターゲット音へ着地することです。",
+          "zh-Hans": "先搭一个两和弦 vamp，比如 Am7 到 D7，再选一条能贯穿全程的音阶。你的任务不是弹更多音，而是在每次和弦变化时，都准确落到一个清晰的目标音上。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the warm-up sprint. Improvise using only quarter notes, and on every chord change you must land on either the 3rd or the 7th of the new chord. If you miss, do not stop. Slide or bend into the target on the very next beat.",
+          "pt-BR": "A rodada 1 é o sprint de aquecimento. Improvise usando apenas semínimas e, em cada troca de acorde, aterrisse na 3ª ou na 7ª do novo acorde. Se errar, não pare. Deslize ou faça um bend até a nota-alvo no tempo seguinte.",
+          "es": "La ronda 1 es el sprint de calentamiento. Improvisa usando solo negras y, en cada cambio de acorde, aterriza en la 3ª o la 7ª del acorde nuevo. Si fallas, no te detengas. Deslízate o haz bend hasta la nota objetivo en el siguiente pulso.",
+          "de": "Runde 1 ist der Aufwärm-Sprint. Improvisiere nur mit Viertelnoten und lande bei jedem Akkordwechsel auf der Terz oder der Septime des neuen Akkords. Wenn du danebenliegst, stopp nicht. Rutsche oder ziehe den Ton auf dem nächsten Schlag zum Zielton.",
+          "ja": "ラウンド1はウォームアップ・スプリントです。4分音符だけで即興し、コードチェンジのたびに新しいコードの 3 度か 7 度へ着地します。外しても止まらず、次の拍でスライドやチョーキングを使ってターゲットへ戻してください。",
+          "zh-Hans": "第 1 轮是热身冲刺。只用四分音符即兴，每次和弦变化时都必须落到新和弦的 3 音或 7 音上。如果没打中，不要停，下一拍立刻用滑音或推弦把它救回目标音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 makes the window smaller. Keep the same backing track, but now every phrase must start with a rest. Leave beat 1 empty, enter on beat 2 or the 'and' of 2, and still arrive on a strong target note when the harmony moves.",
+          "pt-BR": "A rodada 2 deixa a janela menor. Mantenha o mesmo playback, mas agora toda frase deve começar com pausa. Deixe o tempo 1 vazio, entre no tempo 2 ou no 'e' do 2, e ainda assim chegue a uma nota-alvo forte quando a harmonia mudar.",
+          "es": "La ronda 2 hace la ventana más pequeña. Mantén la misma base, pero ahora cada frase debe comenzar con silencio. Deja vacío el tiempo 1, entra en el tiempo 2 o en la 'y' de 2, y aun así llega a una nota objetivo fuerte cuando se mueva la armonía.",
+          "de": "Runde 2 macht das Fenster kleiner. Behalte denselben Backing-Track, aber jetzt muss jede Phrase mit einer Pause beginnen. Lass Schlag 1 leer, steig auf Schlag 2 oder dem Und von 2 ein und lande trotzdem auf einem starken Zielton, wenn sich die Harmonie bewegt.",
+          "ja": "ラウンド2では窓がさらに小さくなります。同じ伴奏を使いますが、すべてのフレーズは休符から始めます。1拍目は空け、2拍目か 2拍目ウラから入り、それでもハーモニーが動く瞬間には強いターゲット音に着地します。",
+          "zh-Hans": "第 2 轮把窗口缩小。继续用同一条伴奏，但现在每个乐句都必须从休止开始。把第 1 拍空出来，在第 2 拍或第 2 拍后半拍进入，同时仍然要在和声移动时落到强而明确的目标音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 adds a direction rule. On one pass, every phrase must climb toward the target. On the next pass, every phrase must fall toward the target. This forces you to hear the target note before your fingers grab the usual shape.",
+          "pt-BR": "A rodada 3 acrescenta uma regra de direção. Em uma passada, toda frase deve subir até a nota-alvo. Na passada seguinte, toda frase deve descer até a nota-alvo. Isso obriga você a ouvir a chegada antes de a mão agarrar o desenho de sempre.",
+          "es": "La ronda 3 añade una regla de dirección. En una pasada, cada frase debe subir hacia la nota objetivo. En la siguiente, cada frase debe bajar hacia la nota objetivo. Eso te obliga a oír la llegada antes de que los dedos agarren el dibujo de siempre.",
+          "de": "Runde 3 fügt eine Richtungsregel hinzu. In einem Durchgang muss jede Phrase zum Zielton aufsteigen. Im nächsten Durchgang muss jede Phrase zum Zielton absteigen. So hörst du den Zielton zuerst, statt nur das alte Griffmuster zu greifen.",
+          "ja": "ラウンド3では進行方向のルールを追加します。1回目はすべてのフレーズを上行でターゲットへ向かわせ、次は下行でターゲットへ向かわせます。これで、いつもの形を押さえる前に、耳で着地点を先に思い描く練習になります。",
+          "zh-Hans": "第 3 轮加入方向规则。第一遍中，每个乐句都必须向上爬到目标音；第二遍中，每个乐句都必须向下落到目标音。这样你会先在耳朵里听见落点，而不是先抓住老习惯的指型。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: play four choruses. Chorus 1 uses short phrases, chorus 2 uses longer phrases, chorus 3 mixes silence and bursts, and chorus 4 combines everything. Record it and listen back for one question: did your target notes sound chosen, or did they sound accidental?",
+          "pt-BR": "Desafio final: toque quatro choruses. O chorus 1 usa frases curtas, o 2 usa frases longas, o 3 mistura silêncio e rajadas, e o 4 combina tudo. Grave e escute com uma pergunta: suas notas-alvo soaram escolhidas ou acidentais?",
+          "es": "Desafío final: toca cuatro vueltas. La vuelta 1 usa frases cortas, la 2 frases largas, la 3 mezcla silencios y ráfagas, y la 4 combina todo. Grábate y escucha una pregunta: ¿tus notas objetivo sonaron elegidas o accidentales?",
+          "de": "Abschluss-Challenge: Spiele vier Chorusse. Chorus 1 nutzt kurze Phrasen, Chorus 2 längere Phrasen, Chorus 3 mischt Stille und Schübe, und Chorus 4 verbindet alles. Nimm dich auf und frage dich beim Anhören: klangen die Zieltöne gewählt oder zufällig?",
+          "ja": "最後のチャレンジは 4 コーラスです。1 コーラス目は短いフレーズ、2 コーラス目は長いフレーズ、3 コーラス目は沈黙と噴出のミックス、4 コーラス目は全部乗せです。録音して聴き返し、ターゲット音が選ばれたように聞こえるか、たまたま当たったように聞こえるかを確認しましょう。",
+          "zh-Hans": "最终挑战：弹四个 chorus。第 1 个用短句，第 2 个用长句，第 3 个混合留白和爆发，第 4 个把所有元素组合起来。录下来再听，只问自己一个问题：这些目标音听起来是你故意选择的，还是只是碰巧撞到的？"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-15T00:05:53Z",
+  "updatedAt": "2026-07-15T00:05:53Z"
+}

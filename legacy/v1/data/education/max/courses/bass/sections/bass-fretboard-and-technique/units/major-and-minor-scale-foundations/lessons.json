@@ -110,5 +110,229 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "pocket-groove-scale-loop",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pocket Groove Scale Loop",
+        "pt-BR": "Loop de Groove no Bolso com Escalas",
+        "es": "Loop de groove en el bolsillo con escalas",
+        "de": "Pocket-Groove-Skalenloop",
+        "ja": "ポケット・グルーヴのスケールループ",
+        "zh-Hans": "口袋律动音阶循环"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Lock your scale practice to a groove with ghost notes, rests, and feel.",
+        "pt-BR": "Trave sua prática de escalas no groove com ghost notes, pausas e sensação rítmica.",
+        "es": "Asegura tu práctica de escalas al groove con ghost notes, silencios y sensación rítmica.",
+        "de": "Verankere deine Skalenpraxis im Groove mit Ghost Notes, Pausen und Feel.",
+        "ja": "ゴーストノートと休符で、スケール練習をグルーヴに固定しよう。",
+        "zh-Hans": "用幽灵音与休止把音阶练习锁进律动。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-19T00:05:03Z",
+    "updatedAt": "2026-03-19T00:05:03Z"
+  },
+  {
+    "id": "bass-scale-target-notes",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Target Notes for Bass Lines",
+        "pt-BR": "Notas-Alvo para Linhas de Baixo",
+        "es": "Notas Objetivo para Líneas de Bajo",
+        "de": "Zieltöne für Basslinien",
+        "ja": "ベースラインのターゲットノート",
+        "zh-Hans": "低音线的目标音"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Aim for chord tones while keeping your groove steady.",
+        "pt-BR": "Mire nas notas do acorde mantendo o groove firme.",
+        "es": "Apunta a las notas del acorde mientras mantienes el groove.",
+        "de": "Zielt auf Akkordtöne, während der Groove stabil bleibt.",
+        "ja": "グルーヴを保ちながらコードトーンを狙う。",
+        "zh-Hans": "在保持律动的同时锁定和弦音。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-24T00:06:18Z",
+    "updatedAt": "2026-03-24T00:06:18Z"
+  },
+  {
+    "id": "bass-scale-octave-pivots",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Octave Pivot Scale Drill\"",
+        "pt-BR": "\"Treino de Pivô de Oitava na Escala\"",
+        "es": "\"Ejercicio de Pivote de Octava en la Escala\"",
+        "de": "\"Oktav-Pivot-Skalendril\"",
+        "ja": "\"オクターブ・ピボット・スケールドリル\"",
+        "zh-Hans": "\"八度支点音阶训练\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Use octave jumps to lock in scale shape and left-hand shifts.\"",
+        "pt-BR": "\"Use saltos de oitava para firmar o desenho da escala e as trocas de mão esquerda.\"",
+        "es": "\"Usa saltos de octava para fijar la forma de la escala y los cambios de mano izquierda.\"",
+        "de": "\"Nutze Oktavsprünge, um die Skalenform und Lagenwechsel zu festigen.\"",
+        "ja": "\"オクターブ跳躍でスケール形と左手シフトを固める。\"",
+        "zh-Hans": "\"用八度跳跃巩固音阶形状与左手换把位。\""
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-30T00:06:15Z",
+    "updatedAt": "2026-03-30T00:06:15Z"
+  },
+  {
+    "id": "root-fifth-ghost-groove",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Root-Fifth Ghost Groove\"",
+        "pt-BR": "\"Groove Fantasma de Tônica e Quinta\"",
+        "es": "\"Groove Fantasma de Tónica y Quinta\"",
+        "de": "\"Grundton-Quinte-Ghost-Groove\"",
+        "ja": "\"ルート＆フィフス・ゴーストグルーヴ\"",
+        "zh-Hans": "\"根音-五度幽灵律动\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Lock your scale tones to a groove with roots, fifths, and ghost notes.\"",
+        "pt-BR": "\"Trave os sons da escala no groove com tônicas, quintas e ghost notes.\"",
+        "es": "\"Ancla los sonidos de la escala al groove con tónicas, quintas y ghost notes.\"",
+        "de": "\"Verankere Skalentöne im Groove mit Grundtönen, Quinten und Ghost Notes.\"",
+        "ja": "\"ルートと5度、ゴーストノートでスケールをグルーヴに固定しよう。\"",
+        "zh-Hans": "\"用根音、五度和幽灵音把音阶锁进律动。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-06T00:07:05Z",
+    "updatedAt": "2026-04-06T00:07:05Z"
+  },
+  {
+    "id": "syncopated-scale-ladder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Syncopated Scale Ladder",
+        "pt-BR": "Escada de Escala Sincopada",
+        "es": "Escalera de Escala Sincopada",
+        "de": "Synkopierte Skalenleiter",
+        "ja": "シンコペーション・スケールラダー",
+        "zh-Hans": "切分音阶阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb a scale with syncopation so your groove stays alive while your fingers work.",
+        "pt-BR": "Suba uma escala com síncopa para manter o groove vivo enquanto os dedos trabalham.",
+        "es": "Sube una escala con síncopa para que el groove siga vivo mientras tus dedos trabajan.",
+        "de": "Steige mit Synkopen durch eine Skala, damit dein Groove lebendig bleibt, während deine Finger arbeiten.",
+        "ja": "シンコペーションでスケールを登り、指を鍛えながらグルーヴも生かそう。",
+        "zh-Hans": "用切分节奏爬音阶，让手指训练和律动感同时在线。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-05-06T00:08:01Z",
+    "updatedAt": "2026-05-06T00:08:01Z"
+  },
+  {
+    "id": "pedal-point-scale-chase",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Pedal Point Scale Chase",
+        "pt-BR": "Caçada de Escala com Pedal",
+        "es": "Persecución de Escala con Pedal",
+        "de": "Pedalton-Skalenjagd",
+        "ja": "ペダルポイント・スケールチェイス",
+        "zh-Hans": "持续低音音阶追逐"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn a steady root into a groove anchor while major-scale notes weave around it.",
+        "pt-BR": "Transforme uma tônica firme em âncora de groove enquanto as notas da escala maior giram ao redor dela.",
+        "es": "Convierte una tónica firme en ancla de groove mientras las notas de la escala mayor se mueven a su alrededor.",
+        "de": "Verwandle einen stabilen Grundton in einen Groove-Anker, während sich die Töne der Durtonleiter darum bewegen.",
+        "ja": "安定したルート音をグルーヴの支点にしながら、その周りをメジャースケールで動き回ろう。",
+        "zh-Hans": "把稳定的根音变成律动锚点，让大调音阶围着它旋转。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-16T00:06:52Z",
+    "updatedAt": "2026-06-16T00:06:52Z"
+  },
+  {
+    "id": "a-minor-pocket-patrol",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "A Minor Pocket Patrol",
+        "pt-BR": "Patrulha do Pocket em Lá Menor",
+        "es": "Patrulla del Pocket en La Menor",
+        "de": "A-Moll-Pocket-Patrouille",
+        "ja": "Aマイナー・ポケットパトロール",
+        "zh-Hans": "A小调律动巡逻"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Patrol the A natural minor scale with groove checkpoints, ghost notes, and target-note landings.",
+        "pt-BR": "Patrulhe a escala de Lá menor natural com checkpoints de groove, ghost notes e aterrissagens em notas-alvo.",
+        "es": "Patrulla la escala de La menor natural con checkpoints de groove, ghost notes y aterrizajes en notas objetivo.",
+        "de": "Patrouilliere durch die natürliche a-Moll-Tonleiter mit Groove-Checkpoints, Ghost Notes und Zieltönen.",
+        "ja": "Aナチュラルマイナーを、グルーヴのチェックポイント、ゴーストノート、ターゲット着地で巡回しよう。",
+        "zh-Hans": "用律动检查点、幽灵音和目标音落点来巡逻A自然小调音阶。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-07-02T00:06:57Z",
+    "updatedAt": "2026-07-02T00:06:57Z"
+  },
+  {
+    "id": "d-major-pocket-climb",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "D Major Pocket Climb",
+        "pt-BR": "Subida de Pocket em Ré Maior",
+        "es": "Ascenso de Pocket en Re Mayor",
+        "de": "Pocket-Aufstieg in D-Dur",
+        "ja": "Dメジャー・ポケットクライム",
+        "zh-Hans": "D大调律动攀登"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb through D major on bass with groove checkpoints, octave pivots, and a riff-building challenge.",
+        "pt-BR": "Suba pela escala de Ré maior no baixo com checkpoints de groove, pivôs de oitava e um desafio de construção de riff.",
+        "es": "Sube por Re mayor en el bajo con checkpoints de groove, pivotes de octava y un reto para construir un riff.",
+        "de": "Steige auf dem Bass durch D-Dur mit Groove-Checkpoints, Oktav-Pivots und einer Riff-Challenge.",
+        "ja": "グルーヴのチェックポイント、オクターブ支点、リフ作りチャレンジでDメジャーを登ろう。",
+        "zh-Hans": "用律动检查点、八度支点和riff搭建挑战，在贝斯上爬过D大调。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-07-04T00:09:07Z",
+    "updatedAt": "2026-07-04T00:09:07Z"
   }
 ]

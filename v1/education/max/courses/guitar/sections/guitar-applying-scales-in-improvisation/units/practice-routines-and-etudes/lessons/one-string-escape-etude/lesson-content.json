@@ -1,0 +1,73 @@
+{
+  "id": "one-string-escape-etude",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a backing track in **A minor** and ban yourself from your usual box patterns for five minutes. Play on **one string only** for four bars at a time. That limitation is the point: when you lose your favorite shape, your ears have to lead and your phrasing gets more intentional.",
+          "pt-BR": "Comece com um playback em **Lá menor** e proíba seus shapes favoritos por cinco minutos. Toque em **uma corda só** por quatro compassos de cada vez. Essa limitação é o ponto: quando você perde o desenho de sempre, o ouvido precisa liderar e o fraseado fica mais intencional.",
+          "es": "Empieza con una base en **La menor** y prohíbete tus shapes habituales durante cinco minutos. Toca en **una sola cuerda** durante cuatro compases cada vez. Esa limitación es la clave: cuando pierdes tu patrón favorito, el oído tiene que mandar y el fraseo se vuelve más intencional.",
+          "de": "Starte einen Backing-Track in **A-Moll** und verbiete dir fünf Minuten lang deine üblichen Box-Patterns. Spiele jeweils vier Takte lang **nur auf einer Saite**. Genau diese Begrenzung ist der Punkt: Wenn dein Lieblingsshape wegfällt, müssen deine Ohren führen und deine Phrasierung wird bewusster.",
+          "ja": "**Aマイナー** のバッキングを流し、5分だけいつものボックス形を禁止してください。4小節ずつ **1本の弦だけ** で弾きます。この制限こそが狙いです。いつもの形を失うと耳が主役になり、フレージングがずっと意図的になります。",
+          "zh-Hans": "打开 **A小调** 伴奏，给自己五分钟，禁止使用平时最顺手的把位盒形。每次连续四小节只在 **一根弦上** 演奏。这种限制正是重点：当你失去熟悉图形时，耳朵就必须接管，乐句也会变得更有意图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is simple: make every four-bar phrase use **three moves only**—a slide, a long note, and a short answer. Imagine you are delivering a line in a movie, then reacting to your own line. On guitar, fewer moves often create more drama.",
+          "pt-BR": "A rodada 1 é simples: faça cada frase de quatro compassos usar **apenas três movimentos** — um slide, uma nota longa e uma resposta curta. Imagine que você está dizendo uma fala em um filme e depois reagindo à própria fala. Na guitarra, menos movimentos muitas vezes criam mais drama.",
+          "es": "La ronda 1 es sencilla: haz que cada frase de cuatro compases use **solo tres movimientos**: un slide, una nota larga y una respuesta corta. Imagina que dices una línea en una película y luego respondes a tu propia frase. En la guitarra, menos movimientos muchas veces crean más drama.",
+          "de": "Runde 1 ist einfach: Jede Vier-Takt-Phrase darf **nur drei Bewegungen** enthalten — einen Slide, einen langen Ton und eine kurze Antwort. Stell dir vor, du sprichst eine Zeile in einem Film und reagierst dann auf dich selbst. Auf der Gitarre erzeugen weniger Bewegungen oft mehr Drama.",
+          "ja": "ラウンド1はシンプルです。4小節の各フレーズで使うのは **3つの動きだけ** —— スライド、長い音、短い返事。映画のセリフを言って、自分で返す場面を想像してください。ギターでは、動きを減らしたほうがドラマが増えることがよくあります。",
+          "zh-Hans": "第1轮很简单：每个四小节乐句只允许使用 **三种动作** —— 滑音、长音、短回应。把它想成电影里先说一句台词，再对自己的台词作出回应。在吉他上，动作越少，戏剧感往往越强。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: keep the one-string rule, but now each phrase must **aim for a chord tone** when the harmony changes. If the band lands on Am, C, F, or G, try to hear where the **A, C, E, F, or G** lives on that string and land there cleanly. This is how etudes stop being finger workouts and start becoming music.",
+          "pt-BR": "Rodada 2: mantenha a regra de uma corda, mas agora cada frase deve **mirar uma nota do acorde** quando a harmonia mudar. Se a base cair em Am, C, F ou G, tente ouvir onde estão **A, C, E, F ou G** nessa corda e aterrisse ali com clareza. É assim que o estudo deixa de ser exercício de dedos e vira música.",
+          "es": "Ronda 2: mantén la regla de una cuerda, pero ahora cada frase debe **apuntar a una nota del acorde** cuando cambie la armonía. Si la base cae en Am, C, F o G, intenta escuchar dónde están **A, C, E, F o G** en esa cuerda y aterriza allí con claridad. Así es como un estudio deja de ser gimnasia de dedos y empieza a ser música.",
+          "de": "Runde 2: Behalte die Eine-Saite-Regel bei, aber jetzt muss jede Phrase **einen Akkordton anvisieren**, wenn sich die Harmonie ändert. Wenn das Playback auf Am, C, F oder G landet, höre, wo **A, C, E, F oder G** auf dieser Saite liegt, und lande sauber dort. So wird aus einer Fingerübung echte Musik.",
+          "ja": "ラウンド2：1弦ルールを続けたまま、今度はハーモニーが変わるたびに各フレーズが **コードトーンを狙う** ようにします。進行が Am、C、F、G に来たら、その弦上の **A、C、E、F、G** を耳で探して、きれいに着地しましょう。こうしてエチュードは指の体操ではなく音楽になります。",
+          "zh-Hans": "第2轮：继续保持单弦规则，但现在每次和声变化时，乐句都必须 **瞄准一个和弦音**。如果伴奏走到 Am、C、F 或 G，就去听并找到这根弦上的 **A、C、E、F 或 G**，然后干净地落上去。这样练习曲就不再只是手指体操，而开始真正变成音乐。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the escape test: after two phrases on one string, jump to a nearby position and answer yourself with the **same rhythm but different notes**. The listener should feel continuity, not panic. If the shift sounds messy, slow down and make the landing note feel like home.",
+          "pt-BR": "A rodada 3 é o teste de fuga: depois de duas frases em uma corda, pule para uma posição próxima e responda a si mesmo com **o mesmo ritmo, mas notas diferentes**. O ouvinte deve sentir continuidade, não pânico. Se a troca soar bagunçada, desacelere e faça a nota de chegada parecer casa.",
+          "es": "La ronda 3 es la prueba de escape: después de dos frases en una cuerda, salta a una posición cercana y respóndete con **el mismo ritmo pero notas distintas**. El oyente debe sentir continuidad, no pánico. Si el cambio suena desordenado, baja la velocidad y haz que la nota de llegada se sienta como casa.",
+          "de": "Runde 3 ist der Fluchttest: Nach zwei Phrasen auf einer Saite springst du in eine nahe Position und antwortest dir selbst mit **dem gleichen Rhythmus, aber anderen Tönen**. Der Zuhörer soll Kontinuität spüren, nicht Panik. Wenn der Wechsel chaotisch klingt, werde langsamer und lass den Landeton wie ein Zuhause wirken.",
+          "ja": "ラウンド3は脱出テストです。1本の弦で2フレーズ弾いたら、近いポジションへ移動し、**同じリズムで別の音** を使って自分に返答します。聴き手には連続性が必要で、慌てた感じは不要です。移動が雑に聞こえるならテンポを落とし、着地点を“帰る場所”にしましょう。",
+          "zh-Hans": "第3轮是突围测试：在一根弦上完成两个乐句后，跳到附近的另一个把位，用 **相同节奏、不同音高** 来回答自己。听众应该感到连贯，而不是慌乱。如果换把听起来凌乱，就放慢速度，让落点音像“回家”一样稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: record **three takes** and keep the one that sounds most like a tiny story with a beginning, tension, and release. Then add one extra color—maybe a bend, vibrato, or wider interval—but only if it improves the sentence. Great improvisers do not show every trick; they choose the one that matters.",
+          "pt-BR": "Missão final: grave **três takes** e fique com o que soar mais como uma pequena história com começo, tensão e resolução. Depois adicione uma cor extra — talvez um bend, vibrato ou intervalo mais aberto — mas só se isso melhorar a frase. Grandes improvisadores não mostram todos os truques; eles escolhem o que importa.",
+          "es": "Misión final: graba **tres tomas** y quédate con la que suene más como una historia pequeña con inicio, tensión y resolución. Luego añade un color extra — quizá un bend, vibrato o un intervalo más abierto — pero solo si mejora la frase. Los grandes improvisadores no muestran todos sus trucos; eligen el que importa.",
+          "de": "Letzte Mission: Nimm **drei Takes** auf und behalte den, der wie eine kleine Geschichte mit Anfang, Spannung und Auflösung klingt. Füge dann eine zusätzliche Farbe hinzu — vielleicht Bend, Vibrato oder ein größeres Intervall — aber nur, wenn es den Satz verbessert. Gute Improvisatoren zeigen nicht jeden Trick; sie wählen den einen, der zählt.",
+          "ja": "最後のミッション：**3テイク** 録音し、始まり・緊張・解放のある小さな物語に聞こえるものを残します。そのあとでベンド、ビブラート、広い音程などの色を1つだけ足してください。ただしフレーズが良くなる場合だけです。優れた即興家は全部の技を見せず、本当に必要な1つを選びます。",
+          "zh-Hans": "最终任务：录下 **3个版本**，保留那个最像小故事的——它要有开头、张力和释放。然后再加一种颜色，比如推弦、颤音，或者更开阔的音程，但前提是它真的让句子更好。优秀的即兴者不会展示所有技巧，他们只会选择最重要的那个。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-16T00:06:36Z",
+  "updatedAt": "2026-04-16T00:06:36Z"
+}

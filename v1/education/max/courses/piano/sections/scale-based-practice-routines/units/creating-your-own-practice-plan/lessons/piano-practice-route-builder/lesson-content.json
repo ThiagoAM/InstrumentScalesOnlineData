@@ -1,0 +1,60 @@
+{
+  "id": "piano-practice-route-builder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick **D major** and plan a **12-minute** piano practice route with three lanes: 4 minutes for clean two-hand scale motion, 4 minutes for a pattern challenge, and 4 minutes for turning the material into music. Write the plan down before you play anything. The point is to stop wandering and start steering.",
+          "pt-BR": "Escolha **Ré maior** e planeje uma rota de estudo de piano de **12 minutos** com três faixas: 4 minutos para movimento limpo de escala com as duas mãos, 4 minutos para um desafio de padrão e 4 minutos para transformar o material em música. Escreva o plano antes de tocar qualquer nota. A ideia é parar de vagar e começar a dirigir.",
+          "es": "Elige **Re mayor** y planifica una ruta de práctica de piano de **12 minutos** con tres carriles: 4 minutos para movimiento limpio de escala con ambas manos, 4 minutos para un reto de patrón y 4 minutos para convertir el material en música. Escribe el plan antes de tocar una sola nota. La idea es dejar de vagar y empezar a dirigir.",
+          "de": "Wähle **D-Dur** und plane eine **12-minütige** Klavier-Übe-Route mit drei Spuren: 4 Minuten für saubere Skalenbewegung mit beiden Händen, 4 Minuten für eine Muster-Challenge und 4 Minuten dafür, das Material in Musik zu verwandeln. Schreib den Plan auf, bevor du überhaupt spielst. Ziel ist es, nicht mehr herumzuirren, sondern bewusst zu steuern.",
+          "ja": "**Dメジャー**を選び、**12分**のピアノ練習ルートを3つのレーンで設計します。4分は両手でのきれいなスケール運動、4分はパターン課題、残り4分はその材料を音楽に変える時間です。1音も弾く前に計画を書き出してください。目的は、なんとなく練習するのをやめて、自分で進路を決めることです。",
+          "zh-Hans": "选择**D大调**，规划一条**12分钟**的钢琴练习路线，分成三条车道：4分钟双手干净音阶运动，4分钟模式挑战，4分钟把材料变成音乐。还没弹任何音之前，先把计划写下来。重点是停止漫游，开始主动驾驶。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 1 is your warm engine. Play D major hands together at a comfortable tempo, but every repeat must have a clear job: one for even tone, one for relaxed thumb crossings, one for softer dynamics, one for stronger top notes. If you cannot name the job, the rep does not count.",
+          "pt-BR": "A faixa 1 é o motor aquecendo. Toque Ré maior com as duas mãos em um andamento confortável, mas cada repetição precisa ter uma função clara: uma para timbre uniforme, uma para passagens de polegar relaxadas, uma para dinâmica mais suave e uma para destacar as notas agudas. Se você não consegue dizer qual é a função, a repetição não vale.",
+          "es": "El carril 1 es tu motor calentando. Toca Re mayor con ambas manos a un tempo cómodo, pero cada repetición debe tener un trabajo claro: una para tono parejo, una para cruces de pulgar relajados, una para dinámica más suave y una para reforzar las notas agudas. Si no puedes nombrar el trabajo, la repetición no cuenta.",
+          "de": "Spur 1 ist dein warmlaufender Motor. Spiele D-Dur mit beiden Händen in bequemem Tempo, aber jede Wiederholung braucht einen klaren Auftrag: eine für gleichmäßigen Klang, eine für entspannte Daumenuntersätze, eine für weichere Dynamik und eine für stärkere Obertöne. Wenn du den Auftrag nicht benennen kannst, zählt die Wiederholung nicht.",
+          "ja": "レーン1はエンジンの暖機運転です。Dメジャーを両手で無理のないテンポで弾きますが、毎回はっきり役割を決めます。ある回は音色をそろえるため、ある回は親指くぐりを楽にするため、ある回はやわらかいダイナミクスのため、ある回は上声を目立たせるためです。役割を言えない反復はノーカウントです。",
+          "zh-Hans": "第1车道是热机阶段。双手用舒服的速度弹D大调，但每一次重复都必须有明确任务：一次追求音色均匀，一次检查拇指穿越是否放松，一次练更柔和的力度，一次突出高声部。如果你说不出这次重复的任务，它就不算数。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 2 is the puzzle lane. Use a simple pattern like **1-2-3-5** going up and **5-3-2-1** coming down, then shift it through the scale with both hands. The challenge is to keep the fingering calm and the rhythm strict while your brain tries to race ahead. Slow and accurate beats fast and messy every time.",
+          "pt-BR": "A faixa 2 é a pista do quebra-cabeça. Use um padrão simples como **1-2-3-5** subindo e **5-3-2-1** descendo, depois desloque isso pela escala com as duas mãos. O desafio é manter o dedilhado calmo e o ritmo rígido enquanto o cérebro tenta correr na frente. Devagar e preciso vence rápido e bagunçado toda vez.",
+          "es": "El carril 2 es el carril del rompecabezas. Usa un patrón simple como **1-2-3-5** al subir y **5-3-2-1** al bajar, y luego muévelo por la escala con ambas manos. El desafío es mantener la digitación tranquila y el ritmo estricto mientras tu cerebro intenta correr por delante. Lento y preciso gana a rápido y desordenado cada vez.",
+          "de": "Spur 2 ist die Rätselspur. Nutze ein einfaches Muster wie **1-2-3-5** aufwärts und **5-3-2-1** abwärts und verschiebe es dann mit beiden Händen durch die Skala. Die Herausforderung ist, das Fingering ruhig und den Rhythmus streng zu halten, während dein Kopf schon nach vorne stürmen will. Langsam und sauber schlägt schnell und chaotisch jedes Mal.",
+          "ja": "レーン2はパズルの道です。上行で**1-2-3-5**、下行で**5-3-2-1**のような単純なパターンを使い、それを両手でスケール全体に移動させます。頭が先に走りたがっても、運指は落ち着いて、リズムは厳密に保つのが課題です。速くて雑より、遅くて正確が毎回勝ちます。",
+          "zh-Hans": "第2车道是谜题阶段。使用简单模式，比如上行**1-2-3-5**、下行**5-3-2-1**，然后双手一起把它推过整条音阶。难点在于，当大脑想冲到前面时，你仍然要让指法平静、节奏严格。慢而准确，每次都赢过快而凌乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane 3 is the music lane. Build a tiny four-bar idea from D major where the left hand plays roots or open fifths and the right hand answers with scale fragments. End the session by rating each lane from 1 to 5 for focus, control, and fun. If one lane scores low twice in a row, redesign the route tomorrow instead of blaming your hands.",
+          "pt-BR": "A faixa 3 é a pista musical. Construa uma pequena ideia de quatro compassos em Ré maior em que a mão esquerda toque tônicas ou quintas abertas e a direita responda com fragmentos de escala. Termine a sessão dando uma nota de 1 a 5 para foco, controle e diversão em cada faixa. Se uma faixa tirar nota baixa duas vezes seguidas, redesenhe a rota amanhã em vez de culpar suas mãos.",
+          "es": "El carril 3 es el carril musical. Construye una idea pequeña de cuatro compases en Re mayor donde la mano izquierda toque tónicas o quintas abiertas y la derecha responda con fragmentos de escala. Termina la sesión puntuando cada carril del 1 al 5 en enfoque, control y diversión. Si un carril puntúa bajo dos veces seguidas, rediseña la ruta mañana en lugar de culpar a tus manos.",
+          "de": "Spur 3 ist die Musikspur. Baue eine kleine vier­taktige Idee in D-Dur, bei der die linke Hand Grundtöne oder offene Quinten spielt und die rechte Hand mit Skalenfragmenten antwortet. Beende die Session, indem du jede Spur von 1 bis 5 in Fokus, Kontrolle und Spaß bewertest. Wenn eine Spur zweimal hintereinander schlecht abschneidet, baue morgen die Route um statt deinen Händen die Schuld zu geben.",
+          "ja": "レーン3は音楽の道です。左手がルートか開放五度を弾き、右手がスケール断片で答える4小節の小さなアイデアをDメジャーで作ります。最後に各レーンを集中、コントロール、楽しさの3項目で1から5まで採点しましょう。同じレーンが2回続けて低得点なら、手を責めるのではなく明日のルートを作り直してください。",
+          "zh-Hans": "第3车道是音乐阶段。用D大调写一个四小节小想法：左手弹根音或空五度，右手用音阶片段作回答。最后给每条车道按专注、控制和乐趣打1到5分。如果某条车道连续两次分数都低，明天就重设计路线，而不是怪罪自己的手。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-22T00:11:03Z",
+  "updatedAt": "2026-06-22T00:11:03Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "scale-lantern-relay-bb-major",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Light the room\n\nUse **Bb major** (Bb C D Eb F G A) over two octaves.\n\nSet the metronome to **78 bpm**. Start hands separately, then hands together.\n\nImagine one hand carrying a lantern while the other hand follows without losing the path.",
+          "pt-BR": "### Acenda a sala\n\nUse **Sib maior** (Bb C D Eb F G A) em duas oitavas.\n\nAjuste o metrônomo para **78 bpm**. Comece mãos separadas, depois mãos juntas.\n\nImagine que uma mão carrega uma lanterna enquanto a outra segue sem perder o caminho.",
+          "es": "### Enciende la sala\n\nUsa **Sib mayor** (Bb C D Eb F G A) en dos octavas.\n\nPon el metrónomo en **78 bpm**. Empieza con manos separadas y luego juntas.\n\nImagina que una mano lleva una linterna y la otra la sigue sin perder el camino.",
+          "de": "### Den Raum erhellen\n\nNutze **B-Dur** (Bb C D Eb F G A) über zwei Oktaven.\n\nStelle das Metronom auf **78 bpm**. Beginne mit getrennten, dann mit beiden Händen.\n\nStell dir vor, eine Hand trägt eine Laterne und die andere folgt, ohne den Weg zu verlieren.",
+          "ja": "### 部屋に明かりをつける\n\n**Bbメジャー**（Bb C D Eb F G A）を2オクターブで使います。\n\nメトロノームは **78 bpm**。まず片手ずつ、次に両手で弾きましょう。\n\n片手がランタンを持ち、もう片手が道を見失わずについていくと想像してください。",
+          "zh-Hans": "### 把房间点亮\n\n使用 **Bb大调**（Bb C D Eb F G A）练两个八度。\n\n把节拍器设为 **78 bpm**。先分手，再双手。\n\n想象一只手提着灯笼，另一只手跟上去，但始终不丢路。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Relay 1: left hand lights first\n\nPlay one full scale with the **left hand slightly louder** than the right.\n\nWatch for:\n- equal rhythm in both hands\n- relaxed thumbs during crossings\n- no collapsing tone in the softer hand\n\nRepeat 4 times. If the quieter hand disappears, reduce the volume gap.",
+          "pt-BR": "### Revezamento 1: a mão esquerda ilumina primeiro\n\nToque uma escala completa com a **mão esquerda um pouco mais forte** que a direita.\n\nObserve:\n- ritmo igual nas duas mãos\n- polegares relaxados nas passagens\n- nenhum colapso de timbre na mão mais suave\n\nRepita 4 vezes. Se a mão mais baixa sumir, diminua a diferença de volume.",
+          "es": "### Relevo 1: la mano izquierda ilumina primero\n\nToca una escala completa con la **mano izquierda un poco más fuerte** que la derecha.\n\nObserva:\n- ritmo igual en ambas manos\n- pulgares relajados en los cruces\n- ningún colapso de sonido en la mano más suave\n\nRepítelo 4 veces. Si la mano más suave desaparece, reduce la diferencia de volumen.",
+          "de": "### Staffel 1: linke Hand führt zuerst\n\nSpiele eine komplette Skala, wobei die **linke Hand etwas lauter** ist als die rechte.\n\nAchte auf:\n- gleiches Timing in beiden Händen\n- lockere Daumen bei den Übersätzen\n- keinen einbrechenden Ton in der leiseren Hand\n\nWiederhole es 4-mal. Wenn die leisere Hand verschwindet, verkleinere den Lautstärkeunterschied.",
+          "ja": "### リレー1：左手が先に照らす\n\n**左手を少し大きめ** にして、1本のスケールを通して弾きます。\n\n見るポイント：\n- 両手のリズムがそろっているか\n- 指くぐりで親指が固まらないか\n- 小さい方の手の音がやせないか\n\n4回繰り返します。弱い手が消えるなら、音量差を少し縮めましょう。",
+          "zh-Hans": "### 第1棒：左手先照亮\n\n弹一遍完整音阶，让 **左手稍微更响一点**。\n\n观察：\n- 两只手节奏是否一样稳\n- 换指时拇指是否放松\n- 较轻的那只手音色是否塌掉\n\n重复 4 次。如果较轻的手直接消失，就缩小力度差。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Relay 2: switch the lantern\n\nNow reverse the balance so the **right hand leads**.\n\nKeep the tempo unchanged and make the handover feel smooth, not dramatic.\n\nThe goal is control, not a volume battle.",
+          "pt-BR": "### Revezamento 2: troque a lanterna\n\nAgora inverta o equilíbrio para que a **mão direita lidere**.\n\nMantenha o mesmo andamento e faça a troca soar suave, não dramática.\n\nO objetivo é controle, não uma briga de volume.",
+          "es": "### Relevo 2: cambia la linterna\n\nAhora invierte el equilibrio para que la **mano derecha lidere**.\n\nMantén el mismo tempo y haz que el cambio se sienta suave, no dramático.\n\nLa meta es control, no una pelea de volumen.",
+          "de": "### Staffel 2: die Laterne wechseln\n\nDrehe nun das Gleichgewicht um, sodass die **rechte Hand führt**.\n\nHalte das Tempo gleich und lass die Übergabe weich statt dramatisch wirken.\n\nDas Ziel ist Kontrolle, nicht ein Lautstärke-Wettkampf.",
+          "ja": "### リレー2：ランタンを渡す\n\n今度はバランスを反転させて、**右手がリード** します。\n\nテンポは変えず、受け渡しが大げさではなく自然に感じられるようにします。\n\n目的はコントロールであって、音量勝負ではありません。",
+          "zh-Hans": "### 第2棒：把灯笼交过去\n\n现在把平衡反过来，让 **右手领奏**。\n\n保持同样速度，让交接听起来顺滑，而不是戏剧化。\n\n目标是控制，不是比谁更响。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Relay 3: pause at the top\n\nPlay the scale up, hold the top note for **one beat**, then come down with both hands even again.\n\nExtra rules:\n1. the leading hand changes on the way down\n2. wrists stay loose at the turn\n3. the first note after the hold must sound calm, not punched\n\nThat tiny pause should reset your focus, not break the line.",
+          "pt-BR": "### Revezamento 3: pause no topo\n\nToque a escala subindo, segure a nota mais aguda por **um tempo** e depois desça com as duas mãos equilibradas novamente.\n\nRegras extras:\n1. a mão que lidera muda na descida\n2. os punhos ficam soltos na virada\n3. a primeira nota depois da pausa deve soar calma, não martelada\n\nEssa pequena pausa deve reiniciar seu foco, não quebrar a linha.",
+          "es": "### Relevo 3: pausa en la cima\n\nToca la escala hacia arriba, sostén la nota más aguda durante **un tiempo**, y luego baja con ambas manos parejas otra vez.\n\nReglas extra:\n1. la mano líder cambia en la bajada\n2. las muñecas siguen sueltas en el giro\n3. la primera nota después de la pausa debe sonar calmada, no golpeada\n\nEsa pequeña pausa debe reiniciar tu enfoque, no romper la línea.",
+          "de": "### Staffel 3: oben kurz anhalten\n\nSpiele die Skala nach oben, halte den höchsten Ton **einen Schlag**, und komme dann wieder gleichmäßig nach unten.\n\nZusatzregeln:\n1. die führende Hand wechselt auf dem Weg nach unten\n2. die Handgelenke bleiben am Wendepunkt locker\n3. der erste Ton nach dem Halten muss ruhig klingen, nicht hart\n\nDiese kleine Pause soll deinen Fokus neu setzen, nicht die Linie zerbrechen.",
+          "ja": "### リレー3：頂上でひと呼吸\n\n上行して最高音を **1拍** 保ち、そのあと両手をまた均等にして下行します。\n\n追加ルール：\n1. 下りではリードする手を入れ替える\n2. 折り返しで手首を固めない\n3. 保ったあとの最初の音は強打ではなく落ち着いて響かせる\n\nこの小さな間は、線を切るためではなく集中をリセットするためのものです。",
+          "zh-Hans": "### 第3棒：在顶点停一下\n\n先上行，到最高音后停 **一拍**，然后双手重新变得均匀地下行。\n\n额外规则：\n1. 下行时换另一只手领奏\n2. 转身时手腕保持放松\n3. 停顿后的第一个音要平静，不要砸出来\n\n这个小停顿应该重置你的专注，而不是把线条切断。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final relay\n\nCreate **three full runs**:\n- run 1 = left hand leads up, right hand leads down\n- run 2 = right hand leads up, left hand leads down\n- run 3 = both hands nearly equal from start to finish\n\nRecord them if possible. Then move the routine to **G minor** and keep the same balance, tone, and calm control. 🎹",
+          "pt-BR": "### Revezamento final\n\nCrie **três execuções completas**:\n- execução 1 = mão esquerda lidera na subida, direita lidera na descida\n- execução 2 = mão direita lidera na subida, esquerda lidera na descida\n- execução 3 = as duas mãos quase iguais do começo ao fim\n\nSe puder, grave. Depois leve a rotina para **Sol menor** e mantenha o mesmo equilíbrio, timbre e controle calmo. 🎹",
+          "es": "### Relevo final\n\nCrea **tres recorridos completos**:\n- recorrido 1 = la izquierda lidera al subir, la derecha lidera al bajar\n- recorrido 2 = la derecha lidera al subir, la izquierda lidera al bajar\n- recorrido 3 = ambas manos casi iguales de principio a fin\n\nSi puedes, grábate. Luego mueve la rutina a **Sol menor** y conserva el mismo equilibrio, sonido y control sereno. 🎹",
+          "de": "### Schluss-Staffel\n\nErzeuge **drei komplette Durchgänge**:\n- Durchgang 1 = links führt nach oben, rechts führt nach unten\n- Durchgang 2 = rechts führt nach oben, links führt nach unten\n- Durchgang 3 = beide Hände fast gleich von Anfang bis Ende\n\nNimm dich wenn möglich auf. Verlege die Routine dann nach **g-Moll** und behalte dieselbe Balance, Klangqualität und ruhige Kontrolle. 🎹",
+          "ja": "### 最終リレー\n\n**3種類の通し演奏** を作りましょう。\n- 1回目 = 上りは左手主導、下りは右手主導\n- 2回目 = 上りは右手主導、下りは左手主導\n- 3回目 = 最初から最後まで両手ほぼ同じ\n\nできれば録音してください。そのあと **Gマイナー** に移しても、同じバランス、音色、落ち着いたコントロールを保てるか試しましょう。🎹",
+          "zh-Hans": "### 最终接力\n\n做出 **三次完整通关**：\n- 第1次 = 上行左手领奏，下行右手领奏\n- 第2次 = 上行右手领奏，下行左手领奏\n- 第3次 = 从头到尾双手几乎一样\n\n如果可以就录下来。然后把整套流程移到 **G小调**，看看还能不能保持同样的平衡、音色和冷静控制。🎹"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-01T00:08:11Z",
+  "updatedAt": "2026-05-01T00:08:11Z"
+}

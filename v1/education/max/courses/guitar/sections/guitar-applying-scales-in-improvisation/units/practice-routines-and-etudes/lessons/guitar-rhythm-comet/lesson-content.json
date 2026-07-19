@@ -1,0 +1,60 @@
+{
+  "id": "guitar-rhythm-comet",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with A minor pentatonic in 5th position. Your mission is to play a **four-note phrase** three times: first as straight eighth notes, then with a long-short swing feel, then with a rest on beat 1 before you answer on beat 2. Keep the notes simple. The challenge is rhythmic shape, not speed.",
+          "pt-BR": "Comece com a pentatônica menor de Lá na 5ª posição. Sua missão é tocar uma **frase de quatro notas** três vezes: primeiro em colcheias retas, depois com sensação swing longa-curta, e depois com pausa no tempo 1 antes da resposta no tempo 2. Mantenha as notas simples. O desafio é o desenho rítmico, não a velocidade.",
+          "es": "Empieza con la pentatónica menor de La en la 5ª posición. Tu misión es tocar una **frase de cuatro notas** tres veces: primero como corcheas rectas, luego con swing largo-corto y después con un silencio en el tiempo 1 antes de responder en el tiempo 2. Mantén las notas simples. El reto es la forma rítmica, no la velocidad.",
+          "de": "Beginne mit der A-Moll-Pentatonik in der 5. Lage. Deine Mission ist, eine **Vier-Noten-Phrase** dreimal zu spielen: zuerst als gerade Achtel, dann mit lang-kurz-Swing und danach mit einer Pause auf Schlag 1, bevor die Antwort auf Schlag 2 kommt. Halte die Töne simpel. Die Herausforderung ist die Rhythmusform, nicht das Tempo.",
+          "ja": "5ポジションのAマイナー・ペンタトニックから始めます。ミッションは**4音フレーズ**を3回弾くこと。1回目はストレートな8分音符、2回目はロング・ショートのスウィング感、3回目は1拍目を休んで2拍目から返答します。音はシンプルで大丈夫。勝負は速さではなくリズムの形です。",
+          "zh-Hans": "从第5把位的A小调五声音阶开始。你的任务是把一个**四音乐句**弹三遍：第一遍用均匀八分音符，第二遍用长短摇摆感，第三遍在第1拍先留空，到第2拍再回答。音可以很简单，真正的挑战是节奏形状，不是速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a **target-note rule**: every phrase must end on either A or C when the backing track feels like Am, and on E when it feels like E7. If you miss the landing, stop, sing the last two notes, and try again. This teaches your ear to hear where the phrase wants to land.",
+          "pt-BR": "Agora acrescente uma **regra de nota-alvo**: toda frase deve terminar em Lá ou Dó quando a base soar como Am, e em Mi quando soar como E7. Se errar a chegada, pare, cante as duas últimas notas e tente de novo. Isso ensina seu ouvido a perceber para onde a frase quer pousar.",
+          "es": "Ahora añade una **regla de nota objetivo**: cada frase debe terminar en La o Do cuando la base suene a Am, y en Mi cuando suene a E7. Si fallas el aterrizaje, detente, canta las dos últimas notas y vuelve a intentarlo. Esto enseña al oído a escuchar hacia dónde quiere caer la frase.",
+          "de": "Füge jetzt eine **Zielton-Regel** hinzu: Jede Phrase muss auf A oder C enden, wenn sich der Track wie Am anfühlt, und auf E, wenn er wie E7 klingt. Wenn du die Landung verfehlst, stopp, singe die letzten zwei Töne und versuche es erneut. So lernt dein Ohr, wohin die Phrase ziehen will.",
+          "ja": "次に**ターゲットノートのルール**を加えます。バッキングがAmっぽいときはAかC、E7っぽいときはEで必ず終わりましょう。着地を外したら止まり、最後の2音を歌ってからもう一度。フレーズがどこへ向かいたがっているかを耳でつかむ練習です。",
+          "zh-Hans": "接着加入**目标音规则**：当伴奏像Am时，每个乐句都要落在A或C；当伴奏像E7时，就要落在E。如果落点失手，先停下，唱出最后两个音，再重新试一次。这会训练你的耳朵听见乐句真正想去的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Level up the comet trail: after each successful phrase, shift to a nearby pentatonic box for the answer phrase. You are allowed only **one position change per answer**. Slide with intention, and avoid panic-fingering. The goal is to connect boxes like one story instead of separate scale islands.",
+          "pt-BR": "Suba o nível da cauda do cometa: depois de cada frase bem-sucedida, mude para um box pentatônico vizinho na frase-resposta. Você só pode fazer **uma mudança de posição por resposta**. Deslize com intenção e evite dedilhado em pânico. A meta é ligar os boxes como uma história só, e não como ilhas separadas.",
+          "es": "Sube de nivel la cola del cometa: después de cada frase exitosa, cambia a una caja pentatónica cercana para la frase de respuesta. Solo puedes hacer **un cambio de posición por respuesta**. Deslízate con intención y evita el pánico de dedos. La meta es conectar las cajas como una sola historia y no como islas separadas.",
+          "de": "Jetzt bekommt der Kometenschweif mehr Power: Nach jeder gelungenen Phrase wechselst du für die Antwort in eine benachbarte Pentatonik-Box. Pro Antwort ist nur **ein Positionswechsel** erlaubt. Rutsche bewusst und vermeide Panik-Fingersätze. Das Ziel ist, die Boxen wie eine zusammenhängende Geschichte zu verbinden.",
+          "ja": "コメットの尾を強化します。うまく弾けたら、返答フレーズでは隣のペンタトニック・ボックスへ移動します。ただし**返答ごとに移動は1回だけ**。慌てた指使いはなし。意図を持ってスライドし、別々の箱ではなく一つの物語としてつなげましょう。",
+          "zh-Hans": "现在给彗星尾巴升级：每次乐句成功后，回答句都切到相邻的一个五声音阶把位。但**每个回答只能换一次把位**。带着目的去滑音，不要慌乱找指型。目标是把各个把位连成一个故事，而不是一座座孤岛。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final round: record 60 seconds of improvisation with three rules—change rhythm every two bars, land on a target note at the end of bar 4 and 8, and leave at least one full beat of silence somewhere in the chorus. Listen back and ask: did the rhythm changes create excitement, or just confusion? Clean storytelling beats busy playing every time.",
+          "pt-BR": "Rodada final: grave 60 segundos de improviso com três regras — mude o ritmo a cada dois compassos, termine em uma nota-alvo no fim dos compassos 4 e 8, e deixe pelo menos um tempo inteiro de silêncio em algum ponto do refrão. Ouça de volta e pergunte: as mudanças rítmicas criaram emoção ou só confusão? Narrativa limpa vence tocar ocupado.",
+          "es": "Ronda final: graba 60 segundos de improvisación con tres reglas: cambia el ritmo cada dos compases, aterriza en una nota objetivo al final de los compases 4 y 8, y deja al menos un tiempo completo de silencio en algún momento del estribillo. Escucha de nuevo y pregúntate: ¿los cambios rítmicos crearon emoción o solo confusión? Una historia clara siempre gana.",
+          "de": "Schlussrunde: Nimm 60 Sekunden Improvisation mit drei Regeln auf — wechsle alle zwei Takte den Rhythmus, lande am Ende von Takt 4 und 8 auf einem Zielton und lass irgendwo im Chorus mindestens einen ganzen Schlag Stille. Höre danach zurück und frage dich: Haben die Rhythmuswechsel Spannung erzeugt oder nur Chaos? Klare Erzählung schlägt hektisches Spielen.",
+          "ja": "最終ラウンドでは60秒の即興を録音します。ルールは3つ。2小節ごとにリズムを変えること、4小節目と8小節目の終わりをターゲットノートで締めること、そしてサビのどこかで丸1拍ぶん休むこと。聴き返して、リズム変化はワクワクを作ったか、それとも混乱だけだったかを確認しましょう。忙しさより、伝わる物語です。",
+          "zh-Hans": "最后一轮：录下60秒即兴，并遵守三条规则——每两小节换一次节奏，第4和第8小节结尾必须落在目标音上，并且在副歌某处留出整整一拍的沉默。回听时问自己：这些节奏变化带来了兴奋感，还是只是制造了混乱？清楚的叙事永远比忙乱的炫技更强。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-19T00:08:38Z",
+  "updatedAt": "2026-06-19T00:08:38Z"
+}

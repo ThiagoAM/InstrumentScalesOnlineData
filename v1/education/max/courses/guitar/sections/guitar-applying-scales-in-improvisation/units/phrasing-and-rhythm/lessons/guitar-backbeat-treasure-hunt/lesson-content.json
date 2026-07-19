@@ -1,0 +1,60 @@
+{
+  "id": "guitar-backbeat-treasure-hunt",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mission setup\nTurn your scale practice into a treasure hunt. Stay in **A Dorian** around 5th position and treat beats **2 and 4** like glowing targets. The goal is not more notes — it is better timing and stronger phrasing.",
+          "pt-BR": "# Preparando a missão\nTransforme o estudo de escalas em uma caça ao tesouro. Fique em **Lá dórico** na região da 5ª posição e trate os tempos **2 e 4** como alvos brilhando. O objetivo não é tocar mais notas, e sim ter mais timing e fraseado.",
+          "es": "# Preparación de la misión\nConvierte tu práctica de escalas en una búsqueda del tesoro. Quédate en **La dórico** alrededor de la quinta posición y trata los tiempos **2 y 4** como objetivos brillantes. La meta no es tocar más notas, sino tocar con mejor tiempo y mejor fraseo.",
+          "de": "# Mission vorbereiten\nMach aus deinem Skalenüben eine Schatzsuche. Bleib in **A-Dorisch** rund um die 5. Lage und behandle die Zählzeiten **2 und 4** wie leuchtende Ziele. Es geht nicht um mehr Töne, sondern um besseres Timing und stärkeres Phrasing.",
+          "ja": "# ミッション開始\n今日のスケール練習は宝探しです。**Aドリアン**を5ポジション付近で使い、**2拍目と4拍目**を光るターゲットだと思ってください。目的は音数を増やすことではなく、タイム感とフレージングを良くすることです。",
+          "zh-Hans": "# 任务开始\n把今天的音阶练习变成一场寻宝游戏。使用**A多利亚**，停留在第5把位附近，把**第2拍和第4拍**当成会发光的目标。重点不是弹更多音，而是让节奏和乐句更扎实。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Round 1 – Hit the target\nUse a metronome or drum loop. Play short A Dorian phrases and make your **strongest accent** land on beat **2** or **4** every time. Start with quarter notes, then move to eighth notes without rushing.",
+          "pt-BR": "# Rodada 1 – Acerte o alvo\nUse um metrônomo ou loop de bateria. Toque frases curtas em Lá dórico e faça seu **acento mais forte** cair sempre no tempo **2** ou **4**. Comece com semínimas e depois passe para colcheias sem correr.",
+          "es": "# Ronda 1 – Da en el blanco\nUsa un metrónomo o una base de batería. Toca frases cortas en La dórico y haz que tu **acento más fuerte** caiga siempre en el tiempo **2** o **4**. Empieza con negras y luego pasa a corcheas sin acelerar.",
+          "de": "# Runde 1 – Ziel treffen\nNutze ein Metronom oder einen Drum-Loop. Spiele kurze Phrasen in A-Dorisch und lass deinen **stärksten Akzent** jedes Mal auf **2** oder **4** landen. Starte mit Vierteln und wechsle dann zu Achteln, ohne zu hetzen.",
+          "ja": "# ラウンド1 – 的を当てる\nメトロノームかドラムループを使います。Aドリアンで短いフレーズを弾き、**いちばん強いアクセント**が毎回 **2拍目** か **4拍目** に来るようにします。まずは4分音符、そのあと8分音符でも急がずに続けます。",
+          "zh-Hans": "# 第一轮 – 击中目标\n打开节拍器或鼓循环。用A多利亚弹短句，并让你**最强的重音**每次都落在**第2拍**或**第4拍**。先用四分音符，再用八分音符，但不要抢拍。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Round 2 – Hide a rest\nPlay 3–5 notes, then insert a **rest** before the next target beat. The silence should create suspense, so the next note feels like a clean landing instead of random motion.",
+          "pt-BR": "# Rodada 2 – Esconda uma pausa\nToque de 3 a 5 notas e depois coloque uma **pausa** antes do próximo tempo-alvo. O silêncio deve criar suspense para a nota seguinte soar como uma chegada limpa, e não como movimento aleatório.",
+          "es": "# Ronda 2 – Esconde un silencio\nToca 3–5 notas y luego inserta un **silencio** antes del siguiente tiempo objetivo. Ese silencio debe crear tensión para que la nota siguiente se sienta como una llegada clara, no como movimiento al azar.",
+          "de": "# Runde 2 – Eine Pause verstecken\nSpiele 3–5 Töne und setze dann eine **Pause** vor die nächste Zielzählzeit. Die Stille soll Spannung erzeugen, damit sich der nächste Ton wie eine klare Landung anfühlt und nicht wie Zufallsbewegung.",
+          "ja": "# ラウンド2 – 休符を隠す\n3〜5音弾いたら、次のターゲット拍の前に**休符**を入れます。その静けさで少し緊張感を作り、次の音がただの動きではなく、きれいな着地に聞こえるようにします。",
+          "zh-Hans": "# 第二轮 – 藏一个停顿\n先弹3到5个音，然后在下一个目标拍之前加入一个**休止**。这个空白要制造一点悬念，让后面的音听起来像稳稳落地，而不是随便滑过去。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Boss battle\nRecord a **4-bar solo** over an A Dorian vamp. Every bar must acknowledge beat 2 or 4, at least one phrase must use a rest, and the last bar must sound like a real ending. If that feels easy, raise the tempo by 5 bpm and do it again.",
+          "pt-BR": "# Chefão\nGrave um **solo de 4 compassos** sobre um vamp em Lá dórico. Todo compasso precisa reconhecer o tempo 2 ou 4, pelo menos uma frase precisa usar pausa, e o último compasso deve soar como final de verdade. Se ficar fácil, suba 5 bpm e faça de novo.",
+          "es": "# Jefe final\nGraba un **solo de 4 compases** sobre un vamp de La dórico. Cada compás debe reconocer el tiempo 2 o 4, al menos una frase debe usar un silencio, y el último compás debe sonar como un final real. Si se siente fácil, sube 5 bpm y repítelo.",
+          "de": "# Bosskampf\nNimm ein **4-taktiges Solo** über einen A-Dorisch-Vamp auf. Jeder Takt muss Zählzeit 2 oder 4 spürbar machen, mindestens eine Phrase muss eine Pause enthalten, und der letzte Takt soll wie ein echtes Ende klingen. Wenn das leicht ist, erhöhe das Tempo um 5 bpm und wiederhole es.",
+          "ja": "# ボスバトル\nAドリアンのヴァンプで**4小節のソロ**を録音してください。各小節で2拍目か4拍目を感じさせること、少なくとも1つのフレーズで休符を使うこと、最後の小節をちゃんと終止感のある形にすることが条件です。簡単ならテンポを5 bpm上げてもう一度。",
+          "zh-Hans": "# Boss挑战\n在A多利亚的vamp上录一个**4小节独奏**。每一小节都要让人听到第2拍或第4拍，至少有一个乐句要用休止，最后一小节要像真正结束，而不是逃走。如果太轻松，就把速度提高5 bpm再来一次。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-12T00:07:25Z",
+  "updatedAt": "2026-06-12T00:07:25Z"
+}

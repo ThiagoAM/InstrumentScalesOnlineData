@@ -1,0 +1,73 @@
+{
+  "id": "guitar-solo-slingshot-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a backing track in **D minor** and pick one tiny phrase of only **three notes**. Play it twice exactly, then change only the ending note on the third pass. You are teaching your hands that even a small scale fragment can become a real solo idea when the landing is intentional.",
+          "pt-BR": "Comece com um playback em **Ré menor** e escolha uma frasezinha de apenas **três notas**. Toque-a duas vezes exatamente igual e, na terceira, mude só a nota final. Você está ensinando suas mãos que até um pequeno fragmento da escala pode virar uma ideia real de solo quando a chegada é intencional.",
+          "es": "Empieza con una base en **Re menor** y elige una frase pequeña de solo **tres notas**. Tócala dos veces exactamente igual y cambia solo la nota final en la tercera vuelta. Así enseñas a tus manos que incluso un fragmento mínimo de escala puede convertirse en una idea real de solo cuando el aterrizaje es intencional.",
+          "de": "Starte mit einem Backing-Track in **d-Moll** und wähle eine winzige Phrase aus nur **drei Tönen**. Spiele sie zweimal exakt gleich und ändere beim dritten Durchgang nur den Schlusston. So lernen deine Hände, dass selbst ein kleines Skalenfragment zu einer echten Solo-Idee werden kann, wenn die Landung bewusst gesetzt ist.",
+          "ja": "まず **Dマイナー** のバッキングを流し、**3音だけ** の小さなフレーズを選びます。それを2回まったく同じように弾き、3回目だけ最後の音を変えてください。こうすることで、ほんの小さなスケール断片でも、着地点がはっきりしていれば本物のソロ素材になると手に覚えさせられます。",
+          "zh-Hans": "先打开一个 **D小调** 伴奏，只选一个 **三音** 的小乐句。连续两次完全一样地弹，第三次只改变最后一个音。这样是在训练你的双手明白：哪怕只是很小的音阶碎片，只要落点明确，也能变成真正的独奏素材。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now build the slingshot: begin on a safe note like **D** or **F**, jump to a more tense note such as **B♭** or **C**, then return to a chord tone before the bar ends. Think of it like stretching a rubber band and releasing it at the perfect moment. Tension is fun when the listener can hear where home is.",
+          "pt-BR": "Agora monte o estilingue: comece em uma nota segura como **D** ou **F**, salte para uma nota mais tensa como **B♭** ou **C** e volte para uma nota do acorde antes do compasso terminar. Pense nisso como esticar um elástico e soltá-lo no momento perfeito. A tensão é divertida quando o ouvinte percebe onde fica a casa.",
+          "es": "Ahora construye el tirachinas: empieza en una nota segura como **D** o **F**, salta a una nota con más tensión como **B♭** o **C** y vuelve a un tono del acorde antes de terminar el compás. Es como estirar una banda elástica y soltarla en el momento exacto. La tensión es divertida cuando el oyente oye claramente dónde está el hogar.",
+          "de": "Baue jetzt die Schleuder: Beginne auf einem sicheren Ton wie **D** oder **F**, springe zu einem spannenderen Ton wie **B♭** oder **C** und kehre vor dem Taktende zu einem Akkordton zurück. Stell dir vor, du ziehst ein Gummiband auf und lässt es im perfekten Moment los. Spannung macht Spaß, wenn der Zuhörer trotzdem hört, wo das Zuhause liegt.",
+          "ja": "次はスリングショット作りです。**D** や **F** のような安定音から始め、**B♭** や **C** のような少し緊張感のある音へ跳び、1小節の終わりまでにコードトーンへ戻ります。ゴムを引っ張ってぴたりと放す感覚です。聴き手が「帰る場所」を感じられると、テンションはぐっと面白くなります。",
+          "zh-Hans": "接着搭建“弹弓”动作：从 **D** 或 **F** 这样的安全音出发，跳到 **B♭** 或 **C** 这样更有张力的音，再在小节结束前回到一个和弦音。把它想成把橡皮筋拉开，再在最对的时候松手。只要听众听得出“家”在哪里，张力就会变得很好玩。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For round two, keep the same pitch set but change the **rhythm only**. Try one version with a long note up front, one with a rest on beat one, and one that answers late in the bar. Great guitar phrasing is not just note choice; it is how confidently you place those notes in time.",
+          "pt-BR": "Na segunda rodada, mantenha o mesmo grupo de alturas, mas mude **apenas o ritmo**. Faça uma versão com nota longa no começo, outra com pausa no tempo 1 e outra respondendo tarde no compasso. Um bom fraseado de guitarra não depende só das notas; depende de como você as coloca no tempo com convicção.",
+          "es": "En la segunda ronda, conserva el mismo grupo de notas pero cambia **solo el ritmo**. Haz una versión con nota larga al inicio, otra con silencio en el primer pulso y otra que responda tarde en el compás. El gran fraseo de guitarra no es solo elección de notas; también es colocarlas en el tiempo con seguridad.",
+          "de": "In Runde zwei behältst du dieselben Töne, änderst aber **nur den Rhythmus**. Spiele eine Version mit langem Anfangston, eine mit Pause auf Schlag eins und eine, die erst spät im Takt antwortet. Großartige Gitarren-Phrasierung ist nicht nur Notenauswahl, sondern auch die selbstbewusste Platzierung dieser Töne in der Zeit.",
+          "ja": "第2ラウンドでは、使う音はそのままで **リズムだけ** を変えます。最初をロングトーンにする版、1拍目を休符にする版、小節の後半で返事をする版を試しましょう。優れたギターのフレージングは音選びだけでなく、その音をどれだけ自信を持って時間の中に置けるかでも決まります。",
+          "zh-Hans": "第二轮保持同一组音高，但 **只改变节奏**。试一版开头是长音，一版第一拍留空，一版在小节后半段才回答。优秀的吉他乐句不只是会选音，更在于你能多自信地把这些音放进时间里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, move the phrase to a **new position** on the neck without changing its musical job. If the first version felt like a question, make the shifted version feel like the same question spoken from another part of the stage. This trains you to connect scale shapes instead of treating each box like a locked room.",
+          "pt-BR": "Depois, mova a frase para uma **nova posição** no braço sem mudar sua função musical. Se a primeira versão parecia uma pergunta, faça a versão deslocada soar como a mesma pergunta dita de outro canto do palco. Isso treina você a conectar shapes de escala em vez de tratar cada box como uma sala trancada.",
+          "es": "Luego mueve la frase a una **nueva posición** del mástil sin cambiar su función musical. Si la primera versión sonaba como una pregunta, haz que la versión desplazada suene como la misma pregunta hablada desde otro lado del escenario. Esto te entrena para conectar shapes de escala en vez de tratar cada caja como una habitación cerrada.",
+          "de": "Verschiebe die Phrase danach in eine **neue Lage** auf dem Griffbrett, ohne ihre musikalische Aufgabe zu verändern. Wenn die erste Version wie eine Frage klang, soll die verschobene Version wie dieselbe Frage von einer anderen Bühnenseite klingen. So verbindest du Skalenformen, statt jede Box wie einen abgeschlossenen Raum zu behandeln.",
+          "ja": "次に、そのフレーズをネックの **別のポジション** へ移しても、音楽的な役割は変えないようにします。最初の版が「問いかけ」なら、移動後も同じ問いを別の場所から話している感じにしてください。これでスケールの形同士がつながり、各ボックスを別々の部屋として扱わなくなります。",
+          "zh-Hans": "然后把这条乐句移到指板上的 **新把位**，但不要改变它的音乐任务。如果第一版像在提问，换把后的版本也应该像是同一个问题，只是从舞台另一侧说出来。这样能训练你连接不同音阶盒形，而不是把每个把位都当成封闭房间。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: record **three mini solos** of four bars each. In every take, include one slingshot move, one rhythmic surprise, and one strong landing on a chord tone. Keep the version that sounds the most like a story rather than an exercise, because that is the whole point of scale practice.",
+          "pt-BR": "Missão final: grave **três mini solos** de quatro compassos. Em cada take, inclua um movimento de estilingue, uma surpresa rítmica e uma chegada forte em nota do acorde. Guarde a versão que soar mais como história do que como exercício, porque esse é o verdadeiro objetivo do estudo de escalas.",
+          "es": "Misión final: graba **tres mini solos** de cuatro compases. En cada toma incluye un movimiento de tirachinas, una sorpresa rítmica y un aterrizaje fuerte en un tono del acorde. Quédate con la versión que suene más a historia que a ejercicio, porque ese es el verdadero objetivo de practicar escalas.",
+          "de": "Letzte Mission: Nimm **drei Mini-Soli** mit je vier Takten auf. In jedem Take muss ein Schleuder-Moment, eine rhythmische Überraschung und eine starke Landung auf einem Akkordton vorkommen. Behalte die Version, die mehr nach Geschichte als nach Übung klingt, denn genau darum geht es beim Skalenüben.",
+          "ja": "最後のミッションは、4小節の **ミニソロを3本** 録音することです。毎回、スリングショット動作を1回、リズムの意外性を1回、コードトーンへの強い着地を1回入れてください。練習っぽさより物語っぽさが強いテイクを残しましょう。それこそがスケール練習の目的です。",
+          "zh-Hans": "最终任务：录下 **3个四小节迷你独奏**。每一版都要包含一次弹弓动作、一次节奏惊喜和一次强力落在和弦音上的收束。留下那个最像故事、最不像纯练习的版本，因为那才是音阶训练真正的意义。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-11T00:07:36Z",
+  "updatedAt": "2026-06-11T00:07:36Z"
+}

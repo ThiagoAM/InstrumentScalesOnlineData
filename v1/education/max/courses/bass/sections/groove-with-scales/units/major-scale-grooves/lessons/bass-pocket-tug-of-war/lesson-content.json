@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-tug-of-war",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson is a **tug-of-war** between your time feel and your urge to overplay. Work in **E major** over **E - C#m - A - B** at **80-96 BPM**. Your mission is to pull the groove forward with anticipations, then pull it back with silence and longer notes without ever losing the center.",
+          "pt-BR": "Esta lição é um **cabo de guerra** entre sua noção de tempo e a vontade de tocar demais. Trabalhe em **Mi maior** sobre **E - C#m - A - B** entre **80-96 BPM**. Sua missão é puxar o groove para frente com antecipações e depois trazê-lo de volta com silêncio e notas mais longas, sem nunca perder o centro.",
+          "es": "Esta lección es un **tira y afloja** entre tu pulso interno y tus ganas de tocar demasiado. Trabaja en **Mi mayor** sobre **E - C#m - A - B** a **80-96 BPM**. Tu misión es empujar el groove hacia delante con anticipaciones y luego traerlo de vuelta con silencio y notas largas sin perder nunca el centro.",
+          "de": "Diese Lektion ist ein **Seilziehen** zwischen deinem Zeitgefühl und dem Drang, zu viel zu spielen. Arbeite in **E-Dur** über **E - C#m - A - B** bei **80-96 BPM**. Deine Aufgabe ist es, den Groove mit Vorziehern nach vorne zu ziehen und ihn dann mit Stille und längeren Noten wieder zurückzuholen, ohne jemals das Zentrum zu verlieren.",
+          "ja": "このレッスンは、あなたのタイム感と弾きすぎたい衝動の**綱引き**です。**Eメジャー**で **E - C#m - A - B** を使い、**80〜96 BPM**で練習します。ミッションは、食いでグルーヴを前に引っ張り、休符と長い音でそれを後ろへ戻しながら、中心を失わないことです。",
+          "zh-Hans": "这节课是一场你对时间感与“想多弹一点”冲动之间的**拔河**。在 **E大调** 中，配合 **E - C#m - A - B**，以 **80-96 BPM** 练习。你的任务是先用抢拍把律动往前拉，再用休止和长音把它拉回来，同时始终不丢掉中心。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set three non-negotiable rules:\n- beat **1** must sound undeniable\n- one note per bar may arrive early as an anticipation\n- one moment per bar must create space instead of filling it\n\nUse scale notes between chord tones, but only if they help the line breathe. Busy notes that do not improve the pocket are just luggage.",
+          "pt-BR": "Defina três regras inegociáveis:\n- o tempo **1** precisa soar inquestionável\n- uma nota por compasso pode chegar antes como antecipação\n- um momento por compasso deve criar espaço em vez de preenchê-lo\n\nUse notas da escala entre os tons do acorde, mas só se elas ajudarem a linha a respirar. Notas agitadas que não melhoram o pocket são só bagagem.",
+          "es": "Define tres reglas no negociables:\n- el tiempo **1** debe sonar indiscutible\n- una nota por compás puede llegar antes como anticipación\n- un momento por compás debe crear espacio en lugar de rellenarlo\n\nUsa notas de la escala entre los tonos del acorde, pero solo si ayudan a que la línea respire. Las notas ocupadas que no mejoran el pocket son equipaje.",
+          "de": "Lege drei unverhandelbare Regeln fest:\n- Schlag **1** muss unbestreitbar klingen\n- eine Note pro Takt darf als Vorzieher zu früh kommen\n- ein Moment pro Takt muss Raum schaffen statt ihn zu füllen\n\nNutze Skalentöne zwischen den Akkordtönen, aber nur wenn sie der Linie beim Atmen helfen. Beschäftigte Noten ohne Nutzen für den Pocket sind nur Gepäck.",
+          "ja": "次の3つを絶対ルールにしてください。\n- **1拍目**は疑いようなく明確にする\n- 1小節につき1音だけ先取りで入ってよい\n- 1小節につき1か所は埋めずに空間を作る\n\nコードトーンの間にスケール音を使ってもかまいませんが、ラインが呼吸できる場合だけです。ポケットを良くしない忙しい音はただの荷物です。",
+          "zh-Hans": "设定三个不可谈判的规则：\n- **第1拍**必须非常明确\n- 每小节只能有一个音提前进入作为抢拍\n- 每小节必须有一个时刻是制造空间而不是填满空间\n\n你可以在和弦音之间使用音阶音，但前提是它们真的让乐句更会呼吸。不能改善律动的忙碌音符只是负担。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **anchor round**. Build a two-bar groove that always nails the root or fifth on beat 1. After that, allow one anticipation before the next chord. If the anticipation feels exciting but the landing feels weak, the groove is showing off instead of supporting the band.",
+          "pt-BR": "A Rodada 1 é a **rodada da âncora**. Monte um groove de dois compassos que sempre acerte a tônica ou a quinta no tempo 1. Depois disso, permita uma antecipação antes do próximo acorde. Se a antecipação parece empolgante mas a chegada parece fraca, o groove está querendo aparecer em vez de sustentar a banda.",
+          "es": "La Ronda 1 es la **ronda del ancla**. Construye un groove de dos compases que siempre aterrice en la tónica o la quinta en el tiempo 1. Después de eso, permite una anticipación antes del siguiente acorde. Si la anticipación suena emocionante pero la llegada suena débil, el groove está presumiendo en lugar de sostener a la banda.",
+          "de": "Runde 1 ist die **Ankerrunde**. Baue einen zweitaktigen Groove, der auf Schlag 1 immer den Grundton oder die Quinte sauber trifft. Danach ist ein Vorzieher vor dem nächsten Akkord erlaubt. Wenn der Vorzieher aufregend wirkt, die Landung aber schwach klingt, will der Groove angeben statt die Band zu tragen.",
+          "ja": "ラウンド1は**アンカー・ラウンド**です。1拍目で必ずルートか5度に着地する2小節グルーヴを作りましょう。その後で次のコードへ入る前に1回だけ食いを許します。食いが派手でも着地が弱いなら、そのグルーヴはバンドを支える代わりに目立ちたがっています。",
+          "zh-Hans": "第1轮是**锚点轮**。做一个两小节律动，保证每次第1拍都牢牢落在主音或五度上。之后你可以在下一个和弦前加入一次抢拍。如果抢拍听起来很刺激，但落点很虚弱，那说明这个律动是在炫技，而不是在支撑乐队。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **rope-snap round**. Now add one full rest in each bar and let the following note arrive with conviction. Alternate between short, popped scale steps and longer sustained chord tones. You are learning that tension only works when release is just as clear.",
+          "pt-BR": "A Rodada 2 é a **rodada do estalo da corda**. Agora adicione uma pausa completa em cada compasso e faça a nota seguinte chegar com convicção. Alterne entre passos curtos de escala e notas mais longas do acorde. Você está aprendendo que a tensão só funciona quando o alívio também é claro.",
+          "es": "La Ronda 2 es la **ronda del chasquido de cuerda**. Ahora añade un silencio completo en cada compás y haz que la nota siguiente llegue con convicción. Alterna entre pasos cortos de la escala y tonos del acorde más largos. Estás aprendiendo que la tensión solo funciona cuando la liberación también está clara.",
+          "de": "Runde 2 ist die **Schnapprunde**. Füge jetzt in jedem Takt eine volle Pause hinzu und lasse den nächsten Ton mit Überzeugung einsetzen. Wechsle zwischen kurzen Skalen-Schritten und länger gehaltenen Akkordtönen. Du lernst, dass Spannung nur dann funktioniert, wenn die Entspannung genauso klar ist.",
+          "ja": "ラウンド2は**ロープがはじけるラウンド**です。各小節に完全な休符を1回入れ、その次の音を確信を持って出します。短いスケール進行と長く伸ばすコードトーンを交互に使ってください。緊張が機能するのは、解放も同じくらい明確なときだけだと学ぶ段階です。",
+          "zh-Hans": "第2轮是**绳索弹回轮**。现在每小节加入一个完整休止，并让后面的音自信地进入。交替使用短促的音阶级进和较长的和弦音。你正在学习：紧张感只有在释放也同样清楚时才真正有效。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **captain round**. Record **45 seconds** and listen back as if you were the drummer. Ask whether the line makes the beat easier to trust. If the groove feels clever but harder to dance to, simplify the fill material until the body wins the argument.",
+          "pt-BR": "A Rodada 3 é a **rodada do capitão**. Grave **45 segundos** e escute como se você fosse o baterista. Pergunte se a linha faz o pulso parecer mais confiável. Se o groove estiver esperto demais e menos dançante, simplifique o material de preenchimento até o corpo vencer a discussão.",
+          "es": "La Ronda 3 es la **ronda del capitán**. Graba **45 segundos** y escucha como si fueras el baterista. Pregunta si la línea hace que el pulso sea más fácil de confiar. Si el groove suena ingenioso pero menos bailable, simplifica el material de relleno hasta que el cuerpo gane la discusión.",
+          "de": "Runde 3 ist die **Kapitänsrunde**. Nimm **45 Sekunden** auf und höre so zu, als wärst du der Drummer. Frage dich, ob die Linie den Beat vertrauenswürdiger macht. Wenn der Groove clever, aber schlechter tanzbar klingt, vereinfache das Füllmaterial, bis der Körper die Debatte gewinnt.",
+          "ja": "ラウンド3は**キャプテン・ラウンド**です。**45秒**録音し、自分がドラマーだと思って聴き返してください。そのラインがビートを信じやすくしているかを確認します。グルーヴが賢そうでも踊りにくいなら、身体が勝つまでフィル素材を簡単にしてください。",
+          "zh-Hans": "第3轮是**队长轮**。录下 **45 秒**，然后像鼓手一样回听。问问自己，这条线是否让节拍更值得信任。如果律动听起来聪明却更难跳舞，就把填充内容简化，直到身体赢下这场争论。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with three checks:\n- Did the anticipations create lift or just hurry?\n- Did the rests deepen the pocket or break momentum?\n- Could you outline the progression even with fewer notes?\n\nA strong bass line does not win by stuffing every gap. It wins by making every pull against the beat feel intentional and every return feel inevitable.",
+          "pt-BR": "Termine com três checagens:\n- As antecipações criaram impulso ou só pressa?\n- As pausas aprofundaram o pocket ou quebraram o fluxo?\n- Você conseguia mostrar a progressão mesmo com menos notas?\n\nUma linha forte de baixo não vence preenchendo cada espaço. Ela vence quando cada puxão contra o tempo soa intencional e cada volta soa inevitável.",
+          "es": "Termina con tres comprobaciones:\n- ¿Las anticipaciones crearon impulso o solo prisa?\n- ¿Los silencios profundizaron el pocket o rompieron el movimiento?\n- ¿Podías marcar la progresión incluso con menos notas?\n\nUna gran línea de bajo no gana llenando todos los huecos. Gana cuando cada tirón contra el pulso suena intencional y cada regreso suena inevitable.",
+          "de": "Beende die Lektion mit drei Prüfungen:\n- Haben die Vorzieher Auftrieb erzeugt oder nur Eile?\n- Haben die Pausen den Pocket vertieft oder den Fluss zerstört?\n- Konntest du die Akkordfolge auch mit weniger Noten klar zeigen?\n\nEine starke Basslinie gewinnt nicht, indem sie jede Lücke stopft. Sie gewinnt, wenn jeder Zug gegen den Beat absichtlich klingt und jede Rückkehr unvermeidlich wirkt.",
+          "ja": "最後に3つ確認します。\n- 食いは推進力を作ったか、それともただ急いだだけか\n- 休符はポケットを深くしたか、それとも流れを切ったか\n- 音数を減らしても進行を示せたか\n\n強いベースラインは、すべての隙間を埋めて勝つのではありません。拍に逆らう引っ張りが意図的に聞こえ、戻りが必然に聞こえるときに勝つのです。",
+          "zh-Hans": "最后做三个检查：\n- 抢拍带来了推动感，还是只是显得着急？\n- 休止让律动更深，还是打断了流动？\n- 就算减少音符，你还能清楚勾勒和弦进行吗？\n\n强大的贝斯线不是靠把每个空隙都塞满来获胜。它是在每次对抗节拍的拉扯都听起来有意图、每次回归都听起来不可避免时获胜。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-20T00:08:09Z",
+  "updatedAt": "2026-06-20T00:08:09Z"
+}

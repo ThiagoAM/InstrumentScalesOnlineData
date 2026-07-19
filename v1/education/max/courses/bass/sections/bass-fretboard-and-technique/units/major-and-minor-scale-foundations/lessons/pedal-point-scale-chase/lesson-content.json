@@ -1,0 +1,86 @@
+{
+  "id": "pedal-point-scale-chase",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today the bass gets to be stubborn in the best way. Hold onto **A** like a magnet and let the rest of the **A major** scale dance around it so your groove stays grounded.",
+          "pt-BR": "Hoje o baixo vai ser teimoso do melhor jeito. Segure o **Lá** como um ímã e deixe o resto da escala de **Lá maior** dançar ao redor dele para que o groove fique aterrado.",
+          "es": "Hoy el bajo será terco de la mejor manera. Agárrate al **La** como si fuera un imán y deja que el resto de la escala de **La mayor** baile a su alrededor para que el groove permanezca firme.",
+          "de": "Heute darf der Bass auf die beste Weise stur sein. Halte das **A** wie einen Magneten fest und lass den Rest der **A-Dur**-Tonleiter darum tanzen, damit dein Groove geerdet bleibt.",
+          "ja": "今日はベースが最高の意味で頑固になる日だ。**A** を磁石のように保ち、残りの **Aメジャー** スケールをその周りで踊らせて、グルーヴを地面にしっかり固定しよう。",
+          "zh-Hans": "今天的贝斯要以最好的方式“固执”一点。牢牢抓住 **A** 这个磁铁，让其余 **A大调** 音阶音围着它跳舞，这样你的律动才会稳稳落地。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: play low **A** on the 5th fret of the E string, then answer with **B-C#-D** on the next beats. Repeat four times and keep every A equally strong, not louder.",
+          "pt-BR": "Aquecimento: toque o **Lá** grave na 5ª casa da corda Mi e responda com **B-C#-D** nos tempos seguintes. Repita quatro vezes e mantenha cada Lá igualmente firme, não mais alto.",
+          "es": "Calentamiento: toca el **La** grave en el 5º traste de la cuerda Mi y responde con **B-C#-D** en los siguientes pulsos. Repite cuatro veces y mantén cada La igual de sólido, no más fuerte.",
+          "de": "Aufwärmen: spiele das tiefe **A** im 5. Bund der E-Saite und antworte auf den nächsten Zählzeiten mit **B-C#-D**. Wiederhole das viermal und halte jedes A gleich präsent, nicht lauter.",
+          "ja": "ウォームアップ：E弦5フレットの低い **A** を弾き、次の拍で **B-C#-D** を返す。これを4回繰り返し、どのAも大きくするのではなく同じ強さで保つ。",
+          "zh-Hans": "热身：弹E弦5品的低音 **A**，然后在后续拍子上回应 **B-C#-D**。重复四次，让每个A都一样扎实，而不是更大声。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Chase drill: use this 1-bar pattern in eighth notes at **84 bpm**: **A-B-C#-A | D-C#-B-A**. Let the last A ring a little longer so your ear hears the pedal point doing its job.",
+          "pt-BR": "Exercício de perseguição: use este padrão de 1 compasso em colcheias a **84 bpm**: **A-B-C#-A | D-C#-B-A**. Deixe o último Lá soar um pouco mais para o ouvido perceber o pedal trabalhando.",
+          "es": "Ejercicio de persecución: usa este patrón de 1 compás en corcheas a **84 bpm**: **A-B-C#-A | D-C#-B-A**. Deja que el último La suene un poco más para que el oído note el pedal trabajando.",
+          "de": "Jagd-Drill: spiele dieses 1-Takt-Muster in Achteln bei **84 bpm**: **A-B-C#-A | D-C#-B-A**. Lass das letzte A etwas länger klingen, damit dein Ohr hört, wie der Pedalton arbeitet.",
+          "ja": "チェイス練習：**84 bpm** の8分音符でこの1小節パターンを使う：**A-B-C#-A | D-C#-B-A**。最後のAは少し長めに伸ばし、ペダルポイントの役割を耳で感じよう。",
+          "zh-Hans": "追逐练习：用 **84 bpm** 的八分音符演奏这个1小节模式：**A-B-C#-A | D-C#-B-A**。把最后一个A稍微延长一点，让耳朵听见持续低音真的在起作用。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Position test: move the same idea up one octave. Play **A-B-C#-A** starting on the 7th fret of the D string, then descend without rushing the shift.",
+          "pt-BR": "Teste de posição: leve a mesma ideia uma oitava acima. Toque **A-B-C#-A** começando na 7ª casa da corda Ré e depois desça sem correr na troca de posição.",
+          "es": "Prueba de posición: mueve la misma idea una octava arriba. Toca **A-B-C#-A** empezando en el 7º traste de la cuerda Re y luego desciende sin apresurar el cambio.",
+          "de": "Lagentest: verlege dieselbe Idee eine Oktave höher. Spiele **A-B-C#-A** beginnend im 7. Bund der D-Saite und steige dann ab, ohne den Wechsel zu hetzen.",
+          "ja": "ポジションテスト：同じアイデアを1オクターブ上に移す。D弦7フレットから **A-B-C#-A** を始め、ポジション移動を急がずに下降する。",
+          "zh-Hans": "把位测试：把同样的想法移高一个八度。从D弦7品开始弹 **A-B-C#-A**，然后下行回来，换把时不要抢。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove mission: create a **2-bar bass line** where beat 1 of every bar is A, but the other notes must come from the scale and include at least one rest or ghost note. Make it feel like a real pocket, not a worksheet.",
+          "pt-BR": "Missão de groove: crie uma **linha de baixo de 2 compassos** em que o tempo 1 de cada compasso seja Lá, mas as outras notas venham da escala e incluam pelo menos uma pausa ou ghost note. Faça soar como pocket de verdade, não como planilha.",
+          "es": "Misión de groove: crea una **línea de bajo de 2 compases** donde el tiempo 1 de cada compás sea La, pero las demás notas vengan de la escala e incluyan al menos un silencio o una ghost note. Haz que suene a pocket real, no a hoja de ejercicios.",
+          "de": "Groove-Mission: erfinde eine **2-taktige Basslinie**, bei der Zählzeit 1 jedes Taktes ein A ist, die übrigen Töne aber aus der Skala kommen und mindestens eine Pause oder Ghost Note enthalten. Es soll nach echtem Pocket klingen, nicht nach Arbeitsblatt.",
+          "ja": "グルーヴミッション：各小節の1拍目がAになる **2小節のベースライン** を作る。ただし他の音はスケール内にし、少なくとも1つの休符かゴーストノートを入れる。練習帳ではなく本物のポケット感を目指そう。",
+          "zh-Hans": "律动任务：写一条 **2小节贝斯线**，每小节第1拍都必须是A，但其他音必须来自该音阶，并且至少加入一个休止或一个幽灵音。要让它像真实的 pocket，而不是练习表。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: once the anchor A feels automatic, bump the tempo by **5 bpm**. If the line loses weight, simplify the rhythm before you blame your fingers.",
+          "pt-BR": "Checkpoint: quando o Lá âncora parecer automático, aumente **5 bpm**. Se a linha perder peso, simplifique o ritmo antes de culpar os dedos.",
+          "es": "Checkpoint: cuando el La ancla se sienta automático, sube **5 bpm**. Si la línea pierde peso, simplifica el ritmo antes de culpar a tus dedos.",
+          "de": "Checkpoint: sobald sich das Anker-A automatisch anfühlt, erhöhe um **5 bpm**. Wenn die Linie an Gewicht verliert, vereinfache erst den Rhythmus, bevor du deinen Fingern die Schuld gibst.",
+          "ja": "チェックポイント：アンカーのAが自動で出るようになったら、テンポを **5 bpm** 上げる。ラインの重さが消えたら、まず指ではなくリズムをシンプルにしよう。",
+          "zh-Hans": "检查点：当锚点A已经变得自然自动时，把速度提高 **5 bpm**。如果线条失去分量，先简化节奏，再去怪手指。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-16T00:06:52Z",
+  "updatedAt": "2026-06-16T00:06:52Z"
+}

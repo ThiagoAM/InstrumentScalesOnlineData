@@ -1,0 +1,73 @@
+{
+  "id": "guitar-rhythm-beacon-run",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose E minor pentatonic in 12th position and imagine you are sending signals from a lighthouse. Play one short phrase in bar 1, leave bar 2 partly empty, and make the silence feel intentional instead of nervous. Your job is to sound clear enough that another musician could answer you immediately.",
+          "pt-BR": "Escolha a pentatônica de mi menor na 12ª posição e imagine que você está enviando sinais de um farol. Toque uma frase curta no compasso 1, deixe o compasso 2 parcialmente vazio e faça o silêncio soar intencional em vez de inseguro. Sua missão é soar com clareza suficiente para que outro músico possa responder na hora.",
+          "es": "Elige la pentatónica menor de mi en la posición 12 e imagina que estás enviando señales desde un faro. Toca una frase corta en el compás 1, deja el compás 2 parcialmente vacío y haz que el silencio suene intencional en lugar de nervioso. Tu tarea es sonar tan claro que otro músico pueda responderte de inmediato.",
+          "de": "Wähle E-Moll-Pentatonik in der 12. Lage und stell dir vor, du sendest Signale von einem Leuchtturm. Spiele in Takt 1 eine kurze Phrase, lasse Takt 2 teilweise leer und lass die Stille absichtlich statt nervös wirken. Deine Aufgabe ist es, so klar zu klingen, dass ein anderer Musiker dir sofort antworten könnte.",
+          "ja": "12ポジションのEマイナー・ペンタトニックを選び、自分が灯台から合図を送っていると想像してください。1小節目に短いフレーズを弾き、2小節目は少し空けて、その沈黙を不安ではなく意図として聞かせます。別のミュージシャンがすぐ返事できるくらい明確に聞こえることが目標です。",
+          "zh-Hans": "选择第12把位的E小调五声音阶，并想象你正在从一座灯塔发出信号。第1小节弹一句短乐句，第2小节故意留出一些空白，让停顿听起来像选择而不是紧张。你的任务是把它弹得足够清楚，让另一位乐手能立刻回应你。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now create three rhythm signals: steady eighth notes, a triplet burst, and one long note followed by a short answer. Cycle through those three signals without changing position. The challenge is making the rhythm change obvious even when the note choices stay simple.",
+          "pt-BR": "Agora crie três sinais rítmicos: colcheias constantes, uma explosão em tercinas e uma nota longa seguida de uma resposta curta. Passe por esses três sinais sem mudar de posição. O desafio é deixar a troca de ritmo óbvia mesmo quando as notas continuam simples.",
+          "es": "Ahora crea tres señales rítmicas: corcheas estables, una ráfaga de tresillos y una nota larga seguida de una respuesta corta. Recorre esas tres señales sin cambiar de posición. El reto es que el cambio de ritmo sea obvio incluso cuando las notas siguen siendo simples.",
+          "de": "Erstelle jetzt drei Rhythmussignale: gleichmäßige Achtel, einen Triolen-Ausbruch und einen langen Ton mit kurzer Antwort. Wechsle durch diese drei Signale, ohne die Lage zu verlassen. Die Herausforderung ist, den Rhythmuswechsel deutlich zu machen, auch wenn die Töne einfach bleiben.",
+          "ja": "次に3つのリズム合図を作ります。安定した8分音符、3連符のひと吹き、そして長い音のあとに短い返答です。ポジションを変えずにこの3つを順番に回してください。音の選び方が単純でも、リズムの変化がはっきり伝わるようにするのが課題です。",
+          "zh-Hans": "现在设计三种节奏信号：稳定的八分音符、一阵三连音，以及一个长音后接一个短回答。不换把位，轮流使用这三种信号。挑战在于：即使音符选择很简单，节奏变化也要让人一听就明白。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pick two landing notes that matter: E for home and B for lift-off. End every phrase on one of them, but never use the same landing twice in a row. If you drift, sing the landing before you play it so your ear stays captain of the ship.",
+          "pt-BR": "Escolha duas notas de chegada importantes: E como casa e B como decolagem. Termine cada frase em uma delas, mas nunca use a mesma chegada duas vezes seguidas. Se você se perder, cante a nota de chegada antes de tocá-la para manter o ouvido no comando.",
+          "es": "Elige dos notas de llegada importantes: E como casa y B como despegue. Termina cada frase en una de ellas, pero nunca uses la misma llegada dos veces seguidas. Si te desvías, canta la nota de llegada antes de tocarla para que el oído siga mandando.",
+          "de": "Wähle zwei wichtige Landetöne: E als Zuhause und B als Startsignal. Beende jede Phrase auf einem davon, aber nie zweimal hintereinander auf demselben Ton. Wenn du ins Driften gerätst, singe den Zielton vor dem Spielen, damit dein Ohr das Kommando behält.",
+          "ja": "大事な着地音を2つ選びましょう。Eは帰着点、Bは飛び立つ感じです。各フレーズはそのどちらかで終えますが、同じ着地を2回続けてはいけません。迷ってきたら、弾く前に着地音を歌って、耳が指を導く状態に戻してください。",
+          "zh-Hans": "选两个重要的落点音：E代表回家，B代表起飞。每句乐句都要落在其中一个音上，但不能连续两次用同一个落点。如果你开始漂移，就先把落点音唱出来，再让手指跟上耳朵。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: build a four-bar conversation. Bar 1 is the call. Bar 2 is the reply. Bar 3 must include at least one full beat of rest. Bar 4 has to end higher than bar 1. Repeat until the whole shape sounds like a message, not random traffic.",
+          "pt-BR": "Rodada de desafio: monte uma conversa de quatro compassos. O compasso 1 é a chamada. O compasso 2 é a resposta. O compasso 3 precisa incluir pelo menos um tempo inteiro de pausa. O compasso 4 deve terminar mais agudo que o compasso 1. Repita até a forma inteira soar como uma mensagem, não como tráfego aleatório.",
+          "es": "Ronda de desafío: construye una conversación de cuatro compases. El compás 1 es la llamada. El compás 2 es la respuesta. El compás 3 debe incluir al menos un pulso completo de silencio. El compás 4 tiene que terminar más agudo que el compás 1. Repite hasta que toda la forma suene como un mensaje y no como tráfico al azar.",
+          "de": "Herausforderungsrunde: Baue ein Gespräch über vier Takte. Takt 1 ist der Ruf. Takt 2 ist die Antwort. Takt 3 muss mindestens einen ganzen Schlag Pause enthalten. Takt 4 muss höher enden als Takt 1. Wiederhole das, bis die ganze Form wie eine Nachricht klingt und nicht wie zufälliger Verkehr.",
+          "ja": "チャレンジラウンドです。4小節の会話を作りましょう。1小節目が呼びかけ、2小節目が返答、3小節目には少なくとも1拍ぶんの休みを入れます。4小節目は1小節目より高い音で終わらせてください。全体がランダムな通行ではなく、ちゃんとしたメッセージに聞こえるまで繰り返します。",
+          "zh-Hans": "挑战回合：做一个四小节的对话。第1小节是提问，第2小节是回答，第3小节必须包含至少整整一拍的休止，第4小节的结束音要比第1小节更高。重复练习，直到整个形状听起来像一条信息，而不是随机车流。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a one-minute loop and score yourself on three things: clear rhythm contrast, confident silence, and strong landings. Keep the phrase that cuts through the fog best, because that is the one worth stealing for a real solo tomorrow.",
+          "pt-BR": "Termine com um loop de um minuto e se avalie em três pontos: contraste rítmico claro, silêncio confiante e chegadas fortes. Guarde a frase que corta melhor a neblina, porque é essa que vale roubar para um solo real amanhã.",
+          "es": "Termina con un loop de un minuto y evalúate en tres cosas: contraste rítmico claro, silencio con confianza y llegadas fuertes. Quédate con la frase que mejor atraviese la niebla, porque esa es la que vale robar para un solo real mañana.",
+          "de": "Beende das Ganze mit einer einminütigen Schleife und bewerte dich in drei Punkten: klarer Rhythmuskontrast, selbstbewusste Stille und starke Landungen. Behalte die Phrase, die den Nebel am besten durchschneidet, denn genau die lohnt sich morgen in einem echten Solo.",
+          "ja": "最後に1分間のループ演奏をして、3つの点で自己採点します。リズムの対比が明確か、沈黙に自信があるか、着地が強いかです。いちばん霧を切り裂くフレーズを残してください。それが明日本物のソロで使う価値のある語彙になります。",
+          "zh-Hans": "最后做一分钟循环，并从三个方面给自己打分：节奏对比是否清楚，停顿是否自信，落点是否有力。留下那句最能穿透迷雾的乐句，因为它最值得你明天偷进真正的即兴里。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-09T00:06:33Z",
+  "updatedAt": "2026-07-09T00:06:33Z"
+}

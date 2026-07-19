@@ -1,0 +1,86 @@
+{
+  "id": "g-major-pocket-factory",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Clock in at the factory: today your job is to turn the **G major scale** into a groove that feels good enough to loop for ten minutes. Start by playing **G–A–B–C–D–E–F#** evenly, then strip it down to the most useful workers: **G, B, D, and passing tones**.",
+          "pt-BR": "Bata o ponto na fábrica: hoje seu trabalho é transformar a **escala de Sol maior** em um groove gostoso o bastante para repetir por dez minutos. Comece tocando **G–A–B–C–D–E–F#** de forma regular e depois reduza para os operários mais úteis: **G, B, D e notas de passagem**.",
+          "es": "Ficha en la fábrica: hoy tu trabajo es convertir la **escala de Sol mayor** en un groove tan bueno que quieras repetirlo diez minutos. Empieza tocando **G–A–B–C–D–E–F#** de forma pareja y luego quédate con los obreros más útiles: **G, B, D y notas de paso**.",
+          "de": "Stempel dich in der Fabrik ein: Heute besteht dein Job darin, die **G-Dur-Tonleiter** in einen Groove zu verwandeln, den man zehn Minuten lang loopen möchte. Spiele zuerst **G–A–B–C–D–E–F#** gleichmäßig und reduziere dann auf die wichtigsten Arbeiter: **G, B, D und Durchgangstöne**.",
+          "ja": "工場に出勤しましょう。今日の仕事は、**Gメジャースケール**を10分ループしたくなるグルーヴに変えることです。まず **G–A–B–C–D–E–F#** を均等に弾き、そのあとで本当に役立つ作業員、つまり **G、B、D、そして経過音** に絞ります。",
+          "zh-Hans": "来工厂打卡吧：今天你的工作，是把 **G大调音阶** 变成一条让人想循环十分钟的 groove。先均匀弹一遍 **G–A–B–C–D–E–F#**，然后缩减到最有用的“工人”：**G、B、D 和经过音**。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First machine: play a **two-bar groove** using mostly roots and fifths, but leave at least **two clear rests** in every cycle. Groove needs air. If you fill every crack with notes, the factory gets noisy and the pocket walks out.",
+          "pt-BR": "Primeira máquina: toque um **groove de dois compassos** usando principalmente tônicas e quintas, mas deixe pelo menos **duas pausas claras** em cada volta. Groove precisa de ar. Se você preencher todos os espaços, a fábrica fica barulhenta e o pocket vai embora.",
+          "es": "Primera máquina: toca un **groove de dos compases** usando sobre todo tónicas y quintas, pero deja al menos **dos silencios claros** en cada vuelta. El groove necesita aire. Si llenas cada hueco con notas, la fábrica se vuelve ruidosa y el pocket se marcha.",
+          "de": "Erste Maschine: Spiele einen **Zwei-Takt-Groove**, der vor allem Grundtöne und Quinten nutzt, aber in jedem Durchlauf mindestens **zwei klare Pausen** lässt. Groove braucht Luft. Wenn du jede Lücke mit Noten füllst, wird die Fabrik laut und das Pocket kündigt.",
+          "ja": "1台目の機械です。主にルートと5度を使って**2小節のグルーヴ**を作りますが、各サイクルに少なくとも**2つのはっきりした休符**を入れてください。グルーヴには空気が必要です。隙間を全部音で埋めると、工場はうるさくなり、ポケットは逃げます。",
+          "zh-Hans": "第一台机器：做一个**两小节 groove**，主要用根音和五度，但每一轮至少留出**两个清楚的休止**。groove 需要空气。如果每个缝都塞满音，工厂会变吵，pocket 也会离职。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Second machine: add **one ghost note** before a strong beat. Keep it soft and percussive, like a quick wink, not a full-on note. The trick is making the groove punch harder without sounding busier.",
+          "pt-BR": "Segunda máquina: adicione **uma ghost note** antes de um tempo forte. Mantenha-a leve e percussiva, como uma piscada rápida, não como uma nota completa. O truque é dar mais impacto ao groove sem deixá-lo mais lotado.",
+          "es": "Segunda máquina: añade **una ghost note** antes de un tiempo fuerte. Debe ser suave y percusiva, como un guiño rápido, no una nota completa. El truco es lograr más pegada sin que el groove suene más cargado.",
+          "de": "Zweite Maschine: Füge vor einer starken Zählzeit **eine Ghost Note** ein. Sie soll leise und perkussiv sein, eher ein schnelles Zwinkern als ein voller Ton. Der Trick ist, dem Groove mehr Punch zu geben, ohne ihn voller zu machen.",
+          "ja": "2台目の機械では、強拍の前に**ゴーストノートを1つ**入れます。はっきりした音ではなく、軽い打撃のような小さなウインクにしてください。グルーヴを忙しくしすぎずにパンチを増やすのがコツです。",
+          "zh-Hans": "第二台机器：在强拍前加上**一个幽灵音**。它要轻、要有打击感，像快速眨眼，不要像完整音那样明显。关键是让 groove 更有冲击力，而不是更拥挤。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Quality control: in bar 1, aim for simple stability; in bar 2, use one **scale approach tone** to slide into your next root. Try approaching from above once and from below once. Same destination, different attitude.",
+          "pt-BR": "Controle de qualidade: no compasso 1, procure estabilidade simples; no compasso 2, use **uma nota de aproximação da escala** para escorregar até a próxima tônica. Experimente chegar uma vez por cima e outra por baixo. Mesmo destino, atitude diferente.",
+          "es": "Control de calidad: en el compás 1 busca estabilidad simple; en el compás 2 usa **una nota de aproximación de la escala** para llegar a la siguiente tónica. Prueba una vez desde arriba y otra desde abajo. Mismo destino, distinta actitud.",
+          "de": "Qualitätskontrolle: In Takt 1 suchst du nach einfacher Stabilität; in Takt 2 verwendest du **einen Skalen-Annäherungston**, um in den nächsten Grundton zu rutschen. Probiere einmal von oben und einmal von unten. Gleiches Ziel, andere Haltung.",
+          "ja": "品質管理です。1小節目はシンプルな安定感を狙い、2小節目では**スケールのアプローチノート**を1つ使って次のルートへ滑り込みます。上から行く場合と下から行く場合の両方を試しましょう。到着点は同じでも、表情は変わります。",
+          "zh-Hans": "质量检查：第1小节追求简单稳定；第2小节加入**一个音阶趋近音**，滑向下一个根音。试一次从上方接近，再试一次从下方接近。同样的终点，不同的态度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Shift supervisor challenge: move your accent from beat 1 to the **and of 2** or the **and of 4**. Your line should still feel solid even when the spotlight lands somewhere unexpected. If the groove survives the move, your time is improving.",
+          "pt-BR": "Desafio do supervisor: mova seu acento do tempo 1 para o **e do 2** ou o **e do 4**. Sua linha deve continuar firme mesmo quando o destaque cai em um lugar inesperado. Se o groove sobreviver à mudança, seu tempo está melhorando.",
+          "es": "Desafío del supervisor: mueve tu acento del tiempo 1 al **y de 2** o al **y de 4**. Tu línea debe seguir sintiéndose sólida aunque el foco rítmico caiga en un lugar inesperado. Si el groove sobrevive al cambio, tu tiempo mejora.",
+          "de": "Schichtleiter-Challenge: Verschiebe deinen Akzent von Zählzeit 1 auf das **Und von 2** oder das **Und von 4**. Deine Linie soll sich trotzdem stabil anfühlen, auch wenn das rhythmische Scheinwerferlicht woanders landet. Überlebt der Groove den Wechsel, wird dein Timing besser.",
+          "ja": "シフト監督チャレンジ。アクセントを1拍目から **2拍目裏** または **4拍目裏** に移します。リズムのスポットライトが意外な場所に当たっても、ラインは安定して聞こえるべきです。崩れなければ、タイム感は前進しています。",
+          "zh-Hans": "主管挑战：把你的重音从第1拍移到 **第2拍后半拍** 或 **第4拍后半拍**。即使聚光灯照到意料之外的位置，这条线也要继续稳。若 groove 还能站住，你的节奏感就在进步。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final production run: create **three versions** of the same two-bar groove — one clean, one with ghost notes, and one with an approach tone plus a rest in a surprising place. Pick the version that makes your head nod the hardest. That’s your factory-approved pocket.",
+          "pt-BR": "Rodada final de produção: crie **três versões** do mesmo groove de dois compassos — uma limpa, uma com ghost notes e uma com nota de aproximação mais uma pausa em lugar surpreendente. Escolha a versão que faz sua cabeça balançar mais. Esse é o pocket aprovado pela fábrica.",
+          "es": "Producción final: crea **tres versiones** del mismo groove de dos compases — una limpia, una con ghost notes y una con nota de aproximación más un silencio en un lugar sorprendente. Quédate con la versión que te haga mover más la cabeza. Ese es tu pocket aprobado por la fábrica.",
+          "de": "Letzte Produktionsrunde: Erstelle **drei Versionen** desselben Zwei-Takt-Grooves — eine sauber, eine mit Ghost Notes und eine mit Annäherungston plus einer Pause an überraschender Stelle. Wähle die Version, bei der dein Kopf am stärksten nickt. Das ist dein fabrikgeprüftes Pocket.",
+          "ja": "最終生産ラインでは、同じ2小節グルーヴの**3バージョン**を作ってください。1つはクリーン、1つはゴーストノート入り、もう1つはアプローチノートと意外な位置の休符入り。いちばん頭がうなずくものが、工場認定のポケットです。",
+          "zh-Hans": "最终生产线：为同一个两小节 groove 做出**三个版本**——一个干净版，一个带幽灵音，一个加入趋近音并把休止放在意外位置。选出那个最让你点头的版本，那就是工厂认证的 pocket。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-11T00:06:58Z",
+  "updatedAt": "2026-04-11T00:06:58Z"
+}

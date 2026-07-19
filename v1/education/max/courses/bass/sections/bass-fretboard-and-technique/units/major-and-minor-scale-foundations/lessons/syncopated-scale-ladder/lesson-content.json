@@ -1,0 +1,86 @@
+{
+  "id": "syncopated-scale-ladder",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today the scale is not a staircase—it is a bouncing ladder. Grab D major, keep your bass tone round, and make the offbeats feel like tiny surprises instead of accidents.",
+          "pt-BR": "Hoje a escala não é uma escada — é uma escada elástica quicando. Pegue Ré maior, mantenha o timbre do baixo redondo e faça os contratempos soarem como pequenas surpresas, não acidentes.",
+          "es": "Hoy la escala no es una escalera: es una escalera que rebota. Toma Re mayor, mantén un tono redondo en el bajo y haz que los contratiempos suenen como pequeñas sorpresas y no como accidentes.",
+          "de": "Heute ist die Skala keine Treppe, sondern eine federnde Leiter. Nimm D-Dur, halte deinen Basston rund und lass die Offbeats wie kleine Überraschungen wirken statt wie Unfälle.",
+          "ja": "今日のスケールは階段ではなく、跳ねるはしごだ。Dメジャーを使い、ベースの丸い音色を保ちながら、オフビートを事故ではなく小さなサプライズにしよう。",
+          "zh-Hans": "今天的音阶不是楼梯，而是一架会弹跳的梯子。选择D大调，保持圆润的贝斯音色，让弱拍听起来像小惊喜，而不是失误。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: play D-E-F#-G ascending in quarter notes, then A-B-C#-D descending in eighth notes. Count out loud: 1-2-3-4, then 1-and-2-and-3-and-4-and.",
+          "pt-BR": "Aquecimento: toque Ré-Mi-Fá#-Sol subindo em semínimas, depois Lá-Si-Dó#-Ré descendo em colcheias. Conte em voz alta: 1-2-3-4, depois 1-e-2-e-3-e-4-e.",
+          "es": "Calentamiento: toca Re-Mi-Fa#-Sol ascendiendo en negras, luego La-Si-Do#-Re descendiendo en corcheas. Cuenta en voz alta: 1-2-3-4, luego 1-y-2-y-3-y-4-y.",
+          "de": "Aufwärmen: spiele D-E-F#-G aufwärts in Vierteln, dann A-H-C#-D abwärts in Achteln. Zähle laut: 1-2-3-4 und dann 1-und-2-und-3-und-4-und.",
+          "ja": "ウォームアップ：D-E-F#-Gを四分音符で上がり、A-B-C#-Dを八分音符で下がる。声に出して 1-2-3-4、そのあと 1-and-2-and-3-and-4-and と数えよう。",
+          "zh-Hans": "热身：用四分音符上行弹D-E-F#-G，再用八分音符下行弹A-B-C#-D。大声数拍：1-2-3-4，然后1-and-2-and-3-and-4-and。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Groove drill: accent the and of 2 and the and of 4 on every scale fragment. Try D-F#-E-G, then E-G-F#-A. Let your plucking hand stay even even when the accents move.",
+          "pt-BR": "Exercício de groove: acentue o e do 2 e o e do 4 em cada fragmento de escala. Tente Ré-Fá#-Mi-Sol, depois Mi-Sol-Fá#-Lá. Mantenha a mão direita regular mesmo quando os acentos se movem.",
+          "es": "Ejercicio de groove: acentúa la y de 2 y la y de 4 en cada fragmento de escala. Prueba Re-Fa#-Mi-Sol, luego Mi-Sol-Fa#-La. Mantén la mano de ataque pareja incluso cuando los acentos se mueven.",
+          "de": "Groove-Übung: betone das Und von 2 und das Und von 4 in jedem Skalenfragment. Probiere D-F#-E-G, dann E-G-F#-A. Deine Anschlagshand bleibt gleichmäßig, auch wenn die Akzente wandern.",
+          "ja": "グルーヴ練習：各スケール断片で2拍目裏と4拍目裏を強調する。D-F#-E-G、次に E-G-F#-A を試そう。アクセントが動いても、右手のタッチは均一に保つ。",
+          "zh-Hans": "律动练习：每个音阶片段都强调第2拍后半拍和第4拍后半拍。试试D-F#-E-G，再试E-G-F#-A。即使重音在移动，右手也要保持均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Left-hand challenge: keep one finger per fret in the lower position, then shift only when you truly run out of reach. If a note buzzes, do not hit harder—fix the fretting angle.",
+          "pt-BR": "Desafio da mão esquerda: mantenha um dedo por casa na posição grave e só troque quando realmente faltar alcance. Se alguma nota trastejar, não toque mais forte — ajuste o ângulo da mão esquerda.",
+          "es": "Reto de mano izquierda: mantén un dedo por traste en la posición baja y cambia solo cuando realmente te falte alcance. Si una nota trastea, no golpees más fuerte: corrige el ángulo de la mano izquierda.",
+          "de": "Linke-Hand-Challenge: halte in der tiefen Lage einen Finger pro Bund und wechsle nur, wenn die Reichweite wirklich endet. Wenn ein Ton schnarrt, schlage nicht härter an—korrigiere den Greifwinkel.",
+          "ja": "左手チャレンジ：低いポジションでは1フレット1指を保ち、本当に届かなくなるまでシフトしない。音がビビるなら、強く弾くのではなく左手の角度を直そう。",
+          "zh-Hans": "左手挑战：在低把位尽量保持一指一品，只有真的够不到时才换把。如果某个音打品，不要更用力，先修正按弦角度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Musical round: build a 1-bar bass line from D major notes with at least one rest and one syncopated accent. Loop it four times, then answer yourself with a second bar that climbs higher.",
+          "pt-BR": "Rodada musical: monte uma linha de baixo de 1 compasso com notas de Ré maior, incluindo pelo menos uma pausa e um acento sincopado. Faça o loop quatro vezes e depois responda a si mesmo com um segundo compasso que suba mais.",
+          "es": "Ronda musical: construye una línea de bajo de 1 compás con notas de Re mayor, con al menos un silencio y un acento sincopado. Haz el loop cuatro veces y luego respóndete con un segundo compás que suba más.",
+          "de": "Musikalische Runde: baue eine eintaktige Basslinie aus D-Dur-Tönen mit mindestens einer Pause und einem synkopierten Akzent. Loope sie viermal und antworte dann mit einem zweiten Takt, der höher steigt.",
+          "ja": "音楽ラウンド：Dメジャーの音だけで1小節のベースラインを作り、少なくとも1つの休符と1つのシンコペーション・アクセントを入れる。4回ループしたら、さらに高く登る2小節目で答えよう。",
+          "zh-Hans": "音乐回合：只用D大调音写一个1小节贝斯线，至少加入一个休止和一个切分重音。循环四次后，再用一个往更高处爬的第二小节来回应自己。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint: if the groove feels solid, add 5 bpm. If the syncopation starts to rush, snap your fingers on beats 2 and 4 before you play again.",
+          "pt-BR": "Checkpoint: se o groove estiver firme, acrescente 5 bpm. Se a síncopa começar a correr, estale os dedos nos tempos 2 e 4 antes de tocar de novo.",
+          "es": "Checkpoint: si el groove se siente sólido, añade 5 bpm. Si la síncopa empieza a correr, chasquea los dedos en 2 y 4 antes de tocar otra vez.",
+          "de": "Checkpoint: fühlt sich der Groove stabil an, erhöhe um 5 bpm. Wenn die Synkope zu eilen beginnt, schnippe erst auf 2 und 4 mit den Fingern, bevor du wieder spielst.",
+          "ja": "チェックポイント：グルーヴが安定したら5 bpm上げる。シンコペーションが前のめりになるなら、もう一度弾く前に2拍目と4拍目で指を鳴らそう。",
+          "zh-Hans": "检查点：如果律动已经稳了，就加5 bpm。如果切分开始抢拍，重新弹之前先在第2拍和第4拍打响指。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-06T00:08:01Z",
+  "updatedAt": "2026-05-06T00:08:01Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "d-major-pocket-climb",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Think of the bass neck as a staircase with a drummer waiting at the top. Your mission is to climb through D major so steadily that the groove never slips under your feet.",
+          "pt-BR": "Pense no braço do baixo como uma escada com um baterista esperando no topo. Sua missão é subir por Ré maior com tanta firmeza que o groove nunca escorregue sob seus pés.",
+          "es": "Piensa en el mástil del bajo como una escalera con un baterista esperando arriba. Tu misión es subir por Re mayor con tanta estabilidad que el groove nunca se deslice bajo tus pies.",
+          "de": "Stell dir den Basshals wie eine Treppe vor, auf deren Spitze ein Drummer wartet. Deine Mission ist es, durch D-Dur so stabil hinaufzusteigen, dass der Groove niemals unter deinen Füßen wegrutscht.",
+          "ja": "ベースのネックを、頂上でドラマーが待っている階段だと思ってみよう。今日の任務は、Dメジャーを登ってもグルーヴが足元から滑らないくらい安定させることだ。",
+          "zh-Hans": "把贝斯琴颈想成一段楼梯，顶端有个鼓手在等你。你的任务是稳稳地爬过D大调，稳到律动不会从脚下打滑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: find D on the 5th fret of the A string and the open D string. Play D–E–F#–G slowly, then answer with A–B–C#–D while keeping your plucking hand loose.",
+          "pt-BR": "Aquecimento: encontre o Ré na 5ª casa da corda Lá e o Ré da corda solta. Toque Ré–Mi–Fá#–Sol devagar e responda com Lá–Si–Dó#–Ré mantendo a mão direita solta.",
+          "es": "Calentamiento: encuentra Re en el traste 5 de la cuerda La y el Re al aire. Toca Re–Mi–Fa#–Sol lentamente y responde con La–Si–Do#–Re manteniendo la mano derecha suelta.",
+          "de": "Aufwärmen: Finde D im 5. Bund der A-Saite und die leere D-Saite. Spiele D–E–F#–G langsam und antworte mit A–H–C#–D, während deine Zupfhand locker bleibt.",
+          "ja": "ウォームアップ：A弦5フレットのDと開放D弦を見つけよう。D–E–F#–Gをゆっくり弾き、続けてA–B–C#–Dを返しながら、右手は力を抜いておく。",
+          "zh-Hans": "热身：找到A弦第5品的D和空弦D。慢慢弹D–E–F#–G，再用A–B–C#–D回应，同时让拨弦手保持放松。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: set the metronome to 78 bpm and play one octave of D major in eighth notes. Give beat 1 a confident root and beat 3 a slightly lighter touch so the line breathes.",
+          "pt-BR": "Exercício principal: ajuste o metrônomo para 78 bpm e toque uma oitava de Ré maior em colcheias. Dê ao tempo 1 uma tônica confiante e ao tempo 3 um toque um pouco mais leve para a linha respirar.",
+          "es": "Ejercicio principal: pon el metrónomo a 78 bpm y toca una octava de Re mayor en corcheas. Dale al tiempo 1 una tónica segura y al tiempo 3 un toque un poco más ligero para que la línea respire.",
+          "de": "Hauptübung: Stelle das Metronom auf 78 bpm und spiele eine Oktave D-Dur in Achteln. Gib Zählzeit 1 einen selbstbewussten Grundton und Zählzeit 3 einen etwas leichteren Anschlag, damit die Linie atmet.",
+          "ja": "メイン練習：メトロノームを78 bpmにして、Dメジャー1オクターブを8分音符で弾く。1拍目は自信のあるルート、3拍目は少し軽いタッチにして、ラインに呼吸を作ろう。",
+          "zh-Hans": "主练习：把节拍器设为78 bpm，用八分音符弹一组八度的D大调。第1拍给根音更自信的落点，第3拍稍微轻一点，让这条线会呼吸。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Pocket checkpoint: after every D, add two muted ghost notes before moving on. The groove should feel deep and relaxed, not stiff or over-punched.",
+          "pt-BR": "Checkpoint de pocket: depois de cada Ré, adicione duas ghost notes abafadas antes de seguir. O groove deve soar profundo e relaxado, não duro nem exageradamente atacado.",
+          "es": "Checkpoint de pocket: después de cada Re, añade dos ghost notes apagadas antes de seguir. El groove debe sentirse profundo y relajado, no rígido ni demasiado golpeado.",
+          "de": "Pocket-Checkpoint: Füge nach jedem D zwei gedämpfte Ghost Notes ein, bevor du weitergehst. Der Groove soll tief und entspannt wirken, nicht steif oder überbetont.",
+          "ja": "ポケット・チェックポイント：Dのたびに、次へ進む前にミュートしたゴーストノートを2つ入れる。グルーヴは硬くならず、深くてリラックスして聞こえるべきだ。",
+          "zh-Hans": "律动检查点：每次弹完D后，先加入两个闷住的幽灵音再继续。律动应该深而放松，不能僵硬，也不要打得太重。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Octave-pivot test: jump from low D to high D, then descend through C#–B–A before returning to the low root. Keep both Ds equal in tone, not one big and one shy.",
+          "pt-BR": "Teste de pivô de oitava: salte do Ré grave para o Ré agudo, depois desça por Dó#–Si–Lá antes de voltar para a tônica grave. Mantenha os dois Rés com timbre igual, sem um ficar grande e o outro tímido.",
+          "es": "Prueba de pivote de octava: salta del Re grave al Re agudo, luego desciende por Do#–Si–La antes de volver a la tónica grave. Mantén los dos Re con el mismo tono, no uno gigante y otro tímido.",
+          "de": "Oktav-Pivot-Test: Springe vom tiefen D zum hohen D und gehe dann über C#–H–A zurück, bevor du wieder auf dem tiefen Grundton landest. Beide Ds sollen gleich stark klingen, nicht eines groß und eines schüchtern.",
+          "ja": "オクターブ支点テスト：低いDから高いDへ跳び、C#–B–Aと下りてから低いルートへ戻る。2つのDは、片方だけ大きくならず同じ音色でそろえよう。",
+          "zh-Hans": "八度支点测试：从低音D跳到高音D，再经由C#–B–A下行，最后回到低音根音。两个D的音色要一样，不能一个巨大、一个害羞。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Riff mission: build a 2-bar line using only D major notes, but make sure bar 1 lands on F# and bar 2 lands on A. Repeat it until it sounds like something a band could loop.",
+          "pt-BR": "Missão do riff: monte uma linha de 2 compassos usando apenas notas de Ré maior, mas faça o compasso 1 cair em Fá# e o compasso 2 cair em Lá. Repita até soar como algo que uma banda poderia usar em loop.",
+          "es": "Misión de riff: construye una línea de 2 compases usando solo notas de Re mayor, pero haz que el compás 1 caiga en Fa# y el compás 2 caiga en La. Repítela hasta que suene como algo que una banda podría poner en loop.",
+          "de": "Riff-Mission: Baue eine 2-taktige Linie nur mit Tönen aus D-Dur, aber lasse Takt 1 auf F# und Takt 2 auf A landen. Wiederhole sie, bis sie wie etwas klingt, das eine Band loopen würde.",
+          "ja": "リフ・ミッション：Dメジャーの音だけで2小節のラインを作る。ただし1小節目はF#に、2小節目はAに着地させる。バンドがループしたくなる形になるまで繰り返そう。",
+          "zh-Hans": "Riff任务：只用D大调里的音写一条2小节低音线，但要让第1小节落在F#，第2小节落在A。重复到它听起来像乐队愿意循环的东西。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish line: if the groove stays steady while the notes stay clear, raise the metronome by 4 bpm. If the ghost notes get louder than the real notes, slow down and fix the touch first.",
+          "pt-BR": "Linha de chegada: se o groove ficar estável enquanto as notas continuam claras, aumente o metrônomo em 4 bpm. Se as ghost notes ficarem mais altas que as notas reais, reduza a velocidade e ajuste o toque primeiro.",
+          "es": "Línea de meta: si el groove sigue estable mientras las notas permanecen claras, sube el metrónomo 4 bpm. Si las ghost notes suenan más fuertes que las notas reales, baja la velocidad y corrige el toque primero.",
+          "de": "Ziellinie: Wenn der Groove stabil bleibt und die Töne klar bleiben, erhöhe das Metronom um 4 bpm. Wenn die Ghost Notes lauter sind als die echten Töne, werde erst langsamer und korrigiere den Anschlag.",
+          "ja": "ゴールライン：グルーヴが安定し、音もはっきりしているなら、メトロノームを4 bpm上げよう。ゴーストノートが実音より大きいなら、先にテンポを落としてタッチを直すこと。",
+          "zh-Hans": "终点线：如果律动稳、音也清楚，就把节拍器提高4 bpm。如果幽灵音比实音还响，先降速并修正触弦。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-04T00:09:07Z",
+  "updatedAt": "2026-07-04T00:09:07Z"
+}

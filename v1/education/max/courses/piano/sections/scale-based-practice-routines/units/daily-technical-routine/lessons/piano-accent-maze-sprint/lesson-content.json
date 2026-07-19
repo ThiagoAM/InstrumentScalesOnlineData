@@ -1,0 +1,86 @@
+{
+  "id": "piano-accent-maze-sprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "A scale can sound clean and still feel sleepy. This lesson wakes it up by turning accents into a **maze sprint**. Your fingers must keep the route steady while your musical spotlight keeps moving. That mix of order and surprise is fantastic training for real piano playing.\n\nChoose **D major** or **B minor** and set a timer for **10 minutes**. Start around **68 to 84 BPM** in even eighth notes. Keep the fingering reliable. The challenge comes from where the emphasis moves, not from inventing a new hand shape every thirty seconds.",
+          "pt-BR": "Uma escala pode soar limpa e ainda assim parecer sonolenta. Esta lição a desperta transformando acentos em uma **corrida de labirinto**. Seus dedos precisam manter a rota estável enquanto o holofote musical continua mudando de lugar. Essa mistura de ordem e surpresa é um treino excelente para o piano real.\n\nEscolha **Ré maior** ou **Si menor** e marque **10 minutos** no timer. Comece entre **68 e 84 BPM** com colcheias regulares. Mantenha o dedilhado confiável. O desafio vem do lugar onde a ênfase se move, não de inventar uma nova posição de mão a cada trinta segundos.",
+          "es": "Una escala puede sonar limpia y aun así sentirse dormida. Esta lección la despierta convirtiendo los acentos en una **carrera de laberinto**. Tus dedos deben mantener la ruta estable mientras el foco musical se mueve de sitio. Esa mezcla de orden y sorpresa es un entrenamiento excelente para el piano real.\n\nElige **Re mayor** o **Si menor** y pon un temporizador de **10 minutos**. Empieza entre **68 y 84 BPM** con corcheas regulares. Mantén una digitación fiable. El reto viene de mover el énfasis, no de inventar una postura nueva cada treinta segundos.",
+          "de": "Eine Skala kann sauber klingen und trotzdem schläfrig wirken. Diese Lektion weckt sie auf, indem sie Akzente in einen **Labyrinth-Sprint** verwandelt. Deine Finger müssen den Weg stabil halten, während sich der musikalische Scheinwerfer ständig verschiebt. Diese Mischung aus Ordnung und Überraschung ist großartiges Training für echtes Klavierspiel.\n\nWähle **D-Dur** oder **h-Moll** und stelle einen Timer auf **10 Minuten**. Beginne bei **68 bis 84 BPM** in gleichmäßigen Achteln. Halte den Fingersatz verlässlich. Die Herausforderung kommt daher, wohin sich die Betonung bewegt, nicht daher, alle dreißig Sekunden eine neue Handform zu erfinden.",
+          "ja": "スケールはきれいに弾けても、眠そうに聞こえることがあります。このレッスンでは、アクセントを **迷路スプリント** に変えて目を覚まさせます。指はルートを安定させたまま、音楽のスポットライトだけが移動し続けます。この秩序と驚きの組み合わせは、実際のピアノ演奏にとても良い訓練です。\n\n**Dメジャー** または **Bマイナー** を選び、タイマーを **10分** に設定します。均等な8分音符で **68〜84 BPM** から始めましょう。運指は安定して保ちます。難しさは強調の位置が動くことにあり、30秒ごとに新しい手の形を作ることではありません。",
+          "zh-Hans": "音阶可以弹得很干净，却依然让人昏昏欲睡。这节课会把它叫醒：把重音变成一场 **迷宫冲刺**。你的手指要保持路线稳定，而音乐的聚光灯却不断移动。这种秩序与惊喜的结合，是非常棒的真实钢琴训练。\n\n选择 **D 大调** 或 **B 小调**，设一个 **10 分钟** 计时器。用均匀八分音符，从 **68-84 BPM** 开始。指法要稳定可靠。挑战来自重心位置的移动，而不是每三十秒就换一种手型。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a **four-note cell** from the scale and loop it through one or two octaves. Then run three accent maps:\n- accent every **1st** note\n- accent every **2nd** note\n- accent every **3rd** note\n\nSame notes, same fingering, different spotlight. When the accents shift, the pattern suddenly feels like a new puzzle.",
+          "pt-BR": "Monte uma **célula de quatro notas** a partir da escala e faça loop por uma ou duas oitavas. Depois execute três mapas de acento:\n- acento a cada **1ª** nota\n- acento a cada **2ª** nota\n- acento a cada **3ª** nota\n\nMesmas notas, mesmo dedilhado, holofote diferente. Quando o acento muda, o padrão de repente vira um novo quebra-cabeça.",
+          "es": "Construye una **célula de cuatro notas** a partir de la escala y repítela por una o dos octavas. Luego prueba tres mapas de acento:\n- acento en cada **1ª** nota\n- acento en cada **2ª** nota\n- acento en cada **3ª** nota\n\nMismas notas, misma digitación, foco distinto. Cuando el acento cambia, el patrón de pronto se siente como otro rompecabezas.",
+          "de": "Baue eine **Vier-Noten-Zelle** aus der Skala und wiederhole sie über eine oder zwei Oktaven. Dann probierst du drei Akzentkarten:\n- Akzent auf jeder **1.** Note\n- Akzent auf jeder **2.** Note\n- Akzent auf jeder **3.** Note\n\nGleiche Töne, gleicher Fingersatz, anderes Licht. Wenn sich der Akzent verschiebt, fühlt sich das Muster plötzlich wie ein neues Rätsel an.",
+          "ja": "スケールから **4音のセル** を作り、1〜2オクターブにわたって繰り返します。次の3つのアクセント地図を試します。\n- **1音ごと** にアクセント\n- **2音ごと** にアクセント\n- **3音ごと** にアクセント\n\n音も運指も同じで、変わるのは照明だけです。アクセントが動くと、同じ型が突然新しいパズルになります。",
+          "zh-Hans": "从音阶中做一个 **四音单元**，在一到两个八度内循环。然后跑三种重音地图：\n- 每 **第 1** 个音重音\n- 每 **第 2** 个音重音\n- 每 **第 3** 个音重音\n\n同样的音、同样的指法，只是聚光灯变了。重音一移动，整个模式立刻像换了一个谜题。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **maze-walking round**. Play slowly enough that both hands stay even while the accent map changes. The accent should not punch holes in the legato or make the unaccented notes disappear. You are not just making one note louder. You are reorganizing the listener’s attention.",
+          "pt-BR": "A Rodada 1 é a **rodada da caminhada no labirinto**. Toque devagar o suficiente para que as duas mãos fiquem regulares enquanto o mapa de acentos muda. O acento não deve furar o legato nem fazer as notas sem acento desaparecerem. Você não está apenas deixando uma nota mais alta. Está reorganizando a atenção do ouvinte.",
+          "es": "La Ronda 1 es la **ronda de caminar por el laberinto**. Toca lo bastante lento para que ambas manos sigan parejas mientras cambia el mapa de acentos. El acento no debe romper el legato ni hacer desaparecer las notas sin acento. No solo estás tocando una nota más fuerte. Estás reorganizando la atención del oyente.",
+          "de": "Runde 1 ist die **Labyrinth-Geh-Runde**. Spiele so langsam, dass beide Hände gleichmäßig bleiben, während sich die Akzentkarte ändert. Der Akzent darf weder das Legato zerreißen noch die unbetonten Töne verschwinden lassen. Du machst nicht nur einen Ton lauter. Du ordnest die Aufmerksamkeit des Zuhörers neu.",
+          "ja": "ラウンド1は **迷路歩行ラウンド** です。アクセント地図が変わっても両手が均等に保てるテンポで弾きます。アクセントがレガートを壊したり、弱い音を消したりしてはいけません。単に1音を大きくするのではなく、聴き手の注意を再配置しているのです。",
+          "zh-Hans": "第 1 轮是 **迷宫步行轮**。放慢到足以让双手在重音地图变化时仍然平均稳定。重音不能把连奏打穿，也不能让非重音音符消失。你不只是把一个音弹大声，而是在重新组织听众的注意力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **left-hand honesty round**. Let the left hand lead the accent map for a few repetitions while the right hand behaves like a support crew. Then switch roles. If one hand gets confused, freeze the tempo and reduce the cell to just four notes until the pattern feels obvious again.",
+          "pt-BR": "A Rodada 2 é a **rodada da honestidade da mão esquerda**. Deixe a mão esquerda liderar o mapa de acentos por algumas repetições enquanto a direita age como equipe de apoio. Depois troque os papéis. Se uma mão se confundir, congele o andamento e reduza a célula para apenas quatro notas até o padrão voltar a parecer óbvio.",
+          "es": "La Ronda 2 es la **ronda de honestidad de la mano izquierda**. Deja que la mano izquierda lidere el mapa de acentos durante unas repeticiones mientras la derecha actúa como apoyo. Después cambia los papeles. Si una mano se confunde, congela el tempo y reduce la célula a solo cuatro notas hasta que el patrón vuelva a sentirse obvio.",
+          "de": "Runde 2 ist die **Ehrlichkeitsrunde der linken Hand**. Lass für einige Wiederholungen die linke Hand die Akzentkarte anführen, während die rechte nur unterstützt. Dann wechselst du die Rollen. Wenn eine Hand durcheinanderkommt, friere das Tempo ein und reduziere die Zelle wieder auf vier Töne, bis das Muster erneut offensichtlich wirkt.",
+          "ja": "ラウンド2は **左手正直ラウンド** です。数回の反復では左手にアクセント地図を主導させ、右手は支援役に回ります。その後で役割を交代します。どちらかの手が混乱したら、テンポを止めてセルを4音だけに戻し、型が再び明確に感じられるまで続けてください。",
+          "zh-Hans": "第 2 轮是 **左手诚实轮**。先让左手主导几次重音地图，右手当辅助团队；然后交换角色。如果某只手开始混乱，就冻结速度，把单元缩回四个音，直到模式再次变得明显。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **sprint round**. Pick the hardest accent map and raise the tempo a little for **20-second bursts**. After each burst, return to the comfortable tempo and listen for whether control survived. Speed only counts if the maze still has walls.",
+          "pt-BR": "A Rodada 3 é a **rodada da corrida**. Escolha o mapa de acentos mais difícil e aumente um pouco o andamento em explosões de **20 segundos**. Depois de cada explosão, volte ao tempo confortável e escute se o controle sobreviveu. Velocidade só conta se o labirinto ainda tiver paredes.",
+          "es": "La Ronda 3 es la **ronda de sprint**. Elige el mapa de acentos más difícil y sube un poco el tempo en ráfagas de **20 segundos**. Después de cada ráfaga, vuelve al tempo cómodo y escucha si el control sobrevivió. La velocidad solo cuenta si el laberinto todavía tiene paredes.",
+          "de": "Runde 3 ist die **Sprint-Runde**. Wähle die schwierigste Akzentkarte und erhöhe das Tempo leicht in **20-Sekunden-Bursts**. Nach jedem Burst gehst du zum Wohlfühltempo zurück und hörst, ob die Kontrolle erhalten blieb. Tempo zählt nur, wenn das Labyrinth noch Wände hat.",
+          "ja": "ラウンド3は **スプリント・ラウンド** です。いちばん難しいアクセント地図を選び、**20秒** の短いバーストで少しテンポを上げます。各バーストの後は快適なテンポに戻り、コントロールが残っているかを確認します。速さが意味を持つのは、迷路にまだ壁があるときだけです。",
+          "zh-Hans": "第 3 轮是 **冲刺轮**。选最难的重音地图，用 **20 秒** 的短爆发稍微提速。每次爆发后，都回到舒服的速度，听听控制力是否还在。只有当迷宫仍然有墙时，速度才算数。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final test, improvise **30 seconds** using the same scale but letting the accent pattern shape short melodic ideas. Then ask:\n- Did the accents create musical direction?\n- Did both hands stay coordinated?\n- Did faster moments still sound intentional?\n\nWhen accents move cleanly, scales stop sounding like drills and start sounding like organized energy.",
+          "pt-BR": "No teste final, improvise por **30 segundos** usando a mesma escala, mas deixando o padrão de acentos moldar pequenas ideias melódicas. Depois pergunte:\n- Os acentos criaram direção musical?\n- As duas mãos ficaram coordenadas?\n- Os momentos mais rápidos ainda soaram intencionais?\n\nQuando os acentos se movem com clareza, as escalas deixam de soar como exercícios e passam a soar como energia organizada.",
+          "es": "Para la prueba final, improvisa **30 segundos** con la misma escala pero dejando que el patrón de acentos moldee pequeñas ideas melódicas. Después pregúntate:\n- ¿Los acentos crearon dirección musical?\n- ¿Las dos manos siguieron coordinadas?\n- ¿Los momentos rápidos siguieron sonando intencionales?\n\nCuando los acentos se mueven con claridad, las escalas dejan de sonar como ejercicios y empiezan a sonar como energía organizada.",
+          "de": "Improvisiere für den Abschlusstest **30 Sekunden** mit derselben Skala, aber lass das Akzentmuster kurze melodische Ideen formen. Frage dich danach:\n- Haben die Akzente musikalische Richtung erzeugt?\n- Blieben beide Hände koordiniert?\n- Klang auch das schnellere Material noch absichtlich?\n\nWenn Akzente sich sauber bewegen, hören Skalen auf, wie Übungen zu klingen, und beginnen, wie organisierte Energie zu wirken.",
+          "ja": "最後のテストでは、同じスケールを使いながらアクセントパターンで短い旋律のアイデアを形作り、**30秒** 即興します。その後、次を確認しましょう。\n- アクセントは音楽的な方向を作れたか？\n- 両手は協調を保てたか？\n- 速い部分も意図的に聞こえたか？\n\nアクセントがきれいに動くと、スケールは単なる練習から、整理されたエネルギーへ変わります。",
+          "zh-Hans": "最后测试时，用同一个音阶即兴 **30 秒**，让重音模式去塑造短小的旋律想法。然后问自己：\n- 重音有没有带来音乐方向？\n- 双手有没有保持协调？\n- 较快的片段听起来还是有意图的吗？\n\n当重音移动得足够干净时，音阶就不再像练习题，而开始像被组织好的能量。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-09T00:11:29Z",
+  "updatedAt": "2026-05-09T00:11:29Z"
+}

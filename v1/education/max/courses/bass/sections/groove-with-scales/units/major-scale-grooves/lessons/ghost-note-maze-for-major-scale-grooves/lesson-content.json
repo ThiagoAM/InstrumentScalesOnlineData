@@ -1,0 +1,73 @@
+{
+  "id": "ghost-note-maze-for-major-scale-grooves",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up a **G major** groove at **92 bpm** and limit yourself to the notes **G A B C D E F#** on bass. For the first minute, alternate between a real note and a **ghost note** so your plucking hand settles into a dependable engine.",
+          "pt-BR": "Monte um groove em **Sol maior** a **92 bpm** e limite-se às notas **G A B C D E F#** no baixo. Durante o primeiro minuto, alterne entre uma nota real e uma **ghost note** para que a mão direita entre num motor rítmico confiável.",
+          "es": "Prepara un groove en **Sol mayor** a **92 bpm** y limítate a las notas **G A B C D E F#** en el bajo. Durante el primer minuto, alterna entre una nota real y una **ghost note** para que tu mano derecha entre en modo máquina rítmica confiable.",
+          "de": "Richte einen Groove in **G-Dur** bei **92 bpm** ein und beschränke dich auf die Töne **G A B C D E F#** auf dem Bass. Wechsle in der ersten Minute immer zwischen einem echten Ton und einer **Ghost Note**, damit sich deine Anschlagshand wie ein verlässlicher Motor einpendelt.",
+          "ja": "**Gメジャー**のグルーヴを**92 bpm**で用意し、使う音は **G A B C D E F#** に限定します。最初の1分は実音と**ゴーストノート**を交互に出して、右手を信頼できるリズムエンジンに整えましょう。",
+          "zh-Hans": "先搭一个**G大调**groove，速度设为**92 bpm**，贝斯只使用 **G A B C D E F#** 这些音。第一分钟里，让实音和**幽灵音**交替出现，让右手先进入稳定的节奏发动机状态。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a one-bar pattern with this rule: beats **1** and **3** must land on a real scale tone, while beats **2** and **4** may contain either a ghost note, an eighth-note pair, or a rest. Think like a drummer wearing a bass guitar.",
+          "pt-BR": "Crie um padrão de um compasso com a seguinte regra: os tempos **1** e **3** devem cair em notas reais da escala, enquanto os tempos **2** e **4** podem ter uma ghost note, um par de colcheias ou uma pausa. Pense como um baterista usando um baixo.",
+          "es": "Construye un patrón de un compás con esta regla: los tiempos **1** y **3** deben caer en una nota real de la escala, mientras que los tiempos **2** y **4** pueden contener una ghost note, un par de corcheas o un silencio. Piensa como un baterista con bajo.",
+          "de": "Baue ein eintaktiges Pattern mit dieser Regel: Auf den Zählzeiten **1** und **3** muss ein echter Skalenton liegen, während **2** und **4** entweder eine Ghost Note, zwei Achtelnoten oder eine Pause enthalten dürfen. Denk wie ein Schlagzeuger mit Bass in der Hand.",
+          "ja": "1小節パターンを次のルールで作ります。**1拍目**と**3拍目**は必ず実際のスケール音、**2拍目**と**4拍目**にはゴーストノート、8分音符2つ、または休符を置けます。ベースを持ったドラマーのつもりで考えてください。",
+          "zh-Hans": "按这个规则做一条一小节pattern：**第1拍**和**第3拍**必须落在真实音阶音上，**第2拍**和**第4拍**可以放幽灵音、两个八分音符，或者休止。把自己想成抱着贝斯的鼓手。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, make the line travel: in bar 1 stay near the **3rd fret area**, and in bar 2 shift to a higher position without losing the pulse. If the shift feels clumsy, simplify the notes but keep the groove iron-tight.",
+          "pt-BR": "Agora faça a linha viajar: no compasso 1 fique perto da região da **3ª casa**, e no compasso 2 mude para uma posição mais aguda sem perder o pulso. Se a mudança ficar desajeitada, simplifique as notas, mas mantenha o groove de aço.",
+          "es": "Ahora haz que la línea se desplace: en el compás 1 quédate cerca de la zona del **traste 3**, y en el compás 2 sube a una posición más alta sin perder el pulso. Si el cambio se siente torpe, simplifica las notas pero mantén el groove blindado.",
+          "de": "Jetzt soll die Linie wandern: Bleibe in Takt 1 in der Gegend um den **3. Bund**, und wechsle in Takt 2 in eine höhere Lage, ohne den Puls zu verlieren. Wenn sich der Wechsel holprig anfühlt, vereinfache die Töne, aber halte den Groove stahlhart.",
+          "ja": "次はラインを移動させます。1小節目は**3フレット付近**にとどまり、2小節目では脈を失わずに高いポジションへ移動します。移動がぎこちないなら音数を減らしてもいいので、グルーヴだけは鉄壁で。",
+          "zh-Hans": "接着让低音线“移动起来”：第1小节尽量待在**第3品附近**，第2小节换到更高把位，但不能丢掉脉冲感。如果换把不顺，就减少音数，但groove必须像钢一样稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Maze challenge:** play **8 bars** where no two neighboring bars have the exact same beat-4 rhythm. On bars **4** and **8**, resolve clearly to **G**. Your mission is to sound like you meant every tiny silence.",
+          "pt-BR": "**Desafio do labirinto:** toque **8 compassos** sem repetir exatamente o mesmo ritmo no tempo 4 em compassos vizinhos. Nos compassos **4** e **8**, resolva com clareza em **G**. Sua missão é soar como se cada pequeno silêncio tivesse sido planejado.",
+          "es": "**Desafío del laberinto:** toca **8 compases** sin repetir exactamente el mismo ritmo en el tiempo 4 en compases vecinos. En los compases **4** y **8**, resuelve claramente en **G**. Tu misión es sonar como si cada pequeño silencio hubiera sido intencional.",
+          "de": "**Labyrinth-Challenge:** Spiele **8 Takte**, wobei keine zwei benachbarten Takte exakt denselben Beat-4-Rhythmus haben. In den Takten **4** und **8** löst du klar nach **G** auf. Deine Mission ist, so zu klingen, als wäre jede kleine Pause Absicht.",
+          "ja": "**迷路チャレンジ：** **8小節**弾き、隣り合う小節どうしで4拍目のリズムを完全に同じにしないこと。**4小節目**と**8小節目**でははっきり**G**に解決します。小さな無音まで全部意図しているように聞こえるのが目標です。",
+          "zh-Hans": "**迷宫挑战：** 连续弹**8小节**，相邻两小节的第4拍节奏不能完全一样。到了**第4小节**和**第8小节**，要清楚地解决到**G**。你的任务，是让每一个小小的停顿都听起来像故意设计的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording one take and grading yourself on **three things**: time, touch, and note choice. If the ghost notes are louder than the real notes, rebalance your hand. If the groove makes your head nod, you escaped the maze.",
+          "pt-BR": "Termine gravando uma tomada e se avaliando em **três pontos**: tempo, toque e escolha de notas. Se as ghost notes estiverem mais altas que as notas reais, reequilibre a mão. Se o groove fizer sua cabeça balançar, você saiu do labirinto.",
+          "es": "Termina grabando una toma y evalúate en **tres cosas**: tiempo, toque y elección de notas. Si las ghost notes suenan más fuerte que las notas reales, reequilibra la mano. Si el groove te hace mover la cabeza, saliste del laberinto.",
+          "de": "Nimm zum Schluss einen Take auf und bewerte dich in **drei Punkten**: Timing, Anschlag und Tonwahl. Wenn die Ghost Notes lauter sind als die echten Töne, justiere deine Hand neu. Wenn der Groove deinen Kopf nicken lässt, hast du das Labyrinth verlassen.",
+          "ja": "最後に1テイク録音し、**3項目**で自己採点します。タイム、タッチ、音選びです。ゴーストノートの方が実音より大きいなら右手のバランスを調整しましょう。グルーヴで自然に頭が揺れたら、迷路脱出です。",
+          "zh-Hans": "最后录一遍，并从**三个方面**给自己打分：时间感、触弦、选音。如果幽灵音比实音还大声，就重新调整右手平衡。如果这个groove让你忍不住点头，说明你已经走出迷宫。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-12T00:04:35Z",
+  "updatedAt": "2026-04-12T00:04:35Z"
+}

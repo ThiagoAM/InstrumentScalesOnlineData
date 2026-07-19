@@ -1,0 +1,73 @@
+{
+  "id": "guitar-beat-swerve-etude",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up with **A minor pentatonic** at **88-96 BPM** and imagine the drummer is daring you to miss beat 2 and beat 4. Your mission is to aim short phrases *around* the backbeat, then snap back into time so the groove feels playful instead of messy.",
+          "pt-BR": "Aqueça com a **pentatônica menor de Lá** entre **88-96 BPM** e imagine que o baterista está desafiando você a não perder o tempo 2 e o tempo 4. Sua missão é mirar frases curtas *ao redor* do backbeat e depois voltar para o tempo com precisão, para que o groove soe brincalhão em vez de bagunçado.",
+          "es": "Calienta con la **pentatónica menor de La** a **88-96 BPM** e imagina que el baterista te reta a no perder el tiempo 2 y el tiempo 4. Tu misión es apuntar frases cortas *alrededor* del backbeat y luego volver al pulso con precisión, para que el groove suene juguetón y no desordenado.",
+          "de": "Wärme dich mit der **A-Moll-Pentatonik** bei **88-96 BPM** auf und stell dir vor, der Drummer fordert dich heraus, Zählzeit 2 und 4 nicht zu verpassen. Deine Aufgabe ist, kurze Phrasen *um* den Backbeat herum zu platzieren und dann präzise wieder im Puls zu landen, damit der Groove verspielt statt chaotisch wirkt.",
+          "ja": "**Aマイナー・ペンタトニック** を **88-96 BPM** でウォームアップしながら、ドラマーが2拍目と4拍目を外すなと挑発している場面を想像してください。短いフレーズをバックビートの*周り*に置き、そこからきっちり拍に戻すことで、グルーヴを乱さずに遊び心を出すのが今回のミッションです。",
+          "zh-Hans": "用 **A小调五声音阶** 在 **88-96 BPM** 做热身，并想象鼓手正挑衅你：别把第2拍和第4拍弄丢。你的任务是把短乐句放在反拍*周围*打转，然后精准地回到拍点，让 groove 听起来俏皮而不是凌乱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Swerve rulebook\n- Start each phrase with only **3 to 5 notes**.\n- Accent either the note **before** beat 2 or the note **before** beat 4.\n- End the phrase on a note that still sounds settled, like **A**, **C**, or **E**.\n- Leave a tiny gap after the phrase so the listener can feel the curve.",
+          "pt-BR": "## Regras da curva\n- Comece cada frase com apenas **3 a 5 notas**.\n- Acentue a nota **antes** do tempo 2 ou a nota **antes** do tempo 4.\n- Termine a frase em uma nota que ainda soe estável, como **A**, **C** ou **E**.\n- Deixe um pequeno espaço depois da frase para o ouvinte sentir a curva.",
+          "es": "## Reglas del desvío\n- Empieza cada frase con solo **3 a 5 notas**.\n- Acentúa la nota **antes** del tiempo 2 o la nota **antes** del tiempo 4.\n- Termina la frase en una nota que siga sonando estable, como **A**, **C** o **E**.\n- Deja un pequeño espacio después de la frase para que el oyente sienta la curva.",
+          "de": "## Swerve-Regeln\n- Beginne jede Phrase mit nur **3 bis 5 Tönen**.\n- Betone entweder den Ton **vor** Zählzeit 2 oder den Ton **vor** Zählzeit 4.\n- Beende die Phrase auf einem Ton, der trotzdem stabil klingt, etwa **A**, **C** oder **E**.\n- Lass nach der Phrase eine kleine Lücke, damit man die Kurve wirklich spürt.",
+          "ja": "## スワーブのルール\n- 各フレーズは **3〜5音** だけで始めます。\n- **2拍目の前** か **4拍目の前** の音をアクセントします。\n- フレーズの終わりは **A**、**C**、**E** のような落ち着く音にします。\n- フレーズの後に小さな間を作り、カーブ感を聴き手に感じさせましょう。",
+          "zh-Hans": "## 漂移规则\n- 每个乐句先只用 **3到5个音**。\n- 重音放在 **第2拍前** 或 **第4拍前** 的那个音上。\n- 乐句结尾落在依然稳定的音上，比如 **A**、**C** 或 **E**。\n- 乐句后留一点空隙，让听众真的听见这道弯。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 1: late-then-clean\nPlay one bar of straight eighth notes, then in bar 2 delay your final note by a half beat. On the next bar, answer with a phrase that lands squarely on beat 1. If the delayed note adds attitude without making the pulse wobble, you nailed the trick.",
+          "pt-BR": "## Exercício 1: atrasar e limpar\nToque um compasso de colcheias retas e, no compasso 2, atrase sua última nota em meio tempo. No compasso seguinte, responda com uma frase que aterrisse exatamente no tempo 1. Se a nota atrasada trouxer atitude sem balançar o pulso, você acertou o truque.",
+          "es": "## Ejercicio 1: tarde pero limpio\nToca un compás de corcheas rectas y, en el compás 2, retrasa tu última nota medio tiempo. En el siguiente compás, responde con una frase que aterrice exactamente en el tiempo 1. Si la nota retrasada añade actitud sin mover el pulso, clavaste el recurso.",
+          "de": "## Übung 1: spät, dann sauber\nSpiele einen Takt mit geraden Achteln und verzögere im zweiten Takt den letzten Ton um eine halbe Zählzeit. Im nächsten Takt antwortest du mit einer Phrase, die genau auf Zählzeit 1 landet. Wenn der späte Ton Haltung bringt, ohne den Puls zu verwackeln, hast du den Trick getroffen.",
+          "ja": "## ドリル1：遅らせてから整える\nまず1小節はまっすぐな8分音符で弾き、2小節目では最後の音を半拍だけ遅らせます。次の小節では、1拍目にぴたりと着地する返答フレーズを弾いてください。遅らせた音に色気がありつつも拍が揺れないなら、この仕掛けは成功です。",
+          "zh-Hans": "## 练习1：先拖后稳\n先弹一小节笔直的八分音符，到了第2小节，把最后一个音延后半拍。下一小节用一个准确落在第1拍上的回应乐句把它接回来。如果这个延后音带来了神气，却没有让脉搏摇晃，你就做对了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 2: same notes, new swagger\nUse the exact same four-note idea three times: first plain, second with a slide into the accent, third with a bend or vibrato on the landing note. This teaches you that phrasing drama often comes from timing and touch, not from hunting for more notes.",
+          "pt-BR": "## Exercício 2: mesmas notas, nova malícia\nUse a mesma ideia de quatro notas três vezes: primeiro de forma simples, depois com um slide até o acento, e por fim com um bend ou vibrato na nota de chegada. Isso ensina que o drama do fraseado muitas vezes vem do tempo e do toque, não da caça por mais notas.",
+          "es": "## Ejercicio 2: mismas notas, otra actitud\nUsa la misma idea de cuatro notas tres veces: primero simple, luego con un slide hacia el acento y por último con un bend o vibrato en la nota de llegada. Esto te enseña que el drama del fraseo muchas veces viene del tiempo y del toque, no de perseguir más notas.",
+          "de": "## Übung 2: gleiche Töne, neuer Swagger\nSpiele dieselbe Vier-Ton-Idee dreimal: zuerst schlicht, dann mit einem Slide in den Akzent und schließlich mit Bend oder Vibrato auf dem Landeton. So merkst du, dass Phrasierungsdrama oft aus Timing und Anschlag entsteht und nicht daraus, immer mehr Töne zu jagen.",
+          "ja": "## ドリル2：同じ音でもノリは変わる\n同じ4音のアイデアを3回使います。1回目は普通に、2回目はアクセントへ滑り込むスライド付きで、3回目は着地音にベンドかビブラートを加えます。フレージングのドラマは、音数を増やすことよりもタイミングとタッチから生まれると体感できるはずです。",
+          "zh-Hans": "## 练习2：同样的音，不同的神态\n把同一个4音想法弹三遍：第一遍平实，第二遍用滑音冲向重音，第三遍在落点音上加推弦或颤音。你会体会到，很多乐句戏剧感来自时间感和触弦，而不是单纯去找更多音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Boss level\nBuild an **8-bar mini etude** with two swerves, one clear rest, and one phrase that climbs into a higher register. Record it and ask yourself two questions: does the groove still feel danceable, and can you sing the shape back without the guitar? If both answers are yes, your scale playing is starting to sound like real conversation.",
+          "pt-BR": "## Fase chefão\nMonte um **mini estudo de 8 compassos** com duas curvas, uma pausa clara e uma frase que suba para um registro mais agudo. Grave e se faça duas perguntas: o groove continua dançante, e você consegue cantar o desenho sem a guitarra? Se as duas respostas forem sim, sua escala já está começando a soar como conversa de verdade.",
+          "es": "## Nivel jefe\nConstruye un **mini estudio de 8 compases** con dos desvíos, un silencio claro y una frase que suba a un registro más agudo. Grábalo y hazte dos preguntas: ¿el groove sigue siendo bailable y puedes cantar la forma sin la guitarra? Si ambas respuestas son sí, tu escala ya empieza a sonar como una conversación real.",
+          "de": "## Boss-Level\nBaue eine **8-taktige Mini-Etüde** mit zwei Swerves, einer klaren Pause und einer Phrase, die in eine höhere Lage steigt. Nimm sie auf und frag dich zwei Dinge: fühlt sich der Groove noch tanzbar an, und kannst du die Form ohne Gitarre nachsingen? Wenn beides ja ist, klingt dein Skalen-Spiel schon viel mehr nach echter Unterhaltung.",
+          "ja": "## ボスレベル\n**8小節のミニ・エチュード** を作り、スワーブを2回、はっきりした休符を1回、高い音域へ上がるフレーズを1回入れてください。録音して、「まだ踊れるグルーヴか」「ギターなしで形を歌い返せるか」の2点を確認します。どちらもYESなら、あなたのスケール練習は本当の会話のように聞こえ始めています。",
+          "zh-Hans": "## Boss关卡\n写一个 **8小节迷你练习曲**，里面要有两次漂移、一次明确的停顿，以及一句冲向更高音区的乐句。录下来后问自己两件事：这个 groove 还适不适合让人点头起舞？没有吉他时你还能不能把它唱回来？如果两个答案都是能，那你的音阶已经开始像真正的音乐对话了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-06T00:06:38Z",
+  "updatedAt": "2026-06-06T00:06:38Z"
+}

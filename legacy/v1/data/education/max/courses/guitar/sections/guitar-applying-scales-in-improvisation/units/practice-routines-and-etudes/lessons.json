@@ -110,5 +110,677 @@
     "order": 4,
     "createdAt": "2026-03-08T00:00:00Z",
     "updatedAt": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "improv-survival-rounds",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Improv Survival Rounds",
+        "pt-BR": "Rodadas de sobrevivência na improvisação",
+        "es": "Rondas de supervivencia para improvisar",
+        "de": "Impro-Survival-Runden",
+        "ja": "即興サバイバル・ラウンド",
+        "zh-Hans": "即兴生存回合"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a flexible solo by rotating scale tasks like a musical obstacle course.",
+        "pt-BR": "Monte um solo flexível girando tarefas de escala como se fosse uma pista de obstáculos musical.",
+        "es": "Construye un solo flexible rotando tareas de escala como si fuera una pista de obstáculos musical.",
+        "de": "Baue ein flexibles Solo, indem du Skalenaufgaben wie einen musikalischen Hindernisparcours rotierst.",
+        "ja": "音階ミッションを回しながら、障害物コースのように柔軟なソロを作ろう。",
+        "zh-Hans": "像闯音乐障碍赛一样轮换音阶任务，练出更灵活的独奏。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-10T00:05:19Z",
+    "updatedAt": "2026-04-10T00:05:19Z"
+  },
+  {
+    "id": "solo-story-arc-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Story Arc Etude",
+        "pt-BR": "Estudo de Arco Narrativo para Solo",
+        "es": "Estudio de arco narrativo para solo",
+        "de": "Solo-Etüde mit Spannungsbogen",
+        "ja": "ソロ物語アーク・エチュード",
+        "zh-Hans": "独奏故事弧线练习"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Shape a guitar solo like a mini movie by planning tension, release, and position changes.",
+        "pt-BR": "Modele um solo de guitarra como um mini filme, planejando tensão, resolução e mudanças de posição.",
+        "es": "Da forma a un solo de guitarra como una mini película, planificando tensión, resolución y cambios de posición.",
+        "de": "Forme ein Gitarrensolo wie einen Kurzfilm mit geplanter Spannung, Auflösung und Positionswechseln.",
+        "ja": "緊張感、解決、ポジション移動を設計して、ギターソロを短い映画のように組み立てよう。",
+        "zh-Hans": "通过设计张力、释放和把位移动，把吉他独奏练成一部迷你电影。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-04-13T00:06:06Z",
+    "updatedAt": "2026-04-13T00:06:06Z"
+  },
+  {
+    "id": "one-string-escape-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "One-String Escape Etude",
+        "pt-BR": "Estudo de Fuga em Uma Corda",
+        "es": "Estudio de Escape en Una Sola Cuerda",
+        "de": "Ein-Saiten-Flucht-Etüde",
+        "ja": "1弦脱出エチュード",
+        "zh-Hans": "单弦突围练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a convincing guitar solo by escaping routine patterns and telling a story on one string first.",
+        "pt-BR": "Construa um solo convincente fugindo dos desenhos automáticos e contando uma história em uma só corda.",
+        "es": "Construye un solo convincente escapando de los patrones automáticos y contando una historia primero en una sola cuerda.",
+        "de": "Baue ein überzeugendes Gitarrensolo, indem du aus Routine-Mustern ausbrichst und zuerst auf einer Saite erzählst.",
+        "ja": "いつもの形から抜け出し、まず1本の弦で物語を作って説得力あるギターソロを育てよう。",
+        "zh-Hans": "先在一根弦上讲出故事，摆脱自动指型，练出更有说服力的吉他独奏。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-04-16T00:06:36Z",
+    "updatedAt": "2026-04-16T00:06:36Z"
+  },
+  {
+    "id": "riff-rescue-scale-mission",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Riff Rescue Scale Mission",
+        "pt-BR": "Missão de Resgate do Riff com Escalas",
+        "es": "Misión de Rescate del Riff con Escalas",
+        "de": "Riff-Rettungsmission mit Skalen",
+        "ja": "スケールで救うリフ救出ミッション",
+        "zh-Hans": "音阶救援：Riff营救任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one stuck guitar riff into a scale-powered solo mission with rhythm, target notes, and storytelling.",
+        "pt-BR": "Transforme um riff de guitarra travado em uma missão de solo com ritmo, notas-alvo e narrativa.",
+        "es": "Convierte un riff de guitarra atascado en una misión de solo con ritmo, notas objetivo y narrativa.",
+        "de": "Verwandle ein festgefahrenes Gitarrenriff in eine Solo-Mission mit Rhythmus, Zieltönen und Storytelling.",
+        "ja": "行き詰まったギターリフを、リズム・着地音・物語性のあるソロ課題に変えよう。",
+        "zh-Hans": "把卡住的吉他riff，变成带有节奏、目标音和故事感的独奏任务。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-04-18T00:06:20Z",
+    "updatedAt": "2026-04-18T00:06:20Z"
+  },
+  {
+    "id": "three-color-solo-ladder",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Three-Color Solo Ladder",
+        "pt-BR": "Escada do Solo em Três Cores",
+        "es": "Escalera de Solo en Tres Colores",
+        "de": "Solo-Leiter in Drei Farben",
+        "ja": "3色ソロ・ラダー",
+        "zh-Hans": "三色独奏阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb one backing track in three expressive passes so your scale choices start sounding like real guitar storytelling.",
+        "pt-BR": "Suba pelo mesmo playback em três passes expressivos para fazer suas escalas soarem como narrativa de guitarra de verdade.",
+        "es": "Sube por una misma base en tres pasadas expresivas para que tus escalas empiecen a sonar como una historia real de guitarra.",
+        "de": "Steige über denselben Groove in drei Ausdrucksstufen auf, damit deine Skalen wie echtes Gitarren-Storytelling klingen.",
+        "ja": "同じバッキングを3つの表情で登り、スケールを本物のギター物語として使えるようにします。",
+        "zh-Hans": "用同一条伴奏做三次不同表情的攀爬，让你的音阶真正开始讲吉他独奏的故事。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-04-22T14:09:11Z",
+    "updatedAt": "2026-04-22T14:09:11Z"
+  },
+  {
+    "id": "solo-roulette-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Roulette Lab",
+        "pt-BR": "Laboratório da Roleta do Solo",
+        "es": "Laboratorio de la Ruleta del Solo",
+        "de": "Solo-Roulette-Labor",
+        "ja": "ソロ・ルーレット・ラボ",
+        "zh-Hans": "独奏轮盘实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar improvisation reflexes by spinning through scale-based solo missions that force fast musical decisions.",
+        "pt-BR": "Treine seus reflexos de improvisação na guitarra girando missões com escalas que exigem decisões musicais rápidas.",
+        "es": "Entrena tus reflejos de improvisación en guitarra girando misiones con escalas que exigen decisiones musicales rápidas.",
+        "de": "Trainiere deine Gitarren-Improvisation mit Skalenmissionen, die schnelle musikalische Entscheidungen erzwingen.",
+        "ja": "スケール課題を次々切り替えながら、ギター即興の判断力と反射神経を鍛えるレッスンです。",
+        "zh-Hans": "用不断切换的音阶任务训练你的吉他即兴反应，让你在压力下也能做出音乐性的选择。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-04-24T00:06:34Z",
+    "updatedAt": "2026-04-24T00:06:34Z"
+  },
+  {
+    "id": "guitar-phrase-freeze-tag",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Phrase Freeze Tag",
+        "pt-BR": "Pega-Pega do Fraseado",
+        "es": "Pilla-Pilla del Fraseo",
+        "de": "Phrasen-Fangspiel",
+        "ja": "フレーズ鬼ごっこ",
+        "zh-Hans": "乐句冻住追逐战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train guitar improvisation control by freezing, answering, and rerouting scale phrases before they run away.",
+        "pt-BR": "Treine o controle da improvisação na guitarra congelando, respondendo e redirecionando frases antes que elas saiam correndo.",
+        "es": "Entrena el control de la improvisación en guitarra congelando, respondiendo y redirigiendo frases antes de que se escapen.",
+        "de": "Trainiere die Kontrolle beim Gitarren-Improvisieren, indem du Phrasen einfrierst, beantwortest und neu lenkst, bevor sie davonlaufen.",
+        "ja": "ギター即興でフレーズを止め、返し、進路変更しながら、暴走しないコントロールを鍛えるレッスンです。",
+        "zh-Hans": "通过冻结、回应和改道乐句，训练你的吉他即兴控制力，不让句子一路失控。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-04-25T00:06:47Z",
+    "updatedAt": "2026-04-25T00:06:47Z"
+  },
+  {
+    "id": "guitar-solo-roulette-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Roulette Lab",
+        "pt-BR": "Laboratório da Roleta do Solo",
+        "es": "Laboratorio de la Ruleta del Solo",
+        "de": "Solo-Roulette-Labor",
+        "ja": "ソロ・ルーレット・ラボ",
+        "zh-Hans": "独奏轮盘实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar improvisation reflexes by spinning through scale-based solo missions that force fast musical decisions.",
+        "pt-BR": "Treine seus reflexos de improvisação na guitarra girando missões com escalas que exigem decisões musicais rápidas.",
+        "es": "Entrena tus reflejos de improvisación en guitarra girando misiones con escalas que exigen decisiones musicales rápidas.",
+        "de": "Trainiere deine Gitarren-Improvisation mit Skalenmissionen, die schnelle musikalische Entscheidungen erzwingen.",
+        "ja": "スケール課題を次々切り替えながら、ギター即興の判断力と反射神経を鍛えるレッスンです。",
+        "zh-Hans": "用不断切换的音阶任务训练你的吉他即兴反应，让你在压力下也能做出音乐性的选择。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-04-29T00:04:06Z",
+    "updatedAt": "2026-04-29T00:04:06Z"
+  },
+  {
+    "id": "guitar-tension-trampoline",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Tension Trampoline",
+        "pt-BR": "Trampolim de Tensão",
+        "es": "Trampolín de Tensión",
+        "de": "Spannungs-Trampolin",
+        "ja": "テンション・トランポリン",
+        "zh-Hans": "张力蹦床"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bounce between safe notes and spicy notes to make your guitar solos sound intentional.",
+        "pt-BR": "Salte entre notas seguras e notas apimentadas para fazer seus solos de guitarra soarem intencionais.",
+        "es": "Salta entre notas seguras y notas picantes para que tus solos de guitarra suenen intencionales.",
+        "de": "Springe zwischen sicheren und würzigen Tönen, damit deine Gitarrensoli bewusst und lebendig klingen.",
+        "ja": "安定した音とスパイス音を行き来して、ギターソロを意図的で生きたものにしよう。",
+        "zh-Hans": "在安全音和刺激音之间弹跳，让你的吉他独奏更有意图也更有生命力。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-05-03T00:08:53Z",
+    "updatedAt": "2026-05-03T00:08:53Z"
+  },
+  {
+    "id": "guitar-chorus-jetpack",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chorus Jetpack for Guitar Scales",
+        "pt-BR": "Jetpack do Refrão para Escalas na Guitarra",
+        "es": "Jetpack del Estribillo para Escalas en Guitarra",
+        "de": "Refrain-Jetpack für Gitarrenskalen",
+        "ja": "ギタースケール用コーラス・ジェットパック",
+        "zh-Hans": "吉他音阶副歌喷射背包"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch your scale phrases into the chorus with target notes, rhythm tricks, and a no-drifting mission.",
+        "pt-BR": "Faça suas frases de escala decolarem no refrão com notas-alvo, truques rítmicos e uma missão sem se perder.",
+        "es": "Haz despegar tus frases de escala en el estribillo con notas objetivo, trucos rítmicos y una misión sin perder el rumbo.",
+        "de": "Lass deine Skalenphrasen im Refrain mit Zieltönen, Rhythmustricks und einer klaren Mission abheben.",
+        "ja": "ターゲットノートとリズムの工夫で、スケールのフレーズをサビでしっかり飛ばそう。",
+        "zh-Hans": "用目标音和节奏小机关，让你的音阶乐句在副歌里真正起飞。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-05-04T00:08:01Z",
+    "updatedAt": "2026-05-04T00:08:01Z"
+  },
+  {
+    "id": "guitar-rhythm-mirror-gauntlet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Mirror Gauntlet",
+        "pt-BR": "Arena do Espelho Rítmico",
+        "es": "Desafío del Espejo Rítmico",
+        "de": "Rhythmusspiegel-Parcours",
+        "ja": "リズムミラー・ガントレット",
+        "zh-Hans": "节奏镜像闯关"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar scale phrasing by copying, flipping, and upgrading rhythmic ideas without losing the groove.",
+        "pt-BR": "Treine o fraseado de escalas na guitarra copiando, invertendo e evoluindo ideias rítmicas sem perder o groove.",
+        "es": "Entrena tu fraseo de escalas en guitarra copiando, torciendo y mejorando ideas rítmicas sin perder el groove.",
+        "de": "Trainiere dein Gitarren-Skalen-Phrasing, indem du rhythmische Ideen spiegelst, verdrehst und weiterentwickelst, ohne den Groove zu verlieren.",
+        "ja": "ギターのスケールフレーズを、リズムを写し・ずらし・発展させながらグルーヴを保って鍛えるレッスンです。",
+        "zh-Hans": "通过复制、扭转并升级节奏想法来训练吉他音阶乐句，同时始终保持律动感。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-05-14T00:09:35Z",
+    "updatedAt": "2026-05-14T00:09:35Z"
+  },
+  {
+    "id": "guitar-beat-swerve-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Beat Swerve Etude",
+        "pt-BR": "Estudo da Curva no Backbeat",
+        "es": "Estudio de Desvío en el Backbeat",
+        "de": "Backbeat-Swerve-Etüde",
+        "ja": "ビートスワーブ・エチュード",
+        "zh-Hans": "反拍漂移练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Bend scale phrasing around the backbeat and make your solo land with swagger.",
+        "pt-BR": "Dobre o fraseado da escala em volta do backbeat e faça seu solo cair com atitude.",
+        "es": "Dobla el fraseo de la escala alrededor del backbeat y haz que tu solo caiga con carácter.",
+        "de": "Biege dein Skalen-Phrasing um den Backbeat und lass dein Solo mit Haltung landen.",
+        "ja": "スケールのフレージングをバックビートの周りでしならせ、ソロを気持ちよく着地させましょう。",
+        "zh-Hans": "让音阶乐句绕着反拍打弯，再帅气地落回拍点。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-06-06T00:06:38Z",
+    "updatedAt": "2026-06-06T00:06:38Z"
+  },
+  {
+    "id": "guitar-rhythm-snapback-mission",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Snapback Mission",
+        "pt-BR": "Missão Snapback Rítmico na Guitarra",
+        "es": "Misión de Rebote Rítmico en Guitarra",
+        "de": "Rhythmus-Snapback-Mission für Gitarre",
+        "ja": "ギター・リズム・スナップバック・ミッション",
+        "zh-Hans": "吉他节奏回弹任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your guitar scale phrasing to jump off the beat and land back with style, control, and strong target notes.",
+        "pt-BR": "Treine o fraseado de escalas na guitarra para sair do tempo e voltar com estilo, controle e boas notas de chegada.",
+        "es": "Entrena tu fraseo de escalas en guitarra para salir del pulso y volver con estilo, control y buenas notas objetivo.",
+        "de": "Trainiere dein Gitarren-Skalen-Phrasing so, dass es aus dem Puls springt und mit Stil, Kontrolle und klaren Zieltönen zurücklandet.",
+        "ja": "拍から少し外れても、スタイルとコントロール、そして強い着地音で戻れるギターのスケールフレージングを鍛えます。",
+        "zh-Hans": "训练你的吉他音阶乐句，让它们敢于离开拍点，又能靠风格、控制和强力目标音帅气落回去。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-06-09T00:07:17Z",
+    "updatedAt": "2026-06-09T00:07:17Z"
+  },
+  {
+    "id": "guitar-solo-slingshot-lab",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Solo Slingshot Lab",
+        "pt-BR": "Laboratório do Estilingue do Solo na Guitarra",
+        "es": "Laboratorio de Tirachinas para Solo de Guitarra",
+        "de": "Gitarren-Solo-Schleuder-Labor",
+        "ja": "ギター・ソロ・スリングショット研究室",
+        "zh-Hans": "吉他独奏弹弓实验室"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Pull a solo away from safe notes and snap it back with target tones, rhythm, and control.",
+        "pt-BR": "Afaste o solo das notas seguras e traga-o de volta com notas-alvo, ritmo e controle.",
+        "es": "Aleja tu solo de las notas seguras y hazlo volver con notas objetivo, ritmo y control.",
+        "de": "Ziehe dein Solo von sicheren Tönen weg und schnippe es mit Zieltönen, Rhythmus und Kontrolle zurück.",
+        "ja": "安定した音から離れ、ターゲット音とリズムでしっかり戻るソロ感覚を鍛えます。",
+        "zh-Hans": "练习把独奏从安全音拉开，再用目标音、节奏和控制力弹回落点。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-06-11T00:07:36Z",
+    "updatedAt": "2026-06-11T00:07:36Z"
+  },
+  {
+    "id": "guitar-solo-clue-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Clue Hunt",
+        "pt-BR": "Caça às Pistas do Solo",
+        "es": "Caza de Pistas para el Solo",
+        "de": "Solo-Spurensuche",
+        "ja": "ソロ手がかりハント",
+        "zh-Hans": "独奏线索追踪"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Track target notes like a detective and turn scale practice into a story-driven guitar solo game.",
+        "pt-BR": "Persiga notas-alvo como uma detetive e transforme o estudo de escalas em um jogo narrativo de solo de guitarra.",
+        "es": "Sigue notas objetivo como una detective y convierte el estudio de escalas en un juego narrativo de solo de guitarra.",
+        "de": "Verfolge Zieltöne wie ein Detektiv und verwandle Skalenpraxis in ein erzählerisches Gitarrensolo-Spiel.",
+        "ja": "探偵のようにターゲット音を追いかけ、スケール練習を物語のあるギターソロゲームに変えます。",
+        "zh-Hans": "像侦探一样追踪目标音，把吉他音阶练习变成有剧情的独奏任务。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-06-13T00:07:39Z",
+    "updatedAt": "2026-06-13T00:07:39Z"
+  },
+  {
+    "id": "guitar-rhythm-comet",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Comet",
+        "pt-BR": "Cometa Rítmico da Guitarra",
+        "es": "Cometa Rítmico de Guitarra",
+        "de": "Rhythmus-Komet für Gitarre",
+        "ja": "ギター・リズム・コメット",
+        "zh-Hans": "吉他节奏彗星"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Fire scale phrases through changing rhythms and land on target notes before the tail burns out.",
+        "pt-BR": "Lance frases de escala por ritmos diferentes e pouse em notas-alvo antes que a cauda se apague.",
+        "es": "Lanza frases de escala con ritmos cambiantes y aterriza en notas objetivo antes de que la cola se desintegre.",
+        "de": "Schieße Skalenphrasen durch wechselnde Rhythmen und lande rechtzeitig auf Zieltönen.",
+        "ja": "リズムを切り替えながら音階フレーズを飛ばし、最後は狙った音に着地しよう。",
+        "zh-Hans": "让音阶乐句穿过不断变化的节奏，并在尾焰熄灭前落到目标音上。"
+      }
+    },
+    "order": 20,
+    "createdAt": "2026-06-19T00:08:38Z",
+    "updatedAt": "2026-06-19T00:08:38Z"
+  },
+  {
+    "id": "guitar-solo-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Solo Checkpoints",
+        "pt-BR": "Checkpoints do Solo",
+        "es": "Puntos de Control del Solo",
+        "de": "Solo-Kontrollpunkte",
+        "ja": "ソロ・チェックポイント",
+        "zh-Hans": "独奏检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale improvisation into a checkpoint race by landing strong target notes, changing rhythm, and surviving deliberate phrase restrictions.",
+        "pt-BR": "Transforme a improvisação com escalas em uma corrida de checkpoints, acertando notas-alvo, mudando o ritmo e sobrevivendo a restrições de fraseado.",
+        "es": "Convierte la improvisación con escalas en una carrera de puntos de control, aterrizando notas objetivo, cambiando ritmos y sobreviviendo a reglas de fraseo.",
+        "de": "Verwandle Skalenimprovisation in ein Kontrollpunkt-Rennen, bei dem du Zieltöne triffst, Rhythmen wechselst und Phrase-Regeln überlebst.",
+        "ja": "スケール即興をチェックポイント競争に変え、狙った音、リズム変化、フレーズ制限の中で音楽的な判断力を鍛えます。",
+        "zh-Hans": "把音阶即兴变成检查点挑战，在目标音、节奏变化和乐句限制中训练真正的音乐控制力。"
+      }
+    },
+    "order": 21,
+    "createdAt": "2026-06-20T00:07:03Z",
+    "updatedAt": "2026-06-20T00:07:03Z"
+  },
+  {
+    "id": "guitar-backbeat-obstacle-course",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Backbeat Obstacle Course",
+        "pt-BR": "Guitarra: pista de obstáculos do backbeat",
+        "es": "Guitarra: circuito de obstáculos del backbeat",
+        "de": "Gitarre: Backbeat-Hindernisparcours",
+        "ja": "ギターのバックビート障害物コース",
+        "zh-Hans": "吉他反拍障碍赛道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Punch through syncopated scale phrases without losing the groove.",
+        "pt-BR": "Atravesse frases sincopadas de escala sem perder o groove.",
+        "es": "Supera frases sincopadas de escala sin perder el groove.",
+        "de": "Bewältige synkopierte Skalenphrasen, ohne den Groove zu verlieren.",
+        "ja": "グルーヴを保ったまま、シンコペーション入りのスケールフレーズを突破しよう。",
+        "zh-Hans": "在不丢失律动的前提下，闯过带切分节奏的音阶乐句。"
+      }
+    },
+    "order": 22,
+    "createdAt": "2026-06-27T00:06:35Z",
+    "updatedAt": "2026-06-27T00:06:35Z"
+  },
+  {
+    "id": "guitar-echo-ladder-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Echo Ladder Etude",
+        "pt-BR": "Etude da Escada de Ecos na Guitarra",
+        "es": "Etude de Escalera de Ecos para Guitarra",
+        "de": "Gitarren-Echoleiter-Etüde",
+        "ja": "ギター・エコーラダー・エチュード",
+        "zh-Hans": "吉他回声阶梯练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a mini solo by repeating, shifting, and upgrading one scale idea without dropping the groove.",
+        "pt-BR": "Construa um mini solo repetindo, deslocando e evoluindo uma ideia de escala sem perder o groove.",
+        "es": "Construye un mini solo repitiendo, moviendo y mejorando una idea de escala sin perder el groove.",
+        "de": "Baue ein Mini-Solo auf, indem du eine Tonleiter-Idee wiederholst, verschiebst und steigerst, ohne den Groove zu verlieren.",
+        "ja": "ひとつのスケールのアイデアを繰り返し、ずらし、発展させて、グルーヴを保ったままミニソロを作ろう。",
+        "zh-Hans": "重复、位移并升级同一个音阶想法，在不丢掉 groove 的情况下搭出一段迷你独奏。"
+      }
+    },
+    "order": 23,
+    "createdAt": "2026-07-03T00:07:17Z",
+    "updatedAt": "2026-07-03T00:07:17Z"
+  },
+  {
+    "id": "guitar-rhythm-trapdoor-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Trapdoor Run",
+        "pt-BR": "Corrida das Armadilhas Rítmicas na Guitarra",
+        "es": "Carrera de Trampillas Rítmicas en Guitarra",
+        "de": "Gitarrenlauf mit Rhythmus-Falltüren",
+        "ja": "ギター・リズム落とし穴ラン",
+        "zh-Hans": "吉他节奏陷门冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Dodge rhythmic trapdoors with the A minor pentatonic while building timing, accents, and recovery skills.",
+        "pt-BR": "Desvie de armadilhas rítmicas com a pentatônica de Lá menor enquanto desenvolve tempo, acentuação e recuperação.",
+        "es": "Esquiva trampillas rítmicas con la pentatónica de La menor mientras desarrollas pulso, acentos y capacidad de recuperación.",
+        "de": "Weiche rhythmischen Falltüren mit der A-Moll-Pentatonik aus und trainiere Timing, Akzente und Erholung nach kleinen Fehlern.",
+        "ja": "Aマイナーペンタトニックでリズムの落とし穴をかわしながら、タイム感・アクセント・立て直し力を鍛えます。",
+        "zh-Hans": "用A小调五声音阶躲开节奏陷门，同时建立节拍感、重音控制和失误恢复能力。"
+      }
+    },
+    "order": 24,
+    "createdAt": "2026-07-05T00:06:42Z",
+    "updatedAt": "2026-07-05T00:06:42Z"
+  },
+  {
+    "id": "guitar-landing-zones-etude",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Landing Zones Etude",
+        "pt-BR": "Estudo das Zonas de Pouso na Guitarra",
+        "es": "Estudio de Zonas de Aterrizaje para Guitarra",
+        "de": "Gitarren-Etüde mit Landezonen",
+        "ja": "ギター着地ポイント・エチュード",
+        "zh-Hans": "吉他落点练习曲"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale runs into musical solos by planning strong landing notes and rhythm choices.",
+        "pt-BR": "Transforme passagens de escala em solos musicais planejando notas de chegada e escolhas rítmicas.",
+        "es": "Convierte pasajes de escala en solos musicales planificando notas de llegada y decisiones rítmicas.",
+        "de": "Verwandle Skalenläufe in musikalische Soli, indem du starke Zieltöne und Rhythmusentscheidungen planst.",
+        "ja": "強い着地音とリズムの選択を計画して、スケール走行を音楽的なソロに変えよう。",
+        "zh-Hans": "通过规划强有力的落点音和节奏选择，把音阶跑动变成真正有音乐性的独奏。"
+      }
+    },
+    "order": 25,
+    "createdAt": "2026-07-06T00:08:19Z",
+    "updatedAt": "2026-07-06T00:08:19Z"
+  },
+  {
+    "id": "guitar-rhythm-switchblade-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Rhythm Switchblade Quest",
+        "pt-BR": "Missão Lâmina Rítmica na Guitarra",
+        "es": "Misión Cuchilla Rítmica en Guitarra",
+        "de": "Gitarrenmission Rhythmus-Klappmesser",
+        "ja": "ギター・リズム折りたたみナイフ作戦",
+        "zh-Hans": "吉他节奏折刀任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Slice through rhythm changes with scale phrases that stay sharp, musical, and under control.",
+        "pt-BR": "Corte mudanças rítmicas com frases de escala que continuam afiadas, musicais e sob controle.",
+        "es": "Corta cambios rítmicos con frases de escala que sigan afiladas, musicales y bajo control.",
+        "de": "Schneide durch Rhythmuswechsel mit Skalenphrasen, die scharf, musikalisch und kontrolliert bleiben.",
+        "ja": "鋭さと音楽性とコントロールを保ったまま、スケールフレーズでリズム変化を切り抜けよう。",
+        "zh-Hans": "用始终锋利、音乐性十足又可控的音阶乐句，切开各种节奏变化。"
+      }
+    },
+    "order": 26,
+    "createdAt": "2026-07-07T00:06:51Z",
+    "updatedAt": "2026-07-07T00:06:51Z"
+  },
+  {
+    "id": "guitar-solo-detour-arcade",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Solo Detour Arcade",
+        "pt-BR": "Arcade dos Desvios de Solo na Guitarra",
+        "es": "Arcade de Desvíos para Solo de Guitarra",
+        "de": "Gitarren-Solo-Umweg-Arcade",
+        "ja": "ギター・ソロ寄り道アーケード",
+        "zh-Hans": "吉他独奏绕路游戏厅"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one scale into a playful improv game with checkpoints, target notes, and bold rhythmic detours.",
+        "pt-BR": "Transforme uma escala em um jogo divertido de improviso com checkpoints, notas-alvo e desvios rítmicos ousados.",
+        "es": "Convierte una escala en un juego divertido de improvisación con checkpoints, notas objetivo y desvíos rítmicos atrevidos.",
+        "de": "Verwandle eine Tonleiter in ein spielerisches Impro-Spiel mit Checkpoints, Zieltönen und mutigen rhythmischen Umwegen.",
+        "ja": "チェックポイント、着地音、思い切ったリズムの寄り道で、1つのスケールを楽しい即興ゲームに変えるレッスンです。",
+        "zh-Hans": "把一条音阶变成好玩又有策略的即兴游戏，练习检查点、目标音和大胆的节奏绕路。"
+      }
+    },
+    "order": 27,
+    "createdAt": "2026-07-14T00:04:59Z",
+    "updatedAt": "2026-07-14T00:04:59Z"
+  },
+  {
+    "id": "guitar-target-window-sprint",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Guitar Target Window Sprint\"",
+        "pt-BR": "\"Sprint da Janela-Alvo na Guitarra\"",
+        "es": "\"Sprint de Ventanas Objetivo en Guitarra\"",
+        "de": "\"Gitarren-Zielton-Fenster-Sprint\"",
+        "ja": "\"ギター・ターゲットウィンドウ・スプリント\"",
+        "zh-Hans": "\"吉他目标窗口冲刺\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Hit small chord-tone windows with rhythm, direction, and fast recovery.\"",
+        "pt-BR": "\"Acerte pequenas janelas de notas-alvo com ritmo, direção e recuperação rápida.\"",
+        "es": "\"Acierta pequeñas ventanas de notas objetivo con ritmo, dirección y recuperación rápida.\"",
+        "de": "\"Treffe kleine Zielton-Fenster mit Rhythmus, Richtung und schneller Rettung.\"",
+        "ja": "\"小さなターゲット音の窓を、リズムと進行方向と立て直し力で射抜こう。\"",
+        "zh-Hans": "\"用节奏、走向和快速修正能力，命中那些很小的目标音窗口。\""
+      }
+    },
+    "order": 28,
+    "createdAt": "2026-07-15T00:05:53Z",
+    "updatedAt": "2026-07-15T00:05:53Z"
   }
 ]

@@ -1,0 +1,60 @@
+{
+  "id": "guitar-target-note-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Warm up the relay\n\nUse **G major / E minor** notes over a looping **G - Em - C - D** progression.\n\nSet a metronome to **88 bpm** and stay in one neck position first.\n\nToday you are not running every note in the scale. You are racing toward the notes that make each chord sound real.",
+          "pt-BR": "### Aqueça para o revezamento\n\nUse notas de **Sol maior / Mi menor** sobre a progressão em loop **G - Em - C - D**.\n\nAjuste o metrônomo para **88 bpm** e fique primeiro em uma posição confortável do braço.\n\nHoje você não vai correr por todas as notas da escala. Vai correr em direção às notas que fazem cada acorde soar de verdade.",
+          "es": "### Calienta para el relevo\n\nUsa notas de **Sol mayor / Mi menor** sobre una progresión en bucle **G - Em - C - D**.\n\nPon el metrónomo en **88 bpm** y quédate primero en una sola posición cómoda del mástil.\n\nHoy no vas a correr por todas las notas de la escala. Vas a correr hacia las notas que hacen que cada acorde suene de verdad.",
+          "de": "### Wärm dich für die Staffel auf\n\nNutze Töne aus **G-Dur / E-Moll** über einer Loop-Folge **G - Em - C - D**.\n\nStell das Metronom auf **88 bpm** und bleib zuerst in einer bequemen Lage auf dem Griffbrett.\n\nHeute rennst du nicht durch jede Note der Skala. Du jagst die Töne, die jeden Akkord wirklich klar klingen lassen.",
+          "ja": "### リレーの準備をしよう\n\n**Gメジャー / Eマイナー** の音を、**G - Em - C - D** のループ進行で使います。\n\nメトロノームは **88 bpm** にして、まずは弾きやすいポジションを1つ決めましょう。\n\n今日はスケールの全音を走り抜ける日ではありません。各コードを本物らしく響かせる音へ走る日です。",
+          "zh-Hans": "### 先热身再接力\n\n在循环进行 **G - Em - C - D** 上使用 **G大调 / E小调** 的音。\n\n把节拍器设为 **88 bpm**，先待在一个舒服的把位里。\n\n今天你不是把音阶每个音都跑一遍，而是冲向那些能让和弦真正站稳的音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Leg 1: hit the baton notes\n\nPlay **one short phrase per chord**.\n\nRules:\n- start each phrase on any scale note\n- land on a strong chord tone by beat **3**\n- use no more than **5 notes** per phrase\n\nTargets:\n- **G or B** on **G**\n- **E or G** on **Em**\n- **E or C** on **C**\n- **F# or A** on **D**",
+          "pt-BR": "### Trecho 1: acerte as notas-bastão\n\nToque **uma frase curta por acorde**.\n\nRegras:\n- comece cada frase em qualquer nota da escala\n- pouse em uma nota forte do acorde até o tempo **3**\n- use no máximo **5 notas** por frase\n\nAlvos:\n- **G ou B** sobre **G**\n- **E ou G** sobre **Em**\n- **E ou C** sobre **C**\n- **F# ou A** sobre **D**",
+          "es": "### Tramo 1: golpea las notas testigo\n\nToca **una frase corta por acorde**.\n\nReglas:\n- empieza cada frase en cualquier nota de la escala\n- cae en una nota fuerte del acorde para el tiempo **3**\n- usa no más de **5 notas** por frase\n\nObjetivos:\n- **G o B** sobre **G**\n- **E o G** sobre **Em**\n- **E o C** sobre **C**\n- **F# o A** sobre **D**",
+          "de": "### Abschnitt 1: triff die Staffelstab-Töne\n\nSpiele **pro Akkord eine kurze Phrase**.\n\nRegeln:\n- beginne jede Phrase auf einem beliebigen Skalenton\n- lande bis Schlag **3** auf einem starken Akkordton\n- nutze höchstens **5 Töne** pro Phrase\n\nZieltöne:\n- **G oder B** über **G**\n- **E oder G** über **Em**\n- **E oder C** über **C**\n- **F# oder A** über **D**",
+          "ja": "### 第1走者：バトンになる音を当てる\n\n**各コードにつき短いフレーズを1つ** 弾きます。\n\nルール:\n- 各フレーズはスケール内のどの音から始めてもよい\n- **3拍目** までに強いコードトーンへ着地する\n- 1フレーズは **5音以内** にする\n\n目標音:\n- **G** または **B** を **G** で\n- **E** または **G** を **Em** で\n- **E** または **C** を **C** で\n- **F#** または **A** を **D** で",
+          "zh-Hans": "### 第一棒：击中接力音\n\n**每个和弦弹一句短乐句**。\n\n规则:\n- 每句可以从音阶里的任意音开始\n- 在第 **3** 拍前落到一个强和弦音上\n- 每句最多只用 **5个音**\n\n目标音:\n- **G** 或 **B** 对应 **G**\n- **E** 或 **G** 对应 **Em**\n- **E** 或 **C** 对应 **C**\n- **F#** 或 **A** 对应 **D**"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Leg 2: add a surprise route\n\nKeep the same progression, but now every phrase must include:\n- **one skip** of a 3rd\n- **one bit of space** after the target note\n- **one rhythm change** between two neighboring chords\n\nIf you miss the target, slow down and fix the ending before changing the beginning.",
+          "pt-BR": "### Trecho 2: adicione uma rota surpresa\n\nMantenha a mesma progressão, mas agora cada frase precisa incluir:\n- **um salto** de 3ª\n- **um espaço** depois da nota-alvo\n- **uma mudança rítmica** entre dois acordes vizinhos\n\nSe você errar o alvo, diminua a velocidade e conserte o final antes de mudar o começo.",
+          "es": "### Tramo 2: añade una ruta sorpresa\n\nMantén la misma progresión, pero ahora cada frase debe incluir:\n- **un salto** de 3ª\n- **un espacio** después de la nota objetivo\n- **un cambio rítmico** entre dos acordes vecinos\n\nSi fallas el objetivo, baja la velocidad y arregla el final antes de cambiar el comienzo.",
+          "de": "### Abschnitt 2: nimm eine Überraschungsroute\n\nBehalte dieselbe Folge, aber jetzt muss jede Phrase enthalten:\n- **einen Sprung** in einer 3\n- **etwas Luft** nach dem Zielton\n- **eine Rhythmusänderung** zwischen zwei benachbarten Akkorden\n\nWenn du den Zielton verfehlst, spiel langsamer und repariere zuerst das Ende, bevor du den Anfang änderst.",
+          "ja": "### 第2走者：意外なルートを足す\n\n同じ進行のまま、今度は各フレーズに次を入れます:\n- **3度の跳躍** を1回\n- 目標音のあとに **少し間** を作る\n- 隣り合う2つのコードの間で **リズムを1回変える**\n\n目標音を外したら、最初を変える前にテンポを落として終わり方を直しましょう。",
+          "zh-Hans": "### 第二棒：加入惊喜路线\n\n保持同样的进行，但现在每句还必须包含:\n- **一次三度跳进**\n- 目标音之后 **留一点空隙**\n- 在相邻两个和弦之间 **换一次节奏**\n\n如果没打中目标音，先放慢速度，把结尾修好，再去改开头。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Final relay showdown\n\nCreate **three full 4-chord runs**.\n\nTo clear the challenge, each run needs:\n- different ending notes on at least two chords\n- one phrase with a slide, bend, or hammer-on if comfortable\n- a confident landing on the final **D** chord\n\nKeep the run that sounds most singable, then move the whole relay to **A major / F# minor**. 🎸",
+          "pt-BR": "### Desafio final do revezamento\n\nCrie **três voltas completas de 4 acordes**.\n\nPara vencer o desafio, cada volta precisa ter:\n- finais diferentes em pelo menos dois acordes\n- uma frase com slide, bend ou hammer-on se for confortável\n- uma chegada confiante no acorde final de **D**\n\nGuarde a volta que soar mais cantável e depois leve todo o revezamento para **Lá maior / Fá# menor**. 🎸",
+          "es": "### Duelo final del relevo\n\nCrea **tres recorridos completos de 4 acordes**.\n\nPara superar el reto, cada recorrido necesita:\n- finales distintos en al menos dos acordes\n- una frase con slide, bend o hammer-on si te resulta cómodo\n- una llegada segura al acorde final de **D**\n\nQuédate con el recorrido que suene más cantable y luego mueve todo el relevo a **La mayor / Fa# menor**. 🎸",
+          "de": "### Finale Staffel-Challenge\n\nErfinde **drei komplette 4-Akkord-Läufe**.\n\nUm die Challenge zu schaffen, braucht jeder Lauf:\n- verschiedene Endtöne bei mindestens zwei Akkorden\n- eine Phrase mit Slide, Bend oder Hammer-on, wenn es sich gut anfühlt\n- eine sichere Landung auf dem letzten **D**-Akkord\n\nBehalte den Lauf, der am singbarsten klingt, und verlege die ganze Staffel dann nach **A-Dur / F#-Moll**. 🎸",
+          "ja": "### 最終リレー決戦\n\n**4コード分のランを3回** 作ってください。\n\nクリア条件:\n- 少なくとも2つのコードで終わりの音が違うこと\n- 無理なくできるなら、1つのフレーズにスライド、ベンド、またはハンマリングを入れること\n- 最後の **D** コードへ自信を持って着地すること\n\nいちばん歌える感じのランを残し、そのまま **Aメジャー / F#マイナー** に移調してみましょう。🎸",
+          "zh-Hans": "### 最终接力对决\n\n完成 **3次完整的4和弦跑法**。\n\n通关要求:\n- 至少有两个和弦使用不同的结尾音\n- 如果手感允许，加入一次滑音、推弦或击弦\n- 在最后的 **D** 和弦上自信落地\n\n保留最像“能唱出来”的那一版，然后把整场接力移到 **A大调 / F#小调**。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-19T00:05:55Z",
+  "updatedAt": "2026-07-19T00:05:55Z"
+}

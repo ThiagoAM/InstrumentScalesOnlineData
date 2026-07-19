@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-magnet",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set up in **D major** and imagine beat 1 as a magnetic floor tile you must always be able to find again. Start with a simple root-octave groove, then add one scale step between them. The challenge is to decorate the line without weakening the pocket.",
+          "pt-BR": "Prepare-se em **Ré maior** e imagine o tempo 1 como uma placa magnética no chão que você sempre precisa encontrar de novo. Comece com um groove simples de tônica e oitava e depois acrescente um grau da escala entre elas. O desafio é enfeitar a linha sem enfraquecer o pocket.",
+          "es": "Empieza en **Re mayor** e imagina el tiempo 1 como una baldosa magnética a la que siempre debes poder regresar. Comienza con un groove simple de tónica y octava y luego añade un paso de escala entre ambas. El reto es adornar la línea sin debilitar el pocket.",
+          "de": "Starte in **D-Dur** und stell dir Zählzeit 1 wie eine magnetische Bodenplatte vor, die du immer wiederfinden musst. Beginne mit einem einfachen Grundton-Oktav-Groove und füge dann einen Skalenton dazwischen ein. Die Aufgabe ist, die Linie auszuschmücken, ohne das Pocket zu schwächen.",
+          "ja": "**Dメジャー**で始め、1拍目を必ず戻るべき磁石の床だと考えましょう。まずはルートとオクターブのシンプルなグルーヴを作り、その間に1つだけスケール音を足します。飾りを増やしても、ポケットが弱くならないことが条件です。",
+          "zh-Hans": "在 **D 大调** 里开始，把第 1 拍想成一块你必须随时找得到的磁性地砖。先做一个简单的根音—八度 groove，再在中间加入一个音阶级进音。难点不是加花，而是加花以后 pocket 不能变弱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1: build a two-bar groove using only **root, 2nd, 3rd, 5th, and octave**. In bar 1, keep things plain. In bar 2, sneak in one ghost note and one rest. If the groove suddenly feels smaller, your timing needs more confidence.",
+          "pt-BR": "Rodada 1: monte um groove de dois compassos usando apenas **tônica, 2ª, 3ª, 5ª e oitava**. No compasso 1, mantenha tudo simples. No compasso 2, esconda uma ghost note e uma pausa. Se o groove encolher, seu tempo precisa de mais confiança.",
+          "es": "Ronda 1: construye un groove de dos compases usando solo **tónica, 2ª, 3ª, 5ª y octava**. En el compás 1 mantén todo sencillo. En el compás 2 mete una ghost note y un silencio. Si el groove se encoge, a tu pulso le falta confianza.",
+          "de": "Runde 1: baue einen Zwei-Takt-Groove nur mit **Grundton, Sekunde, Terz, Quinte und Oktave**. In Takt 1 bleibt alles schlicht. In Takt 2 schmuggelst du eine Ghost Note und eine Pause hinein. Wenn der Groove plötzlich kleiner wirkt, braucht dein Timing mehr Selbstvertrauen.",
+          "ja": "ラウンド1では **ルート、2度、3度、5度、オクターブ** だけで2小節のグルーヴを作ります。1小節目はシンプルに、2小節目ではゴーストノート1つと休符1つを忍ばせてください。そこで小さく聞こえるなら、タイム感にまだ自信が必要です。",
+          "zh-Hans": "第 1 轮只用 **根音、2度、3度、5度和八度** 做一个两小节 groove。第 1 小节保持朴素，第 2 小节偷偷放进一个幽灵音和一个休止。如果 groove 突然变小了，说明你的时间感还不够笃定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2: choose one note that acts like a **magnet return point**. Every fill, slide, or approach tone must eventually snap back to that note on a strong subdivision. This teaches you that freedom in a bass line only sounds good when the landing feels trustworthy.",
+          "pt-BR": "Rodada 2: escolha uma nota para ser o **ponto de retorno magnético**. Todo fill, slide ou nota de aproximação precisa voltar para ela em uma subdivisão forte. Isso ensina que liberdade na linha de baixo só soa bem quando a chegada transmite confiança.",
+          "es": "Ronda 2: elige una nota como **punto magnético de regreso**. Todo fill, slide o nota de aproximación debe volver a ella en una subdivisión fuerte. Eso te enseña que la libertad en una línea de bajo solo suena bien cuando el aterrizaje es confiable.",
+          "de": "Runde 2: wähle einen Ton als **magnetischen Rückkehrpunkt**. Jeder Fill, Slide oder Annäherungston muss schließlich auf einer starken Unterteilung dorthin zurückschnappen. So merkst du: Freiheit in der Basslinie klingt nur dann gut, wenn die Landung verlässlich ist.",
+          "ja": "ラウンド2では1音を **磁石の帰着点** に決めます。どんなフィル、スライド、アプローチノートも、最後はその音へ強い拍の位置で戻らなければなりません。ベースラインの自由さは、着地が信頼できて初めて音楽になります。",
+          "zh-Hans": "第 2 轮选一个音作为 **磁性回归点**。所有 fill、滑音和趋近音，最后都必须在强细分位置弹回这个音。你会学到：贝斯线的自由感，只有落点可靠时才真的好听。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: play the groove for four repeats. On repeat 1, stay low. On repeat 2, add an octave jump. On repeat 3, use a passing tone. On repeat 4, remove one note and let silence do the work. Make all four versions sound like the same band would want them.",
+          "pt-BR": "Rodada desafio: toque o groove por quatro repetições. Na repetição 1, fique no registro grave. Na 2, adicione um salto de oitava. Na 3, use uma nota de passagem. Na 4, retire uma nota e deixe o silêncio trabalhar. Faça as quatro versões soarem como se a mesma banda quisesse tocar todas.",
+          "es": "Ronda desafío: toca el groove cuatro veces. En la repetición 1 quédate abajo. En la 2 agrega un salto de octava. En la 3 usa una nota de paso. En la 4 quita una nota y deja que el silencio haga su trabajo. Haz que las cuatro versiones parezcan decisiones de la misma banda.",
+          "de": "Challenge-Runde: spiele den Groove vier Wiederholungen lang. In Runde 1 bleibst du tief. In Runde 2 kommt ein Oktavsprung dazu. In Runde 3 ein Durchgangston. In Runde 4 nimmst du einen Ton weg und lässt die Stille arbeiten. Alle vier Versionen sollen wie Entscheidungen derselben Band klingen.",
+          "ja": "チャレンジでは同じグルーヴを4回繰り返します。1回目は低音域だけ。2回目はオクターブ跳躍を追加。3回目は経過音を追加。4回目は音を1つ減らして、沈黙に働かせます。4つ全部が同じバンドの選択に聞こえるようにしましょう。",
+          "zh-Hans": "挑战轮：把 groove 连续弹四遍。第 1 遍保持低音区，第 2 遍加入八度跳跃，第 3 遍加入经过音，第 4 遍删掉一个音，让沉默来工作。四个版本都要像同一支乐队会做出的选择。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by checking three things: **Is my pulse solid? Do ghost notes support the groove instead of cluttering it? Can I make the last landing feel heavier than the first one?** If yes, your pocket is becoming a force, not an accident.",
+          "pt-BR": "Termine checando três pontos: **meu pulso está sólido? As ghost notes ajudam o groove em vez de embolar? Consigo fazer a última chegada soar mais pesada que a primeira?** Se sim, seu pocket está virando uma força, não um acidente.",
+          "es": "Termina revisando tres cosas: **¿mi pulso es sólido? ¿las ghost notes apoyan el groove en vez de ensuciarlo? ¿puedo hacer que el último aterrizaje pese más que el primero?** Si sí, tu pocket ya empieza a ser una fuerza y no una casualidad.",
+          "de": "Zum Schluss prüfe drei Dinge: **Ist mein Puls stabil? Unterstützen die Ghost Notes den Groove statt ihn vollzustopfen? Kann ich die letzte Landung schwerer wirken lassen als die erste?** Wenn ja, wird dein Pocket zu einer echten Kraft.",
+          "ja": "最後に **脈は安定しているか、ゴーストノートは邪魔ではなく支えになっているか、最後の着地を最初より重くできるか** を確認してください。全部 yes なら、あなたのポケットは偶然ではなく武器になり始めています。",
+          "zh-Hans": "最后检查三件事：**脉冲稳不稳？幽灵音是在帮 groove 还是在添乱？我能不能让最后一次落点比第一次更有分量？** 如果都可以，你的 pocket 就正在从“碰巧”变成“能力”。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-19T00:07:38Z",
+  "updatedAt": "2026-05-19T00:07:38Z"
+}

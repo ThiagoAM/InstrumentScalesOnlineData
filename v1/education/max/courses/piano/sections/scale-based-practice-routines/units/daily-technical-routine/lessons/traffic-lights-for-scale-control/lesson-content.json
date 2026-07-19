@@ -1,0 +1,73 @@
+{
+  "id": "traffic-lights-for-scale-control",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine your scale is driving through a city. Pick **D major** or **B minor** over two octaves and divide the run into three traffic lights: **green** for easy notes, **yellow** for the thumb crossing, and **red** for the spot that usually gets messy. Naming the danger zone makes your technique less mysterious.",
+          "pt-BR": "Imagine que a sua escala está dirigindo pela cidade. Escolha **Ré maior** ou **Si menor** em duas oitavas e divida o percurso em três semáforos: **verde** para notas fáceis, **amarelo** para a passagem do polegar e **vermelho** para o ponto que normalmente fica bagunçado. Dar nome ao trecho perigoso deixa a técnica menos misteriosa.",
+          "es": "Imagina que tu escala conduce por una ciudad. Elige **Re mayor** o **Si menor** en dos octavas y divide el recorrido en tres semáforos: **verde** para notas fáciles, **amarillo** para el cruce del pulgar y **rojo** para el punto que suele ensuciarse. Nombrar la zona de peligro hace que la técnica sea menos misteriosa.",
+          "de": "Stell dir vor, deine Tonleiter fährt durch eine Stadt. Wähle **D-Dur** oder **h-Moll** über zwei Oktaven und teile den Lauf in drei Ampeln: **grün** für leichte Töne, **gelb** für den Daumenuntersatz und **rot** für die Stelle, die meist unsauber wird. Wenn du der Gefahrenzone einen Namen gibst, wird Technik weniger geheimnisvoll.",
+          "ja": "自分のスケールが街を走っていると想像してください。**Dメジャー** か **Bマイナー** を2オクターブで選び、流れを3つの信号に分けます。**青** は楽な音、**黄** は親指くぐり、**赤** はいつも乱れやすい場所です。危険地帯に名前をつけると、テクニックの問題がぐっと見えやすくなります。",
+          "zh-Hans": "想象你的音阶正在城市里开车。选择 **D大调** 或 **B小调** 的两八度音阶，把整段路线分成三个红绿灯：**绿灯** 是轻松区域，**黄灯** 是拇指穿越处，**红灯** 是最容易出乱子的地方。给危险区命名，会让技术问题不再神秘。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Play once at a calm tempo and exaggerate the colors. Green notes feel relaxed, yellow notes feel prepared, and red notes get extra attention without extra tension. You are not braking randomly—you are learning where control actually lives.",
+          "pt-BR": "Toque uma vez em andamento calmo e exagere as cores. As notas verdes ficam relaxadas, as amarelas ficam preparadas e as vermelhas recebem atenção extra sem tensão extra. Você não está freando aleatoriamente — está aprendendo onde o controle realmente mora.",
+          "es": "Toca una vez a tempo calmado y exagera los colores. Las notas verdes se sienten relajadas, las amarillas preparadas y las rojas reciben atención extra sin tensión extra. No estás frenando al azar: estás aprendiendo dónde vive realmente el control.",
+          "de": "Spiele einmal in ruhigem Tempo und übertreibe die Farben. Grüne Töne fühlen sich entspannt an, gelbe vorbereitet und rote bekommen extra Aufmerksamkeit ohne extra Spannung. Du bremst nicht zufällig — du lernst, wo Kontrolle wirklich sitzt.",
+          "ja": "落ち着いたテンポで1回弾き、色の違いを大げさにつけましょう。青はリラックス、黄は準備、赤は余計な力を入れずに注意深く。むやみにブレーキをかけるのではなく、コントロールが必要な場所を学ぶのです。",
+          "zh-Hans": "用平稳速度先弹一遍，并把这些颜色夸张出来。绿灯区要放松，黄灯区要提前准备，红灯区要多给注意力，但不要多给紧张。你不是在随便刹车，而是在学习控制真正住在哪里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now reverse the game. On the next repetition, keep the pulse steady but make the red zone **quieter and smoother** instead of slower. This teaches your fingers that problem spots need precision, not panic.",
+          "pt-BR": "Agora inverta o jogo. Na repetição seguinte, mantenha o pulso estável, mas faça a zona vermelha soar **mais suave e mais conectada** em vez de mais lenta. Isso ensina seus dedos que pontos difíceis precisam de precisão, não de pânico.",
+          "es": "Ahora invierte el juego. En la siguiente repetición, mantén el pulso estable, pero haz que la zona roja suene **más suave y más ligada** en lugar de más lenta. Esto enseña a tus dedos que los puntos difíciles necesitan precisión, no pánico.",
+          "de": "Dreh das Spiel jetzt um. In der nächsten Wiederholung bleibt der Puls stabil, aber die rote Zone soll **leiser und glatter** klingen statt langsamer. So lernen deine Finger, dass Problemstellen Präzision brauchen und keine Panik.",
+          "ja": "次は逆ゲームです。次の反復では拍は一定のまま、赤ゾーンを **遅くする代わりに、より静かでなめらかに** 弾きます。難所に必要なのはパニックではなく精度だと、指に教える練習です。",
+          "zh-Hans": "现在把游戏反过来。下一遍保持拍子稳定，但让红灯区 **更轻、更顺**，而不是更慢。这样你的手指会明白：难点需要的是精确，不是慌张。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the next round, switch hands. Let the left hand be the traffic officer while the right hand follows the plan, then swap. If one hand rushes ahead, do not scold it—mark the exact note where it sped and rerun only that intersection.",
+          "pt-BR": "Na próxima rodada, troque as mãos. Deixe a mão esquerda ser a agente de trânsito enquanto a direita segue o plano, depois inverta. Se uma mão correr na frente, não brigue com ela — marque a nota exata em que acelerou e repita só esse cruzamento.",
+          "es": "En la siguiente ronda, cambia de manos. Deja que la mano izquierda sea la agente de tráfico mientras la derecha sigue el plan, y luego intercambia. Si una mano se adelanta, no la regañes: marca la nota exacta donde corrió y repite solo ese cruce.",
+          "de": "In der nächsten Runde wechselst du die Hände. Die linke Hand ist die Verkehrsleitung, während die rechte dem Plan folgt, dann tauscht ihr. Wenn eine Hand davonrennt, schimpf nicht — markiere den genauen Ton und wiederhole nur diese Kreuzung.",
+          "ja": "次のラウンドでは手を入れ替えます。左手を交通整理役にして右手が計画に従い、そのあと交代します。もし片手が先走ったら叱らずに、どの音でスピードが出たかを特定して、その交差点だけをやり直しましょう。",
+          "zh-Hans": "下一轮换手处理。先让左手当“交通警察”，右手照计划执行，然后交换。如果某只手突然冲前面去了，不要责怪它——标出它在哪一个音开始超速，然后只重练那个“路口”。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final mission: play three perfect “city runs” in a row. After each one, say out loud what improved: maybe cleaner crossing, more even tone, or calmer shoulders. When you can describe the win, you can repeat the win.",
+          "pt-BR": "Missão final: toque três “corridas pela cidade” perfeitas seguidas. Depois de cada uma, diga em voz alta o que melhorou: passagem mais limpa, timbre mais uniforme ou ombros mais soltos. Quando você consegue descrever a vitória, consegue repetir a vitória.",
+          "es": "Misión final: toca tres “recorridos por la ciudad” perfectos seguidos. Después de cada uno, di en voz alta qué mejoró: cruce más limpio, sonido más parejo o hombros más relajados. Cuando puedes describir la victoria, puedes repetirla.",
+          "de": "Abschlussmission: Spiele drei perfekte „Stadtfahrten“ hintereinander. Sag nach jedem Durchgang laut, was besser wurde: saubererer Untersatz, gleichmäßigerer Ton oder lockerere Schultern. Wenn du den Erfolg benennen kannst, kannst du ihn wiederholen.",
+          "ja": "最後のミッションは、完璧な「街ラン」を3回連続で成功させること。毎回あとに、何が良くなったかを声に出します。たとえば親指くぐりがきれいになった、音色がそろった、肩が楽だった、などです。勝ち方を言葉にできれば、その勝ち方は再現できます。",
+          "zh-Hans": "最终任务：连续完成3次完美的“城市通行”。每一次结束后，大声说出进步点：比如拇指穿越更干净了、音色更平均了，或者肩膀更放松了。当你能描述这次胜利，你就能重复这次胜利。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-10T00:07:20Z",
+  "updatedAt": "2026-04-10T00:07:20Z"
+}

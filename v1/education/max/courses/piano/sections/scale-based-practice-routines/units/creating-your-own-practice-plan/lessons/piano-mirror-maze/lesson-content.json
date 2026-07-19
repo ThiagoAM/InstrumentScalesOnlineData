@@ -1,0 +1,86 @@
+{
+  "id": "piano-mirror-maze",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "This lesson turns your keyboard into a **mirror maze**. Choose **C major / A minor** or **D major / B minor**, set **76-92 BPM**, and imagine that every clean exit depends on both hands understanding the same scale idea from different angles. The goal is not just accuracy. The goal is coordinated musical thinking.",
+          "pt-BR": "Esta lição transforma seu teclado em um **labirinto de espelhos**. Escolha **Dó maior / Lá menor** ou **Ré maior / Si menor**, ajuste para **76-92 BPM** e imagine que cada saída limpa depende das duas mãos entenderem a mesma ideia de escala por ângulos diferentes. O objetivo não é só precisão. O objetivo é pensamento musical coordenado.",
+          "es": "Esta lección convierte tu teclado en un **laberinto de espejos**. Elige **Do mayor / La menor** o **Re mayor / Si menor**, pon **76-92 BPM** e imagina que cada salida limpia depende de que ambas manos entiendan la misma idea de escala desde ángulos distintos. La meta no es solo precisión. La meta es pensamiento musical coordinado.",
+          "de": "Diese Lektion verwandelt dein Keyboard in ein **Spiegel-Labyrinth**. Wähle **C-Dur / A-Moll** oder **D-Dur / H-Moll**, stelle **76-92 BPM** ein und stell dir vor, dass jeder saubere Ausgang davon abhängt, dass beide Hände dieselbe Skalenidee aus unterschiedlichen Blickwinkeln verstehen. Das Ziel ist nicht nur Genauigkeit. Das Ziel ist koordiniertes musikalisches Denken.",
+          "ja": "このレッスンでは、鍵盤を**ミラー迷路**に変えます。**Cメジャー／Aマイナー**または**Dメジャー／Bマイナー**を選び、**76〜92 BPM**に設定してください。そして、きれいに抜け出すには両手が同じスケールの考え方を別々の角度から理解していなければならない、と考えます。目的は正確さだけではありません。音楽的な協調思考です。",
+          "zh-Hans": "这节课把你的键盘变成一座**镜面迷宫**。选择 **C大调 / A小调** 或 **D大调 / B小调**，设定 **76-92 BPM**，并想象每一次顺利出迷宫都依赖于双手从不同角度理解同一个音阶概念。目标不只是准确，而是协调的音乐思维。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a five-part maze route:\n- play one straight scale together\n- answer it in contrary motion\n- repeat it with a new rhythm\n- let the left hand simplify while the right hand decorates\n- finish with a two-bar cadence\n\nKeep the route visible on paper. A maze is easier when you can see the turns before your fingers panic.",
+          "pt-BR": "Monte um trajeto de cinco partes no labirinto:\n- toque uma escala direta com as duas mãos juntas\n- responda em movimento contrário\n- repita com um ritmo novo\n- deixe a mão esquerda simplificar enquanto a direita decora\n- termine com uma cadência de dois compassos\n\nDeixe o trajeto visível no papel. Um labirinto fica mais fácil quando você enxerga as curvas antes de os dedos entrarem em pânico.",
+          "es": "Construye una ruta de cinco partes en el laberinto:\n- toca una escala recta con ambas manos juntas\n- respóndela en movimiento contrario\n- repítela con un ritmo nuevo\n- deja que la mano izquierda simplifique mientras la derecha decora\n- termina con una cadencia de dos compases\n\nMantén la ruta visible en papel. Un laberinto es más fácil cuando puedes ver los giros antes de que tus dedos entren en pánico.",
+          "de": "Baue eine fünfteilige Route durch das Labyrinth:\n- spiele eine gerade Skala mit beiden Händen zusammen\n- beantworte sie in Gegenbewegung\n- wiederhole sie mit einem neuen Rhythmus\n- lasse die linke Hand vereinfachen, während die rechte verziert\n- beende mit einer zweitaktigen Kadenz\n\nHalte die Route sichtbar auf Papier fest. Ein Labyrinth ist leichter, wenn du die Kurven siehst, bevor deine Finger in Panik geraten.",
+          "ja": "迷路の5つのルートを作りましょう。\n- 両手でまっすぐなスケールを弾く\n- それに反行で答える\n- 新しいリズムで繰り返す\n- 左手は簡略化し、右手は飾りを加える\n- 2小節のカデンツで終える\n\nルートは紙に見える形で残してください。指が慌てる前に曲がり角が見えていると、迷路はずっと楽になります。",
+          "zh-Hans": "设计一条五段式迷宫路线：\n- 双手一起弹一遍直行音阶\n- 用反向进行回答它\n- 用新的节奏再重复一次\n- 左手简化，右手做装饰\n- 最后用两小节终止式收尾\n\n把路线写在纸上放在眼前。能先看见转弯，手指就不容易恐慌。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **glass-wall round**. Move slowly enough that both hands stay aligned even when the direction changes. If contrary motion makes one hand hesitate, stop blaming speed. The real problem is usually that one hand knows the notes and the other only knows the habit.",
+          "pt-BR": "A Rodada 1 é a **rodada da parede de vidro**. Vá devagar o bastante para que as duas mãos continuem alinhadas mesmo quando a direção muda. Se o movimento contrário faz uma mão hesitar, pare de culpar a velocidade. O problema real costuma ser que uma mão conhece as notas e a outra só conhece o hábito.",
+          "es": "La Ronda 1 es la **ronda de la pared de cristal**. Ve lo bastante despacio para que ambas manos sigan alineadas incluso cuando cambia la dirección. Si el movimiento contrario hace dudar a una mano, deja de culpar a la velocidad. El problema real suele ser que una mano conoce las notas y la otra solo conoce el hábito.",
+          "de": "Runde 1 ist die **Glaswand-Runde**. Spiele langsam genug, damit beide Hände auch bei Richtungswechseln ausgerichtet bleiben. Wenn die Gegenbewegung eine Hand zögern lässt, gib nicht dem Tempo die Schuld. Das eigentliche Problem ist meist, dass eine Hand die Töne kennt und die andere nur die Gewohnheit.",
+          "ja": "ラウンド1は**ガラスの壁ラウンド**です。方向が変わっても両手がそろうくらいゆっくり進みます。反行で片手が迷うなら、速さのせいにしないでください。本当の問題は、片手は音を理解していて、もう片方は癖だけで動いていることが多いからです。",
+          "zh-Hans": "第1轮是**玻璃墙轮**。速度要慢到即使方向改变，双手也能保持对齐。如果反向进行让一只手犹豫，不要怪速度。真正的问题通常是：一只手知道音，另一只手只知道习惯。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **trapdoor round**. Keep the same route, but change the rhythm at step three: use triplets, long-short pairs, or accents on weak beats. The mirrored pattern should still sound intentional. If the rhythm twist erases the fingering plan, the maze has found your weak tile.",
+          "pt-BR": "A Rodada 2 é a **rodada do alçapão**. Mantenha o mesmo trajeto, mas mude o ritmo na etapa três: use tercinas, pares longo-curto ou acentos em tempos fracos. O padrão espelhado ainda precisa soar intencional. Se a mudança rítmica apaga o plano de digitação, o labirinto encontrou seu piso fraco.",
+          "es": "La Ronda 2 es la **ronda de la trampilla**. Mantén la misma ruta, pero cambia el ritmo en el paso tres: usa tresillos, pares largo-corto o acentos en tiempos débiles. El patrón espejado debe seguir sonando intencional. Si el giro rítmico borra el plan de digitación, el laberinto encontró tu baldosa débil.",
+          "de": "Runde 2 ist die **Falltür-Runde**. Behalte dieselbe Route, ändere aber im dritten Schritt den Rhythmus: Nutze Triolen, lang-kurz-Paare oder Akzente auf schwachen Zählzeiten. Das Spiegelmuster muss trotzdem absichtlich klingen. Wenn die Rhythmusänderung den Fingersatzplan auslöscht, hat das Labyrinth deine schwache Platte gefunden.",
+          "ja": "ラウンド2は**落とし戸ラウンド**です。同じルートのまま、3つ目の工程だけリズムを変えます。3連符、長短の組み合わせ、弱拍アクセントなどを使ってください。鏡のような形は、それでも意図的に聞こえなければなりません。リズムのひねりで運指計画が消えるなら、迷路が弱い床を見つけたということです。",
+          "zh-Hans": "第2轮是**活板门轮**。路线不变，但在第3步改变节奏：可以用三连音、长短组合，或弱拍重音。镜像模式仍然必须听起来像有意设计。如果节奏一变，指法计划就消失了，说明迷宫已经找到了你的薄弱地板。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **guide switch round**. Now let the left hand become the guide for one full pass while the right hand stays lighter and more reactive. This prevents the common piano problem where the right hand tells the whole story and the left hand just survives.",
+          "pt-BR": "A Rodada 3 é a **troca de guia**. Agora deixe a mão esquerda virar a guia durante uma passada completa, enquanto a direita fica mais leve e reativa. Isso evita o problema comum no piano em que a mão direita conta toda a história e a esquerda apenas sobrevive.",
+          "es": "La Ronda 3 es la **ronda del cambio de guía**. Ahora deja que la mano izquierda sea la guía durante una pasada completa mientras la derecha permanece más ligera y reactiva. Esto evita el problema común del piano en el que la mano derecha cuenta toda la historia y la izquierda solo sobrevive.",
+          "de": "Runde 3 ist die **Führungswechsel-Runde**. Jetzt übernimmt die linke Hand für einen kompletten Durchgang die Führung, während die rechte leichter und reaktiver bleibt. So vermeidest du das typische Klavierproblem, dass die rechte Hand die ganze Geschichte erzählt und die linke nur überlebt.",
+          "ja": "ラウンド3は**ガイド交代ラウンド**です。今度は左手が1周分の案内役になり、右手はより軽く反応する役に回ります。これは、右手だけが物語を語り、左手がただ生き残るだけになるピアノ特有の問題を防ぎます。",
+          "zh-Hans": "第3轮是**向导切换轮**。这一轮让左手担任完整一遍的向导，右手则保持更轻、更灵活的反应。这样可以避免常见的钢琴问题：右手讲完整个故事，左手只是勉强活下来。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final escape test, perform the full route three times and ask:\n- Did both hands understand the same shape?\n- Did the rhythm change add character instead of confusion?\n- Did the ending sound earned?\n\nA good scale routine should feel like solving a maze with style. If both hands can navigate, react, and still land musically, you are not just practicing patterns anymore.",
+          "pt-BR": "Para o teste final de fuga, execute o trajeto completo três vezes e pergunte:\n- As duas mãos entenderam o mesmo desenho?\n- A mudança rítmica adicionou personalidade em vez de confusão?\n- O final pareceu conquistado?\n\nUma boa rotina de escalas deve parecer resolver um labirinto com estilo. Se as duas mãos conseguem navegar, reagir e ainda aterrissar musicalmente, você já não está apenas praticando padrões.",
+          "es": "Para la prueba final de escape, interpreta la ruta completa tres veces y pregúntate:\n- ¿Las dos manos entendieron la misma forma?\n- ¿El cambio de ritmo añadió carácter en vez de confusión?\n- ¿El final sonó ganado?\n\nUna buena rutina de escalas debería sentirse como resolver un laberinto con estilo. Si ambas manos pueden navegar, reaccionar y aun así aterrizar musicalmente, ya no estás practicando solo patrones.",
+          "de": "Für den letzten Fluchttest spiele die komplette Route dreimal und frage dich:\n- Haben beide Hände dieselbe Form verstanden?\n- Hat die Rhythmusänderung Charakter statt Verwirrung gebracht?\n- Klang das Ende verdient?\n\nEine gute Skalenroutine sollte sich anfühlen wie das elegante Lösen eines Labyrinths. Wenn beide Hände navigieren, reagieren und trotzdem musikalisch landen können, übst du nicht mehr nur Muster.",
+          "ja": "最後の脱出テストとして、ルート全体を3回演奏し、次を確認します。\n- 両手は同じ形を理解していたか\n- リズム変化は混乱ではなく個性を加えたか\n- 終わり方はちゃんと勝ち取った感じがあったか\n\n良いスケール練習は、スタイルを持って迷路を解く感覚であるべきです。両手が進み、反応し、それでも音楽的に着地できるなら、もう単なるパターン練習ではありません。",
+          "zh-Hans": "最后做逃脱测试，把整条路线连续演奏三次，并问自己：\n- 双手是否理解了同一个形状？\n- 节奏变化带来的是个性而不是混乱吗？\n- 结尾听起来像真正赢得的吗？\n\n好的音阶练习应该像有风格地解开一座迷宫。如果双手能导航、反应并且依然音乐性地落地，你就不再只是练模式了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-20T00:09:11Z",
+  "updatedAt": "2026-06-20T00:09:11Z"
+}

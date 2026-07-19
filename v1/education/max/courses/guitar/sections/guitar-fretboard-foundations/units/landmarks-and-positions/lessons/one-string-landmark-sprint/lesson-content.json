@@ -1,0 +1,73 @@
+{
+  "id": "one-string-landmark-sprint",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to a mini speedrun. Stay on **one string only**—start on the low E, then repeat on A or D if you want more heat. Your mission is to call out and play the notes at frets **3, 5, 7, and 12** without pausing long enough to doubt yourself.",
+          "pt-BR": "Bem-vindo a um mini speedrun. Fique em **uma corda só** — comece na Mi grave e depois repita na Lá ou Ré se quiser aumentar a dificuldade. Sua missão é dizer e tocar as notas nas casas **3, 5, 7 e 12** sem fazer pausas longas o bastante para duvidar.",
+          "es": "Bienvenido a una mini carrera contrarreloj. Quédate en **una sola cuerda**: empieza en la Mi grave y luego repite en La o Re si quieres más presión. Tu misión es nombrar y tocar las notas en los trastes **3, 5, 7 y 12** sin dejar espacio para la duda.",
+          "de": "Willkommen zu einem Mini-Speedrun. Bleib auf **nur einer Saite** — starte auf der tiefen E-Saite und wiederhole es danach auf A oder D, wenn du mehr Druck willst. Deine Aufgabe ist es, die Töne an Bund **3, 5, 7 und 12** sofort zu nennen und zu spielen.",
+          "ja": "ミニ・スピードランへようこそ。**1本の弦だけ**に絞ります。まずは6弦から始め、余裕があれば5弦や4弦でも繰り返してください。ミッションは、**3・5・7・12フレット**の音を迷わず口にして弾くことです。",
+          "zh-Hans": "欢迎来到一次迷你冲刺。全程只用**一根弦**——先从低音E弦开始，如果想更有挑战，再去A弦或D弦重复。你的任务是快速说出并弹出**第3、5、7、12品**上的音，不给犹豫留太多时间。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "First, make the landmarks feel obvious. On low E, say and play: **G at fret 3, A at fret 5, B at fret 7, E at fret 12**. Then go backward from 12 to 3. Use a steady pulse and try to keep every answer inside one beat.",
+          "pt-BR": "Primeiro, faça os pontos de referência parecerem óbvios. Na corda Mi grave, diga e toque: **Sol na casa 3, Lá na casa 5, Si na casa 7, Mi na casa 12**. Depois faça o caminho inverso, da 12 até a 3. Use uma pulsação constante e tente manter cada resposta dentro de um tempo.",
+          "es": "Primero haz que las referencias se sientan obvias. En la cuerda Mi grave, di y toca: **Sol en el traste 3, La en el 5, Si en el 7, Mi en el 12**. Luego hazlo al revés, del 12 al 3. Usa un pulso constante e intenta que cada respuesta caiga dentro de un tiempo.",
+          "de": "Lass die Orientierungspunkte zuerst glasklar werden. Auf der tiefen E-Saite sagst und spielst du: **G im 3. Bund, A im 5., H im 7., E im 12. Bund**. Danach gehst du rückwärts von 12 bis 3. Halte einen gleichmäßigen Puls und versuche, jede Antwort innerhalb eines Schlages zu geben.",
+          "ja": "まずはランドマークを当たり前の感覚にします。6弦で **3フレット=G、5フレット=A、7フレット=B、12フレット=E** と声に出しながら弾きましょう。そのあと12から3へ逆向きにも行います。一定の拍を保ち、1拍以内で答えるつもりで進めてください。",
+          "zh-Hans": "先把这些地标变成熟悉到不用想的点。在低音E弦上，边说边弹：**3品是G，5品是A，7品是B，12品是E**。然后再从12品倒着回到3品。保持稳定拍子，尽量让每次回答都落在一拍之内。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a challenge round: ask yourself for a note name, then find the **closest landmark first** before moving to the exact fret you need. Example: if you need **C** on the low E string, think **B at fret 7** and move up one fret. If you need **F**, think **E at fret 12** and move back one fret. That shortcut is the real skill.",
+          "pt-BR": "Agora adicione uma rodada de desafio: peça a si mesmo o nome de uma nota e encontre **primeiro o ponto de referência mais próximo** antes de ir para a casa exata. Exemplo: se você precisa de **Dó** na corda Mi grave, pense em **Si na casa 7** e suba uma casa. Se precisa de **Fá**, pense em **Mi na casa 12** e volte uma casa. Esse atalho é a habilidade de verdade.",
+          "es": "Ahora añade una ronda de desafío: dite un nombre de nota y encuentra **primero la referencia más cercana** antes de moverte al traste exacto. Ejemplo: si necesitas **Do** en la cuerda Mi grave, piensa en **Si en el traste 7** y sube un traste. Si necesitas **Fa**, piensa en **Mi en el traste 12** y baja un traste. Ese atajo es la habilidad real.",
+          "de": "Jetzt kommt die Challenge-Runde: Nenne dir einen Ton und finde **zuerst den nächstgelegenen Orientierungspunkt**, bevor du zum exakten Bund gehst. Beispiel: Für **C** auf der tiefen E-Saite denkst du an **H im 7. Bund** und gehst einen Bund höher. Für **F** denkst du an **E im 12. Bund** und gehst einen Bund zurück. Genau diese Abkürzung ist die eigentliche Fähigkeit.",
+          "ja": "次はチャレンジです。音名をひとつ決めたら、**最も近いランドマークを先に思い出し**、そこから目的のフレットへ移動します。たとえば6弦の **C** なら **7フレットのB** を思い出して1フレット上へ、**F** なら **12フレットのE** を思い出して1フレット戻ります。この近道こそ本当の技術です。",
+          "zh-Hans": "现在进入挑战回合：先给自己一个音名，再**先想最近的地标**，然后移动到准确品位。比如低音E弦上的**C**，先想到**7品的B**，再上移一品；如果是**F**，先想到**12品的E**，再退回一品。这个捷径才是真本事。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Make it musical. Create a four-note riff using only notes you can locate from landmarks in under two seconds. Play the riff twice, then transpose it to the A string using the same logic. If the note names get fuzzy, slow down and say them out loud again before playing.",
+          "pt-BR": "Deixe isso musical. Crie um riff de quatro notas usando apenas notas que você consiga localizar a partir dos referenciais em menos de dois segundos. Toque o riff duas vezes e depois transporte para a corda Lá usando a mesma lógica. Se os nomes das notas embaralharem, diminua e fale em voz alta antes de tocar.",
+          "es": "Hazlo musical. Crea un riff de cuatro notas usando solo notas que puedas localizar desde referencias en menos de dos segundos. Toca el riff dos veces y luego transpónlo a la cuerda La con la misma lógica. Si los nombres de las notas se vuelven borrosos, baja la velocidad y dilo en voz alta antes de tocar.",
+          "de": "Mach es musikalisch. Erfinde ein Vier-Noten-Riff nur mit Tönen, die du von einem Orientierungspunkt aus in weniger als zwei Sekunden findest. Spiele das Riff zweimal und transponiere es dann mit derselben Logik auf die A-Saite. Wenn die Ton-Namen verschwimmen, werde langsamer und sprich sie vor dem Spielen noch einmal laut aus.",
+          "ja": "音楽としても使ってみましょう。ランドマークから2秒以内に見つけられる音だけで、4音のリフを作ってください。2回弾いたら、同じ考え方で5弦へ移調します。音名があいまいになったら、スピードを落として、弾く前にもう一度声に出しましょう。",
+          "zh-Hans": "把它变成音乐。只用那些你能在两秒内根据地标找到的音，写一个四音riff。先弹两遍，再用同样逻辑移到A弦上。如果音名开始模糊，就放慢速度，先大声说出来再弹。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a no-peeking test: look away from the fretboard for a moment, name one landmark fret, then look back and land on it cleanly. Do five reps. If you miss, don't get annoyed—trace the route from the nearest landmark and try again. Fast players are usually just calm mappers.",
+          "pt-BR": "Termine com um teste sem olhar: desvie os olhos do braço por um momento, nomeie uma casa de referência, volte a olhar e caia nela com precisão. Faça cinco repetições. Se errar, não se irrite — refaça o caminho a partir do referencial mais próximo e tente de novo. Guitarristas rápidos normalmente são apenas mapeadores calmos.",
+          "es": "Termina con una prueba sin mirar: aparta la vista del diapasón un momento, nombra un traste de referencia, vuelve a mirar y cae en él con limpieza. Haz cinco repeticiones. Si fallas, no te enfades: reconstruye la ruta desde la referencia más cercana e inténtalo otra vez. Los guitarristas rápidos suelen ser mapeadores tranquilos.",
+          "de": "Beende die Lektion mit einem Test ohne Hinsehen: Schau kurz vom Griffbrett weg, nenne einen Landmark-Bund, schau zurück und lande sauber darauf. Mach fünf Wiederholungen. Wenn du danebenliegst, ärgere dich nicht — finde den Weg vom nächsten Orientierungspunkt aus erneut. Schnelle Gitarristen sind oft einfach ruhige Kartografen.",
+          "ja": "最後はノールック・テストです。いったん指板から目を離し、ランドマークのフレットをひとつ言ってから見直し、そこへ正確に着地してください。5回繰り返します。外してもイライラしなくて大丈夫です。いちばん近いランドマークから道順をたどり直しましょう。速いギタリストは、落ち着いた地図作りが上手な人です。",
+          "zh-Hans": "最后做一个不盯指板的测试：先把视线移开，说出一个地标品位，再看回指板并准确落下去。做五次。如果失误，不用烦躁——从最近的地标重新推路线再试一次。弹得快的人，往往只是画地图更冷静的人。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-11T00:05:44Z",
+  "updatedAt": "2026-05-11T00:05:44Z"
+}

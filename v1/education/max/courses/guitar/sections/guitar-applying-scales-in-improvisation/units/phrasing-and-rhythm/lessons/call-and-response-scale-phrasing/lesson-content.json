@@ -1,0 +1,86 @@
+{
+  "id": "call-and-response-scale-phrasing",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Make your scale talk back\nToday you are not just running a shape — you are building a **mini conversation**. The idea is simple: play a short phrase, leave space, then answer it with a related phrase.\n\nYour mission:\n- keep both phrases in the **same key area**\n- change **rhythm, direction, or ending** in the answer\n- make the second phrase sound like it belongs to the first\n\nIf it feels like two friends teasing each other, you are doing it right.",
+          "pt-BR": "# Faça a sua escala responder\nHoje você não vai só correr por um desenho — vai criar uma **mini conversa**. A ideia é simples: toque uma frase curta, deixe espaço e responda com uma frase relacionada.\n\nMissão:\n- manter as duas frases na **mesma região tonal**\n- mudar **ritmo, direção ou final** na resposta\n- fazer a segunda frase soar ligada à primeira\n\nSe parecer dois músicos provocando um ao outro, está funcionando.",
+          "es": "# Haz que tu escala conteste\nHoy no vas a correr una digitación sin pensar: vas a crear una **mini conversación**. La idea es simple: toca una frase corta, deja espacio y respóndela con otra frase relacionada.\n\nTu misión:\n- mantener ambas frases en la **misma zona tonal**\n- cambiar **ritmo, dirección o final** en la respuesta\n- hacer que la segunda frase suene conectada con la primera\n\nSi parece que dos músicos se están picando, va bien.",
+          "de": "# Lass deine Skala zurücksprechen\nHeute spielst du nicht einfach nur ein Pattern herunter — du baust eine **kleine Unterhaltung**. Spiele eine kurze Phrase, lass Platz und antworte mit einer verwandten Phrase.\n\nDeine Aufgabe:\n- beide Phrasen im **gleichen Tonbereich** halten\n- in der Antwort **Rhythmus, Richtung oder Ende** verändern\n- die zweite Phrase klar zur ersten gehören lassen\n\nWenn es klingt, als würden sich zwei Musiker necken, passt es.",
+          "ja": "# スケールに返事をさせよう\n今日は形をただ往復するのではなく、**短い会話**を作ります。短いフレーズを弾き、少し間を置き、それに関係するフレーズで答えます。\n\nミッション：\n- 2つのフレーズを**同じキーのエリア**に置く\n- 答えでは**リズム・方向・終わり方**のどれかを変える\n- 2つ目が1つ目の仲間に聞こえるようにする\n\n2人の演奏者がやり取りしている感じになれば成功です。",
+          "zh-Hans": "# 让你的音阶会回话\n今天你不是单纯地跑一个把位，而是在做一段**小对话**。先弹一个短句，留一点空白，再用一个有关联的短句回答它。\n\n任务：\n- 两个短句都留在**同一个调性感区域**\n- 回答时改变**节奏、方向或结尾**\n- 让第二句听起来像第一句的延伸\n\n如果像两个乐手在互相逗招，那就对了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Phrase 1: the question\nStart with a tiny scale fragment: **3 to 5 notes only**. Pick it cleanly and give it a clear rhythm.\n\nTry these rules:\n- begin on a **strong beat**\n- land on a note that feels a little **unfinished**\n- repeat it until the timing feels natural\n\nA good question phrase creates a little tension and makes your ear want the answer.",
+          "pt-BR": "# Frase 1: a pergunta\nComece com um fragmento pequeno da escala: **3 a 5 notas apenas**. Toque com clareza e dê um ritmo marcante.\n\nExperimente estas regras:\n- comece em um **tempo forte**\n- termine em uma nota com sensação de **continuação**\n- repita até o timing ficar natural\n\nUma boa pergunta cria uma tensão pequena e faz o ouvido querer a resposta.",
+          "es": "# Frase 1: la pregunta\nEmpieza con un fragmento pequeño de la escala: **solo 3 a 5 notas**. Tócalo limpio y con un ritmo claro.\n\nPrueba estas reglas:\n- empieza en un **tiempo fuerte**\n- termina en una nota que suene un poco **incompleta**\n- repítela hasta que el pulso se sienta natural\n\nUna buena pregunta crea una pequeña tensión y hace que el oído quiera la respuesta.",
+          "de": "# Phrase 1: die Frage\nBeginne mit einem kleinen Skalenfragment: **nur 3 bis 5 Töne**. Spiele es sauber und mit einem klaren Rhythmus.\n\nProbier diese Regeln:\n- starte auf einem **starken Schlag**\n- lande auf einem Ton, der noch etwas **offen** wirkt\n- wiederhole es, bis sich das Timing natürlich anfühlt\n\nEine gute Frage erzeugt leichte Spannung und ruft nach einer Antwort.",
+          "ja": "# フレーズ1：質問\n最初は小さなスケール断片から始めます。**3〜5音だけ**で十分です。はっきりしたリズムで、きれいに弾きましょう。\n\nルール例：\n- **強拍**から始める\n- 少し**続きが欲しくなる**音で終える\n- タイミングが自然になるまで繰り返す\n\n良い質問フレーズは、小さな緊張感を作って耳に答えを求めさせます。",
+          "zh-Hans": "# 乐句1：提问\n先从一个很小的音阶片段开始，**只用3到5个音**。弹得干净一点，并给它一个清楚的节奏。\n\n试试这些规则：\n- 从**强拍**开始\n- 结束在一个稍微有点**没说完**的音上\n- 重复几次，直到节奏感觉自然\n\n好的“问题”会制造一点张力，让耳朵想听后面的回答。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Phrase 2: the answer\nNow answer your first phrase using the same scale, but change one main ingredient.\n\nYou can answer by:\n- moving **higher or lower** on the same string set\n- keeping the rhythm but changing the **last note**\n- keeping the notes but changing the **rhythm**\n\nThe answer should feel related, not random. Think cousin, not stranger.",
+          "pt-BR": "# Frase 2: a resposta\nAgora responda a primeira frase usando a mesma escala, mas mudando um ingrediente principal.\n\nVocê pode responder:\n- indo **mais para cima ou para baixo** no mesmo grupo de cordas\n- mantendo o ritmo e mudando a **última nota**\n- mantendo as notas e mudando o **ritmo**\n\nA resposta deve soar aparentada, não aleatória. Pense em prima, não em desconhecida.",
+          "es": "# Frase 2: la respuesta\nAhora responde a la primera frase usando la misma escala, pero cambiando un ingrediente principal.\n\nPuedes responder:\n- yendo **más arriba o más abajo** en el mismo grupo de cuerdas\n- manteniendo el ritmo y cambiando la **última nota**\n- manteniendo las notas y cambiando el **ritmo**\n\nLa respuesta debe sonar emparentada, no aleatoria. Piensa en prima, no en desconocida.",
+          "de": "# Phrase 2: die Antwort\nAntworte jetzt mit derselben Skala, aber verändere einen wichtigen Baustein.\n\nDu kannst antworten, indem du:\n- **höher oder tiefer** auf derselben Saitengruppe spielst\n- den Rhythmus behältst, aber den **letzten Ton** änderst\n- die Töne behältst, aber den **Rhythmus** veränderst\n\nDie Antwort soll verwandt wirken, nicht zufällig. Eher Cousin als Fremder.",
+          "ja": "# フレーズ2：答え\n同じスケールを使って、今度は1つ大事な要素を変えて答えます。\n\n答え方の例：\n- 同じ弦の範囲で**高くまたは低く**動く\n- リズムは同じで**最後の音**だけ変える\n- 音は同じで**リズム**を変える\n\n答えはランダムではなく、ちゃんと親戚に聞こえるべきです。",
+          "zh-Hans": "# 乐句2：回答\n现在还是用同一个音阶来回答，但要改变一个主要元素。\n\n你可以这样回答：\n- 在同一组弦上往**更高或更低**移动\n- 保留节奏，只改**最后一个音**\n- 保留音高材料，只改**节奏**\n\n回答要像亲戚，不要像路人。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Add space and attitude\nThe silence between phrases matters. Leave a short gap so the question and answer feel intentional.\n\nWhile you play:\n- count the rest instead of rushing through it\n- give the question one dynamic and the answer another\n- try one round with slides, one with strict picking\n\nSpace is not empty — it is where the groove breathes.",
+          "pt-BR": "# Adicione espaço e atitude\nO silêncio entre as frases importa. Deixe uma pequena pausa para a pergunta e a resposta soarem intencionais.\n\nEnquanto toca:\n- conte a pausa em vez de atropelar\n- dê uma dinâmica para a pergunta e outra para a resposta\n- faça uma rodada com slides e outra com palhetada bem definida\n\nEspaço não é vazio — é onde o groove respira.",
+          "es": "# Añade espacio y carácter\nEl silencio entre frases importa. Deja un pequeño hueco para que pregunta y respuesta se sientan intencionales.\n\nMientras tocas:\n- cuenta el silencio en lugar de correr\n- da una dinámica a la pregunta y otra a la respuesta\n- haz una vuelta con slides y otra con púa estricta\n\nEl espacio no está vacío: ahí respira el groove.",
+          "de": "# Raum und Haltung\nDie Stille zwischen den Phrasen zählt. Lass eine kurze Lücke, damit Frage und Antwort bewusst wirken.\n\nBeim Üben:\n- zähle die Pause statt zu hetzen\n- gib Frage und Antwort unterschiedliche Dynamik\n- spiele eine Runde mit Slides und eine mit strengem Anschlag\n\nRaum ist nicht leer — dort atmet der Groove.",
+          "ja": "# 間とキャラクターを足す\nフレーズの間の無音も大切です。少し間を空けることで、質問と答えがはっきり意図的に聞こえます。\n\n弾くときは：\n- 急がずに休符を数える\n- 質問と答えでダイナミクスを変える\n- 1回はスライド、1回はきっちりしたピッキングで試す\n\n間は空白ではなく、グルーヴが呼吸する場所です。",
+          "zh-Hans": "# 加入留白和态度\n两个乐句之间的安静也很重要。留一个小空隙，提问和回答才会显得有意识。\n\n练习时：\n- 不要抢拍，认真数休止\n- 给提问和回答不同的力度\n- 一轮用滑音，一轮用更干净的拨弦\n\n留白不是空的，而是律动呼吸的地方。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round\nSet a loop or steady pulse and play **four question-and-answer pairs** without stopping. Each new pair must change something.\n\nChallenge ideas:\n- pair 1: short and simple\n- pair 2: syncopated rhythm\n- pair 3: end on a chord tone\n- pair 4: climb, then answer by descending\n\nIf every pair sounds the same, make the next one bolder.",
+          "pt-BR": "# Rodada de desafio\nColoque um loop ou pulso estável e toque **quatro pares de pergunta e resposta** sem parar. Cada novo par precisa mudar alguma coisa.\n\nIdeias:\n- par 1: curto e simples\n- par 2: ritmo sincopado\n- par 3: final em nota do acorde\n- par 4: sobe e responde descendo\n\nSe tudo soar igual, faça o próximo par mais corajoso.",
+          "es": "# Ronda de desafío\nPon un loop o un pulso estable y toca **cuatro pares de pregunta y respuesta** sin parar. Cada par nuevo debe cambiar algo.\n\nIdeas de reto:\n- par 1: corto y simple\n- par 2: ritmo sincopado\n- par 3: termina en una nota del acorde\n- par 4: sube y responde bajando\n\nSi todos los pares suenan iguales, haz el siguiente más valiente.",
+          "de": "# Herausforderungsrunde\nNutze einen Loop oder einen stabilen Puls und spiele **vier Frage-Antwort-Paare** ohne anzuhalten. Jedes neue Paar muss etwas ändern.\n\nIdeen:\n- Paar 1: kurz und einfach\n- Paar 2: synkopierter Rhythmus\n- Paar 3: Ende auf einem Akkordton\n- Paar 4: aufwärts, dann abwärts antworten\n\nWenn alles gleich klingt, mach das nächste Paar mutiger.",
+          "ja": "# チャレンジラウンド\nループや一定の拍に合わせて、**4組の質問と答え**を止まらずに弾きましょう。新しい組ごとに何かを変える必要があります。\n\nアイデア：\n- 1組目：短くシンプル\n- 2組目：シンコペーション\n- 3組目：コードトーンで終える\n- 4組目：上がって、下りで答える\n\n全部同じに聞こえたら、次はもっと大胆に。",
+          "zh-Hans": "# 挑战回合\n打开循环伴奏或者稳定节拍，连续弹出**4组问答**，中间不要停。每一组都必须改一点东西。\n\n挑战思路：\n- 第1组：短而简单\n- 第2组：切分节奏\n- 第3组：落在和弦音上\n- 第4组：上行提问，下行回答\n\n如果每组都差不多，那下一组就更大胆一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Musical application\nTake this into a real solo: ask with one phrase, answer with the next, then leave room before the next idea. That keeps your improvisation from sounding like a nonstop scale dump.\n\nBest test: record 30 seconds and ask yourself, **could I sing these phrases back?** If yes, the scale is starting to sound like music.",
+          "pt-BR": "# Aplicação musical\nLeve isso para um solo real: faça a pergunta em uma frase, responda na próxima e deixe espaço antes da ideia seguinte. Assim seu improviso para de soar como um despejo contínuo de escala.\n\nTeste final: grave 30 segundos e se pergunte, **eu conseguiria cantar essas frases de volta?** Se sim, a escala já está virando música.",
+          "es": "# Aplicación musical\nLleva esto a un solo real: pregunta con una frase, responde con la siguiente y deja espacio antes de la idea siguiente. Así tu improvisación deja de sonar como una descarga continua de escala.\n\nPrueba final: graba 30 segundos y pregúntate, **¿podría cantar estas frases después?** Si la respuesta es sí, la escala ya está sonando como música.",
+          "de": "# Musikalische Anwendung\nÜbertrage das in ein echtes Solo: frage mit einer Phrase, antworte mit der nächsten und lass danach wieder Platz. So klingt deine Improvisation nicht wie ein endloser Skalenlauf.\n\nBester Test: nimm 30 Sekunden auf und frage dich, **könnte ich diese Phrasen nachsingen?** Wenn ja, beginnt die Skala wie Musik zu klingen.",
+          "ja": "# 音楽への応用\nこれを実際のソロに入れてみましょう。1つのフレーズで質問し、次で答え、そのあと少し間を作ります。すると即興が、止まらないスケール練習のようには聞こえなくなります。\n\n最終チェック：30秒録音して、**あとで歌い返せるフレーズか？** と自分に聞いてみてください。はいなら、スケールが音楽になり始めています。",
+          "zh-Hans": "# 音乐应用\n把这个方法带进真正的独奏里：先用一句提问，再用下一句回答，然后留一点空间给下一个想法。这样你的即兴就不会像不停倾倒音阶。\n\n最佳测试：录下30秒，再问自己：**这些乐句我能唱回来吗？** 如果可以，说明音阶已经开始变成音乐了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-28T00:07:09Z",
+  "updatedAt": "2026-04-28T00:07:09Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-traffic-control",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In this lesson, you are the **traffic controller** for a bass groove in **G major**. Every note needs a job: some notes move the line forward, some hold the lane, and some flash by like quick passing traffic. Your goal is to make the groove feel organized, punchy, and impossible to ignore.\n\nSet a metronome or drum loop between **76 and 92 BPM**. Stay on one simple vamp such as **G - C - D - G**. Play with a clean attack first so you can hear whether your timing is solid before you decorate anything.",
+          "pt-BR": "Nesta lição, você é o **controlador de tráfego** de um groove de baixo em **Sol maior**. Cada nota precisa ter uma função: algumas empurram a linha para frente, algumas seguram a pista e outras passam rápido como tráfego de passagem. O objetivo é fazer o groove soar organizado, forte e impossível de ignorar.\n\nUse um metrônomo ou loop de bateria entre **76 e 92 BPM**. Fique em um vamp simples como **G - C - D - G**. Toque primeiro com ataque limpo para ouvir se o tempo está firme antes de decorar qualquer coisa.",
+          "es": "En esta lección, tú eres el **controlador de tráfico** de un groove de bajo en **Sol mayor**. Cada nota necesita un trabajo: algunas empujan la línea hacia delante, otras sostienen el carril y otras pasan rápido como tráfico de paso. Tu objetivo es que el groove se sienta ordenado, con pegada e imposible de ignorar.\n\nUsa un metrónomo o un loop entre **76 y 92 BPM**. Quédate en un vamp sencillo como **G - C - D - G**. Toca primero con ataque limpio para comprobar si tu tiempo es sólido antes de decorar nada.",
+          "de": "In dieser Lektion bist du die **Verkehrsleitung** für einen Bassgroove in **G-Dur**. Jeder Ton braucht eine Aufgabe: Manche bringen die Linie voran, manche halten die Spur, andere huschen wie Durchgangsverkehr vorbei. Dein Ziel ist ein Groove, der organisiert, druckvoll und unmöglich zu ignorieren ist.\n\nStell Metronom oder Drum-Loop auf **76 bis 92 BPM**. Bleib auf einem einfachen Vamp wie **G - C - D - G**. Spiele zunächst mit klarem Anschlag, damit du hörst, ob dein Timing stabil ist, bevor du irgendetwas verzierst.",
+          "ja": "このレッスンでは、あなたが **Gメジャー** のベースグルーヴを仕切る**交通整理係**です。すべての音には役割が必要です。前へ進める音、車線を保つ音、素早く通り過ぎる経過音。それらを整理して、力強く、無視できないグルーヴにするのが目標です。\n\nメトロノームまたはドラムループを **76〜92 BPM** に設定し、**G - C - D - G** のようなシンプルなヴァンプで練習しましょう。まずはクリーンなアタックで弾き、装飾を加える前にタイムが安定しているかを確認します。",
+          "zh-Hans": "这节课里，你就是 **G 大调** 贝斯 groove 的**交通指挥员**。每个音都要有岗位：有的负责推动线条前进，有的负责稳住车道，有的像快速经过车流一样一闪而过。你的目标，是让 groove 听起来有秩序、有冲击力，而且让人无法忽视。\n\n把节拍器或鼓 loop 设在 **76-92 BPM**，用一个简单的和声循环，比如 **G - C - D - G**。先用干净的触弦去弹，这样在加装饰之前，你能先确认节奏是否真的稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Divide your groove decisions into four “traffic lights”:\n- **green** = move with scale steps\n- **yellow** = hold or repeat a note\n- **red** = create silence\n- **blue** = use a ghost note or muted hit\n\nBuild a **two-bar pattern** where each bar uses at least three different lights. If every beat is green, the line runs too much. If every beat is red, congratulations, you invented suspense but not a bass line.",
+          "pt-BR": "Divida suas decisões de groove em quatro “semáforos”:\n- **verde** = mover com graus conjuntos da escala\n- **amarelo** = sustentar ou repetir uma nota\n- **vermelho** = criar silêncio\n- **azul** = usar ghost note ou nota abafada\n\nMonte um **padrão de dois compassos** em que cada compasso use pelo menos três semáforos diferentes. Se tudo for verde, a linha corre demais. Se tudo for vermelho, parabéns: você inventou suspense, mas não uma linha de baixo.",
+          "es": "Divide tus decisiones en cuatro “semáforos”:\n- **verde** = moverse con grados conjuntos de la escala\n- **amarillo** = sostener o repetir una nota\n- **rojo** = crear silencio\n- **azul** = usar una ghost note o un golpe apagado\n\nConstruye un **patrón de dos compases** en el que cada compás use al menos tres colores distintos. Si todo es verde, la línea corre demasiado. Si todo es rojo, has creado suspense, pero no una línea de bajo.",
+          "de": "Teile deine Groove-Entscheidungen in vier „Ampeln“ ein:\n- **grün** = mit Skalenstufen weitergehen\n- **gelb** = einen Ton halten oder wiederholen\n- **rot** = Stille erzeugen\n- **blau** = Ghost Note oder gedämpften Schlag benutzen\n\nBaue ein **Zwei-Takt-Muster**, in dem jeder Takt mindestens drei verschiedene Farben nutzt. Wenn alles grün ist, rennt die Linie zu sehr. Wenn alles rot ist, hast du Spannung erfunden, aber noch keine Basslinie.",
+          "ja": "グルーヴの判断を4つの「信号」に分けます。\n- **青信号** = スケールの順次進行で動く\n- **黄信号** = 音を保つ、または繰り返す\n- **赤信号** = 休符を作る\n- **青ライト** = ゴーストノートやミュート音を入れる\n\n各小節で少なくとも3種類の信号を使う**2小節パターン**を作りましょう。全部が進行だけだと走りすぎます。全部が休符だと、緊張感は作れてもベースラインにはなりません。",
+          "zh-Hans": "把你的 groove 决策分成四种“交通灯”：\n- **绿灯** = 用音阶级进继续前进\n- **黄灯** = 持续或重复一个音\n- **红灯** = 留出空白\n- **蓝灯** = 加入幽灵音或闷音击弦\n\n做一个**两小节型**，每小节至少用到三种不同的灯。如果全是绿灯，线条就会跑过头；如果全是红灯，恭喜，你发明了悬念，但还不是贝斯线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 1 is the **lane discipline round**. Keep beat 1 strong with **G**, **C**, or **D** when the chord changes, then decide what happens on the weaker beats. Try one bar with more yellow and red, then another with more green and blue. The point is to feel how space and motion balance each other.",
+          "pt-BR": "A Rodada 1 é a **rodada da disciplina de pista**. Mantenha o tempo 1 forte com **G**, **C** ou **D** quando o acorde mudar, e depois decida o que acontece nos tempos fracos. Faça um compasso com mais amarelo e vermelho, e outro com mais verde e azul. A ideia é sentir o equilíbrio entre espaço e movimento.",
+          "es": "La Ronda 1 es la **ronda de disciplina de carril**. Mantén fuerte el tiempo 1 con **G**, **C** o **D** cuando cambie el acorde y decide después qué ocurre en los tiempos débiles. Haz un compás con más amarillo y rojo, y otro con más verde y azul. La idea es sentir cómo se equilibran espacio y movimiento.",
+          "de": "Runde 1 ist die **Spurdisziplin-Runde**. Halte Zählzeit 1 stark mit **G**, **C** oder **D**, wenn der Akkord wechselt, und entscheide dann, was auf den schwächeren Beats passiert. Mach einen Takt mit mehr Gelb und Rot und einen anderen mit mehr Grün und Blau. So spürst du, wie Raum und Bewegung sich ausbalancieren.",
+          "ja": "ラウンド1は**車線維持ラウンド**です。コードが変わるときの1拍目は **G、C、D** を強く置き、その後の弱拍で何をするかを決めます。ある小節では黄と赤を多めに、別の小節では進行とゴーストを多めにしてみましょう。空間と動きのバランスを体で感じるのが狙いです。",
+          "zh-Hans": "第 1 轮是**车道纪律轮**。和弦变化时，把第 1 拍稳稳落在 **G、C 或 D** 上，然后再决定弱拍怎么办。试一小节用更多黄灯和红灯，再试一小节用更多绿灯和蓝灯。重点是体会“留白”和“运动”之间如何平衡。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 2 is the **ghost-note round**. Add blue only in places where it improves the groove. Ghost notes should act like tiny signs pointing toward the next real note, not random static. If the groove gets muddy, remove half of them immediately and listen again.",
+          "pt-BR": "A Rodada 2 é a **rodada das ghost notes**. Adicione azul apenas onde ele melhora o groove. As ghost notes devem agir como pequenas placas apontando para a próxima nota real, não como estática aleatória. Se o groove ficar embolado, corte metade delas imediatamente e ouça de novo.",
+          "es": "La Ronda 2 es la **ronda de ghost notes**. Añade azul solo donde mejore el groove. Las ghost notes deben comportarse como pequeñas señales que apuntan hacia la siguiente nota real, no como ruido aleatorio. Si el groove se enturbia, quita la mitad de inmediato y escucha otra vez.",
+          "de": "Runde 2 ist die **Ghost-Note-Runde**. Setze Blau nur dort ein, wo es den Groove verbessert. Ghost Notes sollen wie kleine Wegweiser zur nächsten echten Note wirken, nicht wie zufälliges Rauschen. Wenn der Groove matschig wird, streich sofort die Hälfte davon und hör noch einmal genau hin.",
+          "ja": "ラウンド2は**ゴーストノート・ラウンド**です。青ライトは、グルーヴを良くする場所にだけ入れます。ゴーストノートは次の本物の音へ向かう小さな標識のように働くべきで、ただのノイズではありません。もし濁ってきたら、すぐ半分に減らして聴き直してください。",
+          "zh-Hans": "第 2 轮是**幽灵音轮**。只有在它真的改善 groove 的地方，才加入蓝灯。幽灵音应该像小路牌一样，把你指向下一个真实音，而不是随机噪音。如果 groove 变浑了，立刻砍掉一半，再重新听。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Round 3 is the **pressure merge round**. Without stopping, switch between two-bar patterns every **four repetitions**. One pattern should feel spacious and fat. The other should feel busier and more urgent. Your challenge is to keep the pocket stable even while the surface detail changes.",
+          "pt-BR": "A Rodada 3 é a **rodada da fusão sob pressão**. Sem parar, alterne entre dois padrões de dois compassos a cada **quatro repetições**. Um padrão deve soar espaçoso e gordo. O outro deve soar mais ocupado e urgente. O desafio é manter o pocket estável mesmo mudando os detalhes da superfície.",
+          "es": "La Ronda 3 es la **ronda de fusión bajo presión**. Sin detenerte, cambia entre dos patrones de dos compases cada **cuatro repeticiones**. Uno debe sentirse espacioso y gordo. El otro, más cargado y urgente. El reto es mantener el pocket estable aunque cambie el detalle superficial.",
+          "de": "Runde 3 ist die **Druck-Merge-Runde**. Wechsle ohne anzuhalten alle **vier Wiederholungen** zwischen zwei Zwei-Takt-Mustern. Das eine soll weit und fett wirken, das andere dichter und dringender. Die Herausforderung besteht darin, das Pocket stabil zu halten, obwohl sich die Oberfläche verändert.",
+          "ja": "ラウンド3は**プレッシャー合流ラウンド**です。止まらずに、2小節パターンを **4回ごと** に切り替えます。片方は広く太い感じ、もう片方は細かく切迫した感じにします。表面の細部が変わっても、ポケットを安定させ続けるのが課題です。",
+          "zh-Hans": "第 3 轮是**压力并线轮**。不停下来，每 **4 次重复** 就在两个两小节型之间切换。一个型要宽松、厚实；另一个型要更忙、更紧迫。你的挑战，是即使表面细节在变，pocket 也依然稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "For the final test, record **45 seconds** of groove and check three things:\n- Can you hear clear chord landings on strong beats?\n- Do the rests make the groove breathe instead of collapse?\n- Are the ghost notes serving the line instead of stealing attention?\n\nA great bass groove is not a traffic jam of scale notes. It is controlled movement. If the pocket feels better after you remove notes, trust the evidence.",
+          "pt-BR": "No teste final, grave **45 segundos** de groove e confira três coisas:\n- Dá para ouvir aterrissagens claras nos acordes nos tempos fortes?\n- As pausas fazem o groove respirar em vez de desabar?\n- As ghost notes estão servindo a linha em vez de roubar a atenção?\n\nUm grande groove de baixo não é um engarrafamento de notas da escala. É movimento controlado. Se o pocket melhora quando você tira notas, confie na evidência.",
+          "es": "Para la prueba final, graba **45 segundos** de groove y revisa tres cosas:\n- ¿Se oyen aterrizajes claros en los acordes sobre los tiempos fuertes?\n- ¿Los silencios hacen respirar al groove en vez de derrumbarlo?\n- ¿Las ghost notes sirven a la línea en lugar de robar protagonismo?\n\nUn gran groove de bajo no es un atasco de notas de escala. Es movimiento controlado. Si el pocket mejora cuando quitas notas, confía en esa evidencia.",
+          "de": "Nimm für den Abschlusstest **45 Sekunden** Groove auf und prüfe drei Dinge:\n- Sind klare Akkord-Landungen auf den starken Zählzeiten zu hören?\n- Lassen die Pausen den Groove atmen, statt ihn zusammenbrechen zu lassen?\n- Dienen die Ghost Notes der Linie, statt Aufmerksamkeit zu stehlen?\n\nEin starker Bassgroove ist kein Stau aus Skalentönen. Er ist kontrollierte Bewegung. Wenn sich das Pocket verbessert, sobald du Noten wegnimmst, dann glaub dem Ergebnis.",
+          "ja": "最後のテストでは **45秒** のグルーヴを録音し、次の3点を確認します。\n- 強拍でコードへの着地がはっきり聞こえるか？\n- 休符がグルーヴを壊さず、呼吸させているか？\n- ゴーストノートは主役を奪わず、ラインに貢献しているか？\n\n優れたベースグルーヴは、スケール音の渋滞ではありません。整理された動きです。音を減らした方がポケットが良くなるなら、その結果を信じましょう。",
+          "zh-Hans": "最后做一个**45 秒**录音，并检查三件事：\n- 强拍上的和弦落点是否清楚可听？\n- 休止有没有让 groove 呼吸，而不是塌掉？\n- 幽灵音是在服务线条，还是在抢戏？\n\n好的贝斯 groove 不是音阶音的大堵车，而是被控制好的流动。如果你删掉一些音以后 pocket 反而更好了，那就相信这个结果。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-29T00:05:02Z",
+  "updatedAt": "2026-04-29T00:05:02Z"
+}

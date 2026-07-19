@@ -82,5 +82,397 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "metronome-ladder-for-clean-scales",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Metronome Ladder for Clean Scales",
+        "pt-BR": "Escada de Metrônomo para Escalas Limpas",
+        "es": "Escalera de metrónomo para escalas limpias",
+        "de": "Metronom-Leiter für saubere Skalen",
+        "ja": "クリーンなスケールのためのメトロノーム・ラダー",
+        "zh-Hans": "干净音阶的节拍器阶梯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build speed and accuracy with a fun click-track ladder on guitar.",
+        "pt-BR": "Aumente velocidade e precisão com uma escada divertida de clique na guitarra.",
+        "es": "Sube velocidad y precisión con una escalera de clic divertida en guitarra.",
+        "de": "Steigere Tempo und Präzision mit einer spaßigen Klick-Leiter auf der Gitarre.",
+        "ja": "メトロノームのラダー練習でギターの速度と正確さを楽しく上げよう。",
+        "zh-Hans": "用有趣的节拍器阶梯练习提升吉他速度与准确度。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-03-18T00:03:07Z",
+    "updatedAt": "2026-03-18T00:03:07Z"
+  },
+  {
+    "id": "scale-rhythm-grid-challenge",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Rhythm Grid Challenge for Scales",
+        "pt-BR": "Desafio da Grade Rítmica para Escalas",
+        "es": "Desafío de cuadrícula rítmica para escalas",
+        "de": "Rhythmus-Gitter-Challenge für Skalen",
+        "ja": "スケールのリズムグリッド・チャレンジ",
+        "zh-Hans": "音阶节奏网格挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a rhythmic game that improves timing, accents, and position shifts.",
+        "pt-BR": "Transforme a prática de escalas em um jogo rítmico que melhora timing, acentos e mudanças de posição.",
+        "es": "Convierte la práctica de escalas en un juego rítmico que mejora el pulso, los acentos y los cambios de posición.",
+        "de": "Mach das Skalenüben zu einem Rhythmusspiel, das Timing, Akzente und Lagenwechsel verbessert.",
+        "ja": "スケール練習をリズムゲームに変えて、タイミング・アクセント・ポジション移動を鍛えよう。",
+        "zh-Hans": "把音阶练习变成节奏游戏，提升时值感、重音与把位移动。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-03-19T00:02:49Z",
+    "updatedAt": "2026-03-19T00:02:49Z"
+  },
+  {
+    "id": "position-shift-scale-relay",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Position-Shift Scale Relay",
+        "pt-BR": "Revezamento de Mudança de Posição na Escala",
+        "es": "Relevo de Cambios de Posición en la Escala",
+        "de": "Positionswechsel-Staffel für Skalen",
+        "ja": "ポジション移動スケール・リレー",
+        "zh-Hans": "把位切换音阶接力"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train clean shifts between scale positions with a timed relay drill.",
+        "pt-BR": "Treine mudanças limpas entre posições da escala com um exercício de revezamento cronometrado.",
+        "es": "Entrena cambios limpios entre posiciones de la escala con un ejercicio de relevo cronometrado.",
+        "de": "Trainiere saubere Wechsel zwischen Skalenpositionen mit einem zeitgesteuerten Staffel-Drill.",
+        "ja": "タイムドリルでスケールのポジション間をクリーンに移動する練習をしよう。",
+        "zh-Hans": "用计时接力练习，训练音阶把位之间的干净切换。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-03-20T00:06:00Z",
+    "updatedAt": "2026-03-20T00:06:00Z"
+  },
+  {
+    "id": "guitar-scale-degree-roadmap",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Degree Roadmap",
+        "pt-BR": "Roteiro dos Graus da Escala",
+        "es": "Mapa de Grados de la Escala",
+        "de": "Stufen-Route der Skala",
+        "ja": "スケール度数ロードマップ",
+        "zh-Hans": "音阶级数路线图"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Build a quick map of scale degrees so you can navigate any scale shape on guitar.",
+        "pt-BR": "Monte um mapa rápido dos graus para navegar qualquer desenho de escala no violão/guitarra.",
+        "es": "Crea un mapa rápido de grados para navegar cualquier forma de escala en guitarra.",
+        "de": "Erstelle eine schnelle Stufenkarte, um jede Skalenform auf der Gitarre zu navigieren.",
+        "ja": "ギターのどんなスケール形でも迷わない度数マップを作ろう。",
+        "zh-Hans": "做一张快速级数地图，轻松导航任何吉他音阶形状。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-03-21T00:02:07Z",
+    "updatedAt": "2026-03-21T00:02:07Z"
+  },
+  {
+    "id": "metronome-ladder-scale-reading",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Metronome Ladder: Scale Reading Workout\"",
+        "pt-BR": "\"Escada de Metrônomo: Leitura de Escala\"",
+        "es": "\"Escalera de metrónomo: lectura de escalas\"",
+        "de": "\"Metronom-Leiter: Skalenlesen-Workout\"",
+        "ja": "\"メトロノーム階段：スケール読みトレ\"",
+        "zh-Hans": "\"节拍器阶梯：音阶阅读训练\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Climb tempo ladders while reading a scale pattern in position.\"",
+        "pt-BR": "\"Suba o BPM enquanto lê um padrão de escala na posição.\"",
+        "es": "\"Sube el tempo mientras lees un patrón de escala en posición.\"",
+        "de": "\"Steigere das Tempo, während du ein Skalenmuster in Position liest.\"",
+        "ja": "\"ポジションでスケールパターンを読みながらテンポを上げる。\"",
+        "zh-Hans": "\"在固定把位阅读音阶模式，同时提高速度。\""
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-03-22T00:04:06Z",
+    "updatedAt": "2026-03-22T00:04:06Z"
+  },
+  {
+    "id": "guitar-scale-accents-and-shifts",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Scale Accents and Shifts",
+        "pt-BR": "Acentos e Deslocamentos na Escala",
+        "es": "Acentos y Desplazamientos en la Escala",
+        "de": "Skalenakzente und Lagenwechsel",
+        "ja": "スケールのアクセントとポジション移動",
+        "zh-Hans": "音阶重音与把位移动"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Add groove and smooth position changes to your scale practice.",
+        "pt-BR": "Dê groove e trocas de posição suaves ao praticar escalas.",
+        "es": "Añade groove y cambios de posición suaves a tu práctica de escalas.",
+        "de": "Gib deiner Skalenübung Groove und flüssige Positionswechsel.",
+        "ja": "スケール練習にグルーヴと滑らかな移動を加える。",
+        "zh-Hans": "让音阶练习更有律动并顺滑换把位。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-03-24T00:03:51Z",
+    "updatedAt": "2026-03-24T00:03:51Z"
+  },
+  {
+    "id": "guitar-string-skip-scale-bounces",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "String-Skip Scale Bounces",
+        "pt-BR": "Saltos de corda na escala",
+        "es": "Saltos de cuerda en la escala",
+        "de": "Saitensprung-Skalenbounces",
+        "ja": "弦飛びスケール・バウンス",
+        "zh-Hans": "跳弦音阶弹跳"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Jump strings inside a G major scale to build control and playful phrasing.",
+        "pt-BR": "Pule cordas dentro da escala de Sol maior para ganhar controle e frases brincalhonas.",
+        "es": "Salta cuerdas dentro de la escala de Sol mayor para ganar control y frases juguetonas.",
+        "de": "Springe in der G-Dur-Tonleiter zwischen Saiten, um Kontrolle und verspielte Phrasen zu trainieren.",
+        "ja": "Gメジャー内で弦を飛ばし、コントロールと弾むフレーズ感を鍛える。",
+        "zh-Hans": "在G大调中跳弦练习，提升控制力和俏皮的乐句感。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-03-25T00:05:52Z",
+    "updatedAt": "2026-03-25T00:05:52Z"
+  },
+  {
+    "id": "octave-hop-scale-map",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Octave Hop Scale Map\"",
+        "pt-BR": "\"Mapa de Saltos de Oitava na Escala\"",
+        "es": "\"Mapa de Saltos de Octava en la Escala\"",
+        "de": "\"Oktavsprung-Skalenkarte\"",
+        "ja": "\"オクターブジャンプ・スケールマップ\"",
+        "zh-Hans": "\"八度跳跃音阶地图\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Hop between octave shapes to map a scale across the neck and stay oriented.\"",
+        "pt-BR": "\"Salte entre formas de oitava para mapear uma escala pelo braço e se orientar.\"",
+        "es": "\"Salta entre formas de octava para mapear una escala por el mástil y orientarte.\"",
+        "de": "\"Springe zwischen Oktavformen, um eine Skala über das Griffbrett zu kartieren und orientiert zu bleiben.\"",
+        "ja": "\"オクターブ形を飛び移りながら、指板上のスケールを迷わずマップする。\"",
+        "zh-Hans": "\"在八度形之间跳跃，绘制指板音阶地图并保持方向感。\""
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-03-29T00:02:32Z",
+    "updatedAt": "2026-03-29T00:02:32Z"
+  },
+  {
+    "id": "guitar-scale-accent-switchback",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Accent Switchback\"",
+        "pt-BR": "\"Escala com Troca de Acentos\"",
+        "es": "\"Cambio de Acentos en la Escala\"",
+        "de": "\"Skalen-Akzentwechsel\"",
+        "ja": "\"スケール・アクセント切り替え\"",
+        "zh-Hans": "\"音阶重音切换\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Shift accents across a scale to build timing and clean position changes.\"",
+        "pt-BR": "\"Desloque os acentos pela escala para melhorar o tempo e as mudanças de posição.\"",
+        "es": "\"Desplaza los acentos en la escala para mejorar el pulso y los cambios de posición.\"",
+        "de": "\"Verschiebe die Akzente in der Skala, um Timing und Positionswechsel zu verbessern.\"",
+        "ja": "\"アクセント位置をずらしてタイミングとポジション移動を磨く。\"",
+        "zh-Hans": "\"在音阶中移动重音，提升节奏感与换把位的干净度。\""
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-03-30T00:03:53Z",
+    "updatedAt": "2026-03-30T00:03:53Z"
+  },
+  {
+    "id": "guitar-scale-compass-jam",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Scale Compass Jam\"",
+        "pt-BR": "\"Jam da Bússola da Escala\"",
+        "es": "\"Jam de la Brújula de la Escala\"",
+        "de": "\"Skalen‑Kompass‑Jam\"",
+        "ja": "\"スケール・コンパス・ジャム\"",
+        "zh-Hans": "\"音阶指南针即兴\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Navigate a scale across the neck using north/south/east/west moves and a metronome game.\"",
+        "pt-BR": "\"Navegue uma escala pelo braço com movimentos norte/sul/leste/oeste e um jogo com metrônomo.\"",
+        "es": "\"Navega una escala por el mástil con movimientos norte/sur/este/oeste y un juego con metrónomo.\"",
+        "de": "\"Navigiere eine Skala über das Griffbrett mit Nord/Süd/Ost/West‑Bewegungen und einem Metronom‑Spiel.\"",
+        "ja": "\"北/南/東/西の動きとメトロノームのゲームで、スケールを指板上でナビゲートします。\"",
+        "zh-Hans": "\"用北/南/东/西的移动和节拍器游戏，在指板上导航音阶。\""
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-04-02T00:03:13Z",
+    "updatedAt": "2026-04-02T00:03:13Z"
+  },
+  {
+    "id": "guitar-scale-detour-dash",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Scale Detour Dash",
+        "pt-BR": "Corrida de Desvios da Escala na Guitarra",
+        "es": "Carrera de Desvíos de Escala en Guitarra",
+        "de": "Gitarren-Skalen-Umweg-Dash",
+        "ja": "ギター・スケール寄り道ダッシュ",
+        "zh-Hans": "吉他音阶绕路冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Race through surprise fretboard detours to keep your scale playing accurate, relaxed, and musical.",
+        "pt-BR": "Corra por desvios surpresa no braço para manter sua escala precisa, relaxada e musical.",
+        "es": "Corre por desvíos sorpresa en el mástil para mantener tu escala precisa, relajada y musical.",
+        "de": "Nimm überraschende Umwege auf dem Griffbrett, damit dein Skalen-Spiel präzise, locker und musikalisch bleibt.",
+        "ja": "指板上のサプライズな寄り道で、スケール演奏を正確に、リラックスして、音楽的に保とう。",
+        "zh-Hans": "在指板上做惊喜绕路，让你的音阶练习依然精准、放松又有音乐感。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-04-23T00:08:21Z",
+    "updatedAt": "2026-04-23T00:08:21Z"
+  },
+  {
+    "id": "string-skip-scale-quest",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "String-Skip Scale Quest",
+        "pt-BR": "Missão da Escala com Salto de Cordas",
+        "es": "Misión de Escala con Salto de Cuerdas",
+        "de": "Saitensprung-Skalenmission",
+        "ja": "弦飛びスケール・クエスト",
+        "zh-Hans": "跨弦音阶任务"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train clean string skips while keeping your scale notes musical and in time.",
+        "pt-BR": "Treine saltos de cordas limpos mantendo as notas da escala musicais e no tempo.",
+        "es": "Entrena saltos de cuerda limpios manteniendo tus notas de escala musicales y a tiempo.",
+        "de": "Trainiere saubere Saitensprünge und halte deine Skalentöne musikalisch und im Timing.",
+        "ja": "クリーンな弦飛びを鍛えながら、スケール音を音楽的にタイム内で保とう。",
+        "zh-Hans": "在保持音乐性与节奏稳定的同时，训练干净的跨弦音阶演奏。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-05-06T00:06:36Z",
+    "updatedAt": "2026-05-06T00:06:36Z"
+  },
+  {
+    "id": "guitar-scale-switchyard-sparks",
+    "level": "beginner",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Scale Switchyard Sparks",
+        "pt-BR": "Guitarra: Faíscas no Pátio de Trocas da Escala",
+        "es": "Guitarra: Chispas en el Patio de Cambios de la Escala",
+        "de": "Gitarre: Funken im Skalen-Weichenfeld",
+        "ja": "ギター：スケール操車場のスパーク",
+        "zh-Hans": "吉他：音阶调车场火花"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn one safe scale shape into a timing game with accents, slides, and surprise exits.",
+        "pt-BR": "Transforme um desenho seguro de escala em um jogo de tempo com acentos, slides e saídas surpresa.",
+        "es": "Convierte una posición segura de escala en un juego de tiempo con acentos, slides y salidas sorpresa.",
+        "de": "Verwandle eine sichere Skalenform in ein Timing-Spiel mit Akzenten, Slides und Überraschungsausgängen.",
+        "ja": "安心できるスケールポジションを、アクセントとスライドと意外な出口があるタイミングゲームに変えます。",
+        "zh-Hans": "把一个安全的音阶把位练成带有重音、滑音和惊喜出口的节奏游戏。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-06-28T00:06:54Z",
+    "updatedAt": "2026-06-28T00:06:54Z"
+  },
+  {
+    "id": "guitar-accent-maze-d-major",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Accent Maze in D Major",
+        "pt-BR": "Labirinto de Acentos na Guitarra em Ré Maior",
+        "es": "Laberinto de Acentos para Guitarra en Re Mayor",
+        "de": "Gitarren-Akzentlabyrinth in D-Dur",
+        "ja": "Dメジャーのギター・アクセント迷路",
+        "zh-Hans": "D大调吉他重音迷宫"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Navigate D major with shifting accents, checkpoints, and clean position changes.",
+        "pt-BR": "Navegue por Ré maior com acentos móveis, checkpoints e mudanças limpas de posição.",
+        "es": "Recorre Re mayor con acentos móviles, checkpoints y cambios limpios de posición.",
+        "de": "Bewege dich durch D-Dur mit wandernden Akzenten, Checkpoints und sauberen Lagenwechseln.",
+        "ja": "動くアクセント、チェックポイント、滑らかなポジション移動でDメジャーを進もう。",
+        "zh-Hans": "用移动重音、检查点和干净换把穿越D大调。"
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-07-10T00:05:18Z",
+    "updatedAt": "2026-07-10T00:05:18Z"
   }
 ]

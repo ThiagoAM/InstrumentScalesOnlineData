@@ -1,0 +1,73 @@
+{
+  "id": "g-lydian-lift-off",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Welcome to the hover zone\nToday’s color is **G Lydian** over a steady **G major vamp**.\n\nG Lydian uses these notes:\n> G A B C♯ D E F♯\n\nIt sounds like G major, but with one spicy upgrade: **C♯ instead of C**. That **#4** is the note that makes the mode feel open, cinematic, and slightly like your guitar learned to levitate.",
+          "pt-BR": "# Bem-vindo à zona de flutuação\nA cor de hoje é **Sol Lídio** sobre um **vamp em Sol maior**.\n\nSol Lídio usa estas notas:\n> G A B C♯ D E F♯\n\nEle soa como Sol maior, mas com um tempero especial: **C♯ no lugar de C**. Essa **#4** é a nota que deixa o modo aberto, cinematográfico e com cara de que sua guitarra começou a levitar.",
+          "es": "# Bienvenido a la zona de flotación\nEl color de hoy es **Sol lidio** sobre un **vamp en Sol mayor**.\n\nSol lidio usa estas notas:\n> G A B C♯ D E F♯\n\nSuena como Sol mayor, pero con una mejora picante: **C♯ en vez de C**. Esa **#4** es la nota que hace que el modo suene abierto, cinematográfico y como si tu guitarra hubiera aprendido a levitar.",
+          "de": "# Willkommen in der Schwebezone\nDie Farbe heute ist **G-Lydisch** über einem gleichmäßigen **G-Dur-Vamp**.\n\nG-Lydisch benutzt diese Töne:\n> G A B C♯ D E F♯\n\nEs klingt wie G-Dur, aber mit einem besonderen Extra: **C♯ statt C**. Diese **#4** ist der Ton, der den Modus offen, filmisch und leicht schwebend macht.",
+          "ja": "# 浮遊ゾーンへようこそ\n今日の色は、安定した **Gメジャーのヴァンプ** の上で使う **Gリディアン** です。\n\nGリディアンの音は次のとおりです：\n> G A B C♯ D E F♯\n\nGメジャーに似ていますが、ひとつ大事な違いがあります。**C の代わりに C♯** が入ることです。この **#4** が、モードを開放的で映画っぽく、少し宙に浮いた感じにしてくれます。",
+          "zh-Hans": "# 欢迎来到悬浮区\n今天的颜色是稳定 **G大调 vamp** 上的 **G利底亚**。\n\nG利底亚使用这些音：\n> G A B C♯ D E F♯\n\n它听起来像G大调，但多了一个关键变化：**把 C 换成 C♯**。这个 **#4** 就是让这个调式听起来开阔、电影感十足、像会漂浮起来一样的原因。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Find the magic note on the neck\nStart in a comfortable G major position around the **3rd–7th frets**.\n\nYour mission is to spot three landmarks:\n- **G** = home base\n- **B** = the major 3rd that keeps the sound bright\n- **C♯** = the lydian color note\n\nPlay a short phrase that lands on **G**. Then play the same rhythm again, but aim for **C♯** before resolving back to G. If the second version sounds more \"floating,\" you found the good stuff.",
+          "pt-BR": "# Ache a nota mágica no braço\nComece numa posição confortável de Sol maior entre a **3ª e a 7ª casas**.\n\nSua missão é localizar três pontos:\n- **G** = base de casa\n- **B** = a 3ª maior que mantém o brilho\n- **C♯** = a nota de cor lídia\n\nToque uma frase curta pousando em **G**. Depois toque o mesmo ritmo de novo, mas mirando em **C♯** antes de resolver para G. Se a segunda versão soar mais “flutuante”, você achou a mágica.",
+          "es": "# Encuentra la nota mágica en el diapasón\nEmpieza en una posición cómoda de Sol mayor entre los **trastes 3 y 7**.\n\nTu misión es ubicar tres puntos:\n- **G** = casa\n- **B** = la 3ª mayor que mantiene el brillo\n- **C♯** = la nota de color lidio\n\nToca una frase corta que llegue a **G**. Luego toca el mismo ritmo otra vez, pero apuntando a **C♯** antes de resolver a G. Si la segunda versión suena más \"flotante\", encontraste el truco.",
+          "de": "# Finde den Zauberton auf dem Griffbrett\nStarte in einer bequemen G-Dur-Position zwischen dem **3. und 7. Bund**.\n\nDeine Mission: finde drei Orientierungspunkte:\n- **G** = Zuhause\n- **B** = die große Terz für den hellen Klang\n- **C♯** = der lydische Farbton\n\nSpiele eine kurze Phrase mit Landung auf **G**. Spiele dann denselben Rhythmus noch einmal, aber ziele vor der Auflösung auf **C♯**. Wenn die zweite Version mehr „schwebt“, bist du richtig.",
+          "ja": "# 指板で魔法の音を探そう\n**3〜7フレット**あたりの弾きやすいGメジャー・ポジションから始めましょう。\n\n探すポイントは3つです：\n- **G** = 帰る場所\n- **B** = 明るさを保つ長3度\n- **C♯** = リディアンの色音\n\nまず **G** に着地する短いフレーズを弾きます。次に同じリズムで、解決する前に **C♯** を狙ってみてください。2回目のほうが「ふわっ」と聞こえたら成功です。",
+          "zh-Hans": "# 在指板上找到魔法音\n从 **3到7品** 附近一个舒服的G大调把位开始。\n\n你的任务是锁定三个地标：\n- **G** = 回家的感觉\n- **B** = 保持明亮的大三度\n- **C♯** = 利底亚的色彩音\n\n先弹一句落在 **G** 上的短句。然后用同样的节奏再弹一次，但在回到G之前先去碰一下 **C♯**。如果第二次听起来更“悬浮”，你就找到了关键。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Mini phrase lab\nTry these phrase ideas over `| G | G | G | G |`:\n\n1. **Safe launch**: G–A–B–D  \n2. **Lydian flash**: B–C♯–D–B  \n3. **Long hover**: hold **C♯** for a beat, then resolve to **B** or **G**\n\nRule: don’t just run the whole scale up and down. Build **tiny melodies** with space, and make the #4 feel intentional.",
+          "pt-BR": "# Mini laboratório de frases\nTeste estas ideias sobre `| G | G | G | G |`:\n\n1. **Decolagem segura**: G–A–B–D  \n2. **Clarão lídio**: B–C♯–D–B  \n3. **Suspensão longa**: segure **C♯** por um tempo e resolva em **B** ou **G**\n\nRegra: não saia apenas subindo e descendo a escala inteira. Monte **mini melodias** com espaço, fazendo a #4 soar intencional.",
+          "es": "# Mini laboratorio de frases\nPrueba estas ideas sobre `| G | G | G | G |`:\n\n1. **Despegue seguro**: G–A–B–D  \n2. **Destello lidio**: B–C♯–D–B  \n3. **Suspensión larga**: sostén **C♯** un pulso y resuelve en **B** o **G**\n\nRegla: no subas y bajes la escala entera sin pensar. Construye **mini melodías** con espacio y haz que la #4 parezca intencional.",
+          "de": "# Mini-Phrasenlabor\nProbiere diese Ideen über `| G | G | G | G |`:\n\n1. **Sicherer Start**: G–A–B–D  \n2. **Lydischer Blitz**: B–C♯–D–B  \n3. **Langes Schweben**: halte **C♯** einen Schlag und löse nach **B** oder **G** auf\n\nRegel: nicht einfach nur die ganze Tonleiter rauf und runter. Bau **kleine Melodien** mit Luft und lass die #4 bewusst klingen.",
+          "ja": "# ミニ・フレーズ実験室\n`| G | G | G | G |` の上で次を試しましょう：\n\n1. **安全な離陸**: G–A–B–D  \n2. **リディアンのひらめき**: B–C♯–D–B  \n3. **長い浮遊**: **C♯** を1拍伸ばしてから **B** か **G** に解決\n\nルール：ただスケールを上下するだけにしないこと。**短いメロディ**を空間を使って作り、#4 をわざと聞かせましょう。",
+          "zh-Hans": "# 迷你乐句实验室\n在 `| G | G | G | G |` 上试试这些想法：\n\n1. **安全起飞**: G–A–B–D  \n2. **利底亚闪光**: B–C♯–D–B  \n3. **长时间悬浮**: 把 **C♯** 保持一拍，然后解决到 **B** 或 **G**\n\n规则：不要只是把整条音阶机械地上下跑。要用留白写出**小旋律**，让 #4 听起来是故意的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Challenge round: same root, two moods\nAlternate between these two sounds on the same G drone:\n- **G major** = use **C natural**\n- **G Lydian** = use **C♯**\n\nPlay one 2-bar phrase in plain G major, then one 2-bar phrase in G Lydian.\n\nAsk yourself:\n- Which one sounds more grounded?\n- Which one sounds more bright or suspended?\n- Can you make the difference obvious without playing faster?\n\nThat last question is the boss battle.",
+          "pt-BR": "# Rodada desafio: mesma tônica, dois climas\nAlterne estes dois sons sobre o mesmo drone em G:\n- **Sol maior** = use **C natural**\n- **Sol Lídio** = use **C♯**\n\nToque uma frase de 2 compassos em Sol maior comum e depois outra de 2 compassos em Sol Lídio.\n\nPergunte a si mesmo:\n- Qual soa mais estável?\n- Qual soa mais brilhante ou suspenso?\n- Você consegue deixar a diferença óbvia sem tocar mais rápido?\n\nEssa última pergunta é a luta contra o chefão.",
+          "es": "# Ronda desafío: misma tónica, dos climas\nAlterna estos dos sonidos sobre el mismo drone en G:\n- **Sol mayor** = usa **C natural**\n- **Sol lidio** = usa **C♯**\n\nToca una frase de 2 compases en Sol mayor normal y luego otra de 2 compases en Sol lidio.\n\nPregúntate:\n- ¿Cuál suena más estable?\n- ¿Cuál suena más brillante o suspendido?\n- ¿Puedes hacer la diferencia obvia sin tocar más rápido?\n\nEsa última pregunta es la pelea final.",
+          "de": "# Challenge-Runde: gleicher Grundton, zwei Stimmungen\nWechsle auf demselben G-Drone zwischen diesen beiden Klängen:\n- **G-Dur** = mit **C**\n- **G-Lydisch** = mit **C♯**\n\nSpiele zuerst eine 2-taktige Phrase in normalem G-Dur, dann eine 2-taktige Phrase in G-Lydisch.\n\nFrage dich:\n- Was klingt geerdeter?\n- Was klingt heller oder schwebender?\n- Kannst du den Unterschied deutlich machen, ohne schneller zu spielen?\n\nDie letzte Frage ist der Endgegner.",
+          "ja": "# チャレンジ：同じルートで2つのムード\n同じ G のドローンの上で、次の2つを交互に弾きます：\n- **Gメジャー** = **Cナチュラル** を使う\n- **Gリディアン** = **C♯** を使う\n\n普通のGメジャーで2小節のフレーズを弾き、そのあとGリディアンで2小節弾いてください。\n\n自分に聞いてみましょう：\n- どちらがより安定して聞こえる？\n- どちらがより明るく、宙づりっぽい？\n- 速く弾かなくても違いをはっきり出せる？\n\n最後の質問がボス戦です。",
+          "zh-Hans": "# 挑战回合：同一个根音，两种气质\n在同一个 G 持续音上交替这两种感觉：\n- **G大调** = 用 **C自然音**\n- **G利底亚** = 用 **C♯**\n\n先弹一个普通G大调的2小节乐句，再弹一个G利底亚的2小节乐句。\n\n问问自己：\n- 哪个更稳？\n- 哪个更明亮、更悬着？\n- 不加快速度，你能不能把差别弹得很明显？\n\n最后这个问题就是 boss 战。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "# Musical mission\nSet a timer for **3 minutes** and improvise over a G vamp.\n\nRound 1: only use notes from **G major**.  \nRound 2: bring in **C♯** carefully.  \nRound 3: make **C♯** a featured guest in at least three phrases.\n\nIf the mode still sounds clear when you slow down and leave space, you’re not just memorizing a shape — you’re hearing lydian color like a musician.",
+          "pt-BR": "# Missão musical\nAjuste um cronômetro para **3 minutos** e improvise sobre um vamp em G.\n\nRodada 1: use apenas notas de **Sol maior**.  \nRodada 2: introduza **C♯** com cuidado.  \nRodada 3: faça de **C♯** um convidado principal em pelo menos três frases.\n\nSe o modo continuar claro mesmo quando você desacelera e deixa espaço, você não está só memorizando shape — está ouvindo a cor lídia como músico.",
+          "es": "# Misión musical\nPon un temporizador de **3 minutos** e improvisa sobre un vamp en G.\n\nRonda 1: usa sólo notas de **Sol mayor**.  \nRonda 2: mete **C♯** con cuidado.  \nRonda 3: convierte a **C♯** en invitado principal en al menos tres frases.\n\nSi el modo sigue claro cuando tocas más despacio y dejas espacio, no sólo estás memorizando un shape: estás oyendo el color lidio como músico.",
+          "de": "# Musikalische Mission\nStell einen Timer auf **3 Minuten** und improvisiere über einen G-Vamp.\n\nRunde 1: nur Töne aus **G-Dur**.  \nRunde 2: bring **C♯** vorsichtig hinein.  \nRunde 3: mache **C♯** in mindestens drei Phrasen zum Hauptdarsteller.\n\nWenn der Modus auch bei langsamem Spiel und viel Raum klar bleibt, lernst du nicht nur ein Pattern auswendig — du hörst lydische Farbe wirklich.",
+          "ja": "# 音楽ミッション\n**3分** タイマーをセットして、Gのヴァンプで即興します。\n\n1周目：**Gメジャー** の音だけを使う。  \n2周目：**C♯** を慎重に入れる。  \n3周目：少なくとも3つのフレーズで **C♯** を主役にする。\n\nゆっくり弾いて間を空けてもモード感がはっきり聞こえるなら、単に形を覚えているのではなく、ミュージシャンとしてリディアンの色を聴けています。",
+          "zh-Hans": "# 音乐任务\n设一个 **3分钟** 计时器，在G vamp上即兴。\n\n第1轮：只用 **G大调** 的音。  \n第2轮：小心地加入 **C♯**。  \n第3轮：让 **C♯** 至少在三个乐句里当主角。\n\n如果你放慢速度、留出空间时，调式感还是很清楚，那你就不只是背把位，而是真的听到了利底亚的颜色。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-09T00:06:11Z",
+  "updatedAt": "2026-04-09T00:06:11Z"
+}

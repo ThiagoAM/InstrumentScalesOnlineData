@@ -1,0 +1,73 @@
+{
+  "id": "piano-scale-color-swaps",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start in C major, hands separately. Play one octave up and down, then describe the mood in one word (bright, sunny, calm).",
+          "pt-BR": "Comece em Dó maior, mãos separadas. Toque uma oitava subindo e descendo e descreva o clima com uma palavra (claro, ensolarado, calmo).",
+          "es": "Empieza en Do mayor, manos separadas. Toca una octava arriba y abajo y describe el ánimo con una palabra (brillante, soleado, tranquilo).",
+          "de": "Starte in C-Dur, Hände getrennt. Spiele eine Oktave auf und ab und beschreibe die Stimmung mit einem Wort (hell, sonnig, ruhig).",
+          "ja": "Cメジャーから開始。片手ずつ1オクターブ上下し、雰囲気を一言で表す（明るい、晴れ、落ち着く）。",
+          "zh-Hans": "从C大调开始，分手弹一组上行下行的八度，并用一个词形容情绪（明亮、阳光、平静）。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now play A natural minor (same white keys). Keep the tempo identical. What word fits this mood (sad, dark, thoughtful)?",
+          "pt-BR": "Agora toque Lá menor natural (mesmas teclas brancas). Mantenha o mesmo tempo. Qual palavra combina com esse clima (triste, escuro, pensativo)?",
+          "es": "Ahora toca La menor natural (mismas teclas blancas). Mantén el mismo tempo. ¿Qué palabra encaja (triste, oscuro, reflexivo)?",
+          "de": "Jetzt A‑Moll natürlich (gleiche weißen Tasten). Gleiches Tempo. Welches Wort passt (traurig, dunkel, nachdenklich)?",
+          "ja": "次にAナチュラルマイナー（白鍵のみ）を同じテンポで弾く。どんな言葉が合う？（悲しい、暗い、内省的）",
+          "zh-Hans": "接着弹A自然小调（同样的白键），保持同样速度。哪个词更贴切（忧伤、暗淡、沉思）？"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Color swap #1: stay in C, but lower the 3rd (E → Eb) for one octave. Listen to the instant mood shift, then return to C major.",
+          "pt-BR": "Troca de cor #1: fique em Dó, mas abaixe a 3ª (E → Eb) por uma oitava. Sinta a mudança instantânea e volte para Dó maior.",
+          "es": "Cambio de color #1: quédate en Do, pero baja la 3ª (E → Eb) por una octava. Siente el cambio instantáneo y vuelve a Do mayor.",
+          "de": "Farbwechsel #1: Bleib in C, aber senke die Terz (E → Eb) für eine Oktave. Spüre den sofortigen Mood‑Shift und gehe zurück zu C‑Dur.",
+          "ja": "カラー交換①：Cのまま3度を下げる（E → Eb）。1オクターブ弾いてムードの変化を感じ、Cメジャーに戻す。",
+          "zh-Hans": "色彩互换①：仍在C上，把3级降低（E → Eb），弹一组八度，感受瞬间变化，再回到C大调。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Color swap #2: stay in A minor and raise the 7th (G → G#). Feel how it pulls you toward A. Alternate natural minor vs raised 7th.",
+          "pt-BR": "Troca de cor #2: fique em Lá menor e levante a 7ª (G → G#). Perceba como puxa para o Lá. Alterne entre menor natural e 7ª elevada.",
+          "es": "Cambio de color #2: quédate en La menor y sube la 7ª (G → G#). Nota cómo te empuja hacia La. Alterna menor natural y 7ª elevada.",
+          "de": "Farbwechsel #2: Bleib in A‑Moll und erhöhe die Septime (G → G#). Spüre den Zug Richtung A. Wechsle zwischen natürlichem Moll und erhöhter Septime.",
+          "ja": "カラー交換②：Aマイナーのまま7度を上げる（G → G#）。Aへの引力を感じる。ナチュラルと上げた7度を交互に。",
+          "zh-Hans": "色彩互换②：仍在A小调，把7级升高（G → G#）。感受它向A的牵引力。自然小调与升7之间交替。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Create a 4‑bar melody: bars 1–2 in C major, bars 3–4 in A minor. Keep the rhythm the same and let the color change tell the story.",
+          "pt-BR": "Crie uma melodia de 4 compassos: compassos 1–2 em Dó maior, compassos 3–4 em Lá menor. Mantenha o mesmo ritmo e deixe a cor contar a história.",
+          "es": "Crea una melodía de 4 compases: compases 1–2 en Do mayor, compases 3–4 en La menor. Mantén el ritmo igual y deja que el color cuente la historia.",
+          "de": "Erstelle eine 4‑taktige Melodie: Takte 1–2 in C‑Dur, Takte 3–4 in A‑Moll. Rhythmus gleich lassen, die Farbe erzählt die Story.",
+          "ja": "4小節のメロディを作成：1–2小節はCメジャー、3–4小節はAマイナー。同じリズムでカラーの違いを語らせよう。",
+          "zh-Hans": "创作4小节旋律：第1–2小节用C大调，第3–4小节用A小调。保持节奏不变，让色彩变化讲故事。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-03-29T00:06:13Z",
+  "updatedAt": "2026-03-29T00:06:13Z"
+}

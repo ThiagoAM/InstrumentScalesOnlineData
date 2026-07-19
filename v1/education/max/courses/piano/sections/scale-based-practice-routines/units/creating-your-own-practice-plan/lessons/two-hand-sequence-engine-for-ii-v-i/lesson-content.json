@@ -1,0 +1,73 @@
+{
+  "id": "two-hand-sequence-engine-for-ii-v-i",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose **Dm7 – G7 – Cmaj7** in **C major** and set a metronome to **80 bpm**. Your right hand will use short scale fragments, while your left hand plays **root then shell** (root on beat 1, 3rd or 7th on beat 3). The goal is not speed — it is elegant coordination.",
+          "pt-BR": "Escolha **Dm7 – G7 – Cmaj7** em **Dó maior** e ajuste o metrônomo para **80 bpm**. A mão direita vai tocar pequenos fragmentos de escala, enquanto a esquerda faz **fundamental e depois shell** (fundamental no tempo 1, 3ª ou 7ª no tempo 3). O objetivo não é velocidade — é coordenação elegante.",
+          "es": "Elige **Dm7 – G7 – Cmaj7** en **Do mayor** y pon el metrónomo a **80 bpm**. La mano derecha tocará fragmentos cortos de escala, mientras la izquierda hará **fundamental y luego shell** (fundamental en el tiempo 1, 3ª o 7ª en el tiempo 3). La meta no es velocidad, sino coordinación elegante.",
+          "de": "Wähle **Dm7 – G7 – Cmaj7** in **C-Dur** und stelle das Metronom auf **80 bpm**. Die rechte Hand spielt kurze Skalenfragmente, während die linke Hand **Grundton und dann Shell** spielt (Grundton auf Zählzeit 1, Terz oder Septime auf Zählzeit 3). Es geht nicht um Tempo, sondern um elegante Koordination.",
+          "ja": "**Cメジャー**で **Dm7 – G7 – Cmaj7** を選び、メトロノームを**80 bpm**に設定します。右手は短いスケール断片、左手は**ルート→シェル**（1拍目にルート、3拍目に3度または7度）を担当します。目標は速さではなく、上品な連携です。",
+          "zh-Hans": "选择**C大调**中的 **Dm7 – G7 – Cmaj7**，把节拍器设为**80 bpm**。右手弹短小的音阶片段，左手弹**根音再到shell voicing**（第1拍弹根音，第3拍弹3度或7度）。目标不是快，而是优雅而稳定的配合。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "In the right hand, play a **3-note sequence** for each chord: start on a chord tone, move stepwise, and land on a strong target for the next chord. Example: over **Dm7**, aim toward **B** for G7; over **G7**, aim toward **E** for Cmaj7. Think one chord ahead like a chess player.",
+          "pt-BR": "Na mão direita, toque uma **sequência de 3 notas** para cada acorde: comece em um tom do acorde, ande por graus conjuntos e termine em uma nota-alvo forte do acorde seguinte. Exemplo: sobre **Dm7**, mire em **B** para o G7; sobre **G7**, mire em **E** para o Cmaj7. Pense um acorde à frente, como no xadrez.",
+          "es": "En la mano derecha, toca una **secuencia de 3 notas** para cada acorde: empieza en un tono del acorde, muévete por grados conjuntos y aterriza en una nota objetivo fuerte del acorde siguiente. Ejemplo: sobre **Dm7**, apunta a **B** para G7; sobre **G7**, apunta a **E** para Cmaj7. Piensa un acorde por delante, como si jugaras ajedrez.",
+          "de": "Spiele in der rechten Hand pro Akkord eine **3-Noten-Sequenz**: Starte auf einem Akkordton, bewege dich schrittweise und lande auf einem starken Zielton des nächsten Akkords. Beispiel: über **Dm7** zielst du auf **B** für G7; über **G7** zielst du auf **E** für Cmaj7. Denke wie ein Schachspieler einen Akkord voraus.",
+          "ja": "右手では各コードごとに**3音シーケンス**を弾きます。コードトーンから始め、順次進行で動き、次のコードの強いターゲット音に着地します。例として **Dm7** では **G7** に向かう **B**、**G7** では **Cmaj7** に向かう **E** を意識します。チェスのように一手先のコードを考えましょう。",
+          "zh-Hans": "右手每个和弦都弹一个**3音序列**：从和弦音开始，按级进移动，并落到下一个和弦的重要目标音上。比如在 **Dm7** 上朝 **G7** 的 **B** 前进，在 **G7** 上朝 **Cmaj7** 的 **E** 前进。像下棋一样，提前想一个和弦。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now loop the progression for **6 rounds**. Rounds 1–2 use only **eighth notes**, rounds 3–4 add one **quarter-note rest** per bar, and rounds 5–6 must include one **ascending** and one **descending** sequence. Smooth movement beats flashy movement.",
+          "pt-BR": "Agora faça um loop da progressão por **6 voltas**. As voltas 1–2 usam só **colcheias**, as 3–4 acrescentam **uma pausa de semínima** por compasso, e as 5–6 devem incluir uma sequência **ascendente** e uma **descendente**. Movimento suave vale mais que movimento chamativo.",
+          "es": "Ahora repite la progresión durante **6 vueltas**. Las vueltas 1–2 usan solo **corcheas**, las 3–4 añaden **un silencio de negra** por compás y las 5–6 deben incluir una secuencia **ascendente** y una **descendente**. El movimiento suave vale más que el movimiento vistoso.",
+          "de": "Loopen Sie nun die Progression für **6 Durchgänge**. In Runde 1–2 nur **Achtelnoten**, in Runde 3–4 kommt pro Takt **eine Viertelpause** dazu, und in Runde 5–6 müssen eine **aufsteigende** und eine **absteigende** Sequenz vorkommen. Geschmeidige Bewegung schlägt spektakuläre Bewegung.",
+          "ja": "次にこの進行を**6周**します。1〜2周目は**8分音符のみ**、3〜4周目は各小節に**4分休符を1つ**追加、5〜6周目は**上行**シーケンスと**下行**シーケンスを1回ずつ入れます。派手さより、滑らかな動きが勝ちです。",
+          "zh-Hans": "然后把这个进行循环**6轮**。第1–2轮只用**八分音符**，第3–4轮每小节加入**一个四分休止**，第5–6轮必须各出现一次**上行**和一次**下行**序列。平滑的移动，比花哨的移动更值钱。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Engine challenge:** on every return to **Cmaj7**, change your right-hand starting note without breaking the shape of the phrase. If you panic and freeze, reduce the sequence to two notes, recover the pulse, and rebuild.",
+          "pt-BR": "**Desafio do motor:** a cada retorno para **Cmaj7**, mude a nota inicial da mão direita sem quebrar o desenho da frase. Se bater pânico e travar, reduza a sequência para duas notas, recupere o pulso e reconstrua.",
+          "es": "**Desafío del motor:** cada vez que regreses a **Cmaj7**, cambia la nota inicial de la mano derecha sin romper la forma de la frase. Si te bloqueas, reduce la secuencia a dos notas, recupera el pulso y vuelve a construir.",
+          "de": "**Motor-Challenge:** Ändere bei jeder Rückkehr zu **Cmaj7** den Startton der rechten Hand, ohne die Form der Phrase zu zerstören. Wenn du in Panik gerätst und stockst, reduziere die Sequenz auf zwei Töne, finde den Puls wieder und baue neu auf.",
+          "ja": "**エンジン・チャレンジ：** **Cmaj7** に戻るたびに、右手の開始音を変えつつフレーズの形は保ってください。焦って止まったら、2音に縮めて拍を取り戻し、そこから組み直しましょう。",
+          "zh-Hans": "**引擎挑战：** 每次回到 **Cmaj7** 时，都改变右手的起始音，但不要破坏句子的形状。如果突然慌了卡住，就把序列缩成两个音，先找回拍子，再重新搭建。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by playing one clean take with the sustain pedal used sparingly. Listen back and ask: did both hands sound like one musician, or two people negotiating a treaty? If the line clearly pulls into each next chord, the engine is running.",
+          "pt-BR": "Termine tocando uma tomada limpa, usando o pedal com moderação. Ouça de volta e pergunte: as duas mãos soaram como um só músico ou como duas pessoas negociando um tratado? Se a linha puxa claramente para o acorde seguinte, o motor está funcionando.",
+          "es": "Termina tocando una toma limpia con uso moderado del pedal. Escucha y pregúntate: ¿las dos manos sonaron como un solo músico o como dos personas negociando un tratado? Si la línea empuja claramente hacia cada acorde siguiente, el motor está encendido.",
+          "de": "Beende die Übung mit einem sauberen Take und sparsamem Pedal. Höre danach zu und frage dich: Klangen beide Hände wie ein Musiker oder wie zwei Leute in Vertragsverhandlungen? Wenn die Linie klar in den nächsten Akkord zieht, läuft der Motor.",
+          "ja": "最後に、ペダルを控えめに使ってクリーンな1テイクを弾きます。聴き返して、「両手は1人の音楽家のように聞こえたか、それとも条約交渉中の2人だったか」を自問してください。各コードへ自然に引っ張られていれば、エンジン始動です。",
+          "zh-Hans": "最后来一遍干净的完整演奏，踏板要克制使用。回听时问自己：双手听起来像同一个音乐家，还是像两个人在谈判？如果线条能清楚地把你带进下一个和弦，这台引擎就启动了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-12T00:04:35Z",
+  "updatedAt": "2026-04-12T00:04:35Z"
+}

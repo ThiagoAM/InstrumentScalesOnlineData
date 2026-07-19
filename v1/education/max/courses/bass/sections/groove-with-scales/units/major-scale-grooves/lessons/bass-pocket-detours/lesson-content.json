@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-detours",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### The setup\n\nGrab the **G major scale** (G A B C D E F#) and set a metronome to **92 bpm**.\n\nYou will build 2-bar grooves where beat 1 stays trustworthy, but the path toward it gets playful.\n\nMain rule: if the groove stops feeling danceable, your detour was too wild.",
+          "pt-BR": "### A preparação\n\nPegue a **escala de sol maior** (G A B C D E F#) e ajuste o metrônomo para **92 bpm**.\n\nVocê vai construir grooves de 2 compassos em que o tempo 1 continua confiável, mas o caminho até ele fica mais divertido.\n\nRegra principal: se o groove parar de soar dançante, seu desvio foi longe demais.",
+          "es": "### La preparación\n\nToma la **escala de Sol mayor** (G A B C D E F#) y pon el metrónomo en **92 bpm**.\n\nVas a construir grooves de 2 compases donde el tiempo 1 sigue siendo confiable, pero el camino hacia él se vuelve más juguetón.\n\nRegla principal: si el groove deja de sentirse bailable, tu desvío fue demasiado salvaje.",
+          "de": "### Das Setup\n\nNimm die **G-Dur-Tonleiter** (G A B C D E F#) und stelle das Metronom auf **92 bpm**.\n\nDu baust 2-taktige Grooves, bei denen Zählzeit 1 verlässlich bleibt, aber der Weg dorthin spielerischer wird.\n\nHauptregel: Wenn der Groove nicht mehr tanzbar wirkt, war dein Umweg zu wild.",
+          "ja": "### セットアップ\n\n**Gメジャー・スケール**（G A B C D E F#）を用意し、メトロノームを **92 bpm** に合わせます。\n\n作るのは2小節のグルーヴ。1拍目は信頼できるままにしつつ、そこへ戻る道を少し遊ばせます。\n\n大事なルールはひとつ。踊れなくなったら、その寄り道はやりすぎです。",
+          "zh-Hans": "### 设置\n\n拿出 **G大调音阶**（G A B C D E F#），把节拍器设为 **92 bpm**。\n\n你要做的是 2 小节 groove：第1拍必须可靠，但回到它的路线可以更有玩心。\n\n核心规则：如果 groove 不再让人想点头，你的绕行就太过头了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Route A: Root, detour, return\n\nFor one bar at a time, start on **G**, leave the root, and come back before the next bar starts.\n\nUse only these note targets for the detour:\n- A or B for a lighter sound\n- D for a stronger push\n- F# if you want tension before the return\n\nPlay 6 reps and make every return to G feel deliberate.",
+          "pt-BR": "### Rota A: tônica, desvio, retorno\n\nUm compasso por vez, comece no **G**, saia da tônica e volte antes do próximo compasso começar.\n\nUse apenas estes alvos para o desvio:\n- A ou B para um som mais leve\n- D para uma empurrada mais forte\n- F# se quiser tensão antes do retorno\n\nFaça 6 repetições e deixe cada volta ao G soar intencional.",
+          "es": "### Ruta A: tónica, desvío y regreso\n\nCompás por compás, empieza en **G**, sal de la tónica y vuelve antes de que empiece el siguiente compás.\n\nUsa solo estos destinos para el desvío:\n- A o B para un sonido más ligero\n- D para un empuje más fuerte\n- F# si quieres tensión antes del regreso\n\nHaz 6 repeticiones y logra que cada regreso a G suene intencional.",
+          "de": "### Route A: Grundton, Umweg, Rückkehr\n\nBeginne jeweils pro Takt auf **G**, verlasse den Grundton und kehre zurück, bevor der nächste Takt anfängt.\n\nNutze für den Umweg nur diese Ziele:\n- A oder B für einen leichteren Klang\n- D für mehr Schub\n- F# für Spannung vor der Rückkehr\n\nSpiele 6 Wiederholungen und lass jede Rückkehr zu G absichtlich wirken.",
+          "ja": "### ルートA：ルート、寄り道、帰還\n\n1小節ずつ、**G** から始めてルートを離れ、次の小節が始まる前に戻ってきます。\n\n寄り道先はこの中だけにします。\n- A か B で軽い感じ\n- D で強い押し出し\n- F# で戻る前の緊張感\n\n6回繰り返し、Gへの戻りを毎回はっきり意図して感じましょう。",
+          "zh-Hans": "### 路线A：根音、绕行、回归\n\n每次先从 **G** 开始，暂时离开根音，再在下一小节开始前回到它。\n\n绕行时只用这些目标音：\n- A 或 B，感觉更轻\n- D，推动力更强\n- F#，在回归前制造一点张力\n\n做 6 次重复，并让每次回到 G 都听起来像是故意安排好的。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Route B: Add ghost-note traffic\n\nNow place **one or two ghost notes** between real pitches. They should feel like traffic signals, not random bumps.\n\nTry this idea:\n- beat 1 = solid note\n- somewhere before beat 3 = ghost note\n- somewhere before beat 4 = either a scale note or another ghost note\n\nIf the groove gets muddy, remove notes before you add more.",
+          "pt-BR": "### Rota B: adicione trânsito de ghost notes\n\nAgora coloque **uma ou duas ghost notes** entre as notas reais. Elas devem funcionar como sinais de trânsito, não como lombadas aleatórias.\n\nExperimente esta ideia:\n- tempo 1 = nota firme\n- em algum ponto antes do tempo 3 = ghost note\n- em algum ponto antes do tempo 4 = nota da escala ou outra ghost note\n\nSe o groove ficar embolado, tire notas antes de adicionar mais.",
+          "es": "### Ruta B: añade tráfico de ghost notes\n\nAhora coloca **una o dos ghost notes** entre las notas reales. Deben sentirse como señales de tráfico, no como baches al azar.\n\nPrueba esta idea:\n- tiempo 1 = nota sólida\n- en algún momento antes del tiempo 3 = ghost note\n- en algún momento antes del tiempo 4 = una nota de la escala u otra ghost note\n\nSi el groove se ensucia, quita notas antes de añadir más.",
+          "de": "### Route B: Ghost-Note-Verkehr einbauen\n\nSetze jetzt **eine oder zwei Ghost Notes** zwischen echte Töne. Sie sollen wie Verkehrssignale wirken, nicht wie zufällige Schlaglöcher.\n\nVersuche diese Idee:\n- Zählzeit 1 = klarer Ton\n- irgendwo vor Zählzeit 3 = Ghost Note\n- irgendwo vor Zählzeit 4 = entweder ein Skalenton oder noch eine Ghost Note\n\nWenn der Groove matschig wird, nimm zuerst Noten weg, bevor du neue hinzufügst.",
+          "ja": "### ルートB：ゴーストノートの交通整理\n\n次は実音の間に **1〜2個のゴーストノート** を入れます。ランダムなデコボコではなく、交通信号のように使います。\n\nこんな形を試します。\n- 1拍目 = はっきりした音\n- 3拍目の前どこか = ゴーストノート\n- 4拍目の前どこか = スケール音か、もう1つゴーストノート\n\nグルーヴが濁るなら、足す前にまず減らしましょう。",
+          "zh-Hans": "### 路线B：加入幽灵音交通\n\n现在在实音之间加入 **一到两个幽灵音**。它们应该像交通信号，而不是随便出现的颠簸。\n\n试试这个思路：\n- 第1拍 = 扎实的实音\n- 第3拍前某处 = 一个幽灵音\n- 第4拍前某处 = 一个音阶音，或再来一个幽灵音\n\n如果 groove 变浑，就先减音，再考虑加音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Route C: Detour without losing the pocket\n\nMake a 2-bar groove with these rules:\n1. Bar 1 must climb upward at least once.\n2. Bar 2 must descend back toward G.\n3. One beat in the groove must be left empty.\n\nYour body should still want to nod on beats 2 and 4. If not, simplify the rhythm before changing the notes.",
+          "pt-BR": "### Rota C: desviar sem perder o pocket\n\nMonte um groove de 2 compassos com estas regras:\n1. O compasso 1 precisa subir pelo menos uma vez.\n2. O compasso 2 precisa descer de volta para o G.\n3. Um dos tempos do groove deve ficar vazio.\n\nSeu corpo ainda deve querer balançar nos tempos 2 e 4. Se não acontecer, simplifique o ritmo antes de trocar as notas.",
+          "es": "### Ruta C: desviarse sin perder el pocket\n\nCrea un groove de 2 compases con estas reglas:\n1. El compás 1 debe subir al menos una vez.\n2. El compás 2 debe bajar de nuevo hacia G.\n3. Un pulso del groove debe quedar vacío.\n\nTu cuerpo todavía debería querer asentir en los tiempos 2 y 4. Si no, simplifica el ritmo antes de cambiar las notas.",
+          "de": "### Route C: Umweg ohne Pocket-Verlust\n\nBaue einen 2-taktigen Groove mit diesen Regeln:\n1. Takt 1 muss mindestens einmal aufsteigen.\n2. Takt 2 muss wieder in Richtung G absteigen.\n3. Eine Zählzeit des Grooves bleibt leer.\n\nDein Körper sollte auf 2 und 4 immer noch mitnicken wollen. Wenn nicht, vereinfache erst den Rhythmus, bevor du die Töne änderst.",
+          "ja": "### ルートC：ポケットを失わない寄り道\n\n次のルールで2小節グルーヴを作ります。\n1. 1小節目で最低1回は上行する\n2. 2小節目でGへ向かって下降する\n3. どこか1拍は空ける\n\n2拍目と4拍目で体がうなずきたくなる感覚が残っているか確認しましょう。消えたら、音を変える前にリズムを整理します。",
+          "zh-Hans": "### 路线C：绕行但不丢 pocket\n\n按下面规则写一个 2 小节 groove：\n1. 第1小节至少有一次上行。\n2. 第2小节必须往 G 方向下行回来。\n3. 整个 groove 里必须空掉一个拍点。\n\n你的身体在第2拍和第4拍仍然应该想点头。如果没有，先简化节奏，再动音高。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Challenge lap\n\nCreate **three versions** of the groove:\n- version 1 = mostly roots and fifths\n- version 2 = more passing tones\n- version 3 = the sparsest groove that still feels strong\n\nRecord or loop them. The winner is not the busiest groove — it is the one that makes you want to play it again.",
+          "pt-BR": "### Volta de desafio\n\nCrie **três versões** do groove:\n- versão 1 = mais tônicas e quintas\n- versão 2 = mais notas de passagem\n- versão 3 = o groove mais enxuto que ainda soe forte\n\nGrave ou use um loop. O vencedor não é o groove mais cheio — é o que faz você querer tocar de novo.",
+          "es": "### Vuelta de desafío\n\nCrea **tres versiones** del groove:\n- versión 1 = más tónicas y quintas\n- versión 2 = más notas de paso\n- versión 3 = el groove más escaso que siga sonando fuerte\n\nGrábalo o haz un loop. El ganador no es el groove más ocupado, sino el que te hace querer tocarlo otra vez.",
+          "de": "### Challenge-Runde\n\nErstelle **drei Versionen** des Grooves:\n- Version 1 = hauptsächlich Grundtöne und Quinten\n- Version 2 = mehr Durchgangstöne\n- Version 3 = der sparsamste Groove, der trotzdem stark wirkt\n\nNimm sie auf oder loope sie. Gewonnen hat nicht der vollste Groove, sondern der, den du sofort noch einmal spielen willst.",
+          "ja": "### チャレンジ周回\n\n同じグルーヴを **3バージョン** 作ります。\n- バージョン1 = ルートと5度多め\n- バージョン2 = 経過音多め\n- バージョン3 = いちばん少ない音数で、それでも強いもの\n\n録音するかループさせましょう。勝ちなのは音数が多いものではなく、もう一度弾きたくなるものです。",
+          "zh-Hans": "### 挑战圈\n\n把这个 groove 做成 **三个版本**：\n- 版本1 = 以根音和五度为主\n- 版本2 = 加更多经过音\n- 版本3 = 音最少，但依然有力量\n\n录下来或者循环播放。赢家不是最忙的版本，而是最让你想再弹一遍的那个。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "### Pocket report\n\nAsk yourself:\n- Which detour sounded coolest but still landed cleanly?\n- Did my ghost notes support the groove or clutter it?\n- Where did I overplay?\n\nFinal test: move the whole exercise to **A major** and keep the same calm confidence in your landing notes. 🎸",
+          "pt-BR": "### Relatório do pocket\n\nPergunte a si mesmo:\n- Qual desvio soou mais legal e ainda aterrissou limpo?\n- As ghost notes ajudaram o groove ou só atrapalharam?\n- Onde eu exagerei?\n\nTeste final: leve o exercício inteiro para **lá maior** e mantenha a mesma confiança tranquila nas notas de chegada. 🎸",
+          "es": "### Informe del pocket\n\nPregúntate:\n- ¿Qué desvío sonó mejor y aun así aterrizó limpio?\n- ¿Las ghost notes ayudaron al groove o lo llenaron demasiado?\n- ¿Dónde toqué de más?\n\nPrueba final: mueve todo el ejercicio a **La mayor** y conserva la misma confianza tranquila en tus notas de llegada. 🎸",
+          "de": "### Pocket-Bericht\n\nFrage dich:\n- Welcher Umweg klang am besten und landete trotzdem sauber?\n- Unterstützten die Ghost Notes den Groove oder machten sie ihn nur voller?\n- Wo habe ich zu viel gespielt?\n\nAbschlusstest: Verschiebe die ganze Übung nach **A-Dur** und behalte dieselbe ruhige Sicherheit in deinen Landetönen. 🎸",
+          "ja": "### ポケット報告\n\n自分に聞いてみましょう。\n- どの寄り道がいちばん良くて、しかもきれいに着地したか\n- ゴーストノートは支えになったか、それとも詰め込みすぎたか\n- どこで弾きすぎたか\n\n最後のテスト：そのまま全部 **Aメジャー** に移して、着地点の落ち着いた自信を保てるか試しましょう。🎸",
+          "zh-Hans": "### Pocket 报告\n\n问问自己：\n- 哪次绕行最酷，而且落点依然干净？\n- 幽灵音是在帮 groove，还是把它挤乱了？\n- 我在哪儿弹多了？\n\n最终测试：把整套练习移到 **A大调**，并保持同样冷静、稳当的落点自信。🎸"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-26T00:06:51Z",
+  "updatedAt": "2026-04-26T00:06:51Z"
+}

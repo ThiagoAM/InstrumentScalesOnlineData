@@ -1,0 +1,73 @@
+{
+  "id": "bass-pocket-puzzle-box",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you get a **puzzle box** instead of a plain groove drill. Work in **G major** at **84-96 BPM**. Your bass line should feel steady enough to support a band, but sneaky enough to keep the listener interested. Each puzzle you solve is really a lesson in groove control.",
+          "pt-BR": "Hoje você recebe uma **caixa de enigmas** em vez de um exercício comum de groove. Trabalhe em **Sol maior** entre **84-96 BPM**. Sua linha de baixo deve ser estável o bastante para sustentar uma banda, mas esperta o bastante para manter o ouvinte interessado. Cada enigma resolvido é, na verdade, uma aula de controle de groove.",
+          "es": "Hoy recibes una **caja de acertijos** en lugar de un ejercicio de groove común. Trabaja en **Sol mayor** a **84-96 BPM**. Tu línea de bajo debe sentirse estable para sostener a una banda, pero lo bastante astuta para mantener interesado al oyente. Cada acertijo que resuelves es en realidad una lección de control del groove.",
+          "de": "Heute bekommst du eine **Rätselbox** statt einer gewöhnlichen Groove-Übung. Arbeite in **G-Dur** bei **84-96 BPM**. Deine Basslinie soll stabil genug sein, um eine Band zu tragen, aber raffiniert genug, um den Hörer wach zu halten. Jedes gelöste Rätsel ist in Wahrheit eine Lektion über Groove-Kontrolle.",
+          "ja": "今日は普通のグルーヴ練習ではなく、**パズルボックス**です。**Gメジャー**、**84-96 BPM** で進めましょう。ベースラインはバンドを支えるだけの安定感を持ちながら、聴き手を退屈させないだけのひねりも必要です。解くパズルひとつひとつが、そのままグルーヴ・コントロールの勉強になります。",
+          "zh-Hans": "今天你拿到的不是普通 groove 练习，而是一个 **解谜盒**。请在 **G 大调**、**84-96 BPM** 下进行。你的贝斯线既要稳得住全队，也要狡猾得足以让听众继续点头。你解开的每一道小谜题，其实都是一次 groove 控制训练。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build the box with three pieces:\n- **root** on beat 1\n- **one ghost note** somewhere before beat 3\n- **one scale step** that leads back to G, B, or D\n\nPlay only quarter notes and eighth notes in the first round. The fewer tools you use, the more clearly you will hear whether the pocket is actually strong.",
+          "pt-BR": "Monte a caixa com três peças:\n- **tônica** no tempo 1\n- **uma ghost note** em algum ponto antes do tempo 3\n- **um passo da escala** que leve de volta para G, B ou D\n\nNa primeira rodada toque só semínimas e colcheias. Quanto menos ferramentas você usar, mais claramente vai ouvir se o pocket está mesmo forte.",
+          "es": "Construye la caja con tres piezas:\n- **tónica** en el tiempo 1\n- **una ghost note** en algún punto antes del tiempo 3\n- **un paso de escala** que regrese a G, B o D\n\nEn la primera ronda toca solo negras y corcheas. Cuantas menos herramientas uses, más claro oirás si el pocket es realmente sólido.",
+          "de": "Baue die Box aus drei Teilen:\n- **Grundton** auf Schlag 1\n- **eine Ghost Note** irgendwo vor Schlag 3\n- **ein Skalen-Schritt**, der zurück nach G, B oder D führt\n\nSpiele in der ersten Runde nur Viertel und Achtel. Je weniger Werkzeuge du nutzt, desto klarer hörst du, ob das Pocket wirklich trägt.",
+          "ja": "まずは3つの部品で箱を作ります。\n- **ルート** を1拍目に置く\n- **ゴーストノートを1つ** 3拍目より前に入れる\n- **G、B、D** に戻る **スケールの1歩** を入れる\n\n最初のラウンドでは4分音符と8分音符だけを使いましょう。道具が少ないほど、ポケットが本当に強いかどうかがはっきり聞こえます。",
+          "zh-Hans": "先用三块零件把盒子搭起来：\n- 第1拍放 **根音**\n- 在第3拍之前放 **一个幽灵音**\n- 加入 **一步音阶连接**，回到 **G、B 或 D**\n\n第一轮只用四分音符和八分音符。工具越少，你越能听清 pocket 到底稳不稳。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 1 is the **missing corner**. In every two-bar groove, remove one note you would normally play and replace it with silence. Do not let the groove collapse. If the line becomes weak, your timing needs more confidence. Silence is not empty — it is structural.",
+          "pt-BR": "O Enigma 1 é o **canto faltando**. Em cada groove de dois compassos, retire uma nota que você normalmente tocaria e troque por silêncio. Não deixe o groove desabar. Se a linha ficar fraca, seu tempo precisa de mais confiança. Silêncio não é vazio — é estrutura.",
+          "es": "El Acertijo 1 es la **esquina faltante**. En cada groove de dos compases, quita una nota que normalmente tocarías y sustitúyela por silencio. No dejes que el groove se derrumbe. Si la línea se debilita, tu pulso necesita más confianza. El silencio no está vacío: es estructura.",
+          "de": "Rätsel 1 ist die **fehlende Ecke**. Nimm in jedem zweitaktigen Groove einen Ton weg, den du normalerweise spielen würdest, und ersetze ihn durch Stille. Lass den Groove dabei nicht zusammenbrechen. Wenn die Linie schwach wird, braucht dein Timing mehr Selbstvertrauen. Stille ist nicht leer — sie ist Struktur.",
+          "ja": "パズル1は **欠けた角**。2小節のグルーヴごとに、いつもなら弾く音を1つ消して沈黙に置き換えます。それでもグルーヴを崩してはいけません。ラインが弱くなるなら、タイム感にもっと自信が必要です。沈黙は空白ではなく、構造です。",
+          "zh-Hans": "谜题1叫 **缺失的角**。每个两小节 groove 里，拿掉一个你平时会弹的音，用停顿代替。不要让 groove 散掉。如果线条立刻变弱，说明你的时间感还不够自信。停顿不是空白，它是结构。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Puzzle 2 is the **secret drawer**. Put your ghost note in a different place each repetition: before beat 2, before beat 3, then before beat 4. Keep the groove shape recognizable while the feel shifts underneath. This is how you learn that tiny rhythmic changes can make a bass line feel brand new.",
+          "pt-BR": "O Enigma 2 é a **gaveta secreta**. Coloque sua ghost note em um lugar diferente a cada repetição: antes do tempo 2, antes do tempo 3 e depois antes do tempo 4. Mantenha o desenho do groove reconhecível enquanto a sensação muda por baixo. É assim que você aprende que mudanças rítmicas minúsculas podem fazer uma linha parecer nova.",
+          "es": "El Acertijo 2 es el **cajón secreto**. Coloca la ghost note en un sitio distinto en cada repetición: antes del tiempo 2, antes del tiempo 3 y luego antes del tiempo 4. Mantén reconocible la forma del groove mientras la sensación cambia por debajo. Así aprendes que cambios rítmicos diminutos pueden hacer que una línea se sienta completamente nueva.",
+          "de": "Rätsel 2 ist die **geheime Schublade**. Setze deine Ghost Note in jeder Wiederholung an eine andere Stelle: vor Schlag 2, vor Schlag 3 und dann vor Schlag 4. Die Form des Grooves soll erkennbar bleiben, während sich das Gefühl darunter verschiebt. So lernst du, dass winzige rhythmische Änderungen eine Basslinie völlig neu wirken lassen können.",
+          "ja": "パズル2は **秘密の引き出し**。ゴーストノートの位置を繰り返すたびに変えましょう。2拍目の前、3拍目の前、そして4拍目の前です。下で感じるノリが変わっても、グルーヴの形は分かるように保ちます。ほんの少しのリズム変化で、ベースラインがまったく新しく感じられると学べます。",
+          "zh-Hans": "谜题2叫 **秘密抽屉**。每次重复都把幽灵音换个位置：放在第2拍前、第3拍前、再放到第4拍前。让 groove 的轮廓依然能被认出来，但底下的感觉悄悄改变。这样你会真正体会到：极小的节奏变化，也能让贝斯线焕然一新。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final test: create **one 4-bar line** where bar 1 is simple, bar 2 uses the missing-corner silence, bar 3 moves the ghost note, and bar 4 lands hard on a chord tone. Then ask:\n- Did the groove stay trustworthy?\n- Did the ghost notes add motion instead of clutter?\n- Did the landing feel heavier because of the space before it?\n\nGreat bass playing is often a puzzle box: simple on the outside, brilliantly designed on the inside.",
+          "pt-BR": "Teste final: crie **uma linha de 4 compassos** em que o compasso 1 seja simples, o 2 use o silêncio do canto faltando, o 3 mova a ghost note e o 4 pouse forte em uma nota do acorde. Depois pergunte:\n- O groove continuou confiável?\n- As ghost notes trouxeram movimento em vez de bagunça?\n- O pouso ficou mais pesado por causa do espaço antes dele?\n\nGrande baixo muitas vezes é uma caixa de enigmas: simples por fora, brilhantemente projetada por dentro.",
+          "es": "Prueba final: crea **una línea de 4 compases** donde el compás 1 sea simple, el 2 use el silencio de la esquina faltante, el 3 mueva la ghost note y el 4 aterrice con fuerza en una nota del acorde. Después pregúntate:\n- ¿El groove siguió siendo confiable?\n- ¿Las ghost notes añadieron movimiento en vez de desorden?\n- ¿El aterrizaje pesó más por el espacio anterior?\n\nUn gran bajo muchas veces es una caja de acertijos: simple por fuera, brillantemente diseñada por dentro.",
+          "de": "Abschlusstest: Erfinde **eine 4-taktige Linie**, in der Takt 1 einfach ist, Takt 2 die fehlende-Ecke-Stille nutzt, Takt 3 die Ghost Note verschiebt und Takt 4 stark auf einem Akkordton landet. Frag dich danach:\n- Blieb der Groove verlässlich?\n- Haben die Ghost Notes Bewegung statt Unordnung gebracht?\n- Fühlte sich die Landung wegen des Raums davor schwerer an?\n\nGroßartiges Bassspiel ist oft wie eine Rätselbox: außen schlicht, innen brillant konstruiert.",
+          "ja": "最後のテストです。**4小節のライン** を作り、1小節目はシンプル、2小節目は欠けた角の沈黙を使い、3小節目はゴーストノートを動かし、4小節目はコードトーンに強く着地します。そのあと次を確認しましょう。\n- グルーヴは信頼できるままだったか\n- ゴーストノートは散らかすのではなく動きを生んだか\n- 前の空間によって着地はより重く感じたか\n\n優れたベースは、しばしばパズルボックスのようなものです。外はシンプルでも、中は見事に設計されています。",
+          "zh-Hans": "最终测试：写出 **1条4小节线条**。第1小节简单，第2小节使用“缺失的角”停顿，第3小节移动幽灵音，第4小节强力落在和弦音上。然后问自己：\n- groove 还值得信赖吗？\n- 幽灵音带来的是运动感，而不是杂乱吗？\n- 因为前面的留白，最后的落点是不是更重了？\n\n伟大的贝斯演奏常常像一个解谜盒：外面简单，里面却设计得漂亮极了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-29T00:09:18Z",
+  "updatedAt": "2026-06-29T00:09:18Z"
+}

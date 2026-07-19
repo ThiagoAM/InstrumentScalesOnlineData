@@ -1,0 +1,73 @@
+{
+  "id": "guitar-scale-compass-jam",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Scale Compass Jam. You’ll map a scale across the neck and move like a compass to build fretboard control and quick thinking.",
+          "pt-BR": "Bem-vindo ao Jam da Bússola da Escala. Você vai mapear a escala pelo braço e se mover como uma bússola para ganhar controle e raciocínio rápido.",
+          "es": "Bienvenido al Jam de la Brújula de la Escala. Mapearás la escala por el mástil y te moverás como una brújula para ganar control y rapidez mental.",
+          "de": "Willkommen beim Skalen‑Kompass‑Jam. Du kartierst eine Skala über das Griffbrett und bewegst dich wie ein Kompass, um Kontrolle und schnelles Denken zu trainieren.",
+          "ja": "スケール・コンパス・ジャムへようこそ。指板全体にスケールをマップし、コンパスのように動いてコントロールと瞬発力を鍛えます。",
+          "zh-Hans": "欢迎来到音阶指南针即兴。你将把音阶铺在指板上，用指南针式移动来训练控制力与反应速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Setup: pick a scale (try G major). Find four anchor roots on the low E, A, D, and G strings. Say the scale degrees out loud as you play the pattern between anchors.",
+          "pt-BR": "Setup: escolha uma escala (experimente Sol maior). Encontre quatro tônicas âncora nas cordas Mi grave, Lá, Ré e Sol. Diga os graus da escala em voz alta enquanto toca o padrão entre as âncoras.",
+          "es": "Preparación: elige una escala (prueba Sol mayor). Encuentra cuatro tónicas ancla en las cuerdas Mi grave, La, Re y Sol. Di los grados de la escala en voz alta mientras tocas el patrón entre anclas.",
+          "de": "Setup: Wähle eine Skala (z. B. G‑Dur). Finde vier Anker‑Grundtöne auf den Saiten E tief, A, D und G. Sprich die Skalenstufen laut, während du das Muster zwischen den Ankern spielst.",
+          "ja": "準備：スケールを選びます（Gメジャー推奨）。低音E、A、D、G弦で4つのルートを見つけましょう。アンカー間のパターンを弾きながら度数を声に出します。",
+          "zh-Hans": "准备：选择一条音阶（试试G大调）。在低音E、A、D、G弦上找到四个根音锚点。演奏锚点之间的型时，大声说出音级。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Compass moves: North = up one string, same fret. South = down one string, same fret. East = up two frets. West = down two frets. If a move lands off the scale, slide to the nearest scale tone.",
+          "pt-BR": "Movimentos da bússola: Norte = subir uma corda, mesma casa. Sul = descer uma corda, mesma casa. Leste = subir duas casas. Oeste = descer duas casas. Se cair fora da escala, deslize para o tom de escala mais próximo.",
+          "es": "Movimientos de brújula: Norte = subir una cuerda, mismo traste. Sur = bajar una cuerda, mismo traste. Este = subir dos trastes. Oeste = bajar dos trastes. Si caes fuera de la escala, desliza al tono de escala más cercano.",
+          "de": "Kompass‑Moves: Nord = eine Saite hoch, gleicher Bund. Süd = eine Saite runter, gleicher Bund. Ost = zwei Bünde hoch. West = zwei Bünde runter. Landest du außerhalb der Skala, rutsche zum nächstliegenden Skalenton.",
+          "ja": "コンパス移動：北＝1弦上、同じフレット。南＝1弦下、同じフレット。東＝2フレット上。西＝2フレット下。スケール外に出たら、最も近いスケール音へスライド。",
+          "zh-Hans": "指南针移动：北＝上移一根弦，保持同一品格。南＝下移一根弦，保持同一品格。东＝上移两品。西＝下移两品。如果落在音阶外，滑到最近的音阶音。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Game time: set a metronome at 70 BPM. On each click, call a direction (N/E/S/W) and move to the next scale tone using that move. After 8 clicks, resolve to the nearest root.",
+          "pt-BR": "Hora do jogo: coloque o metrônomo em 70 BPM. A cada clique, chame uma direção (N/E/S/O) e vá para o próximo tom da escala usando esse movimento. Após 8 cliques, resolva para a tônica mais próxima.",
+          "es": "Hora del juego: pon el metrónomo a 70 BPM. En cada clic, di una dirección (N/E/S/O) y ve al siguiente tono de la escala usando ese movimiento. Después de 8 clics, resuelve a la tónica más cercana.",
+          "de": "Spielzeit: Stell das Metronom auf 70 BPM. Bei jedem Klick nennst du eine Richtung (N/O/S/W) und gehst mit diesem Move zum nächsten Skalenton. Nach 8 Klicks löst du zum nächsten Grundton auf.",
+          "ja": "ゲーム開始：メトロノームを70 BPMに。各クリックで方向（N/E/S/W）を呼び、その動きで次のスケール音へ。8クリック後、最寄りのルートへ解決。",
+          "zh-Hans": "游戏时间：节拍器设为70 BPM。每个点击喊一个方向（N/E/S/W），按该移动去下一个音阶音。8个点击后，回到最近的根音收束。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge: bump the tempo, add accents on beats 2 and 4, then improvise a two‑bar riff using your last four compass moves.",
+          "pt-BR": "Desafio: aumente o tempo, acentue os tempos 2 e 4 e improvise um riff de dois compassos usando seus últimos quatro movimentos da bússola.",
+          "es": "Desafío: sube el tempo, acentúa los tiempos 2 y 4 e improvisa un riff de dos compases usando tus últimos cuatro movimientos de brújula.",
+          "de": "Challenge: Erhöhe das Tempo, setze Akzente auf 2 und 4 und improvisiere ein Zweitakt‑Riff mit deinen letzten vier Kompass‑Moves.",
+          "ja": "チャレンジ：テンポを上げ、2拍目と4拍目にアクセント。最後の4つのコンパス移動を使って2小節のリフを即興で作ろう。",
+          "zh-Hans": "挑战：提高速度，在第2和第4拍加重音，然后用最近四次指南针移动即兴一个两小节riff。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-02T00:03:13Z",
+  "updatedAt": "2026-04-02T00:03:13Z"
+}

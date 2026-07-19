@@ -1,0 +1,99 @@
+{
+  "id": "g-major-lane-switch",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine the keyboard is a tiny race track. Your goal is to drive through G major smoothly, especially at the moments where the thumb has to sneak under without a bump.",
+          "pt-BR": "Imagine que o teclado é uma pequena pista de corrida. Seu objetivo é atravessar Sol maior com suavidade, especialmente nos momentos em que o polegar passa por baixo sem solavancos.",
+          "es": "Imagina que el teclado es una pequeña pista de carreras. Tu objetivo es recorrer Sol mayor con suavidad, especialmente en los momentos en que el pulgar debe pasar por debajo sin golpear.",
+          "de": "Stell dir die Tastatur wie eine kleine Rennstrecke vor. Dein Ziel ist es, flüssig durch G-Dur zu fahren, besonders an den Stellen, an denen der Daumen unauffällig untersetzt.",
+          "ja": "鍵盤を小さなレーストラックだと思ってみよう。目標は、特に親指が下をくぐる瞬間をぶつけずに、Gメジャーをなめらかに走ることだ。",
+          "zh-Hans": "把键盘想成一条小型赛道。你的目标是在G大调里平稳前进，尤其是在拇指需要悄悄穿过去的时候，不能撞一下。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm-up: play G–A–B–C with the right hand, then stop and reset. Do the same with the left hand descending from G–F#–E–D so each hand feels where the lane change happens.",
+          "pt-BR": "Aquecimento: toque Sol–Lá–Si–Dó com a mão direita e depois pare para reiniciar. Faça o mesmo com a mão esquerda descendo Sol–Fá#–Mi–Ré para cada mão sentir onde a troca de faixa acontece.",
+          "es": "Calentamiento: toca Sol–La–Si–Do con la mano derecha y luego reinicia. Haz lo mismo con la mano izquierda descendiendo Sol–Fa#–Mi–Re para que cada mano sienta dónde sucede el cambio de carril.",
+          "de": "Aufwärmen: Spiele G–A–H–C mit der rechten Hand und setze neu an. Mache dasselbe mit der linken Hand abwärts von G–F#–E–D, damit jede Hand spürt, wo der Spurwechsel passiert.",
+          "ja": "ウォームアップ：右手でG–A–B–Cを弾いて止まり、リセットする。次に左手でG–F#–E–Dと下行し、それぞれの手でレーンチェンジの場所を感じよう。",
+          "zh-Hans": "热身：右手弹G–A–B–C，然后停下重来。左手则下行弹G–F#–E–D，让每只手都感受到换道发生的位置。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Main drill: play one octave of G major hands separate at 68 bpm. Keep the wrist quiet and let the thumb move early, not at the last possible second.",
+          "pt-BR": "Exercício principal: toque uma oitava de Sol maior com mãos separadas a 68 bpm. Mantenha o pulso quieto e deixe o polegar se mover cedo, não no último segundo.",
+          "es": "Ejercicio principal: toca una octava de Sol mayor con manos separadas a 68 bpm. Mantén la muñeca quieta y deja que el pulgar se mueva pronto, no en el último segundo.",
+          "de": "Hauptübung: Spiele eine Oktave G-Dur mit getrennten Händen bei 68 bpm. Halte das Handgelenk ruhig und bewege den Daumen früh, nicht erst in letzter Sekunde.",
+          "ja": "メイン練習：68 bpmでGメジャー1オクターブを片手ずつ弾く。手首は静かに保ち、親指は最後の瞬間ではなく早めに動かす。",
+          "zh-Hans": "主练习：用68 bpm把G大调一组八度分手练习。保持手腕安静，让拇指提前移动，不要拖到最后一秒。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Lane-switch test: right hand only, loop B–C–D–C four times; left hand only, loop E–D–C–B four times. The thumb-under or finger-crossing should feel invisible to the listener.",
+          "pt-BR": "Teste de troca de faixa: só mão direita, repita Si–Dó–Ré–Dó quatro vezes; só mão esquerda, repita Mi–Ré–Dó–Si quatro vezes. O polegar por baixo ou cruzamento de dedos deve ficar invisível para quem ouve.",
+          "es": "Prueba de cambio de carril: solo mano derecha, repite Si–Do–Re–Do cuatro veces; solo mano izquierda, repite Mi–Re–Do–Si cuatro veces. El pulgar por debajo o cruce de dedos debe ser invisible para quien escucha.",
+          "de": "Spurwechsel-Test: Nur rechte Hand, wiederhole H–C–D–C viermal; nur linke Hand, wiederhole E–D–C–H viermal. Der Daumenuntersatz oder Fingerwechsel soll für den Hörer unsichtbar wirken.",
+          "ja": "レーンチェンジ試験：右手だけでB–C–D–Cを4回、左手だけでE–D–C–Bを4回繰り返す。親指くぐりや指くぐしが聴き手に見えないくらい滑らかに。",
+          "zh-Hans": "换道测试：只用右手循环B–C–D–C四次；只用左手循环E–D–C–B四次。拇指穿越或手指跨越要平滑到听众几乎感觉不到。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Dynamic game: ascend at mezzo-piano and descend at mezzo-forte. This forces you to control tone while the fingering stays organized.",
+          "pt-BR": "Jogo de dinâmica: suba em mezzo-piano e desça em mezzo-forte. Isso força você a controlar o timbre enquanto o dedilhado continua organizado.",
+          "es": "Juego de dinámica: asciende en mezzo-piano y desciende en mezzo-forte. Esto te obliga a controlar el tono mientras la digitación sigue organizada.",
+          "de": "Dynamik-Spiel: Aufwärts in mezzo-piano, abwärts in mezzo-forte. So kontrollierst du den Ton, während der Fingersatz ordentlich bleibt.",
+          "ja": "ダイナミクスゲーム：上行はメゾピアノ、下行はメゾフォルテで弾く。指使いを保ったまま音色をコントロールする練習になる。",
+          "zh-Hans": "力度游戏：上行用mezzo-piano，下行用mezzo-forte。这样能迫使你在保持指法整齐的同时控制音色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Two-hand challenge: play hands together for one octave, but hold the first G of each hand for one extra beat before continuing. Listen for balance instead of speed.",
+          "pt-BR": "Desafio com duas mãos: toque uma oitava com as mãos juntas, mas segure o primeiro Sol de cada mão por um tempo extra antes de continuar. Escute o equilíbrio em vez da velocidade.",
+          "es": "Reto a dos manos: toca una octava con manos juntas, pero sostén el primer Sol de cada mano un pulso extra antes de seguir. Escucha el equilibrio en lugar de la velocidad.",
+          "de": "Zwei-Hand-Challenge: Spiele eine Oktave mit beiden Händen zusammen, halte aber das erste G jeder Hand einen Schlag länger, bevor du weitergehst. Höre auf Balance statt auf Tempo.",
+          "ja": "両手チャレンジ：両手で1オクターブ弾くが、それぞれ最初のGを1拍長く保ってから続けよう。速さよりバランスを聴くこと。",
+          "zh-Hans": "双手挑战：双手一起弹一组八度，但每只手的第一个G都多保持一拍再继续。关注平衡，而不是速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish line: if the scale sounds smooth enough to sing along with, raise the metronome by 4 bpm. If any crossing clunks, drop the tempo and polish that one corner before racing again.",
+          "pt-BR": "Linha de chegada: se a escala soar suave o bastante para cantar junto, aumente o metrônomo em 4 bpm. Se alguma troca bater duro, reduza o tempo e refine esse canto antes de correr de novo.",
+          "es": "Línea de meta: si la escala suena lo bastante suave como para cantarla, sube el metrónomo 4 bpm. Si algún cruce golpea, baja el tempo y pule esa esquina antes de correr otra vez.",
+          "de": "Ziellinie: Wenn die Tonleiter glatt genug klingt, dass du mitsingen könntest, erhöhe das Metronom um 4 bpm. Wenn ein Übergang klappert, senke das Tempo und poliere genau diese Ecke.",
+          "ja": "ゴール：スケールが一緒に歌えるほど滑らかに聞こえたら、メトロノームを4 bpm上げる。どこかがゴツッとしたら、テンポを下げてその角だけ磨こう。",
+          "zh-Hans": "终点线：如果音阶已经顺滑到可以边唱边弹，就把节拍器提高4 bpm。若某次跨指发出碰撞感，就降速并把那个角落磨细。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-02T00:06:58Z",
+  "updatedAt": "2026-07-02T00:06:58Z"
+}

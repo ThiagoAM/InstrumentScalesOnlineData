@@ -1,0 +1,86 @@
+{
+  "id": "piano-practice-weather-report",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today you are the weather reporter for your own piano practice. Pick one key and give it a forecast before you play: sunny means easy and clear, cloudy means uncertain fingering, windy means rhythm wants to rush, and stormy means one hand keeps losing balance. The goal is not to judge yourself. The goal is to spot the weather early so the session stops surprising you.",
+          "pt-BR": "Hoje você é a meteorologista do seu próprio estudo de piano. Escolha uma tonalidade e dê uma previsão antes de tocar: ensolarado significa fácil e claro, nublado significa dedilhado incerto, ventando significa que o ritmo quer correr, e tempestade significa que uma mão continua perdendo o equilíbrio. O objetivo não é se julgar. O objetivo é perceber o clima cedo para a sessão parar de surpreender você.",
+          "es": "Hoy eres la meteoróloga de tu propia práctica de piano. Elige una tonalidad y dale un pronóstico antes de tocar: soleado significa fácil y claro, nublado significa digitación insegura, ventoso significa que el ritmo quiere correr y tormentoso significa que una mano sigue perdiendo el equilibrio. El objetivo no es juzgarte. El objetivo es detectar el clima pronto para que la sesión deje de sorprenderte.",
+          "de": "Heute bist du die Wettermoderatorin deiner eigenen Klavierpraxis. Wähle eine Tonart und gib ihr vor dem Spielen eine Vorhersage: sonnig bedeutet leicht und klar, wolkig bedeutet unsicheren Fingersatz, windig bedeutet, dass der Rhythmus davoneilen will, und stürmisch bedeutet, dass eine Hand das Gleichgewicht verliert. Das Ziel ist nicht Selbstkritik. Das Ziel ist, das Wetter früh zu erkennen, damit dich die Sitzung nicht überrascht.",
+          "ja": "今日は自分のピアノ練習の気象予報士になってください。まず1つの調を選び、弾く前に天気予報を出します。晴れは簡単で明快、曇りは指使いが不安、風が強いはリズムが走りがち、嵐は片手のバランスが崩れる状態です。目的は自分を責めることではありません。早めに天気を見抜いて、練習に振り回されないようにすることです。",
+          "zh-Hans": "今天你要当自己钢琴练习的天气播报员。先选一个调，再在开始前给它做个预报：晴天代表轻松清晰，阴天代表指法不稳定，起风代表节奏容易往前冲，暴风代表某一只手总在失去平衡。目标不是批评自己，而是尽早看见“天气”，别让练习一直把你打个措手不及。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a two-minute scan. Play the scale hands separately, then together, at a comfortable tempo. After each pass, label the weather in one short sentence: \"left hand is windy,\" \"thumb crossing is stormy,\" or \"rhythm is sunny.\" This creates a practice map that is specific enough to fix.",
+          "pt-BR": "Comece com uma varredura de dois minutos. Toque a escala com as mãos separadas e depois juntas em um andamento confortável. Depois de cada passada, descreva o clima em uma frase curta: \"mão esquerda ventando\", \"passagem do polegar em tempestade\" ou \"ritmo ensolarado\". Isso cria um mapa de estudo específico o bastante para ser corrigido.",
+          "es": "Empieza con un escaneo de dos minutos. Toca la escala con manos separadas y luego juntas a un tempo cómodo. Después de cada pasada, etiqueta el clima con una frase corta: \"mano izquierda ventosa\", \"cruce del pulgar tormentoso\" o \"ritmo soleado\". Esto crea un mapa de práctica lo bastante específico como para corregirlo.",
+          "de": "Beginne mit einem Zwei-Minuten-Scan. Spiele die Skala erst mit getrennten Händen und dann zusammen in einem bequemen Tempo. Nach jedem Durchgang benennst du das Wetter in einem kurzen Satz: „linke Hand ist windig“, „Daumenuntersatz ist stürmisch“ oder „Rhythmus ist sonnig“. So entsteht eine Übekarte, die konkret genug zum Reparieren ist.",
+          "ja": "2分間のスキャンから始めます。スケールを片手ずつ、そのあと両手で、無理のないテンポで弾きます。各パスのあとに、「左手が風強め」「親指くぐりが嵐」「リズムは晴れ」のように短く天気を言語化してください。これで修理しやすい具体的な練習地図ができます。",
+          "zh-Hans": "先做两分钟扫描。把音阶先分手弹，再双手合起来，用舒服的速度。每弹完一遍，就用一句短话标记天气，比如“左手有风”“拇指穿指是暴风”或者“节奏很晴朗”。这样你就得到了一张足够具体、可以真正修理的练习地图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now make a three-part forecast plan. Part 1 is a sunny reset: play the scale legato with perfect posture and even tone. Part 2 is a cloudy investigation: isolate the messy beat or fingering and loop only that spot for five reps. Part 3 is a storm drill: exaggerate the problem on purpose, then solve it with a slower tempo and lighter touch.",
+          "pt-BR": "Agora monte um plano de previsão em três partes. A parte 1 é o reset ensolarado: toque a escala em legato com postura perfeita e som uniforme. A parte 2 é a investigação nublada: isole o tempo ou dedilhado bagunçado e repita só aquele ponto por cinco voltas. A parte 3 é o treino de tempestade: exagere o problema de propósito e depois resolva com andamento mais lento e toque mais leve.",
+          "es": "Ahora crea un plan de pronóstico en tres partes. La parte 1 es el reinicio soleado: toca la escala legato con postura perfecta y sonido parejo. La parte 2 es la investigación nublada: aísla el pulso o la digitación desordenada y repite solo ese punto cinco veces. La parte 3 es el simulacro de tormenta: exagera el problema a propósito y luego resuélvelo con un tempo más lento y un toque más ligero.",
+          "de": "Erstelle jetzt einen dreiteiligen Vorhersageplan. Teil 1 ist der sonnige Neustart: Spiele die Skala legato mit perfekter Haltung und gleichmäßigem Ton. Teil 2 ist die wolkige Untersuchung: Isoliere den unordentlichen Schlag oder Fingersatz und wiederhole nur diese Stelle fünfmal. Teil 3 ist die Sturmübung: Übertreibe das Problem absichtlich und löse es dann mit langsamerem Tempo und leichterem Anschlag.",
+          "ja": "次に3部構成の予報プランを作ります。第1部は晴れのリセットで、姿勢と音の均一さを整えながらレガートで弾きます。第2部は曇りの調査で、乱れる拍や指使いだけを切り出して5回ループします。第3部は嵐ドリルで、問題をわざと誇張してから、テンポを落とし、タッチを軽くして解決します。",
+          "zh-Hans": "现在做一个三段式预报计划。第一段是“晴天重置”：用连奏、稳定姿势和均匀音色弹音阶。第二段是“阴天调查”：把混乱的拍点或指法单独拎出来，只循环那个点五次。第三段是“暴风演习”：故意把问题夸张出来，再用更慢的速度和更轻的触键把它解决。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add a musician's radar check. On the next pass, the left hand listens for tone balance while the right hand watches rhythm. Then switch jobs. This is harder than it sounds, and that is the point. Real control appears when both hands can work and listen at the same time.",
+          "pt-BR": "Adicione uma checagem de radar musical. Na próxima passada, a mão esquerda escuta o equilíbrio do som enquanto a direita vigia o ritmo. Depois troque as funções. Isso é mais difícil do que parece, e esse é o ponto. O controle real aparece quando as duas mãos conseguem tocar e ouvir ao mesmo tempo.",
+          "es": "Añade una revisión de radar musical. En la siguiente pasada, la mano izquierda escucha el equilibrio del sonido mientras la derecha vigila el ritmo. Luego cambia los papeles. Es más difícil de lo que parece, y esa es la idea. El control real aparece cuando ambas manos pueden tocar y escuchar al mismo tiempo.",
+          "de": "Füge einen Radar-Check für Musiker hinzu. Im nächsten Durchgang hört die linke Hand auf die Klangbalance, während die rechte den Rhythmus überwacht. Danach tauscht ihr die Aufgaben. Das ist schwerer, als es klingt, und genau darum geht es. Echte Kontrolle entsteht, wenn beide Hände gleichzeitig arbeiten und zuhören können.",
+          "ja": "音楽家のレーダーチェックも加えましょう。次のパスでは、左手が音量バランスを聴き、右手がリズムを監視します。そのあと役割を交換します。思ったより難しいはずですが、それが狙いです。本当のコントロールは、両手が同時に弾きながら聴けるときに現れます。",
+          "zh-Hans": "接着加入一个音乐家雷达检查。下一遍里，左手负责监听音量平衡，右手负责盯节奏；然后交换工作。这比听起来难，而难点正是价值所在。真正的控制力，是双手既能工作又能同时聆听的时候才会出现。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Forecast one creative burst. Use the same scale notes to improvise a tiny four-beat answer after every scale ascent. Keep the answer simple, but change either rhythm, direction, or dynamics each time. The session should not end as a weather complaint; it should turn into music.",
+          "pt-BR": "Preveja um surto criativo. Use as mesmas notas da escala para improvisar uma pequena resposta de quatro tempos depois de cada subida da escala. Mantenha a resposta simples, mas mude o ritmo, a direção ou a dinâmica a cada vez. A sessão não deve terminar como reclamação do clima; ela deve virar música.",
+          "es": "Pronostica un estallido creativo. Usa las mismas notas de la escala para improvisar una pequeña respuesta de cuatro pulsos después de cada ascenso de la escala. Mantén la respuesta simple, pero cambia el ritmo, la dirección o la dinámica cada vez. La sesión no debe terminar como una queja meteorológica; debe convertirse en música.",
+          "de": "Sage einen kreativen Aufbruch voraus. Nutze dieselben Skalentöne, um nach jedem Aufstieg der Skala eine kleine vierschlägige Antwort zu improvisieren. Halte die Antwort einfach, aber ändere jedes Mal Rhythmus, Richtung oder Dynamik. Die Sitzung soll nicht als Wetterbeschwerde enden; sie soll Musik werden.",
+          "ja": "創造的なひと吹きを予報します。同じスケール音を使って、上行スケールのたびに4拍の短い返答を即興してください。返答はシンプルで構いませんが、毎回リズム、進行方向、またはダイナミクスのどれかを変えます。練習は天気への文句で終わるのではなく、音楽に変わるべきです。",
+          "zh-Hans": "再预报一次创意爆发。继续使用同一组音阶音，在每次上行音阶结束后，即兴接一个四拍的小回答。回答可以很简单，但每次都要改变节奏、方向或力度中的一个。练习不能只停在“天气抱怨”上，它得转化成音乐。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with the evening news. Play one final full pass and compare it to your opening forecast. Did the storm shrink to clouds? Did the windy rhythm calm down? Write a one-line report with tomorrow's advice, such as \"start slower, fix left thumb early, then reward myself with one creative answer.\" That is how a scale routine becomes self-coaching.",
+          "pt-BR": "Termine com o jornal da noite. Toque uma última passada completa e compare com a sua previsão inicial. A tempestade virou nuvens? O ritmo ventando acalmou? Escreva um relatório de uma linha com o conselho para amanhã, como \"começar mais devagar, acertar cedo o polegar esquerdo e depois me recompensar com uma resposta criativa\". É assim que uma rotina de escalas vira autoorientação.",
+          "es": "Termina con el noticiero de la noche. Toca una última pasada completa y compárala con tu pronóstico inicial. ¿La tormenta se convirtió en nubes? ¿El ritmo ventoso se calmó? Escribe un informe de una sola línea con el consejo para mañana, como \"empieza más lento, corrige pronto el pulgar izquierdo y luego date un premio con una respuesta creativa\". Así una rutina de escalas se convierte en autoentrenamiento.",
+          "de": "Beende die Lektion mit den Abendnachrichten. Spiele einen letzten vollständigen Durchgang und vergleiche ihn mit deiner Anfangsprognose. Wurde aus dem Sturm nur noch Bewölkung? Hat sich der windige Rhythmus beruhigt? Schreib einen Ein-Satz-Bericht mit einem Rat für morgen, zum Beispiel: „langsamer starten, den linken Daumen früh reparieren und mich dann mit einer kreativen Antwort belohnen“. So wird aus einer Skalenroutine echtes Selbstcoaching.",
+          "ja": "最後は夜のニュースです。スケールをもう一度通して弾き、最初の予報と比べましょう。嵐は曇りまで弱まりましたか。風の強かったリズムは落ち着きましたか。たとえば「明日はもっと遅く始め、左手の親指を先に直し、そのあと創造的な返答でご褒美を出す」のように、明日の助言を一行で書いてください。そうやってスケール練習はセルフコーチングになります。",
+          "zh-Hans": "最后播报晚间新闻。完整再弹最后一遍，并把它和开头的预报对比。暴风有没有缩成阴天？起风的节奏有没有平静下来？写下一句给明天的建议，比如“先更慢开始，尽早修左手拇指，然后用一个创意回答奖励自己”。这样，音阶 routine 才会慢慢变成真正的自我教练。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-05-04T00:11:09Z",
+  "updatedAt": "2026-05-04T00:11:09Z"
+}

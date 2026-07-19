@@ -82,5 +82,453 @@
     "order": 3,
     "createdAt": "2025-12-01T00:00:00Z",
     "updatedAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "id": "piano-progressive-scale-fill-ins",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Progressive Scale Fill‑Ins",
+        "pt-BR": "Preenchimentos de Escala Progressivos",
+        "es": "Rellenos de Escala Progresivos",
+        "de": "Progressive Skalen‑Fill‑Ins",
+        "ja": "プログレッシブ・スケール・フィル",
+        "zh-Hans": "递进式音阶填充"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Weave short scale fill‑ins between chord changes with control and tone.",
+        "pt-BR": "Trance preenchimentos curtos entre trocas de acordes com controle e timbre.",
+        "es": "Teje rellenos cortos entre cambios de acordes con control y buen sonido.",
+        "de": "Flechte kurze Skalen‑Fill‑Ins zwischen Akkordwechseln mit Kontrolle und Klang.",
+        "ja": "コードチェンジの間に短いスケールフィルを織り込み、コントロールと音色を磨こう。",
+        "zh-Hans": "在和弦转换之间编织短音阶填充，练出控制力与音色。"
+      }
+    },
+    "order": 4,
+    "createdAt": "2026-04-05T00:08:16Z",
+    "updatedAt": "2026-04-05T00:08:16Z"
+  },
+  {
+    "id": "chord-change-treasure-hunt",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord-Change Treasure Hunt",
+        "pt-BR": "Caça ao Tesouro nas Mudanças de Acorde",
+        "es": "Búsqueda del Tesoro en los Cambios de Acorde",
+        "de": "Schatzsuche bei Akkordwechseln",
+        "ja": "コードチェンジ宝探し",
+        "zh-Hans": "和弦转换寻宝记"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a piano treasure hunt by landing the right note at each chord change.",
+        "pt-BR": "Transforme o estudo de escalas em uma caça ao tesouro no piano acertando a nota certa em cada mudança de acorde.",
+        "es": "Convierte la práctica de escalas en una búsqueda del tesoro al piano acertando la nota correcta en cada cambio de acorde.",
+        "de": "Verwandle Skalenpraxis am Klavier in eine Schatzsuche, indem du bei jedem Akkordwechsel den richtigen Zielton triffst.",
+        "ja": "和音が変わる瞬間に正しい音へ着地し、スケール練習をピアノの宝探しに変えよう。",
+        "zh-Hans": "在每次和弦变化时准确落到正确音上，把钢琴音阶练习变成一场寻宝游戏。"
+      }
+    },
+    "order": 5,
+    "createdAt": "2026-04-16T00:09:07Z",
+    "updatedAt": "2026-04-16T00:09:07Z"
+  },
+  {
+    "id": "piano-chord-lantern-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Chord Lantern Run",
+        "pt-BR": "Corrida da Lanterna Harmônica",
+        "es": "Carrera de la Linterna Armónica",
+        "de": "Harmonischer Laternenlauf",
+        "ja": "コード・ランタン・ラン",
+        "zh-Hans": "和弦灯笼冲刺"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Light up each chord change with scale notes that guide your piano lines through the dark.",
+        "pt-BR": "Ilumine cada mudança de acorde com notas da escala que guiam sua linha de piano no escuro.",
+        "es": "Ilumina cada cambio de acorde con notas de la escala que guíen tu línea de piano en la oscuridad.",
+        "de": "Beleuchte jeden Akkordwechsel mit Skalentönen, die deine Klavierlinie sicher durch das Dunkel führen.",
+        "ja": "音階の音で各コードチェンジを照らし、ピアノのラインを暗闇の中でも見失わないようにしよう。",
+        "zh-Hans": "用音阶音点亮每一次和弦变化，让你的钢琴旋律在黑暗中也不会迷路。"
+      }
+    },
+    "order": 6,
+    "createdAt": "2026-05-03T00:12:30Z",
+    "updatedAt": "2026-05-03T00:12:30Z"
+  },
+  {
+    "id": "piano-cadence-catapult",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Cadence Catapult",
+        "pt-BR": "Catapulta da Cadência",
+        "es": "Catapulta de Cadencia",
+        "de": "Kadenz-Katapult",
+        "ja": "カデンツ・カタパルト",
+        "zh-Hans": "终止式弹射器"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Launch scale ideas through cadences so your right hand lands with confidence and sparkle.",
+        "pt-BR": "Lance ideias de escala pelas cadências para a mão direita cair com confiança e brilho.",
+        "es": "Lanza ideas de escala a través de las cadencias para que la mano derecha aterrice con confianza y brillo.",
+        "de": "Schieße Skalenideen durch Kadenzen, damit deine rechte Hand mit Selbstvertrauen und Glanz landet.",
+        "ja": "カデンツに向かって音階のアイデアを打ち出し、右手を自信と輝きで着地させましょう。",
+        "zh-Hans": "把音阶想法弹射进终止式，让右手自信又闪亮地落地。"
+      }
+    },
+    "order": 7,
+    "createdAt": "2026-06-06T00:06:39Z",
+    "updatedAt": "2026-06-06T00:06:39Z"
+  },
+  {
+    "id": "two-hand-guide-tone-detours",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Two-Hand Guide-Tone Detours",
+        "pt-BR": "Desvios de guide tones com as duas mãos",
+        "es": "Desvíos de tonos guía con dos manos",
+        "de": "Guide-Tone-Umwege mit beiden Händen",
+        "ja": "両手で作るガイドトーンの寄り道",
+        "zh-Hans": "双手导向音绕行"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train both hands to outline harmony while scales add color, not clutter.",
+        "pt-BR": "Treine as duas mãos para desenhar a harmonia enquanto a escala adiciona cor sem bagunça.",
+        "es": "Entrena ambas manos para dibujar la armonía mientras la escala aporta color y no desorden.",
+        "de": "Trainiere beide Hände, damit sie Harmonie zeichnen und Skalen Farbe statt Chaos liefern.",
+        "ja": "両手でハーモニーを描き、スケールの色を散らかさずに加える練習です。",
+        "zh-Hans": "训练双手勾勒和声，让音阶负责增色而不是添乱。"
+      }
+    },
+    "order": 8,
+    "createdAt": "2026-06-07T00:09:15Z",
+    "updatedAt": "2026-06-07T00:09:15Z"
+  },
+  {
+    "id": "piano-progression-portal",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Progression Portal",
+        "pt-BR": "Portal de Progressões no Piano",
+        "es": "Portal de Progresiones para Piano",
+        "de": "Progressionsportal fürs Klavier",
+        "ja": "ピアノ進行ポータル",
+        "zh-Hans": "钢琴和声进行传送门"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Travel through a ii-V-I with scale choices, rhythmic control, and enough musical intent to make practice feel like performance.",
+        "pt-BR": "Atravesse um ii-V-I com escolhas de escala, controle rítmico e intenção musical suficiente para transformar estudo em performance.",
+        "es": "Recorre un ii-V-I con elecciones de escala, control rítmico y la intención musical suficiente para que el estudio se sienta como interpretación.",
+        "de": "Reise durch ein ii-V-I mit Skalenwahl, rhythmischer Kontrolle und genug musikalischer Absicht, damit sich Üben wie Musizieren anfühlt.",
+        "ja": "ii-V-Iをスケール選択とリズムコントロールで旅し、練習を演奏のように感じさせる音楽的な意図を育てよう。",
+        "zh-Hans": "穿过一个ii-V-I进行，用音阶选择、节奏控制和明确的音乐意图，把练习变得像演奏一样有现场感。"
+      }
+    },
+    "order": 9,
+    "createdAt": "2026-06-18T00:08:16Z",
+    "updatedAt": "2026-06-18T00:08:16Z"
+  },
+  {
+    "id": "piano-shell-and-scale-sparks",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Shells and Scale Sparks",
+        "pt-BR": "Conchas e Faíscas de Escala no Piano",
+        "es": "Shells y Chispas de Escala en Piano",
+        "de": "Shells und Skalenfunken am Klavier",
+        "ja": "ピアノ・シェルとスケールの火花",
+        "zh-Hans": "钢琴壳音与音阶火花"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use left-hand shells and right-hand scale sparks to make a ii-V-I sound connected, bright, and alive.",
+        "pt-BR": "Use shells na mão esquerda e faíscas de escala na direita para fazer um ii-V-I soar conectado, brilhante e vivo.",
+        "es": "Usa shells en la mano izquierda y chispas de escala en la derecha para que un ii-V-I suene conectado, brillante y vivo.",
+        "de": "Nutze Shell-Voicings links und kurze Skalenfunken rechts, damit ein ii-V-I verbunden, hell und lebendig klingt.",
+        "ja": "左手のシェル・ボイシングと右手の短いスケールの火花で、ii-V-I をつながりのある明るい響きにしよう。",
+        "zh-Hans": "用左手 shell voicing 和右手短小的音阶火花，让一个 ii-V-I 听起来连贯、明亮又有生命力。"
+      }
+    },
+    "order": 10,
+    "createdAt": "2026-06-24T00:07:50Z",
+    "updatedAt": "2026-06-24T00:07:50Z"
+  },
+  {
+    "id": "piano-guide-tone-liftoff",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Guide-Tone Liftoff",
+        "pt-BR": "Decolagem dos Guide Tones no Piano",
+        "es": "Despegue de Guide Tones en Piano",
+        "de": "Guide-Tone-Liftoff am Klavier",
+        "ja": "ピアノのガイドトーン・リフトオフ",
+        "zh-Hans": "钢琴导音起飞线"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use scale notes to connect real chords on piano so your lines speak harmony instead of wandering.",
+        "pt-BR": "Use notas de escala para conectar acordes reais no piano e fazer suas linhas revelarem a harmonia.",
+        "es": "Usa notas de escala para conectar acordes reales en el piano y hacer que tus líneas hablen armonía.",
+        "de": "Verbinde echte Akkorde mit Skalentönen, damit deine Linien Harmonie sprechen statt herumzuirren.",
+        "ja": "スケール音で実際のコードをつなぎ、メロディが迷うのではなくハーモニーを語るようにします。",
+        "zh-Hans": "用音阶音去连接真实和弦，让你的旋律说出和声，而不是漫无目的地游走。"
+      }
+    },
+    "order": 11,
+    "createdAt": "2026-06-25T00:08:30Z",
+    "updatedAt": "2026-06-25T00:08:30Z"
+  },
+  {
+    "id": "piano-voicing-runway",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Voicing Runway",
+        "pt-BR": "Piano: Pista de Pouso das Voicings",
+        "es": "Piano: Pista de aterrizaje de voicings",
+        "de": "Piano: Voicing-Startbahn",
+        "ja": "ピアノ：ボイシング滑走路",
+        "zh-Hans": "钢琴：和声音型跑道"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Connect scales to harmony by aiming your right hand into strong chord tones while the left hand keeps clean guidepost voicings.",
+        "pt-BR": "Conecte escalas à harmonia fazendo a mão direita mirar notas fortes do acorde enquanto a esquerda sustenta voicings-guia limpos.",
+        "es": "Conecta las escalas con la armonía haciendo que la mano derecha apunte a tonos fuertes mientras la izquierda sostiene voicings guía limpios.",
+        "de": "Verbinde Skalen mit Harmonie, indem die rechte Hand gezielt starke Akkordtöne ansteuert, während die linke Hand klare Leit-Voicings hält.",
+        "ja": "左手でガイドになるボイシングを保ちながら、右手で強いコードトーンを狙って、スケール練習をハーモニーに結びつけよう。",
+        "zh-Hans": "让右手瞄准强烈的和弦音，同时左手保持清晰的引导型和声音型，把音阶练习真正接到和声上。"
+      }
+    },
+    "order": 12,
+    "createdAt": "2026-06-26T00:10:19Z",
+    "updatedAt": "2026-06-26T00:10:19Z"
+  },
+  {
+    "id": "piano-turnaround-rocket-run",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Turnaround Rocket Run",
+        "pt-BR": "Piano: corrida-foguete dos turnarounds",
+        "es": "Piano: carrera cohete del turnaround",
+        "de": "Piano: Turnaround-Raketenlauf",
+        "ja": "ピアノのターンアラウンド・ロケットラン",
+        "zh-Hans": "钢琴转回火箭跑"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Practice scale-based turnarounds that actually sound like music.",
+        "pt-BR": "Pratique turnarounds baseados em escalas que realmente soem musicais.",
+        "es": "Practica turnarounds basados en escalas que de verdad suenen musicales.",
+        "de": "Übe skalenbasierte Turnarounds, die tatsächlich nach Musik klingen.",
+        "ja": "本当に音楽として響く、スケールベースのターンアラウンドを練習しよう。",
+        "zh-Hans": "练习真正像音乐而不是像作业的音阶式 turnaround。"
+      }
+    },
+    "order": 13,
+    "createdAt": "2026-06-27T00:06:36Z",
+    "updatedAt": "2026-06-27T00:06:36Z"
+  },
+  {
+    "id": "piano-guide-tone-bridge-game",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guide-Tone Bridge Game",
+        "pt-BR": "Jogo da Ponte dos Guide Tones",
+        "es": "Juego del Puente de Guide Tones",
+        "de": "Guide-Tone-Brückenspiel",
+        "ja": "ガイドトーン橋わたりゲーム",
+        "zh-Hans": "Guide Tone 桥梁游戏"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a bridge-building game by connecting guide tones through chord changes.",
+        "pt-BR": "Transforme o estudo de escalas em um jogo de construir pontes ligando guide tones nas trocas de acorde.",
+        "es": "Convierte la práctica de escalas en un juego de construir puentes conectando guide tones entre acordes.",
+        "de": "Verwandle Skalenpraxis in ein Brückenbau-Spiel, indem du Guide Tones durch Akkordwechsel verbindest.",
+        "ja": "ガイドトーンをつないで、スケール練習を和声の橋づくりゲームに変えよう。",
+        "zh-Hans": "用连接 guide tone 的方式，把音阶练习变成一次搭桥游戏。"
+      }
+    },
+    "order": 14,
+    "createdAt": "2026-07-01T00:09:03Z",
+    "updatedAt": "2026-07-01T00:09:03Z"
+  },
+  {
+    "id": "piano-signal-light-voice-leading",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Signal Light Voice Leading",
+        "pt-BR": "Semáforo de Condução de Vozes no Piano",
+        "es": "Semáforo de Conducción de Voces en Piano",
+        "de": "Klavier-Ampel für Stimmführung",
+        "ja": "ピアノ信号機ボイスリーディング",
+        "zh-Hans": "钢琴红绿灯声部连接"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use green, yellow, and red note targets to guide smooth scale choices through a ii-V-I progression.",
+        "pt-BR": "Use alvos verdes, amarelos e vermelhos para guiar escolhas suaves de escala em uma progressão ii-V-I.",
+        "es": "Usa objetivos verdes, amarillos y rojos para guiar elecciones fluidas de escala sobre una progresión ii-V-I.",
+        "de": "Nutze grüne, gelbe und rote Zielnoten, um flüssige Skalenentscheidungen durch eine ii-V-I-Verbindung zu lenken.",
+        "ja": "緑・黄・赤の目標音を使って、ii-V-I進行の中でなめらかなスケール選択を導こう。",
+        "zh-Hans": "用绿色、黄色和红色目标音，引导你在 ii-V-I 进行中的音阶选择更顺滑。"
+      }
+    },
+    "order": 15,
+    "createdAt": "2026-07-03T00:08:12Z",
+    "updatedAt": "2026-07-03T00:08:12Z"
+  },
+  {
+    "id": "piano-chord-ladder-checkpoints",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Chord Ladder Checkpoints",
+        "pt-BR": "Pontos de Controle da Escada de Acordes no Piano",
+        "es": "Puntos de Control de la Escalera de Acordes en Piano",
+        "de": "Kontrollpunkte für die Akkordleiter am Klavier",
+        "ja": "ピアノ・コードはしごのチェックポイント",
+        "zh-Hans": "钢琴和弦梯检查点"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Climb from scale to chords with smart checkpoints for fingering, balance, and harmonic hearing.",
+        "pt-BR": "Suba da escala aos acordes com pontos de controle inteligentes para dedilhado, equilíbrio e audição harmônica.",
+        "es": "Sube de la escala a los acordes con puntos de control inteligentes para digitación, equilibrio y oído armónico.",
+        "de": "Steige mit klugen Kontrollpunkten für Fingersatz, Balance und harmonisches Hören von der Skala zu den Akkorden hinauf.",
+        "ja": "運指、バランス、和声の聞き取りのチェックポイントを使って、スケールからコードへ上手に登ろう。",
+        "zh-Hans": "用运指、平衡和和声听觉的智能检查点，从音阶一步步爬到和弦。"
+      }
+    },
+    "order": 16,
+    "createdAt": "2026-07-09T00:05:54Z",
+    "updatedAt": "2026-07-09T00:05:54Z"
+  },
+  {
+    "id": "piano-voice-leading-pit-stops",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "\"Piano Voice-Leading Pit Stops\"",
+        "pt-BR": "\"Pit Stops de Condução de Vozes no Piano\"",
+        "es": "\"Paradas en Boxes de Conducción de Voces para Piano\"",
+        "de": "\"Klavier-Boxenstopps für Stimmführung\"",
+        "ja": "\"ピアノ・ボイスリーディング・ピットストップ\"",
+        "zh-Hans": "\"钢琴声部连接进站练习\""
+      }
+    },
+    "description": {
+      "values": {
+        "en": "\"Turn scale practice into a chord-change race with smart harmonic landings.\"",
+        "pt-BR": "\"Transforme o estudo de escalas em uma corrida de trocas de acorde com chegadas harmônicas inteligentes.\"",
+        "es": "\"Convierte la práctica de escalas en una carrera de cambios de acorde con aterrizajes armónicos inteligentes.\"",
+        "de": "\"Verwandle Skalenpraxis in ein Akkordwechsel-Rennen mit klugen harmonischen Landungen.\"",
+        "ja": "\"音階練習を、和声の着地点が問われるコードチェンジ・レースに変えよう。\"",
+        "zh-Hans": "\"把音阶练习变成一场和弦转换竞速，用聪明的和声落点取胜。\""
+      }
+    },
+    "order": 17,
+    "createdAt": "2026-07-15T00:08:24Z",
+    "updatedAt": "2026-07-15T00:08:24Z"
+  },
+  {
+    "id": "piano-voice-leading-arcade",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Voice-Leading Arcade",
+        "pt-BR": "Arcade de Voice Leading no Piano",
+        "es": "Arcade de Voice Leading para Piano",
+        "de": "Klavier Voice-Leading Arcade",
+        "ja": "ピアノ・ボイスリーディング・アーケード",
+        "zh-Hans": "钢琴声部连接街机挑战"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Turn scale practice into a score-chasing game where every chord change rewards smooth harmonic aim.",
+        "pt-BR": "Transforme o estudo de escalas em um jogo de pontuação no qual cada mudança de acorde recompensa uma boa mira harmônica.",
+        "es": "Convierte la práctica de escalas en un juego de puntuación donde cada cambio de acorde recompensa una buena puntería armónica.",
+        "de": "Verwandle Skalenpraxis in ein Punktespiel, bei dem jeder Akkordwechsel saubere harmonische Treffsicherheit belohnt.",
+        "ja": "音階練習を、コードチェンジごとに滑らかなハーモニーの狙いが得点になるゲームに変えよう。",
+        "zh-Hans": "把音阶练习变成一场计分游戏，让每次和弦变化都奖励顺滑而准确的和声落点。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-07-17T00:11:30Z",
+    "updatedAt": "2026-07-17T00:11:30Z"
+  },
+  {
+    "id": "piano-turnaround-lighthouse",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Turnaround Lighthouse",
+        "pt-BR": "Farol de Turnaround no Piano",
+        "es": "Faro de Turnaround para Piano",
+        "de": "Piano Turnaround Lighthouse",
+        "ja": "ピアノ・ターンアラウンド・ライトハウス",
+        "zh-Hans": "钢琴终止式灯塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Use guide tones and scale color to navigate a turnaround like a bright, reliable signal.",
+        "pt-BR": "Use guide tones e cor escalar para navegar um turnaround como um sinal forte e confiável.",
+        "es": "Usa guide tones y color escalar para navegar un turnaround como una señal brillante y confiable.",
+        "de": "Nutze Guide Tones und Skalenfarbe, um einen Turnaround wie ein helles, verlässliches Signal zu steuern.",
+        "ja": "ガイドトーンとスケールの色を使って、ターンアラウンドを明るく頼れる信号のように導こう。",
+        "zh-Hans": "用导音和音阶色彩像灯塔一样，为 turnaround 指出清晰可靠的方向。"
+      }
+    },
+    "order": 19,
+    "createdAt": "2026-07-18T00:09:31Z",
+    "updatedAt": "2026-07-18T00:09:31Z"
   }
 ]

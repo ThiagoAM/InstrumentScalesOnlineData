@@ -1,0 +1,86 @@
+{
+  "id": "guitar-guide-tone-slingshot",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome to **82 BPM** and loop **| Gmaj7 | Em7 | Am7 | D7 |**. Stay in **G major** and imagine each bar has a glowing landing pad: on beat 1 of the next bar, you want to hit a **3rd or 7th** of the chord. Play two choruses of 8th notes and let your ear feel how those guide tones make the progression snap into focus.",
+          "pt-BR": "Ajuste o metrônomo para **82 BPM** e faça um loop de **| Gmaj7 | Em7 | Am7 | D7 |**. Fique em **Sol maior** e imagine que cada compasso tem uma pista de pouso brilhando: no tempo 1 do próximo compasso, você quer acertar a **3ª ou a 7ª** do acorde. Toque dois chorus em colcheias e perceba como esses guide tones fazem a progressão entrar em foco.",
+          "es": "Pon el metrónomo a **82 BPM** y crea un loop de **| Gmaj7 | Em7 | Am7 | D7 |**. Quédate en **Sol mayor** e imagina que cada compás tiene una pista de aterrizaje brillante: en el tiempo 1 del siguiente compás quieres caer en la **3ª o la 7ª** del acorde. Toca dos vueltas con corcheas y siente cómo esos guide tones hacen que la progresión se vea nítida.",
+          "de": "Stell das Metronom auf **82 BPM** und loope **| Gmaj7 | Em7 | Am7 | D7 |**. Bleib in **G-Dur** und stell dir vor, jeder Takt hat eine leuchtende Landebahn: Auf Zählzeit 1 des nächsten Takts willst du die **Terz oder Septime** des Akkords treffen. Spiele zwei Durchgänge in Achteln und höre, wie diese Guide Tones die Progression scharfstellen.",
+          "ja": "メトロノームを **82 BPM** に設定し、**| Gmaj7 | Em7 | Am7 | D7 |** をループしましょう。**Gメジャー**の中にとどまり、各小節に光る着地点があると想像してください。次の小節の1拍目で、そのコードの**3度または7度**に着地するのが目標です。8分音符で2コーラス弾き、ガイドトーンが進行をどれだけくっきり見せるか耳で確かめましょう。",
+          "zh-Hans": "把节拍器调到 **82 BPM**，循环 **| Gmaj7 | Em7 | Am7 | D7 |**。保持在 **G大调** 中练习，并想象每一小节都有一条发光跑道：你要在下一小节的第1拍落到该和弦的**3音或7音**上。先用八分音符弹两个循环，体会这些导音怎样让和声进行一下子变得清晰。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now narrow the targets. Over **Gmaj7** aim for **B or F#**. Over **Em7** aim for **G or D**. Over **Am7** aim for **C or G**. Over **D7** aim for **F# or C**. Before each bar change, say the next target note out loud, then play it. If you can name it before you hit it, you are steering instead of guessing.",
+          "pt-BR": "Agora reduza os alvos. Em **Gmaj7** mire em **B ou F#**. Em **Em7** mire em **G ou D**. Em **Am7** mire em **C ou G**. Em **D7** mire em **F# ou C**. Antes de cada troca de compasso, diga em voz alta a próxima nota-alvo e depois toque-a. Se você consegue nomeá-la antes de acertá-la, está guiando em vez de adivinhar.",
+          "es": "Ahora reduce los objetivos. Sobre **Gmaj7** apunta a **B o F#**. Sobre **Em7** apunta a **G o D**. Sobre **Am7** apunta a **C o G**. Sobre **D7** apunta a **F# o C**. Antes de cada cambio de compás, di en voz alta la siguiente nota objetivo y luego tócala. Si puedes nombrarla antes de tocarla, estás guiando en lugar de adivinar.",
+          "de": "Jetzt werden die Ziele enger. Über **Gmaj7** ziele auf **B oder F#**. Über **Em7** auf **G oder D**. Über **Am7** auf **C oder G**. Über **D7** auf **F# oder C**. Sage vor jedem Taktwechsel den nächsten Zielton laut an und spiele ihn dann. Wenn du ihn benennen kannst, bevor du ihn spielst, steuerst du statt zu raten.",
+          "ja": "次は狙いを絞ります。**Gmaj7** では **B か F#**、**Em7** では **G か D**、**Am7** では **C か G**、**D7** では **F# か C** を狙ってください。小節が変わる前に、次のターゲット音を声に出してから弾きます。弾く前に名前を言えるなら、勘ではなく自分で進路を決めているということです。",
+          "zh-Hans": "现在缩小目标范围。遇到 **Gmaj7** 时瞄准 **B 或 F#**，**Em7** 时瞄准 **G 或 D**，**Am7** 时瞄准 **C 或 G**，**D7** 时瞄准 **F# 或 C**。每次换小节前，先把下一个目标音大声说出来，再把它弹出来。如果你能先说再弹，说明你是在主动导航，而不是碰运气。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Add the slingshot move: on beat 4 of every bar, play **one neighbor note** a step above or below your target, then resolve into the target on beat 1. Example: over D7 you can play **G-F#** or **E-F#**. Keep the neighbor short and the target strong. The fun is in hearing the tiny bit of tension fire you into the chord tone.",
+          "pt-BR": "Adicione o movimento do estilingue: no tempo 4 de cada compasso, toque **uma nota vizinha** um grau acima ou abaixo do seu alvo e resolva no alvo no tempo 1. Exemplo: sobre D7 você pode tocar **G-F#** ou **E-F#**. Mantenha a vizinha curta e o alvo forte. A graça está em ouvir essa pequena tensão te arremessar para a nota do acorde.",
+          "es": "Añade el movimiento del tirachinas: en el tiempo 4 de cada compás toca **una nota vecina** un paso por encima o por debajo de tu objetivo y resuélvela en el objetivo en el tiempo 1. Ejemplo: sobre D7 puedes tocar **G-F#** o **E-F#**. Mantén la vecina corta y el objetivo fuerte. La diversión está en oír cómo esa pequeña tensión te dispara hacia la nota del acorde.",
+          "de": "Füge die Schleuderbewegung hinzu: Spiele auf Zählzeit 4 jedes Takts **einen Nachbarton** einen Schritt über oder unter deinem Ziel und löse ihn auf Zählzeit 1 in den Zielton auf. Beispiel über D7: **G-F#** oder **E-F#**. Halte den Nachbarton kurz und den Zielton klar. Der Spaß liegt darin, zu hören, wie diese kleine Spannung dich in den Akkordton katapultiert.",
+          "ja": "ここでスリングショットの動きを追加します。各小節の4拍目に、ターゲットの半音または全音上か下にある**隣接音を1つ**入れ、次の1拍目でターゲットに解決します。たとえば D7 なら **G-F#** または **E-F#** が使えます。隣接音は短く、ターゲットは強く。小さな緊張がコードトーンへ勢いよく飛ばしてくれる感覚を楽しみましょう。",
+          "zh-Hans": "加入“弹弓”动作：每小节第4拍先弹**一个邻音**，它可以在目标音的上方或下方一步，然后在下一小节第1拍解决到目标音。比如在 D7 上可以弹 **G-F#** 或 **E-F#**。邻音要短，目标音要稳。好玩的地方就在于听见那一点点张力把你弹进和弦音里。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Change the fretboard map. Chorus 1 stays mostly around frets **3-7**. Chorus 2 must shift at least once toward frets **8-12** without losing the same targets. Chorus 3 comes back down. If your guide tones disappear during the shift, slow down and rebuild the route.",
+          "pt-BR": "Mude o mapa do braço. O chorus 1 fica principalmente entre os trastes **3-7**. O chorus 2 deve subir pelo menos uma vez para os trastes **8-12** sem perder os mesmos alvos. O chorus 3 desce de volta. Se os guide tones sumirem durante a mudança, diminua o andamento e reconstrua o caminho.",
+          "es": "Cambia el mapa del diapasón. La vuelta 1 se queda sobre todo entre los trastes **3-7**. La vuelta 2 debe desplazarse al menos una vez hacia los trastes **8-12** sin perder los mismos objetivos. La vuelta 3 baja otra vez. Si los guide tones desaparecen durante el cambio, baja la velocidad y reconstruye la ruta.",
+          "de": "Wechsle die Griffbrettkarte. Durchgang 1 bleibt überwiegend in den Bünden **3-7**. Durchgang 2 muss mindestens einmal in die Bünde **8-12** wechseln, ohne dieselben Ziele zu verlieren. Durchgang 3 kommt wieder nach unten zurück. Wenn deine Guide Tones beim Lagenwechsel verschwinden, werde langsamer und baue den Weg neu.",
+          "ja": "指板上の地図も変えます。1コーラス目は主に **3〜7フレット**、2コーラス目は少なくとも一度 **8〜12フレット** 側へ移動しながら同じターゲットを保ちます。3コーラス目でまた下に戻ります。移動するとガイドトーンが見えなくなるなら、テンポを落として道順を作り直しましょう。",
+          "zh-Hans": "再换一张指板地图。第1个循环主要待在 **3到7品**，第2个循环至少有一次移动到 **8到12品** 区域，同时不能丢掉相同的目标音。第3个循环再回到低把位。如果一换把导音就消失了，那就放慢速度，把路线重新搭好。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Boss round rhythm: in bar 1 use mostly straight 8ths, in bar 2 start your phrase after beat 1, in bar 3 hold one target for at least **two beats**, and in bar 4 finish with a pickup into the next chorus. The notes are not the whole story now; you are making the same harmonic truth sound alive in different rhythmic costumes.",
+          "pt-BR": "Chefão rítmico: no compasso 1 use principalmente colcheias retas, no compasso 2 comece a frase depois do tempo 1, no compasso 3 sustente um alvo por pelo menos **dois tempos**, e no compasso 4 termine com uma anacruse para o próximo chorus. Agora as notas não contam a história inteira; você está fazendo a mesma verdade harmônica soar viva com roupas rítmicas diferentes.",
+          "es": "Ronda jefe de ritmo: en el compás 1 usa sobre todo corcheas rectas, en el compás 2 empieza la frase después del tiempo 1, en el compás 3 mantén un objetivo durante al menos **dos tiempos**, y en el compás 4 termina con una anacrusa hacia la siguiente vuelta. Ahora las notas no cuentan toda la historia; estás haciendo que la misma verdad armónica suene viva con distintos disfraces rítmicos.",
+          "de": "Boss-Runde Rhythmus: In Takt 1 spielst du überwiegend gerade Achtel, in Takt 2 beginnt deine Phrase nach Zählzeit 1, in Takt 3 hältst du einen Zielton mindestens **zwei Schläge**, und in Takt 4 endest du mit einem Auftakt in den nächsten Durchgang. Jetzt erzählen nicht mehr nur die Töne die Geschichte; du lässt dieselbe harmonische Wahrheit in verschiedenen rhythmischen Kostümen lebendig werden.",
+          "ja": "ボスラウンドはリズムです。1小節目は主にまっすぐな8分音符、2小節目は1拍目の後からフレーズを始め、3小節目はターゲット音を少なくとも **2拍** 伸ばし、4小節目は次のコーラスへ向かうピックアップで終えます。ここでは音の選び方だけでなく、同じハーモニーの真実を違うリズムの衣装で生き生きと聴かせることがテーマです。",
+          "zh-Hans": "Boss 回合是节奏：第1小节主要用平稳的八分音符，第2小节在第1拍之后才开始乐句，第3小节把一个目标音至少延长 **两拍**，第4小节用一个弱起把你带进下一个循环。现在不只是音高在讲故事；你要让同样的和声真相穿上不同的节奏服装，听起来依然鲜活。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Final challenge: record a **90-second solo**. In the first 30 seconds, land only on 3rds and 7ths at chord changes. In the next 30, add roots and 5ths as occasional support. In the last 30, use one slide, bend, or vibrato on an important target in each chorus. Listen back and ask: **Did the harmony become clearer every time I arrived?**",
+          "pt-BR": "Desafio final: grave um **solo de 90 segundos**. Nos primeiros 30 segundos, caia apenas em 3as e 7as nas trocas de acorde. Nos 30 seguintes, adicione tônicas e quintas como apoio ocasional. Nos últimos 30, use um slide, bend ou vibrato em um alvo importante a cada chorus. Ouça de volta e pergunte: **a harmonia ficou mais clara toda vez que eu cheguei?**",
+          "es": "Desafío final: graba un **solo de 90 segundos**. En los primeros 30 segundos cae solo en 3ras y 7mas en los cambios de acorde. En los 30 siguientes añade raíces y quintas como apoyo ocasional. En los últimos 30 usa un slide, bend o vibrato sobre un objetivo importante en cada vuelta. Escúchalo después y pregúntate: **¿la armonía se volvió más clara cada vez que llegué?**",
+          "de": "Abschluss-Challenge: Nimm ein **90-Sekunden-Solo** auf. In den ersten 30 Sekunden landest du bei Akkordwechseln nur auf Terzen und Septimen. In den nächsten 30 kommen Grundtöne und Quinten gelegentlich dazu. In den letzten 30 benutzt du in jedem Durchgang einen Slide, Bend oder Vibrato auf einem wichtigen Zielton. Hör es dir an und frage dich: **Wurde die Harmonie jedes Mal klarer, wenn ich angekommen bin?**",
+          "ja": "最後のチャレンジです。**90秒のソロ**を録音しましょう。最初の30秒はコードチェンジで3度と7度だけに着地します。次の30秒では、ときどきルートと5度も加えます。最後の30秒では、各コーラスで重要なターゲット音に1回ずつスライド、ベンド、またはビブラートを使ってください。録音を聴き返して、自分にこう問いかけましょう。**着地するたびにハーモニーはより明確になったか？**",
+          "zh-Hans": "最终挑战：录一个 **90 秒独奏**。前 30 秒在和弦变化处只落到 3 音和 7 音上；接下来的 30 秒可以偶尔加入根音和 5 音；最后 30 秒里，每个循环都要在一个重要目标音上加入一次滑音、推弦或颤音。回放后问自己：**我每次落地时，和声是不是都更清楚了？**"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-18T00:07:07Z",
+  "updatedAt": "2026-07-18T00:07:07Z"
+}

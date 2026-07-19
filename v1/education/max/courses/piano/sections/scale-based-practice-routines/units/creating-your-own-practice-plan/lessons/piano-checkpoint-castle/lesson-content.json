@@ -1,0 +1,86 @@
+{
+  "id": "piano-checkpoint-castle",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Imagine your D major scale practice as a castle with 4 checkpoints. You only get the treasure if every gate opens with calm hands, clear ears, and zero panic.",
+          "pt-BR": "Imagine sua prática da escala de Ré maior como um castelo com 4 checkpoints. Você só ganha o tesouro se cada portão abrir com mãos calmas, ouvidos atentos e zero pânico.",
+          "es": "Imagina tu práctica de la escala de Re mayor como un castillo con 4 checkpoints. Solo consigues el tesoro si cada puerta se abre con manos tranquilas, oídos claros y cero pánico.",
+          "de": "Stell dir dein D-Dur-Training wie eine Burg mit 4 Checkpoints vor. Den Schatz bekommst du nur, wenn sich jedes Tor mit ruhigen Händen, offenen Ohren und ohne Panik öffnet.",
+          "ja": "Dメジャースケールの練習を、4つのチェックポイントがある城だと想像してください。落ち着いた手、はっきりした耳、そしてパニックなしで各門を開けたときだけ宝が手に入ります。",
+          "zh-Hans": "把你的D大调音阶练习想成一座有4个检查点的城堡。只有每一道门都能在手很稳、耳朵很清楚、完全不慌的状态下打开，你才能拿到宝藏。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 1 — map the road: play one octave of D major hands separately at 72 bpm. Say the fingering turnarounds out loud: right hand 1 under after F#, left hand 3 over after G.",
+          "pt-BR": "Checkpoint 1 — mapear a estrada: toque uma oitava de Ré maior com as mãos separadas a 72 bpm. Diga em voz alta as viradas da digitação: mão direita passa o 1 depois do F#, mão esquerda passa o 3 depois do G.",
+          "es": "Checkpoint 1 — mapa del camino: toca una octava de Re mayor con manos separadas a 72 bpm. Di en voz alta los cambios de digitación: mano derecha pasa el 1 después de F#, mano izquierda pasa el 3 después de G.",
+          "de": "Checkpoint 1 — Straße kartieren: Spiele eine Oktave D-Dur mit getrennten Händen bei 72 bpm. Sprich die Fingersatz-Wechsel laut aus: rechte Hand mit 1 nach F#, linke Hand mit 3 nach G.",
+          "ja": "チェックポイント1 — 道を地図化する：Dメジャーを1オクターブ、片手ずつ 72 bpm で弾きます。運指の切り替えを声に出しましょう。右手は F# の後で 1 をくぐらせ、左手は G の後で 3 をまたがせます。",
+          "zh-Hans": "检查点1——画出路线：以72 bpm分别用左右手弹一组八度D大调。把运指转折点说出来：右手在 F# 之后用 1 指穿过，左手在 G 之后用 3 指越过。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 2 — balance the drawbridge: play hands together, but keep the right hand slightly brighter and the left hand softer. If one hand starts bullying the other, slow down until the bridge is level again.",
+          "pt-BR": "Checkpoint 2 — equilibrar a ponte levadiça: toque com as duas mãos juntas, mas mantenha a mão direita um pouco mais brilhante e a esquerda mais suave. Se uma mão começar a intimidar a outra, diminua até a ponte ficar nivelada de novo.",
+          "es": "Checkpoint 2 — equilibrar el puente levadizo: toca con las dos manos juntas, pero mantén la mano derecha un poco más brillante y la izquierda más suave. Si una mano empieza a dominar a la otra, baja la velocidad hasta que el puente vuelva a estar nivelado.",
+          "de": "Checkpoint 2 — Zugbrücke ausbalancieren: Spiele mit beiden Händen zusammen, aber halte die rechte Hand etwas heller und die linke weicher. Wenn eine Hand die andere überrollt, verlangsame, bis die Brücke wieder im Gleichgewicht ist.",
+          "ja": "チェックポイント2 — はね橋のバランス：両手で弾きますが、右手を少し明るく、左手を少し柔らかく保ちます。片手がもう片方を押しつぶし始めたら、橋が水平に戻るまでテンポを落とします。",
+          "zh-Hans": "检查点2——平衡吊桥：双手一起弹，但让右手稍微更明亮，左手更柔和。如果一只手开始欺负另一只手，就放慢速度，直到吊桥重新平衡。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 3 — memory lanterns: close your eyes for the last 4 notes going up and the first 4 notes coming down. You are training the keyboard map in your ear, not just in your eyesight.",
+          "pt-BR": "Checkpoint 3 — lanternas da memória: feche os olhos nas últimas 4 notas subindo e nas primeiras 4 descendo. Você está treinando o mapa do teclado no ouvido, não só na visão.",
+          "es": "Checkpoint 3 — faroles de memoria: cierra los ojos en las últimas 4 notas al subir y en las primeras 4 al bajar. Estás entrenando el mapa del teclado en el oído, no solo en la vista.",
+          "de": "Checkpoint 3 — Gedächtnislaternen: Schließe die Augen für die letzten 4 Töne aufwärts und die ersten 4 Töne abwärts. Du trainierst die Tastaturkarte im Ohr und nicht nur mit den Augen.",
+          "ja": "チェックポイント3 — 記憶のランタン：上行の最後の4音と下行の最初の4音では目を閉じます。視覚だけでなく、耳の中に鍵盤地図を作る練習です。",
+          "zh-Hans": "检查点3——记忆灯笼：上行最后4个音和下行最开始4个音时闭上眼睛。你训练的是耳朵里的键盘地图，不只是眼睛里的地图。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Checkpoint 4 — musical shield: add a crescendo on the ascent and a decrescendo on the descent. Keep the tempo steady so the dynamics feel expressive instead of accidental.",
+          "pt-BR": "Checkpoint 4 — escudo musical: adicione um crescendo na subida e um decrescendo na descida. Mantenha o andamento estável para que a dinâmica soe expressiva, não acidental.",
+          "es": "Checkpoint 4 — escudo musical: añade un crescendo al subir y un decrescendo al bajar. Mantén el tempo estable para que la dinámica suene expresiva y no accidental.",
+          "de": "Checkpoint 4 — musikalischer Schild: Füge beim Aufstieg ein Crescendo und beim Abstieg ein Decrescendo hinzu. Halte das Tempo stabil, damit die Dynamik bewusst und nicht zufällig wirkt.",
+          "ja": "チェックポイント4 — 音楽の盾：上行でクレッシェンド、下行でデクレッシェンドを入れます。テンポは一定に保ち、ダイナミクスが偶然ではなく表現になるようにします。",
+          "zh-Hans": "检查点4——音乐护盾：上行加入渐强，下行加入渐弱。保持速度稳定，让力度变化听起来像表达，而不是意外。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Treasure run: play 3 clean full versions in a row. If you miss the fingering once, restart the count, then finish by improvising 2 bars in D major so the castle turns back into music.",
+          "pt-BR": "Corrida do tesouro: toque 3 versões completas e limpas em sequência. Se errar a digitação uma vez, reinicie a contagem, e termine improvisando 2 compassos em Ré maior para o castelo virar música de novo.",
+          "es": "Carrera del tesoro: toca 3 versiones completas y limpias seguidas. Si fallas una digitación, reinicia la cuenta, y termina improvisando 2 compases en Re mayor para que el castillo vuelva a convertirse en música.",
+          "de": "Schatzlauf: Spiele 3 saubere vollständige Durchgänge hintereinander. Wenn du den Fingersatz einmal verfehlst, beginnt die Zählung neu, und zum Schluss improvisierst du 2 Takte in D-Dur, damit die Burg wieder Musik wird.",
+          "ja": "宝物ラン：きれいなフル演奏を3回連続で成功させます。1回でも運指を外したらカウントをやり直し、最後に Dメジャーで2小節即興して、城をもう一度音楽に戻しましょう。",
+          "zh-Hans": "宝藏冲刺：连续弹出3遍完整而干净的版本。如果运指错了一次，就重新计数；最后再用D大调即兴2小节，让城堡重新变回音乐。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-05T00:09:39Z",
+  "updatedAt": "2026-07-05T00:09:39Z"
+}

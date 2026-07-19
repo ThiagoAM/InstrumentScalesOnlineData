@@ -1,0 +1,73 @@
+{
+  "id": "bass-root-ladder-relay",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Set a metronome to **84-92 BPM** and start in **G major**. Think of each bar as one rung on a ladder: the root gives you the floor, the third and fifth give you direction, and the sixth or seventh adds color only if your time stays heavy and calm.",
+          "pt-BR": "Ajuste o metrônomo para **84-92 BPM** e comece em **Sol maior**. Pense em cada compasso como um degrau de escada: a tônica dá chão, a terça e a quinta dão direção, e a sexta ou a sétima só entram se o tempo continuar pesado e calmo.",
+          "es": "Pon el metrónomo a **84-92 BPM** y empieza en **Sol mayor**. Piensa cada compás como un peldaño: la tónica te da piso, la tercera y la quinta te dan dirección, y la sexta o séptima añade color solo si el tiempo sigue pesado y tranquilo.",
+          "de": "Stell das Metronom auf **84-92 BPM** und beginne in **G-Dur**. Denk jeden Takt als Sprosse einer Leiter: Der Grundton gibt dir Boden, Terz und Quinte geben Richtung, und Sexte oder Septime dürfen nur Farbe bringen, wenn das Timing schwer und ruhig bleibt.",
+          "ja": "メトロノームを **84-92 BPM** に設定し、**Gメジャー** から始めます。各小節をはしごの1段だと考えてください。ルートは床、3度と5度は進行方向、6度や7度はタイムが重く落ち着いているときだけ色になります。",
+          "zh-Hans": "把节拍器设在 **84-92 BPM**，从 **G大调** 开始。把每一小节看成梯子的一格：根音给你地板，三度和五度给你方向，六度或七度只有在时间感依然沉稳时，才配得上当颜色。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Relay rules\n- Begin each bar on **G**, **C**, or **D** depending on the chord.\n- Use at least **one stepwise move** and **one skip** in every two-bar phrase.\n- Keep your note lengths consistent enough that the groove feels trustworthy.\n- If a color tone weakens the pocket, simplify immediately.",
+          "pt-BR": "## Regras do revezamento\n- Comece cada compasso em **G**, **C** ou **D** conforme o acorde.\n- Use pelo menos **um movimento conjunto** e **um salto** em cada frase de dois compassos.\n- Mantenha a duração das notas consistente o bastante para o groove soar confiável.\n- Se uma nota de cor enfraquecer o pocket, simplifique na hora.",
+          "es": "## Reglas del relevo\n- Empieza cada compás en **G**, **C** o **D** según el acorde.\n- Usa al menos **un movimiento conjunto** y **un salto** en cada frase de dos compases.\n- Mantén las duraciones lo bastante parejas para que el groove se sienta confiable.\n- Si una nota de color debilita el pocket, simplifica de inmediato.",
+          "de": "## Relay-Regeln\n- Beginne jeden Takt auf **G**, **C** oder **D** passend zum Akkord.\n- Nutze in jeder Zweitaktphrase mindestens **eine Schrittbewegung** und **einen Sprung**.\n- Halte die Notenlängen so konsistent, dass sich der Groove verlässlich anfühlt.\n- Wenn ein Farbton das Pocket schwächt, vereinfache sofort.",
+          "ja": "## リレーのルール\n- 各小節はコードに合わせて **G**、**C**、**D** のどれかで始めます。\n- 2小節フレーズごとに **順次進行を1回**、**跳躍を1回** 入れます。\n- 音価は、グルーヴが信頼できると感じる程度に揃えます。\n- 色音でポケットが弱くなるなら、すぐ簡単に戻しましょう。",
+          "zh-Hans": "## 接力规则\n- 每小节都根据和弦从 **G**、**C** 或 **D** 开始。\n- 每个两小节乐句里至少要有 **一次级进** 和 **一次跳进**。\n- 音值要稳定到让 groove 值得信赖。\n- 如果某个色彩音削弱了 pocket，就立刻简化。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 1: roots first, color later\nPlay two choruses using only roots and fifths. On chorus three, add one third per bar. On chorus four, add one sixth or seventh only on the last half of the bar. This sequence teaches you that fancy notes earn their place by protecting the groove.",
+          "pt-BR": "## Exercício 1: tônicas primeiro, cor depois\nToque dois ciclos usando apenas tônicas e quintas. No terceiro ciclo, adicione uma terça por compasso. No quarto, acrescente uma sexta ou sétima apenas na segunda metade do compasso. Essa sequência ensina que notas sofisticadas só merecem entrar quando protegem o groove.",
+          "es": "## Ejercicio 1: tónicas primero, color después\nToca dos vueltas usando solo tónicas y quintas. En la tercera vuelta, añade una tercera por compás. En la cuarta, agrega una sexta o séptima solo en la segunda mitad del compás. Esta secuencia te enseña que las notas elegantes se ganan su lugar cuidando el groove.",
+          "de": "## Übung 1: erst Grundtöne, dann Farbe\nSpiele zwei Durchgänge nur mit Grundtönen und Quinten. Im dritten Durchgang kommt pro Takt eine Terz dazu. Im vierten ergänzt du eine Sexte oder Septime erst in der zweiten Takthälfte. Diese Reihenfolge zeigt dir, dass schicke Töne ihren Platz nur verdienen, wenn sie den Groove schützen.",
+          "ja": "## ドリル1：まずルート、その後で色\n最初の2周はルートと5度だけで弾きます。3周目では各小節に3度を1つ追加します。4周目では各小節の後半にだけ6度か7度を入れます。洒落た音は、グルーヴを守れて初めて出番を得ると体に教える順番です。",
+          "zh-Hans": "## 练习1：先根音，再上颜色\n先用根音和五度跑两遍。第三遍每小节加入一个三度。第四遍只在每小节后半拍加入一个六度或七度。这个顺序会教你：花哨的音只有在守住 groove 时才有资格出现。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Drill 2: ghost-note handoff\nBetween two strong scale tones, place one soft ghost note with your plucking hand. The ghost note should act like a passing wink, not a thud. If the line feels lighter but still solid, you found the right amount of grease.",
+          "pt-BR": "## Exercício 2: entrega com ghost note\nEntre duas notas fortes da escala, coloque uma ghost note suave com a mão direita. A ghost note deve funcionar como uma piscada de passagem, não como um baque. Se a linha ficar mais leve e ainda sólida, você achou a medida certa de gordura no groove.",
+          "es": "## Ejercicio 2: relevo con ghost note\nEntre dos notas fuertes de la escala, coloca una ghost note suave con la mano derecha. Esa ghost note debe sentirse como un guiño pasajero, no como un golpe torpe. Si la línea se siente más ligera pero sigue sólida, encontraste la cantidad correcta de grasa rítmica.",
+          "de": "## Übung 2: Ghost-Note-Übergabe\nSetze zwischen zwei starke Skalentöne eine leise Ghost Note mit der Zupfhand. Sie soll wie ein kurzes Augenzwinkern wirken, nicht wie ein dumpfer Stoß. Wenn die Linie leichter, aber immer noch stabil klingt, hast du die richtige Dosis gefunden.",
+          "ja": "## ドリル2：ゴーストノートの受け渡し\n2つの強いスケール音の間に、右手で柔らかいゴーストノートを1つ入れます。ゴーストノートは重い一撃ではなく、通りすがりのウィンクのように感じられるべきです。ラインが軽くなっても芯が残るなら、ちょうどよい油分です。",
+          "zh-Hans": "## 练习2：ghost note 交接\n在两个强音阶音之间，用拨弦手加一个轻轻的 ghost note。它应该像一个路过的眨眼，而不是笨重的一击。如果整条线更轻巧了但仍然扎实，你就找到了正确的润滑度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "## Final lap\nWrite a **4-bar relay line** over G–C–D–G that climbs higher each bar, then resets cleanly to the low root. Record it and ask whether the listener could feel the harmony even without chords. If yes, your scale work is serving the song instead of showing off.",
+          "pt-BR": "## Volta final\nEscreva uma **linha de revezamento de 4 compassos** sobre G–C–D–G que suba a cada compasso e depois volte limpo para a tônica grave. Grave e pergunte a si mesmo se alguém sentiria a harmonia mesmo sem acordes. Se sim, sua prática de escalas está servindo à música em vez de exibicionismo.",
+          "es": "## Vuelta final\nEscribe una **línea de relevo de 4 compases** sobre G–C–D–G que suba en cada compás y luego vuelva limpia a la tónica grave. Grábala y pregúntate si alguien podría sentir la armonía incluso sin acordes. Si sí, tu trabajo con escalas está sirviendo a la canción en vez de presumir.",
+          "de": "## Schlussrunde\nSchreibe eine **4-taktige Relay-Linie** über G–C–D–G, die in jedem Takt höher steigt und dann sauber zum tiefen Grundton zurückkehrt. Nimm sie auf und frage dich, ob man die Harmonie auch ohne Akkorde spüren könnte. Wenn ja, dient deine Skalenarbeit dem Song statt dem Ego.",
+          "ja": "## 最終ラップ\nG–C–D–G の上で、各小節ごとに少しずつ高く登り、最後に低いルートへきれいに戻る **4小節のリレーライン** を書いてください。録音して、コードがなくても和声を感じられるか確認します。感じられるなら、あなたのスケール練習は見せびらかしではなく曲に仕えています。",
+          "zh-Hans": "## 最后一圈\n在 G–C–D–G 上写一条 **4小节接力线**，要求每小节都往更高处爬一点，然后干净地回到低音根音。录下来，问问自己：就算没有和弦，听众能不能也感到和声在移动？如果能，你的音阶练习就在为歌曲服务，而不是炫技。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-06-09T00:10:16Z",
+  "updatedAt": "2026-06-09T00:10:16Z"
+}

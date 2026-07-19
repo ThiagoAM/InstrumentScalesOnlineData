@@ -1,0 +1,73 @@
+{
+  "id": "bb-mixolydian-vamp-riff-lab",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a **B♭7 vamp** and set a metronome or drum loop to **96 bpm**. Use **B♭ Mixolydian** (B♭ C D E♭ F G A♭) around one comfortable position, and let the **A♭** remind your ears that this is not plain major. Keep the groove crisp and a little cheeky.",
+          "pt-BR": "Comece com um **vamp em B♭7** e ajuste um metrônomo ou loop de bateria para **96 bpm**. Use **B♭ mixolídio** (B♭ C D E♭ F G A♭) em uma posição confortável e deixe o **A♭** lembrar seu ouvido de que isso não é simplesmente maior. Mantenha o groove seco, firme e com atitude.",
+          "es": "Empieza con un **vamp de B♭7** y pon un metrónomo o loop de batería en **96 bpm**. Usa **B♭ mixolidio** (B♭ C D E♭ F G A♭) en una posición cómoda y deja que el **A♭** le recuerde a tu oído que esto no es una escala mayor normal. Mantén el groove nítido y con un poco de descaro.",
+          "de": "Starte mit einem **B♭7-Vamp** und stelle Metronom oder Drum-Loop auf **96 bpm**. Nutze **B♭ mixolydisch** (B♭ C D E♭ F G A♭) in einer bequemen Lage, und lass das **A♭** dein Ohr daran erinnern, dass das nicht einfach nur Dur ist. Halte den Groove klar, trocken und ein bisschen frech.",
+          "ja": "**B♭7のヴァンプ**を用意し、メトロノームまたはドラムループを**96 bpm**に設定します。弾くのは**B♭ミクソリディアン**（B♭ C D E♭ F G A♭）。弾きやすいポジションを使い、**A♭**が「ただのメジャーではない」と耳に教えてくれる感覚を意識しましょう。グルーヴはタイトに、少し生意気なくらいでOKです。",
+          "zh-Hans": "先准备一个**B♭7 vamp**，把节拍器或鼓循环设为**96 bpm**。使用**B♭ Mixolydian**（B♭ C D E♭ F G A♭）在你最舒服的把位演奏，让**A♭**提醒你的耳朵：这不是普通的大调。律动要干脆、紧凑，还要带一点坏劲儿。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Before you improvise, make a **2-note riff skeleton** from chord tones only: choose any two of **B♭, D, F, A♭** and place them on beats **1** and **3** for one bar. Repeat it four times until it feels solid, then answer it with one extra scale note on the next bar.",
+          "pt-BR": "Antes de improvisar, monte um **esqueleto de riff com 2 notas** usando apenas tons do acorde: escolha duas entre **B♭, D, F, A♭** e coloque-as nos tempos **1** e **3** durante um compasso. Repita quatro vezes até ficar firme, depois responda com uma nota extra da escala no compasso seguinte.",
+          "es": "Antes de improvisar, crea un **esqueleto de riff de 2 notas** solo con tonos del acorde: elige dos entre **B♭, D, F, A♭** y colócalas en los tiempos **1** y **3** durante un compás. Repítelo cuatro veces hasta sentirlo firme y luego respóndelo con una nota extra de la escala en el compás siguiente.",
+          "de": "Bevor du improvisierst, baue ein **2-Noten-Riffgerüst** nur aus Akkordtönen: Wähle zwei aus **B♭, D, F, A♭** und setze sie in einem Takt auf die Zählzeiten **1** und **3**. Wiederhole das viermal, bis es sitzt, und antworte dann im nächsten Takt mit einem zusätzlichen Skalenton.",
+          "ja": "即興の前に、コードトーンだけで**2音のリフ骨格**を作ります。**B♭、D、F、A♭**から2音を選び、1小節の**1拍目**と**3拍目**に置きます。これを4回繰り返して安定させ、次の小節でスケール音を1つ足して返答しましょう。",
+          "zh-Hans": "正式即兴前，先用和弦音搭一个**2音riff骨架**：从**B♭、D、F、A♭**里任选两个，放在一小节的**第1拍**和**第3拍**。重复4次直到稳定，再在下一小节用一颗额外的音阶音来回答它。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add a \"spice note\" rule: every second bar must feature either the **♭7 (A♭)** or the **6 (G)**. Slide into one of those notes from a fret below or above. If your phrase sounds too polite, shorten it and leave more space.",
+          "pt-BR": "Agora adicione uma regra de “nota tempero”: a cada segundo compasso você deve usar a **7ª menor (A♭)** ou a **6ª (G)**. Faça um slide para chegar em uma dessas notas vindo de um traste abaixo ou acima. Se a frase soar educada demais, encurte e deixe mais espaço.",
+          "es": "Ahora añade una regla de “nota picante”: cada segundo compás debe incluir la **7ª menor (A♭)** o la **6ª (G)**. Deslízate hacia una de esas notas desde un traste abajo o arriba. Si la frase suena demasiado correcta, acórtala y deja más espacio.",
+          "de": "Jetzt kommt die „Gewürzton“-Regel: In jedem zweiten Takt muss entweder die **kleine 7 (A♭)** oder die **6 (G)** vorkommen. Rutsche von einem Bund darunter oder darüber in diesen Ton hinein. Wenn die Phrase zu brav klingt, kürze sie und lass mehr Luft.",
+          "ja": "次は「スパイス音」ルールです。2小節ごとに必ず**♭7（A♭）**または**6度（G）**を入れます。その音へは半音下か上のフレットからスライドで入ってください。フレーズが優等生すぎるなら、短くして空白を増やしましょう。",
+          "zh-Hans": "现在加上一条“调味音”规则：每隔一小节，你必须用到**♭7（A♭）**或**6度（G）**。从上方或下方一个品位滑入那个音。如果你的句子听起来太乖，就把它缩短，多留点空白。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "**Riff lab challenge:** create **3 different two-bar riffs**. Riff 1 should be mostly downbeats, Riff 2 should start with an **offbeat**, and Riff 3 must end with a **rest** on beat 4. Record all three and pick the one that sounds most like a real song intro.",
+          "pt-BR": "**Desafio do laboratório de riffs:** crie **3 riffs diferentes de dois compassos**. O riff 1 deve cair mais nos tempos fortes, o riff 2 deve começar em **contratempo**, e o riff 3 precisa terminar com uma **pausa** no tempo 4. Grave os três e escolha qual soa mais como a introdução de uma música de verdade.",
+          "es": "**Desafío del laboratorio de riffs:** crea **3 riffs distintos de dos compases**. El riff 1 debe usar sobre todo tiempos fuertes, el riff 2 debe empezar en **contratiempo**, y el riff 3 debe terminar con un **silencio** en el tiempo 4. Graba los tres y elige cuál suena más como la intro de una canción real.",
+          "de": "**Riff-Labor-Challenge:** Erfinde **3 verschiedene zweitaktige Riffs**. Riff 1 soll vor allem auf den Downbeats liegen, Riff 2 auf einem **Offbeat** starten, und Riff 3 muss auf Zählzeit 4 mit einer **Pause** enden. Nimm alle drei auf und wähle das aus, das am ehesten wie ein echter Song-Intro klingt.",
+          "ja": "**リフ実験チャレンジ：** **2小節のリフを3種類**作ります。リフ1は強拍中心、リフ2は**裏拍**スタート、リフ3は4拍目を**休符**で終えること。3つとも録音して、いちばん本物の曲のイントロっぽいものを選びましょう。",
+          "zh-Hans": "**Riff实验挑战：** 设计**3个不同的两小节riff**。Riff 1 以强拍为主，Riff 2 必须从**反拍**开始，Riff 3 必须在第4拍用**休止**结尾。把三个都录下来，选出最像真正歌曲前奏的那个。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a **call-and-response round**: play one bar low on the neck, answer one bar higher, then switch. Keep the same rhythm but change the ending note each time. Your goal is to sound intentional, not busy — if you can sing the riff back, you probably wrote a good one.",
+          "pt-BR": "Termine com uma rodada de **pergunta e resposta**: toque um compasso na região grave do braço, responda um compasso mais agudo, depois inverta. Mantenha o mesmo ritmo, mas mude a nota final toda vez. O objetivo é soar intencional, não ocupado — se você consegue cantar o riff de volta, provavelmente escreveu algo bom.",
+          "es": "Termina con una ronda de **pregunta y respuesta**: toca un compás en la parte grave del mástil, responde un compás más arriba y luego cambia. Mantén el mismo ritmo, pero cambia la nota final cada vez. Tu meta es sonar intencional, no ocupado: si puedes cantar el riff después, probablemente escribiste uno bueno.",
+          "de": "Zum Schluss folgt eine **Call-and-Response-Runde**: Spiele einen Takt tief auf dem Griffbrett, antworte einen Takt höher und wechsle dann wieder. Behalte denselben Rhythmus, ändere aber jedes Mal den Endton. Das Ziel ist, absichtlich und nicht überladen zu klingen — wenn du das Riff nachsingen kannst, ist es wahrscheinlich gut.",
+          "ja": "最後は**コール＆レスポンス**です。低いポジションで1小節、1オクターブではなく“少し高い場所”で1小節返答し、交互に続けます。リズムは同じまま、終わりの音だけ毎回変えてください。目標は忙しく聞こえることではなく、意図があるように聞こえること。あとで歌い返せるなら、良いリフです。",
+          "zh-Hans": "最后做一轮**问答练习**：先在指板较低位置弹1小节，再到更高位置回答1小节，然后继续切换。保持相同节奏，但每次改变结束音。目标不是“很多音”，而是“有意图”——如果你能把这个riff唱回来，它大概率就写对了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-04-12T00:04:35Z",
+  "updatedAt": "2026-04-12T00:04:35Z"
+}
