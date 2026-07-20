@@ -1,0 +1,86 @@
+{
+  "id": "guitar-scale-traffic-tower",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Guitar Scale Traffic Tower. Today you are the controller, not the passenger. Pick D major in one position and imagine every note as a car that needs a clean lane, a clear signal, and a safe landing.",
+          "pt-BR": "Bem-vindo à Torre de Tráfego da Escala na Guitarra. Hoje você é a controladora, não a passageira. Escolha Ré maior em uma posição e imagine cada nota como um carro que precisa de uma faixa limpa, um sinal claro e uma chegada segura.",
+          "es": "Bienvenido a la Torre de Tráfico de la Escala en Guitarra. Hoy eres la controladora, no la pasajera. Elige Re mayor en una posición e imagina cada nota como un coche que necesita un carril limpio, una señal clara y un aterrizaje seguro.",
+          "de": "Willkommen im Gitarren-Skalen-Verkehrsturm. Heute bist du die Lotsin und nicht der Fahrgast. Wähle D-Dur in einer Lage und stelle dir jeden Ton wie ein Auto vor, das eine freie Spur, ein klares Signal und eine sichere Landung braucht.",
+          "ja": "ギター・スケール交通タワーへようこそ。今日は乗客ではなく管制官です。Dメジャーを1つのポジションで選び、各音を、きれいな車線と明確な合図と安全な着地が必要な車だと考えましょう。",
+          "zh-Hans": "欢迎来到吉他音阶交通塔。今天你不是乘客，而是指挥员。选择一个 D 大调把位，把每个音都想成一辆车：它需要干净的车道、明确的信号和安全的落点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Start with a control check. Play the scale ascending and descending in eighth notes at 72 BPM. Accent only beats 1 and 3, then repeat while saying the scale degrees out loud. If a note buzzes or the pick angle feels messy, that lane is congested.",
+          "pt-BR": "Comece com uma checagem de controle. Toque a escala subindo e descendo em colcheias a 72 BPM. Acentue apenas os tempos 1 e 3 e depois repita dizendo os graus da escala em voz alta. Se uma nota trastejar ou a palhetada ficar confusa, essa faixa está congestionada.",
+          "es": "Empieza con una revisión de control. Toca la escala subiendo y bajando en corcheas a 72 BPM. Acentúa solo los tiempos 1 y 3 y luego repite diciendo los grados de la escala en voz alta. Si una nota trastea o la púa se siente desordenada, ese carril está congestionado.",
+          "de": "Beginne mit einem Kontrollcheck. Spiele die Skala auf- und abwärts in Achteln bei 72 BPM. Betone nur die Zählzeiten 1 und 3 und wiederhole dann alles, während du die Skalenstufen laut sagst. Wenn ein Ton schnarrt oder der Pickwinkel chaotisch wirkt, ist diese Spur verstopft.",
+          "ja": "まずはコントロールチェックです。72 BPMでスケールを8分音符で上行・下行します。1拍目と3拍目だけにアクセントを付け、そのあと度数を声に出しながら繰り返します。音がビビったりピックの角度が乱れたりしたら、その車線は渋滞です。",
+          "zh-Hans": "先做控制检查。以 72 BPM 用八分音符上下弹音阶。只强调第 1 拍和第 3 拍，然后一边弹一边大声说出音级。如果某个音打品，或者拨片角度开始混乱，那条车道就堵了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add turn signals. Before every string crossing, slightly pause your picking hand in the air for a split second, then cross with intention instead of luck. Your mission is to make every crossing feel predicted, not rescued at the last second.",
+          "pt-BR": "Agora adicione setas de direção. Antes de cada troca de corda, faça uma micro pausa com a mão da palheta no ar e depois cruze com intenção, não por sorte. A missão é fazer cada troca parecer prevista, não salva no último segundo.",
+          "es": "Ahora añade direccionales. Antes de cada cruce de cuerda, haz una micro pausa con la mano de la púa en el aire y luego cruza con intención, no por suerte. Tu misión es que cada cruce se sienta previsto y no rescatado en el último segundo.",
+          "de": "Jetzt kommen die Blinker dazu. Vor jedem Saitenwechsel hältst du die Anschlaghand einen winzigen Moment in der Luft an und wechselst dann bewusst statt aus Glück. Deine Aufgabe ist, dass sich jeder Wechsel geplant und nicht in letzter Sekunde gerettet anfühlt.",
+          "ja": "次はウインカーです。弦移動の前に、ピッキングの手をほんの一瞬空中で止めてから、運任せではなく意図して移動します。すべての弦移動が、最後に救う動きではなく、最初から予測されていた動きに感じられることが目標です。",
+          "zh-Hans": "现在加入转向灯。每次换弦之前，让拨弦手在空中停极短一瞬，再带着意图完成换弦，而不是靠运气。你的任务是让每次换弦都像提前规划好的动作，而不是最后一秒的补救。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build a traffic pattern: bar 1 climbs straight up the scale, bar 2 descends, bar 3 skips one note every time you change strings, and bar 4 must resolve to the nearest D on beat 1. Loop all four bars until the route feels smooth and your tone stays even.",
+          "pt-BR": "Monte um padrão de tráfego: o compasso 1 sobe reto pela escala, o compasso 2 desce, o compasso 3 pula uma nota toda vez que você troca de corda, e o compasso 4 deve resolver para o Ré mais próximo no tempo 1. Repita os quatro compassos até a rota ficar suave e o timbre seguir uniforme.",
+          "es": "Construye un patrón de tráfico: el compás 1 sube recto por la escala, el compás 2 baja, el compás 3 salta una nota cada vez que cambias de cuerda y el compás 4 debe resolver al Re más cercano en el tiempo 1. Repite los cuatro compases hasta que la ruta se sienta fluida y tu sonido siga parejo.",
+          "de": "Baue ein Verkehrsmuster: Takt 1 steigt gerade durch die Skala auf, Takt 2 steigt ab, Takt 3 überspringt bei jedem Saitenwechsel einen Ton, und Takt 4 muss auf Zählzeit 1 zum nächstliegenden D auflösen. Wiederhole alle vier Takte, bis die Route flüssig wirkt und dein Ton gleichmäßig bleibt.",
+          "ja": "交通パターンを作りましょう。1小節目はスケールをまっすぐ上がり、2小節目は下がり、3小節目は弦を変えるたびに1音飛ばし、4小節目は1拍目で最も近いDに解決します。4小節を繰り返し、ルートが滑らかで音色も均一になるまで続けます。",
+          "zh-Hans": "建立一个交通模式：第 1 小节顺着音阶向上，第 2 小节向下，第 3 小节每次换弦都跳过一个音，第 4 小节必须在第 1 拍落到最近的 D。循环这四个小节，直到路线顺畅、音色均匀。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: keep the same pattern, but move the accents to beats 2 and 4 and add one slide into a target note during bar 4. You are training two skills at once here—time feel and fretboard vision—so do not chase speed if the map gets blurry.",
+          "pt-BR": "Rodada de desafio: mantenha o mesmo padrão, mas mova os acentos para os tempos 2 e 4 e adicione um slide para uma nota-alvo no compasso 4. Aqui você treina duas habilidades ao mesmo tempo — pulsação e visão do braço — então não corra atrás da velocidade se o mapa ficar borrado.",
+          "es": "Ronda de desafío: mantén el mismo patrón, pero mueve los acentos a los tiempos 2 y 4 y añade un slide hacia una nota objetivo en el compás 4. Aquí entrenas dos habilidades a la vez — pulso y visión del mástil — así que no persigas velocidad si el mapa se vuelve borroso.",
+          "de": "Challenge-Runde: Behalte das Muster, verlege die Akzente aber auf 2 und 4 und füge in Takt 4 einen Slide in einen Zielton ein. Du trainierst hier gleichzeitig Time-Feel und Griffbrettblick, also jage nicht dem Tempo nach, wenn die Karte verschwimmt.",
+          "ja": "チャレンジ・ラウンドでは同じパターンのまま、アクセントを2拍目と4拍目へ移し、4小節目でターゲット音へ1回スライドします。ここではタイム感と指板の視界を同時に鍛えるので、地図がぼやけたらスピードを追いかけないでください。",
+          "zh-Hans": "挑战回合：保持同样的模式，但把重音移到第 2 和第 4 拍，并在第 4 小节里加一次滑音冲向目标音。这里你同时在训练节奏感和指板视野，所以一旦地图开始模糊，就不要盲目追速度。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a short solo test. Improvise four bars using only notes from the same D major position, but every phrase must end on either the root or the fifth. If the line sounds organized and alive, your traffic tower is working.",
+          "pt-BR": "Termine com um teste de solo curto. Improvise quatro compassos usando apenas notas da mesma posição de Ré maior, mas cada frase deve acabar na tônica ou na quinta. Se a linha soar organizada e viva, sua torre de tráfego está funcionando.",
+          "es": "Termina con una prueba corta de solo. Improvisa cuatro compases usando solo notas de la misma posición de Re mayor, pero cada frase debe terminar en la tónica o la quinta. Si la línea suena organizada y viva, tu torre de tráfico está funcionando.",
+          "de": "Beende die Lektion mit einem kurzen Solo-Test. Improvisiere vier Takte nur mit Tönen aus derselben D-Dur-Lage, aber jede Phrase muss auf dem Grundton oder der Quinte enden. Wenn die Linie organisiert und lebendig klingt, arbeitet dein Verkehrsturm richtig.",
+          "ja": "最後は短いソロテストです。同じDメジャー・ポジションの音だけで4小節即興しますが、各フレーズは必ずルートか5度で終わります。ラインが整理されつつ生き生き聞こえたら、あなたの交通タワーはうまく機能しています。",
+          "zh-Hans": "最后做一个短 solo 测试。只用同一个 D 大调把位里的音即兴四小节，但每个乐句都必须落在根音或五度上。如果整条线既有条理又有生命力，你的交通塔就真的开始工作了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-20T00:05:03Z",
+  "updatedAt": "2026-07-20T00:05:03Z"
+}

@@ -474,5 +474,33 @@
     "order": 17,
     "createdAt": "2026-07-10T00:05:18Z",
     "updatedAt": "2026-07-10T00:05:18Z"
+  },
+  {
+    "id": "guitar-scale-traffic-tower",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Guitar Scale Traffic Tower",
+        "pt-BR": "Torre de Tráfego da Escala na Guitarra",
+        "es": "Torre de Tráfico de la Escala en Guitarra",
+        "de": "Gitarren-Skalen-Verkehrsturm",
+        "ja": "ギター・スケール交通タワー",
+        "zh-Hans": "吉他音阶交通塔"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Direct your scale movement with lane changes, accents, and smart landings.",
+        "pt-BR": "Controle seus movimentos na escala com mudanças de faixa, acentos e chegadas inteligentes.",
+        "es": "Dirige tu movimiento por la escala con cambios de carril, acentos y aterrizajes inteligentes.",
+        "de": "Steuere deine Skalenbewegung mit Spurwechseln, Akzenten und klugen Landungen.",
+        "ja": "車線変更、アクセント、着地点を使ってスケール移動をコントロールしよう。",
+        "zh-Hans": "用换道、重音和聪明落点来指挥你的音阶移动。"
+      }
+    },
+    "order": 18,
+    "createdAt": "2026-07-20T00:05:03Z",
+    "updatedAt": "2026-07-20T00:05:03Z"
   }
 ]

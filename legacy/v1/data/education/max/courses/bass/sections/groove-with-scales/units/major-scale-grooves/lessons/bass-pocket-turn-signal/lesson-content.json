@@ -1,0 +1,86 @@
+{
+  "id": "bass-pocket-turn-signal",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Today your bass line needs better manners. In Bass Pocket Turn Signal, every move has to announce itself before it arrives. Start in A major and treat beat 1 like the lane marker that keeps the whole band from drifting.",
+          "pt-BR": "Hoje sua linha de baixo precisa de mais boas maneiras. Em Seta do Pocket no Baixo, cada movimento precisa se anunciar antes de chegar. Comece em Lá maior e trate o tempo 1 como a faixa-guia que impede a banda inteira de sair do rumo.",
+          "es": "Hoy tu línea de bajo necesita mejores modales. En Direccional del Pocket en Bajo, cada movimiento debe anunciarse antes de llegar. Empieza en La mayor y trata el tiempo 1 como la línea del carril que evita que toda la banda se desvíe.",
+          "de": "Heute braucht deine Basslinie bessere Manieren. Im Bass-Pocket-Blinker muss jede Bewegung sich ankündigen, bevor sie ankommt. Starte in A-Dur und behandle die Zählzeit 1 wie die Spurmarkierung, die die ganze Band am Driften hindert.",
+          "ja": "今日はあなたのベースラインに、もう少し礼儀が必要です。ベース・ポケット方向指示器では、すべての動きが到着前に予告されなければなりません。Aメジャーから始め、1拍目をバンド全体を流されないように保つ車線マーカーだと考えましょう。",
+          "zh-Hans": "今天你的贝斯线需要更有礼貌一点。在“贝斯口袋转向灯”里，每一个动作都必须在到达前先表明意图。先从 A 大调开始，把第 1 拍当成防止整支乐队跑偏的车道线。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Warm up with a two-bar loop. Bar 1 plays root, fifth, sixth, and octave in steady eighth notes. Bar 2 uses the same notes, but one of them must turn into a ghost note. The point is to feel how a tiny silence can make the next real note hit harder.",
+          "pt-BR": "Aqueça com um loop de dois compassos. O compasso 1 toca tônica, quinta, sexta e oitava em colcheias firmes. O compasso 2 usa as mesmas notas, mas uma delas deve virar ghost note. A ideia é sentir como um pequeno silêncio faz a próxima nota real bater mais forte.",
+          "es": "Calienta con un loop de dos compases. El compás 1 toca tónica, quinta, sexta y octava en corcheas firmes. El compás 2 usa las mismas notas, pero una debe convertirse en ghost note. La idea es sentir cómo un pequeño silencio hace que la siguiente nota real golpee más fuerte.",
+          "de": "Wärme dich mit einer Zweitakt-Schleife auf. Takt 1 spielt Grundton, Quinte, Sexte und Oktave in stabilen Achteln. Takt 2 benutzt dieselben Töne, aber einer davon muss zu einer Ghost Note werden. Es geht darum zu spüren, wie eine kleine Stille den nächsten echten Ton stärker treffen lässt.",
+          "ja": "2小節ループでウォームアップします。1小節目はルート、5度、6度、オクターブを安定した8分音符で弾きます。2小節目は同じ音を使いますが、そのうち1つをゴーストノートに変えます。小さな無音が次の実音をどれだけ強くできるかを感じるのが目的です。",
+          "zh-Hans": "先用一个两小节循环热身。第 1 小节稳定地弹根音、五度、六度和八度。第 2 小节使用同样的音，但其中一个必须改成幽灵音。重点是感受：一个小小的空白，能让下一个真实音打得更重。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now add the turn signal rule: every time you plan to jump more than a step, you must first play a note that points toward the jump. That setup note can be a scale step, a ghost note, or a repeated pitch with a stronger accent. If the leap sounds sudden but logical, you nailed it.",
+          "pt-BR": "Agora adicione a regra da seta: toda vez que você quiser saltar mais do que um grau conjunto, antes precisa tocar uma nota que aponte para esse salto. Essa nota de preparação pode ser um grau da escala, uma ghost note ou uma repetição com acento mais forte. Se o salto soar repentino e lógico ao mesmo tempo, você acertou.",
+          "es": "Ahora añade la regla de la direccional: cada vez que quieras saltar más de un grado, primero debes tocar una nota que apunte a ese salto. Esa nota de preparación puede ser un grado de la escala, una ghost note o una repetición con más acento. Si el salto suena repentino pero lógico, lo lograste.",
+          "de": "Jetzt gilt die Blinker-Regel: Immer wenn du weiter als einen Schritt springen willst, musst du zuerst einen Ton spielen, der auf den Sprung hinweist. Dieser Vorbereitungston kann ein Skalenton, eine Ghost Note oder eine Wiederholung mit stärkerem Akzent sein. Wenn der Sprung plötzlich und trotzdem logisch klingt, hast du es geschafft.",
+          "ja": "次に方向指示器ルールです。2度進行より大きく跳ぶ前には、必ずその跳躍を予告する音を1つ入れます。その準備音はスケール音でも、ゴーストノートでも、強いアクセント付きの同音反復でもかまいません。跳躍が突然なのに筋が通って聞こえたら成功です。",
+          "zh-Hans": "现在加入“转向灯规则”：每次你想做超过级进的大跳之前，必须先弹一个会指向那个跳跃的音。这个预告音可以是音阶音、幽灵音，或者带更强重音的重复音。如果这个跳跃听起来突然却合理，那你就做对了。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Build four traffic bars. Bar 1 stays low and stubborn. Bar 2 climbs toward the octave. Bar 3 leaves one full beat of space. Bar 4 must land cleanly on A or E and make the drummer sound smarter. Repeat until each bar has a different personality without breaking the pocket.",
+          "pt-BR": "Construa quatro compassos de tráfego. O compasso 1 fica grave e teimoso. O compasso 2 sobe em direção à oitava. O compasso 3 deixa um tempo inteiro de espaço. O compasso 4 precisa aterrissar limpo em Lá ou Mi e fazer o baterista soar mais inteligente. Repita até cada compasso ter uma personalidade diferente sem quebrar o pocket.",
+          "es": "Construye cuatro compases de tráfico. El compás 1 se queda grave y terco. El compás 2 sube hacia la octava. El compás 3 deja un tiempo completo de espacio. El compás 4 debe aterrizar limpio en La o Mi y hacer que el baterista suene más inteligente. Repite hasta que cada compás tenga una personalidad distinta sin romper el pocket.",
+          "de": "Baue vier Verkehrstakte. Takt 1 bleibt tief und stur. Takt 2 steigt zur Oktave hoch. Takt 3 lässt einen ganzen Schlag frei. Takt 4 muss sauber auf A oder E landen und den Drummer klüger klingen lassen. Wiederhole alles, bis jeder Takt eine eigene Persönlichkeit hat, ohne das Pocket zu zerstören.",
+          "ja": "4つの交通小節を作りましょう。1小節目は低く頑固に、2小節目はオクターブへ上がり、3小節目は丸々1拍空け、4小節目はAかEにきれいに着地してドラマーをより賢く聞こえさせます。各小節が別の性格を持ちながら、ポケットを壊さないところまで繰り返します。",
+          "zh-Hans": "建立四个交通小节。第 1 小节保持低位、倔强；第 2 小节向八度攀升；第 3 小节完整留出一拍空白；第 4 小节必须干净地落回 A 或 E，并让鼓手听起来更聪明。循环直到每个小节都有不同个性，同时 pocket 依然稳固。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: move the metronome to 84 BPM and put one syncopated entry somewhere in bar 3 or 4. Only one. Scarcity is the lesson. A tasteful surprise is stronger than a crowded bar full of tricks.",
+          "pt-BR": "Rodada de desafio: leve o metrônomo para 84 BPM e coloque uma entrada sincopada em algum ponto do compasso 3 ou 4. Só uma. A escassez é a lição. Uma surpresa de bom gosto é mais forte do que um compasso lotado de truques.",
+          "es": "Ronda de desafío: sube el metrónomo a 84 BPM y coloca una entrada sincopada en algún punto del compás 3 o 4. Solo una. La escasez es la lección. Una sorpresa con buen gusto es más fuerte que un compás lleno de trucos.",
+          "de": "Challenge-Runde: Stell das Metronom auf 84 BPM und platziere genau einen synkopierten Einsatz in Takt 3 oder 4. Nur einen. Knappheit ist hier die Lektion. Eine geschmackvolle Überraschung ist stärker als ein überfüllter Takt voller Tricks.",
+          "ja": "チャレンジ・ラウンドではメトロノームを84 BPMに上げ、3小節目か4小節目のどこかにシンコペーションの入りを1回だけ置きます。1回だけです。少なさそのものがレッスンです。センスのよい驚きは、トリックだらけの混んだ小節より強いのです。",
+          "zh-Hans": "挑战回合：把节拍器调到 84 BPM，并在第 3 或第 4 小节中放入一次切分进入。只能一次。稀缺感本身就是这节课。一个有品味的惊喜，比一整小节塞满花招更有力量。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish by recording eight bars and listening back for honesty. Can you hear the setup before the leap? Can you hear the silence before the landing? If yes, your groove is not just walking — it is communicating.",
+          "pt-BR": "Termine gravando oito compassos e ouvindo com honestidade. Dá para ouvir a preparação antes do salto? Dá para ouvir o silêncio antes da chegada? Se sim, seu groove não está apenas andando — ele está se comunicando.",
+          "es": "Termina grabando ocho compases y escuchando con honestidad. ¿Se oye la preparación antes del salto? ¿Se oye el silencio antes del aterrizaje? Si sí, tu groove no solo camina: se comunica.",
+          "de": "Zum Schluss nimmst du acht Takte auf und hörst ehrlich zurück. Hörst du die Vorbereitung vor dem Sprung? Hörst du die Stille vor der Landung? Wenn ja, läuft dein Groove nicht nur — er kommuniziert.",
+          "ja": "最後に8小節録音して、正直に聴き返してください。跳躍の前の準備は聞こえますか。着地の前の沈黙は聞こえますか。もし聞こえるなら、そのグルーヴはただ進んでいるのではなく、ちゃんと会話しています。",
+          "zh-Hans": "最后录下 8 小节，再诚实地回听。你能听到跳跃前的铺垫吗？你能听到落地前的空白吗？如果能，那么你的 groove 就不只是“在走”，而是真的在说话。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-20T00:05:03Z",
+  "updatedAt": "2026-07-20T00:05:03Z"
+}

@@ -2042,5 +2042,33 @@
     "order": 73,
     "createdAt": "2026-07-15T00:07:03Z",
     "updatedAt": "2026-07-15T00:07:03Z"
+  },
+  {
+    "id": "bass-pocket-turn-signal",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Bass Pocket Turn Signal",
+        "pt-BR": "Seta do Pocket no Baixo",
+        "es": "Direccional del Pocket en Bajo",
+        "de": "Bass-Pocket-Blinker",
+        "ja": "ベース・ポケット方向指示器",
+        "zh-Hans": "贝斯口袋转向灯"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Train your groove to announce every move before it lands.",
+        "pt-BR": "Treine seu groove para anunciar cada movimento antes da chegada.",
+        "es": "Entrena tu groove para anunciar cada movimiento antes de aterrizar.",
+        "de": "Trainiere deinen Groove so, dass jede Bewegung sich vorher ankündigt.",
+        "ja": "着地の前にすべての動きを予告できるグルーヴを育てよう。",
+        "zh-Hans": "训练你的 groove，让每次动作都在落地前先发出信号。"
+      }
+    },
+    "order": 74,
+    "createdAt": "2026-07-20T00:05:03Z",
+    "updatedAt": "2026-07-20T00:05:03Z"
   }
 ]

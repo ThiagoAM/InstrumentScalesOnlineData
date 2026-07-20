@@ -1482,5 +1482,33 @@
     "order": 53,
     "createdAt": "2026-07-14T00:05:00Z",
     "updatedAt": "2026-07-14T00:05:00Z"
+  },
+  {
+    "id": "piano-scale-wind-tunnel",
+    "level": "intermediate",
+    "difficulty": "medium",
+    "name": {
+      "values": {
+        "en": "Piano Scale Wind Tunnel",
+        "pt-BR": "Túnel de Vento das Escalas no Piano",
+        "es": "Túnel de Viento de Escalas en Piano",
+        "de": "Klavier-Skalen-Windkanal",
+        "ja": "ピアノ・スケール風洞",
+        "zh-Hans": "钢琴音阶风洞"
+      }
+    },
+    "description": {
+      "values": {
+        "en": "Test your scale control under pressure and keep every note stable.",
+        "pt-BR": "Teste o controle da sua escala sob pressão e mantenha cada nota estável.",
+        "es": "Pon a prueba tu control de escala bajo presión y mantén cada nota estable.",
+        "de": "Teste deine Skalenkontrolle unter Druck und halte jeden Ton stabil.",
+        "ja": "プレッシャーの中でも各音を安定させるスケール・コントロールを鍛えよう。",
+        "zh-Hans": "在压力下测试你的音阶控制，让每个音都保持稳定。"
+      }
+    },
+    "order": 54,
+    "createdAt": "2026-07-20T00:05:04Z",
+    "updatedAt": "2026-07-20T00:05:04Z"
   }
 ]

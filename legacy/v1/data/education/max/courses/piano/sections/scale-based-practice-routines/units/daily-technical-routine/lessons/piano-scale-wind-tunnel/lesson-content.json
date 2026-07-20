@@ -1,0 +1,86 @@
+{
+  "id": "piano-scale-wind-tunnel",
+  "blocks": [
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Welcome to the Piano Scale Wind Tunnel. Imagine that every uneven finger, rushing rhythm, or collapsing wrist is a gust of wind trying to knock your scale off course. Today you will practice keeping the line stable while the pressure increases.",
+          "pt-BR": "Bem-vindo ao Túnel de Vento das Escalas no Piano. Imagine que cada dedo irregular, ritmo apressado ou punho caindo é uma rajada tentando tirar sua escala do rumo. Hoje você vai praticar como manter a linha estável enquanto a pressão aumenta.",
+          "es": "Bienvenido al Túnel de Viento de Escalas en Piano. Imagina que cada dedo irregular, ritmo apurado o muñeca que se cae es una ráfaga que intenta sacar tu escala de rumbo. Hoy practicarás cómo mantener la línea estable mientras la presión aumenta.",
+          "de": "Willkommen im Klavier-Skalen-Windkanal. Stell dir vor, dass jeder ungleichmäßige Finger, jeder eilende Rhythmus oder jedes einknickende Handgelenk eine Windböe ist, die deine Skala aus der Bahn werfen will. Heute übst du, die Linie stabil zu halten, während der Druck steigt.",
+          "ja": "ピアノ・スケール風洞へようこそ。指のムラ、走るリズム、崩れる手首のすべてが、スケールをコースから外そうとする風だと想像してください。今日は圧力が上がってもラインを安定させる練習をします。",
+          "zh-Hans": "欢迎来到钢琴音阶风洞。把每一次手指不均匀、节奏抢拍或手腕塌下去，都想成一阵想把音阶吹偏的风。今天你要练的是：压力变大时，线条依然稳定。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Choose B-flat major or another key that already makes you slightly suspicious. Play one octave hands separately, then two octaves hands together, at a calm tempo. Your only job is to keep the tone level from the first note to the last, as if the air around the keyboard were perfectly smooth.",
+          "pt-BR": "Escolha Si bemol maior ou outra tonalidade que já deixe você um pouco desconfiada. Toque uma oitava com as mãos separadas e depois duas oitavas com as mãos juntas em andamento calmo. Seu único trabalho é manter o som nivelado da primeira à última nota, como se o ar ao redor do teclado estivesse perfeitamente liso.",
+          "es": "Elige Si bemol mayor u otra tonalidad que ya te haga desconfiar un poco. Toca una octava con manos separadas y luego dos octavas con manos juntas a un tempo tranquilo. Tu único trabajo es mantener el sonido parejo de la primera nota a la última, como si el aire alrededor del teclado fuera perfectamente liso.",
+          "de": "Wähle B-Dur oder eine andere Tonart, der du schon leicht misstraust. Spiele eine Oktave mit getrennten Händen und dann zwei Oktaven mit beiden Händen zusammen in ruhigem Tempo. Deine einzige Aufgabe ist, den Ton vom ersten bis zum letzten Ton gleichmäßig zu halten, als wäre die Luft über der Tastatur vollkommen glatt.",
+          "ja": "Bフラット・メジャー、または少し苦手意識のある調を選びます。まず片手ずつ1オクターブ、そのあと両手で2オクターブを落ち着いたテンポで弾きます。最初の音から最後の音まで音量と音質を均一に保つことだけが仕事です。まるで鍵盤の上の空気が完全に滑らかであるかのように。",
+          "zh-Hans": "选择降 B 大调，或者另一个一想到就有点不放心的调。先分手弹一组八度，再双手合起来弹两组八度，速度保持平静。你唯一的任务，是让第一个音到最后一个音的音色和音量都尽量平稳，就像键盘上方的空气完全光滑。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Now turn on the wind. Add a crescendo going up and a decrescendo coming down, but do not let the tempo speed up with the volume. If the louder notes make your shoulders tense or your thumbs crash, the tunnel is winning and you need a smaller dynamic change.",
+          "pt-BR": "Agora ligue o vento. Faça um crescendo subindo e um decrescendo descendo, mas não deixe o andamento acelerar junto com o volume. Se as notas mais fortes tensionarem seus ombros ou fizerem os polegares baterem pesado, o túnel está vencendo e você precisa de uma mudança dinâmica menor.",
+          "es": "Ahora enciende el viento. Haz un crescendo al subir y un decrescendo al bajar, pero no dejes que el tempo se acelere junto con el volumen. Si las notas fuertes tensan tus hombros o hacen que los pulgares golpeen, el túnel está ganando y necesitas un cambio dinámico más pequeño.",
+          "de": "Jetzt schaltest du den Wind ein. Spiele beim Aufstieg ein Crescendo und beim Abstieg ein Decrescendo, ohne dass das Tempo mit der Lautstärke schneller wird. Wenn die lauten Töne deine Schultern anspannen oder die Daumen aufprallen lassen, gewinnt der Windkanal und du brauchst eine kleinere Dynamikänderung.",
+          "ja": "次に風を起こします。上行でクレッシェンド、下行でデクレッシェンドを付けますが、音量と一緒にテンポが速くならないようにします。大きい音で肩が固まったり、親指がぶつかったりするなら、風洞が勝っているのでダイナミクス差を小さくしましょう。",
+          "zh-Hans": "现在把风打开。上行做渐强，下行做渐弱，但不要让速度随着音量一起加快。如果大声的音让肩膀紧起来，或者让拇指砸下去，说明风洞赢了，你需要把力度变化做得更小一点。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Next, place a checkpoint at every thumb crossing. Stop for one beat right before the crossing, then continue without losing the pulse. This tiny pause teaches your hands to prepare instead of panic, which is exactly what clean scale playing needs under pressure.",
+          "pt-BR": "Em seguida, coloque um checkpoint em cada passagem do polegar. Pare por um tempo logo antes da passagem e depois continue sem perder o pulso. Essa pequena pausa ensina suas mãos a se preparar em vez de entrar em pânico, exatamente o que uma escala limpa precisa sob pressão.",
+          "es": "Luego coloca un checkpoint en cada cruce de pulgar. Detente un pulso justo antes del cruce y después sigue sin perder el pulso. Esta pausa mínima enseña a tus manos a prepararse en vez de entrar en pánico, justo lo que necesita una escala limpia bajo presión.",
+          "de": "Setze als Nächstes an jeden Daumenuntersatz einen Kontrollpunkt. Halte genau einen Schlag direkt vor dem Wechsel an und spiele dann weiter, ohne den Puls zu verlieren. Diese winzige Pause lehrt deine Hände, sich vorzubereiten statt in Panik zu geraten — genau das braucht sauberes Skalen-Spiel unter Druck.",
+          "ja": "続いて、親指くぐりの前に毎回チェックポイントを置きます。交差の直前で1拍止まり、そのあと拍を失わずに続けます。この小さな停止は、手にパニックではなく準備を教えます。プレッシャー下でのきれいなスケールに必要なのはまさにそれです。",
+          "zh-Hans": "接着，在每次拇指穿指前都设一个检查点。穿指之前先停一拍，然后继续，但不能丢掉脉冲。这个微小的停顿会教你的手先准备、别慌张，而这正是压力下干净音阶最需要的能力。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Challenge round: keep the same scale, but switch articulation every two beats — two beats legato, two beats light staccato, two beats legato again. The sound should change, but the hand shape and rhythmic spine should stay trustworthy.",
+          "pt-BR": "Rodada de desafio: mantenha a mesma escala, mas troque a articulação a cada dois tempos — dois tempos em legato, dois tempos em staccato leve, depois dois tempos em legato de novo. O som deve mudar, mas a forma da mão e a espinha rítmica precisam continuar confiáveis.",
+          "es": "Ronda de desafío: mantén la misma escala, pero cambia la articulación cada dos pulsos — dos pulsos legato, dos pulsos staccato ligero y otra vez dos pulsos legato. El sonido debe cambiar, pero la forma de la mano y la columna rítmica deben seguir siendo confiables.",
+          "de": "Challenge-Runde: Behalte dieselbe Skala, wechsle aber alle zwei Schläge die Artikulation — zwei Schläge legato, zwei Schläge leicht staccato, dann wieder zwei Schläge legato. Der Klang darf sich ändern, aber Handform und rhythmisches Rückgrat müssen zuverlässig bleiben.",
+          "ja": "チャレンジ・ラウンドでは同じスケールのまま、2拍ごとにアーティキュレーションを変えます。2拍レガート、2拍軽いスタッカート、また2拍レガートです。音の表情は変わってよいですが、手の形とリズムの背骨は信頼できるままでなければなりません。",
+          "zh-Hans": "挑战回合：保持同一条音阶，但每两拍切换一次连断奏——两拍连奏、两拍轻断奏、再两拍连奏。声音表情可以变化，但手型和节奏主干必须始终可靠。"
+        }
+      }
+    },
+    {
+      "type": "text",
+      "value": {
+        "values": {
+          "en": "Finish with a pilot test. Play the full scale once more and ask three questions: did the tone stay centered, did the rhythm stay calm, and did the crossings stay organized? If two answers are yes, the tunnel is helping. If all three are yes, you are flying.",
+          "pt-BR": "Termine com um teste de piloto. Toque a escala completa mais uma vez e faça três perguntas: o timbre ficou centrado, o ritmo ficou calmo e as passagens ficaram organizadas? Se duas respostas forem sim, o túnel está ajudando. Se as três forem sim, você está voando.",
+          "es": "Termina con una prueba de piloto. Toca la escala completa una vez más y hazte tres preguntas: ¿el sonido quedó centrado, el ritmo quedó calmado y los cruces quedaron organizados? Si dos respuestas son sí, el túnel está ayudando. Si las tres son sí, estás volando.",
+          "de": "Zum Schluss kommt der Pilotentest. Spiele die ganze Skala noch einmal und stelle dir drei Fragen: blieb der Klang zentriert, blieb der Rhythmus ruhig, und blieben die Übergänge organisiert? Wenn zwei Antworten Ja sind, hilft der Windkanal. Wenn alle drei Ja sind, fliegst du.",
+          "ja": "最後はパイロット・テストです。スケールをもう一度通して弾き、3つ質問します。音は中心を保てたか、リズムは落ち着いていたか、交差は整理されていたか。2つが「はい」なら風洞は役立っています。3つ全部が「はい」なら、もう飛べています。",
+          "zh-Hans": "最后做一次飞行员测试。完整再弹一遍音阶，然后问自己三个问题：音色有没有保持居中，节奏有没有保持冷静，穿指有没有保持有条理？如果有两个答案是“有”，风洞就在帮你。如果三个都是“有”，那你已经在飞了。"
+        }
+      }
+    }
+  ],
+  "tests": [],
+  "createdAt": "2026-07-20T00:05:04Z",
+  "updatedAt": "2026-07-20T00:05:04Z"
+}
