@@ -435,6 +435,31 @@
                 "zh-Hans": "双手从中心向外再返回时保持平衡。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/contrary-motion-scale-mirror/lesson.md"
+            },
+            {
+              "id": "piano-shell-lane-switch",
+              "order": 3,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell lane switch",
+                "pt-BR": "Troca de trilha com shells no piano",
+                "es": "Cambio de carril con shells en piano",
+                "de": "Shell-Spurwechsel am Klavier",
+                "ja": "ピアノ・シェルのレーンチェンジ",
+                "zh-Hans": "钢琴壳音轨道切换"
+              },
+              "summaries": {
+                "en": "Move scale fragments between guide-tone shells without losing hand balance.",
+                "pt-BR": "Mova fragmentos de escala entre shells de notas-guia sem perder o equilíbrio das mãos.",
+                "es": "Mueve fragmentos de escala entre shells de notas guía sin perder el equilibrio de las manos.",
+                "de": "Bewege Skalenfragmente zwischen Guide-Tone-Shells, ohne die Balance der Hände zu verlieren.",
+                "ja": "ガイドトーンのシェルの間でスケール断片を動かし、両手のバランスを保ちます。",
+                "zh-Hans": "在导音壳式和弦之间移动音阶片段，同时保持双手平衡。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/piano-shell-lane-switch/lesson.md"
             }
           ]
         },
@@ -508,6 +533,56 @@
                 "zh-Hans": "只改变第六级，听同一根音上的调式变化。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/dorian-aeolian-color-switch/lesson.md"
+            },
+            {
+              "id": "guitar-target-note-relay",
+              "order": 3,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar target-note relay",
+                "pt-BR": "Revezamento de notas-alvo na guitarra",
+                "es": "Relevo de notas objetivo en guitarra",
+                "de": "Zielton-Staffel auf der Gitarre",
+                "ja": "ギター・ターゲットノート・リレー",
+                "zh-Hans": "吉他目标音接力"
+              },
+              "summaries": {
+                "en": "Aim each short phrase at a chord tone by beat three across a four-chord loop.",
+                "pt-BR": "Aponte cada frase curta para uma nota do acorde até o terceiro tempo em um loop de quatro acordes.",
+                "es": "Dirige cada frase corta hacia una nota del acorde antes del tercer tiempo en un bucle de cuatro acordes.",
+                "de": "Ziele jede kurze Phrase bis Schlag drei auf einen Akkordton in einer Vier-Akkord-Schleife.",
+                "ja": "4コードのループで、各短いフレーズを3拍目までにコードトーンへ着地させます。",
+                "zh-Hans": "在四和弦循环中，让每个短句在第三拍前落到和弦音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-target-note-relay/lesson.md"
+            },
+            {
+              "id": "bass-guide-tone-crosswalk",
+              "order": 4,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass guide-tone crosswalk",
+                "pt-BR": "Travessia de notas-guia no baixo",
+                "es": "Cruce de notas guía en bajo",
+                "de": "Guide-Tone-Zebrastreifen am Bass",
+                "ja": "ベース・ガイドトーン横断歩道",
+                "zh-Hans": "贝斯导音斑马线"
+              },
+              "summaries": {
+                "en": "Walk into thirds and sevenths so every bar change sounds deliberate.",
+                "pt-BR": "Caminhe até terças e sétimas para que cada troca de compasso soe intencional.",
+                "es": "Camina hacia terceras y séptimas para que cada cambio de compás suene intencional.",
+                "de": "Gehe zu Terzen und Septimen, damit jeder Taktwechsel absichtlich klingt.",
+                "ja": "3度と7度へ歩いて進み、各小節の変化を意図的に響かせます。",
+                "zh-Hans": "走向三音和七音，让每次换小节都显得有意识。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-guide-tone-crosswalk/lesson.md"
             }
           ]
         }
