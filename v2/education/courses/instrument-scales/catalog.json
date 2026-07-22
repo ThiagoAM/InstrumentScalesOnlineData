@@ -583,6 +583,81 @@
                 "zh-Hans": "走向三音和七音，让每次换小节都显得有意识。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/bass-guide-tone-crosswalk/lesson.md"
+            },
+            {
+              "id": "guitar-chord-tone-trampoline",
+              "order": 5,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar Chord-Tone Trampoline",
+                "pt-BR": "Trampolim de Tons de Acorde na Guitarra",
+                "es": "Trampolín de Tonos de Acorde en Guitarra",
+                "de": "Gitarren-Akkordton-Trampolin",
+                "ja": "ギター・コードトーン・トランポリン",
+                "zh-Hans": "吉他和弦音蹦床挑战"
+              },
+              "summaries": {
+                "en": "Bounce through scale notes and land hard on chord tones without losing groove or nerve.",
+                "pt-BR": "Salte pelas notas da escala e pouse firme nos tons do acorde sem perder o groove nem a coragem.",
+                "es": "Rebota por las notas de la escala y aterriza con fuerza en los tonos del acorde sin perder groove ni valentía.",
+                "de": "Springe durch Skalentöne und lande sicher auf Akkordtönen, ohne Groove oder Mut zu verlieren.",
+                "ja": "スケール音を跳ね回りながら、グルーヴも度胸も失わずにコードトーンへ着地しよう。",
+                "zh-Hans": "在音阶音之间弹跳，同时稳稳落在和弦音上，不丢掉律动，也不丢掉胆量。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-chord-tone-trampoline/lesson.md"
+            },
+            {
+              "id": "bass-approach-note-alley",
+              "order": 6,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass Approach-Note Alley",
+                "pt-BR": "Corredor das Notas de Aproximação no Baixo",
+                "es": "Callejón de Notas de Aproximación para Bajo",
+                "de": "Bass Approach-Note Alley",
+                "ja": "ベース・アプローチノート・アレー",
+                "zh-Hans": "贝斯逼近音小巷"
+              },
+              "summaries": {
+                "en": "Build tougher walking lines by sneaking into chord tones with timing, taste, and zero panic.",
+                "pt-BR": "Construa walking lines mais fortes entrando nos tons do acorde com tempo, bom gosto e zero pânico.",
+                "es": "Construye walking lines más sólidas entrando a los tonos del acorde con tiempo, gusto y cero pánico.",
+                "de": "Baue stärkere Walking-Lines, indem du mit Timing, Geschmack und ohne Panik in Akkordtöne hineinsteuerst.",
+                "ja": "タイム感とセンスを保ったまま、慌てずにコードトーンへ滑り込む強いウォーキングラインを作ろう。",
+                "zh-Hans": "用节奏感、品味和零慌张感，把更扎实的 walking line 带进和弦音里。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-approach-note-alley/lesson.md"
+            },
+            {
+              "id": "piano-voice-leading-arcade",
+              "order": 7,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano Voice-Leading Arcade",
+                "pt-BR": "Arcade de Voice Leading no Piano",
+                "es": "Arcade de Voice Leading para Piano",
+                "de": "Klavier Voice-Leading Arcade",
+                "ja": "ピアノ・ボイスリーディング・アーケード",
+                "zh-Hans": "钢琴声部连接街机挑战"
+              },
+              "summaries": {
+                "en": "Turn scale practice into a score-chasing game where every chord change rewards smooth harmonic aim.",
+                "pt-BR": "Transforme o estudo de escalas em um jogo de pontuação no qual cada mudança de acorde recompensa uma boa mira harmônica.",
+                "es": "Convierte la práctica de escalas en un juego de puntuación donde cada cambio de acorde recompensa una buena puntería armónica.",
+                "de": "Verwandle Skalenpraxis in ein Punktespiel, bei dem jeder Akkordwechsel saubere harmonische Treffsicherheit belohnt.",
+                "ja": "音階練習を、コードチェンジごとに滑らかなハーモニーの狙いが得点になるゲームに変えよう。",
+                "zh-Hans": "把音阶练习变成一场计分游戏，让每次和弦变化都奖励顺滑而准确的和声落点。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-voice-leading-arcade/lesson.md"
             }
           ]
         }

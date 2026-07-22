@@ -1,0 +1,158 @@
+---
+schema: 2
+id: guitar-chord-tone-trampoline
+course: instrument-scales
+level: advanced
+section: advanced
+unit: target-and-resolve
+order: 5
+revision: 1
+estimatedMinutes: 8
+instrument: guitar
+title.en: Guitar Chord-Tone Trampoline
+title.pt-BR: Trampolim de Tons de Acorde na Guitarra
+title.es: Trampolín de Tonos de Acorde en Guitarra
+title.de: Gitarren-Akkordton-Trampolin
+title.ja: ギター・コードトーン・トランポリン
+title.zh-Hans: 吉他和弦音蹦床挑战
+summary.en: Bounce through scale notes and land hard on chord tones without losing groove or nerve.
+summary.pt-BR: Salte pelas notas da escala e pouse firme nos tons do acorde sem perder o groove nem a coragem.
+summary.es: Rebota por las notas de la escala y aterriza con fuerza en los tonos del acorde sin perder groove ni valentía.
+summary.de: Springe durch Skalentöne und lande sicher auf Akkordtönen, ohne Groove oder Mut zu verlieren.
+summary.ja: スケール音を跳ね回りながら、グルーヴも度胸も失わずにコードトーンへ着地しよう。
+summary.zh-Hans: 在音阶音之间弹跳，同时稳稳落在和弦音上，不丢掉律动，也不丢掉胆量。
+---
+
+
+:::localized
+
+:::locale en
+
+# Guitar Chord-Tone Trampoline
+
+
+Set a metronome at **78 BPM** and loop **| Am7 | D7 | Gmaj7 | Em7 |**. Your playground is **G major / A Dorian**. For one chorus, you may start each phrase on any scale note, but you must **land on a chord tone by beat 1 of the next bar**. Think trampoline, not staircase: the jump is free, the landing must be deliberate.
+
+Now limit the targets. Over **Am7** aim for **C or G**; over **D7** aim for **F# or C**; over **Gmaj7** aim for **B or F#**; over **Em7** aim for **G or D**. Play two choruses with only **8th notes**, then one chorus where each bar includes **one rest**. Silence should make the target note feel louder, not more random.
+
+Add a fretboard rule: first chorus stays mostly on strings **2-4**, second chorus moves mostly to strings **3-5**. Keep the same harmonic targets while the geography changes. If your phrasing falls apart when you shift position, that is the lesson talking.
+
+Time for the trampoline bounce. Before each target note, insert exactly **one non-chord-tone neighbor** from the scale, either a step above or below. Example over Gmaj7: **A-B** or **C-B**. The wrong note is only there to create lift; if it steals the spotlight, you used too much force.
+
+Boss round rhythm: make bar 1 mostly straight 8ths, bar 2 include a syncopated entrance after beat 2, bar 3 include one held note of at least **two beats**, and bar 4 end with a short pickup into the next chorus. You are training not just note choice, but phrase architecture.
+
+Final challenge: record a **90-second solo** using the same loop. In the first 30 seconds, land only on 3rds and 7ths. In the next 30, allow roots and 5ths. In the last 30, use one bend, slide, or vibrato per phrase to make the targets sing. When you finish, answer: **Which target note gave you the strongest sense of arrival, and which bar tempted you to rush?**
+
+:::checkpoint Play one full chorus that lands on the planned target at every chord change.
+
+
+:::locale pt-BR
+
+# Trampolim de Tons de Acorde na Guitarra
+
+
+Ajuste o metrônomo para **78 BPM** e faça um loop em **| Am7 | D7 | Gmaj7 | Em7 |**. Seu terreno é **Sol maior / Lá dórico**. Durante um chorus, você pode começar cada frase em qualquer nota da escala, mas precisa **pousar em um tom do acorde no tempo 1 do compasso seguinte**. Pense em trampolim, não em escada: o salto é livre, o pouso precisa ser intencional.
+
+Agora limite os alvos. Em **Am7**, mire em **C ou G**; em **D7**, mire em **F# ou C**; em **Gmaj7**, mire em **B ou F#**; em **Em7**, mire em **G ou D**. Toque dois choruses só com **colcheias**, depois um chorus em que cada compasso tenha **uma pausa**. O silêncio deve fazer a nota-alvo soar mais forte, não mais aleatória.
+
+Adicione uma regra de braço: o primeiro chorus fica principalmente nas cordas **2-4**; o segundo chorus se move principalmente para as cordas **3-5**. Mantenha os mesmos alvos harmônicos enquanto a geografia muda. Se o fraseado desmontar quando você mudar de posição, a lição está falando com você.
+
+Hora do quique no trampolim. Antes de cada nota-alvo, insira exatamente **uma nota vizinha que não seja tom do acorde**, acima ou abaixo por grau conjunto. Exemplo sobre Gmaj7: **A-B** ou **C-B**. A nota “errada” só está ali para criar impulso; se ela roubar a cena, você exagerou na força.
+
+Boss round de ritmo: faça o compasso 1 principalmente com colcheias retas, o compasso 2 com uma entrada sincopada depois do tempo 2, o compasso 3 com uma nota sustentada por pelo menos **dois tempos**, e o compasso 4 terminando com uma pequena anacruse para o próximo chorus. Você está treinando não só escolha de notas, mas arquitetura de frase.
+
+Desafio final: grave um **solo de 90 segundos** no mesmo loop. Nos primeiros 30 segundos, pouse apenas em 3as e 7as. Nos 30 seguintes, libere tônicas e 5as. Nos últimos 30, use um bend, slide ou vibrato por frase para fazer os alvos cantarem. Ao terminar, responda: **Qual nota-alvo deu a sensação mais forte de chegada, e em qual compasso você mais quis correr?**
+
+:::checkpoint Toque um chorus completo pousando no alvo planejado em cada mudança de acorde.
+
+
+:::locale es
+
+# Trampolín de Tonos de Acorde en Guitarra
+
+
+Pon el metrónomo en **78 BPM** y crea un loop de **| Am7 | D7 | Gmaj7 | Em7 |**. Tu terreno de juego es **Sol mayor / La dórico**. Durante un coro puedes empezar cada frase en cualquier nota de la escala, pero debes **caer en un tono del acorde en el tiempo 1 del compás siguiente**. Piensa en un trampolín, no en una escalera: el salto es libre, el aterrizaje debe ser intencional.
+
+Ahora limita los objetivos. Sobre **Am7** apunta a **C o G**; sobre **D7** apunta a **F# o C**; sobre **Gmaj7** apunta a **B o F#**; sobre **Em7** apunta a **G o D**. Toca dos coros usando solo **corcheas**, y luego un coro donde cada compás incluya **un silencio**. El silencio debe hacer que la nota objetivo suene más fuerte, no más aleatoria.
+
+Añade una regla de diapasón: el primer coro se queda sobre todo en las cuerdas **2-4**, y el segundo se mueve sobre todo a las cuerdas **3-5**. Mantén los mismos objetivos armónicos mientras cambia la geografía. Si tu fraseo se cae cuando cambias de posición, la lección ya te está hablando.
+
+Hora del rebote. Antes de cada nota objetivo, inserta exactamente **una nota vecina que no sea tono del acorde**, un paso arriba o abajo dentro de la escala. Ejemplo sobre Gmaj7: **A-B** o **C-B**. La nota “incorrecta” solo está ahí para darte impulso; si roba protagonismo, usaste demasiada fuerza.
+
+Ronda jefe de ritmo: haz que el compás 1 sea principalmente de corcheas rectas, que el compás 2 incluya una entrada sincopada después del tiempo 2, que el compás 3 tenga una nota sostenida de al menos **dos tiempos**, y que el compás 4 termine con un pequeño pickup hacia el siguiente coro. No entrenas solo elección de notas, sino arquitectura de frase.
+
+Desafío final: graba un **solo de 90 segundos** sobre el mismo loop. En los primeros 30 segundos aterriza solo en 3as y 7as. En los siguientes 30, permite tónicas y 5as. En los últimos 30, usa un bend, slide o vibrato por frase para hacer cantar los objetivos. Cuando termines, responde: **¿Qué nota objetivo te dio la sensación más fuerte de llegada y en qué compás tuviste la tentación de correr?**
+
+:::checkpoint Toca un chorus completo aterrizando en el objetivo previsto en cada cambio de acorde.
+
+
+:::locale de
+
+# Gitarren-Akkordton-Trampolin
+
+
+Stell das Metronom auf **78 BPM** und loope **| Am7 | D7 | Gmaj7 | Em7 |**. Dein Spielfeld ist **G-Dur / A-Dorisch**. Für einen Chorus darf jede Phrase auf jedem Skalenton beginnen, aber du musst **auf Zählzeit 1 des nächsten Takts auf einem Akkordton landen**. Denk an ein Trampolin, nicht an eine Treppe: Der Absprung ist frei, die Landung muss bewusst sein.
+
+Jetzt werden die Ziele enger. Über **Am7** zielst du auf **C oder G**; über **D7** auf **F# oder C**; über **Gmaj7** auf **B oder F#**; über **Em7** auf **G oder D**. Spiele zwei Chorusse nur mit **Achtelnoten**, dann einen Chorus, in dem jeder Takt **eine Pause** enthält. Die Stille soll den Zielton stärker wirken lassen, nicht zufälliger.
+
+Füge eine Griffbrett-Regel hinzu: Der erste Chorus bleibt überwiegend auf den Saiten **2-4**, der zweite wechselt überwiegend auf die Saiten **3-5**. Behalte dieselben harmonischen Ziele, obwohl sich die Lage verändert. Wenn dein Phrasing beim Positionswechsel auseinanderfällt, spricht genau dort die Lektion mit dir.
+
+Jetzt kommt der eigentliche Trampolin-Effekt. Vor jedem Zielton spielst du genau **einen skaleneigenen Nebenton, der kein Akkordton ist**, entweder einen Schritt darüber oder darunter. Beispiel über Gmaj7: **A-B** oder **C-B**. Der „falsche“ Ton ist nur für den Absprung da; wenn er das Rampenlicht klaut, war der Schub zu groß.
+
+Boss-Runde Rhythmus: Takt 1 besteht überwiegend aus geraden Achteln, Takt 2 enthält einen synkopierten Einstieg nach Zählzeit 2, Takt 3 hat einen gehaltenen Ton von mindestens **zwei Schlägen**, und Takt 4 endet mit einem kurzen Pickup in den nächsten Chorus. Du trainierst nicht nur Tonauswahl, sondern auch den Bau deiner Phrasen.
+
+Abschluss-Challenge: Nimm ein **90-Sekunden-Solo** über denselben Loop auf. In den ersten 30 Sekunden landest du nur auf Terzen und Septimen. In den nächsten 30 Sekunden sind auch Grundtöne und Quinten erlaubt. In den letzten 30 Sekunden nutzt du pro Phrase genau einen Bend, Slide oder Vibrato, damit die Ziele wirklich singen. Beantworte danach: **Welcher Zielton gab dir das stärkste Ankunftsgefühl, und in welchem Takt wolltest du am ehesten hetzen?**
+
+:::checkpoint Spiele einen kompletten Durchgang und lande bei jedem Akkordwechsel auf dem geplanten Zielton.
+
+
+:::locale ja
+
+# ギター・コードトーン・トランポリン
+
+
+メトロノームを **78 BPM** に設定し、**| Am7 | D7 | Gmaj7 | Em7 |** をループします。舞台は **Gメジャー / Aドリアン**。1コーラスのあいだ、各フレーズはスケール内のどの音から始めても構いませんが、**次の小節の1拍目までにコードトーンへ着地する**必要があります。階段ではなくトランポリンだと思ってください。跳ぶ自由はあるけれど、着地には意図が必要です。
+
+次は着地点を絞ります。**Am7** では **C か G**、**D7** では **F# か C**、**Gmaj7** では **B か F#**、**Em7** では **G か D** を狙います。まず **8分音符だけ** で2コーラス、そのあと各小節に **1つ休符** を入れたコーラスを1回。沈黙によって目標音がより強く聞こえるべきで、より偶然っぽくなってはいけません。
+
+指板ルールも追加します。1コーラス目は主に **2-4弦**、2コーラス目は主に **3-5弦** で弾きましょう。ポジションが変わっても、狙うハーモニーは同じです。位置を変えた瞬間にフレーズ感が崩れるなら、そこがまさに今回の学びどころです。
+
+ここでトランポリンらしい跳ね返りを作ります。各ターゲット音の直前に、必ず **1つだけコードトーンではないスケール内の隣接音** を入れます。上からでも下からでもOK。Gmaj7なら **A-B** や **C-B** のように。いわゆる「外した」音は跳ねるための助走であって、主役ではありません。目立ちすぎたら力を入れすぎです。
+
+リズムのボスラウンドです。1小節目は主にまっすぐな8分音符、2小節目は **2拍目のあと** からシンコペーションで入り、3小節目は少なくとも **2拍ぶん** 伸ばす音を1つ入れ、4小節目は次のコーラスへ向かう短いピックアップで終えます。音選びだけでなく、フレーズ全体の設計も鍛えているのです。
+
+最後の挑戦。同じループで **90秒のソロ** を録音しましょう。最初の30秒は3度と7度だけに着地。次の30秒でルートと5度も解禁。最後の30秒は各フレーズに1回だけ bend、slide、または vibrato を入れて、ターゲット音をしっかり歌わせます。終わったら答えてください。**いちばん「着いた」と感じたターゲット音はどれで、どの小節で走りたくなりましたか？**
+
+:::checkpoint コードが変わるたびに予定した目標音へ着地しながら、1コーラス通して弾きましょう。
+
+
+:::locale zh-Hans
+
+# 吉他和弦音蹦床挑战
+
+
+把节拍器设为 **78 BPM**，循环 **| Am7 | D7 | Gmaj7 | Em7 |**。你的游乐场是 **G大调 / A多利亚**。在一个 chorus 里，每个乐句都可以从任意音阶音开始，但你必须 **在下一小节的第1拍落到一个和弦音上**。把它想成蹦床，不是楼梯：起跳可以自由，落地必须明确。
+
+现在缩小目标范围。弹 **Am7** 时瞄准 **C 或 G**；弹 **D7** 时瞄准 **F# 或 C**；弹 **Gmaj7** 时瞄准 **B 或 F#**；弹 **Em7** 时瞄准 **G 或 D**。先用 **八分音符** 连弹两个 chorus，再弹一个每小节都带 **一个休止** 的 chorus。沉默应该让目标音更响亮，而不是更随机。
+
+再加一个指板规则：第一遍主要待在 **2-4弦**，第二遍主要移到 **3-5弦**。虽然位置变了，但和声目标不能变。如果你一换把位乐句就散了，那正是这节课在提醒你的地方。
+
+现在加入蹦床的反弹感。每次落到目标音之前，必须先插入 **一个不是和弦音的音阶邻音**，可以从上方也可以从下方靠近。比如在 Gmaj7 上可以弹 **A-B** 或 **C-B**。那个“不是目标的音”只是为了制造弹跳，如果它抢了主角的位置，说明你用力过猛了。
+
+来到节奏 boss 回合：第1小节主要用平稳的八分音符；第2小节在 **第2拍之后** 做一次切分进入；第3小节加入一个至少 **持续两拍** 的长音；第4小节用一个短小的引入音结束，带进下一个 chorus。你练的不只是选音，更是在练乐句的建筑感。
+
+最终挑战：用同一个循环录一段 **90秒独奏**。前30秒只允许落在3度和7度上；接下来的30秒再开放根音和5度；最后30秒每个乐句只允许加入一次 bend、slide 或 vibrato，让目标音真正唱出来。结束后回答：**哪个目标音最让你有“到家了”的感觉？哪一小节最容易让你抢拍？**
+
+:::checkpoint 完整弹一遍，并在每次和弦变化时落到预先计划好的目标音上。
+
+
+:::endlocalized
+
+
+```notes
+id: chord-tone-trampoline-loop
+title: Chord-tone trampoline targets
+instrument: guitar
+tempo: 78
+sequence: A3 C4 E4 G4 F#4 A4 C5 D5 G4 B4 D5 F#5 E4 G4 B4 D5
+```
