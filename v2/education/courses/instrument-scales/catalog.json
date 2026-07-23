@@ -265,6 +265,31 @@
                 "zh-Hans": "用八度指型在贝斯弦之间移动音阶动机。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/octave-pivot-relay/lesson.md"
+            },
+            {
+              "id": "bass-octave-slingshot-relay",
+              "order": 3,
+              "estimatedMinutes": 8,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Octave Slingshot Relay",
+                "pt-BR": "Revezamento do Estilingue de Oitavas",
+                "es": "Relevo de Tirachinas con Octavas",
+                "de": "Oktav-Schleuder-Staffel",
+                "ja": "オクターブ・スリングショット・リレー",
+                "zh-Hans": "八度弹弓接力"
+              },
+              "summaries": {
+                "en": "Train your bass groove control by launching root-to-octave ideas without losing pocket or authority.",
+                "pt-BR": "Treine o controle de groove no baixo lançando ideias de tônica para oitava sem perder o pocket nem a autoridade.",
+                "es": "Entrena tu control del groove en el bajo lanzando ideas de tónica a octava sin perder pocket ni autoridad.",
+                "de": "Trainiere deine Bass-Groove-Kontrolle, indem du Root-zu-Oktav-Ideen abschießt, ohne Pocket oder Autorität zu verlieren.",
+                "ja": "ルートからオクターブへの動きを使い、ポケットを保ったままベースのグルーヴ力を鍛えるレッスンです。",
+                "zh-Hans": "通过根音到八度的推进训练低音律动控制，让你的贝斯既稳又有冲劲。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/bass-octave-slingshot-relay/lesson.md"
             }
           ]
         },
@@ -658,6 +683,56 @@
                 "zh-Hans": "把音阶练习变成一场计分游戏，让每次和弦变化都奖励顺滑而准确的和声落点。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-voice-leading-arcade/lesson.md"
+            },
+            {
+              "id": "guitar-guide-tone-ziplines",
+              "order": 8,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar Guide-Tone Ziplines",
+                "pt-BR": "Tirolesas de Guide Tones na Guitarra",
+                "es": "Tirolesas de Tonos Guía en Guitarra",
+                "de": "Guide-Tone-Seilbahnen auf der Gitarre",
+                "ja": "ギター・ガイドトーン・ジップライン",
+                "zh-Hans": "吉他导向音滑索挑战"
+              },
+              "summaries": {
+                "en": "Slide through A Dorian and land on 3rds and 7ths so your guitar lines sound guided, not random.",
+                "pt-BR": "Deslize por Lá dórico e pouse em 3as e 7as para que suas frases soem guiadas, não aleatórias.",
+                "es": "Deslízate por La dórico y aterriza en 3as y 7as para que tus frases suenen guiadas y no aleatorias.",
+                "de": "Gleite durch A-Dorisch und lande auf 3 und 7, damit deine Gitarrenlinien geführt statt zufällig klingen.",
+                "ja": "Aドリアンを滑り抜け、3度と7度に着地して、フレーズを行き当たりばったりではなく意図的に響かせよう。",
+                "zh-Hans": "在A多利亚中滑行并落到3度与7度上，让你的吉他乐句听起来有方向，而不是乱跑。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-ziplines/lesson.md"
+            },
+            {
+              "id": "piano-shell-and-scale-sparks",
+              "order": 9,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano Shells and Scale Sparks",
+                "pt-BR": "Conchas e Faíscas de Escala no Piano",
+                "es": "Shells y Chispas de Escala en Piano",
+                "de": "Shells und Skalenfunken am Klavier",
+                "ja": "ピアノ・シェルとスケールの火花",
+                "zh-Hans": "钢琴壳音与音阶火花"
+              },
+              "summaries": {
+                "en": "Use left-hand shells and right-hand scale sparks to make a ii-V-I sound connected, bright, and alive.",
+                "pt-BR": "Use shells na mão esquerda e faíscas de escala na direita para fazer um ii-V-I soar conectado, brilhante e vivo.",
+                "es": "Usa shells en la mano izquierda y chispas de escala en la derecha para que un ii-V-I suene conectado, brillante y vivo.",
+                "de": "Nutze Shell-Voicings links und kurze Skalenfunken rechts, damit ein ii-V-I verbunden, hell und lebendig klingt.",
+                "ja": "左手のシェル・ボイシングと右手の短いスケールの火花で、ii-V-I をつながりのある明るい響きにしよう。",
+                "zh-Hans": "用左手 shell voicing 和右手短小的音阶火花，让一个 ii-V-I 听起来连贯、明亮又有生命力。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-and-scale-sparks/lesson.md"
             }
           ]
         }
