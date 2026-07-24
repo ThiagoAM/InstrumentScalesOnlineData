@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 2,
+  "revision": 3,
   "sections": [
     {
       "id": "beginner",
@@ -733,6 +733,81 @@
                 "zh-Hans": "用左手 shell voicing 和右手短小的音阶火花，让一个 ii-V-I 听起来连贯、明亮又有生命力。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-and-scale-sparks/lesson.md"
+            },
+            {
+              "id": "guitar-enclosure-slingshot",
+              "order": 10,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar enclosure slingshot",
+                "pt-BR": "Estilingue de aproximação na guitarra",
+                "es": "Tirachinas de aproximación en guitarra",
+                "de": "Gitarren-Annäherungs-Schleuder",
+                "ja": "ギター・エンクロージャー・スリングショット",
+                "zh-Hans": "吉他包围音弹弓"
+              },
+              "summaries": {
+                "en": "Aim a two-note enclosure at the third of each chord without rushing beat one.",
+                "pt-BR": "Mire uma aproximação de duas notas na terça de cada acorde sem correr o primeiro tempo.",
+                "es": "Dirige una aproximación de dos notas hacia la tercera de cada acorde sin adelantar el primer tiempo.",
+                "de": "Ziele eine zweitonige Umspielung auf die Terz jedes Akkords, ohne Schlag eins vorzuziehen.",
+                "ja": "1拍目を急がずに、2音のエンクロージャーを各コードの3度へ着地させます。",
+                "zh-Hans": "不抢第一拍，用两个包围音把乐句落到每个和弦的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-enclosure-slingshot/lesson.md"
+            },
+            {
+              "id": "bass-turnaround-signal-lights",
+              "order": 11,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass turnaround signal lights",
+                "pt-BR": "Semáforos da virada no baixo",
+                "es": "Semáforos del turnaround en bajo",
+                "de": "Bass-Turnaround-Ampeln",
+                "ja": "ベース・ターンアラウンド信号機",
+                "zh-Hans": "贝斯终止进行信号灯"
+              },
+              "summaries": {
+                "en": "Use one upbeat pickup to steer every bar change into a chosen chord tone.",
+                "pt-BR": "Use uma anacruse de colcheia para conduzir cada virada até uma nota-alvo escolhida.",
+                "es": "Usa una anacrusa de corchea para conducir cada cambio hacia una nota objetivo elegida.",
+                "de": "Nutze einen Achtel-Auftakt, um jeden Taktwechsel zu einem gewählten Akkordton zu lenken.",
+                "ja": "8分音符のアップビートを使って、各小節の変化を選んだコードトーンへ導きます。",
+                "zh-Hans": "用一个八分音符前导，把每次换小节都带向选定的和弦音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-turnaround-signal-lights/lesson.md"
+            },
+            {
+              "id": "piano-shell-lighthouse",
+              "order": 12,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell lighthouse",
+                "pt-BR": "Farol de shells no piano",
+                "es": "Faro de shells en piano",
+                "de": "Klavier-Shell-Leuchtturm",
+                "ja": "ピアノ・シェル灯台",
+                "zh-Hans": "钢琴壳音灯塔"
+              },
+              "summaries": {
+                "en": "Hold steady shell voicings while the right hand resolves to one bright target note per chord.",
+                "pt-BR": "Mantenha shells estáveis enquanto a mão direita resolve para uma nota-alvo brilhante por acorde.",
+                "es": "Mantén shells estables mientras la mano derecha resuelve hacia una nota objetivo brillante por acorde.",
+                "de": "Halte stabile Shell-Voicings, während die rechte Hand pro Akkord einen klaren Zielton erreicht.",
+                "ja": "左手のシェルを安定させたまま、右手を各コードの明るい目標音へ解決させます。",
+                "zh-Hans": "保持左手壳式和弦稳定，让右手每个和弦都解决到一个明亮目标音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-lighthouse/lesson.md"
             }
           ]
         }
