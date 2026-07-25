@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 3,
+  "revision": 4,
   "sections": [
     {
       "id": "beginner",
@@ -808,6 +808,81 @@
                 "zh-Hans": "保持左手壳式和弦稳定，让右手每个和弦都解决到一个明亮目标音。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-lighthouse/lesson.md"
+            },
+            {
+              "id": "guitar-guide-tone-radar-sprint",
+              "order": 13,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar guide-tone radar sprint",
+                "pt-BR": "Sprint de radar de notas-guia na guitarra",
+                "es": "Sprint de radar de notas guía en guitarra",
+                "de": "Gitarren-Guide-Tone-Radarsprint",
+                "ja": "ギター・ガイドトーン・レーダースプリント",
+                "zh-Hans": "吉他导向音雷达冲刺"
+              },
+              "summaries": {
+                "en": "Chase thirds through a two-chord loop so every phrase sounds guided instead of lucky.",
+                "pt-BR": "Persiga terças em um loop de dois acordes para que cada frase soe guiada, não sortuda.",
+                "es": "Persigue terceras en un loop de dos acordes para que cada frase suene guiada y no casual.",
+                "de": "Jage Terzen in einer Zwei-Akkord-Schleife, damit jede Phrase geführt statt zufällig klingt.",
+                "ja": "2コードのループで3度を狙い、偶然ではなく意図のあるフレーズにします。",
+                "zh-Hans": "在两个和弦的循环里追逐三音，让每句乐句听起来有方向而不是碰运气。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-radar-sprint/lesson.md"
+            },
+            {
+              "id": "bass-octave-bounce-mission",
+              "order": 14,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass octave bounce mission",
+                "pt-BR": "Missão de salto de oitavas no baixo",
+                "es": "Misión de rebote de octavas en bajo",
+                "de": "Bass-Oktavsprung-Mission",
+                "ja": "ベース・オクターブ・バウンス・ミッション",
+                "zh-Hans": "贝斯八度弹跳任务"
+              },
+              "summaries": {
+                "en": "Lock roots, fifths, and octaves into the pocket while connecting chords with small scale steps.",
+                "pt-BR": "Trave tônicas, quintas e oitavas no pocket enquanto conecta acordes com pequenos passos da escala.",
+                "es": "Fija raíces, quintas y octavas en el groove mientras conectas acordes con pequeños pasos de escala.",
+                "de": "Verankere Grundtöne, Quinten und Oktaven im Groove und verbinde Akkorde mit kleinen Skalen-Schritten.",
+                "ja": "ルート、5度、オクターブをポケットに固定しながら、小さなスケール進行でコードをつなぎます。",
+                "zh-Hans": "把根音、五音和八度稳稳锁进律动里，再用小的音阶级进连接和弦。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-octave-bounce-mission/lesson.md"
+            },
+            {
+              "id": "piano-chord-spell-race",
+              "order": 15,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano chord-spell race",
+                "pt-BR": "Corrida de soletração de acordes no piano",
+                "es": "Carrera de deletreo de acordes en piano",
+                "de": "Klavier-Akkordbuchstabier-Rennen",
+                "ja": "ピアノ・コードスペル・レース",
+                "zh-Hans": "钢琴和弦拼写竞速"
+              },
+              "summaries": {
+                "en": "Race to outline triads and sevenths with clean rhythm, quick recognition, and smart scale approaches.",
+                "pt-BR": "Corra para desenhar tríades e tétrades com ritmo limpo, reconhecimento rápido e boas aproximações da escala.",
+                "es": "Corre para perfilar tríadas y séptimas con ritmo limpio, reconocimiento rápido y buenas aproximaciones de escala.",
+                "de": "Umreiße Dreiklänge und Septakkorde mit klarem Rhythmus, schneller Erkennung und klugen Skalenannäherungen.",
+                "ja": "きれいなリズム、素早い認識、賢いスケールのアプローチで、三和音と7th をすばやく描きます。",
+                "zh-Hans": "用干净节奏、快速识别和聪明的音阶逼近，迅速勾勒三和弦与七和弦。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-chord-spell-race/lesson.md"
             }
           ]
         }
