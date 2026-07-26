@@ -883,6 +883,81 @@
                 "zh-Hans": "用干净节奏、快速识别和聪明的音阶逼近，迅速勾勒三和弦与七和弦。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-chord-spell-race/lesson.md"
+            },
+            {
+              "id": "guitar-resolution-slalom",
+              "order": 16,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar resolution slalom",
+                "pt-BR": "Slalom de resolução na guitarra",
+                "es": "Eslalon de resolución en guitarra",
+                "de": "Gitarren-Auflösungs-Slalom",
+                "ja": "ギター・リゾリューション・スラローム",
+                "zh-Hans": "吉他解决音回转赛"
+              },
+              "summaries": {
+                "en": "Weave through two chords and hit one calm target note at the end of every bar.",
+                "pt-BR": "Costure dois acordes e acerte uma nota-alvo tranquila no fim de cada compasso.",
+                "es": "Teje entre dos acordes y cae en una nota objetivo tranquila al final de cada compás.",
+                "de": "Fädle durch zwei Akkorde und treffe am Ende jedes Taktes einen ruhigen Zielton.",
+                "ja": "2つのコードを縫うように進み、各小節の終わりで落ち着いた目標音に着地します。",
+                "zh-Hans": "在两个和弦之间穿梭，并在每小节结尾落到一个稳定的目标音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-resolution-slalom/lesson.md"
+            },
+            {
+              "id": "bass-guide-tone-springboard",
+              "order": 17,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass guide-tone springboard",
+                "pt-BR": "Trampolim de notas-guia no baixo",
+                "es": "Trampolín de notas guía en bajo",
+                "de": "Bass-Guide-Tone-Sprungbrett",
+                "ja": "ベース・ガイドトーン・スプリングボード",
+                "zh-Hans": "贝斯导向音跳板"
+              },
+              "summaries": {
+                "en": "Launch short walking fragments toward thirds and sevenths so every change sounds intentional.",
+                "pt-BR": "Lance pequenos trechos de walking para terças e sétimas para que cada troca soe intencional.",
+                "es": "Lanza pequeños fragmentos de walking hacia terceras y séptimas para que cada cambio suene intencional.",
+                "de": "Lenke kurze Walking-Fragmente zu Terzen und Septimen, damit jeder Wechsel bewusst klingt.",
+                "ja": "短いウォーキング断片を3度と7度へ導き、すべての変化を意図的に響かせます。",
+                "zh-Hans": "把短小 walking 片段弹向三音和七音，让每次变化都听起来有目的。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-guide-tone-springboard/lesson.md"
+            },
+            {
+              "id": "piano-voice-leading-glider",
+              "order": 18,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano voice-leading glider",
+                "pt-BR": "Planador de condução de vozes no piano",
+                "es": "Planeador de conducción de voces en piano",
+                "de": "Klavier-Voice-Leading-Gleiter",
+                "ja": "ピアノ・ボイスリーディング・グライダー",
+                "zh-Hans": "钢琴声部连接滑翔机"
+              },
+              "summaries": {
+                "en": "Glide between shell voicings and let one scale note brighten each chord change.",
+                "pt-BR": "Deslize entre shells e deixe uma nota de escala iluminar cada troca de acorde.",
+                "es": "Deslízate entre shells y deja que una nota de escala ilumine cada cambio de acorde.",
+                "de": "Gleite zwischen Shell-Voicings und lasse pro Akkordwechsel einen Skalenton aufleuchten.",
+                "ja": "シェル・ボイシングの間を滑り、1つのスケール音で各コードチェンジを明るくします。",
+                "zh-Hans": "在 shell 和弦之间滑行，用一个音阶音点亮每次和弦变化。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-voice-leading-glider/lesson.md"
             }
           ]
         }
