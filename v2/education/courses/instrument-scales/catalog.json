@@ -363,6 +363,31 @@
                 "zh-Hans": "保持根音律动，在乐句末尾加入音阶加花。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/bass-groove-scale-fill/lesson.md"
+            },
+            {
+              "id": "guitar-syncopation-sidestep",
+              "order": 3,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar syncopation sidestep",
+                "pt-BR": "Desvio sincopado na guitarra",
+                "es": "Desvío sincopado en guitarra",
+                "de": "Gitarren-Synkopen-Seitschritt",
+                "ja": "ギター・シンコペーション・サイドステップ",
+                "zh-Hans": "吉他切分侧步挑战"
+              },
+              "summaries": {
+                "en": "Leave beat one clear, then slide a scale fragment into the upbeat without losing the groove.",
+                "pt-BR": "Deixe o tempo um claro e depois deslize um fragmento da escala para o contratempo sem perder o groove.",
+                "es": "Deja claro el tiempo uno y luego desliza un fragmento de escala hacia el contratiempo sin perder el groove.",
+                "de": "Lass Schlag eins klar stehen und schiebe dann ein Skalenfragment in den Offbeat, ohne den Groove zu verlieren.",
+                "ja": "1拍目をはっきり残したまま、スケール断片をアップビートへ滑り込ませてグルーヴを保ちます。",
+                "zh-Hans": "先把第一拍站稳，再把音阶片段滑向反拍，同时不丢掉律动。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/guitar-syncopation-sidestep/lesson.md"
             }
           ]
         }
@@ -485,6 +510,31 @@
                 "zh-Hans": "在导音壳式和弦之间移动音阶片段，同时保持双手平衡。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/piano-shell-lane-switch/lesson.md"
+            },
+            {
+              "id": "piano-sixth-lantern-walk",
+              "order": 4,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano sixth lantern walk",
+                "pt-BR": "Passeio de sextas com lanterna no piano",
+                "es": "Paseo de sextas con linterna en piano",
+                "de": "Klavier-Sechsten-Laternenweg",
+                "ja": "ピアノ・6度ランタン・ウォーク",
+                "zh-Hans": "钢琴六度提灯步行"
+              },
+              "summaries": {
+                "en": "Light up each chord change with right-hand sixths while the left hand keeps a calm scale pulse.",
+                "pt-BR": "Ilumine cada mudança de acorde com sextas na mão direita enquanto a esquerda mantém um pulso calmo de escala.",
+                "es": "Ilumina cada cambio de acorde con sextas en la mano derecha mientras la izquierda mantiene un pulso tranquilo de escala.",
+                "de": "Lass jeden Akkordwechsel mit Sexten rechts aufleuchten, während links einen ruhigen Skalenpuls hält.",
+                "ja": "左手が落ち着いたスケールの脈を保つ中、右手の6度で各コードチェンジを照らします。",
+                "zh-Hans": "左手保持平静的音阶脉冲，右手用六度音程点亮每次和弦变化。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/piano-sixth-lantern-walk/lesson.md"
             }
           ]
         },
@@ -958,6 +1008,31 @@
                 "zh-Hans": "在 shell 和弦之间滑行，用一个音阶音点亮每次和弦变化。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-voice-leading-glider/lesson.md"
+            },
+            {
+              "id": "bass-chromatic-docking-beacon",
+              "order": 19,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass chromatic docking beacon",
+                "pt-BR": "Farol de atracação cromática no baixo",
+                "es": "Baliza de atraque cromático en bajo",
+                "de": "Bass-Chromatik-Andockboje",
+                "ja": "ベース・クロマチック・ドッキング・ビーコン",
+                "zh-Hans": "贝斯半音靠岸信标"
+              },
+              "summaries": {
+                "en": "Use one chromatic approach note to dock on thirds and sevenths with confident time.",
+                "pt-BR": "Use uma nota de aproximação cromática para atracar em terças e sétimas com tempo confiante.",
+                "es": "Usa una nota cromática de aproximación para atracar en terceras y séptimas con tiempo seguro.",
+                "de": "Nutze einen chromatischen Annäherungston, um mit sicherem Timing auf Terzen und Septimen anzudocken.",
+                "ja": "1つのクロマチック・アプローチノートを使って、安定したタイムで3度と7度に着地します。",
+                "zh-Hans": "用一个半音逼近音，带着稳定的时间感靠到三音和七音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-chromatic-docking-beacon/lesson.md"
             }
           ]
         }
