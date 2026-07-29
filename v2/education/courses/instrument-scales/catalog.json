@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 4,
+  "revision": 5,
   "sections": [
     {
       "id": "beginner",
@@ -535,6 +535,31 @@
                 "zh-Hans": "左手保持平静的音阶脉冲，右手用六度音程点亮每次和弦变化。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/piano-sixth-lantern-walk/lesson.md"
+            },
+            {
+              "id": "guitar-harmonic-third-switchback",
+              "order": 5,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar harmonic third switchback",
+                "pt-BR": "Retorno em terças harmônicas na guitarra",
+                "es": "Retorno de terceras armónicas en guitarra",
+                "de": "Gitarren-Wechselkurve in harmonischen Terzen",
+                "ja": "ギター・ハーモニック3度スイッチバック",
+                "zh-Hans": "吉他和声音程三度折返"
+              },
+              "summaries": {
+                "en": "Climb in diatonic thirds, then reverse direction without losing the target pair or the pulse.",
+                "pt-BR": "Suba em terças diatônicas e depois inverta a direção sem perder o par-alvo nem a pulsação.",
+                "es": "Asciende en terceras diatónicas y luego invierte la dirección sin perder la pareja objetivo ni el pulso.",
+                "de": "Steige in diatonischen Terzen auf und kehre dann um, ohne Zielpaar oder Puls zu verlieren.",
+                "ja": "ダイアトニック3度で上がり、ターゲットのペアと拍を保ったまま折り返します。",
+                "zh-Hans": "用自然音三度上行，再在不丢失目标音程对和节拍的情况下折返。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-harmonic-third-switchback/lesson.md"
             }
           ]
         },
@@ -1033,6 +1058,56 @@
                 "zh-Hans": "用一个半音逼近音，带着稳定的时间感靠到三音和七音上。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/bass-chromatic-docking-beacon/lesson.md"
+            },
+            {
+              "id": "bass-chromatic-turnaround-catapult",
+              "order": 20,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass chromatic turnaround catapult",
+                "pt-BR": "Catapulta cromática de turnaround no baixo",
+                "es": "Catapulta cromática de turnaround en bajo",
+                "de": "Bass-Chromatik-Katapult im Turnaround",
+                "ja": "ベース・クロマチック・ターンアラウンド・カタパルト",
+                "zh-Hans": "贝斯半音回转弹射"
+              },
+              "summaries": {
+                "en": "Launch into each turnaround target with one chromatic step and keep the line heavy on beat one.",
+                "pt-BR": "Atire em cada alvo do turnaround com um passo cromático e mantenha a linha firme no tempo um.",
+                "es": "Lanza cada objetivo del turnaround con un paso cromático y mantén la línea firme en el tiempo uno.",
+                "de": "Katapultiere jeden Turnaround-Zielton mit einem chromatischen Schritt an und halte die Linie auf Schlag eins schwer.",
+                "ja": "各ターンアラウンドのターゲットへ半音で飛び込みつつ、1拍目の重さを保ちます。",
+                "zh-Hans": "用一个半音把每个回转目标弹射出来，同时让第1拍依然稳重有分量。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-chromatic-turnaround-catapult/lesson.md"
+            },
+            {
+              "id": "piano-guide-tone-pinball",
+              "order": 21,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano guide-tone pinball",
+                "pt-BR": "Pinball de notas-guia no piano",
+                "es": "Pinball de notas guía en piano",
+                "de": "Guide-Tone-Pinball am Klavier",
+                "ja": "ピアノ・ガイドトーン・ピンボール",
+                "zh-Hans": "钢琴导音弹珠台"
+              },
+              "summaries": {
+                "en": "Bounce short scale cells between thirds and sevenths so every chord change lights up instantly.",
+                "pt-BR": "Faça células curtas de escala ricochetearem entre terças e sétimas para iluminar cada acorde na hora.",
+                "es": "Haz rebotar células cortas de escala entre terceras y séptimas para iluminar cada acorde al instante.",
+                "de": "Lass kurze Skalenzellen zwischen Terzen und Septimen abprallen, damit jeder Akkordwechsel sofort aufleuchtet.",
+                "ja": "短いスケールセルを3度と7度の間で跳ね返し、各コードチェンジを即座に際立たせます。",
+                "zh-Hans": "让短小音阶单元在三音与七音之间弹跳，使每次和弦变化立刻发光。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-pinball/lesson.md"
             }
           ]
         }
