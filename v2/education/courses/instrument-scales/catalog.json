@@ -560,6 +560,81 @@
                 "zh-Hans": "用自然音三度上行，再在不丢失目标音程对和节拍的情况下折返。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-harmonic-third-switchback/lesson.md"
+            },
+            {
+              "id": "guitar-sixth-ladder-flare",
+              "order": 6,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar sixth ladder flare",
+                "pt-BR": "Escada em sextas na guitarra",
+                "es": "Escalera de sextas en guitarra",
+                "de": "Gitarren-Sechstenleiter mit Glanz",
+                "ja": "ギター・6度ラダー・フレア",
+                "zh-Hans": "吉他六度阶梯冲刺"
+              },
+              "summaries": {
+                "en": "Climb diatonic sixths, then accent the top note so each interval sounds like a destination.",
+                "pt-BR": "Suba em sextas diatônicas e destaque a nota de cima para cada intervalo soar como destino.",
+                "es": "Asciende en sextas diatónicas y acentúa la nota superior para que cada intervalo suene como una llegada.",
+                "de": "Steige in diatonischen Sexten auf und betone den oberen Ton, damit jedes Intervall wie ein Ziel klingt.",
+                "ja": "ダイアトニック6度で上がり、上の音を際立たせて各音程を着地点として響かせます。",
+                "zh-Hans": "以自然音六度上行，并突出上方音，让每组音程都像一次到达。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-sixth-ladder-flare/lesson.md"
+            },
+            {
+              "id": "bass-fifth-lane-weave",
+              "order": 7,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass fifth lane weave",
+                "pt-BR": "Trama de quintas no baixo",
+                "es": "Trama de quintas en bajo",
+                "de": "Bass-Quinten-Spurweber",
+                "ja": "ベース・5度レーン・ウィーブ",
+                "zh-Hans": "贝斯五度线路编织"
+              },
+              "summaries": {
+                "en": "Weave roots and fifths across strings, then reconnect the line with stepwise scale motion.",
+                "pt-BR": "Cruze tônicas e quintas entre cordas e depois reconecte a linha com movimento conjunto da escala.",
+                "es": "Entreteje tónicas y quintas entre cuerdas y luego reconecta la línea con movimiento conjunto de la escala.",
+                "de": "Verwebe Grundtöne und Quinten über die Saiten und verbinde die Linie dann mit schrittweiser Skalenbewegung.",
+                "ja": "ルートと5度を弦をまたいで編み込み、最後に順次進行でラインをつなぎ直します。",
+                "zh-Hans": "在琴弦之间编织根音与五音，再用级进音阶把整条线重新连起来。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/bass-fifth-lane-weave/lesson.md"
+            },
+            {
+              "id": "piano-fourth-compass-drift",
+              "order": 8,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano fourth compass drift",
+                "pt-BR": "Deriva em quartas no piano",
+                "es": "Deriva de cuartas en piano",
+                "de": "Klavier-Quartkompass-Drift",
+                "ja": "ピアノ・4度コンパス・ドリフト",
+                "zh-Hans": "钢琴四度罗盘漂移"
+              },
+              "summaries": {
+                "en": "Move scale fragments in fourths between the hands while keeping one calm center pulse.",
+                "pt-BR": "Mova fragmentos da escala em quartas entre as mãos mantendo um pulso central calmo.",
+                "es": "Mueve fragmentos de escala en cuartas entre las manos mientras mantienes un pulso central tranquilo.",
+                "de": "Bewege Skalenfragmente in Quarten zwischen den Händen und halte dabei einen ruhigen Mittelpunktspuls.",
+                "ja": "4度のスケール断片を両手の間で動かしながら、中心の拍を落ち着いて保ちます。",
+                "zh-Hans": "在双手之间移动四度音程的音阶片段，同时保持一个平稳的中心脉冲。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/piano-fourth-compass-drift/lesson.md"
             }
           ]
         },
