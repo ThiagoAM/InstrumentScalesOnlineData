@@ -1,0 +1,48 @@
+{
+  "schema": 2,
+  "revision": 1,
+  "courses": [
+    {
+      "id": "instrument-scales",
+      "order": 1,
+      "titles": {
+        "en": "Scale Course",
+        "pt-BR": "Curso de escalas",
+        "es": "Curso de escalas",
+        "de": "Tonleiterkurs",
+        "ja": "スケール・コース",
+        "zh-Hans": "音阶课程"
+      },
+      "summaries": {
+        "en": "Learn scales through sound and movement.",
+        "pt-BR": "Aprenda escalas com som e movimento.",
+        "es": "Aprende escalas con sonido y movimiento.",
+        "de": "Lerne Tonleitern durch Klang und Bewegung.",
+        "ja": "音と動きでスケールを学びます。",
+        "zh-Hans": "通过声音与动作学习音阶。"
+      },
+      "theme": "pianokeys"
+    },
+    {
+      "id": "chords-harmony",
+      "order": 2,
+      "titles": {
+        "en": "Chords & Harmony",
+        "pt-BR": "Acordes e Harmonia",
+        "es": "Acordes y armonía",
+        "de": "Akkorde & Harmonie",
+        "ja": "コードとハーモニー",
+        "zh-Hans": "和弦与和声"
+      },
+      "summaries": {
+        "en": "Build progressions by hearing how chords connect.",
+        "pt-BR": "Crie progressões ouvindo como os acordes se conectam.",
+        "es": "Construye progresiones al escuchar cómo se conectan los acordes.",
+        "de": "Baue Progressionen, indem du hörst, wie Akkorde zusammenhängen.",
+        "ja": "コード同士のつながりを聴きながら進行を組み立てます。",
+        "zh-Hans": "通过聆听和弦之间的连接来构建进行。"
+      },
+      "theme": "music.note.list"
+    }
+  ]
+}

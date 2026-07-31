@@ -19,8 +19,12 @@ test("Pages artifact preserves the public V1 and V2 contracts", () => {
     "v1/education/free/images/guitar-free.jpg",
     "v1/home/home.json",
     "v1/toggles/feature-toggles.json",
+    "v2/education/courses.json",
     "v2/education/courses/instrument-scales/course.json",
     "v2/education/courses/instrument-scales/catalog.json",
+    "v2/education/courses/chords-harmony/course.json",
+    "v2/education/courses/chords-harmony/catalog.json",
+    "v2/daily/riffs.json",
     ".nojekyll",
   ];
 
@@ -45,8 +49,33 @@ test("Pages artifact preserves the public V1 and V2 contracts", () => {
       "utf8",
     ),
   );
+  const harmonyCatalog = JSON.parse(
+    fs.readFileSync(
+      path.join(dist, "v2/education/courses/chords-harmony/catalog.json"),
+      "utf8",
+    ),
+  );
+  const courseIndex = JSON.parse(
+    fs.readFileSync(path.join(dist, "v2/education/courses.json"), "utf8"),
+  );
 
   assert.equal(freeCourses.courses.length, 3);
   assert.equal(maxCourses.courses.length, 3);
   assert.equal(v2Catalog.sections.length, 3);
+  assert.equal(
+    v2Catalog.sections.flatMap((section) =>
+      section.units.flatMap((unit) => unit.lessons)
+    ).length,
+    342,
+  );
+  assert.equal(
+    harmonyCatalog.sections.flatMap((section) =>
+      section.units.flatMap((unit) => unit.lessons)
+    ).length,
+    313,
+  );
+  assert.deepEqual(courseIndex.courses.map((course) => course.id), [
+    "instrument-scales",
+    "chords-harmony",
+  ]);
 });

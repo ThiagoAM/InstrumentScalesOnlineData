@@ -24,6 +24,7 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/validate-v2.js
+      - run: node scripts/audit-v2-bulk.js --no-revision-one
       - run: node --test tests/*.test.js
       - run: node legacy/v1/scripts/validate-education.js legacy/v1/data/education
       - run: node --test legacy/v1/tests/*.test.js

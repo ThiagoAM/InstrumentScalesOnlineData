@@ -5,7 +5,7 @@ Instructions for OpenClaw agents creating or revising Instrument Scales lessons.
 ## 1. Start safely
 
 1. Sync `main` with a fast-forward-only pull.
-2. Read `README.md`, `v2/education/courses/instrument-scales/course.json`, and the complete `catalog.json`.
+2. Read `README.md`, `v2/education/courses.json`, the target course's `course.json`, and its complete `catalog.json`.
 3. Run `node scripts/validate-v2.js` before editing. If existing validation fails, report it instead of layering unrelated content on top.
 4. Select exactly one section and unit. Do not create a new section when the lesson belongs in an existing learning arc.
 
@@ -50,7 +50,7 @@ Use a lowercase hyphenated slug. Add the lesson reference to the correct unit in
   "optional": false,
   "titles": { "en": "...", "pt-BR": "...", "es": "...", "de": "...", "ja": "...", "zh-Hans": "..." },
   "summaries": { "en": "...", "pt-BR": "...", "es": "...", "de": "...", "ja": "...", "zh-Hans": "..." },
-  "path": "sections/<section>/units/<unit>/lessons/<lesson>/lesson.md"
+  "path": "levels/<level>/sections/<section>/units/<unit>/lessons/<lesson>/lesson.md"
 }
 ```
 
@@ -62,7 +62,7 @@ schema: 2
 id: short-stable-slug
 course: instrument-scales
 level: intermediate
-section: position-bridges
+section: intermediate
 unit: octave-connections
 order: 3
 revision: 1
@@ -120,6 +120,7 @@ Then run:
 
 ```bash
 node scripts/validate-v2.js
+node scripts/audit-v2-bulk.js --no-revision-one
 node --test tests/*.test.js
 node scripts/build-pages.js
 ```

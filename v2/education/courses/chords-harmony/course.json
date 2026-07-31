@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "id": "chords-harmony",
+  "revision": 2,
+  "titles": {
+    "en": "Chords & Harmony",
+    "pt-BR": "Acordes e Harmonia",
+    "es": "Acordes y armonía",
+    "de": "Akkorde & Harmonie",
+    "ja": "コードとハーモニー",
+    "zh-Hans": "和弦与和声"
+  },
+  "levels": [
+    "beginner",
+    "intermediate",
+    "advanced"
+  ]
+}

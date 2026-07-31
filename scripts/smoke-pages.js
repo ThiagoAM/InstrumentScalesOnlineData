@@ -10,7 +10,30 @@ const probes = [
   { path: "v1/toggles/feature-toggles.json", type: "application/json", json: true },
   { path: "v1/education/free/images/guitar-free.jpg", type: "image/jpeg" },
   {
+    path: "v2/education/courses.json",
+    type: "application/json",
+    json: true,
+  },
+  {
     path: "v2/education/courses/instrument-scales/catalog.json",
+    type: "application/json",
+    json: true,
+  },
+  {
+    path: "v2/education/courses/chords-harmony/catalog.json",
+    type: "application/json",
+    json: true,
+  },
+  {
+    path: "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-steady-pulse/lessons/scale-beginner-steady-pulse-beat-one/lesson.md",
+    type: "text/markdown",
+  },
+  {
+    path: "v2/education/courses/chords-harmony/levels/beginner/sections/beginner/units/triads-in-practice/lessons/harmony-beginner-triads-in-practice-c-major-by-tone/lesson.md",
+    type: "text/markdown",
+  },
+  {
+    path: "v2/daily/riffs.json",
     type: "application/json",
     json: true,
   },

@@ -1,0 +1,846 @@
+{
+  "schema": 2,
+  "revision": 2,
+  "riffs": [
+    {
+      "date": "2026-07-27",
+      "id": "2026-07-27-tonic-echo",
+      "titles": {
+        "en": "Tonic Echo",
+        "pt-BR": "Eco da tônica",
+        "es": "Eco de tónica",
+        "de": "Grundton-Echo",
+        "ja": "主音のこだま",
+        "zh-Hans": "主音回声"
+      },
+      "blurbs": {
+        "en": "Shape tonic echo in C Major; preserve the written rest and hear degree 1 lead back home.",
+        "pt-BR": "Modele eco da tônica em C Major; preserve a pausa escrita e ouça o grau 1 voltar para casa.",
+        "es": "Da forma a eco de tónica en C Major; conserva el silencio escrito y escucha el grado 1 volver a casa.",
+        "de": "Forme Grundton-Echo in C Major; bewahre die notierte Pause und höre Grad 1 zum Grundton zurückkehren.",
+        "ja": "C Majorで「主音のこだま」を形作り、書かれた休符を守って第1音から主音への帰着を聴きます。",
+        "zh-Hans": "在C Major中塑造“主音回声”，保留写出的休止，并聆听第1级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-1\ntitle: Tonic Echo\nroot: C\nscale: Major\ntempo: 64\ndegrees: 1 2 3 5 - 4 2 1"
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "id": "2026-07-28-second-step-answer",
+      "titles": {
+        "en": "Second-Step Answer",
+        "pt-BR": "Resposta do segundo",
+        "es": "Respuesta del segundo",
+        "de": "Sekund-Antwort",
+        "ja": "2度の応答",
+        "zh-Hans": "二级回应"
+      },
+      "blurbs": {
+        "en": "Shape second-step answer in G Major; preserve the written rest and hear degree 2 lead back home.",
+        "pt-BR": "Modele resposta do segundo em G Major; preserve a pausa escrita e ouça o grau 2 voltar para casa.",
+        "es": "Da forma a respuesta del segundo en G Major; conserva el silencio escrito y escucha el grado 2 volver a casa.",
+        "de": "Forme Sekund-Antwort in G Major; bewahre die notierte Pause und höre Grad 2 zum Grundton zurückkehren.",
+        "ja": "G Majorで「2度の応答」を形作り、書かれた休符を守って第2音から主音への帰着を聴きます。",
+        "zh-Hans": "在G Major中塑造“二级回应”，保留写出的休止，并聆听第2级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-2\ntitle: Second-Step Answer\nroot: G\nscale: Major\ntempo: 68\ndegrees: 1 2 1 3 - 2 7 1"
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "id": "2026-07-29-thirds-in-balance",
+      "titles": {
+        "en": "Thirds in Balance",
+        "pt-BR": "Terças em equilíbrio",
+        "es": "Terceras en equilibrio",
+        "de": "Terzen im Gleichgewicht",
+        "ja": "3度のバランス",
+        "zh-Hans": "三度平衡"
+      },
+      "blurbs": {
+        "en": "Shape thirds in balance in D Major; preserve the written rest and hear degree 3 lead back home.",
+        "pt-BR": "Modele terças em equilíbrio em D Major; preserve a pausa escrita e ouça o grau 3 voltar para casa.",
+        "es": "Da forma a terceras en equilibrio en D Major; conserva el silencio escrito y escucha el grado 3 volver a casa.",
+        "de": "Forme Terzen im Gleichgewicht in D Major; bewahre die notierte Pause und höre Grad 3 zum Grundton zurückkehren.",
+        "ja": "D Majorで「3度のバランス」を形作り、書かれた休符を守って第3音から主音への帰着を聴きます。",
+        "zh-Hans": "在D Major中塑造“三度平衡”，保留写出的休止，并聆听第3级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-3\ntitle: Thirds in Balance\nroot: D\nscale: Major\ntempo: 72\ndegrees: 1 3 2 4 - 3 2 1"
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "id": "2026-07-30-fourth-leap-return",
+      "titles": {
+        "en": "Fourth-Leap Return",
+        "pt-BR": "Salto de quarta",
+        "es": "Salto de cuarta",
+        "de": "Quartsprung",
+        "ja": "4度の跳躍",
+        "zh-Hans": "四度跳进"
+      },
+      "blurbs": {
+        "en": "Shape fourth-leap return in A Major; preserve the written rest and hear degree 4 lead back home.",
+        "pt-BR": "Modele salto de quarta em A Major; preserve a pausa escrita e ouça o grau 4 voltar para casa.",
+        "es": "Da forma a salto de cuarta en A Major; conserva el silencio escrito y escucha el grado 4 volver a casa.",
+        "de": "Forme Quartsprung in A Major; bewahre die notierte Pause und höre Grad 4 zum Grundton zurückkehren.",
+        "ja": "A Majorで「4度の跳躍」を形作り、書かれた休符を守って第4音から主音への帰着を聴きます。",
+        "zh-Hans": "在A Major中塑造“四度跳进”，保留写出的休止，并聆听第4级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-4\ntitle: Fourth-Leap Return\nroot: A\nscale: Major\ntempo: 76\ndegrees: 1 4 3 2 - 5 2 1"
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "id": "2026-07-31-fifth-floor-landing",
+      "titles": {
+        "en": "Fifth-Floor Landing",
+        "pt-BR": "Pouso na quinta",
+        "es": "Caída en la quinta",
+        "de": "Quint-Landung",
+        "ja": "5度への着地",
+        "zh-Hans": "五度落点"
+      },
+      "blurbs": {
+        "en": "Shape fifth-floor landing in E Major; preserve the written rest and hear degree 5 lead back home.",
+        "pt-BR": "Modele pouso na quinta em E Major; preserve a pausa escrita e ouça o grau 5 voltar para casa.",
+        "es": "Da forma a caída en la quinta en E Major; conserva el silencio escrito y escucha el grado 5 volver a casa.",
+        "de": "Forme Quint-Landung in E Major; bewahre die notierte Pause und höre Grad 5 zum Grundton zurückkehren.",
+        "ja": "E Majorで「5度への着地」を形作り、書かれた休符を守って第5音から主音への帰着を聴きます。",
+        "zh-Hans": "在E Major中塑造“五度落点”，保留写出的休止，并聆听第5级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-5\ntitle: Fifth-Floor Landing\nroot: E\nscale: Major\ntempo: 80\ndegrees: 1 5 4 3 - 2 7 1"
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "id": "2026-08-01-sixth-color-curve",
+      "titles": {
+        "en": "Sixth-Color Curve",
+        "pt-BR": "Curva da sexta",
+        "es": "Curva de sexta",
+        "de": "Sext-Kurve",
+        "ja": "6度の曲線",
+        "zh-Hans": "六度曲线"
+      },
+      "blurbs": {
+        "en": "Shape sixth-color curve in F Natural Minor; preserve the written rest and hear degree 6 lead back home.",
+        "pt-BR": "Modele curva da sexta em F Natural Minor; preserve a pausa escrita e ouça o grau 6 voltar para casa.",
+        "es": "Da forma a curva de sexta en F Natural Minor; conserva el silencio escrito y escucha el grado 6 volver a casa.",
+        "de": "Forme Sext-Kurve in F Natural Minor; bewahre die notierte Pause und höre Grad 6 zum Grundton zurückkehren.",
+        "ja": "F Natural Minorで「6度の曲線」を形作り、書かれた休符を守って第6音から主音への帰着を聴きます。",
+        "zh-Hans": "在F Natural Minor中塑造“六度曲线”，保留写出的休止，并聆听第6级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-6\ntitle: Sixth-Color Curve\nroot: F\nscale: Natural Minor\ntempo: 84\ndegrees: 1 6 5 3 - 4 2 1"
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "id": "2026-08-02-seventh-tone-tease",
+      "titles": {
+        "en": "Seventh-Tone Tease",
+        "pt-BR": "Provocação da sétima",
+        "es": "Tensión de séptima",
+        "de": "Septim-Reiz",
+        "ja": "7度の焦らし",
+        "zh-Hans": "七级悬念"
+      },
+      "blurbs": {
+        "en": "Shape seventh-tone tease in Bb Major; preserve the written rest and hear degree 7 lead back home.",
+        "pt-BR": "Modele provocação da sétima em Bb Major; preserve a pausa escrita e ouça o grau 7 voltar para casa.",
+        "es": "Da forma a tensión de séptima en Bb Major; conserva el silencio escrito y escucha el grado 7 volver a casa.",
+        "de": "Forme Septim-Reiz in Bb Major; bewahre die notierte Pause und höre Grad 7 zum Grundton zurückkehren.",
+        "ja": "Bb Majorで「7度の焦らし」を形作り、書かれた休符を守って第7音から主音への帰着を聴きます。",
+        "zh-Hans": "在Bb Major中塑造“七级悬念”，保留写出的休止，并聆听第7级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-7\ntitle: Seventh-Tone Tease\nroot: Bb\nscale: Major\ntempo: 88\ndegrees: 1 7 6 5 - 2 7 1"
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "id": "2026-08-03-octave-doorway",
+      "titles": {
+        "en": "Octave Doorway",
+        "pt-BR": "Eco da tônica 2",
+        "es": "Eco de tónica 2",
+        "de": "Grundton-Echo 2",
+        "ja": "主音のこだま 2",
+        "zh-Hans": "主音回声 2"
+      },
+      "blurbs": {
+        "en": "Shape octave doorway in C Major; preserve the written rest and hear degree 1 lead back home.",
+        "pt-BR": "Modele eco da tônica 2 em C Major; preserve a pausa escrita e ouça o grau 1 voltar para casa.",
+        "es": "Da forma a eco de tónica 2 en C Major; conserva el silencio escrito y escucha el grado 1 volver a casa.",
+        "de": "Forme Grundton-Echo 2 in C Major; bewahre die notierte Pause und höre Grad 1 zum Grundton zurückkehren.",
+        "ja": "C Majorで「主音のこだま 2」を形作り、書かれた休符を守って第1音から主音への帰着を聴きます。",
+        "zh-Hans": "在C Major中塑造“主音回声 2”，保留写出的休止，并聆听第1级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-8\ntitle: Octave Doorway\nroot: C\nscale: Major\ntempo: 92\ndegrees: 1 8 7 5 - 3 2 1"
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "id": "2026-08-04-descending-ladder",
+      "titles": {
+        "en": "Descending Ladder",
+        "pt-BR": "Resposta do segundo 2",
+        "es": "Respuesta del segundo 2",
+        "de": "Sekund-Antwort 2",
+        "ja": "2度の応答 2",
+        "zh-Hans": "二级回应 2"
+      },
+      "blurbs": {
+        "en": "Shape descending ladder in G Major; preserve the written rest and hear degree 2 lead back home.",
+        "pt-BR": "Modele resposta do segundo 2 em G Major; preserve a pausa escrita e ouça o grau 2 voltar para casa.",
+        "es": "Da forma a respuesta del segundo 2 en G Major; conserva el silencio escrito y escucha el grado 2 volver a casa.",
+        "de": "Forme Sekund-Antwort 2 in G Major; bewahre die notierte Pause und höre Grad 2 zum Grundton zurückkehren.",
+        "ja": "G Majorで「2度の応答 2」を形作り、書かれた休符を守って第2音から主音への帰着を聴きます。",
+        "zh-Hans": "在G Major中塑造“二级回应 2”，保留写出的休止，并聆听第2级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-9\ntitle: Descending Ladder\nroot: G\nscale: Major\ntempo: 64\ndegrees: 8 7 6 5 - 4 2 1"
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "id": "2026-08-05-neighbor-turn",
+      "titles": {
+        "en": "Neighbor Turn",
+        "pt-BR": "Terças em equilíbrio 2",
+        "es": "Terceras en equilibrio 2",
+        "de": "Terzen im Gleichgewicht 2",
+        "ja": "3度のバランス 2",
+        "zh-Hans": "三度平衡 2"
+      },
+      "blurbs": {
+        "en": "Shape neighbor turn in D Major; preserve the written rest and hear degree 3 lead back home.",
+        "pt-BR": "Modele terças em equilíbrio 2 em D Major; preserve a pausa escrita e ouça o grau 3 voltar para casa.",
+        "es": "Da forma a terceras en equilibrio 2 en D Major; conserva el silencio escrito y escucha el grado 3 volver a casa.",
+        "de": "Forme Terzen im Gleichgewicht 2 in D Major; bewahre die notierte Pause und höre Grad 3 zum Grundton zurückkehren.",
+        "ja": "D Majorで「3度のバランス 2」を形作り、書かれた休符を守って第3音から主音への帰着を聴きます。",
+        "zh-Hans": "在D Major中塑造“三度平衡 2”，保留写出的休止，并聆听第3级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-10\ntitle: Neighbor Turn\nroot: D\nscale: Major\ntempo: 68\ndegrees: 1 2 1 7 - 1 3 1"
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "id": "2026-08-06-minor-shadow",
+      "titles": {
+        "en": "Minor Shadow",
+        "pt-BR": "Salto de quarta 2",
+        "es": "Salto de cuarta 2",
+        "de": "Quartsprung 2",
+        "ja": "4度の跳躍 2",
+        "zh-Hans": "四度跳进 2"
+      },
+      "blurbs": {
+        "en": "Shape minor shadow in A Natural Minor; preserve the written rest and hear degree 4 lead back home.",
+        "pt-BR": "Modele salto de quarta 2 em A Natural Minor; preserve a pausa escrita e ouça o grau 4 voltar para casa.",
+        "es": "Da forma a salto de cuarta 2 en A Natural Minor; conserva el silencio escrito y escucha el grado 4 volver a casa.",
+        "de": "Forme Quartsprung 2 in A Natural Minor; bewahre die notierte Pause und höre Grad 4 zum Grundton zurückkehren.",
+        "ja": "A Natural Minorで「4度の跳躍 2」を形作り、書かれた休符を守って第4音から主音への帰着を聴きます。",
+        "zh-Hans": "在A Natural Minor中塑造“四度跳进 2”，保留写出的休止，并聆听第4级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-11\ntitle: Minor Shadow\nroot: A\nscale: Natural Minor\ntempo: 72\ndegrees: 1 b3 4 5 - b7 2 1"
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "id": "2026-08-07-major-sunrise",
+      "titles": {
+        "en": "Major Sunrise",
+        "pt-BR": "Pouso na quinta 2",
+        "es": "Caída en la quinta 2",
+        "de": "Quint-Landung 2",
+        "ja": "5度への着地 2",
+        "zh-Hans": "五度落点 2"
+      },
+      "blurbs": {
+        "en": "Shape major sunrise in E Major; preserve the written rest and hear degree 5 lead back home.",
+        "pt-BR": "Modele pouso na quinta 2 em E Major; preserve a pausa escrita e ouça o grau 5 voltar para casa.",
+        "es": "Da forma a caída en la quinta 2 en E Major; conserva el silencio escrito y escucha el grado 5 volver a casa.",
+        "de": "Forme Quint-Landung 2 in E Major; bewahre die notierte Pause und höre Grad 5 zum Grundton zurückkehren.",
+        "ja": "E Majorで「5度への着地 2」を形作り、書かれた休符を守って第5音から主音への帰着を聴きます。",
+        "zh-Hans": "在E Major中塑造“五度落点 2”，保留写出的休止，并聆听第5级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-12\ntitle: Major Sunrise\nroot: E\nscale: Major\ntempo: 76\ndegrees: 1 3 5 6 - 5 2 1"
+      }
+    },
+    {
+      "date": "2026-08-08",
+      "id": "2026-08-08-dorian-lift",
+      "titles": {
+        "en": "Dorian Lift",
+        "pt-BR": "Curva da sexta 2",
+        "es": "Curva de sexta 2",
+        "de": "Sext-Kurve 2",
+        "ja": "6度の曲線 2",
+        "zh-Hans": "六度曲线 2"
+      },
+      "blurbs": {
+        "en": "Shape dorian lift in F Dorian; preserve the written rest and hear degree 6 lead back home.",
+        "pt-BR": "Modele curva da sexta 2 em F Dorian; preserve a pausa escrita e ouça o grau 6 voltar para casa.",
+        "es": "Da forma a curva de sexta 2 en F Dorian; conserva el silencio escrito y escucha el grado 6 volver a casa.",
+        "de": "Forme Sext-Kurve 2 in F Dorian; bewahre die notierte Pause und höre Grad 6 zum Grundton zurückkehren.",
+        "ja": "F Dorianで「6度の曲線 2」を形作り、書かれた休符を守って第6音から主音への帰着を聴きます。",
+        "zh-Hans": "在F Dorian中塑造“六度曲线 2”，保留写出的休止，并聆听第6级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-13\ntitle: Dorian Lift\nroot: F\nscale: Dorian\ntempo: 80\ndegrees: 1 2 b3 6 - 5 2 1"
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "id": "2026-08-09-pentatonic-skip",
+      "titles": {
+        "en": "Pentatonic Skip",
+        "pt-BR": "Provocação da sétima 2",
+        "es": "Tensión de séptima 2",
+        "de": "Septim-Reiz 2",
+        "ja": "7度の焦らし 2",
+        "zh-Hans": "七级悬念 2"
+      },
+      "blurbs": {
+        "en": "Shape pentatonic skip in Bb Pentatonic Major; preserve the written rest and hear degree 7 lead back home.",
+        "pt-BR": "Modele provocação da sétima 2 em Bb Pentatonic Major; preserve a pausa escrita e ouça o grau 7 voltar para casa.",
+        "es": "Da forma a tensión de séptima 2 en Bb Pentatonic Major; conserva el silencio escrito y escucha el grado 7 volver a casa.",
+        "de": "Forme Septim-Reiz 2 in Bb Pentatonic Major; bewahre die notierte Pause und höre Grad 7 zum Grundton zurückkehren.",
+        "ja": "Bb Pentatonic Majorで「7度の焦らし 2」を形作り、書かれた休符を守って第7音から主音への帰着を聴きます。",
+        "zh-Hans": "在Bb Pentatonic Major中塑造“七级悬念 2”，保留写出的休止，并聆听第7级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-14\ntitle: Pentatonic Skip\nroot: Bb\nscale: Pentatonic Major\ntempo: 84\ndegrees: 1 3 5 2 - 6 5 1"
+      }
+    },
+    {
+      "date": "2026-08-10",
+      "id": "2026-08-10-rested-climb",
+      "titles": {
+        "en": "Rested Climb",
+        "pt-BR": "Eco da tônica 3",
+        "es": "Eco de tónica 3",
+        "de": "Grundton-Echo 3",
+        "ja": "主音のこだま 3",
+        "zh-Hans": "主音回声 3"
+      },
+      "blurbs": {
+        "en": "Shape rested climb in C Major; preserve the written rest and hear degree 1 lead back home.",
+        "pt-BR": "Modele eco da tônica 3 em C Major; preserve a pausa escrita e ouça o grau 1 voltar para casa.",
+        "es": "Da forma a eco de tónica 3 en C Major; conserva el silencio escrito y escucha el grado 1 volver a casa.",
+        "de": "Forme Grundton-Echo 3 in C Major; bewahre die notierte Pause und höre Grad 1 zum Grundton zurückkehren.",
+        "ja": "C Majorで「主音のこだま 3」を形作り、書かれた休符を守って第1音から主音への帰着を聴きます。",
+        "zh-Hans": "在C Major中塑造“主音回声 3”，保留写出的休止，并聆听第1级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-15\ntitle: Rested Climb\nroot: C\nscale: Major\ntempo: 88\ndegrees: 1 - 2 3 - 5 4 1"
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "id": "2026-08-11-backbeat-reply",
+      "titles": {
+        "en": "Backbeat Reply",
+        "pt-BR": "Resposta do segundo 3",
+        "es": "Respuesta del segundo 3",
+        "de": "Sekund-Antwort 3",
+        "ja": "2度の応答 3",
+        "zh-Hans": "二级回应 3"
+      },
+      "blurbs": {
+        "en": "Shape backbeat reply in G Pentatonic Minor; preserve the written rest and hear degree 2 lead back home.",
+        "pt-BR": "Modele resposta do segundo 3 em G Pentatonic Minor; preserve a pausa escrita e ouça o grau 2 voltar para casa.",
+        "es": "Da forma a respuesta del segundo 3 en G Pentatonic Minor; conserva el silencio escrito y escucha el grado 2 volver a casa.",
+        "de": "Forme Sekund-Antwort 3 in G Pentatonic Minor; bewahre die notierte Pause und höre Grad 2 zum Grundton zurückkehren.",
+        "ja": "G Pentatonic Minorで「2度の応答 3」を形作り、書かれた休符を守って第2音から主音への帰着を聴きます。",
+        "zh-Hans": "在G Pentatonic Minor中塑造“二级回应 3”，保留写出的休止，并聆听第2级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-16\ntitle: Backbeat Reply\nroot: G\nscale: Pentatonic Minor\ntempo: 92\ndegrees: 1 3 - 2 5 - 4 1"
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "id": "2026-08-12-three-note-cell",
+      "titles": {
+        "en": "Three-Note Cell",
+        "pt-BR": "Terças em equilíbrio 3",
+        "es": "Terceras en equilibrio 3",
+        "de": "Terzen im Gleichgewicht 3",
+        "ja": "3度のバランス 3",
+        "zh-Hans": "三度平衡 3"
+      },
+      "blurbs": {
+        "en": "Shape three-note cell in D Major; preserve the written rest and hear degree 3 lead back home.",
+        "pt-BR": "Modele terças em equilíbrio 3 em D Major; preserve a pausa escrita e ouça o grau 3 voltar para casa.",
+        "es": "Da forma a terceras en equilibrio 3 en D Major; conserva el silencio escrito y escucha el grado 3 volver a casa.",
+        "de": "Forme Terzen im Gleichgewicht 3 in D Major; bewahre die notierte Pause und höre Grad 3 zum Grundton zurückkehren.",
+        "ja": "D Majorで「3度のバランス 3」を形作り、書かれた休符を守って第3音から主音への帰着を聴きます。",
+        "zh-Hans": "在D Major中塑造“三度平衡 3”，保留写出的休止，并聆听第3级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-17\ntitle: Three-Note Cell\nroot: D\nscale: Major\ntempo: 64\ndegrees: 1 2 3 2 - 5 4 1"
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "id": "2026-08-13-wide-arc",
+      "titles": {
+        "en": "Wide Arc",
+        "pt-BR": "Salto de quarta 3",
+        "es": "Salto de cuarta 3",
+        "de": "Quartsprung 3",
+        "ja": "4度の跳躍 3",
+        "zh-Hans": "四度跳进 3"
+      },
+      "blurbs": {
+        "en": "Shape wide arc in A Major; preserve the written rest and hear degree 4 lead back home.",
+        "pt-BR": "Modele salto de quarta 3 em A Major; preserve a pausa escrita e ouça o grau 4 voltar para casa.",
+        "es": "Da forma a salto de cuarta 3 en A Major; conserva el silencio escrito y escucha el grado 4 volver a casa.",
+        "de": "Forme Quartsprung 3 in A Major; bewahre die notierte Pause und höre Grad 4 zum Grundton zurückkehren.",
+        "ja": "A Majorで「4度の跳躍 3」を形作り、書かれた休符を守って第4音から主音への帰着を聴きます。",
+        "zh-Hans": "在A Major中塑造“四度跳进 3”，保留写出的休止，并聆听第4级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-18\ntitle: Wide Arc\nroot: A\nscale: Major\ntempo: 68\ndegrees: 1 5 2 6 - 4 3 1"
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "id": "2026-08-14-low-high-call",
+      "titles": {
+        "en": "Low-High Call",
+        "pt-BR": "Pouso na quinta 3",
+        "es": "Caída en la quinta 3",
+        "de": "Quint-Landung 3",
+        "ja": "5度への着地 3",
+        "zh-Hans": "五度落点 3"
+      },
+      "blurbs": {
+        "en": "Shape low-high call in E Major; preserve the written rest and hear degree 5 lead back home.",
+        "pt-BR": "Modele pouso na quinta 3 em E Major; preserve a pausa escrita e ouça o grau 5 voltar para casa.",
+        "es": "Da forma a caída en la quinta 3 en E Major; conserva el silencio escrito y escucha el grado 5 volver a casa.",
+        "de": "Forme Quint-Landung 3 in E Major; bewahre die notierte Pause und höre Grad 5 zum Grundton zurückkehren.",
+        "ja": "E Majorで「5度への着地 3」を形作り、書かれた休符を守って第5音から主音への帰着を聴きます。",
+        "zh-Hans": "在E Major中塑造“五度落点 3”，保留写出的休止，并聆听第5级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-19\ntitle: Low-High Call\nroot: E\nscale: Major\ntempo: 72\ndegrees: 1 5 8 6 - 3 2 1"
+      }
+    },
+    {
+      "date": "2026-08-15",
+      "id": "2026-08-15-syncopated-home",
+      "titles": {
+        "en": "Syncopated Home",
+        "pt-BR": "Curva da sexta 3",
+        "es": "Curva de sexta 3",
+        "de": "Sext-Kurve 3",
+        "ja": "6度の曲線 3",
+        "zh-Hans": "六度曲线 3"
+      },
+      "blurbs": {
+        "en": "Shape syncopated home in F Major; preserve the written rest and hear degree 6 lead back home.",
+        "pt-BR": "Modele curva da sexta 3 em F Major; preserve a pausa escrita e ouça o grau 6 voltar para casa.",
+        "es": "Da forma a curva de sexta 3 en F Major; conserva el silencio escrito y escucha el grado 6 volver a casa.",
+        "de": "Forme Sext-Kurve 3 in F Major; bewahre die notierte Pause und höre Grad 6 zum Grundton zurückkehren.",
+        "ja": "F Majorで「6度の曲線 3」を形作り、書かれた休符を守って第6音から主音への帰着を聴きます。",
+        "zh-Hans": "在F Major中塑造“六度曲线 3”，保留写出的休止，并聆听第6级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-20\ntitle: Syncopated Home\nroot: F\nscale: Major\ntempo: 76\ndegrees: - 1 3 - 5 2 1"
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "id": "2026-08-16-broken-triangle",
+      "titles": {
+        "en": "Broken Triangle",
+        "pt-BR": "Provocação da sétima 3",
+        "es": "Tensión de séptima 3",
+        "de": "Septim-Reiz 3",
+        "ja": "7度の焦らし 3",
+        "zh-Hans": "七级悬念 3"
+      },
+      "blurbs": {
+        "en": "Shape broken triangle in Bb Major; preserve the written rest and hear degree 7 lead back home.",
+        "pt-BR": "Modele provocação da sétima 3 em Bb Major; preserve a pausa escrita e ouça o grau 7 voltar para casa.",
+        "es": "Da forma a tensión de séptima 3 en Bb Major; conserva el silencio escrito y escucha el grado 7 volver a casa.",
+        "de": "Forme Septim-Reiz 3 in Bb Major; bewahre die notierte Pause und höre Grad 7 zum Grundton zurückkehren.",
+        "ja": "Bb Majorで「7度の焦らし 3」を形作り、書かれた休符を守って第7音から主音への帰着を聴きます。",
+        "zh-Hans": "在Bb Major中塑造“七级悬念 3”，保留写出的休止，并聆听第7级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-21\ntitle: Broken Triangle\nroot: Bb\nscale: Major\ntempo: 80\ndegrees: 1 3 5 3 - 6 4 1"
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "id": "2026-08-17-upper-neighbor",
+      "titles": {
+        "en": "Upper Neighbor",
+        "pt-BR": "Eco da tônica 4",
+        "es": "Eco de tónica 4",
+        "de": "Grundton-Echo 4",
+        "ja": "主音のこだま 4",
+        "zh-Hans": "主音回声 4"
+      },
+      "blurbs": {
+        "en": "Shape upper neighbor in C Natural Minor; preserve the written rest and hear degree 1 lead back home.",
+        "pt-BR": "Modele eco da tônica 4 em C Natural Minor; preserve a pausa escrita e ouça o grau 1 voltar para casa.",
+        "es": "Da forma a eco de tónica 4 en C Natural Minor; conserva el silencio escrito y escucha el grado 1 volver a casa.",
+        "de": "Forme Grundton-Echo 4 in C Natural Minor; bewahre die notierte Pause und höre Grad 1 zum Grundton zurückkehren.",
+        "ja": "C Natural Minorで「主音のこだま 4」を形作り、書かれた休符を守って第1音から主音への帰着を聴きます。",
+        "zh-Hans": "在C Natural Minor中塑造“主音回声 4”，保留写出的休止，并聆听第1级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-22\ntitle: Upper Neighbor\nroot: C\nscale: Natural Minor\ntempo: 84\ndegrees: 5 6 5 3 - 2 7 1"
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "id": "2026-08-18-double-return",
+      "titles": {
+        "en": "Double Return",
+        "pt-BR": "Resposta do segundo 4",
+        "es": "Respuesta del segundo 4",
+        "de": "Sekund-Antwort 4",
+        "ja": "2度の応答 4",
+        "zh-Hans": "二级回应 4"
+      },
+      "blurbs": {
+        "en": "Shape double return in G Major; preserve the written rest and hear degree 2 lead back home.",
+        "pt-BR": "Modele resposta do segundo 4 em G Major; preserve a pausa escrita e ouça o grau 2 voltar para casa.",
+        "es": "Da forma a respuesta del segundo 4 en G Major; conserva el silencio escrito y escucha el grado 2 volver a casa.",
+        "de": "Forme Sekund-Antwort 4 in G Major; bewahre die notierte Pause und höre Grad 2 zum Grundton zurückkehren.",
+        "ja": "G Majorで「2度の応答 4」を形作り、書かれた休符を守って第2音から主音への帰着を聴きます。",
+        "zh-Hans": "在G Major中塑造“二级回应 4”，保留写出的休止，并聆听第2级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-23\ntitle: Double Return\nroot: G\nscale: Major\ntempo: 88\ndegrees: 1 2 1 2 - 5 2 1"
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "id": "2026-08-19-question-mark",
+      "titles": {
+        "en": "Question Mark",
+        "pt-BR": "Terças em equilíbrio 4",
+        "es": "Terceras en equilibrio 4",
+        "de": "Terzen im Gleichgewicht 4",
+        "ja": "3度のバランス 4",
+        "zh-Hans": "三度平衡 4"
+      },
+      "blurbs": {
+        "en": "Shape question mark in D Major; preserve the written rest and hear degree 3 lead back home.",
+        "pt-BR": "Modele terças em equilíbrio 4 em D Major; preserve a pausa escrita e ouça o grau 3 voltar para casa.",
+        "es": "Da forma a terceras en equilibrio 4 en D Major; conserva el silencio escrito y escucha el grado 3 volver a casa.",
+        "de": "Forme Terzen im Gleichgewicht 4 in D Major; bewahre die notierte Pause und höre Grad 3 zum Grundton zurückkehren.",
+        "ja": "D Majorで「3度のバランス 4」を形作り、書かれた休符を守って第3音から主音への帰着を聴きます。",
+        "zh-Hans": "在D Major中塑造“三度平衡 4”，保留写出的休止，并聆听第3级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-24\ntitle: Question Mark\nroot: D\nscale: Major\ntempo: 92\ndegrees: 1 4 6 5 - 3 7 1"
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "id": "2026-08-20-answer-phrase",
+      "titles": {
+        "en": "Answer Phrase",
+        "pt-BR": "Salto de quarta 4",
+        "es": "Salto de cuarta 4",
+        "de": "Quartsprung 4",
+        "ja": "4度の跳躍 4",
+        "zh-Hans": "四度跳进 4"
+      },
+      "blurbs": {
+        "en": "Shape answer phrase in A Major; preserve the written rest and hear degree 4 lead back home.",
+        "pt-BR": "Modele salto de quarta 4 em A Major; preserve a pausa escrita e ouça o grau 4 voltar para casa.",
+        "es": "Da forma a salto de cuarta 4 en A Major; conserva el silencio escrito y escucha el grado 4 volver a casa.",
+        "de": "Forme Quartsprung 4 in A Major; bewahre die notierte Pause und höre Grad 4 zum Grundton zurückkehren.",
+        "ja": "A Majorで「4度の跳躍 4」を形作り、書かれた休符を守って第4音から主音への帰着を聴きます。",
+        "zh-Hans": "在A Major中塑造“四度跳进 4”，保留写出的休止，并聆听第4级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-25\ntitle: Answer Phrase\nroot: A\nscale: Major\ntempo: 64\ndegrees: 5 4 3 2 - 7 2 1"
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "id": "2026-08-21-modal-hinge",
+      "titles": {
+        "en": "Modal Hinge",
+        "pt-BR": "Pouso na quinta 4",
+        "es": "Caída en la quinta 4",
+        "de": "Quint-Landung 4",
+        "ja": "5度への着地 4",
+        "zh-Hans": "五度落点 4"
+      },
+      "blurbs": {
+        "en": "Shape modal hinge in E Major; preserve the written rest and hear degree 5 lead back home.",
+        "pt-BR": "Modele pouso na quinta 4 em E Major; preserve a pausa escrita e ouça o grau 5 voltar para casa.",
+        "es": "Da forma a caída en la quinta 4 en E Major; conserva el silencio escrito y escucha el grado 5 volver a casa.",
+        "de": "Forme Quint-Landung 4 in E Major; bewahre die notierte Pause und höre Grad 5 zum Grundton zurückkehren.",
+        "ja": "E Majorで「5度への着地 4」を形作り、書かれた休符を守って第5音から主音への帰着を聴きます。",
+        "zh-Hans": "在E Major中塑造“五度落点 4”，保留写出的休止，并聆听第5级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-26\ntitle: Modal Hinge\nroot: E\nscale: Major\ntempo: 68\ndegrees: 1 2 b3 5 - 6 4 1"
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "id": "2026-08-22-bluesy-corner",
+      "titles": {
+        "en": "Bluesy Corner",
+        "pt-BR": "Curva da sexta 4",
+        "es": "Curva de sexta 4",
+        "de": "Sext-Kurve 4",
+        "ja": "6度の曲線 4",
+        "zh-Hans": "六度曲线 4"
+      },
+      "blurbs": {
+        "en": "Shape bluesy corner in F Natural Minor; preserve the written rest and hear degree 6 lead back home.",
+        "pt-BR": "Modele curva da sexta 4 em F Natural Minor; preserve a pausa escrita e ouça o grau 6 voltar para casa.",
+        "es": "Da forma a curva de sexta 4 en F Natural Minor; conserva el silencio escrito y escucha el grado 6 volver a casa.",
+        "de": "Forme Sext-Kurve 4 in F Natural Minor; bewahre die notierte Pause und höre Grad 6 zum Grundton zurückkehren.",
+        "ja": "F Natural Minorで「6度の曲線 4」を形作り、書かれた休符を守って第6音から主音への帰着を聴きます。",
+        "zh-Hans": "在F Natural Minor中塑造“六度曲线 4”，保留写出的休止，并聆听第6级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-27\ntitle: Bluesy Corner\nroot: F\nscale: Natural Minor\ntempo: 72\ndegrees: 1 b3 4 b5 - 5 b7 1"
+      }
+    },
+    {
+      "date": "2026-08-23",
+      "id": "2026-08-23-delayed-tonic",
+      "titles": {
+        "en": "Delayed Tonic",
+        "pt-BR": "Provocação da sétima 4",
+        "es": "Tensión de séptima 4",
+        "de": "Septim-Reiz 4",
+        "ja": "7度の焦らし 4",
+        "zh-Hans": "七级悬念 4"
+      },
+      "blurbs": {
+        "en": "Shape delayed tonic in Bb Major; preserve the written rest and hear degree 7 lead back home.",
+        "pt-BR": "Modele provocação da sétima 4 em Bb Major; preserve a pausa escrita e ouça o grau 7 voltar para casa.",
+        "es": "Da forma a tensión de séptima 4 en Bb Major; conserva el silencio escrito y escucha el grado 7 volver a casa.",
+        "de": "Forme Septim-Reiz 4 in Bb Major; bewahre die notierte Pause und höre Grad 7 zum Grundton zurückkehren.",
+        "ja": "Bb Majorで「7度の焦らし 4」を形作り、書かれた休符を守って第7音から主音への帰着を聴きます。",
+        "zh-Hans": "在Bb Major中塑造“七级悬念 4”，保留写出的休止，并聆听第7级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-28\ntitle: Delayed Tonic\nroot: Bb\nscale: Major\ntempo: 76\ndegrees: 1 3 5 - 6 2 - 1"
+      }
+    },
+    {
+      "date": "2026-08-24",
+      "id": "2026-08-24-rolling-descent",
+      "titles": {
+        "en": "Rolling Descent",
+        "pt-BR": "Eco da tônica 5",
+        "es": "Eco de tónica 5",
+        "de": "Grundton-Echo 5",
+        "ja": "主音のこだま 5",
+        "zh-Hans": "主音回声 5"
+      },
+      "blurbs": {
+        "en": "Shape rolling descent in C Dorian; preserve the written rest and hear degree 1 lead back home.",
+        "pt-BR": "Modele eco da tônica 5 em C Dorian; preserve a pausa escrita e ouça o grau 1 voltar para casa.",
+        "es": "Da forma a eco de tónica 5 en C Dorian; conserva el silencio escrito y escucha el grado 1 volver a casa.",
+        "de": "Forme Grundton-Echo 5 in C Dorian; bewahre die notierte Pause und höre Grad 1 zum Grundton zurückkehren.",
+        "ja": "C Dorianで「主音のこだま 5」を形作り、書かれた休符を守って第1音から主音への帰着を聴きます。",
+        "zh-Hans": "在C Dorian中塑造“主音回声 5”，保留写出的休止，并聆听第1级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-29\ntitle: Rolling Descent\nroot: C\nscale: Dorian\ntempo: 80\ndegrees: 6 5 4 3 - 2 1 7"
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "id": "2026-08-25-two-rest-relay",
+      "titles": {
+        "en": "Two-Rest Relay",
+        "pt-BR": "Resposta do segundo 5",
+        "es": "Respuesta del segundo 5",
+        "de": "Sekund-Antwort 5",
+        "ja": "2度の応答 5",
+        "zh-Hans": "二级回应 5"
+      },
+      "blurbs": {
+        "en": "Shape two-rest relay in G Pentatonic Major; preserve the written rest and hear degree 2 lead back home.",
+        "pt-BR": "Modele resposta do segundo 5 em G Pentatonic Major; preserve a pausa escrita e ouça o grau 2 voltar para casa.",
+        "es": "Da forma a respuesta del segundo 5 en G Pentatonic Major; conserva el silencio escrito y escucha el grado 2 volver a casa.",
+        "de": "Forme Sekund-Antwort 5 in G Pentatonic Major; bewahre die notierte Pause und höre Grad 2 zum Grundton zurückkehren.",
+        "ja": "G Pentatonic Majorで「2度の応答 5」を形作り、書かれた休符を守って第2音から主音への帰着を聴きます。",
+        "zh-Hans": "在G Pentatonic Major中塑造“二级回应 5”，保留写出的休止，并聆听第2级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-30\ntitle: Two-Rest Relay\nroot: G\nscale: Pentatonic Major\ntempo: 84\ndegrees: 1 - 3 4 - 6 5 1"
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "id": "2026-08-26-peak-and-settle",
+      "titles": {
+        "en": "Peak and Settle",
+        "pt-BR": "Terças em equilíbrio 5",
+        "es": "Terceras en equilibrio 5",
+        "de": "Terzen im Gleichgewicht 5",
+        "ja": "3度のバランス 5",
+        "zh-Hans": "三度平衡 5"
+      },
+      "blurbs": {
+        "en": "Shape peak and settle in D Major; preserve the written rest and hear degree 3 lead back home.",
+        "pt-BR": "Modele terças em equilíbrio 5 em D Major; preserve a pausa escrita e ouça o grau 3 voltar para casa.",
+        "es": "Da forma a terceras en equilibrio 5 en D Major; conserva el silencio escrito y escucha el grado 3 volver a casa.",
+        "de": "Forme Terzen im Gleichgewicht 5 in D Major; bewahre die notierte Pause und höre Grad 3 zum Grundton zurückkehren.",
+        "ja": "D Majorで「3度のバランス 5」を形作り、書かれた休符を守って第3音から主音への帰着を聴きます。",
+        "zh-Hans": "在D Major中塑造“三度平衡 5”，保留写出的休止，并聆听第3级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-31\ntitle: Peak and Settle\nroot: D\nscale: Major\ntempo: 88\ndegrees: 1 3 6 8 - 7 5 1"
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "id": "2026-08-27-offbeat-launch",
+      "titles": {
+        "en": "Offbeat Launch",
+        "pt-BR": "Salto de quarta 5",
+        "es": "Salto de cuarta 5",
+        "de": "Quartsprung 5",
+        "ja": "4度の跳躍 5",
+        "zh-Hans": "四度跳进 5"
+      },
+      "blurbs": {
+        "en": "Shape offbeat launch in A Pentatonic Minor; preserve the written rest and hear degree 4 lead back home.",
+        "pt-BR": "Modele salto de quarta 5 em A Pentatonic Minor; preserve a pausa escrita e ouça o grau 4 voltar para casa.",
+        "es": "Da forma a salto de cuarta 5 en A Pentatonic Minor; conserva el silencio escrito y escucha el grado 4 volver a casa.",
+        "de": "Forme Quartsprung 5 in A Pentatonic Minor; bewahre die notierte Pause und höre Grad 4 zum Grundton zurückkehren.",
+        "ja": "A Pentatonic Minorで「4度の跳躍 5」を形作り、書かれた休符を守って第4音から主音への帰着を聴きます。",
+        "zh-Hans": "在A Pentatonic Minor中塑造“四度跳进 5”，保留写出的休止，并聆听第4级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-32\ntitle: Offbeat Launch\nroot: A\nscale: Pentatonic Minor\ntempo: 92\ndegrees: - 3 5 6 - 4 2 1"
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "id": "2026-08-28-pedal-point",
+      "titles": {
+        "en": "Pedal Point",
+        "pt-BR": "Pouso na quinta 5",
+        "es": "Caída en la quinta 5",
+        "de": "Quint-Landung 5",
+        "ja": "5度への着地 5",
+        "zh-Hans": "五度落点 5"
+      },
+      "blurbs": {
+        "en": "Shape pedal point in E Major; preserve the written rest and hear degree 5 lead back home.",
+        "pt-BR": "Modele pouso na quinta 5 em E Major; preserve a pausa escrita e ouça o grau 5 voltar para casa.",
+        "es": "Da forma a caída en la quinta 5 en E Major; conserva el silencio escrito y escucha el grado 5 volver a casa.",
+        "de": "Forme Quint-Landung 5 in E Major; bewahre die notierte Pause und höre Grad 5 zum Grundton zurückkehren.",
+        "ja": "E Majorで「5度への着地 5」を形作り、書かれた休符を守って第5音から主音への帰着を聴きます。",
+        "zh-Hans": "在E Major中塑造“五度落点 5”，保留写出的休止，并聆听第5级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-33\ntitle: Pedal Point\nroot: E\nscale: Major\ntempo: 64\ndegrees: 1 1 5 1 - 4 2 1"
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "id": "2026-08-29-spiral-home",
+      "titles": {
+        "en": "Spiral Home",
+        "pt-BR": "Curva da sexta 5",
+        "es": "Curva de sexta 5",
+        "de": "Sext-Kurve 5",
+        "ja": "6度の曲線 5",
+        "zh-Hans": "六度曲线 5"
+      },
+      "blurbs": {
+        "en": "Shape spiral home in F Major; preserve the written rest and hear degree 6 lead back home.",
+        "pt-BR": "Modele curva da sexta 5 em F Major; preserve a pausa escrita e ouça o grau 6 voltar para casa.",
+        "es": "Da forma a curva de sexta 5 en F Major; conserva el silencio escrito y escucha el grado 6 volver a casa.",
+        "de": "Forme Sext-Kurve 5 in F Major; bewahre die notierte Pause und höre Grad 6 zum Grundton zurückkehren.",
+        "ja": "F Majorで「6度の曲線 5」を形作り、書かれた休符を守って第6音から主音への帰着を聴きます。",
+        "zh-Hans": "在F Major中塑造“六度曲线 5”，保留写出的休止，并聆听第6级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-34\ntitle: Spiral Home\nroot: F\nscale: Major\ntempo: 68\ndegrees: 1 2 4 6 - 5 3 1"
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "id": "2026-08-30-final-cadence",
+      "titles": {
+        "en": "Final Cadence",
+        "pt-BR": "Provocação da sétima 5",
+        "es": "Tensión de séptima 5",
+        "de": "Septim-Reiz 5",
+        "ja": "7度の焦らし 5",
+        "zh-Hans": "七级悬念 5"
+      },
+      "blurbs": {
+        "en": "Shape final cadence in Bb Major; preserve the written rest and hear degree 7 lead back home.",
+        "pt-BR": "Modele provocação da sétima 5 em Bb Major; preserve a pausa escrita e ouça o grau 7 voltar para casa.",
+        "es": "Da forma a tensión de séptima 5 en Bb Major; conserva el silencio escrito y escucha el grado 7 volver a casa.",
+        "de": "Forme Septim-Reiz 5 in Bb Major; bewahre die notierte Pause und höre Grad 7 zum Grundton zurückkehren.",
+        "ja": "Bb Majorで「7度の焦らし 5」を形作り、書かれた休符を守って第7音から主音への帰着を聴きます。",
+        "zh-Hans": "在Bb Major中塑造“七级悬念 5”，保留写出的休止，并聆听第7级回归主音。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: riff-35\ntitle: Final Cadence\nroot: Bb\nscale: Major\ntempo: 72\ndegrees: 5 4 2 7 - 2 1 1"
+      }
+    }
+  ]
+}
