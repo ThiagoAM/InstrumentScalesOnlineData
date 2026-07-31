@@ -1,0 +1,99 @@
+{
+  "id": "piano-shell-bounce-runway",
+  "section": "advanced",
+  "unit": "target-and-resolve",
+  "instrument": "piano",
+  "activity": "keyboard",
+  "optional": true,
+  "estimatedMinutes": 8,
+  "titles": {
+    "en": "Piano shell bounce runway",
+    "pt-BR": "Pista de salto com shells no piano",
+    "es": "Pista de rebote con shells en piano",
+    "de": "Klavier-Shell-Bounce-Startbahn",
+    "ja": "ピアノ・シェル・バウンス・ランウェイ",
+    "zh-Hans": "钢琴壳音弹跳跑道"
+  },
+  "summaries": {
+    "en": "Hold left-hand shells steady while the right hand bounces through scale notes and resolves to one bright target per chord.",
+    "pt-BR": "Mantenha shells firmes na mão esquerda enquanto a direita salta por notas da escala e resolve em um alvo brilhante por acorde.",
+    "es": "Mantén shells firmes en la mano izquierda mientras la derecha rebota por notas de la escala y resuelve en un objetivo brillante por acorde.",
+    "de": "Halte linke Shell-Voicings stabil, während die rechte Hand durch Skalennoten springt und sich pro Akkord auf einen hellen Zielton auflöst.",
+    "ja": "左手のシェルを安定させたまま、右手がスケール音を跳ねて各コードでひとつの明るい目標音へ解決します。",
+    "zh-Hans": "左手稳住壳式和弦，右手在音阶音之间弹跳，并在每个和弦上解决到一个明亮目标音。"
+  },
+  "body": {
+    "en": {
+      "blocks": [
+        "Loop **Dm7 - G7 - Cmaj7 - A7** at **88 bpm**. Your left hand is the runway: short, stable shell voicings. Your right hand is the bouncing plane that must still land on purpose.",
+        "Round 1 is the **runway check**. Hold simple shells in the left hand: **D-F**, **G-F**, **C-E**, **A-G**. In the right hand, use only three nearby scale notes per chord and make beat 1 of every new bar sound calm.",
+        "Round 2 adds the **bounce**. On beats 2 and 3, let the right hand skip up and back through a tiny scale cell before resolving on beat 4 or the next beat 1. The skip should sound buoyant, not random.",
+        "Round 3 sharpens the target. Resolve to **F** over Dm7, **B** over G7, **E** over Cmaj7, and **C#** over A7. If the shell in the left hand wobbles when the right hand gets playful, simplify the right hand before increasing tempo.",
+        "Challenge round: create two 4-bar choruses. In chorus one, keep every right-hand phrase inside one octave. In chorus two, let exactly one phrase jump wider, but only if the landing note still sounds inevitable. This is advanced practice, not random fireworks.",
+        "Best listening test: can someone hear the harmony from the shells alone, and the direction from the right hand alone? If both answers are yes, the lesson is working beautifully."
+      ],
+      "checkpoint": "Play one full 4-bar loop with steady shell voicings and a clear right-hand target note on every chord."
+    },
+    "pt-BR": {
+      "blocks": [
+        "Faça um loop em **Dm7 - G7 - Cmaj7 - A7** a **88 bpm**. Sua mão esquerda é a pista: shells curtos e estáveis. A mão direita é o avião saltitando que ainda precisa pousar com intenção.",
+        "A Rodada 1 é a **checagem da pista**. Segure shells simples na mão esquerda: **D-F**, **G-F**, **C-E**, **A-G**. Na mão direita, use apenas três notas próximas da escala por acorde e faça o tempo 1 de cada compasso novo soar calmo.",
+        "A Rodada 2 adiciona o **salto**. Nos tempos 2 e 3, deixe a mão direita pular para cima e voltar por uma pequena célula de escala antes de resolver no tempo 4 ou no próximo tempo 1. O salto deve soar elástico, não aleatório.",
+        "A Rodada 3 afia o alvo. Resolva em **F** sobre Dm7, **B** sobre G7, **E** sobre Cmaj7 e **C#** sobre A7. Se o shell da mão esquerda vacilar quando a direita ficar brincalhona, simplifique a direita antes de aumentar o andamento.",
+        "Rodada de desafio: crie dois choruses de 4 compassos. No primeiro, mantenha toda frase da mão direita dentro de uma oitava. No segundo, deixe exatamente uma frase saltar mais longe, mas só se a nota de chegada ainda soar inevitável. Isto é estudo avançado, não fogos aleatórios.",
+        "Melhor teste de escuta: alguém consegue ouvir a harmonia só pelos shells e a direção só pela mão direita? Se as duas respostas forem sim, a lição está funcionando lindamente."
+      ],
+      "checkpoint": "Toque um loop completo de 4 compassos com shells estáveis e uma nota-alvo clara na mão direita em cada acorde."
+    },
+    "es": {
+      "blocks": [
+        "Pon en bucle **Dm7 - G7 - Cmaj7 - A7** a **88 bpm**. Tu mano izquierda es la pista: shells cortos y estables. La derecha es el avión que rebota, pero aun así debe aterrizar con intención.",
+        "La Ronda 1 es la **revisión de pista**. Mantén shells simples en la izquierda: **D-F**, **G-F**, **C-E**, **A-G**. En la derecha usa solo tres notas cercanas de la escala por acorde y haz que el tiempo 1 de cada compás nuevo suene tranquilo.",
+        "La Ronda 2 añade el **rebote**. En los tiempos 2 y 3, deja que la mano derecha suba y vuelva por una pequeña célula de escala antes de resolver en el tiempo 4 o en el siguiente tiempo 1. El salto debe sonar elástico, no aleatorio.",
+        "La Ronda 3 afila el objetivo. Resuelve en **F** sobre Dm7, **B** sobre G7, **E** sobre Cmaj7 y **C#** sobre A7. Si el shell de la izquierda tambalea cuando la derecha se pone juguetona, simplifica la derecha antes de subir el tempo.",
+        "Ronda de desafío: crea dos coros de 4 compases. En el primero, mantén cada frase de la derecha dentro de una sola octava. En el segundo, deja que exactamente una frase salte más lejos, pero solo si la nota de llegada sigue sonando inevitable. Esto es práctica avanzada, no fuegos artificiales al azar.",
+        "Mejor prueba auditiva: ¿se puede oír la armonía solo por los shells y la dirección solo por la mano derecha? Si ambas respuestas son sí, la lección está funcionando de maravilla."
+      ],
+      "checkpoint": "Toca un bucle completo de 4 compases con shells estables y una nota objetivo clara en la mano derecha sobre cada acorde."
+    },
+    "de": {
+      "blocks": [
+        "Lass **Dm7 - G7 - Cmaj7 - A7** mit **88 bpm** laufen. Deine linke Hand ist die Startbahn: kurze, stabile Shell-Voicings. Die rechte Hand ist das springende Flugzeug, das trotzdem bewusst landen muss.",
+        "Runde 1 ist der **Startbahn-Check**. Halte links einfache Shells: **D-F**, **G-F**, **C-E**, **A-G**. Rechts verwendest du pro Akkord nur drei nahe Skalennoten und lässt Schlag 1 jedes neuen Taktes ruhig klingen.",
+        "Runde 2 ergänzt den **Bounce**. Auf Schlag 2 und 3 springt die rechte Hand durch eine kleine Skalenzelle nach oben und zurück, bevor sie sich auf Schlag 4 oder dem nächsten Schlag 1 auflöst. Der Sprung soll federnd wirken, nicht zufällig.",
+        "Runde 3 schärft das Ziel. Löse auf **F** über Dm7, **B** über G7, **E** über Cmaj7 und **C#** über A7 auf. Wenn die linke Shell wackelt, sobald die rechte Hand verspielter wird, vereinfache erst rechts, bevor du das Tempo erhöhst.",
+        "Challenge-Runde: Erstelle zwei viertaktige Durchgänge. Im ersten bleibt jede rechte-Hand-Phrase innerhalb einer Oktave. Im zweiten darf genau eine Phrase weiter springen, aber nur dann, wenn der Zielton immer noch unvermeidlich klingt. Das ist fortgeschrittene Übung, kein zufälliges Feuerwerk.",
+        "Bester Hörtest: Kann man die Harmonie allein aus den Shells hören und die Richtung allein aus der rechten Hand? Wenn beides ja ist, arbeitet diese Lektion wunderbar."
+      ],
+      "checkpoint": "Spiele einen vollständigen 4-Takt-Loop mit stabilen Shell-Voicings und einem klaren Zielton in der rechten Hand auf jedem Akkord."
+    },
+    "ja": {
+      "blocks": [
+        "**Dm7 - G7 - Cmaj7 - A7** を **88 bpm** でループします。左手は滑走路です。短く安定したシェル・ボイシングを保ちます。右手は跳ねる飛行機ですが、着地は必ず意図的でなければなりません。",
+        "ラウンド1は **ランウェイチェック**。左手で **D-F**, **G-F**, **C-E**, **A-G** のシンプルなシェルを押さえます。右手は各コードにつき近い3つのスケール音だけを使い、新しい小節の1拍目が落ち着いて聞こえるようにします。",
+        "ラウンド2では **バウンス** を加えます。2拍目と3拍目で、右手が小さなスケールセルを上がって戻り、4拍目か次の1拍目で解決します。跳ね方は気まぐれではなく、弾む感じであるべきです。",
+        "ラウンド3ではターゲットを鋭くします。Dm7 では **F**、G7 では **B**、Cmaj7 では **E**、A7 では **C#** に解決します。右手が遊び始めると左手のシェルが揺れるなら、テンポを上げる前に右手を簡単にしてください。",
+        "チャレンジ・ラウンドでは4小節のコーラスを2つ作ります。1つ目は右手のすべてのフレーズを1オクターブ内に収めます。2つ目はちょうど1つのフレーズだけ大きく跳ばせてよいですが、着地点が必然に聞こえる場合だけです。これは高度な練習であって、適当な花火大会ではありません。",
+        "最高の聴き方テストはこれです。シェルだけでハーモニーが聞こえ、右手だけで進行方向が聞こえるか。両方が yes なら、このレッスンはとても美しく機能しています。"
+      ],
+      "checkpoint": "4小節のループを通して、左手のシェルを安定させながら、各コードで右手の明確な目標音に着地しましょう。"
+    },
+    "zh-Hans": {
+      "blocks": [
+        "把 **Dm7 - G7 - Cmaj7 - A7** 设成 **88 bpm** 循环。你的左手是跑道：短而稳定的 shell voicing。右手则像弹跳的飞机，但每次都必须有意识地降落。",
+        "第1轮是 **跑道检查**。左手保持简单 shell：**D-F**、**G-F**、**C-E**、**A-G**。右手每个和弦只用三个相邻的音阶音，并让每个新小节的第1拍听起来平静而稳固。",
+        "第2轮加入 **弹跳**。在第2拍和第3拍，让右手通过一个小音阶单元向上再回来，并在第4拍或下一个第1拍解决。这个跳跃要听起来轻盈有弹性，而不是随便乱跑。",
+        "第3轮把目标磨亮。Dm7 解决到 **F**，G7 解决到 **B**，Cmaj7 解决到 **E**，A7 解决到 **C#**。如果右手一活跃，左手的 shell 就开始摇晃，那就在提速之前先把右手简化。",
+        "挑战轮：做两个4小节 chorus。第一个里，右手每个乐句都限制在一个八度内。第二个里，只允许恰好一个乐句跳得更宽，但前提是落点依然听起来像必然发生。这是高级练习，不是随机放烟花。",
+        "最好的听觉测试是：只听 shell 能不能听出和声，只听右手能不能听出方向？如果两个答案都是能，这节课就练对了。"
+      ],
+      "checkpoint": "完整弹一遍4小节循环，让左手 shell 稳定不晃，同时每个和弦右手都清楚落到目标音上。"
+    }
+  },
+  "sharedBlocks": [
+    {
+      "type": "notes",
+      "content": "id: piano-shell-bounce-runway-right-hand\ntitle: Right-hand bounce targets\ninstrument: piano\ntempo: 88\nsequence: D4 E4 F4 E4 F4 A4 B4 A4 E4 D4 C4 B3 C#4 E4 C#4 A3"
+    }
+  ]
+}

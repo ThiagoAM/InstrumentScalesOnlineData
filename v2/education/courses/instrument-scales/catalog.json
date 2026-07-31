@@ -388,6 +388,31 @@
                 "zh-Hans": "先把第一拍站稳，再把音阶片段滑向反拍，同时不丢掉律动。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/guitar-syncopation-sidestep/lesson.md"
+            },
+            {
+              "id": "guitar-triplet-escape-lane",
+              "order": 4,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar triplet escape lane",
+                "pt-BR": "Faixa de fuga em tercinas na guitarra",
+                "es": "Carril de escape en tresillos para guitarra",
+                "de": "Gitarren-Triolen-Fluchtspur",
+                "ja": "ギター・トリプレット・エスケープレーン",
+                "zh-Hans": "吉他三连音逃逸通道"
+              },
+              "summaries": {
+                "en": "Break out of straight eighths with one controlled triplet burst that still lands squarely on beat one.",
+                "pt-BR": "Saia das colcheias retas com uma rajada controlada de tercinas que ainda aterrissa firme no tempo 1.",
+                "es": "Sal de las corcheas rectas con una ráfaga controlada de tresillos que aun así cae firme en el tiempo 1.",
+                "de": "Brich aus geraden Achteln aus mit einer kontrollierten Triolen-Figur, die trotzdem exakt auf Schlag eins landet.",
+                "ja": "ストレートの8分音符から抜け出しつつ、コントロールされた3連音のひと吹きで1拍目へ正確に着地します。",
+                "zh-Hans": "用一次受控的三连音冲刺跳出平直八分音符，同时依然稳稳落回第一拍。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/guitar-triplet-escape-lane/lesson.md"
             }
           ]
         }
@@ -635,6 +660,31 @@
                 "zh-Hans": "在双手之间移动四度音程的音阶片段，同时保持一个平稳的中心脉冲。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/piano-fourth-compass-drift/lesson.md"
+            },
+            {
+              "id": "bass-fifth-beacon-weave",
+              "order": 9,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass fifth beacon weave",
+                "pt-BR": "Trama de faróis de quinta no baixo",
+                "es": "Trama de balizas de quinta en bajo",
+                "de": "Bass-Quint-Leuchtfeuer-Gewebe",
+                "ja": "ベース・5度ビーコン・ウィーブ",
+                "zh-Hans": "贝斯五度信标编织"
+              },
+              "summaries": {
+                "en": "Jump between roots and fifths, then stitch the gaps together with stepwise motion that still sounds intentional.",
+                "pt-BR": "Salte entre tônicas e quintas e depois costure os espaços com movimento conjunto que ainda soe intencional.",
+                "es": "Salta entre tónicas y quintas y luego cose los huecos con movimiento conjunto que siga sonando intencional.",
+                "de": "Springe zwischen Grundton und Quinte und verbinde die Lücken dann mit schrittweiser Bewegung, die trotzdem bewusst klingt.",
+                "ja": "ルートと5度を行き来し、その隙間を意図のある順次進行で縫い合わせます。",
+                "zh-Hans": "在根音与五音之间跳跃，再用有意识的级进把空隙编织起来。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/bass-fifth-beacon-weave/lesson.md"
             }
           ]
         },
@@ -1183,6 +1233,31 @@
                 "zh-Hans": "让短小音阶单元在三音与七音之间弹跳，使每次和弦变化立刻发光。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-pinball/lesson.md"
+            },
+            {
+              "id": "piano-shell-bounce-runway",
+              "order": 22,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell bounce runway",
+                "pt-BR": "Pista de salto com shells no piano",
+                "es": "Pista de rebote con shells en piano",
+                "de": "Klavier-Shell-Bounce-Startbahn",
+                "ja": "ピアノ・シェル・バウンス・ランウェイ",
+                "zh-Hans": "钢琴壳音弹跳跑道"
+              },
+              "summaries": {
+                "en": "Hold left-hand shells steady while the right hand bounces through scale notes and resolves to one bright target per chord.",
+                "pt-BR": "Mantenha shells firmes na mão esquerda enquanto a direita salta por notas da escala e resolve em um alvo brilhante por acorde.",
+                "es": "Mantén shells firmes en la mano izquierda mientras la derecha rebota por notas de la escala y resuelve en un objetivo brillante por acorde.",
+                "de": "Halte linke Shell-Voicings stabil, während die rechte Hand durch Skalennoten springt und sich pro Akkord auf einen hellen Zielton auflöst.",
+                "ja": "左手のシェルを安定させたまま、右手がスケール音を跳ねて各コードでひとつの明るい目標音へ解決します。",
+                "zh-Hans": "左手稳住壳式和弦，右手在音阶音之间弹跳，并在每个和弦上解决到一个明亮目标音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-bounce-runway/lesson.md"
             }
           ]
         }
