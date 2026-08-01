@@ -6718,6 +6718,81 @@
                 "zh-Hans": "左手稳住壳式和弦，右手在音阶音之间弹跳，并在每个和弦上解决到一个明亮目标音。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-bounce-runway/lesson.md"
+            },
+            {
+              "id": "guitar-enclosure-liftoff",
+              "order": 23,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar enclosure liftoff",
+                "pt-BR": "Decolagem de enclosure na guitarra",
+                "es": "Despegue de enclosure en guitarra",
+                "de": "Gitarren-Enclosure-Start",
+                "ja": "ギター・エンクロージャー・リフトオフ",
+                "zh-Hans": "吉他包围音起飞"
+              },
+              "summaries": {
+                "en": "Launch short scale phrases into chord thirds with a two-note enclosure that still lands dead on the beat.",
+                "pt-BR": "Lance frases curtas de escala até as terças dos acordes com um enclosure de duas notas que ainda cai cravado no tempo.",
+                "es": "Lanza frases cortas de escala hacia las terceras del acorde con un enclosure de dos notas que aun así cae justo en el pulso.",
+                "de": "Starte kurze Skalenphrasen mit einer zweitönigen Enclosure auf die Akkordterz und lande trotzdem exakt im Beat.",
+                "ja": "2音のエンクロージャーでコードの3度へ飛び込み、拍にきっちり着地する短いスケールフレーズを作ります。",
+                "zh-Hans": "用两个包围音把短小音阶乐句送向和弦三音，同时依然精准落在拍点上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-enclosure-liftoff/lesson.md"
+            },
+            {
+              "id": "bass-seventh-sling",
+              "order": 24,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass seventh sling",
+                "pt-BR": "Estilingue de sétimas no baixo",
+                "es": "Tirachinas de séptimas en bajo",
+                "de": "Bass-Septimen-Schleuder",
+                "ja": "ベース・セブンス・スリング",
+                "zh-Hans": "贝斯七音弹弓"
+              },
+              "summaries": {
+                "en": "Hook scale motion into the seventh of each chord so every bar change sounds tense on purpose and resolved on time.",
+                "pt-BR": "Prenda o movimento da escala na sétima de cada acorde para que cada troca de compasso soe tensa de propósito e resolvida na hora certa.",
+                "es": "Engancha el movimiento de escala en la séptima de cada acorde para que cada cambio de compás suene tenso a propósito y resuelto a tiempo.",
+                "de": "Hake Skalenbewegung an die Septime jedes Akkords, damit jeder Taktwechsel absichtlich gespannt und pünktlich aufgelöst klingt.",
+                "ja": "各コードの7度にスケールの動きを引っかけ、意図的な緊張感と時間どおりの解決を作ります。",
+                "zh-Hans": "把音阶线条钩向每个和弦的七音，让每次换小节都带着刻意的张力并准时解决。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-seventh-sling/lesson.md"
+            },
+            {
+              "id": "piano-shell-comet",
+              "order": 25,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell comet",
+                "pt-BR": "Cometa de shells no piano",
+                "es": "Cometa de shells en piano",
+                "de": "Klavier-Shell-Komet",
+                "ja": "ピアノ・シェル・コメット",
+                "zh-Hans": "钢琴壳音彗星"
+              },
+              "summaries": {
+                "en": "Keep shell voicings glowing in the left hand while the right hand streaks to one bright target note per chord.",
+                "pt-BR": "Mantenha os shells brilhando na mão esquerda enquanto a direita risca até uma nota-alvo brilhante por acorde.",
+                "es": "Mantén los shells encendidos en la mano izquierda mientras la derecha traza una estela hacia una nota objetivo brillante por acorde.",
+                "de": "Halte links leuchtende Shell-Voicings, während die rechte Hand pro Akkord zu einem hellen Zielton aufblitzt.",
+                "ja": "左手のシェルを光らせたまま、右手が各コードでひとつの明るい目標音へ尾を引いて飛び込みます。",
+                "zh-Hans": "左手稳稳点亮 shell 和弦，右手像彗星一样划向每个和弦的一个明亮目标音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-comet/lesson.md"
             }
           ]
         },
