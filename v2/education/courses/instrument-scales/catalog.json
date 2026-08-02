@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 6,
+  "revision": 7,
   "sections": [
     {
       "id": "beginner",
@@ -6793,6 +6793,81 @@
                 "zh-Hans": "左手稳稳点亮 shell 和弦，右手像彗星一样划向每个和弦的一个明亮目标音。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-comet/lesson.md"
+            },
+            {
+              "id": "guitar-resolution-catapult",
+              "order": 26,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar resolution catapult",
+                "pt-BR": "Catapulta de resolução na guitarra",
+                "es": "Catapulta de resolución en guitarra",
+                "de": "Gitarren-Auflösungs-Katapult",
+                "ja": "ギター・レゾリューション・カタパルト",
+                "zh-Hans": "吉他解决弹射器"
+              },
+              "summaries": {
+                "en": "Launch compact scale bursts toward each chord tone so every landing sounds bold, early, and fully under control.",
+                "pt-BR": "Lance rajadas curtas de escala até cada nota-alvo do acorde para que cada chegada soe ousada, adiantada e totalmente controlada.",
+                "es": "Lanza ráfagas compactas de escala hacia cada nota objetivo del acorde para que cada llegada suene valiente, anticipada y totalmente controlada.",
+                "de": "Starte kompakte Skalenstöße in jeden Akkordzielton, damit jede Landung mutig, früh und völlig kontrolliert klingt.",
+                "ja": "短いスケールの噴射を各コードトーンへ飛ばし、すべての着地を大胆で先回りした、完全にコントロールされたものにします。",
+                "zh-Hans": "把紧凑的音阶冲刺弹向每个和弦目标音，让每次落点都听起来大胆、提前而且完全可控。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-resolution-catapult/lesson.md"
+            },
+            {
+              "id": "bass-chord-tone-magnet",
+              "order": 27,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass chord-tone magnet",
+                "pt-BR": "Ímã de notas do acorde no baixo",
+                "es": "Imán de notas del acorde en bajo",
+                "de": "Bass-Akkordton-Magnet",
+                "ja": "ベース・コードトーン・マグネット",
+                "zh-Hans": "贝斯和弦音磁铁"
+              },
+              "summaries": {
+                "en": "Pull every bar toward a strong chord tone so your line feels grounded even when the approach notes get sneaky.",
+                "pt-BR": "Puxe cada compasso para uma nota forte do acorde para que sua linha soe firme mesmo quando as aproximações ficam espertas.",
+                "es": "Atrae cada compás hacia una nota fuerte del acorde para que tu línea suene firme incluso cuando las aproximaciones se ponen astutas.",
+                "de": "Ziehe jeden Takt zu einem starken Akkordton, damit deine Linie geerdet bleibt, selbst wenn die Annäherungen raffiniert werden.",
+                "ja": "各小節を強いコードトーンへ引き寄せ、アプローチ音が少しずるくなってもライン全体を安定させます。",
+                "zh-Hans": "把每一小节都拉向一个强有力的和弦音，让你的线条即使加入狡猾的逼近音也依然稳固。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-chord-tone-magnet/lesson.md"
+            },
+            {
+              "id": "piano-shell-fireworks",
+              "order": 28,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell fireworks",
+                "pt-BR": "Fogos de shells no piano",
+                "es": "Fuegos de shells en piano",
+                "de": "Klavier-Shell-Feuerwerk",
+                "ja": "ピアノ・シェル・ファイアワークス",
+                "zh-Hans": "钢琴壳音烟火"
+              },
+              "summaries": {
+                "en": "Keep the left-hand shells steady while the right hand pops bright target notes that sparkle without smearing the harmony.",
+                "pt-BR": "Mantenha os shells da mão esquerda firmes enquanto a direita estoura notas-alvo brilhantes sem borrar a harmonia.",
+                "es": "Mantén firmes los shells de la mano izquierda mientras la derecha hace estallar notas objetivo brillantes sin emborronar la armonía.",
+                "de": "Halte die linken Shells stabil, während die rechte Hand helle Zieltöne aufblitzen lässt, ohne die Harmonie zu verschmieren.",
+                "ja": "左手のシェルを安定させたまま、右手で明るいターゲット音をはじけさせ、ハーモニーをにごらせずに輝かせます。",
+                "zh-Hans": "左手稳住 shell 和弦，右手把明亮目标音弹成烟火般的火花，同时不把和声抹糊。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-fireworks/lesson.md"
             }
           ]
         },
