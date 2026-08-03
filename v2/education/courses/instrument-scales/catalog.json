@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 7,
+  "revision": 8,
   "sections": [
     {
       "id": "beginner",
@@ -6868,6 +6868,81 @@
                 "zh-Hans": "左手稳住 shell 和弦，右手把明亮目标音弹成烟火般的火花，同时不把和声抹糊。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-fireworks/lesson.md"
+            },
+            {
+              "id": "guitar-ghost-note-slalom",
+              "order": 29,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar ghost-note slalom",
+                "pt-BR": "Slalom de ghost notes na guitarra",
+                "es": "Eslalon de ghost notes en guitarra",
+                "de": "Gitarren-Ghost-Note-Slalom",
+                "ja": "ギター・ゴーストノート・スラローム",
+                "zh-Hans": "吉他幽灵音回转赛"
+              },
+              "summaries": {
+                "en": "Thread muted pickups between strong scale targets so your line snaps with rhythm before every clean landing.",
+                "pt-BR": "Passe ghost notes abafadas entre alvos fortes da escala para que a frase estale ritmicamente antes de cada chegada limpa.",
+                "es": "Pasa ghost notes apagadas entre objetivos fuertes de la escala para que tu frase tenga chasquido rítmico antes de cada llegada limpia.",
+                "de": "Fädle gedämpfte Ghost Notes zwischen starke Skalen-Zieltöne, damit die Linie rhythmisch schnappt, bevor jede saubere Landung kommt.",
+                "ja": "強いスケール目標音の間にミュートしたゴーストノートを差し込み、毎回のきれいな着地の前にリズムの切れ味を作ります。",
+                "zh-Hans": "在强烈的音阶目标音之间穿插闷住的幽灵音，让每次干净落点之前都先带出清脆节奏感。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-ghost-note-slalom/lesson.md"
+            },
+            {
+              "id": "bass-backbeat-decoy",
+              "order": 30,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass backbeat decoy",
+                "pt-BR": "Isca de backbeat no baixo",
+                "es": "Señuelo de backbeat en bajo",
+                "de": "Bass-Backbeat-Köder",
+                "ja": "ベース・バックビート・デコイ",
+                "zh-Hans": "贝斯反拍诱饵"
+              },
+              "summaries": {
+                "en": "Tease the groove with offbeat nudges, then prove your control by dropping each target tone exactly where the pocket needs it.",
+                "pt-BR": "Provoque o groove com empurrões no contratempo e depois prove seu controle colocando cada nota-alvo exatamente onde o pocket pede.",
+                "es": "Provoca el groove con empujes a contratiempo y luego demuestra tu control colocando cada nota objetivo exactamente donde el pocket lo pide.",
+                "de": "Reize den Groove mit Offbeat-Stupsern an und beweise dann deine Kontrolle, indem du jeden Zielton genau dort setzt, wo das Pocket ihn braucht.",
+                "ja": "オフビートの小さな押しでグルーヴを挑発し、そのあと各ターゲット音をポケットが求める位置に正確に落としてコントロールを証明します。",
+                "zh-Hans": "先用反拍小推力挑逗 groove，再把每个目标音准确落到 pocket 最需要的位置，证明你的控制力。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-backbeat-decoy/lesson.md"
+            },
+            {
+              "id": "piano-shell-bounce-circuit",
+              "order": 31,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell bounce circuit",
+                "pt-BR": "Circuito de rebote dos shells no piano",
+                "es": "Circuito de rebote de shells en piano",
+                "de": "Klavier-Shell-Sprungkreis",
+                "ja": "ピアノ・シェル・バウンス回路",
+                "zh-Hans": "钢琴壳音弹跳回路"
+              },
+              "summaries": {
+                "en": "Keep the left hand grounded while the right hand bounces between target notes and quick returns that still sound intentional.",
+                "pt-BR": "Mantenha a mão esquerda firme enquanto a direita rebate entre notas-alvo e retornos rápidos que ainda soam intencionais.",
+                "es": "Mantén firme la mano izquierda mientras la derecha rebota entre notas objetivo y regresos rápidos que siguen sonando intencionales.",
+                "de": "Halte die linke Hand stabil, während die rechte zwischen Zieltönen und schnellen Rücksprüngen hüpft, die trotzdem bewusst klingen.",
+                "ja": "左手を安定させたまま、右手でターゲット音と素早い戻りを行き来し、それでも意図のある響きに保ちます。",
+                "zh-Hans": "左手稳住根基，右手在目标音与快速回弹之间跳动，同时仍然让每个动作都听起来有明确意图。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-bounce-circuit/lesson.md"
             }
           ]
         },
