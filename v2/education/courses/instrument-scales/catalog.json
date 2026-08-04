@@ -6943,6 +6943,81 @@
                 "zh-Hans": "左手稳住根基，右手在目标音与快速回弹之间跳动，同时仍然让每个动作都听起来有明确意图。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-bounce-circuit/lesson.md"
+            },
+            {
+              "id": "guitar-anticipation-zipline",
+              "order": 32,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar anticipation zipline",
+                "pt-BR": "Tirolesa de antecipações na guitarra",
+                "es": "Tirolesa de anticipaciones en guitarra",
+                "de": "Gitarren-Antizipations-Seilbahn",
+                "ja": "ギター・アンティシペーション・ジップライン",
+                "zh-Hans": "吉他提前落点滑索"
+              },
+              "summaries": {
+                "en": "Sneak target notes onto the and of 4 so every chord change feels intentional instead of accidental.",
+                "pt-BR": "Antecipe as notas-alvo no e do 4 para que cada troca de acorde soe intencional, não acidental.",
+                "es": "Anticipa las notas objetivo en el y de 4 para que cada cambio de acorde suene intencional y no accidental.",
+                "de": "Ziehe Zieltöne auf das Und von 4 vor, damit jeder Akkordwechsel bewusst statt zufällig klingt.",
+                "ja": "4拍目の裏でターゲット音を先取りし、コードチェンジを偶然ではなく意図として聞かせます。",
+                "zh-Hans": "把目标音提前放到第4拍后半拍，让每次和弦转换都像有预谋，而不是误打误撞。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-anticipation-zipline/lesson.md"
+            },
+            {
+              "id": "bass-octave-feint-drop",
+              "order": 33,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass octave feint drop",
+                "pt-BR": "Finta de oitava com queda no baixo",
+                "es": "Amague de octava con caída en bajo",
+                "de": "Bass-Oktavfinte mit Fall",
+                "ja": "ベース・オクターブ・フェイント・ドロップ",
+                "zh-Hans": "贝斯八度假动作下落"
+              },
+              "summaries": {
+                "en": "Jump to the octave as a fake spotlight, then drop to the real target on beat 3 without wobbling the pocket.",
+                "pt-BR": "Salte para a oitava como holofote falso e depois caia na nota-alvo real no tempo 3 sem balançar o pocket.",
+                "es": "Salta a la octava como foco falso y luego cae en la nota objetivo real en el tiempo 3 sin tambalear el pulso.",
+                "de": "Springe als falschen Scheinwerfer zur Oktave und falle dann auf Schlag 3 auf den echten Zielton, ohne das Pocket zu verwackeln.",
+                "ja": "オクターブをおとりのスポットライトとして使い、そのあと本当のターゲットへ3拍目で落ちてポケットを崩さないようにします。",
+                "zh-Hans": "先跳到八度制造假聚光，再在第3拍落到真正目标音上，同时不把 pocket 弄晃。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-octave-feint-drop/lesson.md"
+            },
+            {
+              "id": "piano-guide-tone-trampoline",
+              "order": 34,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano guide-tone trampoline",
+                "pt-BR": "Trampolim de guide tones no piano",
+                "es": "Trampolín de guide tones en piano",
+                "de": "Klavier-Guide-Tone-Trampolin",
+                "ja": "ピアノ・ガイドトーン・トランポリン",
+                "zh-Hans": "钢琴导音蹦床"
+              },
+              "summaries": {
+                "en": "Bounce between guide tones and upper neighbors so each return lands with elegance instead of stiffness.",
+                "pt-BR": "Rebata entre guide tones e vizinhos superiores para que cada retorno caia com elegância, não com rigidez.",
+                "es": "Rebota entre guide tones y vecinos superiores para que cada regreso caiga con elegancia y no con rigidez.",
+                "de": "Springe zwischen Guide Tones und oberen Nebentönen, damit jede Rückkehr elegant statt steif landet.",
+                "ja": "ガイドトーンと上の隣接音を行き来し、戻りの着地を硬さではなく上品さで決めます。",
+                "zh-Hans": "在导音与上方邻音之间回弹，让每次回归都优雅落地，而不是僵硬砸下。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-trampoline/lesson.md"
             }
           ]
         },
