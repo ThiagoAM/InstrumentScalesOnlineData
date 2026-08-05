@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 8,
+  "revision": 9,
   "sections": [
     {
       "id": "beginner",
@@ -3020,6 +3020,31 @@
                 "zh-Hans": "通过根音到八度的推进训练低音律动控制，让你的贝斯既稳又有冲劲。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/bass-octave-slingshot-relay/lesson.md"
+            },
+            {
+              "id": "guitar-position-handoff-race",
+              "order": 4,
+              "estimatedMinutes": 8,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar position handoff race",
+                "pt-BR": "Corrida de troca de posição na guitarra",
+                "es": "Carrera de relevo de posición en guitarra",
+                "de": "Gitarren-Lagen-Staffellauf",
+                "ja": "ギター・ポジション受け渡しレース",
+                "zh-Hans": "吉他把位接力赛"
+              },
+              "summaries": {
+                "en": "Pass one scale fragment from 5th position to 8th position without a clumsy shift or a broken pulse.",
+                "pt-BR": "Passe um fragmento de escala da 5ª para a 8ª posição sem mudança desajeitada nem pulso quebrado.",
+                "es": "Pasa un fragmento de escala de la 5ª a la 8ª posición sin cambio torpe ni pulso roto.",
+                "de": "Übergib ein Skalenfragment von der 5. in die 8. Lage ohne holprigen Wechsel und ohne Pulsbruch.",
+                "ja": "5ポジションから8ポジションへスケール断片を渡し、ぎこちない移動や拍の乱れを出さないようにします。",
+                "zh-Hans": "把一个音阶片段从第5把位交接到第8把位，同时避免笨拙换把和节拍中断。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/guitar-position-handoff-race/lesson.md"
             }
           ]
         },
@@ -3143,6 +3168,31 @@
                 "zh-Hans": "用一次受控的三连音冲刺跳出平直八分音符，同时依然稳稳落回第一拍。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/guitar-triplet-escape-lane/lesson.md"
+            },
+            {
+              "id": "bass-backbeat-detour-lights",
+              "order": 5,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass backbeat detour lights",
+                "pt-BR": "Luzes de desvio no contratempo do baixo",
+                "es": "Luces de desvío a contratiempo en bajo",
+                "de": "Bass-Backbeat-Umleitungslichter",
+                "ja": "ベース・バックビート回避ライト",
+                "zh-Hans": "贝斯反拍绕行灯"
+              },
+              "summaries": {
+                "en": "Keep a root-heavy groove, then sneak one offbeat scale detour into each bar without losing the pocket.",
+                "pt-BR": "Mantenha um groove pesado na tônica e depois encaixe um desvio de escala no contratempo em cada compasso sem perder o pocket.",
+                "es": "Mantén un groove cargado en la tónica y luego mete un desvío de escala a contratiempo en cada compás sin perder el pocket.",
+                "de": "Halte einen grundtonstarken Groove und schmuggle dann in jeden Takt einen Offbeat-Skalenumweg, ohne das Pocket zu verlieren.",
+                "ja": "ルート中心のグルーヴを保ちながら、各小節にひとつだけ裏拍のスケール回り道を入れてもポケットを失わないようにします。",
+                "zh-Hans": "保持以根音为主的律动，然后在每小节偷偷加入一次反拍音阶绕行，同时不丢掉 pocket。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/bass-backbeat-detour-lights/lesson.md"
             }
           ]
         },
@@ -6145,6 +6195,31 @@
                 "zh-Hans": "在根音与五音之间跳跃，再用有意识的级进把空隙编织起来。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/bass-fifth-beacon-weave/lesson.md"
+            },
+            {
+              "id": "piano-contrary-motion-comet",
+              "order": 10,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano contrary-motion comet",
+                "pt-BR": "Cometa de movimento contrário no piano",
+                "es": "Cometa de movimiento contrario en piano",
+                "de": "Klavier-Gegenbewegungs-Komet",
+                "ja": "ピアノ・コントラリー・モーション・コメット",
+                "zh-Hans": "钢琴反向运行彗星"
+              },
+              "summaries": {
+                "en": "Send both hands away from middle C in contrary motion, then curve them back to one bright target without losing balance.",
+                "pt-BR": "Envie as duas mãos para longe do dó central em movimento contrário e depois traga as duas de volta a um alvo brilhante sem perder o equilíbrio.",
+                "es": "Lanza ambas manos lejos del do central en movimiento contrario y luego tráelas de vuelta a un objetivo brillante sin perder el equilibrio.",
+                "de": "Schicke beide Hände von c' in Gegenbewegung weg und führe sie dann zu einem hellen Ziel zurück, ohne das Gleichgewicht zu verlieren.",
+                "ja": "両手を中央のCから反進行で離し、バランスを崩さずに明るい目標音へ戻します。",
+                "zh-Hans": "让双手从中央 C 以反向进行离开，再在不失去平衡的情况下回到一个明亮目标音。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/piano-contrary-motion-comet/lesson.md"
             }
           ]
         },

@@ -66,7 +66,7 @@ test("Pages artifact preserves the public V1 and V2 contracts", () => {
     v2Catalog.sections.flatMap((section) =>
       section.units.flatMap((unit) => unit.lessons)
     ).length,
-    354,
+    357,
   );
   assert.equal(
     harmonyCatalog.sections.flatMap((section) =>
