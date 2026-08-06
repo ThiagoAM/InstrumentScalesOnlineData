@@ -7093,6 +7093,81 @@
                 "zh-Hans": "在导音与上方邻音之间回弹，让每次回归都优雅落地，而不是僵硬砸下。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-trampoline/lesson.md"
+            },
+            {
+              "id": "guitar-sixth-laser-lap",
+              "order": 35,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar sixth laser lap",
+                "pt-BR": "Volta a laser das sextas na guitarra",
+                "es": "Vuelta láser de sextas en guitarra",
+                "de": "Gitarren-Sechsten-Laserrunde",
+                "ja": "ギター・シックス・レーザー・ラップ",
+                "zh-Hans": "吉他六度激光圈"
+              },
+              "summaries": {
+                "en": "Aim bright sixths at each chord so your line sounds bold, melodic, and sharply controlled instead of random.",
+                "pt-BR": "Mire sextas brilhantes em cada acorde para que sua linha soe ousada, melódica e bem controlada em vez de aleatória.",
+                "es": "Apunta sextas brillantes en cada acorde para que tu línea suene audaz, melódica y bien controlada en vez de aleatoria.",
+                "de": "Ziele auf helle Sexten jedes Akkords, damit deine Linie mutig, melodisch und präzise statt zufällig klingt.",
+                "ja": "各コードで明るい6度を狙い、ラインを偶然ではなく大胆でメロディックかつ精密に聞かせます。",
+                "zh-Hans": "瞄准每个和弦里明亮的六度，让你的线条听起来大胆、旋律化而且可控，而不是乱撞。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-sixth-laser-lap/lesson.md"
+            },
+            {
+              "id": "bass-third-echo-brake",
+              "order": 36,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass third echo brake",
+                "pt-BR": "Freio com eco de terças no baixo",
+                "es": "Freno con eco de terceras en bajo",
+                "de": "Bass-Terz-Echo-Bremse",
+                "ja": "ベース・サード・エコー・ブレーキ",
+                "zh-Hans": "贝斯三音回声刹车"
+              },
+              "summaries": {
+                "en": "Hit the chord third hard, then leave space around it so the groove feels deeper instead of busier.",
+                "pt-BR": "Ataque a terça do acorde com firmeza e depois deixe espaço ao redor dela para que o groove fique mais fundo, não mais cheio.",
+                "es": "Golpea con fuerza la tercera del acorde y luego deja espacio a su alrededor para que el groove se sienta más profundo y no más cargado.",
+                "de": "Treffe die Akkordterz deutlich und lasse dann Raum darum, damit der Groove tiefer statt voller wirkt.",
+                "ja": "コードの3度を強く当て、その周りに空間を残して、忙しさではなく深いグルーヴを作ります。",
+                "zh-Hans": "把和弦三音重重落下，再在周围留出空间，让 groove 更深，而不是更满。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-third-echo-brake/lesson.md"
+            },
+            {
+              "id": "piano-delayed-color-spark",
+              "order": 37,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano delayed color spark",
+                "pt-BR": "Faísca de cor atrasada no piano",
+                "es": "Chispa de color retrasada en piano",
+                "de": "Klavier-Farbfunken mit Verzögerung",
+                "ja": "ピアノ・ディレイド・カラー・スパーク",
+                "zh-Hans": "钢琴延迟色彩火花"
+              },
+              "summaries": {
+                "en": "Hold the shell steady, then delay the color note just enough to make the resolution feel elegant and intentional.",
+                "pt-BR": "Mantenha o shell firme e atrase a nota de cor o suficiente para que a resolução soe elegante e intencional.",
+                "es": "Mantén firme el shell y retrasa la nota de color lo justo para que la resolución suene elegante e intencional.",
+                "de": "Halte das Shell stabil und verzögere den Farbton gerade so weit, dass die Auflösung elegant und bewusst wirkt.",
+                "ja": "シェルを安定させたまま色音を少しだけ遅らせ、解決を上品で意図的に聞かせます。",
+                "zh-Hans": "稳住 shell 和弦，再把色彩音稍微延后一点，让解决听起来优雅而且有意图。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-delayed-color-spark/lesson.md"
             }
           ]
         },
