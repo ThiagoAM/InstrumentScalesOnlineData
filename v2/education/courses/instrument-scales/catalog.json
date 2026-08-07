@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 9,
+  "revision": 10,
   "sections": [
     {
       "id": "beginner",
@@ -7168,6 +7168,81 @@
                 "zh-Hans": "稳住 shell 和弦，再把色彩音稍微延后一点，让解决听起来优雅而且有意图。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-delayed-color-spark/lesson.md"
+            },
+            {
+              "id": "guitar-beat-three-heist",
+              "order": 38,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar beat-three heist",
+                "pt-BR": "Assalto do tempo três na guitarra",
+                "es": "Atraco del tiempo tres en guitarra",
+                "de": "Gitarren-Raubzug auf Schlag drei",
+                "ja": "ギター・ビート3・ハイスト",
+                "zh-Hans": "吉他第三拍偷袭"
+              },
+              "summaries": {
+                "en": "Sneak into strong target notes on beat 3 from different directions so your line sounds daring, tight, and fully under control.",
+                "pt-BR": "Infiltre-se em notas-alvo fortes no tempo 3 por direções diferentes para que sua frase soe ousada, firme e totalmente sob controle.",
+                "es": "Métete en notas objetivo fuertes en el tiempo 3 desde distintas direcciones para que tu frase suene atrevida, firme y totalmente bajo control.",
+                "de": "Schleiche dich aus verschiedenen Richtungen in starke Zieltöne auf Schlag 3, damit deine Linie mutig, straff und völlig kontrolliert klingt.",
+                "ja": "さまざまな方向から3拍目の強い目標音へ忍び込み、スリルがありつつも締まった完全コントロールのラインを作ります。",
+                "zh-Hans": "从不同方向潜入第3拍的强目标音，让你的乐句既大胆又紧凑，而且始终在掌控之中。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-beat-three-heist/lesson.md"
+            },
+            {
+              "id": "bass-beat-one-trapdoor",
+              "order": 39,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass beat-one trapdoor",
+                "pt-BR": "Alçapão do tempo um no baixo",
+                "es": "Trampilla del tiempo uno en bajo",
+                "de": "Bass-Falltür auf Schlag eins",
+                "ja": "ベース・ビート1・トラップドア",
+                "zh-Hans": "贝斯第一拍陷门"
+              },
+              "summaries": {
+                "en": "Set up suspense before beat 1, then drop onto guide tones so hard that every new bar feels locked to the floor.",
+                "pt-BR": "Monte suspense antes do tempo 1 e depois caia nas guide tones com tanta firmeza que cada compasso novo pareça preso no chão.",
+                "es": "Prepara suspense antes del tiempo 1 y luego cae sobre las guide tones con tanta firmeza que cada compás nuevo se sienta clavado al suelo.",
+                "de": "Baue Spannung vor Schlag 1 auf und falle dann so fest auf die Guide Tones, dass jeder neue Takt am Boden verriegelt wirkt.",
+                "ja": "1拍目の前に緊張を仕込み、ガイドトーンへ強く落ちて、各小節の頭を床に固定したように聞かせます。",
+                "zh-Hans": "在第1拍之前先制造悬念，再狠狠落到导向音上，让每个新小节都像锁进地面一样稳。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-beat-one-trapdoor/lesson.md"
+            },
+            {
+              "id": "piano-offbeat-lantern",
+              "order": 40,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano offbeat lantern",
+                "pt-BR": "Lanterna de contratempo no piano",
+                "es": "Farol de contratiempo en piano",
+                "de": "Klavier-Offbeat-Laterne",
+                "ja": "ピアノ・オフビート・ランタン",
+                "zh-Hans": "钢琴反拍灯笼"
+              },
+              "summaries": {
+                "en": "Keep the left-hand shell calm while the right hand lights up offbeat target notes that still point clearly toward the next chord.",
+                "pt-BR": "Mantenha o shell da mão esquerda calmo enquanto a direita acende notas-alvo no contratempo que ainda apontam claramente para o próximo acorde.",
+                "es": "Mantén tranquilo el shell de la izquierda mientras la derecha enciende notas objetivo a contratiempo que siguen apuntando con claridad al siguiente acorde.",
+                "de": "Halte das linke Shell ruhig, während die rechte Hand Offbeat-Zieltöne anzündet, die trotzdem klar auf den nächsten Akkord zeigen.",
+                "ja": "左手のシェルを落ち着かせたまま、右手が反拍の目標音を灯し、それでも次のコードへ明確に導くようにします。",
+                "zh-Hans": "稳住左手 shell，让右手点亮反拍目标音，同时依然清楚指向下一个和弦。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-offbeat-lantern/lesson.md"
             }
           ]
         },
