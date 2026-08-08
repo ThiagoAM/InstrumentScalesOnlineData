@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 10,
+  "revision": 11,
   "sections": [
     {
       "id": "beginner",
@@ -3193,6 +3193,81 @@
                 "zh-Hans": "保持以根音为主的律动，然后在每小节偷偷加入一次反拍音阶绕行，同时不丢掉 pocket。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/bass-backbeat-detour-lights/lesson.md"
+            },
+            {
+              "id": "guitar-accent-handoff-runway",
+              "order": 6,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar accent handoff runway",
+                "pt-BR": "Pista de troca de acentos na guitarra",
+                "es": "Pista de relevo de acentos en guitarra",
+                "de": "Gitarren-Akzent-Übergabebahn",
+                "ja": "ギター・アクセント受け渡しランウェイ",
+                "zh-Hans": "吉他重音交接跑道"
+              },
+              "summaries": {
+                "en": "Pass the accent from downbeat to upbeat inside one scale cell without letting the pick hand tense up.",
+                "pt-BR": "Passe o acento do tempo forte para o contratempo dentro de uma célula de escala sem deixar a mão da palheta travar.",
+                "es": "Pasa el acento del tiempo fuerte al contratiempo dentro de una célula de escala sin tensar la mano de la púa.",
+                "de": "Gib den Akzent innerhalb einer Skalen-Zelle vom Downbeat an den Offbeat weiter, ohne dass die Plektrumhand verkrampft.",
+                "ja": "1つのスケールセルの中でアクセントを表拍から裏拍へ渡しながら、ピッキングの手を固めないようにします。",
+                "zh-Hans": "在一个音阶小单元里把重音从强拍交给反拍，同时不让拨片手变紧。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/guitar-accent-handoff-runway/lesson.md"
+            },
+            {
+              "id": "bass-ghost-note-lifeline",
+              "order": 7,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass ghost-note lifeline",
+                "pt-BR": "Linha de vida de ghost notes no baixo",
+                "es": "Línea de vida de ghost notes en bajo",
+                "de": "Bass-Ghostnote-Lebensleine",
+                "ja": "ベース・ゴーストノート命綱",
+                "zh-Hans": "贝斯幽灵音生命线"
+              },
+              "summaries": {
+                "en": "Thread quiet ghost notes between roots and fills so the groove keeps breathing instead of turning blocky.",
+                "pt-BR": "Costure ghost notes discretas entre tônicas e viradas para o groove continuar respirando em vez de ficar quadrado.",
+                "es": "Teje ghost notes discretas entre raíces y fills para que el groove siga respirando en vez de volverse cuadrado.",
+                "de": "Fädle leise Ghost Notes zwischen Grundtöne und Fills, damit der Groove weiter atmet statt kantig zu werden.",
+                "ja": "ルート音とフィルのあいだに静かなゴーストノートを通し、グルーヴが角ばらずに呼吸し続けるようにします。",
+                "zh-Hans": "在根音和加花之间穿入轻轻的幽灵音，让 groove 继续呼吸，而不是变得方硬。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/bass-ghost-note-lifeline/lesson.md"
+            },
+            {
+              "id": "piano-staggered-lanterns",
+              "order": 8,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano staggered lanterns",
+                "pt-BR": "Lanternas desencontradas no piano",
+                "es": "Faroles escalonados en piano",
+                "de": "Versetzte Klavierlaternen",
+                "ja": "ピアノ・ずらしランタン",
+                "zh-Hans": "钢琴错位灯笼"
+              },
+              "summaries": {
+                "en": "Keep the left hand glowing on beats while the right hand answers on offbeats with short scale sparks.",
+                "pt-BR": "Mantenha a mão esquerda brilhando nos tempos enquanto a direita responde nos contratempos com faíscas curtas de escala.",
+                "es": "Mantén la mano izquierda brillando en los tiempos mientras la derecha responde en los contratiempos con chispas cortas de escala.",
+                "de": "Lass die linke Hand auf den Schlägen leuchten, während die rechte auf den Offbeats mit kurzen Skalenfunken antwortet.",
+                "ja": "左手を表拍で光らせたまま、右手が裏拍で短いスケールの火花を返すようにします。",
+                "zh-Hans": "让左手在强拍发光，右手则在反拍用短短的音阶火花回应。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/piano-staggered-lanterns/lesson.md"
             }
           ]
         },
