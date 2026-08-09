@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 11,
+  "revision": 12,
   "sections": [
     {
       "id": "beginner",
@@ -7318,6 +7318,81 @@
                 "zh-Hans": "稳住左手 shell，让右手点亮反拍目标音，同时依然清楚指向下一个和弦。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-offbeat-lantern/lesson.md"
+            },
+            {
+              "id": "guitar-half-step-landing-bridge",
+              "order": 41,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar half-step landing bridge",
+                "pt-BR": "Ponte de chegadas por semitom na guitarra",
+                "es": "Puente de llegadas por semitono en guitarra",
+                "de": "Gitarren-Halbton-Landebrücke",
+                "ja": "ギター・半音ランディング・ブリッジ",
+                "zh-Hans": "吉他半音落点桥"
+              },
+              "summaries": {
+                "en": "Approach each new chord from one fret below and land on its third without rushing the beat.",
+                "pt-BR": "Aproxime cada acorde novo um semitom abaixo e chegue à sua terça sem correr o pulso.",
+                "es": "Acércate a cada acorde nuevo desde un semitono abajo y cae en su tercera sin apresurar el pulso.",
+                "de": "Nähere jeden neuen Akkord von einem Bund tiefer an und lande ohne Hast auf seiner Terz.",
+                "ja": "新しいコードごとに半音下から入り、拍を急がずに3度へ着地します。",
+                "zh-Hans": "每次进入新和弦都从低半音逼近，并在不抢拍的情况下落到它的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-half-step-landing-bridge/lesson.md"
+            },
+            {
+              "id": "bass-beat-four-compass",
+              "order": 42,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass beat-four compass",
+                "pt-BR": "Bússola do tempo quatro no baixo",
+                "es": "Brújula del tiempo cuatro en bajo",
+                "de": "Bass-Schlag-vier-Kompass",
+                "ja": "ベース・4拍目コンパス",
+                "zh-Hans": "贝斯第四拍指南针"
+              },
+              "summaries": {
+                "en": "Use beat four to point into the next chord so your line predicts the harmony before it arrives.",
+                "pt-BR": "Use o tempo quatro para apontar para o próximo acorde e fazer a linha prever a harmonia antes da chegada.",
+                "es": "Usa el tiempo cuatro para señalar el siguiente acorde y hacer que la línea anticipe la armonía antes de llegar.",
+                "de": "Nutze Schlag vier, um auf den nächsten Akkord zu zeigen, damit deine Linie die Harmonie vorhersagt.",
+                "ja": "4拍目で次のコードを指し示し、到着前から和声を予感させます。",
+                "zh-Hans": "用第四拍指向下一个和弦，让你的低音线在和声到来前就先说明方向。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-beat-four-compass/lesson.md"
+            },
+            {
+              "id": "piano-shell-target-weave",
+              "order": 43,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell-target weave",
+                "pt-BR": "Trama de shells e alvos no piano",
+                "es": "Trama de shells y objetivos en piano",
+                "de": "Klavier-Shell-Ziel-Gewebe",
+                "ja": "ピアノ・シェルターゲット・ウィーブ",
+                "zh-Hans": "钢琴壳音目标编织"
+              },
+              "summaries": {
+                "en": "Hold a left-hand shell while the right hand threads scale notes into a precise guide-tone landing.",
+                "pt-BR": "Segure um shell na mão esquerda enquanto a direita costura notas da escala até uma chegada precisa em nota-guia.",
+                "es": "Sostén un shell en la mano izquierda mientras la derecha enlaza notas de la escala hasta una llegada precisa a una nota guía.",
+                "de": "Halte links ein Shell, während die rechte Hand Skalentöne in eine präzise Guide-Tone-Landung webt.",
+                "ja": "左手でシェルを保ちながら、右手でスケール音をつないで正確なガイドトーンへ着地します。",
+                "zh-Hans": "左手保持壳音，右手把音阶音编进一句线条，并准确落到导音目标上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-target-weave/lesson.md"
             }
           ]
         },
