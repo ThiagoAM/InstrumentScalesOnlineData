@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 12,
+  "revision": 13,
   "sections": [
     {
       "id": "beginner",
@@ -7393,6 +7393,81 @@
                 "zh-Hans": "左手保持壳音，右手把音阶音编进一句线条，并准确落到导音目标上。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-target-weave/lesson.md"
+            },
+            {
+              "id": "guitar-guide-tone-switchback",
+              "order": 44,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar guide-tone switchback",
+                "pt-BR": "Zigue-zague de notas-guia na guitarra",
+                "es": "Zigzag de notas guía en guitarra",
+                "de": "Gitarren-Guide-Tone-Serpentine",
+                "ja": "ギター・ガイドトーン・スイッチバック",
+                "zh-Hans": "吉他导音折返点"
+              },
+              "summaries": {
+                "en": "Change direction once per bar, but still land on each chord's guide tone by beat three.",
+                "pt-BR": "Mude de direção uma vez por compasso, mas ainda chegue à nota-guia de cada acorde até o tempo três.",
+                "es": "Cambia de dirección una vez por compás, pero aun así llega a la nota guía de cada acorde antes del tiempo tres.",
+                "de": "Wechsle pro Takt einmal die Richtung und lande trotzdem bis Schlag drei auf dem Guide Tone jedes Akkords.",
+                "ja": "各小節で一度だけ進行方向を変えながら、3拍目までに各コードのガイドトーンへ着地します。",
+                "zh-Hans": "每小节只转向一次，但仍要在第三拍前落到该和弦的导音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-switchback/lesson.md"
+            },
+            {
+              "id": "bass-backbeat-trampoline",
+              "order": 45,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass backbeat trampoline",
+                "pt-BR": "Trampolim do contratempo no baixo",
+                "es": "Trampolín del contratiempo en bajo",
+                "de": "Bass-Backbeat-Trampolin",
+                "ja": "ベース・バックビート・トランポリン",
+                "zh-Hans": "贝斯反拍蹦床"
+              },
+              "summaries": {
+                "en": "Bounce off beat two or four, then snap back to a chord tone without dropping the pocket.",
+                "pt-BR": "Salte a partir do tempo dois ou quatro e volte a uma nota do acorde sem derrubar o groove.",
+                "es": "Rebota desde el tiempo dos o cuatro y vuelve a una nota del acorde sin perder el groove.",
+                "de": "Springe von Schlag zwei oder vier ab und schnapp zurück auf einen Akkordton, ohne die Pocket zu verlieren.",
+                "ja": "2拍目か4拍目を跳ね台にして、グルーヴを崩さずにコードトーンへ戻ります。",
+                "zh-Hans": "从第二拍或第四拍弹起，再迅速回到和弦音，同时不能丢掉律动。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-backbeat-trampoline/lesson.md"
+            },
+            {
+              "id": "piano-shell-pivot-liftoff",
+              "order": 46,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell-pivot liftoff",
+                "pt-BR": "Decolagem de shell com pivô no piano",
+                "es": "Despegue de shell con pivote en piano",
+                "de": "Klavier-Shell-Pivot-Liftoff",
+                "ja": "ピアノ・シェルピボット・リフトオフ",
+                "zh-Hans": "钢琴壳音支点起飞"
+              },
+              "summaries": {
+                "en": "Keep one shared finger as a pivot while the other notes lift into a fresh target color.",
+                "pt-BR": "Mantenha um dedo em comum como pivô enquanto as outras notas decolam para uma nova cor-alvo.",
+                "es": "Mantén un dedo común como pivote mientras las otras notas despegan hacia un nuevo color objetivo.",
+                "de": "Halte einen gemeinsamen Finger als Drehpunkt, während die anderen Töne in eine neue Zielfarbe abheben.",
+                "ja": "共通音を指の支点として保ちながら、ほかの音を新しいターゲットカラーへ持ち上げます。",
+                "zh-Hans": "保留一个共同音作为手指支点，让其他音抬起并飞向新的目标色彩。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-pivot-liftoff/lesson.md"
             }
           ]
         },
