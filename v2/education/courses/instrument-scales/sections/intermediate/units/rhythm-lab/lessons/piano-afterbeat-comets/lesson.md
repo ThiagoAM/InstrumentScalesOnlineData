@@ -1,0 +1,147 @@
+---
+schema: 2
+id: piano-afterbeat-comets
+course: instrument-scales
+level: intermediate
+section: intermediate
+unit: rhythm-lab
+order: 11
+revision: 1
+estimatedMinutes: 8
+instrument: piano
+title.en: Piano afterbeat comets
+title.pt-BR: Cometas de contratempo no piano
+title.es: Cometas a contratiempo en piano
+title.de: Klavier-Offbeat-Kometen
+title.ja: ピアノ・アフタービート彗星
+title.zh-Hans: 钢琴反拍彗星
+summary.en: Keep the left hand grounded on beats while the right hand flashes in after beat four and lands cleanly on the next phrase.
+summary.pt-BR: Mantenha a mão esquerda firme nos tempos enquanto a direita brilha depois do tempo quatro e cai limpa na frase seguinte.
+summary.es: Mantén la mano izquierda firme en los tiempos mientras la derecha brilla después del tiempo cuatro y cae limpia en la frase siguiente.
+summary.de: Lass die linke Hand auf den Schlägen verankert, während die rechte nach Schlag vier aufblitzt und sauber in die nächste Phrase landet.
+summary.ja: 左手を拍にしっかり置いたまま、右手が4拍目のあとで光り、次のフレーズへきれいに着地するようにします。
+summary.zh-Hans: 让左手稳稳站在拍上，右手则在第4拍之后闪一下，并干净落进下一句。
+---
+
+:::localized
+:::locale en
+# Piano afterbeat comets
+
+Set the metronome to **84 bpm** and stay in **C major**. The left hand is the night sky: calm, dark, dependable. The right hand is the comet, and it only matters if the sky underneath stays steady.
+
+Round 1 builds the sky. Play left-hand **C** on beat 1 and **G** on beat 3 for four bars. No right hand yet. Make those beats feel so settled that the later flash can be playful instead of chaotic.
+
+Round 2 adds the comet tail. In bar 2, keep beat 4 empty, then play right-hand **D-E** on the **and of 4** so the next bar lands on **G** or **C** with confidence. The pickup should sparkle, not smear.
+
+Round 3 gives the right hand two colors. Alternate one pickup that lands on **G** and one that lands on **E**. The left hand never changes, so your ear learns how one floor can support two different bright arrivals.
+
+Round 4 makes both hands breathe together. Every other bar, let the right hand stay silent and allow only the left hand to reset the phrase. If the groove collapses without the sparkle, the left hand was not really leading.
+
+Challenge round: shape an 8-bar phrase where bars 1-2 use the pickup, bar 3 stays dry, bar 4 uses a brighter pickup, bars 5-6 repeat the idea, and bars 7-8 end with only the left hand. The result should sound like timing with personality, not decoration for its own sake.
+
+:::checkpoint Play four bars with steady left-hand beats and a clean right-hand and-of-4 pickup that lands calmly on the next phrase.
+
+:::locale pt-BR
+# Cometas de contratempo no piano
+
+Ajuste o metrônomo para **84 bpm** e fique em **Dó maior**. A mão esquerda é o céu noturno: calma, escura e confiável. A mão direita é o cometa, e ela só importa se o céu por baixo continuar firme.
+
+A Rodada 1 constrói o céu. Toque **C** na mão esquerda no tempo 1 e **G** no tempo 3 por quatro compassos. Ainda sem mão direita. Faça esses tempos soarem tão assentados que o brilho posterior pareça brincadeira, não caos.
+
+A Rodada 2 adiciona a cauda do cometa. No compasso 2, deixe o tempo 4 vazio e então toque **D-E** na mão direita no **e do tempo 4**, para que o compasso seguinte caia em **G** ou **C** com confiança. A anacruse deve cintilar, não borrar.
+
+A Rodada 3 dá duas cores à mão direita. Alterne uma anacruse que cai em **G** e outra que cai em **E**. A mão esquerda nunca muda, então seu ouvido aprende como um mesmo chão sustenta duas chegadas brilhantes diferentes.
+
+A Rodada 4 faz as duas mãos respirarem juntas. Em um compasso sim, outro não, deixe a mão direita em silêncio e permita que só a esquerda reinicie a frase. Se o groove desabar sem o brilho, a esquerda não estava realmente guiando.
+
+Rodada de desafio: modele uma frase de 8 compassos em que os compassos 1-2 usem a anacruse, o compasso 3 fique seco, o compasso 4 use uma anacruse mais brilhante, os compassos 5-6 repitam a ideia e os compassos 7-8 terminem só com a mão esquerda. O resultado deve soar como tempo com personalidade, não como enfeite pelo enfeite.
+
+:::checkpoint Toque quatro compassos com tempos estáveis na mão esquerda e uma anacruse limpa no e do 4 na mão direita, pousando com calma na frase seguinte.
+
+:::locale es
+# Cometas a contratiempo en piano
+
+Pon el metrónomo a **84 bpm** y quédate en **Do mayor**. La mano izquierda es el cielo nocturno: calma, oscura y fiable. La derecha es el cometa, y solo funciona si el cielo de abajo sigue estable.
+
+La Ronda 1 construye el cielo. Toca **C** con la mano izquierda en el tiempo 1 y **G** en el tiempo 3 durante cuatro compases. Aún sin mano derecha. Haz que esos tiempos se sientan tan asentados que el brillo posterior sea juguetón y no caótico.
+
+La Ronda 2 añade la cola del cometa. En el compás 2, deja vacío el tiempo 4 y luego toca **D-E** con la mano derecha en el **y de 4**, para que el siguiente compás caiga en **G** o **C** con confianza. La anacrusa debe brillar, no emborronarse.
+
+La Ronda 3 da dos colores a la mano derecha. Alterna una anacrusa que cae en **G** y otra que cae en **E**. La mano izquierda nunca cambia, así que tu oído aprende cómo un mismo suelo sostiene dos llegadas luminosas distintas.
+
+La Ronda 4 hace respirar juntas a las dos manos. En compases alternos, deja a la mano derecha en silencio y permite que solo la izquierda reinicie la frase. Si el groove se cae sin el brillo, la izquierda en realidad no estaba guiando.
+
+Ronda de desafío: da forma a una frase de 8 compases donde los compases 1-2 usen la anacrusa, el 3 quede seco, el 4 use una anacrusa más brillante, los 5-6 repitan la idea y los 7-8 terminen solo con la mano izquierda. El resultado debe sonar como tiempo con personalidad, no como adorno por adorno.
+
+:::checkpoint Toca cuatro compases con tiempos estables en la izquierda y una anacrusa limpia en el y de 4 en la derecha, aterrizando con calma en la frase siguiente.
+
+:::locale de
+# Klavier-Offbeat-Kometen
+
+Stelle das Metronom auf **84 bpm** und bleibe in **C-Dur**. Die linke Hand ist der Nachthimmel: ruhig, dunkel, verlässlich. Die rechte ist der Komet, und sie funktioniert nur, wenn der Himmel darunter stabil bleibt.
+
+Runde 1 baut den Himmel. Spiele vier Takte lang links **C** auf Schlag 1 und **G** auf Schlag 3. Die rechte Hand bleibt noch weg. Diese Schläge sollen so gesetzt klingen, dass das spätere Aufleuchten verspielt statt chaotisch wirkt.
+
+Runde 2 ergänzt den Kometenschweif. Im 2. Takt lässt du Schlag 4 frei und spielst dann rechts **D-E** auf dem **Und von 4**, sodass der nächste Takt sicher auf **G** oder **C** landet. Der Auftakt soll funkeln, nicht verschmieren.
+
+Runde 3 gibt der rechten Hand zwei Farben. Wechsle zwischen einem Auftakt, der auf **G** landet, und einem, der auf **E** landet. Die linke Hand bleibt unverändert, damit dein Ohr lernt, wie derselbe Boden zwei verschiedene helle Landungen tragen kann.
+
+Runde 4 lässt beide Hände gemeinsam atmen. In jedem zweiten Takt schweigt die rechte Hand, und nur die linke setzt die Phrase zurück. Wenn der Groove ohne das Funkeln zusammenfällt, hat die linke Hand in Wahrheit nicht geführt.
+
+Challenge-Runde: Forme eine 8-taktige Phrase, in der Takt 1-2 den Auftakt nutzen, Takt 3 trocken bleibt, Takt 4 einen helleren Auftakt bringt, Takt 5-6 die Idee wiederholen und Takt 7-8 nur mit der linken Hand enden. Das Ergebnis soll wie Timing mit Persönlichkeit klingen, nicht wie Dekoration um der Dekoration willen.
+
+:::checkpoint Spiele vier Takte mit stabilen Schlägen in der linken Hand und einem klaren Und-von-4-Auftakt in der rechten, der ruhig in die nächste Phrase führt.
+
+:::locale ja
+# ピアノ・アフタービート彗星
+
+メトロノームを **84 bpm** に設定し、**Cメジャー** にとどまります。左手は夜空です。静かで暗く、頼れます。右手は彗星で、そのきらめきは下の空が安定していてこそ意味を持ちます。
+
+ラウンド1では空を作ります。4小節のあいだ、左手で1拍目に **C**、3拍目に **G** を弾きます。右手はまだ使いません。あとで光が走っても混乱ではなく遊びに聞こえるよう、この拍をしっかり落ち着かせてください。
+
+ラウンド2では彗星の尾を足します。2小節目で4拍目を空け、**4拍目の裏** で右手の **D-E** を弾き、次の小節の **G** または **C** に自信を持って着地します。ピックアップはきらっとして、にじませないこと。
+
+ラウンド3では右手に2つの色を与えます。**G** に着地するパターンと **E** に着地するパターンを交互に使います。左手は変えないので、同じ床が違う明るい着地をどう支えるかを耳で学べます。
+
+ラウンド4では両手を一緒に呼吸させます。1小節おきに右手を沈黙させ、左手だけでフレーズを立て直します。きらめきがないとグルーヴが崩れるなら、実は左手が本当に導いていなかったということです。
+
+チャレンジ・ラウンドでは8小節のフレーズを作ります。1〜2小節目でピックアップを使い、3小節目は乾いたまま、4小節目はより明るいピックアップ、5〜6小節目で繰り返し、7〜8小節目は左手だけで終えます。結果は、飾りのための飾りではなく、個性のあるタイムとして聞こえるべきです。
+
+:::checkpoint 左手の拍を安定させたまま4小節弾き、右手の4拍目の裏のきれいなピックアップを次のフレーズへ落ち着いて着地させましょう。
+
+:::locale zh-Hans
+# 钢琴反拍彗星
+
+把节拍器设成 **84 bpm**，留在 **C大调**。左手是夜空：安静、深色、可靠。右手是彗星，只有下面这片天空稳住了，它的闪光才有意义。
+
+第1轮先把天空搭好。连续四小节，左手在第1拍弹 **C**，第3拍弹 **G**。右手先不加入。要把这些拍点放稳，稳到后面的闪光听起来像玩味，而不是混乱。
+
+第2轮加入彗星尾巴。在第2小节，把第4拍留空，然后右手在 **第4拍后半拍** 弹 **D-E**，让下一小节自信地落到 **G** 或 **C**。这个引拍应该闪一下，而不是糊成一片。
+
+第3轮给右手两种颜色。交替使用落到 **G** 的引拍和落到 **E** 的引拍。左手完全不变，这样耳朵就会学会：同一块地板，也能托住两种不同的明亮落点。
+
+第4轮让双手一起呼吸。隔一小节就让右手保持沉默，只靠左手重置乐句。如果没有那点闪光 groove 就塌了，说明真正带路的并不是左手。
+
+挑战轮：写一个8小节乐句，让第1-2小节使用引拍，第3小节保持干爽，第4小节用更明亮的引拍，第5-6小节重复这个想法，而第7-8小节只用左手结束。结果应该像“有个性的时间感”，而不是为了装饰而装饰。
+
+:::checkpoint 连续弹四小节，左手强拍稳定，右手用第4拍后半拍的干净引拍平静地落进下一句。
+
+:::endlocalized
+
+```notes
+id: piano-afterbeat-comets-left
+title: Left-hand sky pulse
+instrument: piano
+tempo: 84
+beat: 0.5
+sequence: C3 - - - G2 - - - C3 - - - G2 - - - C3 - - - G2 - - - C3/2
+```
+
+```notes
+id: piano-afterbeat-comets-right
+title: Right-hand comet pickups
+instrument: piano
+tempo: 84
+beat: 0.5
+sequence: - - - - - - - - - - - - - - D4 E4 G4 - - - - - - - - - - - - - - D4 E4 E4 - - - - - - - - - - - - - - - -
+```

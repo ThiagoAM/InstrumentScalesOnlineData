@@ -1,0 +1,138 @@
+---
+schema: 2
+id: bass-beat-four-slingshot
+course: instrument-scales
+level: intermediate
+section: intermediate
+unit: rhythm-lab
+order: 10
+revision: 1
+estimatedMinutes: 8
+instrument: bass
+title.en: Bass beat-four slingshot
+title.pt-BR: Estilingue do tempo quatro no baixo
+title.es: Tirachinas del tiempo cuatro en bajo
+title.de: Bass-Schlag-vier-Schleuder
+title.ja: ベース・4拍目スリングショット
+title.zh-Hans: 贝斯第四拍弹弓
+summary.en: Let beat four stay open, then fire a short pickup into the next root so the pocket gets deeper instead of busier.
+summary.pt-BR: Deixe o tempo quatro aberto e depois dispare uma anacruse curta para a próxima tônica, deixando o pocket mais fundo em vez de mais cheio.
+summary.es: Deja abierto el tiempo cuatro y luego lanza una anacrusa corta hacia la siguiente tónica para que el pocket sea más profundo y no más cargado.
+summary.de: Lass Schlag vier offen und schieße dann einen kurzen Auftakt in den nächsten Grundton, damit das Pocket tiefer und nicht voller wird.
+summary.ja: 4拍目を開けたままにし、短いピックアップで次のルートへ飛び込み、詰め込みではなくポケットの深さを作ります。
+summary.zh-Hans: 把第4拍留开，再用一个短引拍射向下一个根音，让 pocket 更深，而不是更满。
+---
+
+:::localized
+:::locale en
+# Bass beat-four slingshot
+
+Loop **G minor pentatonic** at **86 bpm**. Think of beat 4 as the stretch of the slingshot. The less you clutter that space, the stronger the launch into the next bar feels.
+
+Round 1 builds the frame. Play **G** on beat 1, **D** on beat 3, and keep the eighth-note grid alive by counting, not by filling every gap. The groove has to stand up before the pickup earns its entrance.
+
+Round 2 loads the slingshot. Leave **beat 4 empty**, then play **F-G** on the **and of 4** into the next bar. Make the pickup short and tight. If it blooms too long, the downbeat loses its snap.
+
+Round 3 changes the route. On every second bar, use **Bb-C** instead of **F-G** as the pickup. Both versions must still land on the next **G** like they belong to the same bassist and the same pocket.
+
+Round 4 tests restraint. Alternate one bar with the pickup and one bar with no pickup at all. The empty version should still feel complete. If it sounds weak, you are using notes to hide instead of to point.
+
+Challenge round: create a 4-bar line where bar 1 uses no pickup, bar 2 uses **F-G**, bar 3 uses no pickup again, and bar 4 uses **Bb-C**. Record one pass and listen for whether the silence before beat 1 makes the next root feel heavier and cooler.
+
+:::checkpoint Play four bars with a steady G-root groove, leaving beat 4 open and launching one short pickup into the next downbeat without losing the pocket.
+
+:::locale pt-BR
+# Estilingue do tempo quatro no baixo
+
+Faça um loop em **Sol menor pentatônica** a **86 bpm**. Pense no tempo 4 como o estiramento do estilingue. Quanto menos você entulhar esse espaço, mais forte vai soar o lançamento para o compasso seguinte.
+
+A Rodada 1 monta a estrutura. Toque **G** no tempo 1, **D** no tempo 3, e mantenha a malha de colcheias viva contando, não preenchendo cada buraco. O groove precisa ficar de pé antes que a anacruse mereça entrar.
+
+A Rodada 2 carrega o estilingue. Deixe o **tempo 4 vazio** e depois toque **F-G** no **e do tempo 4** para entrar no compasso seguinte. Faça a anacruse curta e apertada. Se ela se alongar demais, o tempo forte perde o estalo.
+
+A Rodada 3 muda a rota. Em um compasso sim, outro não, use **Bb-C** em vez de **F-G** como anacruse. As duas versões ainda precisam cair no próximo **G** como se fossem do mesmo baixista e do mesmo pocket.
+
+A Rodada 4 testa a contenção. Alterne um compasso com anacruse e um compasso sem nenhuma anacruse. A versão vazia ainda deve soar completa. Se parecer fraca, você está usando notas para se esconder em vez de para apontar.
+
+Rodada de desafio: crie uma linha de 4 compassos em que o compasso 1 não use anacruse, o compasso 2 use **F-G**, o compasso 3 fique sem anacruse de novo e o compasso 4 use **Bb-C**. Grave uma passada e ouça se o silêncio antes do tempo 1 faz a próxima tônica soar mais pesada e mais legal.
+
+:::checkpoint Toque quatro compassos com um groove firme em G, deixando o tempo 4 aberto e lançando uma anacruse curta para o próximo tempo forte sem perder o pocket.
+
+:::locale es
+# Tirachinas del tiempo cuatro en bajo
+
+Pon un loop en **Sol menor pentatónica** a **86 bpm**. Piensa en el tiempo 4 como la tensión del tirachinas. Cuanto menos llenes ese espacio, más fuerte se sentirá el lanzamiento hacia el siguiente compás.
+
+La Ronda 1 construye el marco. Toca **G** en el tiempo 1, **D** en el tiempo 3 y mantén viva la rejilla de corcheas contando, no rellenando cada hueco. El groove debe sostenerse antes de que la anacrusa merezca entrar.
+
+La Ronda 2 carga el tirachinas. Deja el **tiempo 4 vacío** y luego toca **F-G** en el **y de 4** para entrar al compás siguiente. Haz la anacrusa corta y apretada. Si se alarga demasiado, el tiempo fuerte pierde su golpe.
+
+La Ronda 3 cambia la ruta. En cada segundo compás, usa **Bb-C** en vez de **F-G** como anacrusa. Las dos versiones deben caer en el siguiente **G** como si pertenecieran al mismo bajista y al mismo pocket.
+
+La Ronda 4 pone a prueba la contención. Alterna un compás con anacrusa y otro sin ninguna. La versión vacía también debe sentirse completa. Si suena débil, estás usando notas para esconderte y no para señalar.
+
+Ronda de desafío: crea una línea de 4 compases donde el compás 1 no use anacrusa, el compás 2 use **F-G**, el compás 3 vuelva a ir vacío y el compás 4 use **Bb-C**. Graba una pasada y escucha si el silencio antes del tiempo 1 hace que la siguiente raíz suene más pesada y más cool.
+
+:::checkpoint Toca cuatro compases con un groove firme en G, dejando abierto el tiempo 4 y lanzando una anacrusa corta al siguiente tiempo fuerte sin perder el pocket.
+
+:::locale de
+# Bass-Schlag-vier-Schleuder
+
+Loope **G-Moll-Pentatonik** bei **86 bpm**. Stell dir Schlag 4 als gespannte Schleuder vor. Je weniger du diesen Raum zustellst, desto stärker wirkt der Abschuss in den nächsten Takt.
+
+Runde 1 baut den Rahmen. Spiele **G** auf Schlag 1, **D** auf Schlag 3 und halte das Achtelraster durchs Zählen lebendig, nicht durchs Zupflastern jeder Lücke. Der Groove muss erst stehen, bevor der Auftakt seinen Platz verdient.
+
+Runde 2 lädt die Schleuder. Lass **Schlag 4 leer** und spiele dann **F-G** auf dem **Und von 4** in den nächsten Takt. Der Auftakt soll kurz und straff sein. Wenn er zu lang ausblüht, verliert der Downbeat seinen Biss.
+
+Runde 3 ändert die Route. In jedem zweiten Takt nimmst du **Bb-C** statt **F-G** als Auftakt. Beide Versionen müssen trotzdem auf dem nächsten **G** landen, als kämen sie vom selben Bassisten und demselben Pocket.
+
+Runde 4 prüft Zurückhaltung. Wechsle zwischen einem Takt mit Auftakt und einem ganz ohne. Auch die leere Version muss vollständig wirken. Wenn sie schwach klingt, benutzt du Noten zum Verstecken statt zum Zeigen.
+
+Challenge-Runde: Erfinde eine 4-taktige Linie, in der Takt 1 keinen Auftakt hat, Takt 2 **F-G** nutzt, Takt 3 wieder leer bleibt und Takt 4 **Bb-C** verwendet. Nimm einen Durchgang auf und prüfe, ob die Stille vor Schlag 1 den nächsten Grundton schwerer und cooler wirken lässt.
+
+:::checkpoint Spiele vier Takte mit einem stabilen G-Grundton-Groove, lasse Schlag 4 offen und schieße einen kurzen Auftakt in den nächsten Downbeat, ohne das Pocket zu verlieren.
+
+:::locale ja
+# ベース・4拍目スリングショット
+
+**Gマイナー・ペンタトニック** を **86 bpm** でループします。4拍目はスリングショットを引き絞る時間だと思ってください。この空間を詰め込まないほど、次の小節への飛び出しが強く感じられます。
+
+ラウンド1では枠を作ります。1拍目に **G**、3拍目に **D** を置き、すべてを埋めるのではなく数えることで8分のグリッドを生かします。ピックアップが入る前に、まずグルーヴ自体が立っていなければなりません。
+
+ラウンド2でスリングショットを装填します。**4拍目を空け**、**4拍目の裏** で **F-G** を弾いて次の小節へ入ります。ピックアップは短く引き締めてください。長く伸びるとダウンビートの切れ味が消えます。
+
+ラウンド3では進入路を変えます。2小節に1回は **F-G** の代わりに **Bb-C** を使います。どちらも次の **G** に、同じベーシストの同じポケットとして着地しなければいけません。
+
+ラウンド4では我慢を試します。ピックアップありの小節と、まったくなしの小節を交互に弾きます。空のバージョンでも完結して聞こえる必要があります。弱く聞こえるなら、音で示す代わりに音で隠している状態です。
+
+チャレンジ・ラウンドでは4小節のラインを作ります。1小節目はピックアップなし、2小節目は **F-G**、3小節目は再びなし、4小節目は **Bb-C** を使います。1回録音して、1拍目の前の沈黙が次のルートをより重く、よりクールに感じさせているか確かめてください。
+
+:::checkpoint 4小節のあいだGを中心にしたグルーヴを保ち、4拍目を開けてから短いピックアップで次のダウンビートへ入り、ポケットを失わないようにしましょう。
+
+:::locale zh-Hans
+# 贝斯第四拍弹弓
+
+把 **G小调五声音阶** 设成 **86 bpm** 循环。把第4拍想成弹弓被拉开的那一瞬。你越不把那里塞满，下一小节的发射感就越强。
+
+第1轮先搭框架。第1拍弹 **G**，第3拍弹 **D**，靠数拍维持八分音符网格，而不是把每个空隙都填满。先让 groove 自己站稳，引拍才值得出现。
+
+第2轮给弹弓上弦。把 **第4拍留空**，然后只在 **第4拍后半拍** 弹 **F-G** 进入下一小节。引拍要短、要紧。如果拖得太长，强拍就没有弹性了。
+
+第3轮换一条路线。每隔一小节，把引拍从 **F-G** 改成 **Bb-C**。两种版本都必须像来自同一个贝斯手、同一个 pocket 一样，落回下一个 **G**。
+
+第4轮测试克制力。一小节有引拍，下一小节完全没有，交替进行。没有引拍的版本也应该听起来完整。如果它听起来发虚，说明你是在拿音符躲藏，而不是拿音符指向重点。
+
+挑战轮：写一条4小节 bass line，第1小节不用引拍，第2小节用 **F-G**，第3小节再次不用，第4小节用 **Bb-C**。录一遍，再听听第1拍前的安静是不是让下一个根音更重、更酷。
+
+:::checkpoint 连续弹四小节，保持以 G 为中心的 groove，把第4拍留开，再用一个短引拍射进下一个强拍，同时不丢掉 pocket。
+
+:::endlocalized
+
+```notes
+id: bass-beat-four-slingshot-main
+title: G-root slingshot groove
+instrument: bass
+tempo: 86
+beat: 0.5
+sequence: G2 - - - D3 - - - G2 - - - D3 - - F3 G3 G2 - - - D3 - - - G2 - - - D3 - - Bb2 C3
+```

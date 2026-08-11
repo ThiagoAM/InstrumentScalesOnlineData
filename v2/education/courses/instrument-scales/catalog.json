@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 13,
+  "revision": 14,
   "sections": [
     {
       "id": "beginner",
@@ -3268,6 +3268,81 @@
                 "zh-Hans": "让左手在强拍发光，右手则在反拍用短短的音阶火花回应。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/piano-staggered-lanterns/lesson.md"
+            },
+            {
+              "id": "guitar-late-launch-switch",
+              "order": 9,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar late-launch switch",
+                "pt-BR": "Troca de decolagem tardia na guitarra",
+                "es": "Cambio de despegue tardío en guitarra",
+                "de": "Gitarren-Spätstart-Wechsel",
+                "ja": "ギター・レイトスタート切り替え",
+                "zh-Hans": "吉他延迟起飞切换"
+              },
+              "summaries": {
+                "en": "Leave beat four empty, launch on the and, and land back on the tonic without rushing the pick hand.",
+                "pt-BR": "Deixe o tempo quatro vazio, decole no contratempo e volte à tônica sem apressar a mão da palheta.",
+                "es": "Deja vacío el tiempo cuatro, despega en el contratiempo y vuelve a la tónica sin apresurar la mano de la púa.",
+                "de": "Lass Schlag vier frei, starte auf dem Offbeat und lande wieder auf dem Grundton, ohne die Plektrumhand zu hetzen.",
+                "ja": "4拍目を空け、裏拍で飛び出し、ピッキングの手を急がせずに主音へ戻ります。",
+                "zh-Hans": "把第4拍留空，在反拍起飞，再回到主音，同时不让拨片手抢拍。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/guitar-late-launch-switch/lesson.md"
+            },
+            {
+              "id": "bass-beat-four-slingshot",
+              "order": 10,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass beat-four slingshot",
+                "pt-BR": "Estilingue do tempo quatro no baixo",
+                "es": "Tirachinas del tiempo cuatro en bajo",
+                "de": "Bass-Schlag-vier-Schleuder",
+                "ja": "ベース・4拍目スリングショット",
+                "zh-Hans": "贝斯第四拍弹弓"
+              },
+              "summaries": {
+                "en": "Let beat four stay open, then fire a short pickup into the next root so the pocket gets deeper instead of busier.",
+                "pt-BR": "Deixe o tempo quatro aberto e depois dispare uma anacruse curta para a próxima tônica, deixando o pocket mais fundo em vez de mais cheio.",
+                "es": "Deja abierto el tiempo cuatro y luego lanza una anacrusa corta hacia la siguiente tónica para que el pocket sea más profundo y no más cargado.",
+                "de": "Lass Schlag vier offen und schieße dann einen kurzen Auftakt in den nächsten Grundton, damit das Pocket tiefer und nicht voller wird.",
+                "ja": "4拍目を開けたままにし、短いピックアップで次のルートへ飛び込み、詰め込みではなくポケットの深さを作ります。",
+                "zh-Hans": "把第4拍留开，再用一个短引拍射向下一个根音，让 pocket 更深，而不是更满。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/bass-beat-four-slingshot/lesson.md"
+            },
+            {
+              "id": "piano-afterbeat-comets",
+              "order": 11,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano afterbeat comets",
+                "pt-BR": "Cometas de contratempo no piano",
+                "es": "Cometas a contratiempo en piano",
+                "de": "Klavier-Offbeat-Kometen",
+                "ja": "ピアノ・アフタービート彗星",
+                "zh-Hans": "钢琴反拍彗星"
+              },
+              "summaries": {
+                "en": "Keep the left hand grounded on beats while the right hand flashes in after beat four and lands cleanly on the next phrase.",
+                "pt-BR": "Mantenha a mão esquerda firme nos tempos enquanto a direita brilha depois do tempo quatro e cai limpa na frase seguinte.",
+                "es": "Mantén la mano izquierda firme en los tiempos mientras la derecha brilla después del tiempo cuatro y cae limpia en la frase siguiente.",
+                "de": "Lass die linke Hand auf den Schlägen verankert, während die rechte nach Schlag vier aufblitzt und sauber in die nächste Phrase landet.",
+                "ja": "左手を拍にしっかり置いたまま、右手が4拍目のあとで光り、次のフレーズへきれいに着地するようにします。",
+                "zh-Hans": "让左手稳稳站在拍上，右手则在第4拍之后闪一下，并干净落进下一句。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/piano-afterbeat-comets/lesson.md"
             }
           ]
         },
