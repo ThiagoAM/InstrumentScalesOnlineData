@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 14,
+  "revision": 15,
   "sections": [
     {
       "id": "beginner",
@@ -3045,6 +3045,56 @@
                 "zh-Hans": "把一个音阶片段从第5把位交接到第8把位，同时避免笨拙换把和节拍中断。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/guitar-position-handoff-race/lesson.md"
+            },
+            {
+              "id": "guitar-position-comet-lift",
+              "order": 5,
+              "estimatedMinutes": 8,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Guitar position comet lift",
+                "pt-BR": "Subida de cometa entre posições na guitarra",
+                "es": "Ascenso de cometa entre posiciones en guitarra",
+                "de": "Gitarren-Positions-Kometenstart",
+                "ja": "ギター・ポジション彗星リフト",
+                "zh-Hans": "吉他把位彗星上升"
+              },
+              "summaries": {
+                "en": "Carry one bright G-major scale idea from 3rd to 7th position and return without losing direction or pulse.",
+                "pt-BR": "Leve uma ideia brilhante de Sol maior da 3ª para a 7ª posição e volte sem perder direção nem pulso.",
+                "es": "Lleva una idea brillante de Sol mayor desde 3ª hasta 7ª posición y regresa sin perder dirección ni pulso.",
+                "de": "Trage eine helle G-Dur-Idee von der 3. in die 7. Lage und zurück, ohne Richtung oder Puls zu verlieren.",
+                "ja": "明るいGメジャーのアイデアを3ポジションから7ポジションへ運び、方向感と拍を失わずに戻ります。",
+                "zh-Hans": "把一个明亮的G大调想法从第3把位带到第7把位再带回来，同时不丢掉方向感和节拍。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/guitar-position-comet-lift/lesson.md"
+            },
+            {
+              "id": "bass-lane-jump-beacon",
+              "order": 6,
+              "estimatedMinutes": 8,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": false,
+              "titles": {
+                "en": "Bass lane jump beacon",
+                "pt-BR": "Farol de salto de faixa no baixo",
+                "es": "Baliza de salto de carril en bajo",
+                "de": "Bass-Spurwechsel-Leuchtfeuer",
+                "ja": "ベース・レーンジャンプ・ビーコン",
+                "zh-Hans": "贝斯跨线信标"
+              },
+              "summaries": {
+                "en": "Jump from low root to upper scale lane in D major while keeping the groove centered and the landing calm.",
+                "pt-BR": "Salte da tônica grave para a faixa aguda da escala em Ré maior mantendo o groove centrado e a chegada calma.",
+                "es": "Salta de la tónica grave al carril agudo de la escala en Re mayor manteniendo el groove centrado y el aterrizaje tranquilo.",
+                "de": "Springe in D-Dur vom tiefen Grundton in die obere Skalenspur und halte Groove und Landung ruhig im Zentrum.",
+                "ja": "Dメジャーで低いルートから上のスケール・レーンへ跳び、グルーヴの中心と落ち着いた着地を保ちます。",
+                "zh-Hans": "在D大调里从低根音跳到上方音阶线路，同时保持律动居中、落点沉稳。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/bass-lane-jump-beacon/lesson.md"
             }
           ]
         },
@@ -3343,6 +3393,31 @@
                 "zh-Hans": "让左手稳稳站在拍上，右手则在第4拍之后闪一下，并干净落进下一句。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/piano-afterbeat-comets/lesson.md"
+            },
+            {
+              "id": "piano-mirror-sidestep-sparks",
+              "order": 12,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "Piano mirror sidestep sparks",
+                "pt-BR": "Faíscas de desvio espelhado no piano",
+                "es": "Chispas de desvío en espejo para piano",
+                "de": "Klavier-Spiegelschritt-Funken",
+                "ja": "ピアノ・ミラーサイドステップ・スパーク",
+                "zh-Hans": "钢琴镜像侧步火花"
+              },
+              "summaries": {
+                "en": "Keep the left hand steady in C minor while the right hand answers with offbeat mirror fragments that never rush the bar line.",
+                "pt-BR": "Mantenha a mão esquerda firme em Dó menor enquanto a direita responde com fragmentos espelhados em contratempo sem apressar a virada do compasso.",
+                "es": "Mantén la mano izquierda firme en Do menor mientras la derecha responde con fragmentos en espejo a contratiempo sin adelantar el compás.",
+                "de": "Halte die linke Hand in c-Moll stabil, während die rechte mit spiegelnden Offbeat-Fragmenten antwortet, ohne die Taktgrenze zu hetzen.",
+                "ja": "左手をCマイナーで安定させたまま、右手が小節線を急がせない裏拍の鏡像フラグメントで応答します。",
+                "zh-Hans": "让左手在C小调中保持稳定，右手则用不抢拍的小节线前后镜像反拍片段来回应。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/piano-mirror-sidestep-sparks/lesson.md"
             }
           ]
         },

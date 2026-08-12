@@ -120,7 +120,7 @@ function messages(result) {
 test("real repository passes the focused bulk audit", () => {
   const result = auditV2Bulk(repositoryV2, { checkRevisionOne: false });
   assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
-  assert.equal(result.lessons, 688);
+  assert.equal(result.lessons, 691);
 });
 
 test("valid revision-one lesson passes and checks all locale bodies", () => {
