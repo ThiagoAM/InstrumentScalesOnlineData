@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 15,
+  "revision": 16,
   "sections": [
     {
       "id": "beginner",
@@ -7618,6 +7618,81 @@
                 "zh-Hans": "保留一个共同音作为手指支点，让其他音抬起并飞向新的目标色彩。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-pivot-liftoff/lesson.md"
+            },
+            {
+              "id": "guitar-pivot-flare-ladder",
+              "order": 47,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar pivot flare ladder",
+                "pt-BR": "Escada de clarões com pivô na guitarra",
+                "es": "Escalera de destellos con pivote en guitarra",
+                "de": "Gitarren-Pivot-Flare-Leiter",
+                "ja": "ギター・ピボット・フレア・ラダー",
+                "zh-Hans": "吉他枢轴火花阶梯"
+              },
+              "summaries": {
+                "en": "Pivot around one anchor note, then flare into each new chord target so your position shifts sound daring instead of accidental.",
+                "pt-BR": "Gire em torno de uma nota-âncora e depois dispare até cada novo alvo do acorde para que suas trocas de posição soem ousadas, não acidentais.",
+                "es": "Gira alrededor de una nota ancla y luego lánzate hacia cada nuevo objetivo del acorde para que tus cambios de posición suenen valientes y no accidentales.",
+                "de": "Drehe dich um einen Ankerton und schieße dann in jeden neuen Akkordzielton, damit deine Lagenwechsel mutig statt zufällig klingen.",
+                "ja": "ひとつのアンカーノートを軸にしながら各コードの新しい目標音へ飛び込み、ポジション移動を偶然ではなく大胆な選択として響かせます。",
+                "zh-Hans": "围绕一个锚点音旋转，再冲向每个新和弦目标音，让你的把位切换听起来像大胆设计，而不是失误。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-pivot-flare-ladder/lesson.md"
+            },
+            {
+              "id": "bass-backbeat-periscope",
+              "order": 48,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass backbeat periscope",
+                "pt-BR": "Periscópio de contratempo no baixo",
+                "es": "Periscopio de contratiempo en bajo",
+                "de": "Bass-Backbeat-Periskop",
+                "ja": "ベース・バックビート・ペリスコープ",
+                "zh-Hans": "贝斯反拍潜望镜"
+              },
+              "summaries": {
+                "en": "Pop above the groove on the backbeat, spot the next chord tone, and drop back in without wobbling the pocket.",
+                "pt-BR": "Apareça acima do groove no contratempo, aviste a próxima nota-alvo do acorde e volte sem balançar o pocket.",
+                "es": "Asómate por encima del groove en el contratiempo, localiza la siguiente nota objetivo del acorde y vuelve sin tambalear el pocket.",
+                "de": "Tauche auf dem Backbeat kurz über den Groove auf, peile den nächsten Akkordton an und sinke zurück, ohne den Pocket zu verwackeln.",
+                "ja": "バックビートで一瞬グルーヴの上に顔を出し、次のコードトーンを見つけて、ポケットを揺らさずに戻ります。",
+                "zh-Hans": "在反拍时从 groove 里探出头，锁定下一个和弦目标音，再稳稳落回去，不把 pocket 弄晃。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-backbeat-periscope/lesson.md"
+            },
+            {
+              "id": "piano-shell-liftoff-grid",
+              "order": 49,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell liftoff grid",
+                "pt-BR": "Grade de decolagem com shells no piano",
+                "es": "Cuadrícula de despegue con shells en piano",
+                "de": "Klavier-Shell-Liftoff-Raster",
+                "ja": "ピアノ・シェル・リフトオフ・グリッド",
+                "zh-Hans": "钢琴 shell 起飞方格"
+              },
+              "summaries": {
+                "en": "Keep a left-hand shell grid locked while the right hand launches at different beats and still lands on the exact chord color you planned.",
+                "pt-BR": "Mantenha uma grade de shells travada na mão esquerda enquanto a direita decola em tempos diferentes e ainda cai exatamente na cor harmônica planejada.",
+                "es": "Mantén una cuadrícula de shells fija en la mano izquierda mientras la derecha despega en tiempos distintos y aun así aterriza exactamente en el color armónico previsto.",
+                "de": "Halte links ein stabiles Shell-Raster, während rechts auf verschiedenen Zählzeiten gestartet wird und trotzdem genau der geplante Farbton landet.",
+                "ja": "左手のシェル・グリッドを固定したまま、右手がさまざまな拍から飛び立っても、狙ったコードカラーに正確に着地できるようにします。",
+                "zh-Hans": "在左手稳稳锁住 shell 网格的同时，让右手从不同拍点起飞，却依然准确落到你计划好的和弦色彩音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-liftoff-grid/lesson.md"
             }
           ]
         },
