@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 16,
+  "revision": 17,
   "sections": [
     {
       "id": "beginner",
@@ -7693,6 +7693,81 @@
                 "zh-Hans": "在左手稳稳锁住 shell 网格的同时，让右手从不同拍点起飞，却依然准确落到你计划好的和弦色彩音上。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-liftoff-grid/lesson.md"
+            },
+            {
+              "id": "bass-seventh-lighthouse",
+              "order": 50,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass seventh lighthouse",
+                "pt-BR": "Farol da sétima no baixo",
+                "es": "Faro de la séptima en bajo",
+                "de": "Bass-Septimen-Leuchtturm",
+                "ja": "ベース・セブンス・ライトハウス",
+                "zh-Hans": "贝斯七音灯塔"
+              },
+              "summaries": {
+                "en": "Hold a steady funk pulse while each bar flashes the 7th of the next chord before returning home.",
+                "pt-BR": "Mantenha um pulso funk estável enquanto cada compasso ilumina a 7ª do próximo acorde antes de voltar para casa.",
+                "es": "Mantén un pulso funk estable mientras cada compás ilumina la 7ª del siguiente acorde antes de volver a casa.",
+                "de": "Halte einen stabilen Funk-Puls, während jeder Takt die Septime des nächsten Akkords aufleuchten lässt, bevor er nach Hause zurückkehrt.",
+                "ja": "安定したファンクの脈動を保ちながら、各小節で次のコードの7度を先に見せてから戻ります。",
+                "zh-Hans": "保持稳定的放克脉搏，同时在每小节先闪出下一个和弦的七音，再回到根基。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-seventh-lighthouse/lesson.md"
+            },
+            {
+              "id": "guitar-guide-tone-slalom",
+              "order": 51,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar guide-tone slalom",
+                "pt-BR": "Slalom de notas-guia na guitarra",
+                "es": "Eslalon de notas guía en guitarra",
+                "de": "Guide-Tone-Slalom auf der Gitarre",
+                "ja": "ギター・ガイドトーン・スラローム",
+                "zh-Hans": "吉他导音回转赛"
+              },
+              "summaries": {
+                "en": "Thread short G-major phrases through a ii-V-I-VI loop by landing on each new 3rd before the bar settles.",
+                "pt-BR": "Passe frases curtas em Sol maior por um loop ii-V-I-VI pousando na 3ª de cada acorde antes que o compasso assente.",
+                "es": "Conduce frases cortas en Sol mayor por un bucle ii-V-I-VI cayendo en la 3ª de cada acorde antes de que el compás se asiente.",
+                "de": "Fädle kurze Phrasen in G-Dur durch einen ii-V-I-VI-Loop und lande vor der Taktmitte auf der Terz jedes neuen Akkords.",
+                "ja": "Gメジャーの ii-V-I-VI 進行で、各コードの3度へ早めに着地しながら短いフレーズをつなげます。",
+                "zh-Hans": "在G大调 ii-V-I-VI 循环中，用短句穿行，并在小节稳定前提前落到每个新和弦的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-slalom/lesson.md"
+            },
+            {
+              "id": "piano-shell-third-fireworks",
+              "order": 52,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell-third fireworks",
+                "pt-BR": "Fogos de 3ª com shells no piano",
+                "es": "Fuegos de terceras con shells en piano",
+                "de": "Shell-Terz-Feuerwerk am Klavier",
+                "ja": "ピアノ・シェル三度ファイアワークス",
+                "zh-Hans": "钢琴壳音三度烟火"
+              },
+              "summaries": {
+                "en": "Keep left-hand shells steady while the right hand snaps to each new 3rd with brighter rhythmic shapes.",
+                "pt-BR": "Mantenha os shells da mão esquerda firmes enquanto a direita estala em cada nova 3ª com desenhos rítmicos mais vivos.",
+                "es": "Mantén estables los shells de la izquierda mientras la derecha cae en cada nueva 3ª con figuras rítmicas más vivas.",
+                "de": "Halte die Shells der linken Hand stabil, während die rechte mit helleren Rhythmen jeweils auf die neue Terz schnappt.",
+                "ja": "左手のシェルを安定させたまま、右手がより鮮やかなリズムで各コードの新しい3度へ素早く着地します。",
+                "zh-Hans": "左手稳住壳式和弦，右手用更明亮的节奏图形迅速落到每个新和弦的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-third-fireworks/lesson.md"
             }
           ]
         },
