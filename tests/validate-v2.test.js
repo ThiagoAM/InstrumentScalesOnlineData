@@ -238,14 +238,14 @@ test("stray file in lesson directory fails", () => {
 test("real repository tree passes with strict locales and new formats", () => {
   const result = validateV2(repositoryV2);
   assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
-  assert.equal(result.lessons, 697);
+  assert.equal(result.lessons, 700);
   assert.equal(result.courses, 2);
   assert.equal(result.riffs, 35);
 });
 
 test("real repository adds one hundred lessons to every v2 section", () => {
   for (const [courseID, lessonPrefix, expectedRevision] of [
-    ["instrument-scales", "scale-", 17],
+    ["instrument-scales", "scale-", 18],
     ["chords-harmony", "harmony-", 3],
   ]) {
     const catalog = JSON.parse(fs.readFileSync(
@@ -283,7 +283,7 @@ test("real repository adds one hundred lessons to every v2 section", () => {
     const publishedLessons = catalog.sections.flatMap((section) =>
       section.units.flatMap((unit) => unit.lessons)
     );
-    const expectedExisting = courseID === "instrument-scales" ? 84 : 13;
+    const expectedExisting = courseID === "instrument-scales" ? 87 : 13;
     assert.equal(
       publishedLessons.filter((lesson) => !lesson.id.startsWith(lessonPrefix)).length,
       expectedExisting,

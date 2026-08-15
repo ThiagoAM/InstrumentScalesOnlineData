@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 17,
+  "revision": 18,
   "sections": [
     {
       "id": "beginner",
@@ -7768,6 +7768,81 @@
                 "zh-Hans": "左手稳住壳式和弦，右手用更明亮的节奏图形迅速落到每个新和弦的三音上。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-third-fireworks/lesson.md"
+            },
+            {
+              "id": "guitar-approach-lane-shift",
+              "order": 53,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar approach-lane shift",
+                "pt-BR": "Mudança de faixa com aproximações na guitarra",
+                "es": "Cambio de carril con aproximaciones en guitarra",
+                "de": "Spurwechsel mit Annäherungstönen auf der Gitarre",
+                "ja": "ギター・アプローチレーンシフト",
+                "zh-Hans": "吉他接近音换道"
+              },
+              "summaries": {
+                "en": "Cross one position shift and still land on a chord tone with a half-step approach.",
+                "pt-BR": "Atravesse uma mudança de posição e ainda chegue a uma nota do acorde com uma aproximação de semitom.",
+                "es": "Cruza un cambio de posición y aun así cae en una nota del acorde con una aproximación de semitono.",
+                "de": "Überquere einen Lagenwechsel und lande trotzdem mit einem Halbton-Approach auf einem Akkordton.",
+                "ja": "ポジション移動をまたいでも、半音アプローチでコードトーンへ着地します。",
+                "zh-Hans": "跨过一次把位移动，并用半音接近准确落到和弦音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-approach-lane-shift/lesson.md"
+            },
+            {
+              "id": "bass-guide-tone-snapback",
+              "order": 54,
+              "estimatedMinutes": 7,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass guide-tone snapback",
+                "pt-BR": "Retorno de notas-guia no baixo",
+                "es": "Regreso de notas guía en bajo",
+                "de": "Guide-Tone-Schnapprückkehr auf dem Bass",
+                "ja": "ベース・ガイドトーン・スナップバック",
+                "zh-Hans": "贝斯导音回弹"
+              },
+              "summaries": {
+                "en": "Jump away from the guide tone, then snap back to the 3rd or 7th before beat one disappears.",
+                "pt-BR": "Salte para longe da nota-guia e volte rápido para a 3ª ou 7ª antes que o tempo um desapareça.",
+                "es": "Salta lejos de la nota guía y vuelve rápido a la 3ª o 7ª antes de que desaparezca el tiempo uno.",
+                "de": "Spring vom Guide Tone weg und schnappe vor dem Ende der Eins zur Terz oder Septime zurück.",
+                "ja": "ガイドトーンから一度離れても、1拍目のうちに3度か7度へ素早く戻ります。",
+                "zh-Hans": "先离开导音，再在第一拍结束前迅速回到三音或七音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-guide-tone-snapback/lesson.md"
+            },
+            {
+              "id": "piano-shell-resolution-ribbon",
+              "order": 55,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell-resolution ribbon",
+                "pt-BR": "Fita de resolução com shells no piano",
+                "es": "Cinta de resolución con shells en piano",
+                "de": "Klavier-Shell-Resolving-Band",
+                "ja": "ピアノ・シェル解決リボン",
+                "zh-Hans": "钢琴壳式解决丝带"
+              },
+              "summaries": {
+                "en": "Thread a smooth right-hand ribbon over left-hand shells and resolve each bar to the next guide tone.",
+                "pt-BR": "Passe uma fita suave da mão direita sobre shells da mão esquerda e resolva cada compasso na próxima nota-guia.",
+                "es": "Teje una cinta suave con la mano derecha sobre shells de la izquierda y resuelve cada compás en la siguiente nota guía.",
+                "de": "Lege ein flüssiges Band der rechten Hand über linke Shells und löse jeden Takt zum nächsten Guide Tone auf.",
+                "ja": "左手のシェルの上で右手の滑らかなラインをつなぎ、各小節を次のガイドトーンへ解決します。",
+                "zh-Hans": "在左手壳式和弦上铺开右手顺滑线条，并把每小节解决到下一个导音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-resolution-ribbon/lesson.md"
             }
           ]
         },
