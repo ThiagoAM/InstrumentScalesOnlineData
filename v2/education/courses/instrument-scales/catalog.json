@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 18,
+  "revision": 19,
   "sections": [
     {
       "id": "beginner",
@@ -3418,6 +3418,31 @@
                 "zh-Hans": "让左手在C小调中保持稳定，右手则用不抢拍的小节线前后镜像反拍片段来回应。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/piano-mirror-sidestep-sparks/lesson.md"
+            },
+            {
+              "id": "bass-offbeat-lighthouse-run",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": false,
+              "titles": {
+                "en": "Bass offbeat lighthouse run",
+                "pt-BR": "Farol de contratempos no baixo",
+                "es": "Faro de contratiempos en bajo",
+                "de": "Bass-Offbeat-Leuchtturm",
+                "ja": "ベース・オフビート灯台ラン",
+                "zh-Hans": "贝斯反拍灯塔跑线"
+              },
+              "summaries": {
+                "en": "Hold a steady root on beat one, then flash scale notes on the offbeats.",
+                "pt-BR": "Segure uma tônica firme no tempo um e depois acenda notas da escala nos contratempos.",
+                "es": "Sostén una raíz firme en el tiempo uno y luego enciende notas de la escala en los contratiempos.",
+                "de": "Halte auf Schlag eins einen stabilen Grundton und setze dann Skalentöne auf die Offbeats.",
+                "ja": "1拍目に安定したルートを置き、そのあと裏拍でスケール音を光らせます。",
+                "zh-Hans": "在第一拍稳稳放下根音，然后在反拍点亮音阶音。"
+              },
+              "path": "sections/intermediate/units/rhythm-lab/lessons/bass-offbeat-lighthouse-run/lesson.md"
             }
           ]
         },
@@ -6445,6 +6470,31 @@
                 "zh-Hans": "让双手从中央 C 以反向进行离开，再在不失去平衡的情况下回到一个明亮目标音。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/piano-contrary-motion-comet/lesson.md"
+            },
+            {
+              "id": "guitar-fourth-compass-lift",
+              "order": 11,
+              "estimatedMinutes": 8,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Guitar fourth compass lift",
+                "pt-BR": "Bússola de quartas na guitarra",
+                "es": "Brújula de cuartas en guitarra",
+                "de": "Gitarren-Quartenkompass",
+                "ja": "ギター・4度コンパス・リフト",
+                "zh-Hans": "吉他四度罗盘提升"
+              },
+              "summaries": {
+                "en": "Climb through fourths on neighboring strings, then resolve the line with scale steps.",
+                "pt-BR": "Suba em quartas por cordas vizinhas e depois resolva a linha com passos da escala.",
+                "es": "Asciende en cuartas por cuerdas vecinas y luego resuelve la línea con pasos de escala.",
+                "de": "Steige in Quarten über benachbarte Saiten und löse die Linie dann mit Skalen-Schritten auf.",
+                "ja": "隣り合う弦で4度を上がり、そのあとスケールの順次進行でラインを解決します。",
+                "zh-Hans": "在相邻琴弦上以四度上行，再用音阶级进把线条解决回来。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-fourth-compass-lift/lesson.md"
             }
           ]
         },
@@ -7843,6 +7893,31 @@
                 "zh-Hans": "在左手壳式和弦上铺开右手顺滑线条，并把每小节解决到下一个导音。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-resolution-ribbon/lesson.md"
+            },
+            {
+              "id": "piano-guide-tone-hopscotch",
+              "order": 56,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "Piano guide-tone hopscotch",
+                "pt-BR": "Amarelinha de notas-guia no piano",
+                "es": "Rayuela de notas guía en piano",
+                "de": "Klavier-Guide-Tone-Hüpfspiel",
+                "ja": "ピアノ・ガイドトーン・ホップスコッチ",
+                "zh-Hans": "钢琴导音跳房子"
+              },
+              "summaries": {
+                "en": "Jump between shell tones with the left hand while the right hand targets the next 3rd or 7th.",
+                "pt-BR": "Salte entre shells com a mão esquerda enquanto a direita mira a próxima 3ª ou 7ª.",
+                "es": "Salta entre shells con la mano izquierda mientras la derecha apunta a la siguiente 3ª o 7ª.",
+                "de": "Springe links zwischen Shell-Tönen, während die rechte Hand die nächste Terz oder Septime ansteuert.",
+                "ja": "左手はシェル音を跳び、右手は次の3度または7度を狙います。",
+                "zh-Hans": "左手在壳式音之间跳动，右手则瞄准下一个三音或七音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-hopscotch/lesson.md"
             }
           ]
         },
