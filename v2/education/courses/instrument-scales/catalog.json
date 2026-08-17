@@ -7918,6 +7918,81 @@
                 "zh-Hans": "左手在壳式音之间跳动，右手则瞄准下一个三音或七音。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-hopscotch/lesson.md"
+            },
+            {
+              "id": "guitar-third-bounce-chase",
+              "order": 57,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar third-bounce chase",
+                "pt-BR": "Caça de rebotes na 3ª da guitarra",
+                "es": "Persecución de rebotes a la 3ª en guitarra",
+                "de": "Gitarren-Terz-Bounce-Jagd",
+                "ja": "ギター・サード・バウンス・チェイス",
+                "zh-Hans": "吉他三音弹跳追击"
+              },
+              "summaries": {
+                "en": "Bounce off one neighbor note, then land on each chord's 3rd in a bright ii-V-I game around fifth position.",
+                "pt-BR": "Rebata em uma nota vizinha e depois pouse na 3ª de cada acorde em um jogo ii-V-I brilhante na quinta posição.",
+                "es": "Rebota en una nota vecina y luego cae en la 3ª de cada acorde en un juego ii-V-I brillante alrededor de la quinta posición.",
+                "de": "Pralle kurz von einem Nachbarton ab und lande dann in einem hellen ii-V-I-Spiel um die fünfte Lage auf der Terz jedes Akkords.",
+                "ja": "5ポジション付近の明るい ii-V-I ゲームで、隣の音を1回はさんでから各コードの3度へ着地します。",
+                "zh-Hans": "在第五把位附近进行明亮的 ii-V-I 游戏，先碰一下邻音，再落到每个和弦的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-third-bounce-chase/lesson.md"
+            },
+            {
+              "id": "bass-backbeat-lighthouse-hop",
+              "order": 58,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass backbeat lighthouse hop",
+                "pt-BR": "Salto de farol no backbeat do baixo",
+                "es": "Salto de faro en backbeat para bajo",
+                "de": "Bass-Backbeat-Leuchtturm-Hop",
+                "ja": "ベース・バックビート・ライトハウス・ホップ",
+                "zh-Hans": "贝斯反拍灯塔跳点"
+              },
+              "summaries": {
+                "en": "Keep a dry backbeat groove while hopping to the next chord's 3rd on an upbeat preview.",
+                "pt-BR": "Mantenha um groove seco de backbeat enquanto salta para a 3ª do próximo acorde em uma antecipação no contratempo.",
+                "es": "Mantén un groove seco de backbeat mientras saltas a la 3ª del siguiente acorde en una anticipación a contratiempo.",
+                "de": "Halte einen trockenen Backbeat-Groove, während du auf einem Offbeat-Vorgriff zur Terz des nächsten Akkords springst.",
+                "ja": "乾いたバックビートのグルーヴを保ちながら、裏拍の予告で次のコードの3度へ跳びます。",
+                "zh-Hans": "保持干脆的反拍 groove，并在反拍预告时跳到下一个和弦的三音上。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-backbeat-lighthouse-hop/lesson.md"
+            },
+            {
+              "id": "piano-shell-comet-drops",
+              "order": 59,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell comet drops",
+                "pt-BR": "Quedas de cometa com shells no piano",
+                "es": "Caídas de cometa con shells en piano",
+                "de": "Klavier-Shell-Kometenlandungen",
+                "ja": "ピアノ・シェル・コメット・ドロップス",
+                "zh-Hans": "钢琴壳音彗星落点"
+              },
+              "summaries": {
+                "en": "Hold compact left-hand shells while the right hand drops from above into each new 3rd across a ii-V-I-VI loop.",
+                "pt-BR": "Sustente shells compactos na esquerda enquanto a direita cai de cima na 3ª de cada acorde em um loop ii-V-I-VI.",
+                "es": "Sostén shells compactos en la izquierda mientras la derecha cae desde arriba hacia la 3ª de cada acorde en un bucle ii-V-I-VI.",
+                "de": "Halte kompakte Shells links, während die rechte Hand in einem ii-V-I-VI-Loop von oben auf die Terz jedes Akkords fällt.",
+                "ja": "左手でコンパクトなシェルを保ちながら、右手が ii-V-I-VI 進行の各コードの3度へ上から落ち込みます。",
+                "zh-Hans": "左手稳住紧凑 shell，右手在 ii-V-I-VI 循环里从上方向每个和弦的三音落下。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-comet-drops/lesson.md"
             }
           ]
         },

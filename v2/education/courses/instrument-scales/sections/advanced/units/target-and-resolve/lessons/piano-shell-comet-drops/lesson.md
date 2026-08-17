@@ -1,0 +1,122 @@
+---
+schema: 2
+id: piano-shell-comet-drops
+course: instrument-scales
+level: advanced
+section: advanced
+unit: target-and-resolve
+order: 59
+revision: 1
+estimatedMinutes: 8
+instrument: piano
+title.en: Piano shell comet drops
+title.pt-BR: Quedas de cometa com shells no piano
+title.es: Caídas de cometa con shells en piano
+title.de: Klavier-Shell-Kometenlandungen
+title.ja: ピアノ・シェル・コメット・ドロップス
+title.zh-Hans: 钢琴壳音彗星落点
+summary.en: Hold compact left-hand shells while the right hand drops from above into each new 3rd across a ii-V-I-VI loop.
+summary.pt-BR: Sustente shells compactos na esquerda enquanto a direita cai de cima na 3ª de cada acorde em um loop ii-V-I-VI.
+summary.es: Sostén shells compactos en la izquierda mientras la derecha cae desde arriba hacia la 3ª de cada acorde en un bucle ii-V-I-VI.
+summary.de: Halte kompakte Shells links, während die rechte Hand in einem ii-V-I-VI-Loop von oben auf die Terz jedes Akkords fällt.
+summary.ja: 左手でコンパクトなシェルを保ちながら、右手が ii-V-I-VI 進行の各コードの3度へ上から落ち込みます。
+summary.zh-Hans: 左手稳住紧凑 shell，右手在 ii-V-I-VI 循环里从上方向每个和弦的三音落下。
+---
+
+:::localized
+:::locale en
+# Piano shell comet drops
+
+Loop **Em7 - A7 - Dmaj7 - Bm7** at **84 bpm**. The left hand provides compact shells like orbit rails, while the right hand acts like a comet that always drops from above into the new **3rd**. The descent should feel graceful and timed, not like you accidentally fell onto the right note.
+
+Round 1 sets the **landing zones**. In the left hand, use shells such as **E-D**, **A-G**, **D-C#**, and **B-A**. In the right hand, target **G** for Em7, **C#** for A7, **F#** for Dmaj7, and **D** for Bm7. Before each target, begin on a nearby note above it so the final motion is a clear downward resolution your ear can predict.
+
+Round 2 adds the **tail streak**. Every right-hand bar must use exactly **three notes**: one approach note above, one target note, and one small release note below or repeated. Keep the left hand soft and even. If both hands start fighting for attention, reduce the volume of the right hand instead of playing the shells harder. The point is elegant control, not keyboard wrestling.
+
+Final round: play **three choruses**. Chorus 1 stays legato. Chorus 2 gives one bar a syncopated entry on the and of 2. Chorus 3 changes at least two approach notes but keeps the same targets and shell shapes. A strong take feels like the harmony is being illuminated from above, with every descent arriving early enough that the next chord sounds invited rather than discovered by accident.
+
+:::checkpoint Play one full ii-V-I-VI chorus with steady shells and right-hand drops from above into each bar's 3rd before the bar ends.
+
+:::locale pt-BR
+# Quedas de cometa com shells no piano
+
+Faça um loop em **Em7 - A7 - Dmaj7 - Bm7** a **84 bpm**. A mão esquerda fornece shells compactos como trilhos de órbita, enquanto a direita age como um cometa que sempre cai de cima na nova **3ª**. A descida deve soar graciosa e no tempo, não como se você tivesse tropeçado na nota certa por acaso.
+
+A Rodada 1 define as **zonas de pouso**. Na mão esquerda, use shells como **E-D**, **A-G**, **D-C#** e **B-A**. Na mão direita, mire **G** em Em7, **C#** em A7, **F#** em Dmaj7 e **D** em Bm7. Antes de cada alvo, comece em uma nota próxima acima dele para que o movimento final seja uma resolução descendente clara que o ouvido consiga prever.
+
+A Rodada 2 adiciona a **cauda brilhante**. Cada compasso da mão direita deve usar exatamente **três notas**: uma nota de aproximação acima, a nota-alvo e uma pequena nota de saída abaixo ou repetida. Mantenha a mão esquerda suave e regular. Se as duas mãos começarem a disputar atenção, abaixe o volume da direita em vez de tocar os shells com mais força. O ponto é controle elegante, não luta de teclado.
+
+Rodada final: toque **três voltas**. A volta 1 fica legato. A volta 2 dá a um compasso uma entrada sincopada no e do 2. A volta 3 muda pelo menos duas notas de aproximação, mas mantém os mesmos alvos e formatos de shell. Uma boa tomada faz a harmonia parecer iluminada de cima, com cada descida chegando cedo o bastante para que o próximo acorde soe convidado, não descoberto por acidente.
+
+:::checkpoint Toque uma volta completa de ii-V-I-VI com shells firmes e quedas da mão direita de cima para a 3ª de cada compasso antes do fim.
+
+:::locale es
+# Caídas de cometa con shells en piano
+
+Pon en bucle **Em7 - A7 - Dmaj7 - Bm7** a **84 bpm**. La mano izquierda aporta shells compactos como rieles de órbita, mientras la derecha actúa como un cometa que siempre cae desde arriba hacia la nueva **3ª**. La bajada debe sentirse elegante y a tiempo, no como si hubieras tropezado por casualidad con la nota correcta.
+
+La Ronda 1 marca las **zonas de aterrizaje**. En la izquierda usa shells como **E-D**, **A-G**, **D-C#** y **B-A**. En la derecha apunta a **G** sobre Em7, **C#** sobre A7, **F#** sobre Dmaj7 y **D** sobre Bm7. Antes de cada objetivo empieza en una nota cercana por encima para que el movimiento final sea una resolución descendente clara que el oído pueda anticipar.
+
+La Ronda 2 añade la **estela brillante**. Cada compás de la derecha debe usar exactamente **tres notas**: una nota de aproximación desde arriba, la nota objetivo y una pequeña nota de salida por debajo o repetida. Mantén la izquierda suave y pareja. Si las dos manos empiezan a pelear por la atención, baja el volumen de la derecha en vez de tocar los shells con más fuerza. Aquí importa el control elegante, no la lucha contra el teclado.
+
+Ronda final: toca **tres vueltas**. La vuelta 1 va legato. La vuelta 2 da a un compás una entrada sincopada en el y de 2. La vuelta 3 cambia al menos dos notas de aproximación, pero mantiene los mismos objetivos y las mismas formas de shell. Una buena toma hace que la armonía parezca iluminada desde arriba, con cada caída llegando lo bastante pronto para que el siguiente acorde suene invitado y no descubierto por accidente.
+
+:::checkpoint Toca una vuelta completa de ii-V-I-VI con shells estables y caídas de la derecha desde arriba hacia la 3ª de cada compás antes del final.
+
+:::locale de
+# Klavier-Shell-Kometenlandungen
+
+Lass **Em7 - A7 - Dmaj7 - Bm7** bei **84 bpm** laufen. Die linke Hand liefert kompakte Shells wie Umlaufbahnen, während die rechte wie ein Komet von oben auf die neue **Terz** fällt. Diese Abwärtsbewegung soll elegant und rechtzeitig wirken, nicht so, als wärst du zufällig auf dem richtigen Ton gelandet.
+
+Runde 1 markiert die **Landezonen**. Spiele links Shells wie **E-D**, **A-G**, **D-C#** und **B-A**. Ziele rechts auf **G** über Em7, **C#** über A7, **F#** über Dmaj7 und **D** über Bm7. Beginne vor jedem Zielton auf einem nahen Ton darüber, damit die letzte Bewegung eine klare abwärts gerichtete Auflösung ist, die das Ohr vorausahnen kann.
+
+Runde 2 ergänzt den **Schweif**. Jeder rechte Takt darf genau **drei Töne** enthalten: einen Annäherungston von oben, den Zielton und einen kleinen Ausklangston darunter oder als Wiederholung. Halte die linke Hand weich und gleichmäßig. Wenn beide Hände um Aufmerksamkeit kämpfen, nimm der rechten Hand Lautstärke weg, statt die Shells härter zu spielen. Gefragt ist elegante Kontrolle, kein Ringkampf am Klavier.
+
+Schlussrunde: Spiele **drei Durchgänge**. Durchgang 1 bleibt legato. Durchgang 2 gibt einem Takt einen synkopierten Einsatz auf dem Und von 2. Durchgang 3 verändert mindestens zwei Annäherungstöne, behält aber die gleichen Ziele und Shell-Formen. Eine starke Version lässt die Harmonie wie von oben beleuchtet erscheinen, mit Landungen, die früh genug kommen, damit der nächste Akkord eingeladen statt zufällig entdeckt wirkt.
+
+:::checkpoint Spiele einen vollständigen ii-V-I-VI-Durchgang mit stabilen Shells und rechten Abwärtsbewegungen von oben auf die Terz jedes Taktes vor Taktende.
+
+:::locale ja
+# ピアノ・シェル・コメット・ドロップス
+
+**Em7 - A7 - Dmaj7 - Bm7** を **84 bpm** でループします。左手は軌道レールのようなコンパクトなシェルを支え、右手は上から新しい **3度** へ落ちてくる彗星の役目です。その下降は、正しい音に偶然落ちた感じではなく、優雅で時間どおりに聞こえなければなりません。
+
+ラウンド1では **着地ゾーン** を決めます。左手は **E-D**, **A-G**, **D-C#**, **B-A** のようなシェルを使います。右手のターゲットは Em7 で **G**、A7 で **C#**、Dmaj7 で **F#**、Bm7 で **D** です。各ターゲットの前にはそのすぐ上の近い音から入り、最後の動きが耳に予測できる明確な下降解決になるようにしてください。
+
+ラウンド2では **尾のきらめき** を加えます。右手の各小節は必ず **3音だけ** 使います。上からのアプローチ音、ターゲット音、そして下へ抜けるか同じ音を繰り返す短い出口音です。左手は柔らかく均一に保ちます。両手が主役争いを始めたら、シェルを強くするのではなく右手の音量を下げてください。目標は上品なコントロールであって、鍵盤との格闘ではありません。
+
+最後のラウンドでは **3コーラス** 弾きます。1コーラス目はレガート、2コーラス目はどこか1小節だけ **2拍目の裏** からシンコペーションで入り、3コーラス目は少なくとも2つのアプローチ音を変えながら同じターゲットとシェル形を保ちます。各下降が十分早く着地し、次のコードが偶然ではなく招かれたように聞こえたら、かなり良い演奏です。
+
+:::checkpoint ii-V-I-VI を1コーラス通して弾き、左手のシェルを保ちながら各小節で右手を上から3度へ着地させましょう。
+
+:::locale zh-Hans
+# 钢琴壳音彗星落点
+
+把 **Em7 - A7 - Dmaj7 - Bm7** 设成 **84 bpm** 循环。左手提供像轨道一样稳定的紧凑 shell，右手则像彗星一样，从上方落向新的 **三音**。这种下落必须听起来优雅、提前、心里有数，而不是像你误打误撞碰到了对的音。
+
+第1轮先划出 **落地区**。左手可以弹 **E-D**、**A-G**、**D-C#**、**B-A** 这样的 shell。右手分别瞄准：Em7 上的 **G**、A7 上的 **C#**、Dmaj7 上的 **F#**、Bm7 上的 **D**。到每个目标前，都从它上方一个近音开始，让最后一步形成耳朵能预感到的明确下行解决。
+
+第2轮加入 **彗尾亮线**。右手每小节必须正好用 **3个音**：上方接近音、目标音、以及一个向下离开或重复的收尾音。左手保持柔和、均匀。如果两只手开始抢戏，就把右手弹轻一点，而不是把 shell 弹得更重。这里追求的是优雅控制，不是和键盘摔跤。
+
+最后一轮连续弹 **3遍完整进行**。第1遍保持连奏，第2遍挑一个小节在 **第2拍后半拍** 进入切分，第3遍至少改掉两个接近音，但保持同样的目标和 shell 形状。好的版本会像从上方照亮和声一样，每次下落都来得够早，让下一个和弦听起来像被邀请进来，而不是偶然被撞见。
+
+:::checkpoint 完整弹一遍 ii-V-I-VI，左手 shell 稳定，并让右手在每小节结束前从上方落到对应的三音上。
+
+:::endlocalized
+
+```notes
+id: piano-shell-comet-drops
+title: Shell comet targets
+instrument: piano
+tempo: 84
+sequence: [E3,D4] [A3,G4] [D3,C#4] [B2,A3] B4 G4 F#4 D4
+```
+
+```notes
+id: piano-shell-comet-drops-rhythm
+title: Right-hand comet drops
+instrument: piano
+tempo: 84
+beat: 0.5
+sequence: B4 G4/2 F#4 E4/2 G4 F#4/2 E4 D4/2
+```

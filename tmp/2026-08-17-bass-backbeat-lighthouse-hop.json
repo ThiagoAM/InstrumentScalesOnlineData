@@ -1,0 +1,91 @@
+{
+  "id": "bass-backbeat-lighthouse-hop",
+  "section": "advanced",
+  "unit": "target-and-resolve",
+  "estimatedMinutes": 8,
+  "activity": "rhythm",
+  "instrument": "bass",
+  "optional": true,
+  "titles": {
+    "en": "Bass backbeat lighthouse hop",
+    "pt-BR": "Salto de farol no backbeat do baixo",
+    "es": "Salto de faro en backbeat para bajo",
+    "de": "Bass-Backbeat-Leuchtturm-Hop",
+    "ja": "ベース・バックビート・ライトハウス・ホップ",
+    "zh-Hans": "贝斯反拍灯塔跳点"
+  },
+  "summaries": {
+    "en": "Keep a dry backbeat groove while hopping to the next chord's 3rd on an upbeat preview.",
+    "pt-BR": "Mantenha um groove seco de backbeat enquanto salta para a 3ª do próximo acorde em uma antecipação no contratempo.",
+    "es": "Mantén un groove seco de backbeat mientras saltas a la 3ª del siguiente acorde en una anticipación a contratiempo.",
+    "de": "Halte einen trockenen Backbeat-Groove, während du auf einem Offbeat-Vorgriff zur Terz des nächsten Akkords springst.",
+    "ja": "乾いたバックビートのグルーヴを保ちながら、裏拍の予告で次のコードの3度へ跳びます。",
+    "zh-Hans": "保持干脆的反拍 groove，并在反拍预告时跳到下一个和弦的三音上。"
+  },
+  "body": {
+    "en": {
+      "blocks": [
+        "Set **A7 - D7 - E7 - D7** to **94 bpm**. Think like a streetlight operator: the groove stays steady and practical, but on the **and of 4** you briefly flash the **3rd of the next chord** so everyone can see the turn before it happens. The line should feel dry, danceable, and a little mischievous rather than busy.",
+        "Round 1 is the **solid pavement**. Keep beat 1 on the root of the current chord and leave enough space for the snare to breathe. Your preview targets are **F#** before D7, **G#** before E7, **F#** before D7 again, and **C#** before A7 when the loop restarts. Do not smash those preview notes; let them pop out by placement, not by force.",
+        "Round 2 adds the **hop rule**. Every preview note must be reached by a small leap from a root or 5th, then the next downbeat must land cleanly back inside the groove. If the hop makes the timing wobble, simplify the rest of the bar and clap the backbeat first. The challenge is to feel confident enough that the anticipation sounds inevitable instead of risky.",
+        "Final round: build a **4-bar line** and repeat it three times. Pass 1 keeps quarter-note bones with one upbeat preview per bar. Pass 2 adds one ghost note before two of the previews. Pass 3 includes one octave jump somewhere in the pattern without losing the same preview targets. If the drummer could loop your part alone and still hear the upcoming harmony, you nailed the mission."
+      ],
+      "checkpoint": "Play four bars with each and-of-4 preview landing on the next chord's 3rd while the downbeats stay locked."
+    },
+    "pt-BR": {
+      "blocks": [
+        "Coloque **A7 - D7 - E7 - D7** a **94 bpm**. Pense como quem controla as luzes da rua: o groove fica firme e prático, mas no **e do 4** você acende rapidamente a **3ª do próximo acorde** para todo mundo enxergar a curva antes de ela chegar. A linha deve soar seca, dançante e um pouco malandra, não abarrotada.",
+        "A Rodada 1 é o **asfalto firme**. Mantenha o tempo 1 na tônica do acorde atual e deixe espaço suficiente para a caixa respirar. Seus alvos de prévia são **F#** antes de D7, **G#** antes de E7, **F#** antes de D7 de novo e **C#** antes de A7 quando o loop reinicia. Não esmague essas notas de prévia; faça com que elas saltem pela colocação, não pela força.",
+        "A Rodada 2 adiciona a **regra do salto**. Toda nota de prévia deve ser alcançada por um pequeno salto a partir da tônica ou da 5ª, e o próximo tempo forte precisa cair limpo de volta dentro do groove. Se o salto balançar o tempo, simplifique o resto do compasso e bata o backbeat com palmas primeiro. O desafio é soar confiante o bastante para que a antecipação pareça inevitável, não arriscada.",
+        "Rodada final: monte uma **linha de 4 compassos** e repita três vezes. A passada 1 mantém o esqueleto em semínimas com uma prévia no contratempo por compasso. A passada 2 adiciona uma ghost note antes de duas dessas prévias. A passada 3 inclui um salto de oitava em algum ponto sem perder os mesmos alvos. Se o baterista pudesse repetir só a sua linha e ainda ouvir a harmonia chegando, a missão foi cumprida."
+      ],
+      "checkpoint": "Toque quatro compassos com cada prévia no e do 4 caindo na 3ª do próximo acorde enquanto os tempos fortes ficam travados."
+    },
+    "es": {
+      "blocks": [
+        "Pon **A7 - D7 - E7 - D7** a **94 bpm**. Piensa como un operador de luces de calle: el groove sigue firme y práctico, pero en el **y de 4** haces brillar brevemente la **3ª del siguiente acorde** para que todos vean el giro antes de que llegue. La línea debe sentirse seca, bailable y un poco traviesa, no cargada.",
+        "La Ronda 1 es el **pavimento sólido**. Mantén el tiempo 1 en la tónica del acorde actual y deja suficiente espacio para que la caja respire. Tus objetivos de aviso son **F#** antes de D7, **G#** antes de E7, **F#** antes de D7 otra vez y **C#** antes de A7 cuando el bucle vuelve a empezar. No machaques esas notas de aviso; haz que destaquen por colocación, no por fuerza.",
+        "La Ronda 2 añade la **regla del salto**. Cada nota de aviso debe alcanzarse con un pequeño salto desde una tónica o una quinta, y el siguiente tiempo fuerte debe caer limpio dentro del groove. Si el salto hace tambalear el tiempo, simplifica el resto del compás y marca primero el backbeat con palmas. El reto es sonar tan seguro que la anticipación parezca inevitable y no peligrosa.",
+        "Ronda final: construye una **línea de 4 compases** y repítela tres veces. La pasada 1 mantiene huesos de negras con un aviso en contratiempo por compás. La pasada 2 añade una ghost note antes de dos avisos. La pasada 3 incluye un salto de octava en algún punto sin perder los mismos objetivos. Si el baterista pudiera repetir solo tu línea y aun así oír la armonía que viene, cumpliste la misión."
+      ],
+      "checkpoint": "Toca cuatro compases con cada aviso en el y de 4 cayendo en la 3ª del siguiente acorde mientras los tiempos fuertes siguen firmes."
+    },
+    "de": {
+      "blocks": [
+        "Stelle **A7 - D7 - E7 - D7** auf **94 bpm**. Denk wie ein Straßenlicht-Regisseur: Der Groove bleibt stabil und zweckmäßig, aber auf dem **Und von 4** lässt du kurz die **Terz des nächsten Akkords** aufleuchten, damit alle die Kurve sehen, bevor sie kommt. Die Linie soll trocken, tanzbar und leicht frech wirken, nicht überladen.",
+        "Runde 1 ist der **feste Asphalt**. Halte Schlag 1 auf dem Grundton des aktuellen Akkords und lass genug Raum, damit die Snare atmen kann. Deine Vorschau-Ziele sind **F#** vor D7, **G#** vor E7, erneut **F#** vor D7 und **C#** vor A7, wenn der Loop neu beginnt. Hämmere diese Vorschau-Töne nicht hinein; sie sollen durch ihre Platzierung herausstechen, nicht durch rohe Kraft.",
+        "Runde 2 ergänzt die **Hop-Regel**. Jeder Vorschau-Ton wird mit einem kleinen Sprung von Grundton oder Quinte aus erreicht, und der nächste Downbeat muss sauber zurück im Groove landen. Wenn der Sprung das Timing wackeln lässt, vereinfache den Rest des Taktes und klatsche zuerst den Backbeat. Die Herausforderung ist, so sicher zu klingen, dass der Vorgriff unvermeidlich statt riskant wirkt.",
+        "Schlussrunde: Baue eine **4-taktige Linie** und wiederhole sie dreimal. Durchgang 1 behält Viertelnoten-Knochen mit einem Offbeat-Vorgriff pro Takt. Durchgang 2 ergänzt vor zwei Vorgriffen je eine Ghost Note. Durchgang 3 enthält irgendwo einen Oktavsprung, ohne die gleichen Zieltöne zu verlieren. Wenn ein Drummer nur deine Linie loopen könnte und trotzdem die kommende Harmonie hört, hast du die Aufgabe gelöst."
+      ],
+      "checkpoint": "Spiele vier Takte, in denen jedes Und-von-4 den nächsten Akkord mit seiner Terz vorbereitet und die Downbeats trotzdem fest sitzen."
+    },
+    "ja": {
+      "blocks": [
+        "**A7 - D7 - E7 - D7** を **94 bpm** に設定します。街灯を切り替える係のように考えてください。グルーヴ自体は安定して実用的なままですが、**4拍目の裏** で一瞬だけ **次のコードの3度** を光らせ、曲がり角を先に見せます。ラインは忙しすぎず、乾いていて踊れて、少しいたずらっぽい感じを目指します。",
+        "ラウンド1は **しっかりした舗装** です。1拍目は現在のコードのルートに置き、スネアが呼吸できる空間を残します。予告ターゲットは D7 の前に **F#**、E7 の前に **G#**、次の D7 の前にもう一度 **F#**、ループして A7 へ戻る前に **C#** です。これらの音を強打しないでください。力ではなく置き場所で目立たせます。",
+        "ラウンド2では **ホップのルール** を加えます。各予告音はルートか5度からの小さな跳躍で入れ、次の表拍は必ずきれいにグルーヴへ戻します。跳躍でタイミングが揺れるなら、その小節の残りを単純にして、先にバックビートを手拍子で感じ直してください。狙いは、危なっかしさではなく必然に聞こえる予告を作ることです。",
+        "最後のラウンドでは **4小節のライン** を作り、3回繰り返します。1回目は四分音符の骨格に各小節1回の裏拍予告、2回目はそのうち2か所にゴーストノート、3回目は同じターゲットを保ったままどこかで1回だけオクターブ跳躍を入れます。ドラマーがあなたの低音だけをループしても次の和声が聞こえるなら成功です。"
+      ],
+      "checkpoint": "4小節を通して弾き、各小節の4拍目の裏で次のコードの3度を予告しながら表拍を安定させましょう。"
+    },
+    "zh-Hans": {
+      "blocks": [
+        "把 **A7 - D7 - E7 - D7** 设成 **94 bpm**。想象自己在控制街灯：groove 本身保持稳定、实用、能跳舞，但在 **第4拍后半拍** 你要短暂照亮 **下一个和弦的三音**，让所有人先看见转弯。整条线应该干脆、带点俏皮，而不是塞满音符。",
+        "第1轮先铺好 **稳固路面**。第1拍放在当前和弦的根音上，并留出足够空间让军鼓呼吸。你的预告目标分别是：D7 前弹 **F#**，E7 前弹 **G#**，回到 D7 前再弹 **F#**，而循环回到 A7 前弹 **C#**。别把这些预告音砸得太重；要靠位置让它们亮出来，不是靠蛮力。",
+        "第2轮加入 **跳点规则**。每个预告音都要从根音或五音做一个小跳进入，然后下一个强拍必须干净地回到 groove 里面。如果这个跳点让节奏发飘，就把小节其他地方简化，并先用拍手重新锁住 backbeat。挑战在于让这种提前预告听起来像必然发生，而不是像冒险失手。",
+        "最后一轮写出一条 **4小节线条**，连续重复三遍。第1遍保留四分音符骨架，每小节只有一次反拍预告；第2遍在其中两个预告前加幽灵音；第3遍在不改变目标的前提下加入一次八度跳跃。如果鼓手只循环你的低音线，仍然能听出下一个和声要来了，你就完成任务了。"
+      ],
+      "checkpoint": "完整弹四小节，让每个第4拍后半拍都预告下一个和弦的三音，同时把强拍锁稳。"
+    }
+  },
+  "sharedBlocks": [
+    {
+      "type": "notes",
+      "content": "id: bass-backbeat-lighthouse-hop\ntitle: Upbeat third previews\ninstrument: bass\ntempo: 94\nbeat: 0.5\nsequence: A1 E2 - F#2 D2 A1 - G#2 E2 B1 - F#2 D2 A1 - C#2"
+    },
+    {
+      "type": "fretboard",
+      "content": "id: bass-backbeat-lighthouse-hop-map\ntitle: A7 D7 E7 preview map\ninstrument: bass\ntuning: E1 A1 D2 G2\nfrets: 4-11\ntempo: 94\npositions: 4:5/1 4:7/3 3:4/1 3:6/3 3:9/1 2:4/1 2:6/3 2:11/4 1:4/1 1:7/4 1:9/1"
+    }
+  ]
+}
