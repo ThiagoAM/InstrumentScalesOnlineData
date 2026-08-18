@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 19,
+  "revision": 20,
   "sections": [
     {
       "id": "beginner",
@@ -7993,6 +7993,81 @@
                 "zh-Hans": "左手稳住紧凑 shell，右手在 ii-V-I-VI 循环里从上方向每个和弦的三音落下。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-comet-drops/lesson.md"
+            },
+            {
+              "id": "guitar-guide-tone-trapeze",
+              "order": 60,
+              "estimatedMinutes": 8,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar guide-tone trapeze",
+                "pt-BR": "Trapézio de notas-guia na guitarra",
+                "es": "Trapecio de notas guía en guitarra",
+                "de": "Gitarren-Guide-Tone-Trapez",
+                "ja": "ギター・ガイドトーン・トラピーズ",
+                "zh-Hans": "吉他导向音空中飞人"
+              },
+              "summaries": {
+                "en": "Swing from one guide tone to the next, add a daring mid-air detour, and still land like you meant every jump.",
+                "pt-BR": "Balance de uma nota-guia para a próxima, adicione um desvio ousado no ar e ainda pouse como se cada salto fosse intencional.",
+                "es": "Balancéate de una nota guía a la siguiente, añade un desvío atrevido en el aire y aun así aterriza como si cada salto fuera intencional.",
+                "de": "Schwinge von einem Guide Tone zum nächsten, baue einen mutigen Umweg in der Luft ein und lande trotzdem so, als sei jeder Sprung geplant gewesen.",
+                "ja": "ひとつのガイドトーンから次のガイドトーンへ空中ブランコのように渡り、途中で大胆な寄り道を入れても、すべて計画通りに着地できるようにします。",
+                "zh-Hans": "像空中飞人一样从一个导向音荡向下一个导向音，中途加入大胆绕路，但每次落点仍要像早就设计好的一样。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-trapeze/lesson.md"
+            },
+            {
+              "id": "bass-beat-two-scout",
+              "order": 61,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass beat-two scout",
+                "pt-BR": "Batedor do tempo dois no baixo",
+                "es": "Explorador del tiempo dos en bajo",
+                "de": "Bass-Schlag-Zwei-Späher",
+                "ja": "ベース・ビート2・スカウト",
+                "zh-Hans": "贝斯第二拍侦察兵"
+              },
+              "summaries": {
+                "en": "Hold down a solid root on beat one, send a quick scout on beat two, and make the pocket sound stronger instead of busier.",
+                "pt-BR": "Segure uma tônica sólida no tempo um, envie um batedor rápido no tempo dois e faça o pocket soar mais forte, não mais cheio.",
+                "es": "Sostén una fundamental sólida en el tiempo uno, envía un explorador rápido en el tiempo dos y haz que el pocket suene más fuerte, no más cargado.",
+                "de": "Halte einen stabilen Grundton auf Schlag eins, schicke auf Schlag zwei einen kurzen Späher los und lass den Pocket stärker statt voller klingen.",
+                "ja": "1拍目でしっかりルートを支え、2拍目に短い偵察音を送り出して、忙しくするのではなくポケットをさらに強く聞かせます。",
+                "zh-Hans": "在第一拍稳稳踩住根音，在第二拍派出一次短暂侦察，让 pocket 听起来更结实，而不是更拥挤。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-beat-two-scout/lesson.md"
+            },
+            {
+              "id": "piano-runway-color-switch",
+              "order": 62,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano runway color switch",
+                "pt-BR": "Troca de cores na pista do piano",
+                "es": "Cambio de color en la pista del piano",
+                "de": "Klavier-Runway-Farbwechsel",
+                "ja": "ピアノ・ランウェイ・カラー・スイッチ",
+                "zh-Hans": "钢琴跑道色彩切换"
+              },
+              "summaries": {
+                "en": "Keep the left hand glowing like runway lights while the right hand switches color tones at the last second and still lands in control.",
+                "pt-BR": "Mantenha a mão esquerda brilhando como luzes de pista enquanto a direita troca a nota de cor no último segundo e ainda pousa com controle.",
+                "es": "Mantén la mano izquierda brillando como luces de pista mientras la derecha cambia la nota de color en el último segundo y aun así aterriza con control.",
+                "de": "Lass die linke Hand wie Landebahnlichter leuchten, während die rechte Hand den Farbton im letzten Moment wechselt und trotzdem kontrolliert landet.",
+                "ja": "左手を滑走路の灯りのように保ちながら、右手が最後の瞬間に色彩音を切り替えても、コントロールしたまま着地できるようにします。",
+                "zh-Hans": "让左手像跑道灯一样稳定发光，同时右手在最后一刻切换色彩音，却依然从容落地。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-runway-color-switch/lesson.md"
             }
           ]
         },
