@@ -8068,6 +8068,81 @@
                 "zh-Hans": "让左手像跑道灯一样稳定发光，同时右手在最后一刻切换色彩音，却依然从容落地。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-runway-color-switch/lesson.md"
+            },
+            {
+              "id": "guitar-fourth-turnstile",
+              "order": 63,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar fourth turnstile",
+                "pt-BR": "Catraca de quartas na guitarra",
+                "es": "Torniquete de cuartas en guitarra",
+                "de": "Gitarren-Quartensperre",
+                "ja": "ギター・フォース・ターンスタイル",
+                "zh-Hans": "吉他四度转门"
+              },
+              "summaries": {
+                "en": "Cross a G-major position with fourths, then resolve each leap to a clear chord tone.",
+                "pt-BR": "Cruze uma posição de sol maior com quartas e resolva cada salto em uma nota de acorde clara.",
+                "es": "Cruza una posición de sol mayor con cuartas y resuelve cada salto en una nota de acorde clara.",
+                "de": "Durchquere eine G-Dur-Lage mit Quarten und löse jeden Sprung auf einen klaren Akkordton auf.",
+                "ja": "Gメジャーのポジションを4度で横断し、各跳躍を明確なコードトーンへ解決します。",
+                "zh-Hans": "用四度穿过G大调把位，再把每次跳进解决到清晰的和弦音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-fourth-turnstile/lesson.md"
+            },
+            {
+              "id": "bass-pocket-five-lanterns",
+              "order": 64,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass pocket five lanterns",
+                "pt-BR": "Cinco lanternas no pocket do baixo",
+                "es": "Cinco faros en el pocket del bajo",
+                "de": "Fünf Bass-Pocket-Laternen",
+                "ja": "ベース・ポケット・ファイブ・ランタン",
+                "zh-Hans": "贝斯律动五盏灯"
+              },
+              "summaries": {
+                "en": "Keep a two-bar groove steady while landing scale fifths on changing accents.",
+                "pt-BR": "Mantenha um groove de dois compassos enquanto pousa nas quintas da escala em acentos móveis.",
+                "es": "Mantén un groove de dos compases mientras aterrizas en quintas de la escala con acentos móviles.",
+                "de": "Halte einen zweitaktigen Groove stabil und lande bei wechselnden Akzenten auf Skalenquinten.",
+                "ja": "2小節のグルーヴを保ちながら、動くアクセントでスケールの5度に着地します。",
+                "zh-Hans": "保持两小节 groove 稳定，并在移动重音上落到音阶五音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-pocket-five-lanterns/lesson.md"
+            },
+            {
+              "id": "piano-left-hand-tide",
+              "order": 65,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano left-hand tide",
+                "pt-BR": "Maré da mão esquerda no piano",
+                "es": "Marea de la mano izquierda en piano",
+                "de": "Klavier-Linkshand-Gezeiten",
+                "ja": "ピアノ左手タイド",
+                "zh-Hans": "钢琴左手潮汐"
+              },
+              "summaries": {
+                "en": "Keep a left-hand scale tide moving under right-hand targets without letting either hand rush.",
+                "pt-BR": "Mantenha uma maré de escala na mão esquerda sob alvos da direita sem apressar nenhuma das mãos.",
+                "es": "Mantén una marea de escala en la izquierda bajo objetivos de la derecha sin que ninguna mano se acelere.",
+                "de": "Halte eine Skalenwelle der linken Hand unter Zieltönen der rechten, ohne dass eine Hand eilt.",
+                "ja": "右手のターゲットの下で左手のスケールの波を動かし、どちらの手も急がせません。",
+                "zh-Hans": "在右手目标音下让左手音阶潮汐流动，同时不让任何一只手抢拍。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-left-hand-tide/lesson.md"
             }
           ]
         },
