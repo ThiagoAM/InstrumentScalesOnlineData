@@ -8143,6 +8143,81 @@
                 "zh-Hans": "在右手目标音下让左手音阶潮汐流动，同时不让任何一只手抢拍。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-left-hand-tide/lesson.md"
+            },
+            {
+              "id": "guitar-target-lighthouse",
+              "order": 66,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar target lighthouse",
+                "pt-BR": "Farol de alvos na guitarra",
+                "es": "Faro de objetivos en guitarra",
+                "de": "Gitarren-Zielton-Leuchtturm",
+                "ja": "ギター・ターゲット・灯台",
+                "zh-Hans": "吉他目标灯塔"
+              },
+              "summaries": {
+                "en": "Keep one chord tone glowing through a moving scale line, then resolve with a clean position shift.",
+                "pt-BR": "Mantenha uma nota do acorde brilhando em uma linha de escala móvel e resolva com uma troca limpa de posição.",
+                "es": "Mantén una nota del acorde encendida dentro de una línea móvil y resuelve con un cambio limpio de posición.",
+                "de": "Halte einen Akkordton in einer bewegten Linie leuchtend und löse mit einem sauberen Lagenwechsel auf.",
+                "ja": "動くスケールラインの中でコードトーンを光らせ、きれいなポジション移動で解決します。",
+                "zh-Hans": "让一个和弦音在移动的音阶线中持续发光，再用干净的把位移动解决。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-target-lighthouse/lesson.md"
+            },
+            {
+              "id": "bass-chord-tone-zipline",
+              "order": 67,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass chord-tone zipline",
+                "pt-BR": "Tirolesa de notas do baixo",
+                "es": "Tirolesa de notas del bajo",
+                "de": "Bass-Akkordton-Zipline",
+                "ja": "ベース・コードトーン・ジップライン",
+                "zh-Hans": "贝斯和弦音滑索"
+              },
+              "summaries": {
+                "en": "Zip between roots and sevenths while a syncopated rhythm keeps every chord change visible.",
+                "pt-BR": "Deslize entre tônicas e sétimas enquanto um ritmo sincopado deixa cada troca de acorde visível.",
+                "es": "Deslízate entre tónicas y séptimas mientras un ritmo sincopado revela cada cambio de acorde.",
+                "de": "Springe zwischen Grundtönen und Septimen, während ein synkopierter Rhythmus jeden Akkordwechsel zeigt.",
+                "ja": "シンコペーションでルートと7度を行き来し、コードチェンジをはっきり示します。",
+                "zh-Hans": "用切分节奏在根音与七音之间滑行，让每次和弦变化都清晰可见。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-chord-tone-zipline/lesson.md"
+            },
+            {
+              "id": "piano-contrary-color-lock",
+              "order": 68,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano contrary-color lock",
+                "pt-BR": "Trava de cores em movimento contrário no piano",
+                "es": "Bloqueo de color contrario en piano",
+                "de": "Klavier-Farbhalt in Gegenbewegung",
+                "ja": "ピアノ・反行カラー・ロック",
+                "zh-Hans": "钢琴反向色彩锁定"
+              },
+              "summaries": {
+                "en": "Hold a bright upper color while the left hand moves contrary to it through a four-chord loop.",
+                "pt-BR": "Sustente uma cor aguda brilhante enquanto a mão esquerda se move em contrário por um loop de quatro acordes.",
+                "es": "Mantén un color agudo brillante mientras la izquierda se mueve en contrario por un bucle de cuatro acordes.",
+                "de": "Halte eine helle Oberstimme, während sich die linke Hand in Gegenbewegung durch vier Akkorde bewegt.",
+                "ja": "明るい上声を保ちながら、左手を反行させて4コードを進みます。",
+                "zh-Hans": "保持明亮的高音色彩，让左手在四和弦循环中与它反向移动。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-contrary-color-lock/lesson.md"
             }
           ]
         },
