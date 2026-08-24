@@ -3095,6 +3095,81 @@
                 "zh-Hans": "在D大调里从低根音跳到上方音阶线路，同时保持律动居中、落点沉稳。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/bass-lane-jump-beacon/lesson.md"
+            },
+            {
+              "id": "guitar-shift-signal",
+              "order": 7,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar shift signal",
+                "pt-BR": "Sinal de mudança na guitarra",
+                "es": "Señal de cambio en la guitarra",
+                "de": "Gitarren-Schaltsignal",
+                "ja": "ギターのポジション移動サイン",
+                "zh-Hans": "吉他换把信号"
+              },
+              "summaries": {
+                "en": "Cross one position boundary in G major while the pulse and tone stay calm.",
+                "pt-BR": "Atravesse um limite de posição em sol maior mantendo pulso e timbre tranquilos.",
+                "es": "Cruza un límite de posición en sol mayor manteniendo estable el pulso y el sonido.",
+                "de": "Überquere in G-Dur eine Lagen-Grenze, während Puls und Klang ruhig bleiben.",
+                "ja": "Gメジャーでポジションの境目を越え、拍と音色を安定させます。",
+                "zh-Hans": "在G大调中跨过一个把位边界，同时保持节拍和音色稳定。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/guitar-shift-signal/lesson.md"
+            },
+            {
+              "id": "bass-pocket-switch",
+              "order": 8,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass pocket switch",
+                "pt-BR": "Troca de bolso no baixo",
+                "es": "Cambio de bolsillo en el bajo",
+                "de": "Bass-Pocket-Wechsel",
+                "ja": "ベースのポケット切り替え",
+                "zh-Hans": "贝斯律动切换"
+              },
+              "summaries": {
+                "en": "Move a D-major groove between low and high lanes without losing the pocket.",
+                "pt-BR": "Mova um groove em ré maior entre registros grave e agudo sem perder o bolso rítmico.",
+                "es": "Mueve un groove en re mayor entre registros grave y agudo sin perder el pulso.",
+                "de": "Verschiebe einen D-Dur-Groove zwischen tiefer und hoher Lage, ohne den Pocket zu verlieren.",
+                "ja": "Dメジャーのグルーヴを低音域と高音域で動かし、ポケットを保ちます。",
+                "zh-Hans": "让D大调律动在低高音区之间移动，同时不丢失律动口袋。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/bass-pocket-switch/lesson.md"
+            },
+            {
+              "id": "piano-lane-cross",
+              "order": 9,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano lane cross",
+                "pt-BR": "Travessia de registro no piano",
+                "es": "Cruce de registro en el piano",
+                "de": "Klavier-Lagenwechsel",
+                "ja": "ピアノの音域クロス",
+                "zh-Hans": "钢琴音区跨越"
+              },
+              "summaries": {
+                "en": "Carry a two-hand G-major pattern across registers while the hands stay balanced.",
+                "pt-BR": "Leve um padrão de sol maior entre registros mantendo as duas mãos equilibradas.",
+                "es": "Lleva un patrón en sol mayor entre registros manteniendo equilibradas ambas manos.",
+                "de": "Führe ein G-Dur-Muster durch verschiedene Lagen, während beide Hände ausgeglichen bleiben.",
+                "ja": "両手のバランスを保ちながらGメジャーのパターンを音域間で運びます。",
+                "zh-Hans": "在保持双手平衡的同时，让G大调音型跨越不同音区。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/piano-lane-cross/lesson.md"
             }
           ]
         },
