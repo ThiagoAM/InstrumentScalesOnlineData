@@ -6570,6 +6570,31 @@
                 "zh-Hans": "在相邻琴弦上以四度上行，再用音阶级进把线条解决回来。"
               },
               "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-fourth-compass-lift/lesson.md"
+            },
+            {
+              "id": "guitar-interval-bungee",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar interval bungee",
+                "pt-BR": "Bungee de intervalos na guitarra",
+                "es": "Bungee de intervalos en guitarra",
+                "de": "Gitarren-Intervall-Bungee",
+                "ja": "ギター・音程バンジー",
+                "zh-Hans": "吉他音程蹦极"
+              },
+              "summaries": {
+                "en": "Leap by fourths, return by steps, and keep the tonic visible through a shifting fretboard route.",
+                "pt-BR": "Salte por quartas, volte por graus e mantenha a tônica visível em um caminho móvel pelo braço.",
+                "es": "Salta por cuartas, vuelve por grados y mantén visible la tónica en una ruta cambiante por el mástil.",
+                "de": "Springe in Quarten, kehre schrittweise zurück und halte die Tonika auf einer bewegten Griffbrett-Route hörbar.",
+                "ja": "4度で跳び、順次進行で戻りながら、動く指板上で主音を見失わないようにします。",
+                "zh-Hans": "按四度跳跃、按级进返回，在移动的指板路线中保持主音清晰。"
+              },
+              "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-interval-bungee/lesson.md"
             }
           ]
         },
@@ -8293,6 +8318,56 @@
                 "zh-Hans": "保持明亮的高音色彩，让左手在四和弦循环中与它反向移动。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-contrary-color-lock/lesson.md"
+            },
+            {
+              "id": "bass-resolution-beacon",
+              "order": 69,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass resolution beacon",
+                "pt-BR": "Farol de resolução no baixo",
+                "es": "Faro de resolución en el bajo",
+                "de": "Bass-Auflösungsleuchtfeuer",
+                "ja": "ベース・解決ビーコン",
+                "zh-Hans": "贝斯解决灯塔"
+              },
+              "summaries": {
+                "en": "Make each seventh pull to the next root while a compact rhythm keeps the changes unmistakable.",
+                "pt-BR": "Faça cada sétima puxar para a próxima tônica enquanto um ritmo compacto deixa as trocas claras.",
+                "es": "Haz que cada séptima tire hacia la siguiente tónica mientras un ritmo compacto revela los cambios.",
+                "de": "Lass jede Septime zum nächsten Grundton ziehen, während ein kompakter Rhythmus die Wechsel klar macht.",
+                "ja": "各7度を次のルートへ引っ張り、短いリズムでコードチェンジを明確にします。",
+                "zh-Hans": "让每个七音拉向下一个根音，用紧凑节奏清楚呈现和弦变化。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-resolution-beacon/lesson.md"
+            },
+            {
+              "id": "piano-shell-shadow",
+              "order": 70,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano shell shadow",
+                "pt-BR": "Sombra de shells no piano",
+                "es": "Sombra de shells en piano",
+                "de": "Klavier-Shell-Schatten",
+                "ja": "ピアノ・シェル・シャドウ",
+                "zh-Hans": "钢琴壳音影子"
+              },
+              "summaries": {
+                "en": "Keep a two-note shell steady while a shadow voice traces the scale into each chord change.",
+                "pt-BR": "Mantenha um shell de duas notas firme enquanto uma voz-sombra conduz a escala a cada troca de acorde.",
+                "es": "Mantén un shell de dos notas estable mientras una voz sombra conduce la escala en cada cambio.",
+                "de": "Halte ein zweistimmiges Shell stabil, während eine Schattenstimme die Skala in jeden Akkordwechsel führt.",
+                "ja": "2音のシェルを保ちながら、影の声部で各コードチェンジへスケールを導きます。",
+                "zh-Hans": "保持两个音的壳音稳定，让影子声部用音阶走向每次和弦变化。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-shadow/lesson.md"
             }
           ]
         },
