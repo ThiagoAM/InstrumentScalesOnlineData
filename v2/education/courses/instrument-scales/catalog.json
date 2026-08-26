@@ -8368,6 +8368,81 @@
                 "zh-Hans": "保持两个音的壳音稳定，让影子声部用音阶走向每次和弦变化。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-shell-shadow/lesson.md"
+            },
+            {
+              "id": "guitar-target-triple-jump",
+              "order": 71,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar target triple jump",
+                "pt-BR": "Tríplice salto de alvos na guitarra",
+                "es": "Triple salto de objetivos en guitarra",
+                "de": "Gitarren-Zielton-Dreifachsprung",
+                "ja": "ギター・ターゲット・トリプルジャンプ",
+                "zh-Hans": "吉他目标三连跳"
+              },
+              "summaries": {
+                "en": "Leap through three scale targets, shift position once, and make every landing sound intentional.",
+                "pt-BR": "Salte por três alvos da escala, mude de posição uma vez e faça cada chegada soar intencional.",
+                "es": "Salta por tres objetivos de la escala, cambia de posición una vez y haz que cada llegada sea intencional.",
+                "de": "Springe durch drei Skalentöne, wechsle einmal die Lage und gestalte jede Landung bewusst.",
+                "ja": "スケールの3つのターゲットへ跳び、1度だけポジションを移動し、着地を意識して弾きます。",
+                "zh-Hans": "跳过三个音阶目标，只换一次把位，让每个落点都听起来有意图。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-target-triple-jump/lesson.md"
+            },
+            {
+              "id": "bass-pocket-fifth-lock",
+              "order": 72,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass pocket fifth lock",
+                "pt-BR": "Trava da quinta no groove do baixo",
+                "es": "Bloqueo de quinta en el groove del bajo",
+                "de": "Bass-Groove-Quintenriegel",
+                "ja": "ベース・ポケット・5度ロック",
+                "zh-Hans": "贝斯律动五度锁"
+              },
+              "summaries": {
+                "en": "Lock roots and fifths into a syncopated pocket, then leave space before each confident arrival.",
+                "pt-BR": "Trave tônicas e quintas em um groove sincopado e deixe espaço antes de cada chegada confiante.",
+                "es": "Fija tónicas y quintas en un groove sincopado y deja espacio antes de cada llegada segura.",
+                "de": "Verankere Grundtöne und Quinten in einer synkopierten Pocket und lass vor jeder Landung Raum.",
+                "ja": "ルートと5度をシンコペーションのポケットに固定し、確かな着地の前に空間を作ります。",
+                "zh-Hans": "把根音与五音锁进切分律动，在每次稳稳落点前留出空间。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-pocket-fifth-lock/lesson.md"
+            },
+            {
+              "id": "piano-sixth-landing-grid",
+              "order": 73,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano sixth landing grid",
+                "pt-BR": "Grade de chegadas em sextas no piano",
+                "es": "Cuadrícula de aterrizajes de sextas en piano",
+                "de": "Klavier-Sexten-Landegrid",
+                "ja": "ピアノ・6度着地グリッド",
+                "zh-Hans": "钢琴六度落点网格"
+              },
+              "summaries": {
+                "en": "Coordinate contrary scale fragments so each wide sixth lands together, softly and on purpose.",
+                "pt-BR": "Coordene fragmentos de escala em movimento contrário para que cada sexta ampla chegue junta, suave e intencionalmente.",
+                "es": "Coordina fragmentos de escala en movimiento contrario para que cada sexta amplia aterrice junta, suave e intencionalmente.",
+                "de": "Koordiniere gegenläufige Skalenfragmente, sodass jede weite Sexte weich und bewusst gemeinsam landet.",
+                "ja": "反行するスケール断片を合わせ、広い6度を柔らかく意図的に同時着地させます。",
+                "zh-Hans": "协调反向音阶片段，让每个宽六度柔和而有意图地同时落地。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-landing-grid/lesson.md"
             }
           ]
         },
