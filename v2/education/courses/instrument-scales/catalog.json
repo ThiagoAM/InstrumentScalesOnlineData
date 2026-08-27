@@ -8443,6 +8443,81 @@
                 "zh-Hans": "协调反向音阶片段，让每个宽六度柔和而有意图地同时落地。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-landing-grid/lesson.md"
+            },
+            {
+              "id": "guitar-dorian-target-ladder",
+              "order": 74,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar Dorian target ladder",
+                "pt-BR": "Escada de alvos dóricos na guitarra",
+                "es": "Escalera de objetivos dóricos en guitarra",
+                "de": "Gitarren-Dorisch-Zielleiter",
+                "ja": "ギター・ドリアン・ターゲット・ラダー",
+                "zh-Hans": "吉他多利亚目标阶梯"
+              },
+              "summaries": {
+                "en": "Climb three Dorian targets through one position, pause before each landing, and make the mode sound intentional.",
+                "pt-BR": "Suba por três alvos dóricos em uma posição, faça uma pausa antes de cada chegada e torne o modo intencional.",
+                "es": "Sube por tres objetivos dóricos en una posición, pausa antes de cada llegada y haz que el modo suene intencional.",
+                "de": "Steige in einer Lage durch drei dorische Zieltöne, pausiere vor jeder Landung und gestalte den Modus bewusst.",
+                "ja": "1つのポジションで3つのドリアンの目標音へ上がり、着地前に間を置いてモード感を意識します。",
+                "zh-Hans": "在一个把位中攀登三个多利亚目标，落点前留白，让调式色彩更明确。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-dorian-target-ladder/lesson.md"
+            },
+            {
+              "id": "bass-seventh-target-lock",
+              "order": 75,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass seventh target lock",
+                "pt-BR": "Trava do sétimo alvo no baixo",
+                "es": "Bloqueo del séptimo objetivo en bajo",
+                "de": "Bass-Septim-Zielverschluss",
+                "ja": "ベース・7度ターゲット・ロック",
+                "zh-Hans": "贝斯七度目标锁"
+              },
+              "summaries": {
+                "en": "Lock the minor seventh into a two-chord pocket, then resolve it to each root without rushing the groove.",
+                "pt-BR": "Trave a sétima menor em um groove de dois acordes e resolva para cada tônica sem apressar o groove.",
+                "es": "Fija la séptima menor en un groove de dos acordes y resuélvela a cada raíz sin acelerar el pulso.",
+                "de": "Verankere die kleine Septime in einer Zweitakt-Pocket und löse sie zu jedem Grundton auf, ohne den Groove zu hetzen.",
+                "ja": "2コードのポケットに短7度を固定し、グルーヴを急がず各ルートへ解決します。",
+                "zh-Hans": "把小七度锁进两个和弦的律动，再不抢拍地分别解决到根音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-seventh-target-lock/lesson.md"
+            },
+            {
+              "id": "piano-contrary-target-crossing",
+              "order": 76,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano contrary target crossing",
+                "pt-BR": "Travessia de alvos em movimento contrário no piano",
+                "es": "Cruce de objetivos en movimiento contrario para piano",
+                "de": "Klavier-Zielkreuzung in Gegenbewegung",
+                "ja": "ピアノ・反行ターゲット・クロス",
+                "zh-Hans": "钢琴反向目标交叉"
+              },
+              "summaries": {
+                "en": "Send both hands in contrary motion, then make their shared target landings speak louder than the scale around them.",
+                "pt-BR": "Mova as duas mãos em movimento contrário e faça as chegadas conjuntas falarem mais que a escala ao redor.",
+                "es": "Mueve ambas manos en movimiento contrario y haz que sus llegadas compartidas destaquen sobre la escala.",
+                "de": "Führe beide Hände gegenläufig und lass die gemeinsamen Ziellandungen stärker sprechen als die umgebende Skala.",
+                "ja": "両手を反行させ、スケールの流れよりも同時に着地する目標音を際立たせます。",
+                "zh-Hans": "让双手反向运动，让共同落点比周围的音阶更有存在感。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-contrary-target-crossing/lesson.md"
             }
           ]
         },
