@@ -8518,6 +8518,81 @@
                 "zh-Hans": "让双手反向运动，让共同落点比周围的音阶更有存在感。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-contrary-target-crossing/lesson.md"
+            },
+            {
+              "id": "guitar-fourth-target-laser",
+              "order": 77,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar fourth-target laser",
+                "pt-BR": "Laser de quartas-alvo na guitarra",
+                "es": "Láser de cuartas objetivo en guitarra",
+                "de": "Gitarren-Laser auf Quartziele",
+                "ja": "ギター・4度ターゲットレーザー",
+                "zh-Hans": "吉他四度目标激光"
+              },
+              "summaries": {
+                "en": "Aim scale fragments at the fourth of each changing chord, using one precise slide to make every landing glow.",
+                "pt-BR": "Mire fragmentos da escala na quarta de cada acorde, usando um slide preciso para iluminar cada chegada.",
+                "es": "Dirige fragmentos de escala a la cuarta de cada acorde y usa un deslizamiento preciso para iluminar cada llegada.",
+                "de": "Führe Skalenfragmente zur Quarte jedes wechselnden Akkords und lass jede Landung mit einem präzisen Slide leuchten.",
+                "ja": "変わるコードの4度へスケール断片を向け、正確なスライドで着地を際立たせます。",
+                "zh-Hans": "把音阶片段指向每个变化和弦的四音，用一次精准滑音让每次落点发光。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-fourth-target-laser/lesson.md"
+            },
+            {
+              "id": "piano-sixth-landing-switch",
+              "order": 78,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano sixth landing switch",
+                "pt-BR": "Troca de chegada na sexta do piano",
+                "es": "Cambio de aterrizaje en la sexta del piano",
+                "de": "Klavier-Landungswechsel auf der Sexte",
+                "ja": "ピアノ・6度着地スイッチ",
+                "zh-Hans": "钢琴六度落点切换"
+              },
+              "summaries": {
+                "en": "Hear and play the sixth of each chord at the change, switching between compact steps and a bright leap.",
+                "pt-BR": "Ouça e toque a sexta de cada acorde na mudança, alternando entre passos compactos e um salto brilhante.",
+                "es": "Escucha y toca la sexta de cada acorde en el cambio, alternando pasos compactos y un salto brillante.",
+                "de": "Höre und spiele die Sexte jedes Akkords beim Wechsel und wechsle zwischen kleinen Schritten und einem hellen Sprung.",
+                "ja": "コードが変わる瞬間に6度を聴いて弾き、細かな進行と明るい跳躍を切り替えます。",
+                "zh-Hans": "在和弦切换时听出并弹出六音，在紧凑级进与明亮跳跃间切换。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-landing-switch/lesson.md"
+            },
+            {
+              "id": "bass-fifth-pocket-switch",
+              "order": 79,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass fifth pocket switch",
+                "pt-BR": "Troca de pocket na quinta do baixo",
+                "es": "Cambio de pocket en la quinta del bajo",
+                "de": "Bass-Pocket-Wechsel auf der Quinte",
+                "ja": "ベース・5度ポケット切り替え",
+                "zh-Hans": "贝斯五音律动切换"
+              },
+              "summaries": {
+                "en": "Make the fifth of each chord unmistakable by switching between a low pocket and a light octave answer.",
+                "pt-BR": "Deixe a quinta de cada acorde inconfundível alternando entre um pocket grave e uma resposta leve na oitava.",
+                "es": "Haz inconfundible la quinta de cada acorde alternando entre un pocket grave y una respuesta ligera de octava.",
+                "de": "Mach die Quinte jedes Akkords klar hörbar, indem du zwischen tiefem Pocket und einer leichten Oktavantwort wechselst.",
+                "ja": "低いポケットと軽いオクターブ応答を切り替え、各コードの5度をはっきりさせます。",
+                "zh-Hans": "在低音律动与轻巧八度回应之间切换，让每个和弦的五音清晰可辨。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-switch/lesson.md"
             }
           ]
         },
