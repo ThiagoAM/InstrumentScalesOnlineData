@@ -8593,6 +8593,81 @@
                 "zh-Hans": "在低音律动与轻巧八度回应之间切换，让每个和弦的五音清晰可辨。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-switch/lesson.md"
+            },
+            {
+              "id": "guitar-chromatic-resolution-runway",
+              "order": 80,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar chromatic resolution runway",
+                "pt-BR": "Pista de resolução cromática na guitarra",
+                "es": "Pista de resolución cromática en guitarra",
+                "de": "Chromatische Auflösungsbahn für Gitarre",
+                "ja": "ギター・クロマチック解決ランウェイ",
+                "zh-Hans": "吉他半音解决跑道"
+              },
+              "summaries": {
+                "en": "Use one chromatic approach before each chord tone, then make the resolution land with calm rhythmic control.",
+                "pt-BR": "Use uma aproximação cromática antes de cada nota do acorde e faça a resolução pousar com controle rítmico.",
+                "es": "Usa una aproximación cromática antes de cada nota del acorde y haz que la resolución aterrice con control rítmico.",
+                "de": "Setze vor jeden Akkordton eine chromatische Annäherung und lande mit ruhiger rhythmischer Kontrolle.",
+                "ja": "各コードトーンの前に半音アプローチを置き、落ち着いたリズムで解決へ着地します。",
+                "zh-Hans": "在每个和弦音前加入一个半音接近音，用稳定的节奏完成解决。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-chromatic-resolution-runway/lesson.md"
+            },
+            {
+              "id": "bass-root-fifth-traffic-lights",
+              "order": 81,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass root-fifth traffic lights",
+                "pt-BR": "Semáforo de tônica e quinta no baixo",
+                "es": "Semáforo de raíz y quinta en bajo",
+                "de": "Bass-Grundton-Quinte-Ampel",
+                "ja": "ベース・ルートと5度の信号機",
+                "zh-Hans": "贝斯根音五度信号灯"
+              },
+              "summaries": {
+                "en": "Switch between root, fifth, and silence on command while keeping a two-chord groove locked to the pocket.",
+                "pt-BR": "Alterne entre tônica, quinta e silêncio sob comando, mantendo um groove de dois acordes firme no bolso.",
+                "es": "Alterna entre raíz, quinta y silencio siguiendo señales mientras mantienes firme un groove de dos acordes.",
+                "de": "Wechsle auf Signal zwischen Grundton, Quinte und Stille und halte dabei eine Zweitakt-Pocket fest.",
+                "ja": "合図でルート、5度、休符を切り替えながら、2コードのポケットを安定させます。",
+                "zh-Hans": "按信号在根音、五度和休止之间切换，同时锁住两个和弦的律动。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-root-fifth-traffic-lights/lesson.md"
+            },
+            {
+              "id": "piano-sixth-shadow-switch",
+              "order": 82,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano sixth shadow switch",
+                "pt-BR": "Troca de sombra da sexta no piano",
+                "es": "Cambio de sombra de sexta para piano",
+                "de": "Klavier-Sexten-Schattenwechsel",
+                "ja": "ピアノ・6度シャドースイッチ",
+                "zh-Hans": "钢琴六度影子切换"
+              },
+              "summaries": {
+                "en": "Pair each chord tone with a sixth-shaped shadow, then switch the color without losing even hands or pulse.",
+                "pt-BR": "Combine cada nota do acorde com uma sombra em forma de sexta e troque a cor sem perder mãos equilibradas nem pulso.",
+                "es": "Empareja cada nota del acorde con una sombra en forma de sexta y cambia el color sin perder pulso ni equilibrio.",
+                "de": "Kopple jeden Akkordton mit einem Sexten-Schatten und wechsle die Farbe bei gleichmäßigen Händen und stabilem Puls.",
+                "ja": "各コードトーンに6度の影を添え、両手の均衡と拍を保ったまま色を切り替えます。",
+                "zh-Hans": "给每个和弦音配上六度影子，在保持双手均衡和拍子稳定时切换色彩。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-shadow-switch/lesson.md"
             }
           ]
         },
