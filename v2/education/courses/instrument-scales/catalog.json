@@ -8668,6 +8668,81 @@
                 "zh-Hans": "给每个和弦音配上六度影子，在保持双手均衡和拍子稳定时切换色彩。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-shadow-switch/lesson.md"
+            },
+            {
+              "id": "bass-space-comet",
+              "order": 83,
+              "estimatedMinutes": 8,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass space comet",
+                "pt-BR": "Cometa de espaço no baixo",
+                "es": "Cometa de espacio en bajo",
+                "de": "Bass-Raumkomet",
+                "ja": "ベース・スペース・コメット",
+                "zh-Hans": "贝斯留白彗星"
+              },
+              "summaries": {
+                "en": "Launch a syncopated pickup, leave a pocket of silence, and land each chord root like a comet returning home.",
+                "pt-BR": "Lance uma preparação sincopada, deixe um espaço de silêncio e pouse em cada tônica como um cometa voltando para casa.",
+                "es": "Lanza una preparación sincopada, deja un espacio de silencio y aterriza en cada raíz como un cometa que vuelve a casa.",
+                "de": "Starte mit einem synkopierten Auftakt, lass Raum und lande auf jedem Grundton wie ein heimkehrender Komet.",
+                "ja": "シンコペーションの導入、休符の空間、ルートへの着地を彗星のようにつなぎます。",
+                "zh-Hans": "弹出切分起句，留出一段静默，再像回家的彗星一样落到每个和弦根音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-space-comet/lesson.md"
+            },
+            {
+              "id": "piano-fourth-echo",
+              "order": 84,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano fourth echo",
+                "pt-BR": "Eco de quartas no piano",
+                "es": "Eco de cuartas en piano",
+                "de": "Klavier-Quarten-Echo",
+                "ja": "ピアノ・4度エコー",
+                "zh-Hans": "钢琴四度回声"
+              },
+              "summaries": {
+                "en": "Echo each right-hand fourth with the left hand, then switch the echo's direction without disturbing the beat.",
+                "pt-BR": "Ecoe cada quarta da mão direita com a esquerda e depois troque a direção sem perturbar o pulso.",
+                "es": "Repite cada cuarta de la mano derecha con la izquierda y cambia después la dirección sin alterar el pulso.",
+                "de": "Ech wiederhole jede rechte Quarte mit der linken Hand und ändere dann die Richtung, ohne den Puls zu stören.",
+                "ja": "右手の4度を左手で反響させ、拍を乱さずエコーの方向を切り替えます。",
+                "zh-Hans": "用左手回声回应右手的每个四度，再不打乱拍子地改变回声方向。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-fourth-echo/lesson.md"
+            },
+            {
+              "id": "guitar-seventh-slideway",
+              "order": 85,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar seventh slideway",
+                "pt-BR": "Passarela da sétima na guitarra",
+                "es": "Pasarela de séptimas en guitarra",
+                "de": "Gitarren-Septimen-Rutschbahn",
+                "ja": "ギター・7度スライドウェイ",
+                "zh-Hans": "吉他七度滑道"
+              },
+              "summaries": {
+                "en": "Slide into the seventh of each changing chord, then resolve with one measured step and a singing tone.",
+                "pt-BR": "Deslize até a sétima de cada acorde e resolva com um passo medido e um som cantado.",
+                "es": "Deslízate hasta la séptima de cada acorde y resuelve con un paso medido y un tono cantado.",
+                "de": "Rutsche in die Septime jedes wechselnden Akkords und löse sie mit einem bewussten Schritt und singendem Ton auf.",
+                "ja": "変わるコードの7度へスライドし、1音の確かな動きで歌うように解決します。",
+                "zh-Hans": "滑入每个变化和弦的七音，再用一个稳准的级进和歌唱般的音色解决。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-seventh-slideway/lesson.md"
             }
           ]
         },
