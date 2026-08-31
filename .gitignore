@@ -13,3 +13,4 @@ dist/
 
 # OpenClaw scratch
 .openclaw-lessons*
+tmp/
