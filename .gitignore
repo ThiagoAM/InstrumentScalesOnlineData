@@ -10,3 +10,6 @@ dist/
 
 *.swp
 *~
+
+# OpenClaw scratch
+.openclaw-lessons*

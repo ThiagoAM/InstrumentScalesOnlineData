@@ -136,3 +136,7 @@ Do not silently delete or rename a released lesson. Mark it optional or replace 
 ## 8. V1 boundary
 
 V1 source and tools live under `legacy/v1`. The Pages builder maps `legacy/v1/data` back to public `/v1`. V2 agents must not run V1 creation scripts, change V1 catalogs, or copy V1’s long-form lesson pattern into V2 unless explicitly asked to maintain a legacy bug.
+
+## 9. Scratch cleanup
+
+Draft workspaces (`.openclaw-lessons*` directories) are disposable intermediates. After the day's lessons are committed and pushed, delete every `.openclaw-lessons*` directory you created; do not let them accumulate. They are gitignored, so their absence from history is expected.
