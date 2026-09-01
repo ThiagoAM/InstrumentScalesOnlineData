@@ -8743,6 +8743,81 @@
                 "zh-Hans": "滑入每个变化和弦的七音，再用一个稳准的级进和歌唱般的音色解决。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/guitar-seventh-slideway/lesson.md"
+            },
+            {
+              "id": "guitar-rhythm-laser",
+              "order": 86,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar rhythm laser",
+                "pt-BR": "Laser rítmico na guitarra",
+                "es": "Láser rítmico en guitarra",
+                "de": "Gitarren-Rhythmuslaser",
+                "ja": "ギター・リズムレーザー",
+                "zh-Hans": "吉他节奏激光"
+              },
+              "summaries": {
+                "en": "Keep a six-note scale cell locked while moving its accent through a two-bar groove.",
+                "pt-BR": "Mantenha uma célula de seis notas firme enquanto move seu acento por um groove de dois compassos.",
+                "es": "Mantén fija una célula de seis notas mientras mueves su acento por un groove de dos compases.",
+                "de": "Halte eine Sechston-Zelle fest, während du ihren Akzent durch einen zweitaktigen Groove bewegst.",
+                "ja": "6音のセルを保ちながら、2小節のグルーヴでアクセントを動かします。",
+                "zh-Hans": "保持六音音型不变，在两小节律动中移动重音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-rhythm-laser/lesson.md"
+            },
+            {
+              "id": "bass-pocket-magnet",
+              "order": 87,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass pocket magnet",
+                "pt-BR": "Ímã do pocket no baixo",
+                "es": "Imán del pocket en bajo",
+                "de": "Bass-Pocketmagnet",
+                "ja": "ベース・ポケットマグネット",
+                "zh-Hans": "贝斯律动磁铁"
+              },
+              "summaries": {
+                "en": "Use a chromatic approach and one deliberate rest to pull every bar back to its root.",
+                "pt-BR": "Use uma aproximação cromática e uma pausa deliberada para puxar cada compasso de volta à tônica.",
+                "es": "Usa una aproximación cromática y un silencio deliberado para atraer cada compás de vuelta a su raíz.",
+                "de": "Nutze eine chromatische Annäherung und eine bewusste Pause, um jeden Takt zur Grundnote zurückzuziehen.",
+                "ja": "半音アプローチと意図した休符で、各小節をルートへ引き戻します。",
+                "zh-Hans": "用半音接近和一个有意的休止，把每小节拉回根音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-pocket-magnet/lesson.md"
+            },
+            {
+              "id": "piano-octave-shadow",
+              "order": 88,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano octave shadow",
+                "pt-BR": "Sombra de oitava no piano",
+                "es": "Sombra de octava en piano",
+                "de": "Klavier-Oktavschatten",
+                "ja": "ピアノ・オクターブシャドー",
+                "zh-Hans": "钢琴八度影子"
+              },
+              "summaries": {
+                "en": "Let the left hand shadow a right-hand scale fragment, then swap roles while keeping the melody bright.",
+                "pt-BR": "Deixe a mão esquerda acompanhar um fragmento de escala da direita e troque os papéis mantendo a melodia brilhante.",
+                "es": "Deja que la mano izquierda siga un fragmento de escala de la derecha y cambia los papeles sin apagar la melodía.",
+                "de": "Lass die linke Hand ein Skalenfragment der rechten beschatten und tausche dann die Rollen, ohne die Melodie zu verdunkeln.",
+                "ja": "左手で右手のスケール断片を追い、役割を替えてもメロディーを明るく保ちます。",
+                "zh-Hans": "让左手跟随右手的音阶片段，再交换角色，同时保持旋律明亮。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-octave-shadow/lesson.md"
             }
           ]
         },
