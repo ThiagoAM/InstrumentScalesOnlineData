@@ -8818,6 +8818,81 @@
                 "zh-Hans": "让左手跟随右手的音阶片段，再交换角色，同时保持旋律明亮。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-octave-shadow/lesson.md"
+            },
+            {
+              "id": "guitar-chromatic-third-bridge",
+              "order": 89,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Half-step landing bridge",
+                "pt-BR": "Ponte da chegada por semitom",
+                "es": "Puente de llegada por semitono",
+                "de": "Halbton-Landungsbrücke",
+                "ja": "半音着地ブリッジ",
+                "zh-Hans": "半音落点桥"
+              },
+              "summaries": {
+                "en": "Use a lower chromatic neighbor to make a scale phrase land on the third of each chord.",
+                "pt-BR": "Use a vizinho cromático inferior para fazer uma frase de escala chegar à terça de cada acorde.",
+                "es": "Usa un vecino cromático inferior para hacer que una frase de escala llegue a la tercera de cada acorde.",
+                "de": "Nutze einen unteren chromatischen Nachbarton, damit eine Skalenphrase auf der Terz jedes Akkords landet.",
+                "ja": "下行半音の隣接音を使い、各コードの3度へスケールフレーズを着地させます。",
+                "zh-Hans": "用下方半音邻音，让音阶乐句落到每个和弦的三级音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-chromatic-third-bridge/lesson.md"
+            },
+            {
+              "id": "bass-backbeat-detour-beacon",
+              "order": 90,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Backbeat detour lights",
+                "pt-BR": "Luzes do desvio no contratempo",
+                "es": "Luces del desvío en contratiempo",
+                "de": "Backbeat-Umleitung",
+                "ja": "バックビート迂回ライト",
+                "zh-Hans": "反拍绕行信号灯"
+              },
+              "summaries": {
+                "en": "Keep a root-and-fifth groove steady while a two-note detour answers the backbeat.",
+                "pt-BR": "Mantenha firme um groove de tônica e quinta enquanto um desvio de duas notas responde ao contratempo.",
+                "es": "Mantén firme un groove de raíz y quinta mientras un desvío de dos notas responde al contratiempo.",
+                "de": "Halte einen Grundton-und-Quinten-Groove stabil, während ein zweitöniger Umweg auf den Backbeat antwortet.",
+                "ja": "ルートと5度のグルーヴを保ち、2音の迂回でバックビートに答えます。",
+                "zh-Hans": "保持根音与五级音律动稳定，用两个音的绕行回应反拍。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-backbeat-detour-beacon/lesson.md"
+            },
+            {
+              "id": "piano-comet-mirror-run",
+              "order": 91,
+              "estimatedMinutes": 8,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Contrary-motion comet",
+                "pt-BR": "Cometa em movimento contrário",
+                "es": "Cometa en movimiento contrario",
+                "de": "Gegenbewegungs-Komet",
+                "ja": "反進行コメット",
+                "zh-Hans": "反向运动彗星"
+              },
+              "summaries": {
+                "en": "Send both hands away from a shared center, then return with controlled scale tones.",
+                "pt-BR": "Afaste as duas mãos de um centro comum e volte com notas de escala controladas.",
+                "es": "Aleja ambas manos desde un centro común y vuelve con notas de escala controladas.",
+                "de": "Führe beide Hände von einer gemeinsamen Mitte weg und kehre mit kontrollierten Skalentönen zurück.",
+                "ja": "共通の中心から両手を反対方向へ動かし、音階音でコントロールして戻ります。",
+                "zh-Hans": "让双手从共同中心向相反方向移动，再用受控的音阶音返回。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-comet-mirror-run/lesson.md"
             }
           ]
         },
