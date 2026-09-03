@@ -6248,6 +6248,81 @@
                 "zh-Hans": "录下八小节。 用一个动机发展八小节，包含重复、对比、留白和开头回归。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/scale-intermediate-build-eight-bar-solo-eight-bars/lesson.md"
+            },
+            {
+              "id": "guitar-third-shift-signal",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar: Signal the third through a position shift",
+                "pt-BR": "Guitarra: Sinalize a terça ao mudar de posição",
+                "es": "Guitarra: Señala la tercera al cambiar de posición",
+                "de": "Gitarre: Markiere die Terz beim Lagenwechsel",
+                "ja": "ギター：ポジション移動で3度を示す",
+                "zh-Hans": "吉他：用换把突出三度"
+              },
+              "summaries": {
+                "en": "Build a two-position phrase that lands on the chord third without losing the pulse.",
+                "pt-BR": "Construa uma frase em duas posições que pouse na terça do acorde sem perder a pulsação.",
+                "es": "Construye una frase en dos posiciones que llegue a la tercera del acorde sin perder el pulso.",
+                "de": "Baue eine Phrase in zwei Lagen, die ohne Pulsverlust auf der Akkordterz landet.",
+                "ja": "拍を保ったまま2つのポジションを使い、コードの3度に着地するフレーズを作ります。",
+                "zh-Hans": "保持律动，用两个把位构成一句落在和弦三度上的乐句。"
+              },
+              "path": "sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-third-shift-signal/lesson.md"
+            },
+            {
+              "id": "bass-fifth-pocket-detour",
+              "order": 12,
+              "estimatedMinutes": 6,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass: Detour to the fifth and return",
+                "pt-BR": "Baixo: Desvie para a quinta e retorne",
+                "es": "Bajo: Desvíate a la quinta y regresa",
+                "de": "Bass: Zur Quinte ausweichen und zurückkehren",
+                "ja": "ベース：5度へ寄り道して戻る",
+                "zh-Hans": "贝斯：绕到五度再回归"
+              },
+              "summaries": {
+                "en": "Keep a pocket groove steady while a scale detour visits the fifth and resolves to the root.",
+                "pt-BR": "Mantenha o groove firme enquanto um desvio da escala visita a quinta e resolve na tônica.",
+                "es": "Mantén firme el groove mientras un desvío de la escala visita la quinta y vuelve a la tónica.",
+                "de": "Halte den Groove stabil, während ein Tonleiter-Umweg die Quinte besucht und zum Grundton löst.",
+                "ja": "グルーヴを保ちながらスケールの寄り道で5度へ行き、主音に解決します。",
+                "zh-Hans": "保持律动稳定，让音阶绕行到五度并回到主音。"
+              },
+              "path": "sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-fifth-pocket-detour/lesson.md"
+            },
+            {
+              "id": "piano-contrary-mode-lantern",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano: Light a modal color with contrary motion",
+                "pt-BR": "Piano: Ilumine uma cor modal em movimento contrário",
+                "es": "Piano: Ilumina un color modal con movimiento contrario",
+                "de": "Klavier: Erzeuge modale Farbe in Gegenbewegung",
+                "ja": "ピアノ：反進行でモードの色を灯す",
+                "zh-Hans": "钢琴：用反向运动点亮调式色彩"
+              },
+              "summaries": {
+                "en": "Coordinate both hands in contrary motion and let the raised sixth of Dorian become the phrase’s color note.",
+                "pt-BR": "Coordene as duas mãos em movimento contrário e faça a sexta maior da dórica virar a nota de cor da frase.",
+                "es": "Coordina ambas manos en movimiento contrario y convierte la sexta mayor de dórica en el color de la frase.",
+                "de": "Koordiniere beide Hände in Gegenbewegung und mache die große Sexte der Dorischen zur Farbnote.",
+                "ja": "両手を反進行で合わせ、ドリアンの長6度をフレーズの色音にします。",
+                "zh-Hans": "让双手反向运动，并把多利亚调式的大六度变成乐句的色彩音。"
+              },
+              "path": "sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md"
             }
           ]
         }
