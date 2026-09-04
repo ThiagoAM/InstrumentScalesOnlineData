@@ -3170,6 +3170,81 @@
                 "zh-Hans": "在保持双手平衡的同时，让G大调音型跨越不同音区。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/piano-lane-cross/lesson.md"
+            },
+            {
+              "id": "guitar-shift-echo",
+              "order": 10,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar shift echo",
+                "pt-BR": "Eco de mudança na guitarra",
+                "es": "Eco de cambio en la guitarra",
+                "de": "Gitarren-Schalt-Echo",
+                "ja": "ギターの移動エコー",
+                "zh-Hans": "吉他换把回声"
+              },
+              "summaries": {
+                "en": "Echo a short G-major idea across two positions while the rhythm stays recognizable.",
+                "pt-BR": "Repita uma ideia curta em sol maior entre duas posições mantendo o ritmo reconhecível.",
+                "es": "Repite una idea breve en sol mayor entre dos posiciones sin perder el ritmo.",
+                "de": "Spiegle eine kurze G-Dur-Idee in zwei Lagen, während der Rhythmus erkennbar bleibt.",
+                "ja": "短いGメジャーのアイデアを2つのポジションで響かせ、リズムを保ちます。",
+                "zh-Hans": "让一个短小的G大调乐句在两个把位回响，同时保持节奏清晰。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/guitar-shift-echo/lesson.md"
+            },
+            {
+              "id": "bass-syncopation-bridge",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass syncopation bridge",
+                "pt-BR": "Ponte sincopada no baixo",
+                "es": "Puente sincopado en el bajo",
+                "de": "Bass-Synkopenbrücke",
+                "ja": "ベースのシンコペーション橋",
+                "zh-Hans": "贝斯切分桥"
+              },
+              "summaries": {
+                "en": "Carry a D-major bass cell across a position change while the offbeat stays precise.",
+                "pt-BR": "Leve uma célula de baixo em ré maior por uma mudança de posição mantendo o contratempo preciso.",
+                "es": "Lleva una célula de bajo en re mayor por un cambio de posición con el contratiempo preciso.",
+                "de": "Führe eine D-Dur-Basszelle durch einen Lagenwechsel, während die Synkope präzise bleibt.",
+                "ja": "Dメジャーのベース音型をポジション移動させ、裏拍を正確に保ちます。",
+                "zh-Hans": "让D大调贝斯音型跨过把位变化，同时保持反拍准确。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/bass-syncopation-bridge/lesson.md"
+            },
+            {
+              "id": "piano-handoff-lantern",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano handoff lantern",
+                "pt-BR": "Lanterna de troca no piano",
+                "es": "Linterna de relevo en el piano",
+                "de": "Klavier-Übergabelaterne",
+                "ja": "ピアノの受け渡しランタン",
+                "zh-Hans": "钢琴交接灯"
+              },
+              "summaries": {
+                "en": "Pass a G-major scale fragment between hands while the pulse and volume stay balanced.",
+                "pt-BR": "Passe um fragmento de escala em sol maior entre as mãos mantendo pulso e volume equilibrados.",
+                "es": "Pasa un fragmento de escala en sol mayor entre las manos con pulso y volumen equilibrados.",
+                "de": "Gib ein G-Dur-Skalenfragment zwischen den Händen weiter, bei ausgeglichenem Puls und Klang.",
+                "ja": "Gメジャーの音階断片を両手で受け渡し、拍と音量のバランスを保ちます。",
+                "zh-Hans": "让双手交接G大调音阶片段，同时保持节拍和音量平衡。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/piano-handoff-lantern/lesson.md"
             }
           ]
         },
