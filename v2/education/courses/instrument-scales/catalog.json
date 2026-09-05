@@ -3245,6 +3245,81 @@
                 "zh-Hans": "让双手交接G大调音阶片段，同时保持节拍和音量平衡。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/piano-handoff-lantern/lesson.md"
+            },
+            {
+              "id": "guitar-dovetail-shift",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar dovetail shift",
+                "pt-BR": "Encaixe de posições na guitarra",
+                "es": "Cambio encajado en guitarra",
+                "de": "Gitarren-Lagenverzahnung",
+                "ja": "ギターのかみ合わせ移動",
+                "zh-Hans": "吉他衔接换把"
+              },
+              "summaries": {
+                "en": "Connect two G-major shapes by making the shared note feel like a hinge.",
+                "pt-BR": "Conecte duas formas de sol maior fazendo a nota comum funcionar como dobradiça.",
+                "es": "Conecta dos formas de sol mayor usando la nota común como bisagra.",
+                "de": "Verbinde zwei G-Dur-Formen, indem der gemeinsame Ton als Scharnier dient.",
+                "ja": "共通音を支点にして、2つのGメジャーの形をつなぎます。",
+                "zh-Hans": "把共同音当作铰链，连接两个G大调音型。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/guitar-dovetail-shift/lesson.md"
+            },
+            {
+              "id": "bass-pocket-handoff",
+              "order": 14,
+              "estimatedMinutes": 6,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+              "en": "Bass register handoff",
+              "pt-BR": "Revezamento de registros no baixo",
+              "es": "Relevo de registros en el bajo",
+              "de": "Bass-Registerübergabe",
+              "ja": "ベースの音域リレー",
+              "zh-Hans": "贝斯音区接力"
+              },
+              "summaries": {
+                "en": "Move a G-major bass cell between registers while the backbeat stays locked.",
+                "pt-BR": "Mova uma célula de sol maior entre registros enquanto o contratempo permanece firme.",
+                "es": "Mueve una célula de sol mayor entre registros con el contratiempo firme.",
+                "de": "Verschiebe eine G-Dur-Basszelle zwischen Registern und halte den Backbeat fest.",
+                "ja": "バックビートを保ちながら、Gメジャーのベース細胞を音域間で動かします。",
+                "zh-Hans": "保持反拍稳定，在不同音区移动G大调贝斯动机。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/bass-pocket-handoff/lesson.md"
+            },
+            {
+              "id": "piano-hands-crossing",
+              "order": 15,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano hands crossing",
+                "pt-BR": "Mãos cruzadas no piano",
+                "es": "Cruce de manos en piano",
+                "de": "Hände kreuzen am Klavier",
+                "ja": "ピアノの手の交差",
+                "zh-Hans": "钢琴双手交叉"
+              },
+              "summaries": {
+                "en": "Pass a short G-major melody across the hands without losing its pulse.",
+                "pt-BR": "Passe uma melodia curta em sol maior entre as mãos sem perder a pulsação.",
+                "es": "Pasa una melodía breve de sol mayor entre las manos sin perder el pulso.",
+                "de": "Gib eine kurze G-Dur-Melodie zwischen den Händen weiter, ohne den Puls zu verlieren.",
+                "ja": "拍を失わずに、短いGメジャーの旋律を両手の間で受け渡します。",
+                "zh-Hans": "保持节拍，把短小的G大调旋律在双手之间传递。"
+              },
+              "path": "sections/intermediate/units/position-bridges/lessons/piano-hands-crossing/lesson.md"
             }
           ]
         },
