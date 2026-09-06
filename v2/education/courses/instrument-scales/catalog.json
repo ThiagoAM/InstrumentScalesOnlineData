@@ -3279,12 +3279,12 @@
               "instrument": "bass",
               "optional": true,
               "titles": {
-              "en": "Bass register handoff",
-              "pt-BR": "Revezamento de registros no baixo",
-              "es": "Relevo de registros en el bajo",
-              "de": "Bass-Registerübergabe",
-              "ja": "ベースの音域リレー",
-              "zh-Hans": "贝斯音区接力"
+                "en": "Bass register handoff",
+                "pt-BR": "Revezamento de registros no baixo",
+                "es": "Relevo de registros en el bajo",
+                "de": "Bass-Registerübergabe",
+                "ja": "ベースの音域リレー",
+                "zh-Hans": "贝斯音区接力"
               },
               "summaries": {
                 "en": "Move a G-major bass cell between registers while the backbeat stays locked.",
@@ -8852,10 +8852,10 @@
               "instrument": "bass",
               "optional": true,
               "titles": {
-                "en": "Bass root-fifth traffic lights",
+              "en": "Bass root-fifth traffic lights",
                 "pt-BR": "Semáforo de tônica e quinta no baixo",
                 "es": "Semáforo de raíz y quinta en bajo",
-                "de": "Bass-Grundton-Quinte-Ampel",
+              "de": "Bass-Grundton-Quinte-Ampel",
                 "ja": "ベース・ルートと5度の信号機",
                 "zh-Hans": "贝斯根音五度信号灯"
               },
@@ -9118,6 +9118,81 @@
                 "zh-Hans": "让双手从共同中心向相反方向移动，再用受控的音阶音返回。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-comet-mirror-run/lesson.md"
+            },
+            {
+              "id": "guitar-seventh-target-laser",
+              "order": 92,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar seventh target laser",
+                "pt-BR": "Laser de alvo na sétima da guitarra",
+                "es": "Láser de objetivo de séptima en guitarra",
+                "de": "Gitarren-Septimen-Ziellaser",
+                "ja": "ギターの7度ターゲットレーザー",
+                "zh-Hans": "吉他七级音目标激光"
+              },
+              "summaries": {
+                "en": "Aim for the seventh of each chord with a two-note pickup and a clean position choice.",
+                "pt-BR": "Mire na sétima de cada acorde com uma antecipação de duas notas e uma escolha limpa de posição.",
+                "es": "Apunta a la séptima de cada acorde con una anticipación de dos notas y una posición clara.",
+                "de": "Ziele mit einem zweitönigen Auftakt auf die Septime jedes Akkords und wähle die Lage bewusst.",
+                "ja": "2音のピックアップと明確なポジション選びで各コードの7度を狙います。",
+                "zh-Hans": "用两个音的前奏和清晰的把位选择，瞄准每个和弦的七级音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/guitar-seventh-target-laser/lesson.md"
+            },
+            {
+              "id": "bass-root-fifth-signal-grid",
+              "order": 93,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass traffic-light target grid",
+                "pt-BR": "Semáforos de tônica e quinta no baixo",
+                "es": "Semáforos de raíz y quinta en bajo",
+                "de": "Bass-Ampel-Zielraster",
+                "ja": "ベースのルート・5度信号機",
+                "zh-Hans": "贝斯根音五级音信号灯"
+              },
+              "summaries": {
+                "en": "Use rests as traffic lights while alternating root and fifth targets through a syncopated line.",
+                "pt-BR": "Use pausas como semáforos ao alternar alvos de tônica e quinta em uma linha sincopada.",
+                "es": "Usa silencios como semáforos mientras alternas objetivos de raíz y quinta en una línea sincopada.",
+                "de": "Nutze Pausen als Ampeln und wechsle in einer Synkopenlinie zwischen Grundton- und Quintenzielen.",
+                "ja": "休符を信号機にして、シンコペーションの中でルートと5度の目標を交替します。",
+                "zh-Hans": "把休止当作信号灯，在切分线条中交替瞄准根音和五级音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/bass-root-fifth-signal-grid/lesson.md"
+            },
+            {
+              "id": "piano-sixth-handoff-switch",
+              "order": 94,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano sixth relay landing",
+                "pt-BR": "Troca de aterrissagem na sexta do piano",
+                "es": "Cambio de llegada en la sexta del piano",
+                "de": "Klavier-Sexten-Landungswechsel",
+                "ja": "ピアノの6度着地点スイッチ",
+                "zh-Hans": "钢琴六级音落点切换"
+              },
+              "summaries": {
+                "en": "Switch hands at phrase endings while landing on the sixth of each chord with an even touch.",
+                "pt-BR": "Troque as mãos no fim das frases chegando à sexta de cada acorde com toque uniforme.",
+                "es": "Cambia de mano al final de las frases y aterriza en la sexta de cada acorde con toque parejo.",
+                "de": "Wechsle am Phrasenende die Hand und lande mit gleichmäßigem Anschlag auf der Sexte jedes Akkords.",
+                "ja": "フレーズ終わりに手を交替し、均一なタッチで各コードの6度へ着地します。",
+                "zh-Hans": "在乐句结尾交换双手，以均匀触键落到每个和弦的六级音。"
+              },
+              "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-handoff-switch/lesson.md"
             }
           ]
         },
