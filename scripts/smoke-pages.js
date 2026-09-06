@@ -4,11 +4,8 @@ const baseURL = (process.argv[2] || "https://thiagoam.github.io/InstrumentScales
   .replace(/\/$/, "");
 
 const probes = [
-  { path: "v1/education/free/courses.json", type: "application/json", json: true },
-  { path: "v1/education/max/courses.json", type: "application/json", json: true },
   { path: "v1/home/home.json", type: "application/json", json: true },
   { path: "v1/toggles/feature-toggles.json", type: "application/json", json: true },
-  { path: "v1/education/free/images/guitar-free.jpg", type: "image/jpeg" },
   {
     path: "v2/education/courses.json",
     type: "application/json",

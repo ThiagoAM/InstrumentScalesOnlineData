@@ -2,6 +2,8 @@
 
 const fs = require("node:fs");
 const path = require("node:path");
+
+require("./education-format-policy").assertCurrentEducationOnly(path.join(__dirname, ".."));
 const root = path.join(__dirname, "..", "v2", "education", "courses", "instrument-scales");
 const t = (en, pt, es, de, ja, zh) => ({ en, "pt-BR": pt, es, de, ja, "zh-Hans": zh });
 const practice = t(

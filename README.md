@@ -1,6 +1,6 @@
 # Instrument Scales Online Data
 
-This repository is the static content source for Instrument Scales. V2 is the active education contract. V1 is frozen legacy source kept for released app versions.
+This repository is the static content source for Instrument Scales. V2 Markdown is the only education contract. Older courses, JSON lesson assets, and their authoring tools have been removed.
 
 ## Source layout
 
@@ -22,14 +22,12 @@ scripts/
 ├── audit-v2-bulk.js
 └── build-pages.js
 
-legacy/v1/
-├── data/       # the former public v1 tree
-├── scripts/    # V1-only creation and validation tools
-├── tests/      # V1-only tests
-└── README.md
+v1/
+├── home/      # retained non-education endpoint
+└── toggles/   # retained app feature configuration
 ```
 
-Do not add V1 files back at the repository root. The Pages build copies `legacy/v1/data` to `dist/v1`, so existing `/v1/...` URLs remain unchanged. It copies current `v2` source to `dist/v2`.
+The Pages build publishes V2 education to `dist/v2` and preserves home/toggles URLs under `dist/v1`. `/v1/education` is no longer published. The source-format policy rejects retired education trees and JSON lesson files before generation or publishing.
 
 ## V2 learning model
 
@@ -67,8 +65,6 @@ From the repository root:
 node scripts/validate-v2.js
 node scripts/audit-v2-bulk.js --no-revision-one
 node --test tests/*.test.js
-node legacy/v1/scripts/validate-education.js legacy/v1/data/education
-node --test legacy/v1/tests/*.test.js
 node scripts/build-pages.js
 ```
 
@@ -78,4 +74,4 @@ node scripts/build-pages.js
 
 ## Publishing
 
-`.github/workflows/pages.yml` validates both versions, builds `dist`, and publishes the Pages artifact on pushes to `main`. V1 public endpoints remain available even though their source now lives under `legacy/v1`.
+`.github/workflows/pages.yml` validates V2 and the education-format policy, builds `dist`, and publishes the Pages artifact on pushes to `main`. Only the unrelated V1 home and feature-toggle endpoints remain. Older app versions that require V1 education will no longer load those retired courses after deployment.

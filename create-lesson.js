@@ -29,9 +29,16 @@ if (requiredLocales.join(',') !== locales.join(',')) {
 }
 
 const root = process.cwd();
+require('./scripts/education-format-policy').assertCurrentEducationOnly(root);
 const spec = JSON.parse(fs.readFileSync(path.resolve(root, specPath), 'utf8'));
 const catalogPath = path.join(root, 'v2/education/courses/instrument-scales/catalog.json');
 const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'));
+
+const slug = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+for (const field of ['id', 'section', 'unit']) {
+  if (!slug.test(spec[field])) throw new Error(`Invalid ${field} slug`);
+}
+if (spec.schema !== undefined && spec.schema !== 2) throw new Error('Only schema 2 lessons are supported');
 
 const section = catalog.sections.find((entry) => entry.id === spec.section);
 if (!section) throw new Error(`Section not found: ${spec.section}`);
@@ -52,7 +59,7 @@ if (unit.lessons.some((lesson) => lesson.id === spec.id)) {
 }
 
 const order = unit.lessons.length + 1;
-const lessonDir = path.join(root, 'v2/education/courses/instrument-scales/sections', spec.section, 'units', spec.unit, 'lessons', spec.id);
+const lessonDir = path.join(root, 'v2/education/courses/instrument-scales/levels', section.level, 'sections', spec.section, 'units', spec.unit, 'lessons', spec.id);
 fs.mkdirSync(lessonDir, { recursive: true });
 const lessonPath = path.join(lessonDir, 'lesson.md');
 const relativeLessonPath = path.relative(root, lessonPath).replace(/\\/g, '/');

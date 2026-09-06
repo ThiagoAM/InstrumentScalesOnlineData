@@ -1,6 +1,6 @@
 # OPENCLAW.md — V2 curriculum authoring
 
-Instructions for OpenClaw agents creating or revising Instrument Scales lessons. V2 is the only active authoring target. Never add new education content to `legacy/v1`; that directory exists only for old app compatibility.
+Instructions for OpenClaw agents creating or revising Instrument Scales lessons. V2 is the only active authoring target. Never recreate V1 education, JSON lesson payloads, or retired authoring tools.
 
 ## 1. Start safely
 
@@ -125,7 +125,7 @@ node --test tests/*.test.js
 node scripts/build-pages.js
 ```
 
-Review the generated `dist/v2` path and verify `dist/v1` still exists. Do not edit `dist` by hand and do not commit it unless repository policy changes; it is a build artifact.
+Review the generated `dist/v2` path and verify `dist/v1/home` and `dist/v1/toggles` remain and `dist/v1/education` is absent. Do not edit `dist` by hand and do not commit it unless repository policy changes; it is a build artifact.
 
 ## 7. Revisions and removals
 
@@ -133,9 +133,9 @@ For content-only lesson changes, increment the lesson `revision`. For navigation
 
 Do not silently delete or rename a released lesson. Mark it optional or replace its content while preserving the ID, unless the app has an explicit progress migration. If a hierarchy move is unavoidable, coordinate the old-to-new progress ID mapping before publishing.
 
-## 8. V1 boundary
+## 8. Education format boundary
 
-V1 source and tools live under `legacy/v1`. The Pages builder maps `legacy/v1/data` back to public `/v1`. V2 agents must not run V1 creation scripts, change V1 catalogs, or copy V1’s long-form lesson pattern into V2 unless explicitly asked to maintain a legacy bug.
+Only schema-2 Markdown lessons may be generated. The source-format policy runs before generators, validation, and Pages builds and rejects retired education trees or JSON lesson payloads. Keep the unrelated `v1/home` and `v1/toggles` endpoints intact. Do not restore old lesson generators or publish `/v1/education`.
 
 ## 9. Scratch cleanup
 

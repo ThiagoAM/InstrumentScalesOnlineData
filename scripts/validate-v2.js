@@ -468,6 +468,7 @@ function printGrouped(label, entries, writer) {
 }
 
 if (require.main === module) {
+  require("./education-format-policy").assertCurrentEducationOnly(path.join(__dirname, ".."));
   const args = process.argv.slice(2);
   const strictLocales = !args.includes("--no-strict-locales");
   const root = args.find((argument) => !["--strict-locales", "--no-strict-locales"].includes(argument));

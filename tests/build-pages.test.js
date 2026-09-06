@@ -7,16 +7,13 @@ const { execFileSync } = require("node:child_process");
 const root = path.join(__dirname, "..");
 const dist = path.join(root, "dist");
 
-test("Pages artifact preserves the public V1 and V2 contracts", () => {
+test("Pages publishes only V2 education and retains home/toggles", () => {
   execFileSync(process.execPath, [path.join(root, "scripts", "build-pages.js")], {
     cwd: root,
     stdio: "pipe",
   });
 
   const requiredFiles = [
-    "v1/education/free/courses.json",
-    "v1/education/max/courses.json",
-    "v1/education/free/images/guitar-free.jpg",
     "v1/home/home.json",
     "v1/toggles/feature-toggles.json",
     "v2/education/courses.json",
@@ -37,12 +34,7 @@ test("Pages artifact preserves the public V1 and V2 contracts", () => {
     );
   }
 
-  const freeCourses = JSON.parse(
-    fs.readFileSync(path.join(dist, "v1/education/free/courses.json"), "utf8"),
-  );
-  const maxCourses = JSON.parse(
-    fs.readFileSync(path.join(dist, "v1/education/max/courses.json"), "utf8"),
-  );
+  assert.equal(fs.existsSync(path.join(dist, "v1/education")), false);
   const v2Catalog = JSON.parse(
     fs.readFileSync(
       path.join(dist, "v2/education/courses/instrument-scales/catalog.json"),
@@ -59,8 +51,6 @@ test("Pages artifact preserves the public V1 and V2 contracts", () => {
     fs.readFileSync(path.join(dist, "v2/education/courses.json"), "utf8"),
   );
 
-  assert.equal(freeCourses.courses.length, 3);
-  assert.equal(maxCourses.courses.length, 3);
   assert.equal(v2Catalog.sections.length, 3);
   assert.equal(
     v2Catalog.sections.flatMap((section) =>

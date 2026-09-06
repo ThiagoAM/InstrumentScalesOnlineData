@@ -5,6 +5,8 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
+require("./education-format-policy").assertCurrentEducationOnly(path.join(__dirname, ".."));
+
 const DATA_ROOT = path.resolve(__dirname, "..");
 const COURSE_ROOT = path.join(DATA_ROOT, "v2/education/courses/chords-harmony");
 const CATALOG_PATH = path.join(COURSE_ROOT, "catalog.json");
