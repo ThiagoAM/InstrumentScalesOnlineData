@@ -8852,10 +8852,10 @@
               "instrument": "bass",
               "optional": true,
               "titles": {
-              "en": "Bass root-fifth traffic lights",
+                "en": "Bass root-fifth traffic lights",
                 "pt-BR": "Semáforo de tônica e quinta no baixo",
                 "es": "Semáforo de raíz y quinta en bajo",
-              "de": "Bass-Grundton-Quinte-Ampel",
+                "de": "Bass-Grundton-Quinte-Ampel",
                 "ja": "ベース・ルートと5度の信号機",
                 "zh-Hans": "贝斯根音五度信号灯"
               },
@@ -9193,6 +9193,81 @@
                 "zh-Hans": "在乐句结尾交换双手，以均匀触键落到每个和弦的六级音。"
               },
               "path": "sections/advanced/units/target-and-resolve/lessons/piano-sixth-handoff-switch/lesson.md"
+            },
+            {
+              "id": "guitar-target-echo-run",
+              "order": 95,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Guitar target echo run",
+                "pt-BR": "Corrida de ecos de alvo na guitarra",
+                "es": "Carrera de ecos de objetivos en guitarra",
+                "de": "Gitarren-Zielecho-Lauf",
+                "ja": "ギター・ターゲット・エコーラン",
+                "zh-Hans": "吉他目标回声跑"
+              },
+              "summaries": {
+                "en": "Answer each chord change with a shifted scale echo that lands on its third.",
+                "pt-BR": "Responda a cada troca de acorde com um eco deslocado da escala que chega à terça.",
+                "es": "Responde a cada cambio de acorde con un eco desplazado de la escala que aterrice en su tercera.",
+                "de": "Beantworte jeden Akkordwechsel mit einem verschobenen Skalen-Echo, das auf der Terz landet.",
+                "ja": "コードチェンジごとにスケールのエコーをずらし、3度へ着地させます。",
+                "zh-Hans": "用移位的音阶回声回应每次和弦变化，并落在三级音上。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-target-echo-run/lesson.md"
+            },
+            {
+              "id": "bass-fifth-echo-lock",
+              "order": 96,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": false,
+              "titles": {
+                "en": "Bass fifth echo lock",
+                "pt-BR": "Trava de ecos da quinta no baixo",
+                "es": "Bloqueo de ecos de quinta en el bajo",
+                "de": "Bass-Quinten-Echo-Schloss",
+                "ja": "ベース・5度エコーロック",
+                "zh-Hans": "贝斯五度回声锁"
+              },
+              "summaries": {
+                "en": "Repeat a compact scale echo, then lock each fifth to the next root in the groove.",
+                "pt-BR": "Repita um eco compacto da escala e trave cada quinta na próxima tônica do groove.",
+                "es": "Repite un eco compacto de la escala y fija cada quinta a la siguiente tónica del groove.",
+                "de": "Wiederhole ein kompaktes Skalen-Echo und verankere jede Quinte im nächsten Grundton des Grooves.",
+                "ja": "短いスケール・エコーを繰り返し、各5度を次のルートへグルーヴの中で固定します。",
+                "zh-Hans": "重复紧凑的音阶回声，在律动中把每个五度锁定到下一个根音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-echo-lock/lesson.md"
+            },
+            {
+              "id": "piano-seventh-landing-weave",
+              "order": 97,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "Piano seventh landing weave",
+                "pt-BR": "Trama de chegadas na sétima do piano",
+                "es": "Trama de llegadas a la séptima en piano",
+                "de": "Klavier-Septimen-Landungsgewebe",
+                "ja": "ピアノ・7度着地ウェーブ",
+                "zh-Hans": "钢琴七度落点编织"
+              },
+              "summaries": {
+                "en": "Weave two-hand scale fragments around a seventh that resolves into the next chord.",
+                "pt-BR": "Entrelace fragmentos da escala entre as mãos em torno de uma sétima que resolve no acorde seguinte.",
+                "es": "Entrelaza fragmentos de escala entre las manos alrededor de una séptima que resuelve en el acorde siguiente.",
+                "de": "Verwebe zweihändige Skalenfragmente um eine Septime, die in den nächsten Akkord aufgelöst wird.",
+                "ja": "両手のスケール断片を7度の周りに編み、次のコードへ解決させます。",
+                "zh-Hans": "用双手音阶片段围绕七度编织，并将其解决到下一个和弦。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-weave/lesson.md"
             }
           ]
         },
