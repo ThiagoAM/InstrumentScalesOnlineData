@@ -6473,6 +6473,81 @@
                 "zh-Hans": "让双手反向运动，并把多利亚调式的大六度变成乐句的色彩音。"
               },
               "path": "sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md"
+            },
+            {
+              "id": "guitar-call-response-shift",
+              "order": 14,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Build an Eight-Bar Solo: A minor pentatonic call and response",
+                "pt-BR": "Construa um solo de oito compassos: pergunta e resposta em A pentatônica menor",
+                "es": "Construye un solo de ocho compases: pregunta y respuesta en A pentatónica menor",
+                "de": "Baue ein Solo über acht Takte: Frage und Antwort in A-Moll-Pentatonik",
+                "ja": "8小節のソロを作る：Aマイナーペンタトニックの問いと答え",
+                "zh-Hans": "构建八小节独奏：A小调五声音阶的问答"
+              },
+              "summaries": {
+                "en": "Answer a short guitar idea one position higher while keeping its rhythm and landing on A.",
+                "pt-BR": "Responda a uma ideia curta de guitarra uma posição acima, mantendo o ritmo e chegando em A.",
+                "es": "Responde a una idea breve de guitarra una posición más arriba, mantén el ritmo y aterriza en A.",
+                "de": "Beantworte eine kurze Gitarrenidee eine Lage höher, halte den Rhythmus und lande auf A.",
+                "ja": "短いギターのアイデアを1ポジション上で答え、リズムを保ってAに着地します。",
+                "zh-Hans": "把短小的吉他动机移到高一把位回答，保持节奏并落在A上。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-call-response-shift/lesson.md"
+            },
+            {
+              "id": "bass-syncopated-scale-answer",
+              "order": 15,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Build an Eight-Bar Solo: Bass scale syncopation answer",
+                "pt-BR": "Construa um solo de oito compassos: resposta sincopada na escala do baixo",
+                "es": "Construye un solo de ocho compases: respuesta sincopada de escala en el bajo",
+                "de": "Baue ein Solo über acht Takte: Synkopierte Bass-Skalenantwort",
+                "ja": "8小節のソロを作る：ベースのシンコペーション応答",
+                "zh-Hans": "构建八小节独奏：贝斯音阶切分回答"
+              },
+              "summaries": {
+                "en": "Copy a bass scale fragment, shift its accent, and answer by locking the root on beat four.",
+                "pt-BR": "Copie um fragmento de escala no baixo, desloque o acento e responda travando a tônica no quarto tempo.",
+                "es": "Copia un fragmento de escala en el bajo, desplaza su acento y responde fijando la tónica en el cuarto tiempo.",
+                "de": "Kopiere ein Bass-Skalenfragment, verschiebe den Akzent und antworte mit dem Grundton auf Schlag vier.",
+                "ja": "ベースの音階フレーズを写し、アクセントをずらして4拍目の根音で答えます。",
+                "zh-Hans": "模仿一段贝斯音阶，移动重音，并在第四拍用根音回答。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-syncopated-scale-answer/lesson.md"
+            },
+            {
+              "id": "piano-contrary-question-answer",
+              "order": 16,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Build an Eight-Bar Solo: Piano contrary-motion answer",
+                "pt-BR": "Construa um solo de oito compassos: resposta em movimento contrário no piano",
+                "es": "Construye un solo de ocho compases: respuesta en movimiento contrario al piano",
+                "de": "Baue ein Solo über acht Takte: Klavierantwort in Gegenbewegung",
+                "ja": "8小節のソロを作る：ピアノの反行回答",
+                "zh-Hans": "构建八小节独奏：钢琴反向进行回答"
+              },
+              "summaries": {
+                "en": "Make a right-hand question and answer it with the left hand in contrary motion, meeting on A.",
+                "pt-BR": "Faça uma pergunta com a mão direita e responda com a esquerda em movimento contrário, encontrando-se em A.",
+                "es": "Crea una pregunta con la mano derecha y respóndela con la izquierda en movimiento contrario, encontrándose en A.",
+                "de": "Spiele eine Frage rechts und beantworte sie links in Gegenbewegung, die sich auf A trifft.",
+                "ja": "右手の問いに左手の反行で答え、Aで出会います。",
+                "zh-Hans": "右手提出问题，左手用反向进行回答，并在A相遇。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-question-answer/lesson.md"
             }
           ]
         }
