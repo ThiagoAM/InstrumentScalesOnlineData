@@ -6548,6 +6548,81 @@
                 "zh-Hans": "右手提出问题，左手用反向进行回答，并在A相遇。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-question-answer/lesson.md"
+            },
+            {
+              "id": "guitar-target-note-treasure",
+              "order": 17,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Build an Eight-Bar Solo: Guitar target-note treasure",
+                "pt-BR": "Construa um solo de oito compassos: caça à nota-alvo na guitarra",
+                "es": "Construye un solo de ocho compases: tesoro de notas objetivo en guitarra",
+                "de": "Baue ein Solo über acht Takte: Gitarren-Schatzsuche zur Zielnote",
+                "ja": "8小節のソロを作る：ギターのターゲット音探し",
+                "zh-Hans": "构建八小节独奏：吉他目标音寻宝"
+              },
+              "summaries": {
+                "en": "Shape two short D-minor phrases and make every answer land on F without losing the groove.",
+                "pt-BR": "Crie duas frases curtas em Ré menor e faça toda resposta chegar em Fá sem perder o groove.",
+                "es": "Crea dos frases breves en re menor y haz que cada respuesta llegue a Fa sin perder el groove.",
+                "de": "Forme zwei kurze d-Moll-Phrasen und lande in jeder Antwort auf F, ohne den Groove zu verlieren.",
+                "ja": "Dマイナーの短いフレーズを2つ作り、グルーヴを保ったまま答えを毎回Fへ着地させます。",
+                "zh-Hans": "创作两个短小的D小调乐句，在不丢失律动的情况下让每次回答都落到F。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-target-note-treasure/lesson.md"
+            },
+            {
+              "id": "bass-groove-answer-ladder",
+              "order": 18,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Build an Eight-Bar Solo: Bass groove answer ladder",
+                "pt-BR": "Construa um solo de oito compassos: escada de respostas no groove do baixo",
+                "es": "Construye un solo de ocho compases: escalera de respuestas con groove de bajo",
+                "de": "Baue ein Solo über acht Takte: Bass-Groove-Antwortleiter",
+                "ja": "8小節のソロを作る：ベース・グルーヴ応答ラダー",
+                "zh-Hans": "构建八小节独奏：贝斯律动回答阶梯"
+              },
+              "summaries": {
+                "en": "Repeat a two-beat E-minor idea, move its accent, and answer every bar with a grounded B.",
+                "pt-BR": "Repita uma ideia de dois tempos em Mi menor, mova o acento e responda cada compasso com um Si firme.",
+                "es": "Repite una idea de dos tiempos en mi menor, mueve su acento y responde cada compás con un Si sólido.",
+                "de": "Wiederhole eine zweitaktige e-Moll-Idee, verschiebe den Akzent und beantworte jeden Takt mit einem sicheren H.",
+                "ja": "Eマイナーの2拍アイデアを繰り返し、アクセントを動かして各小節を安定したBで答えます。",
+                "zh-Hans": "重复一个两拍的E小调动机，移动重音，并用稳固的B回答每个小节。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-groove-answer-ladder/lesson.md"
+            },
+            {
+              "id": "piano-scale-mirror-answer",
+              "order": 19,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Build an Eight-Bar Solo: Piano scale-mirror answer",
+                "pt-BR": "Construa um solo de oito compassos: resposta espelhada da escala no piano",
+                "es": "Construye un solo de ocho compases: respuesta espejo de escala en piano",
+                "de": "Baue ein Solo über acht Takte: Klavier-Skalenantwort im Spiegel",
+                "ja": "8小節のソロを作る：ピアノの音階ミラー応答",
+                "zh-Hans": "构建八小节独奏：钢琴音阶镜像回答"
+              },
+              "summaries": {
+                "en": "Turn a right-hand G-major question into a left-hand mirror, meeting on G without collisions.",
+                "pt-BR": "Transforme uma pergunta em Sol maior da mão direita em um espelho na esquerda, encontrando-se em Sol sem choques.",
+                "es": "Convierte una pregunta en Sol mayor de la mano derecha en un espejo de la izquierda, encontrándose en Sol sin choques.",
+                "de": "Spiegle eine G-Dur-Frage der rechten Hand mit der linken und triff dich auf G ohne Zusammenstöße.",
+                "ja": "右手のGメジャーの問いを左手で鏡のように返し、ぶつからずGで出会います。",
+                "zh-Hans": "把右手的G大调提问用左手镜像回答，在不碰撞的情况下于G相遇。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-scale-mirror-answer/lesson.md"
             }
           ]
         }
