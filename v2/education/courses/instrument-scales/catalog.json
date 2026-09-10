@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 20,
+  "revision": 21,
   "sections": [
     {
       "id": "beginner",
@@ -9493,6 +9493,81 @@
                 "zh-Hans": "用左手镜像右手的音阶片段，并有控制地落到每个和弦的七级音。"
               },
               "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-mirror/lesson.md"
+            },
+            {
+              "id": "guitar-ninth-color-compass",
+              "order": 101,
+              "estimatedMinutes": 7,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar Ninth-Color Compass",
+                "pt-BR": "Bússola da nona colorida na guitarra",
+                "es": "Brújula del color de novena en guitarra",
+                "de": "Gitarren-Kompass für die None",
+                "ja": "ギター：9度カラー・コンパス",
+                "zh-Hans": "吉他：九级音色彩罗盘"
+              },
+              "summaries": {
+                "en": "Use the ninth of each changing chord as a bright compass while shifting a compact guitar cell.",
+                "pt-BR": "Use a nona de cada acorde em mudança como uma bússola brilhante ao deslocar uma célula compacta na guitarra.",
+                "es": "Usa la novena de cada acorde cambiante como una brújula brillante al desplazar una célula compacta en la guitarra.",
+                "de": "Nutze die None jedes wechselnden Akkords als hellen Kompass, während du eine kompakte Gitarrenzelle verschiebst.",
+                "ja": "短いギター・セルを移動しながら、各コードの9度を明るいコンパスとして使います。",
+                "zh-Hans": "移动紧凑的吉他单元时，把每个变化和弦的九级音当作明亮罗盘。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-ninth-color-compass/lesson.md"
+            },
+            {
+              "id": "bass-seventh-underlight-relay",
+              "order": 102,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass Seventh Underlight Relay",
+                "pt-BR": "Revezamento da sétima sob a luz no baixo",
+                "es": "Relevo de séptimas bajo la luz en el bajo",
+                "de": "Bass-Septimen-Staffellauf im Unterlicht",
+                "ja": "ベース：7度アンダーライト・リレー",
+                "zh-Hans": "贝斯：七级音暗光接力"
+              },
+              "summaries": {
+                "en": "Relay each chord's seventh into the next root, moving the bass line between low and singing registers.",
+                "pt-BR": "Leve a sétima de cada acorde até a próxima tônica, movendo a linha do baixo entre registros graves e cantantes.",
+                "es": "Lleva la séptima de cada acorde a la siguiente raíz, moviendo la línea de bajo entre registros graves y cantantes.",
+                "de": "Führe die Septime jedes Akkords in den nächsten Grundton und bewege die Basslinie zwischen tiefem und singendem Register.",
+                "ja": "各コードの7度を次のルートへリレーし、低音域と歌う音域の間でベースラインを動かします。",
+                "zh-Hans": "把每个和弦的七级音接力到下一个根音，让贝斯线在低音区和歌唱般的音区之间移动。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-seventh-underlight-relay/lesson.md"
+            },
+            {
+              "id": "piano-ninth-window-switch",
+              "order": 103,
+              "estimatedMinutes": 7,
+              "activity": "theory",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano Ninth-Window Switch",
+                "pt-BR": "Janela de nona e troca no piano",
+                "es": "Cambio de ventana de novena en piano",
+                "de": "Klavier-None im Fensterwechsel",
+                "ja": "ピアノ：9度ウィンドウ・スイッチ",
+                "zh-Hans": "钢琴：九级音窗口切换"
+              },
+              "summaries": {
+                "en": "Hold each root steady while the right hand opens a ninth window and resolves it to the chord's third.",
+                "pt-BR": "Mantenha cada tônica firme enquanto a mão direita abre uma janela de nona e resolve na terça do acorde.",
+                "es": "Mantén estable cada raíz mientras la mano derecha abre una ventana de novena y la resuelve en la tercera del acorde.",
+                "de": "Halte jeden Grundton stabil, während die rechte Hand ein Nonenfenster öffnet und es zur Terz des Akkords auflöst.",
+                "ja": "各ルートを安定させ、右手で9度の窓を開いてコードの3度へ解決します。",
+                "zh-Hans": "保持每个根音稳定，让右手打开九级音窗口，再将其解决到和弦的三级音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md"
             }
           ]
         },
