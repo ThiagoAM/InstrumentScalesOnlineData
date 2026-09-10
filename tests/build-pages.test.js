@@ -52,18 +52,29 @@ test("Pages publishes only V2 education and retains home/toggles", () => {
   );
 
   assert.equal(v2Catalog.sections.length, 3);
-  assert.equal(
-    v2Catalog.sections.flatMap((section) =>
-      section.units.flatMap((unit) => unit.lessons)
-    ).length,
-    396,
-  );
-  assert.equal(
-    harmonyCatalog.sections.flatMap((section) =>
-      section.units.flatMap((unit) => unit.lessons)
-    ).length,
-    313,
-  );
+  for (const [courseID, publishedCatalog] of [
+    ["instrument-scales", v2Catalog],
+    ["chords-harmony", harmonyCatalog],
+  ]) {
+    const relativeCourse = path.join("v2", "education", "courses", courseID);
+    const sourceCatalog = JSON.parse(fs.readFileSync(
+      path.join(root, relativeCourse, "catalog.json"), "utf8",
+    ));
+    assert.deepEqual(publishedCatalog, sourceCatalog,
+      `${courseID} must publish the complete current catalog`);
+    for (const section of sourceCatalog.sections) {
+      for (const unit of section.units) {
+        for (const lesson of unit.lessons) {
+          const relativeLesson = path.join(relativeCourse, lesson.path);
+          assert.equal(
+            fs.readFileSync(path.join(dist, relativeLesson), "utf8"),
+            fs.readFileSync(path.join(root, relativeLesson), "utf8"),
+            `Published lesson must match its source: ${courseID}/${lesson.id}`,
+          );
+        }
+      }
+    }
+  }
   assert.deepEqual(courseIndex.courses.map((course) => course.id), [
     "instrument-scales",
     "chords-harmony",

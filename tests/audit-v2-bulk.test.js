@@ -3,6 +3,7 @@ const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const os = require("node:os");
 const path = require("node:path");
+const { countLessonFiles } = require("./helpers/repository-content");
 
 const {
   BANNED_PHRASES,
@@ -120,7 +121,7 @@ function messages(result) {
 test("real repository passes the focused bulk audit", () => {
   const result = auditV2Bulk(repositoryV2, { checkRevisionOne: false });
   assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
-  assert.equal(result.lessons, 709);
+  assert.equal(result.lessons, countLessonFiles(repositoryV2));
 });
 
 test("valid revision-one lesson passes and checks all locale bodies", () => {

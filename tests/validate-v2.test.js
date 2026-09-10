@@ -5,6 +5,8 @@ const os = require("node:os");
 const path = require("node:path");
 
 const { ACCEPTED_FENCES, REQUIRED_LOCALES, validateV2 } = require("../scripts/validate-v2");
+const { countLessonFiles } = require("./helpers/repository-content");
+const publishedBaseline = require("./fixtures/published-foundational-lessons.json");
 
 const repositoryV2 = path.join(__dirname, "..", "v2");
 const translations = {
@@ -238,21 +240,24 @@ test("stray file in lesson directory fails", () => {
 test("real repository tree passes with strict locales and new formats", () => {
   const result = validateV2(repositoryV2);
   assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
-  assert.equal(result.lessons, 709);
+  assert.equal(result.lessons, countLessonFiles(repositoryV2));
   assert.equal(result.courses, 2);
   assert.equal(result.riffs, 35);
 });
 
 test("real repository adds one hundred lessons to every v2 section", () => {
-  for (const [courseID, lessonPrefix, expectedRevision] of [
-    ["instrument-scales", "scale-", 20],
-    ["chords-harmony", "harmony-", 3],
+  for (const [courseID, lessonPrefix] of [
+    ["instrument-scales", "scale-"],
+    ["chords-harmony", "harmony-"],
   ]) {
     const catalog = JSON.parse(fs.readFileSync(
       path.join(repositoryV2, "education", "courses", courseID, "catalog.json"),
       "utf8"
     ));
-    assert.equal(catalog.revision, expectedRevision);
+    const baseline = publishedBaseline.courses[courseID];
+    assert.ok(Number.isInteger(catalog.revision));
+    assert.ok(catalog.revision >= baseline.minimumRevision,
+      `${courseID} catalog revision must not regress below its published baseline`);
     for (const section of catalog.sections) {
       const expansionUnits = section.units.filter((unit) =>
         unit.lessons.some((lesson) => lesson.id.startsWith(lessonPrefix))
@@ -283,12 +288,11 @@ test("real repository adds one hundred lessons to every v2 section", () => {
     const publishedLessons = catalog.sections.flatMap((section) =>
       section.units.flatMap((unit) => unit.lessons)
     );
-    const expectedExisting = courseID === "instrument-scales" ? 96 : 13;
-    assert.equal(
-      publishedLessons.filter((lesson) => !lesson.id.startsWith(lessonPrefix)).length,
-      expectedExisting,
-      `${courseID} should preserve every pre-expansion lesson`
-    );
+    const publishedPaths = new Map(publishedLessons.map((lesson) => [lesson.id, lesson.path]));
+    for (const [id, publishedPath] of Object.entries(baseline.lessons)) {
+      assert.equal(publishedPaths.get(id), publishedPath,
+        `${courseID} must retain the published ID and URL for ${id}`);
+    }
   }
 });
 
