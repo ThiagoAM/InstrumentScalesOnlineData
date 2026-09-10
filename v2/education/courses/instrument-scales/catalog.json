@@ -9418,6 +9418,81 @@
                 "zh-Hans": "用双手音阶片段围绕七度编织，并将其解决到下一个和弦。"
               },
               "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-weave/lesson.md"
+            },
+            {
+              "id": "guitar-third-shift-cipher",
+              "order": 98,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar Third-Shift Cipher",
+                "pt-BR": "Cifra de terças deslocadas na guitarra",
+                "es": "Cifra de terceras desplazadas en guitarra",
+                "de": "Gitarren-Drittelverschiebungs-Code",
+                "ja": "ギター：3度シフト暗号",
+                "zh-Hans": "吉他三级移位密码"
+              },
+              "summaries": {
+                "en": "Shift a two-note cell and land on each chord's third without losing the groove.",
+                "pt-BR": "Desloque uma célula de duas notas e chegue à terça de cada acorde sem perder o groove.",
+                "es": "Desplaza una célula de dos notas y aterriza en la tercera de cada acorde sin perder el pulso.",
+                "de": "Verschiebe eine zweitönige Zelle und lande auf der Terz jedes Akkords, ohne den Groove zu verlieren.",
+                "ja": "2音セルを移動し、グルーヴを失わず各コードの3度へ着地します。",
+                "zh-Hans": "移位一个两音单元，在不丢失律动的情况下落到每个和弦的三级音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-shift-cipher/lesson.md"
+            },
+            {
+              "id": "bass-fifth-pocket-lock",
+              "order": 99,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass Fifth Pocket Lock",
+                "pt-BR": "Baixo: trava do groove na quinta",
+                "es": "Bajo: quinta en el bolsillo",
+                "de": "Bass: Quinten im Groove",
+                "ja": "ベース：5度ポケット・ロック",
+                "zh-Hans": "贝斯：五级音律动锁定"
+              },
+              "summaries": {
+                "en": "Keep a syncopated bass cell steady while targeting the root and fifth through a four-chord loop.",
+                "pt-BR": "Mantenha firme uma célula sincopada de baixo, mirando tônica e quinta em um loop de quatro acordes.",
+                "es": "Mantén estable una célula sincopada de bajo mientras apuntas a raíz y quinta en un bucle de cuatro acordes.",
+                "de": "Halte eine synkopierte Basszelle stabil und ziele in einer viertaktigen Schleife auf Grundton und Quinte.",
+                "ja": "4コードのループで、シンコペーションのベースセルを保ち、主音と5度を狙います。",
+                "zh-Hans": "在四和弦循环中保持切分贝斯单元稳定，瞄准根音和五级音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-lock/lesson.md"
+            },
+            {
+              "id": "piano-seventh-landing-mirror",
+              "order": 100,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano Seventh-Landing Mirror",
+                "pt-BR": "Espelho de chegada na sétima ao piano",
+                "es": "Espejo de llegada a la séptima en piano",
+                "de": "Klavier-Spiegel zur Septime",
+                "ja": "ピアノ：7度着地ミラー",
+                "zh-Hans": "钢琴：七级落点镜像"
+              },
+              "summaries": {
+                "en": "Mirror a right-hand scale fragment in the left hand and land on each chord's seventh with control.",
+                "pt-BR": "Espelhe na mão esquerda um fragmento da escala da mão direita e chegue à sétima de cada acorde com controle.",
+                "es": "Refleja en la mano izquierda un fragmento de escala de la derecha y aterriza con control en la séptima de cada acorde.",
+                "de": "Spiegle ein rechtes Skalenfragment in der linken Hand und lande kontrolliert auf der Septime jedes Akkords.",
+                "ja": "右手の音階フレーズを左手で反映し、各コードの7度へコントロールして着地します。",
+                "zh-Hans": "用左手镜像右手的音阶片段，并有控制地落到每个和弦的七级音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-mirror/lesson.md"
             }
           ]
         },
