@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 21,
+  "revision": 22,
   "sections": [
     {
       "id": "beginner",
@@ -3668,6 +3668,31 @@
                 "zh-Hans": "在第一拍稳稳放下根音，然后在反拍点亮音阶音。"
               },
               "path": "sections/intermediate/units/rhythm-lab/lessons/bass-offbeat-lighthouse-run/lesson.md"
+            },
+            {
+              "id": "guitar-gate-length-duel-20260911",
+              "order": 14,
+              "estimatedMinutes": 6,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar: the note-length duel",
+                "pt-BR": "Guitarra: duelo de durações",
+                "es": "Guitarra: duelo de duraciones",
+                "de": "Gitarre: Duell der Tonlängen",
+                "ja": "ギター：音の長さ対決",
+                "zh-Hans": "吉他：音长对决"
+              },
+              "summaries": {
+                "en": "Keep four attacks fixed while alternating full-beat and half-beat notes.",
+                "pt-BR": "Mantenha quatro ataques fixos alternando notas de um tempo e meio tempo.",
+                "es": "Mantén cuatro ataques fijos alternando notas de un pulso y medio pulso.",
+                "de": "Halte vier Anschläge fest und wechsle zwischen ganzen und halben Schlägen.",
+                "ja": "4つの発音位置を保ち、1拍と半拍の音を交互に弾きます。",
+                "zh-Hans": "保持四个起音位置不变，交替弹奏一拍与半拍的音。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/guitar-gate-length-duel-20260911/lesson.md"
             }
           ]
         },
@@ -4214,6 +4239,31 @@
                 "zh-Hans": "为乐句选择小调色彩。 在同一主音上比较三种小调，单独听六级和七级的差别。 对比卡片中A使用A和声小调，B使用A旋律小调。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-three-minor-colors/lessons/scale-intermediate-three-minor-colors-one-listen/lesson.md"
+            },
+            {
+              "id": "piano-minor-descent-fork-20260911",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano: two roads down in minor",
+                "pt-BR": "Piano: duas descidas em menor",
+                "es": "Piano: dos bajadas en menor",
+                "de": "Klavier: Zwei Wege abwärts in Moll",
+                "ja": "ピアノ：短調を下る2つの道",
+                "zh-Hans": "钢琴：小调下行的两条路"
+              },
+              "summaries": {
+                "en": "Choose classical or jazz melodic-minor descent after the same ascent.",
+                "pt-BR": "Escolha a descida menor melódica clássica ou jazzística após a mesma subida.",
+                "es": "Elige la bajada menor melódica clásica o de jazz tras la misma subida.",
+                "de": "Wähle nach gleichem Aufstieg den klassischen oder den Jazz-Abstieg in melodisch Moll.",
+                "ja": "同じ上行から、クラシックとジャズの旋律的短音階の下行を選びます。",
+                "zh-Hans": "在相同上行后，选择古典或爵士旋律小调的下行方式。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-three-minor-colors/lessons/piano-minor-descent-fork-20260911/lesson.md"
             }
           ]
         },
@@ -5579,6 +5629,31 @@
                 "zh-Hans": "根据色彩音说出调式。 通过色彩音与相邻调式的对比辨认每个自然调式。 对比卡片中A使用G弗里几亚，B使用G洛克里亚。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/scale-intermediate-modes-by-color-note-one-listen/lesson.md"
+            },
+            {
+              "id": "bass-dorian-sixth-answer-20260911",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass: answer with the sixth",
+                "pt-BR": "Baixo: responda com a sexta",
+                "es": "Bajo: responde con la sexta",
+                "de": "Bass: Antworte mit der Sexte",
+                "ja": "ベース：6度で答える",
+                "zh-Hans": "贝斯：用六级音回答"
+              },
+              "summaries": {
+                "en": "Switch Dorian and Aeolian answers while keeping a D-minor groove fixed.",
+                "pt-BR": "Alterne respostas dóricas e eólias mantendo um groove em ré menor.",
+                "es": "Alterna respuestas dóricas y eólicas manteniendo un groove en re menor.",
+                "de": "Wechsle dorische und äolische Antworten über einem festen D-Moll-Groove.",
+                "ja": "Dマイナーのグルーヴを保ち、ドリアンとエオリアンで答えます。",
+                "zh-Hans": "保持D小调律动，交替用多利亚与爱奥利亚色彩回答。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/bass-dorian-sixth-answer-20260911/lesson.md"
             }
           ]
         },
