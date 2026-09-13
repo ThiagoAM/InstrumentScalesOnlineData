@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 22,
+  "revision": 23,
   "sections": [
     {
       "id": "beginner",
@@ -4810,6 +4810,31 @@
                 "zh-Hans": "录下完整练习。 练习三音、四音与音程模进，保持重复单元清晰。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/scale-intermediate-sequence-workshop-full-study/lesson.md"
+            },
+            {
+              "id": "piano-thirds-turnaround-20260912",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Turn the thirds around",
+                "pt-BR": "Inverta a escada de terças",
+                "es": "Invierte la escalera de terceras",
+                "de": "Die Terztreppe umkehren",
+                "ja": "3度の階段を折り返す",
+                "zh-Hans": "让三度阶梯转身"
+              },
+              "summaries": {
+                "en": "Reverse a C-major sequence at its peak without repeating the top note.",
+                "pt-BR": "Inverta uma sequência em dó maior no ponto alto sem repetir a nota do topo.",
+                "es": "Invierte una secuencia en do mayor en su cima sin repetir la nota superior.",
+                "de": "Kehre eine C-Dur-Sequenz am höchsten Ton um, ohne ihn zu wiederholen.",
+                "ja": "Cメジャーの音型を頂点で折り返し、最高音を重ねずに弾きます。",
+                "zh-Hans": "在最高点反转C大调音型，不重复顶端音。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/piano-thirds-turnaround-20260912/lesson.md"
             }
           ]
         },
@@ -5356,6 +5381,31 @@
                 "zh-Hans": "录下八小节。 让布鲁斯音阶的降五级在短促呼句、答句和结尾中开口。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-blues-in-short-sentences/lessons/scale-intermediate-blues-in-short-sentences-eight-bars/lesson.md"
+            },
+            {
+              "id": "guitar-blue-note-exit-20260912",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Blue note, two exits",
+                "pt-BR": "Blue note, duas saídas",
+                "es": "Blue note, dos salidas",
+                "de": "Blue Note, zwei Ausgänge",
+                "ja": "ブルーノートの二つの出口",
+                "zh-Hans": "蓝调音的两个出口"
+              },
+              "summaries": {
+                "en": "Resolve the same passing blue note upward and downward in A blues.",
+                "pt-BR": "Resolva a mesma blue note de passagem para cima e para baixo no blues de lá.",
+                "es": "Resuelve la misma blue note de paso hacia arriba y hacia abajo en blues de la.",
+                "de": "Löse denselben Blue-Note-Durchgang im A-Blues aufwärts und abwärts auf.",
+                "ja": "Aブルースの同じ経過音を上と下へ解決します。",
+                "zh-Hans": "让A蓝调中同一个经过音分别向上和向下解决。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-blues-in-short-sentences/lessons/guitar-blue-note-exit-20260912/lesson.md"
             }
           ]
         },
@@ -6200,6 +6250,31 @@
                 "zh-Hans": "听一遍后录下。 短句只听一遍后记住，并复现音高、节奏和结尾。 对比卡片中A使用A大调，B使用A大调。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/scale-intermediate-hear-then-play-one-listen/lesson.md"
+            },
+            {
+              "id": "bass-seventh-ear-code-20260912",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Crack the seventh code",
+                "pt-BR": "Decifre o código das sétimas",
+                "es": "Descifra el código de las séptimas",
+                "de": "Knacke den Septimencode",
+                "ja": "7度の暗号を解く",
+                "zh-Hans": "破解七度密码"
+              },
+              "summaries": {
+                "en": "Hear and reproduce the difference between a minor and major seventh above C.",
+                "pt-BR": "Ouça e reproduza a diferença entre sétima menor e maior acima de dó.",
+                "es": "Escucha y reproduce la diferencia entre séptima menor y mayor sobre do.",
+                "de": "Höre und spiele den Unterschied zwischen kleiner und großer Septime über C.",
+                "ja": "Cの上の短7度と長7度を聴き分け、弾き返します。",
+                "zh-Hans": "听辨并复奏C上方的小七度与大七度。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/bass-seventh-ear-code-20260912/lesson.md"
             }
           ]
         },
