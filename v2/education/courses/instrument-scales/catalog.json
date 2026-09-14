@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 23,
+  "revision": 24,
   "sections": [
     {
       "id": "beginner",
@@ -3966,6 +3966,31 @@
                 "zh-Hans": "听一遍后记住并移调。 移动主音时保持同一动机的音级、节奏与轮廓。 对比卡片中A使用D大调，B使用A大调。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/scale-intermediate-move-one-idea-one-listen/lesson.md"
+            },
+            {
+              "id": "guitar-motif-password-20260913",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Guitar: the motif password",
+                "pt-BR": "Guitarra: a senha do motivo",
+                "es": "Guitarra: la contraseña del motivo",
+                "de": "Gitarre: das Motivpasswort",
+                "ja": "ギター：動機の合言葉",
+                "zh-Hans": "吉他：动机口令"
+              },
+              "summaries": {
+                "en": "Move a four-note password between C and G while preserving its degrees and rhythm.",
+                "pt-BR": "Transfira uma senha de quatro notas entre dó e sol preservando graus e ritmo.",
+                "es": "Lleva una contraseña de cuatro notas entre do y sol conservando grados y ritmo.",
+                "de": "Übertrage ein Passwort aus vier Tönen zwischen C und G mit gleichen Stufen und gleichem Rhythmus.",
+                "ja": "4音の合言葉をCとGの間で移し、度数とリズムを保ちます。",
+                "zh-Hans": "把四音口令在C与G之间移调，保持级数与节奏。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/guitar-motif-password-20260913/lesson.md"
             }
           ]
         },
@@ -5977,6 +6002,31 @@
                 "zh-Hans": "录下完整一轮。 在四和弦循环的切换点，让音阶线准确落到根音、三音和五音。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/scale-intermediate-land-on-chord-tones-full-chorus/lesson.md"
+            },
+            {
+              "id": "bass-third-first-20260913",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Bass: let the third arrive first",
+                "pt-BR": "Baixo: a terça chega primeiro",
+                "es": "Bajo: la tercera llega primero",
+                "de": "Bass: die Terz kommt zuerst",
+                "ja": "ベース：3度が先に到着",
+                "zh-Hans": "贝斯：让三度先到"
+              },
+              "summaries": {
+                "en": "Start each C-major and F-major bar on its third, then leave beat four silent.",
+                "pt-BR": "Comece cada compasso de dó maior e fá maior pela terça e deixe o quarto tempo em silêncio.",
+                "es": "Empieza cada compás de do mayor y fa mayor por su tercera y deja el cuarto pulso en silencio.",
+                "de": "Beginne jeden C-Dur- und F-Dur-Takt auf seiner Terz und lasse Schlag vier frei.",
+                "ja": "CメジャーとFメジャーの各小節を3度で始め、4拍目を休みます。",
+                "zh-Hans": "每个C大三和弦与F大三和弦小节都从三度开始，第四拍留白。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/bass-third-first-20260913/lesson.md"
             }
           ]
         },
@@ -10810,6 +10860,31 @@
                 "zh-Hans": "录下一个完整对称循环。 听出并弹稳全音与减音阶中的重复音程单元。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-symmetric-scales/lessons/scale-advanced-symmetric-scales-full-study/lesson.md"
+            },
+            {
+              "id": "piano-whole-tone-mirror-20260913",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Piano: the whole-tone mirror",
+                "pt-BR": "Piano: espelho de tons inteiros",
+                "es": "Piano: espejo de tonos enteros",
+                "de": "Klavier: der Ganztonspiegel",
+                "ja": "ピアノ：全音の鏡",
+                "zh-Hans": "钢琴：全音镜像"
+              },
+              "summaries": {
+                "en": "Move both hands inward by whole tones and reverse together without a collision.",
+                "pt-BR": "Mova as mãos para dentro em tons inteiros e inverta juntas sem colisão.",
+                "es": "Mueve ambas manos hacia dentro por tonos enteros e invierte juntas sin chocar.",
+                "de": "Bewege beide Hände in Ganztonschritten nach innen und kehre gemeinsam ohne Kollision um.",
+                "ja": "両手を全音ずつ内側へ動かし、ぶつからず同時に折り返します。",
+                "zh-Hans": "双手以全音向内移动，同步折返而不碰撞。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-symmetric-scales/lessons/piano-whole-tone-mirror-20260913/lesson.md"
             }
           ]
         },
