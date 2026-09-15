@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 24,
+  "revision": 25,
   "sections": [
     {
       "id": "beginner",
@@ -5133,6 +5133,31 @@
                 "zh-Hans": "录下不漂移的一遍。 用延音、休止、细分和反拍改变时值，同时保持音高清楚。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-rhythm-inside-the-scale/lessons/scale-intermediate-rhythm-inside-the-scale-no-drift/lesson.md"
+            },
+            {
+              "id": "bass-three-three-two-20260914",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Three, three, two: keep the floor",
+                "pt-BR": "Três, três, dois: chão firme",
+                "es": "Tres, tres, dos: suelo firme",
+                "de": "Drei, drei, zwei: fester Boden",
+                "ja": "3・3・2でも拍は動かさない",
+                "zh-Hans": "三、三、二：节拍不动"
+              },
+              "summaries": {
+                "en": "Accent eight even bass notes in groups of 3+3+2 without moving the beat.",
+                "pt-BR": "Acentue oito notas iguais no baixo em grupos de 3+3+2 sem deslocar o pulso.",
+                "es": "Acentúa ocho notas iguales del bajo en grupos de 3+3+2 sin desplazar el pulso.",
+                "de": "Betone acht gleichmäßige Basstöne in Gruppen von 3+3+2, ohne den Puls zu verschieben.",
+                "ja": "均等な8音を3+3+2で強調し、ベースの拍を保ちます。",
+                "zh-Hans": "把八个均匀的贝斯音按3+3+2分组加重音，同时保持节拍稳定。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-rhythm-inside-the-scale/lessons/bass-three-three-two-20260914/lesson.md"
             }
           ]
         },
@@ -5729,6 +5754,31 @@
                 "zh-Hans": "保持D小调律动，交替用多利亚与爱奥利亚色彩回答。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/bass-dorian-sixth-answer-20260911/lesson.md"
+            },
+            {
+              "id": "piano-fourth-color-test-20260914",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "The fourth-color listening test",
+                "pt-BR": "Teste auditivo da quarta",
+                "es": "Prueba auditiva de la cuarta",
+                "de": "Der Quarten-Hörtest",
+                "ja": "4度の色を聴き分ける",
+                "zh-Hans": "四度色彩听辨"
+              },
+              "summaries": {
+                "en": "Hear and reproduce the difference between C major’s F and C Lydian’s F-sharp.",
+                "pt-BR": "Ouça e reproduza a diferença entre fá em dó maior e fá sustenido em dó lídio.",
+                "es": "Escucha y reproduce la diferencia entre fa en do mayor y fa sostenido en do lidio.",
+                "de": "Höre und spiele den Unterschied zwischen F in C-Dur und Fis in C-Lydisch.",
+                "ja": "CメジャーのFとCリディアンのF♯の違いを聴き、再現します。",
+                "zh-Hans": "听出并重现C大调的F与C利底亚调式的F♯之间的差别。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/piano-fourth-color-test-20260914/lesson.md"
             }
           ]
         },
@@ -10314,6 +10364,31 @@
                 "zh-Hans": "录下完整一轮。 在小调和弦进行上运用和声小调的升七级与增二度。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/scale-advanced-harmonic-minor-in-practice-full-chorus/lesson.md"
+            },
+            {
+              "id": "guitar-augmented-step-door-20260914",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The augmented-step door",
+                "pt-BR": "A porta da segunda aumentada",
+                "es": "La puerta de la segunda aumentada",
+                "de": "Die Tür der übermäßigen Sekunde",
+                "ja": "増2度の扉",
+                "zh-Hans": "增二度之门"
+              },
+              "summaries": {
+                "en": "Resolve G-sharp to A at the chord change after a clear augmented second.",
+                "pt-BR": "Resolva sol sustenido em lá na troca de acorde após uma segunda aumentada clara.",
+                "es": "Resuelve sol sostenido en la al cambiar de acorde tras una segunda aumentada clara.",
+                "de": "Löse Gis beim Akkordwechsel nach A auf, nach einer klaren übermäßigen Sekunde.",
+                "ja": "はっきりした増2度の後、コードの変わり目でG♯をAへ解決します。",
+                "zh-Hans": "清楚弹出增二度后，在和弦转换处把G♯解决到A。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md"
             }
           ]
         },
