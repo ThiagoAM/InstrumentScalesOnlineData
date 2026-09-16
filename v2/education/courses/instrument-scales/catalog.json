@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 25,
+  "revision": 26,
   "sections": [
     {
       "id": "beginner",
@@ -3320,6 +3320,31 @@
                 "zh-Hans": "保持节拍，把短小的G大调旋律在双手之间传递。"
               },
               "path": "sections/intermediate/units/position-bridges/lessons/piano-hands-crossing/lesson.md"
+            },
+            {
+              "id": "guitar-unison-string-detective-20260915",
+              "order": 16,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "One melody, two strings",
+                "pt-BR": "Uma melodia, duas cordas",
+                "es": "Una melodía, dos cuerdas",
+                "de": "Eine Melodie, zwei Saiten",
+                "ja": "同じメロディーを二本の弦で",
+                "zh-Hans": "一段旋律，两根弦"
+              },
+              "summaries": {
+                "en": "Move E4–G4–E4 between two strings without changing pitch or timing.",
+                "pt-BR": "Leve E4–G4–E4 entre duas cordas sem mudar a altura nem o ritmo.",
+                "es": "Lleva E4–G4–E4 entre dos cuerdas sin cambiar la altura ni el ritmo.",
+                "de": "Spiele E4–G4–E4 auf zwei Saiten mit gleicher Tonhöhe und gleichem Rhythmus.",
+                "ja": "E4–G4–E4を、音高とリズムを変えずに二本の弦で弾き分けます。",
+                "zh-Hans": "把E4–G4–E4换到另一根弦上，保持音高与节奏不变。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/position-bridges/lessons/guitar-unison-string-detective-20260915/lesson.md"
             }
           ]
         },
@@ -4860,6 +4885,31 @@
                 "zh-Hans": "在最高点反转C大调音型，不重复顶端音。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/piano-thirds-turnaround-20260912/lesson.md"
+            },
+            {
+              "id": "bass-three-note-carousel-20260915",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The three-note carousel",
+                "pt-BR": "O carrossel de três notas",
+                "es": "El carrusel de tres notas",
+                "de": "Das Karussell aus drei Tönen",
+                "ja": "三音のメリーゴーラウンド",
+                "zh-Hans": "三音旋转木马"
+              },
+              "summaries": {
+                "en": "Rotate C–D–E through three starting notes while keeping beat four silent.",
+                "pt-BR": "Gire C–D–E entre três notas iniciais e mantenha o quarto tempo em silêncio.",
+                "es": "Rota C–D–E entre tres notas iniciales y deja en silencio el cuarto pulso.",
+                "de": "Lass C–D–E mit drei verschiedenen Anfangstönen kreisen und halte Schlag vier frei.",
+                "ja": "C–D–Eの開始音を順に入れ替え、四拍目の休符を保ちます。",
+                "zh-Hans": "轮换C–D–E的起始音，同时让第四拍保持安静。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/bass-three-note-carousel-20260915/lesson.md"
             }
           ]
         },
@@ -11779,6 +11829,31 @@
                 "zh-Hans": "录下完整一轮。 选择邻近和弦音，让一条旋律声部平滑穿过每次和声变化。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-voice-leading-through-changes/lessons/scale-advanced-voice-leading-through-changes-full-chorus/lesson.md"
+            },
+            {
+              "id": "piano-common-tone-balance-20260915",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "One note, two harmonic roles",
+                "pt-BR": "Uma nota, duas funções harmônicas",
+                "es": "Una nota, dos funciones armónicas",
+                "de": "Ein Ton, zwei harmonische Rollen",
+                "ja": "一つの音、二つの和声的役割",
+                "zh-Hans": "一个音，两种和声角色"
+              },
+              "summaries": {
+                "en": "Keep repeated E4 clearly audible as the left hand changes from C major to A minor.",
+                "pt-BR": "Mantenha o E4 repetido em destaque enquanto a mão esquerda muda de dó maior para lá menor.",
+                "es": "Mantén el E4 repetido en primer plano mientras la izquierda pasa de do mayor a la menor.",
+                "de": "Lass wiederholtes E4 hervortreten, während die linke Hand von C-Dur nach a-Moll wechselt.",
+                "ja": "左手がハ長調からイ短調へ移る間、繰り返すE4をはっきり聴かせます。",
+                "zh-Hans": "左手从C大调转向A小调时，让重复的E4始终清楚突出。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-voice-leading-through-changes/lessons/piano-common-tone-balance-20260915/lesson.md"
             }
           ]
         },
