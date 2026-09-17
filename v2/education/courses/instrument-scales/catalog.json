@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 26,
+  "revision": 27,
   "sections": [
     {
       "id": "beginner",
@@ -3718,6 +3718,31 @@
                 "zh-Hans": "保持四个起音位置不变，交替弹奏一拍与半拍的音。"
               },
               "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/guitar-gate-length-duel-20260911/lesson.md"
+            },
+            {
+              "id": "bass-silent-octave-20260916",
+              "order": 15,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The silent octave jump",
+                "pt-BR": "O salto de oitava silencioso",
+                "es": "El salto de octava silencioso",
+                "de": "Der stille Oktavsprung",
+                "ja": "無音からのオクターブ跳躍",
+                "zh-Hans": "无声的八度跳跃"
+              },
+              "summaries": {
+                "en": "Mute a full beat before landing on the upper octave in time.",
+                "pt-BR": "Abafe um tempo inteiro antes de chegar à oitava aguda sem atraso.",
+                "es": "Silencia un tiempo completo antes de llegar puntualmente a la octava aguda.",
+                "de": "Dämpfe einen ganzen Schlag und lande pünktlich auf der oberen Oktave.",
+                "ja": "1拍を完全に消音してから、高いオクターブへ正確に入ります。",
+                "zh-Hans": "完整消音一拍，然后准时落到高八度。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-silent-octave-20260916/lesson.md"
             }
           ]
         },
@@ -4587,6 +4612,31 @@
                 "zh-Hans": "录下完整练习。 平稳跨过八度分界，并在两个音区连接同一形状。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-register-bridges/lessons/scale-intermediate-register-bridges-full-study/lesson.md"
+            },
+            {
+              "id": "piano-register-postcard-20260916",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "A postcard one octave higher",
+                "pt-BR": "Um cartão-postal uma oitava acima",
+                "es": "Una postal una octava más arriba",
+                "de": "Eine Postkarte eine Oktave höher",
+                "ja": "1オクターブ上への絵はがき",
+                "zh-Hans": "寄往高八度的明信片"
+              },
+              "summaries": {
+                "en": "Move a short pentatonic phrase up an octave during a measured rest.",
+                "pt-BR": "Mova uma frase pentatônica uma oitava acima durante uma pausa medida.",
+                "es": "Mueve una frase pentatónica una octava durante un silencio medido.",
+                "de": "Versetze eine pentatonische Phrase während einer abgezählten Pause um eine Oktave.",
+                "ja": "数えた休符の間に、短いペンタトニックのフレーズを別の音域へ運びます。",
+                "zh-Hans": "在数清的休止中，把短小的五声音阶乐句移高八度。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-register-bridges/lessons/piano-register-postcard-20260916/lesson.md"
             }
           ]
         },
@@ -5829,6 +5879,31 @@
                 "zh-Hans": "听出并重现C大调的F与C利底亚调式的F♯之间的差别。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/piano-fourth-color-test-20260914/lesson.md"
+            },
+            {
+              "id": "guitar-phrygian-doorbell-20260916",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The Phrygian doorbell",
+                "pt-BR": "A campainha frígia",
+                "es": "El timbre frigio",
+                "de": "Die phrygische Türklingel",
+                "ja": "フリジアンの呼び鈴",
+                "zh-Hans": "弗里几亚门铃"
+              },
+              "summaries": {
+                "en": "Answer an E tonal center with the flat second, then resolve by a semitone.",
+                "pt-BR": "Responda a um centro em Mi com a segunda menor e resolva por semitom.",
+                "es": "Responde a un centro en Mi con la segunda menor y resuelve por semitono.",
+                "de": "Beantworte das tonale Zentrum E mit der kleinen Sekunde und löse sie auf.",
+                "ja": "Eを中心に短2度を鳴らし、半音下の主音へ解決します。",
+                "zh-Hans": "以E为中心，用小二度制造张力，再下行半音解决。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-phrygian-doorbell-20260916/lesson.md"
             }
           ]
         },
