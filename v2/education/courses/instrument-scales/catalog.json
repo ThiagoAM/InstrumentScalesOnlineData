@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 27,
+  "revision": 28,
   "sections": [
     {
       "id": "beginner",
@@ -4960,6 +4960,31 @@
                 "zh-Hans": "轮换C–D–E的起始音，同时让第四拍保持安静。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/bass-three-note-carousel-20260915/lesson.md"
+            },
+            {
+              "id": "guitar-string-skip-triangle-20260917",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The string-skip triangle",
+                "pt-BR": "O triângulo que salta cordas",
+                "es": "El triángulo que salta cuerdas",
+                "de": "Das Dreieck mit Saitensprung",
+                "ja": "弦を飛び越える三角形",
+                "zh-Hans": "跳弦三角形"
+              },
+              "summaries": {
+                "en": "Play a C-major arpeggio across a skipped string without sounding the unused string.",
+                "pt-BR": "Toque um arpejo de dó maior saltando uma corda sem deixar a corda intermediária soar.",
+                "es": "Toca un arpegio de do mayor saltando una cuerda sin hacer sonar la cuerda intermedia.",
+                "de": "Spiele ein C-Dur-Arpeggio mit Saitensprung, ohne die übersprungene Saite anzuschlagen.",
+                "ja": "間の弦を鳴らさず、弦を飛び越えてCメジャーのアルペジオを弾きます。",
+                "zh-Hans": "跳过中间的弦弹奏C大三和弦琶音，不让被跳过的弦发声。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-string-skip-triangle-20260917/lesson.md"
             }
           ]
         },
@@ -11631,6 +11656,31 @@
                 "zh-Hans": "不中断完成两小节。 把固定动机沿节拍移位，在音符不变时听重音如何变化。 对比卡片中A使用G混合利底亚，B使用G混合利底亚。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/scale-advanced-rhythmic-displacement-no-drift/lesson.md"
+            },
+            {
+              "id": "piano-half-beat-shadow-20260917",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "The half-beat shadow",
+                "pt-BR": "A sombra de meio tempo",
+                "es": "La sombra de medio pulso",
+                "de": "Der Schatten auf dem halben Schlag",
+                "ja": "半拍遅れる影",
+                "zh-Hans": "晚半拍的影子"
+              },
+              "summaries": {
+                "en": "Move the same three-note motif half a beat later while keeping the left-hand pulse fixed.",
+                "pt-BR": "Desloque o mesmo motivo de três notas por meio tempo, mantendo o pulso da mão esquerda fixo.",
+                "es": "Desplaza el mismo motivo de tres notas medio pulso más tarde, manteniendo fijo el pulso izquierdo.",
+                "de": "Verschiebe dasselbe Dreitonmotiv um einen halben Schlag, während der Puls der linken Hand fest bleibt.",
+                "ja": "左手の拍を固定したまま、同じ3音のモチーフを半拍後ろへずらします。",
+                "zh-Hans": "把同一个三音动机推迟半拍，同时保持左手节拍不动。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/piano-half-beat-shadow-20260917/lesson.md"
             }
           ]
         },
@@ -12202,6 +12252,31 @@
                 "zh-Hans": "录下完整一轮。 在和弦切换的明确调内目标音之前，紧接一个半音邻音。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/scale-advanced-chromatic-approaches-full-chorus/lesson.md"
+            },
+            {
+              "id": "bass-chromatic-pickup-pair-20260917",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Two chromatic doorsteps",
+                "pt-BR": "Dois degraus cromáticos",
+                "es": "Dos escalones cromáticos",
+                "de": "Zwei chromatische Türschwellen",
+                "ja": "半音で玄関へ",
+                "zh-Hans": "两个半音门阶"
+              },
+              "summaries": {
+                "en": "Place a lower chromatic pickup on beat four and land on the next root on beat one.",
+                "pt-BR": "Coloque uma aproximação cromática inferior no quarto tempo e chegue à próxima fundamental no primeiro.",
+                "es": "Coloca una aproximación cromática inferior en el cuarto pulso y llega a la siguiente fundamental en el primero.",
+                "de": "Spiele einen chromatischen Auftakt von unten auf Schlag vier und lande auf dem nächsten Grundton auf eins.",
+                "ja": "4拍目に下からの半音アプローチを置き、次の1拍目で根音へ着地します。",
+                "zh-Hans": "在第四拍弹下方半音趋近音，并在下一小节第一拍落到根音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md"
             }
           ]
         },
