@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 28,
+  "revision": 29,
   "sections": [
     {
       "id": "beginner",
@@ -3743,6 +3743,31 @@
                 "zh-Hans": "完整消音一拍，然后准时落到高八度。"
               },
               "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-silent-octave-20260916/lesson.md"
+            },
+            {
+              "id": "bass-waltz-anchor-20260918",
+              "order": 16,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The three-beat anchor",
+                "pt-BR": "A âncora de três tempos",
+                "es": "El ancla de tres pulsos",
+                "de": "Der Dreiertakt-Anker",
+                "ja": "3拍のいかり",
+                "zh-Hans": "三拍的锚点"
+              },
+              "summaries": {
+                "en": "Keep a bass pattern in three without adding a fourth beat.",
+                "pt-BR": "Mantenha o baixo em três sem acrescentar um quarto tempo.",
+                "es": "Mantén el bajo en tres sin añadir un cuarto pulso.",
+                "de": "Halte das Bassmuster in drei Schlägen ohne zusätzlichen vierten Schlag.",
+                "ja": "4拍目を足さずにベースの3拍周期を保ちます。",
+                "zh-Hans": "保持三拍低音型，不多加第四拍。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-waltz-anchor-20260918/lesson.md"
             }
           ]
         },
@@ -4985,6 +5010,31 @@
                 "zh-Hans": "跳过中间的弦弹奏C大三和弦琶音，不让被跳过的弦发声。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-string-skip-triangle-20260917/lesson.md"
+            },
+            {
+              "id": "guitar-retrograde-code-20260918",
+              "order": 14,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The backwards code",
+                "pt-BR": "O código ao contrário",
+                "es": "El código al revés",
+                "de": "Der rückwärts gelesene Code",
+                "ja": "逆読みの暗号",
+                "zh-Hans": "倒读音符密码"
+              },
+              "summaries": {
+                "en": "Reverse four pitches while keeping the same pulse.",
+                "pt-BR": "Inverta quatro notas mantendo a mesma pulsação.",
+                "es": "Invierte cuatro notas manteniendo el mismo pulso.",
+                "de": "Kehre vier Tonhöhen bei gleichem Puls um.",
+                "ja": "4音の順番を逆にして同じ拍を保ちます。",
+                "zh-Hans": "颠倒四个音的顺序，同时保持均匀节拍。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-retrograde-code-20260918/lesson.md"
             }
           ]
         },
@@ -10539,6 +10589,31 @@
                 "zh-Hans": "清楚弹出增二度后，在和弦转换处把G♯解决到A。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md"
+            },
+            {
+              "id": "piano-two-voice-cadence-20260918",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Two voices find home",
+                "pt-BR": "Duas vozes encontram casa",
+                "es": "Dos voces vuelven a casa",
+                "de": "Zwei Stimmen finden heim",
+                "ja": "2声で帰るカデンツ",
+                "zh-Hans": "两个声部一起回家"
+              },
+              "summaries": {
+                "en": "Resolve the third and seventh of E7 into an A-minor ending.",
+                "pt-BR": "Resolva a terça e a sétima de E7 em um final de lá menor.",
+                "es": "Resuelve la tercera y la séptima de E7 en un final de la menor.",
+                "de": "Löse Terz und Septime von E7 in einen a-Moll-Schluss auf.",
+                "ja": "E7の3度と7度をイ短調の終止へ解決します。",
+                "zh-Hans": "把E7的三音与七音解决到A小调终止。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/piano-two-voice-cadence-20260918/lesson.md"
             }
           ]
         },
