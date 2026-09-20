@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 29,
+  "revision": 30,
   "sections": [
     {
       "id": "beginner",
@@ -1260,6 +1260,31 @@
                 "zh-Hans": "录下完整练习。 把可靠的大调动作移到常用调，同时不丢失主音感。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-major-keys-in-reach/lessons/scale-beginner-major-keys-in-reach-full-study/lesson.md"
+            },
+            {
+              "id": "piano-black-key-bridge-20260919",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "The black-key bridge",
+                "pt-BR": "A ponte da tecla preta",
+                "es": "El puente de la tecla negra",
+                "de": "Die Brücke über die schwarze Taste",
+                "ja": "黒鍵を渡る橋",
+                "zh-Hans": "黑键上的小桥"
+              },
+              "summaries": {
+                "en": "Cross from B-flat to C and back without breaking the right-hand pulse.",
+                "pt-BR": "Passe de Si bemol a Dó e volte sem quebrar o pulso da mão direita.",
+                "es": "Cruza de Si bemol a Do y vuelve sin romper el pulso de la mano derecha.",
+                "de": "Wechsle rechts von B nach C und zurück, ohne den Puls zu unterbrechen.",
+                "ja": "右手の拍を保ち、B♭からCへ渡って戻る。",
+                "zh-Hans": "右手从降B跨到C再回来，保持拍子不断。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-major-keys-in-reach/lessons/piano-black-key-bridge-20260919/lesson.md"
             }
           ]
         },
@@ -5333,6 +5358,31 @@
                 "zh-Hans": "把八个均匀的贝斯音按3+3+2分组加重音，同时保持节拍稳定。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-rhythm-inside-the-scale/lessons/bass-three-three-two-20260914/lesson.md"
+            },
+            {
+              "id": "guitar-double-time-lens-20260919",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The stretching melody",
+                "pt-BR": "A melodia que se estica",
+                "es": "La melodía que se estira",
+                "de": "Die gedehnte Melodie",
+                "ja": "伸びるメロディー",
+                "zh-Hans": "会伸长的旋律"
+              },
+              "summaries": {
+                "en": "Double every note length while keeping the metronome unchanged.",
+                "pt-BR": "Dobre a duração de cada nota sem mudar o metrônomo.",
+                "es": "Duplica cada duración sin cambiar el metrónomo.",
+                "de": "Verdopple jede Tondauer bei unverändertem Metronom.",
+                "ja": "メトロノームを変えず、すべての音の長さを2倍にする。",
+                "zh-Hans": "保持节拍器速度不变，把每个音的时值加倍。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-rhythm-inside-the-scale/lessons/guitar-double-time-lens-20260919/lesson.md"
             }
           ]
         },
@@ -10291,6 +10341,31 @@
                 "zh-Hans": "录下完整练习。 让色彩音在实际线条中移动，同时保持每个调式可辨。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-modes-in-motion/lessons/scale-advanced-modes-in-motion-full-study/lesson.md"
+            },
+            {
+              "id": "bass-locrian-fifth-switch-20260919",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The fifth changes the room",
+                "pt-BR": "A quinta muda o ambiente",
+                "es": "La quinta cambia el ambiente",
+                "de": "Die Quinte verändert den Raum",
+                "ja": "5度で変わる響き",
+                "zh-Hans": "五度改变色彩"
+              },
+              "summaries": {
+                "en": "Switch between Bm7 and Bm7♭5 by changing only the fifth.",
+                "pt-BR": "Alterne Bm7 e Bm7♭5 mudando somente a quinta.",
+                "es": "Alterna Bm7 y Bm7♭5 cambiando solo la quinta.",
+                "de": "Wechsle zwischen Hm7 und Hm7♭5, indem du nur die Quinte änderst.",
+                "ja": "5度だけを変えてBm7とBm7♭5を弾き分ける。",
+                "zh-Hans": "只改变五度音，在Bm7与Bm7♭5之间切换。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-modes-in-motion/lessons/bass-locrian-fifth-switch-20260919/lesson.md"
             }
           ]
         },
