@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 30,
+  "revision": 31,
   "sections": [
     {
       "id": "beginner",
@@ -4389,6 +4389,31 @@
                 "zh-Hans": "在相同上行后，选择古典或爵士旋律小调的下行方式。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-three-minor-colors/lessons/piano-minor-descent-fork-20260911/lesson.md"
+            },
+            {
+              "id": "bass-leading-tone-door-20260920",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Choose the last doorstep",
+                "pt-BR": "Escolha o último degrau",
+                "es": "Elige el último peldaño",
+                "de": "Wähle die letzte Stufe",
+                "ja": "最後の一歩を選ぶ",
+                "zh-Hans": "选择最后一级台阶"
+              },
+              "summaries": {
+                "en": "Choose G or G sharp before A without changing the pulse or the rest of the phrase.",
+                "pt-BR": "Escolha Sol ou Sol sustenido antes do Lá sem mudar o pulso nem o restante da frase.",
+                "es": "Elige Sol o Sol sostenido antes de La sin cambiar el pulso ni el resto de la frase.",
+                "de": "Wähle G oder Gis vor A, ohne Puls oder übrige Phrase zu verändern.",
+                "ja": "拍と他の音を変えずに、ラの直前でソかソ♯を選びます。",
+                "zh-Hans": "在A前选择G或G升音，同时保持节拍与其余音不变。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-three-minor-colors/lessons/bass-leading-tone-door-20260920/lesson.md"
             }
           ]
         },
@@ -5060,6 +5085,31 @@
                 "zh-Hans": "颠倒四个音的顺序，同时保持均匀节拍。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-retrograde-code-20260918/lesson.md"
+            },
+            {
+              "id": "guitar-pedal-thread-20260920",
+              "order": 15,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The returning thread",
+                "pt-BR": "O fio que sempre volta",
+                "es": "El hilo que vuelve",
+                "de": "Der wiederkehrende Faden",
+                "ja": "戻ってくる糸",
+                "zh-Hans": "反复归来的线"
+              },
+              "summaries": {
+                "en": "Keep returning to A while a second line climbs through three pentatonic notes.",
+                "pt-BR": "Volte ao Lá enquanto uma segunda linha sobe por três notas pentatônicas.",
+                "es": "Vuelve a La mientras una segunda línea sube por tres notas pentatónicas.",
+                "de": "Kehre zu A zurück, während eine zweite Linie durch drei pentatonische Töne steigt.",
+                "ja": "ラへ戻りながら、上の声部でペンタトニックの3音を上行させます。",
+                "zh-Hans": "不断回到A，让上方声部沿五声音阶的三个音上行。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-pedal-thread-20260920/lesson.md"
             }
           ]
         },
@@ -6625,6 +6675,31 @@
                 "zh-Hans": "听辨并复奏C上方的小七度与大七度。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/bass-seventh-ear-code-20260912/lesson.md"
+            },
+            {
+              "id": "piano-missing-middle-20260920",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Recover the missing middle",
+                "pt-BR": "Recupere a nota do meio",
+                "es": "Recupera la nota del medio",
+                "de": "Finde den fehlenden Ton",
+                "ja": "抜けた真ん中の音",
+                "zh-Hans": "找回中间的音"
+              },
+              "summaries": {
+                "en": "Remember whether the second note was D or E and restore it in the next bar.",
+                "pt-BR": "Lembre se a segunda nota era Ré ou Mi e recoloque-a no compasso seguinte.",
+                "es": "Recuerda si la segunda nota era Re o Mi y repónla en el siguiente compás.",
+                "de": "Merke dir D oder E als zweiten Ton und ergänze ihn im nächsten Takt.",
+                "ja": "2音目がレかミかを覚えて、次の小節で補います。",
+                "zh-Hans": "记住第二音是D还是E，并在下一小节补回它。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/piano-missing-middle-20260920/lesson.md"
             }
           ]
         },
