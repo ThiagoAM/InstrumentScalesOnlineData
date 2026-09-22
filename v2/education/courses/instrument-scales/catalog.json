@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 31,
+  "revision": 32,
   "sections": [
     {
       "id": "beginner",
@@ -2650,6 +2650,31 @@
                 "zh-Hans": "录下八小节。 把小音阶动机塑造成提问、回答、高潮、留白与可信结尾。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-shape-the-phrase/lessons/scale-beginner-shape-the-phrase-eight-bars/lesson.md"
+            },
+            {
+              "id": "guitar-dynamic-arch-20260921",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The four-note volume arch",
+                "pt-BR": "O arco de volume em quatro notas",
+                "es": "El arco de volumen en cuatro notas",
+                "de": "Der Lautstärkebogen aus vier Tönen",
+                "ja": "4音で描く音量の山",
+                "zh-Hans": "四个音的音量小山"
+              },
+              "summaries": {
+                "en": "Shape four repeated notes into a rise and fall without changing their timing.",
+                "pt-BR": "Dê a quatro notas repetidas uma subida e uma descida de volume sem mudar o ritmo.",
+                "es": "Da a cuatro notas repetidas una subida y una bajada de volumen sin cambiar el ritmo.",
+                "de": "Forme aus vier gleichen Tönen einen Lautstärkebogen, ohne ihr Timing zu verändern.",
+                "ja": "同じ音を4回弾き、タイミングを変えずに音量を上げて戻します。",
+                "zh-Hans": "用四个重复音做出音量的上升与回落，同时保持原来的节奏。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-shape-the-phrase/lessons/guitar-dynamic-arch-20260921/lesson.md"
             }
           ]
         },
@@ -4712,6 +4737,31 @@
                 "zh-Hans": "在数清的休止中，把短小的五声音阶乐句移高八度。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-register-bridges/lessons/piano-register-postcard-20260916/lesson.md"
+            },
+            {
+              "id": "piano-contrary-wedge-20260921",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "The widening wedge",
+                "pt-BR": "A cunha que se abre",
+                "es": "La cuña que se abre",
+                "de": "Der sich öffnende Keil",
+                "ja": "両手で開くくさび",
+                "zh-Hans": "双手打开的楔形"
+              },
+              "summaries": {
+                "en": "Open and close a two-hand wedge while keeping each pair of notes simultaneous.",
+                "pt-BR": "Abra e feche uma cunha com as duas mãos, mantendo simultâneos os pares de notas.",
+                "es": "Abre y cierra una cuña con ambas manos manteniendo simultáneos los pares de notas.",
+                "de": "Öffne und schließe einen Keil mit beiden Händen und schlage jedes Tonpaar gleichzeitig an.",
+                "ja": "両手の音を同時に鳴らしながら、くさびの形を開いて閉じます。",
+                "zh-Hans": "让双手像楔形一样打开再合拢，同时保证每对音一起发声。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-register-bridges/lessons/piano-contrary-wedge-20260921/lesson.md"
             }
           ]
         },
@@ -11608,6 +11658,31 @@
                 "zh-Hans": "录下完整练习。 连接四度、五度、六度和跨八度跳进，不切断旋律线。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/scale-advanced-wide-interval-lines-full-study/lesson.md"
+            },
+            {
+              "id": "bass-fifth-ceiling-20260921",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "One ceiling, two fifths",
+                "pt-BR": "Um teto, duas quintas",
+                "es": "Un techo, dos quintas",
+                "de": "Eine Decke, zwei Quinten",
+                "ja": "同じソ、違う距離",
+                "zh-Hans": "同一个Sol，不同的距离"
+              },
+              "summaries": {
+                "en": "Reach the same upper G from C, then descend from G to C with equal timing.",
+                "pt-BR": "Alcance o Sol acima do Dó e volte pela mesma quinta com ritmo uniforme.",
+                "es": "Alcanza el Sol por encima de Do y regresa por la misma quinta con ritmo uniforme.",
+                "de": "Erreiche das G über C und kehre mit gleichmäßigem Timing über dieselbe Quinte zurück.",
+                "ja": "ドから上のソへ跳び、同じ5度を戻りながら一定の拍を保ちます。",
+                "zh-Hans": "从Do跳到上方的Sol，再沿同一个五度返回，保持均匀节奏。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/bass-fifth-ceiling-20260921/lesson.md"
             }
           ]
         },
