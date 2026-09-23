@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 32,
+  "revision": 33,
   "sections": [
     {
       "id": "beginner",
@@ -6129,6 +6129,31 @@
                 "zh-Hans": "以E为中心，用小二度制造张力，再下行半音解决。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-phrygian-doorbell-20260916/lesson.md"
+            },
+            {
+              "id": "guitar-mixolydian-seventh-signal-20260922",
+              "order": 14,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The seventh changes the sign",
+                "pt-BR": "A sétima muda o sinal",
+                "es": "La séptima cambia la señal",
+                "de": "Die Septime stellt das Signal um",
+                "ja": "第7音で合図を変える",
+                "zh-Hans": "用第七级切换信号"
+              },
+              "summaries": {
+                "en": "Hear and play F instead of F-sharp to mark G Mixolydian over G7.",
+                "pt-BR": "Ouça e toque F no lugar de Fá sustenido para marcar Sol mixolídio sobre G7.",
+                "es": "Escucha y toca F en vez de Fa sostenido para marcar Sol mixolidio sobre G7.",
+                "de": "Höre und spiele F statt Fis, um G-Mixolydisch über G7 zu markieren.",
+                "ja": "G7の上でF#ではなくFを弾き、Gミクソリディアンを聞き分けます。",
+                "zh-Hans": "在G7上弹F而不是F#，辨认G混合利底亚调式。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-mixolydian-seventh-signal-20260922/lesson.md"
             }
           ]
         },
@@ -11087,6 +11112,31 @@
                 "zh-Hans": "听一遍后复现C旋律小调与B变化音阶。 从一个旋律小调母音阶追踪实用调式及其特征变化音。 对比卡片中A使用C旋律小调，B使用B变化音。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-melodic-minor-map/lessons/scale-advanced-melodic-minor-map-one-listen/lesson.md"
+            },
+            {
+              "id": "piano-raised-sixth-compass-20260922",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "The sixth points the way",
+                "pt-BR": "A sexta aponta o caminho",
+                "es": "La sexta señala el camino",
+                "de": "Die Sexte zeigt den Weg",
+                "ja": "第6音が道を示す",
+                "zh-Hans": "第六级指明方向"
+              },
+              "summaries": {
+                "en": "Change Ab to A while keeping B as the leading tone to hear C melodic minor.",
+                "pt-BR": "Troque Ab por A mantendo B como sensível para ouvir Dó menor melódica.",
+                "es": "Cambia Ab por A manteniendo B como sensible para escuchar Do menor melódica.",
+                "de": "Ersetze As durch A und behalte H als Leitton, um c-Moll melodisch zu hören.",
+                "ja": "導音Bを保ったままAbをAに変え、Cメロディック・マイナーを聴きます。",
+                "zh-Hans": "保留导音B，把Ab改成A，听出C旋律小调。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-melodic-minor-map/lessons/piano-raised-sixth-compass-20260922/lesson.md"
             }
           ]
         },
@@ -11683,6 +11733,31 @@
                 "zh-Hans": "从Do跳到上方的Sol，再沿同一个五度返回，保持均匀节奏。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/bass-fifth-ceiling-20260921/lesson.md"
+            },
+            {
+              "id": "bass-tenth-landing-20260922",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The tenth has two colors",
+                "pt-BR": "A décima tem duas cores",
+                "es": "La décima tiene dos colores",
+                "de": "Die Dezime hat zwei Farben",
+                "ja": "10度の二つの色",
+                "zh-Hans": "十度有两种色彩"
+              },
+              "summaries": {
+                "en": "Leap from A1 to C3 or C-sharp3 to distinguish a minor from a major tenth.",
+                "pt-BR": "Salte de A1 para C3 ou C#3 e diferencie a décima menor da maior.",
+                "es": "Salta de A1 a C3 o C#3 para distinguir la décima menor de la mayor.",
+                "de": "Springe von A1 nach C3 oder Cis3 und unterscheide kleine und große Dezime.",
+                "ja": "A1からC3またはC#3へ跳び、短10度と長10度を弾き分けます。",
+                "zh-Hans": "从A1跳到C3或C#3，区分小十度和大十度。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/bass-tenth-landing-20260922/lesson.md"
             }
           ]
         },
