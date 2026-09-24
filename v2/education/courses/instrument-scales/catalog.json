@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 33,
+  "revision": 34,
   "sections": [
     {
       "id": "beginner",
@@ -3818,6 +3818,31 @@
                 "zh-Hans": "保持三拍低音型，不多加第四拍。"
               },
               "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-waltz-anchor-20260918/lesson.md"
+            },
+            {
+              "id": "bass-early-root-signal-20260923",
+              "order": 17,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": false,
+              "titles": {
+                "en": "The root arrives early",
+                "pt-BR": "A fundamental chega antes",
+                "es": "La fundamental llega temprano",
+                "de": "Der Grundton kommt früher",
+                "ja": "根音が半拍早く到着",
+                "zh-Hans": "根音提前半拍到达"
+              },
+              "summaries": {
+                "en": "Anticipate G7 by playing its root on the and of four before the new bar begins.",
+                "pt-BR": "Antecipe G7 tocando sua fundamental no contratempo do quarto tempo, antes do novo compasso.",
+                "es": "Anticipa G7 tocando su fundamental en el “y” del cuarto pulso antes del nuevo compás.",
+                "de": "Nimm G7 vorweg, indem du seinen Grundton auf dem Und von Schlag vier vor dem neuen Takt spielst.",
+                "ja": "次の小節より前、4拍目の裏でG7の根音を弾いて和音を先取りします。",
+                "zh-Hans": "在新小节之前的第四拍后半拍弹出G7根音，提前提示和弦。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-early-root-signal-20260923/lesson.md"
             }
           ]
         },
@@ -6154,6 +6179,31 @@
                 "zh-Hans": "在G7上弹F而不是F#，辨认G混合利底亚调式。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-mixolydian-seventh-signal-20260922/lesson.md"
+            },
+            {
+              "id": "guitar-lydian-fourth-flash-20260923",
+              "order": 15,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "The raised fourth flashes",
+                "pt-BR": "O brilho da quarta aumentada",
+                "es": "El destello de la cuarta aumentada",
+                "de": "Die übermäßige Quarte blitzt auf",
+                "ja": "増4度が光る",
+                "zh-Hans": "升四度闪光"
+              },
+              "summaries": {
+                "en": "Hear and play F-sharp, the raised fourth that turns a C-major fragment into C Lydian.",
+                "pt-BR": "Ouça e toque Fá sustenido, a quarta aumentada que transforma um trecho de dó maior em dó lídio.",
+                "es": "Escucha y toca Fa sostenido, la cuarta aumentada que convierte un fragmento de do mayor en do lidio.",
+                "de": "Höre und spiele Fis, die übermäßige Quarte, die aus einem C-Dur-Ausschnitt C-Lydisch macht.",
+                "ja": "Cメジャーの断片をCリディアンに変える増4度F#を聴き分け、弾きます。",
+                "zh-Hans": "听辨并弹出F#这个升四度，让C大调片段变为C利底亚调式。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-lydian-fourth-flash-20260923/lesson.md"
             }
           ]
         },
@@ -12354,6 +12404,31 @@
                 "zh-Hans": "左手从C大调转向A小调时，让重复的E4始终清楚突出。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-voice-leading-through-changes/lessons/piano-common-tone-balance-20260915/lesson.md"
+            },
+            {
+              "id": "piano-guide-tone-sigh-20260923",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "A half-step sigh across the bar",
+                "pt-BR": "Um suspiro de semitom entre compassos",
+                "es": "Un suspiro de semitono entre compases",
+                "de": "Ein Halbtonseufzer über den Taktstrich",
+                "ja": "小節を越える半音のため息",
+                "zh-Hans": "跨小节的半音叹息"
+              },
+              "summaries": {
+                "en": "Move the right hand from F, G7's seventh, to E, Cmaj7's third, exactly at the chord change.",
+                "pt-BR": "Mova a mão direita de F, sétima de G7, para E, terça de Cmaj7, exatamente na troca de acorde.",
+                "es": "Mueve la derecha de F, séptima de G7, a E, tercera de Cmaj7, justo al cambiar el acorde.",
+                "de": "Führe rechts F, die Septime von G7, genau beim Akkordwechsel zu E, der Terz von Cmaj7.",
+                "ja": "コードが変わる瞬間、右手をG7の第7音FからCmaj7の第3音Eへ動かします。",
+                "zh-Hans": "和弦切换时，右手从G7的七音F准确移到Cmaj7的三音E。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-voice-leading-through-changes/lessons/piano-guide-tone-sigh-20260923/lesson.md"
             }
           ]
         },
