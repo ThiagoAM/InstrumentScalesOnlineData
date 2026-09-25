@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 34,
+  "revision": 35,
   "sections": [
     {
       "id": "beginner",
@@ -1558,6 +1558,31 @@
                 "zh-Hans": "录下完整练习。 用小三、降六和降七建立自然小调，并稳住主音。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/scale-beginner-natural-minor-groundwork-full-study/lesson.md"
+            },
+            {
+              "id": "bass-minor-third-switch-20260924",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The minor third on one string",
+                "pt-BR": "A terça menor na mesma corda",
+                "es": "La tercera menor en una cuerda",
+                "de": "Die kleine Terz auf einer Saite",
+                "ja": "同じ弦で短3度を探す",
+                "zh-Hans": "在同一根弦找到小三度"
+              },
+              "summaries": {
+                "en": "Move one fret from C-sharp to C to hear the minor third of A without losing the fifth E.",
+                "pt-BR": "Desça de C# para C em uma casa e ouça a terça menor de A sem perder a quinta E.",
+                "es": "Baja un traste de C# a C y escucha la tercera menor de A sin perder la quinta E.",
+                "de": "Gehe einen Bund von Cis zu C und höre die kleine Terz von A, während E als Quinte bleibt.",
+                "ja": "C#からCへ1フレット下げ、5度Eを保ったままAの短3度を聴きます。",
+                "zh-Hans": "从C#向下移动一品到C，保留五度E，听出A的小三度。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-minor-third-switch-20260924/lesson.md"
             }
           ]
         },
@@ -6204,6 +6229,31 @@
                 "zh-Hans": "听辨并弹出F#这个升四度，让C大调片段变为C利底亚调式。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-lydian-fourth-flash-20260923/lesson.md"
+            },
+            {
+              "id": "guitar-aeolian-dorian-sixth-20260924",
+              "order": 16,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "One fret changes the sixth",
+                "pt-BR": "Uma casa muda a sexta",
+                "es": "Un traste cambia la sexta",
+                "de": "Ein Bund verändert die Sexte",
+                "ja": "1フレットで変わる第6音",
+                "zh-Hans": "一品之差改变六度"
+              },
+              "summaries": {
+                "en": "Contrast F with F-sharp to hear A Aeolian turn into A Dorian.",
+                "pt-BR": "Compare F com Fá sustenido para ouvir lá eólio virar lá dórico.",
+                "es": "Compara Fa con Fa sostenido para oír cómo la eólica de la se vuelve dórica.",
+                "de": "Vergleiche F mit Fis und höre, wie A-Äolisch zu A-Dorisch wird.",
+                "ja": "FとF#を比べ、AエオリアンがAドリアンへ変わる響きを聴きます。",
+                "zh-Hans": "比较F与F#，听A爱奥利亚变为A多利亚的音色。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-aeolian-dorian-sixth-20260924/lesson.md"
             }
           ]
         },
@@ -12106,6 +12156,31 @@
                 "zh-Hans": "把同一个三音动机推迟半拍，同时保持左手节拍不动。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/piano-half-beat-shadow-20260917/lesson.md"
+            },
+            {
+              "id": "piano-melody-rest-shift-20260924",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Let the melody enter late",
+                "pt-BR": "Deixe a melodia entrar depois",
+                "es": "Deja entrar tarde la melodía",
+                "de": "Die Melodie setzt später ein",
+                "ja": "旋律を1拍遅らせる",
+                "zh-Hans": "让旋律晚一拍进入"
+              },
+              "summaries": {
+                "en": "Move a four-note C-major motif one beat later while the left-hand pulse stays fixed.",
+                "pt-BR": "Desloque um motivo de dó maior um tempo para a frente enquanto o pulso da esquerda fica fixo.",
+                "es": "Desplaza un motivo de do mayor un pulso más tarde mientras la izquierda mantiene el pulso.",
+                "de": "Verschiebe ein viertöniges C-Dur-Motiv um einen Schlag, während links der Puls bleibt.",
+                "ja": "左手の拍を保ったまま、Cメジャーの4音動機を1拍遅らせます。",
+                "zh-Hans": "左手保持固定节拍，把四音C大调动机推迟一拍。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/piano-melody-rest-shift-20260924/lesson.md"
             }
           ]
         },
