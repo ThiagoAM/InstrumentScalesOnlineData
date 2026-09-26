@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 35,
+  "revision": 36,
   "sections": [
     {
       "id": "beginner",
@@ -1856,6 +1856,31 @@
                 "zh-Hans": "录下完整练习。 用大调和小调五声音集做出清楚的形状与完整短句。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/scale-beginner-pentatonic-first-steps-full-study/lesson.md"
+            },
+            {
+              "id": "bass-pentatonic-seventh-answer-20260925",
+              "order": 11,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The seventh answers back",
+                "pt-BR": "A sétima responde",
+                "es": "La séptima responde",
+                "de": "Die Septime antwortet",
+                "ja": "短7度で答える",
+                "zh-Hans": "用小七度作答"
+              },
+              "summaries": {
+                "en": "Change the end of an A-minor pentatonic call from E to G, then return to A.",
+                "pt-BR": "Troque o fim de uma chamada pentatônica de lá menor de E para G e volte a A.",
+                "es": "Cambia el final de una llamada pentatónica de la menor de E a G y vuelve a A.",
+                "de": "Ändere den Schluss eines A-Moll-Pentatonik-Rufs von E zu G und kehre zu A zurück.",
+                "ja": "Aマイナー・ペンタトニックの呼びかけの終わりをEからGに変え、Aへ戻ります。",
+                "zh-Hans": "把A小调五声音阶呼句的结尾从E换成G，再回到A。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-seventh-answer-20260925/lesson.md"
             }
           ]
         },
@@ -6875,6 +6900,31 @@
                 "zh-Hans": "记住第二音是D还是E，并在下一小节补回它。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/piano-missing-middle-20260920/lesson.md"
+            },
+            {
+              "id": "piano-octave-echo-detective-20260925",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "ear-training",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Octave echo detective",
+                "pt-BR": "Detetive do eco em oitava",
+                "es": "Detective del eco en octava",
+                "de": "Detektiv für das Oktavecho",
+                "ja": "オクターブ上のこだま探偵",
+                "zh-Hans": "八度回声侦探"
+              },
+              "summaries": {
+                "en": "Hear a three-note C-major motif, then reproduce its contour and rhythm one octave higher.",
+                "pt-BR": "Ouça um motivo de três notas em dó maior e reproduza contorno e ritmo uma oitava acima.",
+                "es": "Escucha un motivo de tres notas en do mayor y reproduce su contorno y ritmo una octava arriba.",
+                "de": "Höre ein dreitöniges C-Dur-Motiv und wiederhole Kontur und Rhythmus eine Oktave höher.",
+                "ja": "Cメジャーの3音動機を聴き、輪郭とリズムを1オクターブ上で再現します。",
+                "zh-Hans": "听三音C大调动机，再在高八度重现其走向与节奏。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/piano-octave-echo-detective-20260925/lesson.md"
             }
           ]
         },
@@ -12802,6 +12852,31 @@
                 "zh-Hans": "在第四拍弹下方半音趋近音，并在下一小节第一拍落到根音。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md"
+            },
+            {
+              "id": "guitar-chromatic-third-doors-20260925",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Three doors to the third",
+                "pt-BR": "Três portas para a terça",
+                "es": "Tres puertas a la tercera",
+                "de": "Drei Türen zur Terz",
+                "ja": "半音下から3度へ",
+                "zh-Hans": "从下方半音走向三度"
+              },
+              "summaries": {
+                "en": "Approach the third of Fmaj7, G7 and Cmaj7 from a semitone below on beat four.",
+                "pt-BR": "Aproxime a terça de Fmaj7, G7 e Cmaj7 por um semitom abaixo no quarto tempo.",
+                "es": "Acércate a la tercera de Fmaj7, G7 y Cmaj7 desde un semitono inferior en el cuarto pulso.",
+                "de": "Nähere dich der Terz von Fmaj7, G7 und Cmaj7 auf Schlag vier von einem Halbton darunter.",
+                "ja": "4拍目に半音下からFmaj7、G7、Cmaj7の3度へ進みます。",
+                "zh-Hans": "在第四拍从下方半音接近Fmaj7、G7、Cmaj7的三度音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/guitar-chromatic-third-doors-20260925/lesson.md"
             }
           ]
         },
