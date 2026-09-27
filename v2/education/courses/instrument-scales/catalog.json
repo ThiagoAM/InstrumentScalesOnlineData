@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 36,
+  "revision": 37,
   "sections": [
     {
       "id": "beginner",
@@ -1285,6 +1285,31 @@
                 "zh-Hans": "右手从降B跨到C再回来，保持拍子不断。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-major-keys-in-reach/lessons/piano-black-key-bridge-20260919/lesson.md"
+            },
+            {
+              "id": "piano-d-major-thumb-gate-20260926",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "The D-major thumb gate",
+                "pt-BR": "O portão do polegar em ré maior",
+                "es": "La puerta del pulgar en re mayor",
+                "de": "Das Daumen-Tor in D-Dur",
+                "ja": "Dメジャーの親指ゲート",
+                "zh-Hans": "D大调拇指关卡"
+              },
+              "summaries": {
+                "en": "Cross the right thumb under after F-sharp to play a five-note D-major run without a gap in the pulse.",
+                "pt-BR": "Passe o polegar direito por baixo após Fá sustenido e toque cinco notas de ré maior sem interromper o pulso.",
+                "es": "Pasa el pulgar derecho por debajo tras Fa sostenido y toca cinco notas de re mayor sin cortar el pulso.",
+                "de": "Führe nach Fis den rechten Daumen unter der Hand hindurch und spiele fünf D-Dur-Töne ohne Pulslücke.",
+                "ja": "F#の後に右手親指をくぐらせ、拍を途切れさせずDメジャーの5音を弾きます。",
+                "zh-Hans": "在F#之后让右手拇指从手下穿过，连续弹奏D大调五音而不丢拍。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-major-keys-in-reach/lessons/piano-d-major-thumb-gate-20260926/lesson.md"
             }
           ]
         },
@@ -5235,6 +5260,31 @@
                 "zh-Hans": "不断回到A，让上方声部沿五声音阶的三个音上行。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-pedal-thread-20260920/lesson.md"
+            },
+            {
+              "id": "guitar-third-step-staircase-20260926",
+              "order": 16,
+              "estimatedMinutes": 7,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The thirds staircase",
+                "pt-BR": "A escada de terças",
+                "es": "La escalera de terceras",
+                "de": "Die Terzenleiter",
+                "ja": "3度の階段",
+                "zh-Hans": "三度音阶梯"
+              },
+              "summaries": {
+                "en": "Climb C-major diatonic thirds by stepping the start note up one degree while keeping a silent beat between pairs.",
+                "pt-BR": "Suba terças diatônicas em dó maior, movendo o início um grau por vez e mantendo um tempo de silêncio entre pares.",
+                "es": "Sube terceras diatónicas en do mayor, avanzando el inicio un grado y dejando un pulso de silencio entre parejas.",
+                "de": "Steige in C-Dur durch diatonische Terzen, versetze jeden Startton um eine Stufe und lasse zwischen Paaren einen stummen Schlag.",
+                "ja": "Cメジャーで始点を1音ずつ上げながら3度を弾き、各組の間に1拍の休符を入れます。",
+                "zh-Hans": "在C大调中每组起音上移一级，弹出自然音阶三度，并在每组之间留一拍休止。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-third-step-staircase-20260926/lesson.md"
             }
           ]
         },
@@ -6577,6 +6627,31 @@
                 "zh-Hans": "每个C大三和弦与F大三和弦小节都从三度开始，第四拍留白。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/bass-third-first-20260913/lesson.md"
+            },
+            {
+              "id": "bass-seventh-to-third-bridge-20260926",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "improvisation",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The seventh hands off to the third",
+                "pt-BR": "Da sétima à terça",
+                "es": "De la séptima a la tercera",
+                "de": "Von der Septime zur Terz",
+                "ja": "7度から3度へ受け渡す",
+                "zh-Hans": "七度交给三度"
+              },
+              "summaries": {
+                "en": "Connect G7 to Cmaj7 by moving F, the dominant seventh, down a semitone to E, the new chord third, on the barline.",
+                "pt-BR": "Ligue G7 a Cmaj7 movendo F, sétima da dominante, um semitom abaixo até E, terça do novo acorde, na virada do compasso.",
+                "es": "Une G7 con Cmaj7 bajando F, séptima de dominante, un semitono hasta E, tercera del nuevo acorde, al cambiar de compás.",
+                "de": "Verbinde G7 mit Cmaj7: F als Dominantseptime fällt am Taktstrich einen Halbton zu E, der Terz des neuen Akkords.",
+                "ja": "小節線でG7の7度Fを半音下のEへ進め、Cmaj7の3度に着地します。",
+                "zh-Hans": "在小节线处把G7的七音F下行半音至E，落在Cmaj7的三音上。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/bass-seventh-to-third-bridge-20260926/lesson.md"
             }
           ]
         },
