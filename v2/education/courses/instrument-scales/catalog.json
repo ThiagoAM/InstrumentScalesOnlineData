@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 37,
+  "revision": 38,
   "sections": [
     {
       "id": "beginner",
@@ -1608,6 +1608,31 @@
                 "zh-Hans": "从C#向下移动一品到C，保留五度E，听出A的小三度。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-minor-third-switch-20260924/lesson.md"
+            },
+            {
+              "id": "bass-flat-seventh-home-20260927",
+              "order": 12,
+              "estimatedMinutes": 6,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The flat seventh points home",
+                "pt-BR": "A sétima menor aponta para casa",
+                "es": "La séptima menor señala el hogar",
+                "de": "Die kleine Septime zeigt nach Hause",
+                "ja": "短7度から主音へ帰る",
+                "zh-Hans": "小七度指向主音"
+              },
+              "summaries": {
+                "en": "Hear G as the flat seventh of A minor and return cleanly to A on the next downbeat.",
+                "pt-BR": "Ouça G como sétima menor de lá menor e volte com precisão a A no tempo forte seguinte.",
+                "es": "Escucha G como séptima menor de la menor y vuelve con precisión a A en el siguiente tiempo fuerte.",
+                "de": "Höre G als kleine Septime von A-Moll und kehre auf der nächsten Eins sauber zu A zurück.",
+                "ja": "Aマイナーの短7度Gを聴き、次の小節の頭でAに戻ります。",
+                "zh-Hans": "听辨A小调的小七度G，并在下一小节强拍准确回到A。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-flat-seventh-home-20260927/lesson.md"
             }
           ]
         },
@@ -11660,6 +11685,31 @@
                 "zh-Hans": "双手以全音向内移动，同步折返而不碰撞。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-symmetric-scales/lessons/piano-whole-tone-mirror-20260913/lesson.md"
+            },
+            {
+              "id": "piano-diminished-cell-beacons-20260927",
+              "order": 12,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Two diminished cells, two beacons",
+                "pt-BR": "Duas células diminutas, dois sinais",
+                "es": "Dos células disminuidas, dos señales",
+                "de": "Zwei verminderte Zellen, zwei Signale",
+                "ja": "二つのディミニッシュ・セルと目標音",
+                "zh-Hans": "两个减音阶单元与目标音"
+              },
+              "summaries": {
+                "en": "Repeat a half–whole diminished cell a tritone higher, ending on the third and flat seventh of C7.",
+                "pt-BR": "Repita uma célula diminuta semitom–tom um trítono acima e termine na terça e na sétima menor de C7.",
+                "es": "Repite una célula disminuida semitono–tono un tritono más arriba y termina en la tercera y séptima menor de C7.",
+                "de": "Wiederhole eine Halbton-Ganzton-Zelle einen Tritonus höher und ende auf Terz und kleiner Septime von C7.",
+                "ja": "半音・全音のディミニッシュ形をトライトーン上で繰り返し、C7の3度と短7度に着地します。",
+                "zh-Hans": "把半音－全音减音阶单元升高三全音重复，分别落在C7的三度和小七度。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-symmetric-scales/lessons/piano-diminished-cell-beacons-20260927/lesson.md"
             }
           ]
         },
@@ -12306,6 +12356,31 @@
                 "zh-Hans": "左手保持固定节拍，把四音C大调动机推迟一拍。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/piano-melody-rest-shift-20260924/lesson.md"
+            },
+            {
+              "id": "guitar-offbeat-motif-relay-20260927",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "The half-beat motif relay",
+                "pt-BR": "O revezamento do motivo no contratempo",
+                "es": "Relevo del motivo a contratiempo",
+                "de": "Motiv-Staffel um einen halben Schlag",
+                "ja": "半拍ずらすモチーフ・リレー",
+                "zh-Hans": "半拍错位的动机接力"
+              },
+              "summaries": {
+                "en": "Shift an E-minor three-note motif by half a beat, then land on the next bar’s root.",
+                "pt-BR": "Desloque um motivo de três notas em mi menor por meio tempo e pouse na fundamental do compasso seguinte.",
+                "es": "Desplaza medio pulso un motivo de tres notas en mi menor y llega a la fundamental del compás siguiente.",
+                "de": "Verschiebe ein dreitöniges E-Moll-Motiv um einen halben Schlag und lande im nächsten Takt auf dem Grundton.",
+                "ja": "Eマイナーの3音モチーフを半拍ずらし、次の小節の頭で主音に着地します。",
+                "zh-Hans": "将E小调三音动机错开半拍，并在下一小节第一拍落到根音。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/guitar-offbeat-motif-relay-20260927/lesson.md"
             }
           ]
         },
