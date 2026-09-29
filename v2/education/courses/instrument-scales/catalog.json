@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 38,
+  "revision": 39,
   "sections": [
     {
       "id": "beginner",
@@ -3943,6 +3943,31 @@
                 "zh-Hans": "在新小节之前的第四拍后半拍弹出G7根音，提前提示和弦。"
               },
               "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-early-root-signal-20260923/lesson.md"
+            },
+            {
+              "id": "bass-fifth-after-silence-20260928",
+              "order": 18,
+              "estimatedMinutes": 7,
+              "activity": "rhythm",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The fifth waits for the and",
+                "pt-BR": "A quinta espera o contratempo",
+                "es": "La quinta espera al contratiempo",
+                "de": "Die Quinte wartet auf das Und",
+                "ja": "5度を裏拍まで待つ",
+                "zh-Hans": "五音等到后半拍"
+              },
+              "summaries": {
+                "en": "Leave beat three open, then place the fifth of Dm7 on three-and without moving its seventh on beat four.",
+                "pt-BR": "Deixe o início do terceiro tempo vazio e toque a quinta de Dm7 no contratempo, mantendo a sétima no quarto tempo.",
+                "es": "Deja vacío el inicio del tercer pulso y toca la quinta de Dm7 en el contratiempo, sin mover la séptima del cuarto.",
+                "de": "Lass Schlag drei zunächst frei und setze die Quinte von Dm7 auf drei-und, während die Septime auf vier bleibt.",
+                "ja": "3拍目の表を空け、Dm7の5度を3拍目の裏へ移しても4拍目の7度を動かしません。",
+                "zh-Hans": "第三拍前半留空，把Dm7的五音放在后半拍，同时让七音仍落在第四拍。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-fifth-after-silence-20260928/lesson.md"
             }
           ]
         },
@@ -4564,6 +4589,31 @@
                 "zh-Hans": "在A前选择G或G升音，同时保持节拍与其余音不变。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-three-minor-colors/lessons/bass-leading-tone-door-20260920/lesson.md"
+            },
+            {
+              "id": "piano-sixth-color-pivot-20260928",
+              "order": 13,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "One sixth changes the light",
+                "pt-BR": "Uma sexta muda a cor",
+                "es": "Una sexta cambia el color",
+                "de": "Eine Sexte färbt den Weg",
+                "ja": "6度ひとつで変わる色",
+                "zh-Hans": "一个六度改变色彩"
+              },
+              "summaries": {
+                "en": "Hear and play the F-to-F# change between A harmonic and melodic minor while keeping G# as their shared leading tone.",
+                "pt-BR": "Ouça e toque a troca F–F# entre lá menor harmônica e melódica, mantendo G# como sensível comum.",
+                "es": "Escucha y toca el cambio F–F# entre la menor armónica y melódica, manteniendo G# como sensible común.",
+                "de": "Höre und spiele F gegen F# in A harmonisch und melodisch Moll, während G# als gemeinsamer Leitton bleibt.",
+                "ja": "Aハーモニック・マイナーとメロディック・マイナーのFとF#を聴き比べ、共通の導音G#を保ちます。",
+                "zh-Hans": "听辨并弹出A和声小调与旋律小调之间的F和F#，同时保留共同的导音G#。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-three-minor-colors/lessons/piano-sixth-color-pivot-20260928/lesson.md"
             }
           ]
         },
@@ -10468,6 +10518,31 @@
                 "zh-Hans": "保持每个根音稳定，让右手打开九级音窗口，再将其解决到和弦的三级音。"
               },
               "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md"
+            },
+            {
+              "id": "guitar-third-to-seventh-semitone-20260928",
+              "order": 104,
+              "estimatedMinutes": 7,
+              "activity": "theory",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "One fret, new job",
+                "pt-BR": "Uma casa, nova função",
+                "es": "Un traste, nueva función",
+                "de": "Ein Bund, neue Aufgabe",
+                "ja": "1フレットで役割交代",
+                "zh-Hans": "一品之差，角色转换"
+              },
+              "summaries": {
+                "en": "Move F#4, the third of D7, down one fret to F4, the seventh of G7, exactly at the chord change.",
+                "pt-BR": "Desça F#4, terça de D7, uma casa até F4, sétima de G7, exatamente na troca de acorde.",
+                "es": "Baja F#4, tercera de D7, un traste hasta F4, séptima de G7, justo al cambiar de acorde.",
+                "de": "Führe F#4, die Terz von D7, beim Akkordwechsel einen Bund hinab zu F4, der Septime von G7.",
+                "ja": "D7の3度F#4を、コードがG7に変わる瞬間に1フレット下げて7度F4へつなぎます。",
+                "zh-Hans": "在D7转到G7的瞬间，把D7的三音F#4下降一品，接到G7的七音F4。"
+              },
+              "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-to-seventh-semitone-20260928/lesson.md"
             }
           ]
         },
