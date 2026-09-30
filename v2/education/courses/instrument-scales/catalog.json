@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 39,
+  "revision": 40,
   "sections": [
     {
       "id": "beginner",
@@ -2204,6 +2204,31 @@
                 "zh-Hans": "说出一组混合音程。 从固定低音出发辨认九种常用音程，并准确复现。 对比卡片中A使用C半音，B使用C半音。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-interval-landmarks/lessons/scale-beginner-interval-landmarks-one-listen/lesson.md"
+            },
+            {
+              "id": "bass-second-third-ear-choice-20260929",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Step or small leap?",
+                "pt-BR": "Passo ou pequeno salto?",
+                "es": "¿Paso o pequeño salto?",
+                "de": "Schritt oder kleiner Sprung?",
+                "ja": "一歩か、小さな跳躍か",
+                "zh-Hans": "级进还是小跳？"
+              },
+              "summaries": {
+                "en": "Identify E–F# as a major second and E–G as a minor third from your recording.",
+                "pt-BR": "Identifique E–F# como segunda maior e E–G como terça menor na sua gravação.",
+                "es": "Identifica E–F# como segunda mayor y E–G como tercera menor en tu grabación.",
+                "de": "Erkenne E–F# als große Sekunde und E–G als kleine Terz in deiner Aufnahme.",
+                "ja": "録音でE–F#の長2度とE–Gの短3度を聴き分けます。",
+                "zh-Hans": "从录音中辨认E–F#大二度和E–G小三度。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-interval-landmarks/lessons/bass-second-third-ear-choice-20260929/lesson.md"
             }
           ]
         },
@@ -2477,6 +2502,31 @@
                 "zh-Hans": "录下完整练习。 消除音阶上下行中的空隙、截短音和仓促转向。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-clean-scale-movement/lessons/scale-beginner-clean-scale-movement-full-study/lesson.md"
+            },
+            {
+              "id": "guitar-open-string-cutoff-20260929",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Stop the ringing trail",
+                "pt-BR": "Corte o rastro sonoro",
+                "es": "Corta el rastro sonoro",
+                "de": "Stoppe die Klangspur",
+                "ja": "開放弦の余韻を止める",
+                "zh-Hans": "切断空弦余音"
+              },
+              "summaries": {
+                "en": "Mute each open string before the next E minor pentatonic note sounds.",
+                "pt-BR": "Abafe cada corda solta antes da próxima nota da pentatônica de mi menor.",
+                "es": "Apaga cada cuerda al aire antes de la siguiente nota pentatónica de mi menor.",
+                "de": "Dämpfe jede leere Saite vor dem nächsten Ton der E-Moll-Pentatonik.",
+                "ja": "Eマイナー・ペンタトニックで、次の音の前に開放弦を止めます。",
+                "zh-Hans": "在E小调五声音阶中，下一音响起前止住空弦。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-clean-scale-movement/lessons/guitar-open-string-cutoff-20260929/lesson.md"
             }
           ]
         },
@@ -5360,6 +5410,31 @@
                 "zh-Hans": "在C大调中每组起音上移一级，弹出自然音阶三度，并在每组之间留一拍休止。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-third-step-staircase-20260926/lesson.md"
+            },
+            {
+              "id": "piano-three-note-rotation-20260929",
+              "order": 17,
+              "estimatedMinutes": 6,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Rotate the three-note key",
+                "pt-BR": "Gire a chave de três notas",
+                "es": "Gira la clave de tres notas",
+                "de": "Drehe den Dreiton-Schlüssel",
+                "ja": "3音の鍵を回す",
+                "zh-Hans": "转动三音钥匙"
+              },
+              "summaries": {
+                "en": "Rotate C4–D4–E4 through three starting notes while keeping a full beat of silence.",
+                "pt-BR": "Gire C4–D4–E4 por três notas iniciais, mantendo um tempo inteiro de silêncio.",
+                "es": "Rota C4–D4–E4 por tres notas iniciales conservando un pulso entero de silencio.",
+                "de": "Rotiere C4–D4–E4 durch drei Anfangstöne und halte einen ganzen Schlag Stille.",
+                "ja": "C4–D4–E4の開始音を3通りに回し、1拍の休みを守ります。",
+                "zh-Hans": "轮换C4–D4–E4的三个起音，并保留一整拍休止。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/piano-three-note-rotation-20260929/lesson.md"
             }
           ]
         },
