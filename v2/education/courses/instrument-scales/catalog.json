@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 40,
+  "revision": 41,
   "sections": [
     {
       "id": "beginner",
@@ -95,6 +95,31 @@
                 "zh-Hans": "比较第三级音，听一个音如何改变色彩。"
               },
               "path": "sections/beginner/units/home-base/lessons/major-vs-minor/lesson.md"
+            },
+            {
+              "id": "guitar-third-color-switch-20260930",
+              "order": 3,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "One fret changes the chord",
+                "pt-BR": "Uma casa muda o acorde",
+                "es": "Un traste cambia el acorde",
+                "de": "Ein Bund verändert den Akkord",
+                "ja": "1フレットで変わるコード",
+                "zh-Hans": "一品改变和弦"
+              },
+              "summaries": {
+                "en": "Hear and replay the major or minor third above the same A root.",
+                "pt-BR": "Ouça e reproduza a terça maior ou menor sobre a mesma fundamental A.",
+                "es": "Escucha y reproduce la tercera mayor o menor sobre la misma fundamental A.",
+                "de": "Höre und spiele die große oder kleine Terz über demselben Grundton A.",
+                "ja": "同じ根音Aに対する長3度と短3度を聴いて弾き分けます。",
+                "zh-Hans": "听辨并弹出同一根音A上方的大三度或小三度。"
+              },
+              "path": "levels/beginner/sections/beginner/units/home-base/lessons/guitar-third-color-switch-20260930/lesson.md"
             }
           ]
         },
@@ -1931,6 +1956,31 @@
                 "zh-Hans": "把A小调五声音阶呼句的结尾从E换成G，再回到A。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-seventh-answer-20260925/lesson.md"
+            },
+            {
+              "id": "bass-pentatonic-gap-map-20260930",
+              "order": 12,
+              "estimatedMinutes": 6,
+              "activity": "fretboard",
+              "instrument": "bass",
+              "optional": false,
+              "titles": {
+                "en": "Jump over the missing fourth",
+                "pt-BR": "Salte a quarta ausente",
+                "es": "Salta la cuarta ausente",
+                "de": "Springe über die fehlende Quarte",
+                "ja": "抜けた第4音を飛び越える",
+                "zh-Hans": "跳过缺席的四级音"
+              },
+              "summaries": {
+                "en": "Play the E-to-G gap in C major pentatonic without inserting F.",
+                "pt-BR": "Toque o salto E–G da pentatônica maior de dó sem inserir F.",
+                "es": "Toca el salto E–G de la pentatónica mayor de do sin insertar F.",
+                "de": "Spiele den E–G-Sprung in C-Dur-Pentatonik, ohne F einzufügen.",
+                "ja": "Cメジャー・ペンタトニックのE–Gを、Fを挟まず弾きます。",
+                "zh-Hans": "弹出C大调五声音阶的E–G跳进，不加入F。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-gap-map-20260930/lesson.md"
             }
           ]
         },
@@ -6479,6 +6529,31 @@
                 "zh-Hans": "比较F与F#，听A爱奥利亚变为A多利亚的音色。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-aeolian-dorian-sixth-20260924/lesson.md"
+            },
+            {
+              "id": "piano-mixolydian-seventh-reply-20260930",
+              "order": 17,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "The seventh answers the drone",
+                "pt-BR": "A sétima responde ao bordão",
+                "es": "La séptima responde al bordón",
+                "de": "Die Septime antwortet dem Bordun",
+                "ja": "ドローンに答える第7音",
+                "zh-Hans": "七级音回应持续低音"
+              },
+              "summaries": {
+                "en": "Hear C major and C Mixolydian by changing only B to Bb above a C drone.",
+                "pt-BR": "Ouça dó maior e dó mixolídio trocando apenas B por Bb sobre um bordão C.",
+                "es": "Distingue do mayor y do mixolidio cambiando solo B por Bb sobre un bordón C.",
+                "de": "Unterscheide C-Dur und C-Mixolydisch, indem nur B über einem C-Bordun zu Bb wird.",
+                "ja": "Cのドローン上でBだけをBbに変え、CメジャーとCミクソリディアンを聴き分けます。",
+                "zh-Hans": "在C持续低音上只把B改为Bb，听辨C大调与C混合利底亚。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/piano-mixolydian-seventh-reply-20260930/lesson.md"
             }
           ]
         },
