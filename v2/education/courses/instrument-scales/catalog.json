@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 41,
+  "revision": 42,
   "sections": [
     {
       "id": "beginner",
@@ -3148,6 +3148,31 @@
                 "zh-Hans": "录下八小节。 在受限的五声音组内即兴，让每次变化都清楚可听。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-first-improvised-lines/lessons/scale-beginner-first-improvised-lines-eight-bars/lesson.md"
+            },
+            {
+              "id": "guitar-pentatonic-ending-choice-20261001",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "improvisation",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Choose the last word",
+                "pt-BR": "Escolha a última palavra",
+                "es": "Elige la última palabra",
+                "de": "Wähle das letzte Wort",
+                "ja": "最後の一音を選ぶ",
+                "zh-Hans": "选择最后一个字"
+              },
+              "summaries": {
+                "en": "Keep one pentatonic question and choose between a tonic ending and a fifth ending.",
+                "pt-BR": "Mantenha uma pergunta pentatônica e escolha entre um final na tônica e outro na quinta.",
+                "es": "Conserva una pregunta pentatónica y elige un final en la tónica o en la quinta.",
+                "de": "Behalte eine pentatonische Frage bei und wähle einen Schluss auf Grundton oder Quinte.",
+                "ja": "同じペンタトニックの問いを使い、主音と5度の二つの結末を比べます。",
+                "zh-Hans": "保持同一五声音阶问句，比较主音与五度两种结尾。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-first-improvised-lines/lessons/guitar-pentatonic-ending-choice-20261001/lesson.md"
             }
           ]
         }
@@ -5808,6 +5833,31 @@
                 "zh-Hans": "保持节拍器速度不变，把每个音的时值加倍。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-rhythm-inside-the-scale/lessons/guitar-double-time-lens-20260919/lesson.md"
+            },
+            {
+              "id": "piano-held-anchor-eighths-20261001",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Two steps over a held anchor",
+                "pt-BR": "Dois passos sobre uma âncora",
+                "es": "Dos pasos sobre un ancla",
+                "de": "Zwei Schritte über einem Anker",
+                "ja": "保つ低音の上で二歩ずつ",
+                "zh-Hans": "锚点上方每拍两步"
+              },
+              "summaries": {
+                "en": "Play even right-hand eighth notes while the left hand holds each bass note for two beats.",
+                "pt-BR": "Toque colcheias regulares na direita enquanto a esquerda sustenta cada nota grave por dois tempos.",
+                "es": "Toca corcheas regulares con la derecha mientras la izquierda sostiene cada bajo dos pulsos.",
+                "de": "Spiele gleichmäßige Achtel rechts, während links jeder Basston zwei Schläge gehalten wird.",
+                "ja": "左手の低音を各2拍保ちながら、右手で均等な8分音符を弾きます。",
+                "zh-Hans": "左手每个低音保持两拍，右手弹均匀的八分音符。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-rhythm-inside-the-scale/lessons/piano-held-anchor-eighths-20261001/lesson.md"
             }
           ]
         },
@@ -6554,6 +6604,31 @@
                 "zh-Hans": "在C持续低音上只把B改为Bb，听辨C大调与C混合利底亚。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/piano-mixolydian-seventh-reply-20260930/lesson.md"
+            },
+            {
+              "id": "bass-phrygian-second-test-20261001",
+              "order": 18,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "The second changes the room",
+                "pt-BR": "A segunda muda o ambiente",
+                "es": "La segunda cambia el ambiente",
+                "de": "Die Sekunde verändert den Raum",
+                "ja": "2度で部屋が変わる",
+                "zh-Hans": "二度改变房间"
+              },
+              "summaries": {
+                "en": "Compare D natural minor with D Phrygian by changing only E to Eb.",
+                "pt-BR": "Compare Ré menor natural com Ré frígio mudando somente E para Eb.",
+                "es": "Compara Re menor natural con Re frigio cambiando solo E por Eb.",
+                "de": "Vergleiche d-Natürlich-Moll und d-Phrygisch, indem du nur E durch Eb ersetzt.",
+                "ja": "EだけをEbへ変えて、Dナチュラル・マイナーとDフリジアンを比べます。",
+                "zh-Hans": "只把E换成Eb，比较D自然小调与D弗里几亚调式。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/bass-phrygian-second-test-20261001/lesson.md"
             }
           ]
         },
