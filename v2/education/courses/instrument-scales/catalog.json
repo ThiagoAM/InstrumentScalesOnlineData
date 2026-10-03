@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 42,
+  "revision": 43,
   "sections": [
     {
       "id": "beginner",
@@ -1012,6 +1012,31 @@
                 "zh-Hans": "完成大调音程公式。 分辨半音与全音，并凭听觉拼出大调音阶结构。 对比卡片中A使用G半音，B使用G半音。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/scale-beginner-whole-and-half-steps-one-listen/lesson.md"
+            },
+            {
+              "id": "guitar-half-step-fret-hunt-20261002",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "fretboard",
+              "instrument": "guitar",
+              "optional": false,
+              "titles": {
+                "en": "Hunt the neighboring frets",
+                "pt-BR": "Caça às casas vizinhas",
+                "es": "Busca los trastes vecinos",
+                "de": "Suche die Nachbarbünde",
+                "ja": "隣のフレットを探そう",
+                "zh-Hans": "寻找相邻的品位"
+              },
+              "summaries": {
+                "en": "Find the two natural-note semitones on one guitar string and contrast them with a whole step.",
+                "pt-BR": "Encontre os dois semitons entre notas naturais em uma corda e compare com um tom.",
+                "es": "Encuentra los dos semitonos entre notas naturales en una cuerda y compáralos con un tono.",
+                "de": "Finde die beiden natürlichen Halbtonpaare auf einer Gitarrensaite und vergleiche sie mit einem Ganzton.",
+                "ja": "1本の弦で自然音の二つの半音を見つけ、全音と比べます。",
+                "zh-Hans": "在同一根弦上找出自然音的两组半音，并与全音比较。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/guitar-half-step-fret-hunt-20261002/lesson.md"
             }
           ]
         },
@@ -4391,6 +4416,31 @@
                 "zh-Hans": "把四音口令在C与G之间移调，保持级数与节奏。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/guitar-motif-password-20260913/lesson.md"
+            },
+            {
+              "id": "bass-major-motif-transplant-20261002",
+              "order": 12,
+              "estimatedMinutes": 6,
+              "activity": "theory",
+              "instrument": "bass",
+              "optional": false,
+              "titles": {
+                "en": "Same shape of degrees, new third",
+                "pt-BR": "Mesmos graus, outra terça",
+                "es": "Mismos grados, otra tercera",
+                "de": "Gleiche Stufen, andere Terz",
+                "ja": "音度は同じ、3度は変わる",
+                "zh-Hans": "级数相同，三度不同"
+              },
+              "summaries": {
+                "en": "Move a 1–3–5–3 bass motif from C major to D minor within C major and hear the third change quality.",
+                "pt-BR": "Mova um motivo 1–3–5–3 de C para Dm dentro de dó maior e ouça a mudança da terça.",
+                "es": "Mueve un motivo 1–3–5–3 de C a Dm dentro de do mayor y escucha el cambio de tercera.",
+                "de": "Versetze ein 1–3–5–3-Bassmotiv innerhalb von C-Dur von C nach Dm und höre die andere Terz.",
+                "ja": "Cメジャー内で1–3–5–3度のベース動機をCからDmへ移し、3度の違いを聴きます。",
+                "zh-Hans": "在C大调内把1–3–5–3级贝斯动机从C移到Dm，听三度性质改变。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/bass-major-motif-transplant-20261002/lesson.md"
             }
           ]
         },
@@ -6952,6 +7002,31 @@
                 "zh-Hans": "在小节线处把G7的七音F下行半音至E，落在Cmaj7的三音上。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/bass-seventh-to-third-bridge-20260926/lesson.md"
+            },
+            {
+              "id": "piano-beat-three-third-reveal-20261002",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": false,
+              "titles": {
+                "en": "Reveal the third on beat three",
+                "pt-BR": "Revele a terça no terceiro tempo",
+                "es": "Revela la tercera en el tercer pulso",
+                "de": "Die Terz erscheint auf drei",
+                "ja": "3拍目に3度を明かす",
+                "zh-Hans": "第三拍揭晓三音"
+              },
+              "summaries": {
+                "en": "Use a fifth-to-third melody to reveal C, D minor and E minor while keeping the left-hand roots quiet.",
+                "pt-BR": "Use uma melodia da quinta à terça para revelar C, Dm e Em com fundamentais discretas na mão esquerda.",
+                "es": "Usa una melodía de quinta a tercera para revelar C, Dm y Em con raíces suaves en la mano izquierda.",
+                "de": "Zeige C, D-Moll und E-Moll mit einer Melodie von Quinte zu Terz und leisen Grundtönen links.",
+                "ja": "5度から3度への旋律と控えめな左手の根音でC、Dm、Emを表します。",
+                "zh-Hans": "用五音走向三音的旋律与轻柔的左手根音，呈现C、Dm和Em。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/piano-beat-three-third-reveal-20261002/lesson.md"
             }
           ]
         },
