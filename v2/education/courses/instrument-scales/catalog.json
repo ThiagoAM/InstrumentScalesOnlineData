@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "course": "instrument-scales",
-  "revision": 43,
+  "revision": 44,
   "sections": [
     {
       "id": "beginner",
@@ -466,6 +466,31 @@
                 "zh-Hans": "录下不漂移的一遍。 把起音、休止和移动重音锁定在连续节拍上。"
               },
               "path": "levels/beginner/sections/beginner/units/scale-steady-pulse/lessons/scale-beginner-steady-pulse-no-drift/lesson.md"
+            },
+            {
+              "id": "guitar-accent-compass-20261003",
+              "order": 11,
+              "estimatedMinutes": 6,
+              "activity": "rhythm",
+              "instrument": "guitar",
+              "optional": true,
+              "titles": {
+                "en": "Move the spotlight, keep the pulse",
+                "pt-BR": "Mude o destaque, mantenha o pulso",
+                "es": "Mueve el foco, conserva el pulso",
+                "de": "Verschiebe den Akzent, halte den Puls",
+                "ja": "強調を動かして拍を保つ",
+                "zh-Hans": "移动重音，稳住脉搏"
+              },
+              "summaries": {
+                "en": "Accent beat one or beat three while four repeated C notes stay evenly spaced.",
+                "pt-BR": "Acentue o primeiro ou o terceiro tempo sem alterar o espaçamento de quatro notas Dó.",
+                "es": "Acentúa el primer o tercer tiempo manteniendo cuatro notas Do igualmente espaciadas.",
+                "de": "Betone Schlag eins oder drei, während vier wiederholte C-Töne gleichmäßig bleiben.",
+                "ja": "四つのドの間隔を保ち、1拍目と3拍目を交互に強調します。",
+                "zh-Hans": "保持四个重复C音等距，交替强调第一拍和第三拍。"
+              },
+              "path": "levels/beginner/sections/beginner/units/scale-steady-pulse/lessons/guitar-accent-compass-20261003/lesson.md"
             }
           ]
         },
@@ -7375,6 +7400,31 @@
                 "zh-Hans": "听三音C大调动机，再在高八度重现其走向与节奏。"
               },
               "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/piano-octave-echo-detective-20260925/lesson.md"
+            },
+            {
+              "id": "bass-contour-mirror-20261003",
+              "order": 14,
+              "estimatedMinutes": 6,
+              "activity": "ear-training",
+              "instrument": "bass",
+              "optional": true,
+              "titles": {
+                "en": "Mirror the direction you hear",
+                "pt-BR": "Espelhe a direção que ouvir",
+                "es": "Refleja la dirección que oyes",
+                "de": "Spiegle die gehörte Richtung",
+                "ja": "聴いた方向を鏡にする",
+                "zh-Hans": "把听到的方向翻转"
+              },
+              "summaries": {
+                "en": "Hear a rising or falling three-note call, then answer with the opposite contour.",
+                "pt-BR": "Ouça uma chamada de três notas subindo ou descendo e responda com o contorno oposto.",
+                "es": "Escucha tres notas ascendentes o descendentes y responde con el contorno opuesto.",
+                "de": "Höre einen steigenden oder fallenden Dreitonruf und antworte mit der Gegenrichtung.",
+                "ja": "上行または下行する3音を聴き、反対方向の旋律で答えます。",
+                "zh-Hans": "听上行或下行的三音呼句，再用相反的旋律方向回答。"
+              },
+              "path": "levels/intermediate/sections/intermediate/units/scale-hear-then-play/lessons/bass-contour-mirror-20261003/lesson.md"
             }
           ]
         },
@@ -12085,6 +12135,31 @@
                 "zh-Hans": "把半音－全音减音阶单元升高三全音重复，分别落在C7的三度和小七度。"
               },
               "path": "levels/advanced/sections/advanced/units/scale-symmetric-scales/lessons/piano-diminished-cell-beacons-20260927/lesson.md"
+            },
+            {
+              "id": "piano-whole-tone-triad-weave-20261003",
+              "order": 13,
+              "estimatedMinutes": 7,
+              "activity": "keyboard",
+              "instrument": "piano",
+              "optional": true,
+              "titles": {
+                "en": "Weave two augmented triads",
+                "pt-BR": "Entrelace duas tríades aumentadas",
+                "es": "Entrelaza dos tríadas aumentadas",
+                "de": "Verflechte zwei übermäßige Dreiklänge",
+                "ja": "二つの増三和音を編む",
+                "zh-Hans": "编织两个增三和弦"
+              },
+              "summaries": {
+                "en": "Alternate two augmented triads to play one complete C whole-tone ascent.",
+                "pt-BR": "Alterne duas tríades aumentadas para tocar a coleção completa de tons inteiros de Dó.",
+                "es": "Alterna dos tríadas aumentadas para tocar toda la colección de tonos enteros de Do.",
+                "de": "Wechsle zwei übermäßige Dreiklänge zu einer vollständigen C-Ganztonlinie ab.",
+                "ja": "二つの増三和音を交互に弾き、Cの全音音階の6音をつなぎます。",
+                "zh-Hans": "交替弹两个增三和弦，串成C全音音阶的完整六音上行线。"
+              },
+              "path": "levels/advanced/sections/advanced/units/scale-symmetric-scales/lessons/piano-whole-tone-triad-weave-20261003/lesson.md"
             }
           ]
         },
