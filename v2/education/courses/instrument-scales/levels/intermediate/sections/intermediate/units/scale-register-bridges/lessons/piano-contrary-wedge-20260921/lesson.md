@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-register-bridges
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: The widening wedge
@@ -121,5 +121,5 @@ id: piano-contrary-wedge-20260921-1
 title: A
 instrument: piano
 tempo: 60
-sequence: [C4 C5]/1 [B3 D5]/1 [A3 E5]/2 | [A3 E5]/1 [B3 D5]/1 [C4 C5]/2
+sequence: [C4,C5]/1 [B3,D5]/1 [A3,E5]/2 [A3,E5]/1 [B3,D5]/1 [C4,C5]/2
 ```

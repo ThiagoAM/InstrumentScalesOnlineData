@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "recordedAt": "2026-10-04T01:29:45.226231+00:00",
+  "nodeVersion": "v26.8.2",
+  "nodeTestLog": "editorial/evidence/node-tests-2026-10-03.log",
+  "nodeTestLogSHA256": "0576b6b2956efc96a82a70495f247b9662c7125b572819bb76743f2dc1231725",
+  "nodeTests": 58,
+  "nodeFailures": 0,
+  "checks": [
+    {
+      "command": [
+        "node",
+        "scripts/validate-v2.js"
+      ],
+      "exitCode": 0,
+      "summary": "    - zh-Hans body has fewer than 100 prose words or equivalent CJK length.",
+      "fullOutputSHA256": "98c29840fb73e147e2a2249b0985ca8cf8a4dd1435b37bbcd1d5f75d45026c0a"
+    },
+    {
+      "command": [
+        "node",
+        "scripts/audit-v2-bulk.js",
+        "--no-revision-one"
+      ],
+      "exitCode": 0,
+      "summary": "Audited 838 v2 lesson(s); checked 3600 new localized body/bodies.",
+      "fullOutputSHA256": "48f7ce2a75cf384550a6999b841febb74ec46c588ed398a470e4e6fc3a53d282"
+    },
+    {
+      "command": [
+        "node",
+        "scripts/audit-swift-parser.js",
+        "--verify"
+      ],
+      "exitCode": 0,
+      "summary": "Verified real Swift parser receipt for this complete content snapshot.",
+      "fullOutputSHA256": "5d2668fff9e9c47e79200eed6948fed70c1a25e922ea7e59bbb54005e3e4563f"
+    },
+    {
+      "command": [
+        "node",
+        "scripts/validate-editorial.js"
+      ],
+      "exitCode": 0,
+      "summary": "Validated editorial queue, guided candidates, publication isolation, context and gates.",
+      "fullOutputSHA256": "592b31083ab903dc71e42d12823be7fe6694d54ed9856ff3981de56d856d5c8f"
+    }
+  ],
+  "scope": "Executed local checks on the review candidate; production deployment and human playthrough are not claimed."
+}

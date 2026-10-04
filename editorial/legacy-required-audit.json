@@ -1,0 +1,349 @@
+{
+  "schema": 1,
+  "baselineCommit": "448975f",
+  "priorResearchCommit": "b4757ad",
+  "requiredBefore": 30,
+  "requiredAfter": 6,
+  "freeLessonIDs": {
+    "chords-harmony": [
+      "meet-the-triad",
+      "three-chords-one-key"
+    ],
+    "instrument-scales": [
+      "find-the-tonic",
+      "major-vs-minor"
+    ]
+  },
+  "lessons": [
+    {
+      "course": "chords-harmony",
+      "section": "beginner",
+      "unit": "first-shapes",
+      "id": "meet-the-triad",
+      "path": "levels/beginner/sections/beginner/units/first-shapes/lessons/meet-the-triad/lesson.md",
+      "instrument": "adaptive",
+      "optionalBefore": false,
+      "optionalAfter": false,
+      "reason": "retained shared harmonic prerequisite"
+    },
+    {
+      "course": "chords-harmony",
+      "section": "beginner",
+      "unit": "hearing-quality",
+      "id": "major-or-minor-chord",
+      "path": "levels/beginner/sections/beginner/units/hearing-quality/lessons/major-or-minor-chord/lesson.md",
+      "instrument": "adaptive",
+      "optionalBefore": false,
+      "optionalAfter": false,
+      "reason": "retained shared harmonic prerequisite"
+    },
+    {
+      "course": "chords-harmony",
+      "section": "intermediate",
+      "unit": "keys-make-families",
+      "id": "diatonic-family",
+      "path": "levels/intermediate/sections/intermediate/units/keys-make-families/lessons/diatonic-family/lesson.md",
+      "instrument": "adaptive",
+      "optionalBefore": false,
+      "optionalAfter": false,
+      "reason": "retained shared harmonic prerequisite"
+    },
+    {
+      "course": "chords-harmony",
+      "section": "intermediate",
+      "unit": "tension-release",
+      "id": "dominant-pull",
+      "path": "levels/intermediate/sections/intermediate/units/tension-release/lessons/dominant-pull/lesson.md",
+      "instrument": "adaptive",
+      "optionalBefore": false,
+      "optionalAfter": false,
+      "reason": "retained shared harmonic prerequisite"
+    },
+    {
+      "course": "chords-harmony",
+      "section": "advanced",
+      "unit": "color-notes",
+      "id": "sus-and-add",
+      "path": "levels/advanced/sections/advanced/units/color-notes/lessons/sus-and-add/lesson.md",
+      "instrument": "adaptive",
+      "optionalBefore": false,
+      "optionalAfter": false,
+      "reason": "retained shared harmonic prerequisite"
+    },
+    {
+      "course": "chords-harmony",
+      "section": "advanced",
+      "unit": "progressions-in-style",
+      "id": "twelve-bar-blueprint",
+      "path": "levels/advanced/sections/advanced/units/progressions-in-style/lessons/twelve-bar-blueprint/lesson.md",
+      "instrument": "adaptive",
+      "optionalBefore": false,
+      "optionalAfter": false,
+      "reason": "retained shared harmonic prerequisite"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "beginner",
+      "unit": "home-base",
+      "id": "find-the-tonic",
+      "path": "sections/beginner/units/home-base/lessons/find-the-tonic/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "beginner",
+      "unit": "home-base",
+      "id": "guitar-third-color-switch-20260930",
+      "path": "levels/beginner/sections/beginner/units/home-base/lessons/guitar-third-color-switch-20260930/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "beginner",
+      "unit": "first-octave-trail",
+      "id": "c-major-one-octave",
+      "path": "sections/beginner/units/first-octave-trail/lessons/c-major-one-octave/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "beginner",
+      "unit": "scale-whole-and-half-steps",
+      "id": "guitar-half-step-fret-hunt-20261002",
+      "path": "levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/guitar-half-step-fret-hunt-20261002/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "beginner",
+      "unit": "scale-pentatonic-first-steps",
+      "id": "bass-pentatonic-gap-map-20260930",
+      "path": "levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-gap-map-20260930/lesson.md",
+      "instrument": "bass",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "position-bridges",
+      "id": "connect-pentatonic-positions",
+      "path": "sections/intermediate/units/position-bridges/lessons/connect-pentatonic-positions/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "position-bridges",
+      "id": "guitar-position-comet-lift",
+      "path": "sections/intermediate/units/position-bridges/lessons/guitar-position-comet-lift/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "position-bridges",
+      "id": "bass-lane-jump-beacon",
+      "path": "sections/intermediate/units/position-bridges/lessons/bass-lane-jump-beacon/lesson.md",
+      "instrument": "bass",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "rhythm-lab",
+      "id": "rest-and-return",
+      "path": "sections/intermediate/units/rhythm-lab/lessons/rest-and-return/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "rhythm-lab",
+      "id": "piano-mirror-sidestep-sparks",
+      "path": "sections/intermediate/units/rhythm-lab/lessons/piano-mirror-sidestep-sparks/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "rhythm-lab",
+      "id": "bass-offbeat-lighthouse-run",
+      "path": "sections/intermediate/units/rhythm-lab/lessons/bass-offbeat-lighthouse-run/lesson.md",
+      "instrument": "bass",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "rhythm-lab",
+      "id": "bass-early-root-signal-20260923",
+      "path": "levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-early-root-signal-20260923/lesson.md",
+      "instrument": "bass",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "scale-move-one-idea",
+      "id": "bass-major-motif-transplant-20261002",
+      "path": "levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/bass-major-motif-transplant-20261002/lesson.md",
+      "instrument": "bass",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "scale-modes-by-color-note",
+      "id": "guitar-lydian-fourth-flash-20260923",
+      "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-lydian-fourth-flash-20260923/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "scale-modes-by-color-note",
+      "id": "piano-mixolydian-seventh-reply-20260930",
+      "path": "levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/piano-mixolydian-seventh-reply-20260930/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "intermediate",
+      "unit": "scale-land-on-chord-tones",
+      "id": "piano-beat-three-third-reveal-20261002",
+      "path": "levels/intermediate/sections/intermediate/units/scale-land-on-chord-tones/lessons/piano-beat-three-third-reveal-20261002/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "intervals-in-motion",
+      "id": "diatonic-thirds-across-neck",
+      "path": "sections/advanced/units/intervals-in-motion/lessons/diatonic-thirds-across-neck/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "intervals-in-motion",
+      "id": "guitar-fourth-compass-lift",
+      "path": "sections/advanced/units/intervals-in-motion/lessons/guitar-fourth-compass-lift/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "target-and-resolve",
+      "id": "chord-tone-landing",
+      "path": "sections/advanced/units/target-and-resolve/lessons/chord-tone-landing/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "target-and-resolve",
+      "id": "piano-guide-tone-hopscotch",
+      "path": "sections/advanced/units/target-and-resolve/lessons/piano-guide-tone-hopscotch/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "target-and-resolve",
+      "id": "guitar-target-echo-run",
+      "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-target-echo-run/lesson.md",
+      "instrument": "guitar",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "target-and-resolve",
+      "id": "bass-fifth-echo-lock",
+      "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-echo-lock/lesson.md",
+      "instrument": "bass",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "target-and-resolve",
+      "id": "piano-seventh-landing-weave",
+      "path": "levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-weave/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    },
+    {
+      "course": "instrument-scales",
+      "section": "advanced",
+      "unit": "scale-voice-leading-through-changes",
+      "id": "piano-guide-tone-sigh-20260923",
+      "path": "levels/advanced/sections/advanced/units/scale-voice-leading-through-changes/lessons/piano-guide-tone-sigh-20260923/lesson.md",
+      "instrument": "piano",
+      "optionalBefore": false,
+      "optionalAfter": true,
+      "reason": "physical prerequisite in mixed-instrument archive"
+    }
+  ]
+}

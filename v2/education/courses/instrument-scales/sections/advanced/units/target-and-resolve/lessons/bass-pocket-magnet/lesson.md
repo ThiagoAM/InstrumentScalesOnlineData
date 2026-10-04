@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 87
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass pocket magnet
-title.pt-BR: Ímã do pocket no baixo
-title.es: Imán del pocket en bajo
-title.de: Bass-Pocketmagnet
-title.ja: ベース・ポケットマグネット
-title.zh-Hans: 贝斯律动磁铁
-summary.en: Use a chromatic approach and one deliberate rest to pull every bar back to its root.
-summary.pt-BR: Use uma aproximação cromática e uma pausa deliberada para puxar cada compasso de volta à tônica.
-summary.es: Usa una aproximación cromática y un silencio deliberado para atraer cada compás de vuelta a su raíz.
-summary.de: Nutze eine chromatische Annäherung und eine bewusste Pause, um jeden Takt zur Grundnote zurückzuziehen.
-summary.ja: 半音アプローチと意図した休符で、各小節をルートへ引き戻します。
-summary.zh-Hans: 用半音接近和一个有意的休止，把每小节拉回根音。
+title.en: Reference in review · Bass pocket magnet
+title.pt-BR: Referência em revisão · Ímã do pocket no baixo
+title.es: Referencia en revisión · Imán del pocket en bajo
+title.de: Referenz in Prüfung · Bass-Pocketmagnet
+title.ja: 確認中の参照 · ベース・ポケットマグネット
+title.zh-Hans: 审核中的参考 · 贝斯律动磁铁
+summary.en: Original goal, physical practice under review: Use a chromatic approach and one deliberate rest to pull every bar back to its root.
+summary.pt-BR: Objetivo original, prática física em revisão: Use uma aproximação cromática e uma pausa deliberada para puxar cada compasso de volta à tônica.
+summary.es: Objetivo original, práctica física en revisión: Usa una aproximación cromática y un silencio deliberado para atraer cada compás de vuelta a su raíz.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Nutze eine chromatische Annäherung und eine bewusste Pause, um jeden Takt zur Grundnote zurückzuziehen.
+summary.ja: 元の目標（実技確認中）：半音アプローチと意図した休符で、各小節をルートへ引き戻します。
+summary.zh-Hans: 原目标（实体演奏待审）：用半音接近和一个有意的休止，把每小节拉回根音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass pocket magnet
+# Reference in review · Bass pocket magnet
 
-Loop **| Dm7 | G7 | Cmaj7 | A7 |** at **88 bpm**. Put the root on beat 1, then use a short three-note answer that points back to the next root.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars with D, G, C, and A on beat 1, a clear approach on the and of 4, and a real beat-3 rest. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 targets are **D, G, C, A**. Approach each root from one fret below on the **and of 4**, then leave beat 3 empty. The silence is the magnet's pull.
-
-Round 2: on bars 2 and 4, replace the chromatic approach with the scale's fifth and third. Keep the root exactly on beat 1 and make the answer lighter than the landing.
-
-Boss pass: play six loops, alternating a low root and its octave every loop. If the rest disappears, slow to **70 bpm** and tap beat 3 before playing again.
-
-:::checkpoint Play four bars with D, G, C, and A on beat 1, a clear approach on the and of 4, and a real beat-3 rest.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Ímã do pocket no baixo
+# Referência em revisão · Ímã do pocket no baixo
 
-Faça um loop em **| Dm7 | G7 | Cmaj7 | A7 |** a **88 bpm**. Coloque a tônica no tempo 1 e depois use uma resposta curta de três notas que aponte para a próxima tônica.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos com D, G, C e A no tempo 1, uma aproximação clara no e do tempo 4 e uma pausa real no tempo 3. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Os alvos da rodada 1 são **D, G, C, A**. Aproxime-se de cada tônica um traste abaixo no **e do tempo 4** e deixe o tempo 3 vazio. O silêncio é a força do ímã.
-
-Rodada 2: nos compassos 2 e 4, troque a aproximação cromática pela quinta e terça da escala. Mantenha a tônica exatamente no tempo 1 e faça a resposta mais leve que a chegada.
-
-Passagem chefão: toque seis loops, alternando uma tônica grave e sua oitava a cada loop. Se a pausa sumir, reduza para **70 bpm** e marque o tempo 3 antes de tocar de novo.
-
-:::checkpoint Toque quatro compassos com D, G, C e A no tempo 1, uma aproximação clara no e do tempo 4 e uma pausa real no tempo 3.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Imán del pocket en bajo
+# Referencia en revisión · Imán del pocket en bajo
 
-Pon en bucle **| Dm7 | G7 | Cmaj7 | A7 |** a **88 bpm**. Coloca la raíz en el tiempo 1 y usa después una respuesta breve de tres notas que apunte a la siguiente raíz.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases con D, G, C y A en el tiempo 1, una aproximación clara en el y de 4 y un silencio real en el tiempo 3. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Los objetivos de la ronda 1 son **D, G, C, A**. Acércate a cada raíz desde un traste abajo en el **y de 4**, y deja vacío el tiempo 3. El silencio es el tirón del imán.
-
-Ronda 2: en los compases 2 y 4, cambia la aproximación cromática por la quinta y la tercera de la escala. Mantén la raíz exactamente en el tiempo 1 y haz la respuesta más suave que la llegada.
-
-Pasada jefe: toca seis bucles, alternando una raíz grave y su octava en cada vuelta. Si el silencio desaparece, baja a **70 bpm** y marca el tiempo 3 antes de repetir.
-
-:::checkpoint Toca cuatro compases con D, G, C y A en el tiempo 1, una aproximación clara en el y de 4 y un silencio real en el tiempo 3.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass-Pocketmagnet
+# Referenz in Prüfung · Bass-Pocketmagnet
 
-Loope **| Dm7 | G7 | Cmaj7 | A7 |** bei **88 bpm**. Setze den Grundton auf Schlag 1 und spiele danach eine kurze Drei-Noten-Antwort, die zum nächsten Grundton führt.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte mit D, G, C und A auf Schlag 1, einer klaren Annäherung auf dem Und von 4 und einer echten Pause auf Schlag 3. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Die Ziele in Runde 1 sind **D, G, C, A**. Nähere dich jedem Grundton auf dem **Und von 4** von einem Bund darunter und lass Schlag 3 frei. Die Pause ist der Zug des Magneten.
-
-Runde 2: Ersetze in Takt 2 und 4 die chromatische Annäherung durch Quinte und Terz der Tonleiter. Der Grundton bleibt exakt auf Schlag 1, die Antwort klingt leichter als die Landung.
-
-Boss-Durchgang: Spiele sechs Loops und wechsle pro Loop zwischen tiefem Grundton und Oktave. Wenn die Pause verschwindet, gehe auf **70 bpm** und klopfe Schlag 3 vor dem nächsten Versuch.
-
-:::checkpoint Spiele vier Takte mit D, G, C und A auf Schlag 1, einer klaren Annäherung auf dem Und von 4 und einer echten Pause auf Schlag 3.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベース・ポケットマグネット
+# 確認中の参照 · ベース・ポケットマグネット
 
-**88 bpm**で **| Dm7 | G7 | Cmaj7 | A7 |** をループします。1拍目にルートを置き、その後3音の短い答えで次のルートへ向かいます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：D、G、C、Aを1拍目に置き、4拍目ウラの導入と3拍目の本当の休符を含む4小節を弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1の目標は **D、G、C、A**。各ルートへ4拍目ウラに1フレット下から近づき、3拍目を空けます。その休符がマグネットの引力です。
-
-ラウンド2では2、4小節目のクロマチックな導入を、スケールの5度と3度に置き換えます。ルートは必ず1拍目、答えは着地より軽くします。
-
-ボスパスでは6ループ弾き、低いルートとそのオクターブを1ループごとに切り替えます。休符が消えたら **70 bpm** に下げ、再挑戦の前に3拍目を叩いて確認します。
-
-:::checkpoint D、G、C、Aを1拍目に置き、4拍目ウラの導入と3拍目の本当の休符を含む4小節を弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯律动磁铁
+# 审核中的参考 · 贝斯律动磁铁
 
-把 **| Dm7 | G7 | Cmaj7 | A7 |** 设为 **88 bpm** 循环。第1拍弹根音，然后用三个音的短回应指向下一个根音。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹四小节，让D、G、C、A落在第1拍，在第4拍后半拍有清楚接近，并在第3拍真正休止。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮目标是 **D、G、C、A**。在第4拍后半拍从低一品接近每个根音，并让第3拍空出来。这个休止就是磁铁的拉力。
-
-第2轮：在第2和第4小节，用音阶的五级和三级替代半音接近。根音仍要精准落在第1拍，回应要比落点轻。
-
-挑战轮：弹六遍循环，每遍在低根音和八度根音之间切换。如果休止消失，就降到 **70 bpm**，先敲出第3拍再重来。
-
-:::checkpoint 弹四小节，让D、G、C、A落在第1拍，在第4拍后半拍有清楚接近，并在第3拍真正休止。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,5 +75,5 @@ id: bass-pocket-magnet-main
 title: Roots with magnetic rests
 instrument: bass
 tempo: 88
-sequence: D2 F2 A2 - - - C#3 D3 | G1 B1 D2 - - - F#2 G2 | C2 E2 G2 - - - B2 C3 | A1 C#2 E2 - - - G#2 A2
+sequence: D2 F2 A2 - - - C#3 D3 G1 B1 D2 - - - F#2 G2 C2 E2 G2 - - - B2 C3 A1 C#2 E2 - - - G#2 A2
 ```

@@ -6,130 +6,86 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 95
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar target echo run
-title.pt-BR: Corrida de ecos de alvo na guitarra
-title.es: Carrera de ecos de objetivos en guitarra
-title.de: Gitarren-Zielecho-Lauf
-title.ja: ギター・ターゲット・エコーラン
-title.zh-Hans: 吉他目标回声跑
-summary.en: Answer each chord change with a shifted scale echo that lands on its third.
-summary.pt-BR: Responda a cada troca de acorde com um eco deslocado da escala que chega à terça.
-summary.es: Responde a cada cambio de acorde con un eco desplazado de la escala que aterrice en su tercera.
-summary.de: Beantworte jeden Akkordwechsel mit einem verschobenen Skalen-Echo, das auf der Terz landet.
-summary.ja: コードチェンジごとにスケールのエコーをずらし、3度へ着地させます。
-summary.zh-Hans: 用移位的音阶回声回应每次和弦变化，并落在三级音上。
+title.en: Reference in review · Guitar target echo run
+title.pt-BR: Referência em revisão · Corrida de ecos de alvo na guitarra
+title.es: Referencia en revisión · Carrera de ecos de objetivos en guitarra
+title.de: Referenz in Prüfung · Gitarren-Zielecho-Lauf
+title.ja: 確認中の参照 · ギター・ターゲット・エコーラン
+title.zh-Hans: 审核中的参考 · 吉他目标回声跑
+summary.en: Original goal, physical practice under review: Answer each chord change with a shifted scale echo that lands on its third.
+summary.pt-BR: Objetivo original, prática física em revisão: Responda a cada troca de acorde com um eco deslocado da escala que chega à terça.
+summary.es: Objetivo original, práctica física en revisión: Responde a cada cambio de acorde con un eco desplazado de la escala que aterrice en su tercera.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Beantworte jeden Akkordwechsel mit einem verschobenen Skalen-Echo, das auf der Terz landet.
+summary.ja: 元の目標（実技確認中）：コードチェンジごとにスケールのエコーをずらし、3度へ着地させます。
+summary.zh-Hans: 原目标（实体演奏待审）：用移位的音阶回声回应每次和弦变化，并落在三级音上。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar target echo run
+# Reference in review · Guitar target echo run
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **78 bpm**. Use G major, and let the chord change be your starting gun.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars of shifted echoes that land on B, F#, B, and E, with each target ringing for one beat.
 
-Play a two-beat answer on each bar: **B-A-G-A**. On the next bar, echo the same shape one string higher and land on F# for D7.
-
-For Gmaj7, shift the echo up two frets; for Cmaj7, shift it back. Keep the final note of every answer ringing for one beat.
-
-Round two: leave the first beat empty, then enter on the and of 1. Hear the target before your fingers move; lower the tempo to 60 bpm if the shift blurs.
-
-Boss take: play six loops, alternate low and high registers every two bars, and make every third land cleanly without extra notes.
-
-:::checkpoint Play four bars of shifted echoes that land on B, F#, B, and E, with each target ringing for one beat.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Corrida de ecos de alvo na guitarra
+# Referência em revisão · Corrida de ecos de alvo na guitarra
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **78 bpm**. Use sol maior e deixe a troca de acorde ser seu sinal de partida.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos de ecos deslocados que cheguem em B, F#, B e E, deixando cada alvo soar por um tempo.
 
-Toque uma resposta de dois tempos em cada compasso: **B-A-G-A**. No compasso seguinte, repita o desenho uma corda acima e chegue em F# no D7.
-
-Para Gmaj7, desloque o eco dois trastes acima; para Cmaj7, volte. Deixe a última nota de cada resposta soar por um tempo.
-
-Rodada dois: deixe o primeiro tempo vazio e entre no contratempo do 1. Ouça o alvo antes de mover os dedos; baixe para 60 bpm se a troca borrar.
-
-Tomada chefão: toque seis loops, alterne registros grave e agudo a cada dois compassos e faça cada terça chegar limpa, sem notas extras.
-
-:::checkpoint Toque quatro compassos de ecos deslocados que cheguem em B, F#, B e E, deixando cada alvo soar por um tempo.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Carrera de ecos de objetivos en guitarra
+# Referencia en revisión · Carrera de ecos de objetivos en guitarra
 
-Repite **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **78 bpm**. Usa sol mayor y deja que el cambio de acorde sea tu señal de salida.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases de ecos desplazados que aterricen en B, F#, B y E, dejando sonar cada objetivo un pulso.
 
-Toca una respuesta de dos pulsos en cada compás: **B-A-G-A**. En el siguiente compás, repite la figura una cuerda más arriba y aterriza en F# sobre D7.
-
-Para Gmaj7, desplaza el eco dos trastes arriba; para Cmaj7, vuelve. Deja sonar un pulso la última nota de cada respuesta.
-
-Ronda dos: deja vacío el primer tiempo y entra en el contratiempo de 1. Oye el objetivo antes de mover los dedos; baja a 60 bpm si el cambio se emborrona.
-
-Pasada jefe: toca seis bucles, alterna registros cada dos compases y haz que cada tercera llegue limpia, sin notas extra.
-
-:::checkpoint Toca cuatro compases de ecos desplazados que aterricen en B, F#, B y E, dejando sonar cada objetivo un pulso.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Zielecho-Lauf
+# Referenz in Prüfung · Gitarren-Zielecho-Lauf
 
-Loope **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **78 bpm**. Nutze G-Dur; jeder Akkordwechsel ist dein Startsignal.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte verschobener Echos und lande auf H, F#, H und E; jeder Zielton klingt einen Schlag.
 
-Spiele in jedem Takt eine zweitaktige Antwort: **H-A-G-A**. Im nächsten Takt wiederholst du die Figur eine Saite höher und landest bei D7 auf F#.
-
-Für Gmaj7 verschiebst du das Echo zwei Bünde nach oben, für Cmaj7 wieder zurück. Der letzte Ton jeder Antwort klingt einen Schlag.
-
-Runde zwei: Lass Schlag 1 frei und setze auf der Und von 1 ein. Höre das Ziel vor der Bewegung; bei Unschärfe auf 60 bpm gehen.
-
-Boss-Aufnahme: Spiele sechs Loops, wechsle alle zwei Takte zwischen tiefem und hohem Register und lande jede Terz sauber ohne Zusatztöne.
-
-:::checkpoint Spiele vier Takte verschobener Echos und lande auf H, F#, H und E; jeder Zielton klingt einen Schlag.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・ターゲット・エコーラン
+# 確認中の参照 · ギター・ターゲット・エコーラン
 
-**| Am7 | D7 | Gmaj7 | Cmaj7 |** を**78 bpm**でループします。Gメジャーを使い、コードチェンジをスタートの合図にします。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：移動したエコーを4小節弾き、B、F#、B、Eへ着地し、それぞれの目標音を1拍伸ばします。
 
-各小節で2拍の返答 **B-A-G-A** を弾きます。次の小節では同じ形を1本高い弦へ移し、D7でF#に着地します。
-
-Gmaj7ではエコーを2フレット上へ移し、Cmaj7では戻します。各フレーズの最後の音を1拍伸ばします。
-
-2周目は1拍目を空け、1拍目の裏から入ります。指を動かす前に目標音を聴き、ぼやけたら60 bpmに下げます。
-
-ボス演奏では6ループ弾き、2小節ごとに低音域と高音域を替え、余分な音なしで各3度へ着地します。
-
-:::checkpoint 移動したエコーを4小節弾き、B、F#、B、Eへ着地し、それぞれの目標音を1拍伸ばします。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他目标回声跑
+# 审核中的参考 · 吉他目标回声跑
 
-以**78 bpm**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。使用G大调，把和弦变化当作起跑信号。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹四小节移位回声，让B、F#、B、E依次落地，并让每个目标音延续一拍。
 
-每小节弹两拍回答：**B-A-G-A**。下一小节把同一形状移到高一根弦，在D7上落到F#。
-
-到Gmaj7时把回声上移两品；到Cmaj7时移回。每个回答的最后一个音保持一拍。
-
-第二轮留空第1拍，在第1拍后半进入。手指移动前先听到目标；如果换位模糊，就降到60 bpm。
-
-挑战：弹六遍循环，每两小节交替高低音区，让每个三级音干净落地，不加多余音。
-
-:::checkpoint 弹四小节移位回声，让B、F#、B、E依次落地，并让每个目标音延续一拍。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```notes
-id: guitar-target-echo-run-main
-title: Shifted third echoes
-instrument: guitar
-tempo: 78
-sequence: B3 A3 G3 A3 - - | C#4 D4 F#4 A4 - - | B3 A3 G3 A3 - - | D4 C4 E4 G4 - -
-```
-
-```fretboard
-id: guitar-target-echo-run-map
-title: Echo shift map
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 3-10
-tempo: 78
-positions: 2:4 B, 2:7 D, 1:6 F#, 1:7 B, 1:12 E
+```quiz
+id: guitar-target-echo-run-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

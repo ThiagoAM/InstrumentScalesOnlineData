@@ -6,110 +6,86 @@ level: intermediate
 section: intermediate
 unit: scale-build-eight-bar-solo
 order: 14
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Build an Eight-Bar Solo: A minor pentatonic call and response
-title.pt-BR: Construa um solo de oito compassos: pergunta e resposta em A pentatônica menor
-title.es: Construye un solo de ocho compases: pregunta y respuesta en A pentatónica menor
-title.de: Baue ein Solo über acht Takte: Frage und Antwort in A-Moll-Pentatonik
-title.ja: 8小節のソロを作る：Aマイナーペンタトニックの問いと答え
-title.zh-Hans: 构建八小节独奏：A小调五声音阶的问答
-summary.en: Answer a short guitar idea one position higher while keeping its rhythm and landing on A.
-summary.pt-BR: Responda a uma ideia curta de guitarra uma posição acima, mantendo o ritmo e chegando em A.
-summary.es: Responde a una idea breve de guitarra una posición más arriba, mantén el ritmo y aterriza en A.
-summary.de: Beantworte eine kurze Gitarrenidee eine Lage höher, halte den Rhythmus und lande auf A.
-summary.ja: 短いギターのアイデアを1ポジション上で答え、リズムを保ってAに着地します。
-summary.zh-Hans: 把短小的吉他动机移到高一把位回答，保持节奏并落在A上。
+title.en: Reference in review · Build an Eight-Bar Solo: A minor pentatonic call and response
+title.pt-BR: Referência em revisão · Construa um solo de oito compassos: pergunta e resposta em A pentatônica menor
+title.es: Referencia en revisión · Construye un solo de ocho compases: pregunta y respuesta en A pentatónica menor
+title.de: Referenz in Prüfung · Baue ein Solo über acht Takte: Frage und Antwort in A-Moll-Pentatonik
+title.ja: 確認中の参照 · 8小節のソロを作る：Aマイナーペンタトニックの問いと答え
+title.zh-Hans: 审核中的参考 · 构建八小节独奏：A小调五声音阶的问答
+summary.en: Original goal, physical practice under review: Answer a short guitar idea one position higher while keeping its rhythm and landing on A.
+summary.pt-BR: Objetivo original, prática física em revisão: Responda a uma ideia curta de guitarra uma posição acima, mantendo o ritmo e chegando em A.
+summary.es: Objetivo original, práctica física en revisión: Responde a una idea breve de guitarra una posición más arriba, mantén el ritmo y aterriza en A.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Beantworte eine kurze Gitarrenidee eine Lage höher, halte den Rhythmus und lande auf A.
+summary.ja: 元の目標（実技確認中）：短いギターのアイデアを1ポジション上で答え、リズムを保ってAに着地します。
+summary.zh-Hans: 原目标（实体演奏待审）：把短小的吉他动机移到高一把位回答，保持节奏并落在A上。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Build an Eight-Bar Solo: A minor pentatonic call and response
+# Reference in review · Build an Eight-Bar Solo: A minor pentatonic call and response
 
-Play the four-note question slowly. Keep the eighth-note rhythm even and let the final A ring.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Record two rounds of call and response; both answers must keep the question's rhythm and clearly resolve to A.
 
-Move the same shape two frets higher for the answer; change only its last note back to A.
-
-Alternate question and answer at 72 BPM. Listen for the position shift, then add one silent beat between them.
-
-Play two complete rounds. If the shift blurs, drop to 60 BPM and keep the rhythm before speeding up.
-
-:::checkpoint Record two rounds of call and response; both answers must keep the question's rhythm and clearly resolve to A.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Construa um solo de oito compassos: pergunta e resposta em A pentatônica menor
+# Referência em revisão · Construa um solo de oito compassos: pergunta e resposta em A pentatônica menor
 
-Toque a pergunta de quatro notas devagar. Mantenha o ritmo de colcheias firme e deixe o A final soar.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Grave duas rodadas de pergunta e resposta; ambas as respostas devem manter o ritmo da pergunta e resolver claramente em A.
 
-Mova o mesmo desenho dois trastes acima para a resposta; mude apenas a última nota de volta para A.
-
-Alterne pergunta e resposta a 72 BPM. Ouça a mudança de posição e depois acrescente um tempo de silêncio entre elas.
-
-Toque duas rodadas completas. Se a mudança ficar confusa, reduza para 60 BPM e preserve o ritmo antes de acelerar.
-
-:::checkpoint Grave duas rodadas de pergunta e resposta; ambas as respostas devem manter o ritmo da pergunta e resolver claramente em A.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Construye un solo de ocho compases: pregunta y respuesta en A pentatónica menor
+# Referencia en revisión · Construye un solo de ocho compases: pregunta y respuesta en A pentatónica menor
 
-Toca despacio la pregunta de cuatro notas. Mantén firme el ritmo de corcheas y deja sonar el A final.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Graba dos rondas de pregunta y respuesta; ambas respuestas deben conservar el ritmo de la pregunta y resolver claramente en A.
 
-Mueve la misma figura dos trastes arriba para la respuesta; cambia solo la última nota de vuelta a A.
-
-Alterna pregunta y respuesta a 72 BPM. Escucha el cambio de posición y luego añade un tiempo de silencio entre ambas.
-
-Toca dos rondas completas. Si el cambio se borra, baja a 60 BPM y conserva el ritmo antes de acelerar.
-
-:::checkpoint Graba dos rondas de pregunta y respuesta; ambas respuestas deben conservar el ritmo de la pregunta y resolver claramente en A.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Baue ein Solo über acht Takte: Frage und Antwort in A-Moll-Pentatonik
+# Referenz in Prüfung · Baue ein Solo über acht Takte: Frage und Antwort in A-Moll-Pentatonik
 
-Spiele die viertönige Frage langsam. Halte den Achtelrhythmus gleichmäßig und lass das abschließende A klingen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm zwei Runden aus Frage und Antwort auf; beide Antworten müssen den Rhythmus der Frage behalten und klar auf A enden.
 
-Verschiebe dieselbe Form für die Antwort zwei Bünde höher; ändere nur den letzten Ton zurück zu A.
-
-Wechsle Frage und Antwort bei 72 BPM ab. Höre auf den Lagenwechsel und füge danach einen stillen Schlag dazwischen ein.
-
-Spiele zwei vollständige Runden. Wenn der Wechsel verschwimmt, gehe auf 60 BPM und sichere den Rhythmus, bevor du beschleunigst.
-
-:::checkpoint Nimm zwei Runden aus Frage und Antwort auf; beide Antworten müssen den Rhythmus der Frage behalten und klar auf A enden.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 8小節のソロを作る：Aマイナーペンタトニックの問いと答え
+# 確認中の参照 · 8小節のソロを作る：Aマイナーペンタトニックの問いと答え
 
-4音の問いをゆっくり弾きます。8分音符のリズムをそろえ、最後のAを響かせます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：問いと答えを2周録音し、両方の答えで問いのリズムを保ち、Aへはっきり解決します。
 
-答えでは同じ形を2フレット上へ移し、最後の音だけAに戻します。
-
-72 BPMで問いと答えを交互に弾きます。ポジション移動を聴き、次に間へ1拍の休みを入れます。
-
-2周を通して弾きます。移動がぼやけたら60 BPMに下げ、速くする前にリズムを保ちます。
-
-:::checkpoint 問いと答えを2周録音し、両方の答えで問いのリズムを保ち、Aへはっきり解決します。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 构建八小节独奏：A小调五声音阶的问答
+# 审核中的参考 · 构建八小节独奏：A小调五声音阶的问答
 
-慢慢弹奏四音的提问。保持八分音符均匀，让最后的A延长。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：录下两轮问答；两次回答都要保持提问的节奏，并清楚地解决到A。
 
-回答时把同一指型上移两个品位；只把最后一个音改回A。
-
-以72 BPM交替弹奏提问和回答。听清把位移动，然后在两者之间加入一拍空白。
-
-完整弹两轮。如果移动变模糊，降到60 BPM，先保持节奏再加速。
-
-:::checkpoint 录下两轮问答；两次回答都要保持提问的节奏，并清楚地解决到A。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```fretboard
-id: guitar-call-response-shift-exercise
-title: A minor pentatonic call and response
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 0-9
-tempo: 72
-positions: 5:5/1 5:8/3 4:5/1 4:7/3 5:7/3 5:10/5 4:7/3 4:5/1
+```quiz
+id: guitar-call-response-shift-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

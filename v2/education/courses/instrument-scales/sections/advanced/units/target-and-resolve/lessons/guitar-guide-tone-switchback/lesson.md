@@ -6,117 +6,74 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 44
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar guide-tone switchback
-title.pt-BR: Zigue-zague de notas-guia na guitarra
-title.es: Zigzag de notas guía en guitarra
-title.de: Gitarren-Guide-Tone-Serpentine
-title.ja: ギター・ガイドトーン・スイッチバック
-title.zh-Hans: 吉他导音折返点
-summary.en: Change direction once per bar, but still land on each chord's guide tone by beat three.
-summary.pt-BR: Mude de direção uma vez por compasso, mas ainda chegue à nota-guia de cada acorde até o tempo três.
-summary.es: Cambia de dirección una vez por compás, pero aun así llega a la nota guía de cada acorde antes del tiempo tres.
-summary.de: Wechsle pro Takt einmal die Richtung und lande trotzdem bis Schlag drei auf dem Guide Tone jedes Akkords.
-summary.ja: 各小節で一度だけ進行方向を変えながら、3拍目までに各コードのガイドトーンへ着地します。
-summary.zh-Hans: 每小节只转向一次，但仍要在第三拍前落到该和弦的导音上。
+title.en: Reference in review · Guitar guide-tone switchback
+title.pt-BR: Referência em revisão · Zigue-zague de notas-guia na guitarra
+title.es: Referencia en revisión · Zigzag de notas guía en guitarra
+title.de: Referenz in Prüfung · Gitarren-Guide-Tone-Serpentine
+title.ja: 確認中の参照 · ギター・ガイドトーン・スイッチバック
+title.zh-Hans: 审核中的参考 · 吉他导音折返点
+summary.en: Original goal, physical practice under review: Change direction once per bar, but still land on each chord's guide tone by beat three.
+summary.pt-BR: Objetivo original, prática física em revisão: Mude de direção uma vez por compasso, mas ainda chegue à nota-guia de cada acorde até o tempo três.
+summary.es: Objetivo original, práctica física en revisión: Cambia de dirección una vez por compás, pero aun así llega a la nota guía de cada acorde antes del tiempo tres.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Wechsle pro Takt einmal die Richtung und lande trotzdem bis Schlag drei auf dem Guide Tone jedes Akkords.
+summary.ja: 元の目標（実技確認中）：各小節で一度だけ進行方向を変えながら、3拍目までに各コードのガイドトーンへ着地します。
+summary.zh-Hans: 原目标（实体演奏待审）：每小节只转向一次，但仍要在第三拍前落到该和弦的导音上。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar guide-tone switchback
+# Reference in review · Guitar guide-tone switchback
 
-Loop **Em7 - A7 - Dmaj7 - B7** at **94 bpm** and stay near **7th position**. In every bar you must climb or descend for two notes, make one clean direction change, and still arrive on the bar's guide tone by **beat 3**.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one full 4-bar pass with one clear direction change in every bar and every guide tone reached by beat 3. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 targets: **G** on Em7, **C#** on A7, **F#** on Dmaj7, and **D#** on B7. Limit yourself to **5 notes per bar** so the switchback shape stays readable. If you rush the turn, slow to **78 bpm** and keep the pick strokes tiny.
-
-Round 2: keep the same targets, but make bar 1 and bar 3 mostly stepwise while bar 2 and bar 4 include one skip of a **3rd** before the landing. The turn should sound deliberate, like you saw the corner coming early.
-
-Challenge round: play three passes. In one pass, start each bar on an upbeat. In another, use one slide on the turn point. In the last pass, make the final bar resolve to **B** on beat 4 without losing the D# guide-tone hit on beat 3.
-
-:::checkpoint Play one full 4-bar pass with one clear direction change in every bar and every guide tone reached by beat 3.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Zigue-zague de notas-guia na guitarra
+# Referência em revisão · Zigue-zague de notas-guia na guitarra
 
-Faça um loop em **Em7 - A7 - Dmaj7 - B7** a **94 bpm** e fique perto da **7ª posição**. Em cada compasso você deve subir ou descer por duas notas, fazer uma mudança limpa de direção e ainda chegar à nota-guia do compasso até o **tempo 3**.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque uma volta completa de 4 compassos com uma mudança clara de direção em cada compasso e todas as notas-guia chegando até o tempo 3. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Alvos da rodada 1: **G** no Em7, **C#** no A7, **F#** no Dmaj7 e **D#** no B7. Limite-se a **5 notas por compasso** para que o desenho em zigue-zague continue legível. Se você correr na virada, reduza para **78 bpm** e mantenha as palhetadas pequenas.
-
-Rodada 2: mantenha os mesmos alvos, mas faça os compassos 1 e 3 quase sempre conjuntos, enquanto os compassos 2 e 4 incluem um salto de **3ª** antes da chegada. A virada deve soar intencional, como se você já tivesse visto a curva chegando.
-
-Rodada de desafio: toque três voltas. Em uma delas, comece cada compasso no contratempo. Em outra, use um slide no ponto da virada. Na última, faça o compasso final resolver em **B** no tempo 4 sem perder a chegada em **D#** no tempo 3.
-
-:::checkpoint Toque uma volta completa de 4 compassos com uma mudança clara de direção em cada compasso e todas as notas-guia chegando até o tempo 3.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Zigzag de notas guía en guitarra
+# Referencia en revisión · Zigzag de notas guía en guitarra
 
-Pon en bucle **Em7 - A7 - Dmaj7 - B7** a **94 bpm** y quédate cerca de la **7ª posición**. En cada compás debes subir o bajar durante dos notas, hacer un cambio limpio de dirección y aun así llegar a la nota guía del compás antes del **tiempo 3**.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca una vuelta completa de 4 compases con un cambio claro de dirección en cada compás y cada nota guía alcanzada antes del tiempo 3. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Objetivos de la ronda 1: **G** sobre Em7, **C#** sobre A7, **F#** sobre Dmaj7 y **D#** sobre B7. Limítate a **5 notas por compás** para que la forma en zigzag siga siendo clara. Si te aceleras en el giro, baja a **78 bpm** y mantén pequeñas las púas.
-
-Ronda 2: conserva los mismos objetivos, pero haz que los compases 1 y 3 sean casi siempre conjuntos, mientras que los compases 2 y 4 incluyan un salto de **3ª** antes de la llegada. El giro debe sonar deliberado, como si hubieras visto la curva con antelación.
-
-Ronda de reto: toca tres vueltas. En una, empieza cada compás en contratiempo. En otra, usa un slide en el punto del giro. En la última, haz que el compás final resuelva en **B** en el tiempo 4 sin perder el golpe de **D#** en el tiempo 3.
-
-:::checkpoint Toca una vuelta completa de 4 compases con un cambio claro de dirección en cada compás y cada nota guía alcanzada antes del tiempo 3.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Guide-Tone-Serpentine
+# Referenz in Prüfung · Gitarren-Guide-Tone-Serpentine
 
-Loope **Em7 - A7 - Dmaj7 - B7** bei **94 bpm** und bleibe nahe der **7. Lage**. In jedem Takt sollst du zwei Töne auf- oder absteigen, dann einmal sauber die Richtung wechseln und trotzdem bis **Schlag 3** auf dem Guide Tone des Taktes landen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen vollständigen 4-Takt-Durchgang mit genau einem klaren Richtungswechsel pro Takt und jedem Guide Tone bis Schlag 3. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Ziele in Runde 1: **G** auf Em7, **C#** auf A7, **F#** auf Dmaj7 und **D#** auf B7. Begrenze dich auf **5 Töne pro Takt**, damit die Serpentinenform lesbar bleibt. Wenn du in der Wende hetzt, gehe auf **78 bpm** zurück und halte die Plektrumschläge klein.
-
-Runde 2: behalte dieselben Ziele, aber gestalte Takt 1 und 3 überwiegend schrittweise, während Takt 2 und 4 vor der Landung einen Sprung von einer **Terz** enthalten. Die Wende soll absichtlich klingen, als hättest du die Kurve früh gesehen.
-
-Challenge-Runde: spiele drei Durchgänge. In einem startest du jeden Takt auf einem Offbeat. In einem anderen nutzt du am Wendepunkt einen Slide. Im letzten soll der Schlusstakt auf **B** auf Schlag 4 auflösen, ohne den **D#**-Treffer auf Schlag 3 zu verlieren.
-
-:::checkpoint Spiele einen vollständigen 4-Takt-Durchgang mit genau einem klaren Richtungswechsel pro Takt und jedem Guide Tone bis Schlag 3.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・ガイドトーン・スイッチバック
+# 確認中の参照 · ギター・ガイドトーン・スイッチバック
 
-**Em7 - A7 - Dmaj7 - B7** を **94 bpm** でループし、**7フレット付近** にとどまります。各小節では最初の2音で上行または下行し、そのあと一度だけきれいに方向を変え、それでも **3拍目までに** その小節のガイドトーンへ到着しなければなりません。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：4小節を1周通して、各小節で一度だけ明確に方向を変え、すべてのガイドトーンに3拍目までに到達しましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1の目標音は Em7 で **G**、A7 で **C#**、Dmaj7 で **F#**、B7 で **D#** です。ジグザグの形が見えるよう、**1小節5音まで** に制限します。折り返しで急いでしまうなら **78 bpm** まで下げ、ピッキングを小さく保ってください。
-
-ラウンド2では同じ目標音を使いながら、1小節目と3小節目はほぼ順次進行、2小節目と4小節目は着地前に **3度** の跳躍を1回入れます。折り返しが、先に角を見つけていたように意図的に聞こえることが大切です。
-
-チャレンジでは3周弾きます。1周は各小節を裏拍から始め、別の1周では折り返し地点でスライドを1回使います。最後の1周では、最終小節で **3拍目にD#** を当てたまま **4拍目でB** に解決してください。
-
-:::checkpoint 4小節を1周通して、各小節で一度だけ明確に方向を変え、すべてのガイドトーンに3拍目までに到達しましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他导音折返点
+# 审核中的参考 · 吉他导音折返点
 
-把 **Em7 - A7 - Dmaj7 - B7** 设成 **94 bpm** 循环，并尽量待在 **第7把位附近**。每一小节你都要先连续上行或下行两个音，再做一次干净的转向，而且仍然要在 **第3拍之前** 落到这一小节的导音上。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹一遍4小节，让每小节都只有一次清楚的转向，并且所有导音都在第3拍前准确到达。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮目标音：Em7 用 **G**，A7 用 **C#**，Dmaj7 用 **F#**，B7 用 **D#**。每小节最多只弹 **5个音**，这样折返形状才清楚。如果你在转弯处开始抢拍，就降到 **78 bpm**，并把拨弦动作缩小。
-
-第2轮：保持同样的目标音，但让第1和第3小节以级进为主，第2和第4小节则在落点前加入一次 **三度** 跳进。这个转向要听起来像是早就看见弯道，而不是临时补救。
-
-挑战轮：弹三遍。第一遍每小节都从反拍开始；第二遍在转向点加入一次滑音；最后一遍要在最后一小节保持 **第3拍落到D#**，并在 **第4拍解决到B**。
-
-:::checkpoint 完整弹一遍4小节，让每小节都只有一次清楚的转向，并且所有导音都在第3拍前准确到达。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
-
-```fretboard
-id: guide-tone-switchback
-title: Em7 A7 Dmaj7 B7 switchback guide tones
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 6-11
-sequence: 3/9 3/7 2/8 2/8 | 2/7 2/9 2/11 2/11 | 2/7 2/9 2/7 2/7 | 2/10 2/8 2/9 2/9
-```
 
 ```notes
 id: guide-tone-switchback-line
 title: One-turn guide-tone line
 instrument: guitar
 tempo: 94
-sequence: E4 F#4 G4 A4 G4 | B3 C#4 E4 D4 C#4 | A3 B3 C#4 G4 F#4 | F#4 E4 D#4 F#4 B4
+sequence: E4 F#4 G4 A4 G4 B3 C#4 E4 D4 C#4 A3 B3 C#4 G4 F#4 F#4 E4 D#4 F#4 B4
 ```

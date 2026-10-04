@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 99
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass Fifth Pocket Lock
-title.pt-BR: Baixo: trava do groove na quinta
-title.es: Bajo: quinta en el bolsillo
-title.de: Bass: Quinten im Groove
-title.ja: ベース：5度ポケット・ロック
-title.zh-Hans: 贝斯：五级音律动锁定
-summary.en: Keep a syncopated bass cell steady while targeting the root and fifth through a four-chord loop.
-summary.pt-BR: Mantenha firme uma célula sincopada de baixo, mirando tônica e quinta em um loop de quatro acordes.
-summary.es: Mantén estable una célula sincopada de bajo mientras apuntas a raíz y quinta en un bucle de cuatro acordes.
-summary.de: Halte eine synkopierte Basszelle stabil und ziele in einer viertaktigen Schleife auf Grundton und Quinte.
-summary.ja: 4コードのループで、シンコペーションのベースセルを保ち、主音と5度を狙います。
-summary.zh-Hans: 在四和弦循环中保持切分贝斯单元稳定，瞄准根音和五级音。
+title.en: Reference in review · Bass Fifth Pocket Lock
+title.pt-BR: Referência em revisão · Baixo: trava do groove na quinta
+title.es: Referencia en revisión · Bajo: quinta en el bolsillo
+title.de: Referenz in Prüfung · Bass: Quinten im Groove
+title.ja: 確認中の参照 · ベース：5度ポケット・ロック
+title.zh-Hans: 审核中的参考 · 贝斯：五级音律动锁定
+summary.en: Original goal, physical practice under review: Keep a syncopated bass cell steady while targeting the root and fifth through a four-chord loop.
+summary.pt-BR: Objetivo original, prática física em revisão: Mantenha firme uma célula sincopada de baixo, mirando tônica e quinta em um loop de quatro acordes.
+summary.es: Objetivo original, práctica física en revisión: Mantén estable una célula sincopada de bajo mientras apuntas a raíz y quinta en un bucle de cuatro acordes.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Halte eine synkopierte Basszelle stabil und ziele in einer viertaktigen Schleife auf Grundton und Quinte.
+summary.ja: 元の目標（実技確認中）：4コードのループで、シンコペーションのベースセルを保ち、主音と5度を狙います。
+summary.zh-Hans: 原目标（实体演奏待审）：在四和弦循环中保持切分贝斯单元稳定，瞄准根音和五级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass Fifth Pocket Lock
+# Reference in review · Bass Fifth Pocket Lock
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **84 BPM**. Count **1-and-2-and** and keep the low notes relaxed.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play eight loops with every root on beat one and every fifth arriving on the offbeat without breaking the groove. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-On Am7 play **A–E–A** with the last A on the and of two. On D7 use **D–A–D** with the same rhythm.
-
-Answer Gmaj7 with **G–D–G** and Cmaj7 with **C–G–C**. Feel the root as home and the fifth as the launchpad.
-
-Boss round: mute the first hit of every bar, keep the syncopation, and play eight loops. Drop to 68 BPM if the pocket rushes.
-
-:::checkpoint Play eight loops with every root on beat one and every fifth arriving on the offbeat without breaking the groove.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Baixo: trava do groove na quinta
+# Referência em revisão · Baixo: trava do groove na quinta
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **84 BPM**. Conte **1-e-2-e** e mantenha as notas graves relaxadas.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque oito loops com cada tônica no primeiro tempo e cada quinta chegando no contratempo sem quebrar o groove. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-No Am7 toque **A–E–A**, com o último A no contratempo do dois. No D7 use **D–A–D** com o mesmo ritmo.
-
-Responda ao Gmaj7 com **G–D–G** e ao Cmaj7 com **C–G–C**. Sinta a tônica como casa e a quinta como impulso.
-
-Rodada chefão: abafe o primeiro ataque de cada compasso, mantenha a síncope e toque oito loops. Se acelerar, reduza para 68 BPM.
-
-:::checkpoint Toque oito loops com cada tônica no primeiro tempo e cada quinta chegando no contratempo sem quebrar o groove.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Bajo: quinta en el bolsillo
+# Referencia en revisión · Bajo: quinta en el bolsillo
 
-Haz un bucle de **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **84 BPM**. Cuenta **1-y-2-y** y relaja las notas graves.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca ocho bucles con cada raíz en el primer pulso y cada quinta llegando en el contratiempo sin romper el pulso. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Sobre Am7 toca **A–E–A**, con la última A en el contratiempo de dos. En D7 usa **D–A–D** con el mismo ritmo.
-
-Responde a Gmaj7 con **G–D–G** y a Cmaj7 con **C–G–C**. Siente la raíz como casa y la quinta como impulso.
-
-Ronda jefe: silencia el primer ataque de cada compás, conserva la síncopa y toca ocho bucles. Si te adelantas, baja a 68 BPM.
-
-:::checkpoint Toca ocho bucles con cada raíz en el primer pulso y cada quinta llegando en el contratiempo sin romper el pulso.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass: Quinten im Groove
+# Referenz in Prüfung · Bass: Quinten im Groove
 
-Schleife **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **84 BPM**. Zähle **1-und-2-und** und halte die tiefen Töne locker.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele acht Schleifen; jeder Grundton liegt auf Schlag eins und jede Quinte kommt auf dem Offbeat, ohne den Groove zu verlieren. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Spiele bei Am7 **A–E–A**, das letzte A auf der Und von zwei. Bei D7 nutze **D–A–D** im selben Rhythmus.
-
-Antworte bei Gmaj7 mit **G–D–G**, bei Cmaj7 mit **C–G–C**. Spüre den Grundton als Zuhause und die Quinte als Antrieb.
-
-Boss-Runde: Dämpfe den ersten Anschlag jedes Takts, behalte die Synkope und spiele acht Schleifen. Bei Eile auf 68 BPM gehen.
-
-:::checkpoint Spiele acht Schleifen; jeder Grundton liegt auf Schlag eins und jede Quinte kommt auf dem Offbeat, ohne den Groove zu verlieren.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベース：5度ポケット・ロック
+# 確認中の参照 · ベース：5度ポケット・ロック
 
-**| Am7 | D7 | Gmaj7 | Cmaj7 |** を**84 BPM**でループします。**1と2と**と数え、低音をリラックスさせます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：8ループ弾き、各主音を1拍目、各5度を裏拍に置き、グルーヴを崩しません。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-Am7では **A–E–A** を弾き、最後のAを2拍目の裏に置きます。D7では同じリズムで **D–A–D**。
-
-Gmaj7には **G–D–G**、Cmaj7には **C–G–C** で答えます。主音を家、5度を出発点として感じます。
-
-ボスラウンドでは各小節の最初のアタックをミュートし、シンコペーションを保って8ループ。急ぐなら68 BPMへ下げます。
-
-:::checkpoint 8ループ弾き、各主音を1拍目、各5度を裏拍に置き、グルーヴを崩しません。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯：五级音律动锁定
+# 审核中的参考 · 贝斯：五级音律动锁定
 
-以**84 BPM**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。数 **1-和-2-和**，让低音保持放松。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹八遍循环，每个根音落在第1拍、每个五级音落在反拍，同时不破坏律动。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-在Am7上弹 **A–E–A**，最后一个A落在第2拍后半；D7用相同节奏弹 **D–A–D**。
-
-在Gmaj7上用 **G–D–G** 回答，在Cmaj7上用 **C–G–C** 回答。把根音当作家，把五级音当作起跳点。
-
-挑战轮：每小节第一下闷音，保持切分，弹八遍循环。若抢拍，就降到68 BPM。
-
-:::checkpoint 弹八遍循环，每个根音落在第1拍、每个五级音落在反拍，同时不破坏律动。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,5 +75,5 @@ id: bass-fifth-pocket-lock-main
 title: Root and fifth pocket
 instrument: bass
 tempo: 84
-sequence: A2 E3 A2 - | D2 A2 D3 - | G2 D3 G2 - | C2 G2 C3 -
+sequence: A2 E3 A2 - D2 A2 D3 - G2 D3 G2 - C2 G2 C3 -
 ```

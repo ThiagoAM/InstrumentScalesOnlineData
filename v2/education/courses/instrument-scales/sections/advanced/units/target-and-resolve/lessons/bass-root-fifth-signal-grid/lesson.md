@@ -6,117 +6,86 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 93
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass traffic-light target grid
-title.pt-BR: Semáforos de tônica e quinta no baixo
-title.es: Semáforos de raíz y quinta en bajo
-title.de: Bass-Ampel-Zielraster
-title.ja: ベースのルート・5度信号機
-title.zh-Hans: 贝斯根音五级音信号灯
-summary.en: Use rests as traffic lights while alternating root and fifth targets through a syncopated line.
-summary.pt-BR: Use pausas como semáforos ao alternar alvos de tônica e quinta em uma linha sincopada.
-summary.es: Usa silencios como semáforos mientras alternas objetivos de raíz y quinta en una línea sincopada.
-summary.de: Nutze Pausen als Ampeln und wechsle in einer Synkopenlinie zwischen Grundton- und Quintenzielen.
-summary.ja: 休符を信号機にして、シンコペーションの中でルートと5度の目標を交替します。
-summary.zh-Hans: 把休止当作信号灯，在切分线条中交替瞄准根音和五级音。
+title.en: Reference in review · Bass traffic-light target grid
+title.pt-BR: Referência em revisão · Semáforos de tônica e quinta no baixo
+title.es: Referencia en revisión · Semáforos de raíz y quinta en bajo
+title.de: Referenz in Prüfung · Bass-Ampel-Zielraster
+title.ja: 確認中の参照 · ベースのルート・5度信号機
+title.zh-Hans: 审核中的参考 · 贝斯根音五级音信号灯
+summary.en: Original goal, physical practice under review: Use rests as traffic lights while alternating root and fifth targets through a syncopated line.
+summary.pt-BR: Objetivo original, prática física em revisão: Use pausas como semáforos ao alternar alvos de tônica e quinta em uma linha sincopada.
+summary.es: Objetivo original, práctica física en revisión: Usa silencios como semáforos mientras alternas objetivos de raíz y quinta en una línea sincopada.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Nutze Pausen als Ampeln und wechsle in einer Synkopenlinie zwischen Grundton- und Quintenzielen.
+summary.ja: 元の目標（実技確認中）：休符を信号機にして、シンコペーションの中でルートと5度の目標を交替します。
+summary.zh-Hans: 原目标（实体演奏待审）：把休止当作信号灯，在切分线条中交替瞄准根音和五级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass traffic-light target grid
+# Reference in review · Bass traffic-light target grid
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **84 bpm**. Keep the eighth-note grid audible and let every rest act like a red light.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play eight bars that alternate root and fifth targets, include beat-three rests, and make two clean register changes.
 
-Play root on beat one and fifth on the and of two, then rest on beat three. Target **A-E, D-A, G-D, C-G** one bar at a time.
-
-On the second round, shift the fifth one octave higher and play the root shorter. Prepare during the rest; the silence is your green light for the next move.
-
-Boss pass: connect eight bars with two register changes and no extra notes. If the groove blurs, drop to **66 bpm** and count every “and” aloud.
-
-:::checkpoint Play eight bars that alternate root and fifth targets, include beat-three rests, and make two clean register changes.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Semáforos de tônica e quinta no baixo
+# Referência em revisão · Semáforos de tônica e quinta no baixo
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **84 bpm**. Mantenha audível a grade de colcheias e trate cada pausa como sinal vermelho.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque oito compassos alternando alvos de tônica e quinta, com pausas no tempo 3 e duas mudanças limpas de registro.
 
-Toque a tônica no tempo 1 e a quinta no contratempo de dois; depois descanse no tempo 3. Mire em **A-E, D-A, G-D, C-G**, um compasso por vez.
-
-Na segunda rodada, mude a quinta uma oitava acima e encurte a tônica. Prepare durante a pausa; o silêncio é seu sinal verde para o próximo movimento.
-
-Passagem chefão: conecte oito compassos com duas mudanças de registro e nenhuma nota extra. Se o groove borrar, desça para **66 bpm** e conte cada “e” em voz alta.
-
-:::checkpoint Toque oito compassos alternando alvos de tônica e quinta, com pausas no tempo 3 e duas mudanças limpas de registro.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Semáforos de raíz y quinta en bajo
+# Referencia en revisión · Semáforos de raíz y quinta en bajo
 
-Repite **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **84 bpm**. Mantén audible la cuadrícula de corcheas y trata cada silencio como luz roja.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca ocho compases alternando objetivos de raíz y quinta, con silencios en el tiempo 3 y dos cambios limpios de registro.
 
-Toca la raíz en el tiempo 1 y la quinta en el contratiempo de dos; después descansa en el tiempo 3. Apunta a **A-E, D-A, G-D, C-G**, un compás cada vez.
-
-En la segunda ronda, sube la quinta una octava y acorta la raíz. Prepárate durante el silencio; es tu luz verde para el movimiento siguiente.
-
-Pasada jefe: conecta ocho compases con dos cambios de registro y ninguna nota extra. Si el groove se borra, baja a **66 bpm** y cuenta cada “y” en voz alta.
-
-:::checkpoint Toca ocho compases alternando objetivos de raíz y quinta, con silencios en el tiempo 3 y dos cambios limpios de registro.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass-Grundton-Quinte-Ampel
+# Referenz in Prüfung · Bass-Ampel-Zielraster
 
-Loope **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **84 bpm**. Halte das Achtelraster hörbar und behandle jede Pause als rote Ampel.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele acht Takte mit wechselnden Grundton- und Quintenzielen, Pausen auf der Drei und zwei sauberen Registerwechseln.
 
-Spiele den Grundton auf Eins und die Quinte auf der Und von Zwei, dann pausiere auf der Drei. Ziele Takt für Takt auf **A-E, D-A, G-D, C-G**.
-
-Verschiebe in Runde zwei die Quinte eine Oktave nach oben und spiele den Grundton kürzer. Bereite dich in der Pause vor; die Stille ist dein grünes Licht.
-
-Boss-Durchgang: Verbinde acht Takte mit zwei Registerwechseln und ohne Extratöne. Wenn der Groove verschwimmt, gehe auf **66 bpm** und zähle jede Und laut.
-
-:::checkpoint Spiele acht Takte mit wechselnden Grundton- und Quintenzielen, Pausen auf der Drei und zwei sauberen Registerwechseln.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベースのルート・5度信号機
+# 確認中の参照 · ベースのルート・5度信号機
 
-**84 bpm**で **| Am7 | D7 | Gmaj7 | Cmaj7 |** をループします。8分音符の格子を感じ、休符を赤信号にします。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：ルートと5度の目標を交替し、3拍目の休符と2回のきれいな音域移動を含む8小節を弾きましょう。
 
-1拍目にルート、2拍目の裏に5度を弾き、3拍目は休みます。1小節ずつ **A-E、D-A、G-D、C-G** を目標にします。
-
-2周目は5度を1オクターブ上げ、ルートを短くします。休符の間に準備し、静けさを次の動きへの青信号にします。
-
-ボスパスでは余分な音を加えず、2回音域を変えて8小節つなぎます。ぼやけたら**66 bpm**に下げ、「and」を声に出して数えます。
-
-:::checkpoint ルートと5度の目標を交替し、3拍目の休符と2回のきれいな音域移動を含む8小節を弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯根音五级音信号灯
+# 审核中的参考 · 贝斯根音五级音信号灯
 
-以**84 bpm**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。保持八分音符网格清晰，让每个休止像红灯。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：演奏八小节，交替瞄准根音和五级音，在第三拍休止，并完成两次干净的音区变化。
 
-第一拍演奏根音，第二拍后半拍演奏五级音，第三拍休止。每小节瞄准 **A-E、D-A、G-D、C-G**。
-
-第二轮把五级音提高一个八度，并缩短根音。利用休止准备移动；静默就是下一步的绿灯。
-
-挑战轮：不加额外音符，完成八小节并改变音区两次。如果律动模糊，就降到**66 bpm**，大声数每个“and”。
-
-:::checkpoint 演奏八小节，交替瞄准根音和五级音，在第三拍休止，并完成两次干净的音区变化。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```notes
-id: bass-root-fifth-traffic-lights-main
-title: Root fifth traffic lights
-instrument: bass
-tempo: 84
-sequence: A-E/- | D-A/- | G-D/- | C-G/-
-```
-
-```fretboard
-id: bass-root-fifth-traffic-lights-map
-title: Root and fifth lanes
-instrument: bass
-tuning: E1 A1 D2 G2
-fretRange: 0-7
-positions: 3:0 A, 2:2 B, 2:5 D, 1:0 G, 1:3 A, 4:3 C, 3:5 G
+```quiz
+id: bass-root-fifth-signal-grid-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

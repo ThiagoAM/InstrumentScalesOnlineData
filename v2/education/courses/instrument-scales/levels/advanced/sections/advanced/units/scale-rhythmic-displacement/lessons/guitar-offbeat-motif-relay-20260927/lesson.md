@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: scale-rhythmic-displacement
 order: 13
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: The half-beat motif relay
-title.pt-BR: O revezamento do motivo no contratempo
-title.es: Relevo del motivo a contratiempo
-title.de: Motiv-Staffel um einen halben Schlag
-title.ja: 半拍ずらすモチーフ・リレー
-title.zh-Hans: 半拍错位的动机接力
-summary.en: Shift an E-minor three-note motif by half a beat, then land on the next bar’s root.
-summary.pt-BR: Desloque um motivo de três notas em mi menor por meio tempo e pouse na fundamental do compasso seguinte.
-summary.es: Desplaza medio pulso un motivo de tres notas en mi menor y llega a la fundamental del compás siguiente.
-summary.de: Verschiebe ein dreitöniges E-Moll-Motiv um einen halben Schlag und lande im nächsten Takt auf dem Grundton.
-summary.ja: Eマイナーの3音モチーフを半拍ずらし、次の小節の頭で主音に着地します。
-summary.zh-Hans: 将E小调三音动机错开半拍，并在下一小节第一拍落到根音。
+title.en: Reference in review · The half-beat motif relay
+title.pt-BR: Referência em revisão · O revezamento do motivo no contratempo
+title.es: Referencia en revisión · Relevo del motivo a contratiempo
+title.de: Referenz in Prüfung · Motiv-Staffel um einen halben Schlag
+title.ja: 確認中の参照 · 半拍ずらすモチーフ・リレー
+title.zh-Hans: 审核中的参考 · 半拍错位的动机接力
+summary.en: Original goal, physical practice under review: Shift an E-minor three-note motif by half a beat, then land on the next bar’s root.
+summary.pt-BR: Objetivo original, prática física em revisão: Desloque um motivo de três notas em mi menor por meio tempo e pouse na fundamental do compasso seguinte.
+summary.es: Objetivo original, práctica física en revisión: Desplaza medio pulso un motivo de tres notas en mi menor y llega a la fundamental del compás siguiente.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Verschiebe ein dreitöniges E-Moll-Motiv um einen halben Schlag und lande im nächsten Takt auf dem Grundton.
+summary.ja: 元の目標（実技確認中）：Eマイナーの3音モチーフを半拍ずらし、次の小節の頭で主音に着地します。
+summary.zh-Hans: 原目标（实体演奏待审）：将E小调三音动机错开半拍，并在下一小节第一拍落到根音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# The half-beat motif relay
+# Reference in review · The half-beat motif relay
 
-At 64 BPM in 4/4, your mission is to move one small motif by an eighth note while keeping its notes and the next bar’s landing fixed. The relay uses E3, G3 and B3: root, minor third and perfect fifth of E minor. Clap eighth-note subdivisions before touching the strings.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: At 64 BPM, record two A–B pairs: shift E–G–B by one eighth in B and land on E at the next bar’s beat 1 in both cards. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-In standard tuning, E3 is string 4 fret 2, G3 is open string 3, and B3 is string 3 fret 4. Play card A: E on beat 1, G on 1-and, B on beat 2; rest until the next bar, where E lands on beat 1. Speak the counts aloud.
-
-Card B starts with an eighth rest. E now enters on 1-and, G on beat 2, and B on 2-and. The next bar still begins with E for two beats. Alternate A and B twice; the notes are identical, so the shifted rhythm must carry the difference.
-
-Record two A–B pairs. Give yourself a point only when B begins after its rest and both landing E notes hit the following downbeat. If the relay rushes, slow to 48 BPM and clap the initial eighth rest; keep the displacement and the next-bar root in the easier version.
-
-:::checkpoint At 64 BPM, record two A–B pairs: shift E–G–B by one eighth in B and land on E at the next bar’s beat 1 in both cards.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# O revezamento do motivo no contratempo
+# Referência em revisão · O revezamento do motivo no contratempo
 
-Em 4/4 a 64 BPM, desloque um pequeno motivo por uma colcheia sem mudar as notas nem a chegada no compasso seguinte. O revezamento usa E3, G3 e B3: fundamental, terça menor e quinta justa de mi menor. Bata palmas nas subdivisões de colcheia antes de tocar.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: A 64 BPM, grave dois pares A–B: desloque E–G–B por uma colcheia em B e chegue a E no tempo 1 seguinte nos dois cartões. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Em afinação padrão, E3 fica na corda 4 casa 2, G3 na corda 3 solta e B3 na corda 3 casa 4. Toque o cartão A: E no tempo 1, G no “e” de 1, B no tempo 2; pause até o compasso seguinte, em que E cai no tempo 1. Conte em voz alta.
-
-O cartão B começa com uma pausa de colcheia. E entra no “e” de 1, G no tempo 2 e B no “e” de 2. O compasso seguinte ainda começa com E sustentado por dois tempos. Alterne A e B duas vezes; como as notas são iguais, a diferença vem do ritmo deslocado.
-
-Grave dois pares A–B. Marque ponto apenas se B começar depois da pausa e os dois E de chegada coincidirem com o tempo forte seguinte. Se acelerar, reduza para 48 BPM e bata a pausa inicial; preserve o deslocamento e a fundamental de chegada na versão fácil.
-
-:::checkpoint A 64 BPM, grave dois pares A–B: desloque E–G–B por uma colcheia em B e chegue a E no tempo 1 seguinte nos dois cartões.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Relevo del motivo a contratiempo
+# Referencia en revisión · Relevo del motivo a contratiempo
 
-En 4/4 a 64 BPM, mueve un motivo pequeño una corchea sin cambiar sus notas ni la llegada del compás siguiente. El relevo usa E3, G3 y B3: fundamental, tercera menor y quinta justa de mi menor. Marca con palmas las subdivisiones de corchea antes de tocar.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: A 64 BPM, graba dos parejas A–B: desplaza E–G–B una corchea en B y llega a E en el pulso 1 siguiente en ambas tarjetas. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Con afinación estándar, E3 está en cuerda 4 traste 2, G3 en cuerda 3 al aire y B3 en cuerda 3 traste 4. Toca la tarjeta A: E en pulso 1, G en su “y”, B en pulso 2; guarda silencio hasta el compás siguiente, donde E cae en pulso 1. Cuenta en voz alta.
-
-La tarjeta B empieza con un silencio de corchea. E entra en el “y” de 1, G en pulso 2 y B en su “y”. El compás siguiente también empieza con E durante dos pulsos. Alterna A y B dos veces; como las notas son iguales, el ritmo desplazado debe producir la diferencia.
-
-Graba dos parejas A–B. Suma un punto solo cuando B empiece después del silencio y ambos E de llegada caigan en el siguiente tiempo fuerte. Si te adelantas, baja a 48 BPM y marca el silencio inicial; conserva el desplazamiento y la fundamental de llegada.
-
-:::checkpoint A 64 BPM, graba dos parejas A–B: desplaza E–G–B una corchea en B y llega a E en el pulso 1 siguiente en ambas tarjetas.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Motiv-Staffel um einen halben Schlag
+# Referenz in Prüfung · Motiv-Staffel um einen halben Schlag
 
-Bei 64 BPM im 4/4-Takt verschiebst du ein kurzes Motiv um eine Achtelnote. Töne und Ziel im nächsten Takt bleiben gleich. Die Staffel nutzt E3, G3 und B3: Grundton, kleine Terz und reine Quinte von E-Moll. Klatsche erst die Achtelunterteilung.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm bei 64 BPM zwei A–B-Paare auf: Verschiebe E–G–B in B um eine Achtel und lande in beiden Karten auf der nächsten Eins mit E. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-In Standardstimmung liegt E3 auf Saite 4 Bund 2, G3 auf der leeren Saite 3 und B3 auf Saite 3 Bund 4. Spiele Karte A: E auf Schlag 1, G auf 1-und, B auf Schlag 2. Danach pausierst du bis zum nächsten Takt, in dem E auf Schlag 1 landet. Zähle laut.
-
-Karte B beginnt mit einer Achtelpause. E kommt auf 1-und, G auf Schlag 2 und B auf 2-und. Der nächste Takt beginnt weiterhin mit E für zwei Schläge. Wechsle zweimal zwischen A und B. Da die Töne gleich sind, entsteht der Unterschied allein durch die Verschiebung.
-
-Nimm zwei A–B-Paare auf. Ein Punkt zählt nur, wenn B nach seiner Pause beginnt und beide Ziel-E auf der nächsten Eins liegen. Falls du hetzt, gehe auf 48 BPM und klatsche die erste Achtelpause; Verschiebung und Grundton im Folgetakt müssen erhalten bleiben.
-
-:::checkpoint Nimm bei 64 BPM zwei A–B-Paare auf: Verschiebe E–G–B in B um eine Achtel und lande in beiden Karten auf der nächsten Eins mit E.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 半拍ずらすモチーフ・リレー
+# 確認中の参照 · 半拍ずらすモチーフ・リレー
 
-4/4拍、64 BPMで短いモチーフを8分音符一つ分ずらし、音と次の小節の着地点は変えません。E3、G3、B3はEマイナーの根音、短3度、完全5度です。弦を弾く前に8分音符の刻みを手拍子で確認します。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：64 BPMでA–Bを2組録音し、BのE–G–Bを8分音符一つ分ずらして、両カードとも次の小節の1拍目にEで着地します。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-標準チューニングではE3は4弦2フレット、G3は3弦開放、B3は3弦4フレットです。カードAは1拍目にE、1拍目の裏にG、2拍目にBを弾きます。その後は休み、次の小節の1拍目にEで着地します。声に出して数えましょう。
-
-カードBは8分休符から始めます。Eは1拍目の裏、Gは2拍目、Bは2拍目の裏に入ります。次の小節はやはりEを2拍伸ばして始めます。AとBを2回ずつ交互に弾きます。音は同じなので、リズムのずれで違いを聴かせます。
-
-A–Bを2組録音します。Bが休符の後から始まり、両方の着地のEが次の小節の頭に合った場合だけ得点です。走ってしまうなら48 BPMに下げ、最初の8分休符を手拍子で示します。簡単にしても半拍のずれと着地の根音を残します。
-
-:::checkpoint 64 BPMでA–Bを2組録音し、BのE–G–Bを8分音符一つ分ずらして、両カードとも次の小節の1拍目にEで着地します。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 半拍错位的动机接力
+# 审核中的参考 · 半拍错位的动机接力
 
-在4/4拍、64 BPM下，把短动机移动一个八分音符，同时保持音符和下一小节的落点不变。接力使用E3、G3、B3：它们是E小调的根音、小三度和纯五度。碰琴弦之前，先拍手数八分音符。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：以64 BPM录下两组A–B：B中的E–G–B错开一个八分音符，两张卡都在下一小节第1拍落到E。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-标准调弦下，E3在第4弦第2品，G3在第3弦空弦，B3在第3弦第4品。弹卡片A：第1拍弹E，第1拍后半拍弹G，第2拍弹B；随后休止，到下一小节第1拍才落在E。练习时大声数拍。
-
-卡片B先休止一个八分音符。E在第1拍后半拍进入，G在第2拍，B在第2拍后半拍。下一小节仍以持续两拍的E开始。交替弹A和B各两遍；音符完全相同，让错位的节奏带来听觉差异。
-
-录下两组A–B。只有B确实在休止之后进入，且两次落点E都对准下一小节强拍，才得一分。如果抢拍，降到48 BPM并拍出开头的八分休止；简化时仍保留错位和下一小节的根音。
-
-:::checkpoint 以64 BPM录下两组A–B：B中的E–G–B错开一个八分音符，两张卡都在下一小节第1拍落到E。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,7 +75,7 @@ id: guitar-offbeat-motif-relay-20260927-a
 title: A - on the beat
 instrument: guitar
 tempo: 64
-sequence: E3/0.5 G3/0.5 B3/1 -/2 | E3/2 -/2
+sequence: E3/0.5 G3/0.5 B3/1 -/2 E3/2 -/2
 ```
 
 ```notes
@@ -117,12 +83,5 @@ id: guitar-offbeat-motif-relay-20260927-b
 title: B - eighth-note shift
 instrument: guitar
 tempo: 64
-sequence: -/0.5 E3/0.5 G3/0.5 B3/1 -/1.5 | E3/2 -/2
-```
-
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 0-4
-positions: 4:2 E, 3:0 G, 3:4 B
-sequence: E-G-B | E
+sequence: -/0.5 E3/0.5 G3/0.5 B3/1 -/1.5 E3/2 -/2
 ```

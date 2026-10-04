@@ -6,7 +6,7 @@ level: beginner
 section: beginner
 unit: scale-major-keys-in-reach
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: The D-major thumb gate
@@ -121,5 +121,5 @@ id: piano-d-major-thumb-gate-20260926-1
 title: Right hand D-major thumb crossing
 instrument: piano
 tempo: 68
-sequence: D4/1 E4/1 F#4/1 G4/1 | A4/2 -/2 | A4/1 G4/1 F#4/1 E4/1 | D4/2 -/2
+sequence: D4/1 E4/1 F#4/1 G4/1 A4/2 -/2 A4/1 G4/1 F#4/1 E4/1 D4/2 -/2
 ```

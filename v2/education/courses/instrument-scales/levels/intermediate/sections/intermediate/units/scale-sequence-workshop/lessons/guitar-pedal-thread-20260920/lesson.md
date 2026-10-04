@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-sequence-workshop
 order: 15
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: guitar
 title.en: The returning thread
@@ -121,5 +121,5 @@ id: guitar-pedal-thread-20260920-1
 title: A
 instrument: guitar
 tempo: 60
-sequence: A3/1 C4/1 A3/1 D4/1 | A3/1 E4/1 C4/1 A3/1
+sequence: A3/1 C4/1 A3/1 D4/1 A3/1 E4/1 C4/1 A3/1
 ```

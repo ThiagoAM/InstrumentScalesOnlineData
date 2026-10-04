@@ -3,7 +3,7 @@ const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const os = require("node:os");
 const path = require("node:path");
-const { countLessonFiles } = require("./helpers/repository-content");
+const { countLegacyLessonFiles } = require("./helpers/repository-content");
 
 const {
   BANNED_PHRASES,
@@ -121,7 +121,19 @@ function messages(result) {
 test("real repository passes the focused bulk audit", () => {
   const result = auditV2Bulk(repositoryV2, { checkRevisionOne: false });
   assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
-  assert.equal(result.lessons, countLessonFiles(repositoryV2));
+  assert.equal(result.lessons, countLegacyLessonFiles(repositoryV2));
+});
+
+test("the focused legacy audit count excludes guided paths", (t) => {
+  const fixture = makeTree();
+  t.after(() => fs.rmSync(fixture.root, { recursive: true, force: true }));
+  const guided = path.join(fixture.root, "education", "guided", "guitar", "new-unit", "new-lesson", "lesson.md");
+  fs.mkdirSync(path.dirname(guided), { recursive: true });
+  fs.writeFileSync(guided, "Guided content has an isolated index and audit.");
+  const result = auditV2Bulk(fixture.root);
+  assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
+  assert.equal(result.lessons, 1);
+  assert.equal(countLegacyLessonFiles(fixture.root), 1);
 });
 
 test("valid revision-one lesson passes and checks all locale bodies", () => {

@@ -6,113 +6,67 @@ level: intermediate
 section: intermediate
 unit: scale-sequence-workshop
 order: 13
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: The string-skip triangle
-title.pt-BR: O triângulo que salta cordas
-title.es: El triángulo que salta cuerdas
-title.de: Das Dreieck mit Saitensprung
-title.ja: 弦を飛び越える三角形
-title.zh-Hans: 跳弦三角形
-summary.en: Play a C-major arpeggio across a skipped string without sounding the unused string.
-summary.pt-BR: Toque um arpejo de dó maior saltando uma corda sem deixar a corda intermediária soar.
-summary.es: Toca un arpegio de do mayor saltando una cuerda sin hacer sonar la cuerda intermedia.
-summary.de: Spiele ein C-Dur-Arpeggio mit Saitensprung, ohne die übersprungene Saite anzuschlagen.
-summary.ja: 間の弦を鳴らさず、弦を飛び越えてCメジャーのアルペジオを弾きます。
-summary.zh-Hans: 跳过中间的弦弹奏C大三和弦琶音，不让被跳过的弦发声。
+title.en: Reference in review · The string-skip triangle
+title.pt-BR: Referência em revisão · O triângulo que salta cordas
+title.es: Referencia en revisión · El triángulo que salta cuerdas
+title.de: Referenz in Prüfung · Das Dreieck mit Saitensprung
+title.ja: 確認中の参照 · 弦を飛び越える三角形
+title.zh-Hans: 审核中的参考 · 跳弦三角形
+summary.en: Original goal, physical practice under review: Play a C-major arpeggio across a skipped string without sounding the unused string.
+summary.pt-BR: Objetivo original, prática física em revisão: Toque um arpejo de dó maior saltando uma corda sem deixar a corda intermediária soar.
+summary.es: Objetivo original, práctica física en revisión: Toca un arpegio de do mayor saltando una cuerda sin hacer sonar la cuerda intermedia.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Spiele ein C-Dur-Arpeggio mit Saitensprung, ohne die übersprungene Saite anzuschlagen.
+summary.ja: 元の目標（実技確認中）：間の弦を鳴らさず、弦を飛び越えてCメジャーのアルペジオを弾きます。
+summary.zh-Hans: 原目标（实体演奏待审）：跳过中间的弦弹奏C大三和弦琶音，不让被跳过的弦发声。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# The string-skip triangle
+# Reference in review · The string-skip triangle
 
-Spend seven minutes making a clean triangle: C3–E3–G4–E3. These are the root, major third and fifth of C major in the upper octave, followed by the third again. The goal is four clean loops with no accidental open string, rather than a faster scale.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Record four clean C3–E3–G4–E3 loops at a comfortable steady tempo, skipping string 3 and producing no extra attacks. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-In standard E–A–D–G–B–E tuning, count strings from the thinnest. Find C3 on string 5 fret 3, E3 on string 4 fret 2 and G4 on string 2 fret 8. String 3 is skipped between E3 and G4. Sound each location separately for the first minute.
-
-For two minutes, play card A at 60 BPM, one note per beat. Release fretting pressure after each note and use the picking hand to quiet unused strings. Move the whole hand toward fret 8 without stretching; prepare the return to fret 2 while G4 sounds.
-
-For two more minutes, use card B: each note is followed by a one-beat rest. During each rest, silence everything and prepare the next location. Listen specifically for the skipped open G string; it has the same pitch class as G4, but an unwanted extra attack still counts as a miss.
-
-Return to A and record four loops during the final two minutes. Score one point per loop with four intended attacks and no extra strings. If travel is rushed, slow to 48 BPM and keep the same route; removing the skip would remove the skill. Restore 60 only when relaxed.
-
-:::checkpoint Record four clean C3–E3–G4–E3 loops at a comfortable steady tempo, skipping string 3 and producing no extra attacks.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# O triângulo que salta cordas
+# Referência em revisão · O triângulo que salta cordas
 
-Dedique sete minutos ao triângulo C3–E3–G4–E3. São fundamental, terça maior e quinta de dó maior na oitava superior, seguidas novamente pela terça. O objetivo é completar quatro ciclos limpos, sem cordas soltas acidentais, em vez de acelerar uma escala.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Grave quatro ciclos limpos de C3–E3–G4–E3 em andamento estável e confortável, saltando a corda 3 sem ataques extras. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Na afinação padrão E–A–D–G–B–E, conte as cordas a partir da mais fina. C3 fica na corda 5, casa 3; E3 na corda 4, casa 2; G4 na corda 2, casa 8. A corda 3 é saltada entre E3 e G4. No primeiro minuto, toque cada posição separadamente.
-
-Durante dois minutos, toque o cartão A a 60 BPM, uma nota por tempo. Solte a pressão após cada nota e abafe cordas não usadas com a mão que ataca. Desloque a mão inteira até a casa 8, sem esticar os dedos; prepare a volta à casa 2 enquanto G4 soa.
-
-Nos dois minutos seguintes, use B: cada nota é seguida por um tempo de pausa. No silêncio, abafe tudo e prepare a próxima posição. Escute especialmente a corda G solta que foi saltada; ela pertence à mesma classe de altura de G4, mas um ataque extra continua sendo erro.
-
-Volte a A e grave quatro ciclos nos dois minutos finais. Cada ciclo com quatro ataques previstos e nenhuma corda extra vale um ponto. Se o deslocamento ficar corrido, reduza a 48 BPM mantendo o caminho; retirar o salto retiraria a habilidade. Retome 60 apenas com conforto.
-
-:::checkpoint Grave quatro ciclos limpos de C3–E3–G4–E3 em andamento estável e confortável, saltando a corda 3 sem ataques extras.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# El triángulo que salta cuerdas
+# Referencia en revisión · El triángulo que salta cuerdas
 
-Dedica siete minutos al triángulo C3–E3–G4–E3. Son fundamental, tercera mayor y quinta de do mayor en la octava superior, seguidas otra vez por la tercera. La meta son cuatro ciclos limpios sin cuerdas al aire accidentales, en lugar de una escala más rápida.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Graba cuatro ciclos limpios de C3–E3–G4–E3 a un tempo estable y cómodo, saltando la cuerda 3 sin ataques adicionales. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Con afinación estándar E–A–D–G–B–E, cuenta desde la cuerda más fina. C3 está en cuerda 5, traste 3; E3 en cuerda 4, traste 2; G4 en cuerda 2, traste 8. Se salta la cuerda 3 entre E3 y G4. Durante el primer minuto, toca cada posición por separado.
-
-Durante dos minutos, toca A a 60 BPM, una nota por pulso. Libera la presión después de cada nota y apaga las cuerdas libres con la mano que pulsa. Mueve toda la mano al traste 8 sin estirar los dedos; prepara el regreso al traste 2 mientras suena G4.
-
-Durante otros dos minutos, usa B: cada nota lleva un silencio de un pulso después. Apaga todo y prepara la siguiente posición en ese silencio. Escucha especialmente la cuerda G al aire que saltaste; comparte clase de altura con G4, pero un ataque adicional sigue siendo un error.
-
-Vuelve a A y graba cuatro ciclos en los dos minutos finales. Cada ciclo con cuatro ataques previstos y ninguna cuerda extra vale un punto. Si el viaje resulta apresurado, baja a 48 BPM conservando la ruta; quitar el salto eliminaría la habilidad. Recupera 60 cuando estés cómodo.
-
-:::checkpoint Graba cuatro ciclos limpios de C3–E3–G4–E3 a un tempo estable y cómodo, saltando la cuerda 3 sin ataques adicionales.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Das Dreieck mit Saitensprung
+# Referenz in Prüfung · Das Dreieck mit Saitensprung
 
-Übe sieben Minuten das Dreieck C3–E3–G4–E3. Das sind Grundton, große Terz und Quinte von C-Dur in der höheren Oktave, danach wieder die Terz. Dein Ziel sind vier saubere Durchgänge ohne versehentliche Leersaiten, nicht eine schnellere Tonleiter.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm vier saubere C3–E3–G4–E3-Durchgänge bei bequemem, gleichmäßigem Tempo auf; überspringe Saite 3 ohne zusätzliche Anschläge. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Nutze die Standardstimmung E–A–D–G–H–E; die Notation schreibt B für H. Zähle von der dünnsten Saite: C3 liegt auf Saite 5, Bund 3; E3 auf Saite 4, Bund 2; G4 auf Saite 2, Bund 8. Zwischen E3 und G4 überspringst du Saite 3. Prüfe diese Stellen eine Minute einzeln.
-
-Spiele A zwei Minuten bei 60 BPM mit einem Ton pro Schlag. Löse nach jedem Ton den Greifdruck und dämpfe unbenutzte Saiten mit der Anschlaghand. Bewege die ganze Hand zu Bund 8, ohne die Finger zu spreizen; bereite während G4 die Rückkehr zu Bund 2 vor.
-
-Spiele B weitere zwei Minuten: Nach jedem Ton folgt ein Schlag Pause. Dämpfe dann alles und bereite den nächsten Griff vor. Achte besonders auf die übersprungene leere G-Saite; sie gehört zur gleichen Tonklasse wie G4, doch ein zusätzlicher Anschlag bleibt ein Fehler.
-
-Kehre zu A zurück und nimm in den letzten zwei Minuten vier Durchgänge auf. Vier beabsichtigte Anschläge ohne weitere Saite ergeben einen Punkt. Bei hastigem Wechsel senke auf 48 BPM und behalte den Weg bei; ohne Saitensprung fehlt die Zielaufgabe. Kehre erst entspannt zu 60 zurück.
-
-:::checkpoint Nimm vier saubere C3–E3–G4–E3-Durchgänge bei bequemem, gleichmäßigem Tempo auf; überspringe Saite 3 ohne zusätzliche Anschläge.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 弦を飛び越える三角形
+# 確認中の参照 · 弦を飛び越える三角形
 
-7分でC3–E3–G4–E3の三角形を整えます。Cメジャーの根音、長3度、上のオクターブの5度、そして再び3度です。速い音階ではなく、余計な開放弦を鳴らさず4周弾くことが目標です。各音の始まりをはっきり聴きましょう。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：安定した無理のないテンポでC3–E3–G4–E3を4周録音し、3弦を飛び越えて余計なアタックを出さないようにします。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-標準チューニングE–A–D–G–B–Eで、細い弦から番号を数えます。C3は5弦3フレット、E3は4弦2フレット、G4は2弦8フレットです。E3とG4の間で3弦を飛び越えます。最初の1分は各位置を別々に確認します。
-
-次の2分はAを60 BPMで1拍に1音弾きます。各音の後で押弦の圧力を緩め、弾く手で使わない弦を消音します。指を広げず手全体を8フレットへ移し、G4が鳴っている間に2フレットへ戻る準備をします。
-
-続く2分はBです。各音の後に1拍の休符があります。休符ですべての音を止め、次の位置を準備します。飛び越えたGの開放弦を特に聴きます。G4と同じ音名でも、余計なアタックがあれば失敗です。音程だけで判断しないでください。
-
-最後の2分でAに戻り、4周録音します。予定した4回のアタックだけなら1点です。移動が急になる場合は経路を変えず48 BPMへ下げます。弦飛びをなくすと練習の目的が失われます。余裕ができてから60へ戻しましょう。
-
-:::checkpoint 安定した無理のないテンポでC3–E3–G4–E3を4周録音し、3弦を飛び越えて余計なアタックを出さないようにします。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 跳弦三角形
+# 审核中的参考 · 跳弦三角形
 
-用七分钟练好C3–E3–G4–E3这个三角形。它们依次是C大三和弦的根音、大三度、高八度的五度，再回到三度。目标是连续四轮干净演奏，没有意外空弦声，而不是把音阶弹得更快。仔细听每次起音。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：以舒适稳定的速度录下四轮干净的C3–E3–G4–E3，跳过第3弦且没有额外起音。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-使用标准调弦E–A–D–G–B–E，从最细的弦开始编号。C3在第5弦3品，E3在第4弦2品，G4在第2弦8品。E3到G4之间要跳过第3弦。第一分钟分别找准并弹响这三个位置，先不急着连接。
-
-接着两分钟以60 BPM弹A，每拍一个音。每个音后放松按弦压力，用拨弦手制止闲置弦振动。整只手移向8品，不要硬拉开手指；G4发声时准备返回2品。移动应当平稳，不要以额外拨弦掩盖换把。
-
-再用两分钟弹B，每个音后都有一拍休止。休止时彻底消音并准备下一位置。特别听被跳过的G空弦；虽然它与G4属于同一音级类别，但多出来的一次起音仍然算错。不能只凭音名正确就给自己得分。
-
-最后两分钟回到A并录下四轮。每轮只有四次预定起音、没有额外弦声才得一分。若换把仓促，就降到48 BPM并保留原路线；取消跳弦会取消这项技能训练。动作放松后再回到60，不必为了速度牺牲清晰度。
-
-:::checkpoint 以舒适稳定的速度录下四轮干净的C3–E3–G4–E3，跳过第3弦且没有额外起音。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -129,12 +83,5 @@ id: guitar-string-skip-triangle-20260917-2
 title: B
 instrument: guitar
 tempo: 60
-sequence: C3/1 -/1 E3/1 -/1 | G4/1 -/1 E3/1 -/1
-```
-
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 2-8
-positions: 5:3 C, 4:2 E, 2:8 G
-sequence: C-E-G-E
+sequence: C3/1 -/1 E3/1 -/1 G4/1 -/1 E3/1 -/1
 ```

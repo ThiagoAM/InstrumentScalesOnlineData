@@ -6,7 +6,7 @@ level: advanced
 section: advanced
 unit: scale-voice-leading-through-changes
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: A half-step sigh across the bar
@@ -121,5 +121,5 @@ id: piano-guide-tone-sigh-20260923-1
 title: G7 to Cmaj7
 instrument: piano
 tempo: 60
-sequence: [G2 D4]/1 [G2 B3]/1 [G2 D4]/1 [G2 F4]/1 | [C3 E4]/2 [C3 G4]/1 [C3 E4]/1
+sequence: [G2,D4]/1 [G2,B3]/1 [G2,D4]/1 [G2,F4]/1 [C3,E4]/2 [C3,G4]/1 [C3,E4]/1
 ```

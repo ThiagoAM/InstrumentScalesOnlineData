@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 30
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass backbeat decoy
-title.pt-BR: Isca de backbeat no baixo
-title.es: Señuelo de backbeat en bajo
-title.de: Bass-Backbeat-Köder
-title.ja: ベース・バックビート・デコイ
-title.zh-Hans: 贝斯反拍诱饵
-summary.en: Tease the groove with offbeat nudges, then prove your control by dropping each target tone exactly where the pocket needs it.
-summary.pt-BR: Provoque o groove com empurrões no contratempo e depois prove seu controle colocando cada nota-alvo exatamente onde o pocket pede.
-summary.es: Provoca el groove con empujes a contratiempo y luego demuestra tu control colocando cada nota objetivo exactamente donde el pocket lo pide.
-summary.de: Reize den Groove mit Offbeat-Stupsern an und beweise dann deine Kontrolle, indem du jeden Zielton genau dort setzt, wo das Pocket ihn braucht.
-summary.ja: オフビートの小さな押しでグルーヴを挑発し、そのあと各ターゲット音をポケットが求める位置に正確に落としてコントロールを証明します。
-summary.zh-Hans: 先用反拍小推力挑逗 groove，再把每个目标音准确落到 pocket 最需要的位置，证明你的控制力。
+title.en: Reference in review · Bass backbeat decoy
+title.pt-BR: Referência em revisão · Isca de backbeat no baixo
+title.es: Referencia en revisión · Señuelo de backbeat en bajo
+title.de: Referenz in Prüfung · Bass-Backbeat-Köder
+title.ja: 確認中の参照 · ベース・バックビート・デコイ
+title.zh-Hans: 审核中的参考 · 贝斯反拍诱饵
+summary.en: Original goal, physical practice under review: Tease the groove with offbeat nudges, then prove your control by dropping each target tone exactly where the pocket needs it.
+summary.pt-BR: Objetivo original, prática física em revisão: Provoque o groove com empurrões no contratempo e depois prove seu controle colocando cada nota-alvo exatamente onde o pocket pede.
+summary.es: Objetivo original, práctica física en revisión: Provoca el groove con empujes a contratiempo y luego demuestra tu control colocando cada nota objetivo exactamente donde el pocket lo pide.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Reize den Groove mit Offbeat-Stupsern an und beweise dann deine Kontrolle, indem du jeden Zielton genau dort setzt, wo das Pocket ihn braucht.
+summary.ja: 元の目標（実技確認中）：オフビートの小さな押しでグルーヴを挑発し、そのあと各ターゲット音をポケットが求める位置に正確に落としてコントロールを証明します。
+summary.zh-Hans: 原目标（实体演奏待审）：先用反拍小推力挑逗 groove，再把每个目标音准确落到 pocket 最需要的位置，证明你的控制力。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass backbeat decoy
+# Reference in review · Bass backbeat decoy
 
-Loop **| Dm7 | G7 | Cmaj7 | A7 |** at **100 bpm**. Your targets are the **roots on beat 1**: **D, G, C, A**. The decoy is a short offbeat note on the **and of 4** that tries to pull you early without actually stealing the downbeat.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one full chorus with offbeat pickups on the and of 4 and solid beat-1 landings on D, G, C, and A. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 teaches the fake-out. In every bar, leave space through beat 4 and place a quick eighth-note pickup on the **and of 4**: **A-D**, **D-G**, **G-C**, **E-A**. The pickup should feel cheeky, but beat 1 must still land like a heavy door closing.
-
-Round 2 adds scale motion after the landing. On beats 2 and 3, answer each root with two scale notes that point toward the next pickup. Keep the decoy short and the root fat. If the pickup starts sounding louder than the target, your priorities are upside down.
-
-Boss round: play two choruses. Chorus 1 keeps the same pickup every bar. Chorus 2 skips the pickup in one bar and replaces it with a quarter-note rest, so you prove the groove comes from choice rather than habit.
-
-:::checkpoint Play one full chorus with offbeat pickups on the and of 4 and solid beat-1 landings on D, G, C, and A.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Isca de backbeat no baixo
+# Referência em revisão · Isca de backbeat no baixo
 
-Faça um loop em **| Dm7 | G7 | Cmaj7 | A7 |** a **100 bpm**. Os alvos são as **tônicas no tempo 1**: **D, G, C, A**. A isca é uma nota curta no contratempo do **e do 4** que tenta te puxar para frente sem roubar de verdade o downbeat.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque um chorus completo com anacruses no e do 4 e chegadas firmes no tempo 1 em D, G, C e A. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A Rodada 1 ensina a finta. Em cada compasso, deixe espaço até o tempo 4 e coloque uma colcheia curta no **e do 4**: **A-D**, **D-G**, **G-C**, **E-A**. A anacruse deve soar atrevida, mas o tempo 1 ainda precisa cair como uma porta pesada fechando.
-
-A Rodada 2 adiciona movimento de escala depois da chegada. Nos tempos 2 e 3, responda a cada tônica com duas notas de escala apontando para a próxima anacruse. Mantenha a isca curta e a tônica gorda. Se a anacruse começar a soar mais alta do que o alvo, suas prioridades viraram do avesso.
-
-Rodada chefão: toque dois choruses. O chorus 1 mantém a mesma anacruse em todos os compassos. O chorus 2 pula a anacruse em um compasso e a substitui por uma pausa de semínima, para provar que o groove vem de escolha e não de hábito.
-
-:::checkpoint Toque um chorus completo com anacruses no e do 4 e chegadas firmes no tempo 1 em D, G, C e A.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Señuelo de backbeat en bajo
+# Referencia en revisión · Señuelo de backbeat en bajo
 
-Pon en loop **| Dm7 | G7 | Cmaj7 | A7 |** a **100 bpm**. Tus objetivos son las **fundamentales en el tiempo 1**: **D, G, C, A**. El señuelo es una nota corta a contratiempo en el **y de 4** que intenta arrastrarte antes de tiempo sin robar de verdad el pulso fuerte.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca un coro completo con anacrusas en el y de 4 y llegadas sólidas en el tiempo 1 sobre D, G, C y A. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La Ronda 1 enseña la finta. En cada compás deja espacio hasta el tiempo 4 y coloca una corchea corta en el **y de 4**: **A-D**, **D-G**, **G-C**, **E-A**. La anacrusa debe sentirse pícara, pero el tiempo 1 todavía tiene que caer como una puerta pesada cerrándose.
-
-La Ronda 2 añade movimiento de escala después de la llegada. En los tiempos 2 y 3 responde a cada fundamental con dos notas de escala que apunten hacia la siguiente anacrusa. Mantén el señuelo corto y la fundamental grande. Si la anacrusa empieza a sonar más fuerte que el objetivo, tus prioridades están al revés.
-
-Ronda jefe: toca dos coros. El coro 1 mantiene la misma anacrusa en todos los compases. El coro 2 omite la anacrusa en un compás y la reemplaza con un silencio de negra, para demostrar que el groove nace de la elección y no de la costumbre.
-
-:::checkpoint Toca un coro completo con anacrusas en el y de 4 y llegadas sólidas en el tiempo 1 sobre D, G, C y A.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass-Backbeat-Köder
+# Referenz in Prüfung · Bass-Backbeat-Köder
 
-Loope **| Dm7 | G7 | Cmaj7 | A7 |** bei **100 bpm**. Deine Ziele sind die **Grundtöne auf Schlag 1**: **D, G, C, A**. Der Köder ist ein kurzer Offbeat-Ton auf dem **Und von 4**, der dich nach vorn ziehen will, ohne den Downbeat wirklich zu stehlen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen kompletten Chorus mit Offbeat-Auftakten auf dem Und von 4 und stabilen Landungen auf D, G, C und A auf Schlag 1. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1 lehrt die Finte. Lass in jedem Takt bis Schlag 4 Raum und setze ein kurzes Achtel auf das **Und von 4**: **A-D**, **D-G**, **G-C**, **E-A**. Der Auftakt darf frech sein, aber Schlag 1 muss trotzdem wie eine schwere Tür landen.
-
-Runde 2 ergänzt Skalenbewegung nach der Landung. Auf Schlag 2 und 3 beantwortest du jeden Grundton mit zwei Skalentönen, die zum nächsten Auftakt zeigen. Halte den Köder kurz und den Grundton fett. Wenn der Auftakt lauter wirkt als das Ziel, stehen deine Prioritäten auf dem Kopf.
-
-Boss-Runde: Spiele zwei Chorusse. Chorus 1 behält in jedem Takt denselben Auftakt. Chorus 2 lässt in einem Takt den Auftakt weg und ersetzt ihn durch eine Viertelpause, damit du beweist, dass der Groove aus Entscheidung und nicht aus Gewohnheit kommt.
-
-:::checkpoint Spiele einen kompletten Chorus mit Offbeat-Auftakten auf dem Und von 4 und stabilen Landungen auf D, G, C und A auf Schlag 1.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベース・バックビート・デコイ
+# 確認中の参照 · ベース・バックビート・デコイ
 
-**| Dm7 | G7 | Cmaj7 | A7 |** を **100 bpm** でループします。狙うのは **1拍目のルート**、**D, G, C, A** です。デコイは **4拍目の裏** に置く短いオフビート音で、ダウンビートを奪わずに少しだけ前へ引っぱります。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：1コーラス通して、4拍目の裏のピックアップを保ちながら、D・G・C・A に1拍目でしっかり着地しましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1ではフェイントを覚えます。各小節で4拍目まで空間を残し、**4拍目の裏** に短い8分音符を置きます: **A-D**、**D-G**、**G-C**、**E-A**。このピックアップは少しいたずらっぽくてよいですが、1拍目は重いドアが閉まるように落ちなければいけません。
-
-ラウンド2では着地後にスケールの動きを足します。2拍目と3拍目で、各ルートに対して次のピックアップへ向かう2音のスケール返答を入れます。デコイは短く、ルートは太く。ピックアップの方がターゲットより強く聞こえたら、優先順位が逆です。
-
-ボスラウンドでは2コーラス弾きます。1コーラス目は毎小節同じピックアップを使います。2コーラス目は1小節だけピックアップを抜いて4分休符に置き換え、グルーヴが癖ではなく選択から生まれていることを証明します。
-
-:::checkpoint 1コーラス通して、4拍目の裏のピックアップを保ちながら、D・G・C・A に1拍目でしっかり着地しましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯反拍诱饵
+# 审核中的参考 · 贝斯反拍诱饵
 
-把 **| Dm7 | G7 | Cmaj7 | A7 |** 设成 **100 bpm** 循环。你的目标是 **第1拍的根音**：**D、G、C、A**。诱饵是在 **第4拍后半拍** 放一个短促反拍音，它会试着把你提前拉走，但不能真的抢走强拍。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹一遍，让反拍起拍都落在第4拍后半拍，同时在第1拍稳稳落到 D、G、C、A。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮先学假动作。每小节到第4拍前都留出空间，然后在 **第4拍后半拍** 放一个短八分音符：**A-D**、**D-G**、**G-C**、**E-A**。这个起拍音可以有点调皮，但第1拍仍然要像一扇厚门砰地关上那样稳。
-
-第2轮在落点后加上音阶移动。第2拍和第3拍里，用两个音阶音回应每个根音，并把方向指向下一个起拍音。诱饵要短，根音要厚。如果起拍音开始比目标更抢耳，你的主次就颠倒了。
-
-Boss 轮：弹两个完整 chorus。第1个 chorus 每小节都保留同样的起拍音。第2个 chorus 有一小节故意拿掉起拍音，换成四分休止，证明 groove 来自选择，而不是肌肉习惯。
-
-:::checkpoint 完整弹一遍，让反拍起拍都落在第4拍后半拍，同时在第1拍稳稳落到 D、G、C、A。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -110,14 +76,4 @@ title: Backbeat decoy
 instrument: bass
 tempo: 100
 sequence: A1 D2 F2 E2 D2 G1 B1 A1 G1 C2 E2 D2 E2 A1 C#2 B1
-```
-
-```fretboard
-id: bass-backbeat-decoy-map
-title: Root-and-pickup lane
-instrument: bass
-tuning: E1 A1 D2 G2
-frets: 2-7
-tempo: 100
-positions: 1:5 2:5 3:3 3:2 2:5 1:3 2:2 2:0 1:3 2:3 2:2 2:0 1:7 1:5 1:4 1:2
 ```

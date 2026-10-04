@@ -6,113 +6,67 @@ level: intermediate
 section: intermediate
 unit: scale-sequence-workshop
 order: 16
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: The thirds staircase
-title.pt-BR: A escada de terças
-title.es: La escalera de terceras
-title.de: Die Terzenleiter
-title.ja: 3度の階段
-title.zh-Hans: 三度音阶梯
-summary.en: Climb C-major diatonic thirds by stepping the start note up one degree while keeping a silent beat between pairs.
-summary.pt-BR: Suba terças diatônicas em dó maior, movendo o início um grau por vez e mantendo um tempo de silêncio entre pares.
-summary.es: Sube terceras diatónicas en do mayor, avanzando el inicio un grado y dejando un pulso de silencio entre parejas.
-summary.de: Steige in C-Dur durch diatonische Terzen, versetze jeden Startton um eine Stufe und lasse zwischen Paaren einen stummen Schlag.
-summary.ja: Cメジャーで始点を1音ずつ上げながら3度を弾き、各組の間に1拍の休符を入れます。
-summary.zh-Hans: 在C大调中每组起音上移一级，弹出自然音阶三度，并在每组之间留一拍休止。
+title.en: Reference in review · The thirds staircase
+title.pt-BR: Referência em revisão · A escada de terças
+title.es: Referencia en revisión · La escalera de terceras
+title.de: Referenz in Prüfung · Die Terzenleiter
+title.ja: 確認中の参照 · 3度の階段
+title.zh-Hans: 审核中的参考 · 三度音阶梯
+summary.en: Original goal, physical practice under review: Climb C-major diatonic thirds by stepping the start note up one degree while keeping a silent beat between pairs.
+summary.pt-BR: Objetivo original, prática física em revisão: Suba terças diatônicas em dó maior, movendo o início um grau por vez e mantendo um tempo de silêncio entre pares.
+summary.es: Objetivo original, práctica física en revisión: Sube terceras diatónicas en do mayor, avanzando el inicio un grado y dejando un pulso de silencio entre parejas.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Steige in C-Dur durch diatonische Terzen, versetze jeden Startton um eine Stufe und lasse zwischen Paaren einen stummen Schlag.
+summary.ja: 元の目標（実技確認中）：Cメジャーで始点を1音ずつ上げながら3度を弾き、各組の間に1拍の休符を入れます。
+summary.zh-Hans: 原目标（实体演奏待审）：在C大调中每组起音上移一级，弹出自然音阶三度，并在每组之间留一拍休止。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# The thirds staircase
+# Reference in review · The thirds staircase
 
-Set 4/4 at 60 BPM. Your seven-minute aim is to play three C-major thirds as a staircase: C4–E4, D4–F4, E4–G4. The first note rises by one scale degree each time; the upper note remains a third above it. Count a full silent beat after every pair.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Record two C–E, D–F, E–G staircases at 60 BPM, each pair in two half-beats followed by one full silent beat. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Locate C4 on string 2 fret 1, D4 on string 2 fret 3, and E4 on open string 1. On string 1, E4 is open, F4 is fret 1, and G4 is fret 3. Say the note names once before playing; all six pitches belong to C major.
-
-Play each pair as two half-beat notes followed by a one-beat rest. The first pair takes beats one and the “and” of one, then beat two is silent. Play D–F on beat three; beat four stays silent. Begin E–G on the next one, leaving its following beat silent.
-
-Loop the three-pair staircase twice. During each rest, silently predict the next starting note. Give yourself one point per pair when its upper note is a diatonic third and the rest lasts a full beat. The silence is part of the sequence, not a chance to rush.
-
-If the string crossing trips you, slow to 48 BPM and practice only C–E and D–F, including both rests. Add E–G when those feel even. Do not replace F with E or skip the leap: the changing third is the skill. Finish one clean take at 60 BPM.
-
-:::checkpoint Record two C–E, D–F, E–G staircases at 60 BPM, each pair in two half-beats followed by one full silent beat.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# A escada de terças
+# Referência em revisão · A escada de terças
 
-Ajuste 4/4 a 60 BPM. Em sete minutos, toque três terças de dó maior como uma escada: C4–E4, D4–F4, E4–G4. A primeira nota sobe um grau da escala por vez; a nota alta continua uma terça acima. Conte um tempo inteiro de silêncio após cada par.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Grave duas escadas C–E, D–F, E–G a 60 BPM, cada par em dois meios tempos seguido de um tempo inteiro de pausa. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Ache C4 na corda 2 casa 1, D4 na corda 2 casa 3 e E4 na corda 1 solta. Na corda 1, E4 é solta, F4 está na casa 1 e G4 na casa 3. Diga os nomes antes de tocar; as seis alturas pertencem a dó maior.
-
-Toque cada par como duas notas de meio tempo, seguidas por uma pausa de um tempo. O primeiro par ocupa o tempo um e o “e” de um; o tempo dois fica mudo. Toque D–F no tempo três; o tempo quatro fica em silêncio. Comece E–G no próximo um e deixe o tempo seguinte em silêncio.
-
-Repita a escada de três pares duas vezes. Em cada pausa, antecipe mentalmente a próxima nota inicial. Marque um ponto por par quando a nota alta formar uma terça diatônica e a pausa durar um tempo inteiro. O silêncio faz parte da sequência; não acelere.
-
-Se a troca de corda atrapalhar, reduza a 48 BPM e pratique apenas C–E e D–F, com as duas pausas. Acrescente E–G quando estiver regular. Não troque F por E nem elimine o salto: a terça que muda é a habilidade. Termine com uma gravação limpa a 60 BPM.
-
-:::checkpoint Grave duas escadas C–E, D–F, E–G a 60 BPM, cada par em dois meios tempos seguido de um tempo inteiro de pausa.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# La escalera de terceras
+# Referencia en revisión · La escalera de terceras
 
-Pon 4/4 a 60 BPM. En siete minutos toca tres terceras de do mayor como una escalera: C4–E4, D4–F4, E4–G4. La nota inicial sube un grado cada vez; la superior permanece una tercera encima. Cuenta un pulso entero de silencio después de cada pareja.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Graba dos escaleras C–E, D–F, E–G a 60 BPM, cada pareja en dos medios pulsos seguida de un pulso entero de silencio. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Busca C4 en cuerda 2 traste 1, D4 en cuerda 2 traste 3 y E4 en cuerda 1 al aire. En cuerda 1, E4 es al aire, F4 está en traste 1 y G4 en traste 3. Di los nombres antes de tocar; las seis alturas son de do mayor.
-
-Toca cada pareja como dos notas de medio pulso y luego un pulso de silencio. La primera ocupa el uno y el “y” de uno; el dos queda mudo. Toca D–F en el pulso tres; el cuatro queda en silencio. Empieza E–G en el siguiente uno y calla en el pulso posterior.
-
-Repite dos veces la escalera de tres parejas. Durante cada pausa, anticipa mentalmente la próxima nota inicial. Suma un punto por pareja si la nota superior es una tercera diatónica y el silencio dura un pulso completo. El silencio forma parte del patrón: no corras.
-
-Si el cambio de cuerda falla, baja a 48 BPM y practica solo C–E y D–F, con ambas pausas. Añade E–G cuando estén parejos. No sustituyas F por E ni quites el salto: la tercera cambiante es la destreza. Termina con una toma limpia a 60 BPM.
-
-:::checkpoint Graba dos escaleras C–E, D–F, E–G a 60 BPM, cada pareja en dos medios pulsos seguida de un pulso entero de silencio.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Die Terzenleiter
+# Referenz in Prüfung · Die Terzenleiter
 
-Stelle 4/4 und 60 BPM ein. Spiele in sieben Minuten drei C-Dur-Terzen als Treppe: C4–E4, D4–F4, E4–G4. Jeder Startton steigt um eine Tonleiterstufe; der obere Ton bleibt eine Terz darüber. Zähle nach jedem Paar einen ganzen stummen Schlag.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm zwei Treppen C–E, D–F, E–G bei 60 BPM auf, jedes Paar in zwei halben Schlägen mit einem vollen stummen Schlag danach. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Finde C4 auf Saite 2 in Bund 1, D4 dort in Bund 3 und E4 auf der leeren Saite 1. Auf Saite 1 liegt F4 in Bund 1 und G4 in Bund 3. Sage die Tonnamen vor dem Spielen; alle sechs Töne gehören zu C-Dur.
-
-Spiele jedes Paar als zwei halbe Schläge, dann einen Schlag Pause. Das erste Paar liegt auf eins und auf eins-und; Schlag zwei bleibt still. D–F liegt auf drei; Schlag vier bleibt still. Beginne E–G auf der nächsten Eins und lasse den folgenden Schlag still.
-
-Wiederhole die Treppe aus drei Paaren zweimal. Sage dir in jeder Pause den nächsten Startton innerlich vor. Ein Punkt zählt, wenn der obere Ton eine diatonische Terz bildet und die Pause einen vollen Schlag dauert. Die Stille gehört zur Figur; eile nicht.
-
-Wenn der Saitenwechsel stockt, gehe auf 48 BPM und übe nur C–E und D–F samt beiden Pausen. Ergänze E–G, sobald es gleichmäßig läuft. Ersetze F nicht durch E und streiche den Sprung nicht: Die wechselnde Terz ist das Lernziel. Nimm bei 60 BPM einen sauberen Durchgang auf.
-
-:::checkpoint Nimm zwei Treppen C–E, D–F, E–G bei 60 BPM auf, jedes Paar in zwei halben Schlägen mit einem vollen stummen Schlag danach.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 3度の階段
+# 確認中の参照 · 3度の階段
 
-4/4拍、60 BPMにします。7分間でCメジャーの3度を階段状に弾きます。C4–E4、D4–F4、E4–G4です。各組の始まりは音階を1音ずつ上がり、上の音は常に3度上。組ごとに1拍の休符を数えます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：60 BPMでC–E、D–F、E–Gの階段を2周録音し、各組を半拍ずつ弾いた後に1拍休みます。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-C4は2弦1フレット、D4は2弦3フレット、E4は1弦開放です。1弦のF4は1フレット、G4は3フレット。弾く前に音名を言いましょう。6つの音はすべてCメジャーに含まれます。
-
-各組の2音をそれぞれ半拍で弾き、その後1拍休みます。最初は1拍目とその裏でC–E、2拍目は休符。3拍目の表裏でD–F、4拍目は休符。次の1拍目にE–Gを弾き、続く拍を休みます。
-
-3組の階段を2周します。休符の間に次の始点を心の中で予測します。上の音が自然音階上の3度で、休符を丸1拍保てた組だけ得点。休符も音型の一部です。急いで詰め込まないでください。
-
-弦移動が難しければ48 BPMでC–EとD–Fだけを休符付きで練習し、そろってからE–Gを戻します。FをEに替えたり跳躍を消したりしないでください。変化する3度が課題です。最後に60 BPMで録音します。
-
-:::checkpoint 60 BPMでC–E、D–F、E–Gの階段を2周録音し、各組を半拍ずつ弾いた後に1拍休みます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 三度音阶梯
+# 审核中的参考 · 三度音阶梯
 
-设置4/4拍、60 BPM。七分钟目标是把C大调的三组三度弹成阶梯：C4–E4、D4–F4、E4–G4。每组起音向上走一个音阶级数，上方音始终高三度。每组后数完整一拍的休止。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：以60 BPM录下两轮C–E、D–F、E–G阶梯：每组两音各半拍，后接完整一拍休止。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-C4在第2弦第1品，D4在第2弦第3品，E4是第1弦空弦。同在第1弦，F4是第1品，G4是第3品。先念出各音名再弹；这六个音都属于C大调。
-
-每组两音各占半拍，后接一拍休止。第一组在第一拍正拍和后半拍，第二拍保持安静。第三拍弹D–F，第四拍休止。下一小节第一拍弹E–G，再留一拍安静。
-
-把三组阶梯循环两遍。每次休止时，心里先想好下一组的起音。上方音确实形成自然音阶三度，而且休止保持整拍时才得分。静默是音型的一部分，别急着抢拍。
-
-若跨弦不稳，降到48 BPM，只练C–E和D–F，仍保留两处休止。稳定后再加E–G。不要把F换成E，也不要省掉跳进：变化的三度正是目标。最后以60 BPM录下一遍。
-
-:::checkpoint 以60 BPM录下两轮C–E、D–F、E–G阶梯：每组两音各半拍，后接完整一拍休止。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -121,12 +75,5 @@ id: guitar-third-step-staircase-20260926-1
 title: Three C-major thirds with measured rests
 instrument: guitar
 tempo: 60
-sequence: C4/0.5 E4/0.5 -/1 D4/0.5 F4/0.5 -/1 | E4/0.5 G4/0.5 -/1 -/2
-```
-
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 0-3
-positions: 2:1 C, 2:3 D, 1:0 E, 1:1 F, 1:3 G
-sequence: C-E | D-F | E-G
+sequence: C4/0.5 E4/0.5 -/1 D4/0.5 F4/0.5 -/1 E4/0.5 G4/0.5 -/1 -/2
 ```

@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-hear-then-play
 order: 13
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: Octave echo detective
@@ -121,7 +121,7 @@ id: piano-octave-echo-detective-20260925-1
 title: Low question, one silent bar, high echo
 instrument: piano
 tempo: 66
-sequence: D4/1 F4/1 E4/2 | -/4 | D5/1 F5/1 E5/2
+sequence: D4/1 F4/1 E4/2 -/4 D5/1 F5/1 E5/2
 ```
 
 ```notes

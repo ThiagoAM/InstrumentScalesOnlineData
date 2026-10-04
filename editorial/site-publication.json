@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "status": "prepared",
+  "enabled": false,
+  "enabledAt": null,
+  "intervention": null,
+  "policy": "Product/support sources may appear in a local review preview. Production remains disabled until a separate documented enablement commit after the commercial checkpoint."
+}

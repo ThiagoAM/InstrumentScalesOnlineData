@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 100
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: piano
-title.en: Piano Seventh-Landing Mirror
-title.pt-BR: Espelho de chegada na sétima ao piano
-title.es: Espejo de llegada a la séptima en piano
-title.de: Klavier-Spiegel zur Septime
-title.ja: ピアノ：7度着地ミラー
-title.zh-Hans: 钢琴：七级落点镜像
-summary.en: Mirror a right-hand scale fragment in the left hand and land on each chord's seventh with control.
-summary.pt-BR: Espelhe na mão esquerda um fragmento da escala da mão direita e chegue à sétima de cada acorde com controle.
-summary.es: Refleja en la mano izquierda un fragmento de escala de la derecha y aterriza con control en la séptima de cada acorde.
-summary.de: Spiegle ein rechtes Skalenfragment in der linken Hand und lande kontrolliert auf der Septime jedes Akkords.
-summary.ja: 右手の音階フレーズを左手で反映し、各コードの7度へコントロールして着地します。
-summary.zh-Hans: 用左手镜像右手的音阶片段，并有控制地落到每个和弦的七级音。
+title.en: Reference in review · Piano Seventh-Landing Mirror
+title.pt-BR: Referência em revisão · Espelho de chegada na sétima ao piano
+title.es: Referencia en revisión · Espejo de llegada a la séptima en piano
+title.de: Referenz in Prüfung · Klavier-Spiegel zur Septime
+title.ja: 確認中の参照 · ピアノ：7度着地ミラー
+title.zh-Hans: 审核中的参考 · 钢琴：七级落点镜像
+summary.en: Original goal, physical practice under review: Mirror a right-hand scale fragment in the left hand and land on each chord's seventh with control.
+summary.pt-BR: Objetivo original, prática física em revisão: Espelhe na mão esquerda um fragmento da escala da mão direita e chegue à sétima de cada acorde com controle.
+summary.es: Objetivo original, práctica física en revisión: Refleja en la mano izquierda un fragmento de escala de la derecha y aterriza con control en la séptima de cada acorde.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Spiegle ein rechtes Skalenfragment in der linken Hand und lande kontrolliert auf der Septime jedes Akkords.
+summary.ja: 元の目標（実技確認中）：右手の音階フレーズを左手で反映し、各コードの7度へコントロールして着地します。
+summary.zh-Hans: 原目标（实体演奏待审）：用左手镜像右手的音阶片段，并有控制地落到每个和弦的七级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Piano Seventh-Landing Mirror
+# Reference in review · Piano Seventh-Landing Mirror
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **66 BPM**. Keep the wrists quiet and listen for the seventh before each landing.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play five loops with the right and left hands mirroring the contour and landing cleanly on G, C, F#, and B. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Right hand plays **G–A–B–A** over Am7; left hand mirrors the contour one octave lower. Hold the final G for one beat.
-
-Over D7 land on **C**, over Gmaj7 land on **F#**, and over Cmaj7 land on **B**. Keep the same four-note rhythm.
-
-Boss round: enter after a one-beat rest, alternate hands on each new bar, and finish five clean loops. Slow to 52 BPM if the hands collide.
-
-:::checkpoint Play five loops with the right and left hands mirroring the contour and landing cleanly on G, C, F#, and B.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Espelho de chegada na sétima ao piano
+# Referência em revisão · Espelho de chegada na sétima ao piano
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **66 BPM**. Mantenha os punhos quietos e ouça a sétima antes de cada chegada.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque cinco loops com as duas mãos espelhando o contorno e chegando limpas em G, C, F# e B. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A mão direita toca **G–A–B–A** sobre Am7; a esquerda espelha o contorno uma oitava abaixo. Segure o G final por um tempo.
-
-Sobre D7 chegue em **C**, sobre Gmaj7 em **F#** e sobre Cmaj7 em **B**. Mantenha o mesmo ritmo de quatro notas.
-
-Rodada chefão: entre depois de uma pausa de um tempo, alterne as mãos a cada novo compasso e termine cinco loops limpos. Se as mãos colidirem, reduza para 52 BPM.
-
-:::checkpoint Toque cinco loops com as duas mãos espelhando o contorno e chegando limpas em G, C, F# e B.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Espejo de llegada a la séptima en piano
+# Referencia en revisión · Espejo de llegada a la séptima en piano
 
-Haz un bucle de **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **66 BPM**. Mantén quietas las muñecas y escucha la séptima antes de cada llegada.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cinco bucles con ambas manos reflejando el contorno y aterrizando limpiamente en G, C, F# y B. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La derecha toca **G–A–B–A** sobre Am7; la izquierda refleja el contorno una octava abajo. Sostén la G final un pulso.
-
-Sobre D7 aterriza en **C**, sobre Gmaj7 en **F#** y sobre Cmaj7 en **B**. Conserva el mismo ritmo de cuatro notas.
-
-Ronda jefe: entra después de un silencio de un pulso, alterna las manos en cada compás nuevo y termina cinco bucles limpios. Si chocan, baja a 52 BPM.
-
-:::checkpoint Toca cinco bucles con ambas manos reflejando el contorno y aterrizando limpiamente en G, C, F# y B.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Klavier-Spiegel zur Septime
+# Referenz in Prüfung · Klavier-Spiegel zur Septime
 
-Schleife **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **66 BPM**. Halte die Handgelenke ruhig und höre die Septime vor jeder Landung.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele fünf Schleifen; beide Hände spiegeln die Kontur und landen sauber auf G, C, F# und H. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Die rechte Hand spielt über Am7 **G–A–H–A**; die linke spiegelt die Kontur eine Oktave tiefer. Halte das abschließende G einen Schlag.
-
-Lande bei D7 auf **C**, bei Gmaj7 auf **F#** und bei Cmaj7 auf **H**. Behalte denselben Viertonrhythmus.
-
-Boss-Runde: Beginne nach einer Pause von einem Schlag, wechsle die Hände in jedem neuen Takt und schaffe fünf saubere Schleifen. Bei Zusammenstößen auf 52 BPM gehen.
-
-:::checkpoint Spiele fünf Schleifen; beide Hände spiegeln die Kontur und landen sauber auf G, C, F# und H.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ピアノ：7度着地ミラー
+# 確認中の参照 · ピアノ：7度着地ミラー
 
-**| Am7 | D7 | Gmaj7 | Cmaj7 |** を**66 BPM**でループします。手首を静かに保ち、着地前に7度を聴きます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：5ループ弾き、両手で輪郭を映しながらG、C、F#、Bへ正確に着地します。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-Am7で右手は **G–A–B–A**、左手は1オクターブ下で輪郭を映します。最後のGを1拍伸ばします。
-
-D7では **C**、Gmaj7では **F#**、Cmaj7では **B** へ着地します。4音のリズムを保ちます。
-
-ボスラウンドでは1拍休んで入り、新しい小節ごとに手を交替し、5ループをきれいに終えます。手がぶつかるなら52 BPMへ。
-
-:::checkpoint 5ループ弾き、両手で輪郭を映しながらG、C、F#、Bへ正確に着地します。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 钢琴：七级落点镜像
+# 审核中的参考 · 钢琴：七级落点镜像
 
-以**66 BPM**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。手腕保持安静，在每次落点前先听七级音。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹五遍循环，两手镜像轮廓，并准确落到G、C、F#、B。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-在Am7上右手弹 **G–A–B–A**；左手低八度镜像轮廓。最后的G保持一拍。
-
-在D7上落到 **C**，Gmaj7上落到 **F#**，Cmaj7上落到 **B**。保持相同的四音节奏。
-
-挑战轮：休一拍后进入，每个新小节交替双手，完成五遍干净循环。若双手相撞，就降到52 BPM。
-
-:::checkpoint 弹五遍循环，两手镜像轮廓，并准确落到G、C、F#、B。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,5 +75,5 @@ id: piano-seventh-landing-mirror-main
 title: Mirrored seventh landings
 instrument: piano
 tempo: 66
-sequence: G4 A4 B4 A4 | C4 D4 F#4 A4 | F#4 G4 A4 G4 | B3 C4 D4 C4
+sequence: G4 A4 B4 A4 C4 D4 F#4 A4 F#4 G4 A4 G4 B3 C4 D4 C4
 ```

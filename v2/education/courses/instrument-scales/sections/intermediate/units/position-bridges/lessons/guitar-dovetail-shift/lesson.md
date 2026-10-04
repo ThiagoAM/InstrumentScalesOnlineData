@@ -6,126 +6,86 @@ level: intermediate
 section: intermediate
 unit: position-bridges
 order: 13
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar dovetail shift
-title.pt-BR: Encaixe de posições na guitarra
-title.es: Cambio encajado en guitarra
-title.de: Gitarren-Lagenverzahnung
-title.ja: ギターのかみ合わせ移動
-title.zh-Hans: 吉他衔接换把
-summary.en: Connect two G-major shapes by making the shared note feel like a hinge.
-summary.pt-BR: Conecte duas formas de sol maior fazendo a nota comum funcionar como dobradiça.
-summary.es: Conecta dos formas de sol mayor usando la nota común como bisagra.
-summary.de: Verbinde zwei G-Dur-Formen, indem der gemeinsame Ton als Scharnier dient.
-summary.ja: 共通音を支点にして、2つのGメジャーの形をつなぎます。
-summary.zh-Hans: 把共同音当作铰链，连接两个G大调音型。
+title.en: Reference in review · Guitar dovetail shift
+title.pt-BR: Referência em revisão · Encaixe de posições na guitarra
+title.es: Referencia en revisión · Cambio encajado en guitarra
+title.de: Referenz in Prüfung · Gitarren-Lagenverzahnung
+title.ja: 確認中の参照 · ギターのかみ合わせ移動
+title.zh-Hans: 审核中的参考 · 吉他衔接换把
+summary.en: Original goal, physical practice under review: Connect two G-major shapes by making the shared note feel like a hinge.
+summary.pt-BR: Objetivo original, prática física em revisão: Conecte duas formas de sol maior fazendo a nota comum funcionar como dobradiça.
+summary.es: Objetivo original, práctica física en revisión: Conecta dos formas de sol mayor usando la nota común como bisagra.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Verbinde zwei G-Dur-Formen, indem der gemeinsame Ton als Scharnier dient.
+summary.ja: 元の目標（実技確認中）：共通音を支点にして、2つのGメジャーの形をつなぎます。
+summary.zh-Hans: 原目标（实体演奏待审）：把共同音当作铰链，连接两个G大调音型。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar dovetail shift
+# Reference in review · Guitar dovetail shift
 
-Set a metronome to **76 bpm**. In 2nd position, play the four-note cell **G-A-B-D**, letting D ring for two beats.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four steady call-and-response rounds between 2nd and 5th position, with a clean slide and one intentional rest.
 
-Now answer in 5th position with **G-A-B-D**. Keep the same rhythm; the high G is your quiet landing, not a race.
-
-On the last D, slide back to the next G without lifting the pulse. Whisper the slide, then play the cell again in the low position.
-
-Make four call-and-response rounds. If the shift bumps the beat, drop to 56 bpm and make the shared G the hinge you can hear.
-
-Final challenge: invent a four-bar answer that uses both positions, one held D, and one beat of silence.
-
-:::checkpoint Play four steady call-and-response rounds between 2nd and 5th position, with a clean slide and one intentional rest.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Encaixe de posições na guitarra
+# Referência em revisão · Encaixe de posições na guitarra
 
-Marque **76 bpm** no metrônomo. Na 2ª posição, toque a célula de quatro notas **sol-lá-si-ré**, deixando o ré soar por dois tempos.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro rodadas firmes entre a 2ª e a 5ª posição, com um slide limpo e uma pausa intencional.
 
-Agora responda na 5ª posição com **sol-lá-si-ré**. Mantenha o mesmo ritmo; o sol agudo é uma chegada tranquila, não uma corrida.
-
-No último ré, deslize de volta até o próximo sol sem perder a pulsação. Faça o slide bem suave e repita a célula na posição baixa.
-
-Faça quatro rodadas de pergunta e resposta. Se a troca esbarrar no tempo, baixe para 56 bpm e ouça o sol comum como dobradiça.
-
-Desafio final: invente uma resposta de quatro compassos usando as duas posições, um ré sustentado e um tempo de silêncio.
-
-:::checkpoint Toque quatro rodadas firmes entre a 2ª e a 5ª posição, com um slide limpo e uma pausa intencional.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Cambio encajado en guitarra
+# Referencia en revisión · Cambio encajado en guitarra
 
-Pon el metrónomo a **76 bpm**. En 2.ª posición, toca la célula de cuatro notas **sol-la-si-re** y deja sonar re durante dos pulsos.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro rondas estables entre 2.ª y 5.ª posición, con un slide limpio y un silencio intencional.
 
-Ahora responde en 5.ª posición con **sol-la-si-re**. Conserva el ritmo; el sol agudo es una llegada tranquila, no una carrera.
-
-En el último re, desliza hacia el siguiente sol sin perder el pulso. Haz el slide muy suave y repite la célula abajo.
-
-Haz cuatro rondas de pregunta y respuesta. Si el cambio golpea el tiempo, baja a 56 bpm y escucha el sol común como bisagra.
-
-Reto final: inventa una respuesta de cuatro compases usando ambas posiciones, un re sostenido y un pulso de silencio.
-
-:::checkpoint Toca cuatro rondas estables entre 2.ª y 5.ª posición, con un slide limpio y un silencio intencional.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Lagenverzahnung
+# Referenz in Prüfung · Gitarren-Lagenverzahnung
 
-Stelle **76 bpm** ein. Spiele in der 2. Lage die viertönige Zelle **G-A-H-D** und lass D zwei Schläge klingen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier sichere Runden zwischen 2. und 5. Lage, mit sauberem Slide und einer bewussten Pause.
 
-Antworte nun in der 5. Lage mit **G-A-H-D**. Halte den Rhythmus gleich; das hohe G ist eine ruhige Landung, kein Wettrennen.
-
-Gleite beim letzten D zum nächsten G zurück, ohne den Puls zu verlieren. Spiele den Slide leise und wiederhole die Zelle unten.
-
-Spiele vier Frage-Antwort-Runden. Wenn der Wechsel den Schlag stört, gehe auf 56 bpm und höre das gemeinsame G als Scharnier.
-
-Finale Herausforderung: Erfinde eine viertaktige Antwort mit beiden Lagen, einem gehaltenen D und einem bewussten Schlag Pause.
-
-:::checkpoint Spiele vier sichere Runden zwischen 2. und 5. Lage, mit sauberem Slide und einer bewussten Pause.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギターのかみ合わせ移動
+# 確認中の参照 · ギターのかみ合わせ移動
 
-メトロノームを**76 bpm**にします。2ポジションで4音の細胞 **G-A-B-D** を弾き、Dを2拍伸ばします。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：2ポジションと5ポジションを4回安定して往復し、きれいなスライドと意図した休符を入れます。
 
-次に5ポジションで **G-A-B-D** と答えます。リズムは同じにし、高いGは急がず静かに着地します。
-
-最後のDから次のGへ、拍を保ったままスライドします。スライドを小さく聴かせ、低い形をもう一度弾きます。
-
-問いと答えを4回行います。移動で拍が乱れたら56 bpmに下げ、共通のGを支点として聴きます。
-
-最後の課題：2つのポジション、伸ばすD、1拍の休符を使って4小節の返答を作ります。
-
-:::checkpoint 2ポジションと5ポジションを4回安定して往復し、きれいなスライドと意図した休符を入れます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他衔接换把
+# 审核中的参考 · 吉他衔接换把
 
-将节拍器设为**76 bpm**。在二把位弹四音动机 **G-A-B-D**，让D延续两拍。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：在二把位和五把位之间稳定完成四轮问答，加入干净滑音和一个有意的休止。
 
-现在在五把位用 **G-A-B-D** 回答。保持相同节奏；高音G是安静的落点，不是冲刺。
-
-最后一个D滑回下一个G，同时不要打乱节拍。让滑音轻声发生，再在低把位重弹动机。
-
-进行四轮问答。如果换把撞乱节拍，就降到56 bpm，把共同的G听成铰链。
-
-最终挑战：用两个把位、一个延长的D和一拍休止，创作四小节回答。
-
-:::checkpoint 在二把位和五把位之间稳定完成四轮问答，加入干净滑音和一个有意的休止。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 2-7
-tempo: 76
-positions: 6:3 G, 6:5 A, 5:2 B, 4:0 D, 4:5 G, 3:4 B
-sequence: G-A-B-D | G-A-B-D
-```
-
-```notes
-key: G major
-tempo: 76 bpm
-sequence: G-A-B-D/2 -/2 | G-A-B-D/2 -/2
+```quiz
+id: guitar-dovetail-shift-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

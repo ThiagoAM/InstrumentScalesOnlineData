@@ -1,0 +1,6696 @@
+{
+  "schema": 1,
+  "policy": "Pending physical proposals are never served. Fallback audio is limited to fully specified original musical events. Concept-only fallback invents no reference music. Complete original instructions remain traceable outside production.",
+  "lessons": [
+    {
+      "id": "guitar-half-step-fret-hunt-20261002",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/guitar-half-step-fret-hunt-20261002/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "bff3484f52bdba042557df19dbcd5e340bffa0b79120f89314c504d7f1aa4ad6",
+      "proposalSHA256": "7c7da738c708900c175e7befd2e1678945ef356512cdb8a6538ff33da9f72b78",
+      "fallbackSHA256": "cd91555c225fb375cb60632feb68e32e4249e334ee4337c95fa31b40d85b0a80",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/guitar-half-step-fret-hunt-20261002/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/guitar-half-step-fret-hunt-20261002/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 56.0,
+            "events": [
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 56.0,
+            "events": [
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-minor-third-switch-20260924",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-minor-third-switch-20260924/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "fa0ceeb127eb0cb3b05269293fb46de6e7b3a1f4f6ff68e13a81aee3add2b5b2",
+      "proposalSHA256": "a350da47aa56b71202f9848d74624c849f84228121f656cb16d2b23647c47795",
+      "fallbackSHA256": "1d95b03b5bc21624f0e651047425ad349419dc5a2128f7c4350d7ff3616603fc",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-minor-third-switch-20260924/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-minor-third-switch-20260924/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-flat-seventh-home-20260927",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-flat-seventh-home-20260927/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "8f6a6d58ac79b4b5644f24e08993de72de0ba33428aaa95fabcc96867982bbf8",
+      "proposalSHA256": "e3fa22f55862f10ab5c50ca7b3c2683fb6d9eef4f00394417c2386623681fc3e",
+      "fallbackSHA256": "913b5b37f5023c439bee531425e0807bd2f9902f9e7164bd8b0913ead6eb14a6",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-flat-seventh-home-20260927/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-natural-minor-groundwork/lessons/bass-flat-seventh-home-20260927/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 62.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 62.0,
+            "events": [
+              [
+                [
+                  31
+                ],
+                0.5
+              ],
+              [
+                [
+                  33
+                ],
+                0.5
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-pentatonic-seventh-answer-20260925",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-seventh-answer-20260925/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "676b5176665cf63e00c15f33e3de5346d1c963e2495678d74c0a81123dbb5dea",
+      "proposalSHA256": "5a66abfa7684a44feec0463f1facb7a4f1469218ece58b17941e523b06d92957",
+      "fallbackSHA256": "77b7f243093969aea7aa13bafd76375fe848a85923fe019e2d6f307ca08cb8e7",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-seventh-answer-20260925/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-pentatonic-first-steps/lessons/bass-pentatonic-seventh-answer-20260925/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-second-third-ear-choice-20260929",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-interval-landmarks/lessons/bass-second-third-ear-choice-20260929/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "43bf7436d90a89ffacd1bfcb441335209b455c6c4a7569fcd92f883e44a4d296",
+      "proposalSHA256": "0f79f989a7189ded0c65ebb41ce6e2501fdc8bf13c72d6704a533a8f1dca8021",
+      "fallbackSHA256": "33c47adb76761c7e32b1da68cb5b234b36dcfb64b0b0307b9d2d61ba3ad7bc57",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-interval-landmarks/lessons/bass-second-third-ear-choice-20260929/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-interval-landmarks/lessons/bass-second-third-ear-choice-20260929/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  40
+                ],
+                2.0
+              ],
+              [
+                [
+                  42
+                ],
+                2.0
+              ],
+              [
+                [
+                  40
+                ],
+                2.0
+              ],
+              [
+                [
+                  43
+                ],
+                2.0
+              ],
+              [
+                [
+                  40
+                ],
+                2.0
+              ],
+              [
+                [
+                  43
+                ],
+                2.0
+              ],
+              [
+                [
+                  40
+                ],
+                2.0
+              ],
+              [
+                [
+                  42
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-open-string-cutoff-20260929",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-clean-scale-movement/lessons/guitar-open-string-cutoff-20260929/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "223d6f4affe0ac3d7b6880dec92de60e42f20621d2275ef3bec80312276ca316",
+      "proposalSHA256": "d6a49192eec427569d80800141a1a64569d8585e3c18280d9e9494a9e8a0c5e7",
+      "fallbackSHA256": "b71ffd26f9b38984d5de1a47aaead6802b601c1180d77ca9626dd9ef449f14df",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-clean-scale-movement/lessons/guitar-open-string-cutoff-20260929/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-clean-scale-movement/lessons/guitar-open-string-cutoff-20260929/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-dynamic-arch-20260921",
+      "path": "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-shape-the-phrase/lessons/guitar-dynamic-arch-20260921/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "0ccdd6458c40550b6393e1340840df431a7a5a3fe04b8fb391f2f2207b3bcf62",
+      "proposalSHA256": "5be00adab0ecc248f97d8fad3a3228ec8049349da2084665838c548da33b8575",
+      "fallbackSHA256": "2772fe42d04bb5727b6ca90d849ecde13dc0c24a5cb52a52d4111ecc92ef6fbd",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-shape-the-phrase/lessons/guitar-dynamic-arch-20260921/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-shape-the-phrase/lessons/guitar-dynamic-arch-20260921/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-position-comet-lift",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-position-comet-lift/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "067bcecda8035b1d965d50f846ab2146673c3cf90aad0c915e214041d908d1ce",
+      "proposalSHA256": "94b5800f3e18ab2f9cdad1af3c4df79cca33d6cf7255164941fc0bef7ceea5f7",
+      "fallbackSHA256": "39e0cc496d254359b7a6e386296988406e6ec0fa8d8616292e010240a795446f",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-position-comet-lift/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-position-comet-lift/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 86.0,
+            "events": [
+              [
+                [
+                  43
+                ],
+                0.5
+              ],
+              [
+                [
+                  45
+                ],
+                0.5
+              ],
+              [
+                [
+                  47
+                ],
+                0.5
+              ],
+              [
+                [
+                  50
+                ],
+                0.5
+              ],
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  54
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  57
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  54
+                ],
+                0.5
+              ],
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  50
+                ],
+                0.5
+              ],
+              [
+                [
+                  47
+                ],
+                0.5
+              ],
+              [
+                [
+                  45
+                ],
+                0.5
+              ],
+              [
+                [
+                  43
+                ],
+                0.5
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-shift-signal",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-shift-signal/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "826078a00cab6add61e910ed000d8a17a815dd17340b80c41d71dcd6960cd996",
+      "proposalSHA256": "a9c2a25a3a357ae48db7bb9806ac4b0adbd6c1b85846382089a2c4a23d0a0fc1",
+      "fallbackSHA256": "50da28efa8a3cbfdf73682b18e0aed34b9bc250c7dc6dbc1065569e0a9071eca",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-shift-signal/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-shift-signal/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-pocket-switch",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-pocket-switch/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "f9630cdb878a5faa00735ad870c6b108bd86a124437824c156d83099efeb555e",
+      "proposalSHA256": "d54ebf1d442a79b3911e39dfa6c65507032bc0c16afc516d50ccd4537c2221e5",
+      "fallbackSHA256": "23404ba0e481fe282dc1ef41320463388b211230f86f77c96498a89b1e9095a3",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-pocket-switch/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-pocket-switch/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-lane-cross",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-lane-cross/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "97e6f4eac69cb20e22f066b8d56adf8464788ddf3b871da3fce53934f4f51439",
+      "proposalSHA256": "1d44b16050be157176cc27da3912f51a83f7f2ff95c9ddb00316185935f8a4da",
+      "fallbackSHA256": "e6760820da168e91a0205ea7bce3bdcacab65c06e596484a5844123384b88655",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-lane-cross/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-lane-cross/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-shift-echo",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-shift-echo/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "ed4c76cd1483929501bb7870f61ff0170eeadaad091554a34bff686432ae0f06",
+      "proposalSHA256": "c1067513e9070aec905d13ee7045aa031540d420efe1a7c3bb78d9fbe1f569d9",
+      "fallbackSHA256": "819068fc9f8fc8378c9f21cd492d671a1d52e7d35260e7f11ff50392fe4b423a",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-shift-echo/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-shift-echo/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-syncopation-bridge",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-syncopation-bridge/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "0e171637ac88e57cf3555a829f1e7ab82dfa8f5598b4aa06f7442191d70fef1c",
+      "proposalSHA256": "1638c4eb98815d0be057fe300be72ec60603304e13b5deb387e271f0860fef90",
+      "fallbackSHA256": "7d52f9502b5a3359b6e900b2fc03cb768dd996fe26dc081126e843d08dbd762d",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-syncopation-bridge/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-syncopation-bridge/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-handoff-lantern",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-handoff-lantern/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "11ba01d73eecba18b6f3fe3207a495a75b72d07038fa3e2fd6fd5ef63d140eaa",
+      "proposalSHA256": "20beb7c3631c01a0bc4be6e9f4d39fb17a35da64853211b45774ca73a676c974",
+      "fallbackSHA256": "4d93ad8feef002bbd9b96c6f8cb4acb0f18c2a993b37eef2f5fd2b643e6c8abd",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-handoff-lantern/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-handoff-lantern/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-dovetail-shift",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-dovetail-shift/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "1fcfb3865fe66cc0b2b16ab57b80b3382e6d11f0e22f294b10f9d5b3c7eccb72",
+      "proposalSHA256": "b3e1279adea4c9fa57631d01e5727865055183eabb4c9b7b3aeac1d28ecf79df",
+      "fallbackSHA256": "24b7911fdb267eab90d609eda6ec661d29b78bbcffbe6ba2b667741d752dd1ce",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-dovetail-shift/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/guitar-dovetail-shift/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-pocket-handoff",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-pocket-handoff/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "d760134559c20b143f92e89761b881de66bd0fea1ed5e9a731521e0eaa9868cb",
+      "proposalSHA256": "09a17914cdf5a372ebc898b321de64a9c3fbebc58f4a2533f4656102a04630cf",
+      "fallbackSHA256": "2400057f1c5bd7417aedede1256ad58395c80a4a029d6996d4d1603a7557a677",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-pocket-handoff/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/bass-pocket-handoff/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-hands-crossing",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-hands-crossing/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "3e5ac8ea0a2431425364041e67c383b4a2bb9c6d87b57ae518dcb156b1f3575d",
+      "proposalSHA256": "a23ae8ce77ff7d9a9ec813e1328ab4c50f7b8c10542c6d8172cda5d2f8523c32",
+      "fallbackSHA256": "65eac5aabbca8cf346977dfa1dd505d835b68ebf9dade3c18a2d48708ddd9a3a",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-hands-crossing/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/position-bridges/lessons/piano-hands-crossing/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-unison-string-detective-20260915",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/position-bridges/lessons/guitar-unison-string-detective-20260915/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "9dbf6876d0237a9fd19d96853c4224a9ab74d44e77a0168a5d6f2d0a87e9b32a",
+      "proposalSHA256": "f25b959ce182f62052db3795155797f2a1c0e9c6a6c3c385dd431b884ae103c4",
+      "fallbackSHA256": "4b2473ccbc8e41002d1ac1985eb8fc842dd1528b459bdffd0f3dd336696a4c08",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/position-bridges/lessons/guitar-unison-string-detective-20260915/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/position-bridges/lessons/guitar-unison-string-detective-20260915/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-ghost-note-lifeline",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/rhythm-lab/lessons/bass-ghost-note-lifeline/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "04b59cf048484682d179e8149d2e38eb4b80791126e7e6c698fc9dd8b09d3303",
+      "proposalSHA256": "3e3d4cfdfaa8914bb0bec05fac35be86e4c07b5983f144a2250acc7fb566e48d",
+      "fallbackSHA256": "33423d1297c94cb5e0ab881da6255ecab517030f563ea39496df38e642717ffb",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/rhythm-lab/lessons/bass-ghost-note-lifeline/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/rhythm-lab/lessons/bass-ghost-note-lifeline/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-late-launch-switch",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/rhythm-lab/lessons/guitar-late-launch-switch/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "2aedef04268c6e8ee4676ad496ca9f69f277de359ac488bd3ed663d397920f2e",
+      "proposalSHA256": "a6789af698922d100a71e35ff5cea3eb356a3c23117a8551c247949efaf6f34f",
+      "fallbackSHA256": "e00075e27f261a77d151e551be671561e3a0f2116518048e8f02ea2021c15201",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/rhythm-lab/lessons/guitar-late-launch-switch/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/rhythm-lab/lessons/guitar-late-launch-switch/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 92.0,
+            "events": [
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  57
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                0.5
+              ],
+              [
+                [
+                  57
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  57
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                0.5
+              ],
+              [
+                [
+                  57
+                ],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  62
+                ],
+                0.5
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-early-root-signal-20260923",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-early-root-signal-20260923/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "ad278d7f126375bd06938cc6d8f21e04f82c282b2313e912373ca64fd901aed2",
+      "proposalSHA256": "1caecd99fcd0710a6f5b58be24b16b7e27e1154a2a2446aa2f5e079f72a1d1bf",
+      "fallbackSHA256": "76e72aa0fa812daa1c1574319a51409dd20b04209a51395241761dc98ec7e9aa",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-early-root-signal-20260923/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-early-root-signal-20260923/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  31
+                ],
+                0.5
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-fifth-after-silence-20260928",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-fifth-after-silence-20260928/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "ebd6bd19307bc4bd930f935f3acf5371fc265b49e2b9df2b2fe9eb4a9c47d0fa",
+      "proposalSHA256": "897e5332f85c63e3876bdce93317918e2b18a14a0e5906f45a943c041cc54586",
+      "fallbackSHA256": "71fe16f0b95c05e3e36dfd80583022b7160095b87e212962c3103d223b369bf9",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-fifth-after-silence-20260928/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/rhythm-lab/lessons/bass-fifth-after-silence-20260928/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  33
+                ],
+                0.5
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-motif-password-20260913",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/guitar-motif-password-20260913/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "6de87003bb157e7d2db4fcdb01556ee0a6957f3a069c5fd34401a86b1492d27a",
+      "proposalSHA256": "3ca6180987bbe8c338f888872ee2016fd3cab0768512c720ebfea6c109fd544a",
+      "fallbackSHA256": "7ce8fba1d053cdc0fa6bfa43929b98a53627d173c17a7b53cb79a97e2ebb4078",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/guitar-motif-password-20260913/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-move-one-idea/lessons/guitar-motif-password-20260913/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-three-note-carousel-20260915",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/bass-three-note-carousel-20260915/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "a8f233b0d682a706d4351bc636ffa049607ba8f2c157de75dfbc00cd009e120e",
+      "proposalSHA256": "acac9e243cce3dda100354cb41d78ae7ac820f2dddfd38a564f33eab997f7b99",
+      "fallbackSHA256": "e8a6ecc6075888ebf664cc139cc4e2610c8c330ac72c356d2238510823bd5db7",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/bass-three-note-carousel-20260915/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/bass-three-note-carousel-20260915/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-string-skip-triangle-20260917",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-string-skip-triangle-20260917/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "db92763a462e8a40e09b2bc8dc76ee849cd6ca356abcfaff9837a3de187cfe93",
+      "proposalSHA256": "a5523e193aa973627283a8bd20b2e17a67c5d94a0adef9accc9a3a60de77cf01",
+      "fallbackSHA256": "44b722059958b07867d36174a22b4158368e1ac444076a147e6ccf7a8a44f049",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-string-skip-triangle-20260917/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-string-skip-triangle-20260917/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-third-step-staircase-20260926",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-third-step-staircase-20260926/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "bb32f749457b8ba19d24b47094401104809da29a75a69ccaabc9309fef7fe7f2",
+      "proposalSHA256": "95a932c6f2e570f04ff93a835f272d887aa123447f3c7b407987bcca627e11aa",
+      "fallbackSHA256": "f40de892b2661f3f13ca0e2e9aab7a63bcbe25fc557c4e4916370769ed421e53",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-third-step-staircase-20260926/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-sequence-workshop/lessons/guitar-third-step-staircase-20260926/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  60
+                ],
+                0.5
+              ],
+              [
+                [
+                  64
+                ],
+                0.5
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                0.5
+              ],
+              [
+                [
+                  65
+                ],
+                0.5
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                0.5
+              ],
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-lydian-fourth-flash-20260923",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-lydian-fourth-flash-20260923/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "4033ae1effb0e51d74cb9e83534a88725644b818e2256f4e23802205e6c90b78",
+      "proposalSHA256": "52afa5d93992517c43db63e1a1c3c1b7d3891a65c2cb999bf926bf5f3db38e1b",
+      "fallbackSHA256": "46f1624df3e6783791f886e72e39d8c91c9422cc43128f74cb970c1cb2bd2f90",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-lydian-fourth-flash-20260923/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-lydian-fourth-flash-20260923/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ],
+              [
+                [
+                  60
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ],
+              [
+                [
+                  60
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-aeolian-dorian-sixth-20260924",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-aeolian-dorian-sixth-20260924/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "3e37d7957aec9c755131e64745db3502f1b2accec398e7643860290aece4f685",
+      "proposalSHA256": "d0e5f2dd5510bea6909b3237846c8e15987a884b0a6955c099a36b107481323a",
+      "fallbackSHA256": "19d867b8219455a42e5f0ad4fa772fb4ccf6471a55a05f1ca9a643ae6df044b8",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-aeolian-dorian-sixth-20260924/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-modes-by-color-note/lessons/guitar-aeolian-dorian-sixth-20260924/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ],
+              [
+                [
+                  57
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ],
+              [
+                [
+                  57
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-third-shift-signal",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-third-shift-signal/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "fc5c2b1119bd0a54d70fff4373e193d67c9aa6b061418c4a70df65deb84a46fe",
+      "proposalSHA256": "8b3f6539117a7e4ef73c3b3f229f4d3ec1c8a3e5aa1357204a063dbf90b0e666",
+      "fallbackSHA256": "c878572080a9b9dabfbc527e4b1b8ff158e43b947750c320f7ca7ad8d9980258",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-third-shift-signal/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-third-shift-signal/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-call-response-shift",
+      "path": "v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-call-response-shift/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "675f1cee261b9d8276aca17223dbde699f9ad9a738cb6d70e79f5e5d0382c38a",
+      "proposalSHA256": "aaa22ccac0531d426a32307ba070d039aefd9e0e5e37149ef74ab3cfbc0f3268",
+      "fallbackSHA256": "dbbd68e56635f210978c51a46a1df0155abab86dff61d3bc199620b0a93bb332",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-call-response-shift/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/intermediate/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-call-response-shift/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-harmonic-third-switchback",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-harmonic-third-switchback/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "6563c2ea43bd001d9c4b5e2b82a157a398c53c360c60768cecd378c12306cbeb",
+      "proposalSHA256": "81f3451b47836cca73402681ab39b3ed4e412d4d4b5552ad77b73d32fb4acbf8",
+      "fallbackSHA256": "524057c8c416a2e57a6b81f80f8d8a5994b104d466b2e8364e93b94a836349e3",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-harmonic-third-switchback/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-harmonic-third-switchback/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 84.0,
+            "events": [
+              [
+                [
+                  55,
+                  59
+                ],
+                2.0
+              ],
+              [
+                [
+                  57,
+                  60
+                ],
+                2.0
+              ],
+              [
+                [
+                  59,
+                  62
+                ],
+                2.0
+              ],
+              [
+                [
+                  60,
+                  64
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 3,
+          "eventIntent": {
+            "tempo": 84.0,
+            "events": [
+              [
+                [
+                  60,
+                  64
+                ],
+                2.0
+              ],
+              [
+                [
+                  59,
+                  62
+                ],
+                2.0
+              ],
+              [
+                [
+                  57,
+                  60
+                ],
+                2.0
+              ],
+              [
+                [
+                  55,
+                  59
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 4,
+          "eventIntent": {
+            "tempo": 84.0,
+            "events": [
+              [
+                [
+                  55,
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  59,
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  60,
+                  64
+                ],
+                2.0
+              ],
+              [
+                [
+                  59,
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  57,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  55,
+                  59
+                ],
+                2.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  57,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  60,
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  59,
+                  62
+                ],
+                2.0
+              ],
+              [
+                [
+                  55,
+                  59
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-sixth-ladder-flare",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-sixth-ladder-flare/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "177af446c687fbcf9883aa2ac67296b568e8e244cbf1c4e237de5ea8a1e5be4d",
+      "proposalSHA256": "bbd320c650ba8a689dfe10630c592f5dc954d4b83890016d9d76ff7b16feb67b",
+      "fallbackSHA256": "aebc9a20de27c6a6435ba5634322ee380813742b5d8361de39380e076fa3ad6e",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-sixth-ladder-flare/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-sixth-ladder-flare/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 82.0,
+            "events": [
+              [
+                [
+                  48,
+                  57
+                ],
+                2.0
+              ],
+              [
+                [
+                  50,
+                  59
+                ],
+                2.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                2.0
+              ],
+              [
+                [
+                  53,
+                  62
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 3,
+          "eventIntent": {
+            "tempo": 82.0,
+            "events": [
+              [
+                [
+                  53,
+                  62
+                ],
+                2.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                3.0
+              ],
+              [
+                [
+                  50,
+                  59
+                ],
+                2.0
+              ],
+              [
+                [
+                  48,
+                  57
+                ],
+                3.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 4,
+          "eventIntent": {
+            "tempo": 82.0,
+            "events": [
+              [
+                [
+                  48,
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  50,
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  53,
+                  62
+                ],
+                2.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  53,
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  50,
+                  59
+                ],
+                2.0
+              ],
+              [
+                [
+                  48,
+                  57
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  48,
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  50,
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  53,
+                  62
+                ],
+                2.0
+              ],
+              [
+                [
+                  52,
+                  60
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-fourth-compass-lift",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-fourth-compass-lift/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "abe8bf79d819c4f5e1a5a860b6c45c86aab9057ba5c9c778c2407b9e405dcef6",
+      "proposalSHA256": "69a2457f1dc2e80a4da5f883119c7701cfeeb4e575db9b86737205965be911f5",
+      "fallbackSHA256": "d9f6f29c997e5c80e48acb78a97c337dd65b6a6e73493e164f5b81180bbebd79",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-fourth-compass-lift/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/guitar-fourth-compass-lift/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 92.0,
+            "events": [
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 3,
+          "eventIntent": {
+            "tempo": 92.0,
+            "events": [
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  54
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-resolution-catapult",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-resolution-catapult/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "80b8abe6516d585b88d32f4d7c0a47ab26874a3f4667ad110fa2ea6d3b5008a1",
+      "proposalSHA256": "aa01b71cc7e7d17535ae9c2c7439582c419c428fb49b373d36b023ea904c6098",
+      "fallbackSHA256": "34bbbacb982837e71a69b79f308762ad2784c0a39351e11507112d861bb7282c",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-resolution-catapult/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-resolution-catapult/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 94.0,
+            "events": [
+              [
+                [
+                  65
+                ],
+                0.5
+              ],
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [
+                  69
+                ],
+                0.5
+              ],
+              [
+                [
+                  71
+                ],
+                0.5
+              ],
+              [
+                [
+                  72
+                ],
+                0.5
+              ],
+              [
+                [
+                  74
+                ],
+                0.5
+              ],
+              [
+                [
+                  64
+                ],
+                0.5
+              ],
+              [
+                [
+                  65
+                ],
+                0.5
+              ],
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [
+                  60
+                ],
+                0.5
+              ],
+              [
+                [
+                  62
+                ],
+                0.5
+              ],
+              [
+                [
+                  64
+                ],
+                0.5
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-backbeat-decoy",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-decoy/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "764f1155ab8a00f20009aaa07823f06482c973f2a84d4feca2aab53dfdfef015",
+      "proposalSHA256": "c47245c5b9b484dd712f42d13332dac4379b87cee29fb84f8402dae75f465495",
+      "fallbackSHA256": "57873215e82e06053284c140ad7662b9396a88a29156b576473f8192f95c10a5",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-decoy/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-decoy/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 100.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-anticipation-zipline",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-anticipation-zipline/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "0f0f0fcef4a8b4ff333ed178cabe7a99c7472e5f1c2a6a55987dc2f16eb0d94f",
+      "proposalSHA256": "86e047c937d1362ad95b664360ed2fa21c361b2da99f85dc68de881abfb85824",
+      "fallbackSHA256": "41ff0834dfc8a0709a3b76735270bc5a8984909099f71914ebf0b5947ad7bc0c",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-anticipation-zipline/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-anticipation-zipline/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 94.0,
+            "events": [
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  61
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-octave-feint-drop",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-octave-feint-drop/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "f22e42bfdefea2ab8a93070fb54b45158915da362507d540fb6e6c62b8890c4d",
+      "proposalSHA256": "7e38e07e2dc2ef46cca056dccea5e3bf3fe52fbb6ecbe82879b40e00e2a56793",
+      "fallbackSHA256": "b796c97af3da82458ce7c74daf55c226d56f86acd884bcdd895394f54bb1b4f8",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-octave-feint-drop/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-octave-feint-drop/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 98.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  47
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  49
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-third-echo-brake",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-third-echo-brake/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "9bc377cf1db1b734e829c370672df02ac14d977869a938cdaa4f41e1f5e549dd",
+      "proposalSHA256": "bcb3e4237e403608f78376cee29e54c713ada280789009149aaa273e4774be9d",
+      "fallbackSHA256": "a4864983eaaaf3cfed24742fa6a89b1680e55f7a740fcad1c0f66c1471941969",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-third-echo-brake/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-third-echo-brake/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 94.0,
+            "events": [
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-beat-one-trapdoor",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-beat-one-trapdoor/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "2b59059653e806a83f3b90be7aa1e526bf667f84328d24a3d10212256f2dc045",
+      "proposalSHA256": "7361a5d3aacb02378f4a362e81f802f209ca153075bab46cc510ce0bd30f4f8d",
+      "fallbackSHA256": "fa91457a84601752482701c8ba4e8cf18692e02cecaba47d43dc29e0145be857",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-beat-one-trapdoor/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-beat-one-trapdoor/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 94.0,
+            "events": [
+              [
+                [
+                  28
+                ],
+                1.0
+              ],
+              [
+                [
+                  29
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-half-step-landing-bridge",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-half-step-landing-bridge/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "4a63a2b88d519bd3f930dabbb6d504bd608c0be0a62680152b6fbb34859f914b",
+      "proposalSHA256": "469e509b48ef4e48ff75c3249aaf25b089de96b5f96d4aaf5225ab960df9467a",
+      "fallbackSHA256": "4de0824135f698928d2743f76775b565d3c10b345011dc6fd786d879923f19f9",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-half-step-landing-bridge/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-half-step-landing-bridge/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 92.0,
+            "events": [
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  72
+                ],
+                1.0
+              ],
+              [
+                [
+                  58
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  68
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  74
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-guide-tone-switchback",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-switchback/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "055368a07edd88ece6729fc6a1eb8aebd9fd023bd354a2958f8d5e4bc1542420",
+      "proposalSHA256": "a88c6a7703c9c9a75fd539cf77b3b5866cf02d525833080641fda9d044a5e797",
+      "fallbackSHA256": "11bbcafb63a7e9b26d0fa52f05c19507ad9568d75d58106e4b5708bdaf6e07a0",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-switchback/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-guide-tone-switchback/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 94.0,
+            "events": [
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  61
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  61
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  61
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  63
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-pivot-flare-ladder",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-pivot-flare-ladder/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "8f7bfe3888027712526bb5140d3b92302cc892a310c745c09c7532118bf3a284",
+      "proposalSHA256": "f09e960171cbac40933a53ac25ff1d35dbfc466d4140019b41732289ba4fda62",
+      "fallbackSHA256": "ebe4f18c8b336dc5414e4987b2686ada67a65120811e4ecbc6fd912963e098c4",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-pivot-flare-ladder/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-pivot-flare-ladder/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 96.0,
+            "events": [
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [
+                  69
+                ],
+                0.5
+              ],
+              [
+                [
+                  65
+                ],
+                0.5
+              ],
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [
+                  69
+                ],
+                0.5
+              ],
+              [
+                [
+                  71
+                ],
+                0.5
+              ],
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [
+                  65
+                ],
+                0.5
+              ],
+              [
+                [
+                  64
+                ],
+                0.5
+              ],
+              [
+                [
+                  67
+                ],
+                0.5
+              ],
+              [
+                [
+                  62
+                ],
+                0.5
+              ],
+              [
+                [
+                  61
+                ],
+                0.5
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-backbeat-periscope",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-periscope/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "19994d4c1db44e3d79b83f14b6a814de209680f7aefa64c236494f0cbe13dcc4",
+      "proposalSHA256": "e082b262f9df3d037130c1e843104c51aee37c510cbb746afa419d522dc45f24",
+      "fallbackSHA256": "6af9f91024d071a3dbcbdcdf4bce909887b79c0c0fbc4d27ca8d766841e01e27",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-periscope/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-periscope/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 98.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-beat-two-scout",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-beat-two-scout/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "1b197b89798588849a2a7af87697b15a4382117e363a00f0fffe4d48c3b7dced",
+      "proposalSHA256": "f0ca4afde75df9fe480d198fbb707e222ec6a5e905c23e9e28cc8559cab934fc",
+      "fallbackSHA256": "4263aa778a65db0ff01e2ae228bf85a29e1ab342b174cf31f51d34382dbc76ff",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-beat-two-scout/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-beat-two-scout/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 100.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-target-lighthouse",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-target-lighthouse/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "a9f21873c29e72a5a0a55676721d4b1cc6ee92c19a1f2825d12db18155dad4e4",
+      "proposalSHA256": "3fc6e34d3d73d0ef702a2852ca1cc683a8585b14de877dc914164bfb99f8703e",
+      "fallbackSHA256": "8ea639acd5ebba1f6c21a7019563bc587c174afcb9cc25f8a5ac8eecb0207a8e",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-target-lighthouse/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-target-lighthouse/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 86.0,
+            "events": [
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-target-triple-jump",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-target-triple-jump/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "85c42966b7985a7f984f0ee6c037863be4d57b4a36de4700e8571587df7f9af9",
+      "proposalSHA256": "cc74c78adbc87a67ee8145a2a02c46ff842db816aace5351b04b158ff3e2c457",
+      "fallbackSHA256": "34228cf6d7661c8ae4a79f47eb3069c6315e2c4387a397c19ce5803785fa14a7",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-target-triple-jump/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-target-triple-jump/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 76.0,
+            "events": [
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-dorian-target-ladder",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-dorian-target-ladder/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "209e52bb6c86540f2435ce12327f8a19d86efac19ae70bed3dc46d7110081059",
+      "proposalSHA256": "8d010532f48c02c72bbda1b0b825e318e634eff0bff9d3d8b847206700504384",
+      "fallbackSHA256": "e1d308efeb0db843a6b52619937c9ac533b0841f707928ff06e83119db6b41d2",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-dorian-target-ladder/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-dorian-target-ladder/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 78.0,
+            "events": [
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  53
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  53
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  53
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  53
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-seventh-target-lock",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-seventh-target-lock/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "fe6816e73d1430143303b266a958182ceaddba8bfa6af4f9dd26a9a8c6ba24ba",
+      "proposalSHA256": "d8336227073fd0c6069f802425352c89a70ed60323baaaefb776f857a3fafe48",
+      "fallbackSHA256": "900ef54e596a0dbbab42ea468528798b2b6bd6e65ffc50d82cdcac33da9a7a98",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-seventh-target-lock/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-seventh-target-lock/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 84.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  31
+                ],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  38
+                ],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  36
+                ],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-fourth-target-laser",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-fourth-target-laser/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "3cbfd6fd98c8cc9078f11a0c218617735c6aea6a598b2fd7f222c4eaa44cf4d4",
+      "proposalSHA256": "70666d247e385ac4b31fa5fe59cfc34ac360f1152c05bdea2e0eb0f8978e2289",
+      "fallbackSHA256": "e17d064064d9091fa94acc6136d1d96cf201e93fcb53024a2e6866546f2d6ced",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-fourth-target-laser/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-fourth-target-laser/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 84.0,
+            "events": [
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  72
+                ],
+                1.0
+              ],
+              [
+                [
+                  72
+                ],
+                1.0
+              ],
+              [
+                [
+                  74
+                ],
+                1.0
+              ],
+              [
+                [
+                  76
+                ],
+                1.0
+              ],
+              [
+                [
+                  77
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-fifth-pocket-switch",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-switch/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "05301b32a75f59530cccbe6e7e2ec56f60fa317f4fcae75281679aeee91f3898",
+      "proposalSHA256": "c37c40024208462ef1eca04768a7aaec7dfc64de318a259223e5a1275cc21bdc",
+      "fallbackSHA256": "ebcfc88ab82a8810c5a7586297c377c62e610895097c3d23830486addd29f07c",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-switch/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-switch/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 82.0,
+            "events": [
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  42
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-chromatic-third-bridge",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-chromatic-third-bridge/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "78ff4cb2e20d2f3e8dbc02e8538563e31310ccf5a7467b2e81896f28a2a38a52",
+      "proposalSHA256": "46af4c8d09805df77ed94a485e79ec7d6804ba58dbbc7c47d5c25757531f9e2f",
+      "fallbackSHA256": "7717f4055fbefc4db51ce265a552155d89fdcbac21fa3d22498a33e201910cb1",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-chromatic-third-bridge/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-chromatic-third-bridge/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 76.0,
+            "events": [
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  58
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  63
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-seventh-target-laser",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-seventh-target-laser/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "5dc0b69521fd09539f40073e5c659be29176cbdd65d898a3c4344163d1ecafcd",
+      "proposalSHA256": "5731ec25fa440267df962f3fbac96942f16ca93450879e09929162e4650f4462",
+      "fallbackSHA256": "2e3f0a5413d9d6d192d8ab9b51ad2dbef25d642b7777ab8959671b7efb09a6b4",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-seventh-target-laser/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/guitar-seventh-target-laser/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 72.0,
+            "events": [
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-root-fifth-signal-grid",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-root-fifth-signal-grid/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "43b8e9c020419cb51172b5dddc797b33cb9d9046ed622e9d31237945a87666ae",
+      "proposalSHA256": "c391f2cf9a65b537b37aa14d3971309752ae58d5aa7748e65d09ff9826747a6d",
+      "fallbackSHA256": "c3683070d39b27f667dc05841181ec6da2b9749ce48714c544baf89752b5702d",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-root-fifth-signal-grid/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-root-fifth-signal-grid/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-target-echo-run",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-target-echo-run/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "266ee4a6c79aaa1a00f8a70504f12552c9859931c8462b2f91f8909bd5050700",
+      "proposalSHA256": "bb0bb0d914763267486ec72e7fe6938678d01f8efea34d75c8d379167ca158c9",
+      "fallbackSHA256": "24590bec4dda826f31052bf9352f34b4cf03cf84a4255a7ee1ba6ccea03f95f5",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-target-echo-run/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-target-echo-run/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-fifth-echo-lock",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-echo-lock/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "9d3cdd28585003c1b3dd1c689cdb99a1b3acd76f269e983da3cbc13aef02be57",
+      "proposalSHA256": "ccb02a1de12649d292131d8cd6f54a173bed1226bd0a137c42055674dafbec8a",
+      "fallbackSHA256": "c5b1b6376ca74dc0b7faf92cc05cb18b244d1ec586bc7f99e617cf7b56b8a41a",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-echo-lock/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-echo-lock/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-third-shift-cipher",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-shift-cipher/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "d904778f7b1c0e2e5f7ae065058b45d3019d6b2cc8c1a3a4ad4ed2902c1ea09d",
+      "proposalSHA256": "bf1fec24b1c745bac5d78d3306e363964cacc6c0a410d296def69317eca88010",
+      "fallbackSHA256": "e98c3d766d966a48dc362c83a9b08774bca775da29c9ab0ebe61cc94dc0fc4e7",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-shift-cipher/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-shift-cipher/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-ninth-color-compass",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-ninth-color-compass/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "142430d7f90dbbef86c8808b179b0d2746a860acfc7ea533badc973a684abec4",
+      "proposalSHA256": "c81d9a9e726b864c181eb48dbd3af2fe122a4a24c098c9e4cdb056b7ab375b34",
+      "fallbackSHA256": "f76966ed120214a71aa00e69659a2a879dbd574d271db7cd75d1b9bcb9cc83ef",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-ninth-color-compass/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-ninth-color-compass/lesson.md",
+      "originalAudioProof": [],
+      "fallbackKind": "concept-only-no-invented-audio",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-third-to-seventh-semitone-20260928",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-to-seventh-semitone-20260928/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "fca7315251f09b19f727bba3253b2354257e0781024d6b9ba511f426b660f9ec",
+      "proposalSHA256": "68110f4c61f7800f05a16b5347097c474e5cd0b1e6008c321f727e405b5fb83f",
+      "fallbackSHA256": "c7f4b627134956b2e006d8bc1c8a32c72d92e3a925abd3ac7f1b82073d2f79d7",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-to-seventh-semitone-20260928/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/guitar-third-to-seventh-semitone-20260928/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-augmented-step-door-20260914",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "0688fa402fcf25a15f116731d616af6424e67c3200d9ef084937e92a08ec6b5a",
+      "proposalSHA256": "d25b4ac20ca127472cba8e17dfffdc64f472a11b3e5407c74b097c33669f7c10",
+      "fallbackSHA256": "81d1a11bfb3879259000cadc9f0c05423f8f87f08ff1383e2ae01ddc0e101582",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  68
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  68
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                2.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-fifth-ceiling-20260921",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/bass-fifth-ceiling-20260921/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "772bb25abd14a048cee483d24f4cc941e4c2b351a6e08feca5c02ee8e899b569",
+      "proposalSHA256": "366f74ce3d39065e3e1c6b0f05eb5c103a34db6c198d53a1be4bbba010d5e1ba",
+      "fallbackSHA256": "4e5b8c1ddc0fce2b0f36feb7b99c015eeef75683d66aabcf2292a8a28ab57e0e",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/bass-fifth-ceiling-20260921/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/bass-fifth-ceiling-20260921/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  36
+                ],
+                2.0
+              ],
+              [
+                [
+                  43
+                ],
+                2.0
+              ],
+              [
+                [
+                  43
+                ],
+                2.0
+              ],
+              [
+                [
+                  36
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  43
+                ],
+                2.0
+              ],
+              [
+                [
+                  48
+                ],
+                2.0
+              ],
+              [
+                [
+                  48
+                ],
+                2.0
+              ],
+              [
+                [
+                  43
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-offbeat-motif-relay-20260927",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/guitar-offbeat-motif-relay-20260927/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "bab1e1cc70a63aab7b965dc158ad0376362df3281d52c9941952e922878520b9",
+      "proposalSHA256": "aa13d6e294cb94d88b540ffe506c2958ae21596cd6f1a0fdbf0880beb16b6c3b",
+      "fallbackSHA256": "aca783ddbdf41154f1931a466c3e91c200b19f8dfc0178c63fb9a927a454d005",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/guitar-offbeat-motif-relay-20260927/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-rhythmic-displacement/lessons/guitar-offbeat-motif-relay-20260927/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [],
+                2.0
+              ],
+              [
+                [
+                  52
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 64.0,
+            "events": [
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.5
+              ],
+              [
+                [
+                  52
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-chromatic-pickup-pair-20260917",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "cdbd3d724e8fb5dfd24aa100d972e29b54698c772d22ccea81e5fd7fe1224f35",
+      "proposalSHA256": "3e8424bd57f73833e61aa369642f8d55900e4045ccd4dac68ec50f657b34701a",
+      "fallbackSHA256": "d09cda573faec5bc75c73d7b7783ca14638231a705c0b2a999702639947a5467",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [],
+                3.0
+              ],
+              [
+                [
+                  39
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ],
+              [
+                [],
+                3.0
+              ],
+              [
+                [
+                  44
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "guitar-chromatic-third-doors-20260925",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/guitar-chromatic-third-doors-20260925/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "077dc716851ac0328b3c42870676b9ff63bdfc0b29dd85ab941048fbabcd8f5d",
+      "proposalSHA256": "bd600872d827a0c1093f485c5e9711c591c91c7327affcf18d4da38034323bc7",
+      "fallbackSHA256": "474d630b20fdd57e99e6be94ed0f6644ca5ce583d9268a1e0eacd51b7a7cac77",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/guitar-chromatic-third-doors-20260925/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/guitar-chromatic-third-doors-20260925/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [],
+                3.0
+              ],
+              [
+                [
+                  56
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [],
+                3.0
+              ],
+              [
+                [
+                  58
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 3,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [],
+                3.0
+              ],
+              [
+                [
+                  63
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                2.0
+              ],
+              [
+                [],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "scale-advanced-wide-interval-lines-thirds",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/scale-advanced-wide-interval-lines-thirds/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "a0a92ed0278fda1c3db06a26c9c078915b249eb9b763291ec781dee8ac1779b7",
+      "proposalSHA256": "f279cb939366f82769aaf6e21b57a2052c2149375abdfdf2a751724582fffaa6",
+      "fallbackSHA256": "3d532598cde5f99fb2b7788d6d0ef4393bc9450c2c0c99362552ed9f8f11598d",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/scale-advanced-wide-interval-lines-thirds/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-wide-interval-lines/lessons/scale-advanced-wide-interval-lines-thirds/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "root": "C",
+            "scale": "Major",
+            "degrees": "1 3 2 4 3 5 4 6 5 7",
+            "tempo": "66",
+            "beat": "0.5"
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-fifth-pocket-detour",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-fifth-pocket-detour/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "c1fed8f95087bb02a9b81802090ed1c64938091828c999dcb1e6f54d36dbaf42",
+      "proposalSHA256": "69a082912d0cdcde4f05508613e40331f2ddb85ea4004580978a1466d514270f",
+      "fallbackSHA256": "47de7be3c88341dba1292e0255da33e0e12f0958a28dba8bfcb521d625fa3746",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-fifth-pocket-detour/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-fifth-pocket-detour/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 92.0,
+            "events": [
+              [
+                [
+                  31
+                ],
+                2.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [
+                  35
+                ],
+                2.0
+              ],
+              [
+                [
+                  26
+                ],
+                2.0
+              ],
+              [
+                [
+                  31
+                ],
+                2.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [
+                  35
+                ],
+                2.0
+              ],
+              [
+                [
+                  26
+                ],
+                2.0
+              ],
+              [
+                [
+                  31
+                ],
+                2.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  36
+                ],
+                2.0
+              ],
+              [
+                [
+                  35
+                ],
+                2.0
+              ],
+              [
+                [
+                  38
+                ],
+                2.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  31
+                ],
+                2.0
+              ],
+              [
+                [
+                  33
+                ],
+                2.0
+              ],
+              [
+                [
+                  38
+                ],
+                2.0
+              ],
+              [
+                [
+                  31
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-contrary-mode-lantern",
+      "path": "v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "6c028649544ba4fbd34991395efa6528bcced9267b84159a1a6a33215646d4b5",
+      "proposalSHA256": "b0af10ede0f3cc711a1e6102897b8f08f1f25caa16c1604f6ed1aa416ae40daf",
+      "fallbackSHA256": "5fb3d65196bcd7a8e8681db0e09d69a1a9c3a8a10f9797bce647c99aaba180ae",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 76.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                0.5
+              ],
+              [
+                [
+                  40
+                ],
+                0.5
+              ],
+              [
+                [
+                  41
+                ],
+                0.5
+              ],
+              [
+                [
+                  43
+                ],
+                0.5
+              ],
+              [
+                [
+                  45
+                ],
+                0.5
+              ],
+              [
+                [
+                  47
+                ],
+                0.5
+              ],
+              [
+                [
+                  45
+                ],
+                0.5
+              ],
+              [
+                [
+                  43
+                ],
+                0.5
+              ],
+              [
+                [
+                  41
+                ],
+                0.5
+              ],
+              [
+                [
+                  40
+                ],
+                0.5
+              ],
+              [
+                [
+                  38
+                ],
+                0.5
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  50
+                ],
+                0.5
+              ],
+              [
+                [
+                  52
+                ],
+                0.5
+              ],
+              [
+                [
+                  53
+                ],
+                0.5
+              ],
+              [
+                [
+                  55
+                ],
+                0.5
+              ],
+              [
+                [
+                  57
+                ],
+                0.5
+              ],
+              [
+                [
+                  59
+                ],
+                2.0
+              ],
+              [
+                [],
+                0.5
+              ],
+              [
+                [
+                  50
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-fourth-compass-drift",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/piano-fourth-compass-drift/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "a559b5835f28782c6eea18cf05605e07d4f275201f3853039b87c31c477ef10e",
+      "proposalSHA256": "f1dbd680209a2ce8173cea90c19be82ea7f799137c29bce6e42b15a1eb939e0e",
+      "fallbackSHA256": "a310147156ec500c77117ad988606fadbd5b80d817c8c4683689bc5f84cdd1a2",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/piano-fourth-compass-drift/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/intervals-in-motion/lessons/piano-fourth-compass-drift/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 80.0,
+            "events": [
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 2,
+          "eventIntent": {
+            "tempo": 80.0,
+            "events": [
+              [
+                [
+                  62,
+                  67
+                ],
+                2.0
+              ],
+              [
+                [
+                  64,
+                  69
+                ],
+                2.0
+              ],
+              [
+                [
+                  65,
+                  71
+                ],
+                2.0
+              ],
+              [
+                [
+                  67,
+                  72
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 3,
+          "eventIntent": {
+            "tempo": 80.0,
+            "events": [
+              [
+                [
+                  62,
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  64,
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  65,
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  67,
+                  72
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        },
+        {
+          "originalBlock": 4,
+          "eventIntent": {
+            "tempo": 80.0,
+            "events": [
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  62,
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  64,
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  65,
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  67,
+                  72
+                ],
+                1.0
+              ],
+              [
+                [
+                  50,
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  52,
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  53,
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  55,
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62,
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  64,
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  62,
+                  65
+                ],
+                2.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-pocket-magnet",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-pocket-magnet/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "69bf60bfa7fdb2ac4618d7b5a6c74b65ad833b2e572bcf68354dd650463597a1",
+      "proposalSHA256": "dfc198401a94f1ade041828ddcff40b0b8464141dc6d3f057843186861213c48",
+      "fallbackSHA256": "2481f7869afd7a530dd59b6fad1d1fa659eda8ab1d98e9b2024a0b0987839ed3",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-pocket-magnet/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-pocket-magnet/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 88.0,
+            "events": [
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  41
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  49
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  35
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  42
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  47
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  44
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-backbeat-detour-beacon",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-detour-beacon/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "608052af8d7094aef403ec5927ebee33aa7614e00cfd8c7ae3e5f46844e0204c",
+      "proposalSHA256": "dbedc23b8fc67f6ec010b14de909b394b85e7f908624ad2a3dfd4a465cbaa62d",
+      "fallbackSHA256": "255920a5b4acbb1b2eab5e5fb5ec7003b0765f24aa13766314d9dc8b33aae81f",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-detour-beacon/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/bass-backbeat-detour-beacon/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 92.0,
+            "events": [
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  47
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  42
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [
+                  40
+                ],
+                1.0
+              ],
+              [
+                [
+                  33
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  37
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-sixth-handoff-switch",
+      "path": "v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/piano-sixth-handoff-switch/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "b005ebb967cabe1dcf5299276d60774cdc4da56a3bb256f04c0446f9ec662ef3",
+      "proposalSHA256": "a9622f1c2530a5f9ee4aa016e273278b987a9b47c6117035c90e1e1cce150869",
+      "fallbackSHA256": "d0f0a3b44c8585f3a181b7af03fc2d5dd6add85e7bf4476eed9f502b92eae1e1",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/piano-sixth-handoff-switch/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/sections/advanced/units/target-and-resolve/lessons/piano-sixth-handoff-switch/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 70.0,
+            "events": [
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  76
+                ],
+                1.0
+              ],
+              [
+                [
+                  65
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-seventh-landing-weave",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-weave/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "9a45d7599b5d8d21b6b73a150bfbf6deb4a0df9c498411fe0488308da48dd277",
+      "proposalSHA256": "48a707485fd4184f238610fb505e1ad5c820970fc37b650006fcd74b1af8e557",
+      "fallbackSHA256": "142756eeb54ec4d7cdf6d9885c90ebebe1f47489c5a7a695ad7a0608570e1268",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-weave/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-weave/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 72.0,
+            "events": [
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  55,
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  60,
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  54,
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  59,
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ],
+              [
+                [
+                  55
+                ],
+                1.0
+              ],
+              [
+                [
+                  57
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-fifth-pocket-lock",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-lock/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "efbb8d6a032c912d2c8cfaea77ac512617190853206fe4c3012adde5714cf252",
+      "proposalSHA256": "06f584a66db1ba11585e1849b5a0f979193ffc8d60a903484534b0229b54e2af",
+      "fallbackSHA256": "c78f6b4a72348bfdfbf93e8c86d8b4794b18ecd119edb01b6fde344fe8fd2c65",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-lock/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-fifth-pocket-lock/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 84.0,
+            "events": [
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  52
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  50
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-seventh-landing-mirror",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-mirror/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "813432a18cfb29c4154b50a7662f75c4250372cf90e022be9d62e9a1f8cb446c",
+      "proposalSHA256": "858ce9ca328988c271bdf1fea6acf9182dffb05a06e8f0fd490820b83dd83605",
+      "fallbackSHA256": "8a78f46f83085b1686b6bacb1de3d564a969e72c968392541b4cfcf2cf5dc52b",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-mirror/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-seventh-landing-mirror/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 66.0,
+            "events": [
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  67
+                ],
+                1.0
+              ],
+              [
+                [
+                  59
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  60
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "bass-seventh-underlight-relay",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-seventh-underlight-relay/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "3e70b2010e90f8556ee2eef4da0208cf7b721725ac2fab1d3062fd2887fcf558",
+      "proposalSHA256": "42d67781c4e4428fa60c9bd2312bce104edfee52bc4bb64631fcc70d0e627f68",
+      "fallbackSHA256": "c834a71eb89e8fb2b56ea9d7efbd16e2553a9f3da7bade12e4a0b74d39e10dc2",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-seventh-underlight-relay/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/bass-seventh-underlight-relay/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 78.0,
+            "events": [
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [
+                  42
+                ],
+                1.0
+              ],
+              [
+                [
+                  31
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [
+                  47
+                ],
+                1.0
+              ],
+              [
+                [
+                  36
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    },
+    {
+      "id": "piano-ninth-window-switch",
+      "path": "v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md",
+      "classification": "quarantine-fallback",
+      "originalSHA256": "dab01b380e94c190872d7598d6f1f40c17bea84c16c9ea885a823c52b3f2de0d",
+      "proposalSHA256": "e03c837baf197c46597009a161e5c4f965c6cee161d231c359e6d673dda93ddf",
+      "fallbackSHA256": "e424e3de8339f757cba9495794a27595a8707289a2f5a9f31e8980f3a7a3ec46",
+      "proposalPath": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md",
+      "originalPath": "editorial/originals/legacy/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md",
+      "originalAudioProof": [
+        {
+          "originalBlock": 1,
+          "eventIntent": {
+            "tempo": 60.0,
+            "events": [
+              [
+                [
+                  45
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  72
+                ],
+                1.0
+              ],
+              [
+                [
+                  38
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ],
+              [
+                [
+                  66
+                ],
+                1.0
+              ],
+              [
+                [
+                  43
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  69
+                ],
+                1.0
+              ],
+              [
+                [
+                  71
+                ],
+                1.0
+              ],
+              [
+                [
+                  48
+                ],
+                1.0
+              ],
+              [
+                [],
+                1.0
+              ],
+              [
+                [
+                  62
+                ],
+                1.0
+              ],
+              [
+                [
+                  64
+                ],
+                1.0
+              ]
+            ]
+          },
+          "equivalent": true
+        }
+      ],
+      "fallbackKind": "original-listening-reference",
+      "physicalReview": "pending",
+      "progress": "existing completion identities retained; no instrumental evidence granted"
+    }
+  ],
+  "counts": {
+    "original-listening-reference": 58,
+    "concept-only-no-invented-audio": 17
+  }
+}

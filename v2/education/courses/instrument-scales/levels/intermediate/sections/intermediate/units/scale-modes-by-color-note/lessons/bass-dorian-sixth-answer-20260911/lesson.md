@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-modes-by-color-note
 order: 11
-revision: 1
+revision: 2
 estimatedMinutes: 6
 instrument: bass
 title.en: Bass: answer with the sixth
@@ -121,7 +121,7 @@ id: bass-dorian-sixth-answer-20260911-1
 title: A
 instrument: bass
 tempo: 60
-sequence: D2/1 F2/1 A2/1 D2/1 | A2/1 B2/1 A2/1 D2/1
+sequence: D2/1 F2/1 A2/1 D2/1 A2/1 B2/1 A2/1 D2/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: bass-dorian-sixth-answer-20260911-2
 title: B
 instrument: bass
 tempo: 60
-sequence: D2/1 F2/1 A2/1 D2/1 | A2/1 Bb2/1 A2/1 D2/1
+sequence: D2/1 F2/1 A2/1 D2/1 A2/1 Bb2/1 A2/1 D2/1
 ```

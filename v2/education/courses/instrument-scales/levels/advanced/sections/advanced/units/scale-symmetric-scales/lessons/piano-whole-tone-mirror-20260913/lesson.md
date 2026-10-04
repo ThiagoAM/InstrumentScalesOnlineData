@@ -6,7 +6,7 @@ level: advanced
 section: advanced
 unit: scale-symmetric-scales
 order: 11
-revision: 1
+revision: 2
 estimatedMinutes: 6
 instrument: piano
 title.en: Piano: the whole-tone mirror
@@ -121,5 +121,5 @@ id: piano-whole-tone-mirror-20260913-1
 title: A
 instrument: piano
 tempo: 54
-sequence: [C4 C5]/1 [D4 A#4]/1 [E4 G#4]/1 [D4 A#4]/1 [C4 C5]/1 -/1
+sequence: [C4,C5]/1 [D4,A#4]/1 [E4,G#4]/1 [D4,A#4]/1 [C4,C5]/1 -/1
 ```

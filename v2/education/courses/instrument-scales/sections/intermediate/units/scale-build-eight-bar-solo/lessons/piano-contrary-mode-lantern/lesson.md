@@ -6,109 +6,69 @@ level: intermediate
 section: intermediate
 unit: scale-build-eight-bar-solo
 order: 13
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: piano
-title.en: Piano: Light a modal color with contrary motion
-title.pt-BR: Piano: Ilumine uma cor modal em movimento contrário
-title.es: Piano: Ilumina un color modal con movimiento contrario
-title.de: Klavier: Erzeuge modale Farbe in Gegenbewegung
-title.ja: ピアノ：反進行でモードの色を灯す
-title.zh-Hans: 钢琴：用反向运动点亮调式色彩
-summary.en: Coordinate both hands in contrary motion and let the raised sixth of Dorian become the phrase’s color note.
-summary.pt-BR: Coordene as duas mãos em movimento contrário e faça a sexta maior da dórica virar a nota de cor da frase.
-summary.es: Coordina ambas manos en movimiento contrario y convierte la sexta mayor de dórica en el color de la frase.
-summary.de: Koordiniere beide Hände in Gegenbewegung und mache die große Sexte der Dorischen zur Farbnote.
-summary.ja: 両手を反進行で合わせ、ドリアンの長6度をフレーズの色音にします。
-summary.zh-Hans: 让双手反向运动，并把多利亚调式的大六度变成乐句的色彩音。
+title.en: Reference in review · Piano: Light a modal color with contrary motion
+title.pt-BR: Referência em revisão · Piano: Ilumine uma cor modal em movimento contrário
+title.es: Referencia en revisión · Piano: Ilumina un color modal con movimiento contrario
+title.de: Referenz in Prüfung · Klavier: Erzeuge modale Farbe in Gegenbewegung
+title.ja: 確認中の参照 · ピアノ：反進行でモードの色を灯す
+title.zh-Hans: 审核中的参考 · 钢琴：用反向运动点亮调式色彩
+summary.en: Original goal, physical practice under review: Coordinate both hands in contrary motion and let the raised sixth of Dorian become the phrase’s color note.
+summary.pt-BR: Objetivo original, prática física em revisão: Coordene as duas mãos em movimento contrário e faça a sexta maior da dórica virar a nota de cor da frase.
+summary.es: Objetivo original, práctica física en revisión: Coordina ambas manos en movimiento contrario y convierte la sexta mayor de dórica en el color de la frase.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Koordiniere beide Hände in Gegenbewegung und mache die große Sexte der Dorischen zur Farbnote.
+summary.ja: 元の目標（実技確認中）：両手を反進行で合わせ、ドリアンの長6度をフレーズの色音にします。
+summary.zh-Hans: 原目标（实体演奏待审）：让双手反向运动，并把多利亚调式的大六度变成乐句的色彩音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Piano: Light a modal color with contrary motion
+# Reference in review · Piano: Light a modal color with contrary motion
 
-Choose D Dorian at 76 BPM. Your one outcome is to make B sound like a deliberate color while the hands travel in opposite directions.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play the contrary-motion pattern four times and finish each answer on B before resolving to D. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Place LH on low D-A-D and RH on middle D-E-F-G-A-B. Play LH upward while RH descends, then reverse; keep the hands soft and balanced.
-
-Use two bars of contrary motion, then answer with a short RH phrase ending on B. Leave one beat of silence before returning to D.
-
-Repeat four times. First keep a metronome; then remove it and keep the same breath. If B sounds accidental, isolate D-E-F-G-A-B at 56 BPM.
-
-:::checkpoint Play the contrary-motion pattern four times and finish each answer on B before resolving to D.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Piano: Ilumine uma cor modal em movimento contrário
+# Referência em revisão · Piano: Ilumine uma cor modal em movimento contrário
 
-Escolha Ré dórica a 76 BPM. O objetivo é fazer Si soar como cor intencional enquanto as mãos caminham em direções opostas.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque o padrão de movimento contrário quatro vezes e termine cada resposta em Si antes de resolver em Ré. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Coloque a mão esquerda em Ré-Lá-Ré grave e a direita em Ré-Mi-Fá-Sol-Lá-Si médio. Suba com a esquerda enquanto a direita desce, depois inverta; mantenha equilíbrio e leveza.
-
-Use dois compassos de movimento contrário e responda com uma frase curta da direita terminando em Si. Deixe uma pulsação de silêncio antes de voltar a Ré.
-
-Repita quatro vezes. Primeiro use metrônomo; depois retire-o e mantenha a mesma respiração. Se Si soar acidental, isole Ré-Mi-Fá-Sol-Lá-Si a 56 BPM.
-
-:::checkpoint Toque o padrão de movimento contrário quatro vezes e termine cada resposta em Si antes de resolver em Ré.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Piano: Ilumina un color modal con movimiento contrario
+# Referencia en revisión · Piano: Ilumina un color modal con movimiento contrario
 
-Elige Re dórico a 76 BPM. El objetivo es que Si suene como un color intencional mientras las manos avanzan en direcciones opuestas.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca el patrón contrario cuatro veces y termina cada respuesta en Si antes de resolver en Re. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Coloca la izquierda en Re-La-Re grave y la derecha en Re-Mi-Fa-Sol-La-Si medio. Sube con la izquierda mientras la derecha baja, y luego invierte; mantén equilibrio y suavidad.
-
-Usa dos compases de movimiento contrario y responde con una frase corta de la derecha que termine en Si. Deja un pulso de silencio antes de volver a Re.
-
-Repite cuatro veces. Primero con metrónomo; después quítalo y conserva la misma respiración. Si Si parece accidental, aísla Re-Mi-Fa-Sol-La-Si a 56 BPM.
-
-:::checkpoint Toca el patrón contrario cuatro veces y termina cada respuesta en Si antes de resolver en Re.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Klavier: Erzeuge modale Farbe in Gegenbewegung
+# Referenz in Prüfung · Klavier: Erzeuge modale Farbe in Gegenbewegung
 
-Wähle D-Dorisch bei 76 BPM. Ziel ist, dass B als bewusste Farbnote klingt, während die Hände in Gegenrichtungen laufen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele das Gegenbewegungsmuster viermal und beende jede Antwort auf B, bevor du nach D auflöst. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Lege die linke Hand auf tiefes D-A-D und die rechte auf mittleres D-E-F-G-A-B. Spiele links aufwärts, während rechts abwärts läuft, dann umgekehrt; bleibe weich und ausgewogen.
-
-Spiele zwei Takte Gegenbewegung und antworte mit einer kurzen rechten Phrase, die auf B endet. Lass vor der Rückkehr nach D einen Schlag frei.
-
-Wiederhole viermal. Zuerst mit Metronom, dann ohne bei gleichem Atem. Klingt B zufällig, isoliere D-E-F-G-A-B bei 56 BPM.
-
-:::checkpoint Spiele das Gegenbewegungsmuster viermal und beende jede Antwort auf B, bevor du nach D auflöst.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ピアノ：反進行でモードの色を灯す
+# 確認中の参照 · ピアノ：反進行でモードの色を灯す
 
-76 BPMでDドリアンを選びます。両手が反対方向へ進む中で、Bを意図した色音として聴かせることが目標です。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：反進行のパターンを4回弾き、毎回Bで答えてからDへ解決する。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-左手は低いD-A-D、右手は中央のD-E-F-G-A-Bに置きます。右手を下げながら左手を上げ、次に逆にします。柔らかく均衡を保ちます。
-
-反進行を2小節行い、右手の短い答えをBで終えます。Dへ戻る前に1拍休みます。
-
-4回繰り返します。最初はメトロノーム、次は外して同じ呼吸を保ちます。Bが偶然に聴こえたらD-E-F-G-A-Bだけを56 BPMで練習します。
-
-:::checkpoint 反進行のパターンを4回弾き、毎回Bで答えてからDへ解決する。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 钢琴：用反向运动点亮调式色彩
+# 审核中的参考 · 钢琴：用反向运动点亮调式色彩
 
-选择D多利亚，速度76 BPM。目标是在双手反向行进时，让B听起来像有意选择的色彩音。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：把反向运动弹四遍，每次都先让回应落在B，再解决到D。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-左手放在低音D-A-D，右手放在中音D-E-F-G-A-B。左手上行时右手下行，然后反过来；保持轻柔均衡。
-
-做两小节反向运动，再用右手短句回应并落在B。回到D前留出一拍休止。
-
-重复四遍。先跟节拍器，再拿掉节拍器但保持相同呼吸。若B听起来像误触，降到56 BPM单练D-E-F-G-A-B。
-
-:::checkpoint 把反向运动弹四遍，每次都先让回应落在B，再解决到D。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
-
-```keyboard
-hands: LH ascending / RH descending, then reverse
-registers: LH low D-A-D; RH middle D-E-F-G-A-B
-pattern: contrary eighth notes, soft touch, one-beat rest before D resolution
-```
 
 ```notes
 id: piano-contrary-mode-lantern-pattern
@@ -116,5 +76,5 @@ title: Dorian lantern
 instrument: piano
 tempo: 76
 beat: 0.5
-sequence: D2 E2 F2 G2 A2 B2 | A2 G2 F2 E2 D2 - | D3 E3 F3 G3 A3 B3/2 | - D3/2
+sequence: D2 E2 F2 G2 A2 B2 A2 G2 F2 E2 D2 - D3 E3 F3 G3 A3 B3/2 - D3/2
 ```

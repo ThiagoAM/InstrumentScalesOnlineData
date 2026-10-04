@@ -6,126 +6,86 @@ level: intermediate
 section: intermediate
 unit: position-bridges
 order: 9
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: piano
-title.en: Piano lane cross
-title.pt-BR: Travessia de registro no piano
-title.es: Cruce de registro en el piano
-title.de: Klavier-Lagenwechsel
-title.ja: ピアノの音域クロス
-title.zh-Hans: 钢琴音区跨越
-summary.en: Carry a two-hand G-major pattern across registers while the hands stay balanced.
-summary.pt-BR: Leve um padrão de sol maior entre registros mantendo as duas mãos equilibradas.
-summary.es: Lleva un patrón en sol mayor entre registros manteniendo equilibradas ambas manos.
-summary.de: Führe ein G-Dur-Muster durch verschiedene Lagen, während beide Hände ausgeglichen bleiben.
-summary.ja: 両手のバランスを保ちながらGメジャーのパターンを音域間で運びます。
-summary.zh-Hans: 在保持双手平衡的同时，让G大调音型跨越不同音区。
+title.en: Reference in review · Piano lane cross
+title.pt-BR: Referência em revisão · Travessia de registro no piano
+title.es: Referencia en revisión · Cruce de registro en el piano
+title.de: Referenz in Prüfung · Klavier-Lagenwechsel
+title.ja: 確認中の参照 · ピアノの音域クロス
+title.zh-Hans: 审核中的参考 · 钢琴音区跨越
+summary.en: Original goal, physical practice under review: Carry a two-hand G-major pattern across registers while the hands stay balanced.
+summary.pt-BR: Objetivo original, prática física em revisão: Leve um padrão de sol maior entre registros mantendo as duas mãos equilibradas.
+summary.es: Objetivo original, práctica física en revisión: Lleva un patrón en sol mayor entre registros manteniendo equilibradas ambas manos.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Führe ein G-Dur-Muster durch verschiedene Lagen, während beide Hände ausgeglichen bleiben.
+summary.ja: 元の目標（実技確認中）：両手のバランスを保ちながらGメジャーのパターンを音域間で運びます。
+summary.zh-Hans: 原目标（实体演奏待审）：在保持双手平衡的同时，让G大调音型跨越不同音区。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Piano lane cross
+# Reference in review · Piano lane cross
 
-Set **72 bpm** and let the left hand be the anchor. Play softly enough that the register change is easy to hear, not loud enough to hide it.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars in G major with two register crossings, one led by each hand, keeping the pulse even, the hands balanced, and the final G clear.
 
-Left hand plays **G-D-G** in quarter notes while right hand answers **B-C-D** in a light two-note rhythm. Keep both hands sharing one calm pulse.
-
-Move the right-hand answer up one octave to **B-C-D** above middle C, then bring it back without stopping the left-hand anchor. Imagine the phrase crossing a bridge while the ground stays still.
-
-Now reverse the spotlight: keep the right hand gentle and let the left hand briefly travel to upper **G-D-G**. Shape the return by slightly releasing the final D, never by slowing down.
-
-Final challenge: make four bars with two crossings, one led by each hand. Listen for equal tone, a clear G landing, and a pulse that survives every lane change.
-
-:::checkpoint Play four bars in G major with two register crossings, one led by each hand, keeping the pulse even, the hands balanced, and the final G clear.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Travessia de registro no piano
+# Referência em revisão · Travessia de registro no piano
 
-Marque **72 bpm** e deixe a mão esquerda ser a âncora. Toque suave o bastante para ouvir a troca de registro, sem esconder a mudança com volume.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos em sol maior com duas trocas de registro, uma liderada por cada mão, mantendo pulso regular, mãos equilibradas e sol final claro.
 
-A mão esquerda toca **sol-ré-sol** em semínimas enquanto a direita responde **si-dó-ré** com um ritmo leve de duas notas. Mantenha as duas mãos no mesmo pulso calmo.
-
-Suba a resposta da mão direita uma oitava para **si-dó-ré** acima do dó central e volte sem interromper a âncora esquerda. Imagine a frase atravessando uma ponte enquanto o chão permanece.
-
-Agora troque o foco: mantenha a direita delicada e faça a esquerda viajar brevemente para o **sol-ré-sol** agudo. Modele o retorno soltando um pouco o ré final, nunca diminuindo o andamento.
-
-Desafio final: crie quatro compassos com duas travessias, uma liderada por cada mão. Procure timbre igual, chegada clara no sol e pulso que sobreviva a toda troca de registro.
-
-:::checkpoint Toque quatro compassos em sol maior com duas trocas de registro, uma liderada por cada mão, mantendo pulso regular, mãos equilibradas e sol final claro.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Cruce de registro en el piano
+# Referencia en revisión · Cruce de registro en el piano
 
-Pon **72 bpm** y deja que la mano izquierda sea el ancla. Toca lo bastante suave para oír el cambio de registro, sin ocultarlo con volumen.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases en sol mayor con dos cruces de registro, uno dirigido por cada mano, manteniendo pulso regular, manos equilibradas y un sol final claro.
 
-La mano izquierda toca **sol-re-sol** en negras mientras la derecha responde **si-do-re** con un ritmo ligero de dos notas. Mantén ambas manos en un pulso tranquilo.
-
-Sube la respuesta de la derecha una octava hasta **si-do-re** sobre el do central y vuelve sin detener el ancla izquierda. Imagina que la frase cruza un puente mientras el suelo permanece quieto.
-
-Ahora cambia el foco: mantén suave la derecha y deja que la izquierda viaje brevemente al **sol-re-sol** agudo. Da forma al regreso soltando un poco el re final, nunca ralentizando.
-
-Desafío final: crea cuatro compases con dos cruces, uno dirigido por cada mano. Escucha un timbre parejo, una llegada clara a sol y un pulso que sobreviva a cada cambio.
-
-:::checkpoint Toca cuatro compases en sol mayor con dos cruces de registro, uno dirigido por cada mano, manteniendo pulso regular, manos equilibradas y un sol final claro.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Klavier-Lagenwechsel
+# Referenz in Prüfung · Klavier-Lagenwechsel
 
-Stelle **72 bpm** ein und lass die linke Hand der Anker sein. Spiele so leise, dass der Lagenwechsel hörbar bleibt, aber nicht vom Klang verdeckt wird.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte in G-Dur mit zwei Lagenwechseln, je einem pro Hand, bei gleichmäßigem Puls, ausgeglichenen Händen und klarem Schluss-G.
 
-Die linke Hand spielt **G-D-G** in Vierteln, die rechte antwortet mit **H-C-D** in einem leichten Zweitonrhythmus. Beide Hände teilen denselben ruhigen Puls.
-
-Schiebe die Antwort der rechten Hand eine Oktave über das mittlere C zu **H-C-D** und kehre zurück, ohne den linken Anker zu stoppen. Stell dir eine Brücke unter gleichbleibendem Boden vor.
-
-Wechsle nun den Fokus: Halte rechts sanft und lass links kurz zum hohen **G-D-G** wandern. Forme die Rückkehr durch ein leichtes Loslassen des letzten D, niemals durch langsameres Tempo.
-
-Abschluss: Erfinde vier Takte mit zwei Lagenwechseln, je einer von einer Hand geführt. Höre auf gleichen Klang, eine klare Landung auf G und einen Puls, der jeden Wechsel überlebt.
-
-:::checkpoint Spiele vier Takte in G-Dur mit zwei Lagenwechseln, je einem pro Hand, bei gleichmäßigem Puls, ausgeglichenen Händen und klarem Schluss-G.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ピアノの音域クロス
+# 確認中の参照 · ピアノの音域クロス
 
-**72 bpm**に設定し、左手をアンカーにします。音量で変化を隠さず、音域の移動が聞こえる程度に柔らかく弾きます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：各手が1回ずつ主導する2回の音域移動を含む4小節のGメジャーを、均等な拍、両手のバランス、明確な最後のGで弾きます。
 
-左手で**G-D-G**を4分音符、右手で軽い2音リズムの**B-C-D**を返します。両手を一つの穏やかな拍にそろえます。
-
-右手の返答を中央のCより上の1オクターブへ移し、**B-C-D**を弾いてから、左手のアンカーを止めずに戻ります。地面は動かず、フレーズだけが橋を渡るイメージです。
-
-今度は役割を逆にします。右手を優しく保ち、左手を一時的に高い**G-D-G**へ移します。最後のDを少し解放して戻りを作り、テンポは遅くしません。
-
-最後の挑戦では、各手が1回ずつ主導する2回の音域移動を4小節に入れます。音色の均衡、Gへの明確な着地、移動に負けない拍を聴きます。
-
-:::checkpoint 各手が1回ずつ主導する2回の音域移動を含む4小節のGメジャーを、均等な拍、両手のバランス、明確な最後のGで弾きます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 钢琴音区跨越
+# 审核中的参考 · 钢琴音区跨越
 
-设为**72 bpm**，让左手充当锚点。弹得足够轻，让人听见换音区，但不要用音量把变化遮住。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：演奏四小节G大调，包含两次跨音区且每只手主导一次，保持节拍均匀、双手平衡，并清楚落在最后的G。
 
-左手用四分音符弹**G-D-G**，右手用轻巧的两音节奏回答**B-C-D**。让双手共享一个平静的节拍。
-
-把右手回答上移一个八度到中央C上方的**B-C-D**，然后在左手锚点不停下的情况下返回。想象地面不动，句子走过一座桥。
-
-现在交换焦点：右手保持轻柔，让左手短暂移动到高音**G-D-G**。通过略微放松最后的D塑造回程，但不要减速。
-
-最后挑战：四小节中安排两次跨音区，每只手主导一次。听辨均衡音色、清晰落到G，以及能撑过每次换区的节拍。
-
-:::checkpoint 演奏四小节G大调，包含两次跨音区且每只手主导一次，保持节拍均匀、双手平衡，并清楚落在最后的G。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```notes
-key: G major
-tempo: 72 bpm
-left hand: G-D-G | G-D-G
-right hand: B-C-D | B-C-D (one octave higher)
-return: D-C-B-G
-```
-
-```keyboard
-hands: LH anchor / RH answer
-registers: LH low G-D-G; RH middle B-C-D; RH upper B-C-D
-pattern: quarter notes in LH, light two-note answer in RH
+```quiz
+id: piano-lane-cross-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

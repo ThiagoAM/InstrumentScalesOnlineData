@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 92
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar seventh target laser
-title.pt-BR: Laser de alvo na sétima da guitarra
-title.es: Láser de objetivo de séptima en guitarra
-title.de: Gitarren-Septimen-Ziellaser
-title.ja: ギターの7度ターゲットレーザー
-title.zh-Hans: 吉他七级音目标激光
-summary.en: Aim for the seventh of each chord with a two-note pickup and a clean position choice.
-summary.pt-BR: Mire na sétima de cada acorde com uma antecipação de duas notas e uma escolha limpa de posição.
-summary.es: Apunta a la séptima de cada acorde con una anticipación de dos notas y una posición clara.
-summary.de: Ziele mit einem zweitönigen Auftakt auf die Septime jedes Akkords und wähle die Lage bewusst.
-summary.ja: 2音のピックアップと明確なポジション選びで各コードの7度を狙います。
-summary.zh-Hans: 用两个音的前奏和清晰的把位选择，瞄准每个和弦的七级音。
+title.en: Reference in review · Guitar seventh target laser
+title.pt-BR: Referência em revisão · Laser de alvo na sétima da guitarra
+title.es: Referencia en revisión · Láser de objetivo de séptima en guitarra
+title.de: Referenz in Prüfung · Gitarren-Septimen-Ziellaser
+title.ja: 確認中の参照 · ギターの7度ターゲットレーザー
+title.zh-Hans: 审核中的参考 · 吉他七级音目标激光
+summary.en: Original goal, physical practice under review: Aim for the seventh of each chord with a two-note pickup and a clean position choice.
+summary.pt-BR: Objetivo original, prática física em revisão: Mire na sétima de cada acorde com uma antecipação de duas notas e uma escolha limpa de posição.
+summary.es: Objetivo original, práctica física en revisión: Apunta a la séptima de cada acorde con una anticipación de dos notas y una posición clara.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Ziele mit einem zweitönigen Auftakt auf die Septime jedes Akkords und wähle die Lage bewusst.
+summary.ja: 元の目標（実技確認中）：2音のピックアップと明確なポジション選びで各コードの7度を狙います。
+summary.zh-Hans: 原目标（实体演奏待审）：用两个音的前奏和清晰的把位选择，瞄准每个和弦的七级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar seventh target laser
+# Reference in review · Guitar seventh target laser
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **72 bpm**. Use G major and leave beat four open so the target has a runway.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars that land on G, C, F#, and B on beat one after a clear two-note pickup. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-On the last two eighth notes of each bar, play a two-note pickup from the scale, then land on **G, C, F#, B** on beat one of the next bar.
-
-Choose one comfortable position for the first round. In round two, move the pickup up an octave while keeping the target ringing for two beats; listen for the laser-like arrival.
-
-Boss pass: play six loops, changing register every two bars. If the landing is late, speak the target, slow to **56 bpm**, and rebuild the final half-beat.
-
-:::checkpoint Play four bars that land on G, C, F#, and B on beat one after a clear two-note pickup.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Laser de alvo na sétima da guitarra
+# Referência em revisão · Laser de alvo na sétima da guitarra
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **72 bpm**. Use sol maior e deixe o quarto tempo livre para o alvo ter uma pista de chegada.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos chegando em G, C, F# e B no tempo 1 após uma antecipação clara de duas notas. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Nas duas últimas colcheias de cada compasso, toque uma antecipação de duas notas da escala e chegue em **G, C, F#, B** no tempo 1 do compasso seguinte.
-
-Escolha uma posição confortável na primeira rodada. Na segunda, suba a antecipação uma oitava, mantendo o alvo por dois tempos; ouça a chegada como um laser.
-
-Passagem chefão: faça seis loops, mudando o registro a cada dois compassos. Se chegar atrasado, fale o alvo, reduza para **56 bpm** e reconstrua o meio tempo final.
-
-:::checkpoint Toque quatro compassos chegando em G, C, F# e B no tempo 1 após uma antecipação clara de duas notas.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Láser de objetivo de séptima en guitarra
+# Referencia en revisión · Láser de objetivo de séptima en guitarra
 
-Repite **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **72 bpm**. Usa sol mayor y deja libre el cuarto pulso para que el objetivo tenga pista de aterrizaje.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases que lleguen a G, C, F# y B en el tiempo 1 después de una anticipación clara de dos notas. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-En las dos últimas corcheas de cada compás, toca una anticipación de dos notas de la escala y llega a **G, C, F#, B** en el tiempo 1 del compás siguiente.
-
-Elige una posición cómoda en la primera ronda. En la segunda, sube la anticipación una octava y mantén el objetivo dos pulsos; escucha una llegada como un láser.
-
-Pasada jefe: toca seis bucles y cambia de registro cada dos compases. Si llegas tarde, di el objetivo, baja a **56 bpm** y reconstruye el medio pulso final.
-
-:::checkpoint Toca cuatro compases que lleguen a G, C, F# y B en el tiempo 1 después de una anticipación clara de dos notas.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Septimen-Ziellaser
+# Referenz in Prüfung · Gitarren-Septimen-Ziellaser
 
-Loope **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **72 bpm**. Nutze G-Dur und lasse die Vier frei, damit das Ziel eine Landebahn bekommt.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte und lande nach einem klaren zweitönigen Auftakt auf G, C, Fis und H auf Eins. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Spiele auf den letzten zwei Achteln jedes Takts einen zweitönigen Auftakt aus der Tonleiter und lande auf **G, C, Fis, H** auf Eins des nächsten Takts.
-
-Wähle in Runde eins eine bequeme Lage. Verschiebe den Auftakt in Runde zwei eine Oktave nach oben und halte das Ziel zwei Schläge; höre die laserklare Ankunft.
-
-Boss-Durchgang: Spiele sechs Loops und wechsle alle zwei Takte das Register. Bei verspäteter Landung sprich das Ziel, gehe auf **56 bpm** und baue die letzte halbe Zählzeit neu.
-
-:::checkpoint Spiele vier Takte und lande nach einem klaren zweitönigen Auftakt auf G, C, Fis und H auf Eins.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギターの7度ターゲットレーザー
+# 確認中の参照 · ギターの7度ターゲットレーザー
 
-**72 bpm**で **| Am7 | D7 | Gmaj7 | Cmaj7 |** をループします。Gメジャーを使い、着地点のため4拍目を空けます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：明確な2音ピックアップの後、4小節でG、C、F#、Bへ1拍目に着地して弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-各小節の最後の2つの8分音符でスケールの2音ピックアップを弾き、次の小節の1拍目に **G、C、F#、B** へ着地します。
-
-1周目は弾きやすいポジションを選びます。2周目はピックアップを1オクターブ上げ、目標音を2拍伸ばします。レーザーのような到着を聴きます。
-
-ボスパスでは6ループ弾き、2小節ごとに音域を変えます。遅れたら目標音を声に出し、**56 bpm**に下げて最後の半拍を作り直します。
-
-:::checkpoint 明確な2音ピックアップの後、4小節でG、C、F#、Bへ1拍目に着地して弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他七级音目标激光
+# 审核中的参考 · 吉他七级音目标激光
 
-以**72 bpm**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。使用G大调，并让第四拍空出来，为目标音留下跑道。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：演奏四小节，在清晰的两个音前奏后，让G、C、F#、B落在第1拍。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-每小节最后两个八分音符演奏两个音的音阶前奏，并在下一小节第1拍落到 **G、C、F#、B**。
-
-第一轮选择舒适的把位。第二轮将前奏提高一个八度，并让目标音延续两拍；听清像激光般的落点。
-
-挑战轮：弹六遍，每两小节改变音区。如果落点迟了，就说出目标音，降到**56 bpm**，重新搭建最后半拍。
-
-:::checkpoint 演奏四小节，在清晰的两个音前奏后，让G、C、F#、B落在第1拍。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,14 +75,5 @@ id: guitar-seventh-target-laser-main
 title: G major seventh targets
 instrument: guitar
 tempo: 72
-sequence: A3 B3 G3 - | B3 C4 C4 - | E4 F#4 F#4 - | A3 B3 B3 -
-```
-
-```fretboard
-id: guitar-seventh-target-laser-map
-title: Seventh target positions
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-fretRange: 2-9
-positions: 4:5 G, 3:5 C, 2:7 F#, 2:9 B
+sequence: A3 B3 G3 - B3 C4 C4 - E4 F#4 F#4 - A3 B3 B3 -
 ```

@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 94
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: piano
-title.en: Piano sixth relay landing
-title.pt-BR: Troca de aterrissagem na sexta do piano
-title.es: Cambio de llegada en la sexta del piano
-title.de: Klavier-Sexten-Landungswechsel
-title.ja: ピアノの6度着地点スイッチ
-title.zh-Hans: 钢琴六级音落点切换
-summary.en: Switch hands at phrase endings while landing on the sixth of each chord with an even touch.
-summary.pt-BR: Troque as mãos no fim das frases chegando à sexta de cada acorde com toque uniforme.
-summary.es: Cambia de mano al final de las frases y aterriza en la sexta de cada acorde con toque parejo.
-summary.de: Wechsle am Phrasenende die Hand und lande mit gleichmäßigem Anschlag auf der Sexte jedes Akkords.
-summary.ja: フレーズ終わりに手を交替し、均一なタッチで各コードの6度へ着地します。
-summary.zh-Hans: 在乐句结尾交换双手，以均匀触键落到每个和弦的六级音。
+title.en: Reference in review · Piano sixth relay landing
+title.pt-BR: Referência em revisão · Troca de aterrissagem na sexta do piano
+title.es: Referencia en revisión · Cambio de llegada en la sexta del piano
+title.de: Referenz in Prüfung · Klavier-Sexten-Landungswechsel
+title.ja: 確認中の参照 · ピアノの6度着地点スイッチ
+title.zh-Hans: 审核中的参考 · 钢琴六级音落点切换
+summary.en: Original goal, physical practice under review: Switch hands at phrase endings while landing on the sixth of each chord with an even touch.
+summary.pt-BR: Objetivo original, prática física em revisão: Troque as mãos no fim das frases chegando à sexta de cada acorde com toque uniforme.
+summary.es: Objetivo original, práctica física en revisión: Cambia de mano al final de las frases y aterriza en la sexta de cada acorde con toque parejo.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Wechsle am Phrasenende die Hand und lande mit gleichmäßigem Anschlag auf der Sexte jedes Akkords.
+summary.ja: 元の目標（実技確認中）：フレーズ終わりに手を交替し、均一なタッチで各コードの6度へ着地します。
+summary.zh-Hans: 原目标（实体演奏待审）：在乐句结尾交换双手，以均匀触键落到每个和弦的六级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Piano sixth relay landing
+# Reference in review · Piano sixth relay landing
 
-Set **70 bpm** and loop **| Am7 | D7 | Gmaj7 | Cmaj7 |**. Play softly enough to hear the hand switch, with one note per beat.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars with four clean hand switches, landing evenly on F, B, E, and A without breaking the pulse. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Right hand plays **C-D-E-F** and lands on **F**; left hand answers **E-F#-G-A** and lands on **B**. Treat the landing as a warm arrival, not an accent.
-
-Round 2: reverse the hands and keep the same pulse. On every phrase ending, release the old hand before the new hand plays so the line stays clean.
-
-Boss pass: connect six loops, changing direction after every two bars. If the switch bumps, slow to **54 bpm**, practice only the final two notes, then reconnect the phrase.
-
-:::checkpoint Play four bars with four clean hand switches, landing evenly on F, B, E, and A without breaking the pulse.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Troca de aterrissagem na sexta do piano
+# Referência em revisão · Troca de aterrissagem na sexta do piano
 
-Marque **70 bpm** e faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |**. Toque suave para ouvir a troca, com uma nota por tempo.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos com quatro trocas limpas, chegando uniformemente em F, B, E e A sem quebrar a pulsação. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A mão direita toca **C-D-E-F** e chega em **F**; a esquerda responde **E-F#-G-A** e chega em **B**. Faça a chegada aquecida, sem acento.
-
-Na segunda rodada, inverta as mãos e mantenha a mesma pulsação. Em cada fim de frase, solte a mão antiga antes de a nova tocar para manter a linha limpa.
-
-Passagem chefão: conecte seis loops, mudando a direção a cada dois compassos. Se a troca esbarrar, reduza para **54 bpm**, pratique só as duas últimas notas e reconecte a frase.
-
-:::checkpoint Toque quatro compassos com quatro trocas limpas, chegando uniformemente em F, B, E e A sem quebrar a pulsação.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Cambio de llegada en la sexta del piano
+# Referencia en revisión · Cambio de llegada en la sexta del piano
 
-Pon **70 bpm** y repite **| Am7 | D7 | Gmaj7 | Cmaj7 |**. Toca suave para oír el cambio de mano, una nota por pulso.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases con cuatro cambios de mano limpios, llegando parejo a F, B, E y A sin romper el pulso. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La derecha toca **C-D-E-F** y llega a **F**; la izquierda responde **E-F#-G-A** y llega a **B**. Haz que la llegada sea cálida, no un acento.
-
-En la segunda ronda, invierte las manos y conserva el pulso. En cada final de frase, suelta la mano anterior antes de que toque la nueva para mantener la línea limpia.
-
-Pasada jefe: conecta seis bucles y cambia de dirección cada dos compases. Si el cambio tropieza, baja a **54 bpm**, practica solo las dos últimas notas y vuelve a unir la frase.
-
-:::checkpoint Toca cuatro compases con cuatro cambios de mano limpios, llegando parejo a F, B, E y A sin romper el pulso.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Klavier-Sexten-Landungswechsel
+# Referenz in Prüfung · Klavier-Sexten-Landungswechsel
 
-Stelle **70 bpm** ein und loope **| Am7 | D7 | Gmaj7 | Cmaj7 |**. Spiele leise genug, um den Handwechsel zu hören, ein Ton pro Schlag.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte mit vier sauberen Handwechseln und lande gleichmäßig auf F, H, E und A, ohne den Puls zu verlieren. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Rechts spielt **C-D-E-F** und landet auf **F**; links antwortet **E-Fis-G-A** und landet auf **H**. Die Landung soll warm, nicht betont sein.
-
-Vertausche in Runde zwei die Hände und halte den Puls. Löse an jedem Phrasenende die alte Hand, bevor die neue spielt, damit die Linie sauber bleibt.
-
-Boss-Durchgang: Verbinde sechs Loops und ändere alle zwei Takte die Richtung. Bei einem Stoß gehe auf **54 bpm**, übe nur die letzten zwei Töne und verbinde dann wieder.
-
-:::checkpoint Spiele vier Takte mit vier sauberen Handwechseln und lande gleichmäßig auf F, H, E und A, ohne den Puls zu verlieren.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ピアノの6度着地点スイッチ
+# 確認中の参照 · ピアノの6度着地点スイッチ
 
-**70 bpm**に設定し、**| Am7 | D7 | Gmaj7 | Cmaj7 |**をループします。1拍1音、手の交替が聞こえる柔らかさで弾きます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：拍を崩さず、4回のきれいな手の交替でF、B、E、Aへ均等に着地する4小節を弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-右手で **C-D-E-F** を弾き **F** に着地し、左手が **E-F#-G-A** で答えて **B** に着地します。アクセントではなく温かな到着にします。
-
-2周目は左右を入れ替え、拍を保ちます。各フレーズの終わりで新しい手が弾く前に古い手を離し、線をきれいに保ちます。
-
-ボスパスでは6ループつなぎ、2小節ごとに方向を変えます。ぶつかったら**54 bpm**に下げ、最後の2音だけ練習してからつなぎ直します。
-
-:::checkpoint 拍を崩さず、4回のきれいな手の交替でF、B、E、Aへ均等に着地する4小節を弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 钢琴六级音落点切换
+# 审核中的参考 · 钢琴六级音落点切换
 
-设为**70 bpm**，循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。每拍一个音，轻柔到能听见双手交接。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：演奏四小节，完成四次干净的双手交接，均匀落到F、B、E、A，并保持节拍不断。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-右手演奏 **C-D-E-F** 并落到 **F**；左手回答 **E-F#-G-A** 并落到 **B**。把落点弹得温暖，不要强调。
-
-第二轮交换双手并保持同一节拍。每个乐句结尾，先放开旧手，再由新手演奏，让线条保持干净。
-
-挑战轮：连接六遍循环，每两小节改变方向。如果交接碰撞，就降到**54 bpm**，只练最后两个音，再重新连接乐句。
-
-:::checkpoint 演奏四小节，完成四次干净的双手交接，均匀落到F、B、E、A，并保持节拍不断。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,15 +75,5 @@ id: piano-sixth-landing-switch-main
 title: Sixth landing hand switch
 instrument: piano
 tempo: 70
-sequence: C4 D4 E4 F4 | E4 F#4 G4 B4 | G4 A4 B4 E5 | F4 G4 A4 A4
-```
-
-```keyboard
-id: piano-sixth-landing-switch-map
-title: Even handoff map
-instrument: piano
-tempo: 70
-hands: RH then LH, reverse on round two
-registers: middle C to high A
-pattern: quarter notes, release before handoff
+sequence: C4 D4 E4 F4 E4 F#4 G4 B4 G4 A4 B4 E5 F4 G4 A4 A4
 ```

@@ -3,6 +3,7 @@
 "use strict";
 
 const fs = require("node:fs");
+require('./education-format-policy').assertSeedWorkspace(require('node:path').join(__dirname,'..'));
 const path = require("node:path");
 
 require("./education-format-policy").assertCurrentEducationOnly(path.join(__dirname, ".."));

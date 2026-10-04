@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 74
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar Dorian target ladder
-title.pt-BR: Escada de alvos dóricos na guitarra
-title.es: Escalera de objetivos dóricos en guitarra
-title.de: Gitarren-Dorisch-Zielleiter
-title.ja: ギター・ドリアン・ターゲット・ラダー
-title.zh-Hans: 吉他多利亚目标阶梯
-summary.en: Climb three Dorian targets through one position, pause before each landing, and make the mode sound intentional.
-summary.pt-BR: Suba por três alvos dóricos em uma posição, faça uma pausa antes de cada chegada e torne o modo intencional.
-summary.es: Sube por tres objetivos dóricos en una posición, pausa antes de cada llegada y haz que el modo suene intencional.
-summary.de: Steige in einer Lage durch drei dorische Zieltöne, pausiere vor jeder Landung und gestalte den Modus bewusst.
-summary.ja: 1つのポジションで3つのドリアンの目標音へ上がり、着地前に間を置いてモード感を意識します。
-summary.zh-Hans: 在一个把位中攀登三个多利亚目标，落点前留白，让调式色彩更明确。
+title.en: Reference in review · Guitar Dorian target ladder
+title.pt-BR: Referência em revisão · Escada de alvos dóricos na guitarra
+title.es: Referencia en revisión · Escalera de objetivos dóricos en guitarra
+title.de: Referenz in Prüfung · Gitarren-Dorisch-Zielleiter
+title.ja: 確認中の参照 · ギター・ドリアン・ターゲット・ラダー
+title.zh-Hans: 审核中的参考 · 吉他多利亚目标阶梯
+summary.en: Original goal, physical practice under review: Climb three Dorian targets through one position, pause before each landing, and make the mode sound intentional.
+summary.pt-BR: Objetivo original, prática física em revisão: Suba por três alvos dóricos em uma posição, faça uma pausa antes de cada chegada e torne o modo intencional.
+summary.es: Objetivo original, práctica física en revisión: Sube por tres objetivos dóricos en una posición, pausa antes de cada llegada y haz que el modo suene intencional.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Steige in einer Lage durch drei dorische Zieltöne, pausiere vor jeder Landung und gestalte den Modus bewusst.
+summary.ja: 元の目標（実技確認中）：1つのポジションで3つのドリアンの目標音へ上がり、着地前に間を置いてモード感を意識します。
+summary.zh-Hans: 原目标（实体演奏待审）：在一个把位中攀登三个多利亚目标，落点前留白，让调式色彩更明确。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar Dorian target ladder
+# Reference in review · Guitar Dorian target ladder
 
-Loop **D minor** at **78 bpm** around the **5th position**. Your ladder targets are **D, F, and B**: root, minor third, and bright sixth.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars that clearly land on D, F, and B in Dorian, with one clean position shift and an even pulse. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1: play four eighth notes, stop for one beat, then land on the next target. Hear the target in your head during the pause; the silence is part of the phrase.
-
-Round 2: climb D-F-B, then descend B-F-D. Change only the rhythm on the second pass by starting on the and of 1. Keep the target louder than the connecting notes.
-
-Boss run: improvise four bars with one target per bar, shift once to the 7th position, and return to D on beat 1. If the mode loses its color, slow to 60 bpm and sing each target first.
-
-:::checkpoint Play four bars that clearly land on D, F, and B in Dorian, with one clean position shift and an even pulse.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Escada de alvos dóricos na guitarra
+# Referência em revisão · Escada de alvos dóricos na guitarra
 
-Faça um loop em **Ré menor** a **78 bpm** perto da **5ª posição**. Seus alvos são **D, F e B**: tônica, terça menor e sexta brilhante.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos chegando claramente em D, F e B dórico, com uma troca de posição limpa e pulso uniforme. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Rodada 1: toque quatro colcheias, pare por um tempo e então caia no próximo alvo. Ouça o alvo na cabeça durante a pausa; o silêncio faz parte da frase.
-
-Rodada 2: suba D-F-B e depois desça B-F-D. Mude apenas o ritmo na segunda passagem, começando no e do tempo 1. Deixe o alvo mais forte que as notas de ligação.
-
-Rodada chefão: improvise quatro compassos com um alvo por compasso, mude uma vez para a 7ª posição e volte a D no tempo 1. Se a cor do modo sumir, reduza para 60 bpm e cante cada alvo antes.
-
-:::checkpoint Toque quatro compassos chegando claramente em D, F e B dórico, com uma troca de posição limpa e pulso uniforme.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Escalera de objetivos dóricos en guitarra
+# Referencia en revisión · Escalera de objetivos dóricos en guitarra
 
-Pon en loop **Re menor** a **78 bpm** cerca de la **5.ª posición**. Tus objetivos son **D, F y B**: raíz, tercera menor y sexta brillante.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases que aterricen claramente en D, F y B dóricos, con un cambio de posición limpio y pulso parejo. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Ronda 1: toca cuatro corcheas, detente un tiempo y luego aterriza en el siguiente objetivo. Escúchalo en tu mente durante la pausa; el silencio es parte de la frase.
-
-Ronda 2: sube D-F-B y después baja B-F-D. Cambia solo el ritmo en la segunda vuelta, empezando en el y de 1. Haz que el objetivo suene más fuerte que las notas de enlace.
-
-Ronda jefe: improvisa cuatro compases con un objetivo por compás, cambia una vez a la 7.ª posición y vuelve a D en el tiempo 1. Si el color modal desaparece, baja a 60 bpm y canta cada objetivo antes.
-
-:::checkpoint Toca cuatro compases que aterricen claramente en D, F y B dóricos, con un cambio de posición limpio y pulso parejo.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Dorisch-Zielleiter
+# Referenz in Prüfung · Gitarren-Dorisch-Zielleiter
 
-Loope **d-Moll** bei **78 bpm** um die **5. Lage**. Deine Zielstufen sind **D, F und B**: Grundton, kleine Terz und helle Sexte.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte mit klaren Landungen auf D, F und B dorisch, einem sauberen Lagenwechsel und gleichmäßigem Puls. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1: Spiele vier Achtel, halte einen Schlag an und lande dann auf dem nächsten Zielton. Höre ihn während der Pause innerlich; die Stille gehört zur Phrase.
-
-Runde 2: Steige D-F-B auf und B-F-D ab. Ändere beim zweiten Durchgang nur den Rhythmus und beginne auf dem Und von 1. Die Zieltöne bleiben lauter als die Verbindungstöne.
-
-Boss-Lauf: Improvisiere vier Takte mit einem Zielton pro Takt, wechsle einmal in die 7. Lage und kehre auf Schlag 1 zu D zurück. Wenn die modale Farbe verschwindet, gehe auf 60 bpm und singe jeden Zielton zuerst.
-
-:::checkpoint Spiele vier Takte mit klaren Landungen auf D, F und B dorisch, einem sauberen Lagenwechsel und gleichmäßigem Puls.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・ドリアン・ターゲット・ラダー
+# 確認中の参照 · ギター・ドリアン・ターゲット・ラダー
 
-**78 bpm**、**5ポジション**付近で**Dマイナー**をループします。目標音は **D、F、B**。ルート、短3度、明るい6度です。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：DドリアンのD、F、Bへ明確に着地する4小節を、1度のきれいな移動と均一な拍で弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1では8分音符を4つ弾き、1拍休んでから次の目標音へ着地します。休みの間も頭の中で目標音を聴きます。休符もフレーズの一部です。
-
-ラウンド2ではD-F-Bと上行し、B-F-Dと下降します。2回目だけリズムを変え、1拍目の裏から始めます。つなぎの音より目標音を強くします。
-
-ボスランでは1小節に1つの目標音で4小節即興し、7ポジションへ1度移動して1拍目のDへ戻ります。色が薄れたら60 bpmに落とし、先に各目標音を歌います。
-
-:::checkpoint DドリアンのD、F、Bへ明確に着地する4小節を、1度のきれいな移動と均一な拍で弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他多利亚目标阶梯
+# 审核中的参考 · 吉他多利亚目标阶梯
 
-把**D小调**设为**78 bpm**循环，在**第5把位**附近演奏。目标是**D、F、B**：根音、小三度和明亮的六度。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹四小节，清楚落在多利亚的D、F、B上，完成一次干净换位并保持拍子均匀。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮：弹四个八分音符，停一拍，再落到下一个目标。停顿时在脑中听见目标音；留白也是乐句的一部分。
-
-第2轮：上行D-F-B，再下行B-F-D。第二遍只改变节奏，从第1拍后半拍开始。让目标音比连接音更突出。
-
-挑战轮：即兴四小节，每小节一个目标，换到第7把位一次，再在第1拍回到D。如果调式色彩变淡，就降到60 bpm，先唱出每个目标音。
-
-:::checkpoint 弹四小节，清楚落在多利亚的D、F、B上，完成一次干净换位并保持拍子均匀。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -110,14 +76,4 @@ title: Dorian target ladder
 instrument: guitar
 tempo: 78
 sequence: D3 E3 F3 - B3 A3 F3 - D3 F3 B3 - A3 F3 D3
-```
-
-```fretboard
-id: guitar-dorian-target-ladder-map
-title: Two-position ladder
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 5-9
-tempo: 78
-positions: 5:5 4:7 3:7 2:7 2:10 3:7 4:9 5:7
 ```

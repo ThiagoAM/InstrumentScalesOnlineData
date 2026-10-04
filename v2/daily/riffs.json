@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "revision": 2,
+  "revision": 3,
   "riffs": [
     {
       "date": "2026-07-27",
@@ -24,7 +24,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-1\ntitle: Tonic Echo\nroot: C\nscale: Major\ntempo: 64\ndegrees: 1 2 3 5 - 4 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-07-27",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-07-28",
@@ -48,7 +62,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-2\ntitle: Second-Step Answer\nroot: G\nscale: Major\ntempo: 68\ndegrees: 1 2 1 3 - 2 7 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-07-28",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-07-29",
@@ -72,7 +100,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-3\ntitle: Thirds in Balance\nroot: D\nscale: Major\ntempo: 72\ndegrees: 1 3 2 4 - 3 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-07-29",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-07-30",
@@ -96,7 +138,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-4\ntitle: Fourth-Leap Return\nroot: A\nscale: Major\ntempo: 76\ndegrees: 1 4 3 2 - 5 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-07-30",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-07-31",
@@ -120,7 +176,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-5\ntitle: Fifth-Floor Landing\nroot: E\nscale: Major\ntempo: 80\ndegrees: 1 5 4 3 - 2 7 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-07-31",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-01",
@@ -144,7 +214,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-6\ntitle: Sixth-Color Curve\nroot: F\nscale: Natural Minor\ntempo: 84\ndegrees: 1 6 5 3 - 4 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-01",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-02",
@@ -168,7 +252,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-7\ntitle: Seventh-Tone Tease\nroot: Bb\nscale: Major\ntempo: 88\ndegrees: 1 7 6 5 - 2 7 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-02",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-03",
@@ -192,7 +290,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-8\ntitle: Octave Doorway\nroot: C\nscale: Major\ntempo: 92\ndegrees: 1 8 7 5 - 3 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-03",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-04",
@@ -216,7 +328,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-9\ntitle: Descending Ladder\nroot: G\nscale: Major\ntempo: 64\ndegrees: 8 7 6 5 - 4 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-04",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-05",
@@ -240,7 +366,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-10\ntitle: Neighbor Turn\nroot: D\nscale: Major\ntempo: 68\ndegrees: 1 2 1 7 - 1 3 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-05",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-06",
@@ -264,7 +404,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-11\ntitle: Minor Shadow\nroot: A\nscale: Natural Minor\ntempo: 72\ndegrees: 1 b3 4 5 - b7 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-06",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-07",
@@ -288,7 +442,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-12\ntitle: Major Sunrise\nroot: E\nscale: Major\ntempo: 76\ndegrees: 1 3 5 6 - 5 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-07",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-08",
@@ -312,7 +480,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-13\ntitle: Dorian Lift\nroot: F\nscale: Dorian\ntempo: 80\ndegrees: 1 2 b3 6 - 5 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-08",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-09",
@@ -336,7 +518,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-14\ntitle: Pentatonic Skip\nroot: Bb\nscale: Pentatonic Major\ntempo: 84\ndegrees: 1 3 5 2 - 6 5 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-09",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-10",
@@ -360,7 +556,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-15\ntitle: Rested Climb\nroot: C\nscale: Major\ntempo: 88\ndegrees: 1 - 2 3 - 5 4 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-10",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-11",
@@ -384,7 +594,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-16\ntitle: Backbeat Reply\nroot: G\nscale: Pentatonic Minor\ntempo: 92\ndegrees: 1 3 - 2 5 - 4 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-11",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-12",
@@ -408,7 +632,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-17\ntitle: Three-Note Cell\nroot: D\nscale: Major\ntempo: 64\ndegrees: 1 2 3 2 - 5 4 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-12",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-13",
@@ -432,7 +670,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-18\ntitle: Wide Arc\nroot: A\nscale: Major\ntempo: 68\ndegrees: 1 5 2 6 - 4 3 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-13",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-14",
@@ -456,7 +708,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-19\ntitle: Low-High Call\nroot: E\nscale: Major\ntempo: 72\ndegrees: 1 5 8 6 - 3 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-14",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-15",
@@ -480,7 +746,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-20\ntitle: Syncopated Home\nroot: F\nscale: Major\ntempo: 76\ndegrees: - 1 3 - 5 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-15",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-16",
@@ -504,7 +784,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-21\ntitle: Broken Triangle\nroot: Bb\nscale: Major\ntempo: 80\ndegrees: 1 3 5 3 - 6 4 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-16",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-17",
@@ -528,7 +822,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-22\ntitle: Upper Neighbor\nroot: C\nscale: Natural Minor\ntempo: 84\ndegrees: 5 6 5 3 - 2 7 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-17",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-18",
@@ -552,7 +860,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-23\ntitle: Double Return\nroot: G\nscale: Major\ntempo: 88\ndegrees: 1 2 1 2 - 5 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-18",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-19",
@@ -576,7 +898,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-24\ntitle: Question Mark\nroot: D\nscale: Major\ntempo: 92\ndegrees: 1 4 6 5 - 3 7 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-19",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-20",
@@ -600,7 +936,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-25\ntitle: Answer Phrase\nroot: A\nscale: Major\ntempo: 64\ndegrees: 5 4 3 2 - 7 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-20",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-21",
@@ -624,7 +974,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-26\ntitle: Modal Hinge\nroot: E\nscale: Major\ntempo: 68\ndegrees: 1 2 b3 5 - 6 4 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-21",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-22",
@@ -648,7 +1012,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-27\ntitle: Bluesy Corner\nroot: F\nscale: Natural Minor\ntempo: 72\ndegrees: 1 b3 4 b5 - 5 b7 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-22",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-23",
@@ -672,7 +1050,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-28\ntitle: Delayed Tonic\nroot: Bb\nscale: Major\ntempo: 76\ndegrees: 1 3 5 - 6 2 - 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-23",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-24",
@@ -696,7 +1088,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-29\ntitle: Rolling Descent\nroot: C\nscale: Dorian\ntempo: 80\ndegrees: 6 5 4 3 - 2 1 7"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-24",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-25",
@@ -720,7 +1126,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-30\ntitle: Two-Rest Relay\nroot: G\nscale: Pentatonic Major\ntempo: 84\ndegrees: 1 - 3 4 - 6 5 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-25",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-26",
@@ -744,7 +1164,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-31\ntitle: Peak and Settle\nroot: D\nscale: Major\ntempo: 88\ndegrees: 1 3 6 8 - 7 5 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-26",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-27",
@@ -768,7 +1202,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-32\ntitle: Offbeat Launch\nroot: A\nscale: Pentatonic Minor\ntempo: 92\ndegrees: - 3 5 6 - 4 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-27",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-28",
@@ -792,7 +1240,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-33\ntitle: Pedal Point\nroot: E\nscale: Major\ntempo: 64\ndegrees: 1 1 5 1 - 4 2 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-28",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-29",
@@ -816,7 +1278,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-34\ntitle: Spiral Home\nroot: F\nscale: Major\ntempo: 68\ndegrees: 1 2 4 6 - 5 3 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-29",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     },
     {
       "date": "2026-08-30",
@@ -840,7 +1316,21 @@
       "fence": {
         "type": "scale",
         "source": "id: riff-35\ntitle: Final Cadence\nroot: Bb\nscale: Major\ntempo: 72\ndegrees: 5 4 2 7 - 2 1 1"
-      }
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "originalDate": "2026-08-30",
+      "validUntil": "2026-11-02",
+      "rotationApproved": true,
+      "source": "published-legacy-stock"
     }
   ]
 }

@@ -6,122 +6,86 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 101
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar Ninth-Color Compass
-title.pt-BR: Bússola da nona colorida na guitarra
-title.es: Brújula del color de novena en guitarra
-title.de: Gitarren-Kompass für die None
-title.ja: ギター：9度カラー・コンパス
-title.zh-Hans: 吉他：九级音色彩罗盘
-summary.en: Use the ninth of each changing chord as a bright compass while shifting a compact guitar cell.
-summary.pt-BR: Use a nona de cada acorde em mudança como uma bússola brilhante ao deslocar uma célula compacta na guitarra.
-summary.es: Usa la novena de cada acorde cambiante como una brújula brillante al desplazar una célula compacta en la guitarra.
-summary.de: Nutze die None jedes wechselnden Akkords als hellen Kompass, während du eine kompakte Gitarrenzelle verschiebst.
-summary.ja: 短いギター・セルを移動しながら、各コードの9度を明るいコンパスとして使います。
-summary.zh-Hans: 移动紧凑的吉他单元时，把每个变化和弦的九级音当作明亮罗盘。
+title.en: Reference in review · Guitar Ninth-Color Compass
+title.pt-BR: Referência em revisão · Bússola da nona colorida na guitarra
+title.es: Referencia en revisión · Brújula del color de novena en guitarra
+title.de: Referenz in Prüfung · Gitarren-Kompass für die None
+title.ja: 確認中の参照 · ギター：9度カラー・コンパス
+title.zh-Hans: 审核中的参考 · 吉他：九级音色彩罗盘
+summary.en: Original goal, physical practice under review: Use the ninth of each changing chord as a bright compass while shifting a compact guitar cell.
+summary.pt-BR: Objetivo original, prática física em revisão: Use a nona de cada acorde em mudança como uma bússola brilhante ao deslocar uma célula compacta na guitarra.
+summary.es: Objetivo original, práctica física en revisión: Usa la novena de cada acorde cambiante como una brújula brillante al desplazar una célula compacta en la guitarra.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Nutze die None jedes wechselnden Akkords als hellen Kompass, während du eine kompakte Gitarrenzelle verschiebst.
+summary.ja: 元の目標（実技確認中）：短いギター・セルを移動しながら、各コードの9度を明るいコンパスとして使います。
+summary.zh-Hans: 原目标（实体演奏待审）：移动紧凑的吉他单元时，把每个变化和弦的九级音当作明亮罗盘。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar Ninth-Color Compass
+# Reference in review · Guitar Ninth-Color Compass
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **72 BPM**. The ninth is the second scale degree above the root: B, E, A, then D.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play six loops with B, E, A, and D arriving as the ninth on each chord change while the three-note cells stay even.
 
-On Am7 play **B3–D4–C4**; on D7 play **E4–F#4–E4**. Keep the middle note short and let the first note announce the ninth.
-
-Answer Gmaj7 with **A4–B4–A4** and Cmaj7 with **D4–E4–D4**. Say the chord name and its ninth before each new bar.
-
-Boss round: enter on the and of beat one, keep the same three-note shape, and complete six loops without losing the chord changes. Drop to 56 BPM if the route blurs.
-
-If a shift feels uncertain, stop on the ninth, name its scale degree, and repeat only that bar twice before returning to the full loop.
-
-:::checkpoint Play six loops with B, E, A, and D arriving as the ninth on each chord change while the three-note cells stay even.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Bússola da nona colorida na guitarra
+# Referência em revisão · Bússola da nona colorida na guitarra
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **72 BPM**. A nona é o segundo grau acima da tônica: B, E, A e depois D.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque seis loops com B, E, A e D chegando como nona em cada troca de acorde, enquanto as células de três notas permanecem regulares.
 
-No Am7 toque **B3–D4–C4**; no D7 toque **E4–F#4–E4**. Mantenha a nota do meio curta e deixe a primeira anunciar a nona.
-
-Responda ao Gmaj7 com **A4–B4–A4** e ao Cmaj7 com **D4–E4–D4**. Diga o nome do acorde e sua nona antes de cada compasso novo.
-
-Rodada chefão: entre no contratempo do primeiro tempo, mantenha o mesmo desenho de três notas e complete seis loops sem perder as trocas. Se o caminho borrar, reduza para 56 BPM.
-
-Se uma mudança ficar insegura, pare na nona, diga seu grau e repita apenas esse compasso duas vezes antes de voltar ao loop completo.
-
-:::checkpoint Toque seis loops com B, E, A e D chegando como nona em cada troca de acorde, enquanto as células de três notas permanecem regulares.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Brújula del color de novena en guitarra
+# Referencia en revisión · Brújula del color de novena en guitarra
 
-Haz un bucle de **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **72 BPM**. La novena es el segundo grado sobre la raíz: B, E, A y después D.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca seis bucles con B, E, A y D llegando como novena en cada cambio de acorde mientras las células de tres notas siguen parejas.
 
-Sobre Am7 toca **B3–D4–C4**; sobre D7 toca **E4–F#4–E4**. Mantén breve la nota central y deja que la primera anuncie la novena.
-
-Responde a Gmaj7 con **A4–B4–A4** y a Cmaj7 con **D4–E4–D4**. Di el nombre del acorde y su novena antes de cada compás nuevo.
-
-Ronda jefe: entra en el contratiempo del primer pulso, conserva la misma figura de tres notas y completa seis bucles sin perder los cambios. Si se borra la ruta, baja a 56 BPM.
-
-Si un cambio se siente inseguro, detente en la novena, di su grado y repite solo ese compás dos veces antes de volver al bucle completo.
-
-:::checkpoint Toca seis bucles con B, E, A y D llegando como novena en cada cambio de acorde mientras las células de tres notas siguen parejas.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Kompass für die None
+# Referenz in Prüfung · Gitarren-Kompass für die None
 
-Schleife **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **72 BPM**. Die None liegt als zweiter Ton über dem Grundton: H, E, A und dann D.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele sechs Schleifen; H, E, A und D müssen bei jedem Akkordwechsel als None ankommen, während die Dreitonzellen gleichmäßig bleiben.
 
-Spiele bei Am7 **H3–D4–C4**, bei D7 **E4–F#4–E4**. Halte den mittleren Ton kurz und lass der erste die None ankündigen.
-
-Antworte bei Gmaj7 mit **A4–H4–A4** und bei Cmaj7 mit **D4–E4–D4**. Nenne vor jedem neuen Takt den Akkord und seine None.
-
-Boss-Runde: Setze auf der Und von Schlag eins ein, behalte dieselbe Dreitonform und spiele sechs Schleifen ohne die Akkordwechsel zu verlieren. Bei Unschärfe auf 56 BPM gehen.
-
-Wenn ein Wechsel unsicher bleibt, halte bei der None an, nenne ihren Grad und wiederhole nur diesen Takt zweimal, bevor du zur ganzen Schleife zurückkehrst.
-
-:::checkpoint Spiele sechs Schleifen; H, E, A und D müssen bei jedem Akkordwechsel als None ankommen, während die Dreitonzellen gleichmäßig bleiben.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター：9度カラー・コンパス
+# 確認中の参照 · ギター：9度カラー・コンパス
 
-**| Am7 | D7 | Gmaj7 | Cmaj7 |** を**72 BPM**でループします。9度はルートの上の2度で、B、E、A、そしてDです。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：6ループ弾き、コードチェンジごとにB、E、A、Dを9度として着地し、3音セルを均等に保ちます。
 
-Am7では **B3–D4–C4**、D7では **E4–F#4–E4** を弾きます。中央の音を短くし、最初の音で9度を示します。
-
-Gmaj7には **A4–B4–A4**、Cmaj7には **D4–E4–D4** で答えます。新しい小節ごとにコード名と9度を言ってから弾きます。
-
-ボスラウンドでは1拍目の裏から入り、同じ3音形を保って、コードチェンジを失わず6ループ弾きます。道筋がぼやけたら56 BPMへ下げます。
-
-移動が不安定なら9度で止まり、その音の度数を言って、その小節だけを2回繰り返してから全体へ戻ります。
-
-:::checkpoint 6ループ弾き、コードチェンジごとにB、E、A、Dを9度として着地し、3音セルを均等に保ちます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他：九级音色彩罗盘
+# 审核中的参考 · 吉他：九级音色彩罗盘
 
-以**72 BPM**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。九级音是根音上方的第二级：B、E、A，然后是D。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹六遍循环，让B、E、A、D在每次和弦变化处作为九级音落地，同时保持三音单元均匀。
 
-在Am7上弹 **B3–D4–C4**，在D7上弹 **E4–F#4–E4**。中间音要短，让第一个音先亮出九级音。
-
-在Gmaj7上用 **A4–B4–A4** 回答，在Cmaj7上用 **D4–E4–D4** 回答。每个新小节前先说出和弦名及其九级音。
-
-挑战轮：从第1拍后半进入，保持同一个三音单元，完成六遍循环且不丢失和弦变化。路线模糊时降到56 BPM。
-
-若某次移位不稳，就停在九级音上，说出它的级数，只重复该小节两遍，再回到完整循环。
-
-:::checkpoint 弹六遍循环，让B、E、A、D在每次和弦变化处作为九级音落地，同时保持三音单元均匀。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```fretboard
-id: guitar-ninth-color-compass-map
-title: Ninth color route
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 0-12
-tempo: 72
-positions: 2:0 B, 2:3 D, 2:1 C, 1:0 E, 1:2 F#, 1:5 A, 1:7 B, 2:3 D, 2:5 E
+```quiz
+id: guitar-ninth-color-compass-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

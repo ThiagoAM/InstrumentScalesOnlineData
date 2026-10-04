@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "reviewedAt": "2026-10-04T01:53:53.377957+00:00",
+  "status": "editorial-rotation-approved",
+  "reviewer": "Implementation coordinator: editorial rotation decision based on preserved published sources",
+  "reviewEvidence": "Coordinator instruction in this implementation thread; source equivalence is documented by baselineCommit and unchanged semantic hashes below. Opus did not approve rotation.",
+  "scope": "Rotation of previously published stock with byte-equivalent IDs, dates, titles, blurbs and fences; finite validity is explicit. This is an editorial rotation approval, not an instrument playthrough or approval of a new physical recipe. No owner signature is claimed. The coordinator decision is editorial and does not replace human playthrough.",
+  "humanPlaythrough": "not-claimed",
+  "baselineCommit": "448975f",
+  "lessons": [
+    {
+      "id": "2026-07-27-tonic-echo",
+      "originalDate": "2026-07-27",
+      "publishedContentSHA256": "51a834979a8218cc69295b0d7a21da2ec0cda15428d10eb0692be3cf04766c06",
+      "unchanged": true
+    },
+    {
+      "id": "2026-07-28-second-step-answer",
+      "originalDate": "2026-07-28",
+      "publishedContentSHA256": "e4fefe49bfaefd61fbe22138dff5b1a7f5c7be8473c7cf27c989a610d84a75a4",
+      "unchanged": true
+    },
+    {
+      "id": "2026-07-29-thirds-in-balance",
+      "originalDate": "2026-07-29",
+      "publishedContentSHA256": "198ad9de34f421fdabc5c0db909f80bebcdd23031362f2bd36776e20805c4526",
+      "unchanged": true
+    },
+    {
+      "id": "2026-07-30-fourth-leap-return",
+      "originalDate": "2026-07-30",
+      "publishedContentSHA256": "b80505a5939bdab0e86187e41758fe664f77bbf8f47e2d5ab6640c6eadbc30b0",
+      "unchanged": true
+    },
+    {
+      "id": "2026-07-31-fifth-floor-landing",
+      "originalDate": "2026-07-31",
+      "publishedContentSHA256": "6751265f21d56027fa6efbefd7d2316f2696c2dc6b4f4b083408435e36ac1c6c",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-01-sixth-color-curve",
+      "originalDate": "2026-08-01",
+      "publishedContentSHA256": "0a33177d44914583ed0a70cf945e6de36abca935aa1a1c0cb8ca8b71d3608417",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-02-seventh-tone-tease",
+      "originalDate": "2026-08-02",
+      "publishedContentSHA256": "2add5409e6b484d66c5ea59eca87d0da6f4828beea79ecbaa51a5f4f236a4fec",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-03-octave-doorway",
+      "originalDate": "2026-08-03",
+      "publishedContentSHA256": "f28c4bee7e526fe3ec54c3b2e996fa619b29ad17a892d1f15aa050ab04e37a77",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-04-descending-ladder",
+      "originalDate": "2026-08-04",
+      "publishedContentSHA256": "67ff9ed7d72edf03a07344d8d3e60d0c4ac6d6e067423dcc60141e284d2f0b2e",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-05-neighbor-turn",
+      "originalDate": "2026-08-05",
+      "publishedContentSHA256": "048f19cc9e19cc78227192bddcfa050cb3ba7e8b6ed9ffaa20b73ef0ef2fc1fb",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-06-minor-shadow",
+      "originalDate": "2026-08-06",
+      "publishedContentSHA256": "24a154aeebb5e8c08bbf909ad88d63275c7ac8f9721207a370bda4818f8257a5",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-07-major-sunrise",
+      "originalDate": "2026-08-07",
+      "publishedContentSHA256": "2f631ff98327ff9f255382daead8248dedb17bcad81d7eb6a5ea8490e83aebae",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-08-dorian-lift",
+      "originalDate": "2026-08-08",
+      "publishedContentSHA256": "7b0f7ce4340ad7f2ada02f0879ec96291e5b9c070401d66de7acaa97cc3ea305",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-09-pentatonic-skip",
+      "originalDate": "2026-08-09",
+      "publishedContentSHA256": "f8deb3e4b106193f49ee930f49b3267de6eb88893ebf5c96dfa4384af0c8babd",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-10-rested-climb",
+      "originalDate": "2026-08-10",
+      "publishedContentSHA256": "f537279915b53096aa173703ec158c6b12a503c64754c65db779efeebdcdf7c8",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-11-backbeat-reply",
+      "originalDate": "2026-08-11",
+      "publishedContentSHA256": "bd8c3a3fa450020e86c42f3970c72dd980069ca6bb0dbf7e05aa41765b8673db",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-12-three-note-cell",
+      "originalDate": "2026-08-12",
+      "publishedContentSHA256": "e04ccc7d965ad1a9ab486a3aa43c33784eb51922d65eb94b9afdb4245f2ba113",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-13-wide-arc",
+      "originalDate": "2026-08-13",
+      "publishedContentSHA256": "cb5883955d5db958b8ac4bfc49ac8039e4645e2cf4d37fd088adc5ac23b65f05",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-14-low-high-call",
+      "originalDate": "2026-08-14",
+      "publishedContentSHA256": "71c56a8fa2daa6988a4f15b1eae5980b295eeffe186a94236a9a8f667ac3f001",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-15-syncopated-home",
+      "originalDate": "2026-08-15",
+      "publishedContentSHA256": "810384d53e46004debe1be0955d53a07bd8422f5d97425dcac232c831260674c",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-16-broken-triangle",
+      "originalDate": "2026-08-16",
+      "publishedContentSHA256": "2abed9b85b8cf56d9066c22f4f6bee485f4a61a853aa3524a227ee4a45945260",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-17-upper-neighbor",
+      "originalDate": "2026-08-17",
+      "publishedContentSHA256": "909a19298b6f7a53912d52daaa7f410b840fbbf6591078ffc86383917c0a165f",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-18-double-return",
+      "originalDate": "2026-08-18",
+      "publishedContentSHA256": "671a9f832cd34d96b660ef05c7e4fba751182d158bb2ec46b2aad2c2f29762f5",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-19-question-mark",
+      "originalDate": "2026-08-19",
+      "publishedContentSHA256": "85b22cd357e47129f93baadc6f0105c03cc43626fc270a53e7d2576c6f49bf3c",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-20-answer-phrase",
+      "originalDate": "2026-08-20",
+      "publishedContentSHA256": "1772dc67c8d68b21ebd3a56bb468c8c815f4d979a27dfbb15e466337f40742e3",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-21-modal-hinge",
+      "originalDate": "2026-08-21",
+      "publishedContentSHA256": "629f041a30c78b7d4a04f3607a6d3070dd24378f94926fb6b6a29d513989c8f7",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-22-bluesy-corner",
+      "originalDate": "2026-08-22",
+      "publishedContentSHA256": "5c5274d432003347eebbd08310d9975ca896b30c38f644b0108a9b2dc14c4270",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-23-delayed-tonic",
+      "originalDate": "2026-08-23",
+      "publishedContentSHA256": "5c35ad87d3102d498b7b19c2e8b0da2d278fe821e8418559ef3a696a08f873f8",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-24-rolling-descent",
+      "originalDate": "2026-08-24",
+      "publishedContentSHA256": "880651c2964fc28949a16948f4603b4dae9f3742fbbb62be56cb157416e480c5",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-25-two-rest-relay",
+      "originalDate": "2026-08-25",
+      "publishedContentSHA256": "9910fb6e80c80068e5b3efadfb6e0973dd0b82fdee07b671801f75fdf6c162bd",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-26-peak-and-settle",
+      "originalDate": "2026-08-26",
+      "publishedContentSHA256": "034d0dfbd4f267878632e871024bb431cc1f810fc92a3ea853131ef525fc97e9",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-27-offbeat-launch",
+      "originalDate": "2026-08-27",
+      "publishedContentSHA256": "2a54d3b6488233fa9f615edff100507473592b45ca36dc2fa846b58adda9e23a",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-28-pedal-point",
+      "originalDate": "2026-08-28",
+      "publishedContentSHA256": "5d4931299628fcc4cee58632b17562f06873ed2cdbcb7f42147bd64b287b2637",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-29-spiral-home",
+      "originalDate": "2026-08-29",
+      "publishedContentSHA256": "848f87748860cdbfc0f58870ce9f639f3d3a0db141e1cfb07742762533999574",
+      "unchanged": true
+    },
+    {
+      "id": "2026-08-30-final-cadence",
+      "originalDate": "2026-08-30",
+      "publishedContentSHA256": "cf1f8e7b703d3c6036db71370867bf29774504bb19bae08b2a835c6f06b0c7e2",
+      "unchanged": true
+    }
+  ]
+}

@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-register-bridges
 order: 11
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: A postcard one octave higher
@@ -121,7 +121,7 @@ id: piano-register-postcard-20260916-1
 title: A
 instrument: piano
 tempo: 60
-sequence: C4/1 D4/1 E4/1 -/1 | C5/1 D5/1 E5/1 -/1
+sequence: C4/1 D4/1 E4/1 -/1 C5/1 D5/1 E5/1 -/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-register-postcard-20260916-2
 title: B
 instrument: piano
 tempo: 60
-sequence: C5/1 D5/1 E5/1 -/1 | C4/1 D4/1 E4/1 -/1
+sequence: C5/1 D5/1 E5/1 -/1 C4/1 D4/1 E4/1 -/1
 ```

@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-modes-by-color-note
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: The fourth-color listening test
@@ -121,7 +121,7 @@ id: piano-fourth-color-test-20260914-1
 title: A
 instrument: piano
 tempo: 60
-sequence: [C3 C4]/1 E4/1 F4/1 G4/1
+sequence: [C3,C4]/1 E4/1 F4/1 G4/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-fourth-color-test-20260914-2
 title: B
 instrument: piano
 tempo: 60
-sequence: [C3 C4]/1 E4/1 F#4/1 G4/1
+sequence: [C3,C4]/1 E4/1 F#4/1 G4/1
 ```

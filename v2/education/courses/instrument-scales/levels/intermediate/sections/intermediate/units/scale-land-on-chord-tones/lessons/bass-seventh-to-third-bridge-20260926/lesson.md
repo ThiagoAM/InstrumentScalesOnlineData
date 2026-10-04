@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-land-on-chord-tones
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: bass
 title.en: The seventh hands off to the third
@@ -121,5 +121,5 @@ id: bass-seventh-to-third-bridge-20260926-1
 title: G7 seventh resolves to Cmaj7 third
 instrument: bass
 tempo: 64
-sequence: G1/1 B1/1 D2/1 F2/1 | E2/1 G2/1 C2/2
+sequence: G1/1 B1/1 D2/1 F2/1 E2/1 G2/1 C2/2
 ```

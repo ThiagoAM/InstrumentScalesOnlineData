@@ -6,113 +6,67 @@ level: beginner
 section: beginner
 unit: scale-pentatonic-first-steps
 order: 11
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: The seventh answers back
-title.pt-BR: A sétima responde
-title.es: La séptima responde
-title.de: Die Septime antwortet
-title.ja: 短7度で答える
-title.zh-Hans: 用小七度作答
-summary.en: Change the end of an A-minor pentatonic call from E to G, then return to A.
-summary.pt-BR: Troque o fim de uma chamada pentatônica de lá menor de E para G e volte a A.
-summary.es: Cambia el final de una llamada pentatónica de la menor de E a G y vuelve a A.
-summary.de: Ändere den Schluss eines A-Moll-Pentatonik-Rufs von E zu G und kehre zu A zurück.
-summary.ja: Aマイナー・ペンタトニックの呼びかけの終わりをEからGに変え、Aへ戻ります。
-summary.zh-Hans: 把A小调五声音阶呼句的结尾从E换成G，再回到A。
+title.en: Reference in review · The seventh answers back
+title.pt-BR: Referência em revisão · A sétima responde
+title.es: Referencia en revisión · La séptima responde
+title.de: Referenz in Prüfung · Die Septime antwortet
+title.ja: 確認中の参照 · 短7度で答える
+title.zh-Hans: 审核中的参考 · 用小七度作答
+summary.en: Original goal, physical practice under review: Change the end of an A-minor pentatonic call from E to G, then return to A.
+summary.pt-BR: Objetivo original, prática física em revisão: Troque o fim de uma chamada pentatônica de lá menor de E para G e volte a A.
+summary.es: Objetivo original, práctica física en revisión: Cambia el final de una llamada pentatónica de la menor de E a G y vuelve a A.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Ändere den Schluss eines A-Moll-Pentatonik-Rufs von E zu G und kehre zu A zurück.
+summary.ja: 元の目標（実技確認中）：Aマイナー・ペンタトニックの呼びかけの終わりをEからGに変え、Aへ戻ります。
+summary.zh-Hans: 原目标（实体演奏待审）：把A小调五声音阶呼句的结尾从E换成G，再回到A。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# The seventh answers back
+# Reference in review · The seventh answers back
 
-Set 4/4 at 64 BPM. Your seven-minute goal is to answer a short A-minor pentatonic call with G, the flat seventh, instead of E, the fifth. Both answers return to the root A on the next downbeat. Hear how G leaves a question open.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Record A–B–B–A at 64 BPM, replacing only beat-four E2 with flat-seventh G2 in each B and returning to A1 on the next one. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-On a standard four-string bass, find A1 on the open A string, C2 at A-string fret 3 and D2 at fret 5. E2 is D-string fret 2; G2 is D-string fret 5. Name each note once while muting strings you do not play.
-
-Play the call A1–C2–D2 on beats one, two and three. Card A puts E2 on beat four; card B puts G2 there. In both cards return to A1 on the next one and hold it for two beats. The only changed note is the ending.
-
-Trade calls with yourself: A–B–B–A. Before beat four, sing the answer note, then play it. Award a point only if G2 is the flat seventh above A and E2 remains the fifth in card A. Record the four-card game and listen for the open G answer.
-
-If the reach to G2 is untidy, slow to 48 BPM and loop D2–G2–A1; then restore A1–C2 at the front. Do not replace G2 with E2 in the easier drill: hearing and finding the seventh is the target. Finish at 64 BPM.
-
-:::checkpoint Record A–B–B–A at 64 BPM, replacing only beat-four E2 with flat-seventh G2 in each B and returning to A1 on the next one.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# A sétima responde
+# Referência em revisão · A sétima responde
 
-Ajuste 4/4 a 64 BPM. Em sete minutos, responda a uma chamada pentatônica de lá menor com G, a sétima menor, no lugar de E, a quinta. As duas respostas voltam à fundamental A no próximo primeiro tempo. Ouça como G deixa a pergunta aberta.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Grave A–B–B–A a 64 BPM, trocando só E2 do quarto tempo pela sétima menor G2 em cada B e voltando a A1 no próximo um. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-No baixo padrão de quatro cordas, A1 é a corda A solta, C2 está na casa 3 dessa corda e D2 na casa 5. E2 fica na corda D casa 2; G2, na casa 5. Diga cada nota uma vez e abafe as cordas que não usa.
-
-Toque a chamada A1–C2–D2 nos tempos um, dois e três. O cartão A coloca E2 no quatro; B coloca G2. Nos dois, volte a A1 no próximo um e sustente por dois tempos. Só a nota final da chamada muda.
-
-Troque chamadas consigo mesmo: A–B–B–A. Antes do quatro, cante a nota da resposta e depois toque. Só marque ponto se G2 for a sétima menor de A e E2 continuar a quinta no cartão A. Grave os quatro cartões e escute a resposta aberta de G.
-
-Se alcançar G2 ficar difícil, reduza a 48 BPM e repita D2–G2–A1; depois recoloque A1–C2 no início. Não substitua G2 por E2 na versão fácil: ouvir e encontrar a sétima é o objetivo. Termine a 64 BPM.
-
-:::checkpoint Grave A–B–B–A a 64 BPM, trocando só E2 do quarto tempo pela sétima menor G2 em cada B e voltando a A1 no próximo um.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# La séptima responde
+# Referencia en revisión · La séptima responde
 
-Pon 4/4 a 64 BPM. En siete minutos, responde a una llamada pentatónica de la menor con G, séptima menor, en vez de E, quinta. Ambas respuestas vuelven a la fundamental A en el siguiente uno. Escucha cómo G deja una pregunta abierta.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Graba A–B–B–A a 64 BPM, cambiando solo E2 del cuarto pulso por la séptima menor G2 en cada B y volviendo a A1 en el siguiente uno. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-En bajo estándar de cuatro cuerdas, A1 es la cuerda A al aire, C2 está en su traste 3 y D2 en el 5. E2 está en cuerda D traste 2; G2 en traste 5. Nombra cada nota y apaga las cuerdas que no tocas.
-
-Toca la llamada A1–C2–D2 en uno, dos y tres. La tarjeta A coloca E2 en cuatro; B coloca G2. En ambas vuelve a A1 en el siguiente uno y sostenlo dos pulsos. Solo cambia la última nota de la llamada.
-
-Intercambia llamadas contigo: A–B–B–A. Antes del cuatro, canta la nota de respuesta y luego tócala. Solo suma un punto si G2 es la séptima menor de A y E2 sigue siendo la quinta de A. Graba las tarjetas y escucha la respuesta abierta de G.
-
-Si llegar a G2 cuesta, baja a 48 BPM y repite D2–G2–A1; después recupera A1–C2 al principio. No cambies G2 por E2 en el ejercicio fácil: oír y encontrar la séptima es la meta. Termina a 64 BPM.
-
-:::checkpoint Graba A–B–B–A a 64 BPM, cambiando solo E2 del cuarto pulso por la séptima menor G2 en cada B y volviendo a A1 en el siguiente uno.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Die Septime antwortet
+# Referenz in Prüfung · Die Septime antwortet
 
-Stelle 4/4 und 64 BPM ein. Antworte in sieben Minuten auf einen A-Moll-Pentatonik-Ruf mit G, der kleinen Septime, statt mit E, der Quinte. Beide Antworten kehren auf der nächsten Eins zum Grundton A zurück. Höre, wie G die Frage offenlässt.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm A–B–B–A bei 64 BPM auf, ersetze nur E2 auf vier durch die kleine Septime G2 in jedem B und kehre auf der nächsten Eins zu A1 zurück. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Auf dem viersaitigen Standardbass liegt A1 auf der leeren A-Saite, C2 dort in Bund 3 und D2 in Bund 5. E2 liegt auf D-Saite Bund 2 und G2 in Bund 5. Benenne jeden Ton einmal und dämpfe ungenutzte Saiten.
-
-Spiele den Ruf A1–C2–D2 auf eins, zwei, drei. Karte A setzt E2 auf vier, Karte B setzt G2 dorthin. In beiden Karten kehrst du auf der nächsten Eins zu A1 zurück und hältst es zwei Schläge. Nur der letzte Rufton ändert sich.
-
-Tausche Rufe mit dir selbst: A–B–B–A. Singe vor Schlag vier die Antwort und spiele sie dann. Ein Punkt zählt nur, wenn G2 die kleine Septime über A ist und E2 in Karte A die Quinte bleibt. Nimm vier Karten auf und höre die offene G-Antwort.
-
-Wenn G2 schwer zu greifen ist, gehe auf 48 BPM und wiederhole D2–G2–A1; ergänze dann A1–C2 am Anfang. Ersetze G2 auch in der leichten Fassung nicht durch E2: Die Septime zu hören und zu finden ist das Ziel. Ende bei 64 BPM.
-
-:::checkpoint Nimm A–B–B–A bei 64 BPM auf, ersetze nur E2 auf vier durch die kleine Septime G2 in jedem B und kehre auf der nächsten Eins zu A1 zurück.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 短7度で答える
+# 確認中の参照 · 短7度で答える
 
-4/4拍、64 BPMにします。7分の目標は、Aマイナー・ペンタトニックの短い呼びかけに、5度のEではなく短7度のGで答えること。どちらの答えも次の1拍目で根音Aへ戻ります。Gが問いを残す響きを聴きましょう。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：64 BPMでA–B–B–Aを録音。各Bの4拍目のE2だけを短7度G2に替え、次の1拍目でA1に戻ります。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-標準調弦の4弦ベースでは、A1はA弦開放、C2は同弦3フレット、D2は5フレット。E2はD弦2フレット、G2は5フレットです。各音を言ってから弾き、使わない弦はミュートします。
-
-1・2・3拍目にA1–C2–D2を弾きます。カードAの4拍目はE2、BはG2。両方とも次の1拍目でA1に戻り、2拍保ちます。呼びかけの最後の音だけを変えます。
-
-A–B–B–Aと自分で掛け合いをします。4拍目の前に答えの音を歌い、それから弾きます。G2がAの短7度で、AカードのE2が5度だと確認できたら得点。4枚を録音し、Gの開いた返事を聴きます。
-
-G2へ届きにくければ48 BPMでD2–G2–A1を繰り返し、その後冒頭のA1–C2を戻します。簡単にしてもG2をE2に替えないでください。短7度を聴き、見つけることが課題です。最後は64 BPMに戻します。
-
-:::checkpoint 64 BPMでA–B–B–Aを録音。各Bの4拍目のE2だけを短7度G2に替え、次の1拍目でA1に戻ります。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 用小七度作答
+# 审核中的参考 · 用小七度作答
 
-设置4/4拍、64 BPM。七分钟内，用小七度G而不是五度E，回应一段A小调五声音阶呼句。两种回答都在下一第一拍回到根音A。听听G如何让这句问话仍然悬而未决。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：以64 BPM录下A–B–B–A：每个B只把第四拍的E2换成小七度G2，并在下一第一拍回到A1。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-在标准四弦贝斯上，A1是A弦空弦，C2在同弦第3品，D2在第5品。E2位于D弦第2品，G2位于第5品。先说出每个音，再弹奏，并制住不用的弦。
-
-第一、二、三拍弹A1–C2–D2。卡片A第四拍放E2，卡片B放G2。两张卡都在下一第一拍回到A1，并保持两拍。只有呼句结尾的音改变。
-
-自己跟自己玩A–B–B–A问答。第四拍之前先唱出回答音，再弹出它。只有G2确实是A的小七度，而且A卡的E2仍为五度时才得分。录下四张卡，听G留下的开放感。
-
-若够到G2不稳，降至48 BPM循环D2–G2–A1，随后把开头的A1–C2加回来。简化练习也不能用E2替换G2：听出并找到小七度正是目标。最后回到64 BPM。
-
-:::checkpoint 以64 BPM录下A–B–B–A：每个B只把第四拍的E2换成小七度G2，并在下一第一拍回到A1。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -121,7 +75,7 @@ id: bass-pentatonic-seventh-answer-20260925-1
 title: A - fifth answer
 instrument: bass
 tempo: 64
-sequence: A1/1 C2/1 D2/1 E2/1 | A1/2 -/2
+sequence: A1/1 C2/1 D2/1 E2/1 A1/2 -/2
 ```
 
 ```notes
@@ -129,12 +83,5 @@ id: bass-pentatonic-seventh-answer-20260925-2
 title: B - flat seventh answer
 instrument: bass
 tempo: 64
-sequence: A1/1 C2/1 D2/1 G2/1 | A1/2 -/2
-```
-
-```fretboard
-tuning: E-A-D-G
-fretRange: 0-5
-positions: 2:0 A, 2:3 C, 2:5 D, 3:2 E, 3:5 G
-sequence: A-C-D-E-A | A-C-D-G-A
+sequence: A1/1 C2/1 D2/1 G2/1 A1/2 -/2
 ```

@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 66
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar target lighthouse
-title.pt-BR: Farol de alvos na guitarra
-title.es: Faro de objetivos en guitarra
-title.de: Gitarren-Zielton-Leuchtturm
-title.ja: ギター・ターゲット・灯台
-title.zh-Hans: 吉他目标灯塔
-summary.en: Keep one chord tone glowing through a moving scale line, then resolve with a clean position shift.
-summary.pt-BR: Mantenha uma nota do acorde brilhando em uma linha de escala móvel e resolva com uma troca limpa de posição.
-summary.es: Mantén una nota del acorde encendida dentro de una línea móvil y resuelve con un cambio limpio de posición.
-summary.de: Halte einen Akkordton in einer bewegten Linie leuchtend und löse mit einem sauberen Lagenwechsel auf.
-summary.ja: 動くスケールラインの中でコードトーンを光らせ、きれいなポジション移動で解決します。
-summary.zh-Hans: 让一个和弦音在移动的音阶线中持续发光，再用干净的把位移动解决。
+title.en: Reference in review · Guitar target lighthouse
+title.pt-BR: Referência em revisão · Farol de alvos na guitarra
+title.es: Referencia en revisión · Faro de objetivos en guitarra
+title.de: Referenz in Prüfung · Gitarren-Zielton-Leuchtturm
+title.ja: 確認中の参照 · ギター・ターゲット・灯台
+title.zh-Hans: 审核中的参考 · 吉他目标灯塔
+summary.en: Original goal, physical practice under review: Keep one chord tone glowing through a moving scale line, then resolve with a clean position shift.
+summary.pt-BR: Objetivo original, prática física em revisão: Mantenha uma nota do acorde brilhando em uma linha de escala móvel e resolva com uma troca limpa de posição.
+summary.es: Objetivo original, práctica física en revisión: Mantén una nota del acorde encendida dentro de una línea móvil y resuelve con un cambio limpio de posición.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Halte einen Akkordton in einer bewegten Linie leuchtend und löse mit einem sauberen Lagenwechsel auf.
+summary.ja: 元の目標（実技確認中）：動くスケールラインの中でコードトーンを光らせ、きれいなポジション移動で解決します。
+summary.zh-Hans: 原目标（实体演奏待审）：让一个和弦音在移动的音阶线中持续发光，再用干净的把位移动解决。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar target lighthouse
+# Reference in review · Guitar target lighthouse
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **86 bpm** around 5th position. Treat the 3rd of each chord as a lighthouse: **C, F#, B, E**. Every phrase must make its lighthouse audible.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one chorus that clearly lands on C, F#, B, and E on beat 1 while keeping the position shift quiet and in time. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1: play only three notes before each target, then hold the target for two beats. Sing the target first; if you cannot sing it, slow the loop to 60 bpm.
-
-Round 2: connect targets with eighth notes from the G major scale. Cross one string pair between two bars, but keep the target on beat 1. A shift is successful only when the pulse stays calm.
-
-Boss round: play two choruses. Add one slide into a target and one rest before a target, then leave space after each landing.
-
-:::checkpoint Play one chorus that clearly lands on C, F#, B, and E on beat 1 while keeping the position shift quiet and in time.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Farol de alvos na guitarra
+# Referência em revisão · Farol de alvos na guitarra
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **86 bpm** perto da 5ª posição. Trate a 3ª de cada acorde como um farol: **C, F#, B, E**. Toda frase precisa tornar seu farol audível.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque um chorus chegando claramente em C, F#, B e E no tempo 1, mantendo a troca de posição silenciosa e no pulso. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Rodada 1: toque só três notas antes de cada alvo e segure o alvo por dois tempos. Cante o alvo primeiro; se não conseguir cantá-lo, reduza o loop para 60 bpm.
-
-Rodada 2: conecte os alvos com colcheias da escala de G maior. Atravesse um par de cordas entre dois compassos, mas mantenha o alvo no tempo 1. A troca só vale quando o pulso continua calmo.
-
-Rodada chefão: toque dois choruses. Adicione um slide até um alvo e uma pausa antes de outro, deixando espaço depois de cada chegada.
-
-:::checkpoint Toque um chorus chegando claramente em C, F#, B e E no tempo 1, mantendo a troca de posição silenciosa e no pulso.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Faro de objetivos en guitarra
+# Referencia en revisión · Faro de objetivos en guitarra
 
-Pon en bucle **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **86 bpm** cerca de la 5ª posición. Trata la 3ª de cada acorde como un faro: **C, F#, B, E**. Cada frase debe hacer audible su faro.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca un coro aterrizando claramente en C, F#, B y E en el tiempo 1, con el cambio de posición silencioso y a tempo. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Ronda 1: toca solo tres notas antes de cada objetivo y mantén el objetivo dos tiempos. Canta primero el objetivo; si no puedes cantarlo, baja el bucle a 60 bpm.
-
-Ronda 2: conecta los objetivos con corcheas de la escala de Sol mayor. Cruza un par de cuerdas entre dos compases, pero conserva el objetivo en el tiempo 1. El cambio solo cuenta si el pulso sigue tranquilo.
-
-Ronda jefe: toca dos coros. Añade un slide hacia un objetivo y un silencio antes de otro, dejando espacio después de cada llegada.
-
-:::checkpoint Toca un coro aterrizando claramente en C, F#, B y E en el tiempo 1, con el cambio de posición silencioso y a tempo.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Zielton-Leuchtturm
+# Referenz in Prüfung · Gitarren-Zielton-Leuchtturm
 
-Loope **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **86 bpm** um die 5. Lage. Behandle die Terz jedes Akkords als Leuchtturm: **C, F#, B, E**. Jede Phrase muss ihren Leuchtturm hörbar machen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen Chorus mit klaren Landungen auf C, F#, B und E auf Schlag 1; der Lagenwechsel bleibt leise und im Timing. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1: Spiele nur drei Töne vor jedem Ziel und halte den Zielton zwei Schläge. Singe das Ziel zuerst; wenn das nicht gelingt, verlangsame den Loop auf 60 bpm.
-
-Runde 2: Verbinde die Ziele mit Achteln aus G-Dur. Wechsle zwischen zwei Takten über ein Saitenpaar, aber halte das Ziel auf Schlag 1. Der Wechsel zählt nur, wenn der Puls ruhig bleibt.
-
-Boss-Runde: Spiele zwei Chorusse. Füge einen Slide in ein Ziel und eine Pause vor einem Ziel ein, danach lässt du Raum.
-
-:::checkpoint Spiele einen Chorus mit klaren Landungen auf C, F#, B und E auf Schlag 1; der Lagenwechsel bleibt leise und im Timing.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・ターゲット・灯台
+# 確認中の参照 · ギター・ターゲット・灯台
 
-**| Am7 | D7 | Gmaj7 | Cmaj7 |** を **86 bpm**、5ポジション付近でループします。各コードの3度 **C、F#、B、E** を灯台だと思い、すべてのフレーズで聞こえるようにします。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：C、F#、B、Eへ1拍目に明確に着地する1コーラスを、ポジション移動を静かに保って弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1では各ターゲットの前を3音だけ弾き、ターゲットを2拍伸ばします。まず歌ってみて、歌えなければ60 bpmまで遅くします。
-
-ラウンド2ではGメジャーの8分音符でターゲットをつなぎます。2小節の間に弦をまたぎますが、ターゲットは1拍目に置きます。脈が落ち着いて初めて移動成功です。
-
-ボスラウンドでは2コーラス弾きます。1回はターゲットへスライドし、1回は前に休符を入れ、着地後に空間を残します。
-
-:::checkpoint C、F#、B、Eへ1拍目に明確に着地する1コーラスを、ポジション移動を静かに保って弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他目标灯塔
+# 审核中的参考 · 吉他目标灯塔
 
-把 **| Am7 | D7 | Gmaj7 | Cmaj7 |** 设为 **86 bpm** 循环，在第五把位附近练习。把每个和弦的三音 **C、F#、B、E** 当作灯塔，让每条乐句都能听见它。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹一遍，在第1拍清楚落到C、F#、B、E，同时让换把安静并保持节拍。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮：每个目标前只弹三个音，然后把目标保持两拍。先唱出目标；如果唱不准，就把循环降到60 bpm。
-
-第2轮：用G大调八分音符连接目标。在两个小节之间跨过一组琴弦，但目标必须落在第1拍。只有脉搏保持安静，换把才算成功。
-
-Boss轮：弹两个完整 chorus。加入一次滑入目标和一次目标前的休止，每次落点后都留出空间。
-
-:::checkpoint 完整弹一遍，在第1拍清楚落到C、F#、B、E，同时让换把安静并保持节拍。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -110,14 +76,4 @@ title: Lighthouse targets
 instrument: guitar
 tempo: 86
 sequence: C4 F#4 B3 E4
-```
-
-```fretboard
-id: guitar-target-lighthouse-map
-title: Fifth-position target map
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 3-7
-tempo: 86
-positions: 2:5 1:2 2:4 1:4
 ```

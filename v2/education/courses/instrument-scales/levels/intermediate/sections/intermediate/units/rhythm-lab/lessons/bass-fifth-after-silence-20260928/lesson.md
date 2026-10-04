@@ -6,113 +6,67 @@ level: intermediate
 section: intermediate
 unit: rhythm-lab
 order: 18
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: The fifth waits for the and
-title.pt-BR: A quinta espera o contratempo
-title.es: La quinta espera al contratiempo
-title.de: Die Quinte wartet auf das Und
-title.ja: 5度を裏拍まで待つ
-title.zh-Hans: 五音等到后半拍
-summary.en: Leave beat three open, then place the fifth of Dm7 on three-and without moving its seventh on beat four.
-summary.pt-BR: Deixe o início do terceiro tempo vazio e toque a quinta de Dm7 no contratempo, mantendo a sétima no quarto tempo.
-summary.es: Deja vacío el inicio del tercer pulso y toca la quinta de Dm7 en el contratiempo, sin mover la séptima del cuarto.
-summary.de: Lass Schlag drei zunächst frei und setze die Quinte von Dm7 auf drei-und, während die Septime auf vier bleibt.
-summary.ja: 3拍目の表を空け、Dm7の5度を3拍目の裏へ移しても4拍目の7度を動かしません。
-summary.zh-Hans: 第三拍前半留空，把Dm7的五音放在后半拍，同时让七音仍落在第四拍。
+title.en: Reference in review · The fifth waits for the and
+title.pt-BR: Referência em revisão · A quinta espera o contratempo
+title.es: Referencia en revisión · La quinta espera al contratiempo
+title.de: Referenz in Prüfung · Die Quinte wartet auf das Und
+title.ja: 確認中の参照 · 5度を裏拍まで待つ
+title.zh-Hans: 审核中的参考 · 五音等到后半拍
+summary.en: Original goal, physical practice under review: Leave beat three open, then place the fifth of Dm7 on three-and without moving its seventh on beat four.
+summary.pt-BR: Objetivo original, prática física em revisão: Deixe o início do terceiro tempo vazio e toque a quinta de Dm7 no contratempo, mantendo a sétima no quarto tempo.
+summary.es: Objetivo original, práctica física en revisión: Deja vacío el inicio del tercer pulso y toca la quinta de Dm7 en el contratiempo, sin mover la séptima del cuarto.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Lass Schlag drei zunächst frei und setze die Quinte von Dm7 auf drei-und, während die Septime auf vier bleibt.
+summary.ja: 元の目標（実技確認中）：3拍目の表を空け、Dm7の5度を3拍目の裏へ移しても4拍目の7度を動かしません。
+summary.zh-Hans: 原目标（实体演奏待审）：第三拍前半留空，把Dm7的五音放在后半拍，同时让七音仍落在第四拍。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# The fifth waits for the and
+# Reference in review · The fifth waits for the and
 
-Set 4/4 at 64 BPM. Your seven-minute aim is one deliberate gap inside a Dm7 bass line: rest on beat three, play its fifth A1 on three-and, then keep its seventh C2 on beat four. The gap creates a small spring without changing the chord.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Record two B cards at 64 BPM: silence on beat three, A1 on three-and, and C2 on beat four each time. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-On a four-string E–A–D–G bass, find D2 on A-string fret 5, F2 on D-string fret 3, A1 on E-string fret 5, and C2 on A-string fret 3. They are Dm7 root, minor third, fifth, and minor seventh. Mute each note before the next attack.
-
-Card A places D2, F2, A1, C2 on beats one through four. Card B keeps D2 and F2, but replaces the first half of beat three with silence; A1 now enters on three-and. C2 still attacks exactly on four. Count “three-and” aloud.
-
-Alternate A and B for four rounds. Award one point for a silent first half of beat three and another for C2 landing on four: eight points are possible. The fifth must sound after the rest; skipping A1 would remove the timing decision.
-
-If the leap from F2 to A1 makes you early, slow to 48 BPM and loop F2 on two, rest on three, A1 on three-and, C2 on four. Keep the rest and fifth intact. Finish with two B cards at 64 BPM, recorded against a click.
-
-:::checkpoint Record two B cards at 64 BPM: silence on beat three, A1 on three-and, and C2 on beat four each time.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# A quinta espera o contratempo
+# Referência em revisão · A quinta espera o contratempo
 
-Ajuste 4/4 a 64 BPM. A meta de sete minutos é abrir um espaço intencional no baixo de Dm7: pausa no início do terceiro tempo, quinta A1 no “e” do três e sétima C2 ainda no quatro. O vão dá impulso sem trocar o acorde.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Grave dois cartões B a 64 BPM: silêncio no início do três, A1 no “e” do três e C2 no quatro em cada volta. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-No baixo de quatro cordas E–A–D–G, localize D2 na corda A casa 5, F2 na D casa 3, A1 na E casa 5 e C2 na A casa 3. São fundamental, terça menor, quinta e sétima menor de Dm7. Abafe cada nota antes do ataque seguinte.
-
-O cartão A coloca D2, F2, A1 e C2 nos tempos um a quatro. B mantém D2 e F2, mas troca a primeira metade do terceiro tempo por silêncio; A1 entra no “e” do três. C2 continua exatamente no quatro. Conte “três-e” em voz alta.
-
-Alterne A e B por quatro rodadas. Ganhe um ponto pelo silêncio na primeira metade do três e outro por C2 no quatro: oito pontos possíveis. A quinta precisa soar após a pausa; pular A1 eliminaria a decisão rítmica.
-
-Se o salto de F2 para A1 antecipar sua mão, reduza a 48 BPM e repita F2 no dois, pausa no três, A1 no “e” e C2 no quatro. Preserve pausa e quinta. Termine gravando dois cartões B a 64 BPM com metrônomo.
-
-:::checkpoint Grave dois cartões B a 64 BPM: silêncio no início do três, A1 no “e” do três e C2 no quatro em cada volta.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# La quinta espera al contratiempo
+# Referencia en revisión · La quinta espera al contratiempo
 
-Pon 4/4 a 64 BPM. La meta de siete minutos es abrir un hueco deliberado en una línea de Dm7: silencio al empezar el tercer pulso, quinta A1 en tres-y y séptima C2 todavía en cuatro. Ese hueco da impulso sin cambiar el acorde.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Graba dos tarjetas B a 64 BPM: silencio al empezar tres, A1 en tres-y y C2 en cuatro cada vez. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-En un bajo de cuatro cuerdas E–A–D–G, busca D2 en cuerda A traste 5, F2 en D traste 3, A1 en E traste 5 y C2 en A traste 3. Son fundamental, tercera menor, quinta y séptima menor de Dm7. Apaga cada nota antes del siguiente ataque.
-
-La tarjeta A coloca D2, F2, A1 y C2 en los pulsos uno a cuatro. B conserva D2 y F2, pero cambia la primera mitad del tercer pulso por silencio; A1 entra en tres-y. C2 sigue exactamente en cuatro. Cuenta “tres-y” en voz alta.
-
-Alterna A y B durante cuatro rondas. Gana un punto por callar la primera mitad del tres y otro por C2 en cuatro: ocho puntos posibles. La quinta debe sonar después del silencio; saltar A1 borraría la decisión rítmica.
-
-Si el salto de F2 a A1 te adelanta, baja a 48 BPM y repite F2 en dos, silencio en tres, A1 en tres-y y C2 en cuatro. Mantén silencio y quinta. Termina grabando dos tarjetas B a 64 BPM con metrónomo.
-
-:::checkpoint Graba dos tarjetas B a 64 BPM: silencio al empezar tres, A1 en tres-y y C2 en cuatro cada vez.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Die Quinte wartet auf das Und
+# Referenz in Prüfung · Die Quinte wartet auf das Und
 
-Stelle 4/4 und 64 BPM ein. In sieben Minuten setzt du eine bewusste Lücke in eine Dm7-Basslinie: Pause am Anfang von Schlag drei, die Quinte A1 auf drei-und und die Septime C2 weiterhin auf vier. Diese Lücke gibt Schwung, ohne den Akkord zu wechseln.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm zwei B-Karten bei 64 BPM auf: Pause am Anfang von drei, A1 auf drei-und und C2 auf vier. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Auf einem viersaitigen Bass in E–A–D–G findest du D2 auf der A-Saite in Bund 5, F2 auf der D-Saite in Bund 3, A1 auf der E-Saite in Bund 5 und C2 auf der A-Saite in Bund 3. Das sind Grundton, kleine Terz, Quinte und kleine Septime von Dm7. Dämpfe jeden Ton vor dem nächsten Anschlag.
-
-Karte A setzt D2, F2, A1, C2 auf die Schläge eins bis vier. B behält D2 und F2, ersetzt aber die erste Hälfte von Schlag drei durch Stille; A1 beginnt nun auf drei-und. C2 bleibt genau auf vier. Zähle „drei-und“ laut.
-
-Wechsle vier Runden lang A und B. Ein Punkt gilt für die stille erste Hälfte von drei, ein weiterer für C2 auf vier: acht Punkte sind möglich. Die Quinte muss nach der Pause klingen; A1 wegzulassen würde die rhythmische Entscheidung entfernen.
-
-Kommst du beim Sprung von F2 nach A1 zu früh, senke auf 48 BPM und wiederhole F2 auf zwei, Pause auf drei, A1 auf drei-und, C2 auf vier. Pause und Quinte bleiben. Nimm zum Schluss zwei B-Karten bei 64 BPM mit Klick auf.
-
-:::checkpoint Nimm zwei B-Karten bei 64 BPM auf: Pause am Anfang von drei, A1 auf drei-und und C2 auf vier.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 5度を裏拍まで待つ
+# 確認中の参照 · 5度を裏拍まで待つ
 
-4/4拍、64 BPMにします。7分の目標はDm7のベースラインに意図的な隙間を作ること。3拍目の表を休み、裏で5度A1を弾き、短7度C2は4拍目に置いたままにします。和音を変えずに小さな弾みを作ります。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：64 BPMでBを2周録音し、毎回3拍目表を休み、裏でA1、4拍目でC2を弾きます。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-E–A–D–Gの4弦ベースで、D2はA弦5フレット、F2はD弦3フレット、A1はE弦5フレット、C2はA弦3フレットです。順にDm7の根音、短3度、5度、短7度。次の音を弾く前に前の音をミュートします。
-
-カードAではD2、F2、A1、C2を1拍目から4拍目まで順に置きます。BではD2とF2を保ち、3拍目前半だけ休符に変更。A1は3拍目の裏に入り、C2は4拍目のまま。「3と」と声に出して数えます。
-
-AとBを交互に4周します。3拍目前半の静けさで1点、4拍目のC2でさらに1点、計8点が満点。休符の後の5度は必ず鳴らしてください。A1を省くと、このリズムの判断そのものが消えます。
-
-F2からA1への移動で走るなら48 BPMに落とし、2拍目F2、3拍目表の休符、裏のA1、4拍目C2だけ反復します。休符と5度を残してください。最後に64 BPMでBを2周録音します。
-
-:::checkpoint 64 BPMでBを2周録音し、毎回3拍目表を休み、裏でA1、4拍目でC2を弾きます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 五音等到后半拍
+# 审核中的参考 · 五音等到后半拍
 
-设为4/4拍、64 BPM。七分钟目标是在Dm7贝斯线中留一个有意的空档：第三拍前半休止，后半弹五音A1，第四拍仍弹七音C2。这个空档带来弹性，却没有改变和弦。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：以64 BPM录下两轮B：每轮第三拍前半休止、后半弹A1，第四拍弹C2。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-在E–A–D–G四弦贝斯上，D2位于A弦第5品，F2在D弦第3品，A1在E弦第5品，C2在A弦第3品。它们依次是Dm7的根音、小三音、五音和小七音。每次新攻击前都制住前一个音。
-
-卡片A把D2、F2、A1、C2分别放在第一至第四拍。B保留D2与F2，但第三拍前半改为休止；A1在“三和”的后半拍进入。C2依然准时落在第四拍。大声数“三和”。
-
-交替弹A和B共四轮。第三拍前半保持安静得一分，C2准确落在第四拍再得一分，满分八分。五音必须在休止之后响起；省去A1就会抹掉这次节奏选择。
-
-若从F2跳到A1时抢拍，降到48 BPM，只循环第二拍F2、第三拍前半休止、后半A1和第四拍C2。休止与五音都要保留。最后跟节拍器以64 BPM录下两轮B。
-
-:::checkpoint 以64 BPM录下两轮B：每轮第三拍前半休止、后半弹A1，第四拍弹C2。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -130,11 +84,4 @@ title: B - delayed fifth
 instrument: bass
 tempo: 64
 sequence: D2/1 F2/1 -/0.5 A1/0.5 C2/1
-```
-
-```fretboard
-tuning: E-A-D-G
-fretRange: 3-5
-positions: 2:5 D, 3:3 F, 1:5 A, 2:3 C
-sequence: D-F-A-C
 ```

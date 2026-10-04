@@ -1,0 +1,272 @@
+{
+  "schema": 2,
+  "revision": 1,
+  "riffs": [
+    {
+      "id": "2026-10-04-guided-review-riff",
+      "date": "2026-10-04",
+      "titles": {
+        "en": "A tonic with breathing room",
+        "pt-BR": "Tônica com espaço",
+        "es": "Tónica con espacio",
+        "de": "Grundton mit Raum",
+        "ja": "余白のある主音",
+        "zh-Hans": "留白的主音"
+      },
+      "blurbs": {
+        "en": "Listen, then try A tonic with breathing room without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente Tônica com espaço sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta Tónica con espacio sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Grundton mit Raum ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「余白のある主音」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“留白的主音”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-04-guided-review-riff\ntitle: C · 1 2 3 - 3 2 1 -\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 2 3 - 3 2 1 -\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-11",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    },
+    {
+      "id": "2026-10-05-guided-review-riff",
+      "date": "2026-10-05",
+      "titles": {
+        "en": "A quieter repeated note",
+        "pt-BR": "Uma repetição mais leve",
+        "es": "Una repetición más suave",
+        "de": "Eine leisere Wiederholung",
+        "ja": "軽い同音反復",
+        "zh-Hans": "更轻的重复音"
+      },
+      "blurbs": {
+        "en": "Listen, then try A quieter repeated note without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente Uma repetição mais leve sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta Una repetición más suave sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Eine leisere Wiederholung ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「軽い同音反復」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“更轻的重复音”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-05-guided-review-riff\ntitle: C · 1 1 - 2 3 2 1 -\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 1 - 2 3 2 1 -\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-12",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    },
+    {
+      "id": "2026-10-06-guided-review-riff",
+      "date": "2026-10-06",
+      "titles": {
+        "en": "Step back before arriving",
+        "pt-BR": "Um passo atrás antes de chegar",
+        "es": "Un paso atrás antes de llegar",
+        "de": "Ein Schritt zurück vor dem Ziel",
+        "ja": "着地前に1歩戻る",
+        "zh-Hans": "到达前退一步"
+      },
+      "blurbs": {
+        "en": "Listen, then try Step back before arriving without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente Um passo atrás antes de chegar sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta Un paso atrás antes de llegar sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Ein Schritt zurück vor dem Ziel ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「着地前に1歩戻る」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“到达前退一步”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-06-guided-review-riff\ntitle: C · 1 3 2 - 3 2 1 1\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 3 2 - 3 2 1 1\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-13",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    },
+    {
+      "id": "2026-10-07-guided-review-riff",
+      "date": "2026-10-07",
+      "titles": {
+        "en": "The fifth answers",
+        "pt-BR": "A quinta responde",
+        "es": "La quinta responde",
+        "de": "Die Quinte antwortet",
+        "ja": "5度の答え",
+        "zh-Hans": "五音回答"
+      },
+      "blurbs": {
+        "en": "Listen, then try The fifth answers without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente A quinta responde sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta La quinta responde sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Die Quinte antwortet ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「5度の答え」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“五音回答”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-07-guided-review-riff\ntitle: C · 1 2 3 - 5 3 2 1\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 2 3 - 5 3 2 1\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-14",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    },
+    {
+      "id": "2026-10-08-guided-review-riff",
+      "date": "2026-10-08",
+      "titles": {
+        "en": "Rest before the return",
+        "pt-BR": "Pausa antes da volta",
+        "es": "Silencio antes del regreso",
+        "de": "Pause vor der Rückkehr",
+        "ja": "戻る前の休符",
+        "zh-Hans": "返回前的休止"
+      },
+      "blurbs": {
+        "en": "Listen, then try Rest before the return without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente Pausa antes da volta sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta Silencio antes del regreso sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Pause vor der Rückkehr ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「戻る前の休符」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“返回前的休止”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-08-guided-review-riff\ntitle: C · 1 3 5 3 - 2 1 -\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 3 5 3 - 2 1 -\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-15",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    },
+    {
+      "id": "2026-10-09-guided-review-riff",
+      "date": "2026-10-09",
+      "titles": {
+        "en": "An arch with a small peak",
+        "pt-BR": "Um arco com pico pequeno",
+        "es": "Un arco con cima pequeña",
+        "de": "Ein Bogen mit kleinem Gipfel",
+        "ja": "小さな頂点の弧",
+        "zh-Hans": "小顶点的弧线"
+      },
+      "blurbs": {
+        "en": "Listen, then try An arch with a small peak without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente Um arco com pico pequeno sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta Un arco con cima pequeña sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Ein Bogen mit kleinem Gipfel ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「小さな頂点の弧」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“小顶点的弧线”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-09-guided-review-riff\ntitle: C · 1 2 3 4 3 - 2 1\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 2 3 4 3 - 2 1\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-16",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    },
+    {
+      "id": "2026-10-10-guided-review-riff",
+      "date": "2026-10-10",
+      "titles": {
+        "en": "Remember the opening",
+        "pt-BR": "Lembre a abertura",
+        "es": "Recuerda el comienzo",
+        "de": "Erinnere den Anfang",
+        "ja": "出だしを思い出す",
+        "zh-Hans": "记住开头"
+      },
+      "blurbs": {
+        "en": "Listen, then try Remember the opening without playback. Count the written rests and describe one change in the return; this is a practice prompt, not an instrumental score.",
+        "pt-BR": "Ouça e tente Lembre a abertura sem reprodução. Conte as pausas escritas e descreva uma mudança na volta; é uma proposta de prática, não uma avaliação instrumental.",
+        "es": "Escucha e intenta Recuerda el comienzo sin reproducción. Cuenta los silencios y describe un cambio en el regreso; es práctica, no evaluación instrumental.",
+        "de": "Höre und probiere Erinnere den Anfang ohne Wiedergabe. Zähle die Pausen und beschreibe eine Änderung beim Rückweg; dies ist eine Übung, keine Instrumentalbewertung.",
+        "ja": "「出だしを思い出す」を聴き、再生なしで試します。休符を数え、帰りの変化を1つ説明します。練習の提案であり実演の採点ではありません。",
+        "zh-Hans": "聆听“记住开头”后不播放示范尝试。数出休止，描述返回时的一处变化；这是练习提示，不是实体演奏评分。"
+      },
+      "fence": {
+        "type": "scale",
+        "source": "id: 2026-10-10-guided-review-riff\ntitle: C · 1 2 1 - 3 2 1 -\nroot: C\nscale: Major\ntempo: 56\nbeat: 1\ndegrees: 1 2 1 - 3 2 1 -\nexpectedFinalDegree: 1"
+      },
+      "instruments": [
+        "guitar",
+        "bass",
+        "piano",
+        "ukulele",
+        "mandolin"
+      ],
+      "requiredCapabilities": [
+        "scale"
+      ],
+      "validUntil": "2026-10-17",
+      "rotationApproved": false,
+      "publicationStatus": "review-pending",
+      "humanPlaythrough": "pending"
+    }
+  ]
+}

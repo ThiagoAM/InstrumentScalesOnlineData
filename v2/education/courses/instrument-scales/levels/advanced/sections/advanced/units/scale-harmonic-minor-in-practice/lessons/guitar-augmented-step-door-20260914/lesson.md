@@ -6,113 +6,67 @@ level: advanced
 section: advanced
 unit: scale-harmonic-minor-in-practice
 order: 11
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: The augmented-step door
-title.pt-BR: A porta da segunda aumentada
-title.es: La puerta de la segunda aumentada
-title.de: Die Tür der übermäßigen Sekunde
-title.ja: 増2度の扉
-title.zh-Hans: 增二度之门
-summary.en: Resolve G-sharp to A at the chord change after a clear augmented second.
-summary.pt-BR: Resolva sol sustenido em lá na troca de acorde após uma segunda aumentada clara.
-summary.es: Resuelve sol sostenido en la al cambiar de acorde tras una segunda aumentada clara.
-summary.de: Löse Gis beim Akkordwechsel nach A auf, nach einer klaren übermäßigen Sekunde.
-summary.ja: はっきりした増2度の後、コードの変わり目でG♯をAへ解決します。
-summary.zh-Hans: 清楚弹出增二度后，在和弦转换处把G♯解决到A。
+title.en: Reference in review · The augmented-step door
+title.pt-BR: Referência em revisão · A porta da segunda aumentada
+title.es: Referencia en revisión · La puerta de la segunda aumentada
+title.de: Referenz in Prüfung · Die Tür der übermäßigen Sekunde
+title.ja: 確認中の参照 · 増2度の扉
+title.zh-Hans: 审核中的参考 · 增二度之门
+summary.en: Original goal, physical practice under review: Resolve G-sharp to A at the chord change after a clear augmented second.
+summary.pt-BR: Objetivo original, prática física em revisão: Resolva sol sustenido em lá na troca de acorde após uma segunda aumentada clara.
+summary.es: Objetivo original, práctica física en revisión: Resuelve sol sostenido en la al cambiar de acorde tras una segunda aumentada clara.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Löse Gis beim Akkordwechsel nach A auf, nach einer klaren übermäßigen Sekunde.
+summary.ja: 元の目標（実技確認中）：はっきりした増2度の後、コードの変わり目でG♯をAへ解決します。
+summary.zh-Hans: 原目标（实体演奏待审）：清楚弹出增二度后，在和弦转换处把G♯解决到A。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# The augmented-step door
+# Reference in review · The augmented-step door
 
-Use seven minutes to open one harmonic door. Set 60 BPM in 4/4. In A harmonic minor, F is the sixth degree and G-sharp is the raised seventh; F–G-sharp spans three semitones, an augmented second. G-sharp–A is the following semitone. Sing those two distances before touching the guitar.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play two clean loops, land on A at each Am entrance, and name F–G-sharp as an augmented second and G-sharp–A as a semitone. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Use standard tuning and sounding pitches on the first, high E string: E4 open, F4 fret 1, G-sharp4 fret 4, A4 fret 5. Pick each note separately. Shift the hand toward fret 4 instead of forcing a stretch from fret 1; the printed fretboard is a location map, not a second rhythm.
-
-Play card A as two bars: F–G-sharp–E–G-sharp, then A held for two beats, E, A. Imagine E7 throughout bar one and Am throughout bar two, or record that accompaniment first. Over E7, E is the root, G-sharp the major third, and F a tense flat ninth. Over Am, A is the root and E the fifth.
-
-Spend two minutes hearing the first F as passing tension, not a resting place. Keep the last G-sharp on beat four and land on A exactly at the new bar. The jump F–G-sharp and the narrow G-sharp–A resolution should sound different. Record two loops; listen for a rushed shift or a late A.
-
-For the final two minutes, vary only the first bar’s third note between E4 and F4; keep every duration and the final G-sharp–A intact. If movement is uneven, lower the tempo to 48 BPM and repeat the original card. Do not remove F or replace G-sharp with G: both would erase today’s interval task.
-
-:::checkpoint Play two clean loops, land on A at each Am entrance, and name F–G-sharp as an augmented second and G-sharp–A as a semitone.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# A porta da segunda aumentada
+# Referência em revisão · A porta da segunda aumentada
 
-Use sete minutos para abrir uma porta harmônica. Ajuste 60 BPM em 4/4. Em lá menor harmônica, fá é o sexto grau e sol sustenido é o sétimo elevado; fá–sol sustenido tem três semitons, uma segunda aumentada. Sol sustenido–lá é o semitom seguinte. Cante essas duas distâncias antes de pegar a guitarra.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque dois ciclos limpos, chegue ao lá em cada entrada de Am e identifique fá–sol sustenido como segunda aumentada e sol sustenido–lá como semitom. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Use afinação padrão e alturas reais na primeira corda, mi agudo: E4 solta, F4 casa 1, G#4 casa 4 e A4 casa 5. Ataque cada nota separadamente. Desloque a mão até a casa 4 em vez de forçar a abertura desde a casa 1; o diagrama mostra posições, não um segundo ritmo.
-
-Toque o cartão A em dois compassos: fá–sol sustenido–mi–sol sustenido; depois lá por dois tempos, mi e lá. Imagine E7 no primeiro compasso e Am no segundo, ou grave esse acompanhamento antes. Em E7, mi é fundamental, sol sustenido é terça maior e fá é nona menor, uma tensão. Em Am, lá é fundamental e mi é quinta.
-
-Dedique dois minutos a ouvir o primeiro fá como tensão passageira, não como repouso. Mantenha o último sol sustenido no quarto tempo e chegue ao lá exatamente no novo compasso. O salto fá–sol sustenido e a resolução estreita sol sustenido–lá devem soar diferentes. Grave dois ciclos e procure uma mudança apressada ou um lá atrasado.
-
-Nos dois minutos finais, varie apenas a terceira nota do primeiro compasso entre E4 e F4; preserve todas as durações e o sol sustenido–lá final. Se o movimento oscilar, reduza para 48 BPM e repita o cartão original. Não retire fá nem substitua sol sustenido por sol: isso apagaria o intervalo praticado.
-
-:::checkpoint Toque dois ciclos limpos, chegue ao lá em cada entrada de Am e identifique fá–sol sustenido como segunda aumentada e sol sustenido–lá como semitom.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# La puerta de la segunda aumentada
+# Referencia en revisión · La puerta de la segunda aumentada
 
-Dedica siete minutos a abrir una puerta armónica. Ajusta 60 BPM en 4/4. En la menor armónica, fa es el sexto grado y sol sostenido el séptimo elevado; fa–sol sostenido abarca tres semitonos, una segunda aumentada. Sol sostenido–la es el semitono siguiente. Canta ambas distancias antes de tocar la guitarra.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca dos ciclos limpios, llega a la en cada entrada de Am y nombra fa–sol sostenido como segunda aumentada y sol sostenido–la como semitono. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Usa afinación estándar y alturas reales en la primera cuerda, mi agudo: E4 al aire, F4 traste 1, G#4 traste 4 y A4 traste 5. Pulsa cada nota por separado. Desplaza la mano hacia el traste 4 sin forzar la apertura desde el 1; el diagrama indica posiciones, no otro ritmo.
-
-Toca la tarjeta A en dos compases: fa–sol sostenido–mi–sol sostenido; después la durante dos pulsos, mi y la. Imagina E7 durante el primer compás y Am durante el segundo, o graba antes ese acompañamiento. En E7, mi es fundamental, sol sostenido tercera mayor y fa una novena menor tensa. En Am, la es fundamental y mi quinta.
-
-Durante dos minutos escucha el primer fa como tensión pasajera, no como reposo. Mantén el último sol sostenido en el cuarto pulso y llega a la justo en el nuevo compás. El salto fa–sol sostenido y la resolución estrecha sol sostenido–la deben sonar distintos. Graba dos ciclos y busca un desplazamiento apresurado o un la tardío.
-
-En los dos minutos finales cambia solo la tercera nota del primer compás entre E4 y F4; conserva las duraciones y el sol sostenido–la final. Si el movimiento pierde regularidad, baja a 48 BPM y repite la tarjeta original. No quites fa ni cambies sol sostenido por sol: borrarías el intervalo que estás practicando.
-
-:::checkpoint Toca dos ciclos limpios, llega a la en cada entrada de Am y nombra fa–sol sostenido como segunda aumentada y sol sostenido–la como semitono.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Die Tür der übermäßigen Sekunde
+# Referenz in Prüfung · Die Tür der übermäßigen Sekunde
 
-Nimm dir sieben Minuten für eine harmonische Tür. Stelle 60 BPM im 4/4-Takt ein. In A harmonisch Moll ist F die sechste Stufe und Gis die erhöhte siebte; F–Gis umfasst drei Halbtöne, eine übermäßige Sekunde. Gis–A ist der anschließende Halbton. Singe beide Abstände, bevor du die Gitarre nimmst.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele zwei saubere Schleifen, erreiche A bei jedem Am-Einsatz und benenne F–Gis als übermäßige Sekunde und Gis–A als Halbton. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Nutze Standardstimmung und klingende Tonhöhen auf der ersten, hohen E-Saite: E4 leer, F4 Bund 1, Gis4 Bund 4, A4 Bund 5. G# in der Karte bedeutet Gis. Schlage jeden Ton einzeln an. Versetze die Hand zu Bund 4, statt von Bund 1 aus zu spreizen; das Griffbrett zeigt Orte, keinen zweiten Rhythmus.
-
-Spiele Karte A als zwei Takte: F–Gis–E–Gis, dann A zwei Schläge lang, E und A. Stelle dir im ersten Takt E7 und im zweiten Am vor oder nimm diese Begleitung vorher auf. Über E7 ist E der Grundton, Gis die große Terz und F eine spannungsreiche kleine None. Über Am ist A der Grundton und E die Quinte.
-
-Höre zwei Minuten lang das erste F als vorübergehende Spannung, nicht als Ruhepunkt. Lass das letzte Gis auf Schlag vier und lande genau zum neuen Takt auf A. Der Sprung F–Gis und die enge Auflösung Gis–A sollen verschieden klingen. Nimm zwei Schleifen auf; suche nach einem hastigen Lagenwechsel oder verspäteten A.
-
-Variiere in den letzten zwei Minuten nur den dritten Ton des ersten Taktes zwischen E4 und F4; behalte alle Dauern und das abschließende Gis–A. Wird die Bewegung ungleichmäßig, gehe auf 48 BPM und wiederhole die Originalkarte. Entferne weder F noch ersetze Gis durch G: Sonst verschwindet die heutige Intervallaufgabe.
-
-:::checkpoint Spiele zwei saubere Schleifen, erreiche A bei jedem Am-Einsatz und benenne F–Gis als übermäßige Sekunde und Gis–A als Halbton.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 増2度の扉
+# 確認中の参照 · 増2度の扉
 
-7分で一つの和声の扉を開きます。4/4拍子、60 BPMに設定します。AハーモニックマイナーではFが第6音、G♯が上げた第7音です。F–G♯は半音3個分の増2度で、その次のG♯–Aは半音です。ギターを持つ前に、この二つの距離を歌い、広い跳躍と狭い動きを区別しましょう。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：2周を正確に弾き、毎回Amの始まりでAへ着地し、F–G♯を増2度、G♯–Aを半音と答える。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-標準チューニングで、音名は実音を使います。高いEの1弦でE4は開放、F4は1フレット、G♯4は4フレット、A4は5フレットです。各音を別々に弾きます。1フレットから無理に指を広げず、手を4フレットへ移動します。指板図は位置の案内で、別のリズムではありません。
-
-カードAは2小節です。最初はF–G♯–E–G♯、次はAを2拍、EとAを各1拍弾きます。1小節目はE7、2小節目はAmを想像するか、先に伴奏を録音します。E7に対してEはルート、G♯は長3度、Fは緊張を作る短9度です。AmではAがルート、Eが5度です。
-
-2分間、最初のFを落ち着く場所ではなく一時的な緊張として聴きます。最後のG♯を4拍目に保ち、新しい小節の頭で正確にAへ着地します。F–G♯の跳躍とG♯–Aの狭い解決を聴き分けましょう。2周録音し、移動を急いだ箇所やAが遅れた箇所を確認します。
-
-最後の2分は、1小節目の3音目だけをE4とF4の間で変えます。すべての音価と最後のG♯–Aは保ちます。動きが不均等なら48 BPMに下げ、元のカードを反復します。Fを省いたりG♯をGに変えたりしないでください。どちらも今日練習する音程を失わせます。
-
-:::checkpoint 2周を正確に弾き、毎回Amの始まりでAへ着地し、F–G♯を増2度、G♯–Aを半音と答える。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 增二度之门
+# 审核中的参考 · 增二度之门
 
-用七分钟打开一扇和声之门。设为4/4拍、60 BPM。在A和声小调中，F是第六级，G♯是升高的第七级；F到G♯相隔三个半音，是增二度。随后的G♯到A只相隔一个半音。拿起吉他之前，先唱出这两种距离，听清较大的跳进和紧接着的小步解决。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹好两轮，每次Am开始时都落到A，并说出F–G♯是增二度、G♯–A是半音。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-使用标准定弦，音名表示实际音高。在最高的E一弦上，E4为空弦，F4在第1品，G♯4在第4品，A4在第5品。每个音都单独拨弦。把手移向第4品，不要从第1品勉强伸开手指。指板图只用于寻找位置，不表示另一种节奏。
-
-把卡片A弹成两个小节：第一小节F–G♯–E–G♯，第二小节A持续两拍，然后E、A各一拍。第一小节想象E7，第二小节想象Am，也可以预先录好伴奏。在E7上，E是根音，G♯是大三度，F是带有张力的小九度。在Am上，A是根音，E是五度。
-
-花两分钟把开头的F听成短暂张力，而不是停靠点。最后一个G♯保持在第四拍，新小节第一拍准确落到A。F到G♯的跳进和G♯到A的半音解决应有明显区别。录下两轮，回听移位是否仓促，以及A是否迟到；下一轮只修正发现的问题。
-
-最后两分钟，只把第一小节的第三个音在E4与F4之间改变；所有时值和结尾的G♯–A都保持原样。动作不均匀就降到48 BPM，重弹原卡片。不要删去F，也不要把G♯换成G，否则会丢失今天要练的音程关系。
-
-:::checkpoint 完整弹好两轮，每次Am开始时都落到A，并说出F–G♯是增二度、G♯–A是半音。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -122,11 +76,4 @@ title: A
 instrument: guitar
 tempo: 60
 sequence: F4/1 G#4/1 E4/1 G#4/1 A4/2 E4/1 A4/1
-```
-
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 0-5
-positions: 1:0 E, 1:1 F, 1:4 G#, 1:5 A
-sequence: F-G#-E-G# | A-E-A
 ```

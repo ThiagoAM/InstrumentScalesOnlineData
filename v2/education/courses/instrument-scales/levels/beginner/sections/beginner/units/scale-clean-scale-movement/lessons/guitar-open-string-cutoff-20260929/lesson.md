@@ -6,113 +6,67 @@ level: beginner
 section: beginner
 unit: scale-clean-scale-movement
 order: 11
-revision: 1
-estimatedMinutes: 6
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Stop the ringing trail
-title.pt-BR: Corte o rastro sonoro
-title.es: Corta el rastro sonoro
-title.de: Stoppe die Klangspur
-title.ja: 開放弦の余韻を止める
-title.zh-Hans: 切断空弦余音
-summary.en: Mute each open string before the next E minor pentatonic note sounds.
-summary.pt-BR: Abafe cada corda solta antes da próxima nota da pentatônica de mi menor.
-summary.es: Apaga cada cuerda al aire antes de la siguiente nota pentatónica de mi menor.
-summary.de: Dämpfe jede leere Saite vor dem nächsten Ton der E-Moll-Pentatonik.
-summary.ja: Eマイナー・ペンタトニックで、次の音の前に開放弦を止めます。
-summary.zh-Hans: 在E小调五声音阶中，下一音响起前止住空弦。
+title.en: Reference in review · Stop the ringing trail
+title.pt-BR: Referência em revisão · Corte o rastro sonoro
+title.es: Referencia en revisión · Corta el rastro sonoro
+title.de: Referenz in Prüfung · Stoppe die Klangspur
+title.ja: 確認中の参照 · 開放弦の余韻を止める
+title.zh-Hans: 审核中的参考 · 切断空弦余音
+summary.en: Original goal, physical practice under review: Mute each open string before the next E minor pentatonic note sounds.
+summary.pt-BR: Objetivo original, prática física em revisão: Abafe cada corda solta antes da próxima nota da pentatônica de mi menor.
+summary.es: Objetivo original, práctica física en revisión: Apaga cada cuerda al aire antes de la siguiente nota pentatónica de mi menor.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Dämpfe jede leere Saite vor dem nächsten Ton der E-Moll-Pentatonik.
+summary.ja: 元の目標（実技確認中）：Eマイナー・ペンタトニックで、次の音の前に開放弦を止めます。
+summary.zh-Hans: 原目标（实体演奏待审）：在E小调五声音阶中，下一音响起前止住空弦。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Stop the ringing trail
+# Reference in review · Stop the ringing trail
 
-Spend six minutes making a single-note trail with no ringing leftovers. Set 4/4 at 60 BPM in standard E–A–D–G–B–E tuning. E4, G3 and A3 belong to E minor pentatonic; this is a melody, not a chord.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Record four bars at 60 BPM with no previous open string audible under the next note. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-String 1 is the thinnest. Play E4 on open string 1, G3 on open string 3, A3 on string 3 fret 2, then E4 again. Use one quarter note per beat. First locate the notes slowly without the click.
-
-For two minutes, play the card with the click. When leaving an open string, lightly touch it with a free picking-hand finger before sounding the next string. Do not press it against a fret or create another pitch.
-
-Listen for only one pitch at a time. Give yourself a point for a full bar with no lingering E or G underneath the next note. Keep attacks gentle and equally loud; muting must not become a loud slap.
-
-Use 48 BPM if the touch arrives late; retain both open strings and the cross-string jumps. Restore 60 BPM and record four bars. Listen back for four clean trails, including the last E of one bar moving to the first E of the next.
-
-:::checkpoint Record four bars at 60 BPM with no previous open string audible under the next note.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Corte o rastro sonoro
+# Referência em revisão · Corte o rastro sonoro
 
-Passe seis minutos criando uma trilha de notas sem sobras sonoras. Use 4/4 a 60 BPM e afinação padrão E–A–D–G–B–E. E4, G3 e A3 pertencem à pentatônica de mi menor; toque uma melodia, não um acorde.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Grave quatro compassos a 60 BPM sem corda solta anterior soando sob a próxima nota. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A corda 1 é a mais fina. Toque E4 na corda 1 solta, G3 na corda 3 solta, A3 na corda 3 casa 2 e volte a E4. Cada nota dura uma semínima. Localize as notas devagar, sem metrônomo.
-
-Por dois minutos, toque o cartão com o clique. Ao sair de uma corda solta, encoste nela um dedo livre da mão que toca antes de soar a próxima corda. Não pressione contra uma casa nem produza outra altura.
-
-Ouça uma altura por vez. Ganhe um ponto por compasso sem E ou G sobrando por baixo da nota seguinte. Mantenha ataques leves e com volume igual; o abafamento não deve virar uma batida forte.
-
-Se o toque chegar tarde, use 48 BPM mantendo as duas cordas soltas e os saltos entre cordas. Volte a 60 BPM e grave quatro compassos. Confira quatro trilhas limpas, inclusive a passagem do último E para o primeiro E seguinte.
-
-:::checkpoint Grave quatro compassos a 60 BPM sem corda solta anterior soando sob a próxima nota.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Corta el rastro sonoro
+# Referencia en revisión · Corta el rastro sonoro
 
-Dedica seis minutos a una línea sin notas que sigan resonando. Usa 4/4 a 60 BPM y afinación estándar E–A–D–G–B–E. E4, G3 y A3 pertenecen a la pentatónica de mi menor; es una melodía, no un acorde.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Graba cuatro compases a 60 BPM sin que la cuerda al aire anterior suene bajo la siguiente nota. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La cuerda 1 es la más fina. Toca E4 en la cuerda 1 al aire, G3 en la cuerda 3 al aire, A3 en la cuerda 3 traste 2 y vuelve a E4. Una negra por pulso. Localiza primero las notas lentamente, sin metrónomo.
-
-Durante dos minutos toca con el clic. Al dejar una cuerda al aire, tócala suavemente con un dedo libre de la mano que pulsa antes de hacer sonar la siguiente cuerda. No la aprietes contra un traste ni produzcas otra altura.
-
-Escucha una sola altura a la vez. Gana un punto por compás sin E o G residual debajo de la nota siguiente. Mantén ataques suaves y volumen uniforme; apagar la cuerda no debe producir un golpe fuerte.
-
-Si llegas tarde, baja a 48 BPM conservando las dos cuerdas al aire y los saltos. Vuelve a 60 BPM y graba cuatro compases. Comprueba cuatro líneas limpias, incluido el último E que pasa al primer E siguiente.
-
-:::checkpoint Graba cuatro compases a 60 BPM sin que la cuerda al aire anterior suene bajo la siguiente nota.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Stoppe die Klangspur
+# Referenz in Prüfung · Stoppe die Klangspur
 
-Arbeite sechs Minuten an einer einstimmigen Spur ohne nachklingende Reste. Nutze 4/4 bei 60 BPM und Standardstimmung E–A–D–G–B–E. E4, G3 und A3 gehören zur E-Moll-Pentatonik; spiele eine Melodie, keinen Akkord.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Nimm vier Takte bei 60 BPM auf, ohne eine vorherige leere Saite unter dem nächsten Ton. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Saite 1 ist die dünnste. Spiele E4 auf der leeren Saite 1, G3 auf der leeren Saite 3, A3 auf Saite 3 in Bund 2 und wieder E4. Ein Viertel pro Schlag. Suche die Töne zuerst langsam ohne Klick.
-
-Spiele zwei Minuten mit Klick. Berühre beim Verlassen einer leeren Saite diese sanft mit einem freien Finger der Anschlaghand, bevor die nächste Saite erklingt. Drücke sie nicht auf einen Bund und erzeuge keinen neuen Ton.
-
-Höre jeweils nur einen Ton. Ein Punkt zählt für jeden Takt ohne nachklingendes E oder G unter dem Folgeton. Halte die Anschläge leise und gleich laut; das Dämpfen soll keinen lauten Schlag erzeugen.
-
-Kommt die Berührung zu spät, nutze 48 BPM und behalte beide leeren Saiten und die Saitensprünge. Kehre zu 60 BPM zurück und nimm vier Takte auf. Prüfe vier saubere Spuren, auch den Übergang vom letzten E zur nächsten ersten E-Note.
-
-:::checkpoint Nimm vier Takte bei 60 BPM auf, ohne eine vorherige leere Saite unter dem nächsten Ton.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 開放弦の余韻を止める
+# 確認中の参照 · 開放弦の余韻を止める
 
-6分間で、前の音が残らない単音の道を作ります。4/4拍、60 BPM、標準調弦E–A–D–G–B–Eです。E4、G3、A3はEマイナー・ペンタトニックの音。和音ではなく旋律として弾きます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：60 BPMで4小節録音し、次の音の下に前の開放弦が残らないようにします。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-1弦が最も細い弦です。1弦開放のE4、3弦開放のG3、3弦2フレットのA3、再びE4を弾きます。各音は4分音符1つ。まずクリックなしでゆっくり位置を確認します。
-
-2分間クリックに合わせます。開放弦から離れるとき、右手の空いている指でその弦に軽く触れてから、次の弦を鳴らします。フレットに押しつけたり別の音を出したりしないでください。
-
-一度に1つの高さだけが聞こえるか確認します。次の音の下にEやGが残らない小節で1点。各音を軽く同じ音量で弾き、消音の動作を大きな打音にしないようにします。
-
-触れるのが遅ければ48 BPMへ下げ、2本の開放弦と弦移動は残します。60 BPMに戻して4小節録音。前の小節の最後のEから次の最初のEへの移行も含め、4つのきれいな道を確認します。
-
-:::checkpoint 60 BPMで4小節録音し、次の音の下に前の開放弦が残らないようにします。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 切断空弦余音
+# 审核中的参考 · 切断空弦余音
 
-用六分钟练出没有残留余音的单音路线。设4/4拍、60 BPM，使用E–A–D–G–B–E标准调弦。E4、G3、A3属于E小调五声音阶；弹成旋律，不要叠成和弦。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：以60 BPM录四小节，下一音下方不应听到上一根空弦。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1弦最细。依次弹第1弦空弦E4、第3弦空弦G3、第3弦第2品A3，再回到E4。每拍一个四分音符。先关掉节拍器，慢慢找到位置。
-
-跟着节拍器弹两分钟。离开空弦时，用拨弦手空闲的手指轻触它，再弹下一根弦。不要把弦压到品上，也不要制造另一个音高。
-
-听清每次只有一个音高。每小节若下一音下面没有残留的E或G，就得一分。起音要轻，音量保持一致；止音动作不应变成响亮的拍击。
-
-如果触弦太迟，降到48 BPM，仍保留两根空弦和跨弦跳跃。恢复60 BPM，录四小节。检查四条干净的路线，也检查上一小节末尾E与下一小节开头E的连接。
-
-:::checkpoint 以60 BPM录四小节，下一音下方不应听到上一根空弦。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -122,11 +76,4 @@ title: Stop the ringing trail
 instrument: guitar
 tempo: 60
 sequence: E4/1 G3/1 A3/1 E4/1
-```
-
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 0-2
-positions: 1:0 E, 3:0 G, 3:2 A
-sequence: E-G-A-E
 ```

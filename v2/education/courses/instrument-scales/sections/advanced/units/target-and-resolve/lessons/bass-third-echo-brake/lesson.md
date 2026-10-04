@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 36
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass third echo brake
-title.pt-BR: Freio com eco de terças no baixo
-title.es: Freno con eco de terceras en bajo
-title.de: Bass-Terz-Echo-Bremse
-title.ja: ベース・サード・エコー・ブレーキ
-title.zh-Hans: 贝斯三音回声刹车
-summary.en: Hit the chord third hard, then leave space around it so the groove feels deeper instead of busier.
-summary.pt-BR: Ataque a terça do acorde com firmeza e depois deixe espaço ao redor dela para que o groove fique mais fundo, não mais cheio.
-summary.es: Golpea con fuerza la tercera del acorde y luego deja espacio a su alrededor para que el groove se sienta más profundo y no más cargado.
-summary.de: Treffe die Akkordterz deutlich und lasse dann Raum darum, damit der Groove tiefer statt voller wirkt.
-summary.ja: コードの3度を強く当て、その周りに空間を残して、忙しさではなく深いグルーヴを作ります。
-summary.zh-Hans: 把和弦三音重重落下，再在周围留出空间，让 groove 更深，而不是更满。
+title.en: Reference in review · Bass third echo brake
+title.pt-BR: Referência em revisão · Freio com eco de terças no baixo
+title.es: Referencia en revisión · Freno con eco de terceras en bajo
+title.de: Referenz in Prüfung · Bass-Terz-Echo-Bremse
+title.ja: 確認中の参照 · ベース・サード・エコー・ブレーキ
+title.zh-Hans: 审核中的参考 · 贝斯三音回声刹车
+summary.en: Original goal, physical practice under review: Hit the chord third hard, then leave space around it so the groove feels deeper instead of busier.
+summary.pt-BR: Objetivo original, prática física em revisão: Ataque a terça do acorde com firmeza e depois deixe espaço ao redor dela para que o groove fique mais fundo, não mais cheio.
+summary.es: Objetivo original, práctica física en revisión: Golpea con fuerza la tercera del acorde y luego deja espacio a su alrededor para que el groove se sienta más profundo y no más cargado.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Treffe die Akkordterz deutlich und lasse dann Raum darum, damit der Groove tiefer statt voller wirkt.
+summary.ja: 元の目標（実技確認中）：コードの3度を強く当て、その周りに空間を残して、忙しさではなく深いグルーヴを作ります。
+summary.zh-Hans: 原目标（实体演奏待审）：把和弦三音重重落下，再在周围留出空间，让 groove 更深，而不是更满。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass third echo brake
+# Reference in review · Bass third echo brake
 
-Loop **| Dm7 | G7 | Cmaj7 | A7 |** at **94 bpm**. Your hero notes are the **3rds**: **F, B, E, C#**. The twist is that each target lands on **beat 1**, then you leave **beat 2 empty** like a dramatic brake pedal.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one 4-bar cycle with F, B, E, and C# on beat 1, an intentional rest on beat 2, and solid returns to the roots on beat 3. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 builds the frame: play the target on beat 1, rest on beat 2, answer with the root on beat 3, and add one eighth-note pickup into beat 4. Try **F - D A**, **B - G D**, **E - C G**, **C# - A E**. The silence on beat 2 should feel intentional, not lost.
-
-Round 2 makes the brake sharper. In bars 2 and 4, choke beat 1 a little shorter so the empty beat 2 feels wider. In bars 1 and 3, let the target ring longer, then snap back to the root cleanly on beat 3. Pocket first, cleverness second.
-
-Boss round: play two choruses where chorus 1 keeps the exact rhythm and chorus 2 changes only the beat-4 pickup notes. If the second chorus sounds louder but less clear, you traded groove for clutter. Undo that trade.
-
-:::checkpoint Play one 4-bar cycle with F, B, E, and C# on beat 1, an intentional rest on beat 2, and solid returns to the roots on beat 3.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Freio com eco de terças no baixo
+# Referência em revisão · Freio com eco de terças no baixo
 
-Faça um loop em **| Dm7 | G7 | Cmaj7 | A7 |** a **94 bpm**. Suas notas heroínas são as **3as**: **F, B, E, C#**. A virada é que cada alvo cai no **tempo 1** e depois você deixa o **tempo 2 vazio** como um freio dramático.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque um ciclo de 4 compassos com F, B, E e C# no tempo 1, uma pausa intencional no tempo 2 e retornos firmes às tônicas no tempo 3. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A Rodada 1 monta a estrutura: toque o alvo no tempo 1, faça pausa no tempo 2, responda com a tônica no tempo 3 e adicione uma colcheia de preparação até o tempo 4. Experimente **F - D A**, **B - G D**, **E - C G**, **C# - A E**. O silêncio do tempo 2 precisa soar intencional, não perdido.
-
-A Rodada 2 deixa o freio mais afiado. Nos compassos 2 e 4, corte um pouco mais curto o tempo 1 para o vazio do tempo 2 parecer maior. Nos compassos 1 e 3, deixe o alvo soar mais e depois volte limpo para a tônica no tempo 3. Pocket primeiro, esperteza depois.
-
-Rodada chefão: toque dois choruses em que o chorus 1 mantém o ritmo exato e o chorus 2 muda apenas as notas de preparação do tempo 4. Se o segundo chorus soar mais alto, mas menos claro, você trocou groove por bagunça. Desfaça essa troca.
-
-:::checkpoint Toque um ciclo de 4 compassos com F, B, E e C# no tempo 1, uma pausa intencional no tempo 2 e retornos firmes às tônicas no tempo 3.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Freno con eco de terceras en bajo
+# Referencia en revisión · Freno con eco de terceras en bajo
 
-Pon en loop **| Dm7 | G7 | Cmaj7 | A7 |** a **94 bpm**. Tus notas heroínas son las **3as**: **F, B, E, C#**. El giro es que cada objetivo cae en el **tiempo 1** y luego dejas el **tiempo 2 vacío** como un freno dramático.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca un ciclo de 4 compases con F, B, E y C# en el tiempo 1, un silencio intencional en el tiempo 2 y regresos firmes a las fundamentales en el tiempo 3. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La Ronda 1 construye la estructura: toca el objetivo en el tiempo 1, deja silencio en el tiempo 2, responde con la fundamental en el tiempo 3 y añade una corchea de preparación hacia el tiempo 4. Prueba **F - D A**, **B - G D**, **E - C G**, **C# - A E**. El silencio del tiempo 2 debe sentirse intencional, no perdido.
-
-La Ronda 2 hace el freno más seco. En los compases 2 y 4, corta un poco antes el tiempo 1 para que el vacío del tiempo 2 se sienta más amplio. En los compases 1 y 3, deja sonar más el objetivo y luego vuelve con limpieza a la fundamental en el tiempo 3. Primero el pocket, después la astucia.
-
-Ronda jefe: toca dos coros donde el coro 1 mantiene el ritmo exacto y el coro 2 cambia solo las notas de preparación del tiempo 4. Si el segundo coro suena más fuerte pero menos claro, cambiaste groove por desorden. Deshaz ese trato.
-
-:::checkpoint Toca un ciclo de 4 compases con F, B, E y C# en el tiempo 1, un silencio intencional en el tiempo 2 y regresos firmes a las fundamentales en el tiempo 3.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass-Terz-Echo-Bremse
+# Referenz in Prüfung · Bass-Terz-Echo-Bremse
 
-Loope **| Dm7 | G7 | Cmaj7 | A7 |** bei **94 bpm**. Deine Heldentöne sind die **Terzen**: **F, B, E, C#**. Der Kniff ist, dass jeder Zielton auf **Schlag 1** landet und du dann **Schlag 2 leer lässt** wie ein dramatisches Bremspedal.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen 4-Takt-Zyklus mit F, B, E und C# auf Schlag 1, einer bewussten Pause auf Schlag 2 und stabilen Rückkehrern zu den Grundtönen auf Schlag 3. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1 baut den Rahmen: Spiele den Zielton auf Schlag 1, pausiere auf Schlag 2, antworte auf Schlag 3 mit dem Grundton und füge vor Schlag 4 einen Achtel-Auftakt hinzu. Probiere **F - D A**, **B - G D**, **E - C G**, **C# - A E**. Die Stille auf Schlag 2 soll gewollt und nicht verloren wirken.
-
-Runde 2 macht die Bremse schärfer. In Takt 2 und 4 kürzt du Schlag 1 etwas mehr, damit der leere Schlag 2 größer wirkt. In Takt 1 und 3 darf der Zielton länger klingen, bevor du sauber auf Schlag 3 zum Grundton zurückspringst. Erst Pocket, dann Cleverness.
-
-Boss-Runde: Spiele zwei Chorusse, wobei Chorus 1 den exakten Rhythmus behält und Chorus 2 nur die Auftakttöne vor Schlag 4 ändert. Wenn Chorus 2 lauter, aber unklarer klingt, hast du Groove gegen Gerümpel getauscht. Nimm den Tausch zurück.
-
-:::checkpoint Spiele einen 4-Takt-Zyklus mit F, B, E und C# auf Schlag 1, einer bewussten Pause auf Schlag 2 und stabilen Rückkehrern zu den Grundtönen auf Schlag 3.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベース・サード・エコー・ブレーキ
+# 確認中の参照 · ベース・サード・エコー・ブレーキ
 
-**| Dm7 | G7 | Cmaj7 | A7 |** を **94 bpm** でループします。主役の音は各コードの **3度**、**F, B, E, C#** です。ひねりは、各ターゲットを **1拍目** に置いたあと、**2拍目を空ける** ことでドラマチックなブレーキを作る点です。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：4小節を通して、F・B・E・C# を1拍目に置き、2拍目に意図的な休みを作り、3拍目でルートへしっかり戻りましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1では骨組みを作ります。1拍目にターゲット、2拍目は休み、3拍目にルートで返し、4拍目へ向かう8分音符のピックアップを1つ加えます。まずは **F - D A**、**B - G D**、**E - C G**、**C# - A E** を試してください。2拍目の沈黙は迷子ではなく、意図として聞こえる必要があります。
-
-ラウンド2ではブレーキをさらに鋭くします。2小節目と4小節目では1拍目を少し短く切り、2拍目の空白を広く感じさせます。1小節目と3小節目ではターゲットを少し長く響かせ、そのあと3拍目でルートへきれいに戻ります。賢さより先にポケットです。
-
-ボスラウンドでは2コーラス弾きます。1コーラス目はリズムを完全に同じまま保ち、2コーラス目では4拍目のピックアップ音だけを変えます。2コーラス目が大きいだけで輪郭がぼやけたら、グルーヴを散らかりと交換してしまっています。元に戻しましょう。
-
-:::checkpoint 4小節を通して、F・B・E・C# を1拍目に置き、2拍目に意図的な休みを作り、3拍目でルートへしっかり戻りましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯三音回声刹车
+# 审核中的参考 · 贝斯三音回声刹车
 
-把 **| Dm7 | G7 | Cmaj7 | A7 |** 设成 **94 bpm** 循环。你的英雄音是各和弦的 **三音**：**F、B、E、C#**。诀窍是每个目标都落在 **第1拍**，然后把 **第2拍空出来**，像狠狠踩一下刹车。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹一轮4小节，让 F、B、E、C# 落在第1拍，第2拍故意留空，并在第3拍稳稳回到根音。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮先搭框架：第1拍弹目标音，第2拍休止，第3拍用根音回应，再在第4拍前加一个八分音符起势。先试 **F - D A**、**B - G D**、**E - C G**、**C# - A E**。第2拍的安静必须听起来是故意的，不是丢拍。
-
-第2轮让刹车更利落。第2和第4小节把第1拍收得更短一点，让第2拍的空白更宽。第1和第3小节则让目标音多响一下，再在第3拍干净地回到根音。先要 pocket，再谈小聪明。
-
-Boss 轮：弹两个完整 chorus。第1个 chorus 保持完全相同的节奏，第2个 chorus 只更换第4拍前的起势音。如果第2个 chorus 听起来更响却更不清楚，那你就是拿 groove 去换杂乱了。把这笔交易撤回。
-
-:::checkpoint 完整弹一轮4小节，让 F、B、E、C# 落在第1拍，第2拍故意留空，并在第3拍稳稳回到根音。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -110,14 +76,4 @@ title: Third echo brake
 instrument: bass
 tempo: 94
 sequence: F2 - D2 A2 B1 - G1 D2 E2 - C2 G2 C#2 - A1 E2
-```
-
-```fretboard
-id: bass-third-echo-brake-map
-title: Beat-one third targets
-instrument: bass
-tuning: E1 A1 D2 G2
-frets: 2-9
-tempo: 94
-positions: 2:8 2:5 1:5 1:2 1:10 1:5 1:10 1:3 2:10 1:4 1:9 2:7
 ```

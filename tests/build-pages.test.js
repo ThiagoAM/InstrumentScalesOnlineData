@@ -5,13 +5,33 @@ const path = require("node:path");
 const { execFileSync } = require("node:child_process");
 
 const root = path.join(__dirname, "..");
-const dist = path.join(root, "dist");
+const scratch = fs.mkdtempSync(
+  path.join(require("node:os").tmpdir(), "pages-build-fixture-"),
+);
+const fixtureRoot = path.join(scratch, "repo"),
+  stateRoot = path.join(scratch, "state");
+fs.mkdirSync(fixtureRoot);
+for (const name of ["v1", "v2", "editorial", "scripts", "site"])
+  fs.cpSync(path.join(root, name), path.join(fixtureRoot, name), {
+    recursive: true,
+  });
+const dist = path.join(fixtureRoot, "dist");
+test.after(() => fs.rmSync(scratch, { recursive: true }));
 
 test("Pages publishes only V2 education and retains home/toggles", () => {
-  execFileSync(process.execPath, [path.join(root, "scripts", "build-pages.js")], {
-    cwd: root,
-    stdio: "pipe",
-  });
+  execFileSync(
+    process.execPath,
+    [path.join(root, "scripts", "build-pages.js"), "--review-snapshot"],
+    {
+      cwd: root,
+      stdio: "pipe",
+      env: {
+        ...process.env,
+        EDITORIAL_REPOSITORY_ROOT: fixtureRoot,
+        EDITORIAL_STATE_ROOT: stateRoot,
+      },
+    },
+  );
 
   const requiredFiles = [
     "v1/home/home.json",
@@ -35,6 +55,30 @@ test("Pages publishes only V2 education and retains home/toggles", () => {
   }
 
   assert.equal(fs.existsSync(path.join(dist, "v1/education")), false);
+  assert.equal(fs.existsSync(path.join(dist, "editorial")), false);
+  const snapshot = JSON.parse(
+    fs.readFileSync(path.join(dist, "snapshot.json"), "utf8"),
+  );
+  assert.equal(snapshot.publicationStatus, "review-pending");
+  const published = JSON.parse(
+    fs.readFileSync(path.join(dist, "v2/education/paths.json"), "utf8"),
+  );
+  for (const p of published.paths) {
+    assert.equal(p.publicationStatus, "approved");
+    assert.equal(p.humanPlaythrough, "approved");
+    for (const l of p.units.flatMap((u) => u.placements))
+      assert.equal(
+        require("../scripts/audit-swift-parser").sha(
+          fs.readFileSync(path.join(dist, "v2/education", l.path)),
+        ),
+        p.approval.documentSHA256[l.contentKey],
+      );
+  }
+  if (fs.existsSync(path.join(root, "site/instrument-scales")))
+    assert.ok(
+      fs.existsSync(path.join(dist, "instrument-scales")),
+      "Local review may show prepared commercial source.",
+    );
   const v2Catalog = JSON.parse(
     fs.readFileSync(
       path.join(dist, "v2/education/courses/instrument-scales/catalog.json"),
@@ -57,11 +101,14 @@ test("Pages publishes only V2 education and retains home/toggles", () => {
     ["chords-harmony", harmonyCatalog],
   ]) {
     const relativeCourse = path.join("v2", "education", "courses", courseID);
-    const sourceCatalog = JSON.parse(fs.readFileSync(
-      path.join(root, relativeCourse, "catalog.json"), "utf8",
-    ));
-    assert.deepEqual(publishedCatalog, sourceCatalog,
-      `${courseID} must publish the complete current catalog`);
+    const sourceCatalog = JSON.parse(
+      fs.readFileSync(path.join(root, relativeCourse, "catalog.json"), "utf8"),
+    );
+    assert.deepEqual(
+      publishedCatalog,
+      sourceCatalog,
+      `${courseID} must publish the complete current catalog`,
+    );
     for (const section of sourceCatalog.sections) {
       for (const unit of section.units) {
         for (const lesson of unit.lessons) {
@@ -75,8 +122,8 @@ test("Pages publishes only V2 education and retains home/toggles", () => {
       }
     }
   }
-  assert.deepEqual(courseIndex.courses.map((course) => course.id), [
-    "instrument-scales",
-    "chords-harmony",
-  ]);
+  assert.deepEqual(
+    courseIndex.courses.map((course) => course.id),
+    ["instrument-scales", "chords-harmony"],
+  );
 });

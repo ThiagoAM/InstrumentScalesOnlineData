@@ -6,125 +6,69 @@ level: intermediate
 section: intermediate
 unit: position-bridges
 order: 5
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar position comet lift
-title.pt-BR: Subida de cometa entre posições na guitarra
-title.es: Ascenso de cometa entre posiciones en guitarra
-title.de: Gitarren-Positions-Kometenstart
-title.ja: ギター・ポジション彗星リフト
-title.zh-Hans: 吉他把位彗星上升
-summary.en: Carry one bright G-major scale idea from 3rd to 7th position and return without losing direction or pulse.
-summary.pt-BR: Leve uma ideia brilhante de Sol maior da 3ª para a 7ª posição e volte sem perder direção nem pulso.
-summary.es: Lleva una idea brillante de Sol mayor desde 3ª hasta 7ª posición y regresa sin perder dirección ni pulso.
-summary.de: Trage eine helle G-Dur-Idee von der 3. in die 7. Lage und zurück, ohne Richtung oder Puls zu verlieren.
-summary.ja: 明るいGメジャーのアイデアを3ポジションから7ポジションへ運び、方向感と拍を失わずに戻ります。
-summary.zh-Hans: 把一个明亮的G大调想法从第3把位带到第7把位再带回来，同时不丢掉方向感和节拍。
+title.en: Reference in review · Guitar position comet lift
+title.pt-BR: Referência em revisão · Subida de cometa entre posições na guitarra
+title.es: Referencia en revisión · Ascenso de cometa entre posiciones en guitarra
+title.de: Referenz in Prüfung · Gitarren-Positions-Kometenstart
+title.ja: 確認中の参照 · ギター・ポジション彗星リフト
+title.zh-Hans: 审核中的参考 · 吉他把位彗星上升
+summary.en: Original goal, physical practice under review: Carry one bright G-major scale idea from 3rd to 7th position and return without losing direction or pulse.
+summary.pt-BR: Objetivo original, prática física em revisão: Leve uma ideia brilhante de Sol maior da 3ª para a 7ª posição e volte sem perder direção nem pulso.
+summary.es: Objetivo original, práctica física en revisión: Lleva una idea brillante de Sol mayor desde 3ª hasta 7ª posición y regresa sin perder dirección ni pulso.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Trage eine helle G-Dur-Idee von der 3. in die 7. Lage und zurück, ohne Richtung oder Puls zu verlieren.
+summary.ja: 元の目標（実技確認中）：明るいGメジャーのアイデアを3ポジションから7ポジションへ運び、方向感と拍を失わずに戻ります。
+summary.zh-Hans: 原目标（实体演奏待审）：把一个明亮的G大调想法从第3把位带到第7把位再带回来，同时不丢掉方向感和节拍。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar position comet lift
+# Reference in review · Guitar position comet lift
 
-Set a loop in **G major** at **86 bpm** and begin in **3rd position**. The image is a comet lift: the line gathers light low on the neck, flashes upward, then returns before the trail disappears.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one 4-bar G-major phrase that moves from 3rd to 7th position and back with an even pulse and one smooth audible slide. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 is the **launch pad**. Stay low and play **G-A-B-D** on strings 6, 5, and 4 until every note lands with the same weight. Do not rush the skip to D; it is the fuel for the climb.
-
-Round 2 is the **lift**. After that low D, slide with your second finger to **E** in 7th position and continue **E-F#-G-A** on the upper strings. The slide must sound like one long breath, not like you stopped to ask for directions.
-
-Round 3 is the **glow back home**. Descend **A-G-F#-E**, then reconnect to **D-B-A-G** in 3rd position. Keep the return as intentional as the ascent so the whole phrase sounds designed instead of patched together.
-
-Challenge round: make a 4-bar phrase where bar 1 stays in 3rd position, bar 2 climbs, bar 3 sings in 7th position, and bar 4 returns to low G with one accented beat-1 only. If the accent jumps onto the shift, slow down and hide the seam better.
-
-:::checkpoint Play one 4-bar G-major phrase that moves from 3rd to 7th position and back with an even pulse and one smooth audible slide.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Subida de cometa entre posições na guitarra
+# Referência em revisão · Subida de cometa entre posições na guitarra
 
-Monte um loop em **Sol maior** a **86 bpm** e comece na **3ª posição**. A imagem é uma subida de cometa: a frase junta luz na parte grave do braço, dispara para cima e volta antes que o rastro desapareça.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque uma frase de 4 compassos em Sol maior que vá da 3ª para a 7ª posição e volte, com pulso regular e um slide suave e claro. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A Rodada 1 é a **plataforma de lançamento**. Fique embaixo e toque **G-A-B-D** nas cordas 6, 5 e 4 até cada nota cair com o mesmo peso. Não corra no salto até D; ele é o combustível da subida.
-
-A Rodada 2 é a **elevação**. Depois desse D grave, deslize com o segundo dedo até **E** na 7ª posição e continue **E-F#-G-A** nas cordas agudas. O slide precisa soar como uma respiração longa, não como uma parada para pedir informação.
-
-A Rodada 3 é o **brilho de volta para casa**. Desça por **A-G-F#-E** e depois reconecte com **D-B-A-G** na 3ª posição. Faça a volta com a mesma intenção da subida para a frase inteira soar planejada, e não remendada.
-
-Rodada de desafio: crie uma frase de 4 compassos em que o compasso 1 fique na 3ª posição, o 2 suba, o 3 cante na 7ª posição e o 4 volte ao Sol grave com acento apenas no tempo 1. Se o acento cair na troca, diminua e esconda melhor a costura.
-
-:::checkpoint Toque uma frase de 4 compassos em Sol maior que vá da 3ª para a 7ª posição e volte, com pulso regular e um slide suave e claro.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Ascenso de cometa entre posiciones en guitarra
+# Referencia en revisión · Ascenso de cometa entre posiciones en guitarra
 
-Pon un loop en **Sol mayor** a **86 bpm** y empieza en **3ª posición**. La imagen es un ascenso de cometa: la frase junta luz en la parte grave del mástil, sale disparada hacia arriba y vuelve antes de que desaparezca la estela.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca una frase de 4 compases en Sol mayor que suba de 3ª a 7ª posición y vuelva, con pulso parejo y un slide claro y fluido. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La Ronda 1 es la **plataforma de lanzamiento**. Quédate abajo y toca **G-A-B-D** en las cuerdas 6, 5 y 4 hasta que cada nota caiga con el mismo peso. No corras el salto hacia D; es el combustible de la subida.
-
-La Ronda 2 es la **elevación**. Después de ese D grave, desliza con el segundo dedo hasta **E** en 7ª posición y continúa **E-F#-G-A** en las cuerdas agudas. El slide debe sonar como una respiración larga, no como una parada para preguntar el camino.
-
-La Ronda 3 es el **brillo de regreso**. Desciende por **A-G-F#-E** y luego reconecta con **D-B-A-G** en 3ª posición. Haz el regreso con tanta intención como la subida para que toda la frase suene diseñada y no remendada.
-
-Ronda de desafío: crea una frase de 4 compases donde el compás 1 se quede en 3ª posición, el 2 suba, el 3 cante en 7ª posición y el 4 vuelva al Sol grave con acento solo en el tiempo 1. Si el acento cae sobre el cambio, baja la velocidad y esconde mejor la costura.
-
-:::checkpoint Toca una frase de 4 compases en Sol mayor que suba de 3ª a 7ª posición y vuelva, con pulso parejo y un slide claro y fluido.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Positions-Kometenstart
+# Referenz in Prüfung · Gitarren-Positions-Kometenstart
 
-Lass **G-Dur** bei **86 bpm** laufen und beginne in der **3. Lage**. Das Bild ist ein Kometenstart: Die Linie sammelt unten am Hals Licht, schießt nach oben und kehrt zurück, bevor die Spur verblasst.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele eine 4-taktige G-Dur-Phrase von der 3. zur 7. Lage und zurück, mit gleichmäßigem Puls und einem geschmeidigen hörbaren Slide. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1 ist die **Startrampe**. Bleibe unten und spiele **G-A-B-D** auf den Saiten 6, 5 und 4, bis jeder Ton mit gleichem Gewicht landet. Hetze nicht über den Sprung zu D; er ist der Treibstoff für den Aufstieg.
-
-Runde 2 ist der **Lift**. Nach diesem tiefen D rutschst du mit dem zweiten Finger zu **E** in der 7. Lage und spielst **E-F#-G-A** auf den hohen Saiten weiter. Das Slide soll wie ein langer Atemzug klingen und nicht wie ein Halt zum Nach-dem-Weg-Fragen.
-
-Runde 3 ist das **Leuchten zurück nach Hause**. Steige über **A-G-F#-E** ab und verbinde dann zu **D-B-A-G** in der 3. Lage zurück. Gestalte auch den Rückweg bewusst, damit die ganze Phrase komponiert und nicht geflickt wirkt.
-
-Challenge-Runde: Baue eine 4-taktige Phrase, in der Takt 1 in der 3. Lage bleibt, Takt 2 aufsteigt, Takt 3 in der 7. Lage singt und Takt 4 mit nur einem Akzent auf Schlag 1 zum tiefen G zurückkehrt. Wenn der Akzent auf den Wechsel springt, werde langsamer und verstecke die Naht besser.
-
-:::checkpoint Spiele eine 4-taktige G-Dur-Phrase von der 3. zur 7. Lage und zurück, mit gleichmäßigem Puls und einem geschmeidigen hörbaren Slide.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・ポジション彗星リフト
+# 確認中の参照 · ギター・ポジション彗星リフト
 
-**Gメジャー** のループを **86 bpm** に設定し、**3ポジション**から始めます。イメージは彗星の上昇です。低い場所で光を集め、上へ走り、軌跡が消える前に戻ってきます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：3ポジションから7ポジションへ上がって戻る4小節のGメジャー・フレーズを、均一な拍と自然なスライドで弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1は **発射台**。低い位置にとどまり、6弦・5弦・4弦で **G-A-B-D** を、すべて同じ重さで着地するまで弾きます。Dへの跳躍を急がないでください。そこが上昇の燃料です。
-
-ラウンド2は **リフト**。その低いDのあと、2指で **E** までスライドして7ポジションに入り、上の弦で **E-F#-G-A** を続けます。スライドは道を尋ねるために止まった感じではなく、ひと息でつながるべきです。
-
-ラウンド3は **帰還の光**。**A-G-F#-E** と下がり、そのあと3ポジションの **D-B-A-G** へつなぎ直します。上りと同じだけ意図を持って戻り、フレーズ全体が継ぎはぎではなく設計されたものに聞こえるようにします。
-
-チャレンジ・ラウンドでは4小節のフレーズを作ります。1小節目は3ポジション、2小節目で上昇、3小節目は7ポジションで歌い、4小節目は1拍目だけアクセントして低いGへ戻ります。アクセントが移動に乗るなら、テンポを下げてつなぎ目をもっと隠しましょう。
-
-:::checkpoint 3ポジションから7ポジションへ上がって戻る4小節のGメジャー・フレーズを、均一な拍と自然なスライドで弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他把位彗星上升
+# 审核中的参考 · 吉他把位彗星上升
 
-把 **G大调** 循环设为 **86 bpm**，从 **第3把位**开始。把它想成一次彗星上升：乐句先在低把位聚光，再冲向高处，然后在尾迹消失前回到原地。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹一个4小节的G大调乐句，从第3把位升到第7把位再回来，全程节拍均匀，滑音顺畅清楚。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮是 **发射台**。留在低位，用6弦、5弦和4弦弹 **G-A-B-D**，直到每个音都以同样的分量落下。不要急着跳到 D；那一下正是上升的燃料。
-
-第2轮是 **升空**。弹完低音 D 后，用二指滑到第7把位的 **E**，再在高音弦上继续 **E-F#-G-A**。这个滑音要像一口长气连出去，而不是像停下来问路。
-
-第3轮是 **返航发光**。先按 **A-G-F#-E** 下行，再接回第3把位的 **D-B-A-G**。回程也要像上行一样有明确意图，这样整句才像设计好的线路，而不是后补出来的拼接。
-
-挑战轮：做一个4小节乐句，第1小节留在第3把位，第2小节上升，第3小节在第7把位歌唱，第4小节只强调第1拍并回到低音 G。如果重音总是落在换把上，就把速度放慢，把接缝藏得更好。
-
-:::checkpoint 弹一个4小节的G大调乐句，从第3把位升到第7把位再回来，全程节拍均匀，滑音顺畅清楚。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
-
-```fretboard
-id: guitar-position-comet-lift-map
-title: G major comet lift map
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 3-8
-tempo: 86
-positions: 6:3/2 6:5/4 5:2/1 5:5/4 4:2/1 4:4/3 3:4/1 3:5/2 2:3/1 2:5/3
-```
 
 ```notes
 id: guitar-position-comet-lift-line

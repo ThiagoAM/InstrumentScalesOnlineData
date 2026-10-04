@@ -6,7 +6,7 @@ level: advanced
 section: advanced
 unit: scale-harmonic-minor-in-practice
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: Two voices find home
@@ -121,7 +121,7 @@ id: piano-two-voice-cadence-20260918-1
 title: A
 instrument: piano
 tempo: 60
-sequence: [G#3 D4]/2 [A3 C4]/2
+sequence: [G#3,D4]/2 [A3,C4]/2
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-two-voice-cadence-20260918-2
 title: B
 instrument: piano
 tempo: 60
-sequence: [E3 G#3 B3 D4]/2 [A2 E3 A3 C4]/2
+sequence: [E3,G#3,B3,D4]/2 [A2,E3,A3,C4]/2
 ```

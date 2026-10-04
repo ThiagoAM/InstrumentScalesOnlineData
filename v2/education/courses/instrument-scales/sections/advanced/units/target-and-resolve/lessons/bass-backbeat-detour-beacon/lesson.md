@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 90
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Backbeat detour lights
-title.pt-BR: Luzes do desvio no contratempo
-title.es: Luces del desvío en contratiempo
-title.de: Backbeat-Umleitung
-title.ja: バックビート迂回ライト
-title.zh-Hans: 反拍绕行信号灯
-summary.en: Keep a root-and-fifth groove steady while a two-note detour answers the backbeat.
-summary.pt-BR: Mantenha firme um groove de tônica e quinta enquanto um desvio de duas notas responde ao contratempo.
-summary.es: Mantén firme un groove de raíz y quinta mientras un desvío de dos notas responde al contratiempo.
-summary.de: Halte einen Grundton-und-Quinten-Groove stabil, während ein zweitöniger Umweg auf den Backbeat antwortet.
-summary.ja: ルートと5度のグルーヴを保ち、2音の迂回でバックビートに答えます。
-summary.zh-Hans: 保持根音与五级音律动稳定，用两个音的绕行回应反拍。
+title.en: Reference in review · Backbeat detour lights
+title.pt-BR: Referência em revisão · Luzes do desvio no contratempo
+title.es: Referencia en revisión · Luces del desvío en contratiempo
+title.de: Referenz in Prüfung · Backbeat-Umleitung
+title.ja: 確認中の参照 · バックビート迂回ライト
+title.zh-Hans: 审核中的参考 · 反拍绕行信号灯
+summary.en: Original goal, physical practice under review: Keep a root-and-fifth groove steady while a two-note detour answers the backbeat.
+summary.pt-BR: Objetivo original, prática física em revisão: Mantenha firme um groove de tônica e quinta enquanto um desvio de duas notas responde ao contratempo.
+summary.es: Objetivo original, práctica física en revisión: Mantén firme un groove de raíz y quinta mientras un desvío de dos notas responde al contratiempo.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Halte einen Grundton-und-Quinten-Groove stabil, während ein zweitöniger Umweg auf den Backbeat antwortet.
+summary.ja: 元の目標（実技確認中）：ルートと5度のグルーヴを保ち、2音の迂回でバックビートに答えます。
+summary.zh-Hans: 原目标（实体演奏待审）：保持根音与五级音律动稳定，用两个音的绕行回应反拍。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Backbeat detour lights
+# Reference in review · Backbeat detour lights
 
-Loop **| Em7 | A7 | Dmaj7 | Dmaj7 |** at **92 bpm**. Play roots on beats 1 and 3, fifths on beat 2, and leave beat 4 ready for the signal.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars with roots on beats 1 and 3, a two-note detour on the and of 4, and a strong next-root landing. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-On the **and of 4**, play two scale tones that lead to the next root: F#-G, C#-D, C#-D, C#-D. Make the final D land heavy on beat 1.
-
-Round 2: keep the same notes but mute beat 3 on the second and fourth bars. The groove must survive the missing root; feel the subdivision in your foot.
-
-Boss pass: play eight loops, alternating open strings and fretted notes. If beat 4 rushes, drop to **72 bpm** and clap the backbeat before adding the detour.
-
-:::checkpoint Play four bars with roots on beats 1 and 3, a two-note detour on the and of 4, and a strong next-root landing.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Luzes do desvio no contratempo
+# Referência em revisão · Luzes do desvio no contratempo
 
-Faça um loop em **| Em7 | A7 | Dmaj7 | Dmaj7 |** a **92 bpm**. Toque tônicas nos tempos 1 e 3, quintas no tempo 2 e deixe o tempo 4 pronto para o sinal.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos com tônicas nos tempos 1 e 3, um desvio de duas notas no e do tempo 4 e uma chegada forte na próxima tônica. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-No **e do tempo 4**, toque dois graus da escala que conduzam à próxima tônica: F#-G, C#-D, C#-D, C#-D. Faça o D final pousar forte no tempo 1.
-
-Rodada 2: mantenha as mesmas notas, mas abafe o tempo 3 no segundo e no quarto compassos. O groove deve sobreviver à tônica ausente; sinta a subdivisão no pé.
-
-Passagem chefão: toque oito loops, alternando cordas soltas e notas presas. Se o tempo 4 correr, reduza para **72 bpm** e bata palmas no contratempo antes de adicionar o desvio.
-
-:::checkpoint Toque quatro compassos com tônicas nos tempos 1 e 3, um desvio de duas notas no e do tempo 4 e uma chegada forte na próxima tônica.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Luces del desvío en contratiempo
+# Referencia en revisión · Luces del desvío en contratiempo
 
-Repite **| Em7 | A7 | Dmaj7 | Dmaj7 |** a **92 bpm**. Toca raíces en los tiempos 1 y 3, quintas en el 2 y deja el 4 preparado para la señal.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases con raíces en los tiempos 1 y 3, un desvío de dos notas en el y de 4 y una llegada fuerte a la siguiente raíz. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-En el **y de 4**, toca dos grados de la escala que conduzcan a la siguiente raíz: F#-G, C#-D, C#-D, C#-D. Haz que el D final caiga con fuerza en el tiempo 1.
-
-Ronda 2: conserva las notas, pero apaga el tiempo 3 en el segundo y cuarto compases. El groove debe sobrevivir a la raíz ausente; siente la subdivisión con el pie.
-
-Pasada jefe: toca ocho bucles alternando cuerdas al aire y notas pisadas. Si el tiempo 4 se adelanta, baja a **72 bpm** y da palmas en el contratiempo antes de añadir el desvío.
-
-:::checkpoint Toca cuatro compases con raíces en los tiempos 1 y 3, un desvío de dos notas en el y de 4 y una llegada fuerte a la siguiente raíz.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Backbeat-Umleitung
+# Referenz in Prüfung · Backbeat-Umleitung
 
-Loope **| Em7 | A7 | Dmaj7 | Dmaj7 |** bei **92 bpm**. Spiele Grundtöne auf Schlag 1 und 3, Quinten auf Schlag 2 und halte Schlag 4 für das Signal frei.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte mit Grundtönen auf Schlag 1 und 3, einem zweitönigen Umweg auf dem Und von 4 und einer kräftigen Landung auf der nächsten Grundnote. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Spiele auf dem **Und von 4** zwei Skalentöne zur nächsten Grundnote: F#-G, C#-D, C#-D, C#-D. Das letzte D landet kräftig auf Schlag 1.
-
-Runde 2: Behalte die Töne bei, dämpfe aber im zweiten und vierten Takt Schlag 3. Der Groove muss ohne Grundton weiterleben; fühle die Unterteilung im Fuß.
-
-Boss-Durchgang: Spiele acht Loops und wechsle zwischen Leersaiten und gegriffenen Tönen. Wenn Schlag 4 eilt, gehe auf **72 bpm** und klatsche den Backbeat vor dem Umweg.
-
-:::checkpoint Spiele vier Takte mit Grundtönen auf Schlag 1 und 3, einem zweitönigen Umweg auf dem Und von 4 und einer kräftigen Landung auf der nächsten Grundnote.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# バックビート迂回ライト
+# 確認中の参照 · バックビート迂回ライト
 
-**92 bpm**で **| Em7 | A7 | Dmaj7 | Dmaj7 |** をループします。1、3拍目にルート、2拍目に5度を置き、4拍目を合図のために空けます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：1、3拍目のルート、4拍目ウラの2音の迂回、次のルートへの強い着地を含む4小節を弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-4拍目ウラで次のルートへ進むスケール2音を弾きます：F#-G、C#-D、C#-D、C#-D。最後のDを1拍目へ強く着地させます。
-
-ラウンド2では音を保ちつつ、2小節目と4小節目の3拍目をミュートします。ルートがなくてもグルーヴを保ち、足で細かい拍を感じます。
-
-ボスパスでは8ループ弾き、開放弦と押弦を交替します。4拍目が急ぐなら **72 bpm** に下げ、迂回音を足す前にバックビートを手拍子します。
-
-:::checkpoint 1、3拍目のルート、4拍目ウラの2音の迂回、次のルートへの強い着地を含む4小節を弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 反拍绕行信号灯
+# 审核中的参考 · 反拍绕行信号灯
 
-以 **92 bpm** 循环 **| Em7 | A7 | Dmaj7 | Dmaj7 |**。第1、3拍弹根音，第2拍弹五级音，并为信号灯留出第4拍。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹四小节：第1、3拍有根音，第4拍后半拍有两个音的绕行，并有力落到下一个根音。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-在第4拍后半拍弹出通向下一个根音的两个音：F#-G、C#-D、C#-D、C#-D。让最后的D有力落在第1拍。
-
-第2轮：音符不变，但在第2和第4小节闷掉第3拍。根音缺席时律动仍要继续，用脚感受细分。
-
-挑战轮：弹八遍循环，交替使用空弦和按弦。如果第4拍抢拍，就降到 **72 bpm**，先拍出反拍再加入绕行。
-
-:::checkpoint 弹四小节：第1、3拍有根音，第4拍后半拍有两个音的绕行，并有力落到下一个根音。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,5 +75,5 @@ id: bass-backbeat-detour-beacon-main
 title: Roots, fifths, and backbeat detours
 instrument: bass
 tempo: 92
-sequence: E2 B2 E2 - - - F#2 G2 | A1 E2 A1 - - - C#2 D2 | D2 A2 D2 - - - C#2 D2 | D2 A2 D2 - - - C#2 D2
+sequence: E2 B2 E2 - - - F#2 G2 A1 E2 A1 - - - C#2 D2 D2 A2 D2 - - - C#2 D2 D2 A2 D2 - - - C#2 D2
 ```

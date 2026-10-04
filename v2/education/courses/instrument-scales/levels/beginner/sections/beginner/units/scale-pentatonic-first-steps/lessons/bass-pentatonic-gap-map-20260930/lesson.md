@@ -6,7 +6,7 @@ level: beginner
 section: beginner
 unit: scale-pentatonic-first-steps
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 6
 instrument: bass
 title.en: Jump over the missing fourth
@@ -121,7 +121,7 @@ id: bass-pentatonic-gap-map-20260930-1
 title: A
 instrument: bass
 tempo: 60
-sequence: C2/1 D2/1 E2/1 G2/1 | A2/1 G2/1 C2/1 -/1
+sequence: C2/1 D2/1 E2/1 G2/1 A2/1 G2/1 C2/1 -/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: bass-pentatonic-gap-map-20260930-2
 title: B
 instrument: bass
 tempo: 60
-sequence: A2/1 G2/1 E2/1 D2/1 | C2/2 -/2
+sequence: A2/1 G2/1 E2/1 D2/1 C2/2 -/2
 ```

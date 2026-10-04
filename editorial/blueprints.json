@@ -1,0 +1,751 @@
+{
+  "schema": 1,
+  "version": 1,
+  "policy": "Finite authored learning arcs. No automatic unit creation or quota of new lessons. Pilot units use four core, one transfer and one extra; future role allocation is an editorial decision.",
+  "blueprints": [
+    {
+      "id": "guitar-beginner-notes-and-pulse",
+      "version": 1,
+      "instrument": "guitar",
+      "level": "beginner",
+      "unitID": "notes-and-pulse",
+      "prerequisites": [],
+      "coreOutcomes": [
+        "Locate three notes on one string",
+        "Hear semitone versus whole tone with a shared root",
+        "Play a shifted three-note question",
+        "Count a silent beat"
+      ],
+      "terminalProject": "Two-bar answer with one rest and a tonic ending",
+      "optionalExtension": "Play the motif on a second validated string",
+      "status": "pilot-authored-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "orientation and a steady gesture"
+    },
+    {
+      "id": "guitar-beginner-two-places",
+      "version": 1,
+      "instrument": "guitar",
+      "level": "beginner",
+      "unitID": "two-places",
+      "prerequisites": [
+        "guitar-beginner-notes-and-pulse"
+      ],
+      "coreOutcomes": [
+        "Compare two unison routes",
+        "Cross two strings without overlapping notes",
+        "Outline C major as single notes",
+        "Choose a tonic or fifth ending"
+      ],
+      "terminalProject": "Four bars with opening, breath and resolution",
+      "optionalExtension": "Contrast connected and separated articulation",
+      "status": "pilot-authored-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "orientation and a steady gesture"
+    },
+    {
+      "id": "guitar-intermediate-position-connections",
+      "version": 1,
+      "instrument": "guitar",
+      "level": "intermediate",
+      "unitID": "position-connections",
+      "prerequisites": [
+        "guitar-beginner-two-places"
+      ],
+      "coreOutcomes": [
+        "Locate shared notes in two pentatonic positions",
+        "Shift during a counted rest",
+        "Preserve one motif in two registers",
+        "Choose the smaller travel for a phrase"
+      ],
+      "terminalProject": "Eight bars with two intentional position changes",
+      "optionalExtension": "Transpose one approved route to a nearby key",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "guitar-intermediate-thirds-and-targets",
+      "version": 1,
+      "instrument": "guitar",
+      "level": "intermediate",
+      "unitID": "thirds-and-targets",
+      "prerequisites": [
+        "guitar-intermediate-position-connections"
+      ],
+      "coreOutcomes": [
+        "Hear major and minor thirds from the same root",
+        "Play diatonic pairs with explicit hand shifts",
+        "Target E–F–B–E over C–Dm–G–C",
+        "Approach each third with one scale note"
+      ],
+      "terminalProject": "Four-bar melodic answer with thirds as targets",
+      "optionalExtension": "Transfer to G–Am–D–G with approved physical routes",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "guitar-advanced-voice-leading",
+      "version": 1,
+      "instrument": "guitar",
+      "level": "advanced",
+      "unitID": "voice-leading",
+      "prerequisites": [
+        "guitar-intermediate-thirds-and-targets"
+      ],
+      "coreOutcomes": [
+        "Separate chord root from melodic target",
+        "Connect third and seventh between two chords",
+        "Prepare a chromatic neighbour without losing the target",
+        "Choose rests to expose the voice leading"
+      ],
+      "terminalProject": "Eight-bar solo with traceable guide-tone motion",
+      "optionalExtension": "Compare two registers using the same voice line",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "guitar-advanced-modal-contrast",
+      "version": 1,
+      "instrument": "guitar",
+      "level": "advanced",
+      "unitID": "modal-contrast",
+      "prerequisites": [
+        "guitar-advanced-voice-leading"
+      ],
+      "coreOutcomes": [
+        "Compare F and F# over a common C root",
+        "Keep the rhythmic motif constant across modes",
+        "Resolve characteristic notes deliberately",
+        "Choose one modal colour for a phrase"
+      ],
+      "terminalProject": "A/B arrangement with one named colour decision",
+      "optionalExtension": "Reduce accompaniment and retain the audible modal identity",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "bass-beginner-supporting-line",
+      "version": 1,
+      "instrument": "bass",
+      "level": "beginner",
+      "unitID": "supporting-line",
+      "prerequisites": [],
+      "coreOutcomes": [
+        "Place the root on beat one",
+        "Balance root and fifth",
+        "Control length and muting",
+        "Arrive on a new root without overlap"
+      ],
+      "terminalProject": "Four bars supporting Am–Dm–G–Am",
+      "optionalExtension": "Compare a single anticipation with an on-beat arrival",
+      "status": "pilot-authored-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "orientation and a steady gesture"
+    },
+    {
+      "id": "bass-intermediate-arpeggio-and-duration",
+      "version": 1,
+      "instrument": "bass",
+      "level": "intermediate",
+      "unitID": "arpeggio-and-duration",
+      "prerequisites": [
+        "bass-beginner-supporting-line"
+      ],
+      "coreOutcomes": [
+        "Locate root third and fifth for one chord",
+        "Make the third audible without overfilling",
+        "Keep equal releases across a string change",
+        "Land at the next root after a small fill"
+      ],
+      "terminalProject": "Eight-bar accompaniment with a fill that preserves the change",
+      "optionalExtension": "Compare one fill in two registers",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "bass-intermediate-syncopated-support",
+      "version": 1,
+      "instrument": "bass",
+      "level": "intermediate",
+      "unitID": "syncopated-support",
+      "prerequisites": [
+        "bass-intermediate-arpeggio-and-duration"
+      ],
+      "coreOutcomes": [
+        "Count one offbeat entry with rests",
+        "Preserve bass note length through syncopation",
+        "Anticipate a change without a tempo jump",
+        "Choose when to leave beat four empty"
+      ],
+      "terminalProject": "A steady line under alternating sparse and syncopated bars",
+      "optionalExtension": "Remove half the attacks while retaining the groove",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "bass-advanced-walking-and-approach",
+      "version": 1,
+      "instrument": "bass",
+      "level": "advanced",
+      "unitID": "walking-and-approach",
+      "prerequisites": [
+        "bass-intermediate-syncopated-support"
+      ],
+      "coreOutcomes": [
+        "Plan roots on harmonic changes",
+        "Choose chord tones on strong beats",
+        "Connect by diatonic and chromatic approach",
+        "Use register to preserve accompaniment clarity"
+      ],
+      "terminalProject": "Eight-bar walking line with named arrivals",
+      "optionalExtension": "Rewrite one transition with less chromatic motion",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "bass-advanced-space-and-register",
+      "version": 1,
+      "instrument": "bass",
+      "level": "advanced",
+      "unitID": "space-and-register",
+      "prerequisites": [
+        "bass-advanced-walking-and-approach"
+      ],
+      "coreOutcomes": [
+        "Hear low versus middle register support",
+        "Use rests to leave room for melody",
+        "Compare a single tenth as optional colour",
+        "Choose a fill according to the next harmonic role"
+      ],
+      "terminalProject": "Two contrasting accompaniment passes with the same roots",
+      "optionalExtension": "Remove the optional tenth and preserve the function",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "piano-beginner-melody-and-support",
+      "version": 1,
+      "instrument": "piano",
+      "level": "beginner",
+      "unitID": "melody-and-support",
+      "prerequisites": [],
+      "coreOutcomes": [
+        "Locate the five-finger region",
+        "Shape a phrase with five fingers",
+        "Release keys through rests without pedal",
+        "Balance roots against melody"
+      ],
+      "terminalProject": "Four bars of melody and changing left-hand roots",
+      "optionalExtension": "Swap roles for a short validated fragment",
+      "status": "pilot-authored-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "orientation and a steady gesture"
+    },
+    {
+      "id": "piano-intermediate-thumb-and-phrase",
+      "version": 1,
+      "instrument": "piano",
+      "level": "intermediate",
+      "unitID": "thumb-and-phrase",
+      "prerequisites": [
+        "piano-beginner-melody-and-support"
+      ],
+      "coreOutcomes": [
+        "Prepare thumb passage in one octave",
+        "Keep attacks even across the passage",
+        "Phrase the scale with a counted breath",
+        "Change direction without unnecessary wrist rotation"
+      ],
+      "terminalProject": "A one-octave phrase transferred to a compatible key",
+      "optionalExtension": "Compare connected and detached touch",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "piano-intermediate-inversions-and-balance",
+      "version": 1,
+      "instrument": "piano",
+      "level": "intermediate",
+      "unitID": "inversions-and-balance",
+      "prerequisites": [
+        "piano-intermediate-thumb-and-phrase"
+      ],
+      "coreOutcomes": [
+        "Hear one triad in two inversions",
+        "Choose the nearest voice movement",
+        "Keep accompaniment beneath melody",
+        "Prepare one bass change while the right sustains"
+      ],
+      "terminalProject": "Four bars with a clear top voice and economical inversions",
+      "optionalExtension": "Move accompaniment rhythm while keeping the voice line",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "piano-advanced-independent-voices",
+      "version": 1,
+      "instrument": "piano",
+      "level": "advanced",
+      "unitID": "independent-voices",
+      "prerequisites": [
+        "piano-intermediate-inversions-and-balance"
+      ],
+      "coreOutcomes": [
+        "Separate melody and accompaniment rhythm",
+        "Keep a held voice while another moves",
+        "Use contrary motion without changing pulse",
+        "Choose release timing per voice"
+      ],
+      "terminalProject": "Eight-bar two-voice study with stated dynamic roles",
+      "optionalExtension": "Reverse one voice direction without changing its rhythm",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "piano-advanced-voicing-and-arrangement",
+      "version": 1,
+      "instrument": "piano",
+      "level": "advanced",
+      "unitID": "voicing-and-arrangement",
+      "prerequisites": [
+        "piano-advanced-independent-voices"
+      ],
+      "coreOutcomes": [
+        "Separate root function from upper colour",
+        "Choose register to avoid masking",
+        "Connect shell voicings through guide tones",
+        "Vary the accompaniment without hiding melody"
+      ],
+      "terminalProject": "A short arrangement with controlled top voice and harmonic motion",
+      "optionalExtension": "Reduce the voicing to its essential two voices",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "ukulele-beginner-reentrant-foundation",
+      "version": 1,
+      "instrument": "ukulele",
+      "level": "beginner",
+      "unitID": "reentrant-foundation",
+      "prerequisites": [],
+      "coreOutcomes": [
+        "Hear physical order versus pitch order",
+        "Play a clean C voicing course by course",
+        "Stop a strum for a counted rest",
+        "Play a compact two-string melody"
+      ],
+      "terminalProject": "Alternate melody and chord answers using high G",
+      "optionalExtension": "Compare the high-G unison on two routes",
+      "status": "pilot-authored-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "orientation and a steady gesture"
+    },
+    {
+      "id": "ukulele-intermediate-compact-inversions",
+      "version": 1,
+      "instrument": "ukulele",
+      "level": "intermediate",
+      "unitID": "compact-inversions",
+      "prerequisites": [
+        "ukulele-beginner-reentrant-foundation"
+      ],
+      "coreOutcomes": [
+        "Name the highest voice in a reentrant shape",
+        "Compare two physically reviewed C inversions",
+        "Connect two chords with minimal top-voice travel",
+        "Place a melody note above a soft accompaniment"
+      ],
+      "terminalProject": "Four bars with an audible top voice and two inversions",
+      "optionalExtension": "Use a separately authored low-G variant after its own setup review",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "ukulele-intermediate-chord-and-melody",
+      "version": 1,
+      "instrument": "ukulele",
+      "level": "intermediate",
+      "unitID": "chord-and-melody",
+      "prerequisites": [
+        "ukulele-intermediate-compact-inversions"
+      ],
+      "coreOutcomes": [
+        "Choose which strings carry melody",
+        "Keep a strum below the melodic attack",
+        "Prepare a chord while counting a breath",
+        "Contrast plucked and strummed answers"
+      ],
+      "terminalProject": "A short melody-and-chord arrangement",
+      "optionalExtension": "Omit a doubled chord tone and compare clarity",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "ukulele-advanced-voice-leading-and-colour",
+      "version": 1,
+      "instrument": "ukulele",
+      "level": "advanced",
+      "unitID": "voice-leading-and-colour",
+      "prerequisites": [
+        "ukulele-intermediate-chord-and-melody"
+      ],
+      "coreOutcomes": [
+        "Connect compact thirds across a change",
+        "Add one playable extension",
+        "Choose strings using reentrancy deliberately",
+        "Keep the melodic top voice through chord rhythm"
+      ],
+      "terminalProject": "Eight bars with traceable voice movement and one extension",
+      "optionalExtension": "Remove the extension and compare function",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "ukulele-advanced-articulation-and-arrangement",
+      "version": 1,
+      "instrument": "ukulele",
+      "level": "advanced",
+      "unitID": "articulation-and-arrangement",
+      "prerequisites": [
+        "ukulele-advanced-voice-leading-and-colour"
+      ],
+      "coreOutcomes": [
+        "Contrast ringing and muted attacks",
+        "Select courses for a compact melodic register",
+        "Shape a repeat with changed texture",
+        "Plan a final chord that supports the melody"
+      ],
+      "terminalProject": "A complete short arrangement with contrasting repeated sections",
+      "optionalExtension": "Create a sparse alternative with the same melodic goal",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "mandolin-beginner-paired-courses",
+      "version": 1,
+      "instrument": "mandolin",
+      "level": "beginner",
+      "unitID": "paired-courses",
+      "prerequisites": [],
+      "coreOutcomes": [
+        "Hear each pair as one course",
+        "Alternate picking on one course",
+        "Cross courses without rushing",
+        "Compare single-note D arpeggio and open D voicing"
+      ],
+      "terminalProject": "A four-bar phrase across paired courses",
+      "optionalExtension": "Place a repeated two-attack pair without calling it tremolo",
+      "status": "pilot-authored-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "orientation and a steady gesture"
+    },
+    {
+      "id": "mandolin-intermediate-fifths-and-positions",
+      "version": 1,
+      "instrument": "mandolin",
+      "level": "intermediate",
+      "unitID": "fifths-and-positions",
+      "prerequisites": [
+        "mandolin-beginner-paired-courses"
+      ],
+      "coreOutcomes": [
+        "Locate a unison on two course routes",
+        "Shift between adjacent positions",
+        "Outline one arpeggio across courses",
+        "Prepare a chord while preserving pick direction"
+      ],
+      "terminalProject": "Eight bars with one controlled shift and harmonic targets",
+      "optionalExtension": "Compare a smaller fingering route",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "mandolin-intermediate-phrase-and-articulation",
+      "version": 1,
+      "instrument": "mandolin",
+      "level": "intermediate",
+      "unitID": "phrase-and-articulation",
+      "prerequisites": [
+        "mandolin-intermediate-fifths-and-positions"
+      ],
+      "coreOutcomes": [
+        "Keep paired-string attacks even",
+        "Contrast connected and separated notes",
+        "Use a rest to prepare a course crossing",
+        "Choose one rhythmic accent per phrase"
+      ],
+      "terminalProject": "A melody with two articulation choices and counted breaths",
+      "optionalExtension": "Shift the accent without changing note order",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one position, coordination or rhythmic constraint"
+    },
+    {
+      "id": "mandolin-advanced-melodic-arrangement",
+      "version": 1,
+      "instrument": "mandolin",
+      "level": "advanced",
+      "unitID": "melodic-arrangement",
+      "prerequisites": [
+        "mandolin-intermediate-phrase-and-articulation"
+      ],
+      "coreOutcomes": [
+        "Choose course routes for melody register",
+        "Add chord support without masking melody",
+        "Coordinate a position shift with a phrase break",
+        "Vary a repeated phrase rhythmically"
+      ],
+      "terminalProject": "A short melodic arrangement with a coherent final phrase",
+      "optionalExtension": "Reduce chord support and preserve the melody",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    },
+    {
+      "id": "mandolin-advanced-sustained-expression",
+      "version": 1,
+      "instrument": "mandolin",
+      "level": "advanced",
+      "unitID": "sustained-expression",
+      "prerequisites": [
+        "mandolin-advanced-melodic-arrangement"
+      ],
+      "coreOutcomes": [
+        "Review relaxed alternating attacks before tremolo",
+        "Keep attack even on a single sustained note",
+        "Enter and leave repeated attacks with a counted pulse",
+        "Use sustained texture only where the phrase benefits"
+      ],
+      "terminalProject": "A melody with one reviewed sustained passage and dynamic shape",
+      "optionalExtension": "Play a non-tremolo alternative with the same musical destination",
+      "status": "editorial-blueprint-review-pending",
+      "requiredLocales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "physicalReview": "pending",
+      "dominantDifficulty": "one harmonic or expressive decision at a time"
+    }
+  ]
+}

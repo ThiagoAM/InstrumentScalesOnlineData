@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-modes-by-color-note
 order: 17
-revision: 1
+revision: 2
 estimatedMinutes: 6
 instrument: piano
 title.en: The seventh answers the drone
@@ -121,7 +121,7 @@ id: piano-mixolydian-seventh-reply-20260930-1
 title: A
 instrument: piano
 tempo: 60
-sequence: [C3 G4]/1 [C3 B4]/1 [C3 C5]/1 [C3 G4]/1
+sequence: [C3,G4]/1 [C3,B4]/1 [C3,C5]/1 [C3,G4]/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-mixolydian-seventh-reply-20260930-2
 title: B
 instrument: piano
 tempo: 60
-sequence: [C3 G4]/1 [C3 Bb4]/1 [C3 C5]/1 [C3 G4]/1
+sequence: [C3,G4]/1 [C3,Bb4]/1 [C3,C5]/1 [C3,G4]/1
 ```

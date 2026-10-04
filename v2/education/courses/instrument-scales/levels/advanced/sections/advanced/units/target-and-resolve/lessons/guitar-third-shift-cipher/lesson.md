@@ -6,110 +6,86 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 98
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar Third-Shift Cipher
-title.pt-BR: Cifra de terças deslocadas na guitarra
-title.es: Cifra de terceras desplazadas en guitarra
-title.de: Gitarren-Drittelverschiebungs-Code
-title.ja: ギター：3度シフト暗号
-title.zh-Hans: 吉他三级移位密码
-summary.en: Shift a two-note cell and land on each chord's third without losing the groove.
-summary.pt-BR: Desloque uma célula de duas notas e chegue à terça de cada acorde sem perder o groove.
-summary.es: Desplaza una célula de dos notas y aterriza en la tercera de cada acorde sin perder el pulso.
-summary.de: Verschiebe eine zweitönige Zelle und lande auf der Terz jedes Akkords, ohne den Groove zu verlieren.
-summary.ja: 2音セルを移動し、グルーヴを失わず各コードの3度へ着地します。
-summary.zh-Hans: 移位一个两音单元，在不丢失律动的情况下落到每个和弦的三级音。
+title.en: Reference in review · Guitar Third-Shift Cipher
+title.pt-BR: Referência em revisão · Cifra de terças deslocadas na guitarra
+title.es: Referencia en revisión · Cifra de terceras desplazadas en guitarra
+title.de: Referenz in Prüfung · Gitarren-Drittelverschiebungs-Code
+title.ja: 確認中の参照 · ギター：3度シフト暗号
+title.zh-Hans: 审核中的参考 · 吉他三级移位密码
+summary.en: Original goal, physical practice under review: Shift a two-note cell and land on each chord's third without losing the groove.
+summary.pt-BR: Objetivo original, prática física em revisão: Desloque uma célula de duas notas e chegue à terça de cada acorde sem perder o groove.
+summary.es: Objetivo original, práctica física en revisión: Desplaza una célula de dos notas y aterriza en la tercera de cada acorde sin perder el pulso.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Verschiebe eine zweitönige Zelle und lande auf der Terz jedes Akkords, ohne den Groove zu verlieren.
+summary.ja: 元の目標（実技確認中）：2音セルを移動し、グルーヴを失わず各コードの3度へ着地します。
+summary.zh-Hans: 原目标（实体演奏待审）：移位一个两音单元，在不丢失律动的情况下落到每个和弦的三级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar Third-Shift Cipher
+# Reference in review · Guitar Third-Shift Cipher
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **72 BPM**. Use the fretboard map as your route and let each chord change start the next cell.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play six loops with the four targets B, F#, B, and E arriving cleanly on the chord changes.
 
-Play **B–D** on Am7, then move the same two-note shape to **C#–F#** on D7. Keep both notes short and even.
-
-For Gmaj7, answer with **B–D**; for Cmaj7, answer with **E–G**. Say the landing note before you play it.
-
-Boss round: leave beat one empty, enter on the and of one, and complete six loops. If the shift blurs, drop to 56 BPM.
-
-:::checkpoint Play six loops with the four targets B, F#, B, and E arriving cleanly on the chord changes.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Cifra de terças deslocadas na guitarra
+# Referência em revisão · Cifra de terças deslocadas na guitarra
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **72 BPM**. Use o mapa do braço como rota e deixe cada troca de acorde iniciar a próxima célula.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque seis loops, fazendo os quatro alvos B, F#, B e E chegarem limpos nas trocas de acorde.
 
-Toque **B–D** no Am7 e mova o mesmo desenho de duas notas para **C#–F#** no D7. Mantenha as duas notas curtas e regulares.
-
-No Gmaj7, responda com **B–D**; no Cmaj7, responda com **E–G**. Diga a nota de chegada antes de tocá-la.
-
-Rodada chefão: deixe o primeiro tempo vazio, entre no contratempo do um e complete seis loops. Se a mudança borrar, reduza para 56 BPM.
-
-:::checkpoint Toque seis loops, fazendo os quatro alvos B, F#, B e E chegarem limpos nas trocas de acorde.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Cifra de terceras desplazadas en guitarra
+# Referencia en revisión · Cifra de terceras desplazadas en guitarra
 
-Haz un bucle de **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **72 BPM**. Usa el mapa del mástil como ruta y deja que cada cambio de acorde inicie la siguiente célula.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca seis bucles y haz que los cuatro objetivos B, F#, B y E lleguen limpios en los cambios de acorde.
 
-Toca **B–D** sobre Am7 y mueve la misma figura de dos notas a **C#–F#** sobre D7. Mantén ambas notas breves y parejas.
-
-Para Gmaj7, responde con **B–D**; para Cmaj7, responde con **E–G**. Di la nota de llegada antes de tocarla.
-
-Ronda jefe: deja vacío el primer pulso, entra en el contratiempo de uno y completa seis bucles. Si el cambio se borra, baja a 56 BPM.
-
-:::checkpoint Toca seis bucles y haz que los cuatro objetivos B, F#, B y E lleguen limpios en los cambios de acorde.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Drittelverschiebungs-Code
+# Referenz in Prüfung · Gitarren-Drittelverschiebungs-Code
 
-Schleife **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **72 BPM**. Nutze die Griffbrettkarte als Route; jeder Akkordwechsel startet die nächste Zelle.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele sechs Schleifen; die vier Ziele H, F#, H und E müssen bei den Akkordwechseln sauber ankommen.
 
-Spiele über Am7 **H–D** und verschiebe dieselbe zweitönige Form bei D7 zu **C#–F#**. Halte beide Töne kurz und gleichmäßig.
-
-Antworte bei Gmaj7 mit **H–D**, bei Cmaj7 mit **E–G**. Nenne den Zielton, bevor du ihn spielst.
-
-Boss-Runde: Lass Schlag eins frei, setze auf der Und von eins ein und spiele sechs Schleifen. Bei Unschärfe auf 56 BPM gehen.
-
-:::checkpoint Spiele sechs Schleifen; die vier Ziele H, F#, H und E müssen bei den Akkordwechseln sauber ankommen.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター：3度シフト暗号
+# 確認中の参照 · ギター：3度シフト暗号
 
-**| Am7 | D7 | Gmaj7 | Cmaj7 |** を**72 BPM**でループします。指板マップを道順にし、コードチェンジごとに次のセルを始めます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：6ループ弾き、コードチェンジで4つの目標B、F#、B、Eへ正確に着地します。
 
-Am7では **B–D** を弾き、D7では同じ2音形を **C#–F#** へ移します。2音を短く均等にします。
-
-Gmaj7では **B–D**、Cmaj7では **E–G** で返します。弾く前に着地点を声に出します。
-
-ボスラウンドでは1拍目を空け、1拍目の裏から入り、6ループ弾きます。移動がぼやけたら56 BPMへ下げます。
-
-:::checkpoint 6ループ弾き、コードチェンジで4つの目標B、F#、B、Eへ正確に着地します。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他三级移位密码
+# 审核中的参考 · 吉他三级移位密码
 
-以**72 BPM**循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。把指板图当作路线，每次和弦变化开始下一个单元。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹六遍循环，让B、F#、B、E四个目标音在和弦变化处干净落地。
 
-在Am7上弹 **B–D**，到D7时把同一两音形移到 **C#–F#**。两个音都要短而均匀。
-
-在Gmaj7上用 **B–D** 回答，在Cmaj7上用 **E–G** 回答。弹之前先说出落点音。
-
-挑战轮：空出第1拍，在第1拍后半进入，完成六遍循环。若移位变模糊，就降到56 BPM。
-
-:::checkpoint 弹六遍循环，让B、F#、B、E四个目标音在和弦变化处干净落地。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```fretboard
-id: guitar-third-shift-cipher-map
-title: Third-shift route
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 2-10
-tempo: 72
-positions: 2:7 B, 2:10 D, 3:6 C#, 2:7 F#, 1:7 B, 1:8 C, 1:9 C#, 2:9 E, 2:12 G
+```quiz
+id: guitar-third-shift-cipher-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

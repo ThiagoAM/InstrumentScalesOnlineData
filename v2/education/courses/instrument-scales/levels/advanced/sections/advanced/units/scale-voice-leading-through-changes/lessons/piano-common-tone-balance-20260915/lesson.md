@@ -6,7 +6,7 @@ level: advanced
 section: advanced
 unit: scale-voice-leading-through-changes
 order: 11
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: One note, two harmonic roles
@@ -121,7 +121,7 @@ id: piano-common-tone-balance-20260915-1
 title: A
 instrument: piano
 tempo: 60
-sequence: C3/1 G3/1 C3/1 G3/1 | A2/1 C3/1 A2/1 C3/1
+sequence: C3/1 G3/1 C3/1 G3/1 A2/1 C3/1 A2/1 C3/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-common-tone-balance-20260915-2
 title: B
 instrument: piano
 tempo: 60
-sequence: [C3 E4]/1 [G3 E4]/1 [C3 E4]/1 [G3 E4]/1 | [A2 E4]/1 [C3 E4]/1 [A2 E4]/1 [C3 E4]/1
+sequence: [C3,E4]/1 [G3,E4]/1 [C3,E4]/1 [G3,E4]/1 [A2,E4]/1 [C3,E4]/1 [A2,E4]/1 [C3,E4]/1
 ```

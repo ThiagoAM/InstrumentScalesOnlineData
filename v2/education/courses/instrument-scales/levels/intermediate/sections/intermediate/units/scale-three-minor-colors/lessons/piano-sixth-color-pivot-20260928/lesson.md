@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-three-minor-colors
 order: 13
-revision: 1
+revision: 2
 estimatedMinutes: 6
 instrument: piano
 title.en: One sixth changes the light
@@ -121,7 +121,7 @@ id: piano-sixth-color-pivot-20260928-1
 title: H - A harmonic minor
 instrument: piano
 tempo: 60
-sequence: E4/1 F4/1 G#4/1 A4/1 | A4/1 G#4/1 F4/1 E4/1
+sequence: E4/1 F4/1 G#4/1 A4/1 A4/1 G#4/1 F4/1 E4/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-sixth-color-pivot-20260928-2
 title: M - A melodic minor
 instrument: piano
 tempo: 60
-sequence: E4/1 F#4/1 G#4/1 A4/1 | A4/1 G#4/1 F#4/1 E4/1
+sequence: E4/1 F#4/1 G#4/1 A4/1 A4/1 G#4/1 F#4/1 E4/1
 ```

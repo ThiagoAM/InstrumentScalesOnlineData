@@ -6,125 +6,86 @@ level: intermediate
 section: intermediate
 unit: position-bridges
 order: 11
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass syncopation bridge
-title.pt-BR: Ponte sincopada no baixo
-title.es: Puente sincopado en el bajo
-title.de: Bass-Synkopenbrücke
-title.ja: ベースのシンコペーション橋
-title.zh-Hans: 贝斯切分桥
-summary.en: Carry a D-major bass cell across a position change while the offbeat stays precise.
-summary.pt-BR: Leve uma célula de baixo em ré maior por uma mudança de posição mantendo o contratempo preciso.
-summary.es: Lleva una célula de bajo en re mayor por un cambio de posición con el contratiempo preciso.
-summary.de: Führe eine D-Dur-Basszelle durch einen Lagenwechsel, während die Synkope präzise bleibt.
-summary.ja: Dメジャーのベース音型をポジション移動させ、裏拍を正確に保ちます。
-summary.zh-Hans: 让D大调贝斯音型跨过把位变化，同时保持反拍准确。
+title.en: Reference in review · Bass syncopation bridge
+title.pt-BR: Referência em revisão · Ponte sincopada no baixo
+title.es: Referencia en revisión · Puente sincopado en el bajo
+title.de: Referenz in Prüfung · Bass-Synkopenbrücke
+title.ja: 確認中の参照 · ベースのシンコペーション橋
+title.zh-Hans: 审核中的参考 · 贝斯切分桥
+summary.en: Original goal, physical practice under review: Carry a D-major bass cell across a position change while the offbeat stays precise.
+summary.pt-BR: Objetivo original, prática física em revisão: Leve uma célula de baixo em ré maior por uma mudança de posição mantendo o contratempo preciso.
+summary.es: Objetivo original, práctica física en revisión: Lleva una célula de bajo en re mayor por un cambio de posición con el contratiempo preciso.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Führe eine D-Dur-Basszelle durch einen Lagenwechsel, während die Synkope präzise bleibt.
+summary.ja: 元の目標（実技確認中）：Dメジャーのベース音型をポジション移動させ、裏拍を正確に保ちます。
+summary.zh-Hans: 原目标（实体演奏待审）：让D大调贝斯音型跨过把位变化，同时保持反拍准确。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass syncopation bridge
+# Reference in review · Bass syncopation bridge
 
-Set **88 bpm** and tap quarter notes before playing. The challenge is to move a groove without moving its heartbeat.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play an eight-bar D-major bass groove with two position changes, a clear offbeat, and an intentional beat-three rest.
 
-Play **D-A** on beats one and the and of two, then rest through beat three. Keep the short notes identical and let the silence feel intentional.
-
-Shift to the higher lane for **F#-A** on the and of three and beat four. Prepare the shift during the rest; do not rush the entry.
-
-Loop the two-bar cell four times, alternating low and high endings. If the offbeat disappears, speak “one-and-two” aloud and drop to 70 bpm.
-
-Finish with an eight-bar groove that changes lane twice, keeps the rest, and adds only one new scale tone. Make the kick and your first D feel like teammates.
-
-:::checkpoint Play an eight-bar D-major bass groove with two position changes, a clear offbeat, and an intentional beat-three rest.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Ponte sincopada no baixo
+# Referência em revisão · Ponte sincopada no baixo
 
-Marque **88 bpm** e bata semínimas antes de tocar. O desafio é mover o groove sem mover seu coração.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque um groove de baixo de oito compassos em ré maior com duas mudanças de posição, contratempo claro e pausa intencional no terceiro tempo.
 
-Toque **ré-lá** no primeiro tempo e no contratempo de dois, depois descanse durante o terceiro tempo. Mantenha as notas curtas iguais e faça o silêncio parecer intencional.
-
-Mude para a região aguda para **fá#-lá** no contratempo de três e no quarto tempo. Prepare a mudança durante a pausa; não apresse a entrada.
-
-Repita a célula de dois compassos quatro vezes, alternando finais graves e agudos. Se o contratempo sumir, fale “um-e-dois” e desça para 70 bpm.
-
-Termine com um groove de oito compassos que mude de região duas vezes, conserve a pausa e acrescente apenas uma nota nova da escala. Faça o bumbo e seu primeiro ré parecerem parceiros.
-
-:::checkpoint Toque um groove de baixo de oito compassos em ré maior com duas mudanças de posição, contratempo claro e pausa intencional no terceiro tempo.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Puente sincopado en el bajo
+# Referencia en revisión · Puente sincopado en el bajo
 
-Pon **88 bpm** y marca negras antes de tocar. El reto es mover el groove sin mover su corazón.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca un groove de bajo de ocho compases en re mayor con dos cambios de posición, un contratiempo claro y un silencio intencional en el tercer pulso.
 
-Toca **re-la** en el primer pulso y en el contratiempo de dos, y descansa durante el tercer pulso. Mantén iguales las notas cortas y haz que el silencio sea intencional.
-
-Cambia al registro agudo para **fa#-la** en el contratiempo de tres y el cuarto pulso. Prepara el cambio durante el silencio; no apresures la entrada.
-
-Repite la célula de dos compases cuatro veces, alternando finales graves y agudos. Si desaparece el contratiempo, di “uno-y-dos” y baja a 70 bpm.
-
-Termina con un groove de ocho compases que cambie de registro dos veces, conserve el silencio y añada solo una nota nueva de la escala. Haz que el bombo y tu primer re sean compañeros.
-
-:::checkpoint Toca un groove de bajo de ocho compases en re mayor con dos cambios de posición, un contratiempo claro y un silencio intencional en el tercer pulso.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass-Synkopenbrücke
+# Referenz in Prüfung · Bass-Synkopenbrücke
 
-Stelle **88 bpm** ein und klopfe Viertel, bevor du spielst. Die Aufgabe ist, den Groove zu bewegen, ohne seinen Herzschlag zu verschieben.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen achttaktigen D-Dur-Bassgroove mit zwei Lagenwechseln, klarer Synkope und einer bewussten Pause auf der Drei.
 
-Spiele **D-A** auf Eins und der Und von Zwei, dann pausiere über die Drei. Halte die kurzen Töne gleich und lass die Stille bewusst wirken.
-
-Wechsle für **Fis-A** in die hohe Lage auf der Und von Drei und auf Vier. Bereite den Wechsel während der Pause vor und hetze den Einsatz nicht.
-
-Wiederhole die zweitaktige Zelle viermal und wechsle zwischen tiefem und hohem Ende. Wenn die Synkope verschwindet, sprich „eins-und-zwei“ und gehe auf 70 bpm.
-
-Beende mit einem achttaktigen Groove, der zweimal die Lage wechselt, die Pause behält und nur einen neuen Skalenton ergänzt. Lass Kick und dein erstes D wie ein Team wirken.
-
-:::checkpoint Spiele einen achttaktigen D-Dur-Bassgroove mit zwei Lagenwechseln, klarer Synkope und einer bewussten Pause auf der Drei.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベースのシンコペーション橋
+# 確認中の参照 · ベースのシンコペーション橋
 
-**88 bpm**に設定し、弾く前に4分音符をタップします。目的は、拍の鼓動を動かさずにグルーヴを移すことです。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：2回のポジション移動、明確な裏拍、3拍目の意図した休符を含む8小節のDメジャー・ベースグルーヴを弾きます。
 
-1拍目と2拍目の裏で**D-A**を弾き、3拍目は休みます。短い音価をそろえ、休符を意図的に感じます。
-
-3拍目の裏と4拍目に高い音域の**F#-A**へ移ります。休符の間に移動を準備し、入りを急がないでください。
-
-2小節の音型を4回ループし、低い終わりと高い終わりを交互にします。裏拍が消えたら「1と2」と声に出し、70 bpmに下げます。
-
-最後は8小節のグルーヴにし、音域を2回変え、休符を残し、スケールの新しい音は1つだけ加えます。キックと最初のDを仲間のように感じます。
-
-:::checkpoint 2回のポジション移動、明確な裏拍、3拍目の意図した休符を含む8小節のDメジャー・ベースグルーヴを弾きます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯切分桥
+# 审核中的参考 · 贝斯切分桥
 
-设为**88 bpm**，演奏前先敲出四分音符。挑战是移动律动，但不移动它的心跳。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：演奏八小节D大调贝斯律动，完成两次换把，保持清晰反拍，并在第三拍有意休止。
 
-在第一拍和第二拍的后半拍演奏**D-A**，第三拍保持休止。让短音长度一致，使静默听起来是有意的。
-
-在第三拍后半拍和第四拍换到高音区演奏**F#-A**。利用休止准备换把，不要抢着进入。
-
-将两小节音型循环四次，交替使用低音区和高音区结尾。如果反拍消失，就念“1-and-2”，并降到70 bpm。
-
-最后演奏八小节律动，换音区两次，保留休止，只增加一个新的音阶音。让底鼓和第一个D像队友一样配合。
-
-:::checkpoint 演奏八小节D大调贝斯律动，完成两次换把，保持清晰反拍，并在第三拍有意休止。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```notes
-key: D major
-tempo: 88 bpm
-sequence: D-A/- | F#-A
-```
-
-```fretboard
-tuning: E-A-D-G
-fretRange: 2-7
-positions: 3:0 D, 2:0 A, 2:4 C#, 1:2 A, 1:4 B, 1:7 D
-rhythm: D/- A/- | F# A/-
+```quiz
+id: bass-syncopation-bridge-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

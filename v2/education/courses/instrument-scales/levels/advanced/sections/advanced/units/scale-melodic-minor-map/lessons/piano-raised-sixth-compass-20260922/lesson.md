@@ -6,7 +6,7 @@ level: advanced
 section: advanced
 unit: scale-melodic-minor-map
 order: 11
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: The sixth points the way
@@ -31,7 +31,7 @@ Set 60 BPM in 4/4 and reserve seven minutes. Both cards climb G–sixth–B–C 
 
 Play C3 with the left hand on beat 1 only. The right hand plays G4, then Ab4 or A4, then B4, then C5 on beats 1–4, using fingers 1–2–3–4 if comfortable. Release each key before the next; use no pedal. Every bracket starts C3 and G4 together. The low C establishes the tonic but does not replace the melody.
 
-Play A and B with identical timing and dynamics. Ab4 to B4 spans an augmented second, three semitones; A4 to B4 is a whole step, two semitones. A harmonic minor has C–D–Eb–F–G–Ab–B; C melodic minor ascending has C–D–Eb–F–G–A–B. The four-note cards spotlight only the sixth difference.
+Play A and B with identical timing and dynamics. Ab4 to B4 spans an augmented second, three semitones; A4 to B4 is a whole step, two semitones. C harmonic minor has C–D–Eb–F–G–Ab–B; C melodic minor ascending has C–D–Eb–F–G–A–B. The four-note cards spotlight only the sixth difference.
 
 Ask a partner to play A or B four times while you look away, then name harmonic or melodic minor and sing the second right-hand note. Alone, record A–B–B–A and answer before looking at the score; score your memory rather than claiming a blind test. In either case, verify Ab–A–A–Ab.
 
@@ -121,7 +121,7 @@ id: piano-raised-sixth-compass-20260922-1
 title: A
 instrument: piano
 tempo: 60
-sequence: [C3 G4]/1 Ab4/1 B4/1 C5/1
+sequence: [C3,G4]/1 Ab4/1 B4/1 C5/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-raised-sixth-compass-20260922-2
 title: B
 instrument: piano
 tempo: 60
-sequence: [C3 G4]/1 A4/1 B4/1 C5/1
+sequence: [C3,G4]/1 A4/1 B4/1 C5/1
 ```

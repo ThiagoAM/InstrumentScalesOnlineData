@@ -16,6 +16,7 @@ concurrency:
 
 jobs:
   build:
+    timeout-minutes: 20
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,12 +26,17 @@ jobs:
           node-version: 22
       - run: node scripts/validate-v2.js
       - run: node scripts/audit-v2-bulk.js --no-revision-one
+      - name: Verify both actual Swift parser receipts for these bytes
+        run: node scripts/audit-swift-parser.js --verify
+      - name: Verify editorial and human publication gates
+        run: node scripts/validate-editorial.js --publication
       - run: node --test tests/*.test.js
       - run: node scripts/build-pages.js
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
   deploy:
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,6 +47,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
   smoke:
+    timeout-minutes: 10
     runs-on: ubuntu-latest
     needs: deploy
     steps:

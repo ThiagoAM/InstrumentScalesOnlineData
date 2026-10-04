@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 89
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Half-step landing bridge
-title.pt-BR: Ponte da chegada por semitom
-title.es: Puente de llegada por semitono
-title.de: Halbton-Landungsbrücke
-title.ja: 半音着地ブリッジ
-title.zh-Hans: 半音落点桥
-summary.en: Use a lower chromatic neighbor to make a scale phrase land on the third of each chord.
-summary.pt-BR: Use a vizinho cromático inferior para fazer uma frase de escala chegar à terça de cada acorde.
-summary.es: Usa un vecino cromático inferior para hacer que una frase de escala llegue a la tercera de cada acorde.
-summary.de: Nutze einen unteren chromatischen Nachbarton, damit eine Skalenphrase auf der Terz jedes Akkords landet.
-summary.ja: 下行半音の隣接音を使い、各コードの3度へスケールフレーズを着地させます。
-summary.zh-Hans: 用下方半音邻音，让音阶乐句落到每个和弦的三级音。
+title.en: Reference in review · Half-step landing bridge
+title.pt-BR: Referência em revisão · Ponte da chegada por semitom
+title.es: Referencia en revisión · Puente de llegada por semitono
+title.de: Referenz in Prüfung · Halbton-Landungsbrücke
+title.ja: 確認中の参照 · 半音着地ブリッジ
+title.zh-Hans: 审核中的参考 · 半音落点桥
+summary.en: Original goal, physical practice under review: Use a lower chromatic neighbor to make a scale phrase land on the third of each chord.
+summary.pt-BR: Objetivo original, prática física em revisão: Use a vizinho cromático inferior para fazer uma frase de escala chegar à terça de cada acorde.
+summary.es: Objetivo original, práctica física en revisión: Usa un vecino cromático inferior para hacer que una frase de escala llegue a la tercera de cada acorde.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Nutze einen unteren chromatischen Nachbarton, damit eine Skalenphrase auf der Terz jedes Akkords landet.
+summary.ja: 元の目標（実技確認中）：下行半音の隣接音を使い、各コードの3度へスケールフレーズを着地させます。
+summary.zh-Hans: 原目标（实体演奏待审）：用下方半音邻音，让音阶乐句落到每个和弦的三级音。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Half-step landing bridge
+# Reference in review · Half-step landing bridge
 
-Loop **| Am7 | D7 | Gmaj7 | Cmaj7 |** at **76 bpm**. Improvise only with G major notes, leaving the last eighth note of each bar open.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars that land on C, F#, B, and E on beat 1, with a clear lower chromatic approach on the final eighth note. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Target **C, F#, B, E** on beat 1: approach each target from one fret below on the last eighth note, then let the target ring for two beats.
-
-Round 2: begin each bar with a three-note pickup from the same scale, but keep the chromatic neighbor quiet until the final eighth note. Listen for the pull before the landing.
-
-Boss pass: play six loops and change register every two bars. If the target is late, slow to **60 bpm** and speak the target before playing the approach.
-
-:::checkpoint Play four bars that land on C, F#, B, and E on beat 1, with a clear lower chromatic approach on the final eighth note.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Ponte da chegada por semitom
+# Referência em revisão · Ponte da chegada por semitom
 
-Faça um loop em **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **76 bpm**. Improvise apenas com notas de sol maior, deixando a última colcheia de cada compasso livre.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos chegando em C, F#, B e E no tempo 1, com uma aproximação cromática inferior clara na última colcheia. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-Mire em **C, F#, B, E** no tempo 1: aproxime-se de cada alvo um traste abaixo na última colcheia e deixe o alvo soar por dois tempos.
-
-Rodada 2: comece cada compasso com uma antecipação de três notas da mesma escala, mas mantenha o vizinho cromático em silêncio até a última colcheia. Ouça a atração antes da chegada.
-
-Passagem chefão: toque seis loops e mude de registro a cada dois compassos. Se o alvo atrasar, reduza para **60 bpm** e fale o alvo antes de tocar a aproximação.
-
-:::checkpoint Toque quatro compassos chegando em C, F#, B e E no tempo 1, com uma aproximação cromática inferior clara na última colcheia.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Puente de llegada por semitono
+# Referencia en revisión · Puente de llegada por semitono
 
-Repite **| Am7 | D7 | Gmaj7 | Cmaj7 |** a **76 bpm**. Improvisa solo con notas de sol mayor y deja libre la última corchea de cada compás.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases que lleguen a C, F#, B y E en el tiempo 1, con una aproximación cromática inferior clara en la última corchea. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-Apunta a **C, F#, B, E** en el tiempo 1: acércate a cada objetivo desde un traste abajo en la última corchea y deja sonar el objetivo dos pulsos.
-
-Ronda 2: empieza cada compás con una anticipación de tres notas de la misma escala, pero calla el vecino cromático hasta la última corchea. Escucha la atracción antes de llegar.
-
-Pasada jefe: toca seis bucles y cambia de registro cada dos compases. Si el objetivo llega tarde, baja a **60 bpm** y di el objetivo antes de tocar la aproximación.
-
-:::checkpoint Toca cuatro compases que lleguen a C, F#, B y E en el tiempo 1, con una aproximación cromática inferior clara en la última corchea.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Halbton-Landungsbrücke
+# Referenz in Prüfung · Halbton-Landungsbrücke
 
-Loope **| Am7 | D7 | Gmaj7 | Cmaj7 |** bei **76 bpm**. Improvisiere nur mit G-Dur-Tönen und lasse die letzte Achtel jedes Taktes frei.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte und lande auf C, F#, B und E auf Schlag 1, mit einer klaren unteren chromatischen Annäherung auf der letzten Achtel. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Ziele **C, F#, B, E** auf Schlag 1 an: Nähere dich jedem Ziel auf der letzten Achtel von einem Bund darunter und lasse das Ziel zwei Schläge klingen.
-
-Runde 2: Beginne jeden Takt mit einem dreitönigen Auftakt aus derselben Tonleiter, aber halte den chromatischen Nachbarton bis zur letzten Achtel zurück. Höre die Spannung vor der Landung.
-
-Boss-Durchgang: Spiele sechs Loops und wechsle alle zwei Takte das Register. Wenn das Ziel zu spät kommt, gehe auf **60 bpm** und sprich das Ziel vor der Annäherung.
-
-:::checkpoint Spiele vier Takte und lande auf C, F#, B und E auf Schlag 1, mit einer klaren unteren chromatischen Annäherung auf der letzten Achtel.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# 半音着地ブリッジ
+# 確認中の参照 · 半音着地ブリッジ
 
-**76 bpm**で **| Am7 | D7 | Gmaj7 | Cmaj7 |** をループします。Gメジャーの音だけで即興し、各小節の最後の8分音符を空けます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：C、F#、B、Eへ1拍目に着地する4小節を、最後の8分音符の明確な下行半音アプローチ付きで弾きましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-1拍目の目標を **C、F#、B、E** にします。最後の8分音符で1フレット下から半音で近づき、目標音を2拍伸ばします。
-
-ラウンド2では同じスケールの3音ピックアップで各小節を始めますが、半音の隣接音は最後の8分音符まで隠します。着地前の引力を聴きましょう。
-
-ボスパスでは6ループ弾き、2小節ごとに音域を変えます。遅れたら **60 bpm** に下げ、アプローチ前に目標音を声に出します。
-
-:::checkpoint C、F#、B、Eへ1拍目に着地する4小節を、最後の8分音符の明確な下行半音アプローチ付きで弾きましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 半音落点桥
+# 审核中的参考 · 半音落点桥
 
-以 **76 bpm** 循环 **| Am7 | D7 | Gmaj7 | Cmaj7 |**。只用G大调音符即兴，并让每小节最后一个八分音符空出来。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：弹四小节，让C、F#、B、E在第1拍落地，并在最后一个八分音符有清楚的下方半音接近。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-目标是第1拍的 **C、F#、B、E**：在最后一个八分音符从低一品半音接近，然后让目标音延续两拍。
-
-第2轮：每小节用同一音阶的三个音前奏开始，但直到最后一个八分音符才弹出半音邻音。听清落点前的拉力。
-
-挑战轮：弹六遍循环，每两小节改变音区。如果目标晚了，就降到 **60 bpm**，先说出目标音再弹接近音。
-
-:::checkpoint 弹四小节，让C、F#、B、E在第1拍落地，并在最后一个八分音符有清楚的下方半音接近。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -109,15 +75,5 @@ id: guitar-chromatic-third-bridge-main
 title: G major third targets
 instrument: guitar
 tempo: 76
-sequence: A3 B3 C4 - - - B3 C4 | D4 E4 F#4 - - - F4 F#4 | G4 A4 B4 - - - A#3 B3 | C4 D4 E4 - - - D#4 E4
-```
-
-```fretboard
-id: guitar-chromatic-third-bridge-map
-title: Target approach map
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 2-7
-tempo: 76
-positions: 5:3 4:4 3:4 2:5 2:7
+sequence: A3 B3 C4 - - - B3 C4 D4 E4 F#4 - - - F4 F#4 G4 A4 B4 - - - A#3 B3 C4 D4 E4 - - - D#4 E4
 ```

@@ -6,126 +6,86 @@ level: intermediate
 section: intermediate
 unit: position-bridges
 order: 15
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: piano
-title.en: Piano hands crossing
-title.pt-BR: Mãos cruzadas no piano
-title.es: Cruce de manos en piano
-title.de: Hände kreuzen am Klavier
-title.ja: ピアノの手の交差
-title.zh-Hans: 钢琴双手交叉
-summary.en: Pass a short G-major melody across the hands without losing its pulse.
-summary.pt-BR: Passe uma melodia curta em sol maior entre as mãos sem perder a pulsação.
-summary.es: Pasa una melodía breve de sol mayor entre las manos sin perder el pulso.
-summary.de: Gib eine kurze G-Dur-Melodie zwischen den Händen weiter, ohne den Puls zu verlieren.
-summary.ja: 拍を失わずに、短いGメジャーの旋律を両手の間で受け渡します。
-summary.zh-Hans: 保持节拍，把短小的G大调旋律在双手之间传递。
+title.en: Reference in review · Piano hands crossing
+title.pt-BR: Referência em revisão · Mãos cruzadas no piano
+title.es: Referencia en revisión · Cruce de manos en piano
+title.de: Referenz in Prüfung · Hände kreuzen am Klavier
+title.ja: 確認中の参照 · ピアノの手の交差
+title.zh-Hans: 审核中的参考 · 钢琴双手交叉
+summary.en: Original goal, physical practice under review: Pass a short G-major melody across the hands without losing its pulse.
+summary.pt-BR: Objetivo original, prática física em revisão: Passe uma melodia curta em sol maior entre as mãos sem perder a pulsação.
+summary.es: Objetivo original, práctica física en revisión: Pasa una melodía breve de sol mayor entre las manos sin perder el pulso.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Gib eine kurze G-Dur-Melodie zwischen den Händen weiter, ohne den Puls zu verlieren.
+summary.ja: 元の目標（実技確認中）：拍を失わずに、短いGメジャーの旋律を両手の間で受け渡します。
+summary.zh-Hans: 原目标（实体演奏待审）：保持节拍，把短小的G大调旋律在双手之间传递。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Piano hands crossing
+# Reference in review · Piano hands crossing
 
-Set **72 bpm**. Right hand plays **G-A-B-A**; let the thumb relax after B, then let the left hand answer one octave lower.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play eight bars of alternating-hand G-major phrases with a smooth A handoff, held D endings, and one clear silent beat.
 
-Keep the melody legato while the hands trade jobs. The crossing is a quiet pass at A, not a dramatic jump.
-
-Play four bars: right hand, left hand, right hand, left hand. Count eighth notes aloud until the handoff feels predictable.
-
-Now add a held D at the end of each bar. Keep D warm while the other hand prepares the next answer.
-
-Challenge: make an eight-bar call-and-response with one silent beat before the final right-hand answer.
-
-:::checkpoint Play eight bars of alternating-hand G-major phrases with a smooth A handoff, held D endings, and one clear silent beat.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Mãos cruzadas no piano
+# Referência em revisão · Mãos cruzadas no piano
 
-Marque **72 bpm**. A mão direita toca **sol-lá-si-lá**; relaxe o polegar depois do si e deixe a mão esquerda responder uma oitava abaixo.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque oito compassos alternando frases em sol maior entre as mãos, passando suavemente no lá, terminando em ré sustentado e com um tempo claro de silêncio.
 
-Mantenha a melodia ligada enquanto as mãos trocam de função. A passagem acontece suavemente no lá, sem um salto dramático.
-
-Toque quatro compassos: direita, esquerda, direita, esquerda. Conte colcheias em voz alta até a troca ficar previsível.
-
-Agora sustente um ré no fim de cada compasso. Mantenha o ré presente enquanto a outra mão prepara a resposta.
-
-Desafio: crie oito compassos de pergunta e resposta com um tempo silencioso antes da resposta final da direita.
-
-:::checkpoint Toque oito compassos alternando frases em sol maior entre as mãos, passando suavemente no lá, terminando em ré sustentado e com um tempo claro de silêncio.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Cruce de manos en piano
+# Referencia en revisión · Cruce de manos en piano
 
-Pon **72 bpm**. La mano derecha toca **sol-la-si-la**; relaja el pulgar después de si y deja que la izquierda responda una octava abajo.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca ocho compases alternando frases de sol mayor, con relevo suave en la, finales en re sostenido y un pulso claro de silencio.
 
-Mantén la melodía ligada mientras las manos cambian de función. El cruce ocurre suavemente en la, sin un salto exagerado.
-
-Toca cuatro compases: derecha, izquierda, derecha, izquierda. Cuenta corcheas en voz alta hasta que el relevo sea predecible.
-
-Añade ahora un re sostenido al final de cada compás. Mantén re presente mientras la otra mano prepara la respuesta.
-
-Reto: crea ocho compases de pregunta y respuesta con un pulso de silencio antes de la respuesta final de la derecha.
-
-:::checkpoint Toca ocho compases alternando frases de sol mayor, con relevo suave en la, finales en re sostenido y un pulso claro de silencio.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Hände kreuzen am Klavier
+# Referenz in Prüfung · Hände kreuzen am Klavier
 
-Stelle **72 bpm** ein. Die rechte Hand spielt **G-A-H-A**; entspanne den Daumen nach H, dann antwortet die linke Hand eine Oktave tiefer.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele acht Takte abwechselnde G-Dur-Phrasen mit ruhigem A-Übergang, gehaltenen D-Enden und einem klaren stillen Schlag.
 
-Halte die Melodie legato, während die Hände die Aufgabe tauschen. Der Übergang geschieht ruhig auf A, ohne großen Sprung.
-
-Spiele vier Takte: rechts, links, rechts, links. Zähle Achtel laut, bis der Wechsel vorhersehbar wird.
-
-Halte nun am Ende jedes Taktes ein D. Lass D weiterklingen, während die andere Hand die nächste Antwort vorbereitet.
-
-Herausforderung: Erfinde acht Takte Frage und Antwort mit einem stillen Schlag vor der letzten Antwort rechts.
-
-:::checkpoint Spiele acht Takte abwechselnde G-Dur-Phrasen mit ruhigem A-Übergang, gehaltenen D-Enden und einem klaren stillen Schlag.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ピアノの手の交差
+# 確認中の参照 · ピアノの手の交差
 
-**72 bpm**にします。右手で **G-A-B-A** を弾き、Bの後で親指をゆるめ、左手が1オクターブ下で答えます。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：両手でGメジャーの短句を交互に8小節弾き、Aで滑らかに受け渡し、Dを伸ばし、1拍の休みを入れます。
 
-両手が役割を替えてもレガートを保ちます。交差はAで静かに受け渡し、大きく跳びません。
-
-右手、左手、右手、左手の順で4小節弾きます。受け渡しが予測できるまで8分音符を声に出して数えます。
-
-各小節の最後にDを伸ばします。もう一方の手が次の答えを準備する間もDを響かせます。
-
-課題：最後の右手の答えの前に1拍の無音を置いた、8小節の問いと答えを作ります。
-
-:::checkpoint 両手でGメジャーの短句を交互に8小節弾き、Aで滑らかに受け渡し、Dを伸ばし、1拍の休みを入れます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 钢琴双手交叉
+# 审核中的参考 · 钢琴双手交叉
 
-设为**72 bpm**。右手弹 **G-A-B-A**；B之后放松拇指，再让左手低一个八度回答。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：用双手交替弹八小节G大调短句，在A处平滑交接，以延长的D收尾，并加入一个清楚的静默拍。
 
-双手交换职责时保持连奏。交接在A音处安静完成，不要夸张跳跃。
-
-弹四小节：右手、左手、右手、左手。大声数八分音符，直到交接变得可预测。
-
-现在每小节末尾保持D。另一只手准备下一次回答时，让D继续温暖地响着。
-
-挑战：创作八小节问答，在最后一次右手回答前加入一拍静默。
-
-:::checkpoint 用双手交替弹八小节G大调短句，在A处平滑交接，以延长的D收尾，并加入一个清楚的静默拍。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```notes
-key: G major
-tempo: 72 bpm
-sequence: G4 A4 B4 A4 | G3 A3 B3 A3 | G4 A4 B4 A4 | G3 A3 B3 A3
-```
-
-```keyboard
-range: G3-D5
-rightHand: 1-2-3-2
-leftHand: 5-4-3-4
-passNote: A4/A3
-sequence: G-A-B-A | G-A-B-A
+```quiz
+id: piano-hands-crossing-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```

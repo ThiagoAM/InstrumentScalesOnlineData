@@ -5,7 +5,7 @@ const os = require("node:os");
 const path = require("node:path");
 
 const { ACCEPTED_FENCES, REQUIRED_LOCALES, validateV2 } = require("../scripts/validate-v2");
-const { countLessonFiles } = require("./helpers/repository-content");
+const { countLegacyLessonFiles, countDailyRiffs } = require("./helpers/repository-content");
 const publishedBaseline = require("./fixtures/published-foundational-lessons.json");
 
 const repositoryV2 = path.join(__dirname, "..", "v2");
@@ -240,9 +240,67 @@ test("stray file in lesson directory fails", () => {
 test("real repository tree passes with strict locales and new formats", () => {
   const result = validateV2(repositoryV2);
   assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
-  assert.equal(result.lessons, countLessonFiles(repositoryV2));
+  assert.equal(result.lessons, countLegacyLessonFiles(repositoryV2));
   assert.equal(result.courses, 2);
-  assert.equal(result.riffs, 35);
+  assert.equal(result.riffs, countDailyRiffs(repositoryV2));
+});
+
+test("guided source files do not change the legacy validation count", (t) => {
+  const fixture = makeTree();
+  t.after(() => fs.rmSync(fixture.root, { recursive: true, force: true }));
+  const guided = path.join(fixture.root, "education", "guided", "guitar", "new-unit", "new-lesson", "lesson.md");
+  fs.mkdirSync(path.dirname(guided), { recursive: true });
+  fs.writeFileSync(guided, "A guided document belongs to the isolated paths validator.");
+  const result = validateV2(fixture.root);
+  assert.equal(result.valid, true, JSON.stringify(result.errors, null, 2));
+  assert.equal(result.lessons, 1);
+  assert.equal(countLegacyLessonFiles(fixture.root), 1);
+});
+
+test("one additional published riff grows the catalog count without changing lessons", (t) => {
+  const fixture = makeTree();
+  t.after(() => fs.rmSync(fixture.root, { recursive: true, force: true }));
+  const dailyPath = path.join(fixture.root, "daily", "riffs.json");
+  fs.mkdirSync(path.dirname(dailyPath), { recursive: true });
+  const riff = (id, date, degrees) => ({
+    id, date, titles: localized(id), blurbs: localized(`Play the distinct phrase ${id}`),
+    fence: { type: "scale", source: `id: ${id}\nroot: C\nscale: Major\ndegrees: ${degrees}` },
+  });
+  const catalog = { schema: 2, revision: 1, riffs: [riff("first-riff", "2026-07-27", "1 3 2 1")] };
+  fs.writeFileSync(dailyPath, JSON.stringify(catalog));
+  const before = validateV2(fixture.root);
+  assert.equal(before.valid, true, JSON.stringify(before.errors, null, 2));
+  assert.equal(before.riffs, countDailyRiffs(fixture.root));
+  assert.equal(before.riffs, 1);
+  catalog.riffs.push(riff("new-riff", "2026-07-28", "1 2 3 1"));
+  catalog.revision += 1;
+  fs.writeFileSync(dailyPath, JSON.stringify(catalog));
+  const after = validateV2(fixture.root);
+  assert.equal(after.valid, true, JSON.stringify(after.errors, null, 2));
+  assert.equal(after.riffs, countDailyRiffs(fixture.root));
+  assert.equal(after.riffs, before.riffs + 1);
+  assert.equal(after.lessons, before.lessons);
+});
+
+test("the archive retains 838 historical identities while new lessons remain optional", () => {
+  const baseline = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "editorial", "baseline-lesson-identities.json"), "utf8"));
+  assert.equal(baseline.lessons.length, 838, "The historical archive snapshot must not be regenerated around new publications");
+  const current = fs.readdirSync(path.join(repositoryV2, "education", "courses"), { withFileTypes: true })
+    .filter((entry) => entry.isDirectory()).flatMap((entry) => {
+      const catalog = JSON.parse(fs.readFileSync(path.join(repositoryV2, "education", "courses", entry.name, "catalog.json"), "utf8"));
+      return catalog.sections.flatMap((section) => section.units.flatMap((unit) =>
+        unit.lessons.map((lesson) => ({ course: entry.name, ...lesson }))));
+    });
+  const key = (lesson) => `${lesson.course}:${lesson.id}`;
+  const currentByID = new Map(current.map((lesson) => [key(lesson), lesson]));
+  const historicalIDs = new Set(baseline.lessons.map(key));
+  assert.equal(currentByID.size, current.length, "Catalog identities must be unique within each course");
+  for (const original of baseline.lessons) {
+    assert.equal(currentByID.get(key(original))?.path, original.path, `Preserve the historical ID and URL ${key(original)}`);
+  }
+  for (const lesson of current.filter((entry) => !historicalIDs.has(key(entry)))) {
+    assert.equal(lesson.optional, true, `New archive lesson ${key(lesson)} must not extend the required path`);
+  }
 });
 
 test("real repository adds one hundred lessons to every v2 section", () => {

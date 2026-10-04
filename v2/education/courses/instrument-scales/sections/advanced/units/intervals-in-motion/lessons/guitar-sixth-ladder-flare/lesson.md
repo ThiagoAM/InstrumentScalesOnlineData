@@ -6,119 +6,76 @@ level: advanced
 section: advanced
 unit: intervals-in-motion
 order: 6
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar sixth ladder flare
-title.pt-BR: Escada em sextas na guitarra
-title.es: Escalera de sextas en guitarra
-title.de: Gitarren-Sechstenleiter mit Glanz
-title.ja: ギター・6度ラダー・フレア
-title.zh-Hans: 吉他六度阶梯冲刺
-summary.en: Climb diatonic sixths, then accent the top note so each interval sounds like a destination.
-summary.pt-BR: Suba em sextas diatônicas e destaque a nota de cima para cada intervalo soar como destino.
-summary.es: Asciende en sextas diatónicas y acentúa la nota superior para que cada intervalo suene como una llegada.
-summary.de: Steige in diatonischen Sexten auf und betone den oberen Ton, damit jedes Intervall wie ein Ziel klingt.
-summary.ja: ダイアトニック6度で上がり、上の音を際立たせて各音程を着地点として響かせます。
-summary.zh-Hans: 以自然音六度上行，并突出上方音，让每组音程都像一次到达。
+title.en: Reference in review · Guitar sixth ladder flare
+title.pt-BR: Referência em revisão · Escada em sextas na guitarra
+title.es: Referencia en revisión · Escalera de sextas en guitarra
+title.de: Referenz in Prüfung · Gitarren-Sechstenleiter mit Glanz
+title.ja: 確認中の参照 · ギター・6度ラダー・フレア
+title.zh-Hans: 审核中的参考 · 吉他六度阶梯冲刺
+summary.en: Original goal, physical practice under review: Climb diatonic sixths, then accent the top note so each interval sounds like a destination.
+summary.pt-BR: Objetivo original, prática física em revisão: Suba em sextas diatônicas e destaque a nota de cima para cada intervalo soar como destino.
+summary.es: Objetivo original, práctica física en revisión: Asciende en sextas diatónicas y acentúa la nota superior para que cada intervalo suene como una llegada.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Steige in diatonischen Sexten auf und betone den oberen Ton, damit jedes Intervall wie ein Ziel klingt.
+summary.ja: 元の目標（実技確認中）：ダイアトニック6度で上がり、上の音を際立たせて各音程を着地点として響かせます。
+summary.zh-Hans: 原目标（实体演奏待审）：以自然音六度上行，并突出上方音，让每组音程都像一次到达。
+
+contentStatus: quarantined
 ---
+
 :::localized
 :::locale en
-# Guitar sixth ladder flare
+# Reference in review · Guitar sixth ladder flare
 
-Set a metronome to **82 bpm** and stay near **5th position** in **C major**. You are climbing a ladder of **diatonic sixths**, so each pair should feel wide but balanced instead of like two unrelated notes.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play four bars of diatonic sixths in time, keep the upper note controlled, and finish with a clear E-C resolution. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 climbs through **C-A, D-B, E-C, F-D** in even eighth notes. Let the lower note speak first in your mind, then slightly brighten the upper note so the interval feels lifted instead of flat.
-
-Round 2 comes back down immediately, but now hold the top note of every second pair for one extra eighth note. That tiny delay forces you to hear which note is carrying the phrase instead of just surviving the shape.
-
-Boss round: write a 4-bar etude where bars 1 and 2 climb, bar 3 drops suddenly to the first pair, and bar 4 rebuilds to **F-D** before resolving to **E-C**. If the stretch gets tense, slow down and make the hand shape smaller before digging in.
-
-:::checkpoint Play four bars of diatonic sixths in time, keep the upper note controlled, and finish with a clear E-C resolution.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Escada em sextas na guitarra
+# Referência em revisão · Escada em sextas na guitarra
 
-Ajuste o metrônomo para **82 bpm** e fique perto da **5ª posição** em **Dó maior**. Você vai subir uma escada de **sextas diatônicas**, então cada par precisa soar amplo, mas equilibrado, e não como duas notas sem relação.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque quatro compassos de sextas diatônicas no tempo, controle a nota de cima e termine com uma resolução clara em E-C. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A Rodada 1 sobe por **C-A, D-B, E-C, F-D** em colcheias regulares. Faça a nota de baixo falar primeiro na sua cabeça e depois dê um leve brilho à nota de cima para o intervalo soar elevado, não apagado.
-
-A Rodada 2 desce imediatamente, mas agora segure a nota de cima de cada segundo par por mais uma colcheia. Esse pequeno atraso obriga você a ouvir qual nota está conduzindo a frase em vez de apenas sobreviver ao desenho.
-
-Rodada chefão: escreva um estudo de 4 compassos em que os compassos 1 e 2 subam, o compasso 3 caia de repente para o primeiro par e o compasso 4 reconstrua até **F-D** antes de resolver em **E-C**. Se a abertura da mão ficar tensa, diminua o andamento e compacte a forma antes de atacar mais forte.
-
-:::checkpoint Toque quatro compassos de sextas diatônicas no tempo, controle a nota de cima e termine com uma resolução clara em E-C.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Escalera de sextas en guitarra
+# Referencia en revisión · Escalera de sextas en guitarra
 
-Pon el metrónomo a **82 bpm** y quédate cerca de la **5ª posición** en **Do mayor**. Vas a subir una escalera de **sextas diatónicas**, así que cada pareja debe sentirse amplia pero equilibrada, no como dos notas sin relación.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca cuatro compases de sextas diatónicas a tiempo, controla la nota superior y termina con una resolución clara en E-C. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La Ronda 1 asciende por **C-A, D-B, E-C, F-D** en corcheas parejas. Haz que la nota inferior hable primero en tu mente y luego ilumina un poco la superior para que el intervalo se sienta elevado y no plano.
-
-La Ronda 2 baja enseguida, pero ahora mantén la nota superior de cada segunda pareja una corchea extra. Ese pequeño retraso te obliga a oír qué nota está guiando la frase en lugar de limitarte a sobrevivir a la forma.
-
-Ronda jefe: escribe un estudio de 4 compases donde los compases 1 y 2 suban, el compás 3 caiga de golpe a la primera pareja y el compás 4 reconstruya hasta **F-D** antes de resolver en **E-C**. Si la apertura de la mano se tensa, baja el tempo y reduce la forma antes de atacar más fuerte.
-
-:::checkpoint Toca cuatro compases de sextas diatónicas a tiempo, controla la nota superior y termina con una resolución clara en E-C.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Sechstenleiter mit Glanz
+# Referenz in Prüfung · Gitarren-Sechstenleiter mit Glanz
 
-Stelle das Metronom auf **82 bpm** und bleibe in **C-Dur** etwa in der **5. Lage**. Du steigst eine Leiter aus **diatonischen Sexten** hinauf, also soll jedes Paar weit, aber ausgeglichen klingen und nicht wie zwei voneinander getrennte Töne.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele vier Takte diatonische Sexten im Puls, kontrolliere den oberen Ton und ende mit einer klaren Auflösung nach E-C. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1 steigt über **C-A, D-B, E-C, F-D** in gleichmäßigen Achteln auf. Lass den unteren Ton gedanklich zuerst sprechen und gib dem oberen Ton dann etwas Glanz, damit das Intervall sich gehoben statt flach anfühlt.
-
-Runde 2 geht sofort wieder abwärts, aber jetzt hältst du bei jedem zweiten Paar den oberen Ton eine zusätzliche Achtel lang. Diese kleine Verzögerung zwingt dich dazu zu hören, welcher Ton die Phrase trägt, statt nur die Form zu überstehen.
-
-Boss-Runde: Schreibe eine 4-taktige Etüde, in der Takt 1 und 2 aufsteigen, Takt 3 plötzlich zum ersten Paar zurückfällt und Takt 4 wieder bis **F-D** aufbaut, bevor er nach **E-C** auflöst. Wenn die Spreizung Spannung erzeugt, nimm Tempo heraus und verkleinere die Handform, bevor du stärker angreifst.
-
-:::checkpoint Spiele vier Takte diatonische Sexten im Puls, kontrolliere den oberen Ton und ende mit einer klaren Auflösung nach E-C.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・6度ラダー・フレア
+# 確認中の参照 · ギター・6度ラダー・フレア
 
-メトロノームを **82 bpm** に設定し、**Cメジャー** の **5ポジション付近**で弾きましょう。今日は **ダイアトニック6度** のはしごを上るので、各ペアは離れていても、ばらばらではなく均衡して聞こえる必要があります。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：ダイアトニック6度を4小節テンポ通りに弾き、上の音を整えて、最後は E-C に明確に解決しましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1では **C-A, D-B, E-C, F-D** を均等な8分音符で上がります。まず下の音が頭の中で先に話し、そのあと上の音を少しだけ明るくして、平坦ではなく持ち上がる感じを作ってください。
-
-ラウンド2ではすぐに下降しますが、今度は2組ごとに上の音を8分音符1つ分長く保ちます。この小さな遅れによって、形をなぞるだけでなく、どの音がフレーズを支えているかを耳でつかめます。
-
-ボスラウンドでは4小節のエチュードを書きます。1・2小節目は上行、3小節目は急に最初のペアへ落ち、4小節目は **F-D** まで作り直してから **E-C** に解決します。開きがきつくなるなら、強く弾く前にテンポを落として手の形を小さくしてください。
-
-:::checkpoint ダイアトニック6度を4小節テンポ通りに弾き、上の音を整えて、最後は E-C に明確に解決しましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他六度阶梯冲刺
+# 审核中的参考 · 吉他六度阶梯冲刺
 
-把节拍器设成 **82 bpm**，在 **C大调** 的 **第5把位附近**练习。你要爬一架 **自然音六度** 的阶梯，所以每组音程都要听起来既开阔又平衡，而不是两颗互不相干的音。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：连续四小节把自然音六度弹稳，控制好上方音，最后清楚地解决到 E-C。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮按均匀八分音符走过 **C-A、D-B、E-C、F-D**。先在心里让下方音站出来，再轻轻提亮上方音，让这个音程听起来像被托起，而不是扁平地摆着。
-
-第2轮立刻下行，但现在每隔一组就把上方音多延长一个八分音符。这个小小的停留会逼你听见到底是哪一个音在带着乐句前进，而不只是硬撑过这个指型。
-
-Boss 轮：写一个4小节练习，第1和第2小节上行，第3小节突然掉回第一组，第4小节重新爬到 **F-D**，再解决到 **E-C**。如果手的张开开始紧张，先放慢速度、缩小手型，再增加力量。
-
-:::checkpoint 连续四小节把自然音六度弹稳，控制好上方音，最后清楚地解决到 E-C。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
-
-```fretboard
-id: sixth-ladder-flare-map
-title: C major sixth lane
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 5-10
-tempo: 82
-positions: 5:8/1 3:5/1 5:10/2 3:7/2 2:8/3 4:5/3 2:10/4 4:7/4
-```
 
 ```notes
 id: sixth-ladder-flare-up
 title: Ascending sixths
 instrument: guitar
 tempo: 82
-sequence: [C3 A3]/2 [D3 B3]/2 [E3 C4]/2 [F3 D4]/2
+sequence: [C3,A3]/2 [D3,B3]/2 [E3,C4]/2 [F3,D4]/2
 ```
 
 ```notes
@@ -126,7 +83,7 @@ id: sixth-ladder-flare-down
 title: Descending with held tops
 instrument: guitar
 tempo: 82
-sequence: [F3 D4]/2 [E3 C4]/3 [D3 B3]/2 [C3 A3]/3
+sequence: [F3,D4]/2 [E3,C4]/3 [D3,B3]/2 [C3,A3]/3
 ```
 
 ```notes
@@ -134,5 +91,5 @@ id: sixth-ladder-flare-boss
 title: Four-bar sixth etude
 instrument: guitar
 tempo: 82
-sequence: [C3 A3] [D3 B3] [E3 C4] [F3 D4]/2 [E3 C4] [F3 D4] [E3 C4] [D3 B3]/2 [C3 A3] - [C3 A3] [D3 B3] [E3 C4] [F3 D4]/2 [E3 C4]/2
+sequence: [C3,A3] [D3,B3] [E3,C4] [F3,D4]/2 [E3,C4] [F3,D4] [E3,C4] [D3,B3]/2 [C3,A3] - [C3,A3] [D3,B3] [E3,C4] [F3,D4]/2 [E3,C4]/2
 ```

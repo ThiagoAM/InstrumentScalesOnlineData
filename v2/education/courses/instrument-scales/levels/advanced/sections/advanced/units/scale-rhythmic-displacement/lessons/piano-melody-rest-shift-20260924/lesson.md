@@ -6,7 +6,7 @@ level: advanced
 section: advanced
 unit: scale-rhythmic-displacement
 order: 12
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: Let the melody enter late
@@ -121,7 +121,7 @@ id: piano-melody-rest-shift-20260924-1
 title: A - on the beat
 instrument: piano
 tempo: 60
-sequence: [C3 C4]/1 [C3 E4]/1 [C3 G4]/1 [C3 E4]/1 | C3/1 C3/1 C3/1 C3/1
+sequence: [C3,C4]/1 [C3,E4]/1 [C3,G4]/1 [C3,E4]/1 C3/1 C3/1 C3/1 C3/1
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: piano-melody-rest-shift-20260924-2
 title: B - one beat later
 instrument: piano
 tempo: 60
-sequence: C3/1 [C3 C4]/1 [C3 E4]/1 [C3 G4]/1 | [C3 E4]/1 C3/1 C3/1 C3/1
+sequence: C3/1 [C3,C4]/1 [C3,E4]/1 [C3,G4]/1 [C3,E4]/1 C3/1 C3/1 C3/1
 ```

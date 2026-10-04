@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "host": "Mac-mini-de-Thiago.local",
+  "status": "active",
+  "policy": "Only this validated Mac publishes. Other hosts may author candidates. Local locks are not cross-host locks; normal Git fast-forward publication and exact remote reconciliation remain required.",
+  "recentProducerAudit": "Parent checked 30 days: OpenClaw Bot through 2026-09-09; owner on Mac from 2026-09-10 through 2026-10-03. This does not prove the Raspberry Pi is shut down.",
+  "repositoryID": "instrument-scales-online-data-v2",
+  "coordinatorThread": "01a10363-3b0b-78c3-8bce-633f7968c7c2",
+  "publicBaseURL": "https://thiagoam.github.io/InstrumentScalesOnlineData"
+}

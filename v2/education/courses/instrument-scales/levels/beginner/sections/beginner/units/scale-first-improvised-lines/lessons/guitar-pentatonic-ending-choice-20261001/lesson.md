@@ -6,7 +6,7 @@ level: beginner
 section: beginner
 unit: scale-first-improvised-lines
 order: 11
-revision: 1
+revision: 2
 estimatedMinutes: 6
 instrument: guitar
 title.en: Choose the last word
@@ -121,7 +121,7 @@ id: guitar-pentatonic-ending-choice-20261001-1
 title: A
 instrument: guitar
 tempo: 60
-sequence: A3/1 C4/1 D4/1 E4/1 | C4/2 A3/2
+sequence: A3/1 C4/1 D4/1 E4/1 C4/2 A3/2
 ```
 
 ```notes
@@ -129,5 +129,5 @@ id: guitar-pentatonic-ending-choice-20261001-2
 title: B
 instrument: guitar
 tempo: 60
-sequence: A3/1 C4/1 D4/1 E4/1 | C4/2 E4/2
+sequence: A3/1 C4/1 D4/1 E4/1 C4/2 E4/2
 ```

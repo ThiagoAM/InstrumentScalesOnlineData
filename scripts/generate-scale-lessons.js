@@ -6,6 +6,7 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 require("./education-format-policy").assertCurrentEducationOnly(path.join(__dirname, ".."));
+require("./education-format-policy").assertSeedWorkspace(path.join(__dirname, ".."));
 
 const COURSE_ROOT = path.resolve(
   __dirname,

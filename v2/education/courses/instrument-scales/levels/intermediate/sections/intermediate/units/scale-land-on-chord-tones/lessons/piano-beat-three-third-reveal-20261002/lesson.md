@@ -6,7 +6,7 @@ level: intermediate
 section: intermediate
 unit: scale-land-on-chord-tones
 order: 13
-revision: 1
+revision: 2
 estimatedMinutes: 7
 instrument: piano
 title.en: Reveal the third on beat three
@@ -121,5 +121,5 @@ id: piano-beat-three-third-reveal-20261002-route
 title: C - Dm - Em
 instrument: piano
 tempo: 60
-sequence: [C3 G4]/2 E4/2 | [D3 A4]/2 F4/2 | [E3 B4]/2 G4/2
+sequence: [C3,G4]/2 E4/2 [D3,A4]/2 F4/2 [E3,B4]/2 G4/2
 ```

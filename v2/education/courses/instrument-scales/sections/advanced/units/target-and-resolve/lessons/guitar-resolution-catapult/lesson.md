@@ -6,113 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 26
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar resolution catapult
-title.pt-BR: Catapulta de resolução na guitarra
-title.es: Catapulta de resolución en guitarra
-title.de: Gitarren-Auflösungs-Katapult
-title.ja: ギター・レゾリューション・カタパルト
-title.zh-Hans: 吉他解决弹射器
-summary.en: Launch compact scale bursts toward each chord tone so every landing sounds bold, early, and fully under control.
-summary.pt-BR: Lance rajadas curtas de escala até cada nota-alvo do acorde para que cada chegada soe ousada, adiantada e totalmente controlada.
-summary.es: Lanza ráfagas compactas de escala hacia cada nota objetivo del acorde para que cada llegada suene valiente, anticipada y totalmente controlada.
-summary.de: Starte kompakte Skalenstöße in jeden Akkordzielton, damit jede Landung mutig, früh und völlig kontrolliert klingt.
-summary.ja: 短いスケールの噴射を各コードトーンへ飛ばし、すべての着地を大胆で先回りした、完全にコントロールされたものにします。
-summary.zh-Hans: 把紧凑的音阶冲刺弹向每个和弦目标音，让每次落点都听起来大胆、提前而且完全可控。
+title.en: Reference in review · Guitar resolution catapult
+title.pt-BR: Referência em revisão · Catapulta de resolução na guitarra
+title.es: Referencia en revisión · Catapulta de resolución en guitarra
+title.de: Referenz in Prüfung · Gitarren-Auflösungs-Katapult
+title.ja: 確認中の参照 · ギター・レゾリューション・カタパルト
+title.zh-Hans: 审核中的参考 · 吉他解决弹射器
+summary.en: Original goal, physical practice under review: Launch compact scale bursts toward each chord tone so every landing sounds bold, early, and fully under control.
+summary.pt-BR: Objetivo original, prática física em revisão: Lance rajadas curtas de escala até cada nota-alvo do acorde para que cada chegada soe ousada, adiantada e totalmente controlada.
+summary.es: Objetivo original, práctica física en revisión: Lanza ráfagas compactas de escala hacia cada nota objetivo del acorde para que cada llegada suene valiente, anticipada y totalmente controlada.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Starte kompakte Skalenstöße in jeden Akkordzielton, damit jede Landung mutig, früh und völlig kontrolliert klingt.
+summary.ja: 元の目標（実技確認中）：短いスケールの噴射を各コードトーンへ飛ばし、すべての着地を大胆で先回りした、完全にコントロールされたものにします。
+summary.zh-Hans: 原目标（实体演奏待审）：把紧凑的音阶冲刺弹向每个和弦目标音，让每次落点都听起来大胆、提前而且完全可控。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar resolution catapult
+# Reference in review · Guitar resolution catapult
 
-Loop **| Dm7 | G7 | Cmaj7 | A7 |** at **94 bpm** near **7th position**. Your target notes are the **5ths**: **A, D, G, E**. Each one should arrive like you meant it two beats ago.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one full chorus landing on A, D, G, and E on beat 1 with a clear three-note lead-in to each target. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 builds the launch pad. For each bar, play a three-note scale burst into the target: **F-G-A**, **B-C-D**, **E-F-G**, **C-D-E**. Keep the target on beat 1 and let it ring a little longer than the approach.
-
-Round 2 adds direction control. In bar 1 and 3, ascend into the target. In bar 2 and 4, start above the target and fall through one passing tone before landing. If your picking hand gets jumpy, slow down and keep the accents honest.
-
-Round 3 turns it into a phrase. In one bar add a slide on the first note, and in another bar leave an eighth-note rest before the target. The line should still feel like one confident sentence that keeps pointing forward.
-
-Boss round: play two choruses. Chorus 1 stays in one position with clean beat-1 landings. Chorus 2 must cross to a nearby position for at least two targets without losing the pulse or the shape of the phrase.
-
-:::checkpoint Play one full chorus landing on A, D, G, and E on beat 1 with a clear three-note lead-in to each target.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Catapulta de resolução na guitarra
+# Referência em revisão · Catapulta de resolução na guitarra
 
-Faça um loop em **| Dm7 | G7 | Cmaj7 | A7 |** a **94 bpm** perto da **7ª posição**. As notas-alvo são as **5as**: **A, D, G, E**. Cada uma deve chegar como se você tivesse decidido isso dois tempos antes.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque um chorus completo chegando em A, D, G e E no tempo 1 com uma aproximação clara de três notas para cada alvo. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A Rodada 1 monta a plataforma de lançamento. Em cada compasso, toque uma rajada de três notas da escala até o alvo: **F-G-A**, **B-C-D**, **E-F-G**, **C-D-E**. Mantenha o alvo no tempo 1 e deixe-o soar um pouco mais que a aproximação.
-
-A Rodada 2 adiciona controle de direção. Nos compassos 1 e 3, suba até o alvo. Nos compassos 2 e 4, comece acima do alvo e desça passando por uma nota de ligação antes de pousar. Se a mão da palheta ficar nervosa, reduza o andamento e mantenha os acentos sinceros.
-
-A Rodada 3 transforma isso em frase. Em um compasso, adicione um slide na primeira nota; em outro, deixe uma pausa de colcheia antes do alvo. A linha ainda precisa soar como uma frase confiante que continua apontando para a frente.
-
-Rodada chefão: toque dois choruses. O chorus 1 fica em uma posição com chegadas limpas no tempo 1. O chorus 2 precisa cruzar para uma posição vizinha em pelo menos dois alvos sem perder o pulso nem o desenho da frase.
-
-:::checkpoint Toque um chorus completo chegando em A, D, G e E no tempo 1 com uma aproximação clara de três notas para cada alvo.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Catapulta de resolución en guitarra
+# Referencia en revisión · Catapulta de resolución en guitarra
 
-Pon en loop **| Dm7 | G7 | Cmaj7 | A7 |** a **94 bpm** cerca de la **7ª posición**. Tus notas objetivo son las **5as**: **A, D, G, E**. Cada una debe llegar como si lo hubieras decidido dos pulsos antes.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca un coro completo aterrizando en A, D, G y E en el tiempo 1 con una entrada clara de tres notas hacia cada objetivo. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La Ronda 1 construye la plataforma de lanzamiento. En cada compás toca una ráfaga de tres notas de escala hacia el objetivo: **F-G-A**, **B-C-D**, **E-F-G**, **C-D-E**. Mantén el objetivo en el tiempo 1 y déjalo sonar un poco más que la aproximación.
-
-La Ronda 2 añade control de dirección. En los compases 1 y 3 asciende hacia el objetivo. En los compases 2 y 4 empieza por encima del objetivo y cae pasando por una nota de paso antes de aterrizar. Si tu mano de púa se pone nerviosa, baja el tempo y mantén honestos los acentos.
-
-La Ronda 3 lo convierte en frase. En un compás añade un deslizamiento en la primera nota y en otro deja un silencio de corchea antes del objetivo. La línea todavía debe sonar como una sola frase segura que sigue apuntando hacia delante.
-
-Ronda jefe: toca dos coros. El coro 1 se queda en una sola posición con llegadas limpias en el tiempo 1. El coro 2 debe cruzar a una posición vecina en al menos dos objetivos sin perder el pulso ni la forma de la frase.
-
-:::checkpoint Toca un coro completo aterrizando en A, D, G y E en el tiempo 1 con una entrada clara de tres notas hacia cada objetivo.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Auflösungs-Katapult
+# Referenz in Prüfung · Gitarren-Auflösungs-Katapult
 
-Loope **| Dm7 | G7 | Cmaj7 | A7 |** bei **94 bpm** rund um die **7. Lage**. Deine Zieltöne sind die **Quinten**: **A, D, G, E**. Jeder Ton soll so ankommen, als hättest du ihn zwei Schläge vorher geplant.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen kompletten Chorus und lande auf A, D, G und E auf Schlag 1, jeweils mit einem klaren dreitönigen Anlauf in den Zielton. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1 baut die Abschussrampe. Spiele in jedem Takt einen dreitönigen Skalenstoß in den Zielton: **F-G-A**, **B-C-D**, **E-F-G**, **C-D-E**. Der Zielton landet auf Schlag 1 und darf etwas länger stehen als die Annäherung.
-
-Runde 2 bringt Richtungssteuerung. In Takt 1 und 3 steigst du in den Zielton auf. In Takt 2 und 4 beginnst du darüber und fällst über einen Durchgangston hinein. Wenn die Anschlagshand nervös wird, nimm Tempo heraus und halte die Akzente ehrlich.
-
-Runde 3 macht daraus eine Phrase. In einem Takt kommt ein Slide auf den ersten Ton, in einem anderen eine Achtelpause vor dem Ziel. Die Linie soll trotzdem wie ein selbstbewusster Satz klingen, der weiter nach vorn zeigt.
-
-Boss-Runde: Spiele zwei Chorusse. Chorus 1 bleibt in einer Lage mit sauberen Landungen auf Schlag 1. Chorus 2 muss für mindestens zwei Zieltöne in eine benachbarte Lage wechseln, ohne Puls oder Linienform zu verlieren.
-
-:::checkpoint Spiele einen kompletten Chorus und lande auf A, D, G und E auf Schlag 1, jeweils mit einem klaren dreitönigen Anlauf in den Zielton.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギター・レゾリューション・カタパルト
+# 確認中の参照 · ギター・レゾリューション・カタパルト
 
-**| Dm7 | G7 | Cmaj7 | A7 |** を **94 bpm** でループし、**7ポジション付近**で弾きます。狙うのは各コードの **5度**、**A, D, G, E** です。どの着地も、2拍前から決めていたように聞こえなければなりません。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：1コーラス通して、A・D・G・E に1拍目で着地し、それぞれの前に明確な3音の導入を入れましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1では発射台を作ります。各小節で、ターゲットへ向かう3音のスケール・バースト **F-G-A**、**B-C-D**、**E-F-G**、**C-D-E** を弾きます。ターゲットは毎回1拍目に置き、アプローチより少し長く保ってください。
-
-ラウンド2では方向のコントロールを足します。1小節目と3小節目は上行でターゲットへ。2小節目と4小節目はターゲットの上から始め、経過音を1つ通って落ちます。ピッキングが落ち着かないなら、テンポを下げてアクセントを誠実に保ちましょう。
-
-ラウンド3では文章にします。ある小節では最初の音にスライドを入れ、別の小節ではターゲット前に8分休符を置きます。それでも全体は、前へ進み続けるひとつの自信ある文に聞こえる必要があります。
-
-ボスラウンドでは2コーラス弾きます。1コーラス目は1つのポジションにとどまり、1拍目の着地をきれいにそろえます。2コーラス目は少なくとも2つのターゲットで隣のポジションへ移動し、それでも脈とフレーズの形を失わないでください。
-
-:::checkpoint 1コーラス通して、A・D・G・E に1拍目で着地し、それぞれの前に明確な3音の導入を入れましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他解决弹射器
+# 审核中的参考 · 吉他解决弹射器
 
-把 **| Dm7 | G7 | Cmaj7 | A7 |** 设成 **94 bpm** 循环，在 **第7把位附近**练习。你的目标音是各和弦的 **五音**：**A、D、G、E**。每次落点都要像你提前两拍就想好了一样。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹一遍，在第1拍落到 A、D、G、E，并在每个目标前都加入清楚的三音导入。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮先搭发射台。每小节用三音音阶冲刺进入目标：**F-G-A**、**B-C-D**、**E-F-G**、**C-D-E**。目标音每次都落在第1拍，并且要比前面的引导音稍微站得更久一点。
-
-第2轮加入方向控制。第1和第3小节向上冲进目标；第2和第4小节从目标上方开始，经过一个经过音再落下。如果你的拨弦手开始慌，先降速，把重音放稳。
-
-第3轮把它变成一句话。某一小节在第一个音上加滑音，另一小节在目标前留一个八分休止。整条线仍然要像一句自信而持续向前的句子。
-
-Boss 轮：弹两个完整 chorus。第1个 chorus 留在一个把位里，把第1拍落点弹干净。第2个 chorus 至少有两个目标要跨到邻近把位，同时不能丢掉脉冲和乐句形状。
-
-:::checkpoint 完整弹一遍，在第1拍落到 A、D、G、E，并在每个目标前都加入清楚的三音导入。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -123,14 +77,4 @@ instrument: guitar
 tempo: 94
 beat: 0.5
 sequence: F4 G4 A4 B4 C5 D5 E4 F4 G4 C4 D4 E4
-```
-
-```fretboard
-id: guitar-resolution-catapult-map
-title: Seventh-position target lane
-instrument: guitar
-tuning: E2 A2 D3 G3 B3 E4
-frets: 5-10
-tempo: 94
-positions: 2:8 2:10 1:7 1:8 1:10 2:7 2:8 2:10 3:5 3:7 3:9 3:11
 ```

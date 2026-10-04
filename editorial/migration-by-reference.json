@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "policy": "Reuse exact legacy content using the canonical course/section/unit/lesson progress identity. Guided rewrites have new IDs. Never infer an instrument from the first lesson or grant mastery from historical completion.",
+  "referenceCandidates": [
+    {
+      "contentKey": "instrument-scales/beginner/first-octave-trail/c-major-one-octave",
+      "source": "legacy",
+      "lessonID": "c-major-one-octave",
+      "instrument": "piano",
+      "path": "sections/beginner/units/first-octave-trail/lessons/c-major-one-octave/lesson.md",
+      "progressIdentity": "instrument-scales/beginner/first-octave-trail/c-major-one-octave",
+      "credit": "studied-previously-only-for-exact-content-reference",
+      "evidence": "preserve-provenance-no-new-execution-proof",
+      "promotionStatus": "pending-content-and-instrument-review"
+    },
+    {
+      "contentKey": "instrument-scales/intermediate/position-bridges/connect-pentatonic-positions",
+      "source": "legacy",
+      "lessonID": "connect-pentatonic-positions",
+      "instrument": "guitar",
+      "path": "sections/intermediate/units/position-bridges/lessons/connect-pentatonic-positions/lesson.md",
+      "progressIdentity": "instrument-scales/intermediate/position-bridges/connect-pentatonic-positions",
+      "credit": "studied-previously-only-for-exact-content-reference",
+      "evidence": "preserve-provenance-no-new-execution-proof",
+      "promotionStatus": "pending-content-and-instrument-review"
+    },
+    {
+      "contentKey": "instrument-scales/advanced/intervals-in-motion/diatonic-thirds-across-neck",
+      "source": "legacy",
+      "lessonID": "diatonic-thirds-across-neck",
+      "instrument": "guitar",
+      "path": "sections/advanced/units/intervals-in-motion/lessons/diatonic-thirds-across-neck/lesson.md",
+      "progressIdentity": "instrument-scales/advanced/intervals-in-motion/diatonic-thirds-across-neck",
+      "credit": "studied-previously-only-for-exact-content-reference",
+      "evidence": "preserve-provenance-no-new-execution-proof",
+      "promotionStatus": "pending-content-and-instrument-review"
+    },
+    {
+      "contentKey": "instrument-scales/advanced/intervals-in-motion/contrary-motion-scale-mirror",
+      "source": "legacy",
+      "lessonID": "contrary-motion-scale-mirror",
+      "instrument": "piano",
+      "path": "sections/advanced/units/intervals-in-motion/lessons/contrary-motion-scale-mirror/lesson.md",
+      "progressIdentity": "instrument-scales/advanced/intervals-in-motion/contrary-motion-scale-mirror",
+      "credit": "studied-previously-only-for-exact-content-reference",
+      "evidence": "preserve-provenance-no-new-execution-proof",
+      "promotionStatus": "pending-content-and-instrument-review"
+    }
+  ],
+  "guidedCreditMappings": [],
+  "reason": "No newly authored pilot has been established as the same objective, setup and assessment as a legacy lesson. Consequently no automatic completion credit is created."
+}

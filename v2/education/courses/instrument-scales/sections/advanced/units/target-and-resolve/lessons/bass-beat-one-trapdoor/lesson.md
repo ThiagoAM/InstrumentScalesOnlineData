@@ -6,101 +6,67 @@ level: advanced
 section: advanced
 unit: target-and-resolve
 order: 39
-revision: 1
-estimatedMinutes: 8
+revision: 2
+estimatedMinutes: 3
 instrument: bass
-title.en: Bass beat-one trapdoor
-title.pt-BR: Alçapão do tempo um no baixo
-title.es: Trampilla del tiempo uno en bajo
-title.de: Bass-Falltür auf Schlag eins
-title.ja: ベース・ビート1・トラップドア
-title.zh-Hans: 贝斯第一拍陷门
-summary.en: Set up suspense before beat 1, then drop onto guide tones so hard that every new bar feels locked to the floor.
-summary.pt-BR: Monte suspense antes do tempo 1 e depois caia nas guide tones com tanta firmeza que cada compasso novo pareça preso no chão.
-summary.es: Prepara suspense antes del tiempo 1 y luego cae sobre las guide tones con tanta firmeza que cada compás nuevo se sienta clavado al suelo.
-summary.de: Baue Spannung vor Schlag 1 auf und falle dann so fest auf die Guide Tones, dass jeder neue Takt am Boden verriegelt wirkt.
-summary.ja: 1拍目の前に緊張を仕込み、ガイドトーンへ強く落ちて、各小節の頭を床に固定したように聞かせます。
-summary.zh-Hans: 在第1拍之前先制造悬念，再狠狠落到导向音上，让每个新小节都像锁进地面一样稳。
+title.en: Reference in review · Bass beat-one trapdoor
+title.pt-BR: Referência em revisão · Alçapão do tempo um no baixo
+title.es: Referencia en revisión · Trampilla del tiempo uno en bajo
+title.de: Referenz in Prüfung · Bass-Falltür auf Schlag eins
+title.ja: 確認中の参照 · ベース・ビート1・トラップドア
+title.zh-Hans: 审核中的参考 · 贝斯第一拍陷门
+summary.en: Original goal, physical practice under review: Set up suspense before beat 1, then drop onto guide tones so hard that every new bar feels locked to the floor.
+summary.pt-BR: Objetivo original, prática física em revisão: Monte suspense antes do tempo 1 e depois caia nas guide tones com tanta firmeza que cada compasso novo pareça preso no chão.
+summary.es: Objetivo original, práctica física en revisión: Prepara suspense antes del tiempo 1 y luego cae sobre las guide tones con tanta firmeza que cada compás nuevo se sienta clavado al suelo.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Baue Spannung vor Schlag 1 auf und falle dann so fest auf die Guide Tones, dass jeder neue Takt am Boden verriegelt wirkt.
+summary.ja: 元の目標（実技確認中）：1拍目の前に緊張を仕込み、ガイドトーンへ強く落ちて、各小節の頭を床に固定したように聞かせます。
+summary.zh-Hans: 原目标（实体演奏待审）：在第1拍之前先制造悬念，再狠狠落到导向音上，让每个新小节都像锁进地面一样稳。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Bass beat-one trapdoor
+# Reference in review · Bass beat-one trapdoor
 
-Loop **| Dm7 | G7 | Cmaj7 | A7 |** at **94 bpm**. Your trapdoor notes on **beat 1** are the guide tones **F, B, E, C#**. The whole trick is to make the listener feel a tiny moment of suspense before the bar changes, then hear the landing lock in so clearly that the band could build a house on it.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play one 4-bar cycle with clear beat-1 landings on F, B, E, and C#, using pickups from below and above while keeping the downbeat strongest. The original reference may not realize the rhythm or technique described in the archived goal. Do not infer that skill from this audio; it preserves the written source for comparison only.
 
-Round 1 is simple and strict. On the **and of 4**, play one short pickup note from below, then drop onto the target on beat 1: **E-F**, **A-B**, **D-E**, **C-C#**. Hold the target for at least two beats. If the pickup gets louder than the landing, you are telling the joke too early.
-
-Round 2 gives the trapdoor two shapes. In bars 1 and 3, keep the pickup below. In bars 2 and 4, approach from a half step above instead. Now the bassist problem appears: the approaches are exciting, but the downbeat still has to feel heavier than the trick that leads into it.
-
-Boss round: build two choruses of quarter-note time. In chorus 1 every beat 1 is a long target note. In chorus 2, exactly one bar may use an eighth-note fill after beat 2, but the next trapdoor must still feel huge. If the groove gets chatty, cut notes until the floor returns under your feet.
-
-:::checkpoint Play one 4-bar cycle with clear beat-1 landings on F, B, E, and C#, using pickups from below and above while keeping the downbeat strongest.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Alçapão do tempo um no baixo
+# Referência em revisão · Alçapão do tempo um no baixo
 
-Faça um loop em **| Dm7 | G7 | Cmaj7 | A7 |** a **94 bpm**. As notas do alçapão no **tempo 1** são as guide tones **F, B, E, C#**. O truque inteiro é fazer o ouvinte sentir um pequeno suspense antes da virada do compasso e depois ouvir a chegada travar com tanta clareza que a banda poderia construir uma casa em cima dela.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque um ciclo de 4 compassos com chegadas claras no tempo 1 em F, B, E e C#, usando pickups por baixo e por cima e mantendo o tempo forte como o ponto de maior peso. A referência original pode não realizar o ritmo ou a técnica descritos no objetivo arquivado. Não deduza essa habilidade pelo áudio; ele preserva a fonte escrita apenas para comparação.
 
-A Rodada 1 é simples e rígida. No **e do 4**, toque uma nota curta de pickup por baixo e depois caia no alvo no tempo 1: **E-F**, **A-B**, **D-E**, **C-C#**. Sustente o alvo por pelo menos dois tempos. Se o pickup ficar mais alto que a chegada, você contou a piada cedo demais.
-
-A Rodada 2 dá duas formas ao alçapão. Nos compassos 1 e 3, mantenha o pickup por baixo. Nos compassos 2 e 4, aproxime por um semitom acima. Aí aparece o problema clássico do baixista: as aproximações são empolgantes, mas o tempo forte ainda precisa soar mais pesado do que o truque que leva até ele.
-
-Rodada chefão: monte dois choruses em semínimas. No chorus 1, todo tempo 1 é uma nota-alvo longa. No chorus 2, exatamente um compasso pode usar uma virada de colcheias depois do tempo 2, mas o próximo alçapão ainda precisa soar enorme. Se o groove ficar falante demais, corte notas até o chão voltar para debaixo do pé.
-
-:::checkpoint Toque um ciclo de 4 compassos com chegadas claras no tempo 1 em F, B, E e C#, usando pickups por baixo e por cima e mantendo o tempo forte como o ponto de maior peso.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Trampilla del tiempo uno en bajo
+# Referencia en revisión · Trampilla del tiempo uno en bajo
 
-Pon en loop **| Dm7 | G7 | Cmaj7 | A7 |** a **94 bpm**. Tus notas de trampilla en el **tiempo 1** son las guide tones **F, B, E, C#**. Todo el truco consiste en hacer que el oyente sienta un pequeño suspense antes del cambio de compás y luego oiga la llegada tan bloqueada que la banda podría construir una casa sobre ella.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca un ciclo de 4 compases con llegadas claras en el tiempo 1 sobre F, B, E y C#, usando pickups desde abajo y desde arriba y manteniendo el pulso fuerte como el punto de mayor peso. La referencia original puede no realizar el ritmo o la técnica del objetivo archivado. No deduzcas esa habilidad del audio; conserva la fuente escrita solo para comparar.
 
-La Ronda 1 es simple y estricta. En el **y de 4**, toca una nota corta de pickup desde abajo y luego cae al objetivo en el tiempo 1: **E-F**, **A-B**, **D-E**, **C-C#**. Sostén el objetivo al menos dos tiempos. Si el pickup suena más fuerte que la llegada, has contado el chiste demasiado pronto.
-
-La Ronda 2 da dos formas a la trampilla. En los compases 1 y 3, mantén el pickup desde abajo. En los compases 2 y 4, acércate desde un semitono por encima. Aquí aparece el problema clásico del bajista: las aproximaciones son emocionantes, pero el pulso fuerte debe seguir pesando más que el truco que lo prepara.
-
-Ronda jefe: construye dos coros de negras. En el coro 1, cada tiempo 1 es una nota objetivo larga. En el coro 2, exactamente un compás puede usar un relleno de corcheas después del tiempo 2, pero la siguiente trampilla todavía debe sentirse enorme. Si el groove se vuelve parlanchín, quita notas hasta que el suelo vuelva bajo tus pies.
-
-:::checkpoint Toca un ciclo de 4 compases con llegadas claras en el tiempo 1 sobre F, B, E y C#, usando pickups desde abajo y desde arriba y manteniendo el pulso fuerte como el punto de mayor peso.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Bass-Falltür auf Schlag eins
+# Referenz in Prüfung · Bass-Falltür auf Schlag eins
 
-Loope **| Dm7 | G7 | Cmaj7 | A7 |** bei **94 bpm**. Deine Falltür-Töne auf **Schlag 1** sind die Guide Tones **F, B, E, C#**. Der ganze Trick besteht darin, kurz vor dem Taktwechsel Spannung zu erzeugen und dann so klar auf dem Zielton zu landen, dass die Band ein Haus darauf bauen könnte.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele einen 4-Takt-Zyklus mit klaren Landungen auf F, B, E und C# auf Schlag 1, mit Pickups von unten und oben, während der Downbeat der schwerste Punkt bleibt. Die ursprüngliche Referenz bildet den Rhythmus oder die Technik des archivierten Ziels möglicherweise nicht ab. Leite diese Fähigkeit nicht aus dem Audio ab; es bewahrt nur die notierte Quelle zum Vergleich.
 
-Runde 1 ist einfach und streng. Auf dem **Und von 4** spielst du einen kurzen Pickup von unten und fällst dann auf Schlag 1 auf den Zielton: **E-F**, **A-B**, **D-E**, **C-C#**. Halte den Zielton mindestens zwei Schläge aus. Wenn der Pickup lauter wirkt als die Landung, erzählst du den Witz zu früh.
-
-Runde 2 gibt der Falltür zwei Formen. In Takt 1 und 3 bleibt der Pickup unten. In Takt 2 und 4 näherst du dich stattdessen von einem Halbton darüber. Hier zeigt sich das klassische Bassproblem: Die Annäherungen sind spannend, aber der Downbeat muss schwerer klingen als der Trick davor.
-
-Boss-Runde: Baue zwei Chorusse in Vierteln. In Chorus 1 ist jeder Schlag 1 ein langer Zielton. In Chorus 2 darf genau ein Takt nach Schlag 2 ein Achtelfill bekommen, aber die nächste Falltür muss immer noch riesig wirken. Wenn der Groove zu redselig wird, streiche Noten, bis der Boden wieder unter den Füßen liegt.
-
-:::checkpoint Spiele einen 4-Takt-Zyklus mit klaren Landungen auf F, B, E und C# auf Schlag 1, mit Pickups von unten und oben, während der Downbeat der schwerste Punkt bleibt.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ベース・ビート1・トラップドア
+# 確認中の参照 · ベース・ビート1・トラップドア
 
-**| Dm7 | G7 | Cmaj7 | A7 |** を **94 bpm** でループします。**1拍目** のトラップドアになる音はガイドトーン **F, B, E, C#** です。狙いは、小節が変わる直前に少しだけ緊張を仕込み、その直後の着地をバンドがその上に家を建てられるほど強固に聞かせることです。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：4小節を通して、F・B・E・C# に1拍目で明確に着地し、下からと上からのピックアップを使いながら、最も重い場所をダウンビートに保ちましょう。 元の参照音声は、保存された目標のリズムや奏法を実現していない場合があります。この音声からその技能を推定せず、書かれた元の資料との比較だけに使います。
 
-ラウンド1はシンプルで厳格です。**4拍目の裏** に下から短いピックアップを1つ置き、1拍目でターゲットへ落ちます: **E-F**, **A-B**, **D-E**, **C-C#**。ターゲット音は少なくとも2拍保ってください。ピックアップの方が着地より目立つなら、オチを早く言いすぎています。
-
-ラウンド2ではトラップドアの形を2種類にします。1小節目と3小節目は下からのピックアップを維持し、2小節目と4小節目は半音上から近づきます。ここでベーシスト特有の課題が出ます。アプローチは面白くても、ダウンビートの重さはその仕掛けより大きくなければいけません。
-
-ボスラウンドでは4分音符主体で2コーラス作ります。1コーラス目はすべての1拍目を長いターゲット音にします。2コーラス目では1小節だけ2拍目の後に8分音符のフィルを入れてもかまいませんが、その次のトラップドアは依然として巨大に感じられる必要があります。おしゃべりなグルーヴになったら、床が戻るまで音数を削ってください。
-
-:::checkpoint 4小節を通して、F・B・E・C# に1拍目で明確に着地し、下からと上からのピックアップを使いながら、最も重い場所をダウンビートに保ちましょう。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 贝斯第一拍陷门
+# 审核中的参考 · 贝斯第一拍陷门
 
-把 **| Dm7 | G7 | Cmaj7 | A7 |** 设成 **94 bpm** 循环。你在 **第1拍** 的陷门目标音是导向音 **F、B、E、C#**。整个诀窍就是先在换小节前制造一点悬念，然后在目标音上落得特别结实，结实到乐队都能在上面盖房子。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：完整弹一轮4小节，在第1拍清楚落到 F、B、E、C#，同时使用下方和上方的 pickup，并让强拍始终最有重量。 原来的参考音频可能没有实现存档目标所说的节奏或奏法。不能从这段音频推断掌握了该技能；它只保留写出的原资料，供比较使用。
 
-第1轮简单但严格。在 **第4拍后半拍** 先从下方弹一个短 pickup，然后在第1拍落到目标：**E-F**、**A-B**、**D-E**、**C-C#**。目标音至少保持两拍。如果 pickup 比落点更抢耳，你就是把笑点说早了。
-
-第2轮给陷门两种形状。第1和第3小节继续从下方 pickup；第2和第4小节改成从上方半音逼近。这里就出现贝斯手的经典难题：逼近很刺激，但强拍必须比前面的机关更有重量。
-
-Boss 轮：用四分音符时间感做两个 chorus。第1个 chorus 里每个第1拍都是长目标音。第2个 chorus 允许只有一个小节在第2拍后面加八分填充，但下一个陷门仍然要显得巨大。如果 groove 开始太爱说话，就删音，直到脚下的地板感回来。
-
-:::checkpoint 完整弹一轮4小节，在第1拍清楚落到 F、B、E、C#，同时使用下方和上方的 pickup，并让强拍始终最有重量。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
@@ -110,14 +76,4 @@ title: Beat-one trapdoors
 instrument: bass
 tempo: 94
 sequence: E1 F1 A1 B1 D2 E2 C2 C#2
-```
-
-```fretboard
-id: bass-beat-one-trapdoor-map
-title: Guide-tone trapdoor lane
-instrument: bass
-tuning: E1 A1 D2 G2
-frets: 5-9
-tempo: 94
-positions: 2:7 1:8 2:7 1:9 1:5 1:7 2:3 2:4
 ```

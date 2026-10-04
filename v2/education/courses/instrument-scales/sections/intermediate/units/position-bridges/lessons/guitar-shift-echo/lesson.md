@@ -6,125 +6,86 @@ level: intermediate
 section: intermediate
 unit: position-bridges
 order: 10
-revision: 1
-estimatedMinutes: 7
+revision: 2
+estimatedMinutes: 3
 instrument: guitar
-title.en: Guitar shift echo
-title.pt-BR: Eco de mudança na guitarra
-title.es: Eco de cambio en la guitarra
-title.de: Gitarren-Schalt-Echo
-title.ja: ギターの移動エコー
-title.zh-Hans: 吉他换把回声
-summary.en: Echo a short G-major idea across two positions while the rhythm stays recognizable.
-summary.pt-BR: Repita uma ideia curta em sol maior entre duas posições mantendo o ritmo reconhecível.
-summary.es: Repite una idea breve en sol mayor entre dos posiciones sin perder el ritmo.
-summary.de: Spiegle eine kurze G-Dur-Idee in zwei Lagen, während der Rhythmus erkennbar bleibt.
-summary.ja: 短いGメジャーのアイデアを2つのポジションで響かせ、リズムを保ちます。
-summary.zh-Hans: 让一个短小的G大调乐句在两个把位回响，同时保持节奏清晰。
+title.en: Reference in review · Guitar shift echo
+title.pt-BR: Referência em revisão · Eco de mudança na guitarra
+title.es: Referencia en revisión · Eco de cambio en la guitarra
+title.de: Referenz in Prüfung · Gitarren-Schalt-Echo
+title.ja: 確認中の参照 · ギターの移動エコー
+title.zh-Hans: 审核中的参考 · 吉他换把回声
+summary.en: Original goal, physical practice under review: Echo a short G-major idea across two positions while the rhythm stays recognizable.
+summary.pt-BR: Objetivo original, prática física em revisão: Repita uma ideia curta em sol maior entre duas posições mantendo o ritmo reconhecível.
+summary.es: Objetivo original, práctica física en revisión: Repite una idea breve en sol mayor entre dos posiciones sin perder el ritmo.
+summary.de: Ursprüngliches Ziel, praktische Ausführung in Prüfung: Spiegle eine kurze G-Dur-Idee in zwei Lagen, während der Rhythmus erkennbar bleibt.
+summary.ja: 元の目標（実技確認中）：短いGメジャーのアイデアを2つのポジションで響かせ、リズムを保ちます。
+summary.zh-Hans: 原目标（实体演奏待审）：让一个短小的G大调乐句在两个把位回响，同时保持节奏清晰。
+
+contentStatus: quarantined
 ---
 
 :::localized
 :::locale en
-# Guitar shift echo
+# Reference in review · Guitar shift echo
 
-Set a metronome to **80 bpm** and count two bars. Your mission is to move one tiny musical idea, not to sprint through the neck.
+The physical exercise is under review. This version is a reference, so it asks for no instrumental execution. Read the archived goal below as context, rather than as an approved physical instruction. Any audio here preserves only pitches and durations fully specified in the original source; it does not validate its string map, fingering, hand coordination or technique. If audio is absent, use the concept question instead of imagining an unwritten performance. Listening, answering a question and declaring practice are different kinds of evidence. You can choose another reviewed lesson for physical practice and return when this proposal has passed its required review. Archived goal awaiting review: Play a four-bar G-major idea with a low phrase, a high-position echo, one smooth slide, and the same steady rhythm.
 
-In 3rd position, play **G-A-B-A** with a light accent on G. Leave beat four empty so the idea has room to breathe and the pulse stays visible.
-
-Repeat the idea in 7th position, beginning on the higher G. Slide into the first note quietly, then match the four-note rhythm exactly; the listener should recognize the same character.
-
-Alternate low and high versions for four rounds. If the slide rushes, stop on beat four, breathe, and restart at 60 bpm. Keep the fretting hand loose and the final A short.
-
-For the encore, invent one four-bar answer that uses the low idea, the high echo, and one deliberate rest. Record it and check whether the rhythm survives the position change.
-
-:::checkpoint Play a four-bar G-major idea with a low phrase, a high-position echo, one smooth slide, and the same steady rhythm.
+:::checkpoint State whether this activity is a listening/concept reference or an approved physical exercise.
 
 :::locale pt-BR
-# Eco de mudança na guitarra
+# Referência em revisão · Eco de mudança na guitarra
 
-Marque **80 bpm** no metrônomo e conte dois compassos. A missão é mover uma pequena ideia musical, não correr pelo braço.
+O exercício físico está em revisão. Esta versão é uma referência e não solicita execução instrumental. Leia o objetivo arquivado abaixo como contexto, sem tratá-lo como instrução física aprovada. O áudio preserva apenas alturas e durações completamente determinadas na fonte original; não valida o mapa de cordas, a digitação, a coordenação das mãos ou a técnica. Se não houver áudio, use a pergunta conceitual sem imaginar uma execução não escrita. Ouvir, responder e declarar prática são evidências distintas. Escolha outra aula revisada para praticar fisicamente e volte quando esta proposta passar pela revisão necessária. Objetivo arquivado aguardando revisão: Toque uma ideia de quatro compassos em sol maior com frase grave, eco agudo, um slide suave e o mesmo ritmo firme.
 
-Na 3ª posição, toque **sol-lá-si-lá** com leve acento no sol. Deixe o quarto tempo vazio para a ideia respirar e a pulsação ficar visível.
-
-Repita a ideia na 7ª posição, começando pelo sol mais agudo. Deslize suavemente até a primeira nota e copie exatamente o ritmo; o ouvinte deve reconhecer o mesmo caráter.
-
-Alterne as versões grave e aguda por quatro rodadas. Se o slide apressar, pare no quarto tempo, respire e recomece a 60 bpm. Mantenha a mão solta e o último lá curto.
-
-No bis, invente uma resposta de quatro compassos usando a ideia grave, o eco agudo e uma pausa intencional. Grave e confira se o ritmo sobrevive à mudança de posição.
-
-:::checkpoint Toque uma ideia de quatro compassos em sol maior com frase grave, eco agudo, um slide suave e o mesmo ritmo firme.
+:::checkpoint Diga se esta atividade é referência auditiva/conceitual ou exercício físico aprovado.
 
 :::locale es
-# Eco de cambio en la guitarra
+# Referencia en revisión · Eco de cambio en la guitarra
 
-Pon el metrónomo a **80 bpm** y cuenta dos compases. Tu misión es mover una idea musical pequeña, no correr por el mástil.
+El ejercicio físico está en revisión. Esta versión es una referencia y no pide ejecución instrumental. Lee el objetivo archivado como contexto, sin tratarlo como instrucción física aprobada. El audio conserva solo alturas y duraciones completamente determinadas en la fuente original; no valida mapa de cuerdas, digitación, coordinación ni técnica. Si no hay audio, usa la pregunta conceptual sin imaginar una ejecución no escrita. Escuchar, responder y declarar práctica son evidencias diferentes. Elige otra lección revisada para practicar físicamente y vuelve cuando esta propuesta supere la revisión necesaria. Objetivo archivado pendiente de revisión: Toca una idea de cuatro compases en sol mayor con frase grave, eco agudo, un deslizamiento suave y el mismo ritmo estable.
 
-En 3.ª posición, toca **sol-la-si-la** con un acento ligero en sol. Deja vacío el cuarto pulso para que la idea respire y el pulso siga visible.
-
-Repite la idea en 7.ª posición, empezando en el sol agudo. Desliza suavemente hacia la primera nota y copia exactamente el ritmo; el oyente debe reconocer el mismo carácter.
-
-Alterna las versiones grave y aguda durante cuatro rondas. Si el deslizamiento acelera, detente en el cuarto pulso, respira y vuelve a 60 bpm. Mantén suelta la mano y corta el último la.
-
-Para el bis, inventa una respuesta de cuatro compases con la idea grave, el eco agudo y un silencio deliberado. Grábala y comprueba si el ritmo sobrevive al cambio de posición.
-
-:::checkpoint Toca una idea de cuatro compases en sol mayor con frase grave, eco agudo, un deslizamiento suave y el mismo ritmo estable.
+:::checkpoint Indica si esta actividad es referencia auditiva/conceptual o ejercicio físico aprobado.
 
 :::locale de
-# Gitarren-Schalt-Echo
+# Referenz in Prüfung · Gitarren-Schalt-Echo
 
-Stelle **80 bpm** ein und zähle zwei Takte vor. Deine Aufgabe ist, eine kleine musikalische Idee zu verschieben, nicht über das Griffbrett zu rasen.
+Die praktische Übung wird geprüft. Diese Fassung ist eine Referenz und verlangt kein Instrumentalspiel. Lies das archivierte Ziel als Kontext, nicht als freigegebene Spielanweisung. Audio bewahrt ausschließlich vollständig bestimmte Tonhöhen und Dauern aus der ursprünglichen Quelle; es bestätigt weder Saitenkarte, Fingersatz, Handkoordination noch Technik. Fehlt Audio, nutze die Konzeptfrage statt eine ungeschriebene Ausführung anzunehmen. Zuhören, Antworten und berichtete Praxis sind verschiedene Belege. Wähle eine geprüfte Lektion für die praktische Übung und kehre nach der nötigen Prüfung dieser Vorlage zurück. Archiviertes Ziel zur Prüfung: Spiele eine viertaktige G-Dur-Idee mit tiefer Phrase, hohem Echo, einem weichen Rutsch und demselben gleichmäßigen Rhythmus.
 
-Spiele in der 3. Lage **G-A-H-A** mit einem leichten Akzent auf G. Lass die Vier frei, damit die Idee atmen kann und der Puls sichtbar bleibt.
-
-Wiederhole die Idee in der 7. Lage, beginnend mit dem höheren G. Rutsche leise in den ersten Ton und übernimm den Rhythmus genau; der gleiche Charakter soll hörbar bleiben.
-
-Wechsle vier Runden zwischen tiefer und hoher Version. Wenn der Rutsch beschleunigt, halte auf der Vier an, atme und beginne bei 60 bpm neu. Halte die Greifhand locker und das letzte A kurz.
-
-Für die Zugabe erfinde eine viertaktige Antwort mit der tiefen Idee, dem hohen Echo und einer bewussten Pause. Nimm sie auf und prüfe, ob der Rhythmus den Lagenwechsel überlebt.
-
-:::checkpoint Spiele eine viertaktige G-Dur-Idee mit tiefer Phrase, hohem Echo, einem weichen Rutsch und demselben gleichmäßigen Rhythmus.
+:::checkpoint Nenne, ob dies eine Hör-/Konzeptreferenz oder eine freigegebene praktische Übung ist.
 
 :::locale ja
-# ギターの移動エコー
+# 確認中の参照 · ギターの移動エコー
 
-メトロノームを**80 bpm**に合わせ、2小節数えます。目的は速く弾くことではなく、小さな音楽のアイデアを移動させることです。
+この実技課題は確認中です。この版は参照用で、実際の演奏は求めません。下の元の目標は背景として読み、承認済みの奏法指示と考えないでください。音声がある場合は元の資料で完全に指定された音高と長さだけを保ち、弦の位置、指使い、両手の動きや奏法を保証しません。音声がない場合は書かれていない演奏を想像せず、概念の質問を使います。聴くこと、質問に答えること、練習を申告することは異なる証拠です。実技には確認済みの別の課題を選び、この案の必要な確認が終わってから戻ってください。 確認待ちの元の目標：低いフレーズ、高いエコー、滑らかなスライド、安定した同じリズムを含む4小節のGメジャーを弾きます。
 
-3ポジションで**G-A-B-A**を弾き、Gを軽くアクセントにします。4拍目を空け、アイデアに息をさせて拍を感じ続けます。
-
-高いGから始めて7ポジションで同じアイデアを繰り返します。最初の音へ静かにスライドし、4音のリズムを正確にそろえます。同じ表情が聴こえるはずです。
-
-低い形と高い形を4回交互に弾きます。スライドで急いだら4拍目で止まり、呼吸して60 bpmからやり直します。左手を柔らかくし、最後のAを短くします。
-
-アンコールとして、低いアイデア、高いエコー、意図した休符を使う4小節の返答を作ります。録音し、ポジション移動後もリズムが保たれるか聴きます。
-
-:::checkpoint 低いフレーズ、高いエコー、滑らかなスライド、安定した同じリズムを含む4小節のGメジャーを弾きます。
+:::checkpoint この活動が聴く・概念の参照か、承認済み実技かを説明します。
 
 :::locale zh-Hans
-# 吉他换把回声
+# 审核中的参考 · 吉他换把回声
 
-将节拍器设为**80 bpm**，先数两小节。任务是移动一个小小的音乐想法，不是快速冲过指板。
+此实体演奏练习正在审核。本版本仅供参考，不要求实际演奏。下面的原目标作为背景阅读，不能当作已批准的奏法指示。若有音频，仅保留原资料中完全确定的音高和时值，不认可弦位、指法、双手协调或技术。若没有音频，请使用概念问题，不要想象未写明的演奏。聆听、回答问题和自报练习是不同证据。实体练习可选择另一项已审核课程，待本提案完成所需检查后再回来。 等待审核的原目标：演奏四小节G大调乐句，包含低把位短句、高把位回声、一个平滑滑音，并保持相同的稳定节奏。
 
-在三把位演奏**G-A-B-A**，轻轻强调G。第四拍留空，让乐句呼吸，也让节拍保持清楚。
-
-从高音G开始，在七把位重复这个想法。安静地滑入第一个音，再准确复制四音节奏；听众应该听出相同的性格。
-
-低把位和高把位交替四轮。如果滑音抢拍，就在第四拍停下、呼吸，并以60 bpm重新开始。保持左手放松，最后的A弹短。
-
-作为加演，创作四小节回答，使用低把位想法、高把位回声和一个有意的休止。录下来，检查换把后节奏是否仍然稳固。
-
-:::checkpoint 演奏四小节G大调乐句，包含低把位短句、高把位回声、一个平滑滑音，并保持相同的稳定节奏。
+:::checkpoint 说明此活动是聆听/概念参考，还是已批准的实体演奏练习。
 
 :::endlocalized
 
-```fretboard
-tuning: E-A-D-G-B-E
-fretRange: 3-10
-positions: 6:3 G, 6:5 A, 6:7 B, 5:5 D, 4:5 G, 4:7 A, 3:7 D
-sequence: G-A-B-A | G-A-B-A
-```
-
-```notes
-key: G major
-tempo: 80 bpm
-sequence: G-A-B-A/- | G-A-B-A/-
+```quiz
+id: guitar-shift-echo-quarantine-concept
+correct: no
+shuffle: true
+prompt.en: Does finishing this reference prove playing the instrument?
+prompt.pt-BR: Terminar esta referência comprova tocar o instrumento?
+prompt.es: ¿Terminar esta referencia demuestra tocar el instrumento?
+prompt.de: Belegt das Abschließen dieser Referenz Instrumentalspiel?
+prompt.ja: この参照を終えたことは実演を証明しますか。
+prompt.zh-Hans: 完成此参考能证明实际演奏吗？
+explanation.en: No: it records only the activity actually done.
+explanation.pt-BR: Não: registra apenas a atividade realizada.
+explanation.es: No: registra solo la actividad realizada.
+explanation.de: Nein: nur die tatsächlich ausgeführte Aktivität.
+explanation.ja: いいえ。行った活動だけを記録します。
+explanation.zh-Hans: 不能：只记录实际完成的活动。
+option: no | label.en: No: it records only the activity actually done. | label.pt-BR: Não: registra apenas a atividade realizada. | label.es: No: registra solo la actividad realizada. | label.de: Nein: nur die tatsächlich ausgeführte Aktivität. | label.ja: いいえ。行った活動だけを記録します。 | label.zh-Hans: 不能：只记录实际完成的活动。
+option: yes | label.en: Yes: any completion proves performance. | label.pt-BR: Sim: qualquer conclusão comprova execução. | label.es: Sí: cualquier finalización demuestra ejecución. | label.de: Ja: jeder Abschluss belegt Instrumentalspiel. | label.ja: はい。完了は必ず実演を証明します。 | label.zh-Hans: 能：任何完成都证明演奏。
 ```
