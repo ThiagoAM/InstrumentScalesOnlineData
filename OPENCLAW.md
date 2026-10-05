@@ -14,7 +14,7 @@ The real implementation record is `~/Library/Application Support/MacMiniServer/s
 
 `editorial/queue.json` contains stable item ID, repair/riff/review/gap type, goal, instrument/setup, source, unit, blueprint/revision, six locales, author, content digest, review evidence and publication attempt. `syllabus.json` is archived history only.
 
-Priority: opening/music repair; riffs when the consecutive dated horizon for that instrument/setup is below seven days (adaptive batches use the minimum across their declared families); quality review; an explicitly approved blueprint gap. The routine does not create units. New core placement requires a separate promotion. Published rotation material always retains its original date and finite validity; expired or incompatible stock is ineligible. Recycled riffs must be labelled as rotation, not newly published.
+Daily policy since the owner instruction of 4 October: existing opening/music repairs, quality review and approved **guided** gaps. `newContentModel: guided-only` excludes all legacy riff/gap candidates from daily slots, regardless of riff horizon. Existing published riffs may rotate or be repaired, but the routine creates no new legacy lesson/riff IDs. The routine does not create units. New core placement requires a separate promotion. Published rotation material always retains its original date and finite validity; expired or incompatible stock is ineligible. Recycled riffs must be labelled as rotation, not newly published.
 
 The state namespace is stable across HTTPS/SSH origin spellings. Before initial implementation selection, the coordinator may initialize an unpublished state; after a published snapshot, use actual P0 reconciliation or restore the known recovery copy. Never reset to an empty ledger after losing state:
 
@@ -41,7 +41,7 @@ node scripts/editorial-pipeline.js defer <batch-key> "Awaiting the recorded phys
 node scripts/editorial-pipeline.js defer <batch-key> "Only these targets need correction" --ids item-a,item-b
 ```
 
-Automatic deferral first verifies the global parser receipt; a stale receipt does not label every item a human failure. Explicit --ids can defer a selected target without that conflation. Deferral is available through review-approved before a commit; committed/pushed uncertainty stays in the same attempt. Deferral persists waiting state only for failed/missing-evidence items; ready items remain eligible. It records content/evidence digests and closes the batch without publication. Unchanged items are skipped next time, allowing other eligible work such as a riff. A changed revision/content or new review evidence permits a new attempt. Do not defer a batch with an uncertain commit, push, deployment or notification; reconcile it instead.
+Automatic deferral first verifies the global parser receipt; a stale receipt does not label every item a human failure. Explicit --ids can defer a selected target without that conflation. Deferral is available through review-approved before a commit; committed/pushed uncertainty stays in the same attempt. Deferral persists waiting state only for failed/missing-evidence items; ready items remain eligible. It records content/evidence digests and closes the batch without publication. Unchanged items are skipped next time, allowing other eligible work such as a guided extra. A changed revision/content or new review evidence permits a new attempt. Do not defer a batch with an uncertain commit, push, deployment or notification; reconcile it instead.
 
 ## Author candidates and review actual bytes
 
@@ -49,7 +49,7 @@ The six locales are en, pt-BR, es, de, ja and zh-Hans. Use one observable object
 
 Guided documents stay under `editorial/candidates/`, use schema 2 plus format 2, assessment version, capabilities, stable `:::step id=... phase=...` boundaries and complete localized regions. Exercises shared outside those regions have stable IDs. Root production `paths.json` reaches approved content only. Never place guided directives in a legacy catalog path.
 
-For a legacy extra candidate, the compatibility helper remains available:
+The old compatibility helper is preserved for historical fixtures, but refuses new legacy authorship under the live guided-only policy:
 
 ```sh
 node create-lesson.js --spec /absolute/path/to/authored-spec.json --locales en,pt-BR,es,de,ja,zh-Hans
@@ -163,7 +163,7 @@ node scripts/promote-approved.js --kind path --id guitar-foundation --approval /
 
 Coordinated legacy/path records include status prepared→promoted, original/after hashes, exact sources and target files, aggregate files, immutable published content hashes and approval digest. A journal is staged before the first destination write; resume accepts only before/after bytes and preserves third-party changes. Path records bind every `guided:<lesson-id>` to the exact bytes. The current APP path approval contract does not include visual asset hashes. Therefore every image-bearing path document, including reused legacy content and images in any locale, is rejected before path staging/promotion and by publication validation, even if a record supplies assetSHA256. There is no production override. Ordinary navigation/download links remain links. Local asset verification/copy helpers remain available for isolated infrastructure fixtures and supported legacy transactions; they do not authorize images in a production path. A coordinated APP/DATA approval-contract update and real checks are required before that support can be enabled. Legacy records bind the canonical destination file. Promotion validates with the actual current Swift CLI, refuses missing/stale approval, preserves original/proposal history, writes assets before the isolated index and never silently replaces an existing enrollment spine. It does not commit or push. Refresh both real parser receipts and the independent review for the complete new snapshot before using the normal publication states.
 
-Approved dated riffs and legacy optional gaps have concrete target promotion commands:
+The old dated-riff/legacy-gap commands remain historical fixture interfaces. The live guided-only policy rejects these new-content promotions:
 
 ```sh
 export EDITORIAL_RUNTIME_CONFIG="/Users/thiagomartins/Library/Application Support/InstrumentScalesEditorial/parsers/active-runtimes.json"
@@ -172,9 +172,17 @@ node scripts/promote-approved.js --kind gap --id <queue-item-id>
 node scripts/editorial-pipeline.js reselect <same-precommit-batch-key>
 ```
 
-A dated riff is one editorial item with its own riffID, even when its reviewed source JSON holds seven candidates. The actual current Swift parser checks the authored source before any target write. A riff target records the exact delivered entry hashes in v2/daily/riffs.json; a gap copies the exact schema-2 draft, local approved visual assets and optional metadata into an existing unit. IDs/dates with different released music cannot be overwritten. Gap order must already be contiguous before review. Repeated promotion is idempotent. Refresh the complete parser/publication review receipt before committing; candidate existence alone never counts as delivery. To preserve legacy date uniqueness, dated riffs are universal across the five families without setup; instrument-specific work stays in the isolated path contract. Horizon still checks each applicable instrument/setup and rotation expires.
+A dated riff is one editorial item with its own riffID, even when its reviewed source JSON holds seven candidates. The actual current Swift parser checks the authored source before any target write. A riff target records the exact delivered entry hashes in v2/daily/riffs.json; a gap copies the exact schema-2 draft, local approved visual assets and optional metadata into an existing unit. IDs/dates with different released music cannot be overwritten. Gap order must already be contiguous before review. Repeated promotion is idempotent. Refresh the complete parser/publication review receipt before committing; candidate existence alone never counts as delivery. To preserve legacy date uniqueness, dated riffs are universal across the five families without setup; instrument-specific work stays in the isolated path contract. Historical riff horizon checks remain available for archive diagnostics and rotation still expires; they no longer drive daily new-content selection.
 
-A completed human-approved path/legacy promotion uses an explicit coordinator lane, rather than squeezing a curriculum spine into the daily three-item routine:
+A completed human-approved path/legacy promotion uses an explicit coordinator lane, rather than squeezing a curriculum spine into the daily three-item routine. The owner's explicit release approval for the 36 guided pilot lessons is recorded separately from physical execution: `basis: owner-release`, `playthrough: not-claimed`, and the exact scoped statement/reference/path IDs. It applies only to the registered path transaction and never approves legacy repairs or future physical patterns. Independent content and six-language reviews must bind all 36 current document hashes; the actual committed Swift parser and manifest approval remain mandatory.
+
+Promote several approved paths as one durable transaction and one complete deployment cycle:
+
+```sh
+node scripts/promote-approved.js --kind paths --ids bass-foundation,guitar-foundation,mandolin-foundation,piano-foundation,ukulele-foundation --approval /absolute/path/to/completed-guided-pilot-owner-release.json
+```
+
+The grouped record binds every path's full manifest and promoted path hash, all lesson hashes and the single final index/queue update. A partial transaction resumes from that same journal; an unknown third hash is preserved and refused. Public path approval uses `humanPlaythrough: not-claimed` for owner release. Approval requests with pending independent/language fields cannot promote.
 
 ```sh
 node scripts/editorial-pipeline.js start-coordinated-promotion /absolute/path/to/editorial/promotions/completed-record.json

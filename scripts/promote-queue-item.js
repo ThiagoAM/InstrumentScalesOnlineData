@@ -23,6 +23,8 @@ function promoteQueueItem(root, stateRoot, id) {
       queue = read(queueFile),
       item = queue.items.find((i) => i.id === id);
     if (!item) throw new Error("Unknown editorial item.");
+    if (item.type === "riff" || (item.type === "gap" && !item.guidedTarget))
+      require("./daily-content-policy").assertLegacyCreationAllowed(root);
     gateItem(item, {
       root,
       receipt: read(path.join(root, "editorial/evidence/swift-parser.json")),

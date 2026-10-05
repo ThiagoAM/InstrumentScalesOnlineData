@@ -38,7 +38,9 @@ function validateEditorial(
       if (
         !candidate &&
         (p.publicationStatus !== "approved" ||
-          p.humanPlaythrough !== "approved" ||
+          (p.humanPlaythrough !== "approved" &&
+            !(p.humanPlaythrough === "not-claimed" &&
+              ["owner-release", "guided-extra-delta"].includes(p.approval?.basis))) ||
           !p.approval?.approvedBy ||
           !p.approval?.approvedAt)
       )
@@ -46,6 +48,8 @@ function validateEditorial(
       if (!candidate)
         try {
           require("./coordinated-publication").assertPathManifestApproval(p);
+          if (p.approval?.basis === "owner-release")
+            require("./path-release-approval").assertOwnerRelease({ ...p.approval, kind: "human", playthrough: "not-claimed" }, [p.id]);
         } catch (error) {
           errors.push(error.message);
         }

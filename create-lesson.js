@@ -36,6 +36,7 @@ if (requiredLocales.join(",") !== locales.join(",")) {
 }
 
 const root = process.cwd();
+require("./scripts/daily-content-policy").assertLegacyCreationAllowed(root);
 require("./scripts/maintenance-guard").assertWritesAllowed();
 require("./scripts/education-format-policy").assertCurrentEducationOnly(root);
 const spec = JSON.parse(fs.readFileSync(path.resolve(root, specPath), "utf8"));

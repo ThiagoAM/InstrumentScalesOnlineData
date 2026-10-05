@@ -27,21 +27,11 @@ function assertBatchCoordinator(root, batch, { uncertainOnly = false } = {}) {
 }
 function humanApproval(record) {
   const a = record.approval;
-  if (
-    !a ||
-    a.kind !== "human" ||
-    a.playthrough !== "completed" ||
-    !a.approvedBy ||
-    !a.approvedAt ||
-    a.independentReview?.status !== "approved" ||
-    !a.independentReview.reviewer ||
-    !a.independentReview.reviewedAt ||
-    a.languages?.status !== "approved" ||
-    !a.languages.reviewer ||
-    !a.languages.reviewedAt ||
-    record.approvalSHA256 !==
-      sha(JSON.stringify(require("./publishing-state").canonical(a)))
-  )
+  require("./path-release-approval").assertReviewApproval(a, {
+    allowOwnerRelease: ["path", "paths"].includes(record.kind),
+    pathIDs: record.pathIDs || (record.kind === "path" ? [record.id] : undefined),
+  });
+  if (record.approvalSHA256 !== sha(JSON.stringify(require("./publishing-state").canonical(a))))
     throw new Error(
       "Promotion lacks integral hash-bound human/independent/language approval.",
     );
@@ -82,11 +72,7 @@ function validLegacyPromotion(root, relative, bytes) {
   return false;
 }
 function candidateManifest(pathValue) {
-  const candidate = structuredClone(pathValue);
-  delete candidate.approval;
-  candidate.publicationStatus = "review-pending";
-  candidate.humanPlaythrough = "pending";
-  return candidate;
+  return require("./path-release-approval").candidateManifest(pathValue);
 }
 function assertPathManifestApproval(pathValue) {
   if (
@@ -107,7 +93,7 @@ function startCoordinatedPromotion(root, stateRoot, recordFile) {
     const record = read(recordFile);
     if (
       record.status !== "promoted" ||
-      !["legacy", "path"].includes(record.kind)
+      !["legacy", "path", "paths"].includes(record.kind)
     )
       throw new Error(
         "Only a complete promoted human-reviewed transaction can begin coordinated publication.",
@@ -188,13 +174,23 @@ module.exports = {
 };
 
 function registeredPathPromotion(root, pathValue) {
+  if (pathValue.approval?.basis === "guided-extra-delta")
+    return require("./promote-guided-gap").registeredGuidedDelta(root, pathValue);
   return promotionRecords(root).some((record) => {
-    if (record.kind !== "path" || record.status !== "promoted") return false;
+    if (!["path", "paths"].includes(record.kind) || record.status !== "promoted") return false;
     try {
       const a = humanApproval(record);
+      assertPathManifestApproval(pathValue);
+      const ids = record.pathIDs || [record.id];
+      if (!ids.includes(pathValue.id)) return false;
+      const digest = sha(JSON.stringify(require("./publishing-state").canonical(pathValue)));
+      if (digest !== (record.pathSHA256?.[pathValue.id] || record.primarySHA256)) return false;
       return (
-        a.pathManifestSHA256 === pathValue.approval?.pathManifestSHA256 &&
+        (record.kind === "paths" ? a.pathManifestsSHA256?.[pathValue.id] : a.pathManifestSHA256) === pathValue.approval?.pathManifestSHA256 &&
         a.approvedBy === pathValue.approval?.approvedBy &&
+        a.approvedAt === pathValue.approval?.approvedAt &&
+        (a.basis || null) === (pathValue.approval?.basis || null) &&
+        (a.basis !== "owner-release" || require("./path-release-approval").same(a.releaseApproval, pathValue.approval?.releaseApproval)) &&
         Object.entries(pathValue.approval?.documentSHA256 || {}).every(
           ([key, value]) => a.documentSHA256?.[key] === value,
         )
@@ -205,3 +201,31 @@ function registeredPathPromotion(root, pathValue) {
   });
 }
 module.exports.registeredPathPromotion = registeredPathPromotion;
+function registeredPathOwnerRelease(root, item) {
+  const proof = item.reviewEvidence?.ownerRelease;
+  if (proof?.status !== "approved" || proof.kind !== "human" ||
+      !proof.reviewer || !proof.reviewedAt || proof.contentSHA256 !== item.contentSHA256)
+    return false;
+  const index = read(path.join(root, "v2/education/paths.json"));
+  return promotionRecords(root).some(record => {
+    if (!["path", "paths"].includes(record.kind) || record.status !== "promoted" ||
+        !record.itemIDs?.includes(item.id) || record.approval?.basis !== "owner-release") return false;
+    try {
+      const approval = humanApproval(record), target = record.targets?.[item.id];
+      if (proof.approvalSHA256 !== record.approvalSHA256 || proof.reviewer !== approval.approvedBy ||
+          proof.reviewedAt !== approval.approvedAt ||
+          !require("./path-release-approval").same(proof.releaseApproval, approval.releaseApproval) ||
+          !require("./path-release-approval").same(target, item.target) || target.sha256 !== item.contentSHA256 ||
+          sha(fs.readFileSync(path.join(root, target.path))) !== item.contentSHA256) return false;
+      return index.paths.some(p => {
+        if (!registeredPathPromotion(root, p)) return false;
+        const baseline = p.approval?.basis === "guided-extra-delta" ? require("./guided-variation").ownerBaseline(p) : p;
+        return baseline.approval?.basis === "owner-release" && baseline.humanPlaythrough === "not-claimed" &&
+          registeredPathPromotion(root, baseline) && p.units.flatMap(u => u.placements).some(l =>
+            "v2/education/" + l.path === target.path && baseline.approval.documentSHA256[l.contentKey] === item.contentSHA256 &&
+            p.approval.documentSHA256[l.contentKey] === item.contentSHA256);
+      });
+    } catch { return false; }
+  });
+}
+module.exports.registeredPathOwnerRelease = registeredPathOwnerRelease;

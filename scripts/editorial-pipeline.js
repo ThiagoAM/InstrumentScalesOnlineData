@@ -179,6 +179,7 @@ function selectItems(
               sha(JSON.stringify(item.reviewEvidence || {})) !==
                 item.blockedEvidenceSHA256))) &&
         (!item.notBefore || item.notBefore <= today) &&
+        require("./daily-content-policy").eligibleDailyItem(queue, item) &&
         (item.type !== "riff" ||
           (horizonFor ? horizonFor(item) : horizon) < 7) &&
         (item.type !== "gap" || item.blueprintApproved === true),
@@ -528,14 +529,18 @@ function gateItem(item, { root, receipt }) {
     evidence.independent?.contentSHA256 !== item.contentSHA256
   )
     throw new Error("Independent content review is required.");
+  const approvedPattern = item.approvedPattern
+    ? require("./guided-variation").assertApprovedGuidedVariation(root, item)
+    : false;
   const integral =
-    !equivalent &&
+    !equivalent && !approvedPattern &&
     (item.role === "core" ||
       item.role === "transfer" ||
       item.classification === "musical" ||
       !item.approvedRecipe);
   if (
     integral &&
+    !require("./coordinated-publication").registeredPathOwnerRelease(root, item) &&
     (evidence.playthrough?.status !== "approved" ||
       evidence.playthrough?.kind !== "human" ||
       !evidence.playthrough?.reviewer ||
@@ -543,9 +548,9 @@ function gateItem(item, { root, receipt }) {
       evidence.playthrough?.contentSHA256 !== item.contentSHA256)
   )
     throw new Error(
-      "Core and new physical patterns require a completed human playthrough.",
+      "Core and new physical patterns require a completed human playthrough or the exact registered owner-approved guided release.",
     );
-  if (!integral && !equivalent) {
+  if (!integral && !equivalent && !approvedPattern) {
     const recipes = read(path.join(root, "editorial/recipes.json")).recipes;
     const recipe = recipes.find((r) => r.id === item.approvedRecipe);
     const digest = recipe ? sha(JSON.stringify(recipe.definition)) : null;

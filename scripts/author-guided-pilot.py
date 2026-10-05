@@ -527,7 +527,7 @@ row(
         "Cross to the next course~Play D4–F#4 on the D course and A4–B4 on the A course, then return.~If the crossing rushes, place a counted rest before A4 and keep the pick movement small.~Change B4 to A4 held for two beats.",
         "Cruze ao próximo curso~Toque D4–F#4 no curso ré e A4–B4 no curso lá, depois volte.~Se a troca acelerar, ponha pausa contada antes de A4 e reduza o gesto da palheta.~Troque B4 por A4 sustentado por dois tempos.",
         "Cruza al orden vecino~Toca D4–F#4 en el orden re y A4–B4 en el orden la, luego vuelve.~Si el cruce acelera, cuenta una pausa antes de A4 y reduce el gesto.~Cambia B4 por A4 sostenido dos pulsos.",
-        "Wechsle zum Nachbarchor~Spiele D4–F#4 auf D und A4–B4 auf A, dann zurück.~Beschleunigt der Wechsel, zähle vor A4 eine Pause und halte den Weg klein.~Ersetze B4 durch A4 für zwei Schläge.",
+        "Wechsle zum Nachbarchor~Spiele D4–F#4 auf D und A4–B4 auf A, dann zurück. Internationale Notennamen: B bedeutet H.~Beschleunigt der Wechsel, zähle vor A4 eine Pause und halte den Weg klein.~Ersetze B4 durch A4 für zwei Schläge.",
         "隣のコースへ~DコースでD4–F#4、AコースでA4–B4を弾いて戻ります。~渡る時に急いだらA4の前に数えた休符を置き、ピックの動きを小さくします。~B4を2拍のA4へ変えます。",
         "跨到相邻弦组~D弦组弹D4–F#4，A弦组弹A4–B4，再返回。~若跨弦加速，在A4前数一个休止，缩小拨片动作。~把B4换成保持两拍的A4。",
     ],
@@ -830,6 +830,49 @@ UNIT_TITLES = {
         "双弦组之间的声音",
     ],
 }
+PATH_SUMMARIES = {
+    "guitar": [
+        "Foundations: find notes, count rests and shape short phrases across two strings.",
+        "Fundamentos: localize notas, conte pausas e construa frases curtas em duas cordas.",
+        "Fundamentos: localiza notas, cuenta silencios y crea frases cortas en dos cuerdas.",
+        "Grundlagen: Töne finden, Pausen zählen und kurze Phrasen auf zwei Saiten gestalten.",
+        "基礎：音を見つけ、休符を数え、2本の弦で短いフレーズを作ります。",
+        "基础：找音、数休止，并在两根弦上组织短乐句。"
+    ],
+    "bass": [
+        "Foundations: roots, fifths, note length and chord arrivals that support a four-bar accompaniment.",
+        "Fundamentos: tônicas, quintas, duração das notas e chegadas que sustentam quatro compassos de acompanhamento.",
+        "Fundamentos: fundamentales, quintas, duración de las notas y llegadas que sostienen cuatro compases de acompañamiento.",
+        "Grundlagen: Grundtöne, Quinten, Tondauer und Ankünfte, die vier Begleittakte tragen.",
+        "基礎：ルート、5度、音の長さ、和音の変わり目への着地で4小節の伴奏を支えます。",
+        "基础：用根音、五音、时值与和弦到达支撑四小节伴奏。"
+    ],
+    "piano": [
+        "Foundations: a five-finger melody, counted rests and simple left-hand roots.",
+        "Fundamentos: melodia de cinco dedos, pausas contadas e fundamentais simples na mão esquerda.",
+        "Fundamentos: melodía de cinco dedos, silencios contados y fundamentales sencillas en la mano izquierda.",
+        "Grundlagen: Fünffinger-Melodie, gezählte Pausen und einfache Grundtöne in der linken Hand.",
+        "基礎：5本の指の旋律、休符の数え方、左手のシンプルなルートを学びます。",
+        "基础：五指旋律、数休止，以及左手的简单根音。"
+    ],
+    "ukulele": [
+        "Foundations for high-G (re-entrant) tuning: string order, a C chord, strumming with rests and a short melody.",
+        "Fundamentos para afinação com sol agudo (reentrante): ordem das cordas, acorde C, batida com pausas e uma melodia curta.",
+        "Fundamentos para afinación con sol agudo (reentrante): orden de las cuerdas, acorde C, rasgueo con silencios y una melodía corta.",
+        "Grundlagen für die Stimmung mit hohem G (re-entrant): Saitenfolge, C-Akkord, Anschlag mit Pausen und eine kurze Melodie.",
+        "高いG（リエントラント）調弦の基礎：弦の順番、Cコード、休符を入れたストローク、短い旋律を学びます。",
+        "高G（回入式）调弦基础：弦序、C和弦、带休止的扫弦和一段短旋律。"
+    ],
+    "mandolin": [
+        "Foundations: paired courses tuned in fifths, alternate picking and a short phrase with an open D voicing.",
+        "Fundamentos: pares de cordas afinados em quintas, palhetada alternada e uma frase curta com uma disposição aberta de D.",
+        "Fundamentos: órdenes dobles afinados en quintas, púa alternada y una frase corta con una disposición abierta de D.",
+        "Grundlagen: Doppelchöre in Quinten, Wechselschlag und eine kurze Phrase mit offener D-Lage.",
+        "基礎：5度に調弦した複弦、ダウンとアップの交互ピッキング、開放Dの配置を使った短いフレーズを学びます。",
+        "基础：五度定弦的双弦组、交替拨弦，以及带开放D排列的短乐句。"
+    ]
+}
+
 SETUP_TEXT = {
     "guitar": [
         "Use a six-string guitar in E2–A2–D3–G3–B3–E4, without capo. String 1 is high E. Move the hand when needed; do not hold a wide stretch.",
@@ -856,12 +899,12 @@ SETUP_TEXT = {
         "键盘需有C3到C6，示例在此范围。C4是中央C。不用踏板开始，先放松紧张再继续。",
     ],
     "ukulele": [
-        "Use four strings G4–C4–E4–A4 with high G. String 1 is A. This pilot does not describe low-G tuning; check the octave before practising.",
-        "Use quatro cordas G4–C4–E4–A4 com sol agudo. Corda 1 é lá. O piloto não descreve sol grave; confira a oitava antes de praticar.",
-        "Usa cuatro cuerdas G4–C4–E4–A4 con sol agudo. La cuerda 1 es la. Este piloto no describe sol grave; comprueba la octava.",
-        "Nutze G4–C4–E4–A4 mit hohem G. Saite 1 ist A. Dieser Pilot gilt nicht für tiefes G; prüfe vorher die Oktave.",
-        "高いGのG4–C4–E4–A4です。第1弦はAです。このパイロットは低いGの調弦用ではありません。練習前にオクターブを確認します。",
-        "使用高G的G4–C4–E4–A4，第1弦为A。本试点不描述低G调弦，练习前核对八度。",
+        "Use four strings G4–C4–E4–A4 with high G. String 1 is A. These lessons do not cover low-G tuning; check the octave before practising.",
+        "Use quatro cordas G4–C4–E4–A4 com sol agudo. Corda 1 é lá. Estas lições não abordam a afinação com sol grave; confira a oitava antes de praticar.",
+        "Usa cuatro cuerdas G4–C4–E4–A4 con sol agudo. La cuerda 1 es la. Estas lecciones no cubren la afinación con sol grave; comprueba la octava.",
+        "Nutze G4–C4–E4–A4 mit hohem G. Saite 1 ist A. Diese Lektionen gelten nicht für tiefes G; prüfe vorher die Oktave.",
+        "高いGのG4–C4–E4–A4です。第1弦はAです。これらのレッスンは低いGの調弦用ではありません。練習前にオクターブを確認します。",
+        "使用高G的G4–C4–E4–A4，第1弦为A。这些课程不涉及低G调弦，练习前核对八度。",
     ],
     "mandolin": [
         "Use eight strings in four paired courses G3–D4–A4–E5. Course 1 is E. A displayed course means two unison strings, not two independently fretted voices.",
@@ -1250,16 +1293,7 @@ for family, (titles, tuning, courses, low, high, tuningtext) in FAMILIES.items()
             spineVersion=1,
             instrument=family,
             titles=loc(titleValues),
-            summaries=loc(
-                [
-                    "A finite foundation pilot, pending physical playthrough.",
-                    "Piloto finito de fundação, pendente de execução instrumental.",
-                    "Piloto finito de fundamentos, pendiente de ejecución instrumental.",
-                    "Begrenzter Grundlagenpilot, praktisches Durchspielen steht aus.",
-                    "実演確認待ちの有限の基礎パイロットです。",
-                    "有限基础试点，等待真实演奏检查。",
-                ]
-            ),
+            summaries=loc(PATH_SUMMARIES[family]),
             requiredCapabilities=familyCaps,
             setup=setup,
             units=units,

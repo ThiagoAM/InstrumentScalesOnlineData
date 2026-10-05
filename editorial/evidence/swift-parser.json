@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-04T09:40:03.978Z",
+  "generatedAt": "2026-10-05T01:46:58.280Z",
   "locales": [
     "en",
     "pt-BR",
@@ -11,12 +11,12 @@
   ],
   "baselineSourceCommit": "5eab79a24efff87423d026784d06b503afb0184f",
   "baselineBinarySHA256": "e5d0881d811614f18b3f9c7844aa91c27b2f77c599b486cc5d986e0c827780ac",
-  "currentBinarySHA256": "534376f82d756cfaa8be0144534265252545b4bb9d9ff8cb501283527f5bf96e",
+  "currentBinarySHA256": "c3f307443ce5ac7df15150c61825a3310855fdc532f10851e6e189139522fe07",
   "scope": "Both real parsers on every legacy reference and riff; current parser on complete quarantined proposals and guided manifests/setup. Source parser execution, not store-binary playback.",
   "valid": true,
   "counts": {
     "legacy": 838,
-    "guided": 36,
+    "guided": 72,
     "legacyProposals": 75,
     "riffs": 35,
     "failed": 0
@@ -866,7 +866,43 @@
     "v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-fifth-pocket-detour/lesson.md": "47de7be3c88341dba1292e0255da33e0e12f0958a28dba8bfcb521d625fa3746",
     "v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-third-shift-signal/lesson.md": "c878572080a9b9dabfbc527e4b1b8ff158e43b947750c320f7ca7ad8d9980258",
     "v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md": "5fb3d65196bcd7a8e8681db0e09d69a1a9c3a8a10f9797bce647c99aaba180ae",
-    "v2/education/paths.json": "7de6b0d522f0b20e11fc4ce3796c9545f4a825262bae31ed76e57abb7b3f7203",
+    "v2/education/guided/bass/supporting-line/bass-a-small-anticipation/lesson.md": "6f18f03d09fab35930ac244a3529a38d00fd122b56bd19cfc5996294f4e70dc0",
+    "v2/education/guided/bass/supporting-line/bass-arrive-at-the-change/lesson.md": "b264e546f69e0a1286f2913073c48b2da581b8b51941db335da8e035b5d3ee93",
+    "v2/education/guided/bass/supporting-line/bass-four-bars-of-support/lesson.md": "f54de56bf4b958498c692a5715462db6e44f076a5e8038685a9d3875b2fb998f",
+    "v2/education/guided/bass/supporting-line/bass-length-and-release/lesson.md": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+    "v2/education/guided/bass/supporting-line/bass-root-and-fifth/lesson.md": "795944c919f9d99c69880a29ec5c5e108d824e740d66d9e6b5649cf0dd12347f",
+    "v2/education/guided/bass/supporting-line/bass-root-on-one/lesson.md": "115e465df7a05cc2f7c8ef1f6ffa37db9e46664daf99ebf4a6e21743b8b5e883",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-count-the-silence/lesson.md": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md": "5b3d3d4e5271f8f24545e1a4961c35da325c4ab8d99ba4c05700bd36d5f3949e",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md": "fe697f9cb5aef069203adf30182285197a2d3398837ee27cf799fa4115b343a4",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md": "1f8947aa1bc454d1081e2fb93b3dac3ed9dbb5aa885138ee4c33eef275256a91",
+    "v2/education/guided/guitar/two-places/guitar-change-the-touch/lesson.md": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e",
+    "v2/education/guided/guitar/two-places/guitar-choose-the-ending/lesson.md": "5fa22c7b7de504fb04f5971ec438ff3dad2de7a5f1d9e6b73b31c88862d9c2fd",
+    "v2/education/guided/guitar/two-places/guitar-cross-two-strings/lesson.md": "94c1825eab69b4c5c113f76f7f42f78fb49ea30f441683559006e5213129da53",
+    "v2/education/guided/guitar/two-places/guitar-four-bar-story/lesson.md": "c19ce5aff9791c04bcff489b9a66e643fec4d7f3d23fa50a2a92f192a17d8d27",
+    "v2/education/guided/guitar/two-places/guitar-hear-a-triad/lesson.md": "7e8c4a0a6dabda325b8703ce2ba19cd04a573b570afa6bdd0f2f3bc5520942b5",
+    "v2/education/guided/guitar/two-places/guitar-same-pitch-two-strings/lesson.md": "9741e7a9b16b129d9646279fd945f5d8da9d2809817ac354a887e722286613ca",
+    "v2/education/guided/mandolin/paired-courses/mandolin-a-four-bar-phrase/lesson.md": "b7219858a0613f0ad1616acda40a6aa12e9dc50a01ce2cdbf50104827104cc11",
+    "v2/education/guided/mandolin/paired-courses/mandolin-a-small-d-triad/lesson.md": "712b26ebb092369aec2dd44460f29e805768eb1286c1669ad4157beaffdb5a8b",
+    "v2/education/guided/mandolin/paired-courses/mandolin-alternate-on-one-course/lesson.md": "61820dc91cd67a4d6438c41a4b9c2754040d59286a953888e014374f59ddd21f",
+    "v2/education/guided/mandolin/paired-courses/mandolin-cross-the-fifth/lesson.md": "0aa0f090b382b900b1b6b380e07729bc17a20eb39b259508e6173851a8203b68",
+    "v2/education/guided/mandolin/paired-courses/mandolin-hear-paired-courses/lesson.md": "31adb2a164fede2dab42c76c4205a1cf3754e1d3ac8052d1ae6dc704e2c6af5a",
+    "v2/education/guided/mandolin/paired-courses/mandolin-two-attacks-one-note/lesson.md": "6815c47703f9ce4a704be87ab8bb9452d8c6d444894d2c77eee95e30bf940362",
+    "v2/education/guided/piano/melody-and-support/piano-breath-and-articulation/lesson.md": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+    "v2/education/guided/piano/melody-and-support/piano-find-the-region/lesson.md": "f763d1aa62d01fc782963ef3d3a1c123ca9c023da664a027e4e03b710d2af812",
+    "v2/education/guided/piano/melody-and-support/piano-five-finger-phrase/lesson.md": "1ed4e76a70a3d15a241371da20a6006873b106dc04a392fe88ef4a83fed0060d",
+    "v2/education/guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md": "ba4ec80b363c85f8348965d8f4a98f3f009e146c9974e3dfd401a360e3df8520",
+    "v2/education/guided/piano/melody-and-support/piano-melody-with-roots/lesson.md": "6ce94625ed2ef830e2fc4b83c1e2c6d4772e97c3333f699fbba705504aaef077",
+    "v2/education/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md": "394e41d207cd95d72bcfd883bbf00f26944727071fb68cb8d88131e033fdf1e8",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md": "4f0a0ebb1f130649080fdf6a5d4e4dfec55703a81760d9e6d64ef1e86d47c993",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-and-chord-answer/lesson.md": "6077808b7b33c72ba53b6fb82ac472ead5e05487bdd1a78684e2d8c8ffc18714",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+    "v2/education/paths.json": "06713d3fbdc5664acd1284f114df27e04fb31c074e762cac58a9ab4c96d2df35",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
   "candidateFiles": {
@@ -891,7 +927,7 @@
     "editorial/candidates/guided/mandolin/paired-courses/mandolin-a-four-bar-phrase/lesson.md": "b7219858a0613f0ad1616acda40a6aa12e9dc50a01ce2cdbf50104827104cc11",
     "editorial/candidates/guided/mandolin/paired-courses/mandolin-a-small-d-triad/lesson.md": "712b26ebb092369aec2dd44460f29e805768eb1286c1669ad4157beaffdb5a8b",
     "editorial/candidates/guided/mandolin/paired-courses/mandolin-alternate-on-one-course/lesson.md": "61820dc91cd67a4d6438c41a4b9c2754040d59286a953888e014374f59ddd21f",
-    "editorial/candidates/guided/mandolin/paired-courses/mandolin-cross-the-fifth/lesson.md": "04e7f1edc0ad2fe719c08638f8d74302dd21bb1a1f206d5918cee8c2ae3e5e5d",
+    "editorial/candidates/guided/mandolin/paired-courses/mandolin-cross-the-fifth/lesson.md": "0aa0f090b382b900b1b6b380e07729bc17a20eb39b259508e6173851a8203b68",
     "editorial/candidates/guided/mandolin/paired-courses/mandolin-hear-paired-courses/lesson.md": "31adb2a164fede2dab42c76c4205a1cf3754e1d3ac8052d1ae6dc704e2c6af5a",
     "editorial/candidates/guided/mandolin/paired-courses/mandolin-two-attacks-one-note/lesson.md": "6815c47703f9ce4a704be87ab8bb9452d8c6d444894d2c77eee95e30bf940362",
     "editorial/candidates/guided/piano/melody-and-support/piano-breath-and-articulation/lesson.md": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
@@ -900,12 +936,12 @@
     "editorial/candidates/guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md": "ba4ec80b363c85f8348965d8f4a98f3f009e146c9974e3dfd401a360e3df8520",
     "editorial/candidates/guided/piano/melody-and-support/piano-melody-with-roots/lesson.md": "6ce94625ed2ef830e2fc4b83c1e2c6d4772e97c3333f699fbba705504aaef077",
     "editorial/candidates/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b",
-    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md": "654afec33ba4add6d11f3123ee42bd4730f87e7d4fef57fb3b8f4e8ff801a3c3",
-    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md": "337fb879fbbd26a6a95637feadd107f0797194cdba6c1cbb45145ce647ea4494",
-    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-melody-and-chord-answer/lesson.md": "8dfd2bfb330cc5a3401d2c7081e4e10d36656f619da1e71fe2ae04d17264a388",
-    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "3c133852f60fd43c72e18cb06017bd408ec3b92bfce28141d00713a0712218ba",
-    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "7317efb3327aa2a660e34e448171aa4031d2a7d191e4516fa292aeac96976b75",
-    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "79218c488957bda00b327a2df09dc3f0a86eb029eb20fb522532efe6f2064111",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md": "394e41d207cd95d72bcfd883bbf00f26944727071fb68cb8d88131e033fdf1e8",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md": "4f0a0ebb1f130649080fdf6a5d4e4dfec55703a81760d9e6d64ef1e86d47c993",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-melody-and-chord-answer/lesson.md": "6077808b7b33c72ba53b6fb82ac472ead5e05487bdd1a78684e2d8c8ffc18714",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md": "3e8424bd57f73833e61aa369642f8d55900e4045ccd4dac68ec50f657b34701a",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/guitar-chromatic-third-doors-20260925/lesson.md": "bd600872d827a0c1093f485c5e9711c591c91c7327affcf18d4da38034323bc7",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md": "d25b4ac20ca127472cba8e17dfffdc64f472a11b3e5407c74b097c33669f7c10",
@@ -981,14 +1017,231 @@
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/bass-fifth-pocket-detour/lesson.md": "69a082912d0cdcde4f05508613e40331f2ddb85ea4004580978a1466d514270f",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/guitar-third-shift-signal/lesson.md": "8b3f6539117a7e4ef73c3b3f229f4d3ec1c8a3e5aa1357204a063dbf90b0e666",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/sections/intermediate/units/scale-build-eight-bar-solo/lessons/piano-contrary-mode-lantern/lesson.md": "b0af10ede0f3cc711a1e6102897b8f08f1f25caa16c1604f6ed1aa416ae40daf",
-    "editorial/candidates/paths.json": "cd0de929666cbd5cdffd9dba7e6595ff91fe54e254db1243d76a088c0188a83a",
+    "editorial/candidates/paths.json": "a1013ffaa5125ddfd3ae231b7dc5f11b813e3b7e4d9f633b490b59d809d1eabb",
     "editorial/candidates/riffs.json": "7d75c2cbcca52114e2339c9d10b467a3802d2b286acb12d8b5d5cef92900e5fd"
   },
   "contracts": [
     {
       "label": "public-paths",
       "valid": true,
-      "diagnostics": []
+      "diagnostics": [
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-root-on-one/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-root-and-fifth/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-length-and-release/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-arrive-at-the-change/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-four-bars-of-support/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-a-small-anticipation/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-count-the-silence/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/two-places/guitar-same-pitch-two-strings/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/two-places/guitar-cross-two-strings/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/two-places/guitar-hear-a-triad/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/two-places/guitar-choose-the-ending/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/two-places/guitar-four-bar-story/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/two-places/guitar-change-the-touch/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/mandolin/paired-courses/mandolin-hear-paired-courses/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/mandolin/paired-courses/mandolin-alternate-on-one-course/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/mandolin/paired-courses/mandolin-cross-the-fifth/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/mandolin/paired-courses/mandolin-a-small-d-triad/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/mandolin/paired-courses/mandolin-a-four-bar-phrase/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/mandolin/paired-courses/mandolin-two-attacks-one-note/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-find-the-region/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-five-finger-phrase/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-breath-and-articulation/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-melody-with-roots/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-and-chord-answer/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md",
+          "severity": "ok"
+        }
+      ]
     },
     {
       "label": "candidate-paths",
@@ -17883,6 +18136,330 @@
       "parser": "current"
     },
     {
+      "id": "bass-root-on-one",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-root-on-one/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "bass-root-and-fifth",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-root-and-fifth/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "bass-length-and-release",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-length-and-release/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "bass-arrive-at-the-change",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-arrive-at-the-change/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "bass-four-bars-of-support",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-four-bars-of-support/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "bass-a-small-anticipation",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-a-small-anticipation/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-one-string-landmarks",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-hear-the-distance",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-three-note-question",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-count-the-silence",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-count-the-silence/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-two-bar-answer",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-move-the-question",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-same-pitch-two-strings",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/two-places/guitar-same-pitch-two-strings/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-cross-two-strings",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/two-places/guitar-cross-two-strings/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-hear-a-triad",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/two-places/guitar-hear-a-triad/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-choose-the-ending",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/two-places/guitar-choose-the-ending/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-four-bar-story",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/two-places/guitar-four-bar-story/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-change-the-touch",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/two-places/guitar-change-the-touch/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "mandolin-hear-paired-courses",
+      "source": "guided",
+      "file": "v2/education/guided/mandolin/paired-courses/mandolin-hear-paired-courses/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "mandolin-alternate-on-one-course",
+      "source": "guided",
+      "file": "v2/education/guided/mandolin/paired-courses/mandolin-alternate-on-one-course/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "mandolin-cross-the-fifth",
+      "source": "guided",
+      "file": "v2/education/guided/mandolin/paired-courses/mandolin-cross-the-fifth/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "mandolin-a-small-d-triad",
+      "source": "guided",
+      "file": "v2/education/guided/mandolin/paired-courses/mandolin-a-small-d-triad/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "mandolin-a-four-bar-phrase",
+      "source": "guided",
+      "file": "v2/education/guided/mandolin/paired-courses/mandolin-a-four-bar-phrase/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "mandolin-two-attacks-one-note",
+      "source": "guided",
+      "file": "v2/education/guided/mandolin/paired-courses/mandolin-two-attacks-one-note/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-find-the-region",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-find-the-region/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-five-finger-phrase",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-five-finger-phrase/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-breath-and-articulation",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-breath-and-articulation/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-left-hand-anchor",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-melody-with-roots",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-melody-with-roots/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-swap-a-small-role",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-know-the-four-strings",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-a-clean-c-chord",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-strum-and-rest",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-melody-on-two-strings",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-melody-and-chord-answer",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-and-chord-answer/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-reentrant-unison",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
       "id": "guitar-one-string-landmarks",
       "source": "candidate",
       "file": "editorial/candidates/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md",
@@ -20425,11 +21002,11 @@
   "reviewOnly": false,
   "runtimeProvenance": {
     "baselineCommit": "5eab79a24efff87423d026784d06b503afb0184f",
-    "currentCommit": "e55ddf0248a0ab2c9dd71fa3884d4f2e4bfee57c",
+    "currentCommit": "f5dfc7ce0667664514cc5e2bc59f3a043057f318",
     "baselineSourceSHA256": "b8588a44b95d4bf2272c2d29eac6df760af4717f20053793165b418ad227786a",
-    "currentSourceSHA256": "2160104a089d8794890950c5aae1a0b93beb40f0fe6b99da30e49dbe30402443",
+    "currentSourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
     "baselineBinarySHA256": "e5d0881d811614f18b3f9c7844aa91c27b2f77c599b486cc5d986e0c827780ac",
-    "currentBinarySHA256": "534376f82d756cfaa8be0144534265252545b4bb9d9ff8cb501283527f5bf96e",
+    "currentBinarySHA256": "c3f307443ce5ac7df15150c61825a3310855fdc532f10851e6e189139522fe07",
     "sourceKind": "committed-packages"
   }
 }

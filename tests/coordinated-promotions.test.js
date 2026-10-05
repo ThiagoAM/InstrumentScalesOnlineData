@@ -4,7 +4,7 @@ const fs = require("node:fs");
 const path = require("node:path");
 const os = require("node:os");
 const { sha } = require("../scripts/source-inventory");
-const { approvalFor, pendingManifest, canonicalSHA, prepareLegacy, promoteLegacy, promotePath } = require("../scripts/promote-approved");
+const { approvalFor, pendingManifest, canonicalSHA, prepareLegacy, promoteLegacy, promotePath, promotePaths } = require("../scripts/promote-approved");
 const runtimeConfig = process.env.EDITORIAL_TEST_RUNTIME_CONFIG || path.join(os.homedir(), "Library/Application Support/InstrumentScalesEditorial/parsers/active-runtimes.json");
 const realRuntimeAvailable = fs.existsSync(runtimeConfig);
 const L = ["en", "pt-BR", "es", "de", "ja", "zh-Hans"];
@@ -38,19 +38,19 @@ function legacy(f) {
   json(f.root, "editorial/queue.json", { schema: 1, revision: 1, dailyLimit: 3, items: [{ id: "repair-" + id, type: "repair", owner: "Synthetic fixture author", classification: "musical", source: proposal, contentSHA256: sha(markdown(id, 2)), reviewEvidence: {}, status: "review-pending", revision: 2 }] });
   return { id, destination, proposal, catalog: "v2/education/courses/instrument-scales/catalog.json" };
 }
-function pathCandidate(f) {
+function pathCandidate(f, suffix = "") {
   const placements = [], items = [], documents = {};
   for (let index = 1; index <= 4; index++) {
-    const id = "fixture-guided-" + index, relative = `guided/guitar/fixture/${id}/lesson.md`, source = "editorial/candidates/" + relative;
+    const id = "fixture-guided-" + index + suffix, relative = `guided/guitar/fixture/${id}/lesson.md`, source = "editorial/candidates/" + relative;
     const bytes = markdown(id, 1, true), file = path.join(f.root, source); fs.mkdirSync(path.dirname(file), { recursive: true }); fs.writeFileSync(file, bytes);
-    placements.push({ id: "placement-" + index, contentKey: "guided:" + id, lessonID: id, source: "guided", path: relative, revision: 1, assessmentVersion: 1, role: "core", skillID: "fixture-" + index, prerequisites: [], titles: labels("Synthetic task"), summaries: labels("Fixture only"), estimatedMinutes: 5 });
+    placements.push({ id: "placement-" + index + suffix, contentKey: "guided:" + id, lessonID: id, source: "guided", path: relative, revision: 1, assessmentVersion: 1, role: "core", skillID: "fixture-" + index + suffix, prerequisites: [], titles: labels("Synthetic task"), summaries: labels("Fixture only"), estimatedMinutes: 5 });
     items.push({ id: "guided-" + id, type: "gap", role: "core", owner: "Synthetic fixture author", source, contentSHA256: sha(bytes), reviewEvidence: {}, status: "review-pending", revision: 1 });
     documents["guided:" + id] = sha(bytes);
     // Existing writable lesson directories let a read-only index parent force
     // interruption AFTER the document has been installed.
     fs.mkdirSync(path.join(f.root, "v2/education", path.dirname(relative)), { recursive: true });
   }
-  const candidate = { id: "fixture-path", spineVersion: 1, instrument: "guitar", titles: labels("Synthetic spine"), summaries: labels("Fixture only"), requiredCapabilities: ["guided-steps", "localized-regions", "instrument-setup", "notes"], setup: { instrument: "guitar", tuningMIDINotes: [40,45,50,55,59,64], stringsPerCourse: 1, minimumFret: 0, maximumFret: 12, minimumMIDINote: 40, maximumMIDINote: 76, leftHanded: false }, units: [{ id: "fixture", order: 1, level: "beginner", titles: labels("Fixture unit"), summaries: labels("Fixture only"), prerequisites: [], placements }], publicationStatus: "review-pending", humanPlaythrough: "pending" };
+  const candidate = { id: "fixture-path" + suffix, spineVersion: 1, instrument: "guitar", titles: labels("Synthetic spine"), summaries: labels("Fixture only"), requiredCapabilities: ["guided-steps", "localized-regions", "instrument-setup", "notes"], setup: { instrument: "guitar", tuningMIDINotes: [40,45,50,55,59,64], stringsPerCourse: 1, minimumFret: 0, maximumFret: 12, minimumMIDINote: 40, maximumMIDINote: 76, leftHanded: false }, units: [{ id: "fixture", order: 1, level: "beginner", titles: labels("Fixture unit"), summaries: labels("Fixture only"), prerequisites: [], placements }], publicationStatus: "review-pending", humanPlaythrough: "pending" };
   json(f.root, "editorial/candidates/paths.json", { schema: 2, format: 2, revision: 1, requiredCapabilities: candidate.requiredCapabilities, paths: [candidate] });
   json(f.root, "editorial/queue.json", { schema: 1, revision: 1, dailyLimit: 3, items });
   return { candidate, approval: human(documents, canonicalSHA(pendingManifest(candidate))) };
@@ -61,6 +61,99 @@ test("human approval rejects fabricated kind, stale bytes and missing independen
   assert.throws(() => approvalFor(record, "fixture", Buffer.from("changed")), /exact reviewed bytes/);
   assert.throws(() => approvalFor({ ...record, independentReview: {} }, "fixture", bytes), /Independent/);
   assert.throws(() => approvalFor({ ...record, languages: {} }, "fixture", bytes), /Six-language/);
+  const historical = structuredClone(record); delete historical.languages.locales;
+  assert.doesNotThrow(() => approvalFor(historical, "fixture", bytes), "Historical human-playthrough approvals retain their original language-record contract");
+});
+function ownerRelease(documents, pathIDs, manifests) {
+  const approval = human(documents);
+  approval.basis = "owner-release"; approval.playthrough = "not-claimed";
+  approval.pathManifestsSHA256 = manifests;
+  approval.releaseApproval = { status: "approved", kind: "human", scope: "guided-pilot-release", pathIDs,
+    approvalReference: "synthetic-fixture-only", approvalStatement: "Synthetic owner release fixture, never real approval or instrumental playthrough." };
+  for (const review of [approval.independentReview, approval.languages]) {
+    review.documentSHA256 = documents; review.reviewReference = "synthetic-review-fixture-only";
+  }
+  return approval;
+}
+test("owner release is scoped to paths and requires exact independent six-locale review without claiming playthrough", () => {
+  const bytes = Buffer.from("Synthetic fixture"), documents = { fixture: sha(bytes) };
+  const a = ownerRelease(documents, ["fixture-path"], {});
+  assert.throws(() => approvalFor(a, "fixture", bytes), /only to its guided paths/);
+  assert.doesNotThrow(() => approvalFor(a, "fixture", bytes, { allowOwnerRelease: true, pathIDs: ["fixture-path"] }));
+  const provenance = structuredClone(a); provenance.editorialProvenance = { note: "Top-level private provenance is permitted and is not copied into the public nested release record." };
+  assert.doesNotThrow(() => approvalFor(provenance, "fixture", bytes, { allowOwnerRelease: true, pathIDs: ["fixture-path"] }));
+  assert.throws(() => approvalFor(a, "fixture", bytes, { allowOwnerRelease: true, pathIDs: ["another-path"] }), /explicit scoped/);
+  for (const alter of [a => a.playthrough = "completed", a => a.releaseApproval.approvalStatement = "",
+    a => a.independentReview.documentSHA256 = {}, a => a.languages.locales = ["en"],
+    a => a.releaseApproval.provenance = "An extra nested key cannot round-trip through the Swift model",
+    a => a.approvedAt = "2026-10-04", a => a.independentReview.reviewedAt = "2026-10-04T10:00:00",
+    a => a.languages.reviewedAt = "2026-02-29T10:00:00Z"]) {
+    const changed = structuredClone(a); alter(changed);
+    assert.throws(() => approvalFor(changed, "fixture", bytes, { allowOwnerRelease: true, pathIDs: ["fixture-path"] }));
+  }
+});
+test("shared ISO date-time contract requires a valid calendar date, time and explicit timezone", () => {
+  const { isStrictISODateTime } = require("../scripts/path-release-approval");
+  for (const value of ["2026-10-04T21:29:31Z", "2026-10-05T00:29:31.185Z", "2024-02-29T12:00:00-03:00", "2026-10-04T12:00:00+14:00"])
+    assert.equal(isStrictISODateTime(value), true, value);
+  for (const value of ["2026-10-04", "2026-10-04T12:00:00", "2026-02-29T12:00:00Z", "2026-04-31T12:00:00Z",
+    "2026-10-04T24:00:00Z", "2026-10-04T12:60:00Z", "2026-10-04T12:00:60Z", "2026-10-04T12:00:00+24:00", "2026-10-04T12:00:00+01:60", null])
+    assert.equal(isStrictISODateTime(value), false, String(value));
+});
+test("grouped owner release rejects partial path scope and stale document review before staging production writes", () => {
+  const f = fixture(); try {
+    const first = pathCandidate(f), firstQueue = read(path.join(f.root, "editorial/queue.json"));
+    const second = pathCandidate(f, "-second"), secondQueue = read(path.join(f.root, "editorial/queue.json"));
+    json(f.root, "editorial/candidates/paths.json", { schema: 2, format: 2, revision: 1, requiredCapabilities: first.candidate.requiredCapabilities, paths: [first.candidate, second.candidate] });
+    json(f.root, "editorial/queue.json", { ...firstQueue, items: [...firstQueue.items, ...secondQueue.items] });
+    const documents = { ...first.approval.documentSHA256, ...second.approval.documentSHA256 };
+    const ids = [first.candidate.id, second.candidate.id], manifests = Object.fromEntries([first, second].map(x => [x.candidate.id, x.approval.pathManifestSHA256]));
+    const approval = ownerRelease(documents, ids, manifests), before = fs.readFileSync(path.join(f.root, "v2/education/paths.json"));
+    const extraScope = structuredClone(approval); extraScope.releaseApproval.pathIDs.push("unapproved-extra");
+    assert.throws(() => promotePaths(ids, extraScope, f.options), /match exactly/);
+    const stale = structuredClone(approval); stale.pathManifestsSHA256[ids[1]] = "0".repeat(64);
+    assert.throws(() => promotePaths(ids, stale, f.options), /exact pending spine/);
+    assert.deepEqual(fs.readFileSync(path.join(f.root, "v2/education/paths.json")), before);
+    assert.equal(fs.existsSync(path.join(f.root, "editorial/promotions")), false);
+    assert.equal(fs.existsSync(path.join(f.options.stateRoot, "promotions")), false);
+  } finally { f.cleanup(); }
+});
+test("grouped real-parser owner release resumes one journal before index, rejects third-party bytes and preserves no-playthrough semantics", { skip: !realRuntimeAvailable }, () => {
+  const f = fixture(), education = path.join(f.root, "v2/education"); try {
+    const first = pathCandidate(f), firstQueue = read(path.join(f.root, "editorial/queue.json"));
+    const second = pathCandidate(f, "-second"), secondQueue = read(path.join(f.root, "editorial/queue.json"));
+    json(f.root, "editorial/candidates/paths.json", { schema: 2, format: 2, revision: 1, requiredCapabilities: first.candidate.requiredCapabilities, paths: [first.candidate, second.candidate] });
+    json(f.root, "editorial/queue.json", { ...firstQueue, items: [...firstQueue.items, ...secondQueue.items] });
+    const documents = { ...first.approval.documentSHA256, ...second.approval.documentSHA256 }, ids = [first.candidate.id, second.candidate.id];
+    const approval = ownerRelease(documents, ids, Object.fromEntries([first, second].map(x => [x.candidate.id, x.approval.pathManifestSHA256])));
+    fs.chmodSync(education, 0o500); assert.throws(() => promotePaths(ids, approval, f.options), { code: "EACCES" });
+    const records = fs.readdirSync(path.join(f.root, "editorial/promotions")); assert.equal(records.length, 1);
+    assert.equal(read(path.join(f.root, "editorial/promotions", records[0])).status, "prepared");
+    assert.equal(read(path.join(education, "paths.json")).paths.length, 0);
+    const firstTarget = path.join(education, first.candidate.units[0].placements[0].path), saved = fs.readFileSync(firstTarget);
+    fs.writeFileSync(firstTarget, "Synthetic unrelated third-party bytes"); fs.chmodSync(education, 0o700);
+    assert.throws(() => promotePaths(ids, approval, f.options), /diverged from before\/after/);
+    assert.equal(fs.readFileSync(firstTarget, "utf8"), "Synthetic unrelated third-party bytes");
+    fs.writeFileSync(firstTarget, saved);
+    const result = promotePaths(ids, approval, f.options), record = read(result.history), published = read(path.join(education, "paths.json"));
+    assert.equal(record.kind, "paths"); assert.equal(record.itemIDs.length, 8); assert.equal(record.status, "promoted");
+    assert.equal(published.revision, 2); assert.equal(read(path.join(f.root, "editorial/queue.json")).revision, 2);
+    for (const p of published.paths) {
+      assert.equal(p.humanPlaythrough, "not-claimed"); assert.equal(p.approval.basis, "owner-release");
+      assert.ok(require("../scripts/coordinated-publication").registeredPathPromotion(f.root, p));
+    }
+    const queue = read(path.join(f.root, "editorial/queue.json"));
+    for (const item of queue.items) {
+      assert.equal(item.reviewEvidence.playthrough, undefined);
+      assert.ok(require("../scripts/coordinated-publication").registeredPathOwnerRelease(f.root, item));
+      const changed = structuredClone(item); changed.reviewEvidence.ownerRelease.approvalSHA256 = "0".repeat(64);
+      assert.equal(require("../scripts/coordinated-publication").registeredPathOwnerRelease(f.root, changed), false);
+    }
+    const before = fs.readFileSync(path.join(education, "paths.json"));
+    assert.equal(promotePaths(ids.slice().reverse(), approval, f.options).idempotent, true);
+    assert.deepEqual(fs.readFileSync(path.join(education, "paths.json")), before);
+    assert.equal(fs.readdirSync(path.join(f.root, "editorial/promotions")).length, 1);
+  } finally { fs.chmodSync(education, 0o700); f.cleanup(); }
 });
 test("pending manifest binds setup, prerequisites and roles, independently of promotion flags", () => {
   const candidate = { id: "fixture", setup: { maximumFret: 12 }, units: [{ prerequisites: [], placements: [{ role: "core" }] }], publicationStatus: "review-pending", humanPlaythrough: "pending" };

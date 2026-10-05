@@ -39,18 +39,12 @@ function parser(args, ctx) {
   if (run.status !== 0) throw new Error((run.stdout || "") + (run.stderr || ""));
   return { kind: "swift-parser", status: "approved", reviewer: "Current source-pinned Swift lessonlint", reviewedAt: new Date().toISOString(), currentCommit: configuration.current.commit, binarySHA256: configuration.current.binarySHA256, sourceSHA256: configuration.current.sourceSHA256, outputSHA256: sha(run.stdout || "") };
 }
-function approvalFor(record, key, bytes) {
-  if (record.kind !== "human" || !record.approvedBy || !record.approvedAt || record.playthrough !== "completed")
-    throw new Error("Promotion requires an explicit human playthrough record; agents cannot manufacture it.");
+function approvalFor(record, key, bytes, options = {}) {
+  require("./path-release-approval").assertReviewApproval(record, options);
   if (record.documentSHA256?.[key] !== sha(bytes)) throw new Error("Human approval does not match the exact reviewed bytes: " + key);
-  if (record.independentReview?.status !== "approved" || !record.independentReview.reviewer || !record.independentReview.reviewedAt || record.independentReview.reviewer === record.approvedBy)
-    throw new Error("Independent content review is also required.");
-  if (record.languages?.status !== "approved" || !record.languages.reviewer || !record.languages.reviewedAt) throw new Error("Six-language review is still pending.");
 }
 function pendingManifest(selected) {
-  const pending = structuredClone(selected); delete pending.approval;
-  pending.publicationStatus = "review-pending"; pending.humanPlaythrough = "pending";
-  return pending;
+  return require("./path-release-approval").candidateManifest(selected);
 }
 function evidence(item, approval, digest, parserProof) {
   if (approval.independentReview.reviewer === item.owner) throw new Error("Independent reviewer cannot be the authored item's owner.");
@@ -58,7 +52,10 @@ function evidence(item, approval, digest, parserProof) {
     parser: { ...parserProof, contentSHA256: digest },
     languages: { ...approval.languages, contentSHA256: digest },
     independent: { ...approval.independentReview, contentSHA256: digest },
-    playthrough: { status: "approved", kind: "human", reviewer: approval.approvedBy, reviewedAt: approval.approvedAt, contentSHA256: digest },
+    ...(approval.basis === "owner-release" ? {
+      ownerRelease: { status: "approved", kind: "human", reviewer: approval.approvedBy, reviewedAt: approval.approvedAt,
+        contentSHA256: digest, approvalSHA256: canonicalSHA(approval), releaseApproval: approval.releaseApproval },
+    } : { playthrough: { status: "approved", kind: "human", reviewer: approval.approvedBy, reviewedAt: approval.approvedAt, contentSHA256: digest } }),
   };
 }
 function stageFile(ctx, key, relative) { return path.join(ctx.stateRoot, "promotions", key, sha(relative) + ".blob"); }
@@ -93,6 +90,7 @@ function transaction(ctx, plan, approval, parserProof) {
       aggregateFiles: plan.aggregateFiles,
       publishedContentSHA256: Object.fromEntries(Object.entries(afterFiles).filter(([file]) => file.startsWith("v2/") && !plan.aggregateFiles.includes(file))),
       beforeFiles, afterFiles, sources: plan.sources, approval, approvalSHA256, parserProof, updates,
+      ...(plan.pathIDs ? { pathIDs: plan.pathIDs, pathSHA256: plan.pathSHA256 } : {}),
     };
     atomicJSON(recordFile, record); // Durable plan precedes every destination/catalog/queue write.
   }
@@ -107,9 +105,12 @@ function transaction(ctx, plan, approval, parserProof) {
       const item = queue.items.find(item => item.id === itemID);
       if (!item || canonicalSHA(item.target) !== canonicalSHA(record.targets[itemID])) throw new Error("Promoted queue target needs explicit reconciliation: " + itemID);
     }
-    if (record.kind === "path") {
-      const entry = read(safeFile(ctx.root, "v2/education/paths.json")).paths.find(entry => entry.id === record.id);
-      if (!entry || canonicalSHA(entry) !== record.primarySHA256) throw new Error("Promoted spine changed or superseded.");
+    if (["path", "paths"].includes(record.kind)) {
+      const published = read(safeFile(ctx.root, "v2/education/paths.json"));
+      for (const id of record.pathIDs || [record.id]) {
+        const entry = published.paths.find(entry => entry.id === id);
+        if (!entry || canonicalSHA(entry) !== (record.pathSHA256?.[id] || record.primarySHA256)) throw new Error("Promoted spine changed or superseded: " + id);
+      }
     } else {
       const bytes = fs.readFileSync(safeFile(ctx.root, record.targets[record.itemIDs[0]].path)), meta = fields(bytes);
       const catalog = read(safeFile(ctx.root, `v2/education/courses/${meta.course}/catalog.json`));
@@ -223,73 +224,111 @@ function promoteLegacy(id, approval, options = {}) {
   });
 }
 function promotePath(id, approval, options = {}) {
+  return promotePaths([id], approval, options);
+}
+function promotePaths(ids, approval, options = {}) {
   const ctx = context(options);
   return withLock(ctx.stateRoot, () => {
     assertPublisher(ctx.root);
-    const candidates = read(safeFile(ctx.root, "editorial/candidates/paths.json")), selected = candidates.paths.find(candidate => candidate.id === id);
-    if (!selected) throw new Error("Unknown path candidate.");
-    for (const placement of selected.units.flatMap(unit => unit.placements)) {
-      const relative = (placement.source === "guided" ? "editorial/candidates/" : "v2/education/") + placement.path;
-      assertPathDocumentCompatible(fs.readFileSync(safeFile(ctx.root, relative), "utf8"));
-    }
-    const manifestSHA = canonicalSHA(pendingManifest(selected));
-    if (approval.pathManifestSHA256 !== manifestSHA) throw new Error("Human path approval must bind the exact pending spine/setup/roles/prerequisites.");
-    const promoted = structuredClone(selected); promoted.publicationStatus = "approved"; promoted.humanPlaythrough = "approved";
-    promoted.approval = { approvedBy: approval.approvedBy, approvedAt: approval.approvedAt, documentSHA256: approval.documentSHA256, assetSHA256: approval.assetSHA256 || {}, pathManifestSHA256: manifestSHA };
-    const primarySHA256 = canonicalSHA(promoted), prior = priorTransaction(ctx, "path", id, approval, primarySHA256);
+    if (!Array.isArray(ids) || !ids.length || ids.some(id => typeof id !== "string" || !id) || new Set(ids).size !== ids.length)
+      throw new Error("Path promotion needs distinct existing path IDs.");
+    ids = ids.slice().sort();
+    const grouped = ids.length > 1, kind = grouped ? "paths" : "path";
+    const id = grouped ? "guided-paths-" + canonicalSHA(ids).slice(0, 12) : ids[0];
+    const candidates = read(safeFile(ctx.root, "editorial/candidates/paths.json"));
+    const selected = ids.map(id => candidates.paths.find(candidate => candidate.id === id));
+    if (selected.some(candidate => !candidate)) throw new Error("Unknown path candidate.");
+    require("./path-release-approval").assertReviewApproval(approval, { allowOwnerRelease: true, pathIDs: ids });
+    if (approval.basis === "owner-release" && canonicalSHA(approval.releaseApproval.pathIDs.slice().sort()) !== canonicalSHA(ids))
+      throw new Error("Owner release scope must match exactly the promoted paths.");
+    const promotedPaths = selected.map(candidate => {
+      const manifestSHA = canonicalSHA(pendingManifest(candidate));
+      if ((grouped ? approval.pathManifestsSHA256?.[candidate.id] : approval.pathManifestSHA256) !== manifestSHA)
+        throw new Error("Human path approval must bind the exact pending spine/setup/roles/prerequisites: " + candidate.id);
+      const promoted = structuredClone(candidate);
+      promoted.publicationStatus = "approved"; promoted.humanPlaythrough = approval.basis === "owner-release" ? "not-claimed" : "approved";
+      const documents = {};
+      for (const placement of candidate.units.flatMap(unit => unit.placements)) {
+        const relative = (placement.source === "guided" ? "editorial/candidates/" : "v2/education/") + placement.path;
+        const bytes = fs.readFileSync(safeFile(ctx.root, relative));
+        assertPathDocumentCompatible(bytes.toString("utf8"));
+        approvalFor(approval, placement.contentKey, bytes, { allowOwnerRelease: true, pathIDs: ids });
+        documents[placement.contentKey] = sha(bytes);
+      }
+      promoted.approval = { approvedBy: approval.approvedBy, approvedAt: approval.approvedAt,
+        documentSHA256: documents, assetSHA256: approval.assetSHA256 || {}, pathManifestSHA256: manifestSHA,
+        ...(approval.basis ? { basis: approval.basis } : {}),
+        ...(approval.basis === "owner-release" ? { releaseApproval: approval.releaseApproval } : {}) };
+      return promoted;
+    });
+    const expectedDocuments = Object.assign({}, ...promotedPaths.map(p => p.approval.documentSHA256));
+    if (approval.basis === "owner-release" && canonicalSHA(expectedDocuments) !== canonicalSHA(approval.documentSHA256))
+      throw new Error("Owner release documents must match exactly the promoted placements.");
+    const pathSHA256 = Object.fromEntries(promotedPaths.map(p => [p.id, canonicalSHA(p)]));
+    const primarySHA256 = grouped ? canonicalSHA(pathSHA256) : pathSHA256[id];
+    const prior = priorTransaction(ctx, kind, id, approval, primarySHA256);
+    // A completed transaction is verified without staging parser work again.
+    if (prior?.status === "promoted") return transaction(ctx, resumePlan(prior), approval, prior.parserProof);
     const files = new Map(), sources = [], queuePath = "editorial/queue.json", queue = read(safeFile(ctx.root, queuePath));
     const targets = {}, itemIDs = [], indexPath = "v2/education/paths.json";
     const parserRoot = path.join(ctx.stateRoot, "promotions", "path-validation-" + primarySHA256);
     assertWritesAllowed(); fs.mkdirSync(parserRoot, { recursive: true });
-    for (const placement of promoted.units.flatMap(unit => unit.placements)) {
-      const isGuided = placement.source === "guided";
-      const relative = (isGuided ? "editorial/candidates/" : "v2/education/") + placement.path, file = safeFile(ctx.root, relative), bytes = fs.readFileSync(file);
-      if (!isGuided && fields(bytes).contentStatus === "quarantined") throw new Error("A path cannot treat a quarantined notice as an approved skill.");
-      approvalFor(approval, placement.contentKey, bytes);
-      const item = isGuided ? queue.items.find(item => item.source === relative) : null;
-      if (isGuided && !item) throw new Error("Every path content key needs its existing queue identity.");
-      const target = "v2/education/" + placement.path, assets = approvedAssets(bytes.toString("utf8"), path.dirname(file), placement.contentKey, approval);
-      const staged = path.join(parserRoot, placement.path);
-      writeBytes(staged, bytes); files.set(target, bytes); sources.push({ itemID: item?.id || null, path: relative, sha256: sha(bytes) });
-      const targetFiles = [target, indexPath];
-      for (const asset of assets) {
-        const assetTarget = path.posix.dirname(target) + "/" + asset.relativePath;
-        if (fs.existsSync(safeFile(ctx.root, assetTarget)) && currentSHA(safeFile(ctx.root, assetTarget)) !== asset.sha256) throw new Error("Different released visual requires a new reviewed reference.");
-        const assetBytes = fs.readFileSync(asset.source); files.set(assetTarget, assetBytes); writeBytes(path.join(path.dirname(staged), asset.relativePath), assetBytes);
-        sources.push({ itemID: item?.id || null, path: path.relative(ctx.root, asset.source), sha256: asset.sha256 }); targetFiles.push(assetTarget);
+    for (const promoted of promotedPaths) {
+      for (const placement of promoted.units.flatMap(unit => unit.placements)) {
+        const isGuided = placement.source === "guided";
+        const relative = (isGuided ? "editorial/candidates/" : "v2/education/") + placement.path, file = safeFile(ctx.root, relative), bytes = fs.readFileSync(file);
+        if (!isGuided && fields(bytes).contentStatus === "quarantined") throw new Error("A path cannot treat a quarantined notice as an approved skill.");
+        approvalFor(approval, placement.contentKey, bytes, { allowOwnerRelease: true, pathIDs: ids });
+        const item = isGuided ? queue.items.find(item => item.source === relative) : null;
+        if (isGuided && !item) throw new Error("Every path content key needs its existing queue identity.");
+        const target = "v2/education/" + placement.path, assets = approvedAssets(bytes.toString("utf8"), path.dirname(file), placement.contentKey, approval);
+        const staged = path.join(parserRoot, placement.path);
+        if (files.has(target) && sha(files.get(target)) !== sha(bytes)) throw new Error("Conflicting grouped path content: " + target);
+        writeBytes(staged, bytes); files.set(target, bytes); sources.push({ itemID: item?.id || null, path: relative, sha256: sha(bytes) });
+        const targetFiles = [target, indexPath];
+        for (const asset of assets) {
+          const assetTarget = path.posix.dirname(target) + "/" + asset.relativePath;
+          if (fs.existsSync(safeFile(ctx.root, assetTarget)) && currentSHA(safeFile(ctx.root, assetTarget)) !== asset.sha256) throw new Error("Different released visual requires a new reviewed reference.");
+          const assetBytes = fs.readFileSync(asset.source); files.set(assetTarget, assetBytes); writeBytes(path.join(path.dirname(staged), asset.relativePath), assetBytes);
+          sources.push({ itemID: item?.id || null, path: path.relative(ctx.root, asset.source), sha256: asset.sha256 }); targetFiles.push(assetTarget);
+        }
+        if (!item) continue;
+        if (!itemIDs.includes(item.id)) itemIDs.push(item.id);
+        targets[item.id] = { kind: "file", path: target, sha256: sha(bytes), files: targetFiles };
       }
-      if (!item) continue;
-      if (!itemIDs.includes(item.id)) itemIDs.push(item.id);
-      targets[item.id] = { kind: "file", path: target, sha256: sha(bytes), files: targetFiles };
     }
     if (!itemIDs.length) throw new Error("An all-legacy spine needs an explicit planned spine queue identity; no item is invented by promotion.");
-    const candidateIndex = { ...candidates, paths: [promoted] }, validationIndex = path.join(parserRoot, "paths.json");
+    const candidateIndex = { ...candidates, paths: promotedPaths }, validationIndex = path.join(parserRoot, "paths.json");
     atomicJSON(validationIndex, candidateIndex);
     const parserProof = parser(["--paths", validationIndex, "--root", parserRoot], ctx);
     for (const source of sources) if (currentSHA(safeFile(ctx.root, source.path)) !== source.sha256) throw new Error("Path source changed during parser validation.");
     if (prior) return transaction(ctx, resumePlan(prior), approval, parserProof);
-    const published = read(safeFile(ctx.root, indexPath)), existing = published.paths.find(candidate => candidate.id === id);
-    if (existing) throw new Error("Existing enrollment spine requires its recorded transaction or explicit versioned promotion.");
+    const published = read(safeFile(ctx.root, indexPath));
+    if (published.paths.some(candidate => ids.includes(candidate.id))) throw new Error("Existing enrollment spine requires its recorded transaction or explicit versioned promotion.");
     for (const [file, bytes] of files) if (fs.existsSync(safeFile(ctx.root, file)) && currentSHA(safeFile(ctx.root, file)) !== sha(bytes)) throw new Error("Refusing to overwrite different released content: " + file);
     for (const itemID of itemIDs) {
       const item = queue.items.find(item => item.id === itemID), target = targets[itemID];
       item.contentSHA256 = target.sha256; item.reviewEvidence = evidence(item, approval, target.sha256, parserProof);
-      item.status = "open"; item.stage = "human-approved-prepared"; item.target = target; item.targetDigest = canonicalSHA(target);
+      item.status = "open"; item.stage = approval.basis === "owner-release" ? "owner-release-approved-prepared" : "human-approved-prepared"; item.target = target; item.targetDigest = canonicalSHA(target);
+      if (approval.basis === "owner-release") item.publicationPolicy = "explicit-owner-release-guided-pilot";
     }
-    queue.revision += 1; published.paths.push(promoted); published.revision += 1;
+    queue.revision += 1; published.paths.push(...promotedPaths); published.revision += 1;
     files.set(indexPath, jsonBytes(published)); files.set(queuePath, jsonBytes(queue));
-    return transaction(ctx, { kind: "path", id, primarySHA256, itemIDs, targets, aggregateFiles: [indexPath], sources, files }, approval, parserProof);
+    return transaction(ctx, { kind, id, pathIDs: ids, pathSHA256, primarySHA256, itemIDs, targets, aggregateFiles: [indexPath], sources, files }, approval, parserProof);
   });
 }
 if (require.main === module) try {
   assertWritesAllowed(); assertPublisher(defaultRoot);
   const kind = arg("--kind"), id = arg("--id");
-  if (!id) throw new Error("Usage: --kind prepare-legacy|legacy|path --id <stable ID> [--approval <completed-human-record.json>]");
+  if (!id && kind !== "paths") throw new Error("Usage: --kind prepare-legacy|legacy|path --id <stable ID>, or --kind paths --ids <comma-separated IDs> [--approval <completed-human-record.json>]");
   const options = { runtimeConfig: arg("--runtime-config") || process.env.EDITORIAL_RUNTIME_CONFIG };
   const result = kind === "riff" || kind === "gap" ? require("./promote-queue-item").promoteQueueItem(defaultRoot, defaultStateRoot(defaultRoot), id)
     : kind === "prepare-legacy" ? prepareLegacy(id, options)
       : kind === "legacy" ? promoteLegacy(id, read(arg("--approval")), options)
-        : kind === "path" ? promotePath(id, read(arg("--approval")), options) : (() => { throw new Error("Unknown promotion kind."); })();
+        : kind === "path" ? promotePath(id, read(arg("--approval")), options)
+          : kind === "paths" ? promotePaths((arg("--ids") || "").split(",").filter(Boolean), read(arg("--approval")), options)
+            : kind === "guided-gap" ? require("./promote-guided-gap").promoteGuidedGap(defaultRoot, defaultStateRoot(defaultRoot), id, options)
+              : (() => { throw new Error("Unknown promotion kind."); })();
   console.log(JSON.stringify(result, null, 2));
 } catch (error) { console.error(error.message); process.exitCode = 1; }
-module.exports = { approvalFor, pendingManifest, prepareLegacy, promotePath, promoteLegacy, canonicalSHA };
+module.exports = { approvalFor, pendingManifest, prepareLegacy, promotePath, promotePaths, promoteLegacy, canonicalSHA };

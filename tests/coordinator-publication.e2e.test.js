@@ -13,6 +13,14 @@ const { assertWritesAllowed } = require("../scripts/maintenance-guard");
 const sourceRoot = path.join(__dirname, "..");
 const runtimeConfig = process.env.EDITORIAL_TEST_RUNTIME_CONFIG || path.join(os.homedir(), "Library/Application Support/InstrumentScalesEditorial/parsers/active-runtimes.json");
 const runtimeAvailable = fs.existsSync(runtimeConfig);
+// Heavy whole-corpus fixture runs can compete with simulator compilers on this Mac.
+// Keep historical defaults; a targeted rerun may explicitly raise only test-harness
+// subprocess deadlines, bounded at 600s. Production CLI guards remain unchanged.
+const timeoutOverride = process.env.INSTRUMENT_SCALES_E2E_TIMEOUT_MS;
+if (timeoutOverride !== undefined && (!/^\d+$/.test(timeoutOverride) ||
+    Number(timeoutOverride) < 1 || Number(timeoutOverride) > 600000))
+  throw new Error("INSTRUMENT_SCALES_E2E_TIMEOUT_MS must be an integer from 1 through 600000.");
+const testTimeout = normal => timeoutOverride === undefined ? normal : Number(timeoutOverride);
 const locales = ["en", "pt-BR", "es", "de", "ja", "zh-Hans"];
 const read = file => JSON.parse(fs.readFileSync(file, "utf8"));
 function json(file, value) {
@@ -22,7 +30,7 @@ function json(file, value) {
 }
 function git(root, ...args) {
   assertWritesAllowed();
-  return execFileSync("git", args, { cwd: root, encoding: "utf8", stdio: "pipe", timeout: 30000 }).trim();
+  return execFileSync("git", args, { cwd: root, encoding: "utf8", stdio: "pipe", timeout: testTimeout(30000) }).trim();
 }
 function syntheticApproval(documents, manifest) {
   return {
@@ -65,7 +73,7 @@ function fixture() {
     EDITORIAL_REPOSITORY_ROOT: repo, EDITORIAL_STATE_ROOT: state,
   };
   const command = (env, args) => execFileSync(process.execPath, [path.join(repo, "scripts/editorial-pipeline.js"), ...args], {
-    cwd: repo, env, encoding: "utf8", stdio: "pipe", timeout: 90000, maxBuffer: 16 * 1024 * 1024,
+    cwd: repo, env, encoding: "utf8", stdio: "pipe", timeout: testTimeout(90000), maxBuffer: 16 * 1024 * 1024,
   });
   const cli = (...args) => JSON.parse(command(environment, args));
   const checkpoint = (key, next, evidence = {}) => {
@@ -76,7 +84,9 @@ function fixture() {
     directory, repo, remote, state, coordinator, environment, command, cli, checkpoint,
     run(script, args = []) {
       return execFileSync(process.execPath, [path.join(repo, script), ...args], {
-        cwd: repo, env: environment, encoding: "utf8", stdio: "pipe", timeout: 90000, maxBuffer: 16 * 1024 * 1024,
+        // The complete source-pinned audit invokes both Swift parsers on the
+        // entire released corpus; retain a bound without truncating real work.
+        cwd: repo, env: environment, encoding: "utf8", stdio: "pipe", timeout: testTimeout(300000), maxBuffer: 16 * 1024 * 1024,
       });
     },
     cleanup() { assertWritesAllowed(); fs.rmSync(directory, { recursive: true }); },
@@ -244,7 +254,7 @@ async function publish(f, promoted, { resumeAfterCommit = false } = {}) {
   // Default CLI commit comes from GITHUB_SHA. Rebuild explicitly bound to the
   // prepared actual commit, without touching HOME or the maintenance guard.
   execFileSync(process.execPath, [path.join(f.repo, "scripts/build-pages.js")], {
-    cwd: f.repo, env: { ...f.environment, GITHUB_SHA: commit }, encoding: "utf8", stdio: "pipe", timeout: 90000,
+    cwd: f.repo, env: { ...f.environment, GITHUB_SHA: commit }, encoding: "utf8", stdio: "pipe", timeout: testTimeout(90000),
   });
   rejectedIdentities(f, ["finalize-snapshot", batch.key], batchFile);
   const finalized = f.cli("finalize-snapshot", batch.key);
@@ -340,5 +350,34 @@ test("approved path coordinated cycle publishes all core/transfer/extra placemen
     }
     assert.equal(result.batch.itemIDs.length, placements.length);
     assert.equal(read(path.join(f.repo, "editorial/queue.json")).dailyLimit, 3, "The coordinated exception never raises the scheduled daily limit");
+  } finally { f.cleanup(); }
+});
+test("grouped owner release uses one reviewed commit/deployment cycle without inventing human playthrough", { skip: !runtimeAvailable }, async () => {
+  const f = fixture();
+  try {
+    const candidates = [syntheticPath(f), syntheticPath(f)];
+    sealSyntheticBaseline(f);
+    const documents = Object.fromEntries(candidates.flatMap(p => p.units.flatMap(u => u.placements)).map(l =>
+      [l.contentKey, sha(fs.readFileSync(path.join(f.repo, "editorial/candidates", l.path)))]));
+    const approval = syntheticApproval(documents);
+    approval.basis = "owner-release"; approval.playthrough = "not-claimed";
+    approval.pathManifestsSHA256 = Object.fromEntries(candidates.map(p => [p.id, canonicalSHA(pendingManifest(p))]));
+    approval.releaseApproval = { status: "approved", kind: "human", scope: "guided-pilot-release", pathIDs: candidates.map(p => p.id),
+      approvalReference: "synthetic-fixture-only", approvalStatement: "Synthetic owner release fixture; never real human approval or playthrough." };
+    for (const review of [approval.independentReview, approval.languages]) {
+      review.documentSHA256 = documents; review.reviewReference = "synthetic-fixture-review-only";
+    }
+    const approvalFile = path.join(f.directory, "approval.json"); json(approvalFile, approval);
+    const promoted = JSON.parse(f.run("scripts/promote-approved.js", ["--kind", "paths", "--ids", candidates.map(p => p.id).join(","),
+      "--approval", approvalFile, "--runtime-config", runtimeConfig]));
+    const result = await publish(f, promoted, { resumeAfterCommit: true });
+    assert.equal(result.record.kind, "paths"); assert.equal(result.batch.itemIDs.length, 12);
+    assert.equal(result.record.approval.playthrough, "not-claimed");
+    assert.equal(fs.readdirSync(path.join(f.state, "batches")).filter(f => f.endsWith(".json")).length, 1);
+    for (const p of read(path.join(f.repo, "v2/education/paths.json")).paths.filter(p => candidates.some(c => c.id === p.id))) {
+      assert.equal(p.publicationStatus, "approved"); assert.equal(p.humanPlaythrough, "not-claimed");
+      assert.equal(p.approval.basis, "owner-release");
+    }
+    assert.equal(read(path.join(f.repo, "editorial/queue.json")).dailyLimit, 3);
   } finally { f.cleanup(); }
 });

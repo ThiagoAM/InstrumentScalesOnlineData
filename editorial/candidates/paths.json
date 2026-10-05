@@ -21,12 +21,12 @@
         "zh-Hans": "吉他"
       },
       "summaries": {
-        "en": "A finite foundation pilot, pending physical playthrough.",
-        "pt-BR": "Piloto finito de fundação, pendente de execução instrumental.",
-        "es": "Piloto finito de fundamentos, pendiente de ejecución instrumental.",
-        "de": "Begrenzter Grundlagenpilot, praktisches Durchspielen steht aus.",
-        "ja": "実演確認待ちの有限の基礎パイロットです。",
-        "zh-Hans": "有限基础试点，等待真实演奏检查。"
+        "en": "Foundations: find notes, count rests and shape short phrases across two strings.",
+        "pt-BR": "Fundamentos: localize notas, conte pausas e construa frases curtas em duas cordas.",
+        "es": "Fundamentos: localiza notas, cuenta silencios y crea frases cortas en dos cuerdas.",
+        "de": "Grundlagen: Töne finden, Pausen zählen und kurze Phrasen auf zwei Saiten gestalten.",
+        "ja": "基礎：音を見つけ、休符を数え、2本の弦で短いフレーズを作ります。",
+        "zh-Hans": "基础：找音、数休止，并在两根弦上组织短乐句。"
       },
       "requiredCapabilities": [
         "guided-steps",
@@ -486,12 +486,12 @@
         "zh-Hans": "贝斯"
       },
       "summaries": {
-        "en": "A finite foundation pilot, pending physical playthrough.",
-        "pt-BR": "Piloto finito de fundação, pendente de execução instrumental.",
-        "es": "Piloto finito de fundamentos, pendiente de ejecución instrumental.",
-        "de": "Begrenzter Grundlagenpilot, praktisches Durchspielen steht aus.",
-        "ja": "実演確認待ちの有限の基礎パイロットです。",
-        "zh-Hans": "有限基础试点，等待真实演奏检查。"
+        "en": "Foundations: roots, fifths, note length and chord arrivals that support a four-bar accompaniment.",
+        "pt-BR": "Fundamentos: tônicas, quintas, duração das notas e chegadas que sustentam quatro compassos de acompanhamento.",
+        "es": "Fundamentos: fundamentales, quintas, duración de las notas y llegadas que sostienen cuatro compases de acompañamiento.",
+        "de": "Grundlagen: Grundtöne, Quinten, Tondauer und Ankünfte, die vier Begleittakte tragen.",
+        "ja": "基礎：ルート、5度、音の長さ、和音の変わり目への着地で4小節の伴奏を支えます。",
+        "zh-Hans": "基础：用根音、五音、时值与和弦到达支撑四小节伴奏。"
       },
       "requiredCapabilities": [
         "guided-steps",
@@ -740,12 +740,12 @@
         "zh-Hans": "钢琴"
       },
       "summaries": {
-        "en": "A finite foundation pilot, pending physical playthrough.",
-        "pt-BR": "Piloto finito de fundação, pendente de execução instrumental.",
-        "es": "Piloto finito de fundamentos, pendiente de ejecución instrumental.",
-        "de": "Begrenzter Grundlagenpilot, praktisches Durchspielen steht aus.",
-        "ja": "実演確認待ちの有限の基礎パイロットです。",
-        "zh-Hans": "有限基础试点，等待真实演奏检查。"
+        "en": "Foundations: a five-finger melody, counted rests and simple left-hand roots.",
+        "pt-BR": "Fundamentos: melodia de cinco dedos, pausas contadas e fundamentais simples na mão esquerda.",
+        "es": "Fundamentos: melodía de cinco dedos, silencios contados y fundamentales sencillas en la mano izquierda.",
+        "de": "Grundlagen: Fünffinger-Melodie, gezählte Pausen und einfache Grundtöne in der linken Hand.",
+        "ja": "基礎：5本の指の旋律、休符の数え方、左手のシンプルなルートを学びます。",
+        "zh-Hans": "基础：五指旋律、数休止，以及左手的简单根音。"
       },
       "requiredCapabilities": [
         "guided-steps",
@@ -989,12 +989,12 @@
         "zh-Hans": "高G尤克里里"
       },
       "summaries": {
-        "en": "A finite foundation pilot, pending physical playthrough.",
-        "pt-BR": "Piloto finito de fundação, pendente de execução instrumental.",
-        "es": "Piloto finito de fundamentos, pendiente de ejecución instrumental.",
-        "de": "Begrenzter Grundlagenpilot, praktisches Durchspielen steht aus.",
-        "ja": "実演確認待ちの有限の基礎パイロットです。",
-        "zh-Hans": "有限基础试点，等待真实演奏检查。"
+        "en": "Foundations for high-G (re-entrant) tuning: string order, a C chord, strumming with rests and a short melody.",
+        "pt-BR": "Fundamentos para afinação com sol agudo (reentrante): ordem das cordas, acorde C, batida com pausas e uma melodia curta.",
+        "es": "Fundamentos para afinación con sol agudo (reentrante): orden de las cuerdas, acorde C, rasgueo con silencios y una melodía corta.",
+        "de": "Grundlagen für die Stimmung mit hohem G (re-entrant): Saitenfolge, C-Akkord, Anschlag mit Pausen und eine kurze Melodie.",
+        "ja": "高いG（リエントラント）調弦の基礎：弦の順番、Cコード、休符を入れたストローク、短い旋律を学びます。",
+        "zh-Hans": "高G（回入式）调弦基础：弦序、C和弦、带休止的扫弦和一段短旋律。"
       },
       "requiredCapabilities": [
         "guided-steps",
@@ -1243,12 +1243,12 @@
         "zh-Hans": "曼陀林"
       },
       "summaries": {
-        "en": "A finite foundation pilot, pending physical playthrough.",
-        "pt-BR": "Piloto finito de fundação, pendente de execução instrumental.",
-        "es": "Piloto finito de fundamentos, pendiente de ejecución instrumental.",
-        "de": "Begrenzter Grundlagenpilot, praktisches Durchspielen steht aus.",
-        "ja": "実演確認待ちの有限の基礎パイロットです。",
-        "zh-Hans": "有限基础试点，等待真实演奏检查。"
+        "en": "Foundations: paired courses tuned in fifths, alternate picking and a short phrase with an open D voicing.",
+        "pt-BR": "Fundamentos: pares de cordas afinados em quintas, palhetada alternada e uma frase curta com uma disposição aberta de D.",
+        "es": "Fundamentos: órdenes dobles afinados en quintas, púa alternada y una frase corta con una disposición abierta de D.",
+        "de": "Grundlagen: Doppelchöre in Quinten, Wechselschlag und eine kurze Phrase mit offener D-Lage.",
+        "ja": "基礎：5度に調弦した複弦、ダウンとアップの交互ピッキング、開放Dの配置を使った短いフレーズを学びます。",
+        "zh-Hans": "基础：五度定弦的双弦组、交替拨弦，以及带开放D排列的短乐句。"
       },
       "requiredCapabilities": [
         "guided-steps",
@@ -1381,7 +1381,7 @@
                 "en": "Play D4–F#4 on the D course and A4–B4 on the A course, then return.",
                 "pt-BR": "Toque D4–F#4 no curso ré e A4–B4 no curso lá, depois volte.",
                 "es": "Toca D4–F#4 en el orden re y A4–B4 en el orden la, luego vuelve.",
-                "de": "Spiele D4–F#4 auf D und A4–B4 auf A, dann zurück.",
+                "de": "Spiele D4–F#4 auf D und A4–B4 auf A, dann zurück. Internationale Notennamen: B bedeutet H.",
                 "ja": "DコースでD4–F#4、AコースでA4–B4を弾いて戻ります。",
                 "zh-Hans": "D弦组弹D4–F#4，A弦组弹A4–B4，再返回。"
               },

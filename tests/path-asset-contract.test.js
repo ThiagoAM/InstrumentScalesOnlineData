@@ -71,6 +71,14 @@ test("even a supplied synthetic hash approval cannot prepare or promote an image
       approvedBy: "Synthetic fixture only",
       approvedAt: "2026-10-04T00:00:00Z",
       playthrough: "completed",
+      independentReview: {
+        status: "approved", reviewer: "Synthetic independent fixture reviewer",
+        reviewedAt: "2026-10-04T00:00:00Z",
+      },
+      languages: {
+        status: "approved", reviewer: "Synthetic language fixture reviewer",
+        reviewedAt: "2026-10-04T00:00:00Z", locales: ["en", "pt-BR", "es", "de", "ja", "zh-Hans"],
+      },
       assetSHA256: { "guided:synthetic-image:images/map.png": "0".repeat(64) },
       pathManifestSHA256: canonicalSHA(pendingManifest(selected)),
     };

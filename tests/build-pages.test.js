@@ -65,7 +65,20 @@ test("Pages publishes only V2 education and retains home/toggles", () => {
   );
   for (const p of published.paths) {
     assert.equal(p.publicationStatus, "approved");
-    assert.equal(p.humanPlaythrough, "approved");
+    if (p.approval.basis === "owner-release") {
+      assert.equal(p.humanPlaythrough, "not-claimed");
+      assert.equal(p.approval.releaseApproval.kind, "human");
+      assert.equal(p.approval.releaseApproval.status, "approved");
+      assert.equal(p.approval.releaseApproval.scope, "guided-pilot-release");
+      assert.ok(p.approval.releaseApproval.pathIDs.includes(p.id));
+    } else if (p.approval.basis === "guided-extra-delta") {
+      assert.equal(p.humanPlaythrough, p.approval.delta.basePath.humanPlaythrough);
+      assert.equal(require("../scripts/promote-guided-gap").registeredGuidedDelta(fixtureRoot, p), true);
+    } else {
+      assert.ok(!p.approval.basis || p.approval.basis === "human-playthrough");
+      assert.equal(p.humanPlaythrough, "approved");
+    }
+    assert.equal(require("../scripts/coordinated-publication").registeredPathPromotion(fixtureRoot, p), true);
     for (const l of p.units.flatMap((u) => u.placements))
       assert.equal(
         require("../scripts/audit-swift-parser").sha(

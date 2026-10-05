@@ -684,7 +684,7 @@ test("CDN smoke verifies committed bytes and retries a mixed deployment", async 
   assert.equal(result.verifiedFiles, 1);
   assert.equal(reads, 2);
 });
-test("all pilot candidates are authored, finite, six-locale and kept out of publication", () => {
+test("all pilot candidates remain finite, six-locale and retain their review provenance", () => {
   const result = validateEditorial(root, { requireReceipt: false });
   assert.equal(result.valid, true, result.errors.join("\n"));
   const published = JSON.parse(
@@ -692,7 +692,8 @@ test("all pilot candidates are authored, finite, six-locale and kept out of publ
   );
   for (const p of published.paths) {
     assert.equal(p.publicationStatus, "approved");
-    assert.equal(p.humanPlaythrough, "approved");
+    assert.ok(p.humanPlaythrough === "approved" ||
+      (p.humanPlaythrough === "not-claimed" && p.approval.basis === "owner-release"));
     assert.ok(p.approval);
   }
   const candidates = JSON.parse(
