@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-05T01:46:58.280Z",
+  "generatedAt": "2026-10-06T00:06:16.848Z",
   "locales": [
     "en",
     "pt-BR",
@@ -16,7 +16,7 @@
   "valid": true,
   "counts": {
     "legacy": 838,
-    "guided": 72,
+    "guided": 73,
     "legacyProposals": 75,
     "riffs": 35,
     "failed": 0
@@ -876,6 +876,7 @@
     "v2/education/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
     "v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md": "5b3d3d4e5271f8f24545e1a4961c35da325c4ab8d99ba4c05700bd36d5f3949e",
     "v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
     "v2/education/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md": "fe697f9cb5aef069203adf30182285197a2d3398837ee27cf799fa4115b343a4",
     "v2/education/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md": "1f8947aa1bc454d1081e2fb93b3dac3ed9dbb5aa885138ee4c33eef275256a91",
     "v2/education/guided/guitar/two-places/guitar-change-the-touch/lesson.md": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e",
@@ -902,7 +903,7 @@
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
-    "v2/education/paths.json": "06713d3fbdc5664acd1284f114df27e04fb31c074e762cac58a9ab4c96d2df35",
+    "v2/education/paths.json": "51bafe5dc7af25ef04def7c5a3dbd459f3f2da7fc88bf60290cc4bccff2d29d0",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
   "candidateFiles": {
@@ -916,6 +917,7 @@
     "editorial/candidates/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
     "editorial/candidates/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md": "5b3d3d4e5271f8f24545e1a4961c35da325c4ab8d99ba4c05700bd36d5f3949e",
     "editorial/candidates/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
+    "editorial/candidates/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
     "editorial/candidates/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md": "fe697f9cb5aef069203adf30182285197a2d3398837ee27cf799fa4115b343a4",
     "editorial/candidates/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md": "1f8947aa1bc454d1081e2fb93b3dac3ed9dbb5aa885138ee4c33eef275256a91",
     "editorial/candidates/guided/guitar/two-places/guitar-change-the-touch/lesson.md": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e",
@@ -1095,6 +1097,12 @@
           "code": "valid",
           "message": "ok",
           "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
           "severity": "ok"
         },
         {
@@ -18244,6 +18252,15 @@
       "parser": "current"
     },
     {
+      "id": "guitar-rest-release-diagnosis",
+      "source": "guided",
+      "file": "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
       "id": "guitar-same-pitch-two-strings",
       "source": "guided",
       "file": "v2/education/guided/guitar/two-places/guitar-same-pitch-two-strings/lesson.md",
@@ -19453,6 +19470,15 @@
       "id": "piano-ninth-window-switch",
       "source": "legacy-proposal",
       "file": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "guitar-rest-release-diagnosis",
+      "source": "additional-candidate",
+      "file": "editorial/candidates/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
       "valid": true,
       "exitCode": 0,
       "diagnostics": [],

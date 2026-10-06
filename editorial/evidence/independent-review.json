@@ -1,54 +1,38 @@
 {
   "status": "approved",
-  "reviewer": "Claude Opus 5.5 Max, actual independent AI review; exact source binding by authorized coordinator",
-  "reviewedAt": "2026-10-05T04:24:40.946921+00:00",
-  "reviewedAtMeaning": "Actual local CLI completion recorded by the execution wrapper, not a model-provided timestamp.",
-  "reviewReference": "editorial/evidence/reviews/2026-10-05-opus-guided-release-final.md",
-  "reviewReferences": [
-    {
-      "repositoryPath": "editorial/evidence/reviews/2026-10-05-opus-guided-release-final.md",
-      "sha256": "4a91ca1edc7a718ecc4232e0a302207666b611dba93fad343343fd15581f2665",
-      "sourceURL": "https://github.com/ThiagoAM/InstrumentScales3/blob/02bc49fdaa8cd227b60a50b523bb4e1d19fefeeb/Docs/Implementation/2026-10-04-activation/review/opus-final-closure.md"
-    },
-    {
-      "repositoryPath": "editorial/evidence/reviews/2026-10-05-opus-guided-content.md",
-      "sha256": "4c54f6e679f44e464fedb0e0e09cf120f573de6b69befc5a0ac5387b4cab3855",
-      "sourceURL": "https://github.com/ThiagoAM/InstrumentScales3/blob/02bc49fdaa8cd227b60a50b523bb4e1d19fefeeb/Docs/Implementation/2026-10-04-activation/review/opus-pilot-content.md"
-    },
-    {
-      "repositoryPath": "editorial/evidence/reviews/2026-10-05-opus-guided-content-rereview.md",
-      "sha256": "e3072e716e350b5a616e74d0128bb2ab6e108656e16f60401878cbaae2b9dc66",
-      "sourceURL": "https://github.com/ThiagoAM/InstrumentScales3/blob/02bc49fdaa8cd227b60a50b523bb4e1d19fefeeb/Docs/Implementation/2026-10-04-activation/review/opus-pilot-content-rereview.md"
-    }
-  ],
-  "scope": "DATA operational code and exact887-file production snapshot;36 guided documents in five owner-approved paths. APP source commit approval is separate from unexecuted app functional tests.",
+  "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-05",
+  "reviewedAt": "2026-10-06T00:07:47+00:00",
+  "reviewReference": "editorial/evidence/reviews/2026-10-05-guided-rest-release.md",
+  "scope": "Independent factual content/delta review of the complete production source inventory: 888 served source entries; one optional approved-pattern guided extra, no human playthrough claim. Operational tests are separately recorded by coordinator.",
   "delta": {
-    "baselineCommit": "e2dde4a252b919c561fc386d5c4d78ae18c46d49",
-    "baselineReviewURL": "https://github.com/ThiagoAM/InstrumentScalesOnlineData/blob/e2dde4a252b919c561fc386d5c4d78ae18c46d49/editorial/evidence/independent-review.json",
-    "baselineServedFiles": 851,
-    "unchangedServedFiles": 850,
+    "baselineCommit": "364696cffa9ff15708175bca360e07a59dbd776b",
+    "baselineReviewReference": "editorial/evidence/reviews/2026-10-05-opus-guided-release-final.md",
+    "priorV1V2FilesCompared": 886,
+    "unchangedPriorV1V2Files": 885,
     "changed": [
       "v2/education/paths.json"
     ],
-    "addedGuidedDocuments": 36,
-    "removed": 0,
-    "reviewedProductionSHA256": "6494a96c204cd25e1600e21571885a8e156da1d3f3b4b0d93ca5a3d3ae41144a"
+    "added": [
+      "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md"
+    ],
+    "removed": [],
+    "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+    "pathsSHA256": "51bafe5dc7af25ef04def7c5a3dbd459f3f2da7fc88bf60290cc4bccff2d29d0",
+    "swiftReceiptSHA256": "f4ba94ea06d1435a228710766fd8c61184b1df54b7b2bdace4fa862913f0a487",
+    "reviewedProductionSHA256": "006bac2f4d074048a308503dacbb1f6280187074602d898c43cbae5530c3fb97",
+    "reviewedContentSnapshotSHA256": "4958d82d01b121833b01af4fdf72bf3c081d47f2440ef1cec58005eab252bd74",
+    "previewSnapshotSHA256": "9acd9c72c09d12df7ff950cf9800caf667134df38209a0a66f5328658c665e0e"
   },
-  "physicalPlaythrough": "not-claimed",
-  "languageReview": "36 guided documents and5manifests independently reviewed by AI in six locales; no human native-speaker certification claimed; unchanged legacy content carries its prior review.",
-  "siteEnablement": false,
-  "publicGuidedPaths": 5,
-  "publicGuidedLessons": 36,
-  "sourceParserCommit": "f5dfc7ce0667664514cc5e2bc59f3a043057f318",
-  "sourceBindingURL": "https://github.com/ThiagoAM/InstrumentScales3/blob/02bc49fdaa8cd227b60a50b523bb4e1d19fefeeb/Docs/Implementation/2026-10-04-activation/review/final-review-binding.json",
-  "provenanceNote": "The original editorialProvenance.recordedAt predates its appended final rereview. Original block and appended review timestamps are preserved; no retrospective rewrite of the hash-bound approval.",
-  "limitations": [
-    "APP101unit and3UI cases did not execute because CoreSimulator installation failed; no functional-validation or App Store binary-release claim.",
-    "The local Node coverage combines121passes from the single126-case full run with passing targeted closures of all five failures; no second whole green run.",
-    "Independent reviewer read declared hashes; coordinator recomputed all85source hashes and exact887-file production inventory before binding."
+  "findings": [
+    "All 886 previously committed V1/V2 source files compared to baseline: only paths.json changed; one new guided Markdown document added, no removals. Catalogs, four Free identities/global rights, all old lesson and riff bytes retained unchanged.",
+    "Guitar approval.delta.basePath deeply equals exact historical guitar path including intact owner approval. Removing new extra and restoring only historical approval produces original path exactly. All other paths are deeply unchanged, with same setups, spineVersion, required placements and prerequisites.",
+    "New placement is one revision-1/assessmentVersion-1 optional extra with no prerequisites in existing notes-and-pulse unit. Candidate and production document hashes match independent language/content evidence and promotion receipt.",
+    "Promotion status promoted; current real Swift --paths parser proof approved. Refreshed Swift receipt has zero failures over 838 legacy, 73 guided source/candidate documents, 75 proposals and 35 riffs; every receipt file hash independently rechecked against current bytes.",
+    "Review-pending preview has 897 entries whose actual artifact bytes match its manifest; includes commercial site solely as preview. Canonical production inventory has 888 entries and excludes that site, candidates/private files and V1 education; V1 home/toggles retained. Final production artifact and CDN delivery require coordinator verification after actual commit.",
+    "Six-language and music review approved for exact reused pattern; no gesture, notes, durations, tempo or physical assessment added. This factual review makes no human performance or owner-signature claim."
   ],
   "kind": "independent-editorial-review",
-  "reviewRecordSHA256": "e5e194d4cad5eee9ba321f2a9fee3e8b9141ba1548f795051ffea49e181d2f4d",
+  "reviewRecordSHA256": "af3abcc3c6a4079fcbb867a63673317a57d4ba9faad35174c3d0e3d96cbf27df",
   "publishedFiles": {
     "v2/daily/riffs.json": "cdd1fb68254cd37496c995b6fd60612274f448d6076bf9bda5fcb4590c883cb3",
     "v2/education/courses.json": "07300ac424834ca1c25b859be85c236b46bddc997f6165a101f40d61f1d4fda3",
@@ -904,6 +888,7 @@
     "v2/education/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
     "v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md": "5b3d3d4e5271f8f24545e1a4961c35da325c4ab8d99ba4c05700bd36d5f3949e",
     "v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
     "v2/education/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md": "fe697f9cb5aef069203adf30182285197a2d3398837ee27cf799fa4115b343a4",
     "v2/education/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md": "1f8947aa1bc454d1081e2fb93b3dac3ed9dbb5aa885138ee4c33eef275256a91",
     "v2/education/guided/guitar/two-places/guitar-change-the-touch/lesson.md": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e",
@@ -930,10 +915,10 @@
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
-    "v2/education/paths.json": "06713d3fbdc5664acd1284f114df27e04fb31c074e762cac58a9ab4c96d2df35",
+    "v2/education/paths.json": "51bafe5dc7af25ef04def7c5a3dbd459f3f2da7fc88bf60290cc4bccff2d29d0",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
-  "snapshotSHA256": "5d2bb69e164cc39cb68c44963e6746ca07e239f757bb1d4769fcdd8cfaa06e91",
+  "snapshotSHA256": "4958d82d01b121833b01af4fdf72bf3c081d47f2440ef1cec58005eab252bd74",
   "servedFiles": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "v1/home/home-dev.json": "7c43d9bdca18ecb2b36a96800df0eb9a8cb92e9ec9fd2e0bfc1de4745642dbef",
@@ -1794,6 +1779,7 @@
     "v2/education/guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
     "v2/education/guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md": "5b3d3d4e5271f8f24545e1a4961c35da325c4ab8d99ba4c05700bd36d5f3949e",
     "v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
+    "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
     "v2/education/guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md": "fe697f9cb5aef069203adf30182285197a2d3398837ee27cf799fa4115b343a4",
     "v2/education/guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md": "1f8947aa1bc454d1081e2fb93b3dac3ed9dbb5aa885138ee4c33eef275256a91",
     "v2/education/guided/guitar/two-places/guitar-change-the-touch/lesson.md": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e",
@@ -1820,10 +1806,10 @@
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
-    "v2/education/paths.json": "06713d3fbdc5664acd1284f114df27e04fb31c074e762cac58a9ab4c96d2df35",
+    "v2/education/paths.json": "51bafe5dc7af25ef04def7c5a3dbd459f3f2da7fc88bf60290cc4bccff2d29d0",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
-  "servedSHA256": "6494a96c204cd25e1600e21571885a8e156da1d3f3b4b0d93ca5a3d3ae41144a",
+  "servedSHA256": "006bac2f4d074048a308503dacbb1f6280187074602d898c43cbae5530c3fb97",
   "documentSHA256": {
     "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-whole-and-half-steps/lessons/guitar-half-step-fret-hunt-20261002/lesson.md": "cd91555c225fb375cb60632feb68e32e4249e334ee4337c95fa31b40d85b0a80",
     "v2/education/courses/instrument-scales/levels/beginner/sections/beginner/units/scale-major-keys-in-reach/lessons/piano-d-major-thumb-gate-20260926/lesson.md": "9cf74a1e50c2f15b240adc609237f8b66c5797e8adda5266ec2676447dca6354",

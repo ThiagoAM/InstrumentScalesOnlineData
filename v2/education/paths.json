@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "format": 2,
-  "revision": 2,
+  "revision": 3,
   "requiredCapabilities": [
     "guided-steps",
     "localized-regions",
@@ -541,6 +541,35 @@
                 "zh-Hans": "把问句移到第3弦空弦–第2–第4品的G3–A3–B3。"
               },
               "estimatedMinutes": 5
+            },
+            {
+              "id": "guitar-rest-release-diagnosis-placement",
+              "contentKey": "guided:guitar-rest-release-diagnosis",
+              "lessonID": "guitar-rest-release-diagnosis",
+              "source": "guided",
+              "path": "guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
+              "revision": 1,
+              "assessmentVersion": 1,
+              "role": "extra",
+              "skillID": "guitar:guitar-rest-release-diagnosis",
+              "prerequisites": [],
+              "estimatedMinutes": 8,
+              "titles": {
+                "en": "Does the rest really stop?",
+                "pt-BR": "A pausa realmente silencia?",
+                "es": "¿El silencio realmente calla?",
+                "de": "Ist die Pause wirklich still?",
+                "ja": "休符で音は止まっていますか",
+                "zh-Hans": "休止时声音真的停了吗"
+              },
+              "summaries": {
+                "en": "Identify a ringing rest in your own eight-beat phrase and compare the first attempt with one corrected release.",
+                "pt-BR": "Identifique uma pausa que continua soando na sua frase de oito tempos e compare a primeira tentativa com um abafamento corrigido.",
+                "es": "Identifica un silencio que sigue sonando en tu frase de ocho pulsos y compara el primer intento con una extinción corregida.",
+                "de": "Erkenne einen nachklingenden Pausenschlag in deiner Acht-Schlag-Phrase und vergleiche den ersten Versuch mit einem korrigierten Dämpfen.",
+                "ja": "自分の8拍のフレーズで休符中に音が残る箇所を見つけ、最初の試行と音を止め直した試行を比べます。",
+                "zh-Hans": "在自己的八拍乐句中找出休止时仍响着的音，并比较第一次尝试与修正止音后的尝试。"
+              }
             }
           ]
         },
@@ -756,8 +785,10 @@
       "publicationStatus": "approved",
       "humanPlaythrough": "not-claimed",
       "approval": {
-        "approvedBy": "Thiago Martins",
-        "approvedAt": "2026-10-05T00:29:31.185Z",
+        "kind": "editorial",
+        "basis": "guided-extra-delta",
+        "approvedBy": "independent-review-agent-daily-instrumentscales-lessons-2026-10-05",
+        "approvedAt": "2026-10-06T00:05:32+00:00",
         "documentSHA256": {
           "guided:guitar-one-string-landmarks": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
           "guided:guitar-hear-the-distance": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
@@ -770,24 +801,587 @@
           "guided:guitar-hear-a-triad": "7e8c4a0a6dabda325b8703ce2ba19cd04a573b570afa6bdd0f2f3bc5520942b5",
           "guided:guitar-choose-the-ending": "5fa22c7b7de504fb04f5971ec438ff3dad2de7a5f1d9e6b73b31c88862d9c2fd",
           "guided:guitar-four-bar-story": "c19ce5aff9791c04bcff489b9a66e643fec4d7f3d23fa50a2a92f192a17d8d27",
-          "guided:guitar-change-the-touch": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e"
+          "guided:guitar-change-the-touch": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e",
+          "guided:guitar-rest-release-diagnosis": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79"
         },
         "assetSHA256": {},
-        "pathManifestSHA256": "d56c4c4156b1c25890c66edddcb5db1b54eb7cdfa18a0680542bdcfb7c9395cf",
-        "basis": "owner-release",
-        "releaseApproval": {
-          "status": "approved",
-          "kind": "human",
-          "scope": "guided-pilot-release",
-          "pathIDs": [
-            "bass-foundation",
-            "guitar-foundation",
-            "mandolin-foundation",
-            "piano-foundation",
-            "ukulele-foundation"
-          ],
-          "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
-          "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+        "pathManifestSHA256": "0a0a2b5878ee6371fa180e52a15aa125881302f8237dc914fc6d98f5fd27fa03",
+        "delta": {
+          "policy": "owner-authorized-exact-pilot-pattern-variations-2026-10-04",
+          "basePath": {
+            "id": "guitar-foundation",
+            "spineVersion": 1,
+            "instrument": "guitar",
+            "titles": {
+              "en": "Guitar / acoustic guitar",
+              "pt-BR": "Guitarra / violão",
+              "es": "Guitarra",
+              "de": "Gitarre",
+              "ja": "ギター",
+              "zh-Hans": "吉他"
+            },
+            "summaries": {
+              "en": "Foundations: find notes, count rests and shape short phrases across two strings.",
+              "pt-BR": "Fundamentos: localize notas, conte pausas e construa frases curtas em duas cordas.",
+              "es": "Fundamentos: localiza notas, cuenta silencios y crea frases cortas en dos cuerdas.",
+              "de": "Grundlagen: Töne finden, Pausen zählen und kurze Phrasen auf zwei Saiten gestalten.",
+              "ja": "基礎：音を見つけ、休符を数え、2本の弦で短いフレーズを作ります。",
+              "zh-Hans": "基础：找音、数休止，并在两根弦上组织短乐句。"
+            },
+            "requiredCapabilities": [
+              "guided-steps",
+              "localized-regions",
+              "instrument-setup",
+              "notes",
+              "fretboard",
+              "quiz",
+              "tap"
+            ],
+            "setup": {
+              "instrument": "guitar",
+              "tuningMIDINotes": [
+                40,
+                45,
+                50,
+                55,
+                59,
+                64
+              ],
+              "stringsPerCourse": 1,
+              "minimumFret": 0,
+              "maximumFret": 12,
+              "minimumMIDINote": 40,
+              "maximumMIDINote": 76,
+              "leftHanded": false
+            },
+            "units": [
+              {
+                "id": "notes-and-pulse",
+                "order": 1,
+                "level": "beginner",
+                "titles": {
+                  "en": "Notes and pulse",
+                  "pt-BR": "Notas e pulso",
+                  "es": "Notas y pulso",
+                  "de": "Töne und Puls",
+                  "ja": "音と拍",
+                  "zh-Hans": "音与节拍"
+                },
+                "summaries": {
+                  "en": "Find notes on one string, hear a small interval, phrase three pitches and count silence before creating a two-bar answer.",
+                  "pt-BR": "Localize notas em uma corda, ouça um intervalo pequeno, fraseie três alturas e conte o silêncio antes de criar uma resposta de dois compassos.",
+                  "es": "Localiza notas en una cuerda, escucha un intervalo pequeño, frasea tres alturas y cuenta el silencio antes de crear una respuesta de dos compases.",
+                  "de": "Finde Töne auf einer Saite, höre kleine Intervalle, forme drei Tonhöhen und zähle Stille für eine Antwort in zwei Takten.",
+                  "ja": "1本の弦で音を探し、小さい音程と3音のフレーズ、休符を学んで2小節の答えを作ります。",
+                  "zh-Hans": "在一根弦找音，听小音程，组织三音乐句并数休止，最后创造两小节回答。"
+                },
+                "prerequisites": [],
+                "placements": [
+                  {
+                    "id": "guitar-one-string-landmarks-placement",
+                    "contentKey": "guided:guitar-one-string-landmarks",
+                    "lessonID": "guitar-one-string-landmarks",
+                    "source": "guided",
+                    "path": "guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:one-string-landmarks",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "One string, three landmarks",
+                      "pt-BR": "Uma corda, três referências",
+                      "es": "Una cuerda, tres referencias",
+                      "de": "Eine Saite, drei Anker",
+                      "ja": "1本の弦、3つの目印",
+                      "zh-Hans": "一根弦，三个路标"
+                    },
+                    "summaries": {
+                      "en": "Find B3, C4 and D4 on string 2, frets 0, 1 and 3.",
+                      "pt-BR": "Localize B3, C4 e D4 na corda 2, casas 0, 1 e 3.",
+                      "es": "Localiza B3, C4 y D4 en la cuerda 2, trastes 0, 1 y 3.",
+                      "de": "Finde B3, C4 und D4 auf Saite 2, Bünden 0, 1 und 3. Internationale Notennamen: B bedeutet H.",
+                      "ja": "第2弦の開放、1、3フレットでB3、C4、D4を見つけます。",
+                      "zh-Hans": "在第2弦的空弦、第1和第3品找到B3、C4、D4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-hear-the-distance-placement",
+                    "contentKey": "guided:guitar-hear-the-distance",
+                    "lessonID": "guitar-hear-the-distance",
+                    "source": "guided",
+                    "path": "guided/guitar/notes-and-pulse/guitar-hear-the-distance/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:hear-the-distance",
+                    "prerequisites": [
+                      "guitar-one-string-landmarks-placement"
+                    ],
+                    "titles": {
+                      "en": "Hear the small step",
+                      "pt-BR": "Ouça o passo pequeno",
+                      "es": "Escucha el paso pequeño",
+                      "de": "Höre den kleinen Schritt",
+                      "ja": "小さい音程を聴く",
+                      "zh-Hans": "听见小音程"
+                    },
+                    "summaries": {
+                      "en": "Compare B3–C4 with B3–C#4: one fret and two frets from the same starting note.",
+                      "pt-BR": "Compare B3–C4 com B3–C#4: uma casa e duas casas desde a mesma nota.",
+                      "es": "Compara B3–C4 con B3–C#4: uno y dos trastes desde la misma nota.",
+                      "de": "Vergleiche B3–C4 mit B3–C#4: ein und zwei Bünde vom selben Anfangston. Internationale Notennamen: B bedeutet H.",
+                      "ja": "同じB3からB3–C4の1フレットとB3–C#4の2フレットを比べます。",
+                      "zh-Hans": "从同一个B3比较B3–C4的一品距离与B3–C#4的两品距离。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-three-note-question-placement",
+                    "contentKey": "guided:guitar-three-note-question",
+                    "lessonID": "guitar-three-note-question",
+                    "source": "guided",
+                    "path": "guided/guitar/notes-and-pulse/guitar-three-note-question/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:three-note-question",
+                    "prerequisites": [
+                      "guitar-hear-the-distance-placement"
+                    ],
+                    "titles": {
+                      "en": "A three-note question",
+                      "pt-BR": "Uma pergunta de três notas",
+                      "es": "Una pregunta de tres notas",
+                      "de": "Eine Frage aus drei Tönen",
+                      "ja": "3音の問いかけ",
+                      "zh-Hans": "三个音的问句"
+                    },
+                    "summaries": {
+                      "en": "Play C4–D4–E4–D4–C4 on string 2, frets 1–3–5–3–1, shifting the hand gently.",
+                      "pt-BR": "Toque C4–D4–E4–D4–C4 na corda 2, casas 1–3–5–3–1, deslocando a mão suavemente.",
+                      "es": "Toca C4–D4–E4–D4–C4 en la cuerda 2, trastes 1–3–5–3–1, moviendo suavemente la mano.",
+                      "de": "Spiele C4–D4–E4–D4–C4 auf Saite 2, Bünden 1–3–5–3–1, mit sanftem Lagenwechsel.",
+                      "ja": "第2弦の1–3–5–3–1フレットでC4–D4–E4–D4–C4を弾き、手を軽く移動します。",
+                      "zh-Hans": "在第2弦第1–3–5–3–1品弹C4–D4–E4–D4–C4，轻轻移动手掌。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-count-the-silence-placement",
+                    "contentKey": "guided:guitar-count-the-silence",
+                    "lessonID": "guitar-count-the-silence",
+                    "source": "guided",
+                    "path": "guided/guitar/notes-and-pulse/guitar-count-the-silence/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:count-the-silence",
+                    "prerequisites": [
+                      "guitar-three-note-question-placement"
+                    ],
+                    "titles": {
+                      "en": "Count the silence",
+                      "pt-BR": "Conte o silêncio",
+                      "es": "Cuenta el silencio",
+                      "de": "Zähle die Stille",
+                      "ja": "休符も数える",
+                      "zh-Hans": "把休止也数出来"
+                    },
+                    "summaries": {
+                      "en": "Place a silent beat after D4; count through it before E4, then return to C4.",
+                      "pt-BR": "Deixe um tempo silencioso após D4; conte até E4 e volte a C4.",
+                      "es": "Deja un pulso silencioso después de D4; cuenta hasta E4 y vuelve a C4.",
+                      "de": "Lass nach D4 einen Schlag frei, zähle bis E4 weiter und kehre zu C4 zurück.",
+                      "ja": "D4の後に1拍の休符を置き、数え続けてE4からC4に戻ります。",
+                      "zh-Hans": "在D4后留一拍安静，继续数拍，弹E4后回到C4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-two-bar-answer-placement",
+                    "contentKey": "guided:guitar-two-bar-answer",
+                    "lessonID": "guitar-two-bar-answer",
+                    "source": "guided",
+                    "path": "guided/guitar/notes-and-pulse/guitar-two-bar-answer/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "transfer",
+                    "skillID": "guitar:two-bar-answer",
+                    "prerequisites": [
+                      "guitar-count-the-silence-placement"
+                    ],
+                    "titles": {
+                      "en": "Your two-bar answer",
+                      "pt-BR": "Sua resposta de dois compassos",
+                      "es": "Tu respuesta de dos compases",
+                      "de": "Deine Antwort in zwei Takten",
+                      "ja": "2小節の自分の答え",
+                      "zh-Hans": "你的两小节回答"
+                    },
+                    "summaries": {
+                      "en": "Play the eight-beat phrase, then make another with C4, D4, E4, one rest and a final C4.",
+                      "pt-BR": "Toque a frase de oito tempos e crie outra com C4, D4, E4, uma pausa e C4 final.",
+                      "es": "Toca la frase de ocho pulsos y crea otra con C4, D4, E4, un silencio y C4 final.",
+                      "de": "Spiele die acht Schläge und erfinde eine Antwort mit C4, D4, E4, einer Pause und C4 am Ende.",
+                      "ja": "8拍のフレーズを弾き、C4、D4、E4と休符を使いC4で終わる別のフレーズを作ります。",
+                      "zh-Hans": "先弹八拍乐句，再用C4、D4、E4、一个休止和末尾C4写一句回答。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-move-the-question-placement",
+                    "contentKey": "guided:guitar-move-the-question",
+                    "lessonID": "guitar-move-the-question",
+                    "source": "guided",
+                    "path": "guided/guitar/notes-and-pulse/guitar-move-the-question/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "extra",
+                    "skillID": "guitar:move-the-question",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "An extra starting point",
+                      "pt-BR": "Um ponto de partida extra",
+                      "es": "Otro punto de partida",
+                      "de": "Ein weiterer Anfang",
+                      "ja": "別の出発点",
+                      "zh-Hans": "另一个起点"
+                    },
+                    "summaries": {
+                      "en": "Move the question to G3–A3–B3 on string 3, frets 0–2–4.",
+                      "pt-BR": "Mova a pergunta para G3–A3–B3 na corda 3, casas 0–2–4.",
+                      "es": "Mueve la pregunta a G3–A3–B3 en la cuerda 3, trastes 0–2–4.",
+                      "de": "Versetze die Frage nach G3–A3–B3 auf Saite 3, Bünden 0–2–4.",
+                      "ja": "第3弦の開放–2–4フレットでG3–A3–B3へ問いを移します。",
+                      "zh-Hans": "把问句移到第3弦空弦–第2–第4品的G3–A3–B3。"
+                    },
+                    "estimatedMinutes": 5
+                  }
+                ]
+              },
+              {
+                "id": "two-places",
+                "order": 2,
+                "level": "beginner",
+                "titles": {
+                  "en": "One idea, two places",
+                  "pt-BR": "Uma ideia, dois lugares",
+                  "es": "Una idea, dos lugares",
+                  "de": "Eine Idee, zwei Orte",
+                  "ja": "1つのアイデア、2つの場所",
+                  "zh-Hans": "一个想法，两处位置"
+                },
+                "summaries": {
+                  "en": "Choose unison routes, cross strings and use a triad to shape a four-bar phrase with an intentional ending.",
+                  "pt-BR": "Escolha rotas em uníssono, cruze cordas e use uma tríade numa frase de quatro compassos com final intencional.",
+                  "es": "Elige rutas al unísono, cruza cuerdas y usa una tríada en una frase de cuatro compases con final elegido.",
+                  "de": "Wähle Unisonowege, wechsle Saiten und gestalte mit einem Dreiklang vier Takte mit bewusstem Ende.",
+                  "ja": "同じ音の経路を選び、弦を渡り、三和音を使って終わりを決めた4小節を作ります。",
+                  "zh-Hans": "选择同音路径、跨弦，以三和弦组织四小节及有意选择的结尾。"
+                },
+                "prerequisites": [
+                  "notes-and-pulse"
+                ],
+                "placements": [
+                  {
+                    "id": "guitar-same-pitch-two-strings-placement",
+                    "contentKey": "guided:guitar-same-pitch-two-strings",
+                    "lessonID": "guitar-same-pitch-two-strings",
+                    "source": "guided",
+                    "path": "guided/guitar/two-places/guitar-same-pitch-two-strings/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:same-pitch-two-strings",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "The same pitch twice",
+                      "pt-BR": "A mesma altura duas vezes",
+                      "es": "La misma altura dos veces",
+                      "de": "Dieselbe Tonhöhe zweimal",
+                      "ja": "同じ高さを2本で",
+                      "zh-Hans": "两根弦上的同音"
+                    },
+                    "summaries": {
+                      "en": "Compare E4 on string 1 open and string 2 fret 5, then G4 at 1:3 and 2:8.",
+                      "pt-BR": "Compare E4 na corda 1 solta e corda 2 casa 5; depois G4 em 1:3 e 2:8.",
+                      "es": "Compara E4 en cuerda 1 abierta y cuerda 2 traste 5; luego G4 en 1:3 y 2:8.",
+                      "de": "Vergleiche E4 auf leerer Saite 1 und Saite 2 Bund 5; dann G4 bei 1:3 und 2:8.",
+                      "ja": "第1弦開放と第2弦5フレットのE4、続いて1:3と2:8のG4を比べます。",
+                      "zh-Hans": "比较第1弦空弦与第2弦第5品的E4，再比较1:3与2:8的G4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-cross-two-strings-placement",
+                    "contentKey": "guided:guitar-cross-two-strings",
+                    "lessonID": "guitar-cross-two-strings",
+                    "source": "guided",
+                    "path": "guided/guitar/two-places/guitar-cross-two-strings/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:cross-two-strings",
+                    "prerequisites": [
+                      "guitar-same-pitch-two-strings-placement"
+                    ],
+                    "titles": {
+                      "en": "Cross two strings",
+                      "pt-BR": "Cruze duas cordas",
+                      "es": "Cruza dos cuerdas",
+                      "de": "Wechsle zwischen zwei Saiten",
+                      "ja": "2本の弦を渡る",
+                      "zh-Hans": "跨过两根弦"
+                    },
+                    "summaries": {
+                      "en": "Play C4–D4 on string 2 and E4–F4 on string 1, then return.",
+                      "pt-BR": "Toque C4–D4 na corda 2 e E4–F4 na corda 1, depois volte.",
+                      "es": "Toca C4–D4 en cuerda 2 y E4–F4 en cuerda 1, luego vuelve.",
+                      "de": "Spiele C4–D4 auf Saite 2 und E4–F4 auf Saite 1, dann zurück.",
+                      "ja": "第2弦でC4–D4、第1弦でE4–F4を弾いて戻ります。",
+                      "zh-Hans": "第2弦弹C4–D4，第1弦弹E4–F4，再返回。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-hear-a-triad-placement",
+                    "contentKey": "guided:guitar-hear-a-triad",
+                    "lessonID": "guitar-hear-a-triad",
+                    "source": "guided",
+                    "path": "guided/guitar/two-places/guitar-hear-a-triad/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:hear-a-triad",
+                    "prerequisites": [
+                      "guitar-cross-two-strings-placement"
+                    ],
+                    "titles": {
+                      "en": "Connect to a triad",
+                      "pt-BR": "Conecte a uma tríade",
+                      "es": "Conecta con una tríada",
+                      "de": "Verbinde mit einem Dreiklang",
+                      "ja": "三和音へつなぐ",
+                      "zh-Hans": "连接到三和弦"
+                    },
+                    "summaries": {
+                      "en": "Play the single notes C4–E4–G4; these outline C major without a sustained stretch.",
+                      "pt-BR": "Toque separadamente C4–E4–G4; elas delineiam dó maior sem sustentar uma abertura.",
+                      "es": "Toca C4–E4–G4 por separado: dibujan do mayor sin mantener una abertura.",
+                      "de": "Spiele C4–E4–G4 einzeln: C-Dur ohne gehaltene Dehnung.",
+                      "ja": "C4–E4–G4を1音ずつ弾き、手を開き続けずCメジャーを示します。",
+                      "zh-Hans": "逐个弹C4–E4–G4，勾勒C大调，不要持续撑开手指。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-choose-the-ending-placement",
+                    "contentKey": "guided:guitar-choose-the-ending",
+                    "lessonID": "guitar-choose-the-ending",
+                    "source": "guided",
+                    "path": "guided/guitar/two-places/guitar-choose-the-ending/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "guitar:choose-the-ending",
+                    "prerequisites": [
+                      "guitar-hear-a-triad-placement"
+                    ],
+                    "titles": {
+                      "en": "Choose a final note",
+                      "pt-BR": "Escolha a nota final",
+                      "es": "Elige la nota final",
+                      "de": "Wähle den Schlusston",
+                      "ja": "終わりの音を選ぶ",
+                      "zh-Hans": "选择结束音"
+                    },
+                    "summaries": {
+                      "en": "Compare the same opening ending on C4 or G4 over an imagined C chord.",
+                      "pt-BR": "Compare a mesma abertura terminando em C4 ou G4 sobre um acorde de dó imaginado.",
+                      "es": "Compara la misma apertura terminando en C4 o G4 sobre un acorde de do imaginado.",
+                      "de": "Vergleiche denselben Anfang mit C4 oder G4 als Ende über einem gedachten C-Akkord.",
+                      "ja": "同じ出だしをC和音の上でC4またはG4に終わらせて比べます。",
+                      "zh-Hans": "想象C和弦，比较同一个开头落在C4或G4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-four-bar-story-placement",
+                    "contentKey": "guided:guitar-four-bar-story",
+                    "lessonID": "guitar-four-bar-story",
+                    "source": "guided",
+                    "path": "guided/guitar/two-places/guitar-four-bar-story/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "transfer",
+                    "skillID": "guitar:four-bar-story",
+                    "prerequisites": [
+                      "guitar-choose-the-ending-placement"
+                    ],
+                    "titles": {
+                      "en": "A four-bar story",
+                      "pt-BR": "Uma história de quatro compassos",
+                      "es": "Una historia de cuatro compases",
+                      "de": "Eine Geschichte in vier Takten",
+                      "ja": "4小節の物語",
+                      "zh-Hans": "四小节的故事"
+                    },
+                    "summaries": {
+                      "en": "Build sixteen beats with an opening, a counted rest and a final C4, using both strings.",
+                      "pt-BR": "Monte dezesseis tempos com abertura, pausa contada e C4 final usando duas cordas.",
+                      "es": "Crea dieciséis pulsos con inicio, silencio contado y C4 final usando dos cuerdas.",
+                      "de": "Gestalte sechzehn Schläge mit Anfang, gezählter Pause und C4 am Ende auf zwei Saiten.",
+                      "ja": "2本の弦で出だし、数えた休符、最後のC4を含む16拍を作ります。",
+                      "zh-Hans": "用两根弦写十六拍，包含开头、数拍的休止及末尾C4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "guitar-change-the-touch-placement",
+                    "contentKey": "guided:guitar-change-the-touch",
+                    "lessonID": "guitar-change-the-touch",
+                    "source": "guided",
+                    "path": "guided/guitar/two-places/guitar-change-the-touch/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "extra",
+                    "skillID": "guitar:change-the-touch",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "An extra change of touch",
+                      "pt-BR": "Um toque diferente",
+                      "es": "Otro tipo de ataque",
+                      "de": "Eine andere Artikulation",
+                      "ja": "タッチを変える追加練習",
+                      "zh-Hans": "换一种触弦方式"
+                    },
+                    "summaries": {
+                      "en": "Play the same phrase once connected and once with gently separated notes.",
+                      "pt-BR": "Toque a frase uma vez ligada e outra com notas suavemente separadas.",
+                      "es": "Toca la frase una vez ligada y otra con notas suavemente separadas.",
+                      "de": "Spiele dieselbe Phrase einmal verbunden und einmal sanft getrennt.",
+                      "ja": "同じフレーズをつなげて1回、軽く切って1回弾きます。",
+                      "zh-Hans": "同一乐句先连贯弹一次，再轻轻分开各音弹一次。"
+                    },
+                    "estimatedMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "publicationStatus": "approved",
+            "humanPlaythrough": "not-claimed",
+            "approval": {
+              "approvedBy": "Thiago Martins",
+              "approvedAt": "2026-10-05T00:29:31.185Z",
+              "documentSHA256": {
+                "guided:guitar-one-string-landmarks": "bceaa4ec8a88479564b1784b067eccd30f8da4e36f6bd55789afd3e19c98e275",
+                "guided:guitar-hear-the-distance": "c101e9d05d560683c6dccb5f8df1063cb0b3781b46cdc18bbdee7bd62e7f6f24",
+                "guided:guitar-three-note-question": "fe697f9cb5aef069203adf30182285197a2d3398837ee27cf799fa4115b343a4",
+                "guided:guitar-count-the-silence": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
+                "guided:guitar-two-bar-answer": "1f8947aa1bc454d1081e2fb93b3dac3ed9dbb5aa885138ee4c33eef275256a91",
+                "guided:guitar-move-the-question": "5b3d3d4e5271f8f24545e1a4961c35da325c4ab8d99ba4c05700bd36d5f3949e",
+                "guided:guitar-same-pitch-two-strings": "9741e7a9b16b129d9646279fd945f5d8da9d2809817ac354a887e722286613ca",
+                "guided:guitar-cross-two-strings": "94c1825eab69b4c5c113f76f7f42f78fb49ea30f441683559006e5213129da53",
+                "guided:guitar-hear-a-triad": "7e8c4a0a6dabda325b8703ce2ba19cd04a573b570afa6bdd0f2f3bc5520942b5",
+                "guided:guitar-choose-the-ending": "5fa22c7b7de504fb04f5971ec438ff3dad2de7a5f1d9e6b73b31c88862d9c2fd",
+                "guided:guitar-four-bar-story": "c19ce5aff9791c04bcff489b9a66e643fec4d7f3d23fa50a2a92f192a17d8d27",
+                "guided:guitar-change-the-touch": "7adf651a900ae2a301d4ee02fcba99c9ba40ab1b816869c7acf09b489d9eed7e"
+              },
+              "assetSHA256": {},
+              "pathManifestSHA256": "d56c4c4156b1c25890c66edddcb5db1b54eb7cdfa18a0680542bdcfb7c9395cf",
+              "basis": "owner-release",
+              "releaseApproval": {
+                "status": "approved",
+                "kind": "human",
+                "scope": "guided-pilot-release",
+                "pathIDs": [
+                  "bass-foundation",
+                  "guitar-foundation",
+                  "mandolin-foundation",
+                  "piano-foundation",
+                  "ukulele-foundation"
+                ],
+                "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
+                "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+              }
+            }
+          },
+          "placementID": "guitar-rest-release-diagnosis-placement",
+          "itemID": "guided-gap-guitar-rest-release-diagnosis",
+          "author": "daily-instrumentscales-lessons-author-2026-10-05",
+          "contentKey": "guided:guitar-rest-release-diagnosis",
+          "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+          "approvedPattern": {
+            "pathID": "guitar-foundation",
+            "unitID": "notes-and-pulse",
+            "contentKey": "guided:guitar-count-the-silence",
+            "documentSHA256": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
+            "patternSHA256": "fc203d40064fea20d6476f6201ccb3e019b925c03c14f2d1125c60928bcd3b12",
+            "approvalSHA256": "6990b4277aca1e0e5502c705be75993165629843e256d6ae6af2fde5efc1c6db"
+          },
+          "reviewEvidence": {
+            "parser": {
+              "gate": "parser",
+              "kind": "source-parser",
+              "status": "approved",
+              "reviewer": "Source-pinned Swift lessonlint",
+              "reviewedAt": "2026-10-06T00:05:37.360Z",
+              "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+              "currentCommit": "f5dfc7ce0667664514cc5e2bc59f3a043057f318",
+              "binarySHA256": "c3f307443ce5ac7df15150c61825a3310855fdc532f10851e6e189139522fe07",
+              "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+              "outputSHA256": "0c8dcbc386ad8963f408ac5f6eec2a6097c990d49c2fdd7372223b2f1349cffb",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ]
+            },
+            "languages": {
+              "status": "approved",
+              "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-05",
+              "reviewedAt": "2026-10-06T00:05:32+00:00",
+              "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "gate": "languages",
+              "kind": "independent-language-review",
+              "notes": "All six complete localized regions and frontmatter reviewed. Musical meanings, tempo, beat counts, pitches, string/frets, feedback and honest self-report limitations agree. Spanish extinción corregida is understandable in the release context; apagado is explicitly supplied in the practical feedback. No blocking omission or contradictory translation found."
+            },
+            "independent": {
+              "status": "approved",
+              "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-05",
+              "reviewedAt": "2026-10-06T00:05:32+00:00",
+              "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "gate": "independent",
+              "kind": "independent-content-review",
+              "scope": "approved-pattern-variation",
+              "noNewPhysicalPattern": true,
+              "substantiveObjective": true,
+              "patternSHA256": "fc203d40064fea20d6476f6201ccb3e019b925c03c14f2d1125c60928bcd3b12",
+              "originDocumentSHA256": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
+              "notes": "Independent factual review of exact candidate bytes. Five fenced exercises and their order match approved production origin exactly after normalizing only stable exercise IDs. Same tuning, positions, tempos, durations, instrument and requiredCapabilities; order 7 follows six published unit placements as proposed optional extra. B3 on string 2 plus frets 1/3/5 correctly yields C4/D4/E4, in declared range. Original phrase sums to eight beats with rests on 3/6; focused cell sums to four beats; transfer sums to eight. New substantive objective is self-diagnosis and comparison of ringing rests with corrected release, rather than a renamed count-through-rest objective. Corrective muting and rest relocation already occur in origin, without a newly prescribed hand technique. Demonstration, tap and self-report are explicitly distinguished from instrumental assessment. This is not a human playthrough or owner release approval."
+            }
+          }
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 20,
+  "revision": 25,
   "publisherPolicy": "One validated publisher; other hosts author drafts. Local locks alone do not coordinate hosts. Human playthrough and independent approval must be content-hash-bound. No automatic commit, push, price/access changes or notifications.",
   "dailyLimit": 3,
   "items": [
@@ -11977,6 +11977,137 @@
       "createdAt": "2026-10-03",
       "blueprintApproved": false,
       "reviewEvidence": {}
+    },
+    {
+      "id": "guided-gap-guitar-rest-release-diagnosis",
+      "gapID": "guitar-rest-release-diagnosis",
+      "type": "gap",
+      "role": "extra",
+      "objective": "Identify a ringing rest in your own eight-beat phrase and compare the first attempt with one corrected release.",
+      "instrument": "guitar",
+      "setup": {
+        "instrument": "guitar",
+        "tuningMIDINotes": [
+          40,
+          45,
+          50,
+          55,
+          59,
+          64
+        ],
+        "stringsPerCourse": 1,
+        "minimumFret": 0,
+        "maximumFret": 12,
+        "minimumMIDINote": 40,
+        "maximumMIDINote": 76,
+        "leftHanded": false
+      },
+      "unit": "notes-and-pulse",
+      "source": "editorial/candidates/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
+      "blueprintID": "guitar-beginner-notes-and-pulse",
+      "blueprintVersion": 1,
+      "blueprintApproved": true,
+      "revision": 1,
+      "locales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "status": "open",
+      "stage": "draft",
+      "owner": "daily-instrumentscales-lessons-author-2026-10-05",
+      "createdAt": "2026-10-05",
+      "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+      "reviewEvidence": {
+        "parser": {
+          "gate": "parser",
+          "kind": "source-parser",
+          "status": "approved",
+          "reviewer": "Source-pinned Swift lessonlint",
+          "reviewedAt": "2026-10-06T00:05:37.360Z",
+          "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+          "currentCommit": "f5dfc7ce0667664514cc5e2bc59f3a043057f318",
+          "binarySHA256": "c3f307443ce5ac7df15150c61825a3310855fdc532f10851e6e189139522fe07",
+          "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+          "outputSHA256": "0c8dcbc386ad8963f408ac5f6eec2a6097c990d49c2fdd7372223b2f1349cffb",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ]
+        },
+        "languages": {
+          "status": "approved",
+          "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-05",
+          "reviewedAt": "2026-10-06T00:05:32+00:00",
+          "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "gate": "languages",
+          "kind": "independent-language-review",
+          "notes": "All six complete localized regions and frontmatter reviewed. Musical meanings, tempo, beat counts, pitches, string/frets, feedback and honest self-report limitations agree. Spanish extinción corregida is understandable in the release context; apagado is explicitly supplied in the practical feedback. No blocking omission or contradictory translation found."
+        },
+        "independent": {
+          "status": "approved",
+          "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-05",
+          "reviewedAt": "2026-10-06T00:05:32+00:00",
+          "contentSHA256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "gate": "independent",
+          "kind": "independent-content-review",
+          "scope": "approved-pattern-variation",
+          "noNewPhysicalPattern": true,
+          "substantiveObjective": true,
+          "patternSHA256": "fc203d40064fea20d6476f6201ccb3e019b925c03c14f2d1125c60928bcd3b12",
+          "originDocumentSHA256": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
+          "notes": "Independent factual review of exact candidate bytes. Five fenced exercises and their order match approved production origin exactly after normalizing only stable exercise IDs. Same tuning, positions, tempos, durations, instrument and requiredCapabilities; order 7 follows six published unit placements as proposed optional extra. B3 on string 2 plus frets 1/3/5 correctly yields C4/D4/E4, in declared range. Original phrase sums to eight beats with rests on 3/6; focused cell sums to four beats; transfer sums to eight. New substantive objective is self-diagnosis and comparison of ringing rests with corrected release, rather than a renamed count-through-rest objective. Corrective muting and rest relocation already occur in origin, without a newly prescribed hand technique. Demonstration, tap and self-report are explicitly distinguished from instrumental assessment. This is not a human playthrough or owner release approval."
+        }
+      },
+      "guidedTarget": {
+        "pathID": "guitar-foundation",
+        "unitID": "notes-and-pulse",
+        "lessonID": "guitar-rest-release-diagnosis",
+        "role": "extra",
+        "spineVersion": 1
+      },
+      "publicationPolicy": "exact-approved-pattern-and-independent-review",
+      "approvedPattern": {
+        "pathID": "guitar-foundation",
+        "unitID": "notes-and-pulse",
+        "contentKey": "guided:guitar-count-the-silence",
+        "documentSHA256": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
+        "patternSHA256": "fc203d40064fea20d6476f6201ccb3e019b925c03c14f2d1125c60928bcd3b12",
+        "approvalSHA256": "6990b4277aca1e0e5502c705be75993165629843e256d6ae6af2fde5efc1c6db"
+      },
+      "target": {
+        "kind": "file",
+        "path": "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
+        "sha256": "619701364ef610a3944c4a7ba5a0ebd0d83b55f7b2fd04d2a97b7c50f99faf79",
+        "files": [
+          "v2/education/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
+          "v2/education/paths.json"
+        ]
+      },
+      "targetDigest": "b38c26823091206debc88574770ffdeeaa0589cd38104648f3b1e7ad5db1ab9b"
     }
   ],
   "newContentModel": "guided-only",
