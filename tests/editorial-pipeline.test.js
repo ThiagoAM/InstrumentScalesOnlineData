@@ -34,6 +34,7 @@ const {
 } = require("../scripts/audit-swift-parser");
 const { smokePages } = require("../scripts/smoke-pages");
 const { validateEditorial } = require("../scripts/validate-editorial");
+const { registeredPathPromotion } = require("../scripts/coordinated-publication");
 const root = path.join(__dirname, "..");
 const ownedTestDirectories = new Set();
 const originalMkdtemp = fs.mkdtempSync;
@@ -692,9 +693,17 @@ test("all pilot candidates remain finite, six-locale and retain their review pro
   );
   for (const p of published.paths) {
     assert.equal(p.publicationStatus, "approved");
-    assert.ok(p.humanPlaythrough === "approved" ||
-      (p.humanPlaythrough === "not-claimed" && p.approval.basis === "owner-release"));
     assert.ok(p.approval);
+    assert.ok(p.humanPlaythrough === "approved" ||
+      (p.humanPlaythrough === "not-claimed" &&
+        ["owner-release", "guided-extra-delta"].includes(p.approval.basis)));
+    assert.equal(registeredPathPromotion(root, p), true);
+    const unapproved = structuredClone(p);
+    delete unapproved.approval;
+    assert.equal(registeredPathPromotion(root, unapproved), false);
+    const changedManifest = structuredClone(p);
+    changedManifest.units[0].placements[0].role = "invalid";
+    assert.equal(registeredPathPromotion(root, changedManifest), false);
   }
   const candidates = JSON.parse(
     fs.readFileSync(path.join(root, "editorial/candidates/paths.json"), "utf8"),

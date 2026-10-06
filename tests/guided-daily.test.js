@@ -16,7 +16,11 @@ const runtimeConfig = process.env.EDITORIAL_TEST_RUNTIME_CONFIG || path.join(os.
 const digest = (value) => sha(JSON.stringify(canonical(value)));
 function fixture() {
   const directory = fs.mkdtempSync(path.join(os.tmpdir(), "guided-daily-fixture-"));
-  for (const name of ["v2", "editorial", "scripts", "create-lesson.js"]) fs.cpSync(path.join(root, name), path.join(directory, name), { recursive: true });
+  // This fixture creates its own approval history; real promotion journals belong to production.
+  const productionPromotions = path.join(root, "editorial/promotions");
+  for (const name of ["v2", "editorial", "scripts", "create-lesson.js"]) fs.cpSync(path.join(root, name), path.join(directory, name), {
+    recursive: true, filter: (source) => source !== productionPromotions,
+  });
   const candidate = JSON.parse(fs.readFileSync(path.join(directory, "editorial/candidates/paths.json"))).paths.find((p) => p.id === "guitar-foundation");
   const documents = {}, published = {};
   for (const placement of candidate.units.flatMap((u) => u.placements)) {
@@ -37,6 +41,7 @@ function fixture() {
   fs.writeFileSync(path.join(directory, "v2/education/paths.json"), JSON.stringify({ schema: 2, format: 2, revision: 1, requiredCapabilities: ["guided-steps", "localized-regions", "instrument-setup"], paths: [candidate] }));
   fs.mkdirSync(path.join(directory, "editorial/promotions"), { recursive: true });
   fs.writeFileSync(path.join(directory, "editorial/promotions/fixture-pilot.json"), JSON.stringify({ kind: "paths", pathIDs: [candidate.id], status: "promoted", approval, approvalSHA256: digest(approval), pathSHA256: { [candidate.id]: digest(candidate) }, publishedContentSHA256: published }));
+  assert.deepEqual(fs.readdirSync(path.join(directory, "editorial/promotions")), ["fixture-pilot.json"]);
   fs.writeFileSync(path.join(directory, "editorial/queue.json"), JSON.stringify({ schema: 1, revision: 1, dailyLimit: 3, newContentModel: "guided-only", items: [] }));
   const gap = JSON.parse(fs.readFileSync(path.join(directory, "editorial/guided-gaps.json"))).gaps[0];
   const origin = candidate.units[0].placements.find((p) => p.contentKey === gap.sourcePattern);
