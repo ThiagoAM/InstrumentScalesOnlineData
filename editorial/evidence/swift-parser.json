@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-06T00:06:16.848Z",
+  "generatedAt": "2026-10-09T00:01:04.371Z",
   "locales": [
     "en",
     "pt-BR",
@@ -11,12 +11,12 @@
   ],
   "baselineSourceCommit": "5eab79a24efff87423d026784d06b503afb0184f",
   "baselineBinarySHA256": "e5d0881d811614f18b3f9c7844aa91c27b2f77c599b486cc5d986e0c827780ac",
-  "currentBinarySHA256": "c3f307443ce5ac7df15150c61825a3310855fdc532f10851e6e189139522fe07",
+  "currentBinarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
   "scope": "Both real parsers on every legacy reference and riff; current parser on complete quarantined proposals and guided manifests/setup. Source parser execution, not store-binary playback.",
   "valid": true,
   "counts": {
     "legacy": 838,
-    "guided": 73,
+    "guided": 74,
     "legacyProposals": 75,
     "riffs": 35,
     "failed": 0
@@ -870,6 +870,7 @@
     "v2/education/guided/bass/supporting-line/bass-arrive-at-the-change/lesson.md": "b264e546f69e0a1286f2913073c48b2da581b8b51941db335da8e035b5d3ee93",
     "v2/education/guided/bass/supporting-line/bass-four-bars-of-support/lesson.md": "f54de56bf4b958498c692a5715462db6e44f076a5e8038685a9d3875b2fb998f",
     "v2/education/guided/bass/supporting-line/bass-length-and-release/lesson.md": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+    "v2/education/guided/bass/supporting-line/bass-release-comparison/lesson.md": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
     "v2/education/guided/bass/supporting-line/bass-root-and-fifth/lesson.md": "795944c919f9d99c69880a29ec5c5e108d824e740d66d9e6b5649cf0dd12347f",
     "v2/education/guided/bass/supporting-line/bass-root-on-one/lesson.md": "115e465df7a05cc2f7c8ef1f6ffa37db9e46664daf99ebf4a6e21743b8b5e883",
     "v2/education/guided/guitar/notes-and-pulse/guitar-count-the-silence/lesson.md": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
@@ -903,7 +904,7 @@
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
-    "v2/education/paths.json": "51bafe5dc7af25ef04def7c5a3dbd459f3f2da7fc88bf60290cc4bccff2d29d0",
+    "v2/education/paths.json": "b3ea9541399c86c71f32d86f55a9f9d31b9d3744ec05ffdd8e3444ee672e50f6",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
   "candidateFiles": {
@@ -911,6 +912,7 @@
     "editorial/candidates/guided/bass/supporting-line/bass-arrive-at-the-change/lesson.md": "b264e546f69e0a1286f2913073c48b2da581b8b51941db335da8e035b5d3ee93",
     "editorial/candidates/guided/bass/supporting-line/bass-four-bars-of-support/lesson.md": "f54de56bf4b958498c692a5715462db6e44f076a5e8038685a9d3875b2fb998f",
     "editorial/candidates/guided/bass/supporting-line/bass-length-and-release/lesson.md": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+    "editorial/candidates/guided/bass/supporting-line/bass-release-comparison/lesson.md": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
     "editorial/candidates/guided/bass/supporting-line/bass-root-and-fifth/lesson.md": "795944c919f9d99c69880a29ec5c5e108d824e740d66d9e6b5649cf0dd12347f",
     "editorial/candidates/guided/bass/supporting-line/bass-root-on-one/lesson.md": "115e465df7a05cc2f7c8ef1f6ffa37db9e46664daf99ebf4a6e21743b8b5e883",
     "editorial/candidates/guided/guitar/notes-and-pulse/guitar-count-the-silence/lesson.md": "ad4940aef211f96e9f1b9e89cd8044bd57a75e71834067df80b59a7a11a8dd21",
@@ -1061,6 +1063,12 @@
           "code": "valid",
           "message": "ok",
           "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-a-small-anticipation/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/bass/supporting-line/bass-release-comparison/lesson.md",
           "severity": "ok"
         },
         {
@@ -18198,6 +18206,15 @@
       "parser": "current"
     },
     {
+      "id": "bass-release-comparison",
+      "source": "guided",
+      "file": "v2/education/guided/bass/supporting-line/bass-release-comparison/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
       "id": "guitar-one-string-landmarks",
       "source": "guided",
       "file": "v2/education/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md",
@@ -19470,6 +19487,15 @@
       "id": "piano-ninth-window-switch",
       "source": "legacy-proposal",
       "file": "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/target-and-resolve/lessons/piano-ninth-window-switch/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "bass-release-comparison",
+      "source": "additional-candidate",
+      "file": "editorial/candidates/guided/bass/supporting-line/bass-release-comparison/lesson.md",
       "valid": true,
       "exitCode": 0,
       "diagnostics": [],
@@ -21028,11 +21054,11 @@
   "reviewOnly": false,
   "runtimeProvenance": {
     "baselineCommit": "5eab79a24efff87423d026784d06b503afb0184f",
-    "currentCommit": "f5dfc7ce0667664514cc5e2bc59f3a043057f318",
+    "currentCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
     "baselineSourceSHA256": "b8588a44b95d4bf2272c2d29eac6df760af4717f20053793165b418ad227786a",
     "currentSourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
     "baselineBinarySHA256": "e5d0881d811614f18b3f9c7844aa91c27b2f77c599b486cc5d986e0c827780ac",
-    "currentBinarySHA256": "c3f307443ce5ac7df15150c61825a3310855fdc532f10851e6e189139522fe07",
+    "currentBinarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
     "sourceKind": "committed-packages"
   }
 }

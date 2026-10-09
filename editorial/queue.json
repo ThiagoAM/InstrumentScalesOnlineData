@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 25,
+  "revision": 31,
   "publisherPolicy": "One validated publisher; other hosts author drafts. Local locks alone do not coordinate hosts. Human playthrough and independent approval must be content-hash-bound. No automatic commit, push, price/access changes or notifications.",
   "dailyLimit": 3,
   "items": [
@@ -12108,6 +12108,127 @@
         ]
       },
       "targetDigest": "b38c26823091206debc88574770ffdeeaa0589cd38104648f3b1e7ad5db1ab9b"
+    },
+    {
+      "id": "guided-gap-bass-release-comparison",
+      "gapID": "bass-release-comparison",
+      "type": "gap",
+      "role": "extra",
+      "objective": "Compare two attempts at the same bass line and identify whether unequal releases obscure its support.",
+      "instrument": "bass",
+      "setup": {
+        "instrument": "bass",
+        "tuningMIDINotes": [
+          28,
+          33,
+          38,
+          43
+        ],
+        "stringsPerCourse": 1,
+        "minimumFret": 0,
+        "maximumFret": 12,
+        "minimumMIDINote": 28,
+        "maximumMIDINote": 55,
+        "leftHanded": false
+      },
+      "unit": "supporting-line",
+      "source": "editorial/candidates/guided/bass/supporting-line/bass-release-comparison/lesson.md",
+      "blueprintID": "bass-beginner-supporting-line",
+      "blueprintVersion": 1,
+      "blueprintApproved": true,
+      "revision": 1,
+      "locales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "status": "open",
+      "stage": "draft",
+      "owner": "Codex daily editorial author 2026-10-08",
+      "createdAt": "2026-10-08",
+      "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+      "reviewEvidence": {
+        "parser": {
+          "gate": "parser",
+          "kind": "source-parser",
+          "status": "approved",
+          "reviewer": "Pinned real Swift lessonlint 44d807207a08a633330a4b9c555cc0455a3b65d6",
+          "reviewedAt": "2026-10-09T00:00:20.585Z",
+          "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "runtimeCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
+          "binarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
+          "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+          "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-08/205749/candidate-swift.log"
+        },
+        "languages": {
+          "status": "approved",
+          "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-08",
+          "reviewedAt": "2026-10-09T00:00:28+00:00",
+          "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+          "gate": "languages",
+          "kind": "independent-language-review",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "notes": "All six complete frontmatter/step locales independently read; notes, octaves, positions, tempi, duration, diagnostic feedback, transfer and self-report limitations agree. Spanish enclitic spelling corrected to detenla and the exact final bytes checked. No blocking language defect."
+        },
+        "independent": {
+          "status": "approved",
+          "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-08",
+          "reviewedAt": "2026-10-09T00:00:28+00:00",
+          "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+          "gate": "independent",
+          "kind": "independent-content-review",
+          "scope": "approved-pattern-variation",
+          "noNewPhysicalPattern": true,
+          "substantiveObjective": true,
+          "patternSHA256": "6d365062bd06bea75604b1e2f814d6ea71a98c87ab61202c646db000b0cd6afc",
+          "originDocumentSHA256": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+          "notes": "Four musical exercises are exactly identical to registered owner-approved origin after normalizing stable IDs only; approvedOrigin and authoring-equivalence CLI checks passed. Four-string E1 A1 D2 G2, A1 3:0, E2 2:2, right-handed setup/range/capabilities unchanged. Eight-beat line and transfer have rests on 2/6 and two-beat notes on 3–4/7–8; focused cell has four beats. Substantive objective is diagnosis/comparison of actual releases between two attempts and rhythmic support, distinct from initial duration comparison. Only previously practised release is used; no new physical gesture or musical pattern. Six languages reviewed. Own listening reports allow uncertainty/no change and do not certify physical performance. Not a human playthrough or future owner approval."
+        }
+      },
+      "guidedTarget": {
+        "pathID": "bass-foundation",
+        "unitID": "supporting-line",
+        "lessonID": "bass-release-comparison",
+        "role": "extra",
+        "spineVersion": 1
+      },
+      "publicationPolicy": "exact-approved-pattern-and-independent-review",
+      "approvedPattern": {
+        "pathID": "bass-foundation",
+        "unitID": "supporting-line",
+        "contentKey": "guided:bass-length-and-release",
+        "documentSHA256": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+        "patternSHA256": "6d365062bd06bea75604b1e2f814d6ea71a98c87ab61202c646db000b0cd6afc",
+        "approvalSHA256": "8625a9660cdb9ed32143d6315e9ed70b9623c825fc9c009513c7f29b8aed39ef"
+      },
+      "target": {
+        "kind": "file",
+        "path": "v2/education/guided/bass/supporting-line/bass-release-comparison/lesson.md",
+        "sha256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+        "files": [
+          "v2/education/guided/bass/supporting-line/bass-release-comparison/lesson.md",
+          "v2/education/paths.json"
+        ]
+      },
+      "targetDigest": "1c5826a536234a7792045f5e4c428283c917f710e5b98273877835abd2f9938a"
     }
   ],
   "newContentModel": "guided-only",

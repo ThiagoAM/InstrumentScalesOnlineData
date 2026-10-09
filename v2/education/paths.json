@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "format": 2,
-  "revision": 3,
+  "revision": 4,
   "requiredCapabilities": [
     "guided-steps",
     "localized-regions",
@@ -255,6 +255,35 @@
                 "zh-Hans": "在第四拍后半拍弹D2，下个第一拍再弹一次。"
               },
               "estimatedMinutes": 5
+            },
+            {
+              "id": "bass-release-comparison-placement",
+              "contentKey": "guided:bass-release-comparison",
+              "lessonID": "bass-release-comparison",
+              "source": "guided",
+              "path": "guided/bass/supporting-line/bass-release-comparison/lesson.md",
+              "revision": 1,
+              "assessmentVersion": 1,
+              "role": "extra",
+              "skillID": "bass:bass-release-comparison",
+              "prerequisites": [],
+              "estimatedMinutes": 8,
+              "titles": {
+                "en": "Compare the bass releases",
+                "pt-BR": "Compare os finais das notas do baixo",
+                "es": "Compara los finales de las notas del bajo",
+                "de": "Vergleiche die Tonenden der Basslinie",
+                "ja": "ベースの音の止め方を比べる",
+                "zh-Hans": "比较贝司音符的结束时机"
+              },
+              "summaries": {
+                "en": "Compare two attempts at the same bass line and identify whether unequal releases obscure its support.",
+                "pt-BR": "Compare duas tentativas da mesma linha de baixo e identifique se finais imprecisos das notas prejudicam sua sustentação rítmica.",
+                "es": "Compara dos intentos de la misma línea de bajo e identifica si los finales imprecisos de las notas dificultan su apoyo rítmico.",
+                "de": "Vergleiche zwei Versuche derselben Basslinie und erkenne, ob ungenaue Tonenden ihre rhythmische Stütze beeinträchtigen.",
+                "ja": "同じベースラインを2回弾いて比べ、音を止めるタイミングのばらつきがリズムの支えを曖昧にしていないか確かめます。",
+                "zh-Hans": "比较同一贝司线条的两次尝试，判断止音时机不一致是否削弱了节奏支撑。"
+              }
             }
           ]
         }
@@ -262,32 +291,372 @@
       "publicationStatus": "approved",
       "humanPlaythrough": "not-claimed",
       "approval": {
-        "approvedBy": "Thiago Martins",
-        "approvedAt": "2026-10-05T00:29:31.185Z",
+        "kind": "editorial",
+        "basis": "guided-extra-delta",
+        "approvedBy": "independent-review-agent-daily-instrumentscales-lessons-2026-10-08",
+        "approvedAt": "2026-10-09T00:00:28+00:00",
         "documentSHA256": {
           "guided:bass-root-on-one": "115e465df7a05cc2f7c8ef1f6ffa37db9e46664daf99ebf4a6e21743b8b5e883",
           "guided:bass-root-and-fifth": "795944c919f9d99c69880a29ec5c5e108d824e740d66d9e6b5649cf0dd12347f",
           "guided:bass-length-and-release": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
           "guided:bass-arrive-at-the-change": "b264e546f69e0a1286f2913073c48b2da581b8b51941db335da8e035b5d3ee93",
           "guided:bass-four-bars-of-support": "f54de56bf4b958498c692a5715462db6e44f076a5e8038685a9d3875b2fb998f",
-          "guided:bass-a-small-anticipation": "6f18f03d09fab35930ac244a3529a38d00fd122b56bd19cfc5996294f4e70dc0"
+          "guided:bass-a-small-anticipation": "6f18f03d09fab35930ac244a3529a38d00fd122b56bd19cfc5996294f4e70dc0",
+          "guided:bass-release-comparison": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b"
         },
         "assetSHA256": {},
-        "pathManifestSHA256": "464e61b7267b80bd190f361947206a900fb967bff5043d5836ee62f7f9f5fc3a",
-        "basis": "owner-release",
-        "releaseApproval": {
-          "status": "approved",
-          "kind": "human",
-          "scope": "guided-pilot-release",
-          "pathIDs": [
-            "bass-foundation",
-            "guitar-foundation",
-            "mandolin-foundation",
-            "piano-foundation",
-            "ukulele-foundation"
-          ],
-          "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
-          "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+        "pathManifestSHA256": "74d0b0cf650f4978d4329c2f83d457d0be2e85c04bc86b2974fd0fea13c78c70",
+        "delta": {
+          "policy": "owner-authorized-exact-pilot-pattern-variations-2026-10-04",
+          "basePath": {
+            "id": "bass-foundation",
+            "spineVersion": 1,
+            "instrument": "bass",
+            "titles": {
+              "en": "Bass",
+              "pt-BR": "Baixo",
+              "es": "Bajo",
+              "de": "Bass",
+              "ja": "ベース",
+              "zh-Hans": "贝斯"
+            },
+            "summaries": {
+              "en": "Foundations: roots, fifths, note length and chord arrivals that support a four-bar accompaniment.",
+              "pt-BR": "Fundamentos: tônicas, quintas, duração das notas e chegadas que sustentam quatro compassos de acompanhamento.",
+              "es": "Fundamentos: fundamentales, quintas, duración de las notas y llegadas que sostienen cuatro compases de acompañamiento.",
+              "de": "Grundlagen: Grundtöne, Quinten, Tondauer und Ankünfte, die vier Begleittakte tragen.",
+              "ja": "基礎：ルート、5度、音の長さ、和音の変わり目への着地で4小節の伴奏を支えます。",
+              "zh-Hans": "基础：用根音、五音、时值与和弦到达支撑四小节伴奏。"
+            },
+            "requiredCapabilities": [
+              "guided-steps",
+              "localized-regions",
+              "instrument-setup",
+              "notes",
+              "fretboard",
+              "quiz"
+            ],
+            "setup": {
+              "instrument": "bass",
+              "tuningMIDINotes": [
+                28,
+                33,
+                38,
+                43
+              ],
+              "stringsPerCourse": 1,
+              "minimumFret": 0,
+              "maximumFret": 12,
+              "minimumMIDINote": 28,
+              "maximumMIDINote": 55,
+              "leftHanded": false
+            },
+            "units": [
+              {
+                "id": "supporting-line",
+                "order": 1,
+                "level": "beginner",
+                "titles": {
+                  "en": "A line that supports",
+                  "pt-BR": "Uma linha que sustenta",
+                  "es": "Una línea que sostiene",
+                  "de": "Eine tragende Linie",
+                  "ja": "支えるライン",
+                  "zh-Hans": "支撑的低音线"
+                },
+                "summaries": {
+                  "en": "Make roots, fifths, release and harmonic arrivals support a four-bar accompaniment.",
+                  "pt-BR": "Faça tônicas, quintas, soltura e chegadas harmônicas sustentarem um acompanhamento de quatro compassos.",
+                  "es": "Usa fundamentales, quintas, soltura y llegadas armónicas para sostener cuatro compases de acompañamiento.",
+                  "de": "Trage vier Begleittakte mit Grundtönen, Quinten, klaren Abschlüssen und harmonischen Ankünften.",
+                  "ja": "ルート、5度、止め方、和音への着地で4小節の伴奏を支えます。",
+                  "zh-Hans": "用根音、五音、止音和和声到达支撑四小节伴奏。"
+                },
+                "prerequisites": [],
+                "placements": [
+                  {
+                    "id": "bass-root-on-one-placement",
+                    "contentKey": "guided:bass-root-on-one",
+                    "lessonID": "bass-root-on-one",
+                    "source": "guided",
+                    "path": "guided/bass/supporting-line/bass-root-on-one/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "bass:root-on-one",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "A root on beat one",
+                      "pt-BR": "Tônica no primeiro tempo",
+                      "es": "Fundamental en el primer pulso",
+                      "de": "Grundton auf Schlag eins",
+                      "ja": "1拍目のルート",
+                      "zh-Hans": "第一拍的根音"
+                    },
+                    "summaries": {
+                      "en": "Place A1 on beat one of each four-beat bar, then count the silence.",
+                      "pt-BR": "Coloque A1 no primeiro tempo de cada compasso de quatro e conte o silêncio.",
+                      "es": "Pon A1 en el primer pulso de cada compás de cuatro y cuenta el silencio.",
+                      "de": "Setze A1 auf den ersten Schlag jedes Vierertakts und zähle die Stille.",
+                      "ja": "4拍の各小節の1拍目にA1を置き、休符も数えます。",
+                      "zh-Hans": "每个四拍小节第一拍弹A1，然后数出安静的拍子。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "bass-root-and-fifth-placement",
+                    "contentKey": "guided:bass-root-and-fifth",
+                    "lessonID": "bass-root-and-fifth",
+                    "source": "guided",
+                    "path": "guided/bass/supporting-line/bass-root-and-fifth/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "bass:root-and-fifth",
+                    "prerequisites": [
+                      "bass-root-on-one-placement"
+                    ],
+                    "titles": {
+                      "en": "Root and fifth support",
+                      "pt-BR": "Apoio de tônica e quinta",
+                      "es": "Apoyo de fundamental y quinta",
+                      "de": "Grundton und Quinte tragen",
+                      "ja": "ルートと5度で支える",
+                      "zh-Hans": "根音与五音的支撑"
+                    },
+                    "summaries": {
+                      "en": "Alternate A1 and E2, two beats each, keeping the fifth quieter than the root.",
+                      "pt-BR": "Alterne A1 e E2 por dois tempos cada, deixando a quinta mais leve que a tônica.",
+                      "es": "Alterna A1 y E2 durante dos pulsos cada uno, con la quinta más suave.",
+                      "de": "Wechsle A1 und E2 mit je zwei Schlägen; die Quinte bleibt leiser.",
+                      "ja": "A1とE2を2拍ずつ交互に弾き、5度をルートより軽くします。",
+                      "zh-Hans": "A1与E2各两拍交替，五音比根音轻。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "bass-length-and-release-placement",
+                    "contentKey": "guided:bass-length-and-release",
+                    "lessonID": "bass-length-and-release",
+                    "source": "guided",
+                    "path": "guided/bass/supporting-line/bass-length-and-release/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "bass:length-and-release",
+                    "prerequisites": [
+                      "bass-root-and-fifth-placement"
+                    ],
+                    "titles": {
+                      "en": "Length and release",
+                      "pt-BR": "Duração e soltura",
+                      "es": "Duración y soltura",
+                      "de": "Dauer und Loslassen",
+                      "ja": "長さと止め方",
+                      "zh-Hans": "时值与放音"
+                    },
+                    "summaries": {
+                      "en": "Compare one-beat A1 with two-beat A1, stopping precisely when the rest begins.",
+                      "pt-BR": "Compare A1 de um tempo com A1 de dois, parando exatamente no início da pausa.",
+                      "es": "Compara A1 de un pulso con A1 de dos y deténlo al comenzar el silencio.",
+                      "de": "Vergleiche A1 für einen und zwei Schläge und stoppe genau am Pausenbeginn.",
+                      "ja": "1拍のA1と2拍のA1を比べ、休符が始まる瞬間に止めます。",
+                      "zh-Hans": "比较一拍和两拍的A1，在休止开始时准确止音。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "bass-arrive-at-the-change-placement",
+                    "contentKey": "guided:bass-arrive-at-the-change",
+                    "lessonID": "bass-arrive-at-the-change",
+                    "source": "guided",
+                    "path": "guided/bass/supporting-line/bass-arrive-at-the-change/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "bass:arrive-at-the-change",
+                    "prerequisites": [
+                      "bass-length-and-release-placement"
+                    ],
+                    "titles": {
+                      "en": "Arrive at the change",
+                      "pt-BR": "Chegue à troca",
+                      "es": "Llega al cambio",
+                      "de": "Komme zum Wechsel an",
+                      "ja": "和音の変わり目へ",
+                      "zh-Hans": "到达和弦变化处"
+                    },
+                    "summaries": {
+                      "en": "Support one bar of A minor then one bar of D minor: roots A1 and D2 start each bar.",
+                      "pt-BR": "Sustente um compasso de lá menor e outro de ré menor: A1 e D2 começam os compassos.",
+                      "es": "Acompaña un compás de la menor y otro de re menor: A1 y D2 abren cada compás.",
+                      "de": "Trage einen Takt a-Moll und einen Takt d-Moll; A1 und D2 eröffnen die Takte.",
+                      "ja": "Aマイナー1小節とDマイナー1小節を支え、各小節をA1とD2で始めます。",
+                      "zh-Hans": "伴奏一小节A小调和一小节D小调，各自从A1和D2开始。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "bass-four-bars-of-support-placement",
+                    "contentKey": "guided:bass-four-bars-of-support",
+                    "lessonID": "bass-four-bars-of-support",
+                    "source": "guided",
+                    "path": "guided/bass/supporting-line/bass-four-bars-of-support/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "transfer",
+                    "skillID": "bass:four-bars-of-support",
+                    "prerequisites": [
+                      "bass-arrive-at-the-change-placement"
+                    ],
+                    "titles": {
+                      "en": "Four bars of support",
+                      "pt-BR": "Quatro compassos de apoio",
+                      "es": "Cuatro compases de apoyo",
+                      "de": "Vier Takte Unterstützung",
+                      "ja": "支える4小節",
+                      "zh-Hans": "四小节的支撑"
+                    },
+                    "summaries": {
+                      "en": "Accompany Am–Dm–G–Am with roots on beat one and fifths on beat three; finish with a rest.",
+                      "pt-BR": "Acompanhe Am–Dm–G–Am com tônicas no tempo um e quintas no três; termine com pausa.",
+                      "es": "Acompaña Am–Dm–G–Am con fundamentales en uno y quintas en tres; termina con silencio.",
+                      "de": "Begleite Am–Dm–G–Am mit Grundtönen auf eins und Quinten auf drei; ende mit einer Pause.",
+                      "ja": "Am–Dm–G–Amを1拍目のルートと3拍目の5度で伴奏し、休符で終えます。",
+                      "zh-Hans": "为Am–Dm–G–Am伴奏，第一拍根音、第三拍五音，最后留休止。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "bass-a-small-anticipation-placement",
+                    "contentKey": "guided:bass-a-small-anticipation",
+                    "lessonID": "bass-a-small-anticipation",
+                    "source": "guided",
+                    "path": "guided/bass/supporting-line/bass-a-small-anticipation/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "extra",
+                    "skillID": "bass:a-small-anticipation",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "A small anticipation",
+                      "pt-BR": "Uma antecipação pequena",
+                      "es": "Una anticipación pequeña",
+                      "de": "Eine kleine Vorwegnahme",
+                      "ja": "小さな先取り",
+                      "zh-Hans": "小幅提前"
+                    },
+                    "summaries": {
+                      "en": "Try D2 on the and of beat four before repeating it on the next downbeat.",
+                      "pt-BR": "Experimente D2 no contratempo do quatro e repita no primeiro tempo seguinte.",
+                      "es": "Prueba D2 en el contratiempo de cuatro y repítelo en el siguiente primer pulso.",
+                      "de": "Spiele D2 auf der Und von vier und nochmals auf der nächsten eins.",
+                      "ja": "4拍目の裏でD2を弾き、次の1拍目で再び弾きます。",
+                      "zh-Hans": "在第四拍后半拍弹D2，下个第一拍再弹一次。"
+                    },
+                    "estimatedMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "publicationStatus": "approved",
+            "humanPlaythrough": "not-claimed",
+            "approval": {
+              "approvedBy": "Thiago Martins",
+              "approvedAt": "2026-10-05T00:29:31.185Z",
+              "documentSHA256": {
+                "guided:bass-root-on-one": "115e465df7a05cc2f7c8ef1f6ffa37db9e46664daf99ebf4a6e21743b8b5e883",
+                "guided:bass-root-and-fifth": "795944c919f9d99c69880a29ec5c5e108d824e740d66d9e6b5649cf0dd12347f",
+                "guided:bass-length-and-release": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+                "guided:bass-arrive-at-the-change": "b264e546f69e0a1286f2913073c48b2da581b8b51941db335da8e035b5d3ee93",
+                "guided:bass-four-bars-of-support": "f54de56bf4b958498c692a5715462db6e44f076a5e8038685a9d3875b2fb998f",
+                "guided:bass-a-small-anticipation": "6f18f03d09fab35930ac244a3529a38d00fd122b56bd19cfc5996294f4e70dc0"
+              },
+              "assetSHA256": {},
+              "pathManifestSHA256": "464e61b7267b80bd190f361947206a900fb967bff5043d5836ee62f7f9f5fc3a",
+              "basis": "owner-release",
+              "releaseApproval": {
+                "status": "approved",
+                "kind": "human",
+                "scope": "guided-pilot-release",
+                "pathIDs": [
+                  "bass-foundation",
+                  "guitar-foundation",
+                  "mandolin-foundation",
+                  "piano-foundation",
+                  "ukulele-foundation"
+                ],
+                "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
+                "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+              }
+            }
+          },
+          "placementID": "bass-release-comparison-placement",
+          "itemID": "guided-gap-bass-release-comparison",
+          "author": "Codex daily editorial author 2026-10-08",
+          "contentKey": "guided:bass-release-comparison",
+          "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+          "approvedPattern": {
+            "pathID": "bass-foundation",
+            "unitID": "supporting-line",
+            "contentKey": "guided:bass-length-and-release",
+            "documentSHA256": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+            "patternSHA256": "6d365062bd06bea75604b1e2f814d6ea71a98c87ab61202c646db000b0cd6afc",
+            "approvalSHA256": "8625a9660cdb9ed32143d6315e9ed70b9623c825fc9c009513c7f29b8aed39ef"
+          },
+          "reviewEvidence": {
+            "parser": {
+              "gate": "parser",
+              "kind": "source-parser",
+              "status": "approved",
+              "reviewer": "Pinned real Swift lessonlint 44d807207a08a633330a4b9c555cc0455a3b65d6",
+              "reviewedAt": "2026-10-09T00:00:20.585Z",
+              "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "runtimeCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
+              "binarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
+              "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+              "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-08/205749/candidate-swift.log"
+            },
+            "languages": {
+              "status": "approved",
+              "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-08",
+              "reviewedAt": "2026-10-09T00:00:28+00:00",
+              "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+              "gate": "languages",
+              "kind": "independent-language-review",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "notes": "All six complete frontmatter/step locales independently read; notes, octaves, positions, tempi, duration, diagnostic feedback, transfer and self-report limitations agree. Spanish enclitic spelling corrected to detenla and the exact final bytes checked. No blocking language defect."
+            },
+            "independent": {
+              "status": "approved",
+              "reviewer": "independent-review-agent-daily-instrumentscales-lessons-2026-10-08",
+              "reviewedAt": "2026-10-09T00:00:28+00:00",
+              "contentSHA256": "ec2b531b0792363895dbc89c444748f2e95b3de935ec8c1348a4072ac840201b",
+              "gate": "independent",
+              "kind": "independent-content-review",
+              "scope": "approved-pattern-variation",
+              "noNewPhysicalPattern": true,
+              "substantiveObjective": true,
+              "patternSHA256": "6d365062bd06bea75604b1e2f814d6ea71a98c87ab61202c646db000b0cd6afc",
+              "originDocumentSHA256": "1e00de04c43506af14f1adccd9cb760e34c990393c5507d2e23af4b3c06c13e2",
+              "notes": "Four musical exercises are exactly identical to registered owner-approved origin after normalizing stable IDs only; approvedOrigin and authoring-equivalence CLI checks passed. Four-string E1 A1 D2 G2, A1 3:0, E2 2:2, right-handed setup/range/capabilities unchanged. Eight-beat line and transfer have rests on 2/6 and two-beat notes on 3–4/7–8; focused cell has four beats. Substantive objective is diagnosis/comparison of actual releases between two attempts and rhythmic support, distinct from initial duration comparison. Only previously practised release is used; no new physical gesture or musical pattern. Six languages reviewed. Own listening reports allow uncertainty/no change and do not certify physical performance. Not a human playthrough or future owner approval."
+            }
+          }
         }
       }
     },
