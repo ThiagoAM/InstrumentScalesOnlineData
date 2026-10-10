@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 31,
+  "revision": 38,
   "publisherPolicy": "One validated publisher; other hosts author drafts. Local locks alone do not coordinate hosts. Human playthrough and independent approval must be content-hash-bound. No automatic commit, push, price/access changes or notifications.",
   "dailyLimit": 3,
   "items": [
@@ -12229,6 +12229,127 @@
         ]
       },
       "targetDigest": "1c5826a536234a7792045f5e4c428283c917f710e5b98273877835abd2f9938a"
+    },
+    {
+      "id": "guided-gap-piano-rest-self-check",
+      "gapID": "piano-rest-self-check",
+      "type": "gap",
+      "role": "extra",
+      "objective": "Identify whether a held key masks the counted breath and compare your first phrase with a corrected release.",
+      "instrument": "piano",
+      "setup": {
+        "instrument": "piano",
+        "tuningMIDINotes": [],
+        "stringsPerCourse": 1,
+        "minimumFret": 0,
+        "maximumFret": 0,
+        "minimumMIDINote": 48,
+        "maximumMIDINote": 84,
+        "leftHanded": false
+      },
+      "unit": "melody-and-support",
+      "source": "editorial/candidates/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
+      "blueprintID": "piano-beginner-melody-and-support",
+      "blueprintVersion": 1,
+      "blueprintApproved": true,
+      "revision": 1,
+      "locales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "status": "open",
+      "stage": "draft",
+      "owner": "Codex daily editorial author 2026-10-09",
+      "createdAt": "2026-10-09",
+      "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+      "reviewEvidence": {
+        "parser": {
+          "gate": "parser",
+          "kind": "source-parser",
+          "status": "approved",
+          "reviewer": "Pinned real Swift lessonlint 44d807207a08a633330a4b9c555cc0455a3b65d6",
+          "reviewedAt": "2026-10-10T00:07:24+00:00",
+          "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "runtimeCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
+          "binarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
+          "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+          "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-09/210359/candidate-swift.log"
+        },
+        "languages": {
+          "status": "approved",
+          "reviewer": "Codex independent reviewer /root/independent_review 2026-10-09",
+          "reviewedAt": "2026-10-10T00:07:39.923Z",
+          "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+          "scope": "approved-pattern-variation",
+          "noNewPhysicalPattern": true,
+          "substantiveObjective": true,
+          "patternSHA256": "51cecb03b9eae39e59793231de7a1f81850fdf917e9b9b007e9bf46476e567d4",
+          "originDocumentSHA256": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+          "gate": "languages",
+          "kind": "independent-language-review",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "notes": "All six locales independently inspected for titles/objectives and six guided steps each. Counted-rest diagnostic, no deliberate error, correction at pause start, unchanged pulse/entry, transfer eight beats, half-beat spaces, and evidence limits retain equivalent meaning. No missing locale regions or new physical directions."
+        },
+        "independent": {
+          "status": "approved",
+          "reviewer": "Codex independent reviewer /root/independent_review 2026-10-09",
+          "reviewedAt": "2026-10-10T00:07:39.923Z",
+          "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+          "scope": "approved-pattern-variation",
+          "noNewPhysicalPattern": true,
+          "substantiveObjective": true,
+          "patternSHA256": "51cecb03b9eae39e59793231de7a1f81850fdf917e9b9b007e9bf46476e567d4",
+          "originDocumentSHA256": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+          "gate": "independent",
+          "kind": "independent-content-review",
+          "notes": "Independent inspection of all six locales, all fenced exercise blocks, source origin and metadata. Exact musical blocks modulo IDs; verified approved-origin proof via guided-variation module. Notes C4/D4/E4/G4 within C3-C6; durations 8/8/5/8 beats, transfer total eight including final two-beat rest. Tempo 56/48 unchanged; setup/capabilities unchanged. Diagnostic objective is substantive: compare own counted rests, correct only existing release timing, preserve pulse, allow unchanged/uncertain outcome. No new fingering, pedal, gesture, recording, detection or certified physical performance. Initially rejected prose claiming ten transfer beats; author corrected all six locales before this approval. This is an AI editorial review, not human playthrough."
+        }
+      },
+      "guidedTarget": {
+        "pathID": "piano-foundation",
+        "unitID": "melody-and-support",
+        "lessonID": "piano-rest-self-check",
+        "role": "extra",
+        "spineVersion": 1
+      },
+      "publicationPolicy": "exact-approved-pattern-and-independent-review",
+      "approvedPattern": {
+        "pathID": "piano-foundation",
+        "unitID": "melody-and-support",
+        "contentKey": "guided:piano-breath-and-articulation",
+        "documentSHA256": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+        "patternSHA256": "51cecb03b9eae39e59793231de7a1f81850fdf917e9b9b007e9bf46476e567d4",
+        "approvalSHA256": "7bbeab9b6228ae36c6791314b5b2bc324d755beb79c4b7928db9c07a63068ba7"
+      },
+      "target": {
+        "kind": "file",
+        "path": "v2/education/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
+        "sha256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+        "files": [
+          "v2/education/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
+          "v2/education/paths.json"
+        ]
+      },
+      "targetDigest": "bc45639972ccefd3cda36defc1158ac02e2503eb8c2afb9491457f0beccb76a7"
     }
   ],
   "newContentModel": "guided-only",

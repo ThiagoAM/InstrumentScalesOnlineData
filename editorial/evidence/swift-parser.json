@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-09T00:01:04.371Z",
+  "generatedAt": "2026-10-10T00:08:36.890Z",
   "locales": [
     "en",
     "pt-BR",
@@ -16,7 +16,7 @@
   "valid": true,
   "counts": {
     "legacy": 838,
-    "guided": 74,
+    "guided": 75,
     "legacyProposals": 75,
     "riffs": 35,
     "failed": 0
@@ -897,6 +897,7 @@
     "v2/education/guided/piano/melody-and-support/piano-five-finger-phrase/lesson.md": "1ed4e76a70a3d15a241371da20a6006873b106dc04a392fe88ef4a83fed0060d",
     "v2/education/guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md": "ba4ec80b363c85f8348965d8f4a98f3f009e146c9974e3dfd401a360e3df8520",
     "v2/education/guided/piano/melody-and-support/piano-melody-with-roots/lesson.md": "6ce94625ed2ef830e2fc4b83c1e2c6d4772e97c3333f699fbba705504aaef077",
+    "v2/education/guided/piano/melody-and-support/piano-rest-self-check/lesson.md": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
     "v2/education/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md": "394e41d207cd95d72bcfd883bbf00f26944727071fb68cb8d88131e033fdf1e8",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md": "4f0a0ebb1f130649080fdf6a5d4e4dfec55703a81760d9e6d64ef1e86d47c993",
@@ -904,7 +905,7 @@
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
-    "v2/education/paths.json": "b3ea9541399c86c71f32d86f55a9f9d31b9d3744ec05ffdd8e3444ee672e50f6",
+    "v2/education/paths.json": "66718603f93f6078e42f32c38ff23b4d4202b6a13be2ced362a5b072be3dc786",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
   "candidateFiles": {
@@ -939,6 +940,7 @@
     "editorial/candidates/guided/piano/melody-and-support/piano-five-finger-phrase/lesson.md": "1ed4e76a70a3d15a241371da20a6006873b106dc04a392fe88ef4a83fed0060d",
     "editorial/candidates/guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md": "ba4ec80b363c85f8348965d8f4a98f3f009e146c9974e3dfd401a360e3df8520",
     "editorial/candidates/guided/piano/melody-and-support/piano-melody-with-roots/lesson.md": "6ce94625ed2ef830e2fc4b83c1e2c6d4772e97c3333f699fbba705504aaef077",
+    "editorial/candidates/guided/piano/melody-and-support/piano-rest-self-check/lesson.md": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
     "editorial/candidates/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b",
     "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md": "394e41d207cd95d72bcfd883bbf00f26944727071fb68cb8d88131e033fdf1e8",
     "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md": "4f0a0ebb1f130649080fdf6a5d4e4dfec55703a81760d9e6d64ef1e86d47c993",
@@ -1219,6 +1221,12 @@
           "code": "valid",
           "message": "ok",
           "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
           "severity": "ok"
         },
         {
@@ -18440,6 +18448,15 @@
       "parser": "current"
     },
     {
+      "id": "piano-rest-self-check",
+      "source": "guided",
+      "file": "v2/education/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
       "id": "ukulele-know-the-four-strings",
       "source": "guided",
       "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md",
@@ -19505,6 +19522,15 @@
       "id": "guitar-rest-release-diagnosis",
       "source": "additional-candidate",
       "file": "editorial/candidates/guided/guitar/notes-and-pulse/guitar-rest-release-diagnosis/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "piano-rest-self-check",
+      "source": "additional-candidate",
+      "file": "editorial/candidates/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
       "valid": true,
       "exitCode": 0,
       "diagnostics": [],

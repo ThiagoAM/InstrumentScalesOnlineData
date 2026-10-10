@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "format": 2,
-  "revision": 4,
+  "revision": 5,
   "requiredCapabilities": [
     "guided-steps",
     "localized-regions",
@@ -2279,6 +2279,35 @@
                 "zh-Hans": "左手5–4–3–2弹C4–D4–E4–F4，右手两次用C5支撑。"
               },
               "estimatedMinutes": 5
+            },
+            {
+              "id": "piano-rest-self-check-placement",
+              "contentKey": "guided:piano-rest-self-check",
+              "lessonID": "piano-rest-self-check",
+              "source": "guided",
+              "path": "guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
+              "revision": 1,
+              "assessmentVersion": 1,
+              "role": "extra",
+              "skillID": "piano:piano-rest-self-check",
+              "prerequisites": [],
+              "estimatedMinutes": 8,
+              "titles": {
+                "en": "Check the breath in your phrase",
+                "pt-BR": "Confira a respiração da sua frase",
+                "es": "Comprueba la respiración de tu frase",
+                "de": "Prüfe die Pause in deiner Phrase",
+                "ja": "自分のフレーズの休符を確かめる",
+                "zh-Hans": "检查自己乐句中的休止"
+              },
+              "summaries": {
+                "en": "Identify whether a held key masks the counted breath and compare your first phrase with a corrected release.",
+                "pt-BR": "Identifique se uma tecla mantida esconde a pausa contada e compare sua primeira frase com uma soltura corrigida.",
+                "es": "Identifica si una tecla mantenida oculta el silencio contado y compara tu primera frase con una liberación corregida.",
+                "de": "Erkenne, ob eine gehaltene Taste die gezählte Pause verdeckt, und vergleiche deine erste Phrase mit einem korrigierten Loslassen.",
+                "ja": "押したままの鍵盤が数えた休符を隠していないか確かめ、離すタイミングを修正した演奏と最初のフレーズを比べます。",
+                "zh-Hans": "判断按住的琴键是否掩盖了数出的休止，并把首次乐句与修正松键后的演奏作比较。"
+              }
             }
           ]
         }
@@ -2286,32 +2315,372 @@
       "publicationStatus": "approved",
       "humanPlaythrough": "not-claimed",
       "approval": {
-        "approvedBy": "Thiago Martins",
-        "approvedAt": "2026-10-05T00:29:31.185Z",
+        "kind": "editorial",
+        "basis": "guided-extra-delta",
+        "approvedBy": "Codex independent reviewer /root/independent_review 2026-10-09",
+        "approvedAt": "2026-10-10T00:07:39.923Z",
         "documentSHA256": {
           "guided:piano-find-the-region": "f763d1aa62d01fc782963ef3d3a1c123ca9c023da664a027e4e03b710d2af812",
           "guided:piano-five-finger-phrase": "1ed4e76a70a3d15a241371da20a6006873b106dc04a392fe88ef4a83fed0060d",
           "guided:piano-breath-and-articulation": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
           "guided:piano-left-hand-anchor": "ba4ec80b363c85f8348965d8f4a98f3f009e146c9974e3dfd401a360e3df8520",
           "guided:piano-melody-with-roots": "6ce94625ed2ef830e2fc4b83c1e2c6d4772e97c3333f699fbba705504aaef077",
-          "guided:piano-swap-a-small-role": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b"
+          "guided:piano-swap-a-small-role": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b",
+          "guided:piano-rest-self-check": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238"
         },
         "assetSHA256": {},
-        "pathManifestSHA256": "51f0ad81bbb320bb8adacb30a50c5cc3bba801ca5b604f45d0303ec12de0aa9e",
-        "basis": "owner-release",
-        "releaseApproval": {
-          "status": "approved",
-          "kind": "human",
-          "scope": "guided-pilot-release",
-          "pathIDs": [
-            "bass-foundation",
-            "guitar-foundation",
-            "mandolin-foundation",
-            "piano-foundation",
-            "ukulele-foundation"
-          ],
-          "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
-          "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+        "pathManifestSHA256": "ea629fc69f616e87c976b6531d60dd100ffc7f8fcd415833e79d2ebe07ddc0f5",
+        "delta": {
+          "policy": "owner-authorized-exact-pilot-pattern-variations-2026-10-04",
+          "basePath": {
+            "id": "piano-foundation",
+            "spineVersion": 1,
+            "instrument": "piano",
+            "titles": {
+              "en": "Piano",
+              "pt-BR": "Piano",
+              "es": "Piano",
+              "de": "Klavier",
+              "ja": "ピアノ",
+              "zh-Hans": "钢琴"
+            },
+            "summaries": {
+              "en": "Foundations: a five-finger melody, counted rests and simple left-hand roots.",
+              "pt-BR": "Fundamentos: melodia de cinco dedos, pausas contadas e fundamentais simples na mão esquerda.",
+              "es": "Fundamentos: melodía de cinco dedos, silencios contados y fundamentales sencillas en la mano izquierda.",
+              "de": "Grundlagen: Fünffinger-Melodie, gezählte Pausen und einfache Grundtöne in der linken Hand.",
+              "ja": "基礎：5本の指の旋律、休符の数え方、左手のシンプルなルートを学びます。",
+              "zh-Hans": "基础：五指旋律、数休止，以及左手的简单根音。"
+            },
+            "requiredCapabilities": [
+              "guided-steps",
+              "localized-regions",
+              "instrument-setup",
+              "notes",
+              "quiz",
+              "tap"
+            ],
+            "setup": {
+              "instrument": "piano",
+              "tuningMIDINotes": [],
+              "stringsPerCourse": 1,
+              "minimumFret": 0,
+              "maximumFret": 0,
+              "minimumMIDINote": 48,
+              "maximumMIDINote": 84,
+              "leftHanded": false
+            },
+            "units": [
+              {
+                "id": "melody-and-support",
+                "order": 1,
+                "level": "beginner",
+                "titles": {
+                  "en": "Melody and support",
+                  "pt-BR": "Melodia e apoio",
+                  "es": "Melodía y apoyo",
+                  "de": "Melodie und Begleitung",
+                  "ja": "旋律と支え",
+                  "zh-Hans": "旋律与支撑"
+                },
+                "summaries": {
+                  "en": "Shape a five-finger melody, count rests and balance changing roots underneath it.",
+                  "pt-BR": "Modele uma melodia de cinco dedos, conte pausas e equilibre as fundamentais que mudam sob ela.",
+                  "es": "Da forma a una melodía de cinco dedos, cuenta silencios y equilibra fundamentales cambiantes debajo.",
+                  "de": "Forme eine Fünffinger-Melodie, zähle Pausen und balanciere wechselnde Grundtöne darunter.",
+                  "ja": "5本の指の旋律と休符を整え、下の変わるルートとバランスを取ります。",
+                  "zh-Hans": "塑造五指旋律、数休止，并平衡下方变化的根音。"
+                },
+                "prerequisites": [],
+                "placements": [
+                  {
+                    "id": "piano-find-the-region-placement",
+                    "contentKey": "guided:piano-find-the-region",
+                    "lessonID": "piano-find-the-region",
+                    "source": "guided",
+                    "path": "guided/piano/melody-and-support/piano-find-the-region/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "piano:find-the-region",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "Find the five-note region",
+                      "pt-BR": "Encontre a região de cinco notas",
+                      "es": "Encuentra cinco notas",
+                      "de": "Finde den Fünftonraum",
+                      "ja": "5音の場所を探す",
+                      "zh-Hans": "找到五音区域"
+                    },
+                    "summaries": {
+                      "en": "Find C4 next to the pair of black keys; place right-hand fingers 1–5 on C4–G4.",
+                      "pt-BR": "Localize C4 ao lado do par de teclas pretas; coloque dedos 1–5 da direita sobre C4–G4.",
+                      "es": "Localiza C4 junto al par de teclas negras; pon dedos 1–5 de la derecha sobre C4–G4.",
+                      "de": "Finde C4 neben zwei schwarzen Tasten; lege rechts Finger 1–5 auf C4–G4.",
+                      "ja": "黒鍵2つの隣でC4を見つけ、右手の1–5指をC4–G4に置きます。",
+                      "zh-Hans": "在两枚黑键旁找到C4，右手1–5指放在C4–G4上。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "piano-five-finger-phrase-placement",
+                    "contentKey": "guided:piano-five-finger-phrase",
+                    "lessonID": "piano-five-finger-phrase",
+                    "source": "guided",
+                    "path": "guided/piano/melody-and-support/piano-five-finger-phrase/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "piano:five-finger-phrase",
+                    "prerequisites": [
+                      "piano-find-the-region-placement"
+                    ],
+                    "titles": {
+                      "en": "A five-finger phrase",
+                      "pt-BR": "Uma frase com cinco dedos",
+                      "es": "Una frase de cinco dedos",
+                      "de": "Eine Fünffingerphrase",
+                      "ja": "5本の指のフレーズ",
+                      "zh-Hans": "五指乐句"
+                    },
+                    "summaries": {
+                      "en": "Play C4–D4–E4–G4–F4–E4–D4–C4 with right-hand fingers 1–2–3–5–4–3–2–1.",
+                      "pt-BR": "Toque C4–D4–E4–G4–F4–E4–D4–C4 com dedos 1–2–3–5–4–3–2–1 da direita.",
+                      "es": "Toca C4–D4–E4–G4–F4–E4–D4–C4 con dedos derechos 1–2–3–5–4–3–2–1.",
+                      "de": "Spiele C4–D4–E4–G4–F4–E4–D4–C4 rechts mit 1–2–3–5–4–3–2–1.",
+                      "ja": "右手1–2–3–5–4–3–2–1でC4–D4–E4–G4–F4–E4–D4–C4を弾きます。",
+                      "zh-Hans": "右手用1–2–3–5–4–3–2–1弹C4–D4–E4–G4–F4–E4–D4–C4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "piano-breath-and-articulation-placement",
+                    "contentKey": "guided:piano-breath-and-articulation",
+                    "lessonID": "piano-breath-and-articulation",
+                    "source": "guided",
+                    "path": "guided/piano/melody-and-support/piano-breath-and-articulation/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "piano:breath-and-articulation",
+                    "prerequisites": [
+                      "piano-five-finger-phrase-placement"
+                    ],
+                    "titles": {
+                      "en": "A breath in the melody",
+                      "pt-BR": "Uma respiração na melodia",
+                      "es": "Una respiración en la melodía",
+                      "de": "Ein Atemzug in der Melodie",
+                      "ja": "メロディーの呼吸",
+                      "zh-Hans": "旋律中的呼吸"
+                    },
+                    "summaries": {
+                      "en": "Leave a beat of silence after D4 and after G4, releasing the keys without pedal.",
+                      "pt-BR": "Deixe um tempo silencioso após D4 e G4, soltando as teclas sem pedal.",
+                      "es": "Deja un pulso de silencio después de D4 y G4, soltando las teclas sin pedal.",
+                      "de": "Lass nach D4 und G4 einen Schlag frei; löse die Tasten ohne Pedal.",
+                      "ja": "ペダルなしで鍵盤を離し、D4とG4の後に1拍の休符を入れます。",
+                      "zh-Hans": "不用踏板，D4与G4后各留一拍休止并松键。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "piano-left-hand-anchor-placement",
+                    "contentKey": "guided:piano-left-hand-anchor",
+                    "lessonID": "piano-left-hand-anchor",
+                    "source": "guided",
+                    "path": "guided/piano/melody-and-support/piano-left-hand-anchor/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "piano:left-hand-anchor",
+                    "prerequisites": [
+                      "piano-breath-and-articulation-placement"
+                    ],
+                    "titles": {
+                      "en": "A left-hand anchor",
+                      "pt-BR": "Um apoio da esquerda",
+                      "es": "Un apoyo de la izquierda",
+                      "de": "Ein Anker links",
+                      "ja": "左手の支え",
+                      "zh-Hans": "左手的支点"
+                    },
+                    "summaries": {
+                      "en": "Add left-hand C3 under the first C4 and G3 under F4 in bar two; let the right hand carry the melody.",
+                      "pt-BR": "Acrescente C3 da esquerda sob o primeiro C4 e G3 sob F4 no segundo compasso; a direita conduz a melodia.",
+                      "es": "Añade C3 izquierdo bajo el primer C4 y G3 bajo F4 en el segundo compás; la derecha lleva la melodía.",
+                      "de": "Setze links C3 unter das erste C4 und G3 unter F4 in Takt zwei; rechts führt die Melodie.",
+                      "ja": "最初のC4に左手C3、2小節目のF4にG3を加え、右手で旋律を導きます。",
+                      "zh-Hans": "第一个C4下加左手C3，第二小节F4下加G3，右手带旋律。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "piano-melody-with-roots-placement",
+                    "contentKey": "guided:piano-melody-with-roots",
+                    "lessonID": "piano-melody-with-roots",
+                    "source": "guided",
+                    "path": "guided/piano/melody-and-support/piano-melody-with-roots/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "transfer",
+                    "skillID": "piano:melody-with-roots",
+                    "prerequisites": [
+                      "piano-left-hand-anchor-placement"
+                    ],
+                    "titles": {
+                      "en": "Melody with roots",
+                      "pt-BR": "Melodia com fundamentais",
+                      "es": "Melodía con fundamentales",
+                      "de": "Melodie mit Grundtönen",
+                      "ja": "ルートとメロディー",
+                      "zh-Hans": "根音与旋律"
+                    },
+                    "summaries": {
+                      "en": "Play four bars with left-hand roots C3–F3–G3–C3 and a right-hand melody that ends on C4.",
+                      "pt-BR": "Toque quatro compassos com C3–F3–G3–C3 na esquerda e melodia da direita terminando em C4.",
+                      "es": "Toca cuatro compases con C3–F3–G3–C3 en la izquierda y melodía derecha que termine en C4.",
+                      "de": "Spiele vier Takte mit C3–F3–G3–C3 links und einer rechten Melodie bis C4.",
+                      "ja": "左手C3–F3–G3–C3と、C4で終わる右手旋律を4小節弾きます。",
+                      "zh-Hans": "左手C3–F3–G3–C3，右手旋律最后到C4，共四小节。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "piano-swap-a-small-role-placement",
+                    "contentKey": "guided:piano-swap-a-small-role",
+                    "lessonID": "piano-swap-a-small-role",
+                    "source": "guided",
+                    "path": "guided/piano/melody-and-support/piano-swap-a-small-role/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "extra",
+                    "skillID": "piano:swap-a-small-role",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "An extra role swap",
+                      "pt-BR": "Uma pequena troca de papéis",
+                      "es": "Un pequeño cambio de papeles",
+                      "de": "Ein kleiner Rollenwechsel",
+                      "ja": "小さな役割交換",
+                      "zh-Hans": "小范围交换角色"
+                    },
+                    "summaries": {
+                      "en": "Let the left hand play C4–D4–E4–F4 with fingers 5–4–3–2; the right supports with C5 twice.",
+                      "pt-BR": "A esquerda toca C4–D4–E4–F4 com dedos 5–4–3–2; a direita apoia com C5 duas vezes.",
+                      "es": "La izquierda toca C4–D4–E4–F4 con dedos 5–4–3–2; la derecha apoya con C5 dos veces.",
+                      "de": "Spiele links C4–D4–E4–F4 mit 5–4–3–2; rechts stützt zweimal C5.",
+                      "ja": "左手5–4–3–2でC4–D4–E4–F4を弾き、右手はC5で2回支えます。",
+                      "zh-Hans": "左手5–4–3–2弹C4–D4–E4–F4，右手两次用C5支撑。"
+                    },
+                    "estimatedMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "publicationStatus": "approved",
+            "humanPlaythrough": "not-claimed",
+            "approval": {
+              "approvedBy": "Thiago Martins",
+              "approvedAt": "2026-10-05T00:29:31.185Z",
+              "documentSHA256": {
+                "guided:piano-find-the-region": "f763d1aa62d01fc782963ef3d3a1c123ca9c023da664a027e4e03b710d2af812",
+                "guided:piano-five-finger-phrase": "1ed4e76a70a3d15a241371da20a6006873b106dc04a392fe88ef4a83fed0060d",
+                "guided:piano-breath-and-articulation": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+                "guided:piano-left-hand-anchor": "ba4ec80b363c85f8348965d8f4a98f3f009e146c9974e3dfd401a360e3df8520",
+                "guided:piano-melody-with-roots": "6ce94625ed2ef830e2fc4b83c1e2c6d4772e97c3333f699fbba705504aaef077",
+                "guided:piano-swap-a-small-role": "7b0bb4007a63c3d8ce135569d40e6fc1fb267d14a7c89b101fdbbcba714b974b"
+              },
+              "assetSHA256": {},
+              "pathManifestSHA256": "51f0ad81bbb320bb8adacb30a50c5cc3bba801ca5b604f45d0303ec12de0aa9e",
+              "basis": "owner-release",
+              "releaseApproval": {
+                "status": "approved",
+                "kind": "human",
+                "scope": "guided-pilot-release",
+                "pathIDs": [
+                  "bass-foundation",
+                  "guitar-foundation",
+                  "mandolin-foundation",
+                  "piano-foundation",
+                  "ukulele-foundation"
+                ],
+                "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
+                "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+              }
+            }
+          },
+          "placementID": "piano-rest-self-check-placement",
+          "itemID": "guided-gap-piano-rest-self-check",
+          "author": "Codex daily editorial author 2026-10-09",
+          "contentKey": "guided:piano-rest-self-check",
+          "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+          "approvedPattern": {
+            "pathID": "piano-foundation",
+            "unitID": "melody-and-support",
+            "contentKey": "guided:piano-breath-and-articulation",
+            "documentSHA256": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+            "patternSHA256": "51cecb03b9eae39e59793231de7a1f81850fdf917e9b9b007e9bf46476e567d4",
+            "approvalSHA256": "7bbeab9b6228ae36c6791314b5b2bc324d755beb79c4b7928db9c07a63068ba7"
+          },
+          "reviewEvidence": {
+            "parser": {
+              "gate": "parser",
+              "kind": "source-parser",
+              "status": "approved",
+              "reviewer": "Pinned real Swift lessonlint 44d807207a08a633330a4b9c555cc0455a3b65d6",
+              "reviewedAt": "2026-10-10T00:07:24+00:00",
+              "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "runtimeCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
+              "binarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
+              "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+              "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-09/210359/candidate-swift.log"
+            },
+            "languages": {
+              "status": "approved",
+              "reviewer": "Codex independent reviewer /root/independent_review 2026-10-09",
+              "reviewedAt": "2026-10-10T00:07:39.923Z",
+              "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+              "scope": "approved-pattern-variation",
+              "noNewPhysicalPattern": true,
+              "substantiveObjective": true,
+              "patternSHA256": "51cecb03b9eae39e59793231de7a1f81850fdf917e9b9b007e9bf46476e567d4",
+              "originDocumentSHA256": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+              "gate": "languages",
+              "kind": "independent-language-review",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "notes": "All six locales independently inspected for titles/objectives and six guided steps each. Counted-rest diagnostic, no deliberate error, correction at pause start, unchanged pulse/entry, transfer eight beats, half-beat spaces, and evidence limits retain equivalent meaning. No missing locale regions or new physical directions."
+            },
+            "independent": {
+              "status": "approved",
+              "reviewer": "Codex independent reviewer /root/independent_review 2026-10-09",
+              "reviewedAt": "2026-10-10T00:07:39.923Z",
+              "contentSHA256": "3e0f2bf54f86d986bc92b6dfd5afab716388278db1cc2400ef7eeab3d0ca1238",
+              "scope": "approved-pattern-variation",
+              "noNewPhysicalPattern": true,
+              "substantiveObjective": true,
+              "patternSHA256": "51cecb03b9eae39e59793231de7a1f81850fdf917e9b9b007e9bf46476e567d4",
+              "originDocumentSHA256": "fc712697eac5b77ec766a571528a7ccfbabe1f453253580069e62ba85a3d6ada",
+              "gate": "independent",
+              "kind": "independent-content-review",
+              "notes": "Independent inspection of all six locales, all fenced exercise blocks, source origin and metadata. Exact musical blocks modulo IDs; verified approved-origin proof via guided-variation module. Notes C4/D4/E4/G4 within C3-C6; durations 8/8/5/8 beats, transfer total eight including final two-beat rest. Tempo 56/48 unchanged; setup/capabilities unchanged. Diagnostic objective is substantive: compare own counted rests, correct only existing release timing, preserve pulse, allow unchanged/uncertain outcome. No new fingering, pedal, gesture, recording, detection or certified physical performance. Initially rejected prose claiming ten transfer beats; author corrected all six locales before this approval. This is an AI editorial review, not human playthrough."
+            }
+          }
         }
       }
     },

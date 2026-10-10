@@ -5,7 +5,7 @@ Static content and editorial source for Instrument Scales. Published education r
 ## Published and candidate content
 
 - `v2/education/courses.json` and the two course catalogs retain all released identities and URLs. The four existing free sample IDs remain in their original order. The 24 physical Scale prerequisites are optional; the six adaptive Harmony prerequisites remain required.
-- `v2/education/paths.json` is the isolated format-2 path index. The index contains **five approved paths and 38 guided lessons**: the 36-lesson owner-approved pilot plus two independently reviewed optional extras. A release is complete only after the reviewed commit is pushed and its complete served bytes are verified; the production `snapshot.json` identifies that deployed commit. Older clients cannot reach guided directives through `courses.json`.
+- `v2/education/paths.json` is the isolated format-2 path index. The index contains **five approved paths and 39 guided lessons**: the 36-lesson owner-approved pilot plus three independently reviewed optional extras. A release is complete only after the reviewed commit is pushed and its complete served bytes are verified; the production `snapshot.json` identifies that deployed commit. Older clients cannot reach guided directives through `courses.json`.
 - `editorial/candidates/paths.json` and `editorial/candidates/guided/` preserve the authored review pilot: guitar 12, bass 6, piano 6, high-G ukulele 6 and mandolin 6. Six locales, six concept quizzes and two screen-rhythm exercises accompany playable examples, feedback and transfer. Four core placements, one transfer and one extra form each pilot unit. The owner explicitly approved release of this pilot on 4 October; the hash-bound owner record claims no physical playthrough and retains mandatory independent six-language review and real parser checks. Only the completed registered promotion copies approved documents into production; candidate directories are never served by Pages.
 - `editorial/blueprints.json` defines 26 finite unit arcs across five families and three levels. Future units remain editorial blueprints, rather than fabricated published lessons.
 - `editorial/migration-by-reference.json` keeps exact legacy content references and progress identities. Substantive guided rewrites have new identities; no automatic completion or mastery credit is invented.
@@ -60,6 +60,8 @@ The owner approved the evaluated pilot and asked for all future lessons to use t
 The first optional guided extra, `guitar-rest-release-diagnosis`, adds a self-comparison of ringing rests using the exact approved guitar pattern. Its independent six-language review and origin-bound delta preserve the pilot approval, required IDs and spine version; it claims no physical playthrough.
 
 The optional `bass-release-comparison` extra compares real note endings in two attempts at the exact approved bass pattern; it changes neither technique nor required placements.
+
+The optional `piano-rest-self-check` extra diagnoses whether a held key masks a counted breath, comparing two attempts at the exact approved piano pattern without changing technique, pulse or required placements.
 
 `editorial/guided-gaps.json` defines five finite teaching gaps in the existing pilot units: diagnosing rest/release or crossing errors by comparing the learner's own attempts. These are distinct self-evaluation objectives, rather than new lessons made by renaming the pilot. They become ready for authoring after the original path promotion. Listing gaps does not write anything:
 
