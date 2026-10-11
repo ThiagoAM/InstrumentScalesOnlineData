@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "format": 2,
-  "revision": 5,
+  "revision": 6,
   "requiredCapabilities": [
     "guided-steps",
     "localized-regions",
@@ -2931,6 +2931,35 @@
                 "zh-Hans": "比较第4弦空弦G4与第2弦第3品G4，应是相同高度。"
               },
               "estimatedMinutes": 5
+            },
+            {
+              "id": "ukulele-strum-release-check-placement",
+              "contentKey": "guided:ukulele-strum-release-check",
+              "lessonID": "ukulele-strum-release-check",
+              "source": "guided",
+              "path": "guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
+              "revision": 1,
+              "assessmentVersion": 1,
+              "role": "extra",
+              "skillID": "ukulele:ukulele-strum-release-check",
+              "prerequisites": [],
+              "estimatedMinutes": 8,
+              "titles": {
+                "en": "Does the rest stay clear?",
+                "pt-BR": "A pausa continua clara?",
+                "es": "¿Sigue claro el silencio?",
+                "de": "Bleibt die Pause deutlich?",
+                "ja": "休符ははっきりしていますか",
+                "zh-Hans": "休止是否清楚？"
+              },
+              "summaries": {
+                "en": "Compare two attempts at the same chord answer and identify whether a ringing strum hides its rest.",
+                "pt-BR": "Compare duas tentativas da mesma resposta em acorde e identifique se a ressonância de uma batida encobre a pausa.",
+                "es": "Compara dos intentos de la misma respuesta con acordes e identifica si la resonancia de un rasgueo oculta el silencio.",
+                "de": "Vergleiche zwei Versuche derselben Akkordantwort und erkenne, ob ein nachklingender Anschlag die Pause verdeckt.",
+                "ja": "同じ和音の応答を2回試し、ストロークの余韻が休符を隠していないか比べます。",
+                "zh-Hans": "比较同一和弦应答的两次尝试，辨别扫弦的余音是否掩盖休止。"
+              }
             }
           ]
         }
@@ -2938,32 +2967,374 @@
       "publicationStatus": "approved",
       "humanPlaythrough": "not-claimed",
       "approval": {
-        "approvedBy": "Thiago Martins",
-        "approvedAt": "2026-10-05T00:29:31.185Z",
+        "kind": "editorial",
+        "basis": "guided-extra-delta",
+        "approvedBy": "Codex independent editorial reviewer /root/independent_review 2026-10-10",
+        "approvedAt": "2026-10-11T00:06:17.024Z",
         "documentSHA256": {
           "guided:ukulele-know-the-four-strings": "4f0a0ebb1f130649080fdf6a5d4e4dfec55703a81760d9e6d64ef1e86d47c993",
           "guided:ukulele-a-clean-c-chord": "394e41d207cd95d72bcfd883bbf00f26944727071fb68cb8d88131e033fdf1e8",
           "guided:ukulele-strum-and-rest": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
           "guided:ukulele-melody-on-two-strings": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
           "guided:ukulele-melody-and-chord-answer": "6077808b7b33c72ba53b6fb82ac472ead5e05487bdd1a78684e2d8c8ffc18714",
-          "guided:ukulele-reentrant-unison": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa"
+          "guided:ukulele-reentrant-unison": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
+          "guided:ukulele-strum-release-check": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8"
         },
         "assetSHA256": {},
-        "pathManifestSHA256": "81306b57e12dfd3f495e8a1fa3b017705b9879affc1f29d9ecef464905459eb6",
-        "basis": "owner-release",
-        "releaseApproval": {
-          "status": "approved",
-          "kind": "human",
-          "scope": "guided-pilot-release",
-          "pathIDs": [
-            "bass-foundation",
-            "guitar-foundation",
-            "mandolin-foundation",
-            "piano-foundation",
-            "ukulele-foundation"
-          ],
-          "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
-          "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+        "pathManifestSHA256": "3b1552297a62e58f42e5d315e92c4e3a9b854b3869242eb2c7852da7e0753df6",
+        "delta": {
+          "policy": "owner-authorized-exact-pilot-pattern-variations-2026-10-04",
+          "basePath": {
+            "id": "ukulele-foundation",
+            "spineVersion": 1,
+            "instrument": "ukulele",
+            "titles": {
+              "en": "High-G ukulele",
+              "pt-BR": "Ukulele com sol agudo",
+              "es": "Ukelele con sol agudo",
+              "de": "Ukulele mit hohem G",
+              "ja": "高いGのウクレレ",
+              "zh-Hans": "高G尤克里里"
+            },
+            "summaries": {
+              "en": "Foundations for high-G (re-entrant) tuning: string order, a C chord, strumming with rests and a short melody.",
+              "pt-BR": "Fundamentos para afinação com sol agudo (reentrante): ordem das cordas, acorde C, batida com pausas e uma melodia curta.",
+              "es": "Fundamentos para afinación con sol agudo (reentrante): orden de las cuerdas, acorde C, rasgueo con silencios y una melodía corta.",
+              "de": "Grundlagen für die Stimmung mit hohem G (re-entrant): Saitenfolge, C-Akkord, Anschlag mit Pausen und eine kurze Melodie.",
+              "ja": "高いG（リエントラント）調弦の基礎：弦の順番、Cコード、休符を入れたストローク、短い旋律を学びます。",
+              "zh-Hans": "高G（回入式）调弦基础：弦序、C和弦、带休止的扫弦和一段短旋律。"
+            },
+            "requiredCapabilities": [
+              "guided-steps",
+              "localized-regions",
+              "instrument-setup",
+              "notes",
+              "fretboard",
+              "quiz"
+            ],
+            "setup": {
+              "instrument": "ukulele",
+              "tuningMIDINotes": [
+                67,
+                60,
+                64,
+                69
+              ],
+              "stringsPerCourse": 1,
+              "minimumFret": 0,
+              "maximumFret": 12,
+              "minimumMIDINote": 60,
+              "maximumMIDINote": 81,
+              "leftHanded": false
+            },
+            "units": [
+              {
+                "id": "reentrant-foundation",
+                "order": 1,
+                "level": "beginner",
+                "titles": {
+                  "en": "A compact musical space",
+                  "pt-BR": "Um espaço musical compacto",
+                  "es": "Un espacio musical compacto",
+                  "de": "Ein kompakter Klangraum",
+                  "ja": "コンパクトな音楽空間",
+                  "zh-Hans": "紧凑的音乐空间"
+                },
+                "summaries": {
+                  "en": "Understand high-G string order, hear each C-chord course and alternate a compact melody with chord answers.",
+                  "pt-BR": "Entenda a ordem com sol agudo, ouça cada corda de C e alterne melodia compacta com respostas de acorde.",
+                  "es": "Entiende el orden con sol agudo, escucha cada cuerda de C y alterna melodía compacta con respuestas de acorde.",
+                  "de": "Verstehe die hohe-G-Saitenfolge, höre jede C-Akkordsaite und wechsle kompakte Melodie und Akkordantwort.",
+                  "ja": "高いGの弦順とCコードの各弦を聴き、短い旋律とコードの答えを交互に弾きます。",
+                  "zh-Hans": "理解高G弦序，逐弦听C和弦，交替紧凑旋律与和弦回答。"
+                },
+                "prerequisites": [],
+                "placements": [
+                  {
+                    "id": "ukulele-know-the-four-strings-placement",
+                    "contentKey": "guided:ukulele-know-the-four-strings",
+                    "lessonID": "ukulele-know-the-four-strings",
+                    "source": "guided",
+                    "path": "guided/ukulele/reentrant-foundation/ukulele-know-the-four-strings/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "ukulele:know-the-four-strings",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "Hear re-entrant tuning",
+                      "pt-BR": "Ouça a afinação reentrante",
+                      "es": "Escucha la afinación reentrante",
+                      "de": "Höre die re-entrante Stimmung",
+                      "ja": "リエントラント調弦を聴く",
+                      "zh-Hans": "听见回入式调弦"
+                    },
+                    "summaries": {
+                      "en": "Play open strings G4–C4–E4–A4 in course order: the fourth string is higher than C4.",
+                      "pt-BR": "Toque cordas soltas G4–C4–E4–A4 na ordem física; a quarta é mais aguda que C4.",
+                      "es": "Toca G4–C4–E4–A4 abiertas en orden físico: la cuarta está por encima de C4.",
+                      "de": "Spiele offene G4–C4–E4–A4 in Saitenfolge: Saite vier liegt höher als C4.",
+                      "ja": "弦の順番で開放G4–C4–E4–A4を弾きます。第4弦はC4より高い音です。",
+                      "zh-Hans": "按物理弦序弹空弦G4–C4–E4–A4，第4弦高于C4。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "ukulele-a-clean-c-chord-placement",
+                    "contentKey": "guided:ukulele-a-clean-c-chord",
+                    "lessonID": "ukulele-a-clean-c-chord",
+                    "source": "guided",
+                    "path": "guided/ukulele/reentrant-foundation/ukulele-a-clean-c-chord/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "ukulele:a-clean-c-chord",
+                    "prerequisites": [
+                      "ukulele-know-the-four-strings-placement"
+                    ],
+                    "titles": {
+                      "en": "A clean C chord",
+                      "pt-BR": "Um acorde de dó limpo",
+                      "es": "Un do limpio",
+                      "de": "Ein sauberer C-Akkord",
+                      "ja": "澄んだCコード",
+                      "zh-Hans": "清楚的C和弦"
+                    },
+                    "summaries": {
+                      "en": "Fret string 1 at fret 3 and play each course before a gentle C strum.",
+                      "pt-BR": "Prenda corda 1 casa 3 e toque cada corda antes de uma batida suave de C.",
+                      "es": "Pisa cuerda 1 traste 3 y escucha cada cuerda antes de rasguear C suavemente.",
+                      "de": "Greife Saite 1 Bund 3 und spiele jede Saite vor einem sanften C-Anschlag.",
+                      "ja": "第1弦3フレットを押さえ、軽くCをストロークする前に各弦を弾きます。",
+                      "zh-Hans": "按第1弦第3品，先逐弦听，再轻扫C。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "ukulele-strum-and-rest-placement",
+                    "contentKey": "guided:ukulele-strum-and-rest",
+                    "lessonID": "ukulele-strum-and-rest",
+                    "source": "guided",
+                    "path": "guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "ukulele:strum-and-rest",
+                    "prerequisites": [
+                      "ukulele-a-clean-c-chord-placement"
+                    ],
+                    "titles": {
+                      "en": "Strum and rest",
+                      "pt-BR": "Batida e pausa",
+                      "es": "Rasgueo y silencio",
+                      "de": "Anschlag und Pause",
+                      "ja": "ストロークと休符",
+                      "zh-Hans": "扫弦与休止"
+                    },
+                    "summaries": {
+                      "en": "Use gentle downstrokes on C and leave counted silent beats between them.",
+                      "pt-BR": "Use batidas suaves para baixo em C e conte tempos silenciosos entre elas.",
+                      "es": "Usa golpes suaves hacia abajo en C y cuenta los silencios entre ellos.",
+                      "de": "Spiele sanfte Abschläge auf C und zähle die freien Schläge dazwischen.",
+                      "ja": "Cを軽くダウンストロークし、その間の無音の拍も数えます。",
+                      "zh-Hans": "C用轻柔下扫，两次之间数出安静的拍。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "ukulele-melody-on-two-strings-placement",
+                    "contentKey": "guided:ukulele-melody-on-two-strings",
+                    "lessonID": "ukulele-melody-on-two-strings",
+                    "source": "guided",
+                    "path": "guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "core",
+                    "skillID": "ukulele:melody-on-two-strings",
+                    "prerequisites": [
+                      "ukulele-strum-and-rest-placement"
+                    ],
+                    "titles": {
+                      "en": "A compact melody",
+                      "pt-BR": "Uma melodia compacta",
+                      "es": "Una melodía compacta",
+                      "de": "Eine kompakte Melodie",
+                      "ja": "コンパクトな旋律",
+                      "zh-Hans": "紧凑的旋律"
+                    },
+                    "summaries": {
+                      "en": "Play E4–F4–G4 on string 2, then open A4 on string 1 and return.",
+                      "pt-BR": "Toque E4–F4–G4 na corda 2, depois A4 solto na corda 1 e volte.",
+                      "es": "Toca E4–F4–G4 en cuerda 2, después A4 abierta en cuerda 1 y vuelve.",
+                      "de": "Spiele E4–F4–G4 auf Saite 2, dann offenes A4 auf Saite 1 und zurück.",
+                      "ja": "第2弦でE4–F4–G4、次に第1弦開放A4を弾き、戻ります。",
+                      "zh-Hans": "第2弦弹E4–F4–G4，再弹第1弦空弦A4并返回。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "ukulele-melody-and-chord-answer-placement",
+                    "contentKey": "guided:ukulele-melody-and-chord-answer",
+                    "lessonID": "ukulele-melody-and-chord-answer",
+                    "source": "guided",
+                    "path": "guided/ukulele/reentrant-foundation/ukulele-melody-and-chord-answer/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "transfer",
+                    "skillID": "ukulele:melody-and-chord-answer",
+                    "prerequisites": [
+                      "ukulele-melody-on-two-strings-placement"
+                    ],
+                    "titles": {
+                      "en": "Melody, then a chord answer",
+                      "pt-BR": "Melodia e resposta de acorde",
+                      "es": "Melodía y respuesta de acorde",
+                      "de": "Melodie und Akkordantwort",
+                      "ja": "旋律とコードの答え",
+                      "zh-Hans": "旋律与和弦回答"
+                    },
+                    "summaries": {
+                      "en": "Alternate a short melody with one C chord; use the pause to prepare string 1 fret 3.",
+                      "pt-BR": "Alterne melodia curta e acorde C; use a pausa para preparar corda 1 casa 3.",
+                      "es": "Alterna una melodía corta con C; usa la pausa para preparar cuerda 1 traste 3.",
+                      "de": "Wechsle kurze Melodie und C-Akkord; bereite Saite 1 Bund 3 in der Pause vor.",
+                      "ja": "短い旋律とCコードを交互に弾き、休符で第1弦3フレットを準備します。",
+                      "zh-Hans": "短旋律和C和弦交替，利用休止准备第1弦第3品。"
+                    },
+                    "estimatedMinutes": 8
+                  },
+                  {
+                    "id": "ukulele-reentrant-unison-placement",
+                    "contentKey": "guided:ukulele-reentrant-unison",
+                    "lessonID": "ukulele-reentrant-unison",
+                    "source": "guided",
+                    "path": "guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md",
+                    "revision": 1,
+                    "assessmentVersion": 1,
+                    "role": "extra",
+                    "skillID": "ukulele:reentrant-unison",
+                    "prerequisites": [],
+                    "titles": {
+                      "en": "An extra re-entrant unison",
+                      "pt-BR": "Um uníssono reentrante extra",
+                      "es": "Un unísono reentrante extra",
+                      "de": "Ein zusätzliches Unisono",
+                      "ja": "リエントラントの同音",
+                      "zh-Hans": "回入式同音的加练"
+                    },
+                    "summaries": {
+                      "en": "Compare open string 4 G4 with string 2 fret 3 G4; both have the same pitch.",
+                      "pt-BR": "Compare G4 da corda 4 solta com G4 na corda 2 casa 3; são a mesma altura.",
+                      "es": "Compara G4 de cuerda 4 abierta con G4 de cuerda 2 traste 3: misma altura.",
+                      "de": "Vergleiche G4 auf leerer Saite 4 mit Saite 2 Bund 3: gleiche Höhe.",
+                      "ja": "第4弦開放G4と第2弦3フレットG4を比べます。同じ高さです。",
+                      "zh-Hans": "比较第4弦空弦G4与第2弦第3品G4，应是相同高度。"
+                    },
+                    "estimatedMinutes": 5
+                  }
+                ]
+              }
+            ],
+            "publicationStatus": "approved",
+            "humanPlaythrough": "not-claimed",
+            "approval": {
+              "approvedBy": "Thiago Martins",
+              "approvedAt": "2026-10-05T00:29:31.185Z",
+              "documentSHA256": {
+                "guided:ukulele-know-the-four-strings": "4f0a0ebb1f130649080fdf6a5d4e4dfec55703a81760d9e6d64ef1e86d47c993",
+                "guided:ukulele-a-clean-c-chord": "394e41d207cd95d72bcfd883bbf00f26944727071fb68cb8d88131e033fdf1e8",
+                "guided:ukulele-strum-and-rest": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+                "guided:ukulele-melody-on-two-strings": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
+                "guided:ukulele-melody-and-chord-answer": "6077808b7b33c72ba53b6fb82ac472ead5e05487bdd1a78684e2d8c8ffc18714",
+                "guided:ukulele-reentrant-unison": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa"
+              },
+              "assetSHA256": {},
+              "pathManifestSHA256": "81306b57e12dfd3f495e8a1fa3b017705b9879affc1f29d9ecef464905459eb6",
+              "basis": "owner-release",
+              "releaseApproval": {
+                "status": "approved",
+                "kind": "human",
+                "scope": "guided-pilot-release",
+                "pathIDs": [
+                  "bass-foundation",
+                  "guitar-foundation",
+                  "mandolin-foundation",
+                  "piano-foundation",
+                  "ukulele-foundation"
+                ],
+                "approvalReference": "codex-thread:01a10363-3b0b-78c3-8bce-633f7968c7c2/owner-approval/2026-10-04",
+                "approvalStatement": "Ok, o conteúdo de avaliação está aprovado por mim. Pode também parar de gerar lições do modelo antigo na rotina, vamos gerar apenas do modelo novo."
+              }
+            }
+          },
+          "placementID": "ukulele-strum-release-check-placement",
+          "itemID": "guided-gap-ukulele-strum-release-check",
+          "author": "Codex daily editorial author 2026-10-10",
+          "contentKey": "guided:ukulele-strum-release-check",
+          "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+          "approvedPattern": {
+            "pathID": "ukulele-foundation",
+            "unitID": "reentrant-foundation",
+            "contentKey": "guided:ukulele-strum-and-rest",
+            "documentSHA256": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+            "patternSHA256": "b92a6fc020007a8fcab1153e20a9bbe61b8d452648cc21149800dad53d45a967",
+            "approvalSHA256": "e751bc279f2828b8a3fc938d8f47406b1c79e1b452b78e98f9d0de8d1e72f574"
+          },
+          "reviewEvidence": {
+            "parser": {
+              "gate": "parser",
+              "kind": "source-parser",
+              "status": "approved",
+              "reviewer": "Pinned real Swift lessonlint 44d807207a08a633330a4b9c555cc0455a3b65d6",
+              "reviewedAt": "2026-10-11T00:05:52+00:00",
+              "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "runtimeCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
+              "binarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
+              "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+              "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-10/210316/candidate-parser.log"
+            },
+            "languages": {
+              "status": "approved",
+              "reviewer": "Codex independent editorial reviewer /root/independent_review 2026-10-10",
+              "reviewedAt": "2026-10-11T00:06:17.024Z",
+              "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+              "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-10/210316/independent-review.md",
+              "gate": "languages",
+              "kind": "independent-language-review",
+              "locales": [
+                "en",
+                "pt-BR",
+                "es",
+                "de",
+                "ja",
+                "zh-Hans"
+              ],
+              "notes": "Independently read all six complete localized regions for all six steps, titles, objectives and checkpoints. Timing, register, corrective instructions, comparison outcomes and self-report limitations agree."
+            },
+            "independent": {
+              "status": "approved",
+              "reviewer": "Codex independent editorial reviewer /root/independent_review 2026-10-10",
+              "reviewedAt": "2026-10-11T00:06:17.024Z",
+              "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+              "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-10/210316/independent-review.md",
+              "gate": "independent",
+              "kind": "independent-content-review",
+              "scope": "approved-pattern-variation",
+              "noNewPhysicalPattern": true,
+              "substantiveObjective": true,
+              "originDocumentSHA256": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+              "patternSHA256": "b92a6fc020007a8fcab1153e20a9bbe61b8d452648cc21149800dad53d45a967",
+              "notes": "Exact original musical block bytes after stable-ID normalization, exact setup/capabilities and registered pilot approval verified by guided-variation module. Adds diagnosis and comparison of ringing rests; only preexisting gentle muting and lighter second stroke. No human playthrough claimed."
+            }
+          }
         }
       }
     }

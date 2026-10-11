@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 38,
+  "revision": 43,
   "publisherPolicy": "One validated publisher; other hosts author drafts. Local locks alone do not coordinate hosts. Human playthrough and independent approval must be content-hash-bound. No automatic commit, push, price/access changes or notifications.",
   "dailyLimit": 3,
   "items": [
@@ -12350,6 +12350,129 @@
         ]
       },
       "targetDigest": "bc45639972ccefd3cda36defc1158ac02e2503eb8c2afb9491457f0beccb76a7"
+    },
+    {
+      "id": "guided-gap-ukulele-strum-release-check",
+      "gapID": "ukulele-strum-release-check",
+      "type": "gap",
+      "role": "extra",
+      "objective": "Compare two attempts at the same chord answer and identify whether a ringing strum hides its rest.",
+      "instrument": "ukulele",
+      "setup": {
+        "instrument": "ukulele",
+        "tuningMIDINotes": [
+          67,
+          60,
+          64,
+          69
+        ],
+        "stringsPerCourse": 1,
+        "minimumFret": 0,
+        "maximumFret": 12,
+        "minimumMIDINote": 60,
+        "maximumMIDINote": 81,
+        "leftHanded": false
+      },
+      "unit": "reentrant-foundation",
+      "source": "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
+      "blueprintID": "ukulele-beginner-reentrant-foundation",
+      "blueprintVersion": 1,
+      "blueprintApproved": true,
+      "revision": 1,
+      "locales": [
+        "en",
+        "pt-BR",
+        "es",
+        "de",
+        "ja",
+        "zh-Hans"
+      ],
+      "status": "open",
+      "stage": "draft",
+      "owner": "Codex daily editorial author 2026-10-10",
+      "createdAt": "2026-10-10",
+      "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+      "reviewEvidence": {
+        "parser": {
+          "gate": "parser",
+          "kind": "source-parser",
+          "status": "approved",
+          "reviewer": "Pinned real Swift lessonlint 44d807207a08a633330a4b9c555cc0455a3b65d6",
+          "reviewedAt": "2026-10-11T00:05:52+00:00",
+          "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "runtimeCommit": "44d807207a08a633330a4b9c555cc0455a3b65d6",
+          "binarySHA256": "89df4527f278582f12a920645b36934dbbfe6ddcf31f8529ff88ae0b9a3324b2",
+          "sourceSHA256": "f4ec2513983e7cf701dd61664dd11c740a9e6eafa64bc97f023189dd81ddb222",
+          "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-10/210316/candidate-parser.log"
+        },
+        "languages": {
+          "status": "approved",
+          "reviewer": "Codex independent editorial reviewer /root/independent_review 2026-10-10",
+          "reviewedAt": "2026-10-11T00:06:17.024Z",
+          "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+          "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-10/210316/independent-review.md",
+          "gate": "languages",
+          "kind": "independent-language-review",
+          "locales": [
+            "en",
+            "pt-BR",
+            "es",
+            "de",
+            "ja",
+            "zh-Hans"
+          ],
+          "notes": "Independently read all six complete localized regions for all six steps, titles, objectives and checkpoints. Timing, register, corrective instructions, comparison outcomes and self-report limitations agree."
+        },
+        "independent": {
+          "status": "approved",
+          "reviewer": "Codex independent editorial reviewer /root/independent_review 2026-10-10",
+          "reviewedAt": "2026-10-11T00:06:17.024Z",
+          "contentSHA256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+          "reviewReference": "/Users/thiagomartins/Library/Application Support/MacMiniServer/scheduled-jobs/instrument-lessons/2026-10-10/210316/independent-review.md",
+          "gate": "independent",
+          "kind": "independent-content-review",
+          "scope": "approved-pattern-variation",
+          "noNewPhysicalPattern": true,
+          "substantiveObjective": true,
+          "originDocumentSHA256": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+          "patternSHA256": "b92a6fc020007a8fcab1153e20a9bbe61b8d452648cc21149800dad53d45a967",
+          "notes": "Exact original musical block bytes after stable-ID normalization, exact setup/capabilities and registered pilot approval verified by guided-variation module. Adds diagnosis and comparison of ringing rests; only preexisting gentle muting and lighter second stroke. No human playthrough claimed."
+        }
+      },
+      "guidedTarget": {
+        "pathID": "ukulele-foundation",
+        "unitID": "reentrant-foundation",
+        "lessonID": "ukulele-strum-release-check",
+        "role": "extra",
+        "spineVersion": 1
+      },
+      "publicationPolicy": "exact-approved-pattern-and-independent-review",
+      "approvedPattern": {
+        "pathID": "ukulele-foundation",
+        "unitID": "reentrant-foundation",
+        "contentKey": "guided:ukulele-strum-and-rest",
+        "documentSHA256": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+        "patternSHA256": "b92a6fc020007a8fcab1153e20a9bbe61b8d452648cc21149800dad53d45a967",
+        "approvalSHA256": "e751bc279f2828b8a3fc938d8f47406b1c79e1b452b78e98f9d0de8d1e72f574"
+      },
+      "target": {
+        "kind": "file",
+        "path": "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
+        "sha256": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+        "files": [
+          "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
+          "v2/education/paths.json"
+        ]
+      },
+      "targetDigest": "3618d812a0699a7211615390042f91cf6262493a9fbfcae2b3f3f005787b1c75"
     }
   ],
   "newContentModel": "guided-only",

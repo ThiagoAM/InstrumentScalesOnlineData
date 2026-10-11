@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-10T00:08:36.890Z",
+  "generatedAt": "2026-10-11T00:06:56.756Z",
   "locales": [
     "en",
     "pt-BR",
@@ -16,7 +16,7 @@
   "valid": true,
   "counts": {
     "legacy": 838,
-    "guided": 75,
+    "guided": 76,
     "legacyProposals": 75,
     "riffs": 35,
     "failed": 0
@@ -905,7 +905,8 @@
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
-    "v2/education/paths.json": "66718603f93f6078e42f32c38ff23b4d4202b6a13be2ced362a5b072be3dc786",
+    "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
+    "v2/education/paths.json": "92cdd6b1e739428178e560661a39bb045fdb6a41efff328972c3ba4cb1cfcb12",
     "v2/education/syllabus.json": "cdc6c722f803506c27657a3ca253f1db2238317f993d8dd6dcee9cbad1e16de4"
   },
   "candidateFiles": {
@@ -948,6 +949,7 @@
     "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-melody-on-two-strings/lesson.md": "0dc25c667afa1a993e3e99298c4774d10693f314a623600eefdc4ffa1d25c64b",
     "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md": "29dbf6876ecbc6c7ad8b13a2a57a17e7629eec24b8ed99a3499e999ab8fcb8fa",
     "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-strum-and-rest/lesson.md": "46b45f6958f0709b67d62a5198a10efe597df937dc068abdb4eab9a61539f501",
+    "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md": "8514b25931990fe495ef1954c06c195be1f91e8b95055b244407a9c3ba1771b8",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/bass-chromatic-pickup-pair-20260917/lesson.md": "3e8424bd57f73833e61aa369642f8d55900e4045ccd4dac68ec50f657b34701a",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-chromatic-approaches/lessons/guitar-chromatic-third-doors-20260925/lesson.md": "bd600872d827a0c1093f485c5e9711c591c91c7327affcf18d4da38034323bc7",
     "editorial/candidates/legacy-repairs/v2/education/courses/instrument-scales/levels/advanced/sections/advanced/units/scale-harmonic-minor-in-practice/lessons/guitar-augmented-step-door-20260914/lesson.md": "d25b4ac20ca127472cba8e17dfffdc64f472a11b3e5407c74b097c33669f7c10",
@@ -1263,6 +1265,12 @@
           "code": "valid",
           "message": "ok",
           "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-reentrant-unison/lesson.md",
+          "severity": "ok"
+        },
+        {
+          "code": "valid",
+          "message": "ok",
+          "path": "/Users/thiagomartins/Developer/AppsGitHub/InstrumentScalesOnlineData/v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
           "severity": "ok"
         }
       ]
@@ -18511,6 +18519,15 @@
       "parser": "current"
     },
     {
+      "id": "ukulele-strum-release-check",
+      "source": "guided",
+      "file": "v2/education/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
       "id": "guitar-one-string-landmarks",
       "source": "candidate",
       "file": "editorial/candidates/guided/guitar/notes-and-pulse/guitar-one-string-landmarks/lesson.md",
@@ -19531,6 +19548,15 @@
       "id": "piano-rest-self-check",
       "source": "additional-candidate",
       "file": "editorial/candidates/guided/piano/melody-and-support/piano-rest-self-check/lesson.md",
+      "valid": true,
+      "exitCode": 0,
+      "diagnostics": [],
+      "parser": "current"
+    },
+    {
+      "id": "ukulele-strum-release-check",
+      "source": "additional-candidate",
+      "file": "editorial/candidates/guided/ukulele/reentrant-foundation/ukulele-strum-release-check/lesson.md",
       "valid": true,
       "exitCode": 0,
       "diagnostics": [],
